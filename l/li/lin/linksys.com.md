@@ -1,63 +1,24 @@
-> *The following text is extracted and transformed from the linksys.com privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218081915id_/http%3A//www.cisco.com/web/siteassets/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linksys.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514065557id_/http%3A//www.belkin.com/us/privacypolicy) for the most accurate reproduction.*
 
-# Cisco Online Privacy Statement Highlights - Cisco Systems
+# Privacy Policy | Belkin USA Site
 
-## CISCO PRIVACY PORTAL
+### BELKIN INTERNATIONAL, INC.  
+Belkin.com Security and Privacy Statement
 
-Cisco’s privacy portal is dedicated to sharing our privacy and compliance journey with customers, partners and colleagues. We recognize that a key to our business is building and maintaining trust, reducing risk and simply doing what is right. Fundamental to that concept is our philosophy that “Protecting information is everyone’s responsibility.”
+At belkin.com we protect your credit card information and privacy by using SSL (Secure Socket Layer) technology (the industry standard security protocol), hosting our site on secure servers, and maintaining Secure Site status from VeriSign, the security industry leader.
 
-[****Learn More****](https://web.archive.org/web/about/doing_business/legal/privacy_compliance/index.html#~1)
+### Secure Credit Card Transactions
 
-_The Cisco[Online Privacy Statement](https://web.archive.org/web/siteassets/legal/privacy_full.html) and this summary apply to Cisco’s websites and our affiliates’ websites that link to the Statement._
+When you provide us with any personal information, such as your credit card number when making a purchase, we use SSL data encryption to ensure that no one can read as it is transmitted over the Internet. We use Cookies (small encrypted data files containing references to user ID information that are stored on our secure server and may write to your hard drive) to keep track of your shopping cart. Your information is safely stored behind a firewall that protects it from users from other networks.
 
-Cisco respects and is committed to protecting your personal information. Our privacy policies reflect current global principles and standards on handling personal information – notice and choice of data use, data access and integrity, security, onward transfer and enforcement/oversight. Below are some of the highlights of our [Online Privacy Statement](https://web.archive.org/web/siteassets/legal/privacy_full.html).
+### Your Personal Information
 
-### Personal Information
+To process your order, notify you of matters that may be of interest and improve your belkin.com shopping experience, we collect information, such as e-mail addresses, domain names, the number of visits each page receives, and other information you may volunteer. Any personal information that you submit to the site will remain as safe and secure as your credit card information.
 
-  * We collect personal information for a variety of reasons, such as processing your order, providing you with a newsletter subscription, personalizing your experience, or in connection with a job application.
-  * We will inform you of the purpose for collecting personal information when we collect it from you and keep it to fulfill the purposes for which it was collected or as required by applicable laws or for legitimate purposes.
-  * We may combine the information we collect from you with information obtained from other sources to help us improve its overall accuracy and completeness, and to help us better tailor our interactions with you.
-  * We may also collect information relating to your use of our websites through the use of various technologies, including cookies.
+### Removal From Belkin.com Lists
 
+You may receive periodic emails or postal mailings from us with information on new products and services, or upcoming events. If you do not want to receive e-mail and/ or postal mail from us in the future, please let us know by sending us an email at customerservice@belkin.com. Belkin.com does not currently rent, sell or otherwise forward your name or other personal information to other companies.
 
+### Links To Other Sites
 
-### Notice and Your Choices of Data Use
-
-  * We will use your personal information for the purpose it was collected and will not use it for a different purpose without first asking for your permission.
-  * We will ask your permission before we share your personal information with third parties for any purpose other than the reason you provided it or as otherwise stated in our [Online Privacy Statement](https://web.archive.org/web/siteassets/legal/privacy_full.html).
-  * For information relating to your use of our websites, you may turn off cookies in your browser.
-
-
-
-### Data Access and Integrity
-
-  * To update your personal information and communication preference, contact [privacy@cisco.com](mailto:privacy@cisco.com) or visit the specific product or service web site.
-
-
-
-### Data Security
-
-  * We are committed to protecting your personal information against unauthorized use or disclosure.
-
-
-
-### Onward Transfer
-
-  * As a global company, we may transfer your personal information to Cisco in the United States, to any Cisco subsidiary worldwide or to third parties acting on our behalf located outside of the country where the data is collected where data protection standards may be different.
-  * We do not transfer your personal information to third parties unless those third parties promise to give the information the equivalent level of protection that we provide.
-
-
-
-### Important Information
-
-  * We follow privacy policies and data protection practices not only to comply with the law but to earn the trust and confidence in Cisco.
-  * We address inquiries or complaints regarding personal information promptly and courteously. Cisco is a member of TRUSTe ([www.truste.com](http://www.truste.com/)) so if you are not satisfied with our response, you can contact TRUSTe [here](http://watchdog.truste.com/pvr.php?page=complaint&url=).
-  * Cisco participates in the EU Safe Harbor Privacy Framework as set forth by the United States Department of Commerce. As part of the participation in the Safe Harbor, we have agreed to TRUSTe Watchdog dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework.
-
-
-
-### References
-
-To find out more about our privacy practices, see the Cisco [Online Privacy Statement](https://web.archive.org/web/siteassets/legal/privacy_full.html). Also, for additional information about our privacy and security compliance program, we encourage you to visit our [Privacy Portal](http://www.cisco.com/web/about/doing_business/legal/privacy_compliance/index.html#~1,).
-
-_Last updated: January 2012_
+Belkin.com contains links to other sites. We are not responsible for the privacy practices or the content of such sites.
