@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the andotherbrands.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213021234id_/http%3A//www.andotherbrands.com/privacy-en) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the andotherbrands.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514055845id_/http%3A//www.andotherbrands.com/privacy-en) for the most accurate reproduction.*
 
 # Content | And Other Brands
 
