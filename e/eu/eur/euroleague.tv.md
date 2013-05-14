@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the euroleague.tv privacy policy that was archived on 2012-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121112192451id_/http%3A//www.euroleague.tv/help/option/5863) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the euroleague.tv privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514175821id_/http%3A//www.euroleague.tv/help/option/5863) for the most accurate reproduction.*
 
 # Euroleague Basketball
 
