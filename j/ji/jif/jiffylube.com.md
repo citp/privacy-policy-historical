@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jiffylube.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920003530id_/http%3A//www.jiffylube.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jiffylube.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514071043id_/http%3A//www.jiffylube.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Jiffy Lube - Privacy Policy
 
@@ -15,6 +15,8 @@ Jiffy Lube highly values its customer relationships and we created this Statemen
 **Information from Other Sources.** We may obtain both personal and non-personal information about you from other Shell Companies, business partners, contractors and other third parties. Examples of information that we may receive include additional demographic information. 
 
 **Information about Others.** We may also collect and store personal information that you provide to us about another person (such as through the "Tell a Friend" feature of our website) including name and e-mail address. 
+
+Please Note: For information purposes, cookies (small text files) are used and will be stored on your device upon visiting our website, mobile website or visiting a third party supplier. For more information refer to our [Cookies Policy](https://web.archive.org/web/20130514071043id_/http%3A//www.jiffylube.com/cookiespolicy.aspx).
 
 2\. HOW WE USE YOUR INFORMATION
 
