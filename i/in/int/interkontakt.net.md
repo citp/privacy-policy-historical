@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interkontakt.net privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109194531id_/http%3A//www.interkontakt.net/datasavety.php%3Fl%3Den%26randm%3D2%26randw%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interkontakt.net privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515004241id_/http%3A//www.interkontakt.net/datasavety.php%3Fl%3Den%26randm%3D2%26randw%3D3) for the most accurate reproduction.*
 
 # InterKontakt NET
 
@@ -94,5 +94,5 @@ The author intended not to use any copyrighted material for the publication or, 
 
 This disclaimer is to be regarded as part of the internet publication which you were referred from. If sections or individual terms of this statement are not legal or correct, the content or validity of the other parts remain uninfluenced by this fact.   
 | | | |   
-[Hotel Thailand](https://web.archive.org/hotel_thailand.php) | | |  | [Freeware](https://web.archive.org/web/20121109194531id_/http%3A//www.interkontakt.net/freeware.php?l=en&randm=3&randw=5)|  | [Languages](https://web.archive.org/web/20121109194531id_/http%3A//www.interkontakt.net/languages_all.php?l=en&randm=3&randw=5)|  | [Privacy Policy](https://web.archive.org/web/20121109194531id_/http%3A//www.interkontakt.net/datasavety.php?l=en&randm=3&randw=5)|  | [Terms of service](https://web.archive.org/web/20121109194531id_/http%3A//www.interkontakt.net/agb.php?l=en&randm=3&randw=5)  
----|---|---|---|---|---
+  
+[Books](https://web.archive.org/amazonbooklinks.php) | [Freeware](https://web.archive.org/freeware.php?l=en&randm=3&randw=5) | [Languages](https://web.archive.org/languages_all.php?l=en&randm=3&randw=5) | [Privacy Policy](https://web.archive.org/datasavety.php?l=en&randm=3&randw=5) | [Terms of service](https://web.archive.org/agb.php?l=en&randm=3&randw=5) | [Feedback](https://web.archive.org/ikfeedback.php?l=en)
