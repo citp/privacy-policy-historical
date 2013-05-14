@@ -1,14 +1,21 @@
-<!--The following is the downloaded HTML source of the atmel.com privacy policy that was archived on 2012-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121226231107id_/http%3A//www.atmel.com/About/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the atmel.com privacy policy that was archived on 2013-05-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130514122518id_/http%3A//atmel.com/About/privacy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" class="loading ready js"><head id="ctl00_ctl00_masterHead"><script type="text/javascript" async="" src="/System/Javascript/elqCfg.min.js"></script><script src="https://secure.atmel.com/forms/Secure/SignOn/SessionInfo.ashx?callback=jsonp1580458438180"></script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" class="loading ready js"><head id="ctl00_ctl00_masterHead"><script type="text/javascript" async="" src="/System/Javascript/elqCfg.min.js"></script><script src="https://secure.atmel.com/forms/Secure/SignOn/SessionInfo.ashx?callback=jsonp1580458439293"></script>    <!-- [01/18/2013]Added empty title tag with visibility false.This is to remove the duplicate Title tag in all pages. Dotnet looks for title tag; if it doesn't find, it will add title tag by default.-->
     
     
-<title>Privacy Policy - Atmel Corporation</title>
+    
+<title>Privacy Policy</title>
+
+
+
+
     
 <meta http-equiv="Content-type" content="text/html; charset=utf-8"><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE8">
-    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/System/JavaScript/jquery-1.4.1.js"></script>
+    <script type="text/javascript" async="" src="https://api.demandbase.com/api/v2/ip.json?key=d63e3e6b56346b29975512f072c96cbaf06c5fa8&amp;callback=DemandbaseAnalytics.demandbaseGA.track&amp;page=https://web.archive.org/web/20130514122518id_/http%3A//atmel.com/About/privacy.aspx&amp;referrer="></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/System/JavaScript/jquery-1.4.1.js"></script>
     <link rel="shortcut icon" href="/Images/favicon.ico" type="/image/vnd.microsoft.icon"><link rel="stylesheet" href="/System/Styles/style.css" type="text/css" media="screen"><link rel="stylesheet" href="/System/Styles/jquery.lightbox-0.5.css" type="text/css" media="screen"><link rel="stylesheet" href="/System/Styles/print.css" type="text/css" media="print"><link rel="stylesheet" href="/ProductFinder/ProductFinder/css/finder.css" type="text/css">
+    <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
     <script type="text/javascript">
         jQuery(document).ready(function ($) {
             $.ajax({
@@ -39,29 +46,98 @@
                 }
             });
             var elqck = readCookie('elqcg');
-            if(elqck=="") {
+            if (elqck == "") {
                 WaitUntilCustomerGUIDIsRetrieved();
                 _elqQ.push(['elqGetCustomerGUID']);
             }
         });
     </script>
-    
+
     <script type="text/javascript">
         var _gaq = _gaq || [];
-        _gaq.push(['_setAccount', 'UA-2587932-1']);   //UA-2587932-1
+        _gaq.push(['_setAccount', 'UA-2587932-1']);   // UA-2587932-1
         _gaq.push(['_setDomainName', '.atmel.com']);
         _gaq.push(['_setAllowLinker', true]);
         _gaq.push(['_setAllowAnchor', true]);
         _gaq.push(['_trackPageview']);
         _gaq.push(['_trackPageLoadTime']);
-        (function()  {
+        (function () {
             var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
             ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
             var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-          })();
+        })();
     </script>
+
+<!-- Demandbase/GA Integration -->
+<!-- This script works along side your current GA integration.  Place this script at the END of the HTML head -->  
+<script type="text/javascript">
+  var DemandbaseAnalytics=DemandbaseAnalytics||{};
+  DemandbaseAnalytics.demandbaseGA={
+    key:'d63e3e6b56346b29975512f072c96cbaf06c5fa8',
+    /* Customize which variables are sent to GA. 'fields' must be a Demandbase variable name */
+    fields:["revenue_range","employee_range","industry","audience", "marketing_alias"],
+    fieldLabels:["Revenue Range","Employee Range","Industry","Audience", "Marketing Alias"],
+    track:function(data) {
+        try {
+          data=DemandbaseAnalytics.demandbaseGA._flatA(data);
+          for(field in DemandbaseAnalytics.demandbaseGA.fields){
+            var flbl=DemandbaseAnalytics.demandbaseGA.fieldLabels[field], fval=data[DemandbaseAnalytics.demandbaseGA.fields[field]]||'';          
+            if(flbl=='  ') {
+              var status=data['watch_list_status']||'', sreg=data['watch_list_sales_region']||'';
+              if(status!='') fval=fval+' : '+status;
+              if(sreg!='') fval=fval+' : '+sreg;
+            }
+            DemandbaseAnalytics.demandbaseGA._var((parseInt(field)+1),
+            DemandbaseAnalytics.demandbaseGA._cA(DemandbaseAnalytics.demandbaseGA._toPC(flbl)),fval,1);
+            DemandbaseAnalytics.demandbaseGA._logE(DemandbaseAnalytics.demandbaseGA._toPC(flbl)+' : '+fval);
+          }
+          if(data) {
+            var cat=data['watch_list_sales_region'] || '(not in watch list)';
+            var act=data['watch_list_status'] || '(not in watch list)';
+            var lbl=data['marketing_alias'] || '(not detected)';
+            /*additional event with Demandbase data as category/action/label*/
+            DemandbaseAnalytics.demandbaseGA._p('_trackEvent',cat,act,lbl,0,1); 
+            DemandbaseAnalytics.demandbaseGA._logE('Custom Event Tracked: '+cat+' : '+act+' : '+lbl);
+          }
+          DemandbaseAnalytics.demandbaseGA._event();
+        } catch(e){ DemandbaseAnalytics.demandbaseGA._logE('Integration Error: '+e)}; 
+      },
+    load:function(){
+      try { 
+        if(!window._gaq) window._gaq=[];
+        var db=document.createElement('script');db.type='text/javascript'; db.async=true;
+            db.src=('https:'==document.location.protocol?'https://':'http://')+'api.demandbase.com/api/v2/ip.json?key='+this.key+'&callback=DemandbaseAnalytics.demandbaseGA.track&page='+document.URL+'&referrer='+document.referrer; /*+'&query=109.104.124.192';*/
+            var s=document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(db,s);
+            _gaq.push(['_addDevId', 'NE7T9']);
+            DemandbaseAnalytics.demandbaseGA._logE('Loaded Script ' + db.src);
+      } catch(e){ this._logE('Script Error: '+e)}; 
+    },
+    _cA:function(s){ 
+      return s;
+    },
+    _flatA:function(a){ 
+      for(d in a){ 
+        if(typeof a[d]=='object'){ 
+          for(cd in a[d]){a[d+'_'+cd]=a[d][cd]};
+          delete a[d];
+        }
+      }; 
+      return a;
+    },
+    _logE:function(m){ if(window['console'] !== 'undefined' && typeof(console) !== 'undefined') console.log('DB GA '+m); },
+    _toPC:function(s){ 
+        return s; 
+    },
+    _p:function(t,v1,v2,v3,v4,v5){ window._gaq.push([t,v1,v2,v3,v4,v5]); },
+    _var:function(i,k,v,s){ this._p('_setCustomVar',i,k,v,s); },
+    _event:function(){ this._p('_trackEvent','Demandbase','API Resolution','IP API',0,1); }
+  };
+  DemandbaseAnalytics.demandbaseGA.load();
+</script>
+<!-- End Demandbase/GA Integration -->
+
     <script type="text/javascript">
-        if ('1733930802'!='[LBL{primary_master_eloqua_siteid}]') {
+        if ('1733930802' != '[LBL{primary_master_eloqua_siteid}]') {
             var _elqQ = _elqQ || [];
             _elqQ.push(['elqSetSiteId', '1733930802']);
             _elqQ.push(['elqTrackPageView']);
@@ -79,7 +155,7 @@
     <script type="text/javascript">
         /*keeps mootools error from popping up... doesn't do anything if other js error*/
         window.onerror = function (msg, url, linenumber) {
-            if (msg.substring(0,39) == "'this.element' is null or not an object") {
+            if (msg.substring(0, 39) == "'this.element' is null or not an object") {
                 return true;
             }
         }
@@ -103,39 +179,38 @@
             jQuery("#overlayFavorite").css('left', x.left - jQuery("#overlayFavorite").width() + jQuery("#" + obj).width());
             jQuery("#overlayFavorite").fadeIn(200);
             jQuery("html, body").animate({ scrollTop: jQuery('#' + obj).offset().top }, 'normal');
-            jQuery("#SaveFavorite").focus();      
-                      
-            jQuery("#SaveFavorite").click(function() {
-                AddToFavourites(pageName, pageUrl, function(retResult) {
+            jQuery("#SaveFavorite").focus();
+
+            jQuery("#SaveFavorite").click(function () {
+                AddToFavourites(pageName, pageUrl, function (retResult) {
                     if (retResult) {
                         jQuery("#" + obj).hide();
                         jQuery("#" + obj + "Exists").show();
                         jQuery("#overlayFavorite").hide();
                         document.getElementById('fade').style.display = 'none'; //background disable
                     }
-                    else
-                    {
+                    else {
                         jQuery("#overlayFavorite").hide();
                         document.getElementById('fade').style.display = 'none'; //background disable                    
                     }
                     jQuery("#overlayFavorite").empty();
                 });
             })
-            jQuery("#CancelFavorite").click(function() {
+            jQuery("#CancelFavorite").click(function () {
                 document.getElementById('overlayFavorite').style.display = 'none';
                 document.getElementById('fade').style.display = 'none';
                 jQuery("#overlayFavorite").empty();
             })
-            jQuery("#txtlnkName").keypress(function(event) {
+            jQuery("#txtlnkName").keypress(function (event) {
                 if (event.which == 13) {
                     jQuery('#SaveFavorite').click();
                     event.preventDefault();
                 }
-            }); 
+            });
         }     
     </script>
     <script type="text/javascript">
-       function AddToFavourites(pageTitle, pageUrl, callback) {
+        function AddToFavourites(pageTitle, pageUrl, callback) {
             var lnkName = typeof (pageTitle) != "undefined" ? pageTitle : jQuery("#txtlnkName").val();
             var lnkUrl = typeof (pageUrl) != "undefined" ? pageUrl : encodeURIComponent(document.URL);
             if (lnkUrl == "")
@@ -149,7 +224,7 @@
                 data: 'lnkName=' + lnkName + '&lnkUrl=' + lnkUrl,
                 timeout: 9000,
                 //if response is successfull, check for authentication status
-                success: function(data) {
+                success: function (data) {
                     var sResult = eval(data);
                     if (typeof (sResult) != "undefined") {
                         if (sResult.Status == "OK")
@@ -161,54 +236,49 @@
                     }
                     else callback(false);
                 },
-                error: function(data) {
+                error: function (data) {
                     callback(false);
                 }
             });
-        } 
-       /*Function to log the gac.push onlick on general links*/
-       function TrackLink(sectionCategory, linkAction, linkText) {
-            _gaq.push(['_trackEvent',sectionCategory,linkAction,linkText]);  
-       }
-       /*Function to log the software download details*/
-       function TrackDownload(targetUri,assetTitle,assetType,reqRegistn,docType) {
-            if(typeof (assetType) == "undefined" || assetType=="") 
+        }
+        /*Function to log the gac.push onlick on general links*/
+        function TrackLink(sectionCategory, linkAction, linkText) {
+            _gaq.push(['_trackEvent', sectionCategory, linkAction, linkText]);
+        }
+        /*Function to log the software download details*/
+        function TrackDownload(targetUri, assetTitle, assetType, reqRegistn, docType) {
+            if (typeof (assetType) == "undefined" || assetType == "")
                 assetType = "Software";
-            _gaq.push(['_trackEvent','Downloads',assetType,assetTitle]);  
-            if(typeof (targetUri) == "undefined" || targetUri=="")
+            _gaq.push(['_trackEvent', 'Downloads', assetType, assetTitle]);
+            if (typeof (targetUri) == "undefined" || targetUri == "")
                 return true;
-            if(typeof (reqRegistn) != "undefined" && reqRegistn=="Yes")
-                return true;                                 
+            if (typeof (reqRegistn) != "undefined" && reqRegistn == "Yes")
+                return true;
             jQuery.ajax({
                 Type: "GET",
                 url: "https://secure.atmel.com/secure/DownloadHelper.ashx",
                 dataType: 'jsonp',
+                async: false,
                 data: 'target=' + targetUri,
-                timeout: 9000,                
-                success: function(data) {
+                timeout: 9000,
+                success: function (data) {
                     var sResult = eval(data);
                     if (typeof (sResult) != "undefined") {
-                        if (sResult.Status == "OK") 
-                            return true;                        
+                        if (sResult.Status == "OK")
+                            return true;
                         else if (sResult.Status == "ERROR")
                             return true; //show error label (TODO:show exists error)
                         else if (sResult.Status == "INVALID")
                             return true; //show error label
                     }
-                    else                    
-                        return true; 
+                    else
+                        return true;
                 },
-                error: function(data) {
-                    return true;;
+                error: function (data) {
+                    return true; ;
                 }
             });
-            wait(100);
         }
-       function wait(ms) {
-            var start = +(new Date());
-            while (new Date() - start < ms);
-        }
-
         /*Function to read the cookie value for given name check if cookie holds any value then return its value else return empty.*/
         function readCookie(cname) {
             if (document.cookie.length > 0) {
@@ -217,7 +287,7 @@
                     cstart = cstart + cname.length + 1;
                     cend = document.cookie.indexOf("|", cstart);
                     if (cend == -1) cend = document.cookie.length;
-                        return unescape(document.cookie.substring(cstart, cend));
+                    return unescape(document.cookie.substring(cstart, cend));
                 }
             }
             return "";
@@ -227,26 +297,24 @@
             var exdate = new Date();
             exdate.setDate(exdate.getDate() + expiredays);
             document.cookie = cname + "=" + escape(value) + ((expiredays == null) ? "" : "|expires=" + exdate.toUTCString()) + ";domain=.atmel.com;path=/";
-        }        
+        }
         var timerId = null, timeout = 5;
         /*Function to get eloqua cust id*/
         function WaitUntilCustomerGUIDIsRetrieved() {
-    	    if (!!(timerId)) {
-    		    if (timeout == 0)
-    			    return;		    
-		        if (typeof this.GetElqCustomerGUID === 'function') {
-			        setCookie('elqcg',GetElqCustomerGUID());    
-			        return;
-		        }
-		    timeout -= 1;
-	        }
-	        timerId = setTimeout("WaitUntilCustomerGUIDIsRetrieved()", 500);
-	        return;
-       }
+            if (!!(timerId)) {
+                if (timeout == 0)
+                    return;
+                if (typeof this.GetElqCustomerGUID === 'function') {
+                    setCookie('elqcg', GetElqCustomerGUID());
+                    return;
+                }
+                timeout -= 1;
+            }
+            timerId = setTimeout("WaitUntilCustomerGUIDIsRetrieved()", 500);
+            return;
+        }
     </script>
-<title>
-
-</title><script type="text/javascript" src="https://web.archive.org/web/20120721010231/https://secure.eloqua.com/visitor/v200/svrGP?pps=70&amp;siteid=1733930802&amp;ref=&amp;ms=203"></script></head>
+<script type="text/javascript" src="https://web.archive.org/web/20120721010231/https://secure.eloqua.com/visitor/v200/svrGP?pps=70&amp;siteid=1733930802&amp;ref=&amp;ms=389"></script></head>
 <!--[if lt IE 7 ]> <body class="ie6 page"> <![endif]-->
 <!--[if IE 7 ]>    <body class="ie7 page"> <![endif]-->
 <!--[if IE 8 ]>    <body class="ie8 page"> <![endif]-->
@@ -271,6 +339,7 @@
                 <li><a href="/">English</a></li>
                 <li><a href="/zh/cn/">简体中文 - Chinese (Simplified)</a></li>
                 <li><a href="/ja/jp/">日本語 - Japanese</a></li>
+                <li><a href="/ru/ru/">русский - Russian</a></li>
             </ul>
         </li>
         
@@ -302,8 +371,18 @@
         <li id="liHeaderLinkLogIn" style="display:none;">            
             <a href="/forms/Secure/verifylogin.aspx?target_url=EN" onclick="TrackLink('myAtmel','My Account','Top Navigation - Login');">Log In</a>
          </li>
-        <li id="liHeaderLinkCart" class="cart"><a href="http://store.atmel.com/ShoppingCart.aspx?source=global_nav">Cart</a></li>
-     </ul>
+         <script type="text/javascript">
+            var url = "/";
+            var cartCssClass = "cart";
+            if (url.indexOf("/ru/ru/")>=0) { 
+                 cartCssClass = cartCssClass + "_RU"; 
+                 document.write('<li id="liHeaderLinkCart" class="'+ cartCssClass +'"><a href="http://store.atmel.com/ShoppingCart.aspx?source=global_nav">Cart</a></li>');
+            }
+            else {
+                 document.write('<li id="liHeaderLinkCart" class="'+ cartCssClass +'"><a href="http://store.atmel.com/ShoppingCart.aspx?source=global_nav">Cart</a></li>');
+            }
+        </script><li id="liHeaderLinkCart" class="cart"><a href="http://store.atmel.com/ShoppingCart.aspx?source=global_nav">Cart</a></li>
+    </ul>
 </div>
 
                     
@@ -400,19 +479,16 @@
         <li>
           <a href="/products/memories/eprom/default.aspx">OTP EPROM</a>
         </li>
-        <li>
-          <a href="/products/memories/sflash/default.aspx">Serial Flash</a>
-        </li>
       </ul>
       <div class="groupheader">
         <a href="/products/automotive/default.aspx">Automotive</a>
       </div>
       <ul>
         <li>
-          <a href="/products/automotive/automotive_control/default.aspx">Automotive Control</a>
+          <a href="/products/automotive/automotive_microcontrollers/default.aspx">Automotive Microcontrollers</a>
         </li>
         <li>
-          <a href="/products/automotive/automotive_microcontrollers/default.aspx">Automotive Microcontrollers</a>
+          <a href="/products/automotive/serial_eeprom/default.aspx">Automotive Serial EEPROMs</a>
         </li>
         <li>
           <a href="/products/automotive/automotive_touch/default.aspx">Automotive Touch</a>
@@ -428,9 +504,6 @@
         </li>
         <li>
           <a href="/products/automotive/drivers/default.aspx">Drivers/High-Temperature ICs</a>
-        </li>
-        <li>
-          <a href="/products/automotive/industrial/default.aspx">Industrial Control</a>
         </li>
         <li>
           <a href="/products/automotive/liionbattery/default.aspx">Battery Management</a>
@@ -482,6 +555,9 @@
         </li>
       </ul>
     </div>
+    <div style="margin-top:350px;margin-right:10px;margin-left:400px">
+      <a href="/products/selector_overview.aspx">» Parametric Product Selector</a>
+    </div>
   </div>
 </li>
 <li class="fixed">
@@ -493,16 +569,13 @@
       </div>
       <ul>
         <li>
-          <a href="/applications/automotive/automotivecontrol/default.aspx">Automotive Control</a>
-        </li>
-        <li>
           <a href="/applications/automotive/battery_mgmt/default.aspx">Battery Management</a>
         </li>
         <li>
           <a href="/applications/automotive/car_access/default.aspx">Car Access</a>
         </li>
         <li>
-          <a href="/applications/automotive/infotainment/default.aspx">Infotainment</a>
+          <a href="/applications/automotive/car_radio/default.aspx">Car Radio</a>
         </li>
         <li>
           <a href="/applications/automotive/networking/default.aspx">Networking</a>
@@ -616,20 +689,20 @@
     </div>
     <div class="groupleft">
       <div class="groupheader">
-        <a href="/applications/metering/default.aspx">Metering</a>
+        <a href="/applications/smart_energy/default.aspx">Smart Energy</a>
       </div>
       <ul>
         <li>
-          <a href="/applications/metering/electricity_meters/default.aspx">Electricity Meters</a>
+          <a href="/applications/smart_energy/electricity_meters/default.aspx">Electricity Meters</a>
         </li>
         <li>
-          <a href="/applications/metering/gas_water_meters/default.aspx">Gas and Water Meters</a>
+          <a href="/applications/smart_energy/gas_water_meters/default.aspx">Gas and Water Meters</a>
         </li>
         <li>
-          <a href="/applications/metering/data_concentrators/default.aspx">Data Concentrators</a>
+          <a href="/applications/smart_energy/data_concentrators/default.aspx">Data Concentrators</a>
         </li>
         <li>
-          <a href="/applications/metering/in-home-display-units/default.aspx">In-Home Display Units</a>
+          <a href="/applications/smart_energy/in-home-display-units/default.aspx">In-Home Display Units</a>
         </li>
       </ul>
       <div class="groupheader">
@@ -741,7 +814,7 @@
         </li>
       </ul>
       <div class="groupheader">
-        <a href="/design-support/software-tools/default.aspx">Software</a>
+        <a href="/design-support/software-tools/default.aspx">Tools and Software</a>
       </div>
       <ul>
         <li>
@@ -833,6 +906,9 @@
       </div>
       <ul>
         <li>
+          <a href="http://www.atmelcorporation.wordpress.com">Embedded Design Blog</a>
+        </li>
+        <li>
           <a href="http://www.avrfreaks.net/">AVRFreaks (AVR)</a>
         </li>
         <li>
@@ -899,6 +975,9 @@
     </div>
     <div class="groupleft">
     </div>
+    <div style="margin-top:450px;margin-right:10px;margin-left:400px">
+      <a href="/products/selector_overview.aspx">» Parametric Product Selector</a>
+    </div>
   </div>
 </li>
 <li class="fixed">
@@ -945,8 +1024,6 @@
           <a href="http://www.atmelcorporation.wordpress.com">Embedded Design Blog</a>
         </li>
       </ul>
-    </div>
-    <div class="groupleft">
       <div class="groupheader">
         <a href="/about/contact/default.aspx?contactType=Online%20Directory">Contact Atmel</a>
       </div>
@@ -958,6 +1035,8 @@
           <a href="/about/contact/default.aspx?contactType=Distributor">Distributors and Sales Reps</a>
         </li>
       </ul>
+    </div>
+    <div class="groupleft">
       <div class="groupheader">
         <a href="http://ir.atmel.com/index.cfm?source=global_nav">Investors</a>
       </div>
@@ -987,8 +1066,6 @@
           <a href="http://ir.atmel.com/directors.cfm">Board of Directors</a>
         </li>
       </ul>
-    </div>
-    <div class="groupleft">
       <div class="groupheader">
         <a href="/about/careers/careers.aspx">Careers</a>
       </div>
@@ -997,6 +1074,16 @@
           <a href="https://performancemanager4.successfactors.com/career?company=Atmel">Job Openings</a>
         </li>
       </ul>
+      <div class="groupheader">
+        <a href="/about/suppliers/purchasing_terms.aspx">Suppliers</a>
+      </div>
+      <ul>
+        <li>
+          <a href="/about/suppliers/purchasing_terms.aspx">Purchasing Terms</a>
+        </li>
+      </ul>
+    </div>
+    <div class="groupleft">
       <div class="groupheader">
         <a href="/about/quality/default.aspx">Quality</a>
       </div>
@@ -1033,6 +1120,8 @@
         </li>
       </ul>
     </div>
+    <div class="groupleft">
+    </div>
   </div>
 </li>
 <li class="fixed">
@@ -1046,7 +1135,7 @@
           <a href="http://store.atmel.com/">Atmel Store</a>
         </li>
         <li>
-          <a href="/forms/sample-request.aspx">Request a Sample</a>
+          <a href="/forms/secure/verifylogin.aspx?target_url=samplestore">Request a Sample</a>
         </li>
         <li>
           <a href="/buy/inventory/default.aspx">Check Inventory</a>
@@ -1078,7 +1167,7 @@
         
             <div id="left-column">
                 <!--googleoff: all-->
-                <div id="finder" class="finder"></div><!--
+                <!--
       [page_url:/about/privacy.aspx == /t-/b-/p-/s-/nt-]
       [page_raw_url:/about/privacy.aspx == /t-/b-/p-/s-/nt-]
       [refering_product:]
@@ -1264,15 +1353,15 @@ San Jose, California 95110</p><p>Privacy Policy, ©2011-2012 Atmel Corporation. 
                     
 <div id="footer-social">
     
-    <a href="/facebook"><img src="/Images/facebook.png" alt="Facebook"></a>&nbsp;
+    <a href="/facebook" target="_blank"><img src="/Images/facebook.png" alt="Facebook"></a>&nbsp;
     
-    <a href="/twitter"><img src="/Images/twitter.png" alt="Twitter"></a>&nbsp;
+    <a href="/twitter" target="_blank"><img src="/Images/twitter.png" alt="Twitter"></a>&nbsp;
     
-    <a href="/linkedin"><img src="/Images/linkedin.png" alt="LinkedIn"></a>&nbsp;
+    <a href="/linkedin" target="_blank"><img src="/Images/linkedin.png" alt="LinkedIn"></a>&nbsp;
     
-    <a href="/youtube"><img src="/Images/youtube.png" alt="YouTube"></a>&nbsp;
+    <a href="/youtube" target="_blank"><img src="/Images/youtube.png" alt="YouTube"></a>&nbsp;
     
-    <a href="/rss/press_feed.xml?source=footer"><img src="/Images/rss.png" alt="RSS"></a>&nbsp;
+    <a href="/rss/press_feed.xml?source=footer" target="_blank"><img src="/Images/rss.png" alt="RSS"></a>&nbsp;
     
 </div>
 <div id="footer-meta">
@@ -1280,7 +1369,7 @@ San Jose, California 95110</p><p>Privacy Policy, ©2011-2012 Atmel Corporation. 
         
         <li><a href="/About/contact/default.aspx?contactType=Online%20Directory">Contact</a></li>
         
-        <li><a href="https://performancemanager4.successfactors.com/career?company=Atmel">Jobs</a></li>
+        <li><a href="https://performancemanager4.successfactors.com/career?company=Atmel" target="_blank">Jobs</a></li>
         
         <li><a href="/About/legal.aspx">Site Use Terms</a></li>
         
@@ -1290,7 +1379,7 @@ San Jose, California 95110</p><p>Privacy Policy, ©2011-2012 Atmel Corporation. 
         
         <li><a href="/About/terms.aspx">Sales Terms</a></li>
         
-        <li>© 2012 Atmel Corporation</li>
+        <li>© 2013 Atmel Corporation</li>
     </ul>
 </div>
                 
@@ -1348,7 +1437,7 @@ San Jose, California 95110</p><p>Privacy Policy, ©2011-2012 Atmel Corporation. 
       <a href="/applications/lighting/default.aspx">Lighting</a>
     </li>
     <li>
-      <a href="/applications/metering/default.aspx">Metering</a>
+      <a href="/applications/smart_energy/default.aspx">Smart Energy</a>
     </li>
     <li>
       <a href="/applications/mobile_electronics/default.aspx">Mobile Electronics</a>
@@ -1429,6 +1518,12 @@ San Jose, California 95110</p><p>Privacy Policy, ©2011-2012 Atmel Corporation. 
       <a href="/about/careers/careers.aspx">Careers</a>
     </li>
     <li>
+      <a href="/about/suppliers/purchasing_terms.aspx">Suppliers</a>
+    </li>
+    <li>
+      <a href="http://www.atmelcorporation.wordpress.com">Embedded Design Blog</a>
+    </li>
+    <li>
       <a href="/about/quality/default.aspx">Quality</a>
     </li>
   </ul>
@@ -1473,15 +1568,6 @@ San Jose, California 95110</p><p>Privacy Policy, ©2011-2012 Atmel Corporation. 
         <script type="text/javascript" src="/System/JavaScript/filters.js"></script><!-- MooTools Behaviours -->
         <script type="text/javascript" src="/System/JavaScript/finder-config.js"></script><!-- Product Finder Configuration -->
 
-        <!-- Begin Optify Tracking Code. Please place immediately before closing </BODY> tag -->
-        <script type="text/javascript">
-            var optJsHost = (("https:" == document.location.protocol) ? "https://" : "http://");
-            document.write(unescape("%3Cscript src='" + optJsHost + "service.optify.net/opt.js' type='text/javascript'%3E%3C/script%3E"));
-        </script><script src="https://service.optify.net/opt.js" type="text/javascript"></script>
-        <script type="text/javascript"> 
-            try { _opt.view("3056O7SQ"); } catch(err) {} 
-        </script>
-        <!-- End Optify Tracking Code. Please place immediately before closing </BODY> tag -->
 
         <!-- BEGIN Cross-browser code -->
         <script type="text/javascript" src="/System/JavaScript/ga-functions.js"></script>
@@ -1503,4 +1589,40 @@ San Jose, California 95110</p><p>Privacy Policy, ©2011-2012 Atmel Corporation. 
     
     
 
-<div id="modal-container" style="display: none;"></div><img src="/Images/white.png" id="modal-background" style="display: none;"><div id="modal-close" style="display: none;"></div></body></html>
+    <!-- Google Code for Remarketing tag --> 
+    <!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide:      google.com/ads/remarketingsetup --> 
+    <script type="text/javascript"> 
+           /* <![CDATA[ */ 
+           var google_conversion_id = 1033858349; 
+           var google_conversion_label = "t-x8CJnetgQQrdr97AM"; 
+           var google_custom_params = window.google_tag_params; 
+           var google_remarketing_only = true; 
+           /* ]]> */ 
+     </script> 
+     <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"> 
+     </script> 
+     <noscript> 
+        <div style="display:inline;"> 
+            <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1033858349/?value=0&label=t-x8CJnetgQQrdr97AM&guid=ON&script=0"/> 
+        </div> 
+     </noscript>
+
+     <script type="text/javascript">
+            var _sf_async_config = { uid: 47222, domain: 'atmel.com', useCanonical: true };
+            (function() {
+                  function loadChartbeat() {
+                       window._sf_endpt = (new Date()).getTime();
+                       var e = document.createElement('script');
+                       e.setAttribute('language', 'javascript');
+                       e.setAttribute('type', 'text/javascript');
+                       e.setAttribute('src','//static.chartbeat.com/js/chartbeat.js');
+                       document.body.appendChild(e);
+                  };
+                  var oldonload = window.onload;
+                  window.onload = (typeof window.onload != 'function') ?
+                  loadChartbeat : function() { oldonload(); loadChartbeat(); };
+            })();
+     </script>
+
+
+<div id="modal-container" style="display: none;"></div><img src="/Images/white.png" id="modal-background" style="display: none;"><div id="modal-close" style="display: none;"></div><script language="javascript" type="text/javascript" src="//static.chartbeat.com/js/chartbeat.js"></script></body></html>
