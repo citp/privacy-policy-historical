@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ozgameshop.com privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109045852id_/http%3A//www.ozgameshop.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ozgameshop.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514095828id_/http%3A//www.ozgameshop.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -17,7 +17,7 @@ Means collectively the personal information, Payment Information and credentials
 Means any text, graphics, images, audio, video, software, data compilations and any other form of information capable of being stored in a computer that appears on or forms part of this Web Site;
 
 "Cookie"  
-Means a small text file placed on your computer by www.ozgameshop.com when you visit certain parts of this Web Site. This allows us to identify recurring visitors and to analyse their browsing habits within the Web Site. Where e-commerce facilities are provided, Cookies may be used to store your shopping cart. Further details are contained in Clause 10 and Schedule 1 of this Policy;
+Means a small text file placed on your computer by www.ozgameshop.com when you visit certain parts of this Web Site. This allows us to identify recurring visitors and to analyse their browsing habits within the Web Site. Where e-commerce facilities are provided, Cookies may be used to store your shopping cart;
 
 "Data"  
 Means collectively all information that you submit to the Web Site. This includes, but is not limited to, Account details and information submitted using any of our Services or Systems;
@@ -48,7 +48,7 @@ IP address (automatically collected);
 Web browser type and version (automatically collected);  
 Operating system (automatically collected);  
 A list of URLS starting with a referring site, your activity on this Web Site, and the site you exit to (automatically collected);  
-Cookie information (see clause 9 below).
+Cookie information (see clause 8 below).
 
 ## 3\. Our Use of Data
 
@@ -56,7 +56,7 @@ Any personal Data you submit will be retained by www.ozgameshop.com for as long 
 
 Unless we are obliged or permitted by law to do so, and subject to Clause 4, your Data will not be disclosed to third parties. This does not include our affiliates and / or other companies within our group.
 
-All personal Data is stored securely in accordance with the principles of the Data Protection Act 1998. For more details on security, see clause 9 below.
+All personal Data is stored securely in accordance with the principles of the Data Protection Act 1998.
 
 Any or all of the above Data may be required by us from time to time in order to provide you with the best possible service and experience when using our Web Site. Specifically, Data may be used by us for the following reasons:
 
@@ -89,7 +89,11 @@ You have the right to ask for a copy of your personal Data on payment of a small
 
 www.ozgameshop.com may set and access Cookies on your computer.
 
-A Cookie is a small file that resides on your computer's hard drive and often contains anonymous data. [Please click here to view our Cookie Policy](http://www.ozgameshop.com/page/cookie-policy).
+A Cookie is a small file that resides on your computer's hard drive and often contains an anonymous unique identifier and is accessible only by the web site that placed it there, not any other sites.
+
+You may delete Cookies, however you may lose any information that enables you to access the Web Site more quickly.
+
+You can choose to enable or disable Cookies in your web browser. By default, your browser will accept Cookies, however this can be altered. For further details please consult the help menu in your browser. Disabling Cookies may prevent you from using the full range of Services available on the Web Site.
 
 ## 9\. Changes to this Policy
 
