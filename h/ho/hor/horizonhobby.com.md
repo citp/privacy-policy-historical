@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the horizonhobby.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014022837id_/http%3A//www.horizonhobby.com/content/_support_render-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the horizonhobby.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514202308id_/http%3A//www.horizonhobby.com/content/_support_render-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Horizon Hobby - Radio Control R/C Planes, RC Airplanes, RC Helis and Helicopters, RC Cars, RC Trucks, RC Truggys, RC Boats, RC Radios, RC Engines, parts, hop-ups, and accessories
 
