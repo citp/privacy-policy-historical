@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gladiatus.us privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111065526id_/http%3A//agb.gameforge.de/index.php%3Flang%3Dus%26art%3Ddatenschutz%26f_text%3Dcccc99%26f_text_hover%3Dffff66%26f_text_h%3D330000%26f_text_hr%3D330000%26f_text_hrbg%3D330000%26f_text_hrborder%3D330000%26f_text_font%3Dverdana%252C%2Barial%252C%2Bhelvetica%252C%2Bsans-serif%26f_bg%3D330000) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gladiatus.us privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514114856id_/http%3A//agb.gameforge.de/index.php%3Flang%3Dus%26art%3Ddatenschutz%26f_text%3Dcccc99%26f_text_hover%3Dffff66%26f_text_h%3D330000%26f_text_hr%3D330000%26f_text_hrbg%3D330000%26f_text_hrborder%3D330000%26f_text_font%3Dverdana%252C%2Barial%252C%2Bhelvetica%252C%2Bsans-serif%26f_bg%3D330000) for the most accurate reproduction.*
 
 # Gameforge
 
