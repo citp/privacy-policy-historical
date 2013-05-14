@@ -1,0 +1,939 @@
+<!--The following is the downloaded HTML source of the getmytrip.com privacy policy that was archived on 2013-05-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130514021826id_/http%3A//getmytrip.com/PrivacyPolicy.aspx) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
+	Privacy Policy – All privacy policies are updated here frequently @ getmytrip.com
+</title><meta name="description" content="Privacy Policy – All privacy policies are updated here frequently @ GETMYTRIP"><meta name="keywords" content="GETMYTRIP, privacy policy, flight ticket booking, Hotel Booking, Bus ticket booking, mobile recharge, Holiday packages"><meta name="google-site-verification" content="PUUFVsU_h8aHwE0ae9RAGGojxEAoSbRYyqhsCXapLrA"><meta property="og:image" content="http://www.getmytrip.com/images/logo-get-my-trip.gif"><meta name="y_key" content="20eed7b57984d066"><meta name="msvalidate.01" content="68FE8756D3E4E59E2892282F40100B7B"><meta name="alexaVerifyID" content="S9nrn2ywvaVTprD1ApjT_OawCuE"><link rel="shortcut icon" href="favicon.ico"><link href="Include/css/cssconfirmticket.css?ver=1" rel="stylesheet" type="text/css"><link href="Include/css/menu.css" rel="stylesheet" type="text/css"><link href="contents/conclude/alert.css" rel="stylesheet" type="text/css"><link href="contents/conclude/jquery-UI.css" rel="stylesheet" type="text/css"><link type="text/css" rel="stylesheet" href="Slider/css/global.css">
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="javascript" type="text/javascript" src="Include/Calendar/jquery-1.7.2.js"></script>
+    <script src="Include/initial/jsfile.js" type="text/javascript"></script>
+    <script language="javascript" type="text/javascript" src="Include/initial/common.js"></script>
+    <script type="text/javascript" src="contents/conclude/jquery.alerts.js"></script>
+    
+    <script language="javascript" defer="defer" type="text/javascript" src="contents/conclude/JScript.js"></script>
+    <script language="javascript" type="text/javascript" src="Include/jscript/validator.js"></script>
+    <script language="javascript" type="text/javascript" src="Include/jscript/validator.js"></script>
+    <script type="text/javascript" src="Slider/js/slides.min.jquery.js"></script>
+    <script type="text/javascript">
+        function pageLoad(sender, args) {
+            var sm = Sys.WebForms.PageRequestManager.getInstance();
+            if (!sm.get_isInAsyncPostBack()) {
+                sm.add_beginRequest(onBeginRequest);
+                sm.add_endRequest(onRequestDone);
+                DisplaySessionTimeout();
+            }
+
+            try { setDesign(); } catch (err) { }
+        }
+
+        function onBeginRequest(sender, args) {
+            var ids = args.get_postBackElement().id; if (ids == "ctl00_cntpgconfirmticket_Timer1" || ids == "ctl00_cntpgconfirmticket_upflightresult") { } else {
+                document.getElementById('SessionBlock').style.display = 'none';
+                document.getElementById('LoaderBlock').style.display = ''; document.getElementById('MainLoader').style.display = ''
+            }
+        }
+        function onRequestDone(sender, args) {
+            document.getElementById('MainLoader').style.display = 'none';
+            if (args.get_error() != undefined) {
+                args.set_errorHandled(true);
+            }
+
+            try { setDesign(); } catch (err) { }
+        }
+
+
+
+        var sessionTimeout = "50";
+        function DisplaySessionTimeout() {
+            //assigning minutes left to session timeout to Label
+            //document.getElementById('lblSessionTime').innerHTML = sessionTimeout;
+            sessionTimeout = sessionTimeout - 1;
+
+            //if session is not less than 0
+            if (sessionTimeout >= 0)
+            //call the function again after 1 minute delay
+                window.setTimeout("DisplaySessionTimeout()", 60000);
+            else {
+                //show message box
+                document.getElementById('MainLoader').style.display = '';
+                document.getElementById('SessionBlock').style.display = '';
+                document.getElementById('LoaderBlock').style.display = 'none';
+
+            }
+        }
+
+        function onclickRedirect() {
+            window.location = 'pgHome.aspx';
+        }
+
+        function invokeMeMaster() {
+
+            var sPath = window.location.pathname;
+
+            if (sPath.indexOf('?') != -1) {
+                sPath = sPath.substring(0, sPath.lastIndexOf('?') - 1);
+            }
+
+
+            var sPage = sPath.substring(sPath.lastIndexOf('/') + 1);
+
+            var chkBook = sPage.toUpperCase();
+
+            if (chkBook.indexOf('PGHOME.ASPX') != -1) { document.getElementById('ctl00_A2').className = "CssSelectedMenu"; }
+            if (chkBook.indexOf('PGAIRSEARCH.ASPX') != -1) { document.getElementById('ctl00_A2').className = "CssSelectedMenu"; }
+            if (chkBook.indexOf('PGAIRINTERNATIONAL.ASPX') != -1) { document.getElementById('ctl00_A2').className = "CssSelectedMenu"; }
+            if (chkBook.indexOf('PGBOOKINGRES.ASPX') != -1) { document.getElementById('ctl00_A2').className = "CssSelectedMenu"; }
+            if (chkBook.indexOf('PGAIRINTBOOKING.ASPX') != -1) { document.getElementById('ctl00_A2').className = "CssSelectedMenu"; }
+
+
+            if ((chkBook.indexOf('PGBUSHOME.ASPX') != -1) || (chkBook.indexOf('PGBUSSEARCH.ASPX') != -1) || (chkBook.indexOf('PGBUSBOOKING.ASPX') != -1) || (chkBook.indexOf('PGSEATMAP.ASPX') != -1) || (chkBook.indexOf('PGWOSMAPBOOKING.ASPX') != -1)) { document.getElementById('ctl00_A3').className = "CssSelectedMenu"; }
+
+            if (chkBook.indexOf('PGMOBILEHOME.ASPX') != -1) { document.getElementById('ctl00_A4').className = "CssSelectedMenu"; }
+            if (chkBook.indexOf('PGMOBILEBOOKING.ASPX') != -1) { document.getElementById('ctl00_A4').className = "CssSelectedMenu"; }
+
+            if (chkBook.indexOf('PGHOTELSEARCH.ASPX') != -1) { document.getElementById('ctl00_A5').className = "CssSelectedMenu"; }
+            if (chkBook.indexOf('PGHOTELBOOKING.ASPX') != -1) { document.getElementById('ctl00_A5').className = "CssSelectedMenu"; }
+
+            if (chkBook.indexOf('PGHOLIDAYPACKAGEDISPLAY.ASPX') != -1) { document.getElementById('ctl00_A6').className = "CssSelectedMenu"; }
+            if (chkBook.indexOf('PGHOLIDAYREQUEST.ASPX') != -1) { document.getElementById('ctl00_A6').className = "CssSelectedMenu"; }
+
+            if (chkBook.indexOf('PGTICKETHISTORY.ASPX') != -1) { document.getElementById('ctl00_A7').className = "CssSelectedMenu"; }
+            if (chkBook.indexOf('PGBUSTICKETTRANSACTION.ASPX') != -1) { document.getElementById('ctl00_A7').className = "CssSelectedMenu"; }
+            if (chkBook.indexOf('PGMOBILEHISTORY.ASPX') != -1) { document.getElementById('ctl00_A7').className = "CssSelectedMenu"; }
+            if (chkBook.indexOf('PGHOTELHISTORY.ASPX') != -1) { document.getElementById('ctl00_A7').className = "CssSelectedMenu"; }
+
+
+
+        }
+
+        //        $(document).ready(function () {
+
+        //            $(window).scroll(function () {
+        //                if ($(this).scrollTop() > 100) {
+        //                    $('.scrollupDown').fadeIn();
+        //                } else {
+        //                    $('.scrollupDown').fadeOut();
+        //                }
+        //            });
+
+        //            $('.scrollupDown').click(function () {
+        //                $("html, body").animate({ scrollTop: 0 }, 600);
+        //                return false;
+        //            });
+
+        //        });
+    </script>
+</head>
+<body id="ctl00_body" class="body" style="padding: 0; margin: 0;">
+    
+    <form name="aspnetForm" method="post" action="PrivacyPolicy.aspx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEwMDUyNjYzMjgPZBYCZg8PFgIeFE1lcmFDb21tdW5pdHlTZXNzaW9uBQtwZ0hvbWUuYXNweGQWBAICD2QWBAIBDxYCHgdjb250ZW50BU9Qcml2YWN5IFBvbGljeSDigJMgQWxsIHByaXZhY3kgcG9saWNpZXMgYXJlIHVwZGF0ZWQgaGVyZSBmcmVxdWVudGx5IEAgR0VUTVlUUklQZAICDxYCHwEFdkdFVE1ZVFJJUCwgcHJpdmFjeSBwb2xpY3ksIGZsaWdodCB0aWNrZXQgYm9va2luZywgSG90ZWwgQm9va2luZywgQnVzIHRpY2tldCBib29raW5nLCBtb2JpbGUgcmVjaGFyZ2UsIEhvbGlkYXkgcGFja2FnZXNkAgQPZBYCAgEPZBYQAgMPZBYCAgEPZBYCAgEPZBYCZg9kFhACAQ8WAh4Fc3R5bGUFCWRpc3BsYXk6O2QCAw8WAh8CBQ1kaXNwbGF5Om5vbmU7ZAIFDxYCHwIFDWRpc3BsYXk6bm9uZTtkAgsPFgIeBGhyZWYFFHBndGlja2V0aGlzdG9yeS5hc3B4ZAINDxYCHwMFG3BnYnVzdGlja2V0dHJhbnNhY3Rpb24uYXNweGQCDw8WAh8DBRRwZ21vYmlsZWhpc3RvcnkuYXNweGQCEQ8WAh8CBQ5kaXNwbGF5OmJsb2NrOxYCAgEPFgQfAgUuY29sb3I6IzAwMDt0ZXh0LWRlY29yYXRpb246bm9uZTtkaXNwbGF5OmJsb2NrOx8DBRNwZ2hvdGVsaGlzdG9yeS5hc3B4ZAITD2QWAmYPZBYEAgEPFgIeCWlubmVyaHRtbAUHICBHdWVzdGQCAg8WAh8CBQ1kaXNwbGF5Om5vbmU7ZAIFDxYCHwMFC3BnaG9tZS5hc3B4ZAIHDxYCHwIFDmRpc3BsYXk6YmxvY2s7ZAIJDxYCHwMFDnBnYnVzaG9tZS5hc3B4ZAILDxYCHwMFEXBnbW9iaWxlaG9tZS5hc3B4ZAINDxYCHwMFEHBnaG90ZWxob21lLmFzcHhkAg8PFgIfAwUccGdIb2xpZGF5UGFja2FnZURpc3BsYXkuYXNweGQCFw8WAh8CBTRiYWNrZ3JvdW5kLWNvbG9yOiMwMDdjYTI7d2lkdGg6MTAwMHB4O2Rpc3BsYXk6YmxvY2s7ZBgBBRVjdGwwMCRDYXB0Y2hhQ29udHJvbDEPBSRjODFjZjZkZi0yM2I2LTRhMTMtYjM4Ni00NjI4YjExMDQ3YzNkNN/R88T00ZxqK1GepaoQZAuMbt0z1qJNy/ATxsoeRXA=">
+
+
+<script src="/ScriptResource.axd?d=6QaWV14TJy4dInM9a49hNQIR4Ph92dOXFWafUihQDSfI8HCN4vp2XPe3B4lfIyGtmdAbEwuNB2FpYWmda7Us9bgZzIuoGP8z_4RlNDGYSf8RKovhAMhz1QqSGVymJo2C0LgOZd5reM8cLWI53TDDhZufCiSjv53sZTF9B1JnJZQ1&amp;t=ffffffff940d030f" type="text/javascript"></script>
+    
+    <table cellpadding="0" cellspacing="0" width="100%">
+        <tbody><tr>
+            <td align="center">
+                <div class="main" id="MasterTags" style="margin: 0; padding: 0;">
+                    <table cellpadding="0" cellspacing="0" border="0">
+                        <tbody><tr>
+                            <td valign="top" id="header" style="text-align: left; width: 1000px;">
+                                <table cellpadding="0" cellspacing="0">
+                                    <tbody><tr id="ctl00_trHeader">
+	<td style="height: 70px; width: 320px;">
+                                            <a href="pghome.aspx">
+                                                <img src="images/logo-get-my-trip.gif" alt="Get My Trip"></a><br>
+                                            <input name="ctl00$pag" type="hidden" id="ctl00_pag">
+                                        </td>
+	<td align="right" valign="top">
+                                            <div id="ctl00_udpupdLogin">
+		
+                                                    <table cellpadding="0" cellspacing="0" border="0">
+                                                        <tbody><tr>
+                                                            <td>
+                                                                <table class="tbl ui-corner-bl ui-corner-br" cellspacing="0" cellpadding="0">
+                                                                    <tbody><tr align="center">
+                                                                        <td valign="top">
+                                                                            <a href="pghome.aspx" class="HomeLinks" style="height: 25px"><span class="HomeLinks" title="Click Here To go Home Page">Home</span>
+                                                                        </a></td>
+                                                                        <td valign="top">
+                                                                            <a href="#" class="HomeLinks" onclick="showMenuDetails()" onmouseover="showMenuDetails()" style="height: 25px"><span class="HomeLinks" title="Click Here To Go To Booking History">
+                                                                                    Booking History</span>
+                                                                        </a></td>
+                                                                        <td id="ctl00_lnkSignup" style="display:;">
+                                                                            <a href="signup.aspx" class="HomeLinks" title="Click Here To Forget Password" target="_self" style="height: 25px"><span class="HomeLinks">SignUp / Sign In</span></a>
+                                                                        </td>
+		
+                                                                        <td id="ctl00_lnkeditprofile" style="display:none;">
+                                                                            <a href="signup.aspx" class="HomeLinks" title="Click Here To Forget Password" target="_self" style="height: 25px"><span class="HomeLinks" style="white-space: nowrap;">Edit Profile</span></a>
+                                                                        </td>
+		
+                                                                        <td>
+                                                                            <a href="pgshowtrackdetails.aspx" class="HomeLinks" title="Click Here To View Track Details" target="_self" style="height: 25px"><span class="HomeLinks" style="white-space: nowrap;">
+                                                                                    Transaction Status </span></a>
+                                                                        </td>
+                                                                        <td>
+                                                                            <a href="http://agent.getmytrip.com/" class="HomeLinks" title="Click Here To Go to AgentLogin" target="_blank" style="height: 25px"><span class="HomeLinks">Agent Login</span></a>
+                                                                        </td>
+                                                                        <td id="ctl00_lnkChange" style="display:none;">
+                                                                            <a href="pgchangepassword.aspx" class="HomeLinks" title="Click Here To Change Password" target="_self" style="height: 25px"><span class="HomeLinks" style="white-space: nowrap;">
+                                                                                    Change Password</span></a>
+                                                                        </td>
+		
+                                                                        <td id="ctl00_lnkContact">
+                                                                            <a href="pgcontactus.aspx" class="HomeLinks" title="Click Here To Change Password" target="_self" style="height: 25px"><span class="HomeLinks" style="white-space: nowrap;">
+                                                                                    Contact us</span></a>
+                                                                        </td>
+		
+                                                                        <td id="ctl00_lnkFeedback">
+                                                                            <a href="#" onclick="showFeed();" class="HomeLinks" title="Click Here show Feedback" style="height: 25px"><span class="HomeLinks" style="white-space: nowrap;">Feed Back</span></a>
+                                                                        </td>
+		
+                                                                    </tr>
+                                                                </tbody></table>
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td align="left">
+                                                                <table id="idData" cellpadding="0" class="tbl ui-corner-bl ui-corner-br" cellspacing="0" border="0" style="margin-left: 42px; position: absolute; display: none">
+                                                                    <tbody><tr>
+                                                                        <td>
+                                                                            <a href="pgtickethistory.aspx" id="ctl00_aAirline" style="color: #000; text-decoration: none;" onmouseout="underLineCheck(this.id)" title="Click Here To View Airline Booked History" target="_self">Airline History</a>
+                                                                        </td>
+                                                                        <td>
+                                                                            <a href="pgbustickettransaction.aspx" id="ctl00_aBus" style="color: #000; text-decoration: none;" onmouseout="underLineCheck(this.id)" title="Click Here To View Bus Booked History" target="_self">Bus History</a>
+                                                                        </td>
+                                                                        <td>
+                                                                            <a href="pgmobilehistory.aspx" id="ctl00_aMobile" style="color: #000; text-decoration: none;" onmouseout="underLineCheck(this.id)" title="Click Here To View Mobile Booked History" target="_self">Mobile History</a>
+                                                                        </td>
+                                                                        <td id="ctl00_liHotel" style="display:block;">
+                                                                            <a href="pghotelhistory.aspx" id="ctl00_A7" style="color:#000;text-decoration:none;display:block;" onmouseout="underLineCheck(this.id)" title="Click Here To View Hotel Booked History" target="_self">Hotel History</a>
+                                                                        </td>
+		
+                                                                    </tr>
+                                                                </tbody></table>
+                                                            </td>
+                                                        </tr>
+                                                    </tbody></table>
+                                                    <br>
+                                                    <div id="ctl00_updLoginStatus">
+			
+                                                            <div align="right">
+                                                                <span class="ClsRose" style="font-weight: bold;">Welcome</span>&nbsp;&nbsp;<span id="ctl00_spnlogin" class="ClsBlue">  Guest</span><span id="ctl00_lnklogout" style="display:none;">,
+                                                                        <a id="ctl00_lnklogoutbtn" class="HomeLinks" href='javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions("ctl00$lnklogoutbtn", "", true, "", "", false, true))' style="color: #444444;">Logout</a></span>
+                                                            </div>
+                                                        
+		</div>
+                                                
+	</div>
+                                        </td>
+</tr>
+
+                                    <tr>
+                                        <td colspan="2">
+                                            <div id="menu">
+                                                <ul id="menu">
+                                                    <li><a href="pghome.aspx" id="ctl00_A2" class="parent"><span>
+                                                        <img src="images/mnu1.png">
+                                                        &nbsp;Airline</span></a> </li>
+                                                    <li><a href="airplushotel.aspx" id="ctl00_A1" class="parent" style="display:block;"><span>
+                                                        <img src="images/mnu13.png">
+                                                        &nbsp;Air + Hotel</span></a> </li>
+                                                    <li><a href="pgbushome.aspx" id="ctl00_A3" target="_self" class="parent"><span>
+                                                        <img src="images/mnu5.png">
+                                                        &nbsp;Bus</span> </a></li>
+                                                    <li><a href="pgmobilehome.aspx" id="ctl00_A4" target="_self" class="parent">
+                                                        <span>
+                                                            <img src="images/mnu2.png">
+                                                            &nbsp;Mobile</span> </a></li>
+                                                    <li><a href="pghotelhome.aspx" id="ctl00_A5" target="_self" class="parent">
+                                                        <span>
+                                                            <img src="images/mnu3.gif">
+                                                            &nbsp;Hotel</span></a> </li>
+                                                    <li><a href="pgHolidayPackageDisplay.aspx" id="ctl00_A6" title="Click Here To View Holiday Package" target="_self" class="parent"><span>
+                                                            <img src="images/mnu16.png">
+                                                            &nbsp;Holiday Package</span></a></li>
+                                                    <li><a href="pgDeals.aspx" id="ctl00_A8" title="Click Here To View Hottest Deals" target="_self" class="parent"><span>
+                                                            <img src="images/lis.png">&nbsp;Deals</span></a></li>
+                                                    <li><span>
+                                                        <table style="padding-left: 5px; vertical-align: text-top; height: 25px; padding-right: 5px;">
+                                                            <tbody><tr>
+                                                                <td>
+                                                                    <img src="images/tele.png" width="20" height="20">
+                                                                </td>
+                                                                <td>
+                                                                    &nbsp;044-66706110 (24 x 7)
+                                                                </td>
+                                                            </tr>
+                                                        </tbody></table>
+                                                    </span></li>
+                                                </ul>
+                                            </div>
+                                        </td>
+                                    </tr>
+                                </tbody></table>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style="height: 25px;">
+                                <table cellpadding="0" cellspacing="0" border="0" style="width:100%;">
+                                    <tbody><tr>
+                                        <td align="left">
+                                            <span style="color: red;">You're Here @ </span>&nbsp;<span id="ctl00_SiteMapPathData"><a href="#ctl00_SiteMapPathData_SkipLink"><img alt="Skip Navigation Links" height="0" width="0" src="/WebResource.axd?d=ClKXbYOynU36lYWkGkpdFdx1ClDlHTfu_qDkUOYgoupXyPBWI-K-pVfSyVleN71LmXSfFok2FsBS4ccgOY8TeZRRSDN86eO1WBZk1dp0sDQ1&amp;t=634994177893333750" border="0"></a><span><a title="Home" href="/pgHome.aspx"><b><font color="Black">Home</font></b></a></span><span> / </span><span><b><font color="Green">Privacy Policy</font></b></span><a id="ctl00_SiteMapPathData_SkipLink"></a></span>
+                                        </td>
+                                        <td align="right">
+                                            <img id="SearchLoad" style="display: none;" alt="" src="images/Loader.gif">
+                                        </td>
+                                    </tr>
+                                </tbody></table>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <div style="padding-left: 3px; padding-top: 5px; background-color: #fff; width: 990px;
+                                    min-height: 320px;">
+                                    
+    <div style=" text-align:center; width:930px; padding-left:20px;">
+     
+
+                <table cellpadding="0" cellspacing="0" border="0" width="100%" style="  color: Black;text-align: justify;">
+                    <tbody><tr>
+                        <td style="height: 30px">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td style=" font-weight: bold; font-size:15px; ">
+                            Privacy Policy of GetMyTrip</td>
+                    </tr>
+
+                    <tr>
+                        <td style="height: 20px">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><b>
+                         What information do we collect? </b>
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td style="height: 10px">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                        <p> We collect information from you when you register on our site or place an order.</p> 
+                        <br>
+<p>When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address or phone number. You may, however, visit our site anonymously.</p>
+</td>
+                    </tr>
+
+                    <tr>
+                        <td style="height: 10px">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <b>What do we use your information for? </b></td>
+                    </tr>
+                     <tr>
+                        <td style="height: 10px">
+                        </td>
+                    </tr>
+                     <tr>
+                        <td>
+                          <p> Any of the information we collect from you may be used in one of the following ways: </p>
+<br>
+<ul type="disc" style=" padding-left:20px; ">
+
+<li><b> To personalize your experience</b><p>
+(your information helps us to better respond to your individual needs)</p></li>
+<li> <b>To improve customer service</b><p>
+(your information helps us to more effectively respond to your customer service requests and support needs)</p>
+</li>
+<li><b>To process transactions</b>
+
+<p>Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.</p></li>
+<li><b>To send periodic emails</b>
+
+<p>The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.</p></li>
+
+</ul>
+  
+</td>
+                    </tr>
+                    <tr>
+                        <td style="height: 10px">
+                        </td>
+                    </tr>
+
+                     <tr>
+                        <td><b>
+                        How do we protect your information?  </b>
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td style="height: 10px">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                      <p> We implement a variety of security measures to maintain the safety of your personal information when you place an order</p><br>
+
+<p>We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.</p>
+<br>
+<p>After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.</p>
+<br>
+
+</td>
+                    </tr>
+
+                    <tr>
+                        <td style="height: 10px">
+                        </td>
+                    </tr>
+
+
+                     <tr>
+                        <td><b>
+                        Do we use cookies?  </b>
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td style="height: 10px">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                       We do not use cookies.
+</td>
+                    </tr>
+
+                    <tr>
+                        <td style="height: 10px">
+                        </td>
+                    </tr> <tr>
+                        <td><b>
+                        Do we disclose any information to outside parties?  </b>
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td style="height: 10px">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+</td>
+                    </tr>
+
+                    <tr>
+                        <td style="height: 10px">
+                        </td>
+                    </tr> <tr>
+                        <td><b>
+                        Third party links 
+ </b>
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td style="height: 10px">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                      Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+</td>
+                    </tr>
+
+                    <tr>
+                        <td style="height: 10px">
+                        </td>
+                    </tr>
+
+
+                     <tr>
+                        <td><b>
+                       Online Privacy Policy Only   </b>
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td style="height: 10px">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                      This online privacy policy applies only to information collected through our website and not to information collected offline.
+</td>
+                    </tr>
+                      <tr>
+                        <td style="height: 10px">
+                        </td>
+                    </tr>
+
+
+                     <tr>
+                        <td><b>
+                       Your Consent  </b>
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td style="height: 10px">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                      By using our site, you consent to our websites privacy policy.
+</td>
+                    </tr>
+
+                   
+                    <tr>
+                        <td style="height: 10px">
+                        </td>
+                    </tr>
+
+
+                     <tr>
+                        <td><b>
+                     Contacting Us  </b>
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td style="height: 10px">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                    If there are any questions regarding this privacy policy you may contact us using the information below. 
+                    <br>
+                    <div style="padding-left:25px;">
+www.getmytrip.com<br>
+<b>EDU POINT SOLUTION</b><br>
+No. S-2, Venkateshwara Castle,<br>
+No. 30, Palat Sankaran Road,<br>
+Mahalingapuram, <br>
+Chennai - 600034.<br>
+Contact Number :+91 - 44-30638000,<br>
+Call Center No : +91 - 44-30604444.</div>
+<br>
+</td>
+                    </tr>
+
+                     
+
+                    <tr>
+                        <td style="height: 10px">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td style=" font-weight: bold; ">
+                            Thanking you for using GetMyTrip!!!
+                        </td>
+                    </tr>
+
+                </tbody></table>
+               
+
+
+
+
+
+
+
+ 
+                </div>
+
+                                </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td id="ctl00_tdImage" valign="bottom" style="background-color:#007ca2;width:1000px;display:block;">
+                                <div style="display: block;">
+                                    <table cellpadding="0" cellspacing="0">
+                                        <tbody><tr>
+                                            <td colspan="2">
+                                                &nbsp;
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td style="width: 560px; padding-left: 10px;">
+                                                <table style="color: #ffffff; width: 550px;" cellspacing="0" cellpadding="0" border="0">
+                                                    <tbody><tr>
+                                                        <td valign="top" style="border-right: 1px solid #ffffff; padding-left: 20px; text-align: left;" align="left">
+                                                            <table cellpadding="0" cellspacing="0" border="0">
+                                                                <tbody><tr>
+                                                                    <td align="left">
+                                                                        <u><b>Our Services</b></u>
+                                                                    </td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td align="left">
+                                                                        <table cellpadding="0" cellspacing="10" border="0" align="left" style="text-align: left;">
+                                                                            <tbody><tr>
+                                                                                <td>
+                                                                                    <a href="pgHome.aspx" style="color: #ffffff; text-decoration: none;">Flights</a>
+                                                                                </td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <td>
+                                                                                    <a href="AirplusHotel.aspx" style="color: #ffffff; text-decoration: none;">Airline +
+                                                                                        Hotel</a>
+                                                                                </td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <td>
+                                                                                    <a href="pgHome.aspx" style="color: #ffffff; text-decoration: none;">International Flights</a>
+                                                                                </td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <td>
+                                                                                    <a href="pghotelhome.aspx" style="color: #ffffff; text-decoration: none;">Hotels</a>
+                                                                                </td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <td>
+                                                                                    <a href="pghotelhome.aspx" style="color: #ffffff; text-decoration: none;">International
+                                                                                        Hotels</a>
+                                                                                </td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <td>
+                                                                                    <a href="pgBusSearch.aspx" style="color: #ffffff; text-decoration: none;">Bus</a>
+                                                                                </td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <td>
+                                                                                    <a href="pgMobileHome.aspx" style="color: #ffffff; text-decoration: none;">Mobile</a>
+                                                                                </td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <td>
+                                                                                    <a href="pgHolidayPackageDisplay.aspx" style="color: #ffffff; text-decoration: none;">Holidays
+                                                                                        In India</a>
+                                                                                </td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <td>
+                                                                                    <a href="pgHolidayPackageDisplay.aspx" style="color: #ffffff; text-decoration: none;">International
+                                                                                        Holidays</a>
+                                                                                </td>
+                                                                            </tr>
+                                                                        </tbody></table>
+                                                                    </td>
+                                                                </tr>
+                                                            </tbody></table>
+                                                        </td>
+                                                        <td valign="top" style="border-right: 1px solid #ffffff; padding-left: 20px; text-align: left;" align="left">
+                                                            <table cellpadding="0" cellspacing="0" border="0">
+                                                                <tbody><tr>
+                                                                    <td align="left">
+                                                                        <u><b>Utilities</b></u>
+                                                                    </td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td align="left">
+                                                                        <table cellpadding="0" cellspacing="10" border="0" align="left" style="text-align: left;">
+                                                                            
+                                                                            <tbody><tr>
+                                                                                <td>
+                                                                                    <a href="pgSTDCode.aspx" style="color: #ffffff; text-decoration: none;">STD Codes</a>
+                                                                                </td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <td>
+                                                                                    <a href="pgISDCode.aspx" style="color: #ffffff; text-decoration: none;">ISD Codes</a>
+                                                                                </td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <td>
+                                                                                    <a href="pgHighwayshotest.aspx" style="color: #ffffff; text-decoration: none;">Highway
+                                                                                        Shortest Path Finder</a>
+                                                                                </td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <td>
+                                                                                    <a href="pgWeather.aspx" style="color: #ffffff; text-decoration: none;">Weather Report</a>
+                                                                                </td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <td>
+                                                                                    <a href="pgCurrencyConvertor.aspx" style="color: #ffffff; text-decoration: none;">Currency
+                                                                                        Convertor</a>
+                                                                                </td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <td>
+                                                                                    <a href="pgTimeConvertor.aspx" style="color: #ffffff; text-decoration: none;">Time Convertor</a>
+                                                                                </td>
+                                                                            </tr>
+                                                                        </tbody></table>
+                                                                    </td>
+                                                                </tr>
+                                                            </tbody></table>
+                                                        </td>
+                                                        <td valign="top" style="padding-left: 20px; text-align: left;" align="left">
+                                                            <table cellpadding="0" cellspacing="0" border="0">
+                                                                <tbody><tr>
+                                                                    <td align="left">
+                                                                        <u><b>About the Site</b></u>
+                                                                    </td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td align="left">
+                                                                        <table cellpadding="0" cellspacing="10" border="0" align="left" style="text-align: left;">
+                                                                            <tbody><tr>
+                                                                                <td>
+                                                                                    <a href="FAQ.aspx" style="color: #ffffff; text-decoration: none;">FAQs</a>
+                                                                                </td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <td>
+                                                                                    <a href="UnderConstruction.aspx" style="color: #ffffff; text-decoration: none;">Site
+                                                                                        Map</a>
+                                                                                </td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <td>
+                                                                                    <a href="pgContactUs.aspx" style="color: #ffffff; text-decoration: none;">Contact Us</a>
+                                                                                </td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <td>
+                                                                                    <a href="PaymentSecurity.aspx" style="color: #ffffff; text-decoration: none;">Payment
+                                                                                        Security</a>
+                                                                                </td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <td>
+                                                                                    <a href="PrivacyPolicy.aspx" style="color: #ffffff; text-decoration: none;">Privacy
+                                                                                        Policy</a>
+                                                                                </td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <td>
+                                                                                    <a href="pgDeals.aspx" style="color: #ffffff; text-decoration: none;">Deals</a>
+                                                                                </td>
+                                                                            </tr>
+                                                                        </tbody></table>
+                                                                    </td>
+                                                                </tr>
+                                                            </tbody></table>
+                                                        </td>
+                                                    </tr>
+                                                </tbody></table>
+                                            </td>
+                                            <td align="right">
+                                                <img src="images/payment.gif">
+                                            </td>
+                                        </tr>
+                                    </tbody></table>
+                                </div>
+                                <table id="ctl00_footer" width="100%" cellpadding="0" cellspacing="0">
+	<tbody><tr style="background-image: url(images/footer.gif); background-repeat: repeat-x;
+                                        height: 56px;">
+		<td align="center">
+                                            <div id="ctl00_updUserType">
+			
+                                                    <input name="ctl00$hdnusertype" type="hidden" id="ctl00_hdnusertype" value="1">
+                                                
+		</div>
+                                            Copyright © 2013 - <a href="https://www.getmytrip.com" title="Linkification: https://www.getmytrip.com">
+                                                www.getmytrip.com</a> All Rights Reserved.
+                                        </td>
+		<td>
+                                            <!-- webbot bot="HTMLMarkup" startspan -->
+                                            <!-- GeoTrust True Site [tm] Smart Icon tag. Do not edit. -->
+                                            
+                                            <!-- end GeoTrust Smart Icon tag -->
+                                            <!-- webbot bot="HTMLMarkup" endspan -->
+                                            
+                                        </td>
+	</tr>
+</tbody></table>
+
+                            </td>
+
+                        </tr>
+                    </tbody></table>
+                    <table cellpadding="0" cellspacing="0" style="position: absolute; top: 20px; left: 570px;
+                        z-index: 350; vertical-align: middle; text-align: center;">
+                        <tbody><tr>
+                            <td>
+                                <table width="400px" cellpadding="0" cellspacing="0" style="background-color: #fff;
+                                    border: solid 2px #007CA2; display: none;" id="FeedBak">
+                                    <tbody><tr style="background: #007CA2 url(images/item.png) repeat-x;">
+                                        <td align="left" style="padding-left: 5px; width: 365px; height: 30px; font-weight: bold;">
+                                            CUSTOMER SUPPORT REQUESTS
+                                        </td>
+                                        <td>
+                                            <img src="images/sp_trans.gif" alt="Close" onclick="showFeed();" class="ALLSPRITE CLOSE " style="cursor: pointer;">
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td align="left" colspan="2">
+                                            <table style="padding-left: 5px;" cellspacing="5" cellpadding="5" width="100%">
+                                                <tbody><tr>
+                                                    <td class="clslbl1" style="width: 310px;" colspan="2">
+                                                        <span class="clsSpan">PLEASE ENTER SUPPORT REQUESTS YOU MAY HAVE BELOW</span>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="clslbl1" valign="top">
+                                                        <span class="clsSpan">WOULD YOU LIKE A RESPONSE?</span>
+                                                    </td>
+                                                    <td>
+                                                        <span id="ctl00_RdoResponse" class="clsBrdr"><input id="ctl00_RdoResponse_0" type="radio" name="ctl00$RdoResponse" value="1" checked="checked"><label for="ctl00_RdoResponse_0"> YES </label><input id="ctl00_RdoResponse_1" type="radio" name="ctl00$RdoResponse" value="0"><label for="ctl00_RdoResponse_1">NO</label></span>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="clslbl1">
+                                                        <span class="clsSpan">CATEGORY</span>
+                                                    </td>
+                                                    <td class="clslbl1">
+                                                        <span class="clsSpan">SUBJECT</span>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td>
+                                                        <select name="ctl00$DrpCategory" id="ctl00_DrpCategory" class="ui-corner-all ddlbox">
+	<option value="1">AirLine</option>
+	<option value="2">Bus</option>
+	<option value="3">Mobile</option>
+	<option value="4">Hotel</option>
+	<option value="11">Others</option>
+
+</select>
+                                                    </td>
+                                                    <td>
+                                                        <input name="ctl00$TxtBriefDesc" type="text" maxlength="150" id="ctl00_TxtBriefDesc" class="ui-corner-all txtbox">
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="clslbl1">
+                                                        <span class="clsSpan">EMAIL - ID</span>
+                                                    </td>
+                                                    <td class="clslbl1">
+                                                        <span class="clsSpan">MOBILE NUMBER</span>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td>
+                                                        <input name="ctl00$txtFedEmail" type="text" id="ctl00_txtFedEmail" class="ui-corner-all txtbox">
+                                                    </td>
+                                                    <td>
+                                                        <input name="ctl00$txtFedMobileNo" type="text" id="ctl00_txtFedMobileNo" class="ui-corner-all txtbox" onkeypress="javascript:return ForKeysPress(event,4,true);">
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="clslbl1" style="padding-right: 5px" colspan="2">
+                                                        <span class="clsSpan" style="width: 100%">GIVE US YOUR VALUABLE FEEDBACK TO HELP US
+                                                            HELP YOU BETTER</span>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td style="padding-bottom: 5px" colspan="2">
+                                                        <textarea name="ctl00$txtFedComments" rows="2" cols="20" id="ctl00_txtFedComments" class="ui-corner-all multxtbox" onkeypress="javascript:return ForKeysPress(event,0,true);"></textarea>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td style="padding-bottom: 5px" colspan="2">
+                                                        <div class="clsCaptcha" style="border-style:None;height:40px;width:250px;"><span style="margin:5px;float:left;"><img src="CaptchaImage.aspx?guid=c81cf6df-23b6-4a13-b386-4628b11047c3" border="0" width="81" height="31"></span><span style="margin:5px;float:left;"><input name="ctl00$CaptchaControl1" type="text" size="5" maxlength="5" value=""></span><br clear="all"></div>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td>
+                                                        <span id="ctl00_lblError"><font color="Crimson"></font></span>
+                                                    </td>
+                                                    <td style="padding-right: 5px; padding-bottom: 5px" align="right" colspan="1">
+                                                        
+                                                        <input type="submit" name="ctl00$ImgSubmit" value="Submit" onclick="return ValidateFeedback();WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ImgSubmit&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="ctl00_ImgSubmit" class="ui-corner-all btnbox">
+                                                    </td>
+                                                </tr>
+                                            </tbody></table>
+                                        </td>
+                                    </tr>
+                                </tbody></table>
+                            </td>
+                        </tr>
+                    </tbody></table>
+                </div>
+                <div id="MainLoader" style="display: none;">
+                    <div class="Trainhideshow">
+                        <div class="Trainfade">
+                        </div>
+                        <div class="Trainpopup_block">
+                            <table id="LoaderBlock" style="background-color: #efefef; border: solid 3px #cccccc;
+                                width: 350px; height: 150px; font-weight: bold;" align="center">
+                                <tbody><tr>
+                                    <td class="ClsBlue" align="center" style="font-weight: bold;">
+                                        Please Wait
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td align="center">
+                                        <img src="images/Load.gif" alt="">
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td class="ClsRose" align="center" style="font-weight: bold;">
+                                        While your request is being processed...
+                                    </td>
+                                </tr>
+                            </tbody></table>
+                            <table id="SessionBlock" style="display: none; background-color: #efefef; border: solid 3px #cccccc;
+                                width: 350px; height: 150px; font-weight: bold;" align="center">
+                                <tbody><tr>
+                                    <td class="ClsBlue" align="center" style="font-weight: bold;">
+                                        Your Current Session Is Over.
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td class="ClsRose" align="center" style="font-weight: bold;">
+                                        Please Click <a href="#" onclick="onclickRedirect()">HERE</a> To Navigate Home Page.
+                                    </td>
+                                </tr>
+                            </tbody></table>
+                        </div>
+                    </div>
+                </div>
+                <div id="dialog" title="Alert Message">
+                    <p>
+                        <span id="spnMsg" style="color: #aa0011; font-weight: bold;"></span>
+                    </p>
+                </div>
+            </td>
+        </tr>
+    </tbody></table>
+    
+
+<script type="text/javascript">
+//<![CDATA[
+invokeMeMaster();//]]>
+</script>
+</form>
+    <script type="text/javascript">
+
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-1106113-8']);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+
+    </script>
+
+
+</body></html>
