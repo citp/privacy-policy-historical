@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thetruthaboutcars.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106234414id_/http%3A//www.thetruthaboutcars.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetruthaboutcars.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514180953id_/http%3A//www.thetruthaboutcars.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Truth About Cars
 
@@ -69,3 +69,43 @@ VerticalScope may at any time, without notice to you and in its sole discretion,
 If you have questions or suggestions about this privacy statement, or your own personal information, please [contact us](https://web.archive.org/contact/).
 
 ### Avoidable Contact Articles
+
+### Staff
+
+  * #### Editors
+
+  * [Bertel Schmitt](https://web.archive.org/about/)  
+Editor-In-Chief 
+  * [Derek Kreindler](https://web.archive.org/about/)  
+Managing Editor 
+  * [Alex Dykes](https://web.archive.org/about/)  
+Review Editor 
+  * [Murilee Martin](https://web.archive.org/about/)  
+Heritage Editor 
+  * [Jack Baruth](https://web.archive.org/about/)  
+High Performance Editor 
+  * [Sajeev Mehta](https://web.archive.org/about/)  
+Style Editor 
+  * [Steven Lang](https://web.archive.org/about/)  
+Consumer Affairs Editor 
+  * Ronnie Schreiber, Detroit Editor 
+  * [Edward Niedermeyer](https://web.archive.org/about/)  
+Editor emeritus
+
+
+  * #### Authors
+
+  * Brendan McAleer, Canada 
+  * Marcelo De Vasconcellos, Brazil 
+  * Matthias Gasnier, Australia 
+  * J & J Sutherland, Canada 
+  * Tycho de Feyter, China 
+  * W. Christian 'Mental' Ward, Abu Dhabi 
+  * Mark Stevenson, Canada 
+  * Clemens Gleich, Germany 
+  * Doug DeMuro, Atlanta 
+  * Phil Coconis, Los Angeles 
+  * Faisal Ali Khan, India 
+  * Michael Karesh, Detroit
+
+
