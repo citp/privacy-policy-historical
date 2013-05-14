@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epromos.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919191910id_/http%3A//www.epromos.com/support/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epromos.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514160917id_/http%3A//www.epromos.com/support/privacy-security) for the most accurate reproduction.*
 
 # Privacy and Security | ePromos Promotional Products
 
@@ -57,3 +57,10 @@ We process credit card information by fax and phone. Internally your credit card
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
 
 [Back to Top](http://www.epromos.com/support/privacy-security/)
+
+Please log in
+
+  
+
+
+Or sign up for an account now
