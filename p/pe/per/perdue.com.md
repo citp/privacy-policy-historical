@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the perdue.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003014025id_/http%3A//perdue.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perdue.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514054402id_/http%3A//perdue.com/privacy.asp) for the most accurate reproduction.*
 
 # PERDUE® Privacy Policy : Chicken Recipes, Turkey Recipes, Tips and More
 
@@ -60,4 +60,4 @@ Perdue cares about the safety of children on its Site(s) and encourages parents 
 
 **What About Any Other Questions?**
 
-If you have any questions about this Privacy Policy, the information collection and dissemination practices of the Site(s), or Perdue’s use of your PII, you can contact Perdue and its employee(s) responsible for its Privacy Policy and related privacy compliance matters by email at [perdue@casupport.com](mailto:perdue@casupport.com), by phone at 1-888-PERDUE-2, or by mail at Perdue, Salisbury Corporate Office, Attn. Privacy, 31149 Old Ocean City Road, Salisbury, MD 21804.
+If you have any questions about this Privacy Policy, the information collection and dissemination practices of the Site(s), or Perdue�s use of your PII, you can contact Perdue and its employee(s) responsible for its Privacy Policy and related privacy compliance matters by email at [perdue@casupport.com](mailto:perdue@casupport.com), by phone at 1-888-PERDUE-2, or by mail at Perdue, Salisbury Corporate Office, Attn. Privacy, 31149 Old Ocean City Road, Salisbury, MD 21804.
