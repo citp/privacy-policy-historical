@@ -1,66 +1,74 @@
-> *The following text is extracted and transformed from the one.in privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222014831id_/http%3A//www.oneindia.in/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the one.in privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514123748id_/http%3A//www.twylah.com/privacy) for the most accurate reproduction.*
 
-# Oneindia | Privacy Policy
+# Privacy | Twylah
 
-Greynium Information Technologies Pvt. Ltd., (hereinafter referred as " **Greynium** " which expression shall, unless repugnant to the context or meaning thereof, be deemed to include its affiliates, parent company, legal representatives and permitted assigns) provides the you, i.e. the user (hereinafter referred to as the " **User** ") with access to its content, resources, tools for communication, public forums, commerce platforms, and other services through its network of websites and all mobile applications ( hereinafter referred to as the " **Service** "). 
+Effective November, 2010 
 
-We at Greynium appreciate and respect your privacy and so we have drafted this Privacy Policy (hereinafter referred to as " **this Policy** ") which details how we handle your information. Privacy protection is our number one priority. Greynium uses the patent-pending "dual blind" privacy protection technology which allows Greynium to customize advertisement for User's browser without ever knowing User's name, address, social security number, telephone number or any other personally identifiable information. It's completely anonymous. Kindly note that usage of our Services on/through our network of websites and all mobile applications is subject to your absolute and unconditional acceptance of the terms and conditions of this Privacy Policy. 
+Your privacy is important to us. This Privacy Policy describes Twylah's policies and procedures regarding the collection, use and disclosure of personal information we receive from users of www.twylah.com (this "Site"). Site access is made available to you subject to your compliance with the Terms of Service (the “Terms of Service”), available at [twylah.com/tos](https://web.archive.org/tos), and this Privacy Policy (this “Privacy Policy”). This Privacy Policy applies only to information that you provide to us through this Site. 
 
-* **User Information & Usage**
+**Acceptance of the Privacy Policy**
 
-For accessing or using our Service, you may be required to provide certain information such as name, address, occupation, nationality, credit/debit card details, email, contact number, etc. 
+This Privacy Policy is incorporated into and is subject to the Terms of Service, which are available at [twylah.com/tos](https://web.archive.org/tos). By visiting and using the Site, you agree to abide by the terms and conditions of this Privacy Policy and represent and warrant that you have the legal right to do so on your behalf, and you consent to the collection, use and disclosure of your personal information by Twylah in accordance with the terms and conditions of this Privacy Policy. 
 
-All information, disclosed by you shall be deemed to be disclosed willingly and without any coercion. No liability pertaining to the authenticity/misrepresentation/fraud/negligence, etc. of the information disclosed to us shall lie on Greynium nor will we in any way be responsible to verify any information obtained from you. 
+IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY OR THE TERMS OF SERVICE, PLEASE DO NOT PROVIDE TWYLAH WITH ANY INFORMATION AND DO NOT USE THE SITE. 
 
-You agree and acknowledge that all information gathered from you may be used by us for the following purposes:
+**Changes to the Privacy Policy**
 
-  1. to maintain, develop, protect and improve our Services, manage your account/orders/subscriptions, etc; 
-  2. for communication regarding important notices, changes in any of our user related terms and conditions and policies, promotion and marketing purposes; 
-  3. for internal purposes such as auditing, data analysis and research relating our Services; 
-  4. in the event you participate in any contests or other promotional activity, for administering those activities; 
-  5. for doing strategic and targeted marketing. 
+Our Privacy Policy may be updated from time to time, and we will notify you of any material changes by posting the new Privacy Policy on the Site. Any change or modification made by Twylah will be effective immediately upon being posted on the Site. Your continued use of the Site after any changes or modifications to this Privacy Policy are posted will constitute your acceptance of the changes or modifications. Changes can be viewed by clicking on the Privacy Policy link on the Site, and Twylah encourages you to do so, and to review this Privacy Policy, from time to time. 
 
+**The Information We Collect**
 
-* **Collection of Information & Storage**
+You may be able to visit portions of the Site without providing Twylah any personally identifiable information. When you visit or browse the Site, although Twylah does not automatically collect personally identifiable information, Twylah may automatically collect and record information about your visit (through the use of cookies and otherwise) as part of its analysis of the use of the Site and its performance. For example, when a web page is requested from the Site, Twylah may record the time, date and URL of the request and information on the browser being used. These data may be aggregated to enable Twylah to analyze trends, administer the Site, and gather information regarding where visits to the Site originate, how often the Site is visited and what parts of the Site are visited most often. These data may also be linked to your User Account and your personal information to personally identify you to enhance user experiences, track topic areas you have navigated to, provide you with targeted ads or, should you opt in to topical newsletters, deliver customized newsletters. 
 
-We shall collect information from you about you or relating to third parties, during the following stages (if applicable), but not limited to the following stages:
+Twylah may require you to register for a user account (a “User Account”) in order to use portions of the Site or its functionalities. In order to register for a User Account, you will be asked to provide certain personally identifiable information and other information (“Account Information”). Types of personally identifiable and other information that we may require for you to establish register and create a User Account include: personal information (e.g., name, postal address, mobile telephone number, email address and user name and password), company information (e.g., company name, company postal address, company telephone number and company website) and demographic information (e.g., membership in other websites). You are the sole custodian of your User Account and are responsible for the accuracy of your Account Information. You agree that Twylah is only a facilitator of the Site and has no responsibility for the accuracy of your Account Information. 
 
-  1. When you subscribe for any of our Services; 
-  2. When you share our content with third parties; 
-  3. When you invite others to use our Services; 
-  4. When you make any payments for our Services; 
-  5. When you gift out subscription or any of our Services to any third party; etc. 
+YOU MAY, AT ANY TIME, REVIEW AND UPDATE, OR REQUEST THAT TWYLAH DELETE, THE ACCOUNT INFORMATION THAT YOU PROVIDE TO TWYLAH THROUGH THE SITE BY EDITING IT IN YOUR USER ACCOUNT OR CONTACTING TWYLAH AS INDICATED BELOW. 
 
+Twylah may also collect personally identifiable information that you submit to other sections of or through other functionality made available on the Site. For example, but without limitation, Twylah may collect personal information that you post to the Posting Areas, provide in connection with feedback or requests for contact submitted to Twylah, or, if you choose to participate in various Twylah activities like newsletters, sweepstakes, contests, and surveys, because you want us to furnish you with products, services, newsletters, or information, or in connection with content or suggestions you submit to Twylah for review. Twylah users may also choose to provide or store non-personally identifiable information in their User Account profiles. Such information, together with your Account Information, is referred to collectively in this Privacy Policy as “Your Information.”   
+Any information gathered by Twylah is used to customize the Twylah experience, and is not shared or sold to any third parties, except as expressly provided for in this Privacy Policy and our Terms of Service. Twylah reserves the right to view private posts for the purposes of fixing issues, and to look for copyrighted or other inappropriate material. This will only be done as necessary and these posts will never be shared by anyone else. 
 
+**Information Sharing and Disclosure**
 
-We may make use of cookies and other technologies such as pixel tags and web beacons to gather information about you or to make effective use of the information gathered from you. The aforementioned technology tools shall collect only the information which you voluntarily/agree to supply and unless you identify yourself vide such information, we may not be able to ascertain your identity. Further, all information about you, including information about your internet connection, IP address, etc. may be used by us in our endeavours to cater to you mindful of your interests, preferences and otherwise.
+We will display Your Information in your profile page and elsewhere on the Site according to the preferences you set in your account. Any information you choose to provide should reflect how much you want all other Twylah users to know about you. We recommend that you guard your anonymity and sensitive information and we encourage users to think carefully about what information about themselves they disclose in their profile pages. Twylah does not assume any responsibility or liability for (i) any information you submit to the Site or (ii) your or third parties' use or misuse of information transmitted or received using the Site. You can review and revise your profile information at any time. 
 
-All information gathered by us shall be stored on servers, log files and any other storage system owned by us or by third parties. Additionally, information may be stored on our computers, hard drives, hard copies, etc. 
+Twylah may give you the option to share certain of Your Information or other personally identifiable information with other users of the Site. By agreeing or opting to have your information shared, you consent to Twylah sharing such information. 
 
-* **Collection of Information by Third-Party Sites and Advertisers**
+We may employ third party companies and individuals to facilitate our service, to provide the service on our behalf, to perform Site-related services (including but not limited to maintenance services, database management, web analytics and improvement of the Site’s features) or to assist us in analyzing how our Site and service are used. These third parties have access to your personal information for purposes of performing these tasks on our behalf. Further, we may share with third parties with aggregated usage, subscription, and on-in data collected by Twylah (through the use of cookies or otherwise) to deliver trends and metrics reports to such third parties. 
 
-Our network of websites and all mobile applications may contain links to other websites/other applications, whose privacy policies may be different to ours. You should consult the other sites'/applications’ privacy policies as we have no control over information that is submitted to, or collected by, these third parties.
+Twylah, Inc. cooperates with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including but not limited to subpoenas), to protect the property and rights of Twylah, Inc. or a third party, to protect the safety of the public or any person, or to prevent or stop any activity we may consider to be, or to pose a risk of being, illegal, unethical, inappropriate or legally actionable. 
 
-On our network of websites and all mobile applications, there are third party advertisers and links who advertise their products and/or services and such third party advertisers and links may place or recognize a unique "cookie" on your browser and may use information (not including your name, address, e-mail address) about your visits to our and other websites in order to provide advertisements about goods and services of interest to you.
+Twylah, Inc. may sell, transfer or otherwise share some or all of its assets, including your personal information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy. 
 
-* **Disclosure**
+**Changing or Deleting Your Information**
 
-You agree and acknowledge that Greynium shall be at liberty to disclose your information or part thereof to its agents/ business partners/ retailers/vendors/ service providers/ third party servers/advertisers and other business associates.
+Please notify us at privacy-at-twylah.com if you need to update, correct or delete the personal information provided in your registration or account profile. 
 
-* **Confidentiality**
+**Opt-in/Opt-out Choice**
 
-We at Greynium endeavor to treat your information as confidential and not cause any harm, theft, loss, unauthorized access, misuse within our storage system, alteration and destruction. In line with the priority for confidentiality, we request you to SSL-enabled browsers such as Chrome, Safari, Firefox or Internet Explorer as such browsers protect the confidentiality of out information while it is transmitted over internet. In the event any of our Services are public forums such at chat rooms you shall be responsible for the information you may disclose on such forums to other users.
+When you register for the Site and from time to time, Twylah may offer you the opportunity to register to receive Twylah’s newsletter or press releases, or on occasion Twylah may combine information Twylah receives online with outside records to enhance the ability to market to you those products or services that may be of interest to you, including to our business partners or other entities with whom we have cooperative relationships so that they can send you promotional and other information (“Optional Information”). By registering for Optional Information, you acknowledge and agree that Twylah may display or otherwise provide you with such Optional Information using contact information in your User Account. You may always “opt-out” of such use of your contact information by contacting us using the Contact Information below. Notwithstanding your choice to opt-out of receiving Optional Information, Twylah reserves the right to send you certain communications regarding the Site and your User Account. 
 
-However, in the course of our business we may be required to disclose information about you or part thereof to its agents/ business partners/ retailers/vendors/ service providers/ third party servers/advertisers and other business associates. 
+**Posting Areas**
 
-* **Legal Disclosure**
+Twylah may at times offer you the ability to post content and information to a forum, message board or other similar designated areas of the Site (collectively, the “Posting Areas”). In order to do so, you will be required to create a User Account and provide associated Account Information, as described above. You should be aware that any user of the Posting Areas may read your postings in the Posting Areas. Furthermore, any information which you may post to the Posting Areas, including but not limited to your name and other personal information, will be disclosed and available to all users of the Posting Areas, and will therefore not be private. Twylah cannot guarantee the security of information that is disclosed or communicated online in public or semi-public areas such as the Posting Areas, and you provide such information at your own risk. Twylah does not author, edit, endorse, or monitor the Posting Areas. You acknowledge and agree that Twylah has no responsibility for the accuracy or availability of information provided on the Posting Areas, including any Linked Sites that may be provided in the Posting Areas, and that Twylah does not control or endorse any Linked Sites or other information, content, advice or other materials presented on the Posting Areas. Twylah reserves the right at any time, in its sole discretion, to remove any content that a user may post on the Posting Area and restrict any user’s access to any Posting Area. 
 
-You agree that if so required by law or as per directions of the governmental agency, authority, court, etc, Greynium may be required to disclose all your information and in such an event Greynium is in no manner responsible for informing you or seeking your prior approval.
+**Third Party Links and Ads**
 
-* **Grievances**
+This Site may contain links to web sites not owned or operated by Twylah (“Linked Sites”). Twylah’s provision of such links is for your convenience only and does not create or imply any relationship or partnership between Twylah and the operator of such Linked Site. You acknowledge and agree that Twylah is not responsible for the privacy practices of Linked Sites, and this Privacy Policy does not apply to such Linked Sites. Consequently, the operators of Linked Sites may collect different kinds of information about you, and may use and disclose that information in different ways than Twylah would if it were collected on the Site. Twylah encourages you to review the privacy policies on the Linked Sites. TWYLAH DISCLAIMS ALL RESPONSIBILITY OR LIABILITY FOR THE ACTIONS OF, PRIVACY PRACTICES OF, OR INFORMATION CONTAINED ON OR COLLECTED VIA LINKED SITES. 
 
-In the event you have any grievances relating to the Policy, please inform us within 24 hours of occurrence of the instance from which the grievance has arisen, by writing an email to tos@oneindia.co.in. We shall respond to all grievances lodged with us, within 36 hours through emails, telephone calls, personal visits, etc. 
+Further, Twylah’s Site may offer content (e.g., contests, sweepstakes, or promotions) that is sponsored by or cobranded with identified third parties. By virtue of these relationships, the third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the website activity. We have no control over these third parties’ use of this information. The Site will notify you at the time of requesting personally identifiable information if these third parties will obtain such information. 
 
-* **Amendments**
+This Site covered by this Privacy Policy may use a reputable third party to present or serve the advertisements that you may see at its Site. These third party ad servers may use cookies, web beacons, clear .gifs or similar technologies to help present such advertisements, and to help measure and research the advertisements’ effectiveness. The use of these technologies by these third party ad servers is subject to their own privacy policies and is not covered by our privacy statement. 
 
-Greynium retains unconditional right to modify or amend this Policy without any recourse to you or any requirement of notice of the same to you.
+**Security**
+
+Twylah, Inc. is very concerned with safeguarding Your Information. We employ reasonable measures designed to protect Your Information from unauthorized access. Your Account Information is also protected with certain user credentials (i.e., your User ID, as described in the Terms of Service). You are responsible for taking all reasonable steps to ensure that no unauthorized person has access to your User Account or User ID. It is your sole responsibility to authorize, monitor, and control access to and use of your User ID. 
+
+Although Twylah makes good faith efforts to store Your Information collected on the Site in a secure operating environment that is not available to the public, Twylah cannot guarantee the absolute security of such information during its transmission or its storage on Twylah systems. Further, while Twylah uses commercially reasonable effort to ensure the integrity and security of its network and systems, Twylah cannot guarantee that such security measures will prevent third-party “hackers” from illegally obtaining access to Your Information. Twylah does not warrant or represent that Your Information will be protected against, loss, misuse, or alteration by third parties. 
+
+**Child protection**
+
+The Site is a general audience website intended for use by adults. This Site is not directed to children under 18. We do not knowingly collect personally identifiable information from children under 13. If a parent or guardian becomes aware that his or her child has provided us with personal information without their consent, he or she should contact us at privacy-at-twylah.com. If we become aware that a child under 13 has provided us with personal information, we will delete such information from our files. 
+
+**Contacting Us**
+
+If you have any questions about this Privacy Policy, please contact us at privacy-at-twylah.com. 
