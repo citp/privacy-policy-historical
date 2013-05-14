@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the massaudubon.org privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105022943id_/http%3A//www.massaudubon.org/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the massaudubon.org privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514164728id_/http%3A//massaudubon.org/about/privacy.php) for the most accurate reproduction.*
 
 # Mass Audubon | About Mass Audubon
 
@@ -10,9 +10,9 @@ Collection of Personal Information
 If during your visit to our site you only browse, read pages, or download material, we cannot collect any information that will identify you personally or determine your e-mail address. Other areas of our site may request that you provide personal information such as your name, address, or e-mail address. Mass Audubon may use this information to provide information requested by users or to extend promotional offers or other invitations. 
 
 Cookies and Aggregate Information  
-Mass Audubon’s website uses a technology called a “cookie.” The cookie is a small text file that is temporarily stored on your hard drive. When you return to our site, your web browser passes the cookie from your computer back to our website, so we can recognize you as you move through our site. At no time will the cookie reveal to others any personal information about you, including your name, address, or e-mail address—even if you have submitted this information to other areas of the site. 
+Mass Audubon's website uses a technology called a "cookie". The cookie is a small text file that is temporarily stored on your hard drive. When you return to our site, your web browser passes the cookie from your computer back to our website, so we can recognize you as you move through our site. At no time will the cookie reveal to others any personal information about you, including your name, address, or e-mail address&emdash;even if you have submitted this information to other areas of the site. 
 
-Our website automatically logs information such as IP address and browser type of all visitors in order to measure the usage of our website. We use this information to analyze how visitors use our site, which helps us improve our visitors’ experience.
+Our website automatically logs information such as IP address and browser type of all visitors in order to measure the usage of our website. We use this information to analyze how visitors use our site, which helps us improve our visitors' experience.
 
 Data Security  
 We have appropriate, industry standard security measures in place in our physical facilities to protect against the loss, misuse, or alteration of information that we have collected from you at our site. The information collected is only distributed to relevant staff members (e.g. membership staff, tech support) depending on the nature of the inquiry. When using a credit card to order services through our website, the credit card information is transmitted over the internet using industry standard SSL and/or PGP encryption. We use outside credit card processing companies to process online credit card transactions for goods and services. These companies do not retain, share, store, or use personally identifiable information for any secondary purposes. 
@@ -20,7 +20,7 @@ We have appropriate, industry standard security measures in place in our physica
 Member Information  
 Member information is never sold or rented. However, Mass Audubon occasionally exchanges with other nonprofit organizations the names and mailing addresses of a limited number of members. Additionally, Mass Audubon periodically partners with organizations to send product offers and promotional mailings that we believe may be of interest to our members. 
 
-Members who wish to opt-out of these exchanges and product offers may choose a [confidentiality option](https://web.archive.org/web/20121105022943id_/http%3A//www.massaudubon.org/about/confidential.php) or contact Member Services.
+Members who wish to opt-out of these exchanges and product offers may choose a [confidentiality option](https://web.archive.org/web/20130514164728id_/http%3A//massaudubon.org/about/confidential.php) or contact Member Services.
 
 Mass Audubon regularly uses outside vendors for purposes of producing mailings, updating addresses, or sending email messages. In each case, we verify that member information is handed securely and treated confidentially.
 
