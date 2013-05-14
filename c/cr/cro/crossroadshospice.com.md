@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crossroadshospice.com privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114154809id_/http%3A//www.crossroadshospice.com/common/cms/documents/4411_Notice%2520of%2520Privacy%2520Practicies.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crossroadshospice.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514154310id_/http%3A//www.crossroadshospice.com/common/cms/documents/4411_Notice%2520of%2520Privacy%2520Practicies.pdf) for the most accurate reproduction.*
 
 # 
 
