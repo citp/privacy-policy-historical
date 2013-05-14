@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wickes.co.uk privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630161511id_/http%3A//www.wickes.co.uk/pcat/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wickes.co.uk privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514190053id_/http%3A//www.wickes.co.uk/pcat/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Customer Services - Wickes
+# Privacy Policy - Shopping at Wickes - Wickes
 
 By registering or placing an order on this website you consent to the collection, use and transfer of your information under the terms of this policy.
 
