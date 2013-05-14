@@ -1,13 +1,33 @@
-> *The following text is extracted and transformed from the floridalottery.com privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110194805id_/http%3A//www.floridalottery.com/privacypolicyMain.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the floridalottery.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514140159id_/http%3A//floridalottery.com/privacyPolicy.do) for the most accurate reproduction.*
 
-# Privacy Policy
+# Florida Lottery - Privacy Policy
 
-Thank you for visiting the Florida Lottery’s Web site (www.flalottery.com). Your privacy is very important to us. Our policy is to not collect any personal information about you when you visit the www.flalottery.com Web site, unless you affirmatively choose to make such information available to us.
+The Florida Lottery recognizes the importance of privacy to visitors of the Florida Lottery website. Therefore, visitors should be aware of the following information:
 
-When you visit www.flalottery.com, the Web server automatically recognizes only the Internet domain and IP address from which you accessed the site. This information does not result in the identification of your personal e-mail address or other personal information.
+## Public Records
 
-In addition, information is only gathered regarding the volume and timing of access to the site by collecting information on the date, time and pages that you visited while at the site. This is done so that the content of the site can be improved, and your personal information is not identified. 
+Visitors should be aware that, subject to certain statutory exceptions, most documents and records maintained by the state of Florida, including but not limited to electronic data, are public records under Florida law. Therefore, information submitted through this website may be subject to disclosure pursuant to a public records request. Records required to be maintained pursuant to the laws of Florida will be retained and disposed of in accordance with applicable record retention schedules.
 
-If you choose to share personal information, for example, by sending an e-mail to our ASKLOTT account, the information will be saved for a designated period of time in order to comply with the state of Florida's archiving policies. However, information will not be disclosed to third parties or other government agencies, unless required by state or federal law. Please note that Florida's public records law requires that all information received in connection with state business be made available to anyone upon request, unless the information is subject to a specific statutory exemption.
+## Usage Statistics
 
-If you have other questions about this privacy policy, or have suggestions on how it may be improved, please feel free to e-mail our [Customer Service Department](http://www.flalottery.com/inet/contact.do) or contact us by telephone at (850) 487-7787.
+In order to generate usage statistics to help us improve our website, we automatically collect certain information on every visitor to the website. However, this information does not disclose "personal identifiers" (such as name, address, telephone number, e-mail address, etc.). Each time a request is made to view a page within this website, our website creates a log file capturing generic user information. Examples of this type of information includes the type of Internet browser or computer operating system you are using, the date and time you accessed this site, the Internet protocol address of the individual computer (or proxy server) making the request, and the Internet address of the site from which you may have linked to this site. All information collected by way of server log files is used in aggregate form only, and may be analyzed for trends and statistics.
+
+## Online Forms and E-mail
+
+This website will not collect personally identifiable information (such as name, address, telephone number, etc.) unless you provide such information voluntarily. We may ask for such information so that we can tailor interactive features of this Website to your specific interests and needs (including periodically forwarding information that matches your selected interests). You are free to provide or to not provide the requested information. If you choose to not provide this type of information, you can still visit most of the website, but you may be unable to participate in certain online forums. Any personal information voluntarily provided by visitors, including personal information submitted on online forms and e-mail, will be used for the purposes stated on the web page and may also be shared with other agencies as required by law or pursuant to agency authority. Information submitted through this website also may be subject to disclosure pursuant to a public records request.
+
+## Web Cookies
+
+Visitors who submit information via this website should be aware that data linking your computer to this website (a "cookie") may be created. Temporary cookies may be used when necessary to complete a transaction, to process data submitted to us online or to facilitate ongoing Internet interaction. Information collected on our websites, including cookies, may also be subject to disclosure pursuant to a public records request.
+
+## Links and Affiliated Websites
+
+Some hypertext links on the Florida Lottery website link to other sites and other third parties. By clicking on any of these links, you are leaving our website. The Florida Lottery has no control over the information collected by any third party after you have left the Florida Lottery website. The Florida Lottery encourages you to read their privacy policies.
+
+The data collection, usage and disclosure practices of any third party linked to the Florida Lottery website are not covered by this Privacy Policy. The Florida Lottery assumes no liability and is not responsible for any practices of such third party websites, including their privacy practices or content, or disclosure of information by third parties.
+
+Reference to any websites linked to this site does not constitute an endorsement by the Florida Lottery. The Florida Lottery is not responsible for the contents of any websites linked to this site, and any views expressed on such websites do not necessarily represent the views of the Florida Lottery. You assume any and all risk associated with the use of any website linked to this site. The Florida Lottery does not guarantee or warrant any information, services or products advertised or offered on such websites.
+
+## Contact
+
+Any further questions concerning the privacy policy for the Florida Lottery website should be directed to the Lottery's Customer Service Department or by phone at (850) 487-7787.
