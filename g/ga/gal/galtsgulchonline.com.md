@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the galtsgulchonline.com privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111192114id_/http%3A//galtsgulchonline.com/w3c/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the galtsgulchonline.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514065053id_/http%3A//www.galtsgulchonline.com/w3c/privacy.html) for the most accurate reproduction.*
 
-# Galt's Gulch Online - Privacy
+# Galt's Gulch - Privacy
 
   
 
@@ -93,3 +93,5 @@ USA
 admin@galtsgulchonline.com 
 
 This policy is powered by Trust Guard [PCI compliance](http://www.trust-guard.com/PCI-Compliance-s/65.htm). 
+
+You must be signed in to do that. Would you like to sign in now?
