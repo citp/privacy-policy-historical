@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the yourdictionary.com privacy policy that was archived on 2012-12-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121221112933id_/http%3A//www.yourdictionary.com/about/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the yourdictionary.com privacy policy that was archived on 2013-05-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130514024924id_/http%3A//www.yourdictionary.com/about/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head profile="http://a9.com/-/spec/opensearch/1.1/">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -10,14 +10,14 @@
     <title>Privacy Policy</title>
     <meta charset="utf-8">    
     <meta http-equiv="X-UA-Compatible" content="IE=8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
     <link rel="search" type="application/opensearchdescription+xml" href="http://www.yourdictionary.com/Definitions-Search.xml" title="YourDictionary.com">
-    <link rel="stylesheet" media="screen" href="http://cf.ydcdn.net/1.0.0.25/css/master.css">
-    <!--[if lt IE 7]><link rel="stylesheet" type="text/css" media="screen" href="http://cf.ydcdn.net/1.0.0.25/css/ie6.css" /><![endif]-->
-    <!--[if IE 7]><link rel="stylesheet" type="text/css" media="screen" href="http://cf.ydcdn.net/1.0.0.25/css/ie.css" /><![endif]-->    
-    <!--[if IE 8]><link rel="stylesheet" type="text/css" media="screen" href="http://cf.ydcdn.net/1.0.0.25/css/ie8.css" /><![endif]-->    
-    <script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script>var base_datastring = '/feedbackarticle/131/0/0/';</script>
-<meta property="og:title" content="Privacy Policy"><script type="text/javascript">
-var yd_cdn = 'http://cf.ydcdn.net/1.0.0.25';
+    <link rel="stylesheet" media="screen" href="http://cf.ydcdn.net/1.0.0.30/css/master.css">
+    <!--[if lt IE 7]><link rel="stylesheet" type="text/css" media="screen" href="http://cf.ydcdn.net/1.0.0.30/css/ie6.css" /><![endif]-->
+    <!--[if IE 7]><link rel="stylesheet" type="text/css" media="screen" href="http://cf.ydcdn.net/1.0.0.30/css/ie.css" /><![endif]-->    
+    <!--[if IE 8]><link rel="stylesheet" type="text/css" media="screen" href="http://cf.ydcdn.net/1.0.0.30/css/ie8.css" /><![endif]-->    
+<meta property="og:title" content="Privacy Policy"><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+var yd_cdn = 'http://cf.ydcdn.net/1.0.0.30';
 var _gaq = _gaq || [];
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
@@ -35,27 +35,74 @@ googletag.cmd = googletag.cmd || [];
    var node =document.getElementsByTagName("script")[0];
    node.parentNode.insertBefore(gads, node);
   })();
-googletag.cmd.push(function() {
-    
-    googletag.defineSlot('/1004147/YD_Www_728', [728,90], 'ad-super-Www').addService(googletag.pubads());
-googletag.defineSlot('/1004147/YD_Www_300', [[300,600],[300,250],[160,600]], 'ad300-Www').addService(googletag.pubads());
-   googletag.defineSlot('/1004147/YD1x1', [1,1], 'ad11').addService(googletag.pubads());
+var yd_ads = [
+ {
+  n:'YD_Www_728',
+  i:'ad-super-www',
+  s:[
+   {minw:728,maxw:9999,c:[728,90]}
+  ]
+ },
+ {
+  n:'YD_Www_728_m',
+  i:'ad-super-www-m',
+  s:[
+   {minw:1,maxw:727,c:[320,50]} 
+  ]
+ },
+ {
+  n:'YD_Www_300',
+  i:'ad300-www',
+  s:[
+   {minw:1025,maxw:9999,c:[[300,600],[300,250],[160,600]]},
+   {minw:1,maxw:1024,c:[300,250]}
+  ]
+ },
+ {
+  n:'YD1x1',
+  i:'ad11',
+  s:[
+   {minw:1,maxw:9999,c:[1,1]}
+  ]
+ }
+];
+googletag.cmd.push(load_ads);
+
+function load_ads()
+{
+   var myWidth = window.innerWidth || document.documentElement.clientWidth;
+
+   for(var i = 0; i < yd_ads.length; i++)
+   {
+      var ad = yd_ads[i];
+      for(var j = 0; j < ad.s.length; j++)
+      {
+         var size = ad.s[j];
+         if(myWidth >= size.minw && myWidth <= size.maxw)
+         {
+            googletag.defineSlot('/1004147/' + ad.n, size.c, ad.i).addService(googletag.pubads());
+            googletag.cmd.push(function(){googletag.display(ad.i);});
+            break;
+         }
+      }
+   }
+   googletag.pubads().set("page_url", location.href);
    googletag.pubads().collapseEmptyDivs();
    googletag.pubads().enableSingleRequest();
    googletag.enableServices();
-});
+}
 </script>
-<script src="http://cf.ydcdn.net/1.0.0.25/js/preload.js"></script>
+<script src="http://cf.ydcdn.net/1.0.0.30/js/preload.js"></script>
 </head>
 <body>
 <div id="wrapOuter">
 <div class="clear"></div>
 <div class="hdrMain">
     <div class="hdrLeft">
-            <p><a href="http://www.yourdictionary.com" onclick="_gaq.push(['_trackEvent', 'Home page from logo', 'Click']);"><img src="http://cf.ydcdn.net/1.0.0.25/images/yd-logo-02-md.png" width="433" height="55" alt="YourDictionary"></a></p>
+            <p><a href="http://www.yourdictionary.com" onclick="_gaq.push(['_trackEvent', 'Home page from logo', 'Click']);" class="upper_logo"></a></p>
         </div>
     
-    <div class="hdrRight">
+     <div class="hdrRight">
         <div id="tab-container" class="tab-container">
             <ul class="etabs">
                 <li class="tab"><a href="#tabs1-dictionary">Dictionary</a></li>
@@ -70,7 +117,7 @@ googletag.defineSlot('/1004147/YD_Www_300', [[300,600],[300,250],[160,600]], 'ad
         </ul>
         <div class="panel-container">
             <div id="tabs1-dictionary">
-              <form name="searchbox" class="searchcontainer" action="/search/" method="get">
+              <form name="searchbox" class="searchcontainer" action="/search/" method="post">
                 <input class="search" id="search1" name="ydQ" onkeypress="make_blank_about1();" onclick="make_blank_about1();" onfocus="make_blank_about1();" type="text">
                 <input id="submit1" value="" type="submit">
               </form>
@@ -78,7 +125,7 @@ googletag.defineSlot('/1004147/YD_Www_300', [[300,600],[300,250],[160,600]], 'ad
             
             
             <div id="tabs1-thesaurus">
-              <form name="searchbox" class="searchcontainer" action="/search/" method="get">
+              <form name="searchbox" class="searchcontainer" action="/search/" method="post">
                 <input class="search" id="search3" name="ydQ" onkeypress="make_blank_about3();" onclick="make_blank_about3();" onfocus="make_blank_about3();" type="text">
                 <input type="hidden" name="dict" value="thesaurus">
                 <input id="submit3" value="" type="submit">
@@ -86,7 +133,7 @@ googletag.defineSlot('/1004147/YD_Www_300', [[300,600],[300,250],[160,600]], 'ad
             </div>
             
             <div id="tabs1-examples">
-              <form name="searchbox" class="searchcontainer" action="/search/" method="get">
+              <form name="searchbox" class="searchcontainer" action="/search/" method="post">
                 <input class="search" id="search4" name="ydQ" onkeypress="make_blank_about4();" onclick="make_blank_about4();" onfocus="make_blank_about4();" type="text">
                 <input type="hidden" name="dict" value="sentence">
                 <input id="submit4" value="" type="submit">
@@ -97,7 +144,11 @@ googletag.defineSlot('/1004147/YD_Www_300', [[300,600],[300,250],[160,600]], 'ad
     </div>
 </div>
 </div>
-<div id="ad-super"><div id="ad-super-Www"><script type="text/javascript">googletag.cmd.push(function(){googletag.display('ad-super-Www');});</script></div></div>
+<div class="clear"></div>
+<div id="ad-super">
+    <div id="ad-super-www"><script type="text/javascript">googletag.cmd.push(function(){googletag.display('ad-super-www');});</script></div>
+    <div id="ad-super-www-m"><script type="text/javascript">googletag.cmd.push(function(){googletag.display('ad-super-www-m');});</script></div>
+</div>
 <div class="contentWrap">
 <div class="contentWrapLeft">
 <div id="crumbs">
@@ -124,71 +175,22 @@ googletag.defineSlot('/1004147/YD_Www_300', [[300,600],[300,250],[160,600]], 'ad
             </ul>
 </div>
  </div>
-<div class="feedback_section">
- <a class="trigger_feedback" href="#">Feedback</a>
- <div id="my_dialog">
-    <div id="my_dialog_initial" style="display:none">
-        <dl>
-            <dt>Helpful?</dt>
-            <dd id="yes"><a class="trigger_less_feedback" href="#">Yes</a></dd>
-            <dd id="no"><a class="trigger_more_feedback" href="#">No</a></dd>
-        </dl>
-    </div>
-    <div id="my_dialog_less" style="display:none">
-        <ul style="left: -60px; ">
-            <li id="response">
-                <p><span id="thankyou" class="Heading5 tagline">
-                    Thanks for your feedback!
-                </span></p>
-                <p style="text-align:right;"><a style="padding:2px 10px;background:#666;color:#FFF;" class="feedback_close_less" href="#">close</a></p>
-            </li>
-        </ul>
-    </div>
-    <div id="my_dialog_more" style="display:none">
-        <form name="imFeedBack-FormContainer" id="imFeedBack-FormContainer">
-            <input type="hidden" name="fb_type" value="article">
-            <input type="hidden" name="id" value="131">
-            <input type="hidden" name="slug" value="">
-            <input type="hidden" name="dictionary_slug" value="">
-            <ul style="left: -60px; ">
-                <li id="feedback" style="display: list-item; ">
-                    <span class="Heading5 tagline">What's wrong?</span>
-                    <span class="Heading5 tagline tell">Please tell us more:</span>
-                    <fieldset class="choices">
-                        <label><input type="radio" name="o" value="information_is_lacking" checked="">Incomplete information</label><br>
-                        <label><input type="radio" name="o" value="information_out_of_date">Out of date information</label><br>
-                        <label><input type="radio" name="o" value="information_is_inaccurate">Wrong information</label><br>
-                        <label><input type="radio" name="o" value="information_is_offensive">This is offensive!</label><br>
-                    </fieldset>
-                    <fieldset class="details">
-                        <textarea id="fb_details" name="p" rows="4" onfocus="if (this.value=='Specific details will help us make improvements') this.value = ''">Specific details will help us make improvements</textarea>
-                            <input type="submit" name="mysubmit" value="Submit" id="fb_submit">
-                    </fieldset>
-                </li>
-            </ul>
-        </form>
-    </div>
-</div>
-</div>
 </div>
 
 <div class="contentWrapRight">
  <div class="padWrap">
-    <p class="ad300"></p><div id="ad300"><div id="ad300-Www"><script type="text/javascript">googletag.cmd.push(function(){googletag.display('ad300-Www');});</script></div></div><p></p>
+    <p class="ad300"></p><div id="ad300"><div id="ad300-www"><script type="text/javascript">googletag.cmd.push(function(){googletag.display('ad300-www');});</script></div></div><p></p>
            
         
            
     
-          
-      <form id="random" action="/random_search" method="post"><input type="submit" id="random_submit" value=""></form>
- </div>
+       </div>
 </div>
 
 <div class="clear"></div>
 
 </div>
 <div class="footer">
-    <p>
         <span class="footer_link"><a href="http://www.yourdictionary.com/about.html" onclick="_gaq.push(['_trackEvent', 'About page from footer', 'Click']);">About YourDictionary</a></span>
         <span class="footer_link"><a href="http://www.yourdictionary.com/about/adopp.html" onclick="_gaq.push(['_trackEvent', 'Advertisers page from footer', 'Click']);">Advertisers</a></span>
         <span class="footer_link"><a href="http://www.yourdictionary.com/about/contact.html" onclick="_gaq.push(['_trackEvent', 'Contact Us page from footer', 'Click']);">Contact Us</a></span>
@@ -198,8 +200,18 @@ googletag.defineSlot('/1004147/YD_Www_300', [[300,600],[300,250],[160,600]], 'ad
         <span class="footer_link"><a href="http://www.yourdictionary.com/dicthelp.html" onclick="_gaq.push(['_trackEvent', 'Help page from footer', 'Click']);">Help</a></span>
         <span class="footer_link"><a href="https://www.surveymonkey.com/s/52K2Z79" target="_blank" onclick="_gaq.push(['_trackEvent', 'Suggestion Box page from footer', 'Click']);">Suggestion Box</a></span>
         <span class="footer_link"><a href="http://www.yourdictionary.com/dictionary_tools.html" onclick="_gaq.push(['_trackEvent', 'Tools page from footer', 'Click']);">Tools</a></span>
-    </p>
-<p>© 1996-2012 LoveToKnow, Corp. All Rights Reserved. Audio pronunciation provided by LoveToKnow, Corp.</p>
+        <br>
+<small>© 1996-2013 LoveToKnow, Corp. All Rights Reserved. Audio pronunciation provided by LoveToKnow, Corp.</small>
+</div>
+<div class="footer_mobile">
+        <span class="footer_link"><a href="http://www.yourdictionary.com/about.html" onclick="_gaq.push(['_trackEvent', 'About page from footer', 'Click']);">About YourDictionary</a></span>
+        <span class="footer_link"><a href="http://www.yourdictionary.com/about/adopp.html" onclick="_gaq.push(['_trackEvent', 'Advertisers page from footer', 'Click']);">Advertisers</a></span>
+        <span class="footer_link"><a href="http://www.yourdictionary.com/about/contact.html" onclick="_gaq.push(['_trackEvent', 'Contact Us page from footer', 'Click']);">Contact Us</a></span>
+        <span class="footer_link"><a href="http://www.yourdictionary.com/about/privacy.html" onclick="_gaq.push(['_trackEvent', 'Privacy Policy page from footer', 'Click']);">Privacy Policy</a></span>
+        <span class="footer_link"><a href="http://www.yourdictionary.com/about/terms-of-use.html" onclick="_gaq.push(['_trackEvent', 'Terms of Use page from footer', 'Click']);">Terms of Use</a></span>
+        <span class="footer_link"><a href="http://www.yourdictionary.com/dicthelp.html" onclick="_gaq.push(['_trackEvent', 'Help page from footer', 'Click']);">Help</a></span>
+        <br>
+<small>© 1996-2013 LoveToKnow, Corp. All Rights Reserved. Audio pronunciation provided by LoveToKnow, Corp.</small>
 </div>
 
 </div>    
@@ -211,9 +223,9 @@ googletag.defineSlot('/1004147/YD_Www_300', [[300,600],[300,250],[160,600]], 'ad
    <div class="heading">Cite this page</div>
    <div class="content">
       <p><strong>MLA Style</strong></p>
-      <p class="cite">"Privacy Policy." <em>YourDictionary</em>. LoveToKnow, n.d. Web. 7 December 2012. &lt;http://www.yourdictionary.com/about/privacy.html&gt;.</p>
+      <p class="cite">"Privacy Policy." <em>YourDictionary</em>. LoveToKnow, n.d. Web. 17 April 2013. &lt;http://www.yourdictionary.com/about/privacy.html&gt;.</p>
       <p><strong>APA Style</strong></p>
-      <p class="cite">Privacy Policy. (n.d.). Retrieved December 7th, 2012, from http://www.yourdictionary.com/about/privacy.html</p>
+      <p class="cite">Privacy Policy. (n.d.). Retrieved April 17th, 2013, from http://www.yourdictionary.com/about/privacy.html</p>
    </div>
 </div>
 <script type="text/javascript">googletag.cmd.push(function(){googletag.display('ad11');});</script>
@@ -248,10 +260,10 @@ else
     );    
 }
 </script>
-<!--[if gt IE 6]><link rel="stylesheet" type="text/css" media="print" href="http://cf.ydcdn.net/1.0.0.25/css/print.css" /><![endif]-->
-<!--[if !IE]><link rel="stylesheet" type="text/css" media="print" href="http://cf.ydcdn.net/1.0.0.25/css/print.css" /><![endif]-->
+<!--[if gt IE 6]><link rel="stylesheet" type="text/css" media="print" href="http://cf.ydcdn.net/1.0.0.30/css/print.css" /><![endif]-->
+<!--[if !IE]><link rel="stylesheet" type="text/css" media="print" href="http://cf.ydcdn.net/1.0.0.30/css/print.css" /><![endif]-->
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
-<script type="text/javascript" src="http://cf.ydcdn.net/1.0.0.25/js/jquery.easytabs.min.js"></script> 
+<script type="text/javascript" src="http://cf.ydcdn.net/1.0.0.30/js/jquery.easytabs.min.js"></script> 
 <script type="text/javascript">
 // anything that needs to run after the document has loaded needs to go in this function
 function make_blank_about1()
@@ -289,5 +301,5 @@ $('#tab-container').easytabs({
     panelActiveClass: "normal"
 });
 </script>
-<!-- CACHED Fri, 07 Dec 2012 09:02:19am PST -->
+<!-- CACHED Wed, 17 Apr 2013 03:56:00pm CDT -->
 </body></html>
