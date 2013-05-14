@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ilive.to privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219114819id_/http%3A//www.ilive.to/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ilive.to privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514082318id_/http%3A//www.ilive.to/privacy-notice) for the most accurate reproduction.*
 
-# Privacy Notice - ilive.to - better live streaming platform
+# Privacy Notice
 
 Welcome to the iLive.to. ("iLive.to") applications, platform, website( [www.iLive.to](http://www.ilive.to/)), and any other web sites, applications, or services operated or produced by iLive.to (collectively, the "iLive.to Platform"). iLive.to values the privacy of the users, subscribers, publishers, members, and others who visit and use the iLive.to Platform (collectively or individually, "You" or "Users").
 
@@ -76,6 +76,12 @@ For Users visiting the iLive.to Platform from the European Economic Area or othe
 **In the Event of Merger or Sale**
 
 In the event that iLive.to is acquired by or merged with a third-party entity, we reserve the right, in any of these circumstances, to transfer or assign the information that we have collected from Users as part of that merger, acquisition, sale, or other change of control. Changes and Updates to this Privacy Notice:
+
+**Cookies & 3rd Party Advertisements**
+
+Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <http://www.networkadvertising.org/managing/opt_out.asp>.
 
 This Privacy Notice may be revised periodically without further notice to you and this will be reflected by a "last modified" date below. Please revisit this page to stay aware of any changes. In general, we only use your personal information in the manner described in the Privacy Notice in effect when we received that personal information. Your continued use of the iLive.to Platform constitutes your agreement to this privacy Notice and any future revisions.
 
