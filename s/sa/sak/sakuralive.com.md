@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sakuralive.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515011843id_/http%3A//sakuralive.com/privacy/free-japanese-webcam.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sakuralive.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514081455id_/http%3A//www.sakuralive.com/privacy/free-japanese-webcam.html) for the most accurate reproduction.*
 
 # Free Japanese Webcam: Private Policy Is Taken Very Seriously At Sakuralive.com
 
@@ -31,7 +31,7 @@ This notice applies to all information collected or submitted on SakuraLive web 
 
 
 **The Way We Use Information:**  
-Customer information such as name, address and email may be verified between SakuraLive and your credit card issuing bank for security purposes. Information is not shared with any other parties.
+Customer information such as name, address and email may be verified between SakuraLive and your credit card issuing bank for security purposes. Information is not shared with any other parties. Your email may also be used to contact you.
 
 **Our Commitment To Data Security**  
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
