@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the startpage.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014020006id_/https%3A//startpage.com/au/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startpage.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514165253id_/https%3A//www.startpage.com/uk/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -30,7 +30,7 @@ Cookies are small pieces of data that are sent and saved to your computer's hard
 Startpage uses only one anonymous cookie called "preferences". This cookie is to remember the search preferences you saved for your next visit. It expires after 90 days.   
 You can choose to accept or refuse cookies by changing the settings of your browser. It should be noted, however, that your Startpage.com preferences will not work properly if your cookies are turned off. It is possible to accept cookies from selected sites only.  
 You can periodically delete cookies from your computer's hard drive, clearing out all historical data that may have been saved from your previous web surfing. If you delete cookies, you will not be recognized as a repeat visitor or viewer when returning to a site.  
-To promote a cookie-free internet, Startpage has recently launched a [URL generator](https://web.archive.org/au/urlgenerator-details.html) which eradicates the need for setting a cookie. It remembers your settings in a privacy friendly manner. It can be found at the bottom of the [SETTINGS](https://web.archive.org/do/preferences.pl?language_ui=english_au) page.  
+To promote a cookie-free internet, Startpage has recently launched a [URL generator](https://web.archive.org/uk/urlgenerator-details.html) which eradicates the need for setting a cookie. It remembers your settings in a privacy friendly manner. It can be found at the bottom of the [SETTINGS](https://web.archive.org/do/preferences.pl?language_ui=english_uk) page.  
 
 
 ### External Links
@@ -47,7 +47,7 @@ In light of the concern over protecting children's privacy online, Startpage doe
 
 ### Information Sharing
 
-Startpage does not share personal information with any third party search engine or the provider of its sponsored results. Click [here](https://web.archive.org/au/information-sharing.html) for details. Startpage only shares personal information with third parties when obligated to do so by law (e.g. official court order or subpoena), or to protect against imminent harm to the rights, property or safety of Startpage, its users or the general public as required by law.
+Startpage does not share personal information with any third party search engine or the provider of its sponsored results. Click [here](https://web.archive.org/uk/information-sharing.html) for details. Startpage only shares personal information with third parties when obligated to do so by law (e.g. official court order or subpoena), or to protect against imminent harm to the rights, property or safety of Startpage, its users or the general public as required by law.
 
 ### Operator
 
