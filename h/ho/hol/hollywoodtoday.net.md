@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hollywoodtoday.net privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110055738id_/http%3A//www.hollywoodtoday.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hollywoodtoday.net privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514235740id_/http%3A//www.hollywoodtoday.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -26,4 +26,4 @@ Please note that this Privacy Policy may change from time to time. We will not r
 
 If you have any questions about this Privacy Policy, please feel free to [contact us](http://www.hollywoodtoday.net/hollywood-today-about-us/).
 
-[No Comments](http://www.hollywoodtoday.net/privacy-policy/#comments)
+[1 Comment](http://www.hollywoodtoday.net/privacy-policy/#comments)
