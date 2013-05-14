@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the appliedlanguage.com privacy policy that was archived on 2012-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120925101226id_/http%3A//www.appliedlanguage.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appliedlanguage.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514080341id_/http%3A//www.capitatranslationinterpreting.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy « « Applied Language Solutions | Applied Language Solutions
+# Privacy Policy « « Capita Translation and InterpretingCapita Translation and Interpreting
 
-At Applied Language Solutions we are committed to protecting your data and privacy. So, we have published this data protection guide to ensure that you are fully aware of how and why we collect information from you, to whom such information is disclosed and what your rights are.
+At Capita Translation and Interpreting we are committed to protecting your data and privacy. So, we have published this data protection guide to ensure that you are fully aware of how and why we collect information from you, to whom such information is disclosed and what your rights are.
 
 ## What information do we collect and how do we obtain it?
 
@@ -36,7 +36,7 @@ We protect your information in the following ways:
 
 ## Receipt of Information
 
-If you do not want to continue to be contacted by Applied Language Solutions, please write to:
+If you do not want to continue to be contacted by Capita Translation and Interpreting, please write to:
 
 ## UK
 
@@ -63,6 +63,6 @@ Cookies also allow us to make our website more user friendly. We use cookies so 
 
 ## Your Consent
 
-By completing any of our online forms, you are consenting to the collection, processing and use of this information by Applied Language Solutions.
+By completing any of our online forms, you are consenting to the collection, processing and use of this information by Capita Translation and Interpreting.
 
 Last revision: April 2012
