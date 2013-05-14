@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the dogpile.com privacy policy that was archived on 2012-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120805213126id_/http%3A//www.dogpile.com/support/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dogpile.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514152407id_/http%3A//www.dogpile.com/support/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-### Dogpile
 
 #### Privacy Policy
 
@@ -110,9 +108,9 @@ VIA MAIL:
 
 InfoSpace, Inc.  
 Legal Department, Attn: Privacy Officer  
-601 108th Avenue NE, Suite 1200  
+10900 NE 8th Street, Suite 800  
 Bellevue, Washington 98004 USA 
 
 VIA EMAIL CONTACT FORM:
 
-[Email contact form](https://web.archive.org/support/contactus)
+[Email contact form](https://web.archive.org/info.dogpl.t7.1/support/contactus)
