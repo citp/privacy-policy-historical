@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reardencommerce.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630112739id_/http%3A//www.reardencommerce.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reardencommerce.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514194739id_/http%3A//www.reardencommerce.com/privacy) for the most accurate reproduction.*
 
 # Global Privacy Statement - Rearden Commerce
 
@@ -71,7 +71,7 @@ We may use the information we obtain about you to:
   * Analyze and enhance our marketing communications and strategies (including by identifying when emails sent to you have been received and read)
   * Analyze trends and statistics regarding visitors' use of our sites, mobile applications and social media assets, and the transactions visitors conduct on our sites
   * Protect against and prevent fraud, unauthorized transactions, claims and other liabilities, and manage risk exposure, including by identifying potential hackers and other unauthorized users
-  * Enforce our website [Terms of Use](http://www.reardencommerce.com/privacy/terms.html)
+  * Enforce our website [Terms of Use](https://web.archive.org/privacy/terms.html)
   * Comply with applicable legal requirements and industry standards and our policies
 
 
@@ -145,7 +145,7 @@ To update your privacy preferences, ask us to remove your information from our m
 
 You may obtain a copy of certain personal information we maintain about you or update or correct inaccuracies in that information by logging into the online account you may establish on our websites. 
 
-In addition, if you believe other personal information we maintain about you is inaccurate, you may request that we correct or amend the information by contacting us as indicated in the "[How to Contact Us](http://www.reardencommerce.com/privacy/global-privacy-statement.html#contact)" section of this Privacy Statement. If we deny an access request, we will notify you of the reasons for the denial. If you are using Rearden Commerce products or services that a Rearden Commerce business customer (such your employer or financial institution) obtained on your behalf, you should request such further access to your information from the relevant business customer.
+In addition, if you believe other personal information we maintain about you is inaccurate, you may request that we correct or amend the information by contacting us as indicated in the "[How to Contact Us](https://web.archive.org/privacy/global-privacy-statement.html#contact)" section of this Privacy Statement. If we deny an access request, we will notify you of the reasons for the denial. If you are using Rearden Commerce products or services that a Rearden Commerce business customer (such your employer or financial institution) obtained on your behalf, you should request such further access to your information from the relevant business customer.
 
 Subject to applicable law, you may have certain additional rights to request access to and receive information about the personal information we maintain about you, update and correct inaccuracies in your personal data, and have the information blocked or deleted, as appropriate. 
 
@@ -159,7 +159,7 @@ We may also provide social media features on our website that enable you to shar
 
 When we obtain personal information about you, we may process the information outside of the country in which you are located, including in the United States. The countries in which we process the information may not have the same data protection laws as the country in which you are located. We will protect your information as described in this Privacy Statement.
 
-With respect to personal information that Rearden Commerce receives in the United States from the European Union, Iceland, Liechtenstein, Norway or Switzerland, Rearden Commerce has self-certified that its privacy practices as consistent with the U.S-EU and U.S.-Swiss Safe Harbor privacy principles of Notice, Choice, Onward Transfer, Access, Security, Data Integrity and Enforcement. Please visit our [Safe Harbor Privacy Policy](http://www.reardencommerce.com/privacy/safe-harbor-privacy-policy.html) for more details.
+With respect to personal information that Rearden Commerce receives in the United States from the European Union, Iceland, Liechtenstein, Norway or Switzerland, Rearden Commerce has self-certified that its privacy practices as consistent with the U.S-EU and U.S.-Swiss Safe Harbor privacy principles of Notice, Choice, Onward Transfer, Access, Security, Data Integrity and Enforcement. Please visit our [Safe Harbor Privacy Policy](https://web.archive.org/privacy/safe-harbor-privacy-policy.html) for more details.
 
 ##### How We Protect Personal Information
 
