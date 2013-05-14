@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the helplogger.blogspot.ro privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014180151id_/http%3A//helplogger.blogspot.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the helplogger.blogspot.ro privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514203050id_/http%3A//helplogger.blogspot.com/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Blogger Help
+# Privacy Policy | Helplogger | Blogger tips, tricks, tutorials and widgets
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at helplogger76@gmail.com
 
