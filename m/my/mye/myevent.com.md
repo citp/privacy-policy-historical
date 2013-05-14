@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myevent.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919223643id_/http%3A//www.myevent.com/1/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myevent.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514051245id_/http%3A//www.myevent.com/1/privacy_policy.htm) for the most accurate reproduction.*
 
 # Make Your Own Personal Website | Easy Website Builder and Design Templates
 
