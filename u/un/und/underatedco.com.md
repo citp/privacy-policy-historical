@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the underatedco.com privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203035028id_/http%3A//www.underatedco.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the underatedco.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514045959id_/http%3A//www.underatedco.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY – Underated London
+# PRIVACY POLICY | UNDERATED
 
 **How do we use your information?**  
 We may use the information we collect from you when you register, purchase products, enter a contest or promotion, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways: 
