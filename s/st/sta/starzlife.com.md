@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the starzlife.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618121346id_/http%3A//www.starzlife.com/wp-content/themes/default-empty/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starzlife.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515002701id_/http%3A//www.starzlife.com/privacy) for the most accurate reproduction.*
 
-# Privacy policy
+# Privacy policy - StarzLife
 
 Last updated: January 18, 2008.
 
