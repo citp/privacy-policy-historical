@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cooksillustrated.com privacy policy that was archived on 2012-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121113141526id_/http%3A//www.cooksillustrated.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cooksillustrated.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514140208id_/http%3A//www.cooksillustrated.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Cook's Illustrated
 
