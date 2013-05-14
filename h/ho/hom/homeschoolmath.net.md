@@ -1,24 +1,18 @@
-> *The following text is extracted and transformed from the homeschoolmath.net privacy policy that was archived on 2012-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121011044514id_/http%3A//www.homeschoolmath.net/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homeschoolmath.net privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514023502id_/http%3A//www.homeschoolmath.net/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy of www.homeschoolmath.net
 
-[Maria's Math news](http://www.homeschoolmath.net/newsletter/) \- a monthly FREE newsletter filled with math teaching information.
+[Maria's Math news](http://www.homeschoolmath.net/newsletter/) \- a FREE math newsletter for parents and teachers
 
-[October 2012](http://www.homeschoolmath.net/newsletter/volume66-october-2012.htm)
+[May 2013](http://www.homeschoolmath.net/newsletter/volume72-may-2013.htm)
 
 Subscribe below:
 
   
-[Latest from my blog](http://homeschoolmath.blogspot.com/)  
-This is where you'll find the latest happenings, news, & ideas in math teaching 
-
-[Math teaching videos](http://www.youtube.com/user/mathmammoth/)  
-My videos at YouTube show you how to teach concepts.   
-[Structured drill of multiplication tables](http://www.youtube.com/watch?v=4bpq3Mqbwv0)—much more effective than random drill! 
-
-  
 [Worksheets](http://www.homeschoolmath.net/worksheets/)  
 Various worksheets on TONS of math topics you can generate for free! 
+
+[Basic operations worksheet generator](http://www.homeschoolmath.net/worksheets/basic-operations-worksheets.php) is updated! Make worksheets for whole numbers or integers - all four operations, including add & subtract or multiply & divide - horizontal or vertical - add a border and/or extra workspace, use a variable, and more. 
 
 [Curriculum](http://www.homeschoolmath.net/curriculum_reviews)  
 Advice, reviews, and resources to help you choose a math curriculum! 
@@ -26,7 +20,7 @@ Advice, reviews, and resources to help you choose a math curriculum!
 [Online math games, tutorials, and activities](http://www.homeschoolmath.net/online/)  
 Games you can play online, interactive tutorials, fun math websites and more. Arranged by topic/level for ease of use. 
 
-[Articles](http://www.homeschoolmath.net/teaching/)  
+[Lessons](http://www.homeschoolmath.net/teaching/)  
 Learn how to TEACH concepts or about general concerns in math education. 
 
 [Reviews](http://www.homeschoolmath.net/reviews/)  
@@ -65,17 +59,15 @@ You can choose to disable or selectively turn off the third-party cookies in you
 
 To see Amazon's and Google's privacy policies, click here: [Amazon.com Privacy Notice](http://www.amazon.com/exec/obidos/tg/browse/-/468496/102-6533223-3461729) or [Google Ads Privacy Policy](http://www.google.com/privacy_ads.html). 
 
-The website is owned and maintained by Maria Miller. If you have an enquiry or concern about our privacy policy, please [contact me here](https://web.archive.org/web/20121011044514id_/http%3A//www.homeschoolmath.net/question.php).
+The website is owned and maintained by Maria Miller. If you have an enquiry or concern about our privacy policy, please [contact me here](https://web.archive.org/web/20130514023502id_/http%3A//www.homeschoolmath.net/question.php).
 
 ** | 
 
-[](http://www.softmath.com/adv/homeschoolmath2.html)
+[](http://hoodamath.com/games/)
 
-[](http://www.dadsworksheets.com/)
+[](http://www.ixl.com/promo?partner=homeschoolmath.net&utm_source=homeschoolmath.net&utm_medium=banner&utm_campaign=partner)
 
-[](http://www.adaptedmind.com/)
-
-[](http://www.lymboo.com/hsm)
+[](http://www.mathnook.com/)
 
   
 
