@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the ejmanager.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513104950id_/http%3A//www.ejmanager.com/index.php%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ejmanager.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514185611id_/http%3A//www.ejmanager.com/index.php%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Online Journal Management System :: eJManager.com ::
-
-eJournal Manager is an Online Journal/Article Management system that can enable all of the operations of the editorial functions of a journal from manuscript submission through publishing.
 
 **Privacy Policy**
 
@@ -87,7 +85,3 @@ This Site may contain links to other web sites that are beyond our control. Othe
 If you have any questions or comments regarding this privacy policy, please contact our SupportDesk. If at any time you believe that we have not adhered to this privacy policy or you have a complaint regarding the way your personal information is being handled, please contact our SupportDesk. Disputes under this privacy policy will be resolved by our SupportDesk, which will use commercially reasonable efforts to promptly investigate and, if necessary, to correct any problem.
 
 Last revised: 7 May 2012
-
-**"** Let the eJournal Manager do all routine works of your journal on behalf of you, and allow yourself to focus on your goals. **"**
-
-**Resources**
