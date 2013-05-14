@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 48h-cashmachine.com privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121234647id_/http%3A//48h-cashmachine.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 48h-cashmachine.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514231344id_/http%3A//48h-cashmachine.com/privacy.html) for the most accurate reproduction.*
 
 # Earnings Disclaimer
 
