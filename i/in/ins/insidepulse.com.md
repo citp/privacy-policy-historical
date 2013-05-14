@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insidepulse.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226014651id_/http%3A//insidepulse.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insidepulse.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514080346id_/http%3A//insidepulse.com/privacy) for the most accurate reproduction.*
 
 # Inside Pulse Privacy
 
