@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alaskaair.com privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110064934id_/http%3A//www.alaskaair.com/content/legal/privacy-policy.aspx%3Flid%3Dfooter%3AprivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alaskaair.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514194422id_/http%3A//www.alaskaair.com/content/legal/privacy-policy.aspx%3Flid%3Dfooter%3AprivacyPolicy) for the most accurate reproduction.*
 
 # Online Privacy Notice - Alaska Airlines
 
@@ -7,11 +7,13 @@ Alaska Airlines respects your concerns about privacy. This Privacy Notice applie
   * alaskaair.com 
   * m.alaskaair.com (mobile site)
   * facebook.com/alaskaairlines
+  * apps.facebook.com/flyingsocial
 
 
 
   * Alaska Airlines mobile apps for Android, and iOS 
-  * Alaska Airlines and Horizon Air Career Web sites
+  * Alaska Airlines Windows 8 app 
+  * Alaska Airlines and Horizon Air Career websites
 
 
 
@@ -26,13 +28,14 @@ When you visit the Sites, you may provide personal information directly to us, i
   * Contact information, such as name, postal address, telephone number, and email address 
   * Travel information, such as flight, hotel and vehicle reservation information 
   * Certain categories of special needs (such as wheelchair use) 
-  * You purchase a ticket or other goods or services through the Web sites 
+  * You purchase a ticket or other goods or services through the Sites
   * Birth date and gender 
   * Transportation Security Administration (TSA) Redress Number 
   * Payment information, such as credit card number and expiration date 
   * Gift card and travel certificate information, such as card code, PIN number, and e-ticket number 
   * Confirmation code, and e-ticket number, Mileage Plan™ number and other awards or loyalty program numbers 
-  * The location of your mobile device, if you use our mobile app or mobile website to search for the nearest airport or float plane dock 
+  * The location of your device (if you use our mobile app, Windows 8 app, or mobile website to search for the nearest airport or float plane dock) 
+  * Information provided to us by Facebook when you use the Facebook-related functionality of our apps, including (depending on the app) your name, profile picture, gender, networks, user ID, hometown and location, list of friends (including their photos), and friends' hometowns and locations (but please note that the Facebook login information you enter in our apps to activate the Facebook functionality is collected directly by Facebook, and we do not have access to this information) 
   * Information about your education, work and military history, citizenship or legal work eligibility status, and other information relevant to specific jobs for which you wish to apply, such as whether you are at least 18 years of age.
 
 
@@ -47,9 +50,15 @@ Our Web servers may log information such as your device and operating system typ
 
 To control which Web servers collect information by automated means, we may place tags on our Web pages called "Web beacons", which are small files that allow us to understand the actions of visitors to our Sites, and we use similar technology to analyze users' interactions with our Mobile Apps.
 
-We use third-party Web analytics services on our Sites, such as those of Omniture and Google Analytics. These service providers use cookies and Web beacons or other technology to help us analyze how users use the Sites. The information collected by such technology (including, where applicable, your IP address) will be disclosed to these service providers, who use the information to facilitate the evaluation of your use of the Sites. [Learn more about Omniture's services](http://www.omniture.com/en/privacy/product), including your opt-out options for the Omniture tools on our websites. [Learn about Google Analytics](http://tools.google.com/dlpage/gaoptout)
+We use third-party Web analytics services on our Sites, such as those of Omniture and Google Analytics. These service providers use cookies and Web beacons or other technology to help us analyze how users use the Sites. The information collected by such technology (including, where applicable, your IP address) will be disclosed to these service providers, who use the information to facilitate the evaluation of your use of the Sites. [Learn more about Omniture's services](http://www.omniture.com/en/privacy/product), including your opt-out options for the Omniture tools on our websites. 
 
-[ and how to opt out. ](http://tools.google.com/dlpage/gaoptout)
+[Learn about Google Analytics and how to opt out. ](http://tools.google.com/dlpage/gaoptout)
+
+#### Internet Based Advertising
+
+On our websites, information may be collected about your online activities for use in providing you with advertising about products and services tailored to your individual interests. This section of our Privacy Notice provides details and explains how to exercise your choices.
+
+You may see certain ads on our and other websites because we participate in advertising networks. Ad networks allow us to target our messaging to users through demographic, interest-based, and contextual means. These networks track your online activities over time by collecting information through automated means, including through the use of cookies, web server logs, and web beacons, as described in the Information We Collect by Automated Means section above. The networks use this information to show you advertisements that may be tailored to your individual interests. The information our ad networks may collect includes information about your visits to websites that participate in the relevant advertising networks, such as the pages or advertisements you view and the actions you take on the websites. This data collection takes place both on our websites and on third-party websites that participate in the ad networks. For some campaigns, this information may be combined with other information we collect about you. This process also helps us track the effectiveness of our marketing efforts. [Learn how to opt out](http://www.aboutads.info/choices/) of this ad network interest-based advertising.
 
 ### How We Use the Information We Collect
 
@@ -60,10 +69,11 @@ We may use the information we obtain about you when you visit the Sites for vari
   * Create, administer, and communicate with you about your accounts 
   * Process your purchases and payments 
   * Verify your identity 
-  * Operate, evaluate, and improve our business (including developing new products and services; managing our communications; performing market research and data analytics; determining and managing the effectiveness of our advertising and marketing; analyzing our products, services, and websites; administering our websites; and performing accounting, auditing, billing, reconciliation, and collection activities) 
+  * Operate, evaluate, and improve our business (including developing new products and services; managing our communications; performing market research and data analytics; determining and managing the effectiveness of our advertising and marketing; analyzing our products, services, and Sites; administering our Sites; and performing accounting, auditing, billing, reconciliation, and collection activities) 
   * Evaluate your interest in employment and contact you regarding possible employment 
   * Protect against and prevent fraud, unauthorized transactions, claims and other liabilities, and manage risk exposure and quality 
   * Comply with and enforce applicable legal requirements, industry standards and our policies and terms, such as our terms of use
+  * Alaska Airlines uses the Evidon assurance service to comply with the cross-industry Self-Regulatory Program for Online Behavioral Advertising managed by the [Digital Advertising Alliance (DAA)](http://www.aboutads.info/). As part of this service, online advertisements and websites are sometimes delivered with icons that help consumers understand how their data is being used and provide choice options to consumers that want more control.
 
 
 
@@ -80,6 +90,8 @@ We also reserve the right to transfer personal information we have about you in 
 ### Your Choices
 
 If you would like to update or modify your personal information or subscription preferences, you may contact us as described in the How To Contact Us section below. If you have an online account at alaskair.com, you also can login and visit the My Account section; from there you can modify your personal information or click on Manage Email to update your communication preferences. You also may unsubscribe from promotional emails by clicking on the "unsubscribe" link in any promotional email you receive from us. You may choose to opt out from Bank of America and other companies by calling toll free 1-888-5-OPT-OUT (1-888-567-8688).
+
+To remove or delete our Facebook apps from your account, follow the instructions at <https://www.facebook.com/help/170585223002660>.
 
 If you have created an account on our careers pages, you can modify or delete your weekly job agent emails by logging in, visiting the "career opportunities" section, and then clicking on "Search Opportunities" to see a list of all your weekly job agent emails.
 
