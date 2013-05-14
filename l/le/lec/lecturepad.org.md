@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lecturepad.org privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120210131id_/http%3A//www.lecturepad.org/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D819%26Itemid%3D210) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lecturepad.org privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514230528id_/http%3A//www.lecturepad.org/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D819%26Itemid%3D210) for the most accurate reproduction.*
 
-# PRIVACY POLICY
+# Lecturepad.org - Lecturepad.org
 
 **Services Web Sites Covered**
 
@@ -8,7 +8,7 @@ This policy describes what information may be collected about you when you use t
 
 **Privacy Policy Changes**
 
-As this Privacy Policy changes in significant ways, we will take steps to inform you of the changes. Minor changes to this Privacy Policy may occur that will not significantly affect the ways in which we each use your personally identifiable information. In these instances, we may not inform you of such minor changes. When this Privacy Policy changes in a way that significantly affects the way we handle personal information, we will not apply the new Policy to information we have previously collected from you without giving you a choice as to whether or not we can apply the new Policy to your information going forward.
+  As this Privacy Policy changes in significant ways, we will take steps to inform you of the changes. Minor changes to this Privacy Policy may occur that will not significantly affect the ways in which we each use your personally identifiable information. In these instances, we may not inform you of such minor changes. When this Privacy Policy changes in a way that significantly affects the way we handle personal information, we will not apply the new Policy to information we have previously collected from you without giving you a choice as to whether or not we can apply the new Policy to your information going forward.
 
 **Information We Collect**
 
@@ -34,13 +34,16 @@ We may collect additional information about registered users from third party so
 
 **Other Information**
 
-
-
   * Discussion Boards: When you post a message to a discussion board, your basic profile will be available for all registered users to see. This basic profile consists of your name, specialty and geographic information. You may, at your option, choose to display additional information in your profile. You should not post any information about you or any other person (including any patient) to a discussion board or other public forum if you want to keep such information private or you are required by law to keep such information private. Information you post to discussion boards is considered public information and may be used by us and third parties.
-  * Tools: Clinical tools may be available through the Services. These tools may require you to provide information for the tools to operate. These tools may store information that you provide on our servers.
-  * Additional Forms and Emails: We may also ask you to provide additional information after you register if you want to obtain additional services or information or to resolve complaints or concerns.
-  * Market Research: From time to time, you may be invited to participate in a sponsored or unsponsored market research survey through an email invitation, on-site pop-up or some other means. The survey may be administered by one of our companies or a third party market research company. When participating in such a survey, in addition to providing your responses to the survey questions you may be asked to provide personally identifiable information that may be combined with information that you have already provided at registration or that we have received from third party sources, as described in this Privacy Policy. The section of this Privacy Policy entitled "Uses and Disclosures We Make of Your Information," below, describes how we use and disclose information about your participation in market research surveys offered through the Services.
 
+
+  * Tools: Clinical tools may be available through the Services. These tools may require you to provide information for the tools to operate. These tools may store information that you provide on our servers.
+
+
+  * Additional Forms and Emails: We may also ask you to provide additional information after you register if you want to obtain additional services or information or to resolve complaints or concerns.
+
+
+  * Market Research: From time to time, you may be invited to participate in a sponsored or unsponsored market research survey through an email invitation, on-site pop-up or some other means. The survey may be administered by one of our companies or a third party market research company. When participating in such a survey, in addition to providing your responses to the survey questions you may be asked to provide personally identifiable information that may be combined with information that you have already provided at registration or that we have received from third party sources, as described in this Privacy Policy. The section of this Privacy Policy entitled "Uses and Disclosures We Make of Your Information," below, describes how we use and disclose information about your participation in market research surveys offered through the Services.
 
 
 
@@ -81,11 +84,23 @@ In addition to aggregate information (discussed previously), we each may each sh
 
 
   * Other Companies: We have strategic relationships with other companies who offer products and services through the Services. When you are interacting with one of these companies, a different privacy policy may apply and will be presented to you at such time.
+
+
   * Companies and People Who Work for Us: We each contract with other companies and individuals to help us provide our respective services. For example, we may host some of our Professional Sites on another company's computers, hire technical consultants to maintain any Web-based clinical tools, work with companies to remove repetitive information from customer lists, analyze data, provide marketing assistance (including assisting us in targeting our advertisements as described herein), or provide customer service or fulfillment services. In addition, if you are a healthcare professional, we may request that a third party validate your licensure status and other information against available databases of healthcare professionals. In order to provide these services, these other companies may have limited access to some of the personally identifiable information we maintain about users of our Services. We require all such companies to comply with the terms of this Privacy Policy, to limit their access to any personal information to the minimum necessary to perform their obligations, and not to use the information they may access for purposes other than fulfilling their responsibilities to us.
+
+
   * Market Research: From time to time, we may invite you to participate in sponsored or unsponsored market research surveys as further described above. We may provide aggregate information from the survey results to third parties including the survey sponsor, if applicable. If you receive remuneration for participating in a sponsored survey, we may be required to provide the sponsor with personally identifiable information about you for its recordkeeping and regulatory reporting purposes. We will not provide any sponsor with your survey responses on an identifiable basis unless we obtain your consent prior to your participation in the survey. If you participate in a survey administered by a third party market research company, this company may identify you when you participate in the survey. We require these companies to agree that they will not provide the survey sponsor with personally identifiable information about you based on your participation in the survey, nor will they market to you based on such participation.
+
+
   * Sponsored Programs: From time to time, we may offer you the opportunity to engage in industry-sponsored informational programs consisting of sponsor-selected materials Examples of Sponsored Programs include custom-developed on-site information resources featuring branded or unbranded commercial content, interactive programs that provide information about medical conditions, treatments and products, multi-media presentations including video featuring a key opinion leader and safety and regulatory information resources. Other types of Sponsored Programs that may be made available to you through the Services are product-related emails and on-site and email newsletter media units and modules, all of which will be identified as described above. When you choose to engage in a Sponsored Program, you may be asked to provide personally identifiable information (e.g., postal address, telephone number, e-mail address, etc.) which may be used to supplement information about you that we have already received during member registration. In addition, we may collect information in connection with a transaction that you have requested (e.g., sample request, sales rep visit, etc.), responses to Sponsored Program questions, and/or gift requests and issuance. Even if you do not provide us with personally identifiable information, we collect non-personally identifiable information about your use of Sponsored Programs through cookies and web beacons, as described above. The personally identifiable information that you provide when you engage in a Sponsored Program will be used to provide the services you have requested or authorized, respond to your questions, provide you the specific services you select and to send you emails about new programs and selected information from our sponsors as it relates to your specialty or area of clinical practice. You may also receive invitations to engage in other Sponsored Programs from the same sponsor. If you engage in a Sponsored Program, e.g., access a sponsored information resource or video presentation, open a Sponsored Program e-mail, or interact with a Sponsored Program advertising module, we may identify you by name to the sponsor of the Sponsored Program and/or its agent(s) on the sponsor's behalf. We may also provide the sponsor with your specialty and country where you reside, based on your registration profile. You should read the privacy policy of the applicable sponsor and familiarize yourself with how such sponsor will treat your information. We are not responsible for how the sponsor and its agents use your information and manage your privacy. Further, we may use non-personally identifiable information for research purposes, and we may provide this information in the aggregate to third parties. For example, we might inform third parties regarding the number of users of a Sponsored Program and the activities they conduct while engaged in the Program.
+
+
   * Business Transfers: If one of us transfers a business unit (such as a subsidiary) or an asset (such as a website) to another company, that company will be required to honor the applicable terms of this Privacy Policy.
+
+
   * Legal Requirements: We may release account and other personally identifiable information when we believe release (1) is required to comply with valid legal requirements such as a law, regulation, search warrant, subpoena or court order; or (2) is reasonable in response to a physical threat to you or others, to protect property or defend or assert legal rights. In the event that we are legally compelled to disclose your personally identifiable information to a third party, we will attempt to notify you unless doing so would violate the law, court order or government instruction.
+
+
   * Consent: We may release personally identifiable information to a third party in accordance with your consent, subject to the purposes and limits that we disclose when we request your consent. For example, when you choose to participate in a Sponsored Program, we will provide certain personally identifiable information to the sponsor of such program, as further described above.
 
 
@@ -125,10 +140,8 @@ Lecturepad is based in the United States. We may store, process and/or transfer 
 
 For privacy questions or concerns about one of our Web sites or Services, please contact [LecturepadPrivacy@lecturepad.org](mailto:LecturepadPrivacy@lecturepad.org)
 
-**Terms of Use**
+[**Terms of Use**](http://www.lecturepad.org/index.php/terms-of-user)
 
 Our terms of use agreements can be found on Lecturepad.org
 
-Effective date: January 2, 2012
-
-Login Above or [REGISTER FREE here ](http://www.lecturepad.org/index.php?option=com_comprofiler&task=registers)to view / read full lecture or article.
+Effective date: January 2, 2013
