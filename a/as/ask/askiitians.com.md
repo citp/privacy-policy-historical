@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the askiitians.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106234001id_/http%3A//www.askiitians.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the askiitians.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514051640id_/http%3A//www.askiitians.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,7 @@ Please read this privacy policy to learn more about the ways in which we use and
 
 Your privacy is very important to us. We uses procedural and technical safeguards to protect your personal information against loss or theft, as well as against unauthorized access or disclosure, to protect your privacy, including firewalls and encryption. We employ many different security techniques to protect such data from unauthorized access by users inside and outside the company. However, "perfect security" does not exist on the Internet. 
 
-By accepting the Privacy Policy and [Terms & Conditions](https://web.archive.org/web/20121106234001id_/http%3A/terms-and-conditions) in registration or by visiting and using the Site, you expressly consent to our use and disclosure of your personal information in accordance with this Privacy Policy. 
+By accepting the Privacy Policy and [Terms & Conditions](https://web.archive.org/web/20130514051640id_/http%3A/terms-and-conditions) in registration or by visiting and using the Site, you expressly consent to our use and disclosure of your personal information in accordance with this Privacy Policy. 
 
 If you are 13 are over but under the age of 18, you may use this Site and submit personal information to us only in conjunction with and under the supervision of your parents or guardians.
 
@@ -34,7 +34,7 @@ You are always free to decline our cookies if your browser permits, although thi
 
 If you choose to buy or sell on the Site, we collect information about your buying and selling behavior. We also collect other users' comments and ratings about you, any course and tutor offerings you provide on the Site and any other content you provide on the Site, in our feedback area.
 
-If you choose to post comments to lessons, topics, discussions board and other areas of the Site, or leave feedback for other users, we will collect that information that you provide to us. We retain this information for the benefit of the Site—more information is available in the askIITians [Terms and Conditions](https://web.archive.org/web/20121106234001id_/http%3A/terms-and-conditions). If you send us personal correspondence, such as emails or letters, or if other users or third parties send us correspondence about your activities or postings on the Site, we may collect such information into a file specific to you.
+If you choose to post comments to lessons, topics, discussions board and other areas of the Site, or leave feedback for other users, we will collect that information that you provide to us. We retain this information for the benefit of the Site—more information is available in the askIITians [Terms and Conditions](https://web.archive.org/web/20130514051640id_/http%3A/terms-and-conditions). If you send us personal correspondence, such as emails or letters, or if other users or third parties send us correspondence about your activities or postings on the Site, we may collect such information into a file specific to you.
 
 We use your personal information to facilitate the services you request. We use personal information in the file we maintain about you, and other information we obtain from your current and past activities on the Site to: resolve disputes; troubleshoot problems; bill any amounts due from you; measure consumer interest in our products and services, inform you about online and offline offers, products, services, and updates; customize your experience; detect and protect us against error, fraud and other criminal activity; At times we look across multiple users to identify problems or resolve disputes, and in particular we may examine your personal information to identify users using multiple User ID's or aliases. We may compare and review your personal information for errors, omissions and for accuracy.
 
