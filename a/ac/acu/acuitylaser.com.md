@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acuitylaser.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227181338id_/http%3A//www.acuitylaser.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acuitylaser.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514132039id_/http%3A//www.acuitylaser.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy for the Acuity laser measurement sensor website
 
@@ -52,13 +52,13 @@ Protecting the privacy of the very young is especially important. For that reaso
 
 **How You Can Access Or Correct Your Information**
 
-You may [contact us](https://web.archive.org/web/20121227181338id_/http%3A//www.acuitylaser.com/contact-us.shtml) and request that we change your information in our databases. 
+You may [contact us](https://web.archive.org/web/20130514132039id_/http%3A//www.acuitylaser.com/contact-us.shtml) and request that we change your information in our databases. 
 
 To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
 
 **How To Contact Us**
 
-Should you have other questions or concerns about these privacy policies, please call us at 503-227-5178 or [send us an email](https://web.archive.org/web/20121227181338id_/http%3A//www.acuitylaser.com/contact-us.shtml). 
+Should you have other questions or concerns about these privacy policies, please call us at 503-227-5178 or [send us an email](https://web.archive.org/web/20130514132039id_/http%3A//www.acuitylaser.com/contact-us.shtml). 
 
 
 
