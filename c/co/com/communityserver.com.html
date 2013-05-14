@@ -1,55 +1,133 @@
-<!--The following is the downloaded HTML source of the communityserver.com privacy policy that was archived on 2012-12-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121227094803id_/http%3A//telligent.com/p/privacy-policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the communityserver.com privacy policy that was archived on 2013-05-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130514070058id_/http%3A//telligent.com/p/privacy-policy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en"><head><meta http-equiv="X-UA-Compatible" content="IE=9; IE=8"><meta name="robots" content="index,follow"><meta name="GENERATOR" content="6.x Production"><link rel="alternate" type="application/rss+xml" title="Telligent (RSS 2.0)" href="http://telligent.com/rss.aspx">
+<!DOCTYPE html><html lang="en"><head><meta http-equiv="X-UA-Compatible" content="IE=10; IE=9; IE=8"><meta name="robots" content="index,follow"><meta name="GENERATOR" content="7.x Production"><link rel="alternate" type="application/rss+xml" title="Telligent (RSS 2.0)" href="http://telligent.com/rss.aspx">
 
-            <link rel="stylesheet" href="/themes/generic/css/layout.css?LastChanged=634647680989995452" type="text/css" media="screen">
-        
-          <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<link rel="shortcut icon" type="image/ico" href="http://telligent.com/cfs-file.ashx/__key/themefiles/s-7e987e474b714b01ba29b4336720c446-files/favicon.ico">
+            <link rel="stylesheet" href="/themes/generic/css/layout.css?LastChanged=634856417640000000" type="text/css" media="screen">
+        <script id="hs-analytics" src="//js.hubspot.com/analytics/1582519800000/212115.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" src="/utility/jquery/jquery-1.7.2.min.js?LastChanged=634745028400000000"></script><script type="text/javascript" src="/utility/jquery/telligent.glow.min.js?LastChanged=634904989040000000"></script><script type="text/javascript" src="/utility/jquery/jquery.validate.min.js?LastChanged=634745053740000000"></script><script type="text/javascript" src="/utility/jquery/telligent.evolution.min.js?LastChanged=634992480100000000"></script><script type="text/javascript" src="/utility/images/glow/plupload.silverlight.js?LastChanged=634795371340000000"></script><script type="text/javascript">
+// <![CDATA[
+try { jQuery.telligent.evolution.site.configure({baseUrl:'\/',monthNames:['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'],dayNames:['Sun','Mon','Tue','Wed','Thu','Fri','Sat'],authorizationCookieName:'AuthorizationCookie',defaultErrorMessage:'An error occurred.  Please try again or contact your administrator.',defaultMultiErrorMessagePrefix:'The following errors occurred:  ',silverlightFileUploadEnabled:true});
+jQuery.extend($.fn.evolutionUserFileTextBox.defaults,{removeText:'Remove',selectText:'Select\/Upload...',noFileText:'No File Selected'});
+jQuery.telligent.evolution.navigationConfirmation.configure({message:'==============================\r\nUnless you save before leaving this page, you will lose any changes you have made.\r\n=============================='});
+jQuery.telligent.evolution.validation.registerExtensions({passwordInvalidMessage:'Password contains invalid chars ...',passwordRegex:'^(.*)$',emailInvalidMessage:'Your email address is invalid.',emailRegex:'^[!$&*\\-=^`|~#%\'\\.\"+\/?_{}\\\\a-zA-Z0-9 ]+@[\\-\\.a-zA-Z0-9]+(?:\\.[a-zA-Z0-9]+)+$',usernameInvalidMessage:'Your sign in name does not meet the requirements for this site.',usernameRegex:'^[a-zA-Z0-9_\\- @\\.]+$',emailsInvalidMessage:'One or more emails is invalid',urlInvalidMessage:'URL not in correct format',urlRegex:'^((http|https|mailto|mms):|\/|#|~\/)'});
+jQuery.extend(jQuery.fn.evolutionLike.defaults,{likeText:'Like',unlikeText:'Unlike',modalTitleText:'People who like this',modalShowMoreText:'Show More',whoLikesOtherText:'<a href=\"{user_profile_url}\" class=\"internal-link view-user-profile\">{user_display_name}<\/a> likes this',whoLikesOtherTwoText:'<a href=\"{user_profile_url}\" class=\"internal-link view-user-profile\">{user_display_name}<\/a> and <span class=\"who-likes\">1 other<\/span> like this',whoLikesOtherMultipleText:'<a href=\"{user_profile_url}\" class=\"internal-link view-user-profile\">{user_display_name}<\/a> and <span class=\"who-likes\">{count} others<\/span> like this',whoLikesAccessingText:'You like this',whoLikesAccessingTwoText:'You and <span class=\"who-likes\">1 other<\/span> like this',whoLikesAccessingMultipleText:'You and <span class=\"who-likes\">{count} others<\/span> like this'});
+jQuery.extend(jQuery.fn.evolutionInlineTagEditor.defaults,{editButtonText:'Edit tags',selectTagsText:'Select tags',saveTagsText:'Save',cancelText:'Cancel'});
+jQuery.extend(jQuery.fn.evolutionStarRating.defaults,{titles:['Terrible','Poor','Fair','Average','Good','Excellent'],ratingMessageFormat:'Average rating: {rating} out of {count} ratings.'});
+jQuery.extend(jQuery.fn.evolutionModerate.defaults,{moderateLinkText:'moderate',reportLinkText:'Flag as spam\/abuse',reportedLinkText:'Flagged as spam\/abuse',reportedNotificationMessageText:'{NAME}\'s post has been flagged. <strong>Thank you for your feedback.<\/strong>'});
+} catch(e) { };
+// ]]>
+</script><script type="text/javascript">
+(function($){
+$.telligent.evolution.ui.components['forumreplystory-parent']  = {
+	add: function(elm, options) {
+        var elm = $(elm), parent = null;
+		elm.bind('click', function(e){
+            e.preventDefault();
+			parent = parent || $('#' + elm.data('parent'));
+            if(parent.is(':visible')) {
+                parent.stop().slideUp(150);
+                elm.html('View original post');
+            } else {
+                parent.stop().slideDown(150);
+                elm.html('Hide original post');
+            }
+		});
+	}
+};
+}(jQuery));
+</script><script type="text/javascript">
+(function($){
+$.telligent.evolution.ui.components['wikipagestory-revisions']  = {
+	add: function(elm, options) {
+        var elm = $(elm), revisions;
+		elm.bind('click', function(e){
+			revisions = revisions || $('#' + elm.data('revisions'));
+            e.preventDefault();
+            if(revisions.is(':visible')) {
+                revisions.stop().slideUp(150);
+                elm.html('Show revision history');
+            } else {
+                revisions.stop().slideDown(150);
+                elm.html('Hide revision history');
+            }
+		});
+	}
+};
+}(jQuery));
+</script><script type="text/javascript">(function($){ $.telligent.evolution.media.defaults.endpoint = 'http://telligent.com/callback.ashx?__type=Telligent.Evolution.Api.Plugins.Endpoints.FileViewerEndpoint%2C%20Telligent.Evolution.Api%2C%20Version%3D7.1.4.32087%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull'; }(jQuery));</script><script type="text/javascript">(function($){ $.telligent.evolution.preview.defaults.endpoint = 'http://telligent.com/callback.ashx?__type=Telligent.Evolution.Api.Plugins.Endpoints.WebPreviewEndpoint%2C%20Telligent.Evolution.Api%2C%20Version%3D7.1.4.32087%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull'; }(jQuery));</script><script type="text/javascript">(function($){ $.telligent.evolution.language.defaults.dateEndpoint = 'http://telligent.com/callback.ashx?__type=Telligent.Evolution.Api.Plugins.Endpoints.DateFormattingEndpoint%2C%20Telligent.Evolution.Api%2C%20Version%3D7.1.4.32087%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull'; }(jQuery));</script><script type="text/javascript" src="https://www.google.com/recaptcha/api/js/recaptcha_ajax.js"></script><script type="text/javascript">
+//<![CDATA[
+(function($){
+$.telligent.evolution.recaptcha = {
+	verify: function() {
+		var callbackUrl ='http://telligent.com/callback.ashx?__type=Telligent.Evolution.VelocityExtensions.Recaptcha%2C%20Telligent.Evolution.VelocityExtensions%2C%20Version%3D7.1.4.32087%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull'; 
+		var pass = false;
+		var rtnObj = null;
+		if(Recaptcha && Recaptcha != 'undefined') {
+			var response = Recaptcha.get_response();
+			var challenge = Recaptcha.get_challenge();
+            
+			if(!response || !challenge || response == '' || challenge == '')
+				return false;
 
-        <link type="text/css" rel="stylesheet" href="/cfs-file.ashx/__key/themefiles/h-s-7e987e474b714b01ba29b4336720c446-cssfiles-http-telligentcom-80/screen.css" media="screen,print"><link type="text/css" rel="stylesheet" href="/cfs-file.ashx/__key/themefiles/h-s-7e987e474b714b01ba29b4336720c446-cssfiles-http-telligentcom-80/TCom.css" media="screen,print"><link type="text/css" rel="stylesheet" href="/cfs-file.ashx/__key/themefiles/h-s-7e987e474b714b01ba29b4336720c446-cssfiles-http-telligentcom-80/DocumentationStyles.css" media="screen,print"><link type="text/css" rel="stylesheet" href="/cfs-file.ashx/__key/themefiles/h-s-7e987e474b714b01ba29b4336720c446-cssfiles-http-telligentcom-80/EloquaForms.css" media="screen,print"><link type="text/css" rel="stylesheet" href="/cfs-file.ashx/__key/themefiles/h-s-7e987e474b714b01ba29b4336720c446-cssfiles-http-telligentcom-80/TableOfContents.css" media="screen,print"><!--[if lte IE 6]><link type="text/css" rel="stylesheet" href="/cfs-file.ashx/__key/themefiles/h-s-7e987e474b714b01ba29b4336720c446-ie6cssfiles-http-telligentcom-80/ie6.css" media="screen,print" /><![endif]--><link type="text/css" rel="stylesheet" href="/cfs-file.ashx/__key/themefiles/h-s-7e987e474b714b01ba29b4336720c446-printcssfiles-http-telligentcom-80/print.css" media="print">
+			$.telligent.evolution.post({
+				url: callbackUrl,
+				dataType:'json',
+				async:false,
+				data: { 
+					r:response, 
+					c:challenge
+				},
+				success: function(res){
+					if(!res||!res.verified||!res.token||res.token=='')
+						Recaptcha.reload();
+					rtnObj = res; 
+				},
+				error:function() { Recaptcha.reload(); }
+			});
+		}
+		return rtnObj;
+	}
+};
+}(jQuery));
+//]]>
+</script><script type="text/javascript" src="http://telligent.com/WebResource.axd?d=VYV8B1SJvlKdmr_48nybfNBHF1craKpKtr2crLGi-2-Weee1-OcpSyoO_EsM1oqye0PJbJIIr9-CM54jXNq1UgZvj3XvHZzGDbP3oa1HFfCTHSgzz33RwOCNVVJ_fwa77pZa5dm3CaSlp16VnsYYm-8_5Dh1J_2PObIBNXw92khnHRQtoG7kvAnN5Z2yZQXei-2EFP4C-f029eKfMTLdbQ2&amp;t=634848423940000000"></script>
+          <meta http-equiv="Content-Type" content="text/html;">
+<link rel="shortcut icon" type="image/ico" href="http://telligent.com/cfs-filesystemfile.ashx/__key/themefiles/s-fd-7e987e474b714b01ba29b4336720c446-files/favicon.ico?ver=WYDgOjP/zwg">
+
+        <link type="text/css" rel="stylesheet" href="http://telligent.com/cfs-filesystemfile.ashx/__key/themefiles/h-00000000039d294b-s-7e987e474b714b01ba29b4336720c446-cssfiles-http-telligentcom-80/screen.css?ver=FGvwDqkb0Ag" media="screen,print"><link type="text/css" rel="stylesheet" href="http://telligent.com/cfs-filesystemfile.ashx/__key/themefiles/h-00000000039d294b-s-7e987e474b714b01ba29b4336720c446-cssfiles-http-telligentcom-80/TCom.css?ver=VHYDD6kb0Ag" media="screen,print"><link type="text/css" rel="stylesheet" href="http://telligent.com/cfs-filesystemfile.ashx/__key/themefiles/h-00000000039d294b-s-7e987e474b714b01ba29b4336720c446-cssfiles-http-telligentcom-80/DocumentationStyles.css?ver=TI/3Dqkb0Ag" media="screen,print"><link type="text/css" rel="stylesheet" href="http://telligent.com/cfs-filesystemfile.ashx/__key/themefiles/h-00000000039d294b-s-7e987e474b714b01ba29b4336720c446-cssfiles-http-telligentcom-80/EloquaForms.css?ver=jJoKD6kb0Ag" media="screen,print"><link type="text/css" rel="stylesheet" href="http://telligent.com/cfs-filesystemfile.ashx/__key/themefiles/h-00000000039d294b-s-7e987e474b714b01ba29b4336720c446-cssfiles-http-telligentcom-80/TableOfContents.css?ver=vNcFD6kb0Ag" media="screen,print"><link type="text/css" rel="stylesheet" href="http://telligent.com/cfs-filesystemfile.ashx/__key/themefiles/h-00000000039d294b-s-7e987e474b714b01ba29b4336720c446-cssfiles-http-telligentcom-80/marketplace.css?ver=9PsMD6kb0Ag" media="screen,print"><!--[if lte IE 6]><link type="text/css" rel="stylesheet" href="http://telligent.com/cfs-filesystemfile.ashx/__key/themefiles/h-00000000039d294b-s-7e987e474b714b01ba29b4336720c446-ie6cssfiles-http-telligentcom-80/ie6.css?ver=3JPt0Kwb0Ag" media="screen,print" /><![endif]--><link type="text/css" rel="stylesheet" href="http://telligent.com/cfs-filesystemfile.ashx/__key/themefiles/h-00000000039d294b-s-7e987e474b714b01ba29b4336720c446-printcssfiles-http-telligentcom-80/print.css?ver=fPk+D6kb0Ag" media="print">
           <link type="text/css" rel="stylesheet" href="/themes/generic/css/dynamic-style.aspx?PreviewKey=0&amp;Theme=7e987e474b714b01ba29b4336720c446" media="screen,print">
         
           
-<script id="hs-analytics" src="//js.hubspot.com/analytics/1580376300000/212115.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
- 
-  var _gaq = _gaq || [];
+<script type="text/javascript">
+
+    var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-719403-9']);
   _gaq.push(['_setDomainName', 'telligent.com']);
   _gaq.push(['_trackPageview']);
- 
+
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
- 
+
 </script>
         <meta name="msvalidate.01" content="AD68A0A006A03D3DA4819281E019287B">
 <meta property="og:site_name" content="Telligent">
 <meta property="fb:app_id" content="221453704563240">
 <title>
 	Privacy Policy - Telligent
-</title><script src="/analytics.ashx?a=9999&amp;g=77&amp;ip=204.236.235.245&amp;requrl=%2fp%2fprivacy-policy.aspx&amp;session=d275a59d-c28b-4f48-be91-115415f8ad43&amp;ts=634921768831492740&amp;ua=ia_archiver+(%2bhttp%3a%2f%2fwww.alexa.com%2fsite%2fhelp%2fwebmasters%3b+crawler%40alexa.com)&amp;uid=576d4404-35eb-438c-a772-bad8b105f010&amp;ct=0"></script></head>
-	<body spellcheck="true">
-		<form name="aspnetForm" method="post" action="/p/privacy-policy.aspx" id="aspnetForm">
+</title></head>
+	<body spellcheck="true" class="en-us">
+		<form name="aspnetForm" method="post" action="/p/privacy-policy.aspx" id="aspnetForm" novalidate="novalidate">
 <div>
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTc2NDA0ODEwMmRkbk60iQzAU7tlx1OWx5PMRrHcE/Q=">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTc2NDA0ODEwMmRk8U/h3IQie+WPNL6Ht+fcyJrweQqHhi+TBfWbrFp+AnI=">
 </div>
 
 
-<script src="/WebResource.axd?d=tTvt5ZQaZg2q1L4jrCtHjHrNVpNQHnZsyscWuAvnVjcY_pU6LCbbCg1Z8EzbRMjjBzleoPG5Kie45nbZ0-QidVqQk7qtj365yyDiFHsVKHfLErlQZA3sTI6vFxzmQW-xLSuxbYOwwPNW2tVgcVe-zdmI09PSzp7YJdlzIuxtM6FRtd26LeUA-KAIZzH8URggwDH-en0UJKEfvV3KUf3IBDuAub41&amp;t=634703468000000000" type="text/javascript"></script><script type="text/javascript" src="/utility/jquery/jquery-1.6.1.min.js?LastChanged=634647668536697120"></script><script type="text/javascript" src="/utility/jquery/telligent.glow.min.js?LastChanged=634647668544809276"></script><script type="text/javascript" src="/utility/jquery/jquery.validate.min.js?LastChanged=634647668540441192"></script><script type="text/javascript" src="/utility/jquery/telligent.evolution.min.js?LastChanged=634667522220000000"></script><script type="text/javascript">
-// <![CDATA[
-try { jQuery.telligent.evolution.site.configure({baseUrl:'\/',monthNames:['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'],dayNames:['Sun','Mon','Tue','Wed','Thu','Fri','Sat'],authorizationCookieName:'AuthorizationCookie',defaultErrorMessage:'An error occurred.  Please try again or contact your administrator.',defaultMultiErrorMessagePrefix:'The following errors occurred:  '});
-jQuery.extend($.fn.evolutionUserFileTextBox.defaults,{removeText:'Remove',selectText:'Select\/Upload...',noFileText:'No File Selected'});
-jQuery.telligent.evolution.navigationConfirmation.configure({message:'==============================\r\nUnless you save before leaving this page, you will lose any changes you have made.\r\n=============================='});
-jQuery.telligent.evolution.validation.registerExtensions({passwordInvalidMessage:'Password contains invalid chars ...',passwordRegex:'^(.*)$',emailInvalidMessage:'Your email address is invalid.',emailRegex:'^[!$&*\\-=^`|~#%\'\\.\"+\/?_{}\\\\a-zA-Z0-9 ]+@[\\-\\.a-zA-Z0-9]+(?:\\.[a-zA-Z0-9]+)+$',usernameInvalidMessage:'Your sign in name does not meet the requirements for this site.',usernameRegex:'^[a-zA-Z0-9_\\- @\\.]+$',emailsInvalidMessage:'One or more emails is invalid',urlInvalidMessage:'URL not in correct format',urlRegex:'^((http|https|mailto|mms):|\/|#|~\/)'});
-} catch(e) { };
-// ]]>
-</script>
-<script src="/WebResource.axd?d=LZcFM6yB6TKfkSHWy1B53Jr7oak24ydhSLXI2XR0wzLXR-5fQR1mzbgp7XKR2U4CYj2bB9aOS7Mo9YFDpxPnX14S2GuIpl-8wjlEMSTwumfgQh5Vs6bXPfDVpXFxdKdZ8XT_skBp6XyXrGJYGUqWm09ICEuXtozPLBjdPN5-mLgW1PjV0&amp;t=634534118560000000" type="text/javascript"></script>
-<script src="/WebResource.axd?d=-V0dVizT_xbkdakfrkqyAO-MGbDNc2D1m5V2q5KlH1q9FCGxkvfIThfjRXn4f7JDpyIfYhEjrIcAVHwZTcaCTwibWbmyEiO27_CUCJzrhCRIee1KkyYDXmr-qGPVV-eeuIRfRhvTpYw6wwTKA6slna8-hOUJDB2_z7lSHghwPmGfc5mgiJoUa21NFz_Jyx-TKciFjw2&amp;t=634534118560000000" type="text/javascript"></script>
+<script src="/WebResource.axd?d=wswqtU_o7Tuxilh_pcxVSKgr9tCnW54lQ1jOfOFXvDHl7IHNNSM8m7kV3tmOtV389mnIVH-1RH_Gk4nSkTGvIZB1i2iB11nXXmrW5s1M_SIZOSaRX3eIk5ncujeHmvJlVOZsYuxL6FtZwe6cY8TM9pmxByZ8C2QQk8OBjnoVO9tgqA1XZ_JDmKDwY4rsWgKjXvvbqFhu_TEjh5A5btt_yWDO-PfUMhsuUVv80YKlW_E1&amp;t=635000606160000000" type="text/javascript"></script>
+<script src="/WebResource.axd?d=EZgtuo_ATzkwt2w0pXpOikphllYTIS9BBhzSzVVm4acxiIdtUVH-uEyL_PURkmFv4FB89wLEzmWtBnjtp-TvCHPXvhVSZH2m908jyUchJfOGQMKGULhVG1Kv1WLgq6_l3LQ00ZBcJfzUM2Yps5mYmMpCTF_ZuiP-JStlOvA50No1&amp;t=634904775000000000" type="text/javascript"></script>
+<script src="/WebResource.axd?d=tk55W09LcXJtFlfWycYrVoG8UBjYM4PV3HZTtbfqWuRCmf1Dt__fkclCRatoKp1wkojdrO5pHxlZNUPOLcHGMSrthH1bj1429LPTBOIcQeTwYdgyrvnbDRc9WWl1Z2q97mwHSwkVQdBhO1LCUWzF37mCMpI5xlVwnZWwZ3VRnCfHaUV00-R1xhmaFm7tNP440&amp;t=634904775000000000" type="text/javascript"></script>
 			
                 
             
@@ -93,15 +171,16 @@ jQuery.telligent.evolution.validation.registerExtensions({passwordInvalidMessage
 <div class="layout-region content" id="ctl00_header_ctl00_content">
 <div class="layout-region-inner content"><div class="content-fragment site-user-navigation no-wrapper" id="header-62">
 <div class="content-fragment-content">
+
 <div class="navigation-list-header"></div>
 <ul class="navigation-list">
-																																																		<li class="navigation-item user-registration"><a href="/user/CreateUser.aspx?ReturnUrl=%2Fp%2Fprivacy-policy.aspx" class="internal-link user-registration" rel="nofollow"><span></span>Join</a></li>
-																													<li class="navigation-item login"><a href="/login.aspx?ReturnUrl=%2Fp%2Fprivacy-policy.aspx" class="internal-link login" rel="nofollow"><span></span>Sign in </a></li>
+																																																					<li class="navigation-item user-registration"><a href="/user/createuser.aspx?ReturnUrl=%2Fp%2Fprivacy-policy.aspx" class="internal-link user-registration"><span></span>Join</a></li>
+																													<li class="navigation-item login"><a href="/login.aspx?ReturnUrl=%2Fp%2Fprivacy-policy.aspx" class="internal-link login"><span></span>Sign in </a></li>
 																							</ul>
 <div class="navigation-list-footer"></div>
 
 
-</div>
+			</div>
 <div class="content-fragment-footer"></div>
 </div>
 <div class="content-fragment raw-html no-wrapper" id="header-23">
@@ -140,11 +219,11 @@ jQuery.telligent.evolution.validation.registerExtensions({passwordInvalidMessage
 		<div class="navigation-list-header parent"></div>
 		<ul class="navigation-list parent">
 			<li class="navigation-item" style="display:none;"><a href="/">Home</a></li>
-										<li class="navigation-item with-children entry" style="display:none;"><a href="/solutions/default.aspx" class="internal-link view-group" id="Group_b904e0ac-5556-48aa-bbea-5607a4315912"><span></span>Solutions</a></li>
+										<li class="navigation-item with-children entry" style="display:none;"><a href="/landing-pages/p/telligent-community.aspx" class="internal-link view-group" id="Group_b904e0ac-5556-48aa-bbea-5607a4315912"><span></span>Solutions</a></li>
 							<li class="navigation-item with-children entry" style="display:none;"><a href="/products/default.aspx" class="internal-link view-group" id="Group_3f6001c8-9cb6-4591-aa35-bc2a5b0cca3f"><span></span>Products</a></li>
-							<li class="navigation-item entry" style="display:none;"><a href="/marketplace/m/marketplace/default.aspx" class="internal-link view-group" id="Group_181a5cfc-add7-4d4b-9aee-8eebdb244308"><span></span>Marketplace</a></li>
+							<li class="navigation-item entry" style="display:none;"><a href="/products/pricing-and-editions/default.aspx" class="internal-link view-group" id="Group_1e155c5e-0b4c-4366-acf2-8a53b659d840"><span></span>Pricing</a></li>
 							<li class="navigation-item entry" style="display:none;"><a href="/customers/default.aspx" class="internal-link view-group" id="Group_81485443-d9e7-459e-ba27-4e6b61f7cdba"><span></span>Customers</a></li>
-							<li class="navigation-item with-children entry" style="display:none;"><a href="/partners/default.aspx" class="internal-link view-group" id="Group_828281dd-bf90-4efb-82ff-88ea8db23f42"><span></span>Partner</a></li>
+							<li class="navigation-item with-children entry" style="display:none;"><a href="/partners/default.aspx" class="internal-link view-group" id="Group_828281dd-bf90-4efb-82ff-88ea8db23f42"><span></span>Partners</a></li>
 							<li class="navigation-item with-children entry" style="display:none;"><a href="/resources/default.aspx" class="internal-link view-group" id="Group_3eb34741-e71b-4636-893c-0bbd081e1ece"><span></span>Resources</a></li>
 							<li class="navigation-item with-children entry" style="display:none;"><a href="/company/default.aspx" class="internal-link view-group" id="Group_2f19ac44-6a04-4fff-8fd2-50f4be031c36"><span></span>About</a></li>
 						<li class="navigation-item last" style="display:none;"><a class="internal-link view-more" href="#" id="Group_More">More ...</a></li>
@@ -509,13 +588,12 @@ jQuery.telligent.evolution.validation.registerExtensions({passwordInvalidMessage
 <div class="content-fragment-content">
 
 <div class="user-defined-markup" style="">
-<p><small id="copyright"> <a href="http://telligent.com/">Telligent Systems, Inc. <br>©2012, All Rights Reserved</a> </small></p>
+<p><small id="copyright"> <a href="http://telligent.com/">Telligent Systems, Inc. <br>©2013, All Rights Reserved</a> </small></p>
 </div>
 		</div>
 <div class="content-fragment-footer"></div>
 </div>
 <div id="footer-30"></div>
-<div id="footer-31"></div>
 </div>
 </div>
 </div>
@@ -523,7 +601,7 @@ jQuery.telligent.evolution.validation.registerExtensions({passwordInvalidMessage
 </div></div><div class="footer-fragments-footer"></div>
             
 		
-	<script type="text/javascript" src="/cfs-file.ashx/__key/defaultwidgets/7bb87a0cc5864a9392ae5b9e5f9747b7-3af92e56f24148e0abb8d8b314389bfd/ui.js"></script>
+	<script type="text/javascript" src="/cfs-filesystemfile.ashx/__key/widgetfiles/3af92e56f24148e0abb8d8b314389bfd-d/ui.js?ver=Ed2BNDP/zwg"></script>
 	<script type="text/javascript">
 		jQuery(function(){
 			jQuery.telligent.evolution.widgets.siteSearch.register({
@@ -539,7 +617,7 @@ jQuery.telligent.evolution.validation.registerExtensions({passwordInvalidMessage
 			});
 		});
 	</script>
-	<script type="text/javascript" src="/cfs-file.ashx/__key/widgetfiles/8f6b41a33bb44c47b2edcaabd3cbe63c-d/ui.js"></script>
+	<script type="text/javascript" src="/cfs-filesystemfile.ashx/__key/widgetfiles/8f6b41a33bb44c47b2edcaabd3cbe63c-d/ui.js?ver=4Xt5fsu4zgg"></script>
 	<script type="text/javascript">
 		jQuery(function(){
 			jQuery.telligent.evolution.widgets.navigationCustom.register({
@@ -557,7 +635,7 @@ ctl00_header_ctl00 = new ContentFragmentContainerCustomCallback('ctl00_header_ct
 // <![CDATA[
 ctl00_content_ctl00 = new ContentFragmentContainerCustomCallback('ctl00_content_ctl00',new Function('mode','parameters','callback','errorCallback','context','ctl00_content_ctl00_ctl00._doCallback(mode+\':\'+parameters,callback,context,errorCallback);'));
 // ]]>
-</script>	<script type="text/javascript" src="/cfs-file.ashx/__key/widgetfiles/212f71d69e37457887f33f32918f6ae2-7e987e474b714b01ba29b4336720c446/ui.js"></script>
+</script>	<script type="text/javascript" src="/cfs-filesystemfile.ashx/__key/widgetfiles/212f71d69e37457887f33f32918f6ae2-7e987e474b714b01ba29b4336720c446/ui.js?ver=wadBfcu4zgg"></script>
 	<script type="text/javascript">
 		jQuery(function(){
 			jQuery.telligent.evolution.widgets.userHover.register({
@@ -566,37 +644,11 @@ ctl00_content_ctl00 = new ContentFragmentContainerCustomCallback('ctl00_content_
 			});
 		});
 	</script>
-
-<script type="text/javascript" language="JavaScript"><!--//
-var elqPPS = '70';
-//--></script>
-<script type="text/javascript" language="JavaScript" src="/elqNow/elqScr.js"></script>
-
-<script type="text/javascript" src="/cfs-file.ashx/__key/defaultwidgets/2a01b79047ac4f53a1be68b96f63773d-8e579af782ae4de3b399cc9dee56cc81/SearchPhraseManager.js"></script>
-<script type="text/javascript">
-if(typeof(SearchPhraseManager) !== "undefined" && SearchPhraseManager != null){
-	SearchPhraseManager.handleParam("utm_term");
-	SearchPhraseManager.handleParam("utm_campaign");
-}
-</script>
-<script type="text/javascript" src="https://lct.salesforce.com/sfga.js"></script>
-<script type="text/javascript">__sfga();</script>
 <script type="text/javascript">
 // <![CDATA[
 ctl00_footer_ctl00 = new ContentFragmentContainerCustomCallback('ctl00_footer_ctl00',new Function('mode','parameters','callback','errorCallback','context','ctl00_footer_ctl00_ctl00._doCallback(mode+\':\'+parameters,callback,context,errorCallback);'));
 // ]]>
 </script><script type="text/javascript">
-// <![CDATA[
-window.setTimeout(function() {
-        try {
-        var s = document.createElement('script');
-        s.src = '\/analytics.ashx?a=9999&g=77&ip=204.236.235.245&requrl=%2fp%2fprivacy-policy.aspx&session=d275a59d-c28b-4f48-be91-115415f8ad43&ts=634921768831492740&ua=ia_archiver+(%2bhttp%3a%2f%2fwww.alexa.com%2fsite%2fhelp%2fwebmasters%3b+crawler%40alexa.com)&uid=576d4404-35eb-438c-a772-bad8b105f010&ct=0';
-        document.getElementsByTagName("HEAD")[0].appendChild(s);
-} catch (e) { }
-}, 99);
-// ]]>
-</script>
-<script type="text/javascript">
 // <![CDATA[
 window.ctl00_header_ctl00_ctl00 = new Telligent_CallbackManager('ctl00_header_ctl00_ctl00','ctl00$header$ctl00$ctl00','aspnetForm');
 // ]]>
@@ -608,10 +660,7 @@ window.ctl00_content_ctl00_ctl00 = new Telligent_CallbackManager('ctl00_content_
 // <![CDATA[
 window.ctl00_footer_ctl00_ctl00 = new Telligent_CallbackManager('ctl00_footer_ctl00_ctl00','ctl00$footer$ctl00$ctl00','aspnetForm');
 // ]]>
-</script><script type="text/javascript" language="JavaScript" src="/elqNow/elqCfg.js"></script>
-<script type="text/javascript" language="JavaScript" src="/elqNow/elqImg.js"></script><layer hidden="true"><img src="https://secure.eloqua.com/visitor/v200/svrGP.aspx?pps=3&amp;siteid=2521&amp;ref2=elqNone&amp;tzo=0&amp;ms=942" border="0" width="1" height="1"></layer>
-
-<!-- Start of Async HubSpot Analytics Code -->
+</script><!-- Start of Async HubSpot Analytics Code -->
     <script type="text/javascript">
         (function(d,s,i,r) {
             if (d.getElementById(i)){return;}
