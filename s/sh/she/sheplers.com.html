@@ -1,422 +1,1165 @@
-<!--The following is the downloaded HTML source of the sheplers.com privacy policy that was archived on 2011-12-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111207025537id_/http%3A//www.sheplers.com/privacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sheplers.com privacy policy that was archived on 2013-05-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130514204048id_/http%3A//www.sheplers.com/custserv/custserv.jsp%3FpageName%3DPrivacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"> <link rel="stylesheet" type="text/css" href="/styles/beta.css"> <script type="text/javascript" language="javascript" src="http://a60.g.akamai.net/f/60/7267/1h/sheplers.download.akamai.com/7267/scripts/shep.js"></script>  <title>Sheplers - Privacy &amp; Security Statement</title>
-</head>
-<body>
+<!DOCTYPE html><html lang="en" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" class="js"><head>
+		<title>Customer Service - Sheplers</title>
+		<meta name="keywords" content="Privacy and Security, Sheplers, Cowboy Boots, October 13">
+		<meta name="description" content="Privacy and Security">
+			<link href="/css/sheplers.jsp" rel="stylesheet" type="text/css"><link href="/css/cms.jsp" rel="stylesheet" type="text/css"><!--[if IE 7]>
+            <link href="/css/ie7.css" rel="stylesheet" type="text/css"/><![endif]-->
+            <script type="text/javascript" async="" src="https://sb.monetate.net/js/1/a-dbada049/p/sheplers.com/439058/g"></script><script src="/js/ocpsdk/base.js" type="text/javascript"></script><script src="/js/ocpsdk/jquery/jquery.js" type="text/javascript"></script><script src="/js/ocpsdk/jquery/ext/jquery.widget.jsp" type="text/javascript"></script><style type="text/css">p.elementData { display: none; }</style><style type="text/css">p.widgetState { display: none; } #jsExceptions { text-align: left; margin-left: 10px; margin-right: 10px; } div.jsExceptionMsg { border: 2px solid red; margin-bottom: 10px; padding: 5px; }</style><script src="/js/site_lib.js" type="text/javascript"></script><style type="text/css">p.elementData { display: none; }</style><style type="text/css">p.widgetState { display: none; } #jsExceptions { text-align: left; margin-left: 10px; margin-right: 10px; } div.jsExceptionMsg { border: 2px solid red; margin-bottom: 10px; padding: 5px; }</style><script type="text/javascript">
+                site.imageUrlTemplate = "http://s7d9.scene7.com/is/image/sheplers/{fileName}?hei={fileHeight}&qlt=85,1&wid={fileWidth}&fmt=jpeg&resMode=bicub&op_sharpen=1";
+            </script>
+            <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+            <script src="/js/s_code.js" type="text/javascript"></script>
+<script type="text/javascript">
 
-	
-    <div id="header">
-        
+
+if (typeof PagingWidget == "undefined") {
+
+	/**
+	 * @class Renders paging controls allowing direct access to any page within a result set as well as
+	 *        'next' and 'previous' controls.  The pages will all be listed in sequence preceeded and followed
+	 * 		by 'next' and 'previous' links.  The links can be overridden as text or images using Motifs styles for
+	 *       the 'next' and 'previous' css classes and the resource attributes 'paging.previous' and 'paging.next'
+	 * @author Michael Maley(mmaley@fry.com)
+	 */
+	var PagingWidget = BaseWidget.extend({
+
+		create: function(selector, settings) {
+			var jQ = this.base(selector, settings);
+			if (jQ.widgetState().enabled != undefined && !jQ.widgetState().enabled) {
+				this.hide(selector);
+			};
+			if (jQ.widgetState().triggerPageChanged) {
+				this.calculateValues(jQ, 0, settings.totalItems);
+				this.assignEvents(selector);
+			}
+			return jQ;
+		},
+
+	/**
+	 * Hides the Paging controls (using jQuery's 'hide' method)
+	 *
+	 * @param selector {String} A jQuery selector for the widget root
+	 */
+		hide: function(selector) {
+			$(selector).hide();
+		},
+
+	/**
+	 * Shows the Paging controls (using jQuery's 'show' method)
+	 *
+	 * @param selector {String} A jQuery selector for the widget root
+	 */
+		show: function(selector) {
+			$(selector).show();
+		},
+
+	/**
+	 * Returns the class name of the widget
+	 * @type String
+	 */
+		getWidgetClassName: function() {
+			return "PagingWidget";
+		},
+
+	/**
+	 * Sets the 'current-page' css class on the page number provided and recalculates the 'next' and 'previous'
+	 * links.
+	 * @param selector {String} A jQuery selector for the widget root
+	 * @param event {Event} The event object
+	 * @param pageNumber {Integer} The page number you want to set as the current page
+	 */
+		setPage: function(selector, event, pageNumber) {
+			updatePagingLinks(selector, pageNumber, $(selector).widgetState("totalPages"));
+		},
+
+
+	/**
+	 * Sets the number of elements to include per page in the paging control.
+	 *
+	 * @param selector {String} A jQuery selector for the widget root
+	 * @param event {Event} The event object
+	 * @param pageSize {Number} The number of items per page for this paging control.
+	 */
+		setPageSize: function(selector, event, pageSize) {
+			$(selector).widgetState("pageSize", pageSize);
+		},
+
+	/**
+	 * Specify the index of the an item in the collection to use to determine the current-page.  Recalculates
+	 * the entire paging control to activate the page that contains the specified index.
+	 *
+	 * @param selector {String} A jQuery selector for the widget root
+	 * @param event {Event} The event object
+	 * @param index {Number} The index of the item to use to determine the page to mark as the 'current-page'
+	 * @param pageSize {Number} The number of items to render per page
+	 * @param totalItems {Number} The total number of items being paged over
+	 */
+		setIndex: function(selector, event, index, pageSize, totalItems) {
+			var s = $(selector).widgetState();
+			if (pageSize) s.pageSize = pageSize;
+			if (totalItems) s.totalItems = totalItems;
+			if (!s.defaultTotalItems) s.defaultTotalItems = totalItems;
+			this.calculateValues(selector, index, s.totalItems);
+			this.updatePageNumbers(selector);
+			this.assignEvents(selector);
+			this.selectPage(selector, s.currentPage);
+		},
+
+	/**
+	 * Internal helper method to assign click events when the controls is rendered/re-rendered.  Only necessary
+	 * when the next and previous controls have been re-added to the DOM after a change in the total number of
+	 * items/pages in the paged set.
+	 *
+	 * @param selector {String} A jQuery selector for the widget root
+	 * @private
+	 */
+	 
+		assignEvents: function(selector) {
+			var jQ = $(selector);
+			var self = this;
+			var s = jQ.widgetState();
+
+		
+			$(".previous", jQ).click(function(event) {
+				self.onPageChanged(selector, s.previousIndex);
+			});
+
+		
+			jQ.find(".page-number").click(function(event) {
+				$(".current-page", jQ).removeClass("current-page");
+				$(this).addClass("current-page");
+				var pIdx = parseInt($(this).text()) - 1;
+				var startIndex = pIdx * s.pageSize;
+				self.onPageChanged(selector, startIndex);
+			});
+
+		
+			$(".next", jQ).click(function(event) {
+				self.onPageChanged(selector, s.nextIndex);
+			});
+
+			$(".viewall", jQ).click(function(event) {
+				s.pageSize = s.totalItems;
+				s.totalPages = 1;
+				s.currentPage = 1;
+				s.mode = "all";
+				self.updatePageNumbers(selector);
+				self.onPageChanged(selector, 0);
+				self.assignEvents(selector);
+				$(this).css("display", "none");
+				$(".viewbypage", jQ).css("display", "block");
+				EventTracker.track("AllItems");
+			});
+
+			$(".viewbypage", jQ).click(function(event) {
+				s.pageSize = s.defaultPageSize;
+				s.mode = "page";
+				self.calculateValues(selector, 0, s.totalItems);
+				self.updatePageNumbers(selector);
+				self.onPageChanged(selector, 0);
+				self.assignEvents(selector);
+				$(this).css("display", "none");
+				$(".viewall", jQ).css("display", "block");
+				EventTracker.track("ByPage");
+			});
+		},
+
+
+	/**
+	 * Recalculates the number of pages, the current page, the next and previous indexes, and then updates the
+	 * html
+	 *
+	 */
+		onPageChanged: function(selector, pageStartIndex) {
+			var jQ = $(selector);
+			var s = jQ.widgetState();
+			var self = this;
+			/**/
+			s.nextIndex = Number(pageStartIndex) + s.pageSize;
+			s.previousIndex = Number(pageStartIndex) - s.pageSize;
+			s.currentIndex = Number(pageStartIndex);
+			var currentPage = Math.floor((pageStartIndex + s.pageSize) / s.pageSize);
+			self.calculateValues(selector, s.currentIndex, s.totalItems);
+			self.selectPage(selector, currentPage);
+
+			EventTracker.track("ToPage", "Page: " + currentPage);
+
+			/**/
+			if (s.triggerPageChanged) {
+				if (!s.restoringState) {
+					PersistentStorage.savePersistent({"browse": {"currentindex": s.currentIndex, "totalitems": s.totalItems, "pagesize" : s.pageSize, "mode" : s.mode}});
+				} else {
+					s.restoringState = false;
+				}
+				jQ.widgetTrigger("pagechanged", [pageStartIndex, s.pageSize, s.totalItems]);
+			}
+		},
+
+
+	/**
+	 *	Function to redraw the paging numbers and labels when the list of entities has changed and
+	 *	thrown the 'entities loaded' event.  Should always load from the start of the list (index 0)
+	 */
+
+		drawPagingWidget: function(selector, event, totalCount, activeCount) {
+			var jQ = $(selector);
+			var self = this;
+			var s = jQ.widgetState();
+			/**/
+			this.show(selector);
+			if (totalCount != s.totalItems) {
+				s.currentIndex = 0;
+				if (!s.defaultTotalItems) s.defaultTotalItems = totalCount;
+				s.totalItems = totalCount;
+				self.calculateValues(selector, s.currentIndex, totalCount);
+				self.updatePageNumbers(selector);
+				self.selectPage(jQ, s.currentPage);
+				self.assignEvents(jQ);
+			}
+		},
+
+	/**
+	 * Calculate the following values for the paging widget based on the widget's page size:
+	 * Total Number of Pages, Current Page, Next and Previous indexes
+	 *
+	 * @param selector {String} A jQuery selector for the widget root
+	 * @param currentIndex {Integer} The current index into the paged set
+	 * @param totalCount {Integer} The total number of items included in the paged set
+	 */
+		calculateValues: function(selector, currentIndex, totalCount) {
+			var s = $(selector).widgetState();
+			s.totalItems = totalCount;
+			s.totalPages = Math.floor((totalCount + s.pageSize - 1) / s.pageSize);
+			s.currentIndex = currentIndex;
+			s.currentPage = Math.floor((currentIndex + s.pageSize) / s.pageSize);
+			if (currentIndex > s.pageSize) {
+				s.previousIndex = Number(currentIndex) - s.pageSize;
+			}
+			if (currentIndex < (totalCount - s.pageSize)) {
+				s.nextIndex = currentIndex + s.pageSize;
+			}
+		},
+
+
+	/**
+	 * Updates the HTML styles to show/hide next and previous links as appropriate and
+	 * applies the 'current-page' style to the specified current page.
+	 *
+	 * @param selector {String} A jQuery selector for the widget root
+	 *@param currentPage {Integer} The page number to select/highlight
+	 *@param totalPages {Integer} The total number of pages
+	 *
+	 */
+
+		selectPage: function(selector, currentPage) {
+			var jQ = $(selector);
+			var s = jQ.widgetState();
+			if (currentPage > s.totalPages) {
+				currentPage = s.totalPages;
+			}
+			if (currentPage == s.totalPages) {
+				jQ.find(".next").css("display", "none");
+			} else {
+				jQ.find(".next").css("display", "block");
+			}
+
+			jQ.find(".current-page").removeClass("current-page");
+			$(jQ.find(".page-number").get(currentPage - 1)).addClass("current-page");
+			if (currentPage <= 1) {
+				jQ.find(".previous").css("display", "none");
+			} else {
+				jQ.find(".previous").css("display", "block");
+			}
+
+         var endIndex = s.currentIndex + s.pageSize > s.totalItems ? s.totalItems : s.currentIndex + s.pageSize;
+			if (s.currentIndex + 1 == endIndex) {
+				jQ.find(".viewall .xofy").html((s.currentIndex + 1) + ' of ' + s.totalItems);
+			} else {
+				jQ.find(".viewall .xofy").html((s.currentIndex + 1) + ' - ' + (endIndex) + ' of ' + s.totalItems);
+			}
+		},
+
+	/**
+	 * Updates the html/div representation of the pages that are available for the settings defined for
+	 * this widget.  This includes the next and previous labels and links.  Any logic for number ranges
+	 * and/or collapsing should occur here.
+	 * @param selector {String} A jQuery selector for the widget root
+	 * @private
+	 */
+		updatePageNumbers: function(selector) {
+			var jQ = $(selector);
+			var self = this;
+			var s = jQ.widgetState();
+
+         var pgs = jQ.html("");
+			if (s.viewModeBeforePages) {
+				this.generateViewModeDiv(selector);
+			}
 			
-			<div id="dropdownBox">
-				<div id="cartContainer">
-					<div id="slidingWrap">
-						<div id="slidingTop">
-							<a href="https://www.sheplers.com/SC/shepcheckout.cfm">Secure Cart: <span id="ccount_header">0</span> item(s)</a> <a href="https://www.sheplers.com/SC/shepcheckout.cfm"><img src="/g/header/sheplers_cart_grey.gif" alt="Secure Cart" id="securecartimg"></a>
+			pgs.append('<div class="page-numbers"></div>').children(".page-numbers");
+			pgs.append('<div class="previous"><span class="text">' + s.paging_previous + '</span></div>');
+			if (s.totalPages > 1 || s.showSinglePage) {
+				for (i = 1; i <= s.totalPages; i++) {
+					var startIndex = (i - 1) * s.pageSize;
+					if (i == s.currentPage) {
+						pgs.append('<div class="page-number current-page">' + i + '</div>');
+					} else {
+						pgs.append('<div class="page-number">' + i + '</div>');
+					}
+				}
+			}
+			pgs.append('<div class="next"><span class="text">' + s.paging_next + '</span></div>');
+			if (s.currentPage <= 1) {
+				jQ.find(".previous").css("display", "none");
+			}
+			if (s.currentPage >= s.totalPages) {
+				jQ.find(".next").css("display", "none");
+			}
+
+			if (!s.viewModeBeforePages) {
+				this.generateViewModeDiv(selector);
+			}
+		},
+
+		generateViewModeDiv: function(selector) {
+			var jQ = $(selector);
+			var s = jQ.widgetState();
+			
+			var vm = jQ.append('<div class="viewmode"></div>').children(".viewmode");
+			var endIndex = s.currentIndex + s.pageSize > s.totalItems ? s.totalItems : s.currentIndex + s.pageSize;
+			var xofy = null;
+			if (s.currentIndex + 1 == endIndex) {
+				xofy = s.showXofYLabel ? '<span class="xofy">' + (s.currentIndex + 1) + ' of ' + s.totalItems + '</span>' : '';
+			}else {
+				xofy = s.showXofYLabel ? '<span class="xofy">' + (s.currentIndex + 1) + ' - ' + endIndex  + ' of ' + s.totalItems + '</span>' : '';
+			}
+			if (s.totalPages > 1) {
+				vm.append('<div class="viewall">' + xofy + '<span class="text">' + s.paging_view_all + '</span></div>');
+			} else {
+				vm.append('<div class="viewall" style="display:none">' + xofy + '<span class="text">' + s.paging_view_all + '</span></div>');
+			}
+			$(".itemcount", vm).html(s.totalItems);
+			if (s.totalItems == s.pageSize) {
+				vm.append('<div class="viewbypage"><span class="text">' + s.paging_view_by_page + '</span></div>');
+			} else {
+				vm.append('<div class="viewbypage" style="display:none"><span class="text">' + s.paging_view_by_page + '</span></div>');
+			}
+		},
+
+
+
+	/**
+	 * Restores the display and state of the widget based on the state object provided.
+	 *
+	 * @param state {Object} A widget state object containing the 'paging' with the required information to restore the PagingWidget
+	 * @param selector {String}  A jQuery selector for the widget root
+	 */
+		restoreState: function(state, selector) {
+			var browse = state["browse"];
+			var jQ = $(selector);
+			var s = jQ.widgetState();
+			if (s.triggerPageChanged) {
+				if (browse && browse.currentindex) {
+					if (browse.currentindex != s.currentIndex) {
+						s.restoringState = true;
+						s.totalItems = browse.totalitems;
+						s.pageSize = browse.pagesize;
+						s.mode = browse.mode;
+						s.currentIndex = browse.currentindex;
+						s.currentPage = Math.floor((s.currentIndex + s.pageSize) / s.pageSize);
+						this.calculateValues(selector, s.currentIndex, s.totalItems);
+						this.updatePageNumbers(selector);
+						this.selectPage(jQ, s.currentPage);
+						this.assignEvents(selector);
+					}
+				} else {
+				
+					s.restoringState = true;
+					s.totalItems = s.defaultTotalItems;
+					s.pageSize = s.defaultPageSize;
+					s.currentPage = 1;
+					s.mode = "page";
+					this.calculateValues(selector, 0, s.totalItems);
+					this.updatePageNumbers(selector);
+					this.selectPage(jQ, s.currentPage);
+					this.assignEvents(selector);
+					$(".viewall", jQ).css("display", "block");
+					$(".viewbypage", jQ).css("display", "none");
+
+				}
+			}
+		}
+
+	});
+}
+;
+                                                
+	if (typeof CollapsingPagingWidget == "undefined") {
+	/**
+	 * @class An extension of the PagingWidget control that renders a listing of pages within a collapsing structure
+	          that allows the paging control to consume a fixed amount of space.  The page listing consists of 5
+	          sections, 3 are clickable, and 2 are ellipsiss representing a collapsed range of numbers.  In general,
+	          the paging control renders the following areas:
+
+                A            B                C
+                     D                   E
+					1 2 3 ... 7 8 9 10 11 12 13 ... 18 19 20
+
+				 where the sections marked A and C are the beginning and end of the paging list.  B represents the 'active'
+				 portion of the user's paging activity, with the middle number (10 in the above example) being the currently
+				 selected page.  D and E represent the page numbers that have been collapsed to save screen space.
+				 Each ellipsis represents at least one page.  The B section of the paging control 'slides' to the left and
+				 right as the user clicks Next and Previous or clicks on a page number.  'Next' would show the next page
+				 in sequence (in this example, 14) and consume '7' from the center list of pages.  'Previous' would
+				 show the next lowest page number below the current active set (in this example, 6) and consume the
+				 number 13 in the ellipsis.
+
+				 As users initialize the paging control or navigate towards the beginning or end of the page list, the
+				 ellipsiss are removed since the active and anchor sections overlap.  The two boundry examples for this
+				 example would be:
+
+				 1 2 3 4 5 6 7 ... 18 19 20
+				 1 2 3 ... 14 15 16 17 18 19 20
+
+				 The number page pages shows (in the above example, 7 pages) is dictated by the size of the 'active buffer',
+				 which is provided to the widget as activeBuffer.  The active page will be surrounded by +/- activeBuffer
+				 pages.  In the above example, the active buffer is 3 which causes at least 7 (3 + active page + 3) pages
+				 to always be shown.  The number of pages shown in the anchors on the left and right side of the
+				 paging list are dicted by the value specified in the inactiveBuffer parameter of the widget.  This is the
+				 number of pages that will always be shown on the left and right sides of the control.
+
+				 When the active portion of the paging list is 'next to' an anchor, you can get a long display of numbers.
+				 This is the 'worst case scenario' for the size of the paging control.  In this example, when the user
+				 selects page 7 or page 15, 10 page numbers 10 will be shown in sequence:
+
+				   A         B         E     C
+				 1 2 3 4 5 6 7 8 9 10 ... 18 19 20
+				   A    D           B            C
+				 1 2 3 ... 12 13 14 15 16 17 18 19 20
+
+				 This behavior leads the largest size possible that the paging control can consume.  This size can be
+				 determined by the following equation:
+
+				 inactiveBuffer + 2 x activeBuffer + 1 active page + 1 ellipsis + inactiveBuffer = total active pages shown
+
+				 So, in the above example, we'd have
+
+				 3 + 2 x 3 + 1 + 1 + 3 = 14
+
+				  
+
+
+	 Renders paging controls allowing direct access to any page within a result set as well as
+	 *        'next' and 'previous' controls.  The pages will all be listed in sequence preceeded and followed
+	 * 		by 'next' and 'previous' links.  The links can be overridden as text or images using Motifs styles for
+	 *       the 'next' and 'previous' css classes and the resource attributes 'paging.previous' and 'paging.next'
+	 * @author Michael Maley(mmaley@fry.com)
+	 * @author $Author: sfarrugia $
+	 * @version $Revision: 1.9 $
+	 */
+		var CollapsingPagingWidget = PagingWidget.extend({
+
+			create: function(selector, settings) {
+				var jQ = this.base(selector, settings);
+				var s = jQ.widgetState();
+				if (jQ.widgetState().triggerPageChanged) {
+					this.calculateValues(jQ, settings.currentIndex, settings.totalItems);
+					this.updatePageNumbers(selector);
+					this.assignEvents(jQ);
+				}
+				return jQ;
+			},
+		
+			
+
+			getWidgetClassName: function() {
+				return "CollapsingPagingWidget";
+			},
+
+		/**
+		 * Updates the html/div representation of the pages that are available for the settings defined for
+		 * this widget.  This includes the next and previous labels and links.  Any logic for number ranges
+		 * and/or collapsing should occur here.
+		 * @param selector {String} A jQuery selector for the widget root
+		 * @private
+		 */
+			updatePageNumbers: function(selector) {
+				var jQ = $(selector);
+				var self = this;
+				var s = jQ.widgetState();
+
+				var inactiveBuffer = s.inactiveBuffer;
+				var activeBuffer = s.activeBuffer;
+				var minPages = (2 * activeBuffer) + 1 + (2 * inactiveBuffer);
+
+				if (s.totalPages <= minPages) {
+					// Use default paging behavior
+					this.base(selector);
+
+
+				} else {
+					var startEllipsis = false;
+					var endEllipsis = false;
+					if ((s.currentPage + activeBuffer) < (s.totalPages - (inactiveBuffer))) {
+						endEllipsis = true;
+					}
+					if ((s.currentPage - (activeBuffer + 1)) > inactiveBuffer) {
+						startEllipsis = true;
+					}
+					jQ.html("");
+					if (s.viewModeBeforePages) {
+						this.generateViewModeDiv(selector);
+					}
+
+					var pgs = jQ.append('<div class="page-numbers">').children(".page-numbers");
+					if (s.currentPage > 1) {
+						pgs.append('<div class="previous"><span class="text">' + s.paging_previous + '</span></div>');
+					}
+					
+
+					for (var i = 1; i <= s.totalPages; i++) {
+						
+						if ((i <= inactiveBuffer) || (i > inactiveBuffer && (s.currentPage <= inactiveBuffer+1) && (i <= (activeBuffer * 2 + 1)))) {
+							self.printPage(pgs, i);
+						
+						} else if ((i > (s.totalPages - inactiveBuffer)) || (i <= (s.totalPages - inactiveBuffer) && (s.currentPage >= s.totalPages - inactiveBuffer) && (i > (s.totalPages - (activeBuffer * 2 + 1))))) {
+						   self.printPage(pgs, i);
+						
+						} else if (i > inactiveBuffer && i < (s.currentPage - activeBuffer)) {
+							if (startEllipsis) {
+								
+								pgs.append('<div class="page-number ellipsis start">&hellip;</div>');
+								startEllipsis = false;
+							}
+
+						
+						} else if (i >= (s.currentPage - activeBuffer) && i <= (s.currentPage + activeBuffer)) {
+                  	self.printPage(pgs, i);
+						
+						} else if (i > (s.currentPage + activeBuffer) && (i <= (s.totalPages - inactiveBuffer))) {
+							if (endEllipsis) {
+								// print ellipsis
+								pgs.append('<div class="page-number ellipsis end">&hellip;</div>');
+								endEllipsis = false;
+							}
+						} else {
+							// console.error("Failed to match " + i );
+						}
+					}
+				if (s.currentPage < s.totalPages) {
+					pgs.append('<div class="next"><span class="text">' + s.paging_next + '</span></div>');
+				}
+
+				if (!s.viewModeBeforePages) {
+					this.generateViewModeDiv(selector);
+				}
+
+
+			}
+
+		},
+
+		onPageChanged: function(selector, pageStartIndex) {
+			var jQ = $(selector);
+			var s = jQ.widgetState();
+			/**/
+			s.nextIndex = pageStartIndex + s.pageSize;
+			s.previousIndex = pageStartIndex - s.pageSize;
+			s.currentIndex = pageStartIndex;
+			var currentPage = Math.floor((pageStartIndex + s.pageSize) / s.pageSize);
+			s.currentPage = currentPage;
+			this.calculateValues(selector, s.currentIndex, s.totalItems);
+			this.updatePageNumbers(selector);
+			// this.selectPage(selector, currentPage);
+			this.assignEvents($(selector));
+			EventTracker.track("ToPage", "Page: " + currentPage);
+
+			/**/
+			if (!s.restoringState) {
+				PersistentStorage.savePersistent({"browse": {"currentindex": s.currentIndex, "totalitems": s.totalItems, "pagesize" : s.pageSize, "mode" : s.mode}});
+			} else {
+				s.restoringState = false;
+			}
+			jQ.widgetTrigger("pagechanged", [pageStartIndex, s.pageSize, s.totalItems]);
+		},
+
+
+		printPage: function(jQ, p) {
+			if (p == jQ.widgetState().currentPage) {
+				jQ.append('<div class="page-number current-page">' + p + '</div>');
+			} else {
+				jQ.append('<div class="page-number">' + p + '</div>');
+			}
+		}
+	});
+}
+;
+</script>
+<script type="text/javascript">
+                var monetateT = new Date().getTime();
+                (function() {
+                    var p = document.location.protocol;
+                    if (p == "http:" || p == "https:") {
+                        var m = document.createElement('script'); m.type = 'text/javascript'; m.async = true; m.src = (p == "https:" ? "https://s" : "http://") + "b.monetate.net/js/1/a-dbada049/p/sheplers.com/" + Math.floor((monetateT + 2789065) / 3600000) + "/g";
+                        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(m, s);
+                    }
+                })();
+            </script>
+            </head>
+	<body id="" class="custserv"><div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" style="padding-bottom: 6px; padding-right: 6px; display: none;"><div id="cboxWrapper" style=""><div style=""><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxLoadedContent" class="" style="width: 0px; height: 0px; overflow: hidden;"></div><div id="cboxLoadingOverlay" class="" style=""></div><div id="cboxLoadingGraphic" class="" style=""></div><div id="cboxTitle" class="" style=""></div><div id="cboxCurrent" class="" style=""></div><div id="cboxNext" class="" style=""></div><div id="cboxPrevious" class="" style=""></div><div id="cboxSlideshow" class="" style=""></div><div id="cboxClose" class="" style=""></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none;"></div></div>
+
+		<div id="pageWrap">
+			<div id="siteHeaderWrap">
+	<div id="siteHeader">
+		<div class="logoWrap" role="banner">
+			<a accesskey="2" href="http://www.sheplers.com/" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/_1&quot;;return this.s_oc?this.s_oc(e):true"><img src="https://www.sheplers.com/assets/images/img/headerLogo.png" alt="Sheplers"></a></div>
+		<a class="skiplink" href="#startcontent" accesskey="2" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;https://web.archive.org/web/20130514204048id_/http%3A//www.sheplers.com/custserv/custserv.jsp%3Fp_1&quot;;return this.s_oc?this.s_oc(e):true">Skip over navigation</a>
+		<div class="linksWrap">
+			<ul id="globalNav" role="navigation">
+
+				<li id="cmsContactNumber">
+					<span>Toll Free: 1-888-835-4004</span></li>
+				<meta name="msvalidate.01" content="9CEAFF0B738B8673C4C2EEDDDFF48487">
+<li><a tabindex="0" href="http://www.sheplers.com/custserv/custserv.jsp" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/custserv/custserv.jsp_1&quot;;return this.s_oc?this.s_oc(e):true">Customer Service</a></li>
+<li><a tabindex="0" href="http://www.sheplers.com/custserv/locate_store.cmd" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/custserv/locate_store.cmd_1&quot;;return this.s_oc?this.s_oc(e):true">Store Locator</a></li>
+<li><a tabindex="0" href="https://www.sheplers.com/user/wishlist.jsp" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;https://www.sheplers.com/user/wishlist.jsp_1&quot;;return this.s_oc?this.s_oc(e):true">Wish List</a></li>
+<li><a tabindex="0" href="https://www.sheplers.com/user/orderhistory.cmd" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;https://www.sheplers.com/user/orderhistory.cmd_1&quot;;return this.s_oc?this.s_oc(e):true">Order Status</a></li>
+<li class="first"><a tabindex="0" href="https://www.sheplers.com/user/main.jsp" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;https://www.sheplers.com/user/main.jsp_1&quot;;return this.s_oc?this.s_oc(e):true">My Account</a></li><li id="signInContainer"><span class="signOut" style="display:none">
+		                <span class="user"></span>
+		                <a class="signOut" id="soLink" href="/user/logout.cmd" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;https://web.archive.org/user/logout.cmd_1&quot;;return this.s_oc?this.s_oc(e):true">Sign Out</a></span>
+                    <span class="signIn" style="display:none">
+                        <a class="signIn" id="siLink" href="https://www.sheplers.com/user/login.jsp" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;https://www.sheplers.com/user/login.jsp_1&quot;;return this.s_oc?this.s_oc(e):true">Sign In</a></span>
+				</li>
+			</ul>
+			<div id="headerCart" class="ie6png">
+				<div class="currency">
+					<div class="label" data-currencynote="This is an estimated currency conversion based on this morning's exchange rate. Your actual cost will be based on the exchange rate at the time we process your credit card.">View Prices In:<div>This is an estimated currency conversion based on this morning's exchange rate. Your actual cost will be based on the exchange rate at the time we process your credit card.</div></div>
+					<div class="menu">
+						<div class="header">U.S. Dollars</div>
+						<div class="body" style="display: none; visibility: visible;">
+							<ul>
+								<li><a href="/user/saveExchangeRate.cmd?exchangeRateId=1" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;https://web.archive.org/user/saveExchangeRate.cmd?exchangeRateId=1_1&quot;;return this.s_oc?this.s_oc(e):true">U.S. Dollars</a></li>
+								<li><a href="/user/saveExchangeRate.cmd?exchangeRateId=2" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;https://web.archive.org/user/saveExchangeRate.cmd?exchangeRateId=2_1&quot;;return this.s_oc?this.s_oc(e):true">Australian Dollar</a></li>
+								<li><a href="/user/saveExchangeRate.cmd?exchangeRateId=3" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;https://web.archive.org/user/saveExchangeRate.cmd?exchangeRateId=3_1&quot;;return this.s_oc?this.s_oc(e):true">British Pound</a></li>
+								<li><a href="/user/saveExchangeRate.cmd?exchangeRateId=4" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;https://web.archive.org/user/saveExchangeRate.cmd?exchangeRateId=4_1&quot;;return this.s_oc?this.s_oc(e):true">Canadian Dollar</a></li>
+								<li><a href="/user/saveExchangeRate.cmd?exchangeRateId=5" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;https://web.archive.org/user/saveExchangeRate.cmd?exchangeRateId=5_1&quot;;return this.s_oc?this.s_oc(e):true">Danish Krone</a></li>
+								<li><a href="/user/saveExchangeRate.cmd?exchangeRateId=6" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;https://web.archive.org/user/saveExchangeRate.cmd?exchangeRateId=6_1&quot;;return this.s_oc?this.s_oc(e):true">Euro</a></li>
+								<li><a href="/user/saveExchangeRate.cmd?exchangeRateId=7" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;https://web.archive.org/user/saveExchangeRate.cmd?exchangeRateId=7_1&quot;;return this.s_oc?this.s_oc(e):true">Japanese Yen</a></li>
+								<li><a href="/user/saveExchangeRate.cmd?exchangeRateId=8" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;https://web.archive.org/user/saveExchangeRate.cmd?exchangeRateId=8_1&quot;;return this.s_oc?this.s_oc(e):true">New Zealand Dollar</a></li>
+								<li><a href="/user/saveExchangeRate.cmd?exchangeRateId=9" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;https://web.archive.org/user/saveExchangeRate.cmd?exchangeRateId=9_1&quot;;return this.s_oc?this.s_oc(e):true">Norwegian Krone</a></li>
+								<li><a href="/user/saveExchangeRate.cmd?exchangeRateId=10" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;https://web.archive.org/user/saveExchangeRate.cmd?exchangeRateId=10_1&quot;;return this.s_oc?this.s_oc(e):true">Swedish Krona</a></li>
+								<li><a href="/user/saveExchangeRate.cmd?exchangeRateId=11" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;https://web.archive.org/user/saveExchangeRate.cmd?exchangeRateId=11_1&quot;;return this.s_oc?this.s_oc(e):true">Swiss Franc</a></li>
+								<li><a href="/user/saveExchangeRate.cmd?exchangeRateId=12" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;https://web.archive.org/user/saveExchangeRate.cmd?exchangeRateId=12_1&quot;;return this.s_oc?this.s_oc(e):true">Venezuelan Fuerte</a></li>
+								</ul>
 						</div>
-						<div id="slidingContent" style="display:none;"></div>
 					</div>
 				</div>
-			</div>
-			 
 
+				<a class="cartCount" id="widget-ucart-item-count" href="http://www.sheplers.com/checkout/basket.jsp" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/checkout/basket.jsp_1&quot;;return this.s_oc?this.s_oc(e):true"><span id="cartQuantityMessage"></span>
+                    </a></div>
 
-            <div id="headerbanner">
-			<div id="headerlogo">
-				<a href="/" title="Cowboy Boots, Western Wear, Wrangler Jeans, Levis Jeans - Sheplers.com"><img class="logoheader" src="/g/header/sheplers_logo_red.gif" alt="Cowboy Boots, Western Wear, Wrangler Jeans, Levis Jeans - Sheplers.com"></a>
-			</div>
-			
-				
-                
-                
-                
+			<form id="searchForm" action="http://www.sheplers.com/catalog/search.cmd" method="get" name="searchForm"><input type="hidden" name="form_state" value="searchForm"><label for="keyword">Enter Keyword or Item #</label>
+				<input class="overlabel overLabeled" id="keyword" name="keyword" type="search" value="" maxlength="40" autocapitalize="off"><button name="go" type="submit"><img src="https://www.sheplers.com/assets/images/btn/headerSearch.gif" alt="Search"></button>
+				<div class="error"></div>
+			</form></div>
 
-                
-               <form style="z-index:400;" id="dplanguage" name="curr" method="post" action="http://www.sheplers.com/modifycurrency.cfm">
-                  <input name="currenturl" value="/home.cfm" type="hidden">
-                  <a id="thumbnail" class="viewprice" href="#thumb">View Prices in: <span>This is an estimated currency
-                  conversion based on this morning's exchange rate. Your actual cost will be based on the exchange
-                  rate at the time of your credit card processing.</span></a>&nbsp;
-                  <select name="CountryPrice" size="1" class="currency" onchange="this.form.submit();">
-                    <option value="1" selected="selected"> U.S. Dollars </option>
-                    <option value="2"> Australian Dollar </option>
-                    <option value="3"> British Pound </option>
-                    <option value="4"> Canadian Dollar </option>
-                    <option value="5"> Danish Krone </option>
-                    <option value="6"> Euro </option>
-                    <option value="10"> Japanese Yen </option>
-                    <option value="16"> New Zealand Dollar </option>
-                    <option value="11"> Norwegian Krone </option>
-                    <option value="14"> Swedish Krona </option>
-                    <option value="15"> Swiss Franc </option>
-                    <option value="17"> Venezuelan Fuerte </option>
-                  </select>
-                </form>
-
-                
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-
-               <img style="position:absolute; left:250px; top:55px;" src="/g/header/live.gif" alt="Western Wear For The Way You Live">
-			<p id="number">Toll Free: 1-888-835-4004</p>
-			<div id="bagnsearch">
-                    <p id="cartlinks">&nbsp;</p>
-                    
-                    
-                    <div id="fastsearch">
-                    <form name="searchform" method="get" action="http://www.sheplers.com/fastsearch.cfm">
-                        <input name="Query" id="searchbox" autocomplete="off" class="sfield" title="Type your search criteria here." type="text">&nbsp;
-                        <input value="search" class="sbutt" title="Click to submit your search." type="submit">
-                    </form>
-                    </div>
-                </div>
-                <div id="header-social">
-                	<p>Follow us:</p> &nbsp;
-                    <a href="http://www.facebook.com/SheplersFan" title="Official Sheplers Facebook Fan Page"><img src="/g/header/sheplers_facebook2.gif" alt="Official Sheplers Facebook Fan Page"></a> <a href="http://twitter.com/sheplers" title="Official Sheplers Twitter Page"><img src="/g/header/sheplers_twitter2.gif" alt="Official Sheplers Twitter Page"></a> <a href="http://www.youtube.com/SheplersWestern" title="Official Sheplers You Tube Page"><img src="/g/header/sheplers_youtube2.gif" alt="Official Sheplers You Tube Page"></a> <a href="/blog/" title="Official Sheplers Blog"><img src="/g/header/sheplers_blog2.gif" alt="Official Sheplers Blog"></a>
-                </div>
-
-
-		  
-		  	
-                <div id="mainmenu">
-                    <ul>
-					
-					<li class="menuarrow">MEN'S</li>
-					<li class="menuitem"><a href="/mens/jeans/" title="Men's Wrangler &amp; Levi's Jeans"><span>JEANS</span></a></li>
-					<li class="menuitem"><a href="/mens/cowboy_boots/" title="Men's Cowboy Boots"><span>COWBOY BOOTS</span></a></li>
-					<li class="menuitem"><a href="/mens/work/" title="Men's Work Boots &amp; Apparel"><span>WORK</span></a></li>
-					<li class="menuitem"><a href="/mens/shirts/" title="Men's Western Shirts"><span>SHIRTS</span></a></li>
-					<li class="menuitem"><a href="/mens/apparel/" title="Men's Western Apparel"><span>APPAREL</span></a></li>
-					
-					
-					<li class="menuarrow" style="margin-left: 10px !important;">WOMEN'S</li>
-					<li class="menuitem"><a href="/womens/jeans/" title="Women's Wrangler &amp; Levi's Jeans"><span>JEANS</span></a></li>
-					<li class="menuitem"><a href="/womens/cowgirl_boots/" title="Women's Cowgirl Boots"><span>COWGIRL BOOTS</span></a></li>
-					<li class="menuitem"><a href="/womens/womens_tops/" title="Women's Western Tops"><span>TOPS</span></a></li>                
-					                     
-					<li class="menuitem"><a href="/womens/apparel/" title="Women's Western Apparel"><span>APPAREL</span></a></li>
-					
-					<li class="menuitem"><a href="/hats/cowboy/" title="Cowboy Hats"><span>COWBOY HATS</span></a></li>
-					<li class="menuitem"><a href="/kids/" title="Kids' Western Apparel"><span>KIDS'</span></a></li>
-					<li class="menuitem"><a href="/gifts_and_home/" title="Western Gifts"><span>DECOR</span></a></li>
-					
-					<li class="saletab"><a href="/outlet/" title="Sale"><span>SALE</span></a></li>
+        <div id="siteHeaderNav">
+                    <ul role="navigation">
+                        <li id="navCat448">
+                                <a class="root" href="http://www.sheplers.com/Cowboy-Boots/448.sec" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/Cowboy-Boots/448.sec_1&quot;;return this.s_oc?this.s_oc(e):true">Cowboy Boots</a><div class="subNav" style="display: none; width: 185px;">
+                                        
+                                        <div class="navColumns"><ul id="0_currentCol_0" style="float:left"><li><h3><a href="http://www.sheplers.com/Cowboy-Boots/Mens-Cowboy-Boots/pc/448/449.cat" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/Cowboy-Boots/Mens-Cowboy-Boots/pc/448/449.cat_1&quot;;return this.s_oc?this.s_oc(e):true">Men's Cowboy Boots</a></h3></li><li><h3><a href="http://www.sheplers.com/Cowboy-Boots/Cowgirl-Boots/pc/448/459.cat" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/Cowboy-Boots/Cowgirl-Boots/pc/448/459.cat_1&quot;;return this.s_oc?this.s_oc(e):true">Cowgirl Boots</a></h3></li><li><h3><a href="http://www.sheplers.com/Cowboy-Boots/Kids-Cowboy-Boots/pc/448/469.cat" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/Cowboy-Boots/Kids-Cowboy-Boots/pc/448/469.cat_1&quot;;return this.s_oc?this.s_oc(e):true">Kids' Cowboy Boots</a></h3></li><li><h3><a href="http://www.sheplers.com/Cowboy-Boots/Cowboy-Boots-on-Sale/pc/448/1070.cat" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/Cowboy-Boots/Cowboy-Boots-on-Sale/pc/448/1070.cat_1&quot;;return this.s_oc?this.s_oc(e):true">Cowboy Boots on Sale</a></h3></li></ul></div>
+                                    </div>
+                                </li>
+                        <li id="navCat1">
+                                <a class="root" href="http://www.sheplers.com/Mens/1.sec" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/Mens/1.sec_1&quot;;return this.s_oc?this.s_oc(e):true">Men's</a><div class="subNav" style="display: none; width: 370px;">
+                                        
+                                        <div class="navColumns"><ul id="2_currentCol_0" style="float:left"><li><h3><a href="http://www.sheplers.com/Mens/Mens-Cowboy-Boots/pc/1/5.cat" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/Mens/Mens-Cowboy-Boots/pc/1/5.cat_1&quot;;return this.s_oc?this.s_oc(e):true">Men's Cowboy Boots</a></h3></li><li><h3><a href="http://www.sheplers.com/Mens/Mens-Jeans/pc/1/15.cat" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/Mens/Mens-Jeans/pc/1/15.cat_1&quot;;return this.s_oc?this.s_oc(e):true">Men's Jeans</a></h3></li><li><h3><a href="http://www.sheplers.com/Mens/Mens-Western-Shirts/pc/1/14.cat" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/Mens/Mens-Western-Shirts/pc/1/14.cat_1&quot;;return this.s_oc?this.s_oc(e):true">Men's Western Shirts</a></h3></li><li><h3><a href="http://www.sheplers.com/Mens/Cowboy-Hats/pc/1/20.cat" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/Mens/Cowboy-Hats/pc/1/20.cat_1&quot;;return this.s_oc?this.s_oc(e):true">Cowboy Hats</a></h3></li><li><h3><a href="http://www.sheplers.com/Mens/Western-Belts-Buckles/pc/1/21.cat" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/Mens/Western-Belts-Buckles/pc/1/21.cat_1&quot;;return this.s_oc?this.s_oc(e):true">Western Belts &amp; Buckles</a></h3></li><li><h3><a href="http://www.sheplers.com/Mens/Western-Suits-Sport-Coats-Slacks/pc/1/22.cat" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/Mens/Western-Suits-Sport-Coats-Slacks/pc/1/22.cat_1&quot;;return this.s_oc?this.s_oc(e):true">Western Suits, Sport Coats &amp; Slacks</a></h3></li><li><h3><a href="http://www.sheplers.com/Mens/Outerwear/pc/1/17.cat" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/Mens/Outerwear/pc/1/17.cat_1&quot;;return this.s_oc?this.s_oc(e):true">Outerwear</a></h3></li><li><h3><a href="http://www.sheplers.com/workwear.sec" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/workwear.sec_1&quot;;return this.s_oc?this.s_oc(e):true">Workwear</a></h3></li><li><h3><a href="http://www.sheplers.com/Mens/Boot-Socks/pc/1/24.cat" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/Mens/Boot-Socks/pc/1/24.cat_1&quot;;return this.s_oc?this.s_oc(e):true">Boot Socks</a></h3></li><li><h3><a href="http://www.sheplers.com/Mens/Mens-Wallets-Accessories/pc/1/25.cat" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/Mens/Mens-Wallets-Accessories/pc/1/25.cat_1&quot;;return this.s_oc?this.s_oc(e):true">Men's Wallets &amp; Accessories</a></h3></li></ul><ul id="2_currentCol_1" style="float:left"><li><h3><a href="http://www.sheplers.com/Mens/New-Arrivals/pc/1/1112.cat" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/Mens/New-Arrivals/pc/1/1112.cat_1&quot;;return this.s_oc?this.s_oc(e):true">New Arrivals</a></h3></li><li><h3><a href="http://www.sheplers.com/Mens/Mens-On-Sale/pc/1/26.cat" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/Mens/Mens-On-Sale/pc/1/26.cat_1&quot;;return this.s_oc?this.s_oc(e):true">Men's On Sale</a></h3></li><li><h3><a href="http://www.sheplers.com/Mens/Mens-Clearance/pc/1/1409.cat" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/Mens/Mens-Clearance/pc/1/1409.cat_1&quot;;return this.s_oc?this.s_oc(e):true">Men's Clearance</a></h3></li></ul></div>
+                                    </div>
+                                </li>
+                        <li id="navCat2">
+                                <a class="root" href="http://www.sheplers.com/Womens/2.sec" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/Womens/2.sec_1&quot;;return this.s_oc?this.s_oc(e):true">Women's</a><div class="subNav" style="display: none; width: 370px;">
+                                        
+                                        <div class="navColumns"><ul id="4_currentCol_0" style="float:left"><li><h3><a href="http://www.sheplers.com/Womens/Cowgirl-Boots/pc/2/82.cat" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/Womens/Cowgirl-Boots/pc/2/82.cat_1&quot;;return this.s_oc?this.s_oc(e):true">Cowgirl Boots</a></h3></li><li><h3><a href="http://www.sheplers.com/Womens/Womens-Jeans/pc/2/97.cat" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/Womens/Womens-Jeans/pc/2/97.cat_1&quot;;return this.s_oc?this.s_oc(e):true">Women's Jeans</a></h3></li><li><h3><a href="http://www.sheplers.com/Womens/Womens-Tops/pc/2/89.cat" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/Womens/Womens-Tops/pc/2/89.cat_1&quot;;return this.s_oc?this.s_oc(e):true">Women's Tops</a></h3></li><li><h3><a href="http://www.sheplers.com/Womens/Cowgirl-Hats/pc/2/116.cat" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/Womens/Cowgirl-Hats/pc/2/116.cat_1&quot;;return this.s_oc?this.s_oc(e):true">Cowgirl Hats</a></h3></li><li><h3><a href="http://www.sheplers.com/Womens/Womens-Jackets-Coats/pc/2/112.cat" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/Womens/Womens-Jackets-Coats/pc/2/112.cat_1&quot;;return this.s_oc?this.s_oc(e):true">Women's Jackets &amp; Coats</a></h3></li><li><h3><a href="http://www.sheplers.com/Womens/Womens-Belts-Buckles/pc/2/120.cat" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/Womens/Womens-Belts-Buckles/pc/2/120.cat_1&quot;;return this.s_oc?this.s_oc(e):true">Women's Belts &amp; Buckles</a></h3></li><li><h3><a href="http://www.sheplers.com/Womens/Western-Purses/pc/2/123.cat" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/Womens/Western-Purses/pc/2/123.cat_1&quot;;return this.s_oc?this.s_oc(e):true">Western Purses</a></h3></li><li><h3><a href="http://www.sheplers.com/Womens/Western-Dresses-Skirts/pc/2/103.cat" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/Womens/Western-Dresses-Skirts/pc/2/103.cat_1&quot;;return this.s_oc?this.s_oc(e):true">Western Dresses &amp; Skirts</a></h3></li><li><h3><a href="http://www.sheplers.com/Womens/Western-Jewelry/pc/2/131.cat" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/Womens/Western-Jewelry/pc/2/131.cat_1&quot;;return this.s_oc?this.s_oc(e):true">Western Jewelry</a></h3></li><li><h3><a href="http://www.sheplers.com/Womens/Western-Wedding/pc/2/1078.cat" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/Womens/Western-Wedding/pc/2/1078.cat_1&quot;;return this.s_oc?this.s_oc(e):true">Western Wedding</a></h3></li></ul><ul id="4_currentCol_1" style="float:left"><li><h3><a href="http://www.sheplers.com/Womens/New-Arrivals/pc/2/1105.cat" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/Womens/New-Arrivals/pc/2/1105.cat_1&quot;;return this.s_oc?this.s_oc(e):true">New Arrivals</a></h3></li><li><h3><a href="http://www.sheplers.com/Womens/Womens-On-Sale/pc/2/198.cat" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/Womens/Womens-On-Sale/pc/2/198.cat_1&quot;;return this.s_oc?this.s_oc(e):true">Women's On Sale</a></h3></li><li><h3><a href="http://www.sheplers.com/Womens/Womens-Clearance/pc/2/1418.cat" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/Womens/Womens-Clearance/pc/2/1418.cat_1&quot;;return this.s_oc?this.s_oc(e):true">Women's Clearance</a></h3></li></ul></div>
+                                    </div>
+                                </li>
+                        <li id="navCat3">
+                                <a class="root" href="http://www.sheplers.com/Kids/3.sec" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/Kids/3.sec_1&quot;;return this.s_oc?this.s_oc(e):true">Kids</a><div class="subNav" style="display: none; width: 185px;">
+                                        
+                                        <div class="navColumns"><ul id="6_currentCol_0" style="float:left"><li><h3><a href="http://www.sheplers.com/Kids/Kids-Cowboy-Boots/pc/3/150.cat" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/Kids/Kids-Cowboy-Boots/pc/3/150.cat_1&quot;;return this.s_oc?this.s_oc(e):true">Kids' Cowboy Boots</a></h3></li><li><h3><a href="http://www.sheplers.com/Kids/Boys-Clothing/pc/3/158.cat" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/Kids/Boys-Clothing/pc/3/158.cat_1&quot;;return this.s_oc?this.s_oc(e):true">Boys' Clothing</a></h3></li><li><h3><a href="http://www.sheplers.com/Kids/Girls-Clothing/pc/3/168.cat" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/Kids/Girls-Clothing/pc/3/168.cat_1&quot;;return this.s_oc?this.s_oc(e):true">Girls' Clothing</a></h3></li><li><h3><a href="http://www.sheplers.com/Kids/Infant-Clothing/pc/3/147.cat" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/Kids/Infant-Clothing/pc/3/147.cat_1&quot;;return this.s_oc?this.s_oc(e):true">Infant Clothing</a></h3></li><li><h3><a href="http://www.sheplers.com/Kids/Toddler-Clothing/pc/3/144.cat" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/Kids/Toddler-Clothing/pc/3/144.cat_1&quot;;return this.s_oc?this.s_oc(e):true">Toddler Clothing</a></h3></li><li><h3><a href="http://www.sheplers.com/Kids/Kids-Cowboy-Hats/pc/3/142.cat" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/Kids/Kids-Cowboy-Hats/pc/3/142.cat_1&quot;;return this.s_oc?this.s_oc(e):true">Kids' Cowboy Hats</a></h3></li><li><h3><a href="http://www.sheplers.com/Kids/Kids-Belts/pc/3/141.cat" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/Kids/Kids-Belts/pc/3/141.cat_1&quot;;return this.s_oc?this.s_oc(e):true">Kids' Belts</a></h3></li><li><h3><a href="http://www.sheplers.com/Kids/Kids-Toys/pc/3/143.cat" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/Kids/Kids-Toys/pc/3/143.cat_1&quot;;return this.s_oc?this.s_oc(e):true">Kids' Toys</a></h3></li><li><h3><a href="http://www.sheplers.com/Kids-On-Sale" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/Kids-On-Sale_1&quot;;return this.s_oc?this.s_oc(e):true">Kids' On Sale</a></h3></li><li><h3><a href="http://www.sheplers.com/Kids/Kids-Clearance/pc/3/1425.cat" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/Kids/Kids-Clearance/pc/3/1425.cat_1&quot;;return this.s_oc?this.s_oc(e):true">Kids' Clearance</a></h3></li></ul></div>
+                                    </div>
+                                </li>
+                        <li id="navCat477">
+                                <a class="root" href="http://www.sheplers.com/Jeans/477.sec" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/Jeans/477.sec_1&quot;;return this.s_oc?this.s_oc(e):true">Jeans</a><div class="subNav" style="display: none; width: 185px;">
+                                        
+                                        <div class="navColumns"><ul id="8_currentCol_0" style="float:left"><li><h3><a href="http://www.sheplers.com/Jeans/Mens-Jeans/pc/477/478.cat" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/Jeans/Mens-Jeans/pc/477/478.cat_1&quot;;return this.s_oc?this.s_oc(e):true">Men's Jeans</a></h3></li><li><h3><a href="http://www.sheplers.com/Jeans/Womens-Jeans/pc/477/483.cat" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/Jeans/Womens-Jeans/pc/477/483.cat_1&quot;;return this.s_oc?this.s_oc(e):true">Women's Jeans</a></h3></li><li><h3><a href="http://www.sheplers.com/Jeans/Kids-Jeans/pc/477/490.cat" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/Jeans/Kids-Jeans/pc/477/490.cat_1&quot;;return this.s_oc?this.s_oc(e):true">Kids' Jeans</a></h3></li><li><h3><a href="http://www.sheplers.com/Jeans/Jeans-on-Sale/pc/477/496.cat" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/Jeans/Jeans-on-Sale/pc/477/496.cat_1&quot;;return this.s_oc?this.s_oc(e):true">Jeans on Sale</a></h3></li></ul></div>
+                                    </div>
+                                </li>
+                        <li id="navCat533">
+                                <a class="root" href="http://www.sheplers.com/Cowboy-Hats/533.sec" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/Cowboy-Hats/533.sec_1&quot;;return this.s_oc?this.s_oc(e):true">Cowboy Hats</a><div class="subNav" style="display: none; width: 185px;">
+                                        
+                                        <div class="navColumns"><ul id="10_currentCol_0" style="float:left"><li><h3><a href="http://www.sheplers.com/Cowboy-Hats/Cowboy-Hats/pc/533/534.cat" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/Cowboy-Hats/Cowboy-Hats/pc/533/534.cat_1&quot;;return this.s_oc?this.s_oc(e):true">Cowboy Hats</a></h3></li><li><h3><a href="http://www.sheplers.com/Cowboy-Hats/Cowgirl-Hats/pc/533/542.cat" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/Cowboy-Hats/Cowgirl-Hats/pc/533/542.cat_1&quot;;return this.s_oc?this.s_oc(e):true">Cowgirl Hats</a></h3></li><li><h3><a href="http://www.sheplers.com/Cowboy-Hats/Kids-Cowboy-Hats/pc/533/550.cat" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/Cowboy-Hats/Kids-Cowboy-Hats/pc/533/550.cat_1&quot;;return this.s_oc?this.s_oc(e):true">Kids' Cowboy Hats</a></h3></li><li><h3><a href="http://www.sheplers.com/Cowboy-Hats/Cowboy-Hats-On-Sale/pc/533/547.cat" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/Cowboy-Hats/Cowboy-Hats-On-Sale/pc/533/547.cat_1&quot;;return this.s_oc?this.s_oc(e):true">Cowboy Hats On Sale</a></h3></li></ul></div>
+                                    </div>
+                                </li>
+                        <li id="navCat1463">
+                                <a class="root" href="http://www.sheplers.com/workwear.sec" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/workwear.sec_2&quot;;return this.s_oc?this.s_oc(e):true">Workwear</a><div class="subNav" style="display: none; width: 185px;">
+                                        
+                                        <div class="navColumns"><ul id="12_currentCol_0" style="float:left"><li><h3><a href="http://www.sheplers.com/Workwear/Work-Boots/pc/1463/1489.cat" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/Workwear/Work-Boots/pc/1463/1489.cat_1&quot;;return this.s_oc?this.s_oc(e):true">Work Boots</a></h3></li><li><h3><a href="http://www.sheplers.com/Workwear/Work-Shirts/pc/1463/1464.cat" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/Workwear/Work-Shirts/pc/1463/1464.cat_1&quot;;return this.s_oc?this.s_oc(e):true">Work Shirts</a></h3></li><li><h3><a href="http://www.sheplers.com/Workwear/Work-Pants/pc/1463/1470.cat" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/Workwear/Work-Pants/pc/1463/1470.cat_1&quot;;return this.s_oc?this.s_oc(e):true">Work Pants</a></h3></li><li><h3><a href="http://www.sheplers.com/Workwear/Work-Jackets/pc/1463/1475.cat" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/Workwear/Work-Jackets/pc/1463/1475.cat_1&quot;;return this.s_oc?this.s_oc(e):true">Work Jackets</a></h3></li><li><h3><a href="http://www.sheplers.com/Workwear/Work-Overalls/pc/1463/1482.cat" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/Workwear/Work-Overalls/pc/1463/1482.cat_1&quot;;return this.s_oc?this.s_oc(e):true">Work Overalls</a></h3></li><li><h3><a href="http://www.sheplers.com/Workwear/Big-Tall-Workwear/pc/1463/1483.cat" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/Workwear/Big-Tall-Workwear/pc/1463/1483.cat_1&quot;;return this.s_oc?this.s_oc(e):true">Big &amp; Tall Workwear</a></h3></li><li><h3><a href="http://www.sheplers.com/Workwear/Flame-Resistant-Workwear/pc/1463/1488.cat" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/Workwear/Flame-Resistant-Workwear/pc/1463/1488.cat_1&quot;;return this.s_oc?this.s_oc(e):true">Flame Resistant Workwear</a></h3></li></ul></div>
+                                    </div>
+                                </li>
+                        <li id="navCat4">
+                                <a class="root" href="http://www.sheplers.com/Decor/4.sec" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/Decor/4.sec_1&quot;;return this.s_oc?this.s_oc(e):true">Decor</a><div class="subNav" style="display: none; width: 185px;">
+                                        
+                                        <div class="navColumns"><ul id="14_currentCol_0" style="float:left"><li><h3><a href="http://www.sheplers.com/Decor/Branding-Irons/pc/4/1756.cat" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/Decor/Branding-Irons/pc/4/1756.cat_1&quot;;return this.s_oc?this.s_oc(e):true">Branding Irons</a></h3></li><li><h3><a href="http://www.sheplers.com/Decor/Western-Bedding/pc/4/182.cat" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/Decor/Western-Bedding/pc/4/182.cat_1&quot;;return this.s_oc?this.s_oc(e):true">Western Bedding</a></h3></li><li><h3><a href="http://www.sheplers.com/Decor/Western-Bath-Decor/pc/4/183.cat" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/Decor/Western-Bath-Decor/pc/4/183.cat_1&quot;;return this.s_oc?this.s_oc(e):true">Western Bath Decor</a></h3></li><li><h3><a href="http://www.sheplers.com/Decor/Western-Kitchen-Decor/pc/4/184.cat" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/Decor/Western-Kitchen-Decor/pc/4/184.cat_1&quot;;return this.s_oc?this.s_oc(e):true">Western Kitchen Decor</a></h3></li><li><h3><a href="http://www.sheplers.com/Decor/Western-Wall-Decor/pc/4/185.cat" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/Decor/Western-Wall-Decor/pc/4/185.cat_1&quot;;return this.s_oc?this.s_oc(e):true">Western Wall Decor</a></h3></li><li><h3><a href="http://www.sheplers.com/Decor/Country-Home-Decor/pc/4/186.cat" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/Decor/Country-Home-Decor/pc/4/186.cat_1&quot;;return this.s_oc?this.s_oc(e):true">Country Home Decor</a></h3></li><li><h3><a href="http://www.sheplers.com/Decor/Steer-Horns/pc/4/200.cat" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/Decor/Steer-Horns/pc/4/200.cat_1&quot;;return this.s_oc?this.s_oc(e):true">Steer Horns</a></h3></li><li><h3><a href="http://www.sheplers.com/Decor/Luggage/pc/4/188.cat" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/Decor/Luggage/pc/4/188.cat_1&quot;;return this.s_oc?this.s_oc(e):true">Luggage</a></h3></li><li><h3><a href="http://www.sheplers.com/Decor/Toys/pc/4/201.cat" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/Decor/Toys/pc/4/201.cat_1&quot;;return this.s_oc?this.s_oc(e):true">Toys</a></h3></li><li><h3><a href="http://www.sheplers.com/Decor/Western-Gifts/pc/4/187.cat" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/Decor/Western-Gifts/pc/4/187.cat_1&quot;;return this.s_oc?this.s_oc(e):true">Western Gifts</a></h3></li><li><h3><a href="http://www.sheplers.com/Decor/Western-Statues/pc/4/1064.cat" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/Decor/Western-Statues/pc/4/1064.cat_1&quot;;return this.s_oc?this.s_oc(e):true">Western Statues</a></h3></li></ul></div>
+                                    </div>
+                                </li>
+                        <li id="navCat447">
+                                <a class="root" href="http://www.sheplers.com/Brands/447.sec" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/Brands/447.sec_1&quot;;return this.s_oc?this.s_oc(e):true">Brands</a><div class="subNav" style="display: none; width: 370px; left: -140px;">
+                                        
+                                        <div class="navColumns"><ul id="16_currentCol_0" style="float:left"><li><h3><a href="http://www.sheplers.com/gibson-trading-co.html" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/gibson-trading-co.html_1&quot;;return this.s_oc?this.s_oc(e):true">Gibson Trading Co</a></h3></li><li><h3><a href="http://www.sheplers.com/levis-jeans.html" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/levis-jeans.html_1&quot;;return this.s_oc?this.s_oc(e):true">Levi's Jeans</a></h3></li><li><h3><a href="http://www.sheplers.com/wrangler-jeans.html" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/wrangler-jeans.html_1&quot;;return this.s_oc?this.s_oc(e):true">Wrangler Jeans</a></h3></li><li><h3><a href="http://www.sheplers.com/ariat-boots.html" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/ariat-boots.html_1&quot;;return this.s_oc?this.s_oc(e):true">Ariat Boots</a></h3></li><li><h3><a href="http://www.sheplers.com/tony-lama.html" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/tony-lama.html_1&quot;;return this.s_oc?this.s_oc(e):true">Tony Lama Boots</a></h3></li><li><h3><a href="http://www.sheplers.com/stetson-hats-boots.html" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/stetson-hats-boots.html_1&quot;;return this.s_oc?this.s_oc(e):true">Stetson</a></h3></li><li><h3><a href="http://www.sheplers.com/justin-boots.html" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/justin-boots.html_1&quot;;return this.s_oc?this.s_oc(e):true">Justin Boots</a></h3></li><li><h3><a href="http://www.sheplers.com/corral-boots.html" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/corral-boots.html_1&quot;;return this.s_oc?this.s_oc(e):true">Corral</a></h3></li><li><h3><a href="http://www.sheplers.com/cinch-jeans.html" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/cinch-jeans.html_1&quot;;return this.s_oc?this.s_oc(e):true">Cinch</a></h3></li><li><h3><a href="http://www.sheplers.com/nocona-boots.html" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/nocona-boots.html_1&quot;;return this.s_oc?this.s_oc(e):true">Nocona</a></h3></li></ul><ul id="16_currentCol_1" style="float:left"><li><h3><a href="http://www.sheplers.com/lucchese-boots.html" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/lucchese-boots.html_1&quot;;return this.s_oc?this.s_oc(e):true">Lucchese Boots</a></h3></li><li><h3><a href="http://www.sheplers.com/dan-post.html" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/dan-post.html_1&quot;;return this.s_oc?this.s_oc(e):true">Dan Post</a></h3></li><li><h3><a href="http://www.sheplers.com/old-gringo.html" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/old-gringo.html_1&quot;;return this.s_oc?this.s_oc(e):true">Old Gringo Boots</a></h3></li><li><h3><a href="http://www.sheplers.com/Brands/Red-Ranch/pc/447/1124.cat" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/Brands/Red-Ranch/pc/447/1124.cat_1&quot;;return this.s_oc?this.s_oc(e):true">Red Ranch</a></h3></li><li><h3><a href="http://www.sheplers.com/miss-me-jeans.html" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/miss-me-jeans.html_1&quot;;return this.s_oc?this.s_oc(e):true">Miss Me</a></h3></li><li><h3><a href="http://www.sheplers.com/abilene-boots.html" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/abilene-boots.html_1&quot;;return this.s_oc?this.s_oc(e):true">Abilene Boots</a></h3></li><li><h3><a href="http://www.sheplers.com/aura-jeans.html" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/aura-jeans.html_1&quot;;return this.s_oc?this.s_oc(e):true">Aura Jeans</a></h3></li><li><h3><a href="http://www.sheplers.com/Brands/Boulet-Boots/pc/447/1099.cat" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/Brands/Boulet-Boots/pc/447/1099.cat_1&quot;;return this.s_oc?this.s_oc(e):true">Boulet Boots</a></h3></li><li><h3><a href="http://www.sheplers.com/carhartt-workwear.html" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/carhartt-workwear.html_1&quot;;return this.s_oc?this.s_oc(e):true">Carhartt Jeans</a></h3></li><li><h3><a href="http://www.sheplers.com/Brands/447.sec" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/Brands/447.sec_2&quot;;return this.s_oc?this.s_oc(e):true"> See All Brands</a></h3></li></ul></div>
+                                    </div>
+                                </li>
+                        <li id="navCat552">
+                                <a class="root" href="http://www.sheplers.com/Sale/552.sec" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/Sale/552.sec_1&quot;;return this.s_oc?this.s_oc(e):true">Sale</a><div class="subNav" style="display: none; width: 185px;">
+                                        
+                                        <div class="navColumns"><ul id="18_currentCol_0" style="float:left"><li><h3><a href="http://www.sheplers.com/Sale/Mens-On-Sale/pc/552/1261.cat" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/Sale/Mens-On-Sale/pc/552/1261.cat_1&quot;;return this.s_oc?this.s_oc(e):true">Men's On Sale</a></h3></li><li><h3><a href="http://www.sheplers.com/Sale/Womens-On-Sale/pc/552/1277.cat" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/Sale/Womens-On-Sale/pc/552/1277.cat_1&quot;;return this.s_oc?this.s_oc(e):true">Women's On Sale</a></h3></li><li><h3><a href="http://www.sheplers.com/Sale/Kids-On-Sale/pc/552/1290.cat" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/Sale/Kids-On-Sale/pc/552/1290.cat_1&quot;;return this.s_oc?this.s_oc(e):true">Kids' On Sale</a></h3></li><li><h3><a href="http://www.sheplers.com/Sale/Cowboy-Boots-Shoes/pc/552/1302.cat" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/Sale/Cowboy-Boots-Shoes/pc/552/1302.cat_1&quot;;return this.s_oc?this.s_oc(e):true">Cowboy Boots &amp; Shoes</a></h3></li><li><h3><a href="http://www.sheplers.com/Sale/Jeans-On-Sale/pc/552/1307.cat" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/Sale/Jeans-On-Sale/pc/552/1307.cat_1&quot;;return this.s_oc?this.s_oc(e):true">Jeans On Sale</a></h3></li><li><h3><a href="http://www.sheplers.com/Sale/Cowboy-Hats-On-Sale/pc/552/1312.cat" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/Sale/Cowboy-Hats-On-Sale/pc/552/1312.cat_1&quot;;return this.s_oc?this.s_oc(e):true">Cowboy Hats On Sale</a></h3></li><li><h3><a href="http://www.sheplers.com/Sale/Brands-On-Sale/pc/552/1328.cat" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/Sale/Brands-On-Sale/pc/552/1328.cat_1&quot;;return this.s_oc?this.s_oc(e):true">Brands On Sale</a></h3></li><li><h3><a href="http://www.sheplers.com/Sale/WorkWear-On-Sale/pc/552/1505.cat" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/Sale/WorkWear-On-Sale/pc/552/1505.cat_1&quot;;return this.s_oc?this.s_oc(e):true">WorkWear On Sale</a></h3></li></ul></div>
+                                    </div>
+                                </li>
+                        <li id="cmsHeaderNav">
+                            </li>
                     </ul>
-                
                 </div>
-
-                
-				&nbsp;
             </div>
-            
-		
-		
-		
-
-		
-		
-			<div id="freeship" style="padding-top: 3px; height: 50px !important; z-index: 3010 !important; position: relative;">
-				<p><img src="/g/header/freeship_calendar_instore.png" alt="Free Domestic Ground Shipping on $125 or more!" usemap="#freeship"></p>
-			</div>
-			<map name="freeship">
-				<area shape="rect" coords="0,0,400,50" href="/go/freeship_landing.cfm" alt="Free Domestic Ground Shipping on $125 or more!" title="Free Domestic Ground Shipping on $125 or more!">
-				<area shape="rect" coords="400,0,605,50" href="/holiday_shipping_calendar.html" alt="Shipping Calendar" title="Shipping Calendar">
-				<area shape="rect" coords="615,0,960,50" href="/storelocations.cfm" alt="In Store Specials" title="Store Locations">
-			</map>
-		
-			<div id="trip_containermain" style="position:absolute; width: 200px; top: 0px; margin: 0 auto; height:1px; overflow: visible;">
-				<div id="triple_guarantee" style="position: relative; left: 990px; top: 180px;">
-					<a href="/triple-guarantee.html" title="Sheplers Triple Guarantee"><img src="http://a60.g.akamai.net/f/60/7267/1d/sheplers.download.akamai.com/7267/g/triple_guarantee/trip_banner3.png" alt="Sheplers Triple Guarantee - Best Prices, Fastest Shipping, Largest Selection!"></a>
-				</div>
-			</div>
-		
-    </div>
-    
-
-  	
-    <div id="seranwrap">
-
-		
-        <div id="content">
-        
-                <div id="nonessen">
-                    <h2>PRIVACY &amp; SECURITY STATEMENT</h2>
-                    
-                    <p>This policy was last revised on: September 28, 2007.</p>
-                    
-                    <h4>We're a Business You Can Trust</h4>
-                    <p>
-                        At Sheplers, above all else, we value our customers and understand your concerns about online privacy and security. Because we know that your privacy is very important, we have instituted policies intended to ensure that your personal information is always respected and handled in a safe and responsible manner.
-                        This Privacy Statement is designed to help you understand what information we collect, how we use it, the steps we take to safeguard it and the choices you have regarding the use of and your ability to review and correct the information.
-                    </p>
-                    <p>When you provide personal information at our stores, our call centers, our websites or through our authorized third parties, you are consenting to our policies, as described herein, on how Sheplers will collect, use, disclose and manage your personal information.</p>
-    
-                    <h4>Privacy &amp; Security Policy Quick Reference </h4>
-                    <p>Click on any link below to find more information about that privacy or security policy.</p>
-    
-                    <ul class="miscul">
-                        <li><a href="#121" title="What information do we collect?">What information do we collect?</a></li>
-                        <li><a href="#122" title="How do we use your information?">How do we use your information?</a></li>
-                        <li><a href="#123" title="How can you control the use of your information?">How can you control the use of your information?</a></li>
-                        <li><a href="#124" title="How do you we safeguard your information?">How do you we safeguard your information?</a></li>
-                        <li><a href="#125" title="What technologies do you use to enhance my shopping experience?">What technologies do you use to enhance my shopping experience?</a></li>
-                        <li><a href="#126" title="Children's Privacy">Children's Privacy</a></li>
-                        <li><a href="#127" title="Changes to this Privacy Statement">Changes to this Privacy Statement</a></li>
-                        <li><a href="#128" title="How to Contact Us">How to Contact Us</a></li>
-                        <li><a href="#129" title="Conflict in Terms">Conflict in Terms</a></li>
-                    </ul>
-                    
-                    <a name="121"></a><h4>What information do we collect?</h4>
-                    <p>We use various methods of gathering information to help ensure that your shopping experience is as efficient and accommodating as possible. We collect information that you provide to us when you:</p>
-                    <ul class="security">
-                        <li>Request a catalog or information about our products and services;</li>
-                        <li>Purchase, return, or exchange a product;</li>
-                        <li>Visit our website, retail store, or outlet location;</li>
-                        <li>Create an online shopping account;</li>
-                        <li>Contact our call center or customer service desk;</li>
-                        <li>Opt-in a promotion, contest or survey, or</li>
-                        <li>Provide us with comments or suggestions.</li>
-                    </ul>
-                    <p>The type of information we may collect include the following:</p>
-                    <ul class="security">
-                        <li>Anonymous site traffic information (in order to improve your shopping experience at our site);</li>
-                        <li>Contact information such as name, mailing address, phone number, and email address; or</li>
-                        <li>Personal information such as billing address and credit card information, when provided.</li>
-                    </ul>
-                    <p>To better serve you and enhance your shopping experience, we may also supplement the information listed above with information from our joint marketing partners or third parties.</p>
-                    <p><a href="#top">Top of page</a></p>
-                    
-                    <a name="122"></a><h4>How do we use your information?</h4>
-                    <p>Sheplers wants to provide you with the most efficient and trustworthy shopping experience. We may use personal information that you provide to us in the following manner:</p>
-                    <ul class="security">
-                        <li>To assist you in customer service communications;</li>
-                        <li>To administer your account information, online forms, and other site features;</li>
-                        <li>To enable you to check out and complete your purchase;</li>
-                        <li>To send you special announcements or promotional information about new products or services and upcoming events;</li>
-                        <li>To send you printed catalogs in the mail;</li>
-                        <li>As necessary, to share your information with trusted third-party companies that provide support services; or</li>
-                        <li>To aggregate non-personal information in order to help improve our website and system administration.</li>
-                    </ul>
-                    
-                    <p><b>In-store Shopping.</b> When you visit one of our stores or outlet locations, you can shop anonymously when you pay with cash. However, we may keep a history of your purchases if you use a credit card or debit card.  We collect this information in order to process your orders to better assist you, and all such information will be treated in accordance with this Privacy Statement.</p>
-                    <p>If you want to return or exchange purchased merchandise, we may ask you for personal identifying information such as the credit card used for the purchase or a picture ID to help prevent fraud.</p>
-                    
-                    <p><b>Customer Service.</b> If you provide us with your phone number, you may receive telephone contact from us for customer service communications, such as to ask you about your order.</p>
-                    <p>If you call our customer service toll-free number, we may ask you personal identifying information, depending on the nature of your request, to better assist you with your requests and questions. We may retain this information to help meet your future needs.</p>
-                    
-                    <p><b>Catalogs.</b> We may use your name and postal address to occasionally send you printed catalogs from Sheplers. We may also share such information, as described herein, to other reputable direct marketing companies who may have offers of interest to you.</p>
-                    
-                    <p><b>E-mails.</b> We may use your e-mail address to notify you about the status of your order, provide customer service information, answer your questions and requests, or occasionally send you sales notifications or other promotional information about our products and services. We will not sell or rent your e-mail address to outside marketing companies.</p>
-                    <p><a href="#top">Top of page</a></p>
-    
-                    <p><b>Contests, Promotions or Surveys.</b> If you opt-in or participate in a contest, promotion, sweepstakes offering or survey (whether via on-line, over the phone or at one of our retail stores), we may use your personal information to manage your entry in such promotion, to notify you if you are a winner, or to fulfill promotional obligations. At the time of your entry or registration for a specific promotion, survey, contest, or sweepstakes, we will provide you with the rules governing such promotion, contest or survey.</p>
-                
-                    <p><b>Authorized Third Parties.</b> To provide you with an optimal shopping experience, we partner with certain third parties to manage our customer information, to fulfill promotions, or to communicate with our customers. In such cases, we may disclose your personal information to such outside companies. We do not authorize any of these service providers to make any use of your information other than for our benefit.</p>
-                    <p>To provide you with other marketing information or third party promotions that may be of interest to you, we may disclose your name and postal address to reputable third parties, but not your e-mail address or other information.</p>
-                    <p>Such third parties may have websites with separate privacy and data collection practices, and we recommend that you carefully review them. If you would like to change how information is used on that third party website, you must do so directly with that third party.</p>
-                
-                    <p><b>By Law.</b> In certain instances, we may disclose your personally identifiable information when we have reason to believe that it is necessary to identify, contact, or bring legal action to protect your rights, the rights of Sheplers, or others. We may also disclose your personally identifiable information when we believe it is required by law.</p>
-                    
-                    <p><b>Sale of Business.</b> In the unlikely event that Sheplers is sold, or substantially all of its assets are acquired, customer information may be one of the transferred assets, and may therefore be used by a third party acquirer in accordance.</p>
-                    <p><b>Customers.</b> Under certain circumstances, we reserve the right to refuse to provide goods and services to customers or potential customers without explanation.</p>
-                    <p><a href="#top">Top of page</a></p>
-    
-                    <a name="123"></a><h4>How can you control the use of your information?</h4>
-                    <p>We want you to be in control of your information, and we want to communicate with you only if you want to hear from us.</p>
-                    <p><b>E-mails and Newsletter.</b> If you do not want to receive our promotional emails, you may unsubscribe at any time by:</p>
-                    <ul class="security">
-                        <li>Visiting our <a href="/customerservice.cfm">contact us</a> page and request to be unsubscribed; or</li>
-                        <li>Clicking the remove link at the bottom of any promotional Sheplers e-mail;</li>
-                    </ul>		
-                    <p><b>Catalogs.</b> If you do not wish to receive our printed catalog, please <a href="/customerservice.cfm">contact us</a>. When you give us your name and address as it appears on the mailing label, we will remove your contact information from our mailing list. Please allow several weeks for the catalogs to stop, as we schedule catalog delivery well in advance.  If you receive a catalog from a third party, please contact that company directly to make any changes. We cannot alter or remove your information from any third parties' mailing lists.</p>
-                    <p><a href="#top">Top of page</a></p>
-                    
-                    <a name="124"></a><h4>How do you we safeguard your information?</h4>
-                    <p>Protecting the safety of your personal information, such as your credit card information, is important to us.  Our online store includes a variety of technical, administrative and physical safeguards so that you can enjoy your shopping experience without having to worry about loss, misuse, or unauthorized access to your information. For example, we have the following security measures on our websites:</p>
-                    <p><b>Secure Shopping.</b> We use industry-standard encryption technologies to encrypt credit card and billing information while it is being transmitted to Sheplers. In addition, we use commercially reasonable efforts to stay up to date with best practices regarding the protection of information in connection with transactions occurring over the internet. We also use VeriSign� as our SSL provider as an added measure for your protection.  You may want to check your internet settings to make sure your browser is in compliance with industry-standard encryption technology.</p>
-                    <p><b>Firewalls.</b> After your order is received, we protect all of your private information, including your order, behind a network security system called a "firewall." Only select staff has access to this information, and then only to information necessary to service your order.</p>
-                    <p><b>Phone Orders.</b> Some versions of popular web browsers and some firewalls don�t permit communication through secure servers like the ones we use to process orders. If your web browser cannot support this level of security, you will not be able to order products through out websites. If so, please phone us toll-free at 1-888-835-4004.</p>
-                    <p><i>We strive to protect your personal information from unauthorized access, but no data transmission over Internet can be guaranteed to be 100% secure. We cannot ensure or warrant the security of any information you transmit to us over the Internet. Also, please note that e-mail is not encrypted and is not considered a secure means of transmitting credit card numbers.</i></p>
-                    <p><a href="#top">Top of page</a></p>
-                    
-                    <a name="125"></a><h4>What technologies do you use to enhance my shopping experience?</h4>
-                    <p>To improve our websites and to make your online shopping experience more enjoyable, we collect anonymous information of all visitors to our websites through the use of cookies, graphic tags, transactions and other technologies.</p>
-                    <p><b>Cookies.</b> Cookies are used for the express purpose of making your visits more worthwhile, and do not contain any personally identifying information (such as name or credit card information). Most browsers are preset to accept cookies and are used to make online shopping easier and faster for you. If you set your browser to refuse cookies, purchasing is not possible at the Sheplers site. In such cases, to place orders, you may call us at 1-888-835-4004.</p>
-                    <p><b>Image Tags.</b> Our websites may also use analytics technology to optimize and tailor our websites for our visitors.  This technology allows us to understand which pages you visit on our websites.</p>
-                    <p><b>Third Party Links.</b> Our websites may include links to other websites which might take you away from our site, such as sites of outside business partners, vendors and advertisers.  These sites have separate privacy and data collection practices. Sheplers has no control over such websites and is not responsible or liable for the privacy practices or information-gathering practices of other entities or web sites. <i>Except as stated in this Privacy Statement, we will not provide any of your personal information to these third parties without your prior consent.</i></p>
-                    <p><a href="#top">Top of page</a></p>
-    
-                    <a name="126"></a><h4>Children's Privacy</h4>
-                    <p>This site is not directed towards children, and we do not knowingly collect any personal information from children under 13 years of age.</p>
-                    <p><a href="#top">Top of page</a></p>
-                
-                    <a name="127"></a><h4>Changes to the Privacy Statement</h4>
-                    <p>By using our website, you consent to the collection and use of your personal information as described herein.  Sheplers reserves the right to change, modify or amend this policy from time to time.  We may send those customers who have not opted-out of our communications an email about any changes to our Privacy Statement.  We encourage you to periodically review our current privacy policies.</p>
-                    <p><a href="#top">Top of page</a></p>
-    
-                    <a name="128"></a><h4>How to Contact Us</h4>
-                    <p>Our customers come first.  If you have any concerns or questions, you can contact us by:</p>
-                    <ul class="security">
-                        <li>clicking on this link <a href="/customerservice.cfm">Contact Us</a>;</li>
-                        <li>writing to us at Sheplers, 6501 West Kellogg, Wichita, KS 67209;</li>
-                        <li>calling us toll-free at 1-888-835-4004; or</li>
-                        <li>e-mailing us at webmaster@sheplers.com.</li>
-                    </ul>
-                    <p><a href="#top">Top of page</a></p>
-    
-                    <a name="129"></a><h4>Conflict in Terms</h4>
-                    <p>It is our goal to make our privacy practices easy to understand. We have created this easy-to-read Privacy Statement with that goal in mind. Some browsers utilize privacy enhancing technology to translate our Privacy Statement into a computer readable format. The technology then requires that the computer format be translated back into human readable format for you to read. This translation back into human readable format is often referred to as a "Policy Summary". It is possible that through these translations, the Policy Summary may unintentionally end up being inconsistent with the Privacy Statement upon which it is based. It might fail to address an issue or it might address an issue not raised in our Privacy Statement. For this reason, you should rely on our Privacy Statement as the most accurate and definitive description of our practices.</p>
-                    <p><a href="#top">Top of page</a></p>
-    
-                </div>
-        
-			
-            <div id="footer">
-                
-
-   <div>
-        <div id="signupemail">
-           <form style="padding-bottom:8px;" action="https://www.sheplers.com/SC/../signup/email_action.cfm" name="Email" method="post">
-               <span>Sign Up For Internet Savings!</span>
-               <input type="hidden" id="sourcetype" name="sourcetype" value="website footer">
-				<input type="hidden" id="action" name="action" value="new">
-			   <input value=" Enter Email Address" onfocus="this.value=''" name="Email" class="field" size="25" maxlength="150" align="middle" type="text">&nbsp;&nbsp;
-               <input src="/g/banners/sign_up.gif" name="image" onfocus="this.blur()" align="top" type="image">
-           </form>
-
-		<div id="facebook">
-			<script src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php" type="text/javascript"></script><script type="text/javascript">FB.init("7f7ce0be4660e5312fa83f0af6368841");</script><fb:fan profile_id="114742231660" stream="0" connections="5" width="600" height="85" css="http://www.sheplers.com/styles/homeslice_fb.css?17"></fb:fan>
-		</div>
-        </div>
-        
-		<p>
-			<a href="http://www.sheplers.com/customerservice.cfm" title="Contact Us">Contact Us</a>&nbsp;|&nbsp;
-			<a href="http://www.sheplers.com/customerservice.cfm" title="Customer Service">Customer Service</a>&nbsp;|&nbsp;
-			<a href="http://www.sheplers.com/privacy.cfm" title="Privacy Policy">Privacy Policy</a>&nbsp;|&nbsp;
-			<a href="http://www.sheplers.com/shipping.cfm" title="Shipping Information">Shipping Information</a><br>
-			<a href="http://www.sheplers.com/returns/" title="Returns Policy">Returns &amp; Exchanges</a>&nbsp;|&nbsp;
-			<a href="http://www.sheplers.com/affiliate.cfm" title="Affiliate Program">Affiliate Program</a>&nbsp;|&nbsp;
-			<a href="http://www.sheplers.com/aboutus.cfm" title="About Us">About Us</a>&nbsp;|&nbsp;
-			<a href="http://www.sheplers.com/wishlist.cfm" title="Wish List">Wish List</a>&nbsp;|&nbsp;
-			<a href="http://www.sheplers.com/sitemap.cfm" title="Site Map">Site Map</a><br>
-			<a href="http://www.sheplers.com/storelocations.cfm" title="Store Locations">Store Locator</a>&nbsp;|&nbsp;
-			<a href="http://www.sheplers.com/brandlinks.cfm" title="Brands">Brands</a>&nbsp;|&nbsp;
-			<a href="http://www.sheplers.com/jobs.cfm" title="Job Opportunities">Job Opportunities</a>
-		</p>
-	</div> 
-    <div class="tableicon">
-        <table width="254" style="background:url(http://a60.g.akamai.net/f/60/7267/1d/sheplers.download.akamai.com/7267/g/banners/footer_sc_blue.gif) top center no-repeat; margin-left:120px;">
-            <tbody><tr>
-                <td colspan="5" style="padding-bottom:20px;">&nbsp;</td>
-            </tr>
-            <tr>
-                <td width="70">&nbsp;</td>
-                <td style="padding-right:5px;"><a target="_blank" href="https://www.bbb.org/online/consumer/cks.aspx?id=1081003163551"><img title="Click to verify BBB accreditation and to see a BBB report." src="/g/bbbsealh2.gif" alt="Click to verify BBB accreditation and to see a BBB report." border="0"></a></td>
-                <td width="32"><a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.sheplers.com"><img border="0" src="//images.scanalert.com/meter/www.sheplers.com/12.gif" alt="" title="This site is tested and certified daily to pass the &quot;McAfee Secure&quot; Security Scan. To help address concerns about possible hacker access to your confidential data, and the safety of visiting this site, the &quot;live&quot; McAfee Secure mark appears only when this site passes the daily McAfee Secure tests."></a></td>
-                <td width="64">&nbsp;</td>
-            </tr>
-            <tr>
-                <td colspan="5">&nbsp;</td>
-            </tr>
-            <tr>
-                <td colspan="5" align="center"><img src="http://a60.g.akamai.net/f/60/7267/1d/sheplers.download.akamai.com/7267/g/btn_cards.gif" alt=""></td>
-            </tr>
-        </tbody></table>
-    </div>
-
-    <p id="yourcountry">Western Wear for the Way You Live<span style="font: bold .75em arial;"><sup>™</sup></span></p>
-	<p style="clear: both; margin-top: 0; text-align: center;">
-		<a href="http://www.sheplers.com/shipping.cfm" title="Shipping Information">Sheplers Ships Internationally:</a> Australia, UK, Canada, Japan, Italy, New Zealand <a href="http://www.sheplers.com/shipping.cfm" title="Shipping Information">&amp; more...</a>
-		<br>
-		<a href="http://www.sheplers.com/storelocations.cfm" title="Shipping Information">Sheplers Stores Located In:</a> Texas, Arizona, Colorado, Kansas, Missouri, Nevada, New Mexico, Oklahoma, Florida
-	</p>
-
-    <p id="copyrights">© 1998-2011 Sheplers, Inc. Customer Service or to Order by Phone <span>1-888-835-4004</span></p>
-
-<!-- Start Google Analytics Code -->
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
+	<div id="headerSubContent">
+		<div id="cmsCrossChannelEvents">
+			<!-- <a href="/custserv/custserv_popup.jsp?pageName=FreeShipping" class="openAjaxLayer" onclick="var x=".tl(";s_objectID="http://www.sheplers.com/custserv/custserv_popup.jsp?pageName=FreeShipping_1&quot;;return this.s_oc?this.s_oc(e):true" title="Free Domestic Ground Shipping"><img src="https://www.sheplers.com/assets/images/sections/header/globalheader_freeship99.png" alt="Free Domestic Ground Shipping Over $99" border="0"></a>  --></div>
+		<div id="cmsGlobalPromotion">
+			<!---WORLD'S LARGEST Western Wear Warehouse---></div>
+	</div>
+</div>
 <script type="text/javascript">
-_uacct = "UA-2171362-4";
-urchinTracker();
-</script>
-<!-- End Google Analytics Code -->
-<script language="javascript" type="text/javascript"><!--
-document.write('<s'
-	+ 'cript language="javascript" src="'
-	+ document.location.protocol
-	+ '//'
-	+ 'jdc.sheplers.com'
-	+ '/cgi-bin/ctasp-server.cgi'
-	+ '?i=qwyXbGrAm5yd8XkZ'
-	+ '&fp=1'
-	+ '&c='+escape(document.cookie)
-	+ '"></'
-	+ 'script>');
-	//-->
-</script><script language="javascript" src="https://jdc.sheplers.com/cgi-bin/ctasp-server.cgi?i=qwyXbGrAm5yd8XkZ&amp;fp=1&amp;c="></script>
+	
+	//Search error message.  used in site_lib.js
+	site.searchInstructions = "Enter keyword or item #";
+	site.searchErrorText = "Please enter a search term and try your search again."
+</script><div id="siteBodyWrap">
+				<div id="siteBody">
+					<a name="startcontent" id="startcontent"></a>
+					<div class="custserv-wrapper main">
+	<div class="content">
 
-	<!-- monetate footer include -->
-			<!-- Begin Monetate tag, place before end of document body. -->
-<script type="text/javascript">
-var monetateT = new Date().getTime();
-if (document.location.protocol == "http:" || document.location.protocol == "https:") { document.write(unescape("%3Cscript type='text/javascript' src='" + (document.location.protocol == "https:" ? "https://s" : "http://") + "b.monetate.net/js/1/a-dbada049/p/sheplers.com/" + Math.floor(monetateT / 3600000) + "'%3E%3C/script%3E")); }
-</script><script type="text/javascript" src="https://sb.monetate.net/js/1/a-dbada049/p/sheplers.com/439057"></script>
-<script type="text/javascript">
-if (this.monetate) { monetate.a(); }
-</script>
-<!-- End Monetate tag. -->
+		<div class="navigation" role="navigation">
+	<div class="header">
+		<h2>Customer Service</h2>
+	</div>
+	<ul>
+		<li><h3><a href="../custserv/custserv.jsp?pageName=About" title="About Us" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;https://web.archive.org/web/20130514204048id_/http%3A//www.sheplers.com/custserv/custserv.jsp?pag_1&quot;;return this.s_oc?this.s_oc(e):true">About Us</a></h3></li>
+		<li><h3><a href="../custserv/custserv.jsp?pageName=Privacy" title="Privacy &amp; Security" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;https://web.archive.org/web/20130514204048id_/http%3A//www.sheplers.com/custserv/custserv.jsp?pag_2&quot;;return this.s_oc?this.s_oc(e):true">Privacy &amp; Security</a></h3></li>
+		<li><h3><a href="../custserv/custserv.jsp?pageName=Shipping" title="Shipping Information" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;https://web.archive.org/web/20130514204048id_/http%3A//www.sheplers.com/custserv/custserv.jsp?pag_3&quot;;return this.s_oc?this.s_oc(e):true">Shipping Information</a></h3></li>
+		<li><h3><a href="../custserv/custserv.jsp?pageName=Returns" title="Return Policy" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;https://web.archive.org/web/20130514204048id_/http%3A//www.sheplers.com/custserv/custserv.jsp?pag_4&quot;;return this.s_oc?this.s_oc(e):true">Return Policy</a></h3></li>
+		<li><h3><a href="../user/subscribe.jsp" title="Email Sign Up" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;https://web.archive.org/web/20130514204048id_/http%3A//www.sheplers.com/user/subscribe.jsp_1&quot;;return this.s_oc?this.s_oc(e):true">Email Sign Up</a></h3></li>
+		<li><h3><a href="../custserv/sitemap.jsp" title="Site Map" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;https://web.archive.org/web/20130514204048id_/http%3A//www.sheplers.com/custserv/sitemap.jsp_1&quot;;return this.s_oc?this.s_oc(e):true">Site Map</a></h3></li>
+		<li><h3><a href="../custserv/contactus.jsp" title="Contact Us" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;https://web.archive.org/web/20130514204048id_/http%3A//www.sheplers.com/custserv/contactus.jsp_1&quot;;return this.s_oc?this.s_oc(e):true">Contact Us</a></h3></li>
+		<li><h3><a href="../checkout/order_status.jsp" title="Order Status" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;https://web.archive.org/web/20130514204048id_/http%3A//www.sheplers.com/checkout/order_status.jsp_1&quot;;return this.s_oc?this.s_oc(e):true">Order Status</a></h3></li>
+		<li><h3><a href="../custserv/custserv.jsp?pageName=SheplersCares" title="Sheplers Cares" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;https://web.archive.org/web/20130514204048id_/http%3A//www.sheplers.com/custserv/custserv.jsp?pag_5&quot;;return this.s_oc?this.s_oc(e):true">Sheplers Cares</a></h3></li>
+		<li><h3><a href="../custserv/custserv.jsp?pageName=TripleGuarantee" title="Triple Gurantee" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;https://web.archive.org/web/20130514204048id_/http%3A//www.sheplers.com/custserv/custserv.jsp?pag_6&quot;;return this.s_oc?this.s_oc(e):true">Triple Guarantee</a></h3></li>
+		<li><h3><a href="../custserv/custserv.jsp?pageName=Jobs" title="Careers" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;https://web.archive.org/web/20130514204048id_/http%3A//www.sheplers.com/custserv/custserv.jsp?pag_7&quot;;return this.s_oc?this.s_oc(e):true">Careers</a></h3></li>
+		<li><h3><a href="../user/unsubscribe.jsp" title="Email Unsubscribe" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;https://web.archive.org/web/20130514204048id_/http%3A//www.sheplers.com/user/unsubscribe.jsp_1&quot;;return this.s_oc?this.s_oc(e):true">Email Unsubscribe</a></h3></li>
+	</ul>
+	<div class="header" style="height: 25px !important;">
+		<h2>Resources</h2>
+	</div>
+	<ul>
+		<li><h3><a href="../custserv/custserv.jsp?pageName=SizeGuide" title="Sizing Guide" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;https://web.archive.org/web/20130514204048id_/http%3A//www.sheplers.com/custserv/custserv.jsp?pag_8&quot;;return this.s_oc?this.s_oc(e):true">Sizing Guide</a></h3></li>
+		<li><h3><a href="../custserv/custserv.jsp?pageName=BootFitGuide" title="Boot Fit Guide" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;https://web.archive.org/web/20130514204048id_/http%3A//www.sheplers.com/custserv/custserv.jsp?pag_9&quot;;return this.s_oc?this.s_oc(e):true">Boot Fit Guide</a></h3></li>
+		<li><h3><a href="../custserv/custserv.jsp?pageName=HistoryCowboyBoots" title="History of Cowboy Boots" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;https://web.archive.org/web/20130514204048id_/http%3A//www.sheplers.com/custserv/custserv.jsp?pag_10&quot;;return this.s_oc?this.s_oc(e):true">History of Cowboy Boots</a></h3></li>
+		<li><h3><a href="../custserv/custserv.jsp?pageName=MakingBoots" title="Making of Cowboy Boots" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;https://web.archive.org/web/20130514204048id_/http%3A//www.sheplers.com/custserv/custserv.jsp?pag_11&quot;;return this.s_oc?this.s_oc(e):true">Making of Cowboy Boots</a></h3></li>
+		<li><h3><a href="../custserv/custserv.jsp?pageName=BootCare" title="Boot Care Tips" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;https://web.archive.org/web/20130514204048id_/http%3A//www.sheplers.com/custserv/custserv.jsp?pag_12&quot;;return this.s_oc?this.s_oc(e):true">Boot Care Tips</a></h3></li>
+		<li><h3><a href="http://www.sheplers.com/assets/images/pdf/dom_of_aug2012.pdf" target="_blank" title="Domestic Order Form" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/assets/images/pdf/dom_of_aug2012.pdf_1&quot;;return this.s_oc?this.s_oc(e):true">Domestic Order Form</a></h3></li>
+		<li><h3><a href="http://www.sheplers.com/assets/images/pdf/int_of_aug2012.pdf" target="_blank" title="International Order Form" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/assets/images/pdf/int_of_aug2012.pdf_1&quot;;return this.s_oc?this.s_oc(e):true">International Order Form</a></h3></li>
 
-
-
-
-
-	<!-- /monetate footer include -->
-
-
-
-<style type="text/css">
-	@import url('http://assets.resultspage.com/js/rac/sli-rac.0.4.css');
-	@import url('http://sheplers.resultspage.com/rac/sli-rac.css');
-</style>
-<script type="text/javascript" src="http://sheplers.resultspage.com/rac/sli-rac.config.js"></script>
-
-
-
-<script language="javascript">
-
-function closeshipnotice(){
-	$('.shipnotice').remove();
-}
-
-</script>
-
-
- 
-
-<script language="JavaScript" type="text/javascript" src="/scripts/omniture/searchcenter_s_code.js"></script>
+	</ul>
+</div><!-- SiteCatalyst code version: H.22.1.
+Copyright 1996-2011 Adobe, Inc. All Rights Reserved
+More info available at http://www.omniture.com -->
 <script language="JavaScript" type="text/javascript"><!--
-s.events="";
-/* clickPast */
-s.SEMvar = s.getQueryParam('s_kwcid');
-s.SEMvar = s.getValOnce(s.SEMvar,'SEM_var',0);
-s.clickPast(s.SEMvar,'event26','event27');
-if(s.SEMvar||s.events){var s_code=s.t();if(s_code)document.write(s_code)}//--></script>
+/* You may give each page an identifying name, server, and channel on
+the next lines. */
+	 s.pageName="browse: Customer Service > Privacy and Security";
+	 s.channel="Customer Service";
+	 s.prop1="browse";
+	 s.prop2="Customer Service > Privacy and Security";
+	 s.prop3="Customer Service > Privacy and Security";
+	 s.eVar4="Customer Service";
+	 s.eVar5="Customer Service > Privacy and Security";
+	 s.eVar6="Customer Service > Privacy and Security";
+	 s.eVar7="Customer Service > Privacy and Security";
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
 
-            </div>
+<script language="JavaScript" type="text/javascript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><noscript><img src="<will be provided when you generate this code>"
+height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.22.1. -->
+
+
+<style>
+	.custServMain h3 {font: bold 1.2em arial;}
+</style>
+<div class="main custServMain">
+    <div class="custserv-breadcrumb privacyBreadcrumb breadcrumbs">
+            <ul>
+              	<li><a href="http://www.sheplers.com/custserv/custserv.jsp" title="Customer Service" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/custserv/custserv.jsp_2&quot;;return this.s_oc?this.s_oc(e):true">Customer Service</a></li>
+
+                <li>Privacy &amp; Security</li>
+            </ul>
+		</div>
+	<div class="header">
+		<h1>Sheplers Privacy &amp; Security Policy</h1>
+	</div>
+	<div>
+	<p>This policy was last revised on: December 28, 2011.</p>
+	<br>
+	<h3>We're a Business You Can Trust</h3>
+
+	<p>
+	    At Sheplers, above all else, we value our customers and understand your concerns about online privacy and security. Because we know that your privacy is very important, we have instituted policies intended to ensure that your personal information is always respected and handled in a safe and responsible manner.
+	    This Privacy Statement is designed to help you understand what information we collect, how we use it, the steps we take to safeguard it and the choices you have regarding the use of and your ability to review and correct the information.
+	</p>
+	<br>
+	<p>
+	When you visit our web site, we automatically recognize your Internet service provider, the Web page from which you came, and a record of your activity on our site, but you cannot be identified as an individual. 
+	The customer information that Sheplers Store collects through its web site is used to process orders and to improve your shopping experience. 
+	</p>
+<br>
+	<p>When you provide personal information at our stores, our call centers, our websites or through our authorized third parties, you are consenting to our policies, as described herein, on how Sheplers will collect, use, disclose and manage your personal information.</p>
+<br>
+	<p>We use the information you share with us to improve your shopping experience by allowing us to make our Web site easier and more enjoyable to use. The information you volunteer enables us to process our purchases, confirm your orders, customize the content and layout of our pages, notify you about updates to our site, and provide you with additional information about our products. We do not sell or share any of your personal information with third-parties or use the information you provide in any way other than as identified above.</p>
+<br>
+<p>
+The information you supply to us is added to our customer database. We 
+may also send you catalogs or emails to inform you of new products, 
+services and special offers, special promotions or upcoming events. You 
+can remove yourself from our email list at any time. 
+</p>
+<br>
+
+<div>
+	<p>When you provide personal information at our stores, our call centers, our websites or through our authorized third parties, you are consenting to our policies, as described herein, on how Sheplers will collect, use, disclose and manage your personal information.</p>
+	<br>
+	<a name="120"></a><h3>Privacy &amp; Security Policy Quick Reference </h3>
+	<p>Click on any link below to find more information about that privacy or security policy.</p>
+
+	<ul style="list-style-type: disc; margin: 15px 0 10px 25px;">
+	    <li><a href="#121" title="What information do we collect?" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;https://web.archive.org/web/20130514204048id_/http%3A//www.sheplers.com/custserv/custserv.jsp%3Fp_2&quot;;return this.s_oc?this.s_oc(e):true">What information do we collect?</a></li>
+	    <li><a href="#122" title="How do we use your information?" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;https://web.archive.org/web/20130514204048id_/http%3A//www.sheplers.com/custserv/custserv.jsp%3Fp_3&quot;;return this.s_oc?this.s_oc(e):true">How do we use your information?</a></li>
+	    <li><a href="#123" title="How can you control the use of your information?" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;https://web.archive.org/web/20130514204048id_/http%3A//www.sheplers.com/custserv/custserv.jsp%3Fp_4&quot;;return this.s_oc?this.s_oc(e):true">How can you control the use of your information?</a></li>
+	    <li><a href="#124" title="How do you we safeguard your information?" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;https://web.archive.org/web/20130514204048id_/http%3A//www.sheplers.com/custserv/custserv.jsp%3Fp_5&quot;;return this.s_oc?this.s_oc(e):true">How do you we safeguard your information?</a></li>
+	    <li><a href="#125" title="What technologies do you use to enhance my shopping experience?" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;https://web.archive.org/web/20130514204048id_/http%3A//www.sheplers.com/custserv/custserv.jsp%3Fp_6&quot;;return this.s_oc?this.s_oc(e):true">What technologies do you use to enhance my shopping experience?</a></li>
+	    <li><a href="#126" title="Children's Privacy" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;https://web.archive.org/web/20130514204048id_/http%3A//www.sheplers.com/custserv/custserv.jsp%3Fp_7&quot;;return this.s_oc?this.s_oc(e):true">Children's Privacy</a></li>
+	    <li><a href="#127" title="Changes to this Privacy Statement" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;https://web.archive.org/web/20130514204048id_/http%3A//www.sheplers.com/custserv/custserv.jsp%3Fp_8&quot;;return this.s_oc?this.s_oc(e):true">Changes to this Privacy Statement</a></li>
+	    <li><a href="#128" title="How to Contact Us" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;https://web.archive.org/web/20130514204048id_/http%3A//www.sheplers.com/custserv/custserv.jsp%3Fp_9&quot;;return this.s_oc?this.s_oc(e):true">How to Contact Us</a></li>
+	    <li><a href="#129" title="Conflict in Terms" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;https://web.archive.org/web/20130514204048id_/http%3A//www.sheplers.com/custserv/custserv.jsp%3Fp_10&quot;;return this.s_oc?this.s_oc(e):true">Conflict in Terms</a></li>
+	</ul>
+</div>
+<div>
+	<a name="121"></a><h3>What information do we collect?</h3>
+	<p>We use various methods of gathering information to help ensure that your shopping experience is as efficient and accommodating as possible. We collect information that you provide to us when you:
+		</p><ul style="list-style-type: disc; margin: 15px 0 10px 25px;">
+			<li>Request a catalog or information about our products and services;</li>
+			<li>Purchase, return, or exchange a product;</li>
+			<li>Visit our website, retail store, or outlet location;</li>
+			<li>Create an online shopping account;</li>
+			<li>Contact our call center or customer service desk;</li>
+			<li>Provide us with comments or suggestions.</li>
+		</ul>
+	<p></p>
+	<p>The type of information we may collect include the following:
+		</p><ul style="list-style-type: disc; margin: 15px 0 10px 25px;">
+			<li>Anonymous site traffic information (in order to improve your shopping experience at our site);</li>
+			<li>Contact information such as name, mailing address, phone number, and email address; or</li>
+			<li>Personal information such as billing address and credit card information, when provided.</li>
+		</ul>
+	<p></p>
+	<br>
+	<p>To better serve you and enhance your shopping experience, we may also supplement the information listed above with information from our joint marketing partners or third parties.</p>
+</div>
+	
+<br>
+
+<!--<p>
+Sheplers Store has taken measures to ensure that shopping at Sheplers 
+Store is a safe and enjoyable experience for our valued customers. We 
+use Secure Sockets Layering (SSL) to encrypt your personal credit 
+information, including your credit card number, before it travels over 
+the Internet. SSL technology is the industry standard for secure online 
+transactions. Because we use SSL, placing an order online is just as 
+safe as giving your credit card number over the telephone. 
+</p>
+-->
+
+<br><p><a href="#120" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;https://web.archive.org/web/20130514204048id_/http%3A//www.sheplers.com/custserv/custserv.jsp%3Fp_11&quot;;return this.s_oc?this.s_oc(e):true">Top of page</a></p><br>
+
+<div>
+	<a name="122"></a><h3>How do we use your information?</h3>
+	<p>Sheplers wants to provide you with the most efficient and trustworthy shopping experience. We may use personal information that you provide to us in the following manner:</p>
+	<ul style="list-style-type: disc; margin: 15px 0 10px 25px;">
+		<li>To assist you in customer service communications;</li>
+		<li>To administer your account information, online forms, and other site features;</li>
+		<li>To enable you to check out and complete your purchase;</li>
+		<li>To send you special announcements or promotional information about new products or services and upcoming events;</li>
+		<li>To send you printed catalogs in the mail;</li>
+		<li>As necessary, to share your information with trusted third-party companies that provide support services; or</li>
+		<li>To aggregate non-personal information in order to help improve our website and system administration.</li>
+	</ul>
+	
+	<p><strong>In-store Shopping.</strong> When you visit one of our stores or outlet locations, you can shop anonymously when you pay with cash. However, we may keep a history of your purchases if you use a credit card or debit card. We collect this information in order to process your orders to better assist you, and all such information will be treated in accordance with this Privacy Statement.</p>
+	<p>If you want to return or exchange purchased merchandise, we may ask you for personal identifying information such as the credit card used for the purchase or a picture ID to help prevent fraud.</p>
+
+	<br>
+	<p><strong>Customer Service.</strong> If you provide us with your phone number, you may receive telephone contact from us for customer service communications, such as to ask you about your order.</p>
+	<p>If you call our customer service toll-free number, we may ask you personal identifying information, depending on the nature of your request, to better assist you with your requests and questions. We may retain this information to help meet your future needs.</p>
+
+	<br>
+	<p><strong>Catalogs.</strong> We may use your name and postal address to occasionally send you printed catalogs from Sheplers. We may also share such information, as described herein, to other reputable direct marketing companies who may have offers of interest to you.</p>
+
+	<br>
+	<p><strong>E-mails.</strong> We may use your e-mail address to notify you about the status of your order, provide customer service information, answer your questions and requests, or occasionally send you sales notifications or other promotional information about our products and services. We will not sell or rent your e-mail address to outside marketing companies.</p>
+
+	<br>
+	<p><strong>Contests, Promotions or Surveys.</strong> If you opt-in or participate in a contest, promotion, sweepstakes offering or survey (whether via on-line, over the phone or at one of our retail stores), we may use your personal information to manage your entry in such promotion, to notify you if you are a winner, or to fulfill promotional obligations. At the time of your entry or registration for a specific promotion, survey, contest, or sweepstakes, we will provide you with the rules governing such promotion, contest or survey.</p>
+
+	<br>
+	<p><strong>Authorized Third Parties.</strong> To provide you with an optimal shopping experience, we partner with certain third parties to manage our customer information, to fulfill promotions, or to communicate with our customers. In such cases, we may disclose your personal information to such outside companies. We do not authorize any of these service providers to make any use of your information other than for our benefit.</p>
+
+	<br>
+	<p>To provide you with other marketing information or third party promotions that may be of interest to you, we may disclose your name and postal address to reputable third parties, but not your e-mail address or other information.</p>
+	
+	<br>
+	<p>Such third parties may have websites with separate privacy and data collection practices, and we recommend that you carefully review them. If you would like to change how information is used on that third party website, you must do so directly with that third party.</p>
+	
+	<br>
+	<p><strong>By Law.</strong> In certain instances, we may disclose your personally identifiable information when we have reason to believe that it is necessary to identify, contact, or bring legal action to protect your rights, the rights of Sheplers, or others. We may also disclose your personally identifiable information when we believe it is required by law.</p>
+	
+	<br>
+	<p><strong>Sale of Business.</strong> In the unlikely event that Sheplers is sold, or substantially all of its assets are acquired, customer information may be one of the transferred assets, and may therefore be used by a third party acquirer in accordance.</p>
+
+	<br>
+	<p><strong>Customers.</strong> Under certain circumstances, we reserve the right to refuse to provide goods and services to customers or potential customers without explanation.</p>
+</div>
+
+<br>
+<br><p><a href="#120" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;https://web.archive.org/web/20130514204048id_/http%3A//www.sheplers.com/custserv/custserv.jsp%3Fp_12&quot;;return this.s_oc?this.s_oc(e):true">Top of page</a></p><br>
+<div>
+	<a name="123"></a><h3>How can you control the use of your information?</h3>
+	<p>We want you to be in control of your information, and we want to communicate with you only if you want to hear from us.</p>
+	
+	<br>
+	<p><strong>E-mails and Newsletter.</strong>strong&gt; If you do not want to receive our promotional emails, you may unsubscribe at any time by:</p>
+	<ul style="list-style-type: disc; margin: 15px 0 10px 25px;">
+		<li>Visiting our <a href="/custserv/contactus.jsp" title="Contact Us" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;https://web.archive.org/custserv/contactus.jsp_1&quot;;return this.s_oc?this.s_oc(e):true">contact us</a> page and request to be unsubscribed; or</li>
+		<li>Clicking the remove link at the bottom of any promotional Sheplers e-mail;</li>
+	</ul>
+	
+	<p><strong>Catalogs.</strong> If you do not wish to receive our printed catalog, please <a href="/custserv/contactus.jsp" title="Contact Us" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;https://web.archive.org/custserv/contactus.jsp_2&quot;;return this.s_oc?this.s_oc(e):true">contact us</a>. When you give us your name and address as it appears on the mailing label, we will remove your contact information from our mailing list. Please allow several weeks for the catalogs to stop, as we schedule catalog delivery well in advance. If you receive a catalog from a third party, please contact that company directly to make any changes. We cannot alter or remove your information from any third parties' mailing lists.</p>
+</div>
+
+<br>
+<br><p><a href="#120" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;https://web.archive.org/web/20130514204048id_/http%3A//www.sheplers.com/custserv/custserv.jsp%3Fp_13&quot;;return this.s_oc?this.s_oc(e):true">Top of page</a></p><br>
+
+<div>
+	<a name="124"></a><h3>How do you we safeguard your information?</h3>
+	<p>Protecting the safety of your personal information, such as your credit card information, is important to us. Our online store includes a variety of technical, administrative and physical safeguards so that you can enjoy your shopping experience without having to worry about loss, misuse, or unauthorized access to your information. For example, we have the following security measures on our websites:</p>
+	
+	<br>
+	<p><strong>Secure Shopping.</strong> We use industry-standard encryption technologies to encrypt credit card and billing information while it is being transmitted to Sheplers. In addition, we use commercially reasonable efforts to stay up to date with best practices regarding the protection of information in connection with transactions occurring over the internet. We also use VeriSign as our SSL provider as an added measure for your protection. You may want to check your internet settings to make sure your browser is in compliance with industry-standard encryption technology.</p>
+
+	<br>
+	<p><strong>Firewalls.</strong> After your order is received, we protect all of your private information, including your order, behind a network security system called a "firewall." Only select staff has access to this information, and then only to information necessary to service your order.</p>
+
+	<br>
+	<p><strong>Phone Orders.</strong> Some versions of popular web browsers and some firewalls don't permit communication through secure servers like the ones we use to process orders. If your web browser cannot support this level of security, you will not be able to order products through out websites. If so, please phone us toll-free at 1-888-835-4004.</p>
+
+	<br>
+	<p style="font-style: italic">We strive to protect your personal information from unauthorized access, but no data transmission over Internet can be guaranteed to be 100% secure. We cannot ensure or warrant the security of any information you transmit to us over the Internet. Also, please note that e-mail is not encrypted and is not considered a secure means of transmitting credit card numbers.</p>
+</div>
+<br>
+
+<br><p><a href="#120" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;https://web.archive.org/web/20130514204048id_/http%3A//www.sheplers.com/custserv/custserv.jsp%3Fp_14&quot;;return this.s_oc?this.s_oc(e):true">Top of page</a></p><br>
+<div>
+	<a name="125"></a><h3>What technologies do you use to enhance my shopping experience?</h3>
+	<p>To improve our websites and to make your online shopping experience more enjoyable, we collect anonymous information of all visitors to our websites through the use of cookies, graphic tags, transactions and other technologies.</p>
+	
+	<br>
+	<p><strong>Cookies.</strong> Cookies are used for the express purpose of making your visits more worthwhile, and do not contain any personally identifying information (such as name or credit card information). Most browsers are preset to accept cookies and are used to make online shopping easier and faster for you. If you set your browser to refuse cookies, purchasing is not possible at the Sheplers site. In such cases, to place orders, you may call us at 1-888-835-4004.</p>
+
+	<br>
+	<p>Sheplers also uses persistent cookies to identify members after their first visit. These cookies remain on the hard drive of a PC and allow a user to enter our site without having to log in on every visit. To access any secure areas such as your account information or checkout, you must still enter your password.</p>
+
+	<br>
+	<p><strong>Image Tags.</strong> Our websites may also use analytics technology to optimize and tailor our websites for our visitors. This technology allows us to understand which pages you visit on our websites.</p>
+
+	<br>
+	<p><strong>Third Party Links.</strong> Our websites may include links to other websites which might take you away from our site, such as sites of outside business partners, vendors and advertisers. These sites have separate privacy and data collection practices. Sheplers has no control over such websites and is not responsible or liable for the privacy practices or information-gathering practices of other entities or web sites. <em style="font-style: italic;">Except as stated in this Privacy Statement, we will not provide any of your personal information to these third parties without your prior consent.</em></p>
+</div>
+<br>
+
+<br><p><a href="#120" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;https://web.archive.org/web/20130514204048id_/http%3A//www.sheplers.com/custserv/custserv.jsp%3Fp_15&quot;;return this.s_oc?this.s_oc(e):true">Top of page</a></p><br>
+<div>
+	<a name="126"></a><h3>Children's Privacy</h3>
+	<p>This site is not directed towards children, and we do not knowingly collect any personal information from children under 13 years of age.</p>
+</div>
+<br>
+<div>
+	<a name="127"></a><h3>Changes to the Privacy Statement</h3>
+	<p>By using our website, you consent to the collection and use of your personal information as described herein. Sheplers reserves the right to change, modify or amend this policy from time to time. We may send those customers who have not opted-out of our communications an email about any changes to our Privacy Statement. We encourage you to periodically review our current privacy policies.</p>
+</div>
+<br>
+<div>
+	<a name="128"></a><h3>How to Contact Us</h3>
+	<p>Our customers come first. If you have any concerns or questions, you can contact us by:</p>
+	
+	<ul style="list-style-type: disc; margin: 15px 0 10px 25px;">
+		<li>clicking on this link <a href="/custserv/contactus.jsp" title="Contact Us" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;https://web.archive.org/custserv/contactus.jsp_3&quot;;return this.s_oc?this.s_oc(e):true">Contact Us</a>;</li>
+		<li>writing to us at Sheplers, 6501 West Kellogg, Wichita, KS 67209;</li>
+		<li>Visit our website, retail store, or outlet location;</li>
+		<li>calling us toll-free at 1-888-835-4004; or</li>
+		<li>e-mailing us at service@sheplers.com.</li>
+	</ul>
+	
+</div>
+<br>
+<div>
+	<a name="129"></a><h3>Conflict in Terms</h3>
+	<p>It is our goal to make our privacy practices easy to understand. We have created this easy-to-read Privacy Statement with that goal in mind. Some browsers utilize privacy enhancing technology to translate our Privacy Statement into a computer readable format. The technology then requires that the computer format be translated back into human readable format for you to read. This translation back into human readable format is often referred to as a "Policy Summary". It is possible that through these translations, the Policy Summary may unintentionally end up being inconsistent with the Privacy Statement upon which it is based. It might fail to address an issue or it might address an issue not raised in our Privacy Statement. For this reason, you should rely on our Privacy Statement as the most accurate and definitive description of our practices.</p>
+</div>
+
+<br><p><a href="#120" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;https://web.archive.org/web/20130514204048id_/http%3A//www.sheplers.com/custserv/custserv.jsp%3Fp_16&quot;;return this.s_oc?this.s_oc(e):true">Top of page</a></p><br>
+
+	</div>
+</div></div>
+	<div class="clr"></div>	
+</div>
+<div class="clr"></div></div>
+			</div>
+
+			<!-- Footer Begins -->
+
+<div id="siteFooterWrap">
+	<div id="siteFooter">
+		<div id="cmsFooterStores">
+			<dl>
+	<dt>Sheplers Stores:</dt>
+	<dd><a href="http://www.sheplers.com/custserv/locate_store.cmd" title="Store Locator" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/custserv/locate_store.cmd_2&quot;;return this.s_oc?this.s_oc(e):true"><img src="https://www.sheplers.com/assets/images/sections/footer/footerStoresList_103012.png" alt="Sheplers has stores in Texas, Arizona, Colorado, Kansas, Nebraska, Nevada, New Mexico, Oklahoma, Florida, and Missouri"></a></dd>
+</dl></div>
+
+		<div class="body">
+			<div id="cmsFooterArea1" role="navigation">
+				<ul style="width: 175px;">
+	<li><a href="/custserv/custserv.jsp?pageName=SheplersCares" title="Sheplers Cares" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;https://web.archive.org/custserv/custserv.jsp?pageName=SheplersCares_1&quot;;return this.s_oc?this.s_oc(e):true"><img src="/assets/images/sections/footer/footer_shepcares.jpg" width="150" height="105" alt="Sheplers Cares"></a></li>
+</ul>
+
+<ul style="width: 155px; border: none;">
+	<li><a href="/custserv/contactus.jsp" title="Contact Us" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;https://web.archive.org/custserv/contactus.jsp_4&quot;;return this.s_oc?this.s_oc(e):true">Contact Us</a></li>
+	<li><a href="/custserv/custserv.jsp" title="Customer Service" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;https://web.archive.org/custserv/custserv.jsp_1&quot;;return this.s_oc?this.s_oc(e):true">Customer Service</a></li>
+	<li><a href="/custserv/custserv.jsp?pageName=Privacy" title="Privacy Policy" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;https://web.archive.org/custserv/custserv.jsp?pageName=Privacy_1&quot;;return this.s_oc?this.s_oc(e):true">Privacy Policy</a></li>
+	<li><a href="/custserv/custserv.jsp?pageName=Shipping" title="Shipping Information" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;https://web.archive.org/custserv/custserv.jsp?pageName=Shipping_1&quot;;return this.s_oc?this.s_oc(e):true">Shipping Information</a></li>
+</ul>
+<ul style="width: 155px;">
+	<li><a href="/custserv/custserv.jsp?pageName=Returns" title="Return Policy" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;https://web.archive.org/custserv/custserv.jsp?pageName=Returns_1&quot;;return this.s_oc?this.s_oc(e):true">Return Policy</a></li>
+	<li><a href="/custserv/custserv.jsp?pageName=Affiliates" title="Affiliate Program" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;https://web.archive.org/custserv/custserv.jsp?pageName=Affiliates_1&quot;;return this.s_oc?this.s_oc(e):true">Affiliate Program</a></li>
+	<li><a href="/user/wishlist.jsp" title="Wish List" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;https://web.archive.org/user/wishlist.jsp_1&quot;;return this.s_oc?this.s_oc(e):true">Wish List</a></li>
+	<li><a href="/custserv/custserv.jsp?pageName=sitemap" title="Site Map" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;https://web.archive.org/custserv/custserv.jsp?pageName=sitemap_1&quot;;return this.s_oc?this.s_oc(e):true">Site Map</a></li>
+	<li><a href="/Brands/447.sec" title="Brands" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;https://web.archive.org/Brands/447.sec_1&quot;;return this.s_oc?this.s_oc(e):true">Brands</a></li>
+</ul>
+<ul style="width: 155px;">
+	<li><a href="/custserv/custserv.jsp?pageName=Jobs" title="Careers" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;https://web.archive.org/custserv/custserv.jsp?pageName=Jobs_1&quot;;return this.s_oc?this.s_oc(e):true">Careers</a></li>
+	<!--<li><a href="/Brands/447.sec" title="Shop by Brand">Shop by Brand</a></li>-->
+	<li><a href="http://www.sheplers.com/coupon-code" title="Coupons" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/coupon-code_1&quot;;return this.s_oc?this.s_oc(e):true">Coupons</a></li>
+	<li><a href="/custserv/locate_store.cmd" title="Store Locator" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;https://web.archive.org/custserv/locate_store.cmd_1&quot;;return this.s_oc?this.s_oc(e):true">Store Locator</a></li>
+	<li><a href="http://m.sheplers.com/mobile/index.jsp" title="Sheplers Mobile Site" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://m.sheplers.com/mobile/index.jsp_1&quot;;return this.s_oc?this.s_oc(e):true">Mobile Site</a></li>
+</ul></div>
+
+			<form id="subscribeForm" action="/user/save_email_preference_footer.cmd?inputpage=footer" method="post" name="subscribeForm"><input type="hidden" name="form_state" value="subscribeForm"><h2><img class="ie6png" src="https://www.sheplers.com/assets/images/txt/footerEmailSignup.png" border="0" alt="Sign Up for Internet and Store Savings!"></h2>
+				<fieldset class="horizontalCheckboxes">
+					<input id="emailOptionCheckbox_0" type="checkbox" name="emailOptionCheckbox" value="0" checked="checked">
+						<label for="emailOptionCheckbox_0">Internet Savings</label>
+						<input id="emailOptionTypes_0" name="emailOptionTypes" type="hidden" value="false"><input id="emailOptionCheckbox_1" type="checkbox" name="emailOptionCheckbox" value="1">
+						<label for="emailOptionCheckbox_1">Store Savings</label>
+						<input id="emailOptionTypes_1" name="emailOptionTypes" type="hidden" value="false"></fieldset>
+				<div class="overlabel">
+					<label for="userEmail" style="opacity: 1; display: inline;">Your Email Address</label>
+					<input class="overlabel overLabeled" id="userEmail" name="userEmail" type="email" value="" maxlength="40" autocorrect="off" autocapitalize="off"><button name="submit" id="footerSignupButton" type="submit"><img src="https://www.sheplers.com/assets/images/btn/signUp.gif" alt="Sign Up for Savings"></button>
+				</div>
+				<div id="emailSignUp"></div>
+				<div class="error">
+					</div>
+				<div class="message">
+					</div>
+			</form></div>
+		<div id="cmsFooterArea2">
+			<div class="foot" style="height:50px">
+  
+
+<div style="float: left; margin: 0 7px 0 0; width:75px">
+<!-- START SCANALERT CODE -->
+<a target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=www.sheplers.com" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;https://www.mcafeesecure.com/RatingVerify?ref=www.sheplers.com_1&quot;;return this.s_oc?this.s_oc(e):true"><img width="68" height="44" border="0" src="//images.scanalert.com/meter/www.sheplers.com/75.gif" alt="McAfee SECURE sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee SECURE is a Trademark of McAfee, Inc.'); return false;"></a>
+<!-- END SCANALERT CODE --> 
+</div>
+
+<div style="float: left; width:581px">
+  <p><a href="http://www.sheplers.com/custserv/custserv.jsp?pageName=About" title="About Sheplers" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/custserv/custserv.jsp?pageName=About_1&quot;;return this.s_oc?this.s_oc(e):true">About Sheplers</a>. Sheplers Ships Internationally to: Australia, UK, Canada, Japan, Italy, New Zealand <a href="/custserv/custserv.jsp?pageName=Shipping" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;https://web.archive.org/custserv/custserv.jsp?pageName=Shipping_2&quot;;return this.s_oc?this.s_oc(e):true">and more</a>.</p>
+			
+  <p>Copyright 1998-2012 Sheplers, Inc. Customer Service / Order by Phone <span class="phone">1-888-835-4004</span>
+</p></div>
+
+<div style="float: right; width: 221px">
+<span><a href="https://www.sheplers.com/custserv/custserv.jsp?pageName=TripleGuarantee" target="_blank" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;https://www.sheplers.com/custserv/custserv.jsp?pageName=TripleGuarantee_1&quot;;return this.s_oc?this.s_oc(e):true"><img src="https://www.sheplers.com/assets/images/footer/TripleG_Footer.gif" class="ie6png"></a>
+</span>&nbsp;&nbsp;
+
+<span><a href="http://www.facebook.com/sheplersFan" target="_blank" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.facebook.com/sheplersFan_1&quot;;return this.s_oc?this.s_oc(e):true"><img src="https://www.sheplers.com/assets/images/footer/FbIcon32px.gif" class="ie6png"></a>
+</span>&nbsp;&nbsp;
+
+<span>
+<a href="http://www.sheplers.com/blog" target="_blank" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://www.sheplers.com/blog_1&quot;;return this.s_oc?this.s_oc(e):true"><img src="https://www.sheplers.com/assets/images/footer/BlogIcon32px.gif" class="ie6png"></a>
+</span>&nbsp;&nbsp;
+
+<span>
+<a href="http://pinterest.com/sheplers/" target="_blank" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;http://pinterest.com/sheplers/_1&quot;;return this.s_oc?this.s_oc(e):true"><img src="https://www.sheplers.com/assets/images/footer/PinIcon32px.gif" class="ie6png"></a>
+</span>
+</div>
+</div>
+
+<!--  <script language="javascript">
+  	if (screen.width > 1024)
+	{
+		document.write('<div style="position: fixed; top: 465px; left: 0px; z-index: 9999;" id="feedbackmodule"><a href="/custserv/custserv_popup.jsp?pageName=feedback" class="openAjaxLayer"><img src="https://www.sheplers.com/assets/images/sections/footer/feedback_btn_side.png" alt="Feedback"></a></div>');
+	}
+  </script> --></div>
+	</div>
+</div></div>
+
+
+        <script src="/js/site_ready.js" type="text/javascript"></script><div class="siteTags"><!-- Google Analytics -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+
+<!-- General Tracking tag -->
+
+<!-- General Tag for use on all pages -->
+	<script type="text/javascript">
+	try{
+		var pageTracker = _gat._getTracker("UA-2171362-4");
+		pageTracker._trackPageview();
+	} catch(err) { }
+	</script>
+</div>
             
-        </div>
-
-    </div>
-  	
 
 </body></html>
