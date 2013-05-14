@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the creditorwatch.com.au privacy policy that was archived on 2012-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121009095039id_/https%3A//creditorwatch.com.au/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creditorwatch.com.au privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514102744id_/https%3A//creditorwatch.com.au/page/privacy) for the most accurate reproduction.*
 
-# Creditor Watch Privacy Policy | Creditor Watch | Credit Watch | Minimise risk and protect your bottom line | Australia's online debt registry | Credit Review Tool | Exposing Bad Debtors | CreditorWatch | CreditWatch | Credit report | Credit repair | Bad credit
-
-## Privacy policy statement
+# Privacy Policy - CreditorWatch | Creditor Watch | Credit Watch | Credit report | Credit reports | checking your credit history | checking my credit history | check your credit history | my credit history check | checking credit history | credit history checks | to check credit | credit history checking | credit check company | company credit reports | companies credit check | company credit report | company credit checks | credit check for company | credit check for companies | credit check on companies | company credit checking | credit check on company | personal credit reports | personal credit history | personal credit checks | credit report personal | credit history personal | personal credit search | credit reports personal | personal credit report | personal credit check | credit scoring check | check credit scoring | credit check score | to check credit score | check for credit score | Debt Collection | Credit Review Tool | Minimise risk and protect your bottom line | Australia's online debt registry | Exposing Bad Debtors | CreditorWatch | CreditWatch | Credit repair | Bad credit
 
 We need to collect personal information about customers and our customers' customers for the provision of our services and as required by law.  This document sets out our policy for dealing with the collection, storage and disclosure of personal information.
 
-These matters are dealt with by a number of laws, regulations and policies such as the Privacy Act, 1988 (including the National Privacy Principles); 
+These matters are dealt with by a number of laws, regulations and policies such as the Privacy Act, 1988 (including the National Privacy Principles);
 
 The type of information we collect can include: name, address, telephone numbers, email address, age, sex and marital status.
 
@@ -16,7 +14,7 @@ We may contact our customers to voluntarily respond to questionnaires or surveys
 
 We collect personal information primarily from the each customer directly.  However, we may also obtain information about customers and our customers' customers from other sources, including public records, credit providers and credit reporting agencies.
 
-**Disclosure of Personal Information**
+####  **Disclosure of Personal Information**
 
 We may disclose personal information for the purpose of providing services to customers.  However, we will not provide personal information to any third party for use in marketing activities.
 
@@ -24,11 +22,11 @@ We may disclose information to credit reporting agencies and courts, tribunals, 
 
 We may provide information to courts, tribunals, regulatory authorities, and law enforcement officers as required by law.
 
-**Storage of Personal Information**
+####  **Storage of Personal Information**
 
 We store personal information in client and administrative files both in material and electronic form at our premises or at secure archive storage facilities.  We take steps to ensure that such information is secure through the use of pass words and locks.
 
-**Up-dating and checking accuracy of Personal Information**
+####  **Up-dating and checking accuracy of Personal Information**
 
 We rely primarily upon customers advising us when personal information changes.
 
