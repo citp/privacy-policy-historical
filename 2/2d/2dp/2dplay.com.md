@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2dplay.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010093642id_/http%3A//dynamic.2dplay.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2dplay.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515005100id_/http%3A//dynamic.2dplay.com/privacy.php) for the most accurate reproduction.*
 
 # Play Games Online at 2DPlay for Free - Privacy Policy & Terms
 
