@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the koozai.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231015422id_/http%3A//www.koozai.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the koozai.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514073801id_/http%3A//www.koozai.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy
 
@@ -8,15 +8,15 @@ The following website has been provided for information pertaining to Koozai and
 
 ## What information do we collect?
 
-We have several services that require the supply of personal information. For example, when contacting us, we will ask for contact details such as your name, email address and telephone number. When registering for our monthly newsletter, we will require personal information including your name and email address. 
+We have several services that require the supply of personal information. For example, when contacting us, we will ask for contact details such as your name, email address and telephone number. When registering for our monthly newsletter, we will require personal information including your name and email address.
 
 ## What do we do with the information we gather?
 
-All of the information collected from the website is retained by Koozai. We do not divulge any information to third parties outside of the company without prior consent from the website visitor – unless it is necessary to provide a requested service such as newsletters. 
+All of the information collected from the website is retained by Koozai. We do not divulge any information to third parties outside of the company without prior consent from the website visitor – unless it is necessary to provide a requested service such as newsletters.
 
 ## Securing Your Data
 
-Koozai are committed to ensuring that your personal information is secure. We follow strict policies and adhere to high standards of security when gathering personal information. Various firewall applications have been installed on our website to protect your personal information from being stolen, destroyed or divulged to third parties, unless you have given us permission for the latter. Your personal details are stored at our restricted offices which have no unauthorised access. 
+Koozai are committed to ensuring that your personal information is secure. We follow strict policies and adhere to high standards of security when gathering personal information. Various firewall applications have been installed on our website to protect your personal information from being stolen, destroyed or divulged to third parties, unless you have given us permission for the latter. Your personal details are stored at our restricted offices which have no unauthorised access.
 
 ## What we collect?
 
@@ -32,7 +32,7 @@ Through the use of contact forms, call back requests and newsletter sign-ups, we
 
 ## What do we do with the information?
 
-In order to understand your needs and provide you with a better service we will require the aforementioned information. We may use the information for the following reasons: 
+In order to understand your needs and provide you with a better service we will require the aforementioned information. We may use the information for the following reasons:
 
   * internal record keeping
   * the improvement of our products and services
@@ -41,37 +41,33 @@ In order to understand your needs and provide you with a better service we will 
 
 
 
-## How do we use cookies? 
+## How do we use cookies?
 
 Cookies are files which can be placed onto your computer’s hard drive, once permission has been given. There are numerous benefits to having cookies placed on your hard drive. If you have accepted, cookies are used to identify when you visit a particular site, as well as analyse web traffic. Cookies also facilitate a more personal web experience, allowing web applications to gather information about your personal preferences, and respond to you as an individual.
 
 Please visit: [http://www.aboutcookies.org](http://www.aboutcookies.org/) for more information on cookies.
 
-At Koozai, traffic log cookies are used to identify the pages that are being used. From the data provided by these cookies, we can analyse web page traffic and tailor our website to our customer’s needs. This information is only used for the purpose of statistical analysis. 
+At Koozai, traffic log cookies are used to identify the pages that are being used. From the data provided by these cookies, we can analyse web page traffic and tailor our website to our customer’s needs. This information is only used for the purpose of statistical analysis.
 
-You have the choice of whether or not to accept cookies. For your information, the majority of web browsers accept cookies. You can decline cookies within your web browser settings if necessary. However, doing so will not give you full functionality of the website. If you accept cookies, we are able to monitor which pages our visitors find useful. This provides us information to be used for a better user experience. We do not have access to your computer or any other information about you through the use of cookies. 
+You have the choice of whether or not to accept cookies through the majority of web browsers. You can decline cookies within your web browser settings if necessary. However, doing so will not give you full functionality of the website. If you accept cookies, we are able to monitor which pages our visitors find useful. This provides us information to be used for a better user experience. We do not have access to your computer or any other information about you through the use of cookies.
 
 ## Cookies
 
-This website uses the following cookies: 
+This website uses the following cookies:
 
-**Google Analytics** : This cookie allows us to see information on user website activities including, but not limited to page views, source and time spent on website. The information is depersonalised and is displayed as numbers, meaning it cannot be tracked back to individuals. This will help to protect your privacy. Using Google Analytics we can see what content is popular on our website, and strive to give you more of the things you enjoy reading and watching. 
+**Google Analytics** : This cookie allows us to see information on user website activities including, but not limited to page views, source and time spent on website. The information is depersonalised and is displayed as numbers, meaning it cannot be tracked back to individuals. This will help to protect your privacy. Using Google Analytics we can see what content is popular on our website, and strive to give you more of the things you enjoy reading and watching.
 
-**Infinity Call Tracking** : This is used to set dynamic phone numbers which help us identify how you found the Koozai website when you call us. This allows us to identify the source that you used to find the Koozai website and helps us control our advertising methods in the future. 
+**Infinity Call Tracking** : This is used to set dynamic phone numbers which help us identify how you found the Koozai website when you call us. This allows us to identify the source that you used to find the Koozai website and helps us control our advertising methods in the future.
 
-**Google AdWords** : Using Google AdWords code we are able to see which pages helped lead to contact form submissions. This allows us to make better use of our paid search budget. 
+**Google AdWords** : Using Google AdWords code we are able to see which pages helped lead to contact form submissions. This allows us to make better use of our paid search budget.
 
-**DoubleClick** : We use remarketing codes to log when users view specific pages, allowing us to provide targeted advertising in the future. 
+**DoubleClick** : We use remarketing codes to log when users view specific pages, allowing us to provide targeted advertising in the future.
 
-**Pardot** : The Pardot cookie allows us to add information to our database when you complete a form on the Koozai website. It makes tracking our site visitors easier and allows us to see the content that each person enjoys reading, and how they navigate through the site. 
+**Tynt Insight** : Whenever content is copied from the Koozai website, Tynt allows us to see which content was taken.
 
-**Tynt Insight** : Whenever content is copied from the Koozai website, Tynt allows us to see which content was taken. 
+**Website Optimiser** : Our website optimiser uses cookies to remember the website for which you searched. This helps it generate the required results.
 
-**Website Optimiser** : Our website optimiser uses cookies to remember the website for which you searched. This helps it generate the required results. 
-
-**civicAllowCookies** : This code remembers if you would like to see cookies on the Koozai website, based on your choices via the cookie control pop-up. 
-
-Please [see this guide](http://www.koozai.com/browser-settings/) for details on how to turn off cookies. 
+Please [see this guide](http://www.koozai.com/browser-settings/) for details on how to turn off cookies.
 
 ## Social sharing cookies
 
@@ -79,7 +75,7 @@ On our blog we use social sharing buttons for services including, but not limite
 
 ## Email codes
 
-If you have opted in to receive our newsletters, then this may include tracking codes that help us understand who, as well as how many people have opened or clicked on each email. This data helps us to create better emails in the future, and provide you with a better service. This data is stored on the servers of our email partners and covered under their security measures. 
+If you have opted in to receive our newsletters, then this may include tracking codes that help us understand who, as well as how many people have opened or clicked on each email. This data helps us to create better emails in the future, and provide you with a better service. This data is stored on the servers of our email partners and covered under their security measures.
 
 ## Links to other websites
 
@@ -101,7 +97,7 @@ You may choose to restrict the collection or use of your personal information in
 
 
 
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties that may be relevant to your indicated needs. 
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties that may be relevant to your indicated needs.
 
 You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held then please write to us.
 
@@ -118,6 +114,6 @@ Koozai
 Park Gate  
 Southampton  
 Hampshire  
-SO31 1BB 
+SO31 1BB
 
-+44 (0) 845 453 1234 
++44 (0) 845 453 1234
