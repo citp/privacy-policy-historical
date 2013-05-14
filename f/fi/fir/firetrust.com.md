@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firetrust.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021172335id_/http%3A//www.firetrust.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firetrust.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514204926id_/http%3A//www.firetrust.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Firetrust
 
@@ -29,6 +29,20 @@ The Firetrust website may contain links to other websites. Please note that when
 ## Cookies
 
 "Cookies" are small pieces of information that your browser stores on your computer on behalf of a website that you have visited. Session (temporary) cookies may be used from time-to-time to enhance navigation within the website. These cookies are destroyed when the user closes their web browser. 
+
+## Your MailWasher ID and related information
+
+The Firetrust web site allows you to create a “MailWasher ID” based on your personal information. This is required when synchronizing account information or using the mobile versions. 
+
+## Data Security
+
+Firetrust is committed to protecting the security of your information and takes reasonable precautions to protect it. However, Internet data transmissions, whether wired or wireless, cannot be guaranteed to be 100% secure and as a result we cannot ensure the security of information you transmit to us; accordingly, you acknowledge that you do so at your own risk. Once we receive your data transmission, we make all commercially reasonable efforts to ensure its security on our systems:
+
+Your MailWasher ID and any account information and content is protected by encryption and only you have access to it; Your personal information and data stored in our systems is protected by various physical, electronic and procedural safeguards. It is housed in a secure facility and physical and network access to this facility is restricted to select trained staff. Firetrust regularly evaluates its technologies, facilities, procedures and potential risks to maintain the security and privacy of our users’ data. 
+
+Firetrust employees have no way to monitor or view your personal information or content stored in the Firetrust service as all content is encrypted. 
+
+If Firetrust learns of a security system breach we may attempt to notify you and provide information on protective steps, if available, through the e-mail address that you supplied during registration or posting a notice on our web site. 
 
 ## Log files
 
