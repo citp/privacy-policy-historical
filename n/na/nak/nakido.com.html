@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the nakido.com privacy policy that was archived on 2012-09-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120910185718id_/http%3A//www.nakido.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nakido.com privacy policy that was archived on 2013-05-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130514024621id_/http%3A//www.nakido.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <title>Privacy Policy / Nakido</title>
@@ -23,18 +23,19 @@ languages['STR_DOWNLOAD_FILE_NAKIDO_FLAG']='<a href="/flag">Nakido Flag</a> help
 languages['STR_DOWNLOAD_MANAGER_NAKIDO_FLAG']='Please install <a href="/flag">Nakido Flag</a> to start download.';
 languages['STR_YES']='Yes';
 languages['STR_NO']='No';
-languages['STR_NO_NAKIDO_FLAG_DETECTED']='Nakido Flag not detected';
 languages['STR_QUEUEING']='Queueing';
 languages['STR_WAIT']='Please wait';
 languages['STR_COMPLETED']='Completed';
 languages['STR_SAVE']='Save';
 languages['STR_SAVING']='Saving';
 languages['STR_DOWNLOAD_GREETING_1']='Thank you for downloading with us!';
-languages['STR_NO_NAKIDO_FLAG_DETECTED']='Nakido Flag not detected';
 languages['STR_UPLOAD_COMPLETED_SUCCESSFUL']='Upload is completed and saved in <a href="/files">My Files</a>.';
 languages['STR_UPLOAD_MANAGER_REUPLOAD']='Please re-upload the file';
 languages['STR_CONNECTING']='Connecting';
 languages['STR_FILE_IS_UPLOADING']='Uploading, please wait...';
+languages['STR_DOWNLOAD_NOW']='Download Now';
+languages['STR_DOWNLOADING']='Downloading';
+languages['STR_REMOVE']='&times;&nbsp;Remove';
 
 function GetString(id)
 {
@@ -48,7 +49,7 @@ function changeLanguage(lang)
     set_cookie('lang', lang, 31536000);
     window.location.reload();
 }
-var vip=false;var DLMGR_CONCURRENT=3;var NAKIDO_EXPIRED=30001;var TIMED_NAKIDO_STATUS=5000;var NAKIDO_FLAG_VERSION_REQ=300;var NAKIDO_EXPIRED=30001;var DOWNLOADS_TIME=60000;var UPLOADS_TIME=60000;</script><script src="http://cdn.nakido.com/1.js" type="text/javascript"></script><script type="text/javascript">
+var vip=false;var DLMGR_CONCURRENT=1;var NAKIDO_EXPIRED=30001;var TIMED_NAKIDO_STATUS=5000;var NAKIDO_FLAG_VERSION_REQ=300;var NAKIDO_EXPIRED=30001;var DOWNLOADS_TIME=60000;var UPLOADS_TIME=60000;</script><script src="http://cdn.nakido.com/1.js" type="text/javascript"></script><script type="text/javascript">
 vip = false;
 function InitFlag() {}
 
@@ -80,13 +81,13 @@ function doload()
   _gaq.push(['_setAccount', 'UA-1603265-1']);
   _gaq.push(['_trackPageview']);
   _gaq.push(['_trackPageLoadTime']);
+  setTimeout("_gaq.push(['_trackEvent', '15_seconds', 'read'])",15000);
 
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
-
 </script>
 </head>
 
@@ -95,7 +96,7 @@ function doload()
 <div id="hdr_wpr">
 <div id="hdr_bg_wpr">
 <div id="hdr_menu">
-<div id="mdl_left"><a href="http://www.nakido.com" title="Nakido" accesskey="1" id="logo"></a><span id="slogan">File Sharing Made Easy!</span> <a href="/languages" class="language_select_open chevron" title="Show more languages" id="language_select">English (US)&nbsp;»</a>
+<div id="mdl_left"><a href="http://www.nakido.com" title="Nakido" accesskey="1" id="logo"></a><span id="slogan">Digital Time Capsule</span> <a href="/languages" class="language_select_open chevron" title="Show more languages" id="language_select">English (US)&nbsp;»</a>
 
 </div>
 <div id="mdl_right">
@@ -127,14 +128,9 @@ function doload()
 <div id="tab_btn_wpr">
 <div id="tab_menu">
 <ul id="cntr">
-<li><a href="/" title="Home">Home</a></li>
-<li><a href="/files">My Files</a></li>
-
-<li><a href="/dl"><span>0</span> Downloading</a></li>
-<li><a href="/ul"><span>0</span> Uploading</a></li>
 <li><a href="/c">C:\</a></li>
-</ul>
-            <div class="search-box">
+<li><a href="/dl"><span>0</span> Downloading</a></li>
+</ul><div class="search-box">
 <form id="sq" name="sq" method="get" action="/search">
 <input name="q" id="q" type="text" size="35" class="search-field" value="" maxlength="128">
 <input type="submit" value="" class="search-go">
@@ -152,7 +148,7 @@ function doload()
 <li class="monitor_left_edge"></li>
 <li id="ndetect_msg" class="detecting">Nakido Flag Detected</li>
 <li class="tick_cross"><span id="ndetect_img" class="img_ctnr img_detecting" style="width:46px; height:20px;"></span></li>
-<li id="ndetect_status" class="status_detecting">Version: <a href="javascript:void(0)" title="Your version of Nakido Flag."><span id="nakido_version">3.20</span></a><span style="color:#CCC;">/</span><a href="javascript:void(0)" title="Latest version of Nakido Flag.">3.20</a>&nbsp;&nbsp;
+<li id="ndetect_status" class="status_detecting">Version: <a href="javascript:void(0)" title="Your version of Nakido Flag."><span id="nakido_version">3.27</span></a><span style="color:#CCC;">/</span><a href="javascript:void(0)" title="Latest version of Nakido Flag.">3.27</a>&nbsp;&nbsp;
 Connected: <a href="javascript:void(0)" title="Check your internet connection or firewall if not connected."><span id="nakidoed">Yes</span></a><br>
 Uptime: <a href="javascript:void(0)" title="Current uptime of Nakido Flag."><span id="nakido_uptime">-</span></a></li>
 <li class="monitor_right_edge"></li>
@@ -220,7 +216,7 @@ Uptime: <a href="javascript:void(0)" title="Current uptime of Nakido Flag."><spa
     <br>
     To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you profile access or making corrections. You are responsible for maintaining the secrecy of your unique password and account information at all times.<br>
     <br>
-    Please <a href="http://www.nakido.com/contact">contact Nakido</a> with any questions or comments about this Privacy Policy, your personal information, your consent, or your opt-in or opt-out.<br>
+    Please contact <a href="http://www.nakido.com/contact">Nakido</a> with any questions or comments about this Privacy Policy, your personal information, your consent, or your opt-in or opt-out.<br>
     <br>
     </p>
     <p><span class="nm_title_black">Third-party Advertisers, Links to Other Sites</span><br>
@@ -263,7 +259,7 @@ Uptime: <a href="javascript:void(0)" title="Current uptime of Nakido Flag."><spa
     </p>
 </div></div><div id="ftr_index_wpr" class="round-bottom"><div class="hr"></div>
 <div id="ftr_cnt_wpr">
-Nakido © 2012 <span style="color:#CCCCCC;">|</span> <a href="/about">About Us</a> | <a href="/contact">Contact Us</a> | <a href="/tour">Take a Tour</a> | <a href="/ts">Terms of Service</a> | <a href="/privacy">Privacy Policy</a> | <a href="/eula">End User License Agreement</a> | <a href="/DMCA">DMCA</a>
+Nakido © 2013 <span style="color:#CCCCCC;">|</span> <a href="/about">About Us</a> | <a href="/contact">Contact Us</a> | <a href="/ts">Terms of Service</a> | <a href="/privacy">Privacy Policy</a> | <a href="/eula">End User License Agreement</a> | <a href="/DMCA">DMCA</a>
 </div>
 </div><script type="text/javascript">
     DomReady.ready(function() {getScript('http://cdn.nakido.com/2.js',function(){$('#q').watermark('Search');
@@ -305,10 +301,6 @@ $("body").css( { "background-color" : "#003466", "background-image" : "url('http
                 $("fieldset#login_menu").hide();
             }
         });
-GetNakidoStatus();});});
-</script>
-
-<!--N 9/11/2012 2:57:18 AM-->
-
-
+GetNakidoStatus();});});</script>
+<!--X1 5/14/2013 10:46:15 AM 2.0952 -->
 </div></body></html>
