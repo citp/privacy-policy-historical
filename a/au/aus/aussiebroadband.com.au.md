@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the aussiebroadband.com.au privacy policy that was archived on 2012-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120911142208id_/http%3A//aussiebroadband.com.au/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aussiebroadband.com.au privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514064035id_/http%3A//aussiebroadband.com.au/about/privacy-policy) for the most accurate reproduction.*
 
-# Aussie Broadband - About - Privacy Policy
+# Aussie Broadband
 
-## About Us Privacy Policy
+## Privacy Policy
 
 ##### Scope: 
 
@@ -19,7 +19,7 @@ If you choose to apply for a service using this website than your personal infor
 
 ##### Uses:
 
-We only use your personal information for the purposes for which you give it to us and for related, internal management purposes.
+We only use your personal information for the purposes for which you give it to us and for related, internal management purposes. 
 
 We do not give information about you to government agencies, organisations or anyone else unless one of the following applies: 
 
@@ -31,13 +31,13 @@ We do not give information about you to government agencies, organisations or an
 
 
 
-We analyse non-identifiable website traffic data to improve our services.
+We analyse non-identifiable website traffic data to improve our services. 
 
 ##### Your choices:
 
-You may access personal information that we hold about you or you can ask us to correct personal information we hold about you by phoning Aussie Broadband on 1300 880 905.
+You may access personal information that we hold about you or you can ask us to correct personal information we hold about you by phoning Aussie Broadband on 1300 880 905. 
 
-If you are on one or more of our email lists you may opt out of further contact from us by putting unsubscribe in the subject line.
+If you are on one or more of our email lists you may opt out of further contact from us by putting unsubscribe in the subject line. 
 
 ##### Important information:
 
@@ -45,7 +45,7 @@ Our company is bound by the Information Privacy Principles of the Privacy Act 19
 
 ##### How to contact us:
 
-For further information contact us at [management@aussiebroadband.com.au](mailto:management@aussiebroadband.com.au) or alternatively you can write to us at:
+For further information contact us at [management@aussiebroadband.com.au](mailto:management@aussiebroadband.com.au) or alternatively you can write to us at: 
 
 Privacy  
 Aussie Broadband Pty Ltd  
