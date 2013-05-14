@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freebratzdressupgames.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920002745id_/http%3A//www.freebratzdressupgames.com/page/3.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freebratzdressupgames.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514054013id_/http%3A//www.freebratzdressupgames.com/page/3.html) for the most accurate reproduction.*
 
-# Bratz - Bratz Games - Free Bratz Dress Up Games - Cooking Games - Online Bratz - Privacy Policy
+# Bratz Games | Free Bratz Dress Up Games | Online Bratz Games - Privacy Policy
 
 Privacy Policy for http://www.freebratzdressupgames.com 
 
