@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forexambush.com privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110152309id_/http%3A//www.forexambush.com/sa/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forexambush.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514034513id_/http%3A//www.forexambush.com/sa/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Forex Ambush 2.0™ - 99.9% Accurate Artificial Intelligence Forex Trading Signals
 
