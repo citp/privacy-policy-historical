@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the translatorsbase.com privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107193124id_/http%3A//www.translatorsbase.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the translatorsbase.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514143143id_/http%3A//translatorsbase.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
