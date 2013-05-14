@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the serif.com privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028150738id_/http%3A//www.serif.com/Company/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the serif.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514134946id_/http%3A//www.serif.com/Company/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy – Serif
 
@@ -78,7 +78,7 @@ The Internet is a global environment. Using the Internet to collect and process 
 
 Monitoring or recording of your calls, emails, and other communications may take place in accordance with UK law, and in particular for business purposes, such as for quality control and training, and in order to prevent or detect crime. Please visit the following websites for further information:
 
-  * [dataprotection.gov.uk](http://www.dataprotection.gov.uk/)
+  * [ico.gov.uk](http://www.ico.gov.uk/)
   * [dti.gov.uk](http://www.dti.gov.uk/)
 
 
@@ -106,6 +106,7 @@ These cookies allow you to shop online by remembering your shopping basket conte
   * Serif_International
   * Serif_MCCode
   * Serif_UID
+  * Serif_AcceptPhotoPlus
 
 
 
