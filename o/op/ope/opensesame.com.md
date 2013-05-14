@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the opensesame.com privacy policy that was archived on 2012-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120915135926id_/https%3A//www.opensesame.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opensesame.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514075157id_/https%3A//www.opensesame.com/privacy) for the most accurate reproduction.*
 
-# OpenSesame describes our commitment to protecting your privacy. Online | OpenSesame
+# OpenSesame Privacy Policy Online | OpenSesame
 
 This Privacy Policy (this “Policy”) describes how OpenSesame Inc. (“OpenSesame”), treats information collected from you at the OpenSesame web site (http://www.opensesame.com) (the “Site”) and how it uses and discloses such information. By accessing the Site, you consent to the collection, use and disclosure of your information in accordance with the terms of this Policy.  If you do not wish your information to be collected, used or disclosed in the manners described in this Policy, please do not access the Site or make use of OpenSesame’s training services and related goods. 
 
@@ -45,6 +45,8 @@ OpenSesame takes commercially-reasonable precautions to protect your information
 You may use the contact information provided below to request a change in your Personal Information (such as address correction) or to have your Personal Information removed from OpenSesame’s database.  OpenSesame will correct, update, or remove your Personal Information according to your request.  You may also use the contact information below if you have any questions, comments or complaints about this Policy or your dealings with the Site. OpenSesame info@OpenSesame.com 2828 SW Corbett Ave., Suite 135, Portland, OR 97201 United States of America (503) 808-1268 
 
 ## U.S. - EU Safe Harbor Privacy Statement
+
+OpenSesame complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. OpenSesame has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view OpenSesame’s certification, please visit http://www.export.gov/safeharbor/ 
 
 In compliance with the US-EU and US-Swiss Safe Harbor Principles, OpenSesame commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact OpenSesame at info@OpenSesame.com 2828 SW Corbett Ave., Suite 135, Portland, OR 97201 United States of America (503) 808-1268. 
 
