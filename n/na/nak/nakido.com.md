@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nakido.com privacy policy that was archived on 2012-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120910185718id_/http%3A//www.nakido.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nakido.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514024621id_/http%3A//www.nakido.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy / Nakido
 
@@ -56,7 +56,7 @@ You may, of course, decline to submit personally identifiable information throug
 
 To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you profile access or making corrections. You are responsible for maintaining the secrecy of your unique password and account information at all times.
 
-Please [contact Nakido](http://www.nakido.com/contact) with any questions or comments about this Privacy Policy, your personal information, your consent, or your opt-in or opt-out.
+Please contact [Nakido](http://www.nakido.com/contact) with any questions or comments about this Privacy Policy, your personal information, your consent, or your opt-in or opt-out.
 
 Third-party Advertisers, Links to Other Sites  
 Nakido allows other companies, called third-party ad servers or ad networks, to serve advertisements within the Nakido Sites. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on the Nakido Sites. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or Web Beacons) to measure the effectiveness of their advertisements and to personalize the advertising content you see.
