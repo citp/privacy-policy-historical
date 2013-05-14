@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the clubtexting.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106101519id_/http%3A//www.clubtexting.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clubtexting.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514232023id_/http%3A//www.clubtexting.com/privacy_policy.html) for the most accurate reproduction.*
 
-# Club Texting Privacy Policy | Club Texting
+# About Club Texting | Club Texting
 
 Thank you for visiting our site at [www.clubtexting.com](http://www.clubtexting.com/) (" _Website_ ").  This privacy policy covers the websites www.clubtexting.com. Use and access of this Website is subject to the terms and conditions as set out in our [Terms of Service](http://www.clubtexting.com/tou.html) as well as our Privacy Policy set forth below.
 
@@ -26,11 +26,13 @@ We also use third party service providers such as an email service provider to s
 In addition, we may disclose personally identifiable information collected about you in the following instances:  
 
 
-> **A. Legal Action:** We may disclose information about our users, including personally identifiable information; (i) when requested by governmental or quasi-governmental authorities conducting an investigation; (ii) if required to do so by subpoena, court order or legal process; (iii) to verify or enforce compliance with the policies governing our Website and applicable laws; or (iv) to protect against misuse or unauthorized use of our Website. We also may disclose user information whenever we believe disclosure is necessary to limit our legal liability; to protect or defend our rights or property; or protect the safety, rights, or property of our users.
-> 
-> **B. Change in Control:** We may sell, transfer, or otherwise disclose user information, including personally identifiable information, to a successor entity in connection with a corporate merger, consolidation, the sale of substantially all assets, or other corporate change respecting Club Texting, the Website and/or the services offered hereby.  
->  Except as stated in this Privacy Policy, or as otherwise stated at the time personally-identifiable information is gathered, Club Texting will not provide personally-identifiable information to third parties who are not under the direction and control of Club Texting.   
-> 
+  * **A. Legal Action:** We may disclose information about our users, including personally identifiable information; (i) when requested by governmental or quasi-governmental authorities conducting an investigation; (ii) if required to do so by subpoena, court order or legal process; (iii) to verify or enforce compliance with the policies governing our Website and applicable laws; or (iv) to protect against misuse or unauthorized use of our Website. We also may disclose user information whenever we believe disclosure is necessary to limit our legal liability; to protect or defend our rights or property; or protect the safety, rights, or property of our users.
+  * **B. Change in Control:** We may sell, transfer, or otherwise disclose user information, including personally identifiable information, to a successor entity in connection with a corporate merger, consolidation, the sale of substantially all assets, or other corporate change respecting Club Texting, the Website and/or the services offered hereby.
+
+Except as stated in this Privacy Policy, or as otherwise stated at the time personally-identifiable information is gathered, Club Texting will not provide personally-identifiable information to third parties who are not under the direction and control of Club Texting. 
+
+
+
 
 **3\. Access to Personal Information**  
 If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete or deactivate it by making the change on our member information page or by emailing our Customer Support at [info@clubtexting.com](mailto:info@clubtexting.com). We will respond to your request to access within 30 days.
@@ -89,10 +91,6 @@ By accessing the Website, you signify your assent to the Club Texting Privacy Po
 We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
 **Questions/Concerns?**   
-If you have any questions, comments, or concerns regarding our Privacy Policy, please [contact us](http://www.clubtexting.com/contact.html). You may also contact us via postal mail at 244 5th Avenue, Suite A224, NY, NY 10001.
+If you have any questions, comments, or concerns regarding our Privacy Policy, please [contact us](http://www.clubtexting.com/contact.html). You may also contact us via postal mail at PO Box 1973, Santa Monica, CA 90406.
 
-Last updated March 2011. 
-
-## I am an inside sub header
-
-And I am more text.
+Last updated December 2012. 
