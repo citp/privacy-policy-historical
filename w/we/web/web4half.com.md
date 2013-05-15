@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the web4half.com privacy policy that was archived on 2012-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120706053956id_/http%3A//web4half.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the web4half.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515164417id_/http%3A//www.web4half.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Custom Website Design - Ecommerce Web Site Development - Cheap Web Sites, Cheap Website Building
 
