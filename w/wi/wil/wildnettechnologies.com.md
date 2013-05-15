@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the wildnettechnologies.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213182705id_/http%3A//www.wildnettechnologies.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wildnettechnologies.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515152952id_/http%3A//www.wildnettechnologies.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Wildnet Privacy Policy: SEO Privacy Policy, Web Design and Development Privacy Policy
+
+ Great service, professional SEO using white hat methods. What more can you ask for! The team worked hard to get excellent results. They definitely were the right choice for SEO work.
+
+\-- Connell
+
+** Customer Rating : ** ** 9.6/ 10 **   ** Based on 168 ratings **
 
 ## Website privacy
 
@@ -70,6 +76,6 @@ If you believe that any information we are holding on you is incorrect or incomp
 If there are any questions regarding this privacy policy you may contact us using the information below:
 
 **Wildnet Technologies** ,  
-F-314, sector 63, Noida, UP, India  
+A-30, sector 63, Noida, UP, India  
 +91-9818883238  
-leads@wildnettechnologies.com
+sales@wildnettechnologies.com
