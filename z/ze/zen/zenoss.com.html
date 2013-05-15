@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the zenoss.com privacy policy that was archived on 2012-10-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121005132840id_/http%3A//www.zenoss.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the zenoss.com privacy policy that was archived on 2013-05-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130515120359id_/http%3A//www.zenoss.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
         			<title>Privacy Policy</title>
@@ -54,116 +54,116 @@
             });
         </script>
         
-<!-- GOOGLE ANALYTICS CODE, MUST LOAD ON EVERY PAGE: -->
-<script type="text/javascript">
-
-    // Redir for pardot
-  function urlParam(name) {
-    var results = new RegExp('[\\?&]' + name + '=([^&#]*)').exec(window.location.href);
-    results = results ? results[1] : null; 
-    return results;
-  }
-  function redirect() {
-    var redir = urlParam('redir');
-    if (redir) {
-      window.location = redir.search(/^(http|https):\/\//i) > -1 ? redir : 'http://'+redir;
-    }
-  }
-  redirect();
-  
-  var _gaq = _gaq || [];
-    
-  
-    _gaq.push(
-    ['_setAccount', 'UA-70208-7'],
-    ['_setDomainName', 'none'],
-    ['_setAllowLinker', true],
-    ['_trackPageview'],
-    ['b._setAccount', 'UA-70208-14'],
-    ['b._setDomainName', 'zenoss.com'],
-    ['b._trackPageview']
-  );
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-  
-// Dependacies: jQuery, ga.js (Async)
-
-(function($){
-
-    $(window).load(function() {
-                        
-        if (this._gat) {
-            
-            // Set trackers
-            tks = this._gat._getTrackers();
-            
-            // Remap for mutliple trackers
-            ga_track = function(p) {
-                for (i=0; i < tks.length; i++) {
-                    var n = tks[i]._getName() !== "" ? tks[i]._getName()+"." : "";
-                    a = [];
-                    for (i2=0; i2 < p.length; i2++) {
-                        var b = i2===0 ? n+p[i2] : p[i2];
-                        a.push(b);
-                    }
-                    _gaq.push(a);
-                }
-            };
-            
-            // Set Downloads
-            $('a').filter(function() {
-                return this.href.match(/.*\.(zip|mp3|mpeg|pdf|docx*|pptx*|xlsx*|jpeg|png|gif|tiff*)/);
-            }).click(function(e) {
-                ga_track(['_trackEvent', 'download', 'click', this.href]);
-            });
-                          
-            // Set Mailto's
-            $('a[href^="mailto"]').click(function(e) {
-                ga_track(['_trackSocial', 'email', 'send', this.href]);
-             });
-                            
-            // Set Outbound (doesn't include sub domains)
-            var loc = location.host.split('.');
-            while (loc.length > 2) { loc.shift(); }
-            loc = loc.join('.');
-            // exception urls
-            var localURLs = [
-                              loc, // domain root
-                              'zenoss.org', // outbound exception
-                              'zenoss.com' // outbound exception
-                            ];
-            $('a[href^="http"]').filter(function() {
-                var flag;
-                for (var i = 0; i < localURLs.length; i++) {
-                    if (this.href.indexOf(localURLs[i]) != -1) flag = true; // found exception
-                }
-                if (!flag) return this.href;
-            }).click(function(e) {
-                ga_track(['_trackEvent', 'outbound', 'click', this.href]);
-            });
-            
-        } else {
-            
-            try {
-                console.log("no GA tracker set");
-            }
-            catch (e) {}
-            finally {
-                return;
-            }
-        }
-                            
-    });
-                
-})(jQuery);
-
-</script>
-<!-- END GOOGLE ANALYTICS CODE -->
-    <script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
+	<!-- GOOGLE ANALYTICS CODE, MUST LOAD ON EVERY PAGE: -->
+	<script type="text/javascript">
+	
+	  	  // Redir for pardot
+	  function urlParam(name) {
+	    var results = new RegExp('[\\?&]' + name + '=([^&#]*)').exec(window.location.href);
+	    results = results ? results[1] : null; 
+	    return results;
+	  }
+	  function redirect() {
+	    var redir = urlParam('redir');
+	    if (redir) {
+	      window.location = redir.search(/^(http|https):\/\//i) > -1 ? redir : 'http://'+redir;
+	    }
+	  }
+	  redirect();
+	  	
+	  var _gaq = _gaq || [];
+	  	  
+	  
+	  	  _gaq.push(
+	    ['_setAccount', 'UA-70208-7'],
+	    ['_setDomainName', 'none'],
+	    ['_setAllowLinker', true],
+	    ['_trackPageview'],
+	    ['b._setAccount', 'UA-70208-14'],
+	    ['b._setDomainName', 'zenoss.com'],
+	    ['b._trackPageview']
+	  );
+	
+	  (function() {
+	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+	  
+	// Dependacies: jQuery, ga.js (Async)
+	
+	(function($){
+	
+	    $(window).load(function() {
+	                        
+	        if (this._gat) {
+	            
+	            // Set trackers
+	            tks = this._gat._getTrackers();
+	            
+	            // Remap for mutliple trackers
+	            ga_track = function(p) {
+	                for (i=0; i < tks.length; i++) {
+	                    var n = tks[i]._getName() !== "" ? tks[i]._getName()+"." : "";
+	                    a = [];
+	                    for (i2=0; i2 < p.length; i2++) {
+	                        var b = i2===0 ? n+p[i2] : p[i2];
+	                        a.push(b);
+	                    }
+	                    _gaq.push(a);
+	                }
+	            };
+	            
+	            // Set Downloads
+	            $('a').filter(function() {
+	                return this.href.match(/.*\.(zip|mp3|mpeg|pdf|docx*|pptx*|xlsx*|jpeg|png|gif|tiff*)/);
+	            }).click(function(e) {
+	                ga_track(['_trackEvent', 'download', 'click', this.href]);
+	            });
+	                          
+	            // Set Mailto's
+	            $('a[href^="mailto"]').click(function(e) {
+	                ga_track(['_trackSocial', 'email', 'send', this.href]);
+	             });
+	                            
+	            // Set Outbound (doesn't include sub domains)
+	            var loc = location.host.split('.');
+	            while (loc.length > 2) { loc.shift(); }
+	            loc = loc.join('.');
+	            // exception urls
+	            var localURLs = [
+	                              loc, // domain root
+	                              'zenoss.org', // outbound exception
+	                              'zenoss.com' // outbound exception
+	                            ];
+	            $('a[href^="http"]').filter(function() {
+	                var flag;
+	                for (var i = 0; i < localURLs.length; i++) {
+	                    if (this.href.indexOf(localURLs[i]) != -1) flag = true; // found exception
+	                }
+	                if (!flag) return this.href;
+	            }).click(function(e) {
+	                ga_track(['_trackEvent', 'outbound', 'click', this.href]);
+	            });
+	            
+	        } else {
+	            
+	            try {
+	                console.log("no GA tracker set");
+	            }
+	            catch (e) {}
+	            finally {
+	                return;
+	            }
+	        }
+	                            
+	    });
+	                
+	})(jQuery);
+	
+	</script>
+	<!-- END GOOGLE ANALYTICS CODE -->
+	    <script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
     <body>
    
 		<script language="Javascript">var js="0.0";</script><script language="Javascript1.0">js="1.0";</script><script language="Javascript1.1">js="1.1";</script><script language="Javascript1.2">js="1.2";</script><script language="Javascript1.3">js="1.3";</script><script language="Javascript1.4">js="1.4";</script><script language="Javascript1.5">js="1.5";</script><script language="Javascript1.6">js="1.6";</script><script language="Javascript1.7">js="1.7";</script><script language="Javascript1.8">js="1.8";</script><script language="Javascript1.9">js="1.9";</script><script language="javascript1.1" type="text/javascript"> 
@@ -172,7 +172,7 @@ var bb=new Image();var _ti=910;var _q="";var na=(navigator.appName=="Netscape");
 function setonclicks(a,b){var i=0;var retval=true;while(document.links[i]!=a){i++;}if(b.li[i])retval=b.li[i].oldonclick();bye(a);return retval;}
 function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.links.length;lnks.li=new Array(sze);for (var i=0; i<sze; i++){if(document.links[i].onclick){lnks.li[i]=document.links[i];lnks.li[i].oldonclick=document.links[i].onclick;}eval("document.links[i].onclick=function(){return setonclicks(this,lnks);}");}}function bye(a){if(a.href.toLowerCase().indexOf('http')!=0)return true;if(getdomain(location)==getdomain(a))return true;if(a.href.toLowerCase().indexOf('http')!=0)return true;var _qc="http://s.clickability.com/s?19=912";_qc+="&6=900582152";_qc+="&7=582152";_qc+="&18="+encodeURIComponent(Math.random());_qc+="&100="+a.href;_qc+="&101="+encodeURIComponent(a.text);var cc=new Image();if(na){cc.src=_qc;pc(100);}else cc.src=_qc;return true;}function pc(a){d = new Date(); while (1){m =new Date(); df = m-d;if( df > a ) {break;}}}function getdomain(a){var i=a.host.indexOf(":");return (i>=0)?a.host.substring(0,i):a.host;}if(self['setupalready']){var dosetup = false;alert('There are two $imware.tracker calls on this page. Please alert Client Services');}else{var dosetup = true;var hasonload=false;}if(dosetup && ((window.screen)||((new Array()).toSource)||((new Array()).shift&&ns))&&(navigator.userAgent.indexOf('Mac')<0)){if(window.onload){oldonld=window.onload;hasonload=true;}window.onload=newonld;var setupalready = true;}//-->
 </script><noscript>
-<img width="1" height="1" src="http://s.clickability.com/s?19=990&14=0&6=900582152&7=582152&25=0&18=0.482945070219045">
+<img width="1" height="1" src="http://s.clickability.com/s?19=990&14=0&6=900582152&7=582152&25=0&18=0.8930050620884419">
 </noscript>
 
  
@@ -207,21 +207,25 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
           <h2>Unified Service Assurance for the Hybrid Datacenter</h2>
           <div class="boxes"> 
             <div class="box"> 
-              <h3>Zenoss Service Dynamics</h3>
+              <h3>Zenoss Service Dynamics<br>On-Premise</h3>
               <ul>
-		<li><a href="/solution/overview" title="Zenoss Service Dynamics Overview">Overview</a></li>
-		<li><a href="/solution/service_impact" title="Service Impact Management">Impact &amp; Event Management</a></li>
-                <li><a href="/solution/analytics_optimization" title="Analytics &amp; Optimization">Analytics &amp; Optimization</a></li>		
-		<li><a href="/solution/resource_management" title="Resource Management">Resource Management</a></li>
-              </ul>              
+                <li><a href="/solution/overview" title="Zenoss Service Dynamics Overview">Overview</a></li>
+                <li><a href="/solution/resource_management" title="Resource Management">Resource Management</a></li>
+                <li><a href="/solution/service_impact" title="Service Impact Management">Service Impact &amp; Event Management</a></li>
+                <li><a href="/solution/analytics_optimization" title="Analytics &amp; Optimization">Analytics &amp; Optimization</a></li>
+              </ul>
+              <h3>Zenoss as a Service</h3>
+              <ul>
+                <li><a href="/solution/zaas" title="Zenoss Service Dynamics Overview">Overview</a></li>
+              </ul>
             </div>
             <div class="box"> 
-              <h3>Monitor Hybrid IT</h3>
+              <h3>Popular Capabilities</h3>
               <ul>
                 <li><a href="/solution/cloud-monitoring">Cloud Monitoring</a></li>
                 <li><a href="/solution/vcloud-monitoring">vCloud Monitoring</a></li>
                 <li><a href="/solution/cisco-ucs-management">Cisco UCS Management</a></li>
-                <li><a href="/solution/flexpod-monitoring">NetApp FlexPod Monitoring</a></li>                
+                <li><a href="/solution/flexpod-monitoring">NetApp FlexPod Monitoring</a></li>
                 <li><a href="/solution/virtualization-monitoring">Virtualization Monitoring</a></li>
                 <li><a href="/solution/server-monitoring">Server Monitoring</a></li>
                 <li><a href="/solution/network-monitoring">Network Monitoring</a></li>
@@ -263,6 +267,8 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
                   <ul>
                     <li><a href="/support/training/admin_training">Administrator Training</a></li>
                     <li><a href="/support/training/advanced_training">Advanced Training</a></li>
+                    <li><a href="/support/training/analytics_training">Analytics Training</a></li>
+                    <li><a href="/support/training/zenpack_training">Developer Training</a></li>
                   </ul>
                 </li>
               </ul>
@@ -316,7 +322,7 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
               </ul>
             </div>
             <div class="box"> 
-              <h3>The Cloud Management Blog</h3>
+              <h3>The IT Operations Blog</h3>
               <div class="place"> 
                 <div class="text-box"> 
                   <p>Moving to the Cloud? Get insight and thought leadership from the experts.</p>
