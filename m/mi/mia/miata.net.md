@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the miata.net privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010082100id_/http%3A//miata.net/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miata.net privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515051637id_/http%3A//miata.net/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -22,7 +22,7 @@ Information may also be disclosed as a result of a court order or in response to
 
 We use third-party companies to serve ads and collect non-personally identifiable information (e.g., the pages you visit, and which links you click, which ads you see and click on, and the categories of search terms you enter) when you visit our web site. These companies may use the information outlined above (which does not include your name, address, email address or telephone number) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you. These companies often use a cookie or third party web beacon to collect this information. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit the websites of our affiliates for information on how they use your information and for information on how to opt out of their respective programs.
 
-Affiliates: [Google](http://www.google.com/privacy/ads/), [Meebo](http://www.meebo.com/privacy/advertising/), [Konterra](http://www.kontera.com/ad-choices), [Chitika](http://chitika.com/privacy_policy.php), [VigLink](http://www.viglink.com/policies/privacy), [NAI](http://www.networkadvertising.org/participating/)
+Affiliates: [Google](http://www.google.com/privacy/ads/), [VigLink](http://www.viglink.com/policies/privacy), [NAI](http://www.networkadvertising.org/participating/)
 
 #### REGISTERED USER PROFILES 
 
@@ -32,6 +32,6 @@ If you are a previous registered user and you have lost or forgotten your passwo
 
 We will provide you with the means to ensure that your personal information is correct and current. You may review and update this information at any time. By following the "my profile" link provided on our system, you may view and edit personal information you have already given us. You may also elect to receive or discontinue receiving any email newsletters we may choose to distribute periodically. 
 
-Any other exceptions will be specifically noted on the page itself. If you have any questions or require clarification of any portion of our privacy policy, please [contact us.](https://web.archive.org/web/20121010082100id_/http%3A//miata.net/feedback.html)
+Any other exceptions will be specifically noted on the page itself. If you have any questions or require clarification of any portion of our privacy policy, please [contact us.](https://web.archive.org/web/20130515051637id_/http%3A//miata.net/feedback.html)
 
 * * *
