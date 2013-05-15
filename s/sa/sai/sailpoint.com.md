@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sailpoint.com privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029233049id_/http%3A//www.sailpoint.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sailpoint.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515091135id_/http%3A//www.sailpoint.com/privacy.php) for the most accurate reproduction.*
 
 # 
 
@@ -54,8 +54,8 @@ If you require any further information or if you have any questions or concerns 
 
 **SailPoint Technologies, Inc.**  
 c/o Privacy Manager  
-6034 W Courtyard Dr, Suite 309  
-Austin, Texas 78730  
+11305 Four Points Drive, Building 2, Suite 100   
+Austin, Texas 78726  
 USA  
 email: [privacy@sailpoint.com](mailto:%70r%69vac%79@s%61%69lp%6Fint.com)
 
@@ -127,7 +127,7 @@ If you require any further information or if you have any questions or concerns 
 
 **SailPoint Technologies, Inc.**  
 c/o Safe Harbor Privacy Manager   
-6034 W Courtyard Dr, Suite 309   
-Austin, Texas 78730  
+11305 Four Points Drive, Building 2, Suite 100   
+Austin, Texas 78726  
 USA  
 email: [safeharbor@sailpoint.com](mailto:sa%66eharbo%72@sailpoin%74.com)
