@@ -1,9 +1,10 @@
-<!--The following is the downloaded HTML source of the woodlanddirect.com privacy policy that was archived on 2012-11-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121114051126id_/http%3A//www.woodlanddirect.com/Privacy-Policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the woodlanddirect.com privacy policy that was archived on 2013-05-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130515025649id_/http%3A//www.woodlanddirect.com/Privacy-Policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Privacy Policy</title>
+
 
 
 
@@ -24,9 +25,9 @@
  
 </script>
 <script language="JavaScript" type="text/javascript">window.status='Loading...';</script>
-<script type="text/javascript" src="/javascript/NLUtil.jsp__NS_VER=2012.2.0.99&amp;locale=en_US.nlqs"></script>
+<script type="text/javascript" src="/javascript/NLUtil.jsp__NS_VER=2013.1.0&amp;minver=93&amp;locale=en_US.nlqs"></script>
 <script language="JavaScript" type="text/javascript">window.status='';</script>
-<!-- v=2012.2.0.99 db=713 c=483668 n=1 rg=1 e=0 r=17 ct=WEBSITE isstore=T https=F
+<!-- v=2013.1.0.93 db=713 c=483668 n=1 rg=1 e=0 r=17 ct=WEBSITE isstore=T https=F
      id=I:2 cat= sc=15 sct=PRESENTATION thm=110 bll=i:125;c:125;r:208;cr:208;
      cart=-1 price=5 cur=1 lang=en_US partner=0 promocode=0 leadsource=
      sco=T
@@ -70,12 +71,101 @@
 .example div div a:hover {color: #FF00FF}   /* mouse over link */
 .example div div a:active {color: #0000FF}   /* selected link */
 </style>
-<link rel="stylesheet" href="http://www.woodlanddirect.com/core/styles/pagestyles.nl?ct=100&amp;bglt=FFFFFF&amp;bgmd=C1C19F&amp;bgdk=808080&amp;bgon=FFFFFF&amp;bgoff=FFFFFF&amp;bgbar=FFFFFF&amp;tasktitletext=666666&amp;crumbtext=666666&amp;headertext=666666&amp;ontab=666666&amp;offtab=666666&amp;text=666666&amp;link=564A30&amp;bgbody=FFFFFF&amp;bghead=FFFFFF&amp;portlet=564A30&amp;portletlabel=FFFFFF&amp;bgbutton=D2D2C8&amp;bgrequiredfld=FFFFE5&amp;font=Arial%2CHelvetica%2Csans-serif&amp;size_site_content=10pt&amp;size_site_title=10pt&amp;size=1.0&amp;nlinputstyles=T&amp;NS_VER=2012.2.0&amp;3">
+<link rel="stylesheet" href="http://www.woodlanddirect.com/core/styles/pagestyles.nl?ct=100&amp;bglt=FFFFFF&amp;bgmd=C1C19F&amp;bgdk=808080&amp;bgon=FFFFFF&amp;bgoff=FFFFFF&amp;bgbar=FFFFFF&amp;tasktitletext=666666&amp;crumbtext=666666&amp;headertext=666666&amp;ontab=666666&amp;offtab=666666&amp;text=666666&amp;link=564A30&amp;bgbody=FFFFFF&amp;bghead=FFFFFF&amp;portlet=564A30&amp;portletlabel=FFFFFF&amp;bgbutton=D2D2C8&amp;bgrequiredfld=FFFFE5&amp;font=Arial%2CHelvetica%2Csans-serif&amp;size_site_content=10pt&amp;size_site_title=10pt&amp;size=1.0&amp;nlinputstyles=T&amp;NS_VER=2013.1.0&amp;3">
 <!-- Theme Addition -->
 <!--[if lt IE 9]>
 <script src="/site/js/html5shiv.js"></script>
 <![endif]-->
+<script>
+if (!Array.prototype.indexOf)
+{
+  Array.prototype.indexOf = function(elt /*, from*/)
+  {
+    var len = this.length >>> 0;
 
+    var from = Number(arguments[1]) || 0;
+    from = (from < 0)
+         ? Math.ceil(from)
+         : Math.floor(from);
+    if (from < 0)
+      from += len;
+
+    for (; from < len; from++)
+    {
+      if (from in this &&
+          this[from] === elt)
+        return from;
+    }
+    return -1;
+  };
+}
+if(typeof String.prototype.trim !== 'function') {
+  String.prototype.trim = function() {
+    return this.replace(/^\s+|\s+$/g, ''); 
+  }
+}
+if ( !Array.prototype.forEach ) {
+  Array.prototype.forEach = function forEach( callback, thisArg ) {
+    var T, k;
+ 
+    if ( this == null ) {
+      throw new TypeError( "this is null or not defined" );
+    }
+ 
+    var O = Object(this);
+    var len = O.length >>> 0; // Hack to convert O.length to a UInt32
+
+    if ( {}.toString.call(callback) !== "[object Function]" ) {
+      throw new TypeError( callback + " is not a function" );
+    }
+ 
+    if ( thisArg ) {
+      T = thisArg;
+    }
+ 
+    k = 0;
+    while( k < len ) {
+ 
+      var kValue;
+      if ( Object.prototype.hasOwnProperty.call(O, k) ) {
+        kValue = O[ k ];
+
+        callback.call( T, kValue, k, O );
+      }
+      k++;
+    }
+  };
+}
+if (!Array.prototype.filter)
+{
+  Array.prototype.filter = function(fun /*, thisp */)
+  {
+    "use strict";
+ 
+    if (this == null)
+      throw new TypeError();
+ 
+    var t = Object(this);
+    var len = t.length >>> 0;
+    if (typeof fun != "function")
+      throw new TypeError();
+ 
+    var res = [];
+    var thisp = arguments[1];
+    for (var i = 0; i < len; i++)
+    {
+      if (i in t)
+      {
+        var val = t[i]; // in case fun mutates this
+        if (fun.call(thisp, val, i, t))
+          res.push(val);
+      }
+    }
+ 
+    return res;
+  };
+}
+</script>
 <!--[if lt IE 8]>
 <script src="/site/js/json.js"></script>
 <![endif]-->
@@ -84,12 +174,12 @@
 <script type="text/javascript" src="/site/js/jquery-1.7.2.min.js"></script>
 <script type="text/javascript" src="/site/js/jquery-ui-1.8.custom.min.js"></script>
 <script type="text/javascript" src="/site/js/underscore-min.js"></script>
-<script type="text/javascript" src="/core/V2012-11-07/master_control.js"></script>
+<script type="text/javascript" src="/core/v2012-12-11/master_control.js"></script>
 <link rel="shortcut icon" href="/site/images/favicon.ico" type="image/x-icon">
 
 <link media="print" rel="stylesheet" type="text/css" href="/site/include/print.css">
 
-<link href="/core/v2012-10-01/core_styles.css" rel="stylesheet" type="text/css">
+<link href="/core/v2012-12-11/core_styles.css" rel="stylesheet" type="text/css">
 <style>
 
 </style>
@@ -174,8 +264,10 @@ var value=location.href;
 </script>
 <script src="/site/js/jquery.easing.1.3.js" type="text/javascript"></script>
 <script src="/site/js/jquery.mousewheel.min.js" type="text/javascript"></script>
+<script src="/site/js/jquery.mCustomScrollbar.js" type="text/javascript"></script>
+<script src="/site/js/customScrollBarMobile.js" type="text/javascript"></script> 
 <!-- Theme Addition End -->
-</head>
+<script type="text/javascript" async="" id="AddShoppers" src="https://shop.pe/widget/widget_async.js#51890373a387646761a46780"></script></head>
 <body style="" onload="page_init()">
 <div id="outerwrapper" style="text-align:center">
 <div id="innerwrapper" style="width:990px">
@@ -185,7 +277,7 @@ var value=location.href;
 <tbody><tr><td id="td__header">
 <span style="display:none;">$1,797.30</span>
 <div id="above-mainnav">
-<img id="background_image" src="/images/HomePage/HeaderPics/HPH-Winter.jpg" alt="Woodland Direct: Your source for true living">
+<img id="background_image" src="/images/HomePage/HeaderPics/HPH-OutdoorFurniture.jpg" alt="Woodland Direct: Your source for true living">
 <div id="header_logo"><a href="/" title="WoodlandDirect.com"><img src="/images/graphics/bm_theme/WoodlandDirectLogo.png" alt="WoodlandDirect.com"></a></div>
 <div id="header_shipping"><a onclick="window.open('/site/files/pop-shipping.html','zoom','status,scrollbars,width=400,height=400,left=200,top=100'); return false;"><img src="/images/graphics/bm_theme/FreeShippingBanner.png"></a></div>
 <div id="header_no_restock"><a onclick="window.open('/site/files/pop-restock.html','zoom','status,scrollbars,width=400,height=400,left=200,top=100'); return false;"><img src="/images/graphics/bm_theme/NoRestockFee.png" alt=""></a></div>
@@ -206,12 +298,12 @@ var value=location.href;
 <div id="header_social_links_old" style="display:none">
     <a href="http://www.facebook.com/WoodlandDirectInc" class="facebook_icon" id="main_facebook"> <img alt="facebook icon" src="/images/graphics/facebook_icon.png">
     </a>
-    <a href="http://twitter.com/Woodland_Direct" class="twitter_icon">
-        <img alt="twitter icon" src="/images/graphics/twitter_icon.png">
+    <a href="http://pinterest.com/WoodlandDirect/" class="pinterest_icon">
+        <img alt="pinterest icon" src="/images/graphics/pinterest_icon.png">
     </a>
 </div>
 <div id="header_user_info" style="right:10px">
-<a onclick="_gaq.push(['_link', this.href]); return false;" href="https://checkout.netsuite.com/s.nl/c.483668/sc.4/.f?logoff=T&amp;ckabandon=&amp;login=T&amp;gc=clear">Log In</a> | <a href="/contact-us">Contact Us</a>
+<a onclick="_gaq.push(['_link', this.href]); return false;" href="https://checkout.netsuite.com/s.nl/c.483668/sc.4/.f?logoff=T&amp;ckabandon=&amp;addrcountry=US&amp;login=T&amp;gc=clear">Log In</a> | <a href="/contact-us">Contact Us</a>
 </div>
 </div>
 <div id="body-mainnav">
@@ -231,7 +323,7 @@ var value=location.href;
 		<li><a href="/Fireplace-Accessories/Fireplace-Heaters-Blowers">Fireplace Heaters</a></li>
 		<li><a href="/Fireplace-Accessories/Fireplace-Inserts">Fireplace Inserts</a></li>
 		<li><a href="/Fireplace-Accessories/Fireplace-Screens">Fireplace Screens</a></li>
-		<li><a href="/Fireplace-Accessories/Fireplace-Tool-Set">Fireplace Toolsets</a></li>
+		<li><a href="/Fireplace-Accessories/Fireplace-Tool-Set">Fireplace Tool Sets</a></li>
 		<li><a href="/Fireplace-Accessories/Firewood-Racks-and-Carriers">Firewood Racks &amp; Carriers</a></li>
 		<li><a href="/Fireplace-Accessories/Gas-Burner-Parts">Gas Burner Parts</a></li>
 		<li><a href="/Fireplace-Accessories/Gas-Logs">Gas Logs</a></li>
@@ -272,6 +364,7 @@ var value=location.href;
 	<ul class="submenu">
 		<li><a href="/Outdoor/Arbors-Trellises">Arbors &amp; Trellises </a></li>
 		<li><a href="/Outdoor/Birdbaths-Bird-Feeders">Birdbaths &amp; Feeders </a></li>
+
 		<li><a href="/Outdoor/Outdoor-BBQ-Grills">BBQ Grills</a></li>
 		<li><a href="/Outdoor/Outdoor-Kitchens-BBQ-Islands">BBQ Islands &amp; Kitchens</a></li>
 		<li><a href="/Outdoor/Composting" title="Composting">Composting</a></li>
@@ -283,8 +376,9 @@ var value=location.href;
 		<li><a href="/Outdoor/Log-Splitters">Log Splitters</a></li>
         <li><a href="/Outdoor/Outdoor-Clocks" title="Outdoor Clocks">Outdoor Clocks</a></li>
 		<li><a href="/Outdoor/Outdoor-Decor">Outdoor Decor</a></li>
-		<li><a href="/Outdoor/Outdoor-Gas-Fireplaces-Fire-Pits">Outdoor Fireplaces - Gas</a></li>
-		<li><a href="/Outdoor/Outdoor-Wood-Fire-Pits-Fireplaces">Outdoor Fireplaces - Wood</a></li>
+		<li><a href="/Outdoor/DIY-Outdoor-Fire-Pits-Parts">Outdoor DIY Fire Pits</a></li>
+		<li><a href="/Outdoor/Outdoor-Fire-Pits">Outdoor Fire Pits</a></li>
+		<li><a href="/Outdoor/Outdoor-Fireplaces">Outdoor Fireplaces</a></li>
         <li><a href="/Outdoor/Flooring-Wood-Composite" title="Flooring - Wood and Composite">Outdoor Flooring</a></li>
 		<li><a href="/Outdoor/Outdoor-Furniture">Outdoor Furniture </a></li>
 		<li><a href="/Outdoor/Outdoor-Lighting">Outdoor Lighting</a></li>
@@ -299,7 +393,7 @@ var value=location.href;
 		<li><a href="/Outdoor/Weathervanes">Weathervanes and Cupolas </a></li>
 	</ul>
 </li>
-<li class="last"><span id="call_center">Call Center: <span class="open">OPEN</span></span>&nbsp;&nbsp;<span class="talkTo">Talk to a professional: </span><span class="phone_number">800.919.1904</span>
+<li class="last"><span id="call_center">Call Center: <span class="open">Closed</span>&nbsp;&nbsp;<span class="talkTo">Leave a message: </span><span class="phone_number">800.919.1904</span></span>
 </li>
 </ul>
 
@@ -329,12 +423,12 @@ var value=location.href;
 		time_zone = 'Eastern Time';
 	}
 	var hours = [];
-	hours.push(['Monday','8:30 am', '8:00 pm', '', '']);
-	hours.push(['Tuesday','8:30 am', '8:00 pm', '', '']);
-	hours.push(['Wednesday','8:30 am', '8:00 pm', '', '']);
-	hours.push(['Thursday','8:30 am', '8:00 pm', '', '']);
-	hours.push(['Friday','8:30 am', '8:00 pm', '', '']);
-	hours.push(['Saturday','9:00 am', '5:00 pm', '', '']);
+	hours.push(['Monday','8:30 am', '11:00 pm', '', '']);
+	hours.push(['Tuesday','8:30 am', '11:00 pm', '', '']);
+	hours.push(['Wednesday','8:30 am', '11:00 pm', '', '']);
+	hours.push(['Thursday','8:30 am', '11:00 pm', '', '']);
+	hours.push(['Friday','8:30 am', '11:00 pm', '', '']);
+	hours.push(['Saturday','8:30 am', '11:00 pm', '', '']);
 	hours.push(['Sunday','12:00 am', '12:00 am', '', '']);
 
 	var left_string = '<div style="float:left;text-align:left;">';
@@ -445,28 +539,28 @@ var value=location.href;
 	$('#td__header').append('<div id="hours_div" style="position: absolute; top: 113px; left: 560px; width: 250px; background: url(\'/images/graphics/bm_theme/PullDownBKGD.png\') repeat scroll 0px 0px transparent; padding: 10px; z-index: 201; display: none; text-align:center;"></div>');
 	$('#hours_div').html('Call Center Hours <br>('+time_zone+')<hr>'+left_string+right_string+extended_string);
 	$('#call_center .open').hover(function(){$('#hours_div').show();},function(){$('#hours_div').hide();} );
-</script><div id="hours_div" style="position: absolute; top: 113px; left: 560px; width: 250px; background: url('/images/graphics/bm_theme/PullDownBKGD.png') repeat scroll 0px 0px transparent; padding: 10px; z-index: 201; display: none; text-align:center;">Call Center Hours <br>(Eastern Time)<hr><div style="float:left;text-align:left;">Monday - Friday<br>Saturday<br>Sunday</div><div style="float:right;text-align:right;">8:30 am - 8:00 pm<br>9:00 am - 5:00 pm<br>CLOSED<br></div></div>
+</script><div id="hours_div" style="position: absolute; top: 113px; left: 560px; width: 250px; background: url('/images/graphics/bm_theme/PullDownBKGD.png') repeat scroll 0px 0px transparent; padding: 10px; z-index: 201; display: none; text-align:center;">Call Center Hours <br>(Eastern Time)<hr><div style="float:left;text-align:left;">Monday - Saturday<br>Sunday</div><div style="float:right;text-align:right;">8:30 am - 11:00 pm<br>CLOSED<br></div></div>
 <div id="breadcrumbs">
-	<span id="old_crumbs" style="display:none"><a class="crumb" onmouseover="this.className='crumbover';" onmouseout="this.className='crumb';" href="/Policies-Information">Policies and Information</a>&nbsp;&gt;&nbsp;</span>
+	<span id="old_crumbs" style="display:none">&nbsp;&gt;&nbsp;</span>
 <div id="new_crumbs">
-	<div id="previous_crumbs">
+	<div id="previous_crumbs" style="display: block;">
     	<img class="begin_bread_img" src="/images/graphics/bm_theme/breadcrumbs/other-crumb-bgn.jpg">
-    </div>
-    <div id="current_crumb"></div>
+    <div><a href="/Policies-Information">Policies and Information</a><img class="current_bread_img" src="/images/graphics/bm_theme/breadcrumbs/other-to-current-crumb.jpg"></div></div>
+    <div id="current_crumb"><a>Privacy Policy</a></div>
     <img class="end_bread_img" src="/images/graphics/bm_theme/breadcrumbs/current-crumb-end.jpg">
     <div style="float:right;">
-<a id="chat_icon">
+<a id="chat_icon" href="javascript: var e = window.open('https://web.archive.org/web/20130411112024/https://chat.woodlanddirect.com/SightMaxAgentInterface/PreChatSurvey.aspx?accountID=1&amp;siteID=1&amp;queueID=2&amp;allQueues=yes','chatWindow','width=490,height=404,resizable=0,scrollbars=no,menubar=no,status=no');">
     	<img src="/images/graphics/Chat.png" alt="chat with us">
     </a>
-<a id="email_icon">
+<a id="email_icon" href="mailto:customerservice@woodlanddirect.com?Subject=Re: https://web.archive.org/web/20130515025649id_/http%3A//www.woodlanddirect.com/Privacy-Policy">
     	<img src="/images/graphics/Email.png" alt="email us">
     </a></div>
 </div>
 <div id="header_social_links">
     <a href="http://www.facebook.com/WoodlandDirectInc" class="facebook_icon" id="main_facebook"> <img alt="facebook icon" src="/images/graphics/facebook_icon.png">
     </a>
-    <a href="http://twitter.com/Woodland_Direct" class="twitter_icon">
-        <img alt="twitter icon" src="/images/graphics/twitter_icon.png">
+    <a href="http://pinterest.com/WoodlandDirect/" class="pinterest_icon">
+        <img alt="pinterest icon" src="/images/graphics/pinterest_icon.png">
     </a>
 </div>
 </div>
@@ -484,23 +578,24 @@ var value=location.href;
 <td id="left-col" class="">
 <div id="body-left">
     <div id="left-nav-banner">
-<!-- BEGIN SightMax Code--> 
+<!-- BEGIN SightMax Code> 
 <div id="sightmax">
-        <a href="javascript: var e = window.open('https://chat.woodlanddirect.com/SightMaxAgentInterface/PreChatSurvey.aspx?accountID=1&amp;siteID=1&amp;queueID=2','chatWindow','width=490,height=404,resizable=0,scrollbars=no,menubar=no,status=no');" onmouseout="top.status=''; return true;" onmousedown="top.status='Chat with a company representative';return true;" onmouseover="top.status='Chat with a company representative';return true;">
-            <img src="https://chat.woodlanddirect.com/SightMaxAgentInterface/chat.smgif?accountID=1&amp;siteID=1&amp;queueID=2" alt="Live chat">
+        <a href="javascript: var e = window.open('https://chat.woodlanddirect.com/SightMaxAgentInterface/PreChatSurvey.aspx?accountID=1&amp;siteID=1&amp;queueID=2&amp;AllQueues=yes','chatWindow','width=490,height=404,resizable=0,scrollbars=no,menubar=no,status=no');" onmouseout="top.status=''; return true;" onmousedown="top.status='Chat with a company representative';return true;" onmouseover="top.status='Chat with a company representative';return true;">
+            <img style="display:block;" src="https://chat.woodlanddirect.com/SightMaxAgentInterface/chat.smgif?accountID=1&amp;siteID=1&amp;queueID=2" alt="Live chat">
         </a>  
 </div>
 <div id="sightmaxCommand" style="display:none">
-       <img id="CommandImage" src="https://chat.woodlanddirect.com/SightMaxAgentInterface/chat.smgif?accountID=1&amp;siteID=1&amp;queueID=2" alt="Live chat">
-</div>
+       <img style="display:block;" id="CommandImage" src="https://chat.woodlanddirect.com/SightMaxAgentInterface/chat.smgif?accountID=1&amp;siteID=1&amp;queueID=2" alt="Live chat">
+</div-->
     <!-- Sale Banner  --> 
-<div>                       
-        <a href="/Featured-Items" title="Featured Items Sale">
-            <img src="/images/banners/firewood_rack_sale.jpg" alt="Firewood Rack Sale">
+<div style="padding-bottom:4px;padding-top:4px;">                       
+        <a href="/Featured-Items">
+            <img style="display:block;" src="/images/banners/nationalBBQmonth.jpg" alt="National BBQ Month Sale" title="National BBQ Month Sale">
         </a>
 </div>
     <!-- Sale Banner End -->
- 	</div>    	
+ 	</div>  
+<div id="smart_search"></div>  	
     <div class="left-nav">
     <div class="title">Fireplace Products:</div>
 	  <ul>
@@ -548,7 +643,7 @@ var value=location.href;
         <img src="/site/new-theme-files/images/img-cards.gif" alt="We accept Credit Cards">
     </div>
     <div class="trust-logos"> 
-    	<a href="https://www.nextag.com/Woodland+Direct~2577385zzzreviewsz1zmainz17-htm"><img src="https://www.nextag.com/seller/NextagLogo.jsp?seller=2577385" alt="Nextag Seller" border="0"></a>  
+    	<a href="https://www.nextag.com/Woodland+Direct~2577385zzzreviewsz1zmainz17-htm"><img src="https://www.nextag.com/seller/NextagLogo.jsp?seller=2577385" alt="Nextag Seller" border="0"></a> 
 <div style="width:160px;height:70px;position:relative;margin:0 0 10px 0">
 <div style="position:absolute;bottom:19px;left:72px;z-index:2;font:10px/14px Arial,Helvetica,sans-serif;color:#000;text-align:center;">
 <a href="http://www.become.com/" style="text-decoration:none;color:#414246;" title="Become.com Online Shopping">Become.com<br>Online Shopping</a></div>
@@ -585,7 +680,7 @@ var value=location.href;
 <input type="hidden" name="it" value="I">
 <input type="hidden" name="vid" value="">
 <input type="hidden" name="ck" value="">
-<input type="hidden" name="cktime" value="105477">
+<input type="hidden" name="cktime" value="114259">
 <input type="hidden" name="cart" value="-1">
 
 </form></td>
@@ -1359,7 +1454,7 @@ function getMethod(options)
 {
  //alert(options)
  var method="";
- var startMethod=options.indexOf("Freight: T");
+ var startMethod=options.indexOf("Freight");
  if(startMethod>=0)
  {
  /*method=options.substring(startMethod+16,options.indexOf("<",startMethod));
@@ -1447,6 +1542,11 @@ $("#linkss").html(breadCram);
 //Start cookies function to create, read and delete one or more cookies.
 //End cookies functions
 </script>
+<script type="text/javascript">
+var js = document.createElement('script'); js.type = 'text/javascript'; js.async = true; js.id = 'AddShoppers';
+js.src = ('https:' == document.location.protocol ? 'https://shop.pe/widget/' : 'http://cdn.shop.pe/widget/') + 'widget_async.js#51890373a387646761a46780';
+document.getElementsByTagName("head")[0].appendChild(js);
+</script>
 </div>
 <iframe src="/empty.html" id="server_commands" style="visibility:hidden" height="0"></iframe>
 <script language="javascript" type="text/javascript">
@@ -1480,8 +1580,8 @@ window.loadcomplete = true;
 
 
 
-<!-- 465 s: 12% #52 co: 8% #95-->
-<!-- [ sh.j41.sv ] [ 2012.2.0.99 ]-->
-<!-- [ 483668 ] [  ] [ /s.nl ] [ Tue Nov 13 21:11:26 PST 2012 ] -->
+<!-- 560 s: 50% #103 co: 9% #124-->
+<!-- [ sh.j17.sv ] [ 2013.1.0.93 ]-->
+<!-- [ 483668 ] [  ] [ /s.nl ] [ Tue May 14 19:56:49 PDT 2013 ] -->
 <!-- Not logging slowest SQL -->
-</body></html>
+<div id="woodland_opaque" style="display:none;background-color: black;height: 1065px;left: 0;opacity: 0.6;position: absolute;top: 0;width: 1366px;z-index: 99;"></div></body></html>
