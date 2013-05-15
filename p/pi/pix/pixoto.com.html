@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the pixoto.com privacy policy that was archived on 2012-12-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121225030836id_/http%3A//www.pixoto.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pixoto.com privacy policy that was archived on 2013-05-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130515194448id_/http%3A//www.pixoto.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" xmlns="http://www.w3.org/1999/xhtml"><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# pixo-to: http://ogp.me/ns/fb/pixo-to#">
     <meta charset="utf-8">
@@ -15,15 +15,20 @@
     <meta name="msvalidate.01" content="1D6E9DBB6BA0A8082ED26D9475E013A8">
     <meta name="alexaVerifyID" content="atxRlc2IljnADQQ1oKhGcUzZDSk">
     <meta name="pinterest" content="nopin">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
     <script type="text/javascript" async="" src="//doug1izaerwt3.cloudfront.net/1559ecd963aefa359e69d9b99a27374a2fb379aa.1.js"></script><script type="text/javascript" async="" src="//i.kissmetrics.com/i.js"></script><script type="text/javascript" async="" src="//assets.pinterest.com/js/pinit.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://cdn.mxpnl.com/libs/mixpanel-2.1.min.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
         var SITE = {
             faceBook : { appId : 151378131593100 },
             authenticated : false,
             simple: false,
             userId: 0,
+            admin: false,
+            banComments: false,
+            userPictureUrl: 'https://d1mjz968h1hn50.cloudfront.net/assets/i/avatar-med.png',
             pro: false,
             novice: false,
             db: false,
+			secureAppUrl: 'https://www.pixoto.com',
             assetsUrl: 'http://d1mjz968h1hn50.cloudfront.net'
         }
     </script>
@@ -83,15 +88,17 @@
     </script>
 
     
-    <link href="http://d1mjz968h1hn50.cloudfront.net/assets/css/fonts.css?v=261.363991623718944561" media="screen" rel="stylesheet" type="text/css">
-    <link href="http://d1mjz968h1hn50.cloudfront.net/assets/css/style.min.css?v=261.363991623718944561" media="screen" rel="stylesheet" type="text/css">
+	
+    <link href="http://d1mjz968h1hn50.cloudfront.net/assets/css/fonts.css?v=340.367369323275660961" media="screen" rel="stylesheet" type="text/css">
+	
+    <link href="http://d1mjz968h1hn50.cloudfront.net/assets/css/style.min.css?v=340.367369323275660961" media="screen" rel="stylesheet" type="text/css">
     <link rel="icon" type="image/png" href="http://d1mjz968h1hn50.cloudfront.net/assets/i/favicon.png">
     <!--[if IE 7]>
-    <script src="http://d1mjz968h1hn50.cloudfront.net/assets/js/ie7.js?v=261.363991623718944561" type="text/javascript"></script>
-    <link rel="stylesheet" href="http://d1mjz968h1hn50.cloudfront.net/assets/css/ie7.css?v=261.363991623718944561" media="screen" type="text/css" />
+    <script src="http://d1mjz968h1hn50.cloudfront.net/assets/js/ie7.js?v=340.367369323275660961" type="text/javascript"></script>
+    <link rel="stylesheet" href="http://d1mjz968h1hn50.cloudfront.net/assets/css/ie7.css?v=340.367369323275660961" media="screen" type="text/css" />
     <![endif]-->
     <!--[if IE]>
-    <link rel="stylesheet" href="http://d1mjz968h1hn50.cloudfront.net/assets/css/ie.css?v=261.363991623718944561" media="screen" type="text/css" />
+    <link rel="stylesheet" href="http://d1mjz968h1hn50.cloudfront.net/assets/css/ie.css?v=340.367369323275660961" media="screen" type="text/css" />
     <![endif]-->
     <!--[if lt IE 9]>
     <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
@@ -142,6 +149,7 @@
                     // and signed request each expire
                     var uid = response.authResponse.userID;
                     var accessToken = response.authResponse.accessToken;
+					$('body').trigger('facebookReady')
                     if (!SITE.authenticated) {
                         $('form#fb_signin').submit()
                     }
@@ -165,6 +173,8 @@
 
 
 
+
+
 <div id="temp_header">
 <div id="temp_header_container">
 <header>
@@ -172,106 +182,161 @@
     <a href="#mobile_menu"><div id="mobile_menu_btn" class="sprite"></div></a>
     <nav role="navigation" class="main">
 		<ul class="left">
-			
 			<li id="dd_main" class="">
-				<a href="/images-photography">
-				Top Images<span class="sprite dd_arrows "></span>
+				<a href="/images-photography/all/all/leading">
+				<span>Top Images</span><span class="sprite dd_arrows "></span>
 				</a>
-				<ul class="drop_down">
-					
-						<li><a href="/images-photography/abstract">Abstract</a></li>
-					
-						<li><a href="/images-photography/animals">Animals</a></li>
-					
-						<li><a href="/images-photography/animals---cats">Animals - Cats</a></li>
-					
-						<li><a href="/images-photography/animals---dogs">Animals - Dogs</a></li>
-					
-						<li><a href="/images-photography/artistic-objects">Artistic Objects</a></li>
-					
-						<li><a href="/images-photography/babies-and-children">Babies &amp; Children</a></li>
-					
-						<li><a href="/images-photography/backgrounds">Backgrounds</a></li>
-					
-						<li><a href="/images-photography/buildings-and-architecture">Buildings &amp; Architecture</a></li>
-					
-						<li><a href="/images-photography/city--street-and-park-">City,  Street &amp; Park </a></li>
-					
-						<li><a href="/images-photography/digital-art">Digital Art</a></li>
-					
-						<li><a href="/images-photography/food-and-drink">Food &amp; Drink</a></li>
-					
-						<li><a href="/images-photography/holidays">Holidays</a></li>
-					
-						<li><a href="/images-photography/instagram-and-mobile">Instagram &amp; Mobile</a></li>
-					
-						<li><a href="/images-photography/landscapes">Landscapes</a></li>
-					
-						<li><a href="/images-photography/nature-up-close">Nature Up Close</a></li>
-					
-						<li><a href="/images-photography/news-and-events">News &amp; Events</a></li>
-					
-						<li><a href="/images-photography/novices-only">Novices Only</a></li>
-					
-						<li><a href="/images-photography/nudes-and-boudoir">Nudes &amp; Boudoir</a></li>
-					
-						<li><a href="/images-photography/people">People</a></li>
-					
-						<li><a href="/images-photography/products-and-objects">Products &amp; Objects</a></li>
-					
-						<li><a href="/images-photography/professional-people">Professional People</a></li>
-					
-						<li><a href="/images-photography/sports-and-fitness">Sports &amp; Fitness</a></li>
-					
-						<li><a href="/images-photography/transportation">Transportation</a></li>
-					
-						<li><a href="/images-photography/travel-locations">Travel Locations</a></li>
-					
-						<li><a href="/images-photography/wedding">Wedding</a></li>
-					
-				</ul>
+				<div class="drop_down_container">
+					<ul class="drop_down">
+						
+						<li class="photography">
+							<a class="sec-heading" href="/images-photography/all/all/leading">Photography</a>
+							<ul>
+								
+									<li><a href="/images-photography/abstract/all/leading">Abstract</a></li>
+								
+									<li><a href="/images-photography/animals/all/leading">Animals</a></li>
+								
+									<li><a href="/images-photography/animals---cats/all/leading">Animals - Cats</a></li>
+								
+									<li><a href="/images-photography/animals---dogs/all/leading">Animals - Dogs</a></li>
+								
+									<li><a href="/images-photography/artistic-objects/all/leading">Artistic Objects</a></li>
+								
+									<li><a href="/images-photography/babies-and-children/all/leading">Babies &amp; Children</a></li>
+								
+									<li><a href="/images-photography/backgrounds/all/leading">Backgrounds</a></li>
+								
+									<li><a href="/images-photography/buildings-and-architecture/all/leading">Buildings &amp; Architecture</a></li>
+								
+									<li><a href="/images-photography/captioned-photos/all/leading">Captioned Photos</a></li>
+								
+									<li><a href="/images-photography/city--street-and-park-/all/leading">City,  Street &amp; Park </a></li>
+								
+									<li><a href="/images-photography/digital-art/all/leading">Digital Art</a></li>
+								
+									<li><a href="/images-photography/food-and-drink/all/leading">Food &amp; Drink</a></li>
+								
+									<li><a href="/images-photography/holidays/all/leading">Holidays</a></li>
+								
+									<li><a href="/images-photography/instagram-and-mobile/all/leading">Instagram &amp; Mobile</a></li>
+								
+									<li><a href="/images-photography/landscapes/all/leading">Landscapes</a></li>
+								
+									<li><a href="/images-photography/nature-up-close/all/leading">Nature Up Close</a></li>
+								
+									<li><a href="/images-photography/news-and-events/all/leading">News &amp; Events</a></li>
+								
+									<li><a href="/images-photography/novices-only/all/leading">Novices Only</a></li>
+								
+									<li><a href="/images-photography/nudes-and-boudoir/all/leading">Nudes &amp; Boudoir</a></li>
+								
+									<li><a href="/images-photography/people/all/leading">People</a></li>
+								
+									<li><a href="/images-photography/products-and-objects/all/leading">Products &amp; Objects</a></li>
+								
+									<li><a href="/images-photography/professional-people/all/leading">Professional People</a></li>
+								
+									<li><a href="/images-photography/sports-and-fitness/all/leading">Sports &amp; Fitness</a></li>
+								
+									<li><a href="/images-photography/transportation/all/leading">Transportation</a></li>
+								
+									<li><a href="/images-photography/travel-locations/all/leading">Travel Locations</a></li>
+								
+									<li><a href="/images-photography/wedding/all/leading">Wedding</a></li>
+								
+							</ul>
+						</li>
+						
+						<li class="illustration">
+							<a class="sec-heading" href="/images-illustration-and-design/all/all/leading">Illustration &amp; Design</a>
+							<ul>
+								
+									<li><a href="/images-illustration-and-design/illustration/all/leading">Illustration</a></li>
+								
+									<li><a href="/images-illustration-and-design/logos/all/leading">Logos</a></li>
+								
+									<li><a href="/images-illustration-and-design/print-and-graphics/all/leading">Print &amp; Graphics</a></li>
+								
+									<li><a href="/images-illustration-and-design/typography/all/leading">Typography</a></li>
+								
+									<li><a href="/images-illustration-and-design/web-and-apps/all/leading">Web &amp; Apps</a></li>
+								
+							</ul>
+						</li>
+						
+						<li class="traditional">
+							<a class="sec-heading" href="/images-traditional-art/all/all/leading">Traditional Art</a>
+							<ul>
+								
+									<li><a href="/images-traditional-art/caligraphy/all/leading">Caligraphy</a></li>
+								
+									<li><a href="/images-traditional-art/drawing/all/leading">Drawing</a></li>
+								
+									<li><a href="/images-traditional-art/mixed-media/all/leading">Mixed Media</a></li>
+								
+									<li><a href="/images-traditional-art/painting/all/leading">Painting</a></li>
+								
+									<li><a href="/images-traditional-art/sculpture/all/leading">Sculpture</a></li>
+								
+									<li><a href="/images-traditional-art/street-art/all/leading">Street Art</a></li>
+								
+							</ul>
+						</li>
+						
+					</ul>
+				</div>
 			</li>
-			<li class=""><a href="/players-photography">Top Players</a></li>
+            <li class=""><a href="/art-shop">Art Shop</a></li>
+            <li class=""><a href="/stock">Stock Images</a></li>
+			<li class=""><a href="/players-photography/all/leading">Top Players</a></li>
 		</ul>
 
 		<ul class="right">
-			<li><span class="btn-contain"><a href="#" id="" class="startDuel btn medsmall blue">Vote</a></span></li>
-			<li class=""><span class="btn-contain"><a class="btn medsmall gray" href="/images/submit">Submit</a></span></li>
+			<li id="dd_duel"><a href="/imageduel" class="startDuel"><span class="sprite"></span><span>Vote</span></a></li>
+			<li id="dd_submit" class=""><a href="/images/submit"><span class="sprite"></span><span>Submit</span></a></li>
 			<li id="dd_about">
-				<span>About<span class="sprite dd_arrows"></span></span>
-				<ul class="drop_down">
-					<li><a href="/about">How Pixoto works</a></li>
-					<li><a href="/invite">Invite a Friend</a></li>
-					<li class="hr"></li>
-					<li><a href="/contest-weekly?cmp=dropdown">Photo Contests</a></li>
-					<li><a href="/photography-competition?cmp=dropdown">Contest Rules</a></li>
-					<li><a href="http://blog.pixoto.com/category-descriptions?cmp=dropdown">Category Descriptions</a></li>
-					<li class="hr"></li>
-					<li><a href="http://community.pixoto.com?cmp=dropdown">Help &amp; Community</a></li>
-					<li><a href="http://blog.pixoto.com?cmp=dropdown">Blog</a></li>
-					<li class="hr"></li>
-					<li><a href="/terms">Terms of Service</a></li>
-					<li><a href="/privacy">Privacy Policy</a></li>
-				</ul>
+				<span><span>About</span><span class="sprite dd_arrows"></span></span>
+				<div class="drop_down_container">
+					<ul class="drop_down">
+						<li><a href="/about">How Pixoto works</a></li>
+						<li><a href="/invite">Invite a Friend</a></li>
+						<li class="hr"></li>
+						<li><a href="/contest-weekly?cmp=dropdown">Photo Contests</a></li>
+						<li><a href="/photography-competition?cmp=dropdown">Contest Rules</a></li>
+						<li><a href="http://blog.pixoto.com/category-descriptions?cmp=dropdown">Category Descriptions</a></li>
+						<li class="hr"></li>
+						<li><a href="/become-a-stock-contributor">Sell stock photos</a></li>
+						<li><a href="http://blog.pixoto.com/2013/02/announcing-pixoto-canvas/">Sell canvas prints</a></li>
+						<li class="hr"></li>
+						<li><a href="http://community.pixoto.com?cmp=dropdown">Help &amp; Community</a></li>
+						<li><a href="http://blog.pixoto.com?cmp=dropdown">Blog</a></li>
+						<li class="hr"></li>
+						<li><a href="/terms">Terms of Service</a></li>
+						<li><a href="/privacy">Privacy Policy</a></li>
+					</ul>
+				</div>
 			</li>
 			
-				<li id="dd_user">
-					<span>Sign In<span class="sprite dd_arrows"></span></span>
-					<div class="drop_down">
-						<form method="post" action="/signin/facebook" class="connect">
-							<input type="hidden" value="email,publish_actions,offline_access" name="scope">
-							<div class="btn medium blue social_sign_in"><span>f</span> Sign in with Facebook</div>
-						</form>
-						<form method="post" action="/signin/twitter">
-							<div class="btn medium blue_alt social_sign_in"><span>t</span> Sign in with Twitter</div>
-						</form>
-						<div class="hr"><span>Or</span></div>
-						<form action="/resources/j_spring_security_check" method="post"> 
-							<input name="j_username" type="text" id=""  value="" placeholder="Email">
-							<input name="j_password" type="password" id=""  value="" placeholder="Password">
-							<a href="/forgotPassword" class="forgot">Forgot?</a>
-							<input type="submit" value="Sign In" class="btn green medium">
-						</form>
+				<li id="dd_user" class="signed-out">
+					<span><span>Sign In</span><span class="sprite dd_arrows"></span></span>
+					<div class="drop_down_container">
+						<div class="drop_down">
+							<form method="post" action="/signin/facebook" class="connect" id="fb_signin">
+								<input type="hidden" value="email,publish_actions,offline_access" name="scope">
+								<div class="btn medium fb-blue social_sign_in"><span class="ic-fb"></span> Sign in with Facebook</div>
+							</form>
+							<form method="post" action="/signin/twitter">
+								<div class="btn medium blue_alt social_sign_in"><span class="ic-tw"></span> Sign in with Twitter</div>
+							</form>
+							<div class="hr"><span>Or</span></div>
+							<form action="/resources/j_spring_security_check" method="post"> 
+								<input name="j_username" type="text" id=""  value="" placeholder="Email">
+								<input name="j_password" type="password" id=""  value="" placeholder="Password">
+								<a href="/forgotPassword" class="forgot">Forgot?</a>
+								<input type="submit" value="Sign In" class="btn green medium">
+							</form>
+						</div>
 					</div>
 				</li>
 			
@@ -280,38 +345,64 @@
 </header>
 </div>
 </div>
+<hr class="colorBar">
+
 <div id="show-id" class="id-ov sub-pg hide">
     <div class="images-loader loading">
-        <span class="disp-bl t-center"><img src="http://d1mjz968h1hn50.cloudfront.net/assets/i/itsloading.gif" alt="itsloading" width="31" height="31"></span>
+        <span class="disp-bl t-center"><img src="http://d1mjz968h1hn50.cloudfront.net/assets/i/itsloading.gif" alt="itsloading"></span>
     </div>	<!-- end image-loader  |  This will show up while the images for ID are still loading -->
     <form id="duelForm" action="/images/duel" method="get">
-        <table class="id-wrap">
-            <tbody><tr>
-                <td id="id-img-1" class="id-img">
-                    <div class="wrapper">
-                        <input name="image1" type="hidden" value="">
-                        <a class="id-img-wrap vote" href="#"><img src="http://d1mjz968h1hn50.cloudfront.net/assets/i/itsloading-bg-black.gif"><span class="choose">Choose</span></a>
-                        <!--<a class="choose-add-fav" href="#" title="Add as favorite while chosing it as better image">Choose + Favorite</a>-->
-                    </div>
-                    <div class="report-wrap">
-                        <p class="in5 t-center"><a class="report-img-link" href="#">Report this Image</a></p>
-                    </div>
-                </td>
-                <td id="id-img-2" class="id-img">
-                    <div class="wrapper">
-                        <input name="image2" type="hidden" value="">
-                        <a class="id-img-wrap vote" href="#"><img src="http://d1mjz968h1hn50.cloudfront.net/assets/i/itsloading-bg-black.gif"><span class="choose">Choose</span></a>
-                        <!--<a class="choose-add-fav" href="#" title="Add as favorite while chosing it as better image">Choose + Favorite</a>-->
-                    </div>
-                    <div class="report-wrap">
-                         <p class="in5 t-center"><a class="report-img-link" href="#">Report this Image</a></p>
-                     </div>
-                </td>
-            </tr>
-        </tbody></table>
+		<table class="id-wrap">
+			<tbody><tr>
+				<td id="id-img-1" class="id-img">
+					<div class="wrapper">
+						<input name="image1" type="hidden" value="">
+						<a class="id-img-wrap vote" href="#"><img src="http://d1mjz968h1hn50.cloudfront.net/assets/i/itsloading-bg-black.gif"><span class="choose">Choose</span></a>
+						<div class="report-wrap">
+							<span class="f-left left-20">
+								<a class="add-fav t-tip" title="Add as Favorite" href="#">Add as Favorite</a>
+								
+							</span>
+							<span class="f-right right-20">
+								<span class="report-img-link-container"><a class="report-img-link" href="#">Report</a></span>
+							</span>
+						</div>
+					</div>
+				</td>
+				<td id="id-img-2" class="id-img">
+					<div class="wrapper">
+						<input name="image2" type="hidden" value="">
+						<a class="id-img-wrap vote" href="#"><img src="http://d1mjz968h1hn50.cloudfront.net/assets/i/itsloading-bg-black.gif"><span class="choose">Choose</span></a>
+						<!--<a class="choose-add-fav" href="#" title="Add as favorite while chosing it as better image">Choose + Favorite</a>-->
+						<div class="report-wrap">
+							<span class="f-left left-20">
+								<a class="add-fav t-tip" title="Add as Favorite" href="#">Add as Favorite</a>
+								
+							</span>
+							<span class="f-right right-20">
+								<span class="report-img-link-container"><a class="report-img-link" href="#">Report</a></span>
+							</span>
+						</div>
+					</div>
+				</td>
+			</tr>
+		</tbody></table>
         <input name="outcome" type="hidden" value="draw">
+        <input name="imageSize" type="hidden" value="">
         <p class="t-center action-skip"><a href="#" title="Skip this Duel (S)" class="vote">Skip <span class="ff-2-2">»</span></a></p>
     </form>
+	<form id="duelCommentForm" action="/comment/image/" method="POST">
+		<fieldset>
+			<textarea name="text" class="comment standard-input"></textarea>
+			<input name="imageId" type="hidden" disabled="disabled" value="">
+			<div>
+				<p class="f-left">Be Helpful, Be Nice</p>
+				<a class="btn blue f-right submit">Comment</a>
+			</div>
+		</fieldset>
+		<span class="close">Close</span>
+		<div class="submitting-screen hide"></div>
+	</form>
     <div class="hide report-form">
 <span class="pointer"></span>
 	<form class="nomargin" method="post" action="">
@@ -324,12 +415,14 @@
 			<option value="NUDITY">Contains nudity</option>
 			<option value="DUPLICATE">Duplicate</option>
 			<option value="HATE">Is hateful or attacks an individual or group</option>
-            <option value="REPETITIVE">Repetitive: Image is very similar to another</option>
-            <option value="NOTPURE">Is not a Pure Photo</option>
+			<option value="REPETITIVE">Repetitive: Image is very similar to another</option>
+			<option value="NOTPURE">Is not a Pure Photo</option>
+			<option value="TRADEMARKS">Contains Trademarks - Must be Editorial Only</option>
+			<option value="MODEL_RELEASE">Not Model Released - Must be Editorial Only</option>
 			<option value="OTHER">Other - Please specify in comments box</option>
 		</select>
 		<textarea name="comments" style="" placeholder="Comments..." class="" rows="2" cols="35"></textarea>
-		<p class="mar-btm-0"><a href="#" class="button small c1 submit-report">Submit</a> <a class="cancel-report small" href="#">Cancel</a></p>
+		<p class="mar-btm-0"><a href="#" class="button small c1 submit-report">Submit</a> <a class="cancel-report small left-10" href="#">Cancel</a></p>
 	</form>
 </div>
 
@@ -343,7 +436,7 @@
             <div class="form-inline wide">
                 <fieldset class="social-signup group">
                     <form method="post" action="/signin/facebook" class="connect">
-                        <input type="hidden" value="email,publish_actions,offline_access" name="scope">
+                        <input type="hidden" value="email,publish_actions,offline_access,user_photos" name="scope">
                         <div class="fb-signin f-left">
                             <a href="#" class="SOCIAL_LOGIN">Sign in with Facebook</a>
                         </div>
@@ -379,23 +472,30 @@
         
         <div class="signup-wrap s-wrap" id="social-signup">
             <p class="heading heading-1">Sign up to continue voting…</p>
-            <p class="ov-msg no-mar t-center">This helps us keep things fair.</p>
+            <p class="ov-msg no-mar t-center">We require Facebook for sign up to keep the voting fair and unbiased.</p>
             <div class="signup-fb-tw group t-center top20">
                 <form method="post" action="/signin/facebook" class="connect">
-                    <input type="hidden" value="email,publish_actions,offline_access" name="scope">
-                    <a class="connect-with-fb-btn connect-btn bottom20 SOCIAL_LOGIN" href="#">Connect using Facebook</a>
+                    <input type="hidden" value="email,publish_actions,offline_access,user_photos" name="scope">
+                    <a class="connect-with-fb-btn btn fb-blue bottom20 SOCIAL_LOGIN" href="#"><span class="ic-fb"></span>Sign Up with Facebook</a>
                 </form>
-                <form method="post" action="/signin/twitter" class="connect">
+                <!--<form method="post" action="/signin/twitter" class="connect">
                     <a class="connect-with-tw-btn connect-btn bottom20 SOCIAL_LOGIN" href="#">Connect using Twitter</a>
                 </form>
-                <!--<p class="clear heading-4 top20">or, <a class="bold show-email-signup" href="#">Sign up using email</a></p>-->
+                <p class="clear heading-4 top20">or, <a class="bold show-email-signup" href="#">Sign up using email</a></p>-->
             </div>
+			<ul class="features">
+				<li class="feedback">Instant Feedback</li>
+				<li class="awards">Win Awards</li>
+				<li class="sell">Sell Your Photos</li>
+			</ul>
             <div class="form-action-wrap group">
                 <p class="signup-link heading-3 t-center in15 top5">Already a member? <a href="#" class="show-signin">Sign In</a></p>
             </div>
         </div>
     </div>
 </div> <!-- end id-ov -->
+
+
 <div class="content container book">
      <div class="pg-head">
           <h1 class="pg-title">Privacy Policy <span class="heading-6"> — UPDATED MARCH 25, 2011</span></h1>
@@ -462,8 +562,8 @@
     </div> <!-- end Sub-Content -->
      <div class="footer group">
     <p class="site-metrics group">
-        <span class="total-images"><b class="heading-4">1,466,333</b> images submitted</span>
-        <span class="total-votes"><b class="heading-4">72,939,350</b> votes polled</span>
+        <span class="total-images"><b class="heading-4">1,937,743</b> images submitted</span>
+        <span class="total-votes"><b class="heading-4">98,180,184</b> votes polled</span>
         
         <i class="ff-1 top10 block f-left m-fade">Thanks for contributing and participating.</i>
     </p>
@@ -491,18 +591,22 @@
 <script type="text/javascript" src="http://d1mjz968h1hn50.cloudfront.net/assets/js/jquery.cookie.js"></script>
 <script type="text/javascript" src="http://d1mjz968h1hn50.cloudfront.net/assets/js/jquery-validation-1.9.0/jquery.validate.js"></script>
 <script type="text/javascript" src="http://d1mjz968h1hn50.cloudfront.net/assets/js/jquery-validation-1.9.0/additional-methods.min.js"></script>
+<script type="text/javascript" src="http://d1mjz968h1hn50.cloudfront.net/assets/js/jquery.touchSwipe.min.js"></script>
 <script type="text/javascript" src="http://d1mjz968h1hn50.cloudfront.net/assets/js/contextmenu/jquery.contextmenu.js"></script>
 <script type="text/javascript" src="http://d1mjz968h1hn50.cloudfront.net/assets/js/jquery.tipsy.js"></script>
 <script type="text/javascript" src="http://d1mjz968h1hn50.cloudfront.net/assets/js/jgestures.min.js"></script>
 <script type="text/javascript" src="http://d1mjz968h1hn50.cloudfront.net/assets/js/jquery.backgroundpos.min.js"></script>
-<script type="text/javascript" src="http://d1mjz968h1hn50.cloudfront.net/assets/js/page/header.js?v=261.363991623718944561"></script>
-<script type="text/javascript" src="http://d1mjz968h1hn50.cloudfront.net/assets/js/v2/app.js?v=261.363991623718944561"></script>
-<script type="text/javascript" src="http://d1mjz968h1hn50.cloudfront.net/assets/js/v2/header.js?v=261.363991623718944561"></script>
-<script type="text/javascript" src="http://d1mjz968h1hn50.cloudfront.net/assets/js/page/v2/search-widget.js?v=261.363991623718944561"></script>
+<script type="text/javascript" src="http://d1mjz968h1hn50.cloudfront.net/assets/js/page/header.js?v=340.367369323275660961"></script>
+<script type="text/javascript" src="http://d1mjz968h1hn50.cloudfront.net/assets/js/v2/app.js?v=340.367369323275660961"></script>
+<script type="text/javascript" src="http://d1mjz968h1hn50.cloudfront.net/assets/js/v2/header.js?v=340.367369323275660961"></script>
+<script type="text/javascript" src="http://d1mjz968h1hn50.cloudfront.net/assets/js/page/v2/search-widget.js?v=340.367369323275660961"></script>
 
-<script type="text/javascript" src="http://d1mjz968h1hn50.cloudfront.net/assets/js/pixoto.js?v=261.363991623718944561"></script>
-<script type="text/javascript" src="http://d1mjz968h1hn50.cloudfront.net/assets/js/v2/app.js?v=261.363991623718944561"></script>
-<script type="text/javascript" src="http://d1mjz968h1hn50.cloudfront.net/assets/js/v2/mixpanel.js?v=261.363991623718944561"></script>
+<script type="text/javascript" src="http://d1mjz968h1hn50.cloudfront.net/assets/js/pixoto.js?v=340.367369323275660961"></script>
+<script type="text/javascript" src="http://d1mjz968h1hn50.cloudfront.net/assets/js/v2/app.js?v=340.367369323275660961"></script>
+<script type="text/javascript" src="http://d1mjz968h1hn50.cloudfront.net/assets/js/v2/mixpanel.js?v=340.367369323275660961"></script>
+
+<script type="text/javascript" src="http://d1mjz968h1hn50.cloudfront.net/assets/js/jquery.timeago.js?v=340.367369323275660961"></script>
+<script type="text/javascript" src="http://d1mjz968h1hn50.cloudfront.net/assets/js/pixoto.comments.Comments.js?v=340.367369323275660961"></script>
 
 
 
@@ -643,5 +747,25 @@
     <!-- Start Alexa Certify Javascript -->
     <script type="text/javascript" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script type="text/javascript">_atrk_opts = { atrk_acct: "9X8ff1aMIw00WB", domain:"pixoto.com"}; atrk ();</script><noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=9X8ff1aMIw00WB" style="display:none" height="1" width="1" alt="" /></noscript>
     <!-- End Alexa Certify Javascript -->
+	
+	<!-- Google Code for Remarketing tag -->
+	<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
+	<script type="text/javascript">
+	/* <![CDATA[ */
+	var google_conversion_id = 1016479215;
+	var google_conversion_label = "6ikpCLGUzwUQ7_vY5AM";
+	var google_custom_params = window.google_tag_params;
+	var google_remarketing_only = true;
+	/* ]]> */
+	</script>
+	<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+	</script>
+	<noscript>
+	<div style="display:inline;">
+	<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1016479215/?value=0&amp;label=6ikpCLGUzwUQ7_vY5AM&amp;guid=ON&amp;script=0"/>
+	</div>
+	</noscript>
+
+
 
 </body></html>
