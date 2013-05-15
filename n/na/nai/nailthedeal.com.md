@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nailthedeal.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014125243id_/http%3A//www.nailthedeal.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nailthedeal.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515101000id_/http%3A//www.nailthedeal.com/about/privacy.php) for the most accurate reproduction.*
 
-# Privacy statement |Abu Dhabi GroupBuy|Nail the Deal - Nail the Deal |Abu DhabiVoucher|Abu Dhabi Discount
+# Privacy statement |Dubai GroupBuy|Nail the Deal - Nail the Deal |DubaiVoucher|Dubai Discount
 
 Nail The Deal the provider of the Website (referred to as "us" or "we"), is firmly committed to protecting the privacy of our users. Our goal is to provide you with a secure online experience and to ensure that any information you submit to us is private and used/disclosed only for the purposes and in the means described below. This Privacy Policy discloses the privacy practices for the Nail The Deal websites (collectively, the "Website"). Please read the following to learn what information we collect from you (the "User" or the "End User") and how we use that information.
 
