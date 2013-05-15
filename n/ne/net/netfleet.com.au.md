@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the netfleet.com.au privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630190943id_/http%3A//www.netfleet.com.au/index.php%3Fa%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netfleet.com.au privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515214448id_/http%3A//www.netfleet.com.au/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy | Netfleet - The .AU Aftermarket
+# Privacy Policy - Buy & Sell Domains | Netfleet: Australia's No.1 Domain Name Trading Platform
+
+## Privacy Policy
 
 The privacy of any personal information you provide is extremely important to us. The following privacy policy governs the collection and use of your personal information by Netfleet. This privacy policy sets out how we are committed to respect your rights to privacy in accordance with the National Privacy Principles contained in the Privacy Act 1988.
 
@@ -67,3 +69,6 @@ If you believe for any reason that we are holding inaccurate or incomplete data 
 
   
 You can make any requests relating to your personal information held by us by contacting any member of staff via our [Contact Us](https://web.archive.org/index.php?a=contact "Contact Us") form.
+
+  
+
