@@ -1,26 +1,71 @@
-<!--The following is the downloaded HTML source of the animoto.com privacy policy that was archived on 2012-12-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121225030809id_/http%3A//animoto.com/legal/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the animoto.com privacy policy that was archived on 2013-05-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130515194359id_/http%3A//animoto.com/legal/privacy_policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en" class="no-js" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
-        <script id="optify-js" src="//service.optify.net/opt.js" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://d14pr3cu5atb0x.cloudfront.net/assets/webfont_1b1cbea99379403cb661e02abbf947c3.js?74d276e9d25d86aa1d1d8dea018739526b1e7bf2" type="text/javascript" async=""></script><script type="text/javascript">
+<!DOCTYPE html><html lang="en" class="no-js"><head>
+        <script id="optify-js" src="//service.optify.net/opt.js" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//d1blhlclo6nn6b.cloudfront.net/js-packages/webfont_5177e77be469e997452892936fe181ec.js" type="text/javascript" async=""></script><script type="text/javascript">
           if (top !== self) top.location.href = self.location.href;
+          window.onerror = function(m, f, l) {
+  var new_xhr = function() {
+        var xhr;
+        if (window.XMLHttpRequest) {
+           xhr = new XMLHttpRequest();
+        } else if (window.ActiveXObject) {
+          try {
+            xhr = new ActiveXObject("Msxml2.XMLHTTP");
+          } catch (e) {
+            xhr = new ActiveXObject("Microsoft.XMLHTTP");
+          }
+        }
+        return xhr;
+      },
+      _encode = function(data) {
+        var result = "",
+            e      = encodeURIComponent;
+        for (var k in data) {
+          if (data.hasOwnProperty(k)) {
+            result += '&' + e(k) + '=' + e(data[k]);
+          }
+        }
+        return result;
+      }
+      getCSRF = function(){
+        var m = document.getElementsByTagName('meta'),
+            i = m.length,
+            csrf = "csrf-token";
+        while(i--) {
+          var name = m[i].getAttribute('name');
+          if(name === csrf) {
+            return m[i].getAttribute('content');
+            break;
+          }
+        }
+      },
+      xhr     = new_xhr(),
+      url     = '/w/javascript_errors',
+      payload = _encode({ 'counter[kind]': 'page_js_error', 'counter[notes]': 'message=' + m + ', file=' + f + ', line=' + l, url: window.location.toString()});
+  xhr.open("POST", url);
+  xhr.setRequestHeader('Content-type', 'application/x-www-form-urlencoded');
+  xhr.setRequestHeader("X-CSRF-Token", getCSRF());
+  xhr.send(payload);
+};
+
         </script>
         <meta name="csrf-param" content="authenticity_token">
-<meta name="csrf-token" content="3tKdEbIhqOszhGCMf8qsCMCCq/NycArbQD8EM9+bw88=">
+<meta name="csrf-token" content="9DcjWb6llQFL6b8wK/SfpHd2T/Q8f4lIrKEZfrbjDMc=">
         <script type="text/javascript">
 //<![CDATA[
-var AUTH_TOKEN = "3tKdEbIhqOszhGCMf8qsCMCCq/NycArbQD8EM9+bw88=";
+var AUTH_TOKEN = "9DcjWb6llQFL6b8wK/SfpHd2T/Q8f4lIrKEZfrbjDMc=";
 //]]>
 </script>
         <script type="text/javascript">
           WebFontConfig = {
-  custom: { families: ['FFDin', 'ProximaNova', 'ProximaNova-Bold'],
-  urls: [ 'http://d14pr3cu5atb0x.cloudfront.net/assets/webfont_8b8b7c38174b8c480a547786a2796586.css?74d276e9d25d86aa1d1d8dea018739526b1e7bf2' ] }
+  custom: { families: ['ProximaNova', 'ProximaNova-Bold', 'ProximaNova-Cond'],
+  urls: [ '//d1blhlclo6nn6b.cloudfront.net/css-packages/webfont_606390c7a6a34d202485f1b204e27bc3.css' ] }
 };
 
 (function() {
   var wf = document.createElement('script');
-  wf.src = 'http://d14pr3cu5atb0x.cloudfront.net/assets/webfont_1b1cbea99379403cb661e02abbf947c3.js?74d276e9d25d86aa1d1d8dea018739526b1e7bf2';
+  wf.src = '//d1blhlclo6nn6b.cloudfront.net/js-packages/webfont_5177e77be469e997452892936fe181ec.js';
   wf.type = 'text/javascript';
   wf.async = 'true';
   var s = document.getElementsByTagName('script')[0];
@@ -37,15 +82,19 @@ var AUTH_TOKEN = "3tKdEbIhqOszhGCMf8qsCMCCq/NycArbQD8EM9+bw88=";
         _gaq.push(obj);
       };
 
-  trackInitialVariable(['_setMaxCustomVariables',10]);
-  trackInitialVariable(['_setAccount','UA-1450253-1']);
+  var _animoto_ga_profiles = {};
+  _animoto_ga_profiles['default'] = 'UA-1450253-1';
+  _animoto_ga_profiles['media_player'] = 'UA-1450253-16';
+
+  trackInitialVariable(['_setAccount',_animoto_ga_profiles['default']]);
   trackInitialVariable(['_setDomainName','.animoto.com']);
   trackInitialVariable(['_initData']);
   trackInitialVariable(['_trackPageLoadTime']);
-  trackInitialVariable(['_setCustomVar', 1, 'Account', 'visitor:' + window.devicePixelRatio + 'x']);
+
+  trackInitialVariable(['_setCustomVar', 1, 'Account', 'visitor:none:none:' + parseFloat(window.devicePixelRatio).toFixed(2) + 'x']);
+  
   trackInitialVariable(['_setCustomVar', 4, 'FB Connect/Signup', 'x:x']);
   trackInitialVariable(['_setCustomVar', 2, 'Demographic', '']);
-  trackInitialVariable(['_setCustomVar', 6, 'FBProxyEmail', '']);
 </script>
 <script src="//cdn.optimizely.com/js/42806793.js"></script>
 <script type="text/javascript">
@@ -73,327 +122,290 @@ var AUTH_TOKEN = "3tKdEbIhqOszhGCMf8qsCMCCq/NycArbQD8EM9+bw88=";
 </script>
 
         <meta http-equiv="content-type" content="text/html; charset=utf-8">
-        <meta http-equiv="content-language" content="en-us">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1.0">
+
+        <meta name="viewport" content="width=device-width">
         <meta name="keywords" content="">
         <meta name="description" content="">
         <meta name="application-name" content="Animoto">
         <meta property="fb:app_id" content="2415716319">
         <meta name="application-url" content="http://www.animoto.com">
-        <meta name="apple-itunes-app" content="app-id=459248037" affiliate-data="partnerId=30&amp;siteId=0alxMR3GijA">
 
-        <meta property="og:title" content="Legal - Privacy Policy">
-        <meta property="og:description" content="">
-        <meta property="og:type" content="website">
-        <meta property="og:image" content="http://edge1.animoto.com/images/twentythree/icons/shortcut_48x48.png">
-        <meta property="og:site_name" content="Animoto">
-        <meta property="og:url" content="http://animoto.com/legal/privacy_policy">
 
-        <title>Animoto - Legal - Privacy Policy</title>
+        <title>Animoto - Legal: Privacy Policy</title>
         <!--[if (!IE)|(gte IE 8)]><!-->
-<link href="http://d14pr3cu5atb0x.cloudfront.net/assets/twentythree-datauri_22c85e93cf8cf80afaf463e9a0a1671a.css?74d276e9d25d86aa1d1d8dea018739526b1e7bf2" media="screen" rel="stylesheet" type="text/css">
+<link href="//d1blhlclo6nn6b.cloudfront.net/css-packages/datauri/phoenix_0b8cdf8a753d90ccf3818aeae90642e1.css?88e67f0d7fd6b48e29dbedb45ddb9b14797c574d" media="screen" rel="stylesheet" type="text/css">
 <!--<![endif]-->
 <!--[if lte IE 7]>
-<link href="http://d14pr3cu5atb0x.cloudfront.net/assets/twentythree_d47501aa4f2df089c62d4f5ec850d503.css?74d276e9d25d86aa1d1d8dea018739526b1e7bf2" media="screen" rel="stylesheet" type="text/css" />
+<link href="//d1blhlclo6nn6b.cloudfront.net/css-packages/phoenix_2d3ce33eff732a25710bb7ee56ac24bb.css?88e67f0d7fd6b48e29dbedb45ddb9b14797c574d" media="screen" rel="stylesheet" type="text/css" />
 <![endif]-->
-        <script src="http://d14pr3cu5atb0x.cloudfront.net/assets/modernizr_e72e14ff7944295158bf9db1e2e06a40.js?74d276e9d25d86aa1d1d8dea018739526b1e7bf2" type="text/javascript"></script>
-        <script src="http://d14pr3cu5atb0x.cloudfront.net/assets/core_a26c646dd71d03cd5c25ecba9470dd20.js?74d276e9d25d86aa1d1d8dea018739526b1e7bf2" type="text/javascript"></script>
-        <script src="http://d14pr3cu5atb0x.cloudfront.net/assets/util_all_2343019670e833eaeea9144feccb39b2.js?74d276e9d25d86aa1d1d8dea018739526b1e7bf2" type="text/javascript"></script>
+        
 
-          <script type="text/javascript">
-
-  animoto.player.MINIMUM_FLASH_VERSION = "10.3";
-  animoto.player.EXPRESS_INSTALL_SWF   = "http://static.animoto.com/swf/playerProductInstall.swf";
-
-  window.CURRENT_SSL_PLAYER_SWF = "https://d150hyw1dtprld.cloudfront.net/swf/vp1-7.0.27.swf"; // temporary workaround
-  window.CURRENT_PLAYER_SWF = "http://static.animoto.com/swf/w.swf?w=swf/vp1";
-  window.CURRENT_EDITOR_SWF = "http://static.animoto.com/swf/AnimotoVideoclipEditor.swf";
-
-  </script>
-
-
-        <link rel="shortcut icon" href="/favicon.ico">
-        <link rel="apple-touch-icon" href="http://edge1.animoto.com/images/twentythree/icons/shortcut_48x48.png">
-
+        <link rel="shortcut icon" href="//d1blhlclo6nn6b.cloudfront.net/images/icons/favicon_a015c4373ba7b3d975ea9a8648929200.ico">
+        <link rel="apple-touch-icon-precomposed" sizes="144x144" href="//d1blhlclo6nn6b.cloudfront.net/images/icons/touchicon-144_59ca202989e36f9958c660be06ad96c4.png">
+        <link rel="apple-touch-icon-precomposed" sizes="114x114" href="//d1blhlclo6nn6b.cloudfront.net/images/icons/touchicon-114_da510026e60e05f52433903cbef3adb5.png">
+        <link rel="apple-touch-icon-precomposed" sizes="72x72" href="//d1blhlclo6nn6b.cloudfront.net/images/icons/touchicon-72_eada4c1d07f855e9bfe0a9bba80d8b17.png">
+        <link rel="apple-touch-icon-precomposed" href="//d1blhlclo6nn6b.cloudfront.net/images/icons/touchicon-57_fbf4ff2e4c3c93932a4aea916071884a.png">
+        <meta name="apple-itunes-app" content="app-id=459248037" affiliate-data="partnerId=30&amp;siteId=0alxMR3GijA">
+        <script src="//d1blhlclo6nn6b.cloudfront.net/js-packages/modernizr_b603b9a692be5199a39427b7f2207cd4.js?88e67f0d7fd6b48e29dbedb45ddb9b14797c574d" type="text/javascript"></script>
+        
         
     </head>
-    <!--[if lt IE 7 ]> <body class="ie6 page  fb-feature-on  fb-no-session sidebarpage " id=""> <![endif]-->
-    <!--[if IE 7 ]> <body class="ie7 page  fb-feature-on  fb-no-session sidebarpage " id=""> <![endif]-->
-    <!--[if IE 8 ]> <body class="ie8 page  fb-feature-on  fb-no-session sidebarpage " id=""> <![endif]-->
-    <!--[if IE 9 ]> <body class="ie9 page  fb-feature-on  fb-no-session sidebarpage " id=""> <![endif]-->
-    <!--[if (gt IE 9)|!(IE)]><!--><body class="page  fb-feature-on  fb-no-session sidebarpage " id=""> <!--<![endif]-->
+    <!--[if IE 7 ]> <body class="ie7 page  fb-feature-on  fb-no-session company-legal" > <![endif]-->
+    <!--[if IE 8 ]> <body class="ie8 page  fb-feature-on  fb-no-session company-legal" > <![endif]-->
+    <!--[if IE 9 ]> <body class="ie9 page  fb-feature-on  fb-no-session company-legal" > <![endif]-->
+    <!--[if (gt IE 9)|!(IE)]><!--><body class="page company-legal"> <!--<![endif]-->
 
-    <!-- Start wrapper div to simulate fixed positioning for IE6 -->
-    <!--[if lte IE 6]>
-    <div id="wrapper">
-    <![endif]-->
-            <div class="header">
-  <div class="container dark">
-    <div class="last session">
-        <ul role="navigation" class="horizontal">
-            <li class="create-video"><a href="/create" class="btn track-global_header-create_video">Create video</a></li>
-            <li class="nav">
-              <a href="#" class="btn btn-micro btn-facebook fb_login_button_basic track-global_header-sign_in_fb"><span></span>Sign in with Facebook</a>
-            </li>
-            <li class="registration-promo"><a href="/sign_in" class="track-global_header-sign_in">Sign In</a> or <a href="/pricing" class="track-global_header-sign_up">Sign Up</a> </li>
+          <div id="global-header" class="header ">
+  <div class="container">
+    <div class="five columns">
+      <h1><a class="logo" href="/">Animoto</a></h1>
+    </div>
+    <div class="nineteen primary-column columns">
+      <div class="nav nav-primary">
+        <ul>
+          <li><a class="btn btn-small btn-important track-global_header-sign_up" href="/sign_up">Sign up</a></li>
+          <li><a class="track-global_header-sign_in" href="/sign_in">Log in</a></li>
         </ul>
+      </div>
+      <div class="nav no-user nav-secondary">
+        <ul><li class="track-global_nav-features" id="features"><a href="/features">Features</a></li><li class="track-global_nav-plans_and_pricing" id="pricing"><a href="/pricing">Pricing</a></li></ul>
+      </div>
     </div>
   </div>
 </div>
-            <div id="top-nav" class="container">
-            <!-- TOP NAV -->
-                    <div id="logo"><a href="/"><span></span>Animoto</a></div>
-                    <div id="cobrand"></div>
-                <div class="span-24 last" id="topnav">
-                       <h1 class="navbar-header"></h1>
-                        <ul class="horizontal topnav"><li class="top spinster track-global_nav-features" id="features"><a href="/features">Features</a></li><li class="top spinster track-global_nav-sample_videos" id="example_videos"><a href="/sample-videos">Sample Videos</a></li><li class="top track-global_nav-plans_and_pricing" id="products"><a href="/pricing?from=nav">Plans &amp; Pricing</a><ul><li id="compare"><a href="/pricing?from=nav">Compare Plans</a></li><li class="divider" id="gifts"><a href="/gifts">Gift Animoto</a></li><li id="extras"><a href="/extras">Extras</a></li></ul></li></ul>
-                </div>
-            </div>
 
-        <div class="container">
-           <div class="span-6">
-              <div class="span-6 sidenav dark last">
-                <ul><li id="overview"><a href="/about/">About Us</a></li><li id="buzz"><a href="/about/buzz">Buzz</a></li><li id="press"><a href="/about/press">Press Releases</a></li><li id="careers"><a href="/about/careers">Careers</a></li><li class="selected" id="legal"><a href="/legal/terms" class="selected">Legal</a><ul><li id="terms"><a href="/legal/terms">Terms of Service</a></li><li class="selected" id="privacy"><a href="/legal/privacy_policy" class="selected">Privacy Policy</a></li><li id="commercial"><a href="/legal/commercial_terms">Commercial Terms</a></li><li id="affiliate"><a href="/legal/affiliate_terms">Affiliate Agreement</a></li><li id="services"><a href="/legal/music_terms">Music Submission</a></li><li id="education"><a href="/legal/education_terms">Education Terms</a></li></ul></li></ul>
-              </div>
-              <div class="span-6 sidepromo">
-                <a href="http://animoto.com/blog/">
-                  <img alt="The Animoto Blog - Tips, Insights and News" height="166" src="http://d14pr3cu5atb0x.cloudfront.net/images/twentythree/banners/sidebar-blog_e84e3131bba3d6a3782f8923085d2e01.jpg" width="220">
-                </a>
-              </div>
-           </div>
-           <div class="span-content last content light pull-sidebar no-header ">
-                <h1 class="stripe ">Legal - Privacy Policy</h1>
-               
-<h3>1. Acknowledgement and acceptance of terms</h3> 
-<p> 
-  Animoto Inc (henceforward “Animoto”) values the protection of your privacy. This Privacy Policy sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our website. This Privacy Policy applies to www.animoto.com as well as Animoto's application, widget or gadget for mobile devices (such as iPhone) and social networks (including but not limited to Facebook Platform or Google OpenSocial) (each, a "Site"). The Site is not directed to children.
-</p>
-<p>
-  Animoto has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with <a href="http://www.truste.com/privacy-program-requirements/" target="_blank">TRUSTe's program requirements</a> including transparency, accountability and choice regarding the collection and use of your personal information.  The TRUSTe program does not cover information that may be collected through downloadable software.  The TRUSTe program covers only information that is collected through this Web site, www.animoto.com, and does not cover information that may be collected through our any mobile applications or social networking applications.  
-</p>
-<p>
-  TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. <em>If you have questions or complaints regarding our privacy policy or practices, please contact us at</em> <a href="mailto:contact@animoto.com">contact@animoto.com</a>. If you are not satisfied with our response you can contact <a href="http://watchdog.truste.com/pvr.php?page=complaint" target="_blank">TRUSTe here</a>.
-</p>
-<p> 
-  If you do not agree to these terms, please do not access or use this site. 
-</p> 
-
-<h3>2. Participating Third Party Policies</h3> 
-<p> 
-  The Site may contain links to related services and offerings, including vendor sites. These third parties may have their own privacy policies that can be viewed on their websites or by contacting these third parties directly. Since we do not have direct control over the policies or practices of third parties, we are not responsible for the privacy practices or contents of those sites. We recommend and encourage that you always review the privacy policies of these third parties before you provide any personal information or complete any transaction with such parties. 
-</p> 
-
-<h3>3. Information We Collect and How We Use It</h3> 
-<p> 
-  We collect certain information from and about our users three ways: (1) directly from our web Server logs, (2) with Cookies, and (3) from you, the user. We do not collect information about the specifics of who you are ("Personally Identifiable Information") unless you specifically provide it to us. 
-</p> 
-<ol> 
-  <li>
-    <h4>Web Server Logs</h4> 
-    <p> 
-      When you visit our Site, we may track information to administer the Site and analyze its usage. None of this information is Personally Identifiable Information. Examples of information we may track include, but are not limited to: 
-    </p> 
-    <ul> 
-      <li>Your Internet protocol address.</li> 
-      <li>The kind of browser or computer you use.</li> 
-      <li>Number of links you click within the site.</li> 
-      <li>State or country from which you access the site.</li> 
-      <li>Date and time of your visit.</li> 
-      <li>Name of your Internet service provider.</li> 
-      <li>Web pages from which you link to our site.</li> 
-      <li>Web pages you go to from our site.</li> 
-      <li>Pages you view on our site.</li> 
-    </ul> 
-  </li> 
-  <li> 
-    <h4>Use of Cookies</h4> 
-    <p> 
-      We use cookies to personalize or enhance your user experience. A cookie is a small text file that is placed on your hard disk by a web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you. 
-    </p> 
-    <p> 
-      One of the primary purposes of cookies is to provide a convenience feature to save you time. For example, if you personalize a web page, or navigate within a site, a cookie helps the site to recall your specific information on subsequent visits. Hence, this simplifies the process of delivering relevant content and eases site navigation by providing and saving your preferences and login information as well as providing personalized functionality. 
-    </p> 
-    <p> 
-      The type of information that may be stored in a cookie includes non-Personally Identifiable Information about you, such as a randomly assigned user or session identification number, the country where you are located, and your first name to welcome you back to the site. 
-    </p> 
-    <p> 
-      We reserve the right to share aggregated site statistics with third parties, but will not allow other companies to place cookies on our website unless there is a temporary, overriding customer value (such as merging into our Site another site that relies on third-party cookies). 
-    </p> 
-    <p> 
-      You have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you reject cookies by changing your browser settings then be aware that this will disable the functionality of our Site. 
-    </p> 
-    <p>
-      Our Web site includes Social Media Features such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and&nbsp;may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it. 
-    </p>
-  </li> 
-  <li> 
-    <h4>Personal Information Entered by Users</h4> 
-    <p> 
-      You provide certain Personally Identifiable Information to us when you register with us, send us email messages, submit forms to us, or provide information to us by any means. When you register, we will request some personal information which may include your name, address, email, telephone number or facsimile number, account number, and may include other relevant information. You may also be asked to disclose personal information to us so that we can provide assistance and information to you. For example, such data may be warranted in order to provide online technical support and troubleshooting. 
-    </p> 
-    <p> 
-      You may also provide certain Personally Identifiable Information to us regarding third parties. For instance, when you share your Animoto video with others, you provide and we collect the email addresses of the people with whom you want to share your video.
-    </p>
-    <p>
-      You can log in to our site using Facebook Connect. This service will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form.&nbsp; Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.&nbsp; &nbsp;
-    </p>  
-    <p>
-      Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at <a href="mailto:contact@animoto.com">contact@animoto.com</a>.  In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
-    </p>
-    <p>
-      If you choose to use our referral service to tell a friend about our site, we will ask you for your friend’s name and email address.  We will automatically send your friend a one-time email inviting him or her to visit the site.  Animoto stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program.  
-    </p>
-    <p>
-      Your friend may contact us to request that we remove this information from our database.
-    </p>
-    <p> 
-      We will not sell, trade, or rent Personally Identifiable Information to others. Furthermore, we will not disclose Personally Identifiable Information we collect from you to third parties without your permission, except to the extent necessary: 
-    </p> 
-    <ul> 
-      <li>To fulfill your service request,</li> 
-      <li>To protect ourselves from liability,</li> 
-      <li>To respond to a court order or subpoena, to comply with an investigation, or to comply with applicable laws or rules, or</li> 
-      <li>In connection with a merger, acquisition, or liquidation of the company.</li> 
-    </ul> 
-    <p> 
-      We reserve the right to report to law enforcement agencies any activities that we in good faith believe to be unlawful.
-    </p> 
-    <p> 
-      We may provide your personal information to companies that provide services to help us with our business activities such as shipping your order or offering customer service. These companies are authorized to use your personal information only as necessary to provide these services to us.
-    </p> 
-    <p> 
-      For terms relating to areas of this Site that allow you to communicate and/or submit information on or through the Site, such as bulletin board postings, email, messages, suggestions, ideas, \ photographs, video music, text, drawings, or concepts, please refer to our terms of service. 
-    </p> 
-  </li> 
-</ol> 
-
-<h3>4. Use of Web Beacons or GIF files</h3> 
-<p> 
-  We reserve the right to include on our Site electronic images known as web beacons sometimes also called single-pixel gifs that allow us to count users who have visited those pages and to deliver co-branded services. We reserve the right to include web beacons in promotional email messages or newsletters in order to determine whether messages have been opened and acted upon. 
-</p> 
-<p> 
-  If included on our site, web beacons may be placed by third party service providers to help determine the effectiveness of our advertising campaigns or email communications. You should visit those service provider's web pages to review their privacy policies; see paragraph 2 above. We prohibit web beacons from being used by third parties to collect or access your Personally Identifiable Information. 
-</p>
-<p>
-  We partner with a third party ad network to manage our advertising on other sites.  Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests.  If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking <a href="http://preferences.truste.com/" target="_blank">here</a>.  Please note this does not opt you out of being served advertising.  You will continue to receive generic ads.
-</p>
-<h3>5. Accessing Web Account Information</h3> 
-<p> 
-  We will provide you with the means to ensure that Personally Identifiable Information that we have on file for you is correct and current. You must update your Personally Identifiable Information promptly after it changes. You may review this information by <a href="mailto:contact@animoto.com">sending us an email</a>. You may ask to have the information on your account deleted or removed at any time. We will use reasonable efforts to delete your information; however, because we and our web hosting company have backup systems and keep track of past transactions and/or activities, it may be impossible to completely delete your information.
-</p> 
-<h3>6. User Communication</h3> 
-<p> 
-  We may, from time to time, send you email regarding our services. In addition, if you indicate upon registration that you are interested in receiving offers or information from us, we may occasionally send you direct mail about products and services that may be of interest to you. Only Animoto will send you these direct mailings, and only if you indicated that you are interested in receiving these offers. If you do not want these mailings, you can tell us when you submit or edit your Personally Identifiable Information. 
-</p> 
-<h3>7. Security of Information</h3> 
-<p> 
-  We will keep your Personally Identifiable Information secure consistent with current industry standards. Security of your Personally Identifiable Information is of utmost concern to us. Personally Identifiable Information, once transmitted to us, will be stored on computers that only selected personnel and contractors have access to via password, and/or on web hosting servers maintained by Amazon Web Services, which employs its own physical and network security measures. In addition, your Animoto videos and/or content may be stored on Amazon Web Services servers. A copy of Amazon Web Services' Privacy Policy may be obtained <a href="http://www.amazon.com/AWS-License-home-page-Money/b?ie=UTF8&amp;node=3440661#gen1" target="_blank">here</a>.
-</p> 
-<p> 
-  Your Animoto videos and user content are limited-access, where access is gained through an obscured URL system. This obscured URL makes it difficult if not impossible for a third party to guess the URL address of your video or content without an invitation from you including the relevant URL. However, because the videos and content are not password-protected, a possibility exists that an unauthorized third party could discover your videos and/or content. 
-</p> 
-
-<h3>8. Changes to this Statement</h3> 
-<p> 
-  Animoto has the discretion to update this privacy policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
-</p> 
-
-<h3>9. EU and Swiss Safe Harbor</h3>
-<p>
-  Animoto complies with the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Animoto has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.&nbsp; To learn more about the Safe Harbor program, and to view Animoto’s certification, please visit <a href="http://www.export.gov/safeharbor/" target="_blank">http://www.export.gov/safeharbor/</a>.
-</p>
-<h3>10. Contacting Us</h3> 
-<p>If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please contact us at:</p>
-
-<p id="" class="vcard"> 
-  <span class="org">Animoto Inc.</span>(<a class="email" href="mailto:contact@animoto.com">contact@animoto.com</a>) <br>
-  <span class="adr"> 
-    <span class="street-address">440 Lafayette St, Fl 2</span><br>
-    <span class="locality">New York</span>, <span class="region">NY</span>, <span class="postal-code">10003</span><br>
-    <span class="country-name">USA</span> 
-  </span> 
-</p> 
-<p>If you have questions or concerns regarding this Policy, you should first <a href="mailto:contact@animoto.com">contact us</a>.  We will respond to your request within 30 days.   If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by <a href="http://www.truste.com/about_TRUSTe/contact_us" target="_blank">clicking here</a>, by fax at 415-520-3420, or mail to <a href="http://www.truste.com/about_TRUSTe/contact_us" target="_blank">TRUSTe Safe Harbor Compliance Dept</a>.  If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, click <a href="http://www.truste.com/why_TRUSTe_privacy_services/online-privacy-watchdog" target="_blank">here</a> or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English.
-</p> 
-
-<p><strong>This document was last updated on March 2, 2012.</strong></p>
-           </div>
-
-        </div>
-        <div class="ribbon">
-           <p>Turn your photos &amp; videos into pure amazing. <a href="/sign_up" class="track-sign_up_now">Sign up now!</a></p>
-        </div>
-        <div class="footer dark thinribbon" id="footer">
-            <div class="container">
-    <div class="span-5">
-        <p>
-          <a href="/" class="footerpic footerpic-logo"></a>
-        </p>
-        <a href="https://www.facebook.com/Animoto" target="_blank" class="feed footerpic footerpic-facebook"></a>
-        <a href="http://twitter.com/animoto" target="_blank" class="feed footerpic footerpic-twitter"></a>
-        <a href="https://plus.google.com/111651998107051417603" target="_blank" rel="publisher" class="feed footerpic footerpic-googleplus"></a>
-        <a href="http://animoto.com/blog/" target="_blank" class="feed footerpic footerpic-rss"></a>
-        <p class="legal">
-            <a href="/legal/terms">Terms of Service</a> | <a href="/legal/privacy_policy">Privacy Policy</a><br>
-            © 2012 Animoto Productions
-        </p>
-        <div id="e1cee667-26d2-48fa-ac2f-a9a55373cd68" class="footerpic footerpic-trust_e"><a class="init-link" href="//privacy.truste.com/privacy-seal/Animoto-Inc-/validation?rid=729246f8-85ff-4f04-afe4-51d9aca3eede" title="TRUSTe online privacy certification" target="_blank"></a></div>
+        
+          <div class="subheader-bg"></div>
+          <div class="supercontainer">
+  <div class="container subheader">
+    <div class="twentyfour columns clearfix">
+      <h2>Legal</h2>
+      <div class="subheader-nav">
+        <ul><li id="overview"><a href="/about">About Us</a></li><li id="buzz"><a href="/about/buzz">Buzz</a></li><li id="press"><a href="/about/press">Press Releases</a></li><li id="careers"><a href="/about/careers">Careers</a></li><li class="selected" id="legal"><a href="/legal/terms" class="selected">Legal</a></li></ul>
+      </div>
     </div>
-    <div class="span-3 heading">
-        <h5>Animoto For</h5>
-        <ul>
-            <li><a href="/pro/business" class="track-global_footer-business">Business</a></li>
-            <li><a href="/pro/photography" class="track-global_footer-photography">Photography</a></li>
-            <li><a href="/pro/realestate" class="track-global_footer-real_estate">Real Estate</a></li>
-            <li><a href="/education" class="track-global_footer-education">Education</a></li>
-            <li><a href="/cause" class="track-global_footer-charity">Charity/Non-Profits</a></li>
-        </ul>
-    </div>
-    <div class="push-box span-3 heading">
-        <h5>Product</h5>
-        <ul>
-            <li><a href="/features" class="track-global_footer-features">Features</a></li>
-            <li><a href="/pricing?from=nav" class="track-global_footer-plans_and_pricing">Plans &amp; Pricing</a></li>
-            <li><a href="/extras">Extras</a></li>
-            <li><a href="http://help.animoto.com">Help &amp; Support</a></li>
-        </ul>
-    </div>
-    <div class="push-box span-3 heading">
-        <h5>Partners</h5>
-        <ul>
-            <li><a href="/developer">Developers</a></li>
-            <li><a href="/affiliates">Affiliate Program</a></li>
-        </ul>
-    </div>
-    <div class="push-box span-3 heading">
-        <h5>Company</h5>
-        <ul>
-            <li><a href="/about">About Us</a></li>
-            <li><a href="http://animoto.com/blog/">Blog</a></li>
-            <li><a href="/about/press">Press</a></li>
-            <li><a href="/about/careers">Careers</a></li>
-        </ul>
-    </div>
-    <div class="push-box span-5 last">
-        <div class="alignright">
-            <p>
-              <a href="/extras/iphone" target="_blank" class="footerpic footerpic-appstore track-global_footer-app_store"></a>
-            </p>
-            <p>
-                <a href="/extras/android" target="_blank" class="footerpic footerpic-googleplay track-global_footer-google_play"></a>
-            </p>
-            <p>
-              <a href="/referrals" class="footerpic footerpic-tellafriend track-global_footer-tell_a_friend"></a>
-            </p>
-            <p class="element-invisible"><a href="/sitemap">Sitemap</a></p>
-        </div>
-    </div>
+  </div>  
 </div>
+
+          <div class="supercontainer supercontainer-standard">
+            <div class="container">
+
+        <div class="six columns push-by-eighteen module-nav">
+  <div class="tertiary-nav">
+    <h5>Legal:</h5> <ul><li id="terms"><a href="/legal/terms">Terms of Service</a></li><li class="selected" id="privacy"><a href="/legal/privacy_policy" class="selected">Privacy Policy</a></li><li id="commercial"><a href="/legal/commercial_terms">Commercial Terms</a></li><li id="services"><a href="/legal/music_terms">Music Submission</a></li><li id="education"><a href="/legal/education_terms">Education Terms</a></li></ul>
+  </div>
+</div>
+<div class="sixteen columns module-terms pull-by-six">
+  <h3>1. Acknowledgement and acceptance of terms</h3>
+  <p>
+    Animoto Inc (henceforward “Animoto”) values the protection of your privacy. This Privacy Policy sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our website. This Privacy Policy applies to www.animoto.com as well as Animoto's application, widget or gadget for mobile devices (such as iPhone) and social networks (including but not limited to Facebook Platform or Google OpenSocial) (each, a "Site"). The Site is not directed to children.
+  </p>
+  <p>
+    Animoto has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with <a href="http://www.truste.com/privacy-program-requirements/" target="_blank">TRUSTe's program requirements</a> including transparency, accountability and choice regarding the collection and use of your personal information.  The TRUSTe program does not cover information that may be collected through downloadable software.  The TRUSTe program covers only information that is collected through this Web site, www.animoto.com, and does not cover information that may be collected through our any mobile applications or social networking applications.
+  </p>
+  <p>
+    TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. <em>If you have questions or complaints regarding our privacy policy or practices, please contact us at</em> <a href="mailto:contact@animoto.com">contact@animoto.com</a>. If you are not satisfied with our response you can contact <a href="http://watchdog.truste.com/pvr.php?page=complaint" target="_blank">TRUSTe here</a>.
+  </p>
+  <p>
+    If you do not agree to these terms, please do not access or use this site.
+  </p>
+
+  <h3>2. Participating Third Party Policies</h3>
+  <p>
+    The Site may contain links to related services and offerings, including vendor sites. These third parties may have their own privacy policies that can be viewed on their websites or by contacting these third parties directly. Since we do not have direct control over the policies or practices of third parties, we are not responsible for the privacy practices or contents of those sites. We recommend and encourage that you always review the privacy policies of these third parties before you provide any personal information or complete any transaction with such parties.
+  </p>
+
+  <h3>3. Information We Collect and How We Use It</h3>
+  <p>
+    We collect certain information from and about our users three ways: (1) directly from our web Server logs, (2) with Cookies, and (3) from you, the user. We do not collect information about the specifics of who you are ("Personally Identifiable Information") unless you specifically provide it to us.
+  </p>
+  <ol>
+    <li>
+      <h4>Web Server Logs</h4>
+      <p>
+        When you visit our Site, we may track information to administer the Site and analyze its usage. None of this information is Personally Identifiable Information. Examples of information we may track include, but are not limited to:
+      </p>
+      <ul class="bulletted">
+        <li>Your Internet protocol address.</li>
+        <li>The kind of browser or computer you use.</li>
+        <li>Number of links you click within the site.</li>
+        <li>State or country from which you access the site.</li>
+        <li>Date and time of your visit.</li>
+        <li>Name of your Internet service provider.</li>
+        <li>Web pages from which you link to our site.</li>
+        <li>Web pages you go to from our site.</li>
+        <li>Pages you view on our site.</li>
+      </ul>
+    </li>
+    <li>
+      <h4>Use of Cookies</h4>
+      <p>
+        We use cookies to personalize or enhance your user experience. A cookie is a small text file that is placed on your hard disk by a web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
+      </p>
+      <p>
+        One of the primary purposes of cookies is to provide a convenience feature to save you time. For example, if you personalize a web page, or navigate within a site, a cookie helps the site to recall your specific information on subsequent visits. Hence, this simplifies the process of delivering relevant content and eases site navigation by providing and saving your preferences and login information as well as providing personalized functionality.
+      </p>
+      <p>
+        The type of information that may be stored in a cookie includes non-Personally Identifiable Information about you, such as a randomly assigned user or session identification number, the country where you are located, and your first name to welcome you back to the site.
+      </p>
+      <p>
+        We reserve the right to share aggregated site statistics with third parties, but will not allow other companies to place cookies on our website unless there is a temporary, overriding customer value (such as merging into our Site another site that relies on third-party cookies).
+      </p>
+      <p>
+        You have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you reject cookies by changing your browser settings then be aware that this will disable the functionality of our Site.
+      </p>
+      <p>
+        Our Web site includes Social Media Features such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and&nbsp;may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+      </p>
+    </li>
+    <li>
+      <h4>Personal Information Entered by Users</h4>
+      <p>
+        You provide certain Personally Identifiable Information to us when you register with us, send us email messages, submit forms to us, or provide information to us by any means. When you register, we will request some personal information which may include your name, address, email, telephone number or facsimile number, account number, and may include other relevant information. You may also be asked to disclose personal information to us so that we can provide assistance and information to you. For example, such data may be warranted in order to provide online technical support and troubleshooting.
+      </p>
+      <p>
+        You may also provide certain Personally Identifiable Information to us regarding third parties. For instance, when you share your Animoto video with others, you provide and we collect the email addresses of the people with whom you want to share your video.
+      </p>
+      <p>
+        You can log in to our site using Facebook Connect. This service will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form.&nbsp; Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.&nbsp; &nbsp;
+      </p>
+      <p>
+        Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at <a href="mailto:contact@animoto.com">contact@animoto.com</a>.  In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+      </p>
+      <p>
+        If you choose to use our referral service to tell a friend about our site, we will ask you for your friend’s name and email address.  We will automatically send your friend a one-time email inviting him or her to visit the site.  Animoto stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program.
+      </p>
+      <p>
+        Your friend may contact us to request that we remove this information from our database.
+      </p>
+      <p>
+        We will not sell, trade, or rent Personally Identifiable Information to others. Furthermore, we will not disclose Personally Identifiable Information we collect from you to third parties without your permission, except to the extent necessary:
+      </p>
+      <ul class="bulletted">
+        <li>To fulfill your service request,</li>
+        <li>To protect ourselves from liability,</li>
+        <li>To respond to a court order or subpoena, to comply with an investigation, or to comply with applicable laws or rules, or</li>
+        <li>In connection with a merger, acquisition, or liquidation of the company.</li>
+      </ul>
+      <p>
+        We reserve the right to report to law enforcement agencies any activities that we in good faith believe to be unlawful.
+      </p>
+      <p>
+        We may provide your personal information to companies that provide services to help us with our business activities such as shipping your order or offering customer service. These companies are authorized to use your personal information only as necessary to provide these services to us.
+      </p>
+      <p>
+        For terms relating to areas of this Site that allow you to communicate and/or submit information on or through the Site, such as bulletin board postings, email, messages, suggestions, ideas, \ photographs, video music, text, drawings, or concepts, please refer to our terms of service.
+      </p>
+    </li>
+  </ol>
+
+  <h3>4. Use of Web Beacons or GIF files</h3>
+  <p>
+    We reserve the right to include on our Site electronic images known as web beacons sometimes also called single-pixel gifs that allow us to count users who have visited those pages and to deliver co-branded services. We reserve the right to include web beacons in promotional email messages or newsletters in order to determine whether messages have been opened and acted upon.
+  </p>
+  <p>
+    If included on our site, web beacons may be placed by third party service providers to help determine the effectiveness of our advertising campaigns or email communications. You should visit those service provider's web pages to review their privacy policies; see paragraph 2 above. We prohibit web beacons from being used by third parties to collect or access your Personally Identifiable Information.
+  </p>
+  <p>
+    We partner with a third party ad network to manage our advertising on other sites.  Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests.  If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking <a href="http://preferences.truste.com/" target="_blank">here</a>.  Please note this does not opt you out of being served advertising.  You will continue to receive generic ads.
+  </p>
+  <h3>5. Accessing Web Account Information</h3>
+  <p>
+    We will provide you with the means to ensure that Personally Identifiable Information that we have on file for you is correct and current. You must update your Personally Identifiable Information promptly after it changes. You may review this information by <a href="mailto:contact@animoto.com">sending us an email</a>. You may ask to have the information on your account deleted or removed at any time. We will use reasonable efforts to delete your information; however, because we and our web hosting company have backup systems and keep track of past transactions and/or activities, it may be impossible to completely delete your information.
+  </p>
+  <h3>6. User Communication</h3>
+  <p>
+    We may, from time to time, send you email regarding our services. In addition, if you indicate upon registration that you are interested in receiving offers or information from us, we may occasionally send you direct mail about products and services that may be of interest to you. Only Animoto will send you these direct mailings, and only if you indicated that you are interested in receiving these offers. If you do not want these mailings, you can tell us when you submit or edit your Personally Identifiable Information.
+  </p>
+  <h3>7. Security of Information</h3>
+  <p>
+    We will keep your Personally Identifiable Information secure consistent with current industry standards. Security of your Personally Identifiable Information is of utmost concern to us. Personally Identifiable Information, once transmitted to us, will be stored on computers that only selected personnel and contractors have access to via password, and/or on web hosting servers maintained by Amazon Web Services, which employs its own physical and network security measures. In addition, your Animoto videos and/or content may be stored on Amazon Web Services servers. A copy of Amazon Web Services' Privacy Policy may be obtained <a href="http://www.amazon.com/AWS-License-home-page-Money/b?ie=UTF8&amp;node=3440661#gen1" target="_blank">here</a>.
+  </p>
+  <p>
+    Your Animoto videos and user content are limited-access, where access is gained through an obscured URL system. This obscured URL makes it difficult if not impossible for a third party to guess the URL address of your video or content without an invitation from you including the relevant URL. However, because the videos and content are not password-protected, a possibility exists that an unauthorized third party could discover your videos and/or content.
+  </p>
+
+  <h3>8. Changes to this Statement</h3>
+  <p>
+    Animoto has the discretion to update this privacy policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+  </p>
+
+  <h3>9. EU and Swiss Safe Harbor</h3>
+  <p>
+    Animoto complies with the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Animoto has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.&nbsp; To learn more about the Safe Harbor program, and to view Animoto’s certification, please visit <a href="http://www.export.gov/safeharbor/" target="_blank">http://www.export.gov/safeharbor/</a>.
+  </p>
+  <h3>10. Contacting Us</h3>
+  <p>If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please contact us at:</p>
+
+  <p id="" class="vcard">
+    <span class="org">Animoto Inc.</span>(<a class="email" href="mailto:contact@animoto.com">contact@animoto.com</a>) <br>
+    <span class="adr">
+      <span class="street-address">440 Lafayette St, Fl 2</span><br>
+      <span class="locality">New York</span>, <span class="region">NY</span>, <span class="postal-code">10003</span><br>
+      <span class="country-name">USA</span>
+    </span>
+  </p>
+  <p>If you have questions or concerns regarding this Policy, you should first <a href="mailto:contact@animoto.com">contact us</a>.  We will respond to your request within 30 days.   If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by <a href="http://www.truste.com/about_TRUSTe/contact_us" target="_blank">clicking here</a>, by fax at 415-520-3420, or mail to <a href="http://www.truste.com/about_TRUSTe/contact_us" target="_blank">TRUSTe Safe Harbor Compliance Dept</a>.  If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, click <a href="http://www.truste.com/why_TRUSTe_privacy_services/online-privacy-watchdog" target="_blank">here</a> or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English.
+  </p>
+
+  <p><strong>This document was last updated on March 2, 2012.</strong></p>
+</div>
+
+<div id="fb-root"></div>
+
+        
+            </div><!-- main container end -->
+          </div><!-- supercontainer end -->
+
+        <div class="footer" id="footer">
+          <div class="container">
+  <div class="twentyfour columns">
+    <p class="logo">Animoto</p>
+  </div>
+  <div class="twentyfour columns">
+    <div class="nav nav-primary">
+      <ul>
+        <li><a class="track-global_footer-features" href="/features">Features</a></li><li><a class="track-global_footer-plans_and_pricing" href="/pricing">Plans &amp; Pricing</a></li><li><a class="track-global_footer-extras" href="/extras">Extras</a></li><li><a class="track-global_footer-developer" href="/developer">Developers</a></li><li><a class="track-global_footer-affiliates" href="/affiliates">Affiliates</a></li><li><a class="track-global_footer-about" href="/about">About Us</a></li><li><a class="track-global_footer-blog" href="http://animoto.com/blog/">Blog</a></li><li class="last"><a class="track-global_footer-help" href="http://help.animoto.com">Help</a></li>
+      </ul>
+    </div>
+
+    <div class="nav nav-secondary">
+      <p>Animoto for:</p>
+      <ul>
+        <li><a class="track-global_footer-photography" href="/pro/photography">Pro Photography</a></li><li><a class="track-global_footer-business" href="/pro/business">Business</a></li><li><a class="track-global_footer-realestate" href="/pro/real-estate">Real Estate</a></li><li><a class="track-global_footer-education" href="/pro/education">Education</a></li><li><a class="track-global_footer-charity" href="/cause">Non-Profits</a></li><li><a class="track-global_footer-weddings" href="/events/wedding-video-slideshows">Weddings</a></li><li><a class="track-global_footer-birthdays" href="/events/birthday-video-slideshows">Birthdays</a></li><li class="last"><a class="track-global_footer-travel" href="/events/vacation-video-slideshows">Travel</a></li>
+      </ul>
+    </div>
+
+    <div class="nav nav-sharecopyterms clearfix">
+      <p>© 2013 Animoto Inc. All Rights Reserved.
+        </p><ul class="termsprivacy">
+          <li><a href="/legal/terms" class="track-global_footer-terms">Terms</a></li><li class="last"><a href="/legal/privacy_policy" class="track-global_footer-privacy">Privacy</a></li>
+        </ul>
+      <p></p>
+      <div class="sharebadge-container">
+        <ul class="share">
+          <li><a href="https://www.facebook.com/Animoto" class="share-item facebook track-global_footer-facebook"><span></span></a></li>
+          <li><a href="http://twitter.com/animoto" class="share-item twitter track-global_footer-twitter"><span></span></a></li>
+          <li><a href="https://plus.google.com/111651998107051417603" class="share-item googleplus track-global_footer-googleplus"><span></span></a></li>
+        </ul>
+        <a href="https://play.google.com/store/apps/details?id=com.animoto.android.videoslideshow&amp;hl=en" class="appstore googleplay track-global_footer-googleplay">Android App on Google Play</a><a href="https://itunes.apple.com/us/app/animoto-video-maker/id459248037?mt=8" class="appstore itunes track-global_footer-itunes">Available on the App Store</a>
+      </div>
+    </div>
+  </div>
+</div>
+
         </div>
-        <div class="retargeting">
-          
-                    <script type="text/javascript">
+
+      <div id="modals">
+      </div>
+      <div id="notifications">
+</div>
+
+      
+      <div class="retargeting">
+        
+                <script type="text/javascript">
 (function(d, s, id) {
   var js, scr = d.getElementsByTagName(s)[0];
   if (d.getElementById(id)) {return;}
@@ -409,7 +421,7 @@ var AUTH_TOKEN = "3tKdEbIhqOszhGCMf8qsCMCCq/NycArbQD8EM9+bw88=";
 }(document, 'script', 'optify-js'));
 </script>
 
-          <div class="retargeting">
+        <div class="retargeting">
         <script type="text/javascript">
         /* <![CDATA[ */
             var google_conversion_id = 1032281598;
@@ -452,26 +464,31 @@ var AUTH_TOKEN = "3tKdEbIhqOszhGCMf8qsCMCCq/NycArbQD8EM9+bw88=";
     </div>
     </noscript>
 </div>
-          
-        </div>
-
-    <!-- End wrapper div to simulate fixed positioning for IE6 -->
-    <!--[if lte IE 6]>
-    </div>
-    <![endif]-->
-
-        <div id="notifications">
-</div>
-
-
-        <div id="modals">
-        </div>
         
-        
-  <div id="fb-root"></div>
-  <script type="text/javascript">
+      </div>
+        <script>
+    Modernizr.load({
+      load: ['//d1blhlclo6nn6b.cloudfront.net/js-packages/core_9707aa76c77e4c0b45ed6f4fe391fae6.js'],
+      complete: function() {
+        Modernizr.load({
+          load: ['//d1blhlclo6nn6b.cloudfront.net/js-packages/util_new_84479dd3ac04b82417d27a6eda2c6c7a.js'],
+          complete: function() {
+            
+  animoto.player.MINIMUM_FLASH_VERSION = "10.3";
+  animoto.player.EXPRESS_INSTALL_SWF   = "http://static.animoto.com/swf/playerProductInstall.swf";
+
+  window.CURRENT_SSL_PLAYER_SWF = "https://d150hyw1dtprld.cloudfront.net/swf/w.swf?w=swf/production/vp1"; // temporary workaround
+  window.CURRENT_PLAYER_SWF = "http://static.animoto.com/swf/w.swf?w=swf/production/vp1";
+  window.CURRENT_EDITOR_SWF = "http://static.animoto.com/swf/AnimotoVideoclipEditor.swf";
+
+
+            
 
   window.fbAsyncInit = function() {
+  if(typeof FB === 'undefined') {
+    return;
+  }
+  
   var port = (!!location.port && parseInt(location.port) != 80) ? ':' + location.port : '',
   fbPath = (typeof Func !== "undefined" && Func.hasPushState) ? "/visuals/services/facebook/" : "#visuals/services/facebook/",
   urlPrefix =  location.protocol + '//' + location.hostname + port,
@@ -507,22 +524,22 @@ var AUTH_TOKEN = "3tKdEbIhqOszhGCMf8qsCMCCq/NycArbQD8EM9+bw88=";
 
   FB.Event.subscribe('edge.create',
     function(response) {
-      _gaq.push(['_trackSocial', 'facebook', 'like', window.location]);
+      animoto.util.analytics.trackSocial('facebook', 'like', window.location);
     }
   );
   FB.Event.subscribe('edge.remove',
     function(response) {
-      _gaq.push(['_trackSocial', 'facebook', 'unlike', window.location]);
+      animoto.util.analytics.trackSocial('facebook', 'unlike', window.location);
     }
   );
   FB.Event.subscribe('comment.create',
     function(response) {
-      _gaq.push(['_trackSocial', 'facebook', 'comment', window.location]);
+      animoto.util.analytics.trackSocial('facebook', 'comment', window.location);
     }
   );
   FB.Event.subscribe('comment.remove',
     function(response) {
-      _gaq.push(['_trackSocial', 'facebook', 'uncomment', window.location]);
+      animoto.util.analytics.trackSocial('facebook', 'uncomment', window.location);
     }
   );
 
@@ -606,19 +623,28 @@ var AUTH_TOKEN = "3tKdEbIhqOszhGCMf8qsCMCCq/NycArbQD8EM9+bw88=";
 
 };
 
-(function() {
+(function(d, debug){
   animoto.util.browser.loggedIn = false;
-  var fb_script = location.protocol + '//connect.facebook.net/en_US/all.js',
-  fb_target = document.getElementById('fb-root');
-  animoto.util.addScript(fb_script, fb_target, function() {
-    animoto.fb.scriptSource = jQuery.extend(true, {}, FB);
-  });
-}())
+  var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+  if (d.getElementById(id)) {return;}
+  js = d.createElement('script'); js.id = id; js.async = true;
+  js.src = "//connect.facebook.net/en_US/all" + (debug ? "/debug" : "") + ".js";
+  ref.parentNode.insertBefore(js, ref);
+}(document, /*debug*/ false));
 
 
+
+
+            jQuery(document).ready(function() {
+});
+            $('.subheader-nav,.tertiary-nav').children('ul').tinyNav();
+          }
+        });
+      }
+    });
   </script>
 
-
     
+
 
 </body></html>
