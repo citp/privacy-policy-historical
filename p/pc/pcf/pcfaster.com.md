@@ -1,44 +1,21 @@
-> *The following text is extracted and transformed from the pcfaster.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011114244id_/http%3A//www.pcfaster.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcfaster.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515145555id_/http%3A//www.pcfaster.com/en/policy.php) for the most accurate reproduction.*
 
-# Startup Faster! 2004 - Make your PC Faster than ever.
+# Baidu PC Faster | We Make PC Faster
 
-We are committed to protecting your privacy and the privacy of information you provide to us.  **URSoft,Inc will never sell, rent, lease or even disclose customer information to third parties.**   Other terms of URSoft,Inc' privacy policy are as follows:
+## BAIDU’S STATEMENT OF PRIVACY PROTECTION
 
-**Information Collection  
-**When you engage in activities on our Web site like ordering or registering products, downloading trial versions of software or software updates, requesting technical support, or signing up for special offers or newsletters, URSoft may ask you to provide us with information. Information we ask you to provide when purchasing or ordering will only be the information necessary to process your purchase or order. When fulfilling an order we will ask for your name, email address, address (for shipping purposes), telephone number and credit card number, type and expiration date. We will use this information only for matters related to your order unless you request otherwise. Your credit card information will be maintained only for a period reasonably necessary to ensure payment has been received.  
+Baidu attaches great importance to protecting your privacy. Before using the services or programs provided by Baidu, please read carefully the following statements.
 
-Additional information we may ask you to provide when choosing to engage in other activities on our website or within our products may include name, mailing address, telephone number, facsimile numbers, e-mail address, and other demographic information that will enable us to better understand the requirements of our customers and to continue to provide high quality products and service.  This information request will be optional and required only to engage in certain activities.  By choosing to enter the requested information when prompted, you may be eligible to receive demonstration versions of new software, extended functionality, user tips and product information, newsletters and special offers. 
+In order to provide more accurate and well-targeted services, Baidu may use personal information submitted by you in the manners mentioned below; nevertheless, Baidu will treat such information with a high level duty of diligence. Without your permission, Baidu will not disclose such information or provide such information to any third party.
 
-Any information you post to a chat room or public bulletin is available to all users of that site. 
+## Protecting YOUR Privacy
 
-**How We Use Your Information  
-**Any information collected will be used only by URSoft,Inc to improve our products, services and website.  URSoft,Inc uses information for internal purposes only and does not sell, lease or rent information to third parties.   
+It is Baidu’s principle to respect the privacy of the personal information of our users. Baidu will take reasonable measures to protect user’s personal information, without disclosing such information to any third party other than its Partners (without the consent of the user), unless such disclosure is (i) required by law, court order or competent government departments or (ii) agreed to by the user. Exceptions will be applied if the user selects to accept such disclosures during the registration process (where applicable), or is otherwise stipulated on the disclosure or use of a user’s personal information between the user and Baidu and its Partners. The user shall bear any risks that may arise from any authorized disclosure of a user’s personal information. For the operation and improvement of Baidu’s technologies and services, Baidu may collect and use the non-personal information of its users, or provide such information to third parties, in order to provide better user experience and improve the quality of our services.
 
-URSoft,Inc may use information it has collected to provide you with notices which you indicate would be of use or interest to you.  This may include notice of an ability to extend a products trial period, newsletters, website update notices, notification of the availability of new products, product updates as well as information on promotions and special offers.  You will be entitled to elect not to receive any further notices.  
+## Collection of Information
 
-If you enter into a trial period of URSoft software, we may contact you via email to provide additional information on our products and to survey you on your satisfaction with our software.  We may also contact you to provide advance notice of termination of the trial period. Email is our preferred method of communication and we value the privilege to use it. 
+Baidu may collect your personal information when you voluntarily opt to use our services, programs or provide us with your personal information. We may use your personal information to communicate with you, and may send certain mandatory service communications to you, such as notification, information on technical service issues, and security announcements. We may also occasionally send you product surveys or promotional mailings to inform you of other products or services available from Baidu and its affiliates. Your download, installation and use of the software shall be deemed to constitute consent to our use of your personal information.
 
-URSoft,Inc may profile Web site activity and compile data in aggregate form in order to better understand user activities and the success of various ad campaigns.  This information is important to us as it enables us to continue to provide products specific to our customer's interests.   Site visitor behavior information is compiled in aggregate and does not represent individually identifiable information. 
+In addition, your download, installation and use of products/service from Baidu and its affiliates, shall be deemed that you have expressly provided your consent to Baidu for disclosure of personal information to Baidu's partners and/or affiliates "Partners").
 
-URSoft,Inc may hire certain outside contractors to perform services on our behalf (such as packaging & shipping).  We will only provide those companies the personal information they need to complete the desired service.  They are not permitted to use customer information for any other purpose.
-
-**Security of Your Personal Information  
-**URSoft,Inc takes the protection of the personal information you provide very   
-seriously.  Personal information collected is stored in password-controlled servers with limited access. 
-
-Information submitted to URSoft may be transferred across national boundaries to or from our staff in other countries.  Internal data is shared through secured transmissions and maintained in secured databases.  URSoft,Inc will only disclose information if required to do so by law, legal process or if in good faith it is deemed necessary for the public interest.
-
-URSoft,Inc may link website visitors to websites operated by third parties who are select partners of URSoft,Inc.  URSoft,Inc attempts to select reputable partners but does not guarantee the security of any personal information disclosed on those sites.
-
-**Privacy Issues and Concerns**  
-If you have any questions or concerns regarding our online privacy policy contact us by email at [privacy@ursoftware.com](mailto:privacy@ursoftware.com)
-
-**Cookies**
-
-Cookies are a feature of your web browser that allows websites to transfer bits of information to your computer for record-keeping purposes. You may be able to set your web browser to notify you when you receive a cookie or to not accept cookies at all. A cookie stored on your computer can be used to "remember" things that will improve the efficiency of your online experience. 
-
-A cookie is not a piece of code and cannot be used to run programs or deliver viruses to your computer.
-
-URSoft,Inc uses cookies on its websites to help us publish content relevant to our customers needs and wants. 
-
-Copyright c2003 by URSoft,Inc Ltd. All rights reserved.
+In the event you submit feedback to us via our website, <http://security.baidu.co.th/> we may collect and use certain of personal information you provide to us, including your e-mail address, which we may use to operate and improve our website and product(s)] and deliver the service or carry out improvements you have requested. These uses may include providing you with more effective customer service; making the sites, products or services easier to use; 
