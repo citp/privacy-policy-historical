@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the partnerup.com privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114232949id_/http%3A//www.partnerup.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partnerup.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515123852id_/http%3A//www.partnerup.com/privacy) for the most accurate reproduction.*
 
 # PartnerUp Community - Privacy Policy
 
