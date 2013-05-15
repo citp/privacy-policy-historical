@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the gamedek.com privacy policy that was archived on 2012-11-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121117042119id_/http%3A//www.greatdaygames.com/helppages/privacypolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gamedek.com privacy policy that was archived on 2013-05-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130515101024id_/http%3A//www.greatdaygames.com/helppages/privacypolicy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
 	Help - Play Free Online Games on Great Day Games
@@ -13,7 +13,7 @@
 	        var c_name = 'Monetization_UniqCookieName';
 	        if (document.cookie.indexOf(c_name + "=") == -1)
 	        {	           
-	           var value = '6fd05526-3825-4491-bc66-77b803a44348';
+	           var value = '65aec036-6c8e-4c4e-a4b9-6040cc302524';
 	           var expiredays = 365;
 	            var exdate = new Date();
 	            exdate.setDate(exdate.getDate() + expiredays);
@@ -48,25 +48,25 @@
 
 	</script>
 
-		<link rel="icon" type="image/x-icon" href="http://www.greatdaygames.com/favicon.ico">
-		<link rel="shortcut icon" type="image/x-icon" href="http://www.greatdaygames.com/favicon.ico">
-		<link rel="bookmark icon" type="image/x-icon" href="http://www.greatdaygames.com/favicon.ico">		
+		<link rel="icon" type="image/x-icon" href="http://gdgfiles.arkadium.com/favicon.ico">
+		<link rel="shortcut icon" type="image/x-icon" href="http://gdgfiles.arkadium.com/favicon.ico">
+		<link rel="bookmark icon" type="image/x-icon" href="http://gdgfiles.arkadium.com/favicon.ico">		
 		
 		<script type="text/javascript" src="http://connect.facebook.net/en_US/all.js"></script>
 		<script type="text/javascript" src="http://api.recaptcha.net/js/recaptcha_ajax.js"></script>		
 
-        <script type="text/javascript" language="javascript" src="http://www.greatdaygames.com/js/JavaScriptFinalFirst.js"></script>
+        <script type="text/javascript" language="javascript" src="http://gdgfiles.arkadium.com/js/JavaScriptFinalFirst.js"></script>
 		<script type="text/javascript" language="javascript">jQuery.noConflict();</script>
-		<script type="text/javascript" language="javascript" src="http://www.greatdaygames.com/js/site.core.js.aspx"></script>
-        <script type="text/javascript" language="javascript" src="http://www.greatdaygames.com/js/JavaScriptFinalSecond.js"></script>
+		<script type="text/javascript" language="javascript" src="http://gdgfiles.arkadium.com/js/site.core.js.aspx"></script>
+        <script type="text/javascript" language="javascript" src="http://gdgfiles.arkadium.com/js/JavaScriptFinalSecond.js"></script>
 
-        <script type="text/javascript" language="javascript" src="http://www.greatdaygames.com/js/ark.register.js.aspx"></script>
-		<script type="text/javascript" language="javascript" src="http://www.greatdaygames.com/js/ark.popup.login.js.aspx"></script>				
-		<script type="text/javascript" language="javascript" src="http://www.greatdaygames.com/js/ark.login.js.aspx"></script>		
+        <script type="text/javascript" language="javascript" src="http://gdgfiles.arkadium.com/js/ark.register.js.aspx"></script>
+		<script type="text/javascript" language="javascript" src="http://gdgfiles.arkadium.com/js/ark.popup.login.js.aspx"></script>				
+		<script type="text/javascript" language="javascript" src="http://gdgfiles.arkadium.com/js/ark.login.js.aspx"></script>		
 
 		
-		<link type="text/css" rel="stylesheet" href="http://www.greatdaygames.com/css/style.css.aspx">
-		<link type="text/css" rel="stylesheet" href="http://www.greatdaygames.com/css/style_new.css.aspx">
+		<link type="text/css" rel="stylesheet" href="http://gdgfiles.arkadium.com/css/style.css.aspx">
+		<link type="text/css" rel="stylesheet" href="http://gdgfiles.arkadium.com/css/style_new.css.aspx">
 
 	
 
@@ -322,7 +322,7 @@ cmCreatePageviewTag("Login User", "Registration");  });
 </div>
 
 	</div>
-    <script type="text/javascript" language="javascript" src="http://www.greatdaygames.com/js/ark.loginBox.js.aspx"></script>
+    <script type="text/javascript" language="javascript" src="http://gdgfiles.arkadium.com/js/ark.loginBox.js.aspx"></script>
     <script type="text/javascript" language="javascript">
             var signIn = new jQuery.ark.loginBox.SignInProcessor();
             signIn.id = 'loginBox';
@@ -339,8 +339,8 @@ cmCreatePageviewTag("Login User", "Registration");  });
             </script>
 </div>
 <div id="login_Box_guest" style="display:block;">
-   <div class="LB_sign_in colr"><span class="coll">Have an account?</span> <a href="#" onclick="OpenPopupLogin(); return false;" class="colr"></a></div>
-   <a href="#" class="LB_reg colr" onclick="OpenPopupRegister();return false;"></a>
+   <div class="LB_sign_in colr"><span class="coll">Have an account?</span> <a href="#" onclick="TCRanning=true; OpenPopupLogin(); return false;" class="colr"></a></div>
+   <a href="#" class="LB_reg colr" onclick="TCRanning=true;OpenPopupRegister();return false;"></a>
 </div>
 
 <div class="header_block_search listGamePage coll" id="dSearch">
@@ -357,7 +357,8 @@ cmCreatePageviewTag("Login User", "Registration");  });
 
 
 <script type="text/javascript">
-    function PlayTc(){
+    function PlayTc() {
+       TCRanning = true;
        var cookie = readCookie("treasureChest");
        if (cookie == null || 0 > 0 || 'False' == 'True' || jQuery("#loginBox_loggedIn").is(":visible")){
            TreasureChestCallAjax(true, function(){
@@ -625,7 +626,7 @@ cmCreatePageviewTag("Help|Privacy Policy", "Help");
 	</form>
 	<!-- Additional IE/Win specific style sheet (Conditional Comments) -->
 	<!--[if lte IE 7]>
-	<link type="text/css" rel="stylesheet" href="http://www.greatdaygames.com/css/jquery.tabs-ie.css" media="projection, screen" />
+	<link type="text/css" rel="stylesheet" href="http://gdgfiles.arkadium.com/css/jquery.tabs-ie.css" media="projection, screen" />
 	<![endif]-->
 	</div>
 <script type="text/javascript">
