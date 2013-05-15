@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mydeal.com.my privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122030638id_/http%3A//www.mydeal.com.my/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mydeal.com.my privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515150952id_/http%3A//www.mydeal.com.my/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | MyDEAL.com.my - Malaysia at half the price!
 
