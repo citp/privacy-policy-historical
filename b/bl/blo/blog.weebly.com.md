@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blog.weebly.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226192307id_/http%3A//www.weebly.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blog.weebly.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515195120id_/http%3A//www.weebly.com/privacy.php) for the most accurate reproduction.*
 
 # Weebly - Create a free website and a free blog
 
@@ -139,4 +139,4 @@ Weebly, Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy
 
 TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at support@weebly.com. If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). 
 
-**Last updated on December 21st 2012.**
+**Last updated on April 18th 2013.**
