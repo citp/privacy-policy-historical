@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eflorist.co.uk privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031005607id_/http%3A//www.eflorist.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eflorist.co.uk privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515122741id_/http%3A//www.eflorist.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - eFlorist are committed to protecting your privacy
 
@@ -28,7 +28,7 @@ We will not e-mail you or contact you by SMS or MMS in the future unless you hav
 
 Once you have consented to the transfer of your personal information to a third party such as a marketing company, you must follow the opt-out procedures provided for by such third party, to opt out or modify your personal information contained in such third party’s database. 
 
-You will have the opportunity to opt out of receiving any marketing e-mail from us or from other third parties in the future by emailing [customer.service@eflorist.co.uk](mailto:customer.service@eflorist.co.uk) or phoning 0800 0830 930 or clicking on the 'unsubscribe' button of any email you receive. 
+You will have the opportunity to opt out of receiving any marketing e-mail from us or from other third parties in the future by emailing us via [www.eflorist.co.uk/help.html](http://www.eflorist.co.uk/help.html) or clicking on the 'unsubscribe' button of any email you receive. 
 
 If we intend to transfer your information outside the European Economic Area (other than to fulfil your order) we will obtain your consent prior to such transfer. 
 
@@ -47,4 +47,4 @@ You are entitled to receive a copy of your personal data and we are entitled to 
 
 We may amend this Privacy Policy at any time. If we make any substantial changes in the way we use your Personal Information we will notify you by posting them on the Website. 
 
-All comments, queries and requests relating to our use of your information are welcomed and should be addressed to eFlorist Limited, Unit 35 Romsey Industrial Estate, Greatbridge Road, Romsey, Hampshire, SO51 0HR or emailed to [customer.service@eflorist.co.uk](mailto:customer.service@eflorist.co.uk). 
+All comments, queries and requests relating to our use of your information are welcomed and should be addressed to eFlorist Limited, Unit 35 Romsey Industrial Estate, Greatbridge Road, Romsey, Hampshire, SO51 0HR or emailed to us via [www.eflorist.co.uk/help.html](http://www.eflorist.co.uk/help.html). 
