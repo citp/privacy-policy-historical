@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directorymaximizer.com privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104052751id_/http%3A//www.directorymaximizer.com/w3c/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directorymaximizer.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515204739id_/http%3A//www.directorymaximizer.com/w3c/privacy.html) for the most accurate reproduction.*
 
 # Maximizer E-Services Pvt. Ltd. Privacy Policy
 
@@ -25,9 +25,9 @@ We invite you to contact us if you have questions about this privacy policy.
 Our Internet address is located at [http://www.directorymaximizer.com](http://www.directorymaximizer.com/)
 
 **Maximizer E-Services Pvt. Ltd.  
-38/5 Coles Rd, 2nd Floor, Frazer Town   
-Bangalore 560005   
-Karnataka India**
+2nd Floor, #60 Banaswadi Main Road   
+Bangalore - 560033   
+Karnataka, India**
 
 You may contact us by e-mail at contact [ at ] directorymaximizer.com
 
@@ -93,6 +93,11 @@ Information Retention \- How long is this information retained?
 
 * * *
 
+Changing or Removal of Information   
+You can review your personal information and make any necessary changes by logging in to your account and changing your preferences in the "My Account" area. You may email us at contact [at] directorymaximizer.com to remove your contact information from our database provided we have completed all pending transactions related to your account. 
+
+* * *
+
 Cookies   
 Cookies are a technology which can be used to provide you with tailored information from a Web site. A cookie is an element of data that a Web Site can send to your browser, which may then store it on your system. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it. 
 
@@ -100,6 +105,7 @@ Our Web site uses the following cookies:
 
   * name="*" value="*" domain="*" path="*" 
 
-
+  
+As you browse our website, advertising cookies could also be placed on your computer so that we can understand what you are interested in. Our display advertising partners then enable us to present you with retargeting advertising on other sites based on your previous interaction with our website. The techniques our partners employ do not collect personal information such as your name, email address, postal address or telephone number. You can opt out of such cookie tracking by contacting us. 
 
 * * *
