@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the urbancelebrity.com privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105092521id_/http%3A//www.urbancelebrity.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urbancelebrity.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515132655id_/http%3A//www.urbancelebrity.com/privacy-policy-i4) for the most accurate reproduction.*
 
-# Urban Celebrity
+# Privacy Policy
 
 **By submitting your information through your use of this website, you consent to the use of that information by Urban Celebrity as set out below.**
 
@@ -14,7 +14,7 @@ If you wish to register for our email service you must provide us with your name
 
 We may wish to provide you with information about special features of our website or any other services, products or information from Urban Celebrity that we think may be of interest to you. We may also want to provide you with related information from third parties we think may be of interest to you. If you would rather not receive this information, please send an email message to [info@urbancelebrity.com](mailto:info@urbancelebrity.com).
 
-We would like to provide your information to carefully selected third parties whose products or services we believe may be of interest to you. If you do not wish us to disclose your information in this way, please send an email message to [info@urbancelebrity.com](mailto:info@urbancelebrity.com). 
+We would like to provide your information to carefully selected third parties whose products or services we believe may be of interest to you. If you do not wish us to disclose your information in this way, please send an email message to [info@urbancelebrity.com](mailto:info@urbancelebrity.com).
 
 Alternatively, please see paragraph 6 below for information on other methods for updating your preferences.
 
@@ -30,7 +30,7 @@ You may adjust your computer’s settings so as to block cookies, to accept or r
 
   4. **How we protect your information**
 
-The internet is not a secure medium. We have put in place various security measures but you are advised to treat the internet as an insecure medium in all your communications with us. However, payments made through this website are handled using secure socket layer technology or other technology which is at least (if not more) secure than that. 
+The internet is not a secure medium. We have put in place various security measures but you are advised to treat the internet as an insecure medium in all your communications with us. However, payments made through this website are handled using secure socket layer technology or other technology which is at least (if not more) secure than that.
 
 Your payment information will not be disclosed to anyone under any circumstances other than as necessary for the sale concerned and will not be retained by us thereafter.
 
@@ -50,7 +50,7 @@ Owing to the global nature of the internet’s infrastructure the information yo
 
 Occasionally it is necessary for us to change this Privacy Policy, so please remember to check back from time to time.
 
-If you have any questions concerning this Privacy Policy, please contact us at [help@urbancelebrity.com](mailto:help@crbancelebrity.co.uk). 
+If you have any questions concerning this Privacy Policy, please contact us at [help@urbancelebrity.com](mailto:help@crbancelebrity.co.uk).
 
 
 
