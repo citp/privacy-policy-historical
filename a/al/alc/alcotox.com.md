@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alcotox.com privacy policy that was archived on 2012-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121113014414id_/http%3A//www.alcotox.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alcotox.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515120523id_/http%3A//www.alcotox.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Alcotox
 
