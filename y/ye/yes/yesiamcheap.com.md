@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the yesiamcheap.com privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114103127id_/http%3A//yesiamcheap.com/disclosures/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yesiamcheap.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515030931id_/http%3A//yesiamcheap.com/disclosures/privacy-policy) for the most accurate reproduction.*
 
 # Privacy | Yes, I Am Cheap
+
+## Privacy
 
 This website displays advertisements from various sources. Please read this privacy policy as it may be updated occasionally with no notice to you.
 
@@ -21,3 +23,5 @@ We use third-party advertising companies to serve ads when you visit our website
 We do not govern or control the content places on sites to which we may have linked.  Please review the privacy policy of each site that you visit.
 
 Finally, I’m not going to sell your information.  Come on people.  There’s enough SPAM in the world and it’s totally not worth it to me to sell your e-mail addresses.
+
+## I HATE SPAM! YOUR INFO GOES NOWHERE BUT HERE.
