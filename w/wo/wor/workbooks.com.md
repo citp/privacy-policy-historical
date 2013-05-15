@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the workbooks.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228203031id_/http%3A//www.workbooks.com/node/156) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workbooks.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515060223id_/http%3A//www.workbooks.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -60,7 +60,7 @@ This online privacy policy applies only to information collected through our web
 
 #### Terms and Conditions 
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website are [here](http://www.workbooks.com/workbooks-terms).  
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website are [here](https://www.workbooks.com/workbooks-terms).  
  
 
 #### Your Consent 
@@ -83,6 +83,6 @@ If there are any questions regarding this privacy policy you may contact us usin
 
 **UK**
 
-[**www.workbooks.com**](http://www.workbooks.com/)
+[**www.workbooks.com**](https://www.workbooks.com/)
 
 [**webmaster@workbooks.com**](mailto:webmaster@workbooks.com?subject=Privacy%20Policy%20Enquiry)
