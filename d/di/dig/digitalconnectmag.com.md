@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitalconnectmag.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511103640id_/http%3A//legal.us.ubm.com/privacy-notice/%3Fitc%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalconnectmag.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515062944id_/http%3A//legal.us.ubm.com/privacy-notice/%3Fitc%3Dfooter) for the most accurate reproduction.*
 
 # UBM - UBM LLC Privacy Policy
 
@@ -6,7 +6,7 @@ Effective: September 8, 2011
 
 ## Scope
 
-UBM LLC (“UBM” or "we") operates through four separate divisions: [Everything Channel](http://everythingchannel.com/)™; [UBM Electronics](http://electronics.ubm.com/)™; [UBM TechWeb](http://www.ubmtechweb.com/)™; and [UBM Studios](http://www.ubmstudios.com/)™.  Three of these divisions focus on the needs of a specific community of technology professionals or other specialized community with shared interests and responsibilities.  The fourth, UBM Studios, builds virtual events on behalf of its corporate customers. 
+UBM LLC (“UBM” or "we") operates through four separate divisions: [UBM Channel](http://www.ubmchannel.com/)™; [UBM Electronics](http://electronics.ubm.com/)™; [UBM Tech](http://www.ubmtechweb.com/)™; and [UBM Studios](http://www.ubmstudios.com/)™.  Three of these divisions focus on the needs of a specific community of technology professionals or other specialized community with shared interests and responsibilities.  The fourth, UBM Studios, builds virtual events on behalf of its corporate customers. 
 
 This Privacy Policy covers information which you give any of the four divisions about yourself and your professional background as you register for or attend our face-to-face events around the world, as you visit or participate in any of our web sites or online venues hosted on servers in the United States, or subscribe to any of our print publications distributed in the United States, or volunteer information in any social media context. We will post or display a link to this UBM Privacy Policy on all forms and all online pages to which it is applicable.
 
@@ -28,7 +28,7 @@ Some of our web sites use Adobe Flash to provide video content, and the Adobe Fl
 
 We gather date, time, certain information about a user's browser and system or device configuration and capabilities, navigation history and IP address for all visitors to our web sites. We use this information for our internal security audit log, for trend analysis and system administration and to gather broad information about our audiences and their geographic locations.
 
-Please see [More Information About Cookies](http://legal.us.ubm.com/privacy-policy/#More_info), for additional details about how we use cookies that identify you, which third party advertisers and advertising networks we allow to serve third party advertising displayed on our sites or to display our ads to you once you have left our web pages, and how to control cookies or their use for serving targeted advertising.   
+Please see [More Information About Cookies](https://web.archive.org/privacy-policy/#More_info), for additional details about how we use cookies that identify you, which third party advertisers and advertising networks we allow to serve third party advertising displayed on our sites or to display our ads to you once you have left our web pages, and how to control cookies or their use for serving targeted advertising.   
 
 ## How We Use Information That Identifies You
 
@@ -65,7 +65,7 @@ You have a choice about and control over:
 
 ## Receiving email marketing messages from us.
 
-  * You may opt out of our email marketing lists by following the directions at the bottom of our promotional emails.  Please note that we have a number of brands and products and allow you to opt out selectively. To remove a specific email address from all email marketing from EverythingChananel, UBM Electronics, UBM TechWeb and UBM Studios, you may click on this [UBM-wide opt out link](https://www.cmpadministration.com/ars/optout1.do?mode=optout&forward=optoutpagespecial&T=CT&F=5907&K=PVYPGE) To remove a specific email address from a division's list, you may send a request to [privacyrequests@ubm.com](mailto:privacyrequests@ubm.com). 
+  * You may opt out of our email marketing lists by following the directions at the bottom of our promotional emails.  Please note that we have a number of brands and products and allow you to opt out selectively. To remove a specific email address from all email marketing from UBM Chananel, UBM Electronics, UBM Tech and UBM Studios, you may click on this [UBM-wide opt out link](https://www.cmpadministration.com/ars/optout1.do?mode=optout&forward=optoutpagespecial&T=CT&F=5907&K=PVYPGE) To remove a specific email address from a division's list, you may send a request to [privacyrequests@ubm.com](mailto:privacyrequests@ubm.com). 
   * Please note that you may receive email marketing messages from us about other companies’ offerings as part of a list rental or partner marketing programs - but only if you have given us permission to do so. We do not disclose your contact details to the partners, and we do not sell your data. You have the option of contacting the other company directly if you click on the links within the email. To opt out of our partner marketing programs, you may follow the instructions at the bottom of any email we send you as part of the program. 
 
 
@@ -92,7 +92,7 @@ You will still be able to log on to a gated community if you decline or delete o
 
 **Third party advertising cookies.** We allow other companies to serve ads on our web pages. We do not control their use of cookies or other data collection technologies or practices.
 
-  * The divisions of UBM LLC currently allow the following third party ad servers to serve ads on our web pages: [BBN Networks](http://bbnnetworks.com/content/privacy-policy); [Bizo, Inc.](http://www.bizo.com/businessProfessionals/privacy_policy) and [Google AdSense](http://www.google.com/intl/en/privacy/ads/).  Some companies, such as Bizo, Inc. and Google Adsense, may offer additional choices about your preferences. Please visit each of their web sites for more information about the technologies they use and their privacy practices. 
+  * The divisions of UBM LLC currently allow the following third party ad servers to serve ads on our web pages: [BBN Networks](http://bbnnetworks.com/); [Bizo, Inc.](http://www.bizo.com/businessProfessionals/privacy_policy) and [Google AdSense](http://www.google.com/intl/en/privacy/ads/).  Some companies, such as Bizo, Inc. and Google Adsense, may offer additional choices about your preferences. Please visit each of their web sites for more information about the technologies they use and their privacy practices. 
   * Many of the third party ad serving companies that serve ads to our web sites are members of the [Network Advertising Initiative](http://www.networkadvertising.org/). The NAI offers useful information about ad networks and [a single place to turn off targeted ad serving](http://www.networkadvertising.org/managing/opt_out.asp) from any of its [members](http://www.networkadvertising.org/participating/). 
 
 
@@ -119,7 +119,7 @@ Our products, services, events and offerings are directed to professionals. If w
 
 ## Changes
 
-We will post and date any changes to this Privacy Policy. Please check here periodically. Your continued use of our products and services covered by this Policy constitutes your acceptance of the terms in place at the time of your use.
+We will post and date any changes to this Privacy Policy. Please check here periodically. Your continued use of our products and services covered by this Policy constitutes your consent to the practices in place at the time of your use.
 
 ## How to Contact Us
 
@@ -129,7 +129,7 @@ For questions about this Privacy Policy, please contact:
 
 **UBM LLC**   
 Attn: UBM Legal  
-240 West 35th Street   
+150 West 30th Street, 20th Floor   
 New York, New York, 10001
 
   * [Privacy Policy ](http://legal.us.ubm.com/privacy-policy/)
