@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sidefx.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106115651id_/http%3A//www.sidefx.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D350) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sidefx.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515032451id_/http%3A//www.sidefx.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D350) for the most accurate reproduction.*
 
-# Privacy Policy - Houdini - 3D Animation and VFX
+# Privacy Policy - Side Effects Software Inc.
 
 Side Effects Software is committed to protecting the privacy of personal data collected at our internet web site. This Policy explains how Side Effects Software collects, uses, and discloses the personal information you may provide while using our internet web site.
 
