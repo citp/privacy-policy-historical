@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usagreencardlottery.org privacy policy that was archived on 2012-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121129110116id_/http%3A//www.usagreencardlottery.org/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usagreencardlottery.org privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515145901id_/http%3A//www.usagreencardlottery.org/privacypolicy.html) for the most accurate reproduction.*
 
 # USA Green Card Lottery Privacy Policy
 
@@ -8,7 +8,7 @@ Privacy Policy
 
 USAGreenCardLottery.Org ("we" or "us" or "our" or "Company") respects the privacy concerns of each visitor ("you" or "your" or "Visitor") to the website ([www.usagreencardlottery.org](http://www.usagreencardlottery.org/ "Linkification:  http://www.usagreencardlottery.org")) (the "Website") and this Privacy Policy describes the type of information gathered from Visitor's use of the Website and/or from any use of our services, and how that information is used.
 
-Please take a moment to review this Privacy Policy and feel free to contact the Company with any questions at [privacy@usagreencardlottery.org](http://www.cloudflare.com/email-protection#58282a312e393b21182d2b393f2a3d3d363b392a3c34372c2c3d2a2176372a3f).
+Please take a moment to review this Privacy Policy and feel free to contact the Company with any questions at [privacy@usagreencardlottery.org](mailto:privacy@usagreencardlottery.org).
 
 _This privacy policy is effective as of and was last updated on September 26, 2012._
 
@@ -83,7 +83,7 @@ In the event the Company goes through a business transition, including without l
 
 _Marketing Options_
 
-You have options regarding learning about our new offers, products or services, as well as those offered by our authorized affiliates. If you do not want to receive notice of these offers, you may opt out at any time by emailing our Customer Care department at [cs@usagreencardlottery.org](http://www.cloudflare.com/email-protection#c5a6b685b0b6a4a2b7a0a0aba6a4b7a1a9aab1b1a0b7bcebaab7a2). Alternatively, each marketing e-mail sent to you will include instructions how to opt-out. Please note that you may still receive information from third parties to whom the Company may have disclosed your User Information prior to your opt-out. If you no longer wish to receive information from such third party, please contact them directly. 
+You have options regarding learning about our new offers, products or services, as well as those offered by our authorized affiliates. If you do not want to receive notice of these offers, you may opt out at any time by emailing our Customer Care department at [cs@usagreencardlottery.org](mailto:cs@usagreencardlottery.org). Alternatively, each marketing e-mail sent to you will include instructions how to opt-out. Please note that you may still receive information from third parties to whom the Company may have disclosed your User Information prior to your opt-out. If you no longer wish to receive information from such third party, please contact them directly. 
 
 _Links_
 
@@ -111,6 +111,6 @@ By using the Website, you hereby accept all of the terms set forth in this Priva
 
 _Privacy Complaints_
 
-If you believe that there has been a violation of this Privacy Policy, please contact us at [privacy@usagreencardlottery.org](http://www.cloudflare.com/email-protection#f9898b908f989a80b98c8a989e8b9c9c979a988b9d95968d8d9c8b80d7968b9e).   
+If you believe that there has been a violation of this Privacy Policy, please contact us at [privacy@usagreencardlottery.org](mailto:privacy@usagreencardlottery.org).   
   
 ---|---
