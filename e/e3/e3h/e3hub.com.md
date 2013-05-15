@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the e3hub.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102064811id_/http%3A//e3hub.com/cgi-bin/Help%3Fcmd%3Dview%26pages%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e3hub.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516005350id_/http%3A//e3hub.com/cgi-bin/Help%3Fcmd%3Dview%26pages%3Dprivacy) for the most accurate reproduction.*
 
 # E3Hub - Help is here
 
@@ -81,7 +81,7 @@ will not share any personally identifiable information about our users that is o
 *******************************************  
 An Internet protocol (I.P.) address is a set of numbers that is automatically assigned to your computer whenever you log on to your internet service provider or through your company's local area network (LAN) or wide area network (WAN). Web servers - the powerful computers that provide web pages for viewing - automatically identify your computer by the IP address assigned to it during your session online.
 
-E3Hub may collect I.P. addresses for purposes of system administration, to report anonymous user information to our advertisers (as explained above), and to audit the use of our site. We do not ordinarily link a user's I.P. address to personally identifiable information of that user, which means each user's session will be logged, but the user remains anonymous to us. However, we can and will use I.P. addresses to identify users of our site when we feel it is necessary to enforce compliance with our site's terms of use or terms of service, or to protect our service, site, or other users.
+E3Hub may collect I.P. addresses for purposes of system administration, to report anonymous user information to our advertisers (as explained above), and to audit the use of our site. We do not ordinarily link a user's I.P. address to personally identifiable information of that user, which means each user's session will be logged, but the user remains anonymous to us. However, we can and will use I.P. addresses to identify users of our site when we feel it is necessary to enforce compliance with our site's terms of use or terms of service, or to protect our service, site, or other users. We will however collect and display I.P. location of all item listings for the purpose of fraud reductions. We feel it is important and a right for a buyer to know the geographic location of the seller before a transaction has been initiated.
 
 **PLEASE NOTE:** Under certain circumstances, I.P. addresses and/or domain names may be linked to personally identifiable information, when said information is stored in databases managed by Internet registrars or registries. 
 
