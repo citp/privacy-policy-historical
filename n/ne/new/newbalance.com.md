@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the newbalance.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023131804id_/http%3A//www.newbalance.com/Privacy-Policy/privacy-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newbalance.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515042747id_/http%3A//www.newbalance.com/Privacy-Policy/privacy-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-## Last Updated: December 19, 2011
+## Last Updated: December 19, 2012
 
-Thank you for placing your trust in New Balance. You are very important to us and we want to provide you with a safe and secure online experience. This Privacy Policy describes how we collect and use your information and explains the choices that you have with regard to how we use your information. The Privacy Policy applies to "www.newbalance.com" (the "Service") operated by NB Web Express, LLC and its affiliates ("New Balance", "we", "us", or "our"), whether you are a "Visitor" (which means that you simply browse the Service) or you are a "Member" (which means that you have registered or transacted with the Service or a component thereof). By using the Service and providing us with information through the Service, you consent to this Privacy Policy. We suggest that you review this Privacy Policy periodically as we will update and change it from time to time.
+Thank you for placing your trust in New Balance. You are very important to us and we want to provide you with a safe and secure online experience. This Privacy Policy describes how we collect and use your information and explains the choices that you have with regard to how we use your information. The Privacy Policy applies to "www.newbalance.com" (the "Service") operated by New Balance Athletic Shoe, Inc. and its affiliates ("New Balance", "we", "us", or "our"), whether you are a "Visitor" (which means that you simply browse the Service) or you are a "Member" (which means that you have registered or transacted with the Service or a component thereof). By using the Service and providing us with information through the Service, you consent to this Privacy Policy. We suggest that you review this Privacy Policy periodically as we will update and change it from time to time.
 
 ## What information does New Balance collect about me?
 
@@ -94,7 +94,7 @@ Please note that if you decide to opt-out of all third-party transmissions of yo
 
 ## How can I access, update or delete "My Account" information?
 
-Accounts may be created during the ordering process. You can login to or manage your account by clicking the "My Account" link at the top of any page. After logging in, you will be able to modify your contact information, update your billing and shipping addresses, view past orders, or delete your account completely. For security purposes, credit card information is not saved with your account. Remember that you are responsible for protecting the user name and password for your account and, as set forth in the [Terms and Conditions](https://www.newbalance.com/Terms-Conditions-of-Sale/terms,default,pg.html), you will be responsible for all activity occurring through the use of your user name and password.
+Accounts may be created during the ordering process. You can login to or manage your account by clicking the "My Account" link at the top of any page. After logging in, you will be able to modify your contact information, update your billing and shipping addresses, view past orders, or delete your account completely. For security purposes, credit card information is not saved with your account. Remember that you are responsible for protecting the user name and password for your account and, as set forth in the [Terms and Conditions](http://www.newbalance.com/Terms-Conditions-of-Sale/terms,default,pg.html), you will be responsible for all activity occurring through the use of your user name and password.
 
 ## What if I have more questions about the New Balance Privacy Policy?
 
