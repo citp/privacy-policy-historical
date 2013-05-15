@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the tryteens.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123220610id_/http%3A//www.tryteens.com/%3Fref%3D%26%26page%3D_free_privacy%26itemcnt%3D%26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tryteens.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515205020id_/http%3A//www.tryteens.com/%3Fref%3D%26%26page%3D_free_privacy%26itemcnt%3D%26) for the most accurate reproduction.*
 
-# Privacy policy
-
-Privacy Policy
+# TryTeens.com
 
 Replace or add your information in RED, where applicable:  
 Our Commitment To Privacy   
