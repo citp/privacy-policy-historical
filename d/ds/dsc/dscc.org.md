@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dscc.org privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120144457id_/http%3A//www.dscc.org/about%3Fcontent_item_KEY%3D1443) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dscc.org privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515235847id_/http%3A//www.dscc.org/content/privacy-policy) for the most accurate reproduction.*
 
-# DSCC: Democratic Senatorial Campaign Committee
+# Privacy Policy | DSCC: Democratic Senatorial Campaign Committee
 
 _Updated April 27, 2011_
 
@@ -66,4 +66,8 @@ We may revise or update this policy if our practices change, as we change existi
 
 ## How to Contact Us
 
-If you have any questions, comments or concerns, please contact us by phone at (202) 224-2447, by fax at (202) 485-3120, or by e-mail to [info@dscc.org](mailto:info@dscc.org).
+If you have any questions, comments or concerns, please contact us by phone at (202) 224-2447, by fax at (202) 485-3120, by e-mail at [info@dscc.org](mailto:info@dscc.org), or at the mailing address listed below:
+
+Democratic Senatorial Campaign Committee  
+120 Maryland Ave. NE  
+Washington, DC 20002
