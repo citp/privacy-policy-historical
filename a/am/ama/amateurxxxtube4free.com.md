@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amateurxxxtube4free.com privacy policy that was archived on 2010-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100329165816id_/http%3A//cs.securegatewayaccess.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amateurxxxtube4free.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516015257id_/http%3A//cs.securegatewayaccess.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
@@ -24,20 +24,13 @@ This site may contain chat rooms, forums, message boards, and/or news groups ava
 
 We use 'cookie' technology (see www.cookiecentral.com for complete information) to enhance users' online experience by making it easier for them to navigate through our pages or to make a feature work better. We do not extract information about individual users or their computers during this process. Cookies set by us for our Web sites are required. We utilize cookies to regulate advertising, improve user experience, and identify you as a prior visitor to our website.
 
-You can send E-mail to us: privacy@securegatewayaccess.com
+You can send E-mail to us: support@securegatewayaccess.com
 
 You can send mail to the following postal address:
 
-Wabash Systems Ltd
+Social Profiles, LLC
 
 Attn: Privacy Statement
 
-88 The Poplars,
-
-De Grey Street
-
-Newcastle
-
-NE4 7HB
-
-UK
+200 Goddard  
+Irvine, CA 92618
