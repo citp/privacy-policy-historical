@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the capitalizedmedia.com privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201052440id_/http%3A//capitalizedmedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the capitalizedmedia.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515121454id_/http%3A//capitalizedmedia.com/privacy-policy) for the most accurate reproduction.*
 
 # » Privacy Policy Capitalized Media
 
