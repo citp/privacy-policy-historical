@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wishwall.me privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118180627id_/http%3A//www.wishwall.me/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wishwall.me privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515204313id_/http%3A//www.wish.com/privacy_policy) for the most accurate reproduction.*
 
 # Wish | Privacy Policy
 
