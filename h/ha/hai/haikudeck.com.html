@@ -1,23 +1,26 @@
-<!--The following is the downloaded HTML source of the haikudeck.com privacy policy that was archived on 2012-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121230035301id_/http%3A//haikudeck.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the haikudeck.com privacy policy that was archived on 2013-05-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130515225210id_/http%3A//www.haikudeck.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#" itemscope="" itemtype="http://schema.org/Article"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta http-equiv="Content-Language" content="en-US">
 <meta http-equiv="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
 <link href="/css/font_quicksand.css" media="screen" rel="stylesheet" type="text/css">
-<link href="/lib/bootstrap2.2.2/css/bootstrap.min.css" media="screen" rel="stylesheet" type="text/css">
-<link href="/css/global.css" media="screen" rel="stylesheet" type="text/css">
-<link href="/css/terms.css" media="screen" rel="stylesheet" type="text/css">
-<link href="/css/header.css" media="screen" rel="stylesheet" type="text/css">
-<link href="/css/footer.css" media="screen" rel="stylesheet" type="text/css"><link rel="icon" type="image/png" href="/images/haikudeck-icon.png">
+<link href="http://static.haikudeck.com/lib/bootstrap2.3.1/css/bootstrap.min.css" media="screen" rel="stylesheet" type="text/css">
+<link href="http://static.haikudeck.com/css/global.css" media="screen" rel="stylesheet" type="text/css">
+<link href="http://static.haikudeck.com/css/terms.css" media="screen" rel="stylesheet" type="text/css">
+<link href="http://static.haikudeck.com/css/header.css" media="screen" rel="stylesheet" type="text/css">
+<link href="http://static.haikudeck.com/css/modal.css" media="screen" rel="stylesheet" type="text/css">
+<link href="http://static.haikudeck.com/css/footer.css" media="screen" rel="stylesheet" type="text/css"><link rel="icon" type="image/png" href="http://static.haikudeck.com/images/haikudeck-icon.png">
 
 <meta name="google-site-verification" content="tkBVF99Ge70RiRMbir6Dc3xvcc4VjXMm9afmg-_08-w"><!-- do not remove -->
-<title>Haiku Deck from Giant Thinkwell</title>
-<script type="text/javascript" async="" src="https://web.archive.org/web/20120930230214/https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/lib/jquery/jquery-1.8.2.min.js"></script>
-<script type="text/javascript" src="/lib/bootstrap2.2.2/js/bootstrap.min.js"></script>
-<script type="text/javascript" src="/js/global.js"></script>
-<script type="text/javascript" src="/lib/google/analytics.js"></script>
+<title>Presentation Software That's Simple, Beautiful, and Fun | Haiku Deck</title>
+<script type="text/javascript" src="http://static.haikudeck.com/lib/jquery/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="http://static.haikudeck.com/lib/bootstrap2.3.1/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="http://static.haikudeck.com/js/global.js"></script>
+<script type="text/javascript" src="http://static.haikudeck.com/lib/google/analytics.js"></script>
+<script type="text/javascript" src="http://static.haikudeck.com/lib/knockout/knockout-2.2.1.js"></script>
+<script type="text/javascript" src="http://static.haikudeck.com/js/haikudeck.js"></script>
 
 </head>
 <body>
@@ -28,21 +31,159 @@
 
 
 
+<!-- TODO: move to <head> -->
+<script type="text/javascript">
+ 
+    window.currentUser = null;
+  
+  window.gaqParameters = "privacy/index/default";
 
+  $(document).ready(function() {
+  	// wire up the "GET HAIKU DECK" button(s)
+  	window.downloadController = new DownloadController()
+  	window.downloadController.bind()
+  	window.downloadController.detectHash()
+  });
+
+</script>
 
 <div class="header">
-	<div class="container ">
-		<div class="row">
+	<div class="container">
 
+		<div class="row-fluid">
 
+				<div id="download-modals">
+  <div class="modal hide download-sequence" id="modal-download">
+  <div class="modal-header">
+    <div class="modal-close-button" data-dismiss="modal"></div>
+    <h1>GET HAIKU DECK</h1>
+  </div>
+  <div class="modal-body">
+    <p>Haiku Deck is free and available now for iPad and iPad mini.</p>
+    
+    <div class="buttons">
+      <div class="button-column">
+        <div class="app_store_badge_download" data-bind="click: downloadController.gotoAppStore"></div>
+        <div class="email-me">
+          <i class="icon-envelope icon-white"></i>
+          <a data-bind="click: window.downloadController.showEmail">Email to my device</a>
+        </div>
 
+      </div>
+      <div class="button-column">
+        <button class="btn btn-large" data-bind="click: downloadController.showSurvey">I don't have an iPad</button>
+      </div>
+    </div>
+    
+  </div>
+</div>  <div class="modal hide download-sequence" id="modal-email">
+  <div class="modal-header">
+    <div class="modal-close-button" data-dismiss="modal"></div>
+    <h1>EMAIL TO MY DEVICE</h1>
+  </div>
+  <div class="modal-body" id="modal-share-body">
+    
+    <p>Enter your email, and we'll send you a link so you can install it on your iPad.</p>
+    
+    <br>
 
-				<a href="/"><div class="haiku-deck-mark"></div></a>
+    <div class="row email-form">
+      <input type="text" placeholder="youremail@gmail.com" data-bind="value: email" required="">
+      <button class="btn btn-large" data-bind="click: downloadController.sendEmail">Send</button>
+    </div>
 
+  </div>
+</div>  <div class="modal hide download-sequence" id="modal-survey">
+  <div class="modal-header">
+    <div class="modal-close-button" data-dismiss="modal"></div>
+    <h1>HAIKU FOR YOU</h1>
+  </div>
+  <div class="modal-body" id="modal-share-body">
+    <div class="haiku">
+      <div>Enter your email;</div>
+      <div>You'll know first when your platform</div>
+      <div>Is ready for you</div>
+    </div>
+    <div class="well">
+      
+      <div class="row">  
+        <div style="display: inline-block; float: left; padding: 12px 0 0 10px; width: 112px; font-size: 18px; text-shadow: 0px -1px #000;">Your email</div>
+        <div style="display: inline-block; float: left;">
+          <input type="text" placeholder="youremail@gmail.com" data-bind="value: email, valueUpdate: 'afterkeydown'" required="" style="width: 200px; height: 34px; font-size: 18px;">
+        </div>
+        <div style="display: inline-block; float: right;">
+          <input id="dummy-submit" type="submit" class="btn btn-large" value="Sign up" disabled="true" style="float: right">
+        </div>
+      </div>
+
+      <div id="hidden-survey" style="display: none">
+        <br>
+        <p style="margin-left: 25px">
+          Where would you like to use Haiku Deck?
+        </p>
+
+        <div style="margin-left: 25px">
+          <div class="row">
+            <div class="span1" style="padding-left: 14px"><img src="/images/survey-icons/windows.png"></div>
+            <div class="span1" style="padding-left: 12px"><img src="/images/survey-icons/android.png"></div>
+            <div class="span1" style="padding-left: 8px; width: 100px"><img src="/images/survey-icons/apple.png"></div>
+          </div>
+
+          <div class="row">
+            <div class="span1"><label><input type="checkbox" data-bind="checked: windows"> Windows</label></div>   
+            <div class="span1"><label><input type="checkbox" data-bind="checked: androidPhone"> Android Phone</label></div>
+            <div class="span1" style="width: 100px"><label><input type="checkbox" data-bind="checked: mac"> Mac</label></div>
+          </div>
+
+          <div class="row">
+            <div class="span1"><label><input type="checkbox" data-bind="checked: windowsPhone"> Windows Phone</label></div>
+            <div class="span1"><label><input type="checkbox" data-bind="checked: androidTablet"> Android Tablet</label></div>
+            <div class="span1" style="width: 100px"><label><input type="checkbox" data-bind="checked: iPhone"> iPhone</label></div>        
+          </div>
+
+          <div class="row">
+            <label style="width: 146px; display: inline-block;"><input type="checkbox" data-bind="checked: surface"> Surface</label>
+          </div>
+        </div>
+
+        <div style="margin-left: 25px">
+          <div class="row">
+            <div style="float: left; margin-top: 9px">
+              <span>Other:</span>
+              <input type="text" placeholder="Samsung Galaxy Tablet" data-bind="value: other" style="margin-left: 8px">
+            </div>
+            <button class="btn btn-large btn-green" style="float: right" data-bind="click: downloadController.submitSurvey">Sign up</button>
+          </div>
+        </div>  
+      </div>
+    </div>
+  </div>
+</div>  <div class="modal hide download-sequence" id="modal-thanks">
+  <div class="modal-header">
+    <div class="modal-close-button" data-dismiss="modal"></div>
+    <h1>THANK YOU</h1>
+  </div>
+  <div class="modal-body" id="modal-share-body">
+    
+    <p>Everything we do, we do for you. Send us a tweet to keep us going!</p>
+
+    <br>
+
+    <div class="tweet-form">
+      <div data-bind="click: downloadController.sendTweet" class="btn btn-large">
+        <img src="/images/survey-icons/twitter.png" style="height: 18px">
+        Send a tweet...
+      </div>
+    </div>
+
+  </div>
+</div></div>				
+				<a href="/"><img src="http://static.haikudeck.com/images/haiku-deck-header-logo-sm.png" alt="presentation software by Haiku Deck" vspace="15" border="0"></a>
 
 
 				<ul class="nav nav-pills headlinks pull-right">
 
+					
 					<li>
 						<a href="/gallery">GALLERY</a>
 					</li>
@@ -63,21 +204,17 @@
 					</li>
 					<li class="divider">//</li>
 
-
+					
 
 									<li>
 						<a href="/account/signin">SIGN IN</a>
 					</li>
-
 				
-
-					<li>
-												<a href="http://itunes.apple.com/ca/app/haiku-deck/id536328724?mt=8" target="_blank" class="highlight" onclick="_gaq.push(['_trackEvent', 'GET HAIKU DECK', 'Header', '']); ">GET HAIKU DECK</a>
-											</li>
-
-
-
-
+					
+						<li>
+  <a class="highlight" onclick="window.downloadController.start('Header')">GET HAIKU DECK</a>
+</li>
+						
 				</ul>
 
 
@@ -107,7 +244,7 @@ $(document).ready(function(){
 		var fileref=document.createElement("link")
 		fileref.setAttribute("rel", "stylesheet")
 		fileref.setAttribute("type", "text/css")
-		fileref.setAttribute("href", '/css/svg.css' )
+		fileref.setAttribute("href", 'http://static.haikudeck.com/css/svg.css' )
 		document.getElementsByTagName("head")[0].appendChild(fileref)
 	}
 
@@ -190,22 +327,14 @@ $(document).ready(function(){
 
 		</div>
 
-
-
-
-
-
 		<div class="row">
-			<div class="span12">
-				<div class="greybar">
-					<a href="http://itunes.apple.com/ca/app/haiku-deck/id536328724?mt=8" target="_blank" class="highlight" onclick="_gaq.push(['_trackEvent', 'GET HAIKU DECK', 'Privacy', '']);"><span>GET HAIKU DECK</span></a>
-					<h2>WANT TO MAKE YOUR OWN HAIKU DECK?</h2>
-				</div>
-			</div>
-		</div>
-
-
-
+  <div class="span12">
+    <div class="greybar get-haiku-deck">
+      <a class="highlight" onclick="window.downloadController.start('Privacy')"><span>GET HAIKU DECK</span></a>
+      <h2>WANT TO MAKE YOUR OWN HAIKU DECK?</h2>
+    </div>
+  </div>
+</div>
 	</div>
 </div>
 
@@ -229,14 +358,40 @@ $(document).ready(function(){
 <div class="footer">
 
 	<div class="footercontrols">
-		© 2012 Haiku Deck by Giant Thinkwell Inc..  All rights Reserved.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<!-- <a class="footerlink" href="http://myaccount.zendesk.com/account/dropboxes/2830039812" onClick="script: Zenbox.show(); return false;" title="Open feedback & support dialog"> --><a class="footerlink" href="https://haikudeck.zendesk.com/home" target="_blank" title="Open feedback &amp; support dialog">Support</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="//www.facebook.com/HaikuDeck" target="_blank" class="footerlink">Facebook</a> / <a href="//twitter.com/#!/HaikuDeck" target="_blank" class="footerlink">Twitter</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/faq" class="footerlink">FAQ</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/terms" class="footerlink">Terms of Service</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/privacy" class="footerlink">Privacy</a>&nbsp;&nbsp;<!-- |&nbsp;&nbsp;<a href="/about" class="footerlink">About Us</a>&nbsp;&nbsp; -->|&nbsp;&nbsp;<a href="/jobs" class="footerlink">Jobs</a>
+		© 2013 Haiku Deck by Giant Thinkwell, Inc.  All rights reserved.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+		<a href="//www.facebook.com/HaikuDeck" target="_blank" class="footerlink"><img src="http://static.haikudeck.com/images/facebook_16.png" border="0" align="middle" hspace="2"></a>
+
+		<a href="//twitter.com/#!/HaikuDeck" target="_blank" class="footerlink"><img src="http://static.haikudeck.com/images/twitter_16.png" align="middle" border="0" hspace="2"></a>
+
+		<a href="http://pinterest.com/haikudeck/" target="_blank" class="footerlink"><img src="http://static.haikudeck.com/images/pinterest_16.png" align="middle" border="0" hspace="2"></a>
+
+		<a href="http://www.linkedin.com/company/2974495?trk=tyah" target="_blank" class="footerlink"><img src="http://static.haikudeck.com/images/linkedin_16.png" align="middle" border="0" hspace="2"></a>
+
+		&nbsp;&nbsp;
+
+		<a class="footerlink" href="https://haikudeck.zendesk.com/home" target="_blank" title="Open feedback &amp; support dialog">Support</a>
+
+		&nbsp;&nbsp;|&nbsp;&nbsp;
+
+		<a href="/faq" class="footerlink">FAQ</a>
+
+		&nbsp;&nbsp;|&nbsp;&nbsp;
+
+		<a href="/terms" class="footerlink">Terms of Service</a>
+
+		&nbsp;&nbsp;|&nbsp;&nbsp;
+
+		<a href="/privacy" class="footerlink">Privacy</a>
+
+		&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/jobs" class="footerlink">Jobs</a>
+
+
 	</div>
 
 	<div class="rslogo"></div>
 
 </div>
-
-
 
 
 
@@ -266,4 +421,4 @@ $(document).ready(function(){
 
 
 
-<!-- 0.048625946044922 --></body></html>
+<!-- 0.021164178848267 --></body></html>
