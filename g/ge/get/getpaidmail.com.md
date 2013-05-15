@@ -1,18 +1,9 @@
-> *The following text is extracted and transformed from the getpaidmail.com privacy policy that was archived on 2012-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121024053320id_/http%3A//www.getpaidmail.com/pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getpaidmail.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515090557id_/http%3A//www.getpaidmail.com/pages/privacy.php) for the most accurate reproduction.*
 
 # GetPaidMail.com
 
-|    
+|  [](http://www.etoro.com/B4454_A17661_TClick_Sgpmbnr.aspx)   
 GetPaidMail Favorites Must join!-> [Smart Media (paid)](http://edelweis.smartmediatechnologies.com/) | [HomePagepays (FREE)](http://edelweis.homepagepays.com/) | [Stiforp NR 1.!](http://edelweis.stiforptour.com/?SOURCE=07gpm) | [Work from home!](http://edelweis.onebigpowerline.com/?SOURCE=07gpm)   
-
-
-**Hello all getpaidmail members,
-
-Today we have a great website that is now in Pre Launch that you really had to join [FunkyShark click here to join](http://rewards.funkyshark.com/act/edelweis?cid=news). This website is now in Pre Launch and is free to join, with a great low cost upgraded membership that let you earn cash into 8 ways. We really expect a lot from this new website which partly become of their great owner (scott wacker) their pay plan, and the program itselfs. So if you not joined it yet this is really the time to get in and to start your promotions [FunkyShark click here to join](http://rewards.funkyshark.com/act/edelweis?cid=news).   
-Sebas Broekhof owner getpaidmail.com 
-
-**
-
   
 **Information Collected** getpaidmail.com has created this privacy statement in order to demonstrate our firm commitment to privacy. getpaidmail.com uses your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to gather broad demographic information. getpaidmail.com uses cookies to deliver content specific to your interests, to save your password so you don't have to re-enter it each time you visit our site, and for other purposes. getpaidmail.com's registration form requires users to give us contact information (like their name, address, and email address). getpaidmail.com uses member contact information from the registration form to send the member information about our company and email advertisements. Members may opt-out of receiving future mailings; see the choice/opt-out section below. Demographic and profile data is also collected at our site. We use this data to tailor the visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. We collect personal offline information for the sole purpose of paying members for earnings from our program. This site contains links to other sites. getpaidmail.com is not responsible for the privacy practices or the content of such Web sites. getpaidmail.com uses a signup form for new members and advertisers. We collect visitor's contact information (like their email address, address, and name). The member's contact information is used to get in touch with the member when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below.   
 **Public Forums** getpaidmail.com, in the future, may make chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.   
