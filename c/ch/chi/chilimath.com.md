@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the chilimath.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021082715id_/http%3A//chilimath.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chilimath.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515083357id_/http%3A//chilimath.com/privacypolicy.html) for the most accurate reproduction.*
 
-# ChiliMATH - Privacy Policy
+# ChiliMath - Privacy Policy
 
                                                     **Privacy Policy Statement**
 
-This Privacy Policy governs the manner in which ChiliMATH collects, uses, maintains and discloses information collected from users (each, a "User") of the http://www.chilimath.com website ("Site"). This privacy policy applies to the Site and all products and services offered by ChiliMATH.
+This Privacy Policy governs the manner in which ChiliMath collects, uses, maintains and discloses information collected from users (each, a "User") of the http://www.ChiliMath.com website ("Site"). This privacy policy applies to the Site and all products and services offered by ChiliMath.
 
 Personal identification information
 
@@ -20,7 +20,7 @@ Our Site may use "cookies" to enhance User experience. User's web browser places
 
 How we use collected information
 
-ChiliMATH collects and uses Users personal information for the following purposes:
+ChiliMath collects and uses Users personal information for the following purposes:
 
 \- To personalize user experience  
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.  
@@ -53,7 +53,7 @@ Some of the ads may be served by Google. Google's use of the DART cookie enables
 
 Changes to this privacy policy
 
-ChiliMATH has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+ChiliMath has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
 Your acceptance of these terms
 
@@ -62,9 +62,9 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 Contacting us
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-ChiliMATH  
-http://www.chilimath.com  
-chilimath@yahoo.com
+ChiliMath  
+http://www.ChiliMath.com  
+ChiliMath@yahoo.com
 
 This document was last updated on December 25, 2011
 
