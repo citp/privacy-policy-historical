@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the psupedia.info privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014202624id_/http%3A//psupedia.info/The_PSUPedia%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psupedia.info privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515104315id_/http%3A//psupedia.info/The_PSUPedia%25253APrivacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - The PSUPedia
 
-**Do you appreciate the information PSUPedia provides you? If so, consider[making a donation](https://web.archive.org/The_PSUPedia:Donate "The PSUPedia:Donate")! All contributions go toward our server expenses to help keep us online!**
+**As of November 11, 2012, the PSUPedia and its affiliated wikis have made the transition to read-only mode. While edits can no longer be made, we hope you will continue to enjoy the data collected by the community for years to come!**
 
 ### From The PSUPedia
 
