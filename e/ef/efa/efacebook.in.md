@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the efacebook.in privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503203234id_/http%3A//efacebook.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the efacebook.in privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515020025id_/http%3A//efacebook.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
