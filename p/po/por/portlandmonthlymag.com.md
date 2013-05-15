@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the portlandmonthlymag.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231011100id_/http%3A//portlandmonthlymag.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the portlandmonthlymag.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515072335id_/http%3A//portlandmonthlymag.com/site/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Portland Monthly
 
