@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the djmmusic.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228042939id_/http%3A//www.djmmusic.com/websiteinfo.asp%3Ffc%3D215) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the djmmusic.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515124723id_/http%3A//www.djmmusic.com/websiteinfo.asp%3Ffc%3D215) for the most accurate reproduction.*
 
 # 
 
