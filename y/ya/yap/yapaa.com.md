@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yapaa.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215012827id_/http%3A//www.yapaa.com/content/10-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yapaa.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515075917id_/http%3A//www.yapaa.com/content/10-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Yapaa.com
 
@@ -10,15 +10,15 @@ A **privacy policy** is a legal document that discloses some or all of the ways 
 
 **Website privacy  **
 
-This privacy policy sets out how chocolate retail pvt ltd uses and protects any information that you give chocolate retail pvt ltd﻿ when you use this website.
+This privacy policy sets out how chocolate retail pvt ltd uses and protects any information that you give chocolate retail pvt ltd when you use this website.
 
-chocolate retail pvt ltd﻿ is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+chocolate retail pvt ltd is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-chocolate retail pvt ltd﻿ may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 1-4-2012.
+chocolate retail pvt ltd may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 1-4-2012.
 
 **What we collect**
 
-**We may collect the following information:﻿﻿**
+**We may collect the following information:**
 
   1. **N** ame and job title
   2. Contact information including email address
@@ -33,7 +33,7 @@ We require this information to understand your needs and provide you with a bett
 
   1. Internal record keeping.
   2. We may use the information to improve our products and services.
-  3. ﻿  
+  3.   
 
 
 
@@ -62,10 +62,10 @@ Overall, cookies help us provide you with a better website, by enabling us to mo
 
 You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
 
-**Links to other websites** ﻿  
+**Links to other websites**  
 
 
-**Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such﻿  ** **You may choose to restrict the collection or use of your personal information in the following ways:﻿**
+**Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such  ** **You may choose to restrict the collection or use of your personal information in the following ways:**
 
 sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question. ****
 
@@ -92,11 +92,11 @@ Company Name:Chocolate Retail Pvt.Ltd.
 
 H OAddress:Laxmi Road,Pune-30,
 
-Telephone No.:(020)24482323,﻿
+Telephone No.:(020)24482323,
 
 Ghod  Dod Road,Surat-07
 
 (0261)2650010
 
-**E-Mail ID﻿** ﻿:  info@yapaa.com  
+**E-Mail ID** :   **info@yapaa.com**  
 
