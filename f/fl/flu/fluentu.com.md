@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fluentu.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230054758id_/http%3A//fluentu.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fluentu.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515071004id_/http%3A//www.fluentu.com/privacy) for the most accurate reproduction.*
 
 # FluentU - Privacy
 
@@ -70,7 +70,7 @@ FLUENTU ASSUMES NO RESPONSIBILITY OR LIABILITY WITH REGARD TO ANY THEFT, LOSS, A
 
 Choice and Opt Out
 
-You may opt-out of use of your information as set forth above by emailing us at [support@fluentu.com](https://web.archive.org/web/20121230054758id_/http%3A//fluentu.com/support@fluentf.com) or by setting your own preferences online for receipt of FluentU marketing and promotional emails. For instance, if you do not want us to use your email address or other contact information to provide you with offers, or no longer wish to receive our email newsletter, you may opt-out of receiving it by opting out on your "My Account" page, by following the instructions included in each newsletter or by emailing us at [support@fluentu.com](mailto:support@fluentu.com).
+You may opt-out of use of your information as set forth above by emailing us at [support@fluentu.com](https://web.archive.org/web/20130515071004id_/http%3A//www.fluentu.com/support@fluentf.com) or by setting your own preferences online for receipt of FluentU marketing and promotional emails. For instance, if you do not want us to use your email address or other contact information to provide you with offers, or no longer wish to receive our email newsletter, you may opt-out of receiving it by opting out on your "My Account" page, by following the instructions included in each newsletter or by emailing us at [support@fluentu.com](mailto:support@fluentu.com).
 
 Access to your Infomation
 
