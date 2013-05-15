@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ti.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227124513id_/http%3A//www.ti.com/corp/docs/legal/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ti.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516010613id_/http%3A//www.ti.com/corp/docs/legal/privacy.shtml) for the most accurate reproduction.*
 
 # Texas Instruments - Privacy Policy
 
@@ -61,9 +61,3 @@ A few portions of TI’s Education Technology Group websites may include materia
 ## 10\. Changes to this Privacy Policy
 
 We reserve the right to change this policy. While we do not intend to make changes to this policy very often, it is always a good idea to double check our most current policy statement when you visit us to be sure that you have read and agree with what information we collect, how we use it and under what circumstances we disclose it. For more information on using TI’s websites, see the [Terms of Use](http://www.ti.com/corp/docs/legal/termsofuse.htm).
-
-## 11\. TI Contact
-
-If you have any questions about our privacy policy, you can e-mail us at privacy at list dot ti dot com (substitute special characters as required).
-
-Policy last revised on August 5, 2010
