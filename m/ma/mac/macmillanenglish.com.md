@@ -1,16 +1,15 @@
-> *The following text is extracted and transformed from the macmillanenglish.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023001010id_/http%3A//www.macmillanenglish.com/WorkArea/linkit.aspx%3FLinkIdentifier%3Did%26ItemID%3D39298) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macmillanenglish.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515125547id_/http%3A//www.macmillanenglish.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Macmillan English
 
-Our Views on Privacy
-
-We want to protect the privacy of visitors to our website and that of our customers, and other individuals. Please read the following policy; it will help you to understand how we use your personal data. We may change our privacy policy at any time without giving you notice, so please check it each time you visit this website.
+**Our Views on Privacy**  
+. Please read the following policy; it will help you to understand how we use your personal data. We may change our privacy policy at any time without giving you notice, so please check it each time you visit this website.
 
 Whenever you give us personal data, you are consenting to its collection and use in accordance with this privacy policy, including our use of cookies as explained below.
 
 IMPORTANT NOTE: If you are sixteen or under, you must obtain your parent's or guardian's permission before you send us any personal data.
 
-What personal information do we collect?
+ **What personal information do we collect?**
 
 We log your Internet Protocol (IP) address in order to receive and send information from and to you over the internet.
 
@@ -18,9 +17,9 @@ When you register on our website, register for our  newsletter, make an enquiry
 
 Bear in mind that if you include any personal data in any material you submit for inclusion on our website, it may be seen by anyone visiting this website anywhere in the world. Please do not submit any personal data that you do not want to be made public in this way, and please do not send us any personal data about anyone else without their permission.
 
-We also automatically collect data about visitors to our website (for example on browsing patterns) by using cookies. We collect data relating to the routing, duration and time of communications (traffic data), such as records of the parts of our website you have visited, services you have used, and your location. We retain traffic data for three years.  
-  
-Cookies
+We also automatically collect data about visitors to our website (for example on browsing patterns) by using cookies. We collect data relating to the routing, duration and time of communications (traffic data), such as records of the parts of our website you have visited, services you have used, and your location. We retain traffic data for three years.
+
+ **Cookies**
 
 A cookie is a small piece of data or message that is sent from a web server to your browser and is stored on your hard drive. A cookie can't read data off your hard disk or read cookie files created by other sites. Cookies do not damage your system.
 
@@ -37,13 +36,13 @@ We may also use your personal data to monitor the use of our website, to record 
 
 We use traffic data (see above) to help us understand which areas of our website are most popular so that we might better develop the design and structure of our site, and to market our own electronic communications services and to provide you with value added services, such as targeted information about our products, promotions such as competitions, or new author signings. You may withdraw your consent to our use of these data at any time.
 
-If you wish to do this, please contact: [macmillaneducation@macmillan.com ](mailto:macmillaneducation@macmillan.com)
+If you wish to do this, please contact: macmillaneducation@macmillan.com
 
 When you give us personal data, those data may be sent electronically to servers anywhere in the world and may be used, stored and processed anywhere in the world, including countries outside the European Economic Area. (Bear in mind that many countries outside the European Economic Area do not adequately protect your rights as a data subject).
 
 Whenever and wherever we collect, process or use personal data, we take steps to ensure that it is treated securely and in accordance with our privacy policy.
 
-To whom might we disclose your personal data?
+ **To whom might we disclose your personal data?**
 
 We may pass your personal data to anyone who needs those data in order to fulfil your requests for our goods and services, or to validate any payment details you give to us. Some of these people may be located outside the European Economic Area.
 
@@ -53,15 +52,15 @@ We may also provide your personal data to businesses (which may or may not be co
 
 We may also provide your personal data to anyone who buys our business or business assets. Except as set out above, we will not disclose your personal information unless we are obliged to do so or allowed to do so by law, or where we need to do so in order to run our business (for instance where we outsource services or other people process data for us).
 
-Direct Marketing
+ **Direct Marketing**
 
-We may contact you by email to market our goods and services, but you may at any time request us to stop using your personal data for direct marketing purposes.  If you wish to do this please contact: [help@macmillan.com](mailto:help@macmillan.com).   
-  
-Links
+We may contact you by email to market our goods and services, but you may at any time request us to stop using your personal data for direct marketing purposes.  If you wish to do this please contact: help@macmillan.com. 
+
+**Links**
 
 Our website contains links to other websites. We are not responsible for the privacy practices of other sites. We encourage our visitors to be aware when they leave our website, and to read the privacy policy of other sites that collect or use personal data. This privacy policy applies only to personal data collected by Macmillan Publishers Limited.
 
-Security
+ **Security**
 
 We give you the option of using a secure server whenever you make payment over the internet or provide details of any credit or debit card.
 
@@ -69,7 +68,7 @@ We use the industry standard, Secure Socket Layer (SSL) encryption, to ensure ou
 
 Unfortunately, no data transmission over the internet or any other network is 100 per cent secure, but we take appropriate steps to try to protect the security of your personal data.
 
-Contacts
+ **Contacts**
 
 This website is operated by Macmillan Publishers Limited, trading as Macmillan Education. Macmillan Publishing Limited is a company registered in England.  Our registered number is 00785998.
 
@@ -81,8 +80,8 @@ Basingstoke
 Hampshire  
 RG21 6XS
 
-Individuals have certain rights of access to their personal data. If you wish to request any information about your personal data, please contact: [help@macmillan.com](mailto:help@macmillan.com)   
-  
-Inaccuracies and Corrections
+Individuals have certain rights of access to their personal data. If you wish to request any information about your personal data, please contact: help@macmillan.com 
 
-We would like to keep your personal data accurate and up to date. If you become aware of any errors or inaccuracies please let us know by contacting [help@macmillan.com](mailto:help@macmillan.com). 
+**Inaccuracies and Corrections**
+
+We would like to keep your personal data accurate and up to date. If you become aware of any errors or inaccuracies please let us know by contacting help@macmillan.com.
