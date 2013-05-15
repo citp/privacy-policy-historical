@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the titleboxingclub.com privacy policy that was archived on 2012-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121113205220id_/http%3A//www.titleboxingclub.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the titleboxingclub.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515030503id_/http%3A//www.titleboxingclub.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Title Boxing Club | Boxing + Kickboxing Fitness Workouts
+# Privacy -
 
 TITLE Boxing Club and TITLE Boxing are committed to protecting your privacy. We use the information we collect about our site visitors to provide a more personalized and relevant experience. Please read the following details about our privacy policy.
 
@@ -15,8 +15,3 @@ TITLE Boxing Club and TITLE Boxing collects the domain name of each visitor to o
 ### How is this information used?
 
 The information we collect is used to improve the content and layout of our website. For example, information may be used to customize the content of our websites, to notify consumers about updates, or to contact consumers for marketing purposes directly related to TITLE Boxing Club and TITLE Boxing.
-
-**[DOWNLOAD AS PDF](http://www.titleboxingclub.com/wordpress/wp-content/plugins/kalins-pdf-creation-station/kalins_pdf_create.php?singlepost=pg_844)**
-
-  
-
