@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wpengine.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021184644id_/http%3A//wpengine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpengine.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515175700id_/http%3A//wpengine.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | WordPress Hosting by WP Engine
+# Privacy Policy | WordPress Hosting by @WPEngine
 
 ### Website Visitors
 
