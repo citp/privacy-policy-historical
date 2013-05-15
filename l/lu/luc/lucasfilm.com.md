@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lucasfilm.com privacy policy that was archived on 2012-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121208103115id_/http%3A//lucasfilm.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lucasfilm.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515133807id_/http%3A//lucasfilm.com/privacy.html) for the most accurate reproduction.*
 
 # Lucasfilm: | Lucasfilm Privacy Policy
 
@@ -144,7 +144,7 @@ In connection with some of our products and services we may use or offer service
 
 Lucasfilm products and services are hosted in the United States. If you use Lucasfilm products and services from the European Union, or any other region with laws governing data collection and use that may differ from U.S. law, please note that you are transferring your personal data outside of those jurisdictions to the United States. The United States does not have the same data protection laws as the European Union and other regions. By providing Personal Information under this Policy, you consent to the use of your Personal Information in accordance with this Policy and the transfer of your Personal Information to the United States.
 
-Lucasfilm complies with the U.S.E.U. Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from European Union member countries. and Switzerland. Lucasfilm has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Lucasfilm's certification, please visit <http://www.export.gov/safeharbor>.
+Lucasfilm complies with the U.S.–E.U. Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from European Union member countries. and Switzerland. Lucasfilm has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Lucasfilm's certification, please visit <http://www.export.gov/safeharbor>.
 
 **13\. California Privacy Rights**
 
