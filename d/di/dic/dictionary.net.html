@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dictionary.net privacy policy that was archived on 2012-11-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121111175744id_/http%3A//www.dictionary.net/home/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dictionary.net privacy policy that was archived on 2013-05-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130515062349id_/http%3A//www.dictionary.net/home/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 				<title>Definition of Home from dictionary.net</title>
@@ -19,12 +19,6 @@
 		<script type="text/javascript" src="http://yui.yahooapis.com/combo?2.9.0/build/yahoo-dom-event/yahoo-dom-event.js&amp;2.9.0/build/container/container_core-min.js&amp;2.9.0/build/menu/menu-min.js&amp;2.9.0/build/element/element-min.js&amp;2.9.0/build/button/button-min.js&amp;2.9.0/build/editor/editor-min.js"></script>
 
 		<meta name="msvalidate.01" content="18B68099A4487D8D8E436CC60AC67C34">
-		
-				
-		
-	<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
-</script>
-
 		<script type="text/javascript">
 			function cover()
 			{
@@ -36,6 +30,16 @@
 				$(".overlay").css("display", "none");
 				$("#cover").css("display", "none");
 			}
+
+			function checkSearch() {
+	document.getElementById('searchInput').value = document.getElementById('searchInput').value.replace(/^[\s]+/, '').replace(/[\s]+$/, '').replace(/[\s]{2,}/, ' ');
+	if (document.getElementById('searchInput').value == '' || document.getElementById('searchInput').value == 'Type your word here') {
+		alert('Search can not be empty');
+	}
+	else {
+		document.getElementById('searchForm').submit();
+	}
+}
 			
 			$(document).ready(function() {
 				$(".close-box").click(function()
@@ -43,24 +47,29 @@
 					uncover();
 				});
 				$('#search-box').watermark('Search...');
+
+				$('.home-button').click(function(){ checkSearch();  })
 			});
+			
 			
 		</script>
 			
 		<meta charset="utf-8">
 		
-		<script type="text/javascript">
-		  var _gaq = _gaq || [];
-		  _gaq.push(['_setAccount', 'UA-34452007-1']);
-		  _gaq.push(['_setDomainName', 'dictionary.net']);
-		  _gaq.push(['_trackPageview']);
+	<script type="text/javascript">
 
-		  (function() {
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-18979322-26']);
+	  _gaq.push(['_setDomainName', 'dictionary.net']);
+	  _gaq.push(['_trackPageview']);
+
+	  (function() {
 		    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
 		    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
 		    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-		  })();
-		</script>
+	  })();
+
+	</script>
 	</head>
 
 	<body>
@@ -87,11 +96,7 @@
 												<a href="http://www.dictionary.net/user/login/">Sign in | New User?</a>
 					   
 											</div>
-
-					<form method="post" action="http://www.dictionary.net/home/search/">	
-						<input id="search-box" type="text" name="search">&nbsp;<input class="button" type="submit" value="Search">
-					</form>										
-					<br class="clear">												
+																
 				</div>
 			</div>
 		</div>
@@ -139,7 +144,7 @@
 
 		<div id="footer">		
 			<div class="left" style="margin-left: 20px; color: white; padding-top: 10px;">
-				©&nbsp;Dictionary.net&nbsp;2012			</div>
+				©&nbsp;Dictionary.net&nbsp;2013			</div>
 			<div class="right">
 				<ul>
 					<li><a href="http://www.dictionary.net">Home</a></li>
@@ -185,13 +190,6 @@ s1.parentNode.insertBefore(s, s1);
 </script>
 
 <!-- Place this tag in your head or just before your close body tag -->
-<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>  
 
-<script type="text/javascript">
-    var infolinks_pid = 429299;
-    var infolinks_wsid = 1;
-</script>
-<script type="text/javascript" src="http://resources.infolinks.com/js/infolinks_main.js"></script>
-                
-	
 	</body></html>
