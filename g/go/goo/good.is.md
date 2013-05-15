@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the good.is privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130154003id_/http%3A//www.good.is/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the good.is privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515194052id_/http%3A//www.good.is/about/privacy) for the most accurate reproduction.*
 
-# GOOD - For Everyone
+# Privacy Policy | GOOD
 
 This privacy policy is a legal notice about how we use personal information collected on this website. The information below outlines what information is collected (yes, we do collect some), how we may use that information (we may use some of it), the persons to whom the personal information may be disclosed, and the security measures taken to protect the personal information.
 
