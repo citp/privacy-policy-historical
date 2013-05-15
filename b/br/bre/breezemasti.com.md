@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the breezemasti.com privacy policy that was archived on 2012-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120901022130id_/http%3A//www.breezemasti.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the breezemasti.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515020715id_/http%3A//www.breezemasti.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | breezemasti.com
 
@@ -24,8 +24,6 @@ You can chose to disable or selectively turn off our cookies or third-party cook
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
 
 **Changes to this Privacy Statement**  
-The contents of this statement may be altered at any time, at our discretion. 
+The contents of this statement may be altered at any time, at our discretion.
 
-If you have any questions regarding the privacy policy of breezemasti.com then you may contact us at breezemasti(at)gmail(dot)com 
-
-Number of View :1717 
+If you have any questions regarding the privacy policy of breezemasti.com then you may contact us at breezemasti(at)gmail(dot)com
