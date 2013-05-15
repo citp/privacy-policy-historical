@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cotterweb.net privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120102326id_/http%3A//www.inboxdollars.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cotterweb.net privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515083249id_/http%3A//www.inboxdollars.com/pages/privacy) for the most accurate reproduction.*
 
 # Earn Cash Online: Privacy Policy - InboxDollars
 
@@ -9,7 +9,7 @@ InboxDollars® reserves the right to modify this Privacy Policy at any time. The
 
 The column on the right provides a short explanation of the privacy policy and is not legally binding.
 
-Last Updated: _September 7, 2012 2:00 p.m. CST_
+Last Updated: _November 26, 2012 9:00 a.m. CST_
 
 ## I. INFORMATION COLLECTION
 
@@ -90,11 +90,15 @@ In addition to cookie technology, InboxDollars® and our Advertisers use additio
 
 Your computer permits you to change the settings on your web browser to not accept and/or disable Cookies and Recording Tools. However, if you do not accept Cookies and Recording Tools used by InboxDollars® and our Advertisers, you may not be able to use certain functions on certain websites. More importantly, if you do not accept Cookies and Recording Tools you will not receive credit for offers or other actions completed by you because we and our Advertisers are unable to track and record your activity. If you do not want to accept Cookies and Recording Tools, you must stop using this website.
 
-  2. #### Referral and Affiliate Tracking
+  2. #### Third Party Cookies
+
+Notwithstanding anything else in this policy, we or a data provider we have engaged may place or recognize a unique cookie on your browser to enable you to receive customized ads or content. These cookies contain no personally identifiable information. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, that we may share with a data provider solely in hashed, non-human readable form. To opt-out of these cookies, please go to <http://www.aboutads.info/choices>.
+
+  3. #### Referral and Affiliate Tracking
 
 InboxDollars® uses cookies in order to track new User registrations. This ensures Users are properly credited for referring other Users, as well as to track earnings for our Affiliates. 
 
-  3. #### Toolbar Tracking
+  4. #### Toolbar Tracking
 
 If you install the InboxDollars® toolbar, you are also subject to the terms and conditions of the Toolbar End User License Agreement (EULA). [Click here to view the EULA.](https://web.archive.org/pages/toolbar_terms)
 
@@ -110,7 +114,7 @@ Any information collected through the toolbar may be used and shared by InboxDol
 
 InboxDollars® may use non-personally identifiable information in way it deems appropriate. We may also combine non-personally identifiable information with identifiable data. We may share and use this information for all purposes as permitted and described in this Privacy Policy generally.
 
-  4. #### User Recognition
+  5. #### User Recognition
 
 After a User has logged into the InboxDollars® Member’s Section, cookies are used to remember their Username and Password so they do not need to be entered during every visit to our Web Site. Users can logout of the Member’s Section if they do not wish to have this information saved. 
 
