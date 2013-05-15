@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wpbf.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016143720id_/http%3A//www.wpbf.com/connect/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpbf.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515164835id_/http%3A//www.wpbf.com/connect/privacy) for the most accurate reproduction.*
 
 # 
 
@@ -122,7 +122,7 @@ If we believe that the security of any user's personal information in our posses
 
 **How can you access and edit your personally identifiable information?**
 
-You can access and/or edit any of the personally identifiable information you have provided to us by logging in to your account on the Site (if applicable). You may edit your email notification preferences [here](https://web.archive.org/connect/emailnewsletters/-/8790222/-/10r82u1z/-/index.html) (if applicable), or if you are a member of the u local community, you may edit your profile preferences [here](http://ulocal.wpbf.com/)
+You can access and/or edit any of the personally identifiable information you have provided to us by logging in to your account on the Site (if applicable). You may edit your email notification preferences [here](https://web.archive.org/connect/emailnewsletters) (if applicable), or if you are a member of the u local community, you may edit your profile preferences [here](http://ulocal.wpbf.com/)
 
 **What Web sites does this Privacy Policy cover?**
 
