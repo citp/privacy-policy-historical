@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sharemylesson.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230190150id_/http%3A//www.sharemylesson.com/article.aspx%3FstoryCode%3D6000267%26navCode%3D423) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharemylesson.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516014251id_/http%3A//www.sharemylesson.com/article.aspx%3FstoryCode%3D6000267%26navCode%3D423) for the most accurate reproduction.*
 
 # Privacy policy - Help - Share My Lesson
 
