@@ -1,118 +1,110 @@
-> *The following text is extracted and transformed from the foodbuzz.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509100138id_/http%3A//www.foodbuzz.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodbuzz.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515060624id_/http%3A//www.dailybuzz.com/privacy) for the most accurate reproduction.*
 
-# Privacy - Foodbuzz
+# DailyBuzz - The Best of the Independent Web
 
-Updated June 18, 2007
+This Privacy Policy covers the Federated Media Publishing, Inc. ("Federated Media") family of websites, including [dailybuzz.com](http://www.dailybuzz.com/) (the "Sites"). Federated Media and any and all of the entities that control, are controlled by, or are affiliated with or under common control with Federated Media are referred to herein as "Federated Media" "We", "Us" or "Our." Federated Media will maintain your data in connection with the Sites as described in this Privacy Policy.
 
-This Privacy Policy covers the website www.foodbuzz.com (the "Site"), which is owned by Pricing Dynamics, Inc., dba Foodbuzz ("Foodbuzz", "we" or "us"). Foodbuzz will maintain your data as described in this Privacy Policy.
+Your privacy is important to Us. To demonstrate Our commitment to Our users' privacy, We provide the following Privacy Policy to inform you of Our policies regarding the collection, use and disclosure of personally-identifiable information collected from you during your use of the Sites.
 
-Your privacy is important to us. To demonstrate our commitment to our users' privacy, we have agreed to disclose our information practices.
+This Privacy Policy is an integral part of the Sites and cannot, in any way, be separated from the Terms of Service or from the usage or transaction process. If you do not agree to Our Privacy Policy in whole, you must not use the Sites.
 
-This Privacy Policy is an integral part of our Site and cannot, in any way, be separated from the Users Agreement or from the usage or transaction process. If you do not agree to our Privacy Policy in whole, you must not use the Site. If you have questions or concerns regarding this statement, you can contact Foodbuzz customer service by email at support@foodbuzz.com.
+This Privacy Policy may be updated from time to time for any reason. We will notify you of any material changes by posting the new policy on the Sites and highlighting the changes. We suggest that you consult the Sites regularly to check for any changes to this Privacy Policy. If you have any questions about this Privacy Policy or Our privacy practices, please contact Us at [privacy@federatedmedia.net](mailto:privacy@federatedmedia.net).
 
-In summary:
+## Information We Collect
 
-We will not collect personal information without your knowledge and permission;  
-We will not knowingly disclose your personal information to third parties, except as provided in this Privacy Policy;  
-We will allow you to view, correct or remove your personal information; and  
-We will take reasonable steps to protect the security of the personal information we collect from you. 
+We collect information in the following circumstances: (i) registering for an account, (ii) participation in surveys, sweepstakes, contests, and promotions ("Surveys and Promotions"), (iii) contacting Us, and (iv) visiting and browsing the Sites.
 
-Consent
+**Registration**
 
-BY SUBMITTING PERSONAL INFORMATION TO US, AND/OR BY USING OUR SITE, YOU AGREE THAT WE MAY COLLECT, USE AND DISCLOSE SUCH PERSONAL INFORMATION IN ACCORDANCE WITH THIS PRIVACY POLICY AND AS PERMITTED OR REQUIRED BY LAW. 
+Some of the Sites require you to register with Federated Media or a third party partner in order to use the Site or access certain features of the Site. Information collected during the registration process may include, but is not limited to, your name, company name, company address, phone number, username, email address, date of birth, account password. We may also collect your IP address when you register and use a Site. From time to time in the future, We may offer additional features, services, and promotional opportunities that may require you to submit additional information to participate.
 
-If you do not agree with these terms, do not provide any personal information to us. If you refuse or withdraw your consent, or if you choose not to provide us with any required personal information, we may not be able to provide you with services that can be offered on our Site.
+**Surveys and Promotions**
 
-Eligibility
+We also collect certain information about you and your web browsing sessions if you participate in Surveys and Promotions, which allows Us to coordinate the marketing support that allows Us to continue to share Our knowledge, insights, and opinions. Participation in Surveys and Promotions is optional. Should you choose to participate, the information We collect for Surveys and Promotions may include your name, phone number, address, e-mail address, IP address, the website that referred you to the applicable Site, and other data.
 
-You must be 18 or over, or the legal age to form a binding contract in your jurisdiction if that age is over 18 years of age, to register as a Foodbuzz member or to use the Site and Services. If you are under the applicable age, you can use the Site under the supervision of your parent or guardian who has agreed to the Terms of Service. However, you must be 13 years or older to use the Site in compliance with the Children's Online Privacy Protection Act (COPPA). If you do not qualify, please do not use the Site.
+**Contacting Us**
 
-Information that Users Provide to Foodbuzz
+You may also contact Us by filling out and submitting a form through a Site, or by submitting feedback when you are logged in to a Site. When you contact Us through a Site, your full name and email address are transmitted to Us. Any other information you choose to include in the form you submit would also be transferred to and stored on Our servers.
 
-User Registration
+**Anonymous Information**
 
-When you become a foodbuzz.com user, during the registration process you will provide us with requested information such as your name, and email address, password, password validation, website persona name, and zip code. Only your website persona is automatically displayed on the Site. You may choose to display your name or to not display your name. Your email and password are never displayed on the Site. This information is collected on the registration form for several reasons including: (1) to allow you to log in to your profile using a secret password so that you may fully utilize the services provided on the website, (2) to allow us, if necessary, to contact you for customer service, (3) to allow us to send you a confirmation email upon joining that makes it more difficult for third-party "spammers" to abuse our registration process. As a registered member, you can opt-in to receive email updates from us about special offers, new foodbuzz.com services, and other noteworthy information including comments that other users have made to content that you have submitted. However, you may always choose to decline to receive these email messages at any time. Please see our Opt-out policy described below.
+We also collect "Anonymous Information," such as traffic statistics and general usage patterns regarding page views, dates and times you use a Sites, the website that referred you to the Site, and the method by which you accessed the Site, files accessed through the Site, responses sent to the browser, the length of data sent to the browser, and other data used in the communication between browser and Sites.
 
-User Profile Information and User Submissions
+**Cookies**
 
-In their user profile, users can choose to provide foodbuzz.com with information such as favorite restaurant, favorite dishes and a variety of user-generated content such as photos, videos, reviews and recipes. This information is publicly displayed in the user's profile. 
+Cookies are small pieces of information stored on your computer with information about your visit to a particular site. We use both session ID cookies and persistent cookies. Session ID cookies are erased when you close your browser and do not last beyond one visit to Our Sites. Session cookies help Us keep track of information such as what service or product you are searching for. A persistent cookie is a small file stored on your hard drive for an extended period of time. These cookies are used to remember items like your login information if you have elected to have it remembered on your computer, and are used to target you for our other Sites.
 
-How We Use Your Information
+Most web browsers automatically accept cookies, but if you prefer, you can edit your browser options to block them in the future. If you reject the cookie, you may not be able to fully use all of the functionality of the Site. In particular, session ID cookies are required to store relevant information as a user moves from page to page. Persistent cookies enable Us to track and target the interests of Our users to enhance the experience on Our Sites.
 
-There are two ways that you may use the Site:
+## How We Use the Information We Collect
 
-As an Unregistered User, you may access publicly available information on the Site. Your activity may be tracked and when you view a specific page on the site, your view may be counted towards the aggregate vies for that page.
+The information you provide that can be used to locate or identify you is referred to as "Personally Identifiable Information." We use it to provide Our Services and to communicate with you regarding such Services. We may also use your Personally Identifiable Information to provide information you have requested or products you have purchased (e.g., membership dues, event tickets), to resolve disputes, collect fees, and troubleshoot problems. We also may use your Personally Identifiable Information: to respond to specific inquiries made by you; to prevent potentially prohibited or illegal activities, and enforce Our Terms of Use; and to customize, measure, and improve Our Services, content, and layout. In addition, We analyze and use your Personally Identifiable Information — and supplement it with other information We obtain — to notify you and target advertising to you regarding special offers, products, services, and information that We think may be of interest to you, and to measure the advertising effectiveness of advertisements on Our Sites.
 
-As a Registered User, you may access publicly available information on the Site, build a profile on the site, and submit content on the Site. You may also vote, comment, add and send Content as described on the Site.
+We use your Anonymous Information for the purposes of system administration, providing certain site functionality and content, targeted advertising, site tracking, and collecting and reporting aggregate usage information. We may combine Anonymous Information with your Personally Identifiable information to notify you of special offers and target advertising and other content to you.
 
-Newsletters, Discount Alerts and Other Opt-in Emails and Text Messages
+## Phishing
 
-You may elect to receive updates from us about special offers, new Foodbuzz services, and other noteworthy news items. However, you must opt-in to these emails and text messages, and you may always choose to decline to receive these email messages and text messages at any time. Please see our Opt-out policy described below. We will never sell, rent or share your personal information, including your email or phone number with and third parties for marketing purposes without your express permission. We may share your personal information with our service delivery providers for the purpose of delivering our email and text messages to your or as required by law.
+We do not and will not, at any time, request your credit card information, your username, login password, or national identification numbers in a non-secure or unsolicited e-mail or telephone communication. Identity theft and the practice currently known as "phishing" are of great concern to Us. Safeguarding information to help protect you from identity theft is Our top priority. For more information about phishing, you may want to visit the Federal Trade Commission's website at <http://www.ftc.gov/bcp/conline/pubs/alertsphishingalrt.htm> .
 
-Choice/Opt-out
+## Opt-in Emails, Text Messages and Offers
 
-Our users are given the opportunity to opt-out of emails and text messages to which they have previously opted-in. This does not apply to emails that are automatically generated by the system (registration confirmation emails). 
+You may elect to receive updates from Us about special offers, new services, and other noteworthy news items. However, you must opt-in to these emails and text messages, and you may always choose to decline to receive these email messages and text messages at any time. Please see Our Opt-out policy described below. We will never sell, rent or share your personal information, including your email or phone number with and third parties for marketing purposes without your express permission. We may share your personal information with Our service delivery providers for the purpose of delivering Our email and text messages to your or as required by law.
 
-Users who no longer wish to receive our newsletter and promotional communications may opt-out of receiving these communications by typing unsubscribe in the subject line in a return email or by sending us an email at support@foodbuzz.com. For emails, we also offer an opt-out mechanism for Registered Users on the User Profile page (My Profile). 
+## Choice/Opt-out
 
-Users of our Site are always notified when their information is being collected by any outside parties. We do this so you can make an informed choice as to whether or not you should proceed with services that require an outside party.
+Our users are given the opportunity to opt-out of emails and text messages to which they have previously opted-in. This does not apply to emails that relate to Site information, Terms of Service, or that are automatically generated by the system (registration confirmation emails). Users who no longer wish to receive Our promotional communications may opt-out of receiving these communications by clicking on the Unsubscribe link provided in emails.
 
-Sharing Information
+## Information Sharing
 
-Legal Disclaimer
+Except as set forth in this Privacy Policy, We will not share your Personally Identifiable Information with third parties.
 
-Although we make every effort to preserve your privacy, Foodbuzz may be required by law to disclose information you have provided in obtaining our services. Foodbuzz may also disclose information against someone who poses a threat to Foodbuzz's interests (such as customer fraud) or whose activities could bring harm to others.
+## Posting
 
-Aggregate Information (non-personally identifiable)
+Any information voluntarily disclosed by users and posted on the Sites (on message boards, web logs, and/or in chat areas) may be viewed and used by others. Except as set forth in this Privacy Policy, We do not sell, rent, trade or give away any of your personal information including your last name and your email address. HWe reserve the right to sell, rent, share or trade your User Submissions (as defined in the Terms of Service posted on the relevant Sites) including your first name and initial of last name to third parties. If you post personal information that is accessible to the public online, you do so at your own risk. Be aware that you may receive unsolicited messages from other parties as a result.
 
-We share aggregated demographic information with our partners. This is not linked to any personally identifiable information.
+## Third Party Service Providers
 
-Links
+We engage certain third parties to perform various functions and provide services to Us (for example, web hosting services and maintenance services). These third parties may have access to some of your Personally Identifiable Information, but only to the extent necessary to perform these functions and provide such services, and only pursuant to binding contractual obligations requiring such third parties to maintain the privacy and security of your Personally Identifiable Information.
 
-Please be aware that we may have links to other websites on our Site that may collect personally identifiable information about you. This Privacy Policy does not cover the information practices or policies of such third-party websites. Foodbuzz does not share the personal information we obtain from you with third parties at these websites.
+## Compliance with Laws and Law Enforcement
 
-Transfer of Information
+We may choose to disclose some or all of your Personally Identifiable Information to the government, law enforcement officials, or private parties if We, in Our sole discretion, believe it necessary or appropriate to comply with the law, to respond to legal complaints, to comply with legal process (including subpoenas), to protect the rights of Our company or a third party, to ensure the safety of the public or any person, or to prevent or stop any illegal, unethical, or legally questionable activity. Although We make every effort to preserve your privacy, We may be required by law to disclose information you have provided in obtaining Our services. We may also disclose information against someone who poses a threat to Our interests (such as customer fraud) or whose activities could bring harm to others.
 
-Except as set forth in this Privacy Policy, we do not sell, rent, trade or give away any of your personal information including your last name and your email address. However, we reserve the right to sell, rent, share or trade your User Submissions (as defined in the Terms of Service posted on the Site) including your first name and initial of last name to third parties. We reserve the right to transfer your personal information in the event of a transfer of ownership of Foodbuzz. In such event, you will be notified if your information becomes subject to a new Privacy Policy associated with such transfer.
+## Changes in Corporate Ownership
 
-Usage of Your Information to Enhance the Users Experience 
+If any or all of Our assets are acquired by, or merged with, another entity We will share some or all of your Personally Identifiable Information with that entity.
 
-Cookies
+## Accessing and Changing Your Information
 
-Cookies are small pieces of information stored on your computer with information about your visit to a particular site. We use both session ID cookies and persistent cookies. Session ID cookies are erased when you close your browser and do not last beyond one visit to our Site. Session cookies help us keep track of information such as what date or restaurant you are searching for. A persistent cookie is a small file stored on your hard drive for an extended period of time. These cookies are used to remember items like your login information if you have selected for it to be remembered on your computer. 
+You may always access and modify certain of your Personally Identifiable Information you provide through Our self-service e-commerce platform by visiting the "sign in" area at the home page. You may or may not be able to modify the Personally Identifiable Information you provide through other parts of the Sites.
 
-Most web browsers automatically accept cookies, but if you prefer, you can edit your browser options to block them in the future. If you reject the cookie, you may not be able to fully use the Site. In particular, session ID cookies are required to store relevant information as a user moves from page to page. Persistent cookies enable us to track and target the interests of our users to enhance the experience on our Site. 
+## Security
 
-Log Files
+We place great importance on the safety and security of your Personally Identifiable Information. We employ certain physical, procedural, and technological measures in an attempt to protect your Personally Identifiable Information from unauthorized access and use. Our servers that contain Personally Identifiable Information are stored in an off-site facility. We also use hashed passwords, which allow an algorithmic version of your password to be stored instead of your actual password. When receiving financial information (e.g., PayPal account IDs) for completing certain online transactions, including those in connection with the Federated Media and individual Sites' self-service platforms, We use SSL or "Secure Sockets Layer," an industry standard security protocol, though other communications through the Sites are not encrypted. Although We do attempt to keep your Personally Identifiable Information secure, no security measures are perfect; there is always a possibility that a security breach could occur, resulting in the release of Personally Identifiable Information.
 
-Like most standard website servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track general user movement (as a whole rather than as individuals), diagnose problems with our servers and gather broad demographic information. IP addresses and log files are not linked to personally identifiable information.
+## Links to Other Sites
 
-Pixel tags 
+Our Sites may contain links to other websites, in several places. You should pay particular attention to which website you are visiting when submitting any Personally Identifiable Information to these websites. This Privacy Policy addresses the use and disclosure of only that information that We collect from you through the Sites. Different rules may apply to information you submit to other websites, and We encourage you to review the privacy policies of these websites.
 
-We use pixel tags to monitor the open rate of our communications. This helps us understand the effectiveness of communications we send. We do not use this information for any other purpose.
+## Our Policy Toward Children
 
-Security
+Our Sites are not directed toward persons under thirteen years of age. If a parent or guardian becomes aware that his or her child has provided Us with personally identifiable information without their consent, he or she should contact Us at [privacy@federatedmedia.net](mailto:privacy@federatedmedia.net). If We become aware that a child under thirteen has provided Us with Personally Identifiable Information, We will remove such information from Our files.
 
-Foodbuzz takes every precaution to protect your personal information. When you submit sensitive information via the Site, this information is protected both online and offline.
+## Notification of Changes
 
-While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect your personal information offline. All of our user's information, not just the sensitive information mentioned above, is restricted in our offices. Furthermore, all employees are kept up-to-date on our security and privacy practices. Every time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our user's information is protected. Finally, the servers that store personally identifiable information are in a secure environment, in a locked facility.
+If We decide to change Our policies, We will add those changes to this Privacy Policy and other places on the Sites We deem appropriate so you are always aware of what information We collect, how We use it, and under what circumstances, if any, We disclose it. We will use information in accordance with the Privacy Policy under which the information was collected.
 
-Correcting/Updating/Deleting/Deactivating Personal Information
+If, however, We are going to use your Personally Identifiable Information in a manner different from that stated at the time of collection, We will notify you via email. Users will have a choice as to whether or not We use their information in this different manner.
 
-If a Registered User's personally identifiable information (such as zip code, phone, email or postal address) changes or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate user's personally identifiable information. Registered Users can change your personal information on the User Profile (My Profile) page of our Site. Users can also email our customer support at support@foodbuzz.com.
+## California Privacy Rights
 
-Notification of Changes
+Under California Law, California residents have the right to request in writing from businesses with whom they have an established business relationship, (1) a list of the categories of personal information, such as name, address, e-mail address, and the type of services provided to the customer, that a business has disclosed to third parties (including affiliates that are separate legal entities) during the immediately preceding calendar year for the third parties' direct marketing purposes, and (2) the names and addresses of all such third parties. To request the above information, please e-mail us at: [privacy@federatedmedia.net](mailto:privacy@federatedmedia.net), or write to Us at: Customer Service, Federated Media Publishing, Inc., 72 Townsend Street, San Francisco, CA 94107 with a reference to California Disclosure Information.
 
-If we decide to change our policies, we will add those changes to this Privacy Policy and other places on the Site we deem appropriate so you are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the Privacy Policy under which the information was collected.
+We will respond to such written requests within 30 days following receipt at the e-mail or mailing address stated above. If We receive your request at a different e-mail or mailing address, We will respond within a reasonable period of time, but not to exceed 150 days from the date received. Please note that We are only required to respond to each customer once per calendar year.
 
-If, however, we are going to use your personally information in a manner different from that stated at the time of collection, we will notify you via email. Users will have a choice as to whether or not we use their information in this different manner. However, if you have opted out of all communication with the Site, or deleted/deactivated your account, then you will not be contacted, nor will your personal information be used in this new manner.
+## Contact Information
 
-California Privacy Rights
+If you have any questions or suggestions regarding Our Privacy Policy, please contact Us at: [privacy@federatedmedia.net](mailto:privacy@federatedmedia.net).
 
-Under California Law, California residents have the right to request in writing from businesses with whom they have an established business relationship, (1) a list of the categories of personal information, such as name, address, e-mail address, and the type of services provided to the customer, that a business has disclosed to third parties (including affiliates that are separate legal entities) during the immediately preceding calendar year for the third parties' direct marketing purposes, and (2) the names and addresses of all such third parties. To request the above information, please e-mail us at: support@foodbuzz.com, or write to us at: Customer Service, Foodbuzz, 921 Front St. San Francisco, CA 94111 with a reference to California Disclosure Information.
+  
 
-We will respond to such written requests within 30 days following receipt at the e-mail or mailing address stated above. If we receive your request at a different e-mail or mailing address, we will respond within a reasonable period of time, but not to exceed 150 days from the date received. Please note that we are only required to respond to each customer once per calendar year.
-
-Contact Information
-
-If you have any questions or suggestions regarding our Privacy Policy, please contact us at: Support@foodbuzz.com 
