@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the iobit.com privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103135953id_/http%3A//www.iobit.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iobit.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515105221id_/http%3A//www.iobit.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy - IObit
-
-### IObit Privacy Policy
 
 Last Updated: July 10, 2006
 
@@ -10,13 +8,13 @@ IObit is committed to protecting your privacy. Please read the IObit Online Priv
 
 This IObit Online Privacy Statement applies to data collected by IObit through the majority of its Web sites and services, as well as its offline product support services. It does not apply to those IObit sites, services and products that do not display or link to this statement or that have their own privacy statements.
 
-If you have any questions about this Policy, please feel free to [contact us](https://web.archive.org/web/20121103135953id_/http%3A//www.iobit.com/contact.html).
+If you have any questions about this Policy, please feel free to [contact us](https://web.archive.org/web/20130515105221id_/http%3A//www.iobit.com/contact.php).
 
 **Collection of Your Personal Information**
 
-In order to access some IObit services, you will be asked to sign in with an e-mail address and password, which we refer to as your credentials. In most cases, these credentials means you can use the same credentials to sign in to many different IObit sites and services, as well as those of select IObit partners. By signing in on one IObit site or service, you may be automatically signed into other IObit sites and services. If you access our services via a mobile phone, you may also use your telephone number and a PIN as an alternative credential to your username and password. As part of creating your credentials, you may also be requested to provide questions and secret answers, which we use to help verify your identity and assist in resetting your password, as well as an alternate email address. Some services may require added security, and in these cases, you may be asked to create an additional security key. Finally, a unique ID number will be assigned to your credentials which will be used to identify your credentials and associated information. 
+In order to access some IObit services, you will be asked to sign in with an email address and password, which we refer to as your credentials. In most cases, these credentials means you can use the same credentials to sign in to many different IObit sites and services, as well as those of select IObit partners. By signing in on one IObit site or service, you may be automatically signed into other IObit sites and services. If you access our services via a mobile phone, you may also use your telephone number and a PIN as an alternative credential to your username and password. As part of creating your credentials, you may also be requested to provide questions and secret answers, which we use to help verify your identity and assist in resetting your password, as well as an alternate email address. Some services may require added security, and in these cases, you may be asked to create an additional security key. Finally, a unique ID number will be assigned to your credentials which will be used to identify your credentials and associated information. 
 
-At some IObit sites, we ask you to provide personal information, such as your e-mail address, name, home or work address or telephone number. We may also collect demographic information, such as your ZIP code, age, gender, preferences, interests and favorites. If you choose to make a purchase or sign up for a paid subscription service, we will ask for additional information, such as your credit card number and billing address, that is used to create a IObit billing account.
+At some IObit sites, we ask you to provide personal information, such as your email address, name, home or work address or telephone number. We may also collect demographic information, such as your ZIP code, age, gender, preferences, interests and favorites. If you choose to make a purchase or sign up for a paid subscription service, we will ask for additional information, such as your credit card number and billing address, that is used to create a IObit billing account.
 
 We may collect information about your visit, including the pages you view, the links you click and other actions taken in connection with IObit sites and services. We also collect certain standard information that your browser sends to every website you visit, such as your IP address, browser type and language, access times and referring Web site addresses.
 
@@ -42,7 +40,7 @@ We may access and/or disclose your personal information if we believe such actio
 
 **Accessing Your Personal Information**
 
-You may have the ability to view or edit your personal information online. In order to help prevent your personal information from being viewed by others, you will be required to sign in with your credentials (e-mail address and password). The appropriate method(s) for accessing your personal information will depend on which sites or services you have used. 
+You may have the ability to view or edit your personal information online. In order to help prevent your personal information from being viewed by others, you will be required to sign in with your credentials (email address and password). The appropriate method(s) for accessing your personal information will depend on which sites or services you have used. 
 
   * IObit Billing and Account Services - If you have a IObit Billing account, you can add to or update your information at the IObit Billing website by clicking on the "Personal Information" or "Billing Information" links. 
   * IObit Newsletter - If you have used IObit Newsletter service, you can update your profile information, change your password, view the unique ID associated with your credentials, or close certain accounts by visiting Account Services. 
@@ -83,7 +81,7 @@ The majority of the online banner advertisements you see on IObit Web pages are 
 
 **Controlling "Spam" or Unsolicited E-mail**
 
-IObit is concerned about controlling unsolicited commercial e-mail, or "spam." IObit has a strict Anti-Spam Policy prohibiting the use of customer account to send spam. IObit will not sell, lease or rent its e-mail subscriber lists to third parties. While IObit continues to actively review and implement new technology, such as expanded filtering features, there is no currently available technology that will totally prevent the sending and receiving of unsolicited e-mail. Using tools such as the Inbox Protector and being cautious about the sharing of your e-mail address while online will help reduce the amount of unsolicited e-mail you receive.
+IObit is concerned about controlling unsolicited commercial email, or "spam". IObit has a strict Anti-Spam Policy prohibiting the use of customer account to send spam. IObit will not sell, lease or rent its email subscriber lists to third parties. While IObit continues to actively review and implement new technology, such as expanded filtering features, there is no currently available technology that will totally prevent the sending and receiving of unsolicited email. Using tools such as the Inbox Protector and being cautious about the sharing of your email address while online will help reduce the amount of unsolicited email you receive.
 
 **Enforcement**
 
@@ -95,4 +93,4 @@ We will occasionally update this privacy statement to reflect changes in our ser
 
 **Contacting Us**
 
-IObit welcomes your comments regarding this privacy statement. If you have questions about this statement or believe that we have not adhered to it, please [contact us](https://web.archive.org/web/20121103135953id_/http%3A//www.iobit.com/contact.html).
+IObit welcomes your comments regarding this privacy statement. If you have questions about this statement or believe that we have not adhered to it, please [contact us](https://web.archive.org/web/20130515105221id_/http%3A//www.iobit.com/contact.php).
