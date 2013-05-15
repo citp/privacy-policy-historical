@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the archives.gov privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614020709id_/http%3A//www.archives.gov/global-pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the archives.gov privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515104906id_/http%3A//www.archives.gov/global-pages/privacy.html) for the most accurate reproduction.*
 
 # Privacy and Use
 
@@ -71,7 +71,7 @@ Some of the media embedded from a third party site is from NARA’s archival col
 
 **Third-party Web Sites**
 
-In accordance with the Open Government Directive, the National Archives has a presence on several Web 2.0/[social media platforms](https://web.archive.org/social-media/). Each of these sites provides visitors with a unique way to interact with the National Archives and helps us to open our collections to the public. The National Archives official presence on a social media platform is marked by the use of a NARA [logo or seal](https://web.archive.org/about/regulations/part-1200.html).
+In accordance with the Open Government Directive, the National Archives has a presence on several Web 2.0/[social media platforms](https://web.archive.org/social-media/). Each of these sites provides visitors with a unique way to interact with the National Archives and helps us to open our collections to the public. The National Archives official presence on a social media platform is marked by the use of a NARA [logo or seal](https://web.archive.org/about/regulations/regulations.html).
 
 The essential information shared on these third party sites is available on archives.gov. In almost every case, the documents and records displayed on a third party are available in the [Archival Research Catalog](https://web.archive.org/research/arc/).
 
