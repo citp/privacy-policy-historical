@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the axigen.com privacy policy that was archived on 2012-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121020162015id_/http%3A//www.axigen.com/mail-server/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the axigen.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515073804id_/http%3A//www.axigen.com/mail-server/privacy-policy.php) for the most accurate reproduction.*
 
 # AXIGEN Mail Server - Privacy Policy
 
-Last updated: June 30, 2005
+Last updated: March 13th, 2013
 
-**GECAD TECHNOLOGIES** has created this privacy statement in order to demonstrate our company commitment to privacy. This page describes our policy regarding information gathering and dissemination practices for this website: **Axigen Mail Server**. 
+**AXIGEN MESSAGING** has created this privacy statement in order to demonstrate our company commitment to privacy. This page describes our policy regarding information gathering and dissemination practices for this website: **Axigen Mail Server**. 
 
 ## Download Registration Form
 
@@ -26,11 +26,11 @@ If you decide to contact us through our [Feedback](https://web.archive.org/about
 
 By subscribing to our [email newsletter](https://web.archive.org/newsletter/ "Axigen Newsletters"), you agree to occasionally receive a newsletter containing updates about our company and products until you unsubscribe. You may unsubscribe at any time by sending and empty email message to: [news-unsubscribe@lists.axigen.com](mailto:news-unsubscribe@lists.axigen.com "Unsubscribe"). Subscription to our newsletter is optional and requires your consent. 
 
-If you sign up for a specific e-mail newsletter on one of GECAD TECHNOLOGIES sites, you will only receive the e-mail newsletter you have requested. You may receive occasionally an offer to sign up for a different newsletter, but you will not receive additional newsletters unless your specifically request them. 
+If you sign up for a specific e-mail newsletter on one of AXIGEN MESSAGING sites, you will only receive the e-mail newsletter you have requested. You may receive occasionally an offer to sign up for a different newsletter, but you will not receive additional newsletters unless your specifically request them. 
 
 ## External Links
 
-This site contains links to other sites, outside the control of GECAD TECHNOLOGIES, that we think you may find useful. If you click on these links, you will leave Axigen Mail Server Website and enter sites that may have different privacy policies that Axigen Mail Server Website. Axigen Mail Server Website is not responsible for the privacy practices or the content of such Web sites. 
+This site contains links to other sites, outside the control of AXIGEN MESSAGING, that we think you may find useful. If you click on these links, you will leave Axigen Mail Server Website and enter sites that may have different privacy policies that Axigen Mail Server Website. Axigen Mail Server Website is not responsible for the privacy practices or the content of such Web sites. 
 
 ## Sharing of Information and Unsolicited Communications
 
