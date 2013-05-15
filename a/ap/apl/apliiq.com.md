@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the apliiq.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205193540id_/http%3A//www.apliiq.com/site/lookup.asp%3Fc%3DtwLZKdN1LvH%26b%3D7735059) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apliiq.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515235847id_/http%3A//www.apliiq.com/Privacy) for the most accurate reproduction.*
 
-# privacy policy - apliiq
+# Privacy Policy
+
+* * *
+
+privacy policy - apliiq - custom test
 
 Thanks for using [http://www.apliiq.com](http://www.apliiq.com/) (the "Apliiq Website"). At Apliiq Inc. ("Apliiq"), we are committed to protecting your privacy. We have created this privacy policy to make sure you know what information we collect and how we use it. By using our the Apliiq Website you consent to the collection and use of your information as we have outlined in this policy. From time to time, we may update this privacy policy. We encourage you to check back and review this privacy policy so that you always will know what personally identifiable information we collect, how we use it, and to whom we disclose it. Your continued use of the Apliiq Website will be subject to the then current privacy policy. ****
 
@@ -126,7 +130,7 @@ Parents can review any information Apliiq has received from a child and the pare
   
 Apliiq Inc.  
 Attn: Privacy  
-440 Seaton St. #202  
+440 Seaton St. #207  
 Los Angeles, CA 90013  
 cs@apliiq.com  
 213 253 2727  
