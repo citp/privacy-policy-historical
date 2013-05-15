@@ -1,73 +1,73 @@
-> *The following text is extracted and transformed from the oaic.gov.au privacy policy that was archived on 2012-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121027061630id_/http%3A//www.oaic.gov.au/privacypolicy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oaic.gov.au privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515092344id_/http%3A//www.oaic.gov.au/privacypolicy/condensed_privacy-policy.html) for the most accurate reproduction.*
 
-# Website Privacy Policy - November 2010; Office of the Australian Information Commissioner - OAIC
+# Condensed Privacy Policy; Office of the Australian Information Commissioner - OAIC
 
-  
+You are here: [Home](https://web.archive.org/index.html) > Condensed Privacy policy
 
+## Scope
 
-## Scope of this Privacy Policy
+This Condensed Privacy Policy applies to personal information collected by the Office of the Australian Information Commissioner (OAIC).
 
-This policy applies to personal information collected by the website of the Office of the Australian Information Commissioner (OAIC).
+The OAIC has adopted the Layered Privacy Notice format.* This document provides you with a succinct overview of how we handle your personal information.
 
-On 1 November 2010, the Office of the Privacy Commissioner (OPC) became part of the OAIC. A full Privacy Policy for the OAIC is currently being developed, and will be posted on this page when complete.
+Our [complete Privacy Policy](https://web.archive.org/privacypolicy/complete_privacy_policy.html) can be accessed on our website. Both this Condensed Privacy Policy and the complete Privacy Policy were last updated in March 2013.    
 
-For the [full Privacy Policy of the OPC, click here](http://www.privacy.gov.au/component/content/article/545)[](http://www.privacy.gov.au/component/content/article/545%5d). For the [condensed OPC Privacy Policy,click here](http://www.privacy.gov.au/privacy-policy)[](http://www.privacy.gov.au/privacy-policy%5d).
+## Personal Information Handling Practices 
 
-  
+### Collection 
 
+We usually collect personal information about individuals directly from those individuals or their authorised representative.
 
-## Important information
+We sometimes collect personal information from a third party or from a publicly available source, but only if:
 
-The OAIC is bound by the Information Privacy Principles (IPPs) in the [_Privacy Act 1988_](http://www.privacy.gov.au/law/act). The IPPs set out how Australian Government agencies such as the OAIC should collect, use, store and disclose personal information and how individuals can access records containing their personal information. This website complies with the IPPs. 
-
-This website also follows the Privacy Commissioner's [Guidelines for Federal and ACT Government Websites](http://www.privacy.gov.au/materials/types/guidelines/view/6057).
-
-## Personal information
-
-It is our usual practice to collect personal information directly from you. The personal information we collect from you through our website is very limited. It occurs when you use the website's Subscribe page to sign up to get emails, or the Feedback page to give us website feedback. From these pages, you are able to enter personal details such as your name, email address or phone number in order to get a reply.
-
-Sometimes we collect personal information from a third party if you have consented or would reasonably expect us to collect the information in this way, for example from publicly available sources such as websites or telephone directories.
-
-We do not collect personal information about you if you only browse this website.
-
-When you browse the web site, our web server makes a record of your visit and logs the following unidentified information for statistical purposes:
-
-  * the user's server address 
-  * the user's top level domain name (for example .com, .gov, .au, .uk etc) 
-  * the date and time of visit to the site 
-  * the pages accessed and documents downloaded 
-  * the previous site visited 
-  * the type of browser used. 
+  * the individual has consented to such collection or would reasonably expect us to collect their personal information in this way, or 
+  * if it is necessary for a specific purpose such as the investigation of a privacy complaint.
 
 
 
-We record this data to maintain our server and improve our services. Additional generic unidentified traffic data is also collected to establish behavioural trends of visitors to our site.
+We only collect personal information for purposes which are directly related to our functions or activities under the [Privacy Act 1988](http://www.comlaw.gov.au/Series/C2004A03712) (Privacy Act), [Freedom of Information Act 1982](http://www.comlaw.gov.au/Series/C2004A02562) (FOI Act) or the [Australian Information Commissioner Act 2010](http://www.comlaw.gov.au/Series/C2010A00052) (AIC Act), and only when it is necessary for or directly related to such purposes. 
 
-## Uses and disclosures
+### Use and disclosure 
 
-We only use your personal information for the purposes for which you give it to us and for related, internal management purposes. 
+We only use personal information for the purposes for which we collected it - purposes which are directly related to one of our functions or activities. 
 
-Personal information that is collected through the website's Subscribe and Feedback pages is used by the Australian Human Rights Commission IT Services for the purpose of managing the mailing list program used for those web pages.
+We do not give personal information about an individual to other Government agencies, private sector organisations or anyone else unless one of the following applies: 
 
-We do not give information about you to other government agencies, organisations or anyone else unless one of the following applies:
-
-  * you have consented
-  * you'd expect us to or we have told you we will
-  * it is required or authorised by law
-  * it will prevent or lessen a serious and imminent threat to somebody's life or health
-  * the disclosure is reasonably necessary for law enforcement or for the protection of public revenue.
+  * the individual has consented
+  * the individual would reasonably expect, or has been told, that information of that kind is usually passed to those individuals, bodies or agencies
+  * it is otherwise required or authorised by law
+  * it will prevent or lessen a serious and imminent threat to somebody's life or health, or
+  * it is reasonably necessary for the enforcement of the criminal law or of a law imposing a pecuniary penalty, or for the protection of public revenue.
 
 
+
+### Data security
+
+We take steps to protect the personal information we hold against loss, unauthorised access, use, modification or disclosure, and against other misuse. 
+
+When the personal information that we collect is no longer required, we destroy or delete it in a secure manner, in accordance with the [OAIC’s Records Disposal Authority](http://www.naa.gov.au/naaresources/ra/2012-00305243.doc) _._
 
 ## Your choices
 
-You may access personal information that we hold about you or you can ask us to correct personal information we hold about you. 
+You can access the personal information that we hold about you, and you can ask us to correct the personal information we hold about you. For more information, see our [complete Privacy Policy](https://web.archive.org/privacypolicy/complete_privacy_policy.html) – ‘access and correction’.  
 
-If you are on our email list, you may opt out of further contact from us by clicking the unsubscribe option in all emails sent to our email lists.
+If you are listed on one or more of our [media](https://web.archive.org/news/subscribe.html) or [network](https://web.archive.org/news/networks/index.html) email lists you can opt out at any time. You can unsubscribe by clicking on the ‘unsubscribe’ option in our emails.  
 
-  
+## Our obligations
 
+The OAIC is bound by the [Information Privacy Principles](https://web.archive.org/publications/privacy_fact_sheets/Privacy-fact-sheet1_IPPs.rtf) in the Privacy Act. 
 
-## How to contact us
+For more information see our [complete Privacy Policy](https://web.archive.org/privacypolicy/complete_privacy_policy.html). 
 
-For further information, [contact us](https://web.archive.org/about/contact.html).
+## How to contact us 
+
+For further information [contact us](https://web.archive.org/about/contact.html) at [enquiries@oaic.gov.au](mailto:enquiries@oaic.gov.au) or alternatively you can write to us at GPO Box 5218, Sydney NSW 2001, Australia. 
+
+[Assisted contact](https://web.archive.org/about/contact.html) options are also available. 
+
+* * *
+
+*   The Layered Privacy Notices format was [endorsed by Data Protection & Privacy Commissioners in 2003](http://www.privacyconference2003.org/resolution.html), further developed in the Berlin Memorandum and [endorsed in Opinion WP 100](http://ec.europa.eu/justice/policies/privacy/docs/wpdocs/2004/wp100_en.pdf) by the [Article 29 Committee of European Data Protection Commissioners](http://ec.europa.eu/justice/data-protection/article-29/index_en.htm).
+
+* * *
+  *[OAIC]: Office of the Australian Information Commissioner
