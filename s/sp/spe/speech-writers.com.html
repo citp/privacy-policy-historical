@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the speech-writers.com privacy policy that was archived on 2012-11-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121114183505id_/http%3A//www.speech-writers.com/privacy_policy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the speech-writers.com privacy policy that was archived on 2013-05-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130515185715id_/http%3A//www.speech-writers.com/privacy_policy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <title>Privacy Statement</title>
@@ -8,11 +8,8 @@
 
 This privacy statement covers the site of www.speech-writers.com.
 Because it wants to demonstrate a commitment to users' privacy.">
-<meta name="keywords" content="Privacy Statement Of Speech-writers.com
-
-This privacy statement covers the site of www.speech-writers.com.
-Because it wants to demonstrate a commitment to users' privacy.">
 <meta name="robots" content="INDEX,FOLLOW">
+<meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE">
 
 <meta name="google-site-verification" content="2ohb_WiUKVgRlo06dY5TeZdwsZYdwQ1aVTPVAsOA4rg">
 
@@ -31,7 +28,7 @@ Because it wants to demonstrate a commitment to users' privacy.">
 <link rel="stylesheet" type="text/css" href="http://www.speech-writers.com/skin/frontend/default/speechwriter/css/styles.css" media="all">
 <link rel="stylesheet" type="text/css" href="http://www.speech-writers.com/skin/frontend/base/default/css/widgets.css" media="all">
 <link rel="stylesheet" type="text/css" href="http://www.speech-writers.com/skin/frontend/default/speechwriter/css/print.css" media="print">
-<script type="text/javascript" async="" src="http://www.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.speech-writers.com/js/prototype/prototype-1.7.js"></script>
+<script type="text/javascript" async="" src="http://google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.speech-writers.com/js/prototype/prototype-1.7.js"></script>
 <script type="text/javascript" src="http://www.speech-writers.com/js/lib/ccard.js"></script>
 <script type="text/javascript" src="http://www.speech-writers.com/js/prototype/validation.js"></script>
 <script type="text/javascript" src="http://www.speech-writers.com/js/scriptaculous/builder.js"></script>
@@ -60,12 +57,12 @@ Mage.Cookies.path     = '/';
 Mage.Cookies.domain   = '.www.speech-writers.com';
 //]]>
 </script>
-
+<link rel="alternate" type="application/rss+xml" title="Speech-Writers.com Blog - RSS Feed" href="http://blogs.speech-writers.com/feed">
 <!-- BEGIN GOOGLE ANALYTICS CODE -->
 <script type="text/javascript">
 //<![CDATA[
             (function() {
-                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;ga.src = 'http://www.google-analytics.com/ga.js';
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;ga.src = 'http://google-analytics.com/ga.js';
                 var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
             })();
             var _gaq = _gaq || [];
@@ -76,11 +73,11 @@ Mage.Cookies.domain   = '.www.speech-writers.com';
             if(Ajax.Responders){
                 Ajax.Responders.register({
                   onComplete: function(response){
-                    if(!response.url.include("progress")){
+                    if(!response.url.include("progress") && !response.url.include("getAdditional")){
                         if(response.url.include("saveOrder")){
-                            _gaq.push(["_trackPageview", "/privacy_policy.htm"+ "opc-review-placeOrderClicked"]);
+                            _gaq.push(["_trackPageview", "/privacy_policy.htm"+ "/opc-review-placeOrderClicked"]);
                         }else if(accordion.currentSection){
-                            _gaq.push(["_trackPageview", "/privacy_policy.htm"+ accordion.currentSection]);
+                            _gaq.push(["_trackPageview", "/privacy_policy.htm/"+ accordion.currentSection]);
                         }
                     }
                   }
@@ -91,7 +88,7 @@ Mage.Cookies.domain   = '.www.speech-writers.com';
 </script>
 
 <!-- END GOOGLE ANALYTICS CODE -->
-<script type="text/javascript">var Translator = new Translate({"Please use only letters (a-z or A-Z), numbers (0-9) or underscore(_) in this field, first character should be a letter.":"Please use only letters (a-z or A-Z), numbers (0-9) or underscores (_) in this field, first character must be a letter."});</script><meta name="msvalidate.01" content="CC7FA9C963FE831EE0950C85FBCA79A6"></head>
+<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "ur-bef2d854-9562-f5b1-86df-827915b39723"});</script><script type="text/javascript">var Translator = new Translate({"Please use only letters (a-z or A-Z), numbers (0-9) or underscore(_) in this field, first character should be a letter.":"Please use only letters (a-z or A-Z), numbers (0-9) or underscores (_) in this field, first character must be a letter."});</script><meta name="msvalidate.01" content="CC7FA9C963FE831EE0950C85FBCA79A6"></head>
 <body class=" cms-page-view cms-privacy-policy-htm">
 
 
@@ -116,7 +113,9 @@ Mage.Cookies.domain   = '.www.speech-writers.com';
 	        	        
 	                                                                        <li><a href="http://www.speech-writers.com/checkout/cart/" title="Cart" class="top-link-cart">Cart</a></li>
 	        	        
-	                                        <li class=" last"><a href="https://www.speech-writers.com/onestepcheckout/" title="Checkout" class="top-link-onestepcheckout">Checkout</a></li>
+	                                        <li><a href="https://www.speech-writers.com/onestepcheckout/" title="Checkout" class="top-link-onestepcheckout">Checkout</a></li>
+	        	        
+	                                        <li class=" last"><a href="http://blogs.speech-writers.com" title="Blog" class="top-link-blog">Blog</a></li>
 	                    </ul>
         </div>
     </div>
@@ -192,26 +191,13 @@ Mage.Cookies.domain   = '.www.speech-writers.com';
 </div>
                 <div class="col-right sidebar"><div class="block block-cart">
         <div class="block-title">
-        <h2>My Shopping Cart </h2>
+        <h3>My Shopping Cart </h3>
     </div>
         <div class="block-content">
                             <p>You have no items in your shopping cart. </p>
             </div>
 </div>
-<div class="block block-list block-viewed">
-    <div class="block-title">
-        <strong><span>Recently Viewed Products</span></strong>
-    </div>
-    <div class="block-content">
-        <ol id="recently-viewed-items">
-                    <li class="item">
-                <p class="product-name"><a href="http://www.speech-writers.com/father-in-law-50th-birthday-speeches-toasts-poems-by-a-son-or-daughter-in-law.htm">Father in Law 50th birthday speeches, toasts &amp; poems - by a son or daughter in law</a></p>
-            </li>
-                </ol>
-        <script type="text/javascript">decorateList('recently-viewed-items');</script>
-    </div>
-</div>
-<!-- Comment --></div>
+<!-- Comment --><span class="st_facebook_large">&nbsp;</span> <span class="st_twitter_large">&nbsp;</span> <span class="st_googleplus_large">&nbsp;</span> <span class="st_linkedin_large">&nbsp;</span></div>
                 <div class="col-main">
                     <div class="breadcrumbs">
     <ul>
@@ -224,7 +210,7 @@ Mage.Cookies.domain   = '.www.speech-writers.com';
             </ul>
 </div>
                                         <div class="std"><div class="page-title"><img src="http://www.speech-writers.com/skin/frontend/default/speechwriter/images/banner_trust-us.gif" alt="Trust Us" width="150" height="47" align="right">
-<h2>Privacy Statement Of Speech-writers.com</h2>
+<h1>Privacy Statement</h1>
 </div>
 <div class="std">
 <p>This privacy statement covers the site of www.speech-writers.com.  <br>Because it wants to demonstrate a commitment to users' privacy.</p>
@@ -299,83 +285,591 @@ We do not share Personally Identifiable Information for any unknown or unrelated
         <div class="nav-container">
     <ul id="nav">
 	    <li class="level0"><a href="http://www.speech-writers.com/" title="Instant Speeches">Home</a></li>
-        <li class="level0 nav-1 level-top first">
-<a href="http://www.speech-writers.com/birthday-speeches.htm" class="level-top" title="Birthday speeches">
+        <li class="level0 nav-1 level-top first parent">
+<a href="http://www.speech-writers.com/birthday-speech.htm" class="level-top" title="Birthday speech">
 <span>Birthday</span>
 </a>
-</li><li class="level0 nav-2 level-top">
-<a href="http://www.speech-writers.com/persuasive-informative-speeches.htm" class="level-top" title="Persuasive Speeches &amp; Informative Speeches">
-<span>Persuasive &amp; Informative</span>
+<ul class="level0">
+<li class="level1 nav-1-1 first">
+<a href="http://www.speech-writers.com/birthday-speech/first-birthday-speeches.htm" title="1st Birthday speeches">
+<span>1st</span>
 </a>
-</li><li class="level0 nav-3 level-top">
-<a href="http://www.speech-writers.com/inspirational-motivational-speeches.htm" class="level-top" title="Motivational and Inspirational Speeches">
-<span>Motivational &amp; Inspirational </span>
+</li><li class="level1 nav-1-2">
+<a href="http://www.speech-writers.com/birthday-speech/16th-sweet-sixteen-birthday-speeches.htm" title="16th (Sweet sixteen) Birthday speeches">
+<span>16th (Sweet sixteen)</span>
 </a>
-</li><li class="level0 nav-4 level-top">
+</li><li class="level1 nav-1-3">
+<a href="http://www.speech-writers.com/birthday-speech/18th-birthday-speeches.htm" title="18th Birthday speeches">
+<span>18th</span>
+</a>
+</li><li class="level1 nav-1-4">
+<a href="http://www.speech-writers.com/birthday-speech/21st-birthday-speeches.htm" title="21st Birthday speeches">
+<span>21st</span>
+</a>
+</li><li class="level1 nav-1-5">
+<a href="http://www.speech-writers.com/birthday-speech/30th-birthday-speeches.htm" title="30th Birthday speeches">
+<span>30th </span>
+</a>
+</li><li class="level1 nav-1-6">
+<a href="http://www.speech-writers.com/birthday-speech/40th-birthday-speeches.htm" title="40th Birthday speeches">
+<span>40th</span>
+</a>
+</li><li class="level1 nav-1-7">
+<a href="http://www.speech-writers.com/birthday-speech/50th-birthday-speeches.htm" title="50th Birthday speeches">
+<span>50th</span>
+</a>
+</li><li class="level1 nav-1-8">
+<a href="http://www.speech-writers.com/birthday-speech/60th-birthday-speeches.htm" title="60th Birthday speeches">
+<span>60th</span>
+</a>
+</li><li class="level1 nav-1-9">
+<a href="http://www.speech-writers.com/birthday-speech/65th-birthday-speeches.htm" title="65th Birthday speeches">
+<span>65th</span>
+</a>
+</li><li class="level1 nav-1-10">
+<a href="http://www.speech-writers.com/birthday-speech/70th-birthday-speeches.htm" title="70th Birthday speeches">
+<span>70th</span>
+</a>
+</li><li class="level1 nav-1-11">
+<a href="http://www.speech-writers.com/birthday-speech/75th-birthday-speeches.htm" title="75th Birthday speeches">
+<span>75th</span>
+</a>
+</li><li class="level1 nav-1-12">
+<a href="http://www.speech-writers.com/birthday-speech/80th-birthday-speeches.htm" title="80th Birthday speeches">
+<span>80th</span>
+</a>
+</li><li class="level1 nav-1-13">
+<a href="http://www.speech-writers.com/birthday-speech/90th-birthday-speeches.htm" title="90th Birthday speeches">
+<span>90th</span>
+</a>
+</li><li class="level1 nav-1-14">
+<a href="http://www.speech-writers.com/birthday-speech/100th-birthday-speeches.htm" title="100th Birthday speeches">
+<span>100th</span>
+</a>
+</li><li class="level1 nav-1-15">
+<a href="http://www.speech-writers.com/birthday-speech/any-age-birthday-speeches.htm" title="Any age birthday speeches">
+<span>Any age</span>
+</a>
+</li><li class="level1 nav-1-16">
+<a href="http://www.speech-writers.com/birthday-speech/your-own-birthday-speeches.htm" title="Your own Birthday speeches">
+<span>Your own</span>
+</a>
+</li><li class="level1 nav-1-17 last">
+<a href="http://www.speech-writers.com/birthday-speech/baby-shower-speeches.htm" title="Baby shower speeches">
+<span>Baby shower</span>
+</a>
+</li>
+</ul>
+</li><li class="level0 nav-2 level-top parent">
 <a href="http://www.speech-writers.com/wedding-speeches.htm" class="level-top" title="Wedding speeches">
 <span>Wedding</span>
 </a>
+<ul class="level0">
+<li class="level1 nav-2-1 first">
+<a href="http://www.speech-writers.com/wedding-speeches/father-of-the-groom-speeches.htm" title="Father of the Groom Speeches">
+<span>Father of the groom</span>
+</a>
+</li><li class="level1 nav-2-2">
+<a href="http://www.speech-writers.com/wedding-speeches/father-of-the-bride-speeches.htm" title="Father of the bride speeches">
+<span>Father of the bride</span>
+</a>
+</li><li class="level1 nav-2-3">
+<a href="http://www.speech-writers.com/wedding-speeches/wedding-rehearsal.htm" title="Wedding rehearsal speeches">
+<span>Wedding rehearsal</span>
+</a>
+</li><li class="level1 nav-2-4">
+<a href="http://www.speech-writers.com/wedding-speeches/best-man-speeches.htm" title="Best Man speeches">
+<span>Best Man</span>
+</a>
+</li><li class="level1 nav-2-5">
+<a href="http://www.speech-writers.com/wedding-speeches/friend-relative-wedding-speeches.htm" title="Friend/Relative wedding speeches">
+<span>Friend/Relative</span>
+</a>
+</li><li class="level1 nav-2-6">
+<a href="http://www.speech-writers.com/wedding-speeches/groom-speeches.htm" title="Groom speeches">
+<span>Groom</span>
+</a>
+</li><li class="level1 nav-2-7">
+<a href="http://www.speech-writers.com/wedding-speeches/mother-of-the-bride-speeches.htm" title="Mother of the bride speeches">
+<span>Mother of the bride</span>
+</a>
+</li><li class="level1 nav-2-8">
+<a href="http://www.speech-writers.com/wedding-speeches/m-c-emcee-or-master-of-ceremonies-guide-for-weddings.htm" title="M.C./Emcee or Master of Ceremonies guide for weddings">
+<span>M.C./Emcee guide</span>
+</a>
+</li><li class="level1 nav-2-9">
+<a href="http://www.speech-writers.com/wedding-speeches/brother-of-the-bride-speeches.htm" title="Brother of the bride speeches">
+<span>Brother of the bride</span>
+</a>
+</li><li class="level1 nav-2-10">
+<a href="http://www.speech-writers.com/wedding-speeches/mother-of-the-groom-speeches.htm" title="Mother of the groom speeches">
+<span>Mother of the groom</span>
+</a>
+</li><li class="level1 nav-2-11">
+<a href="http://www.speech-writers.com/wedding-speeches/bride-speeches.htm" title="Bride speeches">
+<span>Bride</span>
+</a>
+</li><li class="level1 nav-2-12">
+<a href="http://www.speech-writers.com/wedding-speeches/maid-of-honor-matron-of-honor-speeches.htm" title="Maid of honor/Matron of honor speeches">
+<span>Maid of honor/Matron of honor</span>
+</a>
+</li><li class="level1 nav-2-13">
+<a href="http://www.speech-writers.com/wedding-speeches/sister-of-the-groom-speeches.htm" title="Sister of the groom speeches">
+<span>Sister of the groom</span>
+</a>
+</li><li class="level1 nav-2-14">
+<a href="http://www.speech-writers.com/wedding-speeches/bridesmaid-matron-of-honour-speeches.htm" title="Bridesmaid/Matron of honour speeches">
+<span>Bridesmaid/Matron of honour</span>
+</a>
+</li><li class="level1 nav-2-15">
+<a href="http://www.speech-writers.com/wedding-speeches/sister-of-the-bride-speeches.htm" title="Sister of the bride speeches">
+<span>Sister of the bride</span>
+</a>
+</li><li class="level1 nav-2-16">
+<a href="http://www.speech-writers.com/wedding-speeches/bride-and-groom-speeches.htm" title="Bride &amp; groom's speeches">
+<span>Bride &amp; groom's</span>
+</a>
+</li><li class="level1 nav-2-17">
+<a href="http://www.speech-writers.com/wedding-speeches/civil-wedding-ceremony-speeches.htm" title="Civil wedding ceremony speeches">
+<span>Civil wedding</span>
+</a>
+</li><li class="level1 nav-2-18 last">
+<a href="http://www.speech-writers.com/wedding-speeches/son-of-the-bride-speeches.htm" title="Son of the bride speeches">
+<span>Son of the bride</span>
+</a>
+</li>
+</ul>
+</li><li class="level0 nav-3 level-top">
+<a href="http://www.speech-writers.com/persuasive-speeches.htm" class="level-top" title="Persuasive Speeches">
+<span>Persuasive</span>
+</a>
+</li><li class="level0 nav-4 level-top">
+<a href="http://www.speech-writers.com/informative-speeches.htm" class="level-top" title="Informative Speeches">
+<span>Informative</span>
+</a>
 </li><li class="level0 nav-5 level-top">
-<a href="http://www.speech-writers.com/bar-mitzvah-bat-mitzvah-speeches.htm" class="level-top" title="Bar Mitzvah and Bat Mitzvah speeches">
-<span>Bar and Bat Mitzvah</span>
+<a href="http://www.speech-writers.com/motivational-speeches-1.htm" class="level-top" title="Motivational speeches">
+<span>Motivational</span>
 </a>
 </li><li class="level0 nav-6 level-top">
+<a href="http://www.speech-writers.com/inspirational-speeches.htm" class="level-top" title="Inspirational speeches">
+<span>Inspirational </span>
+</a>
+</li><li class="level0 nav-7 level-top parent">
 <a href="http://www.speech-writers.com/awards-ceremony-speeches.htm" class="level-top" title="Awards ceremony speeches">
 <span>Awards</span>
 </a>
-</li><li class="level0 nav-7 level-top">
+<ul class="level0">
+<li class="level1 nav-7-1 first">
+<a href="http://www.speech-writers.com/awards-ceremony-speeches/business-awards-speeches.htm" title="Business awards speeches">
+<span>Business</span>
+</a>
+</li><li class="level1 nav-7-2">
+<a href="http://www.speech-writers.com/awards-ceremony-speeches/years-of-service-awards-speeches.htm" title="Years of service awards speeches">
+<span>Years of service</span>
+</a>
+</li><li class="level1 nav-7-3">
+<a href="http://www.speech-writers.com/awards-ceremony-speeches/hall-of-fame-awards-speeches.htm" title="Hall of Fame awards speeches">
+<span>Hall of Fame</span>
+</a>
+</li><li class="level1 nav-7-4">
+<a href="http://www.speech-writers.com/awards-ceremony-speeches/college-university-awards-speeches.htm" title="College &amp; University awards speeches">
+<span>College &amp; University</span>
+</a>
+</li><li class="level1 nav-7-5">
+<a href="http://www.speech-writers.com/awards-ceremony-speeches/person-year-month-awards-speeches.htm" title="Person of the year/month awards speeches">
+<span>Person of the year/month</span>
+</a>
+</li><li class="level1 nav-7-6">
+<a href="http://www.speech-writers.com/awards-ceremony-speeches/sports-awards-speeches.htm" title="Sports awards speeches">
+<span>Sports</span>
+</a>
+</li><li class="level1 nav-7-7">
+<a href="http://www.speech-writers.com/awards-ceremony-speeches/honors-society-awards-speeches.htm" title="Honors society awards speeches">
+<span>Honors society</span>
+</a>
+</li><li class="level1 nav-7-8">
+<a href="http://www.speech-writers.com/awards-ceremony-speeches/medical-awards-speeches.htm" title="Medical awards speeches">
+<span>Medical</span>
+</a>
+</li><li class="level1 nav-7-9">
+<a href="http://www.speech-writers.com/awards-ceremony-speeches/artist-awards-speeches.htm" title="Artist awards speeches">
+<span>Artist</span>
+</a>
+</li><li class="level1 nav-7-10">
+<a href="http://www.speech-writers.com/awards-ceremony-speeches/science-awards-speeches.htm" title="Science awards speeches">
+<span>Science</span>
+</a>
+</li><li class="level1 nav-7-11">
+<a href="http://www.speech-writers.com/awards-ceremony-speeches/father-awards-speeches.htm" title="Father awards speeches">
+<span>Father</span>
+</a>
+</li><li class="level1 nav-7-12">
+<a href="http://www.speech-writers.com/awards-ceremony-speeches/secretary-pa-awards-speeches.htm" title="Secretary/PA awards speeches">
+<span>Secretary/PA</span>
+</a>
+</li><li class="level1 nav-7-13 last">
+<a href="http://www.speech-writers.com/awards-ceremony-speeches/courage-awards-speeches.htm" title="Courage awards speeches">
+<span>Courage</span>
+</a>
+</li>
+</ul>
+</li><li class="level0 nav-8 level-top parent">
 <a href="http://www.speech-writers.com/business-speeches.htm" class="level-top" title="Business speeches">
 <span>Business</span>
 </a>
-</li><li class="level0 nav-8 level-top">
+<ul class="level0">
+<li class="level1 nav-8-1 first">
+<a href="http://www.speech-writers.com/business-speeches/business-anniversary-speeches.htm" title="Business anniversary speeches">
+<span>Business anniversary</span>
+</a>
+</li><li class="level1 nav-8-2">
+<a href="http://www.speech-writers.com/business-speeches/business-motivational-speeches.htm" title="Business motivational speeches">
+<span>Business motivational</span>
+</a>
+</li><li class="level1 nav-8-3">
+<a href="http://www.speech-writers.com/business-speeches/sales-marketing-speeches.htm" title="Sales &amp; Marketing speeches">
+<span>Sales &amp; Marketing</span>
+</a>
+</li><li class="level1 nav-8-4">
+<a href="http://www.speech-writers.com/business-speeches/business-startup-speeches.htm" title="Business startup speeches">
+<span>Business startup</span>
+</a>
+</li><li class="level1 nav-8-5">
+<a href="http://www.speech-writers.com/business-speeches/job-promotion-speeches.htm" title="Job promotion speeches">
+<span>Job promotion</span>
+</a>
+</li><li class="level1 nav-8-6">
+<a href="http://www.speech-writers.com/business-speeches/job-change-farewell-promotion-speeches.htm" title="Job change speeches">
+<span>Job change</span>
+</a>
+</li><li class="level1 nav-8-7">
+<a href="http://www.speech-writers.com/business-speeches/staff-thank-speeches.htm" title="Staff thank you &amp; other speeches">
+<span>Staff thank you &amp; others</span>
+</a>
+</li><li class="level1 nav-8-8 last">
+<a href="http://www.speech-writers.com/business-speeches/business-recession-speeches.htm" title="Business Recession speeches">
+<span>Business Recession</span>
+</a>
+</li>
+</ul>
+</li><li class="level0 nav-9 level-top">
 <a href="http://www.speech-writers.com/clubs-societies-speeches.htm" class="level-top" title="Clubs &amp; Societies speeches">
 <span>Club</span>
 </a>
-</li><li class="level0 nav-9 level-top">
-<a href="http://www.speech-writers.com/retirement-speeches.htm" class="level-top" title="Retirement speeches">
-<span>Retirement</span>
-</a>
 </li><li class="level0 nav-10 level-top">
-<a href="http://www.speech-writers.com/graduation-speeches.htm" class="level-top" title="Graduation speeches">
-<span>Graduation</span>
-</a>
-</li><li class="level0 nav-11 level-top">
-<a href="http://www.speech-writers.com/wedding-anniversary-speeches.htm" class="level-top" title="Wedding anniversary speeches">
-<span>Wedding Anniversary</span>
-</a>
-</li><li class="level0 nav-12 level-top">
-<a href="http://www.speech-writers.com/eulogies.htm" class="level-top" title="Eulogies">
-<span>Eulogy</span>
-</a>
-</li><li class="level0 nav-13 level-top">
-<a href="http://www.speech-writers.com/military-speeches.htm" class="level-top" title="Military &amp; Uniformed forces speeches">
-<span>Military &amp; Uniformed</span>
-</a>
-</li><li class="level0 nav-14 level-top">
 <a href="http://www.speech-writers.com/holidays-feasts-festivals-speeches.htm" class="level-top" title="Holiday and Christmas speeches">
 <span>Holiday</span>
 </a>
-</li><li class="level0 nav-15 level-top">
+</li><li class="level0 nav-11 level-top">
+<a href="http://www.speech-writers.com/after-dinner-lunch-by-profession-speeches.htm" class="level-top" title="After dinner speeches">
+<span>After dinner</span>
+</a>
+</li><li class="level0 nav-12 level-top parent">
+<a href="http://www.speech-writers.com/anniversary-speeches.htm" class="level-top" title="Anniversaries speeches">
+<span>Anniversary</span>
+</a>
+<ul class="level0">
+<li class="level1 nav-12-1 first">
+<a href="http://www.speech-writers.com/anniversary-speeches/wedding-anniversary-speeches-1.htm" title="Wedding anniversary speeches">
+<span>Wedding Anniversary</span>
+</a>
+</li><li class="level1 nav-12-2">
+<a href="http://www.speech-writers.com/anniversary-speeches/business-anniversary-speeches.htm" title="Business anniversaries speeches">
+<span>Business</span>
+</a>
+</li><li class="level1 nav-12-3">
+<a href="http://www.speech-writers.com/anniversary-speeches/religious-anniversary-speeches.htm" title="Religious anniversaries speeches">
+<span>Religious</span>
+</a>
+</li><li class="level1 nav-12-4">
+<a href="http://www.speech-writers.com/anniversary-speeches/education-college-anniversary-speeches.htm" title="Education &amp; College anniversaries speeches">
+<span>Education &amp; College</span>
+</a>
+</li><li class="level1 nav-12-5 last">
+<a href="http://www.speech-writers.com/anniversary-speeches/clubs-societies-anniversaries-speeches.htm" title="Clubs &amp; Societies anniversaries speeches">
+<span>Clubs &amp; Societies</span>
+</a>
+</li>
+</ul>
+</li><li class="level0 nav-13 level-top parent">
+<a href="http://www.speech-writers.com/graduation-speeches.htm" class="level-top" title="Graduation speeches">
+<span>Graduation</span>
+</a>
+<ul class="level0">
+<li class="level1 nav-13-1 first">
+<a href="http://www.speech-writers.com/graduation-speeches/high-school-graduation-speeches.htm" title="High school graduation speeches">
+<span>High school</span>
+</a>
+</li><li class="level1 nav-13-2">
+<a href="http://www.speech-writers.com/graduation-speeches/elementary-school-graduation-speeches.htm" title="Elementary school graduation speeches">
+<span>Elementary school</span>
+</a>
+</li><li class="level1 nav-13-3">
+<a href="http://www.speech-writers.com/graduation-speeches/middle-school-graduation-speeches.htm" title="Middle school graduation speeches">
+<span>Middle school</span>
+</a>
+</li><li class="level1 nav-13-4">
+<a href="http://www.speech-writers.com/graduation-speeches/kindergarten-graduation-speeches.htm" title="Kindergarten graduation speeches">
+<span>Kindergarten</span>
+</a>
+</li><li class="level1 nav-13-5">
+<a href="http://www.speech-writers.com/graduation-speeches/university-graduation-speeches.htm" title="University graduation speeches">
+<span>University</span>
+</a>
+</li><li class="level1 nav-13-6">
+<a href="http://www.speech-writers.com/graduation-speeches/armed-uniformed-forces-graduation-speeches.htm" title="Armed &amp; Uniformed forces graduation speeches">
+<span>Armed &amp; Uniformed</span>
+</a>
+</li><li class="level1 nav-13-7">
+<a href="http://www.speech-writers.com/graduation-speeches/crafts-trade-graduation-speeches.htm" title="Crafts &amp; Trade graduation speeches">
+<span>Crafts &amp; Trade</span>
+</a>
+</li><li class="level1 nav-13-8">
+<a href="http://www.speech-writers.com/graduation-speeches/graduation-party-speeches.htm" title="Graduation family party speeches">
+<span>Party</span>
+</a>
+</li><li class="level1 nav-13-9 last">
+<a href="http://www.speech-writers.com/graduation-speeches/graduation-yearbook-letters.htm" title="Graduation Yearbook and Letters">
+<span>Graduation Yearbook</span>
+</a>
+</li>
+</ul>
+</li><li class="level0 nav-14 level-top parent">
+<a href="http://www.speech-writers.com/eulogies.htm" class="level-top" title="Eulogies">
+<span>Eulogy</span>
+</a>
+<ul class="level0">
+<li class="level1 nav-14-1 first">
+<a href="http://www.speech-writers.com/eulogies/father-s-eulogies.htm" title="Father's eulogies">
+<span>Father</span>
+</a>
+</li><li class="level1 nav-14-2">
+<a href="http://www.speech-writers.com/eulogies/mother-s-eulogies.htm" title="Mother's eulogies">
+<span>Mother</span>
+</a>
+</li><li class="level1 nav-14-3">
+<a href="http://www.speech-writers.com/eulogies/friend-neighbor-s-eulogies.htm" title="Friend &amp; Colleague's eulogies">
+<span>Friend &amp; Colleague</span>
+</a>
+</li><li class="level1 nav-14-4">
+<a href="http://www.speech-writers.com/eulogies/grandmother-s-eulogies.htm" title="Grandmother's eulogies">
+<span>Grandmother</span>
+</a>
+</li><li class="level1 nav-14-5">
+<a href="http://www.speech-writers.com/eulogies/brother-s-eulogies.htm" title="Brother's eulogies">
+<span>Brother</span>
+</a>
+</li><li class="level1 nav-14-6">
+<a href="http://www.speech-writers.com/eulogies/aunt-uncle-s-eulogies.htm" title="Aunt &amp; Uncle's eulogies">
+<span>Aunt &amp; Uncle</span>
+</a>
+</li><li class="level1 nav-14-7">
+<a href="http://www.speech-writers.com/eulogies/sister-s-eulogies.htm" title="Sister's eulogies">
+<span>Sister</span>
+</a>
+</li><li class="level1 nav-14-8">
+<a href="http://www.speech-writers.com/eulogies/colleagues-others-eulogies.htm" title="General &amp; Others' eulogies">
+<span>General &amp; Others</span>
+</a>
+</li><li class="level1 nav-14-9">
+<a href="http://www.speech-writers.com/eulogies/mother-father-in-law-s-eulogies.htm" title="Mother &amp; Father in law's eulogies">
+<span>Mother &amp; Father in law</span>
+</a>
+</li><li class="level1 nav-14-10">
+<a href="http://www.speech-writers.com/eulogies/husband-wife-s-eulogies.htm" title="Husband &amp; Wife's eulogies">
+<span>Husband &amp; Wife</span>
+</a>
+</li><li class="level1 nav-14-11">
+<a href="http://www.speech-writers.com/eulogies/niece-s-nephew-s-eulogies.htm" title="Niece &amp; Nephew's eulogies">
+<span>Niece &amp; Nephew</span>
+</a>
+</li><li class="level1 nav-14-12">
+<a href="http://www.speech-writers.com/eulogies/brother-sister-in-law-s-eulogies.htm" title="Brother &amp; Sister In Law's eulogies">
+<span>Brother &amp; Sister in law</span>
+</a>
+</li><li class="level1 nav-14-13">
+<a href="http://www.speech-writers.com/eulogies/armed-uniformed-forces-eulogies.htm" title="Armed &amp; Uniformed forces eulogies">
+<span>Armed &amp; Uniformed</span>
+</a>
+</li><li class="level1 nav-14-14">
+<a href="http://www.speech-writers.com/eulogies/step-mother-step-father-s-eulogies.htm" title="Step-mother &amp; Step-father's eulogies">
+<span>Step-mother &amp; Step-father</span>
+</a>
+</li><li class="level1 nav-14-15">
+<a href="http://www.speech-writers.com/eulogies/son-s-eulogies.htm" title="Son's eulogies">
+<span>Son</span>
+</a>
+</li><li class="level1 nav-14-16">
+<a href="http://www.speech-writers.com/eulogies/daughter-s-eulogies.htm" title="Daughter's eulogies">
+<span>Daughter</span>
+</a>
+</li><li class="level1 nav-14-17">
+<a href="http://www.speech-writers.com/eulogies/grandfather-s-eulogies.htm" title="Grandfather's eulogies">
+<span>Grandfather</span>
+</a>
+</li><li class="level1 nav-14-18 last">
+<a href="http://www.speech-writers.com/eulogies/letters-of-condolence.htm" title="Letters of condolence">
+<span>Letters of condolence</span>
+</a>
+</li>
+</ul>
+</li><li class="level0 nav-15 level-top parent">
+<a href="http://www.speech-writers.com/retirement-speeches.htm" class="level-top" title="Retirement speeches">
+<span>Retirement</span>
+</a>
+<ul class="level0">
+<li class="level1 nav-15-1 first">
+<a href="http://www.speech-writers.com/retirement-speeches/retirement-from-job-profession-speeches.htm" title="Job &amp; Profession retirement speeches">
+<span>Job &amp; Profession</span>
+</a>
+</li><li class="level1 nav-15-2">
+<a href="http://www.speech-writers.com/retirement-speeches/retirement-speeches-from-education-profession-speeches.htm" title="Education profession retirement speeches">
+<span>Education profession</span>
+</a>
+</li><li class="level1 nav-15-3">
+<a href="http://www.speech-writers.com/retirement-speeches/armed-uniformed-forces-retirements-speeches.htm" title="Armed &amp; Uniformed forces retirement speeches">
+<span>Armed &amp; Uniformed</span>
+</a>
+</li><li class="level1 nav-15-4">
+<a href="http://www.speech-writers.com/retirement-speeches/retirement-party-for-a-family-member-speeches.htm" title="Family member retirement party speeches">
+<span>Family member</span>
+</a>
+</li><li class="level1 nav-15-5">
+<a href="http://www.speech-writers.com/retirement-speeches/retirement-association-speeches.htm" title="Association retirement speeches">
+<span>Association</span>
+</a>
+</li><li class="level1 nav-15-6 last">
+<a href="http://www.speech-writers.com/retirement-speeches/party-speeches.htm" title="Party speeches">
+<span>Party</span>
+</a>
+</li>
+</ul>
+</li><li class="level0 nav-16 level-top parent">
+<a href="http://www.speech-writers.com/military-speeches.htm" class="level-top" title="Military &amp; Uniformed forces speeches">
+<span>Military</span>
+</a>
+<ul class="level0">
+<li class="level1 nav-16-1 first">
+<a href="http://www.speech-writers.com/military-speeches/military-retirement-speeches.htm" title="Military retirement speeches">
+<span>Retirement</span>
+</a>
+</li><li class="level1 nav-16-2">
+<a href="http://www.speech-writers.com/military-speeches/other-military-speeches.htm" title="Military commissioning speeches">
+<span>Commissioning</span>
+</a>
+</li><li class="level1 nav-16-3">
+<a href="http://www.speech-writers.com/military-speeches/military-promotion-speeches.htm" title="Military promotion speeches">
+<span>Promotion</span>
+</a>
+</li><li class="level1 nav-16-4">
+<a href="http://www.speech-writers.com/military-speeches/military-change-of-command-speeches.htm" title="Military change of command speeches">
+<span>Change of Command</span>
+</a>
+</li><li class="level1 nav-16-5">
+<a href="http://www.speech-writers.com/military-speeches/military-deployment-re-enlistment-speeches.htm" title="Military deployment &amp; re-enlistment speeches">
+<span>Deployment &amp; Re-enlistment</span>
+</a>
+</li><li class="level1 nav-16-6">
+<a href="http://www.speech-writers.com/military-speeches/military-graduation-speeches.htm" title="Military graduation speeches">
+<span>Graduation</span>
+</a>
+</li><li class="level1 nav-16-7">
+<a href="http://www.speech-writers.com/military-speeches/military-wedding-speeches.htm" title="Military wedding speeches">
+<span>Wedding</span>
+</a>
+</li><li class="level1 nav-16-8">
+<a href="http://www.speech-writers.com/military-speeches/military-awards-speeches.htm" title="Military awards speeches">
+<span>Awards</span>
+</a>
+</li><li class="level1 nav-16-9">
+<a href="http://www.speech-writers.com/military-speeches/military-eulogies.htm" title="Military eulogies">
+<span>Eulogies</span>
+</a>
+</li><li class="level1 nav-16-10 last">
+<a href="http://www.speech-writers.com/military-speeches/military-after-dinner-speeches.htm" title="Military after dinner speeches">
+<span>After dinner</span>
+</a>
+</li>
+</ul>
+</li><li class="level0 nav-17 level-top">
 <a href="http://www.speech-writers.com/religious-speeches.htm" class="level-top" title="Religious speeches">
 <span>Religious</span>
 </a>
-</li><li class="level0 nav-16 level-top">
-<a href="http://www.speech-writers.com/welcome-speeches.htm" class="level-top" title="Welcome / Opening speeches">
-<span>Welcome</span>
+</li><li class="level0 nav-18 level-top parent">
+<a href="http://www.speech-writers.com/bar-mitzvah-bat-mitzvah-speeches-1.htm" class="level-top" title="Bar Mitzvah and Bat Mitzvah speeches">
+<span>Bar and Bat Mitzvah</span>
 </a>
-</li><li class="level0 nav-17 level-top">
-<a href="http://www.speech-writers.com/charity-or-fundraising-speeches.htm" class="level-top" title="Charity &amp; Fundraising speeches">
-<span>Fundraising</span>
+<ul class="level0">
+<li class="level1 nav-18-1 first">
+<a href="http://www.speech-writers.com/bar-mitzvah-bat-mitzvah-speeches-1/bar-mitzvah-speeches.htm" title="Bar Mitzvah speeches">
+<span>Bar Mitzvah</span>
 </a>
-</li><li class="level0 nav-18 level-top last">
+</li><li class="level1 nav-18-2 last">
+<a href="http://www.speech-writers.com/bar-mitzvah-bat-mitzvah-speeches-1/bat-mitzvah-speeches.htm" title="Bat Mitzvah speeches">
+<span>Bat Mitzvah</span>
+</a>
+</li>
+</ul>
+</li><li class="level0 nav-19 level-top parent">
+<a href="http://www.speech-writers.com/recession-speeches.htm" class="level-top" title="Recession speeches">
+<span>Recession</span>
+</a>
+<ul class="level0">
+<li class="level1 nav-19-1 first">
+<a href="http://www.speech-writers.com/recession-speeches/speeches-from-bosses.htm" title="Recession speeches by boss">
+<span>Bosses</span>
+</a>
+</li><li class="level1 nav-19-2">
+<a href="http://www.speech-writers.com/recession-speeches/recession-speeches-by-teacher-expert-advisor.htm" title="Recession speeches by teacher">
+<span>Teacher</span>
+</a>
+</li><li class="level1 nav-19-3 last">
+<a href="http://www.speech-writers.com/recession-speeches/recession-speeches-by-expert-advisor.htm" title="Recession speeches by expert/advisor">
+<span>Expert/Advisor</span>
+</a>
+</li>
+</ul>
+</li><li class="level0 nav-20 level-top parent">
+<a href="http://www.speech-writers.com/thank-you-speeches.htm" class="level-top" title="Thank You speeches">
+<span>Thank You</span>
+</a>
+<ul class="level0">
+<li class="level1 nav-20-1 first">
+<a href="http://www.speech-writers.com/thank-you-speeches/conference-thank-you-speeches.htm" title="Conference Thank You speeches">
+<span>Conference</span>
+</a>
+</li><li class="level1 nav-20-2">
+<a href="http://www.speech-writers.com/thank-you-speeches/business-thank-you-speeches.htm" title="Business Thank You speeches">
+<span>Business</span>
+</a>
+</li><li class="level1 nav-20-3">
+<a href="http://www.speech-writers.com/thank-you-speeches/education-school-thank-you-speeches.htm" title="Education &amp; School Thank You speeches">
+<span>Education &amp; School</span>
+</a>
+</li><li class="level1 nav-20-4">
+<a href="http://www.speech-writers.com/thank-you-speeches/charity-fundraising-thank-you-speeches.htm" title="Charity &amp; Fundraising Thank You speeches">
+<span>Charity &amp; Fundraising</span>
+</a>
+</li><li class="level1 nav-20-5 last">
+<a href="http://www.speech-writers.com/thank-you-speeches/vote-of-thanks-speeches.htm" title="Vote of Thanks speeches">
+<span>Vote of Thanks</span>
+</a>
+</li>
+</ul>
+</li><li class="level0 nav-21 level-top">
 <a href="http://www.speech-writers.com/sports-speeches.html" class="level-top" title="Sport Speeches">
 <span>Sports</span>
+</a>
+</li><li class="level0 nav-22 level-top last">
+<a href="http://www.speech-writers.com/welcome-speeches.htm" class="level-top" title="Welcome / Opening speeches">
+<span>Welcome</span>
 </a>
 </li>    </ul>
 </div>
         <div class="footer"><!-- Thawte Conflicts with Wufoo Form on Contact Page -->
 <script src="https://seal.thawte.com/getthawteseal?host_name=www.speech-writers.com&amp;size=S&amp;lang=en" type="text/javascript"></script>
-<p><a style="margin: 0px 20px;" title="Trust Us" href="http://www.speech-writers.com/privacy_policy.htm"> <img src="http://www.speech-writers.com/skin/frontend/default/speechwriter/images/banner_trust-us.gif" alt="Trust Us" width="150" height="47"> </a> <img src="http://www.speech-writers.com/skin/frontend/default/speechwriter/images/banner_p-methods.gif" alt=""> <br><br></p>
+<p><img src="http://www.speech-writers.com/skin/frontend/default/speechwriter/images/banner_p-methods.gif" alt="We accept the following payment methods: American Express, Visa, Mastercard, PayPal, JCB, Switch and Solo"> <br><br></p>
 <ul>
 <li><a href="http://www.speech-writers.com/customer-service.htm">Customer Service</a></li>
 <li><span class="separator"> // </span></li>
@@ -403,14 +897,14 @@ var google_remarketing_only = true;
 // ]]></script>
 <script src="//www.googleadservices.com/pagead/conversion.js" type="text/javascript">
 </script>
-<p><noscript>
+<noscript>
 <div style="display:inline;">
 <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1072612927/?value=0&amp;label=2PR6CP2H5AEQv4y7_wM&amp;guid=ON&amp;script=0"/>
 </div>
-</noscript></p><ul class="links">
+</noscript><ul class="links">
                         <li class="first last"><a href="http://www.speech-writers.com/catalog/seo_sitemap/category/" title="Site Map">Site Map</a></li>
 	                    </ul>
-<address>© Copyright 2012 Speech-writers.com </address></div>
+<address>© Copyright 2013 Speech-writers.com </address></div>
         
           <!-- BEGIN AFFILIATE TRACKING CODE -->
           <script id="pap_x2s6df8d" src="http://www.speech-writers.com/affiliate/scripts/clickjs.php" type="text/javascript">
@@ -434,11 +928,5 @@ var google_remarketing_only = true;
 		<p>If you prefer not to turn on Javascript, but would still like to purchase one of our speeches, <a rel="nofollow" href="http://www.speech-writers.com/order.htm">please use our Alternative Order Form</a></p>
 	<p>Thank you.</p>
 	</div>
-</noscript>
-
-<noscript>
-	<style type="text/css">
-		@import url("http://www.speech-writers.com/skin/frontend/default/speechwriter/css/noscript.css");
-	</style>
 </noscript>
 </body></html>
