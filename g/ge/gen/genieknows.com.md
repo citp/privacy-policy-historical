@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the genieknows.com privacy policy that was archived on 2012-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120817122819id_/http%3A//www.genieknows.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genieknows.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515115034id_/http%3A//www.genieknows.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | GenieKnows :: PPC | CPC | Internet Advertising Service
 
