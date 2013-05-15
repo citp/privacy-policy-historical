@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the celebrityscandal.com privacy policy that was archived on 2012-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120707212720id_/http%3A//www.celebrityscandal.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebrityscandal.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515163408id_/http%3A//www.celebrityscandal.com/privacy.shtml) for the most accurate reproduction.*
 
 # Celebrity Scandal - Privacy Policy
 
