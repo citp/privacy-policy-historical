@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fortysomething.ca privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231174506id_/http%3A//www.fortysomething.ca/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fortysomething.ca privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515035432id_/http%3A//www.fortysomething.ca/privacy.php) for the most accurate reproduction.*
 
 # Food and Family: Privacy Policy
 
