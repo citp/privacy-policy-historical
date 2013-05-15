@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kamcord.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014110631id_/http%3A//kamcord.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kamcord.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516003357id_/http%3A//kamcord.com/privacy) for the most accurate reproduction.*
 
 # Kamcord | Privacy
 
-This Privacy Policy was last updated on August 12, 2012. 
+This Privacy Policy was last updated on January 22, 2013. 
 
 **Our Policy:**
 
@@ -99,7 +99,3 @@ To keep your Personal Data accurate, current, and complete, please contact us as
 Please feel free to contact us if you have any questions about Kamcord's Privacy Policy or the information practices of the Services. 
 
 You may contact us as follows: [admin@kamcord.com](mailto:admin@kamcord.com)
-
-  
-
-
