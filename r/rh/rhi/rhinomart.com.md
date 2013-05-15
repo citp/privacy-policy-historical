@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the rhinomart.com privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217093503id_/http%3A//www.rhinomart.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rhinomart.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515092252id_/http%3A//www.rhinomart.com/privacy-notice) for the most accurate reproduction.*
 
-# Privacy Policy
+# RhinoMart Privacy Policy
 
-Email Privacy Policy 
+Privacy Policy 
 
-We have created this email privacy policy to demonstrate our firm commitment to your privacy and the protection of your information. 
+We have created this privacy policy to demonstrate our firm commitment to your privacy and the protection of your information.   
+
+
+Email Privacy Policy  
+
 
 Why Did I Receive an Email From You? 
 
@@ -17,16 +21,7 @@ We use security measures to protect against the loss, misuse and alteration of d
 
 Sharing and Usage 
 
-We will never share, sell, or rent individual personal information (including credit card information, e-mail address, IP address, and other personally identifiable information) with anyone without your advance permission or unless ordered by a court of law. Submitted mail addresses are only available to employees managing this information for purposes of contacting you or sending you emails based on your request for information. 
-
-Order Forms:
-
-[New Account Form (PDF File)](http://www.rhinomart.com/Manifests/New_Account_Form.pdf)  
-
-
-[Credit Card Authorization Form (PDF File)](http://www.rhinomart.com/Manifests/CCAUTHFORM.pdf)
-
-[Policy Agreement (PDF File)](http://www.rhinomart.com/Manifests/agreement_form.pdf)
+We will never share, sell, or rent individual personal information (including credit card information, e-mail address, IP address, and other personally identifiable information) with anyone unless ordered by a court of law. Submitted mail addresses are only available to employees managing this information for purposes of contacting you or sending you emails based on your request for information. 
 
   
  
