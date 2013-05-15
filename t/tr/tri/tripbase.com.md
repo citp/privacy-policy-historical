@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tripbase.com privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115081843id_/http%3A//www.tripbase.com/mumboJumbo.do%3Ft%3DprivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripbase.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516000313id_/http%3A//www.tripbase.com/mumboJumbo.do%3Ft%3DprivacyPolicy) for the most accurate reproduction.*
 
 # Tripbase.com - Privacy Policy
 
