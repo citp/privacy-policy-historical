@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 2-viruses.com privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101105705id_/http%3A//www.2-viruses.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2-viruses.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515121213id_/http%3A//www.2-viruses.com/privacy-policy) for the most accurate reproduction.*
 
-# Dedicated 2-viruses » Privacy Policy
+# Privacy Policy - 2-viruses.com
 
 2-viruses.com team takes your privacy very seriously. In general, we will not disclose any information gathered to third parties except if required by the law, you posted it publically, or it is out of our control.
 
