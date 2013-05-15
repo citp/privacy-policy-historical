@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the catholichealth.net privacy policy that was archived on 2012-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120228140836id_/http%3A//www.catholichealth.net/website-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catholichealth.net privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515050728id_/http%3A//www.catholichealth.net/website-privacy-policy) for the most accurate reproduction.*
 
 # Website Privacy Policy Denver, Colorado (CO) - Catholic Health Initiatives
 
@@ -7,10 +7,10 @@
 Website Privacy Policy  
   
 ---  
-| [Website Privacy Policy](https://web.archive.org/web/20120228140836id_/http%3A//www.catholichealth.net/website-privacy-policy)  
+| [Website Privacy Policy](https://web.archive.org/web/20130515050728id_/http%3A//www.catholichealth.net/website-privacy-policy)  
 ---  
-[Contact Us](https://web.archive.org/web/20120228140836id_/http%3A//www.catholichealth.net/contact-us)  
-[Terms and Conditions](https://web.archive.org/web/20120228140836id_/http%3A//www.catholichealth.net/terms-and-conditions)  
+[Contact Us](https://web.archive.org/web/20130515050728id_/http%3A//www.catholichealth.net/contact-us)  
+[Terms and Conditions](https://web.archive.org/web/20130515050728id_/http%3A//www.catholichealth.net/terms-and-conditions)  
   
 ### **Privacy Policy**
 
@@ -49,9 +49,9 @@ If a User’s personally identifiable information changes (such as your zip code
   *   * 
 
 
-| [Required CRP Training for FY2012 Now Available](https://web.archive.org/web/20120228140836id_/http%3A//www.catholichealth.net/body.cfm?id=37543&action=detail&ref=894)  
+| [Denver National Office Celebrates Day of Advocacy at Project C.U.R.E](https://web.archive.org/web/20130515050728id_/http%3A//www.catholichealth.net/body.cfm?id=37543&action=detail&ref=1113)  
 ---  
-[Louisville Team Performs Hand Transplant on Eighth Patient](https://web.archive.org/web/20120228140836id_/http%3A//www.catholichealth.net/body.cfm?id=37543&action=detail&ref=893)  
-[Celebrating Black History Month](https://web.archive.org/web/20120228140836id_/http%3A//www.catholichealth.net/body.cfm?id=37543&action=detail&ref=892)  
+[Lanik Receives Service Award from Notre Dame Sisters](https://web.archive.org/web/20130515050728id_/http%3A//www.catholichealth.net/body.cfm?id=37543&action=detail&ref=1112)  
+[CHI Supports the Million Dollar Marathon](https://web.archive.org/web/20130515050728id_/http%3A//www.catholichealth.net/body.cfm?id=37543&action=detail&ref=1111)  
   
-[](https://web.archive.org/web/20120228140836id_/http%3A//www.catholichealth.net/body.cfm?ID=39279)
+[](https://web.archive.org/web/20130515050728id_/http%3A//www.catholichealth.net/body.cfm?ID=39279)
