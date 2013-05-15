@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the decidebuddy.com privacy policy that was archived on 2012-10-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121015161454id_/http%3A//decidebuddy.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the decidebuddy.com privacy policy that was archived on 2013-05-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130515170757id_/http%3A//decidebuddy.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
-<title>Decidebay.com - Privacy</title>
+<title>Decidebuddy.com - Privacy</title>
 
 <link rel="stylesheet" type="text/css" href="http://decidebuddy.com/css/buttons.css">
 
@@ -18,7 +18,6 @@
 <link rel="stylesheet" type="text/css" href="http://decidebuddy.com/skins/tango/skin.css">
 
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://decidebuddy.com/js/jquery-1.7.1.min.js"></script>
-
 <script>
 var upperurl=top.location.href;
 var siteurl='http://decidebuddy.com';
@@ -26,6 +25,8 @@ var readwrite='readreview';
 var isuerloggedin='';
 var determineloginway='';
 var btntrigobj;
+
+
 </script>
  </head><body><div id="fb-root"></div>
 <script src="//connect.facebook.net/en_US/all.js"></script>
@@ -52,32 +53,47 @@ var btntrigobj;
 function login_with_facebook(flike){
 	
 	 FB.login(function(response) {
+			//console.log("Login with facebook called");
 			var token = null;
 			token =response.authResponse.accessToken;
 			if (response.status!= null) { //console.log("Working till here");//alert("Working")
 				var query = FB.Data.query('SELECT uid,username,first_name,last_name,email FROM user WHERE uid ={0}', 'me()');
 				query.wait(function(data) {
-					$.post(siteurl+'/facebook1.php', {"token":token, 'uid':data[0].uid, 'username':data[0].username, 'email':data[0].email,'first_name':data[0].first_name,'last_name':data[0].last_name,'flike':flike}, function(data)
+					var fbrid = '';
+					var fbtitle = '';
+					var fbdesc = '';
+					var fburl = '';
+					var fbimg = '';
+					$.post(siteurl+'/facebook1.php', {"token":token, 'uid':data[0].uid, 'username':data[0].username, 'email':data[0].email,'first_name':data[0].first_name,'last_name':data[0].last_name,'flike':flike,'fbrid':fbrid,'fbtitle':fbtitle,'fburl':fburl,'fbdesc':fbdesc,'fbimg':fbimg}, function(data)
 						{
-							if(data)
+							//console.log(data);
+							if(data.status == true)
 							{
 								if(flike)
 								{
-									setInterval(alert("Thank you for sharing"),5000);
-									}
-							 top.location.reload();
+									smoke.alert("Thank you for sharing");
+									setTimeout(function(){top.location.reload();},5000);
+									//smoke.alert("Thank you for sharing");
+								}
+								else {
+									smoke.alert(data.message);
+									setTimeout(function(){top.location.href = siteurl+"/members/"+data.name_url;},5000);
+								}
+							 //top.location.reload();
 							}
 							else
 							{
-								alert("Some technical problem")
+								smoke.alert(data.message);
+								setTimeout(function(){top.location.href = siteurl+"/";},5000);
+								//smoke.alert(data.message);
 							}
-						});
+						},"json");
 						});
 	 }
 }, {scope:'email,user_birthday,friends_birthday,publish_stream'});
 }
 
-   $(document).ready(function(){
+$(document).ready(function(){
 FB.init({
           appId: '390165084353081',
           cookie: true,
@@ -85,12 +101,22 @@ FB.init({
           oauth: true
         });
 		$('.fshare').live('click',function(){
-			login_with_facebook(1);
-			});
+			var owner = $(this).attr("data");
+			if(owner == "owner") {
+				login_with_facebook(2);
+			}
+			else {
+				login_with_facebook(1);
+			}
+		});
 		
   });
 	</script>
-     <script type="text/javascript">
+    
+
+        
+        
+<script type="text/javascript">
 
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-34033697-1']);
@@ -143,8 +169,18 @@ FB.init({
     		<td>
     <script src="http://decidebuddy.com/js/jquery.colorbox-min.js"></script>
        <link rel="stylesheet" href="http://decidebuddy.com/css/jquery-ui-1.8.17.custom.css">
-	   <link rel="stylesheet" href="http://decidebuddy.com/css/colorbox.css">
-	    <link rel="shortcut icon" href="http://decidebuddy.com/images/favicon.ico" type="image/x-icon">
+	   <link rel="stylesheet" href="http://decidebuddy.com/css/smoke.css">
+       <link rel="stylesheet" href="http://decidebuddy.com/css/colorbox.css">
+	   <link rel="shortcut icon" href="http://decidebuddy.com/images/favicon.ico" type="image/x-icon">
+       <script src="http://decidebuddy.com/js/smoke.js"></script>
+        
+            <script>
+      $(document).ready(function(){    
+$(".ajax2").colorbox({iframe:true, innerWidth:"492px", innerHeight:"720px"});
+	  });
+        </script>
+        
+        
     <style>
 	.ui-autocomplete-loading { background: white url('images/ui-anim_basic_16x16.gif') right center no-repeat; }
 	</style>
@@ -177,10 +213,10 @@ FB.init({
 
 
 
-	<div style="width:110px;margin-top:15px;padding:0px;" class="searchcommon writereview left outerwrite">
+	<div style="width:110px;margin-top:18px;padding:0px;" class="searchcommon writereview left outerwrite">
     <div class="outborder">
     <div class="left" style="width:18px;margin-left:5px;margin-top: 8px; height: 22px;"><img src="http://decidebuddy.com/images/header/writereview.png" height="14" width="14"></div>
-    	<div class="left" style="width: 72px;  margin-top: 5px; height: 25px;">write review</div>
+    	<div class="left" style="width: 79px;  margin-top: 5px; height: 25px;">Write review</div>
        </div> 
     </div>
     
@@ -207,39 +243,19 @@ FB.init({
 
 
 $.fn.showFeatureText = function() {
-
-alert("hi");
-
+//alert("hi");
 	return this.each(function(){    
-
-
-
 		var box = $(this);
-
-
-
 		var text = $('#outeruplogin',this);
-
-
-
 		text.hide();
-
-alert('hi');
-
+//alert('hi');
+});
 		box.click(function(e) {         
                 e.preventDefault();
                 text.slideToggle();
-
-
-
-
-
-
-	});
-
-
-
-}</script> 
+		});
+}
+</script> 
 
 
 
@@ -279,45 +295,21 @@ var uid='';
 
 
 
-	$(".writereview").click(function(){	
+$(".writereview").click(function(){	
+	/*
+	var uid='';
+	if(!uid)
+	{
+	 $.colorbox({iframe:true, innerWidth:"482px", innerHeight:"720px",href:"signin.php"})
+	}
+	else
+		top.location.href=siteurl+"/write-review";
+	*/
 
-
-
-		var uid='';
-
-
-
-						if(!uid)
-
-
-
-						{
-
-
-
-						 $.colorbox({iframe:true, innerWidth:"482px", innerHeight:"720px",href:"http://decidebuddy.com/signin.php"})
-
-						}
-
-						else
-
-						top.location.href=siteurl+"/write-review";
-
-
-
-				
-
-
-
+	top.location.href=siteurl+"/write-review";
 });
 
-
-
-	
-
-
-
-	});
+});
 
 
 
@@ -325,12 +317,12 @@ var uid='';
 
 
 
-        <div style="width:110px;margin-top:15px;padding:0px;" class="searchcommon toplogin left" id="toplogin">
+        <div style="width:110px;margin-top:18px;padding:0px;" class="searchcommon toplogin left" id="toplogin">
         <div class="outborder1">
             <div class="left" style="width:21px;margin-left:5px;margin-top: 8px; height: 22px;">
                 <img src="http://decidebuddy.com/images/header/login.png" height="14" width="13">
              </div>
-    	<div class="left" style="width: 74px;  margin-top: 5px; height: 25px;">login/register</div>
+    	<div class="left" style="width: 76px;  margin-top: 5px; height: 25px;">login/register</div>
          </div>
         <div class="outeruplogin" style="top: 35px; " id="outeruplogin">
     	<div class="uplogin">
@@ -391,14 +383,17 @@ var uid='';
 		</tr>
 				</tbody></table>
 <table border="0" cellpadding="0" cellspacing="0" align="center" width="1000">
-	<tbody><tr>
-        <td><div class="menuContainer">
+<tbody><tr>
+<td>
+   
+<div class="menuContainer">
 <ul>
 <li><a href="http://decidebuddy.com/category/auto" data="1">Auto&nbsp;<i class="cmri" style="margin-top:-8px;"></i></a></li>
 <li><a href="http://decidebuddy.com/category/books" data="2">Books&nbsp;<i class="cmri" style="margin-top:-8px;"></i></a></li>
+<li><a href="http://decidebuddy.com/category/computers" data="4">Computers&nbsp;<i class="cmri" style="margin-top:-8px;"></i></a></li>
 <li><a href="http://decidebuddy.com/category/education" data="64">Education&nbsp;<i class="cmri" style="margin-top:-8px;"></i></a></li>
+<li><a href="http://decidebuddy.com/category/electronics" data="71">Electronics&nbsp;<i class="cmri" style="margin-top:-8px;"></i></a></li>
 <li><a href="http://decidebuddy.com/category/finance" data="3">Finance&nbsp;<i class="cmri" style="margin-top:-8px;"></i></a></li>
-<li><a href="http://decidebuddy.com/category/laptops" data="4">Laptops&nbsp;<i class="cmri" style="margin-top:-8px;"></i></a></li>
 <li><a href="http://decidebuddy.com/category/mobiles" data="5">Mobiles&nbsp;<i class="cmri" style="margin-top:-8px;"></i></a></li>
 <li><a href="http://decidebuddy.com/category/movies" data="7">Movies&nbsp;<i class="cmri" style="margin-top:-8px;"></i></a></li>
 <li><a href="http://decidebuddy.com/category/restaurants" data="65">Restaurants&nbsp;<i class="cmri" style="margin-top:-8px;"></i></a></li>
@@ -407,115 +402,57 @@ var uid='';
 </ul>
 <style>
 .left{float:left;}
-.cont-bg{width:111px; height:57px; background-image:url("http://decidebuddy.com/images/dbcontest.png"); background-position:0 0;box-shadow:5px0 0 0px #888888}
+.cont-bg{width:150px; height:64px; background-image:url("http://decidebuddy.com/images/rick-tab.png"); box-shadow:5px0 0 0px #888888}
 
-.cont-bg:hover{background-position:0 -57px;}
+.cont-bg:hover{}
 
 </style>
 
-    
-
-<!--<div style="float:right;position:fixed;z-index:9;margin-left:859px;top:64px;">
-
-<a href="contest/" class="cont-bg left"></a>
-
-</div>-->
-
-
-
-
-	</div>
-
-    
-
-
-
+	<!--
+		<div style="float:right;position:fixed;z-index:9;margin-left:810px;top:64px;">
+			<a href="mango-man" class="cont-bg left"></a>
+		</div>
+	-->
+</div>
 
 
 
 <div id="cat_submenu_1" class="submenuBox"><div style="padding:50px;"><center>Loading...</center></div></div>
 
 
-
-
-
-
 <div id="cat_submenu_2" class="submenuBox"><div style="padding:50px;"><center>Loading...</center></div></div>
-
-
-
-
-
-
-<div id="cat_submenu_64" class="submenuBox"><div style="padding:50px;"><center>Loading...</center></div></div>
-
-
-
-
-
-
-<div id="cat_submenu_3" class="submenuBox"><div style="padding:50px;"><center>Loading...</center></div></div>
-
-
-
-
 
 
 <div id="cat_submenu_4" class="submenuBox"><div style="padding:50px;"><center>Loading...</center></div></div>
 
 
+<div id="cat_submenu_64" class="submenuBox"><div style="padding:50px;"><center>Loading...</center></div></div>
 
 
+<div id="cat_submenu_71" class="submenuBox"><div style="padding:50px;"><center>Loading...</center></div></div>
+
+
+<div id="cat_submenu_3" class="submenuBox"><div style="padding:50px;"><center>Loading...</center></div></div>
 
 
 <div id="cat_submenu_5" class="submenuBox"><div style="padding:50px;"><center>Loading...</center></div></div>
 
 
-
-
-
-
 <div id="cat_submenu_7" class="submenuBox"><div style="padding:50px;"><center>Loading...</center></div></div>
-
-
-
-
 
 
 <div id="cat_submenu_65" class="submenuBox"><div style="padding:50px;"><center>Loading...</center></div></div>
 
 
-
-
-
-
 <div id="cat_submenu_27" class="submenuBox"><div style="padding:50px;"><center>Loading...</center></div></div>
-
-
-
-
 
 
 <div id="cat_submenu_8" class="submenuBox"><div style="padding:50px;"><center>Loading...</center></div></div>
 
 
-
-
-
-
-
-
-
-
 </td>
-
-
-
-  </tr>
-
-
-
-	</tbody></table>
+</tr>
+</tbody></table>
 <map name="Map" id="Map">
   <area shape="poly" coords="239,39" href="#">
   <area shape="rect" coords="5,-3,243,49" href="http://decidebuddy.com" alt="Decidebuddy">
@@ -650,13 +587,14 @@ window.location.href=siteurl;
         	<div class="staticupper staticfsspace">Privacy</div>
         	<div class="staticbord">&nbsp;</div>
               <div id="navigleft">
-                <div class="staticfsspace"><a href="http://decidebuddy.com/about-us" class="staticlis"> About Decidebay</a><br></div>
+                <div class="staticfsspace"><a href="http://decidebuddy.com/about-us" class="staticlis"> About Decidebuddy</a><br></div>
                 <div class="staticfsspace "><a href="http://decidebuddy.com/privacy" class="staticlis actv"> Privacy</a></div>
                 <div class="staticfsspace"><a href="http://decidebuddy.com/terms-and-conditions" class="staticlis"> Terms and Conditions</a></div>
                 <div class="staticfsspace"><a href="http://decidebuddy.com/advertising" class="staticlis"> Advertising</a></div>
                 <div class="staticfsspace"><a href="http://decidebuddy.com/contact" class="staticlis">Contact</a></div>
                 <div class="staticfsspace"> <a href="http://decidebuddy.com/feedback" class="staticlis"> Feedback &amp; Support</a></div>
                 <div class="staticfsspace"><a href="http://decidebuddy.com/report" class="staticlis"> Report a bug</a></div>
+                <div class="staticfsspace"><a href="http://decidebuddy.com/media-coverage" class="staticlis">DB in Media</a></div>
             </div>
         </div>
 
@@ -678,11 +616,11 @@ window.location.href=siteurl;
 
     
 
- Decidebay.com takes the privacy of its members very seriously. Our privacy policies govern the collection, retention and dispensation of your personal information that we collect when you use this website. It will also tell you about how decidebay.com uses or protects the information that you provide. By disclosing your personal information with decidebay.com you agree to the following terms &amp; conditions mentioned in this privacy statement.<br><br>
+ Decidebuddy.com takes the privacy of its members very seriously. Our privacy policies govern the collection, retention and dispensation of your personal information that we collect when you use this website. It will also tell you about how Decidebuddy.com uses or protects the information that you provide. By disclosing your personal information with Decidebuddy.com you agree to the following terms &amp; conditions mentioned in this privacy statement.<br><br>
 
 
 
-If you need any more information about the privacy policies of decidebay.com or if you have any further queries to the below mentioned terms &amp; conditions, then send us an e-mail at anytime on <a href="mailto:support@decidebay.com" class="backhome" style="line-height:19px;">hello@decidebay.com</a><br><br>
+If you need any more information about the privacy policies of Decidebuddy.com or if you have any further queries to the below mentioned terms &amp; conditions, then send us an e-mail at anytime on <a href="mailto:support@Decidebuddy.com" class="backhome" style="line-height:19px;">hello@Decidebuddy.com</a><br><br>
 
 
 
@@ -690,13 +628,13 @@ If you need any more information about the privacy policies of decidebay.com or 
 
 
 
-Decidebay.com is a free website which can be accessed by visitors as well as the members of the website. We collect information about you in two distinct ways:  Either by asking you for your personal information or by means of storing a cookie on your computer.<br><br>
+Decidebuddy.com is a free website which can be accessed by visitors as well as the members of the website. We collect information about you in two distinct ways:  Either by asking you for your personal information or by means of storing a cookie on your computer.<br><br>
 
-If you are a member, we directly record all the information that you provide to us while registering yourself with decidebay.com. This includes your full name, your email address, your chosen username and your password. We collect all this information to communicate the important updates or changes about the website to you at the convenience of the email address provided by you.<br><br>
+If you are a member, we directly record all the information that you provide to us while registering yourself with Decidebuddy.com. This includes your full name, your email address, your chosen username and your password. We collect all this information to communicate the important updates or changes about the website to you at the convenience of the email address provided by you.<br><br>
 
 
 
-When you register with decidebay.com, we may also place a cookie on your computer. Cookies are bits of information that are stored on your computer’s hard disk that help us restore your settings and trace your activities.  It helps us recognize you when you visit the website again. However, cookies do not help us in acquiring any of your personal information or data besides what you provided us during the registration process. Some other websites as well as our advertisers may also place cookies on your computer but will not be able to access your personal details unless you have provided them with your details earlier.
+When you register with Decidebuddy.com, we may also place a cookie on your computer. Cookies are bits of information that are stored on your computer’s hard disk that help us restore your settings and trace your activities.  It helps us recognize you when you visit the website again. However, cookies do not help us in acquiring any of your personal information or data besides what you provided us during the registration process. Some other websites as well as our advertisers may also place cookies on your computer but will not be able to access your personal details unless you have provided them with your details earlier.
 
 <br><br>
 
@@ -704,7 +642,7 @@ If you are a visitor, we collect some information about you by tracing your IP a
 
 <br><br>
 
-By using, viewing or registering with this website, you agree to provide your consent to all the means through which decidebay.com collects your information.
+By using, viewing or registering with this website, you agree to provide your consent to all the means through which Decidebuddy.com collects your information.
 
 <br><br>
 
@@ -712,11 +650,11 @@ By using, viewing or registering with this website, you agree to provide your co
 
 
 
-While we collect the information provided by you, our major priority is to safeguard that information. We ensure all the security measures to protect your personal information from being leaked through this website with or without our knowledge. We do not share your personal details with any third party without your consent. However, the administrator of decidebay.com reserves the right to use your personal information for sending you updates, website information and news related to the services that we provide.<br><br>
+While we collect the information provided by you, our major priority is to safeguard that information. We ensure all the security measures to protect your personal information from being leaked through this website with or without our knowledge. We do not share your personal details with any third party without your consent. However, the administrator of Decidebuddy.com reserves the right to use your personal information for sending you updates, website information and news related to the services that we provide.<br><br>
 
 
 
-We also plan to share the aggregate user information with a few companies (our advertisers) but this will not include any personal details of the members at decidebay.com. We will not give your personal information to our advertisers or anyone else without your authorization to do so, except the conditions stated in this privacy statement. Unfortunately, data transmission over the internet is not guaranteed to be completely secure. Although, we take protective measures as mentioned in this policy to safeguard your personal details, we do not warrant the security of your information and accordingly, you agree to provide your personal details at your own risk.<br><br>
+We also plan to share the aggregate user information with a few companies (our advertisers) but this will not include any personal details of the members at Decidebuddy.com. We will not give your personal information to our advertisers or anyone else without your authorization to do so, except the conditions stated in this privacy statement. Unfortunately, data transmission over the internet is not guaranteed to be completely secure. Although, we take protective measures as mentioned in this policy to safeguard your personal details, we do not warrant the security of your information and accordingly, you agree to provide your personal details at your own risk.<br><br>
 
 
 
@@ -732,7 +670,7 @@ Cookies store information about the member’s or visitor’s preferences, user-
 
 
 
-Decidebay.com also makes use of log files to store the interests and activities of the user. These log files include information such as IP address, internet service provider, the type of browser, referring pages and the date &amp; time stamps. Log files also record the number of clicks to analyze trends, track user’s movement around the site and administer the website. However, this information is not connected to any information that is personally identifiable.<br><br>
+Decidebuddy.com also makes use of log files to store the interests and activities of the user. These log files include information such as IP address, internet service provider, the type of browser, referring pages and the date &amp; time stamps. Log files also record the number of clicks to analyze trends, track user’s movement around the site and administer the website. However, this information is not connected to any information that is personally identifiable.<br><br>
 
 
 
@@ -740,15 +678,15 @@ Decidebay.com also makes use of log files to store the interests and activities 
 
 
 
-Registering with decidebay.com gives you a host full of facilities that you can put to use. With the help of your account on this website you can choose to subscribe yourself to a several other authors or reviewers. By doing so, you will be notified about every review written by that author. Similarly, you can also subscribe yourself to several products which enable you to keep a track on all the reviews written for that particular product. On the contrary, you do not want to receive notifications about an author or a product, you can choose to unsubscribe from them.<br><br>
+Registering with Decidebuddy.com gives you a host full of facilities that you can put to use. With the help of your account on this website you can choose to subscribe yourself to a several other authors or reviewers. By doing so, you will be notified about every review written by that author. Similarly, you can also subscribe yourself to several products which enable you to keep a track on all the reviews written for that particular product. On the contrary, you do not want to receive notifications about an author or a product, you can choose to unsubscribe from them.<br><br>
 
 
 
-Your profile on decidebay.com allows you to set or change your profile picture. You can also write reviews on your dashboard and save them as drafts which you may choose to publish later. In any case, if you choose to delete a review written by you after it is moderated and published on the website, you can continue to do so.<br><br>
+Your profile on Decidebuddy.com allows you to set or change your profile picture. You can also write reviews on your dashboard and save them as drafts which you may choose to publish later. In any case, if you choose to delete a review written by you after it is moderated and published on the website, you can continue to do so.<br><br>
 
 
 
-Besides, you can also subscribe or unsubscribe yourself to receive email notifications about all your activities and subscriptions on this website. Decidebay.com also offers the facility of subscribing yourself to our newsletters that are flooded with all the latest news and updates about various products and services. Decidebay.com allows you to take complete charge of all your activities that you perform on the website.<br><br>
+Besides, you can also subscribe or unsubscribe yourself to receive email notifications about all your activities and subscriptions on this website. Decidebuddy.com also offers the facility of subscribing yourself to our newsletters that are flooded with all the latest news and updates about various products and services. Decidebuddy.com allows you to take complete charge of all your activities that you perform on the website.<br><br>
 
 
 
@@ -756,7 +694,7 @@ Besides, you can also subscribe or unsubscribe yourself to receive email notific
 
 
 
-Decidebay.com reserves the sole discretion to make changes, amendments or alterations to the above mentioned privacy policy at any point in time without any prior notification and it takes effect from the date of updating it on this page. Your continued use of decidebay.com after the change in privacy policies affirm that you comply with the revised privacy statement and that you agree to be bound by the same
+Decidebuddy.com reserves the sole discretion to make changes, amendments or alterations to the above mentioned privacy policy at any point in time without any prior notification and it takes effect from the date of updating it on this page. Your continued use of Decidebuddy.com after the change in privacy policies affirm that you comply with the revised privacy statement and that you agree to be bound by the same
 
 
 
@@ -793,218 +731,439 @@ Decidebay.com reserves the sole discretion to make changes, amendments or altera
 </tbody></table>
 <table width="100%" border="0" cellpadding="0" cellspacing="0" height="66">
 
+
+
 <tbody><tr class="footerbck">
+
+
 
     <td>
 
+
+
             <table border="0" cellpadding="0" cellspacing="0" align="center" width="1000">
+
+
 
                 <tbody><tr>
 
+
+
                     <td>
+
+
 
                     	<div class="footermain left">
 
+
+
                         	<div class="footerbox1 left">
+
+
 
                             	<div class="footercont left">
 
+
+
                                 	<div class="footertxt left">
+
+
 
                                     	<div class="title">Let's Review</div>
 
+
+
                                         <div><a href="http://decidebuddy.com/" class="txt">Home</a></div>
+
+
 
                                          <div><a class="txt" href="http://decidebuddy.com/review-by-category">Read Reviews</a></div>
 
+
+
                                           <div> <a class="txt" href="http://decidebuddy.com/write-review">Write Reviews</a></div>
+
+
 
                                            <div>  <a class="txt" href="http://decidebuddy.com/community">Community</a></div>
 
+
+
                                             <div> <a class="txt" href="http://decidebuddy.com/faqs">FAQs</a></div>
+
+
 
                                             <div><a class="txt" href="http://decidebuddy.com/feedback">Feedback</a></div>
 
+                                             <div><a class="ajax2 cboxElement" href="http://decidebuddy.com/addproduct" style="color:#FFF;font-size:11px;">Add a product / service</a></div>
+
                                     </div>
+
+
 
                                     <div class="footershadow left"></div>
 
+
+
                                      <div class="clean"></div>
+
+
 
                                 </div>
 
+
+
                                 
+
+
 
                                 <div class="footercont left">
 
+
+
                                 	<div class="footertxt left">
+
+
 
                                     	<div class="title">Decidebuddy</div>
 
+
+
                                         <div><a class="txt" href="http://decidebuddy.com/privacy">Privacy Policy</a></div>
+
+
 
                                          <div><a class="txt" href="http://decidebuddy.com/terms-and-conditions">Terms &amp; Conditions</a></div>
 
+
+
                                           <div><a class="txt" href="http://decidebuddy.com/sitemap">Sitemap</a></div>
+
+
 
                                            <div><a class="txt" href="http://decidebuddy.com/about-us">About Us</a></div>
 
+
+
                                             <div><a class="txt" href="http://decidebuddy.com/advertising">Advertising</a></div>
+
+											<div><a class="txt" href="http://decidebuddy.com/media-coverage">DB in Media</a></div>
 
                                             <div><a class="txt" href="http://decidebuddy.com/contact">Contact Us</a></div>
 
+
+
                                     </div>
+
+
 
                                     <div class="footershadow left"></div>
 
+
+
                                      <div class="clean"></div>
+
+
 
                                 </div>
 
-                                
+
 
                                 
+
+
+
+                                
+
+
 
                                 <div class="footercont left" style="width:170px;">
 
+
+
                                 	<div class="footertxt left" style="width:110px;">
+
+
 
                                     	<div class="title">Review Categories </div>
 
+
+
                                        <div>   <a class="txt" href="http://decidebuddy.com/review-by-category/auto" data="43,10,9">Auto</a></div>
+
+
 
                                        <div> <a class="txt" href="http://decidebuddy.com/review-by-category/books" data="2">Books</a></div>
 
+
+
                                        <div><a class="txt" href="http://decidebuddy.com/review-by-category/finance" data="11,12,13">Finance</a></div>
 
-                                       <div>  <a class="txt" href="http://decidebuddy.com/review-by-category/laptops" data="46">Laptops</a></div>
+
+
+                                       <div>  <a class="txt" href="http://decidebuddy.com/review-by-category/computers" data="46">Computers</a></div>
+
+									   
+                                       <div><a class="txt" href="http://decidebuddy.com/review-by-category/electronics" data="77,78,79,80">Electronics</a></div>
+                                        
 
                                        <div><a class="txt" href="http://decidebuddy.com/review-by-category/mobiles" data="34,35,36">Mobiles</a></div>
 
+
+
                                        <div><a class="txt" href="http://decidebuddy.com/review-by-category/movies" data="16,17,18">Movies</a></div>
+
+                                       
+
+                                       <div>  <a class="txt" href="http://decidebuddy.com/review-by-category/restaurants" data="">Restaurants</a></div>
+
+
 
                                        <div>  <a class="txt" href="http://decidebuddy.com/review-by-category/travel" data="39,40,41,42">Travel</a></div>
 
+
+
                                        <div> <a class="txt" href="http://decidebuddy.com/review-by-category/websites" data="19,20,21,22">Websites</a></div>
 
+
+
                                     </div>
+
+
 
                                     <div class="footershadow left"></div>
 
+
+
                                      <div class="clean"></div>
 
+
+
                                 </div>
+
+
 
                             </div>
 
+
+
                             
+
+
 
                             <div class="footerbox2 left">
 
+
+
                            		 <div class="footertxt" style="margin:0px;width:100%;margin-bottom:10px;">
+
+
 
                             		<div class="title">Stay Connected</div>
 
+
+
                                 </div>
+
+
 
                                 <div class="footersubscribe" align="center">
 
+
+
                                 	<div class="email left">
+
+
 
                                     <input type="text" name="email_subscribe" id="email_subscribe" onfocus="if(this.value=='Enter your email address here'){this.value='';}" onblur="if(this.value==''){this.value='Enter your email address here';}" value="Enter your email address here">
 
+
+
                                     </div>
+
+
 
                                 	
 
+
+
                                   <div class="butt left">
+
+
 
                                    <div class="searchcommon writereview2" style="width:158px;padding:0px;margin:0px;border:0px !important;height:38px;" id="subscribe_button">
 
+
+
 								<div style="width:98%;margin-top:10px;margin-left:5px;">Sign up for newsletter</div>
 
+
+
 										
+
+
 
 									</div>
 
 
 
+
+
+
+
                                     
+
+
 
                                     </div>
 
+
+
                                     <div class="clean"></div>
 
+
+
                                 </div>
+
+
 
                                   <div class="clean"></div>
 
+
+
                                 <div class="logo">
+
+
 
                                 	<div><a class="facebookbot left" href="http://www.facebook.com/decidebuddy" target="_blank"></a></div>
 
+
+
                                     <div><a class="twitterbot left" href="http://www.twitter.com/decidebuddy" target="_blank"></a></div>
 
+
+
                                     <div><a class="rssbot left" href="http://decidebuddy.com/rss" target="_blank"></a></div>
-                                     <div><a class="youtube left" href="http://bit.ly/VB3cPz" target="_blank"></a></div> 
+
+                                     <div><a class="youtube left" href="http://www.youtube.com/decidebuddy" target="_blank"></a></div> 
+
+
 
                                     <div><a class="decidebaybot left" href="http://blog.decidebuddy.com" target="_blank"></a></div> 
 
+
+
                                 </div>
+
+
 
                             </div>
 
+
+
                             
+
+
 
                              <div class="footerbox3 left"></div>
 
+
+
                         </div>
+
+
 
                     </td>
 
+
+
                 </tr>
+
+
 
             </tbody></table>
 
+
+
 	    </td>
 
+
+
     </tr>
+
+
 
     <tr>
 
-    	<td width="1000" align="center">
+
+
+    	<td width="1000" align="center" style="background:#FFF;">
+
+
 
         					<div class="footertxt" style="margin:0px;width:1000px;margin-top:10px;text-align:left;margin-bottom:10px;">
 
+
+
                             		<div class="title">About Decidebuddy</div>
 
-                                    <div class="txt1">Decidebuddy is a social podium that encourages consumers to review everything that they use. And we mean everything! Automobiles, laptops, mobiles, books, movies, finance, travels, websites and anything else that inspires you to express your opinions. We believe, if you are a customer, you must review!
+
+
+                                    <div class="txt1">Decidebuddy is a digital platform that encourages consumers to review everything that they use. And we mean everything! Automobiles, laptops, mobiles, books, movies, finance, travels, websites and anything else that inspires you to express your opinions. We believe, if you are a customer, you must review!
+
+
 
 </div>
 
+
+
                                     
+
+
 
                                 </div>
 
+
+
         </td>
 
+
+
     </tr>
+
+
 
     <tr bgcolor="182834">
 
+
+
     	<td width="1000" align="center" height="13">
+
+
 
         	<div class="footertxt" style="margin:0px;width:1000px;margin-top:5px;text-align:left;">
 
-            	<div class="txt2">©2012 Decidebuddy. All rights reserved.</div>
+
+
+            	<div class="txt2">©2013 Decidebuddy. All rights reserved.</div>
+
+
 
             </div>
 
+
+
         </td>
+
+
 
     </tr>
 
+
+
     
+
+
 
  </tbody></table>
 
@@ -1012,40 +1171,81 @@ Decidebay.com reserves the sole discretion to make changes, amendments or altera
 
 
 
+
+
+
+
+
+
 <script type="text/javascript" src="http://decidebuddy.com//js/jquery.ui.totop.min.js"></script> 
 
+
+
  
+
+
 
 <!-- Scroll to Top Function -->
 
+
+
 <script type="text/javascript" charset="utf-8">
+
+
 
 $(document).ready(function() {
 
+
+
 $().UItoTop({ easingType: 'easeOutQuart' });
+
+
 
  $('.tagLink').each(function(){
 
-if($(this).html()=='By Brands')
-$(this).html("Laptops");	 
+
+
+if($(this).html()=='Laptops')
+
+$(this).html("Computers");	 
+
 	 });
+
  $('.creamybox').each(function(){
 
-if($(this).html()=='By Brands')
-$(this).html("Laptops");	 
+
+
+if($(this).html()=='Laptops')
+
+$(this).html("Computers");	 
+
 	 });
+
 	  $('.ssr_prodType').each(function(){
 
+
+
 if($(this).html()=='By Brands')
+
 $(this).html("Laptops");	 
+
 	 });
+
  
+
  
+
  $(".ui-autocomplete").attr('style','margin-left:-1px')
+
+
 
 });
 
+
+
 </script>
+
+
 
   
 
