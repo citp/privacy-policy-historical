@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ncsoft.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123234626id_/http%3A//us.ncsoft.com/en/legal/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncsoft.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515085703id_/http%3A//us.ncsoft.com/en/legal/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy Policy | NCSOFT
+# Privacy Policy
 
 We here at NC Interactive, Inc. ("NCI") consider your right to privacy to be of paramount importance. Because the trust of our users is key to the success of our business, this Privacy Policy is intended to make you feel as comfortable as possible visiting our website and playing NCSOFT games.
 
@@ -15,6 +15,7 @@ This Privacy Policy discloses the privacy practices for:
   * <http://www.guildwars.com/products/factions/>
   * <http://www.guildwars.com/products/guildwars/>
   * [www.lineage2.com](http://www.lineage2.com/)
+  * [www.wildstar-online.com](http://www.wildstar-online.com/)
 
 
 
@@ -42,7 +43,7 @@ This Privacy Policy is a condition of acceptance on the Sites and their respecti
 
 This Privacy Policy only addresses activities from our servers. Other sites (including those to which we may link) and other service providers may have their own policies, which we do not control, and thus are not addressed or controlled by this policy.
 
-## 1\. Collection of Personal Information
+##  1\. Collection of Personal Information
 
 You provide certain Personal Information to us when you:
 
@@ -54,19 +55,19 @@ You provide certain Personal Information to us when you:
 
 
 
-### Use of Email Address
+###  Use of Email Address
 
 Your email address will be used to contact you regarding specific issues related to your active account(s). You may also receive special notices and offers for products and services offered by NCS. You will be given the opportunity to "opt out" of any mailings which do not include critical information regarding your active game account(s).
 
 Please see "Sweepstakes, Contests and Promotions, and Related Third Party Services" below for specific information on how your Personal Information may be used by third parties in those special cases.
 
-### Payment Method
+###  Payment Method
 
 You will also be asked to submit Personal Information depending on the payment method you choose when subscribed to one of our services. For example, if you choose to pay for NCI services by credit card, you will be required to provide us the name of your credit card issuer, credit card number, billing address, CVV number, and expiration date.
 
 If you choose to pay for NCI services and/or the services NCI performs on behalf of its affiliates by using, without limitation, check, PayPal, SMS, paysafecard, Game Time Cards, or ELV, you will be required to provide us with applicable Personal Information in order to permit us to process such payment.
 
-### Non-personal Information
+###  Non-personal Information
 
 In addition to the login information, we will automatically collect certain non-personal information about your use of our Sites and services. We might collect, among other things, information concerning the type of Internet browser or computer operating system you are using, the domain name of your Internet service provider, your "click path" through the Sites, and the web site or advertisement that was linked to or from the Sites when you visited. To do this, we may use cookies and other technology (see below).
 
@@ -74,13 +75,13 @@ Your visits to our Sites, and information provided through these technologies, w
 
 This information is only used for our internal purposes (such as to improve the Site or to customize content).
 
-### Cookies and Related Technologies
+###  Cookies and Related Technologies
 
 We use a feature of your browser called a "cookie" to assign a unique number that automatically identifies your computer when you visit the site. A cookie is a piece of text-only data stored on your hard drive. By setting a cookie on our site, you would not have to log in a password more than once, thereby saving time while on our site.
 
 If you reject the cookie, you may still use our site. The only drawback to this is that you will be limited in some areas of our site, or may have to enter passwords or identifying information more than once.
 
-### Sweepstakes, Contests and Promotions, and Related Third Party Services
+###  Sweepstakes, Contests and Promotions, and Related Third Party Services
 
 To participate in some of our sweepstakes, contests, surveys, and other promotions, you may be asked to provide additional personal information such as your mailing address. In each such case, no new personal information will be collected from you without your consent. This information may be collected by NCI or by third parties such as co-sponsors or vendors for the promotion.
 
@@ -92,7 +93,7 @@ In such a situation, you will be given an opportunity to decline to share that i
 
 As described in the registration process, a third party's (such as Alienware's) use of the shared Personal Information will be governed by any privacy policy that company may have in place and our use of such information shall, of course, be governed by the terms of this Privacy Policy.
 
-### Online Communications, Games
+###  Online Communications, Games
 
 When you play any of the games offered and/or served by NCI, or use any of the communication features on the Sites, your IP address (the Internet protocol address from which you access any of the above) may be stored in our records.
 
@@ -100,7 +101,7 @@ When any game is updated or "patched," our patch routine may check your computer
 
 When you log into one of our online games, your system specifications (such as OS, RAM, video card, monitor, system configuration, etc.) may be reviewed/recorded by us for the purposes of analyzing and optimizing your game experience and in order to provide you with customer service.
 
-### In-Game Advertising
+###  In-Game Advertising
 
 Our games may incorporate dynamic advertisement serving technology offered by Double Fusion ("Ad Providers"), which enables advertising to be temporarily uploaded into the game on your PC or console, and replaced while you play online.
 
@@ -110,11 +111,11 @@ Your game may be assigned an id number, which is stored on your PC or console, a
 
 This ad serving technology is integrated into the game; if you do not want to use this technology, do not play the game while connected to the Internet. For more information concerning Double Fusion, please [visit their website](http://www.doublefusion.com/).
 
-## 2\. Who collects the Personal Information
+##  2\. Who collects the Personal Information
 
 NCI owns and operates the Sites, and is the company that collects Personal Information on our site. Our mailing address is NC Interactive, Inc., 6801 N. Capital of Texas Highway, Bldg. 1, Austin, TX 78731 and our customer service e-mail address is [support@ncsoft.com](mailto:support@ncsoft.com).
 
-## 3\. How the Personal Information is used
+##  3\. How the Personal Information is used
 
 Personal information which we collect for a particular purpose will only be saved and used for that purpose, unless you have agreed to allow us to use it for some other purpose, as described in this Privacy Policy.
 
@@ -145,17 +146,17 @@ Please do not use your real name or the real name of another person when selecti
 
 We are not responsible for protecting such information that you may disclose to third parties through our services (e.g. sending your address to another user through the chat service). To the extent that you create a public profile that may be available to others on our sites and services, you are solely responsible for its content and accuracy at all times. To edit, change, or delete such information, follow the instructions on the web site.
 
-## 4\. Privacy protections for children
+##  4\. Privacy protections for children
 
 In order to protect the privacy interests of younger Internet users, we do not allow children under the age of 18 to use our services without the consent of their parents. NCI complies with the Children's Online Privacy Protection Act and all other applicable laws and regulations concerning children and the Internet.
 
-### Children under the age of 13
+###  Children under the age of 13
 
 Because our Sites are not directed to children under the age of 13, NCI does not provide memberships to persons under age 13. If you are under the age of 13, you may not create an account on the Site, you may not sign up for any subscription service or buy anything through our online store, and you are not eligible to enter any of our sweepstakes or promotions.
 
 Except as may be required by law, NCI will not knowingly collect, maintain, or disclose any personal information from children under the age of 13.
 
-### Children between the ages of 13 and 18
+###  Children between the ages of 13 and 18
 
 _If you are between the ages of 13 and 18, please let your parent or guardian know about this Privacy Policy and get his or her permission before you give us any of your personal identifiable information, before you use any of our message board, instant message or chat features, before you sign up for any subscription game services, and before you buy anything from our online store._
 
@@ -165,19 +166,19 @@ If you win a sweepstakes that has a prize, your parent or guardian will have to 
 
 Some areas of the Site may have special rules for children under the age of 18. When you are in those areas, you must follow those rules.
 
-### Information for Parents/Guardians
+###  Information for Parents/Guardians
 
 If you are a parent or guardian who has discovered that your child has submitted his or her personal information without your permission or consent, NCI will take reasonable steps to remove that information from the NCI database at your request.
 
 To request removal of your child's information, please send us an e-mail (to the address below) and be sure to include in your message the same user name, password, and email address that your child submitted. If your child has used your credit card on our web sites without your permission, contact us immediately at [support@ncsoft.com](mailto:support@ncsoft.com).
 
-## 5\. The choices available to users regarding collection, use and distribution of the Personal Information
+##  5\. The choices available to users regarding collection, use and distribution of the Personal Information
 
 Please note that if you provide any information on your own or directly to parties who provide service to our web site or any other sites you encounter on the Internet (even if these sites are branded with our branding), different rules may apply to their use or disclosure of the Personal Information you disclose to them.
 
 We encourage you to investigate and ask questions before disclosing information to third parties.
 
-## 6\. How users can correct any inaccuracies in the Personal Information
+##  6\. How users can correct any inaccuracies in the Personal Information
 
 To review and update your Personal Information stored with NCSOFT, please [access your account](https://login.ncsoft.com/login/loginform).
 
@@ -185,7 +186,7 @@ If you change your mind and do not want to receive e-mails from us and/or to hav
 
 If you choose to have your personal information removed from our active databases, we will do so within a reasonable time after your request and we will take reasonable steps to ensure that your personal data is not used (except as may be required by law) by NCI after your notification to us.
 
-## 7\. What kind of security procedures we use to protect the loss, misuse, or alteration of your Personal Information under our control
+##  7\. What kind of security procedures we use to protect the loss, misuse, or alteration of your Personal Information under our control
 
 NCI takes precautions to protect our users' information. When users submit sensitive information via our website, that information is protected both online and off-line.
 
@@ -193,7 +194,7 @@ We have established and maintain reasonable security procedures to protect the c
 
 Please recognize, however, that "perfect security" does not exist on the Internet. If you have any questions about the security at our website or facilities, you can send an e-mail to [support@ncsoft.com](mailto:support@ncsoft.com).
 
-## 8\. Information for people in the European Union
+##  8\. Information for people in the European Union
 
 By consenting to this Privacy Policy, you confirm that your command and knowledge of English (or in some cases, French, German, Italian or Spanish) is sufficient to understand the terms and conditions set forth herein.
 
@@ -201,7 +202,7 @@ For persons in European Union countries, as used herein, terms such as "personal
 
 We will not collect any personal data from you unless you provide it voluntarily by providing us with your freely given specific and informed consent. By using NCI websites (including, without limitation, the Sites) or services, you agree that we may transfer your personal information outside the European Union in connection with the purposes stated in this Privacy Policy. Your personal data may be transferred to the United States (and/or other non-EU jurisdictions, as applicable).
 
-## 9\. Notice of changes to the Privacy Policy
+##  9\. Notice of changes to the Privacy Policy
 
 NCI reserves the right to change this Privacy Policy at any time by notifying registered users via e-mail of the existence of a new Policy and/or posting the new Policy on the NCI sites. All changes to the Privacy Policy will be effective when posted, and your continued use of any NCI site or service after the posting will constitute your acceptance of, and agreement to be bound by, those changes.
 
