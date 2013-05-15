@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sis.edu.hk privacy policy that was archived on 2012-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120729065832id_/http%3A//www.sis.edu.hk/node/95) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sis.edu.hk privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516001443id_/http%3A//www.sis.edu.hk/node/95) for the most accurate reproduction.*
 
 # Privacy Policy | South Island School
 
