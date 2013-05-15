@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the streamtvguide.com privacy policy that was archived on 2012-12-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121223062440id_/http%3A//www.streamtvguide.com/shop_content.php/coID/1/content/Privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the streamtvguide.com privacy policy that was archived on 2013-05-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130515185656id_/http%3A//www.streamtvguide.com/shop_content.php/coID/1/content/Privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html dir="ltr" lang="de"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-15"> 
@@ -72,80 +72,13 @@ function popupImageWindow(url) {
   window.open(url,'popupImageWindow','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=yes,copyhistory=no,width=100,height=100,screenX=150,screenY=150,top=150,left=150')
 }
 //--></script>
-<script type="text/javascript"><!--
 
-
-
-//--></script>
+<!-- BEGIN POP-UNDER -->
 <script type="text/javascript">
-    var puUrl = "http://d2.zedo.com/jsc/d2/ff2.html?n=2052;c=137;s=41;d=16;w=1024;h=768"; //popunder url
-    var cCount = 2; //times per day
-            
-    function setCookie(cookieName,cookieValue,nDays) {
-        var today = new Date();
-        var expire = new Date();
-        if (nDays==null || nDays==0) nDays=1;
-        expire.setTime(today.getTime() + 3600000*24*nDays);
-        document.cookie = cookieName+"="+escape(cookieValue)
-            + ";expires="+expire.toGMTString();
-    }
-    function getCookie(cookieName) {
-        var theCookie=" "+document.cookie;
-        var ind=theCookie.indexOf(" "+cookieName+"=");
-        if (ind==-1) ind=theCookie.indexOf(";"+cookieName+"=");
-        if (ind==-1 || cookieName=="") return "";
-        var ind1=theCookie.indexOf(";",ind+1);
-        if (ind1==-1) ind1=theCookie.length; 
-        return unescape(theCookie.substring(ind+cookieName.length+2,ind1));
-    }
-            
-    function isItChrome()
-    {
-        var val = navigator.userAgent.toLowerCase();
-           
-        if(val.indexOf("firefox") > -1)
-            isFF = false;
-        else if(val.indexOf("opera") > -1)
-            isOP = false;
-        else if(val.indexOf("msie") > -1)
-            isIE = false; 
-        else
-            return true;
-    }
-            
-    function openPU(url){
-        var cv = getCookie('puCount');
-        cv = cv == '' ? 0 : cv;
-        if(parseInt(cv) < cCount){
-            if(isItChrome())
-                PopUnder.Chrome(url);
-            else
-                PopUnder.Other(url);
-                    
-            setCookie('puCount', parseInt(cv) + 1, 1);
-        }
-    }
-            
-    PopUnder = {
-                
-        Chrome: function(g){
-            setTimeout ('open("about:blank").close();', 0);
-            window.open(g,'pu-'+Math.floor(89999999*Math.random()+10000000),'toolbar=0,scrollbars=1,location=1,statusbar=1,menubar=0,resizable=1,top=0,left=0,width=' + screen.availWidth + ',height' + screen.availHeight);
-        },
-                
-        Other : function(g){
-            var d=navigator.userAgent;var c=false;for(var f=12;f<=20;f++){if(d.search("Firefox/"+f)>-1){c=true;break;}}if(c==true){var e="width="+screen.width+", height="+screen.height+",toolbar=1,menubar=1,resizable=1,scrollbars=1;";var b=window.open(g,"pop_under",e);var a=window.open("about:blank");if(a){a.focus();a.close();}else{window.showModalDialog("javascript:window.close()",null,"dialogtop:99999999;dialogleft:999999999;dialogWidth:1;dialogHeight:1");}}else{var e="width="+screen.width+", height="+screen.height+",toolbar=1,menubar=1,resizable=1,scrollbars=1";var b=window.open(g,"pop_under",e).blur();}
-        }
-                
-    };
-        
-    if(isItChrome()){
-        document.addEventListener("click", function(){openPU(puUrl)}, false); 
-    }
-    else{
-        document.onclick = function(){openPU(puUrl)};
-    }
-</script></head>
+var cache_buster=Math.random((new Date()).getMilliseconds())*100000000000000000;
+document.write(unescape('%3Cscript type=\"text/javascript\" src="http://ggo.directrev.com/a?type=oas_pop&sid=S0000486&cid=S0000486&fc=1&hr=1&cm=1&cb='+cache_buster+'\"%3E%3C/scr'+'ipt%3E'));
+</script><script type="text/javascript" src="http://ggo.directrev.com/a?type=oas_pop&amp;sid=S0000486&amp;cid=S0000486&amp;fc=1&amp;hr=1&amp;cm=1&amp;cb=25410136205646650"></script>
+<!-- END POP-UNDER --></head>
 <body>
 <!--<link href="stylesheet.css" rel="stylesheet" type="text/css" />-->
 <link href="templates/stream/stream_style.css" rel="stylesheet" type="text/css">
@@ -208,16 +141,16 @@ else if(document.all)// ie
 <li class="CatLevel1 SubMenue"><a href="http://www.streamtvguide.com/index.php/cat/c1_Movies.html">Movies</a></li>
 <li class="CatLevel1 SubMenue"><a href="http://www.streamtvguide.com/index.php/cat/c10_TV-TV-shows.html">TV/TV-shows</a></li>
 <li class="CatLevel1 SubMenue"><a href="http://www.streamtvguide.com/index.php/cat/c4_Sports.html">Sports</a></li>
+<li class="CatLevel1"><a href="http://www.streamtvguide.com/index.php/cat/c2_Cartoons.html">Cartoons</a></li>
 <li class="CatLevel1 SubMenue"><a href="http://www.streamtvguide.com/index.php/cat/c3_Games.html">Games</a></li>
 <li class="CatLevel1 SubMenue"><a href="http://www.streamtvguide.com/index.php/cat/c116_TV-by-country.html">TV by country</a></li>
 <li class="CatLevel1 SubMenue"><a href="http://www.streamtvguide.com/index.php/cat/c66_Anime.html">Anime</a></li>
 <li class="CatLevel1"><a href="http://www.streamtvguide.com/index.php/cat/c81_Independent.html">Independent</a></li>
 <li class="CatLevel1"><a href="http://www.streamtvguide.com/index.php/cat/c196_Paranormal.html">Paranormal</a></li>
-<li class="CatLevel1 SubMenue"><a href="http://www.streamtvguide.com/index.php/cat/c71_Adult-18-.html">Adult 18+</a></li>
-<li class="CatLevel1"><a href="http://www.streamtvguide.com/index.php/cat/c2_Cartoons.html">Cartoons</a></li>
 <li class="CatLevel1"><a href="http://www.streamtvguide.com/index.php/cat/c197_Entertainment.html">Entertainment</a></li>
 <li class="CatLevel1 SubMenue"><a href="http://www.streamtvguide.com/index.php/cat/c67_Asian-Indian.html">Asian/Indian</a></li>
 <li class="CatLevel1"><a href="http://www.streamtvguide.com/index.php/cat/c56_Comedy-Humor.html">Comedy/Humor</a></li>
+<li class="CatLevel1 SubMenue"><a href="http://www.streamtvguide.com/index.php/cat/c71_Adult-18-.html">Adult 18+</a></li>
 <li class="CatLevel1 SubMenue"><a href="http://www.streamtvguide.com/index.php/cat/c7_Music-videos.html">Music videos</a></li>
 <li class="CatLevel1 SubMenue"><a href="http://www.streamtvguide.com/index.php/cat/c11_News-business.html">News/business</a></li>
 <li class="CatLevel1 SubMenue"><a href="http://www.streamtvguide.com/index.php/cat/c76_Lifestyle.html">Lifestyle</a></li>
@@ -424,7 +357,7 @@ else if(document.all)// ie
   <tr>
     <td class="infoBox_right" align="left"><table width="95%" border="0" cellpadding="5" cellspacing="0">
         <tbody><tr>
-          <td align="left" class="boxText">Visitors Online: 548<br>Channels: 3248<br>Channels watched today: 15784<br></td>
+          <td align="left" class="boxText">Visitors Online: 564<br>Channels: 3239<br>Channels watched today: 13029<br></td>
         </tr>
     </tbody></table></td>
   </tr>
@@ -488,7 +421,7 @@ else if(document.all)// ie
   </tr>
 </tbody></table>
 <p></p>
-    <p class="copyright_note">Copyright © 2008-2009 StreamTVguide. All rights reserved.</p>
+    <p class="copyright_note">Copyright © 2013 StreamTVguide. All rights reserved.</p>
   </div>
   <div class="banner"></div>
 
@@ -502,11 +435,9 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
 <script type="text/javascript">
 var pageTracker = _gat._getTracker("UA-4735219-1");
 pageTracker._trackPageview();
-</script><div class="copyright">eCommerce Engine © 2006 <a href="http://www.xt-commerce.com" target="_blank">xt:Commerce Shopsoftware</a></div><div class="parseTime">Parse Time: 0.570s</div><script type="text/javascript" src="http://www.adcash.com/script/java.php?option=rotateur&amp;rotateur=91805"></script><!-- BEGIN STANDARD TAG - popunder only - http://www.streamtvguide.com: Run-of-site - DO NOT MODIFY -->
+</script><div class="copyright">eCommerce Engine © 2006 <a href="http://www.xt-commerce.com" target="_blank">xt:Commerce Shopsoftware</a></div><div class="parseTime">Parse Time: 0.461s</div><script type="text/javascript" src="http://www.adcash.com/script/java.php?option=rotateur&amp;rotateur=91805"></script>
 
-<script type="text/javascript" src="http://ad.yieldmanager.com/st?ad_type=pop&amp;ad_size=0x0&amp;section=3876876&amp;banned_pop_types=29&amp;pop_times=1&amp;pop_frequency=86400&amp;pub_url=${PUB_URL}"></script>
 
-<!-- END TAG -->
 
 
 </body></html>
