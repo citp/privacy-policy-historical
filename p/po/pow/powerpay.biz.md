@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the powerpay.biz privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230064259id_/http%3A//www.powerpay.biz/1-about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerpay.biz privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515124619id_/http%3A//powerpay.biz/1-about/privacy.html) for the most accurate reproduction.*
 
 # PowerPay Career Opportunities
 
 This statement provides you with information regarding the policies we have established and follow by which we protect the privacy and integrity of the information we collect.
 
-## This statement describes: 
+## This statement describes:
 
   * Who we are 
   * What information we collect via our Web Site(s), and how the information is collected 
