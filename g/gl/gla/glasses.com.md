@@ -1,49 +1,103 @@
-> *The following text is extracted and transformed from the glasses.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016222724id_/http%3A//www.glasses.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glasses.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515024240id_/http%3A//www.glasses.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Buy Designer Eyeglasses Online at Glasses.com
 
-**Privacy Policy — Effective 05/09/2011**
+glasses.com PRIVACY POLICY
 
-This policy describes the personal information we collect about you, why we collect it, and how we use it. Our policy also describes the choices you can make about how we collect and use your information.
+Effective 1/28/2013
 
-If you have any questions about our privacy policy, please contact us via: Email at [](mailto:info@glasses.com)[info@glasses.com](mailto:info@glasses.com). Call us toll-free at 1-800 GLASSES (1-800-452-7737). Write to us at: 51 West Center St. Orem, UT 84057.
+**_Here are the basics:_**
 
-If our information practices change in the future, we will notify you by posting the policy changes directly to this web page. We will post any such change before we use any of your information in any way other than as explicitly stated in this policy.
+**We will treat your information the same way we'd treat our own.  We won’t sell your information, we won’t use your information to spam you to death, and most importantly, we will do everything we can to make sure your information is secure. Additionally, you can unsubscribe at any time—no hard feelings. If that was _too_ basic, keep reading for the page-turning legal version!**
 
-At Glasses.com (“Glasses.com” or “we”), we value our customers and respect your privacy. We don't sell, rent or loan any information about you to any third party. We collect customer information to be able to process your order and verify your prescription (if necessary and only with your authorization), as well as improve your shopping experience and to communicate with you about our products, services, contests, surveys and promotions as well as helpful information regarding contact lenses or ocular health. Glasses.com recognizes that it must maintain and use customer information responsibly.
+**So what’s in this Privacy Policy?**
 
-**What kind of information does Glasses.com collect?** We collect personal information (such as your name, email address, mailing address, patient name, contact lens prescription, phone number, credit card numbers and the name and phone number of your eye care provider) that you provide when you place an order, register with us or participate in a contest, survey, or promotion. We also maintain a record of your historical purchases that are placed through the phone, mail, fax, email and over the Internet. Because all of our information systems are fully integrated, when you place an order with us, your customer information is available to you through any channel through which you may choose to contact us (phone, postal mail, fax, Internet or email.)
+Well, as you probably know, glasses.com is part of 1-800 CONTACTS and this policy describes the personal information we at glasses.com and 1-800 CONTACTS collect, why we collect it, and how we use it. This policy also describes your options concerning how we collect and use your information.
 
-We are currently using third-party service providers to track and analyze non-personally identifiable information about our visitors and customers; we use this information to improve our site and plan for technical improvements. This information may also be used by our third party service providers to direct advertising content on other web sites. For more information about this type of advertising visit [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp). All data collected by our service providers on behalf of Glasses.com is owned and used solely for the benefit of 1-800 CONTACTS, Inc. We reserve the right to publish non-personally identifiable summary information regarding our website visitors for promotional purposes and as a representative audience for advertisers. Please note that this is not personal information, but consists of only general summaries of the activities of our visitors and customers.
+If our information practices change in the future, don’t worry—we will notify you by posting the policy changes directly to this web page _before_ any changes are implemented.
 
-**How does Glasses.com use my information?** We use your personal information to fulfill your orders. We will also send you an email to confirm your order, or we may need to contact you via phone, mail or email if we have any questions regarding your order. In addition, we may contact you by phone, mail or email (either directly or through a service provider bound by strict confidentiality standards working on our behalf) to help us learn more about your shopping preferences so that we may better serve you. And finally, we may use your information to help us better improve our site design and your shopping experience, and to also send you notices about our products, services, contests, surveys and promotions or news about contact lenses or ocular health.
+At glasses.com, we value you and respect your privacy, that is why we only collect your information for three purposes: 1) to improve your shopping experience; 2) to process your order (including verification of your prescription, if necessary and with your authorization); and 3) to keep you up-to-date regarding optical goods, ocular health, and even some awesome promotions. Don’t worry, we will maintain and use your information responsibly. We promise.  And we won't sell, rent, or loan any of your information to any third party.  In other words, that junk mail you just got was _not_ because of us!
 
-**Does Glasses.com share my information with third parties?** Except as explained in the next paragraph, we do not share your personal information with any third or outside party. If you opt to receive no commercial email from us, we will add your email address to a do-not-mail file, which may be given to trusted outside parties in order to ensure your email address is excluded from any third-party email distribution. We do not sell, rent or loan any information about you to any third parties.
+**What kind of information does glasses.com collect?**
 
-PLEASE NOTE: On all orders placed, we do attempt to verify or obtain a copy of your eyeglasses prescription from the eye care provider that you designate. We may also share your personal information with our alliance partner, Wal-Mart Optical. This information is held under the same strict confidentiality standards as described above and in accordance with all applicable laws.
+   
+We collect personal information that you provide (such as any pictures or videos you upload or use, name, mailing address, phone number, email address, credit card number, patient’s name (if different from your own), eyeglass prescription, and the name and phone number of the eye care provider) when placing an order, registering with us, or participating in a promotion.  We also maintain a record of your past purchases.  Our information systems are also fully integrated which means after your first order, regardless of _how_ you ordered (phone, web, etc.), we can look you up in a snap.
 
-**How do I access my information? How do I update my information?** Registered customers can access their account information online by clicking the "My Account" link at the top of any of the pages on [www.glasses.com](http://www.glasses.com/) and by entering their email address and password. This will load the My Account portion of the website and allow you to edit your billing, shipping, email preferences, login information and password settings. You can also make general changes to your account information by calling us at 1-800 GLASSES (1-800-452-7737) to speak with a Customer Service Representative.
+Currently, we also use third-party service providers to track and analyze non-personally identifiable information about our visitors and customers.  We use this information to improve our site and plan for technical improvements. This information may also be used by our third party service providers to direct advertising content on other web sites. For more information about this type of advertising visit [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp). All data collected by our service providers on behalf of glasses.com is owned and used solely for the benefit of 1-800 CONTACTS. We reserve the right to publish non-personally identifiable summary information regarding our website visitors for promotional purposes and as a representative audience for advertisers. Please note that this is _not_ personal information, it only consists of general summaries of the activities of our visitors and customers.
 
-**How do I remove my information from email, postal mailing and telephone lists?** If you prefer not to receive notice of promotions, reorder information or updates on contact lens laws by email, please click the "My Account" link at the top of any of the pages on [www.glasses.com](http://www.glasses.com/) , enter your email address and password and click on "email options". You will be able to specify your email preferences on this page. If you wish to be removed from all email communications not related to your order, you can call one of our Customer Service Representatives at 1-800 GLASSES (1-800-452-7737). If you prefer not to receive postal mail, please let us know by sending us an email at [](mailto:info@glasses.com)[info@glasses.com](mailto:info@glasses.com) or call one of our Customer Service Representatives at 1-800 GLASSES (1-800-452-7737).
+**How does glasses.com use my information?**
 
-PLEASE NOTE: Requests to be removed from the postal mail list may take up to 6-8 weeks to become effective. In addition, if you ask to remove your name and address from our email or postal mailing lists, we will maintain your name in a "do not mail" file to ensure that we can honor your request. When you make a purchase, we will send you an email to confirm your order, and send an email when your order is shipped. We may also need to contact you via phone, postal mail or email if we have other questions regarding your order.
+  
+First, we use your personal information to fulfill your orders. Second, we use it to confirm your order (or contact you if we have any questions regarding your order). Third, we may contact you (either directly or through a service provider bound by strict confidentiality) to help us learn more about your shopping preferences so that we may better serve you. Fourth, we may use your information to help us better improve our site design and your shopping experience.  Finally, we may send you notices about our products, services, contests, surveys and promotions or news about eyeglasses or contact lenses, optical goods, or ocular health.
 
-**How does Glasses.com protect children's privacy?** We are concerned about the safety of children when they use the Internet. Consistent with the Children's Online Privacy Protection Act of 1998, we will never request personally identifiable information from anyone under the age of 13.
+**Does glasses.com or 1-800 CONTACTS share my information with third parties?**
 
-If we are aware that a subscriber is under the age of 13 and has registered without prior verifiable parental consent, we will remove his or her personally identifiable registration information from our files.
+  
+We do not share your personal information with any third or outside party, except to verify your prescription, as explained in the next paragraph. If you opt to receive no commercial email from us, we will add your email address to a “do not mail” list, which may be given to trusted outside parties in order to ensure your email address is excluded from any third-party email distribution. We do not sell, rent or loan any information about you to any third parties.
 
-**What about links to other Internet sites and services?** We may maintain links to other websites that are not under our control. These websites have their own policies regarding privacy, which you should review before visiting them. We have no responsibility for linked websites and provide these links solely for the convenience and information of our customers.
+PLEASE NOTE: On all orders placed, we do attempt to verify or obtain a copy of your eyeglass prescription from the eye care provider that you designate. This information is held under the same strict confidentiality standards as described above and in accordance with all applicable laws.
 
-**How does Glasses.com make sure my order information is secure?** Protecting your order information is a priority for us. We use Secure Sockets Layer (SSL) technology to protect the security of your online order information.
+This privacy policy shall also govern your information for all successors, assigns, and/or affiliates of 1-800 CONTACTS.
 
-More than 90% of Fortune 500 companies use SSL security to protect their sensitive personal and financial information. When you use our ordering page you can be assured that your sensitive personal information and financial transactions with us are encrypted, safe, and secure.
+**How do I access my information? How do I update my information?**
 
-To check the security of your connection, look at the lower corner of your browser window after accessing the server. If you see an unbroken key or a closed lock (depending on your browser), the SSL is active and the server is secure. You can also double-check by looking at the URL line of your browser. When assessing a secure server, the first characters of the site address will change from "http://" to "https://".
+   
+After you register, you can access your account online by clicking the “My Account” link at the top of any of the pages on _[www.glasses.com](http://www.glasses.com/)_. Here you can edit your billing, shipping, email preferences, login information and password settings. You can also make these changes by calling us at 1-800 GLASSES (1-800-452-7737)to speak with a Customer Service Representative.
 
-**What is adware? What is spyware? Does Glasses.com use adware or spyware?** Adware is software that is installed on your computer that can, for example, create pop-up advertisements or cause your browser to be redirected to other websites. We do not participate in or use third-party services that use adware, such as Zango, Gator/Claria, whenu.com or ezula.com. We have determined that there are instances where this type of advertising could be construed as confusing for customers. Therefore, we work to ensure that these third-party adware services do not function on the Glasses.com website. Spyware is also software that is installed on your computer that can, for example, record and transmit information regarding the websites you visit, or record or transmit your keystrokes to a third party. Spyware, like adware, is often installed without the knowledge of the person using the computer. We do not use spyware and we work to ensure that spyware does not function on the Glasses.com website.
+**How do I remove my information from email, postal mailing and telephone lists?**
 
-**What are cookies? How does Glasses.com use cookies on its site?** A cookie is a small file that websites often store on your computer's hard drive. A cookie may contain information that is used to track the pages of the sites you've visited.
+  
+To change your email preferences, click the “My Account” link and then click “Account Settings & Password.”  You can also call one of our Customer Service Representatives at 1-800 GLASSES (1-800-452-7737). If you prefer not to receive postal mail, please let us know by sending us an email to  _[](mailto:info@glasses.com)[info@glasses.com](mailto:info@glasses.com)_  or give us a call at 1-800 GLASSES (1-800-452-7737).
 
-We use cookies in order to improve your shopping experience. When you visit the Glasses.com website, your cookie helps us keep track of your order as you shop at our site. If you are a registered customer, your cookie allows us to recognize you when you return to our site and provides you with access to your account information. If you register with or order from us, we also use cookies to monitor and maintain information about your use of our website in a manner that identifies you as a customer. This information helps us serve you better by improving our site design, as well as our services, contests, surveys and promotions.
+PLEASE NOTE: Requests to be removed from the postal mail list may take up to 6-8 weeks to process. Sorry about that.  Also, if you remove your name and address from our email or postal mailing lists, we will maintain your name in a “do not mail” file to ensure that we can honor your request.
 
-You can refuse cookies by turning them off in your browser. If you turn off cookies, however, we will not be able to track your order or enable you to make a purchase from our site, nor will we be able to recognize you as a registered user to allow you access to your account information
+When you make a purchase, we will send you an email to confirm your order, and send an email when your order is shipped. We may also need to contact you via phone, postal mail or email if we have other questions regarding your order.
+
+**How does glasses.com protect my child’s privacy?**
+
+  
+We take children’s safety seriously.  Consistent with the Children's Online Privacy Protection Act of 1998, we will never request personally identifiable information from anyone under the age of 13.
+
+If we are aware or learn that a subscriber is under the age of 13 and has registered without prior verifiable parental consent, we will remove his or her personally identifiable registration information from our files.
+
+**What about links to other Internet sites and services?**
+
+  
+We may maintain links to other websites that are not under our control. These websites have their own policies regarding privacy, which you should review before visiting them. We have no responsibility for linked websites and provide these links solely for the convenience and information of our customers.
+
+**How does glasses.com make sure my order information is secure?**
+
+  
+Protecting your order information is a priority for us. We use Secure Sockets Layer (SSL) technology to protect the security of your online order information.  More than 90% of Fortune 500 companies use SSL security to protect their sensitive personal and financial information, so you know it’s “the good stuff.”
+
+To check the security of your connection, look at the lower corner of your browser window after accessing the server. If you see an unbroken key or a closed lock (depending on your browser), the SSL is active and the server is secure. You can also double-check by looking at the URL line of your browser. When assessing a secure server, the first characters of the site address will change from “http://” to “https://”. 
+
+When you use our ordering page you can be assured that your sensitive personal information and financial transactions with us are encrypted, safe, and secure.
+
+**Does glasses.com use adware or spyware?**   **What is adware? What is spyware?**
+
+  
+Adware is software that is installed on your computer that can, for example, create pop-up advertisements or cause your browser to be redirected to other websites. We do not participate in or use third-party services that use adware. We believe this type of advertising could be confusing for some customers. We work to ensure that these third-party adware services do not function on our website.
+
+Spyware is software that is installed on your computer that can, for example, record and transmit information regarding the websites you visit or record and transmit your keystrokes to a third party.  In addition to being super creepy, we wouldn’t want that software used on us.  So we don’t want it used on you. Spyware, like adware, is often installed without the knowledge of the person using the computer. We do not use spyware and we work to ensure that spyware does not function on our website either.
+
+**What are cookies? How does glasses.com use cookies on its site?**
+
+   
+Some cookies are round, delicious treats—best served hot, right out of the oven.  These are not the cookies we use.  The cookies we use are small files stored on your computer's hard drive that contain information that is used to track the pages of the sites you've visited.
+
+We use cookies to improve your shopping experience. When you visit our website, your cookie helps us keep track of your order as you shop at our site. If you are a registered customer, your cookie allows us to recognize you when you return to our site and provides you with access to your account information. If you register with or order from us, we also use cookies to maintain information about your use of our website in a manner that identifies you as a customer. This information helps us serve you better by improving our site design, as well as our services, contests, surveys and promotions.
+
+Even though we would share our cookies with you, you don’t need to share your cookies with us. Just turn them off in your web browser.  However, if you turn your cookies off, we will not be able to track your order, enable your purchase from our site, or recognize you as a registered user to allow you access to your account information. 
+
+**Is this the end of the Privacy Policy?   **
+
+Yep.  Great job!  You made it to the end!  Unless you have any questions…
+
+**If you do have any questions about our Privacy Policy, please contact us via:**
+
+Email:                           _[](mailto:info@glasses.com)[info@glasses.com](mailto:info@glasses.com)_.
+
+Phone (toll-free):           1-800 GLASSES (1-800-452-7737)
+
+Mail:                            51 West Center St. Orem, UT 84057.
