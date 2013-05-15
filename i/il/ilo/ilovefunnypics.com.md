@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ilovefunnypics.com privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114232033id_/http%3A//ilovefunnypics.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ilovefunnypics.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515122524id_/http%3A//ilovefunnypics.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy | ilovefunnypics.com
 
