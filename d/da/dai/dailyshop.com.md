@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailyshop.com privacy policy that was archived on 2011-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111114191418id_/http%3A//www.dailyshop.com/help/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyshop.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515030707id_/http%3A//www.dailyshop.com/help/privacypolicy) for the most accurate reproduction.*
 
 # Input Help Topics - Privacy Policy - DailyShop.com
 
