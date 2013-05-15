@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aceaffiliates.com privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018211959id_/http%3A//www.aceaffiliates.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aceaffiliates.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515175430id_/http%3A//www.aceaffiliates.com/privacy.html) for the most accurate reproduction.*
 
 # Ace Affiliates Privacy Policy
 
