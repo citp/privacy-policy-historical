@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the crainsdetroit.com privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522053943id_/http%3A//www.crainsdetroit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crainsdetroit.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515045202id_/http%3A//www.crainsdetroit.com/article/20050915/STATIC/50915004) for the most accurate reproduction.*
 
 # Crain's Detroit Business Privacy Statement | Crain's Detroit Business
 
 Last Updated: May 13, 2011 9:59 AM
-
-[](https://web.archive.org/article/20050915/STATIC/50915004&updfcache=1&template=printart) | | [](http://www.addthis.com/bookmark.php?v=250&username=sfwilliams) | | | |
 
 CrainsDetroit.com is the Web site of _Crain's Detroit Business_ , a publication of Crain Communications Inc. **Our postal address is 1155 Gratiot Avenue, Detroit, MI 48207**. We can be reached  **** **by telephone at 313-446-0416**. Your use of our Web site indicates to us that you have read and accepted our Privacy Policy and our Terms and Conditions.
 
@@ -31,13 +29,6 @@ If you have any questions or concerns about the substance or implementation of t
   
 
 
-[](https://web.archive.org/article/20050915/STATIC/50915004&updfcache=1&template=printart) | | [](http://www.addthis.com/bookmark.php?v=250&username=sfwilliams) | | | |
-
-Subscribe to _Crain's Detroit Business_
-
 If you enjoy the content on the _Crain's Detroit Business_ Web site and want to see more, try 8 issues of our print edition **risk-free**. If you wish to continue, you will receive 44 more issues (for a total of 52 in all), including the annual Book of Lists for just $59. That's **over 55% off** the cover price. If you decide _Crain's_ is not for you, just write "Cancel" on the invoice, return it and owe nothing. The 8 issues are yours to keep with no further obligation to us. Sign up below.
 
-|  |   
----|---  
-  
 Offer valid for new MI subscribers only. Non-MI subscribers - $79. All other Foreign - $127.
