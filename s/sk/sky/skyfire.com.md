@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the skyfire.com privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119023626id_/http%3A//skyfire.com/about/privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skyfire.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515204737id_/http%3A//www.skyfire.com/about/privacy-and-security) for the most accurate reproduction.*
 
 # Privacy Policy
 
-### Our Commitment to Your Privacy:
+### **Our Commitment to Your Privacy:**
 
   * Skyfire maintains strict privacy policies. The Skyfire application does NOT collect nor store Personal Information such as name, address, telephone number, or email address. We will not sell or transfer any personal information.
   * Videos via Skyfire's toolbar are mobile-optimized on your behalf, in order to provide you smoother play and faster starts, while still making video as crisp as your wireless connection allows. Skyfire processes these videos on its servers into optimal formats for your screen and bandwidth conditions. 
@@ -15,33 +15,33 @@
 
 
 ### Privacy Policy  
-Effective April 6, 2011 
+Effective April 6, 2011
 
-Your privacy is extremely important to us at Skyfire Labs, Inc. ("Skyfire", "we", or "us"). We respect the privacy of our users and seek to meet or exceed industry-best practices to protect your privacy, including supporting the Internet Advertising Bureau and Better Business Bureau joint self-regulatory principles. Accordingly, we have prepared this Privacy Policy for the Skyfire mobile browser, the SkyBar toolbar, our website, or other products and services we offer (collectively, our "Sites and Services"). By using any of our Sites and Services, you consent to the terms of this Privacy Policy.
+Your privacy is extremely important to us at Skyfire Labs, Inc. ("Skyfire", "we", or "us"). We respect the privacy of our users and seek to meet or exceed industry-best practices to protect your privacy, including supporting the Internet Advertising Bureau and Better Business Bureau joint self-regulatory principles. Accordingly, we have prepared this Privacy Policy for the Skyfire mobile browser, the SkyBar toolbar, our website, or other products and services we offer (collectively, our "Sites and Services"). **By using any of our Sites and Services, you consent to the terms of this Privacy Policy.**
 
 ### 1\. What Information Does Skyfire Collect and for What Purposes?
 
-The Skyfire Browser and other Skyfire mobile apps do NOT collect or store information that can be used to identify you personally such as your name, address, telephone number, or email address ("Personal Information"). Skyfire will not collect Personal Information without your consent. If you sign up for our optional free email newsletter via our Website, we do retain your email and other information you provide, but that is not linked in any way to your use of the Skyfire browser or other products.
+**The Skyfire Browser and other Skyfire mobile apps do NOT collect or store information that can be used to identify you personally such as your name, address, telephone number, or email address ("Personal Information"). Skyfire will not collect Personal Information without your consent.** If you sign up for our optional free email newsletter via our Website, we do retain your email and other information you provide, but that is not linked in any way to your use of the Skyfire browser or other products.
 
-Skyfire uses a completely anonymous user ID to identify specific Skyfire mobile browsers, which is not linked to any Personal Information. To the extent that our Sites and Services access your Device ID, Skyfire uses this Device ID to create a proprietary anonymous ID number that cannot be traced nor reverse-engineered to your particular Device ID or your identity. 
+Skyfire uses a completely anonymous user ID to identify specific Skyfire mobile browsers, which is not linked to any Personal Information. To the extent that our Sites and Services access your Device ID, Skyfire uses this Device ID to create **a proprietary anonymous ID number that cannot be traced nor reverse-engineered to your particular Device ID or your identity.**
 
 In order to process browsing and video requests, Skyfire has to collect certain basic browsing information, limited to Non-Personal Information, including the following:
 
   * When using the Skyfire mobile browser and the SkyBar toolbar, Skyfire automatically records certain information, such as website pages visited, searches made, phone model, and operating system version. This information is required to identify when there is a video for optimization via Skyfire's servers, and is used for studying aggregate user behavior, and to improve our Sites and Services.
   * A key feature of Skyfire's browser is its ability to optimize videos for viewing on your mobile device. When you visit a web page that includes videos, and play videos via the Video button on the SkyBar, Skyfire's servers will intercept and transcode those videos on your behalf. This process is anonymous and not tied to any Personal Information. Skyfire's mobile browser records usage data, including your web request, web response, IP address, the date and time of your request, size of the communication, and cookies, as well as client-side data such as connect times, connect failures and video playback quality.
-  * Note that no data is ever transmitted to our servers when users access secure (HTTPS) sites, such as commonly used in online banking or ecommerce checkout pages. 
+  * **Note that no data is ever transmitted to our servers when users access secure (HTTPS) sites, such as commonly used in online banking or ecommerce checkout pages.**
 
 
 
-When using the SkyBar toolbar, you may choose to login to third-party services using the shortcut toolbar buttons provided, such as Facebook, Twitter, or other third-party services. You may use the SkyBar toolbar without logging in to those services, and you may log out at any time. Skyfire does not collect or store your account information for third-party services. Skyfire maintains only an encrypted token ("OAuth," in technical speak) to indicate to these third parties that you are logged in to your account with their services.
+When using the SkyBar toolbar, you may choose to login to third-party services using the shortcut toolbar buttons provided, such as Facebook, Twitter, or other third-party services. **You may use the SkyBar toolbar without logging in to those services, and you may log out at any time.** Skyfire does not collect or store your account information for third-party services. Skyfire maintains only an encrypted token ("OAuth," in technical speak) to indicate to these third parties that you are logged in to your account with their services.
 
 When you visit and browse our website, Skyfire may set and access one or more cookies (which are text files containing alphanumeric identifiers that we send to your browser and are stored on your computer). We use cookies to store limited session-related information to improve our website experience and understand repeat visitor trends. If you would like, you may be able to change your browser settings to limit our use of cookies (however, some features of our Sites and Services may not function normally if you do so). Please review your web browser's "Help" file to learn the proper way to modify these settings. In addition, as with most websites, Skyfire automatically receives and logs information from your computer that your browser sends, such as IP address, browser type, and Skyfire cookie information, referring/exit pages and URLs, platform type, number of clicks, landing pages, and pages viewed.
 
-Skyfire may display advertisements and offers in its Sites and Services, including in the SkyBar toolbar. Skyfire serves relevant ads using a completely automated and anonymous process that enables Skyfire to target ads based on interests and topics that surface in keyword analysis of browsed pages. No human will read the browser session in order to target such advertisements, and no personally identifiable information will be collected nor provided to advertisers as part of this Service. We may also contract with trusted partners to perform anonymous reporting and analytics to refine user interest profiles creates with this information. However, Skyfire stores and uses this data in a form that does not permit direct association with any specific individual or device. 
+Skyfire may display advertisements and offers in its Sites and Services, including in the SkyBar toolbar. Skyfire serves relevant ads using a completely automated and anonymous process that enables Skyfire to target ads based on interests and topics that surface in keyword analysis of browsed pages. No human will read the browser session in order to target such advertisements, and no personally identifiable information will be collected nor provided to advertisers as part of this Service. We may also contract with trusted partners to perform anonymous reporting and analytics to refine user interest profiles creates with this information. However, Skyfire stores and uses this data in a form that does not permit direct association with any specific individual or device.
 
 We may in the future introduce new Sites or Services that require a separate registration and may ask you to provide Personal Information when using those distinct products. Please keep in mind that standards for what constitutes Personal Information may differ in other jurisdictions.
 
-Skyfire may use, disclose, reproduce, license and distribute any comments, suggestions and feedback to Skyfire regarding the use of our Sites and Services.
+**Skyfire may use, disclose, reproduce, license and distribute any comments, suggestions and feedback to Skyfire regarding the use of our Sites and Services.**
 
 ### 2\. What Does This Privacy Policy Cover, and What Doesn’t It Cover?
 
@@ -106,10 +106,8 @@ Note:  Some users may have more restrictive privacy policies based on specific 
 
 | 
 
-[Site Terms of Use](http://skyfire.com/about/terms-of-use)
+[Site Terms of Use](http://www.skyfire.com/about/terms-of-use)
 
-[Browser Terms of Use](http://skyfire.com/about/browser-terms)
+[Browser Terms of Use](http://www.skyfire.com/about/browser-terms)
 
-[Privacy Policy](http://skyfire.com/about/privacy-and-security)
-
-[VideoQ Privacy Policy](http://skyfire.com/about/videoq-privacy)
+[Privacy Policy](http://www.skyfire.com/about/privacy-and-security)
