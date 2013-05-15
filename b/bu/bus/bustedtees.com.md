@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bustedtees.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122162025id_/http%3A//www.bustedtees.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bustedtees.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515233533id_/http%3A//www.bustedtees.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy Summary - Brain Buster Enterprises, LLC
+# Privacy Policy Summary - Brain Buster Enterprises, LLC | BustedTees
 
 ## Consumer Privacy at Brain Buster Enterprises, LLC
 
