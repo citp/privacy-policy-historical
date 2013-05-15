@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigpondmovies.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202151714id_/http%3A//www.telstra.com.au/privacy/privacy-statement/%3Fred%3D/privacy/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigpondmovies.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515121838id_/http%3A//www.telstra.com.au/privacy/privacy-statement/%3Fred%3D/privacy/privacy_statement.html) for the most accurate reproduction.*
 
 # Privacy Statement - Telstra
 
