@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1800pocketpc.com privacy policy that was archived on 2012-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120118054016id_/http%3A//www.1800pocketpc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1800pocketpc.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515124244id_/http%3A//www.1800pocketpc.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -30,4 +30,7 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
-**Checkout Our Sponsors**
+  
+
+
+[](http://windowsphone.com/s?appId=da778f9c-bc4c-e011-854c-00237de2db9e)
