@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exclusivepornart.com privacy policy that was archived on 2012-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120810090040id_/http%3A//www.exclusivepornart.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exclusivepornart.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515050419id_/http%3A//www.exclusivepornart.com/privacy.html) for the most accurate reproduction.*
 
 # ExclusivePornArt.com - Only Exclusive and only High Quality Porn and Erotic Art.
 
