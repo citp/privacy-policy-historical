@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 6stepnichesites.com privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104013231id_/http%3A//www.6stepnichesites.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 6stepnichesites.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516011012id_/http%3A//www.6stepnichesites.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | 6 Step Niche Sites with PotPieGirl
 
