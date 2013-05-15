@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the funny-pictures-blog.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122134854id_/http%3A//funny-pictures-blog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funny-pictures-blog.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516000224id_/http%3A//funny-pictures-blog.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Funny Pictures Blog
+# Privacy Policy - MEME and LOL
 
 [](http://funny-pictures-blog.com/wp-content/uploads/2012/07/thinking-meme.png)
 
