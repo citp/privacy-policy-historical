@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the socialbarrel.com privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114175931id_/http%3A//socialbarrel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialbarrel.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515182216id_/http%3A//socialbarrel.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : Social Barrel
+
+###  [Privacy Policy](http://socialbarrel.com/privacy-policy/)
 
 **Your Privacy**
 
