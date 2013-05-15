@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifehacker.co.uk privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209165732id_/http%3A//advertising.gawker.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifehacker.co.uk privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515070845id_/http%3A//advertising.gawker.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Gawker Media - Privacy Policy
 
