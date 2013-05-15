@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citehr.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123161159id_/http%3A//www.citehr.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citehr.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515122422id_/http%3A//www.citehr.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - CiteMan Network
 
