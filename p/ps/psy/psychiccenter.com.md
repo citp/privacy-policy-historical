@@ -1,15 +1,18 @@
-> *The following text is extracted and transformed from the psychiccenter.com privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111125306id_/http%3A//www.psychiccenter.com/TelephonyUS/Phone/UserGuide.aspx%3FDes%3DPRI%26Af%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psychiccenter.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515043416id_/http%3A//www.psychiccenter.com/TelephonyUS/Phone/UserGuide.aspx%3FDes%3DPRI%26Af%3D0) for the most accurate reproduction.*
 
 # Free Psychic Reading & Tarot Reading: Privacy Policy | Psychic center.com
 
   |   
-**Horoscope.com Privacy Policy**
+**Horoscope.com Privacy Policy**  
+Effective date: 03/28/2013
 
 Horoscope.com, Inc. ( **"we"** or **"Horoscope.com"** ) has created this privacy policy ( **"Privacy Policy"** ) to demonstrate our commitment to privacy. We realize the importance of feeling safe online and want you to feel comfortable using our personalized products and services (collectively, **"Offerings"** ) and exchanging information on our web sites located at Horoscope.com, AstroCenter.com and PsychicCenter.com ( **"Sites"** ). This Privacy Policy outlines the privacy practices for the Sites and is incorporated into and subject to the terms and conditions of our Terms of Service for the Sites (the **"Terms of Service"** ). If any term of this Privacy Policy is inconsistent or conflicts with any term of the Terms of Service, this Privacy Policy will control with respect to the subject matter of this Privacy Policy. Any capitalized term used but not defined in this Privacy Policy has the meaning set forth in the [Terms of Service](http://www.psychiccenter.com/TelephonyUS/Phone/UserGuide.aspx?Des=TOS&Af=0). 
 
 By submitting Personal Data through our Sites and/or Offerings, you agree to the terms of this Privacy Policy and you expressly consent to the processing of your Personal Data in accordance with this Privacy Policy. 
 
-[](https://privacy-policy.truste.com/click-with-confidence/ctv/en/www.psychiccenter.com/seal_m "Validate TRUSTe privacy certification")Horoscope.com Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at 
+[](https://privacy.truste.com/privacy-seal/Horoscope-com,-Inc-/validation?rid=5bc7bccc-7eac-4599-8472-131bd91a4015 "TRUSTe European Safe Harbor certification")
+
+Horoscope.com Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal data. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at 
 
 Horoscope.com, Inc.   
 126 South Park   
@@ -18,7 +21,7 @@ U.S.A.
 Email: privacy@horoscope.com   
 Phone: 415 615 9028 
 
-If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). Horoscope.com complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union. Information regarding the E.U. Safe Harbor Framework can be found at: <http://export.gov/safeharbor>. 
+If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). Horoscope.com complies with the U.S. - E.U. Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from the from European Union member countries. Horoscope.com has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Horoscope.com?s certification, please visit [http://www.export.gov/safeharbor/](http://export.gov/safeharbor). 
 
 **I. TYPES OF DATA WE COLLECT**
 
@@ -30,7 +33,7 @@ We collect Personal Data and Anonymous Data from you when you visit our Sites, w
 
 _Orders_
 
-If you purchase a service from us, we request certain personally identifiable information from you during the account creation process. You must provide contact information (such as name, email, and billing address) and financial information (such as credit card number, expiration date). 
+If you purchase a service from us, we request certain personal data from you during the account creation process. You must provide contact information (such as name, email, and billing address) and financial information (such as credit card number, expiration date). 
 
 We use this information for billing purposes and to fill your orders. If we have trouble processing an order, we will use this information to contact you. 
 
@@ -52,14 +55,22 @@ We use this information for billing purposes and to fill your orders. If we have
 
 **C. IP Addresses.** We use your IP Address to help diagnose problems with our server, to administer our web sites, and to track trends and statistics. 
 
-**D. Cookies.** When you view our Sites or advertisements, we might store some information on your computer. This information will be in the form of a " **cookie** " or similar file. Cookies are small pieces of information stored on your hard drive to facilitate your current and future visits to our Site. We use cookies to deliver content specific to your interests, save passwords so you won't have to enter it each time you visit the site, and for other purposes. You can set your web browser to notify you when you are sent a cookie, giving you the opportunity to decide whether or not to accept the cookie. You can also set your browser to disable cookies. However, some parts of the Sites, including our registered customer account web sites, may not work properly if you disable or reject cookies. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. 
+**D. Cookies.** When you view our Sites or advertisements, we might store some information on your computer. This information will be in the form of a " **cookie** " or similar file. Cookies are small pieces of information stored on your hard drive to facilitate your current and future visits to our Site. We use cookies to deliver content specific to your interests, save passwords so you won't have to enter it each time you visit the site, and for other purposes. You can set your web browser to notify you when you are sent a cookie, giving you the opportunity to decide whether or not to accept the cookie. You can also set your browser to disable cookies. However, some parts of the Sites, including our registered customer account web sites, may not work properly if you disable or reject cookies. We do not link the information we store in cookies to any personal data you submit while on our site. 
 
 _Third Party Cookies_
 
-The use of cookies by third parties is not covered by our privacy statement. We do not have access or control over these cookies. These third parties use session ID cookies to make it easier for you to navigate our site. 
+The use of cookies by third parties is not covered by our privacy policy. We do not have access or control over these cookies. These third parties use session ID cookies to make it easier for you to navigate our site. 
 
 **Clear Gifs (Web Beacons/Web Bugs)**   
-Our third party advertising partner employs a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user?s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers? personally identifiable information. 
+Our third party advertising partner employs a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user?s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers? personal data. 
+
+**Flash LSOs**   
+We use local shared objects, also known as Flash cookies, to store your preferences such as volume control or high game score, or display content based upon what you view on our site to personalize your visit. Third Parties, with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity, use Flash cookies to collect and store information. 
+
+Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. Cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies [click here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118)
+
+**Behavioral Targeting / Re-Targeting**   
+We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personal data about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads. 
 
 **E. Feedback.** If you provide feedback on any of our Offerings to us, we may use such feedback for any purpose, provided we will not associate such feedback with your Personal Data. We will collect any information contained in such communication and will treat the Personal Data in such communication in accordance with this Privacy Policy. 
 
@@ -69,11 +80,13 @@ Our third party advertising partner employs a software technology called clear g
 
 We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at privacy@horoscope.com. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
+**H. Social Media Widgets** Our Web site includes Social Media Features, such as the Facebook button [and Widgets, such as the Twitter button or interactive mini-programs that run on our site]. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it. 
+
   
 **IV. DISCLOSURE OF YOUR DATA**   
 
 
-**A.** We do not share, sell, rent, or trade your personal information with third parties other than as disclosed within this privacy policy. Although we currently do not have a parent company, we may in the future. We may share some or all of your Personal Data with our parent company (if we have one in the future), any subsidiaries, joint ventures, or other companies under a common control (collectively, " **Affiliates** "), in which case we will require our Affiliates to honor this Privacy Policy. Horoscope.com Inc. operates multiple web sites, including Astrocenter.com, Horoscope.com, and Psychiccenter.com, and we may share your Personal Data with, and receive Personal Data from, all of the web sites operated by Horoscope.com Inc. If Horoscope.com Inc. is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web sites of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information. 
+**A.** We do not share, sell, rent, or trade your personal data with third parties other than as disclosed within this privacy policy. Although we currently do not have a parent company, we may in the future. We may share some or all of your Personal Data with our parent company (if we have one in the future), any subsidiaries, joint ventures, or other companies under a common control (collectively, " **Affiliates** "), in which case we will require our Affiliates to honor this Privacy Policy. Horoscope.com Inc. operates multiple web sites, including Astrocenter.com, Horoscope.com, and Psychiccenter.com, and we may share your Personal Data with, and receive Personal Data from, all of the web sites operated by Horoscope.com Inc. If Horoscope.com Inc. is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web sites of any change in ownership or uses of your personal data, as well as any choices you may have regarding your personal data. 
 
 **B. Co-branded Service Offerings.** We may enter into agreements with certain businesses (each, a " **Partner Company** ") pursuant to which we provide the Partner Company with a URL and a customer registration page co-branded with, or private labeled by, the Partner Company, and the Partner Company distributes and promotes the URL to its customers. A Partner Company may want access to Personal Data that we collect from its customers. As a result, if you register on a website through a Partner Company, we may provide your Personal Data to the Partner Company. Because we do not control the privacy practices of our Partner Companies, you should read and understand their privacy policies. 
 
@@ -83,14 +96,14 @@ We will retain your information for as long as your account is active or as need
 
 **E. Other Disclosures.** Due to the existing legal regulatory and security environment, we cannot fully ensure that your private communications and other Personal Data will not be disclosed to third parties under certain circumstances. For example, we may be forced to disclose information to the government or third parties under court order, subpoena, or other circumstances, or third parties may unlawfully intercept or access transmissions or private communications. Additionally, in the unlikely event we need to investigate or resolve possible problems or inquiries, we can (and you authorize us to do so) disclose any information about you to private entities, law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate. In addition, where we ask for your Personal Data and you are notified that the information we are collecting on that page will be shared with third parties, and in cases where you opt-in to share your Personal Data with third parties, those disclosures and opt-ins will override anything to the contrary in this Privacy Policy.
 
-We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web sites. 
+We reserve the right to disclose your personal data as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web sites. 
 
   
 **V. SECURITY**
 
-The security of your personal information is important to us. When you enter sensitive information (such as credit card number) on our order forms, we encrypt that information using secure socket layer technology (SSL). 
+The security of your personal data is important to us. When you enter sensitive information (such as credit card number) on our order forms, we encrypt that information using secure socket layer technology (SSL). 
 
-We have implemented and follow reasonable industry standard technical and procedural measures to protect against unauthorized access and use of your personal information. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. 
+We have implemented and follow reasonable industry standard technical and procedural measures to protect against unauthorized access and use of your personal data. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. 
 
 If you have any questions about security on our Web sites, you can email us at privacy@horoscope.com. 
 
