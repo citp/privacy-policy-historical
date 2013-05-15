@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chef2chef.net privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217022221id_/http%3A//www.chef2chef.net/about/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chef2chef.net privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515073435id_/http%3A//www.chef2chef.net/about/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Chef 2 Chef
+# Privacy Policy | Chef 2 Chef | Chef2Chef.net
 
 [ ](http://privacy-policy.truste.com/click-with-confidence/ctv/en/www.chef2chef.net/seal_m "Validate TRUSTe privacy certification")
 
@@ -51,7 +51,7 @@ We may use Personal Information:
 
 Your Personal Information may be disclosed:
 
-  * to our affiliates, including but not limited to www.chef2chef.net , for the purposes described in this Privacy Policy. www.chef2chef.net is the party responsible for the management of the jointly-used Personal Information.
+  * to our affiliates, including but not limited to www.chef2chef.net, for the purposes described in this Privacy Policy. www.chef2chef.net is the party responsible for the management of the jointly-used Personal Information.
   * to our third party service providers who provide services such as contact information verification, payment processing, order fulfillment, customer service, website hosting, data analysis, infrastructure provision, IT services, email delivery services, auditing services and other similar services to enable them to provide services.
   * if you request information from vendors so that they (or so that third parties who provide similar services) can provide you with information about their products and services.  We are not responsible or liable for vendors’ use of your Personal Information.
   * if you choose to download a white paper, eBook, or other resource, to our clients, partners and current and future sponsors of that resource. If you do not want to be contacted by these third parties, please do not download, view or otherwise access the white papers, eBooks and other resources.
@@ -167,7 +167,7 @@ If you have any questions about this Privacy Policy, please contact us by email 
 
 Privacy
 
-www.chef2chef.net 
+www.chef2chef.net
 
 950 Tower Lane, 6th Floor
 
