@@ -1,52 +1,63 @@
-> *The following text is extracted and transformed from the national.com privacy policy that was archived on 2012-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120201011252id_/http%3A//www.national.com/en/corporate/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the national.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516010613id_/http%3A//www.ti.com/corp/docs/legal/privacy.shtml) for the most accurate reproduction.*
 
-# National Semiconductor Web Site Private/Security Statement
+# Texas Instruments - Privacy Policy
 
-**Privacy Policy**
+## 1\. Scope and Content
 
-Your privacy is very important to us. National Semiconductor Corporation, including its worldwide affiliated companies and subsidiaries ("National") adheres to the following privacy policy regarding its collection, use and dissemination of personal and non-personal information collected through its website ("Site"). National reserves the right to modify its privacy policy at any time. By using the Site, you consent to the collection and use of your information as set forth in the policy currently in effect. Any changes to this policy will be posted on our Site so please check back periodically to ensure you have the most current policy statement.
+This Privacy Policy explains how Texas Instruments Incorporated, 12500 TI Boulevard, Dallas, Texas 75243, USA (“TI” or “we”) handles your Personal Data collected through TI’s websites. Personal Data is any information relating to an identified or identifiable person, for example, your e-mail address, name or phone number. This Privacy Policy does not apply to information that TI collects offline.
 
-**Collection of Non-Personal Information**
+## 2\. Anonymous Usage of TI’s Websites
 
-Whenever you visit a web page on the internet, your browser automatically identifies the IP address from where your page request was initiated. It also volunteers certain basic information like browser type, the operating system you are running, and in some cases the page from which you referred to the Site. National's server automatically collects this information and tracks it on a page by page and on a statistical basis.
+You are welcome to visit TI’s websites while remaining anonymous and not revealing any Personal Data. Sharing your Personal Data is voluntary. However, if you choose not to provide certain information, you may not be able to take advantage of many of TI’s features and programs. The information you provide to TI will better enable TI to communicate with you regarding our products and your product needs.
 
-**Use of Non-Personal Information**
+## 3\. Data We Collect and How We Use it
 
-National uses non-personal information such as the region or country of the world from which your IP request emerged to suggest the appropriate language presentation or to select the best promotion aligned to that region of the world. We also use browser type, operating system, and page visits for statistical analysis of site usage and navigation trends.
+TI collects the Personal Data you enter into forms on the website. For example, if you enter your e-mail address when you register with my.TI or your postal address when you purchase products or request product information, this data will be used to serve your request, e.g. to provide you with the product and service information you requested. TI also uses Personal Data to enhance the service of TI’s websites and to personalize information provided to you online or offline. Additional information on the purpose for which we use your data may be provided to you when entering your Personal Data in a particular form.
 
-**Collection of Personal Information**
+Your Personal Data is collected through, stored and processed by TI or service providers of TI in the USA.
 
-When you create your personal preferences and workspace with National we will ask for your name, your e-mail address, and when applicable, your billing address, and the address for shipment of your order. National also uses ["Cookies"](https://web.archive.org/en/corporate/cookies.html) to collect personal information about our visitors.
+Bulletin boards, forums and/or newsgroups are also available to you on TI’s websites subject to the specific terms of use for these services. Please remember that any information that you provide in these areas becomes public and you should exercise caution in deciding to disclose it.
 
-**Use and Disclosure of Personal Information**
+In addition to Personal Data, TI collects certain information on an anonymous basis,  i.e. in a manner that cannot be associated with your personal identity. For example, TI collects the number of visitors to our websites, browsing patterns, information derived from your IP address indicating the country or state where your communication originated, and areas of visitors’ interest. We analyze this data to assess trends, statistics and customers’ needs, to help us improve and customize our websites and our products, so we can effectively meet visitors’ needs.
 
-We maintain personal information for statistical purposes to improve our Site for users' needs, to offer products, information and services, contests, sweepstakes or other marketing or promotional activities, to provide customer feedback and support, to administer the Site, to correspond with users and for other purposes related to the reason you gave it to us. We share the information you provide (such as name, company name, address, position, email address, telephone number and telefax number) with National's affiliated companies and subsidiaries within the scope of the above purpose of use. We may entrust the information you provide with third party business partners such as sales representatives, authorized distributors and fulfillment partners to assist us in providing products, information, services or promotions to you, or to manage and improve the Site and database. For example, National may provide your name and delivery address to a shipping company that National uses for delivering products to you. If you agree, we may share your contact information and information relating to your WEBENCH design including design configurations and component bill of materials included in your design selections to third party business partners, such as device manufacturers, sales representatives, distributors and fulfillment partners. Except as outlined in this policy or on our Site, National will not give or sell your personal information to third parties without your consent. We will only use your personal information in the way we specified when it was collected. We will not subsequently change the way your personal information is used without your consent. In special cases, we may need to share information without acquiring consent, such as where required by law, or as provided by, or to enforce, our [Site Terms and Conditions of Use](https://web.archive.org/en/corporate/site_terms.html), or to protect the rights or property of National Semiconductor Corporation. The [Personal Information Protection Management Contact](mailto:phil.gibson@nsc.com) listed below is responsible for the control of personal data.
+## 4\. Disclosure to Other Companies
 
-**Access to Personal Information Stored On The National Servers/Personal Information Protection Management Contact**
+Under certain circumstances, Personal Data may be given to TI business partners when we believe your business interests will be served. For instance, if we need to ship products to you, we will share your name and address with a carrier. TI will also release Personal Data if compelled by law to do so. Otherwise, TI will not provide your Personal Data to any third party outside the TI group of companies without your consent.
 
-You can modify or delete your contact information within the [My Profile](http://www.national.com/profile/user_profile.cgi) page at any time through the My Profile page available as a link in the headers of the Site. You can also modify your personal preferences through the [My Notifications](http://www.national.com/profile/user_info.cgi) link available in the headers of the Site. You may also contact the [Personal Information Protection Management Contact](mailto:phil.gibson@nsc.com) to request National to correct or discontinue use of your personal information.
+## 5\. Your Right to Opt Out at Any Time
 
-**Correspondence and Notifications**
+You may opt out of the collection and processing of your Personal Data at any time. By way of example, when you are registered with my.TI, enter our online stores or register for a contest or promotion you have the option to receive or not to receive additional communications from TI. If you choose to receive these additional communications and later change your mind, you may unsubscribe at any time. For example, e-mail messages will contain instructions on how to “unsubscribe” from receiving the e-mail in question.
 
-When you create your Personal Workspace on the Site, you can complete a personal interest profile. Where possible, National uses this interest profile as well as your activity on the Site as collected via Cookies to modify the information delivered to your browser to be more aligned to your interest preferences. National also will use your interest profile and your activity on the Site, to communicate with you over e-mail or to make offers to you during your visits. If you wish us to discontinue sending e-mails to you, we will terminate the activity upon receipt of your request.
+  * If you wish to unsubscribe from receiving all Texas Instruments Semiconductor Division email, please send an email to [tiprime@dlep14.itg.ti.com](mailto:tiprime@dlep14.itg.ti.com?subject=remove) placing the word “remove” in the subject line. 
+  * If you wish to unsubscribe from receiving all Texas Instruments Education Technology email, please send an email to [calc-webmaster@ti.com](mailto:calc-webmaster@ti.com?subject=remove).
 
-**Commerce and Ordering Information**
 
-If you are using a secure server to buy something, we will also ask for your credit card number and expiration date. This information will be used only for the limited purpose of processing your orders.
 
-**External Links**
+## 6\. Cookies
 
-The Site contains links to third party sites. Since National does not control those websites, we encourage you to review the privacy policies of these third party sites.
+Cookies are small text files that our websites ask to place on your computer’s hard drive. If your browser is set to accept cookies, then your browser adds the text in a small file. We do not use cookies to read any other information on your computer’s hard drive. We use cookie technology to authenticate your access to various areas of our website, tailor its content to your preferences or geographic region, to help us analyze web traffic in general and to track when site visitors complete surveys, so that we do not present a survey again for 90 days. Cookies may be used in interactions where you request something from TI: literature, CD-ROMs, technical support, seminar registrations, personalized web pages, or when you participate in a survey. Most browsers are initially set to accept cookies. If you prefer, you can set yours to refuse cookies, or to warn you before a cookie is placed. If you choose not to accept cookies, you may have to manually input user IDs and passwords to receive certain data.
 
-**Security**
+## 7\. Your Right to Access, Correction and Deletion of Personal Data
 
-When you transact business with National our goal is to ensure that your information will be transmitted across the web with the highest degree of security possible. We use Secure Sockets Layer (SSL) technology which encrypts sensitive information such as your name, address, phone number, credit card etc. The Site also uses the [Verisign digital identification](https://digitalid.verisign.com/server/about/aboutFAQ.htm) service which allows your browser to properly confirm the server you are transacting with is National's server. During the transaction, the server is properly identified with your browser and the information is encrypted before your personal and credit card information is transmitted.
+You have the right to ask us which Personal Data we hold about you. In addition, you have the right to correct or delete Personal Data we hold about you.
 
-Access to your personal information is limited to National's employees and our services providers who have a justified business reason to access your information consistent with this policy. All personal information is protected through password access and only to identified corporate users.
+You can contact us at the e-mail addresses listed below to request a change to your Personal Data or a copy of the Personal Data stored.
 
-**Please note:** Some corporate firewalls do not support secure-SSL transmissions. If you experience problems when trying to connect using the Secure Sockets Layer (SSL), please contact your internet administrator and confirm if your corporate firewall supports SSL.
+  * Semiconductors: [sc-webmaster@ti.com](mailto:sc-webmaster@ti.com)
+  * Education Technology: [calc-webmaster@ti.com](mailto:calc-webmaster@ti.com)
 
-**Comments  
-**Any questions or concerns regarding this policy should be submitted through [Feedback](http://www.national.com/feedback/) or sent by electronic mail to [feedback@national.com](mailto:feedback@national.com), or by letter sent by first class postage prepaid mail to National Semiconductor Corporation, 2900 Semiconductor Drive, Santa Clara, California 95051, Attention Webmaster.
 
-Policy last revised on October 1, 2010
+
+## 8\. Data Security
+
+We aim to protect your Personal Data. TI uses a variety of commercially available security technologies to protect your Personal Data, including secure servers, firewalls and encryption of financial data.
+
+## 9\. Children under the Age of 13
+
+The vast majority of TI websites do not target and are not intended for children under the age of 13. TI values the privacy needs of these children and encourages parents to be an active participant in their child’s online activities and interests. We abide by the Children’s Online Privacy Protection Act (COPPA) requirements. TI websites that do not target children will not knowingly collect data from them. If we discover Personal Data from a child that has been provided through a TI website that is targeted to adults and older children, we will eliminate that data.
+
+A few portions of TI’s Education Technology Group websites may include material targeted to children under the age of 13 as part of a broader family audience target. When the collection of Personal Data is involved, those specific web pages will be clearly identified, and will require that a parent’s or guardian’s permission is secured when required by COPPA. Appropriate notices and instructions will be included on such sites. Parents wishing to access, review or delete their child’s personal information should contact us at [calc-webmaster@ti.com](mailto:calc-webmaster@ti.com).
+
+## 10\. Changes to this Privacy Policy
+
+We reserve the right to change this policy. While we do not intend to make changes to this policy very often, it is always a good idea to double check our most current policy statement when you visit us to be sure that you have read and agree with what information we collect, how we use it and under what circumstances we disclose it. For more information on using TI’s websites, see the [Terms of Use](http://www.ti.com/corp/docs/legal/termsofuse.htm).
