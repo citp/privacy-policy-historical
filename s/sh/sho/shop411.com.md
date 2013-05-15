@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shop411.com privacy policy that was archived on 2012-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121117160139id_/http%3A//sp.shop411.com/en/docs/about/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shop411.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515185527id_/http%3A//sp.shop411.com/en/docs/about/privacy.shtml) for the most accurate reproduction.*
 
 # About Shop411.com Privacy
 
