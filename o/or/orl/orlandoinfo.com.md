@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the orlandoinfo.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231160045id_/http%3A//www.visitorlando.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orlandoinfo.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515090540id_/http%3A//www.visitorlando.com/privacy-policy) for the most accurate reproduction.*
 
 # Visit Orlando - Official Florida Vacation Information
 
