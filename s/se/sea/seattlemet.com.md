@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seattlemet.com privacy policy that was archived on 2012-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121129103312id_/http%3A//www.seattlemet.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seattlemet.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515045020id_/http%3A//www.seattlemet.com/site/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Seattle Met
 
