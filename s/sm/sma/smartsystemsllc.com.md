@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartsystemsllc.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215050906id_/http%3A//www.smartsystemsllc.com/en/main/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartsystemsllc.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515134120id_/http%3A//smartsystemsllc.com/en/main/privacy) for the most accurate reproduction.*
 
 # Smart Systems - USA - Armenia - Russia - Privacy
 
