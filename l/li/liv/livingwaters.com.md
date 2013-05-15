@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livingwaters.com privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105170035id_/https%3A//www.livingwaters.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D41%26Itemid%3D120%26lang%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livingwaters.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515203547id_/http%3A//www.livingwaters.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D41%26Itemid%3D120%26lang%3Den) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -54,4 +54,4 @@ We give you the opportunity to opt-out of certain communications and modify pers
 
 If you have any questions or concerns about this privacy policy, the practices of the Site, or your dealings with the Site, you can contact us at .'; document.write( '
 
-' ); document.write( addy_text38376 ); document.write( '<\/a>' ); //-->
+' ); document.write( addy_text39379 ); document.write( '<\/a>' ); //-->
