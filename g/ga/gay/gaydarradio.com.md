@@ -1,62 +1,87 @@
-> *The following text is extracted and transformed from the gaydarradio.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005095604id_/http%3A//www.gaydarradio.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaydarradio.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515065446id_/http%3A//uk.gaydio.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | GaydarRadio
+# Privacy Policy | Gaydio
 
-[ ](https://web.archive.org/newsletter)
+Gaydio Community Interest Company  ("we”) is committed to protecting and respecting your privacy. This policy (the ‘Privacy Policy’) (together with our Website Terms and Conditions of Use, a copy of which can be found elsewhere on this Website, together with any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
-[ ](http://www.llgs.org.uk/) [ ](https://web.archive.org/competitions/2012/9/jackie-collins.html) [ ](https://web.archive.org/entertainment/popcorn/2012/10/hot-male---october-2.html) [ ](http://www.gaydarradio.com/music/outinmusic) [ ](https://web.archive.org/entertainment/popcorn/2012/6/pride-diary.html) [ ](https://web.archive.org/competitions/2012/10/pnk---tour-copy.html) [ ](https://gaydar-radio.clubtickets.com/) [ ](http://www.britishsurrogacycentre.com/)
+This Privacy Policy also contains our policies on cookies.
 
-We take the privacy rights of users of this Site very seriously and seek to ensure the highest standards of compliance with UK Data Protection Laws and Regulations. 
+For the purpose of the Data Protection Act 1998 (the ‘Act’), the data controller is
 
-This Privacy Policy is incorporated in and subject to the Site [Terms and Conditions](https://web.archive.org/terms). This Privacy Policy explains to You (as relevant) or otherwise use the Site. You expressly consent to the use of Your Data in accordance with this Privacy Policy. 
+Gaydio Community Interest Company, Suite 1a Portland Tower, 53 Portland Street, Manchester, M1 3LF.
 
-1\. Your Data
-1.1 "Your Data" means any information about You which is personally identifiable, including, without limitation, Your name, address, telephone number, email address, financial details, Member Name, Password, comments, profiles, personal descriptions, photos and other information from which You can be identified and which You may disclose to Us or otherwise via the Site at any time.
-2\. When do We collect Your data?
-2.1 If You register as a Member, We collect Data when You:
-    2.1.1 register as a Member;
-    2.1.2 update Your Member Profile or Settings; and
-    2.1.3 post an entry on the Site.
-2.2 If You otherwise use the Site (whether or not You are a Member), We collect Your Data from You:
-    2.2.1 when You make a complaint or enquiry or provide other feedback to Us;
-    2.2.2 when You submit an entry to a competition or prize draw;
-    2.2.3 when You request to be sent Our Newsletter;
-    2.2.4 in monitoring Your communications sent via and use of the Site ensure and check compliance with the Terms and Conditions of Use or Membership Terms and Conditions or otherwise as required by law; and
-    2.2.5 when You disclose Your Data to Us or otherwise through the Site at any other point.
-3\. How do We use Your Data:
-3.1 We use Your Data to:
-    3.1.1 monitor, develop and improve the Site, Services and Your experience;
-    3.1.2 process Your registration as a Member and to process and administer Your Membership (where appropriate);
-    3.1.3 process and deal with any complaints or enquiries made by or about You;
-    3.1.4 investigate any suspected breach of the Terms and Conditions of Use or Membership Terms and Conditions (as relevant) made by or otherwise relating to You and to monitor compliance including by way of checking postings to the Site, retaining forum or chat room exchanges and using keyword triggers to investigate usage that may be inappropriate;
-    3.1.5 where (and only where) requested by You, to send You and keep You updated with information by email about existing and new services and special offers from Us;
-    3.1.6 where (and only where) requested by You, to send You information by e-mail about related products or services of selected third parties that may be of interest to You; and
-    3.1.7 where you are a prize winner, to publish or otherwise make available a list of prize winners.
-To opt-out of receiving any information pursuant to paragraphs 3.1.5 or 3.1.6, You can: 
+1\. Consent
 
-  1. amend Your preferences accordingly in Your Profile or Settings;
-  2. use the facility contained in any such communication; or
-  3. email us at [privacypolicy@qsoft.co.uk](mailto:privacypolicy@qsoft.co.uk) stating Your Username, the Site You are registered with and who You do not wish to receive further communications from.
+Your use of this Website signifies your consent to us collecting and using personal information about you as specified below in accordance with this Privacy Policy. Should we choose to change our Privacy Policy for any reason, the changes will be posted on this Website, so that you are always kept informed of how we collect and use your personal information, and when we may disclose it.
 
-4\. Will we pass on Your Data to third parties?
-4.1 We may pass Your Data to other parties as follows:
-    4.1.1 Where relevant, Your Member Name and information you voluntarily provide in Your Member profile will be published on the Members' area of the site and this will be the identity by which You are known on the Site. Where other Members wish to chat or otherwise contact You, they will be able to identify You by Your Member Name and any other information You may yourself disclose via the Site.
-    4.1.2 To Our employees and agents to administer Your Membership and the services provided to You by Us now or in the future.
-    4.1.3 Some general statistical information about the Site User base, sales patterns, traffic volumes and related matters may be passed on to reputable third parties but these details will not include information personally identifying You.
-    4.1.4 We may disclose Your Data to the police, regulatory bodies or legal advisers in connection with any alleged criminal offence or suspected breach of the Terms and Conditions of Use and (where appropriate) Membership Terms and Conditions by You or otherwise where required by law.
-4.2 We do not pass or sell Your Data to third persons for any other purpose than those set out in 4.1 above. Any marketing under paragraph 3.1.6 is conducted by Us on behalf of third parties and they do not have any access to Your Data unless You Yourself choose to contact them.
-4.3 Always think carefully before disclosing Your Data or other information to other Members or otherwise posting Your Data on the Site. It is important that You are aware that any of Your Data or other information which You disclose to another Member may then be disclosed on the Site by that Member. As stated in the [Terms and Conditions](https://web.archive.org/terms), We have no responsibility or control over the contents of communications made between Members.
-5\. Data Security
-5.1 We endeavour to take all reasonable steps to protect Your Data. All the Data collected by Us is stored on a secure server. The secure server software encrypts all information You input before it is sent to Us.
-6\. Cookies
-6.1 Cookies are small pieces of information stored by Your browser on Your computer's hard drive. We use cookies to allow Us to understand who has seen which pages and advertisements, to determine how frequently particular pages are visited, to determine the most popular areas of the Site and generally in order to monitor usage of the Site. Most web browsers automatically accept cookies, though You do not have to. We do not control the use of cookies by third parties. If You wish to disable cookies then You can do so by readjusting Your browser settings although please note that by disabling cookies You may not be able to register with or use all features of the Site.
-6.2 For more information on cookies and how to disable them, You can consult the information provided by the Interactive Advertising Bureau at [www.allaboutcookies.org](http://www.allaboutcookies.org/).
-7\. Access to and Updating Your Data
-7.1 Where You are a Member, You may access and update Your Data contained in Your Member Account accessed by the "Settings" link. You must make sure that You update Your Data as soon as possible with any and all relevant changes.
-7.2 If You are not a Member but would like to update Your Data, then please contact Us at [privacypolicy@qsoft.co.uk](mailto:privacypolicy@qsoft.co.uk) setting out Your Username, the Site to which you are registered and the details that You wish to change.
-8\. Other links
-8.1 Please be aware that the Site may link to other web sites that may be accessed by You through Our Site. We are not responsible for the data policies, content or security of these linked web sites. We do not have any control over the use to which third parties may put Your Data where You choose to purchase products or services or otherwise to contact them via this Site.
-9\. Transfer Outside the EEA
-9.1 This Site is accessible via the internet and therefore may potentially be accessed by anyone around the world. Other Members may also be or access the Site from outside the European Economic Area. This means that, where You post Your Data on the Site, this could be accessed from anywhere around the world and therefore a transfer of Your Data outside of the European Economic Area may be deemed to have occurred. You consent to such transfer of Your Data for and by way of this purpose.
-10\. Contact Us
-10.1 If You have any comments or queries in connection with Our privacy policy, please contact Us by email at [privacypolicy@qsoft.co.uk](mailto:privacypolicy@qsoft.co.uk), or write to Us at QSoft Consulting Ltd, PO Box 113, Twickenham, TW1 4WY, relates.
+2\. The information we collect and how we use it
+
+2.1 We may collect and process the following data about you:
+
+2.1.1 information that you provide by filling in forms on our Website. This includes information provided at the time of registering to use our Website (if required), subscribing to any service offered by us or posting material on this Website. We may also ask you for information when you enter a competition or promotion sponsored by Gaydio or any of its group companies and when you report a problem with our Website;
+
+2.1.2 if you contact us, we may keep a record of that correspondence;
+
+2.1.3 we may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them; and
+
+2.1.4 details of your visits to our Website including, but not limited to, traffic data, location data, blogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access.
+
+2.2 We use information held about you in the following ways:
+
+2.2.1 to ensure that content from our Website is presented in the most effective manner for you and for your computer;
+
+2.2.2 to provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes;
+
+2.2.3 to carry out our obligations arising from any contracts entered into between you and us;
+
+2.2.4 to allow you to participate in interactive features of our Website, when you choose to do so; and
+
+2.2.5 to notify you about changes to our Website or our Website Terms and Conditions of Use.
+
+2.3 We may also use your data, or permit selected third parties to use your data, to provide you with information about goods and services which may be of interest to you and we or they may contact you about these by post or telephone.
+
+3\. How do we protect your Information?
+
+3.1 We are serious about guarding the security of your personal details. We have strict security procedures covering the storage and disclosure of your information in order to prevent unauthorised access and to comply with the Act. This means that sometimes we may ask you for proof of identity before disclosing any personal information to you.
+
+3.2 Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our Website; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
+
+4\. IP Addresses and Cookies
+
+4.1 We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify any individual.
+
+4.2 For the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive. They help us to improve our Website and to deliver a better and more personalised service. They enable us:
+
+4.2.1 to estimate our audience size and usage pattern;
+
+4.2.2 to store information about your preferences, and so allow us to customise our Website according to your individual interests;
+
+4.2.3 to speed up your searches; and
+
+4.2.4 to recognise you when you return to our Website.
+
+4.3 You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of our Website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our Website.
+
+4.4 Please note that our advertisers may also use cookies, over which we have no control.
+
+5\. Access to information
+
+5.1 You have the right to access any personal information that you have submitted to us. We reserve the right to charge a small fee for each request made by you for us to provide you the details of the personal information we hold about you.
+
+5.2 You can withdraw your consent for us to hold your details by writing to or emailing us, including your name and full address, requesting a full removal of your details from our database.
+
+6\. Third Parties
+
+6.1 Information collected by cookies is used to provide summative statistics about our customers, and other Website information to third parties. Cookies do not include any personally identifiable information.
+
+6.2 Your audio player (Windows Media Player, Win Amp, etc.) may also have a privacy policy attached to it. We advise you to read it. Some players do report anonymous statistics back to their creators.
+
+7\. Disclosures
+
+We have a responsibility to keep your information confidential and we take all reasonable care to prevent any unauthorised access to your personal data. We do not disclose information that you may give, such as name, address, telephone number or e-mail address to any outside companies. However, we reserve the right to access and disclose individually identifiable information to comply with applicable laws and lawful government requests, to operate its systems properly or to protect itself or its users.
+
+8\. Contacting Us
+
+If you have any questions or concerns about our use of your personal information please contact us by completing the 'contact us' section appearing on this Website.
+
+NOTE: Third party internet websites that you can link to through our Website are not covered by our Privacy Policy, so we urge you to be careful when you enter any personal information on-line. We accept no responsibility or liability for these other websites.
