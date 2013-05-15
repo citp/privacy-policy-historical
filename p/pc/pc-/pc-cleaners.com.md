@@ -1,41 +1,16 @@
-> *The following text is extracted and transformed from the pc-cleaners.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920022536id_/http%3A//www.pc-cleaners.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pc-cleaners.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515031217id_/http%3A//www.pc-cleaners.com/privacypolicy.php) for the most accurate reproduction.*
 
 # PC Cleaner
 
-This Privacy Statement applies to PC Cleaners Inc. ("PC Cleaners") and its worldwide corporate affiliates ("we", "our" or "us"). This Privacy Statement does not apply to the products or websites of our business partners or to any other third parties, even if their products or websites are linked to or from our website. We recommend you review the privacy statements of the other parties with whom you interact. 
-
-This Privacy Statement governs personal information we collect from our customers and online from our website users ("you"), through our products, services, software, websites, contacts or our relationships with you. 
-
-For the purposes of this Privacy Statement, "corporate affiliates" means any entity or joint venture that is wholly or partially owned or controlled by PC Cleaners Inc... "Business partners" means any subcontractor, vendor or other entity with whom we have an ongoing business relationship to provide products, services, or information. "Personal information" means information which identifies you, such as your name, telephone number, and e-mail address. 
+This Privacy Statement applies to PC Cleaners Inc. This Privacy Statement governs personal information we collect from our customers and online from our website users ("you"), through our products, services, software, websites, contacts or our relationships with you. 
 
 #### **Information We Collect**
 
-**We may ask you to provide personal information when you**
-
-  * Use our website;
-  * Use our products;
-  * Create a PC Cleaners account;
-  * Request services, support, or information;
-  * Place orders for products or product subscription activation keys;
-  * Participate in surveys, sweepstakes, or other promotional activities;
-  * Subscribe to newsletters, promotional e-mails, or other materials; or
-  * Contact us.
-
-
-
-Information we may request includes your name, e-mail address, home address and telephone number. If you make an order, we may ask for your home address, telephone number. Job applicants may be requested to provide information such as educational background, employment experience and job interest. If you contact us for e-mail technical support, we may ask you for information on which product you are using, which version of Windows you are using, the nature of your issue, and any other information pertinent to the support request. If you use our products, in addition to your name and e-mail address, we will also receive technical information regarding your computer specifications. We may also collect your business or company information, title or department and other information (including demographic information). Any forms that you may fill in will indicate whether information requested is mandatory or voluntary. 
-
-You can browse the PC Cleaners website without creating an account, but you may need to create an account when you purchase something. When you create an account at PC Cleaners.com, you can choose to save your billing and shipping information in the "My Account / View or Modify My Account Information" section of the PC Cleaners website. You may log in to your account to change or delete this saved information anytime.
-
-We may collect information about your visits to our websites, including the pages you view, the links you click, search terms you enter and other actions you take in connection with the PC Cleaners websites and services. We may also collect certain information from the browser you used to come to our website, such as your Internet Protocol ("IP") address, browser type and language, access times, the Uniform Resource Locator ("URL") of the website that referred you to our website and to which URL you browse away from our site if you click on a link on our site.
-
-In order to offer you a more consistent and personalized experience in your interactions with PC Cleaners, information collected through one source may be combined with information obtained through other PC Cleaners resources. We may also supplement the information we collect with information obtained from other parties as well.
-
-Some PC Cleaners services or products may be co-branded and offered in conjunction with another company. If you register for or use such services or products, both PC Cleaners and the other company may receive information collected in conjunction with the co-branded services or products, and may use the information according to each company's privacy statement and other agreements with you.
+PC Cleaner  collects your Personal Information at a variety of points, including when you place an order, (which may require you to provide personal information, including a credit card number, to our commerce provider Cleverbridge), register software, request services or take part in other activities on our Web site. For example, we often ask for your Personal Information when you are conferring with one of our customer support technicians, downloading a new product or program update, registering your software or purchasing a product. During these interactions we will collect Personal Information relevant to your transacting with PC Cleaner , such as your name, mailing address,, e-mail address, shipping address and credit card information along with information about the PC Cleaner  products you own, such as the activation code or key code, date of purchase and information relating to a support issue. We use this information for billing purposes and to fill your orders. If we have trouble processing an order, we will use this information to contact you. When you register, you will be provided with an option to opt-out of receiving promotional information on our products and services. We will not use your personal information for anything other than what you have intended it for. Please be aware that if you prefer not to provide us with your Personal Information, because such information may be necessary for us to provide certain services, we may not be able to, or may choose not to, make such services available to you.
 
 #### How We Use Your Personal Information
 
-**PC Cleaners uses your personal and technical information to:**
+PC Cleaners uses your personal and technical information to:
 
   * Deliver the services and support, or carry out the transactions you have requested. 
   * Send communications to you, such as your transactions status (for example, order confirmations), information about products and services available from PC Cleaners and its corporate affiliates, promotional offers, newsletters, and surveys.
@@ -44,8 +19,6 @@ Some PC Cleaners services or products may be co-branded and offered in conjuncti
   * Prevent fraud and other prohibited or illegal activities.
 
 
-
-Personal information collected may be stored and processed in the United States or any other country in which PC Cleaners or its corporate affiliates, subsidiaries, agents or service providers maintain facilities, and by using PC Cleaners products and services, you consent to any such transfer of information outside of your country. 
 
 #### **Disclosing Personal Information**
 
@@ -73,21 +46,15 @@ PC Cleaners websites use "cookies" to enable you to sign in to our services and 
 
 You have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to sign in or use other interactive features of PC Cleaners websites and services that depend on cookies.
 
-#### **Third-Party Websites and Services**
-
-Please note we do not give out our members information to third parties.
-
-Please be aware that, in providing services on PC Cleaners's behalf, our business partners may collect personal information about you.=
-
 #### **Changes to Our Global Privacy Statement Regarding Customer and Online User Information**
 
 We will occasionally update this Privacy Statement. When we post changes to this Privacy Statement, we will revise the Effective Date at the end of this paragraph. If there are material changes to this Privacy Statement or in how PC Cleaners will use your personal information, we will notify you by prominently posting a notice of such changes prior to implementing the change. We encourage you to periodically review this statement to be informed of how PC Cleaners is protecting your personal information.
 
-Effective Date: January 1, 2009.
+Effective Date: October 1, 20012.
 
 #### Contacting Us
 
-If you would like to contact us for any reason regarding our privacy practices, please write us at the following address:
+If you would like to contact us for any reason regarding our privacy practices,  access to your personal information to correct, update, or delete it, please contact us as described below:
 
 PC Cleaners Inc.  
 Attention: Privacy Policy  
