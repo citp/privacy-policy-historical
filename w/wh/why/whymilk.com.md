@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the whymilk.com privacy policy that was archived on 2012-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121113023028id_/http%3A//www.milkmustache.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whymilk.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515025943id_/http%3A//www.milkmustache.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Breakfast Project
 
-This site (“Milk”) has a policy to respect and protect the privacy of its users. This privacy policy statement tells you how we collect information from you and how we use it. Using the Internet should be a fun experience and we want to help you make it so.
+This site (“Milk”) has a policy to respect and protect the privacy of its users. This privacy policy statement tells you how we collect information from you and how we use it. Using the Internet should be a fun experience and we want to help you make 
+
+it so.
 
 Milk occasionally collects and stores personal user information in connection with promotions at www.milkmustache.com. Whenever information of that kind is collected, Milk checks the ages of all site visitors before accepting information from them. No information is collected from guests under the age of 13 unless parental permission to do so is obtained as described below in the section designated “POLICY FOR KIDS (INDIVIDUALS UNDER 13 YEARS OF AGE).”
 
