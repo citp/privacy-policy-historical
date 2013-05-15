@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sextube89.com privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114053455id_/http%3A//sextube89.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sextube89.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515183356id_/http%3A//sextube89.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Sex Tube 89.com - Privacy Policy
 
