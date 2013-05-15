@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sharebuilder.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120101936id_/http%3A//www.sharebuilder.com/sharebuilder/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharebuilder.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515082328id_/http%3A//www.sharebuilder.com/sharebuilder/privacy-policy.aspx) for the most accurate reproduction.*
 
-# ShareBuilder from Capital One
+# ShareBuilder by Capital One
 
 We know your privacy is valuable (that’s why we never peek over the fence into your backyard). To learn how we collect, share and protect your information after you’ve applied for or obtained a consumer product or service from us, please download our [Privacy Policy](https://content.sharebuilder.com/mgdcon/core/agreements/CapitalOnePrivacyPolicy.pdf).
 
