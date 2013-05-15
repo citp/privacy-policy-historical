@@ -1,23 +1,30 @@
-<!--The following is the downloaded HTML source of the recreation.gov privacy policy that was archived on 2012-11-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121110200139id_/http%3A//www.recreation.gov/marketing.do%3Fgoto%3D/acm/privacyPolicy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the recreation.gov privacy policy that was archived on 2013-05-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130515025859id_/http%3A//www.recreation.gov/marketing.do%3Fgoto%3D/acm/privacyPolicy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/"><head>
 	  <meta http-equiv="X-UA-Compatible" content="IE=edge">	   
-	  <script type="text/javascript"> 
+	  <script src="//tags.tiqcdn.com/utag/active/reserveamerica/prod/utag.js" type="text/javascript" async=""></script><script type="text/javascript"> 
 		window.name="ra";
 	  </script> 
       <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
       <meta http-equiv="Content-Style-Type" content="text/css">
       <meta http-equiv="Content-Script-Type" content="text/javascript">
 	    
-	  <style type="text/css"> @import url('/style/common.css');</style>
+	  
+	  
+	  <style type="text/css"> @import url('/style/ext_style/modalPopLite.css');</style>
+<style type="text/css"> @import url('/style/ext_style/jquery-ui-1.8.23.custom.css');</style>
+<style type="text/css"> @import url('/style/ext_style/jquery-ui-timepicker-addon.css');</style>
+<style type="text/css"> @import url('/style/common.css');</style>
 <style type="text/css"> @import url('/style/ajax.css');</style>
 <style type="text/css"> @import url('/marketing/style/marketing.css');</style>
 
 	  
-	  <script type="text/javascript" src="/js/_all.js"></script>
+	  <script type="text/javascript" src="/js/_jquery_all.js"></script>
+<script type="text/javascript" src="/js/_all.js"></script>
 
 	  	  
+	  <meta name="google-translate-customization" content="539526da2cd03541-8bfeb42c37cb1567-g47c9efedc7cd5b40-12"> 
 	  
 	  
 	  
@@ -36,9 +43,8 @@
 		function urchinTracker(page) {pageTracker._trackPageview(page)} // just to not brake the marketing content that was not updated yet
   </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
   <script type="text/javascript">
-		var pageTracker = _gat._getTracker("UA-418557-5");
+		var pageTracker = _gat._createTracker("UA-418557-5");
 		pageTracker._initData();
-
   </script>
 
   <script type="text/javascript">submitted = 0;</script>
@@ -47,7 +53,7 @@
 	
    <div id="pageContainer">
 	<div id="page">
-	  
+	  <script type="text/javascript" src="/foresee/foresee-alive.js"></script>
 
 <div id="pageWrapper">
 <!--Start Temp Announcment-->
@@ -62,6 +68,14 @@
 #newLookAnnounce a:hover{
 	color: #FEB305;
 }
+.link_truncated {
+    text-overflow: ellipsis;
+    display: inline-block;
+    width: 325px;
+    white-space: nowrap;
+    overflow: hidden;
+    vertical-align: top;
+}
 </style>
 <a href="/marketing.do?goto=acm/Explore_And_More/exploreArticles/NewLook.htm" title="About New Look!">
 <div style="color: #FEB305">New Look!</div>
@@ -73,13 +87,12 @@
 <div id="banner" style="padding:0; margin:0;height : 60px;overflow:hidden;">
 
 	<div id="logoContainer" style="position:absolute;">
-		<a href="/recgovHome.do?topTabIndex=Home" target="_top"><img id="headerGraphic" src="/brands/rec.gov/marketing/html/images/2012/RecreationDotGovLogo.png" width="305" height="124" alt="Recreation.gov - Explore your America" title="Recreation.gov - Explore your America"></a>
+		<a href="/" target="_top"><img id="headerGraphic" src="/brands/rec.gov/marketing/html/images/2012/RecreationDotGovLogo.png" width="305" height="124" alt="Recreation.gov - Explore your America" title="Recreation.gov - Explore your America"></a>
 	</div>
 	<div id="socialBanner">
 	<iframe id="fbheaderiframe" src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FRecreationgov%2F132630653420787&amp;send=false&amp;layout=button_count&amp;width=110&amp;show_faces=false&amp;action=like&amp;colorscheme=dark&amp;font=arial&amp;height=21&amp;appId=101538589962516" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:110px; height:21px;" allowtransparency="true"></iframe>
 	</div>
 	<div id="contactUs">
-		
 		Toll-free reservation line: 1-877-444-6777 (10:00 AM - Midnight EST) <a href="/contact.do">Other ways to contact us</a>
 	</div>	
 </div>
@@ -97,6 +110,53 @@
 -->
 
 </div>
+
+<div id="exit_disclaimer_opener" style="display:none;"></div>
+<div id="modalPopLite-mask1" style="width:100%" class="modalPopLite-mask"></div><div id="modalPopLite-wrapper1" style="left: -10000px;" class="modalPopLite-wrapper"><div id="exit_disclaimer" class="modalPopLite-child-1">
+	<div id="exit_disclaimer_closer"></div>
+	<div id="exit_disclaimer_content"></div>
+</div></div>
+<script type="text/javascript">
+$j(document).ready(function(){
+	$j("#exit_disclaimer").modalPopLite({ openButton: '#exit_disclaimer_opener', closeButton: '#exit_disclaimer_closer', isModal: false, callBack:removeExitMsg});
+	// Loop over the anchor tags on the page
+	$j("a").each(function(){
+		// Get the HREF Destination
+		hrefVal = $j(this).attr("href");
+		// Check that we have an href
+		if ( hrefVal != undefined && hrefVal != '' && hrefVal != '#' && hrefVal.length > 4){
+			// Get the href start value
+			startStrVal = hrefVal.substring(0, 4);
+			// Check if we have a valid URL
+			if ( startStrVal == 'http' ){
+				// Get the HREF domain
+				hrefDomain = hrefVal.match(/:\/\/(.[^/]+)/)[1];
+				// Check if we are leaving the domain
+				if (hrefDomain != window.location.hostname && hrefDomain.indexOf(".gov") < 0 && hrefDomain.indexOf(".mil") < 0 && hrefDomain.indexOf(".si.edu") < 0 && hrefDomain.indexOf(".fed.us") < 0 ){
+					// Remove onClick bindings
+					$j(this).unbind('click');
+					$j(this).attr("onClick", "");
+					// Bind a click event to open the alert message
+					$j(this).click(function() {
+						var destURL = $j(this).attr("href");
+						// open exit message
+						$j("#exit_disclaimer_content").html("<table cellpadding='20'><tr><td valign='middle'><h2>You are exiting the Recreation.gov website</h2><h3>Thank you for visiting our site.</h3><p>You will now be redirected to:<br /><a class='link_truncated' id='exitBox-destHref' href='" + destURL + "' >" + destURL + "</a></p><p>We hope your visit was informative and enjoyable.</p></td></tr></table>");
+						$j("#exit_disclaimer_opener").trigger('click');
+						// pause and redirect
+						exitMsgTimeout = window.setTimeout(function() {
+							window.location = destURL;
+						}, 5000); // length of pause, in ms
+						return false;
+					});
+				}
+			}
+		}
+	});
+});
+function removeExitMsg(){
+	clearTimeout(exitMsgTimeout);
+}
+</script>
 	  <div id="topnav"><table class="tabs" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td class="first"><a href="/unifSearchResults.do?topTabIndex=Search" target="_top" id="Search"><span class="caption">FIND PLACES &amp; ACTIVITIES<br></span></a></td><td><a href="/marketing.do?goto=acm/Explore_Trip_Ideas.htm&amp;topTabIndex=Explore" target="_top" id="Explore"><span class="caption">EXPLORE TRIP IDEAS<br></span></a></td><td><a href="/marketing.do?goto=/acm/faqs.htm&amp;topTabIndex=Help" target="_top" id="Help"><span class="caption">HELP &amp; FAQ<br></span></a></td><td class="last"><a href="/marketing.do?goto=/acm/aboutUs.htm&amp;topTabIndex=About" target="_top" id="About"><span class="caption">ABOUT US<br></span></a></td></tr></tbody></table></div>
 	  
 
@@ -107,7 +167,9 @@
 
 
 <div id="membershipbar">
-<div class="tabsbar"><span>&nbsp;&nbsp;<a href="/memberSignInDisplay.do?topTabIndex=MyAccount" id="signIn" onclick="showInlineProgressBar(&quot;topnavProgressBar&quot;,&quot;Please wait ...&quot;,&quot;pagearea&quot;); return true;">Log-In</a></span><span>&nbsp;&nbsp;&nbsp;&nbsp;<a href="/memberCreateAccountDisplay.do?topTabIndex=MyAccount" id="signUp" onclick="showInlineProgressBar(&quot;topnavProgressBar&quot;,&quot;Please wait ...&quot;,&quot;pagearea&quot;); return true;">Sign-Up</a></span><span id="barlinks"><a href="/marketing.do?goto=/acm/faqs.htm" onclick="pageTracker._trackPageview(&quot;/outgoing/help&quot;)">Help/FAQ</a></span></div>
+<div class="tabsbar">
+<span id="signinmsg">&nbsp;&nbsp;<a href="/memberSignInDisplay.do?topTabIndex=MyAccount" id="signIn" onclick="showInlineProgressBar(&quot;topnavProgressBar&quot;,&quot;Please wait ...&quot;,&quot;pagearea&quot;); return true;">Log-In</a></span>
+<span id="signupmsg"><a href="/memberCreateAccountDisplay.do?topTabIndex=MyAccount" id="signUp" onclick="showInlineProgressBar(&quot;topnavProgressBar&quot;,&quot;Please wait ...&quot;,&quot;pagearea&quot;); return true;">Sign-Up</a></span><span id="barlinks"><a href="/marketing.do?goto=/acm/faqs.htm" onclick="pageTracker._trackPageview(&quot;/outgoing/help&quot;)">Help/FAQ</a></span></div>
 <div id="topnavProgressBar" style="display:none;"><h2><span id="pBarTitle"></span></h2>
 <div id="inlineProgressBar">
 <div>&nbsp;</div>
@@ -282,6 +344,12 @@ Ballston Spa, New York<br>
 
 
 </div>
+
+
+
+	<script type="text/javascript" src="/foresee/foresee-trigger.js"></script> 
+
+
 <div id="footerCap">
 	<div id="footerLogo">
 		<a href="/recgovHome.do?topTabIndex=Home" target="_top"><img id="footerGraphic" src="/brands/rec.gov/marketing/html/images/2012/footercap_recdotgovlogo.png" width="250" height="85" alt="Recreation.gov - Explore your America" title="Recreation.gov - Explore your America"></a>
@@ -345,11 +413,6 @@ function googleTranslateElementInit() {
 
 
 
-
-
-	<script type="text/javascript" src="/foresee/foresee-trigger.js"></script> 
-
-
 <!-- /footer -->
 	</div>
    </div>
@@ -379,7 +442,20 @@ function googleTranslateElementInit() {
 	}
 	</script>
   
-	
+	<script type="text/javascript">
+(function(a,b,c,d){
+    a='//tags.tiqcdn.com/utag/active/reserveamerica/prod/utag.js';
+    b=document;
+    c='script';
+    d=b.createElement(c);
+    d.src=a;
+    d.type='text/java'+c;
+    d.async=true;
+    a=b.getElementsByTagName(c)[0];
+    a.parentNode.insertBefore(d,a);
+})();
+</script>
+
 <!-- SiteCatalyst code version: H.21. Copyright 1996-2010 Adobe, Inc. All Rights Reserved More info available at http://www.omniture.com -->
 <script type="text/javascript" src="/js/sc/tan_code.js"></script>
 <script type="text/javascript"><!--
@@ -409,12 +485,18 @@ var s_code=s_tan.t();if(s_code)document.write(s_code)//--></script>
   		fullTitle = window.location.href;
   		shortTitle = fullTitle.substring(fullTitle.indexOf("?")+1,fullTitle.length);
   	}
+  	
+  	pageTracker._setCustomVar(1,'customerid','',3);
+  	pageTracker._setCustomVar(2,'contract','NRSO',3);
+
+  	
+
+	
 	pageTracker._trackPageview(shortTitle.length==0 ? document.title : shortTitle);
+	
   </script>
-  
   
   <!-- for test only -->
   
   
-
 </div></body></html>
