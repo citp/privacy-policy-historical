@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cotswoldoutdoor.com privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031192520id_/https%3A//www.cotswoldoutdoor.com/index.cfm/fuseaction/pages.help/sub/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cotswoldoutdoor.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515024058id_/http%3A//www.cotswoldoutdoor.com/index.cfm/fuseaction/pages.help/sub/privacy) for the most accurate reproduction.*
 
-# Privacy and cookies | Cotswold Outdoor
+# Privacy and cookies
 
 **We care about your privacy**
 
@@ -66,7 +66,7 @@ Cotswold Outdoor community | cookie.communityxover.Loggedin, cookie.communityxov
   
 **Our cookies**
 
-**The cookies listed below only become active with your prior consent (you will have been asked for consent when you enter the site), these cookies are essential to help us improve your experience.**
+**The cookies listed below are essential to help us improve your shopping experience.**
 
 Cookie | Name | Purpose  
 ---|---|---  
