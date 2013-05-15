@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kovideo.net privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225234316id_/http%3A//www.kovideo.net/text-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kovideo.net privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515103613id_/http%3A//www.kovideo.net/text-privacy-policy.html) for the most accurate reproduction.*
 
 # 
 
@@ -42,6 +42,8 @@ In the event KOvideo goes through a business transition, such as a merger, acqui
 KOvideo fully cooperates with law enforcement agencies in identifying those who use our services for illegal activities. We reserve the right to disclose information about members who we believe are in violation of applicable laws or regulations, or as required to respond to a subpoena, court orders or other legal process requiring such disclosure. We also reserve the right to report to law enforcement agencies any activities that we reasonably believe to be unlawful and to exchange information with other companies and organizations for fraud protection. 
 
 **Changes to our Privacy Policy** Use of information we collect is subject to the Privacy Policy in effect at the time such information is used or collected. From time to time, we may change our Privacy Policy and will notify you of those changes by email or post a notice on the kovideo.net website. Users are bound by any changes to the Privacy Policy when they use kovideo.net after such changes have been first posted. Please note that if you opt out of receiving legal notices from us, those legal notices will still govern your use of kovideo.net, and you are responsible for reviewing such legal notices for changes. 
+
+**Notice Regarding Online Behavioral Advertising** We allow third party companies to serve ads and/or collect certain anonymous information when you visit our Web site. These companies may use non-personally identifiable information (e.g. click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice visit the NAI at http://www.networkadvertising.org. To opt-out of this type of advertising, you can visit http://www.aboutads.info/choices. 
 
 **Some of our Partners Privacy Policies** We strongly ecourage you to review also our partners advertising policies since those also impact your privacy on our site.  
 
