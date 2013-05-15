@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vizify.com privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214120211id_/https%3A//www.vizify.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vizify.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515095013id_/https%3A//www.vizify.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Vizify
 
