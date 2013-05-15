@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the gamerarchives.com privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218103112id_/http%3A//www.gamerarchives.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamerarchives.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515064048id_/http%3A//www.gamerarchives.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy « Game news, Game reviews and Game tips
-
-#### [Privacy policy](http://www.gamerarchives.com/privacy-policy)
+# Privacy policy | Game news, Game reviews and Game tips
 
 **1\. Collection of Data**  
 Personal information is collected only by third-party transaction entities necessary for any charges that may occur. We do not collect any personal identifiable information on this web site intentionally or unintentionally. As on many web sites, the web server may automatically receive general information that is contained in server log files, such as your IP address, and cookie information.
