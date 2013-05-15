@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collegemagazine.com privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101012304id_/http%3A//www.collegemagazine.com/page/56/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegemagazine.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515111749id_/http%3A//www.collegemagazine.com/page/56/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
