@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reachmail.net privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021124903id_/http%3A//www.reachmail.net/pages/privacy_policy/13.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reachmail.net privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515194942id_/http%3A//www.reachmail.net/pages/privacy_policy/13.php) for the most accurate reproduction.*
 
 # ReachMail - Privacy Policy
 
@@ -27,7 +27,20 @@ ReachMail has further committed to refer unresolved privacy complaints under the
 
 ## Client Data Policy
 
-As our client, you have exclusive ownership and rights to your subscriber data. Your subscriber data will never be shared with any third-parties. Other ReachMail users do not have access to your data. ReachMail support staff may access your data during support requests or from time to time during account audits. ReachMail support staff will never modify your data except at your written request. 
+Your recipient lists are stored on a secure ReachMail server. We do not, under any circumstances, steal your lists, contact people on your lists, market to people on your lists, sell your lists, or share your lists with any other party, except as required by law or, regarding contacting, except in response to a complaint or other communication directly from an individual on one of your lists. Only carefully selected, authorized personnel have access to view Distribution Lists. We do not hold your lists hostage. We do not make it difficult for you to reclaim them. You may export (download) your lists from ReachMail at any time so long as we have a copy.We will use and disclose the information in your Distribution Lists only for one or more of the following purposes: 
+
+  1. To help enforce compliance with our Terms of Use and applicable law including, but not limited to, helping to create white lists and black lists, to develop and test algorithms, heuristics and other methods and tools for detecting violations, and to apply those methods and tools.
+  2. To bill and collect sums owed to us.
+  3. To protect the rights and safety of us and our employees, Members, owners, officers and others.
+  4. To meet legal requirementssuch as complying with court orders and valid subpoenas.
+  5. To prosecute and defend a court, arbitration or similar proceeding.
+  6. To support and improve the services we offer including adding features and providing benchmarking and other comparison information based on aggregating and analyzing data.
+  7. To transfer your informationin the event of the sale of all, or substantially all, of the assets of our business to a third-party or in the event of a merger, consolidation or acquisition. However, in such event, any acquirer will be subject to our obligations under this Privacy Policy.
+  8. To provide information received hereunder to representatives and advisors such as attorneys and accountants to help us comply with legal and other requirements.
+  9. To provide customer support and obtain feedback about our Services, but only for and from the Member whose Personal Information and User Data are being used.
+
+  
+
 
 ## Email Recipient Policy
 
@@ -35,8 +48,10 @@ Email is sent only to lists that have been warranted to us to be composed of opt
 
 ## Subscriber Privacy
 
-Data Collection: ReachMail allows customers to collect subscriber data only if that data is collected using legitimate opt-in methods—that is, the recipient actively entered their email into the customer's sign-up form, or the email came from an existing customer database.  
-Use of purchased lists is prohibited.  
+Data Collection: ReachMail allows customers to collect subscriber data only if that data is collected using legitimate opt-in methods—that is, the recipient actively entered their email into the customer's sign-up form, or the email came from an existing customer database.
+
+Use of purchased lists is prohibited.
+
 Confirmed Opt-In Process: When we host the subscription process for a client, this process is a confirmed opt-in. This means that after a person requests becoming a subscriber initially, they will receive a confirmation that they must respond to in order for a subscription to become valid.
 
 ## Anti-Spam Statement
@@ -49,4 +64,16 @@ Any individual or client who is suspected of abusing ReachMail services may be c
 
 ## Security Statement
 
-Along with privacy, security is of utmost importance at ReachMail. Therefore, substantial investments have been made in ReachMail's technology platform including high-end servers and hosting, database applications, and security technologies. 
+Along with privacy, security is of utmost importance at ReachMail. Therefore, substantial investments have been made in ReachMail's technology platform including high-end servers and hosting, database applications, and security technologies.
+
+To protect your information, our credit card processing vendor uses the latest 128-bit Secure Socket Layer (SSL) technology for secure transactions. In addition, our vendor is certified as compliant with card association security initiatives, such as the Visa Cardholder Information Security and Compliance (CISP), MasterCard® (SDP), and Discovery Information Security and Compliance (DISC).
+
+ReachMail accounts require a username and password to log in. When you're finished using ReachMail, please click the "log out" link in the top right corner of your screen, to prevent someone from using your computer to access your account. You must keep your username and password secure and not disclose it to a third party.
+
+Due to the sensitive nature of your Distribution Lists, we do not re-send forgotten passwords. Users must follow online instructions to reset their passwords if they forget them.
+
+Account passwords are encrypted. We cannot see your passwords. We can only reset them.
+
+## Notice of Breach of Security
+
+Nobody is safe from hackers these days. ReachMail will notify you, as soon as possible, if a breach in security results in an unauthorized intrusion into our system which materially affects you or people on your Distribution Lists, and will subsequently report the corrective action taken in response to the intrusion. 
