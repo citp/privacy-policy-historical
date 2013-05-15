@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the venusianarts.com privacy policy that was archived on 2012-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121113204301id_/http%3A//www.venusianarts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the venusianarts.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515063822id_/http%3A//www.venusianarts.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The Venusian Arts
+# Privacy Policy
 
 PRIVACY POLICY  
 The Venusian Arts is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to The Venusian Arts Web site and governs data collection and usage. By using The Venusian Arts website, you consent to the data practices described in this statement.
