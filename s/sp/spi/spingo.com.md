@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the spingo.com privacy policy that was archived on 2012-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120905233228id_/http%3A//www.spingo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spingo.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516002123id_/http%3A//www.spingo.com/privacy) for the most accurate reproduction.*
 
-# SpinGo Privacy Policy - SpinGo
+# Privacy Policy - SpinGo
 
 SpinGo (SpinGo Solutions, LLC.) respects your right to privacy and understands the importance of protecting it. The privacy policy below details the measures taken by SpinGo to protect your privacy in connection with your use of SpinGo.com. This privacy policy is intended to help you understand how SpinGo collects and uses any personal information you choose to share.
 
