@@ -1,20 +1,13 @@
-> *The following text is extracted and transformed from the indiasite.com privacy policy that was archived on 1999-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19991009224438id_/http%3A//indiasite.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiasite.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515112854id_/http%3A//www.indiasite.com/Content/Privacy-Policy) for the most accurate reproduction.*
 
-# IndiaSite - Privacy Policy
+# Privacy Policy
 
-**IndiaSite Privacy Policy**  
-  
----  
-|     
-| We do not under any circumstances, sell or disclose to any third party information gathered by any script or device.  
-|     
-| The banner management system only records view and click counts apart from a users' browser type and operating system. Absolutely no other information is recorded in the database.  
-|     
-| All e-mail form submissions are logged to a file. This protects against lost e-mails. The file is purged frequently.  
-|     
-| Web Cards are obviously saved to disk. The information that makes up the cards is automatically purged after a card's expiry period.  
-|     
-| Although we take precautions to keep our information private, IndiaSite.com is hosted on a network shared by other websites/users as well. It is therefore not possible to guarantee that other users on the server cannot access the information contained in our directories although we have taken several security precautions to prevent unauthorized access to information files.  
-|     
-| As of this writing, HTTP Cookies are not being used at this site. This is of course subject to change if we start using Cookies in our scripts, and will be reflected in this policy statement.  
-|   
+Privacy is the base of trust between you and Indiasite.com.
+
+Complete confidentiality is maintained with Indiasite.com and it is assured that no information is leaked to. The information is strictly for an excellent collaboration of you and us for better business for today and tomorrow. The information collected from the registration form that is presented to users when they choose to register may include contact information such as the user's name, gender, e-mail address, contact details, postal address, profession and country.
+
+The Site reserves the right to use the user information collected during the registration process or otherwise to use for carrying out its own analysis and research. The Site also reserves the right to provide this information to its business partners / relevant third party for any consideration, including monetary gains. The Site also reserves the right to contact the user based upon the information provided. This contact may be initiated by any of the possible means on the basis of the information provided by the student at registration or through any other mode of contact.
+
+ Any user not agreeable to the aforementioned policy shall not register himself/herself with the site. By registering with the site or by the way of filling up any form requiring user information, the user is deemed to have agreed to this privacy policy of the Site.
+
+ The terms of this privacy policy are subject to change from time to time without any prior notice.
