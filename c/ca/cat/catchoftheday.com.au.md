@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the catchoftheday.com.au privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021181620id_/http%3A//www.catchoftheday.com.au/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catchoftheday.com.au privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517005346id_/http%3A//www.catchoftheday.com.au/privacy) for the most accurate reproduction.*
 
-# CatchOfTheDay - One Deal, Every Day, Midday
-
-## Privacy Policy
+# CatchOfTheDay.com.au
 
 ### 1\. General Statement
 
-**1.1** CatchOfTheDay.com.au Pty Ltd ( **CatchOfTheDay.com.au** ) respects your privacy and is committed to protecting your personal information. Our privacy policy outlines our approach to privacy and how we collect, use and protect your personal information. It also sets out your rights in relation to accessing the personal information we collect and hold about you. We are bound by the National Privacy Principles in the _Privacy Act 1988_ (Cth).
+**1.1** CatchOfTheDay.com.au Pty Ltd ( **CatchOfTheDay.com.au** ) respects your privacy and is committed to protecting your personal information. Our privacy policy outlines our approach to privacy and how we collect, use and protect your personal information. It also sets out your rights in relation to accessing the personal information we collect and hold about you. We are bound by the National Privacy Principles in the _Privacy Act 1988_ (Cth). 
 
 **1.2** Personal information is defined in the _Privacy Act 1988_ (Cth) and means information or an opinion about an individual whose identity is apparent or can be reasonably ascertained from that information or opinion. 
 
-**1.3** Our Website may contain links to third party websites. We are not responsible for the privacy policies of any third party websites. We recommend that you review the privacy policy of each website you visit.
+**1.3** Our Website may contain links to third party websites. We are not responsible for the privacy policies of any third party websites. We recommend that you review the privacy policy of each website you visit. 
 
 ### 2\. Collection of Personal Information
 
@@ -52,7 +50,7 @@
 
 **(e)** web page usage statistics, including the time spent on each web page. 
 
-**2.8** We will not identify users or their browsing activities, except where required by law or in accordance with our [Terms and Conditions of Use and Sale](https://www.catchoftheday.com.au/terms.php). 
+**2.8** We will not identify users or their browsing activities, except where required by law or in accordance with our [Terms and Conditions of Use and Sale](https://web.archive.org/terms). 
 
 ### 3\. Using and Disclosing Your Personal Information
 
@@ -70,7 +68,7 @@
 
 ### 4\. Security of Your Personal Information
 
-We take steps to protect the personal information we hold against loss, unauthorised access, use, modification or disclosure and against other misuse. When no longer required, personal information is destroyed in a secure manner or deleted.
+We take steps to protect the personal information we hold against loss, unauthorised access, use, modification or disclosure and against other misuse. When no longer required, personal information is destroyed in a secure manner or deleted. 
 
 ### 5\. Access to Your Personal Information
 
@@ -80,10 +78,10 @@ We take steps to protect the personal information we hold against loss, unauthor
 You may make a request by sending us an email using our [Help Centre](https://helpcentre.catchoftheday.com.au/) or by writing to us at:   
 Office of the Chief Information Officer  
 CatchOfTheDay.com.au Pty Ltd  
-64-70 Cochranes Road  
-Moorabbin, Victoria 3189  
+767 Springvale Road  
+Mulgrave, Victoria 3170  
 Australia 
 
-**5.3** Additional information regarding privacy may be obtained from the [Office of the Australian Information Commissioner](http://www.oaic.gov.au/).
+**5.3** Additional information regarding privacy may be obtained from the [Office of the Australian Information Commissioner](http://www.oaic.gov.au/). 
 
-Privacy Policy last updated on 1 June 2012.
+Privacy Policy last updated on 1 June 2012. 
