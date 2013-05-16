@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the ravisaive.in privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205075252id_/http%3A//www.ravisaive.in/2011/03/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ravisaive.in privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516041332id_/http%3A//www.ravisaive.in/2011/03/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Ravi Saive: A Technology Blog For Newbies
 
-Posted On: **11.7.11**   Categories: 
+##  Privacy Policy 
+
+Jul 11, 2011 by Ravi Saive 
 
 **Privacy Policy:**
 
@@ -33,3 +35,7 @@ We use third-party advertising companies to serve ads when you visit our website
 Yours Sincerely
 
  Ravi Saive
+
+Tags: 
+  *[
+Jul 11, 2011]: May 27, 2010 at 9:52 am
