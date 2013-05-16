@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the css3menu.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014014531id_/http%3A//www.css3menu.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the css3menu.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516184147id_/http%3A//css3menu.com/privacy.html) for the most accurate reproduction.*
 
 # CSS3Menu -- Privacy Policy
 
@@ -31,5 +31,5 @@ CSS3MENU.COM also collects general demographic information about visitors to our
 ### Contact US
 
 **CSS3 Menu**  
-For troubleshooting, feature requests, and general help, contact Customer Support at . Make sure to include details on your browser, operating system, CSS3 Menu version, link to your page.   
-E-mail: 
+For troubleshooting, feature requests, and general help, contact Customer Support at [](mailto:support@css3menu.com). Make sure to include details on your browser, operating system, CSS3 Menu version, link to your page.   
+E-mail: [](mailto:support@css3menu.com)
