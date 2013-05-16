@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abcactionnews.com privacy policy that was archived on 2012-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121129043113id_/http%3A//www.abcactionnews.com/dpp/about_us/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abcactionnews.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516154106id_/http%3A//www.abcactionnews.com/dpp/about_us/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
