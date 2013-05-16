@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the blendtec.com privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115043804id_/http%3A//www.blendtec.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blendtec.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516212319id_/http%3A//www.blendtec.com/company/privacy-policy) for the most accurate reproduction.*
 
 # The World's Best Blenders, Mixers & Grain Mills | Blendtec.com
-
-## Privacy and Security (Last Updated: 11/1/2011)
 
   
 
@@ -21,55 +19,55 @@
 ### INFORMATION WE COLLECT
 
   * **Personally Identifiable Information**
-      * The term "personally identifiable information" means information that you voluntarily provide to us that personally identifies you; this information may include such items as your name, phone number, physical address and any other data or information that would allow someone to personally identify you.
-      * To make a purchase via our Sites, we require you to supply us with personally identifiable information.
-      * Please note we generally keep a copy of the personally identifiable information for our records. If you would like to review or change your personally identifiable information, you may do so by calling 801-222-0888.
-      * You may also choose not to provide personally identifiable information at the point of collection; however, you will not be able to purchase products.
-      * In some areas of the Sites, you may have the ability to post or publish personally identifiable information. You should take care and avoid posting or publishing personally identifiable information that you do not wish to disclose.
+    * The term "personally identifiable information" means information that you voluntarily provide to us that personally identifies you; this information may include such items as your name, phone number, physical address and any other data or information that would allow someone to personally identify you.
+    * To make a purchase via our Sites, we require you to supply us with personally identifiable information.
+    * Please note we generally keep a copy of the personally identifiable information for our records. If you would like to review or change your personally identifiable information, you may do so by calling 801-222-0888.
+    * You may also choose not to provide personally identifiable information at the point of collection; however, you will not be able to purchase products.
+    * In some areas of the Sites, you may have the ability to post or publish personally identifiable information. You should take care and avoid posting or publishing personally identifiable information that you do not wish to disclose.
 
 
   * **Non-Personally Identifiable Information**
-      * The term "nonpersonally identifiable information" means information that you voluntarily provide to us or that we collect electronically but does not personally identify you.
-      * To make a purchase, we require you to supply us with your email address. Your email address does not personally identify you but is a means for us to contact you. You may later update and modify any inaccuracies by calling 801-222-0888.
-      * Please note we generally keep a copy of your previous email address(es) for our records.
-      * You may also choose not to provide us with your email address; however, you will not be able to purchase products on the Sites without an email address.
-      * Whenever you visit the Sites, nonpersonally identifiable information, such as navigational and clickstream data, is automatically collected.
-      * As you browse, we may install cookies (tiny text files stored on your computer that record your preferences) in your browser. Cookies cannot harm your computer, and they do not contain any personally identifiable information. You must accept cookies to shop through the Sites.
-      * You can erase or block cookies from your computer if you want to (your help screen or manual should tell you how to do this), but the Sites may not work correctly or at all if you set your browser to not accept cookies.
+    * The term "nonpersonally identifiable information" means information that you voluntarily provide to us or that we collect electronically but does not personally identify you.
+    * To make a purchase, we require you to supply us with your email address. Your email address does not personally identify you but is a means for us to contact you. You may later update and modify any inaccuracies by calling 801-222-0888.
+    * Please note we generally keep a copy of your previous email address(es) for our records.
+    * You may also choose not to provide us with your email address; however, you will not be able to purchase products on the Sites without an email address.
+    * Whenever you visit the Sites, nonpersonally identifiable information, such as navigational and clickstream data, is automatically collected.
+    * As you browse, we may install cookies (tiny text files stored on your computer that record your preferences) in your browser. Cookies cannot harm your computer, and they do not contain any personally identifiable information. You must accept cookies to shop through the Sites.
+    * You can erase or block cookies from your computer if you want to (your help screen or manual should tell you how to do this), but the Sites may not work correctly or at all if you set your browser to not accept cookies.
 
 
 
 ### WHY WE COLLECT INFORMATION
 
   * **Personally Identifiable Information**
-      * We collect personally identifiable information in order to supply you with the products or services you request, process payment, communicate with you and comply with any applicable requirements of law.
+    * We collect personally identifiable information in order to supply you with the products or services you request, process payment, communicate with you and comply with any applicable requirements of law.
 
 
   * **Non-Personally Identifiable Information**
-      * We collect nonpersonally identifiable information in order to operate, develop and improve the Sites, their functionality and our products and services.
-      * We collect nonpersonally identifiable information in order to provide you with personalized recommendations for products advertised on or sold through the Sites.
-      * Nonpersonally identifiable information is collected in the aggregate to, among other things, determine the total number of users of the Sites, prepare utilization reports, diagnose and correct compatibility problems or other problems with the Sites and perform statistical analyses to enable us to build a higher-quality, more useful online service.
-      * We also collect nonpersonally identifiable information to perform statistical analyses of user behavior and characteristics in order to measure interest in and use of the various aspects of the Sites. By supplementing our records, this information helps us learn things such as user preferences, popular search categories, click-through rates, the types of offers users like to see and, in general, how to improve the functionality and relevancy of the Sites.
+    * We collect nonpersonally identifiable information in order to operate, develop and improve the Sites, their functionality and our products and services.
+    * We collect nonpersonally identifiable information in order to provide you with personalized recommendations for products advertised on or sold through the Sites.
+    * Nonpersonally identifiable information is collected in the aggregate to, among other things, determine the total number of users of the Sites, prepare utilization reports, diagnose and correct compatibility problems or other problems with the Sites and perform statistical analyses to enable us to build a higher-quality, more useful online service.
+    * We also collect nonpersonally identifiable information to perform statistical analyses of user behavior and characteristics in order to measure interest in and use of the various aspects of the Sites. By supplementing our records, this information helps us learn things such as user preferences, popular search categories, click-through rates, the types of offers users like to see and, in general, how to improve the functionality and relevancy of the Sites.
 
 
 
 ### DISCLOSURE OF INFORMATION
 
   * **Personally Identifiable Information**
-      * We do not sell or rent personally identifiable information to third parties.
-      * We may disclose personally identifiable information to our staff involved in the completion of your transaction, the delivery of your order and the analysis and/or support of your use of the Sites.
-      * We may disclose personally identifiable information to trusted third parties with whom we contract to process your personally identifiable information for us.
-      * We may disclose personally identifiable information if necessary to protect our legal rights, if the information relates to actual or threatened harmful conduct, or we have good faith belief that such action is necessary to (1) conform to the requirements of law or comply with governmental orders, court orders or legal process served on us or (2) to protect and defend our property or other rights, the users of the Sites or the public.
-      * We may disclose personally identifiable information with other companies and organizations for fraud- and credit-risk purposes.
-      * We will use commercially reasonable efforts to make you aware of the disclosure of your personally identifiable information contrary to the terms set forth in this Privacy and Security Policy; for example, if we discover a security breach, you will be contacted.
+    * We do not sell or rent personally identifiable information to third parties.
+    * We may disclose personally identifiable information to our staff involved in the completion of your transaction, the delivery of your order and the analysis and/or support of your use of the Sites.
+    * We may disclose personally identifiable information to trusted third parties with whom we contract to process your personally identifiable information for us.
+    * We may disclose personally identifiable information if necessary to protect our legal rights, if the information relates to actual or threatened harmful conduct, or we have good faith belief that such action is necessary to (1) conform to the requirements of law or comply with governmental orders, court orders or legal process served on us or (2) to protect and defend our property or other rights, the users of the Sites or the public.
+    * We may disclose personally identifiable information with other companies and organizations for fraud- and credit-risk purposes.
+    * We will use commercially reasonable efforts to make you aware of the disclosure of your personally identifiable information contrary to the terms set forth in this Privacy and Security Policy; for example, if we discover a security breach, you will be contacted.
 
 
   * **Nonpersonally Identifiable Information**
-      * We do not sell or rent nonpersonally identifiable information to third parties.
-      * We may disclose nonpersonally identifiable information to our staff involved in the completion of your transaction, the delivery of your order and/or the analysis and support of your use of the Sites.
-      * We may disclose nonpersonally identifiable information to trusted third parties whom we have engaged to process nonpersonally identifiable information for us.
-      * We may disclose nonpersonally identifiable information, if necessary, to protect our legal rights, if the information relates to actual or threatened harmful conduct, or we have good faith belief that such action is necessary to (1) conform to the requirements of law or comply with governmental orders, court orders or legal process served on us or (2) to protect and defend our property or other rights, the users of the Sites, or the public.
-      * We may disclose nonpersonally identifiable information to third parties in order to provide you with personalized recommendations for products advertised on or sold through the Sites.
+    * We do not sell or rent nonpersonally identifiable information to third parties.
+    * We may disclose nonpersonally identifiable information to our staff involved in the completion of your transaction, the delivery of your order and/or the analysis and support of your use of the Sites.
+    * We may disclose nonpersonally identifiable information to trusted third parties whom we have engaged to process nonpersonally identifiable information for us.
+    * We may disclose nonpersonally identifiable information, if necessary, to protect our legal rights, if the information relates to actual or threatened harmful conduct, or we have good faith belief that such action is necessary to (1) conform to the requirements of law or comply with governmental orders, court orders or legal process served on us or (2) to protect and defend our property or other rights, the users of the Sites, or the public.
+    * We may disclose nonpersonally identifiable information to third parties in order to provide you with personalized recommendations for products advertised on or sold through the Sites.
 
 
 
@@ -132,3 +130,5 @@
 
 
 [](http://blendtec.us2.list-manage.com/subscribe?u=20574f0f66c91750fc6b6bd07&id=8c09bd62ec "Get Blendtec coupon codes, recipes, and more. Click to choose the Blendtec newsletter that works for you.")
+
+  © 2010 by Blendtec, a division of K-TEC, Inc.
