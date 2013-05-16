@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the watchindiandramas.com privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115235902id_/http%3A//watchindiandramas.com/sample-page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watchindiandramas.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516202320id_/http%3A//watchindiandramas.com/sample-page) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -41,7 +41,7 @@ Google Adsense
 
 #### About the Author
 
-has written 1439 stories on this site.
+has written 3583 stories on this site.
 
 it is zeshan and he is the software worker and working on this site which is Honorable thing for him....
 
