@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the walottery.com privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115112825id_/http%3A//www.walottery.com/Privacy/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the walottery.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516233654id_/http%3A//walottery.com/Privacy/default.aspx) for the most accurate reproduction.*
 
 # Washington's Lottery -- Privacy
 
@@ -64,9 +64,11 @@ Washington's Lottery may request you to provide certain personal information in 
 
 ## Review and Correction of Personally Identifiable Information
 
-You can review any personally identifiable information we collect about you by using the information in the Contact Us section in this web site. You may recommend changes to your personally identifiable information you believe to be inaccurate by submitting an email with a daytime telephone number where you can be contacted requesting that Washington's Lottery correct the inaccuracy. We will take reasonable steps to verify your identity before granting access or making corrections. [RCW 43.105.310](http://search.leg.wa.gov/wslrcw/RCW%20%2043%20%20TITLE/RCW%20%2043%20.105%20%20CHAPTER/RCW%20%2043%20.105%20.310.htm)
+You can review any personally identifiable information we collect about you by using the information in the Contact Us section in this web site. You may recommend changes to your personally identifiable information you believe to be inaccurate by submitting an email with a daytime telephone number where you can be contacted requesting that Washington's Lottery correct the inaccuracy. We will take reasonable steps to verify your identity before granting access or making corrections. [RCW 43.41A.140](http://apps.leg.wa.gov/rcw/default.aspx?cite=43.41A.140)
 
-## Additional Terms & Conditions Relative to Washington’s Lottery Players’ Club Membership Requirements
+## Additional Terms & Conditions Relative to Washington’s Lottery Players’ Club
+
+## Membership Requirements
 
 Players’ Club is a voluntary, Web-based feature designed for players. Membership is strictly voluntary and in no way affects consumers' ability to interact with the Lottery, such as purchasing tickets or winning a Lottery game. Membership is dependent upon being a Washington resident age 18 or older with a valid e-mail address and Internet connection. If a member's e-mail address changes, the change should be made to their Players’ Club profile in order to retain their membership.
 
@@ -90,9 +92,14 @@ Cole & Weber, as developer of the Washington's Lottery website, and Washington's
 
 ## Disclaimer
 
-The Washington's Lottery website has many links to other web sites. These include links to websites operated by other government agencies. When you link to another site, you are no longer on the Washington's Lottery website and this Privacy Notice will not apply. When you link to another website, you are subject to the privacy policy of that new site. 
+The Lottery links only to those websites related to its mission and purpose. The Lottery does not link to any website that exhibits hate, bias, discrimination, specific religious views, political positions or candidate support, or social agendas. The Lottery reserves the right to deny or remove any link that contains misleading information or is determined to be in conflict with the Lottery’s mission or policies. The information posted on Washington's Lottery (Lottery) digital properties and may include hypertext links or pointers to information created and maintained by other public and/or private organizations. The Lottery provides these links and pointers solely for our visitors' information and convenience. When visitors select a link to an external digital site, they are leaving the Lottery site and are subject to the privacy and security policies of the owners or sponsors of the external digital site.
 
-Neither the State of Washington nor any agency, officer, or employee of the State of Washington warrants the accuracy, reliability, or timeliness of any information published by this system, nor endorses any content, viewpoints, products, or services linked from this system, and shall not be held liable for any losses caused by reliance on the accuracy, reliability, or timeliness of such information. Portions of such information may be incorrect or not current. Any person or entity that relies on any information obtained from this system does so at their own risk. 
+  * The Lottery does not control or guarantee the accuracy, relevance, timeliness or completeness of information contained on a linked website.
+  * The Lottery does not endorse the organizations sponsoring linked websites and does not endorse the view expressed or products offered therein.
+
+
+
+Neither the State of Washington nor any agency, officer, or employee of the State of Washington warrants the accuracy, reliability, or timeliness of any information published by this system, nor endorses any content, viewpoints, products, or services linked from this system, and shall not be held liable for any losses caused by reliance on the accuracy, reliability, or timeliness of such information. Portions of such information may be incorrect or not current. Any person or entity that relies on any information obtained from this system does so at their own risk.
 
 The Washington’s Lottery makes every effort possible to make sure that winning numbers information posted on its website is accurate and available within 24 hours from when winning numbers are drawn. However, in the event of an error the winning numbers and prize amount information in the official records of the Washington’s Lottery will stand as the final determination
 
