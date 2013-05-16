@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shiekhshoes.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225073511id_/http%3A//shiekhshoes.com/t-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shiekhshoes.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516085101id_/http%3A//shiekhshoes.com/t-privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy
+# Shop shoes securely online at Shiekh Shoes
 
 Privacy Policy
 
@@ -51,7 +51,7 @@ FetchBack Opt Out Page:
 If you feel that we are not abiding by our posted privacy policy, you should first contact:
 
 Shiekhshoes.com Customer Service  
-4083 East Airport Drive  
+1777 S. Vintage Avenue  
 Ontario, CA 91761 
 
   
