@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rednoseday.com privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127175512id_/http%3A//www.rednoseday.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rednoseday.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516031739id_/http%3A//www.rednoseday.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Red Nose Day 2013
 
@@ -96,6 +96,22 @@ If you specifically choose either the desktop or mobile version of the site, thi
 comicSurveyCookie
 
 If you complete a survey on this site, this cookie determines whether you see the survey or have already completed or closed the form.
+
+has_js
+
+This is set by our content management system (CMS) on a session basis. It is 1 or 0 depending on whether you have JavaScript enabled
+
+cr_cookie_banner
+
+This is only ever true and is used to remember whether the user has closed the cookie banner notice already so it doesn't pop up again.
+
+respimg
+
+This is used for mobile devices, it stores a number which represents a width in pixels. Anything below that number is considered to be a mobile device.
+
+respimg_ratio
+
+This is used when resizing the image whether to keep its ratio or not. It is set to 1 on this site.
 
 Third party cookies
 
