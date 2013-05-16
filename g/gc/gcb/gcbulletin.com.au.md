@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gcbulletin.com.au privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231013112id_/http%3A//www.goldcoast.com.au/gold-coast-bulletin/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gcbulletin.com.au privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516220608id_/http%3A//www.goldcoast.com.au/gold-coast-bulletin/privacy-policy.html) for the most accurate reproduction.*
 
 # The Gold Coast Bulletin :: Privacy Policy | goldcoast.com.au | Gold Coast, Queensland, Australia
 
@@ -72,9 +72,9 @@ Whenever you voluntarily disclose personal information over the Internet that th
 
 Please contact our Privacy Officer to ask for access to your information or if you have a complaint concerning your information privacy or if you would like more information about our approach to privacy. 
 
-**Privacy Officer: Ali Daly**  
-**Email:[privacy.officer@gcb.newsltd.com.au](mailto:privacy.officer@gcb.newsltd.com.au)** **  
-Telephone: 07 5584 2000  
-Mail: Privacy Officer, P.O. Box 1, Southport, Qld 4215**
+**Privacy Officer: Anita Broad**  
+**Email: anita.broad@news.com.au**  
+**Telephone: 07 3666 6304  
+Mail: The Privacy Officer, News Queensland, GPO Box 130, BRISBANE QLD 4001**
 
 **Last updated: 10 April 2012**
