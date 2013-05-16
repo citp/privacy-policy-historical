@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the knowurcollege.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116072221id_/http%3A//www.knowurcollege.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knowurcollege.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517015110id_/http%3A//www.knowurcollege.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for www.knowurcollege.com | KnowurCollege.com
 
@@ -61,5 +61,3 @@ If you wish to disable cookies, you may do so through your individual browser op
   * we are not providing any services.
 
 
-
-Rating: 5.0/ **10** (1 vote cast)
