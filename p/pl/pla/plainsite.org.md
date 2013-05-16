@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plainsite.org privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110154033id_/http%3A//www.plainsite.org/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plainsite.org privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517001133id_/http%3A//www.plainsite.org/legal/privacy.html) for the most accurate reproduction.*
 
 # PlainSite :: Privacy Policy
 
@@ -57,7 +57,7 @@ By using our site, you consent to this privacy policy.
 
 **Data Removal**
 
-For information on removing data from PlainSite, see our [Public Information Policy](https://web.archive.org/web/20121110154033id_/http%3A//www.plainsite.org/contact/information.html).
+For information on removing data from PlainSite, see our [Public Information Policy](https://web.archive.org/web/20130517001133id_/http%3A//www.plainsite.org/contact/information.html).
 
 **Changes to our Privacy Policy**
 
@@ -67,4 +67,4 @@ This policy was last modified on January 27, 2012.
 
 **Contacting Us**
 
-If there are any questions regarding this privacy policy you may [contact us](https://web.archive.org/web/20121110154033id_/http%3A//www.plainsite.org/contact/index.html).
+If there are any questions regarding this privacy policy you may [contact us](https://web.archive.org/web/20130517001133id_/http%3A//www.plainsite.org/contact/index.html).
