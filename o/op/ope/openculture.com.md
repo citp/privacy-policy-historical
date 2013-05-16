@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the openculture.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014083141id_/http%3A//www.openculture.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openculture.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516144652id_/http%3A//www.openculture.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Open Culture
 
@@ -66,7 +66,7 @@ Third-party advertising networks and advertisers may also use non-personally ide
 
 **A. Personally Identifiable Information**
 
-Open Culture will not rent or sell your personally identifiable information to others.  Open Culture only shares personally identifiable information with other companies or individuals outside of the Open Culture Services as follows: (1) if Open Culture has your consent to the sharing of personally identifiable information; (2) to provide Open Culture’s services to you; (3) to respond to subpoenas, court orders or legal process, to assist government enforcement agencies, to establish or exercise our legal rights, or to defend against legal claims; (4) if we believe it is necessary in order to investigate, prevent, or take action regarding third-party claims or allegations, illegal activities, suspected fraud, situations involving potential threats to the safety or property of another person, violation of our [Terms and Conditions of Service;](https://web.archive.org/web/20121014083141id_/http%3A//www.openculture.com/terms_of_use_agreement) or (7) as otherwise required by law.  Open Culture may also store personally identifiable information and user content in locations outside the direct control of Open Culture (for instance, on servers or databases co-located with hosting providers).
+Open Culture will not rent or sell your personally identifiable information to others.  Open Culture only shares personally identifiable information with other companies or individuals outside of the Open Culture Services as follows: (1) if Open Culture has your consent to the sharing of personally identifiable information; (2) to provide Open Culture’s services to you; (3) to respond to subpoenas, court orders or legal process, to assist government enforcement agencies, to establish or exercise our legal rights, or to defend against legal claims; (4) if we believe it is necessary in order to investigate, prevent, or take action regarding third-party claims or allegations, illegal activities, suspected fraud, situations involving potential threats to the safety or property of another person, violation of our [Terms and Conditions of Service;](http://www.openculture.com/terms_of_use_agreement) or (7) as otherwise required by law.  Open Culture may also store personally identifiable information and user content in locations outside the direct control of Open Culture (for instance, on servers or databases co-located with hosting providers).
 
 Any personal information or content that you voluntarily disclose for posting to the Open Culture Services, such as messages, comments or other user content, becomes available to the public.
 
@@ -82,7 +82,7 @@ In the event that Open Culture sells, transfers or otherwise relinquishes all or
 
 **4\. Content Removal**
 
-Open Culture reserves the right, but has no obligation, to monitor the user content you post on any of the Open Culture Services.  We reserve the right to remove any such information or material for any reason or no reason, including without limitation if in our sole opinion such information or material violates, or may violate, any law or our [Terms and Conditions of Service](https://web.archive.org/web/20121014083141id_/http%3A//www.openculture.com/terms_of_use_agreement), or to protect or defend our rights or property or those of any third party.  Open Culture also reserves the right to remove information upon the request of any third party.
+Open Culture reserves the right, but has no obligation, to monitor the user content you post on any of the Open Culture Services.  We reserve the right to remove any such information or material for any reason or no reason, including without limitation if in our sole opinion such information or material violates, or may violate, any law or our [Terms and Conditions of Service](http://www.openculture.com/terms_of_use_agreement), or to protect or defend our rights or property or those of any third party.  Open Culture also reserves the right to remove information upon the request of any third party.
 
 **5\. Data Retention**
 
