@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the fujifilmusa.com privacy policy that was archived on 2012-11-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121113210139id_/http%3A//www.fujifilmusa.com/privacy/index.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fujifilmusa.com privacy policy that was archived on 2013-05-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130517002505id_/http%3A//www.fujifilmusa.com/privacy/index.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7; IE=EmulateIE10">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta http-equiv="Content-Script-Type" content="text/javascript">
 <meta http-equiv="Content-Style-Type" content="text/css">
@@ -40,7 +40,10 @@
     @import url("/css/custom/domain.css");
     </style>
     <!--[if lte IE 6.0]><link type="text/css" rel="stylesheet" href="/css/shared/common_ie6.css" media="screen,print" /><![endif]-->
-    <!--[if gte IE 7.0]><link type="text/css" rel="stylesheet" href="/css/shared/common.css" media="screen,print" /><![endif]-->
+        <!--[if gte IE 7.0]>
+        <link type="text/css" rel="stylesheet" href="/css/shared/common.css" media="screen,print" />
+        <link type="text/css" rel="stylesheet" href="/css/custom/domain_ie.css" media="screen,print" />
+    <![endif]-->
 
 
 
@@ -168,7 +171,7 @@ function clearSearchBox(textBox)
             
             <!-- search box and button -->
             
-            <form id="siteSearch" action="/search/site_search/query.do;jsessionid=C68859B687D3A62D58220D34E659C727" method="post">
+            <form id="siteSearch" action="/search/site_search/query.do" method="post">
             <fieldset>
                 <legend>Contents Search</legend>
                 <label id="labelForSearchKeyword" for="searchKeyword">
@@ -216,7 +219,6 @@ function clearSearchBox(textBox)
 											<li><a href="/products/digital_cameras/index.html">Digital Cameras</a></li>
 											<li><a href="/products/film_photography/index.html">Film Photography</a></li>
 											<li><a href="/products/professional_photography/film_cameras/index.html">Instax Instant Cameras</a></li>
-											<li><a href="http://www.seehere.com" target="_blank" onclick="trackOutboundLink('http://www.seehere.com', 'Online Printing and Photo Sharing')">Online Printing and Photo Sharing</a></li>
 											<li><a href="/products/binoculars/index.html">Binoculars</a></li>
 											<li><a href="/products/promotions/index.html">Promotions</a></li>
 										</ul>
@@ -236,7 +238,7 @@ function clearSearchBox(textBox)
 											<li><a href="http://www.fujifilm.com/products/motion_picture/" target="_blank" onclick="trackOutboundLink('http://www.fujifilm.com/products/motion_picture/', 'Motion Picture Film')">Motion Picture Film</a></li>
 											<li><a href="/products/optical_devices/index.html">Optical Devices</a></li>
 											<li><a href="/products/photofinishing/index.html">Photofinishing Products</a></li>
-											<li><a href="http://www.fujifilmic.com/" target="_blank" onclick="trackOutboundLink('http://www.fujifilmic.com/', 'Printing Imaging Colorants')">Printing Imaging Colorants</a></li>
+											<li><a href="/products/imaging_colorants/index.html">Printing Imaging Colorants</a></li>
 											<li><a href="/products/professional_photography/index.html">Professional Photography</a></li>
 											<li><a href="/products/pro_av/index.html">Professional Video</a></li>
 											<li><a href="/products/specialty_chemicals/index.html">Specialty Chemicals</a></li>
@@ -346,7 +348,8 @@ function clearSearchBox(textBox)
 								<li><a href="/about/Technology/index.html">Technology</a></li>
 								<li><a href="/about/sustainability/index.html">Sustainability</a></li>
 								<li><a href="http://www.fujifilmholdings.com/en/investors/index.html?link=globalaboutff" target="_blank" onclick="trackOutboundLink('http://www.fujifilmholdings.com/en/investors/index.html?link=globalaboutff', 'Investor Relations')">Investor Relations</a></li>
-								<li><a href="/about/careers/index.html">Careers</a></li>
+								<li><a href="/about/careers/page_02.html">Careers</a></li>
+								<li><a href="/about/sustainability/national_commitment/msds/index.html">MSDS</a></li>
 								</ul>
 							</div>
 						</div>
@@ -383,9 +386,9 @@ function clearSearchBox(textBox)
 										<ul>
 									<li class="first-child"><span class="categoryTitle">News Archive</span>
 										<ul>
+											<li><a href="/press/news/search/search_results?pageNb=0&amp;mode=_submitSearchForm&amp;year=2013">2013 News</a></li>
 											<li><a href="/press/news/search/search_results?pageNb=0&amp;mode=_submitSearchForm&amp;year=2012">2012 News</a></li>
 											<li><a href="/press/news/search/search_results?pageNb=0&amp;mode=_submitSearchForm&amp;year=2011">2011 News</a></li>
-											<li><a href="/press/news/search/search_results?pageNb=0&amp;mode=_submitSearchForm&amp;year=2010">2010 News</a></li>
 										</ul>
 									</li>
 									<li class="last-child"><span class="categoryTitle">News Topics</span>
@@ -604,7 +607,14 @@ data_ga_social: true
 <!--/shareTool--></div>
 
 <div class="newsFeeds">
-<h2 class="newsFeedsTitle"><a href="/rss/newsfeed.xml">News Feeds</a></h2>
+<h2 class="newsFeedsTitle">
+    <a href="/rss/newsfeed.xml">News Feeds</a>
+</h2>
+<ul>
+    <li class="facebook"><a href="http://www.facebook.com/FujifilmNorthAmerica" target="_blank">Facebook</a></li>
+    <li class="twitter"><a href="https://twitter.com/FujifilmUS" target="_blank">Twitter</a></li>
+</ul>
+
 <!--/newsFeeds--></div>
 
 <!--/tools--></div>
@@ -625,9 +635,6 @@ data_ga_social: true
 						</li>
 						<li>
 							<a href="/products/professional_photography/film_cameras/index.html">Instax Instant Cameras</a>
-						</li>
-						<li>
-							<a href="http://www.seehere.com">Online Printing and Photo Sharing</a>
 						</li>
 						<li>
 							<a href="/products/binoculars/index.html">Binoculars</a>
@@ -671,7 +678,7 @@ data_ga_social: true
 							<a href="/products/photofinishing/index.html">Photofinishing Products</a>
 						</li>
 						<li>
-							<a href="http://www.fujifilmic.com/">Printing Imaging Colorants</a>
+							<a href="/products/imaging_colorants/index.html">Printing Imaging Colorants</a>
 						</li>
 						<li>
 							<a href="/products/professional_photography/index.html">Professional Photography</a>
@@ -705,7 +712,10 @@ data_ga_social: true
 						<a href="http://www.fujifilmholdings.com/en/investors/index.html?link=globalaboutff">Investor Relations</a>
 				</li>
 				<li>
-						<a href="/about/careers/index.html">Careers</a>
+						<a href="/about/careers/page_02.html">Careers</a>
+				</li>
+				<li>
+						<a href="/about/sustainability/national_commitment/msds/index.html">MSDS</a>
 				</li>
 			</ul>
 		<!--/categoryLevel1--></li>
@@ -814,7 +824,7 @@ data_ga_social: true
 <!--/footerBody--></div>
 
 <address>
-	<span class="copyright">© 2012 FUJIFILM Holdings America Corporation</span>
+	<span class="copyright">© 2013 FUJIFILM Holdings America Corporation</span>
 <!--/address--></address>
 <!--/footer--></div>
 
@@ -830,12 +840,6 @@ data_ga_social: true
 
 
 
-<script type="text/javascript">
-if ((getMetaTagContents('pi_url') != "") && (getMetaTagContents('pi_image') != ""))
-{
-    document.write('<script type="text/javascript" src="//assets.pinterest.com/js/pinit.js"><\/script>');
-}
-</script>
 
 
 </body></html>
