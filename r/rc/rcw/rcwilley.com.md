@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rcwilley.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015081658id_/http%3A//www.rcwilley.com/Privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rcwilley.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516232313id_/http%3A//www.rcwilley.com/Privacy.jsp) for the most accurate reproduction.*
 
-# RC Willey - Privacy Policy
+# Privacy Policy - RC Willey
 
 We may collect **personally identifiable information** (ex: your full name, email address, mailing address, telephone number, or credit card number) from you when you voluntarily provide us this information. This information allows us to process and fulfill your order, notify you of your order status, and to provide you with services that will make your transactions with us easier in the future. We may also collect personally identifiable information from you if you choose to subscribe to our Online Shoppers Club, or participate in contests, and surveys, or in connection with content or reviews you post on our web site.
 
