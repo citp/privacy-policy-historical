@@ -1,14 +1,18 @@
-> *The following text is extracted and transformed from the 599fashion.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920042035id_/http%3A//www.599fashion.com/Privacy-Policy_ep_38-1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 599fashion.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516052019id_/http%3A//www.599fashion.com/Privacy-Policy_ep_38-1.html) for the most accurate reproduction.*
 
 # Our Privacy Policy | Clothing Outlet Stores | Discount Clothing Online | 599fashion.com
 
+> **Reduce:**
+> 
+> We understand that there can be concerns about ordering items online. As a leader amongst fashion outlet stores we are proud to share our privacy policy with our customers. It’s important for all retailers, not just online clothing outlet stores, to adhere to and respect the policies set in place to protect our customers’ privacy. Please read below in order to gain further understanding on our policies.
+> 
 > **Our Commitment to Privacy**
 > 
-> Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
+> Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 > 
 > **The Information We Collect**
 > 
-> This notice applies to all information collected or submitted on the 599fashion.com website (hereby known as "Site"). On some pages you can order products, make requests, and register to receive materials. The types of personal information collected at these pages may include but are not limited to: Name, Address, Business Name, Business Address, Email Address, Phone/Fax No, Credit/Debit Card Information, Tax ID No/Sellers Permit No. 
+> This notice applies to all information collected or submitted on the 599fashion.com website (hereby known as "Site"). On some pages you can order products, make requests, and register to receive materials. The types of personal information collected at these pages may include but are not limited to Name, Address, Business Name, Business Address, Email Address, Phone/Fax No, Credit/Debit Card Information, Tax ID No/Sellers Permit No. 
 > 
 > **The Way We Use Information**
 > 
@@ -28,13 +32,13 @@
 > 
 > Some of our business partners may use cookies on our Site (for example, advertisers). However, we have no access to or control over these cookies. 
 > 
-> We use IP addresses to analyze trends, administer the Site, track user's movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information. We may share aggregated demographic information with our partners and advertisers. This is not linked to any personal information that can identify any individual person. 
+> We use IP addresses to analyze trends, administer the Site, track users’ movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information. We may share aggregated demographic information with our partners and advertisers. This is not linked to any personal information that can identify any individual person. 
 > 
 > **Sharing and Links**
 > 
 > We may partner with other parties to provide specific services. When the user signs up for these services, we will share names, or other contact information that is necessary for the third party to provide these services. These parties are not allowed to use personally identifiable information except for the purpose of providing these services. 
 > 
-> This Site may contain links to other sites. Please be aware that 599fashion.com. is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our Site, to read the privacy statements of each and every Site that collects personally identifiable information. This privacy statement applies solely to information collected by this Site. 
+> This Site may contain links to other sites. Please be aware that 599fashion.com is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our Site, to read the privacy statements of each and every Site that collects personally identifiable information. This privacy statement applies solely to information collected by this Site. 
 > 
 > **Subscriptions, Surveys, Contests, Promotions**
 > 
