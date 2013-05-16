@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the muthofon.com privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214000137id_/http%3A//www.muthofon.com/page/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the muthofon.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516094544id_/http%3A//www.muthofon.com/page/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -23,5 +23,3 @@ If you prefer not to receive cookies while browsing our website, you can set you
   
 If you have any question or concerns regarding our collection, use or disclosure of your personal information, we will appreciate your e-mail. Please email us at : **info@muthofon.com**  
 
-
-Advertisement 
