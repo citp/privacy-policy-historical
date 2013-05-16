@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolminiornot.com privacy policy that was archived on 2012-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121128173630id_/http%3A//www.coolminiornot.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolminiornot.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516065745id_/http%3A//www.coolminiornot.com/privacy) for the most accurate reproduction.*
 
 # CoolMiniOrNot - The Internet's largest gallery of Painted Miniatures and Miniature Painting art - Privacy Static
 
