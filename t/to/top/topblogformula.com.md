@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topblogformula.com privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018212330id_/http%3A//www.topblogformula.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topblogformula.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516090105id_/http%3A//www.topblogformula.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Top Blog Formula
 
@@ -12,7 +12,8 @@ The type of information we will collect about you includes:
 
 
 
-Your information is maintained by SZ Creative Solutions, LLC.
+Your information is maintained by SZ Creative Solutions, LLC.   
+767 Willamette St Ste 203 Eugene OR, 97405
 
 We will do the best to keep your information we hold accurate and up to date. You can check the information that we hold about you by emailing us. If you find any inaccuracies we will make a correction promptly.
 
