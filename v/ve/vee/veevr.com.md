@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the veevr.com privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125012901id_/http%3A//veevr.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the veevr.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516061322id_/http%3A//veevr.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy on Veevr
 
