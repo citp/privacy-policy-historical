@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kygunco.com privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104123400id_/http%3A//www.kygunco.com/info/index.cfm%3Finfo%3Dprivacy-statment) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kygunco.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516045940id_/http%3A//www.kygunco.com/info/index.cfm%3Finfo%3Dprivacy-statment) for the most accurate reproduction.*
 
 # The Kentucky Gun Co.
 
