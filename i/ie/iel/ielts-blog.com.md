@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ielts-blog.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116014641id_/http%3A//www.ielts-blog.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ielts-blog.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516202257id_/http%3A//www.ielts-blog.com/privacy) for the most accurate reproduction.*
 
 # Privacy | IELTS-Blog
 
@@ -34,6 +34,10 @@ You can register with our website if you would like to receive our catalog as we
 We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals.
 
 Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
+
+Any writing tasks submitted to our writing correction service and any speaking recordings submitted to our speaking evaluation team may be edited and published on our website, without identification of the author. The copyright to these items is transferred to IELTS-Blog.com as soon as they are received by us.
+
+Any emails or messages received by IELTS-Blog.com team can be published on our site with the writer’s consent.
 
 Our Commitment To Data Security
 
