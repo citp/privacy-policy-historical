@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the qualys.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102005521id_/http%3A//www.qualys.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qualys.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516124231id_/http%3A//www.qualys.com/company/privacy) for the most accurate reproduction.*
 
 # Privacy Highlights | Qualys, Inc.
 
-Version 2.1 – Effective June 8, 2012
+Version 2.2 – Effective March 20, 2013
+
+[](https://privacy.truste.com/privacy-seal/Qualys,-Inc-/validation?rid=db66dd79-5d1d-4338-9c5e-daf97465efe6 "Validate TRUSTe privacy certification")
 
 This Privacy Statement Highlights provides a high-level summary of Qualys' entire [Privacy Statement](https://web.archive.org/company/privacy/statement/). Qualys provides these highlights as a convenience to you but should not be considered the fully Privacy Statement of Qualys.
 
@@ -71,7 +73,7 @@ If you would like to change your preferences online, please visit [http://www.qu
 
 #### Our Security Procedures
 
-We consider the protection of all personal information we receive from our Web site visitors and customers as critical. Please be assured that we have security measures in place to protect against the loss, misuse, and alteration of any personal information we receive from you. As with any transmission over the Internet, however, there is always some element of risk involved in sending personal information. In order to try to minimize this risk, we encrypt all information that you submit in ordering our services using the Secure Sockets Layer (SSL) protocol. Our security procedures are also subject to at least an annual SAS-70 Type II audit by an internationally-recognized accounting firm.
+We consider the protection of all personal information we receive from our Web site visitors and customers as critical. Please be assured that we have security measures in place to protect against the loss, misuse, and alteration of any personal information we receive from you. As with any transmission over the Internet, however, there is always some element of risk involved in sending personal information. In order to try to minimize this risk, we encrypt all information that you submit in ordering our services using the Secure Sockets Layer (SSL) protocol. Our security procedures are also subject to at least an annual SSAE 16 or industry standard alternative audit by an internationally-recognized accounting firm.
 
   
 
