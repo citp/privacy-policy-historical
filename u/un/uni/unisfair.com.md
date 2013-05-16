@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the unisfair.com privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119212750id_/http%3A//www.intercall.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unisfair.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516183557id_/http%3A//www.intercall.com/privacy.php) for the most accurate reproduction.*
 
 # InterCall Privacy Policy | Conference Call Company
 
-InterCall, Inc. is a leading provider of conferencing and collaboration services. We value the privacy of our customers, users, and any individual that accesses or uses the InterCall websites, products, and services (collectively, the "Services"). This Policy discloses InterCall's practices with respect to the collection, processing, use and disclosure of user information collected through the access and use of InterCall Services. This Privacy Policy applies to all Personal Information collected and processed by InterCall whether in electronic, paper or verbal format. The virtual event Service allows certain third party organizers and contributors to host virtual events (each, a "Sponsor"). InterCall collects the information described below on behalf of such Sponsors. You should consult the privacy policies of each relevant Sponsor to determine how they may handle your information. 
+  InterCall, Inc. is a leading provider of conferencing and collaboration services. We value the privacy of our customers, users, and any individual that accesses or uses the InterCall websites, products, and services (collectively, the "Services"). This Policy discloses InterCall's practices with respect to the collection, processing, use and disclosure of user information collected through the access and use of InterCall Services. This Privacy Policy applies to all Personal Information collected and processed by InterCall whether in electronic, paper or verbal format. The virtual event Service allows certain third party organizers and contributors to host virtual events (each, a "Sponsor"). InterCall collects the information described below on behalf of such Sponsors. You should consult the privacy policies of each relevant Sponsor to determine how they may handle your information. 
 
 ## Definitions
 
@@ -14,7 +14,7 @@ InterCall, Inc. is a leading provider of conferencing and collaboration services
 
 In connection with the access and use of InterCall Services, we may ask you to provide us with Personal Information when, among other things, you register on the InterCall website, use one of our Services, fill out a survey, make a request for information, or enter a sweepstakes or contest through the InterCall website. We may also capture your telephone number when you use our conferencing Services. Please be aware that any information you choose to share on any publicly available portion of the Services or with third parties, including without limitation your personal page, chat messages, forum posts, blogs, resumes, job applications, business cards, or any other information that you provide to Sponsors or other attendees, may be collected and used by others without restriction. We will use the Personal Information you provide us in these circumstances to operate the InterCall website, to the extent required for the delivery of the InterCall Services, to satisfy InterCall's legitimate business interests (such as customer analysis and internal marketing study and analysis), and to provide information you request from the InterCall website ("Primary Use"). 
 
-Important Notes Regarding Virtual Events: For virtual events, depending upon the type of event, some of the following fields may be displayed throughout the event: first and last name, company, User ID, and User avatar/image. The Sponsor may enable attendees to search for and find other attendees based on a User's registration information. If you associate your actual name or other personally identifiable information with your User ID, the people to whom you have revealed such information will be able to personally identify your activities on the event. In addition, any information you choose to share on any publicly available portion of a virtual event may be collected and used by others without restriction. résumés that you have posted to or within a virtual event may be available to all Sponsors of any booth, even if you have not filed a job application with such Sponsor. You should consult the respective privacy policies of these Sponsors to determine how they will handle your information. InterCall's Privacy Policy does not apply to such Sponsors or their use of your information. InterCall does not control Sponsors' use of your information. If you would prefer that InterCall not disclose your personal information to any such Sponsor, please contact us at [privacy@intercall.com](mailto:privacy@intercall.com). Please be reminded, however, that any information you publicly display or share or that is accessible through the event may already be in such Sponsor's possession, despite such opt-out choice.
+Important Notes Regarding Virtual Events: For virtual events, depending upon the type of event, some of the following fields may be displayed throughout the event: first and last name, company, User ID, and User avatar/image. The Sponsor may enable attendees to search for and find other attendees based on a User's registration information. If you associate your actual name or other personally identifiable information with your User ID, the people to whom you have revealed such information will be able to personally identify your activities on the event. In addition, any information you choose to share on any publicly available portion of a virtual event may be collected and used by others without restriction. résumés that you have posted to or within a virtual event may be available to all Sponsors of any booth, even if you have not filed a job application with such Sponsor. You should consult the respective privacy policies of these Sponsors to determine how they will handle your information. InterCall's Privacy Policy does not apply to such Sponsors or their use of your information. InterCall does not control Sponsors' use of your information. If you would prefer that InterCall not disclose your personal information to any such Sponsor, please [contact our privacy team](http://www.intercall.com/l/privacy/index.php). Please be reminded, however, that any information you publicly display or share or that is accessible through the event may already be in such Sponsor's possession, despite such opt-out choice.
 
 Unless you instruct us not to do so, InterCall may also use the Personal Information you provide us to contact you regarding additional or new services and features offered by InterCall, special offers by InterCall, or important information regarding InterCall ("InterCall Secondary Use"). In addition, with your permission, we may provide your Personal Information to other companies who may contact you regarding products, services, and offers that may be of interest to you, but that are not directly related to InterCall or the InterCall website ("Third Party Secondary Use").
 
@@ -52,7 +52,7 @@ InterCall shall only process Personal Information in a way that is compatible wi
 
 InterCall uses a self-assessment approach to assure compliance with this Privacy Policy and periodically verifies the policy is accurate, comprehensive for the information intended to be covered, prominently displayed, completely implemented and accessible and in conformity with the Principles. 
 
-If at any time you believe we have acted contrary to this Privacy Policy, please notify us by e-mail at [privacy@intercall.com](mailto:privacy@intercall.com) and we will take steps to investigate and will use reasonable measures to remedy the problem. If a complaint or dispute cannot be resolved through our internal process, we agree to dispute resolution using BBB EU Safe Harbor as a third party resolution provider for disputes arising with regard to privacy in the EEA and Switzerland. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by us, please visit the BBB EU Safe Harbor website at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
+If at any time you believe we have acted contrary to this Privacy Policy, please [contact our privacy team](http://www.intercall.com/l/privacy/index.php) and we will take steps to investigate and will use reasonable measures to remedy the problem. If a complaint or dispute cannot be resolved through our internal process, we agree to dispute resolution using BBB EU Safe Harbor as a third party resolution provider for disputes arising with regard to privacy in the EEA and Switzerland. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by us, please visit the BBB EU Safe Harbor website at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
 
 ## Disclosure for Legal Purposes
 
@@ -78,150 +78,13 @@ InterCall reserves the right to modify the Privacy Policy at any time. Please re
 
 ## Contact Us
 
-If at any time you believe InterCall has not followed the above Policy, or if you have questions, comments, or complaints regarding InterCall's Policy, please contact us via e-mail at [privacy@intercall.com](mailto:privacy@intercall.com). By mail, we can be contacted at: 
+If at any time you believe InterCall has not followed the above Policy, or if you have questions, comments, or complaints regarding InterCall's Policy, please [contact our privacy team](http://www.intercall.com/l/privacy/index.php). By mail, we can be contacted at: 
 
 InterCall, Inc.  
 ATTN: Safe Harbor Support  
 1239 OG Skinner Drive  
 West Point, GA 31833
 
-* * *
-
 ## HIPAA PRIVACY NOTICE
 
-**THIS NOTICE DESCRIBES HOW MEDICAL INFORMATION ABOUT YOU MAY BE USED AND DISCLOSED AND HOW YOU CAN OBTAIN ACCESS TO THIS INFORMATION. PLEASE REVIEW IT CAREFULLY.**
-
-**INTRODUCTION**
-
-West Corporation and its affiliates are required by law to maintain the privacy of “protected health information.” “Protected health information” includes any identifiable information we obtain from you or others that relates to your physical or mental health, the health care you have received, or payment for your health care.
-
-As required by law, this notice provides you with information about your rights and our legal duties and privacy practices with respect to the privacy of protected health information. This notice also discusses the uses and disclosures we will make of your protected health information. We must comply with the provisions of this notice, although we reserve the right to change the terms of this notice from time to time and to make the revised notice effective for all protected health information we maintain. You can always request a copy of the most current privacy notice from our Privacy and Security Official.
-
-This Notice applies to the following organizations that are affiliated as part of West Corporation and share similar information practices:
-
-  * West Corporation 
-  * 760 Northlawn Drive, LLC 
-  * A Better Conference, Inc. 
-  * Asset Direct Mortgage, LLC 
-  * BuyDebtCo, LLC 
-  * Cosmosis Corporation 
-  * Holly Connects, Inc. 
-  * InterCall, Inc. 
-  * InterCall Telecom Ventures, LLC 
-  * Intrado, Inc. 
-  * Intrado Command Systems, Inc. 
-  * Intrado Communications Inc. 
-  * Intrado Communications of Virginia Inc. 
-  * Intrado Information Systems Holdings, Inc. 
-  * Intrado International, LLC 
-  * Intrado Systems Corp. 
-  * Northern Contact, Inc. 
-  * Stargate Management LLC 
-  * Stream57 Corporation 
-  * TeleVox Software, Incorporated 
-  * The Debt Depot, LLC 
-  * TuVox Incorporated 
-  * Twenty First Century Communications, Inc. 
-  * Twenty First Century Communications of Canada, Inc. 
-  * Twenty First Century Crisis Communications, LLC 
-  * Twenty First Century International Services LLC 
-  * Unisfair, LLC 
-  * West Asset Management, Inc. 
-  * West Asset Purchasing, LLC 
-  * West At Home, LLC 
-  * West Business Services, LLC 
-  * West Communications, Inc. 
-  * West Customer Management Group, LLC 
-  * West Direct, LLC 
-  * West Direct II, Inc. 
-  * West Education Foundation 
-  * West Facilities, LLC 
-  * West Interactive Corporation 
-  * West International Corporation 
-  * West Language Services, LLC 
-  * West Notifications Group, Inc. 
-  * West Professional Services, Inc. 
-  * West Receivables LLC 
-  * West Receivables Holdings LLC 
-  * West Receivables Purchasing, LLC 
-  * West Receivables Services, Inc. 
-  * West UC Solutions, LLC 
-  * West UC Solutions Holdings, Inc. 
-  * Worldwide Asset Purchasing, LLC
-
-
-
-* * *
-
-**PERMITTED USES AND DISCLOSURES**
-
-The affiliates of West Corporation (“West”) listed above are Business Associates of Covered Entities with which you may do business. These Covered Entities would include, for example, your insurance company, your dentist, your pharmacy, etc. In the capacity of Business Associate, the Covered Entity you use may provide access to a portion of your protected health information to West. We intend to use or disclose your protected health information for the purposes of fulfilling our obligations to the Covered Entity. These uses or disclosures may include, but are not limited to, the following categories and examples:
-
-**Treatment** – We may use protected health information provided to us by your Covered Entity to inform you of approaching events related to your healthcare. For example, we may notify you a prescription is coming up for refill; or, we may call you because it has been a while since you have ordered supplies for a medical condition and it is time to reorder.
-
-**Payment** – We may use protected health information provided to us by your Covered Entity to inform you of issues related to payment for your healthcare. For example, we may notify you of a past due payment on a medical bill.
-
-**Healthcare operations** – We may use protected health information provided to us by your Covered Entity to assist your Covered Entity in serving you better. For example, we may provide conference capabilities for your physician to consult with other medical staff; we may provide customer service on behalf of your insurance carrier to assist you with your insurance benefits; or, we may provide recall notifications for a recalled medical device you may use.
-
-* * *
-
-**OTHER USES AND DISCLOSURES OF PROTECTED HEALTH INFORMATION**
-
-We may contact you, on behalf of your Covered Entity, to provide appointment reminders or information about health-related benefits and services that may be of interest to you.
-
-We may disclose your protected health information at the direction of your Covered Entity and only as permitted by applicable law. This may include disclosure of your protected health information to your family or friends or any other individual identified by you when they are involved in your care or the payment of your care. We will only disclose the protected health information directly relevant to their involvement in your care or payment. We may also use or disclose your protected health information to notify, or assist in the notification of, a family member, a personal representative, or another person responsible for your care of your location, general condition or death. If you are available, we will give you an opportunity to object to these disclosures, and we will not make these disclosures if you object. If you are not available, we will determine whether a disclosure to your family or friends is in your best interest, and we will disclose only the protected health information that is directly relevant to their involvement in your care.
-
-When permitted by law, we may coordinate our uses and disclosures of protected health information with public or private entities authorized by law or by charter to assist in disaster relief efforts.
-
-We may contact you on behalf of your Covered Entity as part of their marketing efforts as permitted by applicable law.
-
-* * *
-
-**SPECIAL SITUATIONS**
-
-Except for the special situations set forth below and the general uses and disclosures described above, we will not use or disclose your protected health information for any other purposes unless you provide a written authorization to your Covered Entity.
-
-**Worker’s Compensation** – We may disclose your protected health information to the extent authorized by and to the extent necessary to comply with laws relating to workers’ compensation or other similar programs established by law.
-
-**Public Health** – When required or permitted by law, we may disclose your protected health information to public health or legal authorities responsible for preventing or controlling disease, injury or disability or performing other public health functions. In addition, we may disclose your protected health information in order to avert a serious threat to health or safety.
-
-**Specialized Government Functions** – We may disclose your protected health information for military and veterans’ activities, national security and intelligence activities and similar special governmental functions as required or permitted by law.
-
-**Health Oversight Agencies** – We may disclose your protected health information to an appropriate health oversight agency, public health authority or attorney involved in health oversight activities.
-
-**Law Enforcement** – We may disclose your protected health information for law enforcement purposes as required or permitted by law or in response to a valid subpoena, court order or other binding authority.
-
-**Judicial and Administrative Proceedings** – We may disclose your protected health information for judicial or administrative proceedings as required or permitted by law or in response to a valid subpoena, court order or other binding authority.
-
-**Food and Drug Administration (“FDA”)** – We may disclose to the FDA, or an entity subject to FDA jurisdiction, your protected health information for public health purposes related to the quality, safety or effectiveness of an FDA-regulated product or activity for which that person has responsibility. For example, your information may be disclosed in connection with the reporting of an adverse event, product defect, product tracking or to provide post marketing surveillance information.
-
-**Disclosures Required by Law** – We may use or disclose your protected health information as required by law provided such use or disclosure complies with and is limited to the relevant requirements of such law.
-
-* * *
-
-**YOUR RIGHTS REGARDING HEALTH INFORMATION ABOUT YOU**
-
-You have a right to expect your protected health information will be kept secure and used only for legitimate purposes.
-
-  * You have a right to understand how your protected health information may be used and disclosed by West. 
-  * You have a right to access this privacy notice that tells you how your protected health information may be used or disclosed. 
-  * You have a right to ask questions about any health privacy issue and have those questions clearly and promptly answered. 
-  * You have a (limited) right to know who has seen your health information, and for what purpose. If you make additional requests for such an accounting during any 12-month period, we may charge you a reasonable, cost-based fee. 
-  * You have a right to see, and to keep a copy of, all of your health records except psychotherapy notes and information compiled in reasonable anticipation of, or for use in, a civil, criminal, or administrative action or proceeding. Your request for a copy of your record must be in writing. 
-  * You have a right to ask for correction or inclusion of a statement of disagreement for anything in your records you feel is in error. Your request must be submitted in writing and include supporting documentation. 
-  * You have a right to authorize, or refuse, additional uses of your protected health information, such as for fundraising, marketing, or research. 
-  * You have a right to request extra protections for protected health information you consider especially sensitive, and to request we communicate with you by alternative means.
-
-
-
-* * *
-
-**COMPLAINTS**
-
-If you believe your privacy rights have been violated, you should immediately contact our Privacy and Security Official. We will not take any action against you for filing a complaint. You may also file a complaint with the Secretary of Health and Human Services.
-
-**CONTACT PERSON**
-
-If you have any questions or would like further information about this notice, please contact Alain Zarinelli, West Corporation Privacy and Security Official, at (402) 963-1200 or by mail at 11808 Miracle Hills Drive, Omaha, NE 68154.
-
- 
+[Download HIPAA privacy notice (PDF)](http://www.west.com/pdfs/West_HIPAA_Privacy_Notice.pdf) 
