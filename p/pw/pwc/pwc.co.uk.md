@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pwc.co.uk privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028061720id_/http%3A//www.pwc.co.uk/en/who-we-are/privacy-statement.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pwc.co.uk privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516180053id_/http%3A//www.pwc.co.uk/en/who-we-are/privacy-statement.jhtml) for the most accurate reproduction.*
 
 # Privacy Commitment
 
@@ -8,19 +8,20 @@ PricewaterhouseCoopers LLP (the UK firm) (“PricewaterhouseCoopers LLP” or �
 
 ## Data collection
 
-We only collect identifiable personal data or information that is specifically and voluntarily provided by a visitor to our site. For example, a visitor to our site may choose to provide information such as name, title, office address, office email address and telephone number in order to:
+We only collect identifiable personal data or information that is specifically and voluntarily provided by a visitor to our website. We receive limited identifiable information, such as name, title, company address, email address, and telephone and fax numbers, from website visitors.  Typically, identifying information is collected to:
 
-  * register for certain areas of the site;
-  * contact us for further information;
-  * participate in "join our mailing list" initiatives
+  * Register for certain areas of the site
+  * Enquire for further information
+  * Distribute requested reference materials
+  * Submit curriculum vitae
 
 
 
-Visitors are also able to send email to us through the site. Their messages will contain the user’s screen name and email address, as well as any additional information the user may wish to include in the message.
+Visitors are also able to send email to us through the website. Their messages will contain the user’s screen name and email address, as well as any additional information the user may wish to include in the message
 
 ## Use of data
 
-When a visitor provides personal data to us, we use it solely for the purposes for which it was provided to us as stated at the point of collection (or as is obvious from the context of collection). Examples of the types of use are given in the ‘data collection’ section above.
+When a visitor provides personal data to us, we will use it for the purposes for which it was provided to us as stated at the point of collection (or as is obvious from the context of collection).  Examples of the types of use are given in the ‘data collection’ section above.  We may also use your data to contact you with information about PwC's business, services and events, and other information which may be of interest to you; you may unsubscribe from our mailing list at any time by contacting us as set out in the 'Unsubscribe' section below.
 
 Our websites do not collect or compile personally identifying information for dissemination or sale to outside parties for consumer marketing purposes, or host mailings on behalf of third parties.
 
