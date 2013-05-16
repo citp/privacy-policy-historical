@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roomoffun.com privacy policy that was archived on 2012-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121019194834id_/http%3A//www.roomoffun.com/page/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roomoffun.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516063432id_/http%3A//www.roomoffun.com/page/privacy.html) for the most accurate reproduction.*
 
 # We Are Just Having FUN! - The Room Of FUN!
 
@@ -40,6 +40,12 @@ We implement a variety of security measures to maintain the safety of your perso
 Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
 
 We use cookies to understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+
+  * Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to your website.
+  * Google’s use of the DART cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
+  * Users may opt out of the use of the DART cookie by visiting the [advertising opt-out page.](http://www.google.com/policies/privacy/ads/)
+
+
 
 **Do we disclose any information to outside parties?**
 
