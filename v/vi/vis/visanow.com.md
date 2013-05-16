@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the visanow.com privacy policy that was archived on 2012-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121113075248id_/http%3A//www.visanow.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visanow.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517003632id_/http%3A//www.visanow.com/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement | VISANOW Global Immigration | VISANOW Global Immigration
+# Privacy Statement | VISANOW Global Immigration
 
 VISANOW is committed to protecting the privacy of all users of our services and to maintaining applicable attorney-client privileges. Please review this policy to understand the steps VISANOW has taken to secure your personal information.
 
