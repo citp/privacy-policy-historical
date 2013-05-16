@@ -1,65 +1,87 @@
-> *The following text is extracted and transformed from the mlbshop.com privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114113610id_/http%3A//shop.mlb.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dbotnav_privacy_txt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mlbshop.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517003216id_/http%3A//shop.mlb.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dbotnav_privacy_txt) for the most accurate reproduction.*
 
 # Help
 
-  
-|  |  | [](https://web.archive.org/helpdesk/index.jsp)  
----  
-  
 **Privacy Policy**
 
 **PLEASE READ THIS PRIVACY POLICY (THIS "PRIVACY POLICY") CAREFULLY BEFORE USING OUR WEBSITE, APPLICATIONS OR ANY OTHER MLB ADVANCED MEDIA, L.P. PRODUCT OR SERVICE.**
 
-MLB Advanced Media, L.P. is the organization that produces and publishes the Official Website of Major League Baseball, which encompasses MLB.com, the Official Websites of the thirty (30) Major League Baseball ("MLB") Clubs, the Official Websites of certain other MLB-related properties (collectively, this "Website") and downloadable mobile applications (e.g. MLB.com At Bat) available from third party application storefronts ("Application(s)"). This Privacy Policy is applicable to this Website and the Applications, which will be called "Services" throughout this Privacy Policy, and describes what information we collect, how we may use that information and the choices we offer for you to manage the information we collect related to your use of our Services.
+MLB Advanced Media, L.P. is the organization that produces and publishes the Official Website of Major League Baseball, which encompasses MLB.com, the Official Websites of the thirty (30) Major League Baseball ("MLB") Clubs, the Official Websites of certain other MLB-related properties (collectively, this "Website"), downloadable mobile applications (e.g. MLB.com At Bat, MLB.com At the Ballpark) available from third party application storefronts ("Application(s)"), mobile games available from third party application storefronts (e.g. MLB.com Beat the Streak, MLB.com Head2Head) ("Mobile Games") and games and other applications available from third party social media locations and gaming websites ("Social Games"). This Privacy Policy is applicable to this Website, the Applications, Mobile Games and the Social Games, all of which will be called "Services" throughout this Privacy Policy, and describes what information we collect, how we may use that information and the choices we offer for you to manage the information we collect related to your use of our Services.
 
 **1\. Personal Information Collected Via Our Services**
 
-_Information You Provide._ You may visit and enjoy many elements of our Services without disclosing any personal information about yourself. However, to make use of select, special or enhanced elements of the Services, you will need to share with us certain personal information so those elements may function properly. When you use certain enhanced elements within our Services (e.g., create a profile, register for a promotion, make a purchase, or publish a comment), the personal information we collect may include, but is not limited to, full name, street address, email address, telephone number(s), birth date, payment card information and location data. If we collect such information, the applicable page(s) or location(s) within the Services will include statements regarding what information is required for the elements of the Services to function properly and functionality for you to submit the requested or required information; there may also be opportunities for you to grant permission for use of your information in a manner set forth on the applicable page(s) within the Services. 
-
-**2\. How We Use and Share Your Personal Information**
-
-If you submit personal information to us, or to any third party acting on our behalf, we may use and share your information as set forth in this Privacy Policy. We will not sell, lease or share your personal information with or to anyone else, except as set forth in this Privacy Policy. We may use and share your personal information as described in Section 1 above and: 
+_Information You Provide._ You may visit and enjoy many elements of our Services without disclosing any personal information about yourself. However, to make use of select, special or enhanced elements of the Services, you will need to share with us certain personal information so those elements may function properly. When you use certain enhanced elements within our Services (e.g., create a profile, register for a promotion, make a purchase, or publish a comment), the personal information we collect may include, but is not limited to:
 
   
 
 
-  * With certain third parties, but only so that they may help us provide services you've requested or in certain circumstances to provide you with related offers, special promotions or content; 
-  * With one or more MLB Clubs or entities, to the extent that you've submitted information or accessed functionality or content that relates specifically to such Club(s) or entities (e.g., you've asked to receive the newsletter of a Club or you've purchased Club-specific merchandise from one of our stores), so they may learn more about fans like you, add you to the Club's postal mail list and provide better services to you; 
-  * Upon notice posted on an applicable location of our Services where we collect your personal information for an economic transaction and notify you that we will be sharing such information with a third party (e.g., Apple, ESPN.com);
-  * With a third-party service provider, sponsor or promotional partner with whom we offer a special promotion (e.g., a sweepstakes, fantasy game or subscription to goods or services), with your permission or otherwise in accordance with the applicable rules of such special promotion or terms presented at the time of submission, so that the third party can administer the promotion, or send you special promotions it offers;
-  * With our third-party survey partners, to send you periodic surveys to help improve our Services or your MLB experience;
-  * In connection with online loyalty, membership or rewards programs operated from our Services, with a third party from which you may receive goods or services in connection with your participation in such program; _or_
-  * With express permission from you.
+  * Full name,
+  * Email address,
+  * Password,
+  * Street address,
+  * Telephone number(s),
+  * Birth date,
+  * Payment card information,
+  * Location data,
+  * Contacts (as stored in your wireless device),
+  * Other personal data as detailed in this Privacy Policy and data that may be requested from and provided by you.
 
 
 
-**3\. Other Information Collected Within Our Services.**
+If we collect such information, in most instances, the applicable page(s) or location(s) within the Services will include statements regarding what information is required for the elements of the Services to function properly and functionality for you to submit the requested or required information. In addition to the list above, there may also be opportunities for you to grant permission for use of other of your information in a manner set forth on the applicable page(s) within the Services. 
+
+**2\. How We Use and Share Your Personal Information**
+
+If you submit personal information to us, or to any third party acting on our behalf, we may use and share your information as set forth in this Privacy Policy and as disclosed when you first submit your information. We will not sell, lease, publish or share your personal information with or to anyone else, except as set forth in this Privacy Policy. We may use and share your personal information as described in Section 1 above and we may: 
+
+  
+
+
+  * Use your information to provide services you've requested or provide you with offers, promotions (e.g., a sweepstakes, fantasy game, subscription to goods or services, etc.) or content or add you to our postal mail list; 
+  * Share your information with certain third parties, including service providers, sponsors and promotional partners, so they may help us provide services, offers, promotions or content you've requested or otherwise in accordance with the applicable rules of a promotion or terms presented at the time you submit personal information, so the third party can administer the promotion, send you offers or content or add you to their postal mailing list;
+  * Use and share your information with one or more MLB Clubs or entities, to the extent that you've submitted information or accessed functionality or content that relates specifically to such Club(s) or entities (e.g., you've asked to receive the newsletter of a Club or you've purchased Club-specific merchandise), so they may learn more about fans like you, add you to the Club's postal mail list and provide better services to you; 
+  * Share your information upon notice posted on an applicable location of our Services where we collect your personal information for an economic transaction and notify you that we will be sharing such information with a third party;
+  * Use and share your information with our third-party survey partners to send you periodic surveys to help improve our Services or your MLB experience;
+  * Use and share your information in connection with online loyalty, membership or rewards programs operated from our Services or with a third party from which you may receive goods or services in connection such a program; _or_
+  * Use and share your information with permission from you.
+
+
+
+**3\. Additional Information About Collection of Location Data**
+
+_Location Data We Collect._ When you use our Service we may solicit your permission to collect your location data. Please be advised, for some features within our Applications to function (e.g. live MLB game video) we must confirm your current location and therefore some features will not be available if you choose not to provide your location data to us. The specificity of the location data collected may depend on a number of factors, including the device you are using (e.g. laptop, smartphone, tablet) and how you are connected to the internet (e.g. via cable broadband connection, WiFi, etc.). If you enable location services for our Applications, we may collect location data (e.g. zip code) periodically as you use or leave open our Applications. We may also use this data internally or in conjunction with our third party service providers to customize your experience and provide offers that may be relevant to you. Depending on the platform you use to access our Applications (e.g., Apple's iOS, Google's Android, Windows, etc.) you may be able to control from within the settings on your wireless device or the Application(s) whether location data is collected.
+
+**4\. Additional Information About Our Access to Your Contacts**
+
+_Our Access to Your Contacts._ When you use our Mobile Games, we may solicit your permission to access your contacts list (e.g., address book) so that we may match individuals from your contacts lists with those participating in our Mobile Games so you can invite your friends to play with and against you. We will not store the information in your contacts list.
+
+**5\. Other Information Collected And Shared Within Our Services.**
 
   
 
 
   * _Our Cookies and Web Beacons_
 
-We use and permit automatic methods such as cookies (small amounts of data which include a unique string of characters sent to your browser or application from a website's computers and stored on your computer's or device's hard drive), web beacons (technology used to track activity, also known as pixel tags) or similar technologies, alone or in combination with personally identifiable information you choose to provide us. Examples of the information we collect and analyze using such methods include, but is not limited to, the Internet protocol address used to connect your computer or device to the Internet; email address; login name and password; operating system type, version and computer or device platform; purchase history; the full Uniform Resource Locator clickstream to, on and from our Website, including date and time; and products you viewed or searched. We use software tools to measure and collect session information, including page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks and mouse-overs) and methods used to browse away from a page. We use and may allow certain third parties, such as those who provide services associated with our Services, to access these automatic data collection methods to enable you to use a "shopping cart" while using our Services, to store your preferences and to improve, deliver and customize our Services' content and offerings. 
+We use and permit automatic methods such as cookies (small amounts of data which include a unique string of characters sent to your browser or application from a website's computers and stored on your computer's or device's hard drive), web beacons (technology used to track activity, also known as pixel tags) or similar technologies, alone or in combination with personally identifiable information you choose to provide us. Examples of the information we collect and analyze using such methods include, but is not limited to, the Internet protocol address used to connect your computer or device to the Internet; email address; login name and password; operating system type, version and computer or device platform; purchase history; the full Uniform Resource Locator clickstream to, on and from our Services, including date and time; and products you viewed or searched. We use software tools to measure and collect session information, including page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks and mouse-overs) and methods used to browse away from a page. We use and may allow certain third parties, such as those who provide services associated with our Services, to access these automatic data collection methods to enable you to use a "shopping cart" while using our Services, to store your preferences and to improve, deliver and customize our Services' content and offerings. 
 
   
 
   * _Third Party Cookies and Web Beacons; Network Advertisers_
 
-We allow select third parties, such as those who deliver advertisements, content, social networking or provide other services associated with our Services, to set cookies, web beacons or similar technologies in certain locations within the Services or certain emails sent by us. Third party companies that manage and deliver advertisements to websites and applications such as ours are commonly referred to as "network advertisers." A permitted network advertiser may use cookies, web beacons or similar technologies to collect information about your interaction with our Services in order to tailor certain advertisements and content delivered within our Services and on other websites within such network advertiser's ad network. If you would like to obtain more information about common industry practices of network advertisers or make choices about their use of your information, please [click here](http://www.aboutads.info/). You may elect to opt out of targeted behavioral advertising from network advertisers by [clicking here](http://www.networkadvertising.org/managing/opt_out.asp#).
+We allow select third parties, such as those who deliver advertisements, content, social networking or provide other services associated with our Services, to set cookies, web beacons or similar technologies in certain locations within the Services or certain emails sent by us. Third party companies that manage and deliver advertisements to websites and applications such as ours are commonly referred to as "network advertisers." A permitted network advertiser may use cookies, web beacons or similar technologies to collect information about your interaction with our Services in order to tailor certain advertisements and content delivered within our Services and on other websites within such network advertiser's ad network. You may elect to opt out of targeted behavioral advertising from many major third party network advertisers by [clicking here](http://www.aboutads.info/choices/). If you would like to obtain more information about common industry practices of network advertisers or make choices about their use of your information or find additional opt-out tools operated by advertising industry associations encompassing even more network advertisers, please [click here](http://www.aboutads.info/).
 
   
 
   * _Social Networking_
 
-When using our Services or when using certain third party social networking services (e.g., Facebook, Twitter, Google +) (each and collectively, a "Social Network"), you may have the option to connect your Website or Application information and activity with your Social Network information and activity. If you authorize such a connection, you permit us to share or publish information about your activity on our Services, with that Social Network and its users, and to access certain of your Social Network information, as disclosed by you at the time you consent to the connection. Information we may share with a Social Network may include, but is not limited to: personal information as authorized by you, technical information about your Services activity, your Services comments or the videos you watch on our Website or within our Applications. Information we may access about you, with your consent, from a Social Network may include, but is not limited to, your basic Social Network information, your location data, your list of contacts, friends or followers, and certain of your activities on the Social Network. If you permit a connection between a Social Network and our Services, we (and that Social Network) may be able to identify you and to associate information received pursuant to the connection with information we already have about you. We recommend that you familiarize yourself with the privacy policy and privacy control options of any Social Network with which you choose to share information or connect to our Services. 
+When using our Services or when using certain third party social networking services (e.g., Facebook, Twitter, Google +) (each and collectively, a "Social Network"), you may have the option to connect your Website, Application, Mobile Game or Social Game information and activity with your Social Network information and activity. If you authorize such a connection, you permit us to share or publish information about your activity on our Services, with that Social Network and its users, and to access certain of your Social Network information, as disclosed by you at the time you consent to the connection. Information we may share with a Social Network may include, but is not limited to: technical information about your Services activity, your Services comments or the videos you watch on our Services. Information we may access about you, with your consent, from a Social Network may include, but is not limited to, your basic Social Network information, your location data, your list of contacts, friends or followers, and certain of your activities on the Social Network. If you permit a connection between a Social Network and our Services, we (and that Social Network) may be able to identify you and to associate information received pursuant to the connection with information we already have about you. We recommend that you familiarize yourself with the privacy policy and privacy control options of any Social Network with which you choose to share information or connect to our Services. 
 
   
 
 
 
 
-**4\. Other Circumstances When Your Data May Be Shared**
+**6\. Other Circumstances When Your Data May Be Shared**
 
   
 
@@ -85,9 +107,9 @@ We may be required to share your personal and non-personal information pursuant 
 
 
 
-**5\. Managing Your Information**
+**7\. Managing Your Information**
 
-You may choose and control what information you provide about yourself and certain information which is automatically collected via our Services. If you do not wish to provide certain information necessary for enhanced functionality or content on our Services, please do not use such functionality or content. If you have registered for a Website account, you may review and revise certain of your account information by [clicking here](https://secure.mlb.com/enterworkflow.do?flowId=registration.ajax.wizard&=c_id=mlb) to log in, and then navigating the left-hand menu options. You may modify your subscriptions to our various promotional email communications and newsletters by accessing the "Email Subscriptions" section within your Website account.
+You may choose and control what information you provide about yourself and certain information which is automatically collected via our Services. If you do not wish to provide certain information necessary for enhanced functionality or content on our Services, please do not use such functionality or content. If you have registered for an account through our Services, you may review and revise certain of your account information by [clicking here](https://secure.mlb.com/enterworkflow.do?flowId=registration.ajax.wizard&=c_id=mlb) to log in, and then navigating the left-hand menu options. You may modify your subscriptions to our various promotional email communications and newsletters by accessing the "Email Subscriptions" section within your Website account.
 
 If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows a user to accept or reject most cookies. Certain cookies that are set when some video products are accessed on our Website, called local shared objects or Flash cookies, may not be managed using the settings in your web browser. Information on managing, accepting and rejecting these cookies is available from Adobe on the [Adobe website](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager03.html). If you set your browser or Adobe Flash options not to accept cookies or local shared objects, you may not be able to take advantage of certain Services.
 
@@ -95,7 +117,7 @@ If you want to review or revise the personal information you provided during reg
 
 Remember that when you share information publicly online, it may be indexable by search engines or recorded by others, and any search engine index or record of your information may persist after you delete the information at the original source. 
 
-**6\. Other Information**
+**8\. Other Information**
 
   
 
@@ -153,4 +175,4 @@ If we make an important change to this Privacy Policy, we will post a notificati
 
 
 
-LAST UPDATED AND EFFECTIVE DATE: June 19, 2012
+LAST UPDATED AND EFFECTIVE DATE: May 7, 2013
