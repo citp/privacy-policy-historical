@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the musicloops.com privacy policy that was archived on 2012-11-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121116001844id_/http%3A//www.musicloops.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the musicloops.com privacy policy that was archived on 2013-05-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130516202528id_/http%3A//www.musicloops.com/privacy.php) for the most accurate reproduction.-->
 
 <html xmlns="http://www.w3.org/1999/xhtml"><head></head><body>
 
@@ -16,24 +16,26 @@
 
 <link rel="stylesheet" href="/css/style.css">
 <link rel="alternate" type="application/rss+xml" title="musicloops.com RSS Feed" href="http://musicloops.com/rss.php">
-
+<!--[if lt IE 9]>
+  <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
 <script type="text/javascript" src="/swfobject.js"></script>
-<script type="text/javascript"> var currentlyPl; </script>
+<script type="text/javascript" src="jquery.js"></script>
+<script> var currentlyPl; </script>
 <script type="text/javascript">
  function clear_field(){
  	if(document.keyword.keywords.value=="SmartSearch (beta)"){
 		document.keyword.keywords.value="";
 	}
  }
-function check1()
-{
-if(document.category.categoryId.value=="")
-{
-  alert("Please select category!");
-  document.category.categoryId.focus();
-  return false;
-}
-   return true;
+function check1(){
+  if(document.category.categoryId.value==""){
+    alert("Please select category!");
+    document.category.categoryId.focus();
+    return false;
+  }
+
+  return true;
 }
 
 function check2()
@@ -92,7 +94,6 @@ if (navigator.appName.indexOf("Microsoft") !=-1) {
   window.attachEvent("onbeforeunload", cleanupFP9IELeaks);
 }
 </script>
-
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6/jquery.min.js"></script>
 <script type="text/javascript" src="js/jquery.transform.js"></script>
 <script type="text/javascript" src="js/jquery.grab.js"></script>
@@ -101,17 +102,23 @@ if (navigator.appName.indexOf("Microsoft") !=-1) {
 <script type="text/javascript" src="js/circle.player.js"></script>
 <link rel="stylesheet" href="css/not.the.skin.css">
 <link rel="stylesheet" href="circle.skin/circle.player.css">
-<script>
-var flashFlag=true;
-if (navigator.mimeTypes ["application/x-shockwave-flash"] == undefined){
-	flashFlag=false;
-	$('.trackleft').css('width', '430px');
-	$('.cp-container').css('width', '50px');
-	$('.trackright').css('width', '160px');
-}
-</script>
+<script type="text/javascript">
+var flashFlag=true;</script>
 
+<style type="text/css">
+a{color: #006C94;text-decoration: none;}
+.social-single{margin: 0 0 0 20px; width:100%; padding-bottom:22px}
+.trackright{width:130PX;}
+</style>
 
+<!--[if IE]>
+<style type="text/css" media="screen">
+.trackright
+	{
+	width:160PX;
+	}
+</style>
+<![endif]-->
 
 
 
@@ -121,7 +128,21 @@ if (navigator.mimeTypes ["application/x-shockwave-flash"] == undefined){
 		<a href="http://www.musicloops.com/" class="logo"><img src="/images/logo.jpg" alt="MusicLoops" border="0"></a>
 		<div class="bookmark">
 	
-<a title="Be the first to hear the latest additions to the ML catalog" onclick="window.open('http://www.musicloops.com/rss.html','','height=350,width=750,resizable=yes,scrollbars=no'); return false;" href="#"><font size="-1" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Subscribe to New Music Updates</b></font></a><br>
+<!--social share buttons start-->
+<div class="social-single">
+
+<!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style ">
+<a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+<a class="addthis_button_tweet"></a>
+</div>
+<script type="text/javascript">var addthis_config = {"data_track_addressbar":true};</script>
+<script type="text/javascript" src="http://s7.addthis.com/js/300/addthis_widget.js#pubid=axgrindr"></script>
+<!-- AddThis Button END -->
+
+</div><br>
+<!--social share ends-->
+
 </div>
 <div class="navigation">
 <a href="http://www.musicloops.com/licence.php">Easy Licensing</a> | 
@@ -137,9 +158,7 @@ if (navigator.mimeTypes ["application/x-shockwave-flash"] == undefined){
 							Need music for your commercial project?  Choose from over 20,000 tracks of <b>Hand-Picked, High-Quality, Royalty Free Music</b> from the best composers in the business. Comes with a worldwide, lifetime license and is absolutely royalty free with  No PROs, No cue sheets, no hassles. Find the music you like, pay with credit card or Paypal and immediately download high resolution, stereo WAV files. If you have any questions at all please <a href="http://www.musicloops.com/contact.php"><b>contact us</b></a></div>
 
 </div>
-	<!--HEADER SECTION END-->
-
-<!--HEADER SECTION END-->
+<!-- HEADER SECTION END --><!--HEADER SECTION END-->
 <!--BODY CONTAINER SECTION START-->
 <div class="bodycontainer" style=" padding-left:4px;"> <br>
     <table width="100%" border="0" cellspacing="0" cellpadding="0" height="250">
@@ -275,12 +294,7 @@ if (navigator.mimeTypes ["application/x-shockwave-flash"] == undefined){
 </div>
 <div style="clear:both;"></div>
 <!--FOOTER SECTION START-->
-<style type="text/css">
-a {
-color: #006C94;
-text-decoration: none;
-}
-</style>
+
 <table border="0" cellspacing="2" cellpadding="0" align="center" bgcolor="#f5f5f5">
 			<tbody><tr>
 				<td align="center" valign="top" bgcolor="#f5f5f5">
@@ -289,13 +303,16 @@ text-decoration: none;
 				<table border="0" cellspacing="2" cellpadding="0">
 					<tbody><tr>
 						<td width="88"></td>
-						<td width="250"><font size="-1"><a href="http://www.partnersinrhyme.com">Royalty Free Music Collections</a><br>
-								<a href="http://www.sound-effect.com">Download Sound Effects</a><br>
+						<td width="250"><font size="-1">
+								<a href="http://www.musicloops.com/blog/"><b>MusicLoops Blog</b></a><br>
+								<a href="http://www.partnersinrhyme.com">Royalty Free Music Collections</a><br>
+								<a href="http://www.FreeSoundEffects.com">Download Sound Effects</a><br>
 								<a href="http://www.musicalibredederechos.net">Musica Libre de Derechos</a><br>
-								<a href="http://www.musicloops.com">Royalty Free Music Tracks</a><br>
+								
 							</font></td>
-						<td width="250"><font size="-1"><a href="http://www.naturemusicdownload.com">Ambient Music / Nature Sounds</a><br>
-								<a href="http://www.partnersinrhyme.com/blog/">Royalty Free Music Clips Blog</a><br>
+						<td width="250"><font size="-1">
+								<a href="http://www.musicloops.com/cgi-bin/MLAFF/signup.cgi"><b>Affiliate Program</b> <font size="-2">(signup and earn $$)</font></a><br>
+								<a href="http://www.naturemusicdownload.com">Ambient Music / Nature Sounds</a><br>
 								<a href="http://www.royaltyfreemusicradio.com">Royalty Free Music Radio</a><br>
 								<a href="http://www.musicloops.com/classical">Royalty Free Classical Music</a><br>
 							</font></td>
@@ -306,6 +323,9 @@ text-decoration: none;
 							</font></td>
 					</tr>
 				</tbody></table>
+		
+				
+				
 						<font size="-2"><br>
 							<b>
 
