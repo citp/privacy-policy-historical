@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the spiritnow.com privacy policy that was archived on 2012-10-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121010074147id_/http%3A//www.spiritnow.com/static/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the spiritnow.com privacy policy that was archived on 2013-05-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130516040819id_/http%3A//www.spiritnow.com/static/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 <title>Spirit Now</title>
@@ -83,7 +83,7 @@
 
 	    <div id="topbanner">
 	
-			<iframe src="http://www.spiritnow.com/remote_load/index.taf?camp_phone=8886604955&amp;campaign=30217" width="728" marginwidth="0" height="90" marginheight="0" align="top" scrolling="No" frameborder="0"></iframe>
+			<iframe src="http://www.spiritnow.com/remote_load/index.taf?camp_phone=&amp;campaign=" width="728" marginwidth="0" height="90" marginheight="0" align="top" scrolling="No" frameborder="0"></iframe>
 	
 </div> 
                  
@@ -337,13 +337,12 @@
 	<link href="http://www.spiritnow.com/network_footer/_css/sitewide_footer.css" rel="stylesheet" type="text/css">
 <table width="700" border="0" align="center" cellpadding="5" cellspacing="0" id="sitewide_footer">
 		<tbody><tr>
-		  <td colspan="4" align="left" style="padding:0px 0px 0px 25px;"><h2>Our Spiritual Network:</h2></td>
+		  <td colspan="3" align="left" style="padding:0px 0px 0px 25px;"><h2>Our Spiritual Network:</h2></td>
   </tr>
 		<tr>
 				<td width="175" align="center"><img src="http://www.spiritnow.com/network_footer/_images/pville_logo.jpg" alt="Psychicville.com - Get Your Free Reading Today!" width="131" height="71"></td>
 				<td width="175" align="center"><img src="http://www.spiritnow.com/network_footer/_images/spiritnow_logo.jpg" alt="SpiritNow.com - Your Online Psychic Destination!" width="131" height="71"></td>
 				<td width="175" align="center"><img src="http://www.spiritnow.com/network_footer/_images/getapsychic_logo.jpg" width="131" height="71"></td>
-				<td width="175" align="center"><img src="http://www.spiritnow.com/network_footer/_images/discoverpsychic_logo.jpg" alt="DiscoverPsychic.com" width="131" height="71"></td>
 		</tr>
 		<tr>
 				<td align="center" valign="top"><a href="http://www.psychicville.com" class="pville">Free Psychic Readings &amp; Chat</a> <a href="http://www.psychicville.com/tarot" class="pville">Free Tarot Readings &amp; Chat</a> <a href="http://www.psychicville.com/money-career" class="pville">Psychic Money Reading</a> <a href="http://www.psychicville.com/astrology" class="pville">Live Astrology Readings &amp; Chat</a> <a href="http://www.psychicville.com/astrology" class="pville">Medium Readings &amp; Chat</a></td>
@@ -354,11 +353,6 @@
 						
 						<a href="http://www.getapsychic.com/home" class="gap">Customer Matches Psychics</a>
 						<a href="http://www.getapsychic.com/spirit" class="gap">Psychic Life Readings</a>				</td>
-				<td align="center" valign="top"><a href="http://www.discoverpsychic.com" class="dp">Tampa Psychics</a>
-						<a href="http://www.discoverpsychic.com" class="dp">New York Psychics</a>
-						<a href="http://www.discoverpsychic.com" class="dp">Florida Psychics</a>
-						<a href="http://www.discoverpsychic.com" class="dp">Los Angeles Psychics</a>
-				<a href="http://www.discoverpsychic.com" class="dp">New Jersey Psychics</a></td>
 		</tr>
 </tbody></table>
 
@@ -398,10 +392,14 @@
 	
 	<script>
 	$(document).ready(function(){
-		if($.browser.mobile)
+		if($.browser.mobile && $.cookie('mobile_checked') != true)
 			{
-				//$.cookie('mobile_checked', 'true');
-				//window.location = 'http://m.spiritnow.com';
+				//console.log('go to mobile');
+				$.cookie('mobile_checked', 'true');
+				window.location = 'http://m.spiritnow.com';
+			} else {
+				//do nothing
+				//console.log("stay here");
 			}
 	});	
 	</script>
