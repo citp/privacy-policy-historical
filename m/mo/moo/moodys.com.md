@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moodys.com privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115234521id_/http%3A//www.moodys.com/privatepolicy.aspx%3Flang%3Den%26cy%3Dglobal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moodys.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516204206id_/http%3A//www.moodys.com/privatepolicy.aspx%3Flang%3Den%26cy%3Dglobal) for the most accurate reproduction.*
 
 # Privacy Policy - Moody's
 
@@ -8,13 +8,13 @@
 
 This Privacy Policy explains how we collect your Personal Data (defined below) on those web sites of Moody’s and its service providers that post or link directly to this Privacy Policy (collectively, the “Site”) and through offline means, how we protect such data, and the choices you have concerning our use of such data. Please read this Privacy Policy carefully. Moody’s may from time to time update this Privacy Policy. Any changes to this Privacy Policy will become effective when we post or link to the revised Privacy Policy on the Site. Please review the “ _Last Updated_ ” legend at the top of this page to determine when this Privacy Policy was most recently revised. 
 
-For the purposes of this Privacy Policy, “Moody’s”, "we", "us", and "our" means Moody’s Investors Service, Inc., Moody’s Analytics, Inc. and their affiliates. A complete list of Moody’s group affiliates can be found on the [www.moodys.com](http://www.moodys.com/) web site. ****
+For the purposes of this Privacy Policy, “Moody’s”, "we", "us", and "our" means Moody’s Investors Service, Inc., Moody’s Analytics, Inc. and their affiliates. A complete list of Moody’s group affiliates can be found on the [www.moodys.com](https://web.archive.org/)web site. ****
 
 Moody's Corporation and its US subsidiaries adhere to EU/U.S. Safe Harbor principles with respect to covered data transferred from the European Union to the U.S. More information about the Safe Harbor program can be found at _<http://www.export.gov/safeharbor>_.  
 
 You do not have to provide us with any Personal Data to visit the Site. However, if you choose to withhold requested information, you may not be able to visit all sections or use all features of the Site.
 
-**Types of Data Collected**
+ **Types of Data Collected**
 
 We gather Personal Data and Other Data (as described below). ****
 
@@ -26,7 +26,7 @@ Personal data is information that identifies you or can be used to identify or c
 
 • Moody’s may collect Personal Data voluntarily provided by you, including in emails to the Site, online forms, order and registration forms, surveys, promotion participation, and through offline means. 
 
-• On some of Moody’s Sites, including _[www.moodys.com](http://www.moodys.com/)_ and [www.moodysanalytics.com](http://www.moodysanalytics.com/), you are able to maintain "portfolios", listing financial instruments in which you have a special interest. Providing this information is always at your option. If you provide such information, you will be required to select a username and a password. To be useful, this information must be stored on the Site, and is accessible to anyone with whom you share your username and password. For this reason, please safeguard your username and password carefully and do not disclose it to any other person. 
+• On some of Moody’s Sites, including _[www.moodys.com](https://web.archive.org/)_ and [www.moodysanalytics.com](http://www.moodysanalytics.com/), you are able to maintain "portfolios", listing financial instruments in which you have a special interest. Providing this information is always at your option. If you provide such information, you will be required to select a username and a password. To be useful, this information must be stored on the Site, and is accessible to anyone with whom you share your username and password. For this reason, please safeguard your username and password carefully and do not disclose it to any other person. 
 
 • 
 
@@ -34,11 +34,11 @@ We may use third-party payment services (each, a "Payment Service") to collect p
 
 • 
 
-Moody’s collects offline information through various means, including participation at conferences, individual introductions, and from employers that enroll their employees in our services.  From time to time, we may also acquire from third parties certain lists containing the names and contact information of individuals who may be interested in our products and services. If we acquire such a list for promotional purposes, we seek to obtain appropriate representations from the other party that the listed individuals have opted in to receiving promotional messages from any acquirer of such list. 
+Moody’s collects offline information through various means, including participation at conferences, individual introductions, and from employers that enroll their employees in our services.  From time to time, we may alsoacquire from third parties certain lists containing the names and contact information of individuals who may be interested in our products and services. If we acquire such a list for promotional purposes, we seek to obtain appropriate representations from the other party that the listed individuals have opted in to receiving promotional messages from any acquirer of such list. 
 
 **Use of Personal Data Collected**
 
-_We may use Personal Data for the following purposes:_
+ _We may use Personal Data for the following purposes:_
 
 • Fulfillment of Requests.  Moody’s may use Personal Data about you to deliver products and services, and provide you with information about products and services you’ve ordered. 
 
@@ -50,37 +50,37 @@ _We may use Personal Data for the following purposes:_
 
 • Administrative Communications.  In addition, Moody’s reserves the right to use Personal Data to send to you important information regarding the Site, your account status, changes to the User Agreement, this Privacy Policy, or any other policies, agreements or transactions relevant to your use of the Site. Because this information may be important to your use of the Site, you may not opt-out of receiving such communications.
 
-**Collection** **and Use** **of** **Other Data**
+ **Collection** **and Use** **of** **Other Data**
 
 • Monitoring Data. Moody’s and its service providers may collect and/or track other information such as demographic information, domain names, computer type, browser types, screen resolution, and other statistical data involving the use of the Site ("Monitoring Data"). We use Monitoring Data to help us understand who uses the Site and to improve and market it, as well as our other web sites and services. Unless combined with Personal Data, Monitoring Data does not personally identify you or any other user, and we may use it for any purpose. 
 
 • Aggregated Data. Additionally, we may aggregate Personal Data in a manner such that the end-product does not personally identify you or any other user of the Site, for example, by using information to calculate the percentage of our users who have a particular telephone area code.  Such aggregate information may also be used for any purpose. ****
 
-• Cookies.  To enhance the Internet experience on the Site, Moody's and our service providers may use ‘cookies’ on the Site.  Cookies are data that a web server transfers to an individual's computer for recordkeeping and other purposes.  We use cookies and other technologies to facilitate users' ongoing access to and use of our Site.  If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to automatically decline cookies, or to be given the choice of declining or accepting the transfer of a particular cookie, or cookies from a particular web site, to your computer. If cookies are disabled, however, all features of the Site may not operate as intended. Information about the procedure you are required to follow in order to disable cookies can be found on your Internet browser provider’s web site.  We expect our service providers to honor any decision by you to block or disable cookies in connection with the Site.
+• Cookies.   To enhance the Internet experience on the Site, Moody's and our service providers may use ‘cookies’ on the Site.  Cookies are data that a web server transfers to an individual's computer for recordkeeping and other purposes.  We use cookies and other technologies to facilitate users' ongoing access to and use of our Site.  If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to automatically decline cookies, or to be given the choice of declining or accepting the transfer of a particular cookie, or cookies from a particular web site, to your computer. If cookies are disabled, however, all features of the Site may not operate as intended. Information about the procedure you are required to follow in order to disable cookies can be found on your Internet browser provider’s web site.  We expect our service providers to honor any decision by you to block or disable cookies in connection with the Site.
 
 • Tools. We and our service providers may also use various common Internet tools such as 'pixel tags,' ‘action tags,’ ‘web beacons,’ ‘.gif tags,’ 'JavaScript' or similar technologies (together, "Tools") in connection with Site pages and email messages in certain formats to among other things, track the actions of Site users and email recipients, to determine the success of marketing campaigns and to compile statistics about Site usage and response rates. Tools allow us to count users who have visited certain pages of the Site, to deliver branded services, and to help determine the effectiveness of promotional or advertising campaigns.  When used in email messages in certain formats, Tools can tell the sender whether and when the email has been opened.Moody’s uses cookies and Tool technologies to understand how the Site is used and to customize and enhance the Internet experience of individual users. When you revisit the Site, Moody’s may recognize you by a Tool and customize your experience. For example, once you have completed the registration process, a cookie and/or Tool will be used to avoid having you register again.  We believe cookies and Tool technologies add value to the user experience. 
 
 • IP Addresses. When you visit and interact with the Site, we and our third-party service providers may collect IP Addresses.  Your Internet Protocol (IP) address is a number that is automatically assigned to the computer that you are using by your Internet Service Provider (ISP).  This number is identified and logged automatically in our server log files whenever you visit the Site, along with the time(s) of your visit(s) and the page(s) that you visited.  We use IP addresses to understand how the Site is used by our users and to improve the Site.   Where required by applicable law, IP Addresses will be treated as Personal Data.
 
-**Disclosure of Personal Data Collected**
+ **Disclosure of Personal Data Collected**
 
-_We may disclose Personal Data for the following purposes:_
+ _We may disclose Personal Data for the following purposes:_
 
 • Third-Party Service Providers.  We may provide Personal Data to third-party service providers, who provide services to us, including but not limited to, data analysis, order fulfillment, payment processing, and other services of an administrative nature. 
 
-• Affiliate Communications. Moody’s may transfer Personal Data among our affiliates (the details of which can be found on the [www.moodys.com](http://www.moodys.com/) web site) to allow our affiliates to contact you regarding products, programs, services and promotions that they believe may be of interest to you, and such affiliates may otherwise use your Personal Data in accordance with this Policy.  If you would prefer not to receive marketing communications from Moody’s or our affiliates, please see the _"Your Choices"_ section below. Moody’s Corporation will be the party responsible for jointly used Personal Data. 
+• Affiliate Communications. Moody’s may transfer Personal Data among our affiliates (the details of which can be found on the [www.moodys.com](https://web.archive.org/)web site) to allow our affiliates to contact you regarding products, programs, services and promotions that they believe may be of interest to you, and such affiliates may otherwise use your Personal Data in accordance with this Policy.  If you would prefer not to receive marketing communications from Moody’s or our affiliates, please see the _"Your Choices"_ section below. Moody’s Corporation will be the party responsible for jointly used Personal Data. 
 
 • Strategic Partners and Co-Branded Sites.  From time to time, we may enter into a special relationship with another company that is not owned by or affiliated with Moody’s to provide or promote joint products, services, applications, or features (together, “Jointly Offered Items”).  These special relationships may include co-branded web sites (“co-branded pages”). Any information, including Personal Data, that you provide in connection with one of these Jointly Offered Items, and/or on one of these co-branded pages, will be shared with our third-party partners.  By selecting an application or providing your information on these co-branded pages, or by signing up to receive information about or download a Jointly Offered Item, you also consent to our providing Personal Data about you to those third parties.  You should check these third parties’ web sites for information regarding their privacy practices.  PLEASE NOTE THAT THIS PRIVACY STATEMENT DOES NOT ADDRESS THE PRIVACY OR INFORMATION PRACTICES OF ANY THIRD PARTIES.  If you do not want Personal Data about you shared with such third parties, please do not provide Personal Data in connection with the Jointly Offered Items and/or co-branded pages. ****
 
-• Promotions.  We may share the Personal Data you provide in connection with Promotions with third-party sponsors of such Promotions (irrespective of whether such Promotions are hosted by us), or otherwise in accordance with the rules applicable to those Promotions. 
+• Promotions.   We may share the Personal Data you provide in connection with Promotions with third-party sponsors of such Promotions (irrespective of whether such Promotions are hosted by us), or otherwise in accordance with the rules applicable to those Promotions. 
 
 • Assignment.  We may transfer any and all Personal Data that we collect to an affiliated entity or a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock (including without limitation in connection with any bankruptcy or similar proceedings).
 
 • Law enforcement; emergencies; compliance.  We may disclose Personal Data about you to others as we believe to be appropriate: (a) in compliance with laws, rules, or regulations in any country in which Moody’s operates; (b) to comply with legal process; (c) to respond to requests from government or public authorities; (d) to enforce our Terms of Service; (e) to protect our operations or those of any affiliated entities; (f) to protect the rights, privacy, safety or property of Moody’s, its affiliated entities, you, or others; and (g) to permit us to pursue available remedies or limit the damages that we may sustain. For example, we may, to the fullest extent the law allows, disclose Personal Data about you to law enforcement agencies to assist them in identifying individuals who have been or may be engaged in unlawful activities.
 
-**Your Choices** ****
+ **Your Choices** ****
 
-We give you choices regarding our use and disclosure of your Personal Data for marketing purposes. 
+We give you choices regarding our use and disclosure of your Personal Data for marketing purposes.  
 
 • If you no longer want to receive marketing-related emails from us on a going-forward basis, you may stop receiving these marketing-related emails by sending an e-mail to unsubscribe@moodys.com. 
 
@@ -92,23 +92,23 @@ If we intend to use your Personal Data for a purpose that is incompatible with t
 
 You may also indicate your choices regarding marketing-related emails by changing your preferences on your Site profile at any time, or contacting us via postal mail or telephone using the _“Contact Information for Moody’s_ ” below.
 
-**How you can access, change or suppress your Personal Data**
+ **How you can access, change or suppress your Personal Data**
 
 If you would like to review, correct, update, suppress, delete or otherwise limit our use of your Personal Data that has been previously provided to us, you make a request by contacting us using the information provided in the _“Contact Information for Moody’s_ ” below.  We will try to comply with your request as soon as reasonably practicable and consistent with applicable law. ****
 
 **Links** ****
 
-The Site may contain links to other Internet web sites. These linked sites are not under Moody’s control and we are not responsible for the privacy practices or the contents of any linked site.  We provide links only as a convenience, and Moody’s does not endorse, and is not responsible for, the privacy practices or the content of these linked sites.  If you provide any Personal Data through any third-party web site, your transaction will occur on that third party's web site (not the Site) and the Personal Data you provide will be collected by, and controlled by the privacy policy of, that third party.  We recommend that you familiarize yourself with the privacy policies and practices of any such third parties.  PLEASE NOTE THAT THIS POLICY DOES NOT ADDRESS THE PRIVACY OR INFORMATION PRACTICES OF ANY THIRD PARTIES, INCLUDING, WITHOUT LIMITATION, AFFILIATED ENTITIES THAT DO NOT POST OR LINK DIRECTLY TO THIS PRIVACY POLICY.
+The Site may contain links to other Internet web sites. These linked sites are not under Moody’s control and we are not responsible for the privacy practices or the contents of any linked site.   We provide links only as a convenience, and Moody’s does not endorse, and is not responsible for, the privacy practices or the content of these linked sites.  If you provide any Personal Data through any third-party web site, your transaction will occur on that third party's web site (not the Site) and the Personal Data you provide will be collected by, and controlled by the privacy policy of, that third party.  We recommend that you familiarize yourself with the privacy policies and practices of any such third parties.  PLEASE NOTE THAT THIS POLICY DOES NOT ADDRESS THE PRIVACY OR INFORMATION PRACTICES OF ANY THIRD PARTIES, INCLUDING, WITHOUT LIMITATION, AFFILIATED ENTITIES THAT DO NOT POST OR LINK DIRECTLY TO THIS PRIVACY POLICY.
 
-**Security Measures** ****
+ **Security Measures** ****
 
 Moody's has established reasonable organizational and technical measures to protect Personal Data from loss, misuse, unauthorized access, disclosure, alteration or destruction. Please note that while Moody’s has endeavored to create a secure and reliable Site for users, no site is 100% secure. If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of any account you might have with us has been compromised), please notify us of the problem immediately by contacting us using the information provided below in _"Contact Information for Moody’s"_ (note that if you choose to notify us via physical mail, this will delay the time it takes for us to respond to the problem).
 
-**Data Integrity** ****
+ **Data Integrity** ****
 
-Moody’s will use Personal Data only in ways that are compatible with the purposes for which it was collected, authorized by this Policy, or authorized by you.  Moody’s will take reasonable steps to ensure that Personal Data is relevant to its intended use, and is accurate, complete, and current (as provided by you).   Moody’s depends on you to update or correct your Personal Data whenever necessary.
+Moody’s will use Personal Data only in ways that are compatible with the purposes for which it was collected, authorized by this Policy, or authorized by you.   Moody’s will take reasonable steps to ensure that Personal Data is relevant to its intended use, and is accurate, complete, and current (as provided by you).   Moody’s depends on you to update or correct your Personal Data whenever necessary.
 
-**Retention Period**
+ **Retention Period**
 
 We will retain Personal Data about you for the period reasonably necessary to fulfill the purposes outlined in this Policy and consistent with retention periods required or permitted by law.     ****
 
