@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diamondresorts.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920033402id_/https%3A//www.diamondresorts.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diamondresorts.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516220317id_/https%3A//www.diamondresorts.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -25,14 +25,14 @@ You have the right to request details of certain data we hold about you and to h
 
 When you become a Diamond Resorts International® owner, you provide your name, address, telephone number and e-mail address as part of our registration process to create a unique login name and password. This information is collected on the registration form for several reasons including: (i) personal identification; (ii) to complete reservations, save points, make payments; (iii) to allow us to contact you for customer service, if necessary; and (iv) to customize the content of our site to meet your specific needs. In addition, your e-mail address is collected to send you an e-mail message confirming your new registration and each savings request, payment or reservation you transact online. As a member you will occasionally receive updates from us about discounted availability, special offers, new services and products which may be of interest to you and other noteworthy news items.
 
-This information may be provided by letter, email, telephone or any other reasonable means of communication. If you do not wish to receive such information, please notify us:
+This information may be provided by letter, e-mail, telephone or any other reasonable means of communication. If you do not wish to receive such information, please notify us:
 
-  * In Europe by writing to our Customer Services Department at Citrus House, Caton Road, Lancaster, LA1 3UA, by telephoning our Customer Services Department at 0845 3590010, or by emailing our Customer Services Department at euhsirm@diamondresorts.com.
-  * In the United States by writing to our Customer Service Department at 10600 W. Charleston Blvd, Las Vegas, Nevada 89135, by telephoning 877.374.2582, or by emailing our Customer Services Department at THEClub@diamondresorts.com. 
+  * In Europe by writing to our Customer Services Department at Citrus House, Caton Road, Lancaster, LA1 3UA, by telephoning our Customer Services Department at 0845 3590010, or by e-mailing our Customer Services Department at euhsirm@diamondresorts.com.
+  * In the United States by writing to our Customer Service Department at 10600 W. Charleston Blvd, Las Vegas, Nevada 89135, by telephoning 877.374.2582, or by e-mailing our Customer Services Department at THEClub@diamondresorts.com. 
 
 
 
-Alternatively, you can opt-out of our email communications by ticking the opt-out box at the bottom of the email. 
+Alternatively, you can opt-out of our e-mail communications by ticking the opt-out box at the bottom of the e-mail. 
 
 ### Browser Data
 
