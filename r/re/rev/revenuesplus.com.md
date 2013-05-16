@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the revenuesplus.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230181106id_/http%3A//www.worldprofit.com/policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revenuesplus.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516161339id_/http%3A//www.worldprofit.com/policy.cfm) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Worldprofit Home Business Training
 
 **Our Commitment to Protect Your Personal Information** Worldprofit has been helping  
 businesses online since 1994, longer than any other online business support company. The reason we’re still here is clear: people like what we do for their business and bottom line!
