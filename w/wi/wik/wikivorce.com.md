@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wikivorce.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116003655id_/http%3A//www.wikivorce.com/divorce/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wikivorce.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516202245id_/http%3A//www.wikivorce.com/divorce/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Data Privacy Policy | UK Divorce Support Community
 
@@ -107,7 +107,7 @@ If, having been told that our site uses cookies, and having been directed to our
 
 More detail on how businesses use cookies is available at [www.allaboutcookies.org.](http://www.allaboutcookies.org./)
 
-If you have any queries regarding this Cookie Policy please contact our Privacy Officer by e-mail at [privacy@wikivorce.com.](mailto:privacy@wikivorce.com.)
+If you have any queries regarding this Cookie Policy please contact our Privacy Officer by e-mail at privacy@wikivorce.com.
 
 ## How to Manage Cookies
 
