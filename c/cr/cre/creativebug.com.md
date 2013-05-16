@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the creativebug.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118022521id_/http%3A//www.creativebug.com/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creativebug.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516234454id_/http%3A//www.creativebug.com/site/privacy-policy) for the most accurate reproduction.*
 
-# Creativebug - Privacy Policy
+# Privacy Policy - Creativebug
 
 Creativebug, Inc.  
 www.creativebug.com  
@@ -43,7 +43,7 @@ However, as with email generally, email that you send us is not necessarily secu
 
 ## Sharing your information with third parties
 
-We respect the privacy interests of our registered users. Consequently, as of the Revision Date shown above, Creativebug does not rent, sell or exchange PII to others for marketing purposes without your express, affirmative consent (e.g., by “opting in”). If you do so consent, registered users of the Site who are California residents may request certain information regarding the Company’s disclosure of personal information to third parties for their direct marketing purposes.
+We respect the privacy interests of our registered users. Consequently, as of the Revision Date shown above, Creativebug® does not rent, sell or exchange PII to others for marketing purposes without your express, affirmative consent (e.g., by “opting in”). If you do so consent, registered users of the Site who are California residents may request certain information regarding the Company’s disclosure of personal information to third parties for their direct marketing purposes.
 
 We will share your personal information with our partners and with third-party independent contractors such as unaffiliated service providers, possibly including third parties that reside in jurisdictions with less restrictive data laws than your own jurisdiction, for purposes that include: (i) hosting the Site; (ii) approving and enabling your use of the Site and use or purchase of our Offerings, and performing other functions on our behalf; (iii) providing you with our own service or product offers; and (iv) tracking information generated through the Site. Our partners and third-party independent contractors are obligated contractually not to use or share your personal information for unauthorized purposes. This means we generally restrict access to PII to qualified Creativebug employees and agents with a need to know in order to perform their respective duties. (Our “agents” may include third-party service providers.) However, we share PII only with companies we control that are subject to this Privacy Policy, or with companies whose privacy policies are generally as protective as those described in this Privacy Policy. The Site is designed to transmit a customer’s credit card data via its payment gateway only to the appropriate credit card company and/or credit card payment processing company.
 
