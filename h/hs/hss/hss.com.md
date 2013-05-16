@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the hss.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116000422id_/http%3A//www.hss.com/index.php%3Ff%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hss.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516202349id_/http%3A//www.hss.com/index.php%3Ff%3Dprivacy) for the most accurate reproduction.*
 
 # HSS Hire › Privacy Policy
-
-### Website Privacy Policy
 
 #### Privacy
 
