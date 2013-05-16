@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the varian.com privacy policy that was archived on 2012-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121030091657id_/http%3A//www.varian.com/us/corporate/legal/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the varian.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516102134id_/http%3A//www.varian.com/us/corporate/legal/privacy_statement.html) for the most accurate reproduction.*
 
 # Privacy Statement - Legal Information - Varian
 
 [](http://privacy.truste.com/privacy-seal/Varian-Medical-Systems,-Inc-/validation?rid=381cea78-02a3-48a4-bcb8-58633cd9d7cf "TRUSTe Safe Harbor certification")
 
-##### Effective date: December 5, 2011
+**Effective date: November 5, 2012**
 
-Varian Medical Systems (Varian) is committed to respecting your privacy. As you visit our website, our intent is that your experience is informative, convenient and secure. Because Varian is committed to responsibly managing the personal information provided, we have adopted the following privacy statement to explain our commitment to your privacy. 
+Varian Medical Systems, Inc. (Varian) is committed to respecting your privacy. As you visit our website, our intent is that your experience is informative, convenient and secure. Because Varian is committed to responsibly managing the personal information provided, we have adopted the following privacy statement to explain our commitment to your privacy.
 
 This privacy statement applies to our [www.varian.com](http://www.varian.com/) website, which includes [my.varian.com](http://my.varian.com/). This privacy statement is located on each online webpage where personal information is collected. This privacy statement discloses Varian's practices with respect to the type of information that we gather, the way we use information internally and our policy regarding sharing information with others.
 
@@ -14,7 +14,7 @@ We encourage you to read this privacy statement carefully in order to ensure tha
 
 ### Collection and Use Of Personally Identifiable Information
 
-When you visit our website, we may ask you to provide personally identifiable information (PII). PII means any information that is related to an identified person, or that may be used to identify an individual, including: first and last name, email address, a home, postal or other physical address or phone number. We may also ask you to provide other personal information such as title, birth date, gender, occupation, industry, or personal interests that is necessary or useful to provide a product or service that you have requested. 
+When you visit our website, we may ask you to provide personally identifiable information (PII). PII means any information that is related to an identified person, or that may be used to identify an individual, including: first and last name, email address, a home, postal or other physical address or phone number. We may also ask you to provide other personal information such as title, birth date, gender, occupation, industry, or personal interests that is necessary or useful to provide a product or service that you have requested.
 
 If you chose to make a purchase or sign-up for an on-line service, we may collect additional information such as your credit card information, billing address, and other billing account information.
 
@@ -40,11 +40,11 @@ We collect e-mail addresses that are volunteered by the visitor, from e-mail mes
 
 We use the e-mail addresses for marketing purposes and to inform those interested in our products about events, products, services or other items of interest. Additionally, we use the e-mail addresses to notify visitors about recent updates to our website, to provide product or service news notifications or newsletters, and to confirm registrations or reserved seating at seminars and conferences. We also use the e-mail addresses to process orders for products, services, brochures and other written materials.
 
-You may opt-out of receiving the promotional or marketing e-mails at any time by (1) notifying us at the address specified at the bottom of any unwanted e-mail, (2) specifying your preference at the time of application or (3) changing your e-mail preferences in any user profile that you may have created. These opt-out procedures will not be available for e-mails that are necessary to provide confirmation of a completed transaction (such as a purchase, service request or change in the visitor's user profile) or for e-mails that confirm a visitor's status as a registered user of the Varian website.
+You may opt-out of receiving the promotional or marketing e-mails at any time by (1) clicking on the unsubscribe link located at the bottom of the message, (2) notifying us at the address specified at the bottom of any unwanted e-mail, or (3) changing your e-mail preferences in any user profile that you may have created. These opt-out procedures will not be available for e-mails that are necessary to provide confirmation of a completed transaction (such as a purchase, service request or change in the visitor's user profile) or for e-mails that confirm a visitor's status as a registered user of the Varian website.
 
 ### Other Personally Identifiable Information
 
-We may use a mailing address or phone number that a visitor provides for a variety of Varian-related reasons. We may send periodic mailings to visitors or make telephone calls to inform our visitors who have provided a mailing address or telephone number of new products, services or events. Your mailing address and telephone number may also be used to contact you about orders placed on-line, as a reminder about events for which you have registered, or to provide information that you have requested.
+We may use a mailing address or phone number that a visit;or provides for a variety of Varian-related reasons. We may send periodic mailings to visitors or make telephone calls to inform our visitors who have provided a mailing address or telephone number of new products, services or events. Your mailing address and telephone number may also be used to contact you about orders placed on-line, as a reminder about events for which you have registered, or to provide information that you have requested.
 
 If you do not wish to receive such calls or mailings, you may request to be removed from the contact list by contacting marketing communications at [marcom@varian.com](mailto:marcom@varian.com).
 
@@ -62,7 +62,7 @@ As a good corporate citizen, Varian complies with applicable law and legal oblig
 
 A cookie is an element of data that a website can send to your browser, which may then be stored on your system. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it.
 
-We use session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in you internet browser's "help" file.
+We use session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your internet browser's "help" file.
 
 We use third-party tracking services that use cookies, scripts and other tracking technologies to track non-personal information about visitors to our site in the aggregate.
 
@@ -70,11 +70,11 @@ We do not link the information we store in cookies to any personally identifiabl
 
 ### Advertising
 
-We partner with a third party ad network to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [here](http://preferences.truste.com/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
+We partner with a third party ad network to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking here. Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
 
 ### Security
 
-We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. We suggest that you change your passwords often, that your passwords include a combination of letters and numbers, and that you make certain that you are using a secure browser. Products and services are available which can help give you privacy protection while navigating the Web. See [www.privacyalliance.org/resources/rulesntools.shtml](http://www.privacyalliance.org/resources/rulesntools.shtml) for an overview of many privacy-related tools.
+We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. We suggest that you change your passwords often, that your passwords include a combination of letters and numbers, and that you make certain that you are using a secure browser. When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL). Products and services are available which can help give you privacy protection while navigating the Web. See www.privacyalliance.org/resources/rulesntools.shtml for an overview of many privacy-related tools.
 
 If you have any questions about security on our web site, you can email us at [dataprivacyoffice@varian.com](mailto:dataprivacyoffice@varian.com).
 
@@ -82,7 +82,7 @@ Your Varian X-ray products online store account information is password-protecte
 
 ### Updating Your Personal Profile
 
-If for any reason you wish to correct, update, or delete your personal profile please email us at [dataprivacyoffice@varian.com](mailto:dataprivacyoffice@varian.com). Varian will respond to your request for access within 30 days of receiving your request.
+If for any reason you wish to correct, update, or delete your personal profile please log on to my.varian.com website in order make these changes. In case there is a problem in requesting for correcting, updating or deleting your personal profile via my.varian.com website, send an email to [myvarian@varian.com](mailto:myvarian@varian.com).
 
 ### Data Retention
 
@@ -92,7 +92,7 @@ If you wish that we no longer use your information to provide you services conta
 
 We maintain your personal information on servers and computers located in the United States and operated under our direct supervision and control. If you request information from us which best falls under the expertise of a foreign office, we may forward your contact information to that office so that office may respond to your request directly. Otherwise, we do not forward your personal information outside the United States.
 
-We replicate the Varian.com server daily to Crawley, England. We send back-up tapes of the Varian e-commerce site to Crawley, England on occasions when major changes have been made to the e-commerce site.
+We replicate the Varian.com server daily to Crawley, England. We send back-up tapes of the Varian site to Crawley, England on occasions when major changes have been made to the site.
 
 ### Data Quality
 
@@ -110,21 +110,25 @@ Varian's website may contain links to other sites. When you click on one of thes
 
 When you are on our site, please be aware that we have links to other sites that may have the look and feel of our site. Be aware that you are on a site that is actually controlled by our third party hosting service provider.
 
+### Social Media Features and Widgets:
+
+Our Web site includes Social Media Features, such as the Twitter button and Widgets, such as the Add This button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+
 ### Service Providers
 
-We use third party vendors for different uses such as event registration, applying for a position with us and credit card processing. When you sign up for these services, we will share information such as your PII or sensitive data as necessary for a third party to provide that service. PII collected via these sites are stored on the vendors' system, not at varian.com.
+We use third party vendors for different uses such as web hosting, event registration, applying for a position with us and credit card processing. When you sign up for these services, we will share information such as your PII or sensitive data as necessary for a third party to provide that service. PII collected via these sites are stored on the vendors' system, not at varian.com.
 
 These third parties are prohibited from using your personally identifiable information for any other purpose.
 
-### Participation in Privacy Protection Programs
+Participation in Privacy Protection Programs
 
-Varian has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. Our participation in the TRUSTe Program, and our compliance with its requirements and procedures, is our means of assuring you of our commitment to the protection of the privacy of your personally identifiable information and our participation in the US-EU Safe Harbor Program.
+Varian has been awarded TRUSTe's Privacy Seal signifying that this privacy statement and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions Our participation in the TRUSTe Program, and our compliance with its requirements and procedures, is our means of assuring you of our commitment to the protection of the privacy of your personally identifiable information and our participation in the US-EU Safe Harbor Program.
 
 The TRUSTe program only covers information that is collected through this website, and does not cover information that may be collected through any software downloaded from this website.
 
-If contacting us at [dataprivacyoffice@varian.com](mailto:dataprivacyoffice@varian.com) does not resolve your complaint, you may raise your complaint with TRUSTe by Internet here, or by fax at 415-520-3420 or mail to TRUSTe Safe Harbor Compliance Dept., click for mailing address. If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, click here or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English. For human resources data we have agreed to cooperate with Data Protection Authorities. 
+If contacting us at [dataprivacyoffice@varian.com](mailto:dataprivacyoffice@varian.com) does not resolve your complaint, you may raise your complaint with TRUSTe by Internet here, or by fax at 415-520-3420 or mail to TRUSTe Safe Harbor Compliance Dept., click for mailing address. If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, click here or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English. For human resources data we have agreed to cooperate with Data Protection Authorities.
 
-Varian Medical Systems complies with the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union and Switzerland respectively. Information regarding the both the E.U. and Swiss Safe Harbor Frameworks can be found at: <http://export.gov/safeharbor>
+Varian complies with the U.S. – E.U. Safe Harbor Framework and the U.S. Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Varian has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Varian's certification, please visit <http://www.export.gov/safeharbor/>
 
 ### Testimonials
 
@@ -136,7 +140,7 @@ By using our website, you consent to the collection and use of your information 
 
 ### Oversight And Questions
 
-We welcome comments and questions on this privacy statement. As stated above, we are dedicated to protecting your privacy, and we will make every reasonable effort to keep your information secure. If you have any questions or comments about this policy you can contact us electronically at [dataprivacyoffice@varian.com](mailto:dataprivacyoffice@varian.com) or by telephone (1.650.493.4000). Additionally you may contact us by writing via postal mail at the following address:
+We welcome comments and questions on this privacy statement. As stated above, we are dedicated to protecting your privacy, and we will make every reasonable effort to keep your information secure. If you have any questions or comments about this policy you can contact us electronically at [dataprivacyoffice@varian.com](mailto:dataprivacyoffice@varian.com). Additionally you may contact us by writing via postal mail at the following address:
 
 Varian Medical Systems, Inc.,   
 Attention: Data Privacy Office  
