@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the postcrossing.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126025738id_/http%3A//www.postcrossing.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postcrossing.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516052137id_/http%3A//www.postcrossing.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Postcrossing
+# Privacy Policy
 
 ## Postcrossing Privacy Policy
 
@@ -52,4 +52,4 @@ We can be reached via our [contact form](https://web.archive.org/contact) at any
 
 If you feel that this site is not following its privacy policy, you may contact us using the form above. 
 
-Postcrossing Project © Copyright 2004-2012 by Paulo Magalhães 
+Postcrossing Project © Copyright 2004-2013 by Paulo Magalhães 
