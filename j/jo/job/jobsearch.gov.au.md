@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the jobsearch.gov.au privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225045108id_/http%3A//jobsearch.gov.au/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsearch.gov.au privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516134057id_/http%3A//jobsearch.gov.au/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy - Australian JobSearch
+
+Start of content
 
 This website is managed and maintained by the Department of Education, Employment and Workplace Relations (DEEWR). This privacy statement refers to the handling of personal information by DEEWR.
 
@@ -8,7 +10,7 @@ DEEWR may review and update this privacy statement. Revised versions will be ava
 
 DEEWR must comply with the Privacy Act 1988 (Cth), and specifically the Information Privacy Principles (IPPs) set out in section 14 of that Act. The IPPs describe how Australian Government agencies should collect, use, store and disclose personal information and how individuals can access records containing their personal information. Information on the Privacy Act can be found on the
 
- [Federal Privacy Commissioner’s website](http://www.privacy.gov.au/ "External link. Opens in a new window.").
+ [Federal Privacy Commissioner’s website External link. Opens in a new window. ](http://www.privacy.gov.au/).
 
 ##  How DEEWR uses your personal information
 
@@ -78,7 +80,7 @@ When you visit JobSearch, DEEWR records anonymous information about your visit a
 
 
 
-This information is not specific to you and is used for system administration purposes, as well as statistical analysis. While anonymous information does not tell us anything about you specifically, it tells us about how you use our site. Third party measurement organisations including [Neilsen//NetRatings](http://www.nielsen-netratings.com/ "External link. Opens in a new window.") measure and report this information to DEEWR.
+This information is not specific to you and is used for system administration purposes, as well as statistical analysis. While anonymous information does not tell us anything about you specifically, it tells us about how you use our site. Third party measurement organisations including [Neilsen//NetRatings External link. Opens in a new window. ](http://www.nielsen-netratings.com/) measure and report this information to DEEWR.
 
 ###  Cookies
 
