@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the designpax.com privacy policy that was archived on 2012-10-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121023044318id_/http%3A//www.designpax.com/pages/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the designpax.com privacy policy that was archived on 2013-05-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130516051237id_/http%3A//www.designpax.com/pages/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -224,7 +224,74 @@ prices are fixed and transparent, turnaround time is rapid and every order comes
 <!-- footer scripts -->
 
 
-
+ 	 
+  <script>
+  
+  $(document).ready(function() {
+  	
+	$('#signdraft_block').css('left', '45%');
+	$('#signdraft_block').css('top', '45%');
+	$('.dp_dialog_layer').animate({opacity: 0.7}, 0);
+	
+	$('.close_dialog_icon').click(function() {
+			$('#signdraft_block').toggle();
+			$('.dp_dialog_layer').toggle();
+		});
+		
+		$('.dp_dialog_layer').click(function() {
+			$('#signdraft_block').toggle();
+			$('.dp_dialog_layer').toggle();
+		});
+		
+		$('.send_contactus_form').click(function() {
+			$('#signdraft_block').toggle();
+			$('.dp_dialog_layer').toggle();
+			return false;
+		});
+		
+		$('.submit_capcha').click(function() {
+			$.post('http://www.designpax.com/modules/pages/ajax.php', { ct_captcha: $('#ct_captcha').val() }, function(data) {
+				if(data == 1)
+				{
+					$('#place_your_data_here').html('<input type="hidden" value="1" name="form_human_check" />');
+					$('#partner_form_id').submit();
+				}
+				
+				else 
+				{
+					alert(data);
+					document.getElementById('siimage').src = 'http://www.designpax.com/modules/pages/capcha/securimage_show.php?sid=' + Math.random(); this.blur(); return false;
+					
+				}
+			});
+		});
+		
+  });
+  </script>
+  
+  <div id="signdraft_block" style="font-size:12px;" class="dp_dialog">
+          	<div class="dp_dialog_header"><div class="left" style="margin-left:10px; margin-top:5px;">Capcha</div><div class="right" style="margin-right:10px; margin-top:5px;"><div id="close_faq" class="close_dialog_icon"></div></div></div>
+			<div class="clear"></div>
+         
+            <div style="padding:20px;">
+				
+            	 <p>
+                    <img id="siimage" style="border: 1px solid #000; margin-right: 15px" src="http://www.designpax.com/modules/pages/capcha/securimage_show.php?sid=d606e78c49f1e7d5e09781ea573776fa" alt="CAPTCHA Image" align="left">
+                    <object type="application/x-shockwave-flash" data="http://www.designpax.com/modules/pages/capcha/securimage_play.swf?bgcol=#ffffff&amp;icon_file=./images/audio_icon.png&amp;audio_file=http://www.designpax.com/modules/pages/capcha/securimage_play.php" height="32" width="32">
+                    <param name="movie" value="http://www.designpax.com/modules/pages/capcha/securimage_play.swf?bgcol=#ffffff&amp;icon_file=./images/audio_icon.png&amp;audio_file=./securimage_play.php">
+                    </object>
+                    &nbsp;
+                    <a tabindex="-1" style="border-style: none;" href="#" title="Refresh Image" onclick="document.getElementById('siimage').src = 'http://www.designpax.com/modules/pages/capcha/securimage_show.php?sid=' + Math.random(); this.blur(); return false"><img src="./images/refresh.png" alt="Reload Image" height="32" width="32" onclick="this.blur()" align="bottom" border="0"></a><br>
+                    <strong>Enter Code*:</strong><br>
+                                         <input type="text" name="ct_captcha" id="ct_captcha" size="12" maxlength="8">
+                    <input type="submit" class="submit_capcha" value="Submit">
+                 </p>
+                                
+            </div>
+            
+   </div>
+   
+   <div class="dp_dialog_layer"></div>
 <div id="process_order"></div>
     
     	<div id="ajax_loader">
