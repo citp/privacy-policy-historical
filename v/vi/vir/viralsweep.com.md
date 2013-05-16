@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the viralsweep.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004234639id_/http%3A//viralsweep.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viralsweep.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516033756id_/http%3A//viralsweep.com/privacy) for the most accurate reproduction.*
 
-# ViralSweep | Terms & Conditions
+# Privacy | ViralSweep
 
 ## What information do we collect?
 
