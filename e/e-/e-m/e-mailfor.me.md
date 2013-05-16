@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the e-mailfor.me privacy policy that was archived on 2012-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121113210520id_/http%3A//e-mailfor.me/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e-mailfor.me privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517003400id_/http%3A//e-mailfor.me/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Inbox Ace - Email Toolbar
 
