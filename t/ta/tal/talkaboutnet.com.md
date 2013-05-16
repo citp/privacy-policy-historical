@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the talkaboutnet.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227053152id_/http%3A//www.freeprivacypolicy.org/generic.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talkaboutnet.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516210710id_/http%3A//www.freeprivacypolicy.org/generic.php) for the most accurate reproduction.*
 
 # Generic Privacy Policy
 
 **Generic Privacy Policy**
 
-(last updated March 2012)
+(last updated March 2013)
 
 Websites linking to this page have chosen to adopt this generic privacy policy as their own. This means that they agree to abide by the principles laid out below.
 
