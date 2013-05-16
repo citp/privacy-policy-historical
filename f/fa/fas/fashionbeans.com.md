@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the fashionbeans.com privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114221317id_/http%3A//www.fashionbeans.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashionbeans.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517015113id_/http%3A//www.fashionbeans.com/privacy-policy) for the most accurate reproduction.*
 
 # FashionBeans.com Official Privacy Policy
 
 BeansPublishing Limited. (“We”) are committed to protecting and respecting your privacy. FashionBeans.com is operated and run by BeansPublishing Limited, which is registered in England and Wales with Company No. 7740652 and VAT Registration 939 2582 86.
 
-This privacy policy (together with our website [terms and conditions](http://www.fashionbeans.com/terms-and-conditions/) that apply to your use of our website) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. This Privacy Policy explains our data processing practices and your options regarding the ways in which your personal data is used. If you have any requests concerning your personal information or any queries with regard to our processing please contact us at [privacy@beanspublishing.com](mailto:privacy@beanspublishing.com).
+This privacy policy (together with our website [terms and conditions](http://www.fashionbeans.com/terms-and-conditions/) that apply to your use of our website) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. This Privacy Policy explains our data processing practices and your options regarding the ways in which your personal data is used. If you have any requests concerning your personal information or any queries with regard to our processing please contact us at [here](https://web.archive.org/contact-us/).
 
 For the purpose of the Data Protection Act 1998 (the Act), the data controller is BeansPublishing Limited. of 1 Sterling Court, Loddington, Kettering, Northants, NN14 1RZ.
 
@@ -111,7 +111,7 @@ Where you contribute material to FashionBeans.com, we will generally only keep y
 
 You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes.
 
-You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by [contacting us](mailto:privacy@beanspublishing.com).
+You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by [contacting us](https://web.archive.org/contact-us/).
 
 ###### Access To Information Held About You
 
@@ -139,6 +139,3 @@ Loddington,
 Kettering,  
 Northants,  
 NN14 1RZ
-
- **Email Address**  
-[privacy@beanspublishing.com](mailto:privacy@beanspublishing.com)
