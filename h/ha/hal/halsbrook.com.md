@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the halsbrook.com privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115010437id_/http%3A//www.halsbrook.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the halsbrook.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516235928id_/http%3A//www.halsbrook.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -94,3 +94,11 @@ The Site and our business may change from time to time. As a result, at times it
 To keep your Personal Data accurate, current, and complete, please contact us as specified below. We will take reasonable steps to update or correct Personal Data in our possession that you have previously submitted via this Site. Please also feel free to contact us if you have any questions about Halsbrook’s Privacy Policy or the information practices of this Site.
 
 You may contact us as follows: customersupport@halsbrook.com
+
+## Refer A Friend
+
+When you invite a friend to Halsbrook, you both can share in the rewards!
+
+Offer Valid from March 20, 2013 to August 31, 2013. Earned credits expire within 6 months of date of issue.
+
+### Earning Credits:
