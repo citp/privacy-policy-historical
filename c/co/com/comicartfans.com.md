@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comicartfans.com privacy policy that was archived on 2012-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120930011343id_/http%3A//www.comicartfans.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comicartfans.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516142404id_/http%3A//www.comicartfans.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # Comicartfans :: Privacy Policy
 
@@ -10,43 +10,28 @@ We will never, under any circumstance, provide your information to another party
 
 Periodically we may contact you with promotions or services we feel might be of interest to you. 
 
-**Personal Information**
+## Personal Information
 
   * ComicArtFans.com uses cookies and other technologies to enhance your online experience and to learn about how you use ComicArtFans.com services in order to improve the quality of our services. 
 
 
 
-**Uses**
+## **Uses**
+
+ **
 
   * We may use personal information to provide the services you've requested, including services that display customized content and advertising. 
   * We may also use personal information for auditing, research and analysis to operate and improve ComicArtFans.com technologies and services. 
 
 
 
-**Your Choices**
+## Your Choices
 
   * You may refuse cookies in your browser, although some of our features or services may not function properly as a result. 
   * We make good faith efforts to provide you access to your personal information upon request and to let you correct such data if it is inaccurate and delete it, when reasonably possible. 
 
 
 
-If you have any questions or concerns about our Privacy Policy please [Contact Us](https://web.archive.org/web/20120930011343id_/http%3A//www.comicartfans.com/contact.asp). 
+If you have any questions or concerns about our Privacy Policy please [Contact Us](https://web.archive.org/web/20130516142404id_/http%3A//www.comicartfans.com/contact.asp). 
 
-  
-| 
-
-  * All
-  * Watched
-
-
-
-  
-You must be a premium member of Comicartfans to have watched galleries. 
-
-To find out more about this exciting program, please read our [FAQ](https://web.archive.org/site-faq.asp)! 
-
-
-
-
-  
-
+**
