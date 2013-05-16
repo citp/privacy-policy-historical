@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boattrader.com privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127123927id_/http%3A//www.dominionenterprises.com/main/do/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boattrader.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516053115id_/http%3A//www.dominionenterprises.com/main/do/Privacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy - Dominion Enterprises
 
