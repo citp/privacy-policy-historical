@@ -1,98 +1,92 @@
-> *The following text is extracted and transformed from the nbcunicareers.com privacy policy that was archived on 2008-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080827234235id_/http%3A//nbcuni.com/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbcunicareers.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516203616id_/http%3A//nbcuni.com/Privacy_Policy) for the most accurate reproduction.*
 
-# NBC Universal > Privacy Policy
+# Privacy Policy | NBCUniversal
 
-**This Privacy Policy was last updated on 03/06/2007.**   
-**Introduction:** These websites which are located at the domain nbcuni.com (the "Site") are operated by NBC Universal. ("NBC Universal" or “we” or “our” or “us”).   Your privacy is important to us.  This Privacy Policy describes the types of information collected from you, what we do with it, with whom we share it, and how you can correct or change such information.  It is your responsibility to review this Privacy Policy carefully, especially before providing any personal data through the Site.  This Site is operated in and controlled from the United States of America.   If you have any questions about this Privacy Policy or Site, or if you wish to unsubscribe from Site services for which you have previously registered, please contact us at NBCUniPrivacy@nbcuni.com or at the address at the end of this policy.
+**NBCUniversal’s Privacy Principles**
 
-**PLEASE REVIEW THIS PRIVACY POLICY AND THE TERMS OF SERVICE FOR THE SITE CAREFULLY.   YOUR USE OF THIS SITE SIGNIFIES YOUR AGREEMENT TO SUCH PRIVACY POLICY AND TERMS OF SERVICE.**
+At NBCUniversal we take seriously our privacy obligations. We respect the privacy concerns of those that we deal with and value the relationships that we have. We know that protecting and respecting the privacy rights of everyone we work with is critical to our success. That is true irrespective of whether that information is protected by local privacy laws or not, and whether collected online or offline. Below we set out the principles which underlie our approach to privacy across all of our businesses. Of course we are committed to handling personal information in compliance with the specific provisions of applicable privacy laws worldwide where those exist.
 
-**1.Types of Information Collected  
-·  Personal Data  
-·  Aggregate and Anonymous Data   
-2\. Use of Cookies and Other Technologies  
-3\. Our Use of Your Information  
-4\. Disclosure of Personal Data to Third Parties  
-· Disclosure to Affiliates  
-· Disclosure to Third Parties  
-· Disclosure to Others  
-5\. Third Party Advertising and Links to Other Sites  
-6\. Your Choice  
-7\. Access and Correction  
-8\. Children and Privacy  
-9\. Message Boards, Chat Rooms, Blogs and Other User Forums  
-10\. Data Security  
-11\. Exclusions  
-12\. Other Terms and Conditions  
-13\. Site Location  
-14\. Changes to this Privacy Policy  
-15\. Contacting NBC Universal Regarding Your Privacy**
+Throughout this document:
 
-**1\. Types of Information Collected:**  
-**Personal Data:   **Personally Identifiable Information (“Personal Data”) is any information that can be used to identify a specific individual, such as your name, email address, home address, phone number and credit card information.  This Site collects Personal Data when you interact with the Site for example when you subscribe for newsletters; register for membership services such as chat rooms or message boards; participate in chat rooms, blogs or other user forums; respond to polls or surveys; purchase merchandise via the Site; register for sweepstakes, contests and other promotional opportunities; or seek help from our customer service departments.  We also may collect information when you purchase products or services offline, or register for wireless services via your cellphone or other wireless devices (”Other Services”).  Because providing detailed information regarding our privacy policy when you register or provide information in connection with these Other Services often proves impractical, you may instead be provided with a short notice that reminds you to refer to this Privacy Policy and other relevant information from us.  We may also obtain Personal Data from reputable third parties, such as credit agencies.
+o “personal information” means all information relating to an identifiable person (even if you don’t know that the name of that person)
 
-**Aggregate and Anonymous Data:**   Aggregate and anonymous data is information that does not identify you specifically including data collected automatically through the operation of the Site (“AA Data”).  We may collect site usage data (such as which Site pages you visit and in what sequence) through the use of various technologies.  For example, we collect IP addresses from individuals who visit the Site.  An IP address is a number that is automatically assigned to your computer whenever you're surfing the Web.  Web servers, the computers that "serve up" Web pages, automatically identify your computer by its IP address, and when you request a page from a website, its servers log your IP address.  We do not link IP addresses to any Personal Data, so although your session will be logged, you will remain anonymous to us and the Site.  We may also collect password information from you when you log in, as well as computer and connection information such as browser type or version.  During some visits, we may use software tools, such as Javascript, to measure and collect session information, including page response times, download errors, time spent on certain pages, page interaction information, and methods used to browse away from the page.
+o “processed” means collecting, handling, storing, sharing, using, transferring and disposing of personal information.
 
-**2\. Use of Cookies and Similar Technologies:**  
-Like many sites, we use "cookies" or other similar technologies to collect AA Data.  A cookie is a small data file that writes to your hard drive for record keeping purposes when you visit the Site.  Cookies allow the Site to measure traffic activity on the Site and to improve your user experience, for example by remembering your passwords and viewing preferences, allowing you to visit “member only” portions of the Site without re-registering, and tracking the progress and number of entries in activities that require registration or entry, such as sweepstakes. Similarly, if you have asked us to send you information about upcoming products and promotions, using cookies we collect information about which Site pages you have visited and in what order (“Clickstream Data”) that may allow us to narrow or limit the materials provided to you based on your prior online activities or preferences.   Most browsers are initially set to accept cookies.  If you prefer, you can set your browser to refuse cookies or to alert you when cookies are being sent, but it is possible that some parts of the Site will not function properly if you do so.
+**Our Privacy Principles**
 
-In addition, we may use a service that collects data remotely by using so-called “pixel tags,” “web beacons,” “clear GIFs” or similar means (collectively, “Pixel Tags”) embedded in the Site’s content.  A Pixel Tag is an electronic image, often a single pixel (1x1), that is ordinarily not visible to Site visitors and may be associated with cookies on the visitors’ hard drives.   This information is AA data.
+**1.** **Integrity, Fairness & Lawfulness – Personal information will be processed fairly and lawfully**
 
-**3\. Our Use of Your Data:**  
-**Personal Data:**   We will use your Personal Data for the purposes for which it was provided.  For example, if you provide Personal Data to register for a newsletter or a text messaging service, to enter a contest or a sweepstake, or to purchase goods or services, we will use it to register you for or provide you with those goods or services.   We may also use your Personal Data to provide you with information about features, services and other offerings that may be of interest to you.  We also may send information or offers to selected groups of Site users on behalf of other businesses.  When we do this, we do not give those businesses your name or address.  Under certain circumstances (for example if you win a contest) we may post your Personal Data on the Site.  We will notify you of this possibility when you provide the Personal Data and, if possible, when the Personal Data is posted.
+  * We will only collect and use personal information where we have lawful grounds and a legitimate business reason for doing so – in general, we collect, store and use your information to provide you with a safe, smooth, efficient and customized experience on our websites. However, sometimes we need to collect and use your personal information to enable us to prevent fraud or potentially unlawful activities (including copyright infringement)
+  * We will be transparent in our dealings with people as to what information about them we will collect and how we will use it. As such each of our websites contains its own Privacy Policy explaining what personal information may be collected on that site, how it will be used, how it will be protected and what choices and rights you have in relation to your information.
 
-Cookies and similar tools may be used to relate your use of the Site and AA Data to Personal Data obtained from you.  If any AA Data is linked with Personal Data, the linked AA Data will then be treated as Personal Data.
 
-**AA Data:**   We may also use Personal Data in aggregate form for purposes of research or analysis.  In order to better understand and serve the users of the Site and Other Services, NBC Universal often conducts research on its customer demographics, interests and behavior based on Personal Data we gather.  Although this aggregated data may be based in part on Personal Data, it does not identify you personally.  NBC Universal may share this type of AA Data with a variety of third parties, including its affiliates, agents, and current and prospective business partners.
 
-We may use AA Data collected from the Site for site administration, advertising and promotional purposes, and we may share such information with various affiliated and unaffiliated entities for such purposes.  For example, IP addresses are used for the purposes of system administration and to provide AA Data to advertisers about the volume of use on the Site, and Clickstream Data and demographic AA Data may be shared with our advertisers and business partners.  We may also enter into agreements with outside companies that possess technology that allows the Site to customize the advertising and marketing messages you receive on the Site.  This data (including Clickstream Data about your activities on our Site) may be shared with these companies for this purpose.
+**2.** **Purpose Limitation** **-** **Personal Information will only be used for the purposes for which it was originally collected and about which the individual was informed**
 
-**4\. Disclosure of Personal Data:**  
-**Disclosure to Affiliates:**     We reserve the right to share Personal Data with our affiliates.  If you do not want us to share your Personal Data with our affiliated companies for their marketing purposes, you may opt-out of such sharing by contacting us at NBCUniPrivacy@nbcuni.com (see “Your Choices” below).
+  * This means if we collected information for a specific purpose then we will only use it for that purpose until the individuals concerned have been informed of any new intended use and, where required, their permission obtained. Where relevant, we will provide clear information on the choices available and the means to exercise those choices.
 
-**Disclosure to Third Parties:**   NBC Universal, like many businesses, sometimes hires other companies to perform certain business-related functions on our behalf such as hosting specific portions of the Site, maintaining databases, administering contests, providing wireless services, mailing information and processing payments.  When we employ a third party to perform these functions, that third party will only be provided with the particular Personal Data it needs to perform its function, and is required to protect the Personal Data.  For third-party sponsored sweepstakes, contests or promotions, we may request Personal Data from you that may be shared with the sponsor upon request. 
 
-**Disclosure to Others:**   In addition, we may disclose Personal Data without providing you with a choice under the following limited circumstances to:  (1)  protect the legal rights, privacy or safety of NBC Universal  or its subsidiaries, affiliates or its or their employees, agents and contractors; (2)  protect the safety and security of visitors to our web sites or other properties; (3)  protect against fraud or other illegal activity or for risk management purposes; (4) respond to inquiries or requests from public authorities; (5) permit us to pursue available remedies or limit the damages that we may sustain; (6) enforce our Terms of Service; or (7)  comply with the law or legal process.
 
-If NBC Universal sells all or part of this Site or makes a sale or transfer of assets or is otherwise involved in a merger or business transfer, we may, in our sole discretion, transfer, sell or assign your Personal Data to a third party as part of or in connection with that transaction.  Upon such transfer, the Privacy Policy of the acquiring entity may govern the further use of your Personal Data.
+**3.** **Data minimisation** **–** **We will only process personal information that is adequate, relevant and not excessive**
 
-**5\. Third-Party Advertising and Links to Other Sites:**  
-This Site may include third-party advertising.  These third parties’ websites and advertisers, or the Internet advertising companies that work on their behalf, may use technology to send (or “serve”) the advertisements that appear on our Site directly to your browser.  They automatically receive your IP address when this happens.  They may also use cookies, Javascript, Pixel Tags and other technologies to deliver advertisements, collect information about the effectiveness of their advertisements, and to collect anonymous information about your visits to the Site, such as the number of times you have viewed an ad (but not your name, address, or other Personal Data).  For more information about these specialized cookies and other technologies, and how to "opt out" of information collection by these companies, we suggest you visit [http://doubleclick.net/privacy_policy or http://networkadvertising.org/optout_nonppii.asp.](http://doubleclick.net/privacy_policy%20or%20%20http://networkadvertising.org/optout_nonppii.asp.)
+  * We will use anonymous data (i.e. where no individual is identifiable) or aggregated information (i.e. summarised so as not to be identifiable to an individual) instead of personal information wherever possible
+  * We will not ask for more information than we need. We will make it clear which information it is mandatory for someone to provide and that which is optional.
 
-Please note that this Site contains links to other sites that will not follow the same Privacy Policy as our Site.  For instance, clicking on an advertisement or on links or other elements on the Site may take you to an entirely different site.  Links to other sites may use our Site logo or style as a result of a co-branding agreement.  These sites may send their own cookies to you and may collect data and make use of that data in ways that this Site would not.  Once you've left this Site, this Privacy Policy will no longer apply to Personal Data or any other data collected from or provided by you.  You should check the applicable privacy policy to determine how that site will handle such data.
 
-**6\. Your Choices:**  
-You can use the Site and certain Other Services without providing any Personal Data, but if you decline to provide Personal Data, you may not be able to use certain services or features.  If you have previously provided Personal Data to the Site and have subscribed to one or more email newsletters or are receiving emails or other communications from the Site and you do not want to receive such emails, please discontinue your subscriptions by selecting the "unsubscribe" link at the bottom of any message, visiting the [Unsubscribe ](http://nbcuni.com/Newsletter/unsubscribe/) section of the Site or contacting us at:  NBCUniPrivacy@nbcuni.com. You may opt-out of receiving offers from us by adjusting your Site preferences at our [Unsubscribe](http://nbcuni.com/Newsletter/unsubscribe/) link on this page. If you ask that we stop using your Personal Data, we will honor that request.  However we will retain records of your Personal Data as needed in order to comply with applicable federal, state, or local law.
 
-                **[Unsubscribe](http://nbcuni.com/Newsletter/unsubscribe/)**
+**4.** **Accuracy** **–** **We will ensure that the personal information we keep is up to date and accurate**
 
-**7\. Access and Correction:**  
-If you would like to review, correct or change the Personal Data that you have previously provided us, please go to the [Unsubscribe](http://nbcuni.com/Newsletter/unsubscribe/) section  of the Site and follow the appropriate instructions or contact us at [NBCUniPrivacy@nbcuni.com](mailto:NBCUniPrivacy@nbcuni.com). We will take reasonable steps to update or correct Personal Data in our possession.
+  * We will tell people where and how to contact us to review and update their information
+  * We will update our records when an individual informs us that their details have changed or are inaccurate
 
-**8\. Children and Privacy:**  
-We encourage parents and guardians to spend time with their children online and to be fully familiar with the sites visited by their children.  At various places on the Site or Other Services, we may ask users for their age.  By using the Site or Other Services you agree to respond truthfully and accurately about your age.  Children under the age of 13 years of age are expressly prohibited from submitting or posting any Personal Data on the Site or Other Services.
 
-**9\. Message Boards, Chat Rooms, Blogs and Other User Forums:**  
-Please remember that information posted to message boards, chat rooms, blogs and other user forums becomes public information.  Use caution when posting.  Individuals under the age of 18 should be especially careful not to provide any personally identifiable information when participating in any area of the Site where postings might become public.  Please see our Terms of Service for the standards of behavior that must be followed when using these portions of the Site or Other Services.
 
-**10\. Data Security Disclaimer:** **  
-** NBC Universal ** ** takes reasonable security precautions to secure the Personal Data that you choose to provide against the loss, misuse, alteration or unauthorized access of such information.  Unfortunately, no transmission of data over the Internet is guaranteed to be completely secure.  It may be possible for third parties not under the control of NBC Universal to intercept or access transmissions or private communications unlawfully.  While we strive to protect your Personal Data, we cannot ensure or warrant the security of any Personal Data you transmit to us.  Any such transmission is done at your own risk.  If you believe that your interaction with us is no longer secure, please notify us of the problem by contacting us at NBCUniPrivacy@nbcuni.com.
+**5.** **Retention** **–** **We will only keep personal information for as long as necessary for the purposes for which it was originally collected**
 
-**11\. Exclusions:** **  
-** This Privacy Policy shall not apply to any unsolicited information you provide to NBC Universal on or through this Site or Other Services.  Please see our Terms of Service for our policies regarding such Unsolicited Information.  All such Unsolicited Information shall be deemed to be non-confidential, and NBC Universal shall be free to reproduce, use, disclose and distribute such Unsolicited Information to others without limitation or attribution.
+  * We will implement records retention policies for personal information
+  * We will ensure that personal information is securely disposed of at the end of the appropriate retention period
 
-**12\. Other Terms and Conditions:** **  
-** Your access to and use of this Site or Other Services is subject to the Terms of Service.
 
-**13\. Applicable Law:**  
-We control and operate this Site from the United States.  The Site is not intended to subject us to the laws or jurisdiction of any state, country or territory other than that of the United States.  Please note that we do not represent or warrant that the Site is appropriate for use in any particular jurisdiction.  Those who choose to access the Site do so at their own initiative and are responsible for complying with all local laws, rules and regulations.
 
-**14\. Changes to this Privacy Policy:** **  
-** From time to time, we may revise this Privacy Policy to reflect industry initiatives, changes in the law or technology, or changes in our practices regarding information collection and use.  If we make revisions to the way we collect or use Personal Data, we may provide notice of those changes by either:  (1) announcing the change on the home page of the Site or (2) taking such other action as we deem appropriate under the circumstances, including without limitation, posting the revised draft of this Privacy Policy on the Site.  You can determine when this Privacy Policy was last revised by referring to the “Last Updated” legend at the top of this page.  Any changes to this policy will become effective upon posting of the revised Privacy Policy on the Internet, accessible through the Site.  By continuing to use the Site following such changes, you will be deemed to have agreed to such changes.  If you do not agree with the terms of this Privacy Policy, as it may be amended from time to time, in whole or in part, please do not continue using this Site.
+**6.** **Rights of Individuals** **–** **We will observe the rights afforded to individuals under their local laws, which may include:**
 
-**15\. Contacting NBC Universal Regarding Your Privacy:**  
-If you have any questions about this Privacy Policy, Personal Data gathered by this Site or Other Services, or about the operation of this Site or Other Services, or if you wish to unsubscribe from the Site or Other Services, please contact us at [NBCUniPrivacy@nbcuni.com](mailto:NBCUniPrivacy@nbcuni.com), or at the address listed below. 
+The right to:
 
-NBCUNI.COM FEEDBACK  
-100 Universal City Plaza  
-Universal City, CA 91608
+  * opt-out of receiving marketing communications from NBCUniversal entities
+  * have inaccurate information corrected
+  * have access to the information held about them
+  * prevent processing that is likely to cause damage or distress
+  * opt-out of information being shared with third-parties
+  * be informed of how automated decisions have been made
+
+
+
+**7.** **Security** **–** **We will ensure we have appropriate measures in place to protect personal information from accidental/unauthorised access, disclosure, theft, damage, loss, alteration etc**
+
+We will:
+
+  * train staff on their privacy obligations
+  * implement appropriate physical and technical security measures to protect personal information whether it is on or off-site.
+  * protect personal information when it is transferred from one place, or one party, to another
+  * vet third parties before they process any personal data on our behalf and ensure that they have equivalent mechanisms to ours to protect personal information
+  * limit access to personal information to those individuals who have a genuine business need to see it.
+
+
+
+**8.** **Information transfers** **–** **We will ensure that suitable safeguards are in place before personal information is transferred cross-border or to third parties**
+
+We will ensure that any personal information which we are responsible for will be adequately protected in the hands of a third party and/or in the country of destination when transferred across borders
+
+**9.** **Additional Safeguards** ****
+
+Whilst we will strive to protect all personal information we are responsible for there may be situations where employees or service providers fall short of our expectations or outside influences mean that we cannot meet these high standards we have set ourselves. In those situations we will:
+
+  * Take steps to investigate the issue and implement steps to mitigate any loss, damages or distress to individuals
+  * Notify impacted individuals where it is prudent to do so (or where required to do so by local laws, regulation or custom)
+  * Notify relevant regulators and authorities as required
+  * Take appropriate action against those responsible
+  * Once the issue has been resolved, ensure any remedial action is taken to prevent a recurrence of the incident
+
+
+
+If you have any questions about our Privacy Principles please contact the NBCUniversal Chief Privacy Officer at [privacyhelp@nbcuni.com](mailto:privacyhelp@nbcuni.com).
