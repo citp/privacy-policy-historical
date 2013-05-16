@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the littleblackbag.com privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119013317id_/http%3A//www.littleblackbag.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the littleblackbag.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516070207id_/http%3A//www.littleblackbag.com/privacy) for the most accurate reproduction.*
 
-# Little Black Bag | Privacy
+# Little Black Bag | Privacy | Social Shopping - Social Commerce - Beauty Box - Glam Bag
 
 Effective Date: January 17, 2012
 
@@ -102,11 +102,11 @@ The Website is hosted in the United States and is intended for and directed to M
 
 We provide you the ability to exercise certain controls and choices regarding our collection, use and sharing of your information. In accordance with local law, your controls and choices are set forth below.
 
-Personal InformationYou may update or correctyour Personal Information by using your account settings. You may request that LBB remove other Personal Information from the current Website by contacting us at [help@littleblackbag.com](mailto:help@littleblackbag.com) with the understanding that LBB may maintain an archive of the information you request to be removed from the Website. You may also change your account preferences on the Website, including whether you wish to receive offers and promotions. 
+Personal InformationYou may update or correctyour Personal Information by using your account settings. You may request that LBB remove other Personal Information from the current Website by contacting us at [support@littleblackbag.com](mailto:support@littleblackbag.com) with the understanding that LBB may maintain an archive of the information you request to be removed from the Website. You may also change your account preferences on the Website, including whether you wish to receive offers and promotions. 
 
 To protect your privacy and security, we take reasonable steps (such as requesting a password) to verify your identity before granting you profile access or making corrections. You are responsible for maintaining the secrecy of your password and account information at all times. Certain features on our Website may allow you to share your information with others by publicly posting that information on the Website and/or sharing that information by other external communication methods including (without limitation) email, Facebook or Twitter. You are responsible for what information, if any, you choose to share by external communication methods. To the extent that you choose to share any such information by or through external communication methods, it is no longer considered Personal Information and is not covered by this Privacy Policy.
 
-You may exercise your controls and choices, request access to your Personal Information, or send any questions you have regarding the specific Personal Information about you that we process or retain, by contacting us at [help@littleblackbag.com](mailto:help@littleblackbag.com) or 10951 West Pico Blvd, Suite 120, Los Angeles, CA 90064 or following instructions provided in communications sent to you by LBB.
+You may exercise your controls and choices, request access to your Personal Information, or send any questions you have regarding the specific Personal Information about you that we process or retain, by contacting us at [support@littleblackbag.com](mailto:support@littleblackbag.com) or 10951 West Pico Blvd, Suite 120, Los Angeles, CA 90064 or following instructions provided in communications sent to you by LBB.
 
 **Our Commitment To Data Security**
 
@@ -134,4 +134,4 @@ From time to time, we may change this Privacy Policy to accommodate new technolo
 
 **Contact Information**
 
-Please contact us at [help@littleblackbag.com](mailto:help@littleblackbag.com) or 10951 West Pico Blvd, Suite 120, Los Angeles, CA 90064 with any questions or comments about this Privacy Policy or the Website.
+Please contact us at [support@littleblackbag.com](mailto:support@littleblackbag.com) or 10951 West Pico Blvd, Suite 120, Los Angeles, CA 90064 with any questions or comments about this Privacy Policy or the Website.
