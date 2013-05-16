@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mycellphonereviews.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230105420id_/http%3A//mycellphonereviews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycellphonereviews.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516043958id_/http%3A//mycellphonereviews.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | My Cell Phone Reviews
+# Privacy Policy - Cell Phone Reviews: mobile phone reviews, smartphone reviews, mobile phones
 
-If you require any more information or have any questions about our privacy policy, please feel free to [Contact Us](http://mycellphonereviews.com/contact-us "Contact Us")
+If you require any more information or have any questions about our privacy policy, please feel free to [Contact Us](http://mycellphonereviews.com/contact-us/ "Contact Us")
 
 At mycellphonereviews.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by mycellphonereviews.com and how it is used.
 
