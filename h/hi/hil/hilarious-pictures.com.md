@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hilarious-pictures.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116012027id_/http%3A//www.hilarious-pictures.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hilarious-pictures.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516212231id_/http%3A//www.hilarious-pictures.com/privacy-policy) for the most accurate reproduction.*
 
-# Hilarious Pictures | Daily updated site with the funniest and most hilarious pictures
+# Hilarious Pictures
 
 Hilarious-Pictures.com understands the importance of privacy and is committed to protecting the privacy of your personal information. This Privacy Policy explains how Hilarious-Pictures.com collects and uses your personal information.
 
