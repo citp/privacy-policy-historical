@@ -1,55 +1,94 @@
-> *The following text is extracted and transformed from the blogged.com privacy policy that was archived on 2012-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120302101624id_/http%3A//www.blogged.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogged.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516040609id_/http%3A//chime.in/about/privacy) for the most accurate reproduction.*
 
-# Blogged.com - Privacy Policy
+# Privacy Policy | Chime.In
 
-(Last modified on 1/24/2008) 
+UberMedia is committed to protecting the privacy of your information. This Privacy Policy describes how we collect, store and use information from and about users of our websites, including www.ubermedia.com, www.chime.in, www.ubersocial.com, and www.echofon.com (the “Sites”), and any services or software available or enabled via the Sites (“Services”). This Privacy Policy is subject to our [Universal Terms](http://ubermedia.com/all-terms/terms). By using our Sites or Services, you expressly consent to UberMedia’s collection, storage, use and disclosure of your information as described in this Privacy Policy. If you disagree with anything in this Privacy Policy, you may not use the Sites or the Services. 
 
-We are committed to protecting the privacy and security of the users of our sites. This privacy policy is designed to help you understand how we collect, use and protect the personal information you choose to share when using our sites, and what choices you have concerning our use of such information. 
+## INFORMATION COLLECTED
 
-By using or accessing our sites, you are accepting the practices described in this privacy policy. Please read it carefully. 
+  1. **_Automatic Collection:_ ** Like most other websites, we use common internet technologies such as _cookies_ and _Web beacons_ to keep track of users’ interactions with the Sites and the Services. This may include your _internet protocol (IP) address, referring website addresses, browser type and access times._ A glossary that explains each of these italicized terms is included at the end of this Privacy Policy. If you use the Services, we may also collect data related to your use of the application and the device on which the application is loaded. 
+  2. **_Volunteered:_ ** If you register with us, fill out a profile page, purchase products or services, send us an email, or share personal information with us in any other way, we will collect and store whatever information you share. This obviously depends on what information you choose to provide but it may include your name, email address, credit card information or other billing information. You do not have to share this information with us, but without it you may not be able to access certain content or features or participate in certain areas of the Sites or Services. 
+  3. **_Publicly Posted:_ ** If you post information on any public areas of the Sites (or elsewhere on the internet), that information may be collected, stored and used by anyone, including us. (We strongly recommend that you do not post any information that allows strangers to identify or locate you. Posting such information may result in unsolicited messages or contact from others, to say the least.) 
+  4. **_Use of Social Media Applications:_ ** The Services utilize certain APIs, “feeds” or other mechanisms provided by third parties, including Twitter or Facebook as applicable (“Third Party Apps”), to access your accounts as authorized by you during your use of the Services and to display Content (as defined in our Terms) on your desktop or mobile device. The Third Party Apps work within the privacy settings of the account holders for such third party services and do not access Content, data or information not authorized by those privacy settings. Please refer to the privacy settings in your account to manage your public profile and other aspects of your account. 
+  5. **_Mobile Location Information:_ ** If you have activated a mobile application and permitted your mobile or other location-aware device to transmit location data, we will collect and store information related to your mobile device location to help provide a better experience with our Services. Some functional use of the Services may be dependent on the data related to your geographic location and geopositional data. If the settings on your location-aware device allow us to receive location information, we may also associate location information with other information we have about you. 
 
-From time to time, we may need to change this privacy policy in order to address new issues and reflect changes on our sites. We will post those changes here so that you will always know what types of information we collect, how we might use that information, and whether we will disclose that information to anyone else. Please refer back to this policy regularly. 
 
-If you have any questions or concerns about our privacy policy or practices, please e-mail us at: [support@blogged.com](mailto:support@blogged.com). 
 
-This privacy policy applies to your use of all of the sites and services owned or operated by Blogged.com, and affiliated companies (collectively "Blogged" or "we," "us," or "our"), including www.blogged.com and any other site that we own or operate (collectively, the "Blogged Sites"). Unless we say otherwise, all references to the Blogged Sites in this policy include all such sites. 
+## HOW DO WE USE THE INFORMATION WE COLLECT?
 
-Please note, however, that this policy does not apply to your use of unaffiliated sites that you may access through links provided on the Blogged Sites. 
+The short answer is that we use information to help us provide you with better experience with the Sites and Services. It also helps our advertisers and partners provide you with more relevant offers. Among other things, the information we collect enables UberMedia to:
 
-When you use the Blogged Sites, you provide us with two types of information: personal information you choose to share and non-personal information we gather as you interact with the Blogged Sites.
+  * customize the advertising and content you see
+  * fulfill your requests for products and services and validate your user rights
+  * improve the Sites and Services
+  * contact and communicate with you
+  * conduct research and analysis
+  * provide anonymous reporting for internal and external clients
+  * provide you with additional information we think is of interest to you
 
-_Personal Information_ : When you register with the Blogged Sites, you provide us with certain personal information, such as your name, account password and email address. We will only use such information for the purposes for which it was requested, such as for site administration, to protect your account from unauthorized access, and to contact you when necessary.
 
-On a voluntary basis, you may choose to share additional personal information when using the Blogged Sites, such as by customizing your profile, adding a photo, posting reviews or comments, sending messages and performing searches. Please remember that any such personal information you disclose in this way becomes public information to the extent you choose to allow other users access to it. You should exercise caution when deciding whether and what types of information you wish to disclose. All such sharing of information is done at your own risk. We collect and retain this personal information or profile data so that you can utilize the unique personalized features of the Blogged Sites. We may also use such information or data to understand how our users as a group utilize the services and resources provided on the Site, to track the demographics of our users and to collaborate with partners and advertisers. In the event, such information is disclosed to partners and advertisers it will only be in the form of aggregate data which does not describe or identify any individual user. 
 
-When you register with Blogged, you create your own profile and privacy settings. Your profile information, as well as your name, email and photo, are displayed to people in the networks specified in your settings to enable you to connect with others on Blogged. From time to time, we may use your name and email address to send you notifications regarding updates or new services offered by Blogged that we think you may find valuable.
+## WHEN DO WE SHARE OR DISCLOSE YOUR INFORMATION?
 
-If you send the Blogged Sites an electronic mail transmission, the email transmission is not necessarily secure and is not encrypted. Accordingly, email transmissions are not necessarily protected from unauthorized access. Transmission of email is at your own risk. We cannot accept responsibility for your transmission of personal information or any obligation with respect to that information not submitted over the secure server.
+  * **Anonymous Information.** Anonymous information is information that does not identify you personally, like your IP address and referring website addresses. We may share anonymous information with others, such as advertisers, sponsors and business partners. 
+  * **All Information (Both Anonymous and Personally Identifiable).** In certain circumstances, we may share any or all information we have collected, including personally identifiable information. For example: 
 
-The Blogged Sites allow its users to change or correct personal information previously provided. Please note, however, that even after modification or removal, residual copies of such information may remain on back-up media and may still be viewable in cached and archived pages or if other users have copied or stored the information.
 
-We will not sell, rent, swap, share or otherwise disclose your personal information to third parties for commercial purposes, with the exception of the following: If Blogged enters into a joint venture with or is sold to or merged with another business entity, we may disclose and/or transfer your personal information to our business partners or new owners. Under these limited circumstances, your information may be sold as part of Blogged's assets and for the purpose of allowing the new owner to continue Blogged's operations. In any such transfer of information, your information would remain subject to the promises made in any pre-existing privacy policy.
+  * We might share your personally identifiable information during due diligence or in preparation for or after a sale, merger, consolidation, change in control, transfer of substantial assets, reorganization or liquidation.
+  * If you give us permission, we may share your personally identifiable information with third parties who might send you marketing and promotional information.
+  * Your personal information may be transferred to anyone who is helping us make the Sites and Services available and functional, like technical agents, payment processing vendors, other subcontractors, and our affiliates and consultants.
+  * As in any transaction, if you provide your credit card information to us for purchases, your credit card company will be provided with all relevant information about us, item(s) purchased, cost and other information necessary to process the transaction.
+  * We may disclose your personal information if permitted or required by law or where we believe such action is necessary in order to protect or defend our interests or the interests of our users or business partners.
 
-We may disclose your personal information to third parties if required to do so to comply with legal process or requirements, or to protect the rights, property or personal safety of others, including in the interests of fraud detection and prevention and credit risk reduction or abuses of the Blogged service.
 
-If we propose to use personal information for any purposes and in a manner different than those described in this policy, then we will ask for your consent prior to such use and give you an opportunity to opt out of such use for those other purposes.
 
-_Non-Personal Information_ : We also collect non-personal information through the use of "cookies" (small text files that reside on your hard drive) and/or IP address tracking. Non-personal information might include the URL, the browser, the type of computer, the operating systems, and the Internet service providers you use, and other similar information. Our system also automatically gathers information about the areas you visit on our sites and about the links you select from within our sites to other areas of the World Wide Web or elsewhere online. 
+## CHILDREN UNDER 13
 
-We use such non-personal information in the form of aggregate data (which does not describe or identify any individual user) to understand how our users as a group utilize the services and resources provided on our sites. This way we know which areas of our sites are favorites of our users, which areas need improvement, and what technologies are being used so that we may continually improve our sites. 
+The Sites is not intended for children under age 13, or for anyone under age 18 without involvement of a parent or guardian. The Sites includes unmonitored content posted by users and sourced from other third parties and as you can imagine, such content may be unsuitable for children. We do not knowingly collect or distribute information from or about children under 13.
 
-Most browsers are set to accept cookies. You can set your browser to refuse cookies, or to alert you when cookies are being sent. If you do so, please note that some parts of the Blogged Sites may not function properly. 
+## THIRD PARTIES
 
-The Blogged Sites do not knowingly collect or solicit personal information from anyone under the age of 13, or knowingly allow such persons to register with the Blogged Sites. If you are under 13, please do not attempt to register or to send any information about yourself to us. No one under age 13 may provide or post any personal information on the Blogged Sites. In the event that we learn that we have inadvertently collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. 
+  * Like most (maybe all) other websites, third parties may directly gather non-personally identifiable information from users of the Sites through automated means such as Cookies. For example, we may engage a third party to help us track and analyze anonymous information from users who visit the Sites or use the Services or the performance of advertisements. In addition, advertisers and ad-serving services may set Cookies or other automated mechanisms that gather anonymous information. This Privacy Policy does not cover how third parties use Cookies or other technologies or any information they gather through such technologies.
+  * The Sites and Services may contain links to websites or other properties and content operated by third parties over which UberMedia has no control. Their privacy policies may be different from our Privacy Policy, and you access such linked websites or third-party content at your own risk.
 
-The Blogged Sites contain links to other sites and services of third parties. Although we may initially visit these other sites or services that are so linked, we do not control the content that appear on these sites. In addition, the content on these sites or services may be constantly changing. We are not responsible for and assume no liability with respect to the content or privacy practices of such other sites. 
 
-These third party sites and services may have their own privacy policies and terms of use policies, or no policies at all. We encourage you to review the privacy policies of any third party sites or services before providing them with your personal information. 
 
-Protecting your privacy and your information from loss, misuse and alteration while under our control is a top priority. We take reasonable precautions to insure the security of your information. We use computer safeguards such as firewalls and data encryption, we enforce physical access controls to our buildings and files, and we authorize access to personal information only for those employees who require it to fulfill their job responsibilities. 
+## SECURITY
 
-We may use third parties to assist us with business support functions, such as sending email messages, conducting market research and analyzing data among other things. These third parties have access to your personal information to the extent necessary to perform their functions and are not permitted to use it for other purposes. We require them to comply with our privacy policy and any other appropriate confidentiality and security measures. 
+Information that UberMedia collects is stored on servers that UberMedia manages, using standard security procedures and practices appropriate to the nature of the information. Please be aware that no data transmission over the Internet or information contained in our servers can be guaranteed to be 100% secure. As a result, UberMedia cannot guarantee or warrant the security of any information you transmit on or through the Sites or Services and you do so at your own risk.
 
-Although we take these precautions, please be aware that no security measures are perfect or impenetrable. 
+## FOREIGN COUNTRIES
 
-By using any of the Blogged Sites, you signify your acceptance of our privacy policy. If you do not agree to this policy, please do not use our sites. Your continued use of the Blogged Sites following the posting of changes to these terms will mean that you accept those changes. 
+Your personal information may be transferred to and maintained on servers or databases located outside your state or country or to a jurisdiction where the privacy laws may not be as protective as those in your location. If you are located outside of the United States, please be advised that UberMedia processes and stores information in the United States and your use of our Sites or Services constitutes your consent to and understanding of this processing.
+
+## CHANGES TO PRIVACY POLICY
+
+UberMedia reserves the right to change this Privacy Policy at any time, and will do so by posting changes to this Privacy Policy. The new Privacy Policy will apply to all current and past users of the Sites and will replace any prior Privacy Policies that are inconsistent.
+
+## DISPUTE RESOLUTION
+
+This Privacy Policy shall be governed by and construed in accordance with the laws of the State of California applicable to agreements made and performed in California, excluding the application of the conflict of laws provisions. You agree that any action or suit brought by a party to enforce or adjudicate your rights under this Agreement shall be brought in the federal or state courts located in Los Angeles, California.
+
+## CALIFORNIA PRIVACY RIGHTS
+
+Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice describing what categories of personal customer information we have shared with third parties or corporate affiliates for those third parties or corporate affiliates’ direct marketing purposes in the past 12 months. That notice will identify the categories of information shared and will include a list of the third parties and affiliates with which such was shared. If you are a California resident and would like a copy of this notice, please submit a written request to the following address: UberMedia, Inc.; Attn: Privacy Policy; 130 West Union Street; Pasadena, CA 91103. In your request, please specify that you want a “California Privacy Rights Notice.” Please allow at least thirty days for a response.
+
+## CONTACT US
+
+If you have any questions about this Privacy Policy or UberMedia’s privacy practices, please email us at [_privacy@ubermedia.com_](mailto:privacy@ubermedia.com).  
+Or you can contact us by mail at:   
+**UberMedia, Inc.** 130 West Union Street, Pasadena, CA 91103 
+
+In addition, if you wish to exclude your personal information from our direct marketing, or if you would like to update or delete your email address, mailing address or other personal information, or otherwise manage communications your receive from UberMedia, please contact us at the above.   
+“UberMedia” “We” and “Our” means UberMedia, Inc. and its subsidiaries.   
+Effective: July 1, 2012
+
+## Glossary
+
+  * _Cookie_ : When you visit the Sites or utilize an UberMedia product or service, UberMedia’s servers send a cookie (a small file with a string of characters) to your computer. Standing alone, cookies do not personally identify you but they recognize your individual web browser or mobile address. Unless you choose to identify yourself to UberMedia (through an account or otherwise), you will remain anonymous to us. Most web browsers are initially set up to accept cookies, but you can disable your web browser’s ability to accept cookies. However, if you do so, certain features may not work. 
+  * _Web beacon_ : A web beacon is an electronic image on a web page that recognizes certain types of information on your computer when you visit that particular web page. 
+  * _IP address_ : An Internet Protocol Address is a numerical label that is assigned to each computer on the Internet. 
+  * _Referring website address_ : A referring website address identifies the address of the webpage you were on previously, before you came to the Sites. 
+  * _Browser_ : A browser is a software application used for retrieving, presenting and traversing information resources on the World Wide Web. 
+
+
