@@ -1,12 +1,51 @@
-<!--The following is the downloaded HTML source of the lexar.com privacy policy that was archived on 2012-10-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121029135047id_/http%3A//www.lexar.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lexar.com privacy policy that was archived on 2013-05-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130516190259id_/http%3A//www.lexar.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <title>Privacy policy | Lexar</title>
   <meta name="Description" content="Lexar offers a wide range of storage products: CompactFlash, SDHC, SDXC, microSDHC memory cards, USB flash drives, card readers">
+  
+<!-- sets mailchimp cookie for tracking sales from newsletter -->
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript"> 
+	/* This function sets the cookies to be available on .lexar.com domain and
+will expire in 30 days */
+function setCookie(c_name,value,exdays)
+	{
+	var exdate=new Date();
+	exdate.setDate(exdate.getDate() + exdays);
+	var c_value=escape(value) + ((exdays==null) ? "" : "; domain=.lexar.com ;expires="+exdate.toUTCString());
+	document.cookie=c_name + "=" + c_value;
+	}
+/*
+This parses the URL string if it exists and pulls out all the possible URL
+parameters
+If there is a url parameter that contains "mc_" it will create a cookie
+with the value passed in the URL Parameter
+01/28/2013 Pat Ahlin
+*/
+var url = window.location.toString();
+var query_string = url.split("?");
+if (query_string.length > 1)
+	{
+	var params = query_string[1].split("&");
+		for (var i = 0; i < params.length; i++) {
+			var param_item = params[i].split("=");
+			var tempvar=param_item[0];
+				if (tempvar.indexOf("mc_") == 0)
+					{
+						var tempval=param_item[1];
+/* Calls the setCookie Function, you may change the number of days before
+expiring, currently set to 30 */
+	
+setCookie(tempvar,tempval,30);
+					}
+		}
+	}	
+	</script>
+	
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="JavaScript" src="http://lexar.links.channelintelligence.com/scripts/cii_CBL_DataService_API.asp" type="text/javascript"></script>
+<script language="JavaScript" src="http://lexar.links.channelintelligence.com/scripts/cii_CBL_DataService_API.asp" type="text/javascript"></script>
       <!-- These object definitions only need to occur once if they are the same for all links -->
       <!-- By not defining any values for the oCIAlternateLink object, nothing will appear in
         the event no Dealers are available for a given product.  Should you want something to
@@ -21,45 +60,18 @@
           oCIIAlternateLink["linktext"] = '';
         // -->
       </script>
-  <link type="text/css" rel="stylesheet" media="all" href="/files/css/css_620786d55c875f6c3fe3d0194a3be9ed.css">
-<link type="text/css" rel="stylesheet" media="print" href="/files/css/css_d6e5f5929166590252a479fca745170d.css">
+  <link type="text/css" rel="stylesheet" media="all" href="/files/css/css_ec9898492ac681e2707368633a537b65.css">
+<link type="text/css" rel="stylesheet" media="print" href="/files/css/css_9cd197de1505c0246897c0fbcebd8d70.css">
 <!--[if IE]>
-<link type="text/css" rel="stylesheet" media="all" href="/sites/default/themes/sitetheme/css/ie.css?3" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/default/themes/sitetheme/css/ie.css?R" />
 <![endif]-->
 <!--[if lte IE 6]>
-<link type="text/css" rel="stylesheet" media="all" href="/sites/default/themes/sitetheme/css/ie6.css?3" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/default/themes/sitetheme/css/ie6.css?R" />
 <![endif]-->
 <!--[if IE 8]>
-<link type="text/css" rel="stylesheet" media="all" href="/sites/default/themes/sitetheme/css/ie8.css?3" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/default/themes/sitetheme/css/ie8.css?R" />
 <![endif]-->
-  <script type="text/javascript" src="/misc/jquery.js?3"></script>
-<script type="text/javascript" src="/misc/drupal.js?3"></script>
-<script type="text/javascript" src="/sites/all/libraries/jquery.ui/ui/minified/ui.core.min.js?3"></script>
-<script type="text/javascript" src="/sites/all/libraries/jquery.ui/ui/minified/ui.draggable.min.js?3"></script>
-<script type="text/javascript" src="/sites/all/libraries/jquery.ui/ui/minified/ui.droppable.min.js?3"></script>
-<script type="text/javascript" src="/sites/all/libraries/jquery.ui/ui/minified/ui.sortable.min.js?3"></script>
-<script type="text/javascript" src="/sites/all/modules/google_analytics/googleanalytics.js?3"></script>
-<script type="text/javascript" src="/sites/all/modules/lightbox2/js/lightbox.js?3"></script>
-<script type="text/javascript" src="/sites/all/modules/modernizr/modernizr_loader.js?3"></script>
-<script type="text/javascript" src="/sites/all/modules/nodereference_explorer/plugins/cck/nodereference/nodereference_explorer_plugin_cck_nodereference.js?3"></script>
-<script type="text/javascript" src="/sites/all/modules/nodereference_explorer/plugins/cck/link/nodereference_explorer_plugin_cck_link.js?3"></script>
-<script type="text/javascript" src="/sites/all/modules/panels/js/panels.js?3"></script>
-<script type="text/javascript" src="/sites/all/libraries/superfish/jquery.hoverIntent.minified.js?3"></script>
-<script type="text/javascript" src="/sites/all/libraries/superfish/jquery.bgiframe.min.js?3"></script>
-<script type="text/javascript" src="/sites/all/libraries/superfish/superfish.js?3"></script>
-<script type="text/javascript" src="/sites/all/libraries/superfish/supersubs.js?3"></script>
-<script type="text/javascript" src="/sites/all/libraries/superfish/supposition.js?3"></script>
-<script type="text/javascript" src="/sites/all/libraries/superfish/sftouchscreen.js?3"></script>
-<script type="text/javascript" src="/sites/all/modules/views_slideshow/js/jquery.cycle.all.min.js?3"></script>
-<script type="text/javascript" src="/sites/all/modules/views_slideshow/contrib/views_slideshow_singleframe/views_slideshow.js?3"></script>
-<script type="text/javascript" src="/sites/all/modules/views_slideshow/contrib/views_slideshow_thumbnailhover/views_slideshow.js?3"></script>
-<script type="text/javascript" src="/sites/all/libraries/jquery.ui/ui/minified/ui.dialog.min.js?3"></script>
-<script type="text/javascript" src="/sites/all/modules/modalframe/js/parent.js?3"></script>
-<script type="text/javascript" src="/sites/default/modules/automodal/automodal.js?3"></script>
-<script type="text/javascript" src="/sites/default/modules/custom/custom.js?3"></script>
-<script type="text/javascript" src="/sites/all/libraries/jquery.ui/ui/minified/ui.tabs.min.js?3"></script>
-<script type="text/javascript" src="/sites/default/modules/entablificate/entablificate.js?3"></script>
-<script type="text/javascript" src="/sites/default/themes/sitetheme/js/scripts.js?3"></script>
+  <script type="text/javascript" src="/files/js/js_79e941eb62ed5c182a044fa09681aa54.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
 jQuery.extend(Drupal.settings, { "basePath": "/", "googleanalytics": { "trackOutgoing": 1, "trackMailto": 1, "trackDownload": 1, "trackDownloadExtensions": "7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip" }, "lightbox2": { "rtl": "0", "file_path": "/(\\w\\w/)files", "default_image": "/sites/all/modules/lightbox2/images/brokenimage.jpg", "border_size": 10, "font_color": "000", "box_color": "fff", "top_position": "", "overlay_opacity": "0.8", "overlay_color": "000", "disable_close_click": 1, "resize_sequence": 0, "resize_speed": 400, "fade_in_speed": 400, "slide_down_speed": 600, "use_alt_layout": 0, "disable_resize": 0, "disable_zoom": 0, "force_show_nav": 0, "show_caption": true, "loop_items": 0, "node_link_text": "", "node_link_target": 0, "image_count": "Image !current of !total", "video_count": "Video !current of !total", "page_count": "Page !current of !total", "lite_press_x_close": "press \x3ca href=\"#\" onclick=\"hideLightbox(); return FALSE;\"\x3e\x3ckbd\x3ex\x3c/kbd\x3e\x3c/a\x3e to close", "download_link_text": "", "enable_login": false, "enable_contact": false, "keys_close": "c x 27", "keys_previous": "p 37", "keys_next": "n 39", "keys_zoom": "z", "keys_play_pause": "32", "display_image_size": "original", "image_node_sizes": "()", "trigger_lightbox_classes": "", "trigger_lightbox_group_classes": "", "trigger_slideshow_classes": "", "trigger_lightframe_classes": "", "trigger_lightframe_group_classes": "", "custom_class_handler": 0, "custom_trigger_classes": "", "disable_for_gallery_lists": true, "disable_for_acidfree_gallery_lists": true, "enable_acidfree_videos": true, "slideshow_interval": 5000, "slideshow_automatic_start": true, "slideshow_automatic_exit": true, "show_play_pause": true, "pause_on_next_click": false, "pause_on_previous_click": true, "loop_slides": false, "iframe_width": 600, "iframe_height": 400, "iframe_border": 1, "enable_video": 0 }, "automodal": { "selector": ".automodal" }, "entablificate": { "selector": ".tabs-panel-pane" } });
@@ -76,12 +88,14 @@ dropShadows: false}).find('ul').bgIframe({opacity:false});
 });
 //--><!]]>
 </script>
+  
 <!-- chat tool scripts -->
 	<script type="text/javascript" src="//static.atgsvcs.com/js/atgsvcs.js"></script>
 	<script type="text/javascript">
  		 ATGSvcs.setUOID(200106298514);
  	</script>
 <!-- end chat tool scripts -->
+
 </head>
 <body class="not-front not-logged-in node-type-page i18n-en page-about-privacy section-about one-sidebar sidebar-first panels-layouts">
 
@@ -96,7 +110,19 @@ dropShadows: false}).find('ul').bgIframe({opacity:false});
       
       
       <div class="region region-header">
-  <div id="block-block-17" class="block block-block region-odd even region-count-1 count-6">
+  <div id="block-menu_block-24" class="block block-menu_block region-odd odd region-count-1 count-5">
+      <h2 class="title">Secondary links-NA</h2>
+  
+  <div class="content">
+    <div class="menu-block-24 menu-name-secondary-links parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="leaf first menu-mlid-22583 has-children"><a href="/oem-products" class="oem-products">OEM Products</a></li>
+<li class="leaf menu-mlid-21871"><a href="http://store.lexar.com/basket.cfm">View Cart</a></li>
+<li class="leaf last menu-mlid-21870"><a href="/about/newsroom/press-releases">News</a></li>
+</ul></div>
+  </div>
+
+  </div> <!-- /.block -->
+<div id="block-block-17" class="block block-block region-even even region-count-2 count-6">
   
   <div class="content">
     <ul id="regional-nav">
@@ -127,15 +153,6 @@ dropShadows: false}).find('ul').bgIframe({opacity:false});
   </div>
 
   </div> <!-- /.block -->
-<div id="block-menu-secondary-links" class="block block-menu region-even odd region-count-2 count-7">
-  
-  <div class="content">
-    <ul class="menu"><li class="leaf first"><a href="http://store.lexar.com/basket.cfm" title="">View Cart</a></li>
-<li class="leaf"><a href="/about/newsroom" title="">News</a></li>
-<li class="leaf last"><a href="https://store.lexar.com/registration/" title="">Register Your Product</a></li>
-</ul>  </div>
-
-  </div> <!-- /.block -->
 </div> <!-- /.region -->
 
     </div></div> <!-- /.section, /#header -->
@@ -156,14 +173,7 @@ dropShadows: false}).find('ul').bgIframe({opacity:false});
 
     
     <div class="panel-content"><div class="panel-content-inner inside panel-panel">
-		  <div id="block-page_title-page_title" class="block block-page_title region-odd odd region-count-1 count-1">
-  
-  <div class="content">
-    <h1>Privacy policy</h1>
-  </div>
-
-  </div> <!-- /.block -->
-<div class="panel-region-separator"></div><div id="block-node-100" class="block block-node region-even even region-count-2 count-2">
+		  <div id="block-node-100" class="block block-node region-odd odd region-count-1 count-1">
   
   <div class="content">
     <div id="node-100" class="node node-type-page clearfix">
@@ -203,7 +213,7 @@ dropShadows: false}).find('ul').bgIframe({opacity:false});
 		We do not entice children by the prospect of a special game, prize, or other activity, to divulge more information than is needed to participate in the activity.</li>
 </ul>
 <p><strong>IP addresses</strong> We may use your IP address to help diagnose problems with our servers, administer our sites, and gather broad demographic information to measure general interest in our products and to share with our advertisers on a summary, not individual, basis.</p>
-<p><strong>Cookies</strong> Our Web servers may place small bits of text or "cookies" onto your computer's hard drive and memory. Cookies enable us to identify you so you do not have to re-enter certain information each time you visit our sites and allow us to keep track of your shopping choices. Often we use third-party services to help us measure the effectiveness of our Web site. These companies may place third-party cookies on your hard drive to help us analyze the traffic on our Web site and better meet our customers' needs. This does not give Micron CPG or any other company access to your personal information or other information on your computer. We do not track or store any personally identifiable information. If you are concerned, you can set your browser to decline third-party cookies, or you can delete these cookies from your hard drive.</p>
+<p><strong>Cookies</strong>&nbsp;For information about how this website uses cookies, <a href="cookies-and-how-we-use-them">visit our cookie page</a>.</p>
 <p><strong>Supplemental information</strong> We may supplement the information that you provide with information that is received from third parties. For example, Micron CPG may use information that we purchase from a database marketing information firm to enhance our understanding of the information that you provide.</p>
 <p><strong>Links to other sites</strong> Lexar.com contains links to other sites. Micron CPG is not responsible for the privacy practices or the content of such Web sites.</p>
 <p><strong>Confidentiality</strong> Micron CPG is part of a group of companies owned by Micron Technology, Inc. (“Micron”). Micron CPG does not sell uniquely identifiable customer information to any other business or organization outside the Micron group of companies.</p>
@@ -220,12 +230,12 @@ dropShadows: false}).find('ul').bgIframe({opacity:false});
 <li>
 		<strong>Compliance Hotline</strong> Micron believes in ethical business practices.&nbsp; You may review our <a href="http://www.micron.com/about/our-commitment/governance/ethics" target="_blank">Code of Business Conduct and Ethics</a> and if you have any concerns, please contact us as described above or you may contact our Compliance Hotline.</li>
 <li>
-		<strong>U.S. Commerce Department Safe Harbor Principles</strong> Micron adheres to the U.S. Commerce Department Safe Harbor Principles. Information about the U.S. Department of Commerce Safe Harbor certification can be found at <a href="http://www.export.gov/safeharbor" target="_blank">www.export.gov/safeharbor</a>.</li>
+		<strong>U.S. Commerce Department Safe Harbor Principles</strong> Micron adheres to the U.S. Commerce Department European Union and Switzerland Safe Harbor Principles. Information about the U.S. Department of Commerce Safe Harbor certification can be found at <a href="http://export.gov/safeharbor" target="_blank">http://export.gov/safeharbor</a>.<br>
+		In compliance with the European and Switzerland Safe Harbor Principles, Micron commits to resolve complaints about your privacy and our collection or use of your personal information.&nbsp; European Union and Swiss citizens with inquiries or complaints regarding this privacy policy should first contact Micron at <a href="mailto:privacy@micron.com">privacy@micron.com</a>.<br>
+		Micron has further committed to refer unresolved privacy complaints under the European Union and Switzerland Safe Harbor Principles to an independent dispute resolution mechanism, the BBB SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Micron, please visit the BBB SAFE HARBOR web site at <a href="http://www.bbb.org/us/safe-harbor-complaints" target="_blank">www.bbb.org/us/safe-harbor-complaints</a> for more information and to file a complaint.</li>
 </ul>
-<p class="rteindent1">In compliance with the US-EU Safe Harbor Principles, Micron commits to resolve complaints about your privacy and our collection or use of your personal information.&nbsp; European Union citizens with inquiries or complaints regarding this privacy policy should first contact Micron at <a href="mailto:privacy@micron.com">privacy@micron.com</a><strong>. </strong></p>
-<p class="rteindent1">Micron has further committed to refer unresolved privacy complaints under the US-EU Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Micron, please visit the BBB EU SAFE HARBOR web site at <a href="http://www.bbb.org/us/safe-harbor-complaints" target="_blank">www.bbb.org/us/safe-harbor-complaints</a> for more information and to file a complaint.</p>
 <p><strong>Change of Control</strong> In the event that another company acquires assets related to this website, or if we experience some other change of control event such as a spin-off, merger, insolvency, bankruptcy or receivership, we reserve the right to include any or all user-related information among the assets transferred to the acquiring company. We cannot guarantee that any entity receiving such information in connection with any of these transactions will comply with all the terms of this policy.</p>
-<p><strong>Updates/Effective Date</strong> Micron reserves the right to amend this Privacy Policy from time to time. Changes to this Policy will apply to information we have received and information we receive after the revised Policy is effective. When we do amend this Policy, the revised Policy will be posted here so please visit this Web page to view the most current Policy. The effective date of this version of the Privacy Policy is: August 29, 2012.</p>
+<p><strong>Updates/Effective Date</strong> Micron reserves the right to amend this Privacy Policy from time to time. Changes to this Policy will apply to information we have received and information we receive after the revised Policy is effective. When we do amend this Policy, the revised Policy will be posted here so please visit this Web page to view the most current Policy. The effective date of this version of the Privacy Policy is:&nbsp;<span>February 8, 2013</span>.</p>
         </div>
         </div>
 </div>
@@ -247,7 +257,7 @@ dropShadows: false}).find('ul').bgIframe({opacity:false});
 
           
           <div class="region region-navigation">
-  <div id="block-search-0" class="block block-search region-odd even region-count-1 count-4">
+  <div id="block-search-0" class="block block-search region-odd odd region-count-1 count-3">
       <h2 class="title">Search</h2>
   
   <div class="content">
@@ -258,7 +268,7 @@ dropShadows: false}).find('ul').bgIframe({opacity:false});
  <input type="text" maxlength="128" name="search_block_form" id="edit-search-block-form-1" size="15" value="" title="Enter the terms you wish to search for." class="form-text">
 </div>
 <span class="input-wrapper"><input type="submit" name="op" id="edit-submit" value="Search" class="form-submit"></span>
-<input type="hidden" name="form_build_id" id="form-e6c2b9aee917b74e88b7c3a18a882ac3" value="form-e6c2b9aee917b74e88b7c3a18a882ac3">
+<input type="hidden" name="form_build_id" id="form-ca6c061e390848c81bf12194e15cfb3b" value="form-ca6c061e390848c81bf12194e15cfb3b">
 <input type="hidden" name="form_id" id="edit-search-block-form" value="search_block_form">
 </div>
 
@@ -266,27 +276,10 @@ dropShadows: false}).find('ul').bgIframe({opacity:false});
   </div>
 
   </div> <!-- /.block -->
-<div id="block-superfish-1" class="block block-superfish region-even odd region-count-2 count-5">
+<div id="block-superfish-1" class="block block-superfish region-even even region-count-2 count-4">
   
   <div class="content">
-    <ul id="superfish-1" class="sf-menu primary-links sf-horizontal sf-style-default sf-total-items-5 sf-parent-items-3 sf-single-items-2"><li id="menu-8703-1" class="first odd sf-item-1 sf-depth-1 sf-total-children-3 sf-parent-children-3 sf-single-children-0 menuparent"><a href="/products" title="" class="sf-depth-1 menuparent">Products</a><ul class="sf-megamenu"><li class="sf-megamenu-wrapper first odd sf-item-1 sf-depth-1 sf-total-children-3 sf-parent-children-3 sf-single-children-0 menuparent"><ol><li id="menu-22211-1" class="first odd sf-item-1 sf-depth-2 sf-total-children-7 sf-parent-children-0 sf-single-children-7 sf-megamenu-column menuparent"><div class="sf-megamenu-column"><span class="sf-depth-2 menuparent menu-item-container" tabindex="0">By Type</span><ol><li id="menu-21880-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/products/compactflash" id="compactflash" class="sf-depth-3">CompactFlash Cards</a></li><li id="menu-21881-1" class="middle even sf-item-2 sf-depth-3 sf-no-children"><a href="/products/sdhc-sdxc" id="sd" class="sf-depth-3">SDHC/SDXC Cards</a></li><li id="menu-21882-1" class="middle odd sf-item-3 sf-depth-3 sf-no-children"><a href="/products/memory-stick-pro-duo" id="memory-stick-pro-duo" class="sf-depth-3">Memory Stick PRO Duo Cards</a></li><li id="menu-21883-1" class="middle even sf-item-4 sf-depth-3 sf-no-children"><a href="/products/microsdhc" id="microsdhc" class="sf-depth-3">microSDHC Cards</a></li><li id="menu-21884-1" class="middle odd sf-item-5 sf-depth-3 sf-no-children"><a href="/products/card-readers" id="card-readers" class="sf-depth-3">Card Readers</a></li><li id="menu-21885-1" class="middle even sf-item-6 sf-depth-3 sf-no-children"><a href="/products/usb-flash-drives" id="usb" class="sf-depth-3">USB Flash Drives</a></li><li id="menu-21886-1" class="last odd sf-item-7 sf-depth-3 sf-no-children"><a href="/products/lexar-image-rescue-4-software" id="software" class="sf-depth-3">Software</a></li></ol></div></li><li id="menu-22212-1" class="middle even sf-item-2 sf-depth-2 sf-total-children-5 sf-parent-children-0 sf-single-children-5 sf-megamenu-column menuparent"><div class="sf-megamenu-column"><span class="sf-depth-2 menuparent menu-item-container" tabindex="0">By Activity</span><ol><li id="menu-21887-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/products/photo" id="photo" class="sf-depth-3">Photo</a></li><li id="menu-21888-1" class="middle even sf-item-2 sf-depth-3 sf-no-children"><a href="/products/video" id="video" class="sf-depth-3">Video</a></li><li id="menu-21889-1" class="middle odd sf-item-3 sf-depth-3 sf-no-children"><a href="/products/gaming" id="gaming" class="sf-depth-3">Gaming</a></li><li id="menu-21890-1" class="middle even sf-item-4 sf-depth-3 sf-no-children"><a href="/products/mobile" id="mobile" class="sf-depth-3">Mobile</a></li><li id="menu-21891-1" class="last odd sf-item-5 sf-depth-3 sf-no-children"><a href="/products/personal-storage" id="usb" class="sf-depth-3">Personal Storage</a></li></ol></div></li><li id="menu-22213-1" class="last odd sf-item-3 sf-depth-2 sf-total-children-2 sf-parent-children-0 sf-single-children-2 sf-megamenu-column menuparent"><div class="sf-megamenu-column"><span class="sf-depth-2 menuparent menu-item-container" tabindex="0">Kodak</span><ol><li id="menu-22214-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/products/kodak-memory-cards" id="kodak-cards" class="sf-depth-3">Memory Cards</a></li><li id="menu-22220-1" class="last even sf-item-2 sf-depth-3 sf-no-children"><a href="/products/kodak-usb-flash-drive-0?category=906" id="usb" class="sf-depth-3">USB Flash Drives</a></li></ol></div></li></ol></li></ul></li><li id="menu-2938-1" class="middle even sf-item-2 sf-depth-1 sf-no-children"><a href="/where?field_resellerregion_nid=301&amp;field_country_nid=All&amp;field_resellertype_value_many_to_one=All" title="" class="sf-depth-1">Where to Buy</a></li><li id="menu-2983-1" class="middle odd sf-item-3 sf-depth-1 sf-no-children"><a href="/downloads" title="" class="sf-depth-1">Downloads</a></li><li id="menu-2939-1" class="middle even sf-item-4 sf-depth-1 sf-total-children-13 sf-parent-children-4 sf-single-children-9 menuparent"><a href="/support" title="" class="sf-depth-1 menuparent">Support</a><ul class="sf-megamenu"><li class="sf-megamenu-wrapper middle even sf-item-4 sf-depth-1 sf-total-children-13 sf-parent-children-4 sf-single-children-9 menuparent"><ol><li id="menu-22257-1" class="first odd sf-item-1 sf-depth-2 sf-total-children-4 sf-parent-children-0 sf-single-children-4 sf-megamenu-column menuparent"><div class="sf-megamenu-column"><span class="sf-depth-2 menuparent menu-item-container" tabindex="0">Memory Card FAQs</span><ol><li id="menu-2043-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/support/general-faq" title="General Frequently Asked Questions
-" class="sf-depth-3">General Memory Card FAQs</a></li><li id="menu-21028-1" class="middle even sf-item-2 sf-depth-3 sf-no-children"><a href="/support/cf-professional-faqs" title="CF Professional FAQs" class="sf-depth-3">CF Professional FAQs</a></li><li id="menu-21029-1" class="middle odd sf-item-3 sf-depth-3 sf-no-children"><a href="/support/sd-uhs-i-faqs" title="SD UHS-I FAQs" class="sf-depth-3">SD UHS-I FAQs</a></li><li id="menu-17632-1" class="last even sf-item-4 sf-depth-3 sf-no-children"><a href="/support/sdxc-faqs" title="SDXC FAQs" class="sf-depth-3">SDXC FAQs</a></li></ol></div></li><li id="menu-22258-1" class="middle even sf-item-2 sf-depth-2 sf-total-children-3 sf-parent-children-0 sf-single-children-3 sf-megamenu-column menuparent"><div class="sf-megamenu-column"><span class="sf-depth-2 menuparent menu-item-container" tabindex="0">USB Flash Drive FAQs</span><ol><li id="menu-15718-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/support/lexar-echo-backup-drive-faqs" title="Lexar® Echo Backup Drive FAQs" class="sf-depth-3">Lexar® Echo Backup Drive FAQs</a></li><li id="menu-17363-1" class="middle even sf-item-2 sf-depth-3 sf-no-children"><a href="/support/lexar-enterprise-support" title="Lexar Enterprise Support" class="sf-depth-3">Lexar Enterprise Support</a></li><li id="menu-15719-1" class="last odd sf-item-3 sf-depth-3 sf-no-children"><a href="/support/jumpdrive-secure-faqs" title="JumpDrive Secure FAQs" class="sf-depth-3">JumpDrive Secure FAQs</a></li></ol></div></li><li id="menu-22259-1" class="middle odd sf-item-3 sf-depth-2 sf-total-children-9 sf-parent-children-0 sf-single-children-9 sf-megamenu-column menuparent"><div class="sf-megamenu-column"><span class="sf-depth-2 menuparent menu-item-container" tabindex="0">Card Reader FAQs</span><ol><li id="menu-15725-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/support/lexar-professional-dual-slot-reader" title="Lexar Professional UDMA Dual Slot Reader" class="sf-depth-3">Lexar Professional Dual Slot Reader</a></li><li id="menu-15732-1" class="middle even sf-item-2 sf-depth-3 sf-no-children"><a href="/support/lexar-multi-card-24-1-usb-reader" title="Lexar® Multi-Card 24-in-1 USB Reader" class="sf-depth-3">Lexar® Multi-Card 24-in-1 USB Reader</a></li><li id="menu-15724-1" class="middle odd sf-item-3 sf-depth-3 sf-no-children"><a href="/support/lexar-professional-udma-firewire-800-reader" title="Lexar Professional UDMA FireWire® 800 Reader" class="sf-depth-3">Lexar Professional UDMA FireWire 800 Reader</a></li><li id="menu-19185-1" class="middle even sf-item-4 sf-depth-3 sf-no-children"><a href="/content/lexar-professional-expresscard-compactflash-reader-faqs" title="Lexar Professional ExpressCard CompactFlash® Reader FAQs" class="sf-depth-3">Lexar Professional ExpressCard CompactFlash® Reader FAQs</a></li><li id="menu-15727-1" class="middle odd sf-item-5 sf-depth-3 sf-no-children"><a href="/support/lexar-professional-expresscard-compactflash-reader" title="Lexar&amp;reg; Professional ExpressCard&amp;trade; CompactFlash&amp;reg; Reader
-" class="sf-depth-3">Professional ExpressCard™ CompactFlash® Reader</a></li><li id="menu-21034-1" class="middle even sf-item-6 sf-depth-3 sf-no-children"><a href="/support/lexar-professional-usb-30-dual-slot-usb-reader-faq" title="Lexar Professional USB 3.0 Dual-Slot USB Reader FAQ" class="sf-depth-3">Professional USB 3.0 Dual-Slot USB Reader</a></li><li id="menu-19190-1" class="middle odd sf-item-7 sf-depth-3 sf-no-children"><a href="/content/lexar-professional-firewire-reader" title="Lexar Professional FireWire Reader" class="sf-depth-3">Lexar Professional FireWire Reader</a></li><li id="menu-22346-1" class="middle even sf-item-8 sf-depth-3 sf-no-children"><a href="/support/lexar-multi-card-25-1-usb-30-reader" title="Lexar&amp;reg; Multi-Card 25-in-1 USB 3.0 Reader
-" class="sf-depth-3">Multi-Card 25-in-1 USB 3.0 Reader</a></li><li id="menu-15721-1" class="last odd sf-item-9 sf-depth-3 sf-no-children"><a href="/support/firewire-compactflash-digital-film-reader-general-faqs" title="FireWire CompactFlash Digital Film Reader General FAQs" class="sf-depth-3">FireWire Reader FAQs</a></li></ol></div></li><li id="menu-15748-1" class="middle even sf-item-4 sf-depth-2 sf-no-children"><a href="/support/lexar-computer-memory-upgrades-support" title="Lexar Computer Memory Upgrades Support" class="sf-depth-2">Lexar Computer Memory FAQs</a></li><li id="menu-15733-1" class="middle odd sf-item-5 sf-depth-2 sf-no-children"><a href="/content/lexar-2gb-and-higher-sd-support-statement" title="Lexar 2GB and higher SD Support Statement" class="sf-depth-2">2GB SD Cards</a></li><li id="menu-17600-1" class="middle even sf-item-6 sf-depth-2 sf-total-children-2 sf-parent-children-0 sf-single-children-2 sf-megamenu-column menuparent"><div class="sf-megamenu-column"><a href="/content/kodak-support-information" title="Kodak Support Information" class="sf-depth-2 menuparent">Kodak Support Information</a><ol><li id="menu-17601-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/content/kodak-standard-rma-terms-and-conditions" title="Kodak Standard RMA Terms and Conditions" class="sf-depth-3">Kodak Standard RMA Terms and Conditions</a></li><li id="menu-17599-1" class="last even sf-item-2 sf-depth-3 sf-no-children"><a href="/support/kodak-support-faqs" title="Kodak Support FAQs" class="sf-depth-3">Kodak Support FAQs</a></li></ol></div></li><li id="menu-17598-1" class="middle odd sf-item-7 sf-depth-2 sf-no-children"><a href="/content/standard-rma-terms-and-conditions" title="Standard RMA Terms and Conditions
-" class="sf-depth-2">Standard RMA Terms and Conditions</a></li><li id="menu-15735-1" class="middle even sf-item-8 sf-depth-2 sf-no-children"><a href="/content/rohs-compliance" title="ROHS Compliance
-" class="sf-depth-2">RoHS Compliance</a></li><li id="menu-17607-1" class="middle odd sf-item-9 sf-depth-2 sf-no-children"><a href="/content/fcc-compliance-advisory-statement" title="FCC Compliance &amp;amp; Advisory Statement
-" class="sf-depth-2">FCC Compliance</a></li><li id="menu-19932-1" class="middle even sf-item-10 sf-depth-2 sf-no-children"><a href="/content/echo-backup-software-quick-start-guide" title="Echo Backup Software Quick Start Guide
-" class="sf-depth-2">Echo Backup Software Quick Start Guide</a></li><li id="menu-20778-1" class="middle odd sf-item-11 sf-depth-2 sf-no-children"><a href="/content/multi-card-24-1-reader-quick-start-guide" title="Multi-Card 24-in-1 Reader Quick Start Guide" class="sf-depth-2">Multi-Card 24-in-1 Reader Quick Start Guide</a></li><li id="menu-20793-1" class="middle even sf-item-12 sf-depth-2 sf-no-children"><a href="/content/professional-usb-dual-slot-reader-quick-start-guide" title="Professional USB Dual-Slot Reader Quick Start Guide
-" class="sf-depth-2">Professional USB Dual-Slot Reader Quick Start Guide</a></li><li id="menu-22347-1" class="last odd sf-item-13 sf-depth-2 sf-no-children"><a href="/content/multi-card-25-1-usb-30-reader-quick-start-guide" title="Lexar&amp;reg; Multi-Card 25-in-1 USB 3.0 Reader
-" class="sf-depth-2">Multi-Card 25-in-1 USB 3.0 Reader</a></li></ol></li></ul></li><li id="menu-2952-1" class="active-trail last odd sf-item-5 sf-depth-1 sf-total-children-14 sf-parent-children-1 sf-single-children-13 menuparent"><a href="/about" title="About Us
-" class="sf-depth-1 menuparent">About Us</a><ul class="sf-megamenu"><li class="sf-megamenu-wrapper active-trail last odd sf-item-5 sf-depth-1 sf-total-children-14 sf-parent-children-1 sf-single-children-13 menuparent"><ol><li id="menu-11258-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/contact" title="Contact Information
-" class="sf-depth-2">Contact Us</a></li><li id="menu-3135-1" class="middle even sf-item-2 sf-depth-2 sf-total-children-3 sf-parent-children-0 sf-single-children-3 sf-megamenu-column menuparent"><div class="sf-megamenu-column"><a href="/about/newsroom" class="sf-depth-2 menuparent">Newsroom</a><ol><li id="menu-8708-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/about/newsroom/press-releases" title="" class="sf-depth-3">Press Releases</a></li><li id="menu-15737-1" class="middle even sf-item-2 sf-depth-3 sf-no-children"><a href="/content/press-contacts" title="Press Contacts
-" class="sf-depth-3">Press Contacts</a></li><li id="menu-17644-1" class="last odd sf-item-3 sf-depth-3 sf-no-children"><a href="/content/social-media" title="Social Media" class="sf-depth-3">Social Media</a></li></ol></div></li><li id="menu-3123-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/about/awards" class="sf-depth-2">Lexar Awards</a></li><li id="menu-8710-1" class="middle even sf-item-4 sf-depth-2 sf-no-children"><a href="/about/newsroom/testimonials" class="sf-depth-2">Testimonials</a></li><li id="menu-17640-1" class="middle odd sf-item-5 sf-depth-2 sf-no-children"><a href="/content/lexar-video-library" title="Lexar Video Library" class="sf-depth-2">Lexar Video Library</a></li><li id="menu-17609-1" class="middle even sf-item-6 sf-depth-2 sf-no-children"><a href="/content/lexar-quality-labs-0" title="Lexar Qualilty Labs" class="sf-depth-2">Lexar Quality Labs</a></li><li id="menu-8711-1" class="middle odd sf-item-7 sf-depth-2 sf-no-children"><a href="/about/product-photos" class="sf-depth-2">Product/Pkg Photos</a></li><li id="menu-8737-1" class="middle even sf-item-8 sf-depth-2 sf-no-children"><a href="/about/product-literature" class="sf-depth-2">Product Literature</a></li><li id="menu-17602-1" class="middle odd sf-item-9 sf-depth-2 sf-no-children"><a href="/content/lexar-logos" class="sf-depth-2">Lexar Logos</a></li><li id="menu-14876-1" class="middle even sf-item-10 sf-depth-2 sf-no-children"><a href="/content/job-opportunities" title="Job Opportunities
-" class="sf-depth-2">Job Opportunities</a></li><li id="menu-15736-1" class="middle odd sf-item-11 sf-depth-2 sf-no-children"><a href="/content/maps-and-directions" title="Maps and Directions
-" class="sf-depth-2">Directions to Micron Consumer Products Group Fremont, CA Office</a></li><li id="menu-15743-1" class="middle even sf-item-12 sf-depth-2 sf-no-children"><a href="/content/lexar-terms-use" title="Lexar Terms of Use
-" class="sf-depth-2">Terms of Use</a></li><li id="menu-15741-1" class="active-trail middle odd sf-item-13 sf-depth-2 sf-no-children"><a href="/about/privacy" title="Privacy Policy
-" class="sf-depth-2 active">Privacy Policy</a></li><li id="menu-16643-1" class="last even sf-item-14 sf-depth-2 sf-no-children"><a href="http://www.microncpgpartners.com" title="Partner Portal Login
-" class="sf-depth-2">Partner Portal Login</a></li></ol></li></ul></li></ul>  </div>
+    <ul id="superfish-1" class="sf-menu primary-links sf-horizontal sf-style-default sf-total-items-5 sf-parent-items-3 sf-single-items-2"><li id="menu-8703-1" class="first odd sf-item-1 sf-depth-1 sf-total-children-3 sf-parent-children-3 sf-single-children-0 menuparent"><a href="/products" title="" class="sf-depth-1 menuparent">Products</a><ul class="sf-megamenu"><li class="sf-megamenu-wrapper first odd sf-item-1 sf-depth-1 sf-total-children-3 sf-parent-children-3 sf-single-children-0 menuparent"><ol><li id="menu-22211-1" class="first odd sf-item-1 sf-depth-2 sf-total-children-8 sf-parent-children-6 sf-single-children-2 sf-megamenu-column menuparent"><div class="sf-megamenu-column"><span class="sf-depth-2 menuparent menu-item-container" tabindex="0">By Type</span><ol><li id="menu-21880-1" class="first odd sf-item-1 sf-depth-3"><a href="/products/compactflash-memory-cards" id="compactflash" class="sf-depth-3">CompactFlash Cards</a></li><li id="menu-22634-1" class="middle even sf-item-2 sf-depth-3 sf-no-children"><a href="/products/lexar-professional-1100x-xqd-card" id="xqd" class="sf-depth-3">XQD Cards</a></li><li id="menu-21881-1" class="middle odd sf-item-3 sf-depth-3"><a href="/products/sdhc-sdxc-memory-cards" id="sd" class="sf-depth-3">SDHC - SDXC Cards</a></li><li id="menu-21882-1" class="middle even sf-item-4 sf-depth-3"><a href="/products/memory-stick-pro-duo" id="memory-stick-pro-duo" class="sf-depth-3">Memory Stick PRO Duo Cards</a></li><li id="menu-21883-1" class="middle odd sf-item-5 sf-depth-3"><a href="/products/microsdhc-microsdxc" id="microsdhc" class="sf-depth-3">microSDHC - microSDXC Cards</a></li><li id="menu-21884-1" class="middle even sf-item-6 sf-depth-3"><a href="/products/card-readers" id="card-readers" class="sf-depth-3">Card Readers</a></li><li id="menu-21885-1" class="middle odd sf-item-7 sf-depth-3"><a href="/products/usb-flash-drives" id="usb" class="sf-depth-3">USB Flash Drives</a></li><li id="menu-21886-1" class="last even sf-item-8 sf-depth-3 sf-no-children"><a href="/products/lexar-image-rescue-4-software" id="software" class="sf-depth-3">Software</a></li></ol></div></li><li id="menu-22212-1" class="middle even sf-item-2 sf-depth-2 sf-total-children-4 sf-parent-children-0 sf-single-children-4 sf-megamenu-column menuparent"><div class="sf-megamenu-column"><span class="sf-depth-2 menuparent menu-item-container" tabindex="0">By Activity</span><ol><li id="menu-21887-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/products/photo-video" id="photo" class="sf-depth-3">Photo &amp; Video</a></li><li id="menu-21889-1" class="middle even sf-item-2 sf-depth-3 sf-no-children"><a href="/products/gaming" id="gaming" class="sf-depth-3">Gaming</a></li><li id="menu-21890-1" class="middle odd sf-item-3 sf-depth-3 sf-no-children"><a href="/products/mobile" id="mobile" class="sf-depth-3">Mobile</a></li><li id="menu-21891-1" class="last even sf-item-4 sf-depth-3 sf-no-children"><a href="/products/personal-storage" id="usb" class="sf-depth-3">Personal Storage</a></li></ol></div></li><li id="menu-22213-1" class="last odd sf-item-3 sf-depth-2 sf-total-children-2 sf-parent-children-0 sf-single-children-2 sf-megamenu-column menuparent"><div class="sf-megamenu-column"><span class="sf-depth-2 menuparent menu-item-container" tabindex="0">Kodak</span><ol><li id="menu-22214-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/products/kodak-memory-cards" id="kodak-cards" class="sf-depth-3">Memory Cards</a></li><li id="menu-22220-1" class="last even sf-item-2 sf-depth-3 sf-no-children"><a href="/products/kodak-usb-flash-drive-0?category=906" id="usb" class="sf-depth-3">USB Flash Drives</a></li></ol></div></li></ol></li></ul></li><li id="menu-2938-1" class="middle even sf-item-2 sf-depth-1 sf-no-children"><a href="/where?field_resellerregion_nid=301&amp;field_country_nid=All&amp;field_resellertype_value_many_to_one=All" title="" class="sf-depth-1">Where to Buy</a></li><li id="menu-2983-1" class="middle odd sf-item-3 sf-depth-1 sf-no-children"><a href="/downloads" title="" class="sf-depth-1">Downloads</a></li><li id="menu-2939-1" class="middle even sf-item-4 sf-depth-1 sf-total-children-7 sf-parent-children-0 sf-single-children-7 menuparent"><a href="/support" class="support sf-depth-1 menuparent">Support</a><ul class="sf-megamenu"><li class="sf-megamenu-wrapper middle even sf-item-4 sf-depth-1 sf-total-children-7 sf-parent-children-0 sf-single-children-7 menuparent"><ol><li id="menu-22376-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/support/products" class="sf-depth-2">Product Support</a></li><li id="menu-22375-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/support/faqs" class="sf-depth-2">FAQs</a></li><li id="menu-22393-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/support/warranties" class="sf-depth-2">Warranties</a></li><li id="menu-22409-1" class="middle even sf-item-4 sf-depth-2 sf-no-children"><a href="https://store.lexar.com/registration/" target="_blank" class="sf-depth-2">Register Your Product</a></li><li id="menu-17598-1" class="middle odd sf-item-5 sf-depth-2 sf-no-children"><a href="/content/standard-rma-terms-and-conditions" class="sf-depth-2">RMA Terms and Conditions</a></li><li id="menu-22402-1" class="middle even sf-item-6 sf-depth-2 sf-no-children"><a href="/content/fcc-rohs-compliance" class="sf-depth-2">FCC &amp; RoHs Compliance</a></li><li id="menu-17600-1" class="last odd sf-item-7 sf-depth-2 sf-no-children"><a href="/support/kodak-support" class="sf-depth-2">Kodak Support</a></li></ol></li></ul></li><li id="menu-2952-1" class="active-trail last odd sf-item-5 sf-depth-1 sf-total-children-6 sf-parent-children-1 sf-single-children-5 menuparent"><a href="/about" class="about sf-depth-1 menuparent">About Us</a><ul class="sf-megamenu"><li class="sf-megamenu-wrapper active-trail last odd sf-item-5 sf-depth-1 sf-total-children-6 sf-parent-children-1 sf-single-children-5 menuparent"><ol><li id="menu-11258-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/contact" class="sf-depth-2">Contact Us</a></li><li id="menu-15737-1" class="middle even sf-item-2 sf-depth-2 sf-total-children-2 sf-parent-children-0 sf-single-children-2 sf-megamenu-column menuparent"><div class="sf-megamenu-column"><a href="/content/press-contacts" class="sf-depth-2 menuparent">Media Resources</a><ol><li id="menu-8711-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/about/product-photos" class="sf-depth-3">Product &amp; Packaging Photos</a></li><li id="menu-17602-1" class="last even sf-item-2 sf-depth-3 sf-no-children"><a href="/content/lexar-logos" class="sf-depth-3">Lexar Logos</a></li></ol></div></li><li id="menu-8708-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/about/newsroom/press-releases" class="sf-depth-2">Press Releases</a></li><li id="menu-3123-1" class="middle even sf-item-4 sf-depth-2 sf-no-children"><a href="/about/awards" class="sf-depth-2">Awards</a></li><li id="menu-14876-1" class="middle odd sf-item-5 sf-depth-2 sf-no-children"><a href="/content/careers" class="sf-depth-2">Careers</a></li><li id="menu-17609-1" class="last even sf-item-6 sf-depth-2 sf-no-children"><a href="/content/lexar-quality-labs-0" class="sf-depth-2">Lexar Quality Labs</a></li></ol></li></ul></li></ul>  </div>
 
   </div> <!-- /.block -->
 </div> <!-- /.region -->
@@ -295,39 +288,24 @@ dropShadows: false}).find('ul').bgIframe({opacity:false});
             
               <div id="breadcrumbs"><div class="section clearfix">
         
-          <div class="breadcrumb"><a href="/">Home</a> » <a href="/about" title="About Us
-">About Us</a> » Privacy policy</div>        
+          <div class="breadcrumb"><a href="/">Home</a> » <a href="/about" class="about">About Us</a> » Privacy policy</div>        
         </div></div> <!-- /.section, /#navigation -->
       
 <!-- full-width top -->                
       <!-- /full-width top --> 
       
       <div class="region region-sidebar-first column sidebar"><div class="section">
-  <div id="block-menu_block-7" class="block block-menu_block region-odd odd region-count-1 count-3">
-      <h2 class="title">About Us</h2>
+  <div id="block-menu_block-7" class="block block-menu_block region-odd even region-count-1 count-2">
+      <h2 class="title"><a href="/about" class="about active-trail">About Us</a></h2>
   
   <div class="content">
     <div class="menu-block-7 menu-name-primary-links parent-mlid-0 menu-level-2">
-  <ul class="menu"><li class="leaf first menu-mlid-11258"><a href="/contact" title="Contact Information
-">Contact Us</a></li>
-<li class="collapsed menu-mlid-3135"><a href="/about/newsroom">Newsroom</a></li>
-<li class="leaf menu-mlid-3123"><a href="/about/awards">Lexar Awards</a></li>
-<li class="leaf menu-mlid-8710"><a href="/about/newsroom/testimonials">Testimonials</a></li>
-<li class="leaf menu-mlid-17640"><a href="/content/lexar-video-library" title="Lexar Video Library">Lexar Video Library</a></li>
-<li class="leaf menu-mlid-17609"><a href="/content/lexar-quality-labs-0" title="Lexar Qualilty Labs">Lexar Quality Labs</a></li>
-<li class="leaf menu-mlid-8711"><a href="/about/product-photos">Product/Pkg Photos</a></li>
-<li class="leaf menu-mlid-8737"><a href="/about/product-literature">Product Literature</a></li>
-<li class="leaf menu-mlid-17602"><a href="/content/lexar-logos">Lexar Logos</a></li>
-<li class="leaf menu-mlid-14876"><a href="/content/job-opportunities" title="Job Opportunities
-">Job Opportunities</a></li>
-<li class="leaf menu-mlid-15736"><a href="/content/maps-and-directions" title="Maps and Directions
-">Directions to Micron Consumer Products Group Fremont, CA Office</a></li>
-<li class="leaf menu-mlid-15743"><a href="/content/lexar-terms-use" title="Lexar Terms of Use
-">Terms of Use</a></li>
-<li class="leaf menu-mlid-15741 active active-trail"><a href="/about/privacy" title="Privacy Policy
-" class="active-trail active">Privacy Policy</a></li>
-<li class="leaf last menu-mlid-16643"><a href="http://www.microncpgpartners.com" title="Partner Portal Login
-">Partner Portal Login</a></li>
+  <ul class="menu"><li class="leaf first menu-mlid-11258"><a href="/contact">Contact Us</a></li>
+<li class="collapsed menu-mlid-15737"><a href="/content/press-contacts">Media Resources</a></li>
+<li class="leaf menu-mlid-8708"><a href="/about/newsroom/press-releases">Press Releases</a></li>
+<li class="leaf menu-mlid-3123"><a href="/about/awards">Awards</a></li>
+<li class="leaf menu-mlid-14876"><a href="/content/careers">Careers</a></li>
+<li class="leaf last menu-mlid-17609"><a href="/content/lexar-quality-labs-0">Lexar Quality Labs</a></li>
 </ul></div>
   </div>
 
@@ -343,7 +321,7 @@ dropShadows: false}).find('ul').bgIframe({opacity:false});
         
         
         <div class="region region-footer">
-  <div id="block-block-8" class="block block-block region-odd even region-count-1 count-8">
+  <div id="block-block-8" class="block block-block region-odd odd region-count-1 count-7">
   
   <div class="content">
     <!-- Begin MailChimp Signup Form --><!-- Begin MailChimp Signup Form --><div id="mc_embed_signup">
@@ -356,14 +334,14 @@ dropShadows: false}).find('ul').bgIframe({opacity:false});
 <!--End mc_embed_signup--><!--End mc_embed_signup-->  </div>
 
   </div> <!-- /.block -->
-<div id="block-block-14" class="block block-block region-even odd region-count-2 count-9">
+<div id="block-block-14" class="block block-block region-even even region-count-2 count-8">
   
   <div class="content">
     <p><a alt="Digital Photography" class="dp" href="http://dp.lexar.com/" target="_blank">Digital Photography</a></p>
   </div>
 
   </div> <!-- /.block -->
-<div id="block-block-15" class="block block-block region-odd even region-count-3 count-10">
+<div id="block-block-15" class="block block-block region-odd odd region-count-3 count-9">
   
   <div class="content">
     <ul class="social-icons">
@@ -377,19 +355,19 @@ dropShadows: false}).find('ul').bgIframe({opacity:false});
   </div>
 
   </div> <!-- /.block -->
-<div id="block-block-16" class="block block-block region-even odd region-count-4 count-11">
+<div id="block-block-16" class="block block-block region-even even region-count-4 count-10">
   
   <div class="content">
     <p><a alt="Kodak" class="kodak" href="/products/kodak">Kodak</a></p>
   </div>
 
   </div> <!-- /.block -->
-<div id="block-menu_block-2" class="block block-menu_block region-odd even region-count-5 count-12">
+<div id="block-menu_block-2" class="block block-menu_block region-odd odd region-count-5 count-11">
       <h2 class="title">Footer links</h2>
   
   <div class="content">
     <div class="menu-block-2 menu-name-menu-footer-menu parent-mlid-0 menu-level-1">
-  <ul class="menu"><li class="leaf first menu-mlid-22198"><span class="first menu-item-container" tabindex="0">© 2012 Micron Consumer Products Group, Inc.</span></li>
+  <ul class="menu"><li class="leaf first menu-mlid-22198"><span class="first menu-item-container" tabindex="0">© 2013 Micron Consumer Products Group, Inc.</span></li>
 <li class="leaf menu-mlid-15742"><a href="http://www.lexar.com/about/privacy">Privacy Policy</a></li>
 <li class="leaf menu-mlid-15744"><a href="http://www.lexar.com/content/lexar-terms-use">Lexar Terms of Use</a></li>
 <li class="leaf menu-mlid-20948"><a href="http://www.micron.com/about/our-commitment/ca-sb-657" title=" CA SB 657"> CA SB 657</a></li>
