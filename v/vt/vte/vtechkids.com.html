@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the vtechkids.com privacy policy that was archived on 2012-12-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121214014819id_/http%3A//www.vtechkids.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vtechkids.com privacy policy that was archived on 2013-05-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130516204345id_/http%3A//www.vtechkids.com/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -31,13 +31,17 @@
 
 
 
-<!-- JS and CSS start -->
-	<link rel="stylesheet" type="text/css" media="screen" href="/assets/include/min/b=assets/css/default&amp;f=common.css,support.css,privacy_policy_v2.css">
-	
-		<script type="text/javascript" src="/assets/include/min/b=assets/js&amp;f=common.js"></script>
+<!-- Adobe mbox.js [START] -->
+<script src="http://www.vtechkids.com/assets/js/adobe/mbox.js"></script>
+<!-- Adobe mbox.js [END] -->
 
+<!-- JS and CSS start -->
+<link rel="stylesheet" type="text/css" media="screen" href="/assets/include/min/b=assets/css/default&amp;f=common.css,support.css,privacy_policy_v2.css"><script type="text/javascript" src="/assets/include/min/b=assets/js&amp;f=common.js,jquery.autoellipsis-1.0.10.min.js"></script>
 <script type="text/javascript" src="/assets/js/fancybox/jquery.fancybox-1.3.4.pack.js"></script><script type="text/javascript" src="/assets/js/fancybox/jquery.easing-1.3.pack.js"></script><script type="text/javascript" src="/assets/js/stylish-select/js/jquery.stylish-select.js"></script>
 <!-- JS and CSS end -->
+
+<!-- hmvc js and css [start] -->
+	<!-- hmvc js and css [END] -->
 
 <!--[if lt IE 8]>
     <link rel="stylesheet" type="text/css" href="/assets/css/default/ie_fix.css" media="screen" />
@@ -55,13 +59,16 @@
 <!--[if IE 6]>
     <link rel="stylesheet" type="text/css" href="/assets/css/default/ie6_fix.css" media="screen" />
 <![endif]-->
-
-
-
 </head>
 <body class="close_to_cart">
+<!-- mbox test[START] -->
+<div class="mboxDefault"></div> 
+<script type="text/javascript"> 
+	mboxCreate('home_top'); 
+</script> 
+<!-- mbox test[END] -->
 <div style="height:1px;width:1px;text-indent:-9999px;"><h1></h1></div>
-		
+
     <div id="wrap">
 			
         <div id="header">
@@ -71,7 +78,7 @@
 						<img border="0" title="VTechkids.com" alt="VTechkids.com" src="/assets/images/new_theme/VTechlogo.png">
 					</a>
 				</div>			
-				<div id="header_slogan"></div>
+				<div id="header_slogan"><a href="http://www.vtechkids.com/shipping_returns"><img src="http://www.vtechkids.com/assets/data/home/images/promo/FreeShippingHeading-60.png" alt="Free Shipping on orders over $60"></a></div>
 			</div>
 			
 			<div id="header_right">
@@ -136,7 +143,11 @@
 										if(!obj.valid){
 											holiday_header_error_dialog(obj);
 										}else{
-											$("#holiday_sign_up_border").html('<div id="holiday_sign_up_success"></div>');
+											var suc_id = 'holiday_sign_up_success';
+											var _html = '<div id="'+suc_id+'"></div>';
+											$("#holiday_sign_up_border").html(_html);
+											mboxDefine(suc_id, "home_clubvtech_confirm");
+											mboxUpdate("home_clubvtech_confirm"); 
 										}
 								   }
 								  // async:   false
@@ -207,17 +218,22 @@
 					</style>	
 				<div id="holiday_sign_up_wrap">				
 					<div id="holiday_sign_up_border">
-						<div id="holiday_sign_up">
-							<form id="header_deal_signup" name="header_deal_signup" action="javascript:holiday_header_sign_up();">
-								<div id="holiday_sign_up_input"><input id="top_email" value="" type="text" name="top_email" size="25"></div>
-							</form>
-							<div id="holiday_sign_up_btn">
-								<a href="javascript:holiday_header_sign_up();">
-									<img src="/assets/images/default/holiday_special/JoinBtn.png">
-								</a>
-							</div>
-						</div>						
-					</div>	
+						<div class="mboxDefault">
+							<div id="holiday_sign_up">
+								<form id="header_deal_signup" name="header_deal_signup" action="javascript:holiday_header_sign_up();">
+									<div id="holiday_sign_up_input"><input id="top_email" value="" type="text" name="top_email" size="25" placeholder="Enter Email Address"></div>
+								</form>
+								<div id="holiday_sign_up_btn">
+									<a href="javascript:holiday_header_sign_up();">
+										<img src="/assets/images/default/holiday_special/JoinBtn.png">
+									</a>
+								</div>
+							</div>		
+						</div>
+						<script type="text/javascript">
+							mboxCreate('homepage_top');
+						</script>
+					</div>
 				</div>
 				<!-- form error popup dialog start -->
 				<div id="holiday_header_form_error_dialog" style="display:none;">
@@ -254,9 +270,9 @@
 															</select>
 						</div>		
 						<div class="header_search_input">
-							<input type="text" id="search_keywords" value="" name="search_keywords">
+							<input type="text" id="search_keywords" value="" name="search_keywords" placeholder="Search for Products">
 						</div>
-						<a href="javascript:void(0);" onclick="$('#header_nav_search_form').submit();" class="search_go"></a>
+						<a href="javascript:void(0);" onclick="header_nav_search_form.submit();" class="search_go"></a>
 					</div>					
 				</div>
 				</form>
@@ -321,7 +337,7 @@
 				</li>
 				<li class="top_menu_li">
 					<a class="top_menu_main_item" href="javascript:void(0);">Character</a>
-						<ul class="sub_item"><li class="sub_item_sel"><a href="http://www.vtechkids.com/product/plus/characters/{4C65EF34-F773-4FA5-9C52-4EA15778BB64}/true">Chuggington</a></li><li class="sub_item_sel"><a href="http://www.vtechkids.com/product/plus/characters/{95EB3DF0-8564-4674-8DA3-A1321890C61F}/true">Dinosaur Train</a></li><li class="sub_item_sel"><a href="http://www.vtechkids.com/product/plus/characters/{13589D9C-BC51-4A7D-8239-5A35AD840540}/true">Disney Brave</a></li><li class="sub_item_sel"><a href="http://www.vtechkids.com/product/plus/characters/{E96073EA-C2D8-4692-BD9E-84D9E9D56B35}/true">Disney Fairies</a></li><li class="sub_item_sel"><a href="http://www.vtechkids.com/product/plus/characters/{AB5AE7F6-81B9-475F-BD0C-4C798F23F137}/true">Disney Handy Manny</a></li><li class="sub_item_sel"><a href="http://www.vtechkids.com/product/plus/characters/{75101361-490A-476D-8FB7-7EC6ABF3CD04}/true">Disney Jake &amp; the Neverland Pirates</a></li><li class="sub_item_sel"><a href="http://www.vtechkids.com/product/plus/characters/{67C7E865-EFE1-4D57-8DA2-E53111BC760E}/true">Disney Little Einsteins</a></li><li class="sub_item_sel"><a href="http://www.vtechkids.com/product/plus/characters/{8C8CA2A4-B585-42A3-B84D-55D78F43E41C}/true">Disney Minnie</a></li><li class="sub_item_sel"><a href="http://www.vtechkids.com/product/plus/characters/{3E0A421C-6159-49B7-8761-3A29170FFDE7}/true">Disney Pixar Cars</a></li><li class="sub_item_sel"><a href="http://www.vtechkids.com/product/plus/characters/{5151E4CB-F6C8-4A2C-AD08-CB921570286B}/true">Disney Pixar Finding Nemo</a></li><li class="sub_item_sel"><a href="http://www.vtechkids.com/product/plus/characters/{C25FEA6E-6655-4083-8E79-8D5D27332800}/true">Disney Pixar Toy Story</a></li><li class="sub_item_sel"><a href="http://www.vtechkids.com/product/plus/characters/{3105B92C-2D1E-4ADA-965C-79A4287ADD27}/true">Disney Princesses</a></li><li class="sub_item_sel"><a href="http://www.vtechkids.com/product/plus/characters/{E7E43060-7A55-4139-915B-D5D188613330}/true">Disney Tangled</a></li><li class="sub_item_sel"><a href="http://www.vtechkids.com/product/plus/characters/{B7F9AEBD-AE1E-4C97-BE56-B4CA37DFE8DB}/true">Disney The Lion King</a></li><li class="sub_item_sel"><a href="http://www.vtechkids.com/product/plus/characters/{69E22C1C-E91F-4C62-ADDE-85475EC88097}/true">Dora the Explorer</a></li><li class="sub_item_sel"><a href="http://www.vtechkids.com/product/plus/characters/{56F64078-8CCC-4263-B0F9-02CE095D3BA2}/true">Elmo &amp; Sesame Street</a></li><li class="sub_item_sel"><a href="http://www.vtechkids.com/product/plus/characters/{696FDC45-A36E-430C-A23A-E967D85ED5DE}/true">Hello Kitty</a></li><li class="sub_item_sel"><a href="http://www.vtechkids.com/product/plus/characters/{3093D53A-2292-489F-83B9-C6E0CEA42141}/true">Kung Fu Panda</a></li><li class="sub_item_sel"><a href="http://www.vtechkids.com/product/plus/characters/{EBB43E02-F949-4A75-B5D4-705A330C5A9A}/true">Madagascar</a></li><li class="sub_item_sel"><a href="http://www.vtechkids.com/product/plus/characters/{8308617E-8DD0-404A-A299-A13C27FA0CFB}/true">Mickey Mouse Clubhouse</a></li><li class="sub_item_sel"><a href="http://www.vtechkids.com/product/plus/characters/{C51448AF-D3E4-47DC-9864-757CFBA31231}/true">Scooby Doo</a></li><li class="sub_item_sel"><a href="http://www.vtechkids.com/product/plus/characters/{FD1A0332-34EE-438C-9A55-85E8C6D13DB1}/true">Sponge Bob Square Pants</a></li><li class="sub_item_sel"><a href="http://www.vtechkids.com/product/plus/characters/{C24371CF-BF30-430E-9307-54352BFD631D}/true">Team Umizoomi</a></li><li class="sub_item_sel"><a href="http://www.vtechkids.com/product/plus/characters/{F82FFAAB-083A-4B7C-9434-AFA628C484D6}/true">Thomas &amp; Friends</a></li></ul>				</li>
+						<ul class="sub_item"><li class="sub_item_sel"><a href="http://www.vtechkids.com/product/plus/characters/4C65EF34-F773-4FA5-9C52-4EA15778BB64/true">Chuggington</a></li><li class="sub_item_sel"><a href="http://www.vtechkids.com/product/plus/characters/95EB3DF0-8564-4674-8DA3-A1321890C61F/true">Dinosaur Train</a></li><li class="sub_item_sel"><a href="http://www.vtechkids.com/product/plus/characters/13589D9C-BC51-4A7D-8239-5A35AD840540/true">Disney Brave</a></li><li class="sub_item_sel"><a href="http://www.vtechkids.com/product/plus/characters/E96073EA-C2D8-4692-BD9E-84D9E9D56B35/true">Disney Fairies</a></li><li class="sub_item_sel"><a href="http://www.vtechkids.com/product/plus/characters/AB5AE7F6-81B9-475F-BD0C-4C798F23F137/true">Disney Handy Manny</a></li><li class="sub_item_sel"><a href="http://www.vtechkids.com/product/plus/characters/75101361-490A-476D-8FB7-7EC6ABF3CD04/true">Disney Jake &amp; the Neverland Pirates</a></li><li class="sub_item_sel"><a href="http://www.vtechkids.com/product/plus/characters/67C7E865-EFE1-4D57-8DA2-E53111BC760E/true">Disney Little Einsteins</a></li><li class="sub_item_sel"><a href="http://www.vtechkids.com/product/plus/characters/8C8CA2A4-B585-42A3-B84D-55D78F43E41C/true">Disney Minnie</a></li><li class="sub_item_sel"><a href="http://www.vtechkids.com/product/plus/characters/3E0A421C-6159-49B7-8761-3A29170FFDE7/true">Disney Pixar Cars</a></li><li class="sub_item_sel"><a href="http://www.vtechkids.com/product/plus/characters/5151E4CB-F6C8-4A2C-AD08-CB921570286B/true">Disney Pixar Finding Nemo</a></li><li class="sub_item_sel"><a href="http://www.vtechkids.com/product/plus/characters/C25FEA6E-6655-4083-8E79-8D5D27332800/true">Disney Pixar Toy Story</a></li><li class="sub_item_sel"><a href="http://www.vtechkids.com/product/plus/characters/3105B92C-2D1E-4ADA-965C-79A4287ADD27/true">Disney Princesses</a></li><li class="sub_item_sel"><a href="http://www.vtechkids.com/product/plus/characters/E7E43060-7A55-4139-915B-D5D188613330/true">Disney Tangled</a></li><li class="sub_item_sel"><a href="http://www.vtechkids.com/product/plus/characters/B7F9AEBD-AE1E-4C97-BE56-B4CA37DFE8DB/true">Disney The Lion King</a></li><li class="sub_item_sel"><a href="http://www.vtechkids.com/product/plus/characters/69E22C1C-E91F-4C62-ADDE-85475EC88097/true">Dora the Explorer</a></li><li class="sub_item_sel"><a href="http://www.vtechkids.com/product/plus/characters/56F64078-8CCC-4263-B0F9-02CE095D3BA2/true">Elmo &amp; Sesame Street</a></li><li class="sub_item_sel"><a href="http://www.vtechkids.com/product/plus/characters/696FDC45-A36E-430C-A23A-E967D85ED5DE/true">Hello Kitty</a></li><li class="sub_item_sel"><a href="http://www.vtechkids.com/product/plus/characters/3093D53A-2292-489F-83B9-C6E0CEA42141/true">Kung Fu Panda</a></li><li class="sub_item_sel"><a href="http://www.vtechkids.com/product/plus/characters/EBB43E02-F949-4A75-B5D4-705A330C5A9A/true">Madagascar</a></li><li class="sub_item_sel"><a href="http://www.vtechkids.com/product/plus/characters/8308617E-8DD0-404A-A299-A13C27FA0CFB/true">Mickey Mouse Clubhouse</a></li><li class="sub_item_sel"><a href="http://www.vtechkids.com/product/plus/characters/FD1A0332-34EE-438C-9A55-85E8C6D13DB1/true">Sponge Bob Square Pants</a></li><li class="sub_item_sel"><a href="http://www.vtechkids.com/product/plus/characters/C24371CF-BF30-430E-9307-54352BFD631D/true">Team Umizoomi</a></li><li class="sub_item_sel"><a href="http://www.vtechkids.com/product/plus/characters/F82FFAAB-083A-4B7C-9434-AFA628C484D6/true">Thomas &amp; Friends</a></li></ul>				</li>
 				<li class="top_menu_li">
 					<a class="top_menu_main_item" href="javascript:void(0);">Toy Type</a>
 					<ul class="sub_item"><li class="sub_item_sel"><a href="http://www.vtechkids.com/product/plus/toy_types/Accessories/true">Accessories</a></li><li class="sub_item_sel"><a href="http://www.vtechkids.com/product/plus/toy_types/activity_toy/true">Activity Centers &amp; Tables</a></li><li class="sub_item_sel"><a href="http://www.vtechkids.com/product/plus/toy_types/ball_toy/true">Ball Play Toys</a></li><li class="sub_item_sel"><a href="http://www.vtechkids.com/product/plus/toy_types/bath_toy/true">Bath Toys</a></li><li class="sub_item_sel"><a href="http://www.vtechkids.com/product/plus/toy_types/Creativity_Toy/true">Creativity Toys</a></li><li class="sub_item_sel"><a href="http://www.vtechkids.com/product/plus/toy_types/crib_toy/true">Crib Toys / Mobiles / Soothers</a></li><li class="sub_item_sel"><a href="http://www.vtechkids.com/product/plus/toy_types/Digital_Camera/true">Digital Cameras</a></li><li class="sub_item_sel"><a href="http://www.vtechkids.com/product/plus/toy_types/Downloadable_Apps/true">Downloadable Apps</a></li><li class="sub_item_sel"><a href="http://www.vtechkids.com/product/plus/toy_types/Gyms/true">Gyms, Walkers &amp; Ride-ons</a></li><li class="sub_item_sel"><a href="http://www.vtechkids.com/product/plus/toy_types/Handheld_Learning/true">Handheld Learning Toys</a></li><li class="sub_item_sel"><a href="http://www.vtechkids.com/product/plus/toy_types/Laptop/true">Learning Laptops</a></li><li class="sub_item_sel"><a href="http://www.vtechkids.com/product/plus/toy_types/Learning_Tablets/true">Learning Tablets</a></li><li class="sub_item_sel"><a href="http://www.vtechkids.com/product/plus/toy_types/Music_Instruments/true">Music &amp; Instruments</a></li><li class="sub_item_sel"><a href="http://www.vtechkids.com/product/plus/toy_types/Pets/true">Pets &amp; Pals</a></li><li class="sub_item_sel"><a href="http://www.vtechkids.com/product/plus/toy_types/Playsets/true">Playsets</a></li><li class="sub_item_sel"><a href="http://www.vtechkids.com/product/plus/toy_types/Plush/true">Plush</a></li><li class="sub_item_sel"><a href="http://www.vtechkids.com/product/plus/toy_types/Pre-Reading/true">Pre-Reading / Reading Toys</a></li><li class="sub_item_sel"><a href="http://www.vtechkids.com/product/plus/toy_types/Push_Roll_Toys/true">Push, Pull &amp; Roll Toys</a></li><li class="sub_item_sel"><a href="http://www.vtechkids.com/product/plus/toy_types/Rattles_Teether/true">Rattles &amp; Teether Toys</a></li><li class="sub_item_sel"><a href="http://www.vtechkids.com/product/plus/toy_types/Role_Play/true">Role Play Toys</a></li><li class="sub_item_sel"><a href="http://www.vtechkids.com/product/plus/toy_types/Software/true">Software</a></li><li class="sub_item_sel"><a href="http://www.vtechkids.com/product/plus/toy_types/Stacking_Sorting/true">Stacking &amp; Sorting Toys</a></li><li class="sub_item_sel"><a href="http://www.vtechkids.com/product/plus/toy_types/Take_Along_Toys/true">Take-Along Toys</a></li><li class="sub_item_sel"><a href="http://www.vtechkids.com/product/plus/toy_types/Vehicles/true">Vehicles</a></li><li class="sub_item_sel"><a href="http://www.vtechkids.com/product/plus/toy_types/Writing_Toys/true">Writing Toys</a></li></ul>					
@@ -337,11 +353,11 @@
 				</li>
 				<li class="top_menu_li">
 					<a class="top_menu_main_item" href="http://www.vtechkids.com/specialoffers/">Special Offers</a>
-					<ul class="sub_item">	
-						<li class="sub_item_sel"><a href="http://www.vtechkids.com/twelve_days_of_xmas">12 Days Of Christmas</a></li>
-						<li class="sub_item_sel"><a href="http://www.vtechkids.com/holiday_deals/exclusive_gift_sets">Exclusive Holiday Gift Sets</a></li>
-						<li class="sub_item_sel"><a href="http://www.vtechkids.com/holiday_deals/holiday_toy_list">Holiday Toy List</a></li>					
+					<ul class="sub_item">
+						<!--li class="sub_item_sel"><a href="< ?php echo site_url(); ?>holiday_deals/exclusive_gift_sets">Exclusive Holiday Gift Sets</a></li-->
+						<!--li class="sub_item_sel"><a href="http://www.vtechkids.com/holiday_deals/holiday_toy_list">Holiday Toy List</a></li-->					
 						<li class="sub_item_sel"><a href="http://www.vtechkids.com/giftset_deals">Gift Sets</a></li>
+						<li class="sub_item_sel"><a href="http://www.vtechkids.com/top_seller">Top Sellers</a></li>
 						<li class="sub_item_sel"><a href="http://www.vtechkids.com/clearance_items">Clearance Items</a></li>
 						<li class="sub_item_sel"><a href="http://www.vtechkids.com/specialoffers/">See All Offers</a></li>
 					</ul>
@@ -706,7 +722,7 @@ This Policy constitutes your entire understanding related to information about y
 					<li><a href="http://www.vtechkids.com/product/">Shop for Toys</a></li>
 					<li><a href="http://www.vtechkids.com/specialoffers/">Special Offers</a></li>
 					<li><a href="http://www.vtechkids.com/cart/">Shopping Cart (0)</a></li>
-					<li><a href="http://www.vtechkids.com/product/recent/">Recently Visited Products (7)</a></li>
+					<li><a href="http://www.vtechkids.com/product/recent/">Recently Visited Products (0)</a></li>
 					<li><a href="http://www.vtechkids.com/parenting/">Parent Resource Center</a></li>
 				</ul>
 								
@@ -721,6 +737,7 @@ This Policy constitutes your entire understanding related to information about y
 				<ul class="sitemap_item_section">
 					<li><a href="http://www.vtechkids.com/support/">Customer Support</a></li>
 					<li><a href="http://www.vtechkids.com/support/faqs">FAQs</a></li>
+					<li><a href="http://www.vtechkids.com/tutorials/innotab2">Tutorials</a></li>					
 					<li><a href="http://www.vtechkids.com/support/contact_us">Contact Us</a></li>
 					<li><a href="http://www.vtechkids.com/support/safety">Product Safety Message</a></li>
 					<li><a href="http://www.vtechkids.com/terms_of_use/">Terms of Use</a></li>
@@ -751,8 +768,8 @@ This Policy constitutes your entire understanding related to information about y
 			<div class="clear">&nbsp;</div>
 			<div id="footer_copyright">
 				<ul>
-					<!--li>&copy; 2007 - 2012 VTech Electronics North America, LLC, All Rights Reserved.</li-->
-					<li>©  2012 VTech Electronics North America, LLC, All Rights Reserved.</li>
+					<!--li>&copy; 2007 - 2013 VTech Electronics North America, LLC, All Rights Reserved.</li-->
+					<li>©  2013 VTech Electronics North America, LLC, All Rights Reserved.</li>
 				</ul>
 			</div>
 			<div class="clear">&nbsp;</div>
@@ -806,10 +823,9 @@ document.write('<scr'+'ipt type="text/javascript" src="'+VT_JS_PROTOCAL+'//www.g
 
 
 <!-- js ready start --> 
-<script type="text/javascript" src="/assets/include/min/b=assets/js&amp;f=main_v2.js"></script>
-	
+<script type="text/javascript" src="/assets/include/min/b=assets/js&amp;f=main_v2.js"></script>	
 <!-- js ready end -->
 	</div>
 	
-		
+	
 </body></html>
