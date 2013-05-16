@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the medelabreastfeedingus.com privacy policy that was archived on 2012-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120922054157id_/http%3A//www.medelabreastfeedingus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medelabreastfeedingus.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516100751id_/https%3A//www.medelabreastfeedingus.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Medela
 
 [Home](https://web.archive.org/) > Privacy Policy
-
-**Privacy Policy**
 
 Medela, Inc. has created this privacy policy (“Privacy Policy”) in order to demonstrate our firm commitment to adhering to federal and state privacy laws and industry guidelines in order to protect your privacy. This Privacy Policy discloses our information gathering and dissemination practices for the site available at [www.Medela.com](http://www.medela.com/) and any related services or applications owned by Medela, Inc. (this ”Site”). This Privacy Policy applies only to this Site, not to any other web sites that may be accessible from here. Please note that when you access any external links from this Site, they may have different privacy policies specific to those sites. We encourage you to read all applicable privacy policies.
 
