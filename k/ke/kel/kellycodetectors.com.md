@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kellycodetectors.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116005044id_/http%3A//www.kellycodetectors.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kellycodetectors.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516211915id_/http%3A//www.kellycodetectors.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Kellyco Metal Detector Superstore
 
-### Privacy Policy:
+### Privacy Policy & Legal Notice:
 
 **What information do we collect?**
 
@@ -46,8 +46,7 @@ If we decide to change our privacy policy, we will post those changes on this pa
 **Questions and feedback**  
 We welcome your questions, comments, and concerns about privacy. Please send us any and all feedback pertaining to privacy, or any other issue.
 
-**Your consent**  
-By using our site, you consent to our privacy policy.
+**All words and photographs are © 1998 - 2013 Kellyco Metal Detector Distributors unless otherwise noted.** All rights reserved. Any use or retransmission of text or images on this website without written consent of the copyright owner constitutes copyright infringement and is prohibited. Published SAVE, SAVE UP TO and SAVING Percentages are based on Manufactures MSRP Manufacturers Suggested Retail Price) list price or (compared to price) or/and total combined savings of metal detector and its bundled accessories. Kellyco is not responsible for typographical errors, mistakes or manufacturers inability to ship a product. 
 
-Kellyco Metal Detector SuperStore 1085 Belle Ave. Winter Springs, Florida 32708 - Toll FREE: 1-888-KELLYCO (1-888-535-5926)  \- Questions or Comments - Please e-mail us [here](mailto:customerservice@kellycodetectors.com).   
-All words and photographs are © 1998 - 2012 Kellyco Metal Detector Distributors unless otherwise noted. All rights reserved. Any use or retransmission of text or images on this website without written consent of the copyright owner constitutes copyright infringement and is prohibited. **Enjoy your metal detector and happy hunting! Published SAVE, SAVE UP TO and SAVING Percentages are based on Manufactures MSRP (Manufacturers Suggested Retail Price) list price or (compared to price) or/and total combined savings of metal detector and its bundled accessories. Not responsible for typographical errors, mistakes or manufacturers inability to ship a product.**
+**Your consent**  
+By using our site, you consent to our Privacy Policy and Legal Notices.
