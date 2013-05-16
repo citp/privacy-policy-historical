@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ukcampsite.co.uk privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005063049id_/http%3A//www.ukcampsite.co.uk/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ukcampsite.co.uk privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516025939id_/http%3A//www.ukcampsite.co.uk/privacy.asp) for the most accurate reproduction.*
 
 # UKCampsite.co.uk Privacy and Cookie Policy
 
@@ -85,9 +85,9 @@
 > 
 > We reserve the right, at any time, to modify, alter, or update these policies. All links correct at time of publication. 
 
-**2445 Visitors online !**
+**1957 Visitors online !**
 
-[Free UKCampsite.co.uk Sticker](http://www.ukcampsite.co.uk/membershop/stickeronly.asp)  -  [Recommend to friends](http://www.ukcampsite.co.uk/recommend.asp)  -  [Cheap Hotels](http://www.hotelshotelshotels.co.uk/)  -  [Pension News](http://www.cartwrightgroup.co.uk/tml/news.pl)
+[Free UKCampsite.co.uk Windows Sticker](http://www.ukcampsite.co.uk/membershop/sticker.asp)  -  [Recommend to Friend](http://www.ukcampsite.co.uk/recommend.asp)  -  [Cheap Hotels](http://www.hotelshotelshotels.co.uk/)  -  [Pension News](http://www.cartwrightgroup.co.uk/tml/news.pl)
 
 [[Message Forums](http://www.ukcampsite.co.uk/chatter/)]  [[Caravan Sites & Camping](http://www.ukcampsite.co.uk/sites/index.asp)]  [[Company Listings](http://www.ukcampsite.co.uk/directory2/)]  [[Features / Advice](http://www.ukcampsite.co.uk/articles/index.asp)]  [[Virtual Brochure](http://www.ukcampsite.co.uk/sites/vb/vb.asp)]  [[Shop!](http://www.ukcampsite.co.uk/membershop/)]  
 [[Reception](http://www.ukcampsite.co.uk/index.asp)]  [[Competitions](http://www.ukcampsite.co.uk/Competitions/)]  [[Caravans & Motorhomes For Sale](http://www.ukcampsite.co.uk/forsale/)]  [[Event Diary](http://www.ukcampsite.co.uk/events/index.asp)]  [[Contact Us](http://www.ukcampsite.co.uk/contact/)]  [[Tent Reviews](http://www.ukcampsite.co.uk/tents/)]   
