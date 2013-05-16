@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsblaze.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226064335id_/http%3A//newsblaze.com/policy/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsblaze.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516045747id_/http%3A//newsblaze.com/policy/privacy_policy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
@@ -120,11 +120,11 @@ The prevailing party shall be reimbursed by the other party for any and all cost
 
 **JURISDICTION AND VENUE **
 
-If any matter concerning this purchase shall be brought before a court of law, pre- or post-arbitration, Visitor agrees to that the sole and proper jurisdiction to be the state and city declared in the contact information of the web owner unless otherwise here specified.  Sacramento, Sacramento County, California.  In the event that litigation is in a federal court, the proper court shall be the closest federal court to the Seller's address.
+If any matter concerning this purchase shall be brought before a court of law, pre- or post-arbitration, Visitor agrees to that the sole and proper jurisdiction to be the state and city declared in the contact information of the web owner unless otherwise here specified.  Queanbeyan, New South Wales, Australia.  In the event that litigation is in a federal court, the proper court shall be the closest federal court to the Seller's address.
 
 **APPLICABLE LAW **
 
-Visitor agrees that the applicable law to be applied shall, in all cases, be that of California.
+Visitor agrees that the applicable law to be applied shall, in all cases, be that of New South Wales, Australia.
 
 **COPYRIGHT AND LICENSE  **
 
