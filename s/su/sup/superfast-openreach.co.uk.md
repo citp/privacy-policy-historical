@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superfast-openreach.co.uk privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230185606id_/http%3A//www2.bt.com/btPortal/application%3Fpageid%3Dpan_privacy_policy%26siteAr) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superfast-openreach.co.uk privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516130909id_/http%3A//www2.bt.com/btPortal/application%3Fpageid%3Dpan_privacy_policy%26siteAr) for the most accurate reproduction.*
 
 # BT.com | Privacy Policy
 
@@ -25,7 +25,7 @@ Browser settings
 Further information   
 Are third party sites covered by this policy?   
    
-[ ](http://www.bt.com/index.jsp "back")  
+[ ](http://www.openreach.co.uk/orpg/home/products/products.do?siteArea=pan&pageid=pan_privacy_policy&siteAr= "back")  
    
 BT Websites Privacy and Security Policy   
    
