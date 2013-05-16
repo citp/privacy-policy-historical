@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thelocal.se privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017053502id_/http%3A//www.thelocal.se/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelocal.se privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516133642id_/http%3A//www.thelocal.se/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - The Local
 
@@ -61,14 +61,3 @@ At all times, you may adjust your computer's web browser settings to refuse all 
 You can also remove all cookies from your computer – or specific cookies that you wish to remove –by opening your internet browser’s settings and finding the privacy or content settings.
 
 ## More information
-
-  
-
-
-[](https://web.archive.org/followsweden/)
-
-[](https://web.archive.org/followsweden/article/10-innovations-you-didnt-know-were-Swedish/)
-
-## [10 innovations you didnt know were Swedish](https://web.archive.org/followsweden/article/10-innovations-you-didnt-know-were-Swedish/)
-
-From Anders Celsius's thermometer in the 1700s to Skype in 2003, Sweden has long been a country that breeds innovation. The Global Innovation Index 2012 ranked Sweden as the most innovative country within the European Union. [Read more »](https://web.archive.org/followsweden/article/10-innovations-you-didnt-know-were-Swedish/)
