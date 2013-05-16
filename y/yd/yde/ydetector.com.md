@@ -1,23 +1,43 @@
-> *The following text is extracted and transformed from the ydetector.com privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125143734id_/http%3A//www.ydetector.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ydetector.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516050113id_/http%3A//www.ydetector.com/privacy) for the most accurate reproduction.*
 
-# Yahoo Invisible Scanner » Detect who is invisible
+# YDetector - Privacy policy
 
-## Privacy Policy
+**What information do we collect?**
 
-At www.ydetector.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.ydetector.com and how it is used.
+Google, as a third party vendor, uses cookies to serve ads on your site.  
+Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
+Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
 
-### Log Files
+**Do we use cookies?**
 
-Like many other Web sites, www.ydetector.com makes use of log files. The information inside the log files includes internet protocol (IP) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
 
-### Cookies and Web Beacons
+We use cookies to understand and save your preferences for future visits.
 
-www.ydetector.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
+**Do we disclose any information to outside parties?**
 
-### DoubleClick DART Cookie
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-\- Google, as a third party vendor, uses cookies to serve ads on www.ydetector.com.  
-\- Google's use of the DART cookie enables it to serve ads to users based on their visit to www.ydetector.com and other sites on the Internet.  
-\- Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html
+**Third party links**
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+**Childrens Online Privacy Protection Act Compliance**
+
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+
+**Your Consent**
+
+By using our site, you consent to our [web site privacy policy](http://www.freeprivacypolicy.com/).
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page.
+
+#### Incoming search terms:
+
+  * [google ydetector](http://www.ydetector.com/privacy "google ydetector")
+  * [wnzwutryvp](http://www.ydetector.com/privacy "wnzwutryvp")
+  * [YDetector-Privacypolicy](http://www.ydetector.com/privacy "YDetector-Privacypolicy")
+
+
