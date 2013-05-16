@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the xaraxone.com privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115153214id_/http%3A//www.xaraxone.com/legal-notices/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xaraxone.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517011454id_/http%3A//www.xaraxone.com/legal-notices/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Xara Xone
 
 XARA has created this privacy statement in order to **demonstrate the company’s firm commitment to privacy**. The following discloses the information gathering and dissemination practices for the Xara web [www.xaraxone.com](http://xaraxone.com/)
 
- **Xara Group Ltd is 100% owned by Magix AG and references to Xara in this document should be taken to mean both Xara and Magix.**
+**Xara Group Ltd is 100% owned by Magix AG and references to Xara in this document should be taken to mean both Xara and Magix.**
 
 ## Information collected by download forms, opt-in mailing list and surveys
 
@@ -50,7 +50,7 @@ Within the frame of applicable law Xara will surrender information to law enforc
 This site provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor. This site also gives users the following options for removing information from our database if they no longer wish to receive information from Xara:
 
   * Send [e-mail](http://www.xara.com/contact/)
-  * Post mail to:
+  * Post mail to: 
 
 Xara Group Ltd
 
@@ -69,7 +69,7 @@ This site gives users the following options for changing and modifying informati
 
   * Change your details directly in your Xara Account at <http://www.club.xara.com/>
   * Send [e-mail](http://www.xara.com/contact/)
-  * Post mail to:
+  * Post mail to: 
 
 Xara Group Ltd
 
