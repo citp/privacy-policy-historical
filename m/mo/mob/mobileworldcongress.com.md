@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mobileworldcongress.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230192710id_/http%3A//www.mobileworldcongress.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobileworldcongress.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516064403id_/http%3A//www.mobileworldcongress.com/privacy) for the most accurate reproduction.*
 
-# Mobile World Congress 2013 | Privacy | Mobile World Congress 2013
+# Privacy | Mobile World Congress 2013
 
 ### The GSMA Privacy Policy
 
