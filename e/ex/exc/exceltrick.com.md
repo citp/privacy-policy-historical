@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the exceltrick.com privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115235550id_/http%3A//www.exceltrick.com/privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exceltrick.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516204207id_/http%3A//www.exceltrick.com/privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-At [ExcelTrick](https://web.archive.org/web/20121115235550id_/http%3A//www.exceltrick.com/www.exceltrick.com), the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by us and how it is used.
+At [ExcelTrick](http://www.exceltrick.com/), the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by us and how it is used.
 
- **Log Files**
+**Log Files**
 
 • Like many other Web sites, we too makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyse trends, administer the site, track user’s movement around the site, and gather demographic information.
 
@@ -12,7 +12,7 @@ At [ExcelTrick](https://web.archive.org/web/20121115235550id_/http%3A//www.excel
 
 • The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable or any other), the browser you used to visit our site (such as Internet Explorer, Google Chrome, Firefox or any other), the time you visited our site and which pages you visited throughout our site.
 
- **Cookies and Web Beacons**
+**Cookies and Web Beacons**
 
 • We do use cookies to store information, such as your personal preferences when you visit our site with Google analytics.
 
@@ -22,10 +22,12 @@ At [ExcelTrick](https://web.archive.org/web/20121115235550id_/http%3A//www.excel
 
 • If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
- **Really Simple Syndication**
+**Really Simple Syndication**
 
 • The information provided by you [such as Emails and subscription requests] is only used for the purpose of providing it to feedburner to provide you with latest updates from our blog.
 
 • Your information is neither used by us for our own purpose nor transferred or sold to any third party
 
 • If you require any more information or have any questions about our privacy policy, please feel free to [contact us](http://www.exceltrick.com/about).
+
+### Share and Enjoy
