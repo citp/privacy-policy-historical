@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comsuper.gov.au privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010222301id_/http%3A//www.comsuper.gov.au/footer/index_privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comsuper.gov.au privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516095843id_/http%3A//comsuper.gov.au/footer/index_privacy.shtml) for the most accurate reproduction.*
 
 # ComSuper > Privacy and security statements
 
@@ -126,7 +126,7 @@ Family law matters are also covered by the usual Privacy legislation requirement
 
 ### Surveys
 
-ComSuper monitors and evaluates its performance against the standards set out in the [Service Charter](https://web.archive.org/web/20121010222301id_/http%3A//www.comsuper.gov.au/about/service-charter.shtml).
+ComSuper monitors and evaluates its performance against the standards set out in the [Service Charter](https://web.archive.org/web/20130516095843id_/http%3A//comsuper.gov.au/about/service-charter.shtml).
 
 To continually improve our service we have commissioned an independent firm, ORIMA, to assess our performance against those standards.
 
@@ -160,7 +160,7 @@ In most circumstances, no charge will be incurred for releasing your personal in
 
 Your request to access information will be dealt with in a reasonable time.
 
-If we refuse to provide you with access to information, we will provide you with reasons for the refusal and details of your appeal rights. Requests for the release of information should be sent to the Freedom of Information Officer. See ['Contact us'](https://web.archive.org/web/20121010222301id_/http%3A//www.comsuper.gov.au/contact/index.shtml)
+If we refuse to provide you with access to information, we will provide you with reasons for the refusal and details of your appeal rights. Requests for the release of information should be sent to the Freedom of Information Officer. See ['Contact us'](https://web.archive.org/web/20130516095843id_/http%3A//comsuper.gov.au/contact/index.shtml)
 
 Back to top
 
@@ -180,7 +180,7 @@ Back to top
 
 ## Resolving your concerns
 
-If you wish to gain access to your personal information, have a complaint about a privacy issue or wish to query how your personal information is collected or used, please forward your request, complaint or query to the relevant contact. [See 'Contact us'](https://web.archive.org/web/20121010222301id_/http%3A//www.comsuper.gov.au/contact/index.shtml).
+If you wish to gain access to your personal information, have a complaint about a privacy issue or wish to query how your personal information is collected or used, please forward your request, complaint or query to the relevant contact. [See 'Contact us'](https://web.archive.org/web/20130516095843id_/http%3A//comsuper.gov.au/contact/index.shtml).
 
 Back to top
 
@@ -239,7 +239,7 @@ Commonwealth laws protect your personal information. These laws prohibit any per
 
 When using online services all information passing between your personal computer and the secure section of our website is encrypted using Secure Socket Layer (SSL).
 
-While we endeavour to provide a secure Internet environment, users should note that there are inherent risks associated with the transmission of information via the Internet. We provide alternative means of communication including direct contact via telephone, facsimile, post or face-to-face meetings. [See 'Contact us'](https://web.archive.org/web/20121010222301id_/http%3A//www.comsuper.gov.au/contact/index.shtml)
+While we endeavour to provide a secure Internet environment, users should note that there are inherent risks associated with the transmission of information via the Internet. We provide alternative means of communication including direct contact via telephone, facsimile, post or face-to-face meetings. [See 'Contact us'](https://web.archive.org/web/20130516095843id_/http%3A//comsuper.gov.au/contact/index.shtml)
 
 Back to top
 
