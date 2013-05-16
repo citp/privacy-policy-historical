@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reviewit.pk privacy policy that was archived on 2012-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121209023124id_/http%3A//reviewit.pk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reviewit.pk privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516203954id_/http%3A//reviewit.pk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pakistani Drama Reviews, Ratings & Entertainment news Portal
 
@@ -30,4 +30,6 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
-Rating: 2.7/ **5** (3 votes cast)
+Rating: 3.0/ **5** (4 votes cast)
+
+Privacy Policy, 3.0 out of 5 based on 4 ratings 
