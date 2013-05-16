@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emedoutlet.com privacy policy that was archived on 2012-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121030190304id_/http%3A//www.emedoutlet.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emedoutlet.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516103524id_/http%3A//www.emedoutlet.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy ::Emedoutlet Online Pharmacy::
 
@@ -18,12 +18,30 @@ Emedoutlet respects the confidentiality of your personal information. There are 
 We do not rent, sell, or disclose any of your personal information, regardless of whether you are a current or former customer. Should your relationship with Emedoutlet end, we will continue to limit disclosures of your personal information in accordance with our stated privacy policy and practices just as we do for those who maintain a continuing relationship with us.  
 We welcome your inquiries. Please email us at [noreply@emedoutlet.com](mailto:noreply@emedoutlet.com)  
   
-  
+[ ](https://www.emedoutlet.com/coupon-codes.php)   
 [ ](http://www.emedoutlet.com/charity.php)
+
+### Payment Options:
 
 [ ](http://www.emedoutlet.com/invitefriends_step1.php "Online Drugstore Referral Discount Program")
 
 ### [View Testimonial](https://www.emedoutlet.com/testimonial_view.php)
+
+  * Donna R
+
+When I lost my insurance coverage I was not sure what Id do. Emed was the Perfect answer they sure ...
+
+  * Lisa S
+
+I have been pleased with company and the ordering is simple its the delivery that takes forever and ...
+
+  * april r
+
+I have ordered from this company before with great service! I came back to order again because of th...
+
+  * Melissa M
+
+Ive placed several orders in the past year or two. I always receive my meds within a couple of week...
 
   * Linda M
 
@@ -56,23 +74,6 @@ they make it so easy to order and affordable...
   * terry m
 
 great website and very easy to navigate....
-
-  * GOEKCE O
-
-Today 31 May 2011 I just received my medicine. Wow.. so fast and good service.. Malaysia...
-
-  * Kenneth E
-
-I have been waiting 22 days and still not received my medication. I am out and have to have it!!...
-
-  * Mirko B
-
-A perfect place to buy medicines. Admirable service and product selection. Quick shipping no complic...
-
-  * cami l
-
-The Kitty Rescue  
-I have been ordering from Emedoutlet for several years now and they have saved ...
 
 
 
