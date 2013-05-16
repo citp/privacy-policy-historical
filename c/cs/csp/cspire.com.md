@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cspire.com privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028174614id_/http%3A//www.cspire.com/legal/general_landing.jsp%3Fid%3D/generic/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cspire.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516092035id_/http%3A//www.cspire.com/legal/general_landing.jsp%3Fid%3D/generic/privacyPolicy) for the most accurate reproduction.*
 
 # None
 
@@ -69,5 +69,3 @@ Attn: Wade Smith, Director, Product Development & Management
 **Contact Us:**
 
 Support 24 hours a day: 1-855-CSPIRE5 (277-4735)
-
-You liked this.
