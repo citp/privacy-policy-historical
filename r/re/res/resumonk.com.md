@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the resumonk.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015055203id_/http%3A//www.resumonk.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resumonk.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516161822id_/http%3A//www.resumonk.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy | Resumonk | Beautifully Simple Online Resume Builder
-
-### Privacy Policy
-
-This Privacy Policy governs the manner in which Resumonk collects, uses, maintains and discloses information collected from users (each, a "User") of the [www.resumonk.com](https://web.archive.org/web/20121015055203id_/http%3A//www.resumonk.com/www.resumonk.com) website ("Site"). This privacy policy applies to the Site and all products and services offered by Resumonk.
+# Privacy Policy - Resumonk | Beautiful & Professional Resume Templates | Online Resume Builder
 
 **Personal identification information**
 
@@ -30,6 +26,8 @@ We continually strive to improve our website offerings based on the information 
 Your information helps us to more effectively respond to your customer service requests and support needs.
   * _\- To send periodic emails_  
 The email address Users provide for order processing, will only be used to send them information and updates pertaining to their order. It may also be used to respond to their inquiries, and/or other requests or questions. 
+
+
 
 **How we protect your information**
 
@@ -59,8 +57,8 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
-  
-[**Resumonk**](http://resumonk.com/)  
-[bharani[at]resumonk.com](mailto:bharani@resumonk.com)
+[**Resumonk**](http://www.resumonk.com/)
+
+[support@resumonk.com](mailto:support@resumonk.com)
 
 This document was last updated on June 07, 2012
