@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the siberianhealth.com privacy policy that was archived on 2012-06-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120616030838id_/http%3A//siberianhealth.com/index.php%3Froute%3Dinformation/information%26information_id%3D3%26cat_off%3D1) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the siberianhealth.com privacy policy that was archived on 2013-05-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130517011327id_/http%3A//siberianhealth.com/index.php%3Froute%3Dinformation/privacypolicy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en" xml:lang="en"><head>
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en" xml:lang="en"><head>
 <title>Privacy Policy</title>
 
 
@@ -10,667 +10,988 @@
 <link href="http://siberianhealth.com/image/data/Corporate/Logo ENG1.jpeg" rel="icon">
 
 
-<!-- <link rel="stylesheet" type="text/css" href="catalog/view/theme/default/styesheet/stylesheet.css" /> -->
+	<!--<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js"></script>-->	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
 
-<link rel="stylesheet" type="text/css" href="css/style.css">
-<link rel="stylesheet" type="text/css" href="css/main.css">
+	<!-- ======================= JS fancybox ======================= -->
 
-
-<!--[if lt IE 7]>
-<link rel="stylesheet" type="text/css" href="catalog/view/theme/default/stylesheet/ie6.css" />
-<script type="text/javascript" src="catalog/view/javascript/DD_belatedPNG_0.0.8a-min.js"></script>
-<script>
-DD_belatedPNG.fix('img, #header .div3 a, #content .left, #content .right, .box .top');
-</script>
+	<!--<link href="css/jquery.fancybox-1.3.4.css" rel="stylesheet" type="text/css" />
+	<script type="text/javascript" src="js/jquery.mousewheel-3.0.4.pack.js"></script>
+	<script type="text/javascript" src="js/jquery.fancybox-1.3.4.js"></script>
+	<link href="css/jquery.fancybox-1.3.4.css" rel="stylesheet" type="text/css" />-->
+	
+	<!--<script type="text/javascript">$(document).ready(function() {$("a[rel=fancy]").fancybox();});</script>-->
+	
+	<link rel="stylesheet" type="text/css" href="/catalog/view/theme/default/css/styles.css" media="all">
+	<link rel="stylesheet" type="text/css" href="/catalog/view/theme/default/css/dev.css" media="all">
+	<link href="/catalog/view/theme/default/css/css.css" rel="stylesheet">
+	<link href="/catalog/view/theme/default/css/jquery.formstyle.css" rel="stylesheet">
+    <link href="/catalog/view/theme/default/css/cusel.css" rel="stylesheet" type="text/css">
+<!--[if lt IE 9]>
+   <script>
+      document.createElement('header');
+      document.createElement('nav');
+      document.createElement('section');
+      document.createElement('article');
+      document.createElement('figure');
+      document.createElement('footer');
+   </script>
 <![endif]-->
 
+	<script type="text/javascript" src="/js/jquery.uniform.min.js"></script>
+    <!--<script type="text/javascript" src="js/main.js"></script>-->
+    <script src="/catalog/view/javascript/js/jquery.placeholder.js"></script>
+    <script src="/catalog/view/javascript/js/jquery.formstyler.min.js"></script>
+    <script src="/catalog/view/javascript/js/tabs.js" type="text/javascript"></script>
+	<script type="text/javascript" src="/catalog/view/javascript/js/jquery.mousewheel.js"></script>
+	
+	<script type="text/javascript" src="/catalog/view/javascript/fancybox/jquery.mousewheel-3.0.4.pack.js"></script>
+	<script type="text/javascript" src="/catalog/view/javascript/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
+	<link rel="stylesheet" type="text/css" href="/catalog/view/javascript/fancybox/jquery.fancybox-1.3.4.css" media="screen">
+	
+	<script type="text/javascript" src="/catalog/view/javascript/js/jquery.nivo.slider.js"></script>
+	
+<script type="text/javascript"><!--
+	function moduleSearch(value) {
+		if (value != '')
+		{
+			pathArray = location.pathname.split( '/' );
 
+			url = location.protocol + "//" + location.host + "/";
 
+			url += 'index.php?route=product/search';
 
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="catalog/view/javascript/jquery/jquery-1.7.2.min.js"></script>
+			if (value) {
+				url += '&keyword=' + encodeURIComponent(value);
+			}
 
-<!-- new-->
+			var filter_category_id = $('#filter_category_id').attr('value');
 
-<script type="text/javascript" src="js/cufon-yui.js"></script>
-	<script type="text/javascript" src="js/Myriad_Pro_700.font.js"></script>
-	<script type="text/javascript">
-		Cufon.replace('.head_menu .mmm, #footer p.rheader', {
+			if (filter_category_id) {
+				url += '&category_id=' + filter_category_id;
+			}
+
+			location = url;
+		}
+	}
+//--></script>
+
+<script type="text/javascript">
+    $(window).load(function() {
+        $("#subscribe_form").submit(function(event) {
+            event.preventDefault();
+            event.stopPropagation();
+			$('.popup-sign-up').css("top", getCurrentTop(165));
+		   $('.popup-sign-up').css("left", getCurrentLeft(270));
+		   $('.popup-sign-up').css("display","block");
+            var email = $("#subscribe_email").val();
+            if (!/^[-_\.0-9a-zA-z]+@[-_\.0-9a-zA-z]+\.[a-zA-z]+$/.test(email)) {
+                // error
+                //showMessage('subscription_error');
+            } else {
+                // make server request
+                $.post('/index.php?route=account/create/subscribe', {
+                    email: email
+                }, function(data) {
+                    if ('success' != data) {
+                        // error
+                        //showMessage('subscription_error');
+                    } else {
+					   $("#subscribe_email").val('');
+					   return false;
+                    }
+                });
+            }
+
+        });
+
+        function showMessage(blockId) {
+            jQuery.fancybox({
+                'type'           : 'inline',
+                'href'           : '#' + blockId,
+                'autoScale'      : false,
+                'autoDimensions' : true,
+                'overlayColor'   : '#000',
+                'overlayOpacity' : '0.3',
+                'onStart'        : function() {
+                    jQuery('#' + blockId).css('display','block');
+                },
+                'onClosed'       : function() {
+                    jQuery('#' + blockId).css('display','none');
+                }
+            });
+            jQuery.fancybox.resize();
+        }
+    });
+	
+	function getCurrentTop(halfHeight)
+	{
+		var height = $(window).height() / 2 - halfHeight;
+		return height+'px';
+	}
+	
+	function getCurrentLeft(halfWidth)
+	{
+		var width = $(window).width() / 2 - halfWidth;
+		return width+'px';
+	}
+	
+	function loginSubmit()
+	{
+		$('#popup-login-no-match').css("display","none");
+		$('#popup-login-no-match-sending').css("display","block");
+	    $.ajax({
+			url: '//siberianhealth.com/index.php?route=account/login_ajax',
+			dataType: 'json',
+			data: {password: $('#password').val(), email: $('#email').val()},
+			type: 'POST',
+			success: function(data){console.log(data);
+				if (data.error == "true")
+				{
+					if(data.exist == "true" ){
+						$('#popup-login-no-match-text').html('Please activate your membership via an email link<br/> that was recently sent to your email address');
+					}else{
+						$('#popup-login-no-match-text').html('You have entered an incorrect email/consultant id</br> or password. please try again');
+					}
+					$('#popup-login-no-match').css("display","block");
+					$('#popup-login-no-match-sending').css("display","none");
+				}
+				else
+				{
+					location.reload();
+				}
+			}
+	    });
+	}
+	
+	$(document).ready(function(){
+		
+				
+				
+		$("#popup-oldie-close").click(function (){
+		   $('.popup-oldie').css("display","none");
+		   return false;
+		});
+	
+			
+				
+				
+		$("#popup-register-done-close").click(function (){
+		   $('.popup-register-done').css("display","none");
+		   return false;
+		});
+		
+		$("#popup-success-close").click(function (){
+		   $('.popup-success').css("display","none");
+		   return false;
+		});
+		
+		$("#popup-review-error-close").click(function (){
+		   $('.popup-review-error').css("display","none");
+		   return false;
+		});
+		
+		$("#popup-email-registered-close").click(function (){
+		   $('.popup-email-registered').css("display","none");
+		   return false;
+		});
+
+		$("#popup-register-close").click(function (){
+		   $('.popup-register').css("display","none");
+		   return false;
+		});
+		
+		$("#link-sign").click(function (){
+		   $('.popup-sign').css("top", getCurrentTop(190));
+		   $('.popup-sign').css("left", getCurrentLeft(270));
+		   $('.popup-sign').css("display","block");
+		   return false;
+        });
+		
+		$("#popup-sign-up-close").click(function (){
+		   $('.popup-sign-up').css("display","none");
+		   return false;
+        });
+		
+		$("#sel-avatar").click(function (){
+		   $('.popup-sign').css("top", getCurrentTop(165));
+		   $('.popup-sign').css("left", getCurrentLeft(370));
+		   $('.popup-sign').css("display","block");
+		   return false;
+        });
+		
+		$("#link-sign-bottom").click(function (){
+			$('.popup-sign').css("top", getCurrentTop(190));
+		   $('.popup-sign').css("left", getCurrentLeft(270));
+		   $('.popup-sign').css("display","block");
+		   return false;
+        });
+		
+		$("#popup-sign-close").click(function (){
+		   $('.popup-sign').css("display","none");
+		   return false;
+        });
+		
+		$("#link-login").click(function (){
+			$('.popup-login').css("top", getCurrentTop(200));
+		   $('.popup-login').css("left", getCurrentLeft(280));
+		   $('.popup-login').css("display","block");
+		   return false;
+        });
+		
+		$("#link-login-bottom").click(function (){
+			$('.popup-login').css("top", getCurrentTop(200));
+		   $('.popup-login').css("left", getCurrentLeft(280));
+		   $('.popup-login').css("display","block");
+		   return false;
+        });		
+		$("#popup-login-close").click(function (){
+		   $('.popup-login').css("display","none");
+		   return false;
+        });
+		$("#forgot-login").click(function (){
+			loginSubmit();
+			return false;
+        });
+		
+		$("#forgot-passw").click(function (){
+		   $('.popup-login').css("display","none");
+		   $('.popup-forgot').css("top", getCurrentTop(200));
+		   $('.popup-forgot').css("left", getCurrentLeft(270));
+		   $('.popup-forgot').css("display","block");
+		   return false;
+		});
+		$("#popup-forgot-close").click(function (){
+		   $('.popup-forgot').css("display","none");
+		   return false;
+        });
+		// for validation
+		//$("#forgot-cont").click(function (){
+		//   $('#popup-forgot-no-match').css("display","block");
+        //   $('#mail-address').removeClass("inp-forgot").addClass("inp-forgot-error");
+        //});
+		// for confirmation
+		$("#forgot-submit").click(function (){
+		   $('.popup-forgot').css("display","none");
+		   $('.popup-confirmation').css("display","block");
+		   return false;
+		   
+        });
+		$("#popup-confirmation-close").click(function (){
+		   $('.popup-confirmation').css("display","none");
+		   return false;
+		   
+        });
+		
+		$("#popup-cart_is_empty-close").click(function (){
+		   $('.popup-cart_is_empty').css("display","none");
+		   return false;
+		   
+        });
+		
+		$("#popup-contact-close").click(function (){
+		   $('.popup-contact').css("display","none");
+		   return false;
+        });
+	});
+	
+	function validateEmail(email) { 
+		var re = /^(([^<>()[\]\\.,;:\s@\"]+(\.[^<>()[\]\\.,;:\s@\"]+)*)|(\".+\"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+		return re.test(email);
+	} 
+
+	function set_forgotten()
+	{
+		if(!validateEmail($('#forgot-submit-email').val()))
+		{
+			$('#popup-forgot-no-match').css("display","block");
+			return false;
+		}
+		
+		$('#popup-forgot-no-match').css("display","none");
+		$.ajax({
+			url: '/index.php?route=account/forgotten',
+			type: 'POST',
+			data: 'email=' + $('#forgot-submit-email').val()
+		});
+		$('#forgot-submit-email-result').text($('#forgot-submit-email').val());
+		$('.popup-forgot').css('display', 'none');
+		$('.popup-confirmation').css("top", getCurrentTop(75));
+		$('.popup-confirmation').css("left", getCurrentLeft(270));
+		$('.popup-confirmation').css('display', 'block');
+	}
+	
+	var productCartCount = 0;
+	var totalCartPrice = 0;
+</script>
+<!--<script type="text/javascript" src="js/jquery.uniform.min.js"></script>-->
+    <!--<script type="text/javascript" src="js/main.js"></script>-->
+    <!--<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+    <script src="js/jquery.placeholder.js"></script>
+    <script src="js/jquery.formstyler.min.js"></script>
+    
+   <script type="text/javascript" src="js/jquery.mousewheel.js"></script>-->
+   
+   <script type="text/javascript">
+   
+   $(document).ready(function(){
+		//$(".fancy").fancybox();
+   
+	 $("#menu ul li .no-dir").hover(function () {
+	
+		$('#menu ul li .dir').removeClass('dir').addClass('no-dir');
+		$(this).addClass('dir');
+        return true;
+			
+		}
+		);
+	   
+	
+	$(".accordion-caption:first").addClass("active");
+	$(".accordion-caption:first .a-d").removeClass("acc-detail").addClass("acc-close");
+	$(".accordion p:not(:first)").hide();
+
+	$(".accordion-caption").hover(function(){
+		
+		$(this).children(".a-d").removeClass("acc-detail");
+		$(this).children(".a-d").removeClass("acc-close");
+	
+	});
+	
+	$(".accordion-caption").click(function(){
+		$(this).next("p").slideToggle("slow")
+		.siblings("p:visible").slideUp("slow");
+		$(this).toggleClass("active");
+		$(this).siblings(".accordion-caption").removeClass("active");
+		$(this).siblings(".accordion-caption").children(".acc-close").removeClass("acc-close").addClass("acc-detail");
+		
+	});
+	$(".accordion-caption").mouseleave(function(){
+		if(!$(this).hasClass("active")){
+		$(this).children(".a-d").addClass("acc-detail");
+		} else {
+		$(this).children(".a-d").addClass("acc-close");
+		}
+	
+	});
+	
+
+	});
+      
+   </script>
+	<script>
+		
+
+		(function($) {
+		$(function() {
+
+			$('.lang').styler();
+			
+
+		})
+		})(jQuery)
+
+		$("#sh-addr").click(function () {
+			$("#sh-addr-block").css("display", "none");
+			return false;
 		});
 	</script>
 
-	<link rel="stylesheet" type="text/css" href="css/nivo-slider.css">
-	<script type="text/javascript" src="js/jquery.nivo.slider.pack.js"></script>
-	<!--<script type="text/javascript">
+
+<script src="js/loopedslider.js" type="text/javascript" charset="utf-8"></script>
+<script type="text/javascript" src="catalog/view/javascript/jquery/tab.js"></script>
+<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?sensor=false"></script>
+
+</head>
+<body id="backgr" class="TTWForm-container">
+		<div id="top" class="TTWForm-wrapper">
+			<div class="center TTWForm clearfix">
+									<div class="login">
+						<a href="/index.php?route=account/create" id="link-sign">Sign up</a>
+						<span>|</span>
+						<a href="/index.php?route=account/login" id="link-login">Login</a>
+					</div>
+                                <!--<div class="help" style="right: 218px;">
+					<a href="/index.php?route=information/help">Help</a>
+                </div>-->
+
+				<!--<div id="field3-container" class="field f_100">
+			  	<select class="lang" name="field3" id="field3" required="required">
+                    <option id="field3-1" value="Option1">
+                        English
+                    </option>
+                    <option id="field3-2" value="Option2">
+                        Spanish
+                    </option>
+                </select>
+				
+            	</div>	-->
+				
+				<div class="shCart">
+                	<span class="shCartIcon"></span>
+					<a id="shCart" href="/index.php?route=checkout/cart">Shopping cart</a>
+					<span>|</span>
+					<a href="/index.php?route=checkout/cart" id="productCartCount">0</a>
+					<span>|</span>
+					<a href="/index.php?route=checkout/cart" id="totalCartPrice">$0</a>
+				</div>					
+			</div>
+		</div>
+		<div class="bottom" id="left">
+			&nbsp;
+		</div>
+
+		<div class="bottom" id="right">
+			&nbsp;
+		</div>
+		<div id="main">
+			<div id="outer">
+				<header id="header">
+					<div class="callUs">
+						<!--<p>Mon-Fri 9AM-8PM<br />
+						Sat-Sun 10AM-6PM</p>-->
+					</div>
+					
+					<a href="/" class="logo">
+						&nbsp;
+					</a>	
+					
+					<div class="searchBlock signUp">
+                    
+    
+                    <form onsubmit="moduleSearch($('#filter_keyword').attr('value')); return false;">
+					<div style="float:left;">
+                       <input type="text" placeholder="SEARCH" name="search" id="filter_keyword" value="">
+					</div>
+					   <div class="search-wrapper"><input class="letter" type="button" onclick="moduleSearch($('#filter_keyword').attr('value')); return false;"></div>
+                     </form>
+                     
+   					<div class="free-sheeping">
+                    	<img src="/images/free.png" width="210" height="51" alt="">
+                    </div>
+					</div>					
+				</header>					
+				
+				<nav id="menu">
+	<ul class="dropdown dropdown-horizontal">
+					<li>
+			<a class="no-dir" href="http://siberianhealth.com/Skincare">Skincare</a>
+									<div class="sub" style="height:100px">
+						<ul>
+															<li><a href="http://siberianhealth.com/Skincare/Anti-Aging">Anti-Aging</a></li>
+																								<li><a href="http://siberianhealth.com/Skincare/Beauty">Beauty</a></li>
+																								<li><a href="http://siberianhealth.com/Skincare/Cleanser">Cleanser</a></li>
+																								<li><a href="http://siberianhealth.com/Skincare/Masks">Masks</a></li>
+															</ul>
+                    	<ul>
+																								<li><a href="http://siberianhealth.com/Skincare/Moisturizing">Moisturizing</a></li>
+																								<li><a href="http://siberianhealth.com/Skincare/Serum">Serum</a></li>
+																								<li><a href="http://siberianhealth.com/Skincare/Tonic">Tonic</a></li>
+																						</ul>
+					</div>
+							</li>
+					<li>
+			<a class="no-dir" href="http://siberianhealth.com/Bath_and_body">Bath/Body</a>
+									<div class="sub" style="height:125px">
+						<ul>
+															<li><a href="http://siberianhealth.com/Bath_and_body/Body_Support">Body Support</a></li>
+																								<li><a href="http://siberianhealth.com/Bath_and_body/Foot_Care">Foot Care</a></li>
+																								<li><a href="http://siberianhealth.com/Bath_and_body/Hand_Care">Hand Care</a></li>
+																								<li><a href="http://siberianhealth.com/Bath_and_body/Lotions">Lotions</a></li>
+																								<li><a href="http://siberianhealth.com/Bath_and_body/Mens">Mens</a></li>
+															</ul>
+                    	<ul>
+																								<li><a href="http://siberianhealth.com/Bath_and_body/Oils">Oils</a></li>
+																								<li><a href="http://siberianhealth.com/Bath_and_body/Oral_Care">Oral Care</a></li>
+																								<li><a href="http://siberianhealth.com/Bath_and_body/Scrubs">Scrubs</a></li>
+																								<li><a href="http://siberianhealth.com/Bath_and_body/Shower">Shower</a></li>
+																								<li><a href="http://siberianhealth.com/Bath_and_body/Soaps">Soaps</a></li>
+																						</ul>
+					</div>
+							</li>
+					<li>
+			<a class="no-dir" href="http://siberianhealth.com/hair_care">Hair</a>
+									<div class="sub" style="height:75px">
+						<ul>
+															<li><a href="http://siberianhealth.com/hair_care/Anti-Dandruff">Anti-Dandruff</a></li>
+																								<li><a href="http://siberianhealth.com/hair_care/Conditioner">Conditioner</a></li>
+																								<li><a href="http://siberianhealth.com/hair_care/Masks">Masks</a></li>
+															</ul>
+                    	<ul>
+																								<li><a href="http://siberianhealth.com/hair_care/Scalp">Scalp</a></li>
+																								<li><a href="http://siberianhealth.com/hair_care/Shampoo">Shampoo</a></li>
+																						</ul>
+					</div>
+							</li>
+					<li>
+			<a class="no-dir" href="http://siberianhealth.com/Vitamins_Supplements">Vitamins &amp; Supplements</a>
+									<div class="sub" style="height:175px">
+						<ul>
+															<li><a href="http://siberianhealth.com/Vitamins_Supplements/Boost_Immunity">Boost Immunity</a></li>
+																								<li><a href="http://siberianhealth.com/Vitamins_Supplements/Brain_Support">Brain Support</a></li>
+																								<li><a href="http://siberianhealth.com/Vitamins_Supplements/Diabetic_Health">Diabetic Health</a></li>
+																								<li><a href="http://siberianhealth.com/Vitamins_Supplements/Energy_Booster">Energy Booster</a></li>
+																								<li><a href="http://siberianhealth.com/Vitamins_Supplements/Healthy_Eyes">Healthy Eyes</a></li>
+																								<li><a href="http://siberianhealth.com/Vitamins_Supplements/Healthy_Heart">Healthy Heart</a></li>
+																								<li><a href="http://siberianhealth.com/Vitamins_Supplements/Healthy_Joints">Healthy Joints</a></li>
+															</ul>
+                    	<ul>
+																								<li><a href="http://siberianhealth.com/Vitamins_Supplements/Healthy_Kidney">Healthy Kidney</a></li>
+																								<li><a href="http://siberianhealth.com/Vitamins_Supplements/Healthy_Liver">Healthy Liver</a></li>
+																								<li><a href="http://siberianhealth.com/Vitamins_Supplements/Teas">Herbal Tea</a></li>
+																								<li><a href="http://siberianhealth.com/Vitamins_Supplements/Men's_Health">Men's Health</a></li>
+																								<li><a href="http://siberianhealth.com/Vitamins_Supplements/Stress_Reliever">Stress Reliever</a></li>
+																								<li><a href="http://siberianhealth.com/Vitamins_Supplements/Women's_Health">Women's Health</a></li>
+																						</ul>
+					</div>
+							</li>
+					<li>
+			<a class="no-dir" href="http://siberianhealth.com/antioxidants">Antioxidants</a>
+									<div class="sub" style="height:50px">
+						<ul>
+															<li><a href="http://siberianhealth.com/antioxidants/Formula_3">Formula 3</a></li>
+																								<li><a href="http://siberianhealth.com/antioxidants/Novomin">Novomin</a></li>
+															</ul>
+                    	<ul>
+																								<li><a href="http://siberianhealth.com/antioxidants/Omega_Flax-3">Omega Flax-3</a></li>
+																								<li><a href="http://siberianhealth.com/antioxidants/VitaSelenium">VitaSelenium</a></li>
+																						</ul>
+					</div>
+							</li>
+					<li>
+			<a class="no-dir" href="http://siberianhealth.com/index.php?route=product/category&amp;path=184">miscellaneous</a>
+							</li>
+		        <li><a class="no-dir" href="/index.php?route=product/special">Special Offers</a></li>
+        <li><a class="no-dir" href="/index.php?route=information/contact">Contact Us</a></li>
+        <li><a class="no-dir" href="/index.php?route=information/learnabout1">Opportunity</a></li>
+	</ul>
+</nav>	
+				
+									<div class="clr"></div>
+								
+                <div id="content">
+											<div class="breadcrumb">
+							<a href="http://siberianhealth.com/index.php?route=common/home">Home</a><span class="separator"></span><a href="http://siberianhealth.com/index.php?route=information/privacypolicy">Privacy Policy</a>						</div>
+					<div class="content-caption-block">
+	<div id="content-center-caption"><span>Privacy Policy</span></div>
+	<!--<div class="clr"></div>-->
+</div>
+
+<div class="terms-content-wrapper">
+	<div class="terms-content-content">
+	<h6>THANK YOU FOR VISITING SIBERIAN HEALTH INTERNATIONAL AT WWW.SIBERIANHEALTH.COM</h6>
+	<p>This privacy policy tells you how we use personal information collected at this site. Please read this privacy policy before using the site or submitting any personal information. By using the site, you are accepting the practices described in this privacy policy. These practices may be changed, but any changes will be posted and changes will only apply to activities and information on a going forward, not retroactive basis. You are encouraged to review the privacy policy whenever you visit the site to make sure that you understand how any personal information you provide will be used.</p> 
+    </div>
+    
+<div class="terms-content-content">
+	<h6>Collection of Information</h6>
+		
+	<p>We collect personally identifiable information, like names, postal addresses, email addresses, etc., when voluntarily submitted by our visitors. The information you provide is used to fulfill you specific request. This information is only used to fulfill your specific request, unless you give us permission to use it in another manner, for example to add you to one of our mailing lists.</p>
+</div>
+<div class="terms-content-content">
+	<h6>Cookie/Tracking Technology</h6>
+	<p>The Site may use cookie and tracking technology depending on the features offered. Cookie and tracking technology are useful for gathering information such as browser type and operating system, tracking the number of visitors to the Site, and understanding how visitors use the Site. Cookies can also help customize the Site for visitors. Personal information cannot be collected via cookies and other tracking technology, however, if you previously provided personally identifiable information, cookies may be tied to such information. Aggregate cookie and tracking information may be shared with third parties.</p>	
+</div>
+<div class="terms-content-content">
+	<h6>Distribution of Information</h6>
+	<p>We may share information with governmental agencies or other companies assisting us in fraud prevention or investigation. We may do so when: (1) permitted or required by law; or, (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions; or, (3) investigating fraud which has already taken place. The information is not provided to these companies for marketing purposes.</p>
+</div>
+<div class="terms-content-content">
+	<h6>Commitment to Data Security</h6>
+	<p>Your personally identifiable information is kept secure. Only authorized employees, agents and contractors (who have agreed to keep information secure and confidential) have access to this information. All emails and newsletters from this site allow you to opt out of further mailings.</p>
+</div>
+<div class="terms-content-content">
+	<h6>Privacy Contact Information</h6>
+	<p>If you have any questions, concerns, or comments about our privacy policy you may contact us using the information below:</p>
+    <ul class="terms-content-ul">
+    	<li><span>By e-mail: info@siberianhealth.com</span></li>
+        <li><span>By Phone: (646) 755-3800</span></li>
+    </ul>
+    <p>We reserve the right to make changes to this policy. Any changes to this policy will be posted.</p>
+</div>
+
+</div>
+
+
+                </div>
+
+<div class="popup-forgot">
+	<div class="forgot">
+		<div class="forgot-close">
+			<a id="popup-forgot-close" href="#"></a>
+		</div>
+		<div class="forgot-caption-block">
+			<div class="forgot-caption"><span>Forgot your password?</span></div>
+			<!--<div class="clr"></div>-->
+		</div>
+		<div class="forgot-txt forgot-passw-txt">
+			<span>Please enter the email address associated<br> with your siberian health account</span>
+		</div>
+		<div class="input-passw-block">
+			<span>E-mail Address:</span>
+			 <input type="text" id="forgot-submit-email" class="inp-forgot" name="mail-address" size="12">
+		</div>
+		<div class="forgot_button_wrapper">
+			<div class="forgot_passw_wrap f-passw"><a class="cat_btn" href="#" onclick="set_forgotten();return false;">Submit</a></div>
+		</div>
+	</div>
+	<div id="popup-forgot-no-match" class="no-match">
+		<span>No match for email address</span>
+	</div>
+</div>
+<!-- end popup-forgot -->
+<div class="popup-confirmation">
+	<div class="forgot-close">
+		<a id="popup-confirmation-close" href="#"></a>
+	</div>
+	<div class="forgot-caption-block">
+		<div class="forgot-caption"><span>Confirmation</span></div>
+		<!--<div class="clr"></div>-->
+	</div>
+	<div class="forgot-txt">
+		<span>We have sent your password to your email <span id="forgot-submit-email-result"></span></span>
+	</div>
+</div>
+<!-- end popup-confirmation -->
+
+<div class="popup-contact">
+	<div class="forgot-close">
+		<a id="popup-contact-close" href="#"></a>
+	</div>
+	<div class="forgot-caption-block">
+		<div class="forgot-caption"><span>Confirmation</span></div>
+		<!--<div class="clr"></div>-->
+	</div>
+	<div class="forgot-txt">
+		<span>Your message has been sent</span>
+	</div>
+</div>
+
+<div class="popup-register">
+	<div class="forgot-close">
+		<a id="popup-register-close" href="#"></a>
+	</div>
+	<div class="forgot-caption-block">
+		<div class="forgot-caption"><span>Thank you for registration</span></div>
+		<!--<div class="clr"></div>-->
+	</div>
+	<div class="forgot-txt">
+		<span>Please check your email and activate an account</span>
+	</div>
+</div>
+
+<div class="popup-oldie">
+	<div class="forgot-close">
+		<a id="popup-oldie-close" href="#"></a>
+	</div>
+	<div class="forgot-caption-block">
+		<div class="forgot-caption"><span>Unfortunately we don’t support old versions of browser.</span></div>
+		<!--<div class="clr"></div>-->
+	</div>
+	<div class="forgot-txt">
+		<span>Please download another browser from internet.</span><br>
+		<span><a target="_blank" href="http://www.mozilla.org/en-US/firefox/new/">Firefox</a></span><br>
+		<span><a target="_blank" href="http://www.google.com/chrome/">Google Chrome</a></span><br>
+		<span><a target="_blank" href="http://windows.microsoft.com/en-us/internet-explorer/downloads/ie-9/worldwide-languages">Internet explorer 9</a></span><br>
+		<span><a target="_blank" href="http://www.opera.com/computer/windows">Opera</a></span><br>
+	</div>
+</div>
+
+<div class="popup-sign-up">
+	<div class="forgot-close">
+		<a id="popup-sign-up-close" href="#"></a>
+	</div>
+	<div class="forgot-caption-block">
+		<div class="forgot-caption"><span>Subscription Confirmed</span></div>
+		<!--<div class="clr"></div>-->
+	</div>
+	<div class="forgot-txt">
+		<span>You have successfully signed up to join our newsletter.</span>
+	</div>
+</div>
+
+<div class="popup-register-done">
+	<div class="forgot-close">
+		<a id="popup-register-done-close" href="#"></a>
+	</div>
+	<div class="forgot-caption-block">
+		<div class="forgot-caption">
+							<span>The activation is failed.</span>
+					</div>
+		<!--<div class="clr"></div>-->
+	</div>
+	<div class="forgot-txt">
+					<span>Please, contact with us. </span>
+			</div>
+</div>
+
+<div class="popup-email-registered">
+	<div class="forgot-close">
+		<a id="popup-email-registered-close" href="#"></a>
+	</div>
+	<div class="forgot-caption-block">
+		<div class="forgot-caption"><span>Error</span></div>
+		<!--<div class="clr"></div>-->
+	</div>
+	<div class="forgot-txt">
+		<span>E-Mail Address is already registered</span>
+	</div>
+</div>
+
+<div class="popup-review-error">
+	<div class="forgot-close">
+		<a id="popup-review-error-close" href="#"></a>
+	</div>
+	<div class="forgot-caption-block">
+		<div class="forgot-caption"><span>Error</span></div>
+		<!--<div class="clr"></div>-->
+	</div>
+	<div class="forgot-txt">
+		<span id="popup-review-error-text"></span>
+	</div>
+</div>
+
+<div class="popup-success" style="height: 222px;">
+	<div class="forgot-close">
+		<a id="popup-success-close" href="#"></a>
+	</div>
+	<div class="forgot-caption-block">
+		<div class="forgot-caption"><span>Your Order Has Been Processed!</span></div>
+		<!--<div class="clr"></div>-->
+	</div>
+	<div class="forgot-txt">
+					<span>Your order has been successfully processed!</span><br>
+			<span>Please direct any questions you have to the Siberian Health </span><br>
+			<span>International Customer Service at telephone number 646-755-3800.</span><br>
+			<span>Thanks for shopping with us online!</span><br>
+			</div>
+</div>
+
+<div class="popup-cart_is_empty">
+	<div class="forgot-close">
+		<a id="popup-cart_is_empty-close" href="#"></a>
+	</div>
+	<div class="forgot-caption-block">
+		<div class="forgot-caption"><span>Oops!!!</span></div>
+		<!--<div class="clr"></div>-->
+	</div>
+	<div class="forgot-txt">
+		<span>Your Shopping cart is currently empty.</span><br>
+		<span>If you are trying to retrieve a basket created in the past,<br>Please login.</span>
+	</div>
+</div>
+
+<div class="popup-login">
+	<form id="login" enctype="multipart/form-data" method="post" onsubmit="loginSubmit(); return false;">
+	<div class="forgot" style="background:#fff; display:block; position:relative; z-index:900 !important;">
+		<div class="forgot-close">
+			<a id="popup-login-close" href="#"></a>
+		</div>
+		<div class="forgot-caption-block">
+			<div class="forgot-caption"><span>Login</span></div>
+			<!--<div class="clr"></div>-->
+		</div>
+		<div class="forgot-text">
+			<span>Returning customers</span>
+		</div>
+		<div class="input-block">
+			<span>E-mail Address or Consultant ID:</span>
+			<input type="text" id="email" class="inp-forgot" name="email" size="12">
+		</div>
+		<div class="input-block">
+			<span>Password:</span>
+			 <input type="password" id="password" class="inp-forgot" name="password" size="12">
+		</div>
+		<div class="forgot_button_wrapper">
+			 <div class="forgot_button_wrap"><a id="forgot-login" class="cat_btn" href="#">Log in</a></div>
+			 <div class="forgot_buttn_wrap forg_wrap"><a id="forgot-passw" class="cat_btn" href="#">Forgot your password?</a></div>
+		</div>
+	</div>
+	<div id="popup-login-no-match" class="no-match">
+		<span id="popup-login-no-match-text">you have entered an incorrect email/consultant id<br> or password.
+
+please try again </span>
+	</div>
+	<div id="popup-login-no-match-sending" class="no-match">
+		<span>Wait ...</span>
+	</div>
+	</form>
+</div>
+
+<!-- end popup-login -->
+<div class="popup-sign">
+   <div class="forgot-close">
+		<a id="popup-sign-close" href="#"></a>
+	</div>
+	<div class="forgot-caption-block">
+		<div class="forgot-caption"><span>Sign up</span></div>
+		<!--<div class="clr"></div>-->
+	</div>
+	<div class="sign-block-wrapper">
+    
+    
+		<div class="sign-block">
+			<!--<div class="consultant">-->
+            
+				<span class="caption">START YOUR BUSINESS TODAY</span>
+                <span class="caption2">COST $10</span>
+                <div class="why"><img src="/images/conreg.jpg"></div>
+			<!--</div>-->
+            <div class="sign-block-content">
+				<span>For over 17 years Siberian Health has been providing an excellent opportunity to all people that wish to build their own business and pursue financial independence.</span>
+			</div>
+			<div class="forgot_buttn_wrapper">
+				<div class="forgot_buttn_wrapp choose_wrap"><a id="sign-cons" class="cat_btn" href="/index.php?route=consultant/create">Sign us as consultant</a></div>
+			</div> 
+		</div>
+        
+        
+		<div class="sign-block">
+			 <span class="caption">Become a customer</span>
+             <span class="caption2">It's free</span>
+			 <div class="why"><img src="/images/shopreg.jpg"></div>
+			 <div class="sign-block-content">
+				<span>By creating an account you will be able to shop quicker, be up-to date on the status of your order, and keep track of the orders previously made.</span>
+			</div>
+			
+			 <div class="forgot_btn_wrapper">
+				  <div class="forgot_buttn_wrapp choose_wrap"><a id="sign-customer" class="cat_btn" href="/index.php?route=account/create">Sign us as customer</a></div>
+			 </div>
+		 </div>
+         
+         
+         
+	</div>
+</div>               
+				<footer id="footer">
+					<div class="top_part">
+						<div class="left_part">
+							<div class="pay">
+								<span id="mas" href="#">&nbsp;</span>
+								<span id="x3" href="#">&nbsp;</span>
+								<span id="ups" href="#">&nbsp;</span>
+								<span id="sl" href="#">&nbsp;</span>
+								<span id="mc" href="#">&nbsp;</span>
+								<span id="visa" href="#">&nbsp;</span>
+								<span id="pp" href="#">&nbsp;</span>
+								<span id="uk" href="#">&nbsp;</span>
+							</div>
+							
+							<div class="signUp">
+								<p>sign up for emails</p>
+								
+                                <form id="subscribe_form" method="post">
+                                  <input class="email" type="text" placeholder="E-MAIL" name="email" id="subscribe_email">
+                                  <div class="letter-wrapper"><input class="letter" type="submit" name="search" value=""></div>
+                                   
+                                </form>			
+								
+							</div>
+						</div>
+						
+						<div class="right_part">
+							<div class="footer_menu">
+								<ul>
+									<li><a href="/index.php?route=information/information&amp;information_id=4">About Us</a></li>
+									<li><a href="/index.php?route=information/shippingpolicy">Shipping Policy</a></li>
+									<li><a href="/index.php?route=information/privacypolicy">Privacy Policy</a></li>
+									<li><a href="/index.php?route=information/termcondition">Terms &amp; Conditions</a></li>
+                                    <li><a href="/index.php?route=information/shopbypricelist">Shop by Price</a></li>
+								</ul>
+							</div>
+							
+							<div class="footer_menu">
+								<ul>
+									<li><a href="/index.php?route=information/contact">Contact Us</a></li>
+									<li><a href="/index.php?route=information/information&amp;information_id=10">Shop by Ingredients</a></li>
+                                    <li><a href="/index.php?route=information/onlinecatalog">Online Catalogs</a></li>
+									<li><a href="/index.php?route=information/help">Help</a></li>
+                                    <li><a href="/blog">Blog</a></li>
+								</ul>
+							</div>
+							
+							<div class="footer_menu last">
+								<ul>
+									<li>
+																					<a href="#" id="link-sign-bottom">Sign-Up</a> or <a href="#" id="link-login-bottom">Login</a>
+																			</li>
+									<li><a href="/index.php?route=information/learnabout1">Business Opportunity</a></li>
+																			<li><a href="/index.php?route=account/consultants">Search for Consultant</a></li>
+																		<li><a href="/index.php?route=information/returnscancelations">Returns &amp; Cancelations</a></li>
+																	</ul>
+							</div>	
+						</div>	
+
+						<div class="socialBtns">
+							<!--<a id="ggl" target="_blank" rel="nofollow" href="#">&nbsp;</a>-->
+							<a id="fb" target="_blank" rel="nofollow" href="http://www.facebook.com/siberianhealthusa">&nbsp;</a>
+							<a id="tw" target="_blank" rel="nofollow" href="https://twitter.com/siberianhealth">&nbsp;</a>
+							<a id="vs" target="_blank" rel="nofollow" href="http://www.valeospace.com/">&nbsp;</a>
+							<a id="yt" target="_blank" rel="nofollow" href="http://www.youtube.com/siberianhealth">&nbsp;</a>
+						</div>						
+					</div>
+					
+					<div class="bottom_part">
+						<p>The information provided on this site is intended for your general knowledge only and is not a substitute for professional medical advice or treatment for specific medical conditions. Always seek the advice of your physician or other qualified health care provider with any questions you may have regarding a medical condition. The information on this website is not intended to diagnose, treat, cure or prevent any disease. Never disregard medical advice or delay in seeking it because of something you have read on the Siberian Health International site.</p>
+						
+						<p style="text-transform: uppercase; font-size: 12px; padding: 10px 0px 0px 0px;">© 2013 Siberian Health International, LLC | All rights reserved</p>
+					</div>
+					
+					<div id="id">
+																											</div>
+				</footer>			
+			</div>				
+		</div>	
+
+		
+	<script type="text/javascript" src="js/jquery.nivo.slider.js"></script>
+		<script type="text/javascript">
 		$(window).load(function() {
 			$('#slider').nivoSlider();
 		});
-	</script>-->
-    
-    <script type="text/javascript">
-$(window).load(function() {
-    $('#slider').nivoSlider({
-        effect: 'fold,fade,sliceDown', // Specify sets like: 'fold,fade,sliceDown'
-        slices: 20, // For slice animations
-        boxCols: 16, // For box animations
-        boxRows: 8, // For box animations
-        animSpeed: 1000, // Slide transition speed
-        pauseTime: 5000, // How long each slide will show
-        startSlide: 0, // Set starting Slide (0 index)
-        directionNav: true, // Next & Prev navigation
-        directionNavHide: true, // Only show on hover
-        controlNav: false, // 1,2,3... navigation
-        controlNavThumbs: false, // Use thumbnails for Control Nav
-        controlNavThumbsFromRel: false, // Use image rel for thumbs
-        controlNavThumbsSearch: '.jpg', // Replace this with...
-        controlNavThumbsReplace: '_thumb.jpg', // ...this in thumb Image src
-        keyboardNav: true, // Use left & right arrows
-        pauseOnHover: true, // Stop animation while hovering
-        manualAdvance: false, // Force manual transitions
-        captionOpacity: 0.8, // Universal caption opacity
-        prevText: 'Prev', // Prev directionNav text
-        nextText: 'Next', // Next directionNav text
-        randomStart: false, // Start on a random slide
-        beforeChange: function(){}, // Triggers before a slide transition
-        afterChange: function(){}, // Triggers after a slide transition
-        slideshowEnd: function(){}, // Triggers after all slides have been shown
-        lastSlide: function(){}, // Triggers when last slide is shown
-        afterLoad: function(){} // Triggers when slider has loaded
-    });
-});
-</script>
-
-	<script src="js/loopedslider.js" type="text/javascript" charset="utf-8"></script>
-	<!--[if gte IE 9]> <script type="text/javascript"> Cufon.set('engine', 'canvas'); </script> <![endif]-->
-	<!-- /new -->
-	<script type="text/javascript" src="catalog/view/javascript/jquery/thickbox/thickbox-compressed.js"></script>
-	<link rel="stylesheet" type="text/css" href="catalog/view/javascript/jquery/thickbox/thickbox.css">
-	
-	<!-- ======================= JS fancybox ======================= -->
-
-	<link href="css/jquery.fancybox-1.3.4.css" rel="stylesheet" type="text/css">
-	<script type="text/javascript" src="js/jquery.mousewheel-3.0.4.pack.js"></script>
-	<script type="text/javascript" src="js/jquery.fancybox-1.3.4.js"></script>
-	<link href="css/jquery.fancybox-1.3.4.css" rel="stylesheet" type="text/css">
-	
-	<script type="text/javascript">$(document).ready(function() {$("a[rel=fancy]").fancybox();});</script>
-	
-	<!--Rating-->
-	<!--<script type="text/javascript" src="catalog/view/javascript/rating/jquery.rating.js"></script>
-	<link rel="stylesheet" type="text/css" href="catalog/view/javascript/rating/jquery.rating.css" />
-	<link rel="stylesheet" type="text/css" href="catalog/view/javascript/rating/jquery.rating.css" />-->
-
-	
-	
-	
-			<!--<div id="fb-root"></div>
-		<script>(function(d, s, id) {
-		  var js, fjs = d.getElementsByTagName(s)[0];
-		  if (d.getElementById(id)) {return;}
-		  js = d.createElement(s); js.id = id;
-		  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
-		  fjs.parentNode.insertBefore(js, fjs);
-		}(document, 'script', 'facebook-jssdk'));</script>
+		</script>
 		
-	<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>	
-	<script type="text/javascript">
-	function bookmark(url, title) {
-		if (window.sidebar) { // firefox
-		window.sidebar.addPanel(title, url, "");
-		} else if(window.opera && window.print) { // opera
-			var elem = document.createElement('a');
-			elem.setAttribute('href',url);
-			elem.setAttribute('title',title);
-			elem.setAttribute('rel','sidebar');
-			elem.click();
-		} else if(document.all) {// ie
-			window.external.AddFavorite(url, title);
-		}
-	}
-	</script>-->
-	<!----dropdown menu---->
-	<link href="css/dropdown/dropdown.css" media="all" rel="stylesheet" type="text/css">
-	<link href="css/dropdown/default.css" media="all" rel="stylesheet" type="text/css">
-	<!--[if lt IE 7]>
-		<script type="text/javascript" src="js/jquery/jquery.js"></script>
-		<script type="text/javascript" src="js/jquery/jquery.dropdown.js"></script>
-	<![endif]-->
-</head>
-<body>
-
-<div id="shadow">
-<div id="page">
-<!--<div id="userinfo"><div>
-<div class="cid">your consultant id</div>
-<div><input id="consultantid" name="consultantid" type="text" value="1234"/></div>
-<div class="submit"><input type="submit" value="CHANGE"/></div>
-<div class="spacing loglabel">e-mail:</div>
-<div><input name="email" id="email" type="text"  value="322234"/></div>
-<div class="loglabel">password:</div>
-<div><input name="pass" id="pass" type="password" value="213123"/></div>
-</div></div>-->
-
-<div id="header">
-	
-		<a href="http://siberianhealth.com/index.php?route=common/home"><img src="images/logo.jpg" alt="siberianhealthusa.com" class="logo"></a>
-		<a href="index.php?route=information/information&amp;information_id=6&amp;cat_off=1"><img src="images/why.jpg" alt="Why Siberian Health" class="why"></a>
-		
-		
-		
-		<div class="menu">
-							<!-- <a href="index.php?route=information/information&information_id=13"><img src="images/m1.png" alt="register &amp; save" /></a> -->
-				<a href="index.php?route=account/login"><img src="images/rli.png" alt="login"></a>					
-		<!-- <a href="index.php?route=account/login"><img src="images/m3.png" alt="email sign up" /></a> -->
-		<a href="index.php?route=information/information&amp;information_id=7&amp;cat_off=1"><img src="images/m5.png" alt="help"></a>
-		</div>
-		<div class="search">
-        
-			<label>SEARCH:</label>
-			<input type="text" class="radius" id="filter_keyword" onkeypress="if(event.which==13) moduleSearch();">
-			<input type="submit" class="go" value="" onclick="moduleSearch();">
-            
-		</div>
-		<div class="head_menu">
-			<!--
-							<a href="http://siberianhealth.com/beauty_care">Beauty Care</a>
-							<a href="http://siberianhealth.com/propolis">Propolis</a>
-							<a href="http://siberianhealth.com/balms_and_balsams">Siberian Collection of Balsams</a>
-							<a href="http://siberianhealth.com/supplements">Supplements</a>
-							<a href="http://siberianhealth.com/herbal_teas">Teas</a>
-							<a href="http://siberianhealth.com/vitamins_minerals">VitaMinerals</a>
-							<a href="http://siberianhealth.com/catalogs_of_healthy_products">Catalogs</a>
-						<a href="index.php?route=information/contact" class="nobg">Contact &amp; Directions</a>
-			-->
-			<ul id="nav" class="dropdown dropdown-horizontal left">
-			<li>
-			<a href="http://siberianhealth.com/beauty_care" class="mmm">Beauty Care</a>
-			<ul>
-				<li>
-					<table>
-						<tbody><tr>
-															<td>
-									<p>SHOP BY CATEGORY</p>
-																			<a href="http://siberianhealth.com/beauty_care/anti_dandruff"><h3>Anti-Dandruff</h3></a>
-																			<a href="http://siberianhealth.com/beauty_care/Eye_Care"><h3>Eye Care</h3></a>
-																			<a href="http://siberianhealth.com/beauty_care/facial_care"><h3>Facial Care</h3></a>
-																			<a href="http://siberianhealth.com/beauty_care/Gheser_mens_cosmetic"><h3>Gheser - Men's Line</h3></a>
-																			<a href="http://siberianhealth.com/beauty_care/hair_care"><h3>Hair Care</h3></a>
-																			<a href="http://siberianhealth.com/beauty_care/hand_care"><h3>Hand Care</h3></a>
-																	</td>
-								<td>
-									<p>SUBCATEGORIES</p>
-																			<a href="http://siberianhealth.com/beauty_care/Massage_Oil"><h3>Massage Oil</h3></a>
-																			<a href="http://siberianhealth.com/beauty_care/serum"><h3>Serum</h3></a>
-																			<a href="http://siberianhealth.com/beauty_care/shower"><h3>Shower Products</h3></a>
-																			<a href="http://siberianhealth.com/beauty_care/chronolong"><h3>Chronolong</h3></a>
-																			<a href="http://siberianhealth.com/beauty_care/experalta"><h3>Experalta</h3></a>
-																			<a href="http://siberianhealth.com/beauty_care/make_up"><h3>Make-up</h3></a>
-																	</td>
-													</tr>
-						<tr>
-							<td><a href="http://siberianhealth.com/beauty_care" class="more">See all items in this category</a></td>
-						</tr>
-					</tbody></table>
-				</li>
-			</ul>
-		</li>
-			<li>
-			<a href="http://siberianhealth.com/propolis" class="mmm">Propolis</a>
-			<ul>
-				<li>
-					<table>
-						<tbody><tr>
-															<td>
-									<p>SHOP BY CATEGORY</p>
-																			<a href="http://siberianhealth.com/propolis/propolis_beautytonic"><h3>Beauty-Tonic</h3></a>
-																			<a href="http://siberianhealth.com/propolis/propolis_Cardiotonic"><h3>Cardiotonic</h3></a>
-																			<a href="http://siberianhealth.com/propolis/propolis_Immunotonic"><h3>Immunotonic</h3></a>
-																			<a href="http://siberianhealth.com/propolis/propolis_Supertonic"><h3>Supertonic</h3></a>
-																	</td>
-													</tr>
-						<tr>
-							<td><a href="http://siberianhealth.com/propolis" class="more">See all items in this category</a></td>
-						</tr>
-					</tbody></table>
-				</li>
-			</ul>
-		</li>
-			<li>
-			<a href="http://siberianhealth.com/balms_and_balsams" class="mmm">Siberian Collection of Balsams</a>
-			<ul>
-				<li>
-					<table>
-						<tbody><tr>
-															<td>
-									<p>SHOP BY CATEGORY</p>
-																			<a href="http://siberianhealth.com/balms_and_balsams/Anti_Dandruff"><h3>Anti-Dandruff</h3></a>
-																			<a href="http://siberianhealth.com/balms_and_balsams/Antibacterial"><h3>Antibacterial</h3></a>
-																			<a href="http://siberianhealth.com/balms_and_balsams/Body_Care"><h3>Body Care</h3></a>
-																			<a href="http://siberianhealth.com/balms_and_balsams/Facial_Care"><h3>Facial Care</h3></a>
-																			<a href="http://siberianhealth.com/balms_and_balsams/Floraseptic"><h3>Floraseptic</h3></a>
-																			<a href="http://siberianhealth.com/balms_and_balsams/Foot_Care"><h3>Foot Care</h3></a>
-																			<a href="http://siberianhealth.com/balms_and_balsams/Hair_Care"><h3>Hair Care</h3></a>
-																			<a href="http://siberianhealth.com/balms_and_balsams/Hand_Care"><h3>Hand Care</h3></a>
-																			<a href="http://siberianhealth.com/balms_and_balsams/Shower_gel_shampoo"><h3>Shower Products</h3></a>
-																			<a href="http://siberianhealth.com/balms_and_balsams/Skin_Care"><h3>Skin Care</h3></a>
-																	</td>
-													</tr>
-						<tr>
-							<td><a href="http://siberianhealth.com/balms_and_balsams" class="more">See all items in this category</a></td>
-						</tr>
-					</tbody></table>
-				</li>
-			</ul>
-		</li>
-			<li>
-			<a href="http://siberianhealth.com/supplements" class="mmm">Supplements</a>
-			<ul>
-				<li>
-					<table>
-						<tbody><tr>
-															<td>
-									<p>SHOP BY CATEGORY</p>
-																			<a href="http://siberianhealth.com/supplements/Antioxidant"><h3>Antioxidant</h3></a>
-																			<a href="http://siberianhealth.com/supplements/Biorhythms"><h3>Biorhythms</h3></a>
-																			<a href="http://siberianhealth.com/supplements/Cleansing_System"><h3>Cleansing System</h3></a>
-																			<a href="http://siberianhealth.com/supplements/Enhance_Brain"><h3>Enhance Brain</h3></a>
-																			<a href="http://siberianhealth.com/supplements/Healthy_Eyes"><h3>Healthy Eyes</h3></a>
-																			<a href="http://siberianhealth.com/supplements/Healthy_Heart"><h3>Healthy Heart</h3></a>
-																			<a href="http://siberianhealth.com/supplements/Healthy_Joints"><h3>Healthy Joints</h3></a>
-																			<a href="http://siberianhealth.com/supplements/Healthy_Liver"><h3>Healthy Liver</h3></a>
-																			<a href="http://siberianhealth.com/supplements/Healthy_Woman"><h3>Healthy Woman</h3></a>
-																			<a href="http://siberianhealth.com/supplements/Natural_Tonic"><h3>Natural Tonic</h3></a>
-																	</td>
-													</tr>
-						<tr>
-							<td><a href="http://siberianhealth.com/supplements" class="more">See all items in this category</a></td>
-						</tr>
-					</tbody></table>
-				</li>
-			</ul>
-		</li>
-			<li>
-			<a href="http://siberianhealth.com/herbal_teas" class="mmm">Teas</a>
-			<ul>
-				<li>
-					<table>
-						<tbody><tr>
-															<td>
-									<p>SHOP BY CATEGORY</p>
-																			<a href="http://siberianhealth.com/herbal_teas/Cleansing_herbal_tea"><h3>Cleansing</h3></a>
-																			<a href="http://siberianhealth.com/herbal_teas/Dietary_Herbal_Tea"><h3>Dietary</h3></a>
-																			<a href="http://siberianhealth.com/herbal_teas/Female_Beauty_Herbal_tea"><h3>Female Beauty</h3></a>
-																			<a href="http://siberianhealth.com/herbal_teas/Good_Night_Rest_herbal_tea"><h3>Good Night / Rest</h3></a>
-																			<a href="http://siberianhealth.com/herbal_teas/Healthy_Heart_Herbal_Tea"><h3>Healthy Heart</h3></a>
-																			<a href="http://siberianhealth.com/herbal_teas/Intestinal_Balance_Herbal_Tea"><h3>Intestinal Balance </h3></a>
-																			<a href="http://siberianhealth.com/herbal_teas/Joints_Comfort_herbal_tea"><h3>Joints Comfort </h3></a>
-																			<a href="http://siberianhealth.com/herbal_teas/Liver_Vitality_Herbal_tea"><h3>Liver Vitality</h3></a>
-																			<a href="http://siberianhealth.com/herbal_teas/Natural_tonic_herbal_tea"><h3>Natural Tonic</h3></a>
-																	</td>
-													</tr>
-						<tr>
-							<td><a href="http://siberianhealth.com/herbal_teas" class="more">See all items in this category</a></td>
-						</tr>
-					</tbody></table>
-				</li>
-			</ul>
-		</li>
-			<li>
-			<a href="http://siberianhealth.com/vitamins_minerals" class="mmm">VitaMinerals</a>
-			<ul>
-				<li>
-					<table>
-						<tbody><tr>
-															<td>
-									<p>SHOP BY CATEGORY</p>
-																			<a href="http://siberianhealth.com/vitamins_minerals/Anti_Stress"><h3>Anti-Stress</h3></a>
-																			<a href="http://siberianhealth.com/vitamins_minerals/Antioxidant"><h3>Antioxidant</h3></a>
-																			<a href="http://siberianhealth.com/vitamins_minerals/Boost_Immunity"><h3>Boost Immunity</h3></a>
-																			<a href="http://siberianhealth.com/vitamins_minerals/Dietary_Mineral"><h3>Dietary Mineral</h3></a>
-																			<a href="http://siberianhealth.com/vitamins_minerals/Energy"><h3>Energy</h3></a>
-																			<a href="http://siberianhealth.com/vitamins_minerals/Strong_Bones"><h3>Strong Bones</h3></a>
-																	</td>
-													</tr>
-						<tr>
-							<td><a href="http://siberianhealth.com/vitamins_minerals" class="more">See all items in this category</a></td>
-						</tr>
-					</tbody></table>
-				</li>
-			</ul>
-		</li>
-		<li><a href="http://siberianhealth.com/index.php?route=information/contact" class="nobg mmm">Contact &amp; Directions</a></li>
-</ul>		</div>
-	</div>
-	<!--____________________________________content______________________________-->
-
-<script type="text/javascript"><!--
-function getURLVar(urlVarName) {
-	var urlHalves = String(document.location).toLowerCase().split('?');
-	var urlVarValue = '';
-
-	if (urlHalves[1]) {
-		var urlVars = urlHalves[1].split('&');
-
-		for (var i = 0; i <= (urlVars.length); i++) {
-			if (urlVars[i]) {
-				var urlVarPair = urlVars[i].split('=');
-
-				if (urlVarPair[0] && urlVarPair[0] == urlVarName.toLowerCase()) {
-					urlVarValue = urlVarPair[1];
+		<script type="text/javascript">
+			function moveCaretToStart(el) {
+				if (typeof el.selectionStart == "number") {
+					el.selectionStart = el.selectionEnd = 0;
+				} else if (typeof el.createTextRange != "undefined") {
+					el.focus();
+					var range = el.createTextRange();
+					range.collapse(true);
+					range.select();
 				}
 			}
-		}
-	}
 
-	return urlVarValue;
-}
+			var textBox = document.getElementById("id");
 
-$(document).ready(function() {
-	route = getURLVar('route');
+			textBox.onfocus = function() {
+				moveCaretToStart(textBox);
 
-	if (!route) {
-		$('#tab_home').addClass('selected');
-	} else {
-		part = route.split('/');
-
-		if (route == 'common/home') {
-			$('#tab_home').addClass('selected');
-		} else if (route == 'account/login') {
-			$('#tab_login').addClass('selected');
-		} else if (part[0] == 'account') {
-			$('#tab_account').addClass('selected');
-		} else if (route == 'checkout/cart') {
-			$('#tab_cart').addClass('selected');
-		} else if (part[0] == 'checkout') {
-			$('#tab_checkout').addClass('selected');
-		} else {
-			$('#tab_home').addClass('selected');
-		}
-	}
-});
-//--></script>
-<script type="text/javascript"><!--
-function moduleSearch() {
-	pathArray = location.pathname.split( '/' );
-
-	url = location.protocol + "//" + location.host + "/";
-
-	url += 'index.php?route=product/search';
-
-	var filter_keyword = $('#filter_keyword').attr('value')
-
-	if (filter_keyword) {
-		url += '&keyword=' + encodeURIComponent(filter_keyword);
-	}
-
-	var filter_category_id = $('#filter_category_id').attr('value');
-
-	if (filter_category_id) {
-		url += '&category_id=' + filter_category_id;
-	}
-
-	location = url;
-}
-//--></script>
-<script type="text/javascript"><!--
-$('.switcher').bind('click', function() {
-	$(this).find('.option').slideToggle('fast');
-});
-$('.switcher').bind('mouseleave', function() {
-	$(this).find('.option').slideUp('fast');
-});
-//--></script>
-
-<div id="conteiner">
-
-<div class="menu2">
-			<ul>
-				<!--<li><a href="index.php?route=information/information&information_id=11">shop by condition </a></li>-->
-				<li><a href="index.php?route=information/information&amp;information_id=12&amp;cat_off=1">shop by goal/condition</a></li>
-				<li><a href="index.php?route=information/information&amp;information_id=10&amp;cat_off=1">shop by active ingredients        </a></li>
-				<li><a href="index.php?route=product/latest">new products</a></li>
-				<li><a href="index.php?route=information/news">news</a></li>
-				<li><a href="index.php?route=product/allproducts">shop by price-list</a></li>
-				<li class="noborder"><a href="index.php?route=product/special">specials</a></li>
-			</ul>
-			<div class="clear"></div>
-		</div>
-
-		<div class="navitop">
-			<div class="right"><a href="index.php?route=checkout/cart">Shopping Cart </a><b>$0.00</b></div>
-									<div class="left extranav">
-				<a href="http://siberianhealth.com/index.php?route=information/onlinecatalog">Catalogs ONLINE</a>			</div>
-			 
-		<div class="clear"></div>
-		</div>
-				<div class="breadcrambs">
-									 <a href="http://siberianhealth.com/index.php?route=common/home">Home</a> 						 &gt; 				 <a href="http://siberianhealth.com/index.php?route=information/information&amp;information_id=3">Privacy Policy</a> 					</div>
-				<div id="content"> 
-
-
-
-<div class="main_new2">
-	<div class="top_new">Privacy Policy</div>	
-	<div class="middle_new">
-		<div class="block_new">
-        <!--news-->
-			  
-				<p>
-	<strong><span style="font-size: 7pt; background-color: white; text-align: justify; ">Thank you for visiting SIBERIAN HEALTH INTERNATIONAL at www.siberianhealth.com.</span></strong></p>
-<p style="text-align:justify;background:white">
-	<span style="background-color:#(color);"><span lang="EN-US" style="font-size:7.0pt;font-family:">This privacy policy tells you how we use personal information collected at this site. Please read this privacy policy before using the site or submitting any personal information. By using the site, you are accepting the practices described in this privacy policy. These practices may be changed, but any changes will be posted and changes will only apply to activities and information on a going forward, not retroactive basis. You are encouraged to review the privacy policy whenever you visit the site to make sure that you understand how any personal information you provide will be used.</span></span><span lang="EN-US" style="font-size:7.0pt;font-family:"><o:p></o:p></span></p>
-<p style="background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: white; background-position: initial initial; background-repeat: initial initial; ">
-	<span style="background-color:#(color);"><strong><span lang="EN-US" style="font-size:7.0pt;font-family:">Collection of Information</span></strong><b><span lang="EN-US" style="font-size:7.0pt;font-family:"><br>
-	</span></b><span lang="EN-US" style="font-size:7.0pt;font-family:">We collect personally identifiable information, like names, postal addresses, email addresses, etc., when voluntarily submitted by our visitors. The information you provide is used to fulfill you specific request. This information is only used to fulfill your specific request, unless you give us permission to use it in another manner, for example to add you to one of our mailing lists.</span></span><span lang="EN-US" style="font-size:7.0pt;font-family:"><o:p></o:p></span></p>
-<p style="background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: white; background-position: initial initial; background-repeat: initial initial; ">
-	<span style="background-color:#(color);"><strong><span lang="EN-US" style="font-size:7.0pt;font-family:">Cookie/Tracking Technology</span></strong><b><span lang="EN-US" style="font-size:7.0pt;font-family:"><br>
-	</span></b><span lang="EN-US" style="font-size:7.0pt;font-family:">The Site may use cookie and tracking technology depending on the features offered. Cookie and tracking technology are useful for gathering information such as browser type and operating system, tracking the number of visitors to the Site, and understanding how visitors use the Site. Cookies can also help customize the Site for visitors. Personal information cannot be collected via cookies and other tracking technology, however, if you previously provided personally identifiable information, cookies may be tied to such information. Aggregate cookie and tracking information may be shared with third parties.</span></span><span lang="EN-US" style="font-size:7.0pt;font-family:"><o:p></o:p></span></p>
-<p style="background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: white; background-position: initial initial; background-repeat: initial initial; ">
-	<span style="background-color:#(color);"><strong><span lang="EN-US" style="font-size:7.0pt;font-family:">Distribution of Information</span></strong><span lang="EN-US" style="font-size:7.0pt;font-family:"><br>
-	We may share information with governmental agencies or other companies assisting us in fraud prevention or investigation. We may do so when: (1) permitted or required by law; or, (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions; or, (3) investigating fraud which has already taken place. The information is not provided to these companies for marketing purposes.</span></span><span lang="EN-US" style="font-size:7.0pt;font-family:"><o:p></o:p></span></p>
-<p style="background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: white; background-position: initial initial; background-repeat: initial initial; ">
-	<span style="background-color:#(color);"><strong><span lang="EN-US" style="font-size:7.0pt;font-family:">Commitment to Data Security</span></strong><span lang="EN-US" style="font-size:7.0pt;font-family:"><br>
-	Your personally identifiable information is kept secure. Only authorized employees, agents and contractors (who have agreed to keep information secure and confidential) have access to this information. All emails and newsletters from this site allow you to opt out of further mailings.</span></span><span lang="EN-US" style="font-size:7.0pt;font-family:"><o:p></o:p></span></p>
-<p style="background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: white; background-position: initial initial; background-repeat: initial initial; ">
-	<span style="background-color:#(color);"><strong><span lang="EN-US" style="font-size:7.0pt;font-family:">Privacy Contact Information</span></strong><span lang="EN-US" style="font-size:7.0pt;font-family:"><br>
-	If you have any questions, concerns, or comments about our privacy policy you may contact us using the information below:<br>
-	<br>
-	By e-mail:<span class="apple-converted-space">&nbsp;info@siberianhealthusa.com</span><br>
-	By Phone: (646) 755-3800</span></span><span lang="EN-US" style="font-size:7.0pt;font-family:"><o:p></o:p></span></p>
-<p style="text-align: justify; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: white; background-position: initial initial; background-repeat: initial initial; ">
-	<span style="background-color:#(color);"><span lang="EN-US" style="font-size:7.0pt;font-family:">We reserve the right to make changes to this policy. Any changes to this policy will be posted.</span></span><span lang="EN-US" style="font-size:7.0pt;font-family:"><o:p></o:p></span></p>
-<p>
-	<span style="background-color:#(color);"><span lang="EN-US"><o:p>&nbsp;</o:p></span></span><span lang="EN-US"><o:p><br>
-	</o:p></span></p>	
-                
-                	<!--ingredients-->		
-				
-           
-		</div>
-        
-	</div> 
+				// Work around Chrome's little problem
+				window.setTimeout(function() {
+					moveCaretToStart(textBox);
+				}, 1);
+			};
+		</script>
+		
+		<!--[if !IE]><!-->
+			<script>if(/*@cc_on!@*/false){document.documentElement.className+=' ie10';}</script>
+		<!--<![endif]-->
+		
     
+
+<div id="subscription_success" style="display: none; padding: 20px;">
+    <h4 align="center">Subscription Confirmed!</h4>
+    <p align="center">You have successfully signed up to join our newsletter.</p>
+    <p align="center">Thank you for joining Siberian Health news-feed. You will begin receiving our information in the next few days.</p>
+    <p align="center">Welcome!</p>
 </div>
-
-
-
-
-<div class="pusto">
+<div id="subscription_error" style="display: none; padding: 20px;">
+    <p>We were unable to process your email at the moment.  Check to make sure you entered the correct email address.</p>
+    <p align="center">Thank you, please try again.</p>
 </div>
-
-<div class="clear"></div>
-</div>
-
-</div>
-<!-- <div class="clear"></div></div><img src='/images/banner.png' border='0' alt='' /></a>-->
-
-<div class="clear"></div>
-
-<div id="footer">
-	<div class="right">
-		<p class="rheader">SUBSCRIBE</p>
-		<form method="post" action="/index.php?route=account/create">
-			<input type="text" name="email">
-			<input type="submit" class="go2" value="">
-		</form>
-		<br><br>
-		<p class="rheader">Follow us</p>
-		<!--<a href="#"><img src="images/ico1.png" alt="" /></a>-->
-		<a href="http://facebook.com/siberianhealthusa" target="_blank"><img src="images/ico2.png" alt=""></a>
-		<a href="http://twitter.com/siberianhealth" target="_blank"><img src="images/ico3.png" alt=""></a>
-		<a href="http://www.youtube.com/siberianhealth" target="_blank"><img src="images/yt.png" alt=""></a>
-        <a href="http://www.valeospace.com/" target="_blank"><img src="images/vs2.png" alt=""></a>
-	</div>
-	<div class="left">
-		<p class="rheader">Products</p>
-		<ul>
-						
-				<li><a href="http://siberianhealth.com/beauty_care">Beauty Care</a></li>			
-						
-				<li><a href="http://siberianhealth.com/propolis">Propolis</a></li>			
-						
-				<li><a href="http://siberianhealth.com/balms_and_balsams">Siberian Collection of Balsams</a></li>			
-						
-				<li><a href="http://siberianhealth.com/supplements">Supplements</a></li>			
-						
-				<li><a href="http://siberianhealth.com/herbal_teas">Teas</a></li>			
-						
-				<li><a href="http://siberianhealth.com/vitamins_minerals">VitaMinerals</a></li>			
-						
-				<li><a href="http://siberianhealth.com/catalogs_of_healthy_products">Catalogs</a></li>			
-					</ul>
-	</div>  
-	<div class="left">
-		<p class="rheader">Shop by</p>
-		<ul>
-			<!--<li><a href="index.php?route=information/information&information_id=11">Shop by Condition</a></li>-->
-			<li><a href="index.php?route=information/information&amp;information_id=12&amp;cat_off=1">Goal or Condition</a></li>
-			<li><a href="index.php?route=information/information&amp;information_id=10&amp;cat_off=1">Ingredients</a></li>
-			<li><a href="index.php?route=product/latest">New Products</a></li>
-            <li><a href="index.php?route=product/special">Specials</a></li>
-		</ul>
-	</div>
-	<div class="left">
-		<p class="rheader">User options</p>
-		<ul>
-			<!--<li><a href="index.php?route=product/search">Search for a Consultant</a></li>-->
-			<!--<li><a href="index.php?route=profile/list">Consultants</a></li>-->
-			<li><a href="index.php?route=account/login">Register &amp; Login</a></li>
-			<!--<li><a href="index.php?route=account/login">Login</a></li>-->
-			<li><a href="index.php?route=information/information&amp;information_id=7&amp;cat_off=1">Help</a></li>
-			<li><a href="index.php?route=information/information&amp;information_id=4&amp;cat_off=1">About Us</a></li>
-			<li><a href="index.php?route=information/information&amp;information_id=3&amp;cat_off=1">Privacy Policy</a></li>
-            <li><a href="/sitemap.xml">Sitemap</a></li>
-			<!--<li><a href="http://blog.siberianhealthusa.com/" target="_blank">Blog</a></li>-->
-		</ul>
-	</div>
-	
-	<div id="dd" class="left">
-		<p class="rheader">Locations:</p>
-		<ul>
-			<li><a href="">SACRAMENTO</a>
-				 <ul>
-					<li>
-					6026 San Juan Avenue,<br> 
-					Citrus Heights, CA 95610 <br>
-					Tel:    916.999.1900 <br></li>
-				</ul>
-			</li>
-			<li><a href="">LOS ANGELES</a>
-				 <ul>
-					<li>
-					7910 Santa Monica BLVD, <br>
-					West Hollywood, CA 90046 <br>
-					Tel:    323.454.2929  <br></li>
-				</ul> 
-			</li>
-			<li><a href="">SAN DIEGO</a>
-				 <ul>
-					<li>
-					8915 Towne Centre Drive, <br>
-					San Diego, CA, 92122 <br>
-					Tel:    858.225.8280  <br></li>
-				</ul> 
-			</li>
-			<li><a href="">NEW YORK</a>
-				<ul class="last">
-					<li>
-					1408 Avenue X,<br> 
-					Brooklyn NY 11235<br>
-					Tel:    646.755.3800<br></li>
-				</ul>
-			</li>
-		</ul>
-	</div>
-	
-	<!-- <div style="padding:10px;">
-			<span class="text_1">Locations:</span><br/><br/>
-			
-			<div class="block_1">
-				Sacramento: 6026 San Juan Avenue,<br/> 
-				Citrus Heights, CA 95610 <br/><br/>
-				Tel:    916.999.1900 <br/><br/>
-			</div>
-			
-			<div class="block_1">
-				Los Angeles: 7910 Santa Monica BLVD, <br/>
-				West Hollywood, CA 90046 <br/><br/>
-				Tel:    323.454.2929  <br/><br/>     
-
-			</div>
-			
-			<div class="block_1">
-				San Diego: 8915 Towne Centre Drive, <br/>
-				San Diego, CA, 92122 <br/><br/>
-				Tel:    858.225.8280  <br/><br/>     
-
-			</div>
-			
-			<div class="block_1">
-				New York: 1408 Avenue X,<br/> 
-				Brooklyn NY 11235<br/><br/> 
-				Tel:    646.755.3800<br/><br/>					   
-
-			</div>
-			
-			<div style="clear:both;"></div>
-			
-		</div> -->
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	<div class="clear"></div>
-<p style="text-align:center;">
-	The information provided on this site is intended for your general knowledge only and is not a substitute for professional medical advice or treatment for specific medical conditions. Always seek the advice of your physician or other qualified health care provider with any questions you may have regarding a medical condition. The information on this website is not intended to diagnose, treat, cure or prevent any disease. Never disregard medical advice or delay in seeking it because of something you have read on the Siberian Health International site
-</p>	
-	<a href="http://www.sibvaleo.com/en" target="_blank" style="position:relative;left:-20px;display:block;margin:10px 0px;"><img alt="" src="images/learn.png"></a>	
-	<p style="text-align:center;">© 2012 Siberian Health International, LLC  |   All rights reserved</p>	
-</div>
-
-
-
-
-</div>
-</div>
-<script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-31623178-1']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
+<script>
+    $('input[placeholder]').placeholder();
 </script>
 
-
- 
-</body></html>
+ </body></html>
