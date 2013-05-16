@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thejobnetwork.com privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114174923id_/http%3A//jobs.thejobnetwork.com/Privacy.aspx%3Faffiliateid%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thejobnetwork.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516202235id_/http%3A//jobs.thejobnetwork.com/Privacy.aspx%3Faffiliateid%3D3) for the most accurate reproduction.*
 
 # TheJobNetwork.com – Turning Job Searching and Job Posting Into a Totally New Experience. Try Real-Time Job Matching
 
@@ -37,6 +37,14 @@ Subject to your consent, we may use your information to contact you about other 
 Subject to your consent, we may also share your information with third parties who may contact you about their products or services. 
 
 We also share information where legally required. Information collected on our Sites is stored in whole or in part in the United States, and may be subject to U.S. law. We may disclose and transfer information if our business is sold or acquired. We may disclose NON-PII (non-personally identifiable information) aggregate statistics regarding user behavior as a measure of interest in, and use of, our site and emails to third parties in the form of aggregate data, such as overall patterns or demographic reports, which do not describe or identify any individual user. Information relating to aggregate statistics may be collected through the use of third-party cookies and other third party tracking devices. 
+
+###  Google Analytics and Display Advertising
+
+We have updated our Google Analytics tracking code to support Google Display Advertising through the Remarketing feature. This enables Google Analytics to collect data about your traffic via the DoubleClick cookie in addition to data collected through the standard Google Analytics implementation. Display Advertising lets us enable features in Analytics that aren’t available through standard implementations. 
+
+The Remarketing feature allows third-party vendors, including Google, to show your ads on sites across the Internet. In this regard, We as well as third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies together to inform, optimize, and serve ads based on someone's past visits to your website. 
+
+You can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the Ads Preferences Manager available [ here](https://www.google.com/settings/ads/onweb/?hl=en&sig=ACi0TChaYh9ZhraZoR4B5C1baI5yHtc8J00wopsMQbCvOF3hfwyMoUQw54I8spRg0kMDcRz98HsiPKmuBptzBs2uI_VM_jqCksjYnNxnEz-9N3yN4yEqe3Krpg5dglMfRTTBUpKdR4WV-ROIsw9bcU0acWYPbmnE4jcs3J5DkCnSyBzW9ANjSASxExBlD0kzLjXXuJJrE3SSTkS04b59Sak4H7ybVmeMhQ.). 
 
 ###  Age Limitation
 
