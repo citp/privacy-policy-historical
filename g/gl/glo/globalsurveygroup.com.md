@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalsurveygroup.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116074006id_/http%3A//www.globalsurveygroup.com/gsg.php%3FpageID%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalsurveygroup.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517015653id_/http%3A//www.globalsurveygroup.com/gsg.php%3FpageID%3Dprivacy) for the most accurate reproduction.*
 
 # GLOBAL SURVEY GROUP: Get invitations to the best paid online surveys
 
@@ -51,7 +51,7 @@ A. Registration Information
 
 As part of the registration process, we often offer you the option to take advantage of one or more offers from our partners. Those offers are optional and you do not have to sign-up for any offers in order to participate in the main promotional offer (although you may need to check or uncheck certain boxes to do so). If you do choose to sign-up for an offer, we will share information about you with those selected partners from whom you have chosen to receive information.
 
-When you register with Global Survey Group, you can elect to sign up with some of our marketing partners so they may to contact you with their special offers. It is solely at your discretion if you choose to provide additional personally identifiable information to a marketer by making a purchase, requesting additional information, or communicating directly with the company or organization after using its website. We may share this information with a third-party advertising company in order to market more effectively to you.
+When you register with Global Survey Group, you can elect to sign up with some of our marketing partners so they may contact you with their special offers. It is solely at your discretion if you choose to provide additional personally identifiable information to a marketer by making a purchase, requesting additional information, or communicating directly with the company or organization after using its website. We may share this information with a third-party advertising company in order to market more effectively to you.
 
 We may employ other companies and individuals to perform functions on our behalf (e.g., outsourced e-mail delivery companies). They have access to the User information to perform their functions, but may not use it for other purposes.
 
@@ -73,7 +73,7 @@ A. Choices In Disclosing Information
 
 Because we want our Users to feel completely comfortable using the Global Survey Group services, we provide you with various opportunities to control how the information you provide to us will be used by us. We request information from our customers' registration, as well as via surveys or contests or other promotions. Your participation in these activities is completely voluntary and you therefore have a choice whether or not to disclose this information. Nevertheless, certain basic information is required in order to register as a User. Information requested may include contact information, and demographic information. You also may choose whether or not to get e-mails from Global Survey Group and whether or not to accept special offers from our partners. If you choose not to receive e-mail from Global Survey Group we will not send you e-mail, although it may take a short time to remove your name from our database.
 
-Please note once an account is created, we may send you a confirmation e-mail acknowledging your new account to the address that you supplied us. This e-mail will give you the option to delete your account, in case you change your mind or in case you were not the one who created it in the first place. You should keep the confirmation e-mail, as it will also contain information that will help you in case you run into problems accessing our services.
+Please note once an account is created, we may send you a confirmation e-mail acknowledging your new account to the address that you supplied us. This e-mail will give you the option to unsubscribe your account, in case you change your mind or in case you were not the one who created it in the first place. You should keep the confirmation e-mail, as it will also contain information that will help you in case you run into problems accessing our services.
 
 B. Opting Out
 
@@ -99,6 +99,6 @@ We may sell, brand or share your personal information that you supply to us with
 
 #### Contact Information:
 
-If you are not in agreement with the terms of this Policy, please unsubscribe from the Global Survey Group [click here](https://web.archive.org/web/20121116074006id_/http%3A//www.globalsurveygroup.com/unsub.php) or write to us at Global Survey Group, 6800 Koll Center Parkway, Suite No. 170, Pleasanton, CA 94566 and request to be removed. 
+If you are not in agreement with the terms of this Policy, please unsubscribe from the Global Survey Group [click here](https://web.archive.org/web/20130517015653id_/http%3A//www.globalsurveygroup.com/unsub.php) or write to us at Global Survey Group, 6800 Koll Center Parkway, Suite No. 170, Pleasanton, CA 94566 and request to be removed. 
 
-If you feel that Global Survey Group is not abiding by its posted privacy policy, please [click here](https://web.archive.org/web/20121116074006id_/http%3A//www.globalsurveygroup.com/contact.php) or write us at Global Survey Group, 6800 Koll Center Parkway, Suite No. 170, Pleasanton, CA 94566.
+If you feel that Global Survey Group is not abiding by its posted privacy policy, please [click here](https://web.archive.org/web/20130517015653id_/http%3A//www.globalsurveygroup.com/contact.php) or write us at Global Survey Group, 6800 Koll Center Parkway, Suite No. 170, Pleasanton, CA 94566.
