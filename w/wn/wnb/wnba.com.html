@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the wnba.com privacy policy that was archived on 2012-05-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120525212843id_/http%3A//www.wnba.com/basics/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wnba.com privacy policy that was archived on 2013-05-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130516204436id_/http%3A//www.wnba.com/basics/privacy_policy.html) for the most accurate reproduction.-->
 
 <html><head>
   
@@ -85,7 +85,8 @@ End If
 <link href="/css/wnba_main.css" rel="stylesheet" type="text/css">
   
 		<!--/frags/wnbaHeaderScript.html SSI include-->
-		 <script language="javascript" src="/js/lib/swfobject.js"></script>
+		 <link rel="shortcut icon" href="http://o.aolcdn.com/hss/storage/fss/d3dc8ab91574632248d94378efb9c484/favicon.ico">
+<script language="javascript" src="/js/lib/swfobject.js"></script>
 <script language="JavaScript" src="/js/utils.js"></script>
 <script>var adSpotRandom = (new Date).valueOf();</script>
 <script type="text/javascript" src="/js/prototype.js"></script>
@@ -99,6 +100,9 @@ End If
 <link href="/.element/css/1.0/wire1.css" type="text/css" rel="stylesheet">
 <link href="/.element/css/1.0/content_modules.css" type="text/css" rel="stylesheet">
 <link href="/.element/css/1.1/wnba.css" type="text/css" rel="stylesheet">
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:700italic" rel="stylesheet" type="text/css">
+<link href="/.element/css/1.1/wnbaheader.css" type="text/css" rel="stylesheet">
+<script type="text/javascript" src="/js/prototype/modules/wnbaheader.js"></script>
 
 <link rel="alternate" type="application/rss+xml" title="WNBA.com: News and Scores" href="/rss/wnba_rss.xml">
 <script>
@@ -109,7 +113,36 @@ function onState(){}
 #topstory { width:680px;background: url(/media/tp_bg_thumbs2.jpg) no-repeat 10px bottom;margin:0px !important;height:550px;}
 #video.module{width:300px;height:250px;background: url(/media/fragbg_video1.jpg) no-repeat;margin-top:9px;}
 #top_story .top_story_items{height:370px;}
+#header .ticket_spot{width:auto;}
+#wnbaHeader{width:640px;}
+
+#globalNavPromo {background: transparent none !important; padding-bottom: 0px !important; margin-bottom: 0px !important;}
+#scheduleContainer {background: none !important; background-image: none !important;}
 </style>
+
+<script>
+		Event.observe(window, 'load', function() {
+			// Keep IE from dying if no debugger present.
+			if (!window.console) console = { log: function(){ } };
+
+			var schedulePath = '/hub.xml';
+			var logoPath = 'http://i.cdn.turner.com/nba/wnba/.element/img/1.0/sect/gameinfo/teamlogos/small/';
+			var broadcasters = [
+				'NBA TV',
+				'ESPN',
+				'ESPN 2',
+				'ESPN 3',
+				'ABC'
+			];
+
+			var wnbaHeader = new wnbaMain();
+				wnbaHeader.setSchedulePath(schedulePath);    // Override the default schedule path (which is a locally hosted file called 'hub.xml'
+				wnbaHeader.setLogoPath(logoPath);            // Override the default logo path (which is hosted on i.cdn.turner.com)
+				wnbaHeader.setBroadcasters(broadcasters);    // Override the default list of acceptable broadcasters (NBA TV, ESPN, ESPN 2, ESPN 3, ABC)
+
+				wnbaHeader.createHeader();
+		});
+		</script>
 
 	
 </head>
@@ -124,7 +157,7 @@ function onState(){}
 		<!--/frags/wnbaGlobalNavBar.html SSI include-->
 		   
 		<!--/frags/wnbaglobalsitecomp/wnbaGlobalNavTeam.html SSI include-->
-		 <link href="/.element/css/1.0/teams/globalNavMenuTeam.css?ver=3" rel="stylesheet" type="text/css">
+		 <link href="/.element/css/1.0/teams/globalNavMenuTeam.css" rel="stylesheet" type="text/css">
 <script type="text/javascript"><!--//--><![CDATA[//><!--
 
 
@@ -147,13 +180,14 @@ if (window.attachEvent) window.attachEvent("onload", sfHover);
 //--><!]]></script>
 <div id="globalTeamNavWrapper">
     <ul id="globalTeamNav">
-        <li class="logo"><a href="http://www.wnba.com/"><img src="http://i.cdn.turner.com/nba/wnba/.element/img/1.1/sect/teamnav/W11_global_nav_logo-1.gif"></a></li>
+        <li class="logo"><a href="http://www.wnba.com/"><img src="/media/13wnba_eyebrow_dotcom.gif"></a></li>
         <li class="adSpot" id="globalNavPromo" style="margin-right:10px;">
            
 
             <!-- begin ad tag-->
-            <script language="JavaScript" src="http://ad.doubleclick.net/adj/wnba_team_sites.dart/global_nav;sz=511x20;ord=1337981324?" type="text/javascript"></script>
-            <noscript><a href="http://ad.doubleclick.net/jump/wnba_team_sites.dart/global_nav;sz=511x20;ord=1337981324?" target="_blank"><img src="http://ad.doubleclick.net/ad/wnba_team_sites.dart/global_nav;sz=511x20;ord=1337981324?" width="511" height="20" border="0" alt=""></a></noscript>
+            <script language="JavaScript" src="http://ad.doubleclick.net/adj/wnba_team_sites.dart/global_nav;sz=511x20;ord=1368737077?" type="text/javascript"></script>
+            <noscript><a href="http://ad.doubleclick.net/jump/wnba_team_sites.dart/global_nav;sz=511x20;ord=1368737077?" target="_blank"><img 
+src="http://ad.doubleclick.net/ad/wnba_team_sites.dart/global_nav;sz=511x20;ord=1368737077?" width="511" height="20" border="0" alt=""></a></noscript>
             <!-- End ad tag -->
 
 		</li>
@@ -181,13 +215,11 @@ if (window.attachEvent) window.attachEvent("onload", sfHover);
         </li>
         <li><a href="http://www.nba.com/dleague/" class="teamNavDleague">D-League</a></li>
         <li><a href="http://www.nba.com" class="teamNavNBA">NBA</a></li>
-        <li><a href="http://store.nba.com/category/index.jsp?categoryId=1398478&amp;league=wnba" class="teamNavStore" target="_blank">Store</a></li>
-        <li><a href="http://liveaccess.wnba.com/wnbala/launch.jsp" class="teamNavLiveAccess" target="_blank">WNBA Live Access</a></li>
+        <li><a href="http://store.nba.com/entry.point?entry=1398478&amp;league=wnba&amp;source=WNBA_HEADER" class="teamNavStore" target="_blank">Store</a></li>
+        <li class="last"><a href="http://liveaccess.wnba.com/wnbala/launch.jsp" class="teamNavLiveAccess" target="_blank">WNBA LiveAccess</a></li>
     </ul>
 
 </div>
-
-
 
 
 	
@@ -201,11 +233,8 @@ if (window.attachEvent) window.attachEvent("onload", sfHover);
 		 
 
 <style>
-#header .ticket_spot {
-float:right;
-height:98px;
-width:620px;
-}
+
+#gamesWrapper{display:none;}
 
 </style>
 
@@ -213,56 +242,8 @@ width:620px;
     <div class="content">
         <a href="/" class="logo"></a>
         <div class="ticket_spot">
-          
-                <a href="https://liveaccess.wnba.com/wnbala/secure/loginform?utm_source=wnba&amp;utm_medium=site&amp;utm_content=header&amp;utm_campaign=wnbala">
-<img id="" alt="" src="/media/w_tune_0525.png"></a>
-
                 
-
-
-            <div id="flashTargetHeader">
-                
-                
-                
-                
-                
-                
-                 <script type="text/javascript" language="javascript">
-<!--
-var flashSrc="/media/NBA_W11Tunein_ROS_620x98_0520_live.swf?
-clickTag=http://www.wnba.com/schedules/national_tv_schedule";
-if (flashSrc.indexOf("/")==0){
-	temp_var=flashSrc.substring(1,flashSrc.length);
-} else if (flashSrc.indexOf("http://www.nba.com/")==0) {
-	temp_var=flashSrc.substring(19,flashSrc.length);
-} else {
-	temp_var=flashSrc;
-}
-var flashName=temp_var.split(".")[0];
-var flashObject = new SWFObject("/media/NBA_W11Tunein_ROS_620x98_0520_live.swf?
-clickTag=http://www.wnba.com/schedules/national_tv_schedule", flashName, "620", "98", "8", "#FFFFFF");
-var flashVars="";
-if (flashVars.indexOf("&")){
-	var tempArray=flashVars.split("&");
-	for (i=0;i<tempArray.length;i++){
-	   var tempSplit=tempArray[i].split("=");
-	   flashObject.addVariable(tempSplit[0], tempSplit[1]);
-		
-	}
-} else {
-   var tempSplit=flashVars.split("=");
-   flashObject.addVariable(tempSplit[0], tempSplit[1]);
-}
-  flashObject.addParam("wmode", "transparent");
-  flashObject.addVariable("movieName", flashName);
-  flashObject.addVariable("pageURL", window.location);
-  
-//writes the flash player
-flashObject.write("flashTargetHeader");
-// -->
-</script>
-            </div>
-
+             
         </div>
 	      
 		<!--/frags/wnbaHeaderMenu.html SSI include-->
@@ -290,32 +271,44 @@ flashObject.write("flashTargetHeader");
 
     <li><a href="/players/" class="nav_players">Players</a>
         <ul>
-            <li class="ad"><a href="http://store.nba.com/entry.point?entry=1398478&amp;league=wnba&amp;source=WNBA_052112OFFICIALSOURCE_234X60" target="_blank">
-<img src="/media/080111_234x60_WNBA_OfficialSource.gif"></a></li>
+            <li class="ad"> <!-- begin ad tag -->
+<script type="text/javascript" src="http://ad.doubleclick.net/adj/WNBA.dart/nav_234x60;sz=234x60;ord=1368737077?"></script>
+<noscript><a href="http://ad.doubleclick.net/jump/WNBA.dart/nav_234x60;sz=234x60;ord=1368737077?"><img 
+src="http://ad.doubleclick.net/ad/WNBA.dart/nav_234x60;sz=234x60;ord=1368737077?" border="0" alt="" /></a></noscript>
+<!-- end ad tag --></li>
             <li><a href="/players/">Players</a></li>
             <li><a href="/coaches/coaches.html">Coaches</a></li>
-            <li><a href="/players/Team_Rosters.html">Team Roster</a></li>
+            <li><a href="/players/Team_Rosters.html">Team Rosters</a></li>
+            <li><a href="/supernatural/">EA Supernatural Players</a></li>
         </ul>
     </li>
 
-    <li><a href="/gameline/" class="nav_schedule">Schedule</a>
+    <li><a href="/schedules/" class="nav_schedule">Schedule</a>
         <ul>
-            <li class="ad"><a href="http://store.nba.com/entry.point?entry=1398478&amp;league=wnba&amp;source=WNBA_052112OFFICIALSOURCE_234X60" target="_blank">
-<img src="/media/080111_234x60_WNBA_OfficialSource.gif"></a></li>
+            <li class="ad"> <!-- begin ad tag -->
+<script type="text/javascript" src="http://ad.doubleclick.net/adj/WNBA.dart/nav_234x60;sz=234x60;ord=1368737077?"></script>
+<noscript><a href="http://ad.doubleclick.net/jump/WNBA.dart/nav_234x60;sz=234x60;ord=1368737077?"><img 
+src="http://ad.doubleclick.net/ad/WNBA.dart/nav_234x60;sz=234x60;ord=1368737077?" border="0" alt="" /></a></noscript>
+<!-- end ad tag --></li>
             <li><a href="/gameline/">Schedule</a></li>
+            <!--<li><a href="/schedules/">Schedule</a></li>-->
             <li><a href="/schedules/">Full Schedule</a></li>
             <li><a href="/teams/teamSchedules.html">Team-by-team</a></li>
-            <li><a href="/schedules/national_tv_schedule/">National TV</a></li>
+            <!--<li><a href="/schedules/national_tv_schedule/">National TV</a></li>
             <li><a href="/news/key_dates_2012.html">2012 Key Dates</a></li>
             <li><a href="/schedules/2011_game_schedule/May.html">2011 Results</a></li>
-            <!-- <li><a href="/statistics/playoff_picture.html">Playoff Picture</a></li> -->
+            <li><a href="/statistics/playoff_picture.html">Playoff Picture</a></li>
+            <li><a href="/news/playoffs_schedule_2012.html">2012 Playoff Schedule</a></li>-->
         </ul>
     </li>
 
     <li><a href="/statistics/" class="nav_stats">Stats</a>
         <ul>
-            <li class="ad"><a href="http://store.nba.com/entry.point?entry=1398478&amp;league=wnba&amp;source=WNBA_052112OFFICIALSOURCE_234X60" target="_blank">
-<img src="/media/080111_234x60_WNBA_OfficialSource.gif"></a></li>
+            <li class="ad"> <!-- begin ad tag -->
+<script type="text/javascript" src="http://ad.doubleclick.net/adj/WNBA.dart/nav_234x60;sz=234x60;ord=1368737077?"></script>
+<noscript><a href="http://ad.doubleclick.net/jump/WNBA.dart/nav_234x60;sz=234x60;ord=1368737077?"><img 
+src="http://ad.doubleclick.net/ad/WNBA.dart/nav_234x60;sz=234x60;ord=1368737077?" border="0" alt="" /></a></noscript>
+<!-- end ad tag --></li>
             <li><a href="/statistics/">Player Stats</a></li>
             <li><a href="/statistics/default_all_time_leaders/AllTimeLeadersPPGQuery.html">All Time Leaders</a></li>
             <li><a href="/statistics/sortable_team_statistics/">Sortable Team Stats</a></li>
@@ -328,23 +321,31 @@ flashObject.write("flashTargetHeader");
 
     <li><a href="/standings/team_record_comparison/conferenceNew_Std_Cnf.html" class="nav_standings">Standings</a>
         <ul>
-            <li class="ad"><a href="http://store.nba.com/entry.point?entry=1398478&amp;league=wnba&amp;source=WNBA_052112OFFICIALSOURCE_234X60" target="_blank">
-<img src="/media/080111_234x60_WNBA_OfficialSource.gif"></a></li>
+            <li class="ad"> <!-- begin ad tag -->
+<script type="text/javascript" src="http://ad.doubleclick.net/adj/WNBA.dart/nav_234x60;sz=234x60;ord=1368737077?"></script>
+<noscript><a href="http://ad.doubleclick.net/jump/WNBA.dart/nav_234x60;sz=234x60;ord=1368737077?"><img 
+src="http://ad.doubleclick.net/ad/WNBA.dart/nav_234x60;sz=234x60;ord=1368737077?" border="0" alt="" /></a></noscript>
+<!-- end ad tag --></li>
             <li><a href="/standings/team_record_comparison/conferenceNew_Std_Cnf.html">Conference Standings</a></li>
             <li><a href="/standings/team_record_comparison/conferenceNew_Stk_Cnf.html">Team Record Comparison</a></li>
-            
+            <li><a href="/statistics/playoff_picture.html">Playoff Picture</a></li>
         </ul>
     </li>
   
     <li><a href="/news/" class="nav_news">News</a>
         <ul>
-            <li class="ad"><a href="http://store.nba.com/entry.point?entry=1398478&amp;league=wnba&amp;source=WNBA_052112OFFICIALSOURCE_234X60" target="_blank">
-<img src="/media/080111_234x60_WNBA_OfficialSource.gif"></a></li>
+            <li class="ad"> <!-- begin ad tag -->
+<script type="text/javascript" src="http://ad.doubleclick.net/adj/WNBA.dart/nav_234x60;sz=234x60;ord=1368737077?"></script>
+<noscript><a href="http://ad.doubleclick.net/jump/WNBA.dart/nav_234x60;sz=234x60;ord=1368737077?"><img 
+src="http://ad.doubleclick.net/ad/WNBA.dart/nav_234x60;sz=234x60;ord=1368737077?" border="0" alt="" /></a></noscript>
+<!-- end ad tag --></li>
             <li><a href="/news/">News and Features</a></li>
-            <li><a href="/transactions/WNBA_2012.html">Transactions</a></li>
+            <li><a href="http://www.wnba.com/transactions/transactions_2013.html">Transactions</a></li>
+     <li><a href="/news/player-movement-central-2013.html">Player Movement</a></li>
+
             <li><a href="/news/newsletters.html">Newsletters</a></li>
-            <li><a href="/about_us/about_wnba_index.html">About Us</a></li>
-            <li><a href="/analysis/wnba_rules_regulations.html">Rules and Regulations</a></li>
+            <!--<li><a href="/about_us/about_wnba_index.html">About Us</a></li> -->
+            <!--<li><a href="/analysis/wnba_rules_regulations.html">Rules and Regulations</a></li> -->
             <li><a href="/rss/index.html">RSS</a></li>
         </ul>
     </li>
@@ -368,12 +369,11 @@ flashObject.write("flashTargetHeader");
 
     <li><a href="http://store.nba.com/entry.point?entry=1398478&amp;league=wnba&amp;source=WNBA_TOPNAV" class="nav_store">Store</a></li>
     <li><a href="/tickets/" class="nav_tickets">Tickets</a></li>
+
     <li class="facebook">
         <iframe src="http://www.facebook.com/plugins/like.php?&#10;layout=button_count&amp;show_faces=true&amp;width=225&amp;action=like&amp;colorscheme=light&amp;height=21&amp;href=http://www.facebook.com/wnba" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:90px; height:21px;" allowtransparency="true"></iframe>
     </li>
-    <li class="twitter">
-       <iframe allowtransparency="true" frameborder="0" scrolling="no" src="http://platform.twitter.com/widgets/follow_button.html?screen_name=WNBA" style="width:64px; height:20px;"></iframe>
-    </li>
+
 </ul>
 
 	
@@ -433,10 +433,7 @@ flashObject.write("flashTargetHeader");
 		<!--/frags/wnbaIPSocial.html SSI include-->
 		 <div id="social" class="module">
     <ul>
-        <li>
-            <a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="wnba">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
 
-        </li>
         <li>
 <script>
 
@@ -445,7 +442,7 @@ var fb_button = '<iframe src="http://www.facebook.com/plugins/like.php?href=' + 
 'colorscheme=light&height=21" scrolling="no" frameborder="0" style="border:none;' +
 ' overflow:hidden; width:450px; height:21px;" allowTransparency="true"></iframe>'
 document.write(fb_button);
-</script><iframe src="http://www.facebook.com/plugins/like.php?href=https://web.archive.org/web/20120525212843id_/http%3A//www.wnba.com/basics/privacy_policy.html&amp;layout=button_count&amp;show_faces=false&amp;width=450&amp;action=like&amp;font&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:21px;" allowtransparency="true"></iframe>
+</script><iframe src="http://www.facebook.com/plugins/like.php?href=https://web.archive.org/web/20130516204436id_/http%3A//www.wnba.com/basics/privacy_policy.html&amp;layout=button_count&amp;show_faces=false&amp;width=450&amp;action=like&amp;font&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:21px;" allowtransparency="true"></iframe>
 
         </li>
     </ul>
@@ -727,34 +724,35 @@ width:300px;
               <li><a href="/history/playersoftheweek.html">Players of the Week</a></li>
               <li><a href="/history/playersofthemonth.html">Players of the Month</a></li>
               <li><a href="/features/powerrankings_archive.html">Power Rankings</a></li>
-
               <li><a href="/features/player_rankings.html">Race to the MVP</a></li>
-              <li><a href="/news/overseas_11.html">2011-12 Overseas Map</a></li>
+              <li><a href="/news/overseas_12.html">2012-13 Overseas Map</a></li>
               <li><a href="/features/working_out_index.html">Working Out With...</a></li>
+              
           </ul>
       </li>
       <li>
           <h4>Voices</h4>
           <ul>
-
-              <li><a href="/voices/asktheeditor_q.html">Ask The Editor</a></li>
+              
               <li><a target="_blank" href="http://www.espnw.com">ESPNW</a></li>
               <li><a target="_blank" href="http://www.slamonline.com/online/other-ballers/womens/">SLAM Online</a></li>
               <li><a target="_blank" href="http://www.swishappeal.com/">Swish Appeal</a></li>
               <li><a target="_blank" href="http://www.fibaeurope.com/cid_KNce8jInH7Qj1EsyH5rjn2.compID_jr6ZiXqeGhMBtfq1yxqV83.html">FIBA Europe</a></li>
+              <li><a target="_blank" href="http://www.usabasketball.com/">USA Basketball</a></li>
           </ul>
       </li>
       <li>
           <h4>Events</h4>
           <ul>
-              <li><a href="/news/key_dates_2012.html">2012 Key Dates</a></li>
-<li><a href="/draft/2012/">2012 WNBA Draft</a></li>
-<li><a href="/playoffs/2011">2011 WNBA Playoffs</a></li>
-              <li><a href="/allstar/2011">2011 WNBA All-Star</a></li>
-              <li><a href="/draft/2011">2011 WNBA Draft</a></li>
+              <li><a href="/news/key_dates_2013.html">2013 Key Dates</a></li>
+              <li><a href="/draft/2013/">2013 WNBA Draft</a></li>
+              <li><a href="/playoffs/2012">2012 WNBA Playoffs</a></li>
+              <li><a href="/news/nba-allstar-2012.html">2012 NBA All-Star</a></li>
               <li><a href="/news/nbaallstar2011.html">2011 NBA All-Star</a></li>
-              <li><a href="/playoffs/2010/">2010 WNBA Playoffs</a></li>
-
+              <li><a href="/playoffs/2011">2011 WNBA Playoffs</a></li>
+              <li><a href="/draft/2011">2011 WNBA Draft</a></li>
+              <li><a href="/allstar/2011">2011 WNBA All-Star</a></li>
+              
           </ul>
       </li>
       <li>
@@ -766,6 +764,7 @@ width:300px;
               <li><a href="/analysis/wnba_rules_regulations.html">Rules Of The Game</a></li>
               <li><a href="/news/coachesgameplan.html">Coaches' Game Plan</a></li>
               <li><a href="http://www.wnba.com/allaccess/newslettersWNBA.html">Newsletters</a></li>
+              <li><a href="http://hoopedia.nba.com/index.php/WNBA">Hoopedia: Basketball Wiki</a></li>
 
           </ul>
       </li>
@@ -774,18 +773,16 @@ width:300px;
           <ul>
               <li><a href="/news/sponsors.html">Marketing/Media Partners</a></li>
               <li><a href="/adspecs/index.html">Advertise on WNBA.com</a></li>
-              <!--<li><a href="/photooftheyear/2010_bracket.html">Photo of the Year</a></li>-->
               <li><a href="http://www.nba.com/careers/">Career Opportunities</a></li>
               <li><a href="http://store.nba.com/entry.point?entry=1398478&amp;league=wnba&amp;source=WNBA_MOREWNBA">WNBAStore.com</a></li>
               <li><a href="http://www.nba.com/nbafit/index.html">NBA Fit/WNBA Fit</a></li>
               <li><a href="http://www.wnba.com/cares/">WNBA Cares</a></li>
-
   	    </ul>
       </li>
       <li>
           <h4>Interactive</h4>
           <ul>
-
+              
               <li><a href="https://liveaccess.wnba.com/wnbala/secure/registerform?&#10;utm_source=wnba&amp;utm_medium=site&amp;utm_content=general&amp;utm_campaign=wnbala">WNBA LiveAccess</a></li>
               <li><a href="http://www.youtube.com/wnba">WNBA YouTube</a></li>
               <li><a href="/features/connect.html">Connect with the WNBA</a></li>
@@ -842,13 +839,16 @@ width:300px;
 
 <script language="JavaScript1.2">
 if (document.layers){
-		for (var i=0;i<ads.length;i++){
-			if(ads[i].site.indexOf("omit") == -1)
-				document.write("<LAYER src=\"http://ad.doubleclick.net/adl/" + ads[i].site + ".dart/" + ads[i].page + ";pos=" + ads[i].pos + ";sz=" + ads[i].sz + ";tile=" + ads[i].pos + ";ord=" + adSpotRandom + "?\" visibility=\"hide\" onload=\"moveToAbsolute(adSpotLayer" + i + ".pageX,adSpotLayer" + i + ".pageY); visibility='show';\"></LAYER>");
-		}
+for (var i=0;i<ads.length;i++){
+    if(ads[i].site.indexOf("omit") == -1)
+	    document.write("<LAYER src=\"http://ad.doubleclick.net/adl/" + ads[i].site + ".dart/" + ads[i].page + ";pos=" + ads[i].pos + ";sz=" + ads[i].sz + ";tile=" + ads[i].pos + ";ord=" + adSpotRandom + "?\" visibility=\"hide\" onload=\"moveToAbsolute(adSpotLayer" + i + ".pageX,adSpotLayer" + i + ".pageY); visibility='show';\"></LAYER>");
+	}
 }
 </script>
 
+<script language="JavaScript" type="text/javascript">
+nbaOmEnableLinkFilters=true;
+</script>
 <!-- BEGIN: SiteCatalyst code version: H.20.3. -->
 <script language="JavaScript" type="text/javascript" src="http://i.cdn.turner.com/nba/nba/.element/js/2.0/global/omniture/s_code.js"></script>
 <script language="JavaScript" type="text/javascript">
@@ -857,10 +857,26 @@ if (document.layers){
 	if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
 </script>
 <noscript>
-	<a href="http://www.omniture.com" title="Web Analytics"><img src="http://metrics.wnba.com/b/ss/nbag-w-league/1/H.20.3--NS/0" height="1" width="1" border="0" alt="" /></a>
+	<a href="http://www.omniture.com" title="Web Analytics"><img src="http://metrics.wnba.com/b/ss/nbag-w-league/1/H.20.3--NS/0" height="1"
+width="1" border="0" alt="" /></a>
 </noscript>
 <!-- END: SiteCatalyst code version: H.20.3. -->
 
+<!-- START Nielsen Online SiteCensus V6.0 -->
+<!-- COPYRIGHT 2010 Nielsen Online -->
+<script type="text/javascript">
+(function () {
+var d = new Image(1, 1);
+d.onerror = d.onload = function () { d.onerror = d.onload = null; };
+d.src = ["//secure-us.imrworldwide.com/cgi-bin/m?ci=us-204044h&cg=0&cc=1&si=", escape(window.location.href), "&rp=", escape(document.referrer), "&ts=compact&rnd=", (new Date()).getTime()].join('');
+})();
+</script>
+<noscript>
+<div>
+<img src="//secure-us.imrworldwide.com/cgi-bin/m?ci=us-204044h&cg=0&cc=1&ts=noscript" width="1" height="1" alt="" />
+</div>
+</noscript>
+<!-- END Nielsen Online SiteCensus V6.0 -->
 
 
 	
