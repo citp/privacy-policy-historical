@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the coachcalorie.com privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115090336id_/http%3A//www.coachcalorie.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coachcalorie.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516235516id_/http%3A//coachcalorie.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Coach Calorie
+# Privacy Policy | COACH CALORIE
 
 At Coach Calorie, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information that is received and collected by Coach Calorie and how it is used.
 
