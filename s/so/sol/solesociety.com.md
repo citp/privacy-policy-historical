@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solesociety.com privacy policy that was archived on 2012-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121019042454id_/http%3A//www.solesociety.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solesociety.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516184234id_/http%3A//www.solesociety.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -78,7 +78,7 @@ Company may amend this Privacy Policy from time to time. Use of information we c
 
 **QUESTIONS OR CONCERNS**
 
-If you have any questions or concerns regarding privacy at Company site, please send us a detailed message to membercare@SoleSociety.com, and we will make every effort to resolve your concerns. You may also phone us at 1-877-765-3009, or write to us at:
+If you have any questions or concerns regarding privacy at Company site, please send us a detailed message to customercare@SoleSociety.com, and we will make every effort to resolve your concerns. You may also phone us at 1-877-765-3009, or write to us at:
 
 **Sole Society**  
 8511 Steller Drive  
