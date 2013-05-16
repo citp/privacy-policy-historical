@@ -1,25 +1,30 @@
-> *The following text is extracted and transformed from the fooddemocracynow.org privacy policy that was archived on 2009-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090421221544id_/http%3A//www.fooddemocracynow.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fooddemocracynow.org privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517001112id_/http%3A//fooddemocracynow.org/privacy) for the most accurate reproduction.*
 
-# Food Democracy Now | Privacy Policy
+# Food Democracy Now
 
-Food Democracy Now! protects the privacy of visitors to our website.
+**How personal information is collected, used, and shared**
 
-**What information does Food Democracy Now! collect?**
+We do not share the information you've given us with unaffiliated groups without your explicit permission. For petitions, letters to the editor, and surveys you've signed or completed, we treat your name, city, state, and comments as public information. We will collect personal identification information from you only if you voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent you from engaging in certain Site related activities.
 
-We do not collect personal information from our visitors other than what is supplied to us on a voluntary basis.
+We will not make your street address publicly available, but we may transmit it to members of Congress, the President, or other targets specifically noted on the signup page. We will also use your first name to indicate the latest actions taken on our site, which you can [view here](http://www.fooddemocracynow.org/campaigns/).
 
-**How does Food Democracy Now! use the information gathered from the above sources?**
+ **How we protect your information**
 
-Personal information will only be used to send you details about our programs and activities, and to capture funds donated via our website.
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
-Food Democracy Now! also uses information gathered on our website to improve the functionality and features of our site. We analyze our web traffic in order to measure interest in and use of various areas of our site and use this information to make our site more user-friendly and improve our content.
+ **Changes to this privacy policy**
 
-You do not have to disclose any personal information if you do not want to. You can always decide not to use those web-site services or features that require such information - the choice is yours.
+Food Democracy Now has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page.You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
-**Does Food Democracy Now! rent, sell, or trade my information?**
+We will send you updates on this and other important campaigns by email. If at any time you would like to unsubscribe from our email list, you may do so. 
 
-Your information will not be exchanged with organizations, companies or individuals who are not affiliated with Food Democracy Now!
+If you would like to unsubscribe from receiving messages, please [click here](http://action.fooddemocracynow.org/cms/unsubscribe/unsubscribe/).
 
-**Additional questions?**
+ **Contact Us**
 
-If you have any questions about our privacy policy, the information that we have collected from you online, the practices of, or your interactions with this site, please e-mail info@fooddemocracynow.org.
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
+Food Democracy Now  
+[http://www.fooddemocracynow.org](http://www.fooddemocracynow.org/)  
+[info@fooddemocracynow.org](mailto:info@fooddemocracynow.org "Contact Us")
+
+ _This document was last updated on March 7, 2013_
