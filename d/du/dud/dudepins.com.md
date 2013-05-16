@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dudepins.com privacy policy that was archived on 2012-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121008005658id_/http%3A//dudepins.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D6) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dudepins.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516210935id_/http%3A//dudepins.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D6) for the most accurate reproduction.*
 
-# Online Pin board for Men - Dudepins - Man up. Sign up. Pin up
+# The Site for Men & Manly Interests. Dudepins. Discover Stuff for Guys.
 
 Last Updated May 08, 2012
 
