@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the studentvoice.in privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116025247id_/http%3A//www.studentvoice.in/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studentvoice.in privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516043347id_/http%3A//www.studentvoice.in/p/privacy-policy.html) for the most accurate reproduction.*
 
-# www.studentvoice.in -India Education News Portal: Privacy Policy
+# Privacy Policy - India Education News Wikipedia
 
-  
+##  [Privacy Policy](http://www.studentvoice.in/p/privacy-policy.html)
+
 Student Voice India is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this web site, then you can be assured that it will only be used in accordance with this privacy statement.  
 We may change this policy from time to time by updation of this page. 
 
@@ -13,9 +14,6 @@ We may collect the following information:
 
 
 
-**  
-****  
-**  
 What we do with the information we gather
 
 We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
