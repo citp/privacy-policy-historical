@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the newnownext.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023020526id_/http%3A//www.newnownext.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newnownext.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517003159id_/http%3A//www.newnownext.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | NewNowNext
 
 ## Privacy Policy & Your California Privacy Rights
 
-_Last modified: December 2, 2011_
+_Last modified: March 22, 2013_
 
 Go to **[Terms of Use Agreement](http://www.newnownext.com/terms-of-use/ "NNN Terms of Use Agreement")**.
 
@@ -264,4 +264,4 @@ c/o Privacy Administrator
 **d. Other:** Please review our Terms of Use Agreement which governs your use of the Site. Any terms that are not defined in this Privacy Policy shall have the meaning given in the Terms of Use Agreement.
 
 This Privacy Policy was last modified on the date indicated above and is effective immediately.  
-Copyright © 2012 Viacom Media Networks, a division of Viacom International Inc. – All Rights Reserved.
+Copyright © 2013 Viacom Media Networks, a division of Viacom International Inc. – All Rights Reserved.
