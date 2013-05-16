@@ -1,63 +1,39 @@
-> *The following text is extracted and transformed from the gobollywood.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405232921id_/http%3A//www.gobollywood.com/services/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gobollywood.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516031941id_/http%3A//www.gobollywood.com/privacy) for the most accurate reproduction.*
 
-# Privacy Statement for GoBollywood
+# Privacy Policy
 
-********
+**Privacy Policy for www.gobollywood.com**
 
-**Privacy Statement for GoBollywood** **  
-GoBollywood** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [GoBollywood ](http://www.gobollywood.com/)
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at admin@gobollywood.com.
 
-********
+At www.gobollywood.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.gobollywood.com and how it is used.
 
-**Information Automatically Logged**  
-We use your IP address to help diagnose problems with our server and to administer our Web site.
+**Log Files**  
+Like many other Web sites, www.gobollywood.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user�s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-********
+**Cookies and Web Beacons**  
+www.gobollywood.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
-**Cookies**  
-Our Site uses cookies to make sure you don't see the same ad repeatedly. We also use cookies to deliver content specific to your interests. 
+**DoubleClick DART Cookie**
 
-********
+.:: Google, as a third party vendor, uses cookies to serve ads on your site.
 
-**Advertisers**  
-We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. 
+.:: Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
 
-********
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – **http://www.google.com/privacy_ads.html**
 
-**Surveys**  
-Our online surveys ask visitors for contact information (like email address). 
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include …….  
+Google Adsense  
+Komli  
+CPX Interactive
 
-Contact information from the surveys is used to ship purchases, information about our company. The customer's contact information is also used to get in touch with the visitor when necessary. 
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.gobollywood.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
-Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
+www.gobollywood.com has no access to or control over these cookies that are used by third-party advertisers.
 
-********
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.gobollywood.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
-**Contests**  
-We run contests on our site in which we ask visitors for contact information (like email address). 
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
-Contact information from the contests is used to ship purchases, information about our company. The customer's contact information is also used to get in touch with the visitor when necessary. 
+  
 
-Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
-
-********
-
-**External Links**  
-This site contains links to other sites. **GoBollywood** is not responsible for the privacy practices or the content of such Web sites. 
-
-********
-
-**Public Forums**  
-This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
-
-********
-
-**Choice/Opt-Out**
-
-  1. You can send email to [news@gobollywood.com](mailto:news@gobollywood.com?subject=remove_email)
-  2. You can visit the following URL: [http://www.gobollywood.com/services/MailList.asp ](http://www.gobollywood.com/services/MailList.asp)
-
-********
-
-**Contacting the Web Site**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [privacy@gobollywood.com ](mailto:privacy@gobollywood.com)
