@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jons-info.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224055638id_/http%3A//www.jons-info.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jons-info.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517022501id_/http%3A//jons-info.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Article Directory | Article Submission | Free Content
+# Privacy Policy
 
 ## PRIVACY POLICY
 
