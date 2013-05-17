@@ -1,57 +1,138 @@
-> *The following text is extracted and transformed from the datehookup.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023131547id_/http%3A//www.datehookup.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datehookup.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517103824id_/http%3A//www.datehookup.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # DateHookup.com Privacy Policy
 
-Effective as of: August 10th, 2012 
+_Last updated April 5, 2013_
 
-We recognize that privacy is important. Below are some common questions and answers related to how we handle privacy. 
+**DateHookup.com Privacy policy**
 
-**What kind of information is collected on this site?**
+This Privacy Policy describes the information collected by DateHookup.com, operated by Search Floor, Inc., ( **we** , **us** or **DateHookup.com** ), how that information may be used, with whom it may be shared, and your choices about such uses and disclosures. We encourage you to read this Privacy Policy carefully when using our website or services or transacting business with us. By using our website, you are accepting the practices described in this Privacy Policy. 
 
-When you join DateHookup.com, you will have to submit certain personal information, such as an email address, your gender, age, and other information that a typical dating site would need. Your email address is always private and never shared with anyone. Other information that you submit will be available on your profile, as one would expect ;-) 
+If you have any questions about our privacy practices, please refer to the end of this Privacy Policy for information on how to contact us. 
 
-**Do you share my info with other companies?**
+The information we collect 
 
-We don't give, sell, or share any information you submit to us to third parties, unless requested by police or required by law or unless necessary to provide our services to you. 
+**In General.** We may collect personal information that can identify you such as your name and email address and other information that does not identify you. When you provide personal information through our website, the information may be sent to servers located in the United States and other countries around the world. 
 
-Your information may be transferred to our contractors in connection with the provision of our services to you or where it is otherwise necessary to meet the purpose for which you have submitted your information. 
+**Information you provide.** We may collect and store any personal information you enter on our website or provide to us in some other manner. This includes identifying information, such as your name, address, email address, and telephone number, and, if you transact business with us, financial information such as your payment method (valid credit card number, type, expiration date or other financial information). We also request information about your interests and activities, your gender and age, and other demographic information such as your hometown or your username. 
 
-**Why do you need my email address?**
+**Information from other sources.** DateHookup.com is a part of the IAC family of businesses (please see [www.iac.com](http://www.iac.com/)), which as of the date of this policy includes Match.com, Ask.com, Citysearch, ServiceMagic, Pronto, Shoebuy, College Humor, and many others companies and websites. We may periodically obtain both personal and non-personal information about you from other IAC businesses, business partners, contractors and other third parties and add it to our account information or other information we have collected. 
 
-We require your email address so we can alert you of new messages, winks, friend requests, new singles in your area, etc. We do not abuse this feature, as our goal is to never annoy our users. There is an unsubscribe link on every email we send so you can stop receiving emails anytime with the click of a button. 
+**Information about others.** We may collect and store personal information about other people that you provide to us, such as their name, address and email address. If you use our website to send others (friends, relatives, colleagues, etc.) a product as a gift, we may store your personal information, and the personal information of each such recipient in order to process those requests or facilitate future activities. 
 
-**Regarding advertisements on this site**
+**Use of cookies and other technologies to collect information.** We use various technologies to collect information from your computer and about your activities on our site. 
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. Information sent is always aggregated. For example, we might offer advertisers the ability to advertise to age groups such as 18-30. If you fell into this age range, you would be in this group and might receive ads targeted to your age group. None of your personal information is used directly, it's grouped with thousands of other members. Google is our ad vendor. For more information about how Google serves ads, please [click here](http://www.google.com/privacy_ads.html). 
+**Information collected automatically.** We automatically collect information from your browser when you visit our website. This information includes your IP address, your browser type and language, access times, the content of any undeleted cookies that your browser previously accepted from us (see "Cookies" below), and the referring website address. 
 
-**Can I hide or remove my profile from DateHookup.com?**
+**Cookies and Use of Cookie Data.** When you visit our website, we may assign your computer one or more **cookies** , to facilitate access to our site and to personalize your online experience. Through the use of a cookie, we also may automatically collect information about your online activity on our site, such as the web pages you visit, the time and date of your visits, the links you click, and the searches you conduct on our site. Most browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you choose to **decline cookies** , please note that you may not be able to sign in or use some of the interactive features offered on our website. Other cookies may reflect de-identified demographic or other data linked to the registration data you have submitted to us, e.g., your email address, in hashed, non-human readable form. No personally identifiable information is contained in these cookies. To opt-out of these cookies, please go to <http://www.aboutads.info/choices>. 
 
-You can set your profile to 'invisible' any time you want. This will make it so no one can see your profile. You can set it back to visible at any time. You can also cancel your account at any time. This will completely delete your profile from our system. We don't try to make it impossible to delete yourself like some other sites might, deleting your account takes just 3 clicks from anywhere on the site. But you won't want to leave, this place is too much fun! 
+**Other Technologies.** We may use standard Internet technology, such as **web beacons** and other similar technologies, to track your use of our site. We also may include web beacons in advertisements or email messages to determine whether messages have been opened and acted upon. The information we obtain in this manner enables us to customize the services we offer our website visitors to deliver targeted advertisements and to measure the overall effectiveness of our online advertising, content, programming or other activities. 
 
-**Do you use cookies?**
+**Information collected by third-parties.** We may allow third-parties, including our authorized service providers, IAC companies, advertising companies and ad networks, to display advertisements on our site. These companies may use tracking technologies, such as **cookies** , to collect information about users who view or interact with their advertisements. Our website does not provide any personal information to these third parties. This information allows them to deliver targeted advertisements and gauge their effectiveness. Some of these third-party advertising companies may be advertising networks that are members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies ( [www.networkadvertising.org](http://www.networkadvertising.org/)). 
 
-We use cookies to enable the functions on this site to work. Without them DateHookup.com would not function, so in order to use this site please have cookies enabled. Cookies are just small text files that reside on your computer. Sites will store session information in cookies in order to know whether you are logged in, etc. They are private. 
+How we use the information we collect 
 
-**Links**
+**In General.** We may use information that we collect about you to: 
 
-When browsing this site, you may encounter links that point to other sites. This could be in the form of advertising, or links that users might put in their profiles. DateHookup.com is not affiliated with these sites and has no liability for them. When you link to other third party websites, our privacy practices no longer apply. We encourage visitors to review each site's privacy policy before disclosing any personal data. 
+  * deliver the products and services that you have requested. 
+  * manage your account and provide you with customer support. 
+  * perform research and analysis about your use of, or interest in, our products, services, or content, or products, services or content offered by others. 
+  * communicate with you by email, postal mail, telephone and/or mobile devices about products or services that may be of interest to you either from us, other IAC companies or other third parties. 
+  * develop and display content and advertising tailored to your interests. 
+  * verify your eligibility and deliver prizes in connection with contests and sweepstakes. 
+  * enforce or exercise any rights in our terms and conditions. 
+  * manage our business. 
+  * perform functions as otherwise described to you at the time of collection. 
+  * register you with and display your profile on other online dating and other social websites owned by IAC, such as [match.com](http://www.match.com/) and websites operated by People Media. 
 
-**Communication with other members**
 
-Communication with other members on this site is handled through our messaging and instant messaging systems. Your email address is never used for communication and remains private at all times. The only personal information that is available to other members is what you have in your profile or what you give them. 
 
-**Security**
+**Financial information.** We may use financial information or payment method information to process payment for any purchases made on our website, enroll you in the discount, rebate, and other programs in which you elect to participate, to protect against or identify possible fraudulent transactions, and otherwise as needed to manage our business. 
 
-We have implemented generally accepted standards of technology and operational security in order to protect your personal information that we collect from loss, misuse, alteration or destruction. In particular, all appropriate confidentiality obligations and technical and organizational security measures are in place to protect against unauthorized or unlawful disclosure or processing of such personal information and the accidental loss or destruction of or damage to such personal data. In compliance with applicable law, we will promptly notify those persons whose personal data has been compromised, in accordance with the notification procedures in this Privacy Statement or as otherwise required. 
+**Job applicants.** If your personal information is submitted through our website when applying for a position with our company, the information will be used solely in connection with considering and acting upon your application. We may retain your personal information for a period of time, but only for the purpose of considering your application for current or future available positions. This information, which may include your name and contact information, prior education and experience, and other information you provided to us, may be shared with other IAC companies for the purpose of evaluating your qualifications for the particular position or other available positions, as well as with third-party service providers retained by us to collect, maintain and analyze candidate submissions for job postings. 
 
-**Notification procedures**
+Please review **Your choices about collection and use of your information below**. 
 
-It is our policy to provide notifications, whether such notifications are required by law or are for marketing or other business related purposes, to our users via e-mail notice, written or hard copy notice, or through conspicuous posting of such notice on the 'My Home' page, as determined by us in our sole discretion. Notwithstanding the foregoing, we reserve the right to determine the form and means of providing notifications to our site users. 
+With whom we share your information 
 
-**Access to personal data**
+**Personal information.** We do not share your personal information with others except as indicated below or when we inform you and give you an opportunity to opt out of having your personal information shared. We may share personal information with: 
 
-If you would like to update any personal information you have submitted to us, please do so via your profile page or account options. 
+**Service providers:** We may share your personal information, which may include your name and contact information (including email address), with third parties that perform certain services on our behalf. These services may include fulfilling orders, providing customer service and marketing assistance, performing business and sales analysis, member screenings, supporting our website functionality, and supporting contests, sweepstakes, surveys and other features offered through our website. We may also share your name, contact information and credit card information with our authorized service providers who process credit card payments. These service providers may have access to personal information needed to perform their functions but are not permitted to share or use such information for any other purposes. 
 
-**Modifications**
+**Other IAC businesses.** We are part of the IAC family of businesses (go to www.iac.com for a listing of these businesses). IAC’s businesses include the online dating websites[match.com](http://www.match.com/), [chemistry.com](http://www.chemistry.com/), OkCupid.com,[SpeedDate.com](http://www.datehookup.com/) and the websites operated by People Media ([ourtime.com](http://www.ourtime.com/), [seniorpeoplemeet.com](http://www.seniorpeoplemeet.com/), [blackpeoplemeet.com](http://www.blackpeoplemeet.com/) and other sites listed on[peoplemedia.com](http://www.peoplemedia.com/)). We may share information we collect, including your profile and personal information such as your name and contact information, photos, interests, activities and transactions on our website, with the IAC companies. As part of our online service, your profile may be registered on and/or appear in search results or other areas of other online dating websites owned by IAC. All IAC companies comply with the IAC Consumer Privacy statement. 
 
-We reserve the right to modify or amend this Privacy Policy at any time. The effective date will be displayed at the beginning of this policy. To keep visitors informed, we will notify users of material changes to our Privacy Policy by identifying the update on the 'My Home' page of DateHookup.com. 
+**Business partners:** When you make purchases on our website, we may share personal information with the businesses with which we partner to offer you the applicable products, services or advertisements. When you elect to engage in a particular merchant's offer or program, you authorize us to provide your email address and other information to that merchant. 
+
+**Other Situations.** We also may disclose your information, including personal information: 
+
+In response to a subpoena or similar investigative demand, a court order, or a request for cooperation from a law enforcement or other government agency; to establish or exercise our legal rights; to defend against legal claims; or as otherwise required by law. In such cases, we may raise or waive any legal objection or right available to us. 
+
+When we believe disclosure is appropriate in connection with efforts to investigate, prevent, or take other action regarding illegal activity, suspected fraud or other wrongdoing; to protect and defend the rights, property or safety of our company, our users, our employees, or others; to comply with applicable law or cooperate with law enforcement; or to enforce our website terms and conditions or other agreements or policies. 
+
+In connection with a substantial corporate transaction, such as the sale of our business, a divestiture, merger, consolidation, or asset sale, or in the unlikely event of bankruptcy. 
+
+**Anonymized and non-personally-identifiable information.** We may share non-personally-identifiable information we collect under any of the above circumstances. We may also share it with IAC companies and third parties to develop and deliver targeted advertising on our website and on websites of third parties, and to analyze and report on advertising you see. We may combine non-personally-identifiable information we collect with additional non-personally-identifiable information collected from other sources. We also may share anonymized, non-personally-identifiable information with third parties, including advisors, writers, researchers, partners, advertisers and investors. This data may be used for commercial and research purposes and analysis, including for studies, articles, and essays, as well as media and entertainment purposes. 
+
+**Third-party websites**
+
+There are a number of places on our website where you may click on a link to access other websites that do not operate under this Privacy Policy. For example, if you click on an advertisement on our website, you may be taken to a website that we do not control. These third-party websites may independently solicit and collect information, including personal information, from you and, in some instances, provide us with information about your activities on those websites. We recommend that you consult the privacy statements of all third-party websites you visit by clicking on the "privacy" link typically located at the bottom of the webpage you are visiting. 
+
+**How you can access your information**
+
+If you have an online account with us, you have the ability to review and update your personal information online by logging into your account and clicking on Settings. More information about how to contact us is provided below. If you have an online account with us, you also may delete or disable your account at any time by visiting the "Settings" page for your account. If you delete or disable your account, we may still retain certain information associated with your account for analytical purposes and recordkeeping integrity, as well as to prevent fraud, collect any fees owed, enforce our terms and conditions, take actions we deem necessary to protect the integrity of our website or our users, or take other actions otherwise permitted by law. In addition, if certain information has already been provided to third parties as described in this Privacy Policy, retention of that information will be subject to those third parties' policies. 
+
+**Your choices about collection and use of your information**
+
+You can choose not to provide us with certain information, but that may result in you being unable to use certain features of our website because such information may be required in order for you to register as a member; purchase products or services; participate in a contest, promotion, survey, or sweepstakes; ask a question; or initiate other transactions on our website. 
+
+You may be given the opportunity, in any commercial email that we send to you, to opt out of receiving such messages in the future. We request a reasonable time to process an opt-out request. We may send you other types of transactional and relationship email communications, such as service announcements, administrative notices, and surveys, without offering you the opportunity to opt out of receiving them. Please note that changing information in your account, or otherwise opting out of receipt of promotional email communications, will only affect future activities or communications from us. If we have already provided your information to a third party (such as a service provider) before you have changed your preferences or updated your information, you may have to change you preferences directly with that third party. 
+
+You can also control information collected by cookies. See **Cookies** below for information about declining or deleting cookies. 
+
+**How we protect your personal information**
+
+We take appropriate security measures (including physical, electronic and procedural measures) to help safeguard your personal information from unauthorized access and disclosure. We want you to feel confident using our website to transact business. However, no system can be completely secure. Therefore, although we take steps to secure your information, we do not promise, and you should not expect, that your personal information, searches, or other communications will always remain secure. Users should also take care with how they handle and disclose their personal information and should avoid sending personal information through insecure email. Please refer to the [Federal Trade Commission's website](http://www.ftc.gov/bcp/menus/consumer/data.shtm) for information about how to protect yourself against identity theft. 
+
+**Information you provide about yourself while using our service**
+
+We provide areas on our websites where you can post information about yourself and others and communicate with others or upload content such as photographs. Such postings are governed by our [Terms](http://www.okcupid.com/terms) of Use. In addition, such postings may appear on other websites or when searches are executed on the subject of your posting. Also, whenever you voluntarily disclose personal information on publicly-viewable web pages, that information will be publicly available and can be collected and used by others. For example, if you post your email address, you may receive unsolicited messages. We cannot control who reads your posting or what other users may do with the information you voluntarily post, so we encourage you to exercise discretion and caution with respect to your personal information. 
+
+**Children's privacy**
+
+Although our website is a general audience site, we restrict the use of our service to individuals age 18 and above. We do not knowingly collect personal information from children under the age of 13. 
+
+**Visiting our websites from outside the United States**
+
+This Privacy Policy is intended to cover collection of information on our website from residents of the United States. If you are visiting our website from outside the United States, please be aware that your information may be transferred to, stored, and processed in the United States where our servers are located and our central database is operated. By using our services, you understand that your information may be transferred to our facilities and those third parties with whom we share it as described in this privacy policy. 
+
+**No Rights of Third Parties**
+
+This Privacy Policy does not create rights enforceable by third parties or require disclosure of any personal information relating to users of the website. 
+
+**Changes to this Privacy Policy**
+
+We will occasionally update this Privacy Policy. When we post changes to this Privacy Policy, we will revise the "last updated" date at the top of this Privacy Policy. We recommend that you check our website from time to time to inform yourself of any changes in this Privacy Policy or any of our other policies. 
+
+**How to contact us**
+
+If you have any questions about this Privacy Policy or our information-handling practices, or if you would like to request information about our disclosure of personal information to third parties for their direct marketing purposes, please contact us by email or postal mail as follows: 
+
+_Privacy Officer  
+DateHookup.com   
+8300 Douglas Avenue, Suite 800   
+Dallas, Texas 75225   
+privacy@match.com _
+
+© IAC/InterActiveCorp. All rights reserved. 
+
+**Cookies:** A cookie is a small text file that is stored on a user's computer for record keeping purposes. Cookies can be either session cookies or persistent cookies. A session cookie expires when you close your browser and is used to make it easier for you to navigate our website. A persistent cookie remains on your hard drive for an extended period of time. Cookies on our website do not link to or store your personal information. 
+
+For example, when you sign in to our website, we will record your user or member ID and the name associated with your user or member ID in the cookie file on your computer. We also may record your password in this cookie file, if you indicated that you would like your password saved for automatic sign-in. For security purposes, we will encrypt any usernames, passwords, and other user or member account-related data that we store in such cookies. In the case of sites and services that do not use a user or member ID, the cookie will contain a unique identifier. We may allow our authorized service providers to serve cookies from our website to allow them to assist us in various activities, such as doing analysis and research on the effectiveness of our site, content and advertising. 
+
+You may delete or decline cookies by changing your browser settings. Click "Help" in the toolbar of most browsers for instructions. If you do so, some of the features and services of our website may not function properly. 
+
+We may allow third-parties, including IAC companies, advertising companies, and ad networks, to display advertisements on our site. These companies may use tracking technologies, such as cookies, to collect information about users who view or interact with their advertisements. Our website does not provide any personal information to these third parties, but they may collect information about where you, or others who are using your computer, saw and/or clicked on the advertisements they deliver (such as click stream information, browser type, time and date, subject of advertisements clicked or scrolled over, etc.), and possibly associate this information with your subsequent visits to the advertised websites. They also may combine this information with personal information they collect from you to provide advertisements about goods and services likely to be of greater interest to you. The collection and use of that information is subject to the third-party's privacy policy. This information allows them to deliver targeted advertisements and gauge their effectiveness. Some of these third-party advertising companies may be advertising networks that are members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies and provides information about this behavioral advertising practice ( [www.networkadvertising.org](http://www.networkadvertising.org/)). This policy covers the use of cookies by DateHookup.com only and does not cover the use of cookies by any advertisers. 
+
+**Web Beacons:** Web beacons (also known as clear gifs, pixel tags or web bugs) are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of web users or to access cookies. Unlike cookies which are stored on the user's computer hard drive, web beacons are embedded invisibly on the web pages (or in email) and are about the size of the period at the end of this sentence. 
+
+Web beacons may be used to deliver or communicate with cookies, to count users who have visited certain pages and to understand usage patterns. We also may receive an anonymous identification number if you come to our site from an online advertisement displayed on a third-party website. Third parties may use anonymous information about your visits to our site and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. 
