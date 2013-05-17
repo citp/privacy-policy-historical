@@ -1,126 +1,233 @@
-> *The following text is extracted and transformed from the residentscreening.net privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122001327id_/http%3A//www.fadvsaferent.com/privacy/index.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the residentscreening.net privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517221901id_/http%3A//www.corelogic.com/privacy.aspx) for the most accurate reproduction.*
 
-# CoreLogic SafeRent
+# CoreLogic - Privacy Policy and European Union Safe Harbor Privacy Policy
 
-CoreLogic SafeRent Privacy Values & Practices
+This page includes our Privacy Policy and European Union Safe Harbor Privacy Policy. **Please print or download a copy  for your records.**
 
-We are committed to and maintain the following Privacy Values and Practices
+Click [here](http://www.corelogic.com/Legal.aspx "Terms of Use") to read the Terms of Use.
 
-We are committed to and maintain the following Privacy Values and Practices regarding the information we collect, maintain, disclose, and disseminate about consumers.
+##   Privacy Policy
 
-CoreLogic SafeRent Privacy Values
-
-**Fairness**
-
-CoreLogic SafeRent constantly considers consumers' expectations about their privacy in our business practices. Using the [Fair Credit Reporting Act (FCRA)](https://web.archive.org/consumer_relations/glossary/index.php#fcra) as our guide, we constantly strive to maintain a balance between serving our clients, maintaining privacy, and ensuring accuracy of information.
-
-**Public Record**
-
-CoreLogic SafeRent believes that an open public record is of significant value to society, enhances consumer choice, and ultimately creates consumer opportunity. We support an open public record and recognize its importance to the economy, to society, and to the safety of the general public.
-
-**Use**
-
-We believe that we should behave responsibly when we use information about a consumer. CoreLogic SafeRent's process of collecting, disseminating and disclosing information is designed to comply with all applicable federal, state, and local statutory requirements, governing the use of consumer data, including those found in the [FCRA](https://web.archive.org/consumer_relations/glossary/index.php#fcra). Furthermore, any consumer information that is distributed to our clients is done with a commitment, under the terms and conditions of the CoreLogic SafeRent Screening Service Agreement, that each client will handle all consumer information provided to them in an appropriate, secure, and confidential manner.
-
-**Accuracy**
-
-CoreLogic SafeRent takes reasonable steps to help ensure the accuracy of the data we collect, use and disseminate. Where possible, we take reasonable steps to investigate claims of inaccurate or incomplete data we collect, use, and disseminate, and if appropriate, correct inaccurate information that we maintain using the [FCRA](https://web.archive.org/consumer_relations/glossary/index.php#fcra) as our guide. In cases where we receive inquiries about information we do not maintain and manage, we take reasonable steps to refer the consumer to the source of the data which they believe to be erroneous.
-
-**Education**
-
-CoreLogic SafeRent endeavors to educate employees, clients, and others in the multifamily housing industry about the importance of consumer privacy. It is our goal to ensure consumers are informed as to how CoreLogic SafeRent, and our clients, use the consumer information we maintain, manage and disseminate. We also encourage all parties, with whom we conduct business, to collect and use information in a responsible manner. We are open with consumers about the various types of information we maintain and will also discuss with a consumer the source of that information.
-
-**Confidentiality and Security**
-
-We strive to ensure utilization of appropriate facilities and systems to protect against unauthorized access to or corruption of the data we collect, maintain and disseminate. We use various identity verification methods to determine the accurate identity of a consumer making a request. We employ security procedures for handling consumer information as well as maintaining physical security and limiting access to our facilities in order to safeguard information we collect, maintain, and disseminate.
-
-CoreLogic SafeRent Privacy Practices
-
-**Applicability**
-
-CoreLogic SafeRent is committed to safeguarding consumer information. As a consumer using this site you may provide CoreLogic SafeRent with certain contact information such as, your name, phone number(s), address, or email address. We understand that you may be concerned about the information you provide and have a right to know how we utilize this information. We generally use consumer inquiry information for the purpose of expediting our response to your request.
-
-**Types of Information**
-
-The types of information we may collect include, but are not limited to:
-
-  * Information we receive from you either verbally or in writing
-  * Information you disclose on a form
-  * Any communication in writing, by telephone or by e-mail
-  * Any previous consumer dispute or request you may have initiated
-  * Information we receive from a consumer reporting agency
-  * Information we receive from public records
-  * Information provided by a law enforcement agency or government entity
-  * Information provided by a previous landlord or property manager
+  1. Applicability
+  2. Types of Information
+  3. Use of Information
+  4. Former Customers
+  5. Confidentiality and Security
+  6. Information Obtained Through Our Internet Site
+  7. Business Relationships
+  8. Cookies
+  9. Privacy Notice: Preparation and Processing of Investigative Consumer Reports
 
 
 
-**Use of Information**
+## European Union Safe Harbor Privacy Policy
 
-Our [Consumer Relations Department](https://web.archive.org/consumer_relations/contact_cr/index.php) may request information from you in an effort to resolve your question or concern with information maintained in your [consumer file](https://web.archive.org/consumer_relations/glossary/index.php#consumerfile) and only does so for legitimate business purposes. We do not release your information to any party other than to a client making an inquiry with your approval as permitted by laws set forth under the [Fair Credit Reporting Act (FCRA)](https://web.archive.org/consumer_relations/glossary/index.php#fcra). We may use any information received from a consumer to update the accuracy of the information we maintain. CoreLogic SafeRent holds its clients to standards established by the [FCRA](https://web.archive.org/consumer_relations/glossary/index.php#fcra) and other applicable laws. We reinforce our standards through screening agreements we have in place with our clients that state our products and services are only intended for permissible purposes established under the [FCRA](https://web.archive.org/consumer_relations/glossary/index.php#fcra). If we believe that a client is using CoreLogic SafeRent's information in a manner that does not comply with applicable laws or agreements we will pursue corrective action. We periodically review the use of information by our clients to ensure appropriateness of use of information we provide. 
-
-**Security**
-
-We constantly strive to ensure appropriate utilization of facilities, systems and procedures to protect against unauthorized access to or corruption of the data we collect, maintain and disseminate. We restrict access to nonpublic personal information about consumers to only authorized personnel and/or clients which have permissible purpose to access such information. We use reasonable, necessary identity verification protocols to properly identify a consumer making a request. We employ security procedures for handling consumer information as well as maintaining physical security of our facilities in order to safeguard information we collect, maintain, and disseminate. As stated we use various means to verfiy the identity of an individual making a request or inquiry. Consumer Relations uses the information you provide to us, in conjunction with the information we have collected, for the purpose of resolving your consumer relations issue or concern. We may also use the information you provide to update the accuracy of information we maintain.
-
-**Special Message for Connecticut Residents Regarding the Confidentiality of Social Security Numbers.**
-
-Connecticut's legislature passed Public Act 08-167 requiring that consumer reporting agencies, like CoreLogic SafeRent, Inc., display to Connecticut residents how CoreLogic SafeRent, Inc. protects the confidentiality of social security numbers; prohibits the unlawful disclosure of social security numbers; and, limits access to social security numbers. CoreLogic SafeRent, Inc. takes the same protective measures described above with regard to other nonpublic personal information when handling a social security number and, generally, also does the following in addition: CoreLogic SafeRent, Inc. does not release the full social security number in reports produced from its own databases, even when a consumer has requested a copy of his/her own report. A description of our basic security for nonpublic personal information is described above and applies to the social security number.
-
-Questions about CoreLogic SafeRent Privacy Values and Practices
-
-**What information is collected and tracked from the use of this website/webpage?**
-
-We may use information provided by a consumer for the purpose of expediting our response to your request and updating the accuracy of information in your consumer file. Once we confirm a consumer's identity, we may then incorporate correspondence, forms, and requests with the consumer's dispute/reinvestigation file. The majority of information used or tracked originating from this consumer website is information you provide to us. Consumer information we provide to our clients is primarily obtained from housing and criminal public court records as well as the major national credit bureaus such as: [Experian](https://web.archive.org/consumer_relations/credit_bureaus/index.php), [TransUnion](https://web.archive.org/consumer_relations/credit_bureaus/index.php) and [Equifax](https://web.archive.org/consumer_relations/credit_bureaus/index.php). Our objective is to provide our clients with timely accurate consumer information so that they may make an informed business decision based on their own criteria.
-
-**Do we share information with third parties?**
-
-Our process of collecting and disclosing information is designed to comply with applicable federal, state, and local statutory requirements, governing the use of consumer data, including those found in the [FCRA](https://web.archive.org/consumer_relations/glossary/index.php#fcra). Any personal information can be used by our Consumer Relations Department when addressing or reinvestigating a consumer-initiated issue or concern. There are several scenarios in which we may provide information in your consumer file to a third party: 
-
-  1. Upon your authorization, we supply our clients (potential employers or property managers/agents) with a [consumer report](https://web.archive.org/consumer_relations/glossary/index.php#consumerreport). Information about consumers is distributed to our clients with a commitment from each client that the information will be handled in a secure and confidential manner. We may provide information about consumers to business entities such as: 
-    1. Rental Housing Providers to which a consumer has authorized permission to request a report.
-    2. Potential employers with whom a consumer has granted permission to conduct a background check.
-    3. State and federal government entities as permitted by applicable laws.
-  2. Third parties may be authorized to receive information when handling a consumer request or dispute when a consumer signs the Third Party Disclosure portion of the [Consumer Disclosure Request Form](https://web.archive.org/consumer_relations/forms/consumer_disclosure_packet.pdf).
-  3. For permissible purpose under the FCRA and other applicable laws, we may provide information in your [consumer file](https://web.archive.org/consumer_relations/glossary/index.php#consumerfile) to our clients and/or law enforcement and government agencies.
+  * Scope
+  * Provisions of our Safe Harbor Privacy Policy
+    * Notice
+    * Choice
+    * Onward Transfer (Transfers to Third Parties)
+    * Access
+    * Security
+    * Data Integrity
+    * Enforcement
+    * Amendments
+  * Contact Information
 
 
 
-We do not use consumer information without prior authorization for marketing purposes nor do we sell the information to organizations or agencies to use the information for marketing or solicitation.
+##  _Privacy Policy_
 
-**How can I review my CoreLogic SafeRent consumer file or dispute information CoreLogic SafeRent maintains or provides?**
+### We Are Committed to Safeguarding Customer Information
 
-As a consumer, you have the right to obtain a copy of your [consumer file](https://web.archive.org/consumer_relations/glossary/index.php#consumerfile) maintained by CoreLogic SafeRent. You may initiate a request to obtain a copy of such information by contacting the [CoreLogic SafeRent Consumer Relations Department](https://web.archive.org/consumer_relations/contact_cr/index.php). If you believe any information in your [consumer file](https://web.archive.org/consumer_relations/glossary/index.php#consumerfile) is inaccurate, incomplete or has been obtained without permissible purpose, you have the right to dispute the information under the guidelines set forth by the [FCRA](https://web.archive.org/consumer_relations/glossary/index.php#fcra) and/or other applicable laws. We are open with consumers about the types of information we maintain and will also discuss the source of information upon receiving the proper identity verification documents. CoreLogic SafeRent is always mindful of the urgency that accompanies a consumer initiated request. In handling such requests we maintain standards of professionalism and expediency ensuring timelines in line with those outlined by the [FCRA](https://web.archive.org/consumer_relations/glossary/index.php#fcra). 
+In order to better serve your needs now and in the future, we may ask you to provide us with certain information. We understand that you may be concerned about what we will do with such information - particularly any personal or financial information. We agree that you have a right to know how we will utilize the personal information you provide to us. Therefore, we have adopted this Privacy Policy to govern the use and handling of your personal information.
 
-**How can I contact CoreLogic SafeRent's Consumer Relations Department?**
+back to top
 
-| 24-hour Automated Consumer Line: | 1-888-333-2413  
----|---  
-Email: | [consumerrelations@registrynet.com](mailto:consumerrelations@registrynet.com)  
-Mail: |  CoreLogic SafeRent  
-c/o: Consumer Relations Department  
-7300 Westmore Rd.  
-Suite 3  
-Rockville, MD 20850-5223  
-  
-**Where else can I find consumer information?**
+###  Applicability
 
-Federal Trade Commission - [www.ftc.gov](http://www.ftc.gov/)
+This Privacy Policy governs CoreLogic and our use of nonpublic personal information about you. This Privacy Policy does not govern publicly available information we obtain about you and certain products or platforms offered by CoreLogic may be governed by separate privacy policies.
 
-Direct Marketing Association - [www.the-dma.org](http://www.the-dma.org/)
+back to top
 
-Consumer Data Industry Association - [www.cdiaonline.org](http://www.cdiaonline.org/)
+###  Types of Information
 
-Coalition for Sensible Public Records Access - [www.cspra.org](http://www.cspra.org/)
+We collect nonpublic personal information about you from the following sources:
 
-Experian - [www.experian.com/consumer/credit_education.html](http://www.experian.com/consumer/credit_education.html)
+  * Information we receive from you on applications, forms and in other communications to us, whether in writing, in person, by telephone or any other means;
+  * Information about your transactions with us, our affiliated companies, or others; and
+  * Information we receive from a consumer reporting agency.
 
-Equifax - [https://www.econsumer.equifax.com](https://www.econsumer.equifax.com/)
 
-TransUnion - [www.transunion.com/corporate/personal/personal.page](http://www.transunion.com/corporate/personal/personal.page)
 
-California Office of Privacy Protection - [www.privacy.ca.gov](http://www.privacy.ca.gov/)
+Please note, however, that we do not collect this information about you unless you register for one of our services.
 
-CoreLogic SafeRent POLICY CHANGES TO PRIVACY VALUES AND PRACTICES
+back to top
 
-CORELOGIC SAFERENT RESERVES THE RIGHT TO CHANGE THIS PRIVACY POLICY AT ANY TIME. THEREFORE, WE ENCOURAGE YOU TO REVIEW THIS PRIVACY POLICY FROM TIME TO TIME TO REVIEW ANY CHANGES. CORELOGIC SAFERENT ADHERES TO THE FAIR CREDIT REPORTING ACT 15 U.S.C. 1681U (SECTIONS 601 TO 625 OF THE FCRA). CORELOGIC SAFERENT WILL USE AND DISCLOSE ANY PERSONALLY IDENTIFIABLE INFORMATION THAT A MEMBER OR AFFILIATE FURNISHES TO IT ABOUT CONSUMERS ONLY AS PERMITTED BY THE FCRA AND, WHERE APPLICABLE THE GRAMM-LEACH-BLILEY ACT. 15 U.S.C. � 6801 ET SEQ.THIS SITE IS REVIEWED PERIODICALLY AND IS PROMPTLY UPDATED WHEN CHANGES TO FEDERAL OR STATE LAWS IMPACT CORELOGIC SAFERENT PRIVACY VALUES AND/OR PRACTICES. PLEASE CONTACT THE VICE PRESIDENT OF LEGAL AFFAIRS SHOULD YOU HAVE ANY QUESTIONS REGARDING CORELOGIC SAFERENT'S APPROACH TO OUR PRIVACY VALUES OR PRACTICES AND/OR ANY CONTENT ON OUR CONSUMER RELATIONS WEBSITE. THE EFFECTIVE DATE OF THE PRIVACY VALUES AND PRACTICES POLICY IS: AUGUST 4, 2005. 
+###  Use of Information
+
+We request information from you for our own legitimate business purposes and not for the benefit of any nonaffiliated party. Therefore, we will not release your information to nonaffiliated parties except: (1) as necessary for us to provide the product or service you have requested of us; (2) as permitted by law; or (3) as otherwise specified herein. We may, however, store such information indefinitely, including the period after which any customer relationship has ceased. Such information may be used for any internal purpose, such as quality control efforts or customer analysis. We may also provide all of the types of nonpublic personal information listed above to one or more of our affiliated companies. Such affiliated companies include financial service providers, such as title insurers, property and casualty insurers, and trust and investment advisory companies, or companies involved in real estate services, such as appraisal companies, home warranty companies and escrow companies. It is possible that CoreLogic, its subsidiaries, affiliates, joint venture companies, or any combination of them, could merge with or be acquired by another legal entity. In such event, CoreLogic may share your information with such other entity. Furthermore, we may also provide all the information we collect, as described above, to companies that perform marketing services on our behalf, on behalf of our affiliated companies or to other financial institutions with whom we or our affiliated companies have joint marketing agreements. In some circumstances, we will request your consent to share your information with nonaffiliated third parties, such as lenders, realtors, and insurers, so that they may offer you products and services that may be of interest to you.
+
+back to top
+
+###  Former Customers
+
+Even if you are no longer our customer, our Privacy Policy will continue to apply to you.
+
+back to top
+
+###  Confidentiality and Security
+
+We will use our best efforts to ensure that no unauthorized parties have access to any of your information. We restrict access to nonpublic personal information about you to those individuals and entities who need to know that information to provide products or services to you. We will use our best efforts to train and oversee our employees and agents to ensure that your information will be handled responsibly. We currently maintain physical, electronic, and procedural safeguards that comply with federal regulations to guard your nonpublic personal information.
+
+back to top
+
+###  Information Obtained Through Our Internet Site
+
+CoreLogic is sensitive to privacy issues on the Internet. We believe it is important that you know how we treat the information that we receive about you on the Internet.
+
+In general, you can visit CoreLogic or its affiliates Internet sites without telling us who you are or revealing any information about yourself. Our Internet servers collect the domain names, not the e-mail addresses, of visitors. This information is aggregated to measure the number of visits, average time spent on the site, pages viewed and similar information. CoreLogic uses this information to measure the use of our site and to develop ideas to improve the content of our site.
+
+There are times, however, when we may need information from you, such as your name and email address. When information is needed, we will use our best efforts to let you know at the time of collection how we will use the personal information. Usually, the personal information we collect is used only by us to respond to your inquiry, process an order or allow you to access specific account/profile information. If you choose to share any personal information with us, we will only use it in accordance with the policies outlined above.
+
+back to top
+
+###  Business Relationships
+
+CoreLogic’s Internet site and those of its affiliates, may contain links to other Internet sites. While we try to link only to sites that share our high standards and respect for privacy, we are not responsible for the content or the privacy practices employed by other sites.
+
+back to top
+
+###  Cookies
+
+Some of CoreLogic’s Internet sites may make use of “cookie” technology to measure site activity and to customize information to your personal tastes. A cookie is an element of data that an Internet site can send to your browser, which may then store the cookie on your hard drive. Any information about you that we collect through a cookie is not shared with anyone. The goal of this technology is to better serve you when visiting our site, save you time when you are here and to provide you with a more meaningful and productive Internet site experience.  
+
+back to top  
+
+###  Privacy Notice: Preparation and Processing of Investigative Consumer Reports
+
+This notice is provided to California residents.  Under California law, an “investigative consumer report” is a consumer report containing information on a consumer's character, general reputation, personal characteristics, or mode of living.  CoreLogic compiles investigative consumer reports about individuals and provides them to business for background screening, tenant screening, and similar purposes.
+
+Personal Information Disclosure: United States or Overseas – In connection with its preparation and processing of investigative consumer reports CoreLogic may transfer personal information about you to our authorized service providers and affiliates outside the United States and its territories. Such transfer will be conducted in accordance with all applicable laws and regulations.
+
+To obtain additional information about the privacy practices and policies of CoreLogic in connection with its preparation and processing of investigative consumer reports, please contact:
+
+Richard Miller, Compliance and Privacy Officer
+
+40 Pacifica, Ste. 900 Irvine, ca 92618
+
+[richardmiller@corelogic.com](mailto:richardmiller@corelogic.com)
+
+714-250-6486
+
+Last Updated Dec 30, 2010
+
+back to top
+
+##  _European Union Safe Harbor Privacy Policy_
+
+CoreLogic, Inc. and its subsidiaries (“CoreLogic”) respect the privacy of our visitors and clients. It is our policy to maintain the confidentiality and privacy of any personal data voluntarily submitted to us in writing, submitted electronically via our website, or submitted to us by our clients in connection with credit and fraud risk management and other services.
+
+###  SCOPE
+
+This Safe Harbor Privacy Policy (“Policy”) applies to personal information pertaining to an identified or identifiable individual that is received by CoreLogic from the European Union or other personal information that CoreLogic acquires pursuant to its performance of services for its clients or other third parties to which CoreLogic has contractually agreed to apply this privacy policy (“EU Personal Data"). This Policy does not apply to: (a) data collected and used by CoreLogic which is not EU Personal Data; (b) the subsidiaries of CoreLogic, Inc. which do not receive or process EU Personal Data or; (c) data collected on any other subsidiary website that does not link to this Policy. 
+
+In the event of a conflict between this Policy and CoreLogic’s obligations under the Fair Credit Reporting Act, 15 U.S.C. Sec. 1681 et. seq., other statutes, regulations, or case law, or to the extent necessary to meet national security, public interest or law enforcement requirements, adherence to this Policy may be limited.
+
+back to top
+
+###  PROVISIONS OF OUR SAFE HARBOR PRIVACY POLICY
+
+CoreLogic receives certain EU Personal Data at the request of clients and other third parties for credit and fraud risk mitigation related purposes. CoreLogic has joined the U.S. Department of Commerce's "Safe Harbor" program with respect to EU Personal Data and utilizes such information in accordance with the Safe Harbor principles. The Safe Harbor principles and our Safe Harbor certification can be found at [www.export.gov/safeharbor](http://www.export.gov/safeharbor "www.export.gov/safeharbor"). Our Policy addresses each of the Safe Harbor Privacy Principles, as described below.
+
+**1\. Notice**
+
+Where CoreLogic collects EU Personal Data from individuals, CoreLogic informs individuals about the purposes for which it collects and uses EU Personal Data about them, how to contact CoreLogic with any inquiries or complaints, the types of third parties to which it discloses the information and the choices and means CoreLogic offers individuals for limiting its use and disclosure. Notice is provided in clear and conspicuous language either when individuals are first asked to provide EU Personal Data or as soon thereafter as is practicable, but in any event before CoreLogic uses such information for a purpose other than that for which it was originally collected or processed by the transferring organization or discloses it for the first time to a third party (other than agents acting under our instructions). Information about how CoreLogic collects and uses EU Personal Data also follows below.
+
+CoreLogic gathers and maintains consumer and other data which it provides to entities including lenders, credit reference agencies and fraud prevention agencies. Provided below is an illustrative list of common ways in which lenders, credit reference agencies and fraud prevention agencies use the data provided by this service:
+
+  * Authentication of consumer applicants for loans or other credit services
+  * Prevention or detection of fraud by consumer applicants for loans or other credit services
+  * Determination of credit worthiness or capacity of consumer applicants for loans or other credit services
+  * Location of absconded borrowers
+
+
+
+The scope of this notice covers consumer report data that CoreLogic has obtained on behalf of lenders and other businesses by manually or electronically contacting the appropriate sources of the data (court records, references, licensing bureaus, etc.).
+
+More information regarding the nature and scope of consumer data inquiries is available by contacting CoreLogic in writing or by e-mail at the addresses listed on the Contact Us page (please click [here](http://www.corelogic.com/About-Us/Contact-Us.aspx)) or by writing to the contact listed below.
+
+back to top
+
+**2\. Choice**
+
+CoreLogic affords individuals the opportunity to choose whether their EU Personal Data will be disclosed to a third party (not including our agents) or will be used for a purpose incompatible with the purpose for which it was originally collected or subsequently authorized by the individual. Therefore, consumer data may be disseminated under these circumstances unless the consumer explicitly “opts-out.” Where a consumer chooses to “opt-out,” the EU Personal Data is not necessarily erased or deleted. Various laws require that certain information be maintained on file for a specified period of time for consumer protection purposes.
+
+A consumer may “opt-out” by contacting CoreLogic in writing or by e-mail at the addresses listed on our Contact Us page (please click [here](http://www.corelogic.com/About-Us/Contact-Us.aspx)), or by writing to the contact listed below.
+
+With respect to sensitive information (personal information specifying medical or health conditions, racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership or information specifying the sex life of the individual), however, an individual must “opt-in” to the disclosure of the information to a third party or to the use of this information for a purpose other than its original purpose or that purpose authorized subsequently by the individual. In other words, unless a consumer chooses to provide explicit consent, a disclosure of sensitive information to a third party or for an unauthorized purpose will not be made.
+
+back to top
+
+**3\. Onward Transfer (Transfers to Third Parties)**
+
+With respect to the transfer of EU Personal Data to third parties (other than our agents), the principles of “Notice” and “Choice” apply. Accordingly, EU Personal Data is only provided to third parties for purposes described in the “Notice” section or otherwise disclosed to consumers, and will not be disseminated to a third party where a consumer has “opted-out” or, in the case of sensitive information, failed to “opt-in.”
+
+CoreLogic may disclose EU Personal Data to our clients and to third parties acting as our agents who certify that they subscribe to the Safe Harbor Principles or certify that they are subject to the EU Data Protection Directive or a law subject to an adequacy finding by the EU. CoreLogic also may disclose EU Personal Data clients and third party agents who enter into a written agreement with CoreLogic, in which the client or third party agent agrees to provide at least the same level of privacy protection as is required by the relevant Safe Harbor Principles (in instances where EU Personal Data is requested).
+
+back to top
+
+**4\. Access**
+
+A consumer may request, in writing, access to all EU Personal Data collected and maintained about him or her. CoreLogic affords the consumer a reasonable opportunity to correct, amend, or delete information that is inaccurate or incomplete, except where the burden or expense of providing access would be disproportionate to the risks to the individual’s privacy, or where the rights of persons other than the individual would be violated. In cases where the information is subject to the FCRA, CoreLogic complies with the FCRA’s requirements regarding access and correction rights of consumers.
+
+CoreLogic reserves the right to engage in reasonable efforts to confirm the identity of the individual requesting EU Personal Data to ensure the information is provided only to the subject of the data.
+
+To request information relating to his or her EU Personal Data, a consumer may contact CoreLogic in writing at the address listed below or by e-mail at the following email address: [richardmiller@corelogic.com](mailto:richardmiller@corelogic.com). In addition, the consumer will be asked to provide sufficient evidence of his or her identity so we may ensure that information is being released to the correct individual. If we are unable to provide the consumer with access to his or her EU Personal Data or to correct the data, we will notify the consumer.
+
+back to top
+
+**5\. Security**
+
+CoreLogic takes reasonable procedures to protect EU Personal Data from loss, misuse and unauthorized access, disclosure, alteration and destruction.
+
+back to top
+
+**6\. Data Integrity**
+
+CoreLogic collects EU Personal Data that is relevant for the purposes for which it is to be used, consistent with the Safe Harbor Principles. We process EU Personal Data in ways that are compatible with the purposes for which it has been collected (as identified in the Notice section above) or subsequently authorized by the individual. To the extent necessary for those purposes, CoreLogic takes reasonable steps to ensure that EU Personal Data collected is accurate, complete, current, and reliable for its intended use.
+
+back to top
+
+**7\. Enforcement**
+
+CoreLogic will verify adherence to the EU Safe Harbor Policy via in-house verification and internal policies and procedures implemented by the management of our company. CoreLogic also will cooperate with the European Union Data Protection Authorities as a means of providing consumers a readily available and affordable recourse mechanism by which individual consumer complaints and disputes, if any, can be investigated and remedied.
+
+back to top
+
+**8\. Amendments**
+
+From time to time, this Privacy Policy may be amended to reflect new products and services, or as necessary to reflect a new business practice. Consistent with the Safe Harbor requirements, we will post any revised policy on this website.
+
+back to top
+
+###  CONTACT INFORMATION
+
+To request information relating to your EU Personal Data, please contact:
+
+[Click here](mailto:richardmiller@corelogic.com) to e-mail us an inquiry.
+
+You may also send any questions regarding our Safe Harbor Privacy Policy to the following address and contact person:
+
+CoreLogic, Inc.  
+Attn: Compliance and Privacy Officer  
+40 Pacifica, Ste. 900  
+Irvine, ca 92618  
+United States of America  
+(714) 250-6486
+
+back to top
+
+**Please print or download a copy  for your records.**
+
+Last Updated March 1, 2013
