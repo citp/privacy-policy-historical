@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whitesmoke.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102043859id_/http%3A//www.whitesmoke.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whitesmoke.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517213804id_/http%3A//www.whitesmoke.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy | World-Leading Language Solutions by WhiteSmoke
 
@@ -122,7 +122,7 @@ Wilmington, DE 19089
 
 USA
 
-Telephone number: 877-268-3347
+Telephone number: 1-888-741-7193
 
 We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services, please contact us at the e-mail address, postal address, or telephone number listed above. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
@@ -154,4 +154,4 @@ USA
 
 [support@whitesmoke.com](mailto:support@whitesmoke.com)
 
-Telephone number: 877-268-3347
+Telephone number: 1-888-741-7193
