@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ktul.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116050944id_/http%3A//www.ktul.com/global/story.asp%3Fs%3D18990) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ktul.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517024620id_/http%3A//www.ktul.com/global/story.asp%3Fs%3D18990) for the most accurate reproduction.*
 
 # This Web Site’s Privacy Policy - KTUL.com - Tulsa, Oklahoma - News, Weather & Sports
 
