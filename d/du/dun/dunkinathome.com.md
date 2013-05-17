@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dunkinathome.com privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203060057id_/http%3A//www.dunkinathome.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dunkinathome.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517035006id_/http%3A//www.dunkinathome.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Dunkin' Donuts Coffee
 
