@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gunsandammo.com privacy policy that was archived on 2012-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120825054143id_/http%3A//www.imoutdoorsmedia.com/IM3/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gunsandammo.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517041203id_/http%3A//www.imoutdoorsmedia.com/IM3/privacy.php) for the most accurate reproduction.*
 
 # IMO Registration
 
