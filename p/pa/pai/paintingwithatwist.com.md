@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the paintingwithatwist.com privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115092657id_/http%3A//paintingwithatwist.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paintingwithatwist.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517023254id_/http%3A//www.paintingwithatwist.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Painting with a Twist - Painting with a Twist
+# Privacy Policy - Painting with a Twist
 
 We value your business and are committed to protecting your privacy. We want your experience here to be positive and safe.
 
