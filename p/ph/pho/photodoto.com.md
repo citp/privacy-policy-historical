@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photodoto.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227063459id_/http%3A//photodoto.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photodoto.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517023634id_/http%3A//photodoto.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Photodoto
 
@@ -87,6 +87,6 @@ Brooklyn
 New York  
 11224-3301
 
-timsoulo.seo@gmail.com
+contact@photodoto.com
 
 This document was last updated on November 13, 2012
