@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the momwitha.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116060113id_/http%3A//momwitha.com/disclosure-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the momwitha.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517031439id_/http%3A//momwitha.com/disclosure-privacy-policy) for the most accurate reproduction.*
 
 # Disclosure & Privacy Policy - mom with a dot com
 
@@ -6,7 +6,7 @@
 
 This policy is valid from 09 May 2012
 
-This blog is a personal blog written and edited by me. This blog accepts forms of cash advertising, sponsorship, paid insertions or other forms of compensation.
+This blog is a personal blog written and edited by me. This blog accepts forms of cash advertising, sponsorship, paid insertions or other forms of compensation. Items sent for review are considered payment and will not be returned. 
 
 This blog abides by word of mouth marketing standards. We believe in honesty of relationship, opinion and identity. The compensation received may influence the advertising content, topics or posts made in this blog. That content, advertising space or post will be clearly identified as paid or sponsored content.
 
