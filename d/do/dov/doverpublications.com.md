@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doverpublications.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919195509id_/http%3A//store.doverpublications.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doverpublications.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517215939id_/http%3A//store.doverpublications.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Dover Publications Privacy Policy
 
