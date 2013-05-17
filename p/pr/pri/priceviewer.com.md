@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the priceviewer.com privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114123841id_/http%3A//priceviewer.com/deal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the priceviewer.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517124734id_/http%3A//www.priceviewer.com/deal/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
