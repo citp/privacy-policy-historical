@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the lls.org privacy policy that was archived on 2012-06-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120614182255id_/http%3A//www.lls.org/footer/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lls.org privacy policy that was archived on 2013-05-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130517022517id_/http%3A//www.lls.org/footer/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     <link rel="icon" type="image/gif" href="/assets/images/icons/favicon.ico">
@@ -30,12 +30,17 @@
             <link href="/assets/css/ie/ielt7.css" rel="STYLESHEET" type="text/css" />
             <![endif]-->
 <!-- Google Analytics Tracking Code -->
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
-var _gaq = _gaq || [];
-_gaq.push(['_setAccount', 'UA-225158-16']);
-_gaq.push(['_setDomainName', 'none']);
-_gaq.push(['_setAllowLinker', true]);
-_gaq.push(['_trackPageview']);
+<script async="" src="//s.btstatic.com/tag.js">{'site':'ug0c3kp'}</script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+	var _gadomain = "lls.org"
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-225158-16']);
+	if("" != _gadomain) {
+		_gaq.push(['_setDomainName', 'lls.org']);
+	} else {
+		_gaq.push(['_setDomainName', 'none']);
+	}
+	_gaq.push(['_setAllowLinker', true]);
+	_gaq.push(['_trackPageview']);
 (function() {
   var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
   ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
@@ -419,6 +424,14 @@ handleError = function() {
     var errorModal = '<div id="errorModal">An error has occurred<br />Please return to the <a href="/" class="ajaxignore">'
             + 'Home Page</a><br />Or you can return to the previous <a onclick="javascript:errorReturnClick();return false;" '
             + 'href="#" class="ajaxignore" id="errorReturn">page</a></div>';
+    var errorModalFrench = '<div id="errorModal">Une erreur s\'est produite<br />Veuillez revenir à la <a href="/" class="ajaxignore">'
+            + 'Page D\'accueil</a><br />Ou vous pouvez retourner à la <a onclick="javascript:errorReturnClick();return false;" '
+            + 'href="#" class="ajaxignore" id="errorReturn">Page Précédente</a></div>';
+    var lang = "en_US";
+    if ((lang != 'undefined') && (lang != '') && (lang == 'fr_CA')) 
+    {    
+       errorModal = errorModalFrench;
+    }
     jQuery('#container').block({
         message: errorModal,
         centerY: false,
@@ -439,22 +452,22 @@ errorReturnClick = function(shouldAbort) {
 <div id="header">
     <div id="headerLeft">
         <a href="/">
-            <img src="/assets/images/logo_lls.png" width="238" height="57">
+            <img src="/assets/images/logo_lls_sit.png" width="435" height="89">
         </a>
     </div>
     <div id="headerRight">
         <div id="headerRightTop">
-    <div id="countrySelector">
-        			<a href="http://www.llscanada.org">Canadian Website</a>
-    </div>
-    <div id="languageSelector">
-                            <a class="languageSectionLink" href="/espanol/">
-                                Espanol
-                            </a>
-                            <a style="display:none" class="defaultLanguageSectionLink" href="/">
-                                English
-                            </a>
-    </div>
+	<div id="countrySelector">
+					<a href="http://www.llscanada.org">Canadian Website</a>
+	</div>
+	<div id="languageSelector">
+									<a class="languageSectionLink" href="/espanol/">
+										Espanol
+									</a>
+									<a style="display:none" class="defaultLanguageSectionLink" href="/">
+										English
+									</a>
+	</div>
         </div>
         <div id="headerRightMiddle">
 			<ul id="headerRightMiddleList">
@@ -557,8 +570,23 @@ errorReturnClick = function(shouldAbort) {
 </a>
                                                 </li>
                                                 <li>
-<a href="/aboutlls/boardstaff/">
-	Board and Staff
+<a href="/aboutlls/seniorstaff/">
+	Senior Staff
+</a>
+                                                </li>
+                                                <li>
+<a href="/aboutlls/boardofdirectors/">
+	Board of Directors
+</a>
+                                                </li>
+                                                <li>
+<a href="/aboutlls/medsciboard/">
+	Scientific Advisors
+</a>
+                                                </li>
+                                                <li>
+<a href="/aboutlls/clinicaladvisors/">
+	Clinical Advisors
 </a>
                                                 </li>
                                                 <li>
@@ -569,6 +597,11 @@ errorReturnClick = function(shouldAbort) {
                                                 <li>
 <a href="/aboutlls/news/">
 	News
+</a>
+                                                </li>
+                                                <li>
+<a href="http://community.lls.org/blogs/lls">
+	LLS Blog
 </a>
                                                 </li>
                                                 <li>
@@ -663,6 +696,11 @@ errorReturnClick = function(shouldAbort) {
 </a>
                                                 </li>
                                                 <li>
+<a href="/waystohelp/advocate/">
+	Be an Advocate for LLS
+</a>
+                                                </li>
+                                                <li>
 <a href="/waystohelp/plannedgift/">
 	Leave a Legacy of Hope
 </a>
@@ -689,17 +727,12 @@ errorReturnClick = function(shouldAbort) {
                                                 </li>
                                                 <li>
 <a href="/waystohelp/specialoffers/">
-	Special Offers
+	Special Offers From LLS Partners
 </a>
                                                 </li>
                                                 <li>
 <a href="/waystohelp/whygive/">
 	Why Give to LLS?
-</a>
-                                                </li>
-                                                <li>
-<a href="/waystohelp/advocate/">
-	Be an Advocate for LLS
 </a>
                                                 </li>
                                     </ul>
@@ -913,8 +946,23 @@ Footer Items (not in left nav)
 </a>
 						    		</li>
 					    	 		<li>
-<a href="/aboutlls/boardstaff/">
-	Board and Staff
+<a href="/aboutlls/seniorstaff/">
+	Senior Staff
+</a>
+						    		</li>
+					    	 		<li>
+<a href="/aboutlls/boardofdirectors/">
+	Board of Directors
+</a>
+						    		</li>
+					    	 		<li>
+<a href="/aboutlls/medsciboard/">
+	Scientific Advisors
+</a>
+						    		</li>
+					    	 		<li>
+<a href="/aboutlls/clinicaladvisors/">
+	Clinical Advisors
 </a>
 						    		</li>
 					    	 		<li>
@@ -925,6 +973,11 @@ Footer Items (not in left nav)
 					    	 		<li>
 <a href="/aboutlls/news/">
 	News
+</a>
+						    		</li>
+					    	 		<li>
+<a href="http://community.lls.org/blogs/lls">
+	LLS Blog
 </a>
 						    		</li>
 					    	 		<li>
@@ -1021,6 +1074,11 @@ Footer Items (not in left nav)
 </a>
 						    		</li>
 					    	 		<li>
+<a href="/waystohelp/advocate/">
+	Be an Advocate for LLS
+</a>
+						    		</li>
+					    	 		<li>
 <a href="/waystohelp/plannedgift/">
 	Leave a Legacy of Hope
 </a>
@@ -1047,17 +1105,12 @@ Footer Items (not in left nav)
 						    		</li>
 					    	 		<li>
 <a href="/waystohelp/specialoffers/">
-	Special Offers
+	Special Offers From LLS Partners
 </a>
 						    		</li>
 					    	 		<li>
 <a href="/waystohelp/whygive/">
 	Why Give to LLS?
-</a>
-						    		</li>
-					    	 		<li>
-<a href="/waystohelp/advocate/">
-	Be an Advocate for LLS
 </a>
 						    		</li>
 					    </ul>
@@ -1097,6 +1150,21 @@ Footer Items (not in left nav)
 </div>
             		<script src="http://resolacen.netmng.com/?aid=146&amp;tax=leu" type="text/javascript" defer="defer">
 		</script>
+		<!-- Bright Tag -->
+		<script type="text/javascript">
+		  (function () {
+		    var tagjs = document.createElement("script");
+		    var s = document.getElementsByTagName("script")[0];
+		    tagjs.text = "{'site':'ug0c3kp'}";
+		    tagjs.async = true;
+		    tagjs.src = "//s.btstatic.com/tag.js";
+		    s.parentNode.insertBefore(tagjs, s);
+		  }());
+		</script>
+		<noscript>
+		  <iframe src="//s.thebrighttag.com/iframe?c=ug0c3kp" width="1" height="1" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+		</noscript>
+		<!-- Bright Tag End -->
 	
 
 </body></html>
