@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fairwork.gov.au privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116005753id_/http%3A//www.fairwork.gov.au/pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fairwork.gov.au privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517122933id_/http%3A//www.fairwork.gov.au/pages/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy - Fair Work Ombudsman
 
@@ -56,7 +56,7 @@ When you email us or subscribe to email alerts:
 
 
 
-If you give us other personal information when you have, for example, used an online form, live chat services, online claim form registration, online claim form submission or email, we will only: 
+If you give us other personal information when you have, for example, used an online form, online claim form registration, online claim form submission or email, we will only: 
 
   * collect it by lawful and fair means 
   * use it for a lawful purpose 
