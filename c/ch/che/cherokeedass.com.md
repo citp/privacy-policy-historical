@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cherokeedass.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223005858id_/http%3A//cherokeedass.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cherokeedass.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517133012id_/http%3A//cherokeedass.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement Cherokee D Ass
 
