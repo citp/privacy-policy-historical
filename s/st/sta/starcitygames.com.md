@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the starcitygames.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116074129id_/http%3A//sales.starcitygames.com/FAQ.php%3FID%3D90) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starcitygames.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517144937id_/http%3A//sales.starcitygames.com/FAQ.php%3FID%3D90) for the most accurate reproduction.*
 
 # Where can I view StarCityGames.com's Privacy Statement?
 
-Q: [Where can I view StarCityGames.com's Privacy Statement?](http://sales.starcitygames.com//FAQ.php?ID=90)
-
-A: **Star City Comics & Games, Inc. Privacy Statement**
+**Star City Comics & Games, Inc. Privacy Statement**
 
 Updated: December 27, 2005
 
@@ -70,5 +68,4 @@ StarCityGames.com
 5728 Williamson Rd. N.W.  
 Roanoke, VA 24012  
 Phone: (540)767-GAME (4263)  
-E-mail: [Contact us through this link](https://sales.starcitygames.com/contactus/contactform.php?emailid=9)  
-[Category: Security](http://sales.starcitygames.com//FAQ.php?category=security)
+E-mail: [Contact us through this link](https://sales.starcitygames.com/contactus/contactform.php?emailid=9)
