@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tribesports.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226133319id_/http%3A//tribesports.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tribesports.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517124715id_/http%3A//tribesports.com/info/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Tribesports
+# Privacy Policy | Info | Tribesports
 
 The Tribesports website (the website) is owned and operated by Starshipsports Limited trading as ‘Tribesports’ (Tribesports) a company incorporated in England whose registered address is Unit 104, 37 Cremer Street, London, E2 8HD and whose company number is 07121275.
 
