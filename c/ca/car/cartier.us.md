@@ -1,92 +1,82 @@
-> *The following text is extracted and transformed from the cartier.us privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004034115id_/http%3A//www.cartier.us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartier.us privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517025754id_/http%3A//www.cartier.us/privacy-notice) for the most accurate reproduction.*
 
-# Privacy policy - CARTIER US online
+# Privacy Policy - Cartier. The renowned French jeweler and fine watchmaker.
 
-PRIVACY POLICY
+Cartier North America, a division of Richemont North America, Inc., ( **"Cartier" or referred to herein as "us", "our" or "we"** ), a corporation organized and existing under the laws of the State of Delaware, having its executive offices and principal place of business at 653 Fifth Avenue, New York, NY 10022-5910, U.S.A. takes the privacy of its customers seriously and has established its Privacy Notice in respect of the confidence its clientele places in it.
 
-Cartier North America, Branch of Richemont North America, ("Cartier" or referred to herein as "us", "our" or "we") a corporation organised and existing under the laws of Delaware, and having its corporate headquarters at 645 Fifth Avenue, 5th Floor, New York, NY 10022, U.S.A., takes the privacy of its customers seriously and has established its Privacy Policy in respect of the confidence its clientele places in it.
+This Privacy Notice describes the personal information we collect from our customers through the Cartier client relations center, online, over the telephone and in our boutiques.
 
-This Privacy Policy governs personal information we collect from our customers through the Cartier Client Relations Center online and over the telephone.
+**Personal Information Collection**  
+In order to place an order through the website, you will be required to register and create an online account. During this process, you will be required to provide valid and up-to-date personal information, including but not limited to your real name, date of birth, phone number and e-mail address, as well as other personal information as applicable, such as shipping address, billing address and payment details (collectively "Personal Information").
 
-**NOTE TO MINORS AND CHILDREN**
+Should you contact the client relations center by telephone, you may also be required to provide such Personal Information. Additionally, if you complete a customer card in one of our boutiques, the Personal Information you provide shall be used as described in this Privacy Notice.
 
-No part of this site is directed to children under age 13 and we will not knowingly collect personal information from any child under age 13. 
+Cartier takes the protection of your Personal Information very seriously and therefore additional information may be collected by Cartier or its third party providers for security and anti-fraud purposes (see further information below).
 
-To register or place an order through the Client Relations Center, you must have reached the age of majority (which in most states is 18 years old) and have legal capacity to enter into a contract. If you are under the age of majority or cannot lawfully enter into a contract, you must advice your parent or legal guardian to review this Privacy Policy and our [**Conditions of Sale**](https://web.archive.org/conditions-of-sale "Conditions of Sales")  before you register or place an order.
+Any Personal Information you make available to Cartier is done so voluntarily, with your knowledge and consent when ordering creations or registering for  
+services from Cartier. We will request from you information that is mandatory (required by us to fulfill your order and meet our legal obligations) and  
+non-mandatory (which you can give to us if you chose); if you choose not to provide the mandatory information requested then Cartier may not be able to  
+respond to your request or activate your option choices.
 
-Should we discover or be informed that a child has registered his/her or another child's personal details, we will delete such information from our records.
+**Cookies and related tracking technologies**  
+We use technology such as "cookies" on our website to store your user ID and password, track selections and purchases, and enhance your shopping experience. Cookies are pieces of electronic information stored on your computer. You may disable cookies through the settings in your web browser, but if you do so, some parts of our website may not function properly. We may automatically track and collect information about your IP address, domain service, the type of computer and web browser you are using and the pages you visit (including by using web beacon and other equivalent technology). We collect this information so that we can administer and improve our system. We may share this aggregate information with advertisers, sponsors or other businesses.
 
-**NOTE TO PARENTS**
+**Use of Personal Information**  
+Cartier will use your Personal Information:  
+• to process your order and complete the transaction;  
+• to send you information on our creations, promotions and events which may be of interest to you;  
+• for marketing research purposes relating to Cartier's business and satisfaction surveys;  
+• to customize, analyse and improve our products, services, technologies, communications, and relationship with you;  
+• to prevent fraud and other prohibited or illegal activities;  
+• to enforce our Conditions of Sale or Privacy Notice with you;  
+• to protect the security or integrity of our website including your Personal Information, our business, or our products or services; and  
+• to provide you with other services you may have requested (e.g. Repair Order Tracking).
 
-Cartier will not intentionally collect personally indentifiable information from children under age 18. If you, as a parent or legal guardian are concerned that your child has registered for one of our services, wish to cancel your child's registration and have all details deleted, please contact us by email: [eboutique.us@cartier.com](mailto:eboutique.us@cartier.com)  or write to us at the address below providing official documents establishing parental or guardian status.
-
-**TELEPHONE CALLS**
-
-All telephone calls to the Client Relations Center may be recorded for security reasons and retained for a period determined by Cartier.
-
-**PERSONAL INFORMATION COLLECTION AND USE**
-
-In order to place an order through the Client Relations Center online, you will be required to register and create an online account. During this process, you will be required to provide valid and up-to-date personal information, including but not limited to your real name, date of birth, phone number and e-mail address, as well as other personal information as applicable, such as shipping address, billing address and payment details (collectively "Personal Information").   
-Should you contact the Client Relations Center by telephone, you may also be required to provide such Personal Information. 
-
-Additional information may also be collected by Cartier or its third party providers for security and anti-fraud purposes.
-
-Cookies. We use technology such as "cookies" on our website to store Your user ID and password, track selections and purchases, and enhance your shopping experience. Cookies are pieces of electronic information stored on your computer. You may disable cookies through the settings in your web browser, but if you do so, some parts of our website may not function properly.
-
-We may automatically track and collect information about your IP address, domain service, the type of computer and web browser you are using and the pages you visit (including by using web beacon and other equivalent technology). We collect this information so that we can administer and improve our system. We may share this aggregate information with advertisers, sponsors or other businesses.
-
-Cartier will use your Personal Information:
-
-to process your order and complete the transaction; to send you information on Our creations, promotions and events we feel may be of interest to you; for marketing research purposes relating to Cartier's business and satisfaction surveys; to customize, analyse and improve our products, services, technologies, communications, and relationship with you; to prevent fraud and other prohibited or illegal activities; to enforce our Conditions of Sale or Privacy Policy with you; and to protect the security or integrity of our website, our business, or our products or services. Your Personal Information may also be used to provide you with other services you may have requested.
-
-Your personal financial information will not be used for any purpose except for processing your order and completing the transaction, as set forth in this Privacy Policy, and/or as requested by law.
-
-Except as stated herein, Cartier will not share your Personal Information with any unaffiliated third party without your prior consent or unless required to do by law or legal process.
+**Access to Personal Information**  
+Except where stated otherwise, Cartier will not share your Personal Information with any unaffiliated third party without your prior consent or unless required to do by law or legal process.
 
 If Cartier or substantially all of its assets are acquired as a result of an acquisition, merger, sale, reorganisation or liquidation, your Personal Information may be one of the transferred assets.
 
-Any Personal Information you make available to Cartier is done so voluntarily, with your knowledge and consent when ordering creations or registering for services from Cartier. We will request from you information that is mandatory (required by us to fulfil your order and meet our legal obligations) and non-mandatory (which you can give to us if you chose); if you choose not to provide the mandatory information requested then Cartier may not be able to respond to your request or activate your option choices.
+Personal Information collected will be stored and processed in the United States, France, and Switzerland where Cartier and its affiliates, parent, subsidiaries or agents maintain facilities.
 
-Should any of the information you provide to the Client Relations Center change, please inform the Client Relations Center or notify Cartier at the following e-mail address: [eboutique.us@cartier.com](mailto:eboutique.us@cartier.com)  **.**
+**Joint use of Personal Information**  
+The following information will be used jointly by Cartier, Paymetric, Inc. (providers of the on-line payment portal), your credit card company to  
+process payment of your order, and Accertify, Inc. who handle credit checks and fraud prevention:
 
-Personal Information collected will be stored and processed in the United States, Switzerland and France where Cartier and its affiliates, parent, subsidiaries or agents maintain facilities, and by submitting your Personal Information, you consent to any such transfer of Personal Information outside of your country.
+  1. Your name and contact details including shipping and billing addresses;
+  2. Your credit card information;
+  3. The identification of the creations you have ordered; 
+  4. The price paid for the creations you have ordered;
+  5. Information relating to your device (e.g. IP address, type of operating system)
 
-Cartier has taken all commercially reasonable measures to ensure that your Personal Information is handled in a secure and proper manner. Cartier (please refer to the Company Information above) is responsible for the management of jointly used Personal Information (described below) unless otherwise indicated.
 
-**JOINT USE OF PERSONAL DATA**
-
-The following information will be used jointly by Cartier, Paymetric, Inc., who provides the on-line payment portal, and your credit card company to process payment of your order, and Accertify, Inc. who handle credit checks and fraud prevention:
-
-1\. Your name and address;
-
-2\. Your credit card information;
-
-3\. The identification of the creations you have ordered; and
-
-4\. The price paid for the creations you have ordered.
 
 Your credit card company is responsible for their use of your Personal Information and should be contacted directly with regard to any matter regarding their use of your Personal Information.
 
-All the information defined as your Personal Information will be used jointly by Cartier and other members of the Cartier group including Cartier International SNC in France and Richemont International S.A., in Switzerland to ensure that your personal information is hosted in a secure environment. 
+**Telephone Calls**  
+All telephone calls to the Client Relations Center will be recorded for training and security reasons and retained for a period determined by Cartier.
 
-**SECURITY**
+**Security**  
+Cartier is committed to protecting the security of your Personal Information. We will employ all reasonable technical and commercial measures to ensure that your Personal Information is held and used securely.
 
-Cartier is committed to protecting the security of your Personal Information.  
-We will employ all commercially reasonable measures to ensure that details of your order and payment are held securely. In the absence of negligence on our part, we shall not be held liable for any loss you may suffer if a third party procures unauthorised access to any Personal Information you provide to us via the Website or when ordering from Cartier by telephone through the Client Relations Center. 
+**Note to minors and children**  
+No part of this site is directed to children under age 13 and we will not knowingly collect personal information from any child under age 13. To register or place an order through the Client Relations Center, you must have reached the age of majority (which in most states is 18 years old) and have legal capacity to enter into a contract. If you are under the age of majority or cannot lawfully enter into a contract, you must advise your parent or legal guardian to review this Privacy Notice and our Conditions of Sale before you register or place an order. Should we discover or be informed that a child has registered his/her or another child's Personal Information, we will delete such information from our records.
 
-**YOUR RIGHTS**
+**Note to parents and legal guardians**  
+Cartier will not intentionally collect Personal Information from persons lacking legal capacity to act. If you, as a parent or legal guardian are concerned that the person you are responsible for has registered for one of our services, wish to cancel his registration and have all details deleted, please contact us by email: [eboutique.us@cartier.com](mailto:eboutique.us@cartier.com) or write to us at the address below providing official documents establishing parental or guardian status.
 
-If you request disclosure, correction, deletion or that Cartier stop using your Personal Information, Cartier will deal with such requests in accordance with applicable laws and regulations. The deletion of your Personal Information or a request for Cartier to stop using it will result in the cancellation of your registration.
+**Your Rights**  
+If you request disclosure, correction, deletion or that Cartier stop using your Personal Information, Cartier will deal with such requests in accordance with  
+applicable laws and regulations. The deletion of your Personal Information or a request for Cartier to stop using it will result in the cancellation of your  
+registration.
 
-For any request concerning Personal Information and/or cancellation of registration to any services provided through Our Client Relations Center:
+For any request concerning Personal Information and/or cancellation of registration to any services provided through Our Client Relations Center:  
+**Telephone** : +1 800 227 8437  
+Email: [eboutique.us@cartier.com](mailto:eboutique.us@cartier.com)
 
-  
+Or write to: Cartier North America, Branch of Richemont North America C/O Data Protection, 645 Fifth Avenue, 5th Floor, New York, NY 10022.
 
+**Changes to this Privacy Notice**  
+We may change this Privacy Notice if required and the updated version will appear in this section.
 
-**Or write to:** Cartier North America, Branch of Richemont North America C/O Data Protection, 645 Fifth Avenue, 5th Floor, New York, NY 10022.
-
-**CHANGES TO THIS PRIVACY POLICY**
-
-We may change this policy at any time with or without prior notice. When we make changes to the policy, we will update the date in this section. We will not send individual notices of changes to our policy.
-
-Last revised: March 2010
+Revised: October 2012
