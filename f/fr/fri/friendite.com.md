@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the friendite.com privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114230815id_/http%3A//friendite.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the friendite.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517024641id_/http%3A//friendite.com/privacy.php) for the most accurate reproduction.*
 
-# Friendite- Is the world most porpular social utility that connects love ones with friends and others who work, study and live around them.
+# Privacy Policy|Friendite.com
 
 Friendite Is the world most popular social utility that connects love ones with friends and others who work, study and live around them. People use friendite to keep up with friends, families, business partners, events, shows, love ones, Facebook friends, twitter friends, google friends, MySpace friends and more... 
 
