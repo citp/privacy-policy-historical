@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the motosport.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118002344id_/http%3A//www.motosport.com/atv/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motosport.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517025433id_/http%3A//www.motosport.com/dirtbike/about/privacypolicy) for the most accurate reproduction.*
 
-# ATV Parts & ATV Accessories, ATV Tires, Wheels & Gear | MotoSport
+# Dirt Bike Parts & Accessories, Motocross (MX) Parts & Gear | MotoSport
 
 Last Updated: September 2010
 
@@ -8,7 +8,7 @@ We are strongly committed to protecting the privacy of your personal information
 
 Please be advised that the practices described in this Privacy Policy apply only to information gathered through this Website and, where applicable, through this Website's Customer Service Department in connection with this Website, and do not necessarily reflect our practices with respect to information gathered through other Websites that we operate or through other off-line means.
 
-**By visiting our Website, you are accepting the practices described in our Privacy Policy.   If you do not agree to the terms of this Privacy Policy, please do not use the Website.  We reserve the right to modify or amend the terms of our Privacy Policy from time to time without notice. Your continued use of our Website and our affiliate sites following the posting of changes to these terms will mean you accept those changes.**
+ **By visiting our Website, you are accepting the practices described in our Privacy Policy.   If you do not agree to the terms of this Privacy Policy, please do not use the Website.  We reserve the right to modify or amend the terms of our Privacy Policy from time to time without notice. Your continued use of our Website and our affiliate sites following the posting of changes to these terms will mean you accept those changes.**
 
 If you have any questions about this Privacy Policy or don't see your concerns addressed here, you should [send us an email](https://web.archive.org/contact).
 
@@ -26,7 +26,7 @@ Like many Websites, we use "cookies", which are files stored on your computer's 
 
 We also may collect and store information about you that we receive from other sources, to enable us to update and correct the information contained in our database and to provide product recommendations and special offers that we think will interest you and, if you have agreed to receive e-mail from us, send you reminders about shopping opportunities. 
 
-We collect e-mail addresses and, in some cases, zip codes of all users who subscribe to our weekly newsletter.  Except to our third party agents (as described below), this information is not shared with any third parties for any purposes.  Anyone who no longer wishes to receive this newsletter can, at any time, follow the "Unsubscribe" instructions located within each newsletter. 
+We collect e-mail addresses and, in some cases, zip codes of all users who subscribe to our weekly newsletter.  Except to our third party agents (as described below), this information is not shared with any third parties for any purposes.  Anyone who no longer wishes to receive this newsletter can, at any time, follow the "Unsubscribe" instructions located within each newsletter.
 
 We do not sell or ship any items ordered through this Website directly to anyone who we know to be under the age of 13, nor do we collect any personal information from anyone who we know to be under the age of 13. If you are under the age of 13, you should use this Website only with the involvement of a parent or guardian and should not submit any personal information to us.  Our Website is not intentionally targeted to children under the age of 13.  Children under the age of 13 should not use our Website.  In accordance with the Children's Online Privacy Protection Act, we do not knowingly collect personally identifiable information from anyone under 13 years of age, and any information we receive from individuals we believe to be minors will be purged from our database. 
 
@@ -46,7 +46,7 @@ We may also use or disclose Personal Information if required to do so by law or 
 
 The importance of security for all Personal Information associated with you is of utmost concern to us. We exercise great care in providing secure transmission of your information from your PC to our servers.  Personal Information collected by our websites is stored in secure operating environments that are not available to the public.  In many instances, such as in the case of credit card numbers and all on-line purchases, the Personal Information is encrypted before you conduct your transaction.  Only those employees who need access to your Personal Information in order to do their jobs are allowed access. Any employee who violates our privacy and/or security policies is subject to disciplinary action, including possible termination and civil and/or criminal prosecution. 
 
-To protect the security of your information during transmission, we use Secure Sockets Layer (SSL) software, which encrypts information you input. Most browsers will give a visual indication of when your connection is secure. For example, Internet Explorer will show a padlock icon in the lower right of the browser window.  If you place an order through this Website, you will be asked to set up an account and provide an email address and password. You must provide an appropriate email address and password in order to access account information. In order to help protect your personal information further, you should be careful about providing your password to others. If you wish to cancel your password, or if you become aware of any loss, theft or unauthorized use of your password, please contact this Website's Customer Service Department by email ([Contact us](https://web.archive.org/contact)) or by phone at 1-866-667-6288.
+To protect the security of your information during transmission, we use Secure Sockets Layer (SSL) software, which encrypts information you input. Most browsers will give a visual indication of when your connection is secure. For example, Internet Explorer will show a padlock icon in the lower right of the browser window.  If you place an order through this Website, you will be asked to set up an account and provide an email address and password. You must provide an appropriate email address and password in order to access account information. In order to help protect your personal information further, you should be careful about providing your password to others. If you wish to cancel your password, or if you become aware of any loss, theft or unauthorized use of your password, please contact this Website's Customer Service Department by email ([Contact us](https://web.archive.org/contact)) or by phone at 1-866-333-8033.
 
 While we try our best to safeguard your Personal Information once we receive it, no transmission of data over the Internet or any other public network can be guaranteed to be 100% secure. 
 
@@ -56,7 +56,7 @@ When we run a contest or sweepstakes relating to this Website, it will be accomp
 
 Please remember that any information you share in public areas, such as message boards or feedback sections, becomes public, and therefore this Privacy Policy does not apply to any information you choose to make public.  Please be careful about what you disclose and do not post any Personal Information that you expect to keep private.
 
-The Website is published in the United States and is intended for users from the United States. U. S.law shall govern in any and all disputes, including privacy or defamation issues or otherwise.
+The Website is published in the United Statesand is intended for users from the United States. U. S.law shall govern in any and all disputes, including privacy or defamation issues or otherwise.
 
 We may change MotoSport's ownership or corporate organization, or be acquired by or merged with another company while providing the Website and Services.  As a result, please be aware that we may transfer or assign your information to an affiliate or another company as a part of any merger, acquisition, sale, or other change of control or organization.  Under such circumstances, MotoSport would to the extent reasonably possible require the acquiring party to follow the practices described in this Privacy Policy as it may be amended from time to time.
 
@@ -78,6 +78,6 @@ We may use your information to notify you of important changes to the Website or
 Sales  
 Attn: Remove  
 MotoSport, Inc.  
-7655 SW Mohawk St. Tualatin, OR 97062
+7655 SW Mohawk St.Tualatin, OR 97062
 
 Opting out may prevent you from receiving email messages regarding updates, improvements, newsletters, or special offers. 
