@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jazwares.com privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109145141id_/http%3A//www.jazwares.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jazwares.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517151111id_/http%3A//www.jazwares.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | jazwares.com
 
