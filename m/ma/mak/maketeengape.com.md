@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the maketeengape.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102020341id_/http%3A//maketeengape.com/%3Fref%3D1002030%26%26page%3D_free_privacy%26itemcnt%3D%26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maketeengape.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517025156id_/http%3A//maketeengape.com/%3Fref%3D%26%26page%3D_free_privacy%26itemcnt%3D%26) for the most accurate reproduction.*
 
-# Privacy policy
-
-Privacy Policy
+# MakeTeenGape.com
 
 Replace or add your information in RED, where applicable:  
 Our Commitment To Privacy   
