@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skyscape.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116132941id_/http%3A//www.skyscape.com/index/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skyscape.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517122843id_/http%3A//www.skyscape.com/index/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -100,5 +100,5 @@ PIH websites may contain links to and from other websites, products or services.
 
 Privacy Policy Statement updated on August 25, 2010.  
   
-Copyright ©2012 Skyscape.com, Inc. Skyscape® is the registered trademark of Skyscape.com, Inc.  
+Copyright ©2013 Skyscape.com, Inc. Skyscape® is the registered trademark of Skyscape.com, Inc.  
 All other trademarks, service marks and registrations are the intellectual properties of their respective owners. 
