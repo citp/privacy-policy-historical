@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toprankblog.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021151355id_/http%3A//www.toprankmarketing.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toprankblog.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517141026id_/http%3A//www.toprankmarketing.com/privacy.php) for the most accurate reproduction.*
 
 # TopRank Online Marketing Privacy Policy
 
