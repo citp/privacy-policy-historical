@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the entertainmentearth.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223122511id_/http%3A//www.entertainmentearth.com/help/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entertainmentearth.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517184801id_/http%3A//www.entertainmentearth.com/help/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Action Figures, Toys, Bobble Heads, and Collectibles at Entertainment Earth
 
-|  [ ](http://www.entertainmentearth.com/) |  |  [ ](http://www.entertainmentearth.com/hitlist.asp?spotlight=2663&sort=22)  
+|  [ ](http://www.entertainmentearth.com/) |  |  [ ](http://www.entertainmentearth.com/comiccon.asp?utm_source=Wafer&utm_medium=promo&utm_content=SDCC13&utm_campaign=SDCC13_051513)  
 ---|---|---  
   
 |    |  |     
@@ -31,6 +31,8 @@ Product specifications, prices, ship dates and availability are subject to chang
 |     
    
   
+[](http://www.entertainmentearth.com/hitlist.asp?spotlight=2874&utm_source=Tab_728_90&utm_medium=promo&utm_content=StarTrekMovie&utm_campaign=ST_051513)
+
 **PRIVACY POLICY** Entertainment Earth, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. We have made a commitment to meet the strict requirements regarding how we treat your information. The following discloses our information gathering and dissemination practices for www.entertainmentearth.com.  
 
 
