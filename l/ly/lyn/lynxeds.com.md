@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lynxeds.com privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115150224id_/http%3A//www.lynxeds.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lynxeds.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517030944id_/http%3A//www.lynxeds.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Lynx Edicions
 
