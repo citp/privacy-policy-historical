@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tefl.com privacy policy that was archived on 2012-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121117070124id_/http%3A//www.tefl.com/home/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tefl.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517143724id_/http%3A//www.tefl.com/home/privacy.html) for the most accurate reproduction.*
 
 # Your Privacy - TEFL.com
 
@@ -111,7 +111,7 @@ All questions, comments and requests regarding this Privacy Policy should be add
 Check your daily living costs Worldwide!  
 **189 cities in 70 countries**  
   
-**Get the latest TEFL.com jobs direct to your desktop via our[RSS](http://www.tefl.com/syndicate/jobs.rdf?ce427bccdd8af07ee2b0a5a83600b8b4 "RSS 1.0")feed **  
+**Get the latest TEFL.com jobs direct to your desktop via our[RSS](http://www.tefl.com/syndicate/jobs.rdf?8b7e938627c8ea934265f4f9239fd951 "RSS 1.0")feed **  
 [What's this?](https://web.archive.org/home/rss.html)
 
 **Get all the latest jobs...  
