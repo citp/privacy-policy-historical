@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 3dtoontube.com privacy policy that was archived on 2012-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120918072848id_/http%3A//www.3dtoontube.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3dtoontube.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517203904id_/http%3A//3dtoontube.com/privacy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
