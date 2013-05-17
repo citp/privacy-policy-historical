@@ -1,70 +1,37 @@
-<!--The following is the downloaded HTML source of the cellbharat.com privacy policy that was archived on 2012-11-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121109150438id_/http%3A//cellbharat.com/tos/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cellbharat.com privacy policy that was archived on 2013-05-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130517201939id_/http%3A//cellbharat.com/tos/privacy) for the most accurate reproduction.-->
 
 <html lang="en"><head>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         <meta http-equiv="Content-Style-Type" content="text/css">
-        <meta http-equiv="Content-Script-Type" content="text/javascript">                                              
+        <meta http-equiv="Content-Script-Type" content="text/javascript">    
+		<link href="http://www.cellbharat.com/assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">  		
         <link href="http://www.cellbharat.com/css/cellbharat.css" rel="stylesheet" type="text/css">                    
-        <link href="http://www.cellbharat.com//css/autosuggest.css" rel="stylesheet" type="text/css">      
+        <link href="http://www.cellbharat.com/css/autosuggest.css" rel="stylesheet" type="text/css"> 
+		 		
         <link rel="shortcut icon" href="http://www.cellbharat.com/images/web/favicon.ico">
                     
-        <!-- <script language="javascript" src='http://code.jquery.com/jquery-1.6.min.js'></script> -->
-        <script src="http://www.cellbharat.com/js/jquery-1.2.6.js" type="text/javascript"></script>
+        <!-- <script language="javascript" src='http://code.jquery.com/jquery-1.6.min.js'></script> -->       
         <script language="javascript" src="http://www.cellbharat.com/js/header.js"></script>
         <script language="javascript" src="http://www.cellbharat.com/js/prototype.js"></script>
         <script language="javascript" src="http://www.cellbharat.com/js/scriptaculous.js"></script>   
         <script language="javascript" src="http://www.cellbharat.com/js/combo_ajax.js"></script>   
         
-        <script type="text/javascript" src="http://d1.openx.org/spcjs.php?id=35509"></script>
+        <script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
+</script>
+<script type="text/javascript">
+GS_googleAddAdSenseService("ca-pub-8189885929396187");
+GS_googleEnableAllServices();
+</script>
+<script type="text/javascript">
+GA_googleAddSlot("ca-pub-8189885929396187", "Cellbharat_Box_1");
+GA_googleAddSlot("ca-pub-8189885929396187", "Cellbharat_Box_2");
+GA_googleAddSlot("ca-pub-8189885929396187", "Cellbharat_Header_1");
+</script>
+<script type="text/javascript">
+GA_googleFetchAds();
+</script>  
         
-        <script type="text/javascript">
-            var $j = jQuery.noConflict();     
-            
-            function lookup(inputString) 
-            {
-                if(inputString.length == 0) 
-                {
-                    // Hide the suggestion box.
-                    $j('#moviesuggestions').hide();
-                } 
-                else 
-                {
-                    $j.post("http://www.cellbharat.com/home/autosearch/", {queryString: ""+inputString+""}, function(data)
-                    {
-                    if(data.length > 2) 
-                    {
-                        $j('#moviesuggestions').show();
-                        $j('#movieautoSuggestionsList').html(data);
-                    }
-                    });
-                }
-            } // lookup     
-
-            function fill(thisValue,modelAlias,makeAlias) 
-            {
-                $j('#phone').val(thisValue);
-                $j('#autoModel').val(modelAlias);
-                $j('#autoMake').val(makeAlias);
-                setTimeout("$j('#moviesuggestions').hide();", 100);              
-            } 
-            
-            function sendPricePage(base_url)
-            {                                           
-                if($j('#autoMake').val() == '') 
-                {
-                    self.location = base_url + 'mobile/price-in-india/';    
-                }
-                else if($j('#autoModel').val() == '') 
-                {
-                    self.location = base_url + 'mobile/' +  $j('#autoMake').val() + '-price-in-india/';    
-                }
-                else
-                {
-                    self.location = base_url + 'mobile/' +  $j('#autoMake').val() + '-' + $j('#autoModel').val() + '-price-in-india/';    
-                }
-            } 
-        </script>  
     </head>
 
     <body> 
@@ -73,6 +40,16 @@
     
     <div id="loading"></div>
         <div id="header">
+			<div style="float: right; font-weight: bold; width: 250px;">
+				Our Network Sites: 
+					
+				<a href="http://www.vicky.in/" target="_blank">Vicky.in</a>
+				
+				|
+				
+				<a href="http://600024.com/" target="_blank">600024.com</a>
+				
+			</div>
             <table width="100%" cellspacing="0" cellpadding="0" border="0">
                 <tbody>
                 <tr>
@@ -80,16 +57,12 @@
                 </td></tr>
                 <tr>
                     <td width="24%" height="100%" align="left"><img width="7" height="1">
-                        <center><a href="http://www.cellbharat.com/home"><img src="http://www.cellbharat.com/images/web/cellbharat.png" alt="CellBharath"></a></center>
+                        <center><a href="http://www.cellbharat.com/"><img src="http://www.cellbharat.com/images/web/cellbharat.png" alt="CellBharath"></a></center>
                     </td>
                     <td width="1%">
                     </td><td width="72%" height="100%" align="left"><img width="7" height="1">             
                          <center>
-                           <script type="text/javascript"><!--// <![CDATA[
-                                /* [id147235] Cellbharat.com - Header */
-                                OA_show(147235);
-                            // ]]> --></script><noscript><a target='_blank' href='http://d1.openx.org/ck.php?n=dd0176a'><img border='0' alt='' src='http://d1.openx.org/avw.php?zoneid=147235&amp;n=dd0176a' /></a></noscript>
-                        </center> 
+                            <script type="text/javascript">GA_googleFillSlot("Cellbharat_Header_1");</script>                        </center> 
                     </td>
                 </tr>
                 </tbody>
@@ -119,46 +92,24 @@
             </ul>
         </div>        
         
-        <div id="compare_menu" style="margin-left: 20px;margin-top: 10px;">  
-            <!-- Form starts here-->
-            <form class="mb10 search-large" id="search">
-                <fieldset>
-                  <p class="p1">Compare Prices from All Popular Online &amp; Offline Mobile Stores in India </p>
-                  <p class="p2">So many Online &amp; Physical Stores. Confused of Where to Buy @ Best Price ? .. We are here to help you</p>
-                  <div>
-                    <div class="floatl">
-                      <input type="text" maxlength="30" value="Enter a Mobile Make/Model. Eg:Samsung Galaxy S2" id="phone" name="phone" autocomplete="off" onfocus="if (this.value == 'Enter a Mobile Make/Model. Eg:Samsung Galaxy S2') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Enter a Mobile Make/Model. Eg:Samsung Galaxy S2';}" onkeyup="lookup(this.value);" onclick="fill(this.value);">
-                       <div class="suggestionsBoxHome" id="moviesuggestions" style="display: none;">          
-                        <div class="suggestionList" id="movieautoSuggestionsList" align="left"></div>
-                       </div>
-                    </div>
-                   
-                   <input type="hidden" name="autoModel" id="autoModel">
-                   <input type="hidden" name="autoMake" id="autoMake">
-                   
-                   <div class="floatl">
-                      <input id="sbutton" style="border: none;" type="button" value="" onclick="sendPricePage('http://www.cellbharat.com/')">
-                    </div>
-                    
-                   <div style="clear:both;">
-                        <div style="float: left; font-weight: bold; width: 400px;">Popular Searches: <a href="http://www.cellbharat.com/mobile/android-mobile-phones-in-india/">Android Phones</a>, <a href="http://www.cellbharat.com/mobile/3g-phones-in-india/">3G Phones</a>, <a href="http://www.cellbharat.com/mobile/basic-phones-in-india/">Low Cost Phones</a></div>
-                        <div style="left: 310px;">
-                            <script type="text/javascript"><!--
-                            google_ad_client = "ca-pub-8189885929396187";
-                            /* Cellbharat_Menu_Header_Home */
-                            google_ad_slot = "3180643760";
-                            google_ad_width = 468;
-                            google_ad_height = 15;
-                            //-->
-                            </script>
-                            <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-                            </script>
-                        </div>
-                   </div>  
-                </div></fieldset>                
-              </form>
-            <!-- Form ends here--> 
-        </div>             
+                          
+	   <div id="search_menu">
+			<div style="float: left; margin-left: 10px; font-weight: bold; width: 500px;">Popular Searches: <a href="http://www.cellbharat.com/mobile/android-mobile-phones-in-india/">Android Phones</a>, <a href="http://www.cellbharat.com/mobile/price-in-india//">Mobile Rates in India</a>, <a href="http://www.cellbharat.com/operator/airtel-prepaid/">Airtel Prepaid Plans</a></div>
+			<div style="left: 510px; font-weight: bold;">
+				 <script type="text/javascript"><!--
+                    google_ad_client = "ca-pub-8189885929396187";
+                    /* Cellbharat_Menu_Header */
+                    google_ad_slot = "5625265796";
+                    google_ad_width = 468;
+                    google_ad_height = 15;
+                    //-->
+                    </script>
+                    <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+                    </script>
+			</div>
+	   </div>  
+               
+              
     
 
 
@@ -335,11 +286,7 @@
 
 <div class="boxcontainer">
     <center>
-        <script type="text/javascript"><!--// <![CDATA[
-            /* [id236441] Cellbharat.com - Home Box 1 */
-            OA_show(236441);
-        // ]]> --></script><noscript><a target='_blank' href='http://d1.openx.org/ck.php?n=2ae3e29'><img border='0' alt='' src='http://d1.openx.org/avw.php?zoneid=236441&amp;n=2ae3e29' /></a></noscript>
-    </center>                                               
+        <script type="text/javascript">GA_googleFillSlot("Cellbharat_Box_1");</script>    </center>                                               
 </div>
 
 <div class="clear"></div>  
@@ -383,22 +330,22 @@
                                                  
                                             <td>
                         <center>
-                        <a href="http://www.cellbharat.com/mobile/htc-3232-touch-3g-in-india/">
-                        <img src="http://www.cellbharat.com/images/mobile/htc_dopod/3232_touch_3g/thumbnails/htc_dopod_3232_touch_3g_1.jpg" height="50" border="o"></a>
-                        <a href="http://www.cellbharat.com/mobile/htc-3232-touch-3g-in-india/">
-                        </a><div class="side_title"><a href="http://www.cellbharat.com/mobile/htc-3232-touch-3g-in-india/">
-                        </a><a href="http://www.cellbharat.com/mobile/htc-3232-touch-3g-in-india/">HTC<br>3232 Touch 3G</a>
+                        <a href="http://www.cellbharat.com/mobile/htc-wildfire-a3333-in-india/">
+                        <img src="http://www.cellbharat.com/images/mobile/htc_dopod/wildfire-a3333/thumbnails/htc_wildfire-a3333_1.jpg" height="50" border="o"></a>
+                        <a href="http://www.cellbharat.com/mobile/htc-wildfire-a3333-in-india/">
+                        </a><div class="side_title"><a href="http://www.cellbharat.com/mobile/htc-wildfire-a3333-in-india/">
+                        </a><a href="http://www.cellbharat.com/mobile/htc-wildfire-a3333-in-india/">HTC<br>Wildfire A3333</a>
                         </div>
                         </center>
                         </td>
                                                  
                                             <td>
                         <center>
-                        <a href="http://www.cellbharat.com/mobile/htc-wildfire-a3333-in-india/">
-                        <img src="http://www.cellbharat.com/images/mobile/htc_dopod/wildfire-a3333/thumbnails/htc_wildfire-a3333_1.jpg" height="50" border="o"></a>
-                        <a href="http://www.cellbharat.com/mobile/htc-wildfire-a3333-in-india/">
-                        </a><div class="side_title"><a href="http://www.cellbharat.com/mobile/htc-wildfire-a3333-in-india/">
-                        </a><a href="http://www.cellbharat.com/mobile/htc-wildfire-a3333-in-india/">HTC<br>Wildfire A3333</a>
+                        <a href="http://www.cellbharat.com/mobile/htc-3232-touch-3g-in-india/">
+                        <img src="http://www.cellbharat.com/images/mobile/htc_dopod/3232_touch_3g/thumbnails/htc_dopod_3232_touch_3g_1.jpg" height="50" border="o"></a>
+                        <a href="http://www.cellbharat.com/mobile/htc-3232-touch-3g-in-india/">
+                        </a><div class="side_title"><a href="http://www.cellbharat.com/mobile/htc-3232-touch-3g-in-india/">
+                        </a><a href="http://www.cellbharat.com/mobile/htc-3232-touch-3g-in-india/">HTC<br>3232 Touch 3G</a>
                         </div>
                         </center>
                         </td>
@@ -422,11 +369,7 @@
 
 <div class="boxcontainer">
     <center>
-        &lt;<script type="text/javascript"><!--// <![CDATA[
-            /* [id236441] Cellbharat.com - Home Box 1 */
-            OA_show(236441);
-        // ]]> --></script><noscript><a target='_blank' href='http://d1.openx.org/ck.php?n=2ae3e29'><img border='0' alt='' src='http://d1.openx.org/avw.php?zoneid=236441&amp;n=2ae3e29' /></a></noscript>
-    </center>                                               
+        <script type="text/javascript">GA_googleFillSlot("Cellbharat_Box_2");</script>    </center>                                               
 </div>   
 
 <div class="clear"></div>
@@ -595,6 +538,14 @@
     </div>
 
     <div>
+		<!-- Javascript tag  -->
+		<!-- begin ZEDO for channel:  600024.com , publisher: 600024.com , Ad Dimension: Intromercial - 1 x 1 -->
+		<script language="JavaScript">
+		var zflag_nid="1364"; var zflag_cid="164"; var zflag_sid="128"; var zflag_width="1"; var zflag_height="1"; var zflag_sz="18"; 
+		</script>
+		<script language="JavaScript" src="http://d8.zedo.com/jsc/d8/fo.js"></script>
+		<!-- end ZEDO for channel:  600024.com , publisher: 600024.com , Ad Dimension: Intromercial - 1 x 1 -->
+		
         <!-- Start of StatCounter Code -->
         <script type="text/javascript">
         var sc_project=4360343; 
