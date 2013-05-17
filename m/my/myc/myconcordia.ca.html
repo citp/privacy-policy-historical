@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the myconcordia.ca privacy policy that was archived on 2012-11-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121114223456id_/http%3A//www.concordia.ca/web/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the myconcordia.ca privacy policy that was archived on 2013-05-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130517023356id_/http%3A//www.concordia.ca/web/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-CA" class="no-js"><head>
 <meta charset="utf-8">
@@ -44,16 +44,24 @@ var k_push_vars = {
 	"site_code": 2068535
 }
 </script>
-<!--End Kampyle Exit-Popup Code--><script>
-var _gaq = [['_setAccount', 'UA-2729211-1'], ['_trackPageview']];
-(function(d, t) {
-	var g = d.createElement(t),
-	s = d.getElementsByTagName(t)[0];
-	g.async = true;
-	g.src = ('https:' == location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-	s.parentNode.insertBefore(g, s);
-})(document, 'script');
-</script>
+<!--End Kampyle Exit-Popup Code-->	<script type="text/javascript">
+		var _gaq = [['_setAccount', 'UA-2729211-1'], ['_trackPageview']];
+		(function(d, t) {
+			var g = d.createElement(t),
+			s = d.getElementsByTagName(t)[0];
+			g.async = true;
+			g.src = ('https:' == location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			s.parentNode.insertBefore(g, s);
+		})(document, 'script');
+		
+		function recordOutboundLink(link, category, action) {
+			try {
+				var myTracker=_gat._getTrackerByName();
+				_gaq.push(['myTracker._trackEvent', category , action ]);
+				setTimeout('window.open("' + link.href + '", "_blank")', 100);
+			} catch(err){}
+		}
+	</script>
 </head>
 <body id="body_resources" class="alts">
 <a id="top"></a>
@@ -69,6 +77,7 @@ var _gaq = [['_setAccount', 'UA-2729211-1'], ['_trackPageview']];
 	<div id="globaltools_wrapper" class="clearfix">
 		<div id="globaltools" class="container_span_24 clearfix">
 	<ul>
+		<li class="static new"><a href="http://preview.concordia.ca" title="Preview new homepage">Preview new homepage</a></li>
 		<li class="front_static"><a href="https://www.myconcordia.ca" title="Sign in to MyConcordia">MyConcordia</a></li>
 
 		<li class="drop first_drop"><a href="#" class="category" title="Faculties &amp; Schools">Faculties &amp; Schools</a>
@@ -193,7 +202,7 @@ var _gaq = [['_setAccount', 'UA-2729211-1'], ['_trackPageview']];
 					<li><a href="/programs-and-courses/undergraduate-programs/a-z-subject-list/" title="A-Z programs &amp; courses">A-Z undergraduate programs</a></li>
 					<li><a href="/programs-and-courses/graduate-programs/a-z-subject-list/">A-Z graduate programs</a></li>
 					<li><a href="http://graduatestudies.concordia.ca/gradproskills/">Graduate &amp; professional skills</a></li>
-					<li><a href="/extended-learning/cont-ed/">Centre for Continuing Education</a></li>
+					<li><a href="http://cce.concordia.ca/">Centre for Continuing Education</a></li>
 				</ul>
 			</div>
 
@@ -221,7 +230,7 @@ var _gaq = [['_setAccount', 'UA-2729211-1'], ['_trackPageview']];
 					<li><a href="/admissions/tuition-and-fees/">Tuition and fees</a></li>
 					<li><a href="/campus-life/tour-our-campuses/">Campus visits</a></li>
 					<li><a href="/admissions/housing/">Housing</a></li>
-					<li><a href="/extended-learning/cont-ed/">Centre for Continuing Education</a></li>
+					<li><a href="http://cce.concordia.ca/">Centre for Continuing Education</a></li>
 				</ul>
 			</div>
 
@@ -245,7 +254,7 @@ var _gaq = [['_setAccount', 'UA-2729211-1'], ['_trackPageview']];
 			<div class="col_1 quick_links">
 				<h3>Quick links</h3>
 				<ul>
-					<li><a href="/research/research-units/">Centres and institutes</a></li>
+					<li><a href="/research/research-units/">Research units</a></li>
 					<li><a href="http://oor.concordia.ca/formsandreferencedocuments/policies/">Research-related policies</a></li>
 					<li><a href="http://www.concordia.ca/explore/">research@concordia</a></li>
 				</ul>
@@ -373,14 +382,17 @@ var _gaq = [['_setAccount', 'UA-2729211-1'], ['_trackPageview']];
 		<a class="addthis_button_print"></a>
 		<a class="addthis_button_email"></a>
 		<a class="addthis_button_linkedin"></a>
-		<a class="addthis_button_pinterest_share" title="Send to Pinterest"></a>
+		<!-- <a class="addthis_button_pinterest_share" title="Send to Pinterest"></a> -->
+		<a class="addthis_button_google_plusone_share" data-size="small"></a>
 		<a class="addthis_button_twitter"></a>
 		<a class="addthis_button_facebook"></a>
 		<a class="addthis_button_compact"></a>
 		
 			</div>
 
-	<script type="text/javascript">var addthis_config = {"data_track_clickback":true,ui_508_compliant: true,ui_click:true};</script>
+	<script type="text/javascript">
+		var addthis_config = {"data_track_clickback":true,ui_508_compliant: true,ui_click:true};
+	</script>
 </div><div class="clear"></div>				</div>
 			</div>
 		</div>
