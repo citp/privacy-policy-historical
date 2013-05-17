@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobiloans.com privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205080013id_/http%3A//www.mobiloans.com/Home/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobiloans.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517083223id_/http%3A//www.mobiloans.com/Home/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
