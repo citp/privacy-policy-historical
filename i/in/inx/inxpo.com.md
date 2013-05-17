@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the inxpo.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004134001id_/http%3A//www.inxpo.com/privacy/INXPO_Website_Privacy_Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inxpo.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517191656id_/http%3A//www.inxpo.com/privacy/InXpo_Privacy_Policy.pdf) for the most accurate reproduction.*
 
 # INXPO Privacy Policy
 
                                     INXPO Privacy Policy
 This Privacy Policy (“Policy”) describes how INXPO, Inc. (either “INXPO,” “we,” or
-“us”) treats personal information when you, the user, access the INXPO website
-(“INXPO Website” or “Website”). This Privacy Policy only applies to information
-collected by INXPO, and does not apply to any information collected by any third party.
-By visiting the INXPO Website you agree to the terms of this Privacy Policy, as they
-may be amended from time to time.
+“us”) treats personal information when you, the user, access the INXPO platform, mobile
+application or website (“INXPO Website” or “Website”). This Privacy Policy only
+applies to information collected by INXPO, and does not apply to any information
+collected by any third party. By visiting the INXPO Website you agree to the terms of
+this Privacy Policy, as they may be amended from time to time.
 The United States Department of Commerce and the European Commission have agreed
 on a set of data protection principles (the "Safe Harbor Principles") to enable U.S.
 Companies to satisfy the requirement under European Union law that adequate protection
@@ -186,7 +186,13 @@ F. Security & Data Integrity.
 INXPO takes reasonable steps to prevent the loss, misuse and unauthorized access,
 disclosure, alteration and destruction of your information. In addition, INXPO takes
 appropriate security measures to safeguard your information once we have received it.
-G. Enforcement and Dispute Resolution.
+G. Your California Privacy Rights
+California Civil Code Section 1798.83 permits users that are residents of California to
+request certain information regarding INXPO's disclosures of personally identifiable
+information to third parties for such third parties’ direct marketing purposes. If you are a
+California resident and would like to make such a request, please email INXPO
+at privacy@INXPO.com.
+H. Enforcement and Dispute Resolution.
 The Legal Department will be the internal mechanism for ensuring compliance with the
 U.S. Department of Commerce’s Safe Harbor Principles. INXPO utilizes the self-
 assessment approach to assure its compliance. INXPO periodically verifies that this
@@ -199,6 +205,9 @@ certification process with the U.S. Department of Commerce.
 raised INXPO’s Legal Department will investigate such claims and try to resolve any
 dispute. You will receive a communication within two (2) business days from the date
 you sent INXPO email notification, or seven (7) business days from the date of mailed
+2224080.1
+
+
 notification, from an INXPO representative acknowledging receipt of your complaint.
 INXPO will then conduct an investigation into your issue. You may receive additional
 communications during the investigation process for further clarification. After the
@@ -206,18 +215,15 @@ investigation, the representative will contact you with a proposed resolution to
 concern. If you agree with the proposed resolution, then you and the INXPO
 representative will work together to close the matter. If you do not agree, then the matter
 will be escalated to an officer of INXPO for resolution.
-2224080.1
-
-
 All Complaints should be addressed to:
-          By Mail:            Attn: Legal Department
-                              770 N Halsted St., Ste 6S
-                              Chicago, IL 60642
-          By Email:           privacy@INXPO.com
+          By Mail:              Attn: Legal Department
+                                770 N Halsted St., Ste 6S
+                                Chicago, IL 60642
+          By Email:             privacy@INXPO.com
 Please include the following information: name, address (with postal code), country,
 phone number, fax, E-mail address, description of privacy complaint, Type of
 information involved, dates of occurrence(s), names of those involved, desired resolution
-H. Independent Dispute Resolution Process.
+I. Independent Dispute Resolution Process.
 For complaints which cannot be satisfactorily resolved through INXPO’s internal dispute
 resolution process, INXPO agrees to use the American Arbitration Association. You may
 contact the International Centre for Dispute Resolution of the American Arbitration
