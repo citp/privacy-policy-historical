@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lebara-mobile.co.uk privacy policy that was archived on 2012-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121211154354id_/http%3A//www.lebara.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lebara-mobile.co.uk privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517202012id_/http%3A//www.lebara.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Lebara Mobile - International mobile phone calls & SIM cards
 
@@ -130,32 +130,6 @@ The information you provide to us may be passed to third parties located outside
 9.5 Marketing Information from Third Parties  
 If you choose to receive marketing information from other companies, we will only disclose your personal information to these companies where they have undertaken not to use your personal information for any purpose other than to provide information to you or other uses to which you have agreed. If you decide that you no longer want to receive information from a particular company, you should contact that company directly. You should be aware that if you subsequently give any personal information to another company, the uses to which that information may be put will be determined by that company's privacy policy. 
 
-**10\. Cookies**  
-10.1        Cookies are text files containing small amounts of information which are downloaded to your device when you visit a website. Cookies are then sent back to the originating website on each subsequent visit, or to another website that recognises that cookie. Cookies are useful because they allow a website to recognise a user’s device. You can find more information about cookies at:   
-[www.allaboutcookies.org](http://www.allaboutcookies.org/) and [www.youronlinechoices.eu](http://www.youronlinechoices.eu/)   
-For a video about cookies visit [www.google.co.uk/goodtoknow/data-on-the-web/cookies](http://www.google.co.uk/goodtoknow/data-on-the-web/cookies)  
-Cookies do lots of different jobs, like letting you navigate between pages efficiently, remembering your preferences, and generally improve the user experience. They can also help to ensure that adverts you see online are more relevant to you and your interests.  
-The cookies used on this website have been categorised based on the categories found in the ICC UK Cookie guide. A list of all the cookies used on this website by category is set out below:
-
- **10.2         Strictly necessary cookies**  
-These cookies are essential in order to enable you to move around the website and use its features, such as accessing secure areas of the website. Without these cookies services you have asked for, like shopping baskets or e-billing, cannot be provided.
-
- **10.3         Performance cookies**  
-These cookies collect information about how visitors use a website, for instance which pages visitors go to most often, and if they get error messages from web pages.   
-These cookies don’t collect information that identifies a visitor. All information these cookies collect is aggregated and therefore anonymous. It is only used to improve how a website works
-
- **10.4         Functionality cookies**  
-These cookies allow the website to remember choices you make (such as your user name, login-id, language or the region you are in) and provide enhanced, more personal features. For instance, a website may be able to provide you with local weather reports or traffic news by storing in a cookie the region in which you are currently located.   
-These cookies can also be used to remember changes you have made to text size, fonts and other parts of web pages that you can customise. They may also be used to provide services you have asked for such as watching a video or commenting on a blog. The information these cookies collect may be anonymised and they cannot track your browsing activity on other websites.
-
- **10.5         Targeting cookies or advertising cookies**  
-These cookies are used to deliver adverts more relevant to you and your interests They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaign. They are usually placed by advertising networks with the website operator’s permission. They remember that you have visited a website and this information is shared with other organisations such as advertisers. Quite often targeting or advertising cookies will be linked to site functionality provided by the other organisation.
-
- **11.   Disabling Cookies**   
-11.1        If you do not wish to accept our cookies you can decline cookies by using your web Browser. The facilities within your web Browser to allow you to do this will vary from Browser to Browser but they may be found in the "Privacy" or "Cookies" section of the “Help” or "Properties" menu of your Browser. If you require assistance in disabling cookies you should refer to the "help" menu within your Browser. Please note however, that you may not be able to use all of the interactive features of our Website if cookies are disabled. For example, if you block or otherwise reject cookies you will not be able to add items to your shopping basket, proceed to checkout, or use any of our products and services that require you to log in.
-
-11.2        If you leave cookies turned on, remember to sign off when you finish using a shared computer.
-
- **12 Marketing Information from Third Parties**  
-12.1 If you choose to receive marketing information from other companies, we will only disclose your personal information to these companies where they have undertaken not to use your personal information for any purpose other than to provide information to you or other uses to which you have agreed. If you decide that you no longer want to receive information from a particular company, you should contact that company directly.   
-12.2 You should be aware that if you subsequently give any personal information to another company, the uses to which that information may be put will be determined by that company's privacy policy.
+**10 Marketing Information from Third Parties**  
+10.1 If you choose to receive marketing information from other companies, we will only disclose your personal information to these companies where they have undertaken not to use your personal information for any purpose other than to provide information to you or other uses to which you have agreed. If you decide that you no longer want to receive information from a particular company, you should contact that company directly.   
+10.2 You should be aware that if you subsequently give any personal information to another company, the uses to which that information may be put will be determined by that company's privacy policy.
