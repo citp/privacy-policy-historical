@@ -1,43 +1,31 @@
-> *The following text is extracted and transformed from the theblacksphere.net privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120163402id_/http%3A//theblacksphere.net/wp-content/themes/tbs2010/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theblacksphere.net privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517131514id_/http%3A//theblacksphere.net/privacy-policy) for the most accurate reproduction.*
 
-# 
+# Our Privacy Policy - The Black Sphere :: The Black Sphere
 
-Close
+At TheBlackSphere.net, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by TheBlackSphere.net and how it is used.
 
-### PRIVACY POLICY
+**Log Files**
 
-_Contact The Black Sphere for a printable version_
+Like many other Web sites, TheBlackSphere.net makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-The Black Sphere has created this Policy in order to clearly communicate our commitment to your privacy. This Policy is applicable to this website and any other website or online communications facilities owned or operated by The Black Sphere. The Black Sphere reserves the right to change this Policy at any time. Using our web site demonstrates your consent to The Black Sphere's collection and use of information pursuant to this Policy, and continued use of this site following the posting of changes to this Policy will signify your acceptance of such changes. This Policy governs the use of your name, e-mail address, payment information, and similar personal information that you may provide The Black Sphere in the course of using our website, products or services.
+**Cookies and Web Beacons**
 
-**The Black Sphere Collects Personal Information**. We collect personal information in order to provide certain products and services to our customers. For example, if you:
+TheBlackSphere.net may use cookies.
 
-  * Place a product order, The Black Sphere will collect and use your name, address, phone number, e-mail address, and credit card information; 
-  * Request promotional items, The Black Sphere will collect and use your name and address, or e-mail address;
-  * Post information on any of our interactive areas, The Black Sphere will collect information from you in order to e-mail you major updates about The Black Sphere, the products and services;
-  * Sign-up for The Black Sphere mailing list, The Black Sphere will collect information from you in order to facilitate the publishing of that mailing list; and
-  * Send our link to friends through our website, The Black Sphere will collect the information from you in order to facilitate the transmission of the e-mail.
+  * Google, as a third party vendor, uses cookies to serve ads on TheBlackSphere.net
+  * Google’s use of the [DART cookie](http://www.google.com/doubleclick/ "DART cookie FAQ") enables it to serve ads to users based on their visit to TheBlackSphere.net and other sites on the Internet.
+  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL: <http://www.google.com/policies/privacy/ads/>
 
 
 
-Information that you submit about yourself may be used by The Black Sphere to provide you requested services, communicate with you about The Black Sphere products, improve your online experience, or support our continuing efforts to offer you the information and services you want most. Currently, we do not share your specific information with non-affiliated companies or organizations outside of The Black Sphere without your permission. We reserve the right to do so in the future, however. The Black Sphere does provide aggregate statistics and information about our sales, traffic patterns and related site information to third parties. We also reserve the right to share aggregate statistical data of which your personal information is a part, as well as your specific personal information sometime in the future. You are responsible for checking this Policy periodically to monitor any changes to our data sharing practices.
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google AdSense.
 
-In addition, The Black Sphere may, and you hereby authorize us to, disclose your personal information when required to do so by law, when The Black Sphere, in its sole discretion believes that you are in violation of our Terms of Service Agreement, or when you violate any state or federal laws, or The Black Sphere in its sole discretion deems it necessary or appropriate to protect the personal safety of other users of The Black Sphere services or to protect the rights or property of The Black Sphere.
+These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on TheBlackSphere.net. They automatically receive your IP address when this happens. They may also use other technologies (such as placing and reading on your browser cookies, JavaScript, or Web Beacons) to measure the effectiveness of their advertisements, to personalize the advertising content you see, and to collect data in the ad serving process.
 
-**The Black Sphere's E-mail Announcements and Newsletters**. The Black Sphere uses e-mail to send announcements regarding new products, services, and/or promotions, and informational newsletters. Announcements via email are on an opt-in basis only. By posting material on any of our interactive areas, you are opting in to receiving these e-mail announcements. You can choose to unsubscribe to The Black Sphere e-mail at any time by sending an email to unsubscribe@LauraIngraham.com. The Black Sphere will also send replies to customer e-mail via e-mail. Finally, if you have sent a request to The Black Sphere about which we need to communicate with you, we may do so by e-mail. 
+TheBlackSphere.net has no access to or control over these cookies that are used by third-party advertisers.
 
-**Security is a Top Concern**. Although The Black Sphere carefully selects its third party service providers, advertisers and other affiliates, is sensitive to the privacy and security of your personal information, and intends to safeguard such information, The Black Sphere and any such third parties cannot guarantee absolute security for such information. Such information may be transmitted through or using the Internet, other public telecommunications networks, servers, hardware and software ("systems") that are not owned, operated, or controlled by The Black Sphere, and The Black Sphere makes no assurances that such information will remain private when transmitted by The Black Sphere through such systems. Although we use industry standard practices to protect your privacy, we do not promise, and you should not expect, that your personally identifiable information or private communications are impenetrable to hackers. 
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. TheBlackSphere.net’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or websites.
 
-**The Black Sphere Uses Cookies**. The Black Sphere collects certain information about how website visitors and users use the The Black Sphere website by using technology called "cookies", which are bits of information that a website transfers to an individual's hard drive for record keeping purposes. Cookies can enhance your online experience by automatically saving your preferences. We use cookies because they help us to provide you a better online experience. The information we collect through the use of cookies does allow The Black Sphere to know when and for how long you logged on to the The Black Sphere website, so that we can try to understand how to better serve your needs. If you object to the use of cookies for any reason, you may set your Internet browser to notify you when you receive a cookie, giving you the opportunity to decide whether to accept it. If, however, you decline to receive cookies, you may have difficulty in using certain features of this site. 
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
-The Black Sphere's Interactive Areas. The Black Sphere is not Liable for Information Posted in Interactive Areas. The Black Sphere provides interactive areas such as discussion forums to enhance the user experience and build a healthy community around our website's products and services. You acknowledge that should you participate in such interactive areas, the information you voluntarily post about yourself and third parties in such areas might be accessed, collected and used by third parties outside of The Black Sphere. DO NOT POST ANY PERSONALLY IDENTIFIABLE INFORMATION SUCH AS YOUR EMAIL ADDRESS IN OUR PUBLIC AREAS. In addition, you may not post any defamatory, obscene, slanderous, or otherwise illegal material, or any material which infringes any third-party copyrights or other intellectual property rights on any interactive areas. Violators will be subject to termination of accounts and possible legal action. Although The Black Sphere employs advanced security technology, it cannot guarantee complete security in personal websites or password-protected areas, and The Black Sphere will not be held liable for any user's or other visitor's disclosure of personal information on The Black Sphere or any other website operated by The Black Sphere. 
-
-**Minors**. The Black Sphere and its services are not directed to minors. We actively seek to dissuade registration from persons under 18 and do not knowingly collect personally identifiable information from them. If you are under 18 years of age, you should not be using our service.
-
-**Disputes**. The Black Sphere Privacy Policy disputes are handled by its customer service team with the highest concern for your privacy.
-
-**The Black Sphere Links**. The Black Sphere may contain links to websites not owned or controlled by The Black Sphere. The Black Sphere is not responsible for the privacy policies or practices of any such sites. For other Terms of Service applicable to this site, please review the Terms of Service Agreement.
-
-**A Special Note about Children**. Children are not eligible to use our services and The Black Sphere asks that minors (under the age of 18) do not submit any personal information to The Black Sphere. If you are a minor, you can use this service only in conjunction with your parents or guardians.
-
-The Site is owned and operated by The Black Sphere Productions. For further information about The Black Sphere or the Site, please visit the "Contact Us" section of the Site. You may have this same information sent to you by e-mail by sending a letter to webmaster@theblacksphere.net with your e-mail address and a request for this information. 
+If you require any more information or have any questions about our privacy policy, please feel free to [contact us](https://web.archive.org/contact-us/).
