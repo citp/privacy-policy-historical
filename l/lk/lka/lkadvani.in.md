@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lkadvani.in privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118060519id_/http%3A//www.lkadvani.in/eng/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D50%26Itemid%3D70) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lkadvani.in privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517103459id_/http%3A//www.lkadvani.in/eng/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D50%26Itemid%3D70) for the most accurate reproduction.*
 
 # LK Advani - Portal - Privacy Policy
 
