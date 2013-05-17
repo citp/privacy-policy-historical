@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the performbetter.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116074747id_/http%3A//www.performbetter.com/webapp/wcs/stores/servlet/PBOnePieceView%3FstoreId%3D10151%26catalogId%3D10751%26languageId%3D-1%26pagename%3D41) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the performbetter.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517021039id_/http%3A//www.performbetter.com/webapp/wcs/stores/servlet/PBOnePieceView%3FstoreId%3D10151%26catalogId%3D10751%26languageId%3D-1%26pagename%3D41) for the most accurate reproduction.*
 
 # Perform Better Privacy Statement
 
