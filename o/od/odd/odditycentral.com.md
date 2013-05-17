@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the odditycentral.com privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114102949id_/http%3A//www.odditycentral.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the odditycentral.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517140244id_/http%3A//www.odditycentral.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Oddity Central - Collecting Oddities
+
+## [Privacy policy](http://www.odditycentral.com/privacy-policy "Permanent Link to Privacy policy")
 
 The following discloses the information gathering and dissemination practices for www.OddityCentral.com:
 
