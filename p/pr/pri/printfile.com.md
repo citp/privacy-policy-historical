@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the printfile.com privacy policy that was archived on 2012-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121027175442id_/http%3A//www.printfile.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the printfile.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517221843id_/http%3A//www.printfile.com/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Archival photo storage supplies and products, archival boxes, acid free albums - Privacy Policy
+# Print File-Archival photo storage supplies and products - Privacy Policy
 
 ---  
-|  | 
-
+|  | [   
+](https://web.archive.org/web/20130517221843id_/http%3A//www.printfile.com/index.asp?PageAction=VIEWCATS&Category=183)  
+---  
+[   
+](https://web.archive.org/web/20130517221843id_/http%3A//www.printfile.com/index.asp?PageAction=Custom&ID=2)  
+  
 [Home](https://web.archive.org/) > Privacy Policy
 
 | | |   
@@ -49,7 +53,7 @@ Back to top
 |   
 ---  
   
-[ ](https://www.scanalert.com/RatingVerify?ref=www.printfile.com)  
+[](https://www.mcafeesecure.com/RatingVerify?ref=www.printfile.com)  
 ---  
   
 
