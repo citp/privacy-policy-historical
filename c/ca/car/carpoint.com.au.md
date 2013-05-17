@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the carpoint.com.au privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215144418id_/http%3A//www.carpoint.com.au/carpoint-info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carpoint.com.au privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517145116id_/http%3A//www.carpoint.com.au/carpoint-info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - carpoint.com.au
 
-  
 **About this Policy**  
 This policy sets out how carsales.com Limited (carsales) collects, uses and discloses your personal information.
 
@@ -21,7 +20,6 @@ carsales collects personal information that it considers necessary for it, or it
 Personal information collected by carsales may include:
 
   * your name, address and contact details
-
 
 
   * bank account and credit account details
@@ -88,8 +86,7 @@ You generally have a right to access your personal Information. If you wish to a
 **What if you don't provide personal information?**  
 If you choose not to provide personal information when requested, carsales may not be able to provide you with the full range of carsales services.
 
-**carsales Network, Linked Sites and personal information**  
-
+**carsales Network, Linked Sites and personal information**
 
 When you visit a website or use an application on the carsales Network, carsales records anonymous information such as IP address, time, date, referring url, pages accessed and documents downloaded, type of browser and operating system.  
 Carsales also uses “cookies”. A cookie is a small file that stays on your computer until, depending on whether it is a sessional or persistent cookie, you turn your computer off or it expires (typically between 30and 90 days). Cookies may be used by carsales or by service providers engaged by carsales to provide you with the full range of services it offers, remember your preferences, remember the sites you visit on the carsales Network, measure and analyse usage of the carsales Network and for security. Persistent cookies may be used to identify the sites you visit on the carsales Network and to personalise the advertising that you see when you make future visits to that site or other sites. You may adjust your Internet browser to disable cookies **.** If cookies are disabled carsales may not be able to provide you with the full range of carsales services. 
@@ -111,7 +108,6 @@ Postal Address: | Locked Bag 9001, Richmond VIC 3121
 Phone: | +61 (03) 9093 8600 (Business Hours EST)  
 Contact: | Nicole Birman  
 Email: | [Click here](http://helpcentre.carsales.com.au/help/contact-us/) to contact us by email  
-  
   
 **How this policy changes**  
 This policy may change over time. All changes will be published on this website.
