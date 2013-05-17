@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videobrewery.com privacy policy that was archived on 2012-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121117010354id_/http%3A//www.videobrewery.com/public/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videobrewery.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517191942id_/http%3A//www.videobrewery.com/public/legal) for the most accurate reproduction.*
 
 # Legal | Video Brewery
 
