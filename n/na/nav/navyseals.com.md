@@ -1,61 +1,34 @@
-> *The following text is extracted and transformed from the navyseals.com privacy policy that was archived on 2007-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070519013346id_/http%3A//www.navyseals.com/community/aboutus/privacypolicy_main.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the navyseals.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517191652id_/http%3A//navyseals.com/privacy-policy) for the most accurate reproduction.*
 
-# Navy SEALs.com - Privacy Policy Main
+# Privacy Policy | Navy SEALs
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
+It is SOFREP’s policy to respect your privacy regarding any information we may collect while operating our websites.
 
-The Information We Collect:
+Website Visitors  
+Like most website operators, SOFREP collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. SOFREP’s purpose in collecting non-personally identifying information is to better understand how SOFREP’s visitors use its website. From time to time, SOFREP may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
 
-This notice applies to all information collected or submitted on the Navy SEALs.com website. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are: 
+SOFREP also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on our blogs. SOFREP only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that blog commenter IP addresses are visible and disclosed to the administrators of the blog where the comment was left.
 
-Name   
-Address   
-Email address   
-Phone number   
-Credit/Debit Card Information   
-(etc.) 
+Gathering of Personally-Identifying Information  
+Certain visitors to SOFREP’s websites choose to interact with SOFREP in ways that require SOFREP to gather personally-identifying information. The amount and type of information that SOFREP gathers depends on the nature of the interaction. SOFREP collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with SOFREP. SOFREP does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
-On some pages, you can submit information about other people. For example, if you order a gift online and want it sent directly to the recipient, you will need to submit the recipient's address. In this circumstance, the types of personal information collected are: 
+Aggregated Statistics  
+SOFREP may collect statistics about the behavior of visitors to its websites.SOFREP may display this information publicly or provide it to others. However, SOFREP does not disclose personally-identifying information other than as described below.
 
-Name   
-Address   
-Phone Number   
-(etc.) 
+Protection of Certain Personally-Identifying Information  
+SOFREP discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on SOFREP’s behalf or to provide services available at SOFREP’s websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using SOFREP’s websites, you consent to the transfer of such information to them. SOFREP will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, SOFREP discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when SOFREP believes in good faith that disclosure is reasonably necessary to protect the property or rights of SOFREP, third parties or the public at large. If you are a registered user of a SOFREP website and have supplied your email address, SOFREP may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with SOFREP and our products. We primarily use our blogs to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. SOFREP takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
 
-The Way We Use Information:
+Cookies  
+A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. SOFREP uses cookies to help SOFREP identify and track visitors, their usage of SOFREP website, and their website access preferences. SOFREP visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using SOFREP’s websites, with the drawback that certain features of SOFREP’s websites may not function properly without the aid of cookies.
 
-We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order. 
+Business Transfers  
+If SOFREP, or substantially all of its assets, were acquired, or in the unlikely event that SOFREP goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of SOFREP may continue to use your personal information as set forth in this policy.
 
-We use the information you provide about someone else when placing an order only to ship the product and to confirm delivery. We do not share this information with outside parties except to the extent necessary to complete that order. 
+Ads  
+Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by SOFREP and does not cover the use of cookies by any advertisers.
 
-We offer gift-cards by which you can personalize a product you order for another person. Information you provide to us to create a gift-card is only used for that purpose, and it is only disclosed to the person receiving the gift. 
+Privacy Policy Changes  
+Although most changes are likely to be minor, SOFREP may change its Privacy Policy from time to time, and in SOFREP’s sole discretion. SOFREP encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
 
-We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties. 
+  
 
-You can register with our website if you would like to receive our catalog as well as updates on our new products and services. Information you submit on our website will not be used for this purpose unless you fill out the registration form. 
-
-We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals. 
-
-Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses. 
-
-All third-party sponsored offers (advertisements, free trial offers, etc.) are beyond the control of NavySEALs.com, and NavySEALs.com will not be held responsible for any misuse or misrepresentation of information regarding this offer. 
-
-Our Commitment To Data Security
-
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
-
-Our Commitment To Children's Privacy:
-
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13. 
-
-How You Can Access Or Correct Your Information
-
-You can access all your personally identifiable information that we collect online and maintain by contacting the editor at NavySEALs.com. We use this procedure to better safeguard your information. 
-
-You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. 
-
-To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
-
-How To Contact Us
-
-Should you have other questions or concerns about these privacy policies, please email at [support@navyseals.com](mailto:support@navyseals.com). 
