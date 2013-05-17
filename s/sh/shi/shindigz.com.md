@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the shindigz.com privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115094557id_/http%3A//www.shindigz.com/servicepage.cfm%3Fpgp%3DSZSECURE) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shindigz.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517023803id_/http%3A//www.shindigz.com/servicepage.cfm%3Fpgp%3DSZSECURE) for the most accurate reproduction.*
 
 # Shindigz Site Security, Privacy Policy
 
 ### Site Security
 
-At ShindigZ, your security is our number one concern. We are pleased to tell you about the measures we have taken to ensure your security. 
+At Shindigz, your security is our number one concern. We are pleased to tell you about the measures we have taken to ensure your security. 
 
 We have followed and surpassed all industry standards necessary for a secure site. We are a GeoTrust™ secure site. This means that all information sent to our site is encrypted and protected against disclosure to third parties. 
 
@@ -69,7 +69,7 @@ If you do not want to receive our catalog at any time, please let us know. Be su
 
 > Mail your request to:
 >
->> ShindigZ  
+>> Shindigz  
 > Attn: Customer Service  
 > P.O. Box 305  
 > South Whitley, IN 46787-0305
@@ -100,13 +100,13 @@ To remove your name from mailing lists of other printed catalogs that belong to 
 
 In compliance with the Children's Online Privacy Protection Act of 2000 (COPPA), we do not request any information from children under the age of 13. We require parental consent (via e-mail) on any information provided to us by children under the age of 13. We have provided links on our site to our Privacy Policy from all places where information can be gathered.
 
-We do gather information from parents wishing to enroll their children in the ShindigZ BirthdayZ Club. This information includes the names, ages, gender, and birth dates of children registered by a parent. This information is used only to provide relevant information to the parent prior to their child's birthday. At no time is any of this information shared with third parties.
+We do gather information from parents wishing to include their children in their account information when enrolling in the Shindigz Rewardz Program. This information includes the names, ages, gender, and birth dates of children registered by a parent. This information is used only to provide relevant information to the parent prior to their child's birthday. At no time is any of this information shared with third parties.
 
 #### Questions or Concerns
 
 If you at any time have questions, concerns, or need assistance with our Privacy Policy, please feel free to e-mail us at [Customer Service](mailto:csr@shindigz.com), call us toll free at 1-800-314-8794 or write to us at:
 
-> ShindigZ  
+> Shindigz  
 > Attn: Customer Service  
 > P.O. Box 305  
 > South Whitley, IN 46787-0305
