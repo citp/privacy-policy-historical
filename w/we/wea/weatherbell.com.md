@@ -1,23 +1,22 @@
-> *The following text is extracted and transformed from the weatherbell.com privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115150343id_/http%3A//www.weatherbell.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weatherbell.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517025417id_/http%3A//www.weatherbell.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Refund Policy**
+  **Refund Policy**.  All sales are final upon processing. Subscription services will be billed to the credit card on file every 30 days and are non-refundable once processed. Cancellation of a WeatherBELL Analytics subscription must be made in advance of the billing date by visiting the Account page at [www.weatherbell.com/account/edit](http://www.weatherbell.com/account/edit) and clicking on the button labeled “Cancel Subscription”.
 
-All sales are final upon processing. Subscription services will be billed to the credit card on file every 30 days and are non-refundable once processed. Cancellation of a WeatherBELL Analytics subscription must be made in advance of the billing date.
+**Privacy Policy**.  This Privacy Policy applies to all of the products, services and websites offered by WeatherBELL Analytics LLC. 
 
-**Privacy Policy**
-
-This Privacy Policy applies to all of the products, services and websites offered by WeatherBELL Analytics LLC. Sometimes, we may post product specific privacy notices to explain our products in more detail.
+Sometimes, we may post product specific privacy notices to explain our products in more detail.
 
 If you have any questions about this Privacy Policy, please feel free to contact us through our website or write to us or email us at:
 
-**Privacy Policy** **  
-****c/o WeatherBELL Analytics LLC** **  
-****555 5th Ave, 17th Floor** **  
-****New York, NY 10017** **  
-****USA** **  
-****info@weatherBELL.com**
+**WeatherBELL Analytics LLC** **  
+Attn:   **Privacy Policy  
+17th Floor  
+555 Fifth Ave  
+New York, NY 10017**  
+**USA**  
+**info@weatherBELL.com****
 
 **What We Collect About You.**  We collect information on the WeatherBELL Analytics Sites during the registration process and through your use of the WeatherBELL Analytics Sites for business purposes that will allow us to better and more efficiently serve you. Some uses WeatherBELL Analytics makes of this information are processing and verifying subscriptions, billing, and providing you with up-to-date information on the newest WeatherBELL Analytics products. Third parties, providers, advertisers and vendors (hereinafter "Providers") may be utilized by WeatherBELL Analytics in conjunction with the operation of the WeatherBELL Analytics Sites and the products, services, and advertising related to them. These Providers may also collect information.
 
@@ -31,7 +30,7 @@ To the extent unique information, which is not in itself PII, such as personal p
 
 **Password Security Access to certain portions of the WeatherBELL Analytics Sites are password-protected so that you and only you will have access to the Site as a subscriber.**  It may be necessary for WeatherBELL Analytics, its employees, contractors or Providers working on behalf of WeatherBELL Analytics to access the Site using your subscriber information to provide you with support or to perform certain maintenance tasks. This access happens on an as-needed basis only.
 
-**Electronic Registration.**  When you access or install a new product or service, you may be asked to register electronically. Your registration information will be merged with any information you have already provided ('Profile'). If you have not previously registered within the WeatherBELL Analytics Sites, a Profile may be created for you from your product registration information. If you have not already registered by giving us your PII, you will be asked to do so to ensure that only you can access the product or services. Upon satisfactory completion of your registration information, WeatherBELL Analytics authorizes users to access and use the WeatherBELL Analytics Sites and its products and services subject to the [Terms and Conditions](http://www.weatherbell.com/admin/cms_content/edit/5/terms.html) and this Privacy Statement. User shall maintain the confidentiality of any user name and password. If there is a breach of the confidentiality of a password or user name assigned to user, or any breach of security through user's account, then user shall so notify WeatherBELL Analytics's customer assistance center immediately by contacting WeatherBELL Analytics at info@weatherBELL.com
+**Electronic Registration.**  When you access or install a new product or service, you may be asked to register electronically. Your registration information will be merged with any information you have already provided ('Profile'). If you have not previously registered within the WeatherBELL Analytics Sites, a Profile may be created for you from your product registration information. If you have not already registered by giving us your PII, you will be asked to do so to ensure that only you can access the product or services. Upon satisfactory completion of your registration information, WeatherBELL Analytics authorizes users to access and use the WeatherBELL Analytics Sites and its products and services subject to the Terms & Conditions and this Privacy Statement. User shall maintain the confidentiality of any user name and password. If there is a breach of the confidentiality of a password or user name assigned to user, or any breach of security through user's account, then user shall so notify WeatherBELL Analytics' customer assistance center immediately by contacting WeatherBELL Analytics at info@weatherBELL.com
 
 **Log information.**  When you access WeatherBELL Analytics services via a browser, application or other client our servers automatically record certain information. These server logs may include information such as your web request, your interaction with a service, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser or your account.
 
@@ -41,7 +40,7 @@ To the extent unique information, which is not in itself PII, such as personal p
 
 In addition to the above, we may use the information we collect to:
 
-  * ##  Provide, maintain, protect, and improve our services (including advertising services) and develop new services; and
+  * Provide, maintain, protect and improve our services (including advertising services) and develop new services; and  
 
   * Protect the rights or property of WeatherBELL Analytics or our users.
 
@@ -53,8 +52,9 @@ WeatherBELL Analytics processes personal information on our servers in the Unite
 
 **Information Sharing**
 
-**TERMS FOR SHARING PERSONALLY IDENTIFIABLE INFORMATION**  
-In special circumstances, WeatherBELL Analytics may opt to access or disclose PII when there is reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating WeatherBELL Analytics's [Terms and Conditions](http://www.weatherbell.com/admin/cms_content/edit/5/terms.html), this Privacy Statement, any applicable End User License Agreement, Provider or Subscription Terms, or when there is reason to believe an individual may be causing injury to or interference with (either intentionally or unintentionally) WeatherBELL Analytics's rights or property, other WeatherBELL Analytics Site users, or anyone else that could be harmed by such activities. WeatherBELL Analytics may then opt to disclose or access PII in good faith in circumstances where the law requires it, and for administrative and other purposes that we deem necessary to maintain, service, and improve the WeatherBELL Analytics Sites and our products and services. WeatherBELL Analytics may also be requested to disclose PII to law enforcement authorities or as may be required by court-ordered subpoena.
+**TERMS FOR SHARING PERSONALLY IDENTIFIABLE INFORMATION** :
+
+In special circumstances, WeatherBELL Analytics may opt to access or disclose PII when there is reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating WeatherBELL Analytics' Terms & Conditions, this Privacy Statement, any applicable End User License Agreement, Provider or Subscription Terms, or when there is reason to believe an individual may be causing injury to or interference with (either intentionally or unintentionally) WeatherBELL Analytics' rights or property, other WeatherBELL Analytics Site users, or anyone else that could be harmed by such activities. WeatherBELL Analytics may then opt to disclose or access PII in good faith in circumstances where the law requires it, and for administrative and other purposes that we deem necessary to maintain, service, and improve the WeatherBELL Analytics Sites and our products and services. WeatherBELL Analytics may also be requested to disclose PII to law enforcement authorities or as may be required by court-ordered subpoena.
 
 WeatherBELL Analytics is in the business of providing and hosting weather information products, services, and other related products and services as a service to our users. As such, User Data is also considered, a 'customer list', and as such, is a valuable asset to any company subject to legal protection and regulation under federal and state laws as a property interest. Accordingly, User Data will be subject to all customary rights and protections afforded to property owners under these laws. Such rights customarily include the right to transfer the information during the sale of assets to or merger with third parties, and to routinely share such information with affiliates of WeatherBELL Analytics.
 
@@ -62,12 +62,11 @@ Excepting PII collected during the purchasing or registration process, User Data
 
 If WeatherBELL Analytics becomes involved in a merger, acquisition, or any form of sale of some or all of its assets, we will ensure the confidentiality of any personal information involved in such transactions and provide notice before personal information is transferred and becomes subject to a different privacy policy.
 
-**Enforcement**
+**Enforcement.   **WeatherBELL Analytics adheres to the US Safe Harbor Privacy Principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement, and is registered with the U.S. Department of Commerce’s Safe Harbor Program.
 
-WeatherBELL Analytics adheres to the US Safe Harbor Privacy Principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement, and is registered with the U.S. Department of Commerce’s Safe Harbor Program.
-
-WeatherBELL Analytics regularly reviews its compliance with this Privacy Policy. When we receive formal written complaints, it is WeatherBELL Analytics’s policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between WeatherBELL Analytics and an individual.
+WeatherBELL Analytics regularly reviews its compliance with this Privacy Policy. When we receive formal written complaints, it is WeatherBELL Analytics’ policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between WeatherBELL Analytics and an individual.
 
 **Changes to this Privacy Policy**
 
-Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent. We will post any Privacy Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Privacy Policy changes). We will also keep prior versions of this Privacy Policy in an archive for your review.
+Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent. We will post any Privacy Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Privacy Policy changes). We will also keep prior versions of this Privacy Policy in an archive for your review.  
+
