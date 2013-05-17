@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toonpool.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116074318id_/http%3A//www.toonpool.com/faq.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toonpool.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517144759id_/http%3A//www.toonpool.com/faq.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy | Cartoons, Caricatures, Cartoon Images | TOONPOOL
 
