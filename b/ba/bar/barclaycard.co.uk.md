@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the barclaycard.co.uk privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127102534id_/http%3A//www.barclaycard.co.uk/personal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barclaycard.co.uk privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517112942id_/http%3A//www.barclaycard.co.uk/personal/privacy-policy) for the most accurate reproduction.*
 
 # Barclaycard Privacy and Cookie Policy | Barclaycard
 
 Please read our privacy policy carefully before using this website ("the Site"). In this policy "we", "us", "our" and “ours” means Barclays Bank PLC and "you" means the person using the Site.
+
+View our [guide to cookies](http://www.barclaycard.co.uk/privacy-policy/cookies/index.html) for further information.
 
 ## How we collect information about you
 
@@ -32,7 +34,7 @@ Please remember that any messages you send over the internet aren't secure unles
 
 So for your own security, please don't send us any personal or account information by standard email.
 
-What are cookies and how do we use them?
+## What are cookies and how do we use them?
 
 Cookies are text files containing small amounts of information, which your computer or mobile device downloads when you visit a website. When you return to websites – or visit other websites that use the same cookies – they recognise these cookies and therefore your browsing device.
 
