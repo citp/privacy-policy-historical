@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the manteresting.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222090121id_/http%3A//manteresting.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manteresting.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517132112id_/http%3A//manteresting.com/Privacy) for the most accurate reproduction.*
 
 # Privacy - Interesting. Man. Things.
 
