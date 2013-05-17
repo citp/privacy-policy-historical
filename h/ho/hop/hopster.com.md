@@ -1,128 +1,89 @@
-> *The following text is extracted and transformed from the hopster.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222204048id_/http%3A//www.hopster.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hopster.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517120844id_/https%3A//www.hopster.com/privacy.html) for the most accurate reproduction.*
 
-# hopster | privacy
+# 
 
-hopster is preparing to become a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices.
+INTRODUCTION
 
-This privacy statement covers the site www.hopster.com. Because this Web site wants to demonstrate its commitment to its users' privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+Hopster, Inc. operates promotions through agreements with manufacturers. When you create your Hopster.com account (“Account”) and utilize Hopster promotions, only Hopster.com will have access to the personal information—such as your name, mailing address, and e-mail address (“Personal Information”)—that you provide.
 
-  1. What personally identifiable information hopster collects. 
-  2. What personally identifiable information third parties collect through the Web site. 
-  3. What organization collects the information. 
-  4. How hopster uses the information. 
-  5. With whom hopster may share user information. 
-  6. What choices are available to users regarding collection, use and distribution of the information. 
-  7. What types of security procedures are in place to protect the loss, misuse or alteration of information under hopster control. 
-  8. How users can correct any inaccuracies in the information. 
+The privacy of your Personal Information is very important to us. The full Hopster.com Privacy Policy is reproduced below.
 
+A SPECIAL NOTE ABOUT ELECTRONIC COMMUNICATIONS
 
+Hopster.com may from time-to-time contact you via email to let you know about special coupons and promotions, updates on new features, and other similar information. You can remove yourself from these e-mail communications by clicking on an “unsubscribe” hyperlink contained in any marketing e-mail that we send to you. Your Hopster.com account also has an e-mail settings section from which you can change your e-mail delivery preferences at any time.
 
-If users have questions or concerns regarding this statement, they should contact hopster Customer Service by e-mail at privacy@hopster.com .
+Please note that removal from Hopster promotional e-mails does not include e-mail communication connected directly to the service.
 
-  * Ensure that you do not expose confidential information to online threats and protect you and your family from inappropriate online content. 
-  * Secure your personal information while providing greater control over your family's Internet experience. 
-  * McAfee's Privacy Service is a powerful, integrated service which combines personal identifiable information (PII) protection with online advertisement blocking and content filtering. 
+HOPSTER.COM PRIVACY POLICY
 
-[learn more about McAfee Privacy Service](http://click.linksynergy.com/fs-bin/click?id=EjYpE/roCBo&offerid=50252.10000010&type=3&subid=0)
+This Privacy Policy forms part of the Hopster.com Account Agreement and is incorporated by reference therein. Your privacy is very important to us. This Policy describes the information we collect about you and how we use this information. By using the Hopster.com service and website, you agree that you have read and understand this Privacy Policy and you consent to the collection and use of information in accordance with this Privacy Policy.
 
+Information Hopster Collects
 
+Our primary goal in collecting information from you is to provide you with a positive experience while you use Hopster.com, to allow you to set up an Account to interact with brands and utilize promotions from Hopster.com and the manufacturer website promotions that we operate, and to provide you with access to product offers, promotions, coupons and other offers through the Hopster service. Hopster may collect both personally identifiable information ("Personal Information") and information about your use of Hopster.com services and website that is not connected to your Personal Information ("Non-personal Information").
 
+Non-personal Information
 
-## Information Collection
+Non-personal Information may include both: 1) technical information, such as the type of Internet browser you use, the date and time you access the website, and your Internet protocol address; and, 2) service usage information, such as your site visits and page views, search and purchase history, and the demographic, geographic and psychographic information, product reviews and other feedback you supply to Hopster. Hopster may share Non-personal Information with select third parties on an anonymous basis (i.e., in a way that does not connect your Non-personal Information to your Personal Information or disclose your Personal Information in any fashion).
 
-hopster is the sole owner of the information collected on hopster.com. hopster collects information from our users at several different points on our Web site.
+Personal Information
 
-### Order
+Personal Information may include your name, street address, email address, telephone number and payment information.
 
-We request information from the user on our order form. A user must provide contact information (such as name, email, and shipping address) and financial information (such as credit card number, expiration date). This information is used for billing purposes and to fill customer's orders. If we have trouble processing an order, the information is used to contact the user.
+Hopster Disclosure of Your Personal Information
 
-## Information Use
+Except as explicitly set forth herein, we will not disclose your Personal Information to third parties without your express permission.
 
-### Cookies
+  * Agents: We employ other companies and individuals to perform functions on our behalf. These functions may include providing customer service tools, hosting our website, or analyzing data. Our agents may have access to Personal Information needed to perform their functions, but may not use it for other purposes. 
 
-A cookie is a piece of data stored on the user's computer tied to information about the user. We use both session ID cookies and persistent cookies. For the session ID cookie, once users close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on the user's hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions. [Provide a link to information on cookies.]
+  * Compelled Disclosures: We may disclose your Personal Information as required by law and as necessary to comply with a judicial proceeding, court order, and/or legal process served on us; and/or to protect our rights and the rights of our customers. 
 
-By setting a cookie on our site, users would not have to log in a password more than once, thereby saving time while on our site. If users reject the cookie, they may still use our site. Persistent cookies enable us to track and target the interests of our users to enhance the experience on our site.
+  * Business Transfers: In the event that Hopster, Inc., or substantially all of our assets are sold, customer information, including Personal Information, will likely be one of the transferred assets. 
 
-### Third Party Advertising
-
-hopster.com does not do Third-Party Advertising.
-
-### Log Files
-
-Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information.
-
-### Clear Gifs (Web Beacons/Web Bugs)
-
-We employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. The main difference between the two is that clear gifs are invisible on the page and are much smaller, about the size of the period at the end of this sentence. Clear gifs are NOT tied to users' personally identifiable information.
-
-## Special Offers and Updates
-
-We send all new members a welcoming email to verify password and username. Established members will occasionally receive information on products, services, special deals, and a newsletter. Out of respect for the privacy of our users we present the option to not receive these types of communications. Please see the Choice and Opt-out sections.
-
-### Newsletter
-
-If a user wishes to subscribe to our newsletter, we ask for contact information such as name and email address. Out of respect for our users privacy we provide a way to opt-out of these communications. Please see the Choice and Opt-out sections.
-
-### Service Announcements
-
-On rare occasions it is necessary to send out a strictly service related announcement. For instance, if our service is temporarily suspended for maintenance we might send users an email. Generally, users may not opt-out of these communications, though they can deactivate their account. However, these communications are not promotional in nature.
-
-### Customer Service
-
-We communicate with users on a regular basis to provide requested services and in regards to issues relating to their account we reply via email or phone, in accordance with the users wishes.
-
-_Sponsoring_
-
-hopster is an affiliate of several trusted, well-known online shops. When users visit shops that hopster has established an affiliation agreement with, hopster sends a short affiliation-ID to the shop's server. No personally identifiable information is sent to our affiliate partners.
-
-## Legal Disclaimer
-
-Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site.
-
-We DO NOT Share Personal Information with Third Parties
-
-## Third Party Intermediaries
-
-We use a credit card processing company to bill users for goods and services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes.
-
-## Business Transitions
-
-In the event hopster goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users' personal information will, in most instances, be part of the assets transferred.
-
-Users of our site are always notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether or not they should proceed with services that require an outside party.
-
-This Web site contains links to other sites. Please be aware that we, hopster, are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
-
-## Tell-A-Friend
-
-If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and email address. hopster will automatically send the friend a one-time email inviting them to visit the site. hopster stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. The friend may contact hopster at privacy@hopster.com to request the removal of this information from our database.
-
-## Chat Rooms, Message Boards, and Public Forums
-
-Please keep in mind that whenever you voluntarily disclose personal information online - for example on message boards, through e-mail, or in chat areas - that information can be collected and used by others. In short, by posting personal information online that is publicly accessible, you may receive unsolicited messages from other parties in return.
-
-This Web site takes every precaution to protect our users' information. When users submit sensitive information via the Web site, their information is protected both online and off-line.
-
-When our order form asks users to enter sensitive information (such as credit card number and/or social security number), that information is encrypted and is protected with the best encryption software in the industry - SSL. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when users are just 'surfing'.
-
-While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Our employees must use password-protected screen-savers when they leave their desk. When they return, they must re-enter their password to re-gain access to user information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. From time to time, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our users' information is protected. Finally, the servers that store personally identifiable information are in a secure environment, behind a locked cage in a locked facility.
-
-If users have any questions about the security at our Web site, users can send an email to privacy@hopster.com .
-
-## Notification of Changes
-
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If, however, we are going to use users' personally identifiable information in a manner different from that stated at the time of collection we will notify users by posting a notice on our Web site for 30 days.  
+  * Manufacturer Website Promotions: We power a number of manufacturer branded promotions that allow consumers to access these offers directly from a manufacturer’s own web site (e.g., laundrysoap.com) without visiting the main Hopster.com website. If you first accessed and created your Hopster.com account from one of these branded manufacturer websites, both Hopster.com and the individual manufacturer that controls the website will have access to your Personal Information. If you signed up for Hopster from the main Hopster.com website, this subparagraph does not apply to you. 
 
 
-If users have any questions or suggestions regarding our privacy policy, please contact us at:
 
-hopster.com  
-c/o internic gmbH  
-1 Donau City Str.  
-A-1220 Vienna  
-Austria
 
-e-mail: privacy@hopster.com
+Hopster.com Account and Communications
+
+In order to place to utilize promotions on the Hopster.com website or from a branded manufacturer website, you need to set up an Account, which may include your name, e-mail address, password, and mailing address. You can review, update and change some of your Personal Information—including your email address, mailing address and password—in your Account at anytime. In addition to using your email to contact you regarding Account activities, we may also update you on new product offerings and communications relevant to your use of Hopster.com (Hopster updates). If you do not wish to receive Hopster updates, you have the ability to stop receiving these email communications by signing into your Account and changing your communication preferences at anytime. You can remove yourself from Hopster updates by clicking on an “unsubscribe” hyperlink contained in any update e-mail that we send to you.
+
+Customer Supplied Information
+
+The Hopster.com website has a number of social features that allow you to interact with other Hopster customers and to post and share information about yourself, your use of the Hopster service, and the products you buy (Customer Supplied Information). This Customer Supplied Information may contain Personal Information you submit, such as your name. By submitting such content on our website and/or utilizing our social features, you consent to our sharing of that information with others. You will always have the option to not include your Personal Information through the Hopster website social features (for example, by not submitting your name in association with a product review, or requesting that your customer profile on Hopster or portions of that profile be kept confidential).
+
+Security of Information
+
+Hopster uses security measures to protect the privacy of your Personal Information. We limit the employees and contractors that can access your Personal Information and require these employees and contractors to adhere to a confidentiality policy. Hopster also uses technological security measures to protect your Personal Information. However, transmissions over the Internet are not completely secure, and any information you send to or through Hopster.com may be accessible by others. Hopster cannot guarantee our security measures. We also strongly encourage you to keep your password and account information secure and confidential.
+
+Cookies
+
+Cookies are small files that we transfer to your computer's hard drive through your web browser to enable us to recognize you when you return to our website. Cookies let us identify you to provide you a personalized experience on our website. We use cookie and web beacon technology to track which pages on our sites our visitors view. Cookies and web beacons do not contain any Personal Information. Most Internet browsers permit you to erase or block cookies. Please note that if you configure your browser to remove or reject cookies, you will not be able to use the full functionality of our website.
+
+Children
+
+Children are not eligible for a Hopster.com Account, and we ask that minors (under the age of eighteen (18)) do not submit any personal information to us. By using Hopster.com services you represent to Hopster that you are at least 18 years old.
+
+Facebook Connect
+
+You may be given the opportunity to register with us via Facebook Connect. We will collect and store the information you provide us through Facebook Connect (including personally identifiable information) with any other registration information you provide us. Disabling your Facebook Connect may not terminate your account with us.
+
+Notification of Changes
+
+Hopster may make periodic changes to this privacy policy and changes will be posted on the Hopster.com web site. We may also notify you by e-mail if there is a material change in our privacy practices or policies. Your continued use of your Account or the Hopster.com web site shall constitute your acceptance of any such amendment.
+
+If you have any questions about this Privacy Policy, the practices of this Site or your dealings with Hopster.com, please contact us.
+
+By e-mail: [support@Hopster.com](mailto:support@support.com)
+
+By mail:
+
+Legal Dept.   
+Hopster, Inc.  
+1600 Aspen Commons, Floor 9  
+Middleton, WI 53562
+
+By phone: 1-855-HOPSTER (467-7837) 
+
+09/07/12
