@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visualwebsiteoptimizer.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223014544id_/http%3A//visualwebsiteoptimizer.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visualwebsiteoptimizer.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517172530id_/http%3A//visualwebsiteoptimizer.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Visual Website Optimizer - Visual Website Optimizer
 
@@ -33,4 +33,4 @@ Visual Website Optimizer may change its Privacy Policy from time to time and at 
 
 Last updated: May 22, 2012
 
-### Send us a message, quickly!
+### Contact us for more information!
