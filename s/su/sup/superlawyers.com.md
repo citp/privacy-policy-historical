@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superlawyers.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014032205id_/https%3A//my.superlawyers.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superlawyers.com privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518003707id_/https%3A//my.superlawyers.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Terms of Use, Conditions and Privacy Policy for My.SuperLawyers.com - My Super Lawyers
 
