@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the coca-colahellenic.com privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105062857id_/http%3A//www.coca-colahellenic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coca-colahellenic.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517230707id_/http%3A//www.coca-colahellenic.com/privacy) for the most accurate reproduction.*
 
-# CocaColaHellenic - Privacy statement
+# Privacy Statement | Coca-Cola Hellenic
 
 Coca-Cola Hellenic Bottling Company S.A is committed to preserving the privacy of all visitors to [www.coca-colahellenic.com](http://www.coca-colahellenic.com/) and to protecting any personal information that you may provide to us. In particular, we believe it is important for you to know how we treat information about you that we may receive from this website and how we carry out data processing practices through the use of the Internet and any other electronic communications networks. Please read the following Privacy Policy to understand how we use and protect the information that you provide to us or how we may use and protect it in the future.
 
