@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flyordie.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021012747id_/http%3A//www.flyordie.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flyordie.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517113311id_/http%3A//www.flyordie.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statment - FlyOrDie.com
 
@@ -17,7 +17,7 @@ Some of FlyOrDie's services are only available after subscription. During subscr
 
 IP addresses
 
-IP addresses are logged. We can use these data for creating statistics, analysing trends, etc. 
+IP addresses and other anonymous client information are logged. We can use these data for creating statistics, analysing trends, prevent/investigate abuse, etc. 
 
 Chat
 
@@ -41,7 +41,7 @@ Links
 
 This web site contains links to other sites. Please be aware that FlyOrDie is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
 
-Last updated: October 29, 2009 
+Last updated: May 2, 2013 
 
 Copyright © 2009 [FlyOrDie.com](http://www.flyordie.com/ "Flyordie Online Games"). All rights reserved.  
 FlyOrDie © is a registered trademark of Solware Ltd.
