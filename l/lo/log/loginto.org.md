@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loginto.org privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116193905id_/http%3A//www.loginto.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loginto.org privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517145216id_/http%3A//www.loginto.org/privacy-policy) for the most accurate reproduction.*
 
 # Loginto.org Privacy Policy
 
@@ -29,15 +29,15 @@ If you wish to disable cookies, you may do so through your individual browser op
 
 ## Latest Login Searches
 
-  * [4teachers.org Login](https://web.archive.org/4teachers.org-login)
-  * [xilinx.com Login](https://web.archive.org/xilinx.com-login)
-  * [adt.com Login](https://web.archive.org/adt.com-login)
-  * [watchthewater.org Login](https://web.archive.org/watchthewater.org-login)
-  * [home.org Login](https://web.archive.org/home.org-login)
-  * [zenfolio.com Login](https://web.archive.org/zenfolio.com-login)
-  * [dealer.com Login](https://web.archive.org/dealer.com-login)
-  * [grosbill.com Login](https://web.archive.org/grosbill.com-login)
-  * [terra.cl Login](https://web.archive.org/terra.cl-login)
-  * [charityvillage.com Login](https://web.archive.org/charityvillage.com-login)
+  * [americanwholesale.com Login](https://web.archive.org/americanwholesale.com-login)
+  * [110mb.info Login](https://web.archive.org/110mb.info-login)
+  * [afepub.com Login](https://web.archive.org/afepub.com-login)
+  * [1keylogger.com Login](https://web.archive.org/1keylogger.com-login)
+  * [3myfm.com Login](https://web.archive.org/3myfm.com-login)
+  * [usatodayhss.com Login](https://web.archive.org/usatodayhss.com-login)
+  * [skz.or.jp Login](https://web.archive.org/skz.or.jp-login)
+  * [arteblog.com.br Login](https://web.archive.org/arteblog.com.br-login)
+  * [ohhappyday.com Login](https://web.archive.org/ohhappyday.com-login)
+  * [nova-wings.ru Login](https://web.archive.org/nova-wings.ru-login)
 
 
