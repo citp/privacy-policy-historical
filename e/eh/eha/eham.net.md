@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eham.net privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021014828id_/http%3A//www.eham.net/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eham.net privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517140015id_/http%3A//www.eham.net/about/privacy) for the most accurate reproduction.*
 
 # eHam.net Privacy Statement
 
