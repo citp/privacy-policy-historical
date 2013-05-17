@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digminigames.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116054916id_/http%3A//www.digminigames.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digminigames.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517031208id_/http%3A//www.digminigames.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - DigMiniGames
 
@@ -65,7 +65,8 @@ By using this Site, you signify your acceptance of this policy and [terms of ser
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
-[DigMiniGames.com  
-http://www.digminigames.com/contact-us/](http://www.digminigames.com/contact-us/)
+[DigMiniGames.com](http://www.digminigames.com/contact-us/)
+
+<http://www.digminigames.com/contact-us/>
 
 This document was last updated on July 15, 2012.
