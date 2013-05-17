@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sitereport.org privacy policy that was archived on 2012-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120518022343id_/http%3A//www.domain-pop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitereport.org privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517152636id_/http%3A//www.domain-pop.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | BACKLINK CHECKER | FREE REPORTS | CHECK LINKSDomain Pop | Backlink Checker
+# Privacy Policy | BACKLINK CHECKER | FREE REPORTS | CHECK LINKS
 
 This Privacy Policy governs the manner in which Under the Radar SEO, LLC collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.domain-pop.com](http://www.domain-pop.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Under the Radar SEO, LLC.
 
@@ -75,6 +75,6 @@ If you have any questions about this Privacy Policy, the practices of this site,
 [http://www.domain-pop.com](http://www.domain-pop.com/)  
 1 Cygnet Road  
 Congers, New York 10920  
-800-705-2375
+845-232-1479
 
 This document was last updated on May 13, 2012
