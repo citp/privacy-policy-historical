@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the achica.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227092438id_/http%3A//www.achica.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the achica.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517203411id_/http%3A//www.achica.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
@@ -87,12 +87,4 @@ If at any time you wish to have your information removed from our active databas
 . You can also unsubscribe any time by clicking on the unsubscribe link at the bottom of all our email communication.
 
 Company Registration Number: 7039129  
-Head Office: 20 Hanover Square, London W1S 1JY 
-
-**ACHICA Christmas Offer: Terms & Conditions**
-
-To qualify for your £30 voucher to spend in the New Year sales you must make purchase(s ) to a total value of £200 between November 1st 2012 to December 17th 2012. All purchases made after midnight on the 17th December will not be included as part of the promotion. **To make sure that you qualify for the promotion please enter NY30 at the checkout on your first Christmas purchase.** If you do not enter this code your total purchases will not be valid within the offer. All members that have qualified for the offer will be emailed on 25th December with their unique code to spend in the New Year sales up to 31st January 2013. No other voucher codes can be used in conjunction with this offer, only full price purchases will qualify for this offer. Offer excludes any purchases made within ACHICA Travel 
-
-**Final delivery date for Christmas 2012**
-
-This year the final order date to receive delivery in time for Christmas will be 17th December 2012 on the majority of promotions. Some larger item promotions will have an early final order date, please check the site for full details. 
+Head Office: Jessop House, Jessop Avenue, Cheltenham, Gloucestershire, GL50 3WG 
