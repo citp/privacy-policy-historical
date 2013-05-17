@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rbauction.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231070156id_/http%3A//www.rbauction.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rbauction.com privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518004717id_/http%3A//www.rbauction.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Ritchie Bros. Auctioneers
 
@@ -55,7 +55,7 @@ Menu
     * [For Investors](https://web.archive.org/investors "For Investors")
     * [For Media](https://web.archive.org/media "For Media")
     * [Videos](https://web.archive.org/media/photos-and-videos/videos "Videos")
-  * [My Account](https://web.archive.org/myaccount/auth "My Account")
+  * [My Account](https://web.archive.org/myaccount/summary "My Account")
     * [Summary](https://web.archive.org/myaccount/summary "Summary")
     * [Registrations](https://web.archive.org/myaccount/registrations "Registrations")
     * [Watchlist](https://web.archive.org/myaccount/watchlist "Watchlist")
@@ -166,8 +166,9 @@ A registrant may change or update its personal information or remove itself from
 
 **Choice / Opt-Out**
 
-When registering for access to the My Account section of the web site, users can de-select the checkbox that asks if they would like periodic email marketing notices (e.g. email newsletter and e-brochures). However, as mentioned in the Special Offers, and Site and Service Updates section, some messages are not optional for web site registrants.  
-To ensure that you do not receive optional email notifications, please send an email to [events@rbauction.com](mailto:events@rbauction.com) with the word 'Unsubscribe' in the subject line.
+When registering for access to the My Account section of the web site, users can de-select the checkbox that asks if they would like periodic email marketing notices (e.g. email newsletter and e-brochures). However, as mentioned in the Special Offers, and Site and Service Updates section, some messages are not optional for web site registrants.
+
+Users can also unsubscribe from non-optional emails by clicking the unsubscribe link in any marketing email they receive.
 
 **Notification of Changes& Acceptance of Privacy Statement**
 
@@ -177,10 +178,10 @@ We reserve the right to modify this Privacy Statement at any time. Your continue
 If we change our privacy practices, we will post those changes to our Privacy Statement web page and update the date listed on the links to it, as well as on the statement itself. We will post those changes so users are always aware of what personal information we collect, how we use it, and under what circumstances, if any, we disclose it. We may from time to time provide notice of changes to this Privacy Statement by email or mail, or to other contact information provided by you.  
 We use personal information in accordance with the Privacy Statement under which the personal information was collected. If at any point we decide to use personal information in a manner different from that currently stated, we will notify users. Users will have a choice as to whether or not we use their personal information in this different manner.
 
-If you have questions or concerns about this privacy statement, please send an email to [privacy@rbauction.com](mailto:privacy@rbauction.com).
+If you have questions or concerns about this privacy statement, please send an email to [webmaster@rbauction.com](mailto:webmaster@rbauction.com).
 
-Last Revised: June 1, 2011
+Last Revised: January 9, 2013
 
-Version: 4.0
+Version: 5.0
 
-Node: dc1vplfry02.rbauction.net 
+Node: dc1vplfry05.rbauction.net 
