@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pingmyurl.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226191105id_/http%3A//www.pingmyurl.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pingmyurl.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517172908id_/http%3A//www.pingmyurl.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - PingMyUrl.com
 
@@ -57,11 +57,7 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
-SeMediaNetwork  
-79596 Rättvik, Sweden
-
-Tel: +46-(0)723-080932
-
+PingMyUrl.com   
 info @ PingMyUrl.com
 
-This document was last updated on October 11, 2012
+This document was last updated on April 24, 2013
