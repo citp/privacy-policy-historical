@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the educationnext.org privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116001717id_/http%3A//educationnext.org/sub/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the educationnext.org privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517122358id_/http%3A//educationnext.org/sub/privacy) for the most accurate reproduction.*
 
 # Privacy Policy : Education Next
 
