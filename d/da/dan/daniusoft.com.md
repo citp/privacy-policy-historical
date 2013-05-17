@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the daniusoft.com privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031025327id_/http%3A//www.daniusoft.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daniusoft.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517233243id_/http%3A//www.daniusoft.com/privacy.html) for the most accurate reproduction.*
 
 # Daniusoft Privacy Policy
 
-## Privacy
+[Home](http://www.daniusoft.com/) > Privacy Policy
 
 Studio is committed to protecting your privacy. We will only collect your personal information for defined purposes. We do not distribute or share your personal information beyond what is strictly necessary to fulfill our obligations to you. We may share your information only with partners who adhere to 's commitment to protecting your privacy.  Studio will not sell your personal information in any manner whatsoever.
 
