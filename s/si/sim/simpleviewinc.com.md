@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simpleviewinc.com privacy policy that was archived on 2012-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121117064930id_/http%3A//www.simpleviewinc.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simpleviewinc.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517144829id_/http%3A//www.simpleviewinc.com/privacy) for the most accurate reproduction.*
 
 # simpleview | Destination Marketing Solutions | CVB Tourism Software
 
