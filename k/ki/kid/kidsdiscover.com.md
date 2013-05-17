@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kidsdiscover.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015142631id_/http%3A//www.kidsdiscover.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidsdiscover.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517043636id_/http%3A//www.kidsdiscover.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
