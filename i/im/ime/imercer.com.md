@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imercer.com privacy policy that was archived on 2012-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121113082709id_/http%3A//www.imercer.com/default.aspx%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imercer.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517200202id_/http%3A//www.imercer.com/default.aspx%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # iMercer.com
 
@@ -27,7 +27,7 @@ The Web Sites are intended for adults. If you are not yet 18 years old or lack t
    
 By accessing or using any Web Site, you acknowledge that you have read, understood, and accepted the practices described in this Privacy Policy. Please read this Privacy Policy carefully and be aware that we may change it at any time. As a result, we recommend that you check back regularly to this page to be apprised of any updates of changes.   
    
-**Information We Collect from Web Site Users and How We Use It**  
+**Information We Collect from All Web Site Users and How We Use It**  
    
 Mercer collects the domain names of visitors to its Web Sites to measure the number of visits, pages visited, and average time spent on each Web Site. This information is used to improve the design of our Web Sites and make them more user-friendly. Mercer also collects the e-mail addresses and other contact information you provide when you send us e-mail messages. This information is used solely to reply to your original e-mail message.   
    
@@ -50,7 +50,7 @@ You may set your web browser to not accept cookies. If you do, you may still use
    
 Certain Web Sites require users to register with Mercer by supplying their names and other personal information in order to have access to specific Web Site features (“Registered Users”). All Registered Users receive a username and password. When you register on a Web Site, Mercer may use your data to provide you with information reports as well as information about goods and services offered by Mercer. Mercer may also use the information provided by Registered Users to perform statistical analyses on our clients and understand client demographics.   
    
-Occasionally, we may transfer to our global client contact database certain information about Registered Users , in which case it will be governed by Mercer’s Privacy Policy for [Mercer's Privacy Policy for Client and Other Professional Contact Data](https://web.archive.org/web/20121113082709id_/http%3A//www.imercer.com/default.aspx?page=home&contentId=1775&newRegionId=100).   
+Occasionally, we may transfer to our global client contact database certain information about Registered Users , in which case it will be governed by Mercer’s Privacy Policy for [Mercer's Privacy Policy for Client and Other Professional Contact Data.](https://web.archive.org/web/20130517200202id_/http%3A//www.imercer.com/default.aspx?page=home&contentId=1775&newRegionId=100).   
    
 Information Related to Employment   
    
@@ -85,7 +85,7 @@ Mercer may aggregate User Information and may disclose aggregated information to
    
 This Privacy Policy is designed to establish a uniform minimum standard for how Mercer handles information you submit to us through the Web Sites. Where local law requires stricter standards than those set forth herein, Mercer will handle your information in accordance with these stricter standards.   
    
-**Links to Other Sites**  
+**Links to other Sites**  
    
 The Web Sites contain links to other sites. The privacy policies at these other sites may be different from this Privacy Policy. Those sites’ privacy policies will govern the use of information you provide to them.   
    
@@ -97,6 +97,6 @@ You must maintain the confidentiality of your username and password, and are res
    
 **Contacts and Complaints**  
    
-If you have any questions or concerns about this Privacy Policy, please e-mail us at [ PrivacyCoordinator@mercer.com](mailto:privacycoordinator@mercer.com).   
+If you have any questions or concerns about this Privacy Policy, please e-mail us at:[ PrivacyCoordinator@mercer.com](mailto:privacycoordinator@mercer.com).   
    
-By using this web site, you consent to the collection, use, and transfer of your personal information as described in this Policy. 
+By using this Web Site, you consent to the collection, use, and transfer of your personal information as described in this Privacy Policy. 
