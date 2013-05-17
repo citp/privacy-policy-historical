@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usamp.com privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104121706id_/http%3A//www.usamp.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usamp.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517062712id_/http%3A//www.usamp.com/policy) for the most accurate reproduction.*
 
 # Privacy Policy | uSamp
 
@@ -79,7 +79,7 @@ Third-party websites and advertisements with links to and from the Website may c
 United Sample is committed to working with individuals to obtain a fair resolution to any complaints or disputes about privacy and Personal Information. United Sample's commitment to privacy is demonstrated and documented by our internal Privacy Compliance Officer, by our adherence to the applicable Laws and Codes, and by our compliance with the Safe Harbor Principles. Any complaints or concerns about this Privacy Policy should be sent via regular mail, postage prepaid, addressed to:
 
 uSamp (United Sample, Inc.)  
-16501 Ventura Blvd., Suite 250  
+16501 Ventura Blvd., Suite 300  
 Encino, CA 91436
 
 ## Changes to the policy
