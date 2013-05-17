@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 40billion.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919091927id_/http%3A//www.40billion.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 40billion.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517020054id_/http%3A//www.40billion.com/privacy-policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy | 40Billion.com
 
