@@ -1,8 +1,9 @@
-<!--The following is the downloaded HTML source of the 40billion.com privacy policy that was archived on 2012-09-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120919091927id_/http%3A//www.40billion.com/privacy-policy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 40billion.com privacy policy that was archived on 2013-05-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130517020054id_/http%3A//www.40billion.com/privacy-policy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <title>Privacy Policy | 40Billion.com</title>
+<meta name="viewport" content="width=device-width, target-densitydpi=high-dpi">
 <link rel="icon" type="image/gif" href="images/favicon.gif">
 <link rel="shortcut icon" type="image/x-icon" href="http://www.40Billion.com/images/favicon.ico">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -11,7 +12,7 @@
 <meta http-equiv="PRAGMA" content="NO-CACHE">
 -->
 
-	<link rel="stylesheet" type="text/css" href="style.css?version6-25-12">
+	<link rel="stylesheet" type="text/css" href="style.css?version1-7-13">
 
 </head>
 
@@ -21,21 +22,47 @@
 <body class="nothome">
 
 <!-- Begin header -->
+<script type="text/javascript">
+	function switchto(q){ 
+	if (q){ 
+	document.getElementById('passwordtext').style.display="none"; 
+	document.getElementById('password').style.display="inline"; 
+	document.getElementById('password').focus(); 
+	} else { 
+	document.getElementById('password').style.display="none"; 
+	document.getElementById('passwordtext').style.display="inline"; 
+	} 
+	} 
+</script>
+
+
+
 <div class="main-header" align="center">
-	<form action="raise-search.asp" method="POST" name="headersearchform">
-	<table width="960" border="0" cellspacing="0" cellpadding="0" class="main-header-overlay">
+
+	<form action="/check-login.asp" method="POST" name="headerlogin">
+	<table width="960" border="0" cellspacing="0" cellpadding="0" class="main-header-overlay-login">
 		<tbody><tr>
-			<td width="181"><div class="main-header-logo"><a href="/"><img src="images/logo.png" alt="40Billion.com" width="181" height="51" border="0"></a></div></td>
-			<td width="113"><div class="main-header-contacts section-link"><a href="find-people-all.asp">Contacts</a></div></td>
-			<td width="103"><div class="main-header-raises section-link"><a href="raise-main.asp">Raises</a></div></td>
-			<td width="110"><div class="main-header-resources section-link"><a href="find-main.asp">Resources</a></div></td>
-			<td width="141"><div class="main-header-searchbox" align="center"><input class="main-header-search" name="Keywords" size="10" type="text" maxlength="255" autocomplete="ON" value="Search..." onfocus="if(this.value=='Search...'){this.value=''};" onblur="if(this.value==''){this.value='Search...'};"></div></td>
-
-			<td width="312"><div class="header-text align-right"><a href="how-it-works.asp">How It Works</a> | <a href="http://blog.40billion.com">Blog</a> | <a href="join-new-member.asp">Sign Up</a> | <span class="header-text-force"><a href="login.asp" title="Log In">Sign In</a></span></div></td>
-
+			<td width="197"><div class="main-header-logo"><a href="/"><img src="/images/logo.png" alt="40Billion.com" width="181" height="51" border="0"></a></div></td>
+			<td width="113"><div class="main-header-profile section-link"><a href="/profile.asp">Profile</a></div></td>
+			<td width="103"><div class="main-header-contacts2 section-link"><a href="/contacts.asp">Contacts</a></div></td>
+			<td width="110"><div class="main-header-companies section-link"><a href="/companies.asp">Companies</a></div></td>
+			<td width="437"><div class="align-right">
+			  <table width="437" border="0" align="center" cellpadding="0" cellspacing="10">
+				<tbody><tr>
+					<td width="88%" nowrap=""><div class="main-header-loginbox align-right">
+						<nobr><input class="main-header-login" name="username" size="16" type="text" maxlength="255" autocomplete="ON" value="Email" onfocus="if(this.value=='Email'){this.value=''};" onblur="if(this.value==''){this.value='Email'};"><img src="/images/pixel.gif" height="1" width="17">
+						<input class="main-header-login" type="text" id="passwordtext" size="16" maxlength="40" autocomplete="OFF" value="Password" onclick="switchto(1)" onkeydown="switchto(1)">
+						<input class="main-header-login" name="password" type="password" id="password" size="16" maxlength="40" autocomplete="OFF" value="" onblur="if (this.value=='')switchto(0)" style="display:none;">
+						<img src="/images/pixel.gif" height="1" width="10"><input type="image" src="/images/button-login.gif" title="Log In" alt="Log In" name="submitlogin" id="submit1ogin" style="vertical-align:middle"></nobr>
+					</div></td>
+					<td width="12%"><div class="main-header-loginbox header-text align-right"><nobr><a href="/join.asp" title="Sign Up and Join" style="vertical-align:middle">Sign Up</a></nobr></div></td>
+				</tr>
+			  </tbody></table>
+			</div></td>
 		</tr>
 	</tbody></table>
 	</form>
+
 </div>
 
 <!-- End header -->
@@ -103,44 +130,39 @@
 <div class="main-footer" align="center">
 	<table width="960" border="0" cellspacing="0" cellpadding="0" class="main-footer-overlay">
 		<tbody><tr>
-			<td width="316"><div class="footer-text footer-left">Copyright © 2008-2012, 40Billion.com, Inc. Patents pending. All rights reserved. Atlanta, GA USA.
+			<td width="316"><div class="footer-text footer-left">Copyright © 2008-2013, 40Billion.com, Inc. Patents pending. All rights reserved. Atlanta, GA USA.
 				<br><br>Connect with us on <a href="http://blog.40billion.com">our blog</a>, or:
-				<br><br><a href="http://www.twitter.com/40Billion" target="_blank" title="40Billion on Twitter"><img src="images/twitter-button.jpg" border="0" alt="40Billion on Twitter"></a>&nbsp;&nbsp;&nbsp;<a href="http://www.linkedin.com/companies/40Billion.com/" target="_blank" title="40Billion on LinkedIn"><img src="images/linkedin-button.jpg" border="0" alt="40Billion on LinkedIn"></a>&nbsp;&nbsp;&nbsp;<a href="http://www.facebook.com/fortybillion" target="_blank" title="40Billion on Facebook"><img src="images/facebook-button.jpg" border="0" alt="40Billion on Facebook"></a>&nbsp;&nbsp;&nbsp;<a href="http://blog.40billion.com" target="_blank" title="40Billion Blog"><img src="images/rss-button.jpg" border="0" alt="40Billion Blog"></a>
-				<br><br>Use of this website constitutes acceptance of the 40Billion.com <a href="terms-of-use.asp">Terms of Use</a>, <a href="disclaimer.asp">Disclaimer</a> and <a href="privacy-policy.asp">Privacy Policy</a>.
+				<br><br><a href="http://www.twitter.com/40Billion" target="_blank" title="40Billion on Twitter"><img src="/images/twitter-button.jpg" border="0" alt="40Billion on Twitter"></a>&nbsp;&nbsp;&nbsp;<a href="http://www.linkedin.com/companies/40Billion.com/" target="_blank" title="40Billion on LinkedIn"><img src="/images/linkedin-button.jpg" border="0" alt="40Billion on LinkedIn"></a>&nbsp;&nbsp;&nbsp;<a href="http://www.facebook.com/fortybillion" target="_blank" title="40Billion on Facebook"><img src="/images/facebook-button.jpg" border="0" alt="40Billion on Facebook"></a>&nbsp;&nbsp;&nbsp;<a href="http://blog.40billion.com" target="_blank" title="40Billion Blog"><img src="/images/rss-button.jpg" border="0" alt="40Billion Blog"></a>
+				<br><br>Use of this website constitutes acceptance of the 40Billion.com <a href="/terms-of-use.asp">Terms of Use</a>, <a href="/disclaimer.asp">Disclaimer</a> and <a href="/privacy-policy.asp">Privacy Policy</a>.
 			</div></td>
 			<td width="335"><div class="footer-text footer-middle">
 				<a href="/">Home</a><br>
-				<a href="about-40billion.asp">About Us</a><br>
-				<a href="find-main.asp">Add a Small Business Resource</a><br>
-				<a href="find-people.asp">Add Contacts to Your Social Network</a><br>
-				<a href="raise-start.asp">Alternative Financing for Small Business</a><br>
-				<a href="find-main.asp">Advertise Your Business to Get Customers</a><br>
-				<a href="raise-start.asp">Business Financing and Business Capital</a><br>
-				<a href="contact-us.asp">Contact Us</a><br>
-				<a href="widgets.asp">Embed on Your Website or Blog</a><br>
-				<a href="FAQs.asp">FAQs</a><br>
-				<a href="raise-start.asp">Find Angel Investors</a><br>
-				<a href="raise-start.asp">Friends and Family Funding</a><br>
-				<a href="raise-start.asp">Get Loans for a Small Business</a><br>
+				<a href="/about-40billion.asp">About Us</a><br>
+				<a href="/companies.asp">Add a Company Listing</a><br>
+				<a href="/find-people.asp">Add Contacts to Your Social Network</a><br>
+				<a href="/companies.asp">Advertise Your Business to Get Customers</a><br>
+				<a href="/contact-us.asp">Contact Us</a><br>
+				<a href="/widgets.asp">Embed on Your Website or Blog</a><br>
+				<a href="/FAQs.asp">FAQs</a><br>
+				<br><br><br><br><br>
 			</div></td>
 			<td width="309"><div class="footer-text footer-right">
-				<a href="how-it-works.asp">How It Works</a><br>
-				<a href="startupguides/">How to Manage Cash Flow</a><br>
-				<a href="startupguides/">How to Write a Business Plan</a><br>
-				<a href="startupguides/">Incorporate, Form a Company or LLC</a><br>
-				<a href="invest-main.asp">Invest or Fund a Small Business</a><br>
+				<a href="/how-it-works.asp">How It Works</a><br>
+
+				<a href="/login.asp">Log In</a><br>
+
 				<a href="http://www.40billion.mobi/">Mobile Website</a><br>
-				<a href="startupguides/">Protecting Your Intellectual Property</a><br>
-				<a href="news-press-releases.asp">Press, Media, News</a><br>
-				<a href="raise-start.asp">Raise Money for a Small Business or Startup</a><br>
-				<a href="find-people-all.asp">Search for People, Friends, Contacts</a><br>
-				<a href="find-main.asp">Search Small Business Resources</a><br>
-				<a href="/elevator/forum/">Small Business Discussion Forums</a><br>
-				<a href="widgets.asp">Widgets</a><br>
+				<a href="/news-press-releases.asp">Press, Media, News</a><br>
+				<a href="/join.asp">Sign Up and Join</a><br>
+				<a href="/find-people-all.asp">Search for People, Friends, Contacts</a><br>
+				<a href="/companies.asp">Search Companies</a><br>
+				<a href="/search-posts.asp">Search Whiteboard Posts</a><br>
+				<br><br><br><br><br>
 			</div></td>
 		</tr>
 	</tbody></table>
 </div>
+<div><a id="floating_link" href="/contact-us.asp">Feedback</a><a id="floating_link2" href="/follow-us.asp">Follow</a></div>
 
 <!-- End footer -->
 
