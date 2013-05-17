@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the powermapper.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014170922id_/http%3A//www.powermapper.com/smallprint/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powermapper.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517094714id_/http%3A//www.powermapper.com/smallprint/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - PowerMapper.com
 
@@ -12,7 +12,7 @@ We collect these sorts of information on this site:
 
 
 
-We treat customer information as strictly confidential - it is never revealed to third parties. Online orders are processed by Plimus, please see the [Plimus Privacy Policy](http://www.plimus.com/privacy.shtml) for further details.
+We treat customer information as strictly confidential - it is never revealed to third parties. Online orders are processed by BlueSnap (formerly Plimus), please see the [BlueSnap Privacy Policy](http://www.bluesnap.com/ecommerce/legal/privacy-policy) for further details.
 
 We use customer information for the following purposes:
 
