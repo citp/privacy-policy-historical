@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the blogbydonna.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222195752id_/http%3A//blogbydonna.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogbydonna.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517145113id_/http%3A//blogbydonna.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Blog By DonnaBlog By Donna
 
 I own this website and own/control all content herein.
 
-We collect information from you when you respond to a survey or enter contests/giveaways.When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
+**What information do we collect?**
 
-Google, as a third party vendor, uses cookies to serve ads on our site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
+We collect information from you when you respond to a survey or enter contests/giveaways.When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.Google, as a third party vendor, uses cookies to serve ads on our site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
 **What do we use your information for?**
 
@@ -39,7 +39,7 @@ Occasionally, at our discretion, we may include or offer third party products or
 
 Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
 
-**Childrens Online Privacy Protection Act Compliance**
+**Children’s Online Privacy Protection Act Compliance**
 
 We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
 
@@ -50,3 +50,19 @@ This online privacy policy applies only to information collected through our web
 **Your Consent**
 
 By using our site, you consent to our [online privacy policy](http://www.freeprivacypolicy.com/).
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page.This policy was last modified on 6/25/2011
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may contact us using the information below.
+
+[http://blogbydonna.com](http://blogbydonna.com/)  
+[donna@blogbydonna.com](https://web.archive.org/web/20130517145113id_/http%3A//blogbydonna.com/donna@blogbydonna.com)
+
+  
+
+
+### Share and Enjoy
