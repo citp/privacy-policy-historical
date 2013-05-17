@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tasker.wikidot.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229185057id_/http%3A//www.wikidot.com/legal%3Aprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tasker.wikidot.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517060744id_/http%3A//www.wikidot.com/legal%3Aprivacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Wikidot - Free and Pro Wiki Hosting
 
