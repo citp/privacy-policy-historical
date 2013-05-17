@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the novatech.co.uk privacy policy that was archived on 2012-10-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121016161927id_/http%3A//www.novatech.co.uk/privacyandsecurity.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the novatech.co.uk privacy policy that was archived on 2013-05-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130517165243id_/http%3A//www.novatech.co.uk/privacyandsecurity.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <title>Privacy and Security - novatech.co.uk</title>
@@ -8,11 +8,39 @@
 <link href="/css/global-layout.css" rel="stylesheet" type="text/css">
 <link href="/css/miscpages.css" rel="stylesheet" type="text/css">
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/js/jquery-1.8.2.min.js"></script>
+<script type="text/javascript"> 
+$(document).ready(function() {
+	$('#back-to-top').click(function(){
+		$('html, body').animate({scrollTop:0}, 'slow');
+		return false;
+		});
+});
 
+$(window).scroll(function() {
+    if ($(this).scrollTop() > 790) {
+    	if($(window).width()>1150){
+    		$("#back-to-top").show();	
+    	}
+    	else { 
+    		$("#back-to-top").hide();
+    	}	
+    }
+    else {
+        $("#back-to-top").hide();
+    }
+});
+
+
+</script>
 
 <link href="/css/jquery.gritter.css" rel="stylesheet" type="text/css">
 <script type="text/javascript" src="/js/jquery.gritter.min.js"></script>
 <script type="text/javascript" src="/js/novatech.js?v5"></script>
+
+<!--[if IE]>
+<link href="/css/ie.css" rel="stylesheet" type="text/css">
+<!-->
+
 
 
 
@@ -51,9 +79,6 @@ var theEl;
 	 $(window).scroll(function(){
 		 $(".wintest").css("top",$(".wintest").parent().position().top + 40-$(window).scrollTop());
 		 }); 
-	
-	 
-
 	 
 $("ul#menu li").hover(
   function () {
@@ -128,16 +153,45 @@ $(document).ready(function(){
 	
 	
 	
-	
+	$("div#header-social .social-icon").mouseenter(function (e) {
+	    $(".social-icon").stop().animate({opacity: 1},300);    
+	            $(this).siblings().stop().animate({opacity: 0.3}, 300);   
+	            e.stopPropagation();
+	    });
+
+	$("div#header-social .social-icon").mouseleave(function (e) {
+	    $(".social-icon").stop().animate({opacity: 1},300);    
+	            $(this).siblings().stop().animate({opacity: 1}, 300);   
+	            e.stopPropagation();
+	  
 	});
+
+	$(window).resize(function() {
+
+		 if ($(this).scrollTop() > 790) {
+	if($(window).width()>1150){
+		
+		$('#back-to-top').show();	
+	}
+	else { 
+		$('#back-to-top').hide();
+	}	
+		 }
+		 });
+	
+});
 	
 	</script>
 
-<div class="promoButtonOuter1"><a href="/promo/sleepingdogs.html"><div class="promoButton1"></div></a></div>
-<div class="promoButtonOuter2"><a href=""><div class="promobutton2"></div></a></div>
-<div class="basketOverlay3" id="business-popup" style="z-index: auto; background-image: none; top: 820.9px; left: 701.5px; position: absolute; display: none;"><a class="close"></a>
+<div class="promoButtonOuter1"><a href="/promo/tahiti2.html" target="_blank"><div class="promoButton1"></div></a></div>
+<div class="promoButtonOuter2"><a href="/promo/pitcairn2.html" target="_blank"><div class="promoButton2"></div></a></div>
+<div class="promoButtonOuter3"><a href="/promo/nvidia-freetoplay.html" target="_blank"><div class="promoButton3"></div></a></div>
+<div class="promoButtonOuter4"><a href="http://www.evga.com/articles/00726/" target="_blank"><div class="promoButton4"></div></a></div>
+<div class="promoButtonOuter5"><a href="/promo/nvidia-metrolastlight.html" target="_blank"><div class="promoButton5"></div></a></div>
 
 
+
+<div class="basketOverlay3" id="business-popup" style="z-index: auto; background-image: none; float:left; margin-left:50%; left:-300px; position: absolute; display: none;"><a class="close"></a>
 
 <div id="business-popup-top">
 <h1>Welcome to the <span class="business-popup-bold-text">Novatech Business</span> Site</h1>
@@ -264,14 +318,14 @@ var dataString = 'n='+ escape(name) + '&c=' + escape(company) + '&e=' + escape(e
 
 </div>
 
-<p class="business-popup-notregistered-text">Already registered? <a href="/login.html">Sign In</a></p>
+<p class="business-popup-notregistered-text">Already registered? <a onclick="createCookie('businessPop','1',365);" href="/login.html?b=1">Sign In</a></p>
 
 </div>
 <!-- POPUP FORM -->
 
 <div id="business-popup-bottom">
 <a href="javascript:void(0);" onclick="eraseCookie('businessPref');refresh();"><img src="http://images.novatech.co.uk/website2011/not-a-business-customer.jpg" class="business-popup-notbusiness-button"></a>
-<a href="javascript:void(0);" onclick="createCookie('businessPop','1',365);$('#business-popup').overlay().close();"><img src="http://images.novatech.co.uk/website2011/continue-businesspopup-button.jpg"></a>
+<a href="javascript:void(0);" onclick="$('#business-popup').overlay().close();"><img src="http://images.novatech.co.uk/website2011/continue-businesspopup-button.jpg"></a>
 </div>
 
 </div>
@@ -294,6 +348,8 @@ var dataString = 'n='+ escape(name) + '&c=' + escape(company) + '&e=' + escape(e
 <div id="new-header-links">
 
 <ul id="signinlist">
+<li><a href="/contact.html">Help</a></li>
+<li>|</li>
 <li><a href="/myaccount.html">Sign in</a></li>
 <li>|</li>
 <li><a href="/createaccount.html">Sign up</a></li>
@@ -338,17 +394,14 @@ jsItemsInBasket = 0
 <div id="search_suggest"> </div>		
 </div>
 </div>
+
 <!-- BOTTOM NAV -->
 <div id="new-navigation-bar">
-     
-     
 
-
-	     <ul id="menu">
-<li class="mega1"><h2><a href="/pc/" class="dropdown">Desktop PCs</a></h2><div class="wintest"><table><tbody><tr><td valign="top" align="left"><ul class="nav-list"></ul><img src="/images/red-arrow-topmenu.png" alt="menuBulletPoint"><h2>Category</h2><ul class="nav-list"><li><a href="/pc/?s=1" class="menuLink">Everyday use</a></li><li><a href="/pc/?s=2" class="menuLink">Pro</a></li><li><a href="/pc/?s=5" class="menuLink">High Performance</a></li></ul><p></p><ul class="nav-list"></ul><img src="/images/red-arrow-topmenu.png" alt="menuBulletPoint"><h2>Use</h2><ul class="nav-list"><li><a href="/pc/home/" class="menuLink">Home</a></li><li><a href="/pc/business/" class="menuLink">Business</a></li><li><a href="/pc/gaming/" class="menuLink">Gaming</a></li><li><a href="/pc/all/" class="rangeallLink">View all PCs</a></li></ul></td><td valign="top" align="left"><ul class="nav-list"></ul><img src="/images/red-arrow-topmenu.png" alt="menuBulletPoint"><h2>PC Extras</h2><ul class="nav-list"><li><a href="/motherboardbundles/" class="menuLink">Motherboard Bundles</a></li><li><a href="/barebonebundles/" class="menuLink">Barebone Bundles</a></li><li><a href="/products/components/memory-pc/" class="menuLink">Memory - PC</a></li><li><a href="/products/components/harddrives-internal/" class="menuLink">Hard Drives - Internal</a></li><li><a href="/products/components/harddrives-external/" class="menuLink">Hard Drives - External</a></li><li><a href="/products/components/powersupplies/" class="menuLink">Power Supplies</a></li><li><a href="/products/components/opticaldrives/" class="menuLink">Optical Drives</a></li><li><a href="/products/peripherals/keyboards/" class="menuLink">Keyboards</a></li><li><a href="/products/peripherals/miceandtrackballs/" class="menuLink">Mice &amp; Trackballs</a></li><li><a href="/products/peripherals/speakers/" class="menuLink">Speakers</a></li></ul><p></p><ul class="nav-list"></ul><img src="/images/red-arrow-topmenu.png" alt="menuBulletPoint"><h2>More</h2><ul class="nav-list"><li><a href="/promo/windows8upgradeoffer.html" class="menuLink">Windows 8 Upgrade</a></li><li><a href="/carepackinformation.html" class="menuLink">Extended Carepacks</a></li><li><a href="/clearance.html" class="menuLink">Clearance PCs</a></li></ul></td></tr></tbody></table></div></li><li class="mega2"><h2><a href="/laptop/" class="dropdown">Laptops</a></h2><div class="wintest"><table><tbody><tr><td valign="top" align="left"><ul class="nav-list"></ul><img src="/images/red-arrow-topmenu.png" alt="menuBulletPoint"><h2>Category</h2><ul class="nav-list"><li><a href="/laptop/?s=1" class="menuLink">Everyday use</a></li><li><a href="/laptop/?s=2" class="menuLink">Pro</a></li><li><a href="/laptop/?s=3" class="menuLink">Ultrabook</a></li><li><a href="/laptop/?s=4" class="menuLink">Slimbook</a></li><li><a href="/laptop/?s=5" class="menuLink">High Performance</a></li></ul><p></p><ul class="nav-list"></ul><img src="/images/red-arrow-topmenu.png" alt="menuBulletPoint"><h2>Use</h2><ul class="nav-list"><li><a href="/laptop/home/" class="menuLink">Home</a></li><li><a href="/laptop/business/" class="menuLink">Business</a></li><li><a href="/laptop/gaming/" class="menuLink">Gaming</a></li></ul><p></p><ul class="nav-list"><li><a href="/laptop/all/" class="rangeallLink">View all Laptops</a></li></ul></td><td valign="top" align="left"><ul class="nav-list"></ul><img src="/images/red-arrow-topmenu.png" alt="menuBulletPoint"><h2>Laptop Extras</h2><ul class="nav-list"><li><a href="/products/laptops/laptopaccessories/acadapters/" class="menuLink">Adapters</a></li><li><a href="/products/laptops/laptopaccessories/" class="menuLink">Accessories</a></li><li><a href="/products/laptops/laptopbatteries/" class="menuLink">Batteries</a></li><li><a href="/products/laptops/laptopcases/" class="menuLink">Cases</a></li><li><a href="/products/laptops/laptopaccessories/security/" class="menuLink">Security</a></li></ul><p></p><ul class="nav-list"></ul><img src="/images/red-arrow-topmenu.png" alt="menuBulletPoint"><h2>More</h2><ul class="nav-list"><li><a href="/promo/windows8upgradeoffer.html" class="menuLink">Windows 8 Upgrade</a></li><li><a href="/carepackinformation.html" class="menuLink">Extended Carepacks</a></li><li><a href="/clearance.html" class="menuLink">Clearance Laptops</a></li></ul></td></tr></tbody></table></div></li><li class="mega3"><h2><a href="/products/components/" class="dropdown">PC Components</a></h2><div class="wintest"><table><tbody><tr><td valign="top" align="left"><ul class="nav-list"></ul><img src="/images/red-arrow-topmenu.png" alt="menuBulletPoint"><h2>Components</h2><ul class="nav-list"><li><a href="/products/components/casemodsandlighting/" class="menuLink">Case Mods &amp; Lighting</a></li><li><a href="/products/components/cases/" class="menuLink">Cases</a></li><li><a href="/products/components/controllercards/" class="menuLink">Controller Cards</a></li><li><a href="/products/components/cooling/" class="menuLink">Cooling</a></li><li><a href="/products/components/floppydiskdrives/" class="menuLink">Floppy Disk Drives</a></li><li><a href="/products/components/modems/" class="menuLink">Modems</a></li><li><a href="/products/components/motherboards/" class="menuLink">Motherboards</a></li><li><a href="/products/components/opticaldrives/" class="menuLink">Optical Drives</a></li><li><a href="/products/components/pctoolsandkits/" class="menuLink">PC Tools &amp; Kits</a></li><li><a href="/products/components/powersupplies/" class="menuLink">Power Supplies</a></li><li><a href="/products/components/soundcards/" class="menuLink">Sound Cards</a></li><li><a href="/products/components/tvtunercards/" class="menuLink">TV Tuner Cards</a></li></ul></td><td valign="top" align="left"><ul class="nav-list"></ul><img src="/images/red-arrow-topmenu.png" alt="menuBulletPoint"><h2>Memory</h2><ul class="nav-list"><li><a href="/products/components/memory-laptop/" class="menuLink">Laptop Memory</a></li><li><a href="/products/components/memory-pc/" class="menuLink">PC Memory</a></li></ul><p></p><ul class="nav-list"></ul><img src="/images/red-arrow-topmenu.png" alt="menuBulletPoint"><h2>Processors</h2><ul class="nav-list"><li><a href="/products/components/processors/amd/" class="menuLink">AMD Processors</a></li><li><a href="/products/components/processors/intel/" class="menuLink">Intel Processors</a></li><li><a href="/products/components/cooling/cpucoolers/" class="menuLink">Processor cooling</a></li></ul><p></p><ul class="nav-list"></ul><img src="/images/red-arrow-topmenu.png" alt="menuBulletPoint"><h2>Bundles</h2><ul class="nav-list"><li><a href="/motherboardbundles/" class="menuLink">Motherboard Bundles</a></li><li><a href="/barebonebundles/" class="menuLink">Barebone Bundles</a></li></ul></td><td valign="top" align="left"><ul class="nav-list"></ul><img src="/images/red-arrow-topmenu.png" alt="menuBulletPoint"><h2>Storage</h2><ul class="nav-list"><li><a href="/products/storage/" class="menuLink">Backup Storage</a></li><li><a href="/products/components/harddrives-external/" class="menuLink">Hard Drive - External</a></li><li><a href="/products/components/harddrives-internal/" class="menuLink">Hard Drives - Internal</a></li><li><a href="/products/components/harddrives-internal/solidstate/" class="menuLink">Hard Drives - SSD</a></li><li><a href="/products/components/memory-flash/" class="menuLink">Flash Memory</a></li><li><a href="/products/components/memory-usb/" class="menuLink">USB Memory Sticks</a></li><li><a href="/products/components/harddrives-external/harddriveenclosures/" class="menuLink">Hard Drive Enclosures</a></li></ul><p></p><ul class="nav-list"></ul><img src="/images/red-arrow-topmenu.png" alt="menuBulletPoint"><h2>Graphics Cards</h2><ul class="nav-list"><li><a href="/products/components/amdradeongraphicscards/" class="menuLink">Graphics - AMD</a></li><li><a href="/products/components/nvidiageforcegraphicscards/" class="menuLink">Graphics - NVIDIA</a></li></ul></td></tr></tbody></table></div></li><li class="mega4"><h2><a href="/products/monitors/" class="dropdown">Monitors</a></h2><div class="wintest"><table><tbody><tr><td valign="top" align="left"><ul class="nav-list"><li><a href="/products/monitors/17inchmonitors/" class="menuLink">17" Monitors</a></li><li><a href="/products/monitors/19inchmonitors/" class="menuLink">19" Monitors</a></li><li><a href="/products/monitors/20inchmonitors/" class="menuLink">20" Monitors</a></li><li><a href="/products/monitors/22inchmonitors/" class="menuLink">22" Monitors</a></li><li><a href="/products/monitors/23inchmonitors/" class="menuLink">23" Monitors</a></li><li><a href="/products/monitors/24inchmonitors/" class="menuLink">24" Monitors</a></li><li><a href="/products/monitors/26inchplusmonitors/" class="menuLink">26"+ Monitors</a></li><li><a href="/products/monitors/30inchmonitors/" class="menuLink">30" Monitors</a></li><li><a href="/products/monitors/3dmonitors/" class="menuLink">3D Monitors</a></li><li><a href="/products/monitors/hardglassmonitors/" class="menuLink">Hard Glass</a></li><li><a href="/products/monitors/monitoraccessories/" class="menuLink">Accessories</a></li><li><a href="/products/monitors/touchscreenmonitors/" class="menuLink">Touch Screen</a></li></ul></td></tr></tbody></table></div></li><li class="mega5"><h2><a href="/products/peripherals/" class="dropdown">Peripherals</a></h2><div class="wintest"><table><tbody><tr><td valign="top" align="left"><ul class="nav-list"></ul><img src="/images/red-arrow-topmenu.png" alt="menuBulletPoint"><h2>Peripherals</h2><ul class="nav-list"><li><a href="/products/peripherals/desktopkits/" class="menuLink">Desktop Kits</a></li><li><a href="/products/peripherals/graphicstablets/" class="menuLink">Graphics Tablets</a></li><li><a href="/products/peripherals/keyboards/" class="menuLink">Keyboards</a></li><li><a href="/products/peripherals/kvmandswitchboxes/" class="menuLink">KVM &amp; Switch Boxes</a></li><li><a href="/products/peripherals/miceandtrackballs/" class="menuLink">Mice and Trackballs</a></li><li><a href="/products/peripherals/mousemats/" class="menuLink">Mouse Mats</a></li><li><a href="/products/peripherals/pcjoysticksandcontrollers/" class="menuLink">PC Joysticks &amp; Controllers</a></li><li><a href="/products/peripherals/pduandsurgeprotection/" class="menuLink">PDU &amp; Surge Protection</a></li><li><a href="/products/peripherals/uninterruptiblepowersupplies/" class="menuLink">Uninterruptible Power Supplies</a></li><li><a href="/products/peripherals/usbhubs/" class="menuLink">USB Hubs</a></li></ul></td><td valign="top" align="left"><ul class="nav-list"></ul><img src="/images/red-arrow-topmenu.png" alt="menuBulletPoint"><h2>Multimedia</h2><ul class="nav-list"><li><a href="/products/digitalcameras/" class="menuLink">Digital Cameras</a></li><li><a href="/products/soundandvision/mediaextenders/" class="menuLink">Media Extenders</a></li><li><a href="/products/printers/" class="menuLink">Printers</a></li><li><a href="/products/peripherals/microphonesandheadsets/" class="menuLink">Microphones &amp; Headsets</a></li><li><a href="/products/peripherals/scanners/" class="menuLink">Scanners</a></li><li><a href="/products/peripherals/speakers/" class="menuLink">Speakers</a></li><li><a href="/products/soundandvision/" class="menuLink">Sound &amp; Vision</a></li><li><a href="/products/toysandgadgets/" class="menuLink">Toys &amp; Gadgets</a></li><li><a href="/products/peripherals/webcams/" class="menuLink">Web Cams</a></li></ul><p></p><ul class="nav-list"></ul><img src="/images/red-arrow-topmenu.png" alt="menuBulletPoint"><h2>Cables</h2><ul class="nav-list"><li><a href="/products/cables/" class="rangeallLink">View all</a></li></ul></td><td valign="top" align="left"><ul class="nav-list"></ul><img src="/images/red-arrow-topmenu.png" alt="menuBulletPoint"><h2>Consumables</h2><ul class="nav-list"><li><a href="/products/consumables/blankcds/" class="menuLink">Blank CDs</a></li><li><a href="/products/consumables/blankdvds/" class="menuLink">Blank DVDs</a></li><li><a href="/products/consumables/laserprinterconsumables/" class="menuLink">Laser Print Supplies</a></li><li><a href="/products/consumables/printercartridges/" class="menuLink">Printer Cartridges</a></li><li><a href="/products/consumables/printerpaper/" class="menuLink">Printer Paper</a></li><li><a href="/inkandtoner.html" class="menuLink">Ink and Toner Selector</a></li></ul><p></p><ul class="nav-list"></ul><img src="/images/red-arrow-topmenu.png" alt="menuBulletPoint"><h2>Storage</h2><ul class="nav-list"><li><a href="/products/components/opticaldrives/externaldvdwriters/" class="menuLink">DVD Writers - External</a></li><li><a href="/products/components/harddrives-external/" class="menuLink">Hard Drives - External</a></li><li><a href="/products/components/memory-usb/" class="menuLink">USB Memory Sticks</a></li></ul></td></tr></tbody></table></div></li><li class="mega6"><h2><a href="/products/networking/" class="dropdown">Networking</a></h2><div class="wintest"><table><tbody><tr><td valign="top" align="left"><ul class="nav-list"></ul><img src="/images/red-arrow-topmenu.png" alt="menuBulletPoint"><h2>Network</h2><ul class="nav-list"><li><a href="/products/networking/modems/" class="menuLink">Modems</a></li><li><a href="/products/cables/networkingcables/" class="menuLink">Networking Cables</a></li><li><a href="/products/networking/networkinterfacecards/" class="menuLink">Network Interface Cards</a></li><li><a href="/products/networking/networksecurity/" class="menuLink">Network Security</a></li><li><a href="/products/networking/powerline/" class="menuLink">Powerline</a></li><li><a href="/products/networking/printservers/" class="menuLink">Print Servers</a></li><li><a href="/products/networking/routers/" class="menuLink">Routers</a></li><li><a href="/server/" class="menuLink">Servers</a></li><li><a href="/products/networking/switches/" class="menuLink">Switches</a></li><li><a href="/products/networking/wirelessnetworking/" class="menuLink">Wireless Networking</a></li></ul></td><td valign="top" align="left"><ul class="nav-list"></ul><img src="/images/red-arrow-topmenu.png" alt="menuBulletPoint"><h2>Extras</h2><ul class="nav-list"><li><a href="/products/networking/bluetooth/" class="menuLink">Bluetooth</a></li><li><a href="/products/networking/cctvandsecurity/" class="menuLink">CCTV &amp; Security</a></li><li><a href="/products/networking/ipsecurity/" class="menuLink">IP Security</a></li><li><a href="/products/networking/iptelephony/" class="menuLink">IP Telephony</a></li><li><a href="/products/networking/kvm/" class="menuLink">KVM</a></li><li><a href="/products/networking/networkattachedstorage/" class="menuLink">Network Attached Storage</a></li><li><a href="/products/networking/poweroverethernet/" class="menuLink">Power Over Ethernet (PoE)</a></li><li><a href="/products/networking/racksandcabinets/" class="menuLink">Racks &amp; Cabinets</a></li><li><a href="/products/networking/toolsandtoolkits/" class="menuLink">Tools &amp; Tool Kits</a></li></ul></td><td valign="top" align="left"><ul class="nav-list"></ul><img src="/images/red-arrow-topmenu.png" alt="menuBulletPoint"><h2>Servers</h2><ul class="nav-list"><li><a href="/server/?s=7" class="menuLink">Rackmount</a></li><li><a href="/server/?s=6" class="menuLink">Tower</a></li><li><a href="/server/?s=9" class="menuLink">Workstation</a></li><li><a href="/server/all/" class="rangeallLink">View all</a></li></ul></td></tr></tbody></table></div></li><li class="mega7"><h2><a href="/gaming.html" class="dropdown">Gaming</a></h2><div class="wintest"><table><tbody><tr></tr></tbody></table></div></li><li class="mega8"><h2><a href="/products/software/" class="dropdown">Software</a></h2><div class="wintest"><table><tbody><tr></tr></tbody></table></div></li><li class="mega9"><h2><a href="/promo/todaysdeal.html" class="dropdown">Deals</a></h2><div class="wintest"><table><tbody><tr></tr></tbody></table></div>
-     </li></ul>
+<ul id="menu">
+<li class="mega1"><h2><a href="/pc/" class="dropdown">Desktop PCs</a></h2><div class="wintest"><table><tbody><tr><td valign="top" align="left"><ul class="nav-list"></ul><img src="/images/red-arrow-topmenu.png" alt="menuBulletPoint"><h2>Category</h2><ul class="nav-list"><li><a href="/pc/?s=1" class="menuLink">Everyday use</a></li><li><a href="/pc/?s=2" class="menuLink">Pro</a></li><li><a href="/pc/?s=5" class="menuLink">High Performance</a></li></ul><p></p><ul class="nav-list"></ul><img src="/images/red-arrow-topmenu.png" alt="menuBulletPoint"><h2>Use</h2><ul class="nav-list"><li><a href="/pc/home/" class="menuLink">Home</a></li><li><a href="/pc/business/" class="menuLink">Business</a></li><li><a href="/pc/gaming/" class="menuLink">Gaming</a></li><li><a href="/pc/all/" class="rangeallLink">View all PCs</a></li></ul></td><td valign="top" align="left"><ul class="nav-list"></ul><img src="/images/red-arrow-topmenu.png" alt="menuBulletPoint"><h2>PC Extras</h2><ul class="nav-list"><li><a href="/motherboardbundles/" class="menuLink">Motherboard Bundles</a></li><li><a href="/barebonebundles/" class="menuLink">Barebone Bundles</a></li><li><a href="/products/components/memory-pc/" class="menuLink">Memory - PC</a></li><li><a href="/products/components/harddrives-internal/" class="menuLink">Hard Drives - Internal</a></li><li><a href="/products/components/harddrives-external/" class="menuLink">Hard Drives - External</a></li><li><a href="/products/components/powersupplies/" class="menuLink">Power Supplies</a></li><li><a href="/products/components/opticaldrives/" class="menuLink">Optical Drives</a></li><li><a href="/products/peripherals/keyboards/" class="menuLink">Keyboards</a></li><li><a href="/products/peripherals/miceandtrackballs/" class="menuLink">Mice &amp; Trackballs</a></li><li><a href="/products/peripherals/speakers/" class="menuLink">Speakers</a></li></ul><p></p><ul class="nav-list"></ul><img src="/images/red-arrow-topmenu.png" alt="menuBulletPoint"><h2>More</h2><ul class="nav-list"><li><a href="/carepackinformation.html" class="menuLink">Carepack Information</a></li><li><a href="/clearance.html" class="menuLink">Clearance PCs</a></li><li><a href="/servicecentre" class="menuLink">Service Centre</a></li></ul></td></tr></tbody></table></div></li><li class="mega2"><h2><a href="/laptop/" class="dropdown">Laptops</a></h2><div class="wintest"><table><tbody><tr><td valign="top" align="left"><ul class="nav-list"></ul><img src="/images/red-arrow-topmenu.png" alt="menuBulletPoint"><h2>Category</h2><ul class="nav-list"><li><a href="/laptop/?s=1" class="menuLink">Everyday use</a></li><li><a href="/laptop/?s=2" class="menuLink">Pro</a></li><li><a href="/laptop/?s=3" class="menuLink">Ultrabook</a></li><li><a href="/laptop/?s=4" class="menuLink">Slimbook</a></li><li><a href="/laptop/?s=5" class="menuLink">High Performance</a></li></ul><p></p><ul class="nav-list"></ul><img src="/images/red-arrow-topmenu.png" alt="menuBulletPoint"><h2>Use</h2><ul class="nav-list"><li><a href="/laptop/home/" class="menuLink">Home</a></li><li><a href="/laptop/business/" class="menuLink">Business</a></li><li><a href="/laptop/gaming/" class="menuLink">Gaming</a></li></ul><p></p><ul class="nav-list"><li><a href="/laptop/all/" class="rangeallLink">View all Laptops</a></li></ul></td><td valign="top" align="left"><ul class="nav-list"></ul><img src="/images/red-arrow-topmenu.png" alt="menuBulletPoint"><h2>Laptop Extras</h2><ul class="nav-list"><li><a href="/products/laptops/laptopaccessories/acadapters/" class="menuLink">Adapters</a></li><li><a href="/products/laptops/laptopaccessories/" class="menuLink">Accessories</a></li><li><a href="/products/laptops/laptopbatteries/" class="menuLink">Batteries</a></li><li><a href="/products/laptops/laptopcases/" class="menuLink">Cases</a></li><li><a href="/products/laptops/laptopaccessories/security/" class="menuLink">Security</a></li></ul><p></p><ul class="nav-list"></ul><img src="/images/red-arrow-topmenu.png" alt="menuBulletPoint"><h2>More</h2><ul class="nav-list"><li><a href="/carepackinformation.html" class="menuLink">Carepack Information</a></li><li><a href="/clearance.html" class="menuLink">Clearance Laptops</a></li><li><a href="/servicecentre" class="menuLink">Service Centre</a></li></ul></td></tr></tbody></table></div></li><li class="mega3"><h2><a href="/products/tabletpcs/" class="dropdown">Tablets</a></h2><div class="wintest"><table><tbody><tr></tr></tbody></table></div></li><li class="mega4"><h2><a href="/products/components/" class="dropdown">PC Components</a></h2><div class="wintest"><table><tbody><tr><td valign="top" align="left"><ul class="nav-list"></ul><img src="/images/red-arrow-topmenu.png" alt="menuBulletPoint"><h2>Components</h2><ul class="nav-list"><li><a href="/products/components/casemodsandlighting/" class="menuLink">Case Mods &amp; Lighting</a></li><li><a href="/products/components/cases/" class="menuLink">Cases</a></li><li><a href="/products/components/controllercards/" class="menuLink">Controller Cards</a></li><li><a href="/products/components/cooling/" class="menuLink">Cooling</a></li><li><a href="/products/components/floppydiskdrives/" class="menuLink">Floppy Disk Drives</a></li><li><a href="/products/components/modems/" class="menuLink">Modems</a></li><li><a href="/products/components/motherboards/" class="menuLink">Motherboards</a></li><li><a href="/products/components/opticaldrives/" class="menuLink">Optical Drives</a></li><li><a href="/products/components/pctoolsandkits/" class="menuLink">PC Tools &amp; Kits</a></li><li><a href="/products/components/powersupplies/" class="menuLink">Power Supplies</a></li><li><a href="/products/components/soundcards/" class="menuLink">Sound Cards</a></li><li><a href="/products/components/tvtunercards/" class="menuLink">TV Tuner Cards</a></li></ul></td><td valign="top" align="left"><ul class="nav-list"></ul><img src="/images/red-arrow-topmenu.png" alt="menuBulletPoint"><h2>Memory</h2><ul class="nav-list"><li><a href="/products/components/memory-laptop/" class="menuLink">Laptop Memory</a></li><li><a href="/products/components/memory-pc/" class="menuLink">PC Memory</a></li></ul><p></p><ul class="nav-list"></ul><img src="/images/red-arrow-topmenu.png" alt="menuBulletPoint"><h2>Processors</h2><ul class="nav-list"><li><a href="/products/components/processors/amd/" class="menuLink">AMD Processors</a></li><li><a href="/products/components/processors/intel/" class="menuLink">Intel Processors</a></li><li><a href="/products/components/cooling/cpucoolers/" class="menuLink">Processor cooling</a></li></ul><p></p><ul class="nav-list"></ul><img src="/images/red-arrow-topmenu.png" alt="menuBulletPoint"><h2>Bundles</h2><ul class="nav-list"><li><a href="/motherboardbundles/" class="menuLink">Motherboard Bundles</a></li><li><a href="/barebonebundles/" class="menuLink">Barebone Bundles</a></li></ul></td><td valign="top" align="left"><ul class="nav-list"></ul><img src="/images/red-arrow-topmenu.png" alt="menuBulletPoint"><h2>Storage</h2><ul class="nav-list"><li><a href="/products/storage/" class="menuLink">Backup Storage</a></li><li><a href="/products/components/harddrives-external/" class="menuLink">Hard Drive - External</a></li><li><a href="/products/components/harddrives-internal/" class="menuLink">Hard Drives - Internal</a></li><li><a href="/products/components/harddrives-internal/solidstate/" class="menuLink">Hard Drives - SSD</a></li><li><a href="/products/components/memory-flash/" class="menuLink">Flash Memory</a></li><li><a href="/products/components/memory-usb/" class="menuLink">USB Memory Sticks</a></li><li><a href="/products/components/harddrives-external/harddriveenclosures/" class="menuLink">Hard Drive Enclosures</a></li></ul><p></p><ul class="nav-list"></ul><img src="/images/red-arrow-topmenu.png" alt="menuBulletPoint"><h2>Graphics Cards</h2><ul class="nav-list"><li><a href="/products/components/amdradeongraphicscards/" class="menuLink">Graphics - AMD</a></li><li><a href="/products/components/nvidiageforcegraphicscards/" class="menuLink">Graphics - NVIDIA</a></li></ul></td></tr></tbody></table></div></li><li class="mega5"><h2><a href="/products/monitors/" class="dropdown">Monitors</a></h2><div class="wintest"><table><tbody><tr><td valign="top" align="left"><ul class="nav-list"><li><a href="/products/monitors/17inchmonitors/" class="menuLink">17" Monitors</a></li><li><a href="/products/monitors/19inchmonitors/" class="menuLink">19" Monitors</a></li><li><a href="/products/monitors/20inchmonitors/" class="menuLink">20" Monitors</a></li><li><a href="/products/monitors/22inchmonitors/" class="menuLink">22" Monitors</a></li><li><a href="/products/monitors/23inchmonitors/" class="menuLink">23" Monitors</a></li><li><a href="/products/monitors/24inchmonitors/" class="menuLink">24" Monitors</a></li><li><a href="/products/monitors/26inchplusmonitors/" class="menuLink">26"+ Monitors</a></li><li><a href="/products/monitors/30inchmonitors/" class="menuLink">30" Monitors</a></li><li><a href="/products/monitors/3dmonitors/" class="menuLink">3D Monitors</a></li><li><a href="/products/monitors/hardglassmonitors/" class="menuLink">Hard Glass</a></li><li><a href="/products/monitors/multi-functionmonitors/" class="menuLink">Multi-Function Monitors</a></li><li><a href="/products/monitors/monitoraccessories/" class="menuLink">Accessories</a></li><li><a href="/products/monitors/touchscreenmonitors/" class="menuLink">Touch Screen</a></li></ul></td></tr></tbody></table></div></li><li class="mega6"><h2><a href="/products/peripherals/" class="dropdown">Peripherals</a></h2><div class="wintest"><table><tbody><tr><td valign="top" align="left"><ul class="nav-list"></ul><img src="/images/red-arrow-topmenu.png" alt="menuBulletPoint"><h2>Peripherals</h2><ul class="nav-list"><li><a href="/products/peripherals/desktopkits/" class="menuLink">Desktop Kits</a></li><li><a href="/products/peripherals/graphicstablets/" class="menuLink">Graphics Tablets</a></li><li><a href="/products/peripherals/keyboards/" class="menuLink">Keyboards</a></li><li><a href="/products/peripherals/kvmandswitchboxes/" class="menuLink">KVM &amp; Switch Boxes</a></li><li><a href="/products/peripherals/miceandtrackballs/" class="menuLink">Mice and Trackballs</a></li><li><a href="/products/peripherals/mousemats/" class="menuLink">Mouse Mats</a></li><li><a href="/products/peripherals/pcjoysticksandcontrollers/" class="menuLink">PC Joysticks &amp; Controllers</a></li><li><a href="/products/peripherals/pduandsurgeprotection/" class="menuLink">PDU &amp; Surge Protection</a></li><li><a href="/products/peripherals/uninterruptiblepowersupplies/" class="menuLink">Uninterruptible Power Supplies</a></li><li><a href="/products/peripherals/usbhubs/" class="menuLink">USB Hubs</a></li></ul></td><td valign="top" align="left"><ul class="nav-list"></ul><img src="/images/red-arrow-topmenu.png" alt="menuBulletPoint"><h2>Multimedia</h2><ul class="nav-list"><li><a href="/products/digitalcameras/" class="menuLink">Digital Cameras</a></li><li><a href="/products/soundandvision/mediaextenders/" class="menuLink">Media Extenders</a></li><li><a href="/products/printers/" class="menuLink">Printers</a></li><li><a href="/products/peripherals/microphonesandheadsets/" class="menuLink">Microphones &amp; Headsets</a></li><li><a href="/products/peripherals/scanners/" class="menuLink">Scanners</a></li><li><a href="/products/peripherals/speakers/" class="menuLink">Speakers</a></li><li><a href="/products/soundandvision/" class="menuLink">Sound &amp; Vision</a></li><li><a href="/products/toysandgadgets/" class="menuLink">Toys &amp; Gadgets</a></li><li><a href="/products/peripherals/webcams/" class="menuLink">Web Cams</a></li></ul><p></p><ul class="nav-list"></ul><img src="/images/red-arrow-topmenu.png" alt="menuBulletPoint"><h2>Cables</h2><ul class="nav-list"><li><a href="/products/cables/" class="rangeallLink">View all</a></li></ul></td><td valign="top" align="left"><ul class="nav-list"></ul><img src="/images/red-arrow-topmenu.png" alt="menuBulletPoint"><h2>Consumables</h2><ul class="nav-list"><li><a href="/products/consumables/blankcds/" class="menuLink">Blank CDs</a></li><li><a href="/products/consumables/blankdvds/" class="menuLink">Blank DVDs</a></li><li><a href="/products/consumables/laserprinterconsumables/" class="menuLink">Laser Print Supplies</a></li><li><a href="/products/consumables/printercartridges/" class="menuLink">Printer Cartridges</a></li><li><a href="/products/consumables/printerpaper/" class="menuLink">Printer Paper</a></li><li><a href="/inkandtoner.html" class="menuLink">Ink and Toner Selector</a></li></ul><p></p><ul class="nav-list"></ul><img src="/images/red-arrow-topmenu.png" alt="menuBulletPoint"><h2>Storage</h2><ul class="nav-list"><li><a href="/products/components/opticaldrives/externaldvdwriters/" class="menuLink">DVD Writers - External</a></li><li><a href="/products/components/harddrives-external/" class="menuLink">Hard Drives - External</a></li><li><a href="/products/components/memory-usb/" class="menuLink">USB Memory Sticks</a></li></ul></td></tr></tbody></table></div></li><li class="mega7"><h2><a href="/products/networking/" class="dropdown">Networking</a></h2><div class="wintest"><table><tbody><tr><td valign="top" align="left"><ul class="nav-list"></ul><img src="/images/red-arrow-topmenu.png" alt="menuBulletPoint"><h2>Network</h2><ul class="nav-list"><li><a href="/products/networking/modems/" class="menuLink">Modems</a></li><li><a href="/products/cables/networkingcables/" class="menuLink">Networking Cables</a></li><li><a href="/products/networking/networkinterfacecards/" class="menuLink">Network Interface Cards</a></li><li><a href="/products/networking/networksecurity/" class="menuLink">Network Security</a></li><li><a href="/products/networking/powerline/" class="menuLink">Powerline</a></li><li><a href="/products/networking/printservers/" class="menuLink">Print Servers</a></li><li><a href="/server/" class="menuLink">Servers</a></li><li><a href="/products/networking/switches/" class="menuLink">Switches</a></li><li><a href="/products/networking/wirelessnetworking/" class="menuLink">Wireless Networking</a></li><li><a href="/products/networking/routers/" class="menuLink">Wired Routers</a></li></ul></td><td valign="top" align="left"><ul class="nav-list"></ul><img src="/images/red-arrow-topmenu.png" alt="menuBulletPoint"><h2>Extras</h2><ul class="nav-list"><li><a href="/products/networking/bluetooth/" class="menuLink">Bluetooth</a></li><li><a href="/products/networking/cctvandsecurity/" class="menuLink">CCTV &amp; Security</a></li><li><a href="/products/networking/ipsecurity/" class="menuLink">IP Security</a></li><li><a href="/products/networking/iptelephony/" class="menuLink">IP Telephony</a></li><li><a href="/products/networking/kvm/" class="menuLink">KVM</a></li><li><a href="/products/networking/networkattachedstorage/" class="menuLink">Network Attached Storage</a></li><li><a href="/products/networking/poweroverethernet/" class="menuLink">Power Over Ethernet (PoE)</a></li><li><a href="/products/networking/racksandcabinets/" class="menuLink">Racks &amp; Cabinets</a></li><li><a href="/products/networking/toolsandtoolkits/" class="menuLink">Tools &amp; Tool Kits</a></li></ul></td><td valign="top" align="left"><ul class="nav-list"></ul><img src="/images/red-arrow-topmenu.png" alt="menuBulletPoint"><h2>Servers</h2><ul class="nav-list"><li><a href="/server/?s=7" class="menuLink">Rackmount</a></li><li><a href="/server/?s=6" class="menuLink">Tower</a></li><li><a href="/server/?s=9" class="menuLink">Workstation</a></li><li><a href="/server/all/" class="rangeallLink">View all</a></li></ul></td></tr></tbody></table></div></li><li class="mega8"><h2><a href="/gaming.html" class="dropdown">Gaming</a></h2><div class="wintest"><table><tbody><tr></tr></tbody></table></div></li><li class="mega9"><h2><a href="/products/software/" class="dropdown">Software</a></h2><div class="wintest"><table><tbody><tr></tr></tbody></table></div></li><li class="mega10"><h2><a href="/deals" class="dropdown">Deals</a></h2><div class="wintest"><table><tbody><tr></tr></tbody></table></div>
+</li></ul>
      
-
  </div>
 <!-- BOTTOM NAV -->
 
@@ -358,12 +411,11 @@ jsItemsInBasket = 0
 <p class="header-callus"><a href="/contact.html">Chat online</a> or Call us <span class="header-callus-bold">023 9232 2500</span> Mon - Sat, 9am - 5pm</p>
 
 <div id="header-social">
-<a href="https://twitter.com/NovatechLtd" target="_blank"><img src="http://images.novatech.co.uk/website2011/header-twitter.png" alt="Novatech Twitter Feed" title="Novatech Twitter Feed"></a>
-<a href="https://www.facebook.com/NovatechLtd" target="_blank"><img src="http://images.novatech.co.uk/website2011/header-facebook.png" alt="Novatech Facebook Page" title="Novatech Facebook Page"></a>
-<a href="https://www.youtube.com/user/NovatechLTD" target="_blank"><img src="http://images.novatech.co.uk/website2011/header-youtube.png" alt="Novatech YouTube Channel" title="Novatech YouTube Channel"></a>
-<a href="http://blog.novatech.co.uk" target="_blank"><img src="http://images.novatech.co.uk/website2011/header-blog.png" alt="Novatech Blog" title="Novatech Blog"></a>
-<a href="http://forum.novatech.co.uk" target="_blank"><img src="http://images.novatech.co.uk/website2011/header-forum.png" alt="Novatech Forum" title="Novatech Forum"></a>
-
+<div class="twitter"><a href="https://twitter.com/NovatechLtd" target="_blank"></a></div>
+<div class="facebook"><a href="https://www.facebook.com/NovatechLtd" target="_blank"></a></div>
+<div class="youtube"><a href="https://www.youtube.com/user/NovatechLTD" target="_blank"></a></div>
+<div class="blog"><a href="http://blog.novatech.co.uk" target="_blank"></a></div>
+<div class="forum"><a href="http://forum.novatech.co.uk" target="_blank"></a></div>
 </div>
 
 </div>
@@ -372,8 +424,7 @@ jsItemsInBasket = 0
 </div>
 
 </div>
-<!-- NAVBAR CONTAINER -->
-   
+<!-- NAVBAR CONTAINER -->   
     
 <!-- breadcrumb-bar START -->   
 <div id="breadcrumb-bar">
@@ -484,6 +535,7 @@ function changeimage(div){
 <li><a href="/tradingschemes.html">Trading Schemes </a></li>
 <li><a href="/deliveryuk.html">UK Delivery Charges </a></li>
 <li><a href="/deliveryeurope.html">European Delivery Charges </a></li>
+<li><a href="/paybreak.html">Paybreak Information </a></li>
 </ul>
 </div>
 </div>
@@ -591,26 +643,32 @@ When you order, we need to know your name, e-mail address, delivery address, the
 
 
 
+
 <!-- FOOTER -->
 <div id="footer">
+
+<!-- BACK TO TOP SECTION -->
+<div id="back-to-top"><img src="http://images.novatech.co.uk/website2011/backtotop.png"></div>
+<!-- BACK TO TOP SECTION -->
 
 <!-- SOCIAL MEDIA BAR -->
 <div id="footer-socialmedia">
 
-<div id="footer-socialmedia-left">
-<span>Connect with us</span>
-<a href="https://twitter.com/NovatechLtd" target="_blank"><img src="http://images.novatech.co.uk/website2011/header-twitter.png" alt="Novatech Twitter Feed" title="Novatech Twitter Feed"></a>
-<a href="https://www.facebook.com/NovatechLtd" target="_blank"><img src="http://images.novatech.co.uk/website2011/header-facebook.png" alt="Novatech Facebook Page" title="Novatech Facebook Page"></a>
-<a href="https://www.youtube.com/user/NovatechLTD" target="_blank"><img src="http://images.novatech.co.uk/website2011/header-youtube.png" alt="Novatech YouTube Channel" title="Novatech YouTube Channel"></a>
-<a href="http://blog.novatech.co.uk" target="_blank"><img src="http://images.novatech.co.uk/website2011/header-blog.png" alt="Novatech Blog" title="Novatech Blog"></a>
-<a href="http://forum.novatech.co.uk" target="_blank"><img src="http://images.novatech.co.uk/website2011/header-forum.png" alt="Novatech Forum" title="Novatech Forum"></a>
-
-</div>
+<script language="javascript">
+function testSubForm(){
+	if($("#listemail").val().length > 0 && $("#listemail").val() != "Enter your email address here"){
+		return true;
+	}else{
+		alert("Please enter your email address to sign up to our mailing list.");
+		return false;
+	}
+}
+</script>
 
 <div id="footer-socialmedia-right">
 <span>Hear from us</span>
-<form action="http://listserve.novatech.co.uk/subscribe/subscribe.tml" method="POST">
-<input type="text" name="email" class="specialoffersbox" value="Enter your email address here" onfocus="doClear(this)">
+<form action="http://listserve.novatech.co.uk/subscribe/subscribe.tml" method="POST" onsubmit="return testSubForm();">
+<input type="text" id="listemail" name="email" class="specialoffersbox" value="Enter your email address here" onfocus="doClear(this)">
 <input type="submit" name="subscribe" value="" class="specialofferssignup">
 	    <input type="hidden" name="list" value="eweekly">
 	    <input type="hidden" name="confirm" value="none">
@@ -633,6 +691,7 @@ When you order, we need to know your name, e-mail address, delivery address, the
 <li><a href="/contact.html?d=s">Sales</a></li>
 <li><a href="/contact.html?d=c">Customer Services</a></li>
 <li><a href="/stores.html">Our Stores</a></li>
+<li><a href="/jobs.html">Jobs at Novatech</a></li>
 <li><a href="/webmaster.html">Get in touch (webmaster)</a></li>
 <li><a href="http://forum.novatech.co.uk" target="_blank">Forum</a></li>
 </ul>
@@ -649,6 +708,7 @@ When you order, we need to know your name, e-mail address, delivery address, the
 <li><a href="/privacyandsecurity.html">Privacy &amp; Security</a></li>
 <li><a href="/WEEEregulations.html">Novatech &amp; WEEE Regulations</a></li>
 <li><a href="/tradingschemes.html">Trading Schemes</a></li>
+<li><a href="/quality-and-environmental-policy.html">Quality &amp; Environmental Policy</a></li>
 </ul>
 </div>
 
@@ -703,7 +763,7 @@ When you order, we need to know your name, e-mail address, delivery address, the
 
 
 <div id="footer-bottom">
-<p>© Copyright 2000-2012 Novatech Ltd - Computer Supplies | Company Reg No: 2605046 | WV 7.3.1 - ba</p>
+<p>© Copyright 2000-2013 Novatech Ltd - Computer Supplies | Company Reg No: 2605046 | WV 7.3.1 - ba</p>
 <p>Head Office - Novatech Ltd, Harbour House, Hamilton Road, Cosham, Portsmouth, PO6 4PU</p>
 </div>
 
