@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quickquid.co.uk privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018233005id_/http%3A//www.quickquid.co.uk/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickquid.co.uk privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518000418id_/https%3A//www.quickquid.co.uk/privacy_policy.html) for the most accurate reproduction.*
 
 # Payday Loans: Cash Advances & Payday Loans @ www.quickquid.co.uk
 
@@ -83,6 +83,7 @@ If you do not want to receive cookies from us, please follow the procedures belo
 
 ### Cookies Used by QuickQuid
 
+  * **Security Cookies** – Session cookies used to support security measures within the site.
   * **Yield Manager** – This is a tracking pixel that records traffic coming from 3rd party sources.
   * **LivePerson** – A tracking pixel used to track web session for customer service web chat.
   * **Quick Quid** – Contains a session cookie recognizing applicant to process loan application through completion
@@ -254,4 +255,4 @@ N13 4BS
 
 We reserve the right to change this Privacy Policy at any time by notifying you of the existence and location of the new or revised privacy policy or by posting the changes online at our Website.
 
-Privacy Policy last amended 16 August 2012
+Privacy Policy last amended 16 November 2012
