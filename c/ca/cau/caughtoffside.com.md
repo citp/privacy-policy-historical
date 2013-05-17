@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the caughtoffside.com privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125082434id_/http%3A//www.caughtoffside.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caughtoffside.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517025613id_/http%3A//www.caughtoffside.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CaughtOffside
+
+≈
 
 by **peterbevan** July 14th, 2012
 
