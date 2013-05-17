@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dinartrade.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509233523id_/http%3A//www.dinartrade.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dinartrade.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517061808id_/https%3A//www.dinartrade.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy : New Iraqi Dinar : Buy Safe Dinars : Sell Iraqi Dinar : Latest Iraqi Dinar Exchange Rate Value for Sale : Iraqi Dinar News Forum : DinarTrade.com
+# Dinar Trade - Iraqi Dinar - Buy or Sell Iraqi Dinar to Invest in Your Future | Dinartrade.com
 
 This privacy notice discloses the privacy practices for www.dinartrade.com. This privacy notice applies solely to information collected by this web site. It will notify you of the following: 
 
