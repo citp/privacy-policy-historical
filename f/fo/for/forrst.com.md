@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the forrst.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023035956id_/http%3A//forrst.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forrst.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517183614id_/http%3A//forrst.com/legal/privacy) for the most accurate reproduction.*
 
-# Forrst is a community for developers and designers - Forrst
+# Forrst | Forrst is a community for developers and designers
 
-Forrst may collect certain information from you on or through this website (the " **Site** "). Forrst, LLC uses this information to deliver the services offered on the Site, to inform you of changes to the Site or your account, to enhance the Site, to prevent illegal or potentially prohibited conduct, and to enforce our Terms of Use (the " **Terms** "), which incorporate this Privacy Policy by reference.
+Forrst may collect certain information from you on or through this website (the " **Site** "). ZURB, Inc. uses this information to deliver the services offered on the Site, to inform you of changes to the Site or your account, to enhance the Site, to prevent illegal or potentially prohibited conduct, and to enforce our Terms of Use (the " **Terms** "), which incorporate this Privacy Policy by reference.
 
 This Privacy Policy governs Forrst's information management policies including, without limitation, how Forrst gathers, stores or shares your information, if at all. Notwithstanding anything to the contrary, this Privacy Policy does not apply to information that is gathered or collected offline.
 
@@ -23,17 +23,17 @@ We take your privacy very seriously and we work hard to earn and keep your trust
 
 Some features and advertisements on the Site may contain "cookies" or similar preference-tracking technologies. A cookie is a small data file stored by your Internet browser, provided that your computer is set to accept cookies. Cookies help improve the user experience by identifying and gathering information about a user, their browser and preferences for websites they have already visited. The use of cookies allows us to better understand how our users interact with the Site so we can work to improve your user experience.
 
-Most modern Internet browsers allow you to change your settings to prevent the storage of new cookies, receive warnings prior to their storage, or to delete cookies from your computer altogether. Please review your browser's instructions for more information, or visit http://www.cookiecentral.com/faq. Please be aware that if you choose to disable cookies, some portions of the Site may cease functioning properly.
+Most modern Internet browsers allow you to change your settings to prevent the storage of new cookies, receive warnings prior to their storage, or to delete cookies from your computer altogether. Please review your browser's instructions for more information, or visit <http://www.cookiecentral.com/faq>. Please be aware that if you choose to disable cookies, some portions of the Site may cease functioning properly.
 
 **2. _Third-Party Providers_**
 
-Forrst does not and cannot control cookies in advertisements placed by our authorized advertising partners. This Privacy Policy does not govern the privacy practices of third parties who gather information directly from you to provide advertisements on this Site and other websites. The Site may embed or contain links and advertisements for third party websites. Similarly, third-party websites may embed or contain links and advertisements for the Site. Forrst cannot control and is not responsible for the privacy practices or content on any non-Forrst websites. Forrst is therefore not liable for your use of and exposure to such third-party websites and any content or advertisements they contain. You should familiarize yourself with the privacy policies and terms of use of these third parties to better understand their information management policies.
+Forrst does not and cannot control cookies in advertisements placed by our authorized advertising partners. This Privacy Policy does not govern the privacy practices of third parties who gather information directly from you to provide advertisements on this Site and other websites. The Site may embed or contain links and advertisements for third-party websites. Similarly, third-party websites may embed or contain links and advertisements for the Site. Forrst cannot control and is not responsible for the privacy practices or content on any non-Forrst websites. Forrst is therefore not liable for your use of and exposure to such third-party websites and any content or advertisements they contain. You should familiarize yourself with the privacy policies and terms of use of these third parties to better understand their information management policies.
 
 If you choose to opt in to receive communications from a third party, any information you provide to said third party, will be subject to the privacy policy of the third party. If you later decide to opt out, you should contact the third party directly.
 
 **3. _No Spam, Spyware or Spoofing_**
 
-We do not tolerate spam. You are not licensed or otherwise permitted to add other users on the Site to your mailing list (email or physical mail, or any other medium) without their explicit consent. To report spam or spoof emails to Forrst, please forward the email to hello@forrst.com. You may not use our communication tools to send spam or otherwise send content that would violate the Terms.
+We do not tolerate spam. You are not licensed or otherwise permitted to add other users on the Site to your mailing list (email or physical mail, or any other medium) without their explicit consent. To report spam or spoof emails to Forrst, please forward the email to [hello@forrst.com](mailto:hello@forrst.com). You may not use our communication tools to send spam or otherwise send content that would violate the Terms.
 
 **4. _Anonymous Information_**
 
@@ -47,7 +47,7 @@ In order to use certain features on the Site, including, without limitation, use
 
 Once you give us your personal information, you are no longer anonymous to us. By providing us with personal information, you consent to our collection and storage of your information.
 
-Your name may be publicly available on the Internet when you use some features of the Site, such as user comments, forums, instant messaging, e-mail, or social networking functions. Use your discretion when using these services. This Privacy Policy does not govern or protect any information that you have publicly disclosed on the Site. It is your responsibility to review what information you wish to share with members and non-members of the Site. You are solely responsible for any public content in your user profile. You may review, amend or delete any and all information and content associated with your User Account by signing in to your account on the Site. You may also request the deactivation of your User Account by sending an e-mail to hello@forrst.com.
+Your name may be publicly available on the Internet when you use some features of the Site, such as user comments, forums, instant messaging, e-mail, or social networking functions. Use your discretion when using these services. This Privacy Policy does not govern or protect any information that you have publicly disclosed on the Site. It is your responsibility to review what information you wish to share with members and non-members of the Site. You are solely responsible for any public content in your user profile. You may review, amend or delete any and all information and content associated with your User Account by signing in to your account on the Site. You may also request the deactivation of your User Account by sending an e-mail to [hello@forrst.com](mailto:hello@forrst.com).
 
 Your use of the Site and your provision of any personally identifiable information constitutes your consent for Forrst to provide your information to third parties who provide certain support services, such as processing of credit card transactions, or customer service, as applicable. In all cases, these third parties are explicitly prohibited from using, sharing, selling or otherwise distributing your customer data for their own marketing purposes, unless you choose to opt in for such additional uses and/or disclosure by the third parties, under their respective privacy policies.
 
@@ -83,8 +83,8 @@ Forrst may at any time and in its sole discretion, add, modify, or remove any fe
 
 If there are any questions regarding this Privacy Policy you may contact us using the information below.
 
-Forrst Inc. 12 Desbrosses St. New York, NY 10013
+Forrst Inc. 55 N 3rd Street Campbell, CA 95008
 
 **11. _Last Modification_**
 
-This Privacy Policy was last modified on October 18, 2010.
+This Privacy Policy was last modified on January 8, 2013.
