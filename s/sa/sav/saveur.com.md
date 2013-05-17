@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saveur.com privacy policy that was archived on 2012-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120930065434id_/http%3A//www.saveur.com/article/library/Privacy-Policy-1198078434868) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saveur.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517060845id_/http%3A//www.saveur.com/article/library/Privacy-Policy-1198078434868) for the most accurate reproduction.*
 
 # Privacy Policy - Saveur.com
 
