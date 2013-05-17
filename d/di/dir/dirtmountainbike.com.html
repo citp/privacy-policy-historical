@@ -1,18 +1,19 @@
-<!--The following is the downloaded HTML source of the dirtmountainbike.com privacy policy that was archived on 2012-11-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121123154726id_/http%3A//mpora.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dirtmountainbike.com privacy policy that was archived on 2013-05-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130517145051id_/http%3A//mpora.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=""><!--<![endif]--><head>
 <title>MPORA Action Sports Network</title>
 
 <meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport">
-<meta content="app-id=516605417" name="apple-itunes-app">
+<meta content="app-id=516605417, app-argument=http://mpora.com/about/privacy" name="apple-itunes-app">
 <link href="/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
 <link href="https://plus.google.com/117983103455404867262/" rel="publisher">
+<link href="/opensearch.xml" rel="search" title="MPORA Video Search" type="application/opensearchdescription+xml">
 <link rel="alternate" hreflang="fr" href="http://mpora.fr/about/privacy">
 <link rel="alternate" hreflang="de" href="http://mpora.de/about/privacy">
-<link href="http://assets.mporatrons.com/assets/application-2ba8ae8a4c5a5843fe7fef15a24ea514.css" media="all" rel="stylesheet" type="text/css">
+<link href="http://assets.mporatrons.com/assets/application-44a49b2aab3add2e1c805bbbc6dbceed.css" media="all" rel="stylesheet" type="text/css">
 <meta content="authenticity_token" name="csrf-param">
-<meta content="rXR25mhkRH9sfyRbP+m79J5JXU0ZkkYNsC4ktzoWrrk=" name="csrf-token">
+<meta content="BPx8iwgJjWAI8+L7Z3IRaIB/Mm3MsfDzDj9wjtmYyeo=" name="csrf-token">
 <meta content="Skateboarding, Surfing, Snowboarding, BMX, MTB, Motocross &amp; Extreme Sports" name="keywords">
 <meta content="Skateboarding, Surfing, Snowboarding, BMX, MTB, Motocross &amp; Extreme Sports on MPORA - Pure Action Sports" name="description">
 <meta content="en" http-equiv="content-language">
@@ -30,17 +31,30 @@
 
       window.Mpora = {
         env: 'production',
+        lang: 'en',
         log: function(m){
-          if(Mpora.env==='development' && console && typeof console.log === 'function') {
+          if(Mpora.env==='development' && 'console' in window && typeof console.log === 'function') {
             console.log.apply(console,arguments);
           }
+        },
+        onScriptLoaded: function(callback) {
+          window.Mpora.SCRIPT_LOADED_CALLBACKS = window.Mpora.SCRIPT_LOADED_CALLBACKS || [];
+          window.Mpora.SCRIPT_LOADED_CALLBACKS.push(callback);
+        },
+        runCallbacks: function(url) {
+          if(window.Mpora.SCRIPT_LOADED_CALLBACKS) {
+            for(var i=0; i < window.Mpora.SCRIPT_LOADED_CALLBACKS.length; i++) {
+              var callback = window.Mpora.SCRIPT_LOADED_CALLBACKS[i];
+              callback(url);
+            };
+          };
         }
       };
     
 //]]>
 </script>
 <!--[if lt IE 9]>
-<script src="http://assets.mporatrons.com/assets/independant/html5shiv-afa0d2f9de34ebf3f46ad98dbdcd7824.js" type="text/javascript"></script>
+<script src="http://assets.mporatrons.com/assets/independant/html5shiv-be2725c97b2d5ec1073583464b1cae64.js" type="text/javascript"></script>
 <![endif]-->
 <script>
   //<![CDATA[
@@ -76,7 +90,7 @@
       <!--[if lt IE 8]>
         <div id="upgrade-prompt">
           <h4>You are using an outdated and unsupported browser!</h4>
-          <p>We recommend you upgrade your browser or <a href="http://www.google.com/chromeframe/">install the Google Chrome Frame</a> plugin</p>
+          <p>We recommend you upgrade your browser or <a href="http://www.google.com/chromeframe/" rel="nofollow">install the Google Chrome Frame</a> plugin</p>
           <p>You may continue to browse the site but certain functions such as video upload may not work as expected</p>
         </div>
       <![endif]-->
@@ -84,9 +98,15 @@
 <div id="wrap">
 <header id="site-header"><div id="top-bar">
 <div id="user-buttons">
-<a class="top-button facebook" href="/auth/facebook">Facebook Connect</a>
-<a class="top-button" href="/login">Sign In</a>
-<a class="top-button" href="/register">Register</a>
+<a class="tracked top-button facebook" data-action="profile-options" data-category="navigation" data-label="facebook-connect" href="/auth/facebook">
+Facebook Connect
+</a>
+<a class="tracked top-button" data-action="profile-options" data-category="navigation" data-label="login" href="/login">
+Sign In
+</a>
+<a class="tracked top-button" data-action="profile-options" data-category="navigation" data-label="register" href="/register">
+Register
+</a>
 <div class="toggle top-button flag en" id="language-toggle">
 <a class="toggle-link" href="#languages">
 <span class="hide-mobile toggle-link">English</span>
@@ -113,7 +133,9 @@
 </div>
 <div id="ad-bar">
 <h2 id="logo">
-<a href="/" title="Back to homepage">Mpora</a>
+<a class="tracked" data-action="logo" data-category="navigation" data-label="homepage" href="/" title="Back to homepage">
+Mpora
+</a>
 </h2>
 <div class="ad-container ad-leaderboard ad-leaderboard-1"><div class="ad-placement ad-inline-placement" data-alias="leaderboard_1_all_general_en" data-height="90px" data-network-id="1299.1" data-placement-id="3737098" data-placement-type-code="225" data-width="728px" id="ad_leaderboard_1_all_general_en"><script language="javascript">
     <!--
@@ -122,18 +144,20 @@
     }
     document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn/3.0/1299.1/3737098/0/225/ADTECH;loc=100;target=_blank;alias=leaderboard_1_all_general_en;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
     //-->
-    </script><script language="javascript1.1" src="http://adserver.adtech.de/addyn/3.0/1299.1/3737098/0/225/ADTECH;loc=100;target=_blank;alias=leaderboard_1_all_general_en;grp=23;misc=1580430368359"></script><noscript><a href="http://adserver.adtech.de/adlink/3.0/1299.1/3737098/0/225/ADTECH;loc=300;alias=leaderboard_1_all_general_en" target="_blank"><img src="http://adserver.adtech.de/adserv/3.0/1299.1/3737098/0/225/ADTECH;loc=300;alias=leaderboard_1_all_general_en" border="0" width="728" height="90"></a></noscript></div></div>
+    </script><script language="javascript1.1" src="http://adserver.adtech.de/addyn/3.0/1299.1/3737098/0/225/ADTECH;loc=100;target=_blank;alias=leaderboard_1_all_general_en;grp=460;misc=1580430368326"></script><noscript><a href="http://adserver.adtech.de/adlink/3.0/1299.1/3737098/0/225/ADTECH;loc=300;alias=leaderboard_1_all_general_en" target="_blank" rel="nofollow"><img src="http://adserver.adtech.de/adserv/3.0/1299.1/3737098/0/225/ADTECH;loc=300;alias=leaderboard_1_all_general_en" border="0" width="728" height="90"></a></noscript></div></div>
 </div>
 <nav id="main-nav">
 <ul id="main-nav-top">
 <li class="selected" id="home-nav">
-<a href="/" title="home page">Home</a>
+<a class="tracked" data-action="home" data-category="navigation" data-label="homepage" href="/" title="home page">
+Home
+</a>
 <ul class="main-nav-sub">
 <li class="first">
-<a href="/videos">Videos</a>
+<a class="tracked" data-action="home" data-category="navigation" data-label="videos" href="/videos">Videos</a>
 </li>
 <li>
-<a href="/photos">Photos</a>
+<a class="tracked" data-action="home" data-category="navigation" data-label="photos" href="/photos">Photos</a>
 </li>
 </ul>
 </li>
@@ -144,218 +168,260 @@ Sports
 </a>
 </li>
 <li class="nav-sport-top " id="snowboarding-nav">
-<a href="/snowboarding" title="Snowboard">Snowboard</a>
+<a class="tracked" data-action="snowboarding" data-category="navigation" data-label="category-home" href="/snowboarding" title="Snowboard">
+Snowboard
+</a>
 <ul class="main-nav-sub">
 <li class="first">
-<a href="/snowboarding/videos">Snowboarding Videos</a>
+<a class="tracked" data-action="snowboarding" data-category="navigation" data-label="videos" href="/snowboarding/videos">Snowboarding Videos</a>
 </li>
 <li>
-<a href="/snowboarding/photos">Snowboarding Photos</a>
+<a class="tracked" data-action="snowboarding" data-category="navigation" data-label="photos" href="/snowboarding/photos">Snowboarding Photos</a>
 </li>
 <li class="external_0">
-<a href="http://onboard.mpora.com" target="_blank">onboard</a>
+<a class="tracked" data-action="snowboarding" data-category="navigation" data-label="onboard" href="http://onboard.mpora.com" target="_blank">onboard</a>
 </li>
 <li class="external_1">
-<a href="http://whitelines.mpora.com" target="_blank">whitelines</a>
+<a class="tracked" data-action="snowboarding" data-category="navigation" data-label="whitelines" href="http://whitelines.mpora.com" target="_blank">whitelines</a>
 </li>
 <li class="external_2">
-<a href="http://snowboardermbm.mpora.de" target="_blank">snowboardermbm</a>
+<a class="tracked" data-action="snowboarding" data-category="navigation" data-label="snowboardermbm" href="http://snowboardermbm.mpora.de" target="_blank">snowboardermbm</a>
 </li>
 </ul>
 </li>
 <li class="nav-sport-top " id="surfing-nav">
-<a href="/surfing" title="Surf">Surf</a>
+<a class="tracked" data-action="surfing" data-category="navigation" data-label="category-home" href="/surfing" title="Surf">
+Surf
+</a>
 <ul class="main-nav-sub">
 <li class="first">
-<a href="/surfing/videos">Surfing Videos</a>
+<a class="tracked" data-action="surfing" data-category="navigation" data-label="videos" href="/surfing/videos">Surfing Videos</a>
 </li>
 <li>
-<a href="/surfing/photos">Surfing Photos</a>
+<a class="tracked" data-action="surfing" data-category="navigation" data-label="photos" href="/surfing/photos">Surfing Photos</a>
 </li>
 <li class="external_0">
-<a href="http://surfeurope.mpora.com" target="_blank">surf europe</a>
+<a class="tracked" data-action="surfing" data-category="navigation" data-label="surf europe" href="http://surfeurope.mpora.com" target="_blank">surf europe</a>
 </li>
 <li class="external_1">
-<a href="http://surferspath.mpora.com" target="_blank">surfers path</a>
+<a class="tracked" data-action="surfing" data-category="navigation" data-label="surfers path" href="http://surferspath.mpora.com" target="_blank">surfers path</a>
 </li>
 <li class="external_2">
-<a href="http://cooler.mpora.com" target="_blank">cooler</a>
+<a class="tracked" data-action="surfing" data-category="navigation" data-label="cooler" href="http://cooler.mpora.com" target="_blank">cooler</a>
 </li>
 <li class="external_3">
-<a href="http://surfersmag.mpora.de" target="_blank">surfers mag</a>
+<a class="tracked" data-action="surfing" data-category="navigation" data-label="surfers mag" href="http://surfersmag.mpora.de" target="_blank">surfers mag</a>
 </li>
 </ul>
 </li>
 <li class="nav-sport-top " id="skateboarding-nav">
-<a href="/skateboarding" title="Skate">Skate</a>
+<a class="tracked" data-action="skateboarding" data-category="navigation" data-label="category-home" href="/skateboarding" title="Skate">
+Skate
+</a>
 <ul class="main-nav-sub">
 <li class="first">
-<a href="/skateboarding/videos">Skateboarding Videos</a>
+<a class="tracked" data-action="skateboarding" data-category="navigation" data-label="videos" href="/skateboarding/videos">Skateboarding Videos</a>
 </li>
 <li>
-<a href="/skateboarding/photos">Skateboarding Photos</a>
+<a class="tracked" data-action="skateboarding" data-category="navigation" data-label="photos" href="/skateboarding/photos">Skateboarding Photos</a>
 </li>
 <li class="external_0">
-<a href="http://kingpin.mpora.com" target="_blank">kingpin</a>
+<a class="tracked" data-action="skateboarding" data-category="navigation" data-label="kingpin" href="http://kingpin.mpora.com" target="_blank">kingpin</a>
 </li>
 <li class="external_1">
-<a href="http://sidewalk.mpora.com" target="_blank">sidewalk</a>
+<a class="tracked" data-action="skateboarding" data-category="navigation" data-label="sidewalk" href="http://sidewalk.mpora.com" target="_blank">sidewalk</a>
 </li>
 <li class="external_2">
-<a href="http://skateboardmsm.mpora.de" target="_blank">skateboardmsm</a>
+<a class="tracked" data-action="skateboarding" data-category="navigation" data-label="skateboardmsm" href="http://skateboardmsm.mpora.de" target="_blank">skateboardmsm</a>
 </li>
 </ul>
 </li>
 <li class="nav-sport-top " id="bmx-nav">
-<a href="/bmx" title="BMX">BMX</a>
+<a class="tracked" data-action="bmx" data-category="navigation" data-label="category-home" href="/bmx" title="BMX">
+BMX
+</a>
 <ul class="main-nav-sub">
 <li class="first">
-<a href="/bmx/videos">BMX Videos</a>
+<a class="tracked" data-action="bmx" data-category="navigation" data-label="videos" href="/bmx/videos">BMX Videos</a>
 </li>
 <li>
-<a href="/bmx/photos">BMX Photos</a>
+<a class="tracked" data-action="bmx" data-category="navigation" data-label="photos" href="/bmx/photos">BMX Photos</a>
 </li>
 <li>
-<a href="/bmxracing">BMX Racing</a>
+<a href="/bmxracing" class="tracked" data-action="bmxracing" data-category="navigation" data-label="category-home">BMX Racing</a>
 </li>
 <li>
-<a href="/bmxracing/photos">BMX Racing Photos</a>
+<a class="tracked" data-action="bmxracing" data-category="navigation" data-label="photos" href="/bmxracing/photos">
+BMX Racing Photos
+</a>
 </li>
 <li>
-<a href="/bmxracing/videos">BMX Racing Videos</a>
+<a class="tracked" data-action="bmxracing" data-category="navigation" data-label="videos" href="/bmxracing/videos">
+BMX Racing Videos
+</a>
 </li>
 <li class="external_0">
-<a href="http://digbmx.mpora.com" target="_blank">dig bmx</a>
+<a class="tracked" data-action="bmx" data-category="navigation" data-label="dig bmx" href="http://digbmx.mpora.com" target="_blank">dig bmx</a>
 </li>
 <li class="external_1">
-<a href="http://rideukbmx.mpora.com" target="_blank">ride uk bmx</a>
+<a class="tracked" data-action="bmx" data-category="navigation" data-label="ride uk bmx" href="http://rideukbmx.mpora.com" target="_blank">ride uk bmx</a>
 </li>
 <li class="external_2">
-<a href="http://bmxtalk.com" target="_blank">bmx talk</a>
+<a class="tracked" data-action="bmx" data-category="navigation" data-label="bmx talk" href="http://bmxtalk.com" target="_blank">bmx talk</a>
 </li>
 <li class="external_3">
-<a href="http://freedombmx.mpora.de" target="_blank">freedom bmx</a>
+<a class="tracked" data-action="bmx" data-category="navigation" data-label="freedom bmx" href="http://freedombmx.mpora.de" target="_blank">freedom bmx</a>
 </li>
 </ul>
 </li>
 <li class="nav-sport-top " id="mountainbiking-nav">
-<a href="/mountainbiking" title="MTB">MTB</a>
+<a class="tracked" data-action="mountainbiking" data-category="navigation" data-label="category-home" href="/mountainbiking" title="MTB">
+MTB
+</a>
 <ul class="main-nav-sub">
 <li class="first">
-<a href="/mountainbiking/videos">Mountain Biking Videos</a>
+<a class="tracked" data-action="mountainbiking" data-category="navigation" data-label="videos" href="/mountainbiking/videos">Mountain Biking Videos</a>
 </li>
 <li>
-<a href="/mountainbiking/photos">Mountain Biking Photos</a>
+<a class="tracked" data-action="mountainbiking" data-category="navigation" data-label="photos" href="/mountainbiking/photos">Mountain Biking Photos</a>
 </li>
 <li class="external_0">
-<a href="http://dirt.mpora.com" target="_blank">dirt</a>
+<a class="tracked" data-action="mountainbiking" data-category="navigation" data-label="dirt" href="http://dirt.mpora.com" target="_blank">dirt</a>
 </li>
 <li class="external_1">
-<a href="http://www.bikemagic.com" target="_blank">bike magic</a>
+<a class="tracked" data-action="mountainbiking" data-category="navigation" data-label="dirt de" href="http://dirt.mpora.de" target="_blank">dirt de</a>
+</li>
+<li class="external_2">
+<a class="tracked" data-action="mountainbiking" data-category="navigation" data-label="bike magic" href="http://www.bikemagic.com" target="_blank">bike magic</a>
+</li>
+<li class="external_3">
+<a class="tracked" data-action="mountainbiking" data-category="navigation" data-label="total womens cycling" href="http://totalwomenscycling.com" target="_blank">total womens cycling</a>
 </li>
 </ul>
 </li>
 <li class="nav-sport-top " id="motocross-nav">
-<a href="/motocross" title="Moto">Moto</a>
+<a class="tracked" data-action="motocross" data-category="navigation" data-label="category-home" href="/motocross" title="Moto">
+Moto
+</a>
 <ul class="main-nav-sub">
 <li class="first">
-<a href="/motocross/videos">Motocross Videos</a>
+<a class="tracked" data-action="motocross" data-category="navigation" data-label="videos" href="/motocross/videos">Motocross Videos</a>
 </li>
 <li>
-<a href="/motocross/photos">Motocross Photos</a>
+<a class="tracked" data-action="motocross" data-category="navigation" data-label="photos" href="/motocross/photos">Motocross Photos</a>
 </li>
 <li class="external_0">
-<a href="http://moto.mpora.com" target="_blank">moto</a>
+<a class="tracked" data-action="motocross" data-category="navigation" data-label="moto" href="http://moto.mpora.com" target="_blank">moto</a>
 </li>
 <li class="external_1">
-<a href="http://www.mxtrax.co.uk" target="_blank">mxtrax</a>
+<a class="tracked" data-action="motocross" data-category="navigation" data-label="mxtrax" href="http://www.mxtrax.co.uk" target="_blank">mxtrax</a>
 </li>
 <li class="external_2">
-<a href="http://motoxmag.mpora.de" target="_blank">motox</a>
+<a class="tracked" data-action="motocross" data-category="navigation" data-label="motox" href="http://motoxmag.mpora.de" target="_blank">motox</a>
 </li>
 </ul>
 </li>
 <li class="nav-sport-top " id="skiing-nav">
-<a href="/skiing" title="Ski">Ski</a>
+<a class="tracked" data-action="skiing" data-category="navigation" data-label="category-home" href="/skiing" title="Ski">
+Ski
+</a>
 <ul class="main-nav-sub">
 <li class="first">
-<a href="/skiing/videos">Ski Videos</a>
+<a class="tracked" data-action="skiing" data-category="navigation" data-label="videos" href="/skiing/videos">Ski Videos</a>
 </li>
 <li>
-<a href="/skiing/photos">Ski Photos</a>
+<a class="tracked" data-action="skiing" data-category="navigation" data-label="photos" href="/skiing/photos">Ski Photos</a>
 </li>
 <li class="external_0">
-<a href="http://skiunion.mpora.com" target="_blank">ski union</a>
+<a class="tracked" data-action="skiing" data-category="navigation" data-label="ski union" href="http://skiunion.mpora.com" target="_blank">ski union</a>
 </li>
 <li class="external_1">
-<a href="http://skiingmag.mpora.de" target="_blank">skiing mag</a>
+<a class="tracked" data-action="skiing" data-category="navigation" data-label="skiing mag" href="http://skiingmag.mpora.de" target="_blank">skiing mag</a>
 </li>
 </ul>
 </li>
 <li class="nav-sport-top " id="wakeboarding-nav">
-<a href="/wakeboarding" title="Wake">Wake</a>
+<a class="tracked" data-action="wakeboarding" data-category="navigation" data-label="category-home" href="/wakeboarding" title="Wake">
+Wake
+</a>
 <ul class="main-nav-sub">
 <li class="first">
-<a href="/wakeboarding/videos">Wakeboarding Videos</a>
+<a class="tracked" data-action="wakeboarding" data-category="navigation" data-label="videos" href="/wakeboarding/videos">Wakeboarding Videos</a>
 </li>
 <li>
-<a href="/wakeboarding/photos">Wakeboarding Photos</a>
+<a class="tracked" data-action="wakeboarding" data-category="navigation" data-label="photos" href="/wakeboarding/photos">Wakeboarding Photos</a>
 </li>
 </ul>
 </li>
 <li class="nav-sport-top " id="windsurfing-nav">
-<a href="/windsurfing" title="<span class=&quot;translation_missing&quot; title=&quot;translation missing: en.menu.windsurfing&quot;>Windsurfing</span>"><span class="translation_missing" title="translation missing: en.menu.windsurfing">Windsurfing</span></a>
+<a class="tracked" data-action="windsurfing" data-category="navigation" data-label="category-home" href="/windsurfing" title="<span class=&quot;translation_missing&quot; title=&quot;translation missing: en.menu.windsurfing&quot;>Windsurfing</span>">
+<span class="translation_missing" title="translation missing: en.menu.windsurfing">Windsurfing</span>
+</a>
 <ul class="main-nav-sub">
 <li class="first">
-<a href="/windsurfing/videos">Windsurfing Videos</a>
+<a class="tracked" data-action="windsurfing" data-category="navigation" data-label="videos" href="/windsurfing/videos">Windsurfing Videos</a>
 </li>
 <li>
-<a href="/windsurfing/photos">Windsurfing Photos</a>
+<a class="tracked" data-action="windsurfing" data-category="navigation" data-label="photos" href="/windsurfing/photos">Windsurfing Photos</a>
 </li>
 <li>
-<a href="/kitesurfing">Kitesurfing</a>
+<a href="/kitesurfing" class="tracked" data-action="kitesurfing" data-category="navigation" data-label="category-home">Kitesurfing</a>
 </li>
 <li>
-<a href="/kitesurfing/photos">Kitesurfing Photos</a>
+<a class="tracked" data-action="kitesurfing" data-category="navigation" data-label="photos" href="/kitesurfing/photos">
+Kitesurfing Photos
+</a>
 </li>
 <li>
-<a href="/kitesurfing/videos">Kitesurfing Videos</a>
+<a class="tracked" data-action="kitesurfing" data-category="navigation" data-label="videos" href="/kitesurfing/videos">
+Kitesurfing Videos
+</a>
 </li>
 <li class="external_0">
-<a href="http://boards.mpora.com" target="_blank">boards</a>
+<a class="tracked" data-action="windsurfing" data-category="navigation" data-label="boards" href="http://boards.mpora.com" target="_blank">boards</a>
 </li>
 <li class="external_1">
-<a href="http://www.boardseeker.com" target="_blank">boardseeker</a>
+<a class="tracked" data-action="windsurfing" data-category="navigation" data-label="boardseeker" href="http://www.boardseekermag.com" target="_blank">boardseeker</a>
 </li>
 </ul>
 </li>
 <li class="nav-sport-top " id="road-cycling-nav">
-<a href="/road-cycling" title="Roadcycling">Roadcycling</a>
+<a class="tracked" data-action="road-cycling" data-category="navigation" data-label="category-home" href="/road-cycling" title="Roadcycling">
+Roadcycling
+</a>
 <ul class="main-nav-sub">
 <li class="first">
-<a href="/road-cycling/videos">Road Cycling Videos</a>
+<a class="tracked" data-action="road-cycling" data-category="navigation" data-label="videos" href="/road-cycling/videos">Road Cycling Videos</a>
 </li>
 <li>
-<a href="/road-cycling/photos">Road Cycling Photos</a>
+<a class="tracked" data-action="road-cycling" data-category="navigation" data-label="photos" href="/road-cycling/photos">Road Cycling Photos</a>
 </li>
 <li class="external_0">
-<a href="http://www.roadcyclinguk.com" target="_blank">rcuk</a>
+<a class="tracked" data-action="road-cycling" data-category="navigation" data-label="rcuk" href="http://www.roadcyclinguk.com" target="_blank">rcuk</a>
+</li>
+<li class="external_1">
+<a class="tracked" data-action="road-cycling" data-category="navigation" data-label="total womens cycling" href="http://totalwomenscycling.com" target="_blank">total womens cycling</a>
 </li>
 </ul>
 </li>
 <li class="nav-sport-top " id="outdoor-nav">
-<a href="/outdoor" title="Outdoor">Outdoor</a>
+<a class="tracked" data-action="outdoor" data-category="navigation" data-label="category-home" href="/outdoor" title="Outdoor">
+Outdoor
+</a>
 <ul class="main-nav-sub">
 <li class="first">
-<a href="/outdoor/videos">Outdoor Videos</a>
+<a class="tracked" data-action="outdoor" data-category="navigation" data-label="videos" href="/outdoor/videos">Outdoor Videos</a>
 </li>
 <li>
-<a href="/outdoor/photos">Outdoor Photos</a>
+<a class="tracked" data-action="outdoor" data-category="navigation" data-label="photos" href="/outdoor/photos">Outdoor Photos</a>
+</li>
+<li class="external_0">
+<a class="tracked" data-action="outdoor" data-category="navigation" data-label="outside times" href="http://outsidetimes.com" target="_blank">outside times</a>
 </li>
 </ul>
 </li>
 <li id="blog">
-<a href="http://blog.mpora.com">
+<a class="tracked" data-action="blog" data-category="navigation" data-label="blog" href="http://blog.mpora.com">
 Blog
 </a>
 </li>
@@ -364,13 +430,13 @@ Blog
 </nav>
 <nav id="sub-nav" rel="sub navigation for Home section">
 <ul>
-<li><a href="/videos">Videos</a></li>
-<li><a href="/photos">Photos</a></li>
-<li><a href="/brands">Brands</a></li>
-<li><a href="/pros">Pros</a></li>
-<li><a href="/win">Win Stuff</a></li>
-<li><a href="/newsletter">Newsletters</a></li>
-<li><a href="/iphone">MPORA iPhone App</a></li>
+<li><a href="/videos" class="tracked" data-action="sub-nav" data-category="navigation" data-label="videos">Videos</a></li>
+<li><a href="/photos" class="tracked" data-action="sub-nav" data-category="navigation" data-label="photos">Photos</a></li>
+<li><a href="/brands" class="tracked" data-action="sub-nav" data-category="navigation" data-label="brands">Brands</a></li>
+<li><a href="/pros" class="tracked" data-action="sub-nav" data-category="navigation" data-label="pros">Pros</a></li>
+<li><a href="/win" class="tracked" data-action="sub-nav" data-category="navigation" data-label="competitions">Win Stuff</a></li>
+<li><a href="/newsletter" class="tracked" data-action="sub-nav" data-category="navigation" data-label="newsletter">Newsletters</a></li>
+<li><a href="/iphone" class="tracked" data-action="sub-nav" data-category="navigation" data-label="mobile-app">MPORA iPhone App</a></li>
 </ul>
 
 </nav>
@@ -481,7 +547,7 @@ Blog
     If we change our Policy we will post the changes on this page and may place notices on other pages of the Website. We will indicate at the top of this page the date the Policy was last amended.</p>
     <h3>11. Access to Personal Data</h3>
 
-  <p>The capture, storage and use of your data is governed by the Data Protection Act 1998. This Act also gives you the right to access information held about you. We are registered with the Information Commissioner's Office as a Data Controller, with registration number Z1289659.  Our registration can be confirmed by searching the Register of Data Controllers on the <a href="http://www.ico.gov.uk/" target="_blank">www.ico.gov.uk</a> website.<br>
+  <p>The capture, storage and use of your data is governed by the Data Protection Act 1998. This Act also gives you the right to access information held about you. We are registered with the Information Commissioner's Office as a Data Controller, with registration number Z1289659.  Our registration can be confirmed by searching the Register of Data Controllers on the <a href="http://www.ico.gov.uk/" target="_blank" rel="nofollow">www.ico.gov.uk</a> website.<br>
     <strong><br>
     Application for your data</strong> <br>
     Should you wish to obtain a copy of any personal data we have about you, please email us at privacy@factorymedia.com. We will provide you, with a readable copy of your personal data within 40 days of your request. The cost in most circumstances will be £10 per application. If the cost of processing your application is more than £10 we will notify you before proceeding.<br>
@@ -493,17 +559,17 @@ Blog
     If you consider that the information that we have about you is incorrect, incomplete or inaccurate, you must inform us promptly, so that we can make the necessary amendments.<br>
     <strong><br>
     Your enquiries</strong> <br>
-    If you have any queries regarding our Policy, please email your query to <a href="mailto:privacy@factorymedia.com">privacy@factorymedia.com</a></p>                    
+    If you have any queries regarding our Policy, please email your query to <a href="mailto:privacy@factorymedia.com">privacy@factorymedia.com</a></p>
 </div>
 <div class="rail">
   <div class="alpha">
 <div class="upload-box">
 <span class="mainText">Upload to MPORA</span>
 <div>
-<a class="greyButtonUpload vidButton" href="/videos/new">
+<a class="greyButtonUpload vidButton tracked" data-action="home" data-category="upload" data-label="video" href="/videos/new">
 <span>Video</span>
 </a>
-<a class="greyButtonUpload phButton" href="/photos/new" rel="nofollow">
+<a class="greyButtonUpload phButton tracked" data-action="home" data-category="upload" data-label="photo" href="/photos/new" rel="nofollow">
 <span>Photo</span>
 </a>
 </div>
@@ -540,7 +606,7 @@ Newsletter
 </ul>
 </div>
 
-<div class="fb-like-box" data-colorscheme="light" data-header="false" data-height="170" data-href="http://facebook.com/Mpora" data-layout="button_count" data-show-faces="true" data-stream="false" data-width="300"></div><script type="text/javascript">
+<div class="fb-like-box" data-colorscheme="light" data-header="false" data-height="185" data-href="http://facebook.com/Mpora" data-layout="button_count" data-show-faces="true" data-stream="false" data-width="300"></div><script type="text/javascript">
 //<![CDATA[
 
       (function(url){
@@ -560,18 +626,7 @@ Newsletter
     }
     document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn/3.0/1299.1/3737096/0/170/ADTECH;loc=100;target=_blank;alias=mpu_1_all_general_en;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
     //-->
-    </script><script language="javascript1.1" src="http://adserver.adtech.de/addyn/3.0/1299.1/3737096/0/170/ADTECH;loc=100;target=_blank;alias=mpu_1_all_general_en;grp=23;misc=1580430368379"></script><noscript><a href="http://adserver.adtech.de/adlink/3.0/1299.1/3737096/0/170/ADTECH;loc=300;alias=mpu_1_all_general_en" target="_blank"><img src="http://adserver.adtech.de/adserv/3.0/1299.1/3737096/0/170/ADTECH;loc=300;alias=mpu_1_all_general_en" border="0" width="300" height="250"></a></noscript></div></div>
-<div class="mpu">
-<a href="http://mpora.com/relentless/">
-<img alt="Relentless" class="ad max-mobile" src="http://assets.mporatrons.com/assets/ads/relentless-36b199ec488d47f39cc12fc651cecfea.jpg">
-</a>
-</div>
-<div class="mpu">
-<a href="http://ad.doubleclick.net/jump/N8119.150123.FACTORYMEDIA/B7167083.11;sz=1x1;ord=1234567891">
-<img alt="Go-pro" class="ad max-mobile" src="http://assets.mporatrons.com/assets/ads/go-pro-e2901007151b4d250464a0378f31ef0d.jpg">
-<img alt="Advertisment" border="0" height="1" src="http://ad.doubleclick.net/ad/N8119.150123.FACTORYMEDIA/B7167083.11;sz=1x1;ord=1234567891" width="1">
-</a>
-</div>
+    </script><script language="javascript1.1" src="http://adserver.adtech.de/addyn/3.0/1299.1/3737096/0/170/ADTECH;loc=100;target=_blank;alias=mpu_1_all_general_en;grp=460;misc=1580430368329"></script><noscript><a href="http://adserver.adtech.de/adlink/3.0/1299.1/3737096/0/170/ADTECH;loc=300;alias=mpu_1_all_general_en" target="_blank" rel="nofollow"><img src="http://adserver.adtech.de/adserv/3.0/1299.1/3737096/0/170/ADTECH;loc=300;alias=mpu_1_all_general_en" border="0" width="300" height="250"></a></noscript></div></div>
 <div class="ad-container ad-mpu ad-mpu-2"><div class="ad-placement ad-inline-placement" data-alias="mpu_2_all_general_en" data-height="250px" data-network-id="1299.1" data-placement-id="3737096" data-placement-type-code="170" data-width="300px" id="ad_mpu_2_all_general_en"><script language="javascript">
     <!--
     if (window.adgroupid == undefined) {
@@ -579,7 +634,7 @@ Newsletter
     }
     document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn/3.0/1299.1/3737096/0/170/ADTECH;loc=100;target=_blank;alias=mpu_2_all_general_en;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
     //-->
-    </script><script language="javascript1.1" src="http://adserver.adtech.de/addyn/3.0/1299.1/3737096/0/170/ADTECH;loc=100;target=_blank;alias=mpu_2_all_general_en;grp=23;misc=1580430368382"></script><noscript><a href="http://adserver.adtech.de/adlink/3.0/1299.1/3737096/0/170/ADTECH;loc=300;alias=mpu_2_all_general_en" target="_blank"><img src="http://adserver.adtech.de/adserv/3.0/1299.1/3737096/0/170/ADTECH;loc=300;alias=mpu_2_all_general_en" border="0" width="300" height="250"></a></noscript></div></div>
+    </script><script language="javascript1.1" src="http://adserver.adtech.de/addyn/3.0/1299.1/3737096/0/170/ADTECH;loc=100;target=_blank;alias=mpu_2_all_general_en;grp=460;misc=1580430368330"></script><noscript><a href="http://adserver.adtech.de/adlink/3.0/1299.1/3737096/0/170/ADTECH;loc=300;alias=mpu_2_all_general_en" target="_blank" rel="nofollow"><img src="http://adserver.adtech.de/adserv/3.0/1299.1/3737096/0/170/ADTECH;loc=300;alias=mpu_2_all_general_en" border="0" width="300" height="250"></a></noscript></div></div>
 
 </div>
 
@@ -592,7 +647,7 @@ Newsletter
     }
     document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn/3.0/1299.1/3737098/0/225/ADTECH;loc=100;target=_blank;alias=leaderboard_2_all_general_en;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
     //-->
-    </script><script language="javascript1.1" src="http://adserver.adtech.de/addyn/3.0/1299.1/3737098/0/225/ADTECH;loc=100;target=_blank;alias=leaderboard_2_all_general_en;grp=23;misc=1580430368388"></script><noscript><a href="http://adserver.adtech.de/adlink/3.0/1299.1/3737098/0/225/ADTECH;loc=300;alias=leaderboard_2_all_general_en" target="_blank"><img src="http://adserver.adtech.de/adserv/3.0/1299.1/3737098/0/225/ADTECH;loc=300;alias=leaderboard_2_all_general_en" border="0" width="728" height="90"></a></noscript></div></div>
+    </script><script language="javascript1.1" src="http://adserver.adtech.de/addyn/3.0/1299.1/3737098/0/225/ADTECH;loc=100;target=_blank;alias=leaderboard_2_all_general_en;grp=460;misc=1580430368334"></script><noscript><a href="http://adserver.adtech.de/adlink/3.0/1299.1/3737098/0/225/ADTECH;loc=300;alias=leaderboard_2_all_general_en" target="_blank" rel="nofollow"><img src="http://adserver.adtech.de/adserv/3.0/1299.1/3737098/0/225/ADTECH;loc=300;alias=leaderboard_2_all_general_en" border="0" width="728" height="90"></a></noscript></div></div>
 </div>
 </div>
 <footer id="site-footer"><div class="container">
@@ -623,7 +678,7 @@ Mpora
 <a href="http://skiunion.mpora.com" id="footer-ski-union" target="_blank">ski union</a>
 <a href="http://skiingmag.mpora.de" id="footer-skiing-mag" target="_blank">skiing mag</a>
 <a href="http://boards.mpora.com" id="footer-boards" target="_blank">boards</a>
-<a href="http://www.boardseeker.com" id="footer-boardseeker" target="_blank">boardseeker</a>
+<a href="http://www.boardseekermag.com" id="footer-boardseeker" target="_blank">boardseeker</a>
 </div>
 <h3>Cycle Network</h3>
 <div class="logos">
@@ -632,7 +687,9 @@ Mpora
 <a href="http://bmxtalk.com" id="footer-bmx-talk" target="_blank">bmx talk</a>
 <a href="http://freedombmx.mpora.de" id="footer-freedom-bmx" target="_blank">freedom bmx</a>
 <a href="http://dirt.mpora.com" id="footer-dirt" target="_blank">dirt</a>
+<a href="http://dirt.mpora.de" id="footer-dirt-de" target="_blank">dirt de</a>
 <a href="http://www.bikemagic.com" id="footer-bike-magic" target="_blank">bike magic</a>
+<a href="http://totalwomenscycling.com" id="footer-total-womens-cycling" target="_blank">total womens cycling</a>
 <a href="http://www.roadcyclinguk.com" id="footer-rcuk" target="_blank">rcuk</a>
 </div>
 <h3>MX Network</h3>
@@ -670,10 +727,10 @@ Mpora
 </div>
 </div>
 </footer>
-<script src="http://assets.mporatrons.com/assets/independant/lab-ba296cd0d02898a1c4d1a40624b91732.js" type="text/javascript"></script>
+<script src="http://assets.mporatrons.com/assets/independant/lab-8a7575e0d640e3d77353e84d977a59cb.js" type="text/javascript"></script>
 <script type="text/javascript">
 //<![CDATA[
-$LAB.script('http://assets.mporatrons.com/assets/application-eb4dbc8a3fea52ce1063ea7e1a8d7fa5.js');
+$LAB.script('http://assets.mporatrons.com/assets/application-13b769f1a33a7a11457314ff077d3d30.js').wait(function() { window.Mpora.runCallbacks('http://assets.mporatrons.com/assets/application-13b769f1a33a7a11457314ff077d3d30.js'); });
 //]]>
 </script>
 <script type="text/javascript">
@@ -698,7 +755,7 @@ $LAB.script('http://assets.mporatrons.com/assets/application-eb4dbc8a3fea52ce106
           while(urls.length > 0) {
             var url = urls.shift();
             if(!required[url]) {
-              $LAB.script(url);
+              $LAB.script(url).wait(function() { window.Mpora.runCallbacks(url) });
               Mpora.log('requiring', url);
               required[url] = true;
             }
@@ -712,11 +769,13 @@ $LAB.script('http://assets.mporatrons.com/assets/application-eb4dbc8a3fea52ce106
 <script type="text/javascript">if (!NREUMQ.f) { NREUMQ.f=function() {
 NREUMQ.push(["load",new Date().getTime()]);
 var e=document.createElement("script");
-e.type="text/javascript";e.async=true;e.src="https://d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js";
+e.type="text/javascript";
+e.src=(("http:"===document.location.protocol)?"http:":"https:") + "//" +
+  "d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js";
 document.body.appendChild(e);
 if(NREUMQ.a)NREUMQ.a();
 };
 NREUMQ.a=window.onload;window.onload=NREUMQ.f;
 };
-NREUMQ.push(["nrfj","beacon-1.newrelic.com","7b8dbd9cb0",215124,"dQkKTUtYCVpQREkUAlEDFxZJRQxAVFUf",0,17,new Date().getTime(),"","","","",""])</script>
-<script type="text/javascript" async="" src="https://d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js"></script></body></html>
+NREUMQ.push(["nrfj","beacon-1.newrelic.com","7b8dbd9cb0","215124","dQkKTUtYCVpQREkUAlEDFxZJRQxAVFUf",0,22,new Date().getTime(),"","","","",""]);</script>
+<script type="text/javascript" src="https://d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js"></script></body></html>
