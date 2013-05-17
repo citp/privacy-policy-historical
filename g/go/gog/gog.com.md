@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gog.com privacy policy that was archived on 2012-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121025125021id_/http%3A//www.gog.com/en/support/policies/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gog.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517131841id_/http%3A//www.gog.com/support/policies/privacy_policy) for the most accurate reproduction.*
 
 # Policies - GOG.com
 
