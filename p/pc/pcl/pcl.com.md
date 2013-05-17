@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the pcl.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120001644id_/http%3A//www.pcl.com/Pages/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcl.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517220123id_/http%3A//www.pcl.com/Pages/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | PCL
 
 PCL Constructors Inc. (herein “PCL”) is committed to providing a website that respects your privacy. This Privacy Policy applies to the personal information that is collected, used, or disclosed while using the PCL website. Personal information means any information that permits an individual to be identified, but does not include your name, title and business contact information, as these are not subject to privacy restrictions. 
 
-The only personal information PCL collects through the PCL website is the information voluntarily supplied by you if you contact PCL through the website. PCL does not use “cookies” to track how visitors may use the PCL site. PCL currently does not use or maintain server logs or web logs to collect and log incoming traffic to the PCL site. Information collected through the PCL website is not disclosed to anyone other than PCL employees, consultants, or agents on a “need to know” basis only. 
+The only personal information PCL collects through the PCL website is the information voluntarily supplied by you if you contact PCL through the website. PCL does not use “cookies” to track how visitors may use the PCL site. Information collected through the PCL website is not disclosed to anyone other than PCL employees, consultants, or agents on a “need to know” basis only. 
 
 This website may contain links to other sites and other websites may link to this website. PCL is not responsible for, and has no control over, the content or privacy policies, practices, or actions of the third parties that operate these websites. You should review the privacy policies of those websites before providing them with personal information. 
 
