@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketlinx.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116061917id_/http%3A//www.corelogic.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketlinx.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517221901id_/http%3A//www.corelogic.com/privacy.aspx) for the most accurate reproduction.*
 
 # CoreLogic - Privacy Policy and European Union Safe Harbor Privacy Policy
 
@@ -11,13 +11,12 @@ Click [here](http://www.corelogic.com/Legal.aspx "Terms of Use") to read the Ter
   1. Applicability
   2. Types of Information
   3. Use of Information
-  4. Opt Out
-  5. Former Customers
-  6. Confidentiality and Security
-  7. Information Obtained Through Our Internet Site
-  8. Business Relationships
-  9. Cookies
-  10. Privacy Notice: Preparation and Processing of Investigative Consumer Reports
+  4. Former Customers
+  5. Confidentiality and Security
+  6. Information Obtained Through Our Internet Site
+  7. Business Relationships
+  8. Cookies
+  9. Privacy Notice: Preparation and Processing of Investigative Consumer Reports
 
 
 
@@ -45,9 +44,13 @@ In order to better serve your needs now and in the future, we may ask you to pro
 
 back to top
 
+###  Applicability
+
 This Privacy Policy governs CoreLogic and our use of nonpublic personal information about you. This Privacy Policy does not govern publicly available information we obtain about you and certain products or platforms offered by CoreLogic may be governed by separate privacy policies.
 
 back to top
+
+###  Types of Information
 
 We collect nonpublic personal information about you from the following sources:
 
@@ -61,13 +64,13 @@ Please note, however, that we do not collect this information about you unless y
 
 back to top
 
+###  Use of Information
+
 We request information from you for our own legitimate business purposes and not for the benefit of any nonaffiliated party. Therefore, we will not release your information to nonaffiliated parties except: (1) as necessary for us to provide the product or service you have requested of us; (2) as permitted by law; or (3) as otherwise specified herein. We may, however, store such information indefinitely, including the period after which any customer relationship has ceased. Such information may be used for any internal purpose, such as quality control efforts or customer analysis. We may also provide all of the types of nonpublic personal information listed above to one or more of our affiliated companies. Such affiliated companies include financial service providers, such as title insurers, property and casualty insurers, and trust and investment advisory companies, or companies involved in real estate services, such as appraisal companies, home warranty companies and escrow companies. It is possible that CoreLogic, its subsidiaries, affiliates, joint venture companies, or any combination of them, could merge with or be acquired by another legal entity. In such event, CoreLogic may share your information with such other entity. Furthermore, we may also provide all the information we collect, as described above, to companies that perform marketing services on our behalf, on behalf of our affiliated companies or to other financial institutions with whom we or our affiliated companies have joint marketing agreements. In some circumstances, we will request your consent to share your information with nonaffiliated third parties, such as lenders, realtors, and insurers, so that they may offer you products and services that may be of interest to you.
 
 back to top
 
-Unless you specify otherwise, we may share personal information about you with our affiliated companies. If you do not want us to share your personal information with our affiliated companies or if you do not want CoreLogic or our affiliated companies to contact you regarding offers or services, you can choose to discontinue such communication by emailing your request to _[custserv.res.ca@corelogic.com](mailto:custserv.res.ca@corelogic.com "mailto:custserv.res.ca@firstam.com")_ with “Opt Out” in the Subject line of the email or, if applicable for the relevant product or platform, by changing the appropriate settings within “My Account.”
-
-back to top
+###  Former Customers
 
 Even if you are no longer our customer, our Privacy Policy will continue to apply to you.
 
@@ -89,9 +92,13 @@ There are times, however, when we may need information from you, such as your na
 
 back to top
 
+###  Business Relationships
+
 CoreLogic’s Internet site and those of its affiliates, may contain links to other Internet sites. While we try to link only to sites that share our high standards and respect for privacy, we are not responsible for the content or the privacy practices employed by other sites.
 
 back to top
+
+###  Cookies
 
 Some of CoreLogic’s Internet sites may make use of “cookie” technology to measure site activity and to customize information to your personal tastes. A cookie is an element of data that an Internet site can send to your browser, which may then store the cookie on your hard drive. Any information about you that we collect through a cookie is not shared with anyone. The goal of this technology is to better serve you when visiting our site, save you time when you are here and to provide you with a more meaningful and productive Internet site experience.  
 
@@ -140,13 +147,9 @@ Where CoreLogic collects EU Personal Data from individuals, CoreLogic informs in
 CoreLogic gathers and maintains consumer and other data which it provides to entities including lenders, credit reference agencies and fraud prevention agencies. Provided below is an illustrative list of common ways in which lenders, credit reference agencies and fraud prevention agencies use the data provided by this service:
 
   * Authentication of consumer applicants for loans or other credit services
-
   * Prevention or detection of fraud by consumer applicants for loans or other credit services
-
   * Determination of credit worthiness or capacity of consumer applicants for loans or other credit services
-
   * Location of absconded borrowers
-
 
 
 
@@ -224,3 +227,7 @@ United States of America
 (714) 250-6486
 
 back to top
+
+**Please print or download a copy  for your records.**
+
+Last Updated March 1, 2013
