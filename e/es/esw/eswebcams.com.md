@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the eswebcams.com privacy policy that was archived on 2012-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120612100914id_/http%3A//support.camsluts.com/support_privacy.php%3Flang%3Dus) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eswebcams.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517113204id_/http%3A//www.eswebcams.com/privacy) for the most accurate reproduction.*
 
-# Cam Sluts
+# Cams
 
-**SPACASH  
-Privacy Policy  
-**
-
-* * *
+## Privacy Policy
 
 Keeping you privacy is very important and is protected while using our Site. Please make sure to read the Site's Terms & Conditions as well.
 
