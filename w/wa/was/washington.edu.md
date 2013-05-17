@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the washington.edu privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116080012id_/https%3A//www.washington.edu/online/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the washington.edu privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517120926id_/https%3A//www.washington.edu/online/privacy) for the most accurate reproduction.*
 
 # University of Washington Online Privacy Statement | Website Information
 
