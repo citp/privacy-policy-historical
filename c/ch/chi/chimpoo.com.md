@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chimpoo.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215140543id_/http%3A//www.chimpoo.com/chimpooworld/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chimpoo.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517193517id_/http%3A//chimpoo.com/chimpooworld/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Chimpoo.com - a free online virtual world for kids!
 
