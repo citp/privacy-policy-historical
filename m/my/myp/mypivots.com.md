@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mypivots.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116183425id_/http%3A//www.mypivots.com/page.aspx%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mypivots.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517144950id_/http%3A//www.mypivots.com/page.aspx%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -79,7 +79,7 @@ We do not collect any identifiable data about our visitors.
 
 * * *
 
-### [Cookies](https://web.archive.org/web/20121116183425id_/http%3A//www.mypivots.com/page.aspx%3Fpage%3Dprivacy?page=cookies)
+### [Cookies](https://web.archive.org/web/20130517144950id_/http%3A//www.mypivots.com/page.aspx%3Fpage%3Dprivacy?page=cookies)
 
 Cookies are used to enhance your browsing experience by remember previously used settings. 
 
