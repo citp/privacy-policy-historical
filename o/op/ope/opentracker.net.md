@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opentracker.net privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204083024id_/http%3A//www.opentracker.net/article/how-write-website-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opentracker.net privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517205205id_/http%3A//www.opentracker.net/article/how-write-website-privacy-policy) for the most accurate reproduction.*
 
 # How to write a website Privacy Policy | Opentracker.net
 
