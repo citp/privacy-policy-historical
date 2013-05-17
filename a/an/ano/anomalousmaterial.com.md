@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anomalousmaterial.com privacy policy that was archived on 2012-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121211022744id_/http%3A//www.anomalousmaterial.com/movies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anomalousmaterial.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517033551id_/http%3A//www.anomalousmaterial.com/movies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — ANOMALOUS MATERIAL
 
