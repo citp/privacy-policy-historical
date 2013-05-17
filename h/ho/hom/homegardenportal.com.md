@@ -1,19 +1,27 @@
-> *The following text is extracted and transformed from the homegardenportal.com privacy policy that was archived on 2012-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120516012019id_/http%3A//homegardenportal.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homegardenportal.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517201448id_/http%3A//homegardenportal.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy PolicyHome Garden Portal
 
-Privacy Policy for [Home Garden Portal](https://web.archive.org/index "Home Garden Portal").
+At [howtogainmusclefast.info](http://homegardenportal.com/), the privacy of our visitors is of extreme importance to us (See [this article](http://www.wp-insert.smartlogix.co.in/what-is-a-privacy-policy/) to learn more about Privacy Policies.). This privacy policy document outlines the types of personal information is received and collected by [howtogainmusclefast.info](http://homegardenportal.com/) and how it is used.
 
-We recognize the importance of our visitor's privacy and we aim to preserve the Privacy by all means. The information furnished herewith will inform you on the types of personal information we receive and collect when you use (operate) and visit [Home Garden Portal](https://web.archive.org/index "Home Garden Portal"), and how we safeguard your information. You can be assured that your personal information is never leaked or sold to the third parties and they are well protected by us.
+**Log Files**  
+Like many other Web sites, [howtogainmusclefast.info](http://homegardenportal.com/) makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user's movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-**Log Files** As with most other websites, we also collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser used by you to visit our site (such as Internet Explorer or Firefox), your site visit time and the pages browsed by you throughout our site. 
+**Cookies and Web Beacons**  
+[howtogainmusclefast.info](http://homegardenportal.com/) does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
-**Cookies and Web Beacons** We do use cookies to store information, such as your personal preferences when you visit our site. This could include showing a popup only once during your visit, or the ability to login to some of our key features, such as forums. 
+**DoubleClick DART Cookie**
 
-We also visualize third party advertisements on [Home Garden Portal](https://web.archive.org/index "Home Garden Portal") to support our site. Few of these advertisers may use technology such as cookies and web beacons when they advertise on our site that also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser used by you to visit our site, and in some cases, whether you have installed Flash. Such application is generally applied for geotargeting purposes, e.g., (showing New York real estate ads to someone in New York) or showing certain ads, based on specific visited sites (such as showing cooking ads to someone who frequents cooking sites). 
+  * Google, as a third party vendor, uses cookies to serve ads on [howtogainmusclefast.info](http://homegardenportal.com/).
+  * Google's use of the DART cookie enables it to serve ads to users based on their visit to [howtogainmusclefast.info](http://homegardenportal.com/) and other sites on the Internet.
+  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - <http://www.google.com/privacy_ads.html>.
 
-**DoubleClick DART cookies** We also may use DART cookies for ad serving through Google's DoubleClick, The DART cookies may also be used by us for ad serving through Google's DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). The cookie is used to serve your specific ads and your interests ("interest based targeting"). The ads served are to be targeted on the basis of your previous browsing history (For example, if you are viewing sites for visiting Las Vegas, you may also see Las Vegas hotel advertisements when viewing a non-related site, such as a hockey site). DART uses "non personally identifiable information", which does NOT track your personal information, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers. You have the option to opt-out of this ad serving on all sites, using this advertising by visiting http://www.doubleclick.com/privacy/dart_adserving.aspx 
 
-You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, it can affect your ability to interact with our site as well as other websites and it may include the inability to login to services or programs, such as logging into forums or accounts. 
 
-Deleting cookies does not mean you are permanently opted out of any advertising program. Unless, you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on [howtogainmusclefast.info](http://homegardenportal.com/) send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+
+[howtogainmusclefast.info](http://homegardenportal.com/) has no access to or control over these cookies that are used by third-party advertisers.
+
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. [howtogainmusclefast.info's](http://homegardenportal.com/) privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
