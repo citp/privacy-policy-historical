@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newschannel5.com privacy policy that was archived on 2012-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121113005706id_/http%3A//www.newschannel5.com/global/story.asp%3Fs%3D18990) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newschannel5.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517122942id_/http%3A//www.newschannel5.com/global/story.asp%3Fs%3D18990) for the most accurate reproduction.*
 
 # This Web Site’s Privacy Policy - NewsChannel5.com | Nashville News, Weather & Sports
 
