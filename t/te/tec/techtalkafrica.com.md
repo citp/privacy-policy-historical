@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the techtalkafrica.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120085553id_/http%3A//techtalkafrica.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techtalkafrica.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517024726id_/http%3A//techtalkafrica.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Tech Talk Africa - Technology Blog
+# Privacy Policy - TechTalkAfrica.com
 
 **Your Privacy**
 
@@ -28,5 +28,3 @@ We have included links on this site for your use and reference. We are not respo
 The contents of this statement may be altered at any time, at our discretion.
 
 If you have any questions regarding the privacy policy of TechTalkAfrica.com then please don’t hesitate to contact us
-
-No tags for this post. 
