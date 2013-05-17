@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the astrazeneca.com privacy policy that was archived on 2012-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121112223652id_/http%3A//www.astrazeneca.com/Privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astrazeneca.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517081652id_/http%3A//www.astrazeneca.com/Privacy-notice) for the most accurate reproduction.*
 
 # AstraZeneca - Privacy notice
 
@@ -74,4 +74,4 @@ For quality control and training purposes, we may monitor or record your communi
 References to “AstraZeneca”, “Group”, “we”, “us” and “our” are references to AstraZeneca PLC and its affiliates. A list of all the world-wide locations where AstraZeneca operates is available at www.astrazeneca.com.
 
 Review period : 12 months  
-Last reviewed : September 201
+Last reviewed : September 2012
