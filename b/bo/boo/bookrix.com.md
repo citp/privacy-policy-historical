@@ -1,17 +1,16 @@
-> *The following text is extracted and transformed from the bookrix.com privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526135406id_/http%3A//www.bookrix.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookrix.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517025838id_/http%3A//www.bookrix.com/static/privacy.html) for the most accurate reproduction.*
 
-# BookRix - Privacy policy
+# BookRix – Privacy Policy
 
-[](http://www.bookrix.com/pdf/BookRix_Privacy_Policy_US_20120118.pdf)  
-[BookRix_Privacy_Policy_US_20120118.pdf](http://www.bookrix.com/pdf/BookRix_Privacy_Policy_US_20120118.pdf)
+[ BookRix Privacy Policy ](https://web.archive.org/downloads/BookRix_Privacy_Policy_US_20120118.pdf "BookRix Privacy Policy")
 
-**Date of last revision: January 2012**
+### Date of last revision: January 2012
 
 Your privacy is important to you and to us. We recognize that we must earn and keep your trust. This Privacy Policy outlines the types of personal information we gather when you use the BookRix website, as well as some of the steps we take to safeguard it. 
 
 The following principles apply to the personally identifying information we ask for and that you provide. "personally identifying information" is information that individually identifies you, such as your username, physical address or email address. 
 
-**Data Collection**
+### Data Collection
 
 BookRix collects information your browser makes available whenever you visit a website. This log information includes your internet protocol ("IP") address, browser type, browser language, the date and time of your visit and cookies that may uniquely identify your browser. We use this information to operate, develop and improve our services. 
 
@@ -23,17 +22,17 @@ Like many websites, we use "cookies" to enhance your experience and gather infor
 
 We also receive and store click-stream data and other information about visits to our websites which may be combined with personal information you have provided. This information is used to analyze and improve the website experience. 
 
-**Content**
+### Content
 
 When you upload any content to the BookRix website, that content becomes publically accessible to the extent you have determined in your settings. The public can and will see any of such content, and as such, BookRix has no control over how this information will be used by other users of the BookRix website. For that reason, please think carefully about what personally identifiable information you disclose in any content you upload to the BookRix website. 
 
 We also collect anonymous information, such as your IP address, the type of browser you use, the pages on our site that you visit, the search terms that you enter. This information is used to provide features and help us diagnose problems, administer the site and otherwise improve our service to you. 
 
-**Cookies**
+### Cookies
 
 BookRix uses cookies to track specific user sessions on the website. This lets us provide user-specific functionality without asking you to re-enter your username on every single page. Our cookies contain only a small, anonymous piece of identifying information called a session id (like a random number) that we map back to your account while you are on the site. Cookies contain no other information. 
 
-**Using your information**
+### Using your information
 
 We may use the information we collect from you when you register, purchase products, enter a contest or promotion, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways: 
 
@@ -46,7 +45,7 @@ We may use the information we collect from you when you register, purchase produ
 
 
 
-**Information Sharing**
+### Information Sharing
 
 We do not rent or sell your personally identifying information to other companies or individuals, except with your consent. 
 
@@ -56,7 +55,7 @@ We may store and process personal information collected on our site in the Unite
 
 We may share aggregated information with others. Examples of this include the number of users who searched for a particular keyword or how many users clicked on a particular link. 
 
-**Information Security**
+### Information Security
 
 We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. 
 
@@ -64,7 +63,7 @@ We restrict access to your personally identifying information to employees who n
 
 BookRix uses physical, electronic and administrative safeguards, including firewall and password protection for our servers, designed to protect the security of data. While BookRix does implement commercially reasonable measures to protect information, BookRix cannot guarantee that data transmission over the Internet or information storage technology will be 100% secure. 
 
-**Links**
+### Links
 
 This web site may contain links to other websites. Please be aware that BookRix is not responsible for the privacy practices of other sites. We encourage our users to be aware when they leave our web site and to read the privacy statements of each and every web site that collects personally identifiable information. 
 
@@ -72,6 +71,6 @@ The sites linked to by BookRix are developed by people over whom BookRix exercis
 
 BookRix may present links in a format that enables us to understand whether they have been followed. We use this information to understand and improve the quality of BookRix's search technology. For instance, this data helps us determine how often users are satisfied with the first result of a query and how often they proceed to later results. 
 
-**Changes to this Policy**
+### Changes to this Policy
 
 This policy may not be complete in every detail. Please note this Privacy Policy may change from time to time. If you have any questions about this privacy statement, you can contact us at [privacy@bookrix.com](mailto:privacy@bookrix.com)
