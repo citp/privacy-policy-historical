@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the vsp.com privacy policy that was archived on 2012-10-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121005015450id_/https%3A//www.vsp.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vsp.com privacy policy that was archived on 2013-05-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130517041318id_/https%3A//www.vsp.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <meta http-equiv="content-type" content="text/html">
@@ -7,6 +7,7 @@
     
     
     
+  	
     <title>VSP Privacy Policy</title>
     <link rel="shortcut icon" type="image/vnd.microsoft.icon" href="/img/vsp.ico">
     <link rel="stylesheet" type="text/css" href="/style/base.css">
@@ -32,7 +33,6 @@
     <script type="text/javascript" src="/script/jquery.validate.js"></script>
     <script type="text/javascript" src="/script/additional-methods.js"></script>
     <script type="text/javascript" src="/cms/script/vsp.js"></script>
-    <script type="text/javascript" src="/tiles/MP_enes.js"></script>
     
       <script language="JavaScript" type="text/javascript" src="/script/jquery.validate.js"></script>
     
@@ -59,6 +59,7 @@
     <div class="headerContainer">
       <!-- logo and header tools -->
       
+
 
 
 
@@ -91,7 +92,7 @@
 		    <div><!-- div inside login fieldset -->
 		    	<div class="relativePosition">
 			      <label for="userid" class="loginLabel">Member User Name</label>
-			      <input type="text" name="userid" id="userid" class="longField nofull absPosition" value="" size="16" autocomplete="off" alt="Member User Name" placeholder="Member User Name">
+			      <input type="text" name="userid" id="userid" class="longField nofull absPosition" value="" size="50" maxlength="50" autocomplete="off" alt="Member User Name" placeholder="Member User Name">
 			    </div>  
 			    <div class="relativePosition">
 			      <label for="password" class="loginLabel">Password</label>
@@ -123,12 +124,14 @@
 	               
 					
 		
-		<span><a mporgnav="" href="https://es.vsp.com/enes/privacy.html?" class="motionpoint linkButton" onclick="return switchLanguage('es');
-		function switchLanguage(lang) {
-    		MP.SrcUrl=unescape('mp_js_orgin_url');MP.UrlLang='mp_js_current_lang';MP.init();
-			MP.switchLanguage(MP.UrlLang==lang?'en':lang);
-			return false;
-		}">Español</a></span>    
+	  	
+			<span><a mporgnav="" href="https://es.vsp.com/enes/privacy.html?" class="motionpoint linkButton" onclick="return switchLanguage('es');
+			function switchLanguage(lang) {
+	    		MP.SrcUrl=unescape('mp_js_orgin_url');MP.UrlLang='mp_js_current_lang';MP.init();
+				MP.switchLanguage(MP.UrlLang==lang?'en':lang);
+				return false;
+			}">Español</a></span>
+		    
 	</div>
 </div>
 <div style="clear:both;">&nbsp;</div>
@@ -206,6 +209,24 @@
     </form>
   </div>
  </div>
+
+ 
+
+
+
+
+<div id="countrySelectModal" style="display:none;">
+	<a href="#" title="Close" class="modalCloseX simplemodal-close" style="float:right;">CLOSE</a>
+	<div class="header">SELECT A LANGUAGE</div>
+	<ul class="languages">
+		<li><div class="flag au"></div><span>Australia</span><a href="https://vsp-australia.com.au">English</a></li>
+		<li><div class="flag can"></div><span>Canada</span><a href="https://www.vsp-canada.ca/">English</a> | <a href="https://www.vsp-canada.ca/language/fr-CA">Français</a></li>
+		<li><div class="flag uk"></div><span>United Kingdom</span><a href="https://www.vsp-uk.co.uk/" id="link3">English</a></li>
+		<li><div class="flag usa"></div><span>United States</span><a href="https://www.vsp.com">English</a> | <a href="https://es.vsp.com/">Español</a></li>
+	</ul>
+</div>
+
+
  
 <link rel="stylesheet" type="text/css" href="/style/jqtransform.css">
 <script type="text/javascript" src="/script/additional-methods-vsp.js"></script>
@@ -242,7 +263,18 @@
 		  minHeight    :  175
         });
     });
-  
+
+	$("#countrySelect").bind('click',function(e) {
+		e.preventDefault();
+		$("#countrySelectModal").modal({
+			close		:	true,
+			persist		:	true,
+			containerId	:	'wideDialogContainer',
+			overlayId	:	'dialogOverlay',
+			minHeight	:	250
+		});
+	});
+
   });  
 </script>
       <!-- END: logo and header tools -->
@@ -316,6 +348,7 @@
 
 
 
+
   
       
   
@@ -325,7 +358,7 @@
 
   
   <style type="text/css"> td {padding: 10px;} </style> <div style="float: right"><a href="javascript:history.go(-1)">Back</a></div> <h1>Privacy Policy</h1> <table width="920" cellspacing="0" cellpadding="10">     <tbody>         <tr>             <td colspan="2"><b>Notice of Privacy Practices</b><br>             <strong><i>Effective April 14, 2003</i></strong><hr>             </td>         </tr>         <tr>             <td valign="top" nowrap="nowrap"><strong>Overview</strong></td>             <td><strong>THIS NOTICE DESCRIBES HOW MEDICAL INFORMATION ABOUT YOU MAY BE USED AND DISCLOSED AND HOW YOU CAN GET ACCESS TO THIS INFORMATION. PLEASE REVIEW IT CAREFULLY.</strong></td>         </tr>         <tr>             <td valign="top" nowrap="nowrap"><strong>Purpose</strong></td>             <td>             <p>The purpose of this notice is to:</p>             <ul>                 <li>Provide you with notice of VSP’s information protection practices, and</li>                 <li>Explain your rights as a VSP member.</li>             </ul>             </td>         </tr>         <tr>             <td valign="top" nowrap="nowrap"><strong>VSP’s Responsibilities</strong></td>             <td>             <p>VSP is required to abide by the terms of this notice currently in effect by:</p>             <ul>                 <li>Maintaining the privacy of your Protected Health Information, and</li>                 <li>Providing you with notice of our legal duties and privacy practices with respect to Protected Health Information.</li>             </ul>             </td>         </tr>         <tr>             <td valign="top" nowrap="nowrap"><strong>Notice Revisions</strong></td>             <td>VSP reserves the right to revise the terms of this notice, and to make the revised terms effective for all Protected Health Information that it maintains. If VSP revises this notice, we will make the revised notice available within sixty (60) days.</td>         </tr>         <tr>             <td valign="bottom" colspan="2"><br>             <strong>DEFINITIONS<hr>             </strong></td>         </tr>         <tr>             <td valign="top" nowrap="nowrap"><strong>Business Associate</strong></td>             <td>             <p>A person or entity that uses Protected Health Information to perform a service for VSP. These services include, but are not limited to:</p>             <ul>                 <li>billing</li>                 <li>claim processing</li>                 <li>data entry</li>             </ul>             </td>         </tr>         <tr>             <td valign="top" nowrap="nowrap"><strong>Health Care<br>             Operations</strong></td>             <td>             <p>Activities related to VSP’s operations, including but not limited to:</p>             <ul>                 <li>quality assessment and improvement</li>                 <li>doctor performance evaluations</li>                 <li>fraud and abuse detection</li>                 <li>claim payment</li>                 <li>claim audits</li>                 <li>customer issue resolution</li>             </ul>             </td>         </tr>         <tr>             <td valign="top" nowrap="nowrap"><strong>Payment</strong></td>             <td>VSP’s collection of insurance premiums or its determination and payment of claims.</td>         </tr>         <tr>             <td valign="top" nowrap="nowrap"><strong>Protected Health<br>             Information </strong></td>             <td>             <p>Information relating to a VSP patient’s past, present or future health or condition, the provision of health care to a VSP patient, or payment for the provision of health care to a VSP patient. Protected Health Information includes, but is not limited to:</p>             <ul>                 <li>patient name</li>                 <li>Social Security number/member ID</li>                 <li>service date</li>                 <li>diagnosis information</li>                 <li>claim information</li>             </ul>             </td>         </tr>         <tr>             <td valign="top" nowrap="nowrap"><strong>Treatment</strong></td>             <td>The provision, coordination or management of vision care and related services by one or more vision care providers.</td>         </tr>         <tr>             <td valign="bottom" colspan="2"><strong>PRIVACY PRACTICES<hr>             </strong></td>         </tr>         <tr>             <td valign="top" nowrap="nowrap"><strong>How VSP Uses and<br>             Discloses Information<br>             About You</strong></td>             <td>             <p>VSP will only use and disclose your Protected Health Information without your authorization when necessary for:</p>             <ul>                 <li>coordination of your vision care treatment</li>                 <li>disclosure to your plan sponsor to the extent permitted by law</li>                 <li>payment</li>                 <li>health care operations, or</li>                 <li>as required or permitted by law (please see “Use or Disclosure Required or Permitted by Law” section).</li>             </ul>             </td>         </tr>         <tr>             <td valign="top" nowrap="nowrap"><strong>Disclosure to VSP’s<br>             Business Associates</strong></td>             <td>VSP will only disclose your Protected Health Information to Business Associates who have agreed in writing to maintain the privacy of Protected Health Information as required by law.</td>         </tr>         <tr>             <td valign="top" nowrap="nowrap"><strong>Use or Disclosure<br>             Requiring<br>             Authorization</strong></td>             <td>VSP will not use or disclose your Protected Health Information for purposes other than those described in this notice. If it becomes necessary to disclose any of your Protected Health Information for other reasons, VSP will request your written authorization. <i>Revoking Authorization:</i> If you provide written authorization, you may revoke it at any time in writing, except to the extent that VSP has relied upon the authorization prior to its being revoked.</td>         </tr>         <tr>             <td valign="top" nowrap="nowrap"><strong>Use or Disclosure<br>             Required or<br>             Permitted by Law</strong></td>             <td>             <p>VSP may use or disclose your Protected Health Information to the extent that the law requires the use or disclosure:</p>             <ul>                 <li><i>Public Health:</i> For public health activities or as required by the public health authority.</li>                 <li><i>Health Oversight:</i> To a health oversight agency for activities such as audits, investigations and inspections. Oversight agencies include, but are not limited to, government agencies that oversee the health care system, government benefit programs, other government regulatory programs and civil rights laws.</li>                 <li><i>Legal Proceedings:</i> In response to an order of a court or administrative tribunal, in response to a subpoena, discovery request or other lawful process.</li>                 <li><i>Law Enforcement:</i> For law enforcement purposes, including:<br>                 – legal process or as otherwise required by law;<br>                 – limited information requests for identification and location;<br>                 – use or disclosure related to a victim of a crime;<br>                 – suspicion that death has occurred as a result of criminal conduct;<br>                 – if a crime occurs on VSP’s premises; or<br>                 – in a medical emergency where it is likely that a crime has occurred.</li>                 <li><i>Criminal Activity:</i> As requested by law enforcement authorities, if the use or disclosure is necessary to prevent or lessen a serious and imminent threat to the health or safety of a person or the public.</li>             </ul>             </td>         </tr>         <tr>             <td valign="top" nowrap="nowrap"><strong>Use and Disclosure<br>             Examples</strong></td>             <td>             <ul>                 <li><i>Payment:</i> VSP uses Protected Health Information for payment processing to verify that services provided were covered under the patient’s vision care plan.</li>                 <li><i>Health Care Operations:</i> VSP uses and discloses Protected Health Information to audit and review claims payment activity to ensure that claims were paid correctly.</li>                 <li><i>Treatment:</i> To coordinate treatment by a health care provider.</li>             </ul>             </td>         </tr>         <tr>             <td valign="bottom" colspan="2"><br>             <strong>KNOW YOUR RIGHTS<hr>             </strong></td>         </tr>         <tr>             <td valign="top" nowrap="nowrap"><strong>Review Your<br>             Protected<br>             Health Information</strong></td>             <td>You have a right to inspect and obtain a copy of your Protected Health Information.<br>             <br>             <i>Important:</i> If you feel your Protected Health Information is incorrect, you have the right to request that it be amended.</td>         </tr>         <tr>             <td valign="top" nowrap="nowrap"><strong>Request to Restrict<br>             Your Protected<br>             Health Information</strong></td>             <td>You can request restrictions on the use and disclosure of your Protected Health Information. VSP is not required to agree to a requested restriction.<br>             <br>             <i>Example:</i> If a restriction request prevents us from providing service to you or from performing payment related functions, we will not be able to agree to the request.</td>         </tr>         <tr>             <td valign="top" nowrap="nowrap"><strong>Confidential<br>             Communication</strong></td>             <td>When necessary, VSP mails your Protected Health Information to your home. If you feel receiving a copy of your Protected Health Information at your home could compromise your safety, you may request in writing, an alternate communication method and/or location.<br>             <br>             <i>Important:</i> VSP will not ask for an explanation for such requests, but may request payment for this service.<br>             <br>             <i>Examples:</i> The patient may decide, for his or her safety, to have correspondence containing his or her Protected Health Information sent somewhere other than to his or her home, or to have the information sent via fax rather than mailed.</td>         </tr>         <tr>             <td valign="top" nowrap="nowrap"><strong>Accounting of<br>             Disclosures</strong></td>             <td>If a disclosure of your Protected Health Information was made for a reason other than treatment, payment or health care operations, you have a right to receive an accounting of the disclosure.<br>             <br>             <i>Important:</i> If the disclosure was made to you, VSP will not provide an accounting.</td>         </tr>         <tr>             <td valign="top" nowrap="nowrap"><strong>Receive a Copy</strong></td>             <td>You can view and print a copy of this Notice of Privacy Practices through vsp.com. You may also request a copy from your Benefit Administrator, or you may request a paper copy from VSP.</td>         </tr>         <tr>             <td valign="top" nowrap="nowrap"><strong>Complaints</strong></td>             <td>If you believe that your privacy rights have been violated, you may submit a complaint to VSP or to the U.S. Secretary of Health and Human Services at any time. VSP will not retaliate against you for filing a complaint. <p>File complaints with VSP at vsp.com, or by calling our Member Services Department at 800-877-7195, for complaints regarding:</p>             <ul>                 <li>restrictions on the use or disclosure of your Protected Health Information</li>                 <li>amendments to your Protected Health Information, or</li>                 <li>accounting of the use or disclosure of your Protected Health Information.</li>             </ul>             <p>File complaints with the U.S. Secretary of Health and Human Services using the <a target="_blank" href="http://www.hhs.gov/ocr/hipaa/">HIPAA Complaint Submission Form</a>, or by mail to: HIPAA Complaint, 7500 Security Blvd., C5-24-04, Baltimore, MD 21244, for complaints regarding:</p>             <ul>                 <li>VSP’s business practices, or</li>                 <li>the use of your Protected Health Information.</li>             </ul>             </td>         </tr>         <tr>             <td valign="bottom" colspan="2"><br>             <strong>CONTACT INFORMATION<hr>             </strong></td>         </tr>         <tr>             <td valign="top" nowrap="nowrap"><strong>Contact VSP</strong></td>             <td><p>Contact us through vsp.com, or call our Member Services Department at 800-877-7195 to request:</p>             <ul>                 <li>restrictions on the use or disclosure of your Protected Health Information,</li>                 <li>amendments to your Protected Health Information,</li>                 <li>revoking authorizations,</li>                 <li>accounting of the use or disclosure of your Protected Health Information, or</li>                 <li>a copy of your Protected Health Information.</li>             </ul>             </td>         </tr>     </tbody> </table> <div>&nbsp;</div> <div style="float: right"><a href="#top">Top</a><br> &nbsp;</div>
-  
+   
 
   
     
@@ -394,8 +427,13 @@
   <b>RELATED SITES</b><br>
   <a href="http://mobile.vsp.com" target="_blank">VSP Mobile Site</a><br>
   <a href="http://vspglobal.com" target="_blank">VSP Global</a><br>
-  <a href="http://www.vsp-canada.com/canada/" target="_blank">VSP Canada</a><br>
-  <a href="http://www.vspvisioncare.co.uk" target="_blank">VSP UK</a><br>
+  
+  
+       
+  <!-- Not logged in link -->
+  	<a href="http://www.eyeconic.com/Account/AssistedSignOn?WT.mc_id=vsp_ftr_U" target="_blank">Eyeconic</a><br>
+  
+  
 </footer>
 <footer class="grid_2">
   <b>SOCIAL MEDIA</b><br>
@@ -405,13 +443,16 @@
   <a href="http://www.youtube.com/user/vspvisioncare" target="_blank">YouTube</a><br>
 </footer>
 <div class="clear"></div>
-<footer style="text-align:center;">©2012 Vision Service Plan. All rights reserved.</footer>
+<footer style="text-align:center;">©2012 Vision Service Plan. All rights reserved.&nbsp;<img class="usa" src="/img/flag-usa.png" height="24" width="24">&nbsp;<a id="countrySelect" class="smart-modal" href="#">Choose a VSP Worldwide Site</a></footer>
     </div> <!-- /footerContainer  -->
     <div class="clear"></div>
     <!-- END: footer -->
 
   </div> <!-- /fullContainer  -->
-  <script type="text/javascript" id="mpelid" src="//es.vsp.com/mpel/mpel.js"></script>
+  
+  	<script type="text/javascript" src="/tiles/MP_enes.js"></script>
+  	<script type="text/javascript" id="mpelid" src="//es.vsp.com/mpel/mpel.js"></script>
+  
 <!-- mp_trans_remove_start -->
     <script type="text/javascript" language="javascript">
       var vsp_DCSID = "dcs8in19dek6qgrrj8bla3woy_1f3l";
