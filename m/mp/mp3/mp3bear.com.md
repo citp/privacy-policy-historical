@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mp3bear.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919195749id_/http%3A//mp3bear.com/page/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mp3bear.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517203814id_/http%3A//mp3bear.com/page/privacy.html) for the most accurate reproduction.*
 
 # Mp3Bear.com - Privacy Policy
 
