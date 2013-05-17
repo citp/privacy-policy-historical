@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hamstersoft.com privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124072652id_/http%3A//www.hamstersoft.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hamstersoft.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517191442id_/http%3A//www.hamstersoft.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy for the www.hamste-rsoft.com
 
@@ -6,7 +6,7 @@
 
 **Privacy policy**
 
-Privacy Policy of [www.hamstersoft.com](https://web.archive.org/) web sites - the Site(s) This Privacy Policy applies to these Site(s). When leaving any Site(s), please read the privacy policy applicable to the site you are thereafter visiting. If you do not agree with this Privacy Policy, please do not use the Site(s). Entering and using the Site(s) you declare your agreement with this privacy statement. By using these Site(s), you expressly accept and give your unambiguous consent that your Personal Information gained with registration on these Site(s), or in connection with your use of the Site(s), with respect to the Site(s), may be transferred across international borders to server locations supporting the Site(s) (including but not limited to transfers from those locations back to the country of your registration) for operating and developing the Site(s), including transfers to HamsterSoft subcontractors, agents or representatives, who perform tasks related to the Site(s) and services, or for the purposes of storing the data in the relevant databases. 
+Privacy Policy of [www.hamstersoft.com](http://www.hamstersoft.com/) web sites - the Site(s) This Privacy Policy applies to these Site(s). When leaving any Site(s), please read the privacy policy applicable to the site you are thereafter visiting. If you do not agree with this Privacy Policy, please do not use the Site(s). Entering and using the Site(s) you declare your agreement with this privacy statement. By using these Site(s), you expressly accept and give your unambiguous consent that your Personal Information gained with registration on these Site(s), or in connection with your use of the Site(s), with respect to the Site(s), may be transferred across international borders to server locations supporting the Site(s) (including but not limited to transfers from those locations back to the country of your registration) for operating and developing the Site(s), including transfers to HamsterSoft subcontractors, agents or representatives, who perform tasks related to the Site(s) and services, or for the purposes of storing the data in the relevant databases. 
 
 **Non-Personal Information Automatically Collected**
 
