@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shugalmaza.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228012244id_/http%3A//www.shugalmaza.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shugalmaza.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517023811id_/http%3A//www.shugalmaza.com/privacy-policy) for the most accurate reproduction.*
 
-# Shugal Maza » Privacy Policy
+# Privacy Policy - Shugal Maza
 
 **Privacy Policy**
 
