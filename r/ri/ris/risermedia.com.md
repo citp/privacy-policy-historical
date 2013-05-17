@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the risermedia.com privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617191915id_/http%3A//risermedia.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the risermedia.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517213004id_/http%3A//www.risermedia.com/privacy-policy) for the most accurate reproduction.*
 
-# Riser Media | Creative Graphic & Web Design Agency in SLC, Utah
+# Riser - A Creative & Design Agency
 
 Our postal address is  
 477 W. 50 N  
