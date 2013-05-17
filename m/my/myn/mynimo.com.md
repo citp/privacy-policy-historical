@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mynimo.com privacy policy that was archived on 2012-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121117014422id_/http%3A//mynimo.com/pages/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mynimo.com privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518005223id_/http%3A//www.mynimo.com/pages/privacyPolicy) for the most accurate reproduction.*
 
-# PrivacyPolicy : Mynimo
+# Pages : Mynimo
 
 This privacy policy has been created to explain how Mynimo Inc. uses your information by using mynimo.com (the “Service” or the “Website”), and how we are taking steps to protect your personal information.  The privacy policy may be updated from time to time.  You are encouraged to check this policy every so often to learn about the changes we have made.  We will place a notification on the website homepage if there are any significant modifications to this policy.
 
