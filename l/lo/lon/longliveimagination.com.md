@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the longliveimagination.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231002825id_/http%3A//usa.canon.com/cusa/about_canon/standard_display/abtcan_lgl_privacy_misc) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the longliveimagination.com privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518003547id_/http%3A//usa.canon.com/cusa/about_canon/standard_display/abtcan_lgl_privacy_misc) for the most accurate reproduction.*
 
 # Canon U.S.A. : Privacy Statement - Your Privacy Rights
 
@@ -115,4 +115,4 @@ California Civil Code Section 1798.83 gives California residents the right to re
 
 **_How To Contact Us_**
 
-Should you have questions or concerns about this Statement, please click [HERE](https://web.archive.org/cusa/consumer?pageKeyCode=contactUsLanding) or mail your inquiry to Canon U.S.A., Inc. - Customer Privacy, ITCG Internet Marketing Division, One Canon Plaza, Lake Success, New York 11042.
+Should you have questions or concerns about this Statement, please click [HERE](https://web.archive.org/cusa/consumer?pageKeyCode=contactUsLanding) or mail your inquiry to Canon U.S.A., Inc. - Customer Privacy, ITCG Internet Marketing Division, One Canon Park, Melville, New York 11747.
