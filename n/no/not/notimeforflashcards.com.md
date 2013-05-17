@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the notimeforflashcards.com privacy policy that was archived on 2012-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121007101749id_/http%3A//www.notimeforflashcards.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the notimeforflashcards.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517033234id_/http%3A//www.notimeforflashcards.com/about/disclosure/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - No Time For Flash Cards
 
-[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.notimeforflashcards.com%2Fprivacy-policy&media=&description=Privacy+Policy)
+[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.notimeforflashcards.com%2Fabout%2Fdisclosure%2Fprivacy-policy&media=&description=Privacy%20Policy)
 
 **Privacy Policy**
 
