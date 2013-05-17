@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aknews.com privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124235614id_/http%3A//aknews.com/en/%3Ftpl%3Dprivacy.tpl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aknews.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517235630id_/http%3A//aknews.com/en/%3Ftpl%3Dprivacy.tpl) for the most accurate reproduction.*
 
 # Privacy Policy | AKNEWS.com
 
