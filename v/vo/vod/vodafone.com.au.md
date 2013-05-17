@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vodafone.com.au privacy policy that was archived on 2012-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121024075240id_/http%3A//www.vodafone.com.au/personal/aboutvodafone/legal/privacypolicy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vodafone.com.au privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518014152id_/http%3A//www.vodafone.com.au/aboutvodafone/legal/privacypolicy) for the most accurate reproduction.*
 
 # About - Legal - Privacy Policy - Vodafone Australia
 
@@ -103,7 +103,18 @@ If you believe your privacy has been compromised, please fill in the Privacy Bre
 
 ### Contact us
 
-For any other questions regarding privacy, please contact Customer Care on **1555** from your Vodafone mobile or **1300 650 410** from any phone.
+For any other questions regarding privacy, please contact Customer Care on **1555** from your Vodafone mobile, **1300 650 410** from any phone or fax us on **1300 308 869**.
+
+Our postal address is:  
+**Vodafone Customer Care PO BOX 2580, Kingston Delivery Centre, Kingston, TAS 7050**
+
+You can also contact us online via:
+
+  * Our blog <http://blog.vodafone.com.au/blog/>
+  * Facebook  <http://www.facebook.com/vodafoneau>
+  * Twitter  <https://twitter.com/VodafoneAU_help>
+
+
 
 ### **Vodafone Privacy Policy July 2011**
 
