@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ticketgenie.in privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214115602id_/http%3A//in.ticketgenie.in/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticketgenie.in privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517191759id_/http%3A//ticketgenie.in/privacy_policy.php) for the most accurate reproduction.*
 
-# TicketGenie - Privacy Policy
+# Privacy Policy
 
 The type of information we gather from you 
 
@@ -31,6 +31,8 @@ Our website uses a variety of technical methods for tracking purpose, including 
 You should be aware that when you are on our websites you could be directed to other websites where the personal information collected is outside the control of our website. For example, if you click on a banner advertisement the click may take you off the Site. The privacy policy of the new website will govern the information obtained from you on such website. 
 
 We may change this policy and our terms and conditions from time to time and will post the latest version of the privacy policy on the Site. If we ever wish to use your personal information in a way which is incompatible with the information in this Privacy Policy, we will only do so with your consent. 
+
+[ ](http://www.olympicgoldquest.in/index.php?option=com_content&view=article&id=3&Itemid=41#2)
 
   
 
