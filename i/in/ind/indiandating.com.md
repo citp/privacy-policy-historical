@@ -1,162 +1,140 @@
-> *The following text is extracted and transformed from the indiandating.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204194631id_/http%3A//www.indiandating.com/index.cfm%3Fpage%3Dguest.privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiandating.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517182320id_/http%3A//www.indiandating.com/static.php%3Fhtml%3Dprivacy%26s%3Ds) for the most accurate reproduction.*
 
-# Privacy Policy - IndianDating.com
+# Find local singles on IndianDating.com - an online dating site
 
-### Webcapacity Incorporated/Indiandating.com Statement of Privacy
+### Privacy Policy
 
+(' **We** ') Cupid plc are committed to protecting and respecting your privacy.
+
+This policy (together with our [terms and conditions of use](https://web.archive.org/helptandc.asp?s=s) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+
+We are the data controller for the purposes of the Data Protection Act 1998 (the ' **Act** ').
+
+**What information do we collect about you?**
+
+We may collect and process the following information about you: 
+
+  * Information that you provide by filling in forms on our site **IndianDating** (the ' **Site** ') (including your personal details, contact details, mobile phone number and other profile information you submit when you create a membership profile). We may also collect information when you voluntarily complete customer surveys, provide feedback and participate in competitions.
+  * Information from your web-based email accounts (including your profile picture and other publicly visible information) if you agree to add the Site's email address to the contact lists stored at your email provider's website.
+  * Your location according to the IP address assigned to your PC by your Internet Service Provider.
+  * If you contact us, we may keep a record of that correspondence.
+  * Details of transactions you carry out through the Site, including any information we require to provide any products or services that you order from us through the Site.
+  * Website usage information is also collected using cookies (see below under 'Cookies').
+
+
+
+**How will we use the information about you?**
+
+We use the information we hold about you in the following ways: 
+
+  * To administer your user account with us (including notifying you of any compatible matches, tips, announcements, updates, special offers or services, should you consent to this).
+  * To help us improve the structure, layout and usability of the Site.
+  * To allow you to participate in any interactive features of the Site(including the features that require the mobile phone number).
+  * To help personalise your repeat visits to the Site.
+  * To notify you of any compatible matches or any matches who are near your location.
+  * To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes (see below under ' **Marketing** ' for more information). Such information may be sent to you by email or by SMS (if you provided your mobile phone number).
+  * To answer any questions you may raise or respond to any comments you may send to us.
+  * To notify you about changes to our service or the functionality of the Site.
+  * To carry out market analysis and research.
+  * To ensure that you are complying with the [terms and conditions of use](https://web.archive.org/helptandc.asp?s=s) and to comply with our statutory and regulatory obligations.
+
+
+
+**What information do we collect about others?**
+
+  * Some features of the Site allow you to share your Site experience with people you know (“your Contacts”), or to invite them to join the Site. When given the option to do so you can choose to upload your Contacts information; we will request their name and email address.
+  * If you give us your password to upload these Contacts through a web based email provider we shall not store your password after you have uploaded your Contacts’ addresses.
+
+
+
+**How do we use information about your Contacts?**
+
+  * If you choose to upload your Contact’s name and email address you are allowing us to send an email invitation on your behalf, inviting your Contact to join the Site.
+  * We will store your Contact’s name and email address solely for the purposes of inviting them to join our Site and for associating your Contact with you and other people they may know.
+  * If your Contact does not want us to store their email address which you uploaded to our Site, they can ask us to remove it by contacting us at [datarequest@cupid.com](mailto:datarequest@cupid.com).
+  * We will not store your Contacts information after invitations (up to a maximum of 3) have been sent. Your Contacts will then only receive future emails from us if they choose to accept the invitation and join our Site, or if you use any of our tools to share experiences with your Contacts and you input their email address for us to use again.
+
+
+
+**Disclosure of your information**
+
+As we continue to develop our business, we might sell or buy assets. In such transactions, the information we have collected about you will generally be one of the transferred business assets. Also in the unlikely event that we or our assets are purchased, your information will also be one of the transferred assets. We may share information about you with: 
+
+  * Other companies in the same corporate group as us.
+  * A buyer or prospective buyer of our business.
+  * Our professional advisers, such as our lawyers, where it is necessary for them to advise us.
+  * Other persons if we are under a duty to disclose or share your information in order to comply with any legal obligation.
+
+
+
+We may also share information about you with third parties that we engage to help us in certain areas, such as processing payments for services you order from us. However, we will control and be responsible for the use of your information by these third parties.
+
+You authorise us to reproduce and broadcast the information contained in your profile including your name, photograph, "chat up line", description etc. throughout all or part of our Company and Group's services including our various internet sites and mobile sites. 
+
+We may also provide information about you to other users of the Site as reasonably required in order to provide the services that you order from us. 
+
+**Marketing and other uses of your non-personal data by us and by third parties**
+
+We may share non-personal information we collect under any of the above circumstances. We may share it with our own companies or other third parties to develop and deliver targeted advertising to you, or to help us prepare or share aggregate business and marketing reports.
+
+We would like to send you information about goods and services offered by us and selected third parties that we think may be of interest to you. For that, the email address or mobile phone number you have provided can be used.
+
+If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes please tick the appropriate boxes situated in the ' **my account** ' area of the Site. You can also ask us to not to use your personal information, or to pass your details on to third parties for marketing purposes, by e-mailing us at: [unsubscribe-in@indiandating.com ](mailto:unsubscribe-in@indiandating.com)
+
+**Cookies**
+
+We may collect information about your computer or mobile device by using Cookies. If you use our site you are consenting to the use of Cookies as explained here.
+
+Cookies are small text files that are placed on your computer by websites that you visit and provide statistical data to us, that does not identify you personally but an tell us a lot about your browsing habits to tailor your user experience to suit your needs. They are widely used in order to make websites work, or work more efficiently, as well as to provide information to the owners of the site. We use cookies to enhance our security, help us gather information during subscription and understand our web traffic trends.
+
+They help us to improve the Site and to deliver a better and more personalised service. They enable us:
+
+  * To estimate our audience size and usage pattern.
+  * To store information about your preferences, and so allow us to customise the Site according to your individual interests.
+  * To speed up your searches.
+  * To recognise you when you return to the Site.
+  * To provide anonymized statistical information: Non-personal data may be gathered on our behalf using cookies, log file data, and code that is embedded on our websites by specific third party partners. We use this non-personal information to help improve the services we provides to you.
+
+
+
+When you visit the publicly available sections of the Site, a session ID cookie is placed on your computer that only lasts while you’re visiting. We also place persistent cookies (also known as local storage devices) on members’ computers, so that we remember them to make your login in process faster and easier. You may set your browser to block cookies and local storage devices, but if you do so, you may not be able to access all of the features of the Site.
+
+This table shows fully the cookie functions and why they are used, although our uses may change over time and it is important that you revisit this page to understand these uses:
+
+**Cookie Functions** | **Cookie Purposes**  
+---|---  
+Analytics and research | We use the information collected by Google Analytics to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited.  
+Authentication | These cookies help us to identify our members so that when you’re logged in, you can enjoy all of the features without having to continually log in – our Site “remembers” you and allows you full access without the need to keep entering your log in details.  
+Security and site integrity | We may use cookies and other devices, such as CAPTCHAs, to help keep the Site and our members safe and secure by protecting the Site from fraud and spam attacks to keep your data safe.  
+Site features and services | These cookies and local storage devices provide the functionality that our members enjoy, such as uploading of photographs, chats, instant messaging, your account settings etc. We also use cookies to help provide experiences, such as links to other social media sites, social plugins and video content, including making it easier for you to share content between the Site with your other favourite social networks. In some cases, the site feature you choose may allow a third party to place cookies or local storage devices on your computer. The third party who places cookies on your device is responsible for how they process their data you should always read their privacy policies. Third parties who place cookies on your device when you use the Site include Twitter and Facebook whose own privacy policies apply.   
+Performance | We need to use certain cookies and local storage devices to ensure our members have the best possible experience, such assisting with your navigation of our site, ensuring pages load up quickly and respond faster to your requests for our Site and Services.  
   
-_Last updated: July 2008_
+For further information about cookies visit: [http://www.aboutcookies.org](http://www.aboutcookies.org/)
 
-Webcapacity Incorporated/Indiandating.com is committed to protecting the privacy of your personal information on our Web sites and developing technology that gives you the most powerful, safe, online experience. This Privacy Statement applies to the network of Indiandating.com Web Sites that display the Indiandating.com logo and/or trademark. By using Indiandating.com, you consent to the data practices described in this statement. If you have questions about this Privacy Statement or the protection of your personal information on Indiandating.com Web sites, please contact [customer support](http://www.indiandating.com/support/support_request.cfm).
+**Where we store your personal data**
 
-  * [Collection of your Personal Information](http://www.indiandating.com/index.cfm?page=guest.privacy_policy#collection)
-  * [Use of your Personal Information](http://www.indiandating.com/index.cfm?page=guest.privacy_policy#use)
-  * [Service Providers](http://www.indiandating.com/index.cfm?page=guest.privacy_policy#service)
-  * [Sharing your Personal Information with Third Parties](http://www.indiandating.com/index.cfm?page=guest.privacy_policy#sharing)
-  * [Third Party Links](http://www.indiandating.com/index.cfm?page=guest.privacy_policy#thirdparty)
-  * [Use of Cookies](http://www.indiandating.com/index.cfm?page=guest.privacy_policy#cookies)
-  * [Control of your Personal Information](http://www.indiandating.com/index.cfm?page=guest.privacy_policy#control)
-  * [Security of your Personal Information](http://www.indiandating.com/index.cfm?page=guest.privacy_policy#security)
-  * [Use of Privacy Statements by Indiandating.com Partners and Affiliates](http://www.indiandating.com/index.cfm?page=guest.privacy_policy#partners)
-  * [Use of Third Party Ad Networks](http://www.indiandating.com/index.cfm?page=guest.privacy_policy#adnetworks)
-  * [Changes to this Statement](http://www.indiandating.com/index.cfm?page=guest.privacy_policy#changes)
-  * [Contact Information](http://www.indiandating.com/index.cfm?page=guest.privacy_policy#contact)
+The personal data that we collect from you may be transferred to, and stored at, a location outside the European Economic Area (' **EEA** '). It may also be processed by staff located outside the EEA who work for us or for one of our suppliers (for example, staff who are involved in providing services that you order from us, processing your payment details or providing support services for the Site). By submitting your personal data to us through the Site, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
 
+Where we have given you (or where you have chosen) a password or user ID code which enables you to access certain parts of the Site, you are responsible for keeping the password or user ID code confidential. We ask you not to share a password or user ID code with anyone.
 
+Unfortunately, the transmission of information via the internet is not completely secure. Athough we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to the Site; any transmission is at your own risk. Once we have received your information, we will use procedures and security features to try to prevent unauthorised access.
 
-* * *
+**Other Websites**
 
-**Collection of your Personal Information **  
+The Site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
 
+**Access to information and correction**
 
-Indiandating.com explicitly asks when it needs information that personally identifies you ("Personal Information") pertinent to the specific product or service you are choosing to use or subscribe to on the Indiandating.com web sites. This information can include your e-mail address, name, gender, address, and telephone number, as applicable. Indiandating.com also may ask for non-personal information or demographic information. None of the information we gather can be used by the public (visitors, other members, and anyone not employed by Indiandating.com, its corporate affiliates, or the financial institutions we use to process membership charges) to identify a specific individual. Members choose when to disclose their personal information at their own risk such as when contacting others through the contact system or listing any personal contact information on their profile.
+You have the right to request a copy of the information that we hold about you. If you would like a copy of some or all of your personal information, please contact us at [info-in@indiandating.com ](mailto:info-in@indiandating.com). Please note that we may make a small charge for this service.
 
-We are a membership-based service. We collect the name, country, gender and email address of standard account members. For Deluxe account members we collect credit card, address, or bank information only from those who choose to pay for a Deluxe account. No credit card information is stored on our servers. Anyone on the Internet can search our profiles or sign up for a standard free account and use all standard member features at no charge. Anyone is also welcome to create a online profile free of charge. For maximum exposure, member profiles are viewable on any of the Indiandating.com web sites, including any of our "co-branded" partner sites. All sites of Indiandating.com are owned and operated by Webcapacity Incorporated and none of the information is shared with any third party unless you join on our partner "co-brand" sites in which you will be notified up-front that your Indiandating.com information will be shared with the Indiandating.com co-brand partner. All Indiandating.com web sites and profiles reside on our one central database and on no third party systems.
+We want to make sure that your personal information is accurate and up to date. You can ask us to correct or remove information you think is inaccurate at any time by e-mailing us at [info-in@indiandating.com ](mailto:info-in@indiandating.com).
 
-Indiandating.com gathers two types of information: information that users submit to us and information not directly submitted by users, public and private. We define private information to be any information that allows others to contact a user other than through Indiandating.com or allows the collection of information about the user other than what is displayed on the site. Public information is personal information that may be displayed on the site, such as gender, age and height, but cannot be linked to a particular user. (Except in the case of a Deluxe member who chooses to list their contact information in their profile which is viewable to all.)
+**Changes to our privacy policy**
 
-  * _Private Information:_
+We keep our privacy policy under regular review and will post any changes to it on this page. We encourage you to regularly review our privacy policy to make sure you are always aware of what information we collect, how we use it and under what circumstances, if any, we may share it with other parties.
 
-The information gathered from standard free account members includes, email address, IP address, first and last name. The information gathered from Deluxe members includes all of the above in addition to credit card info, address and other billing information. Credit card numbers are never committed to disk on our servers (stored on our servers). Credit card numbers are only used during real time authorization/billing and all transmissions over the Internet are encrypted via industry standard SSL.
+**Questions**
 
-  * _Public Information:_
+If you have any questions about this privacy policy then please contact us at [info-in@indiandating.com ](mailto:info-in@indiandating.com).
 
-To accomplish the goal of bringing compatible individuals together, we must gather personal information such as gender, age, location, birth country, religion and more for the online profiles. This information is meant to be seen by members and visitors to the site but cannot be used to identify a specific member by name, address, etc. Indiandating.com does not require individuals to include contact information in their profile descriptions/text fields however Deluxe account holders can do so if they choose. Any contact/personal information that is disclosed in those areas is done so at the members own risk. Information that users do not submit to us is aggregate information: This is information we collect that is not personally identifiable, such as what kind of browser you are using, IP address and occasionally trace route to your computer. This information is gathered for all visitors to the site.
-
-
-[[ top ]](http://www.indiandating.com/index.cfm?page=guest.privacy_policy#top)
-
-**Use of your Personal Information **  
-
-
-  * _Private Information:_
-
-Indiandating.com and our sites use your personal information to operate the Indiandating.com sites and to provide the services you have requested. The information is also used to communicate with you regarding your Indiandating.com account by sending out periodic newsletters and notices that are considered as essential to the operation of the service. If the member wishes to be removed from this list, they can login with their username and password, go to their member home page, and then click on "Email preferences". There they can choose to be removed from our list. The non-personal information is used to compile general demographic statistics which is shared in the aggregate with Indiandating.com advertisers. We also use your e-mail address to respond to incoming service and support requests from you, to collect customer feedback, customer satisfaction surveys, and other service informational mailings.
-
-Should the situation arise, Webcapacity Incorporated may have to share some or all of the personal information collected when required to do so by law, judicial or other government subpoenas, warrants/orders or in the good faith belief that such action is required to: (1) conform to mandates of the law or comply with legal process served on Webcapacity Incorporated; (2) protect and defend Webcapacity Incorporated's rights or property; or (3) act under critically urgent circumstances to protect the personal safety of our members or the public.
-
-All information collected in our registration process is not accessible by other members except for the following:
-
-> a) If a member has a profile on the site and another member contacts them, an email is sent to the contacted member with their message and the contacter's reply-to email address. What the contacter discloses in this email is up to them and is done at their own risk. If the contacted member wishes to respondit is up to them how to do it and what they want to disclose. They can retrieve the contacter's reply-to email address via their contact manager or in the initial message itself. When a member contacts another member on the site via our contact system they are disclosing their email address on file to the contacted at their own risk.This is done so the contacted can get back in touch with them.
-
-> b) Deluxe account members can also choose to display their contact information in their profile and do this at their own risk since the information is publicly viewable to all visitors of Indiandating.com.
-
-  * _Public Information:_
-
-Public information supplied by the user on their profile is intended to be viewed by visitors and members of the site. This information is disclosed by members at their discretion.
-
-Information that users do not submit to us is aggregate information: We use your server, IP address, and browser-type related information in the general administration of our web site for tracking where people come from and other data.
-
-
-[[ top ]](http://www.indiandating.com/index.cfm?page=guest.privacy_policy#top)
-
-**Service Providers **  
-
-
-Deluxe account payments in Rupees and some aspects of customer service & support for customers in India is provided by Webcapacity (India) Private Limited, a subsidiary of Webcapacity Incorporated.
-
-If a user signs up for our service and chooses to pay in Rupees, we need to allow them to access certain data to facilitate their customer support and billing services to provide better customer service. All customer information is retained, stored, restricted access to and owned by Webcapacity Incorporated.
-
-The sharing of personal information is necessary for Webcapacity (India) Pvt. Ltd. to provide these services. They are not allowed to use personally identifiable information except for the purpose of providing these services and are bound to handle all accessed customer information in strict accordance with this privacy policy.
-
-[[ top ]](http://www.indiandating.com/index.cfm?page=guest.privacy_policy#top)
-
-**Sharing your Personal Information with Third Parties **  
-
-
-Indiandating.com does not disclose any member information with any other third party except as disclosed in the privacy statement or unless you have joined on a "co-branded" partner site. In the latter case, you are notified up-front before you join a Indiandating.com co-branded site if your membership/information will be shared with a Indiandating.com partner.
-
-[[ top ]](http://www.indiandating.com/index.cfm?page=guest.privacy_policy#top)
-
-**Third Party Links **  
-
-
-Any links to sites outside of Indiandating.com or the Indiandating.com sites, are not controlled or operated by Indiandating.com. Hence this privacy information no longer applies when you leave this site. This includes links to partners, banner ads, etc.
-
-[[ top ]](http://www.indiandating.com/index.cfm?page=guest.privacy_policy#top)
-
-**Use of Cookies **  
-
-
-To make it easy and convenient for you to login to our services, the Indiandating.com site does require you to enable cookies to utilize our services. Because we use cookies, you can bookmark your Indiandating.com start page and access your account without logging in.
-
-A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you. One of the primary purposes of cookies is to provide a convenience feature to save you time. Our server generates a random pair of numbers that is placed in three cookies, and is set in your browser. This random pair of numbers is then sent back to the server each time you request a page on the Indiandating.com site. Our server uses those numbers to identify your computer, and for example, remember where you were in your search results or any of the various things that can be customized on Indiandating.com. Rest assured that there is absolutely NO PERSONAL information being stored on your machine or sent back and forth between your computer and Indiandating.com. Our cookies only store those two random numbers and cannot personally identify you. Note however that if you are a logged in member on a shared computer or public kiosk remember to click on the logout button. This will log you out of your session and prevent others from accessing your account.
-
-You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you will not be able to fully experience the interactive features of the Indiandating.com site and on other Indiandating.com Web sites or other web sites you visit.
-
-[[ top ]](http://www.indiandating.com/index.cfm?page=guest.privacy_policy#top)
-
-**Control of your Personal Information **  
-
-
-Members have full control over any information they submit to this site. The members profile can be edited, deleted, or hidden at anytime by logging in with the username and password and clicking the "Update profile" link. The members private information can be modified at anytime via the same process above, by selecting the "edit my information" link. The only exception to the above is information a member submits on our payment forms. This is not editable by members because we need to keep a static record of all transactions.
-
-If you have chosen to receive information from Indiandating.com and then at a later date decide you do not wish to continue receiving such information, you can unsubscribe by logging with your username and password, go to your member home page, and then click on "Email preferences". There you can choose to be removed from our list. You can also choose to deactivate your account from your member home page. This will also have the effect of removing you from all mailings.
-
-[[ top ]](http://www.indiandating.com/index.cfm?page=guest.privacy_policy#top)
-
-**Security of your Personal Information **  
-
-
-Indiandating.com secures your personal information from unauthorized access, use or disclosure. Indiandating.com secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When sensitive personal information (such as a credit card number and other financial information) is transmitted over the Internet, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
-
-[[ top ]](http://www.indiandating.com/index.cfm?page=guest.privacy_policy#top)
-
-**Use of Privacy Statements by Indiandating.com Partners and Affiliates **  
-
-
-While Indiandating.com supports other web site operators using Indiandating.com services complying with these principles, you should carefully examine the privacy statements of sites linking to or from Indiandating.com. Personal information that you choose to provide to other web sites will be subject to the privacy policies of that specific web site.
-
-[[ top ]](http://www.indiandating.com/index.cfm?page=guest.privacy_policy#top)
-
-**Use of Third Party Ad Networks **  
-
-
-Many of the online banner advertisements you see on the Indiandating.com Web sites are displayed by Indiandating.com. In addition, Indiandating.com also allows other companies, called third-party ad servers or ad networks, to display advertisements on Indiandating.com Web sites. To do this, ad networks place a persistent cookie on your computer. Doing this allows the ad network to recognize your computer each time they send you an online advertisement. In this way, ad networks may compile information about where you, or others who are using your computer, saw their advertisements and determine which ads are clicked on. This information allows an ad network to deliver advertisements that they believe will be of most interest to you. Indiandating.com does not have access to or control of the cookies that may be placed by the third-party ad servers or ad networks.
-
-Indiandating.com may maintain relationships with a number of the third-party ad networks currently operating such as Burst Media, Google AdSense and ValueClick. If you want to prevent one of these third-party companies from sending and reading cookies on your computer, you will need to either set your browser to decline third party cookies or visit each ad network's web site individually or request that you be removed from its system. To find out more about these ad agencies and their privacy policies you can visit their web sites:
-
-  * <http://www.burstmedia.com/>
-  * <https://www.valueclickmedia.com/>
-  * <https://www.google.com/adsense>
-
-[[ top ]](http://www.indiandating.com/index.cfm?page=guest.privacy_policy#top)
-
-**Changes to this Statement **  
-
-
-Indiandating.com will occasionally update this Privacy Statement to reflect company and customer feedback. When Indiandating.com posts changes to this Statement, we will also revise the "last updated" date at the top of the Privacy Statement. If there are material changes to this Statement, Indiandating.com will notify you by placing prominent notice on the Web site or via email. Indiandating.com encourages you to periodically review this Statement to be informed of how Indiandating.com is protecting your information.
-
-[[ top ]](http://www.indiandating.com/index.cfm?page=guest.privacy_policy#top)
-
-**Contact Information **  
-
-
-If you have any questions regarding this Privacy Statement, please click [here](http://www.indiandating.com/support/support_request.cfm) to send an e-mail to our support staff. Or you can write to us at:
-
-> Webcapacity Incorporated  
-> 12660 W. Gould Dr.  
-> Littleton, CO 80127  
-> USA
-
-[[ top ]](http://www.indiandating.com/index.cfm?page=guest.privacy_policy#top)
+close 
