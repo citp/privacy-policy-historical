@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the navionics.com privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022073013id_/http%3A//navionics.com/privacy-policy-0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the navionics.com privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518185842id_/http%3A//www.navionics.com/en/privacy-policy-0) for the most accurate reproduction.*
 
 # Privacy Policy | Navionics
 
-If you are looking for privacy policy concerning our mobile applications, [please click here](http://www.navionics.nl/privacy-policy-mobile)
+If you are looking for privacy policy concerning our mobile applications, [please click here](http://www.navionics.com/en/privacy-policy-mobile)
 
 This privacy policy explains how we use personal information collected at navionics.com or the Navionics® web store (collectively the “Site). Please read this privacy policy before using the Site or submitting any personal information. By using the Site, you are accepting the practices described in this privacy policy. These practices may be changed, but any changes will be posted and changes will only apply to activities and information on a going forward, not a retroactive basis. We encourage you to review the privacy policy whenever you visit the Site to make sure that you understand how any personal information you provide will be used.  
 Note: the privacy practices set forth in this privacy policy are for the Site only. If you encounter links to external websites from within our Site, please review the relevant privacy policies posted at those websites for their specific uses.
