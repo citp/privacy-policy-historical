@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fastreact.co.uk privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109230359id_/http%3A//www.fastreact.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastreact.co.uk privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518195738id_/http%3A//www.fastreact.com/privacy.php) for the most accurate reproduction.*
 
 # Fast React > Privacy Policy
 
@@ -8,7 +8,7 @@
 
 The New York based company Madison88 Ltd, have selected Fast React Systems as their sourcing solutions provider by implementing Vision.
 
-[](http://www.fastreact.com/vision_news.php?id=214 "Madison88 select Fast React's Vision")
+[](http://www.fastreact.com/news/madison88_select_fast_react_s_vision "Madison88 select Fast React's Vision")
 
 ## Case Studies
 
