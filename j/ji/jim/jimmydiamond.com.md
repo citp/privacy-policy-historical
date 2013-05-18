@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jimmydiamond.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102234659id_/http%3A//jimmydiamond.com/legal/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jimmydiamond.com privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518121132id_/http%3A//jimmydiamond.com/legal/privacy_policy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
