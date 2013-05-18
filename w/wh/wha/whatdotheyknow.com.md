@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whatdotheyknow.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122025911id_/http%3A//www.whatdotheyknow.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatdotheyknow.com privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518181330id_/http%3A//www.whatdotheyknow.com/help/privacy) for the most accurate reproduction.*
 
 # Your privacy - WhatDoTheyKnow
 
@@ -47,7 +47,7 @@ They've asked for my postal address! #
 
 If a public authority asks you for your full, physical address, reply to them saying that section 8.1.b of the FOI Act asks for an "address for correspondence", and that the email address you are using is sufficient. 
 
-The Ministry of Justice has [guidance on this](http://www.justice.gov.uk/guidance/foi-procedural-what.htm) – _"As well as hard copy written correspondence, requests that are transmitted electronically (for example, in emails) are acceptable ... If a request is received by email and no postal address is given, the email address should be treated as the return address."_
+The Ministry of Justice has [guidance on this](http://www.justice.gov.uk/information-access-rights/foi-guidance-for-practitioners/procedural-guidance/foi-what-constitutes) – _"As well as hard copy written correspondence, requests that are transmitted electronically (for example, in emails) are acceptable ... If a request is received by email and no postal address is given, the email address should be treated as the return address."_
 
 As if that isn't enough, the Information Commissioner's [Hints for Practitioners](http://www.ico.gov.uk/upload/documents/library/freedom_of_information/practical_application/foi_hints_for_practitioners_handing_foi_and_eir_requests_2008_final.pdf) say _"Any correspondence could include a request for information. If it is written (this includes e-mail), legible, gives the name of the applicant, an address for reply (which could be electronic), and includes a description of the information required, then it will fall within the scope of the legislation."_
 
