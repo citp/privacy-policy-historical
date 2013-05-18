@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the twoo.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225030006id_/http%3A//www.twoo.com/about%3Fview%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twoo.com privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518071545id_/http%3A//www.twoo.com/about/privacy) for the most accurate reproduction.*
 
-# Twoo's Privacy Statement
+# Twoo - Meet New People - Privacy Policy
 
 The Website is owned by Massive Media NV, a company registered in Ghent, Belgium with company number 0859.635.972.
 
 This Privacy Statement was created in order to demonstrate our firm commitment to your right to privacy and data protection. Twoo processes your personal data with every reasonable safeguard for your protection and in conformity with this Privacy Statement and with the strict rules of Belgian and European data protection legislation.
 
-This Privacy Statement is a part of Twoo’s [Terms & Conditions](https://web.archive.org/about?view=terms) and should be read carefully. It specifies your rights and explains how you can exercise them. Any use of the Website implies the acceptance of the entire Privacy Statement.
+This Privacy Statement is a part of Twoo’s [Terms & Conditions](https://web.archive.org/about/terms) and should be read carefully. It specifies your rights and explains how you can exercise them. Any use of the Website implies the acceptance of the entire Privacy Statement.
 
 * ## Types of personal data we collect
 
@@ -45,7 +45,7 @@ We use your personal data to:
   * Perform general customer administration.
   * Send you communications about the Website, as well as our other products and services.
   * Provide you with advertisements tailored to your profile.
-  * Investigate fraud and infringements of our [Code of Conduct](https://web.archive.org/about?view=codeofconduct).
+  * Investigate fraud and infringements of our [Code of Conduct](https://web.archive.org/about/codeofconduct).
   * Generate anonymous statistics about the (users of the) Website, to improve the Website or convey statistical information to third parties.
 
 
@@ -54,7 +54,7 @@ You may want us to send you e-mails with notifications about new messages or for
 
 By registering on the Website, you acknowledge and agree that the profile data and other information that you provide, including sensitive personal data, may be accessed from countries outside Belgium. Please note that countries outside Europe may have lower standards of data protection than Belgium.
 
-* ## How your personal data are shared with third parties
+* ## How your personal data is shared with third parties
 
 Third parties can access all information intended to be made public by you, under the conditions specified in your privacy settings.
 
