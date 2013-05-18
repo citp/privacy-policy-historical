@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stubhub.com privacy policy that was archived on 2012-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121013012056id_/http%3A//www.stubhub.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stubhub.com privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518192233id_/http%3A//www.stubhub.com/privacy_policy) for the most accurate reproduction.*
 
 # Tickets at StubHub! Where Fans Buy and Sell Tickets
 
@@ -6,15 +6,21 @@ Privacy Policy
 
 _Please Note:_
 
-_UPDATED EFFECTIVE June 5, 2012_
+_UPDATED EFFECTIVE March 21, 2013_
 
-This Privacy Policy tells you about StubHub, Inc.'s policies and practices for the collection, use and disclosure of information we collect about you through our Site and Services, including the website www.stubhub.com. By using our Site and Services, you agree to the terms of this Privacy Policy and you consent to the processing of information about you as described here. 
+This Privacy Policy describes your privacy rights regarding StubHub, Inc.'s collection, use, storage, sharing, and protection of your personal information. It applies to the stubhub.com website and all related websites, applications, services, and tools (Sites and Services) where this policy is referenced, regardless of how you access or use them. By using our Sites and Services, you agree to the terms of this Privacy Policy and consent to the processing of your personal information as described here. StubHub, Inc. is part of the eBay, Inc. corporate family. More detailed information about our privacy practices and on how to contact us with any question is available at the [eBay Privacy Center](http://www.ebayprivacycenter.com/). 
 
-The StubHub website is a licensee of the TRUSTe Web Privacy Program. If StubHub Customer Service cannot answer your privacy-related questions, please use the TRUSTe Watchdog Dispute Resolution Process. 
+Throughout this Privacy Policy, we use the term "personal information" to describe information that can be associated with a specific person and can be used to identify that person. We do not consider personal information to include information that has been made anonymous or aggregated so that it can no longer be used, whether in combination with other information or otherwise, to identify a specific person. 
 
-Binding Corporate Rules
+The StubHub website is a licensee of the TRUSTe Web Privacy Program. If StubHub Customer Service cannot answer your privacy-related questions, please use the TRUSTe [Watchdog Dispute Resolution Process](https://feedback-form.truste.com/watchdog/request).
 
-In addition to the privacy practices set out in this Privacy Policy, eBay Inc. has established a set of Corporate Rules (also referred to as Binding Corporate Rules), approved by a number of European Union privacy regulators. These Corporate Rules are a commitment by eBay Inc. to adequately protect your personal information regardless of where the data resides, and depending upon your location, may provide additional privacy rights through your privacy regulator or a court. If you would like additional information regarding the Corporate Rules contact us via the contact details below. 
+[ ](https://privacy.truste.com/privacy-seal/eBay-Inc-/validation?rid=ad91e4a5-d14c-4d71-8710-ab35824067e2 "TRUSTe online privacy certification")
+
+Global Privacy Standards
+
+eBay Inc. has established a set of corporate rules for privacy, known as Binding Corporate Rules (BCRs), which are our global privacy standards for all eBay Inc. companies. These BCRs have been approved by a number of European Union privacy regulators. They are a commitment by eBay Inc. to protect your personal information and honor our privacy obligations regardless of where your personal information is collected, processed or stored. Depending on where you reside, the BCRs may also provide you some additional privacy rights through your local privacy regulator or court. 
+
+More information about eBay Inc's BCRs and its global privacy practices and principles is available at the [eBay Privacy Center](http://www.ebayprivacycenter.com/). 
 
 Information We Collect
 
@@ -22,9 +28,9 @@ _Information you give to us._
 
 When you register and/or buy or sell tickets, we ask you for the following information: 
 
-  * name and physical shipping, contact and payment addresses; 
+  * Name and physical shipping, contact and payment addresses; 
   * Email address and telephone number;
-  * Credit card information;
+  * Credit or debit card or PayPal account information ("Payment Method");
   * Login and password; and/or
   * Social Security number or tax identification number, for certain sellers to whom we are required by law to provide a 1099-k.
 
@@ -32,19 +38,23 @@ When you register and/or buy or sell tickets, we ask you for the following infor
 
 _Information we collect when you use our Site and Services._
 
-We may collect information about the way you interact with our Site, Services, content and advertising. This may include computer, browser and connection information, statistics on page views, traffic to and from our sites, ad data, device ID, location, machine ID, IP address, telephone calls with us, and standard web log information. 
+We may collect information about the way you interact with our Site, Services, content and advertising. This may include, but is not limited to, device ID, device type, machine ID, geo-location information, computer and connection information, statistics on page views, traffic to and from our Sites, IP address, ad data, and standard web log information, and any telephone number you provide us or from which you may call or otherwise contact us. 
 
-We may obtain information from or about you in other ways. For example, we may verify user information with a service provider or combine your information with information we collect from other companies. Also, we collect the information you send to us such as correspondence, customer satisfaction surveys or customer service communications, testimonials or User Content such as photos, blogs and writings. 
+_Information we collect from other sources._
+
+We may also obtain information from or about you in other ways. For example, we may verify user information with a service provider or combine your information with additional information we collect from other third parties or sources, as authorized and permitted by law. Also, we collect the information you send to us such as correspondence, customer satisfaction surveys or customer service communications, testimonials or User Content such as photos, blogs and writings. 
 
 How We Use Information
 
 Our primary purpose in collecting personal information is to provide you with a safe, efficient and customized experience. We may use the information we collect to: 
 
-  * provide the Services and customer support you request;
-  * resolve disputes, collect fees and troubleshoot problems;
+  * provide the Services and customer support you request
+  * resolve disputes, collect fees and troubleshoot problems
   * prevent, detect and investigate potentially prohibited or illegal activities, and enforce our User Agreement
-  * customize, measure and improve our Site, Services and advertising;
-  * tell you about our Services and those of our corporate family, service updates, targeted marketing and promotional offers based on your communication preferences;
+  * customize, measure and improve our Site, Services and advertising
+  * contact you tell you about our Services and those of our corporate family, service updates, targeted marketing and promotional offers based on your communication preferences
+  * contact you to resolve disputes, collect fees, and troubleshoot problems with your account or our sites, services, applications or tools, or for other purposes authorized by law
+  * contact you at any telephone number using auto-dialed or pre-recorded message calls or SMS or other text messages (if applicable) for the purposes described in this Privacy Policy or our User Agreement
   * compare information for accuracy and verify it with third parties; and/or comply with applicable laws
 
 
@@ -59,10 +69,10 @@ We share information between our buyers and sellers that allow them to complete 
 
 We may also share your personal information with: 
 
-  * Members of the eBay Inc. corporate family like eBay, PayPal, GSI, Bill Me Later or Shopping.com to provide joint content and services (like registration, transactions and customer support), to help detect and prevent potentially illegal acts and violations of our policies, and to guide decisions about their products, services and communications. Members of our corporate family will send you marketing communications based on this information but only if you've requested their services.
+  * [Members of the eBay Inc.corporate family](http://www.ebayprivacycenter.com/about-us/corporate-family) to provide joint content and services (like registration, transactions and customer support), to help detect and prevent potentially illegal acts and violations of our policies, and to guide decisions about their products, services and communications. Members of our corporate family will send you marketing communications based on this information but only if you've requested their services.
   * Service providers under contract who help with our business operations (such as fraud detection, credit card processing, delivery services, ticket cancel and reissue, or bill collection). 
-  * Co-brand partners for certain sites, events or listings. When we identify a co-brand partner for a site, event or listing, you agree that we may share contact information and transaction data (excluding credit card numbers) with that partner. Information shared with a co-brand partner is subject to their privacy policy. We do not control the privacy policies of co-brand partners and we encourage you to review their privacy policies.
-  * Marketing partners for certain sites, events or listings where you agree during checkout that you would like your information shared for their marketing purposes. We may share your contact information and transaction data (excluding credit card numbers) with the marketing partner identified in checkout. Information shared with a marketing partner is subject to their privacy policy. We do not control the privacy policies of marketing partners and we encourage you to review their privacy policies.
+  * Co-brand partners for certain sites, events or listings. When we identify a co-brand partner for a site, event or listing, you agree that we may share contact information and transaction data (excluding credit or debit card numbers) with that partner. Information shared with a co-brand partner is subject to their privacy policy. We do not control the privacy policies of co-brand partners and we encourage you to review their privacy policies.
+  * Marketing partners for certain sites, events or listings where you agree during checkout that you would like your information shared for their marketing purposes. We may share your contact information and transaction data (excluding credit or debit card numbers) with the marketing partner identified in checkout. Information shared with a marketing partner is subject to their privacy policy. We do not control the privacy policies of marketing partners and we encourage you to review their privacy policies.
   * Other third parties to whom you explicitly ask us to send your information (or about whom you are otherwise explicitly notified and consent to when using a specific service). 
   * Other business entities, should we plan to merge with or be acquired by that business entity or sell assets. Should such a combination occur, we will require that the new combined entity follow this privacy policy with respect to your personal information. If your personal information will be used contrary to this policy, you will receive prior notice.
 
@@ -70,7 +80,7 @@ We may also share your personal information with:
 
 Cookies and web beacons
 
-When you first use our Site and Services, StubHub may send a cookie to your computer that identifies you as a unique user. We may use session cookies (which expire once you close your web browser) and persistent cookies (which stay on your computer until you delete them) to store your preferences, identify you and maintain your signed-in status, and provide you with a more personal and interactive experience. You can set your browser to refuse cookies or delete persistent cookies by following your browser's help instructions. If you choose to disable cookies, some of our services may not work properly and you may not be able to buy and sell tickets. We may also use **web beacons** which are typically small graphic objects or pixels that are embedded in a web page. These web beacons allow us or our provider(s) to check that a user has viewed a web page. For more information about how we or our providers use cookies and web beacons, [see Cookies, Web Beacons, and Your Privacy](https://web.archive.org/cookies-web-beacons/). 
+When you first use our Site and Services, StubHub may send a cookie to your computer that identifies you as a unique user. We may use session cookies (which expire once you close your web browser) and persistent cookies (which stay on your computer until you delete them) to store your preferences, identify you and maintain your signed-in status, and provide you with a more personal and interactive experience. You can set your browser to refuse cookies or delete persistent cookies by following your browser's help instructions. If you choose to disable cookies, some of our services may not work properly and you may not be able to buy and sell tickets. We may also use **web beacons** which are typically small graphic objects or pixels that are embedded in a web page. These web beacons allow us or our provider(s) to check that a user has viewed a web page. For more information about how we or our providers use cookies and web beacons, [see Cookies, Web Beacons, and Your Privacy](http://www.stubhub.com/cookies-web-beacons/). 
 
 Accessing and changing personal information
 
@@ -80,9 +90,11 @@ We may communicate with you at various times, with administrative emails or phon
 
 If you choose to use our referral services, we ask you for your friend's name and email address. We will automatically send your friend a copy of the email. StubHub or our service providers store this information for the sole purpose of sending this one-time email. Your friend may contact us at [customerservice@stubhub.com](mailto:customerservice@stubhub.com) to request that we remove this information from our database. 
 
-Security
+Security and Retention
 
 Your information is stored on our servers located in the United States. We treat data as an asset that must be protected and use tools (encryption, passwords, physical security, etc.) to protect your personal information against unauthorized access and disclosure. However, as you probably know, third parties may unlawfully intercept or access transmissions or private communications, and other users may abuse or misuse your personal information that they collect from the site. Therefore, although we work very hard to protect your privacy, we do not promise, and you should not expect, that your personal information or private communications will always remain private. 
+
+We retain information as long as it is necessary and relevant for our operations. In addition, we may retain personal information from closed accounts to comply with the law, prevent fraud, collect any fees owed, resolve disputes, troubleshoot problems, assist with any investigation, enforce our User Agreement and take other actions permitted by law. 
 
 Third Parties
 
@@ -90,7 +102,7 @@ Except as otherwise expressly included in this Privacy Policy, this document add
 
 Privacy Policy Updates
 
-If we decide to change our privacy policy, we will post those changes on this site and notify you of material changes with an alert on the site or a communication to you. Changes take effect 30 days after they are posted to the Site. This policy was last updated effective June 5, 2012. 
+If we decide to change our privacy policy, we will post those changes on this site and notify you of material changes with an alert on the site or a communication to you. Changes take effect 30 days after they are posted to the Site. This policy was last updated effective March 21, 2013. 
 
 Questions
 
