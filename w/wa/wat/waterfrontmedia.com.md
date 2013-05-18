@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the waterfrontmedia.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603131809id_/http%3A//corporate.everydayhealth.com/eh-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waterfrontmedia.com privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518234405id_/http%3A//corporate.everydayhealth.com/eh-privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This Policy was last changed on November 23, 2011
+This Policy was last changed on November 8, 2012
 
-Everyday Health, Inc. and its subsidiaries ("Everyday Health," “us” or “we”) operates this website (the "Site"), and other health, wellness, diet and fitness websites that are part of the Everyday Health portfolio of websites (collectively, the "Sites") and the services related to or offered on the Sites (hereinafter, the "Services"). Some of the Sites are websites that we operate on behalf of third party licensors, for example, JillianMichaels.com, PDRHealth.com and SouthBeachDiet.com (collectively, "Licensors"). Everyday Health's Services may include, without limitation, tools, applications, email services, bulletin and message boards, chat areas, news groups, forums, communities, calendars, and downloadable mobile applications related to the Sites or provided through the Sites. 
+Everyday Health Media, LLC and its subsidiaries ("Everyday Health," “us” or “we”) operate this website (the "Site"), and other health, wellness, diet and fitness websites that are part of the Everyday Health portfolio of websites (collectively, the "Sites") and the services related to or offered on the Sites (hereinafter, the "Services"). Some of the Sites are websites that we operate on behalf of third party licensors, for example, JillianMichaels.com, PDRHealth.com and SouthBeachDiet.com (collectively, "Licensors"). Everyday Health's Services may include, without limitation, tools, applications, email services, bulletin and message boards, chat areas, news groups, forums, communities, calendars, and downloadable mobile applications related to the Sites or provided through the Sites. 
 
 We provide you this privacy policy (the "Policy") to help you understand the kinds of information we may gather about you when you visit the Site or use any of our Services, how we may use and disclose the information, and how you can control, correct and/or update the information. 
 
@@ -24,12 +24,12 @@ We collect information about you in the following ways:
 
 We collect and maintain information that you voluntarily submit to us during your use of the Sites and Services. For example: 
 
-  * when you register for a Site, you may provide us certain information including your name, email address, screen name, password, demographic information and the health topics that interest you; 
-  * to engage a Site's social networking function, you may add to your profile by providing information about your interests or health topics. For example, your profile may list your favorite healthy foods or movie; 
-  * if you are registering for a customized weight loss program, you may provide us answers to questions we use to provide you the program, like your actual and goal weights, your preferred method of exercise, or your caloric intake; 
-  * if you sign up to receive a newsletter, enter a contest or participate in social networking activities, you may provide us contact information (e.g., email or physical address); 
+  * when you register for a Site, you may provide us certain information including your name, email address, screen name, password, demographic information and the health topics that interest you;
+  * to engage a Site's social networking function, you may add to your profile by providing information about your interests or health topics. For example, your profile may list your favorite healthy foods or movie;
+  * if you are registering for a customized weight loss program, you may provide us answers to questions we use to provide you the program, like your actual and goal weights, your preferred method of exercise, or your caloric intake;
+  * if you sign up to receive a newsletter, enter a contest or participate in social networking activities, you may provide us contact information (e.g., email or physical address);
   * if you purchase a product or service, you may provide us your credit card information; and
-  * you may provide us with Personal Information in the course of email, customer support interactions and surveys.
+  * you may provide us with Personal Information in the course of email, customer support interactions and surveys. 
 
 
 
@@ -57,13 +57,13 @@ You can limit the way that we tailor advertising based on your self-reported int
 
 In general, we use your Personal Information as necessary or appropriate for purposes including to:
 
-  * administer your account; 
-  * register you and provide you access to the Site or Services; 
-  * respond to inquiries or requests that you direct to us; 
-  * fulfill your requests for products or services; 
-  * send communications and administrative emails about the Sites or Services; 
-  * personalize and better tailor the features, performance and support of the Sites and Services for your use; 
-  * send you promotional/marketing information, newsletters, offers or other information regarding opportunities and functionality that we think would be of particular interest to you; 
+  * administer your account;
+  * register you and provide you access to the Site or Services;
+  * respond to inquiries or requests that you direct to us;
+  * fulfill your requests for products or services;
+  * send communications and administrative emails about the Sites or Services;
+  * personalize and better tailor the features, performance and support of the Sites and Services for your use;
+  * send you promotional/marketing information, newsletters, offers or other information regarding opportunities and functionality that we think would be of particular interest to you;
   * improve the quality of the Site and the Services, and
   * analyze, benchmark and conduct research on user data and user interactions with the Site and Services.
 
@@ -73,9 +73,9 @@ In general, we use your Personal Information as necessary or appropriate for pur
 
  **A. Cookies, Web Beacons and IP Address Information**
 
-  * "Cookies" are small pieces of information that a website places on your browser when you visit that website. We may use cookies to provide you with a more personal and interactive experience with the Sites and Services. For example, we may use cookies to control what advertisements you see, the sequence of advertisements and to make sure you don't see the same advertisement too many times. For contests or sweepstakes, we may also use cookies in order to track your progress and the number of entries in some promotions. For polls, we may use cookies to help ensure that an individual can't vote more than once on a particular question or issue. We do not store Personal Information in any cookies on your computer. 
-  * Cookies can be removed by following your Internet browser's directions within the help tab. In order to use certain Services offered through the Sites, your web browser must accept cookies. If you choose to disable cookies, some aspects of the Sites may not work properly, and you may not be able to access our Services. 
-  * We may also use cookies, pixels, web beacons (which are usually small, transparent graphic images), operating system and device information and navigational data like Uniform Resource Locators (URL) to gather information regarding the date and time of your visit, the features and information for which you searched and viewed, the email you opened, or on which advertisements you clicked. This type of information is collected to make the Sites and Services more useful to you and to tailor the experience with us to meet your special interests and needs. 
+  * "Cookies" are small pieces of information that a website places on your browser when you visit that website. We may use cookies to provide you with a more personal and interactive experience with the Sites and Services. For example, we may use cookies to control what advertisements you see, the sequence of advertisements and to make sure you don't see the same advertisement too many times. For contests or sweepstakes, we may also use cookies in order to track your progress and the number of entries in some promotions. For polls, we may use cookies to help ensure that an individual can't vote more than once on a particular question or issue. We do not store Personal Information in any cookies on your computer.
+  * Cookies can be removed by following your Internet browser's directions within the help tab. In order to use certain Services offered through the Sites, your web browser must accept cookies. If you choose to disable cookies, some aspects of the Sites may not work properly, and you may not be able to access our Services.
+  * We may also use cookies, pixels, web beacons (which are usually small, transparent graphic images), operating system and device information and navigational data like Uniform Resource Locators (URL) to gather information regarding the date and time of your visit, the features and information for which you searched and viewed, the email you opened, or on which advertisements you clicked. This type of information is collected to make the Sites and Services more useful to you and to tailor the experience with us to meet your special interests and needs.
   * An "Internet protocol address" or "IP Address" is a number that is automatically assigned to your computer when you use the Internet. We, or our service providers, may use your IP Address when you access the Sites or Services or use other means to assist with delivering geographically targeted advertisements. 
 
 
@@ -134,11 +134,13 @@ The Site and Services are not directed or intended for children under 13 years o
 
 ## **7\. Updating and Control of Your Personal Information**
 
-We offer you choices regarding the collection, use, and sharing of your Personal Information. When you receive promotional communications from us you will have the opportunity to "opt-out" by following the unsubscribe instructions provided in the promotional e-mail or newsletter you receive or by editing your preference to receive these communications within the "Manage My Email" or similar feature on the individual Sites when you are logged in as a registered user.. 
+We offer you choices regarding the collection, use, and sharing of your Personal Information. When you receive promotional communications from us you will have the opportunity to "opt-out" by following the unsubscribe instructions provided in the promotional e-mail or newsletter you receive or by editing your preference to receive these communications within the "Manage My Email" or similar feature on the individual Sites when you are logged in as a registered user.
 
-If your Personal Information changes or if you no longer desire to use or access one of the Sites or Services, we encourage you to correct, update or remove the Personal Information from your profile. This can be done at the "Profile" or "My Account" section on each of the Sites. (On some Sites the profile section is accessed through the MySite tab, e.g., MyEverydayHealth or MyRevolution). Keep in mind, however, that even if you delete information from your profile, we may retain your Personal Information in conformance with our data retention policy and Personal Information may remain within our databases, access logs, and other records. In addition, we are not responsible for updating or removing your Personal Information contained in the lists or databases of third parties who have been provided information as permitted by this Policy. 
+If your Personal Information changes or if you no longer desire to display information on the Sites or Services, we encourage you to correct, update or remove Personal Information from your profile. This can be done by logging-in and clicking on your user name at top of the Site to access the "Profile" section. If you would like assistance disabling your account please contact customer service at [support@everydayhealth.com](mailto:support@everydayhealth.com) or call 1-888-795-4719. 
 
-## **8\. Co-branded Sections of the Sites**
+Keep in mind, however, that even if you delete information from your profile, we may retain your Personal Information in conformance with our data retention policy and Personal Information may remain within our databases, access logs, and other records. In addition, we are not responsible for updating or removing your Personal Information contained in the lists or databases of third parties who have been provided information as permitted by this Policy.
+
+##  **8\. Co-branded Sections of the Sites**
 
 Certain portions of the Sites may be co-branded with a business partner and subject to a different privacy policy that is either the partner's privacy policy or a privacy policy developed jointly by Everyday Health and our partner (collectively the "Co-branded Policy"). The partner's collection, use and dissemination practices regarding any data or Personal Information provided by, or obtained from users of these Co-branded portions of the Sites will be governed by the Co-branded Policy. Please read the Co-branded Policy for each Co-branded Site before providing any Personal Information. 
 
@@ -158,7 +160,7 @@ Telephone: 888-795-4719
 
 Email: privacy@everydayhealth.com 
 
-Address: Everyday Health, Inc. 345 Hudson Street, 16th Floor New York, NY 10014 
+Address: Everyday Health, LLC 345 Hudson Street, 16th Floor New York, NY 10014 
 
 ## **12\. Privacy Policy Changes**
 
