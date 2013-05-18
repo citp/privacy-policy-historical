@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the fyretv.com privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031102603id_/http%3A//www.fyretv.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fyretv.com privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518205759id_/http%3A//www.fyretv.com/site/privacy) for the most accurate reproduction.*
 
-# FyreTV.com - Privacy Policy
+# Netflix of Porn | Stream Porn Videos and Scenes on Demand
 
-Wreal has a long-standing policy of protecting customer privacy. The effective date of this policy is December 30, 2007. If Wreal changes this Privacy Policy, it will note in this paragraph the last date on which the policy was changed. THE LAST DATE ON WHICH THIS POLICY WAS CHANGED WAS December 30, 2007.
+## Privacy Policy
+
+Wreal has a long-standing policy of protecting customer privacy. The effective date of this policy is December 30, 2007. If Wreal changes this Privacy Policy, it will note in this paragraph the last date on which the policy was changed. THE LAST DATE ON WHICH THIS POLICY WAS CHANGED WAS November 30, 2012.
 
 We believe that you should know what information we collect from you, as well as how that information is used, disclosed, and protected. We have created this policy statement (the "Policy") to explain our privacy practices. We will not sell or disclose your personal information to unaffiliated third parties without your consent except as otherwise provided in this Policy. We may use information about who you are, where and when you browse on the Web, where your wireless device is located, and how you use our network to provide you better service and enrich your user experience when you sign up or use any of our products or services.
 
@@ -46,7 +48,7 @@ We maintain a variety of physical, electronic, and procedural safeguards to guar
 
 **How can I Review Personal Information in my Account for Accuracy?**
 
-You can review the accuracy of the personal information in your account online (go to My Account on this Web site) or by contacting Customer Service at 1.888.FYRETV0
+You can review the accuracy of the personal information in your account online (go to My Account on this Web site) or by contacting Customer Service at support@fyretv.com
 
 **Will This Policy Be Updated?**
 
@@ -110,7 +112,7 @@ Complete an online form
 
 Visit the "My Profile" page, if you manage your account online.
 
-Call Customer Service at 1.888.FYRETV.0
+Email Customer Service at support@fyretv.com
 
 If you are not a current customer of Wreal and wish to opt out of receiving marketing communications, you can complete a short online form.
 
@@ -184,7 +186,7 @@ An important part of ensuring the security of personal information is your own e
 
 **Accuracy of Personal Information in Your Account**
 
-You can review the accuracy of the personal information in your account records online (go to My Account on this Web site) or by contacting Customer Service at Call Customer Service at 1.888.FYRETV.0 If you believe any of your information is in error, you may contact Customer Service to correct the information you believe is in error. If you believe Wreal received information about you in error or through the wrongdoing of a third party, contact Customer Service and Wreal will reasonably respond to your requests to change, delete or alter the information.
+You can review the accuracy of the personal information in your account records online (go to My Account on this Web site) or by contacting Customer Service at support@fyretv.com. If you believe any of your information is in error, you may contact Customer Service to correct the information you believe is in error. If you believe Wreal received information about you in error or through the wrongdoing of a third party, contact Customer Service and Wreal will reasonably respond to your requests to change, delete or alter the information.
 
 **Updating this Policy**
 
@@ -199,5 +201,3 @@ Wreal uses email, short text messages, telemarketing, and direct mail to inform 
 WREAL is committed to the terms set forth in this Policy.
 
 If you have any questions, comments, or concerns about this Policy, please contact [privacy@Wreal.tv](mailto:privacy@Wreal.tv)
-
-If you have questions about your service, you can call a customer service representative at 1.888.FYRETV.0
