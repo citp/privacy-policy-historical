@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ninjacurationprofits.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221180926id_/http%3A//ninjacurationprofits.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ninjacurationprofits.com privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518022225id_/http%3A//ninjacurationprofits.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy « Ninja Curation Profits
 
 PLEASE TAKE A FEW MINUTES TO READ OUR POLICY
 
