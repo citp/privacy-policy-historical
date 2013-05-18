@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the catalogs.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016101109id_/http%3A//www.catalogs.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catalogs.com privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518023603id_/http%3A//www.catalogs.com/privacy.asp) for the most accurate reproduction.*
 
 # Catalogs.com Privacy Policy
 
@@ -8,13 +8,13 @@ We at Catalogs.com are firmly committed to protecting your privacy.  We respect
 
 Personal Information
 
-By viewingour website, we do not collect any personal information about you.  Should you request to receive a catalog, newsletter or savings certificate from our website, we will ask that you voluntarily provide us with certain information about yourself (collectively, your personal information). Your personal information is comprised of the information that you voluntarily fill in on our order form and your Internet Protocol (IP) address
+By viewing our website, we do not collect any personal information about you.  Should you actively request to receive a catalog, newsletter, savings certificate or other information from our website, we will ask that you voluntarily provide us with certain information about yourself (collectively, your personal information). Your personal information is comprised of the information that you voluntarily fill in on our order form and your Internet Protocol (IP) address
 
 How Do You Use My Personal Information?
 
 Except as stated below, we DO NOT share your personal information nor use it for list rental purposes.
 
-When you order a catalog, newsletter, magazine or savings certificate through our website, your personal information is provided only to the company(s) from which you ordered. This helps ensure that your order is processed correctly and timely delivered.
+When you order a catalog, newsletter, savings certificate or other information through our website, your personal information is provided only to the company(s) from which you ordered. This helps ensure that your order is processed correctly and timely delivered.
 
 On occasion, we may engage third parties to perform certain functions on our behalf. Examples include fulfilling orders, delivering packages, removing repetitive information from the customer list, analyzing data, providing marketing assistance, and providing customer service. These third parties have access to your personal information to the extent necessary to permit them to do their jobs, however, they may not use it for other purposes.
 
@@ -26,13 +26,11 @@ Except as stated above, we DO NOT share your personal information with any other
 
 Opting - In at Catalogs.com
 
-When you order a catalog, newsletter, magazine or savings certificate through our website, you will be provided with an opportunity to receive email updates and special savings offers from Catalogs.com. In order to receive this information, you must voluntarily opt-in by checking the appropriate circle on our order form.
+When you order a catalog, newsletter, savings certificate or other information through our website, you will be opted-in to receive email updates and special savings offers from Catalogs.com. In order to receive this information, you must voluntarily opt-in by checking the appropriate circle on our order form.
 
 Opting -Out
 
-Our website provides you with the opportunity to decline or opt-out of receiving information on new products, services, special offers and upcoming events from Catalogs.com. To opt-out, please visit the following URL:
-
-<http://www.catalogs.com/unsubscribe.asp>
+Our email updates provide you with the opportunity to decline or opt-out of receiving information on new products, services, special offers and upcoming events from Catalogs.com.
 
 How Do I Update My Personal Information?
 
