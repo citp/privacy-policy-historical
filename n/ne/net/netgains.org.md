@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netgains.org privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021101149id_/http%3A//www.netgains.org/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netgains.org privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518182418id_/http%3A//www.netgains.org/privacy.asp) for the most accurate reproduction.*
 
 # Netgains | Company Privacy Policy for WWW usage
 
