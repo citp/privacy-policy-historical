@@ -1,12 +1,13 @@
-<!--The following is the downloaded HTML source of the securityinfowatch.com privacy policy that was archived on 2012-10-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121028060650id_/http%3A//www.securityinfowatch.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the securityinfowatch.com privacy policy that was archived on 2013-05-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130518151517id_/http%3A//www.securityinfowatch.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="no-js" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><!--<![endif]--><head>
 
 	<title>Privacy Policy - SecurityInfoWatch</title>
 
-   <link href="http://www.securityinfowatch.com/sites/www.securityinfowatch.com/merrick/themes/orion/css/images/favicon.ico" rel="shortcut icon">
-
+   <link href="http://r1.cygnuspub.com/files/media/www.securityinfowatch.com/orion/favicon.ico" rel="shortcut icon">
+   <!-- Apple icon call -->
+   
    <!-- Meta tag includes -->
    <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge;chrome=1">
@@ -17,13 +18,14 @@
    
 
    <!-- Begin included CSS -->
-   <link rel="stylesheet" type="text/css" href="http://www.securityinfowatch.com/sites/www.securityinfowatch.com/merrick/files/css/master.orion.css?m=1351194573">
+   <link rel="stylesheet" type="text/css" href="http://www.securityinfowatch.com/app/merrick/files/www.securityinfowatch.com/css/master.orion.css?m=1368198753">
 
    <!-- End included CSS -->
 
    <!-- Begin included scripts -->
    <script type="text/javascript" defer="" async="" src="/lib/piwik/piwik.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.18/jquery-ui.min.js"></script>
+<script type="text/javascript" src="http://ox-d.securityinfowatch.com/w/1.0/jstag"></script>
 <script type="text/javascript" src="http://admin.brightcove.com/js/BrightcoveExperiences.js"></script>
 <script type="text/javascript" src="http://admin.brightcove.com/js/APIModules_all.js"></script>
 <script type="text/javascript" src="http://cdn.gigya.com/js/gigyaGAIntegration.js"></script>
@@ -39,45 +41,35 @@
 }
 
 </script>
-<script type="text/javascript" src="http://ox-d.securityinfowatch.com/w/1.0/jstag"></script>
-<script type="text/javascript" src="http://www.securityinfowatch.com/sites/www.securityinfowatch.com/merrick/files/js/59880c2f9034fcc37f4b135992fbd135.js"></script>
+<script type="text/javascript" src="http://www.securityinfowatch.com/app/merrick/files/www.securityinfowatch.com/js/344fe0da9992de8c9fbd805385f57a0b.js"></script>
 
 
    
 <script type="text/javascript">
 //<![CDATA[
 var _gaq = _gaq || [];
+
+               var pluginUrl = '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+               _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
                _gaq.push(['_setAccount', 'UA-24956149-1']);
-               _gaq.push(['_setDomainName', '.securityinfowatch.com']);var token = $.cookie('token');
+               _gaq.push(['_setDomainName', 'securityinfowatch.com']);var token = $.cookie('token');
                 if (token) {
                   _gaq.push(['_setCustomVar', 5, 'User', token, 1]);
                 } else {
                   _gaq.push(['_setCustomVar', 5, 'User', 'Anonymous', 1]);
                 }_gaq.push(['_setCustomVar',4,'Channel','privacy-policy',3]);_gaq.push(['_trackPageview']);
                  _gaq.push(['_trackPageLoadTime']);
-               
+
                   (function() {
                    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
                    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
                    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
                   })();
 
-   var default_fb_image = '/sites/www.securityinfowatch.com/merrick/themes/orion/css/images/site_logo_fb.png';
+   var default_fb_image = 'http://r1.cygnuspub.com/files/media/www.securityinfowatch.com/orion/site_logo_fb.png';
 
-
-
-   var OX_4dc95e69a1e2d = OX();
-   OX_4dc95e69a1e2d.addAdUnit('118661,118663,118667,118668,118665,118662,118669,118670,118671');
-   
-   
-      OX_4dc95e69a1e2d.addVariable('env','live');
-   
-      OX_4dc95e69a1e2d.addVariable('pathname','/privacy-policy');
-   
-   
-   OX_4dc95e69a1e2d.fetchAds();
-   
-
+var OX_b39bfedd = OX();
+OX_b39bfedd.addAdUnit('118661,118663,118667,118668,118665,118662,118669,118670,118671');
 //]]>
 </script>
 
@@ -87,10 +79,14 @@ var _gaq = _gaq || [];
 <script type="text/javascript">
 //<![CDATA[
 $(document).ready(function(){
-   $('.ad_tracking').click(function() {
-      var ad_unit_id = $(this).attr('rel');
-      _gaq.push(['_trackEvent', 'Advertising', 'Click', ad_unit_id, undefined, true]);
-   });
+   $( '.ad_tracking' ).on( 'click', function() {
+      var ad_unit_id = $( this ).attr( 'rel' );
+      _gaq.push( ['_trackEvent', 'Advertising', 'Click', ad_unit_id, undefined, true] );
+
+   }).find( '.close' ).on( 'click', function() {
+	   return false;
+
+	});
 
    
 
@@ -151,6 +147,63 @@ $(document).ready(function(){
 
 
 
+
+   $('.outbound_link_tracking').click(function() {
+      try {
+         var url = $(this).attr('href');
+         _gaq.push(['_trackEvent', 'Outbound Links', 'Click', url, undefined, true]);
+         setTimeout('document.location = "' + url + '"', 100)
+      } catch(e){ } {
+      }
+      
+   });
+
+
+
+      $.extend( $.expr[':'], {
+         bottomInViewport : function( el ) {
+            var scrollTop = ( document.documentElement.scrollTop || document.body.scrollTop ),
+               elOffsetTop = $( el ).offset().top,
+               elH = $( el ).height(),
+               winH = ( window.innerHeight && window.innerHeight < $( window ).height() ) ? window.innerHeight : $( window ).height();
+
+            return ( elOffsetTop + elH < scrollTop + winH );
+         }
+      });
+
+      var items = $('.ad_tracking');
+      var blocks = $('.block_level_tracking');
+      $(window).on('scroll load', function () {
+
+         items.each(function() {
+            var ad_unit_id = $(this).attr('rel');
+            var inviewport = $(this).is(':bottomInViewport');
+
+            if (inviewport && !$(this).data('displayed')) {
+               $(this).data('displayed', true);
+               _gaq.push(['_trackEvent', 'Advertising', 'In-View Impression', ad_unit_id, undefined, true]);
+            }
+
+         });
+
+         blocks.each(function() {
+
+         	var block = $(this)
+         	var inviewport = $(this).is(':bottomInViewport');
+
+         	if (inviewport && !$(this).data('displayed')) {
+
+         		$(this).data('displayed', true);
+      			var category = $(this).data('section') + '|' + $(this).data('block');
+         		_gaq.push(['_trackEvent', 'Block Level Tracking', 'View', category, undefined, true]);
+
+         	}
+
+     	 	});
+
+      });
+
+   
 site_search_init();
 directory_search_init();
 default_text('EMAIL_ADDRESS');
@@ -165,7 +218,12 @@ default_text('EMAIL_ADDRESS');
    
 <script type="text/javascript">
 //<![CDATA[
-$(window).load(function(){window.setTimeout('social_activity_init()', 1000);});
+$(window).load(function(){
+   $('.rmi-tracking').click(function() {
+      setRmiLinkTracker('rmi_data', $(this));         
+   });
+
+window.setTimeout('social_activity_init()', 1000);});
 //]]>
 </script>
 
@@ -174,8 +232,17 @@ $(window).load(function(){window.setTimeout('social_activity_init()', 1000);});
 
 <body>
 
+   
+<script type="text/javascript">
+//<![CDATA[
+OX_b39bfedd.addVariable("env", "live");
+OX_b39bfedd.addVariable("pathname", "/privacy-policy");
+OX_b39bfedd.fetchAds();
+//]]>
+</script>
+
+
    <!-- Body Javascript includes -->
-<!-- Site Catalyst -->
 
 <!-- Google Analytics -->
 
@@ -217,7 +284,6 @@ $(window).load(function(){window.setTimeout('social_activity_init()', 1000);});
 
 <!-- jQuery Autocomplete -->
 
-
 <!-- Modernizr -->
 
 
@@ -225,6 +291,7 @@ $(window).load(function(){window.setTimeout('social_activity_init()', 1000);});
 
 
 <!-- addOptions wrapper (custom) -->
+
 
 
 
@@ -280,6 +347,9 @@ $(window).load(function(){window.setTimeout('social_activity_init()', 1000);});
 
 
 
+
+
+
 <!-- Background container -->
 <div id="background_container"></div>
 
@@ -299,22 +369,15 @@ $(window).load(function(){window.setTimeout('social_activity_init()', 1000);});
       <header id="header">
 
 	<section id="top_ad">
-	<div class="advertise_image"><img src="http://www.securityinfowatch.com/sites/www.securityinfowatch.com/merrick/themes/orion/css/images/advertisement.png"></div>
+	<div class="advertise_image"><img src="http://r3.cygnuspub.com/files/media/www.securityinfowatch.com/orion/advertisement.png"></div>
 	<div class="header_advertisement"><aside class="ad_728x90">
-         <div class="ad_tracking" rel="118661" id="openx_adunit_id__118661">
-   <script type="text/javascript">
-      OX_4dc95e69a1e2d.showAdUnit("118661");
-   </script>
-</div>
-      
-      
-</aside>
-</div>
+   <div class="openx_ad ad_tracking" rel="118661" id="openx_adunit_id__118661"><script type="text/javascript">OX_b39bfedd.showAdUnit("118661");</script></div>
+</aside></div>
 </section>
 
    <div class="header_items">
       <a class="site_logo" href="/">
-         <img src="/sites/www.securityinfowatch.com/merrick/themes/orion/css/images/site_logo.png" alt=""><br>
+         <img src="http://r2.cygnuspub.com/files/media/www.securityinfowatch.com/orion/site_logo.png" alt="SecurityInfoWatch"><br>
       </a>
 
          <div class="primary">
@@ -353,16 +416,16 @@ $(window).load(function(){window.setTimeout('social_activity_init()', 1000);});
 
 	<div class="header_magazine">
 		<ul>
-			<li><a href="/magazine/stec"><img src="/sites/www.securityinfowatch.com/merrick/themes/orion/css/images/header_ste.png" alt="Security Technology Executive"></a></li>
-			<li><a href="/magazine/secu"><img src="/sites/www.securityinfowatch.com/merrick/themes/orion/css/images/header_sdi.png" alt="Security Dealer &amp; Integrator"></a></li>
-			<li><a href="http://www.locksmithledger.com/"><img src="/sites/www.securityinfowatch.com/merrick/themes/orion/css/images/header_ll.png" alt="Locksmith Ledger International"></a></li>
+			<li><a href="/magazine/stec"><img src="http://r1.cygnuspub.com/files/media/www.securityinfowatch.com/orion/header_ste.png" alt="Security Technology Executive"></a></li>
+			<li><a href="/magazine/secu"><img src="http://r1.cygnuspub.com/files/media/www.securityinfowatch.com/orion/header_sdi.png" alt="Security Dealer &amp; Integrator"></a></li>
+			<li><a href="http://www.locksmithledger.com/"><img src="http://r3.cygnuspub.com/files/media/www.securityinfowatch.com/orion/header_ll.png" alt="Locksmith Ledger International"></a></li>
 		</ul>
 	</div>
 
 
 </header>
 
-      
+   
    <!-- Navigation -->
    <nav id="navigation" class="test">
    <ul class="primary clearfix">
@@ -377,9 +440,9 @@ $(window).load(function(){window.setTimeout('social_activity_init()', 1000);});
 	      <li class="nav_careers"><a href="http://www.securityinfowatch.com/careers" target=""><span>Careers</span></a></li>
 	      <li class="nav_http://forums.securityinfowatch.com"><a href="http://forums.securityinfowatch.com" target="_blank"><span>Forums</span></a></li>
 	      <li class="nav_directory"><a href="http://www.securityinfowatch.com/directory" target=""><span>Buyer's Guide</span></a></li>
-	      <li class="nav_http://www.securityinfowatch.com/magazine/awards"><a href="http://www.securityinfowatch.com/magazine/awards" target="_blank"><span>Awards</span></a></li>
+	      <li class="nav_http://www.securityinfowatch.com/magazine/awards/secu"><a href="http://www.securityinfowatch.com/magazine/awards/secu" target="_blank"><span>Awards</span></a></li>
 	      <li class="nav_ssl"><a href="http://www.securityinfowatch.com/ssl" target=""><span>Training</span></a></li>
-	      <li class="nav_asis last"><a href="http://www.securityinfowatch.com/asis" target=""><span>ASIS</span></a></li>
+	      <li class="nav_isc-west last"><a href="http://www.securityinfowatch.com/isc-west" target=""><span>ISC West</span></a></li>
 	   </ul>
    <!-- Secondary navigation -->
    <ul class="secondary location_home clearfix">
@@ -418,11 +481,11 @@ $(window).load(function(){window.setTimeout('social_activity_init()', 1000);});
 </nav>
 
    <!-- Context Menu  -->
+         
+
+
+
    
-
-
-
-
    <!-- Main page content; in short, everything but the header and footer -->
    
 <div id="main" class="privacy-policy">
@@ -483,33 +546,39 @@ $(window).load(function(){window.setTimeout('social_activity_init()', 1000);});
 
 
    
+   <aside class="ad_300x250">
+   <div class="openx_ad ad_tracking" rel="118663" id="openx_adunit_id__118663"><script type="text/javascript">OX_b39bfedd.showAdUnit("118663");</script></div>
+</aside>
+
    
 
 
 
 
 <section class="form_newsletter block_secondary">
-   	<script>
-		$(document).ready(function() {
-				$('#newsletter_signup_form_email').removeClass('default_text_active');
-		});
-	</script>
-      <h4 class="primary">Sign up for FREE email alerts!</h4>
-   
-      <div class="signup">
-         <form id="newsletter_signup_form" action="/reg/newsletter/display" method="get" name="newsletter_signup_form">
-            <input type="email" class="newsletter_signup_email default_text_active" id="newsletter_signup_form_email" name="email" value="" title="Enter Email">
-            <input type="submit" class="button_primary button" value="Submit">
-         </form>
-      </div>
-   
-</section>
+         <a href="/reg/newsletter/display" title="Sign Up for FREE Newsletters">
+<div class="enl_signup">
+   <div class="primary tagline">
+      <h4>
+         Sign Up
+      </h4>
+      for FREE newsletters
+   </div>
+   <!--div class="arrows">
+      &raquo;
+   </div-->
+   <div class="clear"></div>
+</div>
+<div class="clear"></div>
+</a>
+
+   </section>
    
 <section class="sidebar_subscribe">
    	
 	 		<div class="subscribe cover_image">
         <a href="/magazine/stec" target="_blank">
-        <img alt="September 2012" src="http://r1.cygnuspub.com/files/cygnus/image/SIW/2012/SEP/100/stec_sep_2012_cover.jpg" border="0">
+        <img alt="May 2013" src="http://r1.cygnuspub.com/files/cygnus/image/SIW/2013/MAY/100/stec_may_2013_cover.jpg" border="0">
         </a>
         <p class="subscribe_button">
          <a class="button button_primary magazine" href="/subscribe#stec">
@@ -526,7 +595,7 @@ $(window).load(function(){window.setTimeout('social_activity_init()', 1000);});
     	
 	 		<div class="subscribe cover_image">
         <a href="/magazine/secu" target="_blank">
-        <img alt="September 2012" src="http://r1.cygnuspub.com/files/cygnus/image/SIW/2012/SEP/100/secu_sep_2012_cover.jpg" border="0">
+        <img alt="May 2013" src="http://r1.cygnuspub.com/files/cygnus/image/SIW/2013/MAY/100/secu_may_2013_cover.jpg" border="0">
         </a>
         <p class="subscribe_button">
          <a class="button button_primary magazine" href="/subscribe#secu">
@@ -543,7 +612,7 @@ $(window).load(function(){window.setTimeout('social_activity_init()', 1000);});
     	
 	      <div class="subscribe cover_image last">
          <a href="http://www.locksmithledger.com/magazine/ll" target="_blank">
-         <img alt="October 2012" src="http://r1.cygnuspub.com/files/cygnus/image/LL/2012/OCT/100/ll_oct_2012_cover.jpg" border="0">
+         <img alt="May 2013" src="http://r1.cygnuspub.com/files/cygnus/image/LL/2013/MAY/100/ll_may_2013_cover.jpg" border="0">
          </a><br>
          <p class="subscribe_button">
          <a class="button button_primary magazine" href="/subscribe#ll">
@@ -561,16 +630,6 @@ $(window).load(function(){window.setTimeout('social_activity_init()', 1000);});
    <div class="clear"></div>  
 </section>
 
-
-   
-   <aside class="ad_300x250">
-         <div class="ad_tracking" rel="118663" id="openx_adunit_id__118663">
-   <script type="text/javascript">
-      OX_4dc95e69a1e2d.showAdUnit("118663");
-   </script>
-</div>
-      
-   </aside>
 
    
    <section id="social_activity" class="social_activity block" style="clear:both;">
@@ -593,14 +652,8 @@ var params = {
       
 <div class="grid_9_10 alpha most_popular_sidebar">
    <aside class="ad_120x90">
-         <div class="ad_tracking" rel="118667" id="openx_adunit_id__118667">
-   <script type="text/javascript">
-      OX_4dc95e69a1e2d.showAdUnit("118667");
-   </script>
-</div>
-      
-   </aside>
-
+   <div class="openx_ad ad_tracking" rel="118667" id="openx_adunit_id__118667"><script type="text/javascript">OX_b39bfedd.showAdUnit("118667");</script></div>
+</aside>
    
 <section class="content_list block">
 
@@ -610,7 +663,8 @@ var params = {
    
       
       
-                        
+            
+            
 
    <!-- If there is no content available -->
    
@@ -631,7 +685,7 @@ var params = {
                            
 <dl class="event">
 
-    <dd><a href="/event/10818587/siw-webinar-emergency-department-security-guidelines-tactics" class="primary name">SIW Webinar: Emergency Department Security Guidelines...</a></dd>
+    <dd><a href="/event/10941399/secured-cities" class="primary name">Secured Cities</a></dd>
 
 </dl>
 
@@ -659,7 +713,7 @@ var params = {
                            
 <dl class="event">
 
-    <dd><a href="/event/10820640/webinar-how-to-leverage-managed-access-control-to-grow-your-business" class="primary name">Webinar: How to leverage managed access control to grow your...</a></dd>
+    <dd><a href="/event/10937541/xperience-efficiency-2013" class="primary name">Xperience Efficiency 2013</a></dd>
 
 </dl>
 
@@ -687,7 +741,7 @@ var params = {
                            
 <dl class="event">
 
-    <dd><a href="/event/10798534/asis-6th-asia-pacific-security-forum-exhibition" class="primary name">ASIS 6th Asia-Pacific Security Forum &amp; Exhibition</a></dd>
+    <dd><a href="/event/10937537/transportation-video-surveillance" class="primary name">Transportation Video Surveillance</a></dd>
 
 </dl>
 
@@ -715,7 +769,7 @@ var params = {
                            
 <dl class="event">
 
-    <dd><a href="/event/10798527/cloud-computing-securitys-transformative-technology" class="primary name">Cloud Computing: Security's Transformative Technology</a></dd>
+    <dd><a href="/event/10937532/information-security-summit" class="primary name">Information Security Summit</a></dd>
 
 </dl>
 
@@ -743,7 +797,7 @@ var params = {
                            
 <dl class="event">
 
-    <dd><a href="/event/10798523/organizational-resilience" class="primary name">Organizational Resilience</a></dd>
+    <dd><a href="/event/10937529/maritime-security-2013-west" class="primary name">Maritime Security 2013 West</a></dd>
 
 </dl>
 
@@ -771,7 +825,7 @@ var params = {
                            
 <dl class="event">
 
-    <dd><a href="/event/10798518/asis-third-annual-cso-roundtable-latin-america-summit" class="primary name">ASIS Third Annual CSO Roundtable Latin America Summit</a></dd>
+    <dd><a href="/event/10937523/perimeter-defense-seminar" class="primary name">Perimeter Defense Seminar</a></dd>
 
 </dl>
 
@@ -801,26 +855,14 @@ var params = {
 </section>
 
    <aside class="ad_120x90">
-         <div class="ad_tracking" rel="118668" id="openx_adunit_id__118668">
-   <script type="text/javascript">
-      OX_4dc95e69a1e2d.showAdUnit("118668");
-   </script>
-</div>
-      
-   </aside>
-
+   <div class="openx_ad ad_tracking" rel="118668" id="openx_adunit_id__118668"><script type="text/javascript">OX_b39bfedd.showAdUnit("118668");</script></div>
+</aside>
 </div>
    
    <div class="grid_11_12 omega">
       <aside class="ad_160x600">
-         <div class="ad_tracking" rel="118665" id="openx_adunit_id__118665">
-   <script type="text/javascript">
-      OX_4dc95e69a1e2d.showAdUnit("118665");
-   </script>
-</div>
-      
-   </aside>
-
+   <div class="openx_ad ad_tracking" rel="118665" id="openx_adunit_id__118665"><script type="text/javascript">OX_b39bfedd.showAdUnit("118665");</script></div>
+</aside>
    </div>
    
    <div class="clear"></div>
@@ -841,17 +883,10 @@ var params = {
    <!-- Page footer (inside position) -->
       <footer id="footer">
 	<section id="bottom_ad">
-		<div class="advertise_image"><img src="http://www.securityinfowatch.com/sites/www.securityinfowatch.com/merrick/themes/orion/css/images/advertisement.png"></div>
+		<div class="advertise_image"><img src="http://r3.cygnuspub.com/files/media/www.securityinfowatch.com/orion/advertisement.png"></div>
 		<div class="header_advertisement"><aside class="ad_728x90">
-         <div class="ad_tracking" rel="118662" id="openx_adunit_id__118662">
-   <script type="text/javascript">
-      OX_4dc95e69a1e2d.showAdUnit("118662");
-   </script>
-</div>
-      
-      
-</aside>
-</div>
+   <div class="openx_ad ad_tracking" rel="118662" id="openx_adunit_id__118662"><script type="text/javascript">OX_b39bfedd.showAdUnit("118662");</script></div>
+</aside></div>
 	</section>
 	    
    <div class="links">
@@ -864,7 +899,7 @@ var params = {
          <li class="secondary"><a href="http://www.securityinfowatch.com/privacy-policy">Privacy Policy</a></li>
          <li class="secondary"><a href="http://www.securityinfowatch.com/terms-conditions">Terms of Use</a></li>
       </ul>
-      <p class="secondary">Copyright © 2012 Cygnus Business Media. All rights reserved.</p>
+      <p class="secondary">Copyright © 2013 Cygnus Business Media. All rights reserved.</p>
    </div>
 </footer>
 
@@ -879,13 +914,13 @@ var params = {
    <a class="close display_close"></a>
    <div id="modal_container" class="modal_container">
       <!--div class="modal_header">
-         
+
       </div-->
-      
+
       <div id="modal_body" class="modal_body">
-         
+
       </div>
-      <div id="modal_loading" class="loading">Loading...<br><img src="/app/merrick/themes/orion/css/images/ajax-loader-fb.gif" alt="Loading..."></div>
+      <div id="modal_loading" class="loading">Loading...<br><img src="http://r1.cygnuspub.com/files/media/www.securityinfowatch.com/orion/ajax-loader-fb.gif" alt="Loading..."></div>
    </div>
    <a class="close switch_modal"></a>
 </div>
@@ -893,29 +928,26 @@ var params = {
 
 
 
-<!-- OAS code -->
-
+         <!--[if gte IE 6 ]> <iframe src="/welcomead.html?env=live&pathname=%2Fprivacy-policy" align="middle" scrolling="no" frameborder="0" id="welcome_frame" style="left:25%;right:25%;width:640px;height:0px;margin:0 auto;"></iframe><![endif]-->
+      <!--[if (gt IE 9)|!(IE)]><!-->
+         <aside class="ad_flexible">
+   <div class="openx_ad ad_tracking" rel="118669" id="openx_adunit_id__118669"><script type="text/javascript">OX_b39bfedd.showAdUnit("118669");</script></div>
+</aside>
+      <!--[endif]---->
+            <aside class="ad_flexible">
+   <div class="openx_ad ad_tracking" rel="118670" id="openx_adunit_id__118670"><script type="text/javascript">OX_b39bfedd.showAdUnit("118670");</script></div>
+</aside>
+            <aside class="ad_flexible">
+   <div class="openx_ad ad_tracking" rel="118671" id="openx_adunit_id__118671"><script type="text/javascript">OX_b39bfedd.showAdUnit("118671");</script></div>
+</aside>
    
 
 
 
-  <!--[if gte IE 6 ]> <iframe src="/welcomead.html" align="middle" scrolling="no" frameborder="0" id="welcome_frame" style="left:25%;right:25%;width:640px;height:0px;margin:0 auto;"></iframe><![endif]-->
-  <!--[if (gt IE 9)|!(IE)]><!-->
-  <script type="text/javascript">
-     OX_4dc95e69a1e2d.showAdUnit("118669");
-  </script>
-  <!--[endif]---->
-<script type="text/javascript">
-   OX_4dc95e69a1e2d.showAdUnit("118670");
-</script>
-<script type="text/javascript">
-   OX_4dc95e69a1e2d.showAdUnit("118671");
-</script>
 
 
 
-
-   <script type="text/javascript" src="http://www.securityinfowatch.com/sites/www.securityinfowatch.com/merrick/files/js/d791f12012efa3fe0025962f4d2a4a67.js"></script>
+   <script type="text/javascript" src="http://www.securityinfowatch.com/app/merrick/files/www.securityinfowatch.com/js/d6c7b9d94777566aca95a611843bd8da.js"></script>
 
 
    
@@ -1011,7 +1043,7 @@ document.write(unescape("%3Cscript src=\"" + _bizo_p + "bizographics.com/convert
       
       
       
-      { provider: 'custom', actionURL: 'http://mobile.securityinfowatch.com/privacy-policy', iconURL: '/app/merrick/themes/orion/css/images/mobile.png', title: 'View our mobile site' }
+      { provider: 'custom', actionURL: 'http://mobile.securityinfowatch.com/privacy-policy', iconURL: 'http://r2.cygnuspub.com/files/media/www.securityinfowatch.com/orion/mobile.png', title: 'View our mobile site' }
       ]
    }
 
