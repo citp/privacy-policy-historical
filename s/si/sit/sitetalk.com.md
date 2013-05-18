@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the sitetalk.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508003611id_/http%3A//www.sitetalk.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitetalk.com privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518232833id_/http%3A//sitetalk.com/privacy_policy) for the most accurate reproduction.*
 
-# SiteTalk
+# Welcome to SiteTalk - Log in or sign up
 
-These websites are hosted from SiteTalk Communities Ltd Suit B.29 Hearley Street London W1 G 9QR UK. SiteTalk undertakes everything possible to maintain that the information is protected on the highest level.
+These websites are hosted from SiteTalk Communities Ltd. Scotia Centre, 4th Floor, PO Box 2804, George Town, Grand Cayman KY1-1112, Cayman Islands
+
+SiteTalk undertakes everything possible to maintain that the information is protected on the highest level.
 
 Collection of Your Personal Information
 
@@ -12,31 +14,31 @@ We ask you when registering to provide personal information, such as your e-mail
 
 We may collect information about your visit, including the pages you view, the links you click and other actions taken in connection with SiteTalk. We also collect certain standard information that your browser sends to every Website you visit, such as your IP address, browser type and language, access times and referring Web site addresses.
 
-When you receive newsletters or promotional e-mails from SiteTalk, customised links or similar technologies to determine whether the e-mail has been opened and which links you click, in order to provide you with more focused e-mail communications or other information in the future.  
+When you receive newsletters or promotional e-mails from SiteTalk, customised links or similar technologies to determine whether the e-mail has been opened and which links you click, in order to provide you with more focused e-mail communications or other information in the future.
+
 In order to offer you a more consistent and personalised experience in your interactions with SiteTalk, information collected through one SiteTalk Website may be combined with information obtained through other SiteTalk -participants-Websites.
 
 **The participant consent explicitly with the collection and use of personal information.** The participant is entitled to withdraw this consent at any time for the future.
 
-Sharing of Your Personal Information
+**Sharing of Your Personal Information**
 
 Except as described in this statement, we will not disclose your personal information outside SiteTalk and its controlled subsidiaries and affiliates without your consent.
 
 We may access and/or disclose your personal information if we believe such action is necessary to: (a) comply with the law or legal process served on SiteTalk; (b) protect and defend the rights or property of SiteTalk (including the enforcement of our agreements); or (c) act in urgent circumstances to protect the personal safety of users of SiteTalk websites or participants of the public.(d) the completion of all necessities concerning your contractual relationship with us.
 
-Use and transfer of Your Personal Information
+**Use and transfer of Your Personal Information**
 
-SiteTalk collects and uses your personal information to operate and improve its sites and carry out the transactions you have requested. This with regard to the information you have send to us eG for the purchase of products in the SiteTalk MALL-shop or concerning those information you have send to other participants and therefore legible by everybody.
+SiteTalk collects and uses your personal information to operate and improve its sites and carry out the transactions you have requested. This with regard to the information you have send to us i.e. for the purchase of products in the SiteTalk MALL-shop or concerning those information you have send to other participants and therefore legible by everybody.
 
 We also use your personal information to communicate with you. We may send certain mandatory communications such as welcome letters, billing reminders and information on technical issues.
 
 Personal information collected on the SiteTalk sites may be stored, processed and transferred in the UK or any other countries inside or outside the European Community in which SiteTalk or its affiliates, subsidiaries or agents maintain facilities. SiteTalk guarantees that the transfer of private information to other affiliates will comply with this Privacy Policy and SiteTalk guarantees the highest level of data protection.
 
-**The participant consent explicitly to any such transfer of information outside the country of domicile.** The participant is entitled to withdraw this consent at any time for the future.
+**The participant consents explicitly to any such transfer of information outside the country of domicile.** The participant is entitled to withdraw this consent at any time for the future.
 
-Cookies
+**Cookies**
 
-SiteTalk websites use "cookies" to enable you to register as a participant of our SNP Website and to help personalise your participant ship online experience. A cookie is a small text file that is placed on your hard disk by a Web page server. Cookies contain information that can later be read by a Web server in the domain that issued the cookie to you. Cookies cannot be used to run programs or deliver viruses to your computer.  
-
+SiteTalk websites use "cookies" to enable you to register as a participant of our SNP Website and to help personalise your participant ship online experience. A cookie is a small text file that is placed on your hard disk by a Web page server. Cookies contain information that can later be read by a Web server in the domain that issued the cookie to you. Cookies cannot be used to run programs or deliver viruses to your computer.
 
 SiteTalk Websites use cookies to store your preferences and other information on your computer in order to save you time by eliminating the need to enter the same information repeatedly and to display your personalised content and appropriate advertising on your later visits to these sites.
 
@@ -44,6 +46,6 @@ When you sign in to a site using your username and password, the SiteTalk system
 
 You can choose to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to sign in or use other interactive features of the SiteTalk websites.
 
-Changes to This Privacy Statement
+**Changes to This Privacy Statement**
 
 We will occasionally update this privacy statement to reflect changes in our websites and participant feedback. When we post changes to this Statement, we will email all participants. If there are material changes to this statement or in how SiteTalk will use your personal information, we will notify you either by prominently posting a notice of such changes prior to implementing the change or by directly sending you a notification. We encourage you to review this statement periodically to be informed of how SiteTalk is protecting your information.
