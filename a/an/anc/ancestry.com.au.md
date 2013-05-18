@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ancestry.com.au privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016111626id_/http%3A//www.ancestry.com.au/cs/legal/privacyphilosophy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ancestry.com.au privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518061638id_/http%3A//www.ancestry.com.au/cs/legal/privacyphilosophy) for the most accurate reproduction.*
 
 # Our Privacy Philosophy
 
