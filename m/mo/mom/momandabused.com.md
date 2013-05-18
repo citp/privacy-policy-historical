@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the momandabused.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118003613id_/http%3A//momandabused.videosz.com/legal.php%3Fpg%3Dprivacy%26l%3D19396%26t%3D33045%26v%3Ddesktop%26lg%3Dus) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the momandabused.com privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518183404id_/http%3A//momandabused.videosz.com/legal.php%3Fpg%3Dprivacy%26l%3D19396%26t%3D33045%26v%3Ddesktop%26lg%3Dus) for the most accurate reproduction.*
 
 # Mom & Abused
 
