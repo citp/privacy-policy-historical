@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keywordtooldominator.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227144710id_/http%3A//www.keywordtooldominator.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keywordtooldominator.com privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518021747id_/http%3A//www.keywordtooldominator.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Keyword Tool Dominator
 
