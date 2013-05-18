@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the unittus.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116125537id_/http%3A//www.unittus.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unittus.com privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518152823id_/http%3A//www.unittus.com/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Unittus | Empowering the Human Spirit.
+# Unittus | The First People Search and Social Network in the World. Join Unittus.
 
 This Privacy Policy ('Policy') explains how information about you is collected, used and disclosed by Unittus, Inc. and its subsidiaries and affiliates ('Unittus,' 'we' or 'us'). This Policy applies to all of the websites (including www.Unittus.com), products, applications (including mobile applications and applications and pages) operated by Unittus and services offered by Unittus wherever this Policy is displayed (collectively, the 'Services').
 
@@ -97,4 +97,4 @@ Unittus, Inc. 7353 International Place, Unit 309, Sarasota, FL 34240
 
 Last Revision September 1, 2011
 
-International Copyright © 2011 - 2012 Unittus, Inc. All rights reserved.
+International Copyright © 2011 - 2013 Unittus, Inc. All rights reserved.
