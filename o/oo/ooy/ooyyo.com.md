@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ooyyo.com privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205084555id_/http%3A//www.ooyyo.info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ooyyo.com privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518050822id_/http%3A//www.ooyyo.info/privacy) for the most accurate reproduction.*
 
 # Privacy OOYYO Network
 
@@ -69,9 +69,3 @@ If we decide to change our privacy policy, we will post those changes on this pa
 If you have any questions regarding this privacy policy, you may [contact us here](http://www.ooyyo.info/contact/).
 
 * * *
-
-### Our company
-
-_OOYYO Network_ is the global vertical search platform for used cars. [Read more...](http://www.ooyyo.info/about/)
-
-_OOYYO Network’s_ search and advertising platform is optimized to match buyers with their ideal purchase from the available inventory, and sellers with buyers who are interested in their unique products.
