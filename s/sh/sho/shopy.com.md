@@ -1,43 +1,37 @@
-> *The following text is extracted and transformed from the shopy.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224091949id_/http%3A//www.shopy.com/privacypolicy-3.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopy.com privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518190449id_/http%3A//www.shopy.com/privacy.aspx) for the most accurate reproduction.*
 
-# 
+# Privacy Policy
 
-Privacy Policy  
-1\. General
+At Shopy.com we appreciate your privacy and hope that you feel comfortable trusting us. Shopy.com provides a comparison shopping service that enables consumers to compare prices, products and stores when they shop online. We believe that you have a right to know what information we collect, how we intend to use that information, whom we intend to share it with, and what measures we take to keep that information secure. 
 
-Shopy is available for visit by anyone at any time without registering.
+## Collecting Your Information
 
-Any time any website is accessed, standard data such as the URL being accessed, the referring website, and your IP address is sent to the server. We may store this data anonymously for usage tracking and diagnostic purposes. This data will not be shared with any third parties.
+We collect information at several stages during your interaction with . When you first enter our site, we note your IP address and time of your visit. As you browse the site, we record your zipcode via a cookie so we can serve more location specific information on your next visit. We will not collect any personally identifiable information about you. Cookies do not recognise you as a person, just your computer.
 
-In order to participate in auction on Shopy, you must create an account. In order to create an account, we will ask you to provide some personal information. This data will be stored on our server and will not be sold or transferred to any third parties.  
-2\. Data Collection
+You are always free to decline our cookies if your browser permits although in that case you may not be able to use certain features on our site.
 
-Personal data is the information needed to identify you, for example your name, address, date of birth, e-mail address, etc. With your consent, personal data are recorded and processed by Shopy, in particular but no limited to:
+## Third Party Advertising
 
-    * when you first create your account  
-    * when you purchase bids  
-    * when you purchase items you have won on an auction
+We work with third parties who use cookies to collect non-personally identifiable information when you visit our Web site and other sites. This information may be used to provide you with better shopping or savings opportunities through advertisements on this and other Web sites that you visit, or to conduct market research and website analysis.
 
-We collect this data in order to be able to provide you with the services offered on Shopy.  
-3\. Use of the Data
+## User Submitted Reviews
 
-The personal data that you have provided will be used to provide the services on Shopy. For example, we will use
+We discourage you from entering any personal information and please keep in mind that whenever you voluntarily disclose personal information online - for example through e-mail, discussion lists, or elsewhere - that information can be collected and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. It is not required for you to submit personally identifiable information to enable you to submit a review.
 
-    * you shipping address to send you items that you have won  
-    * billing information to facilitate payments for bids and items  
-    * your date of birth to determine that you are of legal age to enter into a binding contract
+## Sharing of information
 
-We ask for your e-mail address so that we can stay in contact with you by e-mail. We reserve the right to occasionally email you in order to:
+Shopy.com does not share any contact information or IP address information with its partners. We will only use information that helps our customers to find the lowest prices.
 
-    * update you on new changes to Shopy  
-    * notify you of changes to Terms and Conditions  
-    * send receipts whenever you make a payment  
-    * notify you of new auctions or exciting marketing promotions (if you opted in during signup)
+## How We Protect Your Information
 
-We may utilize service of third parties to perform functions such as payments or email management. We will only share the data that is absolutely necessary in order to perform the needed function. You email will not be sold or shared with third parties for solicitation purposes.
+The privacy and protection of your personal information is vitally important to us. Shopy.com does not make personal information available to any third parties without your permission. Any user statistics that we may provide to prospective advertisers or partners regarding your Shopy.com usage are provided in the aggregate only and do not include any personally identifiable information about any individual user. 
 
-We will not sell or transfer your personal data to third parties, unless required by law.
+This Website Privacy Statement is effective as of the date listed below. Even if you read and/or agreed to a prior policy statement, you need to review this updated version. If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, or other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected. If, however, we are going to use users personally identifiable information in a manner different from that stated at the time of collection we will notify users by posting a notice on our Web site for 30 days.
 
-Upon your consent, when you win an auction we will publish your name, town, state and country of your location as testimonial.
+## Questions?
 
-All data is stored securely on our servers.
+We welcome any questions or comments you have about our privacy practices. Please feel free to contact us at: [Feedback](https://web.archive.org/web/20130518190449id_/http%3A//www.shopy.com/contact.aspx).
+
+**Effective Date: Privacy Notice last modified April 5, 2011.**
+
+© 2013 Shopy.com 
