@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learnersdictionary.com privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114104743id_/http%3A//www.learnersdictionary.com/info/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learnersdictionary.com privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518213305id_/http%3A//www.learnersdictionary.com/info/privacy.htm) for the most accurate reproduction.*
 
 # Merriam-Webster's Learner's Dictionary
 
@@ -89,7 +89,7 @@ All of the content on LearnersDictionary.com is copyrighted by Merriam-Webster, 
 
 **Contacting Us**
 
-If you have questions about Merriam-Webster or its products, visit our [Contact Us](https://web.archive.org/info/contact.htm) page to find e-mail addresses and other contact information for the appropriate department. To correct, update, or remove personally identifiable information, please email us at [privacy@m-w.com](https://web.archive.org/web/20121114104743id_/http%3A//www.learnersdictionary.com/info/privacy@m-w.com).
+If you have questions about Merriam-Webster or its products, visit our [Contact Us](https://web.archive.org/info/contact.htm) page to find e-mail addresses and other contact information for the appropriate department. To correct, update, or remove personally identifiable information, please email us at [privacy@m-w.com](https://web.archive.org/web/20130518213305id_/http%3A//www.learnersdictionary.com/info/privacy@m-w.com).
 
 **Links to Other Web sites**
 
@@ -105,10 +105,10 @@ As we continue to develop our business, we might sell or buy subsidiaries, or bu
 
 **Your California Privacy Rights**
 
-If you are a California resident, you are entitled to prevent sharing of your personal information with third parties for their own marketing purposes through a cost-free means. If you send a request to the address above, Merriam-Webster will provide you with a California Customer Choice Notice that you may use to opt-out of such information sharing. To receive this notice, submit a written request to [privacy@m-w.com](https://web.archive.org/web/20121114104743id_/http%3A//www.learnersdictionary.com/info/privacy@m-w.com), specifying that you seek your "California Customer Choice Notice." Please allow at least thirty (30) days for a response.
+If you are a California resident, you are entitled to prevent sharing of your personal information with third parties for their own marketing purposes through a cost-free means. If you send a request to the address above, Merriam-Webster will provide you with a California Customer Choice Notice that you may use to opt-out of such information sharing. To receive this notice, submit a written request to [privacy@m-w.com](https://web.archive.org/web/20130518213305id_/http%3A//www.learnersdictionary.com/info/privacy@m-w.com), specifying that you seek your "California Customer Choice Notice." Please allow at least thirty (30) days for a response.
 
 **Acceptance of Privacy Policy Terms and Conditions**
 
 By using this site, you signify your agreement to the terms and conditions of this LearnersDictionary.com Privacy Policy. If you do not agree to these terms, please do not use this site. We reserve the right, at our sole discretion, to change, modify, add, or remove portions of this policy at any time. All amended terms automatically take effect 30 days after they are initially posted on the site. Please check this page periodically for any modifications. Your continued use of LearnersDictionary.com following the posting of any changes to these terms shall mean that you have accepted those changes.
 
-If you have any questions or concerns, please send an e-mail to [privacy@m-w.com](https://web.archive.org/web/20121114104743id_/http%3A//www.learnersdictionary.com/info/privacy@m-w.com).
+If you have any questions or concerns, please send an e-mail to [privacy@m-w.com](https://web.archive.org/web/20130518213305id_/http%3A//www.learnersdictionary.com/info/privacy@m-w.com).
