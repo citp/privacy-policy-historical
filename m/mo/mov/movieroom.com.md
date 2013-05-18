@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the movieroom.com privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214104324id_/http%3A//movieroom.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movieroom.com privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518162330id_/http%3A//movieroom.com/privacy.php) for the most accurate reproduction.*
 
 # Movie Room - Porn Scenes DVD
 
@@ -6,13 +6,13 @@ This policy explains what kind of information we may gather from any user and/or
 
 ### The Information We Collect
 
-This notice applies to all information collected or submitted on movieroom.com.com's website. On some pages, you can order products/subscriptions, make requests or register to receive materials and on some other pages, we will automatically gather and collect some information from the subscriber. The types of personal information collected at these pages could be, but are not limited too, name, email address, IP address etc. 
+This notice applies to all information collected or submitted on dvdbox.com.com's website. On some pages, you can order products/subscriptions, make requests or register to receive materials and on some other pages, we will automatically gather and collect some information from the subscriber. The types of personal information collected at these pages could be, but are not limited too, name, email address, IP address etc. 
 
 ### The Way We Use Information
 
-The user has to note that some personal information, such as but not limited to credit card number, may be collected by a third-party web service provider from whom movieroom.com purchases services or that has an advertising banner or link on the Site. Users should read the privacy policy of those third parties whenever possible to look for modifications. 
+The user has to note that some personal information, such as but not limited to credit card number, may be collected by a third-party web service provider from whom dvdbox.com purchases services or that has an advertising banner or link on the Site. Users should read the privacy policy of those third parties whenever possible to look for modifications. 
 
-As soon as the subscriber uses the website, the subscriber agrees that movieroom.com may use any personal information that has been provided or collected by the website about the subscriber for any purpose, including without limitation age verification, administration, customer administration, marketing, promotional and advertising use by the website or third parties authorized to use the information by the site. The user hereby agrees that the website may, in its sole discretion, sell, share, rent, or license any of the personal information about users that was provided or that was collected with affiliated or unaffiliated third parties. 
+As soon as the subscriber uses the website, the subscriber agrees that dvdbox.com may use any personal information that has been provided or collected by the website about the subscriber for any purpose, including without limitation age verification, administration, customer administration, marketing, promotional and advertising use by the website or third parties authorized to use the information by the site. The user hereby agrees that the website may, in its sole discretion, sell, share, rent, or license any of the personal information about users that was provided or that was collected with affiliated or unaffiliated third parties. 
 
 ### Email Marketing
 
