@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the spreaker.com privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602215409id_/http%3A//www.spreaker.com/cms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spreaker.com privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518140127id_/http%3A//www.spreaker.com/cms/privacy) for the most accurate reproduction.*
 
-# Privacy Information | Spreaker Online Radio
+# Privacy Information | Spreaker - Hazte Escuchar
 
-This privacy policy sets out how Spreaker s.r.l. ("Spreaker" or "we", "our" or "us") uses and protects any information that you give Spreaker when you use [www.spreaker.com](http://www.spreaker.com/ "www.spreaker.com") (the "Website"). Spreaker enables users to create, submit and share "Shows". A Show is an audio file that is stored remotely rather than locally and accessible to listen to on-demand. A Show may include, but is not limited to, a radio show, a Podcast, a DJ mix-set or a live recording.
+This privacy policy sets out how Spreaker Inc. ("Spreaker" or "we", "our" or "us") uses and protects any information that you give Spreaker when you use [www.spreaker.com](http://www.spreaker.com/ "www.spreaker.com") (the "Website"). Spreaker enables users to create, submit and share "Shows". A Show is an audio file that is stored remotely rather than locally and accessible to listen to on-demand. A Show may include, but is not limited to, a radio show, a Podcast, a DJ mix-set or a live recording.
 
 Spreaker is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, and then you can be assured that it will only be used in accordance with this Privacy Policy.
 
