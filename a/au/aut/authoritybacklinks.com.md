@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the authoritybacklinks.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229035612id_/http%3A//www.authoritybacklinks.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the authoritybacklinks.com privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518050830id_/http%3A//www.authoritybacklinks.com/privacy.php) for the most accurate reproduction.*
 
 # AuthorityBackLinks.com: Privacy Policy
 
