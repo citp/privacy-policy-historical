@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wholesaledesignerhandbags.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004210510id_/http%3A//www.wholesaledesignerhandbags.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wholesaledesignerhandbags.com privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518231520id_/http%3A//www.wholesaledesignerhandbags.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - WholesaleDesignerHandbags.com
 
@@ -14,7 +14,7 @@
 ---|---  
 | 2. | 
 
-**Terms of use** : Your use of this website is governed by our [terms of use](https://web.archive.org/web/20121004210510id_/http%3A//www.wholesaledesignerhandbags.com/terms.htm "terms of use"). Accordingly, this privacy policy must be read in conjunction with our [terms of use](https://web.archive.org/web/20121004210510id_/http%3A//www.wholesaledesignerhandbags.com/terms.htm "terms of use").  
+**Terms of use** : Your use of this website is governed by our [terms of use](https://web.archive.org/web/20130518231520id_/http%3A//www.wholesaledesignerhandbags.com/terms.htm "terms of use"). Accordingly, this privacy policy must be read in conjunction with our [terms of use](https://web.archive.org/web/20130518231520id_/http%3A//www.wholesaledesignerhandbags.com/terms.htm "terms of use").  
   
 ---|---  
 | 3. | 
@@ -162,7 +162,7 @@ as otherwise required or permitted by law.
 ---|---  
 | 11. | 
 
-**Right to access and request correction** : It is important to us that the personal information we hold about you is accurate, complete and up to date. If you are aware that this is not case and would like your personal information corrected, or simply desire access to your personal information, please [contact us](https://web.archive.org/web/20121004210510id_/http%3A//www.wholesaledesignerhandbags.com/contact.php "contact us"). You may request access to your personal information that we (or our contractors) hold. Where you make any such request:  
+**Right to access and request correction** : It is important to us that the personal information we hold about you is accurate, complete and up to date. If you are aware that this is not case and would like your personal information corrected, or simply desire access to your personal information, please [contact us](https://web.archive.org/web/20130518231520id_/http%3A//www.wholesaledesignerhandbags.com/contact.php "contact us"). You may request access to your personal information that we (or our contractors) hold. Where you make any such request:  
   
 ---|---  
   |  | a. |   | 
