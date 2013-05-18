@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caida.org privacy policy that was archived on 2012-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120515000553id_/http%3A//www.caida.org/home/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caida.org privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518171634id_/http%3A//www.caida.org/home/legal/privacy) for the most accurate reproduction.*
 
 # CAIDA Website Privacy Policy
 
@@ -10,10 +10,14 @@ When registering on our site or filling out a form, e.g., to sign up for a maili
 
 Any of the information we collect from you may be used in one of the following ways: 
 
-  * To process dataset requests   
+  * To process dataset requests 
+
 Your information will not be transferred to any other organization without your consent, other than for the express purpose of delivering the information product or service requested and complying with internal sponsor requirements and scientific research transparency objectives. 
-  * To send periodic emails   
+
+  * To send periodic emails 
+
 The email address you provide will only be used to send you information and updates pertaining to your request/inquiry. 
+
 
 
 
