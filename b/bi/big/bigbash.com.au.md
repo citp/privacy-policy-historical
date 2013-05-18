@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigbash.com.au privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116153424id_/http%3A//www.bigbash.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigbash.com.au privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518184651id_/http%3A//www.bigbash.com.au/privacy-policy) for the most accurate reproduction.*
 
 # KFC T20 Big Bash League - Privacy Policy
 
