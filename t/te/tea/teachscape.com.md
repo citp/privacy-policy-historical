@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teachscape.com privacy policy that was archived on 2012-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121117040342id_/http%3A//www.teachscape.com/other/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teachscape.com privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518183210id_/http%3A//www.teachscape.com/other/privacy-policy.html) for the most accurate reproduction.*
 
 # Teachscape - Privacy Policy
 
