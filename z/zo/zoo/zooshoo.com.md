@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the zooshoo.com privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111050954id_/http%3A//www.zooshoo.com/terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zooshoo.com privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518192605id_/http%3A//www.zooshoo.com/terms_privacy.asp) for the most accurate reproduction.*
 
 # Terms: Privacy
 
 ZooShoo.com understands and respects how your personal information is used and shared. Your privacy and security of your personal information is very important to us.  
 
 
-#### What personal information about the customer does ZooShoo.com gather and use?
+#### What personal information does ZooShoo.com gather and use?
 
 ZooShoo.com uses the information from customers to helps us personalize and continually improve your shopping experience at ZooShoo.com.
 
@@ -16,7 +16,7 @@ We collect your name, billing & shipping address, phone number, credit card info
   
 
 
-#### How Safe Is It To Shop On ZooShoo.com?
+#### Is It Safe To Shop On ZooShoo.com?
 
 This site, ZooShoo.com, incorporates physical, electronic, and administrative procedures to safeguard the confidentiality of your personal information. Ordering from ZooShoo.com is safe and secure as we use SSL (Secure Socket Layer) encryption from the moment you enter our site, you are on a secure server. Your credit card and personal information is encrypted when transmitted to us in a secure environment. The encryption keeps your personal information, including credit card information, protected from theft. ZooShoo.com is actively monitored 24/7 to make sure that we are always open, safe, and available for your shopping experience. 
 
