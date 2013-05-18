@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the celebrations.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021092857id_/http%3A//www.celebrations.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebrations.com privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518044256id_/http%3A//www.celebrations.com/privacy) for the most accurate reproduction.*
 
-# Party Ideas, Party Planning Tips, Expert Advice - Celebrations
+# Privacy Policy | Celebrations.com
 
 CELEBRATIONS.COM recognizes and respects the importance of maintaining the privacy of our customers, registered members ("Members") and users, and has established this Privacy Policy as a result. The purpose of this Privacy Policy is to inform you of: 
 
@@ -65,6 +65,8 @@ In addition, if you submit data to us about other individuals (such as your mess
 Links to Other Web Sites
 
 CELEBRATIONS.COM wants you to be aware that when you click on links and/or ad banners that take you to affiliated or third-party web sites, you will be subject to the privacy policies and terms of use of those web sites, not ours. We encourage you to read the posted privacy statement and user terms whenever using, and prior to providing any personal information to, any other web site.
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp). 
 
 Security and Passwords
 
