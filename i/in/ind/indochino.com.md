@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the indochino.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223041530id_/http%3A//www.indochino.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indochino.com privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518100858id_/http%3A//www.indochino.com/help/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Indochino
 
 Last updated: Dec 30, 2009 
 
-Indochino Apparel Inc. ("Indochino") is committed to protecting the privacy rights of visitors to [www.indochino.com](http://www.indochino.com/) Indochino knows that you care how information about you is used and shared, and we appreciate your trust.
+Indochino Apparel Inc. ("Indochino") is committed to protecting the privacy rights of visitors to [www.indochino.com](https://web.archive.org/) Indochino knows that you care how information about you is used and shared, and we appreciate your trust.
 
 By accessing, browsing or otherwise using this Website, you confirm that you have read, understood and agree to this privacy policy.
 
@@ -79,7 +79,7 @@ We work to protect the security of your information during transmission by using
 
 ## What Options Do I Have? __
 
-As discussed above, you can always choose not to provide information, even though it might be needed to make a purchase or to take advantage of such Indochino.com features as My Account, Stylebook, Gift Certificate, and Refer a Friend.
+As discussed above, you can always choose not to provide information, even though it might be needed to make a purchase or to take advantage of such Indochino.com features as My Account, Gift Certificate, and Refer a Friend.
 
 You can add or update certain information on pages such as those referenced in the My Account section, simply logging in with your email address and password. If you do not want to receive e-mail or other mail from us, please simply click Unsubscribe button in your email newsletter. 
 
