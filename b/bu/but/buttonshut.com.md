@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buttonshut.com privacy policy that was archived on 2012-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120807090115id_/http%3A//www.buttonshut.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buttonshut.com privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518210223id_/http%3A//www.buttonshut.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Pivacy Policy | Buttons Hut
 
