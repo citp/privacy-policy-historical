@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realgirlsgonebad.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118055142id_/http%3A//www.realgirlsgonebad.com/www/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realgirlsgonebad.com privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518235049id_/http%3A//www.realgirlsgonebad.com/www/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # RealGirlsGoneBad.com - No fakes, No actresses, just real girls gone bad
 
@@ -117,7 +117,5 @@ You have the right to ask us not to process your personal data for marketing pur
 We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes.
 
 You can exercise your right to prevent such processing at any time by contacting us at info@realgirlsgonebad.com.
-
-If at any time you wish to gain access to your Personal Information, or to have your Personal Information deleted, updated, changed or modified, you may contact RGGB by e-mail or post at RGGB, Suite 116, 79 Friar St, Worcester, WR1 2NT.
 
 Effective Date: May 1st 2012
