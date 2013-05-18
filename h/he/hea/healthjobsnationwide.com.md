@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthjobsnationwide.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920053809id_/http%3A//www.healthjobsnationwide.com/index.php%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthjobsnationwide.com privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518081450id_/http%3A//www.healthjobsnationwide.com/index.php%3Faction%3Dprivacy) for the most accurate reproduction.*
 
 # Healthcare Jobs, Healthcare Employment | HealthJobsNationwide.com
 
@@ -14,6 +14,14 @@ We have created this Privacy Policy to demonstrate our firm commitment to privac
 **Personal Information.** In order to operate the Site in an efficient and effective manner and provide you with information on job postings and services that may be of interest to you, HealthJobsNationwide.com may collect personal information, including contact information (such as an E-mail address) from you. In addition, this information allows us to provide you with private and secure areas to post and modify your original content on our site (e.g., jobs and resumes). We also automatically track certain information based upon your behavior on the Site and use this information to do internal research on our users' demographics, interests and behavior to better understand, protect and serve our users in general. This information may include the URL that a you have just come from (whether this URL is on our Site or not), the URL you go to next (whether this URL is on our Site or not), your computer browser information and your IP address.
 
 You agree that HealthJobsNationwide.com may use your personal information to contact you and deliver information to you that, in some cases, is targeted to your interests (such as relevant job postings and services), or provides administrative notices or communications applicable to your use of the Site. By accepting this Privacy Policy, you expressly agree to receive this information. In addition, you may receive free informational e-newsletters from us or our clients/partners relating to topics that may be of special interest to you. If you do not wish to receive these communications, we encourage you to opt out of any further receipt by following the opt out provisions provided in each such communication. You may also opt-out of receiving E-mails by sending us an email to support@healthjobsnationwide.com
+
+**Participation in the Medical Publisher Consortium**
+
+This website is a member of the Medical Publisher Consortium (the "Consortium"), and as such has implemented various technologies for universal registration/log-in among all Consortium member websites. These technologies are managed by DMD Marketing Corp. ("DMD"), and may involve the collection, receipt, and sharing of information with DMD and among other Consortium members. If you would like to understand how this website's participation in the Consortium affects your privacy, please click here:
+
+<http://www.dmddata.com/c_host/PrivacyPolicy_v3.htm>
+
+Please note that the Consortium registration/log-in system may be different from the registration/log-in used by this website for other products and services. To the extent that anything in this privacy policy conflicts with the policy for the Consortium technologies, the conflict will be resolved in favor of policy applicable to the Consortium technologies.
 
 We do not sell your personal information to anyone for any reason if you have indicated a desire for us to keep the information private. When posting jobs and resumes, you decide for yourself how much contact information you wish to display (we enable private communication for those who choose to hide this information).
 
