@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ice.gov privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014042639id_/http%3A//www.ice.gov/about/legal.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ice.gov privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518140216id_/http%3A//www.ice.gov/about/legal.htm) for the most accurate reproduction.*
 
 # ICE Website Legal Information
 
@@ -18,7 +18,7 @@ This information is primarily collected and used for statistical analysis and te
 
 #### If You Send ICE Personal Information
 
-If you choose to provide ICE with personal information, such as sending email or filling out a form and submitting it through the ICE Website, ICE will use that information to respond to your message or to fulfill the requested purpose of communication. Remember that e-mail is not necessarily secure against interception. If your communication is sensitive or includes personal information you may prefer to send it via postal mail instead.
+If you choose to provide ICE with personal information, such as sending email or filling out a form and submitting it through the ICE website, ICE will use that information to respond to your message or to fulfill the requested purpose of communication. Remember that e-mail is not necessarily secure against interception. If your communication is sensitive or includes personal information you may prefer to send it via postal mail instead.
 
 ICE may share the information you give us with another government agency if your inquiry relates to that agency. In other limited circumstances, such as responses to requests from Congress and private individuals, ICE may be required by law to disclose information that you submit. Before you submit any personal information, such as an online form, you may be given more specific guidance as to how your personal information may be used. 
 
@@ -59,7 +59,7 @@ Freedom of Information Act Office
 U.S. Immigration and Customs Enforcement  
 500 12th Street, S.W., Stop 5009  
 Washington, D.C. 20536-5009  
-Phone: (202) 732-0600 Facsimile (202) 732-0660
+Phone: (866) 633-1182 Facsimile (202) 732-4265
 
 **NOTE:** All requests for Alien Files, including all records therein, should be requested from U. S. Citizenship and Immigration Services, The National Records Center, FOIA Division, P.O. Box 648010, Lee's Summit, MO 64064-5570. Alien Files are under the control of U.S. Citizenship and Immigration Services. Please refer any questions about Alien File record requests to Director, Freedom of Information/Privacy Act Program at (202) 272-8269.
 
@@ -82,7 +82,7 @@ U.S. Immigration and Customs Enforcement
 800 North Capitol St., NW  
 5th Floor, Suite 585   
 Washington, DC 20536 
-  * Requests can also be faxed to (202) 732-0310 
+  * Requests can also be faxed to (202) 732-4265
   * Requests or questions may also be e-mailed to the following address: [ICE-FOIA@dhs.gov](mailto:ICE-FOIA@dhs.gov)
   * Requests are deemed to constitute an agreement to pay any applicable fees that may be chargeable up to $25 without notice. Most requests do not require any fees; however, if fees exceed $25, we will notify you beforehand. 
 
