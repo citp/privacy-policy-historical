@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simplypsychology.org privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231132719id_/http%3A//www.simplypsychology.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplypsychology.org privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518023202id_/http%3A//www.simplypsychology.org/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -28,10 +28,10 @@ About Google advertising: What is the DoubleClick DART cookie? The DoubleClick D
 
 Some third-party advertisers used by Google may use a different cookie. You may opt out of most third-party advertising cookies by [following this link  and visiting the Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp), or [by visiting this Consumers page to opt out of all advertising cookies](http://www.evidon.com/consumers/profile_manager#tab3).
 
-[](https://web.archive.org/web/20121231132719id_/http%3A//www.simplypsychology.org/behavioral-therapy.html)
+[](https://web.archive.org/web/20130518023202id_/http%3A//www.simplypsychology.org/behavioral-therapy.html)
 
-### [Behavioral Therapy](https://web.archive.org/web/20121231132719id_/http%3A//www.simplypsychology.org/behavioral-therapy.html)
+### [Behavioral Therapy](https://web.archive.org/web/20130518023202id_/http%3A//www.simplypsychology.org/behavioral-therapy.html)
 
 Behavior therapies are based on the theory of classical conditioning. They are commonly used to treat anxiety disorders such as phobias. The assumption is that all behavior is learned; faulty learning (i.e. conditioning) is the cause of abnormal behavior.
 
-Cartoon by Sean Longcroft, Copyright © Psychology Press. [Read more »](https://web.archive.org/web/20121231132719id_/http%3A//www.simplypsychology.org/behavioral-therapy.html)
+Cartoon by Sean Longcroft, Copyright © Psychology Press. [Read more »](https://web.archive.org/web/20130518023202id_/http%3A//www.simplypsychology.org/behavioral-therapy.html)
