@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seek.com.au privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122132518id_/http%3A//www.seek.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seek.com.au privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518064202id_/http%3A//www.seek.com.au/privacy) for the most accurate reproduction.*
 
 # SEEK - Privacy Statement
 
@@ -18,7 +18,7 @@ SEEK's web servers gather your IP address to assist with the diagnosis of proble
 
 SEEK uses cookies to provide you with a better experience. These cookies and applets allow you to use specific services such as Job Mail (an alert service which emails your chosen jobs), Application Tracker (to manage your SEEK job applications), to remember who you are for Auto Login if you choose this option and to remember your last search criteria for My Last Search. 
 
-Users who do not wish to have cookies active whilst they browse the Site can "opt out" by following the instructions on this [page](http://www.google.com/ads/preferences/plugin/browsers.html). However, doing so will prevent access to some areas of the Site and limit your use of some of the SEEK services.
+Users who do not wish to have cookies active whilst they browse the Site can "opt out" by following the instructions on this [page](http://www.google.com/intl/en/policies/privacy/ads/). However, doing so will prevent access to some areas of the Site and limit your use of some of the SEEK services.
 
 ###  Third Party Measurement
 
