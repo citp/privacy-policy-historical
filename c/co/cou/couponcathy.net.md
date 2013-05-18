@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the couponcathy.net privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227235645id_/http%3A//couponcathy.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponcathy.net privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518152202id_/http%3A//couponcathy.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « CouponCathy – Get Exclusive Coupons to your Favorite Places
 
