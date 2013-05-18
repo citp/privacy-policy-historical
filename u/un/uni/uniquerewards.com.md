@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uniquerewards.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016000905id_/http%3A//www.uniquerewards.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uniquerewards.com privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518192524id_/http%3A//www.uniquerewards.com/privacy.html) for the most accurate reproduction.*
 
 # UniqueRewards
 
@@ -93,22 +93,17 @@ By registering to use the UniqueRewards service, you agree to accept this privac
 
 |  | 
 
-[](https://web.archive.org/cgi-bin/click.cgi?mid=12732)
+[](https://web.archive.org/cgi-bin/click.cgi?mid=14390)
 
-**Paid For Research - 20 Simple Questions**
+**Discover it Card**
 
-Complete easy 20 question survey!
+Apply now for no annual fee. Earn 5% cash back in categories that change throughout the year like gas, restaurants, and department stores up to the quarterly maximum. Unlimited 1% cash back on all other purchases!  
+Apply and activate your Discover It Card.
 
 [](https://web.archive.org/cgi-bin/click.cgi?mid=3914)
 
 **UniqueRewards Profile Survey**
 
 UniqueRewards Profile Survey!
-
-[](https://web.archive.org/cgi-bin/click.cgi?mid=11827)
-
-**Hydroxatone**
-
-Scientifically advcanced wrinkle reduction and prevention WITHOUT using Botox!
 
 | 
