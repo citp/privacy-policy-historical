@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pnrstatus.org privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015000640id_/http%3A//www.pnrstatus.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pnrstatus.org privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518125001id_/http%3A//www.pnrstatus.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PNR Status, Irctc PNR Status, Indian Railways PNR Enquiry
 
