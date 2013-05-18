@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nicheprofitcourse.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230201417id_/http%3A//www.nicheprofitcourse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nicheprofitcourse.com privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518021636id_/http%3A//www.nicheprofitcourse.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Niche Profit Course
 
