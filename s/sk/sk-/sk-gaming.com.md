@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sk-gaming.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004065643id_/http%3A//www.sk-gaming.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sk-gaming.com privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518115916id_/http%3A//www.sk-gaming.com/privacy) for the most accurate reproduction.*
 
 # SK Gaming - Esports, Professional Gaming, Counter-Strike, Warcraft III, World of Warcraft, FIFA, DotA, Starcraft, Quake, Console
 
