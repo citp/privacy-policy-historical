@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tamaracinc.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520015914id_/http%3A//www.tamaracinc.com/Public/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamaracinc.com privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518210928id_/http%3A//www.tamaracinc.com/Privacy.aspx) for the most accurate reproduction.*
 
-# Tamarac - Privacy Policy
+# Tamarac - Legal Notice
 
-Tamarac Advisor Services, Inc. ("Tamarac," "we," or "us") takes your right to privacy seriously, and we want you to feel comfortable using the tamaracinc.com and tamaracservices.com websites (the "Sites"). This Privacy Policy deals with personally-identifiable information (referred to as "data" below) that may be collected by or through the Sites or Tamarac. This policy does not apply to other entities that are not owned or controlled by Tamarac, nor does it apply to people that are not employees or agents of Tamarac or that are not under Tamarac's control. In addition to this Privacy Policy, you should read the general [Terms of Use](https://web.archive.org/web/20120520015914id_/http%3A//www.tamaracinc.com/Public/Legal.aspx) for the Sites. 
+Tamarac Advisor Services, Inc. ("Tamarac," "we," or "us") takes your right to privacy seriously, and we want you to feel comfortable using the tamaracinc.com and tamaracservices.com websites (the "Sites"). This Privacy Policy deals with personally-identifiable information (referred to as "data" below) that may be collected by or through the Sites or Tamarac. This policy does not apply to other entities that are not owned or controlled by Tamarac, nor does it apply to people that are not employees or agents of Tamarac or that are not under Tamarac's control. In addition to this Privacy Policy, you should read the general [Terms of Use](https://web.archive.org/web/20130518210928id_/http%3A//www.tamaracinc.com/Legal.aspx) for the Sites. 
 
 Please note that certain details of this Privacy Policy may depend on whether you deal with us through an investment professional or directly as an individual investor. 
 
