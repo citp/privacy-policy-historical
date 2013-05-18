@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the bestwordpressbusinessthemes.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920005046id_/http%3A//bestwordpressbusinessthemes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestwordpressbusinessthemes.com privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518070925id_/http%3A//bestwordpressbusinessthemes.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy for Best Wordpress Themes | Premium WordPress Themes
+# Privacy Policy for Best Wordpress Themes | Best WordPress Themes 2013
 
 The privacy and security of our visitors is the highest priority for us. It is the policy of **[Best WordPress Business Themes](http://bestwordpressbusinessthemes.com/ "Best WordPress Business Themes")** (BWBT) that your personal information, such as your name, address, personal postal and email address, telephone number are all kept privately and confidentially. Because your privacy is so important to us, BWBT maintains the privacy policies to protect your personal information.
 
 By using our site, you agree to the terms of our privacy policies for the use, collection and disclosure of your personal information for purposes below. We do not collect, use or disclose your personal information for any different purpose other than these identified below, except with your special consent or as required by law.
 
- **Information we collect or track**
+**Information we collect or track**
 
 1\. Site Activity Data  
 Every time a visitor visit this website, BWBT’s web server automatically collects and logs needed information. These access logs are always kept for a reasonable period of time. The logs include, but are not limited to visitor machine’s TCP/IP address, date, time and files accessed. The logs also contain information about the referrer if you clicked on an external link to a BWBT webpage. These logs are used solely for site administration, performance, and security reviews. We do not sell or share in any way to third party organizations.
@@ -21,8 +21,8 @@ Gathered cookies do not contain any personally identifiable information about yo
 (3) Personal Information  
 Personal information, such as your name, email address, home address or your personal telephone number is collected only when you voluntarily provide it. Such information are received when you send an email through the site or make some other specific contact, like completing an online form.
 
- **Policy Revisions**  
+**Policy Revisions**  
 Any changes to the privacy policy will be promptly communicated on this website. Policy changes will not alter how we handle previously submitted personal information.
 
- **Contacting BestWordPressBusinessThemes.com**  
+**Contacting BestWordPressBusinessThemes.com**  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, please contact BWBT at: info@bestwordpressbusinessthemes.com
