@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the preservationnation.org privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230185203id_/http%3A//www.preservationnation.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the preservationnation.org privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518200304id_/http%3A//www.preservationnation.org/privacy) for the most accurate reproduction.*
 
-# Privacy Policy of the National Trust for Historic Preservation
+# Privacy Policy of the National Trust for Historic Preservation - National Trust for Historic Preservation
 
 Scope of the Privacy Policy
 
