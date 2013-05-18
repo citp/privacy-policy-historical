@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the miamimommysavings.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231192852id_/http%3A//miamimommysavings.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miamimommysavings.com privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518104346id_/http%3A//miamimommysavings.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Miami Mommy Savings
 
@@ -37,4 +37,4 @@ If you have any questions about our Privacy Policy, please contact AnaCarolina a
 
 (last updated July 25, 2011)
 
-[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fmiamimommysavings.com%2Fprivacy-policy%2F&media=)
+This post may contain affiliate links. Please read the [Privacy](http://miamimommysavings.com/privacy-policy/) and [Disclosures](http://miamimommysavings.com/disclosure-policy/) statements. 
