@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mycashplus.co.uk privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124021203id_/http%3A//www.mycashplus.co.uk/security-and-privacy/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycashplus.co.uk privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518032824id_/http%3A//www.mycashplus.co.uk/security-and-privacy/default.aspx) for the most accurate reproduction.*
 
 # Security & privacy on the Cashplus prepaid card site. Contact us | Cashplus
 
@@ -133,9 +133,9 @@ Majority of browsers will have a default 'medium' cookie setting, allowing 1st p
 
 
 
-To opt-out of authorised third party cookies on this website please visit the Omniture Visual Sciences Privacy Centre: [Adobe® SiteCatalyst® HBX Products and Services Privacy Statement](http://www.omniture.com/privacy/visualsciences/policy "Omniture Visual Sciences Privacy Centre")
+To opt-out of authorised third party cookies on this website please visit the [Adobe Privacy Centre](http://www.adobe.com/uk/privacy.html "Adobe Privacy Centre")
 
-If you wish to immediately remove these cookies then please go to the [SiteCatalyst HBX Cookie Opt-Out tool](https://documents.hitbox.com/optout.html "SiteCatalyst Cookie Opt-Out tool"). 
+If you wish to immediately remove these cookies then please go to the [Adobe Privacy Choices webpage](http://www.adobe.com/privacy/opt-out.html#4 "Adobe privacy choices webpage"). 
 
 ## Phishing
 
