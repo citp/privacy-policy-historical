@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the game.co.in privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223124339id_/http%3A//www.agame.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the game.co.in privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518072449id_/http%3A//www.agame.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Free online games at Agame.com
 
@@ -92,23 +92,19 @@ The information that our Websites collect includes (among others) the following:
 
 6.3    Your personal data will only be stored for a period necessary for your uses of the Websites for the purposes as described in this Privacy Policy. 
 
-**7.   ** **Kids**
+**7.   ** **Miscellaneous**
 
-7.1    Users under the age of 13 will be notified not to submit any personal data without the consent of their parent or legal guardian. 
+7.1    We reserve the right to amend our Privacy Policy. Amendments will be effective as of the moment of publication on the Websites. You should check the Websites regularly for amendments. 
 
-**8.   ** **Miscellaneous**
+7.2    The Internet is a global environment, and using the Internet necessarily involves the collection and processing of personal data on an international basis. Therefore, by using (one or more of) our Websites, you acknowledge and agree to our processing of personal data in this way. 
 
-8.1    We reserve the right to amend our Privacy Policy. Amendments will be effective as of the moment of publication on the Websites. You should check the Websites regularly for amendments. 
+7.3    Our Websites may contain links to other websites. We are not responsible for the privacy practices of other websites. We encourage users to be aware when they leave our site to read the privacy statements of each and every website that collects personally identifiable information. This Privacy Policy applies solely to information collected by us. 
 
-8.2    The Internet is a global environment, and using the Internet necessarily involves the collection and processing of personal data on an international basis. Therefore, by using (one or more of) our Websites, you acknowledge and agree to our processing of personal data in this way. 
+7.4    In the event of a transfer of (one of our) Websites to a third party, we may transfer to such third party all personal information that we collected about you in accordance with this Privacy Policy. In such an event, users who have provided email addresses to us will be notified when information about those users is transferred and becomes subject to a different privacy policy. 
 
-8.3    Our Websites may contain links to other websites. We are not responsible for the privacy practices of other websites. We encourage users to be aware when they leave our site to read the privacy statements of each and every website that collects personally identifiable information. This Privacy Policy applies solely to information collected by us. 
+7.5    We also have Terms of Use that are applicable to your use of the Websites. In the case of a contradiction between the Terms of Use and this Privacy Policy, this Privacy Policy prevails. 
 
-8.4    In the event of a transfer of (one of our) Websites to a third party, we may transfer to such third party all personal information that we collected about you in accordance with this Privacy Policy. In such an event, users who have provided email addresses to us will be notified when information about those users is transferred and becomes subject to a different privacy policy. 
-
-8.5    We also have Terms of Use that are applicable to your use of the Websites. In the case of a contradiction between the Terms of Use and this Privacy Policy, this Privacy Policy prevails. 
-
-8.6    This Privacy Policy shall be governed by the laws of the Netherlands and submitted to the exclusive jurisdiction of the courts in the Netherlands. 
+7.6    This Privacy Policy shall be governed by the laws of the Netherlands and submitted to the exclusive jurisdiction of the courts in the Netherlands. 
 
 If you have any additional questions or requests, you may send an email to [info@spilgames.com](mailto:info@spilgames.com). 
 
