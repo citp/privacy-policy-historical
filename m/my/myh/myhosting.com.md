@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myhosting.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223064634id_/http%3A//myhosting.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myhosting.com privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518051715id_/http%3A//myhosting.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | myhosting.com
 
