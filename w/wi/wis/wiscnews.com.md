@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wiscnews.com privacy policy that was archived on 2012-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121117210038id_/http%3A//www.wiscnews.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wiscnews.com privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518153147id_/http%3A//www.wiscnews.com/privacy) for the most accurate reproduction.*
 
-# Privacy policy
+# Privacy policy : Portage Daily Register
 
 Welcome to the web sites of [wiscnews.com](http://wiscnews.com/). We (which includes our parent company, Lee Enterprises, Incorporated) believe in your right to know what information is collected during your visit to our web sites and how that information is used and safeguarded.
 
