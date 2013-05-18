@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bigindianwedding.com privacy policy that was archived on 2012-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121230193333id_/http%3A//www.bigindianwedding.com/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bigindianwedding.com privacy policy that was archived on 2013-05-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130518035732id_/http%3A//www.bigindianwedding.com/Privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
@@ -12,13 +12,16 @@
 <meta name="description" content="Wedding planning tips and advice - Plan your dream wedding using bigindianwedding.com, your complete guide to wedding planning, wedding ideas, wedding dresses, venues, flowers, photographers and more....">
 <!-- meta name="google-site-verification" content="d9XcsbP3b4FvprBQpzCLtjAb6qVzGmT132as3kxCxDk" / -->
 <meta name="google-site-verification" content="we3vdINMhlM8s1hgAfJMYcWXfCbd8vsDFHRI40Fwde0">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
 <script type="text/javascript" language="javascript" src="http://www.bigindianwedding.com/js/initvalidate-min.js"></script>
 <script type="text/javascript" language="javascript" src="http://www.bigindianwedding.com/js/util-functions-min.js"></script>
 
 <link rel="index" href="http://www.bigindianwedding.com/">
 <link rel="stylesheet" href="http://www.bigindianwedding.com/styles/styles.css" type="text/css">
 <link rel="stylesheet" href="http://www.bigindianwedding.com/css/style.css" type="text/css">
+<!------------rakesh changes------------------>
+
+<!----------------end rakesh changes-------------------->
 <style type="text/css">
 <!--
 #floating_link { position: fixed;  right: 0; top: 200px; display: block; overflow: hidden; z-index:999;
@@ -57,11 +60,12 @@ anylinkcssmenu.init("anchorclass")//Pass in the CSS class of anchor links (that 
 <link type="text/css" media="screen" rel="stylesheet" href="http://www.bigindianwedding.com/css/prettyPhoto.css">
 <script src="http://www.bigindianwedding.com/js/jquery.prettyPhoto.js" type="text/javascript"></script>
 
+<script src="http://www.bigindianwedding.com/js/jquery.balloon.min.js" type="text/javascript"></script> 
+
 <script type="text/javascript" language="javascript">	
 var ScrollToTop=ScrollToTop||{setup:function(){	$(window).scroll(function(){ if ($(this).scrollTop() > 100) { $('.scrollup').fadeIn(); } else { $('.scrollup').fadeOut();}}); $('.scrollup').click(function(){$("html, body").animate({ scrollTop: 0 }, 600); return false;});var a=($(window).height()/2) - 30; $('.scrollup').css('bottom',a+'px');}}	
- 
 $(document).ready(function(){	
-	var listUrl = 'http://www.bigindianwedding.com/CompanyList/Surat/';	
+	$(".boxy a[rel^='prettyPhoto']").prettyPhoto();	 
 	$("#floating_link a[rel^='prettyPhoto']").prettyPhoto();		
 	$(".gallery:first a[rel^='prettyPhoto']").prettyPhoto();
 	$(".gallery:gt(0) a[rel^='prettyPhoto']").prettyPhoto();
@@ -72,24 +76,6 @@ $(document).ready(function(){
 	$("#bottom-side-slider a[rel^='prettyPhoto']").prettyPhoto();	
 	$("#appointment").prettyPhoto();
 	$("#article-doc").prettyPhoto();		
-	$('.featurefilter').click(function(){
-		var comma = '';
-		var sf='';
-		var chks = document.getElementsByName('p_attribute[]');		
-		for (var i = 0; i < chks.length; i++) {
-			if (chks[i].checked) {			
-				sf = sf + comma + chks[i].value;
-				comma = ',';						
-			}	
-		}
-		if(sf!='') {		
-			window.location.href = listUrl + '?sf='+sf;	
-		} 
-		else { 
-			window.location.href = listUrl;	
-		}	
-	});
-	
 	$(".more-country").click(function(e){ 		
 			e.stopPropagation();			
 			var kntry = $(this).attr('id');					
@@ -163,14 +149,56 @@ function dispCatIndex(cityVal){
 	httpObj.send(params);
 }
 </script>
+
+<!--====================Rakesh Start Changes =============-->
+
+<script type="text/javascript">
+$(".heart_active").live("click",function(){	
+	var query=$(this).attr('rel');		
+	$.ajax({
+			type: "POST",
+			url: "http://www.bigindianwedding.com/MyLoveStore/"+query,
+			context: this,
+			success: function(data){						
+				$(this).removeClass('heart_active').addClass('heart_inactive');
+				$(this).parent().find('.loveit').addClass('saved');							
+			}
+		});									
+	});
+</script> 
+  
 <!--==================== MEGA MENU =============-->
+
+<script type="text/javascript">
+ var _gaq = _gaq || [];
+ _gaq.push(['_setAccount', 'UA-20406691-2']);
+ _gaq.push(['_setDomainName', 'bigindianwedding.com']);
+ _gaq.push(['_addOrganic', 'attrakt.com', 'q']);
+ _gaq.push(['_trackPageview']);
+
+ (function() {
+   var ga = document.createElement('script'); ga.type =
+'text/javascript'; ga.async = true;
+   ga.src = ('https:' == document.location.protocol ? 'https://ssl' :
+'http://www') + '.google-analytics.com/ga.js';
+   var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(ga, s);
+ })();
+</script>
 </head>
 <body>
+<!-- Start Alexa Certify Javascript -->
+<script type="text/javascript">
+_atrk_opts = { atrk_acct:"8Kwvh1acBa002r", domain:"bigindianwedding.com",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=8Kwvh1acBa002r" style="display:none" height="1" width="1" alt="" /></noscript>
+<!-- End Alexa Certify Javascript -->
 <div id="wrap">
   <!-- top area start here -->
   <div id="topcities"> 
        <div class="div1 dp90">
-	   <div class="activecity"><a href="http://www.bigindianwedding.com/CompanyList/Surat/Bridal-Fashions/Lehengas-and-Sarees/" class="curLocationLink"><span class="curLocation">Surat</span></a></div><div class="city"><a href="http://www.bigindianwedding.com/CompanyList/Delhi-NCR/Bridal-Fashions/Lehengas-and-Sarees/"><span>Delhi NCR</span></a> · <a href="http://www.bigindianwedding.com/CompanyList/Mumbai/Bridal-Fashions/Lehengas-and-Sarees/"><span>Mumbai</span></a> · <a href="http://www.bigindianwedding.com/CompanyList/Bangalore/Bridal-Fashions/Lehengas-and-Sarees/"><span>Bangalore</span></a> · <a href="http://www.bigindianwedding.com/CompanyList/Kolkata/Bridal-Fashions/Lehengas-and-Sarees/"><span>Kolkata</span></a> · <a href="http://www.bigindianwedding.com/CompanyList/Pune/Bridal-Fashions/Lehengas-and-Sarees/"><span>Pune</span></a> · <a href="http://www.bigindianwedding.com/CompanyList/Hyderabad/Bridal-Fashions/Lehengas-and-Sarees/"><span>Hyderabad</span></a> · <a href="http://www.bigindianwedding.com/CompanyList/Chennai/Bridal-Fashions/Lehengas-and-Sarees/"><span>Chennai</span></a> · </div><div style="float:right;"><div class="morecity"> <span id="morecitiesmenu">
+	   <div class="activecity"><a href="http://www.bigindianwedding.com/CompanyList/Mumbai/Bridal-Fashions/Lehengas-and-Sarees/" class="curLocationLink"><span class="curLocation">Mumbai</span></a></div><div class="city"><a href="http://www.bigindianwedding.com/CompanyList/Delhi-NCR/Bridal-Fashions/Lehengas-and-Sarees/"><span>Delhi NCR</span></a> · <a href="http://www.bigindianwedding.com/CompanyList/Bangalore/Bridal-Fashions/Lehengas-and-Sarees/"><span>Bangalore</span></a> · <a href="http://www.bigindianwedding.com/CompanyList/Kolkata/Bridal-Fashions/Lehengas-and-Sarees/"><span>Kolkata</span></a> · <a href="http://www.bigindianwedding.com/CompanyList/Pune/Bridal-Fashions/Lehengas-and-Sarees/"><span>Pune</span></a> · <a href="http://www.bigindianwedding.com/CompanyList/Hyderabad/Bridal-Fashions/Lehengas-and-Sarees/"><span>Hyderabad</span></a> · <a href="http://www.bigindianwedding.com/CompanyList/Chennai/Bridal-Fashions/Lehengas-and-Sarees/"><span>Chennai</span></a> · <a href="http://www.bigindianwedding.com/CompanyList/Jaipur/Bridal-Fashions/Lehengas-and-Sarees/"><span>Jaipur</span></a> · </div><div style="float:right;"><div class="morecity"> <span id="morecitiesmenu">
 				<div class="morecitieslink">
 					<a id="citiesanchor" rel="submenu1" class="anchorclass location" href="#">More Cities 
 						<img src="http://www.bigindianwedding.com/images/cityarrowdown.png" border="0">
@@ -180,11 +208,11 @@ function dispCatIndex(cityVal){
 		 <div id="submenu1" class="anylinkcsscols morecities">		
 			<div class="morectcontent">
 				 
-			  <div><a href="http://www.bigindianwedding.com/CompanyList/Jaipur/Bridal-Fashions/Lehengas-and-Sarees/"><span>Jaipur</span></a></div>
 			  <div><a href="http://www.bigindianwedding.com/CompanyList/Ahmedabad/Bridal-Fashions/Lehengas-and-Sarees/"><span>Ahmedabad</span></a></div>
 			  <div><a href="http://www.bigindianwedding.com/CompanyList/Chandigarh/Bridal-Fashions/Lehengas-and-Sarees/"><span>Chandigarh</span></a></div>
 			  <div><a href="http://www.bigindianwedding.com/CompanyList/Ludhiana/Bridal-Fashions/Lehengas-and-Sarees/"><span>Ludhiana</span></a></div>
 			  <div><a href="http://www.bigindianwedding.com/CompanyList/Lucknow/Bridal-Fashions/Lehengas-and-Sarees/"><span>Lucknow</span></a></div>
+			  <div><a href="http://www.bigindianwedding.com/CompanyList/Surat/Bridal-Fashions/Lehengas-and-Sarees/"><span>Surat</span></a></div>
 			  <div><a href="http://www.bigindianwedding.com/CompanyList/Indore/Bridal-Fashions/Lehengas-and-Sarees/"><span>Indore</span></a></div>			 
 			</div>
 		</div>	
@@ -227,7 +255,7 @@ function dispCatIndex(cityVal){
 		<div id="top1">&nbsp;</div>
 		<div class="clear"></div>
 		<div id="header-top-banner"><!--a href='http://www.bigindianwedding.com/bannertrack.php?bname=naina_arora&url=http://www.nainaarora.com/' target='_blank'-->
-<a href="http://www.nainaarora.com/" rel="nofollow" target="_blank" onclick="_gaq.push(['_trackEvent', 'Naina-Arora', 'Click']);"><img src="http://www.bigindianwedding.com/uploads/banner/horizontal/nainaarora_home_400x60.jpg" alt="contact" border="0"></a></div>	
+<a href="http://www.radissonblu.com/hotel-ghaziabad/" rel="nofollow" target="_blank" onclick="_gaq.push(['_trackEvent', 'Radissonblu', 'Click']);"><img src="http://www.bigindianwedding.com/uploads/banner/horizontal/Wedding-site_400-60pxl.jpg" alt="contact" border="0"></a></div>	
 	   </div>	
     </div>
   <!-- top area end here -->
@@ -236,64 +264,83 @@ function dispCatIndex(cityVal){
   <div class="clear"></div>
 	  <div id="topnav">
 	 	<ul>
-			<li><a class="first" id="vendoranchor" href="http://www.bigindianwedding.com/CompanyList/Surat/Astrologers/">Service Providers</a></li>
+			<li><a class="first" id="vendoranchor" href="http://www.bigindianwedding.com/CompanyList/Mumbai/Astrologers/">Service Providers</a></li>
 		<div id="vendormenu" class="megamenu">
 	<ul>
-	  <div class="column first">		<li><a href="http://www.bigindianwedding.com/CompanyList/Surat/Astrologers/">Astrologers</a>
+	  <div class="column first">		<li><a href="http://www.bigindianwedding.com/CompanyList/Mumbai/Astrologers/">Astrologers</a>
 		  		</li>  
-				<li><a href="http://www.bigindianwedding.com/CompanyList/Surat/Bandwallahs/">Bandwallah's</a>
+				<li><a href="http://www.bigindianwedding.com/CompanyList/Mumbai/Bandwallahs/">Bandwallah's</a>
 		  		</li>  
-				<li><a href="http://www.bigindianwedding.com/CompanyList/Surat/Bridal-Fashions/">Bridal Fashions</a>
+				<li><a href="http://www.bigindianwedding.com/CompanyList/Mumbai/Bartenders/">Bartenders</a>
+		  		</li>  
+				<li><a href="http://www.bigindianwedding.com/CompanyList/Mumbai/Bridal-Fashions/">Bridal Fashions</a>
 		  <ul>
-			<li class="subcat"><a href="http://www.bigindianwedding.com/CompanyList/Surat/Bridal-Fashions/Lehengas-and-Sarees/">Lehengas and Sarees</a></li>
-			<li class="subcat"><a href="http://www.bigindianwedding.com/CompanyList/Surat/Bridal-Fashions/Shoes-and-Bags/">Shoes and Bags</a></li>
-			<li class="subcat"><a href="http://www.bigindianwedding.com/CompanyList/Surat/Bridal-Fashions/Watches/">Watches</a></li>
+			<li class="subcat"><a href="http://www.bigindianwedding.com/CompanyList/Mumbai/Bridal-Fashions/Designers/">Designers</a></li>
+			<li class="subcat"><a href="http://www.bigindianwedding.com/CompanyList/Mumbai/Bridal-Fashions/Lehengas-and-Sarees/">Lehengas and Sarees</a></li>
+			<li class="subcat"><a href="http://www.bigindianwedding.com/CompanyList/Mumbai/Bridal-Fashions/Shoes-and-Bags/">Shoes and Bags</a></li>
+			<li class="subcat"><a href="http://www.bigindianwedding.com/CompanyList/Mumbai/Bridal-Fashions/Watches/">Watches</a></li>
 						</ul>
 				</li>  
-				<li><a href="http://www.bigindianwedding.com/CompanyList/Surat/Car--Bus-Rentals/">Car &amp; Bus Rentals</a>
+				<li><a href="http://www.bigindianwedding.com/CompanyList/Mumbai/Car--Bus-Rentals/">Car &amp; Bus Rentals</a>
 		  		</li>  
-				<li><a href="http://www.bigindianwedding.com/CompanyList/Surat/Caterers/">Caterers</a>
+				<li><a href="http://www.bigindianwedding.com/CompanyList/Mumbai/Caterers/">Caterers</a>
 		  		</li>  
-		</div><div class="column">		<li><a href="http://www.bigindianwedding.com/CompanyList/Surat/Flowers--Decoration-Suppliers/">Flowers &amp; Decoration Suppliers</a>
+				<li><a href="http://www.bigindianwedding.com/CompanyList/Mumbai/DJ-and-Live-Music/">DJ and Live Music</a>
 		  		</li>  
-				<li><a href="http://www.bigindianwedding.com/CompanyList/Surat/Health-and-Beauty/">Health and Beauty</a>
+		</div><div class="column">		<li><a href="http://www.bigindianwedding.com/CompanyList/Mumbai/Fireworks-Display/">Fireworks Display</a>
+		  		</li>  
+				<li><a href="http://www.bigindianwedding.com/CompanyList/Mumbai/Flowers--Decoration-Suppliers/">Flowers &amp; Decoration Suppliers</a>
+		  		</li>  
+				<li><a href="http://www.bigindianwedding.com/CompanyList/Mumbai/Ghoriwala-Baggi-and-Palki/">Ghoriwala, Baggi and Palki</a>
+		  		</li>  
+				<li><a href="http://www.bigindianwedding.com/CompanyList/Mumbai/Health-and-Beauty/">Health and Beauty</a>
 		  <ul>
-			<li class="subcat"><a href="http://www.bigindianwedding.com/CompanyList/Surat/Health-and-Beauty/Beauty-salons/">Beauty salons</a></li>
-			<li class="subcat"><a href="http://www.bigindianwedding.com/CompanyList/Surat/Health-and-Beauty/Cosmetic-Treatment/">Cosmetic Treatment</a></li>
-			<li class="subcat"><a href="http://www.bigindianwedding.com/CompanyList/Surat/Health-and-Beauty/Hair-Salons/">Hair Salons</a></li>
-			<li class="subcat"><a href="http://www.bigindianwedding.com/CompanyList/Surat/Health-and-Beauty/Makeup-artists/">Makeup artists</a></li>
-			<li class="subcat"><a href="http://www.bigindianwedding.com/CompanyList/Surat/Health-and-Beauty/Personal-Fitness/">Personal Fitness</a></li>
-			<li class="subcat"><a href="http://www.bigindianwedding.com/CompanyList/Surat/Health-and-Beauty/Weight-loss/">Weight loss</a></li>
+			<li class="subcat"><a href="http://www.bigindianwedding.com/CompanyList/Mumbai/Health-and-Beauty/Beauty-salons/">Beauty salons</a></li>
+			<li class="subcat"><a href="http://www.bigindianwedding.com/CompanyList/Mumbai/Health-and-Beauty/Cosmetic-Treatment/">Cosmetic Treatment</a></li>
+			<li class="subcat"><a href="http://www.bigindianwedding.com/CompanyList/Mumbai/Health-and-Beauty/Hair-Salons/">Hair Salons</a></li>
+			<li class="subcat"><a href="http://www.bigindianwedding.com/CompanyList/Mumbai/Health-and-Beauty/Makeup-artists/">Makeup artists</a></li>
+			<li class="subcat"><a href="http://www.bigindianwedding.com/CompanyList/Mumbai/Health-and-Beauty/Personal-Fitness/">Personal Fitness</a></li>
+			<li class="subcat"><a href="http://www.bigindianwedding.com/CompanyList/Mumbai/Health-and-Beauty/Weight-loss/">Weight loss</a></li>
 						</ul>
 				</li>  
-				<li><a href="http://www.bigindianwedding.com/CompanyList/Surat/Honeymoons/">Honeymoons</a>
+				<li><a href="http://www.bigindianwedding.com/CompanyList/Mumbai/Honeymoons/">Honeymoons</a>
 		  		</li>  
-				<li><a href="http://www.bigindianwedding.com/CompanyList/Surat/Jewellery/">Jewellery</a>
+				<li><a href="http://www.bigindianwedding.com/CompanyList/Mumbai/Jewellery/">Jewellery</a>
 		  		</li>  
-		</div><div class="column">		<li><a href="http://www.bigindianwedding.com/CompanyList/Surat/Mens-Style/">Men's Style</a>
+				<li><a href="http://www.bigindianwedding.com/CompanyList/Mumbai/Lehenga--Jewellery-On-Rent/">Lehenga &amp; Jewellery On Rent</a>
+		  		</li>  
+		</div><div class="column">		<li><a href="http://www.bigindianwedding.com/CompanyList/Mumbai/Lingerie-and-Intimates/">Lingerie and Intimates</a>
+		  		</li>  
+				<li><a href="http://www.bigindianwedding.com/CompanyList/Mumbai/Mens-Style/">Men's Style</a>
 		  <ul>
-			<li class="subcat"><a href="http://www.bigindianwedding.com/CompanyList/Surat/Mens-Style/Cosmetic-Treatment/">Cosmetic Treatment</a></li>
-			<li class="subcat"><a href="http://www.bigindianwedding.com/CompanyList/Surat/Mens-Style/Mens-Fashion/">Mens Fashion</a></li>
-			<li class="subcat"><a href="http://www.bigindianwedding.com/CompanyList/Surat/Mens-Style/Personal-Fitness/">Personal Fitness</a></li>
+			<li class="subcat"><a href="http://www.bigindianwedding.com/CompanyList/Mumbai/Mens-Style/Cosmetic-Treatment/">Cosmetic Treatment</a></li>
+			<li class="subcat"><a href="http://www.bigindianwedding.com/CompanyList/Mumbai/Mens-Style/Mens-Fashion/">Mens Fashion</a></li>
+			<li class="subcat"><a href="http://www.bigindianwedding.com/CompanyList/Mumbai/Mens-Style/Personal-Fitness/">Personal Fitness</a></li>
 						</ul>
 				</li>  
-				<li><a href="http://www.bigindianwedding.com/CompanyList/Surat/Photographers/">Photographers</a>
+				<li><a href="http://www.bigindianwedding.com/CompanyList/Mumbai/Photographers/">Photographers</a>
 		  		</li>  
-				<li><a href="http://www.bigindianwedding.com/CompanyList/Surat/Spas/">Spas</a>
+				<li><a href="http://www.bigindianwedding.com/CompanyList/Mumbai/Sherwani-On-Rent/">Sherwani On Rent</a>
 		  		</li>  
-				<li><a href="http://www.bigindianwedding.com/CompanyList/Surat/Wedding-Cakes/">Wedding Cakes</a>
+				<li><a href="http://www.bigindianwedding.com/CompanyList/Mumbai/Spas/">Spas</a>
 		  		</li>  
-		</div><div class="column">		<li><a href="http://www.bigindianwedding.com/CompanyList/Surat/Wedding-Gifts--Chocolates/">Wedding Gifts &amp; Chocolates</a>
+				<li><a href="http://www.bigindianwedding.com/CompanyList/Mumbai/Trousseau--Gift-Packing/">Trousseau &amp; Gift Packing</a>
 		  		</li>  
-				<li><a href="http://www.bigindianwedding.com/CompanyList/Surat/Wedding-Invitations/">Wedding Invitations</a>
+		</div><div class="column">		<li><a href="http://www.bigindianwedding.com/CompanyList/Mumbai/Wedding-Cakes/">Wedding Cakes</a>
 		  		</li>  
-				<li><a href="http://www.bigindianwedding.com/CompanyList/Surat/Wedding-Planners/">Wedding Planners</a>
+				<li><a href="http://www.bigindianwedding.com/CompanyList/Mumbai/Wedding-Choreography/">Wedding Choreography</a>
 		  		</li>  
-				<li><a href="http://www.bigindianwedding.com/CompanyList/Surat/Wedding-Venues/">Wedding Venues</a>
+				<li><a href="http://www.bigindianwedding.com/CompanyList/Mumbai/Wedding-Gifts--Chocolates/">Wedding Gifts &amp; Chocolates</a>
+		  		</li>  
+				<li><a href="http://www.bigindianwedding.com/CompanyList/Mumbai/Wedding-Invitations/">Wedding Invitations</a>
+		  		</li>  
+				<li><a href="http://www.bigindianwedding.com/CompanyList/Mumbai/Wedding-Planners/">Wedding Planners</a>
+		  		</li>  
+				<li><a href="http://www.bigindianwedding.com/CompanyList/Mumbai/Wedding-Venues/">Wedding Venues</a>
 		  <ul>
-			<li class="subcat"><a href="http://www.bigindianwedding.com/CompanyList/Surat/Wedding-Venues/Banquet-Halls/">Banquet Halls</a></li>
-			<li class="subcat"><a href="http://www.bigindianwedding.com/CompanyList/Surat/Wedding-Venues/Farmhouses-Lawns/">Farmhouses &amp; Lawns</a></li>
-			<li class="subcat"><a href="http://www.bigindianwedding.com/CompanyList/Surat/Wedding-Venues/Hotels/">Hotels</a></li>
+			<li class="subcat"><a href="http://www.bigindianwedding.com/CompanyList/Mumbai/Wedding-Venues/Banquet-Halls/">Banquet Halls</a></li>
+			<li class="subcat"><a href="http://www.bigindianwedding.com/CompanyList/Mumbai/Wedding-Venues/Farmhouses-Lawns/">Farmhouses &amp; Lawns</a></li>
+			<li class="subcat"><a href="http://www.bigindianwedding.com/CompanyList/Mumbai/Wedding-Venues/Hotels/">Hotels</a></li>
 						</ul>
 				</li>  
 		</div> </ul>
@@ -308,16 +355,69 @@ function dispCatIndex(cityVal){
 			<li><a class="shop" href="http://weddingshop.bigindianwedding.com/" alt="Wedding Shop" target="_blank" onclick="_gaq.push(['_trackEvent', 'Weddingshop', 'Top']);"><span>Wedding Shop</span></a></li>
 		</ul>
 		<div class="clear"></div>
+		<!-------rakesh Colour Sorting------->
+		 	
+<div id="swatches">	
+    <span class="beta" title="In beta mode">beta</span>
+	<span class="trynow">&nbsp;</span>
+	<ul>
+                   <li>
+				<a href="http://www.bigindianwedding.com/Photos/Yellow/" rel="nofollow" alt="Yellow" style="background-color:#FFFF00" title="Yellow"></a>
+			</li>
+   		           <li>
+				<a href="http://www.bigindianwedding.com/Photos/Gold/" rel="nofollow" alt="Gold" style="background-color:#D4A017 " title="Gold"></a>
+			</li>
+   		           <li>
+				<a href="http://www.bigindianwedding.com/Photos/Silver/" rel="nofollow" alt="Silver" style="background-color:#C0C0C0" title="Silver"></a>
+			</li>
+   		           <li>
+				<a href="http://www.bigindianwedding.com/Photos/Blue/" rel="nofollow" alt="Blue" style="background-color:#0000FF" title="Blue"></a>
+			</li>
+   		           <li>
+				<a href="http://www.bigindianwedding.com/Photos/Maroon/" rel="nofollow" alt="Maroon" style="background-color:#800000" title="Maroon"></a>
+			</li>
+   		           <li>
+				<a href="http://www.bigindianwedding.com/Photos/Green/" rel="nofollow" alt="Green" style="background-color:#008000" title="Green"></a>
+			</li>
+   		           <li>
+				<a href="http://www.bigindianwedding.com/Photos/White/" rel="nofollow" alt="White" style="background-color:#FFFFFF" title="White"></a>
+			</li>
+   		           <li>
+				<a href="http://www.bigindianwedding.com/Photos/Black/" rel="nofollow" alt="Black" style="background-color:#000000" title="Black"></a>
+			</li>
+   		           <li>
+				<a href="http://www.bigindianwedding.com/Photos/Orange/" rel="nofollow" alt="Orange" style="background-color:#FFA500" title="Orange"></a>
+			</li>
+   		           <li>
+				<a href="http://www.bigindianwedding.com/Photos/Red/" rel="nofollow" alt="Red" style="background-color:#FF0000" title="Red"></a>
+			</li>
+   		           <li>
+				<a href="http://www.bigindianwedding.com/Photos/Brown/" rel="nofollow" alt="Brown" style="background-color:#A52A2A" title="Brown"></a>
+			</li>
+   		           <li>
+				<a href="http://www.bigindianwedding.com/Photos/Purple/" rel="nofollow" alt="Purple" style="background-color:#800080" title="Purple"></a>
+			</li>
+   		           <li>
+				<a href="http://www.bigindianwedding.com/Photos/Pink/" rel="nofollow" alt="Pink" style="background-color:#FAAFBE " title="Pink"></a>
+			</li>
+   		           <li>
+				<a href="http://www.bigindianwedding.com/Photos/Grey/" rel="nofollow" alt="Grey" style="background-color:#808080" title="Grey"></a>
+			</li>
+   		           <li>
+				<a href="http://www.bigindianwedding.com/Photos/Fuchsia/" rel="nofollow" alt="Fuchsia" style="background-color:#FF00FF" title="Fuchsia"></a>
+			</li>
+   		</ul>
+</div> <!----end---rakesh--->
+<div class="clear"></div>
 	 </div>
-
 
 <div id="submenu3" class="anylinkcsscols">
 <ul>
 	<div class="column1"><li>
-				<a href="http://www.bigindianwedding.com/Article/Planning-Ideas/Budget-weddings/">
+				<a href="http://www.bigindianwedding.com/Article/Planning-Ideas/Budget-Weddings/">
 					<div class="cat">
 						<div class="dp30"><img src="http://www.bigindianwedding.com/siteowner/uploads/budget_2097670169.jpg" border="0" height="46" width="46" class="borderGrey"></div>
-						<div class="catname dp70"><span>Budget weddings</span><div>Tips &amp; Tricks to save</div></div>
+						<div class="catname dp70"><span>Budget Weddings</span><div>Tips &amp; Tricks to save</div></div>
 					</div>	
 				</a>	
 				</li>			
@@ -357,7 +457,15 @@ function dispCatIndex(cityVal){
 				<a href="http://www.bigindianwedding.com/Article/Planning-Ideas/Wedding-Rituals/">
 					<div class="cat">
 						<div class="dp30"><img src="http://www.bigindianwedding.com/siteowner/uploads/rituals_167174306.jpg" border="0" height="46" width="46" class="borderGrey"></div>
-						<div class="catname dp70"><span>Wedding Rituals</span><div>Rituals by community &amp; Religion</div></div>
+						<div class="catname dp70"><span>Wedding Rituals</span><div>Rituals by Community &amp; Religion</div></div>
+					</div>	
+				</a>	
+				</li>			
+			<li>
+				<a href="http://www.bigindianwedding.com/Article/Planning-Ideas/Well-Groomed/">
+					<div class="cat">
+						<div class="dp30"><img src="http://www.bigindianwedding.com/siteowner/uploads/mens pic 49x49 copy_530617701.jpg" border="0" height="46" width="46" class="borderGrey"></div>
+						<div class="catname dp70"><span>Well Groomed</span><div>Tips &amp; Etiquette for the Groom</div></div>
 					</div>	
 				</a>	
 				</li>			
@@ -425,16 +533,16 @@ function dispCatIndex(cityVal){
 					</a>
 				</li>
 				<li>
-					<a href="http://www.bigindianwedding.com/CollectionsAndTrends/Shoes-and-Bags/"><div class="cat">
+					<a href="http://www.bigindianwedding.com/CollectionsAndTrends/Shoes-Bags/"><div class="cat">
 						<div class="dp30"><img src="http://www.bigindianwedding.com/siteowner/uploads/shoesaccesories_255372132.jpg" border="0" height="46" width="46" class="borderGrey"></div>
-						<div class="catname dp70"><span>Shoes and Bags</span><div>Bridal accessories gallery</div></div>
+						<div class="catname dp70"><span>Shoes &amp; Bags</span><div>Bridal accessories gallery</div></div>
 					</div>
 					</a>
 				</li>
 				<li>
 					<a href="http://www.bigindianwedding.com/CollectionsAndTrends/Mens-Fashion/"><div class="cat">
 						<div class="dp30"><img src="http://www.bigindianwedding.com/siteowner/uploads/mensfashion_656993143.jpg" border="0" height="46" width="46" class="borderGrey"></div>
-						<div class="catname dp70"><span>Mens Fashion</span><div>Latest Men's wear photos</div></div>
+						<div class="catname dp70"><span>Mens Fashion</span><div>Latest menswear photos</div></div>
 					</div>
 					</a>
 				</li>
@@ -448,21 +556,35 @@ function dispCatIndex(cityVal){
 				<li>
 					<a href="http://www.bigindianwedding.com/CollectionsAndTrends/Makeup--Hairstyles/"><div class="cat">
 						<div class="dp30"><img src="http://www.bigindianwedding.com/siteowner/uploads/makeup_791169512.jpg" border="0" height="46" width="46" class="borderGrey"></div>
-						<div class="catname dp70"><span>Makeup &amp; Hairstyles</span><div>Makeup &amp; Hairstyle trends</div></div>
+						<div class="catname dp70"><span>Makeup &amp; Hairstyles</span><div>Makeup &amp; hairstyle trends</div></div>
 					</div>
 					</a>
 				</li>
 				<li>
 					<a href="http://www.bigindianwedding.com/CollectionsAndTrends/Resort-Wear/"><div class="cat">
 						<div class="dp30"><img src="http://www.bigindianwedding.com/siteowner/uploads/cat_resortwear50_453620728.jpg" border="0" height="46" width="46" class="borderGrey"></div>
-						<div class="catname dp70"><span>Resort Wear</span><div>Honeymoon Collection</div></div>
+						<div class="catname dp70"><span>Resort Wear</span><div>Honeymoon collection</div></div>
 					</div>
 					</a>
 				</li>
 				<li>
 					<a href="http://www.bigindianwedding.com/CollectionsAndTrends/Cocktail-Wear/"><div class="cat">
 						<div class="dp30"><img src="http://www.bigindianwedding.com/siteowner/uploads/cocktail_wear_thm_725775774.jpg" border="0" height="46" width="46" class="borderGrey"></div>
-						<div class="catname dp70"><span>Cocktail Wear</span><div>Cocktail Wear</div></div>
+						<div class="catname dp70"><span>Cocktail Wear</span><div>Cocktail wear</div></div>
+					</div>
+					</a>
+				</li>
+				<li>
+					<a href="http://www.bigindianwedding.com/CollectionsAndTrends/Wedding-Cakes/"><div class="cat">
+						<div class="dp30"><img src="http://www.bigindianwedding.com/siteowner/uploads/wedding cakes (3)_1383923406.jpg" border="0" height="46" width="46" class="borderGrey"></div>
+						<div class="catname dp70"><span>Wedding Cakes</span><div>Wedding cake collection</div></div>
+					</div>
+					</a>
+				</li>
+				<li>
+					<a href="http://www.bigindianwedding.com/CollectionsAndTrends/Wedding-Albums/"><div class="cat">
+						<div class="dp30"><img src="http://www.bigindianwedding.com/siteowner/uploads/kodak50_1543359190.jpg" border="0" height="46" width="46" class="borderGrey"></div>
+						<div class="catname dp70"><span>Wedding Albums</span><div>Wedding Albums</div></div>
 					</div>
 					</a>
 				</li>
@@ -712,7 +834,7 @@ function dispCatIndex(cityVal){
 </tbody></table>
 <div class="footeradspace-link">
 	<span class="c1">	
-	<a href="http://www.bigindianwedding.com/Article/Beauty/Getting-in-shape/" title="" target="_self"><img src="http://www.bigindianwedding.com/uploads/banner/fitness.jpg" border="0"></a>
+	<a href="http://weddingshop.bigindianwedding.com/" title="" target="_blank" onclick="_gaq.push(['_trackEvent', 'WS-Banner', 'Skyscraper']);"><img src="http://www.bigindianwedding.com/uploads/banner/trends.jpg" border="0"></a>
 	</span>
 <div align="center" style="padding-left:128px;">
 <span class="c2">
@@ -736,14 +858,23 @@ google_ad_height = 90;
 <tbody><tr>	
 	<td align="center" width="25%" class="noline"><b>No.1</b><br> wedding planning portal in India *</td>
 	<!--td align='center' width='25%'><b>609,101</b><br />weddings planned so far <sup>&#8224;</sup></td-->
-	<td align="center" width="25%"><b>285,723</b><br>Leads generated so far <sup>‡</sup></td>
+	<td align="center" width="25%"><b>347,823</b><br>Leads generated so far <sup>‡</sup></td>
 	<!-- 385,877 @ 12:55 PM 6/4/2011 -->
-	<td align="center" width="25%"><b>13,025</b><br>listed vendors <sup>‡</sup></td>
+	<td align="center" width="25%"><b>14,398</b><br>listed vendors <sup>‡</sup></td>
 	<td align="center" width="25%"><b>39</b><br>
 	  listed categories</td>
 </tr>
 </tbody></table>
 </div>
+<div class="testimonial">	  
+    <div class="tcycle" style=" float:left;margin: 0px; padding:0;">
+        <img src="http://www.bigindianwedding.com/banner/testimonial/testiml1.jpg" alt="" width="330">
+        <img src="http://www.bigindianwedding.com/banner/testimonial/testiml2.jpg" alt="" width="330">
+        <img src="http://www.bigindianwedding.com/banner/testimonial/testiml3.jpg" alt="" width="330">
+    </div>
+    </div>
+    
+      
 <div class="social-logoes">
 	<form name="frm-newsletter" id="frm-newsletter">  
 	<div class="logoes" align="left">
@@ -880,14 +1011,14 @@ function displayNewsContent(){
 <a href="http://www.bigindianwedding.com/rss.xml" target="_blank">RSS</a>
 <br>
 <span class="alpha-directory">
-Alphabetical directory of pages: <a href="http://www.bigindianwedding.com/Directory/Surat/num/">#</a>&nbsp;·&nbsp;<a href="http://www.bigindianwedding.com/Directory/Surat/a/">A</a>&nbsp;·&nbsp;<a href="http://www.bigindianwedding.com/Directory/Surat/b/">B</a>&nbsp;·&nbsp;<a href="http://www.bigindianwedding.com/Directory/Surat/c/">C</a>&nbsp;·&nbsp;<a href="http://www.bigindianwedding.com/Directory/Surat/d/">D</a>&nbsp;·&nbsp;<a href="http://www.bigindianwedding.com/Directory/Surat/e/">E</a>&nbsp;·&nbsp;<a href="http://www.bigindianwedding.com/Directory/Surat/f/">F</a>&nbsp;·&nbsp;<a href="http://www.bigindianwedding.com/Directory/Surat/g/">G</a>&nbsp;·&nbsp;<a href="http://www.bigindianwedding.com/Directory/Surat/h/">H</a>&nbsp;·&nbsp;<a href="http://www.bigindianwedding.com/Directory/Surat/i/">I</a>&nbsp;·&nbsp;<a href="http://www.bigindianwedding.com/Directory/Surat/j/">J</a>&nbsp;·&nbsp;<a href="http://www.bigindianwedding.com/Directory/Surat/k/">K</a>&nbsp;·&nbsp;<a href="http://www.bigindianwedding.com/Directory/Surat/l/">L</a>&nbsp;·&nbsp;<a href="http://www.bigindianwedding.com/Directory/Surat/m/">M</a>&nbsp;·&nbsp;<a href="http://www.bigindianwedding.com/Directory/Surat/n/">N</a>&nbsp;·&nbsp;<a href="http://www.bigindianwedding.com/Directory/Surat/o/">O</a>&nbsp;·&nbsp;<a href="http://www.bigindianwedding.com/Directory/Surat/p/">P</a>&nbsp;·&nbsp;<a href="http://www.bigindianwedding.com/Directory/Surat/r/">R</a>&nbsp;·&nbsp;<a href="http://www.bigindianwedding.com/Directory/Surat/s/">S</a>&nbsp;·&nbsp;<a href="http://www.bigindianwedding.com/Directory/Surat/t/">T</a>&nbsp;·&nbsp;<a href="http://www.bigindianwedding.com/Directory/Surat/u/">U</a>&nbsp;·&nbsp;<a href="http://www.bigindianwedding.com/Directory/Surat/v/">V</a>&nbsp;·&nbsp;<a href="http://www.bigindianwedding.com/Directory/Surat/w/">W</a>&nbsp;·&nbsp;<a href="http://www.bigindianwedding.com/Directory/Surat/x/">X</a>&nbsp;·&nbsp;<a href="http://www.bigindianwedding.com/Directory/Surat/y/">Y</a>&nbsp;·&nbsp;<a href="http://www.bigindianwedding.com/Directory/Surat/z/">Z</a>&nbsp;·&nbsp;<a href="http://www.bigindianwedding.com/Directory/Surat/2/">2</a>&nbsp;·&nbsp;</span>
+Alphabetical directory of pages: #&nbsp;·&nbsp;<a href="http://www.bigindianwedding.com/Directory/Mumbai/a/">A</a>&nbsp;·&nbsp;<a href="http://www.bigindianwedding.com/Directory/Mumbai/b/">B</a>&nbsp;·&nbsp;<a href="http://www.bigindianwedding.com/Directory/Mumbai/c/">C</a>&nbsp;·&nbsp;<a href="http://www.bigindianwedding.com/Directory/Mumbai/d/">D</a>&nbsp;·&nbsp;<a href="http://www.bigindianwedding.com/Directory/Mumbai/e/">E</a>&nbsp;·&nbsp;<a href="http://www.bigindianwedding.com/Directory/Mumbai/f/">F</a>&nbsp;·&nbsp;<a href="http://www.bigindianwedding.com/Directory/Mumbai/g/">G</a>&nbsp;·&nbsp;<a href="http://www.bigindianwedding.com/Directory/Mumbai/h/">H</a>&nbsp;·&nbsp;<a href="http://www.bigindianwedding.com/Directory/Mumbai/i/">I</a>&nbsp;·&nbsp;<a href="http://www.bigindianwedding.com/Directory/Mumbai/j/">J</a>&nbsp;·&nbsp;<a href="http://www.bigindianwedding.com/Directory/Mumbai/k/">K</a>&nbsp;·&nbsp;<a href="http://www.bigindianwedding.com/Directory/Mumbai/l/">L</a>&nbsp;·&nbsp;<a href="http://www.bigindianwedding.com/Directory/Mumbai/m/">M</a>&nbsp;·&nbsp;<a href="http://www.bigindianwedding.com/Directory/Mumbai/n/">N</a>&nbsp;·&nbsp;<a href="http://www.bigindianwedding.com/Directory/Mumbai/o/">O</a>&nbsp;·&nbsp;<a href="http://www.bigindianwedding.com/Directory/Mumbai/p/">P</a>&nbsp;·&nbsp;<a href="http://www.bigindianwedding.com/Directory/Mumbai/q/">Q</a>&nbsp;·&nbsp;<a href="http://www.bigindianwedding.com/Directory/Mumbai/r/">R</a>&nbsp;·&nbsp;<a href="http://www.bigindianwedding.com/Directory/Mumbai/s/">S</a>&nbsp;·&nbsp;<a href="http://www.bigindianwedding.com/Directory/Mumbai/t/">T</a>&nbsp;·&nbsp;<a href="http://www.bigindianwedding.com/Directory/Mumbai/u/">U</a>&nbsp;·&nbsp;<a href="http://www.bigindianwedding.com/Directory/Mumbai/v/">V</a>&nbsp;·&nbsp;<a href="http://www.bigindianwedding.com/Directory/Mumbai/w/">W</a>&nbsp;·&nbsp;<a href="http://www.bigindianwedding.com/Directory/Mumbai/x/">X</a>&nbsp;·&nbsp;<a href="http://www.bigindianwedding.com/Directory/Mumbai/y/">Y</a>&nbsp;·&nbsp;<a href="http://www.bigindianwedding.com/Directory/Mumbai/z/">Z</a>&nbsp;·&nbsp;<a href="http://www.bigindianwedding.com/Directory/Mumbai/3/">3</a>&nbsp;·&nbsp;<a href="http://www.bigindianwedding.com/Directory/Mumbai/8/">8</a>&nbsp;·&nbsp;<a href="http://www.bigindianwedding.com/Directory/Mumbai/9/">9</a>&nbsp;·&nbsp;</span>
 <br>
 <span class="city-directory">
 Vendors Listing in: 
-<a href="http://www.bigindianwedding.com/Directory/Sharjah/">Sharjah</a> · <a href="http://www.bigindianwedding.com/Directory/Abu-Dhabi/">Abu Dhabi</a> · <a href="http://www.bigindianwedding.com/Directory/Delhi-NCR/">Delhi NCR</a> · <a href="http://www.bigindianwedding.com/Directory/Mumbai/">Mumbai</a> · <a href="http://www.bigindianwedding.com/Directory/Bangalore/">Bangalore</a> · <a href="http://www.bigindianwedding.com/Directory/Kolkata/">Kolkata</a> · <a href="http://www.bigindianwedding.com/Directory/Pune/">Pune</a> · <a href="http://www.bigindianwedding.com/Directory/Hyderabad/">Hyderabad</a> · <a href="http://www.bigindianwedding.com/Directory/Chennai/">Chennai</a> · <a href="http://www.bigindianwedding.com/Directory/Jaipur/">Jaipur</a> · <a href="http://www.bigindianwedding.com/Directory/Ahmedabad/">Ahmedabad</a> · <a href="http://www.bigindianwedding.com/Directory/Chandigarh/">Chandigarh</a> · <a href="http://www.bigindianwedding.com/Directory/Ludhiana/">Ludhiana</a> · <a href="http://www.bigindianwedding.com/Directory/Lucknow/">Lucknow</a> · <a href="http://www.bigindianwedding.com/Directory/Surat/">Surat</a> · <a href="http://www.bigindianwedding.com/Directory/Indore/">Indore</a> · <a href="http://www.bigindianwedding.com/Directory/Dubai/">Dubai</a></span>
+<a href="http://www.bigindianwedding.com/Directory/Abu-Dhabi/">Abu Dhabi</a> · <a href="http://www.bigindianwedding.com/Directory/Ahmedabad/">Ahmedabad</a> · <a href="http://www.bigindianwedding.com/Directory/Bangalore/">Bangalore</a> · <a href="http://www.bigindianwedding.com/Directory/Chandigarh/">Chandigarh</a> · <a href="http://www.bigindianwedding.com/Directory/Chennai/">Chennai</a> · <a href="http://www.bigindianwedding.com/Directory/Delhi-NCR/">Delhi NCR</a> · <a href="http://www.bigindianwedding.com/Directory/Dubai/">Dubai</a> · <a href="http://www.bigindianwedding.com/Directory/Hyderabad/">Hyderabad</a> · <a href="http://www.bigindianwedding.com/Directory/Indore/">Indore</a> · <a href="http://www.bigindianwedding.com/Directory/Jaipur/">Jaipur</a> · <a href="http://www.bigindianwedding.com/Directory/Kolkata/">Kolkata</a> · <a href="http://www.bigindianwedding.com/Directory/Lucknow/">Lucknow</a> · <a href="http://www.bigindianwedding.com/Directory/Ludhiana/">Ludhiana</a> · <a href="http://www.bigindianwedding.com/Directory/Mumbai/">Mumbai</a> · <a href="http://www.bigindianwedding.com/Directory/Pune/">Pune</a> · <a href="http://www.bigindianwedding.com/Directory/Sharjah/">Sharjah</a> · <a href="http://www.bigindianwedding.com/Directory/Surat/">Surat</a></span>
 <br>
 * as per Alexa Ranking on 1st February 2012 &nbsp;&nbsp;|&nbsp;&nbsp; <sup>†</sup> updated fortnightly &nbsp;&nbsp;|&nbsp;&nbsp; <sup>‡</sup> updated daily &nbsp;&nbsp;|&nbsp;&nbsp; <a href="http://www.bigindianwedding.com/NewlyAdded/" class="newlyadded">newly added</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="https://plus.google.com/100496929871720225023" rel="publisher" target="_blank">Find us on Google+</a>
-<br> © Copyright Big Indian Wedding 2012. All rights reserved.
+<br> © Copyright Big Indian Wedding 2013. All rights reserved.
 </div>
 
 <!-- Google plusone tag -->
@@ -898,20 +1029,8 @@ Vendors Listing in:
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
   })();
 </script>
-<script type="text/javascript">
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-20406691-2']);
-  _gaq.push(['_setDomainName', 'bigindianwedding.com']);
-  _gaq.push(['_addOrganic', 'attrakt.com', 'q']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type =
-'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' :
-'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0];
-s.parentNode.insertBefore(ga, s);
-  })();
+<a class="scrollup" href="#">Scroll</a>
+<script language="javascript" type="text/javascript">
+ScrollToTop.setup();
 </script>
 </body></html>
