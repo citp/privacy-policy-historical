@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netteller.com privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516093239id_/http%3A//www.jackhenry.com/default.aspx%3FP%3D73DCCF54-67DC-488F-B5FB-D0E8DB90EC72) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netteller.com privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519013613id_/http%3A//www.jackhenry.com/default.aspx%3FP%3D73DCCF54-67DC-488F-B5FB-D0E8DB90EC72) for the most accurate reproduction.*
 
 # Jack Henry Corporate
 
