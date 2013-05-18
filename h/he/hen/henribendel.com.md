@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the henribendel.com privacy policy that was archived on 2012-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121117085603id_/http%3A//www.henribendel.com/privacy-policy/privacy-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the henribendel.com privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518155817id_/http%3A//www.henribendel.com/privacy-policy/privacy-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -127,7 +127,7 @@ This is a U.S. Web-commerce site. This privacy policy governs the information co
 
 Back To Top
 
-We prefer to keep your personal information accurate and up-to-date. You may update or modify your billing- and shipping-related information, and other account information, by emailing us at [customercare@HenriBendel.com](mailto:customercare@henribendel.com?subject=Personal%20Information%20Update).
+We prefer to keep your personal information accurate and up-to-date. You may update or modify your billing- and shipping-related information, and other account information, by emailing us at [Support@Henribendel.com](mailto:support@henribendel.com?subject=Personal%20Information%20Update).
 
 Back To Top
 
@@ -141,7 +141,7 @@ While we implement the above security measures on this site, you should be aware
 
 Back To Top
 
-If you have questions or concerns with respect to our Privacy Policy, please feel free to email us at [customercare@henribendel.com.](mailto:customercare@henribendel.com?subject=Question%20or%20Concern)
+If you have questions or concerns with respect to our Privacy Policy, please feel free to email us at [Support@Henribendel.com.](mailto:support@henribendel.com?subject=Question%20or%20Concern)
 
 Back To Top
 
