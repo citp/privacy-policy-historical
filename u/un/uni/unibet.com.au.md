@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the unibet.com.au privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919085233id_/https%3A//www.unibet.com.au/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unibet.com.au privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518033308id_/https%3A//www.unibet.com.au/privacy.asp) for the most accurate reproduction.*
 
 # Unibet - Online Betting in Australia
 
-  * [General](https://web.archive.org/web/20120919085233id_/https%3A//www.unibet.com.au/privacy.asp#1)
-  * [Collection](https://web.archive.org/web/20120919085233id_/https%3A//www.unibet.com.au/privacy.asp#2)
-  * [Use and disclosure ](https://web.archive.org/web/20120919085233id_/https%3A//www.unibet.com.au/privacy.asp#3)
-  * [Data Security ](https://web.archive.org/web/20120919085233id_/https%3A//www.unibet.com.au/privacy.asp#4)
-  * [Non-Personal Information ](https://web.archive.org/web/20120919085233id_/https%3A//www.unibet.com.au/privacy.asp#5)
-  * [Access and Correction ](https://web.archive.org/web/20120919085233id_/https%3A//www.unibet.com.au/privacy.asp#6)
-  * [Consent](https://web.archive.org/web/20120919085233id_/https%3A//www.unibet.com.au/privacy.asp#7)
-  * [Disclaimer](https://web.archive.org/web/20120919085233id_/https%3A//www.unibet.com.au/privacy.asp#8)
+  * [General](https://web.archive.org/web/20130518033308id_/https%3A//www.unibet.com.au/privacy.asp#1)
+  * [Collection](https://web.archive.org/web/20130518033308id_/https%3A//www.unibet.com.au/privacy.asp#2)
+  * [Use and disclosure ](https://web.archive.org/web/20130518033308id_/https%3A//www.unibet.com.au/privacy.asp#3)
+  * [Data Security ](https://web.archive.org/web/20130518033308id_/https%3A//www.unibet.com.au/privacy.asp#4)
+  * [Non-Personal Information ](https://web.archive.org/web/20130518033308id_/https%3A//www.unibet.com.au/privacy.asp#5)
+  * [Access and Correction ](https://web.archive.org/web/20130518033308id_/https%3A//www.unibet.com.au/privacy.asp#6)
+  * [Consent](https://web.archive.org/web/20130518033308id_/https%3A//www.unibet.com.au/privacy.asp#7)
+  * [Disclaimer](https://web.archive.org/web/20130518033308id_/https%3A//www.unibet.com.au/privacy.asp#8)
 
 
 
