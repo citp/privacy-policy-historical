@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fetchapp.com privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125133147id_/http%3A//www.fetchapp.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fetchapp.com privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518070100id_/http%3A//www.fetchapp.com/pages/privacy) for the most accurate reproduction.*
 
 # FetchApp — Privacy Policy for users of FetchApp.
 
