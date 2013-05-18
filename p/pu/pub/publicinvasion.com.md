@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the publicinvasion.com privacy policy that was archived on 2012-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120911104901id_/http%3A//pp.bigasspass.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the publicinvasion.com privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518022322id_/http%3A//pp.bigasspass.com) for the most accurate reproduction.*
 
 # BigAssPass - Privacy Policy
 
