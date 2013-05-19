@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bajajfinservlending.in privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125232820id_/http%3A//www.bajajfinservlending.in/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bajajfinservlending.in privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519142500id_/http%3A//www.bajajfinservlending.in/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy - Bajaj Finserv Lending | Opt for loans & term insurance services at attractive rates
 
