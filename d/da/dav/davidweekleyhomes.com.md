@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the davidweekleyhomes.com privacy policy that was archived on 2012-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121117073748id_/http%3A//www.davidweekleyhomes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the davidweekleyhomes.com privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519063140id_/http%3A//www.davidweekleyhomes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - David Weekley Homes
 
@@ -10,19 +10,19 @@ David Weekley Homes respects the privacy of every individual. If you give us per
 
 David Weekley Homes collects information and data to personalize and improve your use of our website(s). We gather the following types of information:
 
-> Information you give us: David Weekley Homes collects any information which you enter on our website. This includes but is not limited to your name, mailing address, e-mail address and other data you provide during your registration at our site or when you provide personal data through various places on our site.
-> 
-> Information automatically collected by David Weekley Homes: Like most websites, whenever you visit our site(s) we use "cookies" to collect and store information about a visitor site experience. We collect and analyze:
-> 
->   * The IP address used to connect your computer to the Internet
->   * Computer and connection information such as your browser type and version
->   * Connection type and speed
->   * IP geolocation
->   * Operating system and platform
->   * Confirmation when you open e-mail that we send you
->   * The URLs which lead you to and around our Web site including the date and time
->   * The pages you viewed or searched for
-> 
+Information you give us: David Weekley Homes collects any information which you enter on our website. This includes but is not limited to your name, mailing address, e-mail address and other data you provide during your registration at our site or when you provide personal data through various places on our site.
+
+Information automatically collected by David Weekley Homes: Like most websites, whenever you visit our site(s) we use "cookies" to collect and store information about a visitor site experience. We collect and analyze:
+
+  * The IP address used to connect your computer to the Internet
+  * Computer and connection information such as your browser type and version
+  * Connection type and speed
+  * IP geolocation
+  * Operating system and platform
+  * Confirmation when you open e-mail that we send you
+  * The URLs which lead you to and around our Web site including the date and time
+  * The pages you viewed or searched for
+
 
 
 Your browser allows you to reject cookies and software is available from third parties which will allow you to visit our Web site without providing this information. You are welcomed at our Web site if you use this software but there may be a reduction in functionality on some pages of our site.
