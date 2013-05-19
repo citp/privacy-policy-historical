@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the winporn.com privacy policy that was archived on 2012-10-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121012092144id_/http%3A//www.winporn.com/static/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the winporn.com privacy policy that was archived on 2013-05-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130519100042id_/http%3A//www.winporn.com/static/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <title>Privacy Policy - WinPorn.com</title>    
@@ -7,20 +7,27 @@
         
     <meta name="robots" content="index, follow">   
     <meta name="revisit-after" content="1 days"> 
-        <meta name="keywords" content="Privacy Policy - WinPorn.com">
-    <meta name="description" content="Privacy Policy - WinPorn.comfree,porn">
+        <meta name="keywords" content="Privacy Policy">
+    <meta name="description" content="Privacy Policy,free,porn">
 
-    <link type="text/css" media="all" rel="stylesheet" href="http://static.winporn.com/templates/frontend/winporn/css/style.css?v=0.28">
-<!--	<link type="text/css" media="all" rel="stylesheet" href="http://static.winporn.com/templates/frontend/winporn/css/form.css?v=0.28"  ></link>-->
+    <link type="text/css" media="all" rel="stylesheet" href="http://static.winporn.com/templates/frontend/winporn/css/style.css?v=15.18">
+<!--	<link type="text/css" media="all" rel="stylesheet" href="http://static.winporn.com/templates/frontend/winporn/css/form.css?v=15.18"  ></link>-->
+
+    
+<link rel="apple-touch-icon" href="http://static.winporn.com/templates/frontend/winporn/images/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="72x72" href="http://static.winporn.com/templates/frontend/winporn/images/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="114x114" href="http://static.winporn.com/templates/frontend/winporn/images/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="144x144" href="http://static.winporn.com/templates/frontend/winporn/images/apple-touch-icon-144x144.png">
 
 
     <link rel="Shortcut Icon" type="image/x-icon" href="http://static.winporn.com/favicon.ico">
     <!--[if IE 7]><link rel="stylesheet" type="text/css"href="http://static.winporn.com/templates/frontend/winporn/css/style_ie7.css" /><![endif]-->
     <!--[if IE 6]><link rel="stylesheet" type="text/css"href="http://static.winporn.com/templates/frontend/winporn/css/style_ie6.css" /><![endif]-->
     <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
-    var base_url = "http://www.winporn.com";
+    var base_url = "http://winporn.com";
     var tmb_url = "http://pics.winporn.com/media/videos/tmb";
     var tpl_url = "/templates/frontend/winporn";
+    var tpl_name = "default";
     var static_tpl = "http://static.winporn.com/templates/frontend/winporn";
 		var lang_deleting = "Deleting...";
 	var lang_flaging = "Flaging...";
@@ -39,7 +46,7 @@
         var TRAFF_TARGETS = [];
     </script>
 
-	    <script type="text/javascript" src="/templates/frontend/winporn/js/winporn.js?v=0.28"></script>
+	    <script type="text/javascript" src="/templates/frontend/winporn/js/winporn.js?v=15.18"></script>
         
 <script type="text/javascript">
     var referer=encodeURIComponent(location.href);
@@ -51,6 +58,8 @@
 	
 </script>
 
+<script type="text/javascript" src="http://service.clicksvenue.com/get_embed.php?sid=53&amp;spid=68&amp;scid=10"></script>
+
 </head>
 
 <body>
@@ -58,30 +67,52 @@
     <div class="wrapper">
     	<div id="header">
         	<div class="header_right">
-        	<a href="http://www.winporn.com" id="logo"></a>
-            	<div class="top_links"><b>7,862 <span>Videos Online</span></b></div>
+        	<a href="http://winporn.com" id="logo"></a>
+            	<div class="top_links"><b>149,803 <span>Videos Online</span></b></div>
                 <div class="search">
-                    <form action="/search" method="get" name="searchform" id="searchform" onsubmit="return submitSearch()">                        
-						<input type="hidden" value="videos" name="search_type" id="search_type">
-                        <input class="search_btn" type="submit" value=" ">
-                        <input class="search_inp" type="text" name="search_query" id="search_query" value="Search" onfocus="this.value=''" onblur="">
-                        <div class="clear"></div>
-                    </form>
-                </div>
+                    
+                    <form action="/search" id="searchform" method="get">
+    <input type="hidden" value="videos" name="search_type" id="search_type">
+    <input class="search_inp" type="text" id="search_query" name="search_query" value="Search" onfocus="if (this.value == 'Search') this.value = '';" onblur="if (this.value == '') this.value = 'Search';">
+
+    <input class="search_btn" type="button" id="search-button" name="search_query" value=" ">
+    <div class="clear"></div>
+</form>
+
+<script type="text/javascript">
+$(function(){
+    $('#searchform').submit(function(e){
+        e.preventDefault();
+
+        var query = $('#search_query').val(),
+            type  = $('#search_type').val();
+
+        query = query.replace(/[^A-z0-9 ]/g, '-');
+        query = query.replace(/-+/g, '-');
+        query = query.replace(/-$/, '');
+
+        if (query.length > 0) {
+            window.location = '/search/'+ type +'/'+ query;
+        } else {
+            tube.notifications.add('Nothing found <br /> Please, use latin letters and numbers only', 'error', 3);
+        }
+    });
+})
+</script>                </div>
                 <div class="clear"></div>
             	<div id="menu">
                 	<ul class="xmenu">
                     	<li class="first"><a href="/">Videos</a><span>|</span></li>
                         <li class="x_2"><a href="/categories">Categories<span>&nbsp;</span></a><span>|</span>
 							<ul id="submenu">
-        <li><a href="/amateur-porn-videos" title="amateur sex videos, free amateur porn, amateur wife tube">Amateur</a></li><li><a href="/anal-porn-videos" title="teen anal porn, teen anal sex, first anal fuck">Anal</a></li><li><a href="/asian-porn-videos" title="asian sex videos, asian porn, asian girls pussy">Asian</a></li><li><a href="/ass-porn-videos" title="big got ass, nice ass tube, sexy teen ass">Ass</a></li><li><a href="/babe-porn-videos" title="nude babes, hot busty babes, sexy naked babes">Babe</a></li><li><a href="/bbw-porn-videos" title="bbw tube, bbw porn tubes, black mature bbw sex">BBW</a></li><li><a href="/big-cock-porn-videos" title="big black dicks, big dick porn, big dick sex tube">Big Cock</a></li><li><a href="/big-tits-porn-videos" title="busty girls, busty women videos, busty teen babes">Big tits</a></li><li><a href="/blonde-porn-videos" title="hot blondes pussy, sexy blonde porn, blonde milf sex">Blonde</a></li><li><a href="/blowjob-porn-videos" title="free blowjob videos, teen blowjob, best milf blowjob">Blowjob</a></li><li><a href="/brunette-porn-videos" title="sexy brunettes teen, petite brunette milf pussy">Brunette</a></li><li><a href="/celebrity-porn-videos" title="celebrity sex tapes, celebrity nudes, celebrity porn">Celebrity</a></li><li><a href="/cumshot-porn-videos" title="facial cumshot movies, teen huge cumshot compilation">Cumshot</a></li><li><a href="/ebony-porn-videos" title="ebony sex tube, ebony girls porn, ebony teen pussy">Ebony</a></li><li><a href="/bdsm-porn-videos" title="bdsm tube videos, free bdsm porn, amateur bdsm">Fetish</a></li><li><a href="/fisting-porn-videos" title="extreme anal fisting, lesbian fisting, deep teen fisting">Fisting</a></li><li><a href="/gay-porn-videos" title="gay sex tube, free gay porn, gay boys, gay men movies">Gay</a></li><li><a href="/granny-porn-videos" title="free granny porn, granny sex tubes, granny pussy fuck">Granny</a></li><li><a href="/group-porn-videos" title="teen group sex, group fuck, group sex videos">Group</a></li><li><a href="/handjob-porn-videos" title="teen handjob tube, wife handjob cum videos compilation">Handjob</a></li><li><a href="/hardcore-porn-videos" title="free hardcore porn, hardcore fucking sex, teen hardcore">Hardcore</a></li><li><a href="/interracial-porn-videos" title="interracial porn tube, free interracial anal sex">Interracial</a></li><li><a href="/latina-porn-videos" title="latina pussy sex, latina ass porn, hot latina milf">Latina</a></li><li><a href="/lesbian-porn-videos" title="lesbian sex videos, free lesbian porn, lesbian tubes">Lesbian</a></li><li><a href="/masturbation-porn-videos" title="female masturbation videos, public masturbation, masturbation tube">Masturbation</a></li><li><a href="/mature-porn-videos" title="mature women tube, mature pussy sex, mature porn tube">Mature</a></li><li><a href="/milf-porn-videos" title="milf porn tube, hot milf sex, free busty milfs videos">Milf</a></li><li><a href="/lingerie-porn-videos" title="sexy lingerie, lingerie models, erotic lingerie sex">Nylon</a></li><li><a href="/outdoor-porn-videos" title="outdoor porn, amateur outdoor sex, outdoor nudes">Outdoor</a></li><li><a href="/pornstar-porn-videos" title="pornstar tubes, free pornstar videos, pornstar sex">Pornstar</a></li><li><a href="/reality-porn-videos" title="reality tube videos, free reality porn, reality sex tubes">Reality</a></li><li><a href="/redhead-porn-videos" title="hot redhead porn, redhead pussy, nude redhead milf">Red Head</a></li><li><a href="/shemale-porn-videos" title="shemale porn tube, shemale sex videos, free shemale tubes">Shemale</a></li><li><a href="/teen-porn-videos" title="teen pussy sex, free teen porn, teen tube models">Teen</a></li><li><a href="/threesome-porn-videos" title="free threesome porn, hot amateur threesome sex videos">Threesome</a></li><li><a href="/toys-porn-videos" title="homemade sex toys, adult sex toys, anal sex toys">Toys</a></li><li><a href="/uniform-porn-videos" title="hot uniform porn, girls in uniform, xxx uniform tube">Uniform</a></li><li><a href="/vintage-porn-videos" title="vintage porn tube, vintage erotica, vintage sex movies">Vintage</a></li><li><a href="/webcam-porn-videos" title="webcam sex tube, teen webcam strip, nude webcam girls">Webcam</a></li>
+        <li><a href="/amateur-porn-videos" title="amateur sex videos, free amateur porn, amateur wife tube">Amateur</a></li><li><a href="/anal-porn-videos" title="teen anal porn, teen anal sex, first anal fuck">Anal</a></li><li><a href="/asian-porn-videos" title="asian sex videos, asian porn, asian girls pussy">Asian</a></li><li><a href="/ass-porn-videos" title="big got ass, nice ass tube, sexy teen ass">Ass</a></li><li><a href="/babe-porn-videos" title="nude babes, hot busty babes, sexy naked babes">Babe</a></li><li><a href="/bbw-porn-videos" title="bbw tube, bbw porn tubes, black mature bbw sex">BBW</a></li><li><a href="/big-cock-porn-videos" title="big black dicks, big dick porn, big dick sex tube">Big Cock</a></li><li><a href="/big-tits-porn-videos" title="busty girls, busty women videos, busty teen babes">Big tits</a></li><li><a href="/blonde-porn-videos" title="hot blondes pussy, sexy blonde porn, blonde milf sex">Blonde</a></li><li><a href="/blowjob-porn-videos" title="free blowjob videos, teen blowjob, best milf blowjob">Blowjob</a></li><li><a href="/brunette-porn-videos" title="sexy brunettes teen, petite brunette milf pussy">Brunette</a></li><li><a href="/celebrity-porn-videos" title="celebrity sex tapes, celebrity nudes, celebrity porn">Celebrity</a></li><li><a href="/cumshot-porn-videos" title="facial cumshot movies, teen huge cumshot compilation">Cumshot</a></li><li><a href="/ebony-porn-videos" title="ebony sex tube, ebony girls porn, ebony teen pussy">Ebony</a></li><li><a href="/bdsm-porn-videos" title="bdsm tube videos, free bdsm porn, amateur bdsm">Fetish</a></li><li><a href="/fisting-porn-videos" title="extreme anal fisting, lesbian fisting, deep teen fisting">Fisting</a></li><li><a href="/gay-porn-videos" title="gay sex tube, free gay porn, gay boys, gay men movies">Gay</a></li><li><a href="/granny-porn-videos" title="free granny porn, granny sex tubes, granny pussy fuck">Granny</a></li><li><a href="/group-porn-videos" title="teen group sex, group fuck, group sex videos">Group</a></li><li><a href="/handjob-porn-videos" title="teen handjob tube, wife handjob cum videos compilation">Handjob</a></li><li><a href="/hardcore-porn-videos" title="free hardcore porn, hardcore fucking sex, teen hardcore">Hardcore</a></li><li><a href="/hentai-porn-videos" title="hentai tube, free 3d hentai, hentai porn videos">Hentai</a></li><li><a href="/interracial-porn-videos" title="interracial porn tube, free interracial anal sex">Interracial</a></li><li><a href="/latina-porn-videos" title="latina pussy sex, latina ass porn, hot latina milf">Latina</a></li><li><a href="/lesbian-porn-videos" title="lesbian sex videos, free lesbian porn, lesbian tubes">Lesbian</a></li><li><a href="/masturbation-porn-videos" title="female masturbation videos, public masturbation, masturbation tube">Masturbation</a></li><li><a href="/mature-porn-videos" title="mature women tube, mature pussy sex, mature porn tube">Mature</a></li><li><a href="/milf-porn-videos" title="milf porn tube, hot milf sex, free busty milfs videos">Milf</a></li><li><a href="/lingerie-porn-videos" title="sexy lingerie, lingerie models, erotic lingerie sex">Nylon</a></li><li><a href="/outdoor-porn-videos" title="outdoor porn, amateur outdoor sex, outdoor nudes">Outdoor</a></li><li><a href="/pornstar-porn-videos" title="pornstar tubes, free pornstar videos, pornstar sex">Pornstar</a></li><li><a href="/reality-porn-videos" title="reality tube videos, free reality porn, reality sex tubes">Reality</a></li><li><a href="/redhead-porn-videos" title="hot redhead porn, redhead pussy, nude redhead milf">Red Head</a></li><li><a href="/shemale-porn-videos" title="shemale porn tube, shemale sex videos, free shemale tubes">Shemale</a></li><li><a href="/teen-porn-videos" title="teen pussy sex, free teen porn, teen tube models">Teen</a></li><li><a href="/threesome-porn-videos" title="free threesome porn, hot amateur threesome sex videos">Threesome</a></li><li><a href="/toys-porn-videos" title="homemade sex toys, adult sex toys, anal sex toys">Toys</a></li><li><a href="/uniform-porn-videos" title="hot uniform porn, girls in uniform, xxx uniform tube">Uniform</a></li><li><a href="/vintage-porn-videos" title="vintage porn tube, vintage erotica, vintage sex movies">Vintage</a></li><li><a href="/webcam-porn-videos" title="webcam sex tube, teen webcam strip, nude webcam girls">Webcam</a></li>
 							</ul>
 						</li>
 						<li><a href="/tags">Tags</a><span>|</span></li>
                         <li><a href="/community">Community</a><span>|</span></li>
                         <li><a href="http://mobile.winporn.com" target="_blank">Mobile</a><span>|</span></li>
-                        <li><a href="">Live Sex</a><span>|</span></li>
-                        <li class="last"><a target="_blank" href="">Premium</a></li>
+                        <li><a href="http://www.winpornlive.com" target="_blank">Live Sex</a><span>|</span></li>
+                        <li class="last"><a target="_blank" href="http://winporn.pornstarnetwork.com/account/accessNats?nats=MzIyLjI1LjEuMTU2LjIuMC4wLjAuMA&amp;switched=1&amp;strack=1">Premium</a></li>
                     </ul>
                 	<ul class="fright">
 													<li><a href="#cart" rel="popup-trigger" class="login_link">Login</a><span>|</span></li>
@@ -92,7 +123,59 @@
             </div>
         	<div class="clear"></div>
         </div>
-<div id="wrapper" class="cblock">
+
+<div class="notifications hidden">
+    <!-- type: 'error' -->
+    
+    <!-- type: 'notice' -->
+    
+    <!-- type: 'message' -->
+    </div>
+
+<script type="text/javascript">
+$(function() {
+    window.tube = window.tube || {};
+
+    /**
+     * notifications
+     */
+    window.tube.notifications = (function() {
+
+        /** hide notification if needed */
+        $.fn.timerHandler = function () {
+            var ntime = this.data('ntime');
+            if (ntime > 0) {
+                this.delay(ntime*1000).slideUp(200, function(){
+                    if ($('.notifications__item:visible').length === 0) {
+                        $('.notifications').hide();
+                    }
+                });
+            }
+        }
+
+        $('.notifications__item').each(function(){
+            $(this).timerHandler();
+        });
+
+        /**
+         * add message to error_log
+         *
+         */
+        this.add = function (message, type, time) {
+            $('.notifications').show();
+            $('<div />').html(message)
+                .addClass('notifications__item')
+                .addClass('notifications__item-'+type)
+                .attr('data-ntime', parseInt(time))
+                .appendTo('.notifications')
+                .hide().slideDown() // effects
+                .timerHandler();
+        }
+
+        return this;
+    })();
+});
+</script><div id="wrapper" class="cblock">
 	<div class="bl_long">
 		<div class="bl">
 			<div class="bl_box">
@@ -144,7 +227,7 @@
 				<h2><a href="javascript:void(0);">Advertise here</a></h2>
 									<img src="http://static.winporn.com/templates/frontend/winporn/images/pl.gif" width="16" height="16" class="close_adv " id="close_adv_bottom">
 					<div class="clear"></div>
-								<div style="text-align:center; margin-bottom:5px;"><iframe src="/footer_ads.html?v=0.28" width="1200" height="258" scrolling="no" border="0" frameborder="0"></iframe></div>
+								<div style="text-align:center; margin-bottom:5px;"><iframe src="/footer_ads.html?v=15.18" width="1200" height="258" scrolling="no" border="0" frameborder="0"></iframe></div>
 			</div>
 		</div>
 		
@@ -153,7 +236,7 @@
 
         <!--footer-->
     	<div id="footer">
-			        	<div class="footer"><a href="/static/terms" rel="nofollow">TERMS AND CONDITIONS</a><span>|</span><a href="/static/privacy" rel="nofollow">PRIVACY POLICY</a><span>|</span><a href="/static/dmca" rel="nofollow">DMCA 2257</a><span>|</span><a href="http://webmaster.winporn.com/" rel="nofollow">WEBMASTERS</a><span>|</span><a href="/static/advertise" rel="nofollow">ADVERTISE</a><span>|</span><a href="/feedback" rel="nofollow">FEEDBACK</a></div>
+			        	<div class="footer"><a href="/static/terms" rel="nofollow">TERMS AND CONDITIONS</a><span>|</span><a href="/static/privacy" rel="nofollow">PRIVACY POLICY</a><span>|</span><a href="/static/dmca" rel="nofollow">DMCA</a><span>|</span><a href="/static/2257" rel="nofollow">2257</a><span>|</span><a href="http://webmaster.winporn.com/" rel="nofollow">WEBMASTERS</a><span>|</span><a href="/static/advertise" rel="nofollow">ADVERTISE</a><span>|</span><a href="/feedback" rel="nofollow">FEEDBACK</a></div>
             <div class="copyright">Copyright © 2011-2012 WinPorn.com, All Rights Reserved.</div>
 			<a class="logo2" href="#"></a>
         </div>
@@ -194,10 +277,11 @@
 </div>
 
 
+
 <script type="text/javascript">
 
   var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-32656847-1']);
+  _gaq.push(['_setAccount', 'UA-35880777-1']);
   _gaq.push(['_trackPageview']);
 
   (function() {
