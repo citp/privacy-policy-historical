@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phoenixts.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225205816id_/http%3A//www.phoenixts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phoenixts.com privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519072556id_/http%3A//www.phoenixts.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Phoenix TS
 
@@ -47,16 +47,6 @@ You have the ability to accept or decline cookies. Most web browsers automatical
 ## Security of your Personal Information
 
 Phoenix TS secures your personal information from unauthorized access, use or disclosure. Phoenix TS secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to us or other web sites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
-
-## Tuition Refund Policy
-
-If Phoenix TS closes or discontinues a course or program, Phoenix TS shall refund to each currently enrolled student the money they are entitled to for their tuition and fees.
-
-All fees paid by a student shall be refunded if the student chooses not to enroll in or to withdraw from a school within 10 calendar days after having signed a contract.
-
-## Cancellations Policy
-
-If the student cancels his/her registration, there will be no charge if Phoenix TS is informed within 10 business days of the start of the class. If Phoenix TS is informed less than 10 business days from the start of the training, students must still pay the full course fee.
 
 ## Links to Other Sites
 
