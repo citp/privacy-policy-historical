@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the 1001onlinegames.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021015306id_/http%3A//www.1001onlinegames.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1001onlinegames.com privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519112059id_/http%3A//www.1001onlinegames.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - 1001 Online Games
 
-This privacy policy describes how we treat personal information when you visit and/or use 1001OnlineGames.com (also referred to as the site, the website). If you have any questions or concerns regarding this privacy policy, please do not hesitate to [contact us](https://web.archive.org/web/20121021015306id_/http%3A//www.1001onlinegames.com/contact.html).
+This privacy policy describes how we treat personal information when you visit and/or use 1001OnlineGames.com (also referred to as the site, the website). If you have any questions or concerns regarding this privacy policy, please do not hesitate to [contact us](https://web.archive.org/web/20130519112059id_/http%3A//www.1001onlinegames.com/contact.html).
 
 **Automatically logged information**
 
