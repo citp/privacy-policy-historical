@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skytap.com privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125063911id_/http%3A//www.skytap.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skytap.com privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519224220id_/http%3A//www.skytap.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Skytap
 
