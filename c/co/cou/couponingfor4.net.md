@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the couponingfor4.net privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118051855id_/http%3A//www.couponingfor4.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponingfor4.net privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519062415id_/http%3A//www.couponingfor4.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -47,3 +47,5 @@ If you have any questions or concerns regarding this privacy policy, or you wish
 couponingfor4 (at) gmail (dot) com
 
 This privacy policy was last updated on March 20, 2011.
+
+_This post may contain affiliate links. Read my disclosure policy[here](http://www.couponingfor4.net/disclosure-policy/)_. 
