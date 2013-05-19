@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the contractortalk.com privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029182456id_/http%3A//www.contractortalk.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contractortalk.com privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519093425id_/http%3A//www.contractortalk.com/privacy) for the most accurate reproduction.*
 
 # Contractor Talk Community - Networking, Business, Discussions | ContractorTalk
 
