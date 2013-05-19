@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wbstudiotour.co.uk privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017122158id_/http%3A//www.wbstudiotour.co.uk/en/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wbstudiotour.co.uk privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519113420id_/http%3A//www.wbstudiotour.co.uk/en/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
