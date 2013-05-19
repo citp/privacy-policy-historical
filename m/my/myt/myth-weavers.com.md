@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myth-weavers.com privacy policy that was archived on 2012-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121117182206id_/http%3A//www.myth-weavers.com/wiki/index.php/Privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myth-weavers.com privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519061132id_/http%3A//www.myth-weavers.com/wiki/index.php/Privacy_policy) for the most accurate reproduction.*
 
 # Privacy policy - Myth-Wiki
 
