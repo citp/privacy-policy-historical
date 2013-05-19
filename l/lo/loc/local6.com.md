@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the local6.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505154441id_/http%3A//www.clickorlando.com/Privacy-Policy/-/1637238/2694030/-/fegfxe/-/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the local6.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520004952id_/http%3A//www.clickorlando.com/Privacy-Policy/-/1637238/2694030/-/fegfxe/-/index.html) for the most accurate reproduction.*
 
 # Privacy Policy | Home - Home
 
@@ -51,9 +51,3 @@ We may also use any personally identifiable information you provide for marketin
  _What about messages sent to me at my wireless email address:_ If the email address you provide to us is a wireless email address, you agree to receive messages at such address from us (unless and until you have elected not to receive such messages by either un-checking the box that allows us to use your information for this purpose when your information is collected (if applicable), or by going to your personal profile or account on the Site and editing your email preferences (if applicable)). You understand that your wireless carrier may charge you for these messages. You represent that you are the owner or authorized user of the wireless device on which messages will be received, and that you are authorized to approve the applicable charges.
 
  **What about cookies and tracking pixels?**
-
-Advertisement
-
-Advertisement
-
-Advertisement
