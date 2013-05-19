@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the selectory.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226130620id_/http%3A//www.hoovers.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the selectory.com privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519204225id_/http%3A//www.hoovers.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Hoover's
 
@@ -55,7 +55,7 @@ Hoover's respects your privacy preferences and offers the following ways through
 
 Hoover's Direct Mail Marketing: We provide businesses with the opportunity to place themselves on our company's internal Do Not Mail list should they no longer wish to receive marketing or promotional mailers. We may continue to send you transactional or service-related correspondence despite your desire to not receive marketing mailers.
 
-Third-Party Marketing: Individuals whose business contact information we have in our business and professional contacts databases may request to be excluded from business lists that Hoover's licenses or sells for marketing purposes. An individual who wishes to be removed from our marketing list sales may request to be "de-listed" either in writing or by calling Hoover's Customer Support, resulting in that individual's business contact record removal from our marketing directories, publications and mailing lists. For additional information or to request removal, please contact Hoover's Customer Support at 1-800-486-8666 or send an e-mail to < a href="mailto:customersupport@hoovers.com">customersupport@hoovers.com. While we may remove your individual business contact information from our professional contacts directories and marketing lists, please be aware that we will continue to provide your company's contact information in our company reports and other products and services.
+Third-Party Marketing: Individuals whose business contact information we have in our business and professional contacts databases may request to be excluded from business lists that Hoover's licenses or sells for marketing purposes. An individual who wishes to be removed from our marketing list sales may request to be "de-listed" either in writing or by calling Hoover's Customer Support, resulting in that individual's business contact record removal from our marketing directories, publications and mailing lists. For additional information or to request removal, please contact Hoover's Customer Support at 1-800-486-8666 or send an e-mail to [customersupport@hoovers.com](mailto:customersupport@hoovers.com). While we may remove your individual business contact information from our professional contacts directories and marketing lists, please be aware that we will continue to provide your company's contact information in our company reports and other products and services.
 
 Website Use Information: You have additional choices regarding website use information that our third party advertisers and partners may collect or receive through the employment of cookies, Web beacons, pixel tags, clear GIF's and other similar media. Please see the "Third Party Advertisers" section below for more information.
 
@@ -119,4 +119,4 @@ D&B
 Short Hills, NJ 07078  
 [privacyofficer@dnb.com](mailto:privacyofficer@dnb.com)  
 Privacy Policy Effective Date: April 21, 2010  
-© Hoover's, Inc., 2012. All rights reserved.
+©Hoover's, Inc., 2012. All rights reserved.
