@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apartysource.com privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110024434id_/http%3A//www.apartysource.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apartysource.com privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519082935id_/http%3A//www.apartysource.com/privacypolicy.html) for the most accurate reproduction.*
 
 # apartysource.com
 
@@ -12,13 +12,13 @@ Standard Shipping via UPS Ground or USPS:
 
 From $0 to $29.99 = $8.95
 
-From $30 to $59.99 = $10.95
+From $30 to $59.99 = $11.95
 
-From $60 to $89.99 = $12.95
+From $60 to $89.99 = $13.95
 
-From $90 to $119.99 = $14.95
+From $90 to $119.99 = $15.95
 
-From $120 to $149.99 = $16.95
+From $120 to $149.99 = $17.95
 
 From $150 and up = 15% of total order
 
