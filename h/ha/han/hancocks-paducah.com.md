@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hancocks-paducah.com privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119041350id_/http%3A//hancocks-paducah.com/content--id-4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hancocks-paducah.com privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519191850id_/http%3A//www.hancocks-paducah.com/content--id-4) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -62,7 +62,7 @@ We use Secure Socket Layer software (SSL) that protects your information wheneve
 
 If you do not wish to receive communications from us and have registered at the site, please indicate your preference to opt out by visiting [My Account](https://web.archive.org/members/MyAccount.aspx) and selecting Update Profile to change your preferences. If you are not a registered user, we offer several other options for removing your information from our database or electing not to receive future communications:
 
-  * Click [Contact Us](https://web.archive.org/web/20121119041350id_/http%3A//hancocks-paducah.com/contact--id-12) and submit your request through this Website.
+  * Click [Contact Us](https://web.archive.org/web/20130519191850id_/http%3A//www.hancocks-paducah.com/contact--id-12) and submit your request through this Website.
   * Write to us at:
   * Hancock’s of Paducah 
   * 3841 Hinkleville Road 
