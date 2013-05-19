@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oosai.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003022156id_/http%3A//oosai.com/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oosai.com privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519171024id_/http%3A//oosai.com/privacy_policy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy Statement - An Online Tamil Songs Portal Oosai.com - A Sound of Tamil Music - Carries more than 4,600 Tamil Songs
 
