@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the iese.edu privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231013626id_/http%3A//www.iese.edu/en/Privacidad/Privacidad.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iese.edu privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519061441id_/http%3A//www.iese.edu/en/more-information/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy: IESE Business School
 
 Confidentiality, professional secrecy and security are core values of **IESE University of Navarra** , which commits to ensuring the privacy of the user or visitor at all times and in all interactions. IESE is also committed to not collecting unnecessary information about the User and handling personal information which the User may provide through our website with extreme care.
 
@@ -12,40 +12,48 @@ The data we request are appropriate, relevant and strictly necessary for the pur
 
 Our website requests and receives personal data via various forms and through e-mail with the **following purposes** and destined for the following files:
 
-a. Students (Education File):
+a. Students (Education File):
 
-• Managing requests for access to academic programs.   
-• Formalization, registration, administration, implementation, and development of academic programs and teaching activity at IESE.   
-• Delivering services to students (insurance policies, program financing, etc.).   
-• Vocational Guidance Services (Job Bank).   
-• Segmentation and implementation of profiles, statistical studies of services and content used, tastes and preferences, surveys or forms.   
-• Image and/or sound recordings in the IESE classrooms and facilities for purposes of teaching and publication of IESE activities and to be part of its historical photographic archive.   
-• Mailing of related information as well as events and activities of the entity.   
-• Mailing of publications, invitations, programs, newsletters and the like.   
-• Historical archive of relationships with students.
+  * Managing requests for access to academic programs.
+  * Formalization, registration, administration, implementation, and development of academic programs and teaching activity at IESE.
+  * Delivering services to students (insurance policies, program financing, etc.).
+  * Vocational Guidance Services (Job Bank).
+  * Segmentation and implementation of profiles, statistical studies of services and content used, tastes and preferences, surveys or forms.
+  * Image and/or sound recordings in the IESE classrooms and facilities for purposes of teaching and publication of IESE activities and to be part of its historical photographic archive.
+  * Mailing of related information as well as events and activities of the entity.
+  * Mailing of publications, invitations, programs, newsletters and the like.
+  * Historical archive of relationships with students.
 
-b. Alumni (Alumni File):
 
-• Maintaining alumni relations.   
-• Organization of activities and events for alumni.   
-• Mailing of related information as well as events and activities of the entity.   
-• Management of alumni portal.   
-• Management of career opportunities and job bank.
 
-c. Companies and Partners (Management File):
+b. Alumni (Alumni File):
 
-• Management of our customers and partners.   
-• Management of relationships between IESE clients, partners and students.   
-• Maintaining relationships between the parties and delivery of IESE-related information.
+  * Maintaining alumni relations.
+  * Organization of activities and events for alumni.
+  * Mailing of related information as well as events and activities of the entity.
+  * Management of alumni portal.
+  * Management of career opportunities and job bank.
 
-d. Information and relationships with IESE (Contacts File):
 
-• Ensuring the continuity of relationships with people who have or have had dealings with the school.   
-• Mailing of related information as well as events and activities of the entity.   
-• Advertising and market research.   
-• Mailing of publications, invitations, programs, newsletters and the like.
 
-e. E-mail:
+c. Companies and Partners (Management File):
+
+  * Management of our customers and partners.
+  * Management of relationships between IESE clients, partners and students.
+  * Maintaining relationships between the parties and delivery of IESE-related information.
+
+
+
+d. Information and relationships with IESE (Contacts File):
+
+  * Ensuring the continuity of relationships with people who have or have had dealings with the school.
+  * Mailing of related information as well as events and activities of the entity.
+  * Advertising and market research.
+  * Mailing of publications, invitations, programs, newsletters and the like.
+
+
+
+e. E-mail:
 
 We also provide several email addresses so you can request any information, clarification or explanation. If you include personal data in your email, or if your email address contains personal information, you authorize us to incorporate it into our corresponding IESE files if deemed appropriate, under the stipulations of this privacy policy.
 
@@ -53,7 +61,7 @@ Please note that the acceptance of our privacy policy, provided you do not tell 
 
 IESE reserves the **right to decide whether or not to add** your personal data to its files.
 
-If you **do not wish** to receive our information and **commercial mailings** , or wish to **withdraw your consent** to the authorizations granted, and to exercise your **rights of access, rectification, cancellation** and **opposition** , you may write to IESE -InfoDat-, Av. Pearson 21, 08034 Barcelona or email [InfoDat@iese.edu](mailto:InfoDat@iese.edu), providing a copy of your National Identity Card (DNI) or passport.
+If you **do not wish** to receive our information and **commercial mailings** , or wish to **withdraw your consent** to the authorizations granted, and to exercise your **rights of access, rectification, cancellation** and **opposition** , you may write to IESE -InfoDat-, Av. Pearson 21, 08034 Barcelona or email InfoDat@iese.edu, providing a copy of your National Identity Card (DNI) or passport.
 
 We assume that **if you do not indicate otherwise within thirty (30) days** following the acceptance of this privacy policy, you authorize us to carry out the data communication specified as well as the use of your data for any of the purposes described unrelated to the main purpose of your relationship with IESE.
 
@@ -65,7 +73,7 @@ All **student data which third parties are authorized to access** in the context
 
 If you have provided us **personal information about a third party** or provide it to us in the future you must have informed said party of the stipulations herein and received approval prior to providing the data.
 
-Likewise, unless we are otherwise informed at [InfoDat@iese.edu](mailto:InfoDat@iese.edu), you expressly consent to have **images** (photo and video) captured of you during the course of academic programs and events in IESE facilities to be made **public** and be partially or totally **used** for non-profit purposes solely for **IESE** informational and promotional material such as brochures, ads, school magazines and newspapers, websites, blogs and school videos, without any time limitation.
+Likewise, unless we are otherwise informed at InfoDat@iese.edu, you expressly consent to have **images** (photo and video) captured of you during the course of academic programs and events in IESE facilities to be made **public** and be partially or totally **used** for non-profit purposes solely for **IESE** informational and promotional material such as brochures, ads, school magazines and newspapers, websites, blogs and school videos, without any time limitation.
 
 In order to keep your **personal information up-to-date** , you must inform us of any changes. Otherwise, we will not be liable for the accuracy of the data on record. We assume that unless you deliberately cancel your personal data from our files you are still interested in being in our records so we can provide our services, send commercial information and maintain an archive of relationships with students in the future. Your **data will be kept in our files** until the person concerned explicitly asks for the data to be removed, even after the cancellation deadlines established by law, until IESE deems it appropriate and as long as it is appropriate for the established purposes.
 
@@ -75,5 +83,4 @@ In response to the trust placed in us and taking into account the importance of 
 
 IESE may modify this privacy policy to adhere to changes in personal data legislation or case law, so it requires users to read the policy every time data is provided to us over the Web.
 
-IESE assumes no liability for the processing of your personal data in the web pages which can be accessed through various links on our website, or the security measures adopted by any other webpage that links to ours.   
-
+IESE assumes no liability for the processing of your personal data in the web pages which can be accessed through various links on our website, or the security measures adopted by any other webpage that links to ours.
