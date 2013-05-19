@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jootix.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227080649id_/http%3A//jootix.com/Pages/25/Privacy%2520Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jootix.com privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519191403id_/http%3A//jootix.com/Pages/25/Privacy%2520Policy) for the most accurate reproduction.*
 
-# Jootix – Discover Wallpapers
+# Jootix: your best source for wallpapers
 
 Privacy Policy 
 
@@ -25,3 +25,5 @@ Deleting cookies does not mean you are permanently opted out of any advertising 
 
   
 
+
+Loading ...
