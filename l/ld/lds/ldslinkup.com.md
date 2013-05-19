@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ldslinkup.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118235852id_/http%3A//www.ldslinkup.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ldslinkup.com privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519192029id_/http%3A//www.ldslinkup.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # LDS LinkUp Privacy Policy
 
@@ -25,7 +25,7 @@ If users have questions or concerns regarding this statement, they should send a
 
 LDS LinkUp is an online community that allows its members to post personal profiles and to browse or search personal profiles posted by others in order to identify and contact new people they might want to meet.  The profiles can contain personal information about, among other things, a member's appearance, ethnicity, profession, religion, and interests.  The profiles may also contain photographs.  Collecting this information from members and providing services that enable members to search or browse through such profiles is fundamental to LDS LinkUp's business. 
 
-At the same time, LDS LinkUp is dedicated to protecting its members' privacy.  LDS LinkUp is designed to give its members more control over their personal information, including their LDS LinkUp profiles, than traditional online dating services.  Through its "[Visibility Preference](https://web.archive.org/web/20121118235852id_/http%3A//www.ldslinkup.com/whonewfaq.asp#WhatisVisibility)" setting, LDS LinkUp allows each member choice as to who can see his or her personal profile.  In particular, LDS LinkUp allows each member to restrict viewership of his or her profile to LDS LinkUp members only, or, if he or she wishes, to all website visitors.
+At the same time, LDS LinkUp is dedicated to protecting its members' privacy.  LDS LinkUp is designed to give its members more control over their personal information, including their LDS LinkUp profiles, than traditional online dating services.  Through its "[Visibility Preference](https://web.archive.org/web/20130519192029id_/http%3A//www.ldslinkup.com/whonewfaq.asp#WhatisVisibility)" setting, LDS LinkUp allows each member choice as to who can see his or her personal profile.  In particular, LDS LinkUp allows each member to restrict viewership of his or her profile to LDS LinkUp members only, or, if he or she wishes, to all website visitors.
 
 Who New LLC is the sole owner of the information collected on [www.ldslinkup.com](http://www.ldslinkup.com/). 
 
@@ -117,7 +117,7 @@ In order for LDS LinkUp to deliver the highest quality services to its users, we
 
 In the course of its business, LDS LinkUp collects information that identifies particular Members (Personally Identifying Information).  Of the seven types of information LDS LinkUp collects, five are Personally Identifying Information:  ID and Contact Information, Photographs, Messaging Information, Discussion Information, and Billing Information.  See below for LDS LinkUp's policy on sharing Personally Identifying Information.
 
-LDS LinkUp's uses of information depend on the category of information: ID/contact information, profile information, messaging information, discussion information, billing information, or activity information.  In addition to the primary uses described below, LDS LinkUp may use information for other purposes including, but not restricted to, investigating user complaints, enforcing our Online Conduct standards (see our [Terms of Service](https://web.archive.org/web/20121118235852id_/http%3A//www.ldslinkup.com/termsofservice.asp)), or communicating with law enforcement.
+LDS LinkUp's uses of information depend on the category of information: ID/contact information, profile information, messaging information, discussion information, billing information, or activity information.  In addition to the primary uses described below, LDS LinkUp may use information for other purposes including, but not restricted to, investigating user complaints, enforcing our Online Conduct standards (see our [Terms of Service](https://web.archive.org/web/20130519192029id_/http%3A//www.ldslinkup.com/termsofservice.asp)), or communicating with law enforcement.
 
 ### _Identification and Contact Information_
 
@@ -145,7 +145,7 @@ We use profile information users provide about themselves and what they are seek
 
 
 
-Please note that which Who New users can view a Member's profile is determined by a) whether the Member and the user are "connected," i.e., part of the same LDS LinkUp group, b) whether the user is a LDS LinkUp Member, and c) the "[Visibility Preference](https://web.archive.org/web/20121118235852id_/http%3A//www.ldslinkup.com/whonewfaq.asp#WhatisVisibility)" setting of the profile Member.  Members can change their Visibility Preference at any time to exercise a measure of control over who views their profile.
+Please note that which Who New users can view a Member's profile is determined by a) whether the Member and the user are "connected," i.e., part of the same LDS LinkUp group, b) whether the user is a LDS LinkUp Member, and c) the "[Visibility Preference](https://web.archive.org/web/20130519192029id_/http%3A//www.ldslinkup.com/whonewfaq.asp#WhatisVisibility)" setting of the profile Member.  Members can change their Visibility Preference at any time to exercise a measure of control over who views their profile.
 
 ### _Photographs_
 
@@ -217,15 +217,15 @@ LDS LinkUp from time to time shares aggregated information (not Personally Ident
 
 LDS LinkUp gathers Activity Information on users who visit LDS LinkUp's web site but do not join.  Invitees who choose not to join LDS LinkUp can request the removal of their ID and Contact Information from LDS LinkUp's database (see below).  With the exception of ID and Contact Information, which they are required to provide, and Activity Information, which is collected automatically, users who join LDS LinkUp and become Members can provide as much or as little information as they wish when solicited at LDS LinkUp's web site.  Members can also choose not to post a LDS LinkUp profile or to take down their profile at any time after it is posted.
 
-In addition, LDS LinkUp gives its members the following options for controlling their personal information.  Members can edit these preferences at [www.ldslinkup.com/members/edit_account_preferences.asp](https://web.archive.org/web/20121118235852id_/http%3A//www.ldslinkup.com/members/default.asp?next=edit_account_preferences).
+In addition, LDS LinkUp gives its members the following options for controlling their personal information.  Members can edit these preferences at [www.ldslinkup.com/members/edit_account_preferences.asp](https://web.archive.org/web/20130519192029id_/http%3A//www.ldslinkup.com/members/default.asp?next=edit_account_preferences).
 
 ## Visibility Preference
 
-LDS LinkUp members can exercise a measure of control over who can view their LDS LinkUp profile by adjusting their "[Visibility Preference](https://web.archive.org/web/20121118235852id_/http%3A//www.ldslinkup.com/whonewfaq.asp#WhatisVisibility)."  This allows members to make their profile visible just to LDS LinkUp members or to all LDS LinkUp visitors, including non-Members.
+LDS LinkUp members can exercise a measure of control over who can view their LDS LinkUp profile by adjusting their "[Visibility Preference](https://web.archive.org/web/20130519192029id_/http%3A//www.ldslinkup.com/whonewfaq.asp#WhatisVisibility)."  This allows members to make their profile visible just to LDS LinkUp members or to all LDS LinkUp visitors, including non-Members.
 
 ## Opt-out from LDS LinkUp Promotional Messages
 
-Members who do not wish to receive update and promotional messages may opt-out of receiving these communications by changing their [Promotional Email Preference](https://web.archive.org/web/20121118235852id_/http%3A//www.ldslinkup.com/whonewfaq.asp#HowtoChangeContactPreference) at the address given above. 
+Members who do not wish to receive update and promotional messages may opt-out of receiving these communications by changing their [Promotional Email Preference](https://web.archive.org/web/20130519192029id_/http%3A//www.ldslinkup.com/whonewfaq.asp#HowtoChangeContactPreference) at the address given above. 
 
 ## Make Membership Inactive
 
@@ -253,7 +253,7 @@ While we use SSL encryption to protect sensitive information online, we also wor
 
 If users have any questions about the security at our Web site, users can send an email to [ CustomerService@ldslinkup.com Subject: Security](mailto:customerservice@ldslinkup.com?subject=Security) .
 
-If a member’s personally identifiable information changes (such as zip code, phone, email or postal address), the member can update the information at any time at [www.ldslinkup.com/members/edit.asp](https://web.archive.org/web/20121118235852id_/http%3A//www.ldslinkup.com/members/default.asp?next=edit).  If a member no longer wants to use our service, he can render his membership inactive at the Member Preferences page ([www.ldslinkup.com/members/edit_account_preferences.asp](https://web.archive.org/web/20121118235852id_/http%3A//www.ldslinkup.com/members/default.asp?next=edit_account_preferences)).  If a member wants to delete all his name and email address from our system, he can send an email request to [ CustomerService@ldslinkup.com  Subject: Remove Me](mailto:CustomerService@ldslinkup.com?subject=Remove%20Me). This email must me sent from his currently active LDS LinkUp email address.
+If a member’s personally identifiable information changes (such as zip code, phone, email or postal address), the member can update the information at any time at [www.ldslinkup.com/members/edit.asp](https://web.archive.org/web/20130519192029id_/http%3A//www.ldslinkup.com/members/default.asp?next=edit).  If a member no longer wants to use our service, he can render his membership inactive at the Member Preferences page ([www.ldslinkup.com/members/edit_account_preferences.asp](https://web.archive.org/web/20130519192029id_/http%3A//www.ldslinkup.com/members/default.asp?next=edit_account_preferences)).  If a member wants to delete all his name and email address from our system, he can send an email request to [ CustomerService@ldslinkup.com  Subject: Remove Me](mailto:CustomerService@ldslinkup.com?subject=Remove%20Me). This email must me sent from his currently active LDS LinkUp email address.
 
 If LDS LinkUp decides to change our privacy policy, we will notify our Members by posting the changes to this Privacy Statement.  We may also post notice of the changes to our homepage and/or other places we believe are appropriate. 
 
