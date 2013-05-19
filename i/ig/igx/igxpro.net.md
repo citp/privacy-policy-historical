@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the igxpro.net privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919093405id_/http%3A//igxpro.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igxpro.net privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519204231id_/http%3A//www.igxpro.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | IGXPRO
+# Privacy Policy | IGXPRO - IGXPro
 
 **What information do we collect?**
 
@@ -54,5 +54,5 @@ This policy was last modified on June 16, 2011
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-<http://igxpro.net/contactus>  
+<http://www.igxpro.com/contactus>  
 nick@igxpro.com
