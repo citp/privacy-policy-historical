@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the chinagrabber.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021231829id_/http%3A//chinagrabber.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chinagrabber.com privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519191751id_/http%3A//www.chinagrabber.com/privacy-policy) for the most accurate reproduction.*
 
-# Cheap Dropship Electronics Android Tablets Phone China Grabber - Privacy Policy
+# Privacy Policy
 
-| 
+  |    
+  | 
 
 **Privacy Policy**
 
-  
-This Privacy Policy governs the manner in which ChinaGrabber collects, uses, maintains and discloses information collected from users (each, a "User") of the _[ww w.chinagrabber.com](http://www.gadgetgreats.com/)_ website ("Site"). This privacy policy applies to the Site and all products and services offered by ChinaGrabber, an IG8 Company.
+This Privacy Policy governs the manner in which ChinaGrabber collects, uses, maintains and discloses information collected from users (each, a "User") of the [www.chinagrabber.com](http://www.gadgetgreats.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by ChinaGrabber, an IG8 Company.
 
 Our site has a fully encrypted Network Solutions SSL certificate.
 
@@ -21,11 +21,43 @@ We may collect non-personal identification information about Users whenever they
 
 **Web browser cookies**
 
-Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly. 
+Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
+## List of cookies we collect
+
+The table below lists the cookies we collect and what information they store.
+
+| COOKIE name| COOKIE Description  
+---|---  
+CART | The association with your shopping cart.  
+CATEGORY_INFO | Stores the category info on the page, that allows to display pages more quickly.  
+COMPARE | The items that you have in the Compare Products list.  
+CURRENCY | Your preferred currency  
+CUSTOMER | An encrypted version of your customer id with the store.  
+CUSTOMER_AUTH | An indicator if you are currently logged into the store.  
+CUSTOMER_INFO | An encrypted version of the customer group you belong to.  
+CUSTOMER_SEGMENT_IDS | Stores the Customer Segment ID  
+EXTERNAL_NO_CACHE | A flag, which indicates whether caching is disabled or not.  
+FRONTEND | You sesssion ID on the server.  
+GUEST-VIEW | Allows guests to edit their orders.  
+LAST_CATEGORY | The last category you visited.  
+LAST_PRODUCT | The most recent product you have viewed.  
+NEWMESSAGE | Indicates whether a new message has been received.  
+NO_CACHE | Indicates whether it is allowed to use cache.  
+PERSISTENT_SHOPPING_CART | A link to information about your cart and viewing history if you have asked the site.  
+POLL | The ID of any polls you have recently voted in.  
+POLLN | Information on what polls you have voted on.  
+RECENTLYCOMPARED | The items that you have recently compared.  
+STF | Information on products you have emailed to friends.  
+STORE | The store view or language you have selected.  
+USER_ALLOWED_SAVE_COOKIE | Indicates whether a customer allowed to use cookies.  
+VIEWED_PRODUCT_IDS | The products that you have recently viewed.  
+WISHLIST | An encrypted list of products added to your Wishlist.  
+WISHLIST_CNT | The number of items in your Wishlist.  
+  
 **How we use collected information**
 
-ChinaGrabber collects and uses Users personal information for the following purposes: 
+ChinaGrabber collects and uses Users personal information for the following purposes:
 
   * _\- To improve customer service_  
 Your information helps us to more effectively respond to your customer service requests and support needs.
@@ -60,22 +92,6 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: 
 
-IG8 Limited  
-9/F Flat 11, Block B  
-491-501 Castle Peak Road  
-Hi-tech Industrial Center  
-Tsuen Wan New Territories  
-Hong Kong
+info@chinagrabber.com
 
- _[ChinaGrabber](https://web.archive.org/web/20121021231829id_/http%3A//chinagrabber.com/www.chinagrabber.com)_
-
-_[www.chinagrabber.com](http://www.chinagrabber.com/)  
-_
-
-info@chinagrabber
-
-.com
-
-This document was last updated on December 13, 2011
-
-| 
+[ChinaGrabber](http://www.chinagrabber.com/www.chinagrabber.com)
