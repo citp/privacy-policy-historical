@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the medpages.co.za privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222062257id_/http%3A//www.medpages.co.za/index.php%3Fmodule%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medpages.co.za privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519061433id_/http%3A//medpages.co.za/index.php%3Fmodule%3Dprivacy) for the most accurate reproduction.*
 
 # MEDpages - The definitive contact database for healthcare in South Africa.
 
 Privacy Policy | 
 
-[](https://web.archive.org/web/20121222062257id_/http%3A//www.medpages.co.za/index.php?module=home)  
+[](https://web.archive.org/web/20130519061433id_/http%3A//medpages.co.za/index.php?module=home)  
   
 ---|---  
   
@@ -102,7 +102,7 @@ We have implemented security policies, rules and technical measures to protect t
 
 All our employees and data processors who have access to, and are associated with the processing of personal data, are obliged to respect the confidentiality of our visitors' personal data.
 
-We ensure that your personal data � except that published or otherwise made available to the public and our clients during the normal course or our business - will not be disclosed to state institutions and authorities except if required by law or other regulation. 
+We ensure that your personal data ¨ except that published or otherwise made available to the public and our clients during the normal course or our business - will not be disclosed to state institutions and authorities except if required by law or other regulation. 
 
 ### How can I see the personal data that may be held about me?
 
