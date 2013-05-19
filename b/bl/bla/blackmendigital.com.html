@@ -1,40 +1,809 @@
-<!--The following is the downloaded HTML source of the blackmendigital.com privacy policy that was archived on 2012-04-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120425223920id_/http%3A//www.blackmendigital.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the blackmendigital.com privacy policy that was archived on 2013-05-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130519184552id_/http%3A//www.blackmendigital.com/bb/privacy.php) for the most accurate reproduction.-->
 
-<html><head>
-	<title>Privacy Policy - HTTP Electronic Publishing, Inc.</title>
-	<style type="text/css">
-	    body {
-		font-family:	Arial;
-		font-size:	.9em;
-	    }
-	    #container {
-		margin:         20px auto;
-		width:		800px;
-	    }
-	</style>
-    </head>
-    <body>
-	    <div id="container">
-				<p>This privacy policy describes Worldwide Electronic Publishing, Inc. d/b/a BlackMenDigital.com ("Worldwide") current policies and practices with regard to personal data collected by WORLDWIDE through this web site. This privacy policy does not apply to information-collected offline or in any other way. The term "personal data" refers to personally identifiable information about you, such as your name, birth date, e-mail address or mailing address, and any other information that identifies you personally.</p>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<title>Privacy Policy | Black Men Magazine</title>
+<meta name="Description" content="Black Men Magazine privacy policy information.">
+<meta name="Keywords" content="privacy, policy, information">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="content-language" content="en">
+
+<link rel="canonical" href="http://www.blackmendigital.com/">
+<link rel="shortcut icon" href="favicon.ico">
+<link rel="stylesheet" type="text/css" href="css/style.css">
+
+
+<link rel="stylesheet" href="js/shadowbox/shadowbox.css" type="text/css" media="screen">
+
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="js/shadowbox/shadowbox.js"></script>
+
+<script type="text/javascript" src="/includes/gen_validatorv2.js"></script>
+
+
+<script type="text/javascript" src="js/swfobject.js"></script>
+
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script>
+<script type="text/javascript" src="jquery.jcarousel.min.js"></script>
+
+<link rel="stylesheet" href="skin.css" type="text/css" media="screen">
+
+
+
+<link rel="stylesheet" href="js/nicetitle/nicetitle.css" type="text/css" media="screen">
+
+
+<script type="text/javascript" language="javascript">
+//<!--
+Shadowbox.init({
+    // skip the automatic setup again, we do this later manually
+    skipSetup: true
+});
+
+window.onload = function() {
+	Shadowbox.setup("a.shadowbox", {
+		handleOversize: "drag",
+		gallery: "Gallery",
+		continuous: true
+	});
+	
+	Shadowbox.setup("a[rel=lightbox]", {
+		handleOversize: "drag",
+		gallery: "Gallery",
+		continuous: true
+	});
+	
+	Shadowbox.setup("a[rel=shadowbox-video]", {
+		handleOversize: "drag",
+		gallery: "Gallery",
+		continuous: true,
+		width: 665,
+		height: 600
+	});
+	
+	makeNiceTitles();
+}
+//-->
+</script>
+
+<script type="text/javascript" language="javascript">
+//<!--
+var mq_images =new Array();
+
+var mq_timeout = 1000;
+
+var i = 0;
+
+var f = 0;
+
+var img_path = "http://blackmendigital.com/submissions/storage/";
+
+var img = new Image();
+
+var next_page = '';
+
+var mq_timer;
+
+function mq_slideshow_show(name){
+
+	if(f >= mq_images.length) window.location = next_page;;
+
+	img.src = img_path + mq_images[f];
+	
+	document.getElementById('slideshow').innerHTML = '<table width="100%"><tr><td valign="center" align="center"><img src="' + img.src + '" alt="" /><br />' + unescape(name) + ' - Picture ' + (f + 1) + '</td></tr></table>';
+	
+	
+	f ++;
+
+	mq_timer = setTimeout('mq_slideshow_show(\'' + name + '\')', mq_timeout);
+	
+	
+}
+
+function mq_slideshow(name, next_url, timeout){
+	
+	mq_timeout = timeout;
+	
+	next_page = next_url;
+	
+	document.getElementById("slideshow").style.display = 'block';
+	//alert(mq_images.length);
+		
+	
+	mq_slideshow_show(escape(name));
+	
+	
+	
+	
+}
+
+function mq_slideshow_off(){
+
+
+	document.getElementById("slideshow").style.display = 'none';
+	clearTimeout(mq_timer);
+}
+
+function mq_add_image(name){
+	mq_images[i] = name;
+	i ++;
+}
+//-->
+</script>
+
+<script type="text/javascript" language="javascript">
+//<!--
+	var max_photos = 10;
+	
+	var curr_photo = 1;
+	var photos;
+	var pic;
+	
+	function up_photo(){
+		curr_photo ++;
+		
+		if(curr_photo > max_photos)	curr_photo = 1;
+		
+
+
+		document.getElementById('cimg').src = 'images/slideshow/' + curr_photo + '.jpg';
+		
+
+	}
+	
+	function use_photo(num){
+	
+		document.getElementById('cimg').src = 'images/slideshow/' + num + '.jpg';
+		
+	}
+
+	function down_photo(){
+	
+		curr_photo = cur_photo - 1;
+		
+		if(curr_photo < 1)	curr_photo = max_photos;
+		
+
+
+		
+		document.getElementById('cimg').src = 'images/slideshow/' + curr_photo + '.jpg';
+		
+
+		
+	}
+	
+	function set_photo(photo){
+		curr_photo = photo;
+		
+		pic = new Image(646,349); 
+		pic.src='images/slideshow/' + curr_photo  + '.jpg'; 
+		document.getElementById('cimg').src = 'images/slideshow/' + curr_photo + '.jpg';
+
+		
+		for(i=1; i <= 12; i++){
+			pic = new Image(646,349); 
+			pic.src='images/slideshow/' + i  + '.jpg'; 
+		}
+
+	}
+	
+	
+	String.prototype.trim = function() {
+		return this.replace(/^\s+|\s+$/g,"");
+	}
+
+	function changevote2(v)
+	{
+
+
+	  for (i = 1; i <= 5; i++)
+	  {
+		fr = document.getElementById("vote_" + i)
+
+		src = ""
+
+		if (i <= v)
+		{
+			src = ".png"
+		}
+		else
+		{
+			src = "2.png"
+		}
+
+		fr.src = "images/star" + src
+	  }
+	}
+
+	function change_video(v)
+	{
+
+
+	  if (window.XMLHttpRequest)
+	  {
+		// If IE7, Mozilla, Safari, etc: Use native object
+		var http = new XMLHttpRequest()
+	  }
+	  else
+	  {
+		 if (window.ActiveXObject)
+		 {
+			// ...otherwise, use the ActiveX control for IE5.x and IE6
+			var http = new ActiveXObject("Microsoft.XMLHTTP");
+		 }
+	  }
+
+
+	  var url = "home_player.rpc.php";
+	  var params = "v=" + v;
+
+	  http.open("GET", url+"?"+params, true);
+	  http.onreadystatechange = function() 
+	  {
+			if(http.readyState == 4 && http.status == 200) 
+			{
+				document.getElementById('home_player').innerHTML =http.responseText.trim();
+			  
+		}
+	  }
+
+	  http.send(null);
+	}
+	
+	function domodelvote(v, id)
+	{
+
+
+	  if (window.XMLHttpRequest)
+	  {
+		// If IE7, Mozilla, Safari, etc: Use native object
+		var http = new XMLHttpRequest()
+	  }
+	  else
+	  {
+		 if (window.ActiveXObject)
+		 {
+			// ...otherwise, use the ActiveX control for IE5.x and IE6
+			var http = new ActiveXObject("Microsoft.XMLHTTP");
+		 }
+	  }
+
+
+	  var url = "vote.rpc.php";
+	  var params = "model_id=" +id+ "&vote=" + v;
+
+	  http.open("GET", url+"?"+params, true);
+	  http.onreadystatechange = function() 
+	  {
+			if(http.readyState == 4 && http.status == 200) 
+			{
+			  if (http.responseText.trim() == "done")
+			  {
+				alert("Thank you for rating this model.");
+				window.location.reload();
+				//changevote2(v)
+				allowchange= 0
+			}
+			  else
+			  {
+				alert("There was an error recording your vote. You already voted for this model.");
+				  }
+		}
+	  }
+
+	  http.send(null);
+	}
+//-->
+</script>
+
+<script type="text/javascript" language="javascript">
+<!--
+function popup_disable(name){
+	if (document.getElementById('popupfriends') != null) {
+		if(name == ''){
+			document.getElementById('popupfriends').style.display = 'none';
+			document.getElementById('popupmsgs').style.display = 'none';
+			document.getElementById('popupevents').style.display = 'none';
+		
+		} else {
+		
+			document.getElementById(name).style.display = 'none';
+		}
+	}
+}
+
+function popup_enable(name){
+
+	popup_disable('');
+	
+	document.getElementById(name).style.display = 'block';
+	
+}
+
+function confirm_delete(){
+
+
+	if(confirm('Do you want to delete your account?')){
+		return true;
+	} else {
+	
+		return false;
+	}
+
+}
+
+
+popup_disable('');
+-->
+</script>
+
+<script type="text/javascript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+-->
+</script>
+
+
+</head>
+<body>
+	<div id="layout-container">
+		<div id="layout-content">
+			<div id="page-container">
+            	<div class="page-shadow left">
+            		<div class="page-shadow right">
+            			<div id="page-content">	
+                            
+                            
+                            <div id="header">
+                            	<div id="header-content">
+                                		<div id="toolbar">
+                                        	<div class="left">Sunday 19th May 2013</div>
+                                            <div class="right">913 Galleries, 553 Girls, 71 Videos</div>
+                                            <div class="clear"></div>
+                                        </div>
+                                
+										<div class="clear"></div>	
+                                		<div class="description left">
+											<div class="left login">
+										<!--
+												<a href="#" class="latest">LATEST ISSUE JULY 2013</a>
+									-->
+												<h3>The Best Men's Magazine To Ever Do It. <br>Join The Movement.</h3>
+							
+											
+												<a href="http://members.blackmendigital.com/" class="members"><img src="images/members2.png" alt=""></a>
+												
+												
+												<a href="join.php" class="members"><img src="images/join_now2.png" alt=""></a>
+											</div>
+											<div class="clear"></div>	
+											<div class="social-links">
+	                                        	<a href="http://www.facebook.com/blackmenmag" title=""><img src="images/facebook.jpg" alt=""></a>
+    	                                        <a href="https://twitter.com/blackmendigital" title=""><img src="images/twitter.jpg" alt=""></a>
+        	                                    <a href="http://www.blackmendigital.com/bb/bb.php" title=""><img src="images/myspace.jpg" alt=""></a>
+            	                                <a href="http://www.youtube.com/blackmenmag" title=""><img src="images/youtube.jpg" alt=""></a>
+                							</div>    
+										</div>
+                                        
+										
+                                        
+                                        
+                                                                                <div class="right magazine"><a href="https://store.prestigehq.com/?Store_Code=ENOBLE&amp;Template_Name=Category&amp;CategoryID=2644" title=""><img src="/storage/covers/1.jpg" alt=""><img src="cover.php" alt=""></a></div>
+                                        <div class="clear"></div>
+                                
+                                
+                                
+                                </div>
+								
+                            </div>
+							<table cellspacing="0" cellpadding="0" width="100%">
+									<tbody><tr>
+									<td><a href="index.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image71','','images/header2_29.jpg',1)"><img src="images/header_29.jpg" name="Image71" width="72" height="32" border="0" title="Index Page" alt="Index Page"></a></td>
+									<td><a href="hip-hop-honey.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image72','','images/header2_30.jpg',1)"><img src="images/header_30.jpg" name="Image72" width="72" height="32" border="0" title="Check out the exclusive photos from our Black Magazine Photo Shoots" alt="Check out the exclusive photos from our Black Magazine Photo Shoots"></a></td>
+									<td><a href="hip-hop-models.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image73','','images/header2_31.jpg',1)"><img src="images/header_31.jpg" name="Image73" width="120" height="32" border="0" title="Hot Photos Of the Hottest Celebs" alt="Hot Photos Of the Hottest Celebs"></a></td>
+									<td><a href="realities.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image74','','images/header2_32.jpg',1)"><img src="images/header_32.jpg" name="Image74" width="103" height="32" border="0" title="Sexy photos from Hot Reality Shows" alt="Sexy photos from Hot Reality Shows"></a></td>
+
+									<td><a href="urban-models.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image75','','images/header2_33.jpg',1)"><img src="images/header_33.jpg" name="Image75" width="136" height="32" border="0" title="The Final Step before these girls get their own photo shoot with Black Men Magazine" alt="The Final Step before these girls get their own photo shoot with Black Men Magazine"></a></td>
+									<td><a href="castings.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image76','','images/header2_34.jpg',1)"><img src="images/header_34.jpg" name="Image76" width="140" height="32" border="0" title="See the girls that have submitted their photos live on this site!" alt="See the girls that have submitted their photos live on this site!"></a></td>
+									<td><a href="subm.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image77','','images/header2_35.jpg',1)"><img src="images/header_35.jpg" name="Image77" width="123" height="32" border="0" title="Models please submit your photos and bios here." alt="Models please submit your photos and bios here."></a></td>
+									<td><a href="interviews.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image78','','images/header2_36.jpg',1)"><img src="images/header_36.jpg" name="Image78" width="116" height="32" border="0" title="Go Behind the Scenes with our Black Men Models" alt="Go Behind the Scenes with our Black Men Models"></a></td>
+									<td><a href="bb.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image79','','images/header2_37.jpg',1)"><img src="images/header_37.jpg" name="Image79" width="113" height="32" border="0" title="Make friends with the models, Join our community Site" alt="Make friends with the models, Join our community Site"></a></td>
+
+									</tr>
+									</tbody></table>
+						<ul id="subnav">
+							<li><a href="as.php">Access Style</a></li>
+														<li><a href="photographers.php">Photographers</a></li>
+							<li><a href="search.php?type=story&amp;text=">Latest News</a></li>
+														<li><a href="bb-video.php" style="color: #fdd302;">Videos From BlackBook Community</a></li>
+							<li class="right">
+								<form id="search" action="search.php" method="get">
+									<select name="type">
+									<option value="girls" label="Girls">Girls</option>
+									<option value="story" label="News">News</option>
+									<option value="interview" label="Interviews">Interviews</option>
+									<option value="event" label="Events">Events</option>
+									<option value="casting_calls" label="Casting Calls">Casting Calls</option>
+									</select><input type="text" name="text" value="" class="input-field"><input type="submit" class="input-btn" value=" "> 
+									
+								</form>
+							</li>
+						</ul>
+
+							
+							                            <div id="subnavigation">
+                                <div class="left">
+                                    <a href="index.php">Black Men Magazine</a> &gt;&gt; <a href="privacy.php">PRIVACY</a>
+																		
+                                    <span class="filter">
+									GIRLS BY NAME: 
+                                    <a href="hip-hop-models.php?letter=digit">#</a>
+                                    									<a href="hip-hop-models.php?letter=A">A</a>
+                                    									<a href="hip-hop-models.php?letter=B">B</a>
+                                    									<a href="hip-hop-models.php?letter=C">C</a>
+                                    									<a href="hip-hop-models.php?letter=D">D</a>
+                                    									<a href="hip-hop-models.php?letter=E">E</a>
+                                    									<a href="hip-hop-models.php?letter=F">F</a>
+                                    									<a href="hip-hop-models.php?letter=G">G</a>
+                                    									<a href="hip-hop-models.php?letter=H">H</a>
+                                    									<a href="hip-hop-models.php?letter=I">I</a>
+                                    									<a href="hip-hop-models.php?letter=J">J</a>
+                                    									<a href="hip-hop-models.php?letter=K">K</a>
+                                    									<a href="hip-hop-models.php?letter=L">L</a>
+                                    									<a href="hip-hop-models.php?letter=M">M</a>
+                                    									<a href="hip-hop-models.php?letter=N">N</a>
+                                    									<a href="hip-hop-models.php?letter=O">O</a>
+                                    									<a href="hip-hop-models.php?letter=P">P</a>
+                                    									<a href="hip-hop-models.php?letter=Q">Q</a>
+                                    									<a href="hip-hop-models.php?letter=R">R</a>
+                                    									<a href="hip-hop-models.php?letter=S">S</a>
+                                    									<a href="hip-hop-models.php?letter=T">T</a>
+                                    									<a href="hip-hop-models.php?letter=U">U</a>
+                                    									<a href="hip-hop-models.php?letter=V">V</a>
+                                    									<a href="hip-hop-models.php?letter=W">W</a>
+                                    									<a href="hip-hop-models.php?letter=X">X</a>
+                                    									<a href="hip-hop-models.php?letter=Y">Y</a>
+                                    									<a href="hip-hop-models.php?letter=Z">Z</a>
+                                                                        </span>
+
+                                </div>
+
+
+
+
+
+                                <div class="clear"></div>
+                            </div>
+														
+							                            
+
+
+                            
+         
+
+                                <div class="story left">
+                                    <h1>Privacy Policy</h1>
+
+									
+	
+	
+<p>This privacy policy describes Worldwide Electronic Publishing, Inc. d/b/a BlackMenDigital.com ("Worldwide") current policies and practices with regard to personal data collected by WORLDWIDE through this web site. This privacy policy does not apply to information-collected offline or in any other way. The term "personal data" refers to personally identifiable information about you, such as your name, birth date, e-mail address or mailing address, and any other information that identifies you personally.</p>
+
 				<p>Your Consent. By using this web site, you consent to our use of your personal data as described in this privacy policy.</p>
 				<p>Notification Of Changes To This Policy. WORLDWIDE is continually improving and adding new functionality and features to this web site and improving and adding to its existing services and programs. Because of these ongoing changes, changes in the law and the changing nature of technology, WORLDWIDE's data practices will change from time to time. If and when our data practices change, WORLDWIDE will post the changes on this web site to notify you of the changes. We encourage you to check this page frequently.</p>
 				<p>Personal Data Collected Through This Web Site. The only personal data WORLDWIDE currently collects through this web site is the information you give us when you use our site. This includes, for example, the information you provide when you register for, if applicable, a chat room, newsletter or other program or service or when you send us your comments or requests for information.</p>
 				<p>WORLDWIDE uses the information you provide for the purposes, for which it was originally collected, for example, to respond to your membership, product or billing-related concerns. WORLDWIDE also uses this information to help us improve the content and functionality of our web sites, to better understand the needs and interests of the people that use our web site, and to improve our programs and services.</p>
 				<p>Financial information that is collected is used to check the users' qualifications and to bill the user for products and services ordered.</p>
 				<p>Contact information may also be used to convey promotional opportunities from our marketing partners or us. We may send you emails prior to and after you have terminated your membership to our service until such time as you advise us, in accordance with the procedures explained below, that you no longer wish to receive email from our marketing partners or us. If at any time you no longer wish to receive emails from our marketing partners or us please email us at <a href="mailto: abuse@blackmendigital.com">abuse@blackmendigital.com</a>.</p>
+
 				<p>Our marketing partners and we fully comply with the federal CAN-SPAM Act and as such all emails from us and our partners will always, among other required disclosures, have a place for you to opt out of receipt of further email correspondence. Please note we will never send you an email directly or through our partners without your consent. Please immediately report any emails you may receive, without your prior authorization that purports to promote our sites or services.</p>
 				<p>WORLDWIDE may share the personal information you provide to us with consultants and other third parties who act for or on behalf of WORLDWIDE, for further processing or analysis. In addition, there may be some other, limited circumstances in which WORLDWIDE may share or transfer the personal information in its databases, for example, to comply with a legal requirement, for the administration of justice, to protect your vital interests, to protect the security or integrity of our databases or this web site, to take precautions against legal liability, or in the event of a corporate merger, reorganization, dissolution or similar event.</p>
 				<p>Anonymous Data Collected Through WORLDWIDE Websites. In addition to the information you provide when you use our web site, WORLDWIDE uses technology to collect anonymous information about the use of our web site. For example, we use technology to track how many visitors access our web site, the date and time of their visit, the length of their stay, and which pages they view. We also use technology to determine which web browsers our visitors use and the address from which they accessed our site.</p>
 				<p>This technology does not identify you personally. It simply enables us to compile statistics about our visitors and their use of our site. WORLDWIDE uses this anonymous data and shares it with third parties for various reasons, for example, to improve the content and functionality of our web site, to better understand the needs and interests of our visitors, to improve our programs and services.</p>
 				<p>Cookies. In order to collect the anonymous data described in the preceding paragraph, WORLDWIDE may use temporary "cookies" that collect the first level domain name of the user (for example, if your e-mail address is "name@xyz.com," the cookie collects the "xyz.com" portion of your e-mail address) and the date and time you accessed this Web site. Cookies by themselves cannot be used to discover the identity of the user. A cookie is a small piece of information that is sent to your browser and stored on your computer's hard drive. Cookies do not damage your computer. You can set your browser to notify you when you receive a cookie. This enables you to decide if you want to accept it or not.</p>
 				<p>Additionally, we use cookies to allow us to recognize you as a member, subscriber or prior visitor if you return to our website using the same computer and browser. We send a "session cookie" to your computer if and when you log in to your membership account by entering your e-mail address and password. These cookies allow us to recognize you if you visit multiple pages in our site during the same session, so that you don't need to re-enter your password multiple times. Once you log out or close your browser, these session cookies expire and no longer have any effect.</p>
+
 				<p>We also may use longer-lasting cookies to display your e-mail address on our sign-in form, so that you don't have to retype the e-mail address each time when you log in to your membership account. In addition, we use cookies to process our referral program. Our cookie files are encoded so that your e-mail address and other information can only be interpreted by WORLDWIDE. We may, however, share cookie information regarding whether or not a certain user is already registered with WORLDWIDE with certain merchants, partners and third-parties with whom we have an official relationship.</p>
 				<p>In order for certain applications on WORLDWIDE's websites to function properly, if at all, it is necessary for your computer to accept cookies.</p>
 				<p>Links to Other Sites. This privacy policy applies only to this web site. This site contains many hyperlinks to web sites that are not operated by WORLDWIDE. These hyperlinks are provided for your reference and convenience only and do not imply any endorsement of the activities of these third-party web sites or any association with their operators. WORLDWIDE does not control these web sites and is not responsible for their data practices. We urge you to review the privacy policy posted on any site you visit before using the site or providing any personal data about yourself.</p>
 				<p>Websites operated by WORLDWIDE may contain chat rooms, forums, message boards, and/or news groups. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.</p>
 				<p>Governing Law. This privacy policy forms part of our web-site Terms and Conditions and as such shall be governed by and construed in accordance with the laws of the State of New Jersey.</p>
 				<p>Questions About Our Privacy Policy. If you have any questions about this privacy policy or concerns about the way WORLDWIDE uses personal data, please contact us.</p>
-	    </div>
-    
-</body></html>
+
+									
+
+                                    <div class="sep"></div>
+
+
+
+
+
+                                </div>                            
+
+
+
+                            <div class="right ads">
+
+                                
+<div class="adv">
+<span class="image"><a href="http://www.blackmendigital.com/t2/submission.php"><img src="images/banners/350x569_bmd.jpg" alt="" width="300"></a></span>
+<span class="title"><a href="http://www.blackmendigital.com/t2/submission.php">Coming Soon</a></span>
+<span class="url"><a href="http://www.blackmendigital.com/t2/submission.php">More Info »</a></span>
+<div class="clear"></div>
+</div>
+
+<div class="adv">
+	<a href="http://join.lightinrod.com/track/swankadmin.10064.42.79.1.0.0.0.0" target="_blank"><img src="images/banners/lightningrod_300x300.gif" width="300" height="300" border="0" alt="Penis Enlargement Pills"></a>
+	<a href="http://join.lightinrod.com/track/swankadmin.10064.42.79.1.0.0.0.0" target="_blank" class="title">Lightning Rod</a>
+	<a href="http://join.lightinrod.com/track/swankadmin.10064.42.79.1.0.0.0.0" target="_blank" class="url">More Info »</a>
+	<div class="clear"></div>
+</div>
+
+<div class="adv">
+	<a href="http://www.psychicslive.com/?mp_code=gsav&amp;utm_source=affiliates&amp;utm_medium=banner&amp;utm_campaign=/assets/psychics/pl-300x250-0001.jpg&amp;utm_content=gsav" target="_blank"><img src="http://banners.psychicslive.com/assets/psychics/pl-300x250-0001.jpg" width="300" height="250" border="0" alt="Need Help Finding Love?"></a>
+	<a href="http://www.psychicslive.com/?mp_code=gsav&amp;utm_source=affiliates&amp;utm_medium=banner&amp;utm_campaign=/assets/psychics/pl-300x250-0001.jpg&amp;utm_content=gsav" target="_blank" class="title">Psychics Live</a>
+	<a href="http://www.psychicslive.com/?mp_code=gsav&amp;utm_source=affiliates&amp;utm_medium=banner&amp;utm_campaign=/assets/psychics/pl-300x250-0001.jpg&amp;utm_content=gsav" target="_blank" class="url">More Info »</a>
+	<div class="clear"></div>
+</div>
+
+<!--/* OpenX Javascript Tag v2.8.7 */-->
+<div class="adv">
+<span class="image">
+
+<script type="text/javascript"><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://ads.blackmendigital.com/www/delivery/ajs.php':'http://ads.blackmendigital.com/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=17");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><script type="text/javascript" src="https://ads.blackmendigital.com/www/delivery/ajs.php?zoneid=17&amp;cb=52417965953&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20130519184552id_/http%253A//www.blackmendigital.com/bb/privacy.php"></script>
+</span>
+<a href="http://ads.blackmendigital.com/www/delivery/ck.php?oaparams=2__bannerid=26__zoneid=17__cb=1f13e5823d__oadest=http%3A%2F%2Fhowardhuang.com%2FPromos%2Ftest%2F" target="_blank" class="title">Howard Huang</a>
+<a href="http://ads.blackmendigital.com/www/delivery/ck.php?oaparams=2__bannerid=26__zoneid=17__cb=1f13e5823d__oadest=http%3A%2F%2Fhowardhuang.com%2FPromos%2Ftest%2F" class="url">More Info »</a>
+<div class="clear"></div>
+</div>
+
+
+
+
+<!--/* OpenX Javascript Tag v2.8.7 */-->
+
+<script type="text/javascript"><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://ads.blackmendigital.com/www/delivery/ajs.php':'http://ads.blackmendigital.com/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=9&amp;block=1");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><script type="text/javascript" src="https://ads.blackmendigital.com/www/delivery/ajs.php?zoneid=9&amp;block=1&amp;cb=67428039015&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20130519184552id_/http%253A//www.blackmendigital.com/bb/privacy.php"></script>
+
+<!--/* OpenX Javascript Tag v2.8.7 */-->
+
+<script type="text/javascript"><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://ads.blackmendigital.com/www/delivery/ajs.php':'http://ads.blackmendigital.com/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=10&amp;block=1");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><script type="text/javascript" src="https://ads.blackmendigital.com/www/delivery/ajs.php?zoneid=10&amp;block=1&amp;cb=73941851358&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20130519184552id_/http%253A//www.blackmendigital.com/bb/privacy.php"></script>
+
+<!--/* OpenX Javascript Tag v2.8.7 */-->
+
+<script type="text/javascript"><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://ads.blackmendigital.com/www/delivery/ajs.php':'http://ads.blackmendigital.com/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=11&amp;block=1");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><script type="text/javascript" src="https://ads.blackmendigital.com/www/delivery/ajs.php?zoneid=11&amp;block=1&amp;cb=51609254890&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20130519184552id_/http%253A//www.blackmendigital.com/bb/privacy.php"></script>
+
+
+
+
+
+
+                            </div>
+
+
+                            <div class="clear"></div>
+
+                            
+
+
+                            <div id="footer">
+
+								
+                                
+                                <div class="section-container gray join">
+                                    <div class="tl"></div>
+                                    <div class="tr"></div>
+                                    <div class="bl"></div>
+                                    <div class="br"></div>
+                                  
+									<div class="footer-links">
+                                    <h3>Our friends: </h3>
+									
+									
+																		<a href="http://www.urbanink.com" target="_blank">Urban Ink</a> | <a href="http://www.dynastyseries.com" target="_blank">Dynasty Series</a> | <a href="http://www.lindennewday.com/" target="_blank">Linden New Day Associates</a> | <a href="http://www.facebook.com/pages/Black-Men-Magazine/167902443220479" target="_blank">Face Book Black Men</a> | <a href="http://twitter.com/blackmeneditor" target="_blank">Twitter Black Men Editor</a> | <a href="http://twitter.com/blackmendigital" target="_blank">Twitter Black Men Digital</a> | <a href="http://www.dbrownphotos.net" target="_blank">D. Brown Photos</a> | <a href="http://www.rapmodels.net/" target="_blank">Rap Models.Net</a> | <a href="Http://www.lilanikole.com" target="_blank">Lila Nikole</a> | <a href="Http://www.sachika.com" target="_blank">Sachika</a> | <a href="http://www.tsdagency.com" target="_blank">TSD Agency</a> | <a href="Http://larocmanagement.com" target="_blank">La' Roc Management</a> | <a href="http://hustlebunny.com" target="_blank">HustleBunny</a> | <a href="http://www.skinz.com" target="_blank">Skinz</a> | <a href="http://www.HipHopVideoModels.net" target="_blank">HipHopVideoModels</a>									<br>
+									</div>
+									<div class="clear"></div>
+                                    <strong>BlackMen Magazine</strong> - Copyright 2013 - Black Men Publications Inc <br><br>
+									
+                                   
+
+                                    <div class="clear"></div>
+                                </div> 
+                            
+                                <div class="section-container news">
+                                    <div class="tl"></div>
+                                    <div class="tr"></div>
+                                    <div class="bl"></div>
+                                    <div class="br"></div>
+
+                                    <h2>BlackMen <span>INTERVIEWS: </span></h2>
+                                    <div class="news">
+										                                        <a href="interview.php?id=9158">July 25 2012 - <span>Interview with Elease Donovan</span></a><br>
+
+                                                                                <a href="interview.php?id=9160">July 25 2012 - <span>Exclusive Interview with Kyra Chaos</span></a><br>
+
+                                                                                <a href="interview.php?id=9161">July 25 2012 - <span>Check out Hottie Miz DR</span></a><br>
+
+                                                                                <a href="interview.php?id=9163">July 25 2012 - <span>Exclusive Interview with Samina Ria</span></a><br>
+
+                                                                                <a href="interview.php?id=9164">July 25 2012 - <span>BMD Interviews - Tahiry Jose</span></a><br>
+
+                                                                                <a href="interview.php?id=9166">July 25 2012 - <span>Teyana Taylor Like Never Before</span></a><br>
+
+                                        										
+                                    </div>
+                                    <div class="clear"></div>
+                                </div>                            
+                            
+
+
+                                <div class="section-container gray membership">
+                                    <div class="tl"></div>
+                                    <div class="tr"></div>
+                                    <div class="bl"></div>
+                                    <div class="br"></div>
+
+                                    <div class="description">
+                                        <strong>
+                                            <a href="join.php">JOIN NOW</a>
+                                            MEMBERSHIP <br> $19.95 / month
+                                        </strong>
+
+                                        <span>
+                                            $49.95 / 3 months <br>
+                                            $94.95 / 6 months 
+                                        </span>
+                                    </div>
+                                </div> 
+
+
+
+
+                                <div class="clear"></div>
+
+							
+
+
+                <div id="footer-nav">
+                    <ul>
+                        <li><a href="mailto:support@blackmendigital.com">Contact</a></li>
+                        <li><a href="terms.php">Terms of Use</a></li>
+						<li><a href="privacy.php">Privacy Policy</a></li>
+						<li><a href="support.php">Support</a></li>
+						<li><a target="_blank" href="http://members.blackmendigital.com/">Members</a></li>
+						
+						<li><a href="join.php">Join</a></li>
+						<li><a href="adv.php">Advertising</a></li>
+						
+						
+						
+                        <li><a href="dmca.php">DMCA</a></li>
+						<li><a href="https://store.prestigehq.com/?Template_Name=Category&amp;Store_Code=ENOBLE&amp;CategoryID=2191">Magazine Issues</a></li>
+						<li><a href="winners.php">Past Contest Winners</a></li>
+						<li><a href="submission.php">Want to be a BlackMenDigital Model</a></li>
+						
+                       <!-- <li class="rss"><a href="">RSS <img src="images/rss.gif" alt="" /></a></li>-->
+                    </ul>
+                        <div class="clear"></div>
+                </div>
+
+
+                            </div>
+
+
+                            
+						</div>
+            		</div>
+            	</div>
+                <div id="footer-spacer"></div>
+			</div>
+		</div>
+	</div>
+	
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-33369793-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+<script type="text/javascript"><!--
+EXref="";top.document.referrer?EXref=top.document.referrer:EXref=document.referrer;//-->
+</script><script type="text/javascript"><!--
+EXs=screen;EXw=EXs.width;navigator.appName!="Netscape"?
+EXb=EXs.colorDepth:EXb=EXs.pixelDepth;
+navigator.javaEnabled()==1?EXjv="y":EXjv="n";
+EXd=document;EXw?"":EXw="na";EXb?"":EXb="na";
+location.protocol=="https:"?EXprot="https":EXprot="http";
+EXref?EXref=EXref:EXref=EXd.referrer;EXsrc="src";
+EXd.write("<img "+EXsrc+"="+EXprot+"://nht-2.extreme-dm.com/n3.g?",
+"login=blackmm&amp;url="+escape(document.URL)+"&amp;pv=&amp;",
+"jv="+EXjv+"&amp;j=y&amp;srw="+EXw+"&amp;srb="+EXb+"&amp;",
+"l="+escape(EXref)+" height=1 width=1>");//-->
+</script><img src="https://nht-2.extreme-dm.com/n3.g?login=blackmm&amp;url=https%3A//web.archive.org/web/20130519184552id_/http%253A//www.blackmendigital.com/bb/privacy.php&amp;pv=&amp;jv=n&amp;j=y&amp;srw=800&amp;srb=24&amp;l=" height="1" width="1"><noscript><div id="nneXTReMe"><img height="1" width="1" alt=""
+src="http://nht-2.extreme-dm.com/n3.g?login=blackmm&amp;url=nojs&amp;j=n&amp;jv=n&amp;pv=" />
+</div></noscript>
+
+
+ <div id="sb-container"><div id="sb-overlay"></div><div id="sb-wrapper"><div id="sb-title"><div id="sb-title-inner"></div></div><div id="sb-wrapper-inner"><div id="sb-body"><div id="sb-body-inner"></div><div id="sb-loading"><div id="sb-loading-inner"><span>loading</span></div></div></div></div><div id="sb-info"><div id="sb-info-inner"><div id="sb-counter"></div><div id="sb-nav"><a id="sb-nav-close" title="Close" onclick="Shadowbox.close()"></a><a id="sb-nav-next" title="Next" onclick="Shadowbox.next()"></a><a id="sb-nav-play" title="Play" onclick="Shadowbox.play()"></a><a id="sb-nav-pause" title="Pause" onclick="Shadowbox.pause()"></a><a id="sb-nav-previous" title="Previous" onclick="Shadowbox.previous()"></a></div></div></div></div></div></body></html>
