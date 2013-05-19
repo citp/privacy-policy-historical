@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blackmendigital.com privacy policy that was archived on 2012-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120425223920id_/http%3A//www.blackmendigital.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackmendigital.com privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519184552id_/http%3A//www.blackmendigital.com/bb/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy - HTTP Electronic Publishing, Inc.
+# Privacy Policy | Black Men Magazine
 
 This privacy policy describes Worldwide Electronic Publishing, Inc. d/b/a BlackMenDigital.com ("Worldwide") current policies and practices with regard to personal data collected by WORLDWIDE through this web site. This privacy policy does not apply to information-collected offline or in any other way. The term "personal data" refers to personally identifiable information about you, such as your name, birth date, e-mail address or mailing address, and any other information that identifies you personally.
 
