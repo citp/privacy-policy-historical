@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the tutorialshock.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225232108id_/http%3A//designshock.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tutorialshock.com privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519114723id_/http%3A//www.webdesignshock.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **Unsubscribe from our mailings**
 
-If you no longer want to receive emails from our newsletter please follow this [link](http://iconshock.com/phplist/?p=unsubscribe). 
+If you no longer want to receive emails from our newsletter please follow this [link](http://www.designshock.com/lists/?p=unsubscribe). 
 
 **What information do we collect?**
 
@@ -57,7 +57,7 @@ This online privacy policy applies only to information collected through our web
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.designshock.com](http://www.designshock.com/)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.webdesignshock.com](http://www.webdesignshock.com/)
 
 **Changes to our Privacy Policy**
 
@@ -67,8 +67,8 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
-Shock Family Network   
+www.WebDesignShock.com   
 Mailing address: Calle 24C #43A 50   
 Bogotá, Colombia   
-Email: blog@designshock.com   
+Email: blog@webdesignshock.com   
 Phone: 571 2693216 
