@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the footlocker.com privacy policy that was archived on 2012-09-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120917133240id_/http%3A//www.footlocker.com/customerserv/help%3AprivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the footlocker.com privacy policy that was archived on 2013-05-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130519033551id_/http%3A//www.footlocker.com/customerserv/help%3AprivacyPolicy) for the most accurate reproduction.-->
 
 <html xmlns:fb="http://www.facebook.com/2008/fbml"><head><script language="JavaScript">
 function openBMLWindow(url,height) {
@@ -28,15 +28,17 @@ function openInvestWin(url) {
 		<meta name="msvalidate.01" content="EDC57CBB5433904007B934915238FE4A">
 		
 
-	<meta http-equiv="published" content="Monday, September 17, 2012 8:32:40">
+	<meta http-equiv="published" content="Saturday, May 18, 2013 10:35:51">
 
 	
 
-	<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
+	<script type="text/javascript" src="/images/common/jquery/jquery.latest.js "></script>
 
 	<script type="text/javascript" src="/combine?type=js&amp;files=shared/scripts/jquery.bgiframe.pack.js,shared/scripts/ajax.js,shared/scripts/common.js,shared/search/scripts/sizesearch.js"></script>
 
 	
+		<script type="text/javascript" src="/combine?type=js&amp;files=shared/storepickup/modal.js,shared/storepickup/boris.js"></script>
+		
 
 	<script type="text/javascript">//<![CDATA[
 		var sizeSearchActionURL = 'http://www.footlocker.com/includes/sizeSearchForm.cfm';
@@ -50,7 +52,7 @@ function openInvestWin(url) {
 	<script>
 	var wishlistpostCardURL = 'https://www.footlocker.com/wishlist/wl_postcard.cfm';
 	var wishlistmailSender  = 'https://www.footlocker.com/wishlist/wl_mailSender.cfm';
-	var dsnname = 'pro-wfl-lb';
+	var dsnname = 'PRO-WFL-LB-ALT';
 	
 		var microsite = '';
 	
@@ -58,7 +60,7 @@ function openInvestWin(url) {
 	
 	</script>
 	<style type="text/css">
-			@import "http://www.footlocker.com/shared/wishlist/wl_sharedWishList.css";
+		
 			.loading {
 				background: transparent url(http://www.footlocker.com/images/fl/quickview/quickview_loader.gif) center no-repeat;
 			}
@@ -72,7 +74,7 @@ function openInvestWin(url) {
 		var register_url = "https://www.footlocker.com/account/default.cfm?action=accountCreate";
     </script> 
 	<script type="text/javascript" src="http://www.footlocker.com/shared/myAccount/login.js"></script>
-    <link href="http://www.footlocker.com/shared/myAccount/login.css" rel="stylesheet" type="text/css">
+	
 </ignoreurlreformat>
 
 	<script type="text/javascript">
@@ -80,20 +82,14 @@ function openInvestWin(url) {
             $(".loginRequired").each(initializeLoginRequired);
         });
     </script> 
-<style type="text/css">
-	.hideUntilLoaded {
-		display: none;
-	}
-	.showUntilLoaded {
-		display: block;
-	}
-</style>
+
 <script type="text/javascript">
 	$(document).ready(function() {
 		$(".showUntilLoaded").hide();
 		$(".hideUntilLoaded").show();
 	});
-</script> 
+</script>
+
 <script language="javascript">
 <!--
 		function updateWelcome (coremetricsEventId, CoremetricsCategoryId) {
@@ -123,6 +119,12 @@ function openInvestWin(url) {
 		
 			var ret_val= $.ajax({ type: "GET", url: logoutPath, data: {Next: escape(thisurl)}, async: false, cache : false }).responseText;
 			eraseCookie('BAZAARVOICEUSER');
+
+			//revmove any URL params after logout only if in shopping cart
+			if(thisurl.indexOf("shoppingcart/default.cfm") !== -1){
+				thisurl = thisurl.substring(0, thisurl.indexOf('?'));
+			}
+
 			window.location=thisurl;
 		}
 		
@@ -133,11 +135,7 @@ function openInvestWin(url) {
 <script type="text/javascript" language="javascript" src="//www.footlocker.com/ns/common/js/responseLiveChat.js"></script>
 
 	<script type="text/javascript" src="/combine?type=js&amp;files=shared/endeca/js/bsn.AutoSuggest_2.1.3.js" charset="utf-8"></script>
-    <style type="text/css">
-		@import url("http://www.footlocker.com/shared/endeca/css/autosuggest_inquisitor.css");
-		@import url("http://www.footlocker.com/endeca/autosuggest.css");
-	</style>
-        
+	    
 	<ignoreurlreformat>
     <script type="text/javascript">
 		var advancedSearchShouldSubmit = false;
@@ -171,9 +169,33 @@ function openInvestWin(url) {
     </script>
 	</ignoreurlreformat>
 
+	
+		<script language="javascript">
+			function clickSearch(fieldObj) {
+				fieldObj.value="";
+				fieldObj.style.color="black";
+			}
+			
+		</script>
+		
+<script language="javascript1.1" src="//libs.coremetrics.com/eluminate.js" type="text/javascript"></script>
 
+<script language="javascript1.1" src="http://www.footlocker.com/coremetrics/cmdatatagutils.js" type="text/javascript"></script>
 
-<style type="text/css">
+	
+                	<style type="text/css">
+				@import '/combine?type=css&files=/css/typography.css,/css/style.css,/css/default_template.css,shared/storepickup/style.css,/storepickup/style.css,shared/wishlist/wl_sharedWishList.css,shared/myAccount/login.css,shared/endeca/css/autosuggest_inquisitor.css,/endeca/autosuggest.css';
+                	</style>
+		
+                	<style type="text/css">
+				
+	.hideUntilLoaded {
+		display: none;
+	}
+	.showUntilLoaded {
+		display: block;
+	}
+
 	div.autosuggest ul em {
 		color: #c00;
 	}
@@ -197,27 +219,16 @@ function openInvestWin(url) {
 		font-size: 14px;
 		font-weight: normal;
 	}	
-</style> 
-	
-		<script language="javascript">
-			function clickSearch(fieldObj) {
-				fieldObj.value="";
-				fieldObj.style.color="black";
-			}
-			
-		</script>
+
+                	</style>
 		
-<script language="javascript1.1" src="//libs.coremetrics.com/eluminate.js" type="text/javascript"></script>
-
-<script language="javascript1.1" src="http://www.footlocker.com/coremetrics/cmdatatagutils.js" type="text/javascript"></script>
-
-	
-                <style type="text/css">
-					@import 'http://www.footlocker.com/css/typography.css'; @import 'http://www.footlocker.com/css/style.css'; @import 'http://www.footlocker.com/css/default_template.css'; 
-                </style>
-            
-                <style type="text/css">
-					@import 'http://t.p.mybuys.com/css/mbstyles.css'; 
+                	<style type="text/css">
+				</style>
+<link rel="stylesheet" href="/images/common/css/global-styles.css">
+<script src="//cdn.optimizely.com/js/82719230.js"></script>
+<link rel="stylesheet" type="text/css" href="/ns/css/fl_master_combine_v7.3.css">
+<link rel="stylesheet" type="text/css" href="/ns/shadowbox/shadowbox.css">
+<style> @import 'http://t.p.mybuys.com/css/mbstyles.css'; 
 	.checkout_step {
 		height: 35px;
 		background-color: transparent;
@@ -237,8 +248,8 @@ function openInvestWin(url) {
 		background-image: url(http://www.footlocker.com/images/fl/checkout/header-receipt.gif);
 	}
 
-                </style>
-            
+                	</style>
+		
 <script language="javascript1.1" src="//libs.coremetrics.com/eluminate.js" type="text/javascript"></script>
 
 <script language="javascript1.1" src="http://www.footlocker.com/coremetrics/cmdatatagutils.js" type="text/javascript"></script>
@@ -267,22 +278,280 @@ function openInvestWin(url) {
     <meta name="description" content="Customer Service OtherServices  Privacy Policy">
 	<meta name="keywords" content="Customer Service, OtherServices , Privacy Policy">
 	
+<script type="text/javascript">
+	var ie6 = false;
+</script>
+
+<!--[if lt IE 7]>
+<script type="text/javascript">
+	ie6 = true;
+</script>
+
+
+
+	<script type="text/javascript" src="http://www.footlocker.com/shared/scripts/jquery.bgiframe.pack.js"></script>
+    
+
+<![endif]-->
+
+<script type="text/javascript">
+var bubble = function() {
 	
+		var	thisWidth = 250; // minimum width
+		var	thisHeight = 75; // minimum height
+	//	var thisWidth = 283; // minimum width
+	//	var thisHeight = 150; // minimum height
 	
-		
-		<link rel="stylesheet" type="text/css" href="/ns/css/fl_master_combine_v6.4.css?cd=0">
-<link rel="stylesheet" type="text/css" href="/ns/shadowbox/shadowbox.css">
-<!--script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"/></script-->
-<script type="text/javascript" language="javascript" src="/ns/common/js/shadowbox-jquery.js"></script>
-<script type="text/javascript" language="javascript">
-$(document).ready(function() {
-        $("#helpheader").append("<div class=\"chat-custserv-header-button\"><a href=\"#\" onClick=\"startChatAndCobrowse(gIChannel, gServer, gAttachedData, prefillValues, agentOnlyValues, bEnterOnQueuePage); return false;\"><img src=\"http://www.footlocker.com/images/fl/global/pixel.gif\" height=\"186\" width=\"254\" border=\"0\" /></a></div>");
-});
+	var content = null;
+	var wrapper = '<div id="bubbleContainer"><table id="bubble"><tr> <td class="top_left">&nbsp;</td> <td class="top_center" colspan="3">&nbsp;</td> <td class="top_right">&nbsp;</td></tr><tr> <td class="middle_left">&nbsp;</td> <td class="middle_center" colspan="3">&nbsp;</td> <td class="middle_right">&nbsp;</td></tr><tr> <td class="bottom_left">&nbsp;</td> <td class="bottom_center">&nbsp;</td> <td class="bottom_arrow">&nbsp;</td> <td class="bottom_center">&nbsp;</td> <td class="bottom_right">&nbsp;</td></tr></table></div>';
+	var mapping = new Object();
+	
+		mapping['billTextMessageMoreInfo'] = '<span class=mobile_opt_info>A text message will be sent to your phone. Please reply with &quot;YES&quot; to ensure you continue to receive the latest updates. You may unsubscribe from mobile offers at any time by texting &quot;<span class=call_out>FOOTSTOP</span>&quot; to <span class=call_out>562537</span>. Text &quot;<span class=call_out>HELP</span>&quot; to <span class=call_out>562537</span> for help.  4-8 messages per month.  Message & Data Rates may apply.</span>';
+		mapping['pickupTextMessageMoreInfo'] = '<span class=mobile_opt_info>A text message will be sent to your phone. Please reply with &quot;YES&quot; to ensure you continue to receive the latest updates. You may unsubscribe from mobile offers at any time by texting &quot;<span class=call_out>FOOTSTOP</span>&quot; to <span class=call_out>562537</span>. Text &quot;<span class=call_out>HELP</span>&quot; to <span class=call_out>562537</span> for help.  4-8 messages per month.  Message & Data Rates may apply.</span>';
+		mapping['billCountryNotListed'] = 'If your country is not listed, you will need to pay by Western Union QUICK Pay. Please email us or call Customer Service at <span id=phNum>1.715.261.9588</span> for further information on placing your order.';
+		mapping['shipCountryNotListed'] = 'If your country is not listed, you will need to pay by Western Union QUICK Pay. Please email us or call Customer Service at <span id=phNum>1.715.261.9588</span> for further information on placing your order.';
+		mapping['countryNotListed'] = 'If your country is not listed, you will need to pay by Western Union QUICK Pay. Please email us or call Customer Service at <span id=phNum>1.715.261.9588</span> for further information on placing your order.';
+		mapping['shipStreetAddrTooltip'] = 'Street addresses are required to ensure proper delivery for online orders. Orders sent to PO Boxes can only be sent via Standard delivery (5-6 Business days). Please allow up to 10 business days for delivery. If you do not have a street address (i.e. PO Box), please contact our Customer Service Department for assistance at <span id="phNum">1.800.991.6815</span>.';
+		mapping['promoCodeToolTip_0'] = 'If you have received a special promotional source code from an email, flyer, online banner, ad, etc., please enter it in this field (only one code valid per order).';
+		mapping['multiShipMoreInfo'] = 'If you would like to ship one order to multiple addresses, please contact our Customer Service Department at <span id="phNum">1.800.991.6815</span> immediately after placing your order on-line so that we may make the proper arrangements to ensure your packages are delivered.';
+	
+
+	return {
+		initializeMoreInfoLinks:function() {
+			for (id in mapping) {
+				if ($("#" + id).length > 0) 
+					$("#" + id).attr("href", "javascript:bubble.open('#" + id + "', '" + mapping[id] + "')");
+			}
+		},
+		open:function(selector, content, width, height) {
+			$("#bubbleContainer").remove();
+			
+			// abort if selector is not found
+			if ($(selector).length == 0) {
+				return;
+			}			
+			
+			if (width != null && width > thisWidth) thisWidth = width;
+			if (height != null && height > thisHeight) thisHeight = height;
+			
+			$("body").prepend(wrapper);
+			$("#bubbleContainer .middle_center").html(content);
+			$("#bubbleContainer").css({width: thisWidth, height: thisHeight});
+			
+			var targetOffset = $(selector).offset();
+			var targetWidth = $(selector).width();
+			//var targetHeight = $(selector).height();
+			var left = targetOffset.left + ((targetWidth - thisWidth) / 2);
+			var top = targetOffset.top - $("#bubble").height();
+			
+			$("#bubbleContainer").css({top: top, left: left});
+
+			// IE
+			if (!jQuery.support.leadingWhitespace) {
+				var bottom_center_width = Math.ceil((thisWidth - 44 - 20 - 20) / 2);
+				$("#bubbleContainer .bottom_center").css({width: bottom_center_width});
+			}
+			
+			$(document).bind("click", bubble.close);
+			if (ie6) $("#bubbleContainer").bgiframe();
+		},
+		close:function() {
+			//$(document).unbind("click");
+			$("#bubbleContainer").remove();
+		}
+	}
+}();
+
+$(document).ready(function() { bubble.initializeMoreInfoLinks(); });
+</script>
+
+
+<script type="text/javascript">
+	var borderImages = new Object();
+	borderImages.top_left = new Image();
+	borderImages.top_left.src = "http://www.footlocker.com/images/fl/new_checkout/bubble/top_left.png";
+	borderImages.top_right = new Image();
+	borderImages.top_right.src = "http://www.footlocker.com/images/fl/new_checkout/bubble/top_right.png";
+	borderImages.top_center = new Image();
+	borderImages.top_center.src = "http://www.footlocker.com/images/fl/new_checkout/bubble/top_center.png";
+	borderImages.middle_left = new Image();
+	borderImages.middle_left.src = "http://www.footlocker.com/images/fl/new_checkout/bubble/middle_left.png";
+	borderImages.middle_right = new Image();
+	borderImages.middle_right.src = "http://www.footlocker.com/images/fl/new_checkout/bubble/middle_right.png";
+	borderImages.bottom_left = new Image();
+	borderImages.bottom_left.src = "http://www.footlocker.com/images/fl/new_checkout/bubble/bottom_left.png";
+	borderImages.bottom_right = new Image();
+	borderImages.bottom_right.src = "http://www.footlocker.com/images/fl/new_checkout/bubble/bottom_right.png";
+	borderImages.bottom_center = new Image();
+	borderImages.bottom_center.src = "http://www.footlocker.com/images/fl/new_checkout/bubble/bottom_center.png";
+	borderImages.bottom_arrow = new Image();
+	borderImages.bottom_arrow.src = "http://www.footlocker.com/images/fl/new_checkout/bubble/bottom_arrow.png";	
 </script>
 
 <style type="text/css">
-body {background-color:#000 !important}
+#bubbleContainer {
+	position: absolute;
+	z-index: 9999;
+}
+
+#bubble {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	border-collapse: collapse;
+}
+
+#bubble td {
+	padding: 0;
+}
+
+#bubble td.top_left {
+	background: transparent url(http://www.footlocker.com/images/fl/new_checkout/bubble/top_left.png) top right no-repeat;
+	width: 20px;	
+	height: 20px;
+}
+
+#bubble td.top_right {
+	background: transparent url(http://www.footlocker.com/images/fl/new_checkout/bubble/top_right.png) top left no-repeat;
+	width: 20px;
+	height: 20px;
+}
+
+#bubble td.top_center {
+	background: transparent url(http://www.footlocker.com/images/fl/new_checkout/bubble/top_center.png) top left repeat-x;
+	height: 20px;
+}
+
+#bubble td.middle_left {
+	background: transparent url(http://www.footlocker.com/images/fl/new_checkout/bubble/middle_left.png) top right repeat-y;
+	width: 20px;
+}
+
+#bubble td.middle_right {
+	background: transparent url(http://www.footlocker.com/images/fl/new_checkout/bubble/middle_right.png) top left repeat-y;
+	width: 20px;
+}
+
+#bubble td.middle_center {
+	background-color: white;
+	text-align: left;
+}
+
+#bubble td.bottom_left {
+	background: transparent url(http://www.footlocker.com/images/fl/new_checkout/bubble/bottom_left.png) top right no-repeat;
+	width: 20px;
+	height: 44px;	
+}
+
+#bubble td.bottom_right {
+	background: transparent url(http://www.footlocker.com/images/fl/new_checkout/bubble/bottom_right.png) top left no-repeat;
+	width: 20px;
+	height: 44px;	
+}
+
+#bubble td.bottom_center {
+	background: transparent url(http://www.footlocker.com/images/fl/new_checkout/bubble/bottom_center.png) top left repeat-x;
+	height: 44px;	
+}
+
+#bubble td.bottom_arrow {
+	background: transparent url(http://www.footlocker.com/images/fl/new_checkout/bubble/bottom_arrow.png) top right no-repeat;
+	width: 44px;
+	#width: 42px;
+	height: 44px;
+}
+
 </style>
+
+<!--[if lt IE 7]>
+
+<script type="text/javascript">
+	borderImages = new Object();
+	borderImages.top_left = new Image();
+	borderImages.top_left.src = "http://www.footlocker.com/images/fl/new_checkout/bubble/top_left.gif";
+	borderImages.top_right = new Image();
+	borderImages.top_right.src = "http://www.footlocker.com/images/fl/new_checkout/bubble/top_right.gif";
+	borderImages.top_center = new Image();
+	borderImages.top_center.src = "http://www.footlocker.com/images/fl/new_checkout/bubble/top_center.gif";
+	borderImages.middle_left = new Image();
+	borderImages.middle_left.src = "http://www.footlocker.com/images/fl/new_checkout/bubble/middle_left.gif";
+	borderImages.middle_right = new Image();
+	borderImages.middle_right.src = "http://www.footlocker.com/images/fl/new_checkout/bubble/middle_right.gif";
+	borderImages.bottom_left = new Image();
+	borderImages.bottom_left.src = "http://www.footlocker.com/images/fl/new_checkout/bubble/bottom_left.gif";
+	borderImages.bottom_right = new Image();
+	borderImages.bottom_right.src = "http://www.footlocker.com/images/fl/new_checkout/bubble/bottom_right.gif";
+	borderImages.bottom_center = new Image();
+	borderImages.bottom_center.src = "http://www.footlocker.com/images/fl/new_checkout/bubble/bottom_center.gif";
+	borderImages.bottom_arrow = new Image();
+	borderImages.bottom_arrow.src = "http://www.footlocker.com/images/fl/new_checkout/bubble/bottom_arrow.gif";	
+</script>
+
+<style type="text/css">
+#bubble td.top_left {
+	background: transparent url(http://www.footlocker.com/images/fl/new_checkout/bubble/top_left.gif) top right no-repeat;
+}
+
+#bubble td.top_right {
+	background: transparent url(http://www.footlocker.com/images/fl/new_checkout/bubble/top_right.gif) top left no-repeat;
+}
+
+#bubble td.top_center {
+	background: transparent url(http://www.footlocker.com/images/fl/new_checkout/bubble/top_center.gif) top left repeat-x;
+}
+
+#bubble td.middle_left {
+	background: transparent url(http://www.footlocker.com/images/fl/new_checkout/bubble/middle_left.gif) top right repeat-y;
+}
+
+#bubble td.middle_right {
+	background: transparent url(http://www.footlocker.com/images/fl/new_checkout/bubble/middle_right.gif) top left repeat-y;
+}
+
+#bubble td.bottom_left {
+	background: transparent url(http://www.footlocker.com/images/fl/new_checkout/bubble/bottom_left.gif) top right no-repeat;	
+}
+
+#bubble td.bottom_right {
+	background: transparent url(http://www.footlocker.com/images/fl/new_checkout/bubble/bottom_right.gif) top left no-repeat;
+}
+
+#bubble td.bottom_center {
+	background: transparent url(http://www.footlocker.com/images/fl/new_checkout/bubble/bottom_center.gif) top left repeat-x;
+}
+
+#bubble td.bottom_arrow {
+	background: transparent url(http://www.footlocker.com/images/fl/new_checkout/bubble/bottom_arrow.gif) top right no-repeat;
+}
+</style>
+<![endif]-->
+
+	
+	
+		
+		<script type="text/javascript" language="javascript" src="/ns/common/js/shadowbox-jquery.js"></script>
+<script type="text/javascript" language="javascript">
+$(document).ready(function() {
+        $("#helpheader").append("<div class=\"chat-custserv-header-button\"><a href=\"#\" onClick=\"startChatAndCobrowse(gIChannel, gServer, gAttachedData, prefillValues, agentOnlyValues, bEnterOnQueuePage); return false;\"><img src=\"http://www.footlocker.com/images/fl/global/pixel.gif\" height=\"186\" width=\"254\" border=\"0\" /></a></div>");
+		var siteprotocol = window.location.protocol;
+		var fbLoad = '<div id="fb_iframe"><iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Ffootlocker&amp;send=false&amp;layout=button_count&amp;width=90&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:90px; height:21px;" allowTransparency="true"></iframe></div><a href="http://www.instagram.com/footlocker" title="Foot Locker Instagram Page" target="_blank"><img src="http://www.footlocker.com/images/fl/global/pixel.gif" height="30" width="30" border="0" class="bg-sprite icon_inst" /></a><a href="http://www.youtube.com/footlocker" title="Foot Locker YouTube Channel" target="_blank" ><img src="http://www.footlocker.com/images/fl/global/pixel.gif" height="30" width="30" border="0" class="bg-sprite icon_yt" /></a><a href="http://www.twitter.com/footlocker" title="Foot Locker Twitter Page" target="_blank"><img src="http://www.footlocker.com/images/fl/global/pixel.gif" height="30" width="30" border="0" class="bg-sprite icon_twit" /></a>';
+		if (siteprotocol == 'http:'){
+		$('#social-tab').empty();
+		$('#social-tab').append(fbLoad);
+	}
+});
+</script>
+
+<!--BEGIN QUALTRICS SITE INTERCEPT-->
+<script type="text/javascript">
+(function(){var g=function(e,h,f,g){
+this.get=function(a){for(var a=a+"=",c=document.cookie.split(";"),b=0,e=c.length;b<e;b++){for(var d=c[b];" "==d.charAt(0);)d=d.substring(1,d.length);if(0==d.indexOf(a))return d.substring(a.length,d.length)}return null};
+this.set=function(a,c){var b="",b=new Date;b.setTime(b.getTime()+6048E5);b="; expires="+b.toGMTString();document.cookie=a+"="+c+b+"; path=/; "};
+this.check=function(){var a=this.get(f);if(a)a=a.split(":");else if(100!=e)"v"==h&&(e=Math.random()>=e/100?0:100),a=[h,e,0],this.set(f,a.join(":"));else return!0;var c=a[1];if(100==c)return!0;switch(a[0]){case "v":return!1;case "r":return c=a[2]%Math.floor(100/c),a[2]++,this.set(f,a.join(":")),!c}return!0};
+this.go=function(){if(this.check()){var a=document.createElement("script");a.type="text/javascript";a.src=g+ "&t=" + (new Date()).getTime();document.body&&document.body.appendChild(a)}};
+this.start=function(){var a=this;window.addEventListener?window.addEventListener("load",function(){a.go()},!1):window.attachEvent&&window.attachEvent("onload",function(){a.go()})}};
+try{(new g(100,"r","QSI_S_ZN_bNSXR5xQbABThNr","//zn_bnsxr5xqbabthnr-footlockercominc.siteintercept.qualtrics.com/WRSiteInterceptEngine/?Q_ZID=ZN_bNSXR5xQbABThNr&Q_LOC="+encodeURIComponent(window.location.href))).start()}catch(i){}})();
+</script><div id="ZN_bNSXR5xQbABThNr"><!--DO NOT REMOVE-CONTENTS PLACED HERE--></div>
+<!--END SITE INTERCEPT-->
 
 <noscript>
 <div class="noscript_error">
@@ -293,7 +562,7 @@ body {background-color:#000 !important}
 
 <!--[if lt IE 7]>
 <style type="text/css">
-#ie-six {
+##ie-six {
 	width:100%;
 	height:auto;
 	font-family:Arial, Helvetica, sans-serif;
@@ -307,27 +576,27 @@ body {background-color:#000 !important}
 <div id="ie-six">
 	<img src="/ns/common/ie6-banner/IE6upgrade-banner.jpg" alt="Internet Explorer Upgrade Options" width="966" height="100" border="0" usemap="#banner" />
     <map id="banner" name="banner">
-      <area shape="rect" coords="469,7,573,92" target="_blank" href="http://www.google.com/chrome/?cm_sp=Header-_-IE6Upgrade-_-Chrome" alt="Download Google Chrome" title="Download Google Chrome" />
-      <area shape="rect" coords="600,4,693,93" target="_blank" href="http://www.mozilla.com/en-US/firefox/fx/?cm_sp=Header-_-IE6Upgrade-_-Firefox" alt="Download Firefox" title="Download Firefox" />
-      <area shape="rect" coords="730,4,810,94" target="_blank" href="http://www.apple.com/safari/?cm_sp=Header-_-IE6Upgrade-_-Safari" alt="Download Safari" title="Download Safari" />
-      <area shape="rect" coords="850,6,941,93" target="_blank" href="http://windows.microsoft.com/en-US/internet-explorer/products/ie/home/?cm_sp=Header-_-IE6Upgrade-_-IE" alt="Download a Newer Internet Explorer" title="Download a Newer Internet Explorer" />
+      <area shape="rect" coords="469,7,573,92" target="_blank" href="http://www.google.com/chrome/" manual_cm_sp="Header-_-IE6Upgrade-_-Chrome" alt="Download Google Chrome" title="Download Google Chrome" />
+      </IgnoreURLReformat><area shape="rect" coords="600,4,693,93" target="_blank" href="http://www.mozilla.com/en-US/firefox/fx/" manual_cm_sp="Header-_-IE6Upgrade-_-Firefox" alt="Download Firefox" title="Download Firefox" /></IgnoreURLReformat>
+      <area shape="rect" coords="730,4,810,94" target="_blank" href="http://www.apple.com/safari/" manual_cm_sp="Header-_-IE6Upgrade-_-Safari" alt="Download Safari" title="Download Safari" />
+      <area shape="rect" coords="850,6,941,93" target="_blank" href="http://windows.microsoft.com/en-US/internet-explorer/products/ie/home/" manual_cm_sp="Header-_-IE6Upgrade-_-IE" alt="Download a Newer Internet Explorer" title="Download a Newer Internet Explorer" />
     </map>
 </div>
 <![endif]-->
 
 <!-- start bg div -->
-<div style="background-image: url(/ns/header/images/new-fl-bg.jpg);background-position:center top;background-repeat:no-repeat;height:608px;">
+<div id="bg-div">
 
 <!-- START TOP FIXED BAR -->
 
-<script type="text/javascript" src="/ns/header/js/header-ui.js?cd=0"></script>
-<div id="toolbar-space"> </div>
+<script type="text/javascript" src="/ns/header/js/header-ui-v1.2.js"></script>
 <div id="fixed-head-wrapper">
 	<div id="inner-fixed">
     	<div id="social-tab">
-        	<a href="http://www.facebook.com/footlocker" title="Foot Locker Facebook" target="_blank"><img src="http://www.footlocker.com/images/fl/global/pixel.gif" height="25" width="25" border="0" class="bg-sprite icon_fb"></a>
             <div id="fb_iframe"><iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Ffootlocker&amp;send=false&amp;layout=button_count&amp;width=90&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:90px; height:21px;" allowtransparency="true"></iframe></div>
-            <a href="http://www.youtube.com/footlocker" title="Foot Locker YouTube Channel" target="_blank"><img src="http://www.footlocker.com/images/fl/global/pixel.gif" height="25" width="25" border="0" class="bg-sprite icon_yt"></a>
+            <a href="http://www.instagram.com/footlocker" title="Foot Locker Instagram Page" target="_blank"><img src="http://www.footlocker.com/images/fl/global/pixel.gif" height="30" width="30" border="0" class="bg-sprite icon_inst"></a>
+            <a href="http://www.youtube.com/footlocker" title="Foot Locker YouTube Channel" target="_blank"><img src="http://www.footlocker.com/images/fl/global/pixel.gif" height="30" width="30" border="0" class="bg-sprite icon_yt"></a>
+            <a href="http://www.twitter.com/footlocker" title="Foot Locker Twitter Page" target="_blank"><img src="http://www.footlocker.com/images/fl/global/pixel.gif" height="30" width="30" border="0" class="bg-sprite icon_twit"></a>
         </div>
         <div id="phone-tab" class="bg-sprite icon_phone">
         	<p>1.800.991.6815</p>
@@ -347,13 +616,15 @@ body {background-color:#000 !important}
         <!-- start shipping details -->
             <div id="shipping-txt" style="display:none">
             <div class="global-banner">
-                <h2>FREE SHIPPING ON OVER 10,000 ITEMS!*</h2>
-                <p>
-                    We offer FREE SHIPPING on thousands of items every day! Look for the "Free Shipping" indicator on all eligible merchandise. Shipping will automatically be deducted at checkout.
-                </p>
-                <p>
-                    *Please note: This offer is valid only on eligible items, and does not apply to in-store orders. This offer is limited to standard delivery within the 48 contiguous US states and APO/FPO addresses. Excludes bulk orders and drop ships. Entire order must ship to a single address. Customer is responsible for shipping costs on returned merchandise. May not be used toward purchase of Gift Cards or team orders. Promotion may be modified or terminated at any time. Certain restrictions and exclusions may apply.
-                </p>
+                <h2>Free standard shipping on over 10,000 items* or all orders over $75.** Guaranteed to Fit***</h2>
+                <p> Free standard shipping on over 10,000 items.*</p>
+                <p>* Free shipping offer valid only on eligible items. Eligible items will indicate "this item ships FREE" in blue type on the product's description page. Items in your cart that are not eligible are subject to shipping charges. Shipping will be automatically deducted at checkout. Valid only at footlocker.com. Offer is limited to standard delivery within the 48 contiguous United States and APO/FPO addresses. Excludes bulk orders and drop ships. Entire order must ship to a single address. Does not apply to prior purchases or open orders and cannot be combined with any other offer. Customer is responsible for shipping costs on returned merchandise. May not be used toward purchase of gift cards or team orders. Promotion may be modified or terminated at any time. Certain restrictions and exclusions may apply.</p>
+                <p>Free standard shipping on orders over $75.** </p>
+                <p>**Use promotion code IPFL2R52 at checkout. Promotion/source code box is located in step 4 of checkout. Order value must total $75 or more before services, taxes, shipping and handling. Valid online at footlocker.com, by phone or mail. Offer is limited to standard ground delivery within the 48 contiguous United States and APO/FPO addresses. Excludes bulk orders and drop ships. Entire order must be shipped to a single address. Does not apply to prior purchases or open orders and cannot be combined with any other offer. Customer is responsible for shipping costs on returned merchandise. May not be used toward purchase of gift cards or team orders. Promotion may be modified or terminated at any time. Certain restrictions and exclusions may apply.</p>
+                <p>Guaranteed to Fit!*** </p>
+                <p>*** Free shipping on exchanges is limited to standard delivery within the 48 contiguous United States and APO/FPO addresses. Excludes bulk orders and drop ships. If express or overnight shipping is requested you will be responsible for the full shipping cost. Entire order must ship to a single address. Standard return policy applies (details). Returned/exchanged items must be repackaged in the original boxes with all labels, and all products being returned or exchanged must be in new condition. All orders come with a prepaid return-shipping label which must be affixed to the package and shipped back within 60 days of receipt. Make sure to specify whether the item is being exchanged or a refund is being requested. Items not being exchanged will be refunded the full price minus a $6.99 restocking fee. Promotion may be modified or terminated at any time. Other restrictions and exclusions may apply.</p>
+                <p>*** Items may be exchanged or returned to any Foot Locker store nationwide. Shipping invoice must accompany any returns/exchanges. Standard return policy applies (details). Returned/exchanged items must be repackaged in the original boxes with all labels, and all products being returned or exchanged must be in new condition. Items will be refunded the full price paid minus shipping and handling fees paid on original order. Certain restrictions and exclusions may apply.</p>
+                <p>Click <a href="http://www.footlocker.com/fit">here</a> for details on our Fit Guarantee.</p>
             </div>
             </div>
         <!-- end shipping details -->
@@ -380,7 +651,7 @@ body {background-color:#000 !important}
             	<a href="https://www.footlocker.com/wishlist/" rel="nofollow" title="My Wish List">My Wish List</a>
             </div>
             <div id="drop-inner" class="bg-pattern">
-            	<a href="https://www.footlocker.com/account/default/" title="My Account" rel="nofollow"><strong><span class="yellow">VIP</span> CLUB</strong></a>
+            	<a href="http://www.footlocker.com/vip/" title="VIP Club" rel="nofollow"><strong><span class="yellow">VIP</span> CLUB</strong></a>
             </div>
         </div><!-- END DROPDOWN MY ACCOUNT -->
         
@@ -405,12 +676,13 @@ body {background-color:#000 !important}
             	<a href="http://www.footlocker.com/customerserv/help:returnsExchanges/" rel="nofollow" title="Returns and Exchanges">Returns and Exchanges</a>
             </div>
             <div id="drop-inner" class="bg-pattern">
-            	<a href="http://www.footlocker.com/feedback/" rel="nofollow" title="Site Feedback">Site Feedback</a>
+            	<a href="https://www.footlocker.com/feedback/" rel="nofollow" title="Site Feedback">Site Feedback</a>
             </div>
              </div><!-- END DROPDOWN HELP -->
     </div>
 </div><!-- END FIXED TOP BAR -->
 
+<div id="toolbar-space"> </div>
 
 
   <!--- START HEADER --->
@@ -425,21 +697,21 @@ body {background-color:#000 !important}
       
     <!-- START SHIPPING DETAILS -->
     <div id="shipping-tab">
-         <a href="http://www.footlocker.com/searchresults/?N=1877&amp;Ns=P_TopSalesAmount|1&amp;cm_SORT=Best+Sellers" title="Free Shipping On Over 10,000 Items"><span class="yellow bold">FREE SHIPPING</span> on over <br> 10,000 Items!*</a>
-         <a class="ship_detail_link" href="#shipping-txt" rel="shadowbox;width=540;height=200" target="_blank" title="Free Shipping Details">DETAILS</a>
-         <span id="ship-logo" class="bg-sprite icon_ship"></span>    
+         <a href="http://www.footlocker.com/searchresults/?N=1877&amp;Ns=P_TopSalesAmount|1&amp;cm_SORT=Best+Sellers" title="Free Standard Shipping On Over 10,000 Items"><span class="yellow bold">FREE SHIPPING</span> on over 10,000 Items<br>and all orders over $75. <span class="small_font">Use Code <span class="yellow bold">IPFL2R52</span></span><br>Guaranteed to Fit!*</a>
+         <a class="ship_detail_link" href="#shipping-txt" rel="shadowbox;width=540;height=800" target="_blank" title="Free Shipping Details">DETAILS</a>
+         <!--<span id="ship-logo" class="bg-sprite icon_ship"></span> -->   
      </div>
   	
     <!-- START SEARCH AREA -->
     <div id="search-wrapper" class="bg-sprite icon_search_bg">	
-        	<p>What's <span class="red">trending:</span>
-            	<a href="http://www.footlocker.com/_-_/keyword-nike+hyperposite?cm_sp=Header-_-Trending-_-retros&amp;cm=TnDdHyper" title="Nike Air Max Hyperposite">Hyperposite<span id="trending-arrow" class="bg-sprite icon_arrow"></span></a>
-                <a href="http://www.footlocker.com/_-_/keyword-jordan+son+of+mars?Ns=P_StyleSalePrice|1&amp;cm_SORT=Price+%28High+to+Low%29/?cm_sp=Header-_-Trending-_-Sonofmars&amp;cm=TnDdSonofmars" title="Jordan Son of Mars"> Son of Mars <span id="trending-arrow" class="bg-sprite icon_arrow"></span></a>
-                <a href="http://www.footlocker.com/approved/?cm_sp=Header-_-Trending-_-Melo5&amp;cm=TnDdMelo5" title="Melo 5"> Melo 5 <span id="trending-arrow" class="bg-sprite icon_arrow"></span></a>
+        	 <p>What's <span class="red">trending:</span>
+            	<a href="http://www.footlocker.com/_-_/keyword-nike+kd+v?Ns=P_NewArrivalDateEpoch|1&amp;cm_SORT=New+Arrivals" manual_cm_sp="Header-_-Trending-_-KDV" title="Nike KD V">Nike KD V<span id="trending-arrow" class="bg-sprite icon_arrow"></span></a>
+               <a href="http://www.footlocker.com/_-_/keyword-elite+socks?Ns=P_TopSalesAmount|1&amp;cm_SORT=Best+Sellers" manual_cm_sp="Header-_-Trending-_-EliteSocks" title="Elite Socks">Elite Socks<span id="trending-arrow" class="bg-sprite icon_arrow"></span></a>
+                <a href="http://www.footlocker.com/_-_/keyword-nike+lebron?Ns=P_NewArrivalDateEpoch|1&amp;cm_SORT=New+Arrivals" manual_cm_sp="Header-_-Trending-_-lebronx" title="Nike Lebron"> Lebron<span id="trending-arrow" class="bg-sprite icon_arrow"></span></a>
             </p>
         
         <div id="searchform">
-            <form name="keywordSearch" action="/searchresults/" method="GET" id="searchform">
+            <form name="keywordSearch" action="javascript:void(0);" method="" id="searchform">
                 <input type="hidden" name="search" value="k">
                 <input type="text" id="reduce_input_text_height" name="keyword" size="40" maxlength="40" value="What are you searching for?" onfocus="this.value = &quot;&quot;;"><a href="javascript:submitKeywordSearch();"><img id="sbmt-btn" class="bg-sprite submitbutton" src="http://www.footlocker.com/images/fl/global/pixel.gif" width="39" height="32" alt="GO" title="GO" vspace="1" border="0" align="absmiddle"></a>
               </form>
@@ -511,15 +783,15 @@ setNDDDelay(0);
 	<div onmouseover="openTab(this, 'navButtonNew');" onmouseout="closeTab(this);">
         <ul>
             <li>
-                <div class="navBtn navButtonNew"><a href="http://www.footlocker.com/_-_/N-1z141xe?Ns=P_TopSalesAmount|1&amp;cm_SORT=Best+Sellers&amp;cm_sp=TopNav-_-NewArrivals-_-Newall&amp;cm=TnDdNewArrivals" title="New Arrivals"><span class="new-arr">New Arrivals</span></a></div>
+                <div class="navBtn navButtonNew"><a href="http://www.footlocker.com/_-_/N-1z141xe?Ns=P_TopSalesAmount|1&amp;cm_SORT=Best+Sellers" manual_cm_sp="TopNav-_-NewArrivals-_-Newall" title="New Arrivals"><span class="new-arr">New Arrivals</span></a></div>
                 <div class="sticker_menu menu_store">
                     <div class="dd_top core_width_store">&nbsp;</div>
                     <div class="clear"></div>
                     <div class="sticker_menu_inner core_width_store core_height_store">
                         <div class="dd_column_d di-right-8">
-                        	<div class="m-title"><a href="http://www.footlocker.com/_-_/N-1z141xe/keyword-shoes?Ns=P_TopSalesAmount|1&amp;cm_SORT=Best+Sellers&amp;cm_sp=TopNav-_-NewArrivals-_-Newshoes&amp;cm=TnDdNewShoes" title="New Shoes">New Shoes</a></div>
-                            <div class="m-title"><a href="http://www.footlocker.com/_-_/N-1z141xe/keyword-clothing?Ns=P_TopSalesAmount|1&amp;cm_SORT=Best+Sellers?cm_REF=New+Arrivals&amp;cm_sp=TopNav-_-NewArrivals-_-Newclothing&amp;cm=TnDdNewClothing" title="New Clothing">New Clothing</a></div>
-                            <div class="m-title"><a href="http://www.footlocker.com/_-_/N-1z141xe/keyword-accessories?Ns=P_TopSalesAmount|1&amp;cm_SORT=Best+Sellers&amp;cm_sp=TopNav-_-NewArrivals-_-Newaccess&amp;cm=TnDdNewAccess" title="New Accessories">New Accessories</a></div>
+                        	<div class="m-title"><a href="http://www.footlocker.com/Shoes/_-_/N-rjZ1z141xe" manual_cm_sp="TopNav-_-NewArrivals-_-Newshoes" title="New Shoes">New Shoes</a></div>
+                            <div class="m-title"><a href="http://www.footlocker.com/Clothing/_-_/N-rkZ1z141xe" manual_cm_sp="TopNav-_-NewArrivals-_-Newclothing" title="New Clothing">New Clothing</a></div>
+                            <div class="m-title"><a href="http://www.footlocker.com/Accessories/_-_/N-rlZ1z141xe" manual_cm_sp="TopNav-_-NewArrivals-_-Newaccess" title="New Accessories">New Accessories</a></div>
                         </div>
                     </div><!-- close sticker_menu_inner -->
                 </div><!-- close sticker_menu -->
@@ -534,7 +806,7 @@ setNDDDelay(0);
     <div onmouseover="openTab(this, 'navButtonMens');" onmouseout="closeTab(this);">
         <ul>
             <li>
-                <div class="navBtn navButtonMens"><a href="http://www.footlocker.com/mens/category/?cm_sp=TopNav-_-Mens-_-Mensall&amp;cm=TnDdMensAllBtn" title="Men's Shoes, Clothing"><span class="mens-txt">Men's</span></a></div>
+                <div class="navBtn navButtonMens"><a href="http://www.footlocker.com/Mens/_-_/N-24" manual_cm_sp="TopNav-_-Mens-_-Mensall" title="Men's Shoes, Clothing"><span class="mens-txt">Men's</span></a></div>
                 <div class="sticker_menu menu_mens">
                     <div class="dd_top core_width_mens">&nbsp;</div>
                     <div class="clear"></div>
@@ -542,54 +814,53 @@ setNDDDelay(0);
                         <!-- <div class="m-head"><a href="#" title="Mens | Foot Locker">Shop All Mens</a></div> -->
                         <div class="dd_column di-right-1">
                             
-                            <div class="m-title"><a href="http://www.footlocker.com/_-_/keyword-mens+shoes?cm_sp=TopNav-_-Mens-_-Mensshoes&amp;cm=TnDdMensShoes" title="Men's Shoes">Men's Shoes</a></div>
-                            <div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-mens+basketball+shoes?cm_sp=TopNav-_-Mens-_-Mensbasketballshoes&amp;cm=TnDdMensBball" title="Men's Basketball Shoes">Basketball</a></div>
-                            <div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-mens+boots?cm_sp=TopNav-_-Mens-_-Mensboots&amp;cm=TnDdMensboots" title="Men's Boots">Boots</a></div>
-                            <div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-mens+casual+shoes?cm_sp=TopNav-_-Mens-_-Menscasualshoes&amp;cm=TnDdMensCasual" title="Men's Casual Shoes">Casual</a></div>
-                            <div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-mens+running+shoes?cm_sp=TopNav-_-Mens-_-Mensrunshoes&amp;cm=TnDdMensRun" title="Men's Running Shoes">Running</a></div>                        
-                            <div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-mens+sandals?cm_sp=TopNav-_-Mens-_-Menssandals&amp;cm=TnDdMensSandals" title="Men's Sandals">Sandals</a></div>
-                            <div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-mens+training+shoes?cm_sp=TopNav-_-Mens-_-Menstrainshoes&amp;cm=TnDdMensTrain" title="Men's Training Shoes">Training</a></div>
-                            <div class="m-item"><a href="http://www.footlocker.com/_-_/N-1z141xe/keyword-mens+shoes?cm_REF=New+Arrivals&amp;cm_sp=TopNav-_-Mens-_-Mensnewshoes&amp;cm=TnDdMensNewShoes" title="Men's New Shoes">New Arrivals</a></div>
-                            <div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-sale+mens+shoes?cm_sp=TopNav-_-Mens-_-Menssaleshoes&amp;cm=TnDdMensSaleShoes" title="Sale Men's Shoes">Sale</a></div>
+                            <div class="m-title"><a href="http://www.footlocker.com/Mens/Shoes/_-_/N-24Zrj" manual_cm_sp="TopNav-_-Mens-_-Mensshoes" title="Men's Shoes">Men's Shoes</a></div>
+                            <div class="m-item"><a href="http://www.footlocker.com/Mens/Basketball/Shoes/_-_/N-24ZfmZrj" manual_cm_sp="TopNav-_-Mens-_-Mensbasketballshoes" title="Men's Basketball Shoes">Basketball</a></div>
+                            <div class="m-item"><a href="http://www.footlocker.com/Mens/Boots/_-_/N-24Zhb" manual_cm_sp="TopNav-_-Mens-_-Mensboots" title="Men's Boots">Boots</a></div>
+                            <div class="m-item"><a href="http://www.footlocker.com/Mens/Casual/Shoes/_-_/N-24Z1h5Zrj" manual_cm_sp="TopNav-_-Mens-_-Menscasualshoes" title="Men's Casual Shoes">Casual</a></div>
+                            <div class="m-item"><a href="http://www.footlocker.com/Mens/Running/Shoes/_-_/N-24Zf9Zrj" manual_cm_sp="TopNav-_-Mens-_-Mensrunshoes" title="Men's Running Shoes">Running</a></div>                        
+                            <div class="m-item"><a href="http://www.footlocker.com/Mens/Sandals/_-_/N-24Zi3" manual_cm_sp="TopNav-_-Mens-_-Menssandals" title="Men's Sandals">Sandals</a></div>
+                            <div class="m-item"><a href="http://www.footlocker.com/Mens/Training/Shoes/_-_/N-24ZfhZrj" manual_cm_sp="TopNav-_-Mens-_-Menstrainshoes" title="Men's Training Shoes">Training</a></div>
+                            <div class="m-item"><a href="http://www.footlocker.com/Mens/Shoes/_-_/N-24ZrjZ1z141xe" manual_cm_sp="TopNav-_-Mens-_-Mensnewshoes" title="Men's New Shoes">New Arrivals</a></div>
+                            <div class="m-item"><a href="http://www.footlocker.com/Sale/Mens/Shoes/_-_/N-1z141ydZ24Zrj" manual_cm_sp="TopNav-_-Mens-_-Menssaleshoes" title="Sale Men's Shoes">Sale</a></div>
                             
                             
                             <div class="item_spacer"></div>
                             
-                            <div class="m-title"><a href="http://www.footlocker.com/_-_/keyword-mens+clothing?cm_sp=TopNav-_-Mens-_-Mensclothing&amp;cm=TnDdMensClothing" title="Men's Clothing">Men's Clothing</a></div>
-                            <div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-mens+hats?cm_sp=TopNav-_-Mens-_-Menshats&amp;cm=TnDdMensHats" title="Men's Hats">Hats</a></div>
-                            <div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-mens+hoodies?cm_sp=TopNav-_-Mens-_-Menshoodies&amp;cm=TnDdMensHoodies" title="Men's Hoodies">Hoodies</a></div>
-                            <div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-mens+jackets?cm_sp=TopNav-_-Mens-_-Mensjackets&amp;cm=TnDdMensJackets" title="Men's Jackets">Jackets</a></div>                            
-                            <div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-mens+shirts?cm_sp=TopNav-_-Mens-_-Mensshirts&amp;cm=TnDdMensShirts" title="Men's Shirts">Shirts</a></div>
-                            <div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-mens+shorts?cm_sp=TopNav-_-Mens-_-Mensshorts&amp;cm=TnDdMensShorts" title="Men's Shorts">Shorts</a></div>
-                            <div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-mens+training+clothing?cm_sp=TopNav-_-Mens-_-Menstraincl&amp;cm=TnDdMensTrainCl" title="Men's Training">Training</a></div>
-                            <div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-mens+t+shirts?cm_sp=TopNav-_-Mens-_-Menstees&amp;cm=TnDdMensTees" title="Men's T-shirts">T-Shirts</a></div>
-                            <div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-mens+fan+gear?cm_sp=TopNav-_-Mens-_-Mensfangear&amp;cm=TnDdMensFanGear" title="Men's Fan Gear">Fan Gear</a></div>
-                            <div class="m-item"><a href="http://www.footlocker.com/_-_/N-1z141xe/keyword-mens+clothing?cm_REF=New+Arrivals&amp;cm_sp=TopNav-_-Mens-_-Mensnewcloth&amp;cm=TnDdMensNewCloth" title="Men's New Clothing">New Arrivals</a></div>
-                            <div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-sale+mens+clothing?cm_sp=TopNav-_-Mens-_-Menssalecloth&amp;cm=TnDdMensSaleCl" title="Sale Men's Clothing">Sale</a></div>
+                            <div class="m-title"><a href="http://www.footlocker.com/Mens/Clothing/_-_/N-24Zrk" manual_cm_sp="TopNav-_-Mens-_-Mensclothing" title="Men's Clothing">Men's Clothing</a></div>
+                            <div class="m-item"><a href="http://www.footlocker.com/Mens/Hats/_-_/N-24Zlq" manual_cm_sp="TopNav-_-Mens-_-Menshats" title="Men's Hats">Hats</a></div>
+                            <div class="m-item"><a href="http://www.footlocker.com/Mens/Sweatshirts/_-_/N-24Zj3" manual_cm_sp="TopNav-_-Mens-_-Menshoodies" title="Men's Hoodies">Hoodies</a></div>
+                            <div class="m-item"><a href="http://www.footlocker.com/Mens/Jackets-Vests/_-_/N-24Zj7" manual_cm_sp="TopNav-_-Mens-_-Mensjackets" title="Men's Jackets">Jackets</a></div>
+                            <div class="m-item"><a href="http://www.footlocker.com/Mens/Pants/_-_/N-24Zjr" manual_cm_sp="TopNav-_-Mens-_-Menspants" title="Men's Pants">Pants</a></div>                           
+                            <div class="m-item"><a href="http://www.footlocker.com/Mens/Shorts/_-_/N-24Zjf" manual_cm_sp="TopNav-_-Mens-_-Mensshorts" title="Men's Shorts">Shorts</a></div>
+                            <div class="m-item"><a href="http://www.footlocker.com/Mens/T-Shirts/_-_/N-24Zif" manual_cm_sp="TopNav-_-Mens-_-Menstees" title="Men's T-shirts">T-Shirts</a></div>
+                            <div class="m-item"><a href="http://www.footlocker.com/Mens/Clothing/_-_/N-24ZrkZ1z141xe" manual_cm_sp="TopNav-_-Mens-_-Mensnewcloth" title="Men's New Clothing">New Arrivals</a></div>
+                            <div class="m-item"><a href="http://www.footlocker.com/Sale/Mens/Clothing/_-_/N-1z141ydZ24Zrk" manual_cm_sp="TopNav-_-Mens-_-Menssalecloth" title="Sale Men's Clothing">Sale</a></div>
                             
                             
                         </div>
 
                         <div class="dd_column_a di-right-1">                           
                             <div class="m-item"><p>Shoe Brands</p></div>
-                       		<div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-mens+adidas+shoes?cm_sp=TopNav-_-Mens-_-Mensadidas&amp;cm=TnDdMensAdidas" title="Men's adidas Shoes">adidas</a></div>
-                            <div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-mens+asics+shoes?cm_sp=TopNav-_-Mens-_-Menasicss&amp;cm=TnDdMensAsics" title="Men's ASICS Shoes">ASICS®</a></div>
-                            <div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-mens+converse+shoes?cm_sp=TopNav-_-Mens-_-Mensconv&amp;cm=TnDdMensCons" title="Men's Converse Shoes">Converse</a></div>
-                            <div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-mens+jordan+shoes?cm_sp=TopNav-_-Mens-_-Mensjordan&amp;cm=TnDdMensJordan" title="Men's Jordan Shoes">Jordan</a></div>
-                            <div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-mens+nike+shoes?cm_sp=TopNav-_-Mens-_-Mensnike&amp;cm=TnDdMensNike" title="Men's Nike Shoes">Nike</a></div>
-                            <div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-mens+reebok+shoes?cm_sp=TopNav-_-Mens-_-Mensreebok&amp;cm=TnDdMensReebok" title="Men's Reebok Shoes">Reebok</a></div>
-                            <div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-mens+under+armour+shoes?cm_sp=TopNav-_-Mens-_-Mensua&amp;cm=TnDdMensUA" title="Men's Under Armour Shoes">Under Armour</a></div>
+                       		<div class="m-item"><a href="http://www.footlocker.com/Mens/adidas/Shoes/_-_/N-24ZzcZrj" manual_cm_sp="TopNav-_-Mens-_-Mensadidas" title="Men's adidas Shoes">adidas</a></div>
+                            <div class="m-item"><a href="http://www.footlocker.com/Mens/ASICS/Shoes/_-_/N-24Z10iZrj" manual_cm_sp="TopNav-_-Mens-_-Menasicss" title="Men's ASICS Shoes">ASICS®</a></div>
+                            <div class="m-item"><a href="http://www.footlocker.com/Mens/Converse/_-_/N-24Z108" manual_cm_sp="TopNav-_-Mens-_-Mensconv" title="Men's Converse Shoes">Converse</a></div>
+                            <div class="m-item"><a href="http://www.footlocker.com/Mens/Jordan/Shoes/_-_/N-24Z11cZrj" manual_cm_sp="TopNav-_-Mens-_-Mensjordan" title="Men's Jordan Shoes">Jordan</a></div>
+                            <div class="m-item"><a href="http://www.footlocker.com/Mens/Nike/Shoes/_-_/N-24ZzzZrj" manual_cm_sp="TopNav-_-Mens-_-Mensnike" title="Men's Nike Shoes">Nike</a></div>
+                            <div class="m-item"><a href="http://www.footlocker.com/Mens/Reebok/Shoes/_-_/N-24ZzlZrj" manual_cm_sp="TopNav-_-Mens-_-Mensreebok" title="Men's Reebok Shoes">Reebok</a></div>
+                            <div class="m-item"><a href="http://www.footlocker.com/Mens/Timberland/_-_/N-24Zzt" manual_cm_sp="TopNav-_-Mens-_-Menstimberland" title="Men's Timberland Boots">Timberland</a></div>
+                            <div class="m-item"><a href="http://www.footlocker.com/Mens/Under-Armour/Shoes/_-_/N-24Z10qZrj" manual_cm_sp="TopNav-_-Mens-_-Mensua" title="Men's Under Armour Shoes">Under Armour</a></div>
                             
                             <div class="item_spacer"></div>
                             
                             <div class="m-item"><p>Clothing Brands</p></div>
 
-                            <div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-mens+adidas+clothing?cm_sp=TopNav-_-Mens-_-Mensadidascl&amp;cm=TnDdMensAdidasCl" title="Men's adidas Clothing">adidas </a></div>
-                            <div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-mens+adidas+originals+clothing?cm_sp=TopNav-_-Mens-_-Mensorigcl&amp;cm=TnDdMensOriginalsCl" title="adidas Originals Clothing">adidas Originals</a></div>
-                            <div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-mens+jordan+clothing?cm_sp=TopNav-_-Mens-_-Mensjordancl&amp;cm=TnDdMensJordanCl" title="Men's Jordan Clothing">Jordan</a></div>
-                            <div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-mens+nike+clothing?cm_sp=TopNav-_-Mens-_-Mensnikecl&amp;cm=TnDdMensNikeCl" title="Men's Nike Clothing">Nike</a></div>
-                            <div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-mens+puma+clothing?cm_sp=TopNav-_-Mens-_-Menspumacl&amp;cm=TnDdMensPumaCl" title="Men's PUMA Clothing">PUMA</a></div>
-                            <div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-mens+under+armour+clothing?cm_sp=TopNav-_-Mens-_-Mensuacl&amp;cm=TnDdMensUACl" title="Men's Under Armour Clothing">Under Armour</a></div>
+                            <div class="m-item"><a href="http://www.footlocker.com/Mens/adidas/Clothing/_-_/N-24ZzcZrk" manual_cm_sp="TopNav-_-Mens-_-Mensadidascl" title="Men's adidas Clothing">adidas </a></div>
+                            <div class="m-item"><a href="http://www.footlocker.com/Mens/adidas-Originals/Clothing/_-_/N-24ZzrZrk" manual_cm_sp="TopNav-_-Mens-_-Mensorigcl" title="adidas Originals Clothing">adidas Originals</a></div>
+                            <div class="m-item"><a href="http://www.footlocker.com/Mens/Jordan/Clothing/_-_/N-24Z11cZrk" manual_cm_sp="TopNav-_-Mens-_-Mensjordancl" title="Men's Jordan Clothing">Jordan</a></div>
+                            <div class="m-item"><a href="http://www.footlocker.com/Mens/Nike/Clothing/_-_/N-24ZzzZrk" manual_cm_sp="TopNav-_-Mens-_-Mensnikecl" title="Men's Nike Clothing">Nike</a></div>
+                            <div class="m-item"><a href="http://www.footlocker.com/Mens/PUMA/Clothing/_-_/N-24ZzqZrk" manual_cm_sp="TopNav-_-Mens-_-Menspumacl" title="Men's PUMA Clothing">PUMA</a></div>
+                            <div class="m-item"><a href="http://www.footlocker.com/Mens/Under-Armour/Clothing/_-_/N-24Z10qZrk" manual_cm_sp="TopNav-_-Mens-_-Mensuacl" title="Men's Under Armour Clothing">Under Armour</a></div>
                              
 
                         </div>
@@ -606,61 +877,63 @@ setNDDDelay(0);
     <div onmouseover="openTab(this, 'navButtonWomens');" onmouseout="closeTab(this);">
         <ul>
             <li>
-                <div class="navBtn navButtonWomens"><a href="http://www.footlocker.com/womens/category/?cm_sp=TopNav-_-Womens-_-Womensall&amp;cm=TnDdWomensAllBtn" title="Women's Shoes, Clothing"><span class="womens-txt">Women's</span></a></div>
+                <div class="navBtn navButtonWomens"><a href="http://www.footlocker.com/Womens/_-_/N-25" manual_cm_sp="TopNav-_-Womens-_-Womensall" title="Women's Shoes, Clothing"><span class="womens-txt">Women's</span></a></div>
                 <div class="sticker_menu menu_womens">
                     <div class="dd_top core_width_womens">&nbsp;</div>
                     <div class="clear"></div>
                     <div class="sticker_menu_inner core_width_womens core_height_womens">
                         <div class="dd_column di-right-2">
-                            <div class="m-title"><a href="http://www.footlocker.com/_-_/keyword-womens+shoes?cm_sp=TopNav-_-Womens-_-Womensshoes&amp;cm=TnDdWomensShoes" title="Women's Shoes">Women's Shoes</a></div>
-                        	<div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-womens+basketball+shoes?cm_sp=TopNav-_-Womens-_-Womensbball&amp;cm=TnDdWomensBball" title="Women's Basketball Shoes">Basketball</a></div>
-                            <div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-womens+boots?cm_sp=TopNav-_-Womens-_-Womensboots&amp;cm=TnDdWomensboots" title="Women's Boots">Boots</a></div>
-                            <div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-womens+casual+shoes?cm_sp=TopNav-_-Womens-_-Womenscasual&amp;cm=TnDdWomensCasual" title="Women's Casual Shoes">Casual</a></div>
-                            <div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-womens+running+shoes?cm_sp=TopNav-_-Womens-_-Womensrun&amp;cm=TnDdWomensRun" title="Women's Running Shoes">Running</a></div>
-                            <div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-womens+sandals?cm_sp=TopNav-_-Womens-_-Womenssandals&amp;cm=TnDdWomensSandals" title="Women's Sandals">Sandals</a></div>
-                            <div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-womens+training+shoes?cm_sp=TopNav-_-Womens-_-Womenstrain&amp;cm=TnDdWomensTrain" title="Women's Training Shoes">Training</a></div>
-                            <div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-womens+volleyball+shoes?cm_sp=TopNav-_-Womens-_-Womensvball&amp;cm=TnDdWomensVball" title="Women's Volleyball Shoes">Volleyball</a></div>
-                            <div class="m-item"><a href="http://www.footlocker.com/_-_/N-1z141xe/keyword-womens+shoes?cm_REF=New+Arrivals&amp;cm_sp=TopNav-_-Womens-_-Womensnewshoes&amp;cm=TnDdWomensNewShoes" title="Women's New Shoes">New Arrivals</a></div>
-                            <div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-sale+womens+shoes?cm_sp=TopNav-_-Womens-_-Womenssaleshoes&amp;cm=TnDdWomensSaleShoes" title="Sale Women's Shoes">Sale</a></div>
+                            <div class="m-title"><a href="http://www.footlocker.com/Womens/Shoes/_-_/N-25Zrj" manual_cm_sp="TopNav-_-Womens-_-Womensshoes" title="Women's Shoes">Women's Shoes</a></div>
+                        	<div class="m-item"><a href="http://www.footlocker.com/Womens/Basketball/Shoes/_-_/N-25ZfmZrj" manual_cm_sp="TopNav-_-Womens-_-Womensbball" title="Women's Basketball Shoes">Basketball</a></div>
+                            <div class="m-item"><a href="http://www.footlocker.com/Womens/Boots/_-_/N-25Zhb" manual_cm_sp="TopNav-_-Womens-_-TnDdWomensboots" title="Women's Boots">Boots</a></div>
+                            <div class="m-item"><a href="http://www.footlocker.com/Womens/Casual/Shoes/_-_/N-25Z1h5Zrj" manual_cm_sp="TopNav-_-Womens-_-Womenscasual" title="Women's Casual Shoes">Casual</a></div>
+                            <div class="m-item"><a href="http://www.footlocker.com/Womens/Running/Shoes/_-_/N-25Zf9Zrj" manual_cm_sp="TopNav-_-Womens-_-Womensrun" title="Women's Running Shoes">Running</a></div>
+                            <div class="m-item"><a href="http://www.footlocker.com/Womens/Sandals/_-_/N-25Zi3" manual_cm_sp="TopNav-_-Womens-_-Womenssandals" title="Women's Sandals">Sandals</a></div>
+                            <div class="m-item"><a href="http://www.footlocker.com/Womens/Training/Shoes/_-_/N-25ZfhZrj" manual_cm_sp="TopNav-_-Womens-_-Womenstrain" title="Women's Training Shoes">Training</a></div>
+                            <div class="m-item"><a href="http://www.footlocker.com/Womens/Volleyball/Shoes/_-_/N-25ZfdZrj" manual_cm_sp="TopNav-_-Womens-_-Womensall" title="Women's Volleyball Shoes">Volleyball</a></div>
+                            <div class="m-item"><a href="http://www.footlocker.com/Womens/Walking/Shoes/_-_/N-25ZfoZrj" manual_cm_sp="TopNav-_-Womens-_-Womensvball" title="Women's Volleyball Shoes">Walking</a></div>
+                            <div class="m-item"><a href="http://www.footlocker.com/Womens/Shoes/_-_/N-25ZrjZ1z141xe" manual_cm_sp="TopNav-_-Womens-_-Womensnewshoes" title="Women's New Shoes">New Arrivals</a></div>
+                            <div class="m-item"><a href="http://www.footlocker.com/Sale/Womens/Shoes/_-_/N-1z141ydZ25Zrj" manual_cm_sp="TopNav-_-Womens-_-Womenssaleshoes" title="Sale Women's Shoes">Sale</a></div>
 
                         	<div class="item_spacer"></div>
                             
-                            <div class="m-title"><a href="http://www.footlocker.com/_-_/keyword-womens+clothing?cm_sp=TopNav-_-Womens-_-Womensclothing&amp;cm=TnDdWomensClothing" title="Women's Clothing">Women's Clothing</a></div>
-                            <div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-womens+hoodies?cm_sp=TopNav-_-Womens-_-Womenshoodies&amp;cm=TnDdWomensHoodies" title="Women's Hoodies">Hoodies</a></div>
-                            <div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-womens+jackets?cm_sp=TopNav-_-Womens-_-Womensjackets&amp;cm=TnDdWomensJackets" title="Women's Jackets">Jackets</a></div>
-                            <div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-womens+shorts?cm_sp=TopNav-_-Womens-_-Womensshorts&amp;cm=TnDdWomensShorts" title="Women's Shorts">Shorts</a></div>
-                            <div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-womens+sports+bras?cm_sp=TopNav-_-Womens-_-Womensbras&amp;cm=TnDdWomensBras" title="Sports Bras">Sports bras</a></div>
-                            <div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-womens+tank+tops?cm_sp=TopNav-_-Womens-_-Womenstanks&amp;cm=TnDdWomensTanks" title="Women's Tank Tops">Tank tops</a></div>
-                            <div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-womens+training+clothing?cm_sp=TopNav-_-Womens-_-Womenstraincl&amp;cm=TnDdWomensTrainCl" title="Women's Training Clothing">Training</a></div>
-                            <div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-womens+t+shirts?cm_sp=TopNav-_-Womens-_-Womenstees&amp;cm=TnDdWomensTees" title="Women's T-shirts">T-Shirts</a></div>
-                            <div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-womens+workout+pants?cm_sp=TopNav-_-Womens-_-Womensworkpants&amp;cm=TnDdWomensWorkPants" title="Women's Workout Pants">Workout Pants</a></div>
-                            <div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-womens+fan+gear?cm_sp=TopNav-_-Womens-_-Womensfangear&amp;cm=TnDdWomensFanGear" title="Women's Fan Gear">Fan Gear</a></div>
-                            <div class="m-item"><a href="http://www.footlocker.com/_-_/N-1z141xe/keyword-womens+clothing?cm_REF=New+Arrivals&amp;cm_sp=TopNav-_-Womens-_-Womensnewshoes&amp;cm=TnDdWomensNewShoes" title="Women's New Clothing">New Arrivals</a></div>
-                            <div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-sale+womens+clothing?cm_sp=TopNav-_-Womens-_-Womenssalecl&amp;cm=TnDdWomensSaleCl" title="Sale Women's Clothing">Sale</a></div>                   
+                            <div class="m-title"><a href="http://www.footlocker.com/Womens/Clothing/_-_/N-25Zrk" manual_cm_sp="TopNav-_-Womens-_-Womensclothing" title="Women's Clothing">Women's Clothing</a></div>
+                            <div class="m-item"><a href="http://www.footlocker.com/Womens/Sweatshirts/_-_/N-25Zj3" manual_cm_sp="TopNav-_-Womens-_-Womenshoodies" title="Women's Hoodies">Hoodies</a></div>
+                            <div class="m-item"><a href="http://www.footlocker.com/Womens/Jackets-Vests/_-_/N-25Zj7" manual_cm_sp="TopNav-_-Womens-_-Womensjackets" title="Women's Jackets">Jackets</a></div>
+                            <div class="m-item"><a href="http://www.footlocker.com/Womens/Shorts/_-_/N-25Zjf" manual_cm_sp="TopNav-_-Womens-_-Womensshorts" title="Women's Shorts">Shorts</a></div>
+                            <div class="m-item"><a href="http://www.footlocker.com/Sport-Tops-Bras/_-_/N-kc" manual_cm_sp="TopNav-_-Womens-_-Womensbras" title="Sports Bras">Sports bras</a></div>
+                            <div class="m-item"><a href="http://www.footlocker.com/Womens/Tanks-Singlets/_-_/N-25Zij" manual_cm_sp="TopNav-_-Womens-_-Womenstanks" title="Women's Tank Tops">Tank tops</a></div>
+                            <div class="m-item"><a href="http://www.footlocker.com/Womens/T-Shirts/_-_/N-25Zif" manual_cm_sp="TopNav-_-Womens-_-Womenstees" title="Women's T-shirts">T-Shirts</a></div>
+                            <div class="m-item"><a href="http://www.footlocker.com/Womens/Pants/_-_/N-25Zjr" manual_cm_sp="TopNav-_-Womens-_-Womensworkpants" title="Women's Workout Pants">Workout Pants</a></div>
+                            <div class="m-item"><a href="http://www.footlocker.com/Womens/Clothing/_-_/N-25ZrkZ1z141xe" manual_cm_sp="TopNav-_-Womens-_-Womensnewshoes" title="Women's New Clothing">New Arrivals</a></div>
+                            <div class="m-item"><a href="http://www.footlocker.com/Sale/Womens/Clothing/_-_/N-1z141ydZ25Zrk" manual_cm_sp="TopNav-_-Womens-_-Womenssalecl" title="Sale Women's Clothing">Sale</a></div>                   
                             
                         </div>
                         
                         <div class="dd_column_b di-right-2">
                             <div class="m-item"><p>Shoe Brands</p></div>
-                            <div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-womens+adidas+shoes?cm_sp=TopNav-_-Womens-_-Womensadidas&amp;cm=TnDdWomensAdidas" title="Women's adidas Shoes">adidas</a></div>
-                            <div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-womens+asics+shoes?cm_sp=TopNav-_-Womens-_-Womensasics&amp;cm=TnDdWomensAsics" title="Women's ASICS Shoes">ASICS®</a></div>
-                            <div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-womens+brooks+shoes?cm_sp=TopNav-_-Womens-_-Womensbrooks&amp;cm=TnDdWomensBrooks" title="Women's Brooks Shoes">Brooks</a></div>
-                            <div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-womens+converse+shoes?cm_sp=TopNav-_-Womens-_-Womenscons&amp;cm=TnDdWomensCons" title="Women's Converse Shoes">Converse</a></div>
-                            <div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-womens+new+balance+shoes?cm_sp=TopNav-_-Womens-_-Womensnb&amp;cm=TnDdWomensNB" title="Women's New Balance Shoes">New Balance</a></div>
-                            <div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-womens+nike+shoes?cm_sp=TopNav-_-Womens-_-Womensnike&amp;cm=TnDdWomensNike" title="Women's Nike Shoes">Nike</a></div>
-                            <div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-womens+puma+shoes?cm_sp=TopNav-_-Womens-_-Womenspuma&amp;cm=TnDdWomensPumaSh" title="Women's PUMA Shoes">PUMA</a></div>
-                            <div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-womens+reebok+shoes?cm_sp=TopNav-_-Womens-_-Womensreebok&amp;cm=TnDdWomensReebok" title="Women's Reebok Shoes">Reebok</a></div>
-                            <div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-womens+saucony+shoes?cm_sp=TopNav-_-Womens-_-Womenssaucony&amp;cm=TnDdWomensSaucony" title="Women's Saucony Shoes">Saucony</a></div>               
-                            
+                            <div class="m-item"><a href="http://www.footlocker.com/Womens/adidas/Shoes/_-_/N-25ZzcZrj" manual_cm_sp="TopNav-_-Womens-_-Womensadidas" title="Women's adidas Shoes">adidas</a></div>
+                            <div class="m-item"><a href="http://www.footlocker.com/Womens/ASICS/Shoes/_-_/N-25Z10iZrj" manual_cm_sp="TopNav-_-Womens-_-Womensasics" title="Women's ASICS Shoes">ASICS</a></div>
+                            <div class="m-item"><a href="http://www.footlocker.com/Womens/Brooks/Shoes/_-_/N-25Z12aZrj" manual_cm_sp="TopNav-_-Womens-_-Womensbrooks" title="Women's Brooks Shoes">Brooks</a></div>
+                            <div class="m-item"><a href="http://www.footlocker.com/Womens/Converse/_-_/N-25Z108" manual_cm_sp="TopNav-_-Womens-_-Womenscons" title="Women's Converse Shoes">Converse</a></div>
+                            <div class="m-item"><a href="http://www.footlocker.com/Womens/Mizuno/Shoes/_-_/N-25Z104Zrj" manual_cm_sp="TopNav-_-Womens-_-Womensmizuno" title="Women's Mizuno Shoes">Mizuno</a></div>
+                            <div class="m-item"><a href="http://www.footlocker.com/Womens/New-Balance/Shoes/_-_/N-25Z10eZrj" manual_cm_sp="TopNav-_-Womens-_-Womensnb" title="Women's New Balance Shoes">New Balance</a></div>
+                            <div class="m-item"><a href="http://www.footlocker.com/Womens/Nike/Shoes/_-_/N-25ZzzZrj" manual_cm_sp="TopNav-_-Womens-_-Womensnike" title="Women's Nike Shoes">Nike</a></div>
+                            <div class="m-item"><a href="http://www.footlocker.com/Womens/PUMA/Shoes/_-_/N-25ZzqZrj" manual_cm_sp="TopNav-_-Womens-_-Womenspuma" title="Women's PUMA Shoes">PUMA</a></div>
+                            <div class="m-item"><a href="http://www.footlocker.com/Womens/Reebok/Shoes/_-_/N-25ZzlZrj" manual_cm_sp="TopNav-_-Womens-_-Womensreebok" title="Women's Reebok Shoes">Reebok</a></div>
+                            <div class="m-item"><a href="http://www.footlocker.com/Womens/Saucony/Shoes/_-_/N-25ZzoZrj" manual_cm_sp="TopNav-_-Womens-_-Womenssaucony" title="Women's Saucony Shoes">Saucony</a></div>               
+                            <div class="m-item"><a href="http://www.footlocker.com/Womens/Under-Armour/Shoes/_-_/N-25Z10qZrj" manual_cm_sp="TopNav-_-Womens-_-Womensua" title="Women's Under Armour Shoes">Under Armour</a></div>               
+
                             <div class="item_spacer"></div>
                             
                             <div class="m-item"><p>Clothing Brands</p></div>
-                            <div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-womens+adidas+clothing?cm_sp=TopNav-_-Womens-_-Womensadidascl&amp;cm=TnDdWomensAdidasCl" title="Women's adidas Clothing">adidas</a></div>
-                            <div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-womens+adidas+originals+clothing?cm_sp=TopNav-_-Womens-_-Womensorigcl&amp;cm=TnDdWomensOrigCl" title="Women's adidas Originals Clothing">adidas Originals</a></div>
-                            <div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-womens+mizuno+clothing?cm_sp=TopNav-_-Womens-_-Womensmizunocl&amp;cm=TnDdWomensMizunoCl" title="Women's Mizuno Clothing">Mizuno</a></div>
-                            <div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-womens+nike+clothing?cm_sp=TopNav-_-Womens-_-Womensnikecl&amp;cm=TnDdWomensNikeCl" title="Women's Nike Clothing">Nike</a></div>
-                            <div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-womens+puma+clothing?cm_sp=TopNav-_-Womens-_-Womenspumacl&amp;cm=TnDdWomensPumaCl" title="Women's PUMA Clothing">PUMA</a></div>
-                            <div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-womens+under+armour+clothing?cm_sp=TopNav-_-Womens-_-Womensuacl&amp;cm=TnDdWomensUACl" title="Women's Under Armour Clothing">Under Armour </a></div>
+                            <div class="m-item"><a href="http://www.footlocker.com/Womens/adidas/Clothing/_-_/N-25ZzcZrk" manual_cm_sp="TopNav-_-Womens-_-Womensadidascl" title="Women's adidas Clothing">adidas</a></div>
+                            <div class="m-item"><a href="http://www.footlocker.com/Womens/adidas-Originals/Clothing/_-_/N-25ZzrZrk" manual_cm_sp="TopNav-_-Womens-_-Womensorigcl" title="Women's adidas Originals Clothing">adidas Originals</a></div>
+                            <div class="m-item"><a href="http://www.footlocker.com/Womens/Mizuno/Clothing/_-_/N-25Z104Zrk" manual_cm_sp="TopNav-_-Womens-_-Womensmizunocl" title="Women's Mizuno Clothing">Mizuno</a></div>
+                            <div class="m-item"><a href="http://www.footlocker.com/Womens/Nike/Clothing/_-_/N-25ZzzZrk" manual_cm_sp="TopNav-_-Womens-_-Womensnikecl" title="Women's Nike Clothing">Nike</a></div>
+                            <div class="m-item"><a href="http://www.footlocker.com/Womens/PUMA/Clothing/_-_/N-25ZzqZrk" manual_cm_sp="TopNav-_-Womens-_-Womenspumacl" title="Women's PUMA Clothing">PUMA</a></div>
+                            <div class="m-item"><a href="http://www.footlocker.com/Womens/Saucony/Clothing/_-_/N-25ZzoZrk" manual_cm_sp="TopNav-_-Womens-_-Womenssaucony" title="Women's Saucony Clothing">Saucony</a></div>
+                            <div class="m-item"><a href="http://www.footlocker.com/Womens/Under-Armour/Clothing/_-_/N-25Z10qZrk" manual_cm_sp="TopNav-_-Womens-_-Womensuacl" title="Women's Under Armour Clothing">Under Armour</a></div>
                             
                             
                         </div>
@@ -677,67 +950,62 @@ setNDDDelay(0);
     <div onmouseover="openTab(this, 'navButtonKids');" onmouseout="closeTab(this);">
         <ul>
             <li>
-                <div class="navBtn navButtonKids"><a href="http://www.footlocker.com/youth/category/?cm_sp=TopNav-_-Kids-_-Kidsall&amp;cm=TnDdKidsAllBtn" title="Kids' Shoes, Clothing"><span class="kids-txt">Kids'</span></a></div>
+                <div class="navBtn navButtonKids"><a href="http://www.footlocker.com/_-_/keyword-kids" manual_cm_sp="TopNav-_-Kids-_-Kidsall" title="Kids' Shoes, Clothing"><span class="kids-txt">Kids</span></a></div>
                 <div class="sticker_menu menu_kids">
                     <div class="dd_top core_width_kids">&nbsp;</div>
                     <div class="clear"></div>
                     <div class="sticker_menu_inner core_width_kids core_height_kids">
                         <div class="dd_column_f di-right-3">
-                            <div class="m-title"><a href="http://www.footlocker.com/_-_/keyword-kids+shoes?cm_sp=TopNav-_-Kids-_-Kidsshoes&amp;cm=TnDdKidsShoes" title="Kids' Shoes">Kids' Shoes</a></div>
-                            <div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-kids+basketball+shoes?cm_sp=TopNav-_-Kids-_-Kidsbball&amp;cm=TnDdKidsBball" title="Kids' Basketball Shoes">Basketball</a></div>
-                            <div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-kids+boots?cm_sp=TopNav-_-Kids-_-Kidsboots&amp;cm=TnDdKidsboots" title="Kids' Boots">Boots</a></div>
-                            <div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-kids+casual+shoes?cm_sp=TopNav-_-Kids-_-Kidscasualshoes&amp;cm=TnDdKidsCasual" title="Kids' Casual Shoes">Casual</a></div>
-                            <div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-kids+running+shoes?cm_sp=TopNav-_-Kids-_-Kidsrunshoes&amp;cm=TnDdKidsRun" title="Kids' Running Shoes">Running</a></div>
-                            <div class="m-item"><a href="http://www.footlocker.com/_-_/N-1z141xe/keyword-kids+shoes?cm_REF=New+Arrivals&amp;cm_sp=TopNav-_-Kids-_-Kidsnewshoes&amp;cm=TnDdKidsNewShoes" title="Kids New Shoes">New Arrivals</a></div>
-                            <div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-sale+kids+shoes?cm_sp=TopNav-_-Kids-_-Kidssaleshoes&amp;cm=TnDdKidsSaleShoes" title="Sale Kids' Shoes">Sale</a></div>
+                            <div class="m-title"><a href="http://www.footlocker.com/_-_/keyword-kids+shoes" manual_cm_sp="TopNav-_-Kids-_-Kidsshoes" title="Kids' Shoes">Kids' Shoes</a></div>
+                            <div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-kids+basketball+shoes" manual_cm_sp="TopNav-_-Kids-_-Kidsbball" title="Kids' Basketball Shoes">Basketball</a></div>
+                            <div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-kids+boots" manual_cm_sp="TopNav-_-Kids-_-Kidsboots" title="Kids' Boots">Boots</a></div>
+                            <div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-kids+casual+shoes" manual_cm_sp="TopNav-_-Kids-_-Kidscasualshoes" title="Kids' Casual Shoes">Casual</a></div>
+                            <div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-kids+running+shoes" manual_cm_sp="TopNav-_-Kids-_-Kidsrunshoes" title="Kids' Running Shoes">Running</a></div>
+                            <div class="m-item"><a href="http://www.footlocker.com/_-_/N-1z141xe/keyword-kids+shoes" manual_cm_sp="TopNav-_-Kids-_-Kidsnewshoes" title="Kids New Shoes">New Arrivals</a></div>
+                            <div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-sale+kids+shoes" manual_cm_sp="TopNav-_-Kids-_-Kidssaleshoes" title="Sale Kids' Shoes">Sale</a></div>
                             
                             <div class="item_spacer"></div>
                              
-                            <div class="m-title"><a href="http://www.footlocker.com/_-_/keyword-kids+clothing?cm_sp=TopNav-_-Kids-_-Kidsclothing&amp;cm=TnDdKidsClothing" title="Kids' Clothing">Kids' Clothing</a></div>
-                            <div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-kids+hoodies?cm_sp=TopNav-_-Kids-_-Kidshoodies&amp;cm=TnDdKidsHoodies" title="Kids' Hoodies">Hoodies</a></div>
-                            <div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-kids+pants?cm_sp=TopNav-_-Kids-_-Kidspants&amp;cm=TnDdKidsPants" title="Kids' Pants">Pants</a></div>
-                            <div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-kids+shorts?cm_sp=TopNav-_-Kids-_-Kidsshorts&amp;cm=TnDdKidsShortsCl" title="Kids' Shorts">Shorts</a></div>
-                            <div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-kids+training+clothing?cm_sp=TopNav-_-Kids-_-Kidstraincl&amp;cm=TnDdKidsTrainCl" title="Kids' Training Clothing">Training</a></div>
-
-                            <div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-kids+t+shirts?cm_sp=TopNav-_-Kids-_-Kidstees&amp;cm=TnDdKidsTees" title="Kids' T-shirts">T-Shirts</a></div>
-                            <div class="m-item"><a href="http://www.footlocker.com/_-_/N-1z141xe/keyword-kids+clothing?cm_REF=New+Arrivals&amp;cm_sp=TopNav-_-Kids-_-Kidsnewcl&amp;cm=TnDdKidsNewCloth" title="Kids' New Clothing">New Arrivals</a></div>
-                            <div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-sale+kids+clothing?cm_sp=TopNav-_-Kids-_-Kidsnewcl&amp;cm=TnDdKidsSaleCl" title="Sale Kids' Clothing">Sale</a></div>       
+                            <div class="m-title"><a href="http://www.footlocker.com/_-_/keyword-kids+clothing" manual_cm_sp="TopNav-_-Kids-_-Kidsclothing" title="Kids' Clothing">Kids' Clothing</a></div>
+                            <div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-kids+hoodies" manual_cm_sp="TopNav-_-Kids-_-Kidshoodies" title="Kids' Hoodies">Hoodies</a></div>
+                            <div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-kids+pants" manual_cm_sp="TopNav-_-Kids-_-Kidspants" title="Kids' Pants">Pants</a></div>
+                            <div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-kids+shorts" manual_cm_sp="TopNav-_-Kids-_-Kidsshorts" title="Kids' Shorts">Shorts</a></div>
+                            <div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-kids+t+shirts" manual_cm_sp="TopNav-_-Kids-_-Kidstees" title="Kids' T-shirts">T-Shirts</a></div>
+                            <div class="m-item"><a href="http://www.footlocker.com/_-_/N-1z141xe/keyword-kids+clothing" manual_cm_sp="TopNav-_-Kids-_-Kidsnewcl" title="Kids' New Clothing">New Arrivals</a></div>
+                            <div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-sale+kids+clothing" manual_cm_sp="TopNav-_-Kids-_-Kidsnewcl" title="Sale Kids' Clothing">Sale</a></div>       
                             
                             
                         </div>
     
                         <div class="dd_column_b di-right-3">
                         <div class="m-item"><p>Shoe Brands</p></div>
-                            <div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-kids+adidas+shoes?cm_sp=TopNav-_-Kids-_-Kidsadidas&amp;cm=TnDdKidsAdidas" title="Kids' adidas Shoes">adidas</a></div>
-                            <div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-kids+converse+shoes?cm_sp=TopNav-_-Kids-_-Kidscons&amp;cm=TnDdKidsCons" title="Kids' Converse Shoes">Converse</a></div>
-                            <div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-kids+jordan+shoes?cm_sp=TopNav-_-Kids-_-Kidsjordan&amp;cm=TnDdKidsJordan" title="Kids' Jordan Shoes">Jordan</a></div>
-                            <div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-kids+new+balance+shoes?cm_sp=TopNav-_-Kids-_-Kidsnb&amp;cm=TnDdKidsNB" title="Kids' New Balance Shoes">New Balance</a></div>
-                            <div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-kids+nike+shoes?cm_sp=TopNav-_-Kids-_-Kidsnike&amp;cm=TnDdKidsNike" title="Kids' Nike Shoes">Nike</a></div>
-                            <div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-kids+puma+shoes?cm_sp=TopNav-_-Kids-_-Kidspuma&amp;cm=TnDdKidsPuma" title="Kids' PUMA Shoes">PUMA</a></div>
-                            <div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-kids+timberland+boots?cm_sp=TopNav-_-Kids-_-Kidstimb&amp;cm=TnDdKidsTimberland" title="Kids' Timberland Boots">Timberland</a></div>
-                            <div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-kids+under+armour+shoes?cm_sp=TopNav-_-Kids-_-Kidsuashoes&amp;cm=TnDdKidsUA" title="Kids' Under Armour Shoes">Under Armour</a></div>
+                            <div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-kids+adidas+shoes" manual_cm_sp="TopNav-_-Kids-_-Kidsadidas" title="Kids' adidas Shoes">adidas</a></div>
+                            <div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-kids+converse+shoes" manual_cm_sp="TopNav-_-Kids-_-Kidscons" title="Kids' Converse Shoes">Converse</a></div>
+                            <div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-kids+jordan+shoes" manual_cm_sp="TopNav-_-Kids-_-Kidsjordan" title="Kids' Jordan Shoes">Jordan</a></div>
+                            <div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-kids+new+balance+shoes" manual_cm_sp="TopNav-_-Kids-_-Kidsnb" title="Kids' New Balance Shoes">New Balance</a></div>
+                            <div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-kids+nike+shoes" manual_cm_sp="TopNav-_-Kids-_-Kidsnike" title="Kids' Nike Shoes">Nike</a></div>
+                            <div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-kids+puma+shoes" manual_cm_sp="TopNav-_-Kids-_-Kidspuma" title="Kids' PUMA Shoes">PUMA</a></div>
+                            <div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-kids+timberland+boots" manual_cm_sp="TopNav-_-Kids-_-Kidstimb" title="Kids' Timberland Boots">Timberland</a></div>
+                            <div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-kids+under+armour+shoes" manual_cm_sp="TopNav-_-Kids-_-Kidsuashoes" title="Kids' Under Armour Shoes">Under Armour</a></div>
                             
                             
     
                             <div class="item_spacer"></div>
     
                             <div class="m-item"><p>Clothing Brands</p></div>
-                            <div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-kids+adidas+clothing?cm_sp=TopNav-_-Kids-_-Kidsadidascl&amp;cm=TnDdKidsAdidasCl" title="Kids' adidas Clothing">adidas</a></div>
-                            <div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-kids+jordan+clothing?cm_sp=TopNav-_-Kids-_-Kidsjordancl&amp;cm=TnDdKidsJordanCl" title="Kids' Jordan Clothing">Jordan</a></div>
-                            <div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-kids+nike+clothing?cm_sp=TopNav-_-Kids-_-Kidsnikecl&amp;cm=TnDdKidsNikeCl" title="Kids' Nike Clothing">Nike</a></div>
-                            <div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-kids+under+armour+clothing?cm_sp=TopNav-_-Kids-_-Kidsuacl&amp;cm=TnDdKidsUACl" title="Kids' Under Armour Clothing">Under Armour</a></div>
+                            <div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-kids+adidas+clothing" manual_cm_sp="TopNav-_-Kids-_-Kidsadidascl" title="Kids' adidas Clothing">adidas</a></div>
+                            <div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-kids+jordan+clothing" manual_cm_sp="TopNav-_-Kids-_-Kidsjordancl" title="Kids' Jordan Clothing">Jordan</a></div>
+                            <div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-kids+nike+clothing" manual_cm_sp="TopNav-_-Kids-_-Kidsnikecl" title="Kids' Nike Clothing">Nike</a></div>
+                            <div class="m-item"><a href="http://www.footlocker.com/_-_/keyword-kids+under+armour+clothing" manual_cm_sp="TopNav-_-Kids-_-Kidsuacl" title="Kids' Under Armour Clothing">Under Armour</a></div>
                         </div>
     
                         <div class="dd_column_end di-right-3">
-                            <div class="m-title"><a href="http://www.footlocker.com/_-_/keyword-big+kids+shoes?cm_sp=TopNav-_-Kids-_-Kidsbigshh&amp;cm=TnDdKidsBigSh" title="Big Kids' Shoes">Big Kids' Shoes</a></div>
-                            <div class="m-title"><a href="http://www.footlocker.com/_-_/keyword-little+kids+shoes?cm_sp=TopNav-_-Kids-_-Kidslittlesh&amp;cm=TnDdKidsLittleSh" title="Little Kids' Shoes">Little Kids' Shoes</a></div>
-                            <div class="m-title"><a href="http://www.footlocker.com/_-_/keyword-toddler+shoes?cm_sp=TopNav-_-Kids-_-Kidstoddlersh&amp;cm=TnDdKidsToddlerSh" title="Toddler Shoes">Toddler Shoes</a></div>
-                            <div class="m-title"><a href="http://www.footlocker.com/_-_/keyword-infant+shoes?cm_sp=TopNav-_-Kids-_-Kidsinfantsh&amp;cm=TnDdKidsInfantSh" title="Infant Shoes">Infant Shoes</a></div>
+                            <div class="m-title"><a href="http://www.footlocker.com/_-_/keyword-grade+school+shoes" manual_cm_sp="TopNav-_-Kids-_-Kidsgrade" title="Grade School Shoes">Grade School Shoes</a></div>
+                            <div class="m-title"><a href="http://www.footlocker.com/_-_/keyword-preschool+shoes" manual_cm_sp="TopNav-_-Kids-_-Kidspreschool" title="Preschool Shoes">Preschool Shoes</a></div>
+                            <div class="m-title"><a href="http://www.footlocker.com/_-_/keyword-toddler+shoes" manual_cm_sp="TopNav-_-Kids-_-Kidstoddlersh" title="Toddler Shoes">Toddler Shoes</a></div>
+                            <div class="m-title"><a href="http://www.footlocker.com/_-_/keyword-infant+shoes" manual_cm_sp="TopNav-_-Kids-_-Kidsinfantsh" title="Infant Shoes">Infant Shoes</a></div>
                             
-                            <div class="item_spacer"></div>
-                            <div class="m-title"><a href="http://www.footlocker.com/_-_/keyword-kids+clothing?cm_sp=TopNav-_-Kids-_-KidsCl&amp;cm=TnDdKidsCl" title="Kids' Clothing">Kids' Clothing</a></div>
-                            <div class="m-title"><a href="http://www.footlocker.com/_-_/keyword-toddler+clothing?cm_sp=TopNav-_-Kids-_-Kidstoddlercl&amp;cm=TnDdKidsToddlerCl" title="Toddler Clothing">Toddler Clothing</a></div>
-                            <div class="m-title"><a href="http://www.footlocker.com/_-_/keyword-infant+clothing?cm_sp=TopNav-_-Kids-_-Kidsinfantcl&amp;cm=TnDdInfantCl" title="Infant Clothing">Infant Clothing</a></div>                          
+                                                                                               
                             
                                          
                         </div>
@@ -753,7 +1021,9 @@ setNDDDelay(0);
 <div class="sticker_wrapper">
     <ul>
         <li>
-            <div class="navBtn navButtonCalendar" onmouseover="this.className='navBtn navButtonCalendarOver';" onmouseout="this.className='navBtn navButtonCalendar';"><a rel="shadowbox[calendar];width=990;height=450" href="http://www.footlocker.com/ns/hp/launch/release-calendar.html" title="Release Calendar" onclick="cmCreateManualLinkClickTag('www.footlocker.com/'  manual_cm_re='Home-_-Promo-_-Launch_Calendar','Launch_Calendar');"><span class="no-drop">Release Calendar</span></a></div>
+			
+				<div class="navBtn navButtonCalendar" onmouseover="this.className='navBtn navButtonCalendarOver';" onmouseout="this.className='navBtn navButtonCalendar';"><a rel="shadowbox[calendar];width=985;height=700" href="http://www.footlocker.com/ns/hp/launch/release-calendar.html" title="Release Calendar" onclick="cmCreateManualLinkClickTag('www.footlocker.com/'  manual_cm_re='Home-_-Promo-_-Launch_Calendar','Launch_Calendar');"><span class="no-drop">Release Calendar</span></a></div>
+			
         </li>
     </ul>
 </div><!-- close sticker_wrapper -->
@@ -764,21 +1034,21 @@ setNDDDelay(0);
 	<div onmouseover="openTab(this, 'navButtonBrands');" onmouseout="closeTab(this);">
         <ul>
             <li>
-                <div class="navBtn navButtonBrands"><a href="http://www.footlocker.com/brands/category/?cm_sp=TopNav-_-Brands-_-Brandsall&amp;cm=TnDdBrandsAllBtn" title="Brands"><span class="brands-txt">Brands</span></a></div>
+                <div class="navBtn navButtonBrands"><a href="http://www.footlocker.com/Brands/" manual_cm_sp="TopNav-_-Brands-_-Brandsall" title="Brands"><span class="brands-txt">Brands</span></a></div>
                 <div class="sticker_menu menu_brands">
                     <div class="dd_top core_width_brands">&nbsp;</div>
                     <div class="clear"></div>
                     <div class="sticker_menu_inner core_width_brands core_height_brands">
                         <div class="dd_column di-right-7">
                             <div class="m-item"><p>Top Brands</p></div>
-                            <div class="m-item"><a href="http://www.footlocker.com/adidas/?cm_sp=TopNav-_-Brands-_-Brandadidas&amp;cm=TnDdBrandadidas" title="adidas Shoes, Clothing">adidas</a></div>
-                            <div class="m-item"><a href="http://www.footlocker.com/adidas-originals/?cm_sp=TopNav-_-Brands-_-Brandorig&amp;cm=TnDdBrandOriginals" title="adidas Originals Shoes, Clothing">adidas Originals</a></div>
-                            <div class="m-item"><a href="http://www.footlocker.com/asics/?cm_sp=TopNav-_-Brands-_-Brandasics&amp;cm=TnDdBrandAsics" title="ASICS Shoes, Clothing">ASICS®</a></div>
-                        	<div class="m-item"><a href="http://www.footlocker.com/jordan-shoes/?cm_sp=TopNav-_-Brands-_-Brandjordan&amp;cm=TnDdBrandJordan" title="Jordan">Jordan</a></div>
-                            <div class="m-item"><a href="http://www.footlocker.com/nike-shoes/?cm_sp=TopNav-_-Brands-_-Brandnike&amp;cm=TnDdBrandNike" title="Nike Shoes">Nike</a></div>                            
-                            <div class="m-item"><a href="http://www.footlocker.com/puma/?cm_sp=TopNav-_-Brands-_-Brandpuma&amp;cm=TnDdBrandPuma" title="PUMA Shoes, Clothing">PUMA</a></div>
-                            <div class="m-item"><a href="http://www.footlocker.com/under-armour/?cm_sp=TopNav-_-Brands-_-Brandua&amp;cm=TnDdBrandUA" title="Under Armour Shoes, Clothing">Under Armour</a></div>
-                            <div class="menu_shop_all"><a href="http://www.footlocker.com/brands/category/?cm_sp=TopNav-_-Brands-_-Brandall&amp;cm=TnDBrandsAll" title="View All Brands">View All Brands</a></div>
+                            <div class="m-item"><a href="http://www.footlocker.com/adidas/_-_/N-zc" manual_cm_sp="TopNav-_-Brands-_-Brandadidas" title="adidas Shoes, Clothing">adidas</a></div>
+                            <div class="m-item"><a href="http://www.footlocker.com/adidas-Originals/_-_/N-zr" manual_cm_sp="TopNav-_-Brands-_-Brandorig" title="adidas Originals Shoes, Clothing">adidas Originals</a></div>
+                            <div class="m-item"><a href="http://www.footlocker.com/asics/" manual_cm_sp="TopNav-_-Brands-_-Brandasics" title="ASICS Shoes, Clothing">ASICS®</a></div>
+                        	<div class="m-item"><a href="http://www.footlocker.com/Jordan/_-_/N-11c" manual_cm_sp="TopNav-_-Brands-_-Brandjordan" title="Jordan">Jordan</a></div>
+                            <div class="m-item"><a href="http://www.footlocker.com/nike-shoes/" manual_cm_sp="TopNav-_-Brands-_-Brandnike" title="Nike Shoes">Nike</a></div>                            
+                            <div class="m-item"><a href="http://www.footlocker.com/PUMA/_-_/N-zq" manual_cm_sp="TopNav-_-Brands-_-Brandpuma" title="PUMA Shoes, Clothing">PUMA</a></div>
+                            <div class="m-item"><a href="http://www.footlocker.com/Under-Armour/_-_/N-10q" manual_cm_sp="TopNav-_-Brands-_-Brandua" title="Under Armour Shoes, Clothing">Under Armour</a></div>
+                            <div class="menu_shop_all"><a href="http://www.footlocker.com/Brands/" manual_cm_sp="TopNav-_-Brands-_-Brandall" title="View All Brands">View All Brands</a></div>
                         </div>
                     </div><!-- close sticker_menu_inner -->
                 </div><!-- close sticker_menu -->
@@ -792,7 +1062,7 @@ setNDDDelay(0);
 <div class="sticker_wrapper">
     <ul>
         <li>
-            <div class="navBtn navButtonOutlet" onmouseover="this.className='navBtn navButtonOutletOver';" onmouseout="this.className='navBtn navButtonOutlet';"><a href="http://www.footlocker.com/outlet/category/?cm_sp=TopNav-_-Outlet-_-Outletall&amp;cm=TnDOutletAllBtn" title="Sale Shoes, Clothing"><span class="no-drop">Outlet</span></a></div>
+            <div class="navBtn navButtonOutlet" onmouseover="this.className='navBtn navButtonOutletOver';" onmouseout="this.className='navBtn navButtonOutlet';"><a href="http://www.footlocker.com/Sale/_-_/N-1z141yd" manual_cm_sp="TopNav-_-Outlet-_-Outletall" title="Sale Shoes, Clothing"><span class="no-drop">Outlet</span></a></div>
         </li>
     </ul>
 </div><!-- close sticker_wrapper -->
@@ -809,16 +1079,15 @@ setNDDDelay(0);
                     
                     <div class="clear"></div>
                     <div class="sticker_menu_inner core_width_collection core_height_collection">
-                        <a href="http://www.footlocker.com/promotion/promoId:5002565/history-air-jordan/?cm_sp=TopNav-_-Collections-_-Jordan&amp;cm=TnDdJordan" title="Jordan" class="collect-item"><img src="/ns/header/images/jordan.jpg" height="40" width="100" border="0"></a>
-                        <a href="http://houseofhoops.footlocker.com/?cm_sp=TopNav-_-Collections-_-HOH&amp;cm=TnDdHOH" title="House Of Hoops" class="collect-item"><img src="/ns/header/images/house.jpg" height="40" width="100" border="0"></a>
-                        <a href="http://www.footlocker.com/promotion/promoId:5002715/slam-shoes/?cm_sp=TopNav-_-Collections-_-Slam&amp;cm=TnDdSlam" title="SLAM" class="collect-item"><img src="/ns/header/images/slam.jpg" height="40" width="100" border="0"></a>
-                        <a href="http://www.footlocker.com/promotion/promoId:5002701/kobe-shoes-history/?cm_sp=TopNav-_-Collections-_-Kobe&amp;cm=TnDdKobe" title="Kobe" class="collect-item"><img src="/ns/header/images/kobe.jpg" height="40" width="100" border="0"></a>
-                        <a href="http://www.footlocker.com/striperpedia/?cm_sp=TopNav-_-Collections-_-Striperpedia&amp;cm=TnDdStriperpedia" title="Striperpedia" class="collect-item"><img src="/ns/header/images/striper.jpg" height="40" width="100" border="0"></a>
-                        <a href="http://www.footlocker.com/promotion/promoId:5002350/running-shoes/?cm_sp=TopNav-_-Collections-_-RunTheCity&amp;cm=TnDdRunTheCity" title="Run The City" class="collect-item"><img src="/ns/header/images/runthecity.jpg" height="40" width="100" border="0"></a>
-                        <a href="http://www.footlocker.com/microsite--run-footlocker/?cm_sp=TopNav-_-Collections-_-RunByFL&amp;cm=TnDdRunByFL" title="Run By Foot Locker" class="collect-item"><img src="/ns/header/images/runbyfl.jpg" height="40" width="100" border="0"></a>
-                        <a href="http://www.footlocker.com/promotion/promoId:5003000/top-rated-shoes/?cm_sp=TopNav-_-Collections-_-RateReview&amp;cm=TnDdRateReview" title="Ratings &amp; Reviews" class="collect-item"><img src="/ns/header/images/ratings.jpg" height="40" width="100" border="0"></a>
-                        <a href="http://www.footlocker.com/promotion/promoId:5002524/basketball-shoes/?cm_sp=TopNav-_-Collections-_-Basketball&amp;cm=TnDdBasketball" title="Basketball Shoes" class="collect-item"><img src="/ns/header/images/basketball.jpg" height="40" width="100" border="0"></a>
-                        <a href="http://www.footlocker.com/promotion/promoId:5002885/lightweight-shoes/?cm_sp=TopNav-_-Collections-_-Lightweight&amp;cm=TnDdLightweight" title="Lightweight Shoes" class="collect-item"><img src="/ns/header/images/keepitlight.jpg" height="40" width="100" border="0"></a>
+                        <a href="http://www.footlocker.com/promotion/promoId:5002565/history-air-jordan/" manual_cm_sp="TopNav-_-Collections-_-Jordan" title="Jordan" class="collect-item"><img src="/ns/header/images/jordan.jpg" height="40" width="100" border="0"></a>
+                        <a href="http://houseofhoops.footlocker.com/" manual_cm_sp="TopNav-_-Collections-_-HOH" title="House Of Hoops" class="collect-item"><img src="/ns/header/images/house.jpg" height="40" width="100" border="0"></a>
+                        <a href="http://www.footlocker.com/promotion/promoId:5002701/kobe-shoes-history/" manual_cm_sp="TopNav-_-Collections-_-Kobe" title="Kobe" class="collect-item"><img src="/ns/header/images/kobe.jpg" height="40" width="100" border="0"></a>
+                        <a href="http://www.footlocker.com/striperpedia/" manual_cm_sp="TopNav-_-Collections-_-Striperpedia" title="Striperpedia" class="collect-item"><img src="/ns/header/images/striper.jpg" height="40" width="100" border="0"></a>
+                        <a href="http://www.footlocker.com/Running/Shoes/_-_/N-f9Zrj" manual_cm_sp="TopNav-_-Collections-_-RunTheCity" title="Running Shoes" class="collect-item"><img src="/ns/header/images/runthecity.jpg" height="40" width="100" border="0"></a>
+                        <a href="http://www.footlocker.com/microsite--run-footlocker/" manual_cm_sp="TopNav-_-Collections-_-RunByFL" title="Run By Foot Locker" class="collect-item"><img src="/ns/header/images/runbyfl.jpg" height="40" width="100" border="0"></a>
+                        <a href="http://www.footlocker.com/promotion/promoId:5003000/top-rated-shoes/" manual_cm_sp="TopNav-_-Collections-_-RateReview" title="Ratings &amp; Reviews" class="collect-item"><img src="/ns/header/images/ratings.jpg" height="40" width="100" border="0"></a>
+                        <a href="http://www.footlocker.com/Basketball/Shoes/_-_/N-fmZrj" "="" manual_cm_sp="TopNav-_-Collections-_-Basketball" title="Basketball Shoes" class="collect-item"><img src="/ns/header/images/basketball.jpg" height="40" width="100" border="0"></a>
+                       
                     </div><!-- close sticker_menu_inner -->
                    
                 </div><!-- close sticker_menu -->
@@ -833,15 +1102,23 @@ setNDDDelay(0);
 	<div onmouseover="openTab(this, 'navButtonLocation');" onmouseout="closeTab(this);">
         <ul>
             <li>
-                <div class="navBtn navButtonLocation"><a href="http://www.footlocker.com/promotion/promoId:5002469/footlocker-store-locator/?cm=TnDStoreLctrBtn" title="Foot Locker Store Locator"><img src="/ns/header/images/store.png" width="33" height="31" border="0" class="store-icon"><span class="store-indent location-txt">Find A Store</span></a></div>
+                <div class="navBtn navButtonLocation"><a href="http://www.footlocker.com/promotion/promoId:5002469/footlocker-store-locator/" "="" manual_cm_sp="TopNav-_-FindaStore-_-findastoreall" title="Foot Locker Store Locator"><img src="/ns/header/images/store.png" width="33" height="31" border="0" class="store-icon"><span class="store-indent location-txt">Find A Store</span></a></div>
                 <div class="sticker_menu menu_location">
                     <div class="dd_top core_width_location">&nbsp;</div>
                     <div class="sticker_menu_inner core_width_location core_height_location">
                         <div class="dd_column_c">
-                            <div class="m-title"><a href="http://www.footlocker.com/content/locator/?cm=TnDdStoreLcns" title="Foot Locker Locations">Foot Locker Locations</a></div> 
-                            <div class="m-title"><a href="http://houseofhoops.footlocker.com/stores/?cm=TnDdStoreHoh" title="House of Hoops Locations">House of Hoops Locations</a></div> 
+                        <form id="locationInputWrapper" onsubmit="open_locator(); return false;">
+                            <div class="footer_sprite find_store">
+                            <input type="text" id="locationInput" value="Enter zip or city, state" onfocus="if(this.value=='Enter zip or city, state'){this.value=''};checkStoreLocator();" onblur="if(this.value==''){this.value='Enter zip or city, state'};restoreStoreLocator();">
+                            <img src="http://www.footlocker.com/images/fl/global/pixel.gif" height="47" width="20" border="0" class="email_submit_btn" onclick="open_locator()">
+                            </div>
+                        </form>
+                            <div class="m-title"><a href="http://www.footlocker.com/content/locator/" "="" manual_cm_sp="TopNav-_-FindaStore-_-fllocations" title="Foot Locker Locations">Foot Locker Locations</a></div> 
+                            <div class="m-title"><a href="http://houseofhoops.footlocker.com/stores/" manual_cm_sp="TopNav-_-FindaStore-_-hoh" target="_blank" title="House of Hoops Locations">House of Hoops Locations</a></div> 
+                            <div class="m-title"><a href="http://unlocked.footlocker.com/launchlocator/" "="" manual_cm_sp="TopNav-_-FindaStore-_-launchlocator" target="_blank" title="Launch Locator">Launch Locator</a></div> 
                         </div>
                     </div><!-- close sticker_menu_inner -->
+
                 </div><!-- close sticker_menu -->
             </li>
         </ul>
@@ -855,17 +1132,17 @@ setNDDDelay(0);
 	<div onmouseover="openTab(this, 'navButtonUnlocked');" onmouseout="closeTab(this);">
         <ul>
             <li>
-                <div class="navBtn navButtonUnlocked"><a href="http://unlocked.footlocker.com" title="Foot Locker Unlocked"><img src="http://www.footlocker.com/images/fl/global/pixel.gif" height="21" width="80" border="0" id="unlocked-img" class="bg-sprite unlocked-icon"></a></div>
+                <div class="navBtn navButtonUnlocked"><a href="http://unlocked.footlocker.com" target="_blank" title="Foot Locker Unlocked"><img src="http://www.footlocker.com/images/fl/global/pixel.gif" height="21" width="80" border="0" id="unlocked-img" class="bg-sprite unlocked-icon"></a></div>
                 <div class="sticker_menu menu_unlocked">
                     <div class="dd_top core_width_unlocked">&nbsp;</div>
                     <div class="clear"></div>
                     <div class="sticker_menu_inner core_width_unlocked core_height_unlocked">
                         <div class="dd_column_b di-right-8">
-                        	<div class="m-title"><a href="http://unlocked.footlocker.com/blog/" title="Unlocked Blog">Blog</a></div>
-                            <div class="m-title"><a href="http://unlocked.footlocker.com/sneakers/" title="Unlocked Vault">Vault</a></div>
-                            <div class="m-title"><a href="http://unlocked.footlocker.com/games/" title="Unlocked Games">Games</a></div>
-                            <div class="m-title"><a href="http://unlocked.footlocker.com/wallpapers/" title="Unlocked Wallpapers">Wallpapers</a></div>
-                            <div class="m-title"><a href="http://unlocked.footlocker.com/vip/welcome/" title="Unlocked VIP">VIP</a></div>
+                        	<div class="m-title"><a href="http://unlocked.footlocker.com/blog/" target="_blank" title="Unlocked Blog">Blog</a></div>
+                            <div class="m-title"><a href="http://unlocked.footlocker.com/sneakers/" target="_blank" title="Unlocked Vault">Vault</a></div>
+                            <div class="m-title"><a href="http://unlocked.footlocker.com/games/" target="_blank" title="Unlocked Games">Games</a></div>
+                            <div class="m-title"><a href="http://unlocked.footlocker.com/wallpapers/" target="_blank" title="Unlocked Wallpapers">Wallpapers</a></div>
+                            <div class="m-title"><a href="http://unlocked.footlocker.com/vip/welcome/" target="_blank" title="Unlocked VIP">VIP</a></div>
                         </div>
                     </div><!-- close sticker_menu_inner -->
                 </div><!-- close sticker_menu -->
@@ -892,37 +1169,8 @@ setNDDDelay(0);
 
 	<div id="inside"> 
 	<script language="javascript">
-		<!--
-		viewBannerEvent("Test A - FS Inline", 90); 
-		//-->
+		var excludeBannerFromDiscount = false;
 	</script>
-
-<script language="javascript">
-
-	var excludeBannerFromDiscount = false;
-
-</script>
-<div id="global_Banner">
-	
-		<!-- tpbann --><div class="banner-wrapper"><img src="/ns/banners/flgb122012f.gif" border="0">
-    <a class="global-left" href="http://www.footlocker.com/searchresults/?N=1877&amp;Ns=P_TopSalesAmount|1&amp;cm_SORT=Best+Sellers" title="Free Shipping On Over 10,000 Items"><img src="/images/lfl/global/pixel.gif" alt="Free Shipping On Over 10,000 Items" width="880" height="40" border="0"></a>
-    <a class="global-right" href="#global-banner-html" rel="shadowbox[banner];width=540;height=200" target="_blank" title="Free Shipping Details"><img src="/images/lfl/global/pixel.gif" alt="Free Shipping Details" width="80" height="40" border="0"></a>
-</div>
-
-
-<div id="global-banner-html" style="display:none">
-<div class="global-banner">
-	<h2>FREE SHIPPING ON OVER 10,000 ITEMS!*</h2>
-    <p>
-    	We offer FREE SHIPPING on thousands of items every day! Look for the "Free Shipping" indicator on all eligible merchandise. Shipping will automatically be deducted at checkout.
-    </p>
-    <p>
-		*Please note: This offer is valid only on eligible items, and does not apply to in-store orders. This offer is limited to standard delivery within the 48 contiguous US states and APO/FPO addresses. Excludes bulk orders and drop ships. Entire order must ship to a single address. Customer is responsible for shipping costs on returned merchandise. May not be used toward purchase of Gift Cards or team orders. Promotion may be modified or terminated at any time. Certain restrictions and exclusions may apply.
-    </p>
-</div>
-</div><!-- end tpbann -->
-	
-</div>	
 
 <!-- MyBuys integration -->
 
@@ -1156,95 +1404,146 @@ setNDDDelay(0);
 
 <!-- end inside div -->
 </div>
-
-<div class="fl_footer_container">
-	<div class="fl_footer_gc"><a href="http://www.footlocker.com/promotion/promoId:5001288/footlocker-gift-cards/?cm_sp=footer-_-Button-_-Giftcards" title="Foot Locker Gift Cards"><span>Foot Locker <br>Gift Cards</span><br>Never Expires/No Fees.<br>Even if the card says otherwise.</a></div>
-	<div class="fl_footer_email"><a href="http://ebm.e.footlocker.com/r/regf2?a=0&amp;aid=1095704045&amp;n=2" target="_blank" title="Email Sign-up"><span>Email Exclusives</span><br>Sign up now to receive special<br>offers and exclusives!<span> Sign Up</span></a></div>
-	<div class="fl_text_slot text_slot_1">
-    	<ul>
-        	<li><span>Top Sellers</span></li>
-            <li><a href="http://www.footlocker.com/_-_/keyword-nike+casual+shoes?cm_sp=footer-_-topsellers-_-nikecasualshoes" title="Nike Casual Shoes">Nike Casual Shoes</a></li>
-            <li><a href="http://www.footlocker.com/_-_/keyword-derrick+rose+shoes?cm_sp=footer-_-topsellers-_-RoseShoes" title="Derrick Rose Shoes">Derrick Rose Shoes</a></li>
-            <li><a href="http://www.footlocker.com/_-_/keyword-nike+boots?cm_sp=footer-_-topsellers-_-NikeBoots" title="Nike Boots">Nike Boots</a></li>
-            <li><a href="http://www.footlocker.com/_-_/keyword-nike+air+max?cm_sp=footer-_-topsellers-_-NikeAirMax" title="Nike Air Max">Nike Air Max</a></li>
-            <li><a href="http://www.footlocker.com/_-_/keyword-jordan+retro+shoes?cm_sp=footer-_-topsellers-_-Jordanretro" title="Jordan Retro Shoes">Jordan Retro Shoes</a></li>
-            <li><a href="http://www.footlocker.com/_-_/keyword-nike+elite+socks?cm_sp=footer-_-topsellers-_-EliteSocks" title="Nike Elite Socks">Nike Elite Socks</a></li>
-        </ul>
-    </div>
-    <div class="fl_text_slot text_slot_2">
-    	<ul>
-        	<li><span>Top Sellers</span></li>
-            <li><a href="http://www.footlocker.com/jordan-shoes/?cm_sp=footer-_-topsellers-_-JordanShoes" title="Jordan Shoes">Jordan Shoes</a></li>
-            <li><a href="http://www.footlocker.com/nike-shoes/?cm_sp=footer-_-topsellers-_-NikeShoes" title="Nike Shoes">Nike Shoes</a></li>
-            <li><a href="http://www.footlocker.com/promotion/promoId:5002524/basketball-shoes/?cm_sp=footer-_-topsellers-_-BballShoes" title="Basketball Shoes">Basketball Shoes</a></li>
-            <li><a href="http://www.footlocker.com/promotion/promoId:5002350/running-shoes/?cm_sp=footer-_-topsellers-_-RunShoes" title="Running Shoes">Running Shoes</a></li>
-            <li><a href="http://www.footlocker.com/outlet/category/?cm_sp=footer-_-topsellers-_-SaleShoes" title="Sale Shoes">Sale Shoes</a></li>
-            <li><a href="http://www.footlocker.com/_-_/keyword-lebron+shoes?cm_sp=footer-_-topsellers-_-LeBronShoes" title="LeBron Shoes">LeBron Shoes</a></li>
-        </ul>
-    </div>
-    
-    <div class="fl_footer_vet"><a href="http://www.footlocker.com/promotion/promoId:5002720/?cm_sp=footer-_-Button-_-VetAdv" title="Veterans Discount Program Details"><span>Honoring All<br>Who Serve</span><br>U.S. Active Duty, <br>Veterans, National<br>Guard, Reserve and their families<br>save 20% every day online<br>and in stores. <span>Click Here</span></a></div>
-    <div class="fl_footer_vip"><a href="http://www.footlocker.com/promotion/promoId:5002563/footlocker-vip/?cm_sp=footer-_-Button-_-VIP" title="Become A VIP"><span>Join Now and<br>Get $10 off a<br>Future <br>Purchase</span><br>Exclusive offers, updates and<br>VIP access to special events.<br><span>Get Connected</span></a></div>
-</div><!-- close fl_footer_container -->
-
-<!-- start footer-tagline div -->
-<div id="footer-tagline">
-<!-- start footer-links div -->
-    <div id="footer-links">
-        <p>
-            <script type="text/javascript" language="javascript" src="/ns/chat/js/hours-toggle-footer.js"></script>
-            <a class="footer-no-border" href="http://www.footlocker.com/customerserv/help:orderInfo/" title="Ordering Help">Ordering Help</a>
-            <a href="http://www.footlocker.com/customerserv/help:privacyPolicy/" title="Privacy Policy">Privacy Policy</a>
-            <a href="http://www.footlocker.com/customerserv/help:terms/" title="Terms of Use">Terms of Use</a>
-            <a href="http://www.footlocker.com/customerserv/help:contactUs/" title="Contact Us">Contact Us</a>
-            <a href="http://www.footlocker-inc.com/company.cfm?page=foot-locker" target="_blank" title="About Us">About Us</a>
-            <a href="http://www.footlocker.com/customerserv/help:shipInfo/" title="Shipping Info">Shipping Info</a>
-            <a href="http://www.footlocker.com/customerserv/help:sportSpecificSizing/" title="Sizing Help">Sizing Help</a>
-            <a href="http://www.footlocker.com/customerserv/help:returnsExchanges/" title="Returns and Exchanges">Returns &amp; Exchanges</a>
-        </p>
-        <p>
-            <a class="footer-no-border" href="http://www.footlocker.com/sitemap/" title="Footlocker.com Sitemap">Sitemap</a>
-            <a href="http://www.footlocker.com/promotion/promoId:5002090/footlocker-affiliate/" title="Affiliates">Affiliates</a>
-            <a href="http://www.sneakerjobs.com/" target="_blank" title="Careeer Opportunities">Career Opportunities</a>
-            <a href="http://www.footlocker.com/promotion/promoId:5002469/foot-locker-store-locator/?cm_sp=footer-_-Text-_-StoreLocator" title="Foot Locker Store Locator">Store Locator</a>
-            <a href="http://www.footlocker-inc.com/" target="_blank" title="Foot Locker, Inc.">Foot Locker, Inc.</a>
-        </p>
-    </div>
-<!-- end footer-links div -->
-    
-	<p>Prices subject to change without notice. Products shown may not be available in our stores. ( <a href="http://www.footlocker.com/customerserv/help:productInformation/" style="text-decoration:underline">more info</a> ) © 2012 Footlocker.com, Inc. All Rights Reserved
-    
-<!-- start footer-icons div -->
-    </p><div id="footer-icons">
-        <div class="footer-spacer">&nbsp;</div>
-        <div class="footer-icons-slot"><a target="_blank" href="http://stellaservice.com/profile/52/" rel="nofollow"><img width="65" height="37" border="0" src="/ns/footer/images/stella-elite.png" alt="Stella Service"></a></div>
-        <div class="footer-icons-slot"><a target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=www.footlocker.com" rel="nofollow"><img width="65" height="37" border="0" src="//images.scanalert.com/meter/www.footlocker.com/31.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of ScanAlert'); return false;"></a></div>
-        <div class="footer-icons-slot"><a href="http://www.bizrate.com/ratings_guide/cust_reviews__mid--17345.html" target="_blank" rel="nofollow"><img src="//medals.bizrate.com/medals/dynamic/small/17345_medal.gif" alt="bizrate Customer Certified Site - Foot Locker Reviews at Bizrate" width="112" height="37" border="0"></a></div>
-        <div class="footer-icons-slot"><a href="javascript:openSponsor('https://www.paypal.com/');"><img src="http://www.footlocker.com/images/fl/paypal/btn_paypal_AcceptMark_68x43.gif" width="70" height="37" border="0"></a></div>
-        <div class="footer-icons-slot margin-mod"><script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=www.footlocker.com&amp;size=S&amp;use_flash=YES&amp;use_transparent=YES&amp;lang=en"></script><br><a href="http://www.verisign.com/ssl-certificate/" target="_blank" style="color:#FFF; text-decoration:none; font:bold 7px verdana,sans-serif; letter-spacing:.5px; text-align:center; margin:0px; padding:0px;">ABOUT SSL CERTIFICATES</a></div>
-        <div class="footer-icons-slot"><a href="http://www.foot-locker.co.uk/" target="_blank" title="footlocker europe"><img src="http://www.footlocker.com/images/fl/topnav/newhomepg/art-fl-europe.gif" alt="footlocker europe" title="footlocker europe" width="68" height="50" border="0"></a></div>
-        <div class="footer-icons-slot"><a href="http://www.ladyfootlocker.com/" target="_blank" title="ladyfootlocker.com"><img src="http://www.footlocker.com/images/fl/topnav/newhomepg/art-lfl.gif" alt="ladyfootlocker.com" title="ladyfootlocker.com" width="130" height="42" border="0"></a></div>
-        <div class="footer-icons-slot"><a href="http://www.kidsfootlocker.com/" target="_blank" title="kidsfootlocker.com"><img src="http://www.footlocker.com/images/fl/topnav/newhomepg/art-kfl.gif" alt="kidsfootlocker.com" title="kidsfootlocker.com" width="121" height="43" border="0"></a></div>
-        <div class="footer-icons-slot"><script type="text/javascript" language="javascript">showFooterChat();</script><a href="#" onclick="cmCreateConversionEventTag('Live Chat',1,'Chat',0); cmCreateConversionEventTag('Live Chat',2,'Chat',0); startChatAndCobrowse(gIChannel, gServer, gAttachedData, prefillValues, agentOnlyValues, bEnterOnQueuePage); return false;"><img src="//www.footlocker.com/ns/chat/images/striperchat-black-on.gif" border="0"></a></div>
-        <div class="clear"></div>
-    </div>
+<div class="footer-hr">&nbsp;</div>
+<!-- START Full Width Wrapper -->
+<div id="fl_footer_fullWidth">
+<script type="text/javascript" language="javascript" src="/ns/chat/js/hours-toggle-footer-v2.js?cd=0"></script>
+	
+	<!-- Inner Container 968px -->
+	<div id="fl_footer_container">
+		
+		<!-- START Column 1 -->
+		<div id="fl_footer_col1">
+			<a href="http://www.footlocker.com/promotion/promoId:5001288/footlocker-gift-cards" manual_cm_sp="footer-_-Button-_-Giftcards" title="Foot Locker Gift Cards" class="normal">
+				<p><span>Foot Locker Gift Cards</span><br>
+					Never Expires/No Fees.<br>Even if the card says otherwise.
+				</p>
+				<img src="http://www.footlocker.com/images/fl/global/pixel.gif" height="67" width="120" border="0" class="footer_sprite gift_card">
+			</a>
+			<a href="http://dailysweeps.footlocker.com/" title="Win Daily Prizes" class="normal">
+				<p><span>Win Daily Sweepstakes</span><br>
+					Hundreds of prizes awarded! A winner <br>every day.
+				</p>
+				<img src="http://www.footlocker.com/images/fl/global/pixel.gif" height="30" width="100" border="0" class="footer_sprite sweeps">
+			</a>
+			<div class="footer_live_chat">
+				<script type="text/javascript" language="javascript">showFooterChat();</script><a href="#" onclick="cmCreateConversionEventTag('Live Chat',1,'Chat',0); cmCreateConversionEventTag('Live Chat',2,'Chat',0); startChatAndCobrowse(gIChannel, gServer, gAttachedData, prefillValues, agentOnlyValues, bEnterOnQueuePage); return false;"><p><span>Chat Hours of Operation:</span><br> 7 days a week <br>8am - 11pm CDT</p><span class="chat_box"><img src="//www.footlocker.com/ns/chat/images/livechat-online.png" border="0"></span></a>
+            </div>
+			<a href="http://www.footlocker.com/promotion/promoId:5002720/" manual_cm_sp="footer-_-Button-_-VetAdv" title="Veterans Discount Program Details" class="normal">
+				<p>
+					<span>Honoring All Who Serve</span><br>
+					U.S. Active Duty, Veterans, National<br>
+				   Guard, Reserve and their families save <br>
+				   20% every day online and in stores.
+				</p>
+				<img src="http://www.footlocker.com/images/fl/global/pixel.gif" height="67" width="70" border="0" class="footer_sprite active_duty">
+			</a>
+		</div> <!-- END Column 1 -->
+		
+		<!-- START Column 2 -->
+		<div id="fl_footer_col2">
+			<h3>TOP SEARCHES</h3>
+			<ul>
+				<li><a href="http://www.footlocker.com/ASICS/Running/Shoes/_-_/N-10iZf9Zrj" manual_cm_sp="footer-_-topsellers-_-asicsrunshoes" title="ASICS Running Shoes">ASICS Running Shoes</a></li>
+				<li><a href="http://www.footlocker.com/_-_/keyword-nike+elite+socks" manual_cm_sp="footer-_-topsellers-_-EliteSocks" title="Nike Elite Socks">Nike Elite Socks</a></li>
+				<li><a href="http://www.footlocker.com/Casual/Shoes/_-_/N-1h5Zrj" manual_cm_sp="footer-_-topsellers-_-casualshoes" title="Casual Shoes">Casual Shoes</a></li>
+				<li><a href="http://www.footlocker.com/Nike/Running/Shoes/_-_/N-zzZf9Zrj" manual_cm_sp="footer-_-topsellers-_-nikerunshoes" title="Nike Running Shoes">Nike Running Shoes</a></li>
+				<li><a href="http://www.footlocker.com/Basketball/Shoes/_-_/N-fmZrj" manual_cm_sp="footer-_-topsellers-_-BballShoes" title="Basketball Shoes">Basketball Shoes</a></li>
+				<li><a href="http://www.footlocker.com/Jordan/Shoes/_-_/N-11cZrj" manual_cm_sp="footer-_-topsellers-_-jordanshoes" title="Jordan Shoes">Jordan Shoes</a></li>
+				<li><a href="http://www.footlocker.com/_-_/keyword-nike+free" manual_cm_sp="footer-_-topsellers-_-nikefree" title="Nike Free">Nike Free</a></li>
+			</ul>
+			<h3>GET CONNECTED</h3>
+			<a href="http://www.facebook.com/footlocker" title="Foot Locker Facebook" target="_blank" class="footer_sprite footer_fb"><img src="http://www.footlocker.com/images/fl/global/pixel.gif" height="36" width="36" border="0"></a>
+			<a href="http://twitter.com/footlocker" title="Foot Locker Twitter" target="_blank" class="footer_sprite footer_tw"><img src="http://www.footlocker.com/images/fl/global/pixel.gif" height="36" width="36" border="0"></a>
+			<a href="http://instagram.com/footlocker" title="Foot Locker Instagram" target="_blank" class="footer_sprite footer_pt"><img src="http://www.footlocker.com/images/fl/global/pixel.gif" height="36" width="36" border="0"></a>
+			<a href="http://www.youtube.com/footlocker" title="Foot Locker YouTube" target="_blank" class="footer_sprite footer_yt"><img src="http://www.footlocker.com/images/fl/global/pixel.gif" height="36" width="36" border="0"></a>
+		</div> <!-- END Column 2 -->
+		
+		<!-- START Column 3 -->
+		<div id="fl_footer_col3">
+			<h3>CUSTOMER SERVICE</h3>
+			<ul>
+				<li><a href="http://www.footlocker.com/customerserv/help:orderInfo/" title="Ordering Help">Ordering Help</a></li>
+				<li><a href="http://www.footlocker.com/customerserv/help:privacyPolicy/" title="Privacy Policy">Privacy Policy</a></li>
+				<li><a href="http://www.footlocker.com/customerserv/help:terms/" title="Terms of Use">Terms of Use</a></li>
+				<li><a href="http://www.footlocker-inc.com/company.cfm?page=foot-locker" target="_blank" title="About Us">About Us</a></li>
+				<li><a href="http://www.footlocker.com/customerserv/help:shipInfo/" title="Shipping Info">Shipping Info</a></li>
+				<li><a href="http://www.footlocker.com/customerserv/help:sportSpecificSizing/" title="Sizing Help">Sizing Help</a></li>
+				<li><a href="http://www.footlocker.com/customerserv/help:returnsExchanges/" title="Returns and Exchanges">Returns &amp; Exchanges</a></li>
+				<li><a href="http://www.footlocker.com/sitemap/" title="Footlocker.com Sitemap">Sitemap</a></li>
+				<li><a href="http://www.footlocker.com/promotion/promoId:5002090/footlocker-affiliate/" title="Affiliates">Affiliates</a></li>
+				<li><a href="http://www.footlocker.jobs" target="_blank" title="Careeer Opportunities">Career Opportunities</a></li>
+				<li><a href="http://www.footlocker.com/promotion/promoId:5002469/foot-locker-store-locator/" manual_cm_sp="footer-_-Text-_-StoreLocator" title="Foot Locker Store Locator">Store Locator</a></li>
+				<li><a href="http://www.footlocker-inc.com/" target="_blank" title="Foot Locker, Inc.">Foot Locker, Inc.</a></li>
+				<li><a href="https://www.footlocker.com/feedback/" title="Footlocker Site Feedback">Site Feedback</a></li>
+			</ul>
+		</div> <!-- END Column 3 -->
+		
+		<!-- START Column 4 -->
+		<div id="fl_footer_col4">
+			<a href="http://www.footlocker.com/vip/" manual_cm_sp="footer-_-Button-_-VIP" title="Become A VIP">
+				<span class="footer_sprite footer_vip">&nbsp;</span>
+				<p class="vip_par"><span>Join now and get $10 off<br>a future purchase.</span><br>
+					Exclusive offers, updates and VIP access to special events.
+				</p>
+			</a>
+			<p><span>Need to reach us for a<br> question, comment or<br>suggestion?</span></p>
+			<p class="tel_num">1.800.991.6815</p>
+			<a href="http://ebm.cheetahmail.com/r/regf2?a=0&amp;aid=1095704045&amp;n=2" target="_blank" title="Email Sign-up">
+				<p><span>Email Exclusives</span><br>
+					Sign up now to receive special<br>offers and exclusives.
+				</p>
+			</a>
+            <form id="quickEmail" onsubmit="open_emailform(); return false;">
+            	<div class="footer_sprite footer_email">
+            	<input type="email" id="userEmail" value="Enter Email Address" onfocus="if(this.value=='Enter Email Address'){this.value=''}" onblur="if(this.value==''){this.value='Enter Email Address'}">
+                <img src="http://www.footlocker.com/images/fl/global/pixel.gif" height="47" width="20" border="0" class="email_submit_btn" onclick="open_emailform()">
+                </div>
+            </form>
+		</div> <!-- END Column 4 -->
+		<!-- START Footer Copyright Line -->
+		<div id="cleardiv"></div>
+		<div id="copyright_line">
+			<p>Prices subject to change without notice.  Products shown may not be available in our stores. ( <a href="http://www.footlocker.com/customerserv/help:productInformation/">more info</a> ) © 2013 Footlocker.com, Inc. All Rights Reserved</p>
+		</div> <!-- END Copyright Line -->
+		
+		<!-- start footer-icons div -->
+        
+	    <div id="footer-icons">
+	        <div class="footer-spacer">&nbsp;</div>
+	        <div class="footer-icons-slot"><a target="_blank" href="http://stellaservice.com/profile/52/" rel="nofollow"><img width="65" height="37" border="0" src="/ns/footer/images/stellaservice.png" alt="Stella Service"></a></div>
+	        <div class="footer-icons-slot"><a target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=www.footlocker.com" rel="nofollow"><img width="65" height="37" border="0" src="//images.scanalert.com/meter/www.footlocker.com/31.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of ScanAlert'); return false;"></a></div>
+	        <div class="footer-icons-slot"><a href="http://www.bizrate.com/ratings_guide/cust_reviews__mid--17345.html" target="_blank" rel="nofollow"><img src="//medals.bizrate.com/medals/dynamic/small/17345_medal.gif" alt="bizrate Customer Certified Site - Foot Locker Reviews at Bizrate" width="112" height="37" border="0"></a></div>
+	        <div class="footer-icons-slot"><a href="javascript:openSponsor('https://www.paypal.com/');"><img src="http://www.footlocker.com/images/fl/paypal/btn_paypal_AcceptMark_68x43.gif" width="70" height="37" border="0"></a></div>
+	        <div class="footer-icons-slot margin-mod"><script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=www.footlocker.com&amp;size=S&amp;use_flash=YES&amp;use_transparent=YES&amp;lang=en"></script><br><a href="http://www.verisign.com/ssl-certificate/" target="_blank" style="color:#FFF; text-decoration:none; font:bold 7px verdana,sans-serif; letter-spacing:.5px; text-align:center; margin:0px; padding:0px;">ABOUT SSL CERTIFICATES</a></div>
+	        <div class="footer-icons-slot"><a href="http://www.foot-locker.co.uk/" target="_blank" title="footlocker europe"><img src="/ns/footer/images/footlockereurope.png" alt="footlocker europe" title="footlocker europe" width="68" height="50" border="0"></a></div>
+	        <div class="footer-icons-slot top-space"><a href="http://www.ladyfootlocker.com/" target="_blank" title="ladyfootlocker.com"><img src="/ns/footer/images/ladyfootlocker.png" alt="ladyfootlocker.com" title="ladyfootlocker.com" width="113" height="15" border="0"></a></div>
+	        <div class="footer-icons-slot top-space"><a href="http://www.kidsfootlocker.com/" target="_blank" title="kidsfootlocker.com"><img src="/ns/footer/images/kidsfootlocker.png" alt="kidsfootlocker.com" title="kidsfootlocker.com" width="113" height="16" border="0"></a></div>
+	        <div class="clear"></div>
+	    </div>
 <!-- end footer-icons div -->
+		
+	</div> <!-- END inner container -->
+</div> <!-- END Full Width Wrapper -->
 
-</div>
-<!-- end footer tagline div -->
-
-<div id="cleardiv"></div>
-
-<!-- end outside div -->
-<!--</div> -->
-<!-- end bg div -->
-</div> 
+<!-- BEGIN ADD TO HOMESCREEN CODE -->
+<script language="javascript">
+ if(navigator.userAgent.match(/iPad/i))
+  {
+    var addToHomeConfig = {
+      message:'Install Foot Locker on your %device, tap %icon, and then <strong>"Add to Home Screen</strong>".',
+      arrow: false
+    };
+  document.write('<link rel="apple-touch-icon" sizes="72x72" href="/images/fl/mobile/images/add_to_homescreen/ipad.png">');
+  document.write('<link rel="stylesheet" href="/images/common/mobile/js/add_to_homescreen/css/add2home.css">');
+  document.write('<script src="/images/common/mobile/js/add_to_homescreen/scripts/add2home.js" type="text/javascript"><\/script>')
+  }
+</script>
+<!-- END ADD TO HOMESCREEN CODE --> 
 	 <script type="text/javascript"> 
         try { mybuys.deferInitPage(); } catch(e) {}; 
         $(document).ready(function() { 
             try { mybuys.initPage(); } catch(e) {}; 
         }); 
     </script>
-
-<img src="/dotomi_tracking/event?dataType=5&amp;company=21&amp;transactionId=5555-40171208322140080963971-0&amp;metaData=%0A%09%09%09%3COrderMetaData%3E%0A%09%09%09%09%3ChttpHeader%3E%0A%09%09%09%09%09ia%5Farchiver%20%28%2Bhttp%3A%2F%2Fwww%2Ealexa%2Ecom%2Fsite%2Fhelp%2Fwebmasters%3B%20crawler%40alexa%2Ecom%29%7C%7C174%2E129%2E237%2E157%7C%7Cwww%2Efootlocker%2Ecom%2Fcontroller%2Ecfm%3Fto%3DcustomerService%26amp%3BremainingDetails%3Dhelp%3AprivacyPolicy%7C%7C%20%0A%09%09%09%09%3C%2FhttpHeader%3E%0A%09%09%09%3C%2FOrderMetaData%3E%0A%09%09%09">
-</body></html>
+</div><script type="text/javascript" src="//zn_bnsxr5xqbabthnr-footlockercominc.siteintercept.qualtrics.com/WRSiteInterceptEngine/?Q_ZID=ZN_bNSXR5xQbABThNr&amp;Q_LOC=https%3A%2F%2Fweb.archive.org%2Fweb%2F20130519033551id_%2Fhttp%3A%2F%2Fwww.footlocker.com%2Fcustomerserv%2Fhelp%3AprivacyPolicy%2F&amp;t=1580392099882"></script></body></html>
