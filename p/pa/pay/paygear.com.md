@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paygear.com privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119042616id_/http%3A//www.paygear.com/contents/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paygear.com privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519191411id_/http%3A//www.paygear.com/contents/privacy) for the most accurate reproduction.*
 
 # Privacy - Shopping Cart | Affiliate Software | Sell Online
 
