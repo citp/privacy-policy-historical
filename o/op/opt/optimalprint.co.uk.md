@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the optimalprint.co.uk privacy policy that was archived on 2012-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121007033738id_/http%3A//www.optimalprint.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optimalprint.co.uk privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519142422id_/http%3A//www.optimalprint.co.uk/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Cookies & Privacy
 
 Back
 
@@ -11,7 +11,7 @@ Back
 
 Optimalprint knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. By visiting our Site and any of the sites offered by Optimalprint, you are accepting the practices described in this Privacy Policy. For question on the Privacy Policy please contact [privacypolicy@optimalprint.com](mailto:privacypolicy@optimalprint.com). 
 
-## Children:
+## Children
 
 Optimalprint does not sell services for purchase by children. If you are under 18, you may use our services only with involvement of a parent or guardian. 
 
@@ -63,13 +63,15 @@ We release account and other personal information when we believe release is app
 
 ## Cookies 
 
-A cookie is a small text file, alphanumeric identifiers, that is placed on your hard disk by a Web page server. Cookies contain information that can later be read by a web server in the domain that issued the cookie to you. Cookies cannot be used to run programs or deliver viruses to your computer. 
+The Optimalprint website (www.optimalprint.co.uk) places cookies, which are small data files, on your computer or handheld device. This is standard practice for all websites. Cookies are essential for helping us deliver a high quality website and online shopping experience for our customers, and to collect information about browsing and buying behavior. By showing how and when our visitors use Optimalprint's Site, the use of cookies allows Optimalprint to continue to improve the site. This site also makes use of cookies for website traffic analysis and anonymous demographic profiling. 
 
-Optimalprint Web sites use "cookies" to enable you to sign in to our services, help personalize your online experience and control the flow of the ordering processes by maintaining the state of your online transactions. By showing how and when our visitors use Optimalprint's Site, the use of cookies allows Optimalprint to continue to improve the sites. This site also makes use of cookies for website traffic analysis and anonymous demographic profiling. 
+A cookie is a small text file, alphanumeric identifiers, that is placed on your hard disk by a Web page server. Cookies contain information that can later be read by a web server in the domain that issued the cookie to you. Cookies cannot be used to run programs or deliver viruses to your computer. 
 
 If you do not wish to receive cookies, or want to be notified of when they are placed, you may set your web browser to do so, if your browser so permits. Please understand that if cookies are turned off, you may not be able to view certain parts of this site that may enhance your visit. 
 
 Some of our business partners whose content is linked to or from this site may also use cookies. However, we have no access to or control over these cookies. 
+
+By using and browsing the Optimalprint website, you consent to cookies being used in accordance with our policy. If you do not consent, you must disable cookies or refrain from using the site. 
 
 ## Spam
 
