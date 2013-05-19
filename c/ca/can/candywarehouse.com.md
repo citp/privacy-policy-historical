@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the candywarehouse.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118041416id_/http%3A//www.candywarehouse.com/service/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the candywarehouse.com privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519204328id_/http%3A//www.candywarehouse.com/service/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | CandyWarehouse.com Online Candy Store
 
 CandyWarehouse.com has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at customercare@candywarehouse.com. If you are not satisfied with our response you can contact TRUSTe here: [Submit a Privacy Complaint with TRUSTe](http://watchdog.truste.com/pvr.php?page=complaint)
 
-[](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.candywarehouse.com&sealid=101)
+[](https://privacy.truste.com/privacy-seal/CandyWarehouse-com/validation?rid=4ca0e273-2486-4af8-ade8-a66adc49cf25 "TRUSTe online privacy certification")
 
 **CandyWarehouse.com Privacy Policy Effective on: 1/19/2007**
 
@@ -79,6 +79,10 @@ We set a persistent cookie to store your items placed in your shopping cart, so 
 
 If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as contests or surveys, will be limited.
 
+**Third Party Cookies**
+
+The use of cookies by our partners is not covered by our privacy statement. We do not have access or control over these cookies. Our partners use session ID cookies to help serve you better.
+
 **Links to Other Sites**
 
 This Web site contains links to other sites that are not owned or controlled by CandyWarehouse.com Please be aware that we, CandyWarehouse.com, are not responsible for the privacy practices of such other sites.
@@ -102,6 +106,10 @@ If you have any questions about security on our Web site, you can send email us 
 **Business Transitions**
 
 In the event CandyWarehouse.com goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred. You will be notified via email of any such change in ownership or control of your personal information.
+
+**Data Retention**
+
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at customercare@candywarehouse.com. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 **Changes in this Privacy Statement**
 
