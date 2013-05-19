@@ -1,0 +1,221 @@
+<!--The following is the downloaded HTML source of the priceweave.com privacy policy that was archived on 2013-05-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130519192059id_/http%3A//www.priceweave.com/privacypolicy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html><head>
+	<title>PriceWeave</title>
+	<link rel="stylesheet" type="text/css" href="public/dwv2_min.css">
+	<!-- <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script> -->
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="public/js/jquery-1.8.2.min.js"></script>
+  	<link type="text/css" rel="stylesheet" href="public/tipsy_line_min.css">
+	<script src="public/js/jquery.session.min.js"></script>
+	<script src="public/js/jquery.tipsy.min.js"></script>
+</head><body id="dataweave">
+	<div class="container">
+		<!-- This is the New Header Section -->
+		
+<div class="header">
+	<ul class="headerLinks logo">
+		<li class="logo"><a href="index.php"><img src="public/css/spacer.gif" width="120" height="28"></a></li>
+		<li><a href="pricingplans.php">Pricing</a></li>
+		<li><a href="contact-us.php">Contact Us</a></li>
+		<li><a href="about-us.php">About Us</a></li>
+		
+				<li class="user"><a href="javascript:void(0)" class="show_login">Login</a>
+			<ul class="loginBox loginHide">
+			<form action="" method="post" id="login_form" tabindex="1">
+				<li><label>Email / Username</label><input class="data" value="" name="email" id="email" placeholder="myname@domain.com" type="text"></li>
+				<li>
+					<label>Password</label><input class="data" value="" name="password" id="password" placeholder="password" type="password">
+					<p id="login_error" class="error"></p>
+				</li>
+				<input class="data" value="form_submission" name="parameter" id="parameter" placeholder="password" type="hidden">
+				<li><label>&nbsp;</label><input type="button" id="login_button" class="buttonRegular" value="Login"> <input type="checkbox" class="checkButton"> Remember Me </li>
+				<li><label>&nbsp;</label><a href="#" id="forget_password_link">Forgot Password?</a> Not a member? <a href="#" class="show_signUp">Request Demo</a></li>
+			</form>
+			</ul>
+			<ul id="forgetPass_form_box" class="loginBox hidden">
+        <li><label>Email </label><input class="data" id="forget_email" value="" name="user" placeholder="myname@domain.com" type="text"><p id="forget_box_error" class="error"></p></li>
+        <p id="forgetPass_status" class="error"></p>
+        <li><label>&nbsp;</label><input type="submit" id="get_password_button" class="buttonRegular" value="Get Password"></li>
+        <li><label>&nbsp;</label><a href="#" class="show_login">Login</a> Here? Not a member? <a href="#" class="show_signUp">Signup</a></li>
+      </ul>
+		</li>
+		<li class="user"><a href="javascript:void(0)" class="show_signUp">Request Demo</a>
+			<ul class="loginBox signUpHide">
+           		<li>Leave your email and we will get back to you.</li>
+           		<li><label>Request a Demo</label><input class="data" value="" placeholder="myname@domain.com" type="text" id="demo-email"></li>
+           		<li>By clicking the button you read and understood the <br><a href="termsandconditions.php" target="_blank">Terms, Conditions</a> and <a target="_blank" href="privacypolicy.php">Privacy Policy</a></li>
+           		<li><label>&nbsp;</label>
+           			<input type="submit" class="buttonRegular" value="Request Demo" id="request_demo">
+           			<input type="hidden" name="action" value="signup">
+           		</li>
+			</ul>
+		</li>
+			</ul>
+	<div class="clearfix"></div>
+</div>
+<script type="text/javascript">
+	$('#request_demo').live('click',function(){
+		$.ajax({
+        	url: "processes/request_demo.php?email=" +$('#demo-email').val(),
+        	cache: false,
+        	dataType: "json",
+        	success: function(res){
+        		$('.signUpHide').html("<li>"+res.message+"</li>");
+			}
+    	});	
+	});
+
+	$('#login_button').live('click',function(e){
+		var email = $('#email').val();
+		var password = $('#password').val();
+
+		var dataString ='email='+email+'&password='+password;
+
+		$.ajax({
+        	url: "processes/login.php",
+        	cache: false,
+        	type: 'post',
+            dataType: "json",
+            data: dataString,
+        	success: function(res){
+        		$('#login_error').html(res.message);
+        		
+            if(res.status=='success')
+        			 $('#login_error').addClass('success');
+        		$('#login_error').show('slow');
+        		
+            if(res.status=='success')
+        		{
+        			$('form').get(0).setAttribute('action', 'products.php');
+        			$('#login_form').submit();
+        		}
+			}
+    	});	
+	});
+
+	$('#login_form').bind('keydown', function(event) {
+  		if(event.keyCode==13){
+  			$('#login_button').trigger('click');
+  		}
+  	});
+
+  	$('#get_password_button').live('click',function(event){
+        event.preventDefault();
+        var dataString = 'email='+$('#forget_email').val();
+        $.ajax({
+            type: "POST",
+            url: "processes/forget_password.php",
+            cache: false,
+            data: dataString,
+            success: function(res)
+            {
+                $('#forgetPass_status').html(res);
+                $('#forgetPass_status').addClass('success');
+                $('#forgetPass_status').show('slow');
+               
+            }
+        });
+    });
+</script>
+		<article>				
+		<div class="homePageText pits">
+			<h1>Privacy Policy</h1>
+            <p>This Privacy Policy governs the manner in which DataWeave Software Private Limited collects, uses, maintains and discloses information collected from users of the http://www.dataweave.in website. This privacy policy applies to the website and all products and services offered by DataWeave Software Private Limited.</p>
+
+            <h2>Personal identification information</h2>
+            <p>We may collect personal identification information from users in a variety of ways, including, but not limited to, when users visit our website, register on the website, subscribe to our services, subscribe to the newsletter, fill out a form, and in connection with other activities, services, features or resources we make available on our website. users may be asked for, as appropriate, name, email address, mailing address, phone number, credit card information. users may, however, visit our website anonymously. We will collect personal identification information from users only if they voluntarily submit such information to us. users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain website related activities.</p>
+
+            <h2>Non-personal identification information</h2>
+            <p>We may collect non-personal identification information about users whenever they interact with our website. Non-personal identification information may include the browser name, the type of computer and technical information about users means of connection to our website, such as the operating system and the Internet service providers utilized and other similar information.</p>
+
+            <h2>Web browser cookies</h2>
+            <p>Our website may use "cookies" to enhance user experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. A user may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the website may not function properly.</p>
+
+            <h2>How we use collected information</h2>
+            <p>DataWeave Private Limited collects and uses users personal information for the following purposes: - To personalize user experience We may use information in the aggregate to understand how our users as a group use the services and resources provided on our website. - To improve our website We continually strive to improve our website offerings based on the information and feedback we receive from you. - To improve customer service Your information helps us to more effectively respond to your customer service requests and support needs. - To process transactions We may use the information users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service. - To send periodic emails The email address users provide for order processing, will only be used to send them information and updates pertaining to their order. It may also be used to respond to their inquiries, and/or other requests or questions. If user decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the user would like to unsubscribe from receiving future emails, they may do so by contacting us via our website.</p>
+
+            <h2>How we protect your information</h2>
+            <p>We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our website.</p>
+
+            <p>Sensitive and private data exchange between the website and its users happens over a SSL secured communication channel and is encrypted and protected with digital signatures.</p>
+
+            <h2>Sharing your personal information</h2>
+            <p>We do not sell, trade, or rent users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above. We may use third party service providers to help us operate our business and the website or administer activities on our behalf, such as sending out newsletters. We may share your information with these third parties for those limited purposes provided that you have given us your permission.</p>
+
+            <h2>Changes to this privacy policy</h2>
+            <p>DataWeave Software Private Limited has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.</p>
+
+            <h2>Your acceptance of these terms</h2>
+                <p>By using or visiting this website, you signify your agreement of this policy and terms of service. If you do not agree to any of these terms, please do not use this website (or service).</p>
+
+                <h2>Contacting Us</h2>
+                <p>If you have any questions about this Privacy Policy, the practices of this website, or your dealings with this website, please contact us at:</p>
+
+                <p>DataWeave<br>
+                    Banshankari 3rd Stage<br>
+                    Bangalore, Karnataka 560085 <br>
+                    Phone 1: <a href="tel:+91 9740789497">+91 9740789497</a><br>
+                    Phone 2: <a href="tel:+91 8123779936">+91 8123779936</a><br>
+                    Email: <a href="mailto:contact@dataweave.in">contact@dataweave.in</a></p>
+
+		</div>
+		
+		  <div class="footer">
+			<a href="about-us.php">About</a> | <a href="contact-us.php">Contact Us</a> | <a href="webmasters.php">Webmasters</a> | <a href="http://blog.dataweave.in">Blog</a> | <a href="termsandconditions.php">Terms and Conditions</a> | <a href="privacypolicy.php">Privacy Policy</a><br>
+			©&nbsp;Dataweave 2013. All rights reserved
+	</div>
+</article></div>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-29183336-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+	</script>
+
+	<script type="text/javascript">
+ 
+		$(document).ready(function(){
+		 	$('.show_login').click(function(){
+    		    $(".loginHide").slideToggle();
+        		$('#forgetPass_form_box').hide();
+        		$(".signUpHide").hide();
+            $("#email").focus();
+    		});
+    		$('.show_signUp').click(function(){
+        		$(".signUpHide").slideToggle();
+        		$('#forgetPass_form_box').hide();
+        		$(".loginHide").hide();
+            $("#demo-email").focus();
+    		});
+    
+    		$('#forget_password_link').click(function(){
+        		$(".loginHide").slideToggle();
+        		$('#forgetPass_form_box').show();
+    		});
+
+		    $('.show_hide').click(function(){
+		    	$(".signUpHide").hide();
+		    	$(".loginHide").hide();
+		    });
+
+        $("body").click(function(event) {
+          var clicked_at = $(this).attr("class");
+          if(clicked_at!='show_login')
+          {
+            //$('.show_login').trigger('click');
+          }
+        });
+		});
+ 
+	</script>
+
+ </body></html>
