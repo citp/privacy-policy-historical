@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bitefight.pk privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520032634id_/http%3A//agb.gameforge.de/index.php%3Flang%3Den%26art%3Ddatenschutz%26special%3D%26%26f_text%3DC00C0C%26f_text_hover%3DFF0000%26f_text_h%3D220202%26f_text_hr%3D220202%26f_text_hrbg%3D220202%26f_text_hrborder%3DC00C0C%26f_text_font%3Dtahoma%26f_bg%3D220202) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitefight.pk privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519184815id_/http%3A//agb.gameforge.de/index.php%3Flang%3Den%26art%3Ddatenschutz%26special%3D%26%26f_text%3DC00C0C%26f_text_hover%3DFF0000%26f_text_h%3D220202%26f_text_hr%3D220202%26f_text_hrbg%3D220202%26f_text_hrborder%3DC00C0C%26f_text_font%3Dtahoma%26f_bg%3D220202) for the most accurate reproduction.*
 
 # Gameforge
 
