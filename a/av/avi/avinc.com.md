@@ -1,9 +1,14 @@
-> *The following text is extracted and transformed from the avinc.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118061828id_/http%3A//www.avinc.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avinc.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520002132id_/http%3A//www.avinc.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - AeroVironment, Inc.
 
-AeroVironment, Inc. (“AV”) is dedicated to protecting consumer privacy. This notice explains how AV collects, uses, and discloses information about you when you subscribe to our services and you visit our Web sites. **_Your use of this website, and/or receipt of AV’s and/or EV Solutions™ products or services constitutes acceptance of this Policy._** _  
-_****  
+AeroVironment, Inc. (“AV”) is dedicated to protecting consumer privacy. This notice explains how AV collects, uses, and discloses information about you when you subscribe to our services and you visit our Web sites. **__**
+
+**_Your use of this website, and/or receipt of AV’s and/or EV Solutions™ products or services constitutes acceptance of this Policy._**
+
+ __
+
+****  
 **This Policy explains our practices in the following areas:**  
 1\. The nature of the information we collect about you and the way such information is used.  
 2\. The nature, frequency, and purpose of any disclosure of information that we may make, including the types of persons or entities to whom the disclosure may be made.  
