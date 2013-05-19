@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the givemeneither.com privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119040950id_/http%3A//www.givemeneither.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the givemeneither.com privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519193140id_/http%3A//www.givemeneither.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.givemeneither.com%2Fprivacy-policy%2F&media=)
 
 ## Privacy Policy for GiveMeNeither.com
 
