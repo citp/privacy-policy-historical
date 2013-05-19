@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the honestjohn.co.uk privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230185123id_/http%3A//www.honestjohn.co.uk/terms/privacy-and-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the honestjohn.co.uk privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519165359id_/http%3A//www.honestjohn.co.uk/terms/privacy-and-cookie-policy) for the most accurate reproduction.*
 
 # Terms and Conditions | Honest John
 
@@ -109,7 +109,7 @@ During the course of any visit to our site, the pages you see, along with a cook
 
 Third party cookies
 
-Please note that third parties (including, for example, advertising networks and providers of external services like web traffic analysis services) may also use cookies, over which we have no control. These cookies are likely to be analytical/performance cookies or targeting cookies. 
+Please note that third parties (including Yahoo and other advertising networks and providers of external services like web traffic analysis services) may also use cookies, over which we have no control. These cookies are likely to be analytical/performance cookies or targeting cookies. 
 
 To find out which third party cookies are stored on your PC and possibly to remove them, please visit [http://www.youronlinechoices.com/uk/](http://www.youronlinechoices.com/uk/) to opt out.
 
