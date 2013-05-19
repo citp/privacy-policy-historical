@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greeka.com privacy policy that was archived on 2012-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120924211214id_/http%3A//www.greeka.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greeka.com privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519223039id_/http%3A//www.greeka.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Greeka.com: Privacy Policy
 
@@ -13,7 +13,7 @@ Keeping in touch with you
 We want to keep you up to date with developments at the Greeka Website. We may also use your details to send you information about the services we offer on the Website or elsewhere or for research purposes. You will be able to remove your email address from our mailing list at any time using the links, or other options, in the emails we send you. We usualy send one newletter every 4 months. 
 
 How can I unsubscibe?  
-You can unsubscribe from [http://www.greeka.com/newsletter.htm](http://www.mailing.gr/unsubscribe.php) or [contact us ](https://web.archive.org/web/20120924211214id_/http%3A//www.greeka.com/contact.htm)
+You can unsubscribe from [http://www.greeka.com/newsletter.htm](http://www.mailing.gr/unsubscribe.php) or [contact us ](https://web.archive.org/web/20130519223039id_/http%3A//www.greeka.com/contact.htm)
 
 Other policies  
-Read about our [Libel Policy ](https://web.archive.org/web/20120924211214id_/http%3A//www.greeka.com/libel-policy.htm)
+Read about our [Libel Policy ](https://web.archive.org/web/20130519223039id_/http%3A//www.greeka.com/libel-policy.htm)
