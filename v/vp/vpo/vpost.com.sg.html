@@ -1,52 +1,108 @@
-<!--The following is the downloaded HTML source of the vpost.com.sg privacy policy that was archived on 2012-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120617032721id_/http%3A//www.vpost.com.sg/vpost/welcome.jsp%3Fpage%3Dprivacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vpost.com.sg privacy policy that was archived on 2013-05-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130519032501id_/http%3A//www.vpost.com.sg/vpost/welcome%3Fpage%3Dinc_privacy.html%26option%3D3) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>vPOST :- Shopping | Shipping | Bill Payment</title>
+<!DOCTYPE html><html lang="en-US"><head>
+		<meta charset="UTF-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=9">
 
-<script src="/rvmp/js/AC_RunActiveContent.js" language="javascript"></script>
-<script src="/rvmp/js/SpryEffects.js" type="text/javascript"></script>
-<script src="/rvmp/js/SpryDOMUtils.js" type="text/javascript"></script>
-<script src="/rvmp/js/spry_home.js" type="text/javascript"></script>
-<script src="/rvmp/js/iepngfix_tilebg.js" type="text/javascript"></script>
-<!--[if lte IE 6]><link rel="stylesheet" type="text/css" href="/rvmp/css/main-msie.css" /><![endif]-->
-<link href="/rvmp/css/main.css" rel="stylesheet" type="text/css">
-<link href="/rvmp/css/shipping_styles.css" rel="stylesheet" type="text/css">
+		<meta name="description" content="Shop at any merchant and have vPOST ship to you. vPOST is your one-stop portal for online shopping, international shipping and bill payment services.">
+		<meta name="keywords" content="online shopping, online shopping websites, online shopping malls, online shops, international shipping, international shipping companies, vPOST international shipping">
 
-</head>
+		<link type="image/x-icon" href="/rvmpnew/images/favicon.ico" rel="icon">
+		<link rel="stylesheet" type="text/css" href="/rvmpnew/css/nyroModal.css">
+		<link rel="stylesheet" type="text/css" href="/rvmpnew/css/colorbox.css">
+		<link rel="stylesheet" type="text/css" href="/rvmpnew/css/all.css">
+		<link href="/vpost/revamp_app.css" rel="stylesheet" type="text/css">
+		<!--[if lte IE 9]>
+			<link rel="stylesheet" type="text/css" href="css/ie9.css"/>
+		<![endif]-->
+		<script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script src="/rvmpnew/js/jquery-1.8.2.min.js" type="text/javascript"></script>
+		<script src="/rvmpnew/js/jquery.pstrength-min.1.2.js" type="text/javascript"></script>
+		<script src="/rvmpnew/js/jquery.nyroModal.custom.fixed4iphone.js" type="text/javascript"></script>
+		<script src="/rvmpnew/js/jquery.jcarousel.min.js" type="text/javascript"></script>
+		<script src="/rvmpnew/js/jquery.colorbox.js" type="text/javascript"></script>
+		<script src="/rvmpnew/js/file1.js" type="text/javascript"></script>
+		<script src="/rvmpnew/js/jquery.validate.js" type="text/javascript"></script>
+		<script src="/rvmpnew/js/main.js" type="text/javascript"></script>
+		<script src="/rvmpnew/js/html5.js" type="text/javascript"></script>
+		<!--<script type="text/javascript">
+			$(document).ready(function(){
+				//$('.nyroModal').nyroModal();
+				$('#announcement').jcarousel({
+					scroll:1
+				});
 
-
-
-
-<body class="oneColLiqCtrHdr">
-
-
-
-<div id="wrapper">
-
-<!-- include HEADER -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+				$(".inline").colorbox({inline:true, width:"800px"});
+			});
+		</script>-->
+		<script type="text/javascript">
+			$(document).ready(function(){
+				$('.nyroModal').nyroModal();
+				//$.nmObj({sizes: { initW: 300, initH: 300 }});
+				$('#announcement').jcarousel({
+					scroll:1
+				});
+				
+				$(".inline").colorbox({inline:true, width:"420px"});
+				$(".address_inline").colorbox({inline:true, width:"680px"});
+				$(".othercharges_inline").colorbox({inline:true, width:"500px"});
+				$(".repack_inline").colorbox({inline:true, width:"720px"});
+				$(".declaration_inline").colorbox({inline:true, width:"810px"});
+				
+				$(".shipping_address_inline").colorbox({inline:true, width:"760px"});
+				
+				
+				//tab
+			$tab = $('.tabs');
+			$tabLink = $('.tabs li a');
+			$tabSection = $('.tab-content section');
+			
+			$tabLink.click(function(e){
+				$(this).parents('.tabs').find('li').removeClass('selected');
+				$(this).parent().addClass('selected');
+				e.preventDefault();
+				$(this).parents('.tab-container').find('.tab-content section').removeClass('selected');
+				$($(this).attr('name')).addClass('selected');
+			});
+			
+			//country tab
+			$tab = $('.tabs');
+			$tabLi = $('.tabs li');
+			$titleTabLi = $('.lightbox-title .tabs li');
+			$lightTabLink = $('.lightbox .tabs li a');
+			$lightTabSection = $('.lightbox .tab-content section');
+			
+			$lightTabLink.click(function(e){
+				$titleTabLi.removeClass('selected');
+				$(this).parent().addClass('selected');
+				e.preventDefault();
+				$lightTabSection.removeClass('selected');
+				$($(this).attr('name')).addClass('selected');
+			});
+			
+			//country
+			countryLink = $('.address-country a');
+			
+			countryLink.click(function(e){
+				e.preventDefault();
+				$lightTabSection.removeClass('selected');
+				$titleTabLi.removeClass('selected');
+				$($(this).attr('name')).addClass('selected');
+				countryAttr = $(this).attr('name');
+				$tabLi.each(function(){
+					thisAttr = $($(this).find('a')).attr('name');
+					console.log(thisAttr);
+					console.log(countryAttr);
+					if(thisAttr == countryAttr){						
+						$(this).addClass('selected');
+					}
+					else{
+						
+					}
+				});
+			});
+			});
+		</script>
 
 <script>
 function clearUserID(){
@@ -71,8 +127,8 @@ var link;
     {
 		document.getElementById('form%username').value = document.getElementById('E2EE_USER_ID').value;
 		document.getElementById('form%password').value = document.getElementById('E2EE_CLEAR_PIN').value;
-		document.forms[0].action="/vpost/vpostasiaauthenticate";
-		document.forms[0].submit();
+		document.LoginForm.action="https://www.vpost.com.sg/vpost/vpostasiaauthenticate";
+		document.LoginForm.submit();
     }
 
 }
@@ -127,6 +183,7 @@ window.location=link;
 
 function redirect_linkPassword()
 {
+	/*
 var currentLink=location.href;
 var link;
     if (currentLink.indexOf("https://www.vpost.com.sg/") == 0)
@@ -157,8 +214,8 @@ var link;
     else
     {
     link="http://www.singpost.com/vpost.asp";
-    }
-window.location=link;
+    }*/
+window.location="https://www.vpost.com.sg/vpost/vpostasia/public/Asia_ForgetPWD.jsp?ip=10.210.250.5&asiacountry=SG";
 }
 </script>
 
@@ -176,15 +233,17 @@ window.location=link;
 		// username and password should be removed after migration period over
 		document.getElementById('form%password').value = document.getElementById('E2EE_CLEAR_PIN').value;
 		document.getElementById('form%username').value = flduserid;
-		document.getElementById('E2EE_CLEAR_PIN').value = "";	// must clear this field so that not submitted to server
-		document.forms["LoginForm"].submit();
+		//document.getElementById('E2EE_CLEAR_PIN').value = "";	// must clear this field so that not submitted to server
+		document.getElementById('E2EE_CLEAR_PIN').disabled = true;
+		document.LoginForm.action="https://www.vpost.com.sg/vpost/vauthenticate";
+		document.LoginForm.submit();
 	}
 </script>
 
 <script>
 var publickey= "00C41A7B6B81B86A2C7A01B3B62237F03C9FBE24450A393806EBE7D83C6F511AC11E8507903BF8A5AA572FFD5C2022DFC1DCB983FAB7ECA29594FDE7AD043B98B478B9B7AE80F93F0DBE426F67E518FB208F99A1692010C23BB0E61EFB16CAD6A657D4378D4ED77A00418EB6058D8874D971A692F6D53A30D809A28CC7F0335393:010001";
-var sid="536CCAF8C833C54BA358C08526C7665867465038";
-var clientRandom="B0E16352A1B1CC646C2F92BC7FF56C1686FF4D4C";
+var sid="FF9C8869E8933C3EC52602217BE6DAF03D7780C3";
+var clientRandom="F50653155352212150942AB20882658FE0D853E5";
 var rsa = new RSAEngine();
 rsa.init(publickey, sid, clientRandom);
 
@@ -196,62 +255,90 @@ rsa.init(publickey, sid, clientRandom);
 	}
 </script>
 
+	<title>Online Shopping &amp; International Shipping, Online Shops</title>
+	</head>
+	<body>
+<!-- Qualaroo for vpost.com.sg -->
+<!-- Paste this code right after the <body> tag on every page of your site. -->
+<script type="text/javascript">var _kiq = _kiq || [];</script>
+<script type="text/javascript" src="//s3.amazonaws.com/ki.js/46529/9gj.js" async=""></script>
+		<div id="fb-root"></div>
+		<script>(function(d, s, id) {
+		  var js, fjs = d.getElementsByTagName(s)[0];
+		  if (d.getElementById(id)) return;
+		  js = d.createElement(s); js.id = id;
+		  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+		  fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));</script>
+		<div class="wrapper">
+			<header id="header">
+				
+                <div class="top-right-controls">
+					<nav>
+						<ul>
+							<li><a href="/vpost/vshopCalculator?query=Calculate&amp;country=USA&amp;asiacountry=SG" target="_blank">Shipping Calculator</a></li>
+							<li><a href="/vpost/welcome?page=inc_prohibited_items.html&amp;option=0&amp;asiacountry=SG">Prohibited Shipping Items</a></li>
+						</ul>
+					</nav>
+                    
 
  
- <!-- LOGOUT session-->
-    
-	<div id="header_wrapper">
-        <div id="header_login" class="f-right">
-                <form action="/vpost/vauthenticate" method="post" name="LoginForm" id="LoginForm">
-		<input type="text" id="mockpass1" class="f-left loginfield" value="User ID" onfocus="document.getElementById('mockpass1').style.display='none'; document.getElementById('E2EE_USER_ID').style.display=''; document.getElementById('E2EE_USER_ID').focus();">
-		<input type="text" name="E2EE_USER_ID" class="f-left loginfield" id="E2EE_USER_ID" onkeypress="javascript:enter_key(event);" style="display: none;" onblur="if(this.value=='') {document.getElementById('mockpass1').style.display=''; document.getElementById('E2EE_USER_ID').style.display='none';}" title="Key in your User ID here.">
-		<input type="text" id="mockpass" class="f-left loginfield" value="Password" onfocus="document.getElementById('mockpass').style.display='none'; document.getElementById('E2EE_CLEAR_PIN').style.display=''; document.getElementById('E2EE_CLEAR_PIN').focus();">
-		<input type="password" name="E2EE_CLEAR_PIN" class="f-left loginfield" id="E2EE_CLEAR_PIN" onkeypress="javascript:enter_key(event);" style="display: none;" onblur="if(this.value=='') {document.getElementById('mockpass').style.display=''; document.getElementById('E2EE_CLEAR_PIN').style.display='none';}" title="Key in your password here.">
-
-		<input type="hidden" id="form%username" name="form%username" value="">
-		<input type="hidden" id="form%password" name="form%password" value="">
-
-		<input id="E2EE_RPIN" name="E2EE_RPIN" value="" type="hidden">
-		<input id="E2EE_RANDOM" name="E2EE_RANDOM" value="B0E16352A1B1CC646C2F92BC7FF56C1686FF4D4C" type="hidden">
-		<input id="E2EE_SESSION" name="E2EE_SESSION" value="536CCAF8C833C54BA358C08526C7665867465038" type="hidden">
-		<input id="E2EE_PUBLIC" name="E2EE_PUBLIC" value="00C41A7B6B81B86A2C7A01B3B62237F03C9FBE24450A393806EBE7D83C6F511AC11E8507903BF8A5AA572FFD5C2022DFC1DCB983FAB7ECA29594FDE7AD043B98B478B9B7AE80F93F0DBE426F67E518FB208F99A1692010C23BB0E61EFB16CAD6A657D4378D4ED77A00418EB6058D8874D971A692F6D53A30D809A28CC7F0335393:010001" type="hidden">
-		<input id="LoginBtn" name="LoginBtn" type="hidden">
-		<input type="hidden" name="asiacountry" value="SG">
-                <a class="buttonRed f-left" href="javascript:doSubmitNav();"><span>Login</span></a></form>
-                <br class="clear">
-                <div id="field">
-                <span class="f-left" style="margin-right:10px; margin-top:5px">Forgot your 
-				
-				<a href="Javascript:redirect_linkVpostID();">vPOST ID</a> or 
-				
-				<a href="Javascript:redirect_linkPassword();">Password</a>?</span>
-				
-                <a class="buttonSignUp  f-left" href="/vpost/ezySignUp"><span>Sign Up Now</span></a>
-		
-                </div>
-        </div>
-		
-        <a href="/vpost/index1.jsp"><img src="/rvmp/images/vpost_logo.png" border="0" class="f-left"></a>
-		<!--<a href="https://www.vpostasia.com"><img src="/rvmp/images/vpost_logo.png" border="0" class="f-left"/></a>-->
-		
-        <br class="clear">
-	</div>
-       
-    <div id="nav">
-        <div id="nav_wrapper">
-            <div id="globalnav">
-            
-            <ul class="box">
-			
-            <li null=""><a href="/vpost/welcome?page=help.html&amp;lnav=help_sidenav_main.html"><span>Help</span></a></li>
-            <li null=""><a href="/vpost/welcome?page=about.html&amp;lnav=aboutus_sidenav_main.html"><span>About Us</span></a></li>
-            <li null=""><a href="https://shop.vpost.com.sg" target="_blank"><span>Shop@Post</span></a></li>
-            <li null=""><a href="/vpost/welcome?page=bills.html&amp;option=0"><span>Bill Payment</span></a></li>
-            <li null=""><a href="/vpost/welcome?page=shipping_home.html&amp;option=0"><span>Shipping</span></a></li>
-			
-            </ul>
+ <!-- LOGOUT session-->                
+                
+                    <!-- BEFORE-->
+					<section class="account-state logout">
+						<div class="user-container">
+							<a href="#loginbox" class="nyroModal">
+								<strong>LOGIN</strong> to your account
+							</a>
+							<a href="https://www.vpost.com.sg/vpost/signup-contact-details" class="register">
+								<strong>CREATE</strong> free account
+							</a>
+						</div>
+					</section>
+				  <!-- end BEFORE-->
+                  
+                <div style="display:none;" id="loginbox">
+				 <a href="#" class="cloze" onclick="$.nmTop().close();">Close</a>
+                <div class="lightbox" style="width:420px">
+                    <div class="lightbox-title">
+                        <h3 class="title">Login</h3>
+                    </div>
+                    <div class="lightbox-content" style="padding-top:10px;">
+                              
+                                <form method="post" name="LoginForm" id="LoginForm" class="login">
+                                    <input type="hidden" id="form%username" name="form%username" value="">
+                                    <input type="hidden" id="form%password" name="form%password" value="">
+									<input type="hidden" name="asiacountry" value="SG">
+                            
+                                    <input id="E2EE_RPIN" name="E2EE_RPIN" value="" type="hidden">
+                                    <input id="E2EE_RANDOM" name="E2EE_RANDOM" value="F50653155352212150942AB20882658FE0D853E5" type="hidden">
+                                    <input id="E2EE_SESSION" name="E2EE_SESSION" value="FF9C8869E8933C3EC52602217BE6DAF03D7780C3" type="hidden">
+                                    <input id="E2EE_PUBLIC" name="E2EE_PUBLIC" value="00C41A7B6B81B86A2C7A01B3B62237F03C9FBE24450A393806EBE7D83C6F511AC11E8507903BF8A5AA572FFD5C2022DFC1DCB983FAB7ECA29594FDE7AD043B98B478B9B7AE80F93F0DBE426F67E518FB208F99A1692010C23BB0E61EFB16CAD6A657D4378D4ED77A00418EB6058D8874D971A692F6D53A30D809A28CC7F0335393:010001" type="hidden">
+								
+                                    <label>Login ID</label>
+                                    <input type="text" size="50" name="E2EE_USER_ID" id="E2EE_USER_ID" placeholder="Type your Login ID here">
+                                    <br class="clr">
+                                    <label>Password</label>
+                                    <input type="password" size="50" name="E2EE_CLEAR_PIN" id="E2EE_CLEAR_PIN" placeholder="Type your Password here" onkeypress="javascript:enter_key(event);">
+                                </form>
+                                <br class="clr">
+                                
+                                 <div class="loginsubmit">
+                                 <p><a href="javascript:doSubmitNav();" class="button right"><span>Login</span></a></p>
+                                 <p class="left">
+								 Forgot your <a href="https://www.vpost.com.sg/vpost/EmailUserID?ip=10.210.250.5&amp;mode=Start&amp;asiacountry=SG">Login ID</a> or 
+								 <a href="https://www.vpost.com.sg/vpost/OnlineResetPwd?ip=10.210.250.5&amp;mode=Start">Password</a>?<br>No account? <a href="/vpost/signup-contact-details">Create a free account</a>.
+								 
+								 </p>
+								 <br class="clr"> 
+                                </div>
+                    </div>
             </div>
-            <!--
+            </div>
+
+
+<!--
 *********************************************************************
 Project Name: vPOST
 Program Module: login
@@ -262,56 +349,235 @@ Copyright 2000 Singapore Post Ltd
 *********************************************************************
 -->
 
-
-        </div>	
-    </div>
-    
+     
 <!-- end LOGOUT-->
 
+                    
+				</div>
+                
+				<div class="logo-container">
+					<div class="logo">
+						<a href="/vpost/signinsuccess_fullaccess.jsp?option=login&amp;type=GATEWAY&amp;asiacountry=SG">
+							Logo
+						</a>
+					</div>
+					<div class="location-container">
+                   		 <ul class="location">
+							<!--<li><a href="#"><span class="flag"></span> Singapore</a></li>
+							<li><a href="#"><span class="flag"></span> Europe</a></li>
+							<li><a href="#"><span class="flag"></span> USA</a></li>
+							<li><a href="#"><span class="flag"></span> Japan</a></li>-->
+							<!-- Depending on the country it’s at -->
+							
+						</ul>
+                        <br>
+						<div class="fb-like" data-href="http://www.facebook.com/vPOSTFanClub" data-width="450" data-show-faces="false"></div>
+					</div>
+				</div>
+				<nav class="main-nav">
+					<ul>
+						<li>
+							<a href="#" style="cursor: default;">Help Me Ship</a>
+							<div class="hoverstate">
+								<div class="img-content">
+									<figure>
+										<img src="/rvmpnew/images/nav1-img.png">
+									</figure>
+                                    
+
+ 
+ <!-- LOGOUT session-->                
+                
+									  <!-- BEFORE -->
+									<div class="content">
+										<p>
+											<strong>Enjoy personalised shipping addresses in the USA, Europe, Japan. This opens your browser window to thousands more online merchants to shop from!</strong>
+										</p>
+										<ul class="column-2">
+											<li class="col"><a href="/vpost/welcome?page=inc_howitworks.html&amp;option=1&amp;asiacountry=SG">How It Works</a></li>
+											<li class="col"><a href="/vpost/welcome?page=inc_shiprates.html&amp;option=1&amp;asiacountry=SG">Shipping Rates</a></li>
+											<li class="col"><a href="/vpost/welcome?page=inc_ideas_to_save.html&amp;option=1&amp;asiacountry=SG">Ideas to Save More</a></li>
+											
+										</ul>
+									</div>
+                                   <!-- ends BEFORE -->
+<!-- end LOGOUT-->
+
+                    
+                                   
+								</div>
+							</div>
+						</li>
+						
+						<li>
+							<a href="#" style="cursor: default;">Help Me Pay</a>
+							<div class="hoverstate">
+								<div class="img-content">
+									<figure>
+										<img src="/rvmpnew/images/nav2-img.png">
+									</figure>
+                                    
+
+ 
+ <!-- LOGOUT session-->                
+                 
+									<!--BEFORE -->
+									
+                                    <div class="content">
+										<p>
+											<strong>If you wish to shop with a US or Chinese online merchant that does not accept international credit cards, we can make your payment on your behalf!</strong>
+										</p>
+										<ul class="column-2">
+											<li class="col"><a href="/vpost/welcome?page=inc_helpmepay_vconcierge.html&amp;option=2&amp;asiacountry=SG">vConcierge USA</a></li>
+											
+											<li class="col"><a href="/vpost/welcome?page=inc_helpmepay_vpaychina.html&amp;option=2&amp;asiacountry=SG">vPay China</a></li>
+											
+										</ul>
+									</div>
+									
+                                   <!--ends BEFORE -->
+<!-- end LOGOUT-->
+
+                                                       
+                                   
+								</div>
+                                
+							</div>
+						</li>
+						
+						<li>
+							<a href="#" style="cursor: default;">Shopping Guide</a>
+							<div class="hoverstate">
+								<div class="img-content">
+									<figure>
+										<img src="/rvmpnew/images/nav3-img.png">
+									</figure>
+									<div class="content">
+										<p>
+											<strong>Learn how you can make the most out of your online purchases when you ship with vPOST</strong>
+										</p>
+										<ul class="column-2">
+											<li class="col"><a href="/vpost/welcome?page=inc_wheretoshop.html&amp;option=3&amp;asiacountry=SG">Where to Shop</a></li>
+											<li class="col"><a href="/vpost/welcome?page=inc_shoptips.html&amp;option=3&amp;asiacountry=SG">Online Shopping Tips</a></li>
+                                            <li class="col"><a href="/vpost/welcome?page=inc_restricted_merchants.html&amp;option=3&amp;asiacountry=SG">Restricted Merchants</a></li>
+                                            <li class="col"><a href="/vpost/welcome?page=inc_prohibited_items.html&amp;option=3&amp;asiacountry=SG">Prohibited Shipping Items</a></li>
+										</ul>
+									</div>
+								</div>
+							</div>
+						</li>
+						<li>
+                        <a href="#" style="cursor: default;">Promotions</a>
+                        <div class="hoverstate">
+								<div class="img-content">
+									<figure>
+										<img src="/rvmpnew/images/nav4-img.png">
+									</figure>
+									<div class="content">
+										<p>
+											<strong>Save even more with the latest promotions</strong>
+										</p>
+										<ul class="column-2">
+											<li class="col"><a href="/vpost/welcome?page=inc_creditcard_promos.html&amp;option=4&amp;asiacountry=SG">Credit Card Promotions</a></li>
+                                         </ul>
+										 
+										 <ul class="column-2">
+											<li class="col" style="width:400px;"><a href="/vpost/welcome?page=inc_share_win.html&amp;option=4&amp;asiacountry=SG">Share &amp; Win Free Shipping</a></li>
+                                         </ul>
+										 
+									</div>
+								</div>
+							</div>
+                        </li>
+                        
+						<li class="contact-details-container">
+							<a href="/vpost/welcome?page=inc_faq.html&amp;option=5&amp;asiacountry=SG" style="cursor: default;">Customer Help</a>
+							<div class="hoverstate-long">
+								<div class="img-content">
+									<figure>
+										<img src="/rvmpnew/images/nav5-img.png">
+									</figure>
+									<div class="content">
+										<div class="column-2-border">
+											<div class="col">
+												<strong>Find quick answers to some of your questions here</strong>
+												<ul class="column-2">
+                                                    <li class="col"><a href="/vpost/welcome?page=inc_faq.html&amp;option=5&amp;asiacountry=SG">Popular Questions</a></li>
+													<li class="col"><a href="/vpost/welcome?page=inc_faqshipping.html&amp;option=5&amp;asiacountry=SG">Help Me Ship Services</a></li>
+													
+													<li class="col"><a href="/vpost/welcome?page=inc_faqvconcierge.html&amp;option=5&amp;asiacountry=SG">vConcierge USA</a></li>
+													
+													
+													<li class="col"><a href="/vpost/welcome?page=inc_faqchina.html&amp;option=5&amp;asiacountry=SG">vPAY China</a></li>
+													
+													<li class="col"><a href="/vpost/welcome?page=inc_profile.html&amp;option=5&amp;asiacountry=SG">Your Account &amp; Technical Issues</a></li>
+												</ul>
+											</div>
+											<div class="col contact-details">
+												<strong>Need someone to talk to</strong>
+												<ul>
+													<li><a href="http://www.singpost.com/contact-us.html" target="_blank">
+                                                    <img src="/rvmpnew/images/ico-small-dialogue.png"> Leave us a message</a></li>
+													<li><img src="/rvmpnew/images/ico-small-phone.png"> 1605 (press #4 for 'vPOST')</li>
+												</ul>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</li>
+						
+						<li class="special"><a href="https://shop.vpost.com.sg" target="_blank">shop@post</a></li>
+						
+					</ul>
+					<br class="clr">
+				</nav>
+			</header>
+		</div>
+		
+<!-- header ends -->
+		
+
+
+
+<!-- header ends --><div class="wrapper">
 
 
 
 
-
-
+<!-- include GREY_BAR navigation --> 
 
 
 
 <!-- include CONTENT -->
 
-<div id="container">
-
-
     	
     <!--insert right contentPanel here-->
-    <div id="content_left" class="margin_midx">
-    	
-        &nbsp;
-        
+    <div class="wrapper">
+       	<div id="maincontainer">
+		<section class="title-container no-btm-margin">
+			
+			<div class="title-alt">
+				
+				<h1>Privacy Policy</h1>
+				
+			</div>
 
-    
-    </div>
-
-	<div id="content_right">
-    	
-        <h1>Privacy Policy</h1>
-        <div id="sub_header">&nbsp;</div> 
-        
-        
-        
-        <p>Welcome to vPOST Privacy Policy. Your privacy is very important to us. Please   read the terms of this Privacy Policy before becoming a vPOST member. As part of   the normal operation of our services we collect, use and, in some cases,   disclose information about you to third parties. </p>
+		</section>
+		<section class="tab-container no-tabs">
+			
+		
+			<div class="tab-content">
+				
+                <p>Welcome to vPOST Privacy Policy. Your privacy is very important to us. Please   read the terms of this Privacy Policy before becoming a vPOST member. As part of   the normal operation of our services we collect, use and, in some cases,   disclose information about you to third parties. </p>
         <p>This Privacy Policy governs the information we collect about you. By   accepting this Privacy Policy and the User Agreement, you expressly consent to   our use and disclosure of your personal information in the manner prescribed in   this Privacy Policy. This Privacy Policy is incorporated into and subject to the   terms of the vPOST User Agreement. </p>
         <p>Although this policy may seem long, we have prepared a detailed policy   because we believe you should know as much as possible about our practices so   that you can make an informed decision. The privacy practices of this notice   apply to the website located at <a href="https://www.vpost.com.sg/">https://www.vpost.com.sg</a>. (the "Site") and   apply to the following Services: </p>
         <ul class="genlist">
           <li>vPOSTUSA </li>
           <li>vPOSTJAPAN </li>
           <li>vPOSTEUROPE </li>
-          <li>Shop@Singapore </li>
-          <li>Shop@USA </li>
-          <li>Shop@Europe </li>
-          <li>Shop@Korea </li>
-          <li>Shop@NewZealand </li>
-          <li>Shop@China </li>
+          <li>vPOSTCHINA </li>
+          <li>vPay China </li>
           <li>vConcierge </li>
         </ul>
         <p>We strive to provide a consistent set of privacy practices throughout our   global vPOST trading community.</p>
@@ -331,7 +597,7 @@ Copyright 2000 Singapore Post Ltd
                 <li><a href="#legal_requests">Legal Requests</a> </li>
               </ul>
           </li>
-          <li><a href="#user_info">Your Use of Other Users Information</a> </li>
+          <li><a href="#user_info">Your Use of Other Usersâ?? Information</a> </li>
           <li><a href="#password">Control of Your Password</a> </li>
           <li><a href="#change_info">Accessing, Reviewing and Changing Your Personal   Information</a> </li>
           <li><a href="#other_collectors">Other Information Collectors</a> </li>
@@ -382,10 +648,15 @@ Copyright 2000 Singapore Post Ltd
         <p>As users enter the payment information, it is captured on a page that uses   the SSL protocol by default. All personal and financial information is encrypted   as it travels over the Internet. All financial information is stored in   encrypted form on our servers. The server is also not accessible through the   Internet. Security of your financial details will continue to be an issue of top   priority for our company. </p>
         <p><a id="notice" name="notice"></a><strong>10. Notice </strong></p>
   We may change   this Privacy Policy from time to time based on your comments and our need to   accurately reflect our data collection and disclosure practices. The revised   policy will be posted on this Site and shall take effect from the date of such   posting.
-    
-  </div>
-    
-    <div class="clear"></div>
+
+                
+                
+			</div>
+            
+		</section>
+
+	
+	</div>
 
 
    
@@ -393,17 +664,22 @@ Copyright 2000 Singapore Post Ltd
 
 
 
-       <div class="clear"></div>
-    </div>
-
-<div class="push"></div>
-</div>
 
 <!-- CONTENT & FOOTER -->
+
   
-   <!-- FOOTER --><div id="footer"><div id="footer_wrapper">    <p class="f-left"><a href="/vpost/welcome?page=help.html&amp;lnav=sidenav_help.html">Contact Us</a> | <a href="/vpost/welcome.jsp?page=termsofuse.html">Terms of Use</a> | <a href="/vpost/welcome.jsp?page=privacypolicy.html">Privacy Policy</a><br>    © 2012 Singapore Post Limited. All Rights Reserved.</p>    <p class="f-right"><img src="/rvmp/images/spost_logo.png"></p>    <br class="clear">    </div><!-- end #footer --></div>
 
-   
+</div>
+</div>
+<div class="clear">
+</div>
 
-<script type="text/javascript"> var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www."); document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E")); </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script> <script type="text/javascript"> try{ var pageTracker = _gat._getTracker("UA-4059118-1"); pageTracker._setDomainName(".vpost.com.sg"); pageTracker._trackPageview(); } catch(err) {}</script>
+				<footer id="footer">			<div class="wrapper">				<div class="maincol">					<ul>						<li><strong>Help Me Ship</strong></li>						<li><a href="/vpost/welcome?page=inc_howitworks.html&amp;option=1">How It Works</a></li>						<li><a href="/vpost/welcome?page=inc_shiprates.html&amp;option=1">Shipping Rates</a></li>						<li><a href="/vpost/welcome?page=inc_ideas_to_save.html&amp;option=1">Ideas to Save More</a></li>					</ul>					<ul>						<li><strong>Help Me Pay</strong></li>						<li><a href="/vpost/welcome?page=inc_helpmepay_vconcierge.html&amp;option=2">vConcierge USA</a></li>						<li><a href="/vpost/welcome?page=inc_helpmepay_vpaychina.html&amp;option=2">vPay China</a></li>					</ul>					<ul>						<li><strong>Shopping Guide</strong></li>						<li><a href="/vpost/welcome?page=inc_wheretoshop.html&amp;option=3">Where to Shop</a></li>						<li><a href="/vpost/welcome?page=inc_shoptips.html&amp;option=3">Online Shopping Tips</a></li>						<li><a href="/vpost/welcome?page=inc_restricted_merchants.html&amp;option=3">Restricted Merchants</a></li>						<li><a href="/vpost/welcome?page=inc_prohibited_items.html&amp;option=3">Prohibited Shipping Items</a></li>					</ul>					<ul>						<li><strong>Promotions</strong></li>						<li><a href="/vpost/welcome?page=inc_creditcard_promos.html&amp;option=4">Credit Card Promotions</a></li>					</ul>					<ul>						<li><strong>Customer Help</strong></li>                        <li><a href="/vpost/welcome?page=inc_faq.html&amp;option=5">Popular Questions</a></li>						<li><a href="/vpost/welcome?page=inc_faqshipping.html&amp;option=5">Help Me Ship Services</a></li>						<li><a href="/vpost/welcome?page=inc_faqvconcierge.html&amp;option=5">vConcierge USA</a></li>						<li><a href="/vpost/welcome?page=inc_faqchina.html&amp;option=5">vPAY China</a></li>						<li><a href="/vpost/welcome?page=inc_profile.html&amp;option=5">Your Account and Technical Issues</a></li>					</ul>				</div>				<aside class="sidecol">										<div class="contact-list">						<strong class="title">Hello, need someone to talk to</strong>						<ul class="column-3">							<li class="col"><img src="/rvmpnew/images/ico-tele.png"><p>1605 (Press #4 for 'vPOST')</p></li>							<li class="col"><img src="/rvmpnew/images/ico-global.png"><p>+65 6841 2000 (outside SG)</p></li>							<li class="col"><a href="http://www.singpost.com/contact-us.html" target="_new"><img src="/rvmpnew/images/ico-dialogue.png"><p>Leave us a message</p></a></li>						</ul>					</div>										<div class="social">						<strong>For more promos and news, find us on</strong>						<a href="http://www.facebook.com/vpostfanclub" target="_new"><img src="/rvmpnew/images/fb.jpg"></a>						<a href="http://twitter.com/vpostbysingpost" target="_new"><img src="/rvmpnew/images/twit.jpg"></a>						<div class="fb-like" data-href="http://www.facebook.com/vPOSTFanClub" data-width="180" data-show-faces="false"></div>					</div>				</aside>				<div class="bottom-footer">					<ul class="right bottom-nav">						<li><a href="/vpost/welcome?page=inc_termsConditions.html&amp;option=3">Terms and Conditions</a></li>						<li><a href="/vpost/welcome?page=inc_termsofuse.html&amp;option=3">Terms of Use</a></li>						<li><a href="/vpost/welcome?page=inc_privacy.html&amp;option=3">Privacy Policy</a></li>					</ul>					<p><img src="/rvmpnew/images/logo-cb.jpg"> <span>© 2013 Singapore Post Limited. All Rights Reserved.</span></p>				</div>			</div>		</footer>		<script type="text/javascript">		  var _gaq = _gaq || [];		  _gaq.push(['_setAccount', 'UA-4059118-1']);		  _gaq.push(['_trackPageview']);		  (function() {			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;			ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);		  })();		</script>	
+
+
+
+
+
+<!--<script type="text/javascript"> var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www."); document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E")); </script> <script type="text/javascript"> try{ var pageTracker = _gat._getTracker("UA-4059118-1"); pageTracker._setDomainName(".vpost.com.sg"); pageTracker._trackPageview(); } catch(err) {}</script>-->
+
 </body></html>
