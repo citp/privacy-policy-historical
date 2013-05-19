@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sport195.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630232419id_/http%3A//www.sport195.com/home/site_documents/Privacy%2520Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sport195.com privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519230739id_/http%3A//www.sport195.com/home/site_documents/Privacy%2520Policy) for the most accurate reproduction.*
 
 # SPORT195 - About us - People - Investors
 
@@ -12,7 +12,7 @@ COLLECTION AND SUBMISSION OF Personal Information AND NON-PERSONAL INFORMATION O
 
 General. When Sport195 collects Personal Information from you it is because you are voluntarily submitting Registration Personal Information to us in order to register as a Member of Sport195. Sport195 may also collect Personal Information from you if you choose to participate in Sport195 Services activities like sweepstakes, contests, and surveys, because you want us to furnish you with products, services, newsletters, or information, or in connection with content or suggestions you submit to Sport195 for review. 
 
-In addition, Sport195 collects other non-Personal Information including IP address, aggregate user data, and browser type. This data is used to manage and improve the Sport195 Services, track usage, and for security purposes. 
+In addition, Sport195 collects other non-Personal Information including IP address, aggregate user data,and browser type. This data is used to manage and improve the Sport195 Services, track usage, and for security purposes. 
 
 Sport195 Members may also choose to provide or store non-Personal Information in their profiles, including but not limited to date of birth, interests, sports information, hobbies, lifestyle choices, groups with whom they are affiliated (schools, companies), videos and/or pictures, private messages, bulletins or Personal Information statements (collectively “Profile Information”). The Profile Information in a Member’s profile is provided at his or her sole discretion.
 
@@ -68,9 +68,9 @@ Sport195 uses commercially reasonable administrative, technical, personnel and p
 
 ACCESS, REMEDIES AND COMPLIANCE: HOW TO ACCESS, CORRECT OR CHANGE YOUR PREFERENCES REGARDING YOUR PERSONAL INFORMATION AND HOW TO CONTACT SPORT195 ABOUT PRIVACY CONCERNS
 
-Whenever possible, Sport195 Members may review the Registration Personal Information we maintain about them in our records. We will take reasonable steps to correct any Personal Information a Member informs us is incorrect. If you are a Member, you can view and change your Registration Personal Information, Member preferences and Profile Information by logging into your account and accessing features such as“ My Account .” 
+Whenever possible, Sport195 Members may review the Registration Personal Information we maintain about them in our records. We will take reasonable steps to correct any Personal Information a Member informs us is incorrect. If you are a Member, you can view and change your Registration Personal Information, Member preferences and Profile Information by logging into your account and accessing features such as “ My Account .” 
 
-If you ask Sport195 to stop using your Personal Information, Sport195 will honor that request while retaining any record of your Personal Information that is necessary to comply with applicable federal, state or local law.
+If you ask Sport195 to stop using your Personal Information, Sport195 will honor that request while retaining any record of your Personal Information that is necessary to comply with applicable federal, state or local law. 
 
 If you would like to communicate with us about this Privacy Policy or Sport195’s collection and use of your Personal Information please contact Sport195 at:
 
