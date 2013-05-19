@@ -1,23 +1,48 @@
-> *The following text is extracted and transformed from the educationnews.org privacy policy that was archived on 2009-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090418181130id_/http%3A//www.ednews.org/pages/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the educationnews.org privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519192135id_/http%3A//www.educationnews.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy statement
+# Privacy Policy - Education News
 
-_**EdNews.org** _values and vows to protect your privacy. We guarantee that we will not, under any circumstances, sell, trade or make public your personal information, unless you specifically designate otherwise (participants in our credentials database, for instance, can request that we provide information about them to specific employers). We’ll keep confidential all personal information that you give us. In addition, you will always have the option to edit the information you’ve given us or to have your personal information removed from our records.
+In this privacy policy users will find EducationNews.org’s information policies. More specifically, this privacy policy covers how we:
 
-Traffic Data 
+  * Acquire users’ personal information
+  * Use that personal information
+  * Share users’ personal information
 
-When you visit _**EdNews.org** ,_ our systems collect basic information about your computer, including IP address (your computer’s unique signature), operating system, browser software, or Internet service provider. We also collect information about what our readers view on the site. This information is designed to help us understand the needs and preferences of the _**EdNews.org** _audience as a whole.
 
-Use of Cookies and Clear gifs
 
-_**EdNews.org** _employs cookies — small text files placed on your computer’s hard drive — to track the type of content and sites to which our users link, the length of time they spend at any particular site and the _**EdNews.org** _services they use. Cookies also help us diagnose problems with our server. Your own computer browser program will allow you to stop accepting cookies from this site or any other one. You are not required to accept cookies in order to browse _**EdNews.org** _site or to take advantage of many of the site’s features.
+Our information policies may change on occasion, thus making it necessary for us to modify this privacy policy. We recommend that users review our privacy policy often to stay up-to-date with our information policies.
 
-To help us understand the effectiveness of our efforts to market our site, _**EdNews.org** _makes use of a software technology called clear gifs (a.k.a. Web beacons, Web bugs or 1x1 pixel images). Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users (for example when a user clicks from an ad for _**EdNews.org** on _Google to the _**EdNews.org** _site itself). Clear gifs are not tied to users’ personally identifiable information.
+## The Information EducationNews.org Collects 
 
-_**EdNews.org** _may employ a hosted service, such as Google Analytics, which uses 1st party cookies and images for the purposes of gathering Web site usage information (also known as Web analytics). These tracking images and cookies cannot identify you personally when you visit our site.
+During your use of EducationNews.org, we may collect personal information from you, including but not limited to: 
 
-_**EdNews.org** _does not use third-party cookies — cookies that come from domains other than our own — anywhere on this site. In addition _**EdNews.org** _provides hyperlinks to Web sites not under our control. Under such circumstances, _**EdNews.org** _is not responsible for the privacy policies or any other practices of these sites.
+  * Personal contact information, such as your name, mailing address, and phone number 
+  * Personal demographic information, such as your expected education date, gender, and zip code 
+  * Personal information relative to your computer, such as your browser type and operating system
 
-When you provide information to any public or private area of _**EdNews.org** ,_ we will not build lists, collate that information, or extract usernames and passwords, to sell, rent, release or give away to third party vendors for marketing purposes.
 
-If you have questions about the privacy policy at _**EdNews.org** ,_ please send an e-mail to [support@ednews.org](mailto:support@ednews.org) .
+
+## The Ways EducationNews.org Uses Your Personal Information
+
+EducationNews.org may use your personal information to tell you about: 
+
+  * Online degree programs and schools that may or do interest you
+  * Information that will aid you in your career and educational pursuits
+  * The status of or to address a customer service request, concern, or question
+  * Current news or marketing information pertinent to your educational endeavors 
+
+
+
+In addition to us, our affiliates, vendors, and partners may contact you. By providing EducationNews.org with your personal information, you are querying our services and thus granting said parties authorization to contact you. This authorization includes contact by telephone for a limited period of time, even if you participate in a Do No Call program as a query is an exception to requirements set by Do Not Call programs.
+
+If you’d like to opt-out of our marketing communications, you may simply follow the unsubscribe directions located in our emails.
+
+## How EducationNews.org Shares Information
+
+EducationNews.org shares personal information only in the ways explained in this privacy policy; it will never sell your information to third parties for their unrelated marketing intents. It will, however, share your information in certain instances. One instance is when we hire third party services to aid us in various business activities; in such a case, we may supply these service providers with your personal information, but only for our business purposes. Another instance is when we have your prior permission and are ordered to do so by law if EducationNews.org acquires, merges, or sells some portion of its assets. In this case, we may release your information if we in good faith trust that doing so is in the best interests of us legally, yours or others’ safety, fraud determination, or us responding to a government request.
+
+## Contact Information 
+
+Questions or concerns about this privacy policy can be best addressed by contacting info@EducationNews.org. 
+
+Privacy policy effective date: 08/18/2012. 
