@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the turntable.fm privacy policy that was archived on 2012-11-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121119064355id_/http%3A//turntable.fm/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the turntable.fm privacy policy that was archived on 2013-05-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130519192151id_/https%3A//turntable.fm/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
@@ -60,14 +60,14 @@ a {
 }
 a:hover { text-decoration: underline; }
 div#header {
-    background: url('https://s3.amazonaws.com/static.turntable.fm/images/index/header_bg.png') top left repeat-x;
+    background: url('https://s3.amazonaws.com/assets.turntable.fm/images/index/header_bg.png') top left repeat-x;
     height: 60px;
     width: 100%;
     margin-bottom: 20px;
 }
 div#header div#headerMid {
     position: relative;
-    background: url('https://s3.amazonaws.com/static.turntable.fm/images/index/search_bar.png') 192px 14px no-repeat;
+    background: url('https://s3.amazonaws.com/assets.turntable.fm/images/index/search_bar.png') 192px 14px no-repeat;
     width: 960px;
     height: 61px;
     margin: 0 auto;
@@ -85,6 +85,7 @@ div#header ul#headerNav {
     font-size: 13px;
     font-weight: lighter;
     text-shadow: 0 -1px 0 black;
+    line-height: normal;
 }
 div#header ul#headerNav li {
     float: left;
@@ -107,7 +108,7 @@ div#header ul#headerNav li.selected a:hover {
 }
 
 div#header2 {
-    background: url('https://s3.amazonaws.com/static.turntable.fm/images/jobs/header_bg.png') top left repeat-x;
+    background: url('https://s3.amazonaws.com/assets.turntable.fm/images/jobs/header_bg.png') top left repeat-x;
     height: 140px;
     width: 100%;
     margin-bottom: -13px;
@@ -617,19 +618,6 @@ div#group10 .team {
     right: 165px;
 }
 
-div#group10 #team-you {
-    background: url('https://s3.amazonaws.com/static.turntable.fm/images/about2/team_you.png') 0px 0px;
-    width: 105px;
-    height: 158px;
-    cursor: pointer;
-    padding-left: 0px;
-}
-
-div#group10 #team-you:active,
-div#group10 #team-you:hover {
-    background-position: 0px 158px;
-}
-
 div#group10 .team div {
     float: left;
     padding-left: 60px;
@@ -638,9 +626,13 @@ div#group10 .team div {
 
 div #group10 .hook-l {
     position: absolute;
+    /*
     left: 90px;
     top: 130px;
     width: 190px;
+    */
+    left: 90px;
+    top: 130px;
 }
 
 div #group10 #hook-l-lineb3 {
@@ -649,48 +641,129 @@ div #group10 #hook-l-lineb3 {
     left: 40px;
 }
 
-div #group10 .hook-l .line-r {
-    height: 100px;
+div #group10 .hook-l .hook-r {
+    height: 110px;
+}
+
+div#group11 #team-you {
+    background: url('https://s3.amazonaws.com/assets.turntable.fm/images/about2/team_you.png') 0px 0px;
+    width: 105px;
+    height: 158px;
+    cursor: pointer;
+    padding-left: 0px;
+}
+
+div#group11 #team-you:active,
+div#group11 #team-you:hover {
+    background-position: 0px 158px;
 }
 
 div#group11 {
+    clear: both;
+    position: relative;
+    width: 1000px;
+    height: 200px;
+}
+
+div#group11 .team {
+  position: absolute;
+  top: -25px;
+  left: 102px;
+}
+
+div#group11 .team div {
+  float: left;
+  padding-left: 60px;
+}
+
+div#group11 .hook-r {
+  position: absolute;
+  left: 710px;
+  top: 100px;
+}
+
+div#group11 .hook-r .line-r {
+  height: 40px;
+}
+
+div#group11 .hook-r #hook-r-curve2 {
+    bottom: 100px;
+}
+
+
+div#group12 {
     width: 505px;
 }
 
-div#group11 div {
+div#group12 div {
     width: 90px;
     height: 78px;
 }
 
-div#group11 .image {
-    width: 70px;
-    clear: both;
-    float: left;
-    margin-left: 59px;
+div#group12 .line-b {
+  width: 740px;
+  height: 43px;
+  position: relative;
+  right: -120px;
+  bottom: 10px;
 }
 
-div#group12 {
+div#hr6 {
+    padding-left: 93px;
+    width: 770px;
+    height: 93px;
+    clear: both;
+    position: relative;
+    top: -10px;
+}
+
+div#hr6 .line-b {
+    width: 717px;
+    height: 43px;
+}
+
+div#hr6 #hr6curve {
+    padding-top: 43px;
+}
+
+div#group13 {
     margin-left: 93px;
+    margin-bottom: -10px;
     width: 500px;
-    height: 280px;
+    height: 300px;
     clear: both;
+    position: relative;
+    top: -10px;
 }
 
-div#group12 .text {
+div#group13 .text {
     padding-left: 80px;
     padding-top: 100px;
     padding-bottom: 30px;
 }
 
-div#group13 {
+div#group13 .image {
+    width: 70px;
+    clear: both;
+    float: left;
+    margin-left: 0px;
+}
+
+div#group13 .image img {
+    position: relative;
+    top: 100px;
+    right: 36px;
+}
+
+div#group14 {
     clear: both;
     margin-left: 93px;
     position: relative;
     height: 200px;
 }
 
-div#group13 #btn-login {
-    background: url('https://s3.amazonaws.com/static.turntable.fm/images/about2/btn_login.png') 0px 0px;
+div#group14 #btn-login {
+    background: url('https://s3.amazonaws.com/assets.turntable.fm/images/about2/btn_login.png') 0px 0px;
     width: 256px;
     height: 68px;
     cursor: pointer;
@@ -699,29 +772,29 @@ div#group13 #btn-login {
     position: absolute;
 }
 
-div#group13 #btn-login:hover {
+div#group14 #btn-login:hover {
     background-position: 0px 136px;
 }
 
-div#group13 #btn-login:active {
+div#group14 #btn-login:active {
     background-position: 0px 68px;
 }
 
-div#group13 #group13lineb {
+div#group14 #group14lineb {
     position: absolute;
     top: 40px;
     left: 306px;
     width: 30px;
 }
 
-div#group13 .or {
+div#group14 .or {
     position: absolute;
     top: 10px;
     left: 336px;
 }
 
-div#group13 #btn-iphone {
-    background: url('https://s3.amazonaws.com/static.turntable.fm/images/about2/btn_iphone.png') 0px 0px;
+div#group14 #btn-iphone {
+    background: url('https://s3.amazonaws.com/assets.turntable.fm/images/about2/btn_iphone.png') 0px 0px;
     width: 382px;
     height: 94px;
     cursor: pointer;
@@ -730,16 +803,16 @@ div#group13 #btn-iphone {
     position: absolute;
 }
 
-div#group13 #btn-iphone:hover {
+div#group14 #btn-iphone:hover {
     background-position: 0px 188px;
 }
 
-div#group13 #btn-iphone:active {
+div#group14 #btn-iphone:active {
     background-position: 0px 94px;
 }
 
-div#group13 #btn-android {
-    background: url('https://s3.amazonaws.com/static.turntable.fm/images/about2/btn_android.png') 0px 0px;
+div#group14 #btn-android {
+    background: url('https://s3.amazonaws.com/assets.turntable.fm/images/about2/btn_android.png') 0px 0px;
     width: 382px;
     height: 95px;
     cursor: pointer;
@@ -748,28 +821,28 @@ div#group13 #btn-android {
     position: absolute;
 }
 
-div#group13 #btn-android:hover {
+div#group14 #btn-android:hover {
     background-position: 0px 190px;
 }
 
-div#group13 #btn-android:active {
+div#group14 #btn-android:active {
     background-position: 0px 95px;
 }
 
-div#group13 #group13curve2 {
+div#group14 #group14curve2 {
     left: 797px;
     top: 43px;
     position: absolute;
 }
 
-div#group13 .line-r {
+div#group14 .line-r {
     position: absolute;
     height: 108px;
     top: 92px;
     left: 837px;
 }
 
-div#group14 {
+div#group15 {
     margin-left: 0px;
     width: 933px;
     height: 300px;
@@ -777,19 +850,19 @@ div#group14 {
     position: relative;
 }
 
-div#group14 .text {
+div#group15 .text {
     position: absolute;
     top: 120px;
     left: 47px;
 }
 
-div#group14 .arrow {
+div#group15 .arrow {
     position: absolute;
     top: 60px;
     left: 899px;
 }
 
-div#group15 {
+div#group16 {
     margin-left: 0px;
     width: 940px;
     height: 200px;
@@ -797,25 +870,25 @@ div#group15 {
     position: relative;
 }
 
-div#group15 #group15curve {
+div#group16 #group16curve {
     position: absolute;
     top: 43px;
 }
 
-div#group15 #group15curve2 {
+div#group16 #group16curve2 {
     position: absolute;
     right: 0px;
 }
 
-div#group15 .quote {
-    background: url('https://s3.amazonaws.com/static.turntable.fm/images/about2/quote_bg.png') 0px 0px;
+div#group16 .quote {
+    background: url('https://s3.amazonaws.com/assets.turntable.fm/images/about2/quote_bg.png') 0px 0px;
     width: 256px;
     height: 176px;
     position: absolute;
     top: -44px;
 }
 
-div#group15 .inside {
+div#group16 .inside {
     margin-top: 30px;
     width: 180px;
     height: 130px;
@@ -826,55 +899,55 @@ div#group15 .inside {
     position: relative;
 }
 
-div#group15 .source {
+div#group16 .source {
     position: absolute;
     bottom: 10px;
 }
 
-div#group15 .source a,
-div#group15 .source a:visited {
+div#group16 .source a,
+div#group16 .source a:visited {
     color: #54aae3;
     text-decoration: none;
 }
 
-div#group15 .source a:hover,
-div#group15 .source a:active {
+div#group16 .source a:hover,
+div#group16 .source a:active {
     color: #7fc7f7;
     text-decoration: none;
 }
 
-div#group15 #quote1 {
+div#group16 #quote1 {
     left: 40px;
 }
 
-div#group15 #quote2 {
+div#group16 #quote2 {
     left: 337px;
 }
 
-div#group15 #quote3 {
+div#group16 #quote3 {
     left: 634px;
 }
 
-div#group15 #group15lineb {
+div#group16 #group16lineb {
     position: absolute;
     left: 280px;
     top: 40px;
 }
 
-div#group15 #group15lineb2 {
+div#group16 #group16lineb2 {
     position: absolute;
     left: 580px;
     top: 40px;
 }
 
-div#group15 .line-l {
+div#group16 .line-l {
     position: absolute;
     height: 107px;
     top: 93px;
     left: 0px;
 }
 
-div#group16 {
+div#group17 {
     margin-left: 0px;
     width: 933px;
     height: 500px;
@@ -882,31 +955,31 @@ div#group16 {
     position: relative;
 }
 
-div#group16 .text {
+div#group17 .text {
     position: absolute;
     top: 250px;
     left: 47px;
 }
 
-div#group16 .arrow {
+div#group17 .arrow {
     position: absolute;
     top: 60px;
     left: -37px;
 }
 
-div#group16 .gray a,
-div#group16 .gray a:visited {
+div#group17 .gray a,
+div#group17 .gray a:visited {
     color: #54aae3;
     text-decoration: none;
 }
 
-div#group16 .gray a:hover,
-div#group16 .gray a:active {
+div#group17 .gray a:hover,
+div#group17 .gray a:active {
     color: #7fc7f7;
     text-decoration: none;
 }
 
-div#group17 {
+div#group18 {
     margin-left: 0px;
     width: 933px;
     height: 100px;
@@ -914,19 +987,19 @@ div#group17 {
     position: relative;
 }
 
-div#group17 #djtable {
+div#group18 #djtable {
     position: absolute;
     top: -100px;
     left: 50px;
 }
 
-div#group17 .curve {
+div#group18 .curve {
     position: absolute;
     top: 100px;
     left: -3px;
 }
 
-div#group17 .line-b {
+div#group18 .line-b {
     position: absolute;
     top: 140px;
     left: 47px;
@@ -934,7 +1007,7 @@ div#group17 .line-b {
 }
 
 div#bubble {
-    background: url('https://s3.amazonaws.com/static.turntable.fm/images/about2/spot_light.png') 0px 0px no-repeat;
+    background: url('https://s3.amazonaws.com/assets.turntable.fm/images/about2/spot_light.png') 0px 0px no-repeat;
     width: 203px !important;
     height: 205px !important;
     position: absolute;
@@ -995,6 +1068,52 @@ div.legal p{
 div.legal p b{
     color: #FDD21D;
 }
+
+div.artists {
+    display: block;
+    margin-left: auto; 
+    margin-right: auto;
+    max-width: 960px;
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+div.artist {
+    margin-left: 25px;
+    margin-right: 25px;
+    width: 150px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+div.avatars img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 100px;
+}
+
+div.avatars .avatar-front {
+    position: relative;
+    top: 100px;
+}
+
+.avatar-back, .avatars:hover .avatar-front {
+      opacity: 0;
+}
+
+.avatar-front, .avatars:hover .avatar-back {
+      opacity: 1;
+}
+
+div.artist label{
+    display: block;
+    text-align: center;
+    opacity: 0.9;
+    padding-top: 10px;
+    word-wrap: break-word;
+}
+
     #links {
   float: left;
   text-align: left;
@@ -1046,7 +1165,7 @@ div.legal p b{
 
 
     <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.10/jquery-ui.min.js"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.9.1/jquery-ui.min.js"></script>
 
 
 <!-- google analytics -->
@@ -1064,6 +1183,11 @@ div.legal p b{
 
 </script>
 <!-- end google analytics -->
+<!-- google analytics -->
+<script type="text/javascript">
+    TURNTABLE_TOKEN = "";
+</script>
+<!-- end google analytics -->
 </head>
 <body>
   <div id="maindiv">
@@ -1072,7 +1196,7 @@ div.legal p b{
 <div id="header" style="margin-bottom:0px">
     <div id="headerMid" style="background: none;">
         <a href="http://turntable.fm">
-            <img class="logo" title="turntable.fm: Play Music Together" src="https://s3.amazonaws.com/static.turntable.fm/images/index/logo.png" alt="turntable logo">
+            <img class="logo" title="turntable.fm: Play Music Together" src="https://s3.amazonaws.com/assets.turntable.fm/images/index/logo.png" alt="turntable logo">
         </a>
         <ul id="headerNav">
             <li><a href="/jobs">Jobs</a></li>
@@ -1257,7 +1381,7 @@ div.legal p b{
         <li><a href="/privacy">Privacy Policy</a></li>
         <li><a href="/copyright">Copyright</a></li>
     </ul>
-    <div id="copyright">© 2012 turntable.fm, inc.</div>
+    <div id="copyright">© 2013 turntable.fm, inc.</div>
 </div> 
 <script type="text/javascript">
     $(document).ready(function() {
