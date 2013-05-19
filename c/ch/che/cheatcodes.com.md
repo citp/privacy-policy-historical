@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheatcodes.com privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119023629id_/http%3A//gamerid.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheatcodes.com privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519033415id_/http%3A//gamerid.com/company/privacy) for the most accurate reproduction.*
 
 # gamerID - Privacy Policy
 
@@ -11,6 +11,8 @@ This Privacy Policy covers gamerID's treatment of personal information that game
 We collect information from you when you register on our site, subscribe to our newsletter, respond to a survey, or fill out a form.
 
 When registering on our site, we require select personal information (including your full name, city, state and email address). We also enable you to provide additional information, such as a bio, gamertags, online IDs, etc. In addition, you may choose to include a photo or avatar of yourself in your profile. You can control how your information is displayed and used by visiting your **Account Settings** page.
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
 
 Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
