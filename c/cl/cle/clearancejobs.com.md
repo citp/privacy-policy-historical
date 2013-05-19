@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the clearancejobs.com privacy policy that was archived on 2012-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121117071553id_/http%3A//www.clearancejobs.com/index.php%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clearancejobs.com privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519061248id_/http%3A//www.clearancejobs.com/index.php%3Faction%3Dprivacy) for the most accurate reproduction.*
 
 # Security Clearance Jobs - ClearanceJobs.com
 
 [ ](https://privacy-policy.truste.com/click-with-confidence/ctv/en/www.clearancejobs.com/seal_m "Validate TRUSTe privacy certification")
 
-LAST UPDATED: September 8, 2011
+LAST UPDATED: November 19, 2012
 
 ClearanceJobs.com and Dice Holdings, Inc are committed to safeguarding the privacy of our users while providing personalized career management services on our websites. 
 
@@ -100,7 +100,12 @@ From time-to-time we may provide you the opportunity to participate in contests 
 
 We may use this information to notify contest winners and award prizes, to monitor Website use, to personalize the site, to send participants an email, and to measure participants' demographics, interests and opinions. We may use a third party service provider to conduct these surveys or contests; that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice. 
 
-## E. Correcting personal information
+## E. Social Media Features
+
+  
+Our Web site includes Social Media Features, such as Widgets, that run our site. This Feature may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+
+## F. Correcting personal information
 
 If you would like to have your personally identifiable information removed from ClearanceJobs's database, or would like to correct an error in such information, please contact us at [support@clearancejobs.com](mailto:support@clearancejobs.com), and we will use reasonable efforts to comply with your request. Keep in mind, however, that there will be residual information that will remain within ClearanceJobs databases, access logs, and other records, which may or may not contain such personally identifiable information. The residual information will not be used for commercial purposes; if you have provided more than one email address to our service, you may continue to be contacted, unless you request to unsubscribe each email address you may have provided. 
 
@@ -115,7 +120,7 @@ If you would like to have your personally identifiable information removed from 
 
 
 
-## F. Changes to this Privacy Policy
+## G. Changes to this Privacy Policy
 
 We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. 
 
