@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theconstantrambler.com privacy policy that was archived on 2012-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121208115656id_/http%3A//www.theconstantrambler.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theconstantrambler.com privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519081831id_/http%3A//www.theconstantrambler.com/privacy-policy) for the most accurate reproduction.*
 
-# The Constant Rambler Privacy Policy | The Constant Rambler
+# Privacy Policy | The Constant Rambler | Travel | Road Trips
 
 Privacy Policy for theconstantrambler.com
 
