@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gameduell.net privacy policy that was archived on 2012-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121202085527id_/http%3A//www.gameduell.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameduell.net privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519100945id_/http%3A//www.gameduell.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Protection at GameDuell
+# T & C: Terms and Conditions of GameDuellPrivacy Protection at GameDuell
 
 ## Privacy Policy
 
@@ -43,7 +43,7 @@ The analysis is conducted **partially anonymously** so that exact conclusions ab
 
 The compiled data cannot be used to personally identify users of our website. The data is exclusively used for the purpose of optimising our offer. An additional use or transmission of the data to a third party does not occur at any time.
 
-Through the use of this website you have declared yourself in agreement with the use of data collected from you in the manner described above and for the previously mentioned purpose. You can, of course, revoke this anonymous analysis of your surfing behaviour at any time by sending a mail to **revoke-consent@gameduell.com**.
+Through the use of this website you have declared yourself in agreement with the use of data collected from you in the manner described above and for the previously mentioned purpose. You can, of course, revoke this anonymous analysis of your surfing behaviour at any time by sending a mail to [revoke-consent@gameduell.com](mailto:revoke-consent@gameduell.com).
 
 Details Concerning the Use of Google Analytics:
 
