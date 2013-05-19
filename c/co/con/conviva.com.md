@@ -1,23 +1,24 @@
-> *The following text is extracted and transformed from the conviva.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016002710id_/http%3A//www.conviva.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conviva.com privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519060906id_/http%3A//www.conviva.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Statement | Conviva
+# Conviva | Privacy Policy
 
-_Conviva Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site[www.conviva.com](http://www.conviva.com/). Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe._
+_Conviva Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site  [www.conviva.com](http://www.conviva.com/). Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe._
 
-Conviva Inc. ("Conviva") takes your privacy seriously. We provide this Privacy Statement to inform you of our policies and procedures regarding the collection, use and disclosure of information we may receive through our web site and our Services. We may change this Privacy Statement from time to time. Please consult this Privacy Statement regularly for any updates.
+If you have questions or concerns regarding this statement, you should first contact [privacy@conviva.com](mailto:privacy@conviva.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at [http://watchdog.truste.com/pvr.php?page=complaint&url=TRUSTe](http://watchdog.truste.com/pvr.php?page=complaint&url=TRUSTe) will then serve as a liaison with us to resolve your concerns.
+
+Conviva Inc. (“Conviva”) takes your privacy seriously. We provide this Privacy Statement to inform you of our policies and procedures regarding the collection, use and disclosure of information we may receive through our web site and our Services. We may change this Privacy Statement from time to time. Please consult this Privacy Statement regularly for any updates.
 
 ##### INFORMATION COLLECTION AND USE
 
 ##### Information Collected by Conviva Services
 
-Conviva automatically computes and records anonymous information from Conviva enabled media player on your computer, such as IP address, bandwidth, video quality data and other media player statistics information, as well as your browser and operating system types. Conviva does not purposely link such information to any personally identifiable information. 
+Conviva automatically computes and records anonymous information from Conviva enabled media player on your computer, such as IP address, bandwidth, video quality data and other media player statistics information, as well as your browser and operating system types. Conviva does not purposely link such information to any personally identifiable information.
 
-Conviva uses information we collect for the following general purposes: to enhance your video viewing experience, improve our Services, contact you, conduct innovative research, and provide anonymous intelligent analytic reporting for internal and external business customers.  
-
+Conviva uses information we collect for the following general purposes: to enhance your video viewing experience, improve our Services, contact you, conduct innovative research, and provide anonymous intelligent analytic reporting for internal and external business customers.
 
 ##### Information collected for administrative and contact purposes
 
-Conviva may keep a record of your contact information if you have contacted us via our web site. Conviva may require our business customers to provide certain personal identifiable information of their employees for administrative purposes when they become Conviva's customers. If you wish to contact the site or file a support request we will collect personal information such as your first and last name, email address and phone number.
+Conviva may keep a record of your contact information if you have contacted us via our web site. Conviva may require our business customers to provide certain personal identifiable information of their employees for administrative purposes when they become Conviva’s customers. If you wish to contact the site or file a support request we will collect personal information such as your first and last name, email address and phone number.
 
 If we make material changes in the way we use PII, we will notify you by posting a prominent announcement on our Website or sending you an email with the email address you provided when you submitted your personal information on the site. Users are bound by any changes to the Privacy Policy when he or she uses the Website after such changes have been first posted
 
@@ -27,12 +28,12 @@ Conviva does not rent, sell or share personally identifiable information about y
 
 We may disclose information under the following circumstances:
 
-  * \- When we share anonymous, aggregated information generated by our services with our business customers.
-  * \- When we share anonymous data with third party service companies to facilitate or to provide certain services on our behalf.
-  * \- When we respond to subpoenas, court orders, or legal process or to establish or exercise our legal rights or defend against legal claims.
-  * \- When we believe in our sole discretion it is necessary to share information in order to investigate, prevent or take actions against illegal activities, suspected fraud, situation involving potential threats to the physical safety of any person, violations of term of use of Conviva, or otherwise required by law.
-  * \- When we need to transfer information about you if Conviva is acquired by or merged with another company.
-  * \- Links to Other Sites
+  * When we share anonymous, aggregated information generated by our services with our business customers.
+  * When we share anonymous data with third party service companies to facilitate or to provide certain services on our behalf.
+  * When we respond to subpoenas, court orders, or legal process or to establish or exercise our legal rights or defend against legal claims.
+  * When we believe in our sole discretion it is necessary to share information in order to investigate, prevent or take actions against illegal activities, suspected fraud, situation involving potential threats to the physical safety of any person, violations of term of use of Conviva, or otherwise required by law.
+  * When we need to transfer information about you if Conviva is acquired by or merged with another company.
+  * Links to Other Sites
 
 
 
@@ -40,12 +41,11 @@ This Web site contains links to other sites that are not owned or controlled by 
 
 We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information.
 
-This privacy statement applies only to information collected by this Web site.  
-
+This privacy statement applies only to information collected by this Web site.
 
 ##### Cookies
 
-Cookies are alphanumeric non-personally identifiable identifiers that we transfer to your computer's hard drive through your browser to enable our systems to recognize your browser and tell us how and when pages in our site are visited and by how many people. We use cookies to enhance visitors' experiences, to learn more about their use of the Website and to improve quality. Most browsers have an option for turning off the cookie feature, which will prevent your browser from accepting new cookies, as well as (depending on the sophistication of your browser software) allowing you to decide on acceptance of each new cookie in a variety of ways. We strongly recommend that you leave the cookies activated, however, because cookies enable you to take advantage of some of our Website's most attractive features. We use a third-party tracking service that uses cookies and web beacons to track non-personally identifiable information about visitors to our site in the aggregate.
+Cookies are alphanumeric non-personally identifiable identifiers that we transfer to your computer’s hard drive through your browser to enable our systems to recognize your browser and tell us how and when pages in our site are visited and by how many people. We use cookies to enhance visitors’ experiences, to learn more about their use of the Website and to improve quality. Most browsers have an option for turning off the cookie feature, which will prevent your browser from accepting new cookies, as well as (depending on the sophistication of your browser software) allowing you to decide on acceptance of each new cookie in a variety of ways. We strongly recommend that you leave the cookies activated, however, because cookies enable you to take advantage of some of our Website’s most attractive features. We use a third-party tracking service that uses cookies and web beacons to track non-personally identifiable information about visitors to our site in the aggregate.
 
 ##### ABILITY TO CHANGING OR DELETING YOUR INFORMATION
 
