@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imshopping.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118045104id_/http%3A//www.imshopping.com/content/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imshopping.com privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519061118id_/http%3A//www.imshopping.com/content/privacyPolicy) for the most accurate reproduction.*
 
 # IMshopping
 
