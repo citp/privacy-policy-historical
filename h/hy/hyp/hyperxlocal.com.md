@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hyperxlocal.com privacy policy that was archived on 2012-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120517124654id_/http%3A//www.hyperxmedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hyperxlocal.com privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519040651id_/http%3A//www.hyperxmedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy| HyperX Media
 
