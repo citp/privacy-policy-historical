@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lizlockard.com privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119070520id_/http%3A//www.lizlockard.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lizlockard.com privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519210428id_/http%3A//www.lizlockard.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Liz Lockard Marketing Consulting
+# Privacy Policy - Liz Lockard Marketing Consulting
 
 [Home](http://www.lizlockard.com/) » Privacy Policy
 
