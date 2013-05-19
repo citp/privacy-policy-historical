@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the briteverify.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223011825id_/http%3A//www.briteverify.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the briteverify.com privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519235557id_/http%3A//www.briteverify.com/privacy) for the most accurate reproduction.*
 
-# 
-
-**BRITEVERIFY PRIVACY POLICY**
+# None
 
 Last Updated:October 2. 2012 
 
@@ -155,9 +153,7 @@ privacy policy.
 
 **Changes in this Privacy Policy**
 
-We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.  
-  
-
+We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
 **Contact Us**
 
