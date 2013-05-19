@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldoflogs.com privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114221311id_/http%3A//www.worldoflogs.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldoflogs.com privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519184814id_/http%3A//worldoflogs.com/help/privacy) for the most accurate reproduction.*
 
 # World of Logs - Real Time Raid Analysis
 
