@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the waitrose.com privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119014248id_/http%3A//www.waitrose.com/footer/terms_of_service/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waitrose.com privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519181537id_/http%3A//www.waitrose.com/footer/terms_of_service/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
