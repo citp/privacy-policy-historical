@@ -1,103 +1,289 @@
-<!--The following is the downloaded HTML source of the shemaletubevideos.com privacy policy that was archived on 2010-11-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101122084954id_/http%3A//www.shemaletubevideos.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the shemaletubevideos.com privacy policy that was archived on 2013-05-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130519061039id_/http%3A//www.shemaletubevideos.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>Shemale Tube Videos | Shemale Movies &amp; Pictures Privacy policy</title>
-<meta name="description" content="Hourly updated shemale tube videos and Pictures. Features FREE HD Quality Shemale Porn for the ultimate experience.">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<title> Privacy policy - ShemaleTubeVideos</title>
+<meta name="keywords" content="Privacy policy,free tranny sex, shemale sex, shemale sex videos, tranny sex movies, tranny porn tube, shemale xxx, tranny porn, free shemale porn">
+<meta name="description" content="Privacy policy found only at Shemaletubevideos.com">
+
+<meta name="robots" content="index, follow">   
 <meta name="google-site-verification" content="cYglDdfdGbUjBFqAO0L0oL66A7yMHbQdYbYl6hTqHhM">
-<link rel="shortcut icon" href="http://www.shemaletubevideos.com/favicon.ico">
-<link href="http://www.shemaletubevideos.com/stp/css/blue/main.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link href="http://www.shemaletubevideos.com/stp/css/blue/main.css?v=5.0" rel="stylesheet" type="text/css">
 
 
-<script type="text/javascript" src="http://www.shemaletubevideos.com/stp/js/jquery/jquery.js"></script>
+
+
+
+
+
+
+
+
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script>
+var _thumbs = new Array();
+
+function changeThumb(index, i, num_thumbs, path)
+
+{
+
+    if (_thumbs[index])
+
+    {    	  
+
+        document.getElementById(index).src = path + i + ".jpg";
+
+        
+
+        preload = new Image();
+
+        preload_image_id = (i + 1 > num_thumbs) ? 1 : i + 1;
+
+        preload.src = path + preload_image_id + ".jpg";
+
+        
+
+        i = i % num_thumbs;
+
+        i++;
+
+        setTimeout("changeThumb('" + index + "'," + i + ", " + num_thumbs + ", '" + path + "')", 600);
+
+    }
+
+}    
+
+function startThumbChange(index, num_thumbs, path)
+
+{    
+
+	if (num_thumbs < 2) return false;
+
+    _thumbs[index] = true;
+
+    changeThumb(index, 1, num_thumbs, path);
+
+}
+
+function endThumbChange(index, image)
+
+{
+
+    _thumbs[index] = false;
+
+    document.getElementById(index).src = image;
+
+}
+
+
+// Checkbox checking/unchecking/inverting functions
+function checkAll(id){
+   var f = document.getElementById(id);
+   var inputs = f.getElementsByTagName("input");
+   for(var t = 0;t < inputs.length;t++){
+     if(inputs[t].type == "checkbox")
+       inputs[t].checked = true;
+   }
+ }
+ function uncheckAll(id){
+   var f = document.getElementById(id);
+   var inputs = f.getElementsByTagName("input");
+   for(var t = 0;t < inputs.length;t++){
+     if(inputs[t].type == "checkbox")
+       inputs[t].checked = false;
+   }
+ }
+ function invertAll(id){
+   var f = document.getElementById(id);
+   var inputs = f.getElementsByTagName("input");
+   for(var t = 0;t < inputs.length;t++){
+     if(inputs[t].type == "checkbox")
+       inputs[t].checked = !inputs[t].checked;
+   }
+ }
+ 
+// Hide/Show Divs
+function hideDiv(div) {
+    if (!document.getElementById) return;
+    obj = document.getElementById(div);
+    obj.style.display="none";
+}
+function showDiv(div) {
+    if (!document.getElementById) return;
+    obj = document.getElementById(div);
+    obj.style.display="block";
+}
+
+function showhide(id)
+{
+   if (document.getElementById){
+	obj = document.getElementById(id);
+	if (obj.style.display == "none"){
+	    obj.style.display = "";
+	} else {
+	    obj.style.display = "none";
+	}
+   }
+}
+
+function del(msg)
+{
+   var tmp=confirm((msg) ? msg : "Do you really want to delete?");
+   if(!tmp)
+   return false;
+   else
+   return true;
+}
+
+function setSearchOptions(idElement, classname, field, option)
+{
+   tab = document.getElementById('tab'+idElement);
+   search_option = document.getElementById(field);
+   for (i=1; i<=6; i++){
+      if (i == idElement){        
+         tab.className = classname;        
+         search_option.value = option;
+      } 
+      else {        
+         document.getElementById('tab'+i).className = "";
+      }
+   }
+}
+
+function setDefaultThumb(id, total, classnameON, classnameOFF) {
+
+   for (i=1; i<=total; i++)
+   {
+      if (i == id){        
+         document.getElementById('thumb'+i).className = classnameON;        
+         document.getElementById('default_thumb').value = i;
+      } 
+      else {        
+         document.getElementById('thumb'+i).className = classnameOFF;
+      }
+   }
+}
+
+function setDefaultGalleryThumb(id, thumb, total, classnameON, classnameOFF) {
+
+   for (i=1; i<=total; i++)
+   {
+      if (i == id){        
+         document.getElementById('thumb'+i).className = classnameON;     
+         document.getElementById('default_thumb').value = thumb;
+      } 
+      else {        
+         document.getElementById('thumb'+i).className = classnameOFF;
+      }
+   }
+}
+
+function addBookmark(title,url){
+if (window.sidebar) // firefox
+	window.sidebar.addPanel(title, url, "");
+else if(window.opera && window.print){ // opera
+	var elem = document.createElement('a');
+	elem.setAttribute('href',url);
+	elem.setAttribute('title',title);
+	elem.setAttribute('rel','sidebar');
+	elem.click();
+} 
+else if(document.all)// ie
+	window.external.AddFavorite(url, title);
+}
+
+function player_start(cache_id) 
+{
+	if (!play_count)
+	{		
+		viewsCounterCallback = xajax.callback.create();
+		viewsCounterCallback.onComplete = function(oRequest) {			
+			if (CallbackArgs.play) {play_count++;}			
+			CallbackArgs = {};
+		}
+		
+		viewsCounterCallback.onFailure = function(oRequest) {
+			$f().stop();			
+			CallbackArgs = {};
+		}
+
+		xajax.call('video_views_counter', {callback: viewsCounterCallback, parameters: [cache_id]} );
+	}
+}
+
+
+</script>
+
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-7175450-3']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+
+
+
+
 
 <script type="text/javascript">
 
 jQuery.noConflict();
 
 </script>
-<!--[if IE 6]><link rel="styleheet" href="http://www.shemaletubevideos.com/stp/css/blue/ie6.css" type="text/css" /><![endif]-->
-</head>
-<body bgcolor="#000000">
-<div class="preload">
-<img src="stp/images/default/header.png">
-</div>
-<div class="center">
-<div class="head"> <a href="http://www.shemaletubevideos.com/"><img src="http://www.shemaletubevideos.com/stp/images/blue/logo.jpg" class="logo" height="152" width="370" alt="Shemale Tube Videos"></a>
-<p class="logo-txt"></p>
+<!--[if IE 6]><link rel="styleheet" href="http://www.shemaletubevideos.com/stp/css/blue/ie6.css" type="text/css" /><![endif]--><link href="http://www.shemaletubevideos.com/extras/ticker/style.css" rel="stylesheet" type="text/css"><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
+<script src="http://www.shemaletubevideos.com/extras/ticker/jquery.zrssfeed.min.js" type="text/javascript"></script>
+<script src="http://www.shemaletubevideos.com/extras/ticker/jquery.vticker.js" type="text/javascript"></script>
+
 <script type="text/javascript">
 
-var addthis_config = {
-  ui_click: true 
-}
+
+$(document).ready(function () {
+	$('#ticker1').rssfeed('http://www.shemaletubevideos.com/feed/rss/videos/recent/shemale/all/all/day/',{
+		snippet: false
+
+	}, function(e) {
+		$(e).find('div.rssBody').vTicker({
+			showItems: 1
+		});
+	});
+});
 
 </script>
-<ul class="nav">
-<li><a href="http://www.shemaletubevideos.com/">Home</a></li>
-<li><a href="http://www.shemaletubevideos.com/videos/">Videos</a></li>
-<li><a href="http://www.shemaletubevideos.com/videos/shemale/video-rate.html">Top Rated</a></li>
-<li><a href="http://www.shemaletubevideos.com/galleries/">Pictures</a></li>
-<li><a href="http://www.shemaletubevideos.com/categories/">Categories</a></li>
-<li><a href="http://www.shemaletubevideos.com/?view=submit">Upload</a></li>
-<li><a href="http://www.shemaletubevideos.com/members/">Users</a></li>
-<li><a href="http://www.shemaletubevideos.com/groups/">Groups</a></li>
-<li><a href="http://www.shemaletubevideos.com/blogs/">Blogs</a></li>
-<li><a href="http://www.shemaletubevideos.com/contact-us/">Report a Problem</a></li>
-</ul><div class="search">
+</head><body><div class="preload"><img src="http://www.shemaletubevideos.com/stp/images/blue/bg.jpg"><img src="http://www.shemaletubevideos.com/stp/images/blue/header-xa1.png"><img src="http://www.shemaletubevideos.com/stp/images/blue/header-xa2.png"></div><div class="center"><div class="head"> <a href="http://www.shemaletubevideos.com/"><img src="http://www.shemaletubevideos.com:81/stp/images/blue/logo.png" class="logo" height="152" width="370" alt="Shemale Tube Videos"></a><p class="logo-txt"></p><ul class="nav"><li><a href="http://www.shemaletubevideos.com/">Home</a></li><li class="menudrop"><a href="http://www.shemaletubevideos.com/videos/all/video-recent.html">Videos ▼</a><div class="menu_list"><span><a href="http://www.shemaletubevideos.com/videos/all/video-recent.html">Most Recent</a></span><span><a href="http://www.shemaletubevideos.com/videos/all/video-view.html">Most Views</a></span><span><a href="http://www.shemaletubevideos.com/videos/all/video-rate.html">Top Rated</a></span><span><a href="http://www.shemaletubevideos.com/videos/all/video-length.html">Longest</a></span></div></li><li class="menudrop"><a href="http://www.shemaletubevideos.com/galleries/all/all-recent.html">Pictures ▼</a><div class="menu_list"><span><a href="http://www.shemaletubevideos.com/galleries/all/all-recent.html">Most Recent</a></span><span><a href="http://www.shemaletubevideos.com/galleries/all/all-view.html">Most Views</a></span><span><a href="http://www.shemaletubevideos.com/galleries/all/all-rate.html">Top Rated</a></span></div></li><li class="categories"><a href="http://www.shemaletubevideos.com/categories/">Categories ▼</a><div class="cat_list"><span><a href="http://www.shemaletubevideos.com/videos/shemale/amateur-recent.html">Amateur</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/anal-recent.html">Anal</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/anime-recent.html">Anime</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/asian-recent.html">Asian</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/ass-recent.html">Ass</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/bareback-recent.html">Bareback</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/bathroom-recent.html">Bathroom</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/bigcock-recent.html">Bigcock</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/bigtits-recent.html">Bigtits</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/bikini-recent.html">Bikini</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/blonde-recent.html">Blonde</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/blowjob-recent.html">Blowjob</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/bondage-recent.html">Bondage</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/brunette-recent.html">Brunette</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/crossdress-recent.html">Crossdress</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/cumshot-recent.html">Cumshot</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/deepthroat-recent.html">Deep Throat</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/ebony-recent.html">Ebony</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/exotic-recent.html">Exotic</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/facial-recent.html">Facial</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/fetish-recent.html">Fetish</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/fingering-recent.html">Fingering</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/futanaria-recent.html">Futanaria</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/gaping-recent.html">Gaping</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/groupsex-recent.html">Groupsex</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/handjob-recent.html">Hand Job</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/hardcore-recent.html">Hardcore</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/interracial-recent.html">Interracial</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/kissing-recent.html">Kissing</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/ladyboy-recent.html">Ladyboy</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/latex-recent.html">Latex</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/latin-recent.html">Latin</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/lingerie-recent.html">Lingerie</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/masturbation-recent.html">Masturbation</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/mature-recent.html">Mature</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/outdoor-recent.html">Outdoor</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/pornstars-recent.html">Pornstars</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/redhead-recent.html">Redhead</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/shemalewithfemale-recent.html">Shemale &amp; Female</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/shemalewithshemale-recent.html">Shemale &amp; Shemale</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/skinny-recent.html">Skinny</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/solo-recent.html">Solo</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/teen-recent.html">Teen</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/toys-recent.html">Toys</a></span><span><a href="http://www.shemaletubevideos.com/videos/shemale/wedding-recent.html">Wedding</a></span></div></li><li class="menudrop"><a href="http://date.shemaletubevideos.com">Top Shemale Paysites ▼</a><div class="menu_list"><span><a href="http://refer.ccbill.com/cgi-bin/clicks.cgi?CA=904803-0000&amp;PA=2073467&amp;HTML=http://tskarlacarrillo.com/tour/" target="_blank">Karla Carrillo<font color="#FFE73A"> <b>NEW</b></font></a></span><span><a href="http://www.linkfame.com/tsplayground/go.php?pr=8&amp;su=2&amp;si=165&amp;pa=index&amp;ar=&amp;ad=187816&amp;campaign=7378&amp;pg=2" target="_blank">Evil Angel Shemales</a></span><span><a href="http://www.freetrannypassport.com/?t=107130,5,104,0" target="_blank">Free Tranny Passport</a></span><span><a href="http://www.andreanobiliproductions.com/home.php?ccr=2111573" target="_blank">Andrea Nobili Bigcocks</a></span><span><a href="http://refer.ccbill.com/cgi-bin/clicks.cgi?CA=904803-0000&amp;PA=2073467&amp;BAN=0&amp;HTML=http://tsmarianacordoba.com/tour/" target="_blank">Mariana Cordoba</a> </span><span><a href="http://track.ts-baileyjay.com/track/MjYxMTo0OjQ1/" target="_blank">Bailey Jay<font color="#FFE73A"> <b>HOT</b></font></a></span><span><a href="http://refer.ccbill.com/cgi-bin/clicks.cgi?CA=904803-0000&amp;PA=2073467&amp;BAN=0&amp;HTML=http://anatranny.com/join.php" target="_blank">Ana Tranny</a></span><span><a href="http://refer.ccbill.com/cgi-bin/clicks.cgi?CA=904803-0000&amp;PA=2073467&amp;BAN=0&amp;HTML=http://sapphireyoung.com/tour/" target="_blank">Sapphire Young</a> </span><span><a href="http://www.sheanimale.com/tour.php?id=1494292" target="_blank">Shemale Anime</a> </span><span><a href="http://date.shemaletubevideos.com">Date a Shemale</a></span></div></li><li class="menudrop"><a href="http://www.shemaletubevideos.com/liveshemalechat/">Live Cams &amp; Games ▼</a><div class="menu_list"><span><a href="http://www.shemaletubevideos.com/liveshemalechat/">Live Shemale Chat</a></span><span><a href="http://www.shemaletubevideos.com/liveshemalesexshow/">Live Shemale Sexshow</a></span><span><a href="http://www.shemaletubevideos.com/shemalechallenge/">Shemale Quiz</a></span><span><a href="http://www.shemaletubevideos.com/shemaleshellgame/">Shemale Shell Game</a></span><span><a href="http://www.shemaletubevideos.com/bonetown/">Bone Town</a></span><span><a href="http://www.shemaletubevideos.com/shemaleroulette/">Shemale Roulette</a></span><span><a href="http://www.redlightcenter.com/transgender/?trq=87358" target="_blank">Virtual TS World</a></span><span><a href="http://www.pinkvisualgames.com/index.php?alias=28&amp;revid=13901" target="_blank">3d Sex Simulator</a></span></div></li><li><a href="http://www.shemaletubevideos.com/?view=submit">Upload</a></li><li><a href="http://www.shemaletubevideos.com/members/?sort=view">Members</a></li><li><a href="http://www.shemaletubevideos.com/groups/shemale/?sort=members">Groups</a></li><li><a href="http://www.shemaletubevideos.com/blogs/">Blogs</a></li></ul><div class="logospot"><center><div id="ticker1"></div></center></div>
+
+<div class="searchtop">
+<center>
+<a href="http://refer.ccbill.com/cgi-bin/clicks.cgi?CA=904803-0000&amp;PA=2073467&amp;HTML=http://tsmarianacordoba.com/tour/index.php" target="_blank"><img src="http://www.shemaletubevideos.com:81/stp/images/blue/200x80.jpg" width="180" height="60" alt="Mariana cordoba"></a></center></div>
+
+<div class="search">
 
 <ul>
-
-	<li id="tab1" class="active"><a href="#video" onclick="document.getElementById('serchinput').value = 'type here to search videos...';javascript:setSearchOptions(1, 'active', 'search_type', 'video'); return false;">Videos</a></li>
-
-	<li id="tab2"><a href="#gallery" onclick="document.getElementById('serchinput').value = 'type here to search galleries...';javascript:setSearchOptions(2, 'active', 'search_type', 'gallery'); return false;">Pictures</a></li>
-
-	<li id="tab3"><a href="#user" onclick="document.getElementById('serchinput').value = 'type here to search members...';javascript:setSearchOptions(3, 'active', 'search_type', 'user'); return false;">Users</a></li>
-
-	<li id="tab4"><a href="#group" onclick="document.getElementById('serchinput').value = 'type here to search groups...';javascript:setSearchOptions(4, 'active', 'search_type', 'group'); return false;">Groups</a></li>
-
-	<li id="tab5"><a href="#playlist" onclick="document.getElementById('serchinput').value = 'type here to search playlists...';javascript:setSearchOptions(5, 'active', 'search_type', 'playlist'); return false;">Playlists</a></li>
-
-	
+<li id="tab1" class="active"><a href="#video" onclick="document.getElementById('serchinput').value = 'search shemale videos';javascript:setSearchOptions(1, 'active', 'search_type', 'video'); return false;">Videos</a></li>
+<li id="tab2"><a href="#gallery" onclick="document.getElementById('serchinput').value = 'search shemale galleries';javascript:setSearchOptions(2, 'active', 'search_type', 'gallery'); return false;">Pictures</a></li>
+<li id="tab3"><a href="#user" onclick="document.getElementById('serchinput').value = 'search members';javascript:setSearchOptions(3, 'active', 'search_type', 'user'); return false;">Members</a></li>
+<li id="tab4"><a href="#playlist" onclick="document.getElementById('serchinput').value = 'search playlists';javascript:setSearchOptions(4, 'active', 'search_type', 'playlist'); return false;">Playlists</a></li>
 
 </ul>
-
 <div>
-
-    <form action="http://www.shemaletubevideos.com/" method="post" name="searchform">
-
-    <input type="hidden" name="view" value="search">
-
-	<input type="hidden" name="search_type" id="search_type" value="video">
-
-	<input type="text" name="search" id="serchinput" class="in1" value="Type here to search..." onfocus="this.value=''" onblur="">
-
-	<input class="search-button" type="submit" value="">
-
-	</form>
-
-</div>
-
-</div><form action="http://www.shemaletubevideos.com/" method="post">
-<input type="hidden" name="return" value="%2Fprivacy%2F">
-<input type="hidden" name="view" value="login">
-<input type="hidden" name="action" value="login">
-<input type="hidden" name="remember" value="1">
-<div class="login">
-<p class="hello">Welcome <span>Guest</span> - <a href="http://www.shemaletubevideos.com/signup/">Register</a></p>
-<div class="l">
-<input type="text" name="username" maxlength="20" value="Username" onfocus="this.value=''" onblur="this.value=this.value==''?'Username':this.value;">
-</div>
-<div class="l">
-<input type="password" name="password" maxlength="20" value="Password" onfocus="this.value=''" onblur="this.value=this.value==''?'Password':this.value;">
-</div>
-<div class="lo">				
-<div>
-<input type="submit" class="search_login" value="Login">
-</div></div></div>
+<form action="http://www.shemaletubevideos.com/" method="get" name="searchform">
+<input type="hidden" name="view" value="search">
+<input type="hidden" name="search_type" id="search_type" value="video">
+<input type="text" name="search" id="serchinput" class="in1" value="search shemale videos" onfocus="this.value=''" onblur="">
+<input class="search-button" type="submit" value="">
 </form>
-	
 </div>
-<div id="load"></div> <div class="header">
+</div><form action="http://www.shemaletubevideos.com/" method="post"><input type="hidden" name="return" value="%2Fprivacy%2F"><input type="hidden" name="view" value="login"><input type="hidden" name="action" value="login"><input type="hidden" name="remember" value="1"><div class="login"><a href="http://www.shemaletubevideos.com/?lang=en" title="English"> <img src="http://www.shemaletubevideos.com/stp/images/blue/flags/us.gif" height="11" width="16" alt="English"> </a><a href="http://www.shemaletubevideos.com/?lang=fr" title="Francais"> <img src="http://www.shemaletubevideos.com/stp/images/blue/flags/fr.gif" height="11" width="16" alt="Francais"> </a><a href="http://www.shemaletubevideos.com/?lang=de" title="Deutsch"> <img src="http://www.shemaletubevideos.com/stp/images/blue/flags/de.gif" height="11" width="16" alt="Deutsch"> </a><a href="http://www.shemaletubevideos.com/?lang=sp" title="Espanol"> <img src="http://www.shemaletubevideos.com/stp/images/blue/flags/es.gif" height="11" width="16" alt="Espanol"> </a><br><p class="hello">Welcome <span>Guest</span> - <a href="http://www.shemaletubevideos.com/signup/">Register</a></p><div class="l"><input type="text" name="username" maxlength="20" value="Username" onfocus="this.value=''" onblur="this.value=this.value==''?'Username':this.value;"></div><div class="l"><input type="password" name="password" maxlength="20" value="Password" onfocus="this.value=''" onblur="this.value=this.value==''?'Password':this.value;"></div><div class="lo"><div><input type="submit" class="search_login" value="Login"></div></div></div></form></div><div id="load"></div>
+ <div class="header">
 
     <h2><span>Privacy policy</span></h2>
 
@@ -107,40 +293,40 @@ var addthis_config = {
 
   
 <div class="user_title">
-Shemale Tube Videos | Shemale Movies &amp; Pictures Limited recognizes that its customers, visitors, users, and others who use Shemale Tube Videos | Shemale Movies &amp; Pictures Video value their privacy. This privacy notice details important information regarding the use and disclosure of user information collected on the Shemale Tube Videos | Shemale Movies &amp; Pictures Video site. We provide this privacy notice to help you make an informed decision about whether to use or continue using our site.
+Shemale Tube Videos Limited recognizes that its customers, visitors, users, and others who use Shemale Tube Videos Video value their privacy. This privacy notice details important information regarding the use and disclosure of user information collected on the Shemale Tube Videos Video site. We provide this privacy notice to help you make an informed decision about whether to use or continue using our site.
 </div>
 <div class="user_title">
-Please note that any video, image, or other content posted at the direction of users onto the Shemale Tube Videos | Shemale Movies &amp; Pictures Video site becomes published content and is not considered personally identifiable information subject to this privacy notice.
+Please note that any video, image, or other content posted at the direction of users onto the Shemale Tube Videos Video site becomes published content and is not considered personally identifiable information subject to this privacy notice.
 </div>
-<div class="tab_con_title">The Information Shemale Tube Videos | Shemale Movies &amp; Pictures Limited Collects</div>
+<div class="tab_con_title">The Information Shemale Tube Videos Limited Collects</div>
 <div class="user_title">
-<b>User-provided information:</b> You provide certain personally identifiable information (such as your name and email address) to Shemale Tube Videos | Shemale Movies &amp; Pictures Video when choosing to participate in various activities on the sites such as uploading videos or posting messages.
+<b>User-provided information:</b> You provide certain personally identifiable information (such as your name and email address) to Shemale Tube Videos Video when choosing to participate in various activities on the sites such as uploading videos or posting messages.
 <p class="p">
-<b>Cookies Information:</b> When you visit the Shemale Tube Videos | Shemale Movies &amp; Pictures Video site, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer that uniquely identifies your browser. Shemale Tube Videos | Shemale Movies &amp; Pictures Video uses both session cookies and persistent cookies. A persistent cookie remains after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser help file directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Shemale Tube Videos | Shemale Movies &amp; Pictures Video site may not function properly if the ability to accept cookies is disabled.
+<b>Cookies Information:</b> When you visit the Shemale Tube Videos Video site, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer that uniquely identifies your browser. Shemale Tube Videos Video uses both session cookies and persistent cookies. A persistent cookie remains after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser help file directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Shemale Tube Videos Video site may not function properly if the ability to accept cookies is disabled.
 </p> 
 <p class="p">
-<b>Log File Information:</b> When you use the Shemale Tube Videos | Shemale Movies &amp; Pictures Video site, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, browser language, referring / exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of your request, and one or more cookies that may uniquely identify your browser
+<b>Log File Information:</b> When you use the Shemale Tube Videos Video site, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, browser language, referring / exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of your request, and one or more cookies that may uniquely identify your browser
 </p> 
 </div>
-<div class="tab_con_title">The Way Shemale Tube Videos | Shemale Movies &amp; Pictures Video Retains Information</div>
+<div class="tab_con_title">The Way Shemale Tube Videos Video Retains Information</div>
 <div class="user_title">
 <p class="p">
-To preserve the integrity of website databases, Shemale Tube Videos | Shemale Movies &amp; Pictures Video's procedure is to retain information submitted by members for an indefinite length of time. By submitting information to Shemale Tube Videos | Shemale Movies &amp; Pictures Video, you are consenting to store that information indefinitely.
+To preserve the integrity of website databases, Shemale Tube Videos Video's procedure is to retain information submitted by members for an indefinite length of time. By submitting information to Shemale Tube Videos Video, you are consenting to store that information indefinitely.
 </p> 
 </div>
-<div class="tab_con_title">The Way Shemale Tube Videos | Shemale Movies &amp; Pictures Limited Uses Information </div>
+<div class="tab_con_title">The Way Shemale Tube Videos Limited Uses Information </div>
 <div class="user_title">
 <p class="p">
-If you submit personally identifiable information to us through the Shemale Tube Videos | Shemale Movies &amp; Pictures Video website, then we use your personal information to operate, maintain, and provide to you the features and functionality of the site.
+If you submit personally identifiable information to us through the Shemale Tube Videos Video website, then we use your personal information to operate, maintain, and provide to you the features and functionality of the site.
 </p>
 <p class="p">
-Any personal information or video content that you voluntarily disclose online (on discussion boards, in messages and chat areas, within your public profile page, etc.) becomes publicly available and can be collected and used by others. Your account name (not your email address) is displayed to other users when you upload videos or send messages through the Shemale Tube Videos | Shemale Movies &amp; Pictures Video site, and other users can contact you through messages and comments. Any videos that you submit to the Shemale Tube Videos | Shemale Movies &amp; Pictures Video site may be redistributed through the Internet and other media channels, and may be viewed by the general public.
+Any personal information or video content that you voluntarily disclose online (on discussion boards, in messages and chat areas, within your public profile page, etc.) becomes publicly available and can be collected and used by others. Your account name (not your email address) is displayed to other users when you upload videos or send messages through the Shemale Tube Videos Video site, and other users can contact you through messages and comments. Any videos that you submit to the Shemale Tube Videos Video site may be redistributed through the Internet and other media channels, and may be viewed by the general public.
 </p>
 <p class="p">
 We do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. We may, however, use your email address without further consent for non-marketing or administrative purposes.
 </p> 
 </div>
-<div class="tab_con_title">When Shemale Tube Videos | Shemale Movies &amp; Pictures Video Discloses Information </div>
+<div class="tab_con_title">When Shemale Tube Videos Video Discloses Information </div>
 <div class="user_title">
 <p class="p">
 We provide personally identifiable information and non-personally-identifiable information to our subsidiaries, affiliated companies, or other businesses or persons for the purpose of processing such information on our behalf. We require that these parties agree to process such information in compliance with our privacy policy, and we use reasonable efforts to limit their use of such information and to use other appropriate confidentiality and security measures.
@@ -152,43 +338,46 @@ We do not share your personally identifiable information (such as name or email 
 We may release personally identifiable information and/or non-personally-identifiable information if required to do so by law, or in the good-faith belief that such action is necessary to comply with state and federal laws (such as U.S. Copyright Law) or respond to a court order, subpoena, or search warrant.
 </p>
 <p class="p">
-Shemale Tube Videos | Shemale Movies &amp; Pictures Limited also reserves the right to disclose personally identifiable information and/or non-personally-identifiable information that, in good faith, is appropriate or necessary to enforce our terms of use, take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of our web site, and to protect the rights, property, or personal safety of Megarotic Limited, our users or others.
+Shemale Tube Videos Limited also reserves the right to disclose personally identifiable information and/or non-personally-identifiable information that, in good faith, is appropriate or necessary to enforce our terms of use, take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of our web site, and to protect the rights, property, or personal safety of Megarotic Limited, our users or others.
 </p>
 </div>
 <div class="tab_con_title">Our Commitment to Legal-Age Usage </div>
 <div class="user_title">
-Protecting children from adult content is especially important. For that reason, Shemale Tube Videos | Shemale Movies &amp; Pictures Limited does not knowingly collect or maintain personally identifiable information or non-personally-identifiable information on the Shemale Tube Videos | Shemale Movies &amp; Pictures Video site from persons under 18 years of age, and no part of our website is directed to persons under 18, or legal age according to state law. If you are under 18 years of age, then please do not use or access the Shemale Tube Videos | Shemale Movies &amp; Pictures Video site at any time or in any manner. If Shemale Tube Videos | Shemale Movies &amp; Pictures Limited learns that personally identifiable information of persons under 18 years of age has been collected, appropriate steps will be taken to delete this information.
+Protecting children from adult content is especially important. For that reason, Shemale Tube Videos Limited does not knowingly collect or maintain personally identifiable information or non-personally-identifiable information on the Shemale Tube Videos Video site from persons under 18 years of age, and no part of our website is directed to persons under 18, or legal age according to state law. If you are under 18 years of age, then please do not use or access the Shemale Tube Videos Video site at any time or in any manner. If Shemale Tube Videos Limited learns that personally identifiable information of persons under 18 years of age has been collected, appropriate steps will be taken to delete this information.
 </div> 
 <div class="tab_con_title">In the Event of Merger, Sale, or Bankruptcy</div>
 <div class="user_title">
-In the event that Shemale Tube Videos | Shemale Movies &amp; Pictures Limited is acquired by or merged with a third party entity, we reserve the right, in any of these circumstances, to transfer or assign the information we have collected from our users as part of such merger, acquisition, sale, or other change of control. In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, we may not be able to control how your personal information is treated, transferred, or used.
+In the event that Shemale Tube Videos Limited is acquired by or merged with a third party entity, we reserve the right, in any of these circumstances, to transfer or assign the information we have collected from our users as part of such merger, acquisition, sale, or other change of control. In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, we may not be able to control how your personal information is treated, transferred, or used.
 </div>
 <div class="tab_con_title">Changes and updates to this Privacy Notice</div>
 <div class="user_title">
-This privacy notice may be revised periodically and users are encouraged to review it periodically to stay aware of any changes. Your continued use of the Shemale Tube Videos | Shemale Movies &amp; Pictures Video site constitutes your agreement to this privacy notice and any future revisions.
+This privacy notice may be revised periodically and users are encouraged to review it periodically to stay aware of any changes. Your continued use of the Shemale Tube Videos Video site constitutes your agreement to this privacy notice and any future revisions.
 </div>
 
 
-</div> <center>
-<br class="clear"></center></div>
-<div class="foot">
-<div class="foot2">
-<p><span>
-<a href="http://www.shemaletubevideos.com/">Home</a> | 
- 
-<a href="http://www.shemaletubevideos.com/signup/">Register</a> | 
-<a href="http://www.shemaletubevideos.com/login/">Login</a> | 
-<a href="http://www.shemaletubevideos.com/search/">Search</a> | 
-<a href="http://www.shemaletubevideos.com/submit/">Upload</a> | 
-<a href="http://www.shemaletubevideos.com/members/">Users</a> | 
-<a href="http://www.shemaletubevideos.com/groups/">Groups</a> | 
-<a href="http://www.shemaletubevideos.com/terms/">Terms of service</a> | 
-<a href="http://www.shemaletubevideos.com/privacy/">Privacy</a> | 
-<a href="http://www.shemaletubevideos.com/dmca/">DMCA</a> | 
-<a href="http://www.shemaletubevideos.com/report-abuse/">Report abuse</a> | 
-<a href="http://www.shemaletubevideos.com/contact-us/">Contact us</a> |
-<a href="http://www.shemaletubevideos.com/mobile/">Mobile Version</a>
-</span><br><br>
-Shemale Tube Videos | Shemale Movies &amp; Pictures, it's owners, designers, partners, representatives and this web site are not responsible for any action taken by its members on this site. Liability for any content contained in a post is the sole responsibility of the person(s) who submitted them.<br>
-Copyright © 2009 - 2010 Shemale Tube Videos | Shemale Movies &amp; Pictures. All Rights Reserved.</p>
-</div></div></body></html>
+</div><script language="javascript" type="text/javascript">
+<!--
+document.cookie='te3b=bm9yZWZ8fGRlZmF1bHR8MXwwfDB8bm9uZXwwOg==; expires=Mon, 20 May 2013 06:10:38 GMT; path=/;';
+document.cookie='te3bookmark=1368943838; expires=Mon, 19 May 2014 06:10:38 GMT; path=/;';
+//-->
+</script>
+
+
+
+
+
+
+
+<script type="text/javascript" src="http://www.shemaletubevideos.com:81/i/jquery9.js"></script>
+<script src="http://pcash.imlive.com/releasese/da_js.asp?banner=114&amp;width=300&amp;height=250&amp;wid=123763760520&amp;LinkID=701&amp;QueryID=6&amp;promocode=BCODEBF3H482F_00000" type="text/javascript"></script>
+							
+
+
+
+
+
+<center><br class="clear"></center></div><div class="foot"><div class="foot2"><p><span><a href="http://www.shemaletubevideos.com/signup/">Register</a> |<a href="http://www.shemaletubevideos.com/terms/">Terms of service</a> |<a href="http://www.shemaletubevideos.com/privacy/">Privacy</a> |<a href="http://www.shemaletubevideos.com/dmca/">DMCA/2257</a> |<a href="http://www.shemaletubevideos.com/report-abuse/">Report</a> |<a href="http://www.shemaletubevideos.com/contact-us/">Contact us</a> |<a href="http://www.shemaletubevideos.com/mobile/">Mobile Version</a> |<a href="http://www.shemaletubevideos.com/webmasters.html">Webmasters</a> |<a href="http://www.shemaletubevideos.com/?view=export_media">Embed Content</a></span><br><br>Shemale Tube Videos, it's owners, designers, partners, representatives and this web site are not responsible for any action taken by its members on this site. Liability for any content contained in a post is the sole responsibility of the person(s) who submitted them.<br>Copyright © Shemale Tube Videos. All Rights Reserved.</p></div>
+<link rel="alternate" type="application/rss+xml" title="Shemale Tube Videos -  »  " href="http://www.shemaletubevideos.com/feed/rss/videos/recent/shemale/all/all/week/">
+<link rel="alternate" type="application/rss+xml" title="Shemale Tube Videos -  »  " href="http://www.shemaletubevideos.com/feed/rss/galleries/recent/shemale/all/all/week/">
+<link rel="shortcut icon" href="http://www.shemaletubevideos.com/favicon.ico">
+</div></body></html>
