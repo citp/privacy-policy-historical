@@ -1,59 +1,42 @@
-> *The following text is extracted and transformed from the stwater.co.uk privacy policy that was archived on 2010-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101105122558id_/http%3A//www.stwater.co.uk/server.php%3Fshow%3Dnav.5618) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stwater.co.uk privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519060505id_/http%3A//www.stwater.co.uk/legal/privacy) for the most accurate reproduction.*
 
-# privacy policy : Severn Trent Water
+# Privacy : Legal : Severn Trent Water
 
-Please read the following privacy policy carefully before continuing to use this site.
+Here at Severn Trent we adhere to the Data Protection Act 1998, when dealing with your personal details. The information below should answer any questions you may have about this but please do [contact us](http://www.stwater.co.uk/contactus) if you have any further queries.
 
-## data protection & privacy policy
+## What information do we collect?
 
-### Introduction
+The data we collect is the personal contact information such as your name, address and email address. We store information related to your bill payment history, and any information you have given us about the way you would like to be contacted by us. We also store your responses to surveys should you chose to take part in them.
 
-Severn Trent Water Ltd (STW) are committed to protecting your privacy and  complying  with the provisions of the Data Protection Act 1998. We ask that you read this statement before providing us with any Personal Information.
+For customers paying by credit or debit card, please note we do not store the CVC or credit verification code.
 
-### Our Use of Your Personal Information
+When anyone visits our website, whether they are a customer or not, we also store information about the way you interact with our website through the use of cookies.  This helps us to make sure it is the best possible experience for you.  Find out more about [the way we use cookies on this site.](http://www.stwater.co.uk/legal/privacy/our-use-of-cookies)
 
-Any personal information you provide to us on this website is done so on a voluntary basis.  In some circumstances we may use the information provided by you to enhance our services to you.  You will be advised of any particular uses of the data at the time you provide it.  This is known as a Fair Processing or Fair collection Notice.  To see STW's more general notice, [click here](http://www.stwater.co.uk/server.php?show=ConWebDoc.3353).
+## How do we use that information?
 
-If you need to provide us with sensitive Personal Information (for example health information), you consent to the processing of this information for the purposes for which you have provided it.
+We will use the information we hold about you to manage your account in the most efficient way that we can. We may also use the information we have to contact you about other water related goods and services.
 
-### When might We Disclose your Personal Information to Others? 
+Additionally, we may share with and obtain information about you from other utilities, local authorities, government departments, credit reference agencies and other companies for use in any credit decisions, fraud prevention and to pursue debtors.
 
-We will not disclose your personal information to third parties except in circumstances which are permitted by law. 
+We may transfer your personal data to other organisations in any country only for any of the purposes mentioned.
 
-### Monitoring 
+## What are your rights?
 
-Please note that if you communicate with STW electronically, including by e-mail, telephone or fax, this communication may be randomly monitored or recorded to protect the interests of  our business and our customers.  This includes  maintaining high quality standards, crime detection and/or prevention and to ensure that our employees comply with legal obligations and our policies and procedures (including customer relations practices).
+By providing us with personal data, you have consented to us handling it for the purposes mentioned. If you would like to change the way we are able to contact you, you can simply email us with your account details and your request at [customercare@severntrent.co.uk.](mailto:customercare@severntrent.co.uk)
 
-### Hyperlinks
+Under the Data Protection Act 1998 you have the right to make a subject access request.
 
-We may provide hyperlinks from this web site to web sites of other organisations.  Please note that different Terms & Conditions and privacy policies will apply to other web sites.
+All requests must be made in writing to:
 
-### What are Cookies and why might We use them? 
+Data Protection  
+Customer Relations  
+Severn Trent Centre  
+PO Box 5309  
+Coventry  
+CV3 9FH.
 
-At present, this site **does not** use persistant cookies.  However, this may change in the future.  Please revisit this statement on a regular basis to ensure that you understand what might happen as a result of your usage.
+Please note there is a small charge for this service.
 
-We do currently use session based cookies.  This allows us to track how users move through the site, what browser they use and other relevant information.  Once you leave our site, or close your browser, we no longer employ the cookie or track information.
+## Contact us
 
-### Security 
-
-As you may be aware, no data transmission over the internet can ever be entirely secure.  As a result, while we will use reasonable endeavours to protect your Personal Information, We cannot guarantee the security of your Personal Information and the use of the Site (including any e-mail facilities) is at your own risk.
-
-### Changes to this policy
-
-We request that you refer to the Site on a regular basis to ensure that you are aware of our most recent policies (including this Privacy Policy) and Terms and Conditions of Use of the Site.
-
-### Address for Correspondence 
-
-If you wish to gain access to any personal data you may have provided STW, please  write to:
-
-The Company Data Protection Advisor   
-Severn Trent Water Ltd   
-PO Box 5310   
-Coventry   
-CV3 9FJ   
-
-
-There may be a small charge for this service.
-
-Alternatively, you can send an e-mail to [data.protection@severntrent.co.uk](mailto:data.protection@severntrent.co.uk).   
-
+If you have any further questions about the way we manage your data you can [email us](mailto:customercare.severntrent.co.uk) or call us on 08457 500 500.
