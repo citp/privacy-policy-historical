@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sacredheart.edu privacy policy that was archived on 2012-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121209040407id_/http%3A//www.sacredheart.edu/officesservices/marketingcommunications/webcontentmanagement/privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sacredheart.edu privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519050837id_/http%3A//www.sacredheart.edu/officesservices/webcontentmanagement/privacystatement) for the most accurate reproduction.*
 
-# Privacy Statement - Sacred Heart University
+# Privacy Statement | Sacred Heart University Connecticut
 
 Sacred HeartUniversity's policy is to respect the privacy of all website visitors to the extent permitted by law. This online privacy statement is intended to inform you of the ways in which this website collects information, the ways that we use that information, and the ways in which we will protect any information you choose to provide us.
 
