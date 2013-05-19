@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ontheclock.com privacy policy that was archived on 2012-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121117131813id_/http%3A//www.ontheclock.com/frmPrivacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ontheclock.com privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519062605id_/http%3A//ontheclock.com/frmPrivacy.aspx) for the most accurate reproduction.*
 
 # Web Time Clock, Online Timesheets
 
