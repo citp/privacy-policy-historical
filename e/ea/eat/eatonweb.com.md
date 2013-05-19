@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eatonweb.com privacy policy that was archived on 2012-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121117062925id_/http%3A//portal.eatonweb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eatonweb.com privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519191417id_/http%3A//portal.eatonweb.com/privacy) for the most accurate reproduction.*
 
 # EatonWeb Privacy - The Blog Directory
 
