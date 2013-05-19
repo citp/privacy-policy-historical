@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the consumeraffairs.com privacy policy that was archived on 2012-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121128022507id_/http%3A//www.consumeraffairs.com/about/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumeraffairs.com privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519191611id_/http%3A//www.consumeraffairs.com/about/privacy_policy) for the most accurate reproduction.*
 
 # ConsumerAffairs - Privacy Policy
 
@@ -7,7 +7,7 @@ This is the web site of **Consumers Unified, LLC** Our postal address is:
 ConsumerAffairs.com  
 297 Kingsbury Grade, Suite 1025, Mailbox 4470  
 Lake Tahoe, NV 89449-4470  
-1-800-351-3140 
+1-866-773-0221 
 
 We can be reached via e-mail through the [Contact Us](http://www.consumeraffairs.com/about/contact/) form on our Web site or at info@consumeraffairs.com.
 
