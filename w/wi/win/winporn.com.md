@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winporn.com privacy policy that was archived on 2012-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121012092144id_/http%3A//www.winporn.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winporn.com privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519100042id_/http%3A//www.winporn.com/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - WinPorn.com
 
