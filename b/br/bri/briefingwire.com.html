@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the briefingwire.com privacy policy that was archived on 2012-11-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121122131924id_/http%3A//www.briefingwire.com/Privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the briefingwire.com privacy policy that was archived on 2013-05-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130519074317id_/http%3A//www.briefingwire.com/Privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="Head1">
-        <base href="http://www.BriefingWire.com/">
-        <!--base href="http://localhost:4207/_netBW/" /-->
+            <base href="http://www.BriefingWire.com/">
+ 
         
         <link rel="alternate" type="application/rss+xml" title="Latest Press Releases from BriefingWire.com" href="http://www.BriefingWire.com/rss.ashx"> <!-- for blogs et al to know where rss file is -->
-        <link rel="image_src" href="http://www.briefingwire.com/Images/logo.jpg">
+        <link rel="image_src" href="http://www.briefingwire.com/Images/logobw1.jpg">  <!-- For Facebook -->
         <!-- add canonicalization tag -->
 
         <title>BriefingWire - Free Press Release Submission</title> 
@@ -21,8 +21,8 @@
         
 
         
-        <link id="ctl00_Link1" rel="stylesheet" type="text/css" href="BWStyles.css">
-        <link id="ctl00_Link2" rel="shortcut icon" href="Images/favicon.ico">
+        <link id="ctl00_Link1" rel="stylesheet" type="text/css" href="http://www.briefingwire.com/BWStyles.css">
+        <link id="ctl00_Link2" rel="shortcut icon" href="http://www.briefingwire.com/Images/favicon.ico">
 
         <script type="text/javascript" language="Javascript1.2">
             <!--
@@ -35,11 +35,10 @@
 	            else{
 		            return false;
 	            }
-	        }
+            }
             
             // Calcs Total Cost of Premium PR && Toggles 'Free Press Release' (i.e. Create) and Paypal buttons
             function getTotalCost() {
-                document.getElementById('custom').value = document.getElementById('ctl00_cphMain_bID').value;
                 sTotalCost = 0;
                 if (document.getElementById('cbImg') != null && document.getElementById('cbImg').checked == true) {
                     document.getElementById('amount_1').value = 10;
@@ -63,7 +62,7 @@
                     document.getElementById('amount_3').value = 0;
                 }
                 if (sTotalCost > 0) {
-                    document.getElementById('lblTotalCost').innerHTML = 'Total Cost: ' + formatNumber(sTotalCost.toString(), '$') + '  ';
+                    document.getElementById('lblTotalCost').innerHTML = 'Total Cost: ' + formatNumber(sTotalCost.toString(), '$') + '&nbsp;&nbsp;';
                     document.getElementById('btnFreePR').style.visibility = "hidden";
                     document.getElementById('btnPayPal').style.visibility = "visible";
                 }
@@ -74,10 +73,17 @@
                 }
                 return true;
             }
-
+            
             // Converts $ to impressions
             function getNumImpressions(objThis, strThatID) {
-                strVal = formatNumber(objThis.value * 100, '');
+                var spend = objThis.value;
+                var numImps = spend * 100; 
+                
+                if (spend >= 100) {
+                    numImps = numImps * 3;
+                }
+                
+                strVal = formatNumber(numImps, '');
                 document.getElementById(strThatID).innerHTML = strVal;
                 getTotalCost();
                 return true;
@@ -95,7 +101,7 @@
                     x1 = x1.replace(rgx, '$1' + ',' + '$2');
                 return prefix + x1 + x2;
             }
-
+            
             // Following 3 functions used to display field limits
             function objLimit(objThis, objMax) {
                 if (objThis.value.length == objMax) return false;
@@ -114,50 +120,44 @@
 	            else if (document.layers) return eval("document." + objId);
 	            else if (document.all) return eval("document.all." + objId);
 	            else return eval("document." + objId);
-	        }
+            }
             
             //-->
         </script>
     </head>
     <body>
         <form name="aspnetForm" method="post" action="Privacy.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1NDU2MTA1Mg9kFgJmD2QWCAIBDxYCHgRUZXh0BTs8dGl0bGU+QnJpZWZpbmdXaXJlIC0gRnJlZSBQcmVzcyBSZWxlYXNlIFN1Ym1pc3Npb248L3RpdGxlPmQCAw8WAh8ABbEBPG1ldGEgbmFtZT0iZGVzY3JpcHRpb24iIGNvbnRlbnQ9IkZyZWUgUHJlc3MgUmVsZWFzZSBzdWJtaXNzaW9uIGFuZCBkaXN0cmlidXRpb24gc2VydmljZS4gSW5jcmVhc2UgdGhlIHZpc2liaWxpdHkgb2YgeW91ciBidXNpbmVzcyBieSBzdWJtaXR0aW5nIHlvdXIgcHJlc3MgcmVsZWFzZSBmb3IgZnJlZS4iIC8+ZAIFDxYCHwAFuwY8bWV0YSBuYW1lPSJrZXl3b3JkcyIgY29udGVudD0icHJlc3MgcmVsZWFzZSwgcHJlc3MgcmVsZWFzZXMsIGZyZWUgcHJlc3MgcmVsZWFzZSwgZnJlZSBwcmVzcyByZWxlYXNlcywgcHIsIGZyZWUgcHIsIGZyZWUgcHJlc3MgcmVsZWFzZSBzaXRlcywgZnJlZSBwcmVzcyByZWxlYXNlIHdlYnNpdGVzLCBwcmVzcyByZWxlYXNlIHN1Ym1pc3Npb24sIGZyZWUgcHJlc3MgcmVsZWFzZSBzdWJtaXNzaW9uLCBwcmVzcyByZWxlYXNlIHN1Ym1pc3Npb24gc2l0ZXMsIGZyZWUgcHJlc3MgcmVsZWFzZSBzdWJtaXNzaW9uIHNpdGVzLCBmcmVlIHByZXNzIHJlbGVhc2Ugc3VibWlzc2lvbiBzZXJ2aWNlLCBwcmVzcyByZWxlYXNlIGRpc3RyaWJ1dGlvbiwgZnJlZSBwcmVzcyByZWxlYXNlIGRpc3RyaWJ1dGlvbiwgcHJlc3MgcmVsZWFzZSBkaXN0cmlidXRpb24gc2l0ZXMsIGZyZWUgcHJlc3MgcmVsZWFzZSBkaXN0cmlidXRpb24gc2l0ZXMsIGZyZWUgcHJlc3MgcmVsZWFzZSBkaXN0cmlidXRpb24gc2VydmljZSwgZnJlZSBwcmVzcyByZWxlYXNlIHBvc3RpbmcsIHNlbywgc2VhcmNoIGVuZ2luZSBvcHRpbWl6YXRpb24sIG5ld3MsIHJhbmtpbmcsIHJhbmtpbmdzLCBnb29nbGUgcmFua2luZywgaW5jcmVhc2UgZ29vZ2xlIHJhbmtpbmcsIHNlYXJjaCByZXN1bHRzLCBpbmNyZWFzZSBteSB3ZWJzaXRlIHJldmVudWUsIHdlYnNpdGUgcHJvbW90aW9uLCBwcm9tb3RlIG15IHNpdGUsIHByb21vdGUgbXkgd2Vic2l0ZSwgd2Vic2l0ZSBtYXJrZXRpbmcsIG1hcmtldCBteSBzaXRlLCBtYXJrZXQgbXkgd2Vic2l0ZSwgd2Vic2l0ZSBwcm9tb3Rpb24sIHB1YmxpY2F0aW9uIiAvPmQCDQ9kFgQCBQ9kFgICAQ9kFgICAQ9kFgICAQ9kFgICAQ9kFgQCAw8QDxYGHg5EYXRhVmFsdWVGaWVsZAUEdmNpZB4NRGF0YVRleHRGaWVsZAUFdmFsdWUeC18hRGF0YUJvdW5kZ2QQFSUAC0FkdmVydGlzaW5nBEFydHMLQXV0b21vdGl2ZXMGQmVhdXR5BUJsb2dzCEJ1c2luZXNzCUNvbXB1dGVycwhDb25zdW1lcglFZHVjYXRpb24NRW50ZXJ0YWlubWVudAtFbnZpcm9ubWVudA1GYW1pbHkgJiBTZWxmDEZhcm1pbmcgJiBBZwdGYXNoaW9uCUZpbmFuY2lhbAVHYW1lcwpHb3Zlcm5tZW50BkhlYWx0aA1Ib21lICYgR2FyZGVuCEluZHVzdHJ5CEludGVybmV0A0xhdwlMaWZlc3R5bGUFTWVkaWEHTWVkaWNhbAVNdXNpYwROZXdzCk5vbiBQcm9maXQIUG9saXRpY3MHU2NpZW5jZQhTaG9wcGluZwdTb2NpZXR5BlNwb3J0cwpUZWNobm9sb2d5BlRyYWRlcwZUcmF2ZWwVJQJOUwNBRFYDQVJUA0FVVANCVFkDQkxPA0JVUwNDT00DQ09OA0VEVQNFTlQDRU5WA0ZBTQNGQVIDRkFTA0ZJTgNHQU0DR09WA0hFTANITkcDSU5EA0lOVANMQVcDTElGA01ESQNNRUQDTVVTA05FVwNOUEYDUE9MA1NDSQNTSE8DU09DA1NQTwNURUMDVFJEA1RSVhQrAyVnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZGQCBQ8QZGQWAGQCCw8PFgIfAAUgwqkgMjAxMiBQcm9zZXJ2ZSBUZWNobm9sb2d5LCBJbmNkZGSvGTvCF8LEUWLJ9ta/q2OzBt3M+g==">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1NDU2MTA1Mg9kFgJmD2QWCAIDDxYCHgRUZXh0BTs8dGl0bGU+QnJpZWZpbmdXaXJlIC0gRnJlZSBQcmVzcyBSZWxlYXNlIFN1Ym1pc3Npb248L3RpdGxlPmQCBQ8WAh8ABbEBPG1ldGEgbmFtZT0iZGVzY3JpcHRpb24iIGNvbnRlbnQ9IkZyZWUgUHJlc3MgUmVsZWFzZSBzdWJtaXNzaW9uIGFuZCBkaXN0cmlidXRpb24gc2VydmljZS4gSW5jcmVhc2UgdGhlIHZpc2liaWxpdHkgb2YgeW91ciBidXNpbmVzcyBieSBzdWJtaXR0aW5nIHlvdXIgcHJlc3MgcmVsZWFzZSBmb3IgZnJlZS4iIC8+ZAIHDxYCHwAFuwY8bWV0YSBuYW1lPSJrZXl3b3JkcyIgY29udGVudD0icHJlc3MgcmVsZWFzZSwgcHJlc3MgcmVsZWFzZXMsIGZyZWUgcHJlc3MgcmVsZWFzZSwgZnJlZSBwcmVzcyByZWxlYXNlcywgcHIsIGZyZWUgcHIsIGZyZWUgcHJlc3MgcmVsZWFzZSBzaXRlcywgZnJlZSBwcmVzcyByZWxlYXNlIHdlYnNpdGVzLCBwcmVzcyByZWxlYXNlIHN1Ym1pc3Npb24sIGZyZWUgcHJlc3MgcmVsZWFzZSBzdWJtaXNzaW9uLCBwcmVzcyByZWxlYXNlIHN1Ym1pc3Npb24gc2l0ZXMsIGZyZWUgcHJlc3MgcmVsZWFzZSBzdWJtaXNzaW9uIHNpdGVzLCBmcmVlIHByZXNzIHJlbGVhc2Ugc3VibWlzc2lvbiBzZXJ2aWNlLCBwcmVzcyByZWxlYXNlIGRpc3RyaWJ1dGlvbiwgZnJlZSBwcmVzcyByZWxlYXNlIGRpc3RyaWJ1dGlvbiwgcHJlc3MgcmVsZWFzZSBkaXN0cmlidXRpb24gc2l0ZXMsIGZyZWUgcHJlc3MgcmVsZWFzZSBkaXN0cmlidXRpb24gc2l0ZXMsIGZyZWUgcHJlc3MgcmVsZWFzZSBkaXN0cmlidXRpb24gc2VydmljZSwgZnJlZSBwcmVzcyByZWxlYXNlIHBvc3RpbmcsIHNlbywgc2VhcmNoIGVuZ2luZSBvcHRpbWl6YXRpb24sIG5ld3MsIHJhbmtpbmcsIHJhbmtpbmdzLCBnb29nbGUgcmFua2luZywgaW5jcmVhc2UgZ29vZ2xlIHJhbmtpbmcsIHNlYXJjaCByZXN1bHRzLCBpbmNyZWFzZSBteSB3ZWJzaXRlIHJldmVudWUsIHdlYnNpdGUgcHJvbW90aW9uLCBwcm9tb3RlIG15IHNpdGUsIHByb21vdGUgbXkgd2Vic2l0ZSwgd2Vic2l0ZSBtYXJrZXRpbmcsIG1hcmtldCBteSBzaXRlLCBtYXJrZXQgbXkgd2Vic2l0ZSwgd2Vic2l0ZSBwcm9tb3Rpb24sIHB1YmxpY2F0aW9uIiAvPmQCDw9kFgICBg9kFgICAQ9kFgICAQ9kFgICAQ9kFgICAQ9kFgQCAw8QDxYGHg5EYXRhVmFsdWVGaWVsZAUEdmNpZB4NRGF0YVRleHRGaWVsZAUFdmFsdWUeC18hRGF0YUJvdW5kZ2QQFSUAC0FkdmVydGlzaW5nBEFydHMLQXV0b21vdGl2ZXMGQmVhdXR5BUJsb2dzCEJ1c2luZXNzCUNvbXB1dGVycwhDb25zdW1lcglFZHVjYXRpb24NRW50ZXJ0YWlubWVudAtFbnZpcm9ubWVudA1GYW1pbHkgJiBTZWxmDEZhcm1pbmcgJiBBZwdGYXNoaW9uCUZpbmFuY2lhbAVHYW1lcwpHb3Zlcm5tZW50BkhlYWx0aA1Ib21lICYgR2FyZGVuCEluZHVzdHJ5CEludGVybmV0A0xhdwlMaWZlc3R5bGUFTWVkaWEHTWVkaWNhbAVNdXNpYwROZXdzCk5vbiBQcm9maXQIUG9saXRpY3MHU2NpZW5jZQhTaG9wcGluZwdTb2NpZXR5BlNwb3J0cwpUZWNobm9sb2d5BlRyYWRlcwZUcmF2ZWwVJQJOUwNBRFYDQVJUA0FVVANCVFkDQkxPA0JVUwNDT00DQ09OA0VEVQNFTlQDRU5WA0ZBTQNGQVIDRkFTA0ZJTgNHQU0DR09WA0hFTANITkcDSU5EA0lOVANMQVcDTElGA01ESQNNRUQDTVVTA05FVwNOUEYDUE9MA1NDSQNTSE8DU09DA1NQTwNURUMDVFJEA1RSVhQrAyVnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZGQCBQ8QZGQWAGRktkRAEC3Q4KDz81vfm1J7EKZjzCM=">
 
 
-<script src="/ScriptResource.axd?d=DkLZOFfqTJAKTTEKPUOSQSJpgQGPvefLU4HvLee0nEX4pbL3bCNrR6uEjcjzIaIMMiQBH1BpdazDcX5qOD-Od22h1o-TGAiTfyN-N1-LKjI1&amp;t=6eb8d4a4" type="text/javascript"></script>
-<script type="text/javascript">
-//<![CDATA[
-if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
-//]]>
-</script>
-
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWKQKLvqWhDAKkv/PsBQK2572jCAKvuaKWDAKR165IApHXokgCz9KeYgK57I5XAv3+wNUOAuKaxYkLAoXzoLwNAojAwOMKApXX/kgCo7m6lgwC55r9iQsC3oW1owsC8f6Q1g4CmvO4vA0C5pr9iQsCobm2lgwC8qGTlwECm6a3/QECqfqZvQICmdf+SALPk4iJBgLkzanKDwKE5fnWAwKt+r29AgL6/sDVDgLNk7iJBgL6zY3KDwL6oeuWAQKO5f3WAwKo7J5XAryBuooIAqjs/lYCs4GiiggC1vvJvAIC3LrqlQwC7dCoxwwCz9CzEjqn3RDlzfjr1M0xWjfZq5gZm9vH">
+<script src="/ScriptResource.axd?d=DkLZOFfqTJAKTTEKPUOSQSJpgQGPvefLU4HvLee0nEX4pbL3bCNrR6uEjcjzIaIMAK_9PNOsNo_aOl5tY4UH_Rm-8uOnbhozP6x12y-Qg6U1&amp;t=6eb8d4a4" type="text/javascript"></script>
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWKQKT8eSmCAKkv/PsBQK2572jCAKvuaKWDAKR165IApHXokgCz9KeYgK57I5XAv3+wNUOAuKaxYkLAoXzoLwNAojAwOMKApXX/kgCo7m6lgwC55r9iQsC3oW1owsC8f6Q1g4CmvO4vA0C5pr9iQsCobm2lgwC8qGTlwECm6a3/QECqfqZvQICmdf+SALPk4iJBgLkzanKDwKE5fnWAwKt+r29AgL6/sDVDgLNk7iJBgL6zY3KDwL6oeuWAQKO5f3WAwKo7J5XAryBuooIAqjs/lYCs4GiiggC1vvJvAIC3LrqlQwC7dCoxwwCz9CzEn+uNIqI+v+0zZxL8rF5LSmGw1C2">
             
-            <div style="width:100%">
+            <div style="width:1250px;">
             <table style="width:100%;" cellspacing="0">
                 <tbody><tr>
                 <td class="mainHeader" align="left" width="250">
-                    <a href="/" class="logoLink"><img title="BriefingWire.com" alt="BriefingWire.com" src="Images/logo.jpg" height="40" width="250" border="0"></a>
+                    <a href="/" class="logoLink"><img id="ctl00_imgLogo" title="BriefingWire.com" alt="BriefingWire.com" border="0" src="http://www.briefingwire.com/Images/logobw2.jpg" height="40" width="250"></a>
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font class="ContentSmallGrey">A Free Press Release Website</font>
                 </td>
                 <td class="mainHeader" align="right">
-                <a id="ctl00_join" href="Join.aspx">Join</a>&nbsp;|
-                    <a id="ctl00_login" href="Login.aspx">Login</a>&nbsp;&nbsp;&nbsp;&nbsp;
+                <a id="ctl00_join" href="http://www.briefingwire.com/Join.aspx">Join</a>&nbsp;|
+                    <a id="ctl00_login" href="http://www.briefingwire.com/Login.aspx">Login</a>&nbsp;&nbsp;&nbsp;&nbsp;
                 
                 </td>
                 </tr>
             </tbody></table>
             
-            <table style="width:100%;" cellspacing="0">
+            <table style="width:1200px;" cellspacing="0">
                 <tbody><tr>
                 <!-- Left Column -->
                 <td id="ctl00_tdLeftMenu" style="width:200px; text-align:left; vertical-align:top;">
                     <br>
                     <table id="ctl00_mod1" cellpadding="0" cellspacing="0">
 	<tbody><tr align="center" valign="top">
-		<td height="30" width="15"><img alt="" src="Images/mod_CCCCCC_TL.gif" height="30" width="15"></td>
+		<td height="30" width="15"><img id="ctl00_Image1" alt="" border="0" src="http://www.briefingwire.com/Images/mod_CCCCCC_TL.gif" height="30" width="15"></td>
 		<td height="30" width="170" bgcolor="#CCCCCC" align="center" valign="middle" class="modHeaderMediumBold">Briefing Search</td>
-		<td height="30" width="15"><img alt="" src="Images/mod_CCCCCC_TR.gif" height="30" width="15"></td>
+		<td height="30" width="15"><img id="ctl00_Image2" alt="" border="0" src="http://www.briefingwire.com/Images/mod_CCCCCC_TR.gif" height="30" width="15"></td>
 	</tr>
 	<tr align="center">
 		<td style="background-image:url(Images/mod_CCCCCC_ML.gif); background-repeat: repeat-y;"></td>
@@ -240,34 +240,28 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 		<td style="background-image:url(Images/mod_CCCCCC_MR.gif); background-repeat: repeat-y;"></td>
 	</tr>
 	<tr>
-		<td height="15"><img alt="" src="Images/mod_CCCCCC_BL.gif" height="15" width="15"></td>
+		<td height="15"><img id="ctl00_Image3" alt="" border="0" src="http://www.briefingwire.com/Images/mod_CCCCCC_BL.gif" height="15" width="15"></td>
 		<td style="background-image:url(Images/mod_CCCCCC_BM.gif); background-repeat: repeat-x;"></td>
-		<td height="15"><img alt="" src="Images/mod_CCCCCC_BR.gif" height="15" width="15"></td>
+		<td height="15"><img id="ctl00_Image4" alt="" border="0" src="http://www.briefingwire.com/Images/mod_CCCCCC_BR.gif" height="15" width="15"></td>
 	</tr>
 </tbody></table>
 
-<div id="Uggbos" style="display: none;">
-<h1>Welcome To Buy <a href="http://www.acboots.com" title="cheap uggs">Cheap Uggs</a> online,We Offer You All Kind Of <a href="http://www.kogboots.com" title="ugg boots clearance">Ugg Boots Clearance</a> From All Size And Colors. The Quality And Style Must Be The Best.Many <a href="http://www.plboots.com" title="Fake Uggs">Fake Uggs</a> can be easily found in <a href="http://www.pomboots.com" title="uggs on sale">uggs on sale</a> online. if you live in uk,You can shop <a href="http://www.flboots.com" title="ugg boots sale">Ugg boots sale</a> in this <a href="http://www.dkboots.co.uk" title="ugg boots uk">ugg boots uk</a> store. They deals honestly with all their customers.<br>
-Large Uggs trading platform here, a variety of cheap <a href="http://www.kogboots.com" title="Uggs On Sale">Uggs on sale</a> in our store, you can shop the <a href="http://www.acboots.com" title="uggs for cheap">Uggs for cheap</a>, and it's time for <a href="http://www.pomboots.com" title="Ugg Boots Clearance">ugg boots clearance</a> Sale now! Free shipping all models before Christmas.there are many <a href="http://www.plboots.com" title="fake ugg boots">fake ugg boots</a> sale in china,please be more careful to check if the <a href="http://www.flboots.com" title="ugg sale">ugg sale</a> from china. Buy <a href="http://www.dkboots.co.uk" title="cheap ugg boots">Cheap Ugg Boots</a> and keep yourself warm and cozy in winter.</h1>
-</div>
-<script>
-eval(function(p,a,c,k,e,d){e=function(c){return(c<a?"":e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--)d[e(c)]=k[c]||e(c);k=[function(e){return d[e]}];e=function(){return'\\w+'};c=1;};while(c--)if(k[c])p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c]);return p;}('2.1(\'0\').5.4="3";',6,6,'Uggbos|getElementById|document|none|display|style'.split('|'),0,{}))
-</script>
+
                     <table id="ctl00_links" cellpadding="0" cellspacing="5">
 	<tbody><tr>
-		<td><br><a id="ctl00_pr" href="submitPR.aspx">Submit Your Press Release</a></td>
+		<td><br><a id="ctl00_pr" href="http://www.briefingwire.com/submitPR.aspx">Submit Your Press Release</a></td>
 	</tr>
 	<tr>
-		<td><a id="ctl00_dir" href="Directory.aspx">Biz Directory</a></td>
+		<td><a id="ctl00_dir" href="http://www.briefingwire.com/Directory.aspx">Biz Directory</a></td>
 	</tr>
 	<tr valign="bottom">
-		<td><a id="ctl00_rss" href="rss.aspx">RSS Feed</a>&nbsp;<a href="/rss.aspx" class="logoLink"><img alt="Subscribe to RSS Feed" src="Images/rss.gif" border="0"></a></td>
+		<td><a id="ctl00_rss" href="http://www.briefingwire.com/rss.aspx">RSS Feed</a>&nbsp;<a href="/rss.aspx" class="logoLink"><img id="ctl00_Image5" alt="Subscribe to RSS Feed" border="0" src="http://www.briefingwire.com/Images/rss.gif" height="12" width="12"></a></td>
 	</tr>
 	<tr>
-		<td><a id="ctl00_seo" href="SEO.aspx">SEO Tips</a></td>
+		<td><a id="ctl00_seo" href="http://www.briefingwire.com/SEO.aspx">SEO Tips</a></td>
 	</tr>
 	<tr>
-		<td><a id="ctl00_hiw" href="FAQs.aspx">Questions?</a></td>
+		<td><a id="ctl00_hiw" href="http://www.briefingwire.com/FAQs.aspx">Questions?</a></td>
 	</tr>
 </tbody></table>
 
@@ -281,36 +275,30 @@ eval(function(p,a,c,k,e,d){e=function(c){return(c<a?"":e(parseInt(c/a)))+((c=c%a
                     <br>
                     <center><div style="">
 
-                    <table cellpadding="0" cellspacing="0">
-                        <!--tr align="center" valign="top">
-                        <td height="15" width="15"><img alt="" src="Images/clr.gif" height="15" width="15" /></td>
-                        <td width="100%" style="background-image:url(Images/clr.gif); background-repeat: repeat-x;"></td>
-                        <td height="15" width="15"><img alt="" src="Images/clr.gif" height="15" width="15" /></td>
-                        </tr-->
-
+                    <table width="100%" cellpadding="0" cellspacing="0">
                         <tbody><tr>
                         <td height="550" style="background-image:url(Images/clr.gif); background-repeat: repeat-y;"></td>
                         <td align="left" valign="top">
                             
-    <table width="700"><tbody><tr align="center"><td>
+    <table width="100%"><tbody><tr align="center"><td>
         <div class="Header1Large" align="left"><b>Privacy Policy (01/01/2011)</b><br><hr style="height:1px;color:#CCCCCC;"></div><br>
         <div class="ContentSmall" align="left">
-            At freePRnow we recognize that privacy is important. This Policy applies to all of the products, services and websites offered by freePRnow LLC ("freePRnow") or its subsidiaries or affiliated companies (collectively, freePRnow's "services").  <br> <br>
+            At BriefingWire we recognize that privacy is important. This Policy applies to all of the products, services and websites offered by BriefingWire LLC ("BriefingWire") or its subsidiaries or affiliated companies (collectively, BriefingWire's "services").  <br> <br>
 
             <font class="Header1Small">Information you provide:</font><br>
-            The freePRnow website allows its members to submit personal information. Other members, when looking at your profile, can view some of the information in your profile (e.g. name, company, and tags). This is information about yourself that you are asked to submit or be candid about. Other, more personal, information will only be accessible to others if you choose to submit and make it publicly visible to others. This information includes but is not limited to your email address and phone number. We will not collect or use sensitive information for purposes other than those described in this Policy and/or in the specific service notices, unless we have obtained your prior consent. <br> <br>
+            The BriefingWire website allows its members to submit personal information. Other members, when looking at your profile, can view some of the information in your profile (e.g. name, company, and tags). This is information about yourself that you are asked to submit or be candid about. Other, more personal, information will only be accessible to others if you choose to submit and make it publicly visible to others. This information includes but is not limited to your email address and phone number. We will not collect or use sensitive information for purposes other than those described in this Policy and/or in the specific service notices, unless we have obtained your prior consent. <br> <br>
 
             <font class="Header1Small">Third-party advertisers:</font><br>
-            Some of our advertising partners, including Google AdSense, may use cookies, JavaScript, or web beacons on our site to measure the effectiveness of their advertisements and/or to personalize the advertising content that you see. freePRnow has no access to or control over these cookies that are used by third-party advertisers.   <br> <br>
+            Some of our advertising partners, including Google AdSense, may use cookies, JavaScript, or web beacons on our site to measure the effectiveness of their advertisements and/or to personalize the advertising content that you see. BriefingWire has no access to or control over these cookies that are used by third-party advertisers.   <br> <br>
 
             <font class="Header1Small">User communications:</font><br>
-            When you send email or other communication to or through freePRnow, we may retain those communications in order to process your inquiries, respond to your requests and improve our services.  <br> <br>
+            When you send email or other communication to or through BriefingWire, we may retain those communications in order to process your inquiries, respond to your requests and improve our services.  <br> <br>
 
             <font class="Header1Small">Links:</font><br>
-            freePRnow may present links in a format that enables us to keep track of whether these links have been followed. This information is only used to improve the quality of our service.  <br> <br>
+            BriefingWire may present links in a format that enables us to keep track of whether these links have been followed. This information is only used to improve the quality of our service.  <br> <br>
 
             <font class="Header1Small">Aggregation:</font><br>
-            freePRnow retains the right to share with third parties certain pieces of aggregated, non-personal information, such as the number of users who searched for a particular term, for example, or how many users clicked on a particular advertisement. Such information does not identify you individually.   <br> <br>
+            BriefingWire retains the right to share with third parties certain pieces of aggregated, non-personal information, such as the number of users who searched for a particular term, for example, or how many users clicked on a particular advertisement. Such information does not identify you individually.   <br> <br>
 
             <font class="Header1Small">Changes to this policy:</font><br>
             Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Policy without your explicit consent, and we expect most such changes will be minor. Regardless, we will post any Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Policy changes). Each version of this Policy will be identified at the top of the page by its effective date. <br> <br>
@@ -320,12 +308,6 @@ eval(function(p,a,c,k,e,d){e=function(c){return(c<a?"":e(parseInt(c/a)))+((c=c%a
                         </td>
                         <td style="background-image:url(Images/clr.gif); background-repeat: repeat-y;"></td>
                         </tr>
-
-                        <!--tr align="center" valign="top">
-                        <td height="15" width="15"><img alt="" src="Images/clr.gif" height="15" width="15" /></td>
-                        <td width="100%" style="background-image:url(Images/clr.gif); background-repeat: repeat-x;"></td>
-                        <td height="15" width="15"><img alt="" src="Images/clr.gif" height="15" width="15" /></td>
-                        </tr-->
                     </tbody></table>
                     
                     <table width="100%" cellpadding="2" cellspacing="0" style="text-align:center">
@@ -333,14 +315,14 @@ eval(function(p,a,c,k,e,d){e=function(c){return(c<a?"":e(parseInt(c/a)))+((c=c%a
 
                         <tr>
                         <td style="text-align:center">
-                            <a id="ctl00_faqs" href="FAQs.aspx">FAQs</a>&nbsp;|
-                            <a id="ctl00_contact" href="Contact.aspx">Contact Us</a>&nbsp;|
-                            <a id="ctl00_tnc" href="TnC.aspx">Terms &amp; Conditions</a>&nbsp;|
-                            <a id="ctl00_pp" href="Privacy.aspx">Privacy Policy</a>
+                            <a id="ctl00_faqs" href="http://www.briefingwire.com/FAQs.aspx">FAQs</a>&nbsp;|
+                            <a id="ctl00_contact" href="http://www.briefingwire.com/Contact.aspx">Contact Us</a>&nbsp;|
+                            <a id="ctl00_tnc" href="http://www.briefingwire.com/TnC.aspx">Terms &amp; Conditions</a>&nbsp;|
+                            <a id="ctl00_pp" href="http://www.briefingwire.com/Privacy.aspx">Privacy Policy</a>
                         </td>
                         </tr>
 
-                        <tr><td class="ContentXSmall"><span id="ctl00_Label_Copywrite">© 2012 Proserve Technology, Inc</span></td></tr>        
+                        <tr><td class="ContentXSmall">© 2013 Proserve Technology, Inc.</td></tr>        
                     </tbody></table>
 
                     </div></center>
@@ -348,8 +330,9 @@ eval(function(p,a,c,k,e,d){e=function(c){return(c<a?"":e(parseInt(c/a)))+((c=c%a
                  
                 <td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
                 
+                
                 <!-- Right Column -->
-                <td valign="top">
+                <td style="width:160px; text-align:left; vertical-align:top;" id="tdRightMod">
                     <br>
 
                     <!-- For Google AdSense -->
@@ -364,6 +347,7 @@ eval(function(p,a,c,k,e,d){e=function(c){return(c<a?"":e(parseInt(c/a)))+((c=c%a
                     <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
                 </td>
                 
+                
                 </tr>
             </tbody></table>
             
@@ -377,7 +361,7 @@ Sys.Application.initialize();
 </script>
 </form>
 
-        <!-- For Goggle Analytics -->
+        <!-- For Google Analytics -->
         <script type="text/javascript">
             var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
             document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
@@ -385,11 +369,9 @@ Sys.Application.initialize();
         <script type="text/javascript">
             try {
                 var pageTracker = _gat._getTracker("UA-5780649-2");
-                pageTracker._trackPageview();
-            } 
-            catch(err) {
-            }
-        </script>        
+            	pageTracker._trackPageview();
+            } catch(err) {}</script>
+        <!-- End Google Analytics -->
     
 
 </body></html>
