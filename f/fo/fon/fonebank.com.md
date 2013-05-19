@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the fonebank.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230054414id_/http%3A//www.fonebank.com/privacy.aspx%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fonebank.com privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519045504id_/http%3A//www.fonebank.com/privacy.aspx%23privacy) for the most accurate reproduction.*
 
-# Sell my mobile phone recycling | Earn Cash upto £430 – Recycle online
+# Privacy Policy | Fonebank.com
+
+|    
+
 
 Privacy Policy
 
@@ -93,7 +96,7 @@ In addition, Fonebank may serve ads on this and other websites using our own ad-
 
 **Signup/Login cookies – First party Cookie**
 
-Cookie name| Description  
+| Cookie name| Description  
 ---|---  
 ASP.NET_SessionID| For security reasons when logging in a session cookie is needed. It is a unique id to this session and encrypts this in a cookie. This cookie is set when logging in and will be deleted when logging out.  
 USERID| A session cookie to keep you logged in to the old and the new system at the same time  
@@ -154,3 +157,5 @@ In addition, note that you are always able to prevent cookies from any website f
 **CONTACT**
 
 All comments, queries and requests relating to our use of your information are welcomed and should be addressed to info@fonebank.com. 
+
+  | 
