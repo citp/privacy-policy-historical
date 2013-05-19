@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myfoxchicago.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123090809id_/http%3A//www.myfoxchicago.com/story/19534280/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfoxchicago.com privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519145350id_/http%3A//www.myfoxchicago.com/story/19534280/privacy-policy) for the most accurate reproduction.*
 
 # Fox Television Stations Privacy Policy - Chicago News and Weather | FOX 32 News
 
