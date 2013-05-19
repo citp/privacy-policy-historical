@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 701panduan.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118074101id_/http%3A//www.701pages.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 701panduan.com privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519182713id_/http%3A//www.701pages.com/privacy) for the most accurate reproduction.*
 
 # Restaurants, Travel, Education, Businesses, Home & Living | 701Pages
 
@@ -56,4 +56,8 @@ All information gathered by 701Panduan is stored in systems that may only be acc
 
 _**Can you opt out of promotional emails?**_
 
-Whenever we send you any information, we will include instructions on how to unsubscribe and a link to do so. If you do not wish to receive further information of a similar nature, you may unsubscribe via [email](mailto:info@701pages.com?subject=Unsubscribe%20from%20701Pages.com) us
+All emails from 701Panduan will contain an unsubscribe link at the bottom of the email. To unsubscribe from any of our lists, simply click that link and you will be automatically removed from our mailing list.
+
+_**How can I contact 701Panduan?**_
+
+We can be reached at 701Panduan Sdn Bhd, Block 3B-15-3 Plaza Sentral, Jalan Stesen 5, 50470 Kuala Lumpur, Malaysia. Tel: +603-27805701. Fax +603-27805701
