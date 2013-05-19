@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ypg.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230184316id_/http%3A//www.ypg.com/en/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ypg.com privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519132201id_/http%3A//www.ypg.com/en/privacy-statement) for the most accurate reproduction.*
 
-# Yellow Media Limited | Privacy Statement
+# Yellow Media Inc. | Privacy Statement
 
 Yellow Pages Group Co. together with its subsidiaries “we”, “us”, “YPG“) has created this privacy statement (the “Statement”) is firmly committed to the protection of your privacy. This Statement sets out how we collect, use and secure the personal information of individuals using any website owned by us (each, a “ **YPG Website** ”). This Statement reflects the requirements of Canada's Federal and Provincial privacy legislation as well as our continuous commitment to protecting your personal information.  This Privacy Statement is a simplified version of our Privacy Policy which is accessible by [clicking here](https://web.archive.org/images/ckeditor/files/Privacy%20Policy%202009%20.pdf).
 
