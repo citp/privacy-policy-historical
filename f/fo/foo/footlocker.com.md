@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the footlocker.com privacy policy that was archived on 2012-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120917133240id_/http%3A//www.footlocker.com/customerserv/help%3AprivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footlocker.com privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519033551id_/http%3A//www.footlocker.com/customerserv/help%3AprivacyPolicy) for the most accurate reproduction.*
 
 # Customer Service - OtherServices - Privacy Policy | Foot Locker
 
