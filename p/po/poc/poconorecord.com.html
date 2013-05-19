@@ -1,20 +1,20 @@
-<!--The following is the downloaded HTML source of the poconorecord.com privacy policy that was archived on 2012-05-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120519042605id_/http%3A//www.poconorecord.com/apps/pbcs.dll/misc%3Furl%3D/static/privacyPolicy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the poconorecord.com privacy policy that was archived on 2013-05-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130519184804id_/http%3A//www.poconorecord.com/apps/pbcs.dll/misc%3Furl%3D/static/privacyPolicy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 		<title></title>
 				<meta name="Description" content="The Pocono Record serves Monroe County and parts of Pike and Carbon County in Pennsylvania. Our Web site is updated daily with news, sports, lifestyle and calendar information about the Poconos. You'll also find shopping, jobs, autos, classifieds, relocation information, answers to common questions and basic information about living in the Poconos.">
 		<meta name="keywords" content="Poconos, Monroe County, Pike County, Carbon County, Stroudsburg, Pennsylvania, Tannersville, homes, vacation properties, for rent, for sale, townhomes, commercial property, classifieds, new construction, builders, help wanted, jobs, relocation, the Poconos, Delaware Water Gap, tourism, New York, New Jersey, commuters">
 
-		<link rel="stylesheet" type="text/css" href="http://static.djlmgdigital.com/spr/poconorecord/styles/global.css?2">
+		<link rel="stylesheet" type="text/css" href="http://static.djlmgdigital.com/spr/poconorecord/styles/global.css?2012">
 		<script language="JavaScript" src="http://static.djlmgdigital.com/spr/poconorecord/scripts/main.js" type="text/javascript"></script>
-    <script language="JavaScript" src="http://static.djlmgdigital.com/spr/global/scripts/oas.js" type="text/javascript"></script>
-    <script language="JavaScript" type="text/javascript">
-	      var mainCat = "";
-	      var currCat = "";
+    		<script language="JavaScript" src="http://static.djlmgdigital.com/spr/global/scripts/oas.js" type="text/javascript"></script>
+    		<script language="JavaScript" type="text/javascript">
+	      		var mainCat = "";
+	      		var currCat = "";
 				var currReq = window.location;
 				var menuID = "";
-    </script>
+    		</script>
 		<script type="text/javascript" src="http://static.djlmgdigital.com/spr/poconorecord/udm-resources/udm-custom.js"></script>
 		<script type="text/javascript" src="http://static.djlmgdigital.com/spr/poconorecord/udm-resources/udm-control.js"></script>
 		<link href="http://static.djlmgdigital.com/spr/poconorecord/udm-resources/udm-style.css" rel="stylesheet" type="text/css" media="all">
@@ -25,7 +25,12 @@
 		<script type="text/javascript" src="http://static.djlmgdigital.com/corp/global/scripts/jquery.min.js"></script>
 		<script type="text/javascript" src="http://static.djlmgdigital.com/corp/global/scripts/jcarousellite.min.js"></script>
 		<meta name="category-facet" content="">
-		<script language="JavaScript" src="http://static.djlmgdigital.com/corp/global/scripts/browser.js" type="text/javascript"></script>
+		<script language="JavaScript" src="http://static.djlmgdigital.com/corp/global/scripts/browser.js" type="text/javascript"></script> 		
+<script>
+	$(document).ready(function() {
+		$('.breaking a.premium, .barkerTxt h2.premium, .c2 ul li.premium a:first-child, .nlRotate ul li.premium a:first-child, .featuredMedia .premium, .mediaItem .premium, .vidList .premium, .photoGall .premium').prepend('<img src="http://static.djlmgdigital.com/corp/global/graphics/icons/21x10key.png" border="0" alt="Premium Content" class="premiumIcon">&nbsp;');
+	});	
+</script>
 		<meta name="ROBOTS" content="NOFOLLOW,NOINDEX">
 		<script language="JavaScript" src="http://static.djlmgdigital.com/corp/global/scripts/querystring.js" type="text/javascript"></script>
   		<script language="JavaScript" src="http://static.djlmgdigital.com/corp/global/scripts/genValidator.js" type="text/javascript"></script>
@@ -37,7 +42,7 @@
 		</style>
 		<script language="JavaScript" type="text/javascript">
 			<!--
-				OAS_SET_PARMS("www.spr.com/interact/all", "x59,Middle", "")
+				OAS_SET_PARMS("www.spr.com/interact/all", "Top,Middle", "")
 			//-->
 		</script>
 		<script type="text/javascript" language="JavaScript1.1">
@@ -92,9 +97,16 @@
 		
 	}
 	var welcomeMsgViewed = "";
+	var userSingleSale = "";
+	var userStoriesViewed = "";
+	var returnurl = "%2Fapps%2Fpbcs.dll%2Fmisc%3Furl%3D%2Fstatic%2FprivacyPolicy.htm";
 </script>
 
 
+
+
+
+	
 	
 	<noscript>
 		<meta http-equiv="refresh" content="1; URL=/apps/pbcs.dll/misc?url=/static/noscript.htm" />
@@ -126,14 +138,6 @@
 	    var ymnow = new Date;
 	    var rv = ymnow.getFullYear() * 100 + ymnow.getMonth() + 1;
 	    return rv;
-		}
-		
-		function toggleMiniLogin() {
-			var mlfrm=document.getElementById('miniLogin');
-			mlfrm.style.display=(mlfrm.style.display=='block')?'none':'block';
-			if (mlfrm.style.display=='block') {
-				document.getElementById('user').focus();
-			}
 		}
 		
 		YAHOO.util.Event.onDOMReady(function() { 
@@ -187,99 +191,134 @@
 				});
 			}
 		});
-				
+		function toggleMiniLogin() {
+			var mobileFull = YAHOO.util.Cookie.get("sitePref");
+
+			if (mobileFull == "full")
+			{
+				window.location.href = "/apps/pbcs.dll/misc?url=/misc/mobile/login.pbs&returnurl=%2Fapps%2Fpbcs.dll%2Fmisc%3Furl%3D%2Fstatic%2FprivacyPolicy.htm&cid=lb_login"
+			}
+			else
+			{
+				//not a mobile user viewing full site
+				var mlfrm=document.getElementById('miniLogin');
+				mlfrm.style.display=(mlfrm.style.display=='block')?'none':'block';
+				if (mlfrm.style.display=='block') {
+					document.getElementById('user').focus();
+				}
+			}
+		}				
 	</script>
 
 
 <div id="loginBar" class="loggedOut">
 <div class="noindex">
 
-	<div id="loginBarLeft"><a href="/subscribe" title="Subscribe">Welcome to Poconorecord.com  Get Started</a></div>
-	<div id="loginBarCenter" style="line-height: 14px;">
-		<a href="/subscribe" title="Subscribe">Subscribe Today. See our Special Offers.</a><br>
-		<a href="/activate" title="Activate Your Account">Current Print Subscribers, activate your online access.</a>
-	</div>
-	<div id="loginBarRight"><a href="/apps/pbcs.dll/misc?url=/misc/login.pbs&amp;returnurl=%2Fapps%2Fpbcs.dll%2Fmisc%3Furl%3D%2Fstatic%2FprivacyPolicy.htm&amp;returndest=" title="Log In" onclick="this.blur();toggleMiniLogin();return false;">Log In</a> | <a href="/register" title="Register">Register</a> | <a href="/subscribe" title="Subscribe">Subscribe</a></div>
-	<div id="miniLogin" style="display:none;">
-		<a href="#" onclick="toggleMiniLogin();return false;" title="close login panel">x</a>
-		<form action="/apps/pbcs.dll/misc?url=/misc/login.pbs&amp;returnurl=%2Fapps%2Fpbcs.dll%2Fmisc%3Furl%3D%2Fstatic%2FprivacyPolicy.htm" method="post" name="login_form" id="login_form">
-			<label for="username">Username *</label>
-			<input type="text" name="user" value="" id="user" maxlength="64" class="text">
-			<span style="font-size:.9em;color:#666; font-weight:normal;margin-bottom:5px;">(usually your email address)</span>
-			<label for="pass">Password *</label>
-			<input type="password" name="pw" value="" id="pw" maxlength="64" class="text" onkeydown="return submitOnEnter(event);">
-			<div class="ctl submit">
-				<input type="image" class="subButton" name="loginSubButton" id="loginSubButton" src="http://static.djlmgdigital.com/spr/poconorecord/graphics/paywall/btn_login.gif" value="">
-			</div>
-		</form>
-		<div class="miniLoginFooter">
-			<a href="/apps/pbcs.dll/misc?url=/misc/forgotPassword.pbs" title="Forgot Password">Forgot Password</a> | <a href="/subscribe" title="Sign Up">Need an Account?</a>
-		</div>
-	</div>
-
-
 	<div id="networkNav">
 		<div id="networkNavLeft">
-			<div class="brand1"><a href="http://www.poconorecord.com">&nbsp;</a></div>
-			<div class="brand2"><a href="http://www.thepoconos.com">&nbsp;</a></div>
-			<div class="brand3"><a href="http://www.thepoconos.com/jobs">&nbsp;</a></div>
-			<div class="brand4"><a href="http://www.thepoconos.com/homes">&nbsp;</a></div>
-			<div class="brand5"><a href="http://www.thepoconos.com/cars">&nbsp;</a></div>
+			<div class="brand1"><a href="http://www.poconorecord.com/apps/pbcs.dll/frontpage?cid=bb1_home">&nbsp;</a></div>
+			<div class="brand2"><a href="http://www.thepoconos.com?cid=bb2_localsearch">&nbsp;</a></div>
+			<div class="brand3"><a href="http://www.thepoconos.com/jobs?cid=bb3_jobs">&nbsp;</a></div>
+			<div class="brand4"><a href="http://www.poconorecord.com/apps/pbcs.dll/section?category=HOMES&amp;cid=bb4_homes">&nbsp;</a></div>
+			<div class="brand5"><a href="http://autos.thepoconos.com/apps/pbcs.dll/section?Category=CARS10&amp;cid=bb5_cars">&nbsp;</a></div>
 			<div class="brandMore" onmouseout="document.getElementById('brandMoreDrop').style.display='none';" onmouseover="document.getElementById('brandMoreDrop').style.display='block';">
-				<a href="http://www.poconorecord.com/apps/pbcs.dll/misc?url=/static/siteMap.htm">&nbsp;</a>
+				<a href="http://www.poconorecord.com/apps/pbcs.dll/misc?url=/static/siteMap.htm&amp;cid=bb6_more">&nbsp;</a>
 				<ul class="brandMoreDrop" id="brandMoreDrop" style="display:none;">
-					<li><a href="http://www.thepoconos.com/classifieds" title="Classifieds">Classifieds</a></li>
-					<li><a href="http://www.poconorecord.com/apps/pbcs.dll/section?category=NEWS13" title="Eastern Poconos Community News">Eastern Poconos Community News</a></li>
-					<li><a href="http://www.poconorecord.com/apps/pbcs.dll/section?category=news14" title="Sage ">Sage </a></li>
-					<li><a href="http://blogs.thepoconos.com/" title="thepoconos.com/blogs">thepoconos.com/blogs</a></li>
-					<li><a href="http://www.poconorecord.com/apps/pbcs.dll/section?category=VISGUIDE" title="Visitors Guide">Visitors Guide</a></li>
+					<li><a href="http://www.poconorecord.com/apps/pbcs.dll/section?category=MARKET&amp;cid=bb7_market" title="Classifieds">Classifieds</a></li>
+					<li><a href="http://www.poconorecord.com/apps/pbcs.dll/section?category=NEWS13&amp;cid=bb8_eastern" title="Eastern Poconos Community News">Eastern Poconos Community News</a></li>
+					<li><a href="http://www.poconorecord.com/apps/pbcs.dll/section?category=NEWS14&amp;cid=bb9_sage" title="Sage ">Sage </a></li>
+					<li><a href="http://blogs.thepoconos.com?cid=bb10_blogs" title="thepoconos.com/blogs">thepoconos.com/blogs</a></li>
+					<li><a href="http://www.poconorecord.com/apps/pbcs.dll/section?category=VISGUIDE&amp;cid=bb11_visitors" title="Visitors Guide">Visitors Guide</a></li>
 				</ul>
 			</div>
 		</div>
 		<div id="networkNavRight">
 			<form id="form_poconorecord" method="post" onsubmit="return submitSearch(search_news.value);">
 				  	<input class="input_text" type="text" name="search_news" id="search_news" value="Search poconorecord.com" onfocus="if(this.value=='Search poconorecord.com'){this.value='';}" onblur="if(this.value==''){this.value='Search poconorecord.com';}">
-				  	<input class="input_search" name="submit" type="image" value="Search" id="search_news_submit" src="http://static.djlmgdigital.com/spr/poconorecord/graphics/searchSubmit.gif">
+				  	<input class="input_search" name="submit" type="image" value="Search" id="search_news_submit" src="http://static.djlmgdigital.com/spr/poconorecord/graphics/2012-searchSubmit.gif">
 			</form>
 		</div>
 	</div>
 </div>
+</div>	
+<div id="loginBarBtm" class="loggedOut">
+<div class="noindex">
+	<div id="subscriberBar">
+
+		<div id="loginBarLeft">
+			
+				<a href="/apps/pbcs.dll/misc?url=/misc/login.pbs&amp;returnurl=%2Fapps%2Fpbcs.dll%2Fmisc%3Furl%3D%2Fstatic%2FprivacyPolicy.htm&amp;cid=lb_login" title="Log In" onclick="this.blur();toggleMiniLogin();return false;" class="loginBtn"></a>
+				<div class="btmLinks">
+					<span class="key">0 of 3 Premium Clicks used this month</span>
+				</div>
+			
+		</div>
+	
+		<div id="loginBarRight">
+			
+			
+				<div class="subscribe"><a href="/apps/pbcs.dll/misc?url=/static/premiumContent/initialOffer.html&amp;cid=lb_subscribe" title="Subscribe">SUBSCRIBE</a></div>
+				<span class="txtLinks">
+					<a href="/apps/pbcs.dll/misc?url=/misc/activate.pbs&amp;cid=lb_activate" title="Activate">Print + Online Subscriber Activation</a>&nbsp;|&nbsp;
+					<a href="/apps/pbcs.dll/misc?url=/misc/register.pbs&amp;cid=lb_register" title="Register">Register</a>
+				</span>	
+			
+		</div>
+		
+		<div id="miniLogin" style="display:none;">
+			<a href="#" onclick="toggleMiniLogin();return false;" title="close login panel">x</a>
+			<form action="/apps/pbcs.dll/misc?url=/misc/login.pbs&amp;returnurl=%2Fapps%2Fpbcs.dll%2Fmisc%3Furl%3D%2Fstatic%2FprivacyPolicy.htm&amp;cid=lb_login" method="post" name="login_form" id="login_form">
+				<label for="username">Username *</label>
+				<input type="text" name="user" value="" id="user" maxlength="64" class="text">
+				<span style="font-size:.9em;color:#333; font-weight:normal;margin-bottom:5px;">(usually your email address)</span>
+				<label for="pass">Password *</label>
+				<input type="password" name="pw" value="" id="pw" maxlength="64" class="text" onkeydown="return submitOnEnter(event);">
+				<div class="ctl submit">
+					<input type="image" class="subButton" name="loginSubButton" id="loginSubButton" src="http://static.djlmgdigital.com/spr/poconorecord/graphics/paywall/btn_login.gif" value="">
+				</div>
+			</form>
+			<div class="miniLoginFooter">
+				<a href="/apps/pbcs.dll/misc?url=/misc/forgotPassword.pbs&amp;cid=lb_forgotpw" title="Forgot Password">Forgot Password</a> | <a href="/subscribe" title="Sign Up">Need an Account?</a>
+			</div>
+		</div>
+
+	</div>
 </div>
+</div>	
 <div id="sCode"><script language="JavaScript" src="http://static.djlmgdigital.com/spr/global/scripts/s_code_remote.js" type="text/javascript"></script></div>
 		<div id="outerWrapper">
 			<div id="header">
 				
 				<div class="mastBar">
-				<a href="/" title="Pocono Record Sitemap" id="mastHead"><img src="http://static.djlmgdigital.com/spr/poconorecord/graphics/graphics/masthead_NEW.jpg" alt="Pocono Record"></a>
+				<a href="/" title="PoconoRecord.com" id="mastHead">&nbsp;</a>
 				<div id="mastWeather">
 					<div id="mastWeatherLeft">
-						<div id="weathHead">
-							<div id="weathTitle">
-                    <span class="hdrDate">May 19, 2012</span>
+						<div class="todaysDate">Sunday, May 19, 2013</div>
+						<div id="weathPredict">
+							<div class="currTemp">               
+								<script type="text/javascript">
+									document.writeln("<img src=\"http://static.djlmgdigital.com/corp/global/graphics/weather/small/" + wcurrent.dailyforecast.Icon.replace(/jpg/, "gif") + "\" alt=\"weather\" class=\"wImg\"\">");
+								</script>
+							
+								<script type="text/javascript">
+					                	document.writeln(Math.round(wcurrent.dailyforecast.TemperatureF) + "&#176;");
+								</script>	
 							</div>
-							<div id="weathPredict">
-	                <script type="text/javascript">
-	                	document.writeln("<div class=\"currTemp\">" + wcurrent.dailyforecast.TemperatureF + "\&#176;<\/div>");
-									</script>	
-									<script type="text/javascript">document.writeln("<div style=\"display:inline;float:left;\"><img src=\"http://static.djlmgdigital.com/spr/poconorecord/graphics/weather/small/" + wcurrent.dailyforecast.Icon.replace(/jpg/, "gif") + "\" alt=\"weather\" class=\"wImg\"/><\/div>");</script>
-									<div class="weatherLinks" style="clear:both;font-weight:bold;">
-										<a href="/apps/pbcs.dll/section?category=NEWS06" title="Click here for more weather details.">Forecast /Radar</a>
-									</div>
-								</div>
+							<div class="weatherLinks">
+								<a href="/apps/pbcs.dll/section?category=NEWS06" title="Click here for more weather details.">Forecast | Radar</a>
+							</div>
 						</div>
-					</div>
-					<div id="mastWeatherRight">
-						<div id="x59">
-							<script language="JavaScript" type="text/javascript">
-							<!--
-								OAS_AD('x59');
-							//-->
-							</script>
-						</div>
-					</div>
+					</div>												
+				</div>
+				<div id="Top">
+					<script language="JavaScript" type="text/javascript">
+					<!--
+						OAS_AD('Top');
+					//-->
+					</script>
 				</div>
 			</div>
-			<div id="browserBar" style="clear:both;display:none;float:left;margin:3px 0px;height:56px;padding:2px;background-color:#b4b4b2;"></div>
+			<div id="browserBar" style="clear:both;display:none;float:left;margin:3px 2px;height:56px;padding:2px;background-color:#b4b4b2;"></div>
 				<script type="text/javascript" src="http://static.djlmgdigital.com/spr/poconorecord/udm-resources/udm-dom.js"></script>
 			<div id="topNav">
 				<ul id="udm" class="udm">
@@ -287,6 +326,8 @@
 						<ul>
 							<li><a href="/apps/pbcs.dll/section?category=NEWS" title="Pocono News">Pocono News</a>
 							</li>
+							<li><a href="http://services.thepoconos.com/reader-services/submissions/story-idea" title="News Tip">Report a News Tip</a>
+							</li>							
 							<li><a href="/apps/pbcs.dll/section?category=NEWS05" title="Police/Courts/Fire">Police/Courts/Fire</a>
 								<ul>
 									<li><a href="/apps/pbcs.dll/article?AID=/99999999/DATABASES/110129977" title="Crime Map">Poconos Crime Map</a>
@@ -295,7 +336,7 @@
 							</li>
 							<li><a href="/apps/pbcs.dll/section?category=LIVING03" title="Commuter/Traffic">Commuter/Traffic</a>
 							</li>
-							<li><a href="/apps/pbcs.dll/section?category=NEWS03" title="Politics">Politics</a>
+							<li><a href="/apps/pbcs.dll/section?category=NEWS03" title="Politics">Politics</a>						
 							</li>
 							<li><a href="/apps/pbcs.dll/section?category=NEWS0701" title="Obituaries">Obituaries</a>				
 							</li>
@@ -307,72 +348,11 @@
 									</li>
 								</ul>
 							</li>
-							<li><a href="/apps/pbcs.dll/section?category=NEWS09" title="Pocono Crime Files">Pocono Crime Files</a>
-								<ul>							
-									<li><a href="/apps/pbcs.dll/section?category=NEWS0936" title="Slain Pa. Trooper">Slain Pa. Trooper</a>
-									</li>
-									<li><a href="/apps/pbcs.dll/section?category=NEWS0947" title="Deanna Null Murder">Deanna Null Murder</a>
-									</li>
-									<li><a href="/apps/pbcs.dll/section?category=NEWS0933" title="Lee Van Luvender Case">Lee Van Luvender Case</a>
-									</li>
-									<li><a href="/apps/pbcs.dll/section?category=NEWS0941" title="Saw Creek Murder Investigation">Saw Creek Murder Investigation</a>
-									</li>
-									<li><a href="/apps/pbcs.dll/section?category=NEWS0902" title="Djinn Buckingham Case">Djinn Buckingham Case</a>
-									</li>
-									
-								</ul>
-							</li>
 							<li><a href="/apps/pbcs.dll/section?category=NEWS09" title="Special Reports">Special Reports</a>
-								<ul>
-									<li><a href="/apps/pbcs.dll/section?category=NEWS0938" title="Frazetta Family Feud">Frazetta Family Feud</a>
 									</li>
-									<li><a href="/apps/pbcs.dll/section?category=NEWS0930" title="Pocono Playhouse Fire">Pocono Playhouse Fire</a>
-									</li>										
-									<li><a href="/apps/pbcs.dll/section?category=NEWS0927" title="Swine Flu">Swine Flu</a>
-									</li>									
-									<li><a href="/apps/pbcs.dll/section?category=NEWS0911" title="ESU Sex Scandal">ESU Sex Scandal</a>
-									</li>
-									<li><a href="/apps/pbcs.dll/section?category=NEWS0903" title="Slots in the Poconos">Gaming in the Poconos</a>
-									</li>
-									<li><a href="/apps/pbcs.dll/section?category=NEWS0905" title="Interstate 80 Tolls">Interstate 80 Tolls</a>
-									</li>
-									<li><a href="/apps/pbcs.dll/section?category=NEWS0908" title="Commuter Rail in the Poconos">Commuter Rail in the Poconos</a>
-									</li>
-									<li><a href="/apps/pbcs.dll/section?category=NEWS0907" title="Power Line Project">Power Line Project</a>
-									</li>
-									<li><a href="/apps/pbcs.dll/section?category=NEWS0906" title="Marshalls Creek Bypass">Marshalls Creek Bypass</a>
-									</li>
-									<li><a href="/apps/pbcs.dll/section?category=NEWS0912" title="PSPCA Problems">PSPCA Problems</a>
-									</li>
-									<li><a href="/apps/pbcs.dll/section?category=NEWS0904" title="Pa. Redistricting Reform">Pa. Redistricting Reform</a>
-									</li>
-									<li><a href="/apps/pbcs.dll/section?category=NEWS0948" title="Stroudsburg High School Project">Stroudsburg High School Project</a>
-									</li>
-									<li><a href="/apps/pbcs.dll/section?category=NEWS0925" title="Mortgage Mess">Mortgage Mess</a>
-									</li>
-									<li><a href="/apps/pbcs.dll/section?category=NEWS0901" title="Taxing Questions">Taxing Questions</a>
-									</li>
-									<li><a href="/apps/pbcs.dll/section?category=NEWS0924" title="Gangs in the Poconos">Gangs in the Poconos</a>
-									</li>
-									<li><a href="/apps/pbcs.dll/section?category=NEWS0931" title="Monroe County Prison Troubles">Monroe Prison Troubles</a>
-									</li>
-									<li><a href="/apps/pbcs.dll/section?category=NEWS0934" title="Iridium Immigration Raid">Iridium Immigration Raid</a>
-									</li>
-									<li><a href="/apps/pbcs.dll/section?category=NEWS0922" title="Tocks Island Dam">Tocks Island Dam</a>
-									</li>
-									<li><a href="/apps/pbcs.dll/section?category=NEWS0913" title="Stroudsburg Fires">Stroudsburg Fires</a>
-									</li>
-									<li><a href="/apps/pbcs.dll/section?category=NEWS0921" title="Delaware River Floods">Delaware River Floods</a>
-									</li>
-									<li><a href="/apps/pbcs.dll/section?category=NEWS0919" title="Cherry Valley Tornado">Cherry Valley Tornado</a>
-									</li>												
-								</ul>
-							</li>
 							
 							<li><a href="/apps/pbcs.dll/section?category=NEWS02" title="Business">Business</a>
-								<ul>
-									<li><a href="/apps/pbcs.dll/section?category=NEWS0917" title="Recession Survival Guide">Recession Survival Guide</a>
-									</li>									
+								<ul>								
 									<li><a href="/apps/pbcs.dll/section?category=NEWS0201" title="Real Estate Transactions">Real Estate Transactions</a>
 									</li>
 								</ul>
@@ -407,23 +387,16 @@
 							</li>
 							<li><a href="/apps/pbcs.dll/section?category=FEATURES03" title="Food">Food</a>
 							</li>
+							<li><a href="/apps/pbcs.dll/section?category=FEATURES11" title="Craft Guide">Craft Guide</a>
+							</li>							
 							<li><a href="/apps/pbcs.dll/section?category=LIVING06" title="Pocono People">Pocono People</a>
 							</li>
 							<li><a href="/apps/pbcs.dll/section?category=FEATURES04" title="Religion">Religion</a>
 							</li>
 							<li><a href="/apps/pbcs.dll/section?category=FEATURES08" title="Pocono Green">Pocono Green</a>
 							</li>							
-							<li><a href="/apps/pbcs.dll/section?category=PARENTING" title="Parenting">Parenting Guides</a>
-								<ul>
-									<li><a href="/apps/pbcs.dll/section?category=YOUTHSPORTSGUIDE" title="Youth Sports Guide">Youth Sports Guide</a>
-									</li>
-									<li><a href="/apps/pbcs.dll/section?category=BIRTHDAYPARTYGUIDE" title="Birthday Party Guide">Birthday Party Guide</a>
-									</li>
-									<li><a href="/apps/pbcs.dll/section?category=CHILDCAREGUIDE" title="Child Care Guide">Child Care Guide</a>
-									</li>
-									<li><a href="/apps/pbcs.dll/section?category=OUTDOORS11" title="Summer Camp Guide">Summer Camp Guide</a>
-									</li>
-								</ul>
+							<li><a href="/apps/pbcs.dll/section?category=PARENTING" title="Parenting">Parenting</a>
+								
 							</li>
 							<li><a href="/apps/pbcs.dll/section?category=NEWS14" title="Sage Magazine">Sage Magazine</a>
 							</li>
@@ -539,15 +512,14 @@
 											</li>
 											<li><a href="/apps/pbcs.dll/section?category=OUTDOORS02" title="Hunting and Fishing">Hunting and Fishing</a>
 											</li>
-											<li><a href="/apps/pbcs.dll/section?category=OUTDOORS01" title="Golf" target="_new">Golf</a>
+<li><a href="/apps/pbcs.dll/section?category=OUTDOORS0402" title="Rick Koval">Rick Koval</a>
+											</li>
+<li><a href="/apps/pbcs.dll/section?category=OUTDOORS0401" title="Ron Tussel">Ron Tussel</a>
 											</li>
 										</ul>
 									</li>
 									<li><a href="/apps/pbcs.dll/section?category=SPORTS06" title="Community Sports">Community Sports</a>
-										<ul>
-											<li><a href="/apps/pbcs.dll/section?category=YOUTHSPORTSGUIDE" title="Youth Sports Guide">Youth Sports Guide</a>
-											</li>
-										</ul>
+										
 									</li>
 								</ul>
 					</li>
@@ -558,10 +530,8 @@
 							<li><a href="/apps/pbcs.dll/section?category=LOCALENT01" title="Poconos Music">Poconos Music</a>
 							</li>
 							<li><a href="/apps/pbcs.dll/section?category=LOCALENT04" title="Poconos Arts">Poconos Arts</a>
-							</li>
-							<li><a href="http://blogs.thepoconos.com/pop-rox" target="_blank" title="PopRox Blog">PopRox Blog</a>
-							</li>
-							<li><a href="http://affiliate.zap2it.com/tvlistings/ZCGrid.do?aid=selectppr" title="TV">TV</a>
+							
+							</li><li><a href="http://affiliate.zap2it.com/tvlistings/ZCGrid.do?aid=selectppr" title="TV">TV</a>
 							</li>			
 							<li><a href="/apps/pbcs.dll/section?category=WHATODO" title="Calendar">Calendar</a>
 							</li>
@@ -575,34 +545,7 @@
 							</li>
 							<li><a href="/apps/pbcs.dll/section?category=OUTDOORS05" title="Snow Sports">Snow Sports</a>
 							</li>
-							<li><a href="/apps/pbcs.dll/section?category=OUTDOORS01" title="Golf" target="_new">Golf</a>
-							</li>
-							<li><a href="/apps/pbcs.dll/section?category=OUTDOORS11" title="Summer Camp Guide">Summer Camp Guide</a>
-							</li>
-						</ul>
-					</li>
-					<li><a id="lifeNav" href="/apps/pbcs.dll/section?category=NEWS22" title="Our Schools">Our Schools</a>
-						<ul>
-							<li><a href="/apps/pbcs.dll/section?category=NEWS22" title="Our Schools Home">Our Schools Home</a>
-							</li>
-							<li><a href="/apps/pbcs.dll/section?category=LIVING2001" title="East Stroudsburg">East Stroudsburg</a>
-							</li>
-							<li><a href="/apps/pbcs.dll/section?category=LIVING2002" title="Pleasant Valley">Pleasant Valley</a>
-							</li>
-							<li><a href="/apps/pbcs.dll/section?category=LIVING2003" title="Pocono Mountain">Pocono Mountain</a>
-							</li>
-							<li><a href="/apps/pbcs.dll/section?category=LIVING2004" title="Stroudsburg">Stroudsburg</a>
-							</li>
-							<li><a href="/apps/pbcs.dll/section?category=NEWS2212" title="Monroe Career and Technical Institute">MCTI</a>
-							</li>
-							<li><a href="/apps/pbcs.dll/section?category=NEWS2213" title="Private Schools">Private Schools</a>
-							</li>
-							<li><a href="/apps/pbcs.dll/section?category=NEWS2214" title="East Stroudsburg University">ESU</a>
-							</li>
-							<li><a href="/apps/pbcs.dll/section?category=NEWS2215" title="Northampton Community College">NCC</a>
-							</li>
-							<li><a href="/apps/pbcs.dll/misc?url=/static/nie/nie.htm" title="Newspapers in Education">Newspapers in Education</a>
-							</li>
+							
 						</ul>
 					</li>
 					<li><a id="lifeNav" href="/apps/pbcs.dll/section?category=PHOTOS" title="Photos &amp; Videos">Photos &amp; Videos</a>
@@ -715,6 +658,28 @@
 									</li>
 								</ul>
 							</li>
+							<li><a href="/apps/pbcs.dll/section?category=NEWS22" title="Our Schools">Our Schools</a>
+								<ul>
+									<li><a href="/apps/pbcs.dll/section?category=LIVING2001" title="East Stroudsburg">East Stroudsburg</a>
+									</li>
+									<li><a href="/apps/pbcs.dll/section?category=LIVING2002" title="Pleasant Valley">Pleasant Valley</a>
+									</li>
+									<li><a href="/apps/pbcs.dll/section?category=LIVING2003" title="Pocono Mountain">Pocono Mountain</a>
+									</li>
+									<li><a href="/apps/pbcs.dll/section?category=LIVING2004" title="Stroudsburg">Stroudsburg</a>
+									</li>
+									<li><a href="/apps/pbcs.dll/section?category=NEWS2212" title="Monroe Career and Technical Institute">MCTI</a>
+									</li>
+									<li><a href="/apps/pbcs.dll/section?category=NEWS2213" title="Private Schools">Private Schools</a>
+									</li>
+									<li><a href="/apps/pbcs.dll/section?category=NEWS2214" title="East Stroudsburg University">ESU</a>
+									</li>
+									<li><a href="/apps/pbcs.dll/section?category=NEWS2215" title="Northampton Community College">NCC</a>
+									</li>
+									<li><a href="/apps/pbcs.dll/misc?url=/static/nie/nie.htm" title="Newspapers in Education">Newspapers in Education</a>
+									</li>
+								</ul>
+							</li>					
 							<li><a href="/apps/pbcs.dll/section?category=LIVING1201" title="Pocono Agencies">Pocono Agencies</a>
 								<ul>
 									<li><a href="/apps/pbcs.dll/section?category=LIVING1201" title="United Way">United Way</a>
@@ -802,6 +767,8 @@
 							</li>					
 						</ul>					
 					</li>
+					<li id="advertiseNav"><a id="advertiseNav" href="http://services.thepoconos.com/media-kit" title="Advertise">Advertise</a>
+					</li>					
 					<li id="lastNav"><a id="lifeNav" href="http://thepoconos.com/classifieds" target="_new" title="Classifieds">Classifieds</a>
 						<ul>
 							<li><a href="http://thepoconos.com/classifieds" target="_new" title="Classifieds Home">Classifieds Home</a>
@@ -1090,8 +1057,7 @@ and include your name and the address to which you would like us to respond.
 					</div>
 				</div>
 				<div id="rghtCol">
-					<div style="width: 300px; height: 35px; display: block; margin: 0px 0px 2px 0px;"><a href="/apps/pbcs.dll/misc?url=/static/premiumContent/initialOffer.html&amp;cid=baob"><img border="0" src="http://static.djlmgdigital.com/spr/poconorecord/graphics/paywall/totalAccess.jpg" alt="Click Here to Subscribe!"></a></div>
-	<div class="adMiddle">
+						<div class="adMiddle">
 							<!-- OAS AD 'Middle' begin -->
 							<script language="JavaScript" type="text/javascript">
 							<!--
@@ -1180,109 +1146,109 @@ and include your name and the address to which you would like us to respond.
 		<div id="ctl00_djCpnW_Panel" class="djCpnW_Panel"> 
    
            <div class="djCpnW_Head">
-                 <a href="http://thepoconos.com/sp?aff=3" id="ctl00_djCpnW_Repeater_ctl00_djCpnW_Total" class="djCpnW_Total" target="_blank">48 Coupons Online Today</a>
+                 <a href="http://thepoconos.com/sp?aff=3" id="ctl00_djCpnW_Repeater_ctl00_djCpnW_Total" class="djCpnW_Total" target="_blank">See All Online Today</a>
                  <a href="http://thepoconos.com/sp?aff=3" id="ctl00_djCpnW_Repeater_ctl00_djCpnW_More" class="djCpnW_More" target="_blank">More &gt;&gt;</a>
            </div>       
            <ul class="djCpnW_Results">
            
              <li>
-                  <a href="http://thepoconos.com/sp?p=/includes/print_coupon&amp;adSiteId=391&amp;siteId=76042" id="ctl00_djCpnW_Repeater_ctl01_djCpnW_Title" class="djCpnW_Title" rel="external">10% Off Your Total Dinner Bill</a>
-                  <span class="djCpnW_Business" id="djCpnW_Business">Blue Tequila Mexican Restaurant</span>    
+                  <a href="http://thepoconos.com/sp?p=/includes/print_coupon&amp;adSiteId=656&amp;siteId=266755" id="ctl00_djCpnW_Repeater_ctl01_djCpnW_Title" class="djCpnW_Title" rel="external">10% OFF All  Flowering Trees &amp; Shrubs</a>
+                  <span class="djCpnW_Business" id="djCpnW_Business">Vogel's Flowermart</span>    
              </li>
              
              <li>
-                  <a href="http://thepoconos.com/sp?p=/includes/print_coupon&amp;adSiteId=596&amp;siteId=181261" id="ctl00_djCpnW_Repeater_ctl02_djCpnW_Title" class="djCpnW_Title" rel="external">$25 Off Catering</a>
-                  <span class="djCpnW_Business" id="djCpnW_Business">Louie's Steak &amp; Rib at Pub 570 Grill &amp; Tavern</span>    
+                  <a href="http://thepoconos.com/sp?p=/includes/print_coupon&amp;adSiteId=657&amp;siteId=256302" id="ctl00_djCpnW_Repeater_ctl02_djCpnW_Title" class="djCpnW_Title" rel="external">25% OFF</a>
+                  <span class="djCpnW_Business" id="djCpnW_Business">Terra Greens Golf Club</span>    
              </li>
              
              <li>
-                  <a href="http://thepoconos.com/sp?p=/includes/print_coupon&amp;adSiteId=612&amp;siteId=183410" id="ctl00_djCpnW_Repeater_ctl03_djCpnW_Title" class="djCpnW_Title" rel="external">Save $10 on any $100 or more purchase!</a>
-                  <span class="djCpnW_Business" id="djCpnW_Business">Kenrro Farm Market</span>    
+                  <a href="http://thepoconos.com/sp?p=/includes/print_coupon&amp;adSiteId=653&amp;siteId=232670" id="ctl00_djCpnW_Repeater_ctl03_djCpnW_Title" class="djCpnW_Title" rel="external">A Weekly Massage for 3 Weeks - Only $20/Visit</a>
+                  <span class="djCpnW_Business" id="djCpnW_Business">Naturally Kneaded Massage &amp; Wellness</span>    
              </li>
              
              <li>
-                  <a href="http://thepoconos.com/sp?p=/includes/print_coupon&amp;adSiteId=284&amp;siteId=144515" id="ctl00_djCpnW_Repeater_ctl04_djCpnW_Title" class="djCpnW_Title" rel="external">$5.00 Off Daily Medium or Full size Car Rental</a>
-                  <span class="djCpnW_Business" id="djCpnW_Business">Rinehart Rentals</span>    
+                  <a href="http://thepoconos.com/sp?p=/includes/print_coupon&amp;adSiteId=311&amp;siteId=167807" id="ctl00_djCpnW_Repeater_ctl04_djCpnW_Title" class="djCpnW_Title" rel="external">Spring into Spring with a FREE 29 Point Check</a>
+                  <span class="djCpnW_Business" id="djCpnW_Business">Martocci Automotive</span>    
              </li>
              
              <li>
-                  <a href="http://thepoconos.com/sp?p=/includes/print_coupon&amp;adSiteId=325&amp;siteId=145403" id="ctl00_djCpnW_Repeater_ctl05_djCpnW_Title" class="djCpnW_Title" rel="external">FREE Weber Grill Cover! ONE DAY ONLY!</a>
-                  <span class="djCpnW_Business" id="djCpnW_Business">Steele's True Value Hardware</span>    
+                  <a href="http://thepoconos.com/sp?p=/includes/print_coupon&amp;adSiteId=502&amp;siteId=82666" id="ctl00_djCpnW_Repeater_ctl05_djCpnW_Title" class="djCpnW_Title" rel="external">$1.00 off Admission to Quiet Valley's Historical Farm Frolic</a>
+                  <span class="djCpnW_Business" id="djCpnW_Business">Quiet Valley Living Historical Farm</span>    
              </li>
              
              <li>
-                  <a href="http://thepoconos.com/sp?p=/includes/print_coupon&amp;adSiteId=323&amp;siteId=145403" id="ctl00_djCpnW_Repeater_ctl06_djCpnW_Title" class="djCpnW_Title" rel="external">Kingsford Original Briquets $6.99</a>
-                  <span class="djCpnW_Business" id="djCpnW_Business">Steele's True Value Hardware</span>    
+                  <a href="http://thepoconos.com/sp?p=/includes/print_coupon&amp;adSiteId=312&amp;siteId=167807" id="ctl00_djCpnW_Repeater_ctl06_djCpnW_Title" class="djCpnW_Title" rel="external">FREE Alignment with the Purchase of Tires</a>
+                  <span class="djCpnW_Business" id="djCpnW_Business">Martocci Automotive</span>    
              </li>
              
              <li>
-                  <a href="http://thepoconos.com/sp?p=/includes/print_coupon&amp;adSiteId=601&amp;siteId=182805" id="ctl00_djCpnW_Repeater_ctl07_djCpnW_Title" class="djCpnW_Title" rel="external">Free Rabies Vaccination</a>
-                  <span class="djCpnW_Business" id="djCpnW_Business">P.A.W.S.</span>    
+                  <a href="http://thepoconos.com/sp?p=/includes/print_coupon&amp;adSiteId=668&amp;siteId=266761" id="ctl00_djCpnW_Repeater_ctl07_djCpnW_Title" class="djCpnW_Title" rel="external">Now Open!!!!!!!!!!!!!!</a>
+                  <span class="djCpnW_Business" id="djCpnW_Business">Spoon Lickers</span>    
              </li>
              
              <li>
-                  <a href="http://thepoconos.com/sp?p=/includes/print_coupon&amp;adSiteId=442&amp;siteId=143254" id="ctl00_djCpnW_Repeater_ctl08_djCpnW_Title" class="djCpnW_Title" rel="external">Lunch Special</a>
-                  <span class="djCpnW_Business" id="djCpnW_Business">Shawnee Inn &amp; Golf Resort</span>    
+                  <a href="http://thepoconos.com/sp?p=/includes/print_coupon&amp;adSiteId=349&amp;siteId=82666" id="ctl00_djCpnW_Repeater_ctl08_djCpnW_Title" class="djCpnW_Title" rel="external">$1.00 OFF Adult Admission to Quiet Valley's Farm Frolic</a>
+                  <span class="djCpnW_Business" id="djCpnW_Business">Quiet Valley Living Historical Farm</span>    
              </li>
              
              <li>
-                  <a href="http://thepoconos.com/sp?p=/includes/print_coupon&amp;adSiteId=320&amp;siteId=44163" id="ctl00_djCpnW_Repeater_ctl09_djCpnW_Title" class="djCpnW_Title" rel="external">$5.55 PA. State Inspections</a>
+                  <a href="http://thepoconos.com/sp?p=/includes/print_coupon&amp;adSiteId=651&amp;siteId=232670" id="ctl00_djCpnW_Repeater_ctl09_djCpnW_Title" class="djCpnW_Title" rel="external">$6.00 off Warm Stone Aromatherapy Massage</a>
+                  <span class="djCpnW_Business" id="djCpnW_Business">Naturally Kneaded Massage &amp; Wellness</span>    
+             </li>
+             
+             <li>
+                  <a href="http://thepoconos.com/sp?p=/includes/print_coupon&amp;adSiteId=658&amp;siteId=256302" id="ctl00_djCpnW_Repeater_ctl10_djCpnW_Title" class="djCpnW_Title" rel="external">Buy one Get one</a>
+                  <span class="djCpnW_Business" id="djCpnW_Business">Terra Greens Golf Club</span>    
+             </li>
+             
+             <li>
+                  <a href="http://thepoconos.com/sp?p=/includes/print_coupon&amp;adSiteId=635&amp;siteId=17679" id="ctl00_djCpnW_Repeater_ctl11_djCpnW_Title" class="djCpnW_Title" rel="external">FREE Lunch, Up To a $10.00 Value, with the Purchase of a 2nd Lunch</a>
+                  <span class="djCpnW_Business" id="djCpnW_Business">Willowtree Inn</span>    
+             </li>
+             
+             <li>
+                  <a href="http://thepoconos.com/sp?p=/includes/print_coupon&amp;adSiteId=662&amp;siteId=169166" id="ctl00_djCpnW_Repeater_ctl12_djCpnW_Title" class="djCpnW_Title" rel="external">10% off Total Bill</a>
+                  <span class="djCpnW_Business" id="djCpnW_Business">Le Persil Bistro</span>    
+             </li>
+             
+             <li>
+                  <a href="http://thepoconos.com/sp?p=/includes/print_coupon&amp;adSiteId=638&amp;siteId=17679" id="ctl00_djCpnW_Repeater_ctl13_djCpnW_Title" class="djCpnW_Title" rel="external">SAVE $3 Off  An Adult Entree for Father's Day  - June 16, 2013</a>
+                  <span class="djCpnW_Business" id="djCpnW_Business">Willowtree Inn</span>    
+             </li>
+             
+             <li>
+                  <a href="http://thepoconos.com/sp?p=/includes/print_coupon&amp;adSiteId=348&amp;siteId=82666" id="ctl00_djCpnW_Repeater_ctl14_djCpnW_Title" class="djCpnW_Title" rel="external">$1.00 off Admission to Quiet Valley'sFarm Folic</a>
+                  <span class="djCpnW_Business" id="djCpnW_Business">Quiet Valley Living Historical Farm</span>    
+             </li>
+             
+             <li>
+                  <a href="http://thepoconos.com/sp?p=/includes/print_coupon&amp;adSiteId=320&amp;siteId=44163" id="ctl00_djCpnW_Repeater_ctl15_djCpnW_Title" class="djCpnW_Title" rel="external">$5.55 PA. State Inspections</a>
                   <span class="djCpnW_Business" id="djCpnW_Business">Meineke Car Care Center</span>    
              </li>
              
              <li>
-                  <a href="http://thepoconos.com/sp?p=/includes/print_coupon&amp;adSiteId=516&amp;siteId=14468" id="ctl00_djCpnW_Repeater_ctl10_djCpnW_Title" class="djCpnW_Title" rel="external">Get TWO 8 oz. Angus Burgers, TWO regular french fries &amp; TWO fountain sodas for only $14.95</a>
-                  <span class="djCpnW_Business" id="djCpnW_Business">Vinny D's Deli &amp; Catering</span>    
+                  <a href="http://thepoconos.com/sp?p=/includes/print_coupon&amp;adSiteId=652&amp;siteId=232670" id="ctl00_djCpnW_Repeater_ctl16_djCpnW_Title" class="djCpnW_Title" rel="external">Spring Renewal for 2</a>
+                  <span class="djCpnW_Business" id="djCpnW_Business">Naturally Kneaded Massage &amp; Wellness</span>    
              </li>
              
              <li>
-                  <a href="http://thepoconos.com/sp?p=/includes/print_coupon&amp;adSiteId=584&amp;siteId=180699" id="ctl00_djCpnW_Repeater_ctl11_djCpnW_Title" class="djCpnW_Title" rel="external">10% off when you move in by 7/31/12</a>
-                  <span class="djCpnW_Business" id="djCpnW_Business">Shawnee Ridge</span>    
+                  <a href="http://thepoconos.com/sp?p=/includes/print_coupon&amp;adSiteId=260&amp;siteId=14526" id="ctl00_djCpnW_Repeater_ctl17_djCpnW_Title" class="djCpnW_Title" rel="external">25% Off in Our Fabric Department</a>
+                  <span class="djCpnW_Business" id="djCpnW_Business">American Ribbon and Crafts</span>    
              </li>
              
              <li>
-                  <a href="http://thepoconos.com/sp?p=/includes/print_coupon&amp;adSiteId=593&amp;siteId=143254" id="ctl00_djCpnW_Repeater_ctl12_djCpnW_Title" class="djCpnW_Title" rel="external">$20 off your midweek stay at the historic Shawnee Inn and Golf Resort</a>
-                  <span class="djCpnW_Business" id="djCpnW_Business">Shawnee Inn &amp; Golf Resort</span>    
+                  <a href="http://thepoconos.com/sp?p=/includes/print_coupon&amp;adSiteId=655&amp;siteId=266755" id="ctl00_djCpnW_Repeater_ctl18_djCpnW_Title" class="djCpnW_Title" rel="external">Herbs 80 Varieties  $2.75 each or 10 for $25.00</a>
+                  <span class="djCpnW_Business" id="djCpnW_Business">Vogel's Flowermart</span>    
              </li>
              
              <li>
-                  <a href="http://thepoconos.com/sp?p=/includes/print_coupon&amp;adSiteId=319&amp;siteId=44163" id="ctl00_djCpnW_Repeater_ctl13_djCpnW_Title" class="djCpnW_Title" rel="external">Oil Change Special $14.95 FREE TIRE ROTATION</a>
-                  <span class="djCpnW_Business" id="djCpnW_Business">Meineke Car Care Center</span>    
+                  <a href="http://thepoconos.com/sp?p=/includes/print_coupon&amp;adSiteId=664&amp;siteId=169166" id="ctl00_djCpnW_Repeater_ctl19_djCpnW_Title" class="djCpnW_Title" rel="external">Save Save Save at Le Persil Bistro</a>
+                  <span class="djCpnW_Business" id="djCpnW_Business">Le Persil Bistro</span>    
              </li>
              
              <li>
-                  <a href="http://thepoconos.com/sp?p=/includes/print_coupon&amp;adSiteId=312&amp;siteId=167807" id="ctl00_djCpnW_Repeater_ctl14_djCpnW_Title" class="djCpnW_Title" rel="external">FREE Alignment with the Purchase of Tires</a>
+                  <a href="http://thepoconos.com/sp?p=/includes/print_coupon&amp;adSiteId=310&amp;siteId=167807" id="ctl00_djCpnW_Repeater_ctl20_djCpnW_Title" class="djCpnW_Title" rel="external">Anniversary Special - State Inspections $4.44</a>
                   <span class="djCpnW_Business" id="djCpnW_Business">Martocci Automotive</span>    
-             </li>
-             
-             <li>
-                  <a href="http://thepoconos.com/sp?p=/includes/print_coupon&amp;adSiteId=310&amp;siteId=167807" id="ctl00_djCpnW_Repeater_ctl15_djCpnW_Title" class="djCpnW_Title" rel="external">State Inspections $7.77</a>
-                  <span class="djCpnW_Business" id="djCpnW_Business">Martocci Automotive</span>    
-             </li>
-             
-             <li>
-                  <a href="http://thepoconos.com/sp?p=/includes/print_coupon&amp;adSiteId=311&amp;siteId=167807" id="ctl00_djCpnW_Repeater_ctl16_djCpnW_Title" class="djCpnW_Title" rel="external">FREE Alternator/Battery Check for Spring</a>
-                  <span class="djCpnW_Business" id="djCpnW_Business">Martocci Automotive</span>    
-             </li>
-             
-             <li>
-                  <a href="http://thepoconos.com/sp?p=/includes/print_coupon&amp;adSiteId=393&amp;siteId=76042" id="ctl00_djCpnW_Repeater_ctl17_djCpnW_Title" class="djCpnW_Title" rel="external">FREE Non-Alcoholic Beverage</a>
-                  <span class="djCpnW_Business" id="djCpnW_Business">Blue Tequila Mexican Restaurant</span>    
-             </li>
-             
-             <li>
-                  <a href="http://thepoconos.com/sp?p=/includes/print_coupon&amp;adSiteId=610&amp;siteId=180704" id="ctl00_djCpnW_Repeater_ctl18_djCpnW_Title" class="djCpnW_Title" rel="external">$500 Off</a>
-                  <span class="djCpnW_Business" id="djCpnW_Business">Dotta Chrysler Jeep</span>    
-             </li>
-             
-             <li>
-                  <a href="http://thepoconos.com/sp?p=/includes/print_coupon&amp;adSiteId=598&amp;siteId=181261" id="ctl00_djCpnW_Repeater_ctl19_djCpnW_Title" class="djCpnW_Title" rel="external">Louie's Famous Italian Hoagie w. Fries only $3.99</a>
-                  <span class="djCpnW_Business" id="djCpnW_Business">Louie's Steak &amp; Rib at Pub 570 Grill &amp; Tavern</span>    
-             </li>
-             
-             <li>
-                  <a href="http://thepoconos.com/sp?p=/includes/print_coupon&amp;adSiteId=392&amp;siteId=76042" id="ctl00_djCpnW_Repeater_ctl20_djCpnW_Title" class="djCpnW_Title" rel="external">FREE Appetizer</a>
-                  <span class="djCpnW_Business" id="djCpnW_Business">Blue Tequila Mexican Restaurant</span>    
              </li>
          
             </ul>   
@@ -1295,7 +1261,7 @@ and include your name and the address to which you would like us to respond.
                         var rnd = Math.floor(Math.random() * chs.length);
                         str += chs.substring(rnd,rnd+1);}
                         var myImg = new Image();
-                        myImg.src = 'http:\/\/lsl' + 'metrics.djlmgdigital.com\/images\/coupon' + 'counter.gif?r=PR&w=76042:391,181261:596,183410:612,144515:284,145403:325,145403:323,182805:601,143254:442,44163:320,14468:516,180699:584,143254:593,44163:319,167807:312,167807:310,167807:311,76042:393,180704:610,181261:598,76042:392&b='+str;                                       
+                        myImg.src = 'http:\/\/lsl' + 'metrics.djlmgdigital.com\/images\/coupon' + 'counter.gif?r=PR&w=266755:656,256302:657,232670:653,167807:311,82666:502,167807:312,266761:668,82666:349,232670:651,256302:658,17679:635,169166:662,17679:638,82666:348,44163:320,232670:652,14526:260,266755:655,169166:664,167807:310&b='+str;                                       
                     </script>
                 
             
@@ -1324,7 +1290,6 @@ and include your name and the address to which you would like us to respond.
 		</div>
 	  <div id="footer">
 		<div class="noindex">
-		<center>THE POCONO RECORD</center><br>
 			<div id="footerLinks">
 				<a href="/apps/pbcs.dll/misc?url=/static/termsConditions.htm" title="Terms of Use">Terms of Use</a>
 				<a href="/apps/pbcs.dll/misc?url=/static/copyright.htm" title="Copyright">Copyright</a>
