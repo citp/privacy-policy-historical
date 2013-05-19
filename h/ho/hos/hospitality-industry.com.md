@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hospitality-industry.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118050522id_/http%3A//www.hospitality-industry.com/index.php/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hospitality-industry.com privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519062656id_/http%3A//www.hospitality-industry.com/index.php/privacy) for the most accurate reproduction.*
 
 # Hospitality-Industry.com | Privacy policy
 
