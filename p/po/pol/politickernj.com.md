@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the politickernj.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118052152id_/http%3A//www.politickernj.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the politickernj.com privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519062328id_/http%3A//www.politickernj.com/privacy) for the most accurate reproduction.*
 
 # PolitickerNJ.com Privacy Policy | Politicker NJ
 
