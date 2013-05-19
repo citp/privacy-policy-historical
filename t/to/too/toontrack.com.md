@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toontrack.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118201657id_/http%3A//www.toontrack.com/privacy_policy.asp%3FkeepThis%3Dtrue%26TB_iframe%3Dtrue%26width%3D920%26height%3D580) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toontrack.com privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519061046id_/http%3A//www.toontrack.com/privacy_policy.asp%3FkeepThis%3Dtrue%26TB_iframe%3Dtrue%26width%3D920%26height%3D580) for the most accurate reproduction.*
 
 # Toontrack
 
