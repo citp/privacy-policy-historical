@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mp3rocket.com privacy policy that was archived on 2012-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120304135020id_/http%3A//www.mp3rocket.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mp3rocket.com privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519111707id_/http%3A//www.mp3rocket.me/privacy.htm) for the most accurate reproduction.*
 
-# Privacy Policy - The Ultimate MP3 Music Downloader - Free MP3 Downloads
+# Privacy Policy
 
 This Privacy Policy covers this web site’s treatment of personally identifiable information that we collect when you agree to receive e-mail marketing from us. It is important that visitors are fully informed about the use of their personal information. We believe in 100% permission-based marketing. Your privacy is very important to us. Upon subscription, your email address is protected and will not be shared, sold or rented to any third parties.
 
