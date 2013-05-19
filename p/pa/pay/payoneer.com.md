@@ -1,45 +1,80 @@
-> *The following text is extracted and transformed from the payoneer.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227025848id_/http%3A//www.payoneer.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payoneer.com privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519102906id_/http%3A//www.payoneer.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy | Payoneer
 
-This Privacy Disclosure explains the privacy policies of Payoneer® (“Company”) with respect to the Payoneer services.
+Facts
 
-We are committed to protecting our customers’ privacy and security. This disclosure explains what information we collect about you, with whom we share it, and how you can direct us not to share certain information with certain parties.
+What does Payoneer do with your personal information?
 
-**We, our, and us,** means Company, the provider of your payment services.
+Why?
 
-**You and your,** means customers using the Company payment services. **Nonpublic personal information** , means information about you that we collect in connection with providing a financial product or service to you. Nonpublic personal information does not include information that is available from public sources, such as telephone directories or government records. Hereafter we will use the term “information” with respect to nonpublic personal information as defined by this section.
+Financial companies choose how they share your personal information. Federal law gives consumers the right to limit some but not all sharing of information. Federal law also requires us to tell you how we collect, share, and protect your personal information. Please read this notice carefully to understand what we do.
 
-**Affiliate,** means a company which Company owns or controls, a company that owns or controls the Company, or a company that is owned or controlled by the same company that owns or controls the Company.
+What? 
 
-**Opt out** ,an make to prevent certain sharing or use of information. We will explain how you can exercise this choice.
+The types of personal information we collect and share depend on the product or service you have with us. This information can include:
 
-We collect and may disclose the following information about you: 
-
-  * Information you provide on applications or other forms, such as name, address, e-mail address, social security number, telephone number, and date of birth;
-  * Information about your transacInformation about your transactions with us, our affiliates, or other parties, such as your account balance, your transaction history (where applicable), your payment history; and
-  * Information we receive from a consumer reporting agency, such as verification of your identity and creditworthiness.
+  * Social Security Number, Date of Birth, E-mail address, and Telephone Number; and/or
+  * Bank and credit account, as well as its history; and/or
+  * Identity validation and credit history
 
 
 
-We may also collect and disclose information about how users use our Web site, for example, by tracking unique views received by pages of the Web site or the domains from which users originate. This information is not personally identifiable. We may also use “cookies” to track returning users to our Web site. A cookie is a piece of software that a Web server can store on the users’ PCs and use to identify the users should they visit the Web site again. Information collected may be associated with nonpublic personal information users provide us through our Web site. 
+When you are no longer our customer, we continue with our sharing policies as described in this notice.
 
-We may disclose all of the information we collect, as described above, to our Affiliates and to third party entities that perform services on our behalf or with who we partner or are affiliated with in connection with the services we provide to you, including but not limited to financial service provider who provide services to us, those who assist us in preparing and mailing statements (if applicable) and responding to customer inquiries, to those who perform marketing services for us and to financial institutions that are not our Affiliates with whom we jointly offer financial products or services. You do not have the right to opt out of the disclosure of this information.
+How? 
 
-We may disclose information to third parties who do not belong to our corporate family. These nonaffiliated third parties may include financial services providers, such as mortgage and insurance companies; nonfinancial companies, such as direct marketers, retailers and publishers; and others, such as nonprofit organizations.
+All financial companies need to share customers’ personal information to run their everyday business. In the section below, we list the reasons Payoneer Inc. chooses to share and what; and whether you can limit this sharing.
 
-You have the choice to opt out from our sharing of information with these types of third parties although we may still disclose your information as permitted or required by law or under judicial order.
+Reasons we can share your personal information | Does Payoneer Inc. Share? | Can you limit this sharing?  
+---|---|---  
+**For our everyday business purposes** – such as to process your transactions, maintain your account(s), respond to court orders and legal investigations, or to report to credit bureaus | Yes | No  
+**For our marketing purposes** – to offer our products and services to you | Yes | No  
+**For our affiliates’ everyday business purposes** – information about your creditworthiness, transactions and experiences | Yes  | No  
+**For joint marketing with other financial companies** | Yes | No  
+**For non-affiliates to market to you** | No  | We do not share  
+  
+Questions, Correcting information, Opting out?
 
-If you prefer that we not share nonpublic personal information about you with third parties, you may opt-out of those disclosures at any time by directing us not to make those disclosures (other than disclosures permitted or required by law). You may opt-out by contacting Customer Service through our Web form or by writing to us at Payoneer, Customer Service, 410 Park Avenue, 15th Floor, New York, NY 10022.
+Phone: 800-251-2521;   
+Email: [CustomerServiceManager@payoneer.com](mailto:CustomerServiceManager@payoneer.com)   
+Web: [www.payoneer.com](http://www.payoneer.com/)
 
-We restrict access to nonpublic personal information about you to our employees who have a need to know such information (e.g., to process your payments). We train our employees on the importance of customer privacy and confidentiality. We also maintain physical, electronic, and procedural safeguards that comply with federal standards to guard the nonpublic personal information of our customers.
+Who are we   
+---  
+Who is providing this notice? | Payoneer Inc.  
+1841 Broadway, Suite 520 New York, New York 10023   
+What we do  
+---  
+How does Payoneer Inc. protect my personal information? | Restricting access to non-public personal information only to those employees and entities on a need-to-know basis and that are performing services on our behalf. We train our employees on the importance of customer privacy and confidentiality. We also maintain physical, electronic, and procedural safeguards that comply with federal standards to guard the non-public personal information.  
+How does Payoneer Inc. collect my personal information? | When: 
 
-The privacy policies and practices described in this Privacy Disclosure also apply to our former customers.
+  * You apply for our services/product,
+  * We receive information from banking references, credit reporting agencies, affiliates, and any other third-party validator about your identity
+  * By the use of our services/product, transactions are generated by that use.
+  * You visit our Website. We may also collect and disclose information about how users use our Website by tracking unique views received by pages of the Website or the domains from which users originate. We may also use “cookies” to track returning users to our Website. 
 
-Our website may feature links to third-party sites that offer goods, services, or information. We are not responsible for content or privacy policies or practices of any advertisers or linked sites of any third parties. We encourage you to review their privacy policy before providing them with any personally identifiable information. Third party sites may collect and use information about you in a way that is different from this policy.
+  
+Why can’t I limit all sharing? | Federal law gives you the right to limit only 
 
-You can access most of your nonpublic personal information that we collect online and maintain at www.payoneer.com. You can correct factual errors in your nonpublic personal information by contacting us at the address listed above.
+  * Affiliates and not for everyday business purposes
+  * Sharing for non-affiliates’ everyday business purposes – information about your creditworthiness
+  * Non-affiliates from using your information to market to you 
 
-We may change our Privacy Disclosure from time to time. We will provide current customers with a revised disclosure that describes the new practices as required by law.
-
-If you have any questions regarding this Privacy Disclosure, you can contact us at 1-800-251-2521 or by writing to us at Payoneer, Customer Service, 410 Park Avenue, 15th Floor, New York, NY 10022. 
+State laws and individual companies may give you additional rights to limit sharing.   
+Definitions   
+---  
+Affiliates  | Companies related by common ownership or control. They can be financial and non-financial companies.  
+Nonaffiliates  | Companies not related by common ownership or control. They can be financial and nonfinancial companies.  
+Joint Marketing  | A formal agreement between non-affiliated financial companies that together market financial products to you.  
+Opt-out  | Inform the company (ies) to prevent the sharing or use of certain information.  
+Cookies | A piece of software that a web server can store on the users’ PC’s and use to identify the users should they visit the Website again. Information collected may be associated with non-public information users provide us through our Website.  
+Endorsement Disclaimer   
+---  
+Reference herein to any individual, company or organization, including specific products, goods, processes, or services by trade name, trademark, manufacturer, or otherwise, does not necessarily constitute or imply its endorsement or recommendation by Payoneer. Payoneer does not claim to be endorsed, sponsored by, affiliated with or associated with any individual, company or organization listed on the Payoneer website unless so specified. All trade names, brands, copyrights, logos, likenesses, trademarks, patents and other intellectual property are and remain the property of their respective individuals, companies or organizations.  
+Information Disclaimer  
+---  
+Any and all content provided on the Payoneer website, including links to other websites, is for information purposes only and does not constitute advice, recommendation or support. Payoneer makes every effort to provide content on the Payoneer website that is true and accurate as of the date of writing. However, Payoneer give no assurance or warranty whatsoever, express or implied, regarding the accuracy, completeness, timeliness, or applicability of any of the provided contents. Payoneer accepts no responsibility for and excludes all liability in connection with information provided on the Payoneer website, use of information or downloading any materials from it, including but not limited to any liability for errors, inaccuracies, omissions, infringement or misleading or defamatory statements. Payoneer hereby excludes liability for any claims, losses, demands, or damages of any kind whatsoever with regard to any information, content, or services provided on the Payoneer website or linked to the Payoneer website, including but not limited to direct, indirect, incidental, or consequential loss or damages, compensatory damages, loss of profits, or data, or otherwise.  
+Void Where Prohibited   
+---  
+Although the information on the Payoneer website is accessible worldwide, not all products or services referenced on the Payoneer website may be available to all individuals, companies or organizations or in all geographic locations or jurisdictions. Payoneer makes no representations in such respect. Payoneer reserves the right to limit the provision of their products, goods, processes or services to any individual, company or organization, geographic area, or jurisdiction they so desire. Any offer for any products, goods, processes or services made on the Payoneer website is void where prohibited.
