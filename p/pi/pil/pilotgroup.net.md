@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pilotgroup.net privacy policy that was archived on 2012-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120830103937id_/http%3A//www.pilotgroup.net/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pilotgroup.net privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519054917id_/http%3A//www.pilotgroup.net/about/privacy.php) for the most accurate reproduction.*
 
 # Pilot Group - Privacy and Security
 
