@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bluemic.com privacy policy that was archived on 2012-12-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121205080911id_/http%3A//www.bluemic.com/salesandsupport/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bluemic.com privacy policy that was archived on 2013-05-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130519200649id_/http%3A//bluemic.com/salesandsupport/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -32,7 +32,7 @@
 	<!--// HEADER LAYOUT //-->
 
 	<div id="navSearch">
-<div id="navSearch_inner" style="float:right; margin-top:-20px; width:148px;">
+<div id="navSearch_inner" style="float:right; margin-top:-20px; width:148px; background-color:#fff;">
 	<img src="http://www.google.com/cse/intl/en/images/google_custom_search_watermark.gif" style="padding-left:5px;">
 	<form style="margin:0px; padding:0px; width:148px;" action="http://bluemic.com/results.html" method="get">
 		<table width="148" cellspacing="0" cellpadding="0" border="0" height="27">
@@ -80,6 +80,7 @@
 			<a title="desktop USB" href="/desktop/" target="_parent">desktop USB</a>
 			<ul>
 				<li><a title="overview" href="/desktop/" target="_parent">overview</a></li>
+				<li><a title="nessie" href="/nessie/" target="_parent">nessie</a></li>
 				<li><a title="yeti pro" href="/yetipro/" target="_parent">yeti pro</a></li>
 				<li><a title="yeti" href="/yeti/" target="_parent">yeti</a></li>
 				<li><a title="spark digital" href="/spark_digital/" target="_parent">spark digital</a></li>
@@ -158,9 +159,9 @@
 			</ul>
 		</li>
 		<li>
-			<a title="shop" href="https://bluemic.ebuynow.com/us/ebuynow/" target="_blank">shop</a>
+			<a title="shop" href="/dealerlocator/" target="_parent">shop</a>
 			<ul>
-				<li><a title="online store" href="https://bluemic.ebuynow.com/us/ebuynow/" target="_blank">online store</a></li>
+				<li><a title="online store" href="/dealerlocator/" target="_parent">online partners</a></li>
 				<li><a title="dealer locator" href="/dealerlocator/" target="_parent">dealer locator</a></li>
 				<li><a title="promotions" href="/promotions/" target="_parent">promotions</a></li>
 			</ul>
@@ -316,7 +317,8 @@
 	</div></div>
 	
 	<div id="footer">
-		<div class="inner"><p><a href="http://bluemic.com/salesandsupport/contactus.html">Contact Us</a> <span class="divider">|</span> <a href="http://bluemic.com/sitemap.php">Site Map</a> <span class="divider">|</span> <a href="http://bluemic.com/salesandsupport/support.html">Support</a> <span class="divider">|</span> <a href="http://bluemic.com/salesandsupport/privacy.html">Privacy Policy</a> &nbsp;&nbsp;•&nbsp;&nbsp; Phone: 818.879.5200 <span class="divider">|</span> Fax: 818.879.7258 &nbsp;&nbsp;•&nbsp;&nbsp; Blue Microphones © 2009 <span class="divider">|</span> All Rights Reserved</p></div>
+		<div class="inner">
+  <p><a href="http://bluemic.com/salesandsupport/contactus.html">Contact Us</a> <span class="divider">|</span> <a href="http://bluemic.com/sitemap.php">Site Map</a> <span class="divider">|</span> <a href="http://bluemic.com/salesandsupport/support.html">Support</a> <span class="divider">|</span> <a href="http://bluemic.com/salesandsupport/privacy.html">Privacy Policy</a> &nbsp;&nbsp;•&nbsp;&nbsp; Phone: 818.879.5200 <span class="divider">|</span> Fax: 818.879.7258 &nbsp;&nbsp;•&nbsp;&nbsp; Blue Microphones © 2013 <span class="divider">|</span> All Rights Reserved</p></div>
 
 	</div>
 
@@ -327,7 +329,7 @@
 <script type="text/javascript">
 
 	// INIT GA
-  	var _gaq = _gaq || [];
+ 	var _gaq = _gaq || [];
 	_gaq.push(['_setAccount', 'UA-8724133-1']);
 	
 	// ADD LATER TO DISTINGUISH BETWEEN BLOG AND REGULAR SITE
@@ -366,21 +368,17 @@
     	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
     	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   	})();
-
+  	
 </script>
 
-<!-- Piwik --> 
-<script type="text/javascript">
-var pkBaseURL = (("https:" == document.location.protocol) ? "https://stats.ebuynow.com/" : "http://stats.ebuynow.com/");
-document.write(unescape("%3Cscript src='" + pkBaseURL + "piwik.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://stats.ebuynow.com/piwik.js" type="text/javascript"></script><script type="text/javascript">
-try {
-var piwikTracker = Piwik.getTracker(pkBaseURL + "piwik.php", 3);
-piwikTracker.trackPageView();
-piwikTracker.enableLinkTracking();
-} catch( err ) {}
-</script><noscript><p><img src="http://stats.ebuynow.com/piwik.php?idsite=3" style="border:0" alt="" /></p></noscript>
-<!-- End Piwik Tracking Code -->
+<!-- CUSTOM GA TRACKING CODE -->
+<script src="http://cdn.bluemic.com/js/ga_tracking.js" type="text/javascript"></script>
+
+<script>
+	// HELP DETECT REAL BOUNCES
+	$path = window.location.pathname.split('/');
+	setTimeout('_gaq.push([\'_trackEvent\',\'NoBounce\',\'Stay 10 Seconds\',\''+$path[1]+'\'])',10000);
+</script>
 
 
 
