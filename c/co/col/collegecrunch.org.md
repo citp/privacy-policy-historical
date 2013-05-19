@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the collegecrunch.org privacy policy that was archived on 2012-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121113223701id_/http%3A//collegecrunch.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegecrunch.org privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519045920id_/http%3A//www.collegecrunch.org/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - College Crunch
 
 CollegeCrunch.org’s privacy policy explains how we share, use, and collect users’ personal information. This privacy statement may be updated in the future for the purpose of ensuring it corresponds with CollegeCrunch.org information practice rules and procedures, which have the potential to change.
 
