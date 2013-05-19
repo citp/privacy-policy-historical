@@ -1,7 +1,9 @@
-> *The following text is extracted and transformed from the engeniustech.com privacy policy that was archived on 2012-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121117162218id_/http%3A//engeniustech.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the engeniustech.com privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519050853id_/http%3A//engeniustech.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
+---  
+  
 At  ENGENIUS we recognize that privacy is important.  This Privacy Policy applies to all of the products, services and websites offered by EnGenius Technologies, Inc (“ENGENIUS”). Please take a moment to read the following policy to learn how we handle your personal information. 
 
 **Why we collect personal information**
@@ -55,6 +57,6 @@ If we are going to use your personal information differently from that stated at
 
 **The ENGENIUS Privacy Policy is subject to change at any time. We encourage you to review the privacy policy regularly for any changes.**
 
-2010 ENGENIUS TECHNOLOGIES, INC., All rights reserved. 
-
+2010 ENGENIUS TECHNOLOGIES, INC., All rights reserved.   
+  
  
