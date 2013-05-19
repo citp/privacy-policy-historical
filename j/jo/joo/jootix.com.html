@@ -1,164 +1,33 @@
-<!--The following is the downloaded HTML source of the jootix.com privacy policy that was archived on 2012-12-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121227080649id_/http%3A//jootix.com/Pages/25/Privacy%2520Policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jootix.com privacy policy that was archived on 2013-05-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130519191403id_/http%3A//jootix.com/Pages/25/Privacy%2520Policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-				<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
-<title>Jootix – Discover Wallpapers</title>
-				<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-		<link rel="alternate" type="application/rss+xml" title="Jootix Wallpapers" href="http://feeds.feedburner.com/Jootix">
-		<meta name="description" content="Privacy Policy - Jootix wallpapers Privacy Policy">
-		<meta name="keywords" content="Privacy Policy, Jootix, wallpapers">
-		<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-		<link rel="stylesheet" href="/templates/wallpapers-v/style.css" media="screen" type="text/css">
-		<script type="text/javascript" src="/env/js/jquery.js"></script>
-		<script type="text/javascript" src="/env/js/jquery.corner.js"></script>
-		<script src="/env/js/jquery.dimensions.js" type="text/javascript"></script>
-		<script src="/env/js/jquery.tooltip.js" type="text/javascript"></script>
-		<script type="text/javascript" src="/env/js/menu.js"></script>
-		<script type="text/javascript">
-			var voteURL = '/?module=vote';
-		</script>
-		<script type="text/javascript">
-/*Code start for infinite Scrolling*/
-var page = 1;
-var myscroll = 1;
-var setscroll = 1;
-$(window).scroll(function () {
-
-var $elem = $('#wallsColumn');
-//var mostOfTheWayDown = ($(document).height() - $(window).height()) * 3 / 4;
-var mostOfTheWayDown = $elem.height()-1400;
-var userview = $('#userhitview').val();
-//alert(userview);
-var ajaxcallpage = location.protocol + "//" + location.host + "/ajaxhitesh.php";
-var actual_count = $('#actual_count').val();
-
-if(userview=='infinite' && actual_count!=''){
-
-$('#more').hide();
-$('#no-more').hide();
-
-if($(window).scrollTop() + $(window).height() > $(document).height() - 200) {
-//$('#more').css("top","400");
-$('#more').show();
-}
-
-if ($(window).scrollTop() >= mostOfTheWayDown && setscroll==myscroll){
-//alert(myscroll);
-$('#more').hide();
-$('#no-more').hide();
-
-page++;
-
-var data = {
-page_num: page
-};
-
-// var actual_count = $('#actual_count').val();
-var query_where = $('#query_where').val();
-var query_orderby = $('#query_orderby').val();
-var user_view_type = $('#user_view_type').val();
-//alert(query_where);
-//alert(query_orderby);
-
-if((page-1)* 36 > actual_count){
-if($(window).scrollTop() + $(window).height() > $(document).height() - 50) {
-//$('#no-more').css("top","400");
-$('#no-more').show();
-}
-}else{
-if ($(window).scrollTop() >= mostOfTheWayDown && setscroll==myscroll){
-setscroll++;
-$('#more').show();
-$.ajax({
-type:"POST",
-url:ajaxcallpage,
-data:'page='+page+'&querywhere='+query_where+'&queryorderby='+query_orderby+'&userthumb='+user_view_type+'&hitflag=nextpage',
-success: function(res) {
-
-$("#wallsColumn").append(res);
-$('#more').hide();
-myscroll++;
-
-}
-});
-}
-}
-
-}
-
-}
-});
-
-$(document).ready(function(){
-$(".scroll").click(function(event){
-//prevent the default action for the click event
-event.preventDefault();
-
-//get the full url - like mysitecom/index.htm#home
-var full_url = this.href;
-
-//split the url by # and get the anchor target name - home in mysitecom/index.htm#home
-var parts = full_url.split("#");
-var trgt = parts[1];
-
-//get the top offset of the target anchor
-var target_offset = $("#"+trgt).offset();
-var target_top = target_offset.top;
-
-//goto that anchor by setting the body scroll top to anchor top
-$('html, body').animate({scrollTop:target_top}, 500);
-});
-});
-
-/*Code End for infinite Scrolling*/
-
-$(document).ready(function(){
-var $ui 		= $('#searchForm');
-$('.sb_input').bind('click',function(){
-$('.sb_down')
-.addClass('sb_up')
-.removeClass('sb_down')
-.andSelf()
-.find('.sb_dropdown')
-.show();
-});
-$('#searchchat').bind('mouseleave',function(){
-$('.sb_up')
-.addClass('sb_down')
-.removeClass('sb_up')
-.andSelf()
-.find('.sb_dropdown')
-.hide();
-});
-$('.sb_dropdown').find('label[for="all"]').prev().bind('click',function(){
-$(this).parent().siblings().find(':checkbox').attr('checked',this.checked).attr('disabled',this.checked);
-});
-//top searchbox
-$('.sb_inputpop').bind('click',function(){
-$('.sb_downtop')
-.addClass('sb_uppop')
-.removeClass('sb_downpop')
-.andSelf()
-.find('.sb_dropdowntop')
-.show();
-});
-$('#searchchattop').bind('mouseleave',function(){
-$('.sb_uppop')
-.addClass('sb_downpop')
-.removeClass('sb_uppop')
-.andSelf()
-.find('.sb_dropdowntop')
-.hide();
-});
-$('.sb_dropdowntop').find('label[for="all"]').prev().bind('click',function(){
-$(this).parent().siblings().find(':checkbox').attr('checked',this.checked).attr('disabled',this.checked);
-});
-});
-		</script>
-
-				<script type="text/javascript" src="/templates/wallpapers-v/rating-script.js"></script>
-		<script type="text/javascript">
+<title>Jootix: your best source for wallpapers</title>
+<!--  <meta property="og:title" content="Privacy&#032;Policy : Jootix"/>   -->
+<meta property="og:title" content="">
+<meta property="og:url" content="http://jootix.com/wallpaper/25">
+<meta property="og:image" content="http://i.jootix.com/t/_big.jpg">
+<meta property="og:image:type" content="image/jpg">
+<meta property="og:image:width" content="400">
+<meta property="og:image:height" content="250">
+<meta property="og:type" content="jootixcom:wallpaper">
+<meta property="og:site_name" content="Jootix">
+<meta property="og:description" content="Download High Quality  Wallpaper">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<link rel="alternate" type="application/rss+xml" title="Jootix" href="http://feeds.feedburner.com/Jootix">
+<meta name="description" content="Download high quality desktop wallpapers for your PC &amp; share your wallpapers get featured on the world's best wallpaper site.">
+<meta name="keywords" content="Privacy Policy, Jootix, wallpapers">
+<meta name="p:domain_verify" content="a5120bab161b0b825271f98d0ba0c997">
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<link rel="stylesheet" href="http://jootix.com/templates/wallpapers-v/A.style.css.pagespeed.cf.8lW7vO-PLj.css" media="screen" type="text/css">
+<link href="http://jootix.com/env/css/A.thickbox.css.pagespeed.cf.tbbgfue6yc.css" rel="stylesheet" type="text/css" media="screen">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/env/js/jquery.js"></script>
+<script type="text/javascript"> var voteURL = '/?module=vote'; </script>
+<!-- <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=fouroozesh"></script> -->
+<script src="/env/js/scrolling.js" type="text/javascript"></script><script id="facebook-jssdk" async="" src="//web.archive.org/web/20130423230857/http://connect.facebook.net/en_US/all.js"></script>
+<script type="text/javascript" src="/env/js/thickbox.js"></script>
+<script type="text/javascript" src="/templates/wallpapers-v/rating-script.js"></script>
+<script type="text/javascript">
 			errors = [];
 			errors[-1] = '';
 			errors[0] = '';
@@ -167,8 +36,7 @@ $(this).parent().siblings().find(':checkbox').attr('checked',this.checked).attr(
 			errors[3] = '';
 			errors[4] = '';
 		</script>
-		
-		<script type="text/javascript">
+<script type="text/javascript">
 			var _gaq = _gaq || [];
 			_gaq.push(['_setAccount', 'UA-6958951-1']);
 			_gaq.push(['_trackPageview']);
@@ -179,178 +47,415 @@ $(this).parent().siblings().find(':checkbox').attr('checked',this.checked).attr(
 			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
 			var s = document.getElementsByTagName('script')[0];
 			s.parentNode.insertBefore(ga, s); })();
+           
 		</script>
-
-		<style>
-			#more {
-				background: none repeat scroll 0 0 #EEEEEE;
-				border: 1px solid #CFCFCF;
-				color: #000000;
-				display: none;
-				font-weight: bold;
-				/*left: 1375px;*/
-				right: 65px;
-				padding: 5px;
-				position: fixed;
-				/*top: 150px;*/
-				bottom: 16px;}
-			#no-more {
-				background: none repeat scroll 0 0 #EEEEEE;
-				border: 1px solid #CFCFCF;
-				color: #000000;
-				display: none;
-				font-weight: bold;
-				/*left: 1375px;*/
-				right: 65px;
-				padding: 5px;
-				position: fixed;
-				/*top: 150px;*/
-				bottom: 16px;}
-
-		</style>
-
-	</head>
-
-	<body>
-		<div id="more">
-			Loading More Content
-		</div>
-		<div id="no-more">
-			<a class="scroll" href="#container" style="text-decoration:none; color:#000000;">No More Content</a>
-		</div>
-		<div id="container">
-			<div id="menu" class="js-active">
-				<div id="logo">
-					<a href="/">Jootix Wallpapers</a>
-				</div>
-				<ul class="menu" style=" float:left; width:50%;">
-					<li id="topsearch" class="active">
-						<!-- <form action="/" id="searchForm"><input type="text" name="search" value="" id="searchInput" /> <input type="submit" value="search" /></form>-->
-					</li>
-																								</ul>
-				 <ul class="menu" style=" float:left; width:24%; text-align:right;">
-										<li pos="1080" iid="0">
-						<a href="/?module=Registration" style="background-position: left -1080px;"><span style="background-position: right -1125px;">Registration</span></a>
-					</li>
-															<li pos="1080" iid="0">
-						<a href="/?module=Authorization&amp;file=logout" style="background-position: left -1080px;"><span style="background-position: right -1125px;">Login</span></a>
-					</li>
-				</ul>
-			</div>			
-
-						
-			<div id="content">
-				<input type="hidden" name="userhitview" value="" id="userhitview">
-				<input type="hidden" name="actual_count" value="" id="actual_count">
-				<input type="hidden" name="query_where" value="" id="query_where">
-				<input type="hidden" name="query_orderby" value="" id="query_orderby">
-				<input type="hidden" name="user_view_type" value="" id="user_view_type">
-				<div class="inner">
-														
-			
-									<div>
-							
-						</div>
-																								<p>
+<style type="text/css">.fb_hidden{position:absolute;top:-10000px;z-index:10001}
+.fb_invisible{display:none}
+.fb_reset{background:none;border-spacing:0;border:0;color:#000;cursor:auto;direction:ltr;font-family:"lucida grande", tahoma, verdana, arial, sans-serif;font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:1;margin:0;overflow:visible;padding:0;text-align:left;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;visibility:visible;white-space:normal;word-spacing:normal}
+.fb_link img{border:none}
+.fb_dialog{background:rgba(82, 82, 82, .7);position:absolute;top:-10000px;z-index:10001}
+.fb_dialog_advanced{padding:10px;-moz-border-radius:8px;-webkit-border-radius:8px;border-radius:8px}
+.fb_dialog_content{background:#fff;color:#333}
+.fb_dialog_close_icon{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 0 transparent;_background-image:url(http://static.ak.fbcdn.net/rsrc.php/v2/yL/r/s816eWC-2sl.gif);cursor:pointer;display:block;height:15px;position:absolute;right:18px;top:17px;width:15px;top:8px\9;right:7px\9}
+.fb_dialog_mobile .fb_dialog_close_icon{top:5px;left:5px;right:auto}
+.fb_dialog_padding{background-color:transparent;position:absolute;width:1px;z-index:-1}
+.fb_dialog_close_icon:hover{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -15px transparent;_background-image:url(http://static.ak.fbcdn.net/rsrc.php/v2/yL/r/s816eWC-2sl.gif)}
+.fb_dialog_close_icon:active{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -30px transparent;_background-image:url(http://static.ak.fbcdn.net/rsrc.php/v2/yL/r/s816eWC-2sl.gif)}
+.fb_dialog_loader{background-color:#f2f2f2;border:1px solid #606060;font-size:24px;padding:20px}
+.fb_dialog_top_left,
+.fb_dialog_top_right,
+.fb_dialog_bottom_left,
+.fb_dialog_bottom_right{height:10px;width:10px;overflow:hidden;position:absolute}
+/* @noflip */
+.fb_dialog_top_left{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/ye/r/8YeTNIlTZjm.png) no-repeat 0 0;left:-10px;top:-10px}
+/* @noflip */
+.fb_dialog_top_right{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/ye/r/8YeTNIlTZjm.png) no-repeat 0 -10px;right:-10px;top:-10px}
+/* @noflip */
+.fb_dialog_bottom_left{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/ye/r/8YeTNIlTZjm.png) no-repeat 0 -20px;bottom:-10px;left:-10px}
+/* @noflip */
+.fb_dialog_bottom_right{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/ye/r/8YeTNIlTZjm.png) no-repeat 0 -30px;right:-10px;bottom:-10px}
+.fb_dialog_vert_left,
+.fb_dialog_vert_right,
+.fb_dialog_horiz_top,
+.fb_dialog_horiz_bottom{position:absolute;background:#525252;filter:alpha(opacity=70);opacity:.7}
+.fb_dialog_vert_left,
+.fb_dialog_vert_right{width:10px;height:100%}
+.fb_dialog_vert_left{margin-left:-10px}
+.fb_dialog_vert_right{right:0;margin-right:-10px}
+.fb_dialog_horiz_top,
+.fb_dialog_horiz_bottom{width:100%;height:10px}
+.fb_dialog_horiz_top{margin-top:-10px}
+.fb_dialog_horiz_bottom{bottom:0;margin-bottom:-10px}
+.fb_dialog_iframe{line-height:0}
+.fb_dialog_content .dialog_title{background:#6d84b4;border:1px solid #3b5998;color:#fff;font-size:14px;font-weight:bold;margin:0}
+.fb_dialog_content .dialog_title > span{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/yd/r/Cou7n-nqK52.gif)
+no-repeat 5px 50%;float:left;padding:5px 0 7px 26px}
+body.fb_hidden{-webkit-transform:none;height:100%;margin:0;left:-10000px;overflow:visible;position:absolute;top:-10000px;width:100%
+}
+.fb_dialog.fb_dialog_mobile.loading{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/ya/r/3rhSv5V8j3o.gif)
+white no-repeat 50% 50%;min-height:100%;min-width:100%;overflow:hidden;position:absolute;top:0;z-index:10001}
+.fb_dialog.fb_dialog_mobile.loading.centered{max-height:590px;min-height:590px;max-width:500px;min-width:500px}
+#fb-root #fb_dialog_ipad_overlay{background:rgba(0, 0, 0, .45);position:absolute;left:0;top:0;width:100%;min-height:100%;z-index:10000}
+#fb-root #fb_dialog_ipad_overlay.hidden{display:none}
+.fb_dialog.fb_dialog_mobile.loading iframe{visibility:hidden}
+.fb_dialog_content .dialog_header{-webkit-box-shadow:white 0 1px 1px -1px inset;background:-webkit-gradient(linear, 0 0, 0 100%, from(#738ABA), to(#2C4987));border-bottom:1px solid;border-color:#1d4088;color:#fff;font:14px Helvetica, sans-serif;font-weight:bold;text-overflow:ellipsis;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0;vertical-align:middle;white-space:nowrap}
+.fb_dialog_content .dialog_header table{-webkit-font-smoothing:subpixel-antialiased;height:43px;width:100%
+}
+.fb_dialog_content .dialog_header td.header_left{font-size:12px;padding-left:5px;vertical-align:middle;width:60px
+}
+.fb_dialog_content .dialog_header td.header_right{font-size:12px;padding-right:5px;vertical-align:middle;width:60px
+}
+.fb_dialog_content .touchable_button{background:-webkit-gradient(linear, 0 0, 0 100%, from(#4966A6),
+color-stop(0.5, #355492), to(#2A4887));border:1px solid #29447e;-webkit-background-clip:padding-box;-webkit-border-radius:3px;-webkit-box-shadow:rgba(0, 0, 0, .117188) 0 1px 1px inset,
+rgba(255, 255, 255, .167969) 0 1px 0;display:inline-block;margin-top:3px;max-width:85px;line-height:18px;padding:4px 12px;position:relative}
+.fb_dialog_content .dialog_header .touchable_button input{border:none;background:none;color:#fff;font:12px Helvetica, sans-serif;font-weight:bold;margin:2px -12px;padding:2px 6px 3px 6px;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}
+.fb_dialog_content .dialog_header .header_center{color:#fff;font-size:16px;font-weight:bold;line-height:18px;text-align:center;vertical-align:middle}
+.fb_dialog_content .dialog_content{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/y9/r/jKEcVPZFk-2.gif) no-repeat 50% 50%;border:1px solid #555;border-bottom:0;border-top:0;height:150px}
+.fb_dialog_content .dialog_footer{background:#f2f2f2;border:1px solid #555;border-top-color:#ccc;height:40px}
+#fb_dialog_loader_close{float:left}
+.fb_dialog.fb_dialog_mobile .fb_dialog_close_button{text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}
+.fb_dialog.fb_dialog_mobile .fb_dialog_close_icon{visibility:hidden}
+.fb_iframe_widget{display:inline-block;position:relative}
+.fb_iframe_widget span{display:inline-block;position:relative}
+.fb_iframe_widget iframe{position:absolute}
+.fb_iframe_widget_lift{z-index:1}
+.fb_hide_iframes iframe{position:relative;left:-10000px}
+.fb_iframe_widget_loader{position:relative;display:inline-block}
+.fb_iframe_widget_fluid{display:inline}
+.fb_iframe_widget_fluid span{width:100%}
+.fb_iframe_widget_loader iframe{min-height:32px;z-index:2;zoom:1}
+.fb_iframe_widget_loader .FB_Loader{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/y9/r/jKEcVPZFk-2.gif) no-repeat;height:32px;width:32px;margin-left:-16px;position:absolute;left:50%;z-index:4}
+.fb_connect_bar_container div,
+.fb_connect_bar_container span,
+.fb_connect_bar_container a,
+.fb_connect_bar_container img,
+.fb_connect_bar_container strong{background:none;border-spacing:0;border:0;direction:ltr;font-style:normal;font-variant:normal;letter-spacing:normal;line-height:1;margin:0;overflow:visible;padding:0;text-align:left;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;visibility:visible;white-space:normal;word-spacing:normal;vertical-align:baseline}
+.fb_connect_bar_container{position:fixed;left:0 !important;right:0 !important;height:42px !important;padding:0 25px !important;margin:0 !important;vertical-align:middle !important;border-bottom:1px solid #333 !important;background:#3b5998 !important;z-index:99999999 !important;overflow:hidden !important}
+.fb_connect_bar_container_ie6{position:absolute;top:expression(document.compatMode=="CSS1Compat"? document.documentElement.scrollTop+"px":body.scrollTop+"px")}
+.fb_connect_bar{position:relative;margin:auto;height:100%;width:100%;padding:6px 0 0 0 !important;background:none;color:#fff !important;font-family:"lucida grande", tahoma, verdana, arial, sans-serif !important;font-size:13px !important;font-style:normal !important;font-variant:normal !important;font-weight:normal !important;letter-spacing:normal !important;line-height:1 !important;text-decoration:none !important;text-indent:0 !important;text-shadow:none !important;text-transform:none !important;white-space:normal !important;word-spacing:normal !important}
+.fb_connect_bar a:hover{color:#fff}
+.fb_connect_bar .fb_profile img{height:30px;width:30px;vertical-align:middle;margin:0 6px 5px 0}
+.fb_connect_bar div a,
+.fb_connect_bar span,
+.fb_connect_bar span a{color:#bac6da;font-size:11px;text-decoration:none}
+.fb_connect_bar .fb_buttons{float:right;margin-top:7px}
+.fb_edge_widget_with_comment{position:relative;*z-index:1000}
+.fb_edge_widget_with_comment span.fb_edge_comment_widget{position:absolute}
+.fb_edge_widget_with_comment span.fb_send_button_form_widget{z-index:1}
+.fb_edge_widget_with_comment span.fb_send_button_form_widget .FB_Loader{left:0;top:1px;margin-top:6px;margin-left:0;background-position:50% 50%;background-color:#fff;height:150px;width:394px;border:1px #666 solid;border-bottom:2px solid #283e6c;z-index:1}
+.fb_edge_widget_with_comment span.fb_send_button_form_widget.dark .FB_Loader{background-color:#000;border-bottom:2px solid #ccc}
+.fb_edge_widget_with_comment span.fb_send_button_form_widget.siderender
+.FB_Loader{margin-top:0}
+.fbpluginrecommendationsbarleft,
+.fbpluginrecommendationsbarright{position:fixed !important;bottom:0;z-index:999}
+/* @noflip */
+.fbpluginrecommendationsbarleft{left:10px}
+/* @noflip */
+.fbpluginrecommendationsbarright{right:10px}</style></head>
+<body>
+<!-- 
+-->
+<div id="signupFixed">
+<span>See your wallpapers get featured here — sign up now.</span>
+</div>
+<div id="more">
+Loading More Content
+</div>
+<div id="no-more">
+<a class="scroll" href="#container" style="text-decoration:none; color:#000000;">No More Content</a>
+</div>
+<div id="container">
+<div id="menu">
+<div id="logo">
+<a href="/">Jootix Wallpapers</a>
+</div>
+<ul class="menu" style=" float:left; width:50%;">
+</ul>
+<ul class="menu" style=" float:right; width:24%; text-align:right; padding-right:10px;">
+<li>
+<a href="#TB_inline?height=420&amp;width=620&amp;inlineId=hiddenModalContent" title="Login" class="thickbox registrationblock"><span>Sign In</span></a>	</li>
+<li>
+<a href="#TB_inline?height=420&amp;width=620&amp;inlineId=hiddenModalContent" title="Create an account" class="thickbox"><span style=" color:#FFFF00;">Create an account</span></a>
+</li>
+</ul>
+</div>
+<div id="content">
+<input type="hidden" name="userhitview" value="" id="userhitview">
+<input type="hidden" name="actual_count" value="" id="actual_count">
+<input type="hidden" name="query_where" value="" id="query_where">
+<input type="hidden" name="query_orderby" value="" id="query_orderby">
+<input type="hidden" name="user_view_type" value="" id="user_view_type">
+<div>
+</div>
+<p>
 Privacy Policy
 </p>
 <p>
 The privacy of our visitors is important to us.
 </p>
 <p>
-At jootix.com, we recognize that privacy of your personal information 
-is important. Here is information on what types of personal information 
-we receive and collect when you use and visit jootix.com, and how we 
-safeguard your information. We never sell your personal information to 
+At jootix.com, we recognize that privacy of your personal information
+is important. Here is information on what types of personal information
+we receive and collect when you use and visit jootix.com, and how we
+safeguard your information. We never sell your personal information to
 third parties - except official investigation cases.
 </p>
 <p>
 Log Files<br>
-As with most other websites, we collect and use the data contained in 
-log files.&nbsp; The information in the log files include&nbsp; your IP (internet 
-protocol) address, your ISP (internet service provider), the browser you used to visit our site (such as Internet 
-Explorer or Firefox), the time you visited our site and which pages you 
+As with most other websites, we collect and use the data contained in
+log files.&nbsp; The information in the log files include&nbsp; your IP (internet
+protocol) address, your ISP (internet service provider), the browser you used to visit our site (such as Internet
+Explorer or Firefox), the time you visited our site and which pages you
 visited throughout our site.
 </p>
 <p>
 Cookies and Web Beacons<br>
-We do use cookies to store information, such as your personal 
-preferences when you visit our site.&nbsp; This could include only showing 
-you a popup once in your visit, or the ability to login to some of our 
+We do use cookies to store information, such as your personal
+preferences when you visit our site.&nbsp; This could include only showing
+you a popup once in your visit, or the ability to login to some of our
 features, such as forums.
 </p>
 <p>
-We also use third party advertisements on jootix.com to support our 
-site.&nbsp; Some of these advertisers may use technology such as cookies and 
-web beacons when they advertise on our site, which will also send these 
-advertisers (such as Google through the Google AdSense program) 
-information including your IP address, your ISP , the browser you used 
+We also use third party advertisements on jootix.com to support our
+site.&nbsp; Some of these advertisers may use technology such as cookies and
+web beacons when they advertise on our site, which will also send these
+advertisers (such as Google through the Google AdSense program)
+information including your IP address, your ISP , the browser you used
 to visit our site, and in some cases, whether you have Flash installed.&nbsp;
 This is generally used for geotargeting purposes (showing New York real
-estate ads to someone in New York, for example) or showing certain ads 
-based on specific sites visited (such as showing cooking ads to someone 
+estate ads to someone in New York, for example) or showing certain ads
+based on specific sites visited (such as showing cooking ads to someone
 who frequents cooking sites).
 </p>
 <p>
 DoubleClick DART cookies<br>
-We also may use DART cookies for ad serving through Google’s 
-DoubleClick, which places a cookie on your computer when you are 
-browsing the web and visit a site using DoubleClick advertising 
-(including some Google AdSense advertisements).&nbsp; This cookie is used to 
-serve ads specific to you and your interests (”interest based 
-targeting”).&nbsp; The ads served will be targeted based on your previous 
-browsing history (For example, if you have been viewing sites about 
-visiting Las Vegas, you may see Las Vegas hotel advertisements when 
-viewing a non-related site, such as on a site about hockey).&nbsp; DART uses 
-“non personally identifiable information”.&nbsp; It does NOT track personal 
-information about you, such as your name, email address, physical 
+We also may use DART cookies for ad serving through Google’s
+DoubleClick, which places a cookie on your computer when you are
+browsing the web and visit a site using DoubleClick advertising
+(including some Google AdSense advertisements).&nbsp; This cookie is used to
+serve ads specific to you and your interests (”interest based
+targeting”).&nbsp; The ads served will be targeted based on your previous
+browsing history (For example, if you have been viewing sites about
+visiting Las Vegas, you may see Las Vegas hotel advertisements when
+viewing a non-related site, such as on a site about hockey).&nbsp; DART uses
+“non personally identifiable information”.&nbsp; It does NOT track personal
+information about you, such as your name, email address, physical
 address, telephone number, social security numbers, bank account numbers
-or credit card numbers.&nbsp; You can opt-out of this ad serving on all 
+or credit card numbers.&nbsp; You can opt-out of this ad serving on all
 sites using this advertising by visiting <a href="http://www.doubleclick.com/privacy/dart_adserving.aspx">http://www.doubleclick.com/privacy/dart_adserving.aspx</a>&nbsp;&nbsp;
 </p>
 <p>
-You can choose to disable or selectively turn off our cookies or 
+You can choose to disable or selectively turn off our cookies or
 third-party cookies in your browser settings, or by managing preferences
 in programs such as Norton Internet Security.&nbsp; However, this can affect
-how you are able to interact with our site as well as other websites.&nbsp; 
-This could include the inability to login to services or programs, such 
+how you are able to interact with our site as well as other websites.&nbsp;
+This could include the inability to login to services or programs, such
 as logging into forums or accounts.
 </p>
 <p>
-Deleting cookies does not mean you are permanently opted out of any 
-advertising program.&nbsp; Unless you have settings that disallow cookies, 
-the next time you visit a site running the advertisements, a new cookie 
+Deleting cookies does not mean you are permanently opted out of any
+advertising program.&nbsp; Unless you have settings that disallow cookies,
+the next time you visit a site running the advertisements, a new cookie
 will be added.
 </p>
 <p>
 &nbsp;
 </p>
-
-																		<br>
-																</div>
-			</div>
-
-			<div id="footer">
-				<div class="inner">
-					<div id="copyrights">
-						
-						<br>&nbsp; 
-<a href="http://jootix.com/Pages/50/Advertise/">Advertise</a> &nbsp; 
-<a href="http://jootix.com/Pages/25/Privacy Policy/">Privacy Policy</a> &nbsp; 
-<a href="http://jootix.com/?module=Pages&amp;id=23">Terms of Service </a> &nbsp;  
-<a href="http://jootix.com/ContactUs/">Contact us</a> &nbsp; 
-<br><br>
+<br>
+</div>
+<div id="loading">Loading ...</div>
+</div>
+<div id="footer">
+<br>
+Follow us on <a href="http://www.facebook.com/JootixWallpapers">Facebook</a> or <a href="http://twitter.com/Jootix">Twitter</a>
+<br>
+<p>
+<a href="http://jootix.com/Pages/50/Advertise/"> Advertise </a> .
+<a href="http://jootix.com/Pages/25/Privacy Policy/"> Privacy Policy </a> .
+<a href="http://jootix.com/?module=Pages&amp;id=23"> Terms of Service </a> .
+<a href="http://jootix.com/ContactUs/"> Contact us</a>
+</p>
+<p>Copyright ©2008 Jootix. Images are for personal, non commercial use.</p>
+<br>
+<!-- AddThis Button BEGIN -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=fouroozesh"></script>
+<!-- AddThis Button END -->
 <script type="text/javascript">var _kiq = _kiq || [];</script>
 <script type="text/javascript" src="//s3.amazonaws.com/ki.js/27636/5ta.js" async="true"></script>
-					</div>
-				</div>
-			</div>
-		</div>
+</div>
+<div id="hiddenModalContent" style="display: none;">
+<div class="userblockdiv">
+<div class="popregleft">
+<form action="/?module=Registration" method="POST">
+<div cellpadding="5" cellspacing="5">
+<div class="block">
+<span class="popregtitle">Create an account</span>
+</div>
+<div class="block">
+<span class="popreglabel">Username:</span>
+<div class="popregfield"><input type="text" value="" name="login" size="20" style="width:225px"></div>
+</div>
+<div class="block">
+<span class="popreglabel">E-mail:</span>
+<div class="popregfield"><input type="text" value="" name="email" size="20" style="width:225px"></div>
+</div>
+<div class="block">
+<span class="popreglabel">Password:</span>
+<div class="popregfield"><input type="password" size="20" name="pass" value="" style="width:225px"></div>
+</div>
+<div class="block">
+</div>
+<div class="block">
+<div></div>
+<div class="popregfield"><input type="checkbox" name="agree" value="1" checked="">
+I agree with
+<a href="/?module=Pages&amp;id=23">Terms of Service</a>
+and <a href="/Pages/25/Privacy%20Policy/">Privacy Policy</a> (required)
+</div>
+</div>
+<div class="block">
+<div></div>
+<div class="popregfield" align="center"><input type="submit" value="Registration" id="submit" style="padding: 5px 5px 5px 5px;">
+<strong><a href="/?module=Authorization"></a></strong>
+</div>
+</div>
+</div>
+</form>
+</div>
+<div class="popregright">
+<form action="/?module=Authorization" method="POST">
+<div class="block">
+<span class="popregtitle">Login</span>
+</div>
+<div class="block">
+<span class="popreglabel">Username:</span><div class="popregfield"><input type="text" name="login" value=""></div>
+</div>
+<div class="block">
+<span class="popreglabel">Password:</span>
+<div class="popregfield"> <input type="password" name="pass"></div>
+</div>
+<div class="block">
+<div></div>
+<div class="popregfield" align="center"><a href="?module=Authorization&amp;file=remind">forgot?</a> <input type="submit" value="Login" class="formSubmit"></div>
+<a href="javascript:void(0)" onclick="check_login_session();" title="Facebook registration or Login" class="fblogin">Facebook</a>
+</div>
+</form>
+<div id="fb-root" class=" fb_reset"><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div><iframe name="f2af4a7e7a1d6dc" frameborder="0" allowtransparency="true" scrolling="no" src="https://www.facebook.com/dialog/oauth?client_id=434740929949798&amp;response_type=token%2Csigned_request%2Ccode&amp;display=none&amp;domain=web.archive.org&amp;origin=1&amp;redirect_uri=https%3A%2F%2Fs-static.ak.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D23%23cb%3Df3baea83c653184%26origin%3Dhttps%253A%252F%252Fweb.archive.org%252Ff387e4b3eebd778%26domain%3Dweb.archive.org%26relation%3Dparent&amp;sdk=joey" style="display: none;"></iframe></div></div><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div><iframe name="fb_xdm_frame_https" frameborder="0" allowtransparency="true" scrolling="no" id="fb_xdm_frame_https" aria-hidden="true" title="Facebook Cross Domain Communication Frame" tab-index="-1" src="https://s-static.ak.facebook.com/connect/xd_arbiter.php?version=23#channel=f387e4b3eebd778&amp;origin=https%3A%2F%2Fweb.archive.org&amp;channel_path=%2Ffb_reg.php%3Ffb_xd_fragment%23xd_sig%3Df1d1055a0d2f71c%26" style="border: none;"></iframe></div></div></div>
+<script> 
 
-		<div id="loading">
-			Loading ...
-		</div>
+window.fbAsyncInit = function() { 
+FB.init({ 
+appId : '434740929949798',
+channelUrl : 'http://jootix.com/fb_reg.php',
+status : true, 
+cookie : true, 
+xfbml : true, 
+oauth : true, 
+}); 
 
-			<script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrf2","beacon-4.newrelic.com","41007f45ab",941334,"b1dSNUMDCkNXB0JYWlYdZRNYTRRcQxcYQV1I",0,33,new Date().getTime()]);</script>
+                        
+}; 
+(function(d){ 
+var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;} 
+js = d.createElement('script'); js.id = id; js.async = true; 
+js.src = "//connect.facebook.net/en_US/all.js"; 
+d.getElementsByTagName('head')[0].appendChild(js); 
+}(document));
 
-<div id="tooltip" style="display: none;"><h3></h3><div class="body"></div><div class="url"></div></div><script type="text/javascript" async="" src="https://d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js"></script></body></html>
+function login_form(){
+	var fbusername = document.getElementById("fblogin").value;
+	var fbpassword = document.getElementById("fbpassword").value;
+	 window.location.href = "http://jootix.com?fblogin=true&fbusername="+fbusername+"&fbpassword="+fbpassword;
+	 
+}
+function check_login_session(){
+	
+       FB.api('/me', function(response) {
+ 		if(response.id){
+			var r=confirm("Do you want to login with "+response.name+"?");
+			if(r==true){
+					$.ajax({
+						type: "POST",
+						url: "http://jootix.com/checkuser.php",
+						data: { email: response.email},
+						success:function( msg ) {
+							if(msg=="yes"){
+							 window.location.href = "http://jootix.com?fblogin=true";
+							}else{
+									$(".userblockdiv").html("<div class='block'>"+
+								"<span class='popregtitle'>Registration by Facebook</span>"+
+								"</div><div class='block'>"+"<span class='popreglabel'>Username:</span>"+
+									"<div class='popregfield'><INPUT type='text' name='login' id='fblogin' size='20' maxlength='24' style='width:270px'/></div>"+
+								"</div>"+"<div class='block'>"+"<span class='popreglabel'>Password:</span>"+
+									"<div class='popregfield'><INPUT type='password' size='20' name='pass' id='fbpassword' value='' maxlength='24' style='width:270px'></div>"+
+								"</div>"+"<div class='block'>"+
+								"<div class='popregfield' align='center'><a href='javascript:void(0)' class='fbregistrationform fblogin' onClick='login_form();' title='Facebook registration or Login'>Registration</a>"+"</div>");
+							}
+						}
+					});
+			}
+			else{
+				FB.logout(function(response) {					
+				
+				FB.login(function(response) {
+					
+					FB.api('/me', function(response) {
+					$.ajax({
+						type: "POST",
+						url: "http://jootix.com/checkuser.php",
+						data: { email: response.email},
+						success:function( msg ) {
+							if(msg=="yes"){
+							 window.location.href = "http://jootix.com?fblogin=true";
+							}else{
+									$(".userblockdiv").html("<div class='block'>"+
+								"<span class='popregtitle'>Registration by Facebook</span>"+
+								"</div><div class='block'>"+"<span class='popreglabel'>Username:</span>"+
+									"<div class='popregfield'><INPUT type='text' name='login' id='fblogin' size='20' maxlength='24' style='width:270px'/></div>"+
+								"</div>"+"<div class='block'>"+"<span class='popreglabel'>Password:</span>"+
+									"<div class='popregfield'><INPUT type='password' size='20' name='pass' id='fbpassword' value='' maxlength='24' style='width:270px'></div>"+
+								"</div>"+"<div class='block'>"+
+								"<div class='popregfield' align='center'><a href='javascript:void(0)' class='fbregistrationform fblogin' onClick='login_form();' title='Facebook registration or Login' >Facebook Registration</a>"+"</div>");
+							}
+						}
+					});
+					});
+				 }, {scope: 'email,user_likes,publish_stream,publish_actions,read_stream'});
+				});
+				
+			}
+		}else{
+			
+			FB.login(function(response) {
+				FB.api('/me', function(response) {
+					
+				 $.ajax({
+						type: "POST",
+						url: "http://jootix.com/checkuser.php",
+						data: { email: response.email},
+						success:function( msg ) {
+							if(msg=="yes"){
+							 window.location.href = "http://jootix.com?fblogin=true";
+							}else{
+									$(".userblockdiv").html("<div class='block'>"+
+								"<span class='popregtitle'>Registration by Facebook</span>"+
+								"</div><div class='block'>"+"<span class='popreglabel'>Username:</span>"+
+									"<div class='popregfield'><INPUT type='text' name='login' id='fblogin' size='20' maxlength='24' style='width:270px'/></div>"+
+								"</div>"+"<div class='block'>"+"<span class='popreglabel'>Password:</span>"+
+									"<div class='popregfield'><INPUT type='password' size='20' name='pass' id='fbpassword' value='' maxlength='24' style='width:270px'></div>"+
+								"</div>"+"<div class='block'>"+
+								"<div class='popregfield' align='center'><a href='javascript:void(0)' class='fbregistrationform fblogin' onClick='login_form();' title='Facebook registration or Login' >Facebook Registration</a>"+"</div>");
+							}
+						}
+					});
+					});
+			 }, {scope: 'email,user_likes,publish_stream,publish_actions,read_stream'});
+		}
+});
+    }
+</script>
+</div>
+</div>
+</div>
+
+</body></html>
