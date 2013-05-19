@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leadmesh.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130202323id_/http%3A//www.leadmesh.com/privacy/safe_harbor.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leadmesh.com privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519045418id_/http%3A//www.leadmesh.com/privacy/safe_harbor.html) for the most accurate reproduction.*
 
 # Safe Harbor Privacy Policy
 
