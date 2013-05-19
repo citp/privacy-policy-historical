@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the crazyabouttv.com privacy policy that was archived on 2012-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121117123805id_/http%3A//www.crazyabouttv.com/miscpages/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crazyabouttv.com privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519071023id_/http%3A//www.crazyabouttv.com/miscpages/privacypolicy.html) for the most accurate reproduction.*
 
 # CrazyAboutTV.com Privacy Policy
 
 |     | 
 
-**Privacy Policy** **  
-CrazyAboutTV.com**
+**Privacy Policy**   
+**CrazyAboutTV.com**
 
   
   
@@ -30,8 +30,5 @@ We sometimes link to other sites. We have no control over the privacy policies o
 
 ## Contact Us:
 
-If you have any questions about our privacy policy feel free to contact us at admin@crazyabouttv.com. Please do not spam our email. We cherish our privacy too.  [](http://www.facebook.com/CrazyAboutTV)   
-  
-  
-Copyright © 1997-2012 CrazyAboutTV.com  
+If you have any questions about our privacy policy feel free to contact us at admin@crazyabouttv.com. Please do not spam our email. We cherish our privacy too.  [](http://www.facebook.com/CrazyAboutTV) Copyright © 1997-2013 CrazyAboutTV.com  
 All rights reserved 
