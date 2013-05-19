@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vpost.com.sg privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617032721id_/http%3A//www.vpost.com.sg/vpost/welcome.jsp%3Fpage%3Dprivacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vpost.com.sg privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519032501id_/http%3A//www.vpost.com.sg/vpost/welcome%3Fpage%3Dinc_privacy.html%26option%3D3) for the most accurate reproduction.*
 
-# vPOST :- Shopping | Shipping | Bill Payment
+# Online Shopping & International Shipping, Online Shops
 
 Welcome to vPOST Privacy Policy. Your privacy is very important to us. Please read the terms of this Privacy Policy before becoming a vPOST member. As part of the normal operation of our services we collect, use and, in some cases, disclose information about you to third parties. 
 
@@ -11,12 +11,8 @@ Although this policy may seem long, we have prepared a detailed policy because w
   * vPOSTUSA 
   * vPOSTJAPAN 
   * vPOSTEUROPE 
-  * Shop@Singapore 
-  * Shop@USA 
-  * Shop@Europe 
-  * Shop@Korea 
-  * Shop@NewZealand 
-  * Shop@China 
+  * vPOSTCHINA 
+  * vPay China 
   * vConcierge 
 
 
@@ -38,7 +34,7 @@ This Privacy Policy contains a number of references to other information pages o
     * External Service Providers
     * Other Corporate Entities
     * Legal Requests
-  5. Your Use of Other Users Information
+  5. Your Use of Other Usersâ?? Information
   6. Control of Your Password
   7. Accessing, Reviewing and Changing Your Personal Information
   8. Other Information Collectors
