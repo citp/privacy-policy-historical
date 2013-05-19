@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheaperseeker.com privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204013453id_/http%3A//www.cheaperseeker.com/page/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheaperseeker.com privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519044724id_/http%3A//www.cheaperseeker.com/page/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
