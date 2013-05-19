@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the project-reason.org privacy policy that was archived on 2012-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121117100205id_/http%3A//www.project-reason.org/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the project-reason.org privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519032239id_/http%3A//www.project-reason.org/privacy_policy) for the most accurate reproduction.*
 
 # Privacy & Security Policy | Project Reason
 
