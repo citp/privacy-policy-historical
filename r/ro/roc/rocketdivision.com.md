@@ -1,37 +1,62 @@
-> *The following text is extracted and transformed from the rocketdivision.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520063940id_/http%3A//www.starwindsoftware.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rocketdivision.com privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519063002id_/http%3A//www.starwindsoftware.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-StarWind Software Inc. is recognizing the importance of protecting your personal information and is committed to safeguarding your privacy online.
+### General Statement
 
-By accessing or using the StarWind Software Web site, you agree to the terms of this StarWind Software Privacy Policy. If you do not agree to these terms, you must not access or use this site.
+StarWind Software, Inc. (“StarWind”) recognizes the importance of protecting the personal information that is collected from its website visitors.
 
-### Personal Information, Gathering
+This StarWind Privacy Policy Document (“Privacy Policy”) defines the types of information that StarWind collects online through the StarWind website (“Website”) and offline through personal communication at different public IT events, such as trade shows etc. The document also describes how we use the personal information that we gather from you.
 
-We will ask your permission to give away any information that we would need to personally identify you or contact you directly ("Personal Information"). Generally this is required when you subscribe for our newsletters or register your copies of our products.
+By using the Website you agree with the terms of this Privacy Policy. If you do not agree to the terms described herein, please do not access or use our Website.
 
-  * When you place an order you are redirected to a secure site, [https://starwindsoftware.cleverbridge.com](https://starwindsoftware.cleverbridge.com/) where you are asked for your name, e-mail, shipping and billing addresses, telephone number, and credit card information.
-  * When you subscribe for our newsletter or information letter about product updates, you are asked for your name and e-mail address.
-  * If you use invalid personal data during registration on our website (non-corporate email, incorrect name, etc), your account may be banned. During one week after registration (or a warning from StarWind Software Inc.) you can edit your profile and enter valid personal data.
-  * We will use your IP address to help identify you and your navigation history on our site. This helps us see which parts of our site users are visiting. We do not link IP addresses to anything personally identifiable. This means, for instance, that a user's session will be tracked, but the user will remain anonymous. We do not use it for any other purposes.
+### Gathering of Personal Information
 
+If you are engaged in any activities on the Website, namely, order products or services, make a price inquiry, pass personal registration, download our software, sign up for events, webinars, contests, and other marketing activities, access certain pages or web media, subscribe to newsletters or webinars, or register yourself to get access to the StarWind Forum or Live Chat, we may ask you for your personal information, which we would then use to identify you or contact you directly.
 
+If you enter invalid personal data during registration on the Website, your account may be banned. During one week after registration, or after a warning message from StarWind, you can edit your profile and enter valid personal data.
 
-When you submit personal information, it is kept in a secure database to ensure that is not subject to any unauthorized data usage.
+We will use your IP-address to identify you and your navigation history on the Website. This helps us view which information and pages are the most demanded and visited. Though a user's session will be tracked, the user remains anonymous. We do not use your IP-address for any other purpose.
 
-### Personal Information, Use of
+### How We Share Your Information
 
-StarWind Software Inc. may share non-personal, summary information regarding its customers with partners or other third parties. However, any individual customer's information provided for partners or third parties under contract with StarWind Software Inc. shall be used only to perform or complete a necessary transaction or function related to the customer's purchase. These transactions or functions shall be in accordance with the terms of this Privacy Policy Statement. StarWind Software Inc. will not share any individual customer's information with anyone except the contracted partners and third parties mentioned above, without first receiving the individual's prior written approval. In some cases, StarWind Software Inc. may use a visitor's personal information to understand overall patterns for web site usage, to contact the user for clarification on inaccurate information, or to follow up on a customer service issue. Personal information may include name, address, telephone number, etc.
+StarWind may submit the non-personal, summary information collected on its website users to its partners, resellers, distributors, and other trusted third parties. However, StarWind guarantees that any individual customer's information shared with partners and other third parties under agreement will only be used to carry out or complete necessary transactions related to the user’s purchase or other activities. These transactions should comply with the terms of this Privacy Policy.
 
-### Online Purchases
+We may share customers’ personal information if it is demanded by law or if it is required to comply with applicable law, or to defend the property rights or interests of StarWind, its employees, or the public.
 
-When you place orders, we redirect you to the cleverbridge site, hosted by "NetCologne" services. Information about their privacy policy can be found at [www.cleverbridge.com](http://www.cleverbridge.com/).
+According to the business circumstances that StarWind may experience, including a merger, reorganization, or bankruptcy, StarWind may sell or transfer its property, including the customers’ and users’ personal information.
+
+### How We Use Your Personal Information
+
+StarWind will use your personal information to enable your participation in certain activities that you have selected, and manage the cooperation between you and StarWind. The following are examples of how we may use the information that you submit to us:
+
+  * Register you in the StarWind database;
+  * Deliver products, services, or information that you have requested;
+  * Communicate with you regarding the contests that you selected to participate at;
+  * Ensure customer support services;
+  * Fulfill the obligations that we take upon signing agreements with you;
+  * Process and keep a record of your transactions;
+  * Answer your questions and respond to your comments;
+  * Analyze statistics with regard to visitors’ activities on the Website.
+
+  
+
 
 ### Links to Other Sites
 
-The [www.starwindsoftware.com](http://www.starwindsoftware.com/) site contains links to other sites. Be aware that StarWind Software Inc. is not responsible for the privacy practices or content of such Web Sites as well as any information they might collect, even though our name or logo may appear on those sites. We encourage you to be aware of this when you leave our site, and to read the Privacy Statements of each and every Web site that you visit, as the privacy policy of those sites may differ from ours. Our Privacy Statement applies solely to [www.starwindsoftware.com](http://www.starwindsoftware.com/).
+The StarWind official Website - [www.starwindsoftware.com](https://www.starwindsoftware.com/) \- contains links to other sites which are not controlled by StarWind. The company is not responsible for the content placed on those websites as well as for any personal information they may ask for, even though the StarWind name or logo may appear on those websites. We encourage you to be aware of this fact when you leave the StarWind Website, and to read the Privacy Policy of every site that you visit, as the terms of privacy policy may differ from that of StarWind. Our Privacy Policy applies solely to the StarWind Website.
 
 ### Cookies
 
-A cookie is a small piece of information that a web site stores on your computer. When you revisit the web site, your browser sends the information back to that site. A cookie does not contain any Personal Information. The use of cookies is not required to browse through our site but it does enable us to better serve you when you return to our site by recording how and when you use it. You can set your browser to refuse cookies, but if you do, you might not be able to take full advantage of our site.  
+A cookie is an information file that is stored on your computer by a website that you are visiting. It does not contain any personal information. When you visit the website again, your browser sends the information back to that site.
+
+You are not required to use cookies for browsing through the StarWind Website but they help us serve you in the best possible way when you return to our Website again.
+
+You can disable cookies in your browser but, in this case, you might not be able to take full advantage of the StarWind Website.
+
+### How We Protect Your Personal Information
+
+All personal information that you submit through the Website is stored in the StarWind database that can be accessed only by the StarWind authorized users. However, we cannot guarantee 100% safety of your data since any security system can be cracked. We cannot guarantee that the data you are submitting through our Website will not be intercepted while in transmission. If you do not want to submit any information that you are asked for, do not write this information in any forms offered by our Website.
+
+**Notice** [8] Undefined index: login **in** /srv/www/vhosts/en.starwindsoftware.com/frontend/views/helpers/Counters.php **on** 27  
 
