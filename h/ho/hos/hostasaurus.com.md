@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostasaurus.com privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119035000id_/http%3A//www.hostasaurus.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostasaurus.com privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519192745id_/http%3A//www.hostasaurus.com/privacy.php) for the most accurate reproduction.*
 
 # Hostasaurus Web Hosting, Miva Merchant Hosting, Dedicated Miva Servers
 
@@ -61,7 +61,7 @@
 > 
 
 > 
-> Hostasaurus.Com disclaims any intention to censor, edit, or engage in ongoing review or surveillance of communications stored on or transmitted through its facilities by customers or others. Hostasaurus.Com will, however, review, delete, or block access to communications that may harm Hostasaurus.Com, its customers or third parties. The grounds on which Hostasaurus.Com may take such action include, but are not limited to, actual or potential violations of Hostasaurus.Com's [Terms of Service](https://web.archive.org/web/20121119035000id_/http%3A//www.hostasaurus.com/tos.php). 
+> Hostasaurus.Com disclaims any intention to censor, edit, or engage in ongoing review or surveillance of communications stored on or transmitted through its facilities by customers or others. Hostasaurus.Com will, however, review, delete, or block access to communications that may harm Hostasaurus.Com, its customers or third parties. The grounds on which Hostasaurus.Com may take such action include, but are not limited to, actual or potential violations of Hostasaurus.Com's [Terms of Service](https://web.archive.org/web/20130519192745id_/http%3A//www.hostasaurus.com/tos.php). 
 > 
 > Customers may opt out of receiving newsletters and/or notices of new or upgraded products from Hostasaurus.Com by sending a request to [privacy@hostasaurus.com](mailto:privacy@hostasaurus.com). In this request, customers must identify their contact information. 
 > 
