@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iskoot.com privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119042252id_/http%3A//www.iskoot.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iskoot.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520133014id_/http%3A//www.iskoot.com/privacy) for the most accurate reproduction.*
 
 # » Privacy Statement
 
@@ -8,19 +8,15 @@ THE SERVICES ARE NOT INTENDED FOR USE BY PERSONS UNDER THE AGE OF 14. IF YOU ARE
 
 #### US Safe Harbor Registration:
 
-The United States Department of Commerce has agreed with the European Commission and the government of Switzerland on a set of data protection principles and frequently asked questions to enable U.S. companies to satisfy the requirements under European Union law and Swiss law that adequate protection be given to personal information transferred from the European Economic Area (“EEA”) and/or Switzerland to the United States (collectively the “Safe Harbor”). The EEA and Switzerland also have recognized the Safe Harbor as providing adequate data protection. Consistent with its commitment to protect personal privacy, iSkoot adheres to the principles set forth in the Safe Harbor.
+We comply with the U.S. \- E.U. Safe Harbor framework and the U.S. \- Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. We certify that we adhere to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certification, please visit http://www.export.gov/safeharbor/.
 
 #### Personally identifiable Information that we may collect:
 
-The web notification service allows you to receive incoming online messages from your personal accounts in web content services, such as web-mail services, RSS feeds and messaging services, to your cellular phone. During the initial setup, after selecting your preferred services you will be asked to provide access information, such as user name and passwords, to your accounts for those services. The Service will retrieve and aggregate Online Content from your preferred services and deliver highlights of the Online Content to your cellular phone. You may then request to receive additional related information. We will store your online content and your access information for the duration of the content delivery session, and then delete the information from our systems.
-
-Some of the Services may require registration. In the course of registration we may ask you to provide personal information, such as your name, contact details and e-mail address. We will explicitly indicate the fields designated for mandatory completion. If you do not enter the requisite data in the mandatory fields, you will not be able to register with these Services. We may collect further information when you exchange communications with us, for example, when you submit an inquiry or contact our support team.
+The web notification service allows you to receive incoming online messages from your personal accounts in web content services, such as web-mail services, RSS feeds and messaging services, to your cellular phone. During the initial setup, after selecting your preferred services you will be asked to provide access information, such as user name and passwords, to your accounts for those services. The Service will retrieve and aggregate Online Content from your preferred services and deliver highlights of the Online Content to your cellular phone. You may then request to receive additional related information. We will store your online content and your access information for the duration of the content delivery session, and then delete the information from our systems. Some of the Services may require registration. In the course of registration we may ask you to provide personal information, such as your name, contact details and e-mail address. We will explicitly indicate the fields designated for mandatory completion. If you do not enter the requisite data in the mandatory fields, you will not be able to register with these Services. We may collect further information when you exchange communications with us, for example, when you submit an inquiry or contact our support team.
 
 #### Username and password
 
-Certain Services such as the web notification service will require you to provide a username and set a unique password that will identify you each time you use the Service. From time to time, we may require other or additional means or methods of identification.
-
-You agree to maintain your username and password in absolute confidentiality and refrain from disclosing such to others. Make sure that you change your password frequently and at least once every six months.
+Certain Services such as the web notification service will require you to provide a username and set a unique password that will identify you each time you use the Service. From time to time, we may require other or additional means or methods of identification. You agree to maintain your username and password in absolute confidentiality and refrain from disclosing such to others. Make sure that you change your password frequently and at least once every six months.
 
 #### What do we do with your personally identifiable information?
 
@@ -54,21 +50,21 @@ We do not sell, rent or lease your personally identifiable information to third 
   * In any case of dispute, or legal proceeding of any kind between you and us, or between you and other users or third parties with respect to, or in relation with the Services;
   * In any case where we may reasonably believe that sharing information is necessary to prevent imminent physical harm or damage to property;
   * If we organize the operation of the Services within a different framework, or through another legal structure or entity, or if we are acquired by, or merged with another entity, provided however, that those entities agree to be bound by the provisions of this policy;
-  * We may also share personally identifiable information with companies or organizations connected, or affiliated with us, such as subsidiaries, sister-companies and parent companies, with the express provision that their use of such information must comply with this policy.
+  * We may also share personally identifiable information with companies or organizations connected, or affiliated with us, such as subsidiaries, sister-companies and parent companies, with the express provision that their use of such information must comply with this policy; except for personal data transferred from the European Economic Area and Switzerland, which we only share with companies affiliated with us that process data on our behalf or if we transfer the personal data using other legal mechanisms (e.g, consent).
 
 
 
 #### Log files and aggregated information
 
-When you use the Services, we may automatically collect further information and store it in web-server log files. For example, we may record the frequency and scope of your use of the Website, the duration of your sessions, the web pages that you visit, advertisements that you view or click on, and the geographic location of the computer system that you are using to sign-in or use the Services.
+When you use the Services, we may automatically collect further information and store it in web-server log files. For example, we may record the frequency and scope of your use of the Website, the duration of your sessions, the web pages that you visit, advertisements that you view or click on, and the geographic location of the computer system that you are using to sign-in or use the Services. 
 
 We may use anonymous, statistical or aggregated information, including by posting, disseminating, transmitting or otherwise communicating or making available such information through the Services, and by providing the information to users, suppliers, business partners, affiliates and any other third party, at our sole discretion, provided however, that the information will not identify you personally and that we will not knowingly, or intentionally use such information to reveal your identity without your consent, under the terms of this policy.
 
-We may also use anonymous, statistical or aggregated information to properly operate and administer the Services, to improve the quality of the Services, to enhance your experience and customize the Services, to create new services, to change or cancel existing content or services and to facilitate other internal, functional and statistical purposes.
+We may also share personally identifiable information with companies or organizations connected, or affiliated with us, such as subsidiaries, sister-companies and parent companies, with the express provision that their use of such information must comply with this policy
 
 #### Accessing your personal account
 
-At any time, you may contact us at: [support@iskoot.com](mailto:support@iskoot.com) and request to edit, correct, or amend your personal information. Please keep in mind that providing false, incorrect, incomplete, or out dated information may prevent you from registering with or using the Services, and/or may impair our ability to provide you with the Services.
+At any time, you may contact us at: [privacysupport@iskoot.com](mailto:privacysupport@iskoot.com) and request to edit, correct, or amend your personal information. Please keep in mind that providing false, incorrect, incomplete, or out dated information may prevent you from registering with or using the Services, and/or may impair our ability to provide you with the Services.
 
 #### Data retention
 
@@ -80,9 +76,7 @@ If you wish to delete your personally identifiable information that is stored in
 
 #### Information security
 
-We implement information security systems and procedures to secure the information stored on our servers. Such systems and procedures reduce the risk of security breaches, but they do not provide absolute security. Therefore, we cannot guarantee that our services are immune to unauthorized access to the information stored therein and to other information-security risks.
-
-We do not warrant that your personal information will be stored for the required durations, or that your personal information will not be retrieved after being deleted.
+We implement information security systems and procedures to secure the information stored on our servers. Such systems and procedures reduce the risk of security breaches, but they do not provide absolute security. Therefore, we cannot guarantee that our services are immune to unauthorized access to the information stored therein and to other information-security risks. We do not warrant that your personal information will be stored for the required durations, or that your personal information will not be retrieved after being deleted.
 
 #### Children
 
@@ -90,16 +84,14 @@ Our Services are intended for general audiences and are not directed to children
 
 #### Safe Harbor Dispute Resolution
 
-We participate in the EU and Swiss Safe Harbor Privacy Framework as set forth by the United States Department of Commerce. As part of our participation in the safe harbor, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework. If you have any complaints regarding our compliance with the Safe Harbor you should first contact us (as provided above). If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by Internet here, fax to 415-520-3420, or mail to TRUSTe Safe Harbor Compliance Dept., click for mailing address. If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe’s dispute resolution process, click here or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English. For human resources data we have agreed to cooperate with data Protection Authorities.
+As part of our participation in Safe Harbor, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework. If you have any complaints regarding our compliance with the Safe Harbor you should first contact us (as provided above). If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by Internet here, fax to 415-520-3420, or mail to TRUSTe Safe Harbor Compliance Dept., click for mailing address. If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe’s dispute resolution process, click here or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English. For human resources data we have agreed to cooperate with data Protection Authorities.
 
 #### Changes to this Privacy Policy
 
-We may change and update the terms of this policy from time to time. We therefore recommend that you read it periodically. All substantial changes that we make to this policy will be posted on the Website and take effect 7 days after their initial posting, unless we amend the policy to comply with legal requirements. In the latter cases the amendments will become effective immediately upon their initial posting, or as required.
-
-Continuing to use the Services will indicate your consent to the amended policy.
+We may change and update the terms of this policy from time to time. We therefore recommend that you read it periodically. All substantial changes that we make to this policy will be posted on the Website and take effect 7 days after their initial posting, unless we amend the policy to comply with legal requirements. In the latter cases the amendments will become effective immediately upon their initial posting, or as required. Continuing to use the Services will indicate your consent to the amended policy.
 
 #### Contact us
 
-You are welcome to contact us with requests, comments and questions at the Contact us page on the Website write to us at Qualcomm iSkoot, Inc., Attn: Legal Department, 5775 Morehouse Drive, San Diego, CA 92121.
+You are welcome to contact us with requests, comments and questions at the Contact us page on the Website write to us at Qualcomm iSkoot, Inc., Attn: Legal Department, 5775 Morehouse Drive, San Diego, CA 92121. 
 
-Last update: November, 2011
+Last update: March 27, 2013
