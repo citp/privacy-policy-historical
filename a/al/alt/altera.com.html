@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the altera.com privacy policy that was archived on 2012-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121231135028id_/http%3A//www.altera.com/common/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the altera.com privacy policy that was archived on 2013-05-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130520185732id_/http%3A//www.altera.com/common/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -21,7 +21,7 @@
 <!-- Copyright (c) 1996-2007 WebTrends Inc.  All rights reserved. -->
 <!-- V8.0 -->
 <!-- $DateTime: 2007/02/02 09:07:21 $ -->
-<script type="text/javascript" async="" src="//img.en25.com/i/elqCfg.min.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/js.lib/common2008.js" language="javascript" type="text/javascript"></script>
+<script src="/js.lib/common2008.js" language="javascript" type="text/javascript"></script>
 <noscript>
 <img src="http://sdc.altera.com/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=8.0.2" alt="" border="0" name="DCSIMG" width="1" height="1" style="visibility:hidden;" />
 </noscript>
@@ -33,7 +33,7 @@
 
 
 <!-- Google Analytics -->
-<script type="text/javascript">
+<!--<script type="text/javascript">
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-31812208-1']);
   _gaq.push(['_setDomainName', 'altera.com']);
@@ -45,11 +45,11 @@
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
-</script>
+</script>-->
 <!-- Google Analytics -->
 
 <!-- Eloqua Page Tracking -->
-<script type="text/javascript">
+<!--<script type="text/javascript">
 var _elqQ = _elqQ || []; _elqQ.push(['elqSetSiteId', '1680167719']);
 _elqQ.push(['elqTrackPageView']);
 (function () {
@@ -61,33 +61,50 @@ var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s,
 if (window.addEventListener) window.addEventListener('DOMContentLoaded', async_load, false);
 else if (window.attachEvent) window.attachEvent('onload', async_load);
 })();
-</script>
+</script>-->
 <!-- Eloqua Page Tracking -->
+
+<!-- CSS and Javascript for GSA Auto-Suggest Functionality -->
+<link href="/js.lib/gsa/autosuggest/autosuggest.css" rel="stylesheet" type="text/css"> 
+<script language="javascript" src="/js.lib/gsa/autosuggest/common.js"></script>
+<script language="javascript" src="/js.lib/gsa/autosuggest/xmlhttp.js"></script>
+<script language="javascript" src="/js.lib/gsa/autosuggest/uri.js"></script>
+<script language="javascript" src="/js.lib/gsa/autosuggest/autosuggest.js"></script>
+<script language="javascript" src="/js.lib/gsa/autosuggest/ssH.js"></script>
+<!-- CSS and Javascript for GSA Auto-Suggest Functionality -->
+
+<div class="header-top-container">
 
 <!-- begin top banner -->
 <div class="top-banner">
-	<a href="/"><img src="/common/template/08/altera-logo.gif" alt="FPGA, CPLD, and ASIC solutions from Altera" class="altera-logo"></a>
+	<a href="/"><img src="/common/template/08/altera-logo-v3.png" alt="FPGA, CPLD, and ASIC solutions from Altera" class="altera-logo"></a>
+    <div class="top-banner-altera-30years"><img src="/common/template/08/altera-logo-30year-v1.png" width="130" height="65" alt="30 year anniversary logo"></div>
 	
 	<div id="languageBlock" class="language-block" style="display:none;">
         <a id="languageDropdown" class="language-dropdown">English Site</a>
         <ul id="languageMenu" class="language-menu">
-            <li id="lang-zh_CN"><a href="http://www.altera.com.cn/" style="color:#333;" onclick="_gaq.push(['_link', 'http://www.altera.com.cn/']); return false;">简体中文</a></li>
-            <li id="lang-ja"><a href="http://www.altera.co.jp/" style="color:#333;" onclick="_gaq.push(['_link', 'http://www.altera.co.jp/']); return false;">日本語</a></li>			
+            <!--<li id="lang-zh_CN"><a href="http://www.altera.com.cn/" style="color:#333;" onclick="_gaq.push(['_link', 'http://www.altera.com.cn/']); return false;">简体中文</a></li>
+            <li id="lang-ja"><a href="http://www.altera.co.jp/" style="color:#333;" onclick="_gaq.push(['_link', 'http://www.altera.co.jp/']); return false;">日本語</a></li>-->
+            <li id="lang-zh_CN"><a href="http://www.altera.com.cn/" style="color:#333;">简体中文</a></li>
+            <li id="lang-ja"><a href="http://www.altera.co.jp/" style="color:#333;">日本語</a></li>		
         </ul>
 	</div>
 	
+
+     
 	<span class="top-banner-right">
         <div id="search-form" class="search-form">
-            <form action="/cgi-bin/devsearch.pl" name="theSearchForm" class="search-form2" onsubmit="return isSearchFormCompleted(this);">
+            <form action="/cgi-bin/devsearch.pl" id="suggestion_formH" name="theSearchForm" class="search-form2" onsubmit="return isSearchFormCompleted(this);">
             <input type="hidden" name="pn" value="0">
-            <input type="text" name="q" maxlength="512" id="searchQuery" class="search-query2" align="absbottom" value="" onfocus="resetSearchField(this);" onblur="resetSearchField(this);">&nbsp;<span id="searchDropdown" class="search-dropdown"></span><span id="searchButton" class="search-button"></span>
+            <input type="text" name="q" maxlength="512" id="searchQuery" class="search-query2" align="absbottom" value="" onfocus="resetSearchField(this);" onblur="resetSearchField(this);" autocomplete="off" onkeyup="ss_handleKeyH(event)">&nbsp;<span id="searchDropdown" class="search-dropdown"></span><span id="searchButton" class="search-button"></span>
             <ul id="collectionMenu" class="collection-menu2">
                 <li>All Altera Sites</li>
                 <li>Knowledge Base</li>
                 <li>Support &amp; Technical Docs</li>
                 <li>Forums &amp; Wiki</li>
             </ul>
-            <input type="hidden" name="site" value="www">
+            <table cellpadding="0" cellspacing="0" class="ss-gac-m" style="top:22px; left:237px; width: 320px; visibility: hidden;" id="search_suggestH"></table>
+            <input type="hidden" name="site" value="www"><input type="hidden" name="client" value="www_frontend">
             </form>
         </div>
 
@@ -149,7 +166,8 @@ else if (window.attachEvent) window.attachEvent('onload', async_load);
 		<li><a href="/devices/cpld/cpld-index.html">CPLDs</a></li>
 		<li><a href="/devices/fpga/fpga-index.html">FPGAs</a></li>
 		<li><a href="/devices/asic/asic-index.html">ASICs</a></li>
-		<li><a href="/devices/processor/emb-index.html">SoCs/Processors</a></li>
+		<li><a href="/devices/processor/soc-fpga/overview/proc-soc-fpga.html">SoCs</a></li>
+		<li><a href="/devices/processor/emb-index.html">Processors</a></li>
 	</ul>
 	<!--[if lte IE 6]></td></tr></table></a><![endif]-->
 	</li>
@@ -160,7 +178,7 @@ else if (window.attachEvent) window.attachEvent('onload', async_load);
 		<li><a href="/products/software/sfw-index.jsp">Design Software</a></li>
 		<li><a href="/products/ip/ipm-index.html">Intellectual Property</a></li>
 		<li><a href="/products/devkits/kit-index.html">Development Kits/Cables</a></li>
-		<li><a href="/products/design_services/dsv-index.html">Design &amp; Support Services</a></li>
+		<li><a href="/products/design_services/dsv-index.jsp">Design &amp; Support Services</a></li>
 	</ul>
 	<!--[if lte IE 6]></td></tr></table></a><![endif]-->
 	</li>
@@ -185,7 +203,7 @@ else if (window.attachEvent) window.attachEvent('onload', async_load);
 	<li><a class="hide" href="/technology/tc-index.html">Technology</a>
 	<!--[if lte IE 6]><a href='/technology/tc-index.html'>Technology<table><tr><td><![endif]-->
 	<ul>
-		<li><a href="/technology/system-tech/20nm-index.html">20 nm System Technology</a></li>
+		<li><a href="/technology/system-tech/next-gen-technologies.html">Next-Generation Technologies</a></li>
 		<li><a href="/technology/system-design/sys-index.jsp">System Design</a></li>
 		<li><a href="/technology/dsp/dsp-index.jsp">DSP</a></li>
 		<li><a href="/technology/memory/mem-index.jsp">External Memory</a></li>
@@ -213,6 +231,7 @@ else if (window.attachEvent) window.attachEvent('onload', async_load);
 		<li><a href="/support/design-support-resources/spt-index-guide.html">Design &amp; Support Resources</a></li>
 		<li><a href="/support/kdb/kdb-index.jsp">Knowledge Center</a></li>
 		<li><a href="/support/devices/dvs-index.html">Devices</a></li>
+		<li><a href="/support/reliability/qual-rel-index.html">Quality &amp; Reliability</a></li>
 		<li><a href="/support/software/sof-index.html">Design Software</a></li>
 		<li><a href="/support/ip/ips-index.html">Intellectual Property</a></li>
 		<li><a href="/support/devkits/devkits-index.html">Development Kits/Cables</a></li>
@@ -464,20 +483,20 @@ else if (window.attachEvent) window.attachEvent('onload', async_load);
     
     <table cellpadding="3" border="0" class="footer-icons"><tbody><tr valign="top">
     <td>
-        <a href="http://www.alteraforum.com" onclick="dcsMultiTrack('DCS.dcssip','www.alteraforum.com','DCS.dcsuri','/','DCS.dcsref',window.location.pathname,'WT.ti','Offsite:Altera%20Forum');"><img class="footer-icon" src="/common/template/08/icon-forum.gif" alt="Altera Forum"></a><br>
-        <a href="http://www.alteraforum.com" onclick="dcsMultiTrack('DCS.dcssip','www.alteraforum.com','DCS.dcsuri','/','DCS.dcsref',window.location.pathname,'WT.ti','Offsite:Altera%20Forum');">Altera<br>Forum</a>
+        <a href="http://www.alteraforum.com"><img class="footer-icon" src="/common/template/08/icon-forum.gif" alt="Altera Forum"></a><br>
+        <a href="http://www.alteraforum.com">Altera<br>Forum</a>
     </td>
     <td>
-        <a href="http://www.alterawiki.com" onclick="dcsMultiTrack('DCS.dcssip','www.alterawiki.com','DCS.dcsuri','/','DCS.dcsref',window.location.pathname,'WT.ti','Offsite:Altera%20Wiki');"><img class="footer-icon" src="/common/template/08/icon-wiki.gif" alt="Altera Wiki"></a><br>
-        <a href="http://www.alterawiki.com" onclick="dcsMultiTrack('DCS.dcssip','www.alterawiki.com','DCS.dcsuri','/','DCS.dcsref',window.location.pathname,'WT.ti','Offsite:Altera%20Wiki');">Altera<br>Wiki</a>
+        <a href="http://www.alterawiki.com"><img class="footer-icon" src="/common/template/08/icon-wiki.gif" alt="Altera Wiki"></a><br>
+        <a href="http://www.alterawiki.com">Altera<br>Wiki</a>
     </td>
     <td>
-        <a href="/subscribe-elq" onclick="dcsMultiTrack('DCS.dcssip','www.altera.com','DCS.dcsuri','/subscribe-elq','DCS.dcsref',window.location.pathname,'WT.ti','Offsite:Email%20Updates');"><img class="footer-icon" src="/common/template/08/icon-email.gif" alt="Email Updates"></a><br>
-        <a href="/subscribe-elq" onclick="dcsMultiTrack('DCS.dcssip','www.altera.com','DCS.dcsuri','/subscribe-elq','DCS.dcsref',window.location.pathname,'WT.ti','Offsite:Email%20Updates');">Email<br>Updates</a>
+        <a href="/subscribe-elq"><img class="footer-icon" src="/common/template/08/icon-email.gif" alt="Email Updates"></a><br>
+        <a href="/subscribe-elq">Email<br>Updates</a>
     </td>
     <td align="center">
-        <a href="/corporate/follow-us.html" onclick="dcsMultiTrack('DCS.dcsref',window.location.pathname,'WT.ti','Offsite:Follow%20Us');"><img class="footer-icon" src="/common/template/08/icon-follow-us.gif" alt="Follow Us"></a><br>
-        <a href="/corporate/follow-us.html" onclick="dcsMultiTrack('DCS.dcsref',window.location.pathname,'WT.ti','Offsite:Follow%20Us');">Follow<br>Us</a>
+        <a href="/corporate/follow-us.html"><img class="footer-icon" src="/common/template/08/icon-follow-us.gif" alt="Follow Us"></a><br>
+        <a href="/corporate/follow-us.html">Follow<br>Us</a>
     </td>
     </tr></tbody></table>
 
@@ -494,11 +513,12 @@ else if (window.attachEvent) window.attachEvent('onload', async_load);
 <!--googleon:all-->
 
 
-</div>
 
 </div>
 
+</div>
 
 
 
-</body></html>
+
+</div></body></html>
