@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hoodamath.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106084052id_/http%3A//hoodamath.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hoodamath.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520174458id_/http%3A//hoodamath.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -25,19 +25,11 @@ You can view the privacy policies for each ad company by following the links bel
 
 DoubleClick Ad Exchanges: <http://www.google.com/intl/en/privacy/ads/privacy-policy.html>
 
-BURST! Media: <http://www.burstmedia.com/privacy.asp>
-
 Google Adsense: <http://www.google.com/intl/en/privacy/ads/privacy-policy.html>
 
 #### Our Cookies and other user information gathering
 
 Our flash games use cookies to save data on your computer so the user can keep playing where the user can start at the same place they left
-
-We also use cookies for our Badges and Math Quiz features. Badges uses cookies to keep a user logged in to their Badges account where they collect online stickers. Math Quiz also keeps the user logged in to their Math Quiz account to take tests and see reports of those tests
-
-The information we collect such as names, schools, email addresses, etc. are never sold to a 3rd party. They are used to gather data for more information about the users of Hooda Math®. We use email addresses to also send out an occasional newsletter which contains an opt-out option.
-
-Only exception to our privacy of our data is if a hacker broke into our site illegally
 
 #### External Links  
 
