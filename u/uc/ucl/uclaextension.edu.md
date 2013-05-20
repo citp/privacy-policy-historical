@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uclaextension.edu privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503153315id_/https%3A//www.uclaextension.edu/str/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uclaextension.edu privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520085948id_/https%3A//www.uclaextension.edu/pages/str/privacy.aspx) for the most accurate reproduction.*
 
 # UCLA Extension: Privacy Policy
 
@@ -22,7 +22,7 @@ Contact information furnished on these forms may be used by University departmen
 We use your IP address to help diagnose problems with our server and to administer our website. In this context, you as an individual remain anonymous. We may collect and distribute aggregate statistics about our website visitors, traffic patterns, and related site information. These statistics do not include any information that allows for identification of an individual in any manner. 
 
 **Sending Your Information**   
-We send materials to our students and those who express interest in UCLA Extension to help you stay abreast of our courses, programs, and special events. At any time, if you wish to be removed from our mailing lists, click [here](https://web.archive.org/r/EmailUnsubscribe.aspx "link to unsubscribe.") and enter your mailing or email address and select the preferences that you no longer wish to receive, then click the "Unsubscribe" button. We will be happy to remove you from our contact list as you request. 
+We send materials to our students and those who express interest in UCLA Extension to help you stay abreast of our courses, programs, and special events. At any time, if you wish to be removed from our mailing lists, click [here](https://web.archive.org/pages/EmailUnsubscribe.aspx "link to unsubscribe.") and enter your mailing or email address and select the preferences that you no longer wish to receive, then click the "Unsubscribe" button. We will be happy to remove you from our contact list as you request. 
 
 **Security**   
 Data you enter during a visit to our site is stored on systems using appropriate physical, electronic, and management procedures to safeguard and secure all information we collect online. Any sensitive or personal data, such as credit card or purchase information that you enter for online enrollment purposes is transmitted in an encrypted form and requires the use of a secure browser. 
