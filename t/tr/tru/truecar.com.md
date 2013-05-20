@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the truecar.com privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028085133id_/http%3A//www.truecar.com/legal/privacy%3Fpopup) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truecar.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520232614id_/http%3A//www.truecar.com/privacy) for the most accurate reproduction.*
 
 # TrueCar Privacy Policy
 
@@ -40,7 +40,8 @@ None of the PII that you provide to us when using this website or the Service is
 We may include an application or widget from a third party on some pages of this website and on some of the pages of our partner websites on which the Service is available that allows interaction or content sharing by users. “Widgets” are mini-programs that provide specific services or content from a third party. These widgets, such as a Facebook “Share” or “Like” button, are visible to you on the webpage you visit. The third party providing the widget may offer controls for you to manage the widget’s appearance and functionality. Your interaction with a widget typically allows the third party to collect some information about you through the third party’s cookies or its registration information. In some cases, the third party may recognize you through its widgets and cookies even when you do not interact with the widget. Please visit the following third-parties’ respective privacy policy to better understand their data collection practices and controls they make available to you (click to visit their websites):
 
 [Facebook](http://www.facebook.com/policy.php)  
-[Twitter](https://twitter.com/privacy)
+[Twitter](https://twitter.com/privacy)  
+
 
 ## Advertisements, Ad Networks and Other Third Parties
 
@@ -54,7 +55,8 @@ Please note this does not opt you out of being served advertising. If you use th
 
 [DoubleClick](http://www.google.com/privacy/ads/)  
 [Jumpstart](http://www.jumpstartautomotivegroup.com/privacy_policy)  
-[Commission Junction](http://www.cj.com/privacy_web_user.html)
+[Commission Junction](http://www.cj.com/privacy_web_user.html)  
+
 
 ## Links
 
@@ -77,7 +79,7 @@ If TrueCar materially changes its practices regarding collection or use of your 
 If you have any questions or concerns about this Privacy Policy, or you do not wish to receive any information from us, please contact us at [privacy@truecar.com](mailto:privacy@truecar.com) or at:
 
 TrueCar, Inc.  
-225 Santa Monica, 12th Floor  
+120 Broadway, Suite 200  
 Santa Monica, CA 90401  
-1-800-584-5000  
+888-TrueCar  
 
