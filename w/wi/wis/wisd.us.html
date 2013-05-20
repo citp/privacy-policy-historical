@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the wisd.us privacy policy that was archived on 2012-10-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121004045451id_/http%3A//www.wisd.us/%3FL%3D1%26PN%3DMainPage%26DivisionID%3D%252710285%2527%26DepartmentID%3D%2527%2527%26SubDepartmentID%3D%2527%2527%26TabNo%3D2) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wisd.us privacy policy that was archived on 2013-05-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130520143639id_/http%3A//www.wisd.us/%3FL%3D1%26PN%3DMainPage%26DivisionID%3D%252710285%2527%26DepartmentID%3D%2527%2527%26SubDepartmentID%3D%2527%2527%26TabNo%3D2) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 	
@@ -116,7 +116,7 @@ body > div#ToggleNav .formButtonHover {margin-bottom: 3px;}/* non-IE browsers on
 						<input type="submit" name="Submit" value="" class="formButton" onmouseover="this.className='formButtonHover'" onmouseout="this.className='formButton'" onclick="javascript:return ValidateUser();"> &nbsp;
 						<input type="hidden" name="ClientID" value="417" class="formitem">
 						<input type="hidden" name="SiteID" value="652" class="formitem">
-						<input type="hidden" name="SessID" value="528143532" class="formitem">
+						<input type="hidden" name="SessID" value="246584217" class="formitem">
 						<input type="hidden" name="DestURL" value="http://www.wisd.us" class="formitem">
 						<input type="hidden" name="SiteServerName" value="www.wisd.us" class="formitem">
 						<input type="hidden" name="ProductName" value="SAMO" class="formitem">
@@ -162,17 +162,184 @@ body > div#ToggleNav .formButtonHover {margin-bottom: 3px;}/* non-IE browsers on
 
 	<title>Weslaco ISD  :: </title>
 	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+	
 	<meta name="Keywords" content="Weslaco ISD ">
 	<meta name="Description" content="Weslaco ISD ">
 	<meta name="Author" content="Weslaco ISD ">
 	<meta name="ROBOTS" content="INDEX, FOLLOW">
 	<meta http-equiv="imagetoolbar" content="no">
+	
 	<link href="/CommonTemplates/SiteElements/Styles/Include-Styles.asp" type="text/css" rel="stylesheet">
 	<link href="http://images.pcmac.org/Websites/WeslacoISD/WeslacoISD/Styles.css" rel="stylesheet" type="text/css">
 	<!--script src="http://images.pcmac.org/Websites/WeslacoISD/WeslacoISD/JavaScripts.js" type="text/javascript"></script-->
 	
 
+<link href="JavaScripts/pirobox1.2.2/css_pirobox/css.css" rel="stylesheet" type="text/css">
+<link href="JavaScripts/pirobox1.2.2/css_pirobox/demo4/style.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="JavaScripts/pirobox1.2.2/js/jquery.min.js"></script>
+<script type="text/javascript" src="JavaScripts/pirobox1.2.2/js/pirobox.min.js"></script>
 <script type="text/javascript">
+//-----------------------------------------------------------------------------------------------
+//Edit CSS, currently set up for Pirobox fix
+//-----------------------------------------------------------------------------------------------
+	function getCSSRule(ruleName, deleteFlag) {               // Return requested style obejct
+	   ruleName=ruleName.toLowerCase();    
+	   
+		if (document.styleSheets) {                            
+			for (var i=0; i<document.styleSheets.length; i++) { 
+				var styleSheet=document.styleSheets[i];
+				var styleSheetHref = styleSheet.href;
+				if ((styleSheetHref != null) && (styleSheetHref.indexOf("pirobox") != -1))
+					piroStyle = i;
+			}
+
+			var styleSheet=document.styleSheets[piroStyle];
+			 var ii=0;                                        // Initialize subCounter.
+			 var cssRule=false;                               // Initialize cssRule. 
+
+			 do {                                             // For each rule in stylesheet
+				if (styleSheet.cssRules) {                    // Browser uses cssRules?
+				   cssRule = styleSheet.cssRules[ii];         // Yes --Mozilla Style
+				} else {                                      // Browser usses rules?
+				   cssRule = styleSheet.rules[ii];            // Yes IE style. 
+				}                                             // End IE check.
+
+				if (cssRule)  {                               // If we found a rule...
+				   if ((typeof(cssRule.selectorText) != 'undefined') && (cssRule.selectorText.toLowerCase()==ruleName)) { //  match ruleName?
+					  if (deleteFlag=='delete') {             // Yes.  Are we deleteing?
+						 if (styleSheet.cssRules) {           // Yes, deleting...
+							styleSheet.deleteRule(ii);        // Delete rule, Moz Style
+						 } else {                             // Still deleting.
+							styleSheet.removeRule(ii);        // Delete rule IE style.
+						 }                                    // End IE check.
+						 return true;                         // return true, class deleted.
+					  } else {                                // found and not deleting.
+						 return cssRule;                      // return the style object.
+					  }                                       // End delete Check
+				   }                                          // End found rule name
+				}                                             // end found cssRule
+				ii++;                                         // Increment sub-counter
+			 } while (cssRule)  
+		}
+		return false;
+	}
+
+
+	function killCSSRule(ruleName) {                          // Delete a CSS rule   
+	   return getCSSRule(ruleName,'delete');                  // just call getCSSRule w/delete flag.
+	}                                                         // end killCSSRule
+
+	function addCSSRule(ruleName) {                           // Create a new css rule
+	   if (document.styleSheets) {                            // Can browser do styleSheets?
+		  if (!getCSSRule(ruleName)) {                        // if rule doesn't exist...
+			 if (document.styleSheets[0].addRule) {           // Browser is IE?
+				document.styleSheets[0].addRule(ruleName, null,0);      // Yes, add IE style
+			 } else {                                         // Browser is IE?
+				document.styleSheets[0].insertRule(ruleName+' { }', 0); // Yes, add Moz style.
+			 }                                                // End browser check
+		  }                                                   // End already exist check.
+	   }                                                      // End browser ability check.
+	   return getCSSRule(ruleName);                           // return rule we just created.
+	} 
+//-----------------------------------------------------------------------------------------------
+
+
+//-----------------------------------------------------------------------------------------------
+//Get/Set cookies for mobile site
+//-----------------------------------------------------------------------------------------------
+	function createCookie(name,value,days) {
+		if (days) {
+			var date = new Date();
+			date.setTime(date.getTime()+(days*24*60*60*1000));
+			var expires = "; expires="+date.toGMTString();
+		}
+		else var expires = "";
+		document.cookie = name+"="+value+expires+"; path=/";
+	}
+
+	function readCookie(name) {
+		var nameEQ = name + "=";
+		var ca = document.cookie.split(';');
+		for(var i=0;i < ca.length;i++) {
+			var c = ca[i];
+			while (c.charAt(0)==' ') c = c.substring(1,c.length);
+			if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+		}
+		return null;
+	}
+
+	function eraseCookie(name) {
+		createCookie(name,"",-1);
+	}
+	
+	
+	
+	var fullSite = readCookie('FullSite');
+	var mobileDev = readCookie('MobileDevice');
+	
+	if(fullSite && mobileDev) {
+		if((fullSite != 'True') && (mobileDev == 'True'))
+			window.location = 'http://www.wisd.us/mobile/default.asp';
+	}
+//-----------------------------------------------------------------------------------------------
+
+
+//-----------------------------------------------------------------------------------------------
+//photo album / lightbox init
+//-----------------------------------------------------------------------------------------------
+	$(document).ready(function() {
+		$().piroBox({
+				my_speed: 400, //animation speed
+				bg_alpha: 0.7, //background opacity
+				slideShow : true, // true == slideshow on, false == slideshow off
+				slideSpeed : 4, //slideshow duration in seconds(3 to 6 Recommended)
+				close_all : '.piro_close,.piro_overlay'// add class .piro_overlay(with comma)if you want overlay click close piroBox
+		});
+	});
+
+	var UserAgent = navigator.userAgent;
+	//alert(UserAgent);
+	if (UserAgent.indexOf("MSIE 10") != -1)
+		TheAgent = "IE10"
+	else{
+		if (UserAgent.indexOf("MSIE") != -1)
+			TheAgent = "IE"
+		else
+			TheAgent = ""
+	}
+	
+	//Pirobox + Google Translate workaround for non-IE browsers. Dynamically changes CSS for pirobox after the translate widget has loaded.
+	if (TheAgent == ""){
+		theTimeout = setTimeout('GoogleCountdown()', 2000);	
+	}
+	
+	function GoogleCountdown() {
+		var element =  document.getElementById('google_translate_element');
+		if ((typeof(element) != 'undefined') && (element != null))
+		{
+			var PiroContent = getCSSRule('.pirobox_content');
+			var w = window,
+				d = document,
+				e = d.documentElement,
+				g = d.getElementsByTagName('body')[0],
+				//x = w.innerWidth || e.clientWidth || g.clientWidth,
+				y = w.innerHeight|| e.clientHeight|| g.clientHeight;
+				
+			
+			if(y < 700)
+				PiroContent.style.top = "16%";
+			else{
+				if(y > 900)
+					PiroContent.style.top = "23%";
+				else
+					PiroContent.style.top = "20%";
+			}
+			
+		}
+	}
+//-----------------------------------------------------------------------------------------------
+	
+	
 	//Use onClick=SlideLink() in the slide show overlay for slide links work
 	function SlideLink() {
 		X = document.getElementById('canvas0_0');
@@ -296,7 +463,7 @@ function inputLabel(id, defaultTxt) {
 <p><strong>Elementary Schools</strong></p>
 <div class="SchoolListing"><a href="http://airportelem.tx.wde.schoolinsites.com">Airport Elementary</a></div>
 <div class="SchoolListing"><a href="http://anricoelem.tx.wde.schoolinsites.com">A.N. Rico Elementary</a></div>
-<div class="SchoolListing"><a href="http://cleckler-healdelem.tx.wde.schoolinsites.com">Clecker Heald Elementary</a></div>
+<div class="SchoolListing"><a href="http://cleckler-healdelem.tx.wde.schoolinsites.com">Cleckler Heald Elementary</a></div>
 <div class="SchoolListing"><a href="http://drremargoelem.tx.wde.schoolinsites.com">Dr. R.E. Margo Elementary</a></div>
 <div class="SchoolListing"><a href="http://fdrooseveltelem.tx.wde.schoolinsites.com">F.D. Roosevelt Elementary</a></div>
 <div class="SchoolListing"><a href="http://marioybarra.tx.wds.schoolinsites.com">Mario Ybarra Elementary</a></div>
@@ -364,7 +531,7 @@ function inputLabel(id, defaultTxt) {
 <div class="SchoolListing"><a href="http://weslacoisd.schoolinsites.com/?DivisionID=8650&amp;DepartmentID=8623&amp;SubDepartmentID=4073&amp;ToggleSideNav=DepartmentOnly" target="_blank">Special Education</a></div>
 <div class="SchoolListing"><a href="http://weslacoisd.schoolinsites.com/Default.asp?PN=MainPage&amp;L=3&amp;DivisionID=8650&amp;DepartmentID=8623&amp;SubDepartmentID=4074&amp;LMID=385049&amp;ToggleSideNav=DepartmentOnly" target="_blank">Staff Development</a></div>
 <div class="SchoolListing"><a href="http://weslacoisd.schoolinsites.com/?DivisionID=8650&amp;DepartmentID=12661&amp;ToggleSideNav=DepartmentOnly" target="_blank">State Assessment</a></div>
-<div class="SchoolListing"><a href="http://weslacoisd.schoolinsites.com/?DivisionID=8650&amp;DepartmentID=8748&amp;ToggleSideNav=DepartmentOnly" target="_blank">Student Support Services</a></div>
+<div class="SchoolListing"><a href="http://weslacoisd.schoolinsites.com/?DivisionID=8650&amp;DepartmentID=8623&amp;SubDepartmentID=4076&amp;ToggleSideNav=DepartmentOnly">Student Support Services</a></div>
 <div class="SchoolListing"><a href="http://weslacoisd.schoolinsites.com/?DivisionID=8650&amp;DepartmentID=9193&amp;ToggleSideNav=DepartmentOnly" target="_blank">Support Services</a></div>
 <div class="SchoolListing"><a href="http://weslacoisd.schoolinsites.com/?DivisionID=8650&amp;DepartmentID=8618&amp;ToggleSideNav=">Technology</a></div>
 <div class="SchoolListing"><a href="http://www.wisd.us/?DivisionID=8650&amp;DepartmentID=8618&amp;SubDepartmentID=3481&amp;ToggleSideNav=DepartmentOnly" target="_blank">Evaluation &amp; Accountability</a></div>
@@ -388,10 +555,11 @@ function inputLabel(id, defaultTxt) {
                   <ul id="ImageDropMenuCalendar" class="ImageDropMenuShadow">
 						<div style="padding: 5px;">
 						<p><a href="http://weslacoisd.schoolinsites.com/Default.asp?PN=%27Calendar%27&amp;ShowNav=%27Yes%27" target="_blank">District Calendar </a></p>
-<p><a href="http://www.wisd.us/Download.asp?L=0&amp;LMID=318640&amp;PN=DocumentUploads&amp;DivisionID=&amp;DepartmentID=&amp;SubDepartmentID=&amp;SubP=Documents&amp;Act=Download&amp;T=1&amp;I=202110" target="_blank">2013 State Assessment Calendar</a></p>
+<p><a href="http://www.wisd.us/Download.asp?L=0&amp;LMID=318640&amp;PN=DocumentUploads&amp;DivisionID=&amp;DepartmentID=&amp;SubDepartmentID=&amp;SubP=&amp;Act=Download&amp;T=1&amp;I=218038" target="_blank">2013 State Assessment Calendar</a></p>
 <p><a href="http://www.wisd.us/Download.asp?L=0&amp;LMID=318640&amp;PN=DocumentUploads&amp;DivisionID=&amp;DepartmentID=&amp;SubDepartmentID=&amp;SubP=&amp;Act=Download&amp;T=1&amp;I=164029" target="_blank">10/11 Academic Calendar (PDF)</a></p>
 <p><a href="http://www.wisd.us/Download.asp?L=0&amp;LMID=318640&amp;PN=DocumentUploads&amp;DivisionID=&amp;DepartmentID=&amp;SubDepartmentID=&amp;SubP=&amp;Act=Download&amp;T=1&amp;I=164030" target="_blank">11/12 Academic Calendar (PDF)</a></p>
 <p><a href="http://www.wisd.us/Download.asp?L=0&amp;LMID=318640&amp;PN=DocumentUploads&amp;DivisionID=&amp;DepartmentID=&amp;SubDepartmentID=&amp;SubP=Documents&amp;Act=Download&amp;T=1&amp;I=194212" target="_blank">12/13 Academic Calendar (PDF)</a></p>
+<p><a href="http://www.wisd.us/Download.asp?L=0&amp;LMID=318640&amp;PN=DocumentUploads&amp;DivisionID=&amp;DepartmentID=&amp;SubDepartmentID=&amp;SubP=Documents&amp;Act=Download&amp;T=1&amp;I=252785" target="_blank">13/14 Academic Calendar (PDF)</a></p>
 						</div>
                   </ul>
                </li>  
@@ -465,16 +633,16 @@ function inputLabel(id, defaultTxt) {
 				 
 						<div class="UniversalQuickLinksTitle"><span>Quick Links</span></div>
 					 
+						<a href="http://www.wisd.us/?L=3&amp;DivisionID=9195&amp;DepartmentID=9388&amp;SubDepartmentID=4146&amp;TabNo=4" target="_blank" class="UniversalQuickLinks">
+							Administrative Library (Secure Site) 
+						</a> 
+						 
 						<a href="http://www.wisd.us/Download.asp?L=0&amp;LMID=318640&amp;PN=DocumentUploads&amp;DivisionID=&amp;DepartmentID=&amp;SubDepartmentID=&amp;SubP=Documents&amp;Act=Download&amp;T=1&amp;I=201143" target="_blank" class="UniversalQuickLinks">
 							CTE Annual Notification  
 						</a> 
 						 
 						<a href="http://www.wisd.us/Default.asp?PN=EmploymentCategorized&amp;L=2&amp;DivisionID=8650&amp;DepartmentID=8617&amp;LMID=355097&amp;ToggleSideNav=DepartmentOnly" target="_blank" class="UniversalQuickLinks">
 							Job Vacancies 
-						</a> 
-						 
-						<a href="http://www.wisd.us/?L=3&amp;DivisionID=9195&amp;DepartmentID=9388&amp;SubDepartmentID=4146&amp;TabNo=4" target="_blank" class="UniversalQuickLinks">
-							Administrative Library (Secure Site) 
 						</a> 
 						 
 						<a href="http://www.uiltexas.org/health/safety-training" target="_blank" class="UniversalQuickLinks">
@@ -860,7 +1028,7 @@ function MM_preloadImages() { //v3.0
 <a href="http://www.schoolinsites.com/"><img src="images/SisPoweredSmall.png" name="PoweredBy" width="120" height="30" border="0" id="PoweredBy" nicetitle="Powered and Designed by SCHOOLinSITES"></a></td>
 <td width="50%" align="left"></td>
 <td>
-<p class="right style1">Copyright © 2011-2012 &nbsp;Weslaco ISD </p></td>
+<p class="right style1">Copyright © 2012-2013 &nbsp;Weslaco ISD </p></td>
 </tr>
 </tbody></table>
 </div>
@@ -959,4 +1127,4 @@ function MM_preloadImages() { //v3.0
 </script>
 
 
-</div><div id="nicetitlecontainer" class="nicetitle" style="display: none;"></div></body></html>
+</div><div class="piro_overlay" style="display: none; opacity: 0.7; height: 6001px;"></div><table class="pirobox_content" cellpadding="0" cellspacing="0" style="display: none;"><tbody><tr><td colspan="3" class="pirobox_up"><a href="#close" class="piro_close" nicetitle="close"></a></td></tr><tr><td class="t_l"></td><td class="t_c"></td><td class="t_r"></td></tr><tr><td class="c_l"></td><td class="c_c"><span><span></span></span><div></div></td><td class="c_r"></td></tr><tr><td class="b_l"></td><td class="b_c"></td><td class="b_r"></td></tr><tr><td colspan="3" class="pirobox_down"><div class="piro_nav"><div class="piro_caption"></div></div><a href="#play" class="play" nicetitle="play slideshow" style="display: none;"></a><a href="#prev" class="piro_prev" nicetitle="previous image"></a><a href="#next" class="piro_next" nicetitle="next image"></a></td></tr></tbody></table><div id="imgCache" style="display:none"></div><div id="nicetitlecontainer" class="nicetitle" style="display: none;"></div></body></html>
