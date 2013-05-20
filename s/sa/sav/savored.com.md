@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the savored.com privacy policy that was archived on 2012-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121117210424id_/http%3A//savored.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savored.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520075905id_/http%3A//savored.com/privacy) for the most accurate reproduction.*
 
 # Savored
 
