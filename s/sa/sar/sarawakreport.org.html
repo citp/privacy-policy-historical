@@ -1,15 +1,13 @@
-<!--The following is the downloaded HTML source of the sarawakreport.org privacy policy that was archived on 2012-11-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121119160147id_/http%3A//www.sarawakreport.org/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sarawakreport.org privacy policy that was archived on 2013-05-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130520123139id_/http%3A//www.sarawakreport.org/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US"><head profile="http://gmpg.org/xfn/11">
-	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-	<title>Privacy Policy |  Sarawak Report</title>
-
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Privacy Policy | Sarawak Report</title>
 <link rel="stylesheet" href="http://www.sarawakreport.org/site/wp-content/plugins/sitepress-multilingual-cms/res/css/language-selector.css?v=2.0.4.1" type="text/css" media="all">
-	<link rel="stylesheet" href="http://www.sarawakreport.org/site/wp-content/themes/sarawak4/style.css" type="text/css" media="screen">
-	<link rel="pingback" href="http://www.sarawakreport.org/site/xmlrpc.php">
-
-	<link rel="alternate" type="application/rss+xml" title="Sarawak Report » Feed" href="http://www.sarawakreport.org/feed/">
+<link rel="stylesheet" href="http://www.sarawakreport.org/site/wp-content/themes/sarawak4/style.css" type="text/css" media="screen">
+<link rel="pingback" href="http://www.sarawakreport.org/site/xmlrpc.php">
+<link rel="alternate" type="application/rss+xml" title="Sarawak Report » Feed" href="http://www.sarawakreport.org/feed/">
 <link rel="alternate" type="application/rss+xml" title="Sarawak Report » Comments Feed" href="http://www.sarawakreport.org/comments/feed/">
 <link rel="alternate" type="application/rss+xml" title="Sarawak Report » Privacy Policy Comments Feed" href="http://www.sarawakreport.org/privacy-policy/feed/">
 <link rel="stylesheet" id="mailchimpSF_main_css-css" href="http://www.sarawakreport.org/?mcsf_action=main_css&amp;ver=3.4.2" type="text/css" media="all">
@@ -17,10 +15,10 @@
 <link rel='stylesheet' id='mailchimpSF_ie_css-css'  href='http://www.sarawakreport.org/site/wp-content/plugins/mailchimp/css/ie.css?ver=3.4.2' type='text/css' media='all' />
 <![endif]-->
 <link rel="stylesheet" id="jetpack-widgets-css" href="http://www.sarawakreport.org/site/wp-content/plugins/jetpack/modules/widgets/widgets.css?ver=20121003" type="text/css" media="all">
-<link rel="stylesheet" id="sharedaddy-css" href="http://www.sarawakreport.org/site/wp-content/plugins/jetpack/modules/sharedaddy/sharing.css?ver=0.3.1" type="text/css" media="all">
+<link rel="stylesheet" id="sharedaddy-css" href="http://www.sarawakreport.org/site/wp-content/plugins/jetpack/modules/sharedaddy/sharing.css?ver=2.1.1" type="text/css" media="all">
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=139492312746513"></script><script type="text/javascript" src="http://www.sarawakreport.org/site/wp-includes/js/jquery/jquery.js?ver=1.7.2"></script>
 <script type="text/javascript" src="http://www.sarawakreport.org/site/wp-content/plugins/mailchimp/js/scrollTo.js?ver=1.2.10"></script>
-<script type="text/javascript" src="http://www.sarawakreport.org/site/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.18"></script>
+<script type="text/javascript" src="http://www.sarawakreport.org/site/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.23"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var mailchimpSF = {"ajax_url":"http:\/\/www.sarawakreport.org\/"};
@@ -29,7 +27,74 @@ var mailchimpSF = {"ajax_url":"http:\/\/www.sarawakreport.org\/"};
 <script type="text/javascript" src="http://www.sarawakreport.org/site/wp-content/plugins/mailchimp/js/mailchimp.js?ver=1.2.10"></script>
 <link rel="canonical" href="http://www.sarawakreport.org/privacy-policy/">
 <link rel="shortlink" href="http://wp.me/PRbTX-w">
-<!-- WALL= --><script type="text/javascript">
+ <script type="text/javascript">
+function limitChars(textid, limit, infodiv)
+{
+	var text = jQuery('#'+textid).val();
+	var textlength = text.length;
+	if(textlength > limit)
+	{
+		jQuery('#' + infodiv).html('You cannot write more then '+limit+' characters!');
+		jQuery('#'+textid).val(text.substr(0,limit));
+		return false;
+	}
+	else
+	{
+		jQuery('#' + infodiv).html('You have '+ (limit - textlength) +' characters left.');
+		return true;
+	}
+}
+function displayVals() {
+      var t3 = jQuery("#t3").val();
+      var amount = jQuery("#amount").val();
+      if(t3 != 0){
+	    jQuery('#a3').val(amount);
+	    jQuery('#p3').val(1);
+		  jQuery('#src').val(1);
+		   jQuery('#srt').val(2);
+		jQuery('#cmd').val('_xclick-subscriptions')
+	  }else{
+	  	jQuery('#a3').val(0);
+	  	jQuery('#p3').val(0);
+		jQuery('#src').val(0);
+		jQuery('#srt').val(0);
+	  	jQuery('#cmd').val('_donations');
+	  }
+	  if( !t3 ) jQuery('#cmd').val('_donations');
+
+}
+
+jQuery(function(){
+ 	jQuery('#donor_comment').keyup(function(){
+ 		limitChars('donor_comment', 199, 'charinfo');
+ 	})
+
+ 	jQuery("#amount").change(displayVals);
+ 	jQuery("#t3").change(displayVals);
+ 	displayVals();
+
+ 	var WallOps1 = '<p class="show_onwall" id="wallops"><input type="hidden" name="item_number" value="0:0" /></p>';
+ 	var WallOps2 = '<p class="show_onwall" id="wallops"><label for="show_onwall">Show on Wall:</label><br /><select name="item_number" style="margin-left: 0px !important;"><option value="1:0">Amount, User Details &amp; Comments</option><option value="2:0">User Details &amp; Comments Only</option></select></p>';
+
+ 	if( jQuery('#recognize').is(':checked') == false){
+ 		jQuery('#wallinfo').hide();
+ 		jQuery("#wallops").html(WallOps1);
+ 	}
+
+ 	jQuery("#recognize").click(function(){
+ 		jQuery("#wallinfo").toggle('slow');
+ 		if(jQuery('#wallops input').val() == '0:0'){
+ 			jQuery("#wallops").html(WallOps2);
+ 		}else{
+ 			jQuery("#wallops").html(WallOps1);
+ 		}
+ 	})
+
+
+});
+
+</script>
+ <script type="text/javascript">
 function limitChars(textid, limit, infodiv)
 {
 	var text = jQuery('#'+textid).val();	
@@ -92,44 +157,37 @@ jQuery(function(){
 });
 
 </script>
-        <script type="text/javascript">var icl_lang = 'en';var icl_home = 'http://www.sarawakreport.org/';</script>
+<script type="text/javascript">var icl_lang = 'en';var icl_home = 'http://www.sarawakreport.org/';</script>
 <script type="text/javascript" src="http://www.sarawakreport.org/site/wp-content/plugins/sitepress-multilingual-cms/res/js/sitepress.js"></script>
 <meta name="generator" content="WPML ver:2.0.4.1 stt:1,61,64,65;0;0;0">
-
-	<link rel="Shortcut Icon" href="http://www.sarawakreport.org/site/wp-content/themes/sarawak4/a/favicon.ico" type="image/x-icon">
-	<link rel="apple-touch-icon" href="http://www.sarawakreport.org/site/wp-content/themes/sarawak4/a/sarawak-touch.png">
-	<meta name="MSSmartTagsPreventParsing" content="true"> 
-	<meta http-equiv="imagetoolbar" content="false">
-	<meta name="author" content="Sarawak Report">
-	<meta name="Copyright" content="Copyright (c) Sarawak Report">
-
-	
-	<script type="text/javascript" src="//use.typekit.net/naa0vdl.js"></script>
-	<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
-
-	<meta name="google-site-verification" content="zme9HB8EuRcscPPucF4wcJDB35v58BTt_kIB8NNH5Zo">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-
-	<script type="text/javascript" src="//use.typekit.net/naa0vdl.js"></script>
-	<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
-
-	<meta property="fb:app_id" content="139492312746513">
-
-	<!--[if IE 6]><link rel="stylesheet" type="text/css" href="http://www.sarawakreport.org/site/wp-content/themes/sarawak4/c/ie6.css" /><![endif]-->
-	<!--[if IE 7]><link rel="stylesheet" type="text/css" href="http://www.sarawakreport.org/site/wp-content/themes/sarawak4/c/ie7.css" /><![endif]-->
-	<!--[if IE 8]><link rel="stylesheet" type="text/css" href="http://www.sarawakreport.org/site/wp-content/themes/sarawak4/c/ie8.css" /><![endif]-->	
-	<link rel="stylesheet" href="http://www.sarawakreport.org/site/wp-content/themes/sarawak4/c/print.css" type="text/css" media="print">
-	
-	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>						
-	<script src="http://www.sarawakreport.org/site/wp-content/themes/sarawak4/j/jquery.cycle.all.min.js"></script>
-	<script src="http://www.sarawakreport.org/site/wp-content/themes/sarawak4/j/mobile.js"></script>
-	<script src="http://www.sarawakreport.org/site/wp-content/themes/sarawak4/j/site.js"></script>
-	
-
+ 
+<meta property="og:type" content="article">
+<meta property="og:title" content="Privacy Policy">
+<meta property="og:url" content="http://www.sarawakreport.org/privacy-policy/">
+<meta property="og:description" content="This privacy policy relates to the website located at http://sarawakreport.org (the “Website”).&nbsp; It explains how We use Your Personal Information (as defined below). This privacy policy...">
+<meta property="og:site_name" content="Sarawak Report">
+<link rel="Shortcut Icon" href="http://www.sarawakreport.org/site/wp-content/themes/sarawak4/a/favicon.ico" type="image/x-icon">
+<link rel="apple-touch-icon" href="http://www.sarawakreport.org/site/wp-content/themes/sarawak4/a/sarawak-touch.png">
+<meta name="MSSmartTagsPreventParsing" content="true">
+<meta http-equiv="imagetoolbar" content="false">
+<meta name="author" content="Sarawak Report">
+<meta name="Copyright" content="Copyright (c) Sarawak Report">
+<script type="text/javascript" src="//use.typekit.net/naa0vdl.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+<meta name="google-site-verification" content="zme9HB8EuRcscPPucF4wcJDB35v58BTt_kIB8NNH5Zo">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta property="fb:app_id" content="139492312746513">
+<!--[if IE 6]><link rel="stylesheet" type="text/css" href="http://www.sarawakreport.org/site/wp-content/themes/sarawak4/c/ie6.css" /><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" type="text/css" href="http://www.sarawakreport.org/site/wp-content/themes/sarawak4/c/ie7.css" /><![endif]-->
+<!--[if IE 8]><link rel="stylesheet" type="text/css" href="http://www.sarawakreport.org/site/wp-content/themes/sarawak4/c/ie8.css" /><![endif]-->
+<link rel="stylesheet" href="http://www.sarawakreport.org/site/wp-content/themes/sarawak4/c/print.css" type="text/css" media="print">
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<script src="http://www.sarawakreport.org/site/wp-content/themes/sarawak4/j/jquery.cycle.all.min.js"></script>
+<script src="http://www.sarawakreport.org/site/wp-content/themes/sarawak4/j/mobile.js"></script>
+<script src="http://www.sarawakreport.org/site/wp-content/themes/sarawak4/j/hide.js"></script>
+<script src="http://www.sarawakreport.org/site/wp-content/themes/sarawak4/j/site.js"></script>
 </head>
-
 <body class="page page-id-32 page-template-default">
-
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
@@ -138,93 +196,66 @@ jQuery(function(){
   js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=139492312746513";
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
-
 <div id="header" class="clearfix">
-	<div class="frame">
-	
-	
-		<div class="time">
-		<span>	
-		Kuching: 20 November 2012 00:01</span>
-		<span>	
-		London: 19 November 2012 16:01</span>
-		</div>
-		
-		<ul class="headersocial">
-			<li class="rss-header"><a href="/feed" title="Subscribe to our RSS feed">RSS</a></li>
-			<li class="facebook-header"><a href="http://facebook.com/sarawakreport" title="Like us on Facebook">Facebook</a></li>
-			<li class="twitter-header"><a href="http://twitter.com/sarawak_report" title="Follow us on Twitter">Twitter</a></li>
-		</ul>
-			
-		<div class="mc_custom_border_hdr">Sign up for updates</div><!-- /mc_custom_border_hdr -->	
+<div class="frame">
+<div class="time">
+<span>
+Kuching: 20 May 2013 20:31</span>
+<span>
+London: 20 May 2013 13:31</span>
+</div>
+<ul class="headersocial">
+<li class="rss-header"><a href="/feed" title="Subscribe to our RSS feed">RSS</a></li>
+<li class="facebook-header"><a href="http://facebook.com/sarawakreport" title="Like us on Facebook">Facebook</a></li>
+<li class="twitter-header"><a href="http://twitter.com/sarawak_report" title="Follow us on Twitter">Twitter</a></li>
+</ul>
+<div class="mc_custom_border_hdr">Sign up for updates</div> 
 <div id="mc_signup">
-	<form method="post" action="#mc_signup" id="mc_signup_form">
-		<input type="hidden" id="mc_submit_type" name="mc_submit_type" value="html">
-		<input type="hidden" name="mcsf_action" value="mc_submit_signup_form">
-		<input type="hidden" id="_mc_submit_signup_form_nonce" name="_mc_submit_signup_form_nonce" value="5ea4d82127">		
-		
-	<div class="mc_form_inside">
-		
-		<div class="updated" id="mc_message">
-					</div><!-- /mc_message -->
-
-		
+<form method="post" action="#mc_signup" id="mc_signup_form">
+<input type="hidden" id="mc_submit_type" name="mc_submit_type" value="html">
+<input type="hidden" name="mcsf_action" value="mc_submit_signup_form">
+<input type="hidden" id="_mc_submit_signup_form_nonce" name="_mc_submit_signup_form_nonce" value="8c890ea748">
+<div class="mc_form_inside">
+<div class="updated" id="mc_message">
+</div> 
 <div class="mc_merge_var">
-		
-	<input type="text" size="18" placeholder="Email address" value="" name="mc_mv_EMAIL" id="mc_mv_EMAIL" class="mc_input">
-</div><!-- /mc_merge_var -->
-		<div class="mc_signup_submit">
-			<input type="submit" name="mc_signup_submit" id="mc_signup_submit" value="Subscribe" class="button">
-		</div><!-- /mc_signup_submit -->
-	
-	
-				
-	</div><!-- /mc_form_inside -->
-	</form><!-- /mc_signup_form -->
-</div><!-- /mc_signup_container -->
-											
-		
-		<h1 id="sitename"><a title="Sarawak Report" href="/">Sarawak<span>Report</span></a></h1>
-				
-		<div class="languages"><ul id="menu-languages" class="menu"><li id="menu-item-9525" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9525"><a href="/iba/news/">Iban</a></li>
+<input type="text" size="18" placeholder="Email address" value="" name="mc_mv_EMAIL" id="mc_mv_EMAIL" class="mc_input">
+</div> 
+<div class="mc_signup_submit">
+<input type="submit" name="mc_signup_submit" id="mc_signup_submit" value="Subscribe" class="button">
+</div> 
+</div> 
+</form> 
+</div> 
+<h1 id="sitename"><a title="Sarawak Report" href="/">Sarawak<span>Report</span></a></h1>
+<div class="election-mapping"><a href="http://election.sarawakreport.org">Election Mapping</a></div>
+<div class="languages"><ul id="menu-languages" class="menu"><li id="menu-item-9525" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9525"><a href="/iba/news/">Iban</a></li>
 <li id="menu-item-9526" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9526"><a href="/ms/news/">Malay</a></li>
 <li id="menu-item-9527" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9527"><a href="/zh-hans/news">中文</a></li>
-</ul></div>		
-		<div class="menu-header"><ul id="menu-top" class="menu"><li id="menu-item-13257" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13257"><a href="/">Home</a></li>
-<li id="menu-item-8821" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8821"><a href="http://www.sarawakreport.org/superarchive/">Archive</a></li>
+</ul></div>
+<div class="menu-header"><ul id="menu-top" class="menu"><li id="menu-item-13257" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13257"><a href="/">Home</a></li>
+<li id="menu-item-8821" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8821"><a href="http://www.sarawakreport.org/superarchive/">Story archive</a></li>
 <li id="menu-item-2387" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2387"><a href="http://www.sarawakreport.org/about/">About</a></li>
 <li id="menu-item-7544" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7544"><a href="http://www.sarawakreport.org/donate/">Donate</a></li>
 <li id="menu-item-2385" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2385"><a href="http://www.sarawakreport.org/contact/">Contact</a></li>
-</ul></div>					
-			
-	</div><!--/frame -->
-		
-</div><!--/header -->
-
+</ul></div>
+</div> 
+</div> 
 <div class="frame subnav clearfix">
-
-	<div class="menu-verytop-container"><ul id="menu-verytop" class="menu"><li id="menu-item-9532" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9532"><a href="http://map.sarawakreport.org">Mapping Taib’s Corruption</a></li>
+<div class="menu-verytop-container"><ul id="menu-verytop" class="menu"><li id="menu-item-9532" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9532"><a href="http://map.sarawakreport.org">Mapping Taib’s Corruption</a></li>
 <li id="menu-item-9531" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9531"><a title="Sarawak’s only independent Radio Station" href="http://radiofreesarawak.org">Radio Free Sarawak</a></li>
 </ul></div>
-	<form action="/" method="get" accept-charset="utf-8" id="searchform">
-	<input class="text" type="text" name="s" id="search" placeholder="Search">
-	<input type="submit" id="searchsubmit" value="Search">
+<form action="/" method="get" accept-charset="utf-8" id="searchform">
+<input class="text" type="text" name="s" id="search" placeholder="eg. landgrabs">
+<input type="submit" id="searchsubmit" value="Search">
 </form>
-
-
-
 </div>
 <div id="content">
-	<div class="frame">
-	
-	<div id="archive-content">
-	
-			
-			<div class="post-32 page type-page status-publish hentry" id="post-32">
-
-			<h1 class="pagetitle">Privacy Policy</h1>
-
-			<p>This privacy policy relates to the website located at <a href="http://sarawakreport.org">http://sarawakreport.org</a> (the “Website”).&nbsp; It explains how We use Your Personal Information (as defined below).</p>
+<div class="frame">
+<div id="archive-content">
+<div class="post-32 page type-page status-publish hentry" id="post-32">
+<h1 class="pagetitle">Privacy Policy</h1>
+<p>This privacy policy relates to the website located at <a href="http://sarawakreport.org">http://sarawakreport.org</a> (the “Website”).&nbsp; It explains how We use Your Personal Information (as defined below).</p>
 <p>This privacy policy is incorporated in and subject to Our Website terms and conditions – <a title="http://www.outoftrouble.org.uk/terms-and-conditions" href="http://sarawakreport.org/terms-and-conditions">http://sarawakreport.org/terms-and-conditions</a> – (the “Website Terms”).&nbsp; By accessing or using the Website, signing up to receive email updates, or requesting an event ticket, You agree to be bound by This privacy policy and expressly consent to Our use of Your Personal Information in accordance with This privacy policy.</p>
 <h3>What if “Your Personal Information”?</h3>
 <p>“Your Personal Information” means any information about You which is personally identifiable or otherwise relates to You.&nbsp; This information includes, without limitation, Your name, address, date of birth, telephone number, email address, other contact details, financial details, comments, transactions, call requests and other information from which You can be identified and which You may disclose to Us at any time.</p>
@@ -263,54 +294,45 @@ For more information on cookies and how to disable them, You can consult the inf
 <p>This privacy policy is subject to change, so please check it regularly.&nbsp; We retain the right to amend or vary this policy on notice.&nbsp; If the purposes for which data is collected change, We will notify You of this change as soon as possible.&nbsp; If required, We will also obtain Your consent, for instance, where the data constitutes an additional data collection purpose.</p>
 <h3>Contact us</h3>
 <p>If You have any comments or queries in connection with this privacy policy, please contact Us by one of the following methods:</p>
-<p>Email: <a href="mailto:info@sarawakreport.org">info@sarawakreport.org</a></p>
-
-			
-			</div>
-	
-				
-		</div>	
-			
-	</div><!-- /frame -->	
-</div><!-- /content -->
-
-		<div id="footer">
-	<div class="frame clearfix">
-	
-		<ul>
-			<li class="copyright">Copyright © 2012 Sarawak Report</li>
-			<li class="page_item page-item-30"><a href="http://www.sarawakreport.org/terms-and-conditions/">Terms and Conditions</a></li>
+<p>Email: <a href="mailto:info@sarawakreport.org">info@sarawakreport.org<script type="text/javascript">
+/* <![CDATA[ */
+(function(){try{var s,a,i,j,r,c,l,b=document.getElementsByTagName("script");l=b[b.length-1].previousSibling;a=l.getAttribute('data-cfemail');if(a){s='';r=parseInt(a.substr(0,2),16);for(j=2;a.length-j;j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}s=document.createTextNode(s);l.parentNode.replaceChild(s,l);}}catch(e){}})();
+/* ]]> */
+</script></a></p>
+</div>
+</div>
+</div> 
+</div> 
+<div id="footer">
+<div class="frame clearfix">
+<ul>
+<li class="copyright">Copyright © 2013 Sarawak Report</li>
+<li class="page_item page-item-30"><a href="http://www.sarawakreport.org/terms-and-conditions/">Terms and Conditions</a></li>
 <li class="page_item page-item-32 current_page_item"><a href="http://www.sarawakreport.org/privacy-policy/">Privacy Policy</a></li>
-	
-			<li><a class="facebook" href="http://www.facebook.com/sarawakreport">Join us on Facebook</a></li>
-			<li><a class="twitter" href="http://twitter.com/sarawak_report">Follow us on Twitter</a></li>
-		</ul>
-	
-	</div>
-</div><!-- /footer -->
-
-<script type="text/javascript" src="http://s.gravatar.com/js/gprofiles.js?ver=2012Novaa"></script>
+<li><a class="facebook" href="http://www.facebook.com/sarawakreport">Join us on Facebook</a></li>
+<li><a class="twitter" href="http://twitter.com/sarawak_report">Follow us on Twitter</a></li>
+</ul>
+</div>
+</div> 
+<div style="display:none">
+</div>
+<script type="text/javascript">
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/www.sarawakreport.org\/site\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ...","cached":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.sarawakreport.org/site/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=3.3.2"></script>
+<script type="text/javascript" src="http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201321"></script>
+<script type="text/javascript" src="http://s.gravatar.com/js/gprofiles.js?ver=2013Mayaa"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var WPGroHo = {"my_hash":""};
 /* ]]> */
 </script>
 <script type="text/javascript" src="http://www.sarawakreport.org/site/wp-content/plugins/jetpack/modules/wpgroho.js?ver=3.4.2"></script>
-	<div style="display:none">
-	</div>
-								
-	
+<script src="http://stats.wordpress.com/e-201321.js" type="text/javascript"></script>
 <script type="text/javascript">
-/* <![CDATA[ */
-var _wpcf7 = {"loaderUrl":"http:\/\/www.sarawakreport.org\/site\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ...","cached":"1"};
-/* ]]> */
-</script>
-<script type="text/javascript" src="http://www.sarawakreport.org/site/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=3.3.1"></script>
-<script type="text/javascript" src="http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201247"></script>
-
-	<script src="http://stats.wordpress.com/e-201247.js" type="text/javascript"></script>
-	<script type="text/javascript">
-	st_go({v:'ext',j:'1:1.9.2',blog:'12677137',post:'32'});
+	st_go({v:'ext',j:'1:2.1.1',blog:'12677137',post:'32',tz:'0'});
 	var load_cmc = function(){linktracker_init(12677137,32,2);};
 	if ( typeof addLoadEvent != 'undefined' ) addLoadEvent(load_cmc);
 	else load_cmc();
@@ -330,12 +352,11 @@ var _wpcf7 = {"loaderUrl":"http:\/\/www.sarawakreport.org\/site\/wp-content\/plu
   })();
 
 </script>
+<script type="text/javascript">
+/* <![CDATA[ */
+(function(){try{var s,a,i,j,r,c,l=document.getElementsByTagName("a"),t=document.createElement("textarea");for(i=0;l.length-i;i++){try{a=l[i].getAttribute("href");if(a&&"www.cloudflare.com/email-protection"==a.substr(7 ,35)){s='';j=43;r=parseInt(a.substr(j,2),16);for(j+=2;a.length-j&&a.substr(j,1)!='X';j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}j+=1;s+=a.substr(j,a.length-j);t.innerHTML=s.replace(/</g,"&lt;").replace(/>/g,"&gt;");l[i].setAttribute("href","mailto:"+t.value);}}catch(e){}}}catch(e){}})();
+/* ]]> */
+</script>
 
 
-
-<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
-
-Page Caching using apc
-Database Caching 28/131 queries in 0.057 seconds using apc
-
-Served from: www.sarawakreport.org @ 2012-11-19 16:01:47 --></body></html>
+ </body></html>
