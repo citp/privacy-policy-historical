@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the dotweekly.com privacy policy that was archived on 2012-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121006111226id_/http%3A//www.dotweekly.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dotweekly.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520232812id_/http%3A//dotweekly.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - DotWeekly.com
 
 **What information do we collect?**
 
-We collect information from you when you respond to a survey, fill out a form or place a comment. 
+We collect information from you when you respond to a survey, fill out a form or place a comment.
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
 
@@ -12,7 +12,7 @@ Google, as a third party vendor, uses cookies to serve ads on your site. Google�
 
 **What do we use your information for?**
 
-Any of the information we collect from you may be used in one of the following ways: 
+Any of the information we collect from you may be used in one of the following ways:
 
 • To personalize your experience  
 (your information helps us to better respond to your individual needs)
@@ -67,25 +67,24 @@ This online privacy policy applies only to information collected through our web
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.DotWeekly.com](http://www.dotweekly.com/)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.DotWeekly.com](http://web.archive.org/web/20121006111226/http://www.dotweekly.com/)
 
 **Your Consent**
 
-By using our site, you consent to our [websites privacy policy](http://www.freeprivacypolicy.com/).
+By using our site, you consent to our websites privacy policy.
 
 **Changes to our Privacy Policy**
 
-If we decide to change our privacy policy, we will post those changes on this page. 
+If we decide to change our privacy policy, we will post those changes on this page.
 
-This policy was last modified on 07/30/2010
+This policy was last modified on 03/13/2013
 
 **Contacting Us**
 
-If there are any questions regarding this privacy policy you may contact us using the information below. 
+If there are any questions regarding this privacy policy you may contact us using the information below.
 
 www.DotWeekly.com  
 1166 Western Meadows Dr.  
 Green Bay, Wisconsin 54313  
 USA  
-sales @ yofie.com  
-
+sales @ yofie.com
