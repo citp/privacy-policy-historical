@@ -1,7 +1,184 @@
-<!--The following is the downloaded HTML source of the aegon.co.uk privacy policy that was archived on 2012-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121229202848id_/http%3A//www.aegon.co.uk/Footer/Privacy/index.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the aegon.co.uk privacy policy that was archived on 2013-05-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130520045234id_/http%3A//www.aegon.co.uk/Footer/Privacy/index.htm) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><!--<![endif]--><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><!--<![endif]--><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script type="text/javascript">
+   var _U = "undefined";
+   var g_HttpRelativeWebRoot = "/aegon/";
+   var SSContributor = false;
+   var SSForceContributor = false;
+   var SSHideContributorUI = false;
+   var ssUrlPrefix = "/";
+   var ssUrlType = "1";
+   var ssDomainNum = "85f582e7";
+   var g_navNode_Path = new Array();
+       g_navNode_Path[0] = '13302';
+       g_navNode_Path[1] = '13692';
+       g_navNode_Path[2] = '13703';
+   var g_ssSourceNodeId = "13703";
+   var g_ssSourceSiteId = "AEGONUK";
+   var g_strLanguageId = "en";
+</script>
+<script id="SSNavigationFunctionsScript" type="text/javascript" src="/aegon/websites/AEGONUK/sitenavigationfunctions.js"></script>
+<script id="SSNavigationScript" type="text/javascript" src="/aegon/websites/AEGONUK/sitenavigation.js"></script>
+
+	<script type="text/javascript" src="/aegon/resources/wcm/sitestudio/wcm.toggle.js"></script>
+	<script type="text/javascript" src="/aegon/resources/sitestudio/ssajax/ssajax.js"></script>
+	<script type="text/javascript">
+	
+	WCM.CONTRIBUTOR.Discussion = function(regionConfig)
+	{
+		//NEED TO GET THE dID FROM SOMEWHERE
+		window.open(window.location.protocol + '//' + window.location.host + '/aegon/idcplg' + '?IdcService=GET_ASSOCIATED_DISCUSSION_FILE&dID=' + WCM.ToString(regionConfig['dataFileID']) + '&dDocName=' + WCM.ToString(regionConfig['dataFile']));
+	}
+	
+	
+	WCM.CONTRIBUTOR.Unexpire = function(regionConfig)
+	{
+		$D().log('Unexpire', window);
+		var expiredDate = "";
+		var docInfoUrl = window.location.protocol + '//' + window.location.host + '/aegon/idcplg' + '?IdcService=GET_EXPIRED&isExpiredQuery=1&isQueryResult=1&whereClause=dDocName%3D\'' + WCM.ToString(regionConfig['dataFile']) + '\'&orderClause=ORDER%20BY%20Revisions.dID%20DESC&IsSoap=1';
+		var  xmlhttpDocInfo = new XMLHttpRequest();
+		if (xmlhttpDocInfo)
+		{
+			xmlhttpDocInfo.open("GET", docInfoUrl,false);
+			xmlhttpDocInfo.onreadystatechange=function() 
+			{
+				//CHECK THE RESPOSE TO SEE IF THE ITEM IS CHECKED OUT
+				if (xmlhttpDocInfo.readyState==4)
+				{
+					docPos1 = xmlhttpDocInfo.responseText.indexOf('\"',xmlhttpDocInfo.responseText.indexOf('dOutDate=')) + 1;
+					docPos2 = xmlhttpDocInfo.responseText.indexOf('\"',docPos1);
+					expiredDate = xmlhttpDocInfo.responseText.substring(docPos1,docPos2);
+					if(expiredDate.length > 10)
+					{
+						expiredDate = expiredDate.substring(0,10);
+					}
+				}
+			}
+			xmlhttpDocInfo.send(null)
+		}
+		
+		var dateFail = false;
+		var minExpiryDate = new Date();
+		var strMinExpDate = (minExpiryDate.getDate() + 1) + "/" + (minExpiryDate.getMonth() + 1) + "/" + minExpiryDate.getFullYear();
+		var today = new Date();
+		var newYear = today.getFullYear() + 5;
+		var maxExpiryDate = new Date(newYear,today.getMonth(),today.getDate());
+		strMaxExpDate = maxExpiryDate.getDate() + "/" + (maxExpiryDate.getMonth() + 1) + "/" + maxExpiryDate.getFullYear();
+		var newExpDate = prompt("Please enter a new expiry date in the format DD/MM/YYYY",expiredDate);
+		tmp = newExpDate.split("/");
+		var dateEntered = new Date(tmp[2],parseInt(tmp[1],10) - 1,tmp[0]);
+		var reDate = /(?:0[1-9]|[12][0-9]|3[01])\/(?:0[1-9]|1[0-2])\/(?:19|20\d{2})/;
+		
+		//CHECK THAT THE FORMAT ENTERED IS OK
+		if(newExpDate.search(reDate) == -1)
+		{
+			alert(newExpDate + " - The date must be in the format DD/MM/YYYY");
+			dateFail = true;
+		}
+		
+		//CHECK THAT THE DATE IS A VALID DATE
+		if(!dateFail)
+		{
+			//Creating an invalid date e.g 29/02/2011 or 31/06/2011 returns the next valid date i.e the 1st of the following month.
+			//If the date entered is invalid then the month entered and the month generated will be different.
+			var monthGenerated = dateEntered.getMonth().toString();
+			if(parseInt(tmp[1],10) != parseInt(monthGenerated,10) + 1)
+			{
+				alert(newExpDate + " is not a valid date.");
+				dateFail = true;
+			}
+		}
+        
+		
+		//CHECK THE DATE RANGE - i.e. Must be after today and before Max expriy date allowed
+		if(!dateFail)
+		{
+			if((dateEntered < minExpiryDate) || (dateEntered > maxExpiryDate))
+			{
+				alert("Expiry date must between " + strMinExpDate + " and " + strMaxExpDate);
+				dateFail = true;
+			}
+		}
+		
+		if(!dateFail)
+		{
+			var jsonBinder = new WCM.Idc.JSONBinder();
+			jsonBinder.SetLocalDataValue('IdcService', 'GET_EXPIRED');
+			jsonBinder.SetLocalDataValue('isQueryResult', '1');
+			jsonBinder.SetLocalDataValue('isExpiredQuery', '1');
+			jsonBinder.SetLocalDataValue('whereClause', 'dDocName = \'' + WCM.ToString(regionConfig['dataFile']) + '\'');
+			jsonBinder.SetLocalDataValue('orderClause', 'ORDER BY Revisions.dID DESC');
+
+			var callback = function (http)
+			{
+				var text = http.GetResponseText();
+				var dataBinder = new WCM.Idc.JSONBinder(text);
+				var expiredDocumentId = dataBinder.GetResultSetValue('EXPIRED_LIST', 'dID', 0);
+				
+				var suffix = '?IdcService=CLONE_ME_AS_SYSADMIN&IsSoap=1&dInDate=20%2F05%2F2013 5:52&dOutDate=&xAUK_ContentReassignment=&xAUK_EnterWorkflow=Yes&dDocAuthor=anonymous&dID=' + expiredDocumentId;
+				var cgiUrl = window.location.protocol + '//' + window.location.host + '/aegon/idcplg';
+				//POST TO CONTENT CLONER AND RELOAD THE PAGE SO THAT THE CONTRIBUTOR ICONS (I.E. WORKFLOW) REFRESH
+				var  xmlhttp = new XMLHttpRequest();
+				if (xmlhttp)
+				{
+					xmlhttp.open("GET", cgiUrl + suffix,true);
+					xmlhttp.onreadystatechange=function() 
+					{
+						//CHECK THE RESPOSE TO SEE IF THE ITEM IS CHECKED OUT
+						if (xmlhttp.readyState==4)
+						{
+							var statusMessagePos1 = xmlhttp.responseText.indexOf("StatusMessage") + 15;
+							var statusMessagePos2 = xmlhttp.responseText.indexOf("</idc:field>",statusMessagePos1);
+							var strStatusMessage = xmlhttp.responseText.substring(statusMessagePos1, statusMessagePos2);
+							if(strStatusMessage.indexOf("Successfully checked in content item") > -1)
+							{
+							
+								idPos1 = xmlhttp.responseText.indexOf('\"',xmlhttp.responseText.indexOf('dID=')) + 1;
+								idPos2 = xmlhttp.responseText.indexOf('\"',idPos1);
+								newDocId = xmlhttp.responseText.substring(idPos1,idPos2);
+								var nd = newExpDate.replace(/\//gi,"%2F");
+								suffix = '?IdcService=UPDATE_DOCINFO&dOutDate=' + newExpDate.replace(/\//gi,"%2F") + '&dID=' + newDocId + '&IsSoap=1&dDocName=' + WCM.ToString(regionConfig['dataFile']);
+								var  xmlhttp2 = new XMLHttpRequest();
+								if (xmlhttp2)
+								{
+									xmlhttp2.open("GET", cgiUrl + suffix,false);
+									xmlhttp2.onreadystatechange=function() 
+									{
+										if (xmlhttp2.readyState==4)
+										{
+											var responseStr = xmlhttp2.responseText;
+											//alert(xmlhttp2.responseText);
+											alert(WCM.ToString(regionConfig['dataFile']) + " had been unexpired");
+										}
+									}	
+									xmlhttp2.send(null);
+								}
+							}
+							else
+							{
+								alert("Unable to unexpire this item\n\n" + strStatusMessage.replace(/&#39;/gi,""));
+							}
+							window.location.reload(true);
+						}
+					}
+					xmlhttp.send(null)
+				}
+				//window.open(cgiUrl + suffix, "_blank");
+				//window.location.href = cgiUrl + suffix;
+			};
+
+			var http = jsonBinder.Send
+			(	
+				"/aegon/idcplg", 
+				callback
+			);
+		}
+		
+	}
+</script>
+
+
 	
 	
 	
@@ -300,17 +477,67 @@
 	
 	
 	
+	
 	<body class="texture_3" id="fwmp" onload="highlightPanel()">
 		<a href="#inner" class="skipTo">Skip to main content</a>
 	<div id="wrapper">
+	
+	
+
+	<div id="header">
+		
+	
+
+		
+	
+	
+	
+	
+	
+		
+	
+	
+	
+	
+
+	
 
 	
 	
 	
-
+	
+	
+				
+	
+	
+	
+	<div id="logo"><a title="Home" href="/"><img alt="Aegon" src="/aegonukcontent/assets/img/core/logox2.png" width="170" height="60"></a></div>
+	
 	
 
-			
+		
+	
+	
+	
+		
+	
+	
+	
+	
+	
+		
+	
+
+
+	
+	
+
+
+	
+		
+	
+	
+
 	
 	
 	
@@ -320,9 +547,14 @@
 
 	
 	
+	
+		<ul id="secondary"> 
+	
+				<li><a href="/About-AEGON/">About</a></li> <li><a href="/Support/">Support</a></li>
+				
+		</ul>
 		
-		<div id="toolbar">
-		
+	
 	
 	
 	
@@ -332,26 +564,13 @@
 
 	
 	
-	<div id="country">
-		<span id="uk">
-			<a href="http://www.aegon.co.uk/static/shared/global-site-list/" class="dropDown">UK<span class="screen_reader"> - select another site</span></a>
-		</span>
-	</div>
+	
+		<ul id="tertiary">
+	
+				<li><a href="/Header/Advisers/">Advisers</a></li> <li><a href="/log-in/">Sign in</a></li>
+		</ul>
 		
 	
-
-	
-	
-	
-
-	 
-		
-	
-	
-	
-	<div id="login" class="top">
-		<a href="/log-in/">Login or register</a>
-	</div>
 		
 	
 	
@@ -376,68 +595,7 @@
 				</form>
 			</div>
 	
-	</div>
 	
-	
-	<div id="header">
-		
-	
-
-		
-	
-	
-	
-	
-	
-		
-	
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-		
-	
-	
-	
-	
-	
-	
-		
-	
-	
-	
-	
-	
-	
-		
-	
-	
-
-	
-	
-	<a id="logo" title="AEGON" href="/index.htm">
-			<img alt="AEGON" src="/aegonukcontent/assets/img/core/logox2.png" width="123" height="44">
-	</a>
-	
-
-
-	
-		<div id="topcontainer">
-			
-	
-
 	
 	
 	
@@ -447,120 +605,10 @@
 
 	
 	
-	
-
-	
-		
-
-	 
-	
-
-
-		<ul id="help_links">
-				
-					
-					<li>
-						<a href="/Header/Advisers/index.htm" id="Advisers">Advisers</a>
-					</li>
-				
-					
-				
-					
-				
-					
-					<li>
-						<a href="/About-AEGON/Careers-with-AEGON/index.htm" id="Careers">Careers</a>
-					</li>
-				
-					
-				
-					
-				
-					
-				
-					
-					<li class="last">
-						<a href="/About-AEGON/Contact-us/index.htm" id="Contact-us">Contact us</a>
-					</li>
-		</ul>
-
-	
-	
-
-	
-
-
-	
-
-	
-			
-	
-
-		<div class="clear"></div>
-	
-
-	
-	
-	
-	
-	
-	
-		
-	
-	
-	
-	
-	
-	
-	
-		
-	
-	
-
-	
-	
-	
-	
-		
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-		
-	
-	
-	
-	
-	
-	
-	
-		
-	
-	
-
-	
-	
-	
-	
-		
-	
-	
-	
-	
-
-
-	
-		</div>
-	</div>
-	
+      <div id="hStrip">
+            <span id="descriptor"></span>
+      </div>
+	  
 	
 
 		
@@ -2590,103 +2638,1010 @@
 				
 				
 				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
+	
+			
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+				
+			
+			
+			
+			
+			
+																																																																																																																																																																										
+		
+		
 	<ul id="top_nav">
 	
 
 			
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-	
-				
-	
-
-		
-			
-		
-			
-			<li class=""><a href="/index.htm">	
-	
-						
-				Home
-	
-</a></li>
-		
-		
-		
 		
 		
 		
@@ -2911,116 +3866,6 @@
 
 	
 
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-	
-				
-	
-
-		
-			
-		
-		
-		
-							<li><a href="/Pensions/Retirement-planning/Self-invested-Personal-Pension/index.htm">	
-	
-						
-				Self-invested Personal Pension
-	
-</a></li>
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
 	
 				
 	
@@ -3209,33 +4054,6 @@
 		
 		
 		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-							<li><a href="/Pensions/Retirement-planning/Compare-retirement-plans/index.htm">	
-	
-						
-				Compare retirement plans
-	
-</a></li>
 		
 		
 		
@@ -3614,20 +4432,15 @@
 		
 		
 		
-					
-					</ul>
-					</li>
-				
-				
-				<li class="top">
-					<a href="/Company-pensions/index.htm">	
+											
+					<li class="hassubsub"><a href="/Pensions/Company-pensions/index.htm">	
 	
 						
 				Company pensions
 	
 </a>
-					
-					<ul class="submenu">
+						
+						<ul class="subsubmenu">
 		
 		
 		
@@ -3649,15 +4462,12 @@
 		
 		
 		
-											
-					<li class="hassubsub"><a href="/Company-pensions/Introduction-to-company-pensions/index.htm">	
+							<li><a href="/Pensions/Company-pensions/Introduction-to-company-pensions/index.htm">	
 	
 						
 				Introduction to company pensions
 	
-</a>
-						
-						</li>
+</a></li>
 		
 		
 		
@@ -3679,15 +4489,12 @@
 		
 		
 		
-											
-					<li class="hassubsub"><a href="/Company-pensions/About-us/index.htm">	
+							<li><a href="/Pensions/Company-pensions/About-us/index.htm">	
 	
 						
 				About us
 	
-</a>
-						
-						</li>
+</a></li>
 		
 		
 		
@@ -3708,175 +4515,11 @@
 		
 		
 		
-											
-					<li class="hassubsub"><a href="/Company-pensions/Information-for-employees-and-scheme-members/index.htm">	
+							<li><a href="/Pensions/Company-pensions/Information-for-employees-and-scheme-members/index.htm">	
 	
 						
 				Information for employees and scheme members
 	
-</a>
-						
-						<ul class="subsubmenu">
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-							<li><a href="/Company-pensions/Information-for-employees-and-scheme-members/How-to-join-your-company-scheme/index.htm">	
-	
-						
-				How to join your company scheme
-	
-</a></li>
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-							<li><a href="/Company-pensions/Information-for-employees-and-scheme-members/Already-a-member-of-an-AEGON-scheme/index.htm">	
-	
-						
-				Already a member of an Aegon scheme?
-	
-</a></li>
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-							<li><a href="/Company-pensions/Information-for-employees-and-scheme-members/Salary-sacrifice-schemes/index.htm">	
-	
-						
-				Salary sacrifice schemes
-	
-</a></li>
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-							<li><a href="/Company-pensions/Information-for-employees-and-scheme-members/Why-transfer/index.htm">	
-	
-						
-				Why transfer?
-	
-</a></li>
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-							<li><a href="/Company-pensions/Information-for-employees-and-scheme-members/Retiring-soon/index.htm">	
-	
-						
-				Retiring soon?
-	
-</a></li>
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-	
-				
-	
-
-		
-			
-		
-		
-		
-							<li><a href="/Company-pensions/Information-for-employees-and-scheme-members/Tools-to-help-you/index.htm">	
-	
-						
-				Tools to help you
-	
 </a></li>
 		
 		
@@ -3983,12 +4626,26 @@
 		
 		
 		
-							<li><a href="/Company-pensions/Information-for-employees-and-scheme-members/Boost-your-savings/index.htm">	
+		
+		
+		
+		
+		
+		
+		
 	
-						
-				Boost your savings
+
 	
-</a></li>
+
+	
+				
+	
+
+		
+			
+		
+		
+		
 		
 		
 		
@@ -4010,12 +4667,6 @@
 		
 		
 		
-							<li><a href="/Company-pensions/Information-for-employees-and-scheme-members/Future-costs/index.htm">	
-	
-						
-				Future costs
-	
-</a></li>
 		
 		
 		
@@ -4037,12 +4688,6 @@
 		
 		
 		
-							<li><a href="/Company-pensions/Information-for-employees-and-scheme-members/Are-you-saving-enough/index.htm">	
-	
-						
-				Are you saving enough?
-	
-</a></li>
 		
 		
 		
@@ -4064,12 +4709,27 @@
 		
 		
 		
-							<li class="last"><a href="/Company-pensions/Information-for-employees-and-scheme-members/Savingforyourretirementdoesntcostasmuchasyoumightthink/index.htm">	
+		
+		
+		
+		
+		
+		
+		
 	
-						
-				Saving for your retirement doesn’t cost as much as you might think
+
 	
-</a></li>
+
+		
+		
+				
+	
+
+		
+			
+		
+		
+		
 		
 		
 		
@@ -4090,44 +4750,11 @@
 		
 		
 		
-					
-					</ul>
-					</li>
-											
-					<li class="hassubsub"><a href="/Company-pensions/Information-for-employers-and-trustees/index.htm">	
+							<li><a href="/Pensions/Company-pensions/Information-for-employers-and-trustees/index.htm">	
 	
 						
 				Information for employers and trustees
 	
-</a>
-						
-						<ul class="subsubmenu">
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-							<li><a href="/Company-pensions/Information-for-employers-and-trustees/Company-pension-services/index.htm">	
-	
-						
-				Company pension services
-	
 </a></li>
 		
 		
@@ -4150,12 +4777,6 @@
 		
 		
 		
-							<li><a href="/Company-pensions/Information-for-employers-and-trustees/Our-services-for-trustees/index.htm">	
-	
-						
-				Our services for trustees
-	
-</a></li>
 		
 		
 		
@@ -4177,12 +4798,6 @@
 		
 		
 		
-							<li><a href="/Company-pensions/Information-for-employers-and-trustees/Tools-to-help-you/index.htm">	
-	
-						
-				Tools to help you
-	
-</a></li>
 		
 		
 		
@@ -4204,12 +4819,27 @@
 		
 		
 		
-							<li class="last"><a href="/Company-pensions/Information-for-employers-and-trustees/Our-defined-benefit-services/index.htm">	
+		
+		
+		
+		
+		
+		
+		
 	
-						
-				Our defined benefit services
+
 	
-</a></li>
+
+		
+		
+				
+	
+
+		
+			
+		
+		
+		
 		
 		
 		
@@ -4230,705 +4860,11 @@
 		
 		
 		
-					
-					</ul>
-					</li>
-											
-					<li class="hassubsub"><a href="/Company-pensions/Pension-schemes-for-UK-companies/index.htm">	
+							<li class="last"><a href="/Pensions/Company-pensions/Pension-schemes-for-UK-companies/index.htm">	
 	
 						
 				Pension schemes for UK companies
 	
-</a>
-						
-						<ul class="subsubmenu">
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-	
-				
-	
-
-		
-			
-		
-		
-		
-							<li><a href="/Company-pensions/Pension-schemes-for-UK-companies/Group-Personal-Pensions/index.htm">	
-	
-						
-				Group Personal Pensions
-	
-</a></li>
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-	
-				
-	
-
-		
-			
-		
-		
-		
-							<li><a href="/Company-pensions/Pension-schemes-for-UK-companies/Group-Stakeholder-Pensions/index.htm">	
-	
-						
-				Group Stakeholder Pensions
-	
-</a></li>
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-	
-				
-	
-
-		
-			
-		
-		
-		
-							<li><a href="/Company-pensions/Pension-schemes-for-UK-companies/Group-Money-Purchase-Pensions/index.htm">	
-	
-						
-				Group Money Purchase Pensions
-	
-</a></li>
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-	
-				
-	
-
-		
-			
-		
-		
-		
-							<li><a href="/Company-pensions/Pension-schemes-for-UK-companies/Group-Additional-Voluntary-Contribution-Pensions/index.htm">	
-	
-						
-				Group Additional Voluntary Contribution Pensions
-	
-</a></li>
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-	
-				
-	
-
-		
-			
-		
-		
-		
-							<li><a href="/Company-pensions/Pension-schemes-for-UK-companies/Group-Self-invested-Personal-Pensions/index.htm">	
-	
-						
-				Group Self-invested Personal Pensions
-	
-</a></li>
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-							<li><a href="/Company-pensions/Pension-schemes-for-UK-companies/Transfers/index.htm">	
-	
-						
-				Transfers
-	
-</a></li>
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-							<li class="last"><a href="/Company-pensions/Pension-schemes-for-UK-companies/Voluntary-scheme-governance-we-can-make-it-easier/index.htm">	
-	
-						
-				Voluntary scheme governance - we can make it easier
-	
 </a></li>
 		
 		
@@ -4950,135 +4886,6 @@
 		
 		
 		
-					
-					</ul>
-					</li>
-					
-					</ul>
-					</li>
-				
-				
-				<li class="top">
-					<a href="/Services-for-companies/index.htm">	
-	
-						
-				Services for companies
-	
-</a>
-					
-					<ul class="submenu">
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-											
-					<li class="hassubsub"><a href="/Services-for-companies/Actuarial-services/index.htm">	
-	
-						
-				Actuarial services
-	
-</a>
-						
-						</li>
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-	
-				
-	
-
-		
-			
-		
-		
-		
-											
-					<li class="hassubsub"><a href="/Services-for-companies/Trustee-solutions/index.htm">	
-	
-						
-				Trustee solutions
-	
-</a>
-						
-						<ul class="subsubmenu">
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-							<li><a href="/Services-for-companies/Trustee-solutions/About-us/index.htm">	
-	
-						
-				About us
-	
-</a></li>
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-	
-				
-	
-
-		
-			
-		
-		
-		
-							<li><a href="/Services-for-companies/Trustee-solutions/New-customers/index.htm">	
-	
-						
-				New customers
-	
-</a></li>
 		
 		
 		
@@ -5183,12 +4990,6 @@
 		
 		
 		
-							<li><a href="/Services-for-companies/Trustee-solutions/Existing-customers/index.htm">	
-	
-						
-				Existing customers
-	
-</a></li>
 		
 		
 		
@@ -5273,12 +5074,26 @@
 		
 		
 		
-							<li><a href="/Services-for-companies/Trustee-solutions/Technical-zone/index.htm">	
+		
+		
+		
+		
+		
+		
+		
 	
-						
-				Technical zone
+
 	
-</a></li>
+
+	
+				
+	
+
+		
+			
+		
+		
+		
 		
 		
 		
@@ -5300,12 +5115,6 @@
 		
 		
 		
-							<li class="last"><a href="/Services-for-companies/Trustee-solutions/Contact-us/index.htm">	
-	
-						
-				Contact us
-	
-</a></li>
 		
 		
 		
@@ -5327,18 +5136,6 @@
 		
 		
 		
-					
-					</ul>
-					</li>
-											
-					<li class="hassubsub"><a href="/Services-for-companies/Pension-schemes-for-UK-companies/index.htm">	
-	
-						
-				Pension schemes for UK companies
-	
-</a>
-						
-						</li>
 		
 		
 		
@@ -5360,15 +5157,361 @@
 		
 		
 		
-											
-					<li class="hassubsub"><a href="/Services-for-companies/Business-protection/index.htm">	
+		
+		
+		
+		
+		
+		
+		
 	
-						
-				Business protection
+
 	
-</a>
-						
-						</li>
+
+		
+		
+				
+	
+
+		
+			
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	
+
+	
+
+		
+		
+				
+	
+
+		
+			
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	
+
+	
+
+		
+		
+				
+	
+
+		
+			
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	
+
+	
+
+		
+		
+				
+	
+
+		
+			
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	
+
+	
+
+		
+		
+				
+	
+
+		
+			
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	
+
+	
+
+	
+				
+	
+
+		
+			
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	
+
+	
+
+		
+		
+				
+	
+
+		
+			
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	
+
+	
+
+		
+		
+				
+	
+
+		
+			
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	
+
+	
+
+		
+		
+				
+	
+
+		
+			
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	
+
+	
+
+		
+		
+				
+	
+
+		
+			
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	
+
+	
+
+	
+				
+	
+
+		
+			
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	
+
+	
+
+		
+		
+				
+	
+
+		
+			
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	
+
+	
+
+		
+		
+				
+	
+
+		
+			
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	
+
+	
+
+		
+		
+				
+	
+
+		
+			
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	
+
+	
+
+		
+		
+				
+	
+
+		
+			
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	
+
+	
+
+		
+		
+				
+	
+
+		
+			
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	
+
+	
+
+		
+		
+				
+	
+
+		
+			
+		
+		
+		
 		
 		
 		
@@ -5394,13 +5537,16 @@
 					
 					</ul>
 					</li>
+					
+					</ul>
+					</li>
 				
 				
 				<li class="top">
 					<a href="/Investments/index.htm">	
 	
 						
-				Investments
+				Savings
 	
 </a>
 					
@@ -6373,7 +6519,7 @@
 							<li><a href="/Protection/All-about-claims/Avoiding-non-disclosure/index.htm">	
 	
 						
-				Avoiding non-disclosure
+				Avoiding misrepresentation
 	
 </a></li>
 		
@@ -7631,3603 +7777,16 @@
 </a>
 						
 						</li>
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-	
-				
-	
-
-		
-			
-		
-		
-		
-					
-					</ul>
-					</li>
-				
-				
-				<li class="top">
-					<a href="/AEGON-customers/index.htm">	
-	
-						
-				Customers
-	
-</a>
-					
-					<ul class="submenu">
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-	
-				
-	
-
-		
-			
-		
-		
-		
-											
-					<li class="hassubsub"><a href="/AEGON-customers/Whats-new-news-and-announcements/index.htm">	
-	
-						
-				Customer news
-	
-</a>
-						
-						<ul class="subsubmenu">
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-							<li class="last"><a href="/AEGON-customers/Whats-new-news-and-announcements/Archive/index.htm">	
-	
-						
-				Archive
-	
-</a></li>
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-					
-					</ul>
-					</li>
-											
-					<li class="hassubsub"><a href="/AEGON-customers/Financial-advice-is-changing/index.htm">	
-	
-						
-				Financial advice is changing
-	
-</a>
-						
-						</li>
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-	
-				
-	
-
-		
-			
-		
-		
-		
-											
-					<li class="hassubsub"><a href="/AEGON-customers/Individual-customers/index.htm">	
-	
-						
-				Individual customers
-	
-</a>
-						
-						<ul class="subsubmenu">
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-	
-				
-	
-
-		
-			
-		
-		
-		
-							<li><a href="/AEGON-customers/Individual-customers/Your-pension/index.htm">	
-	
-						
-				Your pension
-	
-</a></li>
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-	
-				
-	
-
-		
-			
-		
-		
-		
-							<li><a href="/AEGON-customers/Individual-customers/Your-investments/index.htm">	
-	
-						
-				Your investments
-	
-</a></li>
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-	
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-	
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-	
-				
-	
-
-		
-			
-		
-		
-		
-							<li><a href="/AEGON-customers/Individual-customers/Your-protection/index.htm">	
-	
-						
-				Your protection
-	
-</a></li>
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-	
-				
-	
-
-		
-			
-		
-		
-		
-							<li><a href="/AEGON-customers/Individual-customers/With-profits/index.htm">	
-	
-						
-				With-profits
-	
-</a></li>
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-	
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-	
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-	
-				
-	
-
-		
-			
-		
-		
-		
-							<li><a href="/AEGON-customers/Individual-customers/Useful-forms-and-downloads/index.htm">	
-	
-						
-				Useful forms and downloads
-	
-</a></li>
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-	
-				
-	
-
-		
-			
-		
-		
-		
-							<li><a href="/AEGON-customers/Individual-customers/Online-self-services/index.htm">	
-	
-						
-				Online self-service
-	
-</a></li>
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-							<li class="last"><a href="/AEGON-customers/Individual-customers/Log-in-to-view-and-manage-your-plan-or-investment/index.htm">	
-	
-						
-				Log in to view and manage your plan or investment
-	
-</a></li>
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-	
-				
-	
-
-		
-			
-		
-		
-		
-					
-					</ul>
-					</li>
-											
-					<li class="hassubsub"><a href="/AEGON-customers/Employers-trustees-and-scheme-administrators/index.htm">	
-	
-						
-				Employers, trustees and scheme administrators
-	
-</a>
-						
-						<ul class="subsubmenu">
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-	
-				
-	
-
-		
-			
-		
-		
-		
-							<li><a href="/AEGON-customers/Employers-trustees-and-scheme-administrators/Help-and-support-with-managing-your-scheme/index.htm">	
-	
-						
-				Help and support with managing your scheme
-	
-</a></li>
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-	
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-	
-				
-					 
-					 
-					 
-					 
-					 
-					 
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-	
-				
-	
-
-		
-			
-		
-		
-		
-							<li><a href="/AEGON-customers/Employers-trustees-and-scheme-administrators/Meeting-your-trustee-responsibilities/index.htm">	
-	
-						
-				Meeting your trustee responsibilities
-	
-</a></li>
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-							<li><a href="/AEGON-customers/Employers-trustees-and-scheme-administrators/Online-self-service/index.htm">	
-	
-						
-				Online-self-service
-	
-</a></li>
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-							<li class="last"><a href="/AEGON-customers/Employers-trustees-and-scheme-administrators/Log-in-to-view-and-manage-your-scheme/index.htm">	
-	
-						
-				Log in to view and manage your scheme
-	
-</a></li>
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-					
-					</ul>
-					</li>
-											
-					<li class="hassubsub"><a href="/AEGON-customers/Customer-commitment/index.htm">	
-	
-						
-				Customer commitment
-	
-</a>
-						
-						</li>
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-	
-				
-	
-
-		
-			
-		
-		
-		
-											
-					<li class="hassubsub"><a href="/AEGON-customers/Security-hub/index.htm">	
-	
-						
-				Security hub
-	
-</a>
-						
-						<ul class="subsubmenu">
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-							<li><a href="/AEGON-customers/Security-hub/What-is-identity-fraud/index.htm">	
-	
-						
-				What is identity fraud?
-	
-</a></li>
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-							<li><a href="/AEGON-customers/Security-hub/How-to-avoid-becoming-a-victim-of-identity-fraud/index.htm">	
-	
-						
-				How to avoid becoming a victim of identity fraud
-	
-</a></li>
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-							<li><a href="/AEGON-customers/Security-hub/How-to-tell-if-youre-a-victim-of-identity-fraud/index.htm">	
-	
-						
-				How to tell if you're a victim of identity fraud
-	
-</a></li>
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-							<li><a href="/AEGON-customers/Security-hub/Fake-employment-offer/index.htm">	
-	
-						
-				Fake employment offer
-	
-</a></li>
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-							<li class="last"><a href="/AEGON-customers/Security-hub/What-to-expect-from-us/index.htm">	
-	
-						
-				What to expect from us
-	
-</a></li>
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-					
-					</ul>
-					</li>
-											
-					<li class="hassubsub"><a href="/AEGON-customers/Secure-services-availability-status/index.htm">	
-	
-						
-				Secure services availability
-	
-</a>
-						
-						</li>
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-											
-					<li class="hassubsub"><a href="/AEGON-customers/Helpusupdateourrecords/index.htm">	
-	
-						
-				Help us update records
-	
-</a>
-						
-						</li>
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-	
-				
-	
-
-		
-			
-		
-		
-		
-											
-					<li class="hassubsub"><a href="/AEGON-customers/Changestoyourpensionscheme/index.htm">	
-	
-						
-				Changes to your pension scheme
-	
-</a>
-						
-						<ul class="subsubmenu">
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-							<li><a href="/AEGON-customers/Changestoyourpensionscheme/Taxreliefonpensioncontributions/index.htm">	
-	
-						
-				Tax relief
-	
-</a></li>
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-	
-				
-					 
-					 
-					 
-					 
-					
-	
-
-		
-			
-		
-		
-		
-							<li class="last"><a href="/AEGON-customers/Changestoyourpensionscheme/Changestocontractingout/index.htm">	
-	
-						
-				Contracting out
-	
-</a></li>
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-	
-				
-	
-
-		
-			
-		
-		
-		
-					
-					</ul>
-					</li>
-					
-					</ul>
-					</li>
-				
-				
-				<li class="top">
-					<a href="/About-AEGON/index.htm">	
-	
-						
-				About us
-	
-</a>
-					
-					<ul class="submenu">
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-	
-				
-	
-
-		
-			
-		
-		
-		
-											
-					<li class="hassubsub"><a href="/About-AEGON/Who-we-are/index.htm">	
-	
-						
-				Who we are
-	
-</a>
-						
-						<ul class="subsubmenu">
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-	
-				
-	
-
-		
-			
-		
-		
-		
-							<li><a href="/About-AEGON/Who-we-are/Company-profile/index.htm">	
-	
-						
-				Company profile
-	
-</a></li>
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-	
-				
-	
-
-		
-			
-		
-		
-		
-							<li><a href="/About-AEGON/Who-we-are/Building-our-brands/index.htm">	
-	
-						
-				Our brand journey
-	
-</a></li>
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-							<li><a href="/About-AEGON/Who-we-are/Corporate-responsibility/index.htm">	
-	
-						
-				Corporate responsibility
-	
-</a></li>
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-							<li><a href="/About-AEGON/Who-we-are/Awards/index.htm">	
-	
-						
-				Awards
-	
-</a></li>
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-	
-				
-	
-
-		
-			
-		
-		
-		
-					
-					</ul>
-					</li>
-											
-					<li class="hassubsub"><a href="/About-AEGON/Retirement-Readiness-Survey/index.htm">	
-	
-						
-				The changing face of retirement
-	
-</a>
-						
-						<ul class="subsubmenu">
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-							<li><a href="/About-AEGON/Retirement-Readiness-Survey/Key-findings/index.htm">	
-	
-						
-				Key findings
-	
-</a></li>
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-							<li><a href="/About-AEGON/Retirement-Readiness-Survey/Overview/index.htm">	
-	
-						
-				Overview
-	
-</a></li>
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-							<li><a href="/About-AEGON/Retirement-Readiness-Survey/7-steps-to-success/index.htm">	
-	
-						
-				Seven steps to success
-	
-</a></li>
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-							<li class="last"><a href="/About-AEGON/Retirement-Readiness-Survey/Retirement-readiness/index.htm">	
-	
-						
-				Retirement readiness
-	
-</a></li>
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-	
-				
-	
-
-		
-			
-		
-		
-		
-					
-					</ul>
-					</li>
-											
-					<li class="hassubsub"><a href="/About-AEGON/Industry-insights/index.htm">	
-	
-						
-				Industry insights
-	
-</a>
-						
-						<ul class="subsubmenu">
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-	
-				
-	
-
-		
-			
-		
-		
-		
-							<li><a href="/About-AEGON/Industry-insights/Shaping-our-industry/index.htm">	
-	
-						
-				Shaping our industry
-	
-</a></li>
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-	
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-	
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-							<li><a href="/About-AEGON/Industry-insights/Industry-blog/index.htm">	
-	
-						
-				Industry blog
-	
-</a></li>
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-							<li><a href="/About-AEGON/Industry-insights/Our-industry-experts/index.htm">	
-	
-						
-				Our industry experts
-	
-</a></li>
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-							<li><a href="/About-AEGON/Industry-insights/Factsheets/index.htm">	
-	
-						
-				Factsheets
-	
-</a></li>
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-							<li class="last"><a href="/About-AEGON/Industry-insights/Key-dates/index.htm">	
-	
-						
-				Key dates
-	
-</a></li>
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-	
-				
-	
-
-		
-			
-		
-		
-		
-					
-					</ul>
-					</li>
-											
-					<li class="hassubsub"><a href="/About-AEGON/Media-centre/index.htm">	
-	
-						
-				Media centre
-	
-</a>
-						
-						<ul class="subsubmenu">
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-	
-				
-	
-
-		
-			
-		
-		
-		
-							<li><a href="/About-AEGON/Media-centre/Press-releases/index.htm">	
-	
-						
-				Press releases
-	
-</a></li>
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-							<li><a href="/About-AEGON/Media-centre/Mediacontacts/index.htm">	
-	
-						
-				Media contacts
-	
-</a></li>
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-							<li><a href="/About-AEGON/Media-centre/Photolibrary/index.htm">	
-	
-						
-				Photo library
-	
-</a></li>
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-	
-				
-	
-
-		
-			
-		
-		
-		
-					
-					</ul>
-					</li>
-											
-					<li class="hassubsub"><a href="/About-AEGON/Careers-with-AEGON/index.htm">	
-	
-						
-				Careers with Aegon
-	
-</a>
-						
-						<ul class="subsubmenu">
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-	
-				
-	
-
-		
-			
-		
-		
-		
-							<li><a href="/About-AEGON/Careers-with-AEGON/Why-join-us/index.htm">	
-	
-						
-				Why join us
-	
-</a></li>
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-	
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-	
-				
-	
-
-		
-			
-		
-		
-		
-							<li class="last"><a href="/About-AEGON/Careers-with-AEGON/How-to-join-us/index.htm">	
-	
-						
-				How to join us
-	
-</a></li>
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-					
-					</ul>
-					</li>
-											
-					<li class="hassubsub"><a href="/About-AEGON/How-to-buy-an-AEGON-product/index.htm">	
-	
-						
-				How to buy our products
-	
-</a>
-						
-						</li>
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-											
-					<li class="hassubsub"><a href="/About-AEGON/Our-sponsorships/index.htm">	
-	
-						
-				Our sponsorships
-	
-</a>
-						
-						</li>
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-	
-				
-					 
-					
-	
-
-		
-			
-		
-		
-		
-											
-					<li class="hassubsub"><a href="/About-AEGON/Contact-us/index.htm">	
-	
-						
-				Contact us
-	
-</a>
-						
-						<ul class="subsubmenu">
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-	
-				
-	
-
-		
-			
-		
-		
-		
-							<li class="last"><a href="/About-AEGON/Contact-us/Makingacomplaint/index.htm">	
-	
-						
-				Making a complaint
-	
-</a></li>
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-	
-
-		
-		
-				
-	
-
-		
-			
-		
-		
-		
-			</ul>
-			</li>
 			</ul>
 			</li>
 	</ul>
 
 	
 
+	</div>
+	
 		<div id="container">
 		  <div id="content">
-			<div id="header_image">
-			
 	
 
 	
@@ -13279,83 +9838,6 @@
 				
 				
 				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
 		
 		
 		
@@ -13694,38 +10176,6 @@
 	
 	
 			  <div id="inner">
-				
-				<!--SS_BEGIN_OPENREGIONMARKER(region1)-->
-	
-
-
-	
-	
-	
-	
-		
-	
-	
-	
-				<!--SS_END_OPENREGIONMARKER(region1)-->
-
-				<div id="title">
-					<h1>
-						<!--SS_BEGIN_ELEMENT(region1_element1)-->
-						Privacy
-						<!--SS_END_ELEMENT(region1_element1)-->
-					</h1>
-					<span class="sub_heading">
-						<!--SS_BEGIN_ELEMENT(region1_element2)-->
-						Aegon's policy on data protection and privacy
-						<!--SS_END_ELEMENT(region1_element2)-->
-					</span>
-		<div class="PF">
-			<span class="screen_reader">Page functions</span>
-			<a class="PFprint" title="Print this page" href="javascript:window.print()"><span class="screen_reader">Print this page</span></a>              
-		</div>
-				</div>
-				
 	
 
 	
@@ -13768,7 +10218,32 @@
 
 				<!--Body content START -->
 				<div id="bodycontent">
+					<!--SS_BEGIN_OPENREGIONMARKER(region1)-->
+	
 
+
+	
+	
+	
+	
+		
+	
+	
+	
+					<!--SS_END_OPENREGIONMARKER(region1)-->
+	
+					<div id="title">
+						<h1>
+							<!--SS_BEGIN_ELEMENT(region1_element1)-->
+							Privacy
+							<!--SS_END_ELEMENT(region1_element1)-->
+						</h1>
+						<span class="sub_heading">
+							<!--SS_BEGIN_ELEMENT(region1_element2)-->
+							Aegon's policy on data protection and privacy
+							<!--SS_END_ELEMENT(region1_element2)-->
+						</span>
+					</div>
 	
 
 	
@@ -13796,7 +10271,7 @@
 	
 
 	
-					<!--SS_BEGIN_ELEMENT(region1_element4)--><p>This privacy statement sets out how Aegon UK uses and protects any personal information that you give us when you use this website. Depending on the part of the website you’re visiting, the data controller for any personal information you give us is either Scottish Equitable plc or Aegon Investment Solutions Ltd (both of which trade as Aegon).</p><div class="border_blue bg_grey puff"><p><strong>Cookies - for information on what cookies are used on our websites and how to manage them, visit our</strong> <a target="_blank" href="http://shared.aegon.co.uk/cookies">cookies <span class="newWindow iconAfter">page</span></a></p></div><h2>Purpose of websites</h2><p>Aegon UK’s websites are intended to provide a number of services to:</p><ul><li>planholders</li><li>scheme members</li><li>employers</li><li>trustees, and</li><li>financial advisers</li></ul><p>We only provide these services to those who they directly concern, and who have authorisation. We’d provide appropriate security accordingly.</p><h2>Use of personal information</h2><p>We’ll only use the information you give us for the following purposes:</p><ul><li>Dealing with your competition entries and publicising competition winners</li><li>Ezine and email registration</li><li>Dealing with your requests and enquiries</li><li>Providing you with information about our products and services</li><li>Carrying out customer and marketing research</li><li>Internal record keeping</li><li>Providing aggregate information and statistics for the purposes of monitoring website usage in order to help us develop our website and services (these statistics won’t include information that can be used to identify any individual) - more information is available on our <a target="_blank" href="http://shared.aegon.co.uk/cookies">cookies <span class="newWindow iconAfter">page</span></a></li><li>Recruitment purposes</li><li>If you’re applying for a vacancy, then your email with any attachment will be sent to the recruitment mailbox and dealt with by the appropriate recruitment consultant</li></ul><p>We don’t sell personal information collected through this website or use your personal data for any purposes other than those outlined above, unless you authorise it.</p><p>Aegon Investment Solutions Ltd and Scottish Equitable plc are subsidiary companies of Aegon UK plc. They and other Aegon UK plc subsidiary companies may send you marketing information. If you don’t want to receive this, please write to Brand and Marketing Media, Aegon, Edinburgh Park, Edinburgh, EH12 9SE.</p><p>Where necessary, we’ll process ‘sensitive data’ (including any medical information) in accordance with the Data Protection Act 1998 (the Act). This could include information about your:</p><ul><li>physical health or condition</li><li>mental health or condition</li><li>sexual life</li></ul><p>If we collect medical data, we may use it to assess any claims you make under the plan, and we’ll hold it for as long as we're required to. We may pass it to re-assurers, private investigators, medical professionals and/or healthcare management companies (which would be used to arrange medicals).</p><p>We have policies in place, which means that we hold all personal data securely and limit access to those who need to see it. We apply extra security to sensitive personal data, such as medical details.</p><p>We’re legally obliged to make information available to regulatory bodies or authorities such as the Financial Services Authority or HM Revenue &amp; Customs. We may also have to disclose information to comply with money laundering laws and for other purposes, for example detecting crime.</p><p>We’ll also share permitted relevant information with anyone acting on your behalf (for example a financial adviser) so they can fully carry out their role as agent.</p><p>We may also disclose your information to third party organisations who process data on our behalf. This could include processing information outside the European Economic Area (EEA). However, where such processing takes place, appropriate controls are in place to ensure the protection of your information.</p><h2>Use of personal information accessed by an organisation</h2><p>We can receive individual planholders' and/or scheme members’ personal information from, and provide it to, employers, trustees and financial advisers, as long as we have the appropriate authority. For example, they can:</p><ul><li>request statement of benefits</li><li>update our records as part of a monthly or yearly renewal of a scheme</li><li>change their members’ personal information</li><li>get valuations of policy or membership benefits</li></ul><h2>How Aegon treats your personal data</h2><p>We fully support and follow the principles of Data Protection, as set out in the Data Protection Act (‘the Act’). We make sure that our staff – and those acting on our behalf – obtain, use and disclose personal data lawfully and correctly. We don’t believe we can operate successfully otherwise. It’s also important in making sure everyone we deal with has confidence in us. This policy operates in all of our offices – both in the UK and overseas.</p><p>Specifically, the principles require that personal information will:</p><ul><li>be processed fairly and lawfully and, in particular, won’t be processed unless specific conditions are met</li><li>be obtained only for one or more specified and lawful purposes, and won’t be further processed in any manner incompatible with that purpose or those purposes</li><li>be adequate, relevant and not excessive in relation to the purpose or purposes for which it’s processed</li><li>be accurate and, where necessary, kept up to date</li><li>not be kept for longer than is necessary for that purpose or those purposes</li><li>be processed in accordance with the rights of the individual under the Act</li><li>have in place appropriate technical and organisational measures against unauthorised or unlawful processing of personal data and against accidental loss or destruction of, or damage to, personal data</li><li>not be transferred to a country or territory outside the European Economic Area (EEA) (the countries of the European Union plus Norway, Liechtenstein and Iceland) unless that country or territory ensures an adequate level of protection for the rights and freedoms of data subjects in relation to the processing of personal data or unless specific agreement has been sought from the individuals concerned</li></ul><p>By using appropriate and consistent management and controls, we’ll:</p><ul><li>meet our legal obligations to specify what we’re using the personal information for in the Scottish Equitable plc Data Protection Notification particulars, which you can find on the Information Commissioner’s website at <a target="_blank" href="http://www.ico.gov.uk"><span class="newWindow iconAfter">http://www.ico.gov.uk</span></a></li><li>only collect and process information to the extent that we need it to operate or to comply with a legal requirement</li><li>make sure the information is accurate and of high quality</li><li>apply checks to determine how long the information is held for</li><li>make sure that the people we hold information on can fully exercise their rights under the Act</li><li>safeguard personal information by taking appropriate technical and organisational security measures</li><li>make sure that personal data isn’t transferred outside the EEA without suitable safeguards or agreement from the individual</li></ul><h2>Your rights under the Data Protection Act</h2><p>You have a number of rights under the Data Protection Act, including:</p><ul><li>the right to get copies of all the personal data that we hold on you, with only a few exceptions, and</li><li>the right not to receive direct marketing</li></ul><p>For Aegon UK customers, if you want a copy of your personal data, please write to Data Protection Officer, Aegon, Lochside Crescent, Edinburgh Park, Edinburgh, EH12 9SE, enclosing your details, a description of the information you want and a cheque for £10, made payable to Aegon UK.</p><p>For Aegon Investment Solutions (Aegon Retirement Choices), if you want a copy of your personal data, please write to Aegon Retirement Choices, PO Box 5070, Cambridge House, Henry Street, Bath, BA1 0QE, enclosing your details, a description of the information you want and a cheque for £10, made payable to AEGON UK.</p><h2>Cookies</h2><p>Our websites use cookies and by using our sites you accept the terms under which these are used - for detailed information, please visit our <a target="_blank" href="http://shared.aegon.co.uk/cookies">cookies <span class="newWindow iconAfter">page</span></a></p><p>You can also find more information about cookies at independent site <a target="_blank" href="http://www.allaboutcookies.org/"><span class="newWindow iconAfter">http://www.allaboutcookies.org/</span></a></p><h2>Third-party use of information</h2><p>You do have the option to transfer to websites that have links on our sites. If you choose to use one of these links, you may be asked for separate login IDs and passwords for these services. We won’t hold on to any information to do with that transfer.</p><h2>Security</h2><p>We’re committed to ensuring your information is protected and held securely. However, the internet is not a secure medium and we can’t accept responsibility for the security of an email during transmission or for non-delivery of that email.</p><p>There are a few simple steps you can take to protect your computer and internet connection – <a target="" href="ssNODELINK/16305">view our tips here</a>.</p><p>We currently operate our security requirements through our security policy:</p><ul><li>Breaches in security are dealt with by the security policy.</li><li>All members of staff, including temporary members of staff, sign confidentiality agreements to make sure they treat the information with respect.</li><li>Staff can only access the systems that they need to do their job.</li><li>We make sure that personal information is only passed to those people and organisations that are entitled to know. We check to confirm that people are who they say they are, and that these organisations or people are allowed to have access to this information. Every business area has its own verification checks that relate to the data held and types of people who may need access.</li><li>Staff are required to complete computer based training in data protection every two years. This makes sure that members of staff know how to treat personal information and the risks involved if it’s poorly treated.</li></ul><p>We’ve put security policies, rules and technical measures in place to protect the personal data that we have under our control from:</p><ul><li>unauthorised access</li><li>improper use or disclosure</li><li>unauthorised modification</li><li>unlawful destruction or accidental loss</li></ul><p>All our employees and data processors who have access to, and are associated with, handling our website visitors' personal data are obliged to respect its confidentiality.</p><h2>Links</h2><p>This website may contain links to other websites. If you use the links to leave this website and visit a website operated by a third party, then we don’t have any control over that website. So we can’t be held responsible for the protection and privacy of any information that you provide while visiting such websites.</p><h2>Applying for job vacancies (iRecruitment)</h2><p>AEGON UK Corporate Services Limited is the data controller of any information you give us. We’ll only use this information for assessing your application against the selection criteria for the particular position you’ve applied for, and for processing your application throughout that selection process. We’ll treat your personal information in confidence and won’t disclose it to any third parties, except where:</p><ul><li>permitted by law or by our regulator</li><li>an agency is used by us as part of the employment screening process, including background checks, criminal history and credit referencing checks</li><li>you’ve given prior consent</li><li>we need to share it with companies in the Aegon UK Group as part of the selection and application process</li></ul><p>Unless you instruct us otherwise, we’ll keep your CV and the results of any screening processes for 18 months. If your application is successful, we’ll keep the information and hold it during your employment and for a specific length of time after your employment with us ends.</p><p>Our Data Protection Policy means that we hold all personal data securely and limit access to those who need to see it. We apply extra security to sensitive personal data, such as medical data and results of criminal checks.</p><p>You have the right to request a copy of the personal data we hold about you. We reserve the right to charge a fee for this in line with terms of the Data Protection Act.</p><!--SS_END_ELEMENT(region1_element4)-->
+					<!--SS_BEGIN_ELEMENT(region1_element4)--><p>This privacy statement sets out how Aegon UK uses and protects any personal information that you give us when you use this website. Depending on the part of the website you’re visiting, the data controller for any personal information you give us is either Scottish Equitable plc or Aegon Investment Solutions Ltd (both of which trade as Aegon).</p><div class="border_blue bg_grey puff"><p><strong>Cookies - for information on what cookies are used on our websites and how to manage them, visit our</strong> <a target="_blank" href="http://shared.aegon.co.uk/cookies">cookies <span class="newWindow iconAfter">page</span></a></p></div><h2>Purpose of websites</h2><p>Aegon UK’s websites are intended to provide a number of services to:</p><ul><li>planholders</li><li>scheme members</li><li>employers</li><li>trustees, and</li><li>financial advisers</li></ul><p>We only provide these services to those who they directly concern, and who have authorisation. We’d provide appropriate security accordingly.</p><h2>Use of personal information</h2><p>We’ll only use the information you give us for the following purposes:</p><ul><li>Dealing with your competition entries and publicising competition winners</li><li>Ezine and email registration</li><li>Dealing with your requests and enquiries</li><li>Providing you with information about our products and services</li><li>Carrying out customer and marketing research</li><li>Internal record keeping</li><li>Providing aggregate information and statistics for the purposes of monitoring website usage in order to help us develop our website and services (these statistics won’t include information that can be used to identify any individual) - more information is available on our <a target="_blank" href="http://shared.aegon.co.uk/cookies">cookies <span class="newWindow iconAfter">page</span></a></li><li>Recruitment purposes</li><li>If you’re applying for a vacancy, then your email with any attachment will be sent to the recruitment mailbox and dealt with by the appropriate recruitment consultant</li></ul><p>We don’t sell personal information collected through this website or use your personal data for any purposes other than those outlined above, unless you authorise it.</p><p>Aegon Investment Solutions Ltd and Scottish Equitable plc are subsidiary companies of Aegon UK plc. They and other Aegon UK plc subsidiary companies may send you marketing information. If you don’t want to receive this, please write to Brand and Marketing Media, Aegon, Edinburgh Park, Edinburgh, EH12 9SE.</p><p>Where necessary, we’ll process ‘sensitive data’ (including any medical information) in accordance with the Data Protection Act 1998 (the Act). This could include information about your:</p><ul><li>physical health or condition</li><li>mental health or condition</li><li>sexual life</li></ul><p>If we collect medical data, we may use it to assess any claims you make under the plan, and we’ll hold it for as long as we're required to. We may pass it to re-assurers, private investigators, medical professionals and/or healthcare management companies (which would be used to arrange medicals).</p><p>We have policies in place, which means that we hold all personal data securely and limit access to those who need to see it. We apply extra security to sensitive personal data, such as medical details.</p><p>We’re legally obliged to make information available to regulatory bodies or authorities such as the Financial Services Authority or HM Revenue &amp; Customs. We may also have to disclose information to comply with money laundering laws and for other purposes, for example detecting crime.</p><p>We’ll also share permitted relevant information with anyone acting on your behalf (for example a financial adviser) so they can fully carry out their role as agent.</p><p>We may also disclose your information to third party organisations who process data on our behalf. This could include processing information outside the European Economic Area (EEA). However, where such processing takes place, appropriate controls are in place to ensure the protection of your information.</p><h2>Use of personal information accessed by an organisation</h2><p>We can receive individual planholders' and/or scheme members’ personal information from, and provide it to, employers, trustees and financial advisers, as long as we have the appropriate authority. For example, they can:</p><ul><li>request statement of benefits</li><li>update our records as part of a monthly or yearly renewal of a scheme</li><li>change their members’ personal information</li><li>get valuations of policy or membership benefits</li></ul><h2>How Aegon treats your personal data</h2><p>We fully support and follow the principles of Data Protection, as set out in the Data Protection Act (‘the Act’). We make sure that our staff – and those acting on our behalf – obtain, use and disclose personal data lawfully and correctly. We don’t believe we can operate successfully otherwise. It’s also important in making sure everyone we deal with has confidence in us. This policy operates in all of our offices – both in the UK and overseas.</p><p>Specifically, the principles require that personal information will:</p><ul><li>be processed fairly and lawfully and, in particular, won’t be processed unless specific conditions are met</li><li>be obtained only for one or more specified and lawful purposes, and won’t be further processed in any manner incompatible with that purpose or those purposes</li><li>be adequate, relevant and not excessive in relation to the purpose or purposes for which it’s processed</li><li>be accurate and, where necessary, kept up to date</li><li>not be kept for longer than is necessary for that purpose or those purposes</li><li>be processed in accordance with the rights of the individual under the Act</li><li>have in place appropriate technical and organisational measures against unauthorised or unlawful processing of personal data and against accidental loss or destruction of, or damage to, personal data</li><li>not be transferred to a country or territory outside the European Economic Area (EEA) (the countries of the European Union plus Norway, Liechtenstein and Iceland) unless that country or territory ensures an adequate level of protection for the rights and freedoms of data subjects in relation to the processing of personal data or unless specific agreement has been sought from the individuals concerned</li></ul><p>By using appropriate and consistent management and controls, we’ll:</p><ul><li>meet our legal obligations to specify what we’re using the personal information for in the Scottish Equitable plc Data Protection Notification particulars, which you can find on the Information Commissioner’s website at <a target="_blank" href="http://www.ico.gov.uk"><span class="newWindow iconAfter">http://www.ico.gov.uk</span></a></li><li>only collect and process information to the extent that we need it to operate or to comply with a legal requirement</li><li>make sure the information is accurate and of high quality</li><li>apply checks to determine how long the information is held for</li><li>make sure that the people we hold information on can fully exercise their rights under the Act</li><li>safeguard personal information by taking appropriate technical and organisational security measures</li><li>make sure that personal data isn’t transferred outside the EEA without suitable safeguards or agreement from the individual</li></ul><h2>Your rights under the Data Protection Act</h2><p>You have a number of rights under the Data Protection Act, including:</p><ul><li>the right to get copies of all the personal data that we hold on you, with only a few exceptions, and</li><li>the right not to receive direct marketing</li></ul><p>For Aegon UK customers, if you want a copy of your personal data, please write to Data Protection Officer, Aegon, Lochside Crescent, Edinburgh Park, Edinburgh, EH12 9SE, enclosing your details, a description of the information you want and a cheque for £10, made payable to Aegon UK.</p><p>For Aegon Investment Solutions (Aegon Retirement Choices), if you want a copy of your personal data, please write to Aegon Retirement Choices, PO Box 5070, Cambridge House, Henry Street, Bath, BA1 0QE, enclosing your details, a description of the information you want and a cheque for £10, made payable to Aegon UK.</p><h2>Cookies</h2><p>Our websites use cookies and by using our sites you accept the terms under which these are used - for detailed information, please visit our <a target="_blank" href="http://shared.aegon.co.uk/cookies">cookies <span class="newWindow iconAfter">page</span></a></p><p>You can also find more information about cookies at independent site <a target="_blank" href="http://www.allaboutcookies.org/"><span class="newWindow iconAfter">http://www.allaboutcookies.org/</span></a></p><h2>Third-party use of information</h2><p>You do have the option to transfer to websites that have links on our sites. If you choose to use one of these links, you may be asked for separate login IDs and passwords for these services. We won’t hold on to any information to do with that transfer.</p><h2>Security</h2><p>We’re committed to ensuring your information is protected and held securely. However, the internet is not a secure medium and we can’t accept responsibility for the security of an email during transmission or for non-delivery of that email.</p><p>There are a few simple steps you can take to protect your computer and internet connection – <a target="" href="ssNODELINK/16305">view our tips here</a>.</p><p>We currently operate our security requirements through our security policy:</p><ul><li>Breaches in security are dealt with by the security policy.</li><li>All members of staff, including temporary members of staff, sign confidentiality agreements to make sure they treat the information with respect.</li><li>Staff can only access the systems that they need to do their job.</li><li>We make sure that personal information is only passed to those people and organisations that are entitled to know. We check to confirm that people are who they say they are, and that these organisations or people are allowed to have access to this information. Every business area has its own verification checks that relate to the data held and types of people who may need access.</li><li>Staff are required to complete computer based training in data protection every two years. This makes sure that members of staff know how to treat personal information and the risks involved if it’s poorly treated.</li></ul><p>We’ve put security policies, rules and technical measures in place to protect the personal data that we have under our control from:</p><ul><li>unauthorised access</li><li>improper use or disclosure</li><li>unauthorised modification</li><li>unlawful destruction or accidental loss</li></ul><p>All our employees and data processors who have access to, and are associated with, handling our website visitors' personal data are obliged to respect its confidentiality.</p><h2>Links</h2><p>This website may contain links to other websites. If you use the links to leave this website and visit a website operated by a third party, then we don’t have any control over that website. So we can’t be held responsible for the protection and privacy of any information that you provide while visiting such websites.</p><h2>Applying for job vacancies (iRecruitment)</h2><p>Aegon UK Corporate Services Limited is the data controller of any information you give us. We’ll only use this information for assessing your application against the selection criteria for the particular position you’ve applied for, and for processing your application throughout that selection process. We’ll treat your personal information in confidence and won’t disclose it to any third parties, except where:</p><ul><li>permitted by law or by our regulator</li><li>an agency is used by us as part of the employment screening process, including background checks, criminal history and credit referencing checks</li><li>you’ve given prior consent</li><li>we need to share it with companies in the Aegon UK Group as part of the selection and application process</li></ul><p>Unless you instruct us otherwise, we’ll keep your CV and the results of any screening processes for 18 months. If your application is successful, we’ll keep the information and hold it during your employment and for a specific length of time after your employment with us ends.</p><p>Our Data Protection Policy means that we hold all personal data securely and limit access to those who need to see it. We apply extra security to sensitive personal data, such as medical data and results of criminal checks.</p><p>You have the right to request a copy of the personal data we hold about you. We reserve the right to charge a fee for this in line with terms of the Data Protection Act.</p><!--SS_END_ELEMENT(region1_element4)-->
 					<!--SS_BEGIN_ELEMENT(region1_element5)--><!--SS_END_ELEMENT(region1_element5)-->
 					<!--SS_BEGIN_CLOSEREGIONMARKER(region1)--><!--SS_END_CLOSEREGIONMARKER(region1)-->
 
@@ -14471,15 +10946,15 @@
 
 			</div><!--Inner END -->
 			  <div class="clear"></div>
-		  </div><!--header_image END--> 
 		</div><!--content END-->
 
-		<div id="footer_image">&nbsp;</div>
 		</div><!--container END-->
 
 	
+	
 
 	<div id="footer">
+		<div id="fStrip"> 
 	
 	
 	
@@ -14490,373 +10965,26 @@
 	
 	
 	
+				<ul>
+	
+						<li><a href="http://www.aegon.co.uk/static/shared/global-site-list/" id="countriesTrigger">Aegon country</a></li> <li><a href="/About-AEGON/Contact-us/">Contact</a></li> <li><a href="/About-AEGON/Careers-with-AEGON/">Careers</a></li> <li><a href="http://www.aegontennis.co.uk/">Aegon Tennis</a></li>
+				</ul>
+				
+	
+	
+	
+
 	 
-
-	
-
-	
-	
 		
 
-	 
 	
-
-		<div id="footer_linkholder">
-		
-		
-			
-		
-			
+	
+	
+				<ul id="channels"> 
+					<li id="twitter"><a target="_blank" title="Follow us on Twitter" href="https://twitter.com/aegonuk"><span>Twitter</span></a></li> <li id="linkedIn"><a target="_blank" title="Join us on LinkedIn" href="http://uk.linkedin.com/company/aegon-uk"><span>LinkedIn</span></a></li> <li id="youTube"><a target="_blank" title="View our latest videos on YouTube" href="http://www.youtube.com/aegonuk"><span>YouTube</span></a></li> <li id="rss"><a target="_blank" title="Stay up to date with our RSS" href="http://www.aegon.co.uk/About-AEGON/Media-centre/Press-releases/index.htm?showRSS=true"><span>RSS</span></a></li> <li id="newsletter"><a target="_blank" title="Stay up to date with our newsletter" href=" http://communicatoremail.com/IN/F/gkU43p7o5GkBd1RhjjwyET/"><span>Newsletter</span></a></li>
+				</ul>
 				
-				
-					
-						<div class="puff left">
-							<h3>Customers</h3>
-							<ul>
-									
-																		
-									
-																		
-									
-																		
-									
-										
-										
-										<li>
-											<a href="/About-AEGON/Contact-us/index.htm">About our online services
-											</a>
-										</li>
-																		
-									
-										
-										
-										<li>
-											<a href="/About-AEGON/Contact-us/index.htm">Contact us
-											</a>
-										</li>
-																		
-									
-																		
-									
-										
-										
-										<li>
-											<a href="/About-AEGON/Contact-us/Makingacomplaint/index.htm">Making a complaint
-											</a>
-										</li>
-																		
-							</ul>
-						</div>
-		
-		
-			
-		
-			
-				
-				
-					
-						<div class="puff left">
-							<h3>Industry, press and media</h3>
-							<ul>
-									
-										
-										
-										<li>
-											<a href="/About-AEGON/Industry-insights/index.htm">Industry insights and blog
-											</a>
-										</li>
-																		
-									
-																		
-									
-																		
-									
-										
-										
-										<li>
-											<a href="/About-AEGON/Retirement-Readiness-Survey/index.htm">Latest research
-											</a>
-										</li>
-																		
-									
-										
-										
-										<li>
-											<a href="/About-AEGON/Media-centre/Press-releases/index.htm">Media and press releases
-											</a>
-										</li>
-																		
-									
-																		
-							</ul>
-						</div>
-		
-		
-			
-		
-			
-				
-				
-					
-						<div class="puff left">
-							<h3>About us</h3>
-							<ul>
-									
-																		
-									
-																		
-									
-																		
-									
-																		
-									
-										
-										
-										<li>
-											<a href="/About-AEGON/How-to-buy-an-AEGON-product/index.htm">How to buy our products
-											</a>
-										</li>
-																		
-									
-										
-										
-										<li>
-											<a href="/About-AEGON/Who-we-are/Corporate-responsibility/index.htm">Corporate responsibility
-											</a>
-										</li>
-																		
-									
-										
-										
-										<li>
-											<a href="/About-AEGON/Our-sponsorships/index.htm">Tennis and sponsorships
-											</a>
-										</li>
-																		
-							</ul>
-						</div>
-		
-		
-			
-		
-				
-				
-					
-						<div class="puff left last">
-							<h3>Other Aegon sites</h3>
-							<ul>
-									
-																		
-									
-																		
-									
-										
-										
-	
-	
-	
-
-		
-		
-			
-		
-			
-		
-			
-		
-			
-		
-			
-		
-			
-		
-			
-		
-			
-		
-			
-		
-			
-		
-			
-		
-			
-		
-			
-		
-			
-		
-			
-		
-			
-		
-			
-		
-			
-		
-			
-		
-			
-		
-			
-		
-			
-		
-			
-		
-		
-
-	
-
-	
-	
-	
-
-	
-
-										<li>
-											<a href="/LargeFooter/Other-AEGON-sites/AEGON-and-British-Tennis/index.htm" target="_blank">Aegon and British <span class="newWindow iconAfter">Tennis</span>
-											</a>
-										</li>
-																		
-									
-										
-										
-	
-	
-	
-
-		
-		
-			
-		
-			
-		
-			
-		
-			
-		
-			
-		
-			
-		
-			
-		
-			
-		
-			
-		
-			
-		
-			
-		
-			
-		
-			
-		
-			
-		
-		
-
-	
-
-	
-	
-	
-
-	
-
-										<li>
-											<a href="/LargeFooter/Other-AEGON-sites/Pensions-reform/index.htm" target="_blank">Pensions <span class="newWindow iconAfter">reform</span>
-											</a>
-										</li>
-																		
-									
-										
-										
-	
-	
-	
-
-		
-		
-			
-		
-			
-		
-			
-		
-			
-		
-			
-		
-			
-		
-			
-		
-			
-		
-			
-		
-			
-		
-			
-		
-			
-		
-			
-		
-			
-		
-			
-		
-			
-		
-			
-		
-			
-		
-			
-		
-			
-		
-			
-		
-			
-		
-			
-		
-			
-		
-			
-		
-			
-		
-		
-
-	
-
-	
-	
-	
-
-	
-
-										<li>
-											<a href="/LargeFooter/Other-AEGON-sites/AEGON-International-Investments/index.htm" target="_blank">Aegon int'l <span class="newWindow iconAfter">investments</span>
-											</a>
-										</li>
-																		
-							</ul>
-						</div>
-			<div class="clear"></div>
 		</div>
-
-	
-
-
-	
-
 	
 
 	
@@ -14877,11 +11005,10 @@
 	
 		
 
-	 
 	
 
-
-		<ul>
+		<ul id="zLinks">
+			<li>© <span>2013</span> Aegon</li>
 				
 					
 					<li>
@@ -14934,7 +11061,8 @@
 
 	
 	
-	<p id="copyright" class="footerlong">Aegon is a brand name of Scottish Equitable plc and Aegon UK plc. Scottish Equitable plc is authorised and regulated by the Financial Services Authority - <a href="http://www.aegon.co.uk/Footer/Legal/AEGON-group-companies/index.htm">view company and regulator information</a>. An Aegon company.<br> © <span>&nbsp;</span> Aegon UK plc</p>
+	
+	<p id="zClause">Aegon is a brand name of Scottish Equitable plc and Aegon UK plc. Scottish Equitable plc is authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority and the Prudential Regulation Authority - <a href="http://www.aegon.co.uk/Footer/Legal/AEGON-group-companies/index.htm">view company and regulatory information</a>. FCA register number 165548. An Aegon company.</p>
 	
 
 	
