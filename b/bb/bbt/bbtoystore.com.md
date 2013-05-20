@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bbtoystore.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225085700id_/http%3A//www.bbtoystore.com/store/CS_privacy.html%23privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbtoystore.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520211831id_/http%3A//www.bbtoystore.com/store/CS_privacy.html%23privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy & About Us : BBToyStore.com - Toys, Plush, Trading Cards, Action Figures & Games online retail store shop sale
 
