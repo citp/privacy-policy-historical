@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the biz4security.com privacy policy that was archived on 2012-11-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121117212222id_/http%3A//www.biz4security.com/help/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the biz4security.com privacy policy that was archived on 2013-05-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130521004036id_/http%3A//biz4security.com/help/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -9,7 +9,7 @@
 <meta name="description" content="Privacy">
 <link href="http://www.biz4security.com/css/help.css" rel="stylesheet" type="text/css">
 <link href="http://www.biz4security.com/css/seaarch_header.css" rel="stylesheet" type="text/css">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.biz4security.com/scripts/jquery-1.4.4.min.js"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.biz4security.com/scripts/jquery-1.4.4.min.js"></script>
 <script type="text/javascript" src="http://www.biz4security.com/js/selectbox.js"></script>
 <script type="text/javascript"> 
 $(function(){
@@ -22,7 +22,14 @@ $(function(){
 		if (key_word == 'Enter keywords') {
 			key_word = '';
 		}
-		window.location.href = base_url + list_type + "/list.php?do=search&q="+ key_word;
+		if ( list_type != 'product' ) {
+			window.location.href = base_url + list_type + "/list.php?do=search&q="+ key_word;
+		} else {
+			cid = '' ? '' : '0';
+			key_word = key_word.length ? key_word : 'index';
+			url = 'search/'+cid+'/'+key_word+'.html';
+			window.location.href = base_url + url;
+		}
 	});
 	$('#head_q').keydown(function(event){
 		if (event.keyCode==13){
@@ -32,7 +39,14 @@ $(function(){
 			if (key_word == 'Enter keywords') {
 				key_word = '';
 			}
-			window.location.href = base_url + list_type + "/list.php?do=search&q="+ key_word;
+			if ( list_type != 'product' ) {
+				window.location.href = base_url + list_type + "/list.php?do=search&q="+ key_word;
+			} else {
+				cid = '' ? '' : '0';
+				key_word = key_word.length ? key_word : 'index';
+				url = 'search/'+cid+'/'+key_word+'.html';
+				window.location.href = base_url + url;
+			}
 		}
 	}).focus(function(){
 		$(this).select();
@@ -46,7 +60,14 @@ $(function(){
 		if (key_word == 'Enter keywords') {
 			key_word = '';
 		}
-		window.location.href = base_url + list_type + "/list.php?do=search&q="+ key_word;
+		if ( list_type != 'product' ) {
+			window.location.href = base_url + list_type + "/list.php?do=search&q="+ key_word;
+		} else {
+			cid = '' ? '' : '0';
+			key_word = key_word.length ? key_word : 'index';
+			url = 'search/'+cid+'/'+key_word+'.html';
+			window.location.href = base_url + url;
+		}
 	});
 	$('#foot_q').keydown(function(event){
 		if (event.keyCode==13){
@@ -56,7 +77,14 @@ $(function(){
 			if (key_word == 'Enter keywords') {
 				key_word = '';
 			}
-			window.location.href = base_url + list_type + "/list.php?do=search&q="+ key_word;
+			if ( list_type != 'product' ) {
+				window.location.href = base_url + list_type + "/list.php?do=search&q="+ key_word;
+			} else {
+				cid = '' ? '' : '0';
+				key_word = key_word.length ? key_word : 'index';
+				url = 'search/'+cid+'/'+key_word+'.html';
+				window.location.href = base_url + url;
+			}
 		}
 	}).focus(function(){
 		$(this).select();
@@ -68,21 +96,31 @@ $(function(){
 
 
 
+<!-- Google Analytics -->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-28189996-1']);
+  _gaq.push(['_trackPageview']);
 
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
 </head>
-<!-- $Rev: 3353 $ -->
+<!-- $Rev: 3417 $ -->
 <body>
 <div id="page">
  	<div id="header_top">
 		<div id="header_title">
 			<div class="header_title_logo">
 				<div id="deta">
-				<ul>
-				<li>Welcome to Biz4Security </li>
-				<li style="margin-top:-3px; width:30px;"><img src="http://www.biz4security.com/images/images/beta.gif" width="42" height="21" alt=""></li>
-				</ul>
+					<ul>
+						<li style="width:180px; height:21px; line-height:21px;background:url(http://www.biz4security.com/images/images/beta.gif) no-repeat right">Welcome to Biz4Security </li>
+					</ul>
 				</div>
-  	     <div style="width:400px; border: #fff solid 1px; float:left;"> 					<span style="font-family:Arial, Helvetica, sans-serif; font-size:12px; margin-left:20px; color:#039;"></span>
+  	     <div style="width:400px; float:left;"> 					<span style="font-family:Arial, Helvetica, sans-serif; font-size:12px; margin-left:20px; color:#039;"></span>
 				 
  				</div>
 				<div style="clear:left"></div>
@@ -105,16 +143,16 @@ $(function(){
 					</li>
 					<li><a href="http://www.biz4security.com/" title="Home"><img src="http://www.biz4security.com/images/images/Home_mune_01.gif" width="52" height="44" alt=""></a>
 					</li>
-					<li><a href="http://www.biz4security.com/product/" title="Security Products"><img src="http://www.biz4security.com/images/images/products.gif" width="119" height="44" alt=""></a>
+					<li><a href="http://www.biz4security.com/product/" title="Security Products"><div class="p_it">Products</div><img src="http://www.biz4security.com/images/images/products.gif" width="119" height="44" alt=""></a>
 					</li>
-					<li><a href="http://www.biz4security.com/company/" title="Security Company Directory"><img src="http://www.biz4security.com/images/images/suppliers.gif" width="130" height="44" alt=""></a>
+					<li><a href="http://www.biz4security.com/company/" title="Security Company Directory"><div class="p_it_s">Suppliers</div><img src="http://www.biz4security.com/images/images/suppliers.gif" width="130" height="44" alt=""> </a>
 					</li>
-					<li><a href="http://www.biz4security.com/buy/" title="Buying Leads"><img src="http://www.biz4security.com/images/images/buyers.gif" width="109" height="44" alt=""></a>
+					<li><a href="http://www.biz4security.com/buy/" title="Buying Leads"><div class="p_it">Buyers</div><img src="http://www.biz4security.com/images/images/buyers.gif" width="109" height="44" alt=""></a>
 					</li>
 					
-<li><a href="http://www.biz4security.com/events/" title="Show Planner"><img src="http://www.biz4security.com/images/images/events.gif" width="96" height="44" alt=""></a></li>					
+<li><a href="http://www.biz4security.com/events/" title="Show Planner"><div class="p_it_e">Events</div><img src="http://www.biz4security.com/images/images/events.gif" width="96" height="44" alt=""></a></li>					
 					
-					<li><a href="http://www.biz4security.com/news/" title="Security News"><img src="http://www.biz4security.com/images/images/news.gif" width="99" height="44" alt=""></a>
+					<li><a href="http://www.biz4security.com/news/" title="Security News"><div class="p_it_e">News</div><img src="http://www.biz4security.com/images/images/news.gif" width="99" height="44" alt=""></a>
 					</li>
 				</ul>
 			</div>
@@ -123,7 +161,7 @@ $(function(){
 	<div class="searchform" style="position:relative;">
 		<form id="header_search_form" name="header_search_form" method="get" action="">
 			<div class="searchIntelligent" id="searchIntelligent">
-			<input name="q" id="head_q" type="text" class="search_borde borde_append" value="Enter keywords" size="100" height="24">
+			<input name="q" id="head_q" type="text" class="search_borde borde_append" value="Enter keywords" size="100" height="24" ;line-heihgt="24">
 			</div>
 			<div class="select_box">
 			<select style="display:none;" id="mySle" name="mySle">
@@ -149,11 +187,11 @@ Popular Search: <span style="margin-right:20px;">
 <a href="product/list.php?do=search&amp;q=IP Camera" title="IP Camera">IP Camera</a>,&nbsp;
 <a href="product/list.php?do=search&amp;q=Alarm">Alarm</a>
 </span>
-<span>Related Search: <a href="offer/list.php?do=search&amp;q=%28DA-208G%29" title="(DA-208G)">(DA-208G)</a>, <a href="offer/list.php?do=search&amp;q=GSM%2FPSTN" title="GSM/PSTN">GSM/PSTN</a>, <a href="offer/list.php?do=search&amp;q=%28DA-911A%29" title="(DA-911A)">(DA-911A)</a></span>
+<span>Related Search: <a href="offer/list.php?do=search&amp;q=cable" title="cable">cable</a>, <a href="offer/list.php?do=search&amp;q=fiber" title="fiber">fiber</a>, <a href="offer/list.php?do=search&amp;q=optic" title="optic">optic</a></span>
 </div>
-<!-- $Rev: 2379 $ -->		</div><!-- end header_nav --->
+<!-- $Rev: 3429 $ -->		</div><!-- end header_nav --->
 	</div><!-- end head_top -->
-<!-- Header $Rev: 3203 $ -->
+<!-- Header $Rev: 3428 $ -->
 
 <div id="main">
 	
@@ -278,7 +316,8 @@ $(function(){
 			<ul>
 				<li><!--<a href="http://www.biz4security.com/company/">Top 100 suppliers</a>--></li>
 				<li><a href="http://www.biz4security.com/news/">Featured News</a></li>
-				<li><a href="http://www.biz4security.com/friendlink.php">Link Exchange</a></li>
+				<li><a href="http://www.biz4security.com/friendlink.php" rel="nofollow">Link Exchange</a></li>
+				<li><a href="http://www.biz4security.com/sitemap.php">Site Map</a></li>
 			</ul>
 		</div>
 		<div id="footer_help">
@@ -299,16 +338,16 @@ $(function(){
 		<div id="footer_support">
 			<h2>Support</h2>
 			<ul>
-				<li><a href="http://www.biz4security.com/help/privacy.html">Privacy</a></li>
-				<li><a href="http://www.biz4security.com/help/terms-of-use.html">Terms of Use</a></li>
+				<li><a href="http://www.biz4security.com/help/privacy.html" rel="nofollow">Privacy</a></li>
+				<li><a href="http://www.biz4security.com/help/terms-of-use.html" rel="nofollow">Terms of Use</a></li>
 							</ul>
 		</div>
 		<div style="width: 182px;" id="footer_support">
 			<h2>About&amp;Contact</h2>
 			<ul>
-				<li><a href="http://www.biz4security.com/help/about-us.html">About Us</a></li>
-				<li><a href="http://www.biz4security.com/help/contact-us.html">Contact Us</a></li>
-				<li><a href="http://www.biz4security.com/help/advertising-inquiry.html">Advertising Inquiry</a></li>
+				<li><a href="http://www.biz4security.com/help/about-us.html" rel="nofollow">About Us</a></li>
+				<li><a href="http://www.biz4security.com/help/contact-us.html" rel="nofollow">Contact Us</a></li>
+				<li><a href="http://www.biz4security.com/help/advertising-inquiry.html" rel="nofollow">Advertising Inquiry</a></li>
 			</ul>
 		</div>
 		
@@ -335,16 +374,15 @@ $(function(){
 				</div>
 			</div>
 
-			<div id="footer_nav_corpy"><span style="color:#039">Copyright Notice</span> © 2011 www.biz4security.com. All rights reserved.</div>
+			<div id="footer_nav_corpy"><span style="color:#039">Copyright Notice</span> © 2012 www.biz4security.com. All rights reserved.</div>
 		</div><!-- end #footer_Search -->
 
 	</div><!-- end #footer_more -->
 </div><!-- end #footer -->
-<!-- Footer $Rev: 3380 $ -->
+<!-- Footer $Rev: 3399 $ -->
 
 </div><!-- end #page -->
 	<script type="text/javascript">
-
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-28189996-1']);
   _gaq.push(['_trackPageview']);
@@ -354,7 +392,6 @@ $(function(){
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
-
 </script>
 
 <script>
@@ -367,4 +404,5 @@ $(function(){
 	}
 </script>
 <script src="http://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
-</body></html>
+
+<!-- Page $Rev: 2027 $ --></body></html>
