@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the txt2day.com privacy policy that was archived on 2012-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121113155157id_/http%3A//www.txt2day.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the txt2day.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520142146id_/http%3A//www.txt2day.com/privacy.php) for the most accurate reproduction.*
 
 # Free SMS Text Messaging - Send Free SMS Text Messages to Any Provider.
 
@@ -8,7 +8,7 @@ Txt2day.com (hereby called "the site") is a free email to SMS delivery service t
 
   
 
-  * The site reserves the right to change any or all of this privacy policy. Any changes made will be posted under the [Terms of Use](https://web.archive.org/web/20121113155157id_/http%3A//www.txt2day.com/tos.php) section of the site. All users of the site agree to this privacy policy. All users of the site are also bound by the terms of service. These terms of service (TOS) are a binding contract between the user and teh site.
+  * The site reserves the right to change any or all of this privacy policy. Any changes made will be posted under the [Terms of Use](https://web.archive.org/web/20130520142146id_/http%3A//www.txt2day.com/tos.php) section of the site. All users of the site agree to this privacy policy. All users of the site are also bound by the terms of service. These terms of service (TOS) are a binding contract between the user and teh site.
 
 **Information Collected**
 
