@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the promo.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626172809id_/http%3A//www.promo.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the promo.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520231817id_/http%3A//www.promo.com/privacy-policy) for the most accurate reproduction.*
 
-# Promo.com>>Before you buy anything
+# Promo.com | Promo.com Privacy Policy
 
 **What information do we collect?**
 
