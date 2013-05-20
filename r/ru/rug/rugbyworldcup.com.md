@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rugbyworldcup.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021073508id_/http%3A//www.rugbyworldcup.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rugbyworldcup.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520022418id_/http%3A//www.rugbyworldcup.com/privacypolicy.html) for the most accurate reproduction.*
 
-# Official RWC 2015 Site
+# Official RWC 2015 Site - Privacy statement
 
 Rugby World Cup Limited and/or its associated companies (including the International Rugby Board) ("RWC", “us”, “our “or “we”) have created this privacy statement to demonstrate our firm commitment to privacy. The following is a full description of our information collection and dissemination practices for www.rugbyworldcup.com ("the site"). It sets out what information is collected about you when you visit the site, how this information is used, if it is disclosed and the way in which we protect user’s privacy. Please read the following carefully to understand our views and practices regarding your personal information and how we will treat it.
 
