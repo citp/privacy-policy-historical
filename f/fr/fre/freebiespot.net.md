@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freebiespot.net privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005200128id_/http%3A//www.freebiespot.net/4814/freebie-spots-disclosure-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freebiespot.net privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520221852id_/http%3A//www.freebiespot.net/4814/freebie-spots-disclosure-policy) for the most accurate reproduction.*
 
 # Freebie Spot Disclosure Policy and Privacy Policy | Freebie Spot
 
@@ -86,4 +86,4 @@ About The Author
 
 ##  Jenny 
 
-Hi there! I'm Jenny, a coffee-addicted, busy-body, work at home mom of two insane boys age 9 & 4\. I'm married to my best friend, obsessed with the Packers, and I love to cook, read, and design blogs (I'm kindof a geek). I love to hear from my readers so leave a comment below to join the conversation!
+Hi there! I'm Jenny, a coffee-addicted, busy-body, work at home mom of two insane boys age 10 & 4\. I'm married to my best friend, obsessed with the Packers, and I love to cook, read, and design blogs (I'm kindof a geek). I love to hear from my readers so leave a comment below to join the conversation!
