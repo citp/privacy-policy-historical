@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reliant.com privacy policy that was archived on 2012-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121210023240id_/http%3A//www.reliant.com/PublicResourceDispatcher%3FpageAlias%3DPrivacy%26userProfile%3DFALSE%26siteLocationFlag%3DFALSE) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reliant.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520221146id_/http%3A//www.reliant.com/PublicResourceDispatcher%3FpageAlias%3DPrivacy%26userProfile%3DFALSE%26siteLocationFlag%3DFALSE) for the most accurate reproduction.*
 
 # Reliant - Privacy Statement
 
@@ -62,7 +62,7 @@ Back to Top
 
   * **For Promotional Purposes**   
 Except in the event of a business transfer, we will not share, trade or sell personal information about you for promotional use by any business, other than Reliant and its affiliates. However, we may sometimes send offers to Reliant customers on behalf of other businesses. When we do this, we do not give that business the name, address, telephone number or email address of our customers. When companies acquire other businesses, sell all, or portions of their business, customer information generally is one of the transferred assets. If Reliant or substantially all of its assets are transferred through merger, acquisition, bankruptcy or any other change of corporate control then, customer information will of course be one of the transferred assets. Aggregated and statistical data from our website visitors may be shared with our partners. For example, we may let a partner know that approximately "20,000 people visited a web page regarding a specific joint promotion." All employees, contractors and other companies engaged by Reliant for work that involves access to personal information are contractually required to keep the information confidential and not to use it in any way other than what is necessary to perform their work for Reliant.
-  * **For Protection of Reliant Energy and Others**   
+  * **For Protection of Reliant and Others**   
 We may release personal data, including account information, when we believe release is appropriate to comply with laws, regulations or judicial orders; or to protect the rights, property, or safety of Reliant, our customers, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. Reliant also reserves the right to share the information to respond to duly authorized information requests of governmental authorities or where required by law or regulation.
 
 
@@ -123,7 +123,7 @@ Be sure to include your complete name, address and telephone number and sign the
 **The PUC has established two do-not-call lists. You can indicate to the PUC that you do not wish to receive telephone solicitations from providers of electric service regarding your choice of service provider by placing your name, address, and telephone number on the electric do-not-call list. You can indicate that you prefer not to receive any telephone solicitations by placing your name, address, and telephone number on the statewide do-not-call list. The PUC charges a fee for this service. For more information or to register your name, address, and telephone number on the do-not-call lists you may use one of three different methods.
 
 Online - [www.texasnocall.com](http://www.texasnocall.com/)[   
-](http://www.texasnocall.com/) By phone – call toll-free   
+](http://www.texasnocall.com/)By phone – call toll-free   
 By mail – request an application from  
 Texas No Call  
 P.O. Box 313  
