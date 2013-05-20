@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the favequilts.com privacy policy that was archived on 2012-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121230184543id_/http%3A//www.favequilts.com/index.php/hct/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the favequilts.com privacy policy that was archived on 2013-05-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130520073617id_/http%3A//www.favequilts.com/index.php/hct/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://ogp.me/ns/fb#"><head>
 
@@ -50,24 +50,24 @@
 	<!--<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>-->
 	<!--<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.5/jquery.min.js"></script>-->
 	<!--<script type="text/javascript" src="/javascript/jquery-1.5.min.js"></script>-->
-	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" src="http://cf2.primecp.com/javascript/jquery-1.5.2.min.js?v=13"></script>
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" src="http://cf2.primecp.com/javascript/jquery-1.5.2.min.js?v=3"></script>
 	
 	<!-- start jquery ui -->
 	<!-- this was installed to get the autocomplete feature, contains: Core, Widget, Position, Autocomplete -->
-	<script type="text/javascript" src="http://cf2.primecp.com/javascript/jquery-ui-1.8.12.custom/js/jquery-ui-1.8.12.custom.min.js?v=13"></script>
-	<link rel="stylesheet" type="text/css" href="/javascript/jquery-ui-1.8.12.custom/css/ui-lightness/jquery-ui-1.8.12.custom.css?v=13" media="screen">
+	<script type="text/javascript" src="http://cf2.primecp.com/javascript/jquery-ui-1.8.12.custom/js/jquery-ui-1.8.12.custom.min.js?v=3"></script>
+	<link rel="stylesheet" type="text/css" href="/javascript/jquery-ui-1.8.12.custom/css/ui-lightness/jquery-ui-1.8.12.custom.css?v=3" media="screen">
 	<!-- end jquery ui -->
 	
 	
 	<!-- jQuery Tools Library (Tabs, Tooltip, Scrollable, Overlay, Expose. No jQuery) --> 
 	<!--<script src="http://cdn.jquerytools.org/1.1.0/tiny/jquery.tools.min.js"></script>-->
-		<script type="text/javascript" src="http://cf2.primecp.com/javascript/jquery.tools.min_v1.1.0.js?v=13"></script>
+		<script type="text/javascript" src="http://cf2.primecp.com/javascript/jquery.tools.min_v1.1.0.js?v=3"></script>
 	
 	
 
-	<script type="text/javascript" src="http://cf2.primecp.com/javascript/jquery.form.js?v=13"></script>
+	<script type="text/javascript" src="http://cf2.primecp.com/javascript/jquery.form.js?v=3"></script>
 	
-	<script type="text/javascript" src="http://cf2.primecp.com/javascript/site_functions.js?v=13"></script>
+	<script type="text/javascript" src="http://cf2.primecp.com/javascript/site_functions.js?v=3"></script>
 	
 	
 	
@@ -91,7 +91,7 @@
 		
 			$(document).ready(
 				function() {
-					//alert('getJavascript_topSocialLinks ready line: 10003');
+					//alert('getJavascript_topSocialLinks ready line: 10706');
 					
 					$('#topSocialLinkMenu .socialButtonTable').show();
 					
@@ -151,7 +151,7 @@
 			
 			$(document).ready(
 				function() {
-					//alert('getJavascript_loginDhtmlContent ready - line: 15197');
+					//alert('getJavascript_loginDhtmlContent ready - line: 15993');
 					/**
 					 *set click handler for all the close boxes in the dhtml
 					 */
@@ -326,6 +326,10 @@
 									if(json.success == 1){
 										//alert('success');
 										feedback_div = 'We sent your password to ' + json.email;
+									}else if(json.is_banned == 1){
+										feedback_div = 'We could not send the password for your account.<br />';
+										feedback_div += '<a href="/index.php/hct/contact_us_page">Please click here to contact customer support.</a>';
+										
 									}else{
 										feedback_div = 'We could not find an account for your email.';
 									}
@@ -1105,7 +1109,9 @@ function animateDhtmlSignup(){
 	//alert('animateDhtmlSignup');
 	
 	// move user to top of the page
-	window.location = '#';
+	//window.location = '#';
+	
+	//console.log('animateDhtmlSignup');
 	
 	var doc_width = $(document).width();
 		var doc_height = $(document).height();
@@ -1121,35 +1127,60 @@ function animateDhtmlSignup(){
 	$("#newsletterSignUpDivAnime").css("left", popup_left + 'px');
 	$("#newsletterSignUpDivAnime").show();
 	
+	
+	
 	$("#newsletterSignUpDivAnime").animate(
-			{"top": "10px"}, 
-			"slow",
-			'',
-			function () {
+		{"top": "10px"}, 
+		"slow",
+		'',
+		function () {
 
-				// this fires after the popup is in place
-				// fade out the div that will be placed over the page
-				// the div is not visible at this point, but we use fade out so we can fade it in after the css updates are made
-				
-				$('#viewportGreyout').fadeTo(
-					"fast", 
-					0.0,
-					function () {
-						
-						// set some css for the div then fade it in
-						$('#viewportGreyout').css(
-							{
-								'top' : '0',
-								'left' : '0',
-								'width' : doc_width + 'px',
-								'height' : doc_height + 'px',
-								'background-color' : '#000'
-							}
-						).fadeTo("slow", 0.8);
+			// this fires after the popup is in place
+			// fade out the div that will be placed over the page
+			// the div is not visible at this point, but we use fade out so we can fade it in after the css updates are made
+			
+			$('#viewportGreyout').fadeTo(
+				"fast", 
+				0.0,
+				function () {
+					
+					// set some css for the div then fade it in
+					$('#viewportGreyout').css(
+						{
+							'top' : '0',
+							'left' : '0',
+							'width' : doc_width + 'px',
+							'height' : doc_height + 'px',
+							'background-color' : '#000'
+						}
+					).fadeTo("slow", 0.8);
+				}
+			);
+			
+			
+			
+			// 2013-04-30
+			// added to remedy a chrome dhtml display issue
+			// the page might be scrolled to the middle, so the usr cannot see the top, where the dhtml is located
+			var body_top = parseInt($('body').css('top'));
+			if(isNaN(body_top)){
+				body_top = 10;
+			}
+			//console.log('body_top ' + body_top );
+			//console.log('typeof body_top ' + typeof body_top );
+			
+			
+			if( body_top > 0 ){
+				$('body').css(
+					{
+						'top': '0px'
 					}
 				);
+				
+				//console.log('2 body top ' + $('body').css('top') );
 			}
-		);
+		}
+	);
 }
 
 //------------------------------------------------------------------------------------------------------------
@@ -1442,27 +1473,33 @@ function triggerWiderFunnel(){
 			
 	
 	
-				<!-- START GOOGLE AD MANAGER CODE V2 -->
-			<!-- http://support.google.com/dfp_sb/bin/answer.py?hl=en&answer=112649 -->
-			<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js"></script>
+				<!-- START Google Publisher Tag - Asynchronous -->
 			<script type="text/javascript">
-				GS_googleAddAdSenseService("ca-pub-3960203165302510");
-				GS_googleEnableAllServices();
+				var googletag = googletag || {};
+				googletag.cmd = googletag.cmd || [];
+				(function() {
+					var gads = document.createElement('script');
+					gads.async = true;
+					gads.type = 'text/javascript';
+					var useSSL = 'https:' == document.location.protocol;
+					gads.src = (useSSL ? 'https:' : 'http:') + 
+					'//www.googletagservices.com/tag/js/gpt.js';
+					var node = document.getElementsByTagName('script')[0];
+					node.parentNode.insertBefore(gads, node);
+				})();
 			</script>
+			
 			<script type="text/javascript">
-										GA_googleAddSlot("ca-pub-3960203165302510", "FaveQuilts-com_header-int-A_728-90");
-												GA_googleAddSlot("ca-pub-3960203165302510", "FaveQuilts-com_left-rail-A_120-600");
-												GA_googleAddSlot("ca-pub-3960203165302510", "FaveQuilts-com_right-rail-A_160-600");
-												GA_googleAddSlot("ca-pub-3960203165302510", "FaveQuilts-com_right-rail-B_300-250");
-												GA_googleAddSlot("ca-pub-3960203165302510", "FaveQuilts-com_right-rail-C_300-250");
-										
-				// set a PAGE LEVEL attribute for ALL ads
-				GA_googleAddAdSensePageAttr("google_page_url", "http://www.favequilts.com/index.php/hct/privacy_policy");
+				googletag.cmd.push(function() {
+												googletag.defineSlot('/1049349/FaveQuilts-com_header-int-A_728-90', [[728,90]], 'div-gpt-ad-1363380087175-0').addService(googletag.pubads());
+														googletag.defineSlot('/1049349/FaveQuilts-com_left-rail-A_120-600', [[120,600]], 'div-gpt-ad-1363380087175-1').addService(googletag.pubads());
+														googletag.defineSlot('/1049349/FaveQuilts-com_right-rail-B_300-250', [[300,250],[300,600],[300,1050]], 'div-gpt-ad-1363380087175-4').addService(googletag.pubads());
+														googletag.defineSlot('/1049349/FaveQuilts-com_right-rail-C_300-600', [[300,250],[300,600],[300,1050]], 'div-gpt-ad-1363380087175-5').addService(googletag.pubads());
+												googletag.pubads().enableSingleRequest();
+					googletag.enableServices();
+				});
 			</script>
-			<script type="text/javascript">
-				GA_googleFetchAds();
-			</script>
-			<!-- END GOOGLE AD MANAGER CODE V2 -->
+			<!-- END Google Publisher Tag - Asynchronous -->
 				
 	
 	
@@ -1636,18 +1673,18 @@ function triggerWiderFunnel(){
 	
 	
 			<!-- get css for the email signup creative -->
-		<link rel="stylesheet" href="/site_templates/signup_creative/css/nscID_54.css?v=13" type="text/css" media="screen">	
+		<link rel="stylesheet" href="/site_templates/signup_creative/css/nscID_54.css?v=3" type="text/css" media="screen">	
 			
 	
 	
-	<link type="text/css" rel="stylesheet" href="/css/jquery.rating.css?v=13" media="screen">
+	<link type="text/css" rel="stylesheet" href="/css/jquery.rating.css?v=3" media="screen">
 	
 	<!--
 	start css
 	-->
-	<link rel="stylesheet" href="/site_templates/0003/css/main_styles.css?v=13" type="text/css" media="screen">
+	<link rel="stylesheet" href="/site_templates/0003/css/main_styles.css?v=3" type="text/css" media="screen">
 	
-	<link rel="stylesheet" href="/site_templates/0003/css/print_styles.css?v=13" type="text/css" media="print">
+	<link rel="stylesheet" href="/site_templates/0003/css/print_styles.css?v=3" type="text/css" media="print">
 	
 	
 	
@@ -1668,7 +1705,7 @@ function triggerWiderFunnel(){
 
 			window.fbAsyncInit = function() {
 			
-				//console.log('call to window.fbAsyncInit line 15027');
+				//console.log('call to window.fbAsyncInit line 15823');
 			
 				FB.init({
 					appId      : '332445243477824', // App ID Favecrafts
@@ -1821,10 +1858,14 @@ function triggerWiderFunnel(){
 		</script>
 		<!-- END Facebook Javascript SDK js -->
 			
+				
+		
 </head>
 <body id="site39" itemscope="" itemtype="http://schema.org/Article">
 
 <div id="fb-root"></div>
+
+
 
 
 
@@ -1907,15 +1948,15 @@ function triggerWiderFunnel(){
 			<table id="logoTable" border="0">
 				<tbody><tr>
 					<td>
-								<a id="headerLogo" href="/"><img src="http://cf2.primecp.com/site_templates/0003/images/site_logo_internal_sID39.gif?v=13" alt="FaveQuilts.com"></a>
+								<a id="headerLogo" href="/"><img src="http://cf2.primecp.com/site_templates/0003/images/site_logo_internal_sID39.gif?v=3" alt="FaveQuilts.com"></a>
 			<div id="thisPageLinks" class="internal" style="margin-top: 10px;"><a class="firstLink" href="/site-map">Site Map</a><a href="/rss-feed">RSS</a><!--<a href="javascript: alert('Coming Soon');">Shop</a>--><a href="" class="lastLink" onclick="return bookmark('http://www.favequilts.com/index.php/hct/privacy_policy','');">Bookmark</a><!--<a id="emailPageLink" class="lastLink" href="#">Email This Page</a>--></div>
 						</td>
 					<td class="" style="text-align: right; padding: 5px 5px 0 0; width: 735px;">
-											<div style="">
-						<!-- ca-pub-3960203165302510/FaveQuilts-com_header-int-A_728-90 -->
+											
+					<!-- FaveQuilts-com_header-int-A_728-90 -->
+					<div id="div-gpt-ad-1363380087175-0" style="width: 728px; height:90px;" class="mustangGoogleAdTest_async">
 						<script type="text/javascript">
-							GA_googleFillSlot("FaveQuilts-com_header-int-A_728-90"); // v2
-						</script>
+							googletag.cmd.push(function() { googletag.display('div-gpt-ad-1363380087175-0'); });						</script>
 					</div>
 										</td>
 				</tr>
@@ -2015,6 +2056,8 @@ function triggerWiderFunnel(){
 											</li>
 										<li class=""><a class="" href="/Quilt-Designers">Quilt Designers</a>
 											</li>
+										<li class=""><a class="" href="/Quilt-for-Charity">Quilt for Charity</a>
+											</li>
 										<li class=""><a class="" href="/Quilted-Gifts">Quilted Gifts</a>
 											</li>
 										<li class=""><a class="" href="/Quilted-Home-Dec">Quilted Home Dec</a>
@@ -2043,11 +2086,11 @@ function triggerWiderFunnel(){
 		
 									</div>
 														<div style="margin: 0 0 30px 0;">
-													<div style="width: 125px; margin: 0 auto;">
-						<!-- ca-pub-3960203165302510/FaveQuilts-com_left-rail-A_120-600 -->
+													
+					<!-- FaveQuilts-com_left-rail-A_120-600 -->
+					<div id="div-gpt-ad-1363380087175-1" style="width: 120px; height:600px; margin: 0 auto;" class="mustangGoogleAdTest_async">
 						<script type="text/javascript">
-							GA_googleFillSlot("FaveQuilts-com_left-rail-A_120-600"); // v2
-						</script>
+							googletag.cmd.push(function() { googletag.display('div-gpt-ad-1363380087175-1'); });						</script>
 					</div>
 												</div>
 												
@@ -2056,9 +2099,8 @@ function triggerWiderFunnel(){
 												<div style="margin: 0 0 15px 0;">
 								<p>
 	Privacy Policy / Your California Privacy Rights<br>
-	Revised and posted as of August 8, 2012<br>
-	<br>
-	(Please note this version of the Privacy and Security Policy does not substantively change the way Prime Publishing LLC treats personally identifiable information compared to the <a href="http://www.favequilts.com/index.php/hct/Privacy_Policy2008" target="_blank" title="previous Privacy Policy">previous version of the Privacy and Security Policy</a>.)</p>
+	Revised and posted as of March 4, 2013<br>
+	&nbsp;</p>
 <p>
 	&nbsp;</p>
 <p>
@@ -2120,7 +2162,7 @@ function triggerWiderFunnel(){
 	Ad Serving<br>
 	We may serve advertisements to you based, in part, on your IP address, the demographic and geographic information you submitted to the Company during the website registration process, and other socio-economic information, psychographic information, Internet behavior (i.e., browsing, search, shopping, purchase, and ad response behavior), and lifestyle information about you that we obtain from affiliated entities and from third parties.</p>
 <p>
-	We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our Web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit www.networkadvertising.org.</p>
+	We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our Web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <a href="http://www.networkadvertising.org" target="_blank">www.networkadvertising.org</a>.</p>
 <p>
 	Pre-select/Pre-fill Offers<br>
 	Our website technology may pre-select certain offers for you to view based on the demographic and geographic information you submitted to the Company during the website registration process. Additionally, this technology may pre-fill some or all of the offers' data fields with the information you submitted during the website registration process in order to prevent you from having to re-enter this information. We may not show all of the pre-filled data fields to you.</p>
@@ -2172,6 +2214,10 @@ function triggerWiderFunnel(){
 <p>
 	Additionally, we may share, license or sell your information to third parties for use in their data validation, enhancement, information verification services, and, to the extent permitted by law, individual reference or look-up services.</p>
 <p>
+	Third Party Cookies<br>
+	<br>
+	&nbsp;Notwithstanding anything else in this policy, we or a data provider we have engaged may place or recognize a unique cookie on your browser to enable you to receive customized ads or content.&nbsp;&nbsp; These cookies contain no personally identifiable information.&nbsp; The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, that we may share with a data provider solely in hashed, non-human readable form. To opt-out of these cookies, please go to <a href="http://www.aboutads.info/choices" target="_blank">http://www.aboutads.info/choices</a>.</p>
+<p>
 	Governmental Agencies or Other Companies<br>
 	We may share your information with law enforcement officials or governmental agencies: (1) in response to their request; (2) when permitted or required by law; or (3) to establish our compliance with applicable laws, rules, regulations, or guidelines.</p>
 <p>
@@ -2187,7 +2233,7 @@ function triggerWiderFunnel(){
 	COMPANY CUSTOMER CHOICES</p>
 <p>
 	Marketing Communications and Unsubscribe Information<br>
-	By completing and submitting a Company registration form, you are consenting to receive marketing communications from the Company and its third party marketing partners. If, after you have shared your information with the Company, you decide that you do not want to receive marketing communications or newsletters from the Company and its third party marketing partners, you can discontinue the communications by <a href="http://www.allfreeknitting.com/index.php/hct/contact_us_page">clicking here</a> and filling out our form. If you have registered or submitted information under more than one e-mail account, you must submit separate unsubscribe requests for each account.</p>
+	By completing and submitting a Company registration form, you are consenting to receive marketing communications from the Company and its third party marketing partners. If, after you have shared your information with the Company, you decide that you do not want to receive marketing communications or newsletters from the Company and its third party marketing partners, you can discontinue the communications by <a href="http://www.favequilts.com/section/subctr/">clicking here</a> and filling out our form. If you have registered or submitted information under more than one e-mail account, you must submit separate unsubscribe requests for each account.</p>
 <p>
 	Request for More Information<br>
 	As it relates to marketing communications or any other questions you might have about our Privacy Policy, please write to us at Prime Publishing, LLC, 3400 Dundee Road, Suite 220, Northbrook, IL&nbsp; 60062.</p>
@@ -2220,7 +2266,7 @@ function triggerWiderFunnel(){
 		
 				<form id="newsletterSignUpForm" class="contentBoxPadding" action="/newsletter_signup.php" method="post">
 					<input type="hidden" name="task" value="signup">
-					<input type="hidden" name="PHPSESSID" value="e5e4347646572921d90298cc5b612b0b">
+					<input type="hidden" name="PHPSESSID" value="bht2nfvbv6jaon9fasquvp7pb0">
 					
 					<img style="float: right; margin: 0 0 5px 5px;" src="http://cf2.primecp.com/site_templates/0003/images/newsletter_signup_bg_sID39.png" alt="">
 					
@@ -2248,32 +2294,23 @@ function triggerWiderFunnel(){
 		
 									</div>
 														<div style="margin: 0 0 10px 0;">
-													<div style="">
-						<!-- ca-pub-3960203165302510/FaveQuilts-com_right-rail-A_160-600 -->
-						<script type="text/javascript">
-							GA_googleFillSlot("FaveQuilts-com_right-rail-A_160-600"); // v2
-						</script>
-					</div>
-												</div>
+															</div>
 														<div style="margin: 0 0 10px 0;">
-											
-			<div id="topTenSiteID39">
+											<div id="topTenSiteID39" class="topTenDiv">
 				<h3>What's Hot</h3>
-				
 				<div class="contentBoxPadding">
-					<h4></h4>
-					
+										<h4></h4>
 								<ol>
-									 <li><a href="/Table-and-Placemats/Hugs-Placemat/ct/1">Hugs Placemat</a></li>
-					 					 <li><a href="/Independence-Day/Decorative-Patriotic-Placemats/ct/1">Decorative Patriotic Placemats</a></li>
-					 					 <li><a href="/Patterns-for-Quilting/Straight-Line-Echo-Quilting/ct/1">Straight Line Echo Quilting</a></li>
-					 					 <li><a href="/Throws-and-Lap-Quilts/Giant-Vintage-Starflower-Quilt/ct/1">Giant Vintage Starflower Quilt</a></li>
-					 					 <li><a href="/Quilts-For-Baby/Vintage-Hankie-Quilt-for-Baby/ct/1">Vintage Hankie Quilt for Baby</a></li>
-					 					 <li><a href="/Wallhangings/Vintage-Christmas-Tree-Wallhanging/ct/1">Vintage Christmas Tree Wallhanging</a></li>
-					 					 <li><a href="/Block-Patterns/Brady-Bunch-Inspired-Nine-Patch-Block/ct/1">Brady Bunch Inspired Nine Patch Block</a></li>
-					 					 <li><a href="/Quilts-For-Baby/Effortless-Tied-Baby-Quilt/ct/1">Effortless Tied Baby Quilt</a></li>
-					 					 <li><a href="/Christmas-Projects/Vintage-Christmas-Geese-Block/ct/1">Vintage Christmas Geese Block</a></li>
-					 					 <li><a href="/Paper-Piecing/Paper-Pieced-Pop-Bottle/ct/1">Paper Pieced Pop Bottle</a></li>
+									 <li><a href="/Quilts-For-Baby/Blooming-Tied-Quilt/ct/1">Blooming Tied Quilt</a></li>
+					 					 <li><a href="/Throws-and-Lap-Quilts/Stripe-Power-Quilt-from-AccuQuilt/ct/1">Stripe Power Quilt</a></li>
+					 					 <li><a href="/Table-and-Placemats/Modern-Dresden-Quilt-Table-Runner/ct/1">Modern Dresden Quilt Table Runner</a></li>
+					 					 <li><a href="/Throws-and-Lap-Quilts/Two-by-Two-Stripe-Quilt-Pattern-from-Michael-Miller-Fabrics/ct/1">Two by Two Stripe Quilt Pattern</a></li>
+					 					 <li><a href="/Throws-and-Lap-Quilts/Windmills-at-Night-Quilt/ct/1">Windmills at Night Quilt</a></li>
+					 					 <li><a href="/Block-Patterns/Bejeweled-Quilt-Block-Pattern/ct/1">Bejeweled Quilt Block Pattern</a></li>
+					 					 <li><a href="/Throws-and-Lap-Quilts/Homemade-Blessings-Patchwork-Quilt/ct/1">Homemade Blessings Patchwork Quilt</a></li>
+					 					 <li><a href="/Quilts-For-Baby/Abacus-Baby-Quilt/ct/1">Abacus Baby Quilt</a></li>
+					 					 <li><a href="/Paper-Piecing/Twists-and-Turns-Block/ct/1">Twists and Turns Block</a></li>
+					 					 <li><a href="/Quilts-For-Baby/Lil-Twister-Quilt/ct/1">Lil' Twister Quilt</a></li>
 					 			</ol>
 							</div>
 				
@@ -2282,11 +2319,11 @@ function triggerWiderFunnel(){
 			
 										</div>
 														<div style="margin: 0 0 10px 0;">
-													<div style="">
-						<!-- ca-pub-3960203165302510/FaveQuilts-com_right-rail-B_300-250 -->
+													
+					<!-- FaveQuilts-com_right-rail-B_300-250 -->
+					<div id="div-gpt-ad-1363380087175-4" style="width: 300px;" class="mustangGoogleAdTest_async">
 						<script type="text/javascript">
-							GA_googleFillSlot("FaveQuilts-com_right-rail-B_300-250"); // v2
-						</script>
+							googletag.cmd.push(function() { googletag.display('div-gpt-ad-1363380087175-4'); });						</script>
 					</div>
 												</div>
 														<div style="margin: 0 0 10px 0;">
@@ -2319,11 +2356,11 @@ function triggerWiderFunnel(){
 		
 									</div>
 														<div style="margin: 0 0 10px 0;">
-													<div style="">
-						<!-- ca-pub-3960203165302510/FaveQuilts-com_right-rail-C_300-250 -->
+													
+					<!-- FaveQuilts-com_right-rail-C_300-600 -->
+					<div id="div-gpt-ad-1363380087175-5" style="width: 300px;" class="mustangGoogleAdTest_async">
 						<script type="text/javascript">
-							GA_googleFillSlot("FaveQuilts-com_right-rail-C_300-250"); // v2
-						</script>
+							googletag.cmd.push(function() { googletag.display('div-gpt-ad-1363380087175-5'); });						</script>
 					</div>
 												</div>
 														<div style="margin: 0 0 10px 0;">
@@ -2333,7 +2370,8 @@ function triggerWiderFunnel(){
 				<ul>
 											<li><a href="http://www.favequilts.com/Quilted-Home-Dec/12-Awesome-Free-Quilt-Patterns-and-Small-Quilted-Projects-eBook">12 Awesome Free Quilt Patterns and Small Quilted Projects</a></li>
 												<li><a href="http://www.favequilts.com/Quilts-For-Baby/14-Easy-Baby-Quilt-Patterns-for-Boys-and-Girls">14 Easy Baby Quilt Patterns for Boys and Girls eBook</a></li>
-												<li><a href="http://www.favequilts.com/Christmas-Projects/Deck-the-Halls-8-Free-Christmas-Quilt-Patterns">Deck the Halls: 8 Free Christmas Quilt Patterns</a></li>
+												<li><a href="http://www.favequilts.com/Bags-Purses-Totes/How-to-Quilt-a-Bag-With-Style-7-Free-Bag-Patterns-and-Purse-Patterns">How to Quilt a Bag With Style: 7 Free Bag Patterns and Purse Patterns</a></li>
+												<li><a href="http://www.favequilts.com/Block-Patterns/Patterns-For-Quilting-8-Free-Quilt-Block-Patterns-to-Make-a-Quilt-for-Your-Home">Patterns for Quilting: 8 Free Quilt Block Patterns to Make a Quilt for Your Home</a></li>
 												<li><a href="http://www.favequilts.com/String-Quilt-Patterns/Super-String-Quilts-13-Paper-Piecing-and-Scrap-Quilt-Patterns">Super String Quilts: 13 Paper Piecing and Scrap Quilt Patterns</a></li>
 										</ul>
 			</div>
@@ -2409,7 +2447,7 @@ function triggerWiderFunnel(){
 		<table style="margin: 0 auto;">
 			<tbody><tr>
 				<td>
-					<p style="margin: 0 10px;">© Copyright 2012 Prime Publishing, LLC. All rights reserved.</p>
+					<p style="margin: 0 10px;">© Copyright 2013 Prime Publishing, LLC. All rights reserved.</p>
 				</td>
 							</tr>
 		</tbody></table>
@@ -2435,7 +2473,7 @@ function triggerWiderFunnel(){
 	
 	
 <div id="printFooter">
-	<p>© Copyright 2012 Prime Publishing, LLC. All rights reserved.</p>
+	<p>© Copyright 2013 Prime Publishing, LLC. All rights reserved.</p>
 	
 	<p>www.favequilts.com</p>
 </div><!-- end printFooter -->
@@ -2611,6 +2649,7 @@ function triggerWiderFunnel(){
 
 	
 
+<div id="viewportGreyout"></div>
 
 
 
@@ -2680,9 +2719,8 @@ function triggerWiderFunnel(){
 					
 					<p>
 	Privacy Policy / Your California Privacy Rights<br>
-	Revised and posted as of August 8, 2012<br>
-	<br>
-	(Please note this version of the Privacy and Security Policy does not substantively change the way Prime Publishing LLC treats personally identifiable information compared to the <a href="http://www.favequilts.com/index.php/hct/Privacy_Policy2008" target="_blank" title="previous Privacy Policy">previous version of the Privacy and Security Policy</a>.)</p>
+	Revised and posted as of March 4, 2013<br>
+	&nbsp;</p>
 <p>
 	&nbsp;</p>
 <p>
@@ -2744,7 +2782,7 @@ function triggerWiderFunnel(){
 	Ad Serving<br>
 	We may serve advertisements to you based, in part, on your IP address, the demographic and geographic information you submitted to the Company during the website registration process, and other socio-economic information, psychographic information, Internet behavior (i.e., browsing, search, shopping, purchase, and ad response behavior), and lifestyle information about you that we obtain from affiliated entities and from third parties.</p>
 <p>
-	We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our Web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit www.networkadvertising.org.</p>
+	We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our Web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <a href="http://www.networkadvertising.org" target="_blank">www.networkadvertising.org</a>.</p>
 <p>
 	Pre-select/Pre-fill Offers<br>
 	Our website technology may pre-select certain offers for you to view based on the demographic and geographic information you submitted to the Company during the website registration process. Additionally, this technology may pre-fill some or all of the offers' data fields with the information you submitted during the website registration process in order to prevent you from having to re-enter this information. We may not show all of the pre-filled data fields to you.</p>
@@ -2796,6 +2834,10 @@ function triggerWiderFunnel(){
 <p>
 	Additionally, we may share, license or sell your information to third parties for use in their data validation, enhancement, information verification services, and, to the extent permitted by law, individual reference or look-up services.</p>
 <p>
+	Third Party Cookies<br>
+	<br>
+	&nbsp;Notwithstanding anything else in this policy, we or a data provider we have engaged may place or recognize a unique cookie on your browser to enable you to receive customized ads or content.&nbsp;&nbsp; These cookies contain no personally identifiable information.&nbsp; The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, that we may share with a data provider solely in hashed, non-human readable form. To opt-out of these cookies, please go to <a href="http://www.aboutads.info/choices" target="_blank">http://www.aboutads.info/choices</a>.</p>
+<p>
 	Governmental Agencies or Other Companies<br>
 	We may share your information with law enforcement officials or governmental agencies: (1) in response to their request; (2) when permitted or required by law; or (3) to establish our compliance with applicable laws, rules, regulations, or guidelines.</p>
 <p>
@@ -2811,7 +2853,7 @@ function triggerWiderFunnel(){
 	COMPANY CUSTOMER CHOICES</p>
 <p>
 	Marketing Communications and Unsubscribe Information<br>
-	By completing and submitting a Company registration form, you are consenting to receive marketing communications from the Company and its third party marketing partners. If, after you have shared your information with the Company, you decide that you do not want to receive marketing communications or newsletters from the Company and its third party marketing partners, you can discontinue the communications by <a href="http://www.allfreeknitting.com/index.php/hct/contact_us_page">clicking here</a> and filling out our form. If you have registered or submitted information under more than one e-mail account, you must submit separate unsubscribe requests for each account.</p>
+	By completing and submitting a Company registration form, you are consenting to receive marketing communications from the Company and its third party marketing partners. If, after you have shared your information with the Company, you decide that you do not want to receive marketing communications or newsletters from the Company and its third party marketing partners, you can discontinue the communications by <a href="http://www.favequilts.com/section/subctr/">clicking here</a> and filling out our form. If you have registered or submitted information under more than one e-mail account, you must submit separate unsubscribe requests for each account.</p>
 <p>
 	Request for More Information<br>
 	As it relates to marketing communications or any other questions you might have about our Privacy Policy, please write to us at Prime Publishing, LLC, 3400 Dundee Road, Suite 220, Northbrook, IL&nbsp; 60062.</p>
@@ -2854,7 +2896,15 @@ function triggerWiderFunnel(){
 		<!-- START Google Remarketing code -->
 				
 		<!-- END Google Remarketing code -->
-
+		
+		
+		
+		<!-- START datonics.com -->
+						<script type="text/javascript" src="http://ads.pro-market.net/ads/scripts/site-132971.js"></script>
+						<!-- END datonics.com -->
+		
+		<!-- START swoop -->
+				<!-- END swoop -->
 
 
 
@@ -2862,7 +2912,11 @@ function triggerWiderFunnel(){
 				
 		
 		
-		....		
+						<div id="multiLoginDiv"></div>
+				<!--
+				<iframe onload="multiSiteLoginCheck('not_logged_in');" src ="http://c.primecp.com/multi_site_login.php?task=not_logged_in&x=1369035376&sid=39&sessid=bht2nfvbv6jaon9fasquvp7pb0" width="80%" height="600"></iframe>
+				-->
+						
 		
 
 
