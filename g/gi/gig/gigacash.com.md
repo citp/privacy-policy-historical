@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gigacash.com privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119115817id_/http%3A//www.gigacash.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gigacash.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520135108id_/http%3A//www.gigacash.com/privacy.html) for the most accurate reproduction.*
 
 # GigaCash™ - The Premiere Affiliate Marketing Engine
 
@@ -18,7 +18,7 @@ We automatically log personal data by means such as site programming or we link 
 We collect the personal data that you may volunteer while using our services. We collect name, gender, geographic location, and e-mail address along with information concerning your employer or the organization you represent, your job title, and phone number. Additionally, personal and lifestyle details are also collected. Providing this information to us is strictly voluntary, and used for technical and customer administration of our Web site.  
 We do not collect information about our visitors from other sources, such as public records or bodies, or private organizations. We collect and use personal data for the additional purpose of distributing our opt-in newsletter and to send XBiz related announcement emails to registered Cosmic Village message board users, banner exchange users, and those that submit links.
 
-Users can remove themselves by using the unsubscribe link at the bottom of all emails, or users can [contact us](https://web.archive.org/web/20121119115817id_/http%3A//www.gigacash.com/contacts.html). 
+Users can remove themselves by using the unsubscribe link at the bottom of all emails, or users can [contact us](https://web.archive.org/web/20130520135108id_/http%3A//www.gigacash.com/contacts.html). 
 
 We may collect and use personal data for the additional purpose of Age Verification. If we wish to use your personal data for a new purpose, we offer you the means to consent to this new purpose by indicating in a box at the point on the site where personal data is collected 
 
@@ -36,7 +36,7 @@ We do not give visitors to our Web site the option of using a secure transmissio
 All employees and others who have access to, or are associated with the processing of personal data, are obliged to respect the confidentiality of our visitors' personal data. We ensure that your personal data will not be disclosed to State institutions and authorities except if required by law or other regulation.
 
 **Access to the personal data we may hold about you**  
-You may [contact us](https://web.archive.org/web/20121119115817id_/http%3A//www.gigacash.com/contacts.html) to find out whether we are keeping personal data about you. Upon request, we will provide you with a readable copy of the personal data which we keep about you, although we may first require proof of your identity. We provide this information without any charge.   
+You may [contact us](https://web.archive.org/web/20130520135108id_/http%3A//www.gigacash.com/contacts.html) to find out whether we are keeping personal data about you. Upon request, we will provide you with a readable copy of the personal data which we keep about you, although we may first require proof of your identity. We provide this information without any charge.   
 We allow you to challenge the data that we hold about you and, where appropriate, you may have the data erased, rectified, amended, or completed.
 
 **Privacy Compliance**  
@@ -44,4 +44,4 @@ There are no national laws or self-regulatory schemes applicable to our web site
 There are no global or regional regulatory or self-regulatory schemes applicable to our web site or organization. In order to demonstrate that our privacy policy accords with the above privacy instrument, we are voluntarily committed to a Self Assessment procedure.
 
 **Privacy Support**  
-If you have an enquiry or concern about our privacy policy, please [contact us](https://web.archive.org/web/20121119115817id_/http%3A//www.gigacash.com/contacts.html).
+If you have an enquiry or concern about our privacy policy, please [contact us](https://web.archive.org/web/20130520135108id_/http%3A//www.gigacash.com/contacts.html).
