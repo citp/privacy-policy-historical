@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealdey.com privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029023353id_/http%3A//dealdey.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealdey.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520115646id_/http%3A//www.dealdey.com/privacy_policy) for the most accurate reproduction.*
 
 # DealDey - Privacy Policy
 
