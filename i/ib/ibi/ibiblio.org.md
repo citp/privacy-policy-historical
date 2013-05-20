@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ibiblio.org privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119074205id_/http%3A//www.ibiblio.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibiblio.org privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520155319id_/http%3A//www.ibiblio.org/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – ibiblio
 
