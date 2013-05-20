@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gm.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226154345id_/http%3A//www.gm.com/toolbar/privacyStatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gm.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520052154id_/http%3A//www.gm.com/toolbar/privacyStatement.html) for the most accurate reproduction.*
 
 # General Motors | Privacy Statement | GM.com
 
@@ -36,7 +36,7 @@ GM businesses covered by this Privacy Statement include:
   *     [Certified Pre-Owned Vehicles](http://www.gmcertified.com/)
   *     [GM Family First](http://www.gmfamilyfirst.com/ip-gmemployee/)
   *     [GM Fleet](http://www.gmfleet.com/)
-  *     [GM Cardmember Services](https://www.gmcard.com/GMCard/?s_cid=gmcs)
+  *     [GM Cardmember Services](https://www.gmcard.com/?s_cid=G5IM099AAX1303002542XXHHX&evar25=gm)
   *     [GM Powertrain](http://gmpowertrain.com/PowertrainOverview.aspx)
   *     [GM Supplier Discount](https://www.gmsupplierdiscount.com/ip-vpp/)
   *     [Cadillac Certified Pre-Owned](http://www.cadillac.com/tools/certified-vehicles/)
@@ -143,7 +143,7 @@ Privacy Inquiries - For inquiries about how the information you submit to the In
 
 **GM Cardmember Services**
 
-Correcting Your Information - You may correct your contact information (name, address, phone number and e-mail address) by logging onto [gmcard.com](https://www.gmcard.com/GMCard/?s_cid=gmcs), [gmflexcard.com](https://www.gmflexcard.com/GMFlexCard/), [gmextendedfamily.com](https://www.gmextendedfamily.com/GMExtendedFamily/) or [gmbusinesscard.com](https://www.gmbusinesscard.com/GMBusinessCard/) and going to the "Account" or "Online Banking" portion of the website. You can also call the Customer Center respective to your Account.
+Correcting Your Information - You may correct your contact information (name, address, phone number and e-mail address) by logging onto [gmcard.com](https://www.gmcard.com/?s_cid=G5IM099AAX1303002542XXHHX&evar25=gm), [gmflexcard.com](https://www.gmcard.com/flex/about-the-card), [gmextendedfamily.com](https://www.gmcard.com/efc/about-the-card) or [gmbusinesscard.com](https://www.gmcard.com/business/about-the-card) and going to the "Account" or "Online Banking" portion of the website. You can also call the Customer Center respective to your Account.
 
   *     GM Card 800-771-7363
 
