@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boisestate.edu privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119065923id_/http%3A//go.boisestate.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boisestate.edu privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520131255id_/http%3A//go.boisestate.edu/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - Boise State University
 
