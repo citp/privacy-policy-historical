@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the streeteasy.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123090349id_/http%3A//streeteasy.com/nyc/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streeteasy.com privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521012309id_/http%3A//streeteasy.com/nyc/home/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# StreetEasy: Privacy Policy Search
 
  
 
@@ -51,7 +51,7 @@ If you have any questions or concerns about this privacy policy, our online prac
 StreetEasy  
 13 Crosby St, 2nd Floor  
 New York, NY 10013  
-+1 646 365 0283 
++1 212 804 6884 
 
    
 
