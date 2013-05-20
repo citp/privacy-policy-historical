@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the benzinga.com privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105210810id_/http%3A//www.benzinga.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the benzinga.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520131204id_/http%3A//www.benzinga.com/page/privacy) for the most accurate reproduction.*
 
 # Our Privacy Policy | Benzinga
 
