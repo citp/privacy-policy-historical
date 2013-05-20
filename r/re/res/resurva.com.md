@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the resurva.com privacy policy that was archived on 2012-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120407175816id_/http%3A//resurva.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resurva.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520173043id_/http%3A//resurva.com/privacy) for the most accurate reproduction.*
 
 # Resurva - Online Booking | Privacy Policy
 
