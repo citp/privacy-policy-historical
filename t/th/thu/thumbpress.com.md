@@ -1,12 +1,9 @@
-> *The following text is extracted and transformed from the thumbpress.com privacy policy that was archived on 2012-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121212182418id_/http%3A//thumbpress.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thumbpress.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520215939id_/http%3A//thumbpress.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ThumbPress
 
 **Thumb Press Privacy Policy**  
 The following privacy statement covers the Thumb Press Website. Please read this statement regarding our websites. If you have any questions or suggestions regarding our privacy policy, please [contact us](http://thumbpress.com/contact/).
-
-**Public Forums**  
-This site makes chat rooms and message boards available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
 
 **Privacy**
 
@@ -14,13 +11,11 @@ Your privacy on the internet is important to us. As a part of the operation of T
 
 The foregoing policy is effective as of January 2009, and ThumbPress.com reserves the right to change this policy at any time. Please check this page periodically for changes. This statement and policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
 
-**Third Party Advertising**
+**Cookies & 3rd Party Advertisements**
 
-We use various third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please use the Contact form with any questions.
+Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
-* Also please be aware that Interest-based advertising will allow advertisers to display ads based on a user’s previous interactions with them, such as visits to advertiser website and also to reach users based on their interests.  This policy will go into affect as of April 8, 2009. **Third Party Cookies**
-
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit http://www.networkadvertising.org/managing/opt_out.asp.
 
 **Copyright**
 
