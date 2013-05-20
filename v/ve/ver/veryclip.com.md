@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the veryclip.com privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125110158id_/http%3A//www.veryclip.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the veryclip.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520153729id_/http%3A//www.veryclip.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Games, Walkthroughs, Help, Hints and Hacked Version
 
