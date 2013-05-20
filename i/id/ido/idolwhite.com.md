@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the idolwhite.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919100049id_/http%3A//www.idolwhite.com/tos.php%23pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idolwhite.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520211959id_/http%3A//www.idolwhite.com/tos.php%23pp) for the most accurate reproduction.*
 
-# Idol White
+# 
 
 Terms and Conditions
 
@@ -25,7 +25,7 @@ If you entered the wrong address on our order form and we are forced to reship y
 To check the status of your order, update your mailing address or request reshipment because you never received your product, [Click Here to Manage your Order](http://www.websupportcenter.com/)
 
 **5\. Sales and Distribution.**  
-Distributor will not sell any product on eBay, Amazon, any of their affiliate's websites or any other auction website or online marketplace. Prices do not include and are net of any foreign or domestic governmental taxes or charges of any kind that may be applicable to the sale, licensing, marketing or distribution of the products. Distributor understands and acknowledges that all sales are final and that they are not entitled to return any product for a refund. will not be responsible for any delays or lack of delivery due to customs clearance issues.
+Distributor will not sell any Idol White product on eBay, Amazon, any of their affiliate's websites or any other auction website or online marketplace. Prices do not include and are net of any foreign or domestic governmental taxes or charges of any kind that may be applicable to the sale, licensing, marketing or distribution of the products. Distributor understands and acknowledges that all sales are final and that they are not entitled to return any product for a refund. Idol White will not be responsible for any delays or lack of delivery due to customs clearance issues.
 
 **6\. Cancellation Policy.**  
 Once an order has been submitted your credit card will be charged. Our ordering process is streamlined so your order will immediately be sent to processing and then shipping. Due to the high volume of orders we receive we will be unable to cancel an order after submitted. Please order carefully.
@@ -45,6 +45,8 @@ Your complete satisfaction is our ultimate goal. You may return any item shipped
 
 To request a refund you must obtain an RMA (Return Authorization). Requests must be made online and submitted with your order information and explanation of the why you wish to return the product. Please do not call for an RMA. If you return your product without a RMA number you will not be refunded. Shipping and handling charges are non-refundable. For returns via mail, you must carefully package the product, you are responsible for the cost of return shipping, and we must physically receive the return within the 90 day period. Company reserves the right, at its sole discretion, to reject any return that does not comply with these requirements. Once your return has been received, a credit to your card or refund check will be issued and an e-mail confirmation will be sent within 30 days.
 
+*Refund Processing and Restocking Fee: $6 Per item e.g. 1 bottle return = $6 Fee. 2 bottle return - $12 Fee. 
+
 **[_Click Here for RMA Request_](http://www.websupportcenter.com/)**
 
 **8\. Paid Offers:**   
@@ -59,9 +61,6 @@ This offer will allow you to order the product every 30 days and pay only $16.97
 
 
 Try product for 30 days. If you are not completely satisfied for any reason, you can return it for a refund. Starting 30 days from your order date, you can request a new 30-day supply for FREE every month and only pay $14.97 s/p. For coupon eligibility, simply collect four refills & complete coupon form at [http://www.websupportcenter.com](http://www.websupportcenter.com/downloads/coupon-form.pdf)
-
-**11\. 14 Day Trial Terms (Billed by CCBill.com):**  
-30 day supply of for $5.95(USD). If you feel is not for you, cancel within 14 days from today to avoid the purchase fee of $79.00(USD) and enrollment in the auto-shipment program which sends you a month supply every 30 days at the low price of $29.97(USD). To cancel anytime simply call 1-877-374-0182 (U.S.). Any charges will appear as CCBill.com *Buy Health on your credit card statement. 
 
 **Legal Disclaimer  
 **Statements made by Company have not been evaluated by the food and drug administration. The FDA Dose not evaluate or test herbs. These products are not intended to diagnose, treat, cure or prevent any illness or disease. Consult with your physician for diagnosis or treatment. Use herbs as per instructions and always watch for any allergic reactions. 
