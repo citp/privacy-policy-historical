@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the catsofaustralia.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120012904id_/http%3A//www.catsofaustralia.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catsofaustralia.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520223212id_/http%3A//www.catsofaustralia.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Cats of Australia Privacy Policy
 
