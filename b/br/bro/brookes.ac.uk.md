@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the brookes.ac.uk privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231173633id_/http%3A//www.brookes.ac.uk/about/structure/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brookes.ac.uk privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521015612id_/http%3A//www.brookes.ac.uk/About-Brookes/Structure-and-governance/Policies/Privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy — Oxford Brookes University
+# Privacy policy - Oxford Brookes University
 
 This website is operated by Oxford Brookes University. As a provider of education and related services and facilities the university may collect and store personal information which you submit to the university via this website or via other means. This privacy policy explains how we use the personal information we collect.
 
@@ -10,7 +10,7 @@ We collect information about you when you visit this website and voluntarily pro
 
 ### Cookies
 
-Information about your usage of our website is collected using cookies. See our [cookies policy](http://www.brookes.ac.uk/about/structure/policies/cookies) for further details.
+Information about your usage of our website is collected using cookies. See our [cookie policy](https://web.archive.org/About-Brookes/Structure-and-governance/Policies/Cookie-policy/ "cookies policy") for further details.
 
 ## How will we use the information about you?
 
@@ -32,4 +32,4 @@ Our website contains links to other websites. This privacy policy only applies t
 
 ## Changes to our privacy policy
 
-We keep our privacy policy under regular review and we will place any updates on this webpage. This privacy policy was last updated on 24 May 2011.
+We keep our privacy policy under regular review and we will place any updates on this web page. This privacy policy was last updated on 24 May 2011.
