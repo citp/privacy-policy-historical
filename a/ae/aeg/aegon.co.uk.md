@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the aegon.co.uk privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229202848id_/http%3A//www.aegon.co.uk/Footer/Privacy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aegon.co.uk privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520045234id_/http%3A//www.aegon.co.uk/Footer/Privacy/index.htm) for the most accurate reproduction.*
 
 # Privacy | Aegon UK
+
+Aegon's policy on data protection and privacy 
 
 This privacy statement sets out how Aegon UK uses and protects any personal information that you give us when you use this website. Depending on the part of the website you’re visiting, the data controller for any personal information you give us is either Scottish Equitable plc or Aegon Investment Solutions Ltd (both of which trade as Aegon).
 
@@ -109,7 +111,7 @@ You have a number of rights under the Data Protection Act, including:
 
 For Aegon UK customers, if you want a copy of your personal data, please write to Data Protection Officer, Aegon, Lochside Crescent, Edinburgh Park, Edinburgh, EH12 9SE, enclosing your details, a description of the information you want and a cheque for £10, made payable to Aegon UK.
 
-For Aegon Investment Solutions (Aegon Retirement Choices), if you want a copy of your personal data, please write to Aegon Retirement Choices, PO Box 5070, Cambridge House, Henry Street, Bath, BA1 0QE, enclosing your details, a description of the information you want and a cheque for £10, made payable to AEGON UK.
+For Aegon Investment Solutions (Aegon Retirement Choices), if you want a copy of your personal data, please write to Aegon Retirement Choices, PO Box 5070, Cambridge House, Henry Street, Bath, BA1 0QE, enclosing your details, a description of the information you want and a cheque for £10, made payable to Aegon UK.
 
 ## Cookies
 
@@ -125,7 +127,7 @@ You do have the option to transfer to websites that have links on our sites. If 
 
 We’re committed to ensuring your information is protected and held securely. However, the internet is not a secure medium and we can’t accept responsibility for the security of an email during transmission or for non-delivery of that email.
 
-There are a few simple steps you can take to protect your computer and internet connection – [view our tips here](https://web.archive.org/web/20121229202848id_/http%3A//www.aegon.co.uk/Footer/Privacy/ssNODELINK/16305).
+There are a few simple steps you can take to protect your computer and internet connection – [view our tips here](https://web.archive.org/web/20130520045234id_/http%3A//www.aegon.co.uk/Footer/Privacy/ssNODELINK/16305).
 
 We currently operate our security requirements through our security policy:
 
@@ -154,7 +156,7 @@ This website may contain links to other websites. If you use the links to leave 
 
 ## Applying for job vacancies (iRecruitment)
 
-AEGON UK Corporate Services Limited is the data controller of any information you give us. We’ll only use this information for assessing your application against the selection criteria for the particular position you’ve applied for, and for processing your application throughout that selection process. We’ll treat your personal information in confidence and won’t disclose it to any third parties, except where:
+Aegon UK Corporate Services Limited is the data controller of any information you give us. We’ll only use this information for assessing your application against the selection criteria for the particular position you’ve applied for, and for processing your application throughout that selection process. We’ll treat your personal information in confidence and won’t disclose it to any third parties, except where:
 
   * permitted by law or by our regulator
   * an agency is used by us as part of the employment screening process, including background checks, criminal history and credit referencing checks
