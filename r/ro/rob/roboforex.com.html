@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the roboforex.com privacy policy that was archived on 2012-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121231155218id_/http%3A//www.roboforex.com/about/security-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the roboforex.com privacy policy that was archived on 2013-05-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130520180043id_/http%3A//www.roboforex.com/about/security-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -19,9 +19,10 @@
 
 			<link href="/themes/rbforex/js/jquery/fancybox/jquery.fancybox-1.3.4.css" rel="stylesheet" type="text/css">
 
-			<link rel="stylesheet" href="/themes/rbforex/css/style.css?v=4" type="text/css">
-
+			<link rel="stylesheet" href="/themes/rbforex/css/style.css?v=5" type="text/css">
+			
 			<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/themes/rbforex/js/jquery/jquery.js"></script>
+			<script type="text/javascript" src="/themes/rbforex/js/jquery/jquery-ui.js"></script>
 			<script type="text/javascript" src="/themes/rbforex/js/JsHttpRequest/JsHttpRequest.js"></script>
 			<script type="text/javascript" src="/themes/rbforex/js/swfobject.js"></script>
 
@@ -36,10 +37,12 @@
 			<script src="/themes/rbforex/js/jplugins/cookie/cookie.js" type="text/javascript"></script>
 
 			<script type="text/javascript" src="/themes/rbforex/js/jquery/jQuery.styledSelect.js"></script>
-			<script type="text/javascript" src="/themes/rbforex/js/scripts.js"></script>
+			<script type="text/javascript" src="/themes/rbforex/js/scripts.js?v=4"></script>
 
 			<script type="text/javascript" src="/themes/rbforex/js/jquery/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
 			<script type="text/javascript" src="/themes/rbforex/js/jquery/fancybox/jquery.mousewheel-3.0.4.pack.js"></script>
+
+			<script type="text/javascript" src="/themes/rbforex/js/jquery/widgets/dqgrid.js"></script>
 
 							<script type="text/javascript" src="/themes/rbforex/js/share/share42.js"></script>
 			
@@ -51,7 +54,13 @@
 			<script type="text/javascript">
 				var dqConfig = {
 				'lk_domen' : 'https://my.roboforex.com/en',
-				'theme' : '/themes/rbforex/'
+				'theme' : '/themes/rbforex/',
+				'root_path' : '/',
+				'callback_domen' : 'https://my.roboforex.com',
+				'lang' : 'en',
+				'ok' : 'Ok',
+				'cancel' : 'Cancel',
+				'callback_title' : 'Order callback',
 				};
 
 
@@ -67,13 +76,19 @@
 							1
 				        ]);
 			}
+
+			function showFaqText(id)
+			{
+				var show = $('#faq_text'+id).css('display') == 'none' ? true : false;
+
+				if (show) {
+					$('#faq_text'+id).show();
+				} else {
+					$('#faq_text'+id).hide();
+				}
+			}
 				
 			</script>
-
-
-
-
-
 
 			
 				
@@ -98,7 +113,7 @@
 				</script>
 			
 		
-				 <!-- 9d951f85-9a2b-45f9-84f4-ff6e129db0b7 -->
+					<!-- 9d951f85-9a2b-45f9-84f4-ff6e129db0b7 -->
 		
 
 </head>
@@ -114,6 +129,11 @@
     Language:
 
         <div id="tl-list">
+                        <img src="/files/langs/c75898a7e59057638496d221af1f019c.png"><a href="http://www.roboforex.ru" class="tl-item">Russian</a><br>
+                        <img src="/files/langs/46bc22e0f4aef2a29106166798a76a87.jpg"><a href="http://www.roboforex.cn" class="tl-item">中文</a><br>
+                        <img src="/files/langs/611c71ed8091e72ca3b550f80df582e9.png"><a href="http://id.roboforex.com" class="tl-item">Indonesian</a><br>
+                        <img src="/files/langs/354bd7e81af3efb61311e5f0b53c020c.png"><a href="http://www.roboforex.pt" class="tl-item">Portuguese</a><br>
+                        <img src="/files/langs/604f8d6d35df12b363c6e2e22b8b2a96.jpg"><a href="http://www.rbfx.es" class="tl-item">Spanish</a><br>
                     </div>
 </div>
 			<div id="t-user">
@@ -122,7 +142,8 @@
 					<p>
 						<input id="tua-email" name="login[email]" placeholder="E-mail" class="fText" value="">
 						<input type="password" name="login[password]" id="tua-password" placeholder="Password" class="fText" value="">
-						<span class="fSubmit"><span>Login</span></span><button type="submit" class="fSubmit" id="tua-submit" style="display: none;">Login</button>
+						<input name="login[from_site]" type="hidden" value="1">
+						<button type="submit" class="fSubmit" id="tua-submit">Login</button>
 					</p>
 					<p>
 						<a href="https://my.roboforex.com/en/remind/">Forgot password?</a>
@@ -134,7 +155,7 @@
 			<form id="t-search" action="/search/check/" method="post">
 				<p>
 					<input id="ts-search" name="search_word" class="fText" placeholder="Searching for?..." value="">
-					<span class="fSubmit"><span>Search</span></span><button type="submit" class="fSubmit" id="ts-submit" style="display: none;">Search</button>
+					<button type="submit" class="fSubmit" id="ts-submit">Search</button>
 					<a href="/map/" id="ts-sitemap">Site Map</a>
 				</p>
 			</form>
@@ -142,8 +163,8 @@
 
 		<div id="header">
 			<div id="h-logo">
-								<div class="ny"> <a href="/"><img src="/themes/rbforex/images/logo_en_ny.png" alt="RoboForex — Forex Trading for real robots"></a></div>
-			</div>
+				<a href="/"><img src="/themes/rbforex/images/logo_en.png" alt="RoboForex — Forex Trading for real robots" width="300" height="58"></a>
+							</div>
 
 			<div id="h-offer">
 				            <div>          <table style="background: #fff url(/themes/rbforex/images/h-offer.png) no-repeat 0 0;height:75px;">
@@ -163,14 +184,41 @@ We going to launch an Affiliate program, which is intended for the MetaTrader5 t
 			</div>
 
 			<div id="h-contacts">
-				<div id="hc-phone"><span>+64 92 148 139 </span></div>
+				<div id="hc-phone" dir="ltr"><span>+64 92 148 139 </span></div>
 				<div class="clear"></div>
 				<div class="hc-links">
 											<a href="javascript:void(0)" id="hc-support" onclick="window.open('https://my.roboforex.com/en/livesupport/','support','toolbar=no,resizable=yes,status=no,menubar=no,location=no,width=600,height=500');">Live<br>Support</a>
-										<a href="/about/contacts/" id="hc-contacts">Contacts<br>Feedback</a>
+										<a href="javascript:void(0)" id="hc-contacts" data-target="hc-contactus-menu">
+							<span>Contacts<br>Feedback</span>
+						</a>
 				</div>
 			</div>
+
 		</div>
+		<!-- I'm here! -->
+		<div class="hc-contactus-menu" id="hc-contactus-menu" style="display: none">
+			<div>
+												<div class="callback_wrapper">
+					<button class="fSubmit button" id="callback_button">Order callback</button>
+					<span class="loader"><img src="/themes/rbforex/images/ajax-loader1.gif"></span>
+				</div>
+								<button class="fSubmit button" onclick="window.location.assign('/about/contacts/');">Contact<br>information</button></div>
+			<div id="modalDialog"></div>
+		</div>
+		<script type="text/javascript">
+			
+			$("#hc-contacts").click(function(){
+				$('#'+$(this).attr('data-target')).slideToggle();
+			})
+			$(document).click(function(e){
+				if ($(e.target).filter('#hc-contactus-menu:visible, #hc-contacts, #hc-contacts span').length != 1) {
+					$('#hc-contactus-menu').fadeOut();
+				}
+			});
+			
+
+		</script>
+		<!-- &#010; -->
 
 		<ul id="menu" class="en">
             <li class="
@@ -181,14 +229,18 @@ We going to launch an Affiliate program, which is intended for the MetaTrader5 t
                                                 <li><a href="/about/roboforex/">RoboForex review</a></li>
                                                 <li><a href="/about/mission/">Business Mission</a></li>
                                                 <li><a href="/about/forex-broker/">Business model</a></li>
-                                                <li><a href="/about/liquidity-providers/">Liquidity providers</a></li>
+                                                <li><a href="/about/liquidity-providers/">Liquidity provider</a></li>
                                                 <li><a href="/about/regulation/">Legal</a></li>
+                                                <li><a href="/about/antimoneylaundering/">Anti-money Laundering</a></li>
                                                 <li><a href="/about/roboforex-ibs/">Introducing Brokers</a></li>
                                                 <li><a href="/about/news/">RoboForex News</a></li>
+                                                <li><a href="http://forum.roboforex.com/forum.php" target="_blank">Forum</a></li>
+                                                <li><a href="/about/feedback/">Feedback</a></li>
                                                 <li><a href="/about/faq/">FAQ</a></li>
-                                                <li><a href="/about/sponsorship/">Sponsorship</a></li>
                                                 <li><a href="/about/contacts/">Contacts</a></li>
                                                 <li><a href="/about/awards/">Awards</a></li>
+                                                <li><a href="/about/media/">RoboForex  in the Media</a></li>
+                                                <li><a href="/about/sponsorship/">Sponsorship</a></li>
                                             </ul>
                 </div></div>
                     </li>
@@ -204,9 +256,9 @@ We going to launch an Affiliate program, which is intended for the MetaTrader5 t
                                                 <li><a href="/trade-conditions/terminals/">Trade terminals</a></li>
                                                 <li><a href="http://www.roboforex.com/operations/mobile-forex/iphonetrader/">iPhone/iPad Trader</a></li>
                                                 <li><a href="http://www.roboforex.com/operations/mobile-forex/androidtrader/">Android Trader</a></li>
-                                                <li><a href="/trade-conditions/metatrader4-mt4/">MetaTrader 4 (MT4)</a></li>
-                                                <li><a href="/trade-conditions/metatrader5-mt5/">MetaTrader 5 (MT5)</a></li>
-                                                <li><a href="/trade-conditions/power-trader-integral/">Power Trader (Integral)</a></li>
+                                                <li><a href="/trade-conditions/metatrader4-mt4/">MetaTrader4 (MT4)</a></li>
+                                                <li><a href="/trade-conditions/metatrader5-mt5/">MetaTrader5 (MT5)</a></li>
+                                                <li><a href="/trade-conditions/ctrader/">cTrader platform</a></li>
                                                 <li><a href="http://www.roboforex.com/operations/mobile-forex/windows-mobile-trader/">Windows Mobile Trader</a></li>
                                             </ul>
                 </div></div>
@@ -219,7 +271,7 @@ We going to launch an Affiliate program, which is intended for the MetaTrader5 t
                                                 <li><a href="/trading-accounts/standard/">Open a Forex Trading Account </a></li>
                                                 <li><a href="/trading-accounts/demo/">Open a Forex Demo Account</a></li>
                                                 <li><a href="/trading-accounts/documents/">Examples of Agreements</a></li>
-                                                <li><a href="/trading-accounts/download-metatrader4-mt4/">Download MetaTrader 4</a></li>
+                                                <li><a href="/trading-accounts/download-metatrader4-mt4/">Download MetaTrader4</a></li>
                                             </ul>
                 </div></div>
                     </li>
@@ -231,16 +283,16 @@ We going to launch an Affiliate program, which is intended for the MetaTrader5 t
                                                 <li><a href="/operations/security/">Security of your money</a></li>
                                                 <li><a href="/operations/account-management/">Live Account</a></li>
                                                 <li><a href="/operations/deposit-withdrawal/">Deposit / Withdrawal</a></li>
-                                                <li><a href="/operations/ny-2012-50-terms/">50% New Year Bonus</a></li>
                                                 <li><a href="/operations/forex-bonus-deposit/">Deposit Bonus up to 25%</a></li>
-                                                <li><a href="/operations/mobile-forex/">«Mobile Forex» Service</a></li>
-                                                <li><a href="/operations/mam-multiterminal/">MultiTerminal - MAM Software</a></li>
+                                                <li><a href="/operations/no-deposit-bonus/">No Deposit Bonus $15</a></li>
                                                 <li><a href="/operations/rebate/">«Rebates» Service</a></li>
+                                                <li><a href="/operations/mobile-forex/">«Mobile Forex» Service</a></li>
+                                                <li><a href="/operations/webtrader/">WebTrader Platform</a></li>
+                                                <li><a href="/operations/mam-multiterminal/">MultiTerminal - MAM Software</a></li>
                                                 <li><a href="/operations/one-click-trading-service/">«One Click Trading» Service</a></li>
                                                 <li><a href="/operations/forex-vps/">VPS Forex Hosting</a></li>
                                                 <li><a href="/operations/forex-contest/">Forex Demo Contest</a></li>
                                                 <li><a href="/operations/swap-free/">Swap-Free Accounts</a></li>
-                                                <li><a href="/operations/no-deposit-bonus/">No Deposit Bonus $15</a></li>
                                             </ul>
                 </div></div>
                     </li>
@@ -249,13 +301,14 @@ We going to launch an Affiliate program, which is intended for the MetaTrader5 t
             <a href="/analytics/">Analytics</a>
                             <div class="submenu"><div class="sm-helper">
                     <ul>
-                                                <li><a href="/analytics/economic-calendar/">Forex Calendar</a></li>
+                                                <li><a href="/analytics/economic-calendar/">Economic calendar</a></li>
                                                 <li><a href="/analytics/forex-forecast/">Forex analysis &amp; forecasts</a></li>
                                                 <li><a href="/analytics/charts/">Free Forex Charts</a></li>
                                                 <li><a href="/analytics/forex-calculator/">Forex Calculator</a></li>
                                                 <li><a href="/analytics/economic-indicators/">Economic Indicators</a></li>
                                                 <li><a href="/analytics/interest-rates/">Forex Interest Rates</a></li>
                                                 <li><a href="/analytics/national-holidays/">Bank Holidays</a></li>
+                                                <li><a href="/analytics/manual-economic-calendar/">Instruction on Economic Calendar</a></li>
                                             </ul>
                 </div></div>
                     </li>
@@ -273,6 +326,7 @@ We going to launch an Affiliate program, which is intended for the MetaTrader5 t
                                                 <li><a href="/beginner/forex-trading-hours/">Forex Trading Hours</a></li>
                                                 <li><a href="/beginner/advice-of-traders/">Forex Trading Advice</a></li>
                                                 <li><a href="/beginner/glossary/">Forex Glossary</a></li>
+                                                <li><a href="/beginner/webinars/">RoboForex Webinars</a></li>
                                             </ul>
                 </div></div>
                     </li>
@@ -284,7 +338,6 @@ We going to launch an Affiliate program, which is intended for the MetaTrader5 t
                                                 <li><a href="/forex-affiliate/forex-agent-program/">Forex Agent Program</a></li>
                                                 <li><a href="/forex-affiliate/webmaster-affiliate-program/">Webmaster Affiliate Program (IB)</a></li>
                                                 <li><a href="/forex-affiliate/introducing-broker-ib/">Forex Introducing Broker (IB)</a></li>
-                                                <li><a href="/forex-affiliate/rebate-services/">Rebate Services</a></li>
                                                 <li><a href="/forex-affiliate/whitelabel/">WhiteLabel Affiliate Program</a></li>
                                                 <li><a href="/forex-affiliate/agent-commission-all/">IB's commission</a></li>
                                                 <li><a href="/forex-affiliate/help-partner/">Help</a></li>
@@ -301,8 +354,8 @@ fullWidthMenu($('#menu'), 930);
 
 					<div id="path">
 																	<a href="/">Home</a>
-											 / 									<a href="/about/">About Us</a>
-											 / 									Privacy Policy
+											  /  									<a href="/about/">About Us</a>
+											  /  									Privacy Policy
 									</div>
 	
 <div id="left">
@@ -374,12 +427,17 @@ fullWidthMenu($('#menu'), 930);
 
                     </li>
             <li>
-                            <a href="/about/liquidity-providers/">Liquidity providers</a>
+                            <a href="/about/liquidity-providers/">Liquidity provider</a>
             
 
                     </li>
             <li>
                             <a href="/about/regulation/">Legal</a>
+            
+
+                    </li>
+            <li>
+                            <a href="/about/antimoneylaundering/">Anti-money Laundering</a>
             
 
                     </li>
@@ -394,12 +452,17 @@ fullWidthMenu($('#menu'), 930);
 
                     </li>
             <li>
-                            <a href="/about/faq/">FAQ</a>
+                            <a href="http://forum.roboforex.com/forum.php" target="_blank">Forum</a>
             
 
                     </li>
             <li>
-                            <a href="/about/sponsorship/">Sponsorship</a>
+                            <a href="/about/feedback/">Feedback</a>
+            
+
+                    </li>
+            <li>
+                            <a href="/about/faq/">FAQ</a>
             
 
                     </li>
@@ -413,13 +476,20 @@ fullWidthMenu($('#menu'), 930);
             
 
                     </li>
+            <li>
+                            <a href="/about/media/">RoboForex  in the Media</a>
+            
+
+                    </li>
+            <li>
+                            <a href="/about/sponsorship/">Sponsorship</a>
+            
+
+                    </li>
     </ul>
 
 
-    <div id="r-fxgrid">
-        <a target="_blank" href="/about/liquidity-providers/"><img alt="Liquidity provided by Integral and Currenex" src="/themes/rbforex/images/integral_fxgrid_logo.png"></a>
-    </div>
-
+    
 	<ul id="r-icons">
 		<li><a href="https://my.roboforex.com/en/register/" id="fdi1">Open<br>LIVE ACCOUNT</a></li>
 		<li><a href="/trading-accounts/demo/" id="fdi2">Open<br>DEMO ACCOUNT</a></li>
@@ -441,27 +511,26 @@ fullWidthMenu($('#menu'), 930);
 
             <div id="f-weare">
 
-            	                	Follow Us on:
-                
+            	            		                		Follow Us on:
+                	                
 					<a href="http://www.facebook.com/pages/roboforexcom/103983572995108?ref=sgm" id="fw-facebook" target="_blank">Facebook</a> <a href="http://twitter.com/roboforex_com" id="fw-twitter" target="_blank">Twitter</a> <a href="http://roboforex_com.livejournal.com" id="fw-livejournal" target="_blank">Livejournal</a> 
 
             </div>
 
 			
-         	
-                        <div class="clear"></div>
+            <div class="clear"></div>
             <div id="f-registration">
-            	ROBOFOREX LP is a member of the <a target="_blank" href="http://fscl.org.nz/">Financial Services Complaints Ltd.</a>, <br>
+            	ROBOFOREX LP is a member of the <a target="_blank" href="http://fscl.org.nz/" rel="nofollow">Financial Services Complaints Ltd.</a>, <br>
                     a government organization, and is registered as a financial services<br>
                     provider in the Financial Service Provider Register New Zealand <br>
-                    with registration number <a target="_blank" href="http://www.business.govt.nz/fsp/app/ui/fsp/version/searchSummaryCompanyFSP/FSP246525/3.do ">FSP246525</a>.
+                    with registration number <a target="_blank" href="http://www.business.govt.nz/fsp/app/ui/fsp/version/searchSummaryCompanyFSP/FSP246525/3.do" rel="nofollow">FSP246525</a>.
             </div>
-            
+
             <div id="f-menu">
     </div>
             <div id="f-copyright">
                 <p id="fc-forex">
-                    © RoboForex, 2009-2012.<br>All rights reserved.
+                    © RoboForex, 2009-2013.<br>All rights reserved.
                                     </p>
                 <p id="fc-links">
                     <!--<a href="/about/regulation/"></a><br />-->
@@ -472,6 +541,9 @@ fullWidthMenu($('#menu'), 930);
 									<a href="http://www.roboforex.com/about/awards/" class="foot-awward">
 						<img title="Fastest Growing ECN broker Eastern Europe according to Global Banking &amp; Finance Review magazine." src="/themes/rbforex/images/gdf-mono.jpg" alt="">
 					</a>
+					<a href="http://www.roboforex.com/about/awards/" class="foot-awward">
+						<img title="“Best Execution Broker, Eastern Europe 2013“ by the WORLD FINANCE" src="/themes/rbforex/images/smoll.png" alt="">
+					</a>
 				
                 </div>
             </div>
@@ -481,6 +553,10 @@ fullWidthMenu($('#menu'), 930);
 
 
 
+
+
+
+<script type="text/javascript" src="http://i.ctnsnet.com/int/integration?pixel=400276&amp;cont=s" async="true"></script>
 
 
 
