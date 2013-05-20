@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bankratecreditcards.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116044105id_/http%3A//www.bankratecreditcards.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankratecreditcards.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520155651id_/http%3A//www.bankratecreditcards.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -158,10 +158,10 @@ We may amend this Privacy Policy at any time.  Amendments will take effect imme
 
 If you have questions or concerns about our privacy practices or wish to make a request regarding your personally identifiable information, please contact us at any of the following:
 
-  * Via telephone: 877.293.3939 x180
+  * Via telephone: 877.293.3939, Option 2 (Advertiser information)
   * Via fax: (512) 249-5209
   * Via mail: Bankrate, Inc., 8920 Business Park Drive Suite 350, Austin TX 78759
-  * Via email: webmaster@bankrate.com
+  * Via email: Affiliates_TeamATbankratecreditcards.com
 
 
 
