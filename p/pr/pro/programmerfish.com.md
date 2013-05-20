@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the programmerfish.com privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119112752id_/http%3A//www.programmerfish.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the programmerfish.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520224150id_/http%3A//www.programmerfish.com/privacy-policy) for the most accurate reproduction.*
 
-# DMCA and Privacy Policy
+# ProgrammerFish
 
 The contents of this Website are based on information generally available to the public from sources believed to be reliable. No representation is made that it is timely, accurate or complete. We have taken due care and caution in compilation of data as this has been obtained from various sources including which it considers reliable and first hand. However, we do not guarantee the accuracy, adequacy or completeness of any information and it is not responsible for any errors or omissions or for the results obtained from the use of such information and especially states that it has no financial liability whatsoever to the subscribers / users of this report. The information herein, together with all estimates and forecasts, can change without notice.
 
