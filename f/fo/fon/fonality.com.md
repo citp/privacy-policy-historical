@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the fonality.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118162924id_/http%3A//www.fonality.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fonality.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520224510id_/http%3A//www.fonality.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fonality
-
-### General
 
 Fonality* takes your privacy and the confidentiality of your business data very seriously. We understand that your phone system is critical to your business, and that you need to trust that system and the company that provides it fully.  This policy outlines the types of information Fonality may collect, and our commitment to keeping that information safe, secure and private.
 
@@ -54,7 +52,7 @@ Our web sites may contain links to other sites. Please be aware that we are not 
 
 ### Surveys
 
-From time-to-time our site requests information from users via surveys. Participation in these surveys is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information and demographic information. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site or of the Fonality application.
+From time-to-time our site requests information from users via surveys. Participation in these surveys is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information and demographic information. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site or of the Fonality application. 
 
 ### Security
 
@@ -71,3 +69,7 @@ We promise to be extremely careful with any information you entrust us with, and
 ### Additional Information
 
 If you have any questions about this Privacy Policy or the practices of our website, you can send a request at [http://cp.fonality.com/support/.](http://cp.fonality.com/support)
+
+© 2013 Fonality, Inc. All rights reserved. Unauthorized duplication is a violation of applicable laws.
+
+*Unregistered or registered trade-mark(s) of Fonality, Inc. or its subsidiaries.
