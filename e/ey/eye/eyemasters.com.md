@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eyemasters.com privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119155358id_/http%3A//www.eyemasters.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eyemasters.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520233204id_/http%3A//www.eyemasters.com/privacypolicy) for the most accurate reproduction.*
 
 # EyeMasters | Privacy Policy
 
@@ -56,7 +56,7 @@ Our Websites contains links to other websites that are not owned or controlled b
 
 ## Updates to this Online Privacy Policy
 
-This Online Privacy Policy supersedes and replaces all of our previous online privacy policies and statements. It does not supersede or replace our HIPAA Privacy Notice found at [http://www.ecca.com/legal/legal_hipaa.pdf](https://web.archive.org/web/20121119155358id_/http://www.eyemasters.com/privacypolicy/legal_hipaa.pdf "HIPAA Privacy Notice"). Our HIPAA Privacy Notice addresses more specifically our privacy practices and a User's rights concerning any health information that we may receive or maintain concerning the User. 
+This Online Privacy Policy supersedes and replaces all of our previous online privacy policies and statements. It does not supersede or replace our HIPAA Privacy Notice found at [http://www.ecca.com/legal/legal_hipaa.pdf](https://web.archive.org/web/20130520233204id_/http://www.eyemasters.com/privacypolicy/legal_hipaa.pdf "HIPAA Privacy Notice"). Our HIPAA Privacy Notice addresses more specifically our privacy practices and a User's rights concerning any health information that we may receive or maintain concerning the User. 
 
 From time to time, we may update this Online Privacy Policy. Notification of any such updates which contain any material changes will be posted on the homepage of our Websites. Users are encouraged to check our Websites periodically for any material changes to this Online Privacy Policy.
 
