@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redenergy.com.au privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119172509id_/http%3A//www.redenergy.com.au/page.html%3Fprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redenergy.com.au privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521013503id_/http%3A//www.redenergy.com.au/page.html%3Fprivacy) for the most accurate reproduction.*
 
 # Privacy Policy | Red Energy
 
@@ -10,9 +10,9 @@ Obviously you will need to give us some personal information so that we can supp
 
 By registering for Red Energy’s online services, you confirm that you are the account holder or are authorised by the account holder to access the accounts for which you have registered, or for any accounts that you add to your online profile in the future. 
 
-Where there is a registration facility on our website, we will ask you whether you want us to send you personalised emails, mail and other communications with news, special offers and other matters which may be of interest to you. You can say no to this service either when you register or by [contacting us](https://web.archive.org/web/20121119172509id_/http%3A//www.redenergy.com.au/page.html?contact).
+Where there is a registration facility on our website, we will ask you whether you want us to send you personalised emails, mail and other communications with news, special offers and other matters which may be of interest to you. You can say no to this service either when you register or by [contacting us](https://web.archive.org/web/20130521013503id_/http%3A//www.redenergy.com.au/page.html?contact).
 
-We will maintain the security of your personal information in accordance with our [Security Policy](https://web.archive.org/web/20121119172509id_/http%3A//www.redenergy.com.au/page.html?security). However, we may share your personal information with:
+We will maintain the security of your personal information in accordance with our [Security Policy](https://web.archive.org/web/20130521013503id_/http%3A//www.redenergy.com.au/page.html?security). However, we may share your personal information with:
 
   * any network operator that we work with to supply energy to you, if they request it;
   * our related companies;
@@ -33,7 +33,7 @@ Where this involves transferring your personal information to another country, w
 
 
 
-If you want to request access to personal information we hold about you, just [contact us](https://web.archive.org/web/20121119172509id_/http%3A//www.redenergy.com.au/page.html?contact). Please provide as much detail as you can about the particular information you seek in order to help us retrieve it. In accordance with the Privacy Act, a fee may be charged to cover our costs of providing access to you. You may ask for any of your personal information to be corrected, so that it is accurate, complete and up to date. We will consider any such request in good faith and inform you of the action taken.
+If you want to request access to personal information we hold about you, just [contact us](https://web.archive.org/web/20130521013503id_/http%3A//www.redenergy.com.au/page.html?contact). Please provide as much detail as you can about the particular information you seek in order to help us retrieve it. In accordance with the Privacy Act, a fee may be charged to cover our costs of providing access to you. You may ask for any of your personal information to be corrected, so that it is accurate, complete and up to date. We will consider any such request in good faith and inform you of the action taken.
 
 We may conduct customer surveys on the website to collect statistics for marketing and research purposes. You can choose not to participate in these surveys.
 
