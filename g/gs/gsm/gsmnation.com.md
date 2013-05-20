@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gsmnation.com privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119072401id_/http%3A//www.gsmnation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gsmnation.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520133604id_/http%3A//www.gsmnation.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -17,7 +17,7 @@ Our Privacy Policy is designed to assist you, businesses, consumers and the gene
 To request a correction or deletion of your private information, or if you have any questions and general comments about this privacy policy, please contact us: [support@gsmnation.com](mailto:support@gsmnation.com)
 
 **Address**   
-Gsm Nation LLC  
+GSM Nation LLC  
 205 Whitney Ave STE 205  
 New Haven, CT 06510  
 USA. 
