@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ajsquare.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525093618id_/http%3A//www.ajsquare.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D203%26Itemid%3D729) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ajsquare.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520234912id_/http%3A//www.ajsquare.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D203%26Itemid%3D729) for the most accurate reproduction.*
 
 # Privacy Policy | About AJ Square
 
@@ -11,7 +11,7 @@ AJ Square, Inc. is a licensee of the TRUSTe Web Privacy Seal Program. TRUSTe is 
 [](http://www.truste.org/ivalidate.php?url=www.ajsquare.com&sealid=101)  
    
   
-If you have any questions or concerns regarding this statement, you should first contact support person at [ ](maillto: <script language='JavaScript' type='text/javascript'> <!-- var prefix = 'ma' + 'il' + 'to'; var path = 'hr' + 'ef' + '='; var addy54972 = 'support' + '@'; addy54972 = addy54972 + 'ajsquare' + '.' + 'com'; document.write\( '<a ' + path + '\\'' + prefix + ':' + addy54972 + '\\'>' \); document.write\( addy54972 \); document.write\( '<\\/a>' \); //-->\\n </script> <script language='JavaScript' type='text/javascript'> <!-- document.write\( '<span style=\\'display: none;\\'>' \); //--> </script>This e-mail address is being protected from spambots. You need JavaScript enabled to view it <script language='JavaScript' type='text/javascript'> <!-- document.write\( '</' \); document.write\( 'span>' \); //--> </script>)[sales@ajsquare.com](mailto:sales@ajsquare.com) . If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php> TRUSTe will then serve as a liaison with us to resolve your concerns.   
+If you have any questions or concerns regarding this statement, you should first contact support person at [ ](maillto: <script language='JavaScript' type='text/javascript'> <!-- var prefix = 'ma' + 'il' + 'to'; var path = 'hr' + 'ef' + '='; var addy28016 = 'support' + '@'; addy28016 = addy28016 + 'ajsquare' + '.' + 'com'; document.write\( '<a ' + path + '\\'' + prefix + ':' + addy28016 + '\\'>' \); document.write\( addy28016 \); document.write\( '<\\/a>' \); //-->\\n </script> <script language='JavaScript' type='text/javascript'> <!-- document.write\( '<span style=\\'display: none;\\'>' \); //--> </script>This e-mail address is being protected from spambots. You need JavaScript enabled to view it <script language='JavaScript' type='text/javascript'> <!-- document.write\( '</' \); document.write\( 'span>' \); //--> </script>)[sales@ajsquare.com](mailto:sales@ajsquare.com) . If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php> TRUSTe will then serve as a liaison with us to resolve your concerns.   
   
    
 **What This Privacy Policy Covers**  
@@ -39,7 +39,7 @@ This policy does not apply to the practices of companies that AJ Square Inc., do
 
 
 
-If you choose to use our referral service to tell a friend about our site, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Your friend may contact us at feedback [feedback@ajsquare](mailto:feedback@ajsquare.com) .com to request that we remove this information from our database.   
+If you choose to use our referral service to tell a friend about our site, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Your friend may contact us at feedback[feedback@ajsquare](mailto:%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20var%20prefix%20=%20'ma'%20+%20'il'%20+%20'to';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy17681%20=%20'feedback'%20+%20'@';%20addy17681%20=%20addy17681%20+%20'ajsquare'%20+%20'.'%20+%20'com';%20document.write\(%20'%3Ca%20'%20+%20path%20+%20'\\''%20+%20prefix%20+%20':'%20+%20addy17681%20+%20'\\'%3E'%20\);%20document.write\(%20addy17681%20\);%20document.write\(%20'%3C\\/a%3E'%20\);%20//--%3E\\n%20%3C/script%3E%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3Cspan%20style=\\'display:%20none;\\'%3E'%20\);%20//--%3E%20%3C/script%3EThis%20e-mail%20address%20is%20being%20protected%20from%20spambots.%20You%20need%20JavaScript%20enabled%20to%20view%20it%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3C/'%20\);%20document.write\(%20'span%3E'%20\);%20//--%3E%20%3C/script%3E).com to request that we remove this information from our database.   
   
    
 Information Sharing and Disclosure
@@ -112,25 +112,12 @@ Delaware, United States of America,
 Ph: +1 804 7677 548 , (302) 804 1400  
 Fax:(302) 397 0990  
    
-****  
-  
-   
 **AJ Square Incorporation**  
 500 Esplande Dr site,  
 1130 Oxnard 93030, California,  
 United States of America,   
 **Toll Free:** **** 1-805-472-4606  
 Ph: (805) 624 6303, (805) 797 3437  
-   
-**ASIA- PACIFIC OFFICE MALAYSIA**  
-   
-**AJ Square Inc**  
-Block B-1-3 Menara Uncang Emas,  
-85, Jalan Loke Yew,   
-55200 Kuala Lumpur,  
-Ph: (601) 7304 0153,   
-Fax: (603) 9285 7633.  
-E-mail : _[apsales@ajsquare.com](mailto:apsales@ajsquare.com) _  
    
 **ADMINISTRATIVE OFFICE & DEVELOPMENT CENTER**  
    
