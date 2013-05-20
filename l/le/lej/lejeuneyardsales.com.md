@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lejeuneyardsales.com privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119071901id_/http%3A//www.lejeuneyardsales.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lejeuneyardsales.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520122015id_/http%3A//www.lejeuneyardsales.com/privacy.jsp) for the most accurate reproduction.*
 
 # Lejeune bookoo - yard sales and classifieds in Camp Lejeune, North Carolina
 
