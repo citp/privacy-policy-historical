@@ -1,6 +1,36 @@
-> *The following text is extracted and transformed from the gitex.com privacy policy that was archived on 2012-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120915053336id_/http%3A//www.gitex.com/page.cfm/Link%3D2/t%3Dm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gitex.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520211010id_/http%3A//www.gitex.com/page.cfm/Link%3D2/t%3Dm) for the most accurate reproduction.*
 
-# GITEX TECHNOLOGY WEEK 2012 - Privacy Policy
+# GITEX TECHNOLOGY WEEK 20-24 October 2013 - Privacy Policy
+
+[i](http://www.gitex.com/page.cfm/NewSection=Yes/GoSection=0)
+
+**20-24 October 2013**  
+Dubai World Trade Centre 
+
+  * [Exhibit Button](http://www.gitex.com/page.cfm/Action=Form/FormID=37/t=m)
+  * [Visit Button](http://www.gitex.com/page.cfm/link=191)
+
+
+* [GITEX](http://www.gitex.com/page.cfm/link=1)
+
+[page.cfm/link=217](http://www.gitex.com/page.cfm/link=217)
+
+* [Sectors](http://www.gitex.com/page.cfm/link=4)
+* [Exhibitors](http://www.gitex.com/page.cfm/link=227)
+* [Visitors](http://www.gitex.com/page.cfm/link=244)
+* [Conference](http://www.gitex.com/page.cfm/link=232)
+* [Features](http://www.gitex.com/page.cfm/link=236)
+* [Media](http://www.gitex.com/page.cfm/link=242)
+* [Infocomm](http://www.gitex.com/page.cfm/link=42)
+
+Small Spotlight Image
+
+latest news  
+
+
+[Facebook Icon](http://www.facebook.com/GitexTechnologyWeek) [LinkedIn Icon](http://www.linkedin.com/groups?gid=1960525) [Twitter Icon](https://twitter.com/gitextechweek) [Google ](https://plus.google.com/u/0/115267610544387602365/posts) [Youtube](http://www.youtube.com/user/GitexTechWeek) [i](http://instagram.com/) [](http://blog.gitex.com/)
+
+[](http://www.gitex.com/page.cfm/action=search/t=m)[](http://www.gitex.com/page.cfm/action=sitemap/t=m)[](http://www.gitex.com/page.cfm/action=textonlyswitch/t=m)[](http://www.gitex.com/)[](http://www.gitex.com/page.cfm/action=accesskeys/t=m)[](http://www.gitex.com/)[](http://www.gitex.com/)[](http://www.gitex.com/)[](http://www.gitex.com/)[](http://www.gitex.com/)[](http://www.gitex.com/)[](http://www.gitex.com/)[](http://www.gitex.com/)
 
 Dubai World Trade Centre L.L.C. respects your privacy and is committed to protecting it. We provide this Privacy Statement to inform you of our Privacy Policy and practices, and of the choices you can make about what information is collected, the manner in which that information is collected and how that information is used.
 
@@ -84,3 +114,43 @@ P.O. Box 9292, Dubai, UAE
 
 **Website**  
 [ASP](http://www.aspevents.net/privacy) provide and host this website for DWTC. [ASP](http://www.aspevents.net/privacy) is registered with the UK Data Commissioner as Data Controllers and hold all the data within the UK.
+
+  * [exhibit](http://www.gitex.com/page.cfm/Action=Form/FormID=37/t=m)
+  * [sponsor](http://www.gitex.com/page.cfm/Action=Form/FormID=10/t=m)
+  * [register](http://www.gitex.com/page.cfm/Action=Form/FormID=39/t=m)
+
+
+
+[infocomm](http://www.gitex.com/page.cfm/link=36)
+
+fact 1 fact 1  
+
+
+Follow us on twitter
+
+Get Involved
+
+[gisec](http://www.gisec.ae/)
+
+Visitors 
+
+  * 
+Exhibitors 
+  * 
+Conferences 
+  * 
+
+
+**Organised By**
+
+Dubai World Trade Centre
+
+** ** **Official Publisher**
+
+**ITP**
+
+**Official Travel Partner**
+
+alpha
+
+[Facebook Icon](http://www.facebook.com/GitexTechnologyWeek)[LinkedIn Icon](http://www.linkedin.com/groups?gid=1960525)[Twitter Icon](https://twitter.com/gitextechweek)[google ](https://plus.google.com/u/0/115267610544387602365/posts)[](http://instagram.com/)[You tube](http://www.youtube.com/user/GitexTechWeek)
