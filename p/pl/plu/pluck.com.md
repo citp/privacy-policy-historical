@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pluck.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118075309id_/http%3A//www.pluck.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pluck.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520224624id_/http%3A//www.pluck.com/privacy-policy) for the most accurate reproduction.*
 
-# Demand Media Privacy Policy | Pluck.com | Integrated Community Platform
+# Demand Media Privacy Policy | Pluck.com | Integrated Customer Interactions
 
 Policy
 
