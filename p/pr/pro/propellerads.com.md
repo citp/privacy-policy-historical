@@ -1,100 +1,85 @@
-> *The following text is extracted and transformed from the propellerads.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229203604id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propellerads.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520182105id_/http%3A//propellerads.com/terms) for the most accurate reproduction.*
 
-# Legal Agreement
+# Terms and Conditions from Propeller Ads Media.
 
-**Go Daddy Respects Your Privacy**
+Propeller Ads Media Ltd is committed to protecting the privacy of Internet users. Accordingly, we strictly adhere to all industry guidelines, and will continue to review and improve our privacy policy and procedures to ensure the safety and protection of consumer information. 
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+This Privacy Statement presents our privacy policy, including Propellerads.com's privacy practices. Below is information regarding Propellerads.com's commitment to protecting the privacy of Internet users. The purpose of this Privacy Policy is to provide users with clear and complete notice about the user information we may collect in connection with our Services and on our corporate website.
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+Propellerads.com may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 12/06/2012.
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+**Information We Collect Through our Services**
 
-**Information Collection and Use**
+**We do not collect PII.**
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+We do not collect the online user’s personally identifiable information ("PII") through our Services. PII generally refers to information such as an individual’s name, mailing address, phone number or e-mail address.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+Non-Personal Information Collected by our Services
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+We offer a range of Services that allow advertisers and publishers to show online users the most useful and relevant ads online.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+We may collect non-personally identifiable information ("Non-PII") regarding the user’s behavior and usage patterns on advertisements and sites operated by our clients to better customize the type of advertisements users see on various sites. Non-PII may include information such as the type of Internet browser used by an online user, the type of computer operating system used, the domain name of the website visited, as well as information related to websites and web pages a user is viewing when an advertisement is shown. 
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+We collect Non-PII through the use of cookies and pixels. No personally identifiable information is collected or used in this process. A cookie is a file on your browser that uniquely identifies your browser. A pixel is a line of code which is used by a Web site or third party ad server to track a user’s activity. The use of a pixel allows us to record that a user has visited a particular webpage along with additional Non-PII that the website publisher or advertiser may choose to include with the pixel.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+The use of cookies by our affiliates, service providers or tracking utility company is not covered by our Privacy Policy. We do not have access or control over these cookies. These third parties use session ID cookies to make it easier for you to navigate our site. 
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+**Disclosure of Information to Third Parties**
 
-**Security**
+We do not collect PII via our Services, and therefore, we do not sell, rent, or share PII collected on our customer’s websites to non-affiliated third parties. 
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+We may disclose Non-PII collected through our Services, and information derived from it, to our customers. This Non-PII may be used by our customers to deliver tailored ads to users on participating websites. This information cannot be used to contact or identify any person individually. Further, all of our customers have warranted that they shall use any Non-PII they receive in compliance with applicable laws and regulations.
 
-**Updating Your Information**
+We may disclose a user’s information to third parties when we reasonably believe we are obligated to do so by law, and in order to investigate, prevent, or take action regarding suspected or actual prohibited activities, including, but not limited to, fraud and situations involving potential threats to the physical safety of any person.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+**User Choice**
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+We use technology, which includes cookies, in the delivery of our Services. We believe that the use of these tools enables us and our advertiser clients to provide users with a more meaningful web experience.
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+You may at all times adjust your computer’s web browser settings to refuse all cookies, but by doing so you may not be able to use certain features on the websites you visit or take full advantage of all the website offerings and interest based advertising. You can remove cookies by following directions provided in your Internet browser’s "help" file.
 
-      iii.      You may call us at: (480) 505-8800
+You may also simply opt out of receiving interest-based advertising by [clicking here](http://propellerads.com/opt-out/). 
 
-       iv.      You may fax us at: (480) 505-8844
+Our opt-out cookies are programmed to expire two years after they are initially issued. If you buy a new computer, upgrade or change Web browsers or delete this "opt-out" cookie, you will need to perform this opt-out process again. In order for the opt-out to work, your browser must be set to accept 3rd party cookies. Opting out does not necessarily delete or replace all cookies from our domain.
 
-**Sending Emails**
+**Information Security**
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+We follow generally accepted industry standards to protect against the unauthorized access to, retention of, and disclosure of data. This includes undertaking necessary physical, electronic, and management activities required to protect data integrity, access, and use. Any data that is stored on our servers is treated as confidential information. Please keep in mind, however, that despite these reasonable efforts to protect data on our servers, no method of transmission over the Internet is guaranteed to be secure. Therefore, while we strive to protect your data at all times, we cannot guarantee its absolute security and shall not be liable for any breach of security by an outside party.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+**Your Use and Correspondence on this Site**
 
-**Compliance with Laws and Law Enforcement**
+We use cookies to understand and analyze the usage trends of our users on our corporate website. We do not collect the online user’s PII through these cookies, only non-PII. If you provide us information through our “contact us” link on our corporate website, we will keep a record of the information you provide including your email address and any other personal information you provide solely for the purpose of responding to your inquiry or to provide you with requested marketing material. This information will never be shared with third parties without your consent. 
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+PII collected on our website may be stored and processed in the United States or any other country in which we or our affiliates, subsidiaries, agents or customers maintain facilities. You acknowledge and agree that personally identifiable information you provide to us may be transferred outside of the country in which you reside. Providing such information will constitute your consent to any such transfer.
 
-**Third Party Service Providers**
+If you would like for us to remove your information from our marketing e-mails or newsletters, please contact us at support@propellerads.com. Be sure to include your name, username and clear instructions regarding any change to your PII including email address or if you would like us to unsubscribe you from our database. 
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+If we make any material or substantive changes in the way that we use the PII collected through our corporate Website, we will post a clear and conspicuous notice of those changes on the Website and in this Privacy Policy. We also invite you to contact us at support@propellerads.com with any questions or concerns.
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+**Children’s Privacy**
 
-**Supplementation of Information**
+We are sensitive to the issue of children’s privacy. Therefore, our website, products, and Services are neither developed for, nor directed at, children. If you believe your child has provided us with personally identifiable data, and you would like to have the data removed, please contact us at support@propellerads.com.
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+**Linking to Other Sites**
 
-**Contests/Surveys**
+A link from our corporate web site to another web site does not imply our endorsement of that site. We do not control the sites to which we link and assume no responsibility for their content or privacy policies. Therefore, you should carefully review the privacy policies that apply to any sites you access from our site.
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+**Spam and E-mail lists**
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+We do not intentionally send unsolicited e-mail messages that could be construed as spam.
 
-**Tell-A-Friend**
+**Transfer of Data upon Change of Control**
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+In the event that another company acquires all or substantially all of the assets of our business through a consolidation, merger, asset purchase, or other transaction, we reserve the right to transfer all data (including any personally identifiable information a user may have provided through the “contact us” page) that is in our possession or under our control to such acquiring party.
 
-**What Happens to my Personal Information if I Opt Out?**
+**A Special Note about the European Union**
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+In compliance with the Safe Harbor Principles, we commit to resolve complaints about your privacy and our collection or use of your personal information. European Union citizens with inquiries or complaints regarding this Privacy Policy should first contact support@propellerads.com
 
-**Transfer of Data Abroad**
+The company complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. The company has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view the company’s certification, please visit <http://www.export.gov/safeharbor/>
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+Propeller Ads has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Propeller Ads, please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](https://web.archive.org/web/20130520182105id_/http%3A//propellerads.com/www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint. 
 
-**Changes in Our Practices**
+**Questions or Comments about this Privacy Policy**
 
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+If you have questions or concerns regarding this statement, you should first contact us through email. You can address your general questions and comments by e-mail to support@propellerads.com 
