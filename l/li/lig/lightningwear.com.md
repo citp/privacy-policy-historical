@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lightningwear.com privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217073938id_/http%3A//lightningwear.com/store/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lightningwear.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520140823id_/http%3A//www.lightningwear.com/store/privacy.php) for the most accurate reproduction.*
 
 # 
 
@@ -12,7 +12,7 @@ This policy describes the personal information we collect about you, why we coll
 
 Lightning Wear Apparel Inc.  
 Customer Service   
-3704 Decatur Avenue   
+10580 Metropolitan Avenue   
 Kensington, Maryland 20895 USA 
 
 Any information changes in the future will be posted immediately on our website. Revision dates will always be placed at the end of the policy. You may exercise your choices about how we collect and use your information at any time. 
