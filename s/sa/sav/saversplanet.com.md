@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saversplanet.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230225703id_/http%3A//www.saversplanet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saversplanet.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520100127id_/http%3A//www.saversplanet.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - SaversPlanet.com
 
