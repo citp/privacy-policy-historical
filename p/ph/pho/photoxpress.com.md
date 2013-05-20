@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photoxpress.com privacy policy that was archived on 2012-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121006124215id_/http%3A//www.photoxpress.com/Info/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photoxpress.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520201917id_/http%3A//www.photoxpress.com/Info/Privacy) for the most accurate reproduction.*
 
 # Stock Photos | Royalty Free Subscription Stock Photos | PhotoXpress
 
