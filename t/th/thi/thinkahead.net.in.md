@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thinkahead.net.in privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127115844id_/http%3A//thinkahead.net.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinkahead.net.in privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520232656id_/http%3A//thinkahead.net.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | thinkahead.net.in
 
-This Privacy Policy governs the manner in which thinkahead.net.in collects, uses, maintains and discloses information collected from users (each, a “User”) of the [thinkahead.net.in](https://web.archive.org/web/20121127115844id_/http://thinkahead.net.in/privacy-policy/thinkahead.net.in) website (“Site”). This privacy policy applies to the Site and all products and services offered by thinkahead.net.in.
+This Privacy Policy governs the manner in which thinkahead.net.in collects, uses, maintains and discloses information collected from users (each, a “User”) of the [thinkahead.net.in](https://web.archive.org/web/20130520232656id_/http%3A//thinkahead.net.in/thinkahead.net.in) website (“Site”). This privacy policy applies to the Site and all products and services offered by thinkahead.net.in.
 
 **Personal identification information**
 
