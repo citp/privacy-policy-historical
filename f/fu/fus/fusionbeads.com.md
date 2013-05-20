@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fusionbeads.com privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031095242id_/http%3A//www.fusionbeads.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fusionbeads.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520200204id_/http%3A//www.fusionbeads.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy and Security
 
