@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bleachexile.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118045342id_/http%3A//bleachexile.com/information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bleachexile.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520121335id_/http%3A//www.bleachexile.com/information/privacy-policy) for the most accurate reproduction.*
 
 # Bleach Exile > Information > Privacy Policy
 
