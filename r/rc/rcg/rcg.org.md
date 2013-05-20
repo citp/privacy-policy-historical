@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rcg.org privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116193132id_/http%3A//rcg.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rcg.org privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521004705id_/http%3A//rcg.org/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -46,10 +46,10 @@ While your privacy is very important to us, due to the existing legal and regula
 
 This site is the primary and official source of web-based information about The Restored Church of God. Recognizing that there are people who wish to promote our efforts on the Internet by maintaining web pages that parallel this website, we have adopted the following policy to ensure consistency and protect against error.
 
-All of the content and graphics contained in this website are copyright 2000-2012 and owned by The Restored Church of God. Certain items are also protected as a trademark or a registered trademark of The Restored Church of God. The Restored Church of God maintains and reserves exclusive rights to the license and use of the same.
+All of the content and graphics contained in this website are copyrighted 2000-2013 and owned by The Restored Church of God. Certain items are also protected as a trademark or a registered trademark of The Restored Church of God. The Restored Church of God maintains and reserves exclusive rights to the license and use of the same.
 
-We ask that any and all content and graphics that reference or relate to RCG or this website be submitted to us for review and approval before being displayed on the Internet.
+We ask that any and all content and graphics that reference or relate to The Restored Church of God or this website be submitted to us for review and approval before being displayed on the Internet.
 
 #### User Complaints
 
-User complaints regarding our privacy practices should be sent to Website Services.
+User complaints regarding our privacy practices should be sent to [Website Services](https://web.archive.org/web/20130521004705id_/http%3A//rcg.org/contact.html).
