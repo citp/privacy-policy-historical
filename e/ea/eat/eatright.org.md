@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the eatright.org privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119155859id_/http%3A//www.eatright.org/WorkArea/linkit.aspx%3FLinkIdentifier%3Did%26ItemID%3D8664) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eatright.org privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520121327id_/http%3A//www.eatright.org/WorkArea/linkit.aspx%3FLinkIdentifier%3Did%26ItemID%3D8664) for the most accurate reproduction.*
 
 # Online Privacy Policy - From the Academy
 
-This Privacy Statement covers the Academy of Nutrition and Dietetics' Web sites, including:
+This Privacy Statement covers the Academy of Nutrition and Dietetics' websites, including:
 
   * [http://www.eatright.org](http://www.eatright.org/)
   * [http://www.adaf.org](http://www.adaf.org/)
@@ -11,7 +11,7 @@ This Privacy Statement covers the Academy of Nutrition and Dietetics' Web sites,
 
 
 
-By accessing and using the Web sites you consent to the terms of this privacy policy. The Academy of Nutrition and Dietetics is committed to maintaining the confidence and trust of our members and other customers and visitors to the Web sites. The Academy maintains the following privacy policy to inform you of the Academy's collection, use and distribution of the personal information you provide online. The Academy may update or modify this privacy policy at any time, which update shall become effective upon posting of the new privacy policy on the Web sites. Please check this page periodically for updates to our privacy policy. Please direct any questions, comments or concerns to: [webmaster@eatright.org](mailto:webmaster@eatright.org).
+By accessing and using the Web sites you consent to the terms of this privacy policy. The Academy of Nutrition and Dietetics is committed to maintaining the confidence and trust of our members and other customers and visitors to the Web sites. The Academy maintains the following privacy policy to inform you of the Academy's collection, use and distribution of the personal information you provide online. The Academy may update or modify this privacy policy at any time, which update shall become effective upon posting of the new privacy policy on the Web sites. Please check this page periodically for updates to our privacy policy. Please direct any questions, comments or concerns to: [webstrategy@eatright.org](mailto:webstrategy@eatright.org).
 
 ## What information does the Academy collect and how is it used?
 
@@ -66,7 +66,7 @@ Permission: In addition, we may disclose or sell your PII to third-parties with 
 
 #### Electronic Mailing Lists and Public Forums
 
-The Academy makes electronic mailing lists available to its members on this site. Any information you disclose on any electronic mailing list or other open forum hosted by the Academy may be collected by others and used, without authorization by the Academy, to send you unsolicited non-Academy information or for other purposes. Although the Academy tries to protect your personal information when using these public forums, we cannot ensure or warrant the security of any information you transmit to us, and you do so at your own risk. Users also have the choice of ending any subscription by submitting a cancellation request to [webmaster@eatright.org](mailto:webmaster@eatright.org).
+The Academy makes electronic mailing lists available to its members on this site. Any information you disclose on any electronic mailing list or other open forum hosted by the Academy may be collected by others and used, without authorization by the Academy, to send you unsolicited non-Academy information or for other purposes. Although the Academy tries to protect your personal information when using these public forums, we cannot ensure or warrant the security of any information you transmit to us, and you do so at your own risk. Users also have the choice of ending any subscription by submitting a cancellation request to [webstrategy@eatright.org](mailto:webstrategy@eatright.org).
 
 #### External Links
 
@@ -86,4 +86,4 @@ This site has security measures in place to protect the loss, misuse and alterat
 
 #### Tell Us What You Think
 
-The Academy of Nutrition and Dietetics welcomes your questions and comments about privacy. Please e-mail [webmaster@eatright.org](mailto:webmaster@eatright.org).
+The Academy of Nutrition and Dietetics welcomes your questions and comments about privacy. Please e-mail [webstrategy@eatright.org](mailto:webstrategy@eatright.org).
