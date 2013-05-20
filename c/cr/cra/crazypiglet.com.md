@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the crazypiglet.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118212701id_/http%3A//www.crazypiglet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crazypiglet.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520220917id_/http%3A//www.crazypiglet.com/privacy-policy) for the most accurate reproduction.*
 
-# Crazy Piglet | Funny Pictures and Crazy Stuff
+# Crazy Pictures
 
 CrazyPiglet.com understands the importance of privacy and is committed to protecting the privacy of your personal information. This Privacy Policy explains how CrazyPiglet.com collects and uses your personal information.
 
