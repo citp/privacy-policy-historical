@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the simplisafe.com privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518132542id_/http%3A//simplisafe.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplisafe.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520223226id_/http%3A//simplisafe.com/privacy-policy) for the most accurate reproduction.*
 
 # SimpliSafe | Privacy Policy
 
-**Last updated: February 2, 2008**
+**Last updated: December 5, 2012**
 
 SimpliSafe, Inc. ("SimpliSafe") takes your privacy seriously. We believe in protecting your information as well as your person and belongings. This Privacy Policy covers the service offered at the [www.simplisafe.com](http://www.simplisafe.com/ "www.simplisafe.com") (the "Site") and outlines the type of information we collect, its uses, and steps we take to safeguard it. 
 
@@ -26,7 +26,7 @@ We may also use the information we collect, in combination with outside records,
 
 __Non-personally Identifiable Information__
 
-As is true of most websites, when you visit our Site we gather certain information automatically and store it in log files. We gather technical information about your computer such as your IP address, operating system, browser type, pages visited, manner of connection to the Internet, and referring URL. We collect this information in aggregate to improve the design and content of our site. The information that we collect through log files is not tied to personally identifiable information. 
+As is true of most websites, when you visit our Site we gather certain information automatically and store it in log files. We gather technical information about your computer such as your IP address, operating system, browser type, pages visited, manner of connection to the Internet, and referring URL. We collect this information in aggregate to improve the design and content of our site. 
 
 _Cookies_
 
