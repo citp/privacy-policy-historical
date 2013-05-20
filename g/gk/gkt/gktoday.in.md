@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gktoday.in privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103212757id_/http%3A//www.gktoday.in/disclaimer-copyright-and-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gktoday.in privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520081134id_/http%3A//www.gktoday.in/disclaimer-copyright-and-privacy-policy) for the most accurate reproduction.*
 
 # Disclaimer, Copyright and Privacy Policy
 
