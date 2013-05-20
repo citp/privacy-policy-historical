@@ -1,28 +1,26 @@
-> *The following text is extracted and transformed from the franchiseopportunities.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014180232id_/http%3A//www.franchiseopportunities.com/infopolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the franchiseopportunities.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520173513id_/http%3A//www.franchiseopportunities.com/infopolicy.asp) for the most accurate reproduction.*
 
 # Privacy Policy, Disclaimer and Website Usage Policy
 
-### _Privacy Policy, Disclaimer and Website Usage Policy_
+If you have questions or concerns regarding this statement, please contact us via our [Contact Us](http://www.franchiseopportunities.com/contact.asp) page.
 
-Welcome to FranchiseOpportunities.com ("FO"). Franchise Opportunties.com is part of the Franchise Opportunities Network ("FON"). You can visit the FON website at: www.franchiseopportunitiesnetwork.com. Please be sure to carefully read all of the terms of use related information and conditions outlined on this page. Our goal is to provide you with the very best service and user experience possible. 
+**Contact Form Usage Policy**
 
-[](http://www.etrust.org/cert/897896.html)
+Users are permitted to use the email contact forms and/or our lead submission forms only for the purpose to gain further information from the franchisor and/or business opportunity. The email contact forms and/or lead submission forms on our website are only to be used to send inquiries about buying a particular business for sale, franchise, or other related business opportunity. By submitting your information you expressly confirm that you have a genuine interest in each of the concepts for which you have requested information; that you wish for a representative from each of the concepts to contact you; and that the information that you have submitted is true and correct. Submitting contact forms for the expressed purpose of promoting a business or service is strictly prohibited.
 
-Franchise Opportunities.com is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site www.franchiseopportunities.com. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
+We are grateful that you have taken the time to come to our site and inquire about the exciting franchise and business opportunities we have listed. In order to provide the best service possible to both you and our clients we must insist that you respect and understand this Policy. By submitting your information you expressly agree to receive a phone call or e-mail inquiry from the entity from whom you requested information. Submitting contact information that is either false or is done without interest to the particular business for which you have submitted your information is called "spamming". Spamming of any sort on our site is not permitted as it hurts the integrity, credibility, and value of our business. Moreover, it jeopardizes our ability to continue to provide our services to legitimate users. 
 
-If you have questions or concerns regarding this statement, you should first contact us at [gsnider@franoppnetwork.com](mailto:gsnider@franoppnetwork.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at [http://watchdog.truste.com/pvr.php?page=complaint&http://www.franchiseopportunities.com](http://watchdog.truste.com/pvr.php?page=complaint&http://www.franchiseopportunities.com). TRUSTe will then serve as a liaison with the Web site to resolve your concerns. 
+By using the website and submitting a contact form you agree with these conditions. 
 
 **Advertising Service**
 
-When you request franchise or other information we will ask for your contact information such as name, email address and phone number. The inquiry forms that you complete are only forwarded to the specific franchise/business opportunity company(s) from which you request information. Franchise Opportunities.com ("FO") will not sell, rent, or share your personal information with any other third parties except as described in this privacy policy. 
+You may browse our website at any time without providing your contact and/or personal information. If, however, you are interested in an opportunity and/or any additional information from FO (and/or our advertisers) you may register with us and provide your name and contact information (i.e, address, telephone number and e-mail address etc). We share your information only with the franchises and business opportunities in which you have expressed interest. Franchise Opportunities.com ("FO") will not sell, rent, or share your personal information with any other third parties. If you no longer want to receive information from a franchise or business opportunity, please contact that franchise or business opportunity directly. 
 
-__You may browse our website at any time without providing your contact and/or personal information.__ If, however, you are interested in an opportunity and/or any additional information from FO (and/or our advertisers) you may register with us and provide your name and contact information (i.e, address, telephone number and e-mail address etc). We share your information only with the franchises and business opportunities in which you have expressed interest. If you no longer want to receive information from a franchise or business opportunity, please contact that franchise or business opportunity directly. 
-
-FO also periodically sends newsletters, franchise and business opportunity updates and new advertiser information via e-mail to users who have subscribed and given their permission. If you wish to **unsubscribe** to our e-mails, newsletters etc please follow the simple instructions to do so which are located at the bottom of each mailing. If for some reason the unsubscribe function does not work please call us at the number given below. We only add you to our mailing list if so authorized. Moreover, we do not share your e-mail address or other personal information with other companies unless authorized by you. 
+FO also periodically sends newsletters, franchise and business opportunity updates and new advertiser information via e-mail to users who have subscribed and given their permission. If you wish to unsubscribe to our e-mails please follow the simple instructions to do so which are located at the bottom of each mailing. If for some reason the **unsubscribe** function does not work please contact us via our [Contact Us](http://www.franchiseopportunities.com/contact.asp) page. We only add you to our mailing list if so authorized. Moreover, we do not share your e-mail address or other personal information with other companies unless authorized by you. 
 
 FO is a lead generation and advertising service. Business brokers, agents, business buyers, independent business sellers, franchise companies, attorneys, and any and all other listings found on the FO website are simply advertising purchasers, listing service purchasers, or other advertising clients and are not employed by or otherwise affiliated in any way with FO. Thus FO is in no way responsible for the actions, representations, or business dealings of any business that advertises and/or appears on the website. 
 
-We also collect and use your IP address to help diagnose problems with our website server, and to administer our website. We use cookies on this site. A cookie is a small text file that is stored on a user�s computer for record-keeping purposes. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. 
+We also collect and use your IP address to help diagnose problems with our website server, and to administer our website. We use cookies on this site. A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. 
 
 We use a third-party tracking service that uses cookies to track non-personally identifiable information about visitors to our site in the aggregate to capture usage and volume statistics to improve our Web site. By submitting information to us and asking us to disclose your information to third-parties, you expressly agree to receive telephone calls and/or e-mails even if you are registered with any state Do Not Call Registry, and/or the National Do Not Call List. 
 
@@ -40,7 +38,7 @@ The use of the FO website and/or its services is governed by the laws of the Sta
 
 **Children's privacy**
 
-FO is intended to be used by individuals over the age of 18. We do not seek or willingly collect information on children under the age of 18. If we discover that we have collected information on a child under the age of 13, then we will delete that information from our system. 
+FO is intended to be used by individuals over the age of 18. We do not seek or willingly collect information on children under the age of 18. If we discover that we have collected information from a child under the age of 13, then we will delete that information from our system. 
 
 **Legal Disclaimer**
 
@@ -62,26 +60,19 @@ As we continue to develop our business we might sell or buy companies, subsidiar
 
 We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page. If you have any queries concerning any of the above please contact us at: 
 
-Customer Service c/o Garth Snider   
+Customer Service c/o Bonnie Brooks   
 FranchiseOpportunities.com   
-Morgan Falls Office Park   
-7840 Roswell Road, Building 100, Suite 210   
+375 Northridge Road, Suite 475   
 Atlanta, GA 30350   
 888.363.3390 
 
-[gsnider@franoppnetwork.com](mailto:gsnider@franoppnetwork.com)
+[bbrooks@franoppnetwork.com](mailto:bbrooks@franoppnetwork.com)
 
 
 
 
-Policy effective 9/4/07, updated 8/31/12.
+Policy effective 9/4/07, updated 04/22/13.
 
 Thank you for visiting our site. 
 
 The FranchiseOpportunities.com Team 
-
-### _AUTHORIZED EXPRESS REQUEST FORM USAGE POLICY_
-
-Users are permitted to use the email contact forms and/or our lead submission forms only for the purpose to gain further information from the franchisor and/or business opportunity. The email contact forms and/or lead submission forms on our website are only to be used to send inquiries about buying a particular business for sale, franchise, or other related business opportunity. By submitting your information you expressly confirm that you have a genuine interest in each of the concepts for which you have requested information; that you wish for a representative from each of the concepts to contact you; and that the information that you have submitted is true and correct. 
-
-We are grateful that you have taken the time to come to our site and inquire about the exciting franchise and business opportunities we have listed. In order to provide the best service possible to both you and our clients we must insist that you respect and understand this Policy. By submitting your information you expressly agree to receive a phone call or e-mail inquiry from the entity from whom you requested information. Submitting contact information that is either false or is done without interest to the particular business for which you have submitted your information is called "spamming". Spamming of any sort on our site is not permitted as it hurts the integrity, credibility, and value of our business. Moreover, it jeopardizes our ability to continue to provide our services to legitimate users. _By using the website and submitting a contact form you agree with these conditions._
