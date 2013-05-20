@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the northwestsavingsbank.com privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119182712id_/https%3A//www.northwestsavingsbank.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the northwestsavingsbank.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520094415id_/https%3A//www.northwestsavingsbank.com/privacy.htm) for the most accurate reproduction.*
 
 # Northwest Savings Bank :: Privacy Policy
 
@@ -56,7 +56,7 @@ PROVIDING PRIVACY INFORMATION TO CUSTOMERS**
 
 We make our policy regarding confidentiality of customer information available publicly. Customers who have questions regarding our policy or the privacy of their customer information may contact us during normal business hours or e-mail us at [nwsbinfo@nwbcorp.com](mailto:nwsbinfo@nwbcorp.com). 
 
-  **  
+   **  
 PROTECTION OF SOCIAL SECURITY NUMBERS**
 
 Social Security Numbers are treated as confidential information under Northwest Savings Bank’s Protecting the Privacy of Customer Information Policy.  As such, Social Security Numbers may only be accessed by and disclosed to Northwest Savings Bank employees and others with a legitimate business “need to know” in accordance with applicable laws and regulations. Social Security Numbers, whether in paper or electronic form, are subject to physical, electronic and procedural safeguards and must be stored, transmitted and disposed of in accordance with the provisions of our Protecting the Privacy of Customer Information Policy applicable to confidential information.  These restrictions apply to all Social Security Numbers collected or retained by Northwest Savings Bank in connection with customer, employee or other relationships. 
@@ -66,7 +66,7 @@ PROTECTING CHILDREN’S PRIVACY ONLINE**
 
 Northwest Savings Bank does not knowingly solicit data from children and we do not knowingly market to children. We recognize that protecting children’s identities and privacy online is important and that the responsibility to do so rests with the Internet industry and with parents. 
 
-The Internet is a public network. Children’s access to the Internet can allow them to visit inappropriate websites and be exposed to unwanted risks. COPPA, the Children’s Online Privacy Protection Act, protects children under the age of 13 from the online collect of personal information. For more information about the Children’s Online Privacy Protection Act visit the FTC website at <http://www.ftc.gov/> . 
+The Internet is a public network. Children’s access to the Internet can allow them to visit inappropriate websites and be exposed to unwanted risks. COPPA, the Children’s Online Privacy Protection Act, protects children under the age of 13 from the online collect of personal information. For more information about the Children’s Online Privacy Protection Act visit the FTC website at [http://www.ftc.gov/ .](http://www.northwestsavingsbank.com/notice.htm?http:www.ftc.gov/)
 
 **  
 SITE LINK DISCLAIMER**
@@ -79,7 +79,7 @@ DO NOT CALL POLICY**
   * Northwest Savings Bank (NSB) complies with the law and regulations and is committed to protecting and respecting consumers' rights to privacy. 
   * NSB maintains a record of the name and telephone number(s) (both customers and non-customers) will be added to the NSB Internal Do Not Call List within five (5) business days of receipt of such request.  This record will be retained for at least five (5) years. 
   * Consumers are responsible for notifying NSB of any changes in name or telephone number if they move or wish to place a new telephone number on the NSB Internal Do Not Call List.  Consumers are responsible for notifying NSB if there is more than one telephone line or number that they wish to place on the NSB Internal Do Not Call List. 
-  * Consumers have additional avenues to them which will help reduce or eliminate unwanted telephone solicitations.  Consumers may place their telephone number(s) on the National Do Not Call Registry by calling 1-888-382-1222 or online at <http://www.donotcall.gov/>.  The Direct marketing Association also offers a free service called "Telephone Preference Service".  Consumers may register for this service online at <http://www.dmaconsumers.org/> or by sending a written request to: 
+  * Consumers have additional avenues to them which will help reduce or eliminate unwanted telephone solicitations.  Consumers may place their telephone number(s) on the National Do Not Call Registry by calling 1-888-382-1222 or online at [http://www.donotcall.gov/](http://www.northwestsavingsbank.com/notice.htm?http://www.donotcall.gov/).  The Direct marketing Association also offers a free service called "Telephone Preference Service".  Consumers may register for this service online at [http://www.dmaconsumers.org/](http://www.northwestsavingsbank.com/notice.htm?http://www.dmaconsumers.org/) or by sending a written request to: 
 
 
 
