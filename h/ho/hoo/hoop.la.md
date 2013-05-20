@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hoop.la privacy policy that was archived on 2012-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121030033128id_/http%3A//socialstrata.com/docs/privacy_policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hoop.la privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520120830id_/http%3A//socialstrata.com/docs/privacy_policy.pdf) for the most accurate reproduction.*
 
 # Social Strata Privacy Policy
 
