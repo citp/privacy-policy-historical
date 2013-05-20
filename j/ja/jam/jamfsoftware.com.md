@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the jamfsoftware.com privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031085802id_/http%3A//jamfsoftware.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamfsoftware.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520111437id_/http%3A//www.jamfsoftware.com/privacy-policy) for the most accurate reproduction.*
 
-# JAMF Software: Privacy Policy
+# PRIVACY POLICY | JAMF Software
+
+#### Privacy Policy
 
 JAMF Software is committed to respecting and protecting your privacy. In order to provide certain services, opportunities, and downloads to you on jamfsoftware.com (the Site), we require that you submit some of your personal information. Please read the following to learn more about our Privacy Policy.
 
-## Notice
+#### Notice
 
 JAMF Software (We) may collect domain names and aggregate information on what pages you access or view to improve the Site and to determine which pages are being accessed and used. We may also collect information volunteered by you including, but not limited to, e-mail addresses to obtain downloads or requests for services, opportunities, or additional information. This Site contains links to other websites. Please be aware that JAMF Software is not responsible for the privacy practices of such other sites. This privacy statement applies solely to information collected by this Site.
 
@@ -14,4 +16,4 @@ Also, entities into which our company may be merged, or entities to which any of
 
 JAMF Software may amend this policy. If we change our Privacy Policy, we will post those changes on this page so you are aware of what information we collect, how we use it and under which circumstances, if any, we disclose it. We recommend you check this policy frequently to keep abreast of any changes.
 
-If you have questions regarding our Privacy Policy, please contact us at: [ privacy@jamfsoftware.com.](mailto:privacy@jamfsoftware.com)
+If you have questions regarding our Privacy Policy, please contact us at: [privacy@jamfsoftware.com.](mailto:privacy@jamfsoftware.com.)
