@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the riseearth.com privacy policy that was archived on 2012-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121212044656id_/http%3A//www.riseearth.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the riseearth.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520142807id_/http%3A//www.riseearth.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy ~ RiseEarth
-
-#### Do you like this story?
 
 Privacy Policy  
   
