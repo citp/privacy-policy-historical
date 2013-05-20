@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the candystand.com privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103193402id_/http%3A//www.candystand.com/about-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the candystand.com privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521003931id_/http%3A//www.candystand.com/about-us/privacy) for the most accurate reproduction.*
 
 # Candystand.com Privacy Policy
 
