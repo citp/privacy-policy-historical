@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gomezpeerzone.com privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107041500id_/http%3A//www.gomezpeerzone.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gomezpeerzone.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520112531id_/http%3A//www.gomezpeerzone.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Gomez PEER Zone
 
@@ -51,7 +51,7 @@ Top
 
 ### Opt-out 
 
-We provide the opportunity to opt-out of receiving communications from Compuware at the point where we request information about you and in each instance when you receive material from us. If you have difficulty in opting-out in this manner, please visit [www.compuware.com/unsubscribe](http://www.compuware.com/unsubscribe) or e-mail [unsubscribe@compuware.com](mailto:unsubscribe@compuware.com) and provide your name, e-mail address and subscription you wish to cancel. 
+We provide the opportunity to opt-out of receiving communications from Compuware at the point where we request information about you and in each instance when you receive material from us. If you have difficulty in opting-out in this manner, please visit <http://offers2.compuware.com/PEERNetwork_OptOut.html> or e-mail [unsubscribe@compuware.com](mailto:unsubscribe@compuware.com) and provide your name, e-mail address and subscription you wish to cancel. 
 
 Links to non-Compuware web sites
 
