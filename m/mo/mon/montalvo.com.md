@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the montalvo.com privacy policy that was archived on 2012-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121209060122id_/http%3A//www.montalvo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the montalvo.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520063357id_/http%3A//montalvo.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Montalvo Corporation
+# Montalvo - Web tension control specialists website privacy policy | Montalvo Corporation
 
   * [Home](http://www.montalvo.com/ "Home") / 
   * Privacy Policy
