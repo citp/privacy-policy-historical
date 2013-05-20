@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the richnspect.com privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119001618id_/http%3A//www.richnspect.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the richnspect.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520070305id_/http%3A//www.richnspect.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | RichNSpect
-
-Privacy Policy Effective and Last Updated: January 1, 2010 This website is owned and operated by RichNSpect.com. We are committed to protecting the privacy of our visitors while they interact with the content, products and services on this site (the “Site”). This Privacy Policy applies to the Site only. It does not apply to other [...]
 
 Privacy Policy
 
