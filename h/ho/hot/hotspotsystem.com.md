@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotspotsystem.com privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114013935id_/http%3A//www.hotspotsystem.com/en/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotspotsystem.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520235151id_/http%3A//hotspotsystem.com/en/info/privacy.html) for the most accurate reproduction.*
 
 # HotspotSystem.com - Privacy Policy
 
