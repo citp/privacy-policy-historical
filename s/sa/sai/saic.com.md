@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the saic.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014010133id_/http%3A//www.saic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saic.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520200622id_/http%3A//www.saic.com/privacy) for the most accurate reproduction.*
 
-# SAIC: Web Privacy Statement
+# Web Privacy Statement | SAIC
 
 Your privacy, and the privacy of all users of www.saic.com is of the highest priority. This privacy statement explains what information we gather from you, how it may be used by us and how it is protected. 
 
@@ -20,7 +20,7 @@ If you request information from www.saic.com through our on-line contact forms, 
 
 If you apply for a job at SAIC, we request information about you. This information is used for employment consideration only. Unless you request otherwise, we will keep the information for future consideration.
 
-The SAIC Talent Community is hosted by Jobs2Web, an SAIC vendor partner. If you have questions about the Talent Community information you have provided to SAIC please refer to this [supplementary page](https://web.archive.org/web/20121014010133id_/http://www.saic.com/privacy/j2w.html).
+The SAIC Talent Community is hosted by Jobs2Web, an SAIC vendor partner. If you have questions about the Talent Community information you have provided to SAIC please refer to this [supplementary page](http://jobs.saic.com/content/privacy).
 
 ### Use of Cookies
 
@@ -38,6 +38,6 @@ This privacy policy applies only to www.saic.com. You should be aware that throu
 
 ### Information about our SAIC Limited Organisation
 
-[SAIC international entities](https://web.archive.org/about/companies/international/) include SAIC Europe Limited, SAIC Limited in the United Kingdom, and SAIC Canada. SAIC entities are also located in South America and the Pacific Rim. 
+[SAIC international entities](https://web.archive.org/about/companies/international) include SAIC Europe Limited, SAIC Limited in the United Kingdom, and SAIC Canada. SAIC entities are also located in South America and the Pacific Rim. 
 
 SAIC Limited is a private limited company registered in England and Wales. Registered number 1396396. Registered office at Hemel One, Boundary Way, Hemel Hempstead, Hertfordshire, HP2 7YU. VAT number 599 5474 64.
