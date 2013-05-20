@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the quickbeds.com privacy policy that was archived on 2012-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121006204821id_/http%3A//www.quickbeds.com/help/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickbeds.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520124722id_/http%3A//www.quickbeds.com/about-us/privacy.aspx) for the most accurate reproduction.*
 
-# Quickbeds.com Privacy Policy
+# Quickbeds.com: Cheap Last Minute Hotels & Accommodation Bookings & Early Bird Discounts
 
 ##  Introduction
 
