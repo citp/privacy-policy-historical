@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heidistube.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619205058id_/http%3A//www.heidistube.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heidistube.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520084558id_/http%3A//heidistube.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
