@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bzzagent.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230023712id_/http%3A//www.bzzagent.com/pg/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bzzagent.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520193351id_/https%3A//www.bzzagent.com/pg/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - BzzAgent
 
@@ -133,7 +133,7 @@ If you have any questions or concerns regarding BzzAgent's privacy policy or pra
 
 BzzAgent  
 500 Harrison Ave  
-Boston, MA 02110  
+Boston, MA 02118  
 617-451-2280
 
 BzzAgent complies with the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. BzzAgent has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view BzzAgent certification, please visit <http://www.export.gov/safeharbor/>
