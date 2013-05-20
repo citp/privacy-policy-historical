@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visiongroup.co.ug privacy policy that was archived on 2012-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121008012407id_/http%3A//visiongroup.co.ug/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visiongroup.co.ug privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520080752id_/http%3A//visiongroup.co.ug/policy.php) for the most accurate reproduction.*
 
 # Vision Group
 
