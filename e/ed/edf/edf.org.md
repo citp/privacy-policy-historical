@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the edf.org privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111025445id_/http%3A//www.edf.org/about/this-site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edf.org privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520070633id_/http%3A//www.edf.org/about/this-site/privacy) for the most accurate reproduction.*
 
 # Privacy policy | Environmental Defense Fund
 
-We put a high priority on protecting your privacy. 
+We put a high priority on protecting your privacy.
 
-We will not share your email address with anyone, and you can choose to stop hearing from us at any time — [just ask](https://web.archive.org/contact).
+We will not share your email address with anyone, and you can choose to stop hearing from us at any time — [just ask](https://web.archive.org/contact).
 
 ## All the details
 
-When you register for special services on one of our sites, you give us personal information about yourself (such as name, address, zip code, email address, etc.). We use this information to provide you with services from ourselves and our partners and affiliates. You can always [opt out](https://web.archive.org/contact), now or at any time later, to keep from getting any unwanted messages or solicitations.
+When you register for special services on one of our sites, you give us personal information about yourself (such as name, address, zip code, email address, etc.). You can always [opt out](https://web.archive.org/contact), now or at any time later, to keep from getting any unwanted messages or solicitations.
 
 If you have any questions, [please ask](https://web.archive.org/contact).
 
@@ -53,19 +53,19 @@ We may also use this information to suggest other web site services to you, ask 
 
 ### **4\. What choices are available to you regarding collection, use, and distribution of your information?**
 
-Now, or at any time in the future, you can correct or update information about you, and you can tell us not to send you any messages or solicitations at all.
+Now, or at any time in the future, you can [correct or update your information online](https://secure2.edf.org/site/SPageServer?pagename=myedf) or by [contacting us](https://web.archive.org/contact). And you can tell us not to send you any messages or solicitations at all.
 
 [top]
 
 ### **5\. What kind of security procedures are in place to protect against the loss, misuse, or alteration of your information?**
 
-We store your personally identifiable information on secure servers. We also use other "anti-hacking" security measures and employ security consultants. We accept credit card donations only via a secure server.
+We store your personally identifiable information on secure servers. We also use other "anti-hacking" security measures and employ security consultants. We use a secure server to process all credit card donations and updates to monthly billing.
 
 [top]
 
 ### **6\. How you can access, update, or delete your information**
 
-Please [contact us](https://web.archive.org/contact) to obtain, change, update or delete our records of your personal information, or to change your privacy options.
+Please [contact us](https://web.archive.org/contact) to obtain, change, update or delete our records of your personal information, or to change your privacy options. You can also make updates to your account through our [myEDF portal](https://secure2.edf.org/site/SPageServer?pagename=myedf). Please [contact us](https://web.archive.org/contact) to obtain, change, update or delete our records of your personal information, or to change your privacy options.
 
 [top]
 
@@ -103,6 +103,6 @@ _Legalese version_ : Environmental Defense Fund makes no warranties, express or 
 
 ### **10\. How to opt out**
 
-To opt-out from receiving content from Environmental Defense Fund or its partners and affiliates, [please tell us](https://web.archive.org/contact).
+To opt-out from receiving content from Environmental Defense Fund or its partners and affiliates, [please tell us](https://web.archive.org/contact). And, you can opt yourself out of email through [myEDF](https://secure2.edf.org/site/SPageServer?pagename=myedf).
 
 [top]
