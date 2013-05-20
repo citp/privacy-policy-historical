@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gazettelive.co.uk privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119073803id_/http%3A//www.gazettelive.co.uk/sitemap/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gazettelive.co.uk privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520220936id_/http%3A//www.gazettelive.co.uk/sitemap/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
