@@ -1,14 +1,15 @@
-<!--The following is the downloaded HTML source of the liquidspace.com privacy policy that was archived on 2012-10-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121017142751id_/https%3A//liquidspace.com/Home/Privacy-Policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the liquidspace.com privacy policy that was archived on 2013-05-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130520200800id_/https%3A//liquidspace.com/Home/Privacy-Policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="no-js"><head>
-      <title>Privacy Policy | LiquidSpace</title>
-      <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://maps-api-ssl.google.com/maps/api/js?v=3&amp;sensor=false"></script>
-      <script type="text/javascript" src="/Content/Scripts/google.maps.ls.js"></script>
-      <script type="text/javascript" src="/combres.axd/liquidspace.common.js/-965420802/"></script>
-      <link rel="stylesheet" type="text/css" href="/combres.axd/liquidspace.common.css/1248244876/">
-      
-      <script type="text/javascript">
+<!DOCTYPE html><html class="no-js main-layout"><head>
+         
+   <title>Privacy Policy | LiquidSpace</title>
+   <link rel="stylesheet" type="text/css" href="/combres.axd/liquidspace.common.css/168356290/">
+   <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+   <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.24/jquery-ui.min.js"></script>
+   <script type="text/javascript" src="/combres.axd/liquidspace.common.js/-485936275/"></script>
+   
+   <script type="text/javascript">      
       document.function_SSO_accountLinking_Completed = function (ns, errors) {
          $(document).trigger("SSO_accountLinking_Completed." + ns, [errors]);
       };
@@ -47,19 +48,26 @@
             onSelect: function (dateText, inst) { $('form').each(function (id, data) { $(data).valid(); }); }
          });
          $('.textarea-resizeable').autoResize();         
-         LSHelper.HelperLib.autoEllipseText('.ui-dialog-title', $('.ui-dialog-title').parent().last().width() - 30, null, [0, 0]);
+
+         //REMOVED
+         //Causes hanging for hidden dialogs (like FullAmenitiesList)
+         //Besides, we don't have dialogs with autoellipsed names anymore
+         //LSHelper.HelperLib.autoEllipseText('.ui-dialog-title', $('.ui-dialog-title').parent().last().width() - 30, null, [0, 0]);
+         
       }
                
-      $(document).ready(function () {                   
+   $(document).ready(function () {      
+         LSHelper.SessionCoupon.trackCoupon();
+         checkPageRefresh();
          // detect IE and add class to html element
          if ($.browser.msie) {
             $("html").addClass("IE");
          }
-           
+         
          // Track the referrer for the session. used if user joins
-         if ($.cookie("__lsreferrer") == null ) {
+         if ($.cookie("__lsreferrer") == null ||  $.cookie("__lsreferrer").length == 0) {
             $.cookie("__lsreferrer", document.referrer);
-         }
+         }         
 
          initUI();
          window.onBeforeunload = function () {
@@ -67,7 +75,7 @@
          };
          $(window).unload(function () {
             $.unblockUI();
-         });
+         });         
          window.onload = function () { handleBackButton(!true); }
 
          $(document).ajaxError(function (e, xhr, settings, exception) {
@@ -78,12 +86,17 @@
                   window.location = xhr.responseText;
             }
             else {
-               $.unblockUI();
-               if (xhr.status != 404 && xhr.status != 0) {
-                  var title = $.parseJSON(xhr.responseText).title;
-                  var content = $.parseJSON(xhr.responseText).content;
-                  dialogOpt = { modal: true, minWidth: 400, title: title, resizable: false };
-                  LSHelper.HelperLib.showDialog({ html: content, predraw: true, dialogOptions: dialogOpt, divId: "errorDialog" });
+                  $.unblockUI();
+                  if (xhr.status != 404 && xhr.status != 0) {
+                     var obj = $.parseJSON(xhr.responseText);
+                     if (obj.code && obj.code == 1){
+                        LSHelper.Sso.popupSsoLogin("/" + obj.url, 700, 350);
+                  } 
+                  var minwidth = 400;                  
+                  if (obj.width)
+                     minwidth = obj.width;
+                  dialogOpt = { modal: true, minWidth: minwidth, title: obj.title, resizable: false };
+                  LSHelper.HelperLib.showDialog({ html: obj.content, predraw: true, dialogOptions: dialogOpt, divId: "errorDialog" });
                }
             }
          });
@@ -112,72 +125,40 @@
       }
       document.onkeypress = stopRKey; 
    </script>
-      <script>
-   _udn = 'liquidspace.com'; 
-</script>
-<!-- Google Analytics Content Experiment code -->
-<script>function utmx_section(){}function utmx(){}(function(){var
-k='41080039-4',d=document,l=d.location,c=d.cookie;
-if(l.search.indexOf('utm_expid='+k)>0)return;
-function f(n){if(c){var i=c.indexOf(n+'=');if(i>-1){var j=c.
-indexOf(';',i);return escape(c.substring(i+n.length+1,j<0?c.
-length:j))}}}var x=f('__utmx'),xx=f('__utmxx'),h=l.hash;d.write(
-'<sc'+'ript src="'+'http'+(l.protocol=='https:'?'s://ssl':
-'://www')+'.google-analytics.com/ga_exp.js?'+'utmxkey='+k+
-'&utmx='+(x?x:'')+'&utmxx='+(xx?xx:'')+'&utmxtime='+new Date().
-valueOf()+(h?'&utmxhash='+escape(h.substr(1)):'')+
-'" type="text/javascript" charset="utf-8"><\/sc'+'ript>')})();
-</script><script src="https://ssl.google-analytics.com/ga_exp.js?utmxkey=41080039-4&amp;utmx=&amp;utmxx=&amp;utmxtime=1580410959081" type="text/javascript" charset="utf-8"></script><script>            utmx('url', 'A/B');</script>
-<!-- End of Google Analytics Content Experiment code -->
-
-<!-- Start of Google Analytics Code -->
-<script type="text/javascript">
+   <script type="text/javascript">   
    var _gaq = _gaq || [];
    _gaq.push(['_setAccount', 'UA-20598269-4']);
    _gaq.push(['_setDomainName', 'liquidspace.com']);
+   
+   _gaq.push(['_setCustomVar', 1, 'UserType', 'Anonymous', 2]);
+   _gaq.push(['_setCustomVar', 2, 'MemberType', 'Anonymous', 2]);
+
    _gaq.push(['_trackPageview']);
 
-   (function () {
+   $(document).ready(function () {
+      //Start of Google Analytics Code
       var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
       ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-   })();
+      document.body.appendChild(ga);
+      //End of Google Analytics code
+   });
 </script>
-<!-- End of Google Analytics Code -->
 
 
 
-   </head>
-   <body>
-      <div class="super-header">
-   <div class="super-header-inner">
-      <div class="super-header-img"><img src="/Content/Images/super-headed-people.png" alt=""></div>
-      <div class="super-header-text">Invite people you'd like to work with to LiquidSpace</div>
-      <div class="super-header-button">
-         <div>
-            <button class="grey-button" onclick="redirectToInvite();return false;">Invite now</button>
-         </div>
+
+      </head>
+      <body>
+         
+
+         <input id="browser_string" name="browser_string" type="hidden" value="False Unsupported Mozilla/5.0 (compatible; archive.org_bot +http://www.archive.org/details/archive.org_bot)">
+         
+   <div class="page-wrapper">
+      <div class="page-buffer">
       </div>
-      <input id="identityName" value="" type="hidden">
-   </div>
-</div>
-<script type="text/javascript">
-   function redirectToInvite(){
-      var userIdentityName = $('#identityName').val();
-      if ((userIdentityName == null || userIdentityName == '') && true)
-      {
-         LSHelper.Account.popUpSignIn('', '', null, null, null, '/Profile/InvitePeoplePage');
-      }
-      else
-      {
-         LSHelper.HelperLib.blockUI();
-         window.location='/Profile/InvitePeoplePage';
-      }
-   }
-</script>
-
-      <div class="clear"></div>
-                
+      <div class="clear">
+      </div>
+      
 
 <header>
    <div class="commonHeader search">
@@ -188,36 +169,96 @@ valueOf()+(h?'&utmxhash='+escape(h.substr(1)):'')+
          <div class="links">
             <div style="height:20px;position:relative;z-index:2" id="userMenu">
                
-    <ul id="nav" class="sf-menu">
-        <li class="active primary"><a id="how-it-works" href="/find-rent-office-meeting-space">HOW IT WORKS </a></li>
-        <li><a href="#" onclick="LSHelper.Account.popUpSignIn('', '', null, null, null, '/VenueListing/Create'); return false;">SHARE YOUR SPACE </a></li>
-        <li><a id="popUpSignIn" href="#" onclick="LSHelper.Account.popUpSignIn(); return false;">
-        SIGN IN</a></li>
-        <li><a href="/Account/Register">JOIN</a></li>
-    </ul>
 
-   <script type="text/javascript">
-      function getURLParameter(name) {
-           return decodeURI(
-            (RegExp(name + '=' + '(.+?)(&|$)').exec(location.search)||[,null])[1]);
-        }
-      $(function () {
-         $("ul.sf-menu").superfish({
-            onInit: function () {
-               LSHelper.HelperLib.autoEllipseText('.personalInformationFullName', 300, null, null, null, false);
-               $('.personalInformationFullName').parent().width($('.personalInformationFullName').width());
-               sf_width = $('.sf-with-ul').parent().width();
-               if (sf_width > 140)
-                  $('.sf-with-ul').next().width(sf_width);
-            }
-         });
+   <ul id="nav" class="menu-nav sf-menu top-menu">
+      <li>
+         <a href="javascript:void(0)" class="nolink">SOLUTIONS</a>
+         <ul>
+            <li><a href="/find-rent-office-meeting-space">Members</a></li>
+            <li><a href="/share-office-meeting-space">Venue Owners</a></li>
+            <li><a href="/enterprise">Enterprise Leaders</a></li>
+         </ul>
+      </li>
+      <li>
+         <a href="/Browse">BROWSE</a>
+         <ul class="cities-menu">
+   <li><span>Most Popular</span></li>
+   <li><a href="/Browse/City/SanFrancisco">San Francisco</a></li>
+   <li><a href="/Browse/City/NewYork">New York</a></li>
+   <li><a href="/Browse/City/Chicago">Chicago</a></li>
+   <li><a href="/Browse/City/LosAngeles">Los Angeles</a></li>
+   <li><a href="/Browse/City/Washington">Washington, D.C.</a></li>
+   <li><span>More to Explore</span></li>
+   <li><a href="/Venues">Cities across the U.S.</a></li>
+   <li><a href="/Browse/Campaign/Marriott-Workspace-On-Demand">Marriott Hotels Nationwide</a></li>
+</ul>
+      </li>
+      <li>
+         
+<a href="javascript:void(0)" class="nolink">SHARE YOUR SPACE</a>
+<ul>
+   <li><a href="/share-office-space">How to Share Your Space</a></li>
+   <li><a href="#" onclick="LSHelper.Account.popUpSignIn('', '', null, null, null, '/VenueListing/Create');">Share Your Space Now</a></li>
+   <li><div class="separator"></div></li>
+   <li>
+      <div class="green-caption">Reach More Guests</div>
+      <div class="more-guests-holder">
+         <span class="target-icon"></span>
+         <span style="font-size: 12px; width: 105px; margin-left: 5px; line-height: 15px;">More than 20,000 professionals use LiquidSpace to find spaces to work</span>                                    
+         <div style="clear:both;"></div>
+         <div style="margin-left: 43px;"><a href="/share-office-space" class="learn-more-link" style="margin-top: 10px;">Learn More</a></div>
+      </div>                                             
+   </li>
+</ul>
+      </li>
+      <li><a id="popUpSignIn" href="#" onclick="LSHelper.Account.popUpSignIn(); return false;">
+             SIGN IN</a></li>
+      <li><a href="/Account/Register">JOIN</a></li>
+   </ul>  
+
+<script type="text/javascript">
+
+
+   $(document).ready(function() {
+      $("#hours-image").mouseover(function() { lsHoursHover("hours-popup",this); });
+      $("#hours-image").mouseout(function (){$("#hours-popup").hide();});
+      
+   });
+
+   function lsHoursHover(id, elem) {
+      var hoverCloud = $("#" + id);
+      hoverCloud.show();
+
+      hoverCloud.position({
+         of: $(elem),
+         my: 'left top',
+         at: 'center top',
+         offset: "-" + (parseInt(hoverCloud.width() / 2 + 50)) + " -" + (hoverCloud.height() + 10)
       });
-   </script>                  
+   }
+   
+   $(function () {
+      $("ul.sf-menu.top-menu").supersubs({extraWidth: 1}).superfish({
+         autoArrows: true,
+         delay: 500,
+         speed: 0,
+         speedOut: 0,
+         onBeforeShow: function() {
+            var $optionList = $(this); //it's that ul to be shown
+            var $currentOption = $('.sfHover');
+            if($currentOption.width() > $optionList.width())
+               $optionList.css('min-width', $currentOption.width() + 'px');
+         }
+      });
+   });
+</script>                  
             </div>
          </div>
             <div id="searchBarContainerSmall" class="ui-corner-all">
                   <div id="searchbar_map_canvas" style="width:100px;height:50px;visibility:hidden;position:absolute;top:-100px;left:-100px;"></div>   
-<form action="/Search" class="find-form" id="searchWorkspacesForm" method="post"><input data-bind="value: latitude" id="latitude" name="latitude" type="hidden" value="0"><input data-bind="value: longitude" id="longitude" name="longitude" type="hidden" value="0"><input data-bind="value: venueId" id="VenueId" name="VenueId" type="hidden" value=""><input data-val="true" data-val-number="The field FeaturedAmount must be a number." data-val-required="The FeaturedAmount field is required." id="FeaturedAmount" name="FeaturedAmount" type="hidden" value="0"><input data-val="true" data-val-required="The Id field is required." id="Campaign_Id" name="Campaign.Id" type="hidden" value="00000000-0000-0000-0000-000000000000"><div id="searchBarWrapper" class="search-bar-horizontal" style="z-index:1;">
+
+<div class="search-bar-common-wrapper">
+<form action="/Search" class="find-form" id="searchWorkspacesForm" method="post"><input data-bind="value: latitude" data-val="true" data-val-number="The field Latitude must be a number." data-val-required="The Latitude field is required." id="latitude" name="latitude" type="hidden" value="0"><input data-bind="value: longitude" data-val="true" data-val-number="The field Longitude must be a number." data-val-required="The Longitude field is required." id="longitude" name="longitude" type="hidden" value="0"><input data-bind="value: venueId" id="VenueId" name="VenueId" type="hidden" value=""><input data-bind="value: venueGroupId" id="VenueGroupId" name="VenueGroupId" type="hidden" value=""><input data-val="true" data-val-number="The field FeaturedAmount must be a number." data-val-required="The FeaturedAmount field is required." id="FeaturedAmount" name="FeaturedAmount" type="hidden" value="0"><input data-val="true" data-val-required="The Id field is required." id="Campaign_Id" name="Campaign.Id" type="hidden" value="00000000-0000-0000-0000-000000000000"><input data-val="true" data-val-required="The IsFullTextSearch field is required." id="IsFullTextSearch" name="IsFullTextSearch" type="hidden" value="False"><div id="searchBarWrapper" class="search-bar-horizontal" style="z-index:1;">
    <div class="search-bar-horizontal-inwrapper">
       <input class="ui-corner-all gradientsearch inputsearch" id="searchbar_address" name="Address" style="height:18px;width:100%;z-index:0;" type="text" value="">
       <button style="width: 85px;height:36px;position:absolute;right:0px;top:0px;" class="orange-button" id="search" onclick="LiquidSpace.View.SearchBar.submitWorkspacesFilterSearch(undefined,undefined,true);return false;">Search</button>
@@ -226,79 +267,62 @@ valueOf()+(h?'&utmxhash='+escape(h.substr(1)):'')+
    <div id="searchBarFilterWrapper" style="padding-top:10px;display:none;">
       <div style="width:310px;float:left;margin-left:5px;">
          <div style="font-weight: bold">When?</div>
-         <input data-val="true" data-val-number="The field ReservationLengthMinutes must be a number." id="ReservationLengthMinutes" name="ReservationLengthMinutes" type="hidden" value="60">
+         
+<input data-val="true" data-val-number="The field ReservationLengthMinutes must be a number." id="ReservationLengthMinutes" name="ReservationLengthMinutes" type="hidden" value="60">
 <input id="ReservationStart" name="ReservationStart" type="hidden" value="">
 <div class="editor-line">
-   <div style="display: inline; position: relative; float: left;"><input value="Any date" autocomplete="off" id="StartTime" name="StartTime" style="width:90px;height:21px;" type="text"></div>
-      <div>
-         at
-         <input id="reservationStartTime" type="text" style="width: 70px" value="Any time">
-         for
-         <input id="reservationLength" type="text" style="width: 90px" value="1 hour">
+
+   <div style="display: inline; position: relative;float:left;padding-bottom:4px;"><input value="Any date" autocomplete="off" data-val="true" data-val-date="The field StartTime must be a date." id="StartTime" name="StartTime" style="width:90px;height:21px;" type="text"></div>
+      <div class="day-pass" style=""> 
+         at <input id="reservationStartTime" type="text" style="width: 70px" value="Any time">
+         for <input id="reservationLength" type="text" style="width: 90px;" value="1 hour">
       </div>
 </div>
 <script type="text/javascript">
    var dateText = 'Any date';
    var timeText = "Any time";
-
-   function anyDateChecked(item){
-      if (item.checked){
-         $("#StartTime").val(dateText);
-         LSHelper.HelperLib.optionalField("#StartTime", dateText, "optionalEmpty");
-         $("#StartTime").datepicker("hide");
-         clearDateErrors();
-      } 
-   }
+   
+   $("#StartTime").removeClass('input-validation-error');
+     
 
    function clearDateErrors(){
       $("#StartTime").removeClass('input-validation-error');
       $('#search').button({disabled: false});
       $("#StartTime").closest('#calendarFilterDialog').find('button').button({disabled: false});
    }   
-   function addAnyDateCheckbox(inst)
-   {
-      setTimeout(function(){            
-            var buttonPane = $('#'+inst.id)
-            .datepicker("widget")
-            .find(".ui-datepicker-calendar");
-            var checked = $("#StartTime").val() == dateText ? "checked" : "";
-            buttonPane.after("<div class='hr' style='margin-bottom: 0px;'></div><div style='position:relative;padding:5px 0px 0px 10px;'><input type='checkbox' " + checked + " onclick='anyDateChecked(this)'/><span style='padding-left:5px;position:absolute;top:5px;'>"+ "Any date" +"</span></div>");
-            }, 1);
-   }
    $(document).ready(function(){
-      $("#StartTime").datepicker({
-         option: $.datepicker.regional["en-US"],
-         dateFormat: "m/d/yy",
-         showOn: "button",
-         buttonImage: '/Content/images/icons/calendar-icon.png',
-         buttonImageOnly: true,
-         minDate: 0,
-         beforeShow: function(input, inst) {
-            addAnyDateCheckbox(inst);
-         },
-         onSelect: function(dateText, inst) {  
-            LSHelper.HelperLib.optionalField("#StartTime", dateText, "");
-            clearDateErrors();
-         },
-         onChangeMonthYear: function(year, month, inst) { 
-            addAnyDateCheckbox(inst);
+      $('#StartTime').rules('remove');
+      $('.ReservationMethod_class').click(function(ev) {
+         if(ev.currentTarget.value == "DayPass"){
+            $('.day-pass').hide();
+         } else {
+            $('.day-pass').show();
          }
       });
-      $("#StartTime").removeClass('input-validation-error');
-      $("#StartTime").blur(function(){
+      LSHelper.UI.datePicker("#StartTime", function(dateText, inst) {  
+         LSHelper.HelperLib.optionalField("#StartTime", dateText, "");
+         clearDateErrors();
+      }, function (){      
+         $("#StartTime").val(dateText);
+         LSHelper.HelperLib.optionalField("#StartTime", dateText, "optionalEmpty");
+         $("#StartTime").datepicker("hide");
+         clearDateErrors();      
+      },
+      "Any date",
+      '/Content/images/bookit/calendar-icon-1.png')
+     
+      $("#StartTime").blur(function(){         
          var button = $("#StartTime").closest('#calendarFilterDialog').find('button');
          try{
             var val = $('#StartTime').val();
-            if (val != 'Any date' && val != ''){
-            
+            if (val != 'Any date' && val != ''){            
                var date = $.datepicker.parseDate($("#StartTime").datepicker("option", "dateFormat"), val);
-               var currentDate = new Date();
-               var day = currentDate.getDate();
-               var month = currentDate.getMonth();
-               var year = currentDate.getFullYear();
-               var today = new Date(year, month, day);
-
-               if (date >= today){
+               var dateToCompare = new Date();               
+               var utcHours = dateToCompare.getUTCHours();              
+               dateToCompare.setHours(0,0,0,0);                                  
+               if(!(utcHours > 12))
+                  dateToCompare.setDate(dateToCompare.getDate() - 1);                              
+               if (date >= dateToCompare){
                   $("#StartTime").removeClass('input-validation-error');
                   $('#search').button({disabled: false});
                   button.button({disabled: false});
@@ -312,14 +336,14 @@ valueOf()+(h?'&utmxhash='+escape(h.substr(1)):'')+
                button.button({disabled: false});
             }
          }
-         catch(e){
+         catch(e){            
             $("#StartTime").addClass('input-validation-error');
             $('#search').button({disabled: true});
             button.button({disabled: true});
          } 
       });
       LSHelper.HelperLib.optionalField("#StartTime", dateText, "optionalEmpty");
-      var availableTags = [{"Key":"0 hours","Value":0},{"Key":"1/4 hours","Value":15},{"Key":"1/2 hours","Value":30},{"Key":"3/4 hours","Value":45},{"Key":"1 hour","Value":60},{"Key":"1-1/4 hours","Value":75},{"Key":"1-1/2 hours","Value":90},{"Key":"1-3/4 hours","Value":105},{"Key":"2 hours","Value":120},{"Key":"2-1/4 hours","Value":135},{"Key":"2-1/2 hours","Value":150},{"Key":"2-3/4 hours","Value":165},{"Key":"3 hours","Value":180},{"Key":"3-1/4 hours","Value":195},{"Key":"3-1/2 hours","Value":210},{"Key":"3-3/4 hours","Value":225},{"Key":"4 hours","Value":240},{"Key":"4-1/4 hours","Value":255},{"Key":"4-1/2 hours","Value":270},{"Key":"4-3/4 hours","Value":285},{"Key":"5 hours","Value":300},{"Key":"5-1/4 hours","Value":315},{"Key":"5-1/2 hours","Value":330},{"Key":"5-3/4 hours","Value":345},{"Key":"6 hours","Value":360},{"Key":"6-1/4 hours","Value":375},{"Key":"6-1/2 hours","Value":390},{"Key":"6-3/4 hours","Value":405},{"Key":"7 hours","Value":420},{"Key":"7-1/4 hours","Value":435},{"Key":"7-1/2 hours","Value":450},{"Key":"7-3/4 hours","Value":465},{"Key":"8 hours","Value":480},{"Key":"8-1/4 hours","Value":495},{"Key":"8-1/2 hours","Value":510},{"Key":"8-3/4 hours","Value":525},{"Key":"9 hours","Value":540},{"Key":"9-1/4 hours","Value":555},{"Key":"9-1/2 hours","Value":570},{"Key":"9-3/4 hours","Value":585},{"Key":"10 hours","Value":600},{"Key":"10-1/4 hours","Value":615},{"Key":"10-1/2 hours","Value":630},{"Key":"10-3/4 hours","Value":645},{"Key":"11 hours","Value":660},{"Key":"11-1/4 hours","Value":675},{"Key":"11-1/2 hours","Value":690},{"Key":"11-3/4 hours","Value":705},{"Key":"12 hours","Value":720},{"Key":"12-1/4 hours","Value":735},{"Key":"12-1/2 hours","Value":750},{"Key":"12-3/4 hours","Value":765},{"Key":"13 hours","Value":780},{"Key":"13-1/4 hours","Value":795},{"Key":"13-1/2 hours","Value":810},{"Key":"13-3/4 hours","Value":825},{"Key":"14 hours","Value":840},{"Key":"14-1/4 hours","Value":855},{"Key":"14-1/2 hours","Value":870},{"Key":"14-3/4 hours","Value":885},{"Key":"15 hours","Value":900},{"Key":"15-1/4 hours","Value":915},{"Key":"15-1/2 hours","Value":930},{"Key":"15-3/4 hours","Value":945},{"Key":"16 hours","Value":960},{"Key":"16-1/4 hours","Value":975},{"Key":"16-1/2 hours","Value":990},{"Key":"16-3/4 hours","Value":1005},{"Key":"17 hours","Value":1020},{"Key":"17-1/4 hours","Value":1035},{"Key":"17-1/2 hours","Value":1050},{"Key":"17-3/4 hours","Value":1065},{"Key":"18 hours","Value":1080},{"Key":"18-1/4 hours","Value":1095},{"Key":"18-1/2 hours","Value":1110},{"Key":"18-3/4 hours","Value":1125},{"Key":"19 hours","Value":1140},{"Key":"19-1/4 hours","Value":1155},{"Key":"19-1/2 hours","Value":1170},{"Key":"19-3/4 hours","Value":1185},{"Key":"20 hours","Value":1200},{"Key":"20-1/4 hours","Value":1215},{"Key":"20-1/2 hours","Value":1230},{"Key":"20-3/4 hours","Value":1245},{"Key":"21 hours","Value":1260},{"Key":"21-1/4 hours","Value":1275},{"Key":"21-1/2 hours","Value":1290},{"Key":"21-3/4 hours","Value":1305},{"Key":"22 hours","Value":1320},{"Key":"22-1/4 hours","Value":1335},{"Key":"22-1/2 hours","Value":1350},{"Key":"22-3/4 hours","Value":1365},{"Key":"23 hours","Value":1380},{"Key":"23-1/4 hours","Value":1395},{"Key":"23-1/2 hours","Value":1410}];
+      var availableTags = [{"Key":"30 min","Value":30},{"Key":"1 hour","Value":60},{"Key":"1 1/2 hours","Value":90},{"Key":"2 hours","Value":120},{"Key":"half-day","Value":240},{"Key":"all-day","Value":480}];
       LiquidSpace.View.SearchBar.initAutocomplete("reservationLength", "1 hour", "ReservationLengthMinutes", availableTags, undefined, undefined, function(elemId, dataFieldId){
          var isCorrectChoice = false;
          var elemVal = $(elemId).val();
@@ -333,7 +357,7 @@ valueOf()+(h?'&utmxhash='+escape(h.substr(1)):'')+
          if (isCorrectChoice == false){
          var val = parseInt(elemVal);
             if (!isNaN(val)) {
-               if (val > 24) {
+               if (val > 24 || val <= 0) {
                   $(elemId).val("");
                   $(dataFieldId).val(60);
                } else {
@@ -352,8 +376,9 @@ valueOf()+(h?'&utmxhash='+escape(h.substr(1)):'')+
             }
          }
       },
-      timeText);
-      var reservationStartTimeList =  [{"Key":"12:00 AM","Value":"00:00:00","extended_line":false},{"Key":"12:15 AM","Value":"00:15:00","extended_line":false},{"Key":"12:30 AM","Value":"00:30:00","extended_line":false},{"Key":"12:45 AM","Value":"00:45:00","extended_line":false},{"Key":"1:00 AM","Value":"01:00:00","extended_line":false},{"Key":"1:15 AM","Value":"01:15:00","extended_line":false},{"Key":"1:30 AM","Value":"01:30:00","extended_line":false},{"Key":"1:45 AM","Value":"01:45:00","extended_line":false},{"Key":"2:00 AM","Value":"02:00:00","extended_line":false},{"Key":"2:15 AM","Value":"02:15:00","extended_line":false},{"Key":"2:30 AM","Value":"02:30:00","extended_line":false},{"Key":"2:45 AM","Value":"02:45:00","extended_line":false},{"Key":"3:00 AM","Value":"03:00:00","extended_line":false},{"Key":"3:15 AM","Value":"03:15:00","extended_line":false},{"Key":"3:30 AM","Value":"03:30:00","extended_line":false},{"Key":"3:45 AM","Value":"03:45:00","extended_line":false},{"Key":"4:00 AM","Value":"04:00:00","extended_line":false},{"Key":"4:15 AM","Value":"04:15:00","extended_line":false},{"Key":"4:30 AM","Value":"04:30:00","extended_line":false},{"Key":"4:45 AM","Value":"04:45:00","extended_line":false},{"Key":"5:00 AM","Value":"05:00:00","extended_line":false},{"Key":"5:15 AM","Value":"05:15:00","extended_line":false},{"Key":"5:30 AM","Value":"05:30:00","extended_line":false},{"Key":"5:45 AM","Value":"05:45:00","extended_line":false},{"Key":"6:00 AM","Value":"06:00:00","extended_line":false},{"Key":"6:15 AM","Value":"06:15:00","extended_line":false},{"Key":"6:30 AM","Value":"06:30:00","extended_line":false},{"Key":"6:45 AM","Value":"06:45:00","extended_line":false},{"Key":"7:00 AM","Value":"07:00:00","extended_line":false},{"Key":"7:15 AM","Value":"07:15:00","extended_line":false},{"Key":"7:30 AM","Value":"07:30:00","extended_line":false},{"Key":"7:45 AM","Value":"07:45:00","extended_line":false},{"Key":"8:00 AM","Value":"08:00:00","extended_line":false},{"Key":"8:15 AM","Value":"08:15:00","extended_line":false},{"Key":"8:30 AM","Value":"08:30:00","extended_line":false},{"Key":"8:45 AM","Value":"08:45:00","extended_line":false},{"Key":"9:00 AM","Value":"09:00:00","extended_line":false},{"Key":"9:15 AM","Value":"09:15:00","extended_line":false},{"Key":"9:30 AM","Value":"09:30:00","extended_line":false},{"Key":"9:45 AM","Value":"09:45:00","extended_line":false},{"Key":"10:00 AM","Value":"10:00:00","extended_line":false},{"Key":"10:15 AM","Value":"10:15:00","extended_line":false},{"Key":"10:30 AM","Value":"10:30:00","extended_line":false},{"Key":"10:45 AM","Value":"10:45:00","extended_line":false},{"Key":"11:00 AM","Value":"11:00:00","extended_line":false},{"Key":"11:15 AM","Value":"11:15:00","extended_line":false},{"Key":"11:30 AM","Value":"11:30:00","extended_line":false},{"Key":"11:45 AM","Value":"11:45:00","extended_line":false},{"Key":"12:00 PM","Value":"12:00:00","extended_line":false},{"Key":"12:15 PM","Value":"12:15:00","extended_line":false},{"Key":"12:30 PM","Value":"12:30:00","extended_line":false},{"Key":"12:45 PM","Value":"12:45:00","extended_line":false},{"Key":"1:00 PM","Value":"13:00:00","extended_line":false},{"Key":"1:15 PM","Value":"13:15:00","extended_line":false},{"Key":"1:30 PM","Value":"13:30:00","extended_line":false},{"Key":"1:45 PM","Value":"13:45:00","extended_line":false},{"Key":"2:00 PM","Value":"14:00:00","extended_line":false},{"Key":"2:15 PM","Value":"14:15:00","extended_line":false},{"Key":"2:30 PM","Value":"14:30:00","extended_line":false},{"Key":"2:45 PM","Value":"14:45:00","extended_line":false},{"Key":"3:00 PM","Value":"15:00:00","extended_line":false},{"Key":"3:15 PM","Value":"15:15:00","extended_line":false},{"Key":"3:30 PM","Value":"15:30:00","extended_line":false},{"Key":"3:45 PM","Value":"15:45:00","extended_line":false},{"Key":"4:00 PM","Value":"16:00:00","extended_line":false},{"Key":"4:15 PM","Value":"16:15:00","extended_line":false},{"Key":"4:30 PM","Value":"16:30:00","extended_line":false},{"Key":"4:45 PM","Value":"16:45:00","extended_line":false},{"Key":"5:00 PM","Value":"17:00:00","extended_line":false},{"Key":"5:15 PM","Value":"17:15:00","extended_line":false},{"Key":"5:30 PM","Value":"17:30:00","extended_line":false},{"Key":"5:45 PM","Value":"17:45:00","extended_line":false},{"Key":"6:00 PM","Value":"18:00:00","extended_line":false},{"Key":"6:15 PM","Value":"18:15:00","extended_line":false},{"Key":"6:30 PM","Value":"18:30:00","extended_line":false},{"Key":"6:45 PM","Value":"18:45:00","extended_line":false},{"Key":"7:00 PM","Value":"19:00:00","extended_line":false},{"Key":"7:15 PM","Value":"19:15:00","extended_line":false},{"Key":"7:30 PM","Value":"19:30:00","extended_line":false},{"Key":"7:45 PM","Value":"19:45:00","extended_line":false},{"Key":"8:00 PM","Value":"20:00:00","extended_line":false},{"Key":"8:15 PM","Value":"20:15:00","extended_line":false},{"Key":"8:30 PM","Value":"20:30:00","extended_line":false},{"Key":"8:45 PM","Value":"20:45:00","extended_line":false},{"Key":"9:00 PM","Value":"21:00:00","extended_line":false},{"Key":"9:15 PM","Value":"21:15:00","extended_line":false},{"Key":"9:30 PM","Value":"21:30:00","extended_line":false},{"Key":"9:45 PM","Value":"21:45:00","extended_line":false},{"Key":"10:00 PM","Value":"22:00:00","extended_line":false},{"Key":"10:15 PM","Value":"22:15:00","extended_line":false},{"Key":"10:30 PM","Value":"22:30:00","extended_line":false},{"Key":"10:45 PM","Value":"22:45:00","extended_line":false},{"Key":"11:00 PM","Value":"23:00:00","extended_line":false},{"Key":"11:15 PM","Value":"23:15:00","extended_line":false},{"Key":"11:30 PM","Value":"23:30:00","extended_line":false},{"Key":"11:45 PM","Value":"23:45:00","extended_line":false},{"Key":"11:59 PM","Value":"1.00:00:00","extended_line":false}];
+      timeText,
+      false);
+      var reservationStartTimeList =  [{"Key":"12:00 AM","Value":"00:00:00","extended_line":false},{"Key":"1:00 AM","Value":"01:00:00","extended_line":false},{"Key":"2:00 AM","Value":"02:00:00","extended_line":false},{"Key":"3:00 AM","Value":"03:00:00","extended_line":false},{"Key":"4:00 AM","Value":"04:00:00","extended_line":false},{"Key":"5:00 AM","Value":"05:00:00","extended_line":false},{"Key":"6:00 AM","Value":"06:00:00","extended_line":false},{"Key":"7:00 AM","Value":"07:00:00","extended_line":false},{"Key":"8:00 AM","Value":"08:00:00","extended_line":false},{"Key":"9:00 AM","Value":"09:00:00","extended_line":false},{"Key":"10:00 AM","Value":"10:00:00","extended_line":false},{"Key":"11:00 AM","Value":"11:00:00","extended_line":false},{"Key":"12:00 PM","Value":"12:00:00","extended_line":false},{"Key":"1:00 PM","Value":"13:00:00","extended_line":false},{"Key":"2:00 PM","Value":"14:00:00","extended_line":false},{"Key":"3:00 PM","Value":"15:00:00","extended_line":false},{"Key":"4:00 PM","Value":"16:00:00","extended_line":false},{"Key":"5:00 PM","Value":"17:00:00","extended_line":false},{"Key":"6:00 PM","Value":"18:00:00","extended_line":false},{"Key":"7:00 PM","Value":"19:00:00","extended_line":false},{"Key":"8:00 PM","Value":"20:00:00","extended_line":false},{"Key":"9:00 PM","Value":"21:00:00","extended_line":false},{"Key":"10:00 PM","Value":"22:00:00","extended_line":false},{"Key":"11:00 PM","Value":"23:00:00","extended_line":false},{"Key":"11:59 PM","Value":"1.00:00:00","extended_line":false}];
       LiquidSpace.View.SearchBar.initAutocomplete("reservationStartTime", 
          "Any time", 
          "ReservationStart", 
@@ -361,7 +386,7 @@ valueOf()+(h?'&utmxhash='+escape(h.substr(1)):'')+
          function (item) {
             var rendered = "";
             if (item.extended_line) {
-               rendered = $("<div style='height:3px;clear:left;'></div><div class='hr' style='clear:left;position:relative;'></div>");
+               rendered = $("<div style='height:3px;clear:left;'></div><div style='margin-bottom: 0px; background: #999; height: 1px; position: relative; left: -2px; width: 106%;'></div>");
             } else {
                rendered = $("<a>" + item.label + "</a>");
             }
@@ -386,7 +411,9 @@ valueOf()+(h?'&utmxhash='+escape(h.substr(1)):'')+
                $(elemId).change();
             }
          },
-         timeText);
+         timeText,
+         false,
+         true);
    });
 </script>
 
@@ -394,28 +421,17 @@ valueOf()+(h?'&utmxhash='+escape(h.substr(1)):'')+
       <div style="float:left;padding-left: 5px;border-left: 1px solid #CDCDCD">
          <div style="font-weight: bold;">What type of workspace?</div>
          <div style="position: relative;">
-            <div style="float: left; width: 220px;margin-top:5px">
-   <div>
-      <input type="checkbox" id="ShowAllWorkspaceScenarious" name="ShowAllWorkspaceScenarious" value="true" checked="" onclick="workspaceScenarioIdsChecked(this, true)" autocomplete="off">
-      Any
+            
+   <div style="float: left; width: 220px;margin-top:5px">
+      <select id="WorkspaceScenarioId" name="WorkspaceScenarioId" style="width: 60px;"><option selected="selected" value="f094b1f6-4645-40dd-8f3d-fc9fd2938aa2">Any</option>
+<option value="0a0f2388-ad94-4620-b482-35e2adeef37d">Meeting Room</option>
+<option value="05885b9c-d0b9-4f46-abb8-bc1b90fb5ec2">Office</option>
+<option value="f0b0d6ab-8651-4be2-8bb7-01a00b28945d">Coworking</option>
+<option value="ab272df0-f9bc-45a8-a736-4a53d349bfaf">Public</option>
+</select>
    </div>
-   <div style="padding-left: 10px;">
-         <div style="overflow: hidden;padding-top:5px;">
-            <input type="checkbox" name="WorkspaceScenarioIds[fd78bfce-ce28-4a45-8f46-5b757dcbbc8e]" value="true" class="scenario" checked="" onclick="workspaceScenarioIdsChecked(this)" autocomplete="off">
-            <span>Office / meeting room</span>
-         </div>
-         <div style="overflow: hidden;padding-top:5px;">
-            <input type="checkbox" name="WorkspaceScenarioIds[ab272df0-f9bc-45a8-a736-4a53d349bfaf]" value="true" class="scenario" checked="" onclick="workspaceScenarioIdsChecked(this)" autocomplete="off">
-            <span>Public / open-air</span>
-         </div>
-         <div style="overflow: hidden;padding-top:5px;">
-            <input type="checkbox" name="WorkspaceScenarioIds[f0b0d6ab-8651-4be2-8bb7-01a00b28945d]" value="true" class="scenario" checked="" onclick="workspaceScenarioIdsChecked(this)" autocomplete="off">
-            <span>Shared / coworking</span>
-         </div>
-   </div>
-</div>
-<div class="capacity-list">
-   For at least <select data-val="true" data-val-number="The field WorkspaceCapacity must be a number." id="WorkspaceCapacity" name="WorkspaceCapacity"><option value="1">1 person</option>
+   <div class="capacity-list">
+      For at least <select data-val="true" data-val-number="The field WorkspaceCapacity must be a number." id="WorkspaceCapacity" name="WorkspaceCapacity"><option selected="selected" value="1">1 person</option>
 <option value="2">2 people</option>
 <option value="3">3 people</option>
 <option value="4">4 people</option>
@@ -428,78 +444,103 @@ valueOf()+(h?'&utmxhash='+escape(h.substr(1)):'')+
 <option value="11">11 - 20 people</option>
 <option value="21">21 + people</option>
 </select>
-</div>
+   </div>
+
 <script type="text/javascript">
-   function workspaceScenarioIdsChecked(elem, all) {
-      $(elem).val(elem.checked);
-      if (all == true) {
-         elem.checked ? $('.scenario').attr('checked', true) : $('.scenario').attr('checked', false);
-      } else {
-        elem.checked ? null : $('#ShowAllWorkspaceScenarious').attr('checked', false);
-      }
-   }
+
 </script>
          </div>
       </div>
-      <img style="display:none; cursor:pointer;float:right;padding-left: 5px;position:absolute; bottom:2px; right:2px;" src="/Content/Images/Icons/close.gif" onclick="LiquidSpace.View.SearchBar.showSearchBarFilterWrapper(false);">
+      <span class="searchBarWrapper-close" onclick="LiquidSpace.View.SearchBar.showSearchBarFilterWrapper(false);"></span>
    </div>
 </div>
 <script id="searchBarFilterDisplayTemplate" type="text/html">
    <div style="float:left;">
+   <a href="#" onclick="LiquidSpace.View.SearchBar.showSearchBarFilterWrapper(true, '#StartTime');return false;">${val.ReservationMethod}</a> 
    on <a href="#" onclick="LiquidSpace.View.SearchBar.showSearchBarFilterWrapper(true, '#StartTime');return false;">${val.Date.toLowerCase()}</a> 
+   {{if val.ReservationMethodValue != "DayPass"}}
    at <a href="#" onclick="LiquidSpace.View.SearchBar.showSearchBarFilterWrapper(true, '#reservationStartTime');return false;">${val.Time.toLowerCase()}</a> 
    for <a href="#" onclick="LiquidSpace.View.SearchBar.showSearchBarFilterWrapper(true, '#reservationLength');return false;">${val.Length}</a> 
-   in <a href="#" onclick="LiquidSpace.View.SearchBar.showSearchBarFilterWrapper(true);return false;"><div class="autoEllipseText120" style="display:inline">${LiquidSpace.View.SearchBar.getWorkspaceCombinedStringFromArray(val.Workspace, "innerHTML")}</div></a> 
+   {{/if}}
+   in <a href="#" onclick="LiquidSpace.View.SearchBar.showSearchBarFilterWrapper(true);return false;"><div class="autoEllipseText120" style="display:inline">${val.Workspace}</div></a> 
    for at least <a href="#" onclick="LiquidSpace.View.SearchBar.showSearchBarFilterWrapper(true, '#WorkspaceCapacity');return false;">${val.Capacity} {{if val.Capacity == 1}}person{{else}}people{{/if}}</a>
    </div>
-   {{if $.browser.msie }}
-   <div style="float:right; padding-right:5px;">
-      <a href="#" onclick="LiquidSpace.View.SearchBar.addToBookmarks(); return false;">bookmark</a>
-   </div>
-   {{/if}}
 </script>
 <script id="venueSearchTemplate" type="text/html">
    <a style="height:38px;padding-bottom: 3px;cursor:pointer;">
-      <div style="float:left;"><img src='/Content/Images/Icons/apartment.png'/></div> 
-      <div style="overflow:hidden;">{{html val.FullName}}</div>
+      <div style="float:left;"><img src='/Content/Images/Icons/icon_venue_search_single_grey.png'/></div>
+      <div style="overflow:hidden; white-space: nowrap;">{{html val.FullName}}</div>
+      <div style="font-size:8px; overflow:hidden;">{{html val.Address}}</div>
+   </a>
+</script>
+<script id="venueGroupSearchTemplate" type="text/html">
+   <a style="height:38px;padding-bottom: 3px;cursor:pointer;">
+      <div style="float:left;"><img src='/Content/Images/Icons/icon_venue_search_multiple_grey.png'/></div>
+      <div style="overflow:hidden; white-space: nowrap;">{{html val.FullName}}</div>
       <div style="font-size:8px; overflow:hidden;">{{html val.Address}}</div>
    </a>
 </script>
 <script id="citySearchTemplate" type="text/html">
    <a style="height:38px;padding-bottom: 3px;cursor:pointer;">
-      <div style="float:left;"><img src='/Content/Images/Icons/apartment.png'/></div> 
-      <div style="overflow:hidden;">{{html val.Name}}</div>
+      <div style="float:left;"><img src='/Content/Images/Icons/icon_venue_search_single_grey.png'/></div> 
+      <div style="overflow:hidden; white-space: nowrap;">{{html val.Name}}</div>
    </a>
-</script></form><script type="text/javascript">
+</script></form></div>
+<script type="text/javascript">
    $('#TimeZoneOffsetMinutes').val(new Date().getTimezoneOffset());
 </script>
 
    
 <script type="text/javascript">
-      var searchVenues = true;
       
+         var model = null;
+         var viewModel = null;
          $('#ReservationStart').val('');
-         var model = new LiquidSpace.View.Search(null, null, null, null, function () { LiquidSpace.View.SearchBar.showSearchBarFilterWrapper(true); }, undefined, searchVenues);
-         var viewModel = model.viewModel;
-         LiquidSpace.View.SearchBar.init(model, null, null, null, 'Horizontal');
+         function searchBar_init(){
+               
+               model = new LiquidSpace.View.Search(null, null, null, null, function () { LiquidSpace.View.SearchBar.showSearchBarFilterWrapper(true); }, undefined, true, '#searchWorkspacesForm', 'horizontal');
+               model.init_map();
+               viewModel = model.viewModel;
+               LiquidSpace.View.SearchBar.init(model, null, null, null, 'Horizontal');
+               
+         }
+         LSHelper.google.init(searchBar_init);
       
 </script>
 
             </div>
+                     <div class="clear"></div>
+            <div id="open-hours">
+               <span>Book online or call <span class="phone-number">(855) 257-2665</span></span>
+               <img id="hours-image" src="/Content/Images/Icons/open-hours-small.png" alt="Book online or call (855) 257-2665">
+               <div id="hours-popup" style="display: none;">
+                  <div class="lsHoverPopupWrapper">
+                     <div class="ui-corner-all lsHoverPopupWrapperContent">
+                           <div class="lsHoverPopupName">Monday thru Friday: 7AM-7PM CDT</div>
+                     </div>
+                     <div class="elem-extender lsHoverPopupWrapperMap">
+                        <img src="/Content/images/icons/map-popup-bottom2.png" alt="">
+                     </div>
+                  </div>
+                  <div class="clear"></div>
+               </div>
+            </div>
       </div>
    </div>
 </header>
-
-       <div id="wrapper" class="container_16">
-           <div class="clear"></div>
-           <div class="page">
-               <div class="header">
-                      <div style="display:none;">
-                        
-                      </div>
-               </div>
-               <div id="main">  
-                  <div class="curated-content">
+      <div id="wrapper" class="container_16">
+         <div class="clear">
+         </div>
+         <div class="page">
+            <div class="header">
+                  <div style="display: none;">
+                     
+                  </div>
+            </div>
+            <div id="main">
+               
+          
+<div class="curated-content">
 <style type="text/css">    .tou-banner    {       background-color: transparent;       color: rgb(44, 48, 49);       font-family: Helvetica;       font-size: 29px;    }    .tou-content    {       background-color: transparent;       font-size: 16px;       float: left;       color: rgb(115, 115, 115);       font-family: Helvetica;       line-height: 1.5em;    }    .tou-content p    {       padding-bottom: 1.5em;    }    .tou-content ul    {       padding-left: 20px;       padding-bottom: 1.5em;    }    .tou-content ol    {       padding-left: 20px;       padding-bottom: 1.5em;    }    .tou-ol-alpha    {       list-style-type: lower-alpha;    }    .tou-emp    {       font-style: italic;    }    .tou-head    {       font-weight: bold;    }    .tou-heademp    {       font-weight: bold;       font-style: italic;    }    .tou-address p    {       padding-bottom: 0em;    } </style> <div class="tou-content">    <h1>       <span class="tou-banner">Privacy Policy</span></h1>    <p>       By using, accessing or participating in the Service, you agree to the terms of this Privacy Policy. Capitalized terms not defined in this Privacy Policy have the       meanings set forth in the Terms of Use (located at <a href="/Home/Terms-Of-Use" target="_blank" title="Terms of Use">liquidspace.com/Home/Terms-Of-Use</a>). We       reserve the right to change our Privacy Policy at any time. If we do this, we will post a notice that we have made changes to this Privacy Policy on the Site for       at least 7 days after the changes are posted and will indicate at the bottom of the Privacy Policy the date these terms were last revised. Any revisions to this       Privacy Policy will become effective the earlier of (i) the end of the foregoing 7-day period or (ii) the first time you access or use the Service after any such       changes. If you do not agree to abide by this or any future Privacy Policy, do not use, access or participate in (or continue to use, access or participate in)       the Service.</p>    <p>       <span class="tou-head">The Information We Collect</span></p>    <p>       When you use the Service you provide us with two types of information: (i) information you submit via the Service and (ii) information regarding your use of the       Service collected by us as you interact with the Service.</p>    <p>       When you enter the Site, we collect your browser type and IP address. This information is gathered for all LiquidSpace visitors. In addition, we store certain information       from your browser using “cookies.” A cookie is a piece of data stored on the user’s computer tied to information about the user. We use session       ID cookies to confirm that users are logged in. If you do not want information collected through the use of cookies, there is a simple procedure in most browsers       that allows you to deny or accept the cookie feature; however, you should note that cookies may be necessary to provide you certain features (e.g., customized delivery       of information) available on the Site.</p>    <p>       Through the registration process you may provide us with your name, company affiliation, email address, telephone number, physical address, and other information       that may be requested during the registration process on the Site. If you wish to create an account that requires payment of a fee, or use services offered via       the Site that require payment of a fee, a valid credit card number or other payment information may be required. By submitting your payment information, you authorize       LiquidSpace to access and use this information in order to provide you with and accept payment for the Service.</p>    <p>       When you use the Service you may submit information and content to your Profile, send messages, perform searches, submit reviews, and otherwise transmit information       to other Users. We store this information so that we can provide you the service and offer personalized features.</p>    <p>       We are not responsible for circumvention of any privacy settings or security measures contained on the Site. You understand and acknowledge that, even after removal,       copies of User Content may remain viewable in cached and archived pages or if other Users have copied or stored your User Content.</p>    <p>       If you use the Mobile Software, your location may be tracked on the mobile device on which the Mobile Software is installed. LiquidSpace will not collect, transmit       or otherwise use this information without your permission. As a Member, you can control when Venue Owners or other Members can see your location through your privacy       settings.</p>    <p>       <span class="tou-head">Minors</span></p>    <p>       LiquidSpace does not knowingly collect or solicit information from anyone under the age of 18 or knowingly allow such persons to register. If you are under 18,       please do not attempt to register for LiquidSpace or send any information about you to us, including your name, address, telephone number, or email address. No       one under age 18 may provide any information to or on LiquidSpace. If you believe that we might have any information from or about a minor under 18, please contact       us at <a href="mailto:privacy@liquidspace.com">privacy@liquidspace.com</a>.</p>    <p>       <span class="tou-head">Use of Information Obtained by LiquidSpace</span></p>    <p>       Once you register with LiquidSpace, you may create your Profile. Your Profile information, as well as your contact information, are displayed to other Users, including       Venue Owners at whose Venues you make or request reservations. We may occasionally use your contact information to send you notifications regarding new services       offered by LiquidSpace and its partners that we think you may find valuable. LiquidSpace may also send you service-related announcements from time to time through       the general operation of the Service. Generally, you may opt out of such emails, although LiquidSpace reserves the right to send you notices about your account       even if you opt out of all voluntary email notifications.</p>    <p>       Profile information and your reservation activity is used by LiquidSpace primarily to be presented back to and edited by you when you access the Service and to       be presented to other Users. The amount of such information presented to other Users will depend on your relationship with those Users (e.g., whether they are following       you, or you are following them, as permitted by the Service). In some cases, other Users may be able to supplement your Profile or contribute information about       your Venue (if you are a Venue Owner), including by submitting comments and reviews.You consent to LiquidSpace making such information available to other Users       and the public. Information from your Profile may be available to third party search engines. This is primarily so that potential users may be able to find you.</p>    <p>       LiquidSpace may use only non-identifiable aggregate data (based partly on IP addresses) collected through the Service to analyze Service usage and system performance. Such data may be       used by LiquidSpace and shared with third parties in any manner.</p>    <p>       <span class="tou-head">Sharing Your Information with Third Parties</span></p>    <p>       You may choose to provide information about you, your company or organization or, if you are a Venue Owner, your Venue to other Users and to the public by providing       such information on public areas of the Site (“Public Information”). Public Information consists of information that is posted by you on areas of the       Site accessible by other Users and/or the public, such as Venue descriptions. Public information does not include information you submit to Us but do not post on       areas of the Site accessible by other Users and/or the public, such as billing and payment information (“Non-Public Information”).</p>    <p>       We share your Non-Public Information with third parties only in limited circumstances where we believe such sharing is reasonably necessary to offer the Service,       legally required or, permitted by you. For example:</p>    <ul>       <li>We may provide Non-Public Information to service providers who help us bring you the services we offer, such as hosting the service at a co-location facility,          sending email updates about LiquidSpace, removing repetitive information from our User lists, processing payments, or to provide search results or links. In connection          with these offerings and business operations, our service providers may have access to your Non-Public Information for use for a limited time in connection with          these business activities. Where we utilize third parties for the processing of any of your Non-Public Information, we implement reasonable contractual protections          limiting the use of that Non-Public Information to the provision of services to LiquidSpace.</li>       <li>We may be required to disclose Non-Public Information pursuant to lawful requests, such as subpoenas or court orders, or in compliance with applicable laws. Additionally,          we may share Non-Public Information when we believe it is necessary to comply with law, to protect our interests or property, to prevent fraud          or other illegal activity perpetrated through the Service or using the LiquidSpace name, or to prevent imminent harm. This may include sharing Non-Public Information          with other companies, lawyers, agents or government agencies.</li>       <li>We may offer to provide services jointly with other companies on the Service, and we may share Non-Public Information with that company in connection with such          offer or your use of that service. If the ownership of all or substantially all of the LiquidSpace business, or individual business units or assets owned by LiquidSpace          that are related to the Site, were to change, your Non-Public Information may be transferred to the new owner. In any such transfer of information, your Non-Public          Information would remain subject to this Privacy Policy.</li>       <li>If we have a separate agreement with a company we believe to be your employer or company for whom we believe you work as a contractor (as determined in each case          by your email domain), we may provide your User ID, email address and reservation activity to that company so that you may be included within an arrangement that          we have with such company. We will notify you if we provide this information to a company and you may elect not to participate in any such arrangement by contacting          us at support@liquidspace.com and stating that you do not wish to participate in such arrangement.</li>    </ul>    <p>       When you use the Service, certain information you post or share with third parties (including other Users), such as comments, reviews or other information, may       be shared with other Users in accordance with the privacy settings you select. All such sharing of information is done at your own risk. Please keep in mind that       if you disclose confidential information in your Profile or when posting comments, reviews or other submissions, this information may become publicly available.</p>    <p>       Your posting of Public Information to public areas of the Site constitutes your consent to share such Public Information publicly. Please be aware that Public Information       will be accessible by both Users and the general public. Nothing in this Privacy Policy shall restrict LiquidSpace’s right to use Public Information.</p>    <p>       <span class="tou-head">Links</span></p>    <p>       LiquidSpace may contain links to other websites. We are of not responsible for the privacy practices of other web sites. We encourage Users to be aware when they       leave the Site to read the privacy statements of other web sites that collect personally identifiable information. This Privacy Policy applies solely to information       collected by LiquidSpace via the Site.</p>    <p>       <span class="tou-head">Third Party Advertising</span></p>    <p>       Advertisements that appear on LiquidSpace are sometimes delivered (or “served”) directly to Users by third party advertisers. They automatically receive       your IP address when this happens. These third party advertisers may also download cookies to your computer, or use other technologies such as JavaScript and “web       beacons” (also known as “1×1 gifs”) to measure the effectiveness of their ads and to personalize advertising content. Doing this allows       the advertising network to recognize your computer each time they send you an advertisement in order to measure the effectiveness of their ads and to personalize       advertising content. In this way, they may compile information about where individuals using your computer or browser saw their advertisements and determine which       advertisements are clicked. LiquidSpace does not have access to or control of the cookies or other technologies that may be used by the third party advertisers.       Third party advertisers have no access to your contact information stored on LiquidSpace unless you choose to share it with them.</p>    <p>       This privacy policy covers the use of cookies by LiquidSpace and does not cover the use of cookies or other tracking technologies by any of its advertisers.</p>    <p>       <span class="tou-head">Changing or Removing Information</span></p>    <p>       Users may modify or delete their Profile information by logging into their account. Removed information may persist in backup copies but will not be generally available       to other Users. Where you make use of the communication features of the service to share information with other Users (e.g., sending a message to another User)       you generally cannot remove such communications from the Site.</p>    <p>       <span class="tou-head">Security</span></p>    <p>       LiquidSpace takes reasonable precautions to protect Users’ Non-Public Information. Your account information is located on a secured server behind a firewall.       Because email and instant messaging are not secure communications, we cannot guarantee the security of any private information sent to us by email or instant messaging       services.</p>    <p>       <span class="tou-head">Data Transfer</span></p>    <p>       The data protection laws in the United States differ from those applicable in other countries, including the country in which you reside. By providing LiquidSpace       with your personal information, you consent to the collection, transfer and processing of your personal information to and from the United States and agree that       your personal information may be subject to access requests from governments, courts or law enforcement in the United States according to the laws of the United       States.</p>    <p>       <span class="tou-head">Contacting LiquidSpace</span></p>    <p>       If you have any questions about this Privacy Policy or LiquidSpace’s privacy practices in general, please contact us as provided for below. You may also contact       us to require that we provide you with a copy of your Non-Public Information within our control, to have us correct any erroneous information, to discontinue receipt       of certain types of communications or to ask us to delete any of your Non-Public Information we have stored that is no longer required for the purpose for which       it was collected.</p>    <p>       Doug Marinaro</p>    <div class="tou-address">       <p>          2225 E. Bayshore Road, Suite 200<br>          Palo Alto, CA 94303</p>    </div>    <p>       Phone : 855-254-7843</p>    <p>       Email : <a href="mailto:privacy@liquidspace.com">privacy@liquidspace.com</a></p>    <p>       Last revised on September 24, 2012</p> </div></div>
 
 <script type="text/javascript">
@@ -507,19 +548,19 @@ valueOf()+(h?'&utmxhash='+escape(h.substr(1)):'')+
       $("body").addClass("small-search-bar");
    });
 </script>
- 
-               </div>
-           </div>
-       </div>
-       
-<div id="footerSeparator"></div>
+
+            </div>
+         </div>
+      </div>
+   </div>
+   <div id="footerSeparator"></div>
 
 <footer>
    <div id="footer">
       <div class="container_16">
          <ul class="footer-nav">
                <li><a href="http://blog.liquidspace.com">Blog</a></li>                 
-            <li><a href="/find-rent-office-meeting-space">How It Works</a></li>
+            <li><a href="/find-rent-office-meeting-space">Solutions</a></li>
             <li><a href="/aboutus">About</a></li>
             <li><a href="/Venues">Locations</a></li>
             <li><a href="/Home/Terms-Of-Use">Terms of Use</a></li>
@@ -528,187 +569,19 @@ valueOf()+(h?'&utmxhash='+escape(h.substr(1)):'')+
                <!-- ver: 2.1.0.0 -->
          </ul>
          <ul class="copy-list">
-            <li>© 2011-2012 LiquidSpace, Inc. All Rights Reserved</li>
+            <li>© 2011-2013 LiquidSpace, Inc. All Rights Reserved</li>
          </ul>
+         <div class="clear"></div>
+         <div class="security-badges">
+            <div class="authorizeNet"></div>
+            <div class="trustwave"></div>
+         </div>
       </div>
    </div>
 </footer>
-       <div id="SignInDialog" style="display: none;"><div class="popup-wrapper" id="popup-wrapper">   
-      <img id="CloseBtn" onclick="closeDialog();return false;" src="/Content/Images/Icons/close-icon.png">
-      <h1>SIGN IN TO CONTINUE</h1>
-<form id="SignInForm" action="/Account/SigninComplete" method="post" onsubmit="LogIn();" target="loginframe"><input data-val="true" data-val-required="The TermsOfUseAccepted field is required." id="TermsOfUseAccepted" name="TermsOfUseAccepted" type="hidden" value="False">        <div class="popup-small-container" id="login">
-            <div id="formErrors" class="formErrors">
-            </div>            
-            <div class="custom-spacer">
-               <div class="editor-label">
-                   <label for="Email_Address">Email Address</label>
-               </div>
-               <div class="editor-field">
-                   <input class="ui-corner-all gradient_input" data-val="true" data-val-required="The Email address field is required." id="UserName" name="UserName" type="text" value="">
-                   <span class="field-validation-valid" data-valmsg-for="UserName" data-valmsg-replace="true"></span>
-               </div>
-            </div>
-            <div class="custom-forgot-spacer">
-               <div class="editor-label">
-                   <label for="Password">Password</label>
-               </div>
-               <div class="editor-field">
-                   <input class="ui-corner-all gradient_input" data-val="true" data-val-required="The Password field is required." id="Password" name="Password" type="password">                   
-                   <div><span class="forgot">
-   <a href="/Account/ForgotPasswordEnterEmail" target="_self">Forgot your password?</a>
-</span><span class="forgot" style="display:none; margin-left: 5px;" id="resendEmail"><a href="/Account/ResendEmail">Get confirmation email</a></span></div>
-                   <span class="field-validation-valid" data-valmsg-for="Password" data-valmsg-replace="true"></span>                
-               </div>                          
-            </div>
-            <div class="custom-spacer">
-               <div class="editor-label">                  
-               </div>
-               <div class="editor-field">
-                  <button class="orange-button ui-widget ui-state-default ui-corner-all" type="submit" id="popupsubmit" value="Sign In">Sign In</button>
-                  <div style="display: block; float: left; margin: 10px 0 0 10px; vertical-align:middle;"><input checked="checked" data-val="true" data-val-required="The Remember me? field is required." id="RememberMe" name="RememberMe" type="checkbox" value="true"><input name="RememberMe" type="hidden" value="false"><label for="RememberMe" style="margin-left:3px;">Stay signed in</label></div>
-               </div>
-            </div>
-            <div class="custom-join-spacer">
-               <div class="editor-label">                   
-               </div>
-               <div class="editor-field">
-                  <div><span class="details">Don't have an account? <a href="#" target="_self" onclick="LSHelper.Account.popUpJoin(this, '/Account/Register?venueId=00000000-0000-0000-0000-000000000000&amp;lsOrig=False'); return false;">Join LiquidSpace</a></span></div>
-               </div>
-            </div>
-            <div class="hr" style="margin-left:-17px;margin-top:15px;"></div>
-            <div class="editor-line" style="height:10px;">
-               <div class="editor-label">
-               </div>
-               <div class="editor-field">
-   	            <div>
-         <span style="float:left;padding-right:5px;"><a href="Javascript:void()" onclick="ssoLogin410da47935f847f3a43cd61d8a78759d();return false;" class="btn_linkedin" id="btnLogOnLinkedIn"></a>
-<script type="text/javascript">
-   function ssoLogin410da47935f847f3a43cd61d8a78759d(){
-      LSHelper.Sso.popupSsoLogin('/Account/StartSsoLogOn?model=%7B%22ButtonTitle%22%3Anull%2C%22ButtonShowImage%22%3Atrue%2C%22SsoId%22%3Anull%2C%22FirstName%22%3Anull%2C%22LastName%22%3Anull%2C%22Email%22%3Anull%2C%22AccessToken%22%3Anull%2C%22AccessTokenSecret%22%3Anull%2C%22SsoType%22%3A0%2C%22AccountLinking%22%3Afalse%2C%22IsJoinFlow%22%3Afalse%2C%22IsVenueInvite%22%3Afalse%2C%22ConnectionType%22%3Anull%2C%22InvitationOwnerId%22%3Anull%2C%22InvitationId%22%3Anull%2C%22OwnerId%22%3Anull%2C%22ErrorMessage%22%3Anull%2C%22Completed%22%3Afalse%2C%22InitialLoad%22%3Atrue%2C%22ExistingAccountLinking%22%3Afalse%2C%22MemberId%22%3A%2200000000-0000-0000-0000-000000000000%22%2C%22OriginatingVenueId%22%3A%2200000000-0000-0000-0000-000000000000%22%2C%22PictureUrl%22%3Anull%2C%22HasInvitation%22%3Afalse%7D', 700, 350);
-   }
-</script></span>
-</div>
-               </div>
-            </div>
-        </div>        
-       <iframe id="loginframe" name="loginframe" style="display: none"></iframe>
-</form></div>
-<script type="text/javascript">
-    LSHelper.HelperLib.autoEllipseText('.oneLineEllipse', 290, 100, ["170", "0"]);
-    document.SSO_logon_Completed = function (data) {
-       $.cookie('LoginSource', data.ssoType);
-       loginSuccess(data);
-    };
+   
 
-    function loginSuccess(data) {
-       if (LSHelper.Account.onLogInSuccessCallback != undefined && LSHelper.Account.onLogInSuccessCallback != null && $.isFunction(LSHelper.Account.onLogInSuccessCallback))
-          LSHelper.Account.onLogInSuccessCallback(data.userId);
-
-       if (data != undefined && data.userId != undefined) {
-          $(document).trigger("userAuthenticated", [data.userId]);
-       }
-
-       if (LSHelper.Account.onlyHeaderReload == undefined || LSHelper.Account.onlyHeaderReload == null || LSHelper.Account.onlyHeaderReload != true) {
-          if (LSHelper.Account.popUpRedirectUrl != undefined && LSHelper.Account.popUpRedirectUrl != null && LSHelper.Account.popUpRedirectUrl != "")
-             window.location = LSHelper.Account.popUpRedirectUrl;
-          else {
-             reloadPage();
-          }
-       }
-       else {
-          $.get('/Account/UserMenu', function (data) {
-             $('#userMenu').html(data);
-          });
-          $("#SignInDialog").dialog("close");
-       }
-    }
-
-    function LogIn() {
-       $('#formErrors').hide();
-       $('#resendEmail').hide();
-        if ($('#SignInForm').validate().form()) {
-            ajaxData = $('#SignInForm').formToArray(true);
-            LSHelper.HelperLib.blockUI($('#SignInDialog'));
-            $.ajax({
-               type: 'POST',
-               url: '/Account/LogOnPopUp',
-               data: ajaxData,
-               success: function (data) {
-                  if (data.success == true) {
-                     if (data.showTermsOfUse) {
-                        showTermsOfUse(data);
-                     }
-                     else
-                        loginSuccess(data);
-                  }
-                  else if (data.success == false) {
-                     $('#formErrors').text(data.error)
-                     $('#formErrors').show()
-                     if (data.showResend)
-                        $('#resendEmail').show();
-                     LSHelper.HelperLib.unblockUI($('#SignInDialog'));
-                  }
-               },
-               error: function () {
-                  $('#formErrors').text('Unable to communicate with server. Please refresh your browser and try again.');
-                  $('#formErrors').show();
-                  LSHelper.HelperLib.unblockUI($('#SignInDialog'));
-               }
-
-            });
-        }
-      }
-
-      function showTermsOfUse(data) {
-         $.ajax({
-            type: 'GET',
-            url: '/Account/ShowTermsOfUse',
-            success: function (touPage) {
-               jQuery('#popup-wrapper').hide().after(touPage);
-               jQuery('#acceptTermsOfUse').click(function () {
-                  jQuery('#TermsOfUseAccepted').val('True');
-                  removeTermsOfUse();
-                  LogIn();
-               });
-            },
-            error: function () {
-               $('#formErrors').text('Unable to communicate with server. Please refresh your browser and try again.');
-               $('#formErrors').show();
-               LSHelper.HelperLib.unblockUI($('#SignInDialog'));
-            }
-
-         });
-      }
-
-    function reloadPage(querystringTackon) {
-        var currentUrl = window.location.href;
-        if (currentUrl.indexOf("#") > 0) {
-            currentUrl = currentUrl.substr(0, currentUrl.indexOf("#"));
-        }
-        if (querystringTackon != null && querystringTackon.length > 0 && currentUrl.indexOf(querystringTackon) < 0) {            
-            if (currentUrl.indexOf("?") < 0)
-                currentUrl += "?" + querystringTackon;
-            else
-                currentUrl += "&" + querystringTackon;            
-        }
-
-        window.location.href = currentUrl;
-    }
-    $(document).ready(function () {
-       $.validator.unobtrusive.parseDynamicContent("#SignInForm");       
-    });
-    function closeDialog() {
-       removeTermsOfUse();
-       $("#SignInDialog").dialog("close");
-    }
-    function removeTermsOfUse() {
-       jQuery('#tou-popup-wrapper').remove();
-       jQuery('#popup-wrapper').show();
-       LSHelper.HelperLib.unblockUI($('#SignInDialog'));
-    }
-</script>
-</div>
-       
+      
    
 
 </body></html>
