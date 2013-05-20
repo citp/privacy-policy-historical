@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wordtemplates.org privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119042528id_/http%3A//www.wordtemplates.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wordtemplates.org privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520121819id_/http%3A//www.wordtemplates.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Microsoft Word Templates
 
