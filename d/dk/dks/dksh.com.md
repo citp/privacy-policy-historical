@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dksh.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120013205id_/http%3A//www.dksh.com/htm/634/en/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dksh.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520232005id_/http%3A//www.dksh.com/htm/634/en/Privacy.htm) for the most accurate reproduction.*
 
 # Privacy - DKSH global
 
