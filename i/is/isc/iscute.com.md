@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the iscute.com privacy policy that was archived on 2012-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121117001347id_/http%3A//i.iscute.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iscute.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520160042id_/http%3A//i.iscute.com/privacy.php) for the most accurate reproduction.*
 
 # Cute & Funny Pictures @ isCute.com
 
-Funny Pictures
+Pictures
 |  Privacy Policy  
 Updated 3/14/2009 
 
@@ -21,32 +21,32 @@ We employ the use of tracking techniques used to monitor how people use this sit
 We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html). 
 
 |  **Random Pics**  
-[I'm so excited!  
-](http://i.iscute.com/63s)
+[Dream Big  
+](http://i.iscute.com/68b)
 
-[Baby in Shoe  
-](http://i.iscute.com/61z)
+[Wake the Baby  
+](http://i.iscute.com/6i8)
 
-[Doggy Ride  
-](http://i.iscute.com/66d)
-
-[  
-](http://i.iscute.com/65k)
-
-[Woodland Babies  
-](http://i.iscute.com/668)
-
-[Snowcone Kitty  
-](http://i.iscute.com/61i)
-
-[Kitty on Water Bowl  
-](http://i.iscute.com/618)
+[Friends are the best  
+](http://i.iscute.com/68h)
 
 [  
-](http://i.iscute.com/64f)
+](http://i.iscute.com/6kk)
 
-[Polar bear nap  
-](http://i.iscute.com/3w)
+[Puppy in Hands  
+](http://i.iscute.com/643)
 
-[  
-](http://i.iscute.com/67c)
+[Kitten Egg  
+](http://i.iscute.com/6v0)
+
+[Nom-Nom Time?  
+](http://i.iscute.com/6yc)
+
+[Baby Puppy Hug  
+](http://i.iscute.com/6e5)
+
+[Determined Dog  
+](http://i.iscute.com/66s)
+
+[Cat flushing toilet  
+](http://i.iscute.com/u)
