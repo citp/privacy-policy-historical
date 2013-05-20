@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eyesonthedollar.com privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119064328id_/http%3A//eyesonthedollar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eyesonthedollar.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520124722id_/http%3A//eyesonthedollar.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Eyes on the Dollar | Eyes on the Dollar
+# Privacy Policy | Eyes on the Dollar
 
 Please note that Eyes on the Dollar has financial relationships with some of the merchants
 
@@ -59,3 +59,6 @@ policies.
 Contact Information
 
 Concerns or questions can be directed to eyesonthedollar <at> gmail <dot>com for further clarification.
+
+**Tiny URL for this page:**  
+ 
