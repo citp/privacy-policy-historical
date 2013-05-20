@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rockler.com privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029152303id_/http%3A//www.rockler.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rockler.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520201902id_/http%3A//www.rockler.com/privacy.cfm) for the most accurate reproduction.*
 
 # Rockler Privacy Statement
 
