@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the titansonline.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021181240id_/http%3A//www.titansonline.com/footer/terms-of-use-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the titansonline.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520085920id_/http%3A//www.titansonline.com/footer/terms-of-use-privacy-policy.html) for the most accurate reproduction.*
 
 # Tennessee Titans | Terms of Use and Privacy Policy
 
