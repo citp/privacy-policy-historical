@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the seoautomatic.com privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105221049id_/http%3A//www.searchcommander.com/privacy-legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seoautomatic.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520121800id_/http%3A//www.searchcommander.com/privacy-legal) for the most accurate reproduction.*
 
-# Privacy & Legal
+# Privacy & Legal | Search Commander, Inc.
 
 Privacy Policy of Search Commander, Inc. 
 
