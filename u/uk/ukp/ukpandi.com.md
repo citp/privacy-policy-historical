@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ukpandi.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106234205id_/http%3A//www.ukpandi.com/cookie-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ukpandi.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520164453id_/http%3A//www.ukpandi.com/cookie-privacy-policy) for the most accurate reproduction.*
 
 # Cookie & Privacy policy - UK P&I
 
@@ -16,7 +16,7 @@ It does not relate to information about companies held and processed by us.
 
 In this privacy policy references to
 
-  * “we”, "us" or "our" are to the UK P&I Club whose website is managed on their behalf by Thomas Miller P&I Ltd.; registered in England number: 1901414; registered address is at 90 Fenchurch Street, London EC3M 4ST, England;
+  * “we”, "us" or "our" are to the UK P&I Club whose website is managed on their behalf by Thomas Miller P&I (Europe) Ltd.; registered in England & Wales number: 2920387; registered address is at 90 Fenchurch Street, London EC3M 4ST, England;
   * “the Website” are to [www.ukpandi.com](http://www.ukpandi.com/) and any other website owned or operated by us. 
 
 
