@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesabre.com privacy policy that was archived on 2012-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121211021638id_/http%3A//www.thesabre.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesabre.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520222900id_/http%3A//www.thesabre.com/privacy) for the most accurate reproduction.*
 
 # TheSabre.com - Privacy Policy
 
