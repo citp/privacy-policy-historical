@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tablespoon.com privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119105822id_/http%3A//www.tablespoon.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tablespoon.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520063835id_/http%3A//www.tablespoon.com/privacy-policy) for the most accurate reproduction.*
 
 # Tablespoon | Cooking Recipes, Dinner Ideas & Simple Recipes for Easy Meals
 
@@ -107,4 +107,4 @@ You always have the right to review and update the information that you previous
 
 ### How to contact us
 
-If you have any questions or concerns about this Privacy Policy or about our collection or use of information, please [Contact Us](https://web.archive.org/web/20121119105822id_/http://www.tablespoon.com/contact-us). You may also reach us by telephone at 1-800-248-7310 weekdays from 7:30 a.m. – 5:30 p.m. Central Time.
+If you have any questions or concerns about this Privacy Policy or about our collection or use of information, please [Contact Us](https://web.archive.org/web/20130520063835id_/http://www.tablespoon.com/contact-us). You may also reach us by telephone at 1-800-248-7310 weekdays from 7:30 a.m. – 5:30 p.m. Central Time.
