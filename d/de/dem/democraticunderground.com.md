@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the democraticunderground.com privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109220617id_/http%3A//www.democraticunderground.com%3Fcom%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the democraticunderground.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520101120id_/http%3A//www.democraticunderground.com%3Fcom%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy - Democratic Underground
 
