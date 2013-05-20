@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalfootballpost.com privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218074414id_/http%3A//www.nationalfootballpost.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalfootballpost.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520072817id_/http%3A//www.nationalfootballpost.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy | National Football Post
 
@@ -42,7 +42,7 @@ Information Sharing and Disclosure
   * We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of NFP’s terms of use, or as otherwise required by law.
   * We transfer information about you if NFP is acquired by or merged with another company. In this event, NFP will notify you before information about you is transferred and becomes subject to a different privacy policy.
   * NFP displays targeted advertisements based on personal information. Advertisers (including ad serving companies) may assume that people who interact with, view, or click targeted ads meet the targeting criteria-for example, men ages 18-24 from a particular geographic area.
-  * NFP does not provide any personal information to the advertiser when you interact with or view a targeted ad. However, by interacting with or viewing an ad you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad.
+  * We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: http://www.networkadvertising.org/managing/opt_out.asp
   * NFP advertisers may include financial service providers (such as banks, insurance agents, stock brokers and mortgage lenders) and non-financial companies (such as stores, airlines, and software companies).
   * NFP works with vendors, partners, advertisers, and other service providers in different industries and categories of business.
 
