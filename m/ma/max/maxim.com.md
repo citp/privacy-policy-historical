@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maxim.com privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203091932id_/http%3A//www.maxim.com/corporate/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxim.com privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521012919id_/http%3A//www.maxim.com/corporate/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Maxim
 
@@ -10,7 +10,7 @@ This Privacy Policy explains how Alpha Media Group Inc. (“AMG”) stores and u
 
      \- mobile applications (such as those available on iPhone, iPad, Android, and other smart phone or table devices);
 
-     \- applications on other computer or Internet based platforms (e.g., XBOX Live);
+     \- applications on other computer or Internet based platforms (e.g., Those operating on videogame systems, set-top devices or smart tv's);
 
      \- telephone calls, emails, mail or other communication and content (such as pictures, video or other information) you provide us via the above or in non-electronic formats.
 
