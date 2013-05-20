@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the barcode-generator.org privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127053740id_/http%3A//www.barcode-generator.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barcode-generator.org privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520103302id_/http%3A//www.barcode-generator.org/privacy.html) for the most accurate reproduction.*
 
 # Free online barcode generator
 
