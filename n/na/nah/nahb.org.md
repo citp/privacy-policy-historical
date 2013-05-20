@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nahb.org privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119153557id_/http%3A//www.nahb.org/footer_content.aspx%3FfooterContentID%3D64) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nahb.org privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520222546id_/http%3A//www.nahb.org/footer_content.aspx%3FfooterContentID%3D64) for the most accurate reproduction.*
 
 # NAHB: NAHB Privacy Policy
 
