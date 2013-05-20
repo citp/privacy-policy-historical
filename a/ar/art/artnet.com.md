@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the artnet.com privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101000353id_/http%3A//www.artnet.com/about/privacy-formal.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artnet.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520212435id_/http%3A//www.artnet.com/about/privacy-formal.asp) for the most accurate reproduction.*
 
 # artnet - Privacy Policy
 
-[](https://privacy-policy.truste.com/click-with-confidence/eusafe/en/www.artnet.com/seal_m "TRUSTe European Safe Harbor certification")
+[ ](https://privacy.truste.com/privacy-seal/Artnet-Worldwide-Corporation/validation?rid=0e91a1f6-9368-45a5-9f5d-c83ea58e5469 "TRUSTe European Safe Harbor certification")
 
 Effective on: December 1, 2011 
 
@@ -150,4 +150,4 @@ Email
 
 Under California law, artnet customers residing in California may request certain information regarding the disclosure of personal information to third parties for their direct marketing purposes. As detailed above, artnet does not share customers' personal information with unaffiliated third parties for direct marketing purposes without their approval. 
 
-[](https://privacy-policy.truste.com/click-with-confidence/eusafe/en/www.artnet.com/seal_m "TRUSTe European Safe Harbor certification")
+[ ](https://privacy.truste.com/privacy-seal/Artnet-Worldwide-Corporation/validation?rid=0e91a1f6-9368-45a5-9f5d-c83ea58e5469 "TRUSTe European Safe Harbor certification")
