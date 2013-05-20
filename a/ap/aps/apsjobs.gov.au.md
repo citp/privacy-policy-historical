@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apsjobs.gov.au privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123221801id_/http%3A//www.apsjobs.gov.au/PrivacyStatement.aspx%3Fifm%3Dtrue) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apsjobs.gov.au privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520183505id_/http%3A//www.apsjobs.gov.au/PrivacyStatement.aspx%3Fifm%3Dtrue) for the most accurate reproduction.*
 
 # APS Jobs - Privacy Statement
 
@@ -97,3 +97,5 @@ For more information about privacy in general, you can visit the Office of the A
 Our Privacy policy may change from time to time
 
 The Commission regularly reviews all its policies and procedures. As a result we may change this Privacy Statement and any more detailed statements applying to particular classes of records from time to time.
+
+Back 
