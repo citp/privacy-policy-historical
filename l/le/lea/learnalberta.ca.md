@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learnalberta.ca privacy policy that was archived on 2012-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121008190131id_/http%3A//www.learnalberta.ca/PrivacyStatement.aspx%3Flang%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learnalberta.ca privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520074851id_/http%3A//www.learnalberta.ca/PrivacyStatement.aspx%3Flang%3Den) for the most accurate reproduction.*
 
 # Privacy - LearnAlberta.ca
 
@@ -45,4 +45,4 @@ Any personal information you are asked to provide via this web site is collected
 
 ## 7\. Contact Information
 
-For more information about the collection of your personal information, any of the policies described above in relation to our website, please submit your inquiry by visiting our [Contact Us](https://web.archive.org/web/20121008190131id_/http%3A//www.learnalberta.ca/Feedback.aspx?lang=en) page. 
+For more information about the collection of your personal information, any of the policies described above in relation to our website, please submit your inquiry by visiting our [Contact Us](https://web.archive.org/web/20130520074851id_/http%3A//www.learnalberta.ca/Feedback.aspx?lang=en) page. 
