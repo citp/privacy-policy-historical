@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the rockler.com privacy policy that was archived on 2012-10-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121029152303id_/http%3A//www.rockler.com/privacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rockler.com privacy policy that was archived on 2013-05-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130520201902id_/http%3A//www.rockler.com/privacy.cfm) for the most accurate reproduction.-->
 
-<html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html><head>
 <title>Rockler Privacy Statement</title>
 <meta name="description" content="Hardware store online featuring everything from computer hardware to power tools to woodworking, and includes secure online ordering.">
 <meta name="Keywords" content=" woodworking, hardware, hardware store, home improvement
@@ -14,6 +14,59 @@ hardware, home hardware, lumber, lumber accessories, office supplies, weather in
 tools, hardware, Rockler">
 
 <meta name="robots" content="index, follow">
+
+<!-- required for this sticky search bar -->
+
+<!--[if IE]>
+<link rel="stylesheet" href="sticky-search.css" />
+<![endif]-->
+
+<script type="text/javascript" async="" src="https://sb.monetate.net/js/1/a-73dea20f/p/rockler.com/439010/g"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script>
+
+<script>
+$(function() {
+
+	// grab the initial top offset of the search bar 
+	var sticky_search_offset_top = $('#sticky_search').offset().top;
+	
+	// our function that decides weather the search bar should have "fixed" css position or not.
+	var sticky_search = function(){
+		var scroll_top = $(window).scrollTop(); // our current vertical position from the top
+		
+		// if we've scrolled more than the search bar, change its position to fixed to stick to top, otherwise change it back to relative
+		// Modified by adding 35 to it so it doesn't bounce up too soon. Also, use left: 446 because the search bar is not center otherwise it won't work on IE 7 well
+		if (scroll_top > sticky_search_offset_top+35) { 
+			//$('#sticky_search').css({ 'position': 'fixed', 'top':0, 'left': 445, 'border': 'solid 1px #A65625', 'width': '504px' });
+			$('#sticky_search').css({ 'position': 'fixed', 'top':0, 'left': 446, 'display': 'block', 'z-index': 100000 });
+			$('#searchbarfields').css({'background-color': '#A65625'}); //A65625ECDCC5
+		} else {
+			//$('#sticky_search').css({ 'position': 'relative', 'left': 0, 'border': '1px' }); 
+			//$('#sticky_search').css({ 'position': 'relative', 'left': 0 }); //
+			$('#sticky_search').css({ 'position': 'relative', 'left': 0 }); //
+			//$('#sticky_search').css({ 'position': 'fixed', 'top':65, 'left': 446, 'width': 504, 'z-index': 100000 });
+			$('#searchbarfields').css({'background-color': '#E5E1D8'});
+		}   
+	};
+	
+	// run our function on load
+	sticky_search();
+	
+	// and run it again every time you scroll
+	$(window).scroll(function() {
+		 sticky_search();
+	});
+	
+	// NOT required:
+	// for this demo disable all links that point to "#"
+	$('a[href="#"]').click(function(event){ 
+		event.preventDefault(); 
+	});
+	
+});
+</script>
+
+
+
 
 
 <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
@@ -30,7 +83,10 @@ tools, hardware, Rockler">
 <link rel="P3Pv1" href="http://www.rockler.com/w3c/p3p.xml">
 <link rel="alternate" type="application/rss+xml" title="Rockler New Woodworking Products" href="http://www.rockler.com/rssProducts.xml">
 
-<script type="text/javascript" async="" src="https://sb.monetate.net/js/1/a-73dea20f/p/rockler.com/439010/g"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+
+<script src="http://www.rockler.com/javascript/gascript.js" language="JavaScript" type="text/JavaScript"></script>
+
+<script type="text/javascript">
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-2853604-2']);
   _gaq.push(['_setDomainName', 'rockler.com']);
@@ -39,12 +95,30 @@ tools, hardware, Rockler">
 
   (function() {
     var ga = document.createElement('script');     ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:'   == document.location.protocol ? 'https://ssl'   : 'http://www') + '.google-analytics.com/ga.js';
+	ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
     })();
 </script> 
+<script language="javascript" type="text/javascript">
+
+if (document.referrer.match(/google\.com/gi) && document.referrer.match(/cd/gi)) {
+  var myString = document.referrer;
+  var r        = myString.match(/cd=(.*?)&/);
+  var rank     = parseInt(r[1]);
+  var kw       = myString.match(/q=(.*?)&/);
+  
+  if (kw[1].length > 0) {
+    var keyWord  = decodeURI(kw[1]);
+  } else {
+    keyWord = "(not provided)";
+  }
+
+  var p        = document.location.pathname;
+  _gaq.push(['_trackEvent', 'RankTracker', keyWord, p, rank, true]);
+}
+</script>
 <script src="http://cts.channelintelligence.com/13357952_landing.js"></script> 
-<script type="text/javascript" src="http://assets.resultspage.com/js/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="http://www.rockler.com/javascript/jquery.min.js"></script>
 <script language="javascript" type="text/javascript">
 var sliJsHost = (("https:" == document.location.protocol) ? "https://"  : "http://" );
 document.write(unescape('%3Clink rel="stylesheet" type="text/css" href="' + sliJsHost + 'assets.resultspage.com/js/rac/sli-rac.0.4.css" /%3E'));
@@ -53,7 +127,12 @@ document.write(unescape('%3Clink rel="stylesheet" type="text/css" href="' + sliJ
 
 <!-- SLI additional scripts start -->
 <meta name="msvalidate.01" content="E3F7D47597F6BE5E2EC620FA013F899F">
-<!-- Begin Monetate tag v6. Place at start of document head. DO NOT ALTER. -->
+
+
+
+
+	<!-- cookie.blnEmailSignupSeen at beginning = true -->
+<!-- cgi.HTTP_REFERER is http://www.rockler.com/product.cfm?page=31675 --> <!-- Begin Monetate tag v6. Place at start of document head. DO NOT ALTER. -->
 <script type="text/javascript">
 var monetateT = new Date().getTime();
 (function() {
@@ -64,18 +143,30 @@ var monetateT = new Date().getTime();
     }
 })();
 </script>
-<!-- End Monetate tag. -->
+<!-- End Monetate tag. --> 
+<script type="text/javascript"> 
+function ajaxsearchsubmit(form){ 
+var search = encodeURIComponent(form.w.value); 
+var asug = encodeURIComponent(form.asug.value); 
+var sli_uuid = encodeURIComponent(form.sli_uuid.value); 
+var sli_sid = encodeURIComponent(form.sli_sid.value); 
+window.location="http://woodworking.rockler.com/search#w="+search+"&asug="+asug+"&sli_uuid="+sli_uuid+"&sli_sid="+sli_sid; 
+return false; 
+} 
+</script> 
+
 <!-- SLI additional scripts end -->
-<script type="text/javascript" charset="iso-8859-1" src="https://server.iad.liveperson.net/hcp/html/mTag.js?site=70307935"></script></head>
+
+<script type="text/javascript" charset="iso-8859-1" src="https://server.iad.liveperson.net/hcp/html/mTag.js?site=70307935"></script><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 <body>
 
-<script src="http://media.richrelevance.com/rrserver/js/1.0/p13n.js"></script>
+<script src="https://media.richrelevance.com/rrserver/js/1.0/p13n.js"></script>
 <script>
 var R3_COMMON = new r3_common();
 R3_COMMON.setApiKey('5f6de312c4a04867');
 R3_COMMON.setBaseUrl('http://recs.richrelevance.com/rrserver/');
-R3_COMMON.setUserId('92807091'); 
-R3_COMMON.setSessionId('92807091');
+R3_COMMON.setUserId('98370136'); 
+R3_COMMON.setSessionId('98370136');
 R3_COMMON.setClickthruServer(window.location.protocol+"//"+window.location.host);
 R3_COMMON.setRegionId('ROCKLER');
 
@@ -101,27 +192,37 @@ r3();
 <div style="width: 437px;float:left; padding-top:6px; text-align:left;" class="TopNavGray"><a href="https://www.rockler.com/MyAccount/" class="TopNavGray" rel="nofollow">Sign In</a> | <a href="/order_status.cfm" class="TopNavGray">Order Status</a> | <a href="/basket/show_wishlist.cfm">Wish List</a> | <a href="/contact.cfm" class="TopNavGray">Help</a> | Customer Service: 800-279-4441 
 <a href="/"><img src="http://images.rockler.com/images/theme2012/logo-1011.jpg" border="0" width="303" height="65" style="margin-top:6px; margin-left:3px;" alt="Rockler Woodworking and Hardware"></a>
 </div>
+
 <div style="width:505px; float:right; padding-top:3px">
+
 <div style="width:264px; float:left; vertical-align:top; padding-right: 2px;">
 	<span class="TopNavGray"> 
-    	<strong>Welcome</strong>. <em>(V9000)</em>
+    	<strong>Welcome</strong>. <em>(AF041)</em>
    		| <a href="http://www.rockler.com/index.cfm?glogout=1">Log Out</a>
    </span>
 </div>
 <div style="float:left; width:156px; overflow:hidden; vertical-align:top; padding-right: 2px; padding-top:11px;">
 <a href="/basket/show_basket.cfm" class="TopNavGreen" title="View Your Shopping Cart" rel="nofollow"><img src="http://images.rockler.com/images/carticon07.gif" border="0" alt="" class="FixImg"> (0 Items)</a> 
 </div>
+
 <div style="width:81px; float:left;"><span class="TopNavGray">100% SECURE</span><br>
 <a href="/checkout/order_specials.cfm"><img src="http://www.rockler.com/images/home-page/checkout612.gif" border="0" align="absmiddle" style="margin-top:0; margin-bottom: 3px;" class="FixImg"></a>
-</div><br>
-<div id="searchbarwrap">
+</div>
+
+
+
+
+<br>
+
+<div id="sticky_search">
+ <div id="searchbarwrap">  
     <div id="searchbarfields">
 	
         <div id="searchbarleft">
 		<!-- Beginning of search form. Target is woodworking.rockler.com   -->
-		<form name="seachBox" method="get" action="http://woodworking.rockler.com/search" style="display:block; margin-top:0px; margin-bottom:0px; padding-bottom: 0px; padding-top:0;">
+		<form name="seachBox" method="get" action="http://woodworking.rockler.com/search" style="display:block; margin-top:0px; margin-bottom:0px; padding-bottom: 0px; padding-top:0;" onsubmit="return ajaxsearchsubmit(this)">
 		
-		<input type="hidden" name="asug">
+		<input type="hidden" name="asug"><input type="hidden" name="sli_uuid"><input type="hidden" name="sli_sid">
 		
 		<input type="text" autocomplete="off" id="sli_search_1" value="" name="w" test="0">
 				
@@ -131,13 +232,25 @@ r3();
 		
 		
 			
-		</div></div></div></div>
+		</div>
+      </div>
+    </div>
+</div>
+
 
 
 
 
 
 </div>
+</div>
+
+
+
+
+
+
+
 
 <!-- SLI page header end -->
 
@@ -158,8 +271,7 @@ r3();
 			<li><a class="MenuBarItemSubmenu" href="http://woodworking.rockler.com/c/power-tools-shop-accessories" onmouseover="MM_swapImage('ptools1','','http://images.rockler.com/images/theme2012/ptools-nnav1011b.jpg',1)" onmouseout="MM_swapImgRestore();"><img src="http://images.rockler.com/images/theme2012/ptools-nnav1011a.jpg" style="margin-top: 5px; background-color:white;" name="ptools1" align="bottom" width="112" height="45" border="0" alt="woodworking power tools" id="ptools1"></a>
 					
 			<ul>
-			<li><a href="http://woodworking.rockler.com/c/Laguna-Special-Offer">Laguna Special Offer</a></li>
-			<li><a href="http://woodworking.rockler.com/c/cnc-routers-accessories">CNC Routers and Accessories</a></li>
+			<li><a href="http://woodworking.rockler.com/c/cnc-routers-accessories">CNC Machines and Accessories</a></li>
 			<li><a href="http://woodworking.rockler.com/c/dust-collection">Dust Collection</a></li>
 			<li><a href="http://woodworking.rockler.com/c/saw-blades-accessories">Saw Blades and Accessories</a></li>
 			<li><a href="http://woodworking.rockler.com/c/table-saws-table-saw-accessories">Table Saws and Table Saw  Accessories</a></li>
@@ -168,6 +280,7 @@ r3();
 			<li><a href="http://woodworking.rockler.com/c/biscuit-joiners-accessories">Biscuit and Plate Joiners and Accessories</a></li>
 			<li><a href="http://woodworking.rockler.com/c/circular-saws-accessories">Circular Saws and Accessories</a></li>
 			<li><a href="http://woodworking.rockler.com/c/compound-miter-saws-chop-saws">Compound Miter Saws and Chop Saws</a></li>
+			<li><a href="http://woodworking.rockler.com/c/multi-oscillating-tools">Multi Oscillating Tools</a></li>
 			<li><a href="http://woodworking.rockler.com/c/power-tools-shop-accessories">More...</a></li>
 			</ul>
 			</li>
@@ -179,8 +292,7 @@ r3();
 			<li><a href="http://woodworking.rockler.com/c/router-bits">Router Bits</a></li>
 			<li><a href="http://woodworking.rockler.com/c/router-accessories">Router Accessories</a></li>
 			<li><a href="http://woodworking.rockler.com/c/router-lifts">Router Lifts</a></li>
-			<li><a href="http://woodworking.rockler.com/c/dovetail-jigs-templates">Dovetail Jigs and Dovetail 
-Templates</a></li>
+			<li><a href="http://woodworking.rockler.com/c/dovetail-jigs-templates">Dovetail Jigs and Dovetail Templates</a></li>
 			<li><a href="http://woodworking.rockler.com/c/router-templates-jigs">Routing Templates and Circle Jigs</a></li>
 			<li><a href="http://woodworking.rockler.com/c/leigh-dovetail-jigs-accessories">Leigh Dovetail Jigs and Accessories</a></li>
 			<li><a href="http://woodworking.rockler.com/c/bushing-edge-guides">Bushing and Edge Guides</a></li>
@@ -191,7 +303,6 @@ Templates</a></li>
 			<li><a class="MenuBarItemSubmenu" href="http://woodworking.rockler.com/c/hardware" onmouseover="MM_swapImage('hard1','','http://images.rockler.com/images/theme2012/hardw-nnav1011b.jpg',1)" onmouseout="MM_swapImgRestore();"><img src="http://images.rockler.com/images/theme2012/hardw-nnav1011a.jpg" style="margin-top: 5px; background-color:white;" align="bottom" name="hard1" border="0" width="109" height="45" id="hard1" alt="Hardware"></a>
 				
 			<ul>
-			<li><a href="http://woodworking.rockler.com/c/pen-turning-kits-parts">Pen and Small Project Turning Kits and Blanks</a></li>
 			<li><a href="http://woodworking.rockler.com/c/cabinet-doors-drawers-cabinet-refacing">Cabinet Doors and Drawers / Cabinet Refacing</a></li>
 			<li><a href="http://woodworking.rockler.com/c/drawer-hardware">Drawer Slides and Drawer Parts</a></li>
 			<li><a href="http://woodworking.rockler.com/c/hinges">Hinges</a></li>
@@ -201,13 +312,13 @@ Templates</a></li>
 			<li><a href="http://woodworking.rockler.com/c/beds-cribs-highchair">Beds, Cribs and Highchair</a></li>
 			<li><a href="http://woodworking.rockler.com/c/entertainment-center">Entertainment Center</a></li>
 			<li><a href="http://woodworking.rockler.com/c/kitchen-bath-storage-organization">Kitchen and Bath Storage and Organization</a></li>
+			<li><a href="http://woodworking.rockler.com/c/kitchen">Kitchen</a></li>
 			<li><a href="http://woodworking.rockler.com/c/hardware">More...</a></li>
 			</ul>
 			</li>
 			<li><a class="MenuBarItemSubmenu" href="http://woodworking.rockler.com/c/hand-tools-shop-accessories" onmouseover=" MM_swapImage('htools1','','http://images.rockler.com/images/theme2012/hand-nnav1011b.jpg',1)" onmouseout="MM_swapImgRestore();"><img src="http://images.rockler.com/images/theme2012/hand-nnav1011a.jpg" style="margin-top: 5px; background-color:white;" align="bottom" name="htools1" border="0" width="117" height="45" id="htools1" alt="woodworking hand tools"></a>
 					
 			<ul>
-			<li><a href="http://woodworking.rockler.com/c/jet-clamp-sale">Jet Clamp Sale</a></li>
 			<li><a href="http://woodworking.rockler.com/c/carving-tools">Carving Tools</a></li>
 			<li><a href="http://woodworking.rockler.com/c/clamps">Clamps</a></li>
 			<li><a href="http://woodworking.rockler.com/c/doweling-dowel-jigs">Doweling - Dowel Jigs</a></li>
@@ -217,13 +328,14 @@ Templates</a></li>
 			<li><a href="http://woodworking.rockler.com/c/jigs-jig-its-t-tracks">Jigs, JIG IT's and T-Tracks</a></li>
 			<li><a href="http://woodworking.rockler.com/c/marking-measuring-tools">Marking and Measuring Tools</a></li>
 			<li><a href="http://woodworking.rockler.com/c/plantation-shutter-program">Rockler Shutter System, Build Your Own Shutters</a></li>
+			<li><a href="http://woodworking.rockler.com/c/turning-tools-accessories">Turning Tools and Accessories</a></li>
 			<li><a href="http://woodworking.rockler.com/c/hand-tools-shop-accessories">More...</a></li>
 			</ul>
 			</li>
 			<li><a class="MenuBarItemSubmenu" href="http://woodworking.rockler.com/c/workshop-accessories" onmouseover="MM_swapImage('essentials1','','http://images.rockler.com/images/theme2012/shope-nnav1011b.jpg',1)" onmouseout="MM_swapImgRestore();"><img src="http://images.rockler.com/images/theme2012/shope-nnav1011a.jpg" style="margin-top: 5px; background-color:white;" align="bottom" name="essentials1" border="0" width="145" height="45" id="essentials1" alt="woodshop equipment and supplies"></a>
 				
 			<ul>
-			<li><a href="http://woodworking.rockler.com/c/garage-workshop-organization-sale">Garage Workshop Organization Sale!</a></li>
+			<li><a href="http://woodworking.rockler.com/c/anti-fatigue-floor-mats">Anti-Fatigue Floor Mats</a></li>
 			<li><a href="http://woodworking.rockler.com/c/shop-accessories">Basic Shop Accessories</a></li>
 			<li><a href="http://woodworking.rockler.com/c/material-handling">Material Handling</a></li>
 			<li><a href="http://woodworking.rockler.com/c/moisture-meters">Moisture Meters</a></li>
@@ -294,22 +406,6 @@ Templates</a></li>
 <!-- SLI navigation bar end -->
 <div class="clear"></div>
 
-    <div class="clear"></div>
-    
-<div align="center" class="ThisBanned">
-	
-    	<script src="http://images.rockler.com/javascript/imgRotate.js" type="text/javascript"></script>
-        <script type="text/javascript">
-		<!--
-		// time between rotations (seconds), width and height of banners, alt text, starting banner, and random (0 means it iterates through banners, 1 means it randomly picks the next banner)
-		myAd = new Banner( 5, 946, 45, "Rockler.com", 1, 0 );
-		myAd.Ad( "http://www.rockler.com/images/promotions/946x45-sandpaper112.gif", "http://www.rockler.com/bnclk.cfm?ID=4", null, "Sandpaper Closeout" );myAd.Ad( "http://www.rockler.com/images/promotions/946x45-bitsale112.gif", "http://www.rockler.com/bnclk.cfm?ID=6", null, "Router Bit Sale" );myAd.Ad( "http://www.rockler.com/images/promotions/946x45-hdsale212.gif", "http://www.rockler.com/bnclk.cfm?ID=7", null, "Closeout Hardware Deals" );
-		myAd.output();
-		// -->
-		</script>
-     
-</div>
-    
 
 
 
@@ -474,22 +570,23 @@ Templates</a></li>
 
 <span class="LeftMenuExpanded">
 
-<b>Need Help?</b><br>
+
 <div>
 <table border="0" cellspacing="0" cellpadding="0">
-<tbody><tr><td>
+<tbody><tr><td align="center">
 
 
-<!-- BEGIN LivePerson Button Code -->
-<div id="lpButDivID-1307981708"></div>
-<script type="text/javascript" charset="UTF-8" src="https://server.iad.liveperson.net/hc/70307935/?cmd=mTagRepstate&amp;site=70307935&amp;buttonID=12&amp;divID=lpButDivID-1307981708&amp;bt=1&amp;c=1"></script>
-<!-- END LivePerson Button code -->
-
-
+    <b>Need Help?</b><br>
+    <!-- BEGIN LivePerson Button Code -->
+    <div id="lpButDivID-1307981708"></div>
+    <script type="text/javascript" charset="UTF-8" src="https://server.iad.liveperson.net/hc/70307935/?cmd=mTagRepstate&amp;site=70307935&amp;buttonID=12&amp;divID=lpButDivID-1307981708&amp;bt=1&amp;c=1"></script>
+    <!-- END LivePerson Button code -->
+    
+    
 </td></tr>
 </tbody></table>
 </div>
-<a href="/product.cfm?page=31837&amp;tagem=DOD"><img src="http://www.rockler.com/images/promotions/132x57-dotd812.gif" border="0"></a> 
+<a href="/product.cfm?page=5917&amp;tagem=DOD"><img src="http://www.rockler.com/images/promotions/132x57-dotd812.gif" border="0"></a> 
 <ul><strong><a href="http://woodworking.rockler.com/c/hardware">Hardware</a></strong><br>
 <li><a href="http://woodworking.rockler.com/c/cabinet-doors-drawers-cabinet-refacing">Cabinet Doors &amp; Drawers</a></li>
 <li><a href="http://woodworking.rockler.com/c/cabinet-locks-furniture-locks">Cabinet Locks</a></li>
@@ -518,7 +615,8 @@ Templates</a></li>
 <li><a href="http://woodworking.rockler.com/c/hand-tools-shop-accessories">See All <img src="http://images.rockler.com/images/nav-arrow.gif" width="14" height="10" border="0"></a></li>
 </ul>
 <ul><strong><a href="http://woodworking.rockler.com/c/wood-products">Wood Products</a></strong><br>
-<li><a href="http://woodworking.rockler.com/c/cabinet-doors-drawers-cabinet-refacing">Furniture Legs</a></li>
+<li><a href="http://woodworking.rockler.com/c/cabinet-doors-drawers-cabinet-refacing">Cabinet Doors &amp; Drawers</a></li>
+<li><a href="http://woodworking.rockler.com/c/furniture-table-legs-kitchen-island-posts-columns-bun-feet">Furniture Legs</a></li>
 <li><a href="http://woodworking.rockler.com/c/lumber-veneers">Lumber</a></li>
 <li><a href="http://woodworking.rockler.com/c/pen-turning-kits-parts">Pen Turning Kits and Blanks</a></li>
 <li><a href="http://woodworking.rockler.com/c/turning-carving-bowl-blank-stock">Turning &amp; Carving Stock</a></li>
@@ -562,16 +660,17 @@ Templates</a></li>
 
 		</div>
 	</div>
+
 </div>
 
 <!-- Customer Testimonials -->
 <div style="float:left;clear:both;width:944px;margin:0 0 0 5px; background-color:#e5e1d8; border-top:1px solid #E5E1D8; border-left:1px solid #E5E1D8;border-right:1px solid #E5E1D8; padding:5px 0; text-align:center">
 
 	
-		<span class="CustomerComments">"Rockler remains the "Gold Standard" for customer service and fast shipping, even on very small orders. Never been disappointed."</span><br>
+		<span class="CustomerComments">"What can I say? Easy...Rockler's one of the good guys:}&lt; inclusive noun... the ladies I've talked too are as knowledgeable about their products as the guys! Keep up the great work."</span><br>
 		<span class="CustomerCommentsGray">-
-		Don Baker
-		- 05/18/2012</span>
+		Les Delcambre
+		- 09/30/2012</span>
 	
 	<br><a href="/comments.cfm">See more...</a>
 
@@ -591,21 +690,22 @@ var MenuBar1 = new Spry.Widget.MenuBar("MenuBar1", {imgDown:"/SpryAssets/SpryMen
 		<div style="width:198px; float:left;">
     	<strong>Customer Care</strong><br>
         <a href="/support.cfm">Customer Service</a><br>
+        <a href="/contact.cfm">Contact Us</a><br>
         <a href="/faq_ordering.cfm">FAQs</a><br>
 	    <a href="/retail/retail.cfm">Find a Store</a><br>
-        <a href="/email_subscribe.cfm">Sign up for our E-mail</a><br>
-        <a href="/catalog/catalog.cfm">Request a Free Catalog</a><br>
-        <a href="/suggestions.cfm">Suggest a New Product</a><br>
-        <a href="/privacy.cfm">Privacy Policy</a><br>
-        <a href="/contact.cfm">Contact Us</a><br>
+        
+        <a href="/catalog/catalog.cfm">Free Catalog</a><br>
+        
+        <a href="/learn.cfm">Woodworking Resources</a><br>
     </div>
     <div style="width:198px; float:left;">
     	<strong>Product Info</strong><br>
-		<a href="/blog/" target="_blank">Woodworking Blog</a><br>
-        <a href="/learn.cfm">Learn</a><br>
-        <a href="/reviews/">Search Woodworking<br>&nbsp;&nbsp;Product Reviews</a><br>
+        <a href="/suggestions.cfm">Suggest a New Product</a><br>
+		
+		<a href="/how-to/" target="_blank">How-To Articles</a><br>
+        
         <a href="/CustomerGallery.cfm">Customer Projects</a><br>
-        <a href="/product_index.cfm">Product Index</a><br>
+        <a href="/product_index.cfm">Shop by Category</a><br>
         <a href="/MSDS.cfm">Search MSDS</a><br>
         <a href="http://woodworking.rockler.com">Popular Searches</a><br>
         
@@ -615,11 +715,12 @@ var MenuBar1 = new Spry.Widget.MenuBar("MenuBar1", {imgDown:"/SpryAssets/SpryMen
 		<a href="/corporate/index.cfm">About Rockler</a><br>
         <a href="/careers/">Careers</a><br>
         <a href="/affiliates/index.cfm">Affiliate Program</a><br>
+        <a href="/privacy.cfm">Privacy Policy</a><br>
         <a href="https://www.rockler.com/catalog/rpro_catalog/procatrequest_.cfm">Request Professional Catalog</a><br>
 
         <a href="/news/index.cfm">Rockler News</a><br>
-        <a href="/SchoolProgram.cfm">School Program</a><br>
-        <a href="/custommade/mini/">CustomMade</a><br>
+        <a href="/SchoolProgram.cfm">School Discounts </a><br>
+        <a href="http://www.custommade.com/rockler/?pro=RKRockler&amp;cam=RKPR1001" target="_blank">CustomMade</a><br>
     </div>
     <div style="width:200px; float:left;"><strong>
     
@@ -627,7 +728,9 @@ var MenuBar1 = new Spry.Widget.MenuBar("MenuBar1", {imgDown:"/SpryAssets/SpryMen
     	<a href="http://twitter.com/Rockler" target="_blank"><img src="http://images.rockler.com/images/theme2012/ns11-ltwitter.jpg" class="FixImg" border="0"></a><br>
 		<a href="http://www.youtube.com/RocklerWoodworking" target="_blank"><img src="http://images.rockler.com/images/theme2012/ns11-lyoutube.jpg" class="FixImg" border="0"></a><br>
         <a href="http://www.facebook.com/pages/Rockler-Woodworking-and-Hardware/31918312377?ref=s" target="_blank"><img src="http://images.rockler.com/images/theme2012/ns11-lfacebook.jpg" class="FixImg" border="0"></a><br>
-        <a href="/RssFeeds.cfm"><img src="http://images.rockler.com/images/theme2012/ns11-lrss.jpg" class="FixImg" border="0"></a>
+        <a href="/RssFeeds.cfm"><img src="http://images.rockler.com/images/theme2012/ns11-lrss.jpg" class="FixImg" border="0"></a><br>       
+        <a href="http://pinterest.com/rockler/" target="_blank"><img src="http://images.rockler.com/images/theme2012/Pinterest.gif" class="FixImg" border="0"></a><br>
+        <a href="https://plus.google.com/117724620620191934208/posts" target="_blank"><img src="http://images.rockler.com/images/theme2012/G+.gif" class="FixImg" border="0"></a>
     
         <br>
     </div>
@@ -664,6 +767,8 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
     </div>
 	<div style="width:430px; float:left;">
      
+								<span><b>Rockler Partner Link:</b> <a href="http://www.resourcehelp.com/qserhome.htm">Return to Resource Central - Home Improvement</a></span><br>
+							
     </div>
 </div>		
 
@@ -672,8 +777,8 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 
 <div style="width:944px; text-align:center">
 <a href="/copyright.cfm" rel="nofollow">Copyright</a>
-					© 2012, Rockler Companies, Inc. This is a <a href="/faq_ordering.cfm#security" rel="nofollow">Secure</a> Shopping Site<br>
-					<span style="font-size:10px;"><font face="Arial,Helvetica,sans-serif" size="-2">web1</font></span>
+					© 2013, Rockler Companies, Inc. This is a <a href="/faq_ordering.cfm#security" rel="nofollow">Secure</a> Shopping Site<br>
+					<span style="font-size:10px;"><font face="Arial,Helvetica,sans-serif" size="-2">web2</font></span>
 </div>
 
 
@@ -700,6 +805,69 @@ document.write(unescape('%3Cscript src="' + sliJsHost + 'rockler.resultspage.com
 </script><script src="https://rockler.resultspage.com/rac/sli-rac.config.js?rev=92644" type="text/javascript"></script>
 
 <script type="text/javascript" src="/javascript/avmws_1011533.js"></script> 
+<script type="text/javascript">
+var google_tag_params = {
+prodid: '0',   
+pagetype: 'category',  // (homepage, category, product, cart, purchase)
+value: '0',    
+pname: '',   
+pcat: '' 
+};
+</script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1072718600;
+var google_conversion_label = "PRFuCNjw2wEQiMbB_wM";
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="http://googleads.g.doubleclick.net/pagead/viewthroughconversion/1072718600/?value=0&amp;label=PRFuCNjw2wEQiMbB_wM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
 <br clear="all"><br clear="all">
+
+
+<!-- MODAL POPUP SCRIPTS -->
+	    <script language="javascript" type="text/javascript" src="http://assets.resultspage.com/js/jquery.timers-1.1.2.min.js"></script>
+		<script language="javascript" type="text/javascript" src="http://assets.resultspage.com/js/modal-1.min.js"></script>
+		<script type="text/javascript">
+$(document).ready(function(){
+      $.modalInitialization({
+            parent:'.sli_grid_result, .sli_list_result',
+            trigger:'.sli_grid_image img, .sli_list_image img',
+            target:'.modal',
+            followMouse:true,
+            offset:10,
+            canEnter:false,
+            delay: 100,
+            fadeSpeed: 0
+      });
+});
+</script>
+
+<script type="text/javascript">
+adroll_adv_id = "H5TU775OOFAWTLT6IBJLY7";
+adroll_pix_id = "RPXJSTKERBFCJKW2TIW4AC";
+(function () {
+var oldonload = window.onload;
+window.onload = function(){
+   __adroll_loaded=true;
+   var scr = document.createElement("script");
+   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+   scr.setAttribute('async', 'true');
+   scr.type = "text/javascript";
+   scr.src = host + "/j/roundtrip.js";
+   ((document.getElementsByTagName('head') || [null])[0] ||
+    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+   if(oldonload){oldonload()}};
+}());
+</script>
+
 
  </body></html>
