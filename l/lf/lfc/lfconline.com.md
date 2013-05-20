@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lfconline.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120013443id_/http%3A//www.lfconline.com/privacy_policy/index.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lfconline.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520231024id_/http%3A//www.lfconline.com/privacy_policy/index.shtml) for the most accurate reproduction.*
 
-# Liverpool FC News - LFC Online
+# Liverpool FC News - LFC Online - Unofficially Red
 
 ## Cookies
 
@@ -29,7 +29,7 @@ _'Advertisement tracking (various)'_ \- used to collect non-personal information
 
 Your privacy is of the utmost importance to us. We gather certain types of information about our users, therefore we feel you should fully understand the terms and conditions surrounding the capture and use of that information. Please find below our privacy policy.
 
-We are Footymad and we own and operate this website ('LFC Online', at www.lfconline.com). Our registered address is 4th Floor, Ashworth House, Manchester Road, Burnley, Lancs BB11 1TT. Please read the following policy to understand how we will deal with your personal data after it has been collected by us through your use of one of our platforms. Those platforms include our website, and any other channels as they evolve.
+We are Footymad and we own and operate this website ('LFC Online - Unofficially Red', at www.lfconline.com). Our registered address is 4th Floor, Ashworth House, Manchester Road, Burnley, Lancs BB11 1TT. Please read the following policy to understand how we will deal with your personal data after it has been collected by us through your use of one of our platforms. Those platforms include our website, and any other channels as they evolve.
 
 ## Compliance with legislation
 
