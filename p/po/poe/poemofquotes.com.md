@@ -1,6 +1,21 @@
-> *The following text is extracted and transformed from the poemofquotes.com privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119232811id_/http%3A//www.poemofquotes.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poemofquotes.com privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521193836id_/http%3A//www.poemofquotes.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy to PoemofQuotes.com
+
+[](http://www.facebook.com/PoemofQuotes "Follow us on Facebook")
+
+  * [Home](https://web.archive.org/)
+  * [Articles](https://web.archive.org/articles/ "Poetry, relationship and other articles")
+  * [Funny Quotes](https://web.archive.org/funny-quotes/ "Hilarious quotations")
+  * [KidzCorner](https://web.archive.org/kidzcorner/ "A place for kids")
+  * [Poems](https://web.archive.org/poetry.php "Personal poetry")
+  * [Poets](https://web.archive.org/poets.php "Famous poets")
+  * [Quotes](https://web.archive.org/quotes/ "Quotes")
+  * [Tools](https://web.archive.org/tools/ "Poetry and relationship tools")
+
+
+
+[Home](http://www.poemofquotes.com/) > Privacy Policy to PoemofQuotes.com
 
 The privacy of our visitors to PoemofQuotes.com is important to us. Here is information on the types of personal information we receive and collect when you visit PoemofQuotes.com. We will never sell your personal information to third parties. 
 
