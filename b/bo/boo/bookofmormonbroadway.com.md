@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookofmormonbroadway.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120150541id_/http%3A//www.bookofmormonbroadway.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookofmormonbroadway.com privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522000521id_/http%3A//www.bookofmormonbroadway.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Book of Mormon
 
