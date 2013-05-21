@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ic4uae.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120011852id_/http%3A//www.ic4uae.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ic4uae.com privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521220527id_/http%3A//ic4uae.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Carrefour :: IC4UAE
 
@@ -12,7 +12,7 @@
 
 #### 1 Introduction
 
-Carrefour Hypermarkets LLC (“[Company]”) takes your privacy seriously. This privacy policy describes how and why we obtain, store and process data which can identify you. We may use personal information we collect from you to send you further information on our products and services or to keep you up to date on our promotional offers by post, courier or email. We may also disclose this information to approved third parties for the purposes of administering any warranty plans or providing you with details of goods and services that may be of interest to you. If you don't like the sound of that there's a simple unsubscribe link in every email we send. Alternatively you can email our customer Information centre at[ info.webstore@mafcarrefour.com ](mailto:info.webstore@mafcarrefour.com) to request that your details are removed. Please be aware that in order to improve our service, we may use personal information that we collect about you to carry out market research. We may update this policy from time to time and shall indicate on the web site when changes have been made.
+Carrefour Hypermarkets LLC ("[Company]") takes your privacy seriously. This privacy policy describes how and why we obtain, store and process data which can identify you. We may use personal information we collect from you to send you further information on our products and services or to keep you up to date on our promotional offers by post, courier or email. We may also disclose this information to approved third parties for the purposes of administering any warranty plans or providing you with details of goods and services that may be of interest to you. If you don't like the sound of that there's a simple unsubscribe link in every email we send. Alternatively you can email our customer Information centre at[ info.webstore@mafcarrefour.com ](mailto:info.webstore@mafcarrefour.com) to request that your details are removed. Please be aware that in order to improve our service, we may use personal information that we collect about you to carry out market research. We may update this policy from time to time and shall indicate on the web site when changes have been made.
 
 #### 2 The Information we collect 
 
