@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tasteofawesome.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005015757id_/http%3A//www.tasteofawesome.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tasteofawesome.com privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521055953id_/http%3A//www.tasteofawesome.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy - Taste Of Awesome
+# Privacy Policy - Boring Pics + Epic Captions - Taste of Awesome
 
 Your privacy is important to Spartz Media. This privacy statement provides information about the personal information Spartz Media collects, and the ways in which Spartz Media uses that personal information. 
 
