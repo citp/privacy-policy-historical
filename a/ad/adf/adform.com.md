@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adform.com privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121003220id_/http%3A//www.adform.com/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adform.com privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522001027id_/http%3A//www.adform.com/site/privacy-policy) for the most accurate reproduction.*
 
 # Adform privacy policy statement : Adform
 
@@ -79,7 +79,7 @@ Ads served by Adform usually link to other web sites, which may have privacy ass
 
 Adform implements reasonable security measures to protect all data collected and used by Adform technology. At every step, Adform adapts all relevant security and safety practices, and employs modern security hardware and software provided by recognized world-leading manufacturers. Physical environment security is also ensured; thus, Adform solutions are hosted and data are stored only in Tier 3 or Tier 4 data centres, classified according to official data centre classification.
 
-###  Adform allows Internet users to opt out of:
+###  Adform allows Internet users to opt out of
 
   * cookie-based targeted advertisements using Adform technology for online behavioural advertisements (OBAs),
   * tracking of visits across domains of different media or advertisers’ sites through Adform technology,
@@ -99,6 +99,90 @@ When a user opts out, Adform will no longer:
   * facilitate similar actions or collection of information for such purposes by other targeting systems used together with Adform.
 
 
+
+###  Cookie Policy
+
+**General information**
+
+Websites use smart and useful techniques to enhance user-friendliness and to make the site as interesting as possible for each visitor. One of the best known techniques involves cookies. Cookies can be used by website owners or third parties - like advertisers - who communicate through the website you visit.  
+Using cookies is safe. It is impossible to retrace personal information such as phone numbers or e-mail addresses by using cookies. They are, thus, unsuitable for direct marketing techniques like telemarketing and spam.  
+We feel it is essential for you to be informed about the cookies that our website uses and for what purpose they are used. The purpose is threefold: we want to guarantee your privacy, the user friendliness, and the financing of our website as best as we can. The following explanation tells you more about the cookies used on and through our website and for what purposes.  
+ 
+
+_This cookie statement applies to Adform and Adform.com and has been drafted in collaboration with members of the industry and OPTA. As a result, the explanation about cookies on the industry members’ websites is essentially similar. Nevertheless, since the texts have been modified to the actual usage of cookies, not all websites will be able to depict the exact same text._  
+ 
+
+**Cookies that ensure the website can function properly**  
+ 
+
+Our website uses cookies for:
+
+  * Reading your browser settings so that your screen will reproduce our website in the best possible way
+  * Identifying your browser when you are logged in, so that you will not have to log into our website anew all the time.
+  * Detecting abuse of our website and services, e.g., by registering a number of successive, failed login attempts.
+  * Evenly spreading the load on the website, so that the website remains accessible at all times.
+  * Offering the option to save login data so that you will not have to enter them anew all the time.
+  * Providing the possibility to react to our website.  
+ 
+
+
+
+**Cookies through which we can measure the website’s use**
+
+We use cookies to continuously try to measure how many people visit our website and what parts of the website they visit most. This tells us what components of the website draw our visitors’ interest most.  
+The information thus gathered is used for statistics. These statistics provide us with insight into how frequently our webpage is visited, where exactly visitors spend most of their time, etc. This enables us to draft the website’s structure, navigation and the contents as user friendly as possible for you. We will never trace any statistics to individuals.  
+ 
+
+We use cookies for:
+
+  * Recording the number of visitors of our web pages.
+  * Setting the order in which a visitor visits the various pages of our website.
+  * Assessing which parts of our site need adaptation.
+  * Optimising the website.
+
+
+
+Cookies to share the contents of our website through social media  
+By using buttons, you can share the articles and videos you watch on our website through social media. These buttons are controlled by social media cookies that are installed by the social media parties, so they are able to recognise you when you would like to share articles or videos.  
+ 
+
+These cookies enable:
+
+  * Logged-in users of selected social media to instantly share content that is available on our website.
+
+
+
+With regard to the cookies that the social media parties install and any data they thereby collect, please refer to the statements that these parties have published on their own websites. Beware that these statements may regularly change. Adform has no influence in this respect.
+
+  * Facebook
+  * Google+
+  * Twitter
+  * Pinterest
+  * LinkedIn
+  * YouTube
+  * Vimeo
+  * Soundcloud
+
+
+
+**Other/unforeseen cookies**
+
+Considering the way the Internet and websites work, we do not always have insight into the cookies that are being placed by third parties through our website. This particularly applies to cases where our webpage contains so-called embedded elements: texts, documents, pictures or short films that are stored at another party, but are shown on, in, or through our website.  
+Therefore, should you come across any such cookies on this website that we have not listed above, please let us know. Or directly contact the related third party and inquire about what cookies they place, their reason for doing so, the cookie’s life span, and how they have guaranteed your privacy.
+
+**Browser settings**
+
+If you do not want websites to place cookies on your computer at all, you can adapt your browser settings as such that you will be notified before any cookie is placed. You can likewise adapt the settings as such so that your browser refuses all cookies, or only the third party cookies. Likewise, you can remove any of your cookies that have already been placed. Please note that you will have to separately adapt the settings for each browser and computer you use.  
+Please be aware that if you do not want cookies, we can no longer guarantee our website to function properly. Some functions of the site may be lost, while you may no longer be able to see certain websites. What’s more, refusing cookies will not mean you will no longer see any advertisements. It’s just that the advertisements will then no longer be tailored to your interests and will be repeated more often.  
+Each browser has a different method to adapt the settings. If necessary, consult your browser’s “help” function, or go to your browser’s manual. If you wish to disconnect cookies of specific parties, you can do this through [www.youronlinechoices.eu](http://www.youronlinechoices.eu/).
+
+**Final remarks**
+
+We might have to adapt these statements from time to time, which may be due to changes in our website or regulations on cookies. We are allowed to change the contents of the statements and the cookies listed at all times and without prior warning. You can consult this webpage for the latest version.  
+Should you still have questions and/or remarks, please contact [support@adform.com](mailto:support@adform.com)  
+ 
+
+_December 2012_
 
 ###  Changes to this Privacy Policy
 
