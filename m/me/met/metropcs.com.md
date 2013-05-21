@@ -1,30 +1,30 @@
-> *The following text is extracted and transformed from the metropcs.com privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031190747id_/http%3A//www.metropcs.com/metro/tac/termsAndConditions.jsp%3Fterms%3DPrivacy%2520Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metropcs.com privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521044222id_/http%3A//www.metropcs.com/metro/tac/termsAndConditions.jsp%3Fterms%3DPrivacy%2520Policy) for the most accurate reproduction.*
 
 # Unlimited Wireless Service - MetroPCS
 
 ## **Privacy Policy**
 
-Revised Effective: February 16, 2011
+Revised Effective: May 1, 2013
 
-MetroPCS Communications, Inc. and its subsidiaries (collectively, "MetroPCS," "we," "our," or "us") understand that your privacy is important, and we have adopted this privacy policy (this "Policy") to describe what information may be collected about you by us when you access or use our website or our service, as well as any electronic information collected by MetroPCS as a result of your use of our network (the "Service"). This Policy also describes how that information may be used or disclosed by us. This Policy does not apply to information about you that may be collected by us other than through the access or use of our website or our service.
+T-Mobile US, Inc. and any of its subsidiaries ("us," "we," "our" or "MetroPCS") understand that your privacy is important, and we have adopted this privacy policy (this "Policy") for MetroPCS wireless services offered by us to describe what information may be collected about you by us when you access or use our website or our service, as well as any electronic information collected by MetroPCS as a result of your use of our network (the "Service"). This Policy also describes how that information may be used or disclosed by us. This Policy does not apply to information about you that may be collected by us other than through the access or use of our website or our service.
 
 ###  Personal Information
 
 "Personal Information" is information about you, and includes your name, address or credit card, PIN, birth date, email address, telephone number or other information such as cookies, described below in "Website" (collectively "Basic Personal Information") as well as other information, such as usage, calling patterns, numbers dialed, and features, that we may collect through your use of the Service. Personal Information also includes customer proprietary network information "CPNI," which relates to the quantity, technical configuration, type, destination, location, and amount of your use of the Service. Personal Information does not include aggregate customer data (collective data about our customers from which customer names or other identifiers have been removed) or other information not deemed CPNI by the Communications Act of 1934, as amended, or the Federal Communications Commission’s rules and regulations, as they may be changed from time to time.
 
-###  How We Collect Personal Information 
+### How We Collect Personal Information 
 
 Personal Information is collected when you purchase our products or services online or otherwise interact with us online, for example when you visit our website, complete an online customer satisfaction survey, correspond with us, or submit a resume electronically. Personal Information about you may also be provided to us by third parties, such as consumer reporting agencies, vendors, dealers or application service providers. 
 
 We may also collect or purchase certain Personal Information such as names, postal addresses and phone numbers from third parties for marketing purposes. (You should always check the privacy policies of other service providers to ensure you understand your privacy choices before subscribing to or purchasing any service.) 
 
-If you choose to use our referral service to tell a friend about one of our job postings, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site and view the job posting. We store this information for the sole purpose of sending this one-time email. 
+If you choose to use our referral service to tell a friend about one of our job postings, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site and view the job posting. We store this information for the sole purpose of sending this one-time email.
 
 CPNI, as defined above, is collected solely by virtue of your customer relationship with us and your use of our network for wireless web access and voice and data services. 
 
-###  How We Use Personal Information 
+### How We Use Personal Information 
 
-MetroPCS will not use or disclose Personal Information, other than as set forth herein or as described in our customer service agreements with you. 
+MetroPCS will not use or disclose Personal Information, other than as set forth herein or as described in our customer service agreements with you.
 
 We may collect, use, and disclose your Personal Information for the following reasons:
 
@@ -154,6 +154,6 @@ If you have any questions, comments or concerns about this Policy, please contac
 
 California residents have a right to obtain a list of general Personal Information that MetroPCS has disclosed and the companies (both affiliated and unaffiliated third parties) among which such information is shared. This request must be sent to MetroPCS, P.O. Box 601119, Dallas, Texas, 75360-1119, Attention: Privacy Office and we will respond within 60 days. 
 
-MetroPCS Wireless, Inc.  
+MetroPCS  
 2250 Lakeside Blvd.  
 Richardson, TX 75082 
