@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the truckandtrailer.co.za privacy policy that was archived on 2012-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121011152953id_/http%3A//www.truckandtrailer.co.za/content-pages/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truckandtrailer.co.za privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521114024id_/http%3A//www.truckandtrailer.co.za/content-pages/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - Truck & Trailer
 
