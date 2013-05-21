@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the nisbets.co.uk privacy policy that was archived on 2012-11-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121110035734id_/http%3A//www.nisbets.co.uk/Privacy/Static.raction) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nisbets.co.uk privacy policy that was archived on 2013-05-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130521045551id_/http%3A//www.nisbets.co.uk/Privacy/Static.raction) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" class=" webkit chrome linux js"><head><style></style>
         
@@ -9,9 +9,7 @@
 
 
 <meta http-equiv="X-UA-Compatible" content="IE=8">
-
-
-	<link rel="alternate" hreflang="en" href="http://www.nisbets.co.uk">
+<!-- F5_LOAD_BALANCE_STRING_DO_NOT_REMOVE  -->
 
 
 
@@ -24,51 +22,64 @@
 
 
 
-    
-        
-            <title>Privacy Policy</title>
-            <meta name="title" content="Privacy Policy">
-        
-        
-    
+
+
 
 
 
     
+        <title>Privacy Policy</title>
     
-        <meta name="description" content="Catering equipment for restaurants, hotels, bars and kitchens, professional chefs and caterers. All top brands supplied with free next day delivery">
-    
-
-    
-        
-        
-            <meta name="keywords" content="[nisbets, catering]">
-        
     
 
-    
-        
-            
-            <meta name="robots" content="NOODP,NOYDIR">
-        
-        
-    
 
     
     
+       	<meta name="description" content="Catering equipment for restaurants, hotels, bars and kitchens, professional chefs and caterers. All top brands supplied with free next day delivery">
+    
+  
+   
+   		
+		
+		
+        
+        
+		
+		       
+        
+       
+     	
+			<meta name="robots" content="NOODP,NOYDIR"> 
+	   	
+     	
+     	
+	
+
+	
     
     
     
-            
+    
+    
+    
+    
     
         
+    
+    
+    
+    
+    
+    	
+        
+    	
+    	
+	
         
         
         
         
         
-        
-            
         
     
 
@@ -129,6 +140,8 @@
 <!--[if IE 7]><link rel="stylesheet" media="all" type="text/css" href="/css/ie7.css"/><![endif]-->
 <!--[if IE 8]><link rel="stylesheet" media="all" type="text/css" href="/css/ie8.css"/><![endif]-->
 
+
+
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
 <!--
 var globalURLPrefix = '/';
@@ -139,7 +152,7 @@ var globalAutoCompleteEnabled = false;
 <script type="text/javascript" src="/js/json2.min.js"></script>
 <!-- this above is fixing this error: "cookies.set() received non string value and could not serialize" in IE6 and IE7 -->
 
-<script type="text/javascript" src="/js/jquery-1.4.4.min.js"></script>
+<script type="text/javascript" src="/js/jquery-1.8.3.min.js"></script>
 <script type="text/javascript" src="/js/jquery.selectboxes.min.js"></script>
 <script type="text/javascript" src="/js/jquery.jcarousel.min.js"></script>
 <script type="text/javascript" src="/js/jquery.autocomplete.min.js"></script>
@@ -150,6 +163,39 @@ var globalAutoCompleteEnabled = false;
 <script type="text/javascript" src="/js/jquery-ui-1.8.11.datepicker.min.js"></script>
 <script src="/js/DD_roundies_0.0.2a-min.js" type="text/javascript"></script> <!--  these two are helping IE* to round corners of divs -->
 <script src="/js/DD_roundies_custom.min.js" type="text/javascript"></script>
+<script type="text/javascript" src="/js/jquerycookie.js"></script>
+
+
+
+<script type="text/JavaScript">
+    $(document).ready(function() {
+     // hides the text as soon as the DOM is ready
+      $('.showmore').hide();
+      $('#toggle').click(function() {
+        $('.showmore').toggle('fast');
+        return false;
+      });
+      
+      // Follow
+     $("a.toggleScript").toggle(function() {
+          $("a.toggleScript").removeClass("show-more");
+          $("a.toggleScript").addClass("show-less");
+          $("a.toggleScript").children().text('Read Less');
+          //IE Fix
+          $("div.toggleScript").removeClass("noMargin");
+          $("div.toggleScript").addClass("addMargin");
+  
+     }, function() {
+          $("a.toggleScript").removeClass("show-less");
+          $("a.toggleScript").addClass("show-more");
+          $("a.toggleScript").children().text('Read more about our  category');
+          //IE Fix
+          //$("div.toggleScript").removeClass("addMargin");
+          //$("div.toggleScript").addClass("noMargin");
+     });
+      
+    });
+</script>
 
 
 
@@ -175,7 +221,7 @@ var globalAutoCompleteEnabled = false;
 <script type="text/javascript">
 // Text resources used within JS
 cam.resources["PRODUCT_DETAIL_TAB_DELIVERY"] = "Delivery";
-cam.resources["FREE_TEXT_SEARCH_HINT"] =  "Enter product name or catalogue no";
+cam.resources["FREE_TEXT_SEARCH_HINT"] =  "\t";
 cam.resources["NEWSLETTER_SIGNUP_HINT"] = "Enter your email address";
 cam.resources["STORE_LOCATOR_HINT"] = "Enter a postcode or town/city";
 cam.resources["BASKET_EXPAND"] = "Expand Basket";
@@ -187,9 +233,131 @@ cam.resources["OPENS_NEW_WINDOW"] = "Opens in a new window";
 cam.resources["VIEW_BASKET"] = "View detailed basket";
 </script>
 
+<!--Geoip - starts  -->
+
+<script type="text/javascript" src="http://j.maxmind.com/app/geoip.js"></script>
+<script type="text/javascript">
+
+function closepopup(site){
+	$.cookie("browser_type", site, {expires:1});
+	 $('.popupbackgroundbg').fadeOut('slow', function () {
+         $('.popupbackgroundbg').remove();
+     });
+     $('.popupbackground').fadeOut('slow', function () {
+         $('.popupbackground').remove();
+     });
+}
+function showpopup(){
+	var countrycode = geoip_country_code();
+	//var countrycode = "US";
+	var siteurl = "";
+	var countryname = "";
+
+	if (countrycode == 'GB'){
+		countryname = 'UK';
+		siteurl = "http://www.nisbets.co.uk";
+		sitetype = "UK &pound;";
+		altcountryname = 'US';
+		altsitetype = "US $"; 
+	}
+	if (countrycode == 'US'){
+		countryname = 'US';
+		siteurl = "http://www.nisbets.com";
+		sitetype = "US $";
+		altcountryname = 'UK';
+		altsitetype = "UK &pound;"; 
+	}
+	if (countrycode == 'FR'){
+		countryname = 'FR';
+		siteurl = "http://www.nisbets.fr/";
+		sitetype = "FR �";
+	}
+		
+	if (countrycode == 'ES'){
+		countryname = 'ES';
+		siteurl = "http://www.nisbets.es/";
+		sitetype = "ESP �";
+	}
+		
+	if (countrycode == 'PT'){
+		countryname = 'PT';
+		siteurl = "http://www.nisbets.pt/";
+		sitetype = "PT �";
+	}
+		
+	if (countrycode == 'IE'){
+		countryname = 'IE';
+		siteurl = "http://www.nisbets.ie/";
+		sitetype = "IE �";
+	}	
+
+	if (countrycode == 'AU'){
+		countryname = 'AU';
+		siteurl = "http://www.nisbets.com.au/";
+		sitetype = "AUS $";
+	}	
+	
+	
+	 var divstr = "<div class=\"popupbackgroundbg\"></div>" + "<div class=\"popupbackground\"><div class=\"popupContent\"><div class=\"popupclosebutton\">" + "<a href=\"javascript:void(0);\" class=\"link\"></a></div></div></div>";
+     $("body").prepend(divstr);
+     $('.popupbackgroundbg').css({
+         opacity: '0.7',
+         filter: 'alpha(opacity=70)'
+     });
+     $('.popupbackgroundbg').fadeIn('slow', function () {});
+     $('.popupbackground').fadeIn('slow', function () {});
+     $('.popupbackground').fadeIn('slow', function () {});
+     
+     var contentstr ="<div class=\"content\"><div class=\"geoipheader\"><h2>Your Location</h2><span class=\"close\"><a href=\"javascript:closepopup();\" class=\"link\"></a></span></div><p>Please select which country website you are wishing to visit:</p>";
+     
+     contentstr += "<ul class=\"geoIPcountryList\"><li class=\"geoip" + altcountryname + "\"><span><a href=\"javascript:closepopup('" + altcountryname + "');\" class=\"link\">" + altsitetype + "</span></a></li><li class=\"geoip" + countryname + "\"><span><a href=\"" + siteurl + "\" class=\"link\">" + sitetype + "</span></a></li></ul>";
+     
+     $('.popupContent').html(contentstr);
+}
+
+function check_country_code()
+{
+	var currenturl = location.href;
+ 	//var currenturl = "www.nisbets.com";
+ 	//var countrycode = "US"
+ 	 
+ 	if (currenturl.indexOf("www.nisbets.com") > -1 && $.cookie("browser_type") != 'US') {
+ 	
+ 	//secondary check to see if we are on Australia or USA.
+ 		if (currenturl.indexOf("au") > -1) {
+ 			return true;
+ 		}
+ 		else if (geoip_country_code()=="GB"){
+			showpopup();
+		}
+		else{
+			return true;
+	   	}
+		
+ 	}
+	 
+	if (currenturl.indexOf("uk") > -1 && $.cookie("browser_type") != 'UK') {
+		if (geoip_country_code()=="US"){
+			showpopup();
+		}
+	    else{
+	       return true;
+	   	}
+	}
+
+}
+	
+</script>
+<!--Geoip - End -->
+
+
+
+
+
+
     </head>
 
-	<body class="has-js"><div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" style="padding-bottom: 42px; padding-right: 42px; display: none;"><div id="cboxWrapper" style=""><div style=""><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxbody" style="float: left;"><div id="cboxClose" class="" style=""></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none;"></div></div>
+	<body><div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" style="padding-bottom: 42px; padding-right: 42px; display: none;"><div id="cboxWrapper" style=""><div style=""><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxbody" style="float: left;"><div id="cboxClose" class="" style=""></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none;"></div></div>
 		<div id="container" class="two-col-left">
 			<div class="header">
                 
@@ -223,7 +391,7 @@ cam.resources["VIEW_BASKET"] = "View detailed basket";
     	
     		<li>
             
-            <a class="register" href="/LoginRegistration.action">Login/Register</a>
+            <a class="register" href="https://www.nisbets.co.uk/LoginRegistration.action">Login/Register</a>
     	
     	</li><li><a href="/ContactUs/Static.raction" class="contactUs">Contact Us</a>
 </li>
@@ -238,7 +406,7 @@ cam.resources["VIEW_BASKET"] = "View detailed basket";
 <form name="ChangeSite" id="ChangeSite" action="/ChangeSite.action" method="get">
     <fieldset>
         <label for="country" class="access">Select your country</label>
-        <select name="country" value="uk" id="country" onchange="submit();"><option value="uk" selected="selected" onchange="submit();">United Kingdom</option><option value="au" onchange="submit();">Australia</option><option value="be" onchange="submit();">Belgique</option><option value="de" onchange="submit();">Deutschland</option><option value="ie" onchange="submit();">Ireland</option><option value="es" onchange="submit();">Espana</option><option value="pt" onchange="submit();">Portugal</option><option value="fr" onchange="submit();">France</option><option value="nl" onchange="submit();">Nederland</option><option value="ex" onchange="submit();">Export</option></select>
+        <select name="country" value="uk" id="country" onchange="submit();"><option value="uk" selected="selected" onchange="submit();">United Kingdom</option><option value="au" onchange="submit();">Australia</option><option value="be" onchange="submit();">Belgique</option><option value="de" onchange="submit();">Deutschland</option><option value="ie" onchange="submit();">Ireland</option><option value="es" onchange="submit();">Espana</option><option value="pt" onchange="submit();">Portugal</option><option value="fr" onchange="submit();">France</option><option value="nl" onchange="submit();">Nederland</option><option value="ex" onchange="submit();">Export</option><option value="us" onchange="submit();">United States</option></select>
         <span class="uk" title="uk"></span>
         <noscript>
             <div class="clear-btn">
@@ -263,12 +431,12 @@ cam.resources["VIEW_BASKET"] = "View detailed basket";
 
 
 
-	<div class="cms-extended-banner">
+	<div class="cms-extended-banner mobile-top-phonenumber">
 		
 			
 		
-		<a href="/ContactUs/Static.raction" title="Telephone Contact 08451405555">
-			<span class="bold"><span style="line-height:110%; position:relative; top:-3px;">0845 140 5555 </span></span>
+		<a href="tel:+448451405555" title="Telephone Contact 08451405555">
+			<span class="bold">0845 140 5555</span>
 			
 			<span class="block"></span>
 		</a>
@@ -617,6 +785,12 @@ cam.resources["VIEW_BASKET"] = "View detailed basket";
 			
 			<li><a href="/2/Disposables-%26-Cleaning-Laundry/c03c01.r10.1">Laundry</a></li>
 		
+			
+			<li><a href="/2/Disposables-%26-Cleaning-Waste-Management/c03c02.r10.1">Waste Management</a></li>
+		
+			
+			<li><a href="/2/Disposables-%26-Cleaning-Washroom-Products/c03c02.r10.1">Washroom Products</a></li>
+		
 	</ul>
 
 
@@ -641,7 +815,7 @@ cam.resources["VIEW_BASKET"] = "View detailed basket";
 	<ul>
 		
 			
-			<li><a href="/2/Catering-Appliances-Cooking-Machines/c02c02.r10.1">Cooking Machines</a></li>
+			<li><a href="/2/Catering-Appliances-Cooking-Equipment/c02c02.r10.1">Cooking Equipment</a></li>
 		
 			
 			<li><a href="/2/Catering-Appliances-Blenders/c02c01.r10.1">Blenders</a></li>
@@ -788,7 +962,7 @@ cam.resources["VIEW_BASKET"] = "View detailed basket";
 <li><a href="/AboutUs/Static.raction">About Us</a></li>
 
 
-<li><a href="/VisitOutTradeCounters/Static.raction">Visit Our Trade Counters</a></li>
+<li><a href="/VisitOutTradeCounters/Static.raction">Visit Our Shops</a></li>
 
 <li><a href="/EnvironmentalInitiatives/Static.raction">Environmental Initiatives</a></li>
 
@@ -818,7 +992,7 @@ cam.resources["VIEW_BASKET"] = "View detailed basket";
 
 <li><a href="/Exports/Static.raction">Exports</a></li>
 
-<li><a href="/Leasing/Static.raction">Leasing</a></li>
+<li><a href="/ChefLeasing/Static.raction">Leasing</a></li>
 
 <li><a href="/WEEECompliance/Static.raction">WEEE Compliance</a></li></ul>
 
@@ -947,15 +1121,12 @@ We and our group companies may also wish to provide you with information
 
 about special features of our web site or any special service or products 
 
-which we think may be of interest to you. We may provide this information 
+which we think may be of interest to you. We may provide this information by post, text message or email. If you would rather not receive this information please send an e-mail to <a href="mailto:nothird@nisbets.co.uk">nothird@nisbets.co.uk.</a> stating your preferences or follow the instructions on the text message to opt out from future text messages.
 
-by post or email. If you would rather not receive this information please 
 
-send an e-mail to <a href="mailto:nomail@nisbets.co.uk">nomail@nisbets.co.uk.</a> stating your 
 
-preferences. </p>
  
-<p></p><h2><strong> 2. Our use of Cookies and other information gathering 
+</p><p></p><h2><strong> 2. Our use of Cookies and other information gathering 
 
 technologies </strong></h2><p></p>
 
@@ -1065,11 +1236,28 @@ e-mail to <a href="mailto:sales@nisbets.co.uk" title="sales@nisbets.co.uk">sales
 
 
 
+      <div class="footer-assets"> 	<p class="footer-content-left"> <a href="http://www.feefo.com/reviews/Nisbets/?logon=www.nisbets.co.uk&amp;since=year&amp;cm_sp_o=ZBFw5zTwCjCdwwuB%20_zEEwyCjCdwwuB%20_zEEwy" target="_blank"><img src="/static/content/banners/banners_UK/feefo_leftbottom_new.png" alt="See what our customers say about us" title="See what our customers say about us"></a>
+</p></div>
+
+
+
+
+
+
+
+
+                
+                    
+
+
+
+
+
     <h2>Site links</h2><div class="column footer-left"><ul><li><a href="/BrandIndex.action">A-Z Brand Index</a>
 </li><li><a href="/DeliveryAndReturns/Static.raction">Delivery &amp; Returns</a>
 </li><li><a href="/ContactUs/Static.raction">Contact Us</a>
 </li><li><a href="/NisbetsTV/Static.raction">Nisbets TV</a>
-</li><li><a href="/NisbetsSpottedOnTV/Static.raction">Nisbets Spotted on TV</a>
+</li><li><a href="/AffiliateProgramme/Static.raction">Affiliates</a>
 </li></ul>  </div><div class="column footer-middle"><ul><li><a href="http://nisbetscateringequipment.blogspot.com/" target="blank">Blog</a>
 </li><li><a href="http://www.twitter.com/nisbets" target="blank">Twitter</a>
 </li><li><a href="/Articles/Static.raction">Articles</a>
@@ -1107,22 +1295,6 @@ e-mail to <a href="mailto:sales@nisbets.co.uk" title="sales@nisbets.co.uk">sales
 
 
                 
-                    
-
-
-
-
-
-      <div class="footer-assets"> 	<p class="footer-content-left"><img src="https://www.feefo.com/feefo/feefologo.jsp?logon=www.nisbets.co.uk&amp;template=N166x56W.jpg&amp;since=year" border="0" alt="Feefo logo" style="padding-top:35px;" title="See what our customers say about us"></p> </div>
-
-
-
-
-
-
-
-
-                
 			</div>
             
                 
@@ -1145,6 +1317,9 @@ e-mail to <a href="mailto:sales@nisbets.co.uk" title="sales@nisbets.co.uk">sales
 
 
 <div class="footer-sites">
+	<script type="text/javascript">
+	check_country_code();
+	</script>
     
 
 
@@ -1171,8 +1346,13 @@ e-mail to <a href="mailto:sales@nisbets.co.uk" title="sales@nisbets.co.uk">sales
     
         <li class="ex"><a href="/ChangeSite.action?country=ex">Export</a></li>
     
+        <li class="us"><a href="/ChangeSite.action?country=us">United States</a></li>
+    
 </ul>
 </div>
+
+
+
 		</div>
 
         
@@ -1181,7 +1361,13 @@ e-mail to <a href="mailto:sales@nisbets.co.uk" title="sales@nisbets.co.uk">sales
 
 
 
-<script type="text/javascript">
+
+
+
+
+
+
+	<script type="text/javascript">
        var _gaq = _gaq || [];
        _gaq.push(['_setAccount', 'UA-6990583-1']);
        _gaq.push(['_trackPageview']);
@@ -1191,7 +1377,61 @@ e-mail to <a href="mailto:sales@nisbets.co.uk" title="sales@nisbets.co.uk">sales
     		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
     		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   		})();
-</script>
+	</script>
+	
+	
+		<!-- Google Code for Remarketing tag -->
+		<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
+		<script type="text/javascript">
+			/* <![CDATA[ */
+			var google_conversion_id = 1069829050;
+			var google_conversion_label = "rJ5zCMTh-wQQupeR_gM";
+			var google_custom_params = window.google_tag_params;
+			var google_remarketing_only = true;
+			/* ]]> */
+		</script>
+			
+		<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
+		</script>
+		<noscript>
+			<div style="display:inline;">
+				<img height="1" width="1" style="border-style:none;" alt="" src="http://googleads.g.doubleclick.net/pagead/viewthroughconversion/1069829050/?value=0&amp;label=rJ5zCMTh-wQQupeR_gM&amp;guid=ON&amp;script=0"/>
+			</div>
+		</noscript>
+		
+		
+		<!-- Google Code for Remarketing tag -->
+		<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
+		<script type="text/javascript">
+			/* <![CDATA[ */
+			var google_conversion_id = 960283268;
+			var google_conversion_label = "IY9QCPSckVIQhIXzyQM";
+			var google_custom_params = window.google_tag_params;
+			var google_remarketing_only = true;
+			/* ]]> */
+		</script>
+		<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
+		</script>
+		<noscript>
+			<div style="display:inline;">
+				<img height="1" width="1" style="border-style:none;" alt="" src="http://googleads.g.doubleclick.net/pagead/viewthroughconversion/960283268/?value=0&amp;label=IY9QCPSckVIQhIXzyQM&amp;guid=ON&amp;script=0"/>
+			</div>
+		</noscript>
+	
+	
+	
+	
+	
+		
+ 			
+ 		
+ 			
+ 		
+ 			
+ 		
+ 			
+ 		
+ 	
 	
 
 
@@ -1221,5 +1461,6 @@ e-mail to <a href="mailto:sales@nisbets.co.uk" title="sales@nisbets.co.uk">sales
 
 
     	
+    <script src="//www.vivocha.com/a/nisbets/api/vivocha.js"></script>
 	
 </body></html>
