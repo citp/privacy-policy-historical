@@ -1,16 +1,18 @@
-> *The following text is extracted and transformed from the instagc.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227101746id_/http%3A//www.instagc.com/users/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instagc.com privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521063000id_/http%3A//www.instagc.com/users/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | instaGC
+
+READ THIS IN ITS ENTIRETY. USAGE OF THIS SITE IMPLIES AGREEMENT WITH THESE TERMS.
 
 instaGC Privacy Policy is as follows:
 
 1\. **Information We Collect and How We Use It**
 
-> This website may collect certain information from and about its users by creating a browser Cookie or dropping a Web beacon through third party websites. A cookie is a small text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a Web Server in the domain that issued the cookie to you. Some personally identifying information is collected and includes, but not limited to: name, home address, email address, phone number, birth date, and gender. 
+> This website may collect certain information from and about its users by creating a browser Cookie or dropping a Web beacon through third party websites. A cookie is a small text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a Web Server in the domain that issued the cookie to you. Some personally identifying information is collected and includes, but not limited to: name, username, home address, email address, phone number, birth date, and gender. 
 
 2\. **Information Sharing**
 
-> We do not disclose, lease, rent, share, or sell member information unless required by law or in the instance of a member is suspected of committing fraud. 
+> As offers are completed and rewards are requested, publicly viewable posts will be made in the chat area to other members. The username of the member will be posted along with the offer completed or reward requested. We also run contests where a members username may be posted. We do not disclose, lease, rent, share, or sell member information unless required by law or in the instance of a member is suspected of committing fraud. 
 
 3\. **Opt Out**
 
