@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dreamhoroscope.com privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214100954id_/http%3A//dreamhoroscope.com/Privacy-Policy/1_186_menu%3D6_object%3D527.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dreamhoroscope.com privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521090041id_/http%3A//dreamhoroscope.com/Privacy-Policy/1_186_menu%3D6_object%3D527.aspx) for the most accurate reproduction.*
 
 # Home | Dream Horoscope
 
