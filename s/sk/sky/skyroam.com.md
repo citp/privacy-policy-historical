@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skyroam.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120140414id_/http%3A//www.skyroam.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D48%26Itemid%3D73%26lang%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skyroam.com privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521221336id_/http%3A//www.skyroam.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D48%26Itemid%3D73%26lang%3Den) for the most accurate reproduction.*
 
 # Privacy Policy
 
