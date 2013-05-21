@@ -1,78 +1,66 @@
-> *The following text is extracted and transformed from the stay.com privacy policy that was archived on 2010-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100323064100id_/http%3A//www.stay.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stay.com privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521064430id_/http%3A//www.stay.com/privacy) for the most accurate reproduction.*
 
-# Stay.com Privacy Policy
+# Stay.com Social City Guides
 
-Last revised March 27, 2009
+Last revised April 16, 2013
 
-Stay.com’s privacy policy states many of the various ways in which the service uses (or does not use) the information you provide to us, or that we gather from you while you use the various services of our platform(s). One of our most inherent goals is to provide you each user with information that is tailored to their individual needs, while maintaining the ultimate security and privacy of our users. Privacy and a user’s welfare are supremely important in today’s interconnected world, and to this end we are dedicated to your security.
+This Privacy policy shall apply in addition to and supplement Stay.com’s Terms of Service Agreement, the terms defined in the Terms of Service Agreement shall have the same meaning herein unless the context says otherwise. You will find the [Terms of Service Agreement](https://web.archive.org/terms/).
 
-Your use of any aspect(s) of Stay.com services constitutes your agreement to this privacy policy. So, please carefully read this policy, and if you cannot for any reason agree with the terms and conditions, please do not use our services. Of course, this policy does not apply to information collected elsewhere. In addition, we strongly suggest you review our User Agreement/TOS, as you use of Stay.com services constitutes an agreement to these terms as well.
+User privacy is very important to Stay.com. Read this policy carefully, if you cannot agree with the terms, please don’t register with the Service.
 
-Stay.com reserves the right to modify these agreements from time to time. The date of the most recent revisions will appear on this page. It is the responsibility of the user to keep updated on the most recent changes to these and other policies, so checking periodically is strongly suggested. For the purposes of user and Stay.com ongoing understanding, the most recent versions of these agreements are always in force.
+Stay.com reserves the right to modify this Privacy policy from time to time. The most recent revision shall supersede any earlier versions and will be found on [www.stay.com](https://web.archive.org/privacy/). It is your responsibility as a User to keep updated on the most recent changes. Continued use of the Service following the posting of any changes of the policy shall constitute acceptance of such changes. Changes that require your consent will be communicated to you.
 
-## 1\. Stay.com and the Information We Receive from Users
+## 1\. Stay.com and the Information We collect from you
 
-When users register at Stay.com, they supply basic information such as; the user’s name, email address, password and other basic information. Besides this general information, we also collect (at the user’s discretion) information pertaining to demographics like; gender, location, marital status, travel plans, and a variety of preferential data.
+Stay.com is responsible for the processing of your personal data in accordance with this policy and the Norwegian Data protection regulations.
 
-Site visitors also provide information which Stay.com gathers including; the domain they are visiting from, the type of browser they are using, bounce rates. Their IP addresses, the time of the visit and other generally public information. Users or visitors who ask questions also provide various information which Stay.com uses to resolve both their inquiries, and for our own internal resolutions.
+It is voluntary to register with Stay.com and you have the right to cancel your account at any time, by contacting Stay.com.
 
-## 2\. How, Why and When Does Stay.com Use Your Information?
+When you create an account, you will be requested to provide Stay.com with your name and email address. It is voluntary to give away your address and phone number. Furthermore Stay.com will collect (at the User’s discretion) information pertaining to demographics such as; gender, location, marital status, travel plans, and a variety of preferential data.
 
-Much of the information users provide us with is used to build their “stays”, travel itineraries, profiles, and for “opt in” delivery of periodic newsletters and offers. As with most expanded Web communities, Stay also uses this information to better target content that is relevant to any particular user or groups of users.
+When visiting the Stay.com website Stay.com will also collect information, such as but not limited to the domain that you are visiting from, the browser you are using, the duration of your visit, your IP address and the time of visit. If you as a User ask questions this information will also be saved and used by Stay.com to resolve your inquiries, and for Stay.com’s own internal resolutions.
 
-Sharing of user information with third parties is done only where the user has agreed by specifying these, in example; friends, relatives, colleagues, and in some cases other web services like Facebook. This depends on the type and kind of access you as a user allow. Most of this information is already publicly available once you make your profile live on Stay.com. Stay.com has no control over who reads a user’s public profile, so third parties can obviously gather this information for themselves. The user should consider this when providing this information, and determine what should be readily visible to the public.
+As a User you provide Stay.com with information, much of which are travel itineraries, profiles, pictures and travel tips etc.
 
-All users should also be aware, that once they publish personal information online, cached version indexed by search engines and other sites, cannot be deleted either by the user or by Stay.com. This is very important.
+## 2\. How and why does Stay.com Use Your Information?
 
-Also, building collective stays, and other sharing or community activity, may distribute certain information about destinations, images, plans, or other collective data to a user’s Stay.com network. A user, can at any time change their privacy settings to control who sees their shared information however.
+The collected information is saved and used to administer your account, to maintain a good user- and costumer care and to optimize and develop the Service. As with most expanded Web communities, Stay.com also uses the information to better target content that is relevant to any particular user or groups of users. Stay.com will only process the personal data mentioned for the purposes which it was collected for.
 
-## 3\. Other User Information Sharing
+If you have consented thereto the information may also be used to send you tailored news and updates on the Service as well as marketing offers from Stay.com or a partner of Stay.com, that Stay.com thinks might suit you. If you no longer wish that Stay.com sends you news / updates on the Service or marketing and / or tailored offers, you may at any time change your settings. It is not Stay.com’s intention to burden its Users with undesired communication.
 
-There are other times when Stay.com may share user information, which include:
+The registered personal data will not be saved longer then what is necessary for the purpose of the processing. As a User you agree to provide Stay.com with accurate information and to keep said information updated.
 
-  * When a an account is perceived to be a threat to the legal rights or safety of Stay.com, other users, is suspected of illegal activity, or in conjunction with law enforcement authorities (where mandated), and in order to enforce the TOS and User Agreements between Stay.com and end users.
-  * In cases where Stay.com may be legally or morally bound to cooperate with law enforcement or where disputes arise which can only be effectively resolved in such a way. Such instances may include; when a user is expected of fraud or other activity which may effect other users or third party organizations that user has agreed to share information with.
-  * When Stay.com has business transactions, such as mergers and acquisitions, where the sharing of user information is out of natural course of business.
-  * At times when overall data with regard to user activity, numbers of users, overall travel activity for the site, or other demographic type data is needed by Stay.com. In these cases, individual user information will not be used, but the statistics derived from user activity will be taken from user account information.
+By contacting Stay.com you will be able to get information about what personal data Stay.com has registered on you. You will also upon request be able to change or update that data or require that unnecessary data is removed.
+
+The personal data that has been registered on you will only be processed by Stay.com, and will not be shared with any third parties, except when required by law or when necessary in a business transaction.
+
+With regard to the information you post on the Service you can at any time change the privacy settings to control who sees your information. See article 6 of the Terms of Service Agreement.
+
+## 3\. Protecting user Information
+
+Stay.com has state of the art data handling, data storage and security procedures designed to protect the personal information of users, as well as the integrity of the platform overall. The best modern encryption and other security measures are employed to safeguard against unauthorized access to the system and to the individual accounts therein.
+
+As a User you should be aware, that once you have published information online, cached versions indexed by search engines and other sites, that information cannot be deleted either by you or by Stay.com.
+
+## 4\. Cookies and User Solutions
+
+To enhance the user experience and optimize the Service, Stay.com uses “cookies”, advertising metrics, and other information gathering methods.
+
+A “cookie” is a small text file saved on your computer to enable analysing of your use of the site. It allows Stay.com’s servers to recognize your computer and as such make the job of loading pages, identifying unique users and browsing at the Web or a specific site faster.
+
+If you don’t want “cookies” to be used, you can at any time, decline such usage by making the necessary adjustments in your web reader to instruct your browser to stop accepting cookies. However, some aspects of the Stay.com site may not function properly and you may not have an optimal user experience if you do so.
+
+### 4.1 Usage of web analysis tools 
+
+To be able to improve the user experience Stay.com shall have the right to use third party analytic platforms to learn more about which features of the service are being used, and how the User moves through the app. Fine-grained location data will not be collected.
+
+The collected behaviour data will only be accessed by Stay.com employees. No personal information will be sent to the third party.
+
+We welcome any questions you might have related to this Privacy policy, Stay.com or the Service. Please feel free to contact us via email, or postal mail with any inquiries:
+
+Stay.com/EuropaReiser AS  
+Gaustadalléen 21  
+N-0349 Oslo  
 
 
-
-In all other instances Stay.com users will be notified of any intent to use their information, and when applicable, according to the TOS and User Agreements, asked for their permission. 
-
-## 4\. Protecting User Information
-
-Stay.com is maintains state of the art data handling, data storage and security procedures designed to protect the personal information of users, as well as the integrity of the platform overall. The best modern encryption and other security measures are employed to safeguard against unauthorized access to the system and to the individual accounts therein.
-
-## 5\. User Options, Email and General "Opt In"
-
-All users maintain the right to refuse any of Stay.com's services. Choosing to "opt out" of some features is an option, but advanced features may not be available to the casual visitor. Choosing to received email, registering, sharing or private information, and in general being a part of the Stay.com community are all choices.
-
-Choosing to opt out of any communications from Stay.som, including updates on the system and the like, is as easy as following the instructions on these communications. The “settings” aspect of a user’s profile also contains controls for discontinuing any number of features to the Stay platform as well. It is not our intention to in any way burden our users with unsolicited communication, undesirable features, or with regard to their personal preferences. Any user can request to be removed from, or get clarification on any of our services by simply emailing support@stay.com with their request. Of course, every user has the right to discontinue their use of Stay.com at any time as well, by choosing the appropriate option in their profile “settings” interface.
-
-## 6\. Advertising, Cookies and User Solutions
-
-Because of any number of optimization or experience enhancing methods for users and Web companies alike, there are some functions users should be aware of. These include, but are not limited to; the use of “cookies”, advertising metrics, and other information gathering methods.
-
-The user should rest assured, that though Stay.com does use cookies to store various data from the user, and though some of our third part advertisers may use metrics to discern data from a user’s usage, none of this data is of a personal or sensitive nature. Rather, the data gleaned is about usage and user patterns.
-
-With respect to cookies, and so users who do not know will understand, the term “cookies” refers to an identification message sent from a user’s computer the server on the “host” site. It basically allows our servers to recognize your computer among millions of others. Cookies just make the job of loading pages, identifying unique users and make browsing a the Web or a specific site faster.
-
-Any user can either disable cookies in their browser, or even clear these at the end of a session to prevent their use. However, some aspects of our site may not function properly and a user may not have an optimal user experience without their use. Advertisers use cookies and other methods which are beyond the user’s or our control, but as stated, there are governed by strict rules and regulations in this regard as well.
-
-## 7\. Other Notes On User Information and Options
-
-As stated in the User Agreement7TOS of Stay.com, some user-generated content actually becomes the property of Stay by nature of this agreement. Testimonials by users, information gathered from some community activities like sweepstakes and other incentive based programs, feedback received on everything from bugs in the system to opinions of service features are kept for the expressed use of Stay.com
-
-## 8\. Minors and the Use of Stay.com
-
-Minor children (anyone under the age of 18) are prohibited from using Stay.com services. Stay.com does not promote the use of its services to minors, does not knowingly collect data from minors, and our services are not actually designed or implemented with minor children in mind. If Stay.com discovers that any account is actually under the control of a minor child, that account can and will be discontinued without prior notice.
-
-## 9\. Applicable Law
-
-As stated in the TOS and this privacy understanding, Stay.com gathers, stores and evaluates certain kinds of information about its users. This information is used so that Stay.com can provide services to you in the most expedient, safest and most flexible ways possible. Stay.com is a Norwegian company, and all this information is transferred from user, wherever they are in the world, to our servers here in Norway. Users agree that Stay.com, under the TOS and Privacy Policy agreements, may use said information in the manner so agreed to. Norwegian law is the primary governing authority with regard to the legal issues surrounding this information. However, Stay.com, and the users thereof, are also bound under other local and International laws as has been stated in these agreements.
-
-Privacy, and safety are major concerns to us all. It is the intent of Stay.com to protect its users safety as a primary funtion of operating this service. Of course, different jurisdictions offer different levels of protection, with separate and different remedies accordingly. It is incumbent on the user to determine their country’s policies, and also to determine whether those of Norway and the International community of law coincide. Stay.com bears no responsibility for any disparity either real or perceived.
-
-## 10\. Questions – Please Contact Us
-
-We welcome any other questions you may have with regard to these privacy statements, or any other questions you may have about Stay.com or the services we provide. Please feel free to contact us via email, or postal mail ( listed here) with any inquiries.
+[support@stay.com](mailto:support@stay.com)
