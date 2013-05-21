@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xmswiki.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120080600id_/http%3A//www.xmswiki.com/xms/XMS_Wiki_-_http%3A/wikis.aquaveo.com/xms/%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xmswiki.com privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521215451id_/http%3A//xmswiki.com/xms/XMS_Wiki_-_http%3A/wikis.aquaveo.com/xms/%3APrivacy_policy) for the most accurate reproduction.*
 
 # XMS Wiki - http://wikis.aquaveo.com/xms/:Privacy policy - XMS Wiki - http://wikis.aquaveo.com/xms/
 
