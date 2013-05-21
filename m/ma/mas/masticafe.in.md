@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the masticafe.in privacy policy that was archived on 2012-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121012123149id_/http%3A//www.masticafe.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the masticafe.in privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521032839id_/http%3A//www.masticafe.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy : www.MastiCafe.In
-
-Browse >
-
-[Home](http://www.masticafe.in/ "Browse to: Home") / Privacy Policy 
+# Privacy Policy | www.MastiCafe.In
 
 Privacy policy for [www.MastiCafe.In](http://masticafe.in/ "Masti Cafe")
 
