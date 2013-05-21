@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the betterbidding.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017060047id_/http%3A//www.betterbidding.com/index.php%3Fapp%3Dccs%26module%3Dpages%26section%3Dpages%26id%3D47) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betterbidding.com privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521215006id_/http%3A//www.betterbidding.com/index.php%3Fapp%3Dccs%26module%3Dpages%26section%3Dpages%26id%3D47) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **For Full Access and To Remove This Box** **:**  
-_**(or SCROLL DOWN to view the page you requested)**_ 1) Register for free [HERE](http://www.betterbidding.com/index.php?app=core&module=global&section=register)  
-2) Validate your account (check your email)  
+_**(or scroll down to view the page you requested)**_ 1) ~~Register for free[HERE](http://www.betterbidding.com/index.php?app=core&module=global&section=register)~~  
+2) ~~Validate your account (check your email)~~  
 3) Read [YOUR MESSAGES](http://www.betterbidding.com/index.php?app=members&module=messaging)  
 Please Use the Links On The Board for your **[PRICELINE](http://www.betterbidding.com/clicks/click.php?afsrc=1&id=40)** and **[HOTWIRE](http://www.betterbidding.com/clicks/click.php?afsrc=1&id=33)** purchases
 
@@ -87,7 +87,7 @@ That being said, "perfect security" does not exist on the Internet and no data t
 
 Please note that we cannot guarantee the security of member account Information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of member Information at any time. Therefore, although we use industry standard practices to protect your privacy, we do not promise, and you should not expect, that your personal Information or private communications will always remain private.
 
-If BetterBidding learns of a security systems breach we may attempt to notify you electronically so that you can take appropriate protective steps. By using this web site or providing personal Information to us you agree that we can communicate with you electronically regarding security, privacy and administrative issues relating to your use of this site. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should [notify us](http://help.yuku.com/)
+If BetterBidding learns of a security systems breach we may attempt to notify you electronically so that you can take appropriate protective steps. By using this web site or providing personal Information to us you agree that we can communicate with you electronically regarding security, privacy and administrative issues relating to your use of this site. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us
 
 ### Cookies, Web Beacons and Personalization
 
