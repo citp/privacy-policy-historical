@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the advanced-ip-scanner.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118032343id_/http%3A//www.advanced-ip-scanner.com/legal/pp.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the advanced-ip-scanner.com privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521215259id_/http%3A//www.advanced-ip-scanner.com/legal/pp.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -18,4 +18,4 @@ Famatech will strictly protect the security of your personal information, protec
 
 **Advanced IP Scanner** is a free, fast and easy-to-use network scanner for Windows. In a matter of seconds, Advanced IP Scanner can locate all the computers on your wired or wireless local network and scan their ports. The program provides easy access to various network resources, such as HTTP, HTTPS, FTP and shared folders. It also enables you to detect all network devices, including wireless devices and Wi-Fi routers. With **Advanced IP Scanner** , you can wake up and shut down remote groups of Windows machines. If you use [Radmin remote access software](http://www.radmin.com/products/radmin/ "Radmin remote access software"), you will also enjoy the improved [Radmin Server](http://www.radmin.com/products/radmin/ "Radmin Server") detection and integration capabilities, which allow you to connect to any scanned machine with Radmin Server. 
 
-Copyright © 1999-2012 Famatech. All rights reserved. 
+Copyright © 1999-2013 Famatech. All rights reserved. 
