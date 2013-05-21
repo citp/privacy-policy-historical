@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ehbox.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016035146id_/http%3A//www.ehbox.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ehbox.com privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521024150id_/http%3A//www.ehbox.com/privacy-policy.php) for the most accurate reproduction.*
 
 # EHBOX Booking Engine and CRS | Privacy Policy | Reservations System
 
