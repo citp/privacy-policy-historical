@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the ediblearrangements.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126091228id_/http%3A//www.ediblearrangements.com/Legal/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ediblearrangements.com privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521161332id_/http%3A//www.ediblearrangements.com/Legal/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Edible Arrangements – Privacy Policy
 
-Edible Arrangements, LLC. (" **Edible Arrangements** ," " **we** ," " **us** " or " **our** ") respects your privacy! We know you care how information about you is used and shared. This Website Privacy Policy (the " **Policy** ") describes our privacy practices with respect to information collected by or submitted to us on our [<www.ediblearrangements.com>](http://www.ediblearrangements.com/), [<www.eafg.net>](http://www.eafg.net/) and other websites (each a " **Website** "). This Policy is made a part of the Edible Arrangements [Terms of Use](https://web.archive.org/web/20121126091228id_/http%3A//www.ediblearrangements.com/Legal/TermsOfUse.aspx) (" **Terms** ").   
+Edible Arrangements, LLC. (" **Edible Arrangements** ," " **we** ," " **us** " or " **our** ") respects your privacy! We know you care how information about you is used and shared. This Website Privacy Policy (the " **Policy** ") describes our privacy practices with respect to information collected by or submitted to us on our [<www.ediblearrangements.com>](http://www.ediblearrangements.com/), [<www.eafg.net>](http://www.eafg.net/) and other websites (each a " **Website** "). This Policy is made a part of the Edible Arrangements [Terms of Use](https://web.archive.org/web/20130521161332id_/http%3A//www.ediblearrangements.com/Legal/TermsOfUse.aspx) (" **Terms** ").   
 By visiting our Website, you acknowledge and agree that you have read this Policy and agree to the collection, use and other processing of your information in accordance with the practices described in this Policy. If you do not agree to all of the terms, conditions and practices set forth herein, do not access the Website or any of its pages. 
 
 This Website is intended for adult use only, and we do not knowingly collect any personally identifiable information from anyone under the age of 18. 
 
-## SITE OPERATION AND PRODUCTION
+### SITE OPERATION AND PRODUCTION
 
 The Website is operated by Edible Arrangements and exists for the purpose of disseminating information about our company and our EDIBLE ARRANGEMENTS® arrangements and other products, and to providing a mechanism for users to order our EDIBLE ARRANGEMENTS® arrangements and other products online. 
 
@@ -20,13 +20,13 @@ Generally, we do not collect information that personally identifies individuals 
   * **Orders and Purchases:**   If you submit an order for an EDIBLE ARRANGEMENTS® arrangement or other product on this Website, you will be required to submit verifiable and accurate identity and contact information, shipping address and payment information. This personally identifiable information will be used for billing purposes and to fill products orders, and may be retained for record keeping and legal purposes along with the content of your order. We utilize industry-standard Secure Sockets LayerSM (" **SSL** ") technology to allow for the encryption of all product orders submitted on our Website in order to protect your credit card and other information. For additional details about our information security practices please see the section entitled SECURITY below. If you are uncomfortable with submitting your credit card or other order information via the Internet for any reason, please feel free to call in your order at **1-877-** DoFruit®.
   * **Accounts:**   We permit our Website users to register for an EDIBLE ARRANGEMENTS® account for their personal use (" **User Account** ") and/or for their organization’s use (" **Corporate Account** "). If you decide to register for a User Account or a Corporate Account (collectively, " **Accounts** "), you will be required to provide us with your name and contact information (including organization information for Corporate Accounts), and to choose a username and password. For each Account, we will maintain and allow Account holders to view order history and order shipment status. Account registrants may, but are not required to, provide us their credit card information for express checkout for orders on our Website (so that credit card information does not have to re-entered next time an order is placed from the Account); set up birthday or gift reminders within their Accounts; and create address book entries for recipients of the EDIBLE ARRANGEMENTS® arrangements or other products they order on this Website. We will use this information to customize the experience on our Website. We utilize industry-standard SSL technology to allow for the encryption of all Account registrations on our Website. For additional details about our information security practices please see the section entitled SECURITY below.
   * **Franchisee Applications:**   We permit users who are interested in franchise opportunities with Edible Arrangements to submit franchisee applications online through this Website. If you choose to submit a franchisee application through this Website, we will ask you to provide detailed and verifiable information, including your name, your spouse’s name, your contact information, your Social Security Number, and information about your work and professional experience, your educational background and personal and/or business finances. In addition, we will ask for permission to conduct a check regarding your credit history, work experience, and general character. If you do not consent, we will not be able to process your application. We utilize industry-standard SSL technology to allow for the encryption of all franchisee applications submitted on our Website. For additional details about our information security practices please see the section entitled SECURITY. If you are uncomfortable with submitting a [franchisee application](http://www.eafranchise.com/brochure/2009-EA-franchiseapplication.pdf) via the Internet for any reason, please feel free to print a copy of the franchisee application and submit a completed application via facsimile (click here for our fax number) or by mail (click here for our address).
-  * **Electronic Mail:**   Edible Arrangements may retain the content of any e-mail that Edible Arrangements receives, the e-mail address from which it is sent, and our response. Content and other information in or related to e-mails sent by you to Edible Arrangements may be used as testimonials or for other marketing purposes in accordance with the [Terms](https://web.archive.org/web/20121126091228id_/http%3A//www.ediblearrangements.com/Legal/TermsOfUse.aspx). Please be aware that when you receive a receipt acknowledging your e-mail or your submission of an order or application form, it means that the message or form has been routed into the Internet, and not that it has been received by us.
+  * **Electronic Mail:**   Edible Arrangements may retain the content of any e-mail that Edible Arrangements receives, the e-mail address from which it is sent, and our response. Content and other information in or related to e-mails sent by you to Edible Arrangements may be used as testimonials or for other marketing purposes in accordance with the [Terms](https://web.archive.org/web/20130521161332id_/http%3A//www.ediblearrangements.com/Legal/TermsOfUse.aspx). Please be aware that when you receive a receipt acknowledging your e-mail or your submission of an order or application form, it means that the message or form has been routed into the Internet, and not that it has been received by us.
   * **Promotions and Sweepstakes:**   From time to time, we may offer promotions or sweepstakes on our Website. When you enter a promotion or sweepstakes, we will require the submission of your name, e-mail address and postal address. We will use this personally identifiable information for purposes of administering the promotion or sweepstakes in accordance with its rules. Please note, we may post the name, likeness, and other information about contest winners in accordance with the official promotion or sweepstakes rules (but we do not publish your e-mail or street address information) on the Website and you hereby grant us permission to do so.
   * **e-Postcards:**   From time to time, we also may give you the option to send an e-Postcard to a friend. An e-Postcard is a fun, easy way for you to electronically share images of an EDIBLE ARRANGEMENTS® arrangement or product with someone else. If you elect to send an e-Postcard, you will be required to provide your name, your e-mail address, and the recipient's name and e-mail address. You also will be allowed to type in a brief text message. We will use this information to transmit the e-Postcard and/or a link to the e-Postcard on the Internet on your behalf. We may use the recipient’s e-mail address to send him or her information regarding us, our products, services, promotions, or upcoming events that we think may be of interest to the recipient. The recipient can opt-out of receiving such e-mails by following the instructions in any such e-mail.
 
 
 
-## COOKIES AND WEB BEACONS
+### COOKIES AND WEB BEACONS
 
 A cookie is a piece of data stored on the user’s hard drive containing information about the user. Our Website employs cookies, but will not use cookies to obtain data from your hard drive. Cookies enable us to track and target the interests of our users to enhance the experience on our Website. Users can set their browsers or third party software to reject cookies. If you reject the cookie, you may be unable to use portions of our Website that require registration, some pages of the Website might not function properly, and the Website experience will not be capable of being tailored to you from visit to visit. Please consult your web browser's Help documentation for more information about how to turn cookies on and off for your browser. Cookies are placed on your computer, and accordingly we neither store cookies on our computers nor forward them to any external parties. 
 
@@ -34,7 +34,7 @@ Certain pages of this Website and promotional e-mail messages or newsletters we 
 
 We use IP addresses and web server log files, and information we receive through the use of cookies and Web beacons to analyze trends, administer this Website, track users’ movement, and gather broad demographic information for aggregate use. Information of this type may be combined with other sources of information for these purposes. Specifically, through the use of web server log files any or all of the following information may be accessed, collected, analyzed and stored during or after your visits to our Website: the name of the domain from which you access the Internet; the date and time you access our Website; the pages that you visit on our Website and the sequence in which you visit them; the amount of time that you spend on any given page of our Website; the Internet address of a Website that you visited immediately before visiting our Website; the Internet address of a Website from which you linked directly to our Website, if any; the Internet address of a Website that you visit immediately after leaving our Website; the type of operating system on your computer; and the type of browser that you are using to view a Website. 
 
-## SHARING INFORMATION
+### SHARING INFORMATION
 
   * **Transaction Requirements:**   We sometimes retain the services of franchisees or third parties to perform functions or services on our behalf. For example, we use service providers to send e-mails on our behalf; and our franchisees may create and ship the EDIBLE ARRANGEMENTS® products that you order on our Website. To our knowledge, these companies do not retain, share, store or use personally identifiable information for any secondary purposes. However, we do not undertake to confirm, investigate, or police their practices.
   * **Our Affiliates:**   From time to time, we may send your information to our affiliated companies, including Netsolace, Inc., if for example, we believe that they may have information about franchising or other opportunities that may be of interest to you.
@@ -46,7 +46,7 @@ We use IP addresses and web server log files, and information we receive through
 
 We will share aggregated demographic information with our affiliates, franchisees, subsidiaries, and other third parties. This type of information is not linked to any personally identifiable information that can identify any individual person. 
 
-## SITE SECURITY
+### SITE SECURITY
 
 We have reasonable and appropriate security measures in place to attempt to protect against the loss, misuses, and alteration of your personally identifiable information under our control. We have taken reasonable steps to confirm the information is retained in secured facilities and that reasonable measures have been implemented for protection from unauthorized access. 
 
@@ -54,27 +54,22 @@ This Website utilizes industry-standard SSL technology to allow for the encrypti
 
 However, no security system is impenetrable. We cannot guarantee the security of our Website or databases, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the Internet. We ask that you do your part by maintaining any usernames and passwords you use to access the Internet or this Website strictly confidential. 
 
-## YOUR INFORMATION AND OPTING-OUT
+### YOUR INFORMATION AND OPTING-OUT
 
 If you do not wish to receive periodic mailings or e-mails, or telephone contact concerning our Website, our products and services, holiday and gift reminders and/or upcoming events, you may opt-out of receiving such marketing or promotional communications by sending us a written request to the address listed below or by following the opt-out instructions in the e-mail you receive from us. However, if you choose to opt-out of marketing or promotional communications, we reserve the right to contact you regarding your orders, technical support and any other matter that might affect our service to you, and/or your use of the Website, as applicable. 
 
-## ACCESS TO, AMENDMENT, AND DELETION OF INFORMATION
+### ACCESS TO, AMENDMENT, AND DELETION OF INFORMATION
 
 You can ask to review, correct, update, or delete the information that we maintain about you, including your preferences, at any time by sending a written request to the postal or e-mail address set out below, or following the instructions in any promotional e-mail you receive from us. We may take a reasonable period of time to respond. If you request the deletion or change of information on our system, such information may be retained for a period in our backup systems as a precaution against systems failures. Some information may be retained for longer periods as required by law, contract or auditing requirements. 
 
-## LINKS
+### LINKS
 
 The Website contains links to other sites. Please be aware that Edible Arrangements is not responsible for the terms of use or privacy practices of such other sites unless otherwise expressly provided by Edible Arrangements. We encourage our users to be aware when they leave our Website and to read the privacy statements of each and every website. This Policy applies solely to information collected on the Website. 
 
 This Privacy Policy became effective on June 06, 2005. We reserve the right to modify or amend this Policy at any time with or without notice, and for any reason. Changes to this Policy shall be effective when posted. In case of any material change to the Policy, we will provide notice on the Website of any update to the Policy and post the updated Policy. You are responsible for reviewing this Policy each time you use or access this Website. Your continued use of this Website is an acknowledgment and consent to any terms contained in this Policy, as it may be amended from time to time. 
 
+### QUESTIONS
+
 If you have any questions regarding this Policy, please contact us at: 
 
-Edible Arrangements, LLC.   
-95 Barnes Road   
-Wallingford, CT 06492-1800 USA   
-Telephone: +1 203 774-8000   
-Facsimile: +1 203 774-0531   
-E-mail: [privacypolicy@ediblearrangements.com](mailto:privacypolicy@ediblearrangements.com)
-
-© 2012 Edible Arrangements, LLC. All rights reserved.
+© 2013 Edible Arrangements, LLC. All rights reserved.
