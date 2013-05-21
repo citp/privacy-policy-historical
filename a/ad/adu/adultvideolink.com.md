@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adultvideolink.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520051433id_/http%3A//www.adultvideolink.com/avlstore/customer/help.php%3Fcid%3D%26section%3Dbusiness) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adultvideolink.com privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521130034id_/http%3A//www.adultvideolink.com/avlstore/customer/help.php%3Fcid%3D%26section%3Dbusiness) for the most accurate reproduction.*
 
 # - Help section
 
@@ -65,8 +65,8 @@ Miscellaneous
 
 The Owner may revise this Privacy Policy at any time by updating this posting. 
 
-Last updated: January 1, 2012 
+Last updated: January 1, 2013 
 
-© 2003 - 2012 East Media Group, Inc. 
+© 2003 - 2013 East Media Group, Inc. 
 
  
