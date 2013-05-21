@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eurekster.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231160925id_/http%3A//www.eurekster.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurekster.com privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521184434id_/http%3A//www.eurekster.com/privacy.php) for the most accurate reproduction.*
 
-# Eurekster Privacy Policy
+# Eurekster.com
 
 _Last updated on 19 October, 2005_
 
@@ -8,15 +8,14 @@ If you have questions or concerns about eurekster's collection, use, or disclosu
 
 Like you, we hate the thought of someone misusing personal information. Here are our key promises to you:
 
-1.      We never provide your email address or other Personally Identifiable Information to anyone not described in this Privacy Policy unless you have given us permission.
+  1. We never provide your email address or other Personally Identifiable Information to anyone not described in this Privacy Policy unless you have given us permission.
+  2. We will do all we can to protect your identity so you are not contacted by people you don't want to contact you due to your joining eurekster.
+  3. If you decide at any time to unsubscribe from eurekster, your connections to the rest of your network are removed, and we will not contact you again.
+  4. Eurekster uses the RealContacts Networking Service to provide its socially networked search service. The RealContacts Privacy Policy applies to the information that You and We share with RealContacts and is incorporated and included here by reference.
 
-2.      We will do all we can to protect your identity so you are not contacted by people you don't want to contact you due to your joining eurekster. 
 
-3.      If you decide at any time to unsubscribe from eurekster, your connections to the rest of your network are removed, and we will not contact you again. 
 
-4.      eurekster uses the RealContacts Networking Service to provide its socially networked search service. The RealContacts Privacy Policy applies to the information that You and We share with RealContacts and is incorporated and included here by reference.
-
-## The information we collect
+### The information we collect
 
 If you just browse our web site or use our search service and do not sign-up for the eurekster service, we will only collect anonymous information from you, such as tracking the web pages you visit, to help us improve the service.
 
@@ -24,33 +23,31 @@ If you sign-up for the service, we will collect Personally Identifiable Informat
 
 We collect three types of information from you:
 
--         Personally Identifiable Information that you submit to us when you sign-up for the service or when you use the service as a logged-in user. Your Personally Identifiable Information is information that identifies or can be used to identify, contact, or locate you, or from which your identification or contact information can be derived. Examples include your name, email address, telephone number, etc. Note that if you enter Personally Identifiable Information as keywords intended for other Eurekster Services users to see or in a Eurekster searchbox on the Eurekster website with the private search box unticked or a 3rd party website with a Eurekster provided searchbox, your “eurekster Search” terms or on other websites, that information will be visible to others in the displayed list of searches or websites. 
+  1. Personally Identifiable Information that you submit to us when you sign-up for the service or when you use the service as a logged-in user. Your Personally Identifiable Information is information that identifies or can be used to identify, contact, or locate you, or from which your identification or contact information can be derived. Examples include your name, email address, telephone number, etc. Note that if you enter Personally Identifiable Information as keywords intended for other Eurekster Services users to see or in a Eurekster searchbox on the Eurekster website with the private search box unticked or a 3rd party website with a Eurekster provided searchbox, your “eurekster Search” terms or on other websites, that information will be visible to others in the displayed list of searches or websites.
+  2. Passively Collected Personally Identifiable Information that we create in the form of statistics and logs. This information may be linked to your Personally Identifiable Information that you submit to us in order to track, improve, and personalize the service for you. Examples include Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks.
+  3. Anonymous information, meaning information from which your Personally Identifiable Information cannot be extracted or deduced. An example is statistics on how often users visit the various web pages.
 
--         Passively Collected Personally Identifiable Information that we create in the form of statistics and logs. This information may be linked to your Personally Identifiable Information that you submit to us in order to track, improve, and personalize the service for you. Examples include Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks. 
 
--         Anonymous information, meaning information from which your Personally Identifiable Information cannot be extracted or deduced. An example is statistics on how often users visit the various web pages.
 
 We do not collect or match information about you from other sources, such as public records or bodies, or private organizations.
 
 We do not knowingly collect information from children.
 
-## What the information is used for
+### What the information is used for
 
 You may choose to make some of your Personally Identifiable Information and other information visible to other users in your network of contacts on eurekster, or possibly beyond. This is necessary for the operation of some parts of the service, and is under your control. An example of information you may choose to disclose is your email address when you send invitations to others to join eurekster. 
 
 We use your Personally Identifiable Information and Anonymous Information for the following purposes:
 
--         Operation of the service
+  1. Operation of the service
+  2. Technical administration of the web site
+  3. Research and Development, to improve the services and develop new ones
+  4. Customer support and administration
+  5. Marketing, but only to market specific new eurekster services and features to you, through the use of emails and newsletters. You can request not to receive such communication ("opt-out"), by changing your notification preferences under "My Account," after logging on.
 
--         Technical administration of the web site
 
--         Research and Development, to improve the services and develop new ones
 
--         Customer support and administration
-
--         Marketing, but only to market specific new eurekster services and features to you, through the use of emails and newsletters. You can request not to receive such communication ("opt-out"), by changing your notification preferences under "My Account," after logging on.
-
-## Disclosure of your information
+### Disclosure of your information
 
 This section describes the circumstances in which we disclose your information to others.
 
@@ -72,7 +69,7 @@ We may disclose your personal information if we believe the law requires us to d
 
 We do not trade in your Personally Identifiable Information with any other person or organization not mentioned above without your specific permission.
 
-## Our use of Cookies
+### Our use of Cookies
 
 A "cookie" is a small data file transferred by our web site to your computer's hard drive. We send cookies when you visit our web site or use the service. Accepting the cookies used on our site does not give us access to information on your computer other than the cookie itself, but we may use the cookies to identify your computer. 
 
@@ -84,23 +81,23 @@ We urge you to not check "remember my settings on this computer" when logging-in
 
 Most browsers automatically accept cookies, but you can usually refuse cookies or selectively accept certain cookies by adjusting the preferences in your browser.
 
-## Use of the Internet to transfer information
+### Use of the Internet to transfer information
 
 When you send or retrieve information from our web site, the information will travel over the Internet, perhaps even internationally. The security and safety of your information while in transit is outside our control. 
 
-## Transfer of your Information to other Countries
+### Transfer of your Information to other Countries
 
 You consent to the transfer of your information to countries if and when required for operation of the current and future Services, subject to this Privacy Policy.
 
-## The European Union Data Protection Directive
+### The European Union Data Protection Directive
 
 If you reside in the European Union (EU) or if any transfer of information between you and the Services is governed by the European Union Data Protection Directive or national laws implementing that Directive, then you consent to the transfer of such information within and outside of the European Union to countries as required by the current and future Services, subject to this Privacy Policy.
 
-## Retention of your information
+### Retention of your information
 
 If you are a member, we will retain your Personally Identifiable Information for as long as you are a member of eurekster. If you unsubscribe from the service, we reserve the right but not the obligation to delete your information from our records.
 
-## Accessing, correcting, updating, or removing your information 
+### Accessing, correcting, updating, or removing your information
 
 If you wish to access, correct, update, or remove your Personally Identifiable Information that you submitted to us, you can do so by logging on to eurekster and selecting "Manage My Account". If you submitted the information as part of a service, such as setting up a Swicki™ service, you can directly edit the information in the relevant service area of the web site.
 
@@ -114,35 +111,33 @@ We will reply to you by email within one week, at no charge.
 
 We allow you to challenge the Personally Identifiable Information that we hold about you and, where appropriate and possible, you may have it erased, corrected, or completed.
 
-## Notification of changes to this Privacy Policy
+### Notification of changes to this Privacy Policy
 
 This Privacy Policy is subject to change at any time. If we change it, we will update the "last updated" date at the top of this policy. If we make material changes, we will notify you on the "What's New" section of the web site, that you see on your personalized home page after logging-in. 
 
 If the change is to use your Personally Identifiable Information for new purposes related to the eurekster services within eurekster, our sub-contractors, and current business partners, we offer you these ways to opt-out from those new purposes:
 
--         You can login to your account at [http://www.eurekster.com](http://www.realcontacts.com/). This is the fastest and easiest way. In some cases, we may offer you the option to opt-out of the new usage. In all cases you have the option to unsubscribe from the service.
+  1. You can login to your account at [http://www.eurekster.com](http://www.realcontacts.com/). This is the fastest and easiest way. In some cases, we may offer you the option to opt-out of the new usage. In all cases you have the option to unsubscribe from the service.
+  2. By sending an email to [privacy@eurekster.com](mailto:privacy@eurekster.com)
 
--         by sending an email to [privacy@eurekster.com](mailto:privacy@eurekster.com)
+
 
 If the change is to use your Personally Identifiable Information for a new service with a new business partner, we would inform you specifically about the new service in the "What's New" section of the web site and possibly through our email newsletter, unless you have selected to not receive newsletters. We would only disclose your Personally Identifiable Information to the new business partner if you specifically consent ("opt-in") to the new service.
 
-## Communications from us
+### Communications from us
 
 We send you a welcoming email after you sign-up to tell you how to get started with the service. Established members will occasionally receive information on our services, announcements, and a newsletter. Out of respect for your privacy we give you the option to opt-out and not receive many of these types of communications.
 
-Newsletter:
-
+**Newsletter:**  
 By default all users are subscribed to our newsletters. You may choose to not receive them by logging-on and changing your preferences under "My Account."
 
-Service Announcements:
-
+**Service Announcements:**  
 On rare occasions it is necessary to send you a strictly service related announcement. For instance, if our service is suspended for maintenance for an extended period we might send you an email. It is not possible for you to opt-out of these communications, although you do have the option to unsubscribe from the service.
 
-Customer Service:
-
+**Customer Service:**  
 We communicate with you to provide services you request and in response to issues with your account. We generally reply by email, but we will reply by phone or by post if circumstances require it.
 
-## Security 
+### Security
 
 eurekster will always make every effort to protect your information. When sensitive information is submitted via the web site it is protected both on-line and off-line. 
 
@@ -152,10 +147,10 @@ When you use a computer other than your own to access eurekster, we urge you to 
 
 We act to protect your information off-line. Our services operate in a locked environment with access control and intrusion detection. All information relating to you is restricted in our organization. Only those employees and sub-contractors who specifically need the information to perform their job (such as our support team) are given access to Personally Identifiable Information. All employees are obliged to sign our Employee Privacy Agreement, and all sub-contractors have agreed to not use your Personally Identifiable Information for any other purpose and to not disclose it to anyone else. 
 
-## Links
+### Links
 
 The web site contains links to other sites. Please be aware that we are not responsible for the privacy practices of other sites. We encourage you to be aware of this when you leave our site and to read the privacy statements of other sites. This privacy statement applies solely to information collected by web sites under the eurekster.com domain. 
 
-## Contacting eurekster 
+### Contacting eurekster
 
 If you have questions or suggestions about this privacy policy, please contact the Privacy Officer at eurekster by email at [privacy@eurekster.com](mailto:privacy@eurekster.com)
