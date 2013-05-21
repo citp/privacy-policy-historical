@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the renesas.com privacy policy that was archived on 2012-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121202182755id_/http%3A//am.renesas.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the renesas.com privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521100847id_/http%3A//www.renesas.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Renesas Electronics America
+# Privacy Policy | Renesas Electronics
+
+The following page content corresponds to the products marketed in Japan.  
+If you do not live in Japan, please 
 
 ## Privacy Policy
 
