@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the strongmail.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225224039id_/http%3A//www.strongmail.com/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the strongmail.com privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521230627id_/http%3A//www.strongmail.com/site/privacy-policy) for the most accurate reproduction.*
 
-# Social Media & Email Marketing Company Privacy Policy | StrongMail
+# Email Marketing & <br> Cross-Channel Company: <br> Privacy Policy | StrongMail
 
-## StrongMail Privacy Policy
+## Privacy Policy
 
 This Privacy Policy describes the online information practices of StrongMail Systems, Inc. and StrongMail Systems UK, Ltd (each and together “StrongMail”), including the collection of information related to you, and, where applicable for a social media product or service, information related to your customers, clients and/or users and the information about others (“friends”) that they choose to share (including without limitation personal information or PII). This policy describes how StrongMail does or will use, process, store and protect such information. Our primary purpose in collecting information is to provide our products and services through a safe, effective, efficient and rewarding experience. Unless otherwise stated, this policy does not apply to offline information collection.
 
