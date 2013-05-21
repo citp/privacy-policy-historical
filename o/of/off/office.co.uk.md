@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the office.co.uk privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016040543id_/http%3A//www.office.co.uk/info/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the office.co.uk privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521163509id_/http%3A//www.office.co.uk/info/privacy.shtml) for the most accurate reproduction.*
 
 # Office Shoes | Privacy Policy
 
