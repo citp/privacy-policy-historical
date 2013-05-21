@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the perfectconnectiongolfswing.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014063919id_/http%3A//perfectconnectiongolfswing.com/privacy-policyV1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perfectconnectiongolfswing.com privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521084337id_/http%3A//perfectconnectiongolfswing.com/privacy-policyV1.html) for the most accurate reproduction.*
 
 # Perfect Connection Golf Swing Privacy Policy
 
@@ -34,7 +34,7 @@ Third party vendors, including Google, show our ads on sites on the internet.
 
 Third party vendors, including Google, use our cookies to serve CJH Interactive Sports LLC dba PerfectConnection Golf Swing ads based on a user's prior visits to our website. 
 
-Users may opt out of Google's use of cookies by visiting the [Google advertising opt-out page](http://www.google.com/privacy_ads.html). (Alternatively you can opt out of a third party vendor's use of our cookies by visiting the [Network Advertising Initiative opt out page](http://www.networkadvertising.org/managing/opt_out.asp).)
+Users may opt out of Google's use of cookies by visiting the [Google advertising opt-out page](http://www.google.com/privacy_ads.html). (Alternatively you can opt out of a third party vendor's use of our cookies by visiting the [Network Advertising Initiative opt out page](http://www.networkadvertising.org/managing/opt_out.asp).)
 
 **How can I disable the display of CJH Interactive Sports LLC dba PerfectConnection Golf Swing personalized advertisements?**
 
