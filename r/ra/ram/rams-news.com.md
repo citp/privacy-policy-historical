@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rams-news.com privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119020101id_/http%3A//www.rams-news.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rams-news.com privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521193723id_/http%3A//www.rams-news.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Rams News Now! - The Latest Scoop On The St. Louis Rams - Rams News Now!
 
