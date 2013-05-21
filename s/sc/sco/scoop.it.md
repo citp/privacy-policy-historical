@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scoop.it privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225030508id_/http%3A//www.scoop.it/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scoop.it privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521092234id_/http%3A//www.scoop.it/privacy-policy) for the most accurate reproduction.*
 
 # Scoop.it
 
@@ -160,8 +160,8 @@ FOR RESIDENTS OF CALIFORNIA ONLY. Section 1798.83 of the California Civil Code r
 
 Scoop.it Inc.  
 Attn: California Privacy Rights  
-169 11th Street  
-San Francisco, CA 94103 
+48 2nd Street   
+San Francisco, CA 94105 
 
 Within thirty (30) days of receiving such a request, we will provide a list of the categories of Personal Information disclosed to third parties for third-party direct marketing purposes during the immediately preceding calendar year, along with the names and addresses of those third parties. This request may be made no more than once per calendar year. We reserve our right not to respond to requests submitted other than to the address specified in this Section. 
 
@@ -187,7 +187,7 @@ U.S. Postal Mail:
 
 Scoop.it Inc.  
 Contact Regarding Scoop.it Website  
-169 11th Street  
-San Francisco, CA 94103
+48 2nd Street   
+San Francisco, CA 94105
 
 © 2011 Scoop.it Inc. -- All Rights Reserved. Updated: October 22, 2011 
