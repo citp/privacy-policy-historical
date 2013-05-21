@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the usopen.org privacy policy that was archived on 2012-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120711132724id_/http%3A//www.usopen.org/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usopen.org privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521215027id_/http%3A//www.usopen.org/privacy_policy) for the most accurate reproduction.*
 
 # privacy policy | US OPEN
-
-### Privacy
-
-Monday, February 23, 2009 4:46 AM ET 
 
 **Welcome** Welcome to [www.usopen.org](http://www.usopen.org/en_US/index.html). This site (the "Site") is owned by the United States Tennis Association (the "USTA"). This Privacy Policy is designed to tell you about our practices regarding collection, use and disclosure of information that we may collect from and about you. Please be sure to read this entire Privacy Policy before using or submitting information to this Site. This Site is intended for use by residents of the United States. 
 
