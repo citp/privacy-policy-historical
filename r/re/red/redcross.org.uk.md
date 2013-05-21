@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redcross.org.uk privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523224603id_/http%3A//www.redcross.org.uk/Header-Footer-Links/Privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redcross.org.uk privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521165903id_/http%3A//www.redcross.org.uk/Header-Footer-Links/Privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy and cookies document | British Red Cross
 
@@ -110,6 +110,7 @@ We use cookies to
   * remember your information so we can give you tailored information in future. For example, if you type your postcode in our ‘in your area’ search box, we can show you local British Red Cross information the next time you visit. 
   * monitor how people use our site so we can improve any problem areas. 
   * enhance our website with information from other websites, for example YouTube videos and Google Maps. We work hard with these websites to ensure they use cookies appropriately, but – because third party websites set their own cookies – we don’t have direct control over how they use them. However, you can manually block these cookies using your internet browser. 
+  * We have some relationships with carefully-selected and monitored suppliers. They may also set cookies during your visit to be used for remarketing purposes - to show you different products and services based on what you appear to be interested in. If you'd like to opt out, please go to the [Network Advertising Initiative website](http://www.networkadvertising.org/choices) (opens in a new window - please note that we're not responsible for the content of external websites)
 
 
 
