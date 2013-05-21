@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pricegong.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225072834id_/http%3A//www.pricegong.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pricegong.com privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521072906id_/http%3A//www.pricegong.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Comparison Shopping – PriceGong Add-on - Privacy Policy
 
@@ -23,6 +23,8 @@ We do not share any Personally Identifiable Information with any third parties, 
 PriceGong uses cookies that enable our servers to recognize and identify your web browser. This information helps us to customize your online experience and make it more convenient for you when using PriceGong.
 
 While we try to link only to websites that we believe share our respect for privacy, please be aware that PriceGong is not responsible for the privacy practices or the content of other websites.
+
+PriceGong Version 10.6.8+ is certified as a Trusted Download Program by TRUSTe signifying that the Pricegong application has been tested TRUSTe for compliance with TRUSTe's TDP program requirements including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding the PriceGong application, please contact us at [support@pricegong.com](mailto:support@pricegong.com). If you are not satisfied with our response you can contact TRUSTe [here](http://clicktoverify.truste.com/pvr.php?page=validate&softwareProgramId=152&sealid=112).
 
 **Personal Identifiable Information (PII) Collection:** If you choose to contact PriceGong support in any mean of communication you might be asked to provide the following information: Mandatory information-Contact Name, e-mail, Optional information- User’s Company, Phone Number or other personal information which constitute PII under law. Any PII that we collect is stored and processed on servers located in the U.S. and will not be shared with any third parties.
 
