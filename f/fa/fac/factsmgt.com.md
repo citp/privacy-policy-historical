@@ -1,18 +1,10 @@
-> *The following text is extracted and transformed from the factsmgt.com privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119213928id_/http%3A//www.factsmgt.com/page.cfm%3Fp%3D398) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the factsmgt.com privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521235559id_/http%3A//www.factsmgt.com/page.cfm%3Fp%3D398) for the most accurate reproduction.*
 
 # FACTS: Privacy & Security
 
-  
-  
-| 
-
-**** 
-
-****  **For Tuition Management and Grant & Aid Assessment**
-
 Data collected and stored by FACTS Management Company (the “Company”) through the above products is governed by your Institution's privacy policy. This data will not be used by the Company in any manner not approved by the Institution unless required by law (for example, a court order or subpoena). Access to the data shall be restricted to authorized associates and shall be used only for the purpose of providing service to you or the Institution. The Company maintains physical, procedural, and electronic safeguards to protect data from being accessed by unauthorized third parties.
 
-**For Web Browsing**  
+ **For Web Browsing**  
 The Company is committed to providing you a useful and enjoyable online experience, and to protecting your personal information during your visit. When you access a Company Web site (Company Site), you can be sure that your information is protected by the latest security and authentication techniques. We may collect information from your visit, in order to personalize and improve upon your experience with us, but all personally identifiable information we collect is maintained securely.
 
  To access information and send email via a Company Site, you will need a browser that supports the use of Secure Sockets Layer (Netscape 4.0 or greater, MS Internet Explorer 5.0 or greater, etc). This encryption technology helps ensure the authenticity of your online sessions and secures data being transmitted over the public Internet.
@@ -27,6 +19,4 @@ The Company is committed to providing you a useful and enjoyable online experien
 
  We don’t knowingly collect, maintain or use personally identifiable information on the Company Sites from children under age 13, unless first complying with the Children’s Online Privacy Protection Act. If we find out we have unknowingly collected such information we will take all reasonable measures to delete that information from our system as soon as possible. We are not responsible for the collection and use of information by companies or individuals unaffiliated with us whose Web sites may contain links to ours, including vendors where you may shop.
 
- Please note that when you shop with a vendor who is linked to a Company Site, even though you may have started your visit at a Company Site, and even though Company pages may still appear, your transactions are completed with a separate organization, not with us. We don’t share your personally identifiable information with them, but information you choose to share with them will fall under their privacy policies, which we encourage you to review. We carefully select other organizations in an effort to give you the value and excellent customer service you expect from us.  
-  
----|---
+ Please note that when you shop with a vendor who is linked to a Company Site, even though you may have started your visit at a Company Site, and even though Company pages may still appear, your transactions are completed with a separate organization, not with us. We don’t share your personally identifiable information with them, but information you choose to share with them will fall under their privacy policies, which we encourage you to review. We carefully select other organizations in an effort to give you the value and excellent customer service you expect from us.
