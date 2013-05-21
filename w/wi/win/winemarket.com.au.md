@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winemarket.com.au privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120003147id_/http%3A//www.winemarket.com.au/s.nl/c.875702/it.I/id.32/.f%23WMprivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winemarket.com.au privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521044413id_/http%3A//www.winemarket.com.au/s.nl/c.875702/it.I/id.32/.f%23WMprivacyPolicy) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
@@ -19,7 +19,7 @@
   * To allow us to better service you in responding to your customer service requests. 
   * To quickly process your transactions. 
   * To administer a contest, promotion, survey or other site feature.
-  * If you have opted-in to receive our e-mail newsletter, we may send you periodic e-mails. If you would no longer like to receive promotional e-mail from us, please refer to the "How can you opt-out, remove or modify information you have provided to us?" section below. If you have not opted-in to receive e-mail newsletters, you will not receive these e-mails. Visitors who register or participate in other site features such as marketing programs and 'members-only' content will be given a choice whether they would like to be on our e-mail list and receive e-mail communications from us. 
+  * If you have opted-in to receive our e-mail offers we may send you periodic e-mails. If you would no longer like to receive promotional e-mail from us, please refer to the "How can you opt-out, remove or modify information you have provided to us?" section below. If you have not opted-in to receive e-mail newsletters, you will not receive these e-mails. Visitors who register or participate in other site features such as marketing programs and 'members-only' content will be given a choice whether they would like to be on our e-mail list and receive e-mail communications from us. 
 
 
 
@@ -31,7 +31,7 @@
 
 However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. 
 
-**How can you opt-out, remove or modify information you have provided to us?** To modify your e-mail subscriptions, please let us know by modifying your preferences in the "My Account" section. Please note that due to email production schedules you may receive any emails already in production. To delete all of your online account information from our database, sign into the "My Account" section of our site and remove your shipping addresses, billing addresses & payment information. Please note that we may maintain information about an individual sales transaction in order to service that transaction and for record keeping. 
+**How can you opt-out, remove or modify information you have provided to us?** To modify your e-mail subscriptions, please use the Unsubscribe link provided at the bottom of every marketing email. Please note that due to email production schedules you may receive any emails already in production. To modify your call or mail subscription, please visit the 'My Account' section and update your status. Alternatively please call or email us with your request, modification, or to inform us of any issues. To delete all of your online account information from our database, sign into the "My Account" section of our site and remove your shipping addresses, billing addresses & payment information. Please note that we may maintain information about an individual sales transaction in order to service that transaction and for record keeping. 
 
 **Third party links.** In an attempt to provide you with increased value, we may include third party links on our site. These linked sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these linked sites (including if a specific link does not work). 
 
