@@ -1,15 +1,16 @@
-> *The following text is extracted and transformed from the styleever.com privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205151807id_/http%3A//www.styleever.com/pages/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the styleever.com privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521132731id_/http%3A//www.styleever.com/index.php/privacy-policy) for the most accurate reproduction.*
 
-# Styleever.com | Privacy Policy
+# Privacy Policy
 
-_**General Principles:  
-**_
+### Privacy Policy
+
+**General Principles:**
 
 Protecting your privacy is very important to us. We have accordingly developed this Privacy Policy to protect your personal information and keep it confidential. We do everything we reasonably can to protect your rights of privacy on systems and the Website controlled by us, but we are not liable for any unauthorised or unlawful disclosures of your personal and confidential information made by third parties who are not subject to our control, for example advertisers and websites that have links to our Website. You should take note that the information and privacy practices of our business partners, advertisers, sponsors or other sites to which we provide hyperlinks, may be different from ours.We categorise information about you (collectively referred to as "Personal Information") as follows:
 
-a) Profiling Information: Information which you provide when you register for a Service, which may include some or all of the following: - Information about your personal identity such as gender, marital status, age, preferences, likes and dislikes etc.; - Your financial information such as your banking details and any information relating to your income and lifestyle levels; and - Your contact details such as your physical addresses, postal addresses, telephone and fax numbers and the like. - In the case of Facebook alligned services (if so opted by you), publicly available information of your friends, their likes and dislikes, etc.
+a) Profiling Information: Information which you provide when you register for a Service, which may include some or all of the following: - Information about your personal identity such as gender, marital status, age, preferences, likes and dislikes etc. - Your financial information such as your banking details and any information relating to your income and lifestyle levels; and - Your contact details such as your physical addresses, postal addresses, telephone and fax numbers and the like. - In the case of Facebook alligned services (if so opted by you), publicly available information of your friends, their likes and dislikes, etc.
 
-b) Payment and Account Information: Your account history with us including (without limitation) all billing information and communications, payment history etc. We maintain this in encrypted form on secure servers.
+b) Payment and Account Information: We maintain your payment account history in an encrypted form on secured servers for all billing information
 
 c) Service Usage: Information about your navigation using our Services, for example the URLs of websites, which you visit and from which you request downloads.
 
