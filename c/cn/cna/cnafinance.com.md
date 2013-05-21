@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cnafinance.com privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219231114id_/http%3A//cnafinance.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cnafinance.com privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521085314id_/http%3A//cnafinance.com/other-resources/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | CNA FinanceCNA Finance
+# Privacy Policy
 
 Privacy Policy  
 CNAFinance.com takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it.
