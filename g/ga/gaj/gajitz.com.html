@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the gajitz.com privacy policy that was archived on 2012-11-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121120150901id_/http%3A//gajitz.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gajitz.com privacy policy that was archived on 2013-05-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130521221105id_/http%3A//gajitz.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
-        <script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript">
+        <script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script src="//cdn.linksmart.com/linksmart_2.3.0.min.js" async=""></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript">
             if(document.referrer.search(/google\.*/i) != -1 && top!=self) {
                 top.location.replace(self.location.href+'?ref=search&utm_campaign=googimages&utm_source=images&utm_medium=other');
             }  
@@ -11,7 +11,6 @@
 
     <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js"></script>
     
-	<meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
     	<link rel="shortcut icon" href="http://cdn.gajitz.com/wp-content/themes/gajitz/images/favicon.ico">
     <link rel="apple-touch-icon" sizes="57x57" href="http://cdn.gajitz.com/wp-content/themes/gajitz/images/gajapple114.png">
     <link rel="apple-touch-icon" sizes="114x114" href="http://cdn.gajitz.com/wp-content/themes/gajitz/images/gajapple114.png">
@@ -51,6 +50,7 @@
     var googImg = "noimg"; // uses utm_source for image search refs
     var googOzh = "noozh"; // tests for age, currently month
     var googGeo = "nogeo"; // tests for country code
+    var googASKill = false;
     // geoplugin_countryCode() returns "XX" country code
 
     if (typeof geoplugin_countryCode === 'undefined') {googGeo = "nogeoscript";}
@@ -96,6 +96,13 @@
 	else if (testsocial.test(document.referrer)) { googRef = "social"; }
 	else { googRef = "nomatch"; }
 
+    // set googASKill true to disable adsense
+    if (googType == "single") {
+        var apk = new Array(0, 17464, 16596);
+        googASKill = apk.indexOf(418)>=1;
+    }
+    if (googTest == "nosense") { googASKill = true; }
+
     </script>
 
 <script type="text/javascript">
@@ -133,14 +140,16 @@ googletag.cmd.push(function() {
 <!-- begin google analytics async -->
 <script type="text/javascript">
   var _gaq = _gaq || [];
-  _gaq.push(['b._setAccount', 'UA-12439679-2']);
-  _gaq.push(['b._trackPageview']);
   _gaq.push(['_setAccount', 'UA-1472145-38']);
-  _gaq.push(['_setCustomVar',2,'timeofday','23',3]); // page level
-  _gaq.push(['_setCustomVar',3,'timeofhour','22',3]); // page level
+  _gaq.push(['_setCustomVar',2,'timeofday','21',3]); // page level
+  _gaq.push(['_setCustomVar',3,'timeofhour','26',3]); // page level
   _gaq.push(['_setCustomVar',4,'geo_visitor',googGeo,1]); // visitor level
   _gaq.push(['_setCustomVar',5,'geo_page',googGeo,3]); // page level
   _gaq.push(['_trackPageview'],document.location.pathname+document.location.search.toLowerCase() ); //toLower reduces dupes
+  _gaq.push(['c._setAccount', 'UA-36624193-1']);
+  _gaq.push(['c._trackPageview']);
+  _gaq.push(['b._setAccount', 'UA-12439679-2']);
+  _gaq.push(['b._trackPageview']);
 
 if (window.history && history.replaceState && location.search.match(/utm_|ref=/)) {
     _gaq.push(function(){
@@ -279,7 +288,7 @@ else if ((geoplugin_countryCode() == 'GB') && (googAge == "ten")) {
 <ul>
 	<li><a href="http://feeds.feedburner.com/gajitz/" rel="nofollow" target="_blank"><img src="http://cdn.gajitz.com/wp-content/themes/gajitz/images/topRss.png" border="0" title="Subscribe via RSS" width="22" height="22" onmouseover="this.src='http://cdn.gajitz.com/wp-content/themes/gajitz/images/topRssHover.png'" onmouseout="this.src='http://cdn.gajitz.com/wp-content/themes/gajitz/images/topRss.png'"></a></li>
 	<li><a href="http://twitter.com/gajitz" rel="nofollow" target="_blank"><img src="http://cdn.gajitz.com/wp-content/themes/gajitz/images/topTwitter.png" border="0" title="Follow on Twitter" width="22" height="22" onmouseover="this.src='http://cdn.gajitz.com/wp-content/themes/gajitz/images/topTwitterHover.png'" onmouseout="this.src='http://cdn.gajitz.com/wp-content/themes/gajitz/images/topTwitter.png'"></a></li>
-	<li><a href="http://www.facebook.com/gajitz?v=app_4949752878" rel="nofollow" target="_blank"><img src="http://cdn.gajitz.com/wp-content/themes/gajitz/images/topFacebook.png" border="0" title="NEW Facebook Fan Page for Gajitz!" width="22" height="22" onmouseover="this.src='http://cdn.gajitz.com/wp-content/themes/gajitz/images/topFacebookHover.png'" onmouseout="this.src='http://cdn.gajitz.com/wp-content/themes/gajitz/images/topFacebook.png'"></a></li>
+	<li><a href="http://www.facebook.com/gajitz" rel="nofollow" target="_blank"><img src="http://cdn.gajitz.com/wp-content/themes/gajitz/images/topFacebook.png" border="0" title="NEW Facebook Fan Page for Gajitz!" width="22" height="22" onmouseover="this.src='http://cdn.gajitz.com/wp-content/themes/gajitz/images/topFacebookHover.png'" onmouseout="this.src='http://cdn.gajitz.com/wp-content/themes/gajitz/images/topFacebook.png'"></a></li>
 	<li><a href="http://del.icio.us/post?url=http://gajitz.com&amp;title=gajitz" rel="nofollow" target="_blank"><img src="http://cdn.gajitz.com/wp-content/themes/gajitz/images/topDel.png" border="0" title="Save on Delicious" width="22" height="22" onmouseover="this.src='http://cdn.gajitz.com/wp-content/themes/gajitz/images/topDelHover.png'" onmouseout="this.src='http://cdn.gajitz.com/wp-content/themes/gajitz/images/topDel.png'"></a></li>
 <li><a href="http://pinterest.com/weburbanist/" rel="nofollow" target="_blank"><img src="http://cdn.gajitz.com/wp-content/themes/gajitz/images/toppin.png" border="0" title="Follow us on Pinterest!" width="22" height="22" onmouseover="this.src='http://cdn.gajitz.com/wp-content/themes/gajitz/images/toppinhover.png'" onmouseout="this.src='http://cdn.gajitz.com/wp-content/themes/gajitz/images/toppin.png'"></a></li>
 </ul>
@@ -450,7 +459,7 @@ else if (geoplugin_countryCode() == 'GB') {
         
     <div id="footerKeysText">  
       <p>Gajitz brings you the latest and greatest gadgets, sensational scientific discoveries and innovative new technologies from around the world<br>
-      to educate, entertain and inspire as well as fascinating retro and vintage designs. Gajitz Â© 2009-2011 <a href="http://misnamed.net/" title="Misnamed Media">Misnamed Media LLC</a></p>
+      to educate, entertain and inspire as well as fascinating retro and vintage designs. Gajitz © 2009-2013 <a href="http://misnamed.net/" title="Misnamed Media">Misnamed Media LLC</a></p>
     </div>
   </div>
  </div></div></center>		
@@ -459,20 +468,27 @@ else if (geoplugin_countryCode() == 'GB') {
 	
 
 
+    <!-- LinkSmart tracking -->
+    <script type="text/javascript">
+        var _ls_pub_id = "183";
+        (function(d, t){
+                var mb = d.createElement(t), s = d.getElementsByTagName(t)[0];
+                    mb.async = mb.src = '//cdn.linksmart.com/linksmart_2.3.0.min.js';
+                        s.parentNode.insertBefore(mb, s);
+        }(document, 'script'));
+    </script>
+
 <!-- START GUARDIAN ONLINE BEHAVIOURAL TARGETING CODE --> 
 <script type="text/javascript">
 
 var guardAd = '%3Cscript%20type%3D%22text/javascript%22%20src%3D%22http%3A//pixel.quantserve.com/api/segments.json%3Fa%3Dp-73ktnlRTKQPTw%26callback%3Dqc_results%22%3E%3C/script%3E%0A%0A%3Cscript%20src%3D%22http%3A//js.revsci.net/gateway/gw.js%3Fcsid%3De05516%26auto%3Dt%22%3E%3C/script%3E%0A';
 
-//if (googTest == 'guard') { document.write(unescape(guardAd)); }
-//if (geoplugin_countryCode() == 'GB') { 
+if (googTest == 'guard') { document.write(unescape(guardAd)); }
+if (geoplugin_countryCode() == 'GB') { 
     document.write(unescape(guardAd)); 
-//}
+}
 
-</script><script type="text/javascript" src="http://pixel.quantserve.com/api/segments.json?a=p-73ktnlRTKQPTw&amp;callback=qc_results"></script>
-
-<script src="http://js.revsci.net/gateway/gw.js?csid=e05516&amp;auto=t"></script>
-
+</script>
 <!-- see additional quantcast guardian calls for p-73ktnl in main quantcast block below -->
 <!-- END GUARDIAN ONLINE BEHAVIOURAL TARGETING CODE --> 
 
@@ -493,16 +509,16 @@ var guardAd = '%3Cscript%20type%3D%22text/javascript%22%20src%3D%22http%3A//pixe
 <script type="text/javascript"> 
 // our quantcast code
 _qevents.push({ 
-qacct:"p-b0QGrEweW3QWc"
+qacct:"p-b0QGrEweW3QWc" // Misnamed
 }); 
 
 // guardian
-//if (geoplugin_countryCode() == 'GB') {
+if (geoplugin_countryCode() == 'GB') {
 	_qevents.push({ 
 	qacct:"p-73ktnlRTKQPTw", 
 	labels:"select-techandmedia" 
 	}); 
-//}
+}
 </script> 
 
 <noscript> 
@@ -527,4 +543,4 @@ if ( (googTest == "images") || ( (googType == "single") && (googAge.indexOf("ten
 
 
 
-<!--Cached by Gajitz Cache on: November 19, 2012 11:22:57 pm--></body></html>
+<!--Cached by Gajitz Cache on: May 21, 2013 09:26:30 pm--></body></html>
