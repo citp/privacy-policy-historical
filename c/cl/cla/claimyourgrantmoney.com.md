@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the claimyourgrantmoney.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120013335id_/http%3A//claimyourgrantmoney.com/Shrd/Docs/Privacy.aspx%3FType%3DGrants) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the claimyourgrantmoney.com privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521221040id_/http%3A//claimyourgrantmoney.com/Shrd/Docs/Privacy.aspx%3FType%3DGrants) for the most accurate reproduction.*
 
 # Your Privacy Rights Summarized
 
