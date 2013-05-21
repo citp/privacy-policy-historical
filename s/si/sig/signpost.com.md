@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the signpost.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120140513id_/https%3A//www.signpost.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the signpost.com privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521161109id_/https%3A//www.signpost.com/privacy_policy) for the most accurate reproduction.*
 
 # Signpost | Privacy Policy
 
@@ -7,8 +7,6 @@
 **Last Updated:** August 22, 2012
 
 This is the Privacy Policy ("Privacy Policy") of Signpost Inc. ("Signpost" or "us" or "we"). Signpost is committed to maintaining privacy protections for its users. Our Privacy Policy was developed as an extension of our commitment to combine our on-line advertising services and sale of merchant vouchers (the "Services") with integrity in dealing with our users and merchants. The Privacy Policy is designed to assist you in understanding how we collect, use and store the personal information you provide to us. Our [Terms of Service](https://web.archive.org/terms_of_service), which incorporates by reference this Privacy Policy, governs your use of our online services, any content or information therein, the Signpost website at www.signpost.com, any subdomains of www.signpost.com, and any other website pages on which services are provided by us (collectively, the "Site"). 
-
-Signpost Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's](http://www.truste.com/privacy-program-requirements/) program requirements including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers information collected through this Web site, www.signpost.com. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [support@signpost.com](mailto:support@signpost.com). If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request).
 
   1. INFORMATION WE COLLECT
   2. HOW WE USE AND SHARE INFORMATION
