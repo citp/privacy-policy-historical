@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lovemoney.com privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125124935id_/http%3A//www.lovemoney.com/inside/customer-services/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovemoney.com privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521023558id_/http%3A//lovemoney.com/inside/customer-services/privacy.aspx) for the most accurate reproduction.*
 
 # lovemoney.com – Inside – Customer services – Privacy policy
 
@@ -15,7 +15,7 @@ For the purposes of the United Kingdom’s Data Protection Act 1998, lovemoney.c
   * **Registration:** When you register with lovemoney.com, we ask for your email address and we usually also capture your IP address at the time you register. We will also ask for additional information (such as your name, date of birth and financial data).
   * **Optional services:** On occasion, we may also ask you for other personal information in connection with surveys, sweepstakes or other promotional offers running on our site but your participation in these features is purely voluntary.
   * **Information automatically tracked:** While on our site, we automatically log certain information about how you're using our site. This information may include the URL that you just came from, your IP address and the pages you visit while on our site.
-  * **Tracking information:** lovemoney.com ltd engages the services of a third party analytics provider to track and analyse usage and volume statistical information from our users and visitors to our website.
+  * **Tracking information:** lovemoney.com ltd engages the services of third party analytics providers to track and analyse usage and volume statistical information from our users and visitors to our website.
 
 
 
@@ -121,7 +121,7 @@ In addition, we are partnered with Yodlee who store and manage account access de
 
 ### Browser communications encryption
 
-lovemoney.com MoneyTrack employs Secure Site Pro certificates with Extended Validation from Thawte. This is currently the most secure certificate available. With this certificate more modern browsers are able to use 256-bit encryption and for older browsers it ensures that 128-bit encryption is possible. Click on the lock icon in your browser's status bar to learn more.
+lovemoney.com MoneyTrack employs SSL certificates with Extended Validation. This is currently the most secure certificate available. With this certificate more modern browsers are able to use 256-bit encryption and for older browsers it ensures that 128-bit encryption is possible. Click on the lock icon in your browser's status bar to learn more.
 
 ### Extensive firewalls
 
