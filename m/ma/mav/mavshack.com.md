@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mavshack.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531041356id_/http%3A//www.mavshack.com/Home.aspx%3Fpg%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mavshack.com privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521071447id_/http%3A//www.mavshack.com/Home.aspx%3Fpg%3Dprivacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -47,5 +47,3 @@ If you believe 24h Technologies AB has not satisfactorily addressed your data pr
  24h Technologies AB may from time to time change this Policy or change, modify or withdraw access to this site at any time with or without notice. However, if this Policy is changed in a material, adverse way, 24h Technologies AB will post a notice advising of such change at the beginning of this Policy and on this site's home page for 30 days. We recommend that you re-visit this Policy from time to time to learn of any such changes to this Policy.
 
 Effective September 14, 2011.
-
-| 
