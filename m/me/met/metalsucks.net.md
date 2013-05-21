@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the metalsucks.net privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120005241id_/http%3A//www.metalsucks.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metalsucks.net privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521212949id_/http%3A//www.metalsucks.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | MetalSucks
+# MetalSucks | Privacy Policy
 
 ### Privacy Policy
 
