@@ -1,24 +1,21 @@
-> *The following text is extracted and transformed from the connectify.me privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029233939id_/http%3A//www.connectify.me/privacy-policy/%3Frefid%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the connectify.me privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521215325id_/http%3A//www.connectify.me/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Connectify
 
-####  EFFECTIVE DATE 10/18/2009; UPDATED 12/3/2009  
+#### EFFECTIVE DATE 10/18/2009; UPDATED 12/3/2009
 
+This Privacy Policy describes our privacy practices with respect to information we collect about our customers and visitors who;
 
-This Privacy Policy describes our privacy practices with respect to information we collect about our customers and visitors who; 
-
-  1. Use, browse, shop at any of the CONNECTIFY Website, including our regional websites (referred to collectively as “our Site”) to make purchases or obtain free downloads and 
+  1. Use, browse, shop at any of the CONNECTIFY Website, including our regional websites (referred to collectively as “our Site”) to make purchases or obtain free downloads and
   2. Register to use our Site. If the privacy practices described in this Privacy Policy conflict or create a discrepancy with the terms of a private contractual agreement you have with CONNECTIFY, such as the End User License Agreement, the private contractual terms will control.
 
 
 
-###  Commitment to Privacy  
-
+### Commitment to Privacy
 
 As a security software producer, CONNECTIFY knows that you care about how your information is used and shared. We respect your right to privacy. Your ability to make informed choices about the use of your information is important to us. We want to make sure that you understand the type of information we collect about you, how it is used and the safeguards we use to protect it. This Privacy Policy explains our policy regarding the collection, use, disclosure and protection of personal information you share with us. 
 
-###  What Information Does CONNECTIFY Collect?  
-
+### What Information Does CONNECTIFY Collect?
 
 The type of information that we collect and retain depends upon your interaction with our Site. Here is a short overview of the two main types of interactions. 
 
@@ -38,15 +35,13 @@ You have the final decision on whether to proceed with any activity that request
 
 The information collected and stored automatically by our Site is used to measure the number of visitors to various sections of our Site and to identify system performance or for server issues. We also use this information to help us expand the coverage of our Site and to make our Site more useful. This information is not linked by us to personally identifiable information and we do not disclose this in a form that personally identifies you, except in cases where we must provide IP addresses to certain credit card processors in connection with the processing of your credit card transaction. You may want to contact your credit card provider with any questions regarding the transactional information they require. 
 
-###  Do We Use Cookies?  
-
+### Do We Use Cookies?
 
 “Cookies” are small pieces of unique information, sent by a website, that are stored on your computer’s hard drive by your web browser. Cookies enable a website to tailor information presented to you based on your browsing preferences. CONNECTIFY uses cookies to personalize your pages at our Site, when you seek service & support or to remember you when you register for products or services. CONNECTIFY may also use cookies to track your visit to our Site. While our web servers may automatically log your IP address, the type of information we collect pertains to how you navigate, browse and purchase on our Site. This information is not personally identifiable, and we do not correlate this information with your personal information. 
 
 If you do not want us to store this information or if you are using a public computer, the “Help” portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie or how to disable cookies altogether. However, rejecting cookies may affect your ability to use some of the products and/or services at our Site. 
 
-###  How Do We Use the Information We Collect?  
-
+### How Do We Use the Information We Collect?
 
 The personal information we collect is generally used to process your requests and transactions, to provide you with high quality service, to tell you about opportunities we think will be of interest to you, to customize your experience on our Site and to understand your needs so that we may provide you with the most suitable products and services. For example, we may use your personal information to help us: 
 
@@ -62,8 +57,7 @@ The personal information we collect is generally used to process your requests a
 
 
 
-###  With Whom Do We Share Your Information?  
-
+### With Whom Do We Share Your Information?
 
 CONNECTIFY does not sell or rent your personally identifiable information to third parties. Under certain circumstances and from time to time, CONNECTIFY may share your personally identifiable information with third parties as set forth below. In such circumstances, we provide only the information necessary to perform the function or to provide the service for which it has been shared. These third parties are required to keep the information confidential and are not permitted to use the personal information provided by us for any purpose, except as authorized by CONNECTIFY. 
 
