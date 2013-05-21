@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deccanchargers.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504131220id_/http%3A//www.deccanchargers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deccanchargers.com privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521042125id_/http%3A//www.deccanchargers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Official Website of Deccan Chargers IPL Team
 
