@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the idg.com.au privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221111745id_/http%3A//www.idg.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idg.com.au privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521234613id_/http%3A//www.idg.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - IDG Communications - Australia
 
 **Privacy Statement for IDG Communications Pty Ltd**
 
-This website is owned and operated by IDG Communications Pty Ltd. (“IDG Australia”).
+This website is owned and operated by IDG Communications Pty Ltd. (“IDG Australia”) ABN 14 001 592 650.
 
-IDG Australia is the owner and operator of: Australian Reseller News, Australian Life Scientist, CIO Australia, Computerworld Australia, Australian GamePro, Australian PC World, CSO Australia, GoodGearGuide, Techworld, CXO, Taste for Life and Information Age, and the associated websites and the subdomains of these websites. IDG Australia is a subsidiary of International Data Group, Inc.
+IDG Australia is the owner and operator of: ARN, CIO Australia, Computerworld Australia, Australian PC World, CSO Australia, GoodGearGuide, Techworld, CFO World, CMO and the associated websites and the subdomains of these websites. IDG Australia is a subsidiary of International Data Group, Inc.
 
 The International Data Group, Inc. (IDG) family of on-line and print publications consists of hundreds of award-winning titles from around the world including, Computerworld, CIO, CSO, Game Pro, Network World, Macworld and PC World. The IDG Publishing Network is a growing collection of IDG web sites that presently includes computerworld.com, cio.com, csoonline.com, infoworld.com, idgconnect.com, idgconnect.co.uk networkworld.com, macworld.com, pcworld.com and gamepro.com. A complete listing is available at [www.idg.com](http://www.idg.com/). The IDG Publishing Network is operated by our ultimate holding company International Data Group, Inc. together with its subsidiaries (“our Group”).
 
@@ -34,7 +34,7 @@ If you have questions or concerns regarding this statement, please contact:
 >  IDG Communications Pty Ltd  
 >  PO Box 1753  
 >  North Sydney NSW 2060  
->  ABN 14 001 592 650 
+> 
 
 **What information does IDG Australia collect?**
 
@@ -111,4 +111,4 @@ We are committed to maintaining IDG Australia as the foremost IT industry publis
 
 For more information about privacy issues in Australia and protecting your privacy, visit [http://www.privacy.gov.au](http://www.privacy.gov.au/).
 
-**LAST UPDATED** : August 7, 2009
+**LAST UPDATED** : May 3, 2013
