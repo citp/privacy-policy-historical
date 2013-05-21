@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the titanpoker.com privacy policy that was archived on 2012-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121006172017id_/http%3A//www.titanpoker.com/about-us/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the titanpoker.com privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521121509id_/http%3A//www.titanpoker.com/about-us/privacy.html) for the most accurate reproduction.*
 
 # Information about the Privacy Policy of Titan Poker
 
@@ -36,7 +36,46 @@ Our advertising system logs IP addresses to supply more accurate advertising fea
 
 ##  Account Creation Information
 
-The account information supplied during the account creation process is kept strictly confidential for our own purpose. We do NOT share this information with any third-party company and/or organization. This information includes customer e-mail addresses and other personal information supplied upon registration. If you supply us with your personal details, the information will only be used for its intended use, such as allowing us to send you cash-out checks and other information which you request. E-mail Addresses are NOT shared with any other organization for commercial or noncommercial purposes. E-mail addresses will only be used to provide our customers with information regarding new software updates, promotional material, and miscellaneous poker operations,such as deposits and withdrawals. We collect e-mail addresses of those who communicate with us via e-mail. If you do NOT want to receive any e-mail from us, please send us a blank e-mail with the word "remove" in the subject to support [at] titanpoker [dot] com.
+**Information collected**
+
+We collect personal information from visitors to this web site through the use of online forms and every time you e-mail us your details. We also collect information about the transactions you undertake including details of payment cards used. The personal information that we collect may include your name, email address, home address, telephone number, debit/credit card data and date of birth and other information collected on registration or through surveys which we, or undertakings engaged by us for such purpose, shall undertake.
+
+**Use of personal information**
+
+We process your personal information for the purposes of:  
+ 
+
+  * (a) creating and managing player accounts and records;
+  * (b) administering player accounts;
+  * (c) providing and personalising our services;
+  * (d) dealing with your enquiries and requests;
+  * (e) notifying you about updates to our software and/or services;
+  * (f) ensuring we are able to fulfil our regulatory responsibilities by verifying the accuracy of any information you give us;
+  * (g) our general regulatory compliance, crime prevention and prosecution of offenders including, where appropriate, dealing with requests for information by authorised entities for the sharing of information;
+  * (h) carrying out market research campaigns;
+  * (i) providing you with information about and support for products and services;
+  * (j) marketing our services or products or those of other entities within our group of companies; and
+  * (k) supporting any of the intended purposes specifically stated at the time at which you provided the personal information.
+
+
+
+These are the **“Purposes”** for which we may collect personal data.
+
+If you do NOT want to receive any e-mail from us, please send us a blank e-mail with the word "remove" in the subject to support [at] titanpoker [dot] com.  
+ 
+
+**Disclosure of personal information**
+
+We may, for the Purposes, disclose your personal information to any of the following recipients (“Recipients”):
+
+  * (i) any companies within our group and to their employees who have a need to know such information;
+  * (ii) any third parties which provide services to us in order to allow or enable us to provide you with gaming services, including by way of example payment processors and data verifiers;
+  * (iii) any third parties who provide services to us in relation to the operation of Titan Poker;
+  * (iv) any auditors, contractors or other advisers auditing any of our business processes or who have the need to access such information for the purpose of advising us;
+  * (v) any regulatory body or authorised entity who may have any reasonable requirement to access such personal information; and
+  * (vi) any potential purchasers of the Titan Poker business or any investors in it or in any company within our group.
+
+
 
 ##  Winnings
 
