@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wmctv.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228222931id_/http%3A//www.wmctv.com/story/8774923/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wmctv.com privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521133645id_/http%3A//www.wmctv.com/story/8774923/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Action News 5 - Memphis, Tennessee
 
@@ -24,6 +24,8 @@ Essentially, cookies are your identification cards for our computers, or servers
 
 (2) **Personally identifiable information:** Certain features of the Services, such as surveys and contests, may require that you provide personally identifiable information (including, for example, zip code, age, income, and e-mail address, and when applicable, credit card information). WorldNow, as host of the Services, has access to this information. In addition, when registering to set up an account to use certain Services such as e-mail, chat rooms, and forums, or to receive certain newsletters or specifically targeted information, we do require that you provide a valid email address.
 
+In addition, we may collect information about your location when you access any of our mobile applications.  If you do not want us to collect information about your location, you can "opt out".
+
 We do not knowingly collect personally identifiable information from children younger than 13 years of age. Before registering for an account to use the Services, we ask that all minors 13 and older have their parents read this Privacy Policy.
 
 We do not control the acts of users of the Services. All users should be aware that, when they disclose personally identifiable information in a bulletin board, chat room, guestbook, or other forum, the information may be collected and used by others to send that person unsolicited e-mail from other parties outside of the Services or WorldNow. In the event that you encounter any user of the Services who is improperly collecting or using information about you or other users, please contact us at [www.raycommedia.com](http://www.raycommedia.com/). 
@@ -45,6 +47,8 @@ In addition, as our businesses change, we may buy or sell various assets.  In s
 In addition, we sometimes use demographic data to decide which advertisements and sponsor messages to show to which members. As an example, if Sponsor XYZ wishes to display their advertising only to female members of the Services, we may employ user registration data to ensure that Sponsor XYZ's ads are displayed only to female members.
 
 Finally, we may use individual users' data to "pre-populate" forms, which are displayed for the purpose of collecting individual data by us and/or our sponsors. In no case does pre-populating a form transfer any data to any advertiser or third party. Only if the user voluntarily requests that such data be transferred will any transfer take place--for example, if/when a user clicks a "submit form" button or other button.
+
+In addition, we may use information about your location when you access our mobile applications to provide location aware products or services and for advertising purposes, and if you submit video or images for the news, for news reporting purposes.   Notwithstanding anything herein to the contrary, we may provide your location information to third parties who provide goods or services that we believe may be of interest to you.  If you do not want us to collect information about your location, you can "opt out".
 
 We reserve the right to release any and all information contained within our access logs concerning any visitor or member when that visitor or member is in violation of our Terms of Service or other published guidelines, or partakes (or is reasonably suspected of partaking) in any illegal activity, even without a subpoena, warrant, or other court order, and to release such information in response to discovery requests, or in response to any circumstance which we, in our sole discretion, deem an emergency. We cooperate with law enforcement agencies in identifying those who may be using our servers or Services for illegal activities. We reserve the right to report any suspected illegal activity to law enforcement for investigation or prosecution.  We also reserve the right to comply with subpoenas, warrants, and other court orders requesting information obtained or any information obtained or stored via our site.
 
