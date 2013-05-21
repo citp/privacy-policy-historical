@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pagespan.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014055320id_/http%3A//www.pagespan.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pagespan.com privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521082442id_/http%3A//www.pagespan.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
