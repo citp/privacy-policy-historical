@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mercurymarine.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231044415id_/http%3A//www.mercurymarine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mercurymarine.com privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521030950id_/http%3A//www.mercurymarine.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mercury Marine
 
@@ -97,6 +97,10 @@ From time to time, some of our sites may offer reminders of upcoming events or r
 ##### Electronic Delivery for Shareholders
 
 If you are a Brunswick shareholder and would like to receive shareholder materials by email, we ask you to register for this service on the [Brunswick.com](http://brunswick.com/) website. Registering will also allow you to vote your shares online. To register, if you are a shareholder in the United States or Canada, you must provide your Social Security number or tax ID number, your email address and a 4-digit PIN. If you are a shareholder in a country other than the United States or Canada, you must provide your Brunswick shareholder account number, your email address and a 4-digit PIN. We use the information you provide to verify that you are a Brunswick shareholder, to register you for the electronic delivery service, and to provide you with the electronic delivery and voting services you requested. You may also update or cancel your registration on the site by providing the same information.
+
+##### "Ship's Log" Smartphone Application
+
+We, or the authorized dealer/service provider in your area, may use the information collected to monitor or improve the use of one or more sites or advertising and to provide aggregated information for marketing analysis. This information may also be used to analyze your present and future needs related to our products, to communicate with you about our products and services, and to send you further notices, promotions, solicitations, or brochures, and other marketing materials regarding our websites, our products, and the services of our businesses and the businesses of our affiliates, business partners, or authorized dealers/service providers, unless we have been notified that you do not wish to be contacted for marketing concerns. Solicitations may take the form of email, or mailings via U.S. mail or other couriers (if physical address is provided). Information provided for use with the Ship's Log website will be available to the general public via the internet, wherein the information may include boat name, images, location, title of user's log, notes or tags about user's log, and engine operating information.
 
 #### INFORMATION WE COLLECT BY AUTOMATED MEANS
 
