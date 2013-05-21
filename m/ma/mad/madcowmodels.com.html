@@ -1,66 +1,137 @@
-<!--The following is the downloaded HTML source of the madcowmodels.com privacy policy that was archived on 2011-11-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111122220552id_/http%3A//www.madcowmodels.co.uk/index.php%3Fcontent%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the madcowmodels.com privacy policy that was archived on 2013-05-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130521194331id_/http%3A//www.madcowmodels.co.uk/index.php%3Fcontent%3Dprivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><head><meta name="Description" content="Madcow Models is an online resource and networking website for newcomer and professional models, photographers, studios, modeling agencies, make up artists and clients.">
-	<meta name="keywords" content="Madcow, Models, modeling,fashion catwalk, fitness, stock photography, editorial, hair, body part modeling, swimwear, lingerie, glamour, topless, gothic, fetish, classic nude, artistic nude, adult, become a model, learn to model, online portfolio, modeling portfolio, model photos, modeling photos, modeling gallery, modeling in scotland, modeling in england">
-    <link rel="shortcut icon" href="http://www.madcowmodels.co.uk/images/favicon.ico">
-	<meta name="searchimage" property="og:image" content="http://www.madcowmodels.co.uk/webimages/MadcowFacebook.jpg">
-	<meta name="google-site-verification" content="TKu436Z67s5gj6FRVZHSLXNo55hGY9o7jkjIA9HX-lc">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://www.madcowmodels.co.uk/ajax/jquery.js"></script>
-<script type="text/javascript" src="http://www.madcowmodels.co.uk/tiptip/jquery.tipTip.minified.js"></script>
+<meta name="keywords" content="Madcow, Models, modeling,fashion catwalk, fitness, stock photography, editorial, hair, body part modeling, swimwear, lingerie, glamour, topless, gothic, fetish, classic nude, artistic nude, adult, become a model, learn to model, online portfolio, modeling portfolio, model photos, modeling photos, modeling gallery, modeling in scotland, modeling in england">
+<link rel="shortcut icon" href="http://www.madcowmodels.co.uk/images/favicon.ico">
+<meta name="searchimage" property="og:image" content="http://www.madcowmodels.co.uk/webimages/MadcowFacebook.jpg">
+<meta name="google-site-verification" content="TKu436Z67s5gj6FRVZHSLXNo55hGY9o7jkjIA9HX-lc">
+<script src="http://static.madcowmodels.co.uk/js/jquery.js"></script>
+<script type="text/javascript" src="http://static.madcowmodels.co.uk/js/timeago.js"></script>
+<script type="text/javascript" src="http://static.madcowmodels.co.uk/js/textareaexpander.js"></script>
+<script src="http://static.madcowmodels.co.uk/js/slideTo.js" type="text/javascript" charset="utf-8"></script> 
 <script type="text/javascript">
-			  				$(document).ready(function(){						
-								$(".tip").tipTip();
-   								return false;
-  							});
-							
-function HoverOver(user) {
- $('#'+user).html('<br /><table style=\"border-collapse:collapse;\"><tr><td style=\"background-image: url(\'http://www.madcowmodels.co.uk/webimages/hovercard/HovercardLeft.png\'); width:9px; height:180px;\" align=\"left\"></td><td style="background-image: url(\'http://www.madcowmodels.co.uk/webimages/hovercard/HovercardMiddle.png\'); background-repeat: repeat-x; height:180px; padding-top:5px;\" align=\"left\" valign=\"middle\"><span style="font-size:13px;">Loading...</span></td><td style="background-image: url(\'http://www.madcowmodels.co.uk/webimages/hovercard/HovercardRight.png\'); width:8px; height:180px;" align="left"></td></tr></table>');
-$("#"+user).fadeIn();
-$("#"+user).load("http://www.madcowmodels.co.uk/ajax/HoverOver.php?id="+user);
+function GetMessages() {
+$("#MessageCard").show();
+	$.ajax({ type: "GET", 
+		url: "/ajax/MessageCard.php?dt="+(new Date().getTime()), 
+		success: function(html){
+			$("#MessageCard").html(html);
+		}
+	}); 
 }
+
+function createReply(comment, member){
+	$("#commentReply").val(comment);
+	$("#commentBox").focus().val($("#commentBox").val() + '@'+member+' ');
+}
+
+function ReportComment(commentid) {
+	$.ajax({ type: "GET", 
+		url: "/common/functions.php?type=reportcomment&comment="+commentid, 
+		success: function(html){
+			$("#"+commentid+"-flag").html(html);
+		}
+	}); 
+}	
+	
+function HoverOver(user) {
+$("#"+user).show();
+	$.ajax({ type: "GET", 
+		url: "/ajax/HoverOver.php",
+		data: "id="+user, 
+		success: function(html){
+			$("#"+user).show().html(html);
+		}
+	}); 
+}
+
+function LocationCard(user) {
+$("#"+user).fadeIn().html('<div id="shadow-container"><div class="container" style="padding:15px;"><img src="/webimages/loader.gif"></div></div>');
+	$.ajax({ type: "GET", 
+		url: "/ajax/LocationCard.php",
+		data: "id="+user, 
+		success: function(html){
+			$("#"+user).html(html);
+		}
+	}); 
+}
+
 function Hoverclose(id) {
-$("#"+id).fadeOut();
+	$("#"+id).hide();
 }	  	  						
 
 function SiteShow(div) {
-          $('#'+div).fadeIn('slow');
+          $('#'+div).slideDown('slow');
           return false;
         }	
 		
 function SiteHide(div) {
-          $('#'+div).fadeOut('slow');
+          $('#'+div).slideUp('slow');
           return false;
         }	
 		
+
+function SiteShower(div) {
+          $('#'+div).fadeIn();
+          return false;
+        }	
+		
+function SiteHider(div) {
+          $('#'+div).fadeOut('fast');
+          return false;
+        }	
+
+function ShowContent(div) {
+	$('#'+div).show();
+	return false;
+}	
+		
+function HideContent(div) {
+	$('#'+div).hide();
+	return false;
+}	
+				
+		function nstoggle(div) {
+          $('#'+div).toggle();
+          return false;
+        }		
+		
 		function Toggles(div) {
-          $('#'+div).toggle('slow');
+          $('#'+div).slideToggle('slow');
           return false;
         }
-		</script>
-<script type="text/javascript">
+
+function plusone(){
+for( var i = 0; i < arguments.length; i++ ) {
+}
+var type = arguments[0];
+var typeid = arguments[1];
+var owner = arguments[2];
+var commentowner = arguments[3];
+var pagetype = arguments[4];
+var pageurl = arguments[5];
+var PORand = arguments[6];
+
+if (pageurl == ""){
+var pageurl = '%2Findex.php%3Fcontent%3Dprivacy';
+}
+//$("#"+PORand+"plusone-"+typeid).html('<img src="/webimages/loader.gif">');
+$("#"+PORand+"plusone-"+typeid).load('/common/functions.php?type=plusone&plustype='+type+'&typeid='+typeid+'&owner='+owner+"&theurl="+pageurl+"&commentowner="+commentowner+"&pagetype="+pagetype);
+}
+
  var RecaptchaOptions = {
     theme : 'clean'
  };
- </script>
- <script type="text/javascript" src="http://www.madcowmodels.co.uk/ajax/timeago.js"></script>
-<script type="text/javascript">
+ 
+function SubmitButtonHide(buttonid, loaderid){
+$("#"+buttonid).hide();
+$("#"+loaderid).show();
+}
+
 jQuery(document).ready(function() {
   jQuery("abbr.timeago").timeago();
 });
-		</script>
-<link href="http://www.madcowmodels.co.uk/tiptip/tipTip.css" rel="stylesheet" type="text/css">
-<script type="text/javascript" src="http://www.madcowmodels.co.uk/ajax/textareaexpander.js"></script>
-<script src="http://www.madcowmodels.co.uk/ajax/popup/popup.js" type="text/javascript"></script>
-<link rel="stylesheet" href="http://www.madcowmodels.co.uk/ajax/popup/general.css" type="text/css" media="screen">
-  <script src="http://www.madcowmodels.co.uk/ajax/lazyload.js" type="text/javascript" charset="utf-8"></script> 
-  <script type="text/javascript" charset="utf-8"> 
-      $(function() {          
-          $(".slowImage").lazyload({
-             effect      : "fadeIn",
-			 threshold : 200
-          });
-      });
 
 function ApproveComment(commentid) {
  $('#ApproveText-'+commentid).load("http://www.madcowmodels.co.uk/common/functions.php?type=approvecomment&comment="+commentid);
@@ -78,204 +149,76 @@ function ApproveComment(commentid) {
  setTimeout( function() { jQuery('#SiteComment-'+commentid).load("http://www.madcowmodels.co.uk/common/functions.php?type=deletecomment&comment="+commentid);}, 1000 );
   setTimeout( function() { jQuery('#SiteComment-'+commentid).fadeOut('slow');}, 1000 );
  }
-</script>
-<script src="/ajax/jquery.jgrowl.js"></script>
-<link rel="stylesheet" type="text/css" href="/ajax/jquery.jgrowl.css">
-<script language="JavaScript" type="text/JavaScript">
-<!--
-function MM_jumpMenu(targ,selObj,restore){ //v3.0
-  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
-  if (restore) selObj.selectedIndex=0;
-}
-//-->
-</script>
+ 
+ (function($) {
+    $.fn.countTo = function(options) {
+        // merge the default plugin settings with the custom options
+        options = $.extend({}, $.fn.countTo.defaults, options || {});
 
-<script type="text/javascript" src="newuser/jquery.highlight.js"></script>
+        // how many times to update the value, and how much to increment the value on each update
+        var loops = Math.ceil(options.speed / options.refreshInterval),
+            increment = (options.to - options.from) / loops;
+
+        return $(this).each(function() {
+            var _this = this,
+                loopCount = 0,
+                value = options.from,
+                interval = setInterval(updateTimer, options.refreshInterval);
+
+            function updateTimer() {
+                value += increment;
+                loopCount++;
+                $(_this).html(value.toFixed(options.decimals));
+
+                if (typeof(options.onUpdate) == 'function') {
+                    options.onUpdate.call(_this, value);
+                }
+
+                if (loopCount >= loops) {
+                    clearInterval(interval);
+                    value = options.to;
+
+                    if (typeof(options.onComplete) == 'function') {
+                        options.onComplete.call(_this, value);
+                    }
+                }
+            }
+        });
+    };
+
+    $.fn.countTo.defaults = {
+        from: 0,  // the number the element should start at
+        to: 100,  // the number the element should end at
+        speed: 1000,  // how long it should take to count between the target numbers
+        refreshInterval: 100,  // how often the element should be updated
+        decimals: 0,  // the number of decimal places to show
+        onUpdate: null,  // callback method for every time the element is updated,
+        onComplete: null,  // callback method for when the element finishes updating
+    };
+})(jQuery);
+
+ 
+ 
+ </script>
+<script type="text/javascript" src="http://static.madcowmodels.co.uk/js/dialog.js"></script>
 
 
-<script type="text/javascript"><!--//--><![CDATA[//><!--
-startList = function() {
-if (document.all&&document.getElementById) {
-cssdropdownRoot = document.getElementById("cssdropdown");
-for (x=0; x<cssdropdownRoot.childNodes.length; x++) {
-node = cssdropdownRoot.childNodes[x];
-if (node.nodeName=="LI") {
-node.onmouseover=function() {
-this.className+=" over";
-}
-node.onmouseout=function() {
-this.className=this.className.replace(" over", "");
-}
-}
-}
-}
-}
-
-if (window.attachEvent)
-window.attachEvent("onload", startList)
-else
-window.onload=startList;
-
-//--><!]]></script>
-
-
-<title>
-
-MadcowModels | The Free Online Networking Website for the Modeling and Photographic Industry</title>
-<link href="newstyle.css" rel="stylesheet" type="text/css">
-</head>
+<title>MadcowModels | The Free Online Networking Website for the Modeling and Photographic Industry</title>
+<link href="http://static.madcowmodels.co.uk/css/newstyle.css?v=15052013" rel="stylesheet" type="text/css"></head>
 <body>
 <!--[if lt IE 7.]>
 <script defer type="text/javascript" src="http://www.madcowmodels.co.uk/ajax/pngfix.js"></script>
 <![endif]-->
-
-<div id="HeaderGradient">
-<style>
-#searchwrapper {
-width:240px; /*follow your image's size*/
-height:33px;/*follow your image's size*/
-background-image:url('http://www.madcowmodels.co.uk/webimages/SearchBoxOuter.png');
-background-repeat:no-repeat; /*important*/
-padding:0px;
-margin:0px;
-position:relative; /*important*/
-}
- 
-#searchwrapper form { display:inline ; }
- 
-.searchbox {
-border:0px; /*important*/
-background-color:transparent; /*important*/
-position:absolute; /*important*/
-top:4px;
-left:13px;
-width:180px;
-height:25px;
-}
- 
-.searchbox_submit {
-
-border:0px; /*important*/
-background-color:transparent; /*important*/
-position:absolute; /*important*/
-top:6px;
-left:200px;
-width:26px;
-height:21px;
-}
-
-
-.menu_seperator{
-	height:30px;
-	}
-	.menu_seperator_container{
-		height:30px;
-		margin:0px auto;
-		text-align:left;
-		}
-
-.menu_bar{
-	}
-
-.menu_bar ul{
-	height:30px;
-	list-style:none;
-	margin:0;
-	padding:0;
-	}
-	.menu_bar li{
-		float:left;
-		}
-			
-		
-	.menu_bar li a{
-		color:#ffffff;
-		display:block;
-		line-height:30px;
-		font-size:13px;
-		text-align:center;
-		text-decoration:none;
-		font-weight:300;
-		}
-		.menu_bar li a:hover{
-			color:#cccccc;
-			text-decoration:none;
-			font-weight:300;
-			}
-
-	.menu_bar li:hover ul{
-		display:block;
-		}
-	.menu_bar li li {
-		display:block;
-		float:none;
-		width:225px;
-		}
-	.menu_bar li ul a{
-		display:block;
-		font-size:12px;
-		font-style:normal;
-		height:30px;
-		line-height:30px;
-		padding:5px 10px 5px 10px;
-		text-align:left;
-		position:relative; 
-		}
-		
-			.menu_bar li ul{
-		background:#6c3e6e;
-		display:none;
-		height:auto;
-		filter:alpha(opacity=95);
-		opacity:0.95;
-		position:absolute;
-		width:225px;
-		z-index:2000;
-		/*top:1em;
-		/*left:0;*/
-		}
-		.menu_bar li ul a:hover{
-			background:#78467a;
-			color:#ffffff;
-			opacity:1.0;
-			filter:alpha(opacity=100);
-			position:relative; 
-			}
-	.menu_bar p{
-		clear:left;
-		}
-	.menu_bar #menutitle a{
-		position:relative; 
-		background:#000000;
-		text-decoration:none;
-		font-weight:300;
-		color:#FFF;
-		height:20px;
-		line-height:20px;
-		}
-	.menu_bar #menutitle a:hover{ 
-		background:#000000;
-		color:#FFF;
-		text-decoration:none;
-		font-weight:300;
-	}
-			
-			
-
-</style>
-<table width="100%" height="121px" border="0" style="border-collapse:collapse;">
-<tbody><tr>
-	<td>
-	
-	<div class="menu_seperator">
-  <div class="menu_seperator_container">
-    <div class="menu_bar">
-      <ul>
-	    
-        <li style="padding-left: 10px;"><a href="/">Home</a>
-        </li><li style="padding-left: 10px;"><a href="/forum/">Forum</a>
-        </li><li style="padding-left: 10px;"><a href="/AllUsers/0/All-Users.html">Members</a>
-          <ul id="ModelsD" style="border:1px solid #000000;">
+		<div id="header" align="left" style="padding-bottom:1px; height:47px;">
+		<div style="float:right;">
+			<a href="/"><img style="border:0;" src="http://static.madcowmodels.co.uk/layoutimages/header/MainLogo.png" height="45px"></a>    </div>
+		<div style="float:left;">
+		<div class="menu_bar">
+ <ul>
+        <li class="PadLeft"><a href="/">Home</a></li>
+        <li class="PadLeft"><a href="/forum/">Forum</a></li>
+        <li class="PadLeft"><a href="/AllUsers/0/All-Users.html">Members</a>
+				          <ul id="ModelsD" style="top:30px;">
             <li id="menutitle"><a class="a12">Models</a></li>
             <li><a href="/models/newcomer/0/">Newcomers</a></li>
             <li><a href="/models/novice/0/">Novices</a></li>
@@ -291,59 +234,131 @@ height:21px;
             <li><a href="/clients/0/Clients.html">Clients</a></li>
             <li><a href="/AllUsers/0/All-Users.html">All Members</a></li>
           </ul>
-        </li>
-		  <li style="padding-left: 10px;"><a href="/search">Search</a></li>
-        <li style="padding-left: 10px;"><a href="/modeling_work">Castings</a>
-          <ul id="ModelsD">
-            <li><a href="/modeling_work">View Castings</a></li>
-            <li><a href="/modeling_work/Add-New-Assignment">Add a Casting</a></li>
-          </ul>
-        </li>
-		<li style="padding-left: 10px;"><a href="/articles">Articles</a></li>
-		<li style="padding-left: 10px;"><a href="/blog">Blog</a></li>
-		<li style="padding-left: 10px;"><a href="/contact">Contact</a></li>
-		
-				<li style="padding-left: 10px;"><a href="/join">Signup</a></li>
- <li style="padding-left: 10px;"><a href="/UserLogin.php">Login</a></li>
-      	  </ul>
-
- </div>
-  </div>
-</div>
-	
-	</td>
-	<td rowspan="3" height="6px"></td>
-	<td align="right">
-<div style="font-size:13px; color:#ffffff;">
-<div id="searchwrapper"><form name="HeaderSearch" action="/search" onsubmit="this.submit();return false;">
+				        </li>
+		  <li class="PadLeft"><a href="/search">Search</a>
+						  <ul id="ModelsD" style="top:30px;">
+            <li>
+			<div align="center" style="padding-top:5px;">
+			<div id="searchwrapper"><form name="HeaderSearch" action="/search" onsubmit="this.submit();return false;">
 <input type="text" class="searchbox ac_search" name="q" value="" placeholder="Search..">
 <button type="submit" value="" class="searchbox_submit">
-<input type="image" src="/webimages/SearchBoxMagnifyOverlay.png" class="searchbox_submit" value="">
+<input type="image" src="http://static.madcowmodels.co.uk/webimages/SearchBoxMagnifyOverlay.png" class="searchbox_submit" value="">
 </button>
 </form>
 </div>
- </div>	
-		
-	</td>
-</tr>
-
-
-  <tr>
-    <td valign="bottom" align="left" width="627px"><div style="padding-left: 5px;"><a href="http://www.madcowmodels.co.uk"><img style="border:0;" src="http://www.madcowmodels.co.uk/webimages/MadcowModelsMainLogo.png" alt="Madcow Models | The Online Resource Website for The Modeling and Promotional Industry" width="607px" height="68px"></a></div></td>
-	<td valign="bottom" align="left"><span style="font-size:12px;">
-	<div style="float:right; width:100px; color:#ffffff; font-size:13px; line-height:120%; padding-right:3px;" align="right"><br>
-<a href="http://www.facebook.com/madcowmodels"><img alt="Madcow Models Facebook" title="Check out our Facebook page!" style="border:0;" width="20px" height="20px" src="/webimages/social/facebook_32.png"></a>
-<a href="http://www.twitter.com/madcowmodels"><img alt="Madcow Models Twitter" title="Check out our Twitter page!" style="border:0;" width="20px" height="20px" src="/webimages/social/twitter_32.png"></a>
-<a href="http://www.myspace.com/madcowmodels"><img alt="Madcow Models Myspace" title="Check out our Myspace page!" style="border:0;" width="20px" height="20px" src="/webimages/social/myspace_32.png"></a>
-<a rel="nofollow" target="_blank" href="http://www.linkedin.com/company/madcowmodels" class="a12"><img style="border:0;" src="/webimages/social/linkedin_32.png" width="20px" height="20px" alt="Connect with us on LinkedIn"></a>	
-</div><div style="float:left; width:220px;color:#ffffff; font-size:13px;"><div align="left" style="padding-left:5px;"><br>Not a member?
-<a href="/index.php?content=join" class="a12">Join today!</a></div></div><div class="divClear;"></div></span>
-</td>
-  </tr>
-</tbody></table>
 </div>
+			</li>
+            <li><a href="/search">Search Members</a></li>
+            <li><a href="/search/images">Search Images</a></li>
+            <li><a href="/trending.php">Recent Activity and Trending</a></li>
+            <!--<li><a href="/AvsB.php">A-vs-B</a></li>-->
+          </ul>
+				        </li>
+		  
+        <li class="PadLeft"><a href="/modeling_work">Castings</a>
+				          <ul id="ModelsD" style="top:30px;">
+            <li><a href="/modeling_work">View Castings</a></li>
+            <li><a href="/modeling_work/Add-New-Assignment">Post a Casting</a></li>
+						          </ul>
+				        </li>
+		   <li class="PadLeft"><a href="/shop">Shop</a>
+				          <ul id="ModelsD" style="top:30px;">
+            <li><a href="/shop">MadcowModels Shop</a></li>
+            <li><a href="/forum/modeling_forums/Classifieds">Member Classifieds</a></li>
+            <li><a href="/upgrade">Upgrade your Account</a></li>
+            <li><a href="/GiftCards.php">Membership Gift Cards</a></li>
+          </ul>
+				        </li>		
+		<!--<li class="PadLeft"><a href="http://m.madcowmodels.co.uk">Mobile</a></li>-->
+		<li class="PadLeft"><a href="/AvsB.php">A-vs-B</a></li>
+		<li class="PadLeft"><a href="/Competitions.php">Comps</a></li>
+				<li class="PadLeft"><a href="/join">Signup</a></li>
+ <li class="PadLeft"><a href="/UserLogin.php">Login</a></li>
+      	  </ul>
+			<div id="MessageCard" style="position:absolute; left:455px;" onmouseover="clearTimeout(timerOff);" onmouseout="timerOff=setTimeout(function(){SiteHider('MessageCard');}, 500);"></div>
+		</div>
+		</div>
+		<div style="clear:both;"></div>
+		</div>
+	<script type="text/javascript">
+function createDialog() {
+for( var i = 0; i < arguments.length; i++ ) {
+}
+var dialogType = arguments[0];
+var cross = arguments[1];
+var size = arguments[2];
+var optionA = arguments[3];
+var contentType = arguments[4];
+var contentId = arguments[5];
+var contentData = arguments[6];
+var imgSrc = arguments[7];
+
+if (dialogType !== 'largephoto'){
+$("#dialog").css({
+"padding":'12px',
+"height":''
+});
+}
+
+
+
+if (dialogType == 'saveduse'){
+var size = 'big';
+}
+if (dialogType == 'saveduser'){
+var userid=document.getElementById('ThisUser').value;
+} else {
+var userid='';
+}
+if (size == "big"){
+	$("#dialog").css({
+		"width":'900px'
+	});
+} else {
+	$("#dialog").css({
+		"width":'550px'
+	});
+	}
+	
+$("#dialog").css({
+			"top": ((document.documentElement.scrollTop || document.body.scrollTop)+ 20 +'px')
+		});	
+	
+$('#dialog').jqmShow();
+if (dialogType == 'largephoto'){
+$(".jqmOverlay").css({ "background-color":"#000000", "opacity":"0.8"});
+$(".jqmWindow").css({ "border":"0px", "box-shadow":"0px 0px 24px rgba(0, 0, 0, 0.80)", "-webkit-box-shadow":"0px 0px 24px rgba(0, 0, 0, 0.80)", "-moz-box-shadow":" 0px 0px 24px rgba(0, 0, 0, 0.80)"});
+} else {
+$(".jqmWindow").css({ "border":"1px solid #CFCFCF", "box-shadow":"0 0 5px #A6A6A6", "-webkit-box-shadow":"0 0 5px #A6A6A6", "-moz-box-shadow":"0 0 5px #A6A6A6"});
+}
+
+if (dialogType !== 'largephoto'){
+	$('#dialog').html('<img src="http://www.madcowmodels.co.uk/webimages/loader.gif"> Loading..');
+}
+$.post("/dialog/DialogBox.php", { type: dialogType, close:cross, size:size, userid:userid, optionA:optionA, contentType:contentType, contentId:contentId, contentData:contentData, imgSrc:imgSrc},
+function(data){
+  $('#dialog').html(data);
+});	
+
+var windowWidth = document.documentElement.clientWidth;
+var popupWidth = $("#dialog").width();
+$("#dialog").css({
+			"left": windowWidth/2-popupWidth/2
+		});
+}
+$().ready(function() {
+	$('#dialog').jqm();
+});
+</script>
+
 <div id="middle">
-<div id="mcontent" style="padding-left: 45px; padding-right: 45px;"><b>Effective date: 1st February 2010.</b>
+<div id="mcontent" style="padding-left: 45px; padding-right: 45px;"></div>
+<div class="MasterHead">
+	<div class="MasterHeadText MasterSubHeader">Privacy Policy</div>
+	</div>
+<div class="MasterHeadPadding">
+<br>
+<b>Effective date: 1st February 2010.</b>
 <br><br>
 <font size="4">Privacy Policy</font>
 <br><br>
@@ -478,132 +493,74 @@ If we are required to disclose to provide notice of invasion of certain security
 <div style="clear:both;"></div>
 </div>
 </div>
-<div align="center">
-<div style="width: 996px;margin: 0 auto;background-color:#ffffff;border-left: 1px solid #B0B0B0;border-right: 1px solid #B0B0B0;">
-<div id="check"></div>
+<div style="clear:both;"></div>
+<div class="FooterContainer">
+<div style="margin:0 auto; width:1000px;">
+	<div class="FooterColumnLeft">
+		<a href="/" class="FooterLinks">Home</a><br>
+		<a href="/UserLogin.php" class="FooterLinks">Login</a><br>
+		<a href="/join" class="FooterLinks">Join</a><br>
+		<a href="/help-centre" class="FooterLinks">About</a><br>
+		<a href="/contact" class="FooterLinks">Contact us</a><br>
+		<a href="/linktous" class="FooterLinks">Link to us</a><br>
+	</div>
 
-<br>		
-<!--<iframe frameborder="0" marginheight="50" src="http://www.homeapprove.co.uk/AdServe.php" width="750px" height="190px"></iframe>-->
-<!--<SCRIPT type="text/javascript" LANGUAGE="javascript" src="http://www.qksz.net/1e-jveo"> </SCRIPT>-->
-<!--
-<script type="text/javascript">
-adsflip_acc_id = 'adsflip-i7493';
-adsflip_width = 728;
-adsflip_height = 90;
-adsflip_display = 'text_image';
-adsflip_tag = '';
-adsflip_col_border = 'FFFFFF';
-adsflip_col_bg = 'FFFFFF';
-adsflip_col_title = '9900CC';
-adsflip_col_text = '777777';
-adsflip_col_url = '555555';
-</script>
-<script type="text/javascript" src="http://jsad1.adsflip.com/ads_out.js"></script>
--->
-<br>
-<br>
-<div align="center"><img src="/webimages/ArrowBlack.gif"> <span style="font-size:11px;"><a href="/index.php?content=join" class="a4">Fed up of adverts? Sign up!</a></span> <img src="/webimages/ArrowBlack.gif"></div>
+	<div class="FooterColumn">
+		<a href="/search" class="FooterLinks">Search members</a><br>
+		<a href="/search?type=members&amp;profile=model" class="FooterLinks">Models</a><br>
+		<a href="/photographers/0/" class="FooterLinks">Photographers</a><br>
+		<a href="/muas/0/" class="FooterLinks">Make-Up Artists</a><br>
+		<a href="/studios/0/" class="FooterLinks">Studios</a><br>
+		<a href="/newmembers" class="FooterLinks">New members</a><br>
+	</div>
+	
+	<div class="FooterColumn">
+		<a href="/search/images" class="FooterLinks">Search images</a><br>
+		<a href="/lists.php" class="FooterLinks">Members Lists</a><br>
+		<a href="/search?type=image&amp;uploaded=&amp;photographer=&amp;model=&amp;mua=&amp;studio=&amp;orderby=newest" class="FooterLinks">Latest Images</a><br>
+		<a href="/AvsB.php" class="FooterLinks">A-vs-B</a><br>
+		<a href="/AvsB.php#TopPhotos" class="FooterLinks">Top on A-vs-B</a><br>
+		<a href="/editorschoice" class="FooterLinks">Editors Choice</a><br>
+	</div>
+
+	<div class="FooterColumn">
+		<a href="/upgrade" class="FooterLinks">Membership Upgrade</a><br>
+		<a href="/GiftCards.php" class="FooterLinks">Gift Cards</a><br>
+		<a href="/forum/modeling_forums/Classifieds" class="FooterLinks">Classifieds</a><br>
+		<a href="/shop" class="FooterLinks">Member Shop</a><br>
+		<a href="/refer" class="FooterLinks">Invite your Friends</a><br>
+		<a href="/advertising" class="FooterLinks">Advertise</a>
+	</div>
+	
+	<div class="FooterColumn" style="width:150px;">
+	349 members online<br><a href="/safemode" class="FooterLinks">Safe mode</a> <a rel="nofollow" href="/worksafe.php?mode=on&amp;url=http%3A%2F%2Fwww.madcowmodels.co.uk%2Findex.php%3Fcontent%3Dprivacy" style="padding:0;" class="FooterLinks">on</a>/<b>off</b><br><a href="/help-centre/photo-viewer" class="FooterLinks">Viewer</a> <b>on</b>/<a rel="nofollow" href="/ViewerSwitch.php?url=http%3A%2F%2Fwww.madcowmodels.co.uk%2Findex.php%3Fcontent%3Dprivacy" style="padding:0;" class="FooterLinks">off</a><br><a href="/help-centre/cookies" class="FooterLinks">Cookie use</a><br><a href="/rules" class="FooterLinks">Rules</a> • <a href="/index.php?content=tc" class="FooterLinks">Terms</a> • <a href="/index.php?content=privacy" class="FooterLinks">Privacy</a>	</div>	
+	
+	<div class="FooterColumnRight">
+		<!-- AddThis Follow BEGIN -->
+		<div class="addthis_toolbox addthis_vertical_style">
+		<a class="addthis_button_facebook_follow FooterLinks" addthis:userid="madcowmodels"></a>
+		<a class="addthis_button_twitter_follow FooterLinks" addthis:userid="madcowmodels"></a>
+		<a class="addthis_button_linkedin_follow FooterLinks" addthis:userid="madcowmodels" addthis:usertype="company"></a>
+		<a class="addthis_button_google_follow FooterLinks" addthis:userid="105441650228158892118"></a>
+		</div>
+		<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4d960fa70e73a25b"></script>
+		<!-- AddThis Follow END -->
+	</div>
+	
+	<div style="clear:both;"></div>
 </div>
-<div style="width:100%; min-height: 130px; background-color:#2c2c2c;border-top: 5px solid #8F8F8F;">
-<div style="padding-left: 20px; padding-right: 20px; padding-top: 20px;">
-
-<table border="0" align="center" width="990px" style="font-size:11px;color:#ffffff;">
-	<tbody><tr>
-		<td valign="top" align="left">
-		
-			<a href="/" class="a12">Home</a>
-		<br><a href="/UserLogin.php" class="a12">Log in</a>
-		<br><a href="/join" class="a12">Sign Up</a>
-		<br><a href="/linktous" class="a12">Link to Us</a>
-		<br><a href="/upgrade" class="a12">Membership Details</a>
-		<br><a href="/index.php?content=refer" class="a12">Refer-a-Friend</a>
-		<br><a href="/faq.php" class="a12">FAQ</a>
-		<br><a href="/feedback" class="a12">Feedback</a>
-		<br><a href="/safemode" class="a12">Work Safe Mode</a>
-		<br><a href="/contact" class="a12">Contact Us</a>
-		<br><a href="/rules" class="a12">Rules</a>
-		<br><a href="/index.php?content=tc" class="a12">Terms &amp; Conditions</a>
-		<br><a href="/index.php?content=privacy" class="a12">Privacy Policy</a>
-		
-		</td>
-		<td width="2px" style="border-right:1px #A3A3A3 solid;"></td>
-		<td width="18px"></td>
-		<td valign="top" align="left"> 
-			<a href="/models/newcomer/0/" class="a12">Newcomer Models</a>
-		<br><a href="/models/novice/0/" class="a12">Novice Models</a>
-		<br><a href="/models/amateur/0/" class="a12">Amateur Models</a>
-		<br><a href="/models/semipro/0/" class="a12">Semi-Pro Models</a>
-		<br><a href="/models/professional/0/" class="a12">Professional Models</a>
-		<br><a href="/photographers/0/" class="a12">Photographers</a>
-		<br><a href="/studios/" class="a12">Studios</a>
-		<br><a href="/muas/0/Make-Up-Artists.html" class="a12">Make up Artists</a>
-		<br><a href="/clients/0/Clients.html" class="a12">Clients</a>
-		<br><a href="/agencies/0/Modeling-Agencies.html" class="a12">Agencies</a>
-		</td>
-		<td width="2px" style="border-right:1px #A3A3A3 solid;"></td>
-		<td width="18px"></td>
-		<td valign="top" align="left">
-			<a href="/about" class="a12">About us</a>
-		<br><a href="/articles" class="a12">Articles</a>
-		<br><a href="/advertising" class="a12">Advertising</a>
-		<br><a href="/darkroom/about" class="a12">The Darkroom</a>
-		<br><a href="/search" class="a12">Search</a>		
-		<br><a href="/forum" class="a12">Forum</a>
-		<br><a href="/modeling_work" class="a12">Castings &amp; Postings</a>		
-		<br><a href="/modeling_work/Add-New-Assignment" class="a12">Add a Casting</a>			
-		<br><a href="/editorschoice" class="a12">Editors Choice</a>
-		<br><a href="/newmembers" class="a12">Newest Members</a>
-		<br><a href="/blog" class="a12">Blog</a>
-		<br><a href="/glossary" class="a12">Glossary</a>
-		</td>
-		<td width="170px" valign="top" align="left"> 
-<span style="font-size:14px;">
-		<a rel="nofollow" href="/worksafe.php?mode=on&amp;url=http%3A%2F%2Fwww.madcowmodels.co.uk%2Findex.php%3Fcontent%3Dprivacy" class="a12">Turn work safe mode on</a><br><a href="/safemode" class="a12">More Info</a></span><br>			
-<br>			
-<div align="center">
-<a rel="nofollow" target="_blank" href="http://www.facebook.com/madcowmodels" class="a12"><img style="border:0;" src="/webimages/social/facebook_32.png" alt="Find us on Facebook"></a> <a rel="nofollow" target="_blank" href="http://www.twitter.com/madcowmodels" class="a12"><img style="border:0;" src="/webimages/social/twitter_32.png" alt="Follow us on Twitter"></a> <a rel="nofollow" target="_blank" href="http://www.myspace.com/madcowmodels" class="a12"><img style="border:0;" src="/webimages/social/myspace_32.png" alt="Friend us on Myspace"></a>	
-<a rel="nofollow" target="_blank" href="http://www.linkedin.com/company/madcowmodels" class="a12"><img style="border:0;" src="/webimages/social/linkedin_32.png" alt="Connect with us on LinkedIn"></a>	
-</div>		
-		</td>
-		<td width="348px" valign="top" align="center">
-		<a href="/"><img style="border:0;" src="/webimages/MadcowModelsMainLogo.png" alt="Madcow Models | The online resource and networking site" height="37px" width="348px"></a>
-		<br>
-		The Free Online Networking Website for the Modeling and Photographic Industry
-		<br>
-		<br>
-		<div align="left">
-<span style="font-size:15px;"><a href="/blog" class="a12">Latest Blog</a></span>
 <br>
-<a class="a12" href="/blog/2011/11/Photo-policy-updates.html">Photo policy updates</a><br>
+	<a style="border:0;" href="/">
+		<div class="MBadge"></div>
+	</a>
 <br>
-<span style="font-size:15px;"><a href="/articles" class="a12">Latest Article</a></span>
-<br>
-<a class="a12" href="/articles/Marketing-and-promoting-yourself-as-a-model.html">Marketing and promoting yourself as a model</a></div>
-		</td>
-	</tr>
-</tbody></table>
-<br>
+<div class="LegalContainer">
+	 <!--All copyright credits, usage licenses and information accuracy are the sole responsibility of each member. The claims and statements, expressed, implied or guaranteed by persons on this service are the sole responsibility of those individuals and do not necessarily reflect the views of MadcowModels Limited, nor does it guarantee, warrant, or confirm information posted to the service.
+	 <br />-->
+	©Copyright 2013, MadcowModels Limited. All Rights Reserved. </div>
+	
 </div>
-</div>
-</div>
-<div style="height:35px; background-color:#2c2c2c;">
-<span style="font-size:10px; color: #999999;">
-©Copyright 2011 Madcow Models. <br> All Rights Reserved. Any photos contained on this page are copyright of their respective owners. All Rights Reserved. All Trademarks are the property of their respective owners.
-</span>
-<script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-18717954-1']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
-<script type="text/javascript" src="http://www.madcowmodels.co.uk/dropdown/jquery.autocomplete.js"></script>
+<script type="text/javascript" src="http://static.madcowmodels.co.uk/js/jquery.autocomplete.js"></script>
 <script type="text/javascript">
   function findValue(li) {
   	if( !!li.extra ) var sValue = li.extra[0];
@@ -615,17 +572,18 @@ adsflip_col_url = '555555';
     	return '<table border="0"><tr><td width="40px"><img src="/images/thumbs/'+row[2]+'.jpg" width="40px"></td><td align="left" valign="top">'+row[0]+'<br><span style="font-size:10px;">'+row[3]+'</span><br><span style="font-size:10px;">'+row[4]+'</span></td></tr></table>';
   }
     $(".ac_input").autocomplete(
-      "http://www.madcowmodels.co.uk/dropdown/autocompleteMembers.php",
+      "/dropdown/autocompleteMembers.php",
       {
   			delay:10,
   			minChars:1,
-  			matchSubset:1,
-  			matchContains:1,
+  			matchSubset:3,
+  			matchContains:3,
   			cacheLength:10,
   			onItemSelect:selectItem,
   			onFindValue:findValue,
   			formatItem:formatItem,
-  			autoFill:false
+  			autoFill:false,
+			maxItemsToShow:10
   		}
     );
   
@@ -634,7 +592,7 @@ adsflip_col_url = '555555';
     	return '<div align="left" onclick="location.href=\'/'+row[2]+'\';"><table border="0"><tr><td width="40px"><img src="/images/thumbs/'+row[2]+'.jpg" width="40px"></td><td align="left" valign="top">'+row[0]+'<br><span style="font-size:10px;">'+row[3]+'</span><br><span style="font-size:10px;">'+row[4]+'</span></td></tr></table></div>';
   }
     $(".ac_search").autocomplete(
-      "http://www.madcowmodels.co.uk/dropdown/autocompleteMembers.php",
+      "/dropdown/autocompleteMembers.php",
       {
   			delay:10,
   			minChars:1,
@@ -648,11 +606,30 @@ adsflip_col_url = '555555';
   		}
     );
 	
+  function FormatHeaderSearch(row) {
+    	return '<div align="left" onclick="location.href=\'/'+row[2]+'\';"><table border="0"><tr><td width="40px"><img src="/images/thumbs/'+row[5]+'.jpg" width="40px"></td><td align="left" valign="top">'+row[0]+'<br><span style="font-size:10px;">'+row[3]+'</span><br><span style="font-size:10px;">'+row[4]+'</span></td></tr></table></div>';
+  }
+    $(".ac_HeaderSearch").autocomplete(
+      "/dropdown/HeaderSearch.php",
+      {
+  			resultsClass:"HeaderResults",
+  			delay:10,
+  			minChars:3,
+  			matchSubset:1,
+  			matchContains:3,
+  			cacheLength:10,
+  			onItemSelect:selectItem,
+  			onFindValue:findValue,
+  			formatItem:FormatHeaderSearch,
+  			autoFill:false
+  		}
+    );	
+	
  function formatpostcodeItem(row) {
     	return '<div align="left">'+row[0]+'<br></div>';
   }
     $(".ac_postcode").autocomplete(
-      "http://www.madcowmodels.co.uk/dropdown/autocompletePostcode.php",
+      "/dropdown/autocompletePostcode.php",
       {
   			delay:10,
   			minChars:1,
@@ -666,7 +643,87 @@ adsflip_col_url = '555555';
   		}
     );	
 	
-</script></div>
-<div id="one" class="jGrowl bottom-right"></div>
+	  function selectaItem(li) {
+			if( !!li.extra ) var sValue = li.extra[0];
+			$("#geosel").html(li).fadeIn();
+			$("#GeoDropdown").css({"display":"none"});
+  }
+ function formatGeoItem(row) {
+    	return row[0]+"<br><span style=\"font-size:10px;\">"+row[2]+"</span>";
+  }
+    $(".geo").autocomplete(
+      "/dropdown/autocompleteGeolocations.php",
+      {
+  			delay:10,
+  			minChars:1,
+  			matchSubset:1,
+  			matchContains:3,
+  			cacheLength:1,
+  			onItemSelect:selectaItem,
+  			formatItem:formatGeoItem,
+  			autoFill:false,
+				maxItemsToShow:100
+  		}
+    );	
+		
+function isNumber(n) {
+	return !isNaN(parseFloat(n)) && isFinite(n);
+}
+		
+ function GeoFormatting(row) {
+
+			gReturn = '<table border="0"><tr>';
+			
+			if (isNumber(row[3])){
+				gReturn =  gReturn + '<td width="40px"><img src="/images/thumbs/'+row[3]+'.jpg" width="40px"></td>';
+			}
+			
+			gReturn = gReturn + '<td align="left" valign="top">'+row[0]+'<br><span style="font-size:10px;">'+row[2]+'</span></td></tr></table>';
+			
+			return gReturn;
+  }
+
+function selectGeoItem(lia) {
+	if( !!lia.extra ) var sValue = lia.extra[0];
+	$("#geosel").html(lia).show();
+	$("#GeoDropdown").css({"display":"none"});
+}
+	
+    $(".geoFormat").autocomplete(
+      "/dropdown/autocompleteGeolocations.php",
+      {
+  			delay:10,
+  			minChars:1,
+  			matchSubset:1,
+  			matchContains:3,
+  			cacheLength:1,
+  			onItemSelect:selectGeoItem,
+  			formatItem:GeoFormatting,
+  			autoFill:false,
+				maxItemsToShow:100
+  		}
+    );			
+		
+</script><script type="text/javascript">
+	$(document).ready(function(){
+		$('a[href*="/UserLogin.php"]').each(function(){
+			this.href += '?referback=http%3A%2F%2Fwww.madcowmodels.co.uk%2Findex.php%3Fcontent%3Dprivacy&pt='+(encodeURIComponent($(document).attr('title')));
+		});
+	});
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-18717954-1']);
+  _gaq.push(['_setDomainName', 'madcowmodels.co.uk']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<div id="one" class="jGrowl bottom-right"></div><div id="LoginCheck" class="jqmWindow"></div><div id="check"></div><div id="popupContenter"></div><div class="jqmWindow" id="dialog" align="left"></div>
 
 </body></html>
