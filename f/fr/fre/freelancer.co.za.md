@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freelancer.co.za privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119232458id_/http%3A//www.freelancer.co.za/page.php%3Fp%3Dinfo/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freelancer.co.za privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521193320id_/http%3A//www.freelancer.co.za/page.php%3Fp%3Dinfo/privacy) for the most accurate reproduction.*
 
 # Freelancer.co.za | Online Jobs | Freelance Employment | Outsourcing Services | Programmers | Web Design | Freelancers
 
@@ -17,11 +17,11 @@ Personally Identifiable Information-When visiting Freelancer.com's or any Client
 
 From time to time, Freelancer.com may use customer information for new, innovative and unanticipated uses not previously disclosed or described in our privacy notice. If our information practices change at some time in the future we will post the policy changes to the Freelancer.com web site to notify you of these changes and provide you with the ability to opt out of these new uses or changes. If you are concerned about how your information is used, you should check back at our web site periodically. 
 
-Customers may prevent their information from being used for purposes other than those for which it was originally collected by contacting us [here](https://web.archive.org/web/20121119232458id_/http%3A//www.freelancer.co.za/page.php%3Fp%3Dinfo/report/contact.php). Upon request we provide site visitors with access to all information [including proprietary information] that we maintain about them. 
+Customers may prevent their information from being used for purposes other than those for which it was originally collected by contacting us [here](https://web.archive.org/web/20130521193320id_/http%3A//www.freelancer.co.za/page.php%3Fp%3Dinfo/report/contact.php). Upon request we provide site visitors with access to all information [including proprietary information] that we maintain about them. 
 
 Aggregate Information--Freelancer.com collects non-identifying, general, generic and aggregate information to better design our Web site and services, and shares the aggregate data with advertisers and other third parties. With respect to security: Freelancer.com uses industry-standard encryption technologies when transferring and receiving consumer and transaction data exchanged with our site. 
 
 ### Contacting the Web Site
 
   
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please [Contact us](https://web.archive.org/web/20121119232458id_/http%3A//www.freelancer.co.za/page.php%3Fp%3Dinfo/report/contact.php). 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please [Contact us](https://web.archive.org/web/20130521193320id_/http%3A//www.freelancer.co.za/page.php%3Fp%3Dinfo/report/contact.php). 
