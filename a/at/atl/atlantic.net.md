@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atlantic.net privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014004924id_/http%3A//www.atlantic.net/About-Us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atlantic.net privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521082009id_/http%3A//www.atlantic.net/About-Us/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,7 +10,9 @@ Atlantic.Net gathers data from users of its website to improve content, enhance 
 
 We may compile information from third-party providers, such as site redirects, search engine queries, and SEO tools. Furthermore, our advertisements may use tracking technology to determine effectiveness of advertising campaigns.
 
-We do not provide services designed for or directed at children under the age of 13 in accordance with the Children’s Online Privacy Protection Act (COPPA). We do not intentionally collect personal information from children under the age of 13.
+Atlantic.Net may use cookies to gather personal information. A cookie is a unique identifier that measures the number of website visitors. Cookies are not executable code, do not contain viruses, and can be disabled in the Web browser's security settings. Of note, disabling cookies limits the level of personalization provided during a visit. 
+
+We do not provide services designed for or directed at children under the age of 13 in accordance with the Children's Online Privacy Protection Act (COPPA). We do not intentionally collect personal information from children under the age of 13.
 
 ### How Atlantic.Net Uses Information Collected
 
