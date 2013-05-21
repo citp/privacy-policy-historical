@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weeklyworldnews.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118175322id_/http%3A//weeklyworldnews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weeklyworldnews.com privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521220734id_/http%3A//weeklyworldnews.com/privacy-policy) for the most accurate reproduction.*
 
 # Weekly World News | Privacy Policy
 
@@ -8,6 +8,8 @@ WeeklyWorldNews.com is committed to protecting the privacy of its visitors and h
 
 INFORMATION GATHERING AND USE  
 Certain non-personally identifiable information about our visitors is collected by the standard operation of WeeklyWorldNews.com internet servers and through the use of “cookie” technology. A “cookie” is a small amount of data that is sent to your browser from a web server and stored on your computer’s hard drive. WeeklyWorldNews.com, like other websites, uses cookies to remind us of who you are, estimate our audience size, and measure visiting and traffic patterns, among other things.
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp)
 
 Advertisers that serve ads onto WeeklyWorldNews.com may also use their own cookies. You have choices with respect to cookies. By modifying browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. If you choose to reject all cookies you will be unable to use those WeeklyWorldNews.com features that require registration in order to participate.
 
