@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the game.co.uk privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120085725id_/http%3A//www.game.co.uk/en/info/StaticPageDisplay%3FlangId%3D44%26storeId%3D10151%26categoryId%3D27502%26brdcrmb_trail%3DHelp%7CPolicies%26catalogId%3D10201) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the game.co.uk privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521212635id_/http%3A//www.game.co.uk/en/info/StaticPageDisplay%3FlangId%3D44%26storeId%3D10151%26categoryId%3D27502%26brdcrmb_trail%3DHelp%7CPolicies%26catalogId%3D10201) for the most accurate reproduction.*
 
 # Privacy Policy | GAME
 
