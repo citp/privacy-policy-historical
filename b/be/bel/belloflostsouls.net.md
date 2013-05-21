@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the belloflostsouls.net privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118050630id_/http%3A//www.lounge.belloflostsouls.net/faq.php%3Ffaq%3Dprivparent%23faq_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the belloflostsouls.net privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521220600id_/http%3A//www.lounge.belloflostsouls.net/faq.php%3Ffaq%3Dprivparent%23faq_privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
