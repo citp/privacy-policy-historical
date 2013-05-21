@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adoresearch.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213072746id_/http%3A//www.adoresearch.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adoresearch.com privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521045632id_/http%3A//www.adoresearch.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -38,4 +38,4 @@ If a user no longer wishes to receive e-mail communication from Adoresearch.com,
 
 ## Contact Information
 
-Adoresearch.com is owned and operated by Bandoo, Inc. Please direct all questions in connection with this Policy via e-mail to [privacy@adoresearch.com](mailto:privacy@adoresearch.com) or by writing to Bandoo, Inc., Attention: Privacy Policy Administrator, 40 kimonos st.3095 Limassol, Cyprus
+Adoresearch.com is owned and operated by Bandoo Media Inc. Please direct all questions in connection with this Policy via e-mail to [privacy@adoresearch.com](mailto:privacy@adoresearch.com) or by writing to Bandoo Media Inc., Attention: Privacy Policy Administrator, 40 kimonos st.3095 Limassol, Cyprus
