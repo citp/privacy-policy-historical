@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the madcowmodels.com privacy policy that was archived on 2011-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111122220552id_/http%3A//www.madcowmodels.co.uk/index.php%3Fcontent%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the madcowmodels.com privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521194331id_/http%3A//www.madcowmodels.co.uk/index.php%3Fcontent%3Dprivacy) for the most accurate reproduction.*
 
 # MadcowModels | The Free Online Networking Website for the Modeling and Photographic Industry
 
@@ -112,6 +112,3 @@ If you believe you are a victim of identity theft you are entitled by law to req
 _d. Notice required by law._
 
 If we are required to disclose to provide notice of invasion of certain security systems, we will do so by email to the most recent email address you have provided. It is critical you keep your contact and email information up to date and correct at all times. 
-
-©Copyright 2011 Madcow Models.   
-All Rights Reserved. Any photos contained on this page are copyright of their respective owners. All Rights Reserved. All Trademarks are the property of their respective owners. 
