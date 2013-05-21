@@ -1,67 +1,65 @@
-> *The following text is extracted and transformed from the koders.com privacy policy that was archived on 2012-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120827101754id_/http%3A//corp.koders.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the koders.com privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521044512id_/http%3A//meta.ohloh.net/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Koders.com
+# Ohloh Meta | Ohloh Privacy Policy
 
-| 
+You may review the Black Duck Software Privacy Policy by clicking here.  
+[Black Duck Software Privacy Policy](http://www.blackducksoftware.com/legal/privacy)
 
-[Home](https://web.archive.org/) » Privacy Policy
+Thank you for visiting Ohloh Corporation’s (“Ohloh”) Internet web sites located at the URLs: www.ohloh.net, labs.ohloh.net and classifieds.ohloh.net (collectively, the “Sites”). This Privacy Policy details certain policies implemented throughout Ohloh governing Ohloh’s use of personally identifiable information about users of our Sites and users of our services and/or software that is available for download on the Sites.
 
-### Koders Privacy Policy
+Privacy Policy Updates  
+Due to the Internet’s rapidly evolving nature, Ohloh may need to update this Privacy Policy from time to time. If so, Ohloh will post our updated Privacy Policy on the Sites located at www.ohloh.net, labs.ohloh.net and classifieds.ohloh.net and post notice of the change so it is visible when users log-on for the first time after the change is posted. Ohloh may also send registered users of the Sites e-mail notifications notifying such users of any changes to the Privacy Policy. Ohloh encourages you to review this Privacy Policy regularly for any changes. Your continued use of the Sites and/or continued provision of personally identifiable information to us will be subject to the terms of the then-current Privacy Policy.
 
-At Black Duck Software we respect your right to privacy. We understand that as a visitor to one our web sites ([www.blackducksoftware.com](http://www.blackducksoftware.com/) and [www.koders.com](http://www.koders.com/)) (each a "Web Site"), you prefer to control your own personal information preferences. For this reason, we may ask you to register or provide personal information and preferences when you visit certain areas of our Web Sites, download free software, upload software for our search engine, request information, register for events, register new products, subscribe to company newsletters, or use our message forums.
+Information Collection and Use  
+You can generally visit our Sites without revealing any personally identifiable information about yourself. However, in certain sections of the Sites and when you log-in and download our software, we may invite you to participate in surveys, questionnaires or contests, contact us with questions or comments or request information or complete a profile or registration form. Due to the nature of some of these activities, we may collect personally identifiable information such as your name, address, email address, phone number, password, screen name, tax ID#, banking information, credit card number and other contact information that you voluntarily transmit with your communication to us. Additionally, we may collect personally identifiable information about you from public records such as source control systems and source code files. We also may collect information about you and your use of our Sites, services and/or software through your use of our Sites, services and/or software.  
+We may use your personally identifiable information to register you to download our software or use our services, contact you to deliver certain services or information you have requested, verify your authority to enter our Sites, improve the content and general administration of the Sites and our services and provide you with notices about other users of our Sites, software and/or services that you may wish to contact.
 
-We will guard the personal information you share with us to ensure that the content and services we provide on our Web Sites are always tailored to your current, designated preferences.
+We may also use your personally identifiable information that you voluntarily submit to us and that is collected from public records such as aliases used on source control systems and source code files to generate statistics about your technical history in the open source community that may be displayed publicly on the Sites, for example, without limitation, lines of code written, programming languages used and time periods of work.
 
-When you provide Black Duck Software with your name, email address, mailing address, or telephone number, and you don't "opt out", we may use this information to alert you to company news, new services and other company and product information. We don't sell any user-provided information to third parties.
+Profiles, Listings and Messages  
+User profile information, including user name and any additional information that a user may choose to post in his profile, is displayed to other users of the Sites in order to facilitate user interaction. Your full name is never directly revealed to other users without your express permission, unless you include your full name in your user profile or as your username. Any personal information that you voluntarily disclose online (in messages and within your profile, etc.) becomes publicly available and can be collected and used by others. In cases where Site profiles allow users to display optional information publicly, such submission of personal information is voluntary and at the user’s discretion and may be changed at any time by the user.  
+In some cases, users may have the opportunity to use the website located at classifieds.ohloh.net (the “Classifieds Site”) to advertise events, announcements, job positions and/or services by posting listings (collectively, “Listings”) on the Classifieds Site and/or the websites of Ohloh affiliates who have registered with Ohloh to provide the classified advertising service and display the Listings (“Affiliate Sites”). Such Listings are subject to the specific terms and conditions that are posted to the Classifieds Site that are relevant to Ohloh’s classifieds service. In such cases, the poster’s full name, e-mail address and any additional personally identifiable information that a user may choose to include in the Listing will be publicly displayed to other users of the Classifieds Site and/or Affiliate Sites.
 
-If you don't want Black Duck Software or Black Duck Software representatives to contact you, you may "opt-out" of this preference at any time, whether you're online or contacting Black Duck Software directly. You'll always have the flexibility to opt back in at any time based on previous information or newly updated information. See the "How to update your personal information" section for further information.
+In some cases, users may have the opportunity to use the Sites to send messages to other users or email lists and other users can contact you through messages and comments. In such cases, the sender’s name will be included with such message. In order to prevent abuse, users may not opt-out of displaying their names, but users may choose to refrain from using the Sites to transmit messages.
 
-### Collecting other personal information
+Surveys
 
-When you browse our Web Sites, you can do so anonymously. Generally, we don't collect personal information when you browse - not even your email address. However, your browser automatically tells us the type of computer and operating system you're using.
+Ohloh may conduct surveys or other studies of its user base and usage for marketing and planning purposes. Participation in such surveys is at the user’s option, but Ohloh does reserve the right to conduct mandatory surveys in the future. With respect to information collected from such surveys or studies, and in the event that responses are to be publicly disclosed, users will be notified at the time they take the survey. Ohloh will disclose only aggregate information regarding its users and not personal information identifying any specific individual. Notwithstanding the foregoing, in cases where surveys allow users to submit written comments, and where Ohloh advises users of the possibility of such public disclosure at the time they take the survey, Ohloh reserves the right to disclose text information provided by any user through such a survey, provided that no personally identifiable information of such user is disclosed.  Circumstances under which Ohloh would publicly disclose aggregate information include, but are not limited to, sharing survey results with the Sites’ other users, providing data to Ohloh advertisers on user preferences and/or demographics, business planning, and publicizing overall usage data in press communications.
 
-Like most standard web servers, our Web Sites use log files and cookies. A "cookie" is a small line of text that is stored with your Web browser for record-keeping purposes and helps Black Duck Software provide better service to you. Your browser has an option to accept, reject or provide you with notice when a cookie is sent.
+Choice to Opt-In
 
-As you visit our Web Sites, a cookie follows as you navigate the site, collecting information including internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, number of clicks, and similar information. This information is used to analyze trends, administer the site, track users' overall movements, and gather broad demographic information for aggregate use only, to help us understand what users are seeking on our Web Sites. We may share this information with third parties for the purpose of processing and trend analysis. IP addresses are not linked to personally identifiable information, and personal information about you is not collected or shared as a result of this process.
+Upon registration of your account, Ohloh will give you the opportunity to “opt in” to receive communications from Ohloh. This means we will require your affirmative action to indicate your consent before we send you such communications.
 
-For certain Web Site functions, such as the purchase of a product or service or create an account for using our message forums,, we may request certain personally identifiable information from you. You must provide contact information (such as name, email, and address) and, where applicable, financial information (such as credit card number, expiration date). We use this information for billing purposes and to fill your orders. If we have trouble processing an order, we will use this information to contact you. We do not retain credit card data without your express authorization.
+Children’s Privacy  
+Ohloh recognizes the privacy interests of children and we encourage parents and guardians to take an active role in their children’s online activities and interests. These Sites are not intended for children under the age of 13. Ohloh does not target its services or these Sites to children under 13. Ohloh does not knowingly collect personally identifiable information from children under the age of 13.
 
-### How we protect your personal information
+Cookies  
+We may use small text files called cookies to improve overall Site experience. A cookie is a piece of data stored on the user’s hard drive containing information about the user. Cookies generally do not permit us to personally identify you.
 
-When you enter sensitive information (such as a credit card number) on our order forms, we encrypt that information using secure socket layer technology (SSL). We follow generally accepted industry standards to protect the sensitive information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+Aggregate Information  
+These Sites may track the total number of visitors to our Sites, the number of visitors to each page of our Sites, browser type, IP addresses, External Web Sites (defined below) linked to, and we may analyze this data for trends and statistics in the aggregate, but such information will be maintained, used and disclosed in aggregate form only and it will not contain personally identifiable information. We may use such aggregate information to analyze trends, administer the Sites, track users’ movement, and gather broad demographic information for aggregate use.
 
-Black Duck Software will always protect the personal information that you share with us. Black Duck Software stores information internally in a controlled, secure environment. We occasionally hire other companies to provide limited services on our behalf, including sending postal mail and processing event registration. We will only provide those companies the information they need to deliver the service, and they are prohibited from using that information for any other purpose.
+Disclosure  
+We may provide your personally identifiable information and the data generated by cookies and the aggregate information to the vendors and service agencies that we may engage to assist us in providing our services to you. For example, we may provide your personally identifiable information to a credit card processing company to process your payment. We will also disclose your personally identifiable information (a) only if we are required to do so by law, regulation or other government authority or otherwise in cooperation with an investigation of a governmental authority, (b) to enforce the Ohloh Terms of Service agreement, this Privacy Policy or to protect our rights or (c) to protect the safety of users of our Sites and our services. We may transfer your personally identifiable information to a successor entity upon a merger, consolidation or other corporate reorganization in which Ohloh participates or to a purchaser or acquirer of all or substantially all of Ohloh’s assets to which these Sites relate.
 
-If Black Duck Software requests general demographic information, this information is limited to reporting purposes only; users remain anonymous. Phone numbers, e-mail addresses, and postal addresses are never shared for demographic reports with outside entities. Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law when we believe in good faith that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on one of our Web Sites.
+Links to Third Party Sites  
+These Sites may provide links to other Web sites or resources over which Ohloh does not have control (“External Web Sites”). Such links do not constitute an endorsement by Ohloh of those External Web Sites. You acknowledge that Ohloh is providing these links to you only as a convenience, and further agree that Ohloh is not responsible for the content of such External Web Sites. Your use of External Web Sites is subject to the terms of use and privacy policies located on the linked to External Web Sites.
 
-### How to update your personal information
+Security  
+We may employ procedural and technological measures that are reasonably designed to help protect your personally identifiable information from loss, unauthorized access, disclosure, alteration or destruction. Ohloh may use firewalls, password protection and place internal restrictions on who in the company may access data to help prevent unauthorized access to your personally identifiable information.
 
-You can help Black Duck Software maintain the accuracy of your personal information by notifying us when you change your name, address, title, phone number, e-mail address or your content preferences. If at any time you wish to update your information or preferences, or you prefer to stop receiving communication from Black Duck Software, feel free to contact us at any time.  
-Black Duck Software Privacy Contacts
+Correction/Updating/Deleting Personally Identifiable Information  
+Ohloh provides you with the ability to update, correct and delete the contact information that you have provided to us and information about your previous activity on the Sites. If you wish to update or correct any of the foregoing information, you may access your account and review, correct and delete your personally identifiable information or you may contact us at: [insert applicable e-mail address].  
+Ohloh also provides you with the ability to delete the personally identifiable information that you have provided to us; provided, however, that Ohloh will retain a copy in its files of all personally identifiable information, even if removed, in order to resolve disputes or enforce its terms of service.
 
-POSTAL MAIL:  
-Black Duck Software, Inc.  
-Attn: Privacy  
-8 New England Executive Park   
-Burlington, MA 01803Tel: +1 781.891.5100
+If you wish to review, correct or request the deletion of any information you have provided to us, contact us:
 
-[http://www.blackducksoftware.com](http://www.blackducksoftware.com/)
+By e-mail: privacy@ohloh.net
 
-If you change your e-mail or postal address, please contact Black Duck Software. In order to make the appropriate corrections, please include both your old and new address.
+By phone: ++1 206 331-4532
 
-### Links
+If you have any questions regarding this Privacy Policy please contact us at the email address or phone number set forth above.
 
-Our Web Sites may contain links to other web sites. Black Duck Software assumes no responsibility for the content or the privacy policies and practices of such web sites. Black Duck Software encourages you to read the privacy statements of these linked sites; their privacy practices may differ from ours.
-
-### Notification of Changes
-
-If we decide to change our privacy policy, we will post those changes to this privacy statement and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we are going to use users' personally identifiable information in a manner different from that stated at the time of collection we will notify users via email. Users will have a choice as to whether or not we use their information in this different manner. However, if users have opted out of all communication with the site, or deleted/deactivated their accounts, then they will not be contacted, nor will their personal information be used in this new manner. In addition, if we make any material changes to our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our Web Sites notifying users of the change. In some cases where we post a notice we will also email users who have opted to receive communications from us, notifying them of the changes in our privacy practices.  
-Business Transitions
-
-If Black Duck Software undergoes a business transition such as a merger, being acquired by another company, or selling a portion of its assets, users' personal information will, in most instances, be part of the assets transferred. If as a result of the business transition, users' personally identifiable information will be used in a manner different from that stated at the time of collection, they will be given choice consistent with our notification of changes section.
-
-_Effective Date 4/25/08_
-
-| 
+Our computer systems are currently based in the United States, so your personal data will be processed by us in the U.S. where data protection and privacy regulations may not offer the same level of protection as in other parts of the world, such as the European Union. If you create a user account with one or both of the Sites as a visitor from outside the United States, by using either Site, you agree to this Privacy Policy and you consent to the transfer of all such information to the United States, which may not offer an equivalent level of protection of that required in the European Union or certain other countries, and to the processing of that information as described in this Privacy Policy.  
+This Privacy Policy was last updated: January 29, 2008  
+This Privacy Policy is effective as of: June 18, 2006
