@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yha.org.uk privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114174847id_/http%3A//www.yha.org.uk/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yha.org.uk privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521193248id_/http%3A//www.yha.org.uk/privacy-statement) for the most accurate reproduction.*
 
-# Privacy statement | YHA Website
+# Privacy statement | YHA
 
 YHA (England and Wales) Ltd understands that customers care about the use and storage of their personal information and data and we value your trust in allowing us to do this in a careful and sensible manner.
 
