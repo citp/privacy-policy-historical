@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the home-loans-made-easy.com privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119081030id_/http%3A//home-loans-made-easy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the home-loans-made-easy.com privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521075314id_/http%3A//home-loans-made-easy.com/privacy-policy) for the most accurate reproduction.*
 
-# | Rehab Loans For Distressed Properties in Dallas/Fort Worth | Call Rob @ 303-521-7622
+# | Private Money Lending | Dallas | Houston | San Antonio | Call Rob @ 303-521-7622
 
 We have created this privacy statement for Home Affordable Refinance Program in order to demonstrate our firm and continuing commitment to the privacy of personal information provided by those visiting and interacting with [Home Loans Made Easy](http://home-loans-made-easy.com/). We hold the privacy of your personal information in the highest regard. The following discloses our information gathering and dissemination practices for this website.
 
@@ -94,4 +94,4 @@ Copyright 2010 – 2012 **Home-Loans-Made-Easy.com** , All rights reserved.
 
 Unauthorized duplication or publication of any materials from this Site is expressly prohibited 
 
-We depend on a [free plugin for wordpress](http://www.bloggerhigh.com/), do you? 
+Enhance the surfer experience by means of a [wordpress plugin menu](http://www.bloggerhigh.com/)
