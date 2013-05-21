@@ -1,99 +1,79 @@
-> *The following text is extracted and transformed from the freesamples.org privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403082500id_/http%3A//www.elibs.com/e/p/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freesamples.org privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521225236id_/http%3A//www.freesamples.org/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Free Samples: » Privacy Policy
 
-Our commitment to privacy. Your privacy, as well as your child's privacy, is of utmost importance to us. At eLibs, one of our primary goals is to help parents ensure that their kids have a safe and fun online experience. Therefore, in order to better protect your (and your child's) privacy, we provide this notice explaining our online information practices and the choices you can make about the way your (and your child's) information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally-identifiable information may be requested. The following notice applies to all information collected or submitted on the eLibs' website.
+Privacy Policy
 
-* * *
+FreeSamples.org is committed to respecting the privacy rights of users of the Website (all capitalized terms not defined in this notice have the same meanings as in FreeSamples.org’ Website Terms of Use, which is incorporated herein by reference). FreeSamples.org created this Privacy Policy to give You confidence as You visit and use the Website, and to demonstrate its commitment to fair information practices and to the protection of privacy.
 
-**What information is collected?**
+This Privacy Policy is only applicable to the Website and not to any Third-Party Websites, which may have data collection, storage and use practices and policies that differ materially from this Privacy Policy. For additional information, see the section concerning Third-Party Websites, below.
 
-Personally-Identifiable Information: eLibs does not collect personally-identifiable information on our visitors unless they voluntarily provide it to us, and we will only collect information from children younger than 13 if such information is reasonably necessary to allow them to participate in a particular online activity. Locations within our website where personal information may be requested include pages where the visitor can enter sweepstakes and contests, subscribe to email newsletters, register to receive materials, and submit articles or materials for posting to our website. The types of personal information collected at these pages can include the visitor's full name, email address, mailing address, and date of birth.
+BY USING THE WEBSITE, YOU REPRESENT AND WARRANT THAT YOU HAVE READ AND UNDERSTOOD, AND AGREE TO THE TERMS OF, THIS PRIVACY POLICY. IF YOU DO NOT UNDERSTAND OR DO NOT AGREE TO BE BOUND BY THIS PRIVACY POLICY, YOU MUST IMMEDIATELY LEAVE THE WEBSITE.
 
-For some activities, such as sending an electronic postcard or an email message to a friend, we may also ask for personal information about the third party receiving the postcard or message. This information is usually limited to the name and email address of the recipient, and is generally deleted once the postcard or message has been sent. 
+Each time You use the Website, the then-current version of this Privacy Policy will apply. Accordingly, each time You use the Website You should check the date of this Privacy Policy (which appears at the end) and review any changes since the last time You used the Website. For additional information, see the section concerning Updates and Changes to Privacy Policy, below.
 
-Non-personally Identifiable Information: For some activities, we may ask visitors to provide information about themselves that is not personally identifiable. This information might include their city and/or state of residence, zip code, age, and gender.
+**1.INFORMATION COLLECTION PRACTICES**
 
-eLibs will also collect at times, through the use of "cookies" (see the section on cookies below), other non-personally identifiable information on visitors; collecting this information will allow us to improve the design and content of our site, and to personalize our visitors' experience on eLibs.
+**(a)Traffic Data.** Like most website operators, FreeSamples.org automatically gathers information of the sort that browsers automatically make available, including: (i) IP addresses; (ii) domain servers; (iii) types of computers accessing the Website; and (iv) types of Web browsers accessing the Website (collectively “Traffic Data”). Traffic Data is anonymous information that does not personally identify You.
 
-* * *
+**(b)Cookies.** A “Cookie” is a string of information that a website stores on a user’s computer, and that the user’s browser provides to the website each time the user submits a query to the website. The purpose of a Cookie is to identify the user as a unique user of the Website. FreeSamples.org uses Cookies to customize Your experience on the Website to Your interests, to ensure that You do not see the same advertisements or informational messages repeatedly, and to store Your password so You do not have to re-enter it each time You visit the Website. For additional information on FreeSamples.org’s uses of Cookies, see the section concerning Information Use and Disclosure Practices/Traffic Data and Information Gathered Using Cookies, below.
 
-**How does eLibs use and share the information that has been collected?**
+IF YOU DO NOT WISH TO HAVE COOKIES PLACED ON YOUR COMPUTER, YOU SHOULD SET YOUR BROWSERS TO REFUSE COOKIES BEFORE ACCESSING THE WEBSITE, WITH THE UNDERSTANDING THAT CERTAIN OF THE SERVICES AND CERTAIN FEATURES OF THE WEBSITE MAY NOT FUNCTION PROPERLY WITHOUT THE AID OF COOKIES. IF YOU REFUSE COOKIES, YOU ASSUME ALL RESPONSIBILITY FOR ANY RESULTING LOSS OF FUNCTIONALITY.
 
-ELIBS HAS THE RIGHT TO SELL, MARKET, TRADE OR OTHERWISE SHARE PERSONALLY-IDENTIFIABLE INFORMATION WITH ANY THIRD PARTY, REGARDLESS OF THE PERSON'S AGE. ALL INFORMATION COLLECTED ON CHILDREN YOUNGER THAN 13 IS USED FOR INTERNAL PURPOSES ONLY, and is used only for activities such as marketing of eLibs' products, programs or services, notifying sweepstakes or contest winners, and emailing eLibs stories. Any personal information that we obtain through a contest or sweepstakes is immediately deleted after the completion of the particular event. Information about another person that has been provided to us by a visitor will be used only to enable that visitor to communicate with such person; for example, by allowing the visitor to send such person an  
-electronic postcard or email message.
+**(c) Personal Information.** In order for You to use certain of the Services, You may be asked to provide FreeSamples.org certain information that personally identifies You (“Personal Information”). Personal Information includes, without limitation: (1) “Contact Data” (such as Your name and e-mail address) and (2) “Demographic Data” (such as age and time zone). In each case, You will be asked to provide Personal Information; the Website will not gather it surreptitiously. FreeSamples.org may supplement the Personal Information You provide with additional Personal Information gathered from public sources or from third-parties (e.g., consumer reporting agencies) who may lawfully provide such information to FreeSamples.org.
 
-Sometimes, we use agents or contractors to provide services to our visitors, such as helping us conduct a sweepstakes or contest, or sending prizes to winners. In these cases, we require any such agent or contractor to keep the information confidential and to use it only for the specific services they are performing. 
+You are under no obligation to provide Personal Information, with the caveat that Your refusal to do so may prevent You from using certain of the Services.
 
-We sometimes use and aggregate non-personally identifiable information that we collect to improve the design and content of our site, to analyze site usage, to personalize our visitors' experience on eLibs, and to offer products, programs and services. 
+**(d) Information You Make Public.** The Website contains features (e.g. forums) that permit You to upload, post, transmit, display, perform or distribute content, information or other, including Your Personal Information. Any information that You choose to disclose by means of such features becomes public information over which FreeSamples.org is unable to exercise control. You should exercise caution when deciding to disclose Your Personal Information by means of such features, and You agree to assume all responsibility for doing so.
 
-We will disclose any information we maintain as required by law; for example, we will disclose such information in response to a court order or a subpoena, or in response to a specific law enforcement agency's request.
+**2.INFORMATION USE AND DISCLOSURE PRACTICES**
 
-* * *
+**(a)Traffic Data and Information Gathered Using Cookies**
 
-**Does eLibs use "cookies"?**
+FreeSamples.org analyzes Traffic Data and information gathered using Cookies to help FreeSamples.org better understand who is using the Website and how they are using it. By identifying patterns and trends in usage, FreeSamples.org is able to better design the Website to improve Your experience, and to serve You more relevant and interesting content and advertisements. From time to time, FreeSamples.org may release Traffic Data and information gathered using Cookies in the aggregate, such as by publishing a report on trends in the usage of the Website. FreeSamples.org does not attempt to link information gathered using Cookies to Personal Information.
 
-  
-eLibs uses a software technology commonly called "cookies." Cookies are small text files that we place in visitors' computer browsers to store their preferences. eLibs uses cookies to enable the visitor's computer to remember the visitor's password, email addresses of friends, and stories that have been read or created and submitted by them. The use of "cookie" files has become an industry standard for many, if not most, of the many thousands of companies doing business on the internet. Like these other companies, eLibs.com also uses cookies in an effort to provide a more meaningful web surfing experience to internet users. Most browsers permit you to remove cookies that have been previously stored, as well as prevent the future use of cookies. You may also delete the eLibs.com cookie file with your computer. If you would like to do so, please follow the following directions:  
+**(b)Personal Information**
 
+**(i)Generally**. FreeSamples.org uses Your Contact Data to send You information about FreeSamples.org and FreeSamples.org’s products and services, and to contact You when necessary in connection with the Services. FreeSamples.org uses Your Demographic Data to customize and tailor Your experience on the Website. As with Traffic Data and information gathered using Cookies, from time to time FreeSamples.org may release Demographic Data in the aggregate, such as by publishing a report on trends in the usage of the Website.
 
-1\. Start menu -> Find -> Find Files or Folders
+**(ii)Disclosure Practices**
 
-Search for "www.elibs" and delete any   
-files that come up in your "cookies" directory
+Except under the following circumstances, FreeSamples.org will keep Your Personal Information private, and will not sell or otherwise share it with third parties:
 
-Close and restart web browser 
+&bull Disclosure in Connection with Services. FreeSamples.org discloses Personal Information to those who help it provide Services, including those who perform technical, administrative and data processing tasks such as hosting, billing, fulfillment, and data storage and security.
 
-2\. IE 6.0 
+&bull License to User Content. As stated in the Website Terms of Use, by using the Website, You grant the FreeSamples.org Parties the right to publish Your name and any username of Yours in connection with the FreeSamples.org Parties’ exercise of their license in and to Your User Content. You further waive any claims arising from the FreeSamples.org Parties’ exercise of that right. For additional information, see Terms of Use Section 11, regarding User Content.
 
-In ie -> Tools menu -> Internet Options
+&bull By Law or to Protect Rights. FreeSamples.org discloses Personal Information when required to do so by law, or in response to a subpoena or court order, or when FreeSamples.org believes in its sole discretion that disclosure is reasonably necessary to protect the property or rights of FreeSamples.org, third parties or the public at large.
 
-select "privacy" tab -> Click "Edit ..." button
+&bull Business Transfers; Bankruptcy. FreeSamples.org reserves the right to transfer all Personal Information in its possession to a successor organization in the event of a merger, acquisition, or bankruptcy or other sale of all or a portion of FreeSamples.org’ assets. Other than to the extent ordered by a bankruptcy or other court, the use and disclosure of all transferred Personal Information will be subject to this Privacy Policy, or to a new privacy policy if You are given notice of that new privacy policy and an opportunity to affirmatively opt-out of it. Personal Information submitted or collected after a transfer, however, may be subject to a new privacy policy adopted by FreeSamples.org’ successor organization.
 
-Enter "elibs.com" in Address of Web Site box. 
+**3.SECURITY OF PERSONAL INFORMATION**
 
-Click "Block" 
+FreeSamples.org has implemented and maintains reasonable security procedures and practices to protect against the unauthorized access, use, modification, destruction or disclosure of Your Personal Information.
 
-Click "Ok" on edit window
+**4.NEWSLETTERS**
 
-Click "Ok" on internet options window  
+You may subscribe to receive the FreeSamples.org newsletter at FreeSamples.org. Each newsletter has clear instructions about how to unsubscribe. Should You subscribe to the newsletter and later wish to unsubscribe, You can opt-out of receiving the newsletter at anytime by following the unsubscribe instructions contained therein.
 
+**5.LOST OR STOLEN INFORMATION**
 
-* * *
+You must promptly notify us if Your user name or password is lost, stolen or used without permission. In such and event, we will remove that user name or password from Your account and update our records accordingly.
 
-**Does eLibs notify parents about the collection of information  
-about kids 12 and younger?**
+**6.USER ABILITY TO ACCESS, UPDATE, AND CORRECT PERSONAL INFORMATION**
 
-eLibs requires that all users provide us with (among other things) their age and, if they are under the age of 13, with their parents' email addresses, so that we can (i) notify their parents or guardians that we have received information from their children, (ii) provide their parents or guardians with the option of having their child's name removed from our mailing lists, and (iii) obtain their parents' or guardians' consent prior to allowing their child to post messages, communicate with others through our website, or utilize other features of our website where personally-identifiable information can be made available to the public via the Internet and shared with users of all ages.  
+FreeSamples.org wants Your Personal Information to be complete and accurate. As stated in the Website Terms of Use, by using the Website, You represent and warrant that all information You provide on any registration form or otherwise in connection with Your use of the Website and Services will be complete and accurate, and that You will update that information as necessary to maintain its completeness and accuracy. To confirm the completeness and accuracy of, or make changes to, Your Personal Information, visit Your personal profile. Through Your personal profile You may review and update You Personal Information that we have already collected.
 
+**7.THIRD-PARTY WEBSITES**
 
-* * *
+FreeSamples.org neither owns nor controls Third-Party Websites. Accordingly, Third-Party Websites are under no obligation to comply with this Privacy Policy except with respect to Personal Information provided directly to them by FreeSamples.org. Before visiting or providing Personal Information to a Third-Party Website, You should inform Yourself of the privacy policies and practices (if any) of that Third-Party Website, and should take those steps necessary to, in Your discretion, protect Your privacy.
 
-**Why type of security does eLibs provide?**
+**8.PROMOTIONAL ACTIVITIES**
 
-The importance of security for all personally-identifiable information associated with our visitors is our greatest concern. To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, eLibs has put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
+From time to time, FreeSamples.org may conduct contests, giveaways and other promotions (collectively, “Promotional Activities”). Any information submitted in connection with Promotional Activities will be treated in accordance with this Privacy Policy. From time to time, FreeSamples.org may also ask You to participate in surveys designed to help FreeSamples.org improve the Websites or Services. Any Personal Information provided to FreeSamples.org in connection with any survey will be used only in relation to that survey, and will be disclosed to third parties not bound by this Privacy Policy only in aggregated form.
 
-In addition, there are some things that you can do to help protect the security of your information as well. For instance, never give out your password, as this is what is used to access all of your account information. Also, remember to sign out of your account and close your browser window when you finish using the internet so that other people using the same computer will not have access to your information.
+**9.UPDATES AND CHANGES TO PRIVACY POLICY**
 
-* * *
+Although most changes are likely to be minor, FreeSamples.org reserves the right, at any time and without notice, to add to, update, change or modify this Privacy Policy, simply by posting such update, change or modification on this page. Any such addition, update, change or modification will be effective immediately upon posting on the Website. Each time You use the Website, the then-current version of this Privacy Policy will apply. Accordingly, each time You use the Website You should check the date of this Privacy Policy (which appears at the end) and review any changes since the last time You used the Website. Unless FreeSamples.org obtains Your express consent, any revised Privacy Policy will apply only to information collected after the effective date of such revised Privacy Policy, and not to information collected under any earlier Privacy Policy.
 
-**How do parents access information about their kids?**
-
-At eLibs, our goal is to help parents ensure that their kids have a safe and fun online experience. PARENTS HAVE THE RIGHT TO CONSENT TO THE COLLECTION AND USE OF THEIR CHILD'S PERSONAL INFORMATION WITHOUT CONSENTING TO THE DISCLOSURE OF THAT INFORMATION TO THIRD PARTIES. In order to allow parents to review any personally-identifiable information collected about their child, have this information deleted, and/or request that there be no further collection or use of their child's information, we have set up a system by which parents can print out a form, execute it accordingly, and then mail or fax the form back to us. In order to receive the form, please click on the following link:  
-[Personal Information Access - Inquiry Form  
-](https://web.archive.org/web/20050403082500id_/http%3A//www.elibs.com/e/p/parentform) Please send this form to the address or fax number provided at the bottom of the form (also set forth below). eLibs takes steps to verify the identity of anyone requesting information about a child and to ensure that the person is in fact the child's parent or legal guardian.
-
-* * *
-
-**Who do I contact with questions or concerns about this privacy policy?**
-
-PRIVACY COORDINATOR, ELIBS.COM  
-ELIBS.COM, INC.  
-6223 Bay Club Drive  
-Suite #2  
-Fort Lauderdale, FL 33308
-
-Or email us at:  
-[matt@elibs.com](mailto:matt@elibs.com)
-
-© 2001-2003 elibs.com. Inc. All rights reserved. ****
+Effective Date: [30/11/2008]
