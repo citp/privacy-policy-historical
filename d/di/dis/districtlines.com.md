@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the districtlines.com privacy policy that was archived on 2012-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121117063117id_/http%3A//www.districtlines.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the districtlines.com privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522015732id_/http%3A//www.districtlines.com/privacy_policy) for the most accurate reproduction.*
 
 # District Lines | Privacy Policy
 
@@ -84,8 +84,8 @@ This policy was last modified on 9/2/2011
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
 http://www.districtlines.com  
-4420 Metric Dr Suite C  
-Winter Park, FL 32792  
+6424 Forest City Rd  
+Orlando, FL 32810  
 USA  
 help@districtlines.com  
 877-739-1173 
