@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the conservativebyte.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224112000id_/http%3A//conservativebyte.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conservativebyte.com privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521085742id_/http%3A//conservativebyte.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Conservative Byte
+# Privacy Policy | Conservative ByteConservative Byte
 
 At ConservativeByte.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by ConservativeByte.com and how it is used.
 
