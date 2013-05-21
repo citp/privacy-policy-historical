@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cinchouse.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920151354id_/http%3A//cinchouse.com/Home/tabid/36/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cinchouse.com privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521231643id_/http%3A//cinchouse.com/Home/tabid/36/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
 # CinCHouse.com | Where military wives and women in uniform are 'Commanders in Chief'
 
