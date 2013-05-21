@@ -1,7 +1,12 @@
-> *The following text is extracted and transformed from the airgas.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119082446id_/http%3A//www.airgas.com/customer_service/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airgas.com privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521221910id_/http%3A//airgas.com/customer_service/privacy.aspx) for the most accurate reproduction.*
 
 # Airgas.com - Gas, Welding, Safety Supply.
 
+| 
+
+|  |   
+---|---  
+|   
 | Privacy Policy
 
 Airgas knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. By visiting Airgas on-line ("Airgas On-line"), you are accepting the practices described in this Privacy Notice.
@@ -42,4 +47,6 @@ Information about our customers is an important part of our business, and we are
 
 Security Policy
 
-At Airgas On-line, we appreciate your concerns about the security of your confidential online business transactions. Airgas On-line takes security measures to protect any information passed between our site and your computer during ordering sessions however, Airgas On-line cannot guarantee that any electronic commerce is totally secure. Airgas On-line will take measures to secure and protect all customer-specific information from loss, misuse, and alteration.
+At Airgas On-line, we appreciate your concerns about the security of your confidential online business transactions. Airgas On-line takes security measures to protect any information passed between our site and your computer during ordering sessions however, Airgas On-line cannot guarantee that any electronic commerce is totally secure. Airgas On-line will take measures to secure and protect all customer-specific information from loss, misuse, and alteration.  
+  
+[Home](https://web.archive.org/home.aspx) | [Privacy Statement](https://web.archive.org/customer_service/privacy.aspx) | [Terms and Conditions](https://web.archive.org/customer_service/terms.aspx)     Copyright ©2013 Airgas, Inc.  v4.00.00 [b] 
