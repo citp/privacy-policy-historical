@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allentate.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120140545id_/http%3A//www.allentate.com/DesktopDefault.aspx%3Fpageid%3D36%26pagealias%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allentate.com privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521235320id_/http%3A//www.allentate.com/DesktopDefault.aspx%3Fpageid%3D36%26pagealias%3DPrivacyPolicy) for the most accurate reproduction.*
 
 # Allen Tate Real Estate - Privacy Policy
 
