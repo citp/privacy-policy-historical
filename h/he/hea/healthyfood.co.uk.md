@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthyfood.co.uk privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124175611id_/http%3A//www.eyetoeyemedia.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthyfood.co.uk privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521150907id_/http%3A//www.eyetoeyemedia.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
 # Welcome to Eye to Eye Media
 
