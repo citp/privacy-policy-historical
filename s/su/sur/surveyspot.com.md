@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surveyspot.com privacy policy that was archived on 2012-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121113225716id_/http%3A//www.surveyspot.com/General/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surveyspot.com privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521231436id_/http%3A//www.surveyspot.com/en/General/Privacy-Policy) for the most accurate reproduction.*
 
 # 
 
@@ -137,7 +137,7 @@ Certain Web pages or Web-based advertisements that you view may be tracked by SS
 
 Participation is strictly voluntary and subject to the individual consenting to participate in the online tracking program. SSI is not responsible for third party applications, technologies, or tracking cookies or for the information or data collected or used in connection with the applications, technologies, or cookies.   
 
-If you need assistance or have any questions, please contact us at [INSERT] with the following subject line: “Online Ad Exposure Program.”
+If you need assistance or have any questions, please contact us at [privacy@surveysampling.com](mailto:privacy@surveysampling.com) with the following subject line: “Online Ad Exposure Program.”
 
 C.         Log Files. SSI’s websites automatically gather certain information and store this information in log files. This gathered information includes data available from a user’s web browser, including, without limitation, IP Address, browser type, internet service provider, referring/exiting pages, operating system, date/time stamp, and click stream data.
 
