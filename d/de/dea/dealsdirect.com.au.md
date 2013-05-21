@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dealsdirect.com.au privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111170812id_/http%3A//www.dealsdirect.com.au/s/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealsdirect.com.au privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521040603id_/http%3A//www.dealsdirect.com.au/s/privacy) for the most accurate reproduction.*
 
-# Online Shopping | Shop Online for Gifts at Deals Direct
+# Online Shopping | Shop Online @ Deals Direct Australia's #1 Online Store
 
 [](https://web.archive.org/)
 
@@ -129,3 +129,7 @@ From time to time it may be necessary for us to revise our privacy policy. Any c
 If you require any further information about the Privacy Act and the National Privacy Principles, you can visit the Federal Privacy Commissioners website at [_www.privacy.gov.au_](http://www.privacy.gov.au/).
 
 [](https://web.archive.org/)
+
+  *   * [](https://www.mcafeesecure.com/RatingVerify?ref=www.dealsdirect.com.au)
+
+
