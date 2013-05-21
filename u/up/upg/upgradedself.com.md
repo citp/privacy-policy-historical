@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the upgradedself.com privacy policy that was archived on 2012-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121113070607id_/http%3A//www.upgradedself.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upgradedself.com privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522005317id_/http%3A//www.upgradedself.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -56,9 +56,8 @@ This site contains links to other sites. UpgradedSelf.com is not responsible for
 
 ****This site gives you the following options for removing your information, including email address, from our database, to not receive future communications, or to no longer receive our service:
 
-  1. You can send email to Customer Support
+  1. You can send email to [Customer Support](https://www.upgradedself.com/contact-us).
   2. You can send mail to the following postal address: UpgradedSelf.com, P.O. Box 7172-263, Stateline, NV 89449
-  3. You can call the following telephone number: 1-702-987-5402
 
 
 
@@ -67,8 +66,8 @@ This site contains links to other sites. UpgradedSelf.com is not responsible for
 ****Our site provides you the opportunity to correct or update your account information, including email address. You can do this by:
 
   1. Accessing the "My Account" page and clicking on the "Account Information" or "Shipping Information" links.
-  2. Send mail to the following postal address: UpgradedSelf.com, P.O. Box 7172-263, Stateline, NV 89449
-  3. You can call the following U.S. telephone number: (702) 987-5402
+  2. You can send email to [Customer Support](https://www.upgradedself.com/contact-us).
+  3. Send mail to the following postal address: UpgradedSelf.com, P.O. Box 7172-263, Stateline, NV 89449
 
 
 
@@ -87,5 +86,4 @@ If you have any questions about this privacy statement, the practices of this si
 UpgradedSelf.com   
 P.O. Box 7172-263   
 Stateline, NV 89449   
-Phone: 1-702-987-5402   
 Email: [support@upgradedself.com](mailto:support@upgradedself.com)
