@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the adhitz.com privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205034119id_/http%3A//www.adhitz.com/en/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adhitz.com privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521044107id_/http%3A//www.adhitz.com/en/Privacy_Policy) for the most accurate reproduction.*
 
 # AdHitz.com - Advertising for all budgets. Website owners make money
 
-[Home](http://www.adhitz.com/en) › **Privacy Policy**[](http://www.adhitz.com/en/Privacy_Policy "Reload Page")
+[Home](http://www.adhitz.com/) › **Privacy Policy**[](http://www.adhitz.com/en/Privacy_Policy "Reload Page")
 
 Last Updated October 31, 2009
 
