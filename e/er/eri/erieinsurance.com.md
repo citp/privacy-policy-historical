@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the erieinsurance.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102183249id_/http%3A//www.erieinsurance.com/root/PrivacyNotice.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the erieinsurance.com privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521144255id_/http%3A//www.erieinsurance.com/root/PrivacyNotice.aspx) for the most accurate reproduction.*
 
 # Privacy Notice Erie Insurance
 
@@ -38,11 +38,11 @@ While your nonpublic personal information is under our control, access is limite
 
 ## Corporate Code of Conduct
 
-Read more about ERIE's [code of conduct](https://web.archive.org/web/20121102183249id_/http://www.erieinsurance.com/CodeOfConduct.pdf).
+Read more about ERIE's [code of conduct](https://web.archive.org/web/20130521064700id_/https://www.erieinsurance.com/CodeOfConduct.pdf).
 
 ## Code of Ethics for Senior Financial Officers
 
-Read more about ERIE's [code of ethics for Senior Financial Officers](https://web.archive.org/web/20121102183249id_/http://www.erieinsurance.com/CodeOfEthics.pdf). 
+Read more about ERIE's [code of ethics for Senior Financial Officers](https://web.archive.org/web/20130521064700id_/https://www.erieinsurance.com/CodeOfEthics.pdf). 
 
 ## Affiliates of Erie Insurance Group
 
