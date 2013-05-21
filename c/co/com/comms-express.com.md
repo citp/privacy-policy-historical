@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comms-express.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524054836id_/http%3A//www.comms-express.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comms-express.com privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521235557id_/http%3A//www.comms-express.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -23,11 +23,14 @@ Finally, if our business enters into a joint venture with or is sold to or merge
 Unless required to do so by law, we will not otherwise share, sell or distribute any of the information you provide to us without your consent.   
   
 4.| Cookies  
-| Cookies are small amounts of information which we store on your computer. Cookies make it easier for you to log on to and use the site during future visits. They also allow us to monitor website traffic and to personalise the content of the site for you. You may set up your computer to reject cookies although, in that case, you may not be able to use certain features on our site.  
+| Cookies are small amounts of information which we store on your computer. Cookies make it easier for you to log on to and use the site during future visits. They also allow us to monitor website traffic and to personalise the content of the site for you. You may set up your computer to reject cookies although, in that case, you may not be able to use certain features on our site. Data is collected in the shop using the web analysis tool Google Analytics, cookies are then used to generate pseudonyms for user profiles.  
 5.| Security and data retention  
 | We employ security measures to protect your information from access by unauthorised persons and against unlawful processing, accidental loss, destruction and damage. We will retain your information for a reasonable period or as long as the law requires.  
 6.| Accessing and updating  
-| You are entitled to see the information held about you and you may ask us to make any necessary changes to ensure that it is accurate and kept up to date. If you wish to do this, please contact us. We are entitled by law to charge a fee of £10 to meet our costs in providing you with details of the information we hold about you.  
+| We store the contract’s content and will send you the details of your order as well as our general terms via e-mail. You can find the terms here at all times and the details of your recent orders can be found in the customer login.
+
+You are entitled to see the information held about you and you may ask us to make any necessary changes to ensure that it is accurate and kept up to date. If you wish to do this, please contact us. We are entitled by law to charge a fee of £10 to meet our costs in providing you with details of the information we hold about you.  
+  
 7.| Changes to our privacy policy  
 | Any changes to our privacy policy in the future will be posted to the site and, where appropriate, through e-mail notification.  
 8.| Contact  
