@@ -1,13 +1,69 @@
-> *The following text is extracted and transformed from the nina.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120232205id_/http%3A//www.nina.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nina.com privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522223559id_/http%3A//www.nina.com/privacy.php) for the most accurate reproduction.*
 
-# Nina.com - Nina Hartley Privacy
+# Our Commitment To Privacy
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. This notice applies to all information collected or submitted on this site and other sites part or our network. As noted below, please be aware that we may change our Privacy Policy in the future and it is your obligation to review this Privacy Policy from time to time and the effective date listed with it.
 
-This notice applies to all information collected or submitted on **Nina.com** website. On some pages, you can give your email address.
+## Adults Only Service 
 
-The Way We Use Information: This information are only use to advertise news, or promote our site.
+This is an adult site that expressly and strictly limits its membership to adults. This site does not knowingly seek or collect any personal information or data from persons under the age of 18. All persons under the age of 18 are strictly prohibited from accessing or viewing the contents on this site without exception. If you are under the age of 18 and/or under the age of majority in the jurisdiction you reside and from which you access the website, then your account will be terminated without notice or delay.
 
-This information are not subject to be resell.
+## Information We Collect From You
 
-Should you have other questions or concerns about these privacy policies, please send us an email at 
+Any customer that joins/signs up as a subscriber of the site will be required to provide personal information as well as demographic information which may include the subscriber's name, physical address, e-mail address, zip code, country, username, and password. The site collects any and all such information and includes it in its customer database. In addition, other information such as IP address(es), referring website information, browser information, and other related data may be collected.
+
+## Use of Personal Information
+
+We may use "cookies" and Demographic Information to better your experience on the Site by allowing us to tailor your experience on the Sites according to your preferences and what we think may appeal to you based on such Demographic Information. Aggregate, non-individual membership Demographic Information may be shared with third parties with whom we have a direct or indirect relationship who may offer products or services we believe you may be interested in. The site may also automatically collect traffic and click-through data as well as information regarding the online behaviour of subscribers by the use of "cookies" or other programming means - any information about subscribers collected by the site through the use of cookies or other programming means will generally not be associable to the specific user in any way. We may also share the aggregate Demographic Information with third parties for the purposes of analyzing usage data, maintaining servers and other purposes relating to maintaining and improving our service and the Sites. If the site features or conducts any special events, special promotions or offers, contests or polls, a subscriber of the site may be asked to provide information in order to participate, if the subscriber voluntarily provides that information, all such information may be collected by the site and included in its customer database. If a subscriber sends any personal communication or correspondence by any means, to the site, or any of its employees, agents or representatives, the site may collect the information regarding that communication and include that information in its customer database. Financial Data will only be shared with third party processors as necessary to initiate and complete any orders placed by your account.
+
+## Disclosures of Information 
+
+Your name, physical address, phone number and password are considered confidential. However, all information you provide to us may be shared with other third parties as necessary fulfill technical requirement or to comply with applicable law, to cooperate with law enforcement and the court system.
+
+## Financial Information
+
+All financial data will only be shared with the site's third party processors in order to initiate and complete any orders placed on your account. All credit card transactions and such are processed with industry standard encryption through third party processors. Said processors only use your information for that purpose. All financial data and information shall be considered private information and will not be shared by the site with third parties except with your authorization or when necessary to carry out all and any transactions requested by the user with the understanding that such transactions may be subject to rules, terms, conditions and policies of a third party. All such information provided to a third party and all transactions are not governed by this Privacy Policy. All such information provided to a third party is subject to their terms and conditions.
+
+Subscriber's e-mail address may be used by the site to communicate special offers and other relevant information such as new services, subscription information, etc. In addition, there may be occasions when a subscriber will be presented with special offers either from the operators of the site or from third-party service or content providers, which may include consent to receive e-mail solicitations, communications, newsletters, commercial advertising, or other promotional or special event materials.
+
+## Security of Information
+
+We has adopted and implemented reasonable and technologically feasible procedures for maintaining the security, accuracy and integrity of all personal information relating to subscribers that is collected by the site.
+
+While we uses commercially reasonable physical, managerial and technical safeguards to preserve the integrity and security of your personal information, the transmission of information via the Internet is not completely secure. All subscribers should consider any information provided to or collected by the site as non-confidential, and consequently the site assumes no liability or responsibility if any information relating to any subscriber is intercepted and/or used by an unintended recipient.
+
+## Advertisements
+
+We utilize the services of outside advertising agencies to advertise our services and goods and/or services offered by third parties. Either we or our advertising agencies may use cookies and/or "action tags" to measure advertising effectiveness on an "anonymous basis". Some emails from us may contain advertisements from companies unrelated to the Sites. Should you elect to visit any such advertiser's website, we cannot, and do not, make any representations about applicable terms and conditions or privacy policies for such advertisers' websites. If you choose to make any purchases on such sites or accept any offers from such companies, we may provide your information, including Financial Data, to the advertiser as necessary to your request. Finally, we cannot, and do not, make any representations about the privacy policies or terms and conditions of advertisements appearing anywhere on our service, whether through our website or emails, this is regardless of whether or not there may be any mentions of or references to any or all of the Sites on such advertisers' website(s).
+
+## OPT-IN EMAIL OFFERS
+
+By accepting membership to this site, the subscriber expressly and specifically acknowledges and agrees that it may receive from time to time, email communications from this site or from third-party services. These communications shall be deemed to be opt-in email communications by virtue of the subscriber joining this site. Thru this process, the subscriber's personal information and data may be disclosed to third-party services.
+
+## Disclaimer
+
+By the subscriber's use of the site, the subscriber expressly agrees that the site may use any personal information that has been provided by the subscriber or that has been collected by the site about the subscriber for any purpose, including without limitation, technical, administrative, research and development, customer administration, marketing, trading of personal data, age verification, promotional and advertising use by the site or third parties authorized to use the information by the site.
+
+By the subscriber's use of the site, the subscriber expressly agrees that the site may, in its sole discretion share, disclose, transfer, rent, license or sell any of the personal information about subscribers that it has gathered or collected with affiliated or unaffiliated third parties.
+
+All personal information about a subscriber may be collected by a third-party web service provider that has an advertising banner or link on the site.
+
+The site is not responsible or liable for the use of any information that a subscriber may provide, or that is gathered by third-party websites that have banner ads or links on the site. The site shall not be responsible for the privacy policy or the content of other such websites. This site does not control, monitor or endorse the information gathering practices or privacy policies of any of those third-party websites.
+
+Whenever applicable, each subscriber should seek to read the privacy policy of any third-party website provider that has an advertising banner, advertises or has a link on the site.
+
+All information collected may be shared when necessary to comply with applicable law and /or to cooperate with law enforcement agencies and the courts/tribunals.
+
+A subscriber's IP address may be used to diagnose problems with the server and all other technical issues and to administer the websites.
+
+### Changes and Modification to the Privacy Policy
+
+We may change this privacy policy at any time. You agree that we are under no duty to send you notice of such changes. Instead it is your responsibility to check this Privacy Policy from time to time. No change in the privacy policy will be effective until thirty (30) days after it is posted, unless the privacy policy has clear language indicating otherwise.
+
+### Changes in the Ownership of the Sites
+
+We are a growing online service. As such, we may have the occasion to buy or sell assets, including but not limited to merger, dissolution, and transfer of ownership. Depending upon the nature of the transaction, we may share any and all data provided by you to us (including Financial Data and Account Information) with third parties, as necessary to initiate, investigate or complete any such transaction(s).
+
+### Terms and Conditions of the Sites
+
+Each subscriber should carefully read each of the terms and conditions of the site. By accepting membership to this site, you are unconditionally accepting all of those terms and conditions. Some of those terms and conditions may also affect the right of this site to use information that it has gathered from subscribers.
