@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geeks.com privacy policy that was archived on 2012-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121208052051id_/http%3A//www.geeks.com/policies.asp%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geeks.com privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522162651id_/http%3A//www.geeks.com/policies.asp%23privacy) for the most accurate reproduction.*
 
 # Geeks.com
 
@@ -26,8 +26,6 @@ Sales and Return Policies:
 | Geeks.com strives to be as accurate as possible in our content and pricing. In the event a product is listed with an error in pricing or incorrect content, Geeks.com shall have the right to refuse or cancel any order whether or not the order has been confirmed and credit card charged.  
 | Both the product and manufacturer names are used only for the purpose of identification. Pictures are representational only. Packaging of actual unit may vary.  
   
-Customer Pickup ("Will Call") Policies:
-
 Privacy Policies:
 
 Date Last Updated: April, 2012
@@ -38,7 +36,7 @@ Geeks.com is committed to protecting the privacy of our Visitors and Customers. 
 
 **Purpose**
 
-Geeks.com believes that our online [Visitors](https://web.archive.org/web/20121208052051id_/http%3A//www.geeks.com/policies.asp#visitors) and [Customers](https://web.archive.org/web/20121208052051id_/http%3A//www.geeks.com/policies.asp#customers) need to be provided clear and prominent notice regarding what personal information is being collected about them, how it will be used, whether or not it will be disclosed, and if so, to whom. 
+Geeks.com believes that our online [Visitors](https://web.archive.org/web/20130522162651id_/http%3A//www.geeks.com/policies.asp#visitors) and [Customers](https://web.archive.org/web/20130522162651id_/http%3A//www.geeks.com/policies.asp#customers) need to be provided clear and prominent notice regarding what personal information is being collected about them, how it will be used, whether or not it will be disclosed, and if so, to whom. 
 
 Many entities have examined the issue of privacy and developed guidelines for establishing reasonable policies. We believe that by addressing these issues, we will fulfill the goals of fair information use supported by the U.S. government and a variety of industry groups: 
 
@@ -46,7 +44,7 @@ Many entities have examined the issue of privacy and developed guidelines for es
 [www.ftc.gov](http://www.ftc.gov/)  
 [www.the-dma.org](http://www.the-dma.org/)
 
-[**The Glossary of Terms**](https://web.archive.org/web/20121208052051id_/http%3A//www.geeks.com/policies.asp#GlossaryofTerms) at the end of this Policy defines words with specific meaning as used in these guidelines. 
+[**The Glossary of Terms**](https://web.archive.org/web/20130522162651id_/http%3A//www.geeks.com/policies.asp#GlossaryofTerms) at the end of this Policy defines words with specific meaning as used in these guidelines. 
 
 _Privacy Guidelines:_
 
@@ -65,7 +63,7 @@ In support of maintaining a safe and secure environment for credit card purchase
 
 We provide to our Customers a means to update and ensure the accuracy of their online contact and billing information. For security reasons, we will not disclose the original information directly to the Customer, but rather provide a means to re-enter changes to the information on file. 
 
-To update information on file including removal of any and all stored credit card information, Customers may log into the secure My Account page [here](https://web.archive.org/web/20121208052051id_/http%3A//www.geeks.com/myaccount.asp), or by contacting Customer Service [here](https://web.archive.org/web/20121208052051id_/http%3A//www.geeks.com/online.asp).  
+To update information on file including removal of any and all stored credit card information, Customers may log into the secure My Account page [here](https://web.archive.org/web/20130522162651id_/http%3A//www.geeks.com/myaccount.asp), or by contacting Customer Service [here](https://web.archive.org/web/20130522162651id_/http%3A//www.geeks.com/online.asp).  
   
   
 Online Purchases.  
