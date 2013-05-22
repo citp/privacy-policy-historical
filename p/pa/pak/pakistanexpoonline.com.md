@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pakistanexpoonline.com privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214205545id_/http%3A//www.abudhabiexpoonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pakistanexpoonline.com privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522113306id_/http%3A//pakistanexpoonline.com/2012-03-27-06-48-54) for the most accurate reproduction.*
 
 # Privacy Policy Overview
 
