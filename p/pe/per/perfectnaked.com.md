@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the perfectnaked.com privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121143251id_/http%3A//www.perfectnaked.com/site-terms-and-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perfectnaked.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523011943id_/http%3A//www.perfectnaked.com/site-terms-and-privacy-policy) for the most accurate reproduction.*
 
 # Site Terms And Privacy Policy
 
@@ -91,7 +91,7 @@ from the advertiser or email marketing company | Both
   
 **VII. DATA PROCESSING/SAFE HARBOR**
 
-The European Union (“EU”) maintains strict privacy laws. These rules differ significantly from US laws. To reconcile these differences, the US and the EU have created a Safe Harbor that defines mutually acceptable privacy operations. This Site adheres to the Safe Harbor principals. For more information see [www.export.gov/safeharbor](https://web.archive.org/web/20121121143251id_/http://www.perfectnaked.com/site-terms-and-privacy-policy/%E2%80%9Dhttp://www.export.gov/safeharbor%E2%80%9D).
+The European Union (“EU”) maintains strict privacy laws. These rules differ significantly from US laws. To reconcile these differences, the US and the EU have created a Safe Harbor that defines mutually acceptable privacy operations. This Site adheres to the Safe Harbor principals. For more information see [www.export.gov/safeharbor](https://web.archive.org/web/20130523011943id_/http://www.perfectnaked.com/site-terms-and-privacy-policy/%E2%80%9Dhttp://www.export.gov/safeharbor%E2%80%9D).
 
 **VIII.** **LIMITATION OF LIABILITY, THIRD PARTY INFORMATION & LANGUAGE**
 
