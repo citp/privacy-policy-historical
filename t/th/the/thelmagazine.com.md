@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thelmagazine.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616190631id_/http%3A//www.thelmagazine.com/newyork/PrivacyPolicy/Page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelmagazine.com privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522203536id_/http%3A//www.thelmagazine.com/newyork/PrivacyPolicy/Page) for the most accurate reproduction.*
 
-# The L Magazine - New York City's Local Event and Arts & Culture Guide | Privacy Policy
+# Privacy Policy | The L Magazine - New York City's Local Event and Arts & Culture Guide
 
 When you register on this website or use services on the site, we collect some personal information directly from you, typically just your e-mail address. If you purchase merchandise, a classified ad or sign up for an L Magazine membership, we may also ask for your payment information, your physical address, phone number, date of birth, and/or gender. The privacy policy below explains how we deal with your information 
 
@@ -18,6 +18,6 @@ You should be aware that if you voluntarily disclose personal information online
 **How to contact us:**  
 The L Magazine  
 45 Main St., suite 806, Brooklyn, NY. 11201  
-[info@thelmagazine.com](https://web.archive.org/web/20120616190631id_/http%3A//www.thelmagazine.com/newyork/PrivacyPolicy/info@thelmagazine.com)
+[info@thelmagazine.com](https://web.archive.org/web/20130522203536id_/http%3A//www.thelmagazine.com/newyork/PrivacyPolicy/info@thelmagazine.com)
 
 **Changes to this policy** The L Magazine reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms means you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected. 
