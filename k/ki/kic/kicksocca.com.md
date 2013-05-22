@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kicksocca.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118142908id_/http%3A//kicksocca.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kicksocca.com privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522044343id_/http%3A//kicksocca.com/privacy.html) for the most accurate reproduction.*
 
-# KickSocca.com - Football, Soccer News, Scores, Results - Privacy
+# KickSocca.com - Privacy
 
 ## Introduction
 
@@ -58,7 +58,7 @@ Every user must agree and opt-in to the following statement before completing th
 
 "By registering and entering your details you consent to AS Media Inc. and its clients sending you information about products and/or services that may be of interest to you. You also agree to the terms and conditions of the privacy policy that govern how your information will be processed."
 
-Each questionnaires on AS Media Inc. is sponsored by a client, by giving a positive response and entering the questionnaire on AS Media Inc. you are giving your consent for the sponsor / client sending you information about products and/or services that may be of interest to you. You will also have the opportunity to say "not applicable" to a sponsors questions on AS Media Inc.The information you provide may be used, by GMF Media Ltd and its Clients, to provide you with information and offers by post. If you would prefer not to receive such offers please indicate your preference by ticking the box provided, located on the Amend Details page.
+Each questionnaires on AS Media Inc. is sponsored by a client, by giving a positive response and entering the questionnaire on AS Media Inc. you are giving your consent for the sponsor / client sending you information about products and/or services that may be of interest to you. You will also have the opportunity to say "not applicable" to a sponsors questions on AS Media Inc.The information you provide may be used, by AS Media Inc. and its Clients, to provide you with information and offers by post. If you would prefer not to receive such offers please indicate your preference by ticking the box provided, located on the Amend Details page.
 
 At times it may be appropriate for AS Media Inc., its clients or sponsors to contact you with offers and information in respect of your interests or to inform you about subjects upon which you have requested information through your mobile phone or other PDA devices. Before doing so AS Media Inc. will always ask you for your specific consent. If having given consent previously, you wish to withdraw this consent you may do so by logging on and amending your details on the site.
 
@@ -76,7 +76,7 @@ The data you provide to AS Media Inc. will be held as you have provided it. You 
 
 You are entitled to see the information held about you and you may ask us to make any necessary changes to ensure that it is accurate and kept up to date. If you wish to do this, please contact us.
 
-We are entitled by law to charge a maximum fee of £10 to meet our costs in providing you with details of the information we hold about you.
+We are entitled by law to charge a maximum fee of $10 to meet our costs in providing you with details of the information we hold about you.
 
 ## Deregistration and un-subscribing from emails
 
@@ -88,13 +88,13 @@ You will be notified when your personal information is collected by any third pa
 
 ## Security and storage of your personal information
 
-The Internet is not a 100% secure medium for communication and, accordingly, AS Media Inc. cannot guarantee the security of any information you send to GMF Media Ltd via the Internet. AS Media Inc. is not responsible for any loss or damage you or others may suffer as a result of the loss of confidentiality of such information.
+The Internet is not a 100% secure medium for communication and, accordingly, AS Media Inc. cannot guarantee the security of any information you send to AS Media Inc. via the Internet. AS Media Inc. is not responsible for any loss or damage you or others may suffer as a result of the loss of confidentiality of such information.
 
 AS Media Inc. is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. For example, we store the personal information you provide on computer systems with limited access, which are located in controlled facilities.
 
 You must type the correct password to access your AS Media Inc. account information. It is your responsibility to ensure the security of your AS Media Inc. password and not to reveal this information to others.
 
-Personal information collected by AS Media Inc. may be stored and processed outside the Canada. By using AS Media Inc., you consent to any such transfer of information outside of the United Kingdom.
+Personal information collected by AS Media Inc. may be stored and processed outside the Canada. By using AS Media Inc., you consent to any such transfer of information outside of the Canada.
 
 ## Use of Cookies
 
@@ -106,7 +106,7 @@ AS Media Inc. also uses cookies to improve the experience. For example, AS Media
 
 The sites or services you visited may store their own cookies on your computer. AS Media Inc. recommends that you read each site's privacy statement to understand their policies and practices regarding the use of cookies. You have the ability to accept or decline cookies using the settings on your browser. If you have cookies disabled in your browser you are still able to use the AS Media Inc. site but you will not have the benefit of an automatic login.
 
-The functionality of AS Media Inc. depends upon your browser accepting session cookies. GMF Media Ltd tracks visitors to and on the GMF Media Ltd site by using referrer tracking. AS Media Inc. uses click thru and open mail tracking when sending emails. This process allows AS Media Inc. and its clients the ability to profile the recipients of their communications.
+The functionality of AS Media Inc. depends upon your browser accepting session cookies. AS Media Inc. tracks visitors to and on the AS Media Inc. site by using referrer tracking. AS Media Inc. uses click thru and open mail tracking when sending emails. This process allows AS Media Inc. and its clients the ability to profile the recipients of their communications.
 
 Or our third party advertising partner employs a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers' personally identifiable information.
 
@@ -118,14 +118,16 @@ In addition cookies are used. A cookie is a small file that is stored on your co
 
 It is possible to configure your web browser to refuse cookies or to be informed if a cookie is set. We refer to the manual of your web browser. We will not use the IP addresses or cookies to identify you personally.
 
-This privacy statement covers the use of cookies by www.kicksocca.com only and does not cover the use of cookies by any advertisers
+This privacy statement covers the use of cookies by www.kicksocca.com only and does not cover the use of cookies by any advertisers  
+
 
 ## Changes to this Privacy Statement
 
-AS Media Inc. will occasionally update this Privacy Statement. When we do, we will also revise the "last updated" date at the top and bottom of the Privacy Statement. GMF Media Ltd will obtain your opt-in consent for any updates to this Privacy Statement that materially expand the sharing or use of your personal information in ways not disclosed in this Privacy Statement at the time of collection.
+AS Media Inc. will occasionally update this Privacy Statement. When we do, we will also revise the "last updated" date at the top and bottom of the Privacy Statement. AS Media Inc. will obtain your opt-in consent for any updates to this Privacy Statement that materially expand the sharing or use of your personal information in ways not disclosed in this Privacy Statement at the time of collection.
 
 If you choose to use our referral service to tell a friend about our site, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. AS Media Inc. stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program.
 
-Your friend may contact us to request that we remove this information from our database.
+Your friend may contact us to request that we remove this information from our database.  
+
 
 If you have questions regarding this Privacy Statement, please contact us.
