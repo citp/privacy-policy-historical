@@ -1,97 +1,102 @@
-> *The following text is extracted and transformed from the swap.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102013646id_/http%3A//www.swap.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swap.com privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522071737id_/http%3A//support.swap.com/entries/21859233) for the most accurate reproduction.*
 
-# Privacy Policy - About Us - Swap.com
+# Privacy policy : Swap.com Valet Service Support
 
-   
-Previous update: 10/1/2010  
-Last updated: 3/2/2011
+LAST UPDATED: 23 August, 2012
 
-[](http://www.bbb.org/boston/business-reviews/internet-services/swaptree-inc-in-boston-ma-103161/#bbbonlineclick "Swaptree, Inc. BBB Business Review") Your privacy is very important to us.  We do not sell or rent your personal information to third parties for their marketing purposes without your explicit consent.  Please read this privacy policy to learn more about the ways in which we use and protect your personal information.
+## NETCYCLER INC. PRIVACY POLICY
 
-If you have additional questions, you may send email to privacy@swap.com. 
+### I. Introduction
 
-The privacy practices of this statement apply to our services available under the domain and subdomains of www.swap.com (the "Site") and apply generally to our subsidiaries or joint venture websites.  By visiting this website you agree to be bound by the terms and conditions of this Privacy Policy.  If you do not agree please do not use or access our Site. 
+Netcycler, Inc. (“we, “us) is committed to protecting and respecting your privacy. This Privacy Policy (together with our [terms of use](https://web.archive.org/entries/21819031) and any other documents referred to in it) applies to netcycler.com (the “Service”) and sets out the basis on which any personal data we collect from you, or that you provide to us, will be handled by us. In this Privacy Policy, the term “personal data” means information that relates to an identified or identifiable natural person. This Privacy Policy tells you about the ways in which we protect your privacy and personal data we process about you.
 
-This Privacy Policy describes the information, as part of the normal operation of our services, we collect from you and what may happen to that information.  Although this policy may seem long, we have prepared a detailed policy because we believe you should know as much as possible about Swap.com's practices so that you can make informed decisions.  All of our subsidiaries and joint ventures operate under similar privacy practices as described in this Privacy Policy and, subject to the requirements of applicable law, we strive to provide a consistent set of privacy practices throughout the global Swap.com trading community. 
+We wish to remind you that this Privacy Policy applies to personal data that we process when you use the Service. It does not apply to any links to third parties’ websites and/or services, such as third-party applications, that you may encounter when you use the Service. We encourage you to carefully familiarize yourself with privacy policies applicable to any websites and/or services operated by third parties. Please be aware that we are not responsible for the privacy practices of any third parties.
 
-By accepting the Privacy Policy and the User Agreement in registration, you expressly consent to our use and disclosure of your personal information in accordance with this Privacy Policy.  This Privacy Policy is incorporated into and subject to the terms of the Swap.com User Agreement.  This Privacy Policy is effective upon acceptance in registration for new registering users, and is otherwise effective on July 4th, 2005 for all users.
+### II. Information We May Collect From You
 
-Children (persons under the age of 18) are not eligible to use the Site unsupervised and we ask that children do not submit any personal information to us.  If you are under the age of 18, you may only use this Site in conjunction with and under the supervision of your parents or guardians.
+(i) Data You Provide to the Service
 
-Our primary purpose in collecting personal information is to provide you with a safe, efficient, and customized experience.  This allows us to provide services and features that most likely meet your needs, and to customize our service to make your experience safer and easier.  We only collect personal information about you that we consider necessary for achieving this purpose.
+We may collect the following information from our registered users (“Registered Users”) that may, in certain circumstances, constitute personal data:
 
-In general, you can browse the Site without telling us who you are or revealing any personal information about yourself.  Once you give us your personal information, you are not anonymous to us.  If you choose to use our services, we may require you to provide contact and identity information, billing information, shipping information and other personal information as indicated on the forms throughout the Site.  Where possible, we indicate which fields are required and which fields are optional.  You always have the option to not provide information by choosing not to use a particular service or feature.
+  * Password;
+  * Name;
+  * E-mail address;
+  * Phone number;
+  * Address;
+  * Date of birth; and
+  * Gender.
+  * Paypal account email address
+  * Current and past items
+  * Trading history
 
-Under some circumstances we may require some additional financial information, such as, but not limited to: if you are registering using an email account at a free email service, or registering to sell on the Site.  We use your financial information, including credit card or PayPal account information to verify the accuracy of your name, address, and other information. 
 
-We automatically track certain information based upon your behavior on the Site.  We use this information to do internal research on our users' demographics, interests, and behavior to better understand, protect and serve you and our community.  This information may include the URL that you just came from (whether this URL is on the Site or not), which URL you next go to (whether this URL is on the Site or not), your computer browser information, and your IP address.
 
-We use data collection devices such as "cookies" on certain pages of the Site to help analyze our web page flow, measure promotional effectiveness, and promote trust and safety.  "Cookies" are small files placed on your hard drive that assist us in providing our services.  We offer certain features that are only available through the use of a "cookie".  We also use cookies to allow you to enter your password less frequently during a session.  Cookies can also help us provide information that is targeted to your interests.  ([Learn more about why we use cookies](http://en.wikipedia.org/wiki/HTTP_cookie)).  Most cookies are "session cookies," meaning that they are automatically deleted from your hard drive at the end of a session.  You are always free to decline our cookies if your browser permits, although in that case you may not be able to use certain features on the Site and you may be required to reenter your password more frequently during a session.
+If you use a third party service, such as Facebook Connect, for signing into the Service, we may collect personal data, such as your user ID, name, and e-mail address, that are available in accordance with the terms of service and the privacy settings of the third party service you use for signing into the Service. You may control the types of personal data available in the public profile of such third party services by adjusting the privacy settings available therein. Moreover, if you contact us, a record of this correspondence may be kept.
 
-If you choose to trade on the Site, we collect information about your trading behavior.  We also collect other users' comments about you in our feedback area. 
+(ii) Data Collected Automatically
 
-If you establish a credit account with us to pay for certain services or to verify your address, we collect some additional information, such as a billing address, a credit card number and a credit card expiration date, PayPal account information and tracking information from checks or money orders.
+The Service may automatically collect the following information from that in certain circumstances may constitute personal data:
 
-If you choose to post messages in our, chat rooms, item reviews, groups or other message areas or leave feedback for other users, we will collect that information you provide to us.  We retain this information as necessary to resolve disputes, provide customer support and troubleshoot problems as permitted by law.
+  * The logging technology used in the Service automatically collects the URL of the site from which you came and the site to which you are going when you leave the Service. We also collect the Internet Protocol (IP) address of the device you use to access the Service, information about the operating system of your device, as well as the name of your Internet service provider.
+  * We may place a “cookie” on the hard drive of the device that you use to access the Service. Cookies are text files that are saved on the hard drive of your device by means of your browser, enabling us to recognize your browser for purposes such as saving your preferences and directing relevant content to you. Most of the currently available browsers give you the option of managing cookies by, for example, disabling them entirely, accepting them individually, and deleting saved cookies from your hard drive. We would like to remind you that if you completely disable cookies on your browser, you might not be able to use some features of the Service.
+  * Google Analytics is an element of the Service. By using cookies, Google Analytics collects and stores data such as time of visit, pages visited, time spent on each page of the website, the Internet Protocol address, and the type of operating system used in the devices used to access the Service. By using a browser plugin <http://www.google.com/ads/preferences/plugin/> provided by Google, you can opt out of Google Analytics.
 
-If you send us personal correspondence, such as emails or letters, or if other users or third parties send us correspondence about your activities or postings on the Site, we may collect such information into a file specific to you.
 
-If you register for Swap.com on another web site or use a web site providing a service for Swap.com or a web site that helps facilitate your activity on Swap.com, that web site may provide personal information about you and your transactions back to Swap.com.
 
-We use your personal information to facilitate the services you request.  We use your personal information in the file we maintain about you, and other information we obtain from your current and past activities on the Site to: resolve disputes; troubleshoot problems; help promote safe trading; collect fees owed; measure consumer interest in our products and services, inform you about online and offline offers, products, services, and updates; customize your experience; detect and protect us against error, fraud and other criminal activity; enforce our User Agreement; and as otherwise described to you at the time of collection.  At times, we may look across multiple users to identify problems or resolve disputes, and in particular we may examine your personal information to identify users using multiple User IDs or aliases.  We may compare and review your personal information for errors, omissions and for accuracy.
+Moreover, details of transactions you carry out through the Service, the fulfillment of your orders, details of your visits to this site including, but not limited to, traffic data, location data, weblogs and other communication data may also be collected.
 
-If you choose to list an item for trade on the Site or open a credit account, or otherwise provide us with your financial information, we use your address and billing information to bill you, verify your address and provide associated support. 
+### III. How We Disclose Data
 
-You agree that we may use personal information about you to improve our marketing and promotional efforts, to analyze site usage, improve our content and product offerings, and customize the Site's content, layout, and services.  These uses improve the Site and better tailor it to meet your needs, so as to provide you with a smooth, efficient, safe and customized experience while using the Site. 
+We do not sell, lease, rent or otherwise disclose the personal data relating to our Registered Users to third parties unless otherwise stated below.
 
-You agree that we may use your personal information to contact you and deliver information to you that, in some cases, are targeted to your interests, such as targeted banner advertisements, administrative notices, product offerings, and communications relevant to your use of the Site.  By accepting the User Agreement and Privacy Policy, you expressly agree to receive this information.  If you do not wish to receive these communications, we encourage you to opt out of the receipt of certain communications on the "my profile" page.  You may make changes to your notification preferences at any time.
+The personal data collected in the Service may be disclosed in the following manner:
 
-As a matter of policy, we do not sell or rent any of your personal information to third parties for their marketing purposes without your explicit consent.  However, the following describes some of the ways that your personal information may be disclosed in the normal scope of business to provide our services. 
+a) Personal data you provide to the Service:
 
-**Advertisers**  
-We aggregate (gather up data across all user accounts) personal information and disclose such information in a non-personally identifiable manner to advertisers and other third parties for their marketing and promotional purposes.  However, in these situations, we do not disclose to these entities any information that could be used to identify you personally.  Certain information, such as your name, email address, password, credit card number, PayPal account and bank account number, are not disclosed to these third parties in a personally identifiable manner without your explicit consent. 
+We may disclose personal data you provide to the Service with the following categories of third parties:
 
-**Swap.com Community**  
-Your User ID is displayed throughout the Site and is therefore available to the public.  All of your activities on the Site will be identifiable to your User ID.  Other people can see the items you are offering to trade and items that you want, items that you have purchased in the past, your feedback rating and associated comments, your postings on the Site, and so on.  Therefore, if you associate your name with your User ID, the people you have revealed your name to will be able to personally identify your Swap.com activities.  Although our pages are coded with robot exclusion headers, others may illegally attempt to automatically collect your email address from the Site.  We describe how to change your email and User ID below in Section 10.   If you are involved in a transaction, we have features that allow other users to view your email address and obtain your contact and shipping information to help complete the transaction.  Further, we may send out notices to you or other community members regarding suspicious activity or policy violations on the Site. 
+  * To service providers, such as payment processors and data storage service providers, which enable us to provide the Service to you;
+  * To public authorities, such as law enforcement, if we are legally required to so or if we need to protect our rights or the rights of third parties; and
+  * To our subsidiaries and affiliates; or a subsequent owner, co-owner or operator of the Service and their advisors in connection with a corporate merger, consolidation, restructuring, or the sale of substantially all of our stock and/or assets or other corporate reorganization, in accordance with this Privacy Policy.
 
-**Internal Service Providers for Our Operations**  
-We may use third parties that we refer to as internal service providers to facilitate or outsource one or more aspects of the business, product and service operations that we provide to you (e.g., search technology, discussion boards, bill collection, affiliate and rewards programs, co-branded credit cards) and therefore we may provide some of your personal information directly to these internal service providers.  These internal service providers' are subject to confidentiality agreements with us and other legal restrictions that prohibit their use of the information we provide them for any other purpose except to facilitate the specific outsourced Swap.com related operation, unless you have explicitly agreed or given your prior permission to them for additional uses.  In some instances, the internal service provider may collect information directly from you.  In these cases, you will be notified of the involvement of the internal service provider, and all additional information you provide them and their additional uses will be strictly up to you.  If you provide additional information to an internal service provider directly, then their use of your personal information is governed by their applicable privacy policy. 
 
-**Legal Requests**  
-Swap.com cooperates with law enforcement inquiries, as well as other third parties to enforce laws, such as: intellectual property rights, fraud and other rights, to help protect you and the Swap.com community from bad actors.  Therefore, in response to a verified request by law enforcement or other government officials relating to a criminal investigation or alleged illegal activity, we can (and you authorize us to) disclose your name, city, state, telephone number, email address, User ID history, fraud complaints, and bidding and listing history without a subpoena.  Without limiting the above, in an effort to respect your privacy and our ability to keep the community free from bad actors, we will not otherwise disclose your personal information to law enforcement or other government officials without a subpoena, court order or substantially similar legal procedure, except when we believe in good faith that the disclosure of information is necessary to: prevent imminent physical harm or financial loss; or report suspected illegal activity. 
 
-Due to the existing regulatory environment, we cannot ensure that all of your private communications and other personal information will never be disclosed in ways not otherwise described in this Privacy Policy.  By way of example (without limiting the foregoing), we may be forced to disclose personal information to the government or third parties under certain circumstances, third parties may unlawfully intercept or access transmissions or private communications, or users may abuse or misuse your personal information that they collect from the Site.  Therefore, although we use industry standard practices to protect your privacy, we do not promise, and you should not expect, that your personal information or private communications will always remain private.
+b) Data collected automatically:
 
-In order to facilitate interaction among all Swap.com community members, our Site allows you limited access other users' contact and shipping information.  As a trader you have access to the User ID, email address and other contact and shipping information of the other traders involved in the trade. 
+The data collected automatically in the Service may be disclosed to the following categories of third parties:
 
-By entering into our User Agreement, you agree that, with respect to other users' personal information that you obtain through the Site or through an Swap.com-related communication or Swap.com-facilitated transaction, Swap.com hereby grants to you a license to use such information only for: (a) Swap.com-related communications that are not unsolicited commercial messages, (b) any other purpose that a user expressly agrees to after you tell them the purpose you would like to use it for.  In all cases, you must give users an opportunity to remove themselves from your database and a chance to review what information you have collected about them.  In addition, under no circumstances, except as defined in this Section, can you disclose personal information about another user to any third party without our consent and the consent of that user.  You agree that other users may use your personal information to communicate with you in accordance with this Section.  Note that law enforcement personnel and other rights holders are given different rights with respect to information they access.
+  * To service providers, such as data analysis companies;
+  * To public authorities, such as law enforcement, if we are legally required to do so or if we need to protect our rights or the rights of third parties; and
+  * To our subsidiaries and affiliates; or a subsequent owner, co-owner or operator of the Service and their advisors in connection with a corporate merger, consolidation, restructuring, or the sale of substantially all of our stock and/or assets or other corporate reorganization, in accordance with this Privacy Policy.
 
-You may not use the Email This Item to a Friend service or other email services that we offer to send spam or otherwise send content that would violate our User Agreement.  We do not permanently store email messages or the email addresses sent from these tools. 
 
-If you send and email using the Email This Item to a Friend service to an email address that is not registered in our community, we do not use that email address for any purpose other than to send your email.  We do not rent or sell these email addresses.
 
-You are responsible for all actions taken with your User ID and password, including fees charged to your account.  Therefore we do not recommend that you disclose your Swap.com password to any third parties.  If you choose to share your User ID and password or your personal information with third parties, you are responsible for all actions taken with your account and therefore you should review that third party's privacy policy.  If you lose control of your password, you may lose substantial control over your personal information and may be subject to legally binding actions taken on your behalf.  Therefore, if your password has been compromised for any reason, you should immediately change your password as detailed in Section 10.
+Moreover, we may disclose information to third parties in an aggregate format that does not constitute personal data and does not allow the identification of individual Registered Users.
 
-We offer you the ability to automatically review and change the information you submit to us by logging into the Site and entering in the new information yourself.  Generally, we will not modify your personal information based on your request because it is very difficult to authenticate your account manually.  You can change your User ID, email address, contact information, financial information, shipping information and user preferences by going to the necessary section in account info tab of your profile page.  You must promptly update your personal information if it changes or is inaccurate.  Once posted, you may not be able to change or remove any public postings made on the Site including our chat rooms or other message areas or the feedback area.
+### IV. Your Rights
 
-Upon your request, we will deactivate your account, contact information, billing information, shipping information, and financial information from our active databases.  To make this request, email privacy@swap.com.  Such information will be deactivated as soon as reasonably possible based on your account activity and in accordance with our deactivation policy and applicable law. 
+You have the following rights with respect to the personal data we hold about you:
 
-We will retain in our files some personal information you have requested to remove to prevent fraud, collect any fees owed, resolve disputes, troubleshoot problems, assist with any investigations, enforce our User Agreement and comply with legal requirements as is permitted by law.  Therefore, you should not expect that all of your personal information will be completely removed from our databases in response to your requests.  However, such personal information will be deactivated from public and member viewing and will only be available to select Swap.com personnel.
+  * The right to know what data we hold about you: If you would like to know what personal data we hold about you, please contact us at . We seek to swiftly respond to your inquiry. We may charge a small processing fee if less than twelve (12) months has passed since your last inquiry relating to personal data we hold about you.
+  * The right to have incomplete, incorrect, outdated, or unnecessary personal data corrected, deleted, or updated. The easiest way to correct, delete, or update the personal data you have provided to the Service is to log in to the Service and enter the necessary changes in the account settings of the Service. If you have additional questions regarding the correction, deletion, or updating of the personal data we hold about you, please contact us at .
+  * The right to opt out of receiving electronic direct marketing communications from us: All electronic direct marketing communications that you may receive from us, such as e-mail messages and SMS-messages, give you an option of not receiving such communications from us in the future. If you have any additional questions about electronic direct marketing received from us, please contact us at .
 
-Except as otherwise expressly included in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you.  To the extent that you disclose your information to other parties or fellow traders, different rules may apply to their use or disclosure of the information you disclose to them.  Since Swap.com does not control the privacy policies of third parties, you are subject to the privacy policies of that third party.  We encourage you to ask questions before you disclose your personal information to others.
 
-Your information is stored on Swap.com's servers located in the United States.  We use procedural and technical safeguards to protect your personal information against loss or theft as well as unauthorized access and disclosure to protect your privacy, including encryption, "firewalls" and Secure Socket Layers.  We treat data as an asset that must be protected against loss and unauthorized access.  We employ many different security techniques to protect such data from unauthorized access by users inside and outside the company.  However, "perfect security" does not exist on the Internet.
 
-We may amend this Privacy Policy at any time by posting the amend terms on the Site.  All amended terms shall automatically be effective 30 days after they are initially posted on the Site.
+### V. Data Security
 
-We use your personal information to send you updates on various Site information (including new items to add to your want list, promotional emails, and contest emails), a variety of transactional emails (including new swap opportunities, request to donate, or request to rate a swap partner) and the occasional site announcement. Members who agree to the terms of use of the Swap.com service are given the opportunity to opt in to receiving such communications from us in the future. However, to be eligible to swap, you must be opted in to receive all service emails. If you wish to cease receiving these emails, you must either pause or cancel your account. You have full control regarding which of these marketing emails you want to receive. If you decide at any time that you no longer wish to receive such communications from us, please follow the unsubscribe instructions provided in any of the communications or update your account settings by simply clicking "my account" at the top right corner of any page. 
+All information you provide to us is stored on our or our hosting providers' secure servers. Please note that the Service is hosted in cloud servers in the US, in European Union or in another location. Any payment transactions will be encrypted. Where we have given you (or where you have chosen) a password which enables you to access certain parts of this site, you are responsible for keeping this password confidential. Please do not share your password with anyone.
 
-If you have any questions about this Privacy Policy, the practices of this Site or your dealings with the Services, you can contact us via the links on every page, or by writing to:
+Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect personal data about you, we cannot guarantee the security of your data transmitted to the Service; any transmission is at your own risk.
 
-**Customer Support**  
-Swap.com  
-500 Harrison Avenue  
-Floor 3R  
-Boston, MA 02118  
-[support@swap.com](javascript: safeMail\('support@swap.com?subject=Swap.com Support'\);)  
-(617) 624-3804
+### VI. Children’s Privacy
+
+This Service is not directed to children under 13. We do not knowingly collect personal data from children under 13. If a parent or guardian becomes aware that his or her child has provided us with personal data without their consent, he or she should contact us at . If we become aware that a child under 13 has provided us with personal data, we will delete such information from our files.
+
+### VII. Changes to the Privacy Policy
+
+From time to time we may change this Privacy Policy. You can tell when changes have been made to the Privacy Policy by referring to the “Last Updated” legend on top of this page. If we materially change the ways in which we use and disclose personal data, we will post a notice in the Service and send an e-mail to our registered users. Your continued use of the Service following any changes to this Privacy Policy constitutes your acceptance of any such changes made.
+
+### VIII. Questions or Concerns?
+
+Should you have any questions regarding this Privacy Policy, your privacy as it relates to the use of the Service, or the protection of the personal data we hold about you, please contact us via e-mail at  or by mail at Netcycler Inc., 715 W. Racquet Club Dr., Addison, IL 60101. We seek to swiftly resolve any concerns you may have.
