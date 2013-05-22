@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the somethingawful.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225201458id_/http%3A//www.somethingawful.com/d/feature-articles/website-privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the somethingawful.com privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522204504id_/http%3A//www.somethingawful.com/d/feature-articles/website-privacy-policy.php) for the most accurate reproduction.*
 
 # Something Awful's Privacy Policy
 
@@ -58,4 +58,4 @@ No refunds, returns, or cancellations are permitted, unless it is a problem with
 Questions, comments, or inquiries may be sent to [webmaster@somethingawful.com.](mailto:webmaster@somethingawful.com?subject=Something%20Awful%20Privacy%20Policy)  
 
 
-\- [Rich "Lowtax" Kyanka](mailto:lowtax@somethingawful.com) ([@lowtax](https://twitter.com/lowtax)) 
+\- [Rich "Lowtax" Kyanka](mailto:lowtax@somethingawful.com) ([@lowtax](https://twitter.com/lowtax))
