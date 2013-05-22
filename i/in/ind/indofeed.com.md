@@ -1,10 +1,16 @@
-> *The following text is extracted and transformed from the indofeed.com privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506084158id_/http%3A//indofeed.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indofeed.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523012550id_/http%3A//www.indofeed.com/static/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Indofeed
+# Privacy Policy - Indofeed
+
+Please read carefully the privacy policies on this page before you use our service.
 
 ## What information do we collect?
 
-We collect information from you and your site contents when you register on our site. When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, or site URLs. You may, however, visit our site anonymously. Like most websites, we use cookies and/or web beacons to enhance your experience, gather general visitor information, and track visits to our website. Please refer to the 'do we use cookies?' section below for information about cookies and how we use them.
+We collect information from you and your site contents when you register on our site.
+
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, or site URLs. You may, however, visit our site anonymously.
+
+Like most websites, we use cookies and/or web beacons to enhance your experience, gather general visitor information, and track visits to our website. Please refer to the 'do we use cookies?' section below for information about cookies and how we use them.
 
 ## What do we use your information for?
 
@@ -16,11 +22,13 @@ We implement a variety of security measures to maintain the safety of your perso
 
 ## Do we use cookies?
 
-Yes. Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information. We use cookies to compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
+
+We use cookies to compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
 ## DoubleClick DART cookie
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/policies/privacy/ads/).
 
 ## Do we disclose any information to outside parties?
 
