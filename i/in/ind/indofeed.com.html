@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the indofeed.com privacy policy that was archived on 2012-05-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120506084158id_/http%3A//indofeed.com/static/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the indofeed.com privacy policy that was archived on 2013-05-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130523012550id_/http%3A//www.indofeed.com/static/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html dir="ltr" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 		
@@ -9,20 +9,23 @@
 	<meta http-equiv="expires" content="0">
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">	
 
-	<meta name="description" content="Privacy Policy on Indofeed. Indofeed is a free social bookmarking and cross reference site for news, posts, images, audios, videos, animations, and applications.">
+	<meta name="description" content="Privacy Policy in the Indofeed Social Bookmarks.">
 
-	<meta name="keywords" content="Privacy Policy, social bookmarking, cross reference, tags, submit, news, posts, images, audios, videos, animations, applications, vote, bookmark, share, contents">
+	<meta name="keywords" content="privacy, policy, indofeed">
   
 
 	<meta name="Language" content="en-us">
 	<meta name="Robots" content="follow, all">
 	<meta name="Author" content="Indofeed">
-		
+	<link href="http://fonts.googleapis.com/css?family=PT+Sans|Archivo+Narrow" rel="stylesheet" type="text/css">
+	
 	<link rel="stylesheet" type="text/css" href="/templates/indofeed/css/style.css" media="screen">
 		<link rel="stylesheet" type="text/css" href="/templates/indofeed/css/dropdown.css" media="screen">
 	<link rel="stylesheet" type="text/css" href="/templates/indofeed/css/dropdown-default.css" media="screen">
+	
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.18/jquery-ui.min.js"></script>
 	<!--[if lt IE 7]>
-	<script type="text/javascript" src="/templates/indofeed/js/jquery/jquery.js"></script>
 	<script type="text/javascript" src="/templates/indofeed/js/jquery/jquery.dropdown.js"></script>
 	<![endif]-->
 
@@ -34,17 +37,33 @@
 				
 
 		
-		<title>Privacy Policy |  Indofeed</title>
+		<title>Privacy Policy -  Indofeed</title>
 	
 	<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://www.indofeed.com/rss.php">
-	<link rel="icon" href="/favicon.ico" type="image/x-icon">
+	<link rel="Shortcut Icon" href="/favicon.ico" type="image/x-icon">
 	
 				
+	
+	<script type="text/javascript">
+		/* Comment Administration Hover Effect */
+		$(document).ready(function(){
+		  $('div.comment-hover').css('visibility','hidden');
+		  $('div.comment-wrap').each(function() {
+			var controls = $(this).children('div.comment-hover');
+			$(this).hover(
+			  function() { $(controls).css('visibility','visible') },
+			  function() { $(controls).css('visibility','hidden') }
+			);
+		  });
+		});
+	</script>
+	
+	
 	</head>
 <body dir="ltr">
 		
 <!-- START CONTENT -->
-	<div id="content">
+	<div id="header">
 		
 			<script type="text/javascript" language="JavaScript">
 			function checkForm() {
@@ -59,20 +78,27 @@
 				
 		
 <!-- START HEADER.TPL -->
-<div id="login">
-		
-			<a href="/register/">Register</a> | <a href="/login.php?return=%2Fstatic%2Fprivacy">Login</a>
-		    </div>
+<!--INFOLINKS_OFF-->
+<div id="logo"><a href="http://www.indofeed.com"><img src="http://www.indofeed.com/templates/indofeed/images/indofeed.png" alt="Indofeed"></a></div>
+	<!-- START HEADER NO-ADS -->
+<div style="float:right;padding:0 0 20px 20px;">
+	<!-- 728 Ads -->
+</div>
+	<!-- END HEADER NO-ADS -->
+	
+<script type="text/javascript">
+				
+var some_search='Search..';
+</script>
 
-<div id="logo"><a href="http://www.indofeed.com">Indofeed</a></div>
-
+<div class="clear"></div>
 <!-- START SEARCH -->
 <div class="search">
-						
-	
+
 	<form action="/search.php" method="get" name="thisform-search" id="thisform-search" onsubmit="document.location.href=&quot;http://www.indofeed.com/search/&quot;+this.search.value.replace(/\//g,&quot;|&quot;).replace(/\?/g,&quot;%3F&quot;); return false;">
 
-		<input type="text" size="20" class="searchfield" name="search" id="searchsite" value="Search.." onfocus="if(this.value == 'Search..') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search..';}"><input type="submit" value="Go" class="searchbutton">
+		<input type="text" size="20" class="searchfield" name="search" id="searchsite" value="Search.." onfocus="if(this.value == some_search) {this.value = '';}" onblur="if (this.value == '') {this.value = some_search;}">
+		<input type="submit" value="Go" class="searchbutton">
 	</form>
 </div>
 <div class="clear"></div>
@@ -80,68 +106,230 @@
 
 <!-- START NAVBAR -->
 <ul id="nav">
-		<li><a href="http://www.indofeed.com/">Published References</a></li>
-	<li><a href="/upcoming/">Upcoming References</a></li>
-	<li><a href="/tagcloud/">Tags</a></li>
-	<li><a href="/submit/">Submit</a></li>
+		<li><a href="http://www.indofeed.com/">Popular References</a></li>
+	<li><a href="/upcoming/">Recent References</a></li>
+	<li><a href="http://adf.ly/PCiWJ">Submit a Reference</a></li>
 		
-		<li><a href="/groups/"><span>Groups</span></a></li>
-		
-			</ul>
+				
+		<li><a href="/register/">Register</a></li> 
+	<li><a href="/login.php?return=%2Fstatic%2Fprivacy%2F">Login</a></li>
+    	</ul>
 
 
 <div id="categories">
 <ul class="dropdown dropdown-horizontal">
-<li><a href="/e-News/" title="Published News">e-News</a></li>
-<li><a href="/Posts/" title="Published Posts">Posts</a></li>
-<li><a href="/Images/" title="Published Images">Images</a></li>
-<li><a href="/Audios/" title="Published Audios">Audios</a></li>
-<li><a href="/Videos/" title="Published Videos">Videos</a></li>
-<li><a href="/Animations/" title="Published Animations">Animations</a></li>
-<li><a href="/Applications/" title="Published Applications">Applications</a></li>
+
+     
+     
+	  
+	  
+	<li>
+
+	<a href="/Art/">Art</a>
+
+			</li>
+	
+	
+     
+     
+	  
+	  
+	<li>
+
+	<a href="/Autos/">Autos</a>
+
+			</li>
+	
+	
+     
+     
+	  
+	  
+	<li>
+
+	<a href="/Business/">Business</a>
+
+			</li>
+	
+	
+     
+     
+	  
+	  
+	<li>
+
+	<a href="/Education/">Education</a>
+
+			</li>
+	
+	
+     
+     
+	  
+	  
+	<li>
+
+	<a href="/Entertainment/">Entertainment</a>
+
+			</li>
+	
+	
+     
+     
+	  
+	  
+	<li>
+
+	<a href="/Fun/">Fun</a>
+
+			</li>
+	
+	
+     
+     
+	  
+	  
+	<li>
+
+	<a href="/Games/">Games</a>
+
+			</li>
+	
+	
+     
+     
+	  
+	  
+	<li>
+
+	<a href="/Health/">Health</a>
+
+			</li>
+	
+	
+     
+     
+	  
+	  
+	<li>
+
+	<a href="/Lifestyle/">Lifestyle</a>
+
+			</li>
+	
+	
+     
+     
+	  
+	  
+	<li>
+
+	<a href="/News/">News</a>
+
+			</li>
+	
+	
+     
+     
+	  
+	  
+	<li>
+
+	<a href="/Personal/">Personal</a>
+
+			</li>
+	
+	
+     
+     
+	  
+	  
+	<li>
+
+	<a href="/Politics/">Politics</a>
+
+			</li>
+	
+	
+     
+     
+	  
+	  
+	<li>
+
+	<a href="/Science/">Science</a>
+
+			</li>
+	
+	
+     
+     
+	  
+	  
+	<li>
+
+	<a href="/Society/">Society</a>
+
+			</li>
+	
+	
+     
+     
+	  
+	  
+	<li>
+
+	<a href="/Sports/">Sports</a>
+
+			</li>
+	
+	
+     
+     
+	  
+	  
+	<li>
+
+	<a href="/Tech/">Tech</a>
+
+			</li>
+	
+	
+     
+     
+	  
+	  
+	<li>
+
+	<a href="/Travel/">Travel</a>
+
+			</li>
+	
+	
+     
+     
+	  
+	  
+	<li>
+
+	<a href="/Other/">Other</a>
+
+			</li>
+	
+	
+
 </ul>
 </div><!-- END NAVBAR -->
-
-<!-- START RSS -->
-<div class="rsslink">
-	</div>
-<!-- END RSS -->
-
+</div>
+	<div id="content">
 <!-- START BREADCRUMBS -->
-
  
-<h1>Privacy Policy</h1><br>
-<script type="text/javascript"><!--
-google_ad_client = "ca-pub-4974778725086468";
-/* indofeed 728 */
-google_ad_slot = "4335428760";
-google_ad_width = 728;
-google_ad_height = 90;
-//-->
-</script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>
-
+<h1>Privacy Policy</h1><span style="width: 660px;float:left;"><input type="hidden" name="IL_IN_TAG" value="1"></span>
 <!-- END BREADCRUMBS -->
-<br><br>
+
 <!-- END HEADER.TPL -->		
 <!-- START LEFT COLUMN -->
-			<div id="leftcol">
-<script type="text/javascript">
-ch_client = "arifinez";
-ch_width = 500;
-ch_height = 250;
-ch_type = "mpu";
-ch_sid = "Indofeed 500";
-ch_color_site_link = "#CC3300";
-ch_color_title = "#CC3300";
-ch_color_border = "#FFFFFF";
-ch_color_text = "#333333";
-ch_color_bg = "#FFFFFF";
-</script>
-<script src="http://scripts.chitika.net/eminimalls/amm.js" type="text/javascript">
-</script>
-<br><br>
+		<div id="leftcol">
 			
 				
 		
@@ -150,20 +338,25 @@ ch_color_bg = "#FFFFFF";
 
 
 						
+
+<p>Please read carefully the privacy policies on this page before you use our service.</p>
 <h2>What information do we collect?</h2>
-<p>We collect information from you and your site contents when you register on our site. When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, or site URLs. You may, however, visit our site anonymously. Like most websites, we use cookies and/or web beacons to enhance your experience, gather general visitor information, and track visits to our website. Please refer to the 'do we use cookies?' section below for information about cookies and how we use them.</p>
+<p>We collect information from you and your site contents when you register on our site.</p>
+<p>When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, or site URLs. You may, however, visit our site anonymously.</p>
+<p>Like most websites, we use cookies and/or web beacons to enhance your experience, gather general visitor information, and track visits to our website. Please refer to the 'do we use cookies?' section below for information about cookies and how we use them.</p>
 
 <h2>What do we use your information for?</h2>
-<p>Any of the information we collect from you may be used to process our service. Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.</p> 
+<p>Any of the information we collect from you may be used to process our service. Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.</p>
 
 <h2>How do we protect your information?</h2>
 <p>We implement a variety of security measures to maintain the safety of your personal information when you access your personal information.</p>
 
 <h2>Do we use cookies?</h2>
-<p>Yes. Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information. We use cookies to compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.</p>
+<p>Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.</p>
+<p>We use cookies to compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.</p>
 
 <h2>DoubleClick DART cookie</h2>
-<p>We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, <a href="http://www.google.com/privacy_ads.html" target="_blank">click here</a>.</p>
+<p>We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, <a href="http://www.google.com/policies/privacy/ads/" target="_blank">click here</a>.</p>
 
 <h2>Do we disclose any information to outside parties?</h2>
 <p>We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.</p>
@@ -184,150 +377,154 @@ ch_color_bg = "#FFFFFF";
 <p>By using our site, you consent to our privacy policy.</p>
 
 <h2>Changes to our Privacy Policy</h2>
-<p>If we decide to change our privacy policy, we will post those changes on this page.<br><br></p>
-
+<p>If we decide to change our privacy policy, we will post those changes on this page.</p>
 							
 		</div>
 <!-- END LEFT COLUMN -->
-	
-	<!-- START MIDDLE COLUMN -->
-		<div id="midcol">
-			
 
-	
-	
 		
-	
-	 
 
-
-
-<div class="headline">
-	<div class="sectiontitle"><a href="http://www.indofeed.com">Top References Today</a></div>
-</div>
-<div class="boxcontent">
-	<ul class="sidebar-stories">
-		
-<li><span class="sidebar-vote-number"><a href="/e-News/-karlsberg-insurance-2/">45</a></span><span class="sidebar-article"><a href="/e-News/-karlsberg-insurance-2/" class="switchurl"> karlsberg insurance</a></span></li>
-
-<li><span class="sidebar-vote-number"><a href="/e-News/offshore-investment-assets/">42</a></span><span class="sidebar-article"><a href="/e-News/offshore-investment-assets/" class="switchurl">offshore investment assets</a></span></li>
-
-<li><span class="sidebar-vote-number"><a href="/e-News/-sullivan-realty-1/">32</a></span><span class="sidebar-article"><a href="/e-News/-sullivan-realty-1/" class="switchurl"> sullivan realty</a></span></li>
-
-<li><span class="sidebar-vote-number"><a href="/e-News/social-media-marketing-14/">17</a></span><span class="sidebar-article"><a href="/e-News/social-media-marketing-14/" class="switchurl">social media marketing</a></span></li>
-
-<li><span class="sidebar-vote-number"><a href="/e-News/conservatories-canterbury/">12</a></span><span class="sidebar-article"><a href="/e-News/conservatories-canterbury/" class="switchurl">Conservatories Canterbury</a></span></li>
-
-	</ul>
-</div>
-
-
-<div class="headline">
-	<div class="sectiontitle"><a href="http://www.indofeed.com">Published References</a></div>
-</div>
-<div class="boxcontent">
-	<ul class="sidebar-stories">
-		
-<li><span class="sidebar-vote-number"><a href="/e-News/offshore-investment-assets/">42</a></span><span class="sidebar-article"><a href="/e-News/offshore-investment-assets/" class="switchurl">offshore investment assets</a></span></li>
-
-<li><span class="sidebar-vote-number"><a href="/e-News/fascias-soffits-guttering-herne-bay/">10</a></span><span class="sidebar-article"><a href="/e-News/fascias-soffits-guttering-herne-bay/" class="switchurl">Fascias Soffits Guttering ...</a></span></li>
-
-<li><span class="sidebar-vote-number"><a href="/e-News/conservatories-canterbury/">12</a></span><span class="sidebar-article"><a href="/e-News/conservatories-canterbury/" class="switchurl">Conservatories Canterbury</a></span></li>
-
-<li><span class="sidebar-vote-number"><a href="/e-News/social-media-marketing-14/">17</a></span><span class="sidebar-article"><a href="/e-News/social-media-marketing-14/" class="switchurl">social media marketing</a></span></li>
-
-<li><span class="sidebar-vote-number"><a href="/e-News/windows-medway/">12</a></span><span class="sidebar-article"><a href="/e-News/windows-medway/" class="switchurl">Windows Medway</a></span></li>
-
-	</ul>
-</div>
-<div id="navcontainer">
-<script type="text/javascript"><!--
-google_ad_client = "ca-pub-4974778725086468";
-/* Indofeed 160 */
-google_ad_slot = "4827397348";
-google_ad_width = 160;
-google_ad_height = 600;
-//-->
-</script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>
-</div>
-		</div>
-<!-- END MIDDLE COLUMN -->
-		
 	<!-- START RIGHT COLUMN -->
-		<div id="rightcol">
+				<div id="rightcol">
 			
-
 			                 
+<!-- START LINKS -->
+	<!-- START SIDEBAR NO-ADS -->
+	<div style="padding:10px;background:#EAEFF3;">
+	    <strong>See also:</strong><br>
+			• <a href="http://www.indofeed.com/static/about/">Read more about us</a><br>
+			• <a href="http://www.indofeed.com/static/terms/">Read our Terms of Services</a><br>
+			• <a href="http://www.indofeed.com/static/privacy/">Read our Privacy Policy</a><br>
+			• <a href="http://www.indofeed.com/static/contact/">Contact us</a>
+	</div>
+	<!-- END SIDEBAR NO-ADS -->
+				
+				<!-- END LINKS -->
 
 		<br>
 		</div>
 <!-- END RIGHT COLUMN -->
 		
+	<!-- START MIDDLE COLUMN -->
+		<div id="midcol">
+			
 
-		</div>
-<!-- END CONTENT --> 
 	
+		
+	
+	
+
+
+
+
+<style type="text/css">
+.tweet, .query {
+font-family: Georgia, serif;
+font-size: 120%;
+color: #085258;
+}
+
+.tweet .tweet_list, .query .tweet_list {
+-webkit-border-radius: .5em;
+list-style-type: none;
+margin: 0;
+padding: 0;
+overflow-y: hidden;
+font-size:0.85em;
+}
+
+.tweet .tweet_list .awesome, .tweet .tweet_list .epic, .query .tweet_list .awesome, .query .tweet_list .epic {
+text-transform: uppercase; 
+}
+
+.tweet .tweet_list li, .query .tweet_list li {
+overflow-y: auto;
+overflow-x: hidden;
+padding: .5em;
+}
+
+.tweet .tweet_list li a, .query .tweet_list li a {
+color: #0C717A; 
+}
+
+.tweet .tweet_list .tweet_even, .query .tweet_list .tweet_even {
+background-color: #91E5E7; 
+}
+
+.tweet .tweet_list .tweet_avatar, .query .tweet_list .tweet_avatar {
+padding-right: .5em;
+float: left; 
+}
+
+.tweet .tweet_list .tweet_avatar img, .query .tweet_list .tweet_avatar img {
+vertical-align: middle; 
+}
+</style>
+
+
+<div class="headline">
+	<div class="sectiontitle">Recent Tweets</div>
+</div>
+<div class="boxcontent">
+	<ul class="sidebar-stories" style="margin:0;padding:0;">
+		<div class="tweet">
+			<ul class="tweet_list"><li><a class="tweet_avatar" href="http://twitter.com/IndofeedNews"><img src="http://a0.twimg.com/profile_images/2779080032/8027a95b1b100bc3fda4d1c00a7119e8_normal.png" height="16" width="16" alt="IndofeedNews's avatar" title="IndofeedNews's avatar" border="0"></a><span class="tweet_time"><a href="http://twitter.com/IndofeedNews/status/316593707933659137" title="view tweet on twitter">about 57 days ago</a></span><span class="tweet_join"> we were checking out </span><span class="tweet_text"><a href="http://t.co/vycAJoFRY7">http://t.co/vycAJoFRY7</a> refer Search for singles in your area|Search for People by Vidrela: Vidrela.co... <a href="http://t.co/wkQSw69xM0">http://t.co/wkQSw69xM0</a></span></li><li><a class="tweet_avatar" href="http://twitter.com/IndofeedNews"><img src="http://a0.twimg.com/profile_images/2779080032/8027a95b1b100bc3fda4d1c00a7119e8_normal.png" height="16" width="16" alt="IndofeedNews's avatar" title="IndofeedNews's avatar" border="0"></a><span class="tweet_time"><a href="http://twitter.com/IndofeedNews/status/316568440674586624" title="view tweet on twitter">about 57 days ago</a></span><span class="tweet_join"> we were checking out </span><span class="tweet_text"><a href="http://t.co/vycAJoFRY7">http://t.co/vycAJoFRY7</a> refer Direct Acceptance Ratio atau Tingkat Penerimaan Langsung: Direct Acceptance Ratio ... <a href="http://t.co/p8RgzsRdua">http://t.co/p8RgzsRdua</a></span></li><li><a class="tweet_avatar" href="http://twitter.com/IndofeedNews"><img src="http://a0.twimg.com/profile_images/2779080032/8027a95b1b100bc3fda4d1c00a7119e8_normal.png" height="16" width="16" alt="IndofeedNews's avatar" title="IndofeedNews's avatar" border="0"></a><span class="tweet_time"><a href="http://twitter.com/IndofeedNews/status/316535662625050624" title="view tweet on twitter">about 57 days ago</a></span><span class="tweet_join"> we were checking out </span><span class="tweet_text"><a href="http://t.co/vycAJoFRY7">http://t.co/vycAJoFRY7</a> refer HTC One X Plus Review: The new release of their latest and greatest Android smartpho... <a href="http://t.co/PpakKubi9q">http://t.co/PpakKubi9q</a></span></li></ul>		</div>
+	</ul>
+</div>		</div>
+<!-- END MIDDLE COLUMN -->
+		
+
+		
 	
 <br clear="all">
+
+	</div>
 <!-- START FOOTER -->
 		<div id="footer">
-					<div class="footergroup">
-		<div class="footer1">
-		<strong>Site Links</strong>
+					<div class="footersub">	
+        	<strong>Site Info</strong>
+			<ul>
+			<li><a href="http://www.indofeed.com/static/about/">About Us</a></li>
+			<li><a href="http://www.indofeed.com/static/terms/">Terms of Services</a></li>
+			<li><a href="http://www.indofeed.com/static/privacy/">Privacy Policy</a></li>
+			<li><a href="http://www.indofeed.com/static/contact/">Contact Us</a></li>
+			</ul>
+		</div>
+			<div class="footersub">		
+		<strong>Useful Links</strong>
+			<ul>
+			<li><a href="/advanced-search/">Advanced Search</a></li>
+						<li><a href="http://www.indofeed.com/rssfeeds.php">RSS Feeds</a></li> 			<li><a href="/topusers/"> Top Users</a></li>
+						<li><a href="/tagcloud/">Tag cloud</a></li>
+						</ul>
+			</div>
+			<div class="footersub">	
+<strong>Our Networks</strong>			
 <ul>
-<li><a href="/about" title="About Indofeed">About us</a>
+<li><a href="http://www.penjejak.com/" title="Search Engine Indonesia">Search Engine Indonesia</a>
 </li>
-<li><a href="http://www.indofeed.com" title="Published References">Published References</a>
+<li><a href="http://www.statusreader.com/" title="Social Media Status Reader">Social Media Status Reader</a>
 </li>
-<li><a href="/upcoming/" title="Upcoming References">Upcoming References</a>
+<li><a href="http://www.ninefood.com/" title="Ninefood Network">Ninefood Network</a>
 </li>
-<li><a href="/topusers/" title="Top Referees">Top Referees</a>
+<li><a href="http://www.smitdev.com/" title="Buku Komputer">Buku Komputer</a>
 </li>
-<li><a href="/groups/" title="Groups">Groups</a>
-</li>
-<li><a href="/static/term" title="Terms of Service">Terms of Service</a>
-</li>
-<li><a href="/static/privacy" title="Privacy Policy">Privacy Policy</a> 
-</li>
-<li><a href="http://www.indofeed.com/rssfeeds.php" title="RSS Feeds">RSS Feeds</a>
+<li><a href="http://pendownload.com/" title="Free Download Site">Free Download Site</a>
 </li>
 </ul>
-		</div>
-		<div class="footer2">
-		<strong>© 2008 - 2012 Indofeed.com
-</strong><p><strong><a href="http://www.indofeed.com" title="Free Social Bookmarking and Cross Reference Site">Free Social Bookmarking and Cross Reference Site.</a></strong>
-<br>
-Submit, bookmark, search, share, promote, comment and vote websites or blogs contents.</p> 		</div>
-		<div class="footer3">
-		<strong>Networks</strong>
-<ul>
-<li><a href="http://memomu.com" title="Memo MU Social Networking">Memo MU Social Networking</a>
-</li>
-<li><a href="http://www.ninefood.com" title="Ninefood Network">Nine Food Network</a>
-</li>
-</ul>
-		</div>
-		<div class="footer4">
-		<strong>Partners</strong>
-<ul>
-<li><a href="http://www.smitdev.com" title="Buku Komputer">Buku Komputer</a>
-</li>
-<li><a href="http://pendownload.com" title="Free Download">Free Download</a>
-</li>
-<li><a href="http://www.indonesiadb.com/dictionary" title="Database of Indonesian Dictionary">Indonesian Dictionary Database</a>
-</li>
-<li><a href="http://www.adstates.com" title="Ad States Classifieds">Ad States Classifieds</a>
-</li>
-<li><a href="http://www.statusreader.com" title="Social Media Status Reader">Status Reader</a>
-</li>
-</ul>
-		</div>
-		
-		</div>
+			</div>
+			<div class="footersub">		
+        	<strong>Copyright © 2008 - 2013 Indofeed </strong><br>
+			The Social Bookmarking Web Service &amp; Cross-reference Site:<br>
+			Submit, bookmark, search, share, promote, comment and vote website or blog contents.<br>
+			<!-- AddThis Button BEGIN -->
+<script type="text/javascript">var addthis_pub = "indofeed";</script>
+<a href="http://www.addthis.com/bookmark.php" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()" onclick="return addthis_sendto()"><img src="http://s7.addthis.com/static/btn/sm-plus.gif" width="16" height="16" border="0" alt=""></a><script type="text/javascript" src="http://s7.addthis.com/js/152/addthis_widget.js"></script>
+<!-- AddThis Button END -->
+			</div>
         </div>
 <!-- END FOOTER --> 
+
 <script type="text/javascript">
    var infolink_pid = 17818;
    var infolink_wsid = 0;
@@ -344,13 +541,19 @@ sc_security="2f6da990";
 
 <script type="text/javascript" src="http://www.statcounter.com/counter/counter.js"></script>
 <!-- End of StatCounter Code -->
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
 <script type="text/javascript">
-_uacct = "UA-2296428-2";
-urchinTracker();
-</script>
-<!-- END STATS --> 
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-36057179-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script><!-- END CONTENT --> 
 	<script src="/templates/xmlhttp.php" type="text/javascript"></script> 
 	
 
