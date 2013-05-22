@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the frontarmy.co.uk privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121094935id_/http%3A//www.frontarmy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frontarmy.co.uk privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522145119id_/http%3A//www.frontarmy.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | FRONT – The funniest, sexiest magazine on Earth
+# Privacy Policy - FRONT – The funniest, sexiest magazine on Earth | FRONT – The funniest, sexiest magazine on Earth
 
 Kane Ltd Frontarmy.co.uk Web Site Privacy Policy  
 Kane Ltd will use the information provided by you in the course of our dealing with you to process your requests and orders and in order to provide a more personalised web-surfing and shopping experience.  
