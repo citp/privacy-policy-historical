@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the tfproject.org privacy policy that was archived on 2012-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121208071711id_/http%3A//www.thetfp.com/pages/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tfproject.org privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522190717id_/https%3A//www.thetfp.com/pages/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | The TFP
 
 **Welcome to The TFP!**  
 The Tilted Forum Project (TheTFP) is a discussion community that combines themes of progressive sexuality and universal acceptance. Maturity and companionship have been our cornerstones since 2002 as we've worked to expand the minds of everyone who participates. 
 
-You are currently viewing our community forums as a guest user. [Sign up](https://web.archive.org/web/20121208071711id_/http://www.thetfp.com/pages/privacy_policy/register/) or [Login](https://web.archive.org/web/20121208071711id_/http://www.thetfp.com/pages/privacy_policy/login/)  
+You are currently viewing our community forums as a guest user. [Sign up](https://web.archive.org/web/20130522190717id_/https://www.thetfp.com/pages/privacy_policy/register/) or [Login](https://web.archive.org/web/20130522190717id_/https://www.thetfp.com/pages/privacy_policy/login/)  
 Having an account grants you additional privileges, such as creating and participating in discussions. 
 
 The Tilted Forum Project privacy policy
@@ -91,6 +91,6 @@ This document was last updated on July 23, 2011
 Published:
     Jul 23, 2011
 Page views:
-    8,199
+    14,795
 
-[ ](http://www.thetfp.com/)
+[ ](https://www.thetfp.com/)
