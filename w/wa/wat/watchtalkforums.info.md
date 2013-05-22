@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the watchtalkforums.info privacy policy that was archived on 2012-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120515171330id_/http%3A//www.watchtalkforums.info/forums/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watchtalkforums.info privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522122755id_/http%3A//www.watchtalkforums.info/forums/privacy-policy.php) for the most accurate reproduction.*
 
 # WATCH TALK FORUMS Privacy Policy
 
@@ -34,6 +34,12 @@ VerticalScope Inc. (hereafter referred to as VerticalScope) has created this pri
     * We need to respond to subpoenas, court orders or such other legal process;
     * We need to protect the personal safety of the users of our websites or defend the rights or property of VerticalScope; or
     * We find that your actions on our websites violate the VerticalScope Terms of Use document or any of our usage guidelines for specific products or services.
+
+
+
+**Third Party Cookies**
+
+  * Notwithstanding anything else in this policy, we or a data provider we have engaged may place or recognize a unique cookie on your browser to enable you to receive customized ads or content. These cookies contain no personally identifiable information. The cookies may reflect de-identified demogaphic or other data linked to data that you have voluntarily submitted to us, or posted to our Web Site. We may share such data with a data provider solely in hashed, non-human readable form. To opt-out of these cookies please go to [Ad Choices](http://www.aboutads.info/choices). 
 
 
 
