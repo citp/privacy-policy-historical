@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coffeeshopmillionaire.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126054554id_/http%3A//coffeeshopmillionaire.com/legal/%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coffeeshopmillionaire.com privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522095839id_/http%3A//coffeeshopmillionaire.com/legal/%23privacy) for the most accurate reproduction.*
 
 # Coffee Shop Millionaire — Earnings Disclaimer & Privacy Policy
 
@@ -69,7 +69,7 @@ All information collected from you is stored in a technically and physically sec
 If you need to contact us, you can email us at [support@coffeeshopmillionaire.com](mailto:support@coffeeshopmillionaire.com) or send us a letter at:
 
 > Coffee Shop Millionaire Education, Inc.  
->  538 W 21st St #81787  
->  Houston, TX 77008-3642
+>  Suite 716 – 938 Howe Street  
+>  Vancouver, BC V6Z 1N9
 
 We strive to provide excellent products, along with equally excellent customer service. If you have any questions about this Privacy Policy or our practices, please feel free to contact us using one of the methods listed above.
