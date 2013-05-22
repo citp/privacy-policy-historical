@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dmv.org privacy policy that was archived on 2012-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121117063418id_/http%3A//www.dmv.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dmv.org privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522081800id_/http%3A//www.dmv.org/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy at DMV.org: The DMV Made Simple
+# Company Privacy Policy at DMV.org: The DMV Made Simple
 
 **THIS SITE IS NOT OWNED OR OPERATED BY, NOR AFFILIATED WITH, ANY FEDERAL, STATE, COUNTY OR CITY GOVERNMENT OR ANY DEPARTMENT, BUREAU, DIVISION OR AGENCY OF ANY OF THE FOREGOING (COLLECTIVELY, THE "GOVERNMENT").**
 
