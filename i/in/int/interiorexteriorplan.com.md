@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the interiorexteriorplan.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229100456id_/http%3A//www.interiorexteriorplan.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interiorexteriorplan.com privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522052758id_/http%3A//www.interiorexteriorplan.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Interior Exterior Plan
+# Interior Exterior Plan | Privacy Policy
 
 We respect your privacy and we are committed to safeguarding your privacy while online at our site the following discloses the information gathering and dissemination practices for this Web site.
 
