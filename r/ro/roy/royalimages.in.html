@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the royalimages.in privacy policy that was archived on 2012-11-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121120235151id_/http%3A//www.royalimages.in/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the royalimages.in privacy policy that was archived on 2013-05-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130522223536id_/http%3A//www.royalimages.in/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -78,21 +78,76 @@ Mage.Cookies.domain   = '.www.royalimages.in';
 		}
 		jQuery(document).ready(function() {
 		  updateCount ();
+                  jQuery('#max_price').keypress(function (e) {
+                    if (e.which == 13) {
+                     shopbyBudget();   
+                    }
+                  });
+                  jQuery('#min_price').keypress(function (e) {
+                    if (e.which == 13) {
+                     shopbyBudget();   
+                    }
+                  });
+                  if(jQuery("#orig_sku").val()!=null)
+                      {
+                        var avail_sku = jQuery("#avail_sku").val();
+                        var orig_sku = jQuery("#orig_sku").val();
+                         if((avail_sku!="")&&(orig_sku!=""))
+                         {
+                                 jQuery.ajax({
+                                           url: "http://www.royalimages.in/catalog/product/availablecolors?avail_sku="+avail_sku+"&orig_sku="+orig_sku,
+                                           type : 'get',
+                                           success: function(data){
+                                                   if(data!=""){
+                                                            jQuery("#product_view_available").html(data);
+                                                            jQuery("#product_view_available").show();
+                                                   }
+                                                   else{
+                                                           jQuery("#product_view_available").hide();
+                                                   }
+                                           }
+                                 });
+                         }
+                         //var popupimg = document.getElementById('image1').src;
+                         var price_unit = jQuery("#price_unit").html();
+                        // jQuery("#img_popup").attr('src',popupimg);
+                         jQuery(".poprelated_title").html(jQuery(".product-name").html());
+                         jQuery("#popup_price_unit").html(price_unit);
+                         jQuery("#bg_wrapper").click(function(e) {
+                                         jQuery("#popuprelated").slideUp();
+                                         jQuery("#bg_wrapper").hide();
+                                         jQuery("#orderbyphone").hide();
+                                         jQuery("#ajax_loader").slideUp();
+                                         jQuery("#bg_wrapper_val").val(0);
+
+                         });
+                      }
+         jQuery('#carouselh').jsCarousel({ onthumbnailclick: function(src) {  }, autoscroll: true, circular: true, masked: false, itemstodisplay: 5, orientation: 'h' });
 		});
+                function shopbyBudget()
+                    {
+                        var minPrice = jQuery("#min_price").val();
+                        var maxPrice = jQuery("#max_price").val();
+                        var newminPrice = minPrice.replace(",","");
+                        var newmaxPrice = maxPrice.replace(",","");
+                        if((jQuery("#min_price").val()=="")||(jQuery("#min_price").val()=="Min"))
+                        {
+                            alert("Please give Minimum value");
+                            jQuery("#min_price").focus();
+                            return false;
+                        }
+                        else if((jQuery("#max_price").val()=="")||(jQuery("#max_price").val()=="Max"))
+                        {
+                            alert("Please give Maximum value");    
+                            jQuery("#max_price").focus();
+                            return false;
+                        }
+                        else{
+                            window.location = "http://www.royalimages.in/index.php/catalogsearch/advanced/result/?special_price[from]="+newminPrice+"&special_price[to]="+newmaxPrice+"&category=13&dir=asc&order=price";
+                        }
+                      }
 		</script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script></head>
 <body class=" cms-page-view cms-privacy-policy">
-<div id="intro-wrapper" style="display:none;"></div>
-        <div id="intro-cont" style="display:none;">
-        	<div style="float:right; padding:10px 0;"><img src="http://www.royalimages.in/skin/frontend/default/royalimages/images/Welcome/cart_link.png" alt="" width="292" height="55"></div>
-            <div style="float:right; padding:10px 0;"><img src="http://www.royalimages.in/skin/frontend/default/royalimages/images/Welcome/facebook_link.png" alt="" width="263" height="47"></div>
-            <div class="clear"></div>
-            <div style="float:right; padding:10px 170px 0 0;"><img src="http://www.royalimages.in/skin/frontend/default/royalimages/images/Welcome/search_link.png" alt="" width="271" height="57"></div>
-            <div class="clear"></div>
-            <div style="float:left; padding-top:15px;"><img src="http://www.royalimages.in/skin/frontend/default/royalimages/images/Welcome/interactive_link.png" alt="" width="225" height="60"></div>
-            <div class="clear"></div>
-            <div style="cursor:pointer;"><img id="introlink" src="http://www.royalimages.in/skin/frontend/default/royalimages/images/Welcome/intro_link.png" alt="" width="404" height="481"></div>
-            <div style="position:absolute; top:610px;"><img src="http://www.royalimages.in/skin/frontend/default/royalimages/images/Welcome/latest_link.png" alt="" width="252" height="65"></div>
-        </div>
 <div class="page">
 <!-- BEGIN GOOGLE ANALYTICS CODEs -->
 <script type="text/javascript">
@@ -166,20 +221,20 @@ document.observe('click', function(e){
     <div class="header">
 				<a href="http://www.royalimages.in/" title=" Online Shopping India | Royalimages.in" class="logo"><strong>Royalimages.in: Online Shopping India</strong><img src="http://www.royalimages.in/skin/frontend/default/royalimages/images/Royalimages.jpg" alt="Royalimages.in: Online Shopping India"></a>
 		        <div style="float:right;" id="block_cart_container">
-		<!--{CART_SIDEBAR_82e22b389268854d5c5e7d58579bbcb8}--><div class="block-cart-header">
+		<div class="block-cart-header">
     	<h3>My Cart</h3>
     <div class="block-content">
                         <p class="empty"><a href="http://www.royalimages.in/checkout/cart/"><strong>0</strong> (items)</a></p>
         </div>
 </div>
-<!--/{CART_SIDEBAR_82e22b389268854d5c5e7d58579bbcb8}-->        </div>
+        </div>
 		<div class="f-right">
 						 
 			<div class="clear"></div>
             
 			<ul class="links">
-                        <li class="first"><a href="http://www.royalimages.in/customer/account/login/" title="Log In">Log In</a></li>
-                                <li class=" last"><a href="http://www.royalimages.in/facebook/customer_account/connect/" title="Facebook Connect" rel="facebook-connect" class="facebook-connect">Connect with Facebook</a></li>
+                                                        <li><a href="http://www.royalimages.in/customer/account/login/" title="Log In">Log In</a></li>
+                                <li class=" last"><a href="http://www.royalimages.in/facebook/customer_account/connect/" title="Facebook Connect" rel="facebook-connect">Login with Facebook</a></li>
             </ul>
             <div class="clear"></div>
            
@@ -254,7 +309,7 @@ function searchClose()
 </form>
  
          <div class="most_popular_search" style="float:right;clear:right;">Popular Searches: <a href="http://www.royalimages.in/catalogsearch/result/?q=Xperia" style="margin-left:10px;">Xperia</a><a href="http://www.royalimages.in/catalogsearch/result/?q=samsung" style="margin-left:10px;">samsung</a><a href="http://www.royalimages.in/catalogsearch/result/?q=Tablet" style="margin-left:10px;">Tablets</a><a href="http://www.royalimages.in/digital-cameras.html" style="margin-left:10px;">camera</a><a href="http://www.royalimages.in/catalogsearch/result/?q=Induction+cooktop" style="margin-left:10px;">Induction cooktop</a><a href="http://www.royalimages.in/catalogsearch/result/?q=Grooming+Kit" style="margin-left:10px;">Grooming Kit</a><a href="http://www.royalimages.in/catalogsearch/result/?q=Card+Guard" style="margin-left:10px;">Card Guard</a><a href="http://www.royalimages.in/catalogsearch/result/?q=Vaccum+Cleaner" style="margin-left:10px;">Vaccum Cleaner</a></div>            </div>
-    <!--{CATALOG_NAVIGATION_53e05085f2c1c72b03f1a2b2402d402e}--><div class="nav-container">
+    <div class="nav-container">
     <ul id="topnav" class="links">
         <li class="level0 nav-1 level-top first parent">
 <a href="http://www.royalimages.in/mobiles.html" class="level-top">
@@ -262,20 +317,35 @@ function searchClose()
 </a>
 <ul class="level0">
 <span class="menu_back"></span>
-<li class="level1 nav-1-1 first">
+<li class="level1 nav-1-1 first parent">
 <a href="http://www.royalimages.in/mobiles/mobiles.html">
 <span>Mobiles</span>
 </a>
+<ul class="level1">
+<li class="level2 nav-1-1-1 first">
+<a href="http://www.royalimages.in/mobiles/mobiles/smartphones.html">
+<span>Smartphones</span>
+</a>
+</li><li class="level2 nav-1-1-2">
+<a href="http://www.royalimages.in/mobiles/mobiles/dual-sim-phones.html">
+<span>Dual SIM Phones</span>
+</a>
+</li><li class="level2 nav-1-1-3 last">
+<a href="http://www.royalimages.in/mobiles/mobiles/budget-phones.html">
+<span>Budget Phones</span>
+</a>
+</li>
+</ul>
 </li><li class="level1 nav-1-2 parent">
 <a href="http://www.royalimages.in/mobiles/tablets.html">
 <span>Tablets</span>
 </a>
 <ul class="level1">
-<li class="level2 nav-1-2-1 first">
+<li class="level2 nav-1-2-4 first">
 <a href="http://www.royalimages.in/ipad">
 <span>iPad</span>
 </a>
-</li><li class="level2 nav-1-2-2 last">
+</li><li class="level2 nav-1-2-5 last">
 <a href="http://www.royalimages.in/mobiles/tablets/android.html">
 <span>Android</span>
 </a>
@@ -286,28 +356,32 @@ function searchClose()
 <span>Accessories</span>
 </a>
 <ul class="level1">
-<li class="level2 nav-1-3-3 first">
+<li class="level2 nav-1-3-6 first">
 <a href="http://www.royalimages.in/mobiles/mobile-accessories/mobile-cases-and-skins.html">
 <span>Mobile Cases And Skins</span>
 </a>
-</li><li class="level2 nav-1-3-4">
+</li><li class="level2 nav-1-3-7">
 <a href="http://www.royalimages.in/mobiles/mobile-accessories/screen-protectors.html">
 <span>Screen Protectors</span>
 </a>
-</li><li class="level2 nav-1-3-5">
+</li><li class="level2 nav-1-3-8">
 <a href="http://www.royalimages.in/mobiles/mobile-accessories/bluetooth.html">
 <span>Bluetooth</span>
 </a>
-</li><li class="level2 nav-1-3-6">
+</li><li class="level2 nav-1-3-9">
+<a href="http://www.royalimages.in/mobiles/mobile-accessories/adapters-chargers.html">
+<span>Adapters &amp; Chargers</span>
+</a>
+</li><li class="level2 nav-1-3-10">
 <a href="http://www.royalimages.in/mobiles/mobile-accessories/memory-cards.html">
 <span>Memory Cards</span>
 </a>
-</li><li class="level2 nav-1-3-7">
+</li><li class="level2 nav-1-3-11">
 <a href="http://www.royalimages.in/mobiles/mobile-accessories/speakers.html">
 <span>Speakers</span>
 </a>
-</li><li class="level2 nav-1-3-8 last">
-<a href="http://www.royalimages.in/mobiles/mobile-accessories/ipad-accessories-44.html">
+</li><li class="level2 nav-1-3-12 last">
+<a href="http://www.royalimages.in/mobiles/mobile-accessories/ipad-accessories-63.html">
 <span>iPad Accessories</span>
 </a>
 </li>
@@ -317,43 +391,43 @@ function searchClose()
 <span>Featured Brands</span>
 </a>
 <ul class="level1">
-<li class="level2 nav-1-4-9 first">
+<li class="level2 nav-1-4-13 first">
 <a href="http://www.royalimages.in/mobiles/featured-mobiles/samsung.html">
 <span>Samsung</span>
 </a>
-</li><li class="level2 nav-1-4-10">
+</li><li class="level2 nav-1-4-14">
 <a href="http://www.royalimages.in/mobiles/featured-mobiles/nokia.html">
 <span>Nokia</span>
 </a>
-</li><li class="level2 nav-1-4-11">
+</li><li class="level2 nav-1-4-15">
 <a href="http://www.royalimages.in/mobiles/featured-mobiles/apple.html">
 <span>Apple</span>
 </a>
-</li><li class="level2 nav-1-4-12">
+</li><li class="level2 nav-1-4-16">
 <a href="http://www.royalimages.in/mobiles/featured-mobiles/sony.html">
 <span>Sony</span>
 </a>
-</li><li class="level2 nav-1-4-13">
+</li><li class="level2 nav-1-4-17">
 <a href="http://www.royalimages.in/mobiles/featured-mobiles/blackberry.html">
 <span>Blackberry</span>
 </a>
-</li><li class="level2 nav-1-4-14">
+</li><li class="level2 nav-1-4-18">
 <a href="http://www.royalimages.in/mobiles/featured-mobiles/micromax.html">
 <span>Micromax</span>
 </a>
-</li><li class="level2 nav-1-4-15">
+</li><li class="level2 nav-1-4-19">
 <a href="http://www.royalimages.in/mobiles/featured-mobiles/htc.html">
 <span>HTC</span>
 </a>
-</li><li class="level2 nav-1-4-16">
+</li><li class="level2 nav-1-4-20">
 <a href="http://www.royalimages.in/mobiles/featured-mobiles/hcl.html">
 <span>HCL</span>
 </a>
-</li><li class="level2 nav-1-4-17">
+</li><li class="level2 nav-1-4-21">
 <a href="http://www.royalimages.in/mobiles/featured-mobiles/lg.html">
 <span>LG</span>
 </a>
-</li><li class="level2 nav-1-4-18 last">
+</li><li class="level2 nav-1-4-22 last">
 <a href="http://www.royalimages.in/mobiles/featured-mobiles/karbonn.html">
 <span>Karbonn</span>
 </a>
@@ -397,26 +471,22 @@ function searchClose()
 <span>Canon</span>
 </a>
 </li><li class="level2 nav-2-5-3">
-<a href="http://www.royalimages.in/digital-cameras/feature-brands/kodak.html">
-<span>Kodak</span>
-</a>
-</li><li class="level2 nav-2-5-4">
 <a href="http://www.royalimages.in/digital-cameras/feature-brands/olympus.html">
 <span>Olympus</span>
 </a>
-</li><li class="level2 nav-2-5-5">
+</li><li class="level2 nav-2-5-4">
 <a href="http://www.royalimages.in/digital-cameras/feature-brands/sony.html">
 <span>Sony</span>
 </a>
-</li><li class="level2 nav-2-5-6">
+</li><li class="level2 nav-2-5-5">
 <a href="http://www.royalimages.in/digital-cameras/feature-brands/samsung.html">
 <span>Samsung</span>
 </a>
-</li><li class="level2 nav-2-5-7">
+</li><li class="level2 nav-2-5-6">
 <a href="http://www.royalimages.in/digital-cameras/feature-brands/panasonic.html">
 <span>Panasonic</span>
 </a>
-</li><li class="level2 nav-2-5-8 last">
+</li><li class="level2 nav-2-5-7 last">
 <a href="http://www.royalimages.in/digital-cameras/feature-brands/fujifilm.html">
 <span>Fujifilm</span>
 </a>
@@ -465,68 +535,99 @@ function searchClose()
 </li>
 </ul>
 </li><li class="level1 nav-3-5 parent">
+<a href="http://www.royalimages.in/computers/networking.html">
+<span>Networking</span>
+</a>
+<ul class="level1">
+<li class="level2 nav-3-5-4 first">
+<a href="http://www.royalimages.in/computers/networking/routers.html">
+<span>Routers</span>
+</a>
+</li><li class="level2 nav-3-5-5 last">
+<a href="http://www.royalimages.in/computers/networking/data-cards.html">
+<span>Data Cards</span>
+</a>
+</li>
+</ul>
+</li><li class="level1 nav-3-6 parent">
 <a href="http://www.royalimages.in/computers/accessories.html">
 <span>Accessories</span>
 </a>
 <ul class="level1">
-<li class="level2 nav-3-5-4 first">
+<li class="level2 nav-3-6-6 first">
 <a href="http://www.royalimages.in/computers/accessories/carry-case.html">
 <span>Carry Case </span>
 </a>
-</li><li class="level2 nav-3-5-5">
+</li><li class="level2 nav-3-6-7">
 <a href="http://www.royalimages.in/computers/accessories/mouse.html">
 <span>Mouse</span>
 </a>
-</li><li class="level2 nav-3-5-6">
+</li><li class="level2 nav-3-6-8">
 <a href="http://www.royalimages.in/computers/accessories/headphones.html">
 <span>Headphones</span>
 </a>
-</li><li class="level2 nav-3-5-7">
+</li><li class="level2 nav-3-6-9">
 <a href="http://www.royalimages.in/computers/accessories/cooling-pad.html">
 <span>Cooling Pad </span>
 </a>
-</li><li class="level2 nav-3-5-8 last">
+</li><li class="level2 nav-3-6-10 last">
 <a href="http://www.royalimages.in/computers/accessories/notebook-accessories.html">
 <span>Notebook Accessories</span>
 </a>
 </li>
 </ul>
-</li><li class="level1 nav-3-6 last parent">
+</li><li class="level1 nav-3-7 last parent">
 <a href="http://www.royalimages.in/computers/feature-brands.html">
 <span>Featured Brands</span>
 </a>
 <ul class="level1">
-<li class="level2 nav-3-6-9 first">
+<li class="level2 nav-3-7-11 first">
 <a href="http://www.royalimages.in/computers/feature-brands/acer.html">
 <span>Acer</span>
 </a>
-</li><li class="level2 nav-3-6-10">
+</li><li class="level2 nav-3-7-12">
 <a href="http://www.royalimages.in/computers/feature-brands/asus.html">
 <span>ASUS</span>
 </a>
-</li><li class="level2 nav-3-6-11">
+</li><li class="level2 nav-3-7-13">
 <a href="http://www.royalimages.in/computers/feature-brands/epson.html">
 <span>Epson</span>
 </a>
-</li><li class="level2 nav-3-6-12">
+</li><li class="level2 nav-3-7-14">
 <a href="http://www.royalimages.in/computers/feature-brands/verbatim.html">
 <span>Verbatim</span>
 </a>
-</li><li class="level2 nav-3-6-13">
+</li><li class="level2 nav-3-7-15">
 <a href="http://www.royalimages.in/computers/feature-brands/toshiba.html">
 <span>Toshiba</span>
 </a>
-</li><li class="level2 nav-3-6-14">
+</li><li class="level2 nav-3-7-16">
 <a href="http://www.royalimages.in/computers/feature-brands/hp.html">
 <span>HP</span>
 </a>
-</li><li class="level2 nav-3-6-15">
+</li><li class="level2 nav-3-7-17">
 <a href="http://www.royalimages.in/computers/feature-brands/dell.html">
 <span>Dell</span>
 </a>
-</li><li class="level2 nav-3-6-16 last">
+</li><li class="level2 nav-3-7-18">
+<a href="http://www.royalimages.in/computers/feature-brands/hcl.html">
+<span>HCL</span>
+</a>
+</li><li class="level2 nav-3-7-19">
 <a href="http://www.royalimages.in/computers/feature-brands/lenovo.html">
 <span>Lenovo</span>
+</a>
+</li><li class="level2 nav-3-7-20">
+<a href="http://www.royalimages.in/computers/feature-brands/sony.html">
+<span>Sony</span>
+</a>
+</li><li class="level2 nav-3-7-21">
+<a href="http://www.royalimages.in/computers/feature-brands/d-link.html">
+<span>D-Link</span>
+</a>
+</li><li class="level2 nav-3-7-22 last">
+<a href="http://www.royalimages.in/computers/feature-brands/belkin.html">
+<span>Belkin</span>
 </a>
 </li>
 </ul>
@@ -661,53 +762,53 @@ function searchClose()
 <span>For Her</span>
 </a>
 </li><li class="level1 nav-5-3">
+<a href="http://www.royalimages.in/watches/sports-watches.html">
+<span>Sports Watches</span>
+</a>
+</li><li class="level1 nav-5-4">
 <a href="http://www.royalimages.in/watches/analog.html">
 <span>Analog</span>
 </a>
-</li><li class="level1 nav-5-4">
+</li><li class="level1 nav-5-5">
 <a href="http://www.royalimages.in/watches/digital.html">
 <span>Digital</span>
 </a>
-</li><li class="level1 nav-5-5">
+</li><li class="level1 nav-5-6">
 <a href="http://www.royalimages.in/watches/accessories.html">
 <span>Accessories</span>
 </a>
-</li><li class="level1 nav-5-6 last parent">
+</li><li class="level1 nav-5-7 last parent">
 <a href="http://www.royalimages.in/watches/feature-brands.html">
 <span>Featured Brands</span>
 </a>
 <ul class="level1">
-<li class="level2 nav-5-6-1 first">
+<li class="level2 nav-5-7-1 first">
 <a href="http://www.royalimages.in/watches/feature-brands/esprit.html">
 <span>Esprit</span>
 </a>
-</li><li class="level2 nav-5-6-2">
+</li><li class="level2 nav-5-7-2">
 <a href="http://www.royalimages.in/watches/feature-brands/casio.html">
 <span>Casio</span>
 </a>
-</li><li class="level2 nav-5-6-3">
+</li><li class="level2 nav-5-7-3">
 <a href="http://www.royalimages.in/watches/feature-brands/citizen.html">
 <span>Citizen</span>
 </a>
-</li><li class="level2 nav-5-6-4">
+</li><li class="level2 nav-5-7-4">
 <a href="http://www.royalimages.in/watches/feature-brands/titan.html">
 <span>Titan</span>
 </a>
-</li><li class="level2 nav-5-6-5">
-<a href="http://www.royalimages.in/watches/feature-brands/reebok.html">
-<span>Reebok</span>
-</a>
-</li><li class="level2 nav-5-6-6">
-<a href="http://www.royalimages.in/watches/feature-brands/kenneth-cole.html">
-<span>Kenneth Cole</span>
-</a>
-</li><li class="level2 nav-5-6-7">
+</li><li class="level2 nav-5-7-5">
 <a href="http://www.royalimages.in/watches/feature-brands/fastrack.html">
 <span>Fastrack</span>
 </a>
-</li><li class="level2 nav-5-6-8 last">
+</li><li class="level2 nav-5-7-6">
 <a href="http://www.royalimages.in/watches/feature-brands/polar.html">
 <span>Polar</span>
+</a>
+</li><li class="level2 nav-5-7-7 last">
+<a href="http://www.royalimages.in/watches/feature-brands/timex.html">
+<span>Timex</span>
 </a>
 </li>
 </ul>
@@ -758,36 +859,36 @@ function searchClose()
 <a href="http://www.royalimages.in/lifestyle/wallets.html">
 <span>Wallets</span>
 </a>
-</li><li class="level1 nav-6-5 last parent">
+</li><li class="level1 nav-6-5">
+<a href="http://www.royalimages.in/lifestyle/perfumes.html">
+<span>Perfumes</span>
+</a>
+</li><li class="level1 nav-6-6 last parent">
 <a href="http://www.royalimages.in/lifestyle/featured-brands.html">
 <span>Featured Brands</span>
 </a>
 <ul class="level1">
-<li class="level2 nav-6-5-6 first">
+<li class="level2 nav-6-6-6 first">
 <a href="http://www.royalimages.in/lifestyle/featured-brands/esprit.html">
 <span>Esprit</span>
 </a>
-</li><li class="level2 nav-6-5-7">
+</li><li class="level2 nav-6-6-7">
 <a href="http://www.royalimages.in/lifestyle/featured-brands/casio.html">
 <span>Casio</span>
 </a>
-</li><li class="level2 nav-6-5-8">
+</li><li class="level2 nav-6-6-8">
 <a href="http://www.royalimages.in/lifestyle/featured-brands/citizen.html">
 <span>Citizen</span>
 </a>
-</li><li class="level2 nav-6-5-9">
+</li><li class="level2 nav-6-6-9">
 <a href="http://www.royalimages.in/lifestyle/featured-brands/titan.html">
 <span>Titan</span>
 </a>
-</li><li class="level2 nav-6-5-10">
+</li><li class="level2 nav-6-6-10">
 <a href="http://www.royalimages.in/lifestyle/featured-brands/reebok.html">
 <span>Reebok</span>
 </a>
-</li><li class="level2 nav-6-5-11">
-<a href="http://www.royalimages.in/lifestyle/featured-brands/kenneth-cole.html">
-<span>Kenneth Cole</span>
-</a>
-</li><li class="level2 nav-6-5-12 last">
+</li><li class="level2 nav-6-6-11 last">
 <a href="http://www.royalimages.in/lifestyle/featured-brands/fastrack.html">
 <span>Fastrack</span>
 </a>
@@ -802,111 +903,158 @@ function searchClose()
 <ul class="level0">
 <span class="menu_back"></span>
 <li class="level1 nav-7-1 first parent">
+<a href="http://www.royalimages.in/home-appliances/large-appliances.html">
+<span>Large Appliances</span>
+</a>
+<ul class="level1">
+<li class="level2 nav-7-1-1 first">
+<a href="http://www.royalimages.in/home-appliances/large-appliances/air-conditioners.html">
+<span>Air Conditioners</span>
+</a>
+</li><li class="level2 nav-7-1-2">
+<a href="http://www.royalimages.in/home-appliances/large-appliances/microwave-ovens.html">
+<span>Microwave Ovens</span>
+</a>
+</li><li class="level2 nav-7-1-3">
+<a href="http://www.royalimages.in/home-appliances/large-appliances/refrigerators.html">
+<span>Refrigerators</span>
+</a>
+</li><li class="level2 nav-7-1-4">
+<a href="http://www.royalimages.in/home-appliances/large-appliances/led-tv.html">
+<span>LED TV</span>
+</a>
+</li><li class="level2 nav-7-1-5 last">
+<a href="http://www.royalimages.in/home-appliances/large-appliances/washing-machines.html">
+<span>Washing Machines</span>
+</a>
+</li>
+</ul>
+</li><li class="level1 nav-7-2 parent">
 <a href="http://www.royalimages.in/home-appliances/kitchen-appliances.html">
 <span>Kitchen Appliances</span>
 </a>
 <ul class="level1">
-<li class="level2 nav-7-1-1 first">
+<li class="level2 nav-7-2-6 first">
 <a href="http://www.royalimages.in/home-appliances/kitchen-appliances/choppers-and-blenders.html">
 <span>Choppers And Blenders</span>
 </a>
-</li><li class="level2 nav-7-1-2">
+</li><li class="level2 nav-7-2-7">
 <a href="http://www.royalimages.in/home-appliances/kitchen-appliances/cookware-cutlery.html">
 <span>Cookware &amp; Cutlery</span>
 </a>
-</li><li class="level2 nav-7-1-3">
+</li><li class="level2 nav-7-2-8">
 <a href="http://www.royalimages.in/home-appliances/kitchen-appliances/coffee-tea-makers.html">
 <span>Coffee &amp; Tea Makers</span>
 </a>
-</li><li class="level2 nav-7-1-4">
+</li><li class="level2 nav-7-2-9">
 <a href="http://www.royalimages.in/home-appliances/kitchen-appliances/electric-kettles.html">
 <span>Electric Kettles</span>
 </a>
-</li><li class="level2 nav-7-1-5">
+</li><li class="level2 nav-7-2-10">
 <a href="http://www.royalimages.in/home-appliances/kitchen-appliances/food-processors-juicers.html">
 <span>Food Processors &amp; Juicers</span>
 </a>
-</li><li class="level2 nav-7-1-6">
-<a href="http://www.royalimages.in/home-appliances/kitchen-appliances/sandwich-maker.html">
-<span>Sandwich Maker</span>
-</a>
-</li><li class="level2 nav-7-1-7">
+</li><li class="level2 nav-7-2-11">
 <a href="http://www.royalimages.in/home-appliances/kitchen-appliances/storage-containers.html">
 <span>Storage Containers</span>
 </a>
-</li><li class="level2 nav-7-1-8">
+</li><li class="level2 nav-7-2-12">
 <a href="http://www.royalimages.in/home-appliances/kitchen-appliances/toasters.html">
 <span>Toasters</span>
 </a>
-</li><li class="level2 nav-7-1-9">
+</li><li class="level2 nav-7-2-13">
 <a href="http://www.royalimages.in/home-appliances/kitchen-appliances/induction-cooktop.html">
 <span>Induction Cooktop</span>
 </a>
-</li><li class="level2 nav-7-1-10 last">
+</li><li class="level2 nav-7-2-14 last">
 <a href="http://www.royalimages.in/home-appliances/kitchen-appliances/indoor-outdoor-grilling.html">
 <span>Indoor/outdoor Grilling</span>
 </a>
 </li>
 </ul>
-</li><li class="level1 nav-7-2 parent">
+</li><li class="level1 nav-7-3 parent">
 <a href="http://www.royalimages.in/home-appliances/utilities.html">
 <span>Utilities</span>
 </a>
 <ul class="level1">
-<li class="level2 nav-7-2-11 first">
+<li class="level2 nav-7-3-15 first">
 <a href="http://www.royalimages.in/home-appliances/utilities/irons.html">
 <span>Irons</span>
 </a>
-</li><li class="level2 nav-7-2-12">
+</li><li class="level2 nav-7-3-16">
 <a href="http://www.royalimages.in/home-appliances/utilities/purifiers.html">
 <span>Purifiers</span>
 </a>
-</li><li class="level2 nav-7-2-13">
+</li><li class="level2 nav-7-3-17">
 <a href="http://www.royalimages.in/home-appliances/utilities/emergency-light.html">
 <span>Emergency Light</span>
 </a>
-</li><li class="level2 nav-7-2-14 last">
+</li><li class="level2 nav-7-3-18">
 <a href="http://www.royalimages.in/home-appliances/utilities/vacuum-cleaner.html">
 <span>Vacuum Cleaner</span>
 </a>
+</li><li class="level2 nav-7-3-19 last">
+<a href="http://www.royalimages.in/home-appliances/utilities/tools.html">
+<span>Tools</span>
+</a>
 </li>
 </ul>
-</li><li class="level1 nav-7-3 last parent">
+</li><li class="level1 nav-7-4 last parent">
 <a href="http://www.royalimages.in/home-appliances/feature-brands.html">
 <span>Featured Brands</span>
 </a>
 <ul class="level1">
-<li class="level2 nav-7-3-15 first">
+<li class="level2 nav-7-4-20 first">
 <a href="http://www.royalimages.in/home-appliances/feature-brands/philips.html">
 <span>Philips</span>
 </a>
-</li><li class="level2 nav-7-3-16">
+</li><li class="level2 nav-7-4-21">
+<a href="http://www.royalimages.in/home-appliances/feature-brands/morphy-richards.html">
+<span>Morphy Richards</span>
+</a>
+</li><li class="level2 nav-7-4-22">
 <a href="http://www.royalimages.in/home-appliances/feature-brands/oster.html">
 <span>Oster</span>
 </a>
-</li><li class="level2 nav-7-3-17">
+</li><li class="level2 nav-7-4-23">
 <a href="http://www.royalimages.in/home-appliances/feature-brands/bajaj.html">
 <span>Bajaj</span>
 </a>
-</li><li class="level2 nav-7-3-18">
+</li><li class="level2 nav-7-4-24">
 <a href="http://www.royalimages.in/home-appliances/feature-brands/jaipan.html">
 <span>Jaipan</span>
 </a>
-</li><li class="level2 nav-7-3-19">
+</li><li class="level2 nav-7-4-25">
 <a href="http://www.royalimages.in/home-appliances/feature-brands/bpl.html">
 <span>BPL</span>
 </a>
-</li><li class="level2 nav-7-3-20">
-<a href="http://www.royalimages.in/home-appliances/feature-brands/braun.html">
-<span>Braun</span>
-</a>
-</li><li class="level2 nav-7-3-21">
+</li><li class="level2 nav-7-4-26">
 <a href="http://www.royalimages.in/home-appliances/feature-brands/black-decker.html">
 <span>Black &amp; Decker</span>
 </a>
-</li><li class="level2 nav-7-3-22 last">
+</li><li class="level2 nav-7-4-27">
 <a href="http://www.royalimages.in/home-appliances/feature-brands/kaiser-hoff.html">
 <span>Kaiser Hoff</span>
+</a>
+</li><li class="level2 nav-7-4-28">
+<a href="http://www.royalimages.in/home-appliances/feature-brands/weber.html">
+<span>Weber</span>
+</a>
+</li><li class="level2 nav-7-4-29">
+<a href="http://www.royalimages.in/home-appliances/feature-brands/stanley.html">
+<span>Stanley</span>
+</a>
+</li><li class="level2 nav-7-4-30">
+<a href="http://www.royalimages.in/home-appliances/feature-brands/skil.html">
+<span>Skil</span>
+</a>
+</li><li class="level2 nav-7-4-31">
+<a href="http://www.royalimages.in/home-appliances/feature-brands/bosch.html">
+<span>Bosch</span>
+</a>
+</li><li class="level2 nav-7-4-32 last">
+<a href="http://www.royalimages.in/home-appliances/feature-brands/zain.html">
+<span>Zain</span>
 </a>
 </li>
 </ul>
@@ -954,8 +1102,8 @@ function searchClose()
 <span>Toilet Cases</span>
 </a>
 </li><li class="level1 nav-8-8">
-<a href="http://www.royalimages.in/travel/locks.html">
-<span>Locks</span>
+<a href="http://www.royalimages.in/travel/accessories.html">
+<span>Accessories</span>
 </a>
 </li><li class="level1 nav-8-9 last parent">
 <a href="http://www.royalimages.in/travel/feature-brands.html">
@@ -978,9 +1126,13 @@ function searchClose()
 <a href="http://www.royalimages.in/travel/feature-brands/fastrack.html">
 <span>Fastrack</span>
 </a>
-</li><li class="level2 nav-8-9-6 last">
+</li><li class="level2 nav-8-9-6">
 <a href="http://www.royalimages.in/travel/feature-brands/samsonite.html">
 <span>Samsonite</span>
+</a>
+</li><li class="level2 nav-8-9-7 last">
+<a href="http://www.royalimages.in/travel/feature-brands/wildcraft.html">
+<span>Wildcraft</span>
 </a>
 </li>
 </ul>
@@ -1034,30 +1186,38 @@ function searchClose()
 <a href="http://www.royalimages.in/health/fitness.html">
 <span>Fitness</span>
 </a>
-</li><li class="level1 nav-9-4 last parent">
+</li><li class="level1 nav-9-4">
+<a href="http://www.royalimages.in/health/perfumes.html">
+<span>Perfumes</span>
+</a>
+</li><li class="level1 nav-9-5 last parent">
 <a href="http://www.royalimages.in/health/feature-brands.html">
 <span>Featured Brands</span>
 </a>
 <ul class="level1">
-<li class="level2 nav-9-4-7 first">
+<li class="level2 nav-9-5-7 first">
 <a href="http://www.royalimages.in/health/feature-brands/philips.html">
 <span>Philips</span>
 </a>
-</li><li class="level2 nav-9-4-8">
+</li><li class="level2 nav-9-5-8">
 <a href="http://www.royalimages.in/health/feature-brands/panasonic.html">
 <span>Panasonic</span>
 </a>
-</li><li class="level2 nav-9-4-9">
+</li><li class="level2 nav-9-5-9">
 <a href="http://www.royalimages.in/health/feature-brands/dr-morepen.html">
 <span>Dr.Morepen</span>
 </a>
-</li><li class="level2 nav-9-4-10">
+</li><li class="level2 nav-9-5-10">
 <a href="http://www.royalimages.in/health/feature-brands/braun.html">
 <span>Braun</span>
 </a>
-</li><li class="level2 nav-9-4-11 last">
+</li><li class="level2 nav-9-5-11">
 <a href="http://www.royalimages.in/health/feature-brands/vicks.html">
 <span>Vicks</span>
+</a>
+</li><li class="level2 nav-9-5-12 last">
+<a href="http://www.royalimages.in/health/feature-brands/4sure.html">
+<span>4Sure</span>
 </a>
 </li>
 </ul>
@@ -1091,22 +1251,10 @@ function searchClose()
 <span>Hand Held Consoles</span>
 </a>
 </li><li class="level2 nav-10-1-5">
-<a href="http://www.royalimages.in/gifts/toys/kids-laptops.html">
-<span>Kids Laptops</span>
-</a>
-</li><li class="level2 nav-10-1-6">
 <a href="http://www.royalimages.in/gifts/toys/cars.html">
 <span>Cars</span>
 </a>
-</li><li class="level2 nav-10-1-7">
-<a href="http://www.royalimages.in/gifts/toys/action-figures.html">
-<span>Action Figures</span>
-</a>
-</li><li class="level2 nav-10-1-8">
-<a href="http://www.royalimages.in/gifts/toys/trucks-carriers.html">
-<span>Trucks &amp; Carriers</span>
-</a>
-</li><li class="level2 nav-10-1-9 last">
+</li><li class="level2 nav-10-1-6 last">
 <a href="http://www.royalimages.in/gifts/toys/airplanes-helicopters.html">
 <span>Airplanes - Helicopters</span>
 </a>
@@ -1117,49 +1265,49 @@ function searchClose()
 <span>Jewellery</span>
 </a>
 </li><li class="level1 nav-10-3">
+<a href="http://www.royalimages.in/gifts/books.html">
+<span>Books</span>
+</a>
+</li><li class="level1 nav-10-4">
 <a href="http://www.royalimages.in/gifts/education.html">
 <span>Education</span>
 </a>
-</li><li class="level1 nav-10-4">
+</li><li class="level1 nav-10-5">
 <a href="http://www.royalimages.in/gifts/utility.html">
 <span>Utility</span>
 </a>
-</li><li class="level1 nav-10-5">
+</li><li class="level1 nav-10-6">
 <a href="http://www.royalimages.in/gifts/home-decor.html">
 <span>Home Decor</span>
 </a>
-</li><li class="level1 nav-10-6">
+</li><li class="level1 nav-10-7">
 <a href="http://www.royalimages.in/gifts/unique.html">
 <span>Unique Products</span>
 </a>
-</li><li class="level1 nav-10-7">
+</li><li class="level1 nav-10-8">
 <a href="http://www.royalimages.in/gifts/gift-voucher.html">
 <span>Gift Voucher</span>
 </a>
-</li><li class="level1 nav-10-8">
+</li><li class="level1 nav-10-9">
 <a href="http://www.royalimages.in/gifts/pens.html">
 <span>Pens</span>
 </a>
-</li><li class="level1 nav-10-9 last parent">
+</li><li class="level1 nav-10-10 last parent">
 <a href="http://www.royalimages.in/gifts/feature-brands.html">
 <span>Featured Brands</span>
 </a>
 <ul class="level1">
-<li class="level2 nav-10-9-10 first">
-<a href="http://www.royalimages.in/gifts/feature-brands/hcl.html">
-<span>HCL</span>
-</a>
-</li><li class="level2 nav-10-9-11">
-<a href="http://www.royalimages.in/gifts/feature-brands/funskool.html">
-<span>Funskool</span>
-</a>
-</li><li class="level2 nav-10-9-12">
+<li class="level2 nav-10-10-7 first">
 <a href="http://www.royalimages.in/gifts/feature-brands/barbie.html">
 <span>Barbie</span>
 </a>
-</li><li class="level2 nav-10-9-13 last">
+</li><li class="level2 nav-10-10-8">
 <a href="http://www.royalimages.in/gifts/feature-brands/yonex.html">
 <span>Yonex</span>
+</a>
+</li><li class="level2 nav-10-10-9 last">
+<a href="http://www.royalimages.in/gifts/feature-brands/jpearls.html">
+<span>JPearls</span>
 </a>
 </li>
 </ul>
@@ -1167,19 +1315,19 @@ function searchClose()
 </ul>
 </li><li class="level0 nav-11 level-top last">
 <a href="http://www.royalimages.in/deals.html" class="level-top">
-<span>Deals</span>
+<span>Sale</span>
 </a>
 </li>        <!--<li style="float:right; padding-right:0px;"><a href="#"><img style="float:right;" src="" /></a></li>-->
     </ul>
 </div>
-<!--/{CATALOG_NAVIGATION_53e05085f2c1c72b03f1a2b2402d402e}-->    
+    
 	<!--<div class="row" style="height:48px;">
 		 
 		 
 	</div> -->
 </div>
         <div class="main-container col1-layout">
-			<!--{PAGE_BREADCRUMBS_8fc42fc28d83e303a594e999fa5c7e69}--><div class="breadcrumbs">
+			<div class="breadcrumbs">
     <ul>
                     <li class="home">
                             <a href="http://www.royalimages.in/" title="Go to Home Page">Home</a>
@@ -1190,9 +1338,9 @@ function searchClose()
                                     </li>
             </ul>
 </div>
-<!--/{PAGE_BREADCRUMBS_8fc42fc28d83e303a594e999fa5c7e69}-->			<div class="main">
+			<div class="main">
 				<div class="col-main">
-					<!--{GLOBAL_MESSAGES_3e966cafdcb3f0c9cd9f8bc6a0021644}--><!--/{GLOBAL_MESSAGES_3e966cafdcb3f0c9cd9f8bc6a0021644}-->					<div class="std"><!--{MESSAGES_ae8cbde2baddb9675c295f25283e7db9}--><!--/{MESSAGES_ae8cbde2baddb9675c295f25283e7db9}--><div class="page-title">
+										<div class="std"><div class="page-title">
     <h1>PRIVACY POLICY</h1>
 </div>
 We respect and are committed to protecting your privacy. That is why we have adopted this Privacy Policy. This Privacy Policy lets you know how your personal information is processed and used. We promise that we will take steps to use your personal information only in ways that are compatible with this Privacy Policy. The following policies are only in effect for the Web pages, newsletters, discussion lists and opt-in announcement lists owned and operated by Royal Images Catalogue Company Private Limited (RICC). The following discloses our Privacy Policy.<br><br>
