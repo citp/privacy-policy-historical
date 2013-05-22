@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pgcps.org privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121182949id_/http%3A//www1.pgcps.org/WorkArea/linkit.aspx%3FLinkIdentifier%3Did%26ItemID%3D8654) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pgcps.org privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522152143id_/http%3A//www1.pgcps.org/WorkArea/linkit.aspx%3FLinkIdentifier%3Did%26ItemID%3D8654) for the most accurate reproduction.*
 
 # PGCPS Privacy Policy
 
@@ -8,7 +8,7 @@ The Prince George's County Public School system web site exists to provide the g
 
   **Web site management and support**
 
-Web site management and support is provided by the Department of Television Resources and Web Services and the Division of Information Technology.  [www.pgcps.org](http://www.pgcps.org/) is managed by over 300 web managers who publish information to the 20,000 page web site.  All web sites must comply with the Acceptable Use Policy.
+Web site management and support is provided by the Office of Communications and the Division of Information Technology.  [www.pgcps.org](http://www.pgcps.org/) is managed by over 300 web managers who publish information to the 20,000 page web site.  All web sites must comply with the Acceptable Use Policy.
 
   **General Information Collection and Use**
 
