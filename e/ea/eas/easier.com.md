@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the easier.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505030209id_/http%3A//www.easier.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easier.com privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522124238id_/http%3A//www.easier.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Easier - Privacy Policy
 
-**Introduction** Your privacy is important to us. Please read this Privacy Policy to learn about the ways in which Easier Network Ltd ("Easier", "we", "us", or "our") use and protect your personal information.
+**Introduction** Your privacy is important to us. Please read this Privacy Policy to learn about the ways in which Easier Ltd ("Easier", "we", "us", or "our") use and protect your personal information.
 
 **1\. Collection of Data** To use certain services on the easier.com website (the "Site") a user may be required to register. We only collect personal information about you that we consider necessary for this purpose.
 
