@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easyweddings.com.au privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920021651id_/http%3A//www.easyweddings.com.au/information/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyweddings.com.au privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522171026id_/http%3A//easyweddings.com.au/information/privacy.asp) for the most accurate reproduction.*
 
 # EasyWeddings - Disclaimer & Privacy
 
@@ -9,7 +9,8 @@ Although all posible care is taken by Easy Weddings staff to provide only high q
 
 This web site also contains personal wedding web sites and photo albums, EasyWeddings does not take any responsibility for the content of those areas. However if you do find any page on this site that displays offensive material please email service@easyweddings.com.au with details including page address and we will act upon the information given within 24 hours. 
 
-© EasyWeddings 2000. All rights reserved. No part of this site may be reproduced without express written permission from EasyWeddings.
+**Copyright:**  
+As per the terms of the Copyright Act 1968 (Cth), advertisers are advised that the inclusion of any unauthorized content in advertisements (or any submission to Easy Weddings) is strictly prohibited without the written consent of the rightful copyright owner or the appropriate licenses. This includes, but is not limited to, text, graphics and images from print or digital sources including websites, newspapers, magazines and books, as well as video and sound recordings. In the event of a complaint from a rightful copyright owner, any allegedly infringing material will be removed pending an investigation. 
 
 **Privacy:**  
 EasyWeddings.com.au is committed to protecting your privacy. We are also committed to providing you with the very best experience. For us to enhance your experience at our site we must gather certain personal information about you that helps us customise our content to your tastes and preferences. 
@@ -34,4 +35,6 @@ You Acknowledge that by using our Web site, you agree to this Disclaimer and Pri
 
 This policy may change from time to time so please revisit this page occasionally.
 
-We hope you enjoy your experience using EasyWeddings.com.au and good luck with all the planning to come.
+We hope you enjoy your experience using EasyWeddings.com.au and good luck with all the planning to come. 
+
+© EasyWeddings 2000-2013. All rights reserved. No part of this site may be reproduced without express written permission from EasyWeddings.
