@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wemabank.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120040631id_/http%3A//www.wemabank.com/pages/Content.aspx%3Fid%3Db%252b0UUlYXEY7o1MmB5RIZNQ%253d%253d%26ln%3DGy7UlI4cSJE94Wa2qudbFQ%253d%253d) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wemabank.com privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522231403id_/http%3A//www.wemabank.com/pages/Content.aspx%3Fid%3Db%252b0UUlYXEY7o1MmB5RIZNQ%253d%253d%26ln%3DGy7UlI4cSJE94Wa2qudbFQ%253d%253d) for the most accurate reproduction.*
 
 # Wema Bank PLC
 
