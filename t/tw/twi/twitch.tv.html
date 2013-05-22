@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the twitch.tv privacy policy that was archived on 2012-10-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121005020129id_/http%3A//www.twitch.tv/user/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the twitch.tv privacy policy that was archived on 2013-05-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130522072619id_/http%3A//www.twitch.tv/user/legal%3Fpage%3Dprivacy_notice) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" xml:lang="en" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -11,12 +11,14 @@
 <meta content="Twitch" name="keywords">
 <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon">
 
-<meta property="og:image">
 
 
-<link href="http://www-cdn.jtvnw.net/stylesheets/63a7d7e2_xarth_global_sass.css" media="screen" rel="stylesheet">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://www-cdn.jtvnw.net/javascripts/932727f8_xarth_default.js" type="text/javascript"></script>
-<script src="http://www-cdn.jtvnw.net/javascripts/13a3d97e_xarth_user.js" type="text/javascript"></script>
+<link href="http://www-cdn.jtvnw.net/assets/application-1b13569e9620782f423d4cd3ce931750.css" media="screen" rel="stylesheet" type="text/css">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://www-cdn.jtvnw.net/assets/global-a3ca0b0360369cf34164b4724ad186c8.js" type="text/javascript"></script>
+<script src="http://www-cdn.jtvnw.net/assets/application-e13ebd8e5f826b8b837596ac36acf381.js" type="text/javascript"></script>
+<link href="http://www-cdn.jtvnw.net/stylesheets/404f4eed_xarth_global_sass.css" media="screen" rel="stylesheet">
+<script src="http://www-cdn.jtvnw.net/javascripts/32af29ce_xarth_default.js" type="text/javascript"></script>
+<script src="http://www-cdn.jtvnw.net/javascripts/ba36a680_xarth_user.js" type="text/javascript"></script>
 <!--[if IE 6]>
     
     <style>
@@ -31,12 +33,11 @@
 <![endif]-->
 
 
-<meta name="csrf-param" content="authenticity_token">
-<meta name="csrf-token" content="0p5ndLeMyyex+amFZh2eUohKWQV9O1RDwTnQ0ybhaxE=">
-</head>
-<body class="user privacy_policy">
-<div class="noise">
-<!-- host: <%= $app_hostname %> -->
+<meta content="authenticity_token" name="csrf-param">
+<meta content="37Q/+LeNOud7hJkSfRcs5oTqLNOEh7h4BtSOWXRhfII=" name="csrf-token">
+<script async="" defer="" src="//j.flxpxl.com/143901.js?r=8263588628089960&amp;m=1538&amp;a=143901"></script></head>
+<body class="noise" data-page="user#legal">
+<!-- host: app34 -->
 <script>
   //<![CDATA[
     if (window.location != window.top.location) {
@@ -47,98 +48,60 @@
 <script type="text/javascript">
 //<![CDATA[
 
-    BaseDomain = 'twitch.tv'; LanguageBaseDomain = 'twitch.tv';
+
+    window['Twitch'] = window['Twitch'] || {};
+    Twitch.env = { deployFlavor: 'production' };
+
+    BaseDomain = 'twitch.tv'; LanguageBaseDomain = 'www.twitch.tv';
     PP = window.PP || {};
-    
+
         PP['login'] = '';
+
+        (function() {
+            var getDate = function(datestr) {
+                var time = Date.parse(datestr);
+                if (isNaN(time)) time = 1000 * parseInt(datestr, 10);
+                return isNaN(time) ? null : new Date(time);
+            };
+            PP['created_on'] = getDate('');
+            PP['last_broadcast_time'] = getDate('');
+        }());
+
         PP['email'] = '';
-        PP['created_on'] = new Date('');
         PP['display_name'] = '';
         PP['user_id'] = 0;
         PP['password_hash'] = '';
         PP['is_broadcaster'] = false;
-        PP['geo'] = 'US';
-        PP['ip'] = '207.241.237.209';
-        PP['birthday'] = '';
-        PP['sex'] = '';
-        PP['is_pro'] = false;
-        PP['auth'] = '';
-        PP['general_access_code'] = '';
-        PP['email_invalid'] = '';
+
+        PP['turbo'] = '';
         PP['twice_request'] = 'true';
-        PP['interests'] = '';
-        PP['category'] = '';
         PP['is_admin'] = '';
         PP['is_subadmin'] = '';
-        
-            PP['taglist'] = '';
 
+        PP['user_is_partner'] = false;
+        
+
+    PP['geo'] = 'US';
+    PP['email_request_chance'] = 0.01;
     PP['page_type'] = 'other';
+    PP['page_version'] = '';
     PP['language'] = 'en';
-    PP['api_url'] = 'http://api.twitch.tv/';
+    PP['api_url'] = 'api.twitch.tv';
+    PP['firebase_namespace'] = 'production';
+    PP['switch_follows_tracker'] = true;
+    PP['switch_following_videos'] = true;
+    PP['switch_kabam'] = true;
 
 (function($) {
-    if(PP.is_broadcaster){
-        var user_type = "broadcaster";
-    } else if(PP.login){
-        var user_type = "user";
-    } else {
-        var user_type = "anonymous";
-    }
 
     _gaq.push(
         ['_setAccount', 'UA-23719667-1'],
         ['_setDomainName', "twitch.tv"],
         ['_setAllowLinker', true],
-        ['_setVar', user_type],
         ['_setCustomVar', 1, "UserType", PP.login ? "user" : "visitor", 2]
     );
 
-    var TRACKED_EVENTS = [
-        "login-click",
-        "login",
-        "signup-click",
-        "signup",
-        "logout"
-    ];
-
-    var event = Twitch.storage.legacy.get("mp_event");
-
-    if (~$.inArray(event, TRACKED_EVENTS)) {
-
-        var properties = {"source": Twitch.storage.legacy.get("mp_source") || PP.page_type};
-
-        switch(event) {
-            case "login":
-                Twitch.storage.legacy.del("mp_source");
-                if (PP.is_pro) {
-                    PP.pro_account_activated = true;
-                }
-                gaTrackEvent("User", "Login");
-                break;
-            case "signup":
-                Twitch.storage.legacy.del("mp_source");
-                properties["facebook-connected"] = Twitch.storage.legacy.get("facebook_connected") === "true";
-                gaTrackEvent("User", "Signup");
-                break;
-            case "logout":
-                _gaq.push(['_deleteCustomVar', 2]);
-                break;
-        }
-        Twitch.tracking.mixpanel.track_with_swf(event, properties);
-        Twitch.storage.legacy.del("mp_event");
-    }
-
-    if(PP.pro_account_activated){
-        _gaq.push(['_setCustomVar', 2, "ProStatus", "pro", 1]);
-    }
-
-    if(PP.login && !Twitch.storage.legacy.get("whoami")){
-        Twitch.storage.legacy.set("whoami", "t", 864e5 * 7);
-        Twitch.tracking.mixpanel.track_with_swf("whoami", {created_on: PP.created_on.getTime()});
-    }
-
-        _gaq.push(["_trackPageview"]);
+    $(window).trigger('load:PP')
 })(jQuery);
 
 //]]>
@@ -153,7 +116,7 @@
 
     _.msgs = {};
 
-    window.Trans = _;
+    window.i18n = _;
     window._ = window._ || _;
   })();
 
@@ -161,9 +124,6 @@
 </script>
     <style>
         .admin-only {
-            display:none;
-        }
-        .promoter-only {
             display:none;
         }
             .admin-and-owner-only {
@@ -177,7 +137,6 @@
         }
     </style>
 
-<script src="http://www-cdn.jtvnw.net/javascripts/initializer.js?1349394503" type="text/javascript"></script>
 <div class="clearfix" id="site_header">
 <div class="c12_extended" id="header_inside">
 <div id="site_tipsy_anchor"></div>
@@ -195,6 +154,9 @@
 <a href="/user/signup" class="normal_button" data-mp-event="signup-click" id="header_signup"><span>Sign Up</span></a>
 </div>
 <div class="header_divider"></div>
+<div id="header_turbo_promo" style="">
+<a href="/products/turbo?ref=header" class="normal_button" id="header_turbo"><span>Go Turbo</span></a>
+</div>
 <a href="/directory" class="normal_button" id="header_browse"><span>Browse</span></a>
 
 <script class="partial" id="live" type="text/html">
@@ -207,18 +169,22 @@
   {{title}}
 {{/status}}
 </p>
-<span>on {{name}}</span>
+<span>on {{name}}
+</span>
 </li>
 </script>
 <script class="partial" id="users" type="text/html">
 <li class='users result dropmenu_action'>
-<p>{{name}}</p>
+<p>{{name}}
+</p>
 </li>
 </script>
 <script class="partial" id="broadcasts" type="text/html">
 <li class='broadcasts result dropmenu_action'>
-<p>{{title}}</p>
-<span>on {{user}}</span>
+<p>{{title}}
+</p>
+<span>on {{user}}
+</span>
 </li>
 </script>
 <script id="dropdown" type="text/html">
@@ -272,215 +238,379 @@
 </div>
 </div>
 
-<div id="header_notification" style="display:none">
-</div>
+<div id="header_notification" style="display:none"></div>
 
 <div id="pro_authenticated"></div>
 
+<script>
+  //<![CDATA[
+    (function() {
+      window.SOI_SITE     = 'twitch';
+      window.SOI_SUBSITE  = 'other'; // first level (home for home)
+      window.SOI_SUB2SITE = ''; // second level
+      window.SOI_SUB3SITE = ''; // third level
+      window.SOI_CONTENT  = 'content'; // content|gallery|game|...
+      window.SOI_TLD      = String(PP.geo).toLowerCase();
+      // WERBUNG  = Advertisment in German. Boolean that indicates whether sevenone ads are enabled.
+    
+      // When viewing a backbone page, the page refreshes and adds a location hash if the browser doesn't have push state enabled. This variable is true when using a good browser or on the second load. 
+      var validDirectory = (history.pushState !== undefined || window.location.hash.length);
+      // This variable is true when we are on a page we want to display ads on.
+      var validPage = (SOI_SUBSITE !== 'video' && (SOI_SUBSITE !== 'games' || validDirectory));
+    
+      window.SOI_WERBUNG  = Twitch.ads.sevenone_enabled() && validPage;
+    
+      // Available tags
+      window.SOI_PU1 = true; // popup1
+      window.SOI_FB2 = true; // fullbanner2
+      window.SOI_SC1 = false; // skyscraper1
+      window.SOI_RT1 = true; // rectangle1
+    
+      // Suitability for special ads
+      // - from popup1
+      window.SOI_PU = false; // popup/popunder
+      window.SOI_PL = false; // powerlayer
+      window.SOI_FA = false; // baseboard
+    
+      // - from fullbanner2
+      window.SOI_PB = false; // powerbanner (728x180)
+      window.SOI_PD = false; // pushdown
+      window.SOI_BB = false; // billboard
+      window.SOI_WP = (SOI_SUBSITE !== 'home'); // wallpaper
+      window.SOI_FP = true; // fireplace
+    
+      // - from rectangle1
+      window.SOI_HP = false; // halfpage (300x600)
+    
+      // - from skyscraper1
+      window.SOI_SB = false; // sidebar (300|400x600, auto-scaling, fixed position)
+    
+      if (window.SOI_WERBUNG) {
+        document.write('<script type="text/javascript" src="http://www-cdn.jtvnw.net/javascripts/libs/sevenone_ad.js"><\/script>');
+      }
+    })();
+  //]]>
+</script>
+
+<script>
+  //<![CDATA[
+    if (!window.myAd) {
+      window.myAd = {};
+      myAd.loadScript = myAd.addStyleSheet = myAd.initContainer = myAd.insertAd = myAd.finishAd = myAd.exists = function(){};
+      myAd.getVideoAdRequest = function(){return '';}
+    }
+    myAd.addStyleSheet('/stylesheets/external/sevenone_ad.css');
+  //]]>
+</script>
+
+<script>
+  //<![CDATA[
+    (function() {
+      var forceLoadEsl = false;
+      if (Twitch.ads.esl_enabled() || forceLoadEsl) {
+        window.adnxsId = '';
+        document.write('<script type="text/javascript" src="/javascripts/libs/megatag.js"><\/script>'); // TODO: move to http://www-cdn.jtvnw.net
+      }
+    })();
+  //]]>
+</script>
+
+
+<script type="text/javascript">
+  //<![CDATA[
+    myAd.initContainer('outer')
+  //]]>
+</script>
 <div id="mantle_skin">
 
 <div class="main">
 <div class="wrapper c12 clearfix">
-<h1 class="static_header">Legal Documents</h1>
-<ul class="vtabs grid c2" id="nav_links">
-<li><a href="/user/terms_of_service" class="round">Terms of Service</a></li>
-<li><span class="not_linked">Privacy Policy<b class="right"></b></span></li>
-<li><a href="/user/dmca" class="round">DMCA Guidelines</a></li>
-<li><a href="/user/terms_of_sale" class="round">Terms of Sale</a></li>
-</ul>
-
+<div class="static_context_banner" id="banner">
+<div class="grid c2">
+<img alt="Legal Glitch" src="http://s.jtvnw.net/jtv_user_pictures/hosted_images/Glitch_Legal.png">
+</div>
 <div class="grid c10 last">
-<h2>Platform Privacy Notice</h2>
-<h3>
-<a name="date">Last modified on April 27, 2010.</a>
-</h3>
-<p>Welcome to the Justin.tv, Inc. (“Justin.tv”) applications, platform, web site (www.justin.tv), and any other web sites, applications, or services operated or produced by Justin.tv (collectively, the “Justin.tv Platform”). Justin.tv values the privacy of the users, subscribers, publishers, members, and others who visit and use the Justin.tv Platform (collectively or individually, “You” or “Users”).</p>
-<p>By using the Justin.tv Platform, you expressly consent to the information handling practices described in this notice.</p>
+<h1>All about Twitch
+</h1>
+<ul class="info-pages-list top-tabs">
+<li><a href="/p/about">About</a></li>
+<li><a href="/p/advertise">Advertise</a></li>
+<li><a href="/p/developers">Developers</a></li>
+<li><a href="/p/partners">Partners</a></li>
+<li><a href="/p/mobile">Mobile</a></li>
+<li><a href="/p/jobs">Jobs</a></li>
+<li><a href="http://help.twitch.tv">Help</a></li>
+<li class="active"><a href="/user/legal">Legal</a></li>
+</ul>
+</div>
+</div>
+<ul class="vtabs grid c2" id="nav_links">
+<li><a href="/user/legal?page=terms_of_service" class="round">Terms of Service</a></li>
+<li><span class="not_linked">Privacy Notice<b class="right"></b></span></li>
+<li><a href="/user/legal?page=dmca" class="round">DMCA Guidelines</a></li>
+<li><a href="/user/legal?page=terms_of_sale" class="round">Terms of Sale</a></li>
+</ul>
+<div class="grid c8 legal_page">
+<article>
+<header>
+<h2>Privacy Notice
+</h2>
 <p>
-This Privacy Notice is incorporated into and is subject to the Justin.tv Platform
-<a href="/user/terms_of_service">Terms of Service</a>
-Your use of the Justin.tv Platform and any personal information you provide through the Justin.tv Platform are subject at all time to this Privacy Notice and the
-<a href="/user/terms_of_service">Terms of Service</a>
+Last modified on
+<strong>9/9/12
+</strong>
 </p>
-<h3>TABLE OF CONTENTS</h3>
-<ol class="plain" id="table_of_contents">
-<li>
-<a href="#infocollected">The Information Justin.tv Collects</a>
-</li>
-<li>
-<a href="#wayused">The Way Justin.tv Uses Information</a>
-</li>
-<li>
-<a href="#disclosure">When Justin.tv Discloses Information</a>
-</li>
-<li>
-<a href="#choices">Your Choices</a>
-</li>
-<li>
-<a href="#advertisers">Advertisers</a>
-</li>
-<li>
-<a href="#datasecurity">Data Security</a>
-</li>
-<li>
-<a href="#childrens">Children's Privacy</a>
-</li>
-<li>
-<a href="#intl">International Visitors</a>
-</li>
-<li>
-<a href="#merger">In the Event of Merger or Sale</a>
-</li>
-<li>
-<a href="#changes">Changes and Updates to this Privacy Notice</a>
-</li>
-<li>
-<a href="#date">Effective Date, Date Last Modified</a>
-</li>
-<li>
-<a href="#contact">Justin.tv Contact Information</a>
-</li>
+</header>
+<section>
+<section>
+<p>
+Welcome to the web site www.twitch.tv, and any other web sites, applications, or services that link to this Privacy Notice (collectively, the “
+<strong>Twitch Service
+</strong>
+”), which sites, applications or services are operated or produced by Justin.tv, Inc. dba Twitch (“
+<strong>Twitch
+</strong>
+”). Twitch values the privacy of the users, subscribers, publishers, members, and others who visit and use the Twitch Service (collectively or individually, “
+<strong>You
+</strong>
+” or “
+<strong>Users
+</strong>
+”).
+</p>
+<p>By using the Twitch Service, you expressly consent to the information handling practices described in this notice.
+</p>
+<p>This Privacy Notice is incorporated into and is subject to the Twitch Service Terms of Service. Your use of the Twitch Service and any personal information you provide through the Twitch Service are subject at all time to this Privacy Notice and the Terms of Service.
+</p>
+</section>
+<div id="nav">
+<h4>Table of Contents
+</h4>
+<ol class="legal" id="nav">
+<li><a href="#collect">The Information Twitch Collects</a></li>
+<li><a href="#uses">The Way Twitch Uses Information</a></li>
+<li><a href="#disclosure">When Twitch Discloses Information</a></li>
+<li><a href="#choices">Your Choices</a></li>
+<li><a href="#advertisers">Advertisers</a></li>
+<li><a href="#security">Data Security</a></li>
+<li><a href="#children">Children’s Privacy</a></li>
+<li><a href="#international">International Visitors</a></li>
+<li><a href="#ownership">In the Event of Merger or Sale</a></li>
+<li><a href="#updates">Changes and Updates to this Privacy Notice</a></li>
+<li><a href="#date">Effective Date, Date Last Modified</a></li>
+<li><a href="#contact">Twitch Contact Information</a></li>
 </ol>
-<h3>
-<a name="infocollected">The Information Justin.tv Collects</a>
-</h3>
-<ul class="plain">
-<li>User-provided Information: You may provide to Justin.tv what is generally called “personally identifiable” information (such as your name, email address, postal mailing address, home/mobile telephone number, credit card number and billing information) if you upload, purchase, or view or download certain content or products from the Justin.tv Platform, enter contests or sweepstakes, or otherwise use the features and functionality of the Justin.tv Platform.</li>
-<li>“Cookies” Information: When you access the Justin.tv Platform, we may send one or more cookies – small text files containing a string of alphanumeric characters – to your computer. Justin.tv may use both session cookies and persistent cookies. A session cookie disappears after you close your browser. A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to the Justin.tv Platform. Persistent cookies can be removed. Please review your web browser “Help” file to learn the proper way to modify your cookie settings.</li>
-<li>“Automatically Collected” Information: When you access the Justin.tv Platform or open one of our HTML emails, we may automatically record certain information from your system by using different types of tracking technology. This “automatically collected” information may include Internet Protocol address (“IP Address”), a unique user ID, version of software installed, system type, the content and pages that you access on the Justin.tv Platform, and the dates and times that you visit the Justin.tv Platform.</li>
-</ul>
-<h3>
-<a name="wayused">The Way Justin.tv Uses Information</a>
-</h3>
-<ul class="plain">
-<li>Justin.tv uses the information that you provide or that we collect to operate, maintain, enhance, and provide all of the features and services found on the Justin.tv Platform as well as to track user-generated content and Users to the extent necessary to comply as a service provider with the Digital Millennium Copyright Act.</li>
-<li>We will use your email address, without further consent, for administrative communications such as notifying you of major Justin.tv Platform updates, for customer service purposes, to address copyright infringement or defamation issues, or to contact you regarding any content that you have posted to or downloaded from the Justin.tv Platform.</li>
-<li>Justin.tv uses all of the information that we collect to understand the usage trends and preferences of our Users, to improve the way the Justin.tv Platform works and looks, and to create new features and functionality.</li>
-<li>Justin.tv may use “Automatically Collected” information and “Cookies” information to: (a) automatically update the Justin.tv application on your system; (b) remember your information so that you will not have to re-enter it during your visit or the next time you access the Justin.tv Platform; (c) provide customized third-party advertisements, content and information; (d) monitor the effectiveness of third-party marketing campaigns; (e) monitor aggregate site usage metrics such as total number of visitors and pages accessed; and (f) track your entries, submissions, and status in any promotions or other activities.</li>
-</ul>
-<h3>
-<a name="disclosure">When Justin.tv Discloses Information</a>
-</h3>
-<ul class="plain">
-<li>Justin.tv does not share your personally identifiable information with other organizations for their marketing or promotional uses without your prior express consent. Please be aware, however, that any personally identifiable information that you voluntarily choose to display on any publicly available portion of the Justin.tv Platform – such as when you publish content, comments or profile information – becomes publicly available and may be collected and used by others without restriction.</li>
-<li>Justin.tv may disclose Automatically Collected and other aggregate non-personally-identifiable information with interested third parties to assist such parties in understanding the usage and demographic patterns for certain programs, content, services, advertisements, promotions, or other functionality of Justin.tv.</li>
-<li>We may disclose some limited User information to affiliated companies or other businesses or persons to: provide web site hosting, maintenance, and security services; fulfill orders; conduct data analysis and create reports; offer certain functionality; and assist Justin.tv in improving the Justin.tv Platform and creating new services features. We require that these parties process such information in compliance with this Privacy Notice, we authorize only a limited use of such information, and we require these parties to use reasonable confidentiality measures.</li>
-<li>Justin.tv may disclose User information if required to do so by law or in the good-faith belief that such action is necessary to comply with state and federal laws (such as U.S. Copyright law) or respond to a court order, judicial or other government subpoena, or warrant in the manner required by the requesting entity.</li>
-<li>Justin.tv also reserves the right to disclose User information that we believe, in good faith, is appropriate or necessary to take precautions against liability; protect Justin.tv from fraudulent, abusive, or unlawful uses; to investigate and defend ourselves against third-party claims or allegations; to assist government enforcement agencies; to protect the security or integrity of the Justin.tv Platform; or to protect the rights, property, or personal safety of Justin.tv, our Users, or others.</li>
-</ul>
-<h3>
-<a name="choices">Your Choices</a>
-</h3>
-<p>You may, of course, decline to share your personally-identifiable information with Justin.tv, in which case Justin.tv will not be able to provide to you some of the features and functionality found on the Justin.tv Platform. You may update, correct, or delete your user information and preferences by clicking on the “Edit Settings” link on the top left of the page once you have logged in to the Justin.tv Platform.</p>
-<p>To protect your privacy and security, we take reasonable steps to verify your identity before granting you account access or making corrections to your information. You are responsible for maintaining the secrecy of your unique password and account information at all times.</p>
-<h3>
-<a name="advertisers">Advertisers</a>
-</h3>
-<p>Justin.tv may allow advertisers, third party advertising networks and third-party advertising serving companies to serve advertisements directly to you within the Justin.tv site, services and software. By serving these advertisements directly to you, these companies can set their own cookies on your computer and trigger their own Web beacons to measure the effectiveness of their advertisements and to personalize the advertising content. Justin.tv does not provide your personally identifiable information to these third-party ad servers or ad networks without your consent. However, please note that if an advertiser asks Justin.tv to show an advertisement to a certain audience (for example, males age 15 to 18) or audience segment (for example, males age 15 to 18 who have participated in certain promotions) and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience that they were trying to reach. You should consult the respective privacy policies of these third-party ad servers or ad networks.</p>
+</div>
+<section>
+<article>
+<h4 id="collect">The Information Twitch Collects
+</h4>
+<ul>
+<li>
 <p>
-Some of these companies are participants in the Network Advertising Initiative ("NAI"), a cooperative of online marketing and analytics companies committed to building consumer awareness and establishing responsible business and data management practices and standards. You can learn more about NAI and how you may "opt out" of targeted advertising delivered by NAI member ad networks here:
-<a href="http://www.networkadvertising.org/">http://www.networkadvertising.org/</a>
+<strong>User-provided Information
+</strong>:
+You may provide to Twitch what is generally called “personally identifiable” information (such as your name, email address, postal mailing address, home/mobile telephone number, credit card number and billing information) if you upload, purchase, or view or download certain content or products from the Twitch Service, enter contests or sweepstakes, or otherwise use the features and functionality of the Twitch Service.
 </p>
-<p>This Privacy Notice does not apply to, and we cannot control the activities of, such other advertisers or web sites. Justin.tv reserves the right the add or remove third-party ad networks or ad servers in its discretion and Justin.tv may not at all times list such updated ad network or ad server partners in this Privacy Notice.</p>
-<h3>
-<a name="datasecurity">Our Commitment to Data Security</a>
-</h3>
-<p>Justin.tv uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to Justin.tv, and you do so at your own risk. Once we receive your transmission of information, Justin.tv makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.</p>
+</li>
+<li>
 <p>
-If Justin.tv learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. Justin.tv may post a notice on the Justin.tv Platform if a security breach occurs.  Depending on where you live, you may have a legal right to receive notice of a security breach in writing.  To receive a free written notice of a security breach you should notify us at
-<a href="href=mailto:privacy@justin.tv">privacy@justin.tv</a>
+<strong>“Cookies” Information
+</strong>:
+When you access the Twitch Service, we may send one or more cookies – small text files containing a string of alphanumeric characters – to your computer. Twitch may use both session cookies and persistent cookies. A session cookie disappears after you close your browser. A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to the Twitch Service. Persistent cookies can be removed. Please review your web browser “Help” file to learn the proper way to modify your cookie settings. We may also use Adobe Flash cookies in compliance with [Network Advertising Initiative] standards. The Adobe Flash Player is an application and web tool that allows rapid development of dynamic content. Flash (and similar applications) use technology to remember settings, preferences and usage similar to browser cookies but these are managed through a different interface than the one provided by your web browser. Adobe Flash cookies may be used by us where we use Flash to provide video content. You may access your Flash management tools to manage or remove such cookies.
 </p>
-<h3>
-<a name="childrens">Our Commitment to Children’s Privacy</a>
-</h3>
-<p>If you are under 13 years of age, then please do not use or access THE JUSTIN.TV PLATFORM at any time or in any manner.</p>
-<p>Protecting the privacy of young children is especially important. For that reason, Justin.tv does not knowingly collect or maintain personally identifiable information from persons under 13 years-of-age. If Justin.tv learns that personally-identifiable information of persons less than 13-years-of-age has been collected on or through the Justin.tv Platform, then Justin.tv will take the appropriate steps to delete this information.</p>
+</li>
+<li>
 <p>
-If you are the parent or legal guardian of a child under 13 who has become Justin.tv Platform member, then please contact Justin.tv at
-<a href="href=mailto:privacy@justin.tv">privacy@justin.tv</a>
-to have that child’s account terminated and information deleted.
+<strong>“Automatically Collected” Information
+</strong>:
+When you access the Twitch Service or open one of our HTML emails, we may automatically record certain information from your system by using different types of tracking technology. This “automatically collected” information may include Internet Protocol address (“
+<strong>IP Address
+</strong>
+”), a unique user ID, version of software installed, system type, the content and pages that you access on the Twitch Service, and the dates and times that you visit the Twitch Service.
 </p>
-<p>The following are some resources that may help parents and legal guardians in monitoring and limiting your childrens' access to certain types of material on the Internet. While Justin.tv does not endorse these products, we provide information about them as a public service to our community.</p>
-<ul class="plain">
-<li>
-<a href="http://onguardonline.gov/socialnetworking.html">“OnGuard Online,” maintained by the FTC.</a>
 </li>
 <li>
-<a href="http://www.wiredsafety.org">WiredSafety</a>
-</li>
-<li>
-<a href="http://www.netsmartz.org">Netsmartz.org</a>
-</li>
-<li>
-<a href="http://www.csn.org/index.jsp">The Child Safety Network</a>
-</li>
-<li>
-<a href="http://www.controlkids.com">Control Kids</a>
-</li>
-<li>
-<a href="http://www.solidoak.com">Cyber Sitter</a>
-</li>
-<li>
-<a href="http://www.netnanny.com">Net Nanny</a>
+<p>
+<strong>Information from Other Sources
+</strong>:
+We may obtain information, including personally identifiable information, from third parties and sources other than the Twitch Service, such as advertisers or social media networks for which you have approved our access to information (e.g., information from your Facebook account provided by the Facebook APIs). If we combine or associate information from such other sources with personally identifiable information that we collect through the Twitch Service, we will treat the combined information as personally identifiable information in accordance with this Privacy Policy.
+</p>
 </li>
 </ul>
-<h3>
-<a name="intl">International Visitors</a>
-</h3>
-<p>For Users visiting the Justin.tv Platform from the European Economic Area or other non-U.S. territories, please note that any data you enter into the Justin.tv Platform will be transferred outside the European Economic Area or such other non-U.S. territory for use by Justin.tv and its affiliates for any of the purposes described herein. In addition, because Justin.tv operates globally, we may make information we gather available to worldwide business units and affiliates. By providing any data on the Justin.tv Platform, you hereby expressly consent to such transfers of your data to the United States or other countries.</p>
-<h3>
-<a name="merger">In the Event of Merger or Sale</a>
-</h3>
-<p>In the event that Justin.tv is acquired by or merged with a third-party entity, we reserve the right, in any of these circumstances, to transfer or assign the information that we have collected from Users as part of that merger, acquisition, sale, or other change of control.</p>
-<h3>
-<a name="changes">Changes and Updates to this Privacy Notice:</a>
-</h3>
-<p>This Privacy Notice may be revised periodically without further notice to you and this will be reflected by a “last modified” date below. Please revisit this page to stay aware of any changes. In general, we only use your personal information in the manner described in the Privacy Notice in effect when we received that personal information. Your continued use of the Justin.tv Platform constitutes your agreement to this Privacy Notice and any future revisions.</p>
-<p>For revisions to this Privacy Notice that may be materially less restrictive on our use or disclosure of personal information you have provided to us, we will make reasonable efforts to notify you and obtain your consent before implementing revisions with respect to such information.</p>
-<h3>
-<a name="contact">Justin.tv Contact Information:</a>
-</h3>
-<p>
-Please contact Justin.tv with any questions or comments about this Privacy Notice, your personal information, and our third-party disclosure practices or your consent choices at:  23 Geary Street, Suite 800 San Francisco, CA 94108 by email:
-<a href="mailto:privacy@justin.tv">privacy@justin.tv</a>
-or by phone: (415) 683-7649.  We will respond to your inquiry within 30 days of its receipt.
+<p><a href="#nav">top</a></p>
+</article>
+<article>
+<h4 id="uses">The Way Twitch Uses Information
+</h4>
+<ul>
+<li>
+<p>Twitch uses the information that you provide or that we collect to operate, maintain, enhance, and provide all of the features and services found on the Twitch Service as well as to track user-generated content and Users to the extent necessary to comply as a service provider with the Digital Millennium Copyright Act.
 </p>
+</li>
+<li>
+<p>We will use your email address, without further consent, for administrative communications such as notifying you of major Twitch Service updates, for customer service purposes, to address copyright infringement or defamation issues, or to contact you regarding any content that you have posted to or downloaded from the Twitch Service.
+</p>
+</li>
+<li>
+<p>Twitch uses all of the information that we collect to understand the usage trends and preferences of our Users, to improve the way the Twitch Service works and looks, and to create new features and functionality.
+</p>
+</li>
+<li>
+<p>Twitch may use “Automatically Collected” information and “Cookies” information to: (a) automatically update the Twitch application on your system; (b) remember your information so that you will not have to re-enter it during your visit or the next time you access the Twitch Service; (c) provide customized third-party advertisements, content and information; (d) monitor the effectiveness of third-party marketing campaigns; (e) monitor aggregate site usage metrics such as total number of visitors and pages accessed; and (f) track your entries, submissions, and status in any promotions or other activities.
+</p>
+</li>
+</ul>
+<p><a href="#nav">top</a></p>
+</article>
+<article>
+<h4 id="disclosure">When Twitch Discloses Information
+</h4>
+<ul>
+<li>
+<p>Twitch is not in the business of sharing your personally identifiable information with other organizations for their marketing or promotional uses without your prior express consent. Please be aware, however, that any personally identifiable information that you voluntarily choose to display on any publicly available portion of the Twitch Service – such as when you publish content, comments or profile information – becomes publicly available and may be collected and used by others without restriction.
+</p>
+</li>
+<li>
+<p>Twitch may disclose Automatically Collected and other aggregate non-personally-identifiable information with interested third parties to assist such parties in understanding the usage and demographic patterns for certain programs, content, services, advertisements, promotions, or other functionality of Twitch.
+</p>
+</li>
+<li>
+<p>We may disclose some limited User information to affiliated companies or other businesses or persons to: provide web site hosting, maintenance, and security services; fulfill orders; conduct data analysis and create reports; offer certain functionality; and assist Twitch in improving the Twitch Service and creating new services features. We require that these parties process such information in compliance with this Privacy Notice, we authorize only a limited use of such information, and we require these parties to use reasonable confidentiality measures.
+</p>
+</li>
+<li>
+<p>Twitch may disclose User information if required to do so by law or in the good-faith belief that such action is necessary to comply with state and federal laws (such as U.S. Copyright law) or respond to a court order, judicial or other government subpoena, or warrant in the manner required by the requesting entity.
+</p>
+</li>
+<li>
+<p>Twitch also reserves the right to disclose User information that we believe, in good faith, is appropriate or necessary to take precautions against liability; protect Twitch from fraudulent, abusive, or unlawful uses; to investigate and defend ourselves against third-party claims or allegations; to assist government enforcement agencies; to protect the security or integrity of the Twitch Service; or to protect the rights, property, or personal safety of Twitch, our Users, or others.
+</p>
+</li>
+</ul>
+<p><a href="#nav">top</a></p>
+</article>
+<article>
+<h4 id="choices">Your Choices
+</h4>
+<p>You may, of course, decline to share your personally-identifiable information with Twitch, in which case Twitch will not be able to provide to you some of the features and functionality found on the Twitch Service. You may update, correct, or delete your user information and preferences by clicking on the “Edit Settings” link on the top left of the page once you have logged in to the Twitch Service.
+</p>
+<p>To protect your privacy and security, we take reasonable steps to verify your identity before granting you account access or making corrections to your information. You are responsible for maintaining the secrecy of your unique password and account information at all times.
+</p>
+<p><a href="#nav">top</a></p>
+</article>
+<article>
+<h4 id="advertisers">Advertisers
+</h4>
+<p>Twitch may allow advertisers, third party advertising networks and third-party advertising serving companies to serve advertisements directly to you within the Twitch Service and other Twitch sites, services and software. By serving these advertisements directly to you, these companies can set their own cookies on your computer and trigger their own Web beacons to measure the effectiveness of their advertisements and to personalize the advertising content. Twitch does not provide your personally identifiable information to these third-party ad servers or ad networks without your consent. However, please note that if an advertiser asks Twitch to show an advertisement to a certain audience (for example, males age 15 to 18) or audience segment (for example, males age 15 to 18 who have participated in certain promotions) and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience that they were trying to reach. You should consult the respective privacy policies of these third-party ad servers or ad networks.
+</p>
+<p>
+Some of these companies are participants in the Network Advertising Initiative ("
+<strong>NAI
+</strong>
+"), a cooperative of online marketing and analytics companies committed to building consumer awareness and establishing responsible business and data management practices and standards. You can learn more about NAI and how you may "opt out" of targeted advertising delivered by NAI member ad networks here:
+<a href="http://www.networkadvertising.org/">http://www.networkadvertising.org/</a>.
+</p>
+<p>This Privacy Notice does not apply to, and we cannot control the activities of, such other advertisers or web sites. Twitch reserves the right the add or remove third-party ad networks or ad servers in its discretion and Twitch may not at all times list such updated ad network or ad server partners in this Privacy Notice.
+</p>
+<p><a href="#nav">top</a></p>
+</article>
+<article>
+<h4 id="security">Our Commitment to Data Security
+</h4>
+<p>Twitch uses certain physical, managerial, and technical measures designed to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to Twitch, and you do so at your own risk. Once we receive your transmission of information, Twitch makes efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
+</p>
+<p>If Twitch learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. Twitch may post a notice on the Twitch Service if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach you should notify us at privacy@twitch.tv.
+</p>
+<p><a href="#nav">top</a></p>
+</article>
+<article>
+<h4 id="children">Our Commitment to Children’s Privacy
+</h4>
+<p>IF YOU ARE UNDER 13 YEARS OF AGE, THEN PLEASE DO NOT USE OR ACCESS THE TWITCH SERVICE AT ANY TIME OR IN ANY MANNER.
+</p>
+<p>Protecting the privacy of young children is especially important. For that reason, Twitch does not knowingly collect or maintain personally identifiable information from persons under 13 years-of-age. If Twitch learns that personally-identifiable information of persons less than 13-years-of-age has been collected on or through the Twitch Service, then Twitch will take the appropriate steps to delete this information.
+</p>
+<p>If you are the parent or legal guardian of a child under 13 who has become Twitch Service member, then please contact Twitch at privacy@twitch.tv to have that child’s account terminated and information deleted.
+</p>
+<p>The following are some resources that may help parents and legal guardians in monitoring and limiting your children’s' access to certain types of material on the Internet. While Twitch does not endorse these products, we provide information about them as a public service to our community.
+</p>
+<ul>
+<li><a href="http://onguardonline.gov/socialnetworking.html">“OnGuard Online,” maintained by the FTC</a></li>
+<li><a href="http://www.wiredsafety.org/">WiredSafety</a></li>
+<li><a href="http://www.netsmartz.org/">Netsmartz.org</a></li>
+<li><a href="http://www.csn.org/index.jsp">The Child Safety Network</a></li>
+<li><a href="http://www.controlkids.com/">Control Kids</a></li>
+<li><a href="http://www.solidoak.com/">Cyber Sitter</a></li>
+<li><a href="http://www.netnanny.com/">Net Nanny</a></li>
+</ul>
+<p><a href="#nav">top</a></p>
+</article>
+<article>
+<h4 id="international">International Visitors
+</h4>
+<p>For Users visiting the Twitch Service from the European Economic Area or other non-U.S. territories, please note that any data you enter into the Twitch Service will be transferred outside the European Economic Area or such other non-U.S. territory for use by Twitch and its affiliates for any of the purposes described herein. In addition, because Twitch operates globally, we may make information we gather available to worldwide business units and affiliates. By providing any data on the Twitch Service, you hereby expressly consent to such transfers of your data to the United States or other countries.
+</p>
+<p><a href="#nav">top</a></p>
+</article>
+<article>
+<h4 id="ownership">In the Event of Merger or Sale
+</h4>
+<p>In the event that Twitch or assets related to the Twitch Service are acquired by or merged with a third-party entity, we reserve the right, in any of these circumstances, to transfer or assign the information that we have collected from Users as part of that merger, acquisition, sale, or other change of control.
+</p>
+<p><a href="#nav">top</a></p>
+</article>
+<article>
+<h4 id="updates">Changes and Updates to this Privacy Notice
+</h4>
+<p>This Privacy Notice may be revised periodically without further notice to you and this will be reflected by a “last modified” date below. Please revisit this page to stay aware of any changes. In general, we only use your personal information in the manner described in the Privacy Notice in effect when we received that personal information. Your continued use of the Twitch Service constitutes your agreement to this Privacy Notice and any future revisions.
+</p>
+<p>For revisions to this Privacy Notice that may be materially less restrictive on our use or disclosure of personal information you have provided to us, we will make reasonable efforts to notify you and obtain your consent before implementing revisions with respect to such information.
+</p>
+<p><a href="#nav">top</a></p>
+</article>
+<article>
+<h4>Twitch Contact Information
+</h4>
+<p>Please contact Twitch with any questions or comments about this Privacy Notice, your personal information, and our third-party disclosure practices or your consent choices at: 23 Geary Street, Suite 800, San Francisco CA, 94108; by email: privacy@twitch.tv or by phone: 1-888-800-3173. We will respond to your inquiry within 30 days of its receipt. If you are a California resident, you may have this same information emailed to you by sending a letter to the foregoing address with your email address and a request for this information.
+</p>
+<p><a href="#nav">top</a></p>
+</article>
+</section>
+</section>
+</article>
+
 </div>
 </div>
 </div>
 
 </div>
-<script>
-  //<![CDATA[
-    var url = Twitch.storage.legacy.get('reauthenticate_pro_account');
-    if (url) {
-        addSWF(url, "pro_authenticated", "pro_authenticated_swf")
-    }
-  //]]>
-</script>
 <div class="c12_extended clearfix" id="site_footer">
 <p id="copyright_and_languages">
 <img id="gamespot" src="http://www-cdn.jtvnw.net/images/xarth/logo_gamespot.png">
 <span id="copyright">
 ©
 Justin.tv Inc.
-2012
+2013
 </span>
-<a class="dropmenu_toggle" id="languages">Language</a>
+<a id="language_select">Language
+</a>
 </p>
 <img alt="Glitch" id="footer_glitch" src="http://www-cdn.jtvnw.net/images/xarth/footer_glitch.png">
 <ul id="footer_links">
-<li><a href="/p/about_twitch">About</a></li>
+<li><a href="/p/about">About</a></li>
 <li><a href="http://blog.twitch.tv">Blog</a></li>
-<li><a href="/p/help">Help</a></li>
-<li><a href="https://github.com/justintv/Twitch-API/wiki/API">Developer API</a></li>
-<li><a href="/p/partners">Partners</a></li>
+<li><a href="/products/turbo?ref=footer">Turbo</a></li>
 <li><a href="/p/advertise">Advertise</a></li>
-<li><a href="/jobs">Jobs</a></li>
-<li><a href="/p/press">Press</a></li>
-<li><a href="/user/terms_of_service">Legal</a></li>
+<li><a href="http://www.twitch.tv/p/developers">Developers</a></li>
+<li><a href="/p/partners">Partners</a></li>
+<li><a href="/p/mobile">Mobile</a></li>
+<li><a href="/p/jobs">Jobs</a></li>
+<li><a href="http://help.twitch.tv">Help</a></li>
+<li><a href="/user/legal">Legal</a></li>
 </ul>
 </div>
+
 <script>
   //<![CDATA[
     (function() {
@@ -498,8 +628,13 @@ Justin.tv Inc.
 </script><script src="https://sb.scorecardresearch.com/beacon.js"></script>
 <script>
   //<![CDATA[
+    (function(a){var d=document,c=d.createElement("script");c.async=!0,c.defer=!0,c.src=a,d.getElementsByTagName("head")[0].appendChild(c)})((iatDev=(window.location.href.indexOf("iatDev=1")>-1||document.cookie.indexOf("iatDev=1")>-1),"//"+(window.location.protocol=="http:"&&!iatDev?"h":"")+"j.flxpxl.com/143901.js?r="+Math.random()*1e16+"&m=1538&a=143901"+(iatDev?"&d=1":"")))
+  //]]>
+</script>
+<script>
+  //<![CDATA[
     setTimeout(function(){
-        Twitch.tracking.sendComscoreBeacon({"c1":2,"c2":3005086,"c3":1,"c5":"01"});
+        Twitch.tracking.sendComscoreBeacon({"c3":1,"c1":2,"c5":"01","c2":3005086});
     }, 3000);
   //]]>
 </script>
@@ -529,15 +664,53 @@ Justin.tv Inc.
 </noscript>
 <script>
   //<![CDATA[
-    if(PP.geo == 'DE') {
-      // nug tag
-      var nuggrid = encodeURIComponent(top.location.href);
-      document.write('<script type=\"text/javascript\" src=\"http://glammedia.nuggad.net/rc?nuggn=235681100&nuggsid=1125632060&nuggrid=' + nuggrid + '"><\/script>');
-    }
+    Twitch.tracking.sendGermanBeacons();
   //]]>
 </script>
 
 
+
+<div id="languages_popup" style="display: none">
+<div class="dropmenu_toggled right stem" id="languages_stem">
+<a class="main" href="#" onclick="; return false;">Language</a>
+<button class="dropmenu_toggled_arrow piece close" id="languages_dropmenu_toggled_arrow"></button>
+</div>
+<div class="dropmenu site_header menu-like" id="header_language_dropmenu">
+<div class="dropmenu_links_container clearfix">
+<ul class="dropmenu_col dropmenu_left language_col left">
+<li><a href="http://en.www.twitch.tv" class="language" onclick="change_language('en', 'en');return false"><img id="flag_en" style="height: 13px; width: 20px; background: url(http://www-cdn.jtvnw.net/images/combined/combined-main.r19e32b6eabf4819316cf23cd498293b35a155056.png); background-position: -100px -0px; background-repeat: no-repeat; " src="http://www-cdn.jtvnw.net/images/0px.gif"><span>English</span></a></li>
+<li><a href="http://id.www.twitch.tv" class="language" onclick="change_language('en', 'id');return false"><img id="flag_id" style="height: 13px; width: 20px; background: url(http://www-cdn.jtvnw.net/images/combined/combined-main.r19e32b6eabf4819316cf23cd498293b35a155056.png); background-position: -60px -13px; background-repeat: no-repeat; " src="http://www-cdn.jtvnw.net/images/0px.gif"><span>Bahasa Indonesia</span></a></li>
+<li><a href="http://ma.www.twitch.tv" class="language" onclick="change_language('en', 'ma');return false"><img id="flag_ma" style="height: 13px; width: 20px; background: url(http://www-cdn.jtvnw.net/images/combined/combined-main.r19e32b6eabf4819316cf23cd498293b35a155056.png); background-position: -60px -26px; background-repeat: no-repeat; " src="http://www-cdn.jtvnw.net/images/0px.gif"><span>Bahasa Malaysia</span></a></li>
+<li><a href="http://ca.www.twitch.tv" class="language" onclick="change_language('en', 'ca');return false"><img id="flag_ca" style="height: 13px; width: 20px; background: url(http://www-cdn.jtvnw.net/images/combined/combined-main.r19e32b6eabf4819316cf23cd498293b35a155056.png); background-position: -20px -0px; background-repeat: no-repeat; " src="http://www-cdn.jtvnw.net/images/0px.gif"><span>Català / Valencià</span></a></li>
+<li><a href="http://da.www.twitch.tv" class="language" onclick="change_language('en', 'da');return false"><img id="flag_da" style="height: 13px; width: 20px; background: url(http://www-cdn.jtvnw.net/images/combined/combined-main.r19e32b6eabf4819316cf23cd498293b35a155056.png); background-position: -40px -0px; background-repeat: no-repeat; " src="http://www-cdn.jtvnw.net/images/0px.gif"><span>Dansk</span></a></li>
+<li><a href="http://de.www.twitch.tv" class="language" onclick="change_language('en', 'de');return false"><img id="flag_de" style="height: 13px; width: 20px; background: url(http://www-cdn.jtvnw.net/images/combined/combined-main.r19e32b6eabf4819316cf23cd498293b35a155056.png); background-position: -60px -0px; background-repeat: no-repeat; " src="http://www-cdn.jtvnw.net/images/0px.gif"><span>Deutsch</span></a></li>
+<li><a href="http://es.www.twitch.tv" class="language" onclick="change_language('en', 'es');return false"><img id="flag_es" style="height: 13px; width: 20px; background: url(http://www-cdn.jtvnw.net/images/combined/combined-main.r19e32b6eabf4819316cf23cd498293b35a155056.png); background-position: -0px -13px; background-repeat: no-repeat; " src="http://www-cdn.jtvnw.net/images/0px.gif"><span>Español</span></a></li>
+<li><a href="http://fr.www.twitch.tv" class="language" onclick="change_language('en', 'fr');return false"><img id="flag_fr" style="height: 13px; width: 20px; background: url(http://www-cdn.jtvnw.net/images/combined/combined-main.r19e32b6eabf4819316cf23cd498293b35a155056.png); background-position: -20px -13px; background-repeat: no-repeat; " src="http://www-cdn.jtvnw.net/images/0px.gif"><span>Français</span></a></li>
+<li><a href="http://it.www.twitch.tv" class="language" onclick="change_language('en', 'it');return false"><img id="flag_it" style="height: 13px; width: 20px; background: url(http://www-cdn.jtvnw.net/images/combined/combined-main.r19e32b6eabf4819316cf23cd498293b35a155056.png); background-position: -80px -13px; background-repeat: no-repeat; " src="http://www-cdn.jtvnw.net/images/0px.gif"><span>Italiano</span></a></li>
+<li><a href="http://lv.www.twitch.tv" class="language" onclick="change_language('en', 'lv');return false"><img id="flag_lv" style="height: 13px; width: 20px; background: url(http://www-cdn.jtvnw.net/images/combined/combined-main.r19e32b6eabf4819316cf23cd498293b35a155056.png); background-position: -40px -26px; background-repeat: no-repeat; " src="http://www-cdn.jtvnw.net/images/0px.gif"><span>Latviešu Valoda</span></a></li>
+<li><a href="http://lt.www.twitch.tv" class="language" onclick="change_language('en', 'lt');return false"><img id="flag_lt" style="height: 13px; width: 20px; background: url(http://www-cdn.jtvnw.net/images/combined/combined-main.r19e32b6eabf4819316cf23cd498293b35a155056.png); background-position: -20px -26px; background-repeat: no-repeat; " src="http://www-cdn.jtvnw.net/images/0px.gif"><span>Lietuvių kalba</span></a></li>
+<li><a href="http://nl.www.twitch.tv" class="language" onclick="change_language('en', 'nl');return false"><img id="flag_nl" style="height: 13px; width: 20px; background: url(http://www-cdn.jtvnw.net/images/combined/combined-main.r19e32b6eabf4819316cf23cd498293b35a155056.png); background-position: -80px -26px; background-repeat: no-repeat; " src="http://www-cdn.jtvnw.net/images/0px.gif"><span>Nederlands</span></a></li>
+<li><a href="http://pl.www.twitch.tv" class="language" onclick="change_language('en', 'pl');return false"><img id="flag_pl" style="height: 13px; width: 20px; background: url(http://www-cdn.jtvnw.net/images/combined/combined-main.r19e32b6eabf4819316cf23cd498293b35a155056.png); background-position: -100px -26px; background-repeat: no-repeat; " src="http://www-cdn.jtvnw.net/images/0px.gif"><span>Polski</span></a></li>
+<li><a href="http://pt.www.twitch.tv" class="language" onclick="change_language('en', 'pt');return false"><img id="flag_pt" style="height: 13px; width: 20px; background: url(http://www-cdn.jtvnw.net/images/combined/combined-main.r19e32b6eabf4819316cf23cd498293b35a155056.png); background-position: -20px -39px; background-repeat: no-repeat; " src="http://www-cdn.jtvnw.net/images/0px.gif"><span>Português</span></a></li>
+</ul>
+<ul class="dropmenu_col dropmenu_right language_col">
+<li><a href="http://pt-br.www.twitch.tv" class="language" onclick="change_language('en', 'pt-br');return false"><img id="flag_pt-br" style="height: 13px; width: 20px; background: url(http://www-cdn.jtvnw.net/images/combined/combined-main.r19e32b6eabf4819316cf23cd498293b35a155056.png); background-position: -0px -39px; background-repeat: no-repeat; " src="http://www-cdn.jtvnw.net/images/0px.gif"><span>Português Brasileiro</span></a></li>
+<li><a href="http://ro.www.twitch.tv" class="language" onclick="change_language('en', 'ro');return false"><img id="flag_ro" style="height: 13px; width: 20px; background: url(http://www-cdn.jtvnw.net/images/combined/combined-main.r19e32b6eabf4819316cf23cd498293b35a155056.png); background-position: -40px -39px; background-repeat: no-repeat; " src="http://www-cdn.jtvnw.net/images/0px.gif"><span>Română </span></a></li>
+<li><a href="http://tl.www.twitch.tv" class="language" onclick="change_language('en', 'tl');return false"><img id="flag_tl" style="height: 13px; width: 20px; background: url(http://www-cdn.jtvnw.net/images/combined/combined-main.r19e32b6eabf4819316cf23cd498293b35a155056.png); background-position: -100px -39px; background-repeat: no-repeat; " src="http://www-cdn.jtvnw.net/images/0px.gif"><span>Tagalog</span></a></li>
+<li><a href="http://vi.www.twitch.tv" class="language" onclick="change_language('en', 'vi');return false"><img id="flag_vi" style="height: 13px; width: 20px; background: url(http://www-cdn.jtvnw.net/images/combined/combined-main.r19e32b6eabf4819316cf23cd498293b35a155056.png); background-position: -20px -52px; background-repeat: no-repeat; " src="http://www-cdn.jtvnw.net/images/0px.gif"><span>Tiếng Việt</span></a></li>
+<li><a href="http://tr.www.twitch.tv" class="language" onclick="change_language('en', 'tr');return false"><img id="flag_tr" style="height: 13px; width: 20px; background: url(http://www-cdn.jtvnw.net/images/combined/combined-main.r19e32b6eabf4819316cf23cd498293b35a155056.png); background-position: -0px -52px; background-repeat: no-repeat; " src="http://www-cdn.jtvnw.net/images/0px.gif"><span>Türkçe</span></a></li>
+<li><a href="http://sk.www.twitch.tv" class="language" onclick="change_language('en', 'sk');return false"><img id="flag_sk" style="height: 13px; width: 20px; background: url(http://www-cdn.jtvnw.net/images/combined/combined-main.r19e32b6eabf4819316cf23cd498293b35a155056.png); background-position: -80px -39px; background-repeat: no-repeat; " src="http://www-cdn.jtvnw.net/images/0px.gif"><span>slovenčina</span></a></li>
+<li><a href="http://el.www.twitch.tv" class="language" onclick="change_language('en', 'el');return false"><img id="flag_el" style="height: 13px; width: 20px; background: url(http://www-cdn.jtvnw.net/images/combined/combined-main.r19e32b6eabf4819316cf23cd498293b35a155056.png); background-position: -80px -0px; background-repeat: no-repeat; " src="http://www-cdn.jtvnw.net/images/0px.gif"><span>Ελληνικά</span></a></li>
+<li><a href="http://ru.www.twitch.tv" class="language" onclick="change_language('en', 'ru');return false"><img id="flag_ru" style="height: 13px; width: 20px; background: url(http://www-cdn.jtvnw.net/images/combined/combined-main.r19e32b6eabf4819316cf23cd498293b35a155056.png); background-position: -60px -39px; background-repeat: no-repeat; " src="http://www-cdn.jtvnw.net/images/0px.gif"><span>Русский</span></a></li>
+<li><a href="http://ar.www.twitch.tv" class="language" onclick="change_language('en', 'ar');return false"><img id="flag_ar" style="height: 13px; width: 20px; background: url(http://www-cdn.jtvnw.net/images/combined/combined-main.r19e32b6eabf4819316cf23cd498293b35a155056.png); background-position: -0px -0px; background-repeat: no-repeat; " src="http://www-cdn.jtvnw.net/images/0px.gif"><span>العربية</span></a></li>
+<li><a href="http://hi.www.twitch.tv" class="language" onclick="change_language('en', 'hi');return false"><img id="flag_hi" style="height: 13px; width: 20px; background: url(http://www-cdn.jtvnw.net/images/combined/combined-main.r19e32b6eabf4819316cf23cd498293b35a155056.png); background-position: -40px -13px; background-repeat: no-repeat; " src="http://www-cdn.jtvnw.net/images/0px.gif"><span>हिन्दी</span></a></li>
+<li><a href="http://zh-cn.www.twitch.tv" class="language" onclick="change_language('en', 'zh-cn');return false"><img id="flag_zh-cn" style="height: 13px; width: 20px; background: url(http://www-cdn.jtvnw.net/images/combined/combined-main.r19e32b6eabf4819316cf23cd498293b35a155056.png); background-position: -40px -52px; background-repeat: no-repeat; " src="http://www-cdn.jtvnw.net/images/0px.gif"><span>中文 简体</span></a></li>
+<li><a href="http://zh-tw.www.twitch.tv" class="language" onclick="change_language('en', 'zh-tw');return false"><img id="flag_zh-tw" style="height: 13px; width: 20px; background: url(http://www-cdn.jtvnw.net/images/combined/combined-main.r19e32b6eabf4819316cf23cd498293b35a155056.png); background-position: -60px -52px; background-repeat: no-repeat; " src="http://www-cdn.jtvnw.net/images/0px.gif"><span>中文 繁體</span></a></li>
+<li><a href="http://ja.www.twitch.tv" class="language" onclick="change_language('en', 'ja');return false"><img id="flag_ja" style="height: 13px; width: 20px; background: url(http://www-cdn.jtvnw.net/images/combined/combined-main.r19e32b6eabf4819316cf23cd498293b35a155056.png); background-position: -100px -13px; background-repeat: no-repeat; " src="http://www-cdn.jtvnw.net/images/0px.gif"><span>日本語</span></a></li>
+<li><a href="http://ko.www.twitch.tv" class="language" onclick="change_language('en', 'ko');return false"><img id="flag_ko" style="height: 13px; width: 20px; background: url(http://www-cdn.jtvnw.net/images/combined/combined-main.r19e32b6eabf4819316cf23cd498293b35a155056.png); background-position: -0px -26px; background-repeat: no-repeat; " src="http://www-cdn.jtvnw.net/images/0px.gif"><span>한국어, 조선말</span></a></li>
+</ul>
+</div>
+</div>
 </div>
 
 <div class="dropmenu menu-like" id="self_actions" style="display: none">
@@ -552,6 +725,21 @@ Justin.tv Inc.
 <a href="/user/logout" class="dropmenu_action g18_close-FFFFFF80" id="self_logout">Log Out</a>
 </div>
 </div>
+
+<script>
+  //<![CDATA[
+    if (!jQuery.browser.msie) {
+      jQuery.ajax({
+        url: "//cdn.firebase.com/v0/firebase.js",
+        dataType: "script",
+        cache: true,
+        success: function() {
+          jQuery(window).trigger('firebase:loaded')
+        }
+      });
+    }
+  //]]>
+</script>
 
 
 
