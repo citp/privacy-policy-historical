@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frameweb.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126084819id_/http%3A//www.frameweb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frameweb.com privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522102913id_/http%3A//www.frameweb.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Frameweb
 
