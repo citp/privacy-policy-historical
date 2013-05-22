@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myitchytravelfeet.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222124805id_/http%3A//myitchytravelfeet.com/editorial/privacy-policy-and-terms-of-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myitchytravelfeet.com privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522152221id_/http%3A//myitchytravelfeet.com/editorial/privacy-policy-and-terms-of-use) for the most accurate reproduction.*
 
 # Privacy Policy and Terms of Use
 
