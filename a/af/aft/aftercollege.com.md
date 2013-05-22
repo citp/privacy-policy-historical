@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aftercollege.com privacy policy that was archived on 2012-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121025001244id_/http%3A//www.aftercollege.com/content/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aftercollege.com privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522185323id_/https%3A//www.aftercollege.com/content/privacy_policy) for the most accurate reproduction.*
 
 # AfterCollege > Privacy Policy
 
@@ -28,7 +28,6 @@ Your resume and/or profile becomes property of AfterCollege, Inc. once posted on
 
 Be aware that when applying to a specific job or opportunity, you authorize AfterCollege to release your contact information to the employer who posted the opportunity.
 
-  
 **Discussion Forums**
 
 AfterCollege may use discussion forums, blogs or other similar platforms to provide a more interactive experience to its users. Some of these tools may require you to register in order to use them. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal data. In almost all instances, we give you the option of maintaining your name and email private.
@@ -48,3 +47,16 @@ AfterCollege is not intended for children under 13, and we do not knowingly coll
 Children aged 13 or older should not submit any personally indentifiable information without the permission of their parents or guardians. By using AfterCollege, you are representing that you are at least 18, or that you are at least 13 years old and have your parents’ permission to use our website, services or tools.
 
 AfterCollege is committed to helping you find a job, and to preserving your privacy in the process.
+
+  
+**Company Information**
+
+Phone: 415-263-1300 (8 AM to 5 PM PST)  
+Toll-Free: 877-725-7721 (8 AM to 5 PM PST)  
+Fax: 415-263-1307  
+Email: info@aftercollege.com
+
+Mailing Address:  
+AfterCollege, Inc.  
+98 Battery Street, Suite 502  
+San Francisco, CA 94111
