@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boats.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017024409id_/http%3A//www.boats.com/common/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boats.com privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522050817id_/http%3A//www.boats.com/common/privacy.jsp) for the most accurate reproduction.*
 
 # Boats.com - Privacy
 
@@ -69,6 +69,6 @@ While we use SSL encryption to protect sensitive information online, we also do 
 
 **Notification of Changes:** It is the Site Visitors responsibility to follow our privacy link, so Site Visitors are always aware of our current practices. There will always be a link to our privacy statement on our home page so that Site Visitors are always aware of our current information collection, maintenance and disclosure practices. Each update is noted with the last updated date. If our privacy practices change in way that would allow us to use non-public personal information in a manner not previously allowed by the terms of our privacy statement, Site Visitors will have an opportunity to choose whether to let us use their non-public personal information in the newly proposed manner.
 
-© Copyright 2012 Dominion Enterprises. All rights reserved.
+© Copyright 2013 Dominion Enterprises. All rights reserved.
 
 Revised April 2012
