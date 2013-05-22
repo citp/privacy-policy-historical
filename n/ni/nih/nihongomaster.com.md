@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nihongomaster.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106232248id_/http%3A//nihongomaster.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nihongomaster.com privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522074033id_/http%3A//nihongomaster.com/company/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Nihongo Master, Learn Japanese Online
 
@@ -39,7 +39,7 @@ We adopt appropriate data collection, storage and processing practices and secur
 
 ### Sharing your personal information
 
-We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission. 
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above. We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission. 
 
 ### Changes to this privacy policy
 
