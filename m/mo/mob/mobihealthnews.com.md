@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobihealthnews.com privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121193035id_/http%3A//mobihealthnews.com/%3Fpage_id%3D19) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobihealthnews.com privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522145342id_/http%3A//mobihealthnews.com/%3Fpage_id%3D19) for the most accurate reproduction.*
 
 # Chester Street Publishing, Inc. – Privacy Policy | mobihealthnews
 
