@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nicemix.com privacy policy that was archived on 2012-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121202074057id_/http%3A//www.nicemix.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nicemix.com privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522091834id_/http%3A//www.nicemix.com/privacy) for the most accurate reproduction.*
 
 # Privacy - NiceMix Tube - Watch Most Popular and Fresh Videos Clips & Music Videos Online.
 
