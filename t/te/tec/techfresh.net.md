@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techfresh.net privacy policy that was archived on 2012-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120924025510id_/http%3A//www.techfresh.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techfresh.net privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522204628id_/http%3A//www.techfresh.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
