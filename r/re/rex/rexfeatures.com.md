@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rexfeatures.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228000953id_/http%3A//www.rexfeatures.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rexfeatures.com privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522090926id_/http%3A//www.rexfeatures.com/privacy.html) for the most accurate reproduction.*
 
 # Rex Features - Photographic press agency and picture library
 
@@ -6,7 +6,7 @@ REX FEATURES complies with and is registered under the data protection laws in t
 
 When someone visits our sites we collect standard internet log information and details of visitor behaviour patterns. We do this to find out things such as the number of visitors to the various parts of the site. We collect this information in a way which does not identify anyone unless you log in to the site in which case we record which requests are made by which user. We use this information to resolve problems and to improve the website. This information is not used for marketing purposes, is never passed outside the company and is deleted after a reasonable period of time.
 
-All material copyright Rex Features Ltd 2007 - 2012, please contact us if you require more information.
+All material copyright Rex Features Ltd 2007 - 2013, please contact us if you require more information.
 
 Rex Features employs cookies to provide users with tailored information. Cookies are small text files that are placed on your computer by websites that you visit. They are widely used in order to make websites work, or work more efficiently, as well as to provide information to the owners of the site.
 
