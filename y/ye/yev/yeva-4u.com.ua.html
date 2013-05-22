@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the yeva-4u.com.ua privacy policy that was archived on 2012-11-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121122013453id_/http%3A//yeva-4u.com.ua/index.php%3Fshow%3Dcontent%26data%3Dppolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the yeva-4u.com.ua privacy policy that was archived on 2013-05-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130522205401id_/http%3A//yeva-4u.com.ua/index.php%3Fshow%3Dcontent%26data%3Dppolicy) for the most accurate reproduction.-->
 
 <html><head>
 <title>Russian women are waiting for you</title>
@@ -11,6 +11,17 @@
 .chatbut2 {   background-color: #22AA07; border-color: black; border-width: 1px;font-family: Arial; font-size: 8pt; color: white}
 .chatbut3 {   background-color: #AA2207; border-color: black; border-width: 1px;font-family: Arial; font-size: 8pt; color: white}
 
+
+body {
+/*
+background-image: url('/images/valentinka_for_eva.png');
+background-position: bottom right;
+background-position-x: right;
+background-repeat: no-repeat;
+background-position-y: bottom;
+background-attachment: fixed;
+ */
+}
 table.reklama_edit_popup {
   display: none;
 	position: absolute;
@@ -21,7 +32,8 @@ table.reklama_edit_popup {
 }
 
 table.banner_edit_popup {
-  /*display: none;*/
+  
+  display: ;
 	position: absolute;
 	top: 25px;
 	left: 0;
@@ -31,7 +43,7 @@ table.banner_edit_popup {
 
 
 table.email_edit_popup {
-  /*display: none;*/
+  display: ;
 	position: absolute;
 	top: 25px;
 	left: 375px;
@@ -41,7 +53,7 @@ table.email_edit_popup {
 
 
 table.chat_edit_popup {
-  /*display: none;*/
+  display: ;
 	position: absolute;
 	top: 25px;
 	/*right: 0;*/
@@ -51,7 +63,7 @@ table.chat_edit_popup {
 }
 
 table.vchat_edit_popup {
-  /*display: none;*/
+  display: ;
 	position: absolute;
 	top: 25px;
 	right: 0;
@@ -60,7 +72,7 @@ table.vchat_edit_popup {
 }
 
 table.erochat_edit_popup {
-  /*display: none;*/
+  display: ;
 	position: absolute;
 	top: 300px;
 	left: 0;
@@ -69,7 +81,7 @@ table.erochat_edit_popup {
 }
 
 table.phonecall_edit_popup {
-  /*display: none;*/
+  display: ;
 	position: absolute;
 	top: 275px;
 	right: 0;
@@ -189,10 +201,14 @@ div#quest2 a {
 <script type="text/javascript" src="http://yandex.st/jquery-ui/1.9.0/jquery-ui.min.js"></script>
 <link rel="stylesheet" type="text/css" href="http://yandex.st/jquery-ui/1.9.0/themes/base/jquery-ui.min.css">
 
-<script type="text/javascript" src="js/jquery.Jcrop.js"></script>
-<script type="text/javascript" src="js/swfobject.js"></script>
-<script type="text/javascript" src="js/tabs.js"></script>
-<script type="text/javascript" src="js/jquery.timers.js"></script>
+<script type="text/javascript" src="/js/jquery.Jcrop.js"></script>
+<script type="text/javascript" src="/js/swfobject.js"></script>
+<script type="text/javascript" src="/js/tabs.js"></script>
+<script type="text/javascript" src="/js/jquery.timers.js"></script>
+
+<script type="text/javascript" src="/js/jquery.cycle.all.js"></script>
+
+<script type="text/javascript" src="/js/functions.js"></script>
 
 
 <link rel="stylesheet" type="text/css" href="/admin/fancybox/jquery.fancybox-1.3.4.css" media="screen"> 
@@ -209,25 +225,33 @@ function peterburg_tour_ch(){
 // Special party in Saint-petersburg (Russia)<br>  get invitation here
 peter_t1 = 'Special party in Saint-petersburg (Russia)<br>  get invitation here';
 peter_t2 = 'urgent message for you,  (administrator Yeva4u)';
-peter_tn = $('div#invite_stpeterburg p').html();
-if(peter_tn == peter_t1){
+if($('div#invite_stpeterburg p')){
+ peter_tn = $('div#invite_stpeterburg p').html();
+ if(peter_tn == peter_t1){
   $('div#invite_stpeterburg p').html(peter_t2);
-} else {
+ } else {
   $('div#invite_stpeterburg p').html(peter_t1);
+ }
 }
 //console.log(peter_tn);
  setTimeout(peterburg_tour_ch,25000);
 }
 function bannerwinclose(){
+  if($('#invite_banner')){ 
    $('#invite_banner').hide('slow');
+  } 
 }
 
 function chatwinclose(){
+  if($('#invite_chat')){
    $('#invite_chat').hide('slow');
+  } 
 }
 
 function vchatwinclose(){
+  if($('#invite_vchat')){ 
    $('#invite_vchat').hide('slow');
+  } 
    //document.write("<img src='' width='100' height='100' src='./actions/declinevchat.php'>");
 }
 
@@ -292,44 +316,53 @@ function phonecallwinclose(){
   
   function rotate_phonecall(){
    var user = '';
-   
-   $("#invite_phonecall").hide('slow');
-   $("#invite_phonecall").load("actions/userphonecall2.php?id=" + user);
-   $("#invite_phonecall").show('slow');
+   if($("#invite_phonecall")){
+    $("#invite_phonecall").hide('slow');
+    $("#invite_phonecall").load("actions/userphonecall2.php?id=" + user);
+    $("#invite_phonecall").show('slow');
+   } 
   }
   
   function rotate_chat(){
    var user = '';
    
-   $("#invite_chat").hide('slow');
-   $("#invite_chat").load("actions/userchat.php?id=" + user);
-   $("#invite_chat").show('slow');
+   if($("#invite_chat")){
+    $("#invite_chat").hide('slow');
+    $("#invite_chat").load("actions/userchat.php?id=" + user);
+    $("#invite_chat").show('slow');
+   } 
   }
   
   function rotate_vchat(){
    var user = '';
    
-   $("#invite_vchat").hide('slow');
-   $("#invite_vchat").load("actions/uservchat.php?id=" + user);
-   $("#invite_vchat").show('slow');
+   if($("#invite_vchat")){
+    $("#invite_vchat").hide('slow');
+    $("#invite_vchat").load("actions/uservchat.php?id=" + user);
+    $("#invite_vchat").show('slow');
+   } 
   }
   
   function rotate_erochat(){
    var user = '';
    
-   $("#invite_erochat").hide('slow');
-   $("#invite_erochat").load("actions/usererochat.php?id=" + user);
-   $("#invite_erochat").show('slow');
+   if($("#invite_erochat")){
+    $("#invite_erochat").hide('slow');
+    $("#invite_erochat").load("actions/usererochat.php?id=" + user);
+    $("#invite_erochat").show('slow');
+   } 
   }
   
   function rotate_email(){
    var user = '';
-   if(user == 15866556 || user == 14168012 || user==13457426 || user == 13088834 || user == 705534 || user == 14924705 || user == 13217415 || user == 709474 || user == 14117936 || user == 13286553 || user == 16515179 || user == 13004060){
+   if(user == 14117936 || user == 13286553 || user == 16515179 || user == 15891321 || user == 15866556 || user == 14168012 || user==13457426 || user == 13088834 || user == 705534 || user == 14924705 || user == 13217415 || user == 709474 || user == 14117936 || user == 13286553 || user == 16515179 || user == 13004060){
     return;
    }
-   $("#invite_email").hide('slow');
-   $("#invite_email").load("actions/useremail.php?id=" + user);
-   $("#invite_email").show('slow');
+   if($("#invite_email")){
+    $("#invite_email").hide('slow');
+    $("#invite_email").load("actions/useremail.php?id=" + user);
+    $("#invite_email").show('slow');
+   }
   }
   
 </script>
@@ -353,120 +386,7 @@ function phonecallwinclose(){
 
 <body bgcolor="#FFFFFF" leftmargin="0" topmargin="0">
 
-<style>b{color:darkblue;}</style>
-<script>    
-// CREDITS:
-// Snowmaker Copyright (c) 2003 Peter Gehrig. All rights reserved.
-// Modified (c) 2005, Igor Svetlov, Nickname: 12345c
-// Location: http://example.javascript.aho.ru/xmp002/falling-snow.htm
-// Distributed by http://www.softtime.ru/forum/; 
-// Permission given to use the script provided that this notice remains as is.
-var snowmax=25  // Set the number of snowflakes (more than 30 - 40 not recommended)
-var snowcolor=["#c4bbcc","#ccddFF","#ccd6DD"]
-    // Set the colors for the snow. Add as many colors as you like
-var snowtype=["Arial Black","Arial Narrow","Times","Comic Sans MS"]
-    // Set the fonts, that create the snowflakes. Add as many fonts as you like
-//var snowletter=["*","$","€","&#8356;","<img src=snow.gif>","<img src=snow21.gif>"];
-var snowletter=["*"];
-    // Set the letter that creates your snowflake (recommended:*)
-var sinkspeed=0.6   // Set the speed of sinking (recommended values range from 0.3 to 2)
-var snowmaxsize=45  // Set the maximal-size of your snowflaxes
-var snowminsize=18  // Set the minimal-size of your snowflaxes
-    var snowsizerange=snowmaxsize-snowminsize
-    // Set the snowing-zone
-    // Set 1 for all-over-snowing, set 2 for left-side-snowing 
-    // Set 3 for center-snowing, set 4 for right-side-snowing
-var snowingleft=0.7 //левая граница присутствия снега
-var snowingwidth=0.3    //ширина присутствия снега в окне
-var opac=0.35       //непрозрачность снега (0.0-1.0), при 1.0 в 2 раза быстрее работает.
-var stepTime=120    //шаг покадровой анимации (мсек). При менее 100 сильно нагружает процессор
-var snow=new Array()
-var marginbottom
-var marginright
-var timer
-var x_mv=new Array();   var crds=new Array();   var lftrght=new Array();
-var browserinfos=navigator.userAgent 
-d=document
-var isOpera=self.opera  
-var ie5=d.all&&d.getElementById&&!isOpera
-var ns6=d.getElementById&&!d.all
-var browserok=ie5||ns6||isOpera
 
-function randommaker(range){return Math.floor(range*Math.random())}
-
-function botRight()
-{
-    if(ie5||isOpera)
-    {
-      marginbottom=d.body.clientHeight;  
-      marginright=d.body.clientWidth;
-    }
-    else
-      if(ns6)
-      {
-        marginbottom=innerHeight; marginright=innerWidth;
-      }
-}
-
-function checkPgDn()
-{
- scrltop=ns6?pageYOffset:document.body.scrollTop;
-}
-
-function initsnow() 
-{
-  checkPgDn();if(ns6)setInterval("checkPgDn()",999);
-  botRight();
-  for (i=0;i<=snowmax;i++)
-  {
-    crds[i] = 0;                      
-    lftrght[i] = Math.random()*20;         
-    x_mv[i] = 0.03 + Math.random()/10;
-    snow[i]=d.getElementById("s"+i)
-    snow[i].style.fontFamily=snowtype[randommaker(snowtype.length)]
-    snow[i].style.fontSize=snow[i].size=randommaker(snowsizerange)+snowminsize
-    snow[i].style.color=snowcolor[randommaker(snowcolor.length)]
-    snow[i].sink=sinkspeed*snow[i].size/5
-    newPosSnow(randommaker(marginbottom-3*snow[i].size));
-  }
-  movesnow();
-}
-
-function newPosSnow(y)
-{
-  var o;
-  snow[i].posx=randommaker(marginright*snowingwidth-2*snow[i].size)+marginright*snowingleft
-  snow[i].posy=y+(ns6?pageYOffset:d.body.scrollTop);
-  snow[i].size=randommaker(snowsizerange)+snowminsize;
-  if(snow[i].hasChildNodes()&&(o=snow[i].childNodes[0]).tagName=='IMG') o.width=o.height=randommaker(snowsizerange/1.6)+snowminsize;
-}
-
-function movesnow() 
-{
-  for (i=0;i<=snowmax;i++) 
-  {
-    snow[i].style.top=snow[i].posy+=snow[i].sink+lftrght[i]*Math.sin(crds[i])/3;
-    crds[i] += x_mv[i];
-    snow[i].style.left=snow[i].posx+lftrght[i]*Math.sin(crds[i]);
-    if(snow[i].posy>=marginbottom-3*snow[i].size+scrltop || parseInt(snow[i].style.left)>(marginright-3*lftrght[i]))newPosSnow(0);
-  }
-  var timer=setTimeout("movesnow()",stepTime)
-}
-
-for (i=0;i<=snowmax;i++)
-{
-  d.write("<span id='s"+i+"' style='position:absolute;"+(opac<1?"-moz-opacity:"+opac+";filter:alpha(opacity="+(opac*100)+")":"")+";top:-"+snowmaxsize+"'>"
-    +snowletter[Math.floor(snowletter.length*Math.random())]+"</span>")
-}           //-moz-opacity:0.5;filter:alpha(opacity=50);
-
-onload=function()
-{
-  if(browserok)setTimeout("initsnow()",99);
-}
-
-onmousewheel = onscroll = function(){checkPgDn()}
-onresize = function(){botRight();}
-</script><span id="s0" style="position: absolute; top: 150.897px; font-family: Times; font-size: 19px; color: rgb(204, 221, 255); left: 1185.43px;">*</span><span id="s1" style="position: absolute; top: 465.751px; font-family: &quot;Arial Black&quot;; font-size: 19px; color: rgb(196, 187, 204); left: 1154.2px;">*</span><span id="s2" style="position: absolute; top: 124.937px; font-family: &quot;Arial Narrow&quot;; font-size: 31px; color: rgb(204, 214, 221); left: 1081.68px;">*</span><span id="s3" style="position: absolute; top: 76.1076px; font-family: Times; font-size: 31px; color: rgb(204, 221, 255); left: 980.438px;">*</span><span id="s4" style="position: absolute; top: 558.346px; font-family: Times; font-size: 44px; color: rgb(204, 221, 255); left: 999.106px;">*</span><span id="s5" style="position: absolute; top: 576.849px; font-family: Times; font-size: 23px; color: rgb(204, 214, 221); left: 1086.95px;">*</span><span id="s6" style="position: absolute; top: 174.594px; font-family: &quot;Arial Black&quot;; font-size: 40px; color: rgb(204, 214, 221); left: 1100.47px;">*</span><span id="s7" style="position: absolute; top: 15.2425px; font-family: &quot;Arial Black&quot;; font-size: 21px; color: rgb(204, 214, 221); left: 1114.15px;">*</span><span id="s8" style="position: absolute; top: 208.513px; font-family: &quot;Arial Narrow&quot;; font-size: 44px; color: rgb(204, 221, 255); left: 1123.62px;">*</span><span id="s9" style="position: absolute; top: 656.282px; font-family: Times; font-size: 29px; color: rgb(196, 187, 204); left: 1148.51px;">*</span><span id="s10" style="position: absolute; top: 165.681px; font-family: Times; font-size: 29px; color: rgb(204, 221, 255); left: 1178.07px;">*</span><span id="s11" style="position: absolute; top: 607.893px; font-family: &quot;Comic Sans MS&quot;; font-size: 44px; color: rgb(204, 221, 255); left: 1066.93px;">*</span><span id="s12" style="position: absolute; top: 304.625px; font-family: &quot;Arial Narrow&quot;; font-size: 42px; color: rgb(196, 187, 204); left: 1133.58px;">*</span><span id="s13" style="position: absolute; top: 536.575px; font-family: &quot;Arial Narrow&quot;; font-size: 39px; color: rgb(196, 187, 204); left: 1243.45px;">*</span><span id="s14" style="position: absolute; top: 627.193px; font-family: Times; font-size: 20px; color: rgb(204, 214, 221); left: 1048.95px;">*</span><span id="s15" style="position: absolute; top: 563.158px; font-family: &quot;Arial Black&quot;; font-size: 25px; color: rgb(204, 221, 255); left: 994.429px;">*</span><span id="s16" style="position: absolute; top: 525.987px; font-family: Times; font-size: 35px; color: rgb(196, 187, 204); left: 1117.07px;">*</span><span id="s17" style="position: absolute; top: 149.554px; font-family: &quot;Arial Black&quot;; font-size: 30px; color: rgb(196, 187, 204); left: 1028.02px;">*</span><span id="s18" style="position: absolute; top: 456.913px; font-family: &quot;Arial Narrow&quot;; font-size: 26px; color: rgb(204, 214, 221); left: 1252.67px;">*</span><span id="s19" style="position: absolute; top: 43.6354px; font-family: &quot;Comic Sans MS&quot;; font-size: 39px; color: rgb(204, 221, 255); left: 1259.5px;">*</span><span id="s20" style="position: absolute; top: 494.439px; font-family: &quot;Arial Black&quot;; font-size: 24px; color: rgb(204, 221, 255); left: 1120.95px;">*</span><span id="s21" style="position: absolute; top: 543.323px; font-family: &quot;Arial Black&quot;; font-size: 28px; color: rgb(204, 221, 255); left: 1014.86px;">*</span><span id="s22" style="position: absolute; top: 285.396px; font-family: &quot;Comic Sans MS&quot;; font-size: 31px; color: rgb(204, 214, 221); left: 966.874px;">*</span><span id="s23" style="position: absolute; top: 177.109px; font-family: Times; font-size: 19px; color: rgb(204, 221, 255); left: 1318.56px;">*</span><span id="s24" style="position: absolute; top: 72.3265px; font-family: &quot;Arial Narrow&quot;; font-size: 31px; color: rgb(204, 214, 221); left: 1082.7px;">*</span><span id="s25" style="position: absolute; top: 141.464px; font-family: &quot;Arial Narrow&quot;; font-size: 19px; color: rgb(196, 187, 204); left: 1269.4px;">*</span>
 
 
 <table cellspacing="0" cellpadding="0" width="100%" border="0" height="29">
@@ -579,7 +499,7 @@ dating-advise us, and you get free credits to your account.
 </p><form name="send_email" method="post" action="index.php?show=content"> 
 <br>Name: <input type="text" name="bonus_name">
 <br>Email: <input type="text" name="bonus_email">
-<br><img src="image/uniqimage.php?n=4978227" alt=""><input type="hidden" value="4978227" name="uniculcode"><input type="text" name="itscode"><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="submit" value="Send" name="email_bonus"></form>
+<br><img src="image/uniqimage.php?n=13316353" alt=""><input type="hidden" value="13316353" name="uniculcode"><input type="text" name="itscode"><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="submit" value="Send" name="email_bonus"></form>
 <p>administrator Lia
 </p></div>
 </div>
@@ -856,11 +776,18 @@ function hide_dopinfo(){
 
 <script type="text/javascript">
 $(document).ready(function(){
+ if($(".lightbox")){
  $(".lightbox").fancybox({
        //overlayShow: false
        cyclic: false,
        scrolling: 'no'
     });
+   $('.slideshow').cycle({
+    fx: 'fade',
+    speed: 2500,
+    timeout: 5500
+   });  
+ }  
 });
 </script><table border="0" cellspacing="0" cellpadding="0" width="600" align="center">
 <tbody><tr>
@@ -973,7 +900,7 @@ screen.colorDepth:screen.pixelDepth)</script>
 document.write("<a href='http://click.hotlog.ru/?435005' target='_top'><img "+
 " src='http://hit23.hotlog.ru/cgi-bin/hotlog/count?"+
 hotlog_r+"&' border=0 width=88 height=31 alt=HotLog><\/a>")
-</script><a href="http://click.hotlog.ru/?435005" target="_top"><img src="http://hit23.hotlog.ru/cgi-bin/hotlog/count?0.30506784891202043&amp;s=435005&amp;im=115&amp;r=&amp;pg=https%3A//web.archive.org/web/20121122013453id_/http%253A//yeva-4u.com.ua/index.php%253Fshow%253Dcontent%2526data%253Dppolicy&amp;c=Y&amp;j=N&amp;wh=800x600&amp;px=24&amp;js=1.3&amp;" border="0" width="88" height="31" alt="HotLog"></a>
+</script><a href="http://click.hotlog.ru/?435005" target="_top"><img src="http://hit23.hotlog.ru/cgi-bin/hotlog/count?0.6288934528173367&amp;s=435005&amp;im=115&amp;r=&amp;pg=https%3A//web.archive.org/web/20130522205401id_/http%253A//yeva-4u.com.ua/index.php%253Fshow%253Dcontent%2526data%253Dppolicy&amp;c=Y&amp;j=N&amp;wh=800x600&amp;px=24&amp;js=1.3&amp;" border="0" width="88" height="31" alt="HotLog"></a>
 <noscript>
 <a href="http://click.hotlog.ru/?435005" target="_top">
 <img src="http://hit23.hotlog.ru/cgi-bin/hotlog/count?s=435005&amp;im=115" border="0"
@@ -988,4 +915,4 @@ hotlog_r+"&' border=0 width=88 height=31 alt=HotLog><\/a>")
 </div>
 
 
-<div align="center"><font size="-1">Time: 0.014 sec.</font></div><!----></body></html>
+<div align="center"><font size="-1">Time: 0.032 sec.</font></div><!----></body></html>
