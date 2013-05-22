@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xactware.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122013526id_/http%3A//www.xactware.com/en-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xactware.com privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522040610id_/http%3A//www.xactware.com/en-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Xactware
 
