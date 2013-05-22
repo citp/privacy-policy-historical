@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bassmasta.net privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015081550id_/http%3A//www.songsterr.com/a/wa/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bassmasta.net privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523001719id_/http%3A//www.songsterr.com/a/wa/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Songsterr Guitar Tabs and Chords
+# Privacy Policy | Songsterr Tabs with Rhythm
 
 Songsterr.com is an online educational and entertainment community that allows users to watch and learn how to play guitar tabs from worldwide music artists. Users can create their own accounts.
 
