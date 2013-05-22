@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cash-twist.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503213406id_/http%3A//www.cash-twist.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cash-twist.com privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522104114id_/http%3A//www.cash-twist.com/privacy) for the most accurate reproduction.*
 
 # Cash Twist - Privacy Policy
 
@@ -14,7 +14,7 @@
 > 
 > Your contact email address is made available to fellow members of Cash Twist who are recruited by you and those who they recruit. It is also available to those who recruited you and their recruiters.
 > 
-> Your Alertpay email address is made available to fellow members of Cash Twist who purchase products from you as an Affiliate of Cash Twist
+> Your Payza email address is made available to fellow members of Cash Twist who purchase products from you as an Affiliate of Cash Twist
 
 > **Your Collected Information Is Protected**  
 >  Any personal information that is collected online through our website is always kept private. At no time will your personal information ever be shared, sold or viewed by a third party at anytime. We value your privacy and have taken measures to assure that your information remains private.
@@ -26,7 +26,7 @@
 >  If a member has a question regarding our privacy policy or wants further information about our privacy policy, they may contact us via "help" for an immediate response. Please indicate in the subject line if it is a question or concern and describe it completely in the text body of the email.
 
 > **How We Protect Your Information Online**  
->  When and individual fills out a form on or website or participates in our program, their personal information which is collected is stored directly to the servers database. All databases are secured and password protected assuring your information remains secure. When placing an order on our website with payment, all orders are process through SSL secured web pages through Alertpay payment gateway.
+>  When and individual fills out a form on or website or participates in our program, their personal information which is collected is stored directly to the servers database. All databases are secured and password protected assuring your information remains secure. When placing an order on our website with payment, all orders are process through SSL secured web pages through Payza payment gateway.
 
 > **Changes Made To Our Privacy Policy**  
 >  From time to time, we make changes to our privacy policy. All changes to our privacy policy will be posted here, and it is the consumer's responsibility to frequently check our privacy policy for such changes.
