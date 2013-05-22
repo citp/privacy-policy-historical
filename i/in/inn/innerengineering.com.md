@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the innerengineering.com privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105140111id_/http%3A//www.innerengineering.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the innerengineering.com privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522132231id_/http%3A//www.innerengineering.com/policy.php) for the most accurate reproduction.*
 
 # Isha Inner Engineering Online
 
@@ -20,7 +20,7 @@ McMinnville, TN 37110 USA
 
 Email us at **info@ishafoundation.org** This e-mail address is being protected from spambots. You need JavaScript enabled to view it .
 
-Telephone us at 866-424-ISHA, or at the numbers provided on our **[Contact Us](https://web.archive.org/web/20121105140111id_/http%3A//www.innerengineering.com/contact.html)** page.
+Telephone us at 866-424-ISHA, or at the numbers provided on our **[Contact Us](https://web.archive.org/web/20130522132231id_/http%3A//www.innerengineering.com/contact.html)** page.
 
 ## Copyright Information
 
