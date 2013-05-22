@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ghetosearch.com privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105213745id_/http%3A//www.fybersearch.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ghetosearch.com privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522020043id_/http%3A//www.fybersearch.com/privacy-policy.php) for the most accurate reproduction.*
 
-# FyberSearch - Privacy Policy
+# FyberSearch Assist - Privacy Policy
 
-|     |     |    
+|       |    
 This website, all sub-domains/pages of any website owned by FyberSearch and all contents of all web pages owned by FyberSearch will be referred to as "FyberSearch" in the remainder of this privacy policy. 
 
 Information that FyberSearch Collects 
@@ -31,11 +31,12 @@ FyberSearch may use the above information in the following ways:
 * When you use your email address to sign up for one of our services/tools you should receive email from us. Unless you sign up for our newsletter or member's account you should not receive more than a few emails pertaining to the service you signed up for. All of the emails we send should relate to the service you requested. We do not send unsolicited bulk email to our users and we do not buy mailing lists. 
 * The following is an example of why we may send you a few emails when using one of our services. Depending on various circumstances this exact scenario may be different for you.   
 Example: You sign up for one of our services and receive an email after completing the first form and after completing your payment. You then receive an email confirming that we performed the requested service and possibly receive a follow up email asking you how you liked our service.
-* If you sign up to receive the FyberSearch newsletter you should only receive periodic copies of the newsletter. This newsletter is primarily non-commercial and serves as a way for FyberSearch to communicate to interested parties about the developments we are making. If you have unsubscribed but still received another copy of the newsletter it was not intentional on our part. You should immediately [tell us](https://web.archive.org/web/20121105213745id_/http%3A//www.fybersearch.com/contact.php) about the problem so we can look into it and immediately correct the problem.
+* If you sign up to receive the FyberSearch newsletter you should only receive periodic copies of the newsletter. This newsletter is primarily non-commercial and serves as a way for FyberSearch to communicate to interested parties about the developments we are making. If you have unsubscribed but still received another copy of the newsletter it was not intentional on our part. You should immediately [tell us](https://web.archive.org/web/20130522020038id_/http://www.fybersearch.com/assist/contact.php) about the problem so we can look into it and immediately correct the problem.
 * If you have a member's account you may receive periodic emails relating to your account and any updates that we make.
   
 
-* This privacy policy is a part of our [terms of service](https://web.archive.org/web/20121105213745id_/http%3A//www.fybersearch.com/terms-of-service.php).
+* This privacy policy is a part of our [terms of service](https://web.archive.org/web/20130522020038id_/http://www.fybersearch.com/assist/terms-of-service.php).
   
 
-* Please [contact](https://web.archive.org/web/20121105213745id_/http%3A//www.fybersearch.com/contact.php) FyberSearch if you have any questions or comments regarding this privacy policy.
+* Please [contact](https://web.archive.org/web/20130522020038id_/http://www.fybersearch.com/assist/contact.php) FyberSearch if you have any questions or comments regarding this privacy policy.
+|       | 
