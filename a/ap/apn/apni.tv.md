@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apni.tv privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102164245id_/http%3A//apni.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apni.tv privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522105409id_/http%3A//apni.tv/privacy) for the most accurate reproduction.*
 
 # Apni TV - Privacy Policy
 
@@ -8,7 +8,7 @@
 
 ### Introduction
 
-The site editor takes your right to privacy seriously, and wants you to feel comfortable using this web site. This privacy policy deals with personally-identifiable information (referred to as "data" below) that may be collected by this site. This policy does not apply to other entities that are not owned or controlled by the site editor, nor does it apply to persons that are not employees or agents of the site editor, or that are not under the site editor's control. Please take time to read this site's [Terms of Service](https://web.archive.org/web/20121102164245id_/http%3A//apni.tv/terms).
+The site editor takes your right to privacy seriously, and wants you to feel comfortable using this web site. This privacy policy deals with personally-identifiable information (referred to as "data" below) that may be collected by this site. This policy does not apply to other entities that are not owned or controlled by the site editor, nor does it apply to persons that are not employees or agents of the site editor, or that are not under the site editor's control. Please take time to read this site's [Terms of Service](https://web.archive.org/web/20130522105409id_/http%3A//apni.tv/terms).
 
 ### 1\. Collection of data
 
@@ -28,7 +28,7 @@ We allow third-party companies to serve ads and/or collect certain anonymous inf
 
 ### 5\. Editing or deleting your account information
 
-You are provided with the ability to edit the information stored for your user account information during registration, by visiting your user account control panel. You can request that your user account be deleted; to do so, please contact the site administrator . Content or other data that you may have provided, and that is not stored within your user account, such as articles published, may continue to remain on the site at the site editor's discretion, even after your user account is deleted. Please see the site's [Terms of use](https://web.archive.org/web/20121102164245id_/http%3A//apni.tv/terms) for more information.
+You are provided with the ability to edit the information stored for your user account information during registration, by visiting your user account control panel. You can request that your user account be deleted; to do so, please contact the site administrator . Content or other data that you may have provided, and that is not stored within your user account, such as articles published, may continue to remain on the site at the site editor's discretion, even after your user account is deleted. Please see the site's [Terms of use](https://web.archive.org/web/20130522105409id_/http%3A//apni.tv/terms) for more information.
 
 ### 6\. Changes to this privacy policy
 
