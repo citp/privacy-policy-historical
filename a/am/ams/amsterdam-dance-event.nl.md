@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the amsterdam-dance-event.nl privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120140452id_/http%3A//www.amsterdam-dance-event.nl/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amsterdam-dance-event.nl privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522153548id_/http%3A//www.amsterdam-dance-event.nl/privacy) for the most accurate reproduction.*
 
-# Privacy - Amsterdam Dance Event 2012
+# Privacy - Amsterdam Dance Event 2013
 
 The Amsterdam Dance Event is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. The Amsterdam Dance Event Foundation may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes.
 
