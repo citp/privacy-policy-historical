@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the egirlgames.net privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028213759id_/http%3A//www.egirlgames.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the egirlgames.net privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522204303id_/http%3A//www.egirlgames.net/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | EnjoyDressUp.com
+# Privacy Policy | eGirlGames.net
 
 **www.eGirlGames.net** is committed to providing a safe and fun website for children of all ages. The privacy policy is intended to let you know how **www.eGirlGames.net** protects your personal information. By accessing **www.eGirlGames.net** , you acknowledge and fully understand **www.eGirlGames.net** Privacy Policy and freely consent to the information collection and use practices described in this Privacy Policy.
 
