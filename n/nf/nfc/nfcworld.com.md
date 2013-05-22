@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nfcworld.com privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121213102id_/http%3A//www.nfcworld.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nfcworld.com privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522150416id_/http%3A//www.nfcworld.com/privacy) for the most accurate reproduction.*
 
 # Privacy • NFC World
 
@@ -10,7 +10,7 @@ Under the UK's Data Protection Act we have a legal duty to protect any informati
 
 ### Feedback and queries
 
-You can send us your feedback by email to [info@sjb.co.uk](mailto:info@sjb.co.uk) or simply use our [online feedback form](http://www.nfcworld.com/feedback/). If you give us contact details so that we can respond to your query then they will only be used for that purpose.
+You can send us your feedback by email to [info@sjb.co.uk](mailto:info@sjb.co.uk) or simply use our [online feedback form](https://web.archive.org/feedback/).
 
 ### Site usage information
 
@@ -42,7 +42,7 @@ We use a specialist third-party service provider to administer our mailing lists
 
 #### For what purpose do we intend to use your personal information?
 
-We will only use your personal information to send you updates from the mailing lists that you have joined. Your address will not be added to any other lists or shared with third parties (other than our contracted mailing list service provider solely for the purpose of administering the list).
+We will use your personal information to send you updates from the mailing lists that you have joined. The information you provide may be used by SJB Research to communicate with you. We may add your personal information to other internal databases if you go on to interact with us in other ways, for example by downloading a white paper, applying for a trial subscription or becoming a customer. Your email address will not be shared with third parties (other than our contracted mailing list service provider solely for the purpose of administering the list).
 
 ### White papers and other downloads
 
