@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ardhindie.com privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101173837id_/http%3A//www.ardhindie.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ardhindie.com privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522140142id_/http%3A//www.ardhindie.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Watch Movies Online
+# Privacy Policy | Watch TV Shows - Movies Online
 
 Ardhi Indie’s Blog Privacy Statement
 
