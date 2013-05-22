@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homehardware.ca privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919100037id_/http%3A//www.homehardware.ca/en/index/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homehardware.ca privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522190925id_/http%3A//homehardware.ca/en/index/privacy.htm) for the most accurate reproduction.*
 
 # Home Hardware - Privacy
 
