@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the yakima.com privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121133842id_/http%3A//yakima.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yakima.com privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522045740id_/http%3A//yakima.com/privacy-notice) for the most accurate reproduction.*
 
 # Yakima Racks & Carriers › Home › Privacy Notice
 
 ## COPYRIGHT AND TRADEMARK
 
-© 2012 Yakima Products Inc. All rights reserved.
+© 2013 Yakima Products Inc. All rights reserved.
 
 Yakima, Mighty Mounts, SKS, and Rack Dawg are registered trademarks of Yakima Products, Inc.
 
