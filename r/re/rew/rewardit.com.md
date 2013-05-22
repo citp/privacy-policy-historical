@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rewardit.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227015305id_/http%3A//rewardit.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rewardit.com privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522184032id_/http%3A//rewardit.com/privacy.shtml) for the most accurate reproduction.*
 
 # RewardIt Promo
 
