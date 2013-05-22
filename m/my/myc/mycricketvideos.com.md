@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mycricketvideos.com privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115234934id_/http%3A//www.mycricketvideos.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycricketvideos.com privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522040850id_/http%3A//www.mycricketvideos.com/privacy-policy-2) for the most accurate reproduction.*
 
-# Privacy Policy | Cricket Highlights | Cricket Highlights | MyCricketVideos
+# Privacy Policy
 
 Keeping in mind the importance of privacy of personal information of visitors to this site, the following details the kinds of information that is collected as part of the process of serving Advertisements on this site, and how this information is safeguarded. By visiting MyCricketVideos, you are accepting the practices outlined in this Privacy Policy. This Privacy Policy coversMyCricketVideos’s treatment of personal information that MyCricketVideos gathers when you are on the MyCricketVideos website and when you use MyCricketVideos services. This policy does not apply to the practices of third parties that MyCricketVideos does not own or control, or to individuals that MyCricketVideos does not employ or manage.
 
