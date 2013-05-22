@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2degreesmobile.co.nz privacy policy that was archived on 2012-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121220135809id_/http%3A//www.2degreesmobile.co.nz/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2degreesmobile.co.nz privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522154900id_/http%3A//www.2degreesmobile.co.nz/privacy) for the most accurate reproduction.*
 
 # 2degrees - Privacy
 
@@ -39,8 +39,11 @@ We hold and use the information we collect for a number of purposes, including:
 
 
 
-You agree that we and our agents may send you marketing messages, electronic or otherwise, about (amongst other things) our rewards, special offers, competitions and other promotions, and those of our agents or third parties which we consider may be of interest to you.  You may unsubscribe from receiving marketing messages from us and our agents at any time through Your 2degrees.  
- 
+You agree that we and our agents may send you marketing messages, electronic or otherwise, about (amongst other things) our rewards, special offers, competitions and other promotions, and those of our agents or third parties which we consider may be of interest to you.  You may unsubscribe from receiving marketing messages from us and our agents at any time through Your 2degrees.
+
+### Protecting yourself online
+
+It's important to protect your identity when online and when using your data capable mobile phone. We have all the [information](https://web.archive.org/help/protect-your-id) you need including hints and tips to keep your privacy safe.
 
 ### Disclosure
 
