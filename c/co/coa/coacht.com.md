@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the coacht.com privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121224646id_/http%3A//coacht.com/tennessee/article.cfm%3Fid%3D36) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coacht.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523013046id_/http%3A//www.coacht.com/tennessee/article.cfm%3Fid%3D36) for the most accurate reproduction.*
 
-# Tennessee High School Sports
+# Privacy Statement for coacht.com :: Tennessee High School Sports
 
 **CoachT.com** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for our website.
 
