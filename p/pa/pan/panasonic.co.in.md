@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the panasonic.co.in privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120071309id_/http%3A//www.panasonic.co.in/wps/portal/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panasonic.co.in privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522035910id_/http%3A//www.panasonic.co.in/wps/portal/home/privacy) for the most accurate reproduction.*
 
 # Privacy | Panasonic India
 
