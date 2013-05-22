@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hockeystreams.com privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127102936id_/http%3A//www4.hockeystreams.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hockeystreams.com privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522224545id_/http%3A//www6.hockeystreams.com/privacy_policy) for the most accurate reproduction.*
 
 # Hockey Streams - Privacy Policy
 
@@ -42,9 +42,7 @@ We may provide links to websites outside of our Website. These linked sites are 
 
 **How We Protect the Security of Your Financial Information**
 
-We do not store financially sensitive information on our website to ensure your safety. All financial informaton is handled via PayPal.com.
-
-Ultimately, your financial information is protected by the password you created when you created an account at HockeyStreams™ (or another password you chose after changing a previous password). Please keep this password confidential. No Customer Service Associate or any other representative of HockeyStreams™ will ever ask you for your password. The confidentiality of your password is yours to protect. You may change it anytime within the control panel. 
+All payment information is stored securely, in single-way encrypted form. Ultimately, your financial information is protected by the password you created when you created an account at HockeyStreams™ (or another password you chose after changing a previous password). Please keep this password confidential. No Customer Service Associate or any other representative of HockeyStreams™ will ever ask you for your password. The confidentiality of your password is yours to protect. You may change it anytime within the control panel. 
 
 **Changes to the Policy**
 
