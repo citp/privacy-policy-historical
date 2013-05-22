@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vizury.com privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119045509id_/http%3A//www.vizury.com/in/vizury-legal.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vizury.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523003926id_/http%3A//web.vizury.com/website/in/vizury-legal.php) for the most accurate reproduction.*
 
 # Vizury - Privacy Policy
 
