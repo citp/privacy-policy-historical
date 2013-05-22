@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportsbet.com.au privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205155346id_/http%3A//www.sportsbet.com.au/help/customer-security/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsbet.com.au privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522150507id_/http%3A//www.sportsbet.com.au/help/customer-security/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Help - sportsbet.com.au
 
