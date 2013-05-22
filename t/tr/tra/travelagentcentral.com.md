@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelagentcentral.com privacy policy that was archived on 2012-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120921235506id_/http%3A//www.travelagentcentral.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelagentcentral.com privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522223411id_/http%3A//www.travelagentcentral.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Travel Agent Central
 
@@ -88,6 +88,6 @@ If you have any questions regarding our privacy statement, please feel free to c
 Suite 2-130  
 Newton, MA 02464
 
-Copyright © 2008 Questex Media Group, LLC. Privacy Statement
+Copyright © 2012 Questex Media Group, LLC. Privacy Statement
 
-Revised and Posted As Of: February 5th, 2008
+Revised and Posted As Of: February 5th, 2012
