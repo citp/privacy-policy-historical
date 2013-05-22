@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anysend.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126062309id_/http%3A//www.anysend.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anysend.com privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522104328id_/http%3A//www.anysend.com/privacy.html) for the most accurate reproduction.*
 
 # Send Large Files for FREE. AnySize,AnyFile,AnyWhere | AnySend
 
