@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the ltdomains.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222081543id_/http%3A//www.layeredtech.com/about/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ltdomains.com privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522055011id_/http%3A//www.layeredtech.com/about/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Legal | Layered Tech
+
+## Background
 
 Layered Technologies, Inc. (together with its subsidiaries and affiliates, “Layered Tech”) respects the privacy and security of its customers and users of its websites. Layered Tech strives to provide you with a personalized Internet experience that delivers to you the information, products and services that you need. In order to achieve this goal, Layered Tech sometimes collects information during your visits to our websites. Layered Tech promises that:
 
@@ -13,9 +15,9 @@ We have prepared this Privacy Policy to enable you to understand which personal 
 
 ## Adherence to Safe Harbor Privacy Principles
 
-Layered Tech adheres to the Safe Harbor requirements published by the U.S. Department of Commerce, including the Safe Harbor Privacy Principles, pertaining to Personal Information (as defined below and as delineated by the EU Directive under the term “Personal Data”) of customers and users that Layered Tech receives from the European Economic Area. Layered Tech’s Safe Harbor certification can be found at <http://web.ita.doc.gov/safeharbor/shlist.nsf/webPages/safe+harbor+list>. As such, Layered Tech’s Privacy Policy and procedures for handling Personal Information are adequate for purposes of receiving personal data transfers from the European Union in compliance with Directive 95/46/EC of the European Parliament and of the Council of October 24, 1995 On the Protection of Individuals with Regard to the Processing of Personal Data and on the Free Movement of Such Data (“EU Directive”). However, customers and users should understand that adherence to the Safe Harbor Privacy Principles may be limited to the extent necessary to meet national security, public interest, law enforcement, or judicial process requirements; or if the effect of the EU Directive or European Union Member State law is to allow exceptions or derogations, provided such exceptions or derogations are applied in comparable contexts.
+Layered Tech complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Layered Tech has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.. As such, Layered Tech’s Privacy Policy and procedures for handling Personal Information are adequate for purposes of receiving personal data transfers from the European Union and Switzerland in compliance with the European Commission’s Directive on Data Protection (“EU Directive”) and the Swiss Federal Act on Data Protection (“Swiss FADP”) respectively. However, customers and users should understand that adherence to the Safe Harbor Privacy Principles may be limited to the extent necessary to meet national security, public interest, law enforcement, or judicial process requirements; or if the effect of the EU Directive or European Union Member State law or Swiss FADP or Swiss law is to allow exceptions or derogations, provided such exceptions or derogations are applied in comparable contexts.
 
-For more information about the Safe Harbor Principles, please visit the U.S. Department of Commerce’s Website at <http://www.export.gov/safeharbor/sh_overview.html>.
+To learn more about the Safe Harbor program, and to view Layered Tech’s certification, please visit <http://export.gov/safeharbor/>
 
 ## Information We Collect 
 
@@ -54,7 +56,7 @@ As a security measure and to ensure that our websites and computer network remai
 You may also be asked to disclose Personal Information to us so that we can provide technical support assistance and information to you. For example, we may collect Personal Information from you (such as an email address, system information and problem descriptions) in order to provide online technical support and troubleshooting. If you choose to correspond with us through electronic communication (e.g. email, online chat or instant messaging), we may retain a copy of the electronic communication together with your email address and our responses. We provide the same protections for these electronic communications that we employ in the maintenance of information received by mail and telephone.
 
 **Server Hosting Data Collection**  
-As a server hosting service provider, Layered Tech provides access to servers for customers around the globe to store and manage their data and applications. Layered Tech does not own this specific data and is not a “controller” as outlined in the EU Directive. To the extent that Layered Tech is exposed to customer or user data, Layered Tech adheres to the Safe Harbor Privacy Principles.
+As a server hosting service provider, Layered Tech provides access to servers for customers around the globe to store and manage their data and applications. Layered Tech does not own this specific data and is not a “controller” as outlined in the EU Directive or Swiss FADP. To the extent that Layered Tech is exposed to customer or user data, Layered Tech adheres to the Safe Harbor Privacy Principles.
 
 ## How We Use Your Information
 
@@ -68,7 +70,7 @@ In no instance will Layered Tech use your Personal Information in a manner incon
 
 Layered Tech may release some customer Non-Personally Identifiable information, our websites’ traffic patterns, and related website usage information to our affiliates and reputable third parties on an aggregated basis. We take measures to select product or service providers that are responsible and afford similar privacy protections to their customers. However, we do not make any representations about the practices and policies of these companies.
 
-Layered Tech may share or disclose Personal Information with Agents (“Agents” are persons or companies who act on behalf of or under the instructions of Layered Tech) in connection with administering or delivering Layered Tech products and services. Prior to disclosing Personal Information to its Agents, Layered Tech will either: (a) ensure that the Agent subscribes to the Safe Harbor Privacy Principles, (b) assess whether the Agent is subject to the EU Directive, (c) determine that the Agent complies with another “adequacy” finding or (d) execute a written agreement with the Agent requiring the Agent to provide at least the same level of privacy protection as the Safe Harbor Privacy Principles. Layered Tech will not otherwise disclose your Personal Information to third parties without first obtaining your consent pursuant to the Opt-In and Opt-Out Provisions below.
+Layered Tech may share or disclose Personal Information with Agents (“Agents” are persons or companies who act on behalf of or under the instructions of Layered Tech) in connection with administering or delivering Layered Tech products and services. Prior to disclosing Personal Information to its Agents, Layered Tech will either: (a) ensure that the Agent subscribes to the Safe Harbor Privacy Principles, (b) assess whether the Agent is subject to the EU Directive or Swiss FADP, (c) determine that the Agent complies with another “adequacy” finding or (d) execute a written agreement with the Agent requiring the Agent to provide at least the same level of privacy protection as the Safe Harbor Privacy Principles. Layered Tech will not otherwise disclose your Personal Information to third parties without first obtaining your consent pursuant to the Opt-In and Opt-Out Provisions below.
 
 **SPECIAL CASES OF RELEASE**  
 Both Personal Information and Non-Personally Identifiable information may be transferred to a third party:
@@ -135,8 +137,8 @@ Layered Tech uses a self-assessment approach to ensure compliance with this Priv
 
 ## Questions or Concerns
 
-If you have any comments, questions or disputes regarding this Privacy Policy or the use and disclosure of Personal Information, please contact Layered Tech via email at [legalnotice@layeredtech.com](mailto:legalnotice@layeredtech.com) and we will investigate and attempt to resolve your concerns. If we are unable to resolve your complaint or dispute internally, Layered Tech has elected to use the Better Business Bureau (BBB) as a third party dispute resolution provider OR subject itself to the European Data Protection Authorities.
+If you have any comments, questions or disputes regarding this Privacy Policy or the use and disclosure of Personal Information, please contact Layered Tech via email at [legalnotice@layeredtech.com](mailto:legalnotice@layeredtech.com) and we will investigate and attempt to resolve your concerns. If we are unable to resolve your complaint or dispute internally, Layered Tech has elected to use as its independent recourse mechanism the Better Business Bureau (BBB) EU Safe Harbor Program (<http://www.bbb.org/us/european-dispute-resolution/>) for dispute resolution..
 
 ## Effective Date of this Privacy Policy
 
-This Privacy Policy is effective as of August 16, 2011.
+This Privacy Policy is effective as of February 24, 2013.
