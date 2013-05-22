@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bigxvideos.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920095720id_/http%3A//www.bigxvideos.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigxvideos.com privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522070801id_/http%3A//www.bigxvideos.com/privacy.html) for the most accurate reproduction.*
 
-# Porn tube, Free HD Porn Videos, XXX Porno Movies, Online Streaming Porn and Free Sex Clips
+# Free Porn videos, HD Porno Movies, XXX Porn tube, Online Sex Porn and Free Streaming Clips
 
 This document explains you important information regarding the use and disclosure of User Data collected on Bigxvideos.com
 
