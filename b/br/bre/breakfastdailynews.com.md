@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the breakfastdailynews.com privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205061846id_/http%3A//breakfastdailynews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the breakfastdailynews.com privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522234517id_/http%3A//breakfastdailynews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Breakfast Daily News
 
@@ -7,6 +7,8 @@ Your privacy is important to us. To better protect your privacy we provide this 
 
 **Google Adsense and the DoubleClick DART Cookie**  
 Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet.
+
+The publisher of Breakfast Daily News and [Adometry](http://www.adometry.com/) sometimes use pixels to determine user quality and to protect advertisers and web users from malicious users and low quality traffic. These pixels are only used to determine the quality of user for advertising purposes and any data that is captured is anonymous and proprietary to both the publisher and Adometry Inc.
 
 To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url <http://www.google.com/privacy_ads.html> Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies.
 
@@ -21,4 +23,4 @@ We have included links on this site for your use and reference. We are not respo
 **Changes to this Privacy Statement**  
 The contents of this statement may be altered at any time, at our discretion. 
 
-If you have any questions regarding the privacy policy of Breakfast Daily News then you may contact us at info AT relevad DOT com.
+If you have any questions regarding the privacy policy of Breakfast Daily News then you may contact us via our [Contact Page](http://breakfastdailynews.com/contact).
