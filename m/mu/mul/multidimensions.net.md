@@ -1,19 +1,8 @@
-> *The following text is extracted and transformed from the multidimensions.net privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121231023id_/http%3A//www.multidimensions.net/php/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the multidimensions.net privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522145027id_/http%3A//www.multidimensions.net/php/privacypolicy.php) for the most accurate reproduction.*
 
 # Multidimensions.net Privacy Policy
 
-|  |   
----  
-| [](http://www.radio.multidimensions.net/) | [](http://www.multidimensions.net/music-radio-mp3-dance-electronic-lounge-african-afro-beat-salsa-hip-hop-high-life-jazz-neo-soul-reggae-techno) |  |  |  |  |  |  | [](http://www.multidimensions.net/)  
----|---|---|---|---|---  
-[](http://www.radio.multidimensions.net/)
-
-| **Search** |  |  |  | This site |  | Google |  | Yahoo |  | Lycos |  | Ask |  | MSN  
----|---|---|---|---|---|---|---|---|---|---|---|---|---|---  
-  
-|  |   
-  
-|   [](https://web.archive.org/web/20121121231023id_/http%3A//www.multidimensions.net/index.php?IdContinent=29&IdCity=36) > Privacy Policy |  Wednesday,November-21-2012  
+|   [](https://web.archive.org/web/20130522145027id_/http%3A//www.multidimensions.net/index.php?IdContinent=29&IdCity=36) > Privacy Policy |  Wednesday,May-22-2013  
 ---|---  
 Advertise on a great social network |   
 ---  
@@ -62,7 +51,7 @@ Search engines and other sites not affiliated with multidimensions - including [
 #### 5\. Circumstances in which multidimensions may release information
 
   * Multidimensions may disclose information about its users if required to do so by law or in the good faith belief that such disclosure is reasonably necessary to respond to subpoenas, court orders, or other legal process. 
-  * Multidimensions may also disclose information about its users to law enforcement officers or others, in the good faith belief that such disclosure is reasonably necessary to: enforce our [Terms of Use](https://web.archive.org/web/20121121231023id_/http%3A//www.multidimensions.net/php/terms.php); respond to claims that any posting or other content violates the rights of third-parties; or protect the rights, property, or personal safety of multidimensions, its users or the general public. 
+  * Multidimensions may also disclose information about its users to law enforcement officers or others, in the good faith belief that such disclosure is reasonably necessary to: enforce our [Terms of Use](https://web.archive.org/web/20130522145027id_/http%3A//www.multidimensions.net/php/terms.php); respond to claims that any posting or other content violates the rights of third-parties; or protect the rights, property, or personal safety of multidimensions, its users or the general public. 
 
 
 
@@ -72,14 +61,6 @@ By visiting our web site and providing us with data, you acknowledge and agree t
 
 #### 7\. Feedback
 
-We welcome your feedback on this document to [support@multidimensions.net](https://web.archive.org/web/20121121231023id_/http%3A//www.multidimensions.net/php/response.php?mail=support).   
+We welcome your feedback on this document to [support@multidimensions.net](https://web.archive.org/web/20130522145027id_/http%3A//www.multidimensions.net/php/response.php?mail=support).   
   
-Banner Advertising  
-  
-| 
-
-Social Network Powered by Multidimensions, Inc., New York City, New York, NY - Free classifieds and personals, jobs, services, careers, recruitment, real estate, houses, apartments, for rent, for sale, want ads, artists, musicians, models, dancers, painters, photographers, singers, rappers, online dating, romance, roommates, community, travel deals, radio, games, music, ring tones downloads - NYC and all the major cities and countries in the world - New York, Los Angeles, Chicago, Montreal, Toronto, London and more.   
-  
-  
----  
-Copyright © 2010 **- **[Sitemap](http://www.multidimensions.net/sitemap.html)** **\- All rights reserved - [**Terms of Use**](https://web.archive.org/web/20121121231023id_/http%3A//www.multidimensions.net/php/php/terms.php)  \- More Info -  [ **Privacy Policy**](https://web.archive.org/web/20121121231023id_/http%3A//www.multidimensions.net/php/php/privacypolicy.php)
+Banner Advertising
