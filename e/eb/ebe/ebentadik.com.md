@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebentadik.com privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121190915id_/http%3A//www.ebentadik.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebentadik.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523012815id_/http%3A//www.ebentadik.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « eBenTaDik – Tahanan ng mga TV fanadik
 
