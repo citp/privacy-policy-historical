@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bloggermint.com privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119215421id_/http%3A//www.bloggermint.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloggermint.com privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522040514id_/http%3A//www.bloggermint.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Bloggermint
 
@@ -6,15 +6,15 @@ If you require any more information or have any questions about our privacy poli
 
 At www.blogermint.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.blogermint.com and how it is used.
 
- **Log Files**
+**Log Files**
 
- ****Like many other Web sites, www.blogermint.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+****Like many other Web sites, www.blogermint.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
- **Cookies and Web Beacons**
+**Cookies and Web Beacons**
 
 www.blogermint.com does not use cookies.
 
- **DoubleClick DART Cookie**
+**DoubleClick DART Cookie**
 
 1\. Google, as a third party vendor, uses cookies to serve ads on www.blogermint.com.  
 2\. Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.blogermint.com and other sites on the Internet.  
