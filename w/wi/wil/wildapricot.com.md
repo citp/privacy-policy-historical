@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wildapricot.com privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214164838id_/http%3A//www.wildapricot.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wildapricot.com privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522060311id_/http%3A//www.wildapricot.com/privacypolicy) for the most accurate reproduction.*
 
 # Integrated, Web-based Association Membership Management Solution: Free Trial!
 
