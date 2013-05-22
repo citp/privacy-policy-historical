@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the galls.com privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108011942id_/http%3A//www.galls.com/cgi/CGBCPAGE%3FPMPAGE%3DPRIVACY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the galls.com privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522134916id_/http%3A//www.galls.com/cgi/CGBCPAGE%3FPMPAGE%3DPRIVACY) for the most accurate reproduction.*
 
 # Privacy and Security - Police Gear - Police Equipment - Police Uniforms - Public Safety Equipment: Galls
 
