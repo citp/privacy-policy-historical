@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the fastretailing.com privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121145229id_/http%3A//www.fastretailing.com/eng/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastretailing.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523012440id_/http%3A//www.fastretailing.com/eng/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | FAST RETAILING CO., LTD.
 
 Last Updated: 2010.03.16  
 [to Japanese page](https://web.archive.org/jp/privacy/)
 
-**To explain the Company’s basic view on treatment of personal information**
+**To explain the Company's basic view on treatment of personal information**
 
 FAST RETAILING CO., LTD. (The Company) strives to appropriately manage and protect any personal information◆1 that the Company holds by adhering strictly to laws regarding the protection of personal information, guidelines from the appropriate authorities, our own privacy policy and applicable in-house standards.
 
@@ -21,11 +21,11 @@ FAST RETAILING CO., LTD. (The Company) strives to appropriately manage and prote
     to query, amend, cease usage, prevent provision to a third party or delete personal   
     information. 
 
-**◆1 The definition of “personal information” handled by the Company**
+**◆1 The definition of "personal information" handled by the Company**
 
 Personal information is information that can identify any one individual such as his/her name, address or telephone number. The personal information handled by the Company includes information about our customers, shareholders, applicants for recruitment opportunities and our executive officers, directors, and employees (including but not limited to full-time employees, temporary employees, contract workers, and part-time personnel). 
 
-**◆2 The definition of “utilization purposes”**
+**◆2 The definition of "utilization purposes"**
 
 The Company uses personal information provided for the following purposes:
 
@@ -43,7 +43,7 @@ Personal information from shareholders
      to legal regulations etc.
 
 Personal information from job applicants  
-  ・  To contact the individual concerned and provide information about the Company’s   
+  ・  To contact the individual concerned and provide information about the Company's   
      operations and employment.  
   ・  Job applicant information management including creation of records in the selection process.  
   ・  Other uses necessary to employment and recruitment activities. 
@@ -57,8 +57,8 @@ Personal information from employees
 
 *  The use of Cookie functions on the website
 
-The technology to record the activities of visitors to a website onto computer hard drive is called “cookies”.   
-Some pages on the Company’s website use cookies in order to make it easier for people to use the website. If the user has changed the settings on his/her computer to disable cookies, then the user may not be able to access some of the services offered by the Company on the website.   
+The technology to record the activities of visitors to a website onto computer hard drive is called "cookies".   
+Some pages on the Company's website use cookies in order to make it easier for people to use the website. If the user has changed the settings on his/her computer to disable cookies, then the user may not be able to access some of the services offered by the Company on the website.   
 In addition, the Company does sometimes use cookies for independent investigation of general customer usage of the website without specifying the particular individual.
 
 **◆3 The provision of personal information to third parties**
@@ -67,7 +67,7 @@ The Company does not share personal information with third parties, except in th
 
 (1)  When agreement has been obtained in advance from the individual concerned.
 
-(2)  In the case of joint usage by the Company’s group companies.   
+(2)  In the case of joint usage by the Company's group companies.   
 The Company conducts joint operations with FAST RETAILING group companies (Related Companies) both within and outside of Japan as listed on the website ([www.fastretailing.com](http://www.fastretailing.com/)). For that reason, the Company may sanction joint usage with Related Companies of personal information acquired from customers, shareholders, job applicants and employees, but only for the purpose of achieving the utilization purposes noted in this policy. 
 
 (3)  Other cases recognized by law, including:  
@@ -78,9 +78,9 @@ The Company conducts joint operations with FAST RETAILING group companies (Relat
   ・  The provision of personal information in the case of a succession of operations such as   
      a merger, etc.
 
-**◆4 The Company’s personal information Customer Inquiry Desk**
+**◆4 The Company's personal information Customer Inquiry Desk**
 
-Regarding personal information used jointly with Related Companies, upon receipt of any request from an individual to query, amend, cease usage or delete personal information, we follow prescribed procedures to respond swiftly having first confirmed that the request originates from the individual him/herself. To find out who to contact regarding personal information, please go to our  [Customer Inquiry Desk](https://sv4.activecr.com/question/frgroup/fr_cs/fr_cs.cgi "別ウィンドウが開きます") on the Company website. 
+Regarding personal information used jointly with Related Companies, upon receipt of any request from an individual to query, amend, cease usage or delete personal information, we follow prescribed procedures to respond swiftly having first confirmed that the request originates from the individual him/herself. To find out who to contact regarding personal information, please go to our  [Customer Inquiry Desk](https://faqnavi12a.csview.jp/faq2/usermailform.do?user=frgroup&faq=Fastretailing "別ウィンドウが開きます") on the Company website. 
 
 The Company reserves the right to change or revise this policy without prior notice to incorporate any changes in its procedures for protecting personal information or any regulatory changes. 
 
