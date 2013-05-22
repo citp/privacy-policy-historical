@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the liquidationchannel.com privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214064616id_/http%3A//www.liquidationchannel.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liquidationchannel.com privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522234619id_/http%3A//www.liquidationchannel.com/privacypolicy.html) for the most accurate reproduction.*
 
-# TV Shopping Channel : Tanzanite Jewelry : LiquidationChannel.com
+# Liquidation Channel : Jewelry and Accessories : Tanzanite, Diamonds, Gemstones and More. Jewelry Auctions.
 
 | Privacy Policy  
 ---  
