@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the starkey.com privacy policy that was archived on 2012-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121026145404id_/http%3A//www.starkey.com/corporate/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starkey.com privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522161220id_/http%3A//www.starkey.com/corporate/privacy-policy) for the most accurate reproduction.*
 
 # Starkey.com Privacy Policy
 
@@ -31,7 +31,7 @@ We may place a text file called a "cookie" in the browser files of your computer
 
 ## Healthcare disclaimer
 
-The information presented on [www.starkey.com](http://www.starkey.com/) or [www.starkeypro.com](http://www.starkeypro.com/) is not intended to be medical advice and should not be relied upon as such. If you suspect a hearing problem, Starkey strongly urges you to consult with a qualified physician or hearing professional.
+The information presented on [starkey.com](http://www.starkey.com/) or [starkeypro.com](http://www.starkeypro.com/) is not intended to be medical advice and should not be relied upon as such. If you suspect a hearing problem, Starkey strongly urges you to consult with a qualified physician or hearing professional.
 
 ## Links to other websites and services
 
@@ -47,4 +47,4 @@ Starkey approaches Internet communications with a strong commitment to individua
 
 ## Contact us
 
-If you have questions about the Privacy Policy or your experience with any of our sites, please [contact us](https://web.archive.org/web/20121026145404id_/http%3A//www.starkey.com/corporate/~/link.aspx?_id=53E4AED58F7745F0B598AD8B71B13663&_z=z).
+If you have questions about the Privacy Policy or your experience with any of our sites, please [contact us](https://web.archive.org/corporate/contact-us).
