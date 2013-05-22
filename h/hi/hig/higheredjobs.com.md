@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the higheredjobs.com privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121095552id_/http%3A//www.higheredjobs.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the higheredjobs.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523012316id_/http%3A//www.higheredjobs.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - HigherEdJobs
 
-[ ](http://privacy-policy.truste.com/click-with-confidence/ctv/en/www.higheredjobs.com/seal_m "Validate TRUSTe privacy certification")
+[ ](https://privacy.truste.com/privacy-seal/Internet-Employment-Linkage,-dba-HigherEdJobs-com/validation?rid=29a396dd-c433-4529-a8d9-cfae9d5ec02b "TRUSTe online privacy certification")
 
 Internet Employment Linkage has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html "Privacy Program Requirements") including transparency, accountability and choice regarding the collection and use of your personally identifiable information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this Web site, www.higheredjobs.com and does not cover information that may be collected behind the log in on our website.
 
@@ -31,7 +31,7 @@ C. Resume Center. If you register for a personal My HigherEdJobs account, you wi
 
 D. Other Technical Information/Cookies. We collect an IP address from all visitors to our Web Site.  We use your IP address to help diagnose problems with our server and to administer our Web Site. In addition to information provided by your browser, we use "cookies" for remembering your preferences, maintaining information about whether you are currently logged into our systems, and tracking click streams.  Because of our use of cookies, we can deliver faster service, consistent, updated results, and a more personalized site experience. Cookies in and of themselves do not personally identify users, although they do identify a user's computer. Most browsers are initially set to accept cookies, but if you prefer, you can set your browser to refuse cookies. We do not use cookies to store any personally identifiable information you submit while on our site. If you use My HigherEdJobs and request us to do so, we will use a cookie to help us recall information about your account such as your user name and password. In the event you refuse cookies, however, you may not be able to take advantage of benefits offered by our Web Site.
 
-Some of our business partners (e.g., advertisers, tracking utilities) use cookies on our site. We have no access to or control over these cookies. Our third party partners employ clear gifs (a.k.a. Web Beacons/Web Bugs), images, and scripts that help them better manage content on our site. We do [not] tie the information gathered to our Customers' or Users' personally identifiable information.[See the "Third Party Advertisers" section.]
+Some of our business partners (e.g., advertisers, tracking utilities) use cookies on our site. We have no access to or control over these cookies. Our third party partners employ clear gifs (a.k.a. Web Beacons/Web Bugs), images, and scripts that help them better manage content on our site. We do not tie the information gathered to our Customers' or Users' personally identifiable information.[See the "Third Party Advertisers" section.]
 
 This privacy statement covers the use of cookies by www.higheredjobs.com only and does not cover the use of cookies by any advertisers. [See the "Third Party Advertisers" section.]
 
@@ -81,4 +81,4 @@ If, at any time, you have questions or concerns about HigherEdJobs.com's Privacy
 
 THANK YOU FOR USING HIGHEREDJOBS.COM.
 
-Last Updated: 11/01/2012
+Last Updated: 2/25/2013
