@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easyfundraising.org.uk privacy policy that was archived on 2012-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121216142630id_/http%3A//www.easyfundraising.org.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyfundraising.org.uk privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523012640id_/http%3A//www.easyfundraising.org.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - easyfundraising.org.uk
 
@@ -8,7 +8,7 @@ easyfundraising ([www.easyfundraising.org.uk](https://web.archive.org/)) is the 
 
 #### What do we use the information for?
 
-We want to give our users the best possible service. We may therefore use the data gathered to contact you to check this is the case. We or carefully selected others may use it to (and you agree may) advise you by 'phone, fax, e-mail or other means of new possibilities, of products, services and changes to service or new services that we offer. We will not sell your data to "list brokers" or anybody we believe may trouble you with "spam" or other such forms of contact. We will only advise you of products that we genuinely believe will be of interest to you and help raise funds for your selected organisation or charity. 
+We want to give our users the best possible service. We may therefore use the data gathered to contact you by telephone, fax, e-mail or other means, to advise you of new products, services, or changes to our service. We will only advise you of products that we genuinely believe will be of interest to you and help raise funds for your selected organisation or charity. Any personal information you provide to us will only be used by us, our agents and service providers, and will not be disclosed unless we are obliged or permitted to do so by law. We will not pass on your personal details to any third party without your permission. 
 
 * * *
 
