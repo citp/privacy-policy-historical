@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alphasights.com privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205154148id_/http%3A//www.alphasights.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alphasights.com privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522075723id_/http%3A//www.alphasights.com/privacy) for the most accurate reproduction.*
 
 # AlphaSights
 
