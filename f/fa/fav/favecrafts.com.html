@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the favecrafts.com privacy policy that was archived on 2012-11-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121118031655id_/http%3A//www.favecrafts.com/index.php/hct/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the favecrafts.com privacy policy that was archived on 2013-05-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130522205359id_/http%3A//www.favecrafts.com/index.php/hct/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://ogp.me/ns/fb#"><head>
 
@@ -25,7 +25,7 @@
 	
 	
 	<!-- START Google site verification -->
-	
+				
 				<!-- END Google site verification -->
 	
 	
@@ -38,7 +38,7 @@
 	
 	
 	<!-- START Bing verification -->
-						<meta name="msvalidate.01" content="CF33266DDC4229951386F3A5B3266E55">
+						<meta name="msvalidate.01" content="2B5463FF31402EED99DC5D397C18CA3E">
 						
 		<!-- END Bing verification -->
 	
@@ -50,24 +50,24 @@
 	<!--<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>-->
 	<!--<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.5/jquery.min.js"></script>-->
 	<!--<script type="text/javascript" src="/javascript/jquery-1.5.min.js"></script>-->
-	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" src="http://cf2.primecp.com/javascript/jquery-1.5.2.min.js?v=5"></script>
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" src="http://cf2.primecp.com/javascript/jquery-1.5.2.min.js?v=3"></script>
 	
 	<!-- start jquery ui -->
 	<!-- this was installed to get the autocomplete feature, contains: Core, Widget, Position, Autocomplete -->
-	<script type="text/javascript" src="http://cf2.primecp.com/javascript/jquery-ui-1.8.12.custom/js/jquery-ui-1.8.12.custom.min.js?v=5"></script>
-	<link rel="stylesheet" type="text/css" href="/javascript/jquery-ui-1.8.12.custom/css/ui-lightness/jquery-ui-1.8.12.custom.css?v=5" media="screen">
+	<script type="text/javascript" src="http://cf2.primecp.com/javascript/jquery-ui-1.8.12.custom/js/jquery-ui-1.8.12.custom.min.js?v=3"></script>
+	<link rel="stylesheet" type="text/css" href="/javascript/jquery-ui-1.8.12.custom/css/ui-lightness/jquery-ui-1.8.12.custom.css?v=3" media="screen">
 	<!-- end jquery ui -->
 	
 	
 	<!-- jQuery Tools Library (Tabs, Tooltip, Scrollable, Overlay, Expose. No jQuery) --> 
 	<!--<script src="http://cdn.jquerytools.org/1.1.0/tiny/jquery.tools.min.js"></script>-->
-		<script type="text/javascript" src="http://cf2.primecp.com/javascript/jquery.tools.min_v1.1.0.js?v=5"></script>
+		<script type="text/javascript" src="http://cf2.primecp.com/javascript/jquery.tools.min_v1.1.0.js?v=3"></script>
 	
 	
 
-	<script type="text/javascript" src="http://cf2.primecp.com/javascript/jquery.form.js?v=5"></script>
+	<script type="text/javascript" src="http://cf2.primecp.com/javascript/jquery.form.js?v=3"></script>
 	
-	<script type="text/javascript" src="http://cf2.primecp.com/javascript/site_functions.js?v=5"></script>
+	<script type="text/javascript" src="http://cf2.primecp.com/javascript/site_functions.js?v=3"></script>
 	
 	
 	
@@ -91,7 +91,7 @@
 		
 			$(document).ready(
 				function() {
-					//alert('getJavascript_topSocialLinks ready line: 9333');
+					//alert('getJavascript_topSocialLinks ready line: 10706');
 					
 					$('#topSocialLinkMenu .socialButtonTable').show();
 					
@@ -151,7 +151,7 @@
 			
 			$(document).ready(
 				function() {
-					//alert('getJavascript_loginDhtmlContent ready - line: 14465');
+					//alert('getJavascript_loginDhtmlContent ready - line: 15993');
 					/**
 					 *set click handler for all the close boxes in the dhtml
 					 */
@@ -200,23 +200,40 @@
 						$('.dhtmlLoginWrapper .facebookLoginButton').click(
 							 function(){
 								 //alert('click facebookLoginButton');
+								 //console.log('click facebookLoginButton');
+								 
 								 //FB.login();
 								 $(this).fadeTo('normal', 0.3);
 								 $('#dhtmlLogin .feedbackDiv').html('<img src="/images/ajax-loader-bar.gif" alt="Loading" width="220" height="19" />');
 								 
 								 FB.login(
+								 	/*
+								 	2012-12-20
+								 	this location of scope caused js errors, after months of working
 								 	{
 										scope: 'email'
 									},
+									*/
 								  	function(response){
    										// handle the response
-   										var alert_str = 'back from FB.login' + "\n\n";
-   										alert_str += 'response: ' + response + "\n\n";
-   										alert_str += 'response.scope: ' + response.email + "\n\n";
-   										alert_str += 'response.status: ' + response.status + "\n\n";
-   										alert_str += 'response.name: ' + response.name + "\n\n";
-   										//alert(alert_str);
-									}
+   										//console.log(response);
+   										
+   										if (response.authResponse) {
+   											//console.log('Welcome!  Fetching your information.... ');
+   										}else{
+   											
+   											// undo some user feedback that ran when the user clicked the fb button
+   											$('.dhtmlLoginWrapper .facebookLoginButton').fadeTo('normal', 1.0);
+   											$('#dhtmlLogin .feedbackDiv').html('');
+   											
+   											//console.log('User cancelled login or did not fully authorize.');
+   										}
+									},
+									/* 
+									2012-12-20
+									this location of scope works, at least for now...
+									*/
+									{scope: 'email'}
 								);
 								//login_dhtml_obj.hideLoginDhtmlBox();
 							 }
@@ -309,6 +326,10 @@
 									if(json.success == 1){
 										//alert('success');
 										feedback_div = 'We sent your password to ' + json.email;
+									}else if(json.is_banned == 1){
+										feedback_div = 'We could not send the password for your account.<br />';
+										feedback_div += '<a href="/index.php/hct/contact_us_page">Please click here to contact customer support.</a>';
+										
 									}else{
 										feedback_div = 'We could not find an account for your email.';
 									}
@@ -479,7 +500,7 @@ var signup_redirect_qry_params = new Array();
 signup_redirect_qry_params['email'] = false;
 
 
-var signup_redirect_url = 'http://www.pdapi.com/cs/JSI/v1/prime/?pub=3&email=[email]&ExitURL=http://www.favecrafts.com/index.php/hct/Latest-Free-eBooks';
+var signup_redirect_url = 'https://www.clear-request.com/oi/display?PID=18827907&EM=[email]&URL=http://www.favecrafts.com/index.php/hct/Latest-Free-eBooks';
 
 	var nscID = 50;
 	
@@ -1088,7 +1109,9 @@ function animateDhtmlSignup(){
 	//alert('animateDhtmlSignup');
 	
 	// move user to top of the page
-	window.location = '#';
+	//window.location = '#';
+	
+	//console.log('animateDhtmlSignup');
 	
 	var doc_width = $(document).width();
 		var doc_height = $(document).height();
@@ -1104,35 +1127,60 @@ function animateDhtmlSignup(){
 	$("#newsletterSignUpDivAnime").css("left", popup_left + 'px');
 	$("#newsletterSignUpDivAnime").show();
 	
+	
+	
 	$("#newsletterSignUpDivAnime").animate(
-			{"top": "10px"}, 
-			"slow",
-			'',
-			function () {
+		{"top": "10px"}, 
+		"slow",
+		'',
+		function () {
 
-				// this fires after the popup is in place
-				// fade out the div that will be placed over the page
-				// the div is not visible at this point, but we use fade out so we can fade it in after the css updates are made
-				
-				$('#viewportGreyout').fadeTo(
-					"fast", 
-					0.0,
-					function () {
-						
-						// set some css for the div then fade it in
-						$('#viewportGreyout').css(
-							{
-								'top' : '0',
-								'left' : '0',
-								'width' : doc_width + 'px',
-								'height' : doc_height + 'px',
-								'background-color' : '#000'
-							}
-						).fadeTo("slow", 0.8);
+			// this fires after the popup is in place
+			// fade out the div that will be placed over the page
+			// the div is not visible at this point, but we use fade out so we can fade it in after the css updates are made
+			
+			$('#viewportGreyout').fadeTo(
+				"fast", 
+				0.0,
+				function () {
+					
+					// set some css for the div then fade it in
+					$('#viewportGreyout').css(
+						{
+							'top' : '0',
+							'left' : '0',
+							'width' : doc_width + 'px',
+							'height' : doc_height + 'px',
+							'background-color' : '#000'
+						}
+					).fadeTo("slow", 0.8);
+				}
+			);
+			
+			
+			
+			// 2013-04-30
+			// added to remedy a chrome dhtml display issue
+			// the page might be scrolled to the middle, so the usr cannot see the top, where the dhtml is located
+			var body_top = parseInt($('body').css('top'));
+			if(isNaN(body_top)){
+				body_top = 10;
+			}
+			//console.log('body_top ' + body_top );
+			//console.log('typeof body_top ' + typeof body_top );
+			
+			
+			if( body_top > 0 ){
+				$('body').css(
+					{
+						'top': '0px'
 					}
 				);
+				
+				//console.log('2 body top ' + $('body').css('top') );
 			}
-		);
+		}
+	);
 }
 
 //------------------------------------------------------------------------------------------------------------
@@ -1425,28 +1473,33 @@ function triggerWiderFunnel(){
 			
 	
 	
-				<!-- START GOOGLE AD MANAGER CODE V2 -->
-			<!-- http://support.google.com/dfp_sb/bin/answer.py?hl=en&answer=112649 -->
-			<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js"></script>
+				<!-- START Google Publisher Tag - Asynchronous -->
 			<script type="text/javascript">
-				GS_googleAddAdSenseService("ca-pub-3960203165302510");
-				GS_googleEnableAllServices();
+				var googletag = googletag || {};
+				googletag.cmd = googletag.cmd || [];
+				(function() {
+					var gads = document.createElement('script');
+					gads.async = true;
+					gads.type = 'text/javascript';
+					var useSSL = 'https:' == document.location.protocol;
+					gads.src = (useSSL ? 'https:' : 'http:') + 
+					'//www.googletagservices.com/tag/js/gpt.js';
+					var node = document.getElementsByTagName('script')[0];
+					node.parentNode.insertBefore(gads, node);
+				})();
 			</script>
+			
 			<script type="text/javascript">
-										GA_googleAddSlot("ca-pub-3960203165302510", "FaveCrafts-com_header-int-A_728-90");
-												GA_googleAddSlot("ca-pub-3960203165302510", "FaveCrafts-com_left-rail-A_120-600");
-												GA_googleAddSlot("ca-pub-3960203165302510", "FaveCrafts-com_center-A_468-60");
-												GA_googleAddSlot("ca-pub-3960203165302510", "FaveCrafts-com_right-rail-A_160-600");
-												GA_googleAddSlot("ca-pub-3960203165302510", "FaveCrafts-com_right-rail-B_300-250");
-												GA_googleAddSlot("ca-pub-3960203165302510", "FaveCrafts-com_right-rail-C_300-250");
-										
-				// set a PAGE LEVEL attribute for ALL ads
-				GA_googleAddAdSensePageAttr("google_page_url", "http://www.favecrafts.com/index.php/hct/privacy_policy");
+				googletag.cmd.push(function() {
+												googletag.defineSlot('/1049349/FaveCrafts-com_header-int-A_728-90', [[728,90]], 'div-gpt-ad-1363370149932-0').addService(googletag.pubads());
+														googletag.defineSlot('/1049349/FaveCrafts-com_left-rail-A_120-600', [[120,600]], 'div-gpt-ad-1363370149932-1').addService(googletag.pubads());
+														googletag.defineSlot('/1049349/FaveCrafts-com_right-rail-B_300-250', [[300,250],[300,600],[300,1050]], 'div-gpt-ad-1363370149932-4').addService(googletag.pubads());
+														googletag.defineSlot('/1049349/FaveCrafts-com_right-rail-C_300-600', [[300,250],[300,600],[300,1050]], 'div-gpt-ad-1363370149932-5').addService(googletag.pubads());
+												googletag.pubads().enableSingleRequest();
+					googletag.enableServices();
+				});
 			</script>
-			<script type="text/javascript">
-				GA_googleFetchAds();
-			</script>
-			<!-- END GOOGLE AD MANAGER CODE V2 -->
+			<!-- END Google Publisher Tag - Asynchronous -->
 				
 	
 	
@@ -1620,18 +1673,18 @@ function triggerWiderFunnel(){
 	
 	
 			<!-- get css for the email signup creative -->
-		<link rel="stylesheet" href="/site_templates/signup_creative/css/nscID_50.css?v=5" type="text/css" media="screen">	
+		<link rel="stylesheet" href="/site_templates/signup_creative/css/nscID_50.css?v=3" type="text/css" media="screen">	
 			
 	
 	
-	<link type="text/css" rel="stylesheet" href="/css/jquery.rating.css?v=5" media="screen">
+	<link type="text/css" rel="stylesheet" href="/css/jquery.rating.css?v=3" media="screen">
 	
 	<!--
 	start css
 	-->
-	<link rel="stylesheet" href="/site_templates/0003/css/main_styles.css?v=5" type="text/css" media="screen">
+	<link rel="stylesheet" href="/site_templates/0003/css/main_styles.css?v=3" type="text/css" media="screen">
 	
-	<link rel="stylesheet" href="/site_templates/0003/css/print_styles.css?v=5" type="text/css" media="print">
+	<link rel="stylesheet" href="/site_templates/0003/css/print_styles.css?v=3" type="text/css" media="print">
 	
 	
 	
@@ -1651,6 +1704,9 @@ function triggerWiderFunnel(){
 			var facebook_login_obj = {};
 
 			window.fbAsyncInit = function() {
+			
+				//console.log('call to window.fbAsyncInit line 15823');
+			
 				FB.init({
 					appId      : '205400736239378', // App ID Favecrafts
 					
@@ -1659,6 +1715,22 @@ function triggerWiderFunnel(){
 					cookie     : true, // enable cookies to allow the server to access the session
 					xfbml      : true  // parse XFBML
 				});
+				
+				
+				/*
+				FB.getLoginStatus(function(response) {
+					  if (response.status === 'connected') {
+					    // connected
+					    console.log('connected');
+					  } else if (response.status === 'not_authorized') {
+					    // not_authorized
+					    console.log('not_authorized');
+					  } else {
+					    // not_logged_in
+					    console.log('not_logged_in');
+					  }
+				});
+				*/
 				
 				// listen for and handle auth.statusChange events
 				FB.Event.subscribe(
@@ -1786,10 +1858,14 @@ function triggerWiderFunnel(){
 		</script>
 		<!-- END Facebook Javascript SDK js -->
 			
+				
+		
 </head>
 <body id="site9" itemscope="" itemtype="http://schema.org/Article">
 
 <div id="fb-root"></div>
+
+
 
 
 
@@ -1872,15 +1948,15 @@ function triggerWiderFunnel(){
 			<table id="logoTable" border="0">
 				<tbody><tr>
 					<td>
-								<a id="headerLogo" href="/"><img src="http://cf2.primecp.com/site_templates/0003/images/site_logo_internal_sID9.gif?v=5" alt="FaveCrafts.com"></a>
+								<a id="headerLogo" href="/"><img src="http://cf2.primecp.com/site_templates/0003/images/site_logo_internal_sID9.gif?v=3" alt="FaveCrafts.com"></a>
 			<div id="thisPageLinks" class="internal" style="margin-top: 0px;"><a class="firstLink" href="/site-map">Site Map</a><a href="/rss-feed">RSS</a><!--<a href="javascript: alert('Coming Soon');">Shop</a>--><a href="" class="lastLink" onclick="return bookmark('http://www.favecrafts.com/index.php/hct/privacy_policy','');">Bookmark</a><!--<a id="emailPageLink" class="lastLink" href="#">Email This Page</a>--></div>
 						</td>
 					<td class="" style="text-align: right; padding: 5px 5px 0 0; width: 735px;">
-											<div style="">
-						<!-- ca-pub-3960203165302510/FaveCrafts-com_header-int-A_728-90 -->
+											
+					<!-- FaveCrafts-com_header-int-A_728-90 -->
+					<div id="div-gpt-ad-1363370149932-0" style="width: 728px; height:90px;" class="mustangGoogleAdTest_async">
 						<script type="text/javascript">
-							GA_googleFillSlot("FaveCrafts-com_header-int-A_728-90"); // v2
-						</script>
+							googletag.cmd.push(function() { googletag.display('div-gpt-ad-1363370149932-0'); });						</script>
 					</div>
 										</td>
 				</tr>
@@ -2034,11 +2110,11 @@ function triggerWiderFunnel(){
 		
 									</div>
 														<div style="margin: 0 0 30px 0;">
-													<div style="width: 125px; margin: 0 auto;">
-						<!-- ca-pub-3960203165302510/FaveCrafts-com_left-rail-A_120-600 -->
+													
+					<!-- FaveCrafts-com_left-rail-A_120-600 -->
+					<div id="div-gpt-ad-1363370149932-1" style="width: 120px; height:600px; margin: 0 auto;" class="mustangGoogleAdTest_async">
 						<script type="text/javascript">
-							GA_googleFillSlot("FaveCrafts-com_left-rail-A_120-600"); // v2
-						</script>
+							googletag.cmd.push(function() { googletag.display('div-gpt-ad-1363370149932-1'); });						</script>
 					</div>
 												</div>
 												
@@ -2047,9 +2123,7 @@ function triggerWiderFunnel(){
 												<div style="margin: 0 0 15px 0;">
 								<p>
 	Privacy Policy / Your California Privacy Rights<br>
-	Revised and posted as of August 8, 2012</p>
-<p>
-	(Please note this version of the Privacy and Security Policy does not substantively change the way Prime Publishing LLC treats personally identifiable information compared to the <a href="http://www.favecrafts.com/index.php/hct/privacy_policy2008" target="_blank">previous version of the Privacy and Security Policy</a>.)</p>
+	Revised and posted as of March 4, 2013</p>
 <p>
 	Prime Publishing, LLC ("Company," "we" or "us") reserves the right to revise this Privacy Policy at any time simply by posting such revision, so we encourage you to review it periodically. In order to track any changes to this Privacy Policy, we will include a historical reference at the top of this document.</p>
 <p>
@@ -2161,6 +2235,10 @@ function triggerWiderFunnel(){
 <p>
 	Additionally, we may share, license or sell your information to third parties for use in their data validation, enhancement, information verification services, and, to the extent permitted by law, individual reference or look-up services.</p>
 <p>
+	Third Party Cookies</p>
+<p>
+	Notwithstanding anything else in this policy, we or a data provider we have engaged may place or recognize a unique cookie on your browser to enable you to receive customized ads or content.&nbsp;&nbsp; These cookies contain no personally identifiable information.&nbsp; The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, that we may share with a data provider solely in hashed, non-human readable form. To opt-out of these cookies, please go to http://www.aboutads.info/choices.</p>
+<p>
 	Governmental Agencies or Other Companies<br>
 	We may share your information with law enforcement officials or governmental agencies: (1) in response to their request; (2) when permitted or required by law; or (3) to establish our compliance with applicable laws, rules, regulations, or guidelines.</p>
 <p>
@@ -2209,7 +2287,7 @@ function triggerWiderFunnel(){
 		
 				<form id="newsletterSignUpForm" class="contentBoxPadding" action="/newsletter_signup.php" method="post">
 					<input type="hidden" name="task" value="signup">
-					<input type="hidden" name="PHPSESSID" value="9a63f713dab228274c7be112949989ad">
+					<input type="hidden" name="PHPSESSID" value="g9dn22q569a2o6euajjeqsgv41">
 					
 					<img style="float: right; margin: 0 0 5px 5px;" src="http://cf2.primecp.com/site_templates/0003/images/newsletter_signup_bg_sID9.png" alt="">
 					
@@ -2237,32 +2315,23 @@ function triggerWiderFunnel(){
 		
 									</div>
 														<div style="margin: 0 0 10px 0;">
-													<div style="">
-						<!-- ca-pub-3960203165302510/FaveCrafts-com_right-rail-A_160-600 -->
-						<script type="text/javascript">
-							GA_googleFillSlot("FaveCrafts-com_right-rail-A_160-600"); // v2
-						</script>
-					</div>
-												</div>
+															</div>
 														<div style="margin: 0 0 10px 0;">
-											
-			<div id="topTenSiteID9">
+											<div id="topTenSiteID9" class="topTenDiv">
 				<h3>What's Hot</h3>
-				
 				<div class="contentBoxPadding">
-					<h4>Top Craft Projects</h4>
-					
+										<h4>Top Craft Projects</h4>
 								<ol>
-									 <li><a href="/Knit-Wraps/Soft-Shoulder-Shawl-from-Red-Heart-Yarn/ct/1">Soft Shoulder Shawl</a></li>
-					 					 <li><a href="/Knit-Sweaters/Jazzy-Poncho-from-Caron-Yarn/ct/1">Jazzy Poncho</a></li>
-					 					 <li><a href="/Crochet-Sweaters/Broomstick-Lace-Shawl-Crochet-Pattern-from-Caron-Yarn/ct/1">Broomstick Lace Shawl</a></li>
-					 					 <li><a href="/Ornaments/31-Simple-Homemade-Christmas-Ornaments/ct/1">31 Simple Homemade Christmas Ornaments + 6 New Ornaments</a></li>
-					 					 <li><a href="/Crochet/Striped-Crochet-Shawl-Pattern/ct/1">Striped Crochet Shawl Pattern</a></li>
-					 					 <li><a href="/Knit-Wraps/Wavy-and-Warm-Winter-Shawl-from-Red-Heart-Yarn/ct/1">Wavy and Warm Winter Shawl</a></li>
-					 					 <li><a href="/Crochet-Sweaters/Crochet-Angel-Shawl/ct/1">Crochet Angel Shawl</a></li>
-					 					 <li><a href="/Knitting/Chunky-Long-Wrap-Knitting-Pattern/ct/1">Chunky Knit Long Wrap</a></li>
-					 					 <li><a href="/Pendants/Vintage-Photo-Pendant/ct/1">Vintage Photo Pendant</a></li>
-					 					 <li><a href="/Crochet-Sweaters/Lace-Lattice-Wrap-Crochet-Pattern-from-Caron-Yarn/ct/1">Lace Lattice Wrap</a></li>
+									 <li><a href="/Wine-Bottle-Crafts/25-Cool-Things-to-Do-with-Wine-Bottles-free-eBook/ct/1">"25 Cool Things to Do with Wine Bottles" free eBook</a></li>
+					 					 <li><a href="/Fourth-of-July/Americana-Mason-Jar-from-Plaid-Enterprises/ct/1">Americana Mason Jar</a></li>
+					 					 <li><a href="/Green-Crafting/Trash-to-Treasure-28-Recycled-Crafts-Free-eBook/ct/1">"Trash to Treasure: 28 Recycled Crafts" Free eBook</a></li>
+					 					 <li><a href="/Tie-Dye/Swirl-Tie-Dye-Technique-from-Tulip/ct/1">Swirl Tie Dye Technique</a></li>
+					 					 <li><a href="/Crochet-Hats-Scarves-Gloves/Crochet-Scarf-Patterns-Men-will-Love/ct/1">7 Crochet Scarf Patterns Men will Love</a></li>
+					 					 <li><a href="/Green-Crafting/15-Unexpected-Uses-for-Aluminum-Foil/ct/1">15 Unexpected Uses for Aluminum Foil</a></li>
+					 					 <li><a href="/Jewelry-Making/Pink-Memory-Wire-Bracelet/ct/1">Pink Memory Wire Bracelet</a></li>
+					 					 <li><a href="/Hair-Accessories/Easy-Peasy-Hairpins-from-ilovetocreate/ct/1">Easy Peasy Hairpins</a></li>
+					 					 <li><a href="/Jewelry-Sets/Emerald-City-Jewelry-Set-from-ilovetocreatecom/ct/1">Emerald City Jewelry Set</a></li>
+					 					 <li><a href="/Crochet-Afghans/Retro-Circle-Afghan-from-Caron/ct/1">Retro Circle Afghan</a></li>
 					 			</ol>
 							</div>
 				
@@ -2271,11 +2340,11 @@ function triggerWiderFunnel(){
 			
 										</div>
 														<div style="margin: 0 0 10px 0;">
-													<div style="">
-						<!-- ca-pub-3960203165302510/FaveCrafts-com_right-rail-B_300-250 -->
+													
+					<!-- FaveCrafts-com_right-rail-B_300-250 -->
+					<div id="div-gpt-ad-1363370149932-4" style="width: 300px;" class="mustangGoogleAdTest_async">
 						<script type="text/javascript">
-							GA_googleFillSlot("FaveCrafts-com_right-rail-B_300-250"); // v2
-						</script>
+							googletag.cmd.push(function() { googletag.display('div-gpt-ad-1363370149932-4'); });						</script>
 					</div>
 												</div>
 														<div style="margin: 0 0 10px 0;">
@@ -2308,11 +2377,11 @@ function triggerWiderFunnel(){
 		
 									</div>
 														<div style="margin: 0 0 10px 0;">
-													<div style="">
-						<!-- ca-pub-3960203165302510/FaveCrafts-com_right-rail-C_300-250 -->
+													
+					<!-- FaveCrafts-com_right-rail-C_300-600 -->
+					<div id="div-gpt-ad-1363370149932-5" style="width: 300px;" class="mustangGoogleAdTest_async">
 						<script type="text/javascript">
-							GA_googleFillSlot("FaveCrafts-com_right-rail-C_300-250"); // v2
-						</script>
+							googletag.cmd.push(function() { googletag.display('div-gpt-ad-1363370149932-5'); });						</script>
 					</div>
 												</div>
 														<div style="margin: 0 0 10px 0;">
@@ -2320,15 +2389,16 @@ function triggerWiderFunnel(){
 							<h3>Free eBooks</h3>
 							<div class="list">
 				<ul>
-											<li><a href="http://www.favecrafts.com/Green-Crafting/12-thrifty-trash-to-treasure-crafts-eBook">12 Thrifty Trash to Treasure Crafts</a></li>
-												<li><a href="http://www.favecrafts.com/Crochet-Afghans/Afghan-Patterns-eBook-from-Red-Heart-Yarn">25 Afghan Patterns from Red Heart Yarn</a></li>
-												<li><a href="http://www.favecrafts.com/Sewing/8-Free-Apron-Sewing-Patterns-eBook">8 Free Apron Sewing Patterns</a></li>
-												<li><a href="http://www.favecrafts.com/Halloween-Crafts/Homemade-Halloween-Decorations-Blogger-Edition-2010-eBook">Homemade Halloween Decorations</a></li>
-												<li><a href="http://www.favecrafts.com/Painting/How-To-Create-14-Sparkly-Craft-Projects-Using-Krylon-Glitter-Blast-free-eBook-from-Krylon/ml/1">How To Create 14 Sparkly Craft Projects Using Krylon Glitter Blast</a></li>
-												<li><a href="http://www.favecrafts.com/Tie-Dye/How-To-Make-Tie-Dye-Shirts-Decor-and-More-18-Tie-Dye-Patterns-eBook">How to Make Tie Dye Shirts, Decor, &amp; More:  18 Tie Dye Patterns</a></li>
-												<li><a href="http://www.favecrafts.com/Jewelry-Making/Jewelry-For-You-eBook-from-Consumer-Crafts-and-Crafts-Unleashed/">Jewelry for You! How to Make Handmade Beaded Bracelets and Necklaces from Consumer Crafts and Crafts Unleashed</a></li>
-												<li><a href="http://www.favecrafts.com/Crochet/Quick-and-Thrifty-Crochet-Patterns-eBook">Quick &amp; Thrifty Crochet Patterns</a></li>
-												<li><a href="http://www.favecrafts.com/Crochet-Afghans/Weve-Got-You-Covered-25-Crochet-and-Knit-Throws-free-eBook-from-Red-Heart-Yarns">We've Got You Covered: 25 Crochet and Knit Throws</a></li>
+											<li><a href="http://www.favecrafts.com/Tie-Dye/How-To-Make-Tie-Dye-Shirts-Decor-and-More-18-Tie-Dye-Patterns-eBook">18 Tie Dye Patterns for Shirts, Decor, &amp; More</a></li>
+												<li><a href="http://www.favecrafts.com/Crafting-with-Kids/Summer-Crafts-for-Kids-eBook">22 Summer Crafts for Kids</a></li>
+												<li><a href="http://www.favecrafts.com/Wine-Bottle-Crafts/25-Cool-Things-to-Do-with-Wine-Bottles-free-eBook">25 Cool Things to Do with Wine Bottles</a></li>
+												<li><a href="http://www.favecrafts.com/Most-Popular-Crafts/The-Ultimate-Craft-Guide-Free-Craft-Projects-Every-Crafter-free-ebook">25 Free Craft Projects for Every Crafter - The Ultimate Craft Guide</a></li>
+												<li><a href="http://www.favecrafts.com/Fourth-of-July/4th-of-July-Crafts-and-Recipes-eBook">4th of July Crafts and Recipes</a></li>
+												<li><a href="http://www.favecrafts.com/Fathers-Day/Crafts-for-Fathers-Day-36-Homemade-Fathers-Day-Gift-Ideas-free-ebook">Crafts for Father's Day: 36 Homemade Father's Day Gift Ideas</a></li>
+												<li><a href="http://www.favecrafts.com/Garden-and-Outdoor/Garden-Crafts-eBook">Garden Crafts</a></li>
+												<li><a href="http://www.favecrafts.com/Sewn-Bags/How-to-Make-a-Purse-20-Patterns-for-Sewing-Totes-Bags-and-More-free-eBook">How to make a Purse: 20 Patterns for Sewing Totes, Bags, and More</a></li>
+												<li><a href="http://www.favecrafts.com/Organization-Tips/How-to-Organize-Your-Craft-Room-15-Room-Tours-and-DIY-Organization-Ideas-from-Your-Favorite-Bloggers">How to Organize Your Craft Room: 15 Room Tours and DIY Organization Ideas</a></li>
+												<li><a href="http://www.favecrafts.com/Green-Crafting/Trash-to-Treasure-28-Recycled-Crafts-Free-eBook">Trash to Treasure: 28 Recycled Crafts</a></li>
 										</ul>
 			</div>
 		</div><!-- end eBooksRightCol -->
@@ -2342,25 +2412,28 @@ function triggerWiderFunnel(){
 				<table>
 						<tbody><tr>
 																<td>
-										<a target="_blank" href="http://www.facebook.com/FaveCrafts"><img src="/images/social_link_facebook.jpg" alt="Facebook" width="36" height="35"></a>
+										<a title="Follow Us on Facebook" target="_blank" href="http://www.facebook.com/FaveCrafts"><img src="/images/social_link_facebook.jpg" alt="Facebook" width="36" height="35"></a>
 									</td>
 																		<td>
-										<a target="_blank" href="http://twitter.com/FAVECRAFTS"><img src="/images/social_link_twitter.jpg" alt="Twitter" width="35" height="35"></a>
+										<a title="Visit Our Google Plus Page" target="_blank" href="http://plus.google.com/101990056464107965185/posts"><img src="/images/social_link_google-plus.png" alt="Google Plus" width="32" height="32"></a>
 									</td>
 																		<td>
-										<a target="_blank" href="http://pinterest.com/favecrafts/"><img src="/images/social_link_pinterest.jpg" alt="Pinterest" width="35" height="35"></a>
+										<a title="Visit Our Twitter Page" target="_blank" href="http://twitter.com/FAVECRAFTS"><img src="/images/social_link_twitter.jpg" alt="Twitter" width="35" height="35"></a>
 									</td>
 																		<td>
-										<a target="_blank" href="http://www.youtube.com/user/FaveCraftsVideo/featured"><img src="/images/social_link_youtube.jpg" alt="Twitter" width="35" height="35"></a>
+										<a title="Visit Our Pinterest Page" target="_blank" href="http://pinterest.com/favecrafts/"><img src="/images/social_link_pinterest.jpg" alt="Pinterest" width="35" height="35"></a>
 									</td>
 																		<td>
-										<a target="_blank" href="http://www.favecraftsblog.com/"><img src="/images/social_link_blog.jpg" alt="Blog" width="35" height="35"></a>
+										<a title="Visit Our YouTube Channel" target="_blank" href="http://www.youtube.com/user/FaveCraftsVideo/featured"><img src="/images/social_link_youtube.jpg" alt="Twitter" width="35" height="35"></a>
 									</td>
 																		<td>
-										<a href="/section/subctr"><img src="/images/social_link_email.jpg" alt="Email" width="35" height="35"></a>
+										<a title="Read Our Blog" target="_blank" href="http://www.favecraftsblog.com/"><img src="/images/social_link_blog.jpg" alt="Blog" width="35" height="35"></a>
 									</td>
 																		<td>
-										<a href="/rss-feed"><img src="/images/social_link_rss.jpg" alt="RSS" width="35" height="35"></a>
+										<a title="Newsletters" href="/section/subctr"><img src="/images/social_link_email.jpg" alt="Email" width="35" height="35"></a>
+									</td>
+																		<td>
+										<a title="Visit Our RSS Page" href="/rss-feed"><img src="/images/social_link_rss.jpg" alt="RSS" width="35" height="35"></a>
 									</td>
 															</tr>
 					</tbody></table>
@@ -2400,9 +2473,21 @@ function triggerWiderFunnel(){
 		<table style="margin: 0 auto;">
 			<tbody><tr>
 				<td>
-					<p style="margin: 0 10px;">© Copyright 2012 Prime Publishing, LLC. All rights reserved.</p>
+					<p style="margin: 0 10px;">© Copyright 2013 Prime Publishing, LLC. All rights reserved.</p>
 				</td>
-									<td>					<iframe frameborder="0" height="50" marginheight="0" marginwidth="0" scrolling="no" src="http://partners.realgirlsmedia.com/ad_network/mark/148190_FaveCrafts_.html" width="160"></iframe>
+									<td>					<style>
+						.networkLogo {width:60px;}
+						.networkLogo a {
+					    background-image: url("http://images.meredith.com/parents/images/template/shell/2012/brands-sprite.png");
+					    background-repeat: no-repeat;
+					    background-position: 0 -150px;
+					    display: block;
+					    overflow: hidden;
+					    text-indent: 120%;
+					}
+					</style>
+					<div class="networkLogo"><a href="http://www.parents.com">Parents</a></div>
+
 					</td>
 								</tr>
 		</tbody></table>
@@ -2428,7 +2513,7 @@ function triggerWiderFunnel(){
 	
 	
 <div id="printFooter">
-	<p>© Copyright 2012 Prime Publishing, LLC. All rights reserved.</p>
+	<p>© Copyright 2013 Prime Publishing, LLC. All rights reserved.</p>
 	
 	<p>www.favecrafts.com</p>
 </div><!-- end printFooter -->
@@ -2606,8 +2691,8 @@ function triggerWiderFunnel(){
 
 	
 
-		<div id="viewportGreyout"></div>
-		
+<div id="viewportGreyout"></div>
+
 
 
 	
@@ -2676,9 +2761,7 @@ function triggerWiderFunnel(){
 					
 					<p>
 	Privacy Policy / Your California Privacy Rights<br>
-	Revised and posted as of August 8, 2012</p>
-<p>
-	(Please note this version of the Privacy and Security Policy does not substantively change the way Prime Publishing LLC treats personally identifiable information compared to the <a href="http://www.favecrafts.com/index.php/hct/privacy_policy2008" target="_blank">previous version of the Privacy and Security Policy</a>.)</p>
+	Revised and posted as of March 4, 2013</p>
 <p>
 	Prime Publishing, LLC ("Company," "we" or "us") reserves the right to revise this Privacy Policy at any time simply by posting such revision, so we encourage you to review it periodically. In order to track any changes to this Privacy Policy, we will include a historical reference at the top of this document.</p>
 <p>
@@ -2790,6 +2873,10 @@ function triggerWiderFunnel(){
 <p>
 	Additionally, we may share, license or sell your information to third parties for use in their data validation, enhancement, information verification services, and, to the extent permitted by law, individual reference or look-up services.</p>
 <p>
+	Third Party Cookies</p>
+<p>
+	Notwithstanding anything else in this policy, we or a data provider we have engaged may place or recognize a unique cookie on your browser to enable you to receive customized ads or content.&nbsp;&nbsp; These cookies contain no personally identifiable information.&nbsp; The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, that we may share with a data provider solely in hashed, non-human readable form. To opt-out of these cookies, please go to http://www.aboutads.info/choices.</p>
+<p>
 	Governmental Agencies or Other Companies<br>
 	We may share your information with law enforcement officials or governmental agencies: (1) in response to their request; (2) when permitted or required by law; or (3) to establish our compliance with applicable laws, rules, regulations, or guidelines.</p>
 <p>
@@ -2849,10 +2936,26 @@ function triggerWiderFunnel(){
 		
 				
 		
+		<!-- START Google Remarketing code -->
+				
+		<!-- END Google Remarketing code -->
+		
+		
+		
+		<!-- START datonics.com -->
+						<script type="text/javascript" src="http://ads.pro-market.net/ads/scripts/site-132971.js"></script>
+						<!-- END datonics.com -->
+		
+		<!-- START swoop -->
+				<!-- END swoop -->
+
+
+
+		
 				
 		
 		
-		....		
+		..		
 		
 
 
