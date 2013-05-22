@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the praxisnow.com privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203041059id_/http%3A//www.praxisnow.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the praxisnow.com privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522150355id_/http%3A//www.praxisnow.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - PraxisNow
 
@@ -94,13 +94,13 @@ We do not sell, rent, or disclose your personal information to anyone else, exce
 (a) to someone you have designated to act as your agent, for one or more of the Identified Purposes  
 (listed in Section 3, above); 
 
-(b) to Praxis’ employees, independent contractors, subsidiaries, joint venturers, affiliates, consultants,  
+(b) to Praxis' employees, independent contractors, subsidiaries, joint venturers, affiliates, consultants,  
 business associates, service providers, suppliers and agents, acting on our behalf for any of the  
 Identified Purposes; 
 
 (c) as necessary if Praxis has reason to believe that disclosure is necessary to identify, contact or  
 bring legal action against someone who may be causing injury to or interference (either intentionally or  
-unintentionally) with Praxis’ rights or property, other users of the Website, products or services, or  
+unintentionally) with Praxis' rights or property, other users of the Website, products or services, or  
 anyone else that could be harmed by such activities; and 
 
 (d) to respond to judicial process and provide information to law enforcement agencies or in connection with  
@@ -124,7 +124,7 @@ from users to update its own records.
 
 7\. Security Safeguards 
 
-Praxis will use commercially reasonable efforts to protect user’s personal information. 
+Praxis will use commercially reasonable efforts to protect user's personal information. 
 
 8\. Access to Personal Information 
 
@@ -135,7 +135,7 @@ Praxis Now, LLC
 PO Box 5020 PMB 1101  
 Rancho Santa Fe, CA 92067 
 
-If Praxis is not able to provide access to some aspect of a user’s personal information, it will provide  
+If Praxis is not able to provide access to some aspect of a user's personal information, it will provide  
 reasons for denying access such as: that by doing so would likely reveal personal information about a third party,  
 or that it is confidential commercial information or attorney-client privileged communications, or that the  
 information relates to a breach of an agreement or a contravention of law, or that its disclosure could reasonably  
