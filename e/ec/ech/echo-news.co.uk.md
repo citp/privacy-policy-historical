@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the echo-news.co.uk privacy policy that was archived on 2012-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121220103651id_/http%3A//www.echo-news.co.uk/my/account/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the echo-news.co.uk privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522205716id_/http%3A//www.echo-news.co.uk/my/account/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
