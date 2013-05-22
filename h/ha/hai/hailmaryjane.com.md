@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hailmaryjane.com privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124025036id_/http%3A//www.hailmaryjane.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hailmaryjane.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523012623id_/http%3A//www.hailmaryjane.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Hail Mary Jane
 
@@ -36,7 +36,7 @@ With respect to Ad Servers: To try and bring you offers that are of interest to 
 
 [www.doubleclick.com/privacy](http://www.doubleclick.com/privacy "http://www.doubleclick.com/privacy")
 
-[support.grass](http://support.grass/ "http://support.grass") city sucks/forums/21150/entries/24595
+[support](http://support/ "http://support").[grass city](http://www.hailmaryjane.com/GrassCity) sucks/forums/21150/entries/24595
 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will contact you before we use your data for these new purposes to notify you of the policy change and to provide you with the ability to opt out of these new uses.
 
@@ -47,4 +47,4 @@ Upon request we offer visitors no ability to have factual inaccuracies corrected
 
 With respect to security: When we transfer and receive certain types of sensitive information such as financial or health information, we redirect visitors to a secure server and will notify visitors through a pop-up screen on our site.
 
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number. 
+If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
