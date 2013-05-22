@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rotorblog.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225075039id_/http%3A//www.webmediabrands.com/corporate/privacy/privacypolicy.html%3Fnav%3Dftc) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rotorblog.com privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522050756id_/http%3A//www.webmediabrands.com/corporate/privacy/privacypolicy.html%3Fnav%3Dftc) for the most accurate reproduction.*
 
 # WebMediaBrands Career Opportunities
 
@@ -70,6 +70,8 @@ Please keep in mind that whenever you voluntarily disclose personal information 
 
 Certain WEBM media properties use a shopping cart feature that safeguards this information by using industry standard SSL (Secure Socket Layer) encrypted servers. SSL codes the information transferred between you and the server, rendering it unreadable to anyone trying to intercept the information. Other WEBM media properties do not use SSL and thereby do not offer a secure coded way to transfer information. Ultimately, you are solely responsible for maintaining the secrecy of your personal information. Please be careful and responsible whenever you're online. 
 
+We share non-personal information about your activity at our website with third parties for the purpose of tailoring, analyzing, and reporting on content and advertising you see on this and other websites. These third parties may use cookies, web beacons, and/or other technologies to tailor the sponsored content links you see here and at other websites you may visit. In addition, we share with these third parties any information you voluntarily provide in response to an advertisement or sponsored content links. For more information about the information that is collected and used by third parties, and your ability to opt-out of their collection and use of this information, please follow the links in or adjacent to any sponsored content or advertising displayed on this website.
+
 #### Business transfers
 
 We are always seeking to improve our network of Web sites and our business. In accomplishing these objectives, we may sell a company, assets or Web sites or one or more of the companies in our corporate family may merge with, or be acquired by, another company. In connection with the foregoing, we may transfer some or all of your information in order that the service being provided to you may continue or for other business purposes. 
@@ -84,6 +86,6 @@ Please note that your use of the WEBM network of Web sites is governed by our [L
 
 WebMediaBrands participates in the Safe Harbor program and adheres to the Safe Harbor principles developed by the U.S. Department of Commerce and the European Union or Switzerland. For more information about the Safe Harbor program, please visit the U.S. Department of Commerce’s Safe Harbor website <http://www.export.gov/safeharbor/>
 
-WebMediaBrands has further committed to refer unresolved privacy complaints under the US-EU or Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU or Swiss SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by WebMediabrands, please visit the BBB EU OR SWISS SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](https://web.archive.org/web/20121225075039id_/http%3A//www.webmediabrands.com/corporate/privacy/www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint. 
+WebMediaBrands has further committed to refer unresolved privacy complaints under the US-EU or Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU or Swiss SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by WebMediabrands, please visit the BBB EU OR SWISS SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](https://web.archive.org/web/20130522050756id_/http%3A//www.webmediabrands.com/corporate/privacy/www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint. 
 
-(Revised October, 2012) 
+(Revised May, 2013) 
