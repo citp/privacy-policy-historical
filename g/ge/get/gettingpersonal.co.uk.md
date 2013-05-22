@@ -1,10 +1,9 @@
-> *The following text is extracted and transformed from the gettingpersonal.co.uk privacy policy that was archived on 2012-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121026132517id_/http%3A//www.gettingpersonal.co.uk/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gettingpersonal.co.uk privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522204658id_/http%3A//www.gettingpersonal.co.uk/privacy.htm) for the most accurate reproduction.*
 
 # Getting Personal
 
 ## Your details and information are important - we will protect them...
 
-  
 GettingPersonal.co.uk is committed to preserving the privacy of all visitors to our website. Please read the following privacy policy to understand how we use and protect the information that you provide to us. 
 
 By registering or placing an order on this website, you consent to the collection, use and transfer of your information under the terms of this policy. 
@@ -97,3 +96,15 @@ All comments, queries and requests relating to our use of your information are w
 **Other web sites**
 
 Our web site may contain links to other web sites which are outside our control and are not covered by this privacy policy. If you access other sites using the links provided, the operators of these sites may collect information from you which will be used by them in accordance with their privacy policy, which may differ from ours.
+
+ **Anti-spam Policy**
+
+GettingPersonal.co.uk sends regular emails to it's members. If you receive email from GettingPersonal.co.uk it is because you have opted-in to receive those emails, either directly on our website or via a third party website.
+
+Information submitted to us is only available to employees managing this information for purposes of contacting you or sending you emails based on your request and providing services relating to our communications with you.
+
+All emails sent by GettingPersonal.co.uk include a prominent unsubscribe link. To stop receiving emails from GettingPersonal.co.uk, simply click the link on the email and confirm your request. We process unsubscribe requests immediately.
+
+If you receive an email message that you think is spam, sent from GettingPersonal.co.uk or sent on behalf of GettingPersonal.co.uk, please let us know the details using the contact methods below and we will then investigate the matter.
+
+If you have questions regarding this anti-spam policy, please contact GettingPersonal.co.uk using the following email address: ask@gettingpersonal.co.uk
