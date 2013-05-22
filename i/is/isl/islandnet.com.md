@@ -1,24 +1,24 @@
-> *The following text is extracted and transformed from the islandnet.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021190554id_/https%3A//hd.islandnet.com/view-article/6-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the islandnet.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523012610id_/https%3A//hd.islandnet.com/view-article/6-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-The policies outlined below deal only with the use of customer and related information. You might also want to view our [**Terms of Use**](https://hd.islandnet.com/view-article/5-terms-of-service.html).
+The policies outlined below deal only with the use of customer and related information. You might also want to view our [**Terms of Service**](https://web.archive.org/view-article/5-terms-of-service).
 
 In compliance with the Canadian government's _[Privacy Act](http://laws-lois.justice.gc.ca/eng/acts/P-8.6/), [Personal Information Protection and Electronic Documents Act](http://laws-lois.justice.gc.ca/eng/acts/P-8.6/)_, and British Columbia's _[Personal Information Privacy Act](http://www.oipcbc.org/legislation.htm)_ , this policy sets out the information required from customers by [Islandnet.com](http://www.islandnet.com/), why it is required, and how such information is dealt with while the customer continues to do business with Islandnet and afterward.
 
 ## Index
 
-[No Third Parties ](https://hd.islandnet.com/view-article/6-privacy-policy.html#third-parties)| How customer information is dealt with when Islandnet deals with third parties.  
+No Third Parties | How customer information is dealt with when Islandnet deals with third parties.  
 ---|---  
-[Required Information](https://hd.islandnet.com/view-article/6-privacy-policy.html#required)| What information is required from customers by Islandnet in the course of conducting its business and what is done with the information.  
-[Old Customer Information](https://hd.islandnet.com/view-article/6-privacy-policy.html#old)| What happens to customer information once customers terminate their Islandnet account.  
-[Contests and Customer Surveys ](https://hd.islandnet.com/view-article/6-privacy-policy.html#contests)| What happens with information gathered during contests and surveys.  
-[Customer Internet Use ](https://hd.islandnet.com/view-article/6-privacy-policy.html#use)| How Islandnet treats information related to general and specific customer Internet use.  
-[Customer Internet Files](https://hd.islandnet.com/view-article/6-privacy-policy.html#files)| How customer files are dealt with while a customer uses Islandnet services, when the customer account has been suspended, and when the customer's account has been terminated.  
-[Privacy Officer ](https://hd.islandnet.com/view-article/6-privacy-policy.html#officer)| How to contact Islandnet's Privacy Officer to make a request or lodge a complaint.  
-[Updating Customer Information](https://hd.islandnet.com/view-article/6-privacy-policy.html#update)| How customers can update the information kept by Islandnet.  
-[Credit Rating Information ](https://hd.islandnet.com/view-article/6-privacy-policy.html#credit)| How Islandnet deals with customer credit rating information and how Islandnet reports to credit rating agencies.  
-[Disposal of Customer Information ](https://hd.islandnet.com/view-article/6-privacy-policy.html#dispose)| What Islandnet does when disposing of customer information.  
+Required Information| What information is required from customers by Islandnet in the course of conducting its business and what is done with the information.  
+Old Customer Information| What happens to customer information once customers terminate their Islandnet account.  
+Contests and Customer Surveys | What happens with information gathered during contests and surveys.  
+Customer Internet Use | How Islandnet treats information related to general and specific customer Internet use.  
+Customer Internet Files| How customer files are dealt with while a customer uses Islandnet services, when the customer account has been suspended, and when the customer's account has been terminated.  
+Privacy Officer | How to contact Islandnet's Privacy Officer to make a request or lodge a complaint.  
+Updating Customer Information| How customers can update the information kept by Islandnet.  
+Credit Rating Information | How Islandnet deals with customer credit rating information and how Islandnet reports to credit rating agencies.  
+Disposal of Customer Information | What Islandnet does when disposing of customer information.  
   
 ## No Third Parties:
 
@@ -97,7 +97,7 @@ V9B 2X4
 
 Customers may update their personal information, such as telephone number, street address, e-mail address, et cetera at any time by using the online facilities provided on Islandnet's websites. For information on how to access online facilities to change your personal information, please call 250-383-0096 or 800-331-3055 or e-mail [support@islandnet.com](mailto:support@islandnet.com?subject=Updating%20My%20Personal%20Information).
 
-To change other information, customers may contact the [Privacy Officer](https://hd.islandnet.com/view-article/6-privacy-policy.html#officer) and make a request.
+To change other information, customers may contact the Privacy Officer and make a request.
 
 ## Credit Rating Information :
 
