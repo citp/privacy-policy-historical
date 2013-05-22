@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the askpedia.com privacy policy that was archived on 2010-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100306140424id_/http%3A//www.askpedia.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the askpedia.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523010950id_/http%3A//www.askpedia.com/about/privacy) for the most accurate reproduction.*
 
 # Askpedia - All the Questions and Answers on the Web
-
-Last revised: September 1, 2009
-
-Askpedia Privacy Policy 
 
 Askpedia realizes that privacy is an important issue for our users. This document outlines the type of information that Askpedia (“we,” “us,”, or “Askpedia”) collects when our users use our services, and the steps that we take to safeguard your information. 
 
