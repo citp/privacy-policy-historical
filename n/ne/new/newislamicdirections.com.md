@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the newislamicdirections.com privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121110833id_/http%3A//www.newislamicdirections.com/nid/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newislamicdirections.com privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522232248id_/http%3A//newislamicdirections.com/nid/privacy) for the most accurate reproduction.*
 
 # New Islamic Directions - Imam Zaid Shakir
-
-Privacy
 
 Protecting your privacy is important to New Islamic Directions. We strive to keep your personal information confidential. By ensuring that you are aware of and understand the New Islamic Directions Customer Privacy Policy, we can provide you with better service. Please take a moment to read the following policy to learn how we handle your personal information.
 
