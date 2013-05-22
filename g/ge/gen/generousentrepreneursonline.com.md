@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the generousentrepreneursonline.com privacy policy that was archived on 2012-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121113144714id_/http%3A//generousentrepreneursonline.com/contact/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the generousentrepreneursonline.com privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522040820id_/http%3A//generousentrepreneursonline.com/contact/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy |
 
