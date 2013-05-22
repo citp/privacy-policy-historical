@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the o2online.ie privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119234508id_/https%3A//www.o2online.ie/o2/legal/consumer/index.php%3Fcid%3D148) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the o2online.ie privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523015213id_/http%3A//www.o2online.ie/o2/legal/consumer/index.php%3Fcid%3D148) for the most accurate reproduction.*
 
 # Privacy & Cookies<br /> Policy
 
@@ -181,7 +181,7 @@ A "cookie" is a piece of information, like a tag, which some websites create on 
 In order to provide you with the best possible online experience, O2 may create cookies when you visit the O2 site. Cookies may be used to help you in the following ways: to limit the frequency with which you will see particular advertisements or O2 announcements on the site; to identify your defaults if you have set up a customised homepage; to keep track of how many times you do specific things whilst using O2, to track where you have come from if you were referred to our website; to provide you with self-help information; and to make our email offers more relevant to you by taking into account your response to previous email offers.  
 Our cookies will not be used to analyse your visits to other sites. Agents of O2, who assist in the serving, and targeting of advertisements, promotions and other marketing messages may use cookies to collect anonymous data such as how many people have viewed a particular page each day. Data collected by cookies will not otherwise be passed to any third party. You have the ability to accept or decline cookies.   
 Most PCs automatically accept them but you can modify your browser settings to decline if you so wish. If you decline cookies, some aspects of the O2 site may not work on your PC and you may not be able to access areas you want on the website. For this reason we recommend that you accept cookies. O2 will not store any sensitive information relating to you or your user account in a cookie.  
-For further information on Cookies and how you adjust your browser settings in relation to Cookies, please click [here.](http://www.o2online.ie/o2/uploads/pdfs/terms/consumer/Cookies-Info-Sheet-13-3-12.pdf)
+For further information on Cookies and how you adjust your browser settings in relation to Cookies, please click [here.](http://www.o2online.ie/o2/uploads/pdfs/terms/consumer/Cookies%20Information%20Sheet%20for%20Privacy%20Policy%2015012013.pdf)
 
 ## 8\. Access to your Information
 
