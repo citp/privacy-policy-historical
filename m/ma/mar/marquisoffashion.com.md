@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the marquisoffashion.com privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521184858id_/http%3A//www.fashionblogblogger.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marquisoffashion.com privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522165849id_/http%3A//www.fashionbloginc.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy Fashion Blog
+# Privacy Policy
 
 **Privacy** **Policy**
 
@@ -28,7 +28,7 @@ We implement a variety of security measures to maintain the safety of your perso
 
 **Do we use cookies?**
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data [about ](http://www.fashionblogblogger.com/about "about ")site traffic and site interaction so that we can offer better site experiences and tools in the future.
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
 **Do we disclose any information to outside parties?**
 
@@ -49,6 +49,3 @@ By using our site, you consent to our web site privacy policy
 **Changes to our Privacy Policy**
 
 If we decide to change our privacy policy, we will post those changes on this page.
-
-Tags: [Fashion Blogger](http://www.fashionblogblogger.com/tag/fashion-blogger)   
-
