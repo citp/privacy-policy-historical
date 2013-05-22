@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fashionbloginc.com privacy policy that was archived on 2012-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121025075126id_/http%3A//fashionbloginc.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashionbloginc.com privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522165849id_/http%3A//www.fashionbloginc.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
