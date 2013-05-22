@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zenithbank.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504021331id_/http%3A//www.zenithbank.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zenithbank.com privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522164603id_/http%3A//www.zenithbank.com/privacy.cfm) for the most accurate reproduction.*
 
 # Welcome to Zenith Bank > Privacy Policy
 
@@ -17,7 +17,7 @@ Privacy
    
 |  |  | 
 
-You are Here: [Home ](https://web.archive.org/web/20120504021331id_/http%3A//www.zenithbank.com/index.cfm)»[ ](https://web.archive.org/web/20120504021331id_/http%3A//www.zenithbank.com/financials.cfm)Privacy Policy 
+You are Here: [Home ](https://web.archive.org/web/20130522164603id_/http%3A//www.zenithbank.com/index.cfm)»[ ](https://web.archive.org/web/20130522164603id_/http%3A//www.zenithbank.com/financials.cfm)Privacy Policy 
 
   
   
