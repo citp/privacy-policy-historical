@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lookuppage.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227101320id_/http%3A//www.lookuppage.com/lookup-page/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lookuppage.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523000611id_/http%3A//www.lookuppage.com/lookup-page/policy) for the most accurate reproduction.*
 
 # LookupPage | Privacy Policy
 
