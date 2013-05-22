@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the immigrationdirect.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130201723id_/http%3A//www.immigrationdirect.com/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the immigrationdirect.com privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522121839id_/http%3A//www.immigrationdirect.com/privacy-policy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy - Immigration Direct - Immigration Services Online
 
@@ -112,10 +112,8 @@ By using the Website, you hereby accept all of the terms set forth in our Privac
 
 If you believe that we have not complied with this Privacy Policy, please contact us at [privacy@immigrationdirect.com](mailto:privacy@immigrationdirect.com).
 
-Disclaimer: The information provided on this site is not legal advice but general information on issues commonly encountered when dealing with immigration matters. Immigration Direct is not affiliated with the United States government, is not a law firm, and is not a substitute for an attorney or law firm. Immigration Direct does not provide legal advice, opinions or recommendations to its users about their possible legal rights, legal remedies, legal defenses, legal options or legal strategies, selection of forms, or answers to specific questions on forms. Immigration Direct only provides self-help services at a user's direction. Communications between you and Immigration Direct are not protected by any privilege. Purchase price does not include application or filing fees that may be charged by the United States Citizenship and Immigration Services or by any other agency. Please note that your access to and use of this site is subject to   
-Immigration Direct's Terms of Use, which, by using this site, you are agreeing to.
+Disclaimer: The information provided on this site is not legal advice but general information on issues commonly encountered when dealing with immigration matters. Immigration Direct is not affiliated with the United States government, is not a law firm, and is not a substitute for an attorney or law firm. Immigration Direct does not provide legal advice, opinions or recommendations to its users about their possible legal rights, legal remedies, legal defenses, legal options or legal strategies, selection of forms, or answers to specific questions on forms. Immigration Direct only provides self-help services at a user's direction. Communications between you and Immigration Direct are not protected by any privilege. Purchase price does not include application or filing fees that may be charged by the United States Citizenship and Immigration Services or by any other agency. Please note that your access to and use of this site is subject to Immigration Direct's Terms of Use, which, by using this site, you are agreeing to.
 
-The "Immigration Direct" mark and the "Simplifying Immigration" mark are service marks registered with the   
-United States Patent and Trademark Office under the laws of the United States of America.
+The "Immigration Direct" mark and the "Simplifying Immigration" mark are service marks registered with the United States Patent and Trademark Office under the laws of the United States of America.
 
-Copyright © 2007-2012 Immigration Direct. All Rights Reserved. 
+Copyright © 2007-2013 Immigration Direct. All Rights Reserved.
