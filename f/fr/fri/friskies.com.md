@@ -1,51 +1,151 @@
-> *The following text is extracted and transformed from the friskies.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016193237id_/http%3A//www.purina.com/General/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the friskies.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523012346id_/http%3A//www.purina.com/General/Privacy.aspx) for the most accurate reproduction.*
 
-# Purina.Com | Caring Privacy Policy | Purina.com
+# Privacy Policy - Purina®
 
-### Privacy Policy
+### 
 
-Purina® is dedicated to protecting your privacy on its Internet Websites. You can expect the same standard of privacy protection on our Internet sites that we extend to you in any other interaction with Purina® and its brands. Purina®'s policy on privacy is in accordance with the Direct Marketing Association's Marketing Online Privacy Principles. 
+### **This Privacy Policy applies to our sites and apps.**
 
-### Personally Volunteered Information
+### **We collect information from and about you.**
 
-We only collect personal information from our visitors on a voluntary basis. Personal information may include name, postal address, e-mail address, types and names of pets, credit card information (in the case of electronic commerce only), etc. The personal information you volunteer to us is used to fulfill your request, provide you with information or to market products, events, and/or services that may be of interest to you. These offers may come directly from us, from our affiliates or from other reputable organizations whose privacy policies are in line with our own. Each offer is carefully examined to ensure that it meets our standards. Additionally, we try to make sure that these offers reach only those individuals most likely to be interested in them. We may also share your personal information with our marketing partners to whom you have previously provided your personal information. Your information is also shared with our partner agencies who assist us in administering the site and various programs and promotions. These agencies can only use the information to administer our site and programs and are bound to keep your information private and secure. Also, any information may be transferred (a) to an organization that purchases all or substantially all of Purina®'s assets or stock, (b) as required by law or by court order, or (c) as part of a reorganization or insolvency proceeding. If your personal information is to be used in any fashion other than the above mentioned, this intent will be expressly stated.
+### **We collect information in different ways.**
 
-### Other Personal Information
+### **We use information as disclosed and described here.**
 
-Our Web server collects the domain names (not the e-mail addresses) of visitors to our Websites. This information is aggregated to measure basic usage data such as the number of visits, average time spent on the site, pages reviewed, etc. which is used by Purina® to improve the content of our Websites.
+### **We may share information with third parties.**
 
-We may use 'cookies' on some pages of our Websites to help us serve you better each time you return. A cookie is a small text file which is sent by a Web site, accepted by a Web browser and then placed on your hard drive. The cookies used by Purina® contain only the information that you submit to Purina® via our Guestbook. You therefore have control over the information that is stored in the cookie. The cookie expires after one year, so there is little concern about it storing outdated information. You can always set your browser to warn you when a cookie is sent to you. This will give you more control over acceptance of them.
+### **You have certain choices about sharing and marketing practices.**
 
-The data collected from these cookies helps us to analyze browsing patterns of our visitors in order to improve the content and design of our Websites. The information collected from these cookies is for the exclusive use of Purina® and its affiliates, and will not be shared with other vendors.
+### ****These sites and children.****
 
-Remember: you are always able to alter any personal information that you have already submitted. Please see contact information below.
+### **We use standard security measures.**
 
-### Children
+### **We may link to other sites or have third party services on our site we don’t control.**
 
-Purina® has no intention of collecting any personal information from individuals under eighteen years of age. Where appropriate, Purina® will specifically instruct children not to submit such information on our Websites. If a child has provided us with information, a parent or guardian of that child should contact us if they would like this information deleted from our records. We will use reasonable efforts to delete the child's information from our existing files.
+### **Feel free to contact us if you have more questions.**
 
-### Other
+### **We may update this Policy.**
 
-The information that you provide to us is not sold to third party data compilation services. From time to time, we may make the postal addresses of our customers available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share this information, you are given the opportunity to decline or you may contact us at the address or telephone number below to request that we not share your information in such a manner.
+### This Privacy Policy applies to our sites and apps.
 
-If you send a friend an e-mail from the site referring the friend to the site, the “referral” information you provide is used on a one-time basis to facilitate this communication and is not further retained by Purina® unless this individual indicates he/she wants to receive Purina® communications.
+This Policy describes how we treat U.S. consumer personal information on our US websites where it is located. This includes our brand websites like [www.Purina.com](https://web.archive.org/ "Home").  It also applies to our mobile and social media applications. Throughout this policy, the terms "we", "us", "our", and  "Purina" refer to Nestlé Purina PetCare Company, a U.S. corporation,  and any of its direct and indirect subsidiaries.   “You” refers to any person accessing and/or using this website. 
 
-Purina® attempts to only link to sites which have similarly high respect for your privacy. However, we are not responsible for the content or the privacy practices employed by other sites. Should you have a problem with privacy on any site we link to please let us know by contacting our Office of Consumer Affairs.
+This policy does not apply to business to business interactions or Purina business customers. This policy also does not apply to interactions you might have with us in other places, including offline.
 
-### Security
+* * *
 
-Purina® takes reasonable measures to keep all information about our online visitors secure against unauthorized access and periodically reviews the security measures of all our internet sites.
+### We collect information from and about you
 
-### Contact Information
+**Contact information.  ** For example, we might collect your name and postal address. We might also collect your phone number or email address.
 
-If you would like to add your name, correct your information or remove your name from our mailing list, please e-mail us at: Office of Consumer Affairs or contact us at: Office of Consumer Affairs, telephone 800-778-7462. You will always be able to opt out of any promotional offers or notification of new products when personal information is collected.
+**Information you submit or post.  ** We collect the information you post publicly or information you provide through a survey. For example, we might ask what kind of pet you have or the type of pet food you prefer.  To learn more about our terms for User Generated Content Terms and Conditions, [click here.](https://web.archive.org/terms-and-conditions#UserGeneratedContent "Terms and Conditions")
 
-We reserve the right to make changes to this policy. Any changes to this policy will be posted.
+**Payment information.  ** If you make online purchases, we collect your credit card information.
 
-As a demonstration of our commitment to protecting your privacy, we have provided links to other privacy organizations.
+**Demographic information.  ** We may collect information like your gender and age if you fill out an online form or survey.  We may collect your zip code.
 
-[The Federal Trade Commission](http://www.ftc.gov/privacy/index.html)
+**We collect information about your computer or device, and your Internet usage.  ** If you download our application, we may collect information from your phone.  We may work with third parties who collect information about you when you use our websites or apps.  For example, we may collect information about the browser you’re using.
 
-[Cookie Central](http://www.cookiecentral.com/)
+**Other information.** We might look at what site you came from, or what site you visit when you leave us, what links you click on, or what pages you view.  In a mobile environment, we might collect your location. 
 
-Purina.com February, 2007
+* * *
+
+### We collect information in different ways.
+
+**We collect information directly from you.** For example, if you sign up for newsletters, make an online purchase, or enter a promotion.  We also collect information if you fill out an online form. 
+
+**We collect information from you passively.** We use tracking tools like browser cookies and web beacons. We also collect information from our mobile apps. 
+
+**We get information about you from third parties.** For example, social media platforms may give us information about you. 
+
+* * *
+
+### We use information as disclosed and described here.
+
+**We use information to respond to your requests or questions.** For example, we might use your information to respond to your customer feedback.  We may also use your information to notify you if you win a sweepstakes.  We may use your friend’s email address if you use our Tell-A-Friend feature.
+
+**We use information to improve our products and services.** We may use your information to make our website and products better. We might use your information to customize your experience with us. We may combine information we get from you with information about you we get from third parties. 
+
+**We use information for security purposes.** We may use information to protect our company, our customers, and our websites.
+
+**We use information for marketing purposes.** For example, we might send you information about new products and special offers we think you might like. We might tell you about new features, updates, or offers we think you might find interesting. If you register with us, we’ll enroll you in our email newsletter.  We may also use push notifications on our mobile apps. To manage this, read the choices section below.
+
+**We use information to communicate with you about your account or our relationship.** We may contact you about your account or purchases. We might also contact you about this Policy or our website Terms.
+
+We use information as otherwise permitted by law.
+
+* * *
+
+### We may share information with third parties.
+
+**We will share information with third parties who perform services on our behalf.** For example, we share information with vendors who send emails for us.  We may also share information with companies that operate our websites or run a promotion. These parties are bound to keep your information secure.
+
+**We will share information if we think we have to in order to comply with the law or to protect ourselves.** For example, we will share information to respond to a court order or subpoena. We may share it if a government agency or investigatory body requests. We might share information when we are investigating potential fraud.  This might include fraud we think has happened during a sweepstakes or promotion.
+
+**We may share information with any successor to all or part of our business.** For example, if part of our business was sold we may give our customer list as part of that transaction.
+
+**We may share information for other reasons we may describe to you.**
+
+* * *
+
+### You have certain choices about sharing and marketing practices.
+
+You can opt out of receiving our marketing emails. To stop receiving our promotional emails, follow the instructions in any promotional message you get from us or contact our [Office of Consumer Affairs](http://signin.purina.com/contact). Even if you opt out of getting marketing messages, we will still send you transactional messages.  These include responses to your questions or information about your account or purchases.
+
+You can edit information we maintain. To update or correct information we have about you, please contact our [Office of Consumer Affairs](http://signin.purina.com/contact). Some of our sites may also let you modify your account profile.
+
+You can control cookies and tracking tools. To learn how to manage cookies and other tracking tools, please [click here](https://web.archive.org/about-our-ads "About Our Ads") .
+
+You can control tools on your mobile devices. For example, you can turn off the GPS locator or push notifications on your phone for some of our mobile apps that might have such notifications. 
+
+* * *
+
+### ** **
+
+### **These sites and children.**
+
+Our sites and apps are meant for adults and we believe are appealing to an adult market. We do not knowingly collect personally identifiable information from children under 18 without permission from a parent or guardian. If you are a parent or legal guardian and think your child has given us information, you can email us. You can also write to us at the address listed at the end of this policy. Please mark your inquiries “COPPA Information Request.”
+
+Parents, you can learn more about how to protect children's privacy on-line [here](http://www.ftc.gov/privacy/privacyinitiatives/childrens_educ.html).
+
+* * *
+
+### We use standard security measures.
+
+We use standard security measures on our sites and apps.  However, the Internet is not 100% secure. We cannot promise that your use of our sites will be completely safe. We encourage you to use caution when using the Internet. This includes not sharing your passwords. 
+
+We keep personal information as long as it is necessary or relevant for the practices described in this Policy. We also keep information as otherwise required by law. 
+
+* * *
+
+### ** **
+
+### **We store information in the United States.**
+
+If you live outside of the United States, you understand and agree that we may transfer your information to the United States. This site is subject to U.S. laws, which may not afford the same level of protection as those in your country.
+
+* * *
+
+### We may link to other sites or have third party services on our site we don’t control.
+
+If you click on a link to a third party site, you will be taken to websites we do not control.  This includes social media sites. This policy does not apply to the privacy practices of these websites. Read the privacy policy of other websites carefully. We are not responsible for these third party practices. Our site may also serve third party ads or other content that contains their own cookies or tracking technologies. To learn more, [click here](https://web.archive.org/about-our-ads "About Our Ads"). We do not control the use of those technologies.
+
+* * *
+
+### Feel free to contact us if you have more questions.
+
+If you have any questions about this Policy, please email us at privacyquestions@purina.nestle.com
+
+You can also write to us at:               
+
+Nestlé Purina PetCare Company  
+Attn: Privacy Question- Legal Department  
+Checkerboard Square St. Louis, MO 63164
+
+* * *
+
+### We may update this Policy.
+
+From time to time we may change our privacy policies. We will notify you of any material changes to our Policy as required by law. We will also post an updated copy on our website.  Please check our site periodically for updates.
+
+Last revised: February 13, 2013
