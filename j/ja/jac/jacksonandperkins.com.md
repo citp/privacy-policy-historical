@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jacksonandperkins.com privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121145038id_/http%3A//www.jacksonandperkins.com/privacy-statement/a/534) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jacksonandperkins.com privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522145035id_/http%3A//www.jacksonandperkins.com/privacy-statement/a/534) for the most accurate reproduction.*
 
-# Privacy Policy | Jackson and Perkins
+# | Jackson and Perkins
 
 This website ("jacksonandperkins.com") is owned by JPPA, Inc. It is our policy to protect your personal information and to use it in accordance with this Privacy Policy. Please take a few moments to review our Privacy Policy. 
 
@@ -61,7 +61,7 @@ We work hard to protect the security of your information by using Secure Socket 
 
 ## 
 
-Encryption
+_Encryption_
 
 **What is Encryption?**
 
