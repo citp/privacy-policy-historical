@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filmandtvpro.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116025658id_/http%3A//www.filmandtvpro.com/uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filmandtvpro.com privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522115903id_/http%3A//www.filmandtvpro.com/uk/privacy.php) for the most accurate reproduction.*
 
 # Film and TV Pro | Jobs and networking in the film and TV industry
 
