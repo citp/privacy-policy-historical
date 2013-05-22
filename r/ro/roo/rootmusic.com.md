@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the rootmusic.com privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201124728id_/https%3A//www.bandpage.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rootmusic.com privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522034659id_/https%3A//www.bandpage.com/company/privacy) for the most accurate reproduction.*
 
-# BandPage | Privacy Statement
-
-Effective Date: July 24, 2012
+# BandPage
 
 Here at BandPage, Inc. (“BandPage”), we understand and respect your concerns about the use of your personal information. We believe that you should know what information about you we collect, as well as how that information is used, maintained, and, in some cases, shared. The following sets forth our practices and policies regarding our collection, use, and disclosure of personal information on our BandPage™ service (the “Service”), which is available through our websites at bandpage.com, rootmusic.com, and listn.to (collectively, the “Website”), as well as on certain third-party platforms, websites, domains, and services (e.g., the Facebook platform, our BandPage Everywhere™ partners, mobile devices, etc.), the domains and subdomains hosted by us for our users, and any software applications or application programming interfaces that may permit access to all or any portion of the Service. “Personal information,” as used in this policy, is information that allows a person to directly identify an individual, such as name or email address, and information that is combined directly with such identifying information.
 
 We will collect information about you when you register to post messages on one of our discussion forums, when you register to use the Service, when you transmit information to us via our Service (including, without limitation, by email), when you participate in one of our promotions, and when you otherwise use our Service. By doing any of the foregoing, you assent to this policy. If you do not agree with the terms of this policy, please do not engage in any of these activities.
 
-### INFORMATION COLLECTED ABOUT YOU AND OUR USE OF SUCH INFORMATION
+#### INFORMATION COLLECTED ABOUT YOU AND OUR USE OF SUCH INFORMATION
 
 The following describes the types of personal and other information we may collect about you on our Service, and how we use and maintain that information:
 
