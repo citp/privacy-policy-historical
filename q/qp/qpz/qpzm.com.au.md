@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qpzm.com.au privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004092427id_/http%3A//www.qpzm.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qpzm.com.au privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523001816id_/http%3A//www.qpzm.com.au/privacy) for the most accurate reproduction.*
 
 # Qpzm Australia
 
