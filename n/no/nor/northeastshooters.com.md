@@ -1,279 +1,63 @@
-> *The following text is extracted and transformed from the northeastshooters.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214033507id_/http%3A//www.northeastshooters.com/flynax/privacy-police.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the northeastshooters.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523015242id_/http%3A//www.northeastshooters.com/vbulletin/faq.php%3Ffaq%3Dvb3_board_faq%23faq_ppolicy) for the most accurate reproduction.*
 
-# Privacy policy :: Northeastshooters.com
+# Board FAQ
 
-**What information do we collect?**
+This Privacy Policy governs the manner in which Northeastshooters collects, uses, maintains and discloses information collected from users (each, a "User") of the [www.northeastshooters.com](http://www.northeastshooters.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by Northeastshooters.
 
-We collect information from you when you register on our site. 
+**Personal identification information**
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address or mailing address. You may, however, visit our site anonymously.
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, email address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
+**Non-personal identification information**
 
-**What do we use your information for?**
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
-Any of the information we collect from you may be used in one of the following ways: 
+**Web browser cookies**
 
-To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you)
+Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
-To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs)
+**How we use collected information**
 
-To process transactions
+Northeastshooters may collect and use Users personal information for the following purposes:
 
-> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+  * _\- To personalize user experience_  
+We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
+  * _\- To improve our Site_  
+We may use feedback you provide to improve our products and services.
+  * _\- To run a promotion, contest, survey or other Site feature_  
+To send Users information they agreed to receive about topics we think will be of interest to them.
 
-  
-To send periodic emails  
 
 
-> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
+**How we protect your information**
 
-**How do we protect your information?**
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
-We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information. 
+Our Site is in compliance with PCI vulnerability standards in order to create as secure of an environment as possible for Users.
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.
+**Sharing your personal information**
 
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
 
-**Do we use cookies?**
+**Third party websites**
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.
 
-**Do we disclose any information to outside parties?**
+**Advertising**
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
 
-**Third party links**
+**Changes to this privacy policy**
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+Northeastshooters has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
-**Childrens Online Privacy Protection Act Compliance**
+**Your acceptance of these terms**
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
-**Your Consent**
+**Contacting us**
 
-By using our site, you consent to our [online privacy policy](http://www.freeprivacypolicy.com/).
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
+<http://www.northeastshooters.com/vbulletin/sendmessage.php>
 
-**Changes to our Privacy Policy**
-
-If we decide to change our privacy policy, we will post those changes on this page. 
-
-**Contacting Us**
-
-If there are any questions regarding this privacy policy you may contact us using the information below. 
-
-northeastshooters.com  
-PO Box 984  
-Rindge, NH 03461 
-
-**Featured Ads**
-
-  * [ ](http://www.northeastshooters.com/classifieds/browse/pistols/semiauto/799-s-amp-w-1911-pro-series-sub-compact-with-extras-799-00-massachusetts-l920.html)
-
-*$799* S&W 1911 Pro Series sub-compact with extras! 
-
-Want to Sell 
-
-$ 799.00 
-
-Massachusetts 
-
-  * [ ](http://www.northeastshooters.com/classifieds/browse/pistols/semiauto/springfield-armory-xd9-100-rounds-9mm-in-mass-bi-tone-4-quot-price-drop-750-00-massachusetts-l2098.html)
-
-Springfield Armory XD9 + 100 Rounds (9mm) (In Mass) - Bi-Tone - 4" *Price Drop* 
-
-Want to Sell 
-
-$ 750.00 
-
-Massachusetts 
-
-  * [ ](http://www.northeastshooters.com/classifieds/browse/rifles/bolt-action/mcmillan-50-bmg-model-98a-br-/-never-fired-like-new-7-100-00-rhode-island-l2537.html)
-
-McMillan .50 BMG, Model 98A  
-NEVER FIRED - LIKE NEW 
-
-Want to Sell 
-
-$ 7,100.00 
-
-Rhode Island 
-
-  * [ ](http://www.northeastshooters.com/classifieds/browse/pistols/semiauto/wts-s-amp-w-m-amp-p-45-w/night-sights-apex-kit-price-drop-450-00-massachusetts-l1455.html)
-
-WTS S&W M&P 45 w/Night Sights + APEX kit- PRICE DROP 
-
-Want to Sell 
-
-$ 450.00 
-
-Massachusetts 
-
-  * [ ](http://www.northeastshooters.com/classifieds/browse/yardsale/price-reduction-like-new-5-person-hot-tub-this-is-a-garden-leisure-spa-tub-1102-32-jets-4-5-years-old-want-to-sell/trade-950-00-massachusetts-l2615.html)
-
-Price Reduction! Like New 5 Person Hot tub. This is a Garden Leisure Spa tub, #1102. 32 Jets. 4-5 years old. 
-
-Want to Sell/Trade 
-
-$ 950.00 
-
-Massachusetts 
-
-  * [ ](http://www.northeastshooters.com/classifieds/browse/pistols/semiauto/glock-23-40-cal-3rd-gen-od-green-handle-750-00-massachusetts-l511.html)
-
-Glock 23 .40 cal 3rd Gen. OD green handle. 
-
-Want to Sell 
-
-$ 750.00 
-
-Massachusetts 
-
-  * [ ](http://www.northeastshooters.com/classifieds/browse/yardsale/biodiesel-processor-price-reduction-want-to-sell-500-00-massachusetts-l2414.html)
-
-Biodiesel Processor Price Reduction! 
-
-Want to Sell 
-
-$ 500.00 
-
-Massachusetts 
-
-  * [ ](http://www.northeastshooters.com/classifieds/browse/pistols/semiauto/glock-g19-3rd-gen-600-00-massachusetts-l2317.html)
-
-Glock G19 3rd gen 
-
-Want to Sell 
-
-$ 600.00 
-
-Massachusetts 
-
-  * [ ](http://www.northeastshooters.com/classifieds/browse/rifles/semi-auto/wts-hi-point-995-ts-9mm-carbine-w/-grip-red-dot-light-and-3-mags-with-mag-holder-on-stock-br-/-br-/-450-want-to-sell-450-00-massachusetts-l714.html)
-
-WTS-HI Point 995 TS 9mm carbine W/ grip, red dot light and 3 mags with mag holder on stock
-
-$450 
-
-Want to Sell 
-
-$ 450.00 
-
-Massachusetts 
-
-  * [ ](http://www.northeastshooters.com/classifieds/browse/pumpaction/price-reduced-wts-ithaca-deerslayer-model-37-featherlite-12ga-500-00-massachusetts-l2406.html)
-
-**Price Reduced** WTS - Ithaca Deerslayer Model 37 Featherlite 12GA 
-
-Want to Sell 
-
-$ 500.00 
-
-Massachusetts 
-
-  * [ ](http://www.northeastshooters.com/classifieds/browse/rifles/semi-auto/kriss-vector-super-v-45acp-carbine-package-tacpac/extras-want-to-sell/trade-1-800-00-massachusetts-l2644.html)
-
-KRISS Vector Super V .45ACP Carbine Package, TacPac/Extras 
-
-Want to Sell/Trade 
-
-$ 1,800.00 
-
-Massachusetts 
-
-  * [ ](http://www.northeastshooters.com/classifieds/browse/pistols/semiauto/sig-p239-with-accessories-price-drop-475-00-massachusetts-l1048.html)
-
-Sig P239 With Accessories - Price Drop 
-
-Want to Sell 
-
-$ 475.00 
-
-Massachusetts 
-
-  * [ ](http://www.northeastshooters.com/classifieds/browse/rifles/leverpump/savage-model-99-900-00-massachusetts-l2947.html)
-
-Savage model 99 
-
-Want to Sell 
-
-$ 900.00 
-
-Massachusetts 
-
-  * [ ](http://www.northeastshooters.com/classifieds/browse/pistols/semiauto/bnib-seecamp-lws32-free-state-model-599-00-massachusetts-l1969.html)
-
-BNIB Seecamp LWS32 Free State Model 
-
-Want to Sell 
-
-$ 599.00 
-
-Massachusetts 
-
-  * [ ](http://www.northeastshooters.com/classifieds/browse/pistols/semiauto/glock-27-2-mags-and-ammo-650-00-massachusetts-l3055.html)
-
-Glock 27 (2 mags) and Ammo 
-
-Want to Sell/Trade 
-
-$ 650.00 
-
-Massachusetts 
-
-  * [ ](http://www.northeastshooters.com/classifieds/browse/pistols/semiauto/beretta-px4-storm-full-size-9mm-600-00-massachusetts-l3146.html)
-
-Beretta PX4 Storm Full Size 9mm 
-
-Want to Sell 
-
-$ 600.00 
-
-Massachusetts 
-
-  * [ ](http://www.northeastshooters.com/classifieds/browse/rifles/semi-auto/pof-patriot-ordinance-factory-p-415-ar15-mass-compliant-want-to-sell-1-600-00-massachusetts-l594.html)
-
-POF Patriot Ordinance Factory P-415 AR15 Mass Compliant 
-
-Want to Sell 
-
-$ 1,600.00 
-
-Massachusetts 
-
-  * [ ](http://www.northeastshooters.com/classifieds/browse/pistols/semiauto/sold-walther-ppk-stainless-380-acp-interarms-exclusive-sold-490-00-massachusetts-l1910.html)
-
-**SOLD** Walther PPK Stainless .380 ACP (INTERARMS Exclusive!!) **SOLD** 
-
-Want to Sell 
-
-$ 490.00 
-
-Massachusetts 
-
-  * [ ](http://www.northeastshooters.com/classifieds/browse/pistols/semiauto/glock-17-3rd-gen-w/pre-ban-magazines-750-00-massachusetts-l2100.html)
-
-Glock 17 - 3rd Gen w/pre-ban magazines 
-
-Want to Sell 
-
-$ 750.00 
-
-Massachusetts 
-
-  * [ ](http://www.northeastshooters.com/classifieds/browse/pistols/semiauto/wts-springfield-armory-lightweight-operator-1911-1-200-00-massachusetts-l1169.html)
-
-WTS: Springfield Armory Lightweight Operator 1911 
-
-Want to Sell 
-
-$ 1,200.00 
-
-Massachusetts 
-
-
-
+This document was last updated on March 12, 2013
