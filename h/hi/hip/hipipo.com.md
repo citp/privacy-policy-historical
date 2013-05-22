@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hipipo.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123055700id_/http%3A//www.hipipo.com/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hipipo.com privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522150756id_/http%3A//www.hipipo.com/terms) for the most accurate reproduction.*
 
 # Terms: HiPipo.com
 
@@ -89,7 +89,7 @@ Kampala
 Uganda  
 advertise@hipipo.com  
 +256712345331  
-   
+�  
   
 ---  
   
@@ -125,7 +125,4 @@ Please contact us at. with any questions regarding this Agreement.
 
 I HAVE READ THIS AGREEMENT AND AGREE TO ALL OF THE PROVISIONS CONTAINED ABOVE.  
   
-|   
----  
-  
-©2007 - 2012 Hipipo. All Rights Reserved. 
+##  5Star Business and Technology 
