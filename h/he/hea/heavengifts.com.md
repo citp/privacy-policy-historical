@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heavengifts.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520201030id_/http%3A//www.heaven-gifts.com/page-Privacy%2Band%2BSecurity.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heavengifts.com privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522085253id_/http%3A//www.heaven-gifts.com/page-Privacy%2Band%2BSecurity.html) for the most accurate reproduction.*
 
 # Privacy and Security Company Info For Newcomer Help Heaven Gifts
 
@@ -14,4 +14,4 @@ We occasionally send out email promotions and newsletters to our customers. Thes
 
 We will never share your personal and private information with anyone, and any personal information collected by us is only used to properly process and deliver your order.
 
-                                                          Back to [For new customers](http://www.heaven-gifts.com/?page-newguide.html "For new customers")[](http://www.heaven-gifts.com/?page-newguide.html " For new customers")[](http://www.heaven-gifts.com/?page-newguide.html "For new customers")[ ](https://web.archive.org/web/20120520201030id_/http%3A//?page-newguide.html "For new customers")[](http://www.heaven-gifts.com/?page-Heaven+Gifts+Overview.html "For new customers")[](http://shop484.binway-tech.com/?page-newguide.html "For new customers")
+                                                          Back to [For new customers](http://www.heaven-gifts.com/?page-newguide.html "For new customers")[](http://www.heaven-gifts.com/?page-newguide.html " For new customers")[](http://www.heaven-gifts.com/?page-newguide.html "For new customers")[ ](https://web.archive.org/web/20130522085253id_/http%3A//?page-newguide.html "For new customers")[](http://www.heaven-gifts.com/?page-Heaven+Gifts+Overview.html "For new customers")[](http://shop484.binway-tech.com/?page-newguide.html "For new customers")
