@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sonypictures.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227103609id_/http%3A//www.sonypictures.com/corp/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sonypictures.com privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522204002id_/http%3A//www.sonypictures.com/corp/privacy.html) for the most accurate reproduction.*
 
-# Sony Pictures - Privacy Policy
+# Privacy Policy | Legal | Sony Pictures
 
-* ### NOTICE TO CALIFORNIA RESIDENTS
+* ##### NOTICE TO CALIFORNIA RESIDENTS
 
 Pursuant to California Civil Code Section 1798.83, residents of the State of California have the right to request from companies conducting business in California a list of all third parties to which the company has disclosed certain categories of personal information during the preceding year for the third parties' direct marketing purposes and the categories of personal information the company shares. Alternatively, the law provides that a company that has a privacy policy that provides consumers choice (opt-out or opt-in) regarding sharing personal information with third parties for their marketing purposes may instead provide information on how to exercise that choice. SPE qualifies for the alternative option; it has a comprehensive privacy policy that sets forth that SPE only shares personal information with third parties for direct marketing purposes if you specifically opt-in to such sharing at the time you provide personal information or at the time you choose to participate in a feature on the Sites. If you do not opt-in at that time, SPE does not share your information with that identified third party for marketing purposes. 
 
@@ -10,13 +10,13 @@ If you are a California resident and you have questions about our practices with
 
 For more information about SPE's privacy practices, including when your information may be shared with third parties for purposes other than the marketing use by third parties, please review our full Privacy Policy. 
 
-* ### INFORMATION WE COLLECT ON OUR SITES
+* ##### INFORMATION WE COLLECT ON OUR SITES
 
 #### Information You Provide To Us
 
 The Sites may ask you to provide information that could reasonably be used to contact you or to identify you personally (such as first and last name, e-mail address, telephone number, mobile phone number, or home address (" **Personal Information** "). For example, SPE may collect Personal Information when you register to receive newsletters, create user accounts, send questions or comments to us, or otherwise communicate or interact with us. The Sites may also ask you to provide other information about yourself, such as demographic information (gender, zip code, age, etc.) or certain information about your preferences and interests. If we combine demographic or other information we collect about you with Personal Information about you, we will treat the combined information as Personal Information. Please note that information submitted to the Sites via a "contact us" or other similar function may not receive a response. We will not use the information provided to contact you for marketing purposes unrelated to your request unless you agree otherwise.
 
-#### Information We Collect Automatically As You Access and Use the Sites
+##### Information We Collect Automatically As You Access and Use the Sites
 
 Whenever you visit or interact with the Sites or SPE content, SPE, as well as any third-party advertisers, content providers and/or service providers, may use a variety of technologies that automatically or passively collect information about how the Sites are accessed and used (" **Usage Information** "). Usage Information may include, in part, browser type, operating system, the page served, the time, and the preceding page views. Usage Information is generally non-identifying, but if SPE associates it with you as a specific and identifiable person, SPE treats it as Personal Information.
 
@@ -30,17 +30,17 @@ The technologies used on the Sites to collect Usage Information, including Devic
 
 **_Embedded Scripts._** An embedded script is programming code that is designed to collect information about your interactions with the Sites, such as the links you click on. The code is temporarily downloaded onto your Device from our server or a third party service provider, is active only while you are connected to the Sites, and is deactivated or deleted thereafter. 
 
-* ### HOW WE USE INFORMATION COLLECTED THROUGH OUR SITES
+* ##### HOW WE USE INFORMATION COLLECTED THROUGH OUR SITES
 
 SPE may use information collected through our Sites, including Personal Information, in order to: (1) allow you to participate in features we offer on the Sites; (2) process your registration, including, at times, verifying that the e-mail address you provide is active and valid; (3) provide you with information that you have requested or agreed to receive; (4) tailor content, advertisements, and offers we serve you; (5) improve the Sites and for internal business purposes; (6) contact you with regard to your use of the Sites, your account, and, in our discretion, changes to any SPE policy; and (7) for purposes disclosed at the time you provide your Personal Information or otherwise with your consent.
 
 If you use the Sites to send a friend an invitation to participate in the Sites or send other SPE- related communications, the information you provide (typically, names and e-mail addresses) is used on a one-time basis to facilitate the communication on your behalf, and is not used for any other marketing purposes unless we obtain consent from that person.
 
-* ### GENERAL AUDIENCE WEB SITES
+* ##### GENERAL AUDIENCE WEB SITES
 
 The Sites are general audience web sites and we do not knowingly collect Personal Information from children younger than 13 years of age (" **Child** " or " **Children** "). However, SPE knows that certain Sites, such as those promoting a G-rated movie, may attract Children. On those Sites, SPE may request and collect e-mail address or other online contact information, which may include the online contact information of a Child, for one-time use of that information. For example, SPE may collect email address to allow visitors to receive a fun automated reply from a motion picture's character. After the online contact information is used once in connection with the specific purpose for which it was collected, we delete the online contact information from our records and do not use it to re-contact the visitor. Additionally, if we are notified that a Child has submitted Personal Information to us through any of our Sites other than in connection with one time use, we will delete that Child's Personal Information.
 
-* ### 
+* ##### 
 
 SPE does not share your Personal Information with third parties for their marketing purposes unless you opt-in to such sharing at the time you provide your Personal Information or at the time you choose to participate in a feature on the Sites. If you do not opt-in at that time, SPE does not share your information with that identified third party for marketing purposes. We may share non-Personal Information, such as aggregate user statistics, demographic information and Usage Information with third parties, and third parties, including third party advertisers, content providers, and analytics providers, may collect such information when you visit the Sites. We may also share your information as disclosed at the time you provide your information, as set forth in this Privacy Policy and in the following circumstances: 
 
@@ -54,7 +54,7 @@ SPE does not share your Personal Information with third parties for their market
 
 **Legal Protections and Law Enforcement.** SPE may transfer and disclose information, including your Personal Information, Usage Information and Device Identifier, (including IP address), to third parties to comply with a legal obligation; when we believe in good faith that the law requires it; at the request of governmental authorities conducting an investigation; to verify or enforce our [Terms of Use](http://www.sonypictures.com/corp/tos.html) or other applicable policies; to respond to an emergency; or otherwise to protect the rights, property, safety, or security of third parties, visitors to our Sites or the public. We may also use Device Identifiers to identify users, and may do so in cooperation with copyright owners, Internet service providers, wireless service providers or law enforcement agencies, in our discretion. Such disclosures may be carried out without notice to you.
 
-* ### INFORMATION YOU DISCLOSE PUBLICLY ON OUR SITES
+* ##### INFORMATION YOU DISCLOSE PUBLICLY ON OUR SITES
 
 Our Sites may offer message boards, chat rooms, alternative reality games, multi-player games and other public areas (collectively, " **Community Forums** ") where you can engage in social networking, interact with others, as well as have the opportunity to submit photographs, writings, music, video, audio recordings, computer graphics, pictures, data, questions, comments, suggestions or other content, including Personal Information (collectively, " **User Submissions** "). To participate in certain Community Forums, you may be asked to select a username, screen name or member name and password. Please do not use your real name or the real name of another person when selecting a username (or screen name or member name). 
 
@@ -64,36 +64,36 @@ Also, functionality on the Sites may permit interactions between the Sites and a
 
 User Submissions may be published online or offline in any media or format (currently existing or hereafter developed). We may also publish your name, voice, likeness and other Personal Information with your User Submissions, and SPE may use the content, or any portion of the content, for advertising, marketing, publicity and promotional activities. For full terms and conditions regarding User Submissions you submit to the Sites, please review our [Terms of Use. ](http://www.sonypictures.com/corp/tos.html)
 
-* ### INFORMATION WE RECEIVE FROM THIRD PARTIES 
+* ##### INFORMATION WE RECEIVE FROM THIRD PARTIES 
 
 SPE may receive information about you from third parties. For example, if you are on another web site and you opt-in to receive information from SPE, that web site will forward to us your e-mail address and other information about you so that we may contact you as requested. You may also choose to participate in a third party application or feature on our Sites (such as logging in through Facebook Connect or otherwise linking the Sites with another web site or interactive service) or on a third party web site or service (such as one of our Facebook applications or a similar application or feature on a third party web site or service) through which you allow us to collect (or the third party to share) information about you, including Personal Information. When you choose to participate, you may be opting to link your activity on our Sites with that third party web site or service, which may then collect information about your visits to our Sites and may publish that activity as you request to your "profile" or similar feature with that third party (such as if you choose to share content you find on one of our Sites with your "connections" on the third party's web site or service). The information we collect is subject to this Privacy Policy. However, the information collected and stored by the third party remains subject to the third party's privacy practices, including whether the third party continues to share information with us or with other third parties, the types of information shared, and your choices with regard to what is visible to others on that third party's web site or service. The third party may allow you to remove the application or feature, in which case we will no longer collect information about you through the application or feature, but we may retain the information previously collected. In addition, we may receive information about you if other users of a third party web site or service give us access to their profiles and you are one of their "connections" or information about you is otherwise accessible through your "connections'" web page, profile page, or similar page on a social networking or other third party web site or interactive service.
 
 We may also supplement the information we collect about you through the Sites with outside records from third parties in order to enhance our ability to serve you, to tailor our content to you and to offer you opportunities to purchase products or services that we believe may be of interest to you. We may combine the information we receive from these third parties with information we collect through the Sites. In those cases, we will apply this Privacy Policy to any Personal Information received, unless we have disclosed otherwise.
 
-* ### AD SERVING AND TRAFFIC MEASUREMENT SERVICES WE MAY USE; HOW TO "OPT OUT" OF RECEIVING ADVERTISING RELEVANT TO YOU
+* ##### AD SERVING AND TRAFFIC MEASUREMENT SERVICES WE MAY USE; HOW TO "OPT OUT" OF RECEIVING ADVERTISING RELEVANT TO YOU
 
 SPE licenses technology to serve advertisements on its own sites and within its videos and other content as that content is served across the Internet. In addition, SPE may use third party network advertisers to serve advertisements and third party analytics service providers to evaluate and provide us with information about the use of the Sites and viewing of our content. We do not share Personal Information with these third parties, but ad network providers, the advertisers, the sponsors, and/or analytics service providers may set and access their own **_cookies_** , **_web beacons_** and **_embedded scripts_** on your Device and they may otherwise collect or have access to information about you, including Usage Information. 
 
 With regard to advertisements, we and our network advertisers may target advertisements for products and services in which you might be interested based on your visits to both the Sites and other web sites. **_Cookies_** and **_web beacons_** , including those set by third party network advertisers, may be used to, among other things, target advertisements, prevent you from seeing the same advertisements too many times, or to conduct research regarding the usefulness of certain advertisements to you. We may share Usage Information about visitors to the Sites with third party advertising companies for the same purposes. We may use a variety of companies to serve advertisements. You may wish to visit <http://www.networkadvertising.org/managing/opt_out.asp>, which provides information regarding the "opt-out" procedures of certain third party ad servers we may use. In addition, we work with a company called LiveRail, which offers a separate consumer opt-out, which you can access by clicking on the link below: <http://ad3.liverail.com/privacy/?optout>.
 
-* ### UPDATING YOUR INFORMATION AND OPTING OUT FROM EMAIL, SMS AND MMS COMMUNICATIONS
+* ##### UPDATING YOUR INFORMATION AND OPTING OUT FROM EMAIL, SMS AND MMS COMMUNICATIONS
 
 SPE may provide web pages or other mechanisms through which you can correct or update some of the Personal Information you have provided to us, including, without limitation, through registration with the Sites. You may opt out of receiving e-mail newsletters by following the opt-out instructions provided to you in those e-mails. If you sign up to receive SMS or MMS messages that may be offered on the Sites, you may unsubscribe from any SMS or MMS messages received by replying "STOP". Please note that we reserve the right to send you certain communications relating to your account or use of the Sites and these transactional account messages may be unaffected if you choose to opt-out from marketing communications. In accordance with our routine record keeping, we may delete certain records that contain Personal Information you have submitted through the Sites. We are under no obligation to store such Personal Information indefinitely and disclaim any liability arising out of, or related to, the destruction of such Personal Information. In addition, you should be aware that it is not always possible to completely remove or delete all of your information from our databases without some residual data because of backups and other reasons.
 
-* ### SECURITY
+* ##### SECURITY
 
 We incorporate commercially reasonable safeguards to help protect and secure your Personal Information. However, no electronic data transmission or storage of information can be guaranteed to be 100% secure. Please note that we cannot ensure or warrant the security of any information you transmit to us, and you use the Sites and provide us with your information at your own risk. 
 
-* ### THIRD PARTY CONTENT, LINKS TO OTHER WEB SITES AND SERVICES, AND SPE CONTENT FOUND ON OTHER WEB SITES
+* ##### THIRD PARTY CONTENT, LINKS TO OTHER WEB SITES AND SERVICES, AND SPE CONTENT FOUND ON OTHER WEB SITES
 
 Certain content on the Sites may be hosted and served by third parties, which may include third party widgets (such as those that allow you to "like" or "share" content with third party web sites and interactive services, or third party "get tickets and showtimes" widgets). In addition, when you are on the Sites you may be directed to other web sites or services that are operated and controlled by third parties. This includes links from advertisers, sponsors and partners that may use our logo(s) as part of a co-branding agreement. In addition, SPE Site widgets or other SPE content may be included on web pages, web sites and/or services that are not associated with SPE. We have no control over these third parties. These third parties may send their own cookies to your Device, they may independently collect data or solicit Personal Information and may or may not have their own published privacy policies. SPE is not responsible for the privacy practices or business practices of any third party web site.
 
-* ### CONSENT TO TRANSFER 
+* ##### CONSENT TO TRANSFER 
 
 The Sites are operated in the United States. If you are located in the European Union, Canada or elsewhere outside of the United States, please be aware that information we collect will be transferred to and processed in the United States. By using the Sites, or providing us with any information, you consent to this transfer, processing and storage of your information in the United States, a jurisdiction in which the privacy laws may not be as comprehensive as those in the country where you reside and/or are a citizen.
 
-* ### NOTIFICATION OF CHANGES AND YOUR ACCEPTANCE OF THE PRIVACY POLICY; PRIVACY QUESTIONS
+* ##### NOTIFICATION OF CHANGES AND YOUR ACCEPTANCE OF THE PRIVACY POLICY; PRIVACY QUESTIONS
 
 SPE reserves the right to update this Privacy Policy at any time, without prior notice to you, and any changes will become effective immediately upon posting. However, SPE will use your Personal Information in a manner consistent with the Privacy Policy in effect at the time you submitted the information, unless you consent to the new or revised policy. If you have any questions or concerns about this Privacy Policy, you may contact us at [SonyPrivacy@spe.sony.com](mailto:SonyPrivacy@spe.sony.com). 
 
-**_Effective Date_ : This Privacy Policy was updated on January 18, 2012 and is effective as of that date.**
+_Effective Date_ : This Privacy Policy was updated on January 18, 2012 and is effective as of that date.
