@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the batterystuff.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120131946id_/http%3A//www.batterystuff.com/kb/policies-and-procedures/privacy-and-security-guarantee.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the batterystuff.com privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522163705id_/http%3A//www.batterystuff.com/kb/policies-and-procedures/privacy-and-security-guarantee.html) for the most accurate reproduction.*
 
 # BatteryStuff Articles | Privacy and Security Policy
 
