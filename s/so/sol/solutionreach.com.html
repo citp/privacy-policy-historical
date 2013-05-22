@@ -1,0 +1,264 @@
+<!--The following is the downloaded HTML source of the solutionreach.com privacy policy that was archived on 2013-05-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130522233515id_/http%3A//www.solutionreach.com/SelectionPage/Privacy-Policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<!-- For iPhone 4 with high-resolution Retina display: -->
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/apple-touch-icon-114x114-precomposed.png">
+<!-- For non-Retina iPhone, iPod Touch, and Android 2.1+ devices: -->
+<link rel="apple-touch-icon-precomposed" href="/apple-touch-icon-72x72-precomposed.png">
+<!-- For nokia devices: -->
+<link rel="shortcut icon" href="/apple-touch-icon.png">
+
+<title> Solutionreach</title>
+	<link href="/SelectionPage/style" rel="stylesheet" type="text/css">
+    
+	<script type="text/javascript" src="https://pi.pardot.com/pd.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/SelectionPage/jquery"></script>
+	<script type="text/javascript">
+$(document).ready(function () {	
+	
+	$('#nav li').hover(
+		function () {
+			//show its submenu
+			$('ul', this).slideDown(200);
+
+		}, 
+		function () {
+			//hide its submenu
+			$('ul', this).slideUp(100);			
+		}
+	);
+	
+});
+	</script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js"></script>
+<script type="text/javascript" src="/SelectionPage/jquery.easing.1.3"></script>
+<script type="text/javascript">
+$(document).ready(function() {
+	var autoPlayTime=7000;
+	autoPlayTimer = setInterval( autoPlay, autoPlayTime);
+	function autoPlay(){Slidebox('next');}
+	$('#slidebox .next').click(function () {Slidebox('next','stop');});
+	$('#slidebox .previous').click(function () {Slidebox('previous','stop');});
+	var yPosition=($('#slidebox').height()-$('#slidebox .next').height())/2;
+	$('#slidebox .next').css('top',yPosition);
+	$('#slidebox .previous').css('top',yPosition);
+	$('#slidebox .thumbs a:first-child').removeClass('thumb').addClass('selected_thumb');
+	$("#slidebox .content").each(function(i){
+		slideboxTotalContent=i*$('#slidebox').width();	
+		$('#slidebox .container').css("width",slideboxTotalContent+$('#slidebox').width()+90);
+	});
+});
+
+function Slidebox(slideTo,autoPlay){
+    var animSpeed=1000; //animation speed
+    var easeType='easeInOutExpo'; //easing type
+
+//
+//	var position = $('#slidebox').data('position')
+//	$('#slidebox').data('position',position)
+	
+	var sliderWidth=$('#slidebox').outerWidth(false);
+	var leftPosition=$('#slidebox .container').css("marginLeft").replace("px", "");
+	if( !$("#slidebox .container").is(":animated")){
+		if(slideTo=='next'){ //next
+			if(autoPlay=='stop'){clearInterval(autoPlayTimer);}
+			if(leftPosition==-slideboxTotalContent){
+				$('#slidebox .container').animate({marginLeft: 0}, animSpeed, easeType); //reset
+				$('#slidebox .thumbs a:first-child').removeClass('thumb').addClass('selected_thumb');
+				$('#slidebox .thumbs a:last-child').removeClass('selected_thumb').addClass('thumb');
+			} else {
+				$('#slidebox .container').animate({marginLeft: '-='+sliderWidth}, animSpeed, easeType); //next
+				$('#slidebox .thumbs .selected_thumb').next().removeClass('thumb').addClass('selected_thumb');
+				$('#slidebox .thumbs .selected_thumb').prev().removeClass('selected_thumb').addClass('thumb');
+			}
+		} else if(slideTo=='previous'){ //previous
+			if(autoPlay=='stop'){clearInterval(autoPlayTimer);}
+			if(leftPosition=='0'){
+				$('#slidebox .container').animate({marginLeft: '-'+slideboxTotalContent}, animSpeed, easeType); //reset
+				$('#slidebox .thumbs a:last-child').removeClass('thumb').addClass('selected_thumb');
+				$('#slidebox .thumbs a:first-child').removeClass('selected_thumb').addClass('thumb');
+			} else {
+				$('#slidebox .container').animate({marginLeft: '+='+sliderWidth}, animSpeed, easeType); //previous
+				$('#slidebox .thumbs .selected_thumb').prev().removeClass('thumb').addClass('selected_thumb');
+				$('#slidebox .thumbs .selected_thumb').next().removeClass('selected_thumb').addClass('thumb');
+			}
+		} else {
+			var slide2=(slideTo-1)*sliderWidth;
+			if(leftPosition!=-slide2){
+				clearInterval(autoPlayTimer);
+				$('#slidebox .container').animate({marginLeft: -slide2}, animSpeed, easeType); //go to number
+				$('#slidebox .thumbs .selected_thumb').removeClass('selected_thumb').addClass('thumb');
+				var selThumb=$('#slidebox .thumbs a').eq((slideTo-1));
+				selThumb.removeClass('thumb').addClass('selected_thumb');
+			}
+		}
+	}
+}
+</script>
+<script language="javascript" type="text/javascript" src="/SelectionPage/jquery.msAccordion"></script>
+<script src="/SelectionPage/jquery.cookie"></script>
+
+<script type="text/javascript">
+// Google Code
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-25331101-1']);
+  _gaq.push(['_setDomainName', 'solutionreach.com']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+<script type="text/javascript">
+piAId = '17432';
+piCId = '2251';
+
+(function() {
+    function async_load(){
+        var s = document.createElement('script'); s.type = 'text/javascript';
+        s.src = ('https:' == document.location.protocol ? 'https://pi' : 'http://cdn') + '.pardot.com/pd.js';
+        var c = document.getElementsByTagName('script')[0]; c.parentNode.insertBefore(s, c);
+    }
+    if(window.attachEvent) { window.attachEvent('onload', async_load); }
+    else { window.addEventListener('load', async_load, false); }
+})();
+</script>
+
+<meta name="description" content="">
+<meta name="keywords" content="Solutionreach">
+</head>
+
+<body style="background-image:url(http://www.solutionreach.com/images/site2images/tfTopBG.png);">
+	<div id="wrapper"><div id="content_wrapper"><div id="container">
+		<div id="formnav">
+			<a href="/SelectionPage/home"><div id="logo"><img src="http://www.solutionreach.com/images/site2images/SRlogo.png" border="0" alt="Solutionreach"></div></a>
+			<div id="formphone">Call Toll Free: 1-(866)605-6867</div>
+		</div>
+		<div id="bodeeNOads" style="border:0; width:960px;">
+			<h1 class="bigblue">Web Site Privacy Policy</h1>
+			<p class="textreg"><!--SmileReminder.com and its owner, Communitect, Inc. (ìus,î ìweî or ìourî)-->Solutionreach, Inc., dba Solutionreach or Smile Reminder ("we" or "our"), created this Web Site Privacy Policy in order to ensure the confidence of visitors, users and customers ("you" or "your") of our web site and to demonstrate our commitment to fair information practices and the protection of privacy.</p>
+
+			<p class="medblue">1.  Types of Information Collected</p>
+			<p class="textreg">a.  Traffic Data Collected. We may automatically track and collect the following information when you visit or use our site, your: (i) IP address; (ii) domain server; (iii) type of computer; and (iv) type of web browser (collectively, "Traffic Data"). Traffic Data is anonymous information that does not identify you personally but is helpful for improving the services offered on our site. We also may use "cookies" to store your password so you do not have to re-enter it each time you visit or use our site.</p>
+			<p class="textreg">b.  Personal Information Collected. In order for you to access the services that we offer via our site, we require you to provide us with information that is specific to you and identifies you personally (collectively, "Personal Information"). Personal Information may include: (i) User Data (such as your name, mailing and email addresses); (ii) Messaging Data (such as the content of messages transmitted and the name and contact information of the person receiving such messages); (iii) Financial Data (such as credit card and account numbers); and (iv) Demographic Data (such as any zip code and age). If you communicate with us by e-mail or otherwise complete online forms or surveys, any information provided in such communication may be collected as Personal Information.</p>
+
+			<p class="medblue">2.  Uses of Personal Information Collected</p>
+			<p class="textreg">We may use User Data to send you information about our company or our products or services, or to contact you when necessary. We do not use any of your Messaging Data or Financial Data, except in connection with providing you the services offered via our site <!--(Smile Reminder program)-->(Solutionreach or Smile Reminder programs). We may use your Demographic Data to customize and tailor your use of our services.</p>
+
+			<p class="medblue">3.  Sharing of Personal Information</p>
+			<p class="textreg">We respect your privacy and do not share any User Data, Messaging Data, Financial Data or Demographic Data with advertisers or other third parties.</p>
+
+			<p class="medblue">4.  User Choice Regarding Collection, Use and Distribution of Personal Information</p>
+			<p class="textreg">You may choose not to provide us with any Personal Information. In such an event, you will not be able to access and use those portions of our site that require your Personal Information.</p>
+
+			<p class="medblue">5.  Confidentiality and Security of Personal Information</p>
+			<p class="textreg">Except as otherwise provided in this Privacy Policy, we will keep your Personal Information private and will not share it with third parties, unless such disclosure is necessary: (a) to comply with a court order or other legal process; (b) to protect our rights or property; or (c) to enforce our terms of service. Your Personal Information is stored on secure servers that are not accessible by third parties. We provide you with the capability to transmit your Personal Information via secured and encrypted channels if you use a similarly equipped web browser.</p>
+
+			<p class="medblue">6.  User Ability to Access, Update and Correct Personal Information</p>
+			<p class="textreg">In order to ensure that all of your Personal Information is correct and up-to-date, you may login, review and edit your Personal Information at any time.</p>
+
+			<p class="medblue">7.  Lost or Stolen Information</p>
+			<p class="textreg">You must promptly notify us if your user name or password is lost, stolen or used without permission. In such an event, we will cancel that user name or password and update our records accordingly. </p>
+
+			<p class="medblue">8.  Updates and Changes to Privacy Policy</p>
+			<p class="textreg">We reserve the right, at any time and without notice, to add to, change, update or modify this Privacy Policy, simply by posting such change, update or modification on our site. Any such change, update or modification will be effective immediately upon posting on our site.</p>
+		</div>
+		<div style="clear:both;"></div>
+	</div></div></div>
+	<!--<div style="height:255px;"></div>-->
+<div id="footer_wrapper">
+		<div id="footer_inner_wrapper">
+			<div id="footer">
+				<div id="linksection">
+					<div id="LS1">
+						<span><font class="footertitle">Solutionreach</font></span>
+						<span>
+							<p class="footertext"></p>
+							<p class="footertext"><a href="http://www.solutionreach.com">Home</a></p>
+							<p class="footertext"><a href="/SelectionPage/Demo-Center">Demo Center</a></p>
+							<p class="footertext"><a href="/COMPANY/Overview">Overview</a></p>
+							<p class="footertext"><a href="/COMPANY/Testimonials">Testimonials</a></p>
+							<p class="footertext"><a href="/COMPANY/60-Day-Trial">Satisfaction Guarantee</a></p>
+							<!--<p class="footertext"><a href="/SelectionPage/FAQ">FAQ</a></p>-->
+							<p class="footertext"><a href="/SelectionPage/Site-Map">Site Map</a></p>
+						</span>
+					</div>
+					<div id="LSothers">
+						<span><font class="footertitle">Markets</font></span>
+						<span>
+							<p class="footertext"></p>
+							<p class="footertext"><a href="/DENTAL/Dental-Marketing">Dental</a></p>
+							<p class="footertext"><a href="/VISION/Vision-Marketing">Vision</a></p>
+							<p class="footertext"><a href="/COSMETIC/Cosmetic-Marketing">Cosmetic</a></p>
+							<p class="footertext"><a href="/MEDICAL/Medical-Marketing">Medical</a></p>
+							<p class="footertext"><a href="/CHIROPRACTIC/Chiropractic-Marketing">Chiropractic</a></p>
+							<p class="footertext"><a href="/OI/Business-Marketing">Other Industry</a></p>
+						</span>
+					</div>
+					<div id="LSothers">
+						<span><font class="footertitle">Company</font></span>
+						<span>
+							<p class="footertext"></p>
+							<p class="footertext"><a href="/COMPANY/Partners">Top Partners</a></p>
+							<p class="footertext"><a href="/COMPANY/Partner-Affiliate-Program-Overview">SR Referral<br><br>Rewards Program</a></p>
+							<p class="footertext"><a href="/COMPANY/Careers">Careers</a></p>
+							<p class="footertext"><a href="/COMPANY/Media-Center">Media Center</a></p>
+							<p class="footertext"><a href="http://www.solutionreach.com/COMPANY/Blog">Blog</a></p>
+							<!--<p class="footertext"><a href="/COMPANY/Upcoming-Events">Upcoming Events</a></p>-->
+							<p class="footertext"><a href="/COMPANY/Support">Revolutionary Support</a></p>
+							<p class="footertext"><a href="/COMPANY/About-US">About Us</a></p>
+							<p class="footertext"><a href="/COMPANY/Contact-Us">Contact Us</a></p>
+							<p class="footertext"><a href="/SelectionPage/Privacy-Policy">Privacy Policy</a></p>
+						</span>
+					</div>
+					<div id="LSothers">
+						<span><font class="footertitle">Stay Connected</font></span>
+						<span>
+							<p class="footertext"></p>
+							<p class="footertext">Watch for our latest news,</p>
+							<p class="footertext">tips, and industry articles.</p>
+							<p class="footertext">
+								<a href="http://www.facebook.com/pages/Solutionreach/132476616837208" target="_blank"></a></p><div id="fb2"><a href="http://www.facebook.com/pages/Solutionreach/132476616837208" target="_blank"><img src="http://www.solutionreach.com/images/site2images/facebook.png" border="0" alt="Visit our Facebook"></a></div>
+								<a href="https://twitter.com/#!/solutionreach" target="_blank"><div id="twitter2"><img src="http://www.solutionreach.com/images/site2images/twitter.png" border="0" alt="Visit our Twitter"></div></a>
+								<a href="https://plus.google.com/u/0/109610451004240005067/posts" target="_blank"><div id="twitter2"><img src="http://www.solutionreach.com/images/site2images/googleP.png" border="0" alt="Visit our Google+"></div></a>
+								<br><p></p>
+							<p class="footertext">866-605-6867</p>
+							<p class="footertext">2912 Executive Parkway</p>
+							<p class="footertext">Suite 300</p>
+							<p class="footertext">Lehi, UT 84043</p>
+						</span>
+					</div><br><br>
+					<center><p style="color:#888888;">Solutionreach and Smile Reminder are  trademarks of Solutionreach, Inc. All Rights Reserved.</p>
+					<p class="footertext" style="font-size:10px;">Solutionreach and Smile Reminder are  trademarks of Solutionreach, Inc. All Rights Reserved.</p>
+					<p class="footertext" style="font-size:10px; margin-top:-5px;">All other trademarks, registered trademarks and copyrights are the property of their respective owners.</p></center>
+				</div>
+				<!-- Google Code for Remarketing tag -->
+				<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
+				<script type="text/javascript">
+					/* <![CDATA[ */
+					var google_conversion_id = 1002100337;
+					var google_conversion_label = "Dm4VCN_I-QQQ8azr3QM";
+					var google_custom_params = window.google_tag_params;
+					var google_remarketing_only = true;
+					/* ]]> */
+				</script>
+				<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+				</script>
+				<noscript>
+					<div style="display:inline;">
+						<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1002100337/?value=0&amp;label=Dm4VCN_I-QQQ8azr3QM&amp;guid=ON&amp;script=0"/>
+					</div>
+				</noscript>
+			</div>
+		</div>
+	</div>
+
+</body></html>
