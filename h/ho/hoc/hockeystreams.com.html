@@ -1,31 +1,131 @@
-<!--The following is the downloaded HTML source of the hockeystreams.com privacy policy that was archived on 2012-11-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121127102936id_/http%3A//www4.hockeystreams.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hockeystreams.com privacy policy that was archived on 2013-05-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130522224545id_/http%3A//www6.hockeystreams.com/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="description" content="Watch live and on-demand Hockey Streams from the NHL, KHL, AHL, OHL, QMJHL, WHL and more!">
+<meta name="keywords" content="hockey streams, hockey archives, NHL, KHL, AHL, WHL, CHL, QMJHL, OHL, watch live hockey, live hockey, live nhl">
 <title>Hockey Streams - Privacy Policy</title>
 <link rel="StyleSheet" href="/css/ui.css" media="screen" type="text/css">
 <link rel="StyleSheet" href="/css/default.css" media="screen" type="text/css">
 <link rel="icon" href="/favicon.png" type="image/x-icon">
 <link rel="shortcut icon" href="/favicon.png" type="image/x-icon">
 <link rel="apple-touch-icon" href="/logo.png">
-<script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=397494226937587"></script><script type="text/javascript" src="/js/jquery.js"></script>
+<script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=397494226937587"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" src="/js/jquery.js"></script>
 <script type="text/javascript" src="/js/jquery-ui.js"></script>
 <script type="text/javascript" src="/js/jquery-timepicker.js"></script>
 <script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-var pageTracker = _gat._getTracker("UA-3236867-2");
-pageTracker._initData();
-pageTracker._trackPageview();
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-37076625-1']);
+  _gaq.push(['_setDomainName', 'hockeystreams.com']);
+  _gaq.push(['_setAllowLinker', true]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
 </script>
 </head>
 <body>
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '397494226937587', // App ID
+      channelUrl : '//www.hockeystreams.com/channel.html', // Channel File
+      status     : true, // check login status
+      cookie     : true, // enable cookies to allow the server to access the session
+      xfbml      : true  // parse XFBML
+    });
+
+    // Additional init code here
+    // Additional init code here
+    FB.getLoginStatus(function(response) {
+        if (response.status === 'connected') {
+            // connected
+        } else if (response.status === 'not_authorized') {
+            // not_authorized
+ 
+        } else {
+            // not_logged_in
+
+        }
+    });
+    };
+
+
+    function fbLogin() {
+	    FB.api('/me', function(response) {
+	    	$('#overlay').show();
+	    	$('#dialog').show().css("width", "400px").css("marginLeft", "-200px");
+	    	$('#dialog_content').html("Logging you in with Facebook... Please wait");
+	    	$.get("/scripts/fb_verify.php", function(data) { 
+			$.trim(data);
+			var data = data.replace(" ", "");
+			if(data != '') {
+			var s = data.split("|");
+			var gid = parseInt(s[2]);
+			var username = s[0];
+			var isnew = s[3];
+			$.trim(username);
+			var password = s[1];
+			if(gid > 0) {
+			$('.header_box').load("/scripts/loggedin.php?username="+ username +"&password="+ password+"&random="+ Math.random*9999);
+	    	$('#loggedin').val('1');
+	    	$('.facebook_join').hide();
+	    	$('#overlay').hide();
+	    	$('#dialog').hide();
+			} else {
+			$('.usernameFormFB').val(username);
+			$('.redirectForm').submit();
+			}
+			if(isnew == '1') {
+				FB.api('/me/feed', 'post', 
+	  	                  { 
+	  	                      message     : "The best website for watching live and on-demand hockey!",
+	  	                      link        : 'http://www.hockeystreams.com',
+	  	                      picture     : 'http://s.hscontent.com/images/logo75.png',
+	  	                      name        : 'HockeyStreams.com',
+	  	                      description : 'Watch live and on-demand Hockey Streams from the NHL, KHL, AHL, OHL, QMJHL, WHL and more!'
+
+	  	        });
+			}
+			}
+			});
+	    	});
+	}
+    
+  function login() {
+	    FB.login(function(response) {
+	        if (response.authResponse) {
+                 fbLogin();
+	        } else {
+	            // cancelled
+	        }
+	    }, {scope: 'email,publish_stream'});
+	}
+
+  $('.facebook_join').live("click", function(e) {
+	  login();
+  });
+
+  // Load the SDK Asynchronously
+  (function(d){
+     var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement('script'); js.id = id; js.async = true;
+     js.src = "//connect.facebook.net/en_US/all.js";
+     ref.parentNode.insertBefore(js, ref);
+   }(document));
+ </script>
 <div id="dialog" class="web_dialog" style="display: none;">
 <div class="web_dialog_content" id="dialog_content"></div>
 </div>
+<form method="post" style="display: none;" class="redirectForm" action="https://www6.hockeystreams.com/register/verify"><input type="hidden" name="membership" value="premium"><input type="hidden" name="action" value="new_pay"><input type="hidden" name="username" class="usernameFormFB"> <input type="hidden" name="pay_method" value="CC" style="margin: 0px;"><input type="hidden" name="renew" value="1"><input type="submit" value="Subscribe"></form>
 <div id="overlay" style="display: none;"></div>
 <script type="text/javascript">
 $().ready(function() {
@@ -34,7 +134,10 @@ $('#overlay').click(function() {
 	$('#dialog').hide();
 }); 
 
-$('#dialog').draggable();
+$('.share_fb').click(function() {
+    shareFB();
+});
+
 $('.closeDialog').live("click", function() {
    	$('#overlay').hide("fade", {}, 200);;
   	$('#dialog').hide();
@@ -42,7 +145,7 @@ $('.closeDialog').live("click", function() {
 
 	$('#display_teams').scrollTop(0);
 
-	$('.scores_on').click(function() { // display scores
+		$('.scores_on').live("click", function() { // display scores
 		if($(this).html() == "On") {
 		$('.scores').show();
 		$('.game_time').hide();
@@ -52,7 +155,7 @@ $('.closeDialog').live("click", function() {
 				}
 		});
 
-	$('.scores_off').click(function() { // hide scores
+	$('.scores_off').live("click", function() { // hide scores
 		if($(this).html() == "Off") {
 		$('.scores').hide();
 		$('.game_time').show();
@@ -174,6 +277,26 @@ $('.activeScrollLeft').live("click", function() { // scroll games div to the lef
 	}
 });
 
+setInterval(function() {
+var leagues = $('.show_leagues').val();
+
+if(leagues == '') {
+var leagues = 'all';
+}
+
+$('.teamDisplay').load("/scripts/team_display.php?league=" + leagues);
+}, 120000);
+
+$('.league_picker').live("change", function() {
+var el = $(this).val();
+if(el != '') {
+$('.teamDisplay').load("/scripts/team_display.php?league="+ el);
+} else {
+$('.teamDisplay').load("/scripts/team_display.php?league=");
+}
+});
+
+
 $('.section').live("click", function() { // scroll to the section that is selected
 	$('.section').removeClass("section_active");
 
@@ -205,7 +328,7 @@ $('.showlogin').live("click", function() { // show login form
 $('.header_box').load('/scripts/login_form.php');
 });
 
-$('.loginForm').live("submit", function() {
+$('.loginFormButton').live("click", function() {
 var username = $('#username').val();
 var password = $('#password').val();
 $.post("/scripts/login.php", { username: username, password: password, random: Math.random }, function(data) {
@@ -226,7 +349,7 @@ $('.multiview').live("click", function() {
 	var id = $(this).data("index");
 	$('#overlay').show();
 	$('#dialog').show().css("width", "900px").css("marginLeft", "-450px");
-	$('#dialog_content').load("/scripts/multiview.php?id="+ id +"&random=1543767003");
+	$('#dialog_content').load("/scripts/multiview.php?id="+ id +"&random=585025060");
 });
 
 $('.logout').live("click", function(e) {
@@ -281,9 +404,11 @@ $(function() {
 </script>
 <input type="hidden" id="loggedin" value="0">
 <div id="header">
-<div class="contain"><a href="/" class="logo">HockeyStreams.com</a>
-<a style="display: block;  float: left; margin-left: 20px; margin-top: 61px;" href="https://www.facebook.com/dialog/oauth?client_id=397494226937587&amp;redirect_uri=https%3A%2F%2Fwww4.hockeystreams.com%2Fscripts%2Ffb_verify.php&amp;state=771a46a01f8b6e9c81b8543c54e04592&amp;scope=email&amp;display=popup" class="facebook_join">Login with Facebook</a>
-<div class="header_box" style="float: right;"><form method="post" action="/verify/login" class="loginForm"><input type="text" class="input" id="username" placeholder="Enter Your Username..."> <input type="password" id="password" class="input" placeholder="Enter Your Password..."> <input type="submit" class="button" value="Sign in" style="float: left;"></form>
+<div class="contain"><a href="/" class="logo">HockeyStreams.com</a> <a style="display: block;  float: left; margin-left: 
+20px; margin-top: 61px; cursor: pointer;" class="facebook_join">Login
+with Facebook</a>
+<div class="header_box" style="float: right;"><form method="post" action="/verify/login" class="loginForm"><input type="text" class="input" id="username" placeholder="Enter Your Username..."> <input type="password" id="password" class="input hsPass" placeholder="Enter Your 
+Password..."> <input type="submit" class="button loginFormButton" value="Sign in" style="float: left;"></form>
 <div style="float: right; margin-top: 15px; font-size: 11px;"><a href="/register">Create an account</a></div>
 <div style="float: right; margin-right: 10px; margin-top: 15px; font-size: 11px;"><a href="/forgot_password">Forgot Password</a></div>
 		</div>
@@ -295,7 +420,14 @@ $(function() {
 <ul id="nav">
 	<li style="padding-left: 15px; margin-left: -20px; padding-right: 15px; min-width: 32px;"><a href="/">HOME</a></li>
 	<li style="padding-left: 15px; padding-right: 15px; min-width: 52px;"><a href="/live-streams">LIVE STREAMS</a></li>
-	<li style="padding-left: 15px; padding-right: 15px; min-width: 45px;"><a href="/on-demand">ON-DEMAND STREAMS</a></li>
+	<li style="padding-left: 15px; padding-right: 15px; min-width: 45px;"><a href="/on-demand">ON-DEMAND STREAMS</a>
+	<ul>
+		<li style="padding-left: 15px; padding-right: 15px; min-width: 45px;"><a href="/on-demand">FULL GAMES</a></li>
+		<li style="padding-left: 15px; padding-right: 15px; min-width: 45px;"><a href="/highlights">HIGHLIGHTS</a></li>
+		<li style="padding-left: 15px; padding-right: 15px; min-width: 45px;"><a href="/condensed">CONDENSED</a></li>
+	</ul>
+	</li>
+
 	<li style="padding-left: 15px; padding-right: 15px;"><a href="/preview">PREVIEW</a></li>
 	<li style="padding-left: 15px; padding-right: 15px; min-width: 50px;"><a href="/account">MY ACCOUNT</a>
 	<ul>
@@ -304,7 +436,7 @@ $(function() {
 		<li><a href="/account/payments">PAYMENTS</a></li>
 		<li><a href="/account/freeze">FREEZE / UNFREEZE ACCOUNT</a></li>
 		<li><a href="/account/messages">MESSAGES</a></li>
-		<li><a href="/account/referals">REFERALS</a></li>
+		<li><a href="/account/referrals">REFERRALS</a></li>
 	</ul>
 	</li>
 	<li style="padding-left: 15px; padding-right: 15px; min-width: 50px;"><a href="/calendar">CALENDAR</a>
@@ -334,201 +466,100 @@ $(function() {
 </ul>
 </div>
 <hr>
-<div id="team_display"><div class="contain"><a class="scrollLeft" data-index="100">«</a>
+<div class="teamDisplay">
+<div id="team_display">
+<input type="hidden" value="" class="show_leagues">
+<div class="contain"><a class="scrollLeft" data-index="0">«</a>
 <div style="float: left;">
 <div class="heading" style="height: 29px; line-height: 27px; border: 0px; margin: 0px; padding: 0px; width: 983px; border-bottom: 1px solid #e2e2e2;">
-<div style="float: left; font-weight: bold; color: #513B9B;"><a href="/calendar">Tuesday, November 27th, 2012</a></div>
+<div style="float: left; font-weight: bold; color: #513B9B;"><a href="/calendar">
+Wednesday, May 22nd, 2013</a></div>
 <div style="float: left; margin-left: 10px;"><span style="font-weight: normal;">Scores</span>  <a style="cursor: pointer;" class="scores_on">On</a>   <a style="cursor: pointer; color: #000;" class="scores_off">[Off]</a> </div>
-<div style="float: right; margin-right: 10px; font-weight: bold; color: #513B9B;">05:29am EST</div>
-<div style="float: right; margin-left: 100px;"><div style="float: left; color: #000; margin-right: 5px; font-size: 10px; font-weight: normal;">10 Streams</div>
-	 <a class="section section_active" id="section_1" data-index="0">&nbsp;</a>  <a class="section " id="section_2" data-index="120">&nbsp;</a> <div style="clear: both;"></div>
+<div style="float: left;">
+<select class="league_picker input" style="padding-top: 3px; width: 120px; margin-top: 0px; text-indent: 0px; padding-left: 5px; margin-left: 20px;">
+	<option value="">Filter league</option>
+		<option value="ahl">AHL</option>
+		<option value="memorial+cup">Memorial Cup</option>
+		<option value="nhl">NHL</option>
+	</select>
+</div>
+<div style="float: right; margin-right: 10px; font-weight: bold; color: #513B9B;">6:45 PM EST</div>
+<div style="float: right; margin-left: 50px;"><div style="clear: both;"></div>
 </div>
 <div style="clear: both;"></div>
 </div>
 <div style="width: 984px; white-space: nowrap; overflow: hidden; height: 100px;" id="display_teams"><div class="entry">
-<div class="time"><span style="float: left;"> <span class="game_time" style="display: block;"> 8:00 AM EST </span> <span class="game_period" style="display: none;">
-		8:00 AM EST </span> </span> <span style="float: left; margin-left: 10px;"> </span> <span style="float: right; font-size: 9px; display: block; margin-top: 2px; color: #46458b;"><a style="font-weight: normal;" href="/calendar/event/khl">KHL</a></span>
-<div style="clear: both;"></div>
-</div>
-<div style="width: 170px;">
-<div class="team" style="float: left; width: 150px; text-overflow: ellipsis; overflow: hidden;" title="Barys Astana">Barys Astana</div>
-<div style="float: right; margin-top: 4px;  display: none; " class="scores">0</div>
-<div style="clear: both;"></div>
-</div>
-<div style="width: 170px;">
-<div class="team" style="float: left; width: 150px; text-overflow: ellipsis; overflow: hidden;" title="Yugra Khanty-Mansiysk">Yugra Khanty-Mansiysk</div>
-<div style="float: right; margin-top: 4px;  display: none; " class="scores">0</div>
-<div style="clear: both;"></div>
-</div>
-		  <a class="soon">8:00 AM Start</a> </div>
-		<div class="entry">
-<div class="time"><span style="float: left;"> <span class="game_time" style="display: block;"> 7:00 PM EST </span> <span class="game_period" style="display: none;">
-		7:00 PM EST </span> </span> <span style="float: left; margin-left: 10px;"> <img style="margin-top: 1px; display: block;" src="/images/hdtag.png" title="HD Feed"></span> <span style="float: right; font-size: 9px; display: block; margin-top: 2px; color: #46458b;"><a style="font-weight: normal;" href="/calendar/event/ohl">OHL</a></span>
-<div style="clear: both;"></div>
-</div>
-<div style="width: 170px;">
-<div class="team" style="float: left; width: 150px; text-overflow: ellipsis; overflow: hidden;" title="Kitchener Rangers">Kitchener Rangers</div>
-<div style="float: right; margin-top: 4px;  display: none; " class="scores">0</div>
-<div style="clear: both;"></div>
-</div>
-<div style="width: 170px;">
-<div class="team" style="float: left; width: 150px; text-overflow: ellipsis; overflow: hidden;" title="London Knights">London Knights</div>
-<div style="float: right; margin-top: 4px;  display: none; " class="scores">0</div>
-<div style="clear: both;"></div>
-</div>
-		  <a class="soon">7:00 PM Start</a> </div>
-		<div class="entry">
-<div class="time"><span style="float: left;"> <span class="game_time" style="display: block;"> 7:00 PM EST </span> <span class="game_period" style="display: none;">
-		7:00 PM EST </span> </span> <span style="float: left; margin-left: 10px;"> </span> <span style="float: right; font-size: 9px; display: block; margin-top: 2px; color: #46458b;"><a style="font-weight: normal;" href="/calendar/event/qmjhl">QMJHL</a></span>
-<div style="clear: both;"></div>
-</div>
-<div style="width: 170px;">
-<div class="team" style="float: left; width: 150px; text-overflow: ellipsis; overflow: hidden;" title="Drummondville Voltigeurs">Drummondville Voltigeurs</div>
-<div style="float: right; margin-top: 4px;  display: none; " class="scores">0</div>
-<div style="clear: both;"></div>
-</div>
-<div style="width: 170px;">
-<div class="team" style="float: left; width: 150px; text-overflow: ellipsis; overflow: hidden;" title="PEI Rocket">PEI Rocket</div>
-<div style="float: right; margin-top: 4px;  display: none; " class="scores">0</div>
-<div style="clear: both;"></div>
-</div>
-		  <a class="soon">7:00 PM Start</a> </div>
-		<div class="entry">
-<div class="time"><span style="float: left;"> <span class="game_time" style="display: block;"> 7:00 PM EST </span> <span class="game_period" style="display: none;">
-		7:00 PM EST </span> </span> <span style="float: left; margin-left: 10px;"> </span> <span style="float: right; font-size: 9px; display: block; margin-top: 2px; color: #46458b;"><a style="font-weight: normal;" href="/calendar/event/qmjhl">QMJHL</a></span>
-<div style="clear: both;"></div>
-</div>
-<div style="width: 170px;">
-<div class="team" style="float: left; width: 150px; text-overflow: ellipsis; overflow: hidden;" title="Rimouski Oceanic">Rimouski Oceanic</div>
-<div style="float: right; margin-top: 4px;  display: none; " class="scores">0</div>
-<div style="clear: both;"></div>
-</div>
-<div style="width: 170px;">
-<div class="team" style="float: left; width: 150px; text-overflow: ellipsis; overflow: hidden;" title="Gatineau Olympiques">Gatineau Olympiques</div>
-<div style="float: right; margin-top: 4px;  display: none; " class="scores">0</div>
-<div style="clear: both;"></div>
-</div>
-		  <a class="soon">7:00 PM Start</a> </div>
-		<div class="entry">
 <div class="time"><span style="float: left;"> <span class="game_time" style="display: block;"> 7:05 PM EST </span> <span class="game_period" style="display: none;">
-		7:05 PM EST </span> </span> <span style="float: left; margin-left: 10px;"> <img style="margin-top: 1px; display: block;" src="/images/tvtag.png" title="TV Feed"></span> <span style="float: right; font-size: 9px; display: block; margin-top: 2px; color: #46458b;"><a style="font-weight: normal;" href="/calendar/event/ohl">OHL</a></span>
+		7:05 PM EST </span> </span> <span style="float: left; margin-left: 10px;"> </span> <span style="float: right; font-size: 9px; display: block; margin-top: 2px; color: #46458b;"><a style="font-weight: normal;" href="/calendar/event/ahl">AHL</a></span>
 <div style="clear: both;"></div>
 </div>
-<div style="width: 170px;">
-<div class="team" style="float: left; width: 150px; text-overflow: ellipsis; overflow: hidden;" title="Peterborough Petes">Peterborough Petes</div>
+		<div style="width: 170px;">
+<div class="team" style="float: left; width: 150px; text-overflow: ellipsis; overflow: hidden;" title="Providence Bruins">Wilkes-Barrie Scranton Penguins</div>
 <div style="float: right; margin-top: 4px;  display: none; " class="scores">0</div>
 <div style="clear: both;"></div>
 </div>
 <div style="width: 170px;">
-<div class="team" style="float: left; width: 150px; text-overflow: ellipsis; overflow: hidden;" title="Oshawa Generals">Oshawa Generals</div>
+<div class="team" style="float: left; width: 150px; text-overflow: ellipsis; overflow: hidden;" title="Wilkes-Barrie Scranton Penguins">Providence Bruins</div>
 <div style="float: right; margin-top: 4px;  display: none; " class="scores">0</div>
 <div style="clear: both;"></div>
 </div>
-		  <a class="soon">7:05 PM Start</a> </div>
+		  <a href="/live-streams/providence+bruins-vs-wilkes-barrie+scranton+penguins-05-22-2013/13067" class="watch">Watch Live</a> </div>
+		<div class="entry">
+<div class="time"><span style="float: left;"> <span class="game_time" style="display: block;"> 7:30 PM EST </span> <span class="game_period" style="display: none;">
+		7:30 PM EST </span> </span> <span style="float: left; margin-left: 10px;"> <img style="margin-top: 1px; display: block;" src="/images/hdtag.png" title="HD Feed"></span> <span style="float: right; font-size: 9px; display: block; margin-top: 2px; color: #46458b;"><a style="font-weight: normal;" href="/calendar/event/nhl">NHL</a></span>
+<div style="clear: both;"></div>
+</div>
+		<div style="width: 170px;">
+<div class="team" style="float: left; width: 150px; text-overflow: ellipsis; overflow: hidden;" title="Ottawa Senators">Pittsburgh Penguins</div>
+<div style="float: right; margin-top: 4px;  display: none; " class="scores">0</div>
+<div style="clear: both;"></div>
+</div>
+<div style="width: 170px;">
+<div class="team" style="float: left; width: 150px; text-overflow: ellipsis; overflow: hidden;" title="Pittsburgh Penguins">Ottawa Senators</div>
+<div style="float: right; margin-top: 4px;  display: none; " class="scores">0</div>
+<div style="clear: both;"></div>
+</div>
+		  <a class="soon">7:30 PM Start</a> </div>
 		<div class="entry">
 <div class="time"><span style="float: left;"> <span class="game_time" style="display: block;"> 8:00 PM EST </span> <span class="game_period" style="display: none;">
-		8:00 PM EST </span> </span> <span style="float: left; margin-left: 10px;"> </span> <span style="float: right; font-size: 9px; display: block; margin-top: 2px; color: #46458b;"><a style="font-weight: normal;" href="/calendar/event/whl">WHL</a></span>
+		8:00 PM EST </span> </span> <span style="float: left; margin-left: 10px;"> <img style="margin-top: 1px; display: block;" src="/images/hdtag.png" title="HD Feed"></span> <span style="float: right; font-size: 9px; display: block; margin-top: 2px; color: #46458b;"><a style="font-weight: normal;" href="/calendar/event/memorial+cup">Memorial Cup</a></span>
 <div style="clear: both;"></div>
 </div>
-<div style="width: 170px;">
-<div class="team" style="float: left; width: 150px; text-overflow: ellipsis; overflow: hidden;" title="Swift Current Broncos">Swift Current Broncos</div>
+		<div style="width: 170px;">
+<div class="team" style="float: left; width: 150px; text-overflow: ellipsis; overflow: hidden;" title="Portland Winter Hawks">Saskatoon Blades</div>
 <div style="float: right; margin-top: 4px;  display: none; " class="scores">0</div>
 <div style="clear: both;"></div>
 </div>
 <div style="width: 170px;">
-<div class="team" style="float: left; width: 150px; text-overflow: ellipsis; overflow: hidden;" title="Brandon Wheat Kings">Brandon Wheat Kings</div>
+<div class="team" style="float: left; width: 150px; text-overflow: ellipsis; overflow: hidden;" title="Saskatoon Blades">Portland Winter Hawks</div>
 <div style="float: right; margin-top: 4px;  display: none; " class="scores">0</div>
 <div style="clear: both;"></div>
 </div>
 		  <a class="soon">8:00 PM Start</a> </div>
-		<div class="entry">
-<div class="time"><span style="float: left;"> <span class="game_time" style="display: block;"> 8:05 PM EST </span> <span class="game_period" style="display: none;">
-		8:05 PM EST </span> </span> <span style="float: left; margin-left: 10px;"> </span> <span style="float: right; font-size: 9px; display: block; margin-top: 2px; color: #46458b;"><a style="font-weight: normal;" href="/calendar/event/whl">WHL</a></span>
-<div style="clear: both;"></div>
-</div>
-<div style="width: 170px;">
-<div class="team" style="float: left; width: 150px; text-overflow: ellipsis; overflow: hidden;" title="Saskatoon Blades">Saskatoon Blades</div>
-<div style="float: right; margin-top: 4px;  display: none; " class="scores">0</div>
-<div style="clear: both;"></div>
-</div>
-<div style="width: 170px;">
-<div class="team" style="float: left; width: 150px; text-overflow: ellipsis; overflow: hidden;" title="Lethbridge Hurricanes">Lethbridge Hurricanes</div>
-<div style="float: right; margin-top: 4px;  display: none; " class="scores">0</div>
-<div style="clear: both;"></div>
-</div>
-		  <a class="soon">8:05 PM Start</a> </div>
-		<div class="entry">
-<div class="time"><span style="float: left;"> <span class="game_time" style="display: block;"> 8:05 PM EST </span> <span class="game_period" style="display: none;">
-		8:05 PM EST </span> </span> <span style="float: left; margin-left: 10px;"> </span> <span style="float: right; font-size: 9px; display: block; margin-top: 2px; color: #46458b;"><a style="font-weight: normal;" href="/calendar/event/ahl">AHL</a></span>
-<div style="clear: both;"></div>
-</div>
-<div style="width: 170px;">
-<div class="team" style="float: left; width: 150px; text-overflow: ellipsis; overflow: hidden;" title="Rockford IceHogs">Rockford IceHogs</div>
-<div style="float: right; margin-top: 4px;  display: none; " class="scores">0</div>
-<div style="clear: both;"></div>
-</div>
-<div style="width: 170px;">
-<div class="team" style="float: left; width: 150px; text-overflow: ellipsis; overflow: hidden;" title="Texas Stars">Texas Stars</div>
-<div style="float: right; margin-top: 4px;  display: none; " class="scores">0</div>
-<div style="clear: both;"></div>
-</div>
-		  <a class="soon">8:05 PM Start</a> </div>
-		<div class="entry">
-<div class="time"><span style="float: left;"> <span class="game_time" style="display: block;"> 10:05 PM EST </span> <span class="game_period" style="display: none;">
-		10:05 PM EST </span> </span> <span style="float: left; margin-left: 10px;"> </span> <span style="float: right; font-size: 9px; display: block; margin-top: 2px; color: #46458b;"><a style="font-weight: normal;" href="/calendar/event/whl">WHL</a></span>
-<div style="clear: both;"></div>
-</div>
-<div style="width: 170px;">
-<div class="team" style="float: left; width: 150px; text-overflow: ellipsis; overflow: hidden;" title="Seattle Thunderbirds">Seattle Thunderbirds</div>
-<div style="float: right; margin-top: 4px;  display: none; " class="scores">0</div>
-<div style="clear: both;"></div>
-</div>
-<div style="width: 170px;">
-<div class="team" style="float: left; width: 150px; text-overflow: ellipsis; overflow: hidden;" title="Everett Silvertips">Everett Silvertips</div>
-<div style="float: right; margin-top: 4px;  display: none; " class="scores">0</div>
-<div style="clear: both;"></div>
-</div>
-		  <a class="soon">10:05 PM Start</a> </div>
-		<div class="entry">
-<div class="time"><span style="float: left;"> <span class="game_time" style="display: block;"> 10:05 PM EST </span> <span class="game_period" style="display: none;">
-		10:05 PM EST </span> </span> <span style="float: left; margin-left: 10px;"> </span> <span style="float: right; font-size: 9px; display: block; margin-top: 2px; color: #46458b;"><a style="font-weight: normal;" href="/calendar/event/whl">WHL</a></span>
-<div style="clear: both;"></div>
-</div>
-<div style="width: 170px;">
-<div class="team" style="float: left; width: 150px; text-overflow: ellipsis; overflow: hidden;" title="Victoria Royals">Victoria Royals</div>
-<div style="float: right; margin-top: 4px;  display: none; " class="scores">0</div>
-<div style="clear: both;"></div>
-</div>
-<div style="width: 170px;">
-<div class="team" style="float: left; width: 150px; text-overflow: ellipsis; overflow: hidden;" title="Moose Jaw Warriors">Moose Jaw Warriors</div>
-<div style="float: right; margin-top: 4px;  display: none; " class="scores">0</div>
-<div style="clear: both;"></div>
-</div>
-		  <a class="soon">10:05 PM Start</a> </div>
 		</div>
 </div>
-<a class="scrollRight activeScrollRight" data-index="120">»</a>
+<a class="scrollRight " data-index="0">»</a>
 <div style="clear: both;"></div>
 </div>
-</div>
+</div></div>
 <hr>
 <div id="contain">
 <div style="float: left; width: 250px;"><div class="heading">Announcements</div>
 <hr>
-<div class="heading_body" style="padding: 0px;"><div class="support_entry" style="background: none; width: 228px;"><a class="title" href="/support/categories/1/announcements/1171/Price+Special++1+Week">Price Special - 1 Week</a>
-<div style="margin-top: 5px; color: #87878a;">Posted 4 days ago</div>
-</div>
-		<div class="support_entry" style="background: none; width: 228px;"><a class="title" href="/support/categories/1/announcements/1001/What+would+you+like">What would you like?</a>
+<div class="heading_body" style="padding: 0px;"><div class="support_entry" style="background: none; width: 228px;"><a class="title" href="/support/categories/1/announcements/3470/Updated+OnDemand+Player">Updated On-Demand Player</a>
 <div style="margin-top: 5px; color: #87878a;">Posted 3 weeks ago</div>
 </div>
-		<div class="support_entry" style="background: none; width: 228px;"><a class="title" href="/support/categories/1/announcements/997/HockeyStreams+Referral+Program">HockeyStreams Referral Program</a>
-<div style="margin-top: 5px; color: #87878a;">Posted 3 weeks ago</div>
+		<div class="support_entry" style="background: none; width: 228px;"><a class="title" href="/support/categories/1/announcements/2848/Updated+Guide+for+X360+and+PS3">Updated Guide for X360 and PS3</a>
+<div style="margin-top: 5px; color: #87878a;">Posted 2 months ago</div>
 </div>
-		<div class="support_entry" style="background: none; width: 228px;"><a class="title" href="/support/categories/1/announcements/906/HockeyStreams+Android+App">HockeyStreams Android App</a>
-<div style="margin-top: 5px; color: #87878a;">Posted 1 month ago</div>
+		<div class="support_entry" style="background: none; width: 228px;"><a class="title" href="/support/categories/1/announcements/2544/Updated+Refund+Policy">Updated Refund Policy</a>
+<div style="margin-top: 5px; color: #87878a;">Posted 3 months ago</div>
 </div>
-		<div class="support_entry" style="background: none; width: 228px;"><a class="title" href="/support/categories/1/announcements/893/Lockout+Update+and+Coverage">Lockout Update and Coverage</a>
-<div style="margin-top: 5px; color: #87878a;">Posted 1 month ago</div>
+		<div class="support_entry" style="background: none; width: 228px;"><a class="title" href="/support/categories/1/announcements/2159/Watch+via+VLC+in+HD">Watch via VLC in HD</a>
+<div style="margin-top: 5px; color: #87878a;">Posted 4 months ago</div>
+</div>
+		<div class="support_entry" style="background: none; width: 228px;"><a class="title" href="/support/categories/1/announcements/1396/Welcome+back+NHL">Welcome back NHL!</a>
+<div style="margin-top: 5px; color: #87878a;">Posted 5 months ago</div>
 </div>
 		<div style="clear: both;"></div>
 </div>
@@ -544,10 +575,14 @@ $(function() {
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
 <div style="padding: 10px; border-bottom: 1px solid #e2e2e2; height: 20px;">
-<div class="fb-like" data-href="http://www.facebook.com/pages/HockeyStreamscom/125075660890560" data-send="true" data-layout="button_count" data-width="150" data-show-faces="false"></div>
+<div class="fb-like" data-href="https://www.facebook.com/pages/HockeyStreamscom/125075660890560" data-send="false" data-layout="button_count" data-width="150" data-show-faces="false"></div>
 </div>
-<div style="padding: 10px; height: 20px;"><a href="https://twitter.com/hockeystreams" class="twitter-follow-button" data-show-count="false" style="width: 80px;">Follow @hockeystreams</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+<div style="padding: 10px; height: 20px;"><a href="https://twitter.com/hockeystreams" class="twitter-follow-button" data-show-count="false" style="width: 80px;">Follow @hockeystreams</a> <script>!function(d,s,id){var 
+js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 </div>
+<div style="padding: 10px; border-top: 1px solid #e2e2e2; height: 20px;"> <a target="_new" href="https://www.facebook.com/dialog/feed?app_id=397494226937587&amp;link=http://www.hockeystreams.com&amp;picture=http://s.hscontent.com/images/logo75.png&amp;name=HockeyStreams.com&amp;caption=The+best+website+for+watching+live+and+on-demand+hockey%21&amp;description=Watch+live+and+on-demand+Hockey+Streams+from+the+NHL%2C+KHL%2C+AHL%2C+OHL%2C+QMJHL%2C+WHL+and+more%21&amp;redirect_uri=http://www.hockeystreams.com" style="cursor: pointer;"><img src="/images/facebook_icon.png" style="border: 0px;" width="20"> <span style="position: relative; top: -4px; left: 5px;">Share on Facebook</span></a></div>
+<div style="padding: 10px; border-top: 1px solid #e2e2e2; height: 20px;"> <a target="_new" href="https://twitter.com/share?url=www.hockeystreams.com&amp;text=Watch+live+and+on-demand+Hockey+Streams+from+the+NHL%2C+KHL%2C+AHL%2C+OHL%2C+QMJHL%2C+WHL+and+more%21+-+www.hockeystreams.com" style="cursor: pointer;"><img src="/images/twitter_icon.png" style="border: 0px;" width="20"> <span style="position: 
+relative; top: -4px; left: 5px;">Share on Twitter</span></a></div>
 </div>
 <div class="heading">Flexibility</div>
 <hr>
@@ -560,7 +595,8 @@ Everybody can enjoy hockey glory for as long as they decide.</div>
 <br>
 That's not all, we also broadcast the Trade Deadline, Free Agency, All-Star Game, Player Awards, World Cup, Olympics, and many more events. <br>
 <br>
-<a href="/register">Become a member</a> and gain access to fantastic quality streams as well as our revolutionary members area. Providing you instant access to game summaries, scores, full season calendar, live streams, on-demand streams, and more!</div>
+<a href="/register">Become a member</a> and gain access to fantastic quality streams as well as our revolutionary members area. Providing you instant access to game summaries, scores, full season calendar, live streams, on-demand 
+streams, and more!</div>
 </div>
 <div style="float: left; width: 764px; margin-left: 10px;"><div class="heading">Privacy Policy</div>
 <hr>
@@ -630,8 +666,7 @@ We may provide links to websites outside of our Website. These linked sites are 
 
 <b>How We Protect the Security of Your Financial Information</b><br><br>
 
-We do not store financially sensitive information on our website to ensure your safety. All financial informaton is handled via PayPal.com.<br><br>
-
+All payment information is stored securely, in single-way encrypted form.
 
 Ultimately, your financial information is protected by the password you created when you created an account at HockeyStreams™ (or another password you chose after changing a previous 
 password). Please keep this password confidential. No Customer Service Associate or any other representative of HockeyStreams™ will ever ask you for your password. The confidentiality of your 
@@ -653,26 +688,29 @@ of any major changes for at least 30 days following the change. </div>
 <a href="/privacy_policy" style="margin-left: 10px;">- Privacy Policy</a><br>
 <a href="/rules" style="margin-left: 10px;">- Account Rules</a><br>
 <a href="/api" style="margin-left: 10px;">- API</a><br>
+<a href="/devices" style="margin-left: 10px;">- Devices</a><br>
 </div>
 </div>
 <div style="float: left; width: 150px;"><a href="/" style="font-size: 12px;"><b>STREAMS</b></a>
 <div style="margin-top: 5px;"><a href="/live-streams" style="margin-left: 10px;">- Live Streams</a><br>
 <a href="/on-demand" style="margin-left: 10px;">- On-Demand Streams</a><br>
+<a href="/highlights" style="margin-left: 10px;">- Highlights</a><br>
+<a href="/condensed" style="margin-left: 10px;">- Condensed Games</a><br>
 <a href="/preview" style="margin-left: 10px;">- Preview</a><br>
 <a href="http://m.hockeystreams.com" style="margin-left: 10px;">- HockeyStreams on iOS</a><br>
 </div>
 </div>
-<div style="float: left;; width: 150px;"><a href="/my_account" style="font-size: 12px;"><b>MY ACCOUNT</b></a>
-<div style="margin-top: 5px;"><a href="/my_account/message_center" style="margin-left: 10px;">- Messages</a><br>
-<a href="/my_account/subscriptions" style="margin-left: 10px;">- View Subscriptions</a><br>
-<a href="/my_account/view_payments" style="margin-left: 10px;">- View Payments</a><br>
+<div style="float: left;; width: 150px;"><a href="/account" style="font-size: 12px;"><b>MY ACCOUNT</b></a>
+<div style="margin-top: 5px;"><a href="/account/message_center" style="margin-left: 10px;">- Messages</a><br>
+<a href="/account/subscriptions" style="margin-left: 10px;">- View Subscriptions</a><br>
+<a href="/account/payments" style="margin-left: 10px;">- View Payments</a><br>
 </div>
 </div>
 <div style="float: left; width: 150px;"><a href="/calendar" style="font-size: 12px;"><b>CALENDAR</b></a>
-<div style="margin-top: 5px;"><a href="/calendar/nhl" style="margin-left: 10px;">- NHL</a><br>
-<a href="/calendar/world_juniors" style="margin-left: 10px;">- World Juniors</a><br>
-<a href="/calendar/world_championships" style="margin-left: 10px;">- World Championships</a><br>
-<a href="/calendar/other" style="margin-left: 10px;">- Other</a><br>
+<div style="margin-top: 5px;"><a href="/calendar/event/nhl" style="margin-left: 10px;">- NHL</a><br>
+<a href="/calendar/event/ahl" style="margin-left: 10px;">- AHL</a><br>
+<a href="/calendar/event/khl" style="margin-left: 10px;">- KHL</a><br>
+<a href="/calendar/event/ahl" style="margin-left: 10px;">- OHL</a><br>
 </div>
 </div>
 <div style="float: left; width: 150px;"><a href="/about_us" style="font-size: 12px;"><b>ABOUT US</b></a>
@@ -692,11 +730,13 @@ of any major changes for at least 30 days following the change. </div>
 </div>
 </div>
 <div style="clear: both;">
-<div style="font-weight: bold; text-align: center; font-family: Tahoma; font-size: 12px; position: relative; top: 15px;">Copyright © 2012 HockeyStreams. All Rights Reserved.</div>
+<div style="font-weight: bold; text-align: center; font-family: Tahoma; font-size: 12px; position: relative; top: 15px;">Copyright © 2013 HockeyStreams. All Rights Reserved.</div>
 </div>
 </div>
 </div>
 </div>
+
+
 
 
 </body></html>
