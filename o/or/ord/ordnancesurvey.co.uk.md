@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ordnancesurvey.co.uk privacy policy that was archived on 2012-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121002231013id_/http%3A//www.ordnancesurvey.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ordnancesurvey.co.uk privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522033035id_/http%3A//www.ordnancesurvey.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy for the Ordnance Survey website
 
-Last Updated: May 2012
+Last updated: November 2012
 
 Ordnance Survey, and its wholly owned subsidiary company Ordnance Survey Limited, are committed to protecting and respecting your privacy, and operate within the requirements of the Data Protection Act 1998.
 
@@ -30,6 +30,10 @@ We recommend that you read this Privacy Policy alongside the Website Terms of Us
 
 1.8 You may supply us with information via our applications, web forums and bulletin boards. Please refer to the Website Terms of Use for more information about our rules on Submissions.
 
+1.9 If you register for an OS conference, seminar or other event, we will require your name, address and the other details so that we can process your registration and attendance.
+
+1.10 If we invite you to join one of our cloud based collaborative workspaces, you will be asked to provide your name, email address and other personal details during the registration process.
+
 2 **Cookies:**
 
 2.1 Like many websites, we use cookies to obtain certain information when your web browser accesses the Website.  A cookie is a small text file stored on your computer that we can access when you make return visits to the Website to monitor how the Website is used, improve our service and make your experience more efficient.
@@ -54,7 +58,8 @@ g) track the success of our marketing activity;
 h) ensure the content of the Website is fit for the purpose for which it was set up and to develop the experience of its users;   
 i) monitor compliance with and enforce our Website terms and conditions or our data licensing terms;  
 j) if you have consented, to let you know about updates and promotional offers in relation to other Ordnance Survey products and services which may be of interest to you;  
-k) if you have consented, to enable selected third parties to contact you.
+k) if you have consented, to enable selected third parties to contact you.  
+l) connect and collaborate with you within an online collaborative workspace.
 
 4 **Sharing your information**
 
