@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thefrugalette.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106002746id_/http%3A//www.thefrugalette.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefrugalette.com privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522233515id_/http%3A//www.thefrugalette.com/privacy-policy) for the most accurate reproduction.*
 
-# - TheFrugalette
+# Privacy Policy - thefrugalette
 
 At The Frugalette, I am committed to protecting your privacy – as a first-time visitor or regular reader of this website. To my readers, I offer this pledge:
 
