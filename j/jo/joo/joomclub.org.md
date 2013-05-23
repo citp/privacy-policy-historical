@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the joomclub.org privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116233447id_/http%3A//www.joomclub.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joomclub.org privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523165841id_/http%3A//www.joomclub.org/joomclub/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | JoomClub
+# Privacy Policy
 
 JoomClub is committed to protecting your privacy. This Privacy Policy explains our privacy practices for our website, www.joomclub.org on the World Wide Web (the "Site"), as well as for JoomClub services that may be accessed through the normal use of our products (the "Services"). You can travel through most of our Site without giving us any information about yourself. But sometimes we do need information to provide services that you request. The following statement explains our information-gathering and dissemination practices. Please read the complete JoomClub Privacy Policy.
 
