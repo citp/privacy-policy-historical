@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liveluvcreate.com privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109234156id_/http%3A//www.liveluvcreate.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liveluvcreate.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523111743id_/http%3A//www.liveluvcreate.com/privacy.html) for the most accurate reproduction.*
 
 # Create Beautiful Quote Photos - LiveLuvCreate.com
 
