@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the markedbyteachers.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122022715id_/http%3A//www.markedbyteachers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the markedbyteachers.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523050903id_/http%3A//www.markedbyteachers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Marked by Teachers is owned and run by Acumen Professional Intelligence Ltd. 
+Marked by Teachers is owned and run by The Student Room Group Ltd. 
 
 ## Introduction
 
@@ -63,7 +63,7 @@ Any advertisement appearing on this website (banner and/or skyscraper) is delive
 If you have any questions about this privacy statement, the conduct of Marked by Teachers or your use of the service this website provides, you can contact: 
 
 Marked by Teachers  
-Acumen Professional Intelligence Ltd  
+The Student Room Group Ltd  
 The Grain Store  
 127 Gloucester Road  
 Brighton  
