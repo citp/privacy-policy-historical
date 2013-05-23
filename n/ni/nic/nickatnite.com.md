@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nickatnite.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231033946id_/http%3A//www.nickatnite.com/info/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nickatnite.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523083105id_/http%3A//www.nickatnite.com/info/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy/Your California Privacy Rights | Nick @ Nite
 
@@ -6,7 +6,7 @@ Nickelodeon - Universal Privacy Policy
 
 **THE NICKELODEON GROUP PRIVACY POLICY AND YOUR CALIFORNIA PRIVACY RIGHTS**
 
-**LAST UPDATED:** 05/23/2012
+**LAST UPDATED:** 03/22/2013
 
 Welcome! This Privacy Policy governs the websites and online services within the Nickelodeon Group, which includes the websites and online services listed [here](http://www.nick.com/nick-assets/copy/nickelodeon-sites.html), including those operated by NeoPets, Inc. and Atom Entertainment, Inc. (collectively, the “Nickelodeon Sites” and, individually, “Site”). By accessing any of the Nickelodeon Sites, you are consenting to this Privacy Policy. This Privacy Policy describes what information the Nickelodeon Sites collect from users, including children, when they visit the Nickelodeon Sites; how such information is used and stored; when such information may be disclosed to third parties; how users, parents, and guardians can control the use and disclosure of collected information; and how information is protected.
 
@@ -153,9 +153,9 @@ We may request or collect certain information when you visit the Nickelodeon Sit
 
 Registration information is used to enable visitors to take advantage of site offerings; respond to visitor’s requests for products, services, and information; manage games; serve appropriate material; customize the content you see when you visit the Nickelodeon Sites; and offer visitors special offers and promotions from Nickelodeon Sites and the “Viacom family of companies” (which comprises Viacom International Inc. and its subsidiaries and affiliates), as well as on behalf of selected third parties offering products, programs or services, that we believe may be of interest to you.
 
-**B. Social Platform Registrations and Social Media Plugins**: Some of the Nickelodeon Sites permit or require you to register or log into your account via a social networking platform such as Facebook Connect or Flux, or permit you to use social media plugins such as the Facebook “Like” or Google “+1” buttons. When you use these social networking platforms and plugins, your username and password for the services and other information available about you or collected from you on these services may be shared with us.
+**B. Social Platform Registrations and Social Media Plugins**: Some of the Nickelodeon Sites permit or require you to register or log into your account via a social networking platform such as Login with Facebook or Flux, or permit you to use social media plugins such as the Facebook “Like” or Google “+1” buttons. When you use these social networking platforms and plugins, your username and password for the services and other information available about you or collected from you on these services may be shared with us.
 
-When you use social networking platforms and plugins, you share your information with them and their privacy policy applies to their collection, use, and disclosure of such information. In addition, they may be able to collect information about you, including your activity on the Nickelodeon Sites, and they may notify your connections on the social networking platform about your use of the Nickelodeon Sites. Such services may also employ unique identifiers which allow your activity to be monitored across multiple websites for purposes of delivering more targeted advertising to you. For more information about Facebook Connect, please go [here](http://www.facebook.com/help/?page=730). For more information on Flux, please go [here](http://www.socialproject.com/UserAgreements/enUS/privacypolicy.html). Please note that their privacy policies may be different from our own and we encourage you to read them.
+When you use social networking platforms and plugins, you share your information with them and their privacy policy applies to their collection, use, and disclosure of such information. In addition, they may be able to collect information about you, including your activity on the Nickelodeon Sites, and they may notify your connections on the social networking platform about your use of the Nickelodeon Sites. Such services may also employ unique identifiers which allow your activity to be monitored across multiple websites for purposes of delivering more targeted advertising to you. For more information about Login with Facebook, please go [here](http://www.facebook.com/help/?page=730). For more information on Flux, please go [here](http://www.socialproject.com/UserAgreements/enUS/privacypolicy.html). Please note that their privacy policies may be different from our own and we encourage you to read them.
 
 **C.  Computer Information Collected by Us**:  When visitors come to a Site, we automatically collect certain information from their computers or mobile devices, such as the type of computer operating system (e.g., Windows XP or Mac OS), the visitor's IP address, the web browser (e.g., Internet Explorer, Safari, Chrome and Firefox), UDID (for mobile devices), information about the websites visited before and after visiting the Site, the web pages and advertisements viewed and links clicked on within the Nickelodeon Sites, interactions with e-mail messages sent by a Site or the Viacom family of companies ( _e.g._ , links clicked on and whether the messages were opened or forwarded), information collected through the use of unique identifiers such as cookies (see below), information regarding the Internet service provider, and other standard server log information ("Computer Information").
 
@@ -171,15 +171,22 @@ Our Third Party Advertising Service Providers (as defined in Section D) do not h
 
 You have a number of options with respect to the Tracking Technologies set by the Nickelodeon Sites:
 
-  * You can prevent the use of certain Tracking Technologies (other than Flash cookies) by using the controls in your Web browser. To do so, you must complete both of the following steps:
+  * You can prevent the use of certain Tracking Technologies (other than Flash cookies) by using the controls in your Web browser. To do so, you must complete both of the steps following your browser type below:
 
+    * **Internet Explorer**
+      1. _Delete existing Tracking Technologies_ through the “Internet Options” sub-option of the “Tools” menu option of your browser or otherwise as directed by your browser’s support feature; and
 
+      2. _Disable future Tracking Technologies_ by using the same browser controls. Additional information on disabling most Tracking Technologies may be available through your browser’s support feature. (See the “help” section of your browser for more information.)
 
-  1. _Delete existing Tracking Technologies_ through the “Internet Options” sub-option of the “Tools” menu option of your browser or otherwise as directed by your browser’s support feature; _and_
+    * **Google Chrome**
+      1. _Delete existing Tracking Technologies_ through the “Clear Browsing Data...” sub-option of the “Tools” menu option of your browser or otherwise as directed by your browser’s support feature; and
 
-  2. _Disable future Tracking Technologies_ by using the same browser controls. Additional information on disabling most Tracking Technologies may be available through your browser’s support feature. (See the “help” section of your browser for more information.)
+      2. _Disable future Tracking Technologies_ by using the same browser controls. Additional information on disabling most Tracking Technologies may be available through your browser’s support feature. (See the “help” section of your browser for more information.)
 
+    * **Mozilla Firefox**
+      1. _Delete existing Tracking Technologies_ through the “Clear Recent History...” sub-option of the “History” menu option of your browser or otherwise as directed by your browser’s support feature; and
 
+      2. _Disable future Tracking Technologies_ by using the same browser controls. Additional information on disabling most Tracking Technologies may be available through your browser’s support feature. (See the “help” section of your browser for more information.)
 
   * You may be able to have the device you use to access the Nickelodeon Sites warn you each time a cookie or most other Tracking Technologies is being set (other than Flash cookies), or you can choose to turn off such warnings. This is done through your browser on the device you use to access the Nickelodeon Sites. Additional information on warnings and removal of warnings may be available through your browser’s support feature.
 
@@ -198,7 +205,7 @@ You should be aware that different rules might apply to the collection, use or d
 
 With respect to the Tracking Technologies set by Third Party Advertising Service Providers and advertisers (and outside the control of the Nickelodeon Sites), you have a number of options:
 
-  * You can opt-out of the use of information for these advertising purposes by two such Third Party Advertising Service Providers, Demdex and DoubleClick by using those Providers’ opt-out tools.  You can access Demdex’s tool at <http://www.donottarget.com/> and DoubleClick’s at <http://www.google.com/intl/en/privacy/ads/>.  We also may from time to time permit other Third Party Advertising Service Providers and Advertisers to collect Information on the Nickelodeon Sites.  Some of these Providers and Advertisers may participate in the Network [Advertising Initiative’s Opt-Out Tool](http://www.networkadvertising.org/managing/opt_out.asp) and/or the [Self-Regulatory Program for Online Behavioral Advertising](http://www.aboutads.info/choices/) Please click on the links to these tools to learn more about your choices. 
+  * You can opt-out of the use of information for these advertising purposes by two such Third Party Advertising Service Providers, Adobe and DoubleClick by using those Providers’ opt-out tools.  You can access Adobe’s tool at <http://www.donottarget.com/> and DoubleClick’s at <http://www.google.com/intl/en/policies/technologies/ads/>.  We also may from time to time permit other Third Party Advertising Service Providers and Advertisers to collect Information on the Nickelodeon Sites.  Some of these Providers and Advertisers may participate in the Network [Advertising Initiative’s Opt-Out Tool](http://www.networkadvertising.org/managing/opt_out.asp) and/or the [Self-Regulatory Program for Online Behavioral Advertising](http://www.aboutads.info/choices/) Please click on the links to these tools to learn more about your choices. 
 
 
 
@@ -334,7 +341,7 @@ You have the right to access, update and correct factual inaccuracies in persona
 
 **B.  Parental Access**
 
-Parents/guardians of children under the age of 13 can print out and mail or fax us a signed form that allows them to review any personally identifiable information collected about their child, have this information deleted, and/or request that there be no further collection or use of their child's personally identifiable information. You can download the form [here](http://www.neopets.com/help.phtml?questionID=1379). We will take steps to verify the identity of anyone requesting personally identifiable information about a child and to ensure that the person is in fact the child's parent or legal guardian.
+Parents/guardians of children under the age of 13 can print out and mail or fax us a signed form that allows them to review any personally identifiable information collected about their child, have this information deleted, and/or request that there be no further collection or use of their child's personally identifiable information. You can download the form [here](http://www.nick.com/info/personal-information-access.html). We will take steps to verify the identity of anyone requesting personally identifiable information about a child and to ensure that the person is in fact the child's parent or legal guardian.
 
 **C.  Termination of Wireless Services**
 
