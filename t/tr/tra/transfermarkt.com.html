@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the transfermarkt.com privacy policy that was archived on 2012-09-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120919194605id_/http%3A//www.transfermarkt.com/en/information/datenschutz/intern.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the transfermarkt.com privacy policy that was archived on 2013-05-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130523154847id_/http%3A//www.transfermarkt.com/en/information/datenschutz/intern.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 			
@@ -18,13 +18,13 @@
 
 
 
-	<link rel="stylesheet" type="text/css" href="http://static.transfermarkt.net/static/css/style.css?v=136">
+	<link rel="stylesheet" type="text/css" href="http://static.transfermarkt.net/static/css/style.css?v=184">
 	
 	
 	<link rel="stylesheet" type="text/css" href="http://static.transfermarkt.net/static/css/style_inline.css?v=1">
-	<link rel="stylesheet" type="text/css" href="http://static.transfermarkt.net/static/css/custom/jquery.css">
+	<link rel="stylesheet" type="text/css" href="http://static.transfermarkt.net/static/css/custom/jquery.css?v=2">
 	<link rel="stylesheet" type="text/css" href="http://static.transfermarkt.net/static/css/jquery.tooltip.css">
-	<link rel="stylesheet" type="text/css" href="http://static.transfermarkt.net/static/css/style_sprites.css?v=12">
+	<link rel="stylesheet" type="text/css" href="http://static.transfermarkt.net/static/css/style_sprites.css?v=20">
 	
  <!--[if IE 8]>
 	<link rel="stylesheet" type="text/css" href="http://static.transfermarkt.net/static/css/style_ie8.css" />
@@ -44,7 +44,19 @@
 		.formular label.error {margin-left:10px;width:270px;color:red;padding-left:20px;background:url('http://static.transfermarkt.net/static/images/icons/denied.gif') no-repeat left top;}
 		.formular label.accept {background:url('http://static.transfermarkt.net/static/images/icons/accept.gif') no-repeat left top;}
 		#newsletter_topics label.error {display:none;margin-left:103px;}
+
+		#TLDinfo {
+			float: left;
+			margin: 0 0 30px 50px;
+			border-radius: 0;
+			-moz-border-radius: 0;
+			-webkit-border-radius: 0;	
+			box-shadow: 8px 8px 15px #666;
+			-moz-box-shadow: 8px 8px 15px #666;
+			-webkit-box-shadow: 8px 8px 15px #666;
+		}
 	</style>
+
 
 
 
@@ -55,12 +67,16 @@
 
 
 
+
+
 <script id="facebook-jssdk" src="//connect.facebook.net/de_DE/all.js#xfbml=1"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://static.transfermarkt.net/static/js/gcc/jq_20120120.js?_sn=1"></script>
 <script type="text/javascript" src="http://static.transfermarkt.net/static/js/min/jquery.bxSlider.min.js"></script>
 <script type="text/javascript" src="http://static.transfermarkt.net/static/js/min/jquery.hoverIntent.min.js"></script>
 <script type="text/javascript" src="http://static.transfermarkt.net/static/js/developer/jquery.personPopup.js"></script>
-
-<script type="text/javascript" src="/static/js/developer/tmfunc.js?_sn=000000032"></script>
+<script type="text/javascript" src="http://static.transfermarkt.net/static/js/developer/jquery.tablePopup.js"></script>
+<script type="text/javascript" src="http://static.transfermarkt.net/static/js/jquery.datepicker/jquery.ui.datepicker-de.js"></script>
+<script type="text/javascript" src="http://static.transfermarkt.net/static/js/jquery.datepicker/jquery.ui.datepicker-en.js"></script>
+<script type="text/javascript" src="/static/js/developer/tmfunc.js?_sn=000000049"></script>
 <script type="text/javascript">
 <!--
 	setGlobalStdVars("en", "", "", "0", "", "");
@@ -76,26 +92,120 @@
 
 
 
+
+
+
+
+<script type="text/javascript" src="/static/js/jquery.protect-data.min.js"></script>
+
 <script type="text/javascript">
 
-	function toggleContainerCookie(ele,cName) {
+
+function strpos (haystack, needle, offset) {
+	var i = (haystack + '').indexOf(needle, (offset || 0));
+	return i === -1 ? false : i;
+}
+
+$(document).ready(function () {
+	var warn_on_unload = '';
+
+	$(':input').on('change', function () {
+	    //warn_on_unload = "Du ha";
+	    warn_on_unload = "Auf dieser Seite wurden Daten eingegeben. Wenn diese Seite verlassen wird, gehen diese verloren. Soll die Seite verlassen werden?";
+	    $('form').submit(function () {
+	        warn_on_unload = '';
+	    });
+		if($(this).attr('class') == 'select') {
+			 warn_on_unload = '';
+		} else {
+
+			var selString = $(this).attr('class');
+
+			if(strpos(selString, 'select')!=false) {
+				warn_on_unload = '';
+			}
+		}
+		
+		
+	    window.onbeforeunload = function () {
+	        if (warn_on_unload != '') {
+	            return warn_on_unload;
+	        }
+	    }
+	});
+});
+
+
+</script>
+
+
+
+<script type="text/javascript">
+
+	function toggleContainerCookie(ele,cName,drag) {
 		$(ele).toggle();
-		if($(ele).css('display') == 'block') {$.setCookie(cName, '1', {duration: 10, path: '/', domain: '', secure: false});}
-		else {$.setCookie(cName, '0', {duration: 10, path: '/', domain: '', secure: false});}
+		if($(ele).css('display') == 'block') {
+			$.setCookie(cName, '1', {duration: 10, path: '/', domain: '', secure: false});
+			if(drag == 1) {
+				dragContainer(ele);
+			}
+		} else {
+			$.setCookie(cName, '0', {duration: 10, path: '/', domain: '', secure: false});
+			if(drag == 1) {
+				var nameX = ele + '_X';
+				var nameY = ele + '_Y';
+
+				$.setCookie(nameX, '0', {duration: 10, path: '/', domain: '', secure: false});
+				$.setCookie(nameY, '0', {duration: 10, path: '/', domain: '', secure: false});
+			}
+		}
 	}
 	function prepareCookieContainer(ele,cName) {
 		var value = $.readCookie(cName);
-		if (value == 1) { $(ele).show(); }
+		if (value == 1) { 
+			$(ele).show();
+			var nameX = ele + '_X';
+			var nameY = ele + '_Y';
+			if($.readCookie(nameX) > '0' && $.readCookie(nameY) > '0') {
+				$(ele).offset({top:$.readCookie(nameY),left:$.readCookie(nameX)});
+			}
+			dragContainer(ele,cName);
+		}
 	}
+
+	function dragContainer(ele,cName) {
+		if(cName != '') {
+			$.setCookie(cName, '1', {duration: 10, path: '/', domain: '', secure: false});
+		}
+		$(ele).draggable({
+			handle: "p.hl_startseite",
+			stop: function(event,ui) {
+				var offsetXPos = parseInt( ui.offset.left );
+				var offsetYPos = parseInt( ui.offset.top );
+				//alert($(this).index()+"\nDrag stopped!\n\nOffset: (" + offsetXPos + ", " + offsetYPos + ")\n");
+
+				var nameX = ele + '_X';
+				var nameY = ele + '_Y';
+
+				//alert(ui.toSource());
+
+				$.setCookie(nameX, offsetXPos, {duration: 10, path: '/', domain: '', secure: false});
+				$.setCookie(nameY, offsetYPos, {duration: 10, path: '/', domain: '', secure: false});
+				//$(ele).css(position, 'fixed');
+		    }
+		});
+	}
+		
+	
 
 </script>
 <!-- Dieses Tag in den Head-Bereich oder direkt vor dem schließenden Body-Tag einfügen -->
 <script type="text/javascript" src="https://apis.google.com/js/plusone.js">
 </script>
 
-
 <script type="text/javascript">
-  var _gaq = _gaq || [];
+
+	var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-3816204-13']);
   _gaq.push(['_setDomainName', 'none']);
   _gaq.push(['_setAllowLinker', true]);
@@ -106,8 +216,8 @@
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
+  
 </script>
-
 </head>
 <body>
 <div id="fb-root"></div>
@@ -121,7 +231,7 @@
 }(document, 'script', 'facebook-jssdk'));</script>
 
 
-<div class="dn"><img src="http://static.transfermarkt.net/start.gif?_ts=1348083965" width="1" height="1" alt="" title=""></div>
+<div class="dn"><img src="http://static.transfermarkt.net/start.gif?_ts=1369324127" width="1" height="1" alt="" title=""></div>
 
 
 
@@ -134,16 +244,72 @@
 
 
 <div id="frnMain">
-	<div id="main">
-		<div id="content">
+		
+	</div>
+
+<div id="main" class="cb">
+	<div id="content">
+		<div id="head" class="news_bg">
+    <a href="/en/" id="logo" name="top" title="Home page"><img src="http://static.transfermarkt.net/img/logo.png" width="127" height="53" alt="Zur Startseite"></a>
+    
+    <a href="/en/neu/info/immerbesser.html?from=logo" id="ib" title="...immer besser!">... immer besser!</a>
+			<div class="fr" id="headright">
+				
+				<div class="fl shortlinks">
+					<p class="vb"><img src="http://static.transfermarkt.net/img/rss.png" alt="RSS">&nbsp;<a href="http://www.transfermarkt.com/static/rss/AktuelleNewsCOM.rss">RSS</a></p>
+												<p class="vb"><img src="http://static.transfermarkt.net/img/chef.png" alt="Chef">&nbsp;<a href="http://www.basisrecherche.de" target="_blank">Chef</a></p>
+						
+						<p class="vb">
+						                                                                                                                             	                </p>
+				</div>
+				
+				<div id="userspace" class="fr">
+					<form method="post" action="/en/benutzer/system/login.html" id="login">
+						<p class="vb">
+							<input type="text" name="username" onfocus="$(this).val('');" class="headinputtext" tabindex="1" value="User name"><input type="checkbox" name="cookie" class="checkbox" tabindex="3"> Remember</p>
+						<p>
+						<input type="password" name="password" onfocus="$(this).val('');" class="headinputtext" value="Password" tabindex="2">
+						<input class="login_button fb" type="submit" value="login"></p>
+						<p style="padding-top:2px;"><a href="/en/benutzer/system/registrierung.html"><img src="http://static.transfermarkt.net/img/reg_button.png" class="vm" alt=""></a>&nbsp;<a href="/en/benutzer/system/registrierung.html" class="vm">Register</a></p>
+					</form>
+				</div>
+			</div>
+			<div id="headnavi">
+				<form class="fl" method="get" action="/en/undefined/suche/ergebnis.html" id="quicksearch_form">
+					<input type="text" id="quicksearch_field" class="headinputtext vm" value="Enter search term" onfocus="var selbst=$('#quicksearch_field');if(selbst.val()=='Enter search term') $('#quicksearch_field').val('');" name="quicksearch" style="width:126px;margin:2px 0 0 6px;background-color:#fff;height:13px;">
+					<input type="image" class="vm" src="http://static.transfermarkt.net/img/lupe.gif" style="margin:3px 6px 0 0;">
+				</form>
+				<a href="/en/?from=top_navi">Home page</a>
+				<a href="/en/news/news/datum.html?from=top_navi">News</a>
+								<a href="/en/2010/startseite/wettbewerbeCOM.html?from=top_navi">Competitions</a>
+												<a href="/en/default/startseite/statistiken.html?from=top_navi">Statistics</a>
+								
+								<a href="/en/transfers/startseite-km/transfers.html?from=top_navi">Transfers</a>
+								<a href="/en/fussball/foren/uebersicht.html?from=top_navi">forum</a>
+				<a href="/en/liveticker/livetickeruebersicht/ticker.html?from=top_navi">live</a>
+				
+
+			</div>
+			<div id="headbalken">
+				<span class="ca bc" style="font-size:10px;">&nbsp;</span>
+			</div>
+		</div>
+		<div class="cb"></div>
+	
+
+	
+
+	
+
 		<div id="left">
 			<ul>
 			<li class="mainpoint_li">
 									Intern
 							</li>
 
-							<li><a href="/en/information/werbung/intern.html" class="navipoint_first">Advertisement</a></li><li><a href="/en/information/nutzungsbedingungen/intern.html" class="navipoint">Terms and Conditions</a></li><li><a href="/en/information/datenschutz/intern.html" class="navipoint aktiv">Data security</a></li><li><a href="/en/information/impressum/intern.html" class="navipoint">Legal notice</a></li><li><a href="/en/information/tmteam/intern.html" class="navipoint">The TM-Team</a></li><li><a href="/en/info/jobs/intern.html" class="navipoint">Job advertisement</a></li><li><a href="/en/information/social-media/intern.html" class="navipoint">Social media</a></li><li><a href="/en/information/tmchronik/intern.html" class="navipoint">TM Chronicles</a></li><li><a href="/en/seo/specials/intern_var.html" class="navipoint">Specials</a></li><li><a href="/en/intern/thomas/freundeskreis.html" class="navipoint">Godchild</a></li><li><a href="/en/information/mobil/intern.html" class="navipoint">Mobile</a></li><li><a href="/en/presseportal/login/presseportal.html" class="navipoint">Press portal</a></li>
+							<li><a href="/en/information/werbung/intern.html" class="navipoint_first">Advertisement</a></li><li><a href="/en/information/nutzungsbedingungen/intern.html" class="navipoint">Terms and Conditions</a></li><li><a href="/en/information/datenschutz/intern.html" class="navipoint aktiv">Data security</a></li><li><a href="/en/information/impressum/intern.html" class="navipoint">Legal notice</a></li><li><a href="/en/information/tmteam/intern.html" class="navipoint">The TM-Team</a></li><li><a href="/en/info/jobs/intern.html" class="navipoint">Job advertisement</a></li><li><a href="/en/information/social-media/intern.html" class="navipoint">Social media</a></li><li><a href="/en/information/tmchronik/intern.html" class="navipoint">TM Chronicles</a></li><li><a href="/en/informationen/mitgliedschaften/intern.html" class="navipoint">Memberships</a></li><li><a href="/en/seo/specials/intern_var.html" class="navipoint">Specials</a></li><li><a href="/en/intern/thomas/freundeskreis.html" class="navipoint">Godchild</a></li><li><a href="/en/information/mobil/intern.html" class="navipoint">Mobile</a></li><li><a href="/en/presseportal/login/presseportal.html" class="navipoint">Press portal</a></li>
 			
+
 
 				<li class="mainpoint_lasche">&nbsp;</li>
 			</ul>
@@ -163,13 +329,18 @@
 			</div>
 			
 			
-		</div>
+ 					</div>
 
 
 
 <div id="centerbig">
 	<p>
-			</p><h2 class="tabellen_ueberschrift">Data protection statement</h2> 
+		
+	
+	
+	
+	
+		</p><h2 class="tabellen_ueberschrift">Data protection statement</h2> 
 	<br><br>
 	<b>1. Data processing on Transfermarkt's Internet pages</b><br>
 	The security and protection of data is of special concern to Transfermarkt. Transfermarkt is committed to compliance with the legal provisions for data protection, in particular the German Federal Data Protection Act [Bundesdatenschutzgesetz] (BDSG) and the German Law on Data Protection for Teleservices [Gesetz über den Datenschutz bei Teledienstleistungen] (TDDSG). Transfermarkt uses special encryption techniques to protect your personal data. Transfermarkt collects, processes, and uses the personal data you provide in strict compliance with the data protection provisions in force and only for the purpose, for as long as, and to the extent required. Transfermarkt uses this data solely to enable you to use the Transfermarkt services for which registration is required and to inform you of Transfermarkt’s new products and services. No other purpose is connected with such use. 
@@ -202,78 +373,48 @@
 	<b>11. Amendments to the data protection provisions</b><br>
 	We will promptly announce amendments to these provisions on Transfermarkt’s homepage. There you will also find earlier archived versions of this Data Protection Statement.
 	<br><br>
-				<p></p>
+		
+	
+	
+	
+	
+		
+	
+	
+	
+	
+		
+	
+	
+		
+	
+	
+	
+		<p></p>
 </div>
-				<div id="footer">
+				<div id="footer" class="grey s10 lhg">
 				<div class="footerstrich"></div>
 				<a href="#top">Up</a><br><br>
-				<a href="http://www.transfermarkt.de">Transfermarkt.de</a> |
-				<a href="http://www.transfermarkt.tv">Transfermarkt.tv</a> |
-				<a href="http://www.transfermarkt.at">Transfermarkt.at</a> |
-				<a href="http://www.transfermarkt.ch">Transfermarkt.ch</a> |
-				<a href="http://www.transfermarkt.it">Transfermarkt.it</a> |
-				<a href="http://www.transfermarkt.com.tr">Transfermarkt.com.tr</a> |
-				<a href="http://www.transfermarkt.co.uk">Transfermarkt.co.uk</a><br><br>
-				<a href="http://www.transfermarkt.com" target="_blank">© 2000 - 2012 Transfermarkt</a> |
+				<a href="http://www.transfermarkt.de" title="www.transfermarkt.de"><img src="http://static.transfermarkt.net/img/de.jpg" alt="-">&nbsp;Transfermarkt.de</a> &nbsp; | &nbsp;
+				<a href="http://www.transfermarkt.tv" title="www.transfermarkt.tv"><img src="http://static.transfermarkt.net/img/tv.jpg" alt="-">&nbsp;Transfermarkt.tv</a> &nbsp; | &nbsp;
+				<a href="http://www.transfermarkt.at" title="www.transfermarkt.at"><img src="http://static.transfermarkt.net/img/at.jpg" alt="-">&nbsp;Transfermarkt.at</a> &nbsp; | &nbsp;
+				<a href="http://www.transfermarkt.ch" title="www.transfermarkt.ch"><img src="http://static.transfermarkt.net/img/ch.jpg" alt="-">&nbsp;Transfermarkt.ch</a> &nbsp; | &nbsp;
+				<a href="http://www.transfermarkt.it" title="www.transfermarkt.it"><img src="http://static.transfermarkt.net/img/it.jpg" alt="-">&nbsp;Transfermarkt.it</a> &nbsp; | &nbsp;
+				<a href="http://www.transfermarkt.com.tr" title="www.transfermarkt.com.tr"><img src="http://static.transfermarkt.net/img/tr.jpg" alt="-">&nbsp;Transfermarkt.com.tr</a> &nbsp; <br>
+				<a href="http://www.transfermarkt.pl" title="www.transfermarkt.pl"><img src="http://static.transfermarkt.net/img/pl.jpg" alt="-">&nbsp;Transfermarkt.pl</a> &nbsp; | &nbsp;
+				<a href="http://www.transfermarkt.es" title="www.transfermarkt.es"><img src="http://static.transfermarkt.net/img/es.jpg" alt="-">&nbsp;Transfermarkt.es</a>&nbsp; | &nbsp;
+				<a href="http://www.transfermarkt.co.uk" title="www.transfermarkt.co.uk"><img src="http://static.transfermarkt.net/img/en.jpg" alt="-">&nbsp;Transfermarkt.co.uk</a><br><br>
+				<a href="http://www.transfermarkt.com" target="_blank">© 2000 - 2013 Transfermarkt</a> |
 				<a href="/en/information/impressum/intern.html" rel="nofollow">Legal notice</a> |
 				<a href="/en/information/datenschutz/intern.html" rel="nofollow">Privacy Statement</a> |
 				<a href="/en/information/nutzungsbedingungen/intern.html" rel="nofollow">Terms of use</a> |
-				<a href="/en/information/werbung/intern.html" rel="nofollow">Advertisement</a>
+				<a href="/en/information/werbung/intern.html" target="_blank">Advertisement</a>
 								<br><br>
 			</div>
-		</div>
-						<div id="head" class="news_bg">
-									<a href="/en/" id="logo" name="top" title="Home page"><img src="http://static.transfermarkt.net/img/logo.png" width="127" height="53" alt="Zur Startseite"></a>
-			
-			<a href="/en/neu/info/immerbesser.html?from=logo" id="ib" title="...immer besser!">... immer besser!</a>
-			<div class="fr" id="headright">
-				<div class="fl shortlinks">
-					<p class="vb"><img src="http://static.transfermarkt.net/img/rss.png" alt="RSS">&nbsp;<a href="http://www.transfermarkt.com/static/rss/AktuelleNewsCOM.rss">RSS</a></p>
-										<p class="vb"><img src="http://static.transfermarkt.net/img/chef.png" alt="Chef">&nbsp;<a href="http://www.basisrecherche.de" target="_blank">Chef</a></p>
-																	<p class="vb"><a href="/de/information/datenschutz/intern.html" title="German"><img src="http://static.transfermarkt.net/img/de.jpg" alt="German"></a></p>
-															</div>
-				<div id="userspace" class="fr">
-				
-					<form method="post" action="/en/benutzer/system/login.html" id="login">
-						<p class="vb">
-							<input type="text" name="username" onfocus="$(this).val('');" class="headinputtext" tabindex="1" value="User name"><input type="checkbox" name="cookie" class="checkbox" tabindex="3"> Remember</p>
-						<p>
-						<input type="password" name="password" onfocus="$(this).val('');" class="headinputtext" value="Password" tabindex="2">
-						<input class="login_button fb" type="submit" value="login"></p>
-						<p style="padding-top:2px;"><a href="/en/benutzer/system/registrierung.html"><img src="http://static.transfermarkt.net/img/reg_button.png" class="vm" alt=""></a>&nbsp;<a href="/en/benutzer/system/registrierung.html" class="vm">Register</a></p>
-					</form>
-				</div>
-			</div>
-			<div id="headnavi">
-				<form class="fl" method="get" action="/en/undefined/suche/ergebnis.html" id="quicksearch_form">
-					<input type="text" id="quicksearch_field" class="headinputtext vm" value="Enter search term" onfocus="var selbst=$('#quicksearch_field');if(selbst.val()=='Enter search term') $('#quicksearch_field').val('');" name="quicksearch" style="width:126px;margin:2px 0 0 6px;background-color:#fff;height:13px;">
-					<input type="image" class="vm" src="http://static.transfermarkt.net/img/lupe.gif" style="margin:3px 6px 0 0;">
-				</form>
-				<a href="/en/?from=top_navi">Home page</a>
-				<a href="/en/news/news/datum.html?from=top_navi">News</a>
-								<a href="/en/2010/startseite/wettbewerbeCOM.html?from=top_navi">Competitions</a>
-												<a href="/en/default/startseite/statistiken.html?from=top_navi">Statistics</a>
-								
-								<a href="/en/transfers/startseite-km/transfers.html?from=top_navi">Transfers</a>
-								<a href="/en/fussball/foren/uebersicht.html?from=top_navi">forum</a>
-				<a href="/en/liveticker/livetickeruebersicht/ticker.html?from=top_navi">live</a>
-							</div>
-
-			<div id="headbalken">
-				
-				<span class="ca bc" style="font-size:10px;">
-					
-				</span>
-			</div>
-		</div>
 	</div>
-	<div id="frnAdSky">
-		<div id="frnAdSkyPos">
-			</div>
-	</div>
+</div>
 
 <div id="form_notice">
-</div>
 </div>
 
 
@@ -288,6 +429,8 @@ prepareForumForAjax();
 			width:250,minChars:3,selectFirst:false,			extraParams:{from:'quicksearch'			}
 		});
 	$(document).personPopup();
+$(document).tablePopup();
+
 
 	$('a.track_me').click(function() {
 		var var_link = encodeURIComponent($(this).attr("href"));
@@ -356,7 +499,6 @@ prepareForumForAjax();
 </script>
 
 
-
 						
 
 		
@@ -369,9 +511,15 @@ function ReloadPixelImages() {
 // -->
 </script>
 <script type="text/javascript">
-$(document).bind('cbox_complete', function() {ReloadPixelImages();});
-$(document).bind('cbox_closed', function() {ReloadPixelImages();});
+
+	$(document).bind('cbox_complete', function() {ReloadPixelImages();});
+	$(document).bind('cbox_closed', function() {ReloadPixelImages();});
+
 </script>
+
+
+
+
 
 
 </body></html>
