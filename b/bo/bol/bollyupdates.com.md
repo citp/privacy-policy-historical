@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the bollyupdates.com privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121225207id_/http%3A//www.bollyupdates.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bollyupdates.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523170458id_/http%3A//www.bollyupdates.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Bollywood Updates
-
-[Home](http://www.bollyupdates.com/ "Go to Home.") > Privacy Policy
 
 We respect your privacy and we are committed to safeguarding your privacy while online at our site www.bollyupdates.com . The following discloses the information gathering and dissemination practices for this Web site.
 
