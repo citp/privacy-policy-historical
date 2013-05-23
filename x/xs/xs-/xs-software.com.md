@@ -1,23 +1,24 @@
-> *The following text is extracted and transformed from the xs-software.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123145620id_/http%3A//www.xs-software.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xs-software.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523132220id_/http%3A//www.xs-software.com/privacypolicy.php) for the most accurate reproduction.*
 
 # XS Software | Welcome
 
 Partnership
 
-Our team
+Our products
 
-    100+ employees
-    International team
-    Young and creative professionals
-    Located in Sofia Bulgaria
+    Massive multiplayer games united in a single portal
+    Original game play and fascinating design
+    Different genres for every type of player
+    40+ languages
+    25 million registered players
+    2,000,000 active players
+    Easy localizable games. Code/Design/Text completely separate
 
 Featured game
 
-[ ](http://www.xs-software.com/viewproduct.php?id=3&go=browser)
+[ ](http://www.xs-software.com/viewproduct.php?id=1&go=browser)
 
-Lady Popular is online game for girls who love fashion, making friends, shopping, decorating and being creative!
-
-The game offers a virtual equivalent of every girl modern girl`s passion – Fashion. The world of the Mall is limitless. There are over 16 million clothes combinations of ...
+Khan Wars is a medieval browser game, which gives you the opportunity to turn back time and go to ancient worlds of mighty kings, fierce wars and knights! There are many cultures and nations and each one of them has its own unique bonuses and units. That makes the game very dynamic and gives ...
 
 ## Privacy And Policy
 
