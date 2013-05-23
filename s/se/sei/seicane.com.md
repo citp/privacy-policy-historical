@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the seicane.com privacy policy that was archived on 2012-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120709054726id_/http%3A//www.seicane.com/customer-service%23answer2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seicane.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523122301id_/http%3A//www.seicane.com/customer-service%23answer2) for the most accurate reproduction.*
 
 # Customer Service
-
-[](http://www.comm100.com/livechat/ "Live Chat Help")
 
   * Shipping Method & Delivery
   * Privacy Policy & Security
@@ -15,9 +13,9 @@
 
 
 Shipping & Delivery
-    Total delivery time is composed of two parts. The first part is the processing time. This is the time from when your payment is received to when we gather up all the items and package them. The second part is the actual shipping time. This is the time that it takes for the package to be delivered by the couriers to the destination. Standard shipping normally takes 7-10 days, and express shipping normally takes 3-5 days. Processing takes 1-3 days normally.
-    Shipping with couriers is insured and can be tracked online. Once your goods are sent out we will email you with a tracking number so you can trace your delivery any time you want.   
-When you checkout your order, you can add Shipping Insurance to your order for only $1.99.
+    Total delivery time is composed of two parts. The first part is the processing time. This is the time from when your payment is received to when we gather up all the items and package them. The second part is the actual shipping time. This is the time that it takes for the package to be delivered by the couriers to the destination. Express shipping normally takes 3-5 days. Processing takes 1-3 days normally.We ship to over 200 countries worldwide!  
+
+    Shipping with couriers is insured and can be tracked online. Once your goods are sent out we will email you with a tracking number so you can trace your delivery any time you want. 
     We offer Shipping Insurance for the total of US$ 1.99 to protect your package against any lost or damaged shipments. If a missing issue arises, we will reship your order immediately.
 Privacy & Security
     Scope
@@ -50,3 +48,5 @@ Updating Account Information
 Creating a new account is as easy as 1...2...3.  Simply click on " **[My Account](http://www.seicane.com/customer/account "My Account")** " in the navigation bar and select "Register" from the New Customers section on the right of the screen. Complete the information required and you're ready to purchase your items.  
 Updating or changing you information is just as easy.  
 Log in using your registered e-mail and password.  From the "My Dashboard" you can easily change your password or billing and shipping addresses.  The menu on the left of the page allows you to view your orders as well as manage your address book etc
+
+[](http://www.comm100.com/livechat/ "Live Chat Help")
