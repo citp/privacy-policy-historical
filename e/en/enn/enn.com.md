@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the enn.com privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203032259id_/http%3A//www.enn.com/static/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enn.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523092529id_/http%3A//www.enn.com/static/privacy_policy) for the most accurate reproduction.*
 
 # Environmental News Network -- Know Your Environment
 
