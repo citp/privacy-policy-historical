@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the keywordcountry.com privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611051802id_/http%3A//www.keywordcountry.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keywordcountry.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523182310id_/http%3A//www.keywordcountry.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy, Keyword Country
+# Privacy Policy, Keyword Country | www.keywordcountry.com
 
   
 
@@ -35,4 +35,4 @@ To protect your privacy and security, we will take reasonable steps to verify yo
 
 ## How to Contact Us
 
-Should you have other questions or concerns about this privacy policy, please [Contact Us](https://web.archive.org/contact/)
+Should you have other questions or concerns about this privacy policy, please [Contact Us](http://www.keywordcountry.com/contact/)
