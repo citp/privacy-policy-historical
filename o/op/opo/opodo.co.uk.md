@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opodo.co.uk privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103093245id_/http%3A//www.opodo.co.uk/opodo/StrutsServlet/DisplaySiteInfoPage%3FpageName%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opodo.co.uk privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523042715id_/http%3A//www.opodo.co.uk/opodo/StrutsServlet/DisplaySiteInfoPage%3FpageName%3Dprivacy) for the most accurate reproduction.*
 
 # Opodo
 
@@ -10,7 +10,7 @@ At Opodo, we understand and respect the importance of your privacy. In this priv
 
 We ask you for personal information in a variety of circumstances: 
 
-\- when you make a reservation or purchase something from our website or through our customer service team - by email, letter, fax, or on the phone;
+\- when you make or start to make a reservation, or purchase something from our website or through our customer service team - by email, letter, fax, or on the phone;
 
 \- when you register with us, subscribe to our newsletter, enter competitions or register for promotions; or
 
@@ -31,6 +31,8 @@ We may use your data for the following principal purposes:
 \- to contact you about changes to your itinerary eg. flight schedule changes, delays etc, or to send you useful information about your trip;
 
 \- to notify you about our products and services, special offers and promotions and any other marketing materials which we think may interest you. While this may include material about third party products from time to time, those third parties will not contact you directly (unless you subsequently ask them to!);
+
+\- in case of a booking that you start to make but then abandon after entering your personal details, we may send you an email inviting you to seek technical assistance or to complete your booking. You can immediately unsubscribe from these notifications at any time by clicking the unsubscribe link at the bottom of these emails;
 
 \- for other administrative purposes and for internal analysis; and
 
