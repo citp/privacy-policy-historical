@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digimindsoft.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226153413id_/http%3A//www.digimindsoft.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digimindsoft.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523121322id_/http%3A//www.digimindsoft.com/privacy.php) for the most accurate reproduction.*
 
 # Digital Minds Software - Privacy Policy
 
