@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lydiasuniforms.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023032450id_/http%3A//www.lydiasuniforms.com/_privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lydiasuniforms.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523132300id_/http%3A//www.lydiasuniforms.com/_privacy-policy) for the most accurate reproduction.*
 
 # Scrubs Nursing Uniforms | Cheap Discount Nurse Scrubs
 
