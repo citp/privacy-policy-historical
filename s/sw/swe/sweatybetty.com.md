@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sweatybetty.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120062025id_/http%3A//www.sweatybetty.com/us/article-artlcs_security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sweatybetty.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523050551id_/http%3A//www.sweatybetty.com/us/article-artlcs_security) for the most accurate reproduction.*
 
 # Sweaty Betty.com | Gym wear, yoga clothes, beach wear, ski wear
 
-## **Security and Privacy Policy**
+## **security and privacy policy**
 
 At Sweaty Betty, all online purchases take place safely, using the latest internet security technology to protect our customers. We accept orders only from web browsers that can use Secure Socket Layer (SSL) technology - this means you cannot inadvertently place an order through an unsecured connection. Most web browsers now support this.  
 No Credit card details are stored or saved on the Sweaty Betty website. The site is thawte assured, which is an independent hallmark and is industry standard security. If you have questions regarding our credit card security policies, please email us at [customercareusa@sweatybetty.com](mailto:customercareusa@sweatybetty.com).
