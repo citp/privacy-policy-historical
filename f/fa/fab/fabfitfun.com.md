@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fabfitfun.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508034843id_/http%3A//fabfitfun.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fabfitfun.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523145547id_/http%3A//fabfitfun.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy | FabFitFun by Giuliana Rancic
 
@@ -48,63 +48,3 @@ FabFitFun may change its Privacy Policy from time to time, and in FabFitFun’s 
 **Questions**
 
 Should you have any questions regarding our privacy policy, please feel free to contact us at privacy@fabfitfun.com.
-
-#### [Get Well](http://fabfitfun.com/category/blog/get-well)
-
-[](http://fabfitfun.com/megan-hilty-interview)
-
-### Just One of Many _Smash_ Hits
-
-We watched her perfect the role of Glinda in Wicked, as Doralee Rhodes in 9 to 5: The Musical, and now she’s Smash-ing the ratings as Ivy Lynn on NBC’s…
-
-[More »](http://fabfitfun.com/megan-hilty-interview)
-
-#### [Get Gorgeous](http://fabfitfun.com/category/blog/get-gorgeous)
-
-[](http://fabfitfun.com/online-beauty-tutorials)
-
-### YouTube Beauty Stars
-
-Who doesn’t enjoy indulging in the 21st century’s greatest digital time sucker, more affectionately known as YouTube? YouTube is a menagerie of viral gems, whether it’s Tom Cruise’s crazy couch-jumping…
-
-[More »](http://fabfitfun.com/online-beauty-tutorials)
-
-#### [Ask Giuliana](http://fabfitfun.com/category/blog/ask-giuliana)
-
-[](http://fabfitfun.com/valentines-day-gift-guide-2)
-
-### Valentine's Day Gift Guide
-
-Valentine’s Day is right around the corner and, of course, I like gifts…lots and lots and lots of gifts (did I mention gifts?). But I also love the feeling of giving…
-
-[More »](http://fabfitfun.com/valentines-day-gift-guide-2)
-
-#### [Get Stylish](http://fabfitfun.com/category/blog/get-stylish)
-
-[](http://fabfitfun.com/bcbg-chief-creative-officer-lubov-azria-interview)
-
-### Summer Fashion Secrets from BCBG
-
-Some summer fashion trends become classic styles that last year after year — think strapless dresses, wedge sandals, white pants and maxis. Of course others — like overall shorts, Crocs,…
-
-[More »](http://fabfitfun.com/bcbg-chief-creative-officer-lubov-azria-interview)
-
-#### [Get Healthy](http://fabfitfun.com/category/blog/get-healthy)
-
-[](http://fabfitfun.com/4-ways-to-have-a-guilt-free-cinco-de-mayo)
-
-### 4 Ways to Have a Guilt-Free Cinco de Mayo
-
-I love Cinco de Mayo, (check out a pic and my healthy nacho recipe from last year’s soirée) chips and salsa, guacamole, nachos, margaritas — what’s not to love? Not…
-
-[More »](http://fabfitfun.com/4-ways-to-have-a-guilt-free-cinco-de-mayo)
-
-#### [Get Fit](http://fabfitfun.com/category/blog/get-fit)
-
-[](http://fabfitfun.com/the-downsides-to-meeting-your-goal-weight)
-
-### The Downsides to Meeting Your Goal Weight
-
-When I started losing weight, I often looked at women who were thinner than I was and thought, “Wow, her life must be so easy.” I knew that once I…
-
-[More »](http://fabfitfun.com/the-downsides-to-meeting-your-goal-weight)
