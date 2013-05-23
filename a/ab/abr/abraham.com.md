@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abraham.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222061654id_/http%3A//abraham.com/%3Fpage_id%3D416) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abraham.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523152734id_/http%3A//abraham.com/%3Fpage_id%3D416) for the most accurate reproduction.*
 
 # Privacy Policy | The Abraham Group
 
