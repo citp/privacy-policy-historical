@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vodafone.qa privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121211016id_/http%3A//www.vodafone.qa/en/legal-and-regulatory/data-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vodafone.qa privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523035134id_/http%3A//www.vodafone.qa/en/legal-and-regulatory/data-privacy-policy) for the most accurate reproduction.*
 
 # Vodafone Qatar: Data Privacy Policy
 
@@ -61,7 +61,7 @@ We will also collect information about how you use our products and services, su
 3.1 We may disclose or receive personal information or documents about you to/from:
 
   * other Vodafone group companies who may use and disclose your information for the same purposes as us;
-  * credit providers or credit reporting agencies;
+  * credit providers, credit reporting or debt collection agencies;
   * legal or regulatory agencies in order to meet any requirements of applicable laws in the state of Qatar, including regulations of national security agencies;
   * our service and content providers, dealers and agents, or any company within the Vodafone group for purposes that are related to providing you with a telecommunications service which would be reasonably expected; and
   * if someone else pays your bill, such as your employer, that person.
