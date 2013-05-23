@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zibika.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213034443id_/http%3A//www.zibika.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zibika.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523081036id_/http%3A//www.zibika.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Zibika.com
 
@@ -52,6 +52,12 @@ Zibika under no circumstances will display you personal financial information re
 **Advertisements:**
 
 The Ads that appear on Zibika are directly delivered from third party providers. When you click on any of these ads these third party advertisers may place cookies or use some other technologies to measure the effectiveness and impact of such ads. Zibika does not have access to or control of the cookies that may be placed by the third party advertisers. The use of these technologies by these third party ad servers is subject to their own privacy policies and is not covered by our privacy statement.   
+  
+**Remarketing :**
+
+Zibika Remarketing uses permanent cookies to enable basic web traffic analysis using Google Analytics (showing us which areas of the site are popular and those that are not often visited, this allows us to prioritise our enhancements to our website). We also use permanent cookies to 'remember you' when you return, but only if you have ticked the âRemember meâ facility on logging in.   
+Zibika Remarketing do use some cookies from trusted 3rd party sources to enable us to provide you with certain features on our website & also show advertisements across internet using our advertisement channels.   
+Removing some of our cookies may seriously disrupt use of the site.   
   
 **Links:**
 
