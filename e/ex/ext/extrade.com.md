@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the extrade.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023153058id_/http%3A//extrade.com/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extrade.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523210950id_/http%3A//www.extrade.com/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # extrade.com
 
