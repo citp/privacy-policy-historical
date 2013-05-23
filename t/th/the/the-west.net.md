@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the-west.net privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121225657id_/http%3A//legal.innogames.de/%3Ftype%3Dprivacy%26game%3Dwest%26lang%3Den_US%26market_id%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-west.net privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523051230id_/http%3A//legal.innogames.de/%3Ftype%3Dprivacy%26game%3Dwest%26lang%3Den_US%26market_id%3Den) for the most accurate reproduction.*
 
 # Data Protection Provisions
 
@@ -50,6 +50,12 @@ Google Analytics, a web analysis service from the provider Google Incorporated (
 
 **3.3.4** The website can include the so-called Facebook button "Like", which is exclusively operated by the social network Facebook and thus by Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA ("Facebook“). Should you click on the Facebook button "Like" you will be asked by Facebook, if you do not have a Facebook account or are not currently logged into your Facebook account, to register with Facebook in order to use the function. The consequence is that your information is transferred to Facebook. However, should you already have a Facebook account and are logged into your Facebook account parallel to your visit to the website, a connection is automatically created to Facebook's servers, in other words, even without you clicking on the Facebook button; this means that data is transferred to Facebook immediately following your visit to the website. The transfer of your data and the allocation to your Facebook account therefore takes place automatically without any further notification. InnoGames has no influence on this. You can only prevent this transfer if you log out of your Facebook account beforehand. InnoGames expressly points out that you can obtain further information about the data which Facebook collects and your individual rights in this regard from Facebook's website and the data protection provisions stated there. You can read Facebook's data protection provisions on page <http://de-de.facebook.com/privacy/explanation.php>
 
+**3.3.5** When you use or connect to a InnoGames website or download a InnoGames mobile app by or through a Third Party Platform, such as Facebook or other social networking site, you allow us to access and/or collect certain information from your Third Party Platform profile/account (such as your Facebook account) or via any cookies placed on your device by such Third Party Platform as permitted by the terms of the agreement and your privacy settings with the Third Party Platform. We will share such information with the Third Party Platform for their use as permitted by the terms of the agreement and your privacy setting with the Third Party Platform.”
+
+We will share some of the information we collect from you upon install of the mobile app with vendors and other service providers who are engaged by or working with us in connection with the operation of the services we provide to you and/or for analytics purposes which may require the reproduction and display of such information in an aggregated and anonymized manner such that will not in any way identify you.
+
+You may "opt out" of the collection of your information for third party analytics purposes by following the directions provided by our third party analytics vendor located at <http://www.mobileapptracking.com/privacy-policy/>. If you “opt out” with our third party analytics provider, that action is specific to the information we collect specifically for that provider, and does not limit our ability to collect information from you, under the terms of this privacy policy, for other vendors.
+
 ## 4\. Use of the Scalable Central Measurement Method
 
 The website uses the "Scalable Central Measurement Method / Skalierbares Zentrales Messverfahren" [SZM] of INFOnline (https://www.infoline.de) to determine statistical characteristic values in the use of InnoGames`s offer. Anonymous measured values are collected in this process. For the recognition of computer systems, the SZM audience measurement uses alternatively either a cookie with the identifier "ivwbox.de" or a signature which is created from various information automatically transferred by your computer. IP addresses are not stored via this method and only processed in anonymised form.
@@ -100,5 +106,5 @@ Germany
 Fax: 0049 (0) 40 7889335 21  
 [privacy@innogames.de](mailto:privacy@innogames.de)
 
-Status: August 2011  
-Copyright InnoGames 2009 – 2011 All rights reserved. 
+Status: February 2013  
+Copyright InnoGames 2009 – 2013 All rights reserved. 
