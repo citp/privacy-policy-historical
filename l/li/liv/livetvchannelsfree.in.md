@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livetvchannelsfree.in privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919194527id_/http%3A//livetvchannelsfreein.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livetvchannelsfree.in privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523054543id_/http%3A//livetvchannelsfree.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy for www.livetvchannelsfree.in
 
