@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mymovieflix.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130230756id_/http%3A//www.mymovieflix.com/Private_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mymovieflix.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523034053id_/http%3A//mymovieflix.com/Private_policy.php) for the most accurate reproduction.*
 
-# Krishnam Vandey Jagadgurum Movie Review | Krishnam Vandey Jagadgurum Reviews | Krishnam Vandey Jagadgurum Review | Krishnam Vandey Jagadgurum Movie Review | Krishnam Vandey Jagadgurum Review | Krishnam Vandey Jagadgurum Review and Ratings | Krishnam Vandey Jagadgurum Movie Review | Telugu cinema news | Telugu cinema | Movies | Telugu cinema reviews | telugu movie reviews | Tollywood | Box office collections | Telugu Movie show times | Theater List | telugu cinema tickets
+# Mymovieflix: Breaking News, Latest Andhra News, Telangana News, Politics, Entertainment, Video News,Reviews,Tollywood Reviews,Andhra Pradesh News
 
 www.mymovieflix.com
 
