@@ -1,6 +1,50 @@
-> *The following text is extracted and transformed from the microtelinn.com privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029021311id_/http%3A//www.microtelinn.com/terms-policy/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the microtelinn.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523153200id_/http%3A//www.microtelinn.com/terms-policy/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy at Microtel Inn & Suites by Wyndham
+
+Close Close
+
+Stay and earn at more than 6,500 hotels and resorts around the globe:
+
+Wyndham Hotels and Resorts®  
+TRYP  
+Wingate by Wyndham  
+Hawthorn Suites®  
+Microtel Inn & Suites by Wyndham®  
+Dream  
+Ramada®
+
+Night  
+Baymont Inn & Suites®  
+Days Inn®  
+Super 8®  
+Howard Johnson®  
+Travelodge®  
+Knights Inn®
+
+Earn points or airline miles for qualified stays
+
+Enjoy free nights with no blackout dates†
+
+Choose from hundreds of other rewards such as gift cards, airline tickets and more
+
+Take advantage of exclusive member offers
+
+† Participating properties in the U.S. and Canada only.
+
+Enjoy all of the exclusive Wyndham Rewards® benefits available; including:
+
+Check your point balance
+
+Make reservations faster
+
+Redeem for hundreds of rewards including Free Nights and Gift Cards
+
+Review Reservation
+
+Search
+
+Review, change, or cancel reservations made online or by phone. If you need additional assistance, please call 1-800-337-0050. 
 
 ## WYNDHAM HOTEL GROUP, LLC
 
@@ -12,11 +56,11 @@ Revised October 2008
 
 We recognize the importance of protecting the privacy of individual-specific (personally identifiable) information collected about guests, callers to our central reservation centers, visitors to our Web sites, and members participating in our Loyalty Programs (collectively "Customers"). Examples of individual-specific information ("Information") are described in the Section, "What is Individual Specific Information?" We have adopted this Customer Privacy Policy to guide how we utilize Information about our Customers. This Policy will evolve and change as we continue to study privacy issues.
 
-[Privacy Notice to California Customers](https://web.archive.org/web/20121029021311id_/http%3A//www.microtelinn.com/terms-policy/california_privacy_rights)
+[Privacy Notice to California Customers](https://web.archive.org/web/20130523153200id_/http%3A//www.microtelinn.com/terms-policy/california_privacy_rights)
 
-[Canadian Privacy Policy](https://web.archive.org/web/20121029021311id_/http%3A//www.microtelinn.com/terms-policy/canadian-privacy-policy)
+[Canadian Privacy Policy](https://web.archive.org/web/20130523153200id_/http%3A//www.microtelinn.com/terms-policy/canadian-privacy-policy)
 
-[Politique de confidentialité](https://web.archive.org/web/20121029021311id_/http%3A//www.microtelinn.com/terms-policy/canadian_french_privacy_policy)
+[Politique de confidentialité](https://web.archive.org/web/20130523153200id_/http%3A//www.microtelinn.com/terms-policy/canadian_french_privacy_policy)
 
 **Application**. This policy applies to residents of the United States, hotels of our Brands located in the United States, and Loyalty Program activities in the United States only. We do not accept the jurisdiction of any other laws over the above. This policy also applies only to our Customers. We have a separate policy governing any internet sites or extranet sites accessible only to the Franchisees and/or Brands.
 
@@ -132,3 +176,5 @@ Participation in surveys is voluntary. Participants who do not wish to receive e
 **Downloading.** Please feel free to download or copy this Policy. You may obtain a copy free of charge by writing to us at Customer Privacy Policy, Wyndham Hotel Group, 22 Sylvan Way, Parsippany, NJ 07054.
 
 **Policy Changes**. The Policy in effect at the time of each visit to a Brand Web site applies to that visit. However, we may change or terminate this Policy at any time without prior notice by posting an amended version of the Policy on our Web site and providing you with the ability to opt out of any new, unanticipated uses of Information not previously disclosed in the Policy. Please check our Policy each time you visit our Web site or more frequently if you are concerned about how your Information will be used.
+
+Close
