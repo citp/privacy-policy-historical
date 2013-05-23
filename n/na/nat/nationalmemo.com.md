@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalmemo.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004134937id_/http%3A//www.nationalmemo.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalmemo.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523110807id_/http%3A//www.nationalmemo.com/privacy-statement) for the most accurate reproduction.*
 
 # The National Memo » Privacy Statement
 
@@ -40,7 +40,7 @@ Like most sites, EHM makes use of browser “cookies.” Cookies are small text 
 
 **Links to Other Sites**
 
-We may provide links allowing you to access third party sites. EHM is not responsible for the content that appears on those sites and does not endorse them. Please consult those sites’ individual privacy policies in order to determine how they treat user information as EHM is not responsible for their privacy policies or any use of your information by them.
+We may provide links allowing you to access third party sites. EHM is not responsible for the content that appears on those sites and does not endorse them. Please consult those sites’ individual [privacy policies](http://www.consumerprivacy.us/) in order to determine how they treat user information as EHM is not responsible for their privacy policies or any use of your information by them.
 
 **Security**
 
