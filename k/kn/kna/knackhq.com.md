@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the knackhq.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122035136id_/http%3A//www.knackhq.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knackhq.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523061228id_/http%3A//www.knackhq.com/privacy) for the most accurate reproduction.*
 
 # Knack: Build Online Databases & Web Apps - Privacy Statement
 
@@ -26,6 +26,15 @@ We mainly use the information we collect to measure our business success, to ide
 **DATA HOSTED BY KNACK**
 
 Knack hosts the data stored in your Knack account. That data is strictly your property and is governed by the Knack's Terms of Service Agreement. The data in your account is not accessible to anyone, unless you make it accessible.
+
+**SAFE HARBOR**
+
+Knack complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Knack has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.
+
+To learn more about the Safe Harbor program please visit: [](http://www.export.gov/safeharbor/)<http://www.export.gov/safeharbor/>
+
+To view Knack's Safe Harbor certificate, please visit:  
+<http://safeharbor.export.gov/companyinfo.aspx?id=17657>
 
 **DISCLOSURE OF INFORMATION ABOUT YOU**
 
