@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the beforward.jp privacy policy that was archived on 2012-11-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121121060736id_/http%3A//www.beforward.jp/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the beforward.jp privacy policy that was archived on 2013-05-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130523032829id_/http%3A//www.beforward.jp/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -12,7 +12,9 @@
 <link rel="stylesheet" href="/css/layout.css" type="text/css">
 <link rel="stylesheet" href="/css/jqModal.css" type="text/css">
 <link rel="stylesheet" href="/css/popup.css" type="text/css">
+<link rel="alternate" hreflang="ru-RU" href="http://www.beforward.jp/ru/privacy">
 <link rel="canonical" href="http://www.beforward.jp/privacy">
+<link rel="canonical" href="http://www.beforward.jp">
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="/js/jquery-1.7.2.min.js"><\/script>')</script><script src="/js/jquery-1.7.2.min.js"></script>
 <script type="text/javascript" src="/js/jquery.megamenu.js"></script>
@@ -22,7 +24,9 @@
 <script type="text/javascript" src="/js/jqModal.profile.js"></script>
 <script type="text/javascript" src="/js/common.js"></script>
 <script type="text/javascript" src="/js/stocklist.js"></script>
+<script type="text/javascript" src="/js/jst_clock.js"></script>
 <link rel="stylesheet" type="text/css" href="/css/page.css">
+<link rel="stylesheet" type="text/css" href="/css/translate.css">
 <script type="text/javascript">
 	var _gaq = _gaq || [];
 	_gaq.push(['_setAccount', 'UA-17014544-1']);
@@ -36,54 +40,16 @@
 </script>
 </head>
 <body>
+<!-- ClickTale Top part -->
+<script type="text/javascript">
+var WRInitTime=(new Date()).getTime();
+</script>
+<!-- ClickTale end of Top part -->
 	<div id="container">
 		<div id="bg-repeat">
 			<script type="text/javascript">
 //<![CDATA[
 $(document).ready(function() {
-	//On Hover Event
-	/*
-	$("ul.tabs li").hover(function() {
-		$(this).addClass("active-hover");
-	}, function() {
-		$(this).removeClass("active-hover"); //Activate first tab
-	});
-
-	//Default Action
-	$(".box").hide(); //Hide all content
-	$("ul.tabs").each(function() {
-		$(this).children(":first-child").addClass("active").show(); //Activate first tab
-	});
-
-	$(".boxes").each(function() {
-		$(this).children(":first-child").show(); //Activate first tab
-	});
-
-	//On Click Event
-	$("ul.tabs li").click(function() {
-		// Detail Page Tab Case Begin
-		if ($(this).hasClass("iq") && $(this).hasClass("order-orange")) {
-			$(this).parent().next(".boxes").removeClass().addClass("boxes border-orange");
-		} else if ($(this).hasClass("iq") && $(this).hasClass("order-blue")) {
-			$(this).parent().next(".boxes").removeClass().addClass("boxes border-blue");
-		}
-
-		if ($(this).hasClass("sc")) {
-			$(this).parent().next(".boxes").removeClass("border-orange border-blue");
-		}
-		// Detail Page Tab Case End
-
-		$(this).siblings().removeClass("active"); //Remove any "active" class
-		$(this).addClass("active"); //Add "active" class to selected tab
-
-		var boxid = $(this).parent().attr("title");
-		$("." + boxid).hide(); //Hide all tab content
-		var activeTab = $(this).find("a").attr("href"); //Find the rel attribute value to identify the active tab + content
-		$(activeTab).show(); //Show in the active content
-
-		return false;
-	});
-	*/
 
 	$("#inq-trigger").click(function() {
 		$('ul.tabs li.iq a').trigger('click');
@@ -142,50 +108,142 @@ $(document).ready(function() {
 });
 //]]>
 </script>
+<style type="text/css">
+
+#tabbox{
+	width: 600px;
+	height: 20px;
+	background-image: url(/images/tabs_menu_bg.gif);
+	background-position: 50% 0;
+	background-repeat: repeat-x;
+	padding: 0;
+	margin: -15px 0px 0px 10px;
+	float: right;
+}
+
+#tabbox .delta{
+	width: 20px;
+	height:20px;
+	background-image: url('/images/slash.gif');
+	/*
+	border: 10px solid #191919;
+	border-top-color: #ff9715;
+	border-right-color: #ff9715;
+	*/
+	float: left ;
+}
+
+
+
+
+#tabbox li{
+	float: right;
+	display: block;
+	/*border: 1px  solid;*/
+	position: relative;
+	padding: 0 5px;
+	display: block;
+}
+
+#tabbox .flag{
+	padding-top:4px;
+}
+
+#tabbox .off{
+	/*width: 75px;*/
+	height: 20px;
+	margin-right: 0px;
+	text-align: right;
+	font-size:10px;
+	background-image: url(/images/slash_tab_silver.gif);
+	color:#191919 !important;
+	/*
+	border-color: #D08513;
+	border-bottom-color: #191919;
+	*/
+	padding-left: 17px;
+	padding-right:10px;
+	border-right:solid 1px #999;
+}
+
+#tabbox .on {
+	/*width: 75px;*/
+	height: 20px;
+	margin-right: 0px;
+	text-align: right;
+	font-size:10px;
+	font-weight:bold;
+	background-image: url(/images/slash_tab_black.gif);
+	color: #FFF !important;
+	/*
+	border-color: #D08513;
+	border-bottom-color: #191919;
+	*/
+	padding-left: 17px;
+	padding-right:10px;
+}
+
+#tabbox  .on  a{
+	color: #FFF;
+}
+
+#tabbox  .off  a{
+	color: #191919;
+}
+
+
+</style>
 <!-- Header Menu Start -->
-<div id="header-bg" class="clearfix">
-	<div id="logo">
-		<a href="/">
-			<img src="/images/logo.jpg" alt="BE FORWARD.JP JAPANESE CAR EXPORTER" width="332" height="40">
-		</a>
+<div id="header-bg" class="clearfix" style="padding-right: 0px; ">
+	<div id="logo" style="width:330px;">
+		<a href="/"><img src="/images/logo.jpg" alt="BE FORWARD.JP JAPANESE CAR EXPORTER" width="332" height="40"></a>
 	</div>
-	<div id="header-menu">
-		<ul class="megamenu">
+	<div id="tabbox">
+	<div class="borderline">
+	<span class="delta"></span>
+	<ul>
+		<li class="off"><a href="/ru/privacy"><img class="flag" align="top" src="/images/icon_flag_ru.png">Русский</a></li>
+		<li class="on"><a href="/privacy"><img class="flag" align="top" src="/images/icon_flag_gb.png">English</a></li>
+	</ul>
+	</div>
+	</div>
+	<div id="header-menu" style=" margin-left: 50px;">
+		<ul class="megamenu" style="width:550px;">
 			<li>
 				<a href="javascript:void(0)">FIND CARS</a>
 				<div>
 					<ul class="pulldown-left pulldown-border">
 						<li><a href="/stocklist">Browse All Stock</a></li>
-						<li><a href="/stocklist/icon_sale=1/sortkey=a">Sale Cars</a></li>
-						<li><a href="/stocklist/icon_pickup=1/sortkey=a">Recommended Cars</a></li>
-						<li><a href="/stocklist/icon_campaign=1/sortkey=a">Special Offers</a></li>
+						<li><a href="/stocklist/icon_sale=1/sortkey=f">Sale Cars</a></li>
+						<li><a href="/stocklist/icon_pickup=1/sortkey=e">Recommended Cars</a></li>
+						<li><a href="/stocklist/icon_campaign=1/sortkey=e">Premium Class</a></li>
 						<li class="bold">By Year</li>
-						<li><a href="/stocklist/mfg_year_to=2002/sortkey=a">Older than 2002</a></li>
-						<li><a href="/stocklist/mfg_year_from=2003/mfg_year_to=2003/sortkey=a">2003</a></li>
-						<li><a href="/stocklist/mfg_year_from=2004/mfg_year_to=2004/sortkey=a">2004</a></li>
-						<li><a href="/stocklist/mfg_year_from=2005/sortkey=a">Newer than 2005</a></li>
+						<li><a href="/stocklist/mfg_year_to=2003/sortkey=e">Older than 2003</a></li>
+						<li><a href="/stocklist/mfg_year_from=2004/mfg_year_to=2004/sortkey=e">2004</a></li>
+						<li><a href="/stocklist/mfg_year_from=2005/mfg_year_to=2005/sortkey=e">2005</a></li>
+						<li><a href="/stocklist/mfg_year_from=2006/sortkey=e">Newer than 2006</a></li>
 						<li class="bold">By Price</li>
-						<li><a href="/stocklist/fob_price_to=1000/sortkey=a">Under $1,000</a></li>
-						<li><a href="/stocklist/fob_price_from=1000/fob_price_to=1500/sortkey=a">$1,000 - $1,500</a></li>
-						<li><a href="/stocklist/fob_price_from=1500/fob_price_to=2000/sortkey=a">$1,500 - $2,000</a></li>
-						<li><a href="/stocklist/fob_price_from=2000/fob_price_to=2500/sortkey=a">$2,000 - $2,500</a></li>
-						<li><a href="/stocklist/fob_price_from=2500/fob_price_to=3000/sortkey=a">$2,500 - $3,000</a></li>
-						<li><a href="/stocklist/fob_price_from=3000/sortkey=a">Over $3,000</a></li>
+						<li><a href="/stocklist/fob_price_to=1000/sortkey=e">Under $1,000</a></li>
+						<li><a href="/stocklist/fob_price_from=1000/fob_price_to=1500/sortkey=e">$1,000 - $1,500</a></li>
+						<li><a href="/stocklist/fob_price_from=1500/fob_price_to=2000/sortkey=e">$1,500 - $2,000</a></li>
+						<li><a href="/stocklist/fob_price_from=2000/fob_price_to=2500/sortkey=e">$2,000 - $2,500</a></li>
+						<li><a href="/stocklist/fob_price_from=2500/fob_price_to=3000/sortkey=e">$2,500 - $3,000</a></li>
+						<li><a href="/stocklist/fob_price_from=3000/sortkey=e">Over $3,000</a></li>
 					</ul>
 					<ul class="pulldown-left">
 						<li class="bold">By Type</li>
-						<li><a href="/stocklist/veh_type=6/sortkey=a">SUV</a></li>
-						<li><a href="/stocklist/veh_type=4/sortkey=a">Sedan</a></li>
-						<li><a href="/stocklist/veh_type=3/sortkey=a">Hatchback</a></li>
-						<li><a href="/stocklist/veh_type=1/sortkey=a">Coupe</a></li>
-						<li><a href="/stocklist/veh_type=2/sortkey=a">Convertible</a></li>
-						<li><a href="/stocklist/veh_type=8/sortkey=a">Van</a></li>
-						<li><a href="/stocklist/veh_type=15/sortkey=a">Mini Van</a></li>
-						<li><a href="/stocklist/veh_type=5/sortkey=a">Wagon</a></li>
-						<li><a href="/stocklist/veh_type=9/sortkey=a">Truck</a></li>
-						<li><a href="/stocklist/veh_type=10/sortkey=a">Mini Bus</a></li>
-						<li><a href="/stocklist/veh_type=17/sortkey=a">Bus</a></li>
-						<li><a href="/stocklist/veh_type=16/sortkey=a">Machinery</a></li>
+						<li><a href="/stocklist/veh_type=6/sortkey=e">SUV</a></li>
+						<li><a href="/stocklist/veh_type=4/sortkey=e">Sedan</a></li>
+						<li><a href="/stocklist/veh_type=3/sortkey=e">Hatchback</a></li>
+						<li><a href="/stocklist/veh_type=1/sortkey=e">Coupe</a></li>
+						<li><a href="/stocklist/veh_type=2/sortkey=e">Convertible</a></li>
+						<li><a href="/stocklist/veh_type=8/sortkey=e">Van</a></li>
+						<li><a href="/stocklist/veh_type=15/sortkey=e">Mini Van</a></li>
+						<li><a href="/stocklist/veh_type=5/sortkey=e">Wagon</a></li>
+						<li><a href="/stocklist/veh_type=9/sortkey=e">Truck</a></li>
+						<li><a href="/stocklist/veh_type=10/sortkey=e">Mini Bus</a></li>
+						<li><a href="/stocklist/veh_type=17/sortkey=e">Bus</a></li>
+						<li><a href="/stocklist/veh_type=16/sortkey=e">Machinery</a></li>
 					</ul>
 				</div>
 			</li>
@@ -194,7 +252,7 @@ $(document).ready(function() {
 				<div>
 					<ul class="pulldown-left pulldown-border">
 						<li class="bold">Research &amp; Reviews</li>
-						<li><a href="/blog/category/information">Latest News</a></li>
+						<li><a href="http://blog.beforward.jp/category/information">Latest News</a></li>
 						<li>&nbsp;</li>
 					</ul>
 					<ul class="pulldown-left">
@@ -212,11 +270,11 @@ $(document).ready(function() {
 						<li><a href="/about/company-profile">Company Profile</a></li>
 						<li><a href="/about/why-choose-be-forward">Why Choose BE FORWARD?</a></li>
 						<li><a href="/about/team">Team</a></li>
-						<li><a href="/beforward-tanzania">Beforward Tanzania</a></li>
+						<li><a href="/about/languages">Languages</a></li>
 						<li><a href="/about/awards">Awards</a></li>
 						<li><a href="/about/partners">Partners</a></li>
-						<li><a href="/blog/category/customers-smile">Testimonials</a></li>
-						<li><a href="/blog/">What's New at BE FORWARD</a></li>
+						<li><a href="http://voc.beforward.jp/testimonials.html">Testimonials</a></li>
+						<li><a href="http://blog.beforward.jp/">What's New at BE FORWARD</a></li>
 						<li class="bold" style="padding-top: 10px;">HELP &amp; SUPPORT</li>
 						<li><a href="/cap">Car At Progress (CAP)</a></li>
 						<li><a href="/support/faq">FAQ</a></li>
@@ -227,12 +285,12 @@ $(document).ready(function() {
 			</li>
 		</ul>
 	</div><!--MegaMenu Ends-->
+	<div class="clearfix"></div>
+
 </div>
 
-
 			<div id="content" class="clearfix">
-				
-				<!-- content -->
+								<!-- content -->
 				
 
 
@@ -246,11 +304,21 @@ $(document).ready(function() {
 	<div class="page-left">
 		<p class="page-left-title">Utilities</p>
 <ul>
-	<li><a href="/terms">Terms &amp; Conditions</a></li>
-	<li class="page-menu-on"><a href="/privacy">Privacy Policy</a></li>
-	<li><a href="/disclaimer">Disclaimer Policy</a></li>
-	<li><a href="/link-to">Link to us</a></li>
-	<li class="bt-zero "><a href="/sitemap">Site Map</a></li>
+	<li>
+		<a href="/terms">Terms &amp; Conditions</a>
+	</li>
+	<li class="page-menu-on">
+		<a href="/privacy">Privacy Policy</a>
+	</li>
+	<li>
+		<a href="/disclaimer">Disclaimer Policy</a>
+	</li>
+	<li>
+		<a href="/link-to">Link to us</a>
+	</li>
+	<li class="bt-zero ">
+		<a href="/sitemap">Site Map</a>
+	</li>
 </ul>
 
 	</div>
@@ -449,32 +517,30 @@ $(document).ready(function() {
 	<p class="facebook-img">
 		<img src="/images/facebook_img.gif" alt="Facebook Icon" width="26" height="25">
 	</p>
-	<p class="facebook-text">
+	<p class="facebook-text" hspace="30">
 		<a href="http://www.facebook.com/pages/Be-Forward/180050085358616" target="_blank">
 		Become a fan to receive<br> special offers and latest news</a>
 	</p>
 </div>
 
 
-
 			<div id="footer">
 <div class="clearfix">
 		<div class="footer-box">
-			<p class="mb10"><a href="/">
-			<img src="/images/footer_logo.jpg" alt="BE FORWARD.JP JAPANESE CAR EXPORTER" width="161" height="87">
-			</a></p>
-			<p>4-6-1 Fuda Chofu-City,<br>
-			Tokyo 182-0024 Japan<br>
-			<span class="orange">T</span> +81 42 440 3440<br>
-			<span class="orange">F</span> +81 42 440 3450<br>
-			<span class="orange">E</span>
-			<a href="mailto:top@beforward.jp">top@beforward.jp</a>
+			<p class="mb10"><a href="/"><img src="/images/footer_logo.jpg" alt="BE FORWARD.JP JAPANESE CAR EXPORTER" width="161" height="87"></a></p>
+			<p>
+				4-6-1 Fuda Chofu-City,<br>Tokyo 182-0024 Japan<br>
+				<span class="orange">T</span> +81 42 440 3440<br>
+				<span class="orange">F</span> +81 42 440 3450<br>
+				<span class="orange">E</span>
+				<a href="mailto:top@beforward.jp">top@beforward.jp</a><br><br>
+				<img src="/images/icon-white-time.png" style="vertical-align: middle;margin-right: 3px;"><span>Japan Time:&nbsp;</span><span id="realtime_clock">12:28</span>
 			</p>
 		</div>
 		<div class="footer-box">
 			<p class="footer-titile">RESEARCH / REVIEWS</p>
 			<ul>
-				<li><a href="/blog/category/information">Latest News</a></li>
+				<li><a href="http://blog.beforward.jp/category/information">Latest News</a></li>
 			</ul>
 			<p class="footer-titile">ABOUT BE FORWARD</p>
 			<ul>
@@ -482,11 +548,11 @@ $(document).ready(function() {
 				<li><a href="/about/company-profile">Company Profile</a></li>
 				<li><a href="/about/why-choose-be-forward">Why Choose BE FORWARD?</a></li>
 				<li><a href="/about/team">Team</a></li>
-				<li><a href="/beforward-tanzania">Beforward Tanzania</a></li>
+				<li><a href="/about/languages">Languages</a></li>
 				<li><a href="/about/awards">Awards</a></li>
 				<li><a href="/about/partners">Partners</a></li>
-				<li><a href="/blog/category/customers-smile">Testimonials</a></li>
-				<li><a href="/blog">What's New at BE FORWARD</a></li>
+				<li><a href="http://voc.beforward.jp/testimonials.html">Testimonials</a></li>
+				<li><a href="http://blog.beforward.jp/">What's New at BE FORWARD</a></li>
 			</ul>
 		</div>
 		<div class="footer-box footer-inner">
@@ -507,37 +573,37 @@ $(document).ready(function() {
 			<p class="footer-titile">FIND CARS</p>
 			<ul>
 				<li><a href="/stocklist">Browse All Stock</a></li>
-				<li><a href="/stocklist/icon_sale=1/sortkey=a">Sale Cars</a></li>
-				<li><a href="/stocklist/icon_pickup=1/sortkey=a">Recommended Cars</a></li>
-				<li><a href="/stocklist/icon_campaign=1/sortkey=a">Special Offers</a></li>
+				<li><a href="/stocklist/icon_sale=1/sortkey=f">Sale Cars</a></li>
+				<li><a href="/stocklist/icon_pickup=1/sortkey=e">Recommended Cars</a></li>
+				<li><a href="/stocklist/icon_campaign=1/sortkey=e">Premium Class</a></li>
 			</ul>
 			<p class="footer-titile">Browse by Year</p>
 			<ul>
-				<li><a href="/stocklist/mfg_year_to=2002/sortkey=a">Older than 2002</a></li>
-				<li><a href="/stocklist/mfg_year_from=2003/mfg_year_to=2003/sortkey=a">2003</a></li>
-				<li><a href="/stocklist/mfg_year_from=2004/mfg_year_to=2004/sortkey=a">2004</a></li>
-				<li><a href="/stocklist/mfg_year_from=2005/sortkey=a">Newer than 2005</a></li>
+				<li><a href="/stocklist/mfg_year_to=2003/sortkey=e">Older than 2003</a></li>
+				<li><a href="/stocklist/mfg_year_from=2004/mfg_year_to=2004/sortkey=e">2004</a></li>
+				<li><a href="/stocklist/mfg_year_from=2005/mfg_year_to=2005/sortkey=e">2005</a></li>
+				<li><a href="/stocklist/mfg_year_from=2006/sortkey=e">Newer than 2006</a></li>
 			</ul>
 		</div>
 		<div class="footer-box footer-pr">
 			<p class="footer-titile">MAKES</p>
 			<ul>
-				<li><a href="/stocklist/make=1/sortkey=a">TOYOTA</a></li>
-				<li><a href="/stocklist/make=3/sortkey=a">NISSAN</a></li>
-				<li><a href="/stocklist/make=2/sortkey=a">HONDA</a></li>
-				<li><a href="/stocklist/make=6/sortkey=a">MITSUBISHI</a></li>
-				<li><a href="/stocklist/make=4/sortkey=a">MAZDA</a></li>
-				<li><a href="/stocklist/make=8/sortkey=a">ISUZU</a></li>
-				<li><a href="/stocklist/make=106/sortkey=a">MERCEDES-BENZ</a></li>
-				<li><a href="/stocklist/make=83/sortkey=a">BMW</a></li>
-				<li><a href="/stocklist/make=48/sortkey=a">VOLKSWAGEN</a></li>
-				<li><a href="/stocklist/make=52/sortkey=a">LAND ROVER</a></li>
-				<li><a href="/stocklist/make=205/sortkey=a">JEEP</a></li>
+				<li><a href="/stocklist/make=1/sortkey=e">TOYOTA</a></li>
+				<li><a href="/stocklist/make=3/sortkey=e">NISSAN</a></li>
+				<li><a href="/stocklist/make=2/sortkey=e">HONDA</a></li>
+				<li><a href="/stocklist/make=6/sortkey=e">MITSUBISHI</a></li>
+				<li><a href="/stocklist/make=4/sortkey=e">MAZDA</a></li>
+				<li><a href="/stocklist/make=8/sortkey=e">ISUZU</a></li>
+				<li><a href="/stocklist/make=106/sortkey=e">MERCEDES-BENZ</a></li>
+				<li><a href="/stocklist/make=83/sortkey=e">BMW</a></li>
+				<li><a href="/stocklist/make=48/sortkey=e">VOLKSWAGEN</a></li>
+				<li><a href="/stocklist/make=52/sortkey=e">LAND ROVER</a></li>
+				<li><a href="/stocklist/make=205/sortkey=e">JEEP</a></li>
 			</ul>
 		</div>
 	</div>
 	<div class="pt7 clearfix">
-		<p class="copy">© Copyright 2012 BE FORWARD CO.,LTD. All rights reserved.</p>
+		<p class="copy">© Copyright 2013 BE FORWARD CO.,LTD. All rights reserved.</p>
 		<ul class="footer-menu clearfix">
 			<li><a href="/terms">Terms &amp; Conditions</a>|</li>
 			<li><a href="/privacy">Privacy</a>|</li>
@@ -557,6 +623,20 @@ $(document).ready(function() {
 		</div>
 	</div>
 	<!-- PopUp View -->
+<!-- ClickTale Bottom part -->
+<div id="ClickTaleDiv" style="display: none;"></div>
+<script type="text/javascript">
+document.write(unescape("%3Cscript%20src='"+
+ (document.location.protocol=='https:'?
+  'https://clicktalecdn.sslcs.cdngc.net/www/':
+  'http://s.clicktale.net/')+
+ "WRd.js'%20type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://clicktalecdn.sslcs.cdngc.net/www/WRd.js" type="text/javascript"></script>
+<script type="text/javascript">
+var ClickTaleSSL=1;
+if(typeof ClickTale=='function') ClickTale(7924,0.004,"www14");
+</script>
+<!-- ClickTale end of Bottom part -->
 
 
 </body></html>
