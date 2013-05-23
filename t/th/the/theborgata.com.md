@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theborgata.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122040442id_/http%3A//www.theborgata.com/privacy-policy%3FpopupWidth%3D530%26popupHeight%3D562) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theborgata.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523040208id_/http%3A//www.theborgata.com/privacy-policy%3FpopupWidth%3D530%26popupHeight%3D562) for the most accurate reproduction.*
 
 # Privacy Policy | Borgata Hotel Casino & Spa
 
