@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intmath.com privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018052246id_/http%3A//www.intmath.com/help/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intmath.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523103215id_/http%3A//www.intmath.com/help/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -86,14 +86,6 @@ This algebra solver can solve a wide range of math problems. (Please be patient 
 
 Go to: [Online algebra solver](http://www.intmath.com/help/problem-solver.php)
 
-### Math Lessons on DVD
-
-[ ](http://www.intmath.com/help/math-videos/?topic=math)
-
-Easy to understand math lessons on DVD. See samples before you commit.
-
-More info: [Math videos](http://www.intmath.com/help/math-videos/?topic=math)
-
 ### Ready for a break?
 
 [ ](http://www.intmath.com/games/games.php?a=3)
@@ -113,3 +105,11 @@ Sign up for the free **IntMath Newsletter**. Get math study tips, information, n
 Save typing! You can use this URL to reach this page:
 
 > [intmath.com/privacy](http://intmath.com/privacy)
+
+### Math Lessons on DVD
+
+[ ](http://www.intmath.com/help/math-videos/?topic=math)
+
+Easy to understand math lessons on DVD. See samples before you commit.
+
+More info: [Math videos](http://www.intmath.com/help/math-videos/?topic=math)
