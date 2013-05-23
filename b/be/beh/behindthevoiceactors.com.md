@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the behindthevoiceactors.com privacy policy that was archived on 2012-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121025053242id_/http%3A//www.behindthevoiceactors.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the behindthevoiceactors.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523231743id_/http%3A//www.behindthevoiceactors.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Behind The Voice Actors - Privacy Policy
 
@@ -24,16 +24,16 @@ Newest Comparisons
 
 Recently Updated Comparisons
 
-[ ](http://www.behindthevoiceactors.com/voice-compare/Transformers/Alpha-Trion/ "Alpha Trion")1 compare added
+[ ](http://www.behindthevoiceactors.com/voice-compare/Alice-in-Wonderland/White-Rabbit/ "White Rabbit")1 compare added
 
-[ ](http://www.behindthevoiceactors.com/voice-compare/Resident-Evil/Sherry-Birkin/ "Sherry Birkin")1 compare added
+[ ](http://www.behindthevoiceactors.com/voice-compare/Alice-in-Wonderland/Alice/ "Alice")1 compare added
 
-[ ](http://www.behindthevoiceactors.com/voice-compare/Resident-Evil/Leon-S-Kennedy/ "Leon S. Kennedy")2 compares added
+[ ](http://www.behindthevoiceactors.com/voice-compare/Superman/Lois-Lane/ "Lois Lane")1 compare added
 
-[ ](http://www.behindthevoiceactors.com/voice-compare/Captain-America/Captain-America/ "Captain America")1 compare added
+[ ](http://www.behindthevoiceactors.com/voice-compare/Superman/Brainiac/ "Brainiac")1 compare added
 
-[ ](http://www.behindthevoiceactors.com/voice-compare/Resident-Evil/Leon-S-Kennedy/ "Leon S. Kennedy")2 compares added
+[ ](http://www.behindthevoiceactors.com/voice-compare/Superman/Superman/ "Superman")1 compare added
 
-[ ](http://www.behindthevoiceactors.com/voice-compare/TMNT/Splinter/ "Splinter")1 compare added
+[ ](http://www.behindthevoiceactors.com/voice-compare/Superman/Supergirl/ "Supergirl")1 compare added
 
 [CHECK OUT ALL VOICE COMPARES »](http://www.behindthevoiceactors.com/voice-compare/ "CHECK OUT ALL VOICE COMPARES")
