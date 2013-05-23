@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sydney.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122172110id_/http%3A//www.sydney.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sydney.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523151333id_/http%3A//www.sydney.com/privacy) for the most accurate reproduction.*
 
-# Privacy - Sydney.com
+# Privacy Policy - Sydney and VisitNSW Tourism - Destination NSW - Sydney.com
 
 Destination NSW is committed to maintaining your privacy.
 
@@ -22,9 +22,17 @@ There are risks associated with the transmission of information over the Interne
 
 Destination NSW can of course provide you with an alternative means of dealing with it, or transacting business with it, if you feel uncomfortable with the electronic transmission of information.
 
-This site contains cookies. A cookie is a small text file that is sent back to your hard drive from a host webpage. They record your preferences in relation to your use of a site and provide us with other information about your enquiry that allows us to recognise you in the future. The cookies on this site do not read the information on your hard drive. They do not make your computer perform any actions or make your computer send information to any other computer via the internet. Cookie information is not stored or collected by this Organisation.
+Destination NSW and its tourism and event partners may use "Cookies" to store your preferences, record usage patterns and information and collect various other information on how you visit and access Destination NSW’s web pages, newsletters and other digital assets. 
 
-We also use cookies for security reasons on our sites where we collect your personal information in order to make a payment for either a booking or where we collect your payment to make another form of purchase. Our server cannot find out your name or email address, or anything about your computer, by using cookies. Our cookies can make your next visit to our web page simpler and easier. You may wish to set your browser to notify you when you receive a cookie, giving you the chance to decide whether or not to allow it on to your hard drive. However, if you decide to not accept our cookies, some of our web pages may not display properly or you may not be permitted to access certain information.
+This information allows Destination NSW to update various digital assets for your continued use and benefit.
+
+Cookies are small files stored on your computer which allow Destination NSW to recognise you when you return to one of Destination NSW digital assets i.e. Destination NSW corporate and consumer websites. 
+
+Cookies can make the web more useful by storing information about your preferences on a particular website. 
+
+The use of cookies is an industry standard and many websites use them to provide useful features for you such as tailored advertising. Cookies do not personally identify you, only your computer.
+
+If you wish not to use Cookies, actions can be undertaken to delete Cookies from your computer at any time. Please see your internet browser's help menu for more information or visit your control panel – ‘network and internet’.
 
 ### How you can access your personal information
 
