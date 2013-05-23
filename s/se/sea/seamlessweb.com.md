@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the seamlessweb.com privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214140959id_/http%3A//www.seamless.com/business/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seamlessweb.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523205416id_/http%3A//www.seamless.com/business/privacy.html) for the most accurate reproduction.*
 
 # Seamless : Privacy Policy
 
-**Last updated: November 28, 2011**
+**Last updated: January 14, 2013**
 
 We, Seamless North America, LLC (" **Seamless** "), are concerned about privacy issues and want you to be familiar with how we collect, use and disclose Personally Identifiable Information (as defined below). This Privacy Policy describes our practices in connection with Personally Identifiable Information that we collect through the site from which you are accessing this policy (the " **Site** "). This Privacy Policy does not address the collection, use or disclosure of information by any of our affiliates or by third parties.
 
 By using the Site, you agree to the terms and conditions of this Privacy Policy. If you do not agree to the terms and conditions of this Privacy Policy, please do not use the Site. We reserve the right to change this Privacy Policy without prior notice. You can determine when this Privacy Policy was last revised by referring to the "LAST UPDATED" legend at the top of this page. Any changes to our Privacy Policy will become effective upon our posting of the revised Privacy Policy on the Site. Use of the Site following such changes constitutes your acceptance of the revised Privacy Policy then in effect.
 
-For individuals in the UK, you should be aware that we abide by the Safe Harbor framework agreed to by the U.S. Department of Commerce and the European Union (EU) with respect to Personally Identifiable Information collected by Seamless Europe, Limited and transferred to us in the United States. Please review our [Safe Harbor Privacy Policy](https://web.archive.org/web/20121214140959id_/http%3A//www.seamless.com/business/privacySafeHarbor.html) for further information.
+For individuals in the UK, you should be aware that we abide by the Safe Harbor framework agreed to by the U.S. Department of Commerce and the European Union (EU) with respect to Personally Identifiable Information collected by Seamless Europe, Limited and transferred to us in the United States. Please review our [Safe Harbor Privacy Policy](https://web.archive.org/web/20130523205416id_/http%3A//www.seamless.com/business/privacySafeHarbor.html) for further information.
 
 ## 1\. What Types of Information Do We Collect From You?
 
@@ -30,6 +30,7 @@ For individuals in the UK, you should be aware that we abide by the Safe Harbor 
   * to permit you to participate in sweepstakes, contests and similar promotions (collectively, "Promotions"). You should carefully review the rules, if any, of each Promotion in which you participate, as they may contain additional important information about our use of your PII. To the extent that the terms and conditions of such rules concerning the treatment of your PII conflict with this Privacy Policy, the terms and conditions of such rules shall control.
   * to customize content on our Site (e.g., the restaurants that will deliver to your location).
   * for our internal business purposes, such as data analysis, audits, developing new products, enhancing our website, improving our services, identifying usage trends and determining the effectiveness of our promotional campaigns.
+  * in connection with your ratings and reviews. 
 
 
 
@@ -41,7 +42,7 @@ For individuals in the UK, you should be aware that we abide by the Safe Harbor 
 
 We may disclose PII:
 
-  * to our affiliates [Seamless Europe, Limited](http://www.seamlessuk.co.uk/) and [ARAMARK Corporation](http://www.aramark.com/) so that they may use such PII for the purposes described in this Privacy Policy. Seamless is the party responsible for the management of the jointly-used PII.
+  * to our affiliate [Seamless Europe, Limited](http://www.seamlessuk.co.uk/) so that they may use such PII for the purposes described in this Privacy Policy. Seamless is the party responsible for the management of the jointly-used PII.
   * to our third party service providers who provide services such as website hosting, data analysis, payment processing, order fulfillment, infrastructure provision, IT services, customer service, e-mail delivery services, credit card processing and other similar services to enable them to provide services.
   * As required to fulfill your purchase (e.g., to our restaurant partners to enable them to fulfill your order).
   * to identify you to any person to whom you send messages regarding Site-related content through the Site.
