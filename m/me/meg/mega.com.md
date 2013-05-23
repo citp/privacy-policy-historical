@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mega.com privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101201319id_/http%3A//www.mega.com/en/c/site/p/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mega.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523225811id_/http%3A//mega.com/en/c/site/p/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - MEGA
 
@@ -33,11 +33,11 @@ As an international organization, the personal information we collect may be tra
 ## Access to your personal information
 
 At any time, you are entitled to know whether we hold personal information about you and, if we do, to have access to it and be able to corrected it if it is inaccurate.  
-Moreover, you are entitled to revoke your consent to our use of your personal information in the future, in whole or in part. Should you desire this, we will delete or store your data. You can do this by sending us an [email](http://www.mega.com/en/c/news/p/press-contact/form/contact/n/MEGA_Privacy_Policy/u/info/h/mega/d/com/s/Privacy_Policy_Information).  
+Moreover, you are entitled to revoke your consent to our use of your personal information in the future, in whole or in part. Should you desire this, we will delete or store your data. You can do this by sending us an [email](http://mega.com/en/c/news/p/press-contact/form/contact/n/MEGA_Privacy_Policy/u/info/h/mega/d/com/s/Privacy_Policy_Information).  
 MEGA will make every effort to ensure the protection of your personal information on our servers, and will respond to any suspected abuse  that you report to us.
 
   
-If you have any further questions about our privacy policy, please [contact us](http://www.mega.com/en/c/news/p/press-contact/form/contact/n/MEGA_Privacy_Policy/u/info/h/mega/d/com/s/Privacy_Policy_Information).  
+If you have any further questions about our privacy policy, please [contact us](http://mega.com/en/c/news/p/press-contact/form/contact/n/MEGA_Privacy_Policy/u/info/h/mega/d/com/s/Privacy_Policy_Information).  
 MEGA may update his privacy policy from time to time. When we update the policy, a notice will be posted on our web site.
 
 _Last updated: November 14, 2011_
