@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the starmakerstudios.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213060821id_/http%3A//www.starmakerstudios.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starmakerstudios.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523073308id_/http%3A//www.starmakerstudios.com/privacy) for the most accurate reproduction.*
 
 # StarMaker
 
-Effective: June 28, 2011 
+_Effective: June 28, 2011_
 
 StarMaker provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive from users of starmakerstudios.com (the "Site") and the StarMaker mobile device application (the "Application"). This Privacy Policy applies only to information that you provide to us through the Site, Application, and any Social Networking Sites to which you link your StarMaker account. This Privacy Policy may be updated from time to time. We will notify you of any material changes by posting the new Privacy Policy on the Site or Application. You are advised to consult this policy regularly for any changes. 
 
