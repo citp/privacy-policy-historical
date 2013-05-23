@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newadventuresconf.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122073257id_/http%3A//2013.newadventuresconf.com/docs/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newadventuresconf.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523115202id_/http%3A//2013.newadventuresconf.com/docs/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | New Adventures In Web Design 2013
 
