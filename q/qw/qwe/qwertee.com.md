@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the qwertee.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224081038id_/http%3A//www.qwertee.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qwertee.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523140218id_/http%3A//www.qwertee.com/privacy) for the most accurate reproduction.*
 
-# Qwertee.
+# Qwertee : Limited Edition Cheap Daily T Shirts | Gone in 24 Hours | T-shirt Only £8/€10/$12 | Cool Graphic Funny Tee Shirts
 
 ### Privacy
 
@@ -59,3 +59,17 @@ Second Floor
 Ballsbridge  
 Dublin 4  
 Ireland
+
+Cookie   | Name| Purpose| Notes  
+---|---|---|---  
+AddThis| __atvc| This cookie is used to update the add this share widget count| See http://support.addthis.com/customer/portal/questions/319587--atuvc-cookie      
+  
+Qwertee| sessionid| This cookie is used to identify users to the site so they can log in, place orders etc|   
+Qwertee| csrftoken| This cookie is used by our system to prevent Cross Site Request Forgery attacks|       
+Google Analytics| _utma  
+_utmb  
+_utmc  
+_utmz| These cookies are used to collect information about how visitors use our site, which we use to help improve it. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited.| http://www.google.com/intl/en_uk/analytics/privacyoverview.html  
+Qwertee| msghide1  
+msghide2  
+msghide3| These cookie hide the red announcement banners at the top of the screen.| A new cookie with the number incremented is created each time we have a new banner
