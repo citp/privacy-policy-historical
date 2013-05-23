@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the outofdebtagain.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213072317id_/http%3A//www.outofdebtagain.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outofdebtagain.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523231812id_/http%3A//www.outofdebtagain.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy « Out of Debt Again
+# Privacy Policy | Out of Debt Again
 
 ## The Out of Debt Again Privacy Policy
 
@@ -59,3 +59,16 @@ Thank you,
 Mrs. Accountability
 
 P.S. Thank you to [Bob at Christian Personal Finance for graciously allowing me to copy his privacy policy](http://www.christianpf.com/privacy-policy/).
+
+Be Sociable, Share!
+
+  * [](http://twitter.com/intent/tweet?text=Privacy%20Policy%20-%20http%3A%2F%2Fwww.outofdebtagain.com%2Fprivacy-policy%2F%20 "Twitter")
+  * [](http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.outofdebtagain.com%2Fprivacy-policy%2F&t=Privacy%20Policy "Facebook")
+  * [](https://mail.google.com/mail/?view=cm&fs=1&to&su=Privacy%20Policy&body=http%3A%2F%2Fwww.outofdebtagain.com%2Fprivacy-policy%2F&ui=2&tf=1&shva=1 "email")
+  *   * [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.outofdebtagain.com%2Fprivacy-policy%2F&title=Privacy%20Policy "StumbleUpon")
+  * [](http://delicious.com/post?url=http%3A%2F%2Fwww.outofdebtagain.com%2Fprivacy-policy%2F&title=Privacy%20Policy&notes=The%20Out%20of%20Debt%20Again%20Privacy%20Policy%0D%0AThe%20short%20version%E2%80%A6%0D%0AThe%20privacy%20of%20my%20visitors%20to%20Out%20of%20Debt%20Again%20is%20important%20to%20me.%20I%20hate%20spam%20and%20would%20never%20want%20you%20to%20have%20more%20as%20a%20result%20of%20this%20blog.%20If%20you%20subscribe%20to%20my%20RSS%20Feed%20I%20will%20not%20spa "Delicious")
+  * [](http://www.google.com/reader/link?url=http%3A%2F%2Fwww.outofdebtagain.com%2Fprivacy-policy%2F&title=Privacy%20Policy&srcURL=http%3A%2F%2Fwww.outofdebtagain.com%2Fprivacy-policy%2F&srcTitle=Out+of+Debt+Again+...we+did+it+before%2C+we+can+do+it+again "Google Reader")
+  * [](http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fwww.outofdebtagain.com%2Fprivacy-policy%2F&title=Privacy%20Policy&source=Out+of+Debt+Again+...we+did+it+before%2C+we+can+do+it+again&summary=The%20Out%20of%20Debt%20Again%20Privacy%20Policy%0D%0AThe%20short%20version%E2%80%A6%0D%0AThe%20privacy%20of%20my%20visitors%20to%20Out%20of%20Debt%20Again%20is%20important%20to%20me.%20I%20hate%20spam%20and%20would%20never%20want%20you%20to%20have%20more%20as%20a%20result%20of%20this%20blog.%20If%20you%20subscribe%20to%20my%20RSS%20Feed%20I%20will%20not%20spa "LinkedIn")
+  * [](http://www.blinklist.com/index.php?Action=Blink/addblink.php&Url=http%3A%2F%2Fwww.outofdebtagain.com%2Fprivacy-policy%2F&Title=Privacy%20Policy "BlinkList")
+  * 
+
