@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the sermoncentral.com privacy policy that was archived on 2012-11-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121117232759id_/http%3A//www.sermoncentral.com/articleb.asp%3Farticle%3Dprivacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sermoncentral.com privacy policy that was archived on 2013-05-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130523230713id_/http%3A//www.sermoncentral.com/articleb.asp%3Farticle%3Dprivacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
     <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
         //this piece of javascript code will Prevent other sites from hijacking our site into a frame.
         if (top.frames.length != 0) { if (window.location.href.replace) top.location.replace(self.location.href); else top.location.href = self.document.href; }
     </script>
-    
+   
 	<title>
 		Privacy Policy
 	</title>
@@ -15,7 +15,8 @@
     <meta name="Robots" content="">
     <meta name="GOOGLEBOT" content="">
     <meta name="classification" content="Christian, sermon, sermons, ministry, Sermon Central, pastor, sermon illustration, minister, priest">
-	<link rel="stylesheet" href="/css/screen_5.00.css" type="text/css" media="screen">
+	<link rel="stylesheet" href="/css/screen_5.113.css" type="text/css" media="screen">
+	<link rel="stylesheet" href="http://www.sermoncentral.com/cms/css/cms.css" type="text/css" media="screen">
 	<link rel="alternate" type="application/rss+xml" title="Recent Sermons" href="/new_sermons_feed.asp">
     <link rel="alternate" type="application/rss+xml" title="Recent Ministry Jobs" href="http://pastorfinder.com/rss_jobs.asp">
     <link rel="alternate" type="application/rss+xml" title="Recent Audio Sermons" href="/new_sermons_feed.asp?audio=true">
@@ -23,11 +24,18 @@
     <!--[if IE 7]>
         <link rel="stylesheet" href="/css/IE7.css" type="text/css" media="screen"/>
     <![endif]-->
-	<script type="text/javascript" src="/includes/js/ui_5.00.js"></script>
+	<script type="text/javascript" src="/includes/js/ui_5.02.js"></script>
 	
 	<!-- Google analytics -->
 	<script type="text/javascript">
 
+        //bit of code to allow the esc key to close overlays.
+	    $(document).keyup(function(e) {
+	        if (e.keyCode == 27) {
+	            closeOverlay();
+	        }   
+	    });
+	    
 	    var VisitorAttributes = '';
 	    var IsCurrentProDayLimit = '60';
 	    var VisitorType_Pro = '';
@@ -77,30 +85,38 @@
 	    
         //track the IsLogged in custom variable.
 	    var IsLoggedIn = "False";
-	    
+
+	    var TrackViewEvent = "0";
+	    //alert(TrackViewEvent);
 	    //set the account, add variables and track pageview.
 	    var _gaq = _gaq || [];
+	    var pluginUrl = '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+	    _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
 	    _gaq.push(['_setAccount', 'UA-293620-9']);
 	    _gaq.push(['_setCustomVar', 4, 'IsLoggedIn', IsLoggedIn, 2]);
 	    _gaq.push(['_setCustomVar', 1, 'VisAttrib', VisitorAttributes, 1]);
+
+	    if (TrackViewEvent==1) {
+	        _gaq.push(['_trackEvent', '', 'view', '',, 'true']);
+	    }
 	    _gaq.push(['_trackPageview']);
-	    _gaq.push(['_trackPageLoadTime']);
+	    //_gaq.push(['_trackPageLoadTime']); //DEPRICATED
 	    
 	</script>
 	
 	<!-- Start Visual Website Optimizer Asynchronous Code -->
     <script type="text/javascript">
-        var _vwo_code = (function() {
-        var account_id = 26554,
-    settings_tolerance = 2000,
-    library_tolerance = 1500,
-    use_existing_jquery = false,
-            // DO NOT EDIT BELOW THIS LINE
-    f = false, d = document; return { use_existing_jquery: function() { return use_existing_jquery; }, library_tolerance: function() { return library_tolerance; }, finish: function() { if (!f) { f = true; var a = d.getElementById('_vis_opt_path_hides'); if (a) a.parentNode.removeChild(a); } }, finished: function() { return f; }, load: function(a) { var b = d.createElement('script'); b.src = a; b.type = 'text/javascript'; b.innerText; b.onerror = function() { _vwo_code.finish(); }; d.getElementsByTagName('head')[0].appendChild(b); }, init: function() { settings_timer = setTimeout('_vwo_code.finish()', settings_tolerance); this.load('//dev.visualwebsiteoptimizer.com/j.php?a=' + account_id + '&u=' + encodeURIComponent(d.URL) + '&r=' + Math.random()); var a = d.createElement('style'), b = 'body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}', h = d.getElementsByTagName('head')[0]; a.setAttribute('id', '_vis_opt_path_hides'); a.setAttribute('type', 'text/css'); if (a.styleSheet) a.styleSheet.cssText = b; else a.appendChild(d.createTextNode(b)); h.appendChild(a); return settings_timer; } };
-        } ()); _vwo_settings_timer = _vwo_code.init();
-    </script><script src="//dev.visualwebsiteoptimizer.com/j.php?a=26554&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20121117232759id_%2Fhttp%253A%2F%2Fwww.sermoncentral.com%2Farticleb.asp%253Farticle%253Dprivacy-policy&amp;r=0.42647107231797565" type="text/javascript"></script>
+        //var _vwo_code = (function() {
+        //var account_id = 26554,
+    //settings_tolerance = 2000,
+    //library_tolerance = 1500,
+    //use_existing_jquery = false,
+    //        // DO NOT EDIT BELOW THIS LINE
+    //f = false, d = document; return { use_existing_jquery: function() { return use_existing_jquery; }, library_tolerance: function() { return library_tolerance; }, finish: function() { if (!f) { f = true; var a = d.getElementById('_vis_opt_path_hides'); if (a) a.parentNode.removeChild(a); } }, finished: function() { return f; }, load: function(a) { var b = d.createElement('script'); b.src = a; b.type = 'text/javascript'; b.innerText; b.onerror = function() { _vwo_code.finish(); }; d.getElementsByTagName('head')[0].appendChild(b); }, init: function() { settings_timer = setTimeout('_vwo_code.finish()', settings_tolerance); this.load('//dev.visualwebsiteoptimizer.com/j.php?a=' + account_id + '&u=' + encodeURIComponent(d.URL) + '&r=' + Math.random()); var a = d.createElement('style'), b = 'body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}', h = d.getElementsByTagName('head')[0]; a.setAttribute('id', '_vis_opt_path_hides'); a.setAttribute('type', 'text/css'); if (a.styleSheet) a.styleSheet.cssText = b; else a.appendChild(d.createTextNode(b)); h.appendChild(a); return settings_timer; } };
+        //} ()); _vwo_settings_timer = _vwo_code.init();
+    </script>
     <!-- End Visual Website Optimizer Asynchronous Code -->
-    
+	
 </head>
 <body onload="javascript:show2('messageparentinnerhtmlhack');" id="">
 
@@ -152,320 +168,224 @@
             </div>
         </div>
         <div style="clear:both;"></div>
-	    <div id="header">
-			<div id="RunOfSite"></div><div id="ExpansionAdDiv" style="padding-left:193px;position:absolute;top:5px;height:100px;overflow:hidden;"><div style="z-index:100;height:90px;">
-<script language="javascript" type="text/javascript">
-var browName = navigator.appName;
-var browDateTime = (new Date()).getTime();
-if (browName=="Netscape")
-{
-document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://bmp.outreach.com/a.aspx?ZoneID=31&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=84785&amp;SiteID=3&amp;Random=' + browDateTime  + '">'); document.write('</'+'scr'+'ipt>');
-}
-if (browName!="Netscape")
-{
-document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://bmp.outreach.com/a.aspx?ZoneID=31&amp;Task=Get&amp;IFR=False&amp;PageID=84785&amp;SiteID=3&amp;Random=' + browDateTime  + '">'); document.write('</'+'scr'+'ipt>');
-}
-</script><script language="javascript" src="http://bmp.outreach.com/a.aspx?ZoneID=31&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=84785&amp;SiteID=3&amp;Random=1580569536218"></script>
-<noscript>
-<a href="http://bmp.outreach.com/a.aspx?ZoneID=31&amp;Task=Click&amp;Mode=HTML&amp;SiteID=3&amp;PageID=84785" target="_blank">
-<img src="http://bmp.outreach.com/a.aspx?Secure=true&amp;ZoneID=31&amp;Task=Get&amp;Mode=HTML&amp;SiteID=3&amp;PageID=84785" width="728" height="600" border="0"  alt=""></a>
-</noscript></div></div><div style="position: absolute; top: 45px;padding: 0 0 0 0px;"><a href="/"><img style="width: 175px;height: 17px;" src="/images/40/sc_logo_small.png"></a></div>
-		</div>
-		<div id="topnav">
-			<ul id="navigation">
-			
-		        <li id="topnav01"><a href="/">Home</a></li>
-			    <li id="topnav02"><a href="/sermons-illustrations-this-weeks-top-online-sermons-preaching-topics/" title="Sermons, Illustrations, This weeks top online sermons preaching topics.">Sermons</a></li>
-			    <li id="topnav03"><a href="/sermon-illustrations-free-stories-preaching/" title="Sermon Illustrations, Free stories for preaching.">Illustrations</a></li>
-			    <li id="topnav04"><a href="/sermon-videos-illustrations-free/" title="Free Sermon Video Illustrations">Videos</a></li>
-			    <li id="topnav05"><a href="/sermon-powerpoints-illustration-church-background-images-stills/" title="Sermon Powerpoints Illustration, Church background images and stills.">PowerPoints</a></li>
-			    <li id="topnav06"><a href="/articles/" title="Pastors Preaching Articles">Articles</a></li>
-			    <li id="topnav07"><a href="/free-online-bible-scripture-search/" title="Free online Bible Scripture search.">Online Bible</a></li>
-			    <li onmouseover="javascript:toggleContributorMenu();" id="topnav08"><a href="javascript:toggleContributorMenu();">Contributor Menu</a></li>
-			    <li onmouseover="javascript:toggleProMenu();" id="topnav09"><a href="javascript:toggleProMenu();">Pro Menu</a></li>
-			</ul>
-		</div>
-		<script language="JavaScript">
-        <!--
-	                pic1 = new Image(215, 26);
-	                pic1.src = "/images/40/ContributorRolloverMenu.gif";
-	                pic2 = new Image(215, 26);
-	                pic2.src = "/images/40/ContributorRolloverMenu2.gif";
-	                pic3 = new Image(215, 26);
-	                pic3.src = "/images/40/ContributorHeaderForProHeader4.gif";
-	                pic4 = new Image(215, 26);
-	                pic4.src = "/images/40/ProMenuHeader.gif";
-	                
-        //-->
-        </script>
-		<div id="ContributorMenu" style="display:none;position: absolute;margin: -26px 0 0 641px;z-index: 1001;background-color: White;" onmouseout="var leave = document.getElementById(&quot;ContributorMenu&quot;); if (isMouseLeaveOrEnter(event, this)) toggleContributorMenu();">
-		    <div style="display:block;width:215px;height:26px;background-image:url(/images/40/ContributorRolloverMenu2.gif);background-repeat: no-repeat;"></div>
-		    <div style="border-left: solid 1px #98a5b3;border-right: solid 1px #98a5b3;border-bottom: solid 1px #98a5b3;">
-		        <!-- Begin: Content Element --><link rel="stylesheet" href="http://www.sermoncentral.com/cms/css/cms.css" type="text/css" media="screen">
-<!--[if IE 7]>
-<link rel="stylesheet" href="http://www.sermoncentral.com/cms/css/cms-IE7.css" type="text/css" media="screen"/>
-<![endif]-->
-
-<div id="navRolloverMenu">
-
-<div id="notSignedInContributorMenu" style="display:;text-align:center;height:60px;padding-top:15px;*padding-left:40px;">
-	<div><a class="redLink" href="Javascript:CreateBasicOverlay('','t')" style="line-height:15px;">Become a Contributor</a><br></div>or
-    <div><a class="redLink" href="javascript:LoginOverlay()" style="line-height:15px;">Sign In to your Account</a></div>
-</div>
-
-<div id="ProNotSignedInContributorMenu" style="display:none;text-align:center;height:60px;padding-top:15px;*padding-left:40px;">
-	<div style="padding-top:15px;"><a class="redLink" href="/createcontributor.asp" style="line-height:15px;">Become a Contributor</a><br></div>
-</div>
-
-<div id="SignedInContributorMenu" style="display:none;">    
-	<ul class="left">
-		                
-      					<li><a href="/contributor_admin/ManageSermons/newsermon_form.asp">Add Sermon</a></li>
-      					<!--<li><a href="/contributor_admin/addSermonAudio.asp">Manage Audio</a></li>-->
-		                <li><a href="/contributor_admin/ManageIllustrations/contributor_illustration_submit_form.asp">Add Illustration</a></li>
-   						<li><a href="/Contributor_Admin/ManageDramas/contributor_drama_form.asp">Add Drama</a></li>
-<li><a href="/article.asp?article=ContributorFAQ">Contributor FAQ</a></li>
-  </ul>
-		            <ul class="right">
-<li><a href="/Contributor_Admin/Dashboard.asp">My Dashboard</a></li>
-		                <li><a href="/contributor_admin/ManageSermons/contributor_sermon_list.asp">My Sermons</a></li>
-		                <li><a href="/Contributor_Admin/ManageIllustrations/contributor_illustrations.asp">My Illustrations</a></li>
-		                <li><a href="/Contributor_Admin/ManageDramas/contributor_dramas.asp">My Dramas</a></li>
-                        <li><a href="/contributor_admin/ManageResources/default.asp">My Resources</a></li>
+        
+        
+	        <div id="header">
+			    <div id="RunOfSite"></div><div id="ExpansionAdDiv" style="padding-left:193px;position:absolute;top:5px;height:100px;overflow:hidden;">
                         
-		            </ul>
-                   
-		            <div style="clear:both;height:10px;"></div>         
-</div>
-
-</div>
-
-<script language="javascript" type="text/javascript">
-
-        function IsContributor()
-        {
-            var Is_Contributor = GetCookie("UserInformation");
-            if(Is_Contributor != null)
-            {
-                if(Is_Contributor.indexOf("IsContributor=1") > -1)
-                {
-                    return true;
-                }
-                else
-                {
-                    return false;
-                }
-            }
-        }
-		
-	function IsProMemberJS()
-	{
-		var Is_Pro_Member = GetCookie("UserInformation");
-		if(Is_Pro_Member != null)
-		{
-			if(Is_Pro_Member.indexOf("IsPro=1") > -1)
-			{
-				return true;
-			}
-			else
-			{
-				return false;
-			}
-		}
-	}
-
-      function GetCookie(name)
-	  {
-            var nameEQ = name + "=";
-            var ca = document.cookie.split(';');
-            for(var i=0;i < ca.length;i++) {
-                var c = ca[i];
-                while (c.charAt(0)==' ') c = c.substring(1,c.length);
-                if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
-            }
-            return null;
-		}      
-		
-function IsBasicAccount()
-        {
-            var Is_Basic_Account = GetCookie("UserInformation");
-            if(Is_Basic_Account != null)
-            {
-                if(Is_Basic_Account.indexOf("IsContributor=0") > -1)
-                {
-                    return true;
-                }
-                else
-                {
-                    return false;
-                }
-            }
-        }
-
-		if(IsContributor())
-		{
-		document.getElementById('SignedInContributorMenu').style.display = '';
-		document.getElementById('notSignedInContributorMenu').style.display = 'none';
-		document.getElementById('ProNotSignedInContributorMenu').style.display = 'none';
-		}
-		
-		if(IsProMemberJS() &! IsContributor())
-		{
-		document.getElementById('SignedInContributorMenu').style.display = 'none';
-		document.getElementById('notSignedInContributorMenu').style.display = 'none';
-		document.getElementById('ProNotSignedInContributorMenu').style.display = '';
-		}
-		if(IsBasicAccount() && !IsProMemberJS())
-		{
-	    //they are looged in but have faile to previous 2 acct type checks (pro and contributor) so they must be basic.
-	    document.getElementById('SignedInContributorMenu').style.display = 'none';
-	    document.getElementById('notSignedInContributorMenu').style.display = 'none';
-	    document.getElementById('ProNotSignedInContributorMenu').style.display = '';
-		}
-</script><!-- End: Content Element -->
+                        <!-- Begin -  Site: SermonCentral Zone: SC_728x90 -->
+                        <script language="javascript" type="text/javascript">
+                        <!--
+                        var browName = navigator.appName;
+                        var browDateTime = (new Date()).getTime();
+                        var browVersion = parseInt(navigator.appVersion);
+                        var ua = navigator.userAgent.toLowerCase();
+                        var adcode = '';
+                        if (browName == 'Netscape') {
+                            if (browVersion >= 5)
+                                { document.write('<ifr' + 'ame src="http://bmp.outreach.com/a.aspx?ZoneID=31&Task=Get&Browser=NETSCAPE6&SiteID=3&X=' + browDateTime + '" width="728" height="90" Marginwidth=0 Marginheight=0 Hspace=0 Vspace=0 Frameborder=0 Scrolling=No Height="90"></ifr' + 'ame>'); }
+                            else if ((browVersion >= 4) && (ua.indexOf("mac") == -1)) {
+                                document.write('<S' + 'CRIPT src="http://bmp.outreach.com/a.aspx?ZoneID=31&Task=Get&Browser=NETSCAPE4&SiteID=3">');
+                                document.write('</' + 'scr' + 'ipt>');
+                                document.write(adcode);
+                            }
+                            else if (browVersion >= 3)
+                                { document.write('<A HREF="http://bmp.outreach.com/a.aspx?ZoneID=31&Task=Click&Mode=HTML&SiteID=3&PageID=84785&RandomNumber=' + browDateTime + '" target="_new"><IMG SRC="http://bmp.outreach.com/a.aspx?ZoneID=31&Task=Get&Mode=HTML&SiteID=3&PageID=84785&RandomNumber=' + browDateTime + '" width="728" height="90" border="0"></A>'); } 
+                            }
+                            if (browName == 'Microsoft Internet Explorer')
+                            { document.write('<ifr' + 'ame src="http://bmp.outreach.com/a.aspx?ZoneID=31&Task=Get&SiteID=3&X=' + browDateTime + '" width=728 height=90 Marginwidth=0 Marginheight=0 Hspace=0 Vspace=0 Frameborder=0 Scrolling=No  Height="90"></ifr' + 'ame>') }; 
+                         // --> 
+                         </script><iframe src="http://bmp.outreach.com/a.aspx?ZoneID=31&amp;Task=Get&amp;Browser=NETSCAPE6&amp;SiteID=3&amp;X=1580569530921" width="728" height="90" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="No"></iframe> 
+                         <noscript> 
+                         <a href="http://bmp.outreach.com/a.aspx?ZoneID=31&Task=Click&Mode=HTML&SiteID=3&PageID=84785" target="_new">
+                         <img src="http://bmp.outreach.com/a.aspx?ZoneID=31&Task=Get&Mode=HTML&SiteID=3&PageID=84785" width="728" height="90" border="0"></a>
+                         </noscript>
+                        <!-- End -  Site: SermonCentral Zone: SC_728x90 -->
+                    </div><div style="position: absolute; top: 45px;padding: 0 0 0 0px;"><a href="/"><img style="width: 175px;height: 17px;" src="/images/40/sc_logo_small.png"></a></div>
 		    </div>
-		</div>
-		<div id="ProMenu" style="width: auto;display:none;position: absolute;margin: -26px 0 0 683px;z-index: 1001;background-color: White;" onmouseout="var leave = document.getElementById(&quot;ProMenu&quot;); if (isMouseLeaveOrEnter(event, this)) toggleProMenu();">
-		    
-		    <div onmouseover="document.getElementById('ProMenu').style.display = 'none';" style="float:left;display:block;width:170px;height:26px;background-image:url(/images/40/ContributorHeaderForProHeader4.gif);background-repeat:no-repeat;"></div>
-		    <div style="float:left;display:block;width:68px;height:26px;background-image:url(/images/40/ProMenuHeader.gif);background-repeat: no-repeat;"></div>
-		    <div style="clear:both;"></div>
-		    
-		    <div style="border-left: solid 1px #98a5b3;border-right: solid 1px #98a5b3;border-bottom: solid 1px #98a5b3;">
-		        <!-- Begin: Content Element --><div id="navRolloverMenu">
-
-<div id="notSignedInProMenu" style="display:;text-align:center;height:60px;padding-top:15px;*padding-left:40px;">
-	<div><a class="redLink" href="/createpro.asp" style="line-height:15px;color:#e86d00;">Learn More about PRO</a><br></div>or
-    <div><a class="redLink" href="javascript:LoginOverlay()" style="line-height:15px;color:#e86d00;">Sign In to your PRO Account</a></div>
-</div>
-<div id="SignedInProMenu" style="display:none;">    
-		            <ul class="left" style="padding-left: 5px;padding-right: 12px;">
-		                <li><a href="/Sermons/SearchResults.asp?AdvancedSearch=1">PRO Searches</a></li>
-		                <li><a href="/Contributor_Admin/Dashboard.asp">My Dashboard</a></li>
-		                <li><a href="/MyAccount/Default.asp">My Account</a></li>
-		                <li><a href="/scpro/Calendar/calendar.asp">My Calendar</a></li>
-		                <li><a href="/scpro/lectionary_search.asp">Lectionary</a></li>
-		            </ul>
-		            <ul class="right" style="padding-left: 1px;">
-		                <li><a href="/scpro/favorites.asp?type_id=1">My Favorite Sermons</a></li>
-		                <li><a href="/scpro/favorites.asp?type_id=2">My Favorite Illustrations</a></li>
-		                <li><a href="/scpro/favorites.asp?type_id=3">My Favorite PowerPoints</a></li>
-		                <li><a href="/scpro/favorites.asp?type_id=5">My Favorite Contributors</a></li>
-		                <li><a href="/scpro/favorites.asp?type_id=7">My Favorite Articles</a></li>
-<li><a href="/scpro/favorites.asp?type_id=8">My Favorite Videos</a></li>
-		            </ul>
-		            <div style="clear:both;height:10px;"></div>
-</div>
-</div>
-
-<script language="javascript" type="text/javascript">
-
-	function IsProMemberJS()
-	{
-		var Is_Pro_Member = GetCookie("UserInformation");
-		if(Is_Pro_Member != null)
-		{
-			if(Is_Pro_Member.indexOf("IsPro=1") > -1)
-			{
-				return true;
-			}
-			else
-			{
-				return false;
-			}
-		}
-	}
-
-  function GetCookie(name)
-  {
-		var nameEQ = name + "=";
-		var ca = document.cookie.split(';');
-		for(var i=0;i < ca.length;i++) {
-			var c = ca[i];
-			while (c.charAt(0)==' ') c = c.substring(1,c.length);
-			if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
-		}
-		return null;
-	}      
-	
-	if(IsProMemberJS())
-	{
-		document.getElementById('SignedInProMenu').style.display = '';
-		document.getElementById('notSignedInProMenu').style.display = 'none';
-	}
-		
-</script><!-- End: Content Element -->
+		    <div id="topnav">
+			    <ul id="navigation">
+    			
+		            <li id="topnav01"><a href="/">Home</a></li>
+			        <li onmouseover="javascript:toggleSermonMenu();" id="topnav02"><a href="/sermons-illustrations-this-weeks-top-online-sermons-preaching-topics/" title="Sermons, Illustrations, This weeks top online sermons preaching topics">Sermons</a></li>
+			        <li onmouseover="javascript:toggleMediaMenu();" id="topnav03"><a href="/all-church-media-for-preaching/ title=" church="" media="" -="" powerpoint="" presentations,="" still="" background="" sets,="" video="" illustrations,="" countdown="" videos,="" motion="" backgrounds,="" worship="" music="" images"="">Church Media</a></li>
+			        <li id="topnav04"><a href="/articles/" title="Pastors Preaching Articles">Articles</a></li>
+			        <li id="topnav05"><a href="/free-online-bible-scripture-search/" title="Free online Bible Scripture search.">Online Bible</a></li>
+			        <li onmouseover="javascript:toggleContributorMenu();" id="topnav08"><a href="javascript:toggleContributorMenu();">Contributor Menu</a></li>
+			        <li onmouseover="javascript:toggleProMenu();" id="topnav09"><a href="javascript:toggleProMenu();">Pro Menu</a></li>
+			    </ul>
 		    </div>
-		</div>
-		<script type="text/javascript">
-		    function Search() {
-		        if (document.getElementById("ROSSearchTextBox").value + "" != "" && document.getElementById("ROSSearchTextBox").value + "" != "Keyword, Scripture, etc.") {
-		            var searchtype = document.getElementById("HeaderResourceDropdown").value;
-		            switch(searchtype)
-                    {
-                        case "sermons":
-                            window.location = '/Sermons/SearchResults.asp?sscat=sermons&sitesearch=ros-' + document.getElementById('ROSSearchTextBox').value + '&rk=' + document.getElementById('ROSSearchTextBox').value + '&keyword=' + document.getElementById('ROSSearchTextBox').value;
-                            break;
-                        case "illustrations":
-                            window.location = '/Illustrations/SearchResults.asp?sscat=illustrations&sitesearch=ros-' + document.getElementById('ROSSearchTextBox').value + '&rk=' + document.getElementById('ROSSearchTextBox').value + '&keyword=' + document.getElementById('ROSSearchTextBox').value;
-                            break;
-                        case "powerpoints":
-                            window.location = '/PowerPoints/SearchResults.asp?sscat=powerpoints&sitesearch=ros-' + document.getElementById('ROSSearchTextBox').value + '&rk=' + document.getElementById('ROSSearchTextBox').value + '&keyword=' + document.getElementById('ROSSearchTextBox').value;
-                            break;
-                        case "articles":
-                            window.location = '/Articles/SearchResults.asp?sscat=articles&sitesearch=ros-' + document.getElementById('ROSSearchTextBox').value + '&rk=' + document.getElementById('ROSSearchTextBox').value + '&keyword=' + document.getElementById('ROSSearchTextBox').value;
-                            break;
-                        case "videos":
-                            window.location = '/Videos/SearchResults.asp?sscat=videos&sitesearch=ros-' + document.getElementById('ROSSearchTextBox').value + '&rk=' + document.getElementById('ROSSearchTextBox').value + '&keyword=' + document.getElementById('ROSSearchTextBox').value;
-                            break;
-                        case "bible":
-                            window.location = '/bible.asp?sscat=bible&sitesearch=ros-' + document.getElementById('ROSSearchTextBox').value + '&rk=' + document.getElementById('ROSSearchTextBox').value + '&Keyword=' + document.getElementById('ROSSearchTextBox').value;
-                            break;
-                        default:
-                            window.location = '/Search/SearchResults.asp?sscat=allresources&sitesearch=ros-' + document.getElementById('ROSSearchTextBox').value + '&rk=' + document.getElementById('ROSSearchTextBox').value + '&keyword=' + document.getElementById('ROSSearchTextBox').value;
-                    }
-		            
-		        }
-		    }
-		    function SearchFromEnterKey() {
-		        if (event.keyCode == 13) {
-		            Search();
-		        }
-		    }
-		</script>
-		
-		<div id="ROSSearchBar">
-		    <div style="float:left;">
-		        <div style="float:left;" class="HeaderBigBox">
-		            <select id="HeaderResourceDropdown">
-		                <option value="">All Resources</option>
-		                <option value="sermons">Sermons</option>
-		                <option value="illustrations">Illustrations</option>
-		                <option value="powerpoints">PowerPoints</option>
-		                <option value="videos">Videos</option>
-		                <option value="articles">Articles</option>
-		                <option value="bible">Bible</option>
-		            </select>
+    		
+		    <!-- Start Rollover Menus -->
+		    <div id="SermonMenu" style="display:none;" onmouseout="var leave = document.getElementById(&quot;SermonMenu&quot;); if (isMouseLeaveOrEnter(event, this)) toggleSermonMenu();">
+		        <div>
+		        
+		            <a title="Sermons, Free Pastor-Contributed Sermons, Top Online Sermon Preaching Topics" href="/sermons-illustrations-this-weeks-top-online-sermons-preaching-topics/"><img style="width: 130px;height:26px;" src="/images/50/SermonRolloverButton.jpg"></a>
+		        
 		        </div>
-		        <div style="float:left;padding: 0 0 0 5px;"><input id="ROSSearchTextBox" onkeydown="javascript:SearchFromEnterKey();" name="keyword" value=""></div>
-		        <div style="float:left;padding: 0 0 0 5px;"><input id="ROSSearch" type="image" style="width:62px;height:23px;" src="/images/40/btnROSSearch.gif" onclick="javascript:Search();"></div>
+    		    <div class="MenuContent">
+    		        <!-- Begin: Content Element --><div class="NavigationRolloverMenu">
+	<ul class="right">
+		<li><a title="Sermons, Free Pastor-Contributed Sermons, Top Online Sermon Preaching Topics" href="/sermons-illustrations-this-weeks-top-online-sermons-preaching-topics/">Sermons</a></li>
+		<li><a title="Text Illustrations for Sermons, Free Stories for Preaching" href="/sermon-illustrations-free-stories-preaching/">Text Illustrations</a></li>
+<!--		<li><a title="Sermon Series for Christian Preaching" href="/sermons/sermonseries.asp">Sermons Series</a></li>	-->	
+<li><a title="Preaching Bundles - Sermons, Text Illustrations, Videos, PowerPoint Templates, Backgrounds" href="/preaching-bundles/popular-preaching-topic-bundles">Preaching Bundles</a></li>
+
+	</ul>
+</div><!-- End: Content Element -->
+		        </div>
+		    </div>
+		    <div id="MediaMenu" style="display:none;" onmouseout="var leave = document.getElementById(&quot;MediaMenu&quot;); if (isMouseLeaveOrEnter(event, this)) toggleMediaMenu();">
+	            
+	                <a title="Christian Church Media" href="/church-media-preaching-sermons/all-church-media"><img style="" src="/images/50/MediaRolloverButton.jpg"></a>
+	            
+		        <div class="MenuContent">
+    		    <!-- Begin: Content Element --><div class="NavigationRolloverMenu">
+	<ul class="right">
+			<li><a title="PowerPoint Presentation Templates" href="/church-media-preaching-sermons/powerpoint-template-backgrounds">PowerPoint Templates</a></li>
+			<li><a title="Video Illustrations for Christian Sermons" href="/church-media-preaching-sermons/sermon-video-illustrations">Video Illustrations</a></li>
+		    <li><a title="Worship Music Videos for Church Services" href="/church-media-preaching-sermons/worship-music-videos-service-starters">Worship Music Videos</a></li>
+		    <li><a title="Countdown Videos for Church Services" href="/church-media-preaching-sermons/countdown-welcome-videos">Countdown Videos</a></li>
+			<li><a title="Motion Background Videos, Seamless Loops" href="/church-media-preaching-sermons/motion-background-video-loops">Motion Backgrounds</a></li>
+			<li><a title="Still Background Sets" href="/church-media-preaching-sermons/still-background-images">Still Background Sets</a></li>
+			<li><a title="High Resolution Images for Churches" href="/church-media-preaching-sermons/images-for-church-use">Images</a></li>
+	</ul>
+</div><!-- End: Content Element -->
+		        </div>
+		    </div>
+		    <div id="ContributorMenu" style="display:none;" onmouseout="var leave = document.getElementById(&quot;ContributorMenu&quot;); if (isMouseLeaveOrEnter(event, this)) toggleContributorMenu();">
+		        <div style="margin: 0 0 0 0px;"><img style="" src="/images/50/ContributorRolloverButton.jpg"></div>
+    		    <div class="MenuContent">
+		            <!-- Begin: Content Element --><div style="padding: 20px 0 30px 0;">
+<center>
+<a style="font-size:12px;color:#990000;font-weight:bold;
+text-decoration:underline;" href="Javascript:CreateBasicOverlay('','t')">Become a Contributor</a>
+<div style="padding: 10px 0 10px 0;">or</div>
+<a style="font-size:12px;color:#990000;font-weight:bold;
+text-decoration:underline;" href="javascript:LoginOverlay()">Sign In</a>
+</center>
+</div>
+<!-- End: Content Element -->
+		        </div>
+		    </div>
+		    <div id="ProMenu" style="display:none;" onmouseout="var leave = document.getElementById(&quot;ProMenu&quot;); if (isMouseLeaveOrEnter(event, this)) toggleProMenu();">
+		        <div style="margin: 0 0 0 185px;"><img style="" src="/images/50/ProRolloverButton.jpg"></div>
+    		    <div class="MenuContent" style="padding:0;">
+		            <!-- Begin: Content Element --><div style="padding: 20px 0 30px 0;">
+<center>
+<a style="font-size:12px;color:#990000;font-weight:bold;
+text-decoration:underline;" href="/createpro.asp">Learn More about PRO</a>
+<div style="padding: 10px 0 10px 0;">or</div>
+<a style="font-size:12px;color:#990000;font-weight:bold;
+text-decoration:underline;" href="javascript:LoginOverlay()">Sign In</a>
+</center>
+</div>
+<!-- End: Content Element -->
+		        </div>
+		    </div>
+		    <!-- End Rollover Menus -->
+		    
+		    <script type="text/javascript">
+		        function Search() {
+		            //if (document.getElementById("ROSSearchTextBox").value + "" != "" && document.getElementById("ROSSearchTextBox").value + "" != "Keyword, Scripture, etc.") {
+		            if (document.getElementById("ROSSearchTextBox").value + "" != "Keyword, Scripture, etc.") {
+		                var searchtype = document.getElementById("HeaderResourceDropdown").value;
+		                switch(searchtype) {
+                            case "sermons":
+                                window.location = '/Sermons/SearchResults.asp?sscat=sermons&sitesearch=ros-' + document.getElementById('ROSSearchTextBox').value + '&rk=' + document.getElementById('ROSSearchTextBox').value + '&keyword=' + document.getElementById('ROSSearchTextBox').value;
+                                break;
+                            case "illustrations":
+                                window.location = '/Illustrations/SearchResults.asp?sscat=illustrations&sitesearch=ros-' + document.getElementById('ROSSearchTextBox').value + '&rk=' + document.getElementById('ROSSearchTextBox').value + '&keyword=' + document.getElementById('ROSSearchTextBox').value;
+                                break;
+                            case "articles":
+                                window.location = '/Articles/SearchResults.asp?sscat=articles&sitesearch=ros-' + document.getElementById('ROSSearchTextBox').value + '&rk=' + document.getElementById('ROSSearchTextBox').value + '&keyword=' + document.getElementById('ROSSearchTextBox').value;
+                                break;
+                            case "bible":
+                                window.location = '/bible.asp?sscat=bible&sitesearch=ros-' + document.getElementById('ROSSearchTextBox').value + '&rk=' + document.getElementById('ROSSearchTextBox').value + '&Keyword=' + document.getElementById('ROSSearchTextBox').value;
+                                break;
+                            case "audiobook":
+                                window.location = '/church-media-preaching-sermons/SearchResults.asp?multimediatypeid=13&sscat=audiobook&sitesearch=ros-' + document.getElementById('ROSSearchTextBox').value + '&rk=' + document.getElementById('ROSSearchTextBox').value + '&keyword=' + document.getElementById('ROSSearchTextBox').value;
+                                break;
+                            case "audiomusic":
+                                window.location = '/church-media-preaching-sermons/SearchResults.asp?multimediatypeid=14&sscat=audiomusic&sitesearch=ros-' + document.getElementById('ROSSearchTextBox').value + '&rk=' + document.getElementById('ROSSearchTextBox').value + '&keyword=' + document.getElementById('ROSSearchTextBox').value;
+                                break;
+                            case "audiosermon":
+                                window.location = '/church-media-preaching-sermons/SearchResults.asp?multimediatypeid=15&sscat=audiosermon&sitesearch=ros-' + document.getElementById('ROSSearchTextBox').value + '&rk=' + document.getElementById('ROSSearchTextBox').value + '&keyword=' + document.getElementById('ROSSearchTextBox').value;
+                                break;
+                            case "ebook":
+                                window.location = '/church-media-preaching-sermons/SearchResults.asp?multimediatypeid=16&sscat=ebook&sitesearch=ros-' + document.getElementById('ROSSearchTextBox').value + '&rk=' + document.getElementById('ROSSearchTextBox').value + '&keyword=' + document.getElementById('ROSSearchTextBox').value;
+                                break;
+                            case "image":
+                                window.location = '/church-media-preaching-sermons/SearchResults.asp?multimediatypeid=17&sscat=highresolutionimage&sitesearch=ros-' + document.getElementById('ROSSearchTextBox').value + '&rk=' + document.getElementById('ROSSearchTextBox').value + '&keyword=' + document.getElementById('ROSSearchTextBox').value;
+                                break;
+                            case "presentationstill":
+                                window.location = '/church-media-preaching-sermons/SearchResults.asp?multimediatypeid=18&sscat=presentationstill&sitesearch=ros-' + document.getElementById('ROSSearchTextBox').value + '&rk=' + document.getElementById('ROSSearchTextBox').value + '&keyword=' + document.getElementById('ROSSearchTextBox').value;
+                                break;
+                            case "videocountdown":
+                                window.location = '/church-media-preaching-sermons/SearchResults.asp?multimediatypeid=20&sscat=videocountdown&sitesearch=ros-' + document.getElementById('ROSSearchTextBox').value + '&rk=' + document.getElementById('ROSSearchTextBox').value + '&keyword=' + document.getElementById('ROSSearchTextBox').value;
+                                break;
+                            case "videoillustration":
+                                window.location = '/church-media-preaching-sermons/SearchResults.asp?multimediatypeid=21&sscat=videoillustration&sitesearch=ros-' + document.getElementById('ROSSearchTextBox').value + '&rk=' + document.getElementById('ROSSearchTextBox').value + '&keyword=' + document.getElementById('ROSSearchTextBox').value;
+                                break;
+                            case "videomotionloop":
+                                window.location = '/church-media-preaching-sermons/SearchResults.asp?multimediatypeid=22&sscat=videomotionloop&sitesearch=ros-' + document.getElementById('ROSSearchTextBox').value + '&rk=' + document.getElementById('ROSSearchTextBox').value + '&keyword=' + document.getElementById('ROSSearchTextBox').value;
+                                break;
+                            case "worshipvideo":
+                                window.location = '/church-media-preaching-sermons/SearchResults.asp?multimediatypeid=23&sscat=worshipvideo&sitesearch=ros-' + document.getElementById('ROSSearchTextBox').value + '&rk=' + document.getElementById('ROSSearchTextBox').value + '&keyword=' + document.getElementById('ROSSearchTextBox').value;
+                                break;
+                            case "powerpointtemplate":
+                                window.location = '/church-media-preaching-sermons/SearchResults.asp?multimediatypeid=24&sscat=powerpointtemplates&sitesearch=ros-' + document.getElementById('ROSSearchTextBox').value + '&rk=' + document.getElementById('ROSSearchTextBox').value + '&keyword=' + document.getElementById('ROSSearchTextBox').value;
+                                break;
+                            case "allchurchmedia":
+                                window.location = '/church-media-preaching-sermons/SearchResults_AllMedia.asp?multimediatypeid=0&sscat=allmedia&sitesearch=ros-' + document.getElementById('ROSSearchTextBox').value + '&rk=' + document.getElementById('ROSSearchTextBox').value + '&keyword=' + document.getElementById('ROSSearchTextBox').value;
+                                break;
+                            default:
+                                window.location = '/Search/SearchResults.asp?sscat=allresources&sitesearch=ros-' + document.getElementById('ROSSearchTextBox').value + '&rk=' + document.getElementById('ROSSearchTextBox').value + '&keyword=' + document.getElementById('ROSSearchTextBox').value;
+                        }
+		            }
+		        }
+		        function SearchFromEnterKey() {
+		            if (event.keyCode == 13) {
+		                Search();
+		            }
+		        }
+		    </script>
+		    
+		    <div id="ROSSearchBar">
+		        <div style="float:left;">
+		            <div style="float:left;" class="HeaderBigBox">
+		                <select id="HeaderResourceDropdown">
+		                    <option value="">All Sermon Prep</option>
+		                    <option value="sermons">&nbsp;&nbsp;&nbsp;Sermons</option>
+		                    <option value="illustrations">&nbsp;&nbsp;&nbsp;Text Illustrations</option>
+		                    <option value="articles">&nbsp;&nbsp;&nbsp;Articles</option>
+		                    <option value="allchurchmedia">All Media</option>
+		                    <option value="powerpointtemplate">&nbsp;&nbsp;&nbsp;PowerPoint Templates</option>
+		                    <option value="videoillustration">&nbsp;&nbsp;&nbsp;Video Illustrations</option>
+		                    <option value="worshipvideo">&nbsp;&nbsp;&nbsp;Worship Music Videos</option>
+		                    <option value="videocountdown">&nbsp;&nbsp;&nbsp;Countdown Videos</option>
+		                    <option value="videomotionloop">&nbsp;&nbsp;&nbsp;Motion Backgrounds</option>
+		                    <option value="presentationstill">&nbsp;&nbsp;&nbsp;Still Background Sets</option>
+		                    <option value="image">&nbsp;&nbsp;&nbsp;Images</option>
+		                    <option value="bible">Bible</option>
+		                </select>
+		            </div>
+		            <div style="float:left;padding: 0 0 0 5px;"><input id="ROSSearchTextBox" onkeydown="javascript:SearchFromEnterKey();" name="keyword" value=""></div>
+		            <div style="float:left;padding: 0 0 0 5px;"><input id="ROSSearch" type="image" style="width:62px;height:23px;" src="/images/40/btnROSSearch.gif" onclick="javascript:Search();"></div>
+		            <div style="clear:both;"></div>
+		        </div>
+		        <div style="float:right;padding: 7px 5px 0 0; ">
+		            <!-- Begin: Content Element --><a href="http://www.sermoncentral.com/preaching-bundles/memorial-day-2013-sermons-videos-backgrounds-53.asp" title="free sermons, text illustrations about Pentecost, as well as fantastic PowerPoint templates and backgrounds" onclick="_gaq.push(['_setCustomVar', 5, 'internal_campaign', 'NavigationBar-MemorialDay', 2]);_gaq.push(['_trackPageview']);" style="font-size:13px; font-weight:bold; color:#e56d0c;">MEMORIAL DAY PREACHING BUNDLE »</a><!-- End: Content Element -->
+		        </div>
 		        <div style="clear:both;"></div>
 		    </div>
-		    <div style="float:right;padding: 7px 5px 0 0; ">
-		        <!-- Begin: Content Element --><a href="http://www.sermoncentral.com/articleb.asp?fs=1&amp;article=thanksgiving-day-sermon-worship-church-preaching-bundle" title="free Thanksgiving preaching bundles including sermons, text illustrations, videos, PowerPoint templates and backgrounds" onclick="_gaq.push(['_setCustomVar', 5, 'internal_campaign', 'Bundle-NavigationBar', 2]);_gaq.push(['_trackPageview']);" style="font-size:13px; font-weight:bold; color:#e56d0c;">Looking for THANKSGIVING resources? click here »</a><!-- End: Content Element -->
-		    </div>
-		    <div style="clear:both;"></div>
-		</div>
-		<div style="display:block;height:20px;width: 920px;"></div>
+		    <div style="display:block;height:20px;width: 920px;"></div>
 		
 		<div id="maincontent">
 		    
 			<noscript>
 			<div class='errormessage'>JavaScript is turned off in your web browser. Many features of this site will not work. Turn javascript on and then refresh the page.</div>
 			</noscript>
-			
-			
-			<script type="text/javascript">hide2('messageparentinnerhtmlhack');</script>
 			
 <script language="javascript">
 	function ValidateForm()
@@ -545,103 +465,88 @@ function IsBasicAccount()
 		</div>
 		<!--end maincontent-->
         
-		<div id="rightnav">
+       	<div id="rightnav">
 		    <div style="padding: 0 0 10px 0;">
 		        <!-- Begin: Content Element --><div>
 <div class="sponsorTexty" style="position: absolute;z-index: 100000;margin: -20px 0 4px 100px;"></div>
-<!-- Begin -  Site: SermonCentral Zone: SC4-SponsorAd-0 -->
+<!-- Begin -  Site: SermonCentral Zone: SC4_SponsorAd-0 -->
 <script language="javascript" type="text/javascript">
 <!--
 var browName = navigator.appName;
-var SiteID = 3;
-var ZoneID = 95;
 var browDateTime = (new Date()).getTime();
-if (browName=='Netscape')
-{
-document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://bmp.outreach.com/a.aspx?ZoneID=' + ZoneID + '&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=74767&amp;SiteID=' + SiteID + '&amp;Random=' + browDateTime  + '">'); document.write('</'+'scr'+'ipt>');
-}
-if (browName!='Netscape')
-{
-document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://bmp.outreach.com/a.aspx?ZoneID=' + ZoneID + '&amp;Task=Get&amp;IFR=False&amp;PageID=74767&amp;SiteID=' + SiteID + '&amp;Random=' + browDateTime  + '">'); document.write('</'+'scr'+'ipt>');
-}
+var browVersion = parseInt(navigator.appVersion);
+var ua=navigator.userAgent.toLowerCase();
+var adcode='';
+if (browName=='Netscape'){
+     if (browVersion>=5) 
+          { document.write('<ifr'+'ame src="http://bmp.outreach.com/a.aspx?ZoneID=95&amp;Task=Get&amp;Browser=NETSCAPE6&amp;PageID=67325&amp;SiteID=3&amp;X=' + browDateTime  + '" width=300 height=60 Marginwidth=0 Marginheight=0 Hspace=0 Vspace=0 Frameborder=0 Scrolling=No></ifr'+'ame>'); }
+     else if ((browVersion>=4)&&(ua.indexOf("mac")==-1))
+          { document.write('<s'+'cript src="http://bmp.outreach.com/a.aspx?ZoneID=95&amp;Task=Get&amp;Browser=NETSCAPE4&amp;PageID=67325&amp;SiteID=3&amp;X=' + browDateTime  + '">');
+          document.write('</'+'scr'+'ipt>');
+          document.write(adcode); }
+     else if (browVersion>=3) 
+          { document.write('<a href="http://bmp.outreach.com/a.aspx?ZoneID=95&Task=Click&Mode=HTML&SiteID=3&PageID=67325&X=' + browDateTime + '&RandomNumber=' + browDateTime  + '" target="_blank"><img src="http://bmp.outreach.com/a.aspx?ZoneID=95&amp;Task=Get&amp;Mode=HTML&amp;SiteID=3&amp;PageID=67325&X=' + browDateTime + '&RandomNumber=' + browDateTime  + '" width="300" height="60" border="0" alt=""></a>'); } }
+else
+     { document.write('<ifr'+'ame src="http://bmp.outreach.com/a.aspx?ZoneID=95&amp;Task=Get&amp;SiteID=3&amp;PageID=67325&amp;X=' + browDateTime  + '" width=300 height=60 Marginwidth=0 Marginheight=0 Hspace=0 Vspace=0 Frameborder=0 Scrolling=No></ifr'+'ame>'); }
 // --> 
-</script><script language="javascript" src="http://bmp.outreach.com/a.aspx?ZoneID=95&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=74767&amp;SiteID=3&amp;Random=1580569536247"></script>
+</script><iframe src="http://bmp.outreach.com/a.aspx?ZoneID=95&amp;Task=Get&amp;Browser=NETSCAPE6&amp;PageID=67325&amp;SiteID=3&amp;X=1580569530942" width="300" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="No"></iframe>
 <noscript>
-    <a href="http://bmp.outreach.com/a.aspx?ZoneID=95&Task=Click&Mode=HTML&SiteID=3&PageID=74767" target="_blank">
-    <img src="http://bmp.outreach.com/a.aspx?ZoneID=95&Task=Get&Mode=HTML&SiteID=3&PageID=74767" width="300" height="60" border="0"  alt=""></a>
+    <a href="http://bmp.outreach.com/a.aspx?ZoneID=95&Task=Click&Mode=HTML&SiteID=3&PageID=67325" target="_blank">
+    <img src="http://bmp.outreach.com/a.aspx?ZoneID=95&amp;Task=Get&amp;Mode=HTML&amp;SiteID=3&amp;PageID=67325" width="300" height="60" border="0"  alt=""></a>
 </noscript>
-<!-- End -  Site: SermonCentral Zone: SC4-SponsorAd-0 -->
+<!-- End -  Site: SermonCentral Zone: SC4_SponsorAd-0 -->
 </div>
 <!-- End: Content Element -->
 		    </div>
 		    <!-- Begin: Content Element --><!-- End: Content Element -->
-                <div class="mv-sidebar-box">
-                    <div class="mv-side-bar-header">
-                        <!-- Begin: Content Element --><!-- HEADER-->
-<div style="padding:3px 0 7px 0; margin:0 0 0 0;"><a href="http://www.sermoncentral.com/MediaVault" title="SermonCentral MediaVault for PRO Members" style="text-decoration:none; color:#005aad; font-size:24px; font-family:Arial;" onclick="_gaq.push(['_setCustomVar', 5, 'internal_campaign', 'PRO-mvRightRail_Header', 2]);_gaq.push(['_trackPageview']);"><img src="http://www.sermoncentral.com/images/40/vault_icon.gif" width="28" height="31" alt="SermonCentral MediaVault for PRO Members, videos, PowerPoint templates and more" border="0"> Pastor's MediaVault</a></div>
 
-<!-- GO PRO LINKS-->
-<div style="margin: 2px 0 5px 0px; font-family:verdana; font-size:13px; color:#222222;">
-	$20k in free church resources with PRO<br>
-    <span id="hiNotPRO" style="text-align:center;">
- 	  	<a href="http://www.sermoncentral.com/cms/landing-page/articlec.asp?article=Pro-Signup-Simple-List-MediaVault" style="font-family:verdana; font-size:12px; font-weight:bold; color:#005aad;" title="Learn more about PRO" onclick="_gaq.push(['_setCustomVar', 5, 'internal_campaign', 'PRO-mvRightRail_LearnMore', 2]);_gaq.push(['_trackPageview']);">Learn more</a>
-        <span style="font-size:12px; text-transform:none;">or</span>
-        <a href="https://www.sermoncentralpro.com/cgi-bin/olsplus/sermoncentralpro_subscribe_all_40_new.asp?planid=39" style="font-family:verdana; font-size:12px; font-weight:bold; color:#005aad;" title="Try PRO Free for 14 Days" onclick="_gaq.push(['_setCustomVar', 5, 'internal_campaign', 'PRO-mvRightRail_14DayTrial', 2]);_gaq.push(['_trackPageview']);">Try it Free for 14 Days</a>
-	</span>
-</div>
-
-<div style="clear:left"></div>
-
-  
-
-<script language="javascript" type="text/javascript">
-	if(IsProMemberJS()==true)
-	{
-		document.getElementById('hiNotPRO').style.display = 'none';
-	}
-</script><!-- End: Content Element -->    
-                    </div>
-                    <!-- Begin: Content Element --><div class="mv-side-bar-section">
-    <div class="mv-sidebar-sectionheader">PRO Collections</div>
-    <ul style="list-style-type:none; margin:0 0 0 0; padding:0 0 0 15px;">
-        <li style="padding-bottom:2px;"><a href="http://www.sermoncentral.com/articleb.asp?article=sermon-video-illustration-pro-collection-for-churches&amp;fs=1" title="Sermon Videos for PRO Members" style="color:#990000; font-weight:bold;">Video Illustrations »</a></li>
-        <li style="padding-bottom:2px;"><a href="http://www.sermoncentral.com/article_pro.asp?article=pastors-mediavault-sd-videos-1" title="Motion Loop Videos for PRO Members" style="color:#990000; font-weight:bold;">Motion Backgrounds »</a></li>
-        <li style="padding-bottom:2px;"><a href="http://www.sermoncentral.com/sermon-powerpoints-illustration-church-background-images-stills/" title="PowerPoint Stills for PRO Members" style="color:#990000; font-weight:bold;">PowerPoint Templates »</a></li>
-        <li style="padding-bottom:2px;"><a href="http://www.sermoncentral.com/article_pro.asp?article=pastors-mediavault-free-images-1" title="High-Resolution Church Images for PRO Members" style="color:#990000; font-weight:bold;">High-Resolution Images »</a></li>
-		<li style="padding-bottom:@px;"><a href="http://www.sermoncentral.com/articleb.asp?article=free-christian-ebook-library&amp;fs=1" title="Classic eBooks for PRO Members" style="color:#990000; font-weight:bold; text-transform:none;">eBooks »</a></li>        
-    </ul>
-    <p style="height:10px;"><br></p>
-</div>  
-
-<div class="mv-side-bar-section">
-    <div class="mv-sidebar-sectionheader">Featured Video of the Week</div>
-    <div style="float:left;"><a title="Free featured video from the SermonCentral PRO Video Illustration collection" href="http://www.sermoncentral.com/articleb.asp?article=free-sermon-video-illustrations-of-the-week&amp;fs=1"><img src="http://mv.sermoncentral.com/FlashPreviewImages/ForgetSomething.jpg" width="100" height="75" alt="sermon video illustration" title="Watch this week's free featured sermon video illustration" style="padding:0 5px 0 5px;"></a></div>
-    <div style="float:left;width:180px;">
-        <div class="mv-sidebar-title"><a title="Watch Free PRO Featured Video" href="http://www.sermoncentral.com/articleb.asp?article=free-sermon-video-illustrations-of-the-week&amp;fs=1" onclick="_gaq.push(['_setCustomVar', 5, 'internal_campaign', 'VideoCollection-SidebarContent', 2]);_gaq.push(['_trackPageview']);">Thanksgiving Day</a></div>
-        <div class="mv-sidebar-title"><a title="Watch Free PRO Featured Video" href="http://www.sermoncentral.com/articleb.asp?article=free-sermon-video-illustrations-of-the-week&amp;fs=1" onclick="_gaq.push(['_setCustomVar', 5, 'internal_campaign', 'VideoCollection-SidebarContent', 2]);_gaq.push(['_trackPageview']);">Forget Something?</a></div>
-        <div class="mv-sidebar-title"><a title="Watch Free PRO Featured Video" href="http://www.sermoncentral.com/articleb.asp?article=free-sermon-video-illustrations-of-the-week&amp;fs=1" onclick="_gaq.push(['_setCustomVar', 5, 'internal_campaign', 'VideoCollection-SidebarContent', 2]);_gaq.push(['_trackPageview']);">What Are You Bringing?</a></div>
-        <div class="mv-sidebar-producer">Producer: The Veracity Project</div>
-        <div class="mv-sidebar-provider"><a title="Download Free PRO Featured Video" href="http://www.sermoncentral.com/articleb.asp?article=free-sermon-video-illustrations-of-the-week&amp;fs=1" style="color:#990000; font-weight:bold;" onclick="_gaq.push(['_setCustomVar', 5, 'internal_campaign', 'VideoCollection-SidebarContent', 2]);_gaq.push(['_trackPageview']);">Preview Now »</a></div>
-    </div>
-    <div style="clear:both;"></div>
-</div><!-- End: Content Element -->
-                    <div class="mv-side-bar-section">
-                        <div class="mv-sidebar-sectionheader">Free PRO PowerPoint of the Day</div>
-                        
-                        <div class="mv-sidebar-thumbnail" style="float:left;"><a title="View PowerPoint A Time for Thanks on Thanksgiving Holiday" href="/MediaVault/#mvPowerPoint"><img src="/OptimizedImages/t/h/thanks4thumb.jpgx_125_y_108.jpg" class="" alt=""></a></div>
-                        <div style="float:left;">
-                            <div class="mv-sidebar-title"><a title="View PowerPoint A Time for Thanks on Thanksgiving Holiday" href="/MediaVault/#mvPowerPoint">A Time for Thanks</a></div>
-                            <div class="mv-sidebar-producer">Topic: Thanksgiving Holiday</div>
-                            <div class="mv-sidebar-provider">
-                            Psalms 100
+            <div class="RightNav_BoxTop" style="white-space: nowrap;">New Better Preaching Articles</div>
+            <div class="RightNav_Box" style="padding: 5px 0 0 0;">
+                <div style="padding: 0 0 0 5px;">
+                
+                            <div class="RecentArticle">
+                                <div class="ra-Left">
+                                    <a title="A Dozen Ways to Kill a Great Idea by Brandon Cox" href="/pastors-preaching-articles/brandon-cox-a-dozen-ways-to-kill-a-great-idea-1583.asp"><img src="/OptimizedImages/B/r/Brandon-Cox_A-Dozen-Ways-to-Kill-a-Great-Idea_1583_100x67.jpg" alt="A Dozen Ways to Kill a Great Idea by Brandon Cox"></a>
+                                </div>
+                                <div class="ra-Right">
+                                    <div style="position: absolute; bottom: 0;">
+                                        <div class="ra-ArticleTitle"><a title="A Dozen Ways to Kill a Great Idea by Brandon Cox" style="" href="/pastors-preaching-articles/brandon-cox-a-dozen-ways-to-kill-a-great-idea-1583.asp"><strong>A Dozen Ways to Kill a Great Idea</strong></a></div>
+                                        <div class="ra-Author"><a href="/authors/brandon-cox-articles-672.asp" title="Preaching Articles by Brandon Cox">Brandon Cox</a></div>
+                                    </div>
+                                </div>
                             </div>
-                            <div class="mv-sidebar-preview"><a title="View PowerPoint A Time for Thanks on Thanksgiving Holiday" href="/MediaVault/#mvPowerPoint">Start Slideshow</a></div>
-                        </div>
-                        <div style="clear:both;"></div>
-                    </div>
-                    
+                            <div style="clear:both;display:block;height: 12px;"></div>
+                            
+                            <div class="RecentArticle">
+                                <div class="ra-Left">
+                                    <a title="Seven Preaching Topics You Should Repeat Often by Joe McKeever" href="/pastors-preaching-articles/joe-mckeever-seven-preaching-topics-you-should-repeat-often-1582.asp"><img src="/OptimizedImages/J/o/Joe-McKeever_Seven-Preaching-Topics-You-Should-Repeat-Often_1582_100x67.jpg" alt="Seven Preaching Topics You Should Repeat Often by Joe McKeever"></a>
+                                </div>
+                                <div class="ra-Right">
+                                    <div style="position: absolute; bottom: 0;">
+                                        <div class="ra-ArticleTitle"><a title="Seven Preaching Topics You Should Repeat Often by Joe McKeever" style="" href="/pastors-preaching-articles/joe-mckeever-seven-preaching-topics-you-should-repeat-often-1582.asp"><strong>Seven Preaching Topics You Should Repeat Often</strong></a></div>
+                                        <div class="ra-Author"><a href="/authors/joe-mckeever-articles-381.asp" title="Preaching Articles by Joe McKeever">Joe McKeever</a></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div style="clear:both;display:block;height: 12px;"></div>
+                            
+                            <div class="RecentArticle">
+                                <div class="ra-Left">
+                                    <a title="Don't Let Pious Notions Stagnate Your Preaching by Sherman Cox" href="/pastors-preaching-articles/sherman-cox-dont-let-pious-notions-stagnate-your-preaching-1579.asp"><img src="/OptimizedImages/S/h/Sherman-Cox_Dont-Let-Pious-Notions-Stagnate-Your-Preaching_1579_100x67.jpg" alt="Don't Let Pious Notions Stagnate Your Preaching by Sherman Cox"></a>
+                                </div>
+                                <div class="ra-Right">
+                                    <div style="position: absolute; bottom: 0;">
+                                        <div class="ra-ArticleTitle"><a title="Don't Let Pious Notions Stagnate Your Preaching by Sherman Cox" style="" href="/pastors-preaching-articles/sherman-cox-dont-let-pious-notions-stagnate-your-preaching-1579.asp"><strong>Don't Let Pious Notions Stagnate Your Preaching</strong></a></div>
+                                        <div class="ra-Author"><a href="/authors/sherman-cox-articles-649.asp" title="Preaching Articles by Sherman Cox">Sherman Cox</a></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div style="clear:both;display:block;height: 12px;"></div>
+                            
+                    <div class="MoreArticlesLink"><center><a title="More Preaching Articles" href="/Articles/"><strong>More Preaching Articles »</strong></a></center></div>
                 </div>
-            
+            </div>
+            <div class="RightNav_BoxBottom"></div>
             
             <div class="RightNav_BoxTop">Featured Resource</div>
             <div class="RightNav_Box_FeaturedResource">
@@ -650,151 +555,78 @@ document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://bmp.outre
 <script language="javascript" type="text/javascript">
 <!--
 var browName = navigator.appName;
-var SiteID = 3;
-var ZoneID = 90;
 var browDateTime = (new Date()).getTime();
-if (browName=='Netscape')
-{
-document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://bmp.outreach.com/a.aspx?ZoneID=' + ZoneID + '&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=47913&amp;SiteID=' + SiteID + '&amp;Random=' + browDateTime  + '">'); document.write('</'+'scr'+'ipt>');
-}
-if (browName!='Netscape')
-{
-document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://bmp.outreach.com/a.aspx?ZoneID=' + ZoneID + '&amp;Task=Get&amp;IFR=False&amp;PageID=47913&amp;SiteID=' + SiteID + '&amp;Random=' + browDateTime  + '">'); document.write('</'+'scr'+'ipt>');
-}
+var browVersion = parseInt(navigator.appVersion);
+var ua=navigator.userAgent.toLowerCase();
+var adcode='';
+if (browName=='Netscape'){
+     if (browVersion>=5) 
+          { document.write('<ifr'+'ame src="http://bmp.outreach.com/a.aspx?ZoneID=90&amp;Task=Get&amp;Browser=NETSCAPE6&amp;PageID=25057&amp;SiteID=3&amp;X=' + browDateTime  + '" width=300 height=100 Marginwidth=0 Marginheight=0 Hspace=0 Vspace=0 Frameborder=0 Scrolling=No></ifr'+'ame>'); }
+     else if ((browVersion>=4)&&(ua.indexOf("mac")==-1))
+          { document.write('<s'+'cript src="http://bmp.outreach.com/a.aspx?ZoneID=90&amp;Task=Get&amp;Browser=NETSCAPE4&amp;PageID=25057&amp;SiteID=3&amp;X=' + browDateTime  + '">');
+          document.write('</'+'scr'+'ipt>');
+          document.write(adcode); }
+     else if (browVersion>=3) 
+          { document.write('<a href="http://bmp.outreach.com/a.aspx?ZoneID=90&Task=Click&Mode=HTML&SiteID=3&PageID=25057&X=' + browDateTime + '&RandomNumber=' + browDateTime  + '" target="_blank"><img src="http://bmp.outreach.com/a.aspx?ZoneID=90&amp;Task=Get&amp;Mode=HTML&amp;SiteID=3&amp;PageID=25057&X=' + browDateTime + '&RandomNumber=' + browDateTime  + '" width="300" height="100" border="0" alt=""></a>'); } }
+else
+     { document.write('<ifr'+'ame src="http://bmp.outreach.com/a.aspx?ZoneID=90&amp;Task=Get&amp;SiteID=3&amp;PageID=25057&amp;X=' + browDateTime  + '" width=300 height=100 Marginwidth=0 Marginheight=0 Hspace=0 Vspace=0 Frameborder=0 Scrolling=No></ifr'+'ame>'); }
 // --> 
-</script><script language="javascript" src="http://bmp.outreach.com/a.aspx?ZoneID=90&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=47913&amp;SiteID=3&amp;Random=1580569536257"></script>
+</script><iframe src="http://bmp.outreach.com/a.aspx?ZoneID=90&amp;Task=Get&amp;Browser=NETSCAPE6&amp;PageID=25057&amp;SiteID=3&amp;X=1580569530960" width="300" height="100" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="No"></iframe>
 <noscript>
-    <a href="http://bmp.outreach.com/a.aspx?ZoneID=90&Task=Click&Mode=HTML&SiteID=3&PageID=47913" target="_blank">
-    <img src="http://bmp.outreach.com/a.aspx?ZoneID=90&Task=Get&Mode=HTML&SiteID=3&PageID=47913" width="300" height="100" border="0"  alt=""></a>
+    <a href="http://bmp.outreach.com/a.aspx?ZoneID=90&Task=Click&Mode=HTML&SiteID=3&PageID=25057" target="_blank">
+    <img src="http://bmp.outreach.com/a.aspx?ZoneID=90&amp;Task=Get&amp;Mode=HTML&amp;SiteID=3&amp;PageID=25057" width="300" height="100" border="0"  alt=""></a>
 </noscript>
-<!-- End -  Site: SermonCentral Zone: SC4_300x100_Featured-Resource -->
-</div>
+<!-- End -  Site: SermonCentral Zone: SC4_300x100_Featured-Resource --></div>
 <!-- End: Content Element -->
             </div>
             <div class="RightNav_BoxBottom"></div>
             
             
             
-            <div class="RightNav_BoxTop">Today's Most Popular Sermons</div>
-            <div class="RightNav_Box" style="padding: 0 0 0 0;">
-                <div class="TopSermons">
-                    <div style="padding: 5px 0 0 5px;">
-                    <div class="FooterTopSermon"><a style="color: #990100;" onmouseover="document.getElementById('TopSermonOnFooter_171221').style.display='block';" onmouseout="document.getElementById('TopSermonOnFooter_171221').style.display='none';" href="/sermons/giving-thanks-to-god-steve-shepherd-sermon-on-thanksgiving-holiday-171221.asp">Giving Thanks To God</a></div><div id="TopSermonOnFooter_171221" class="SermonInfoPopup"><div class="SermonInfoPopupTitle">Giving Thanks To God</div><div style="padding: 5px 0 0 0;"><strong>Contributor:</strong>&nbsp;Steve&nbsp;Shepherd</div><div style="padding: 5px 0 0 0"><strong>Denomination:</strong>&nbsp;Christian/Church</div><div style="padding: 5px 0 5px 0"><strong>Date Added:</strong>&nbsp;November 2012</div><div style="padding: 0 0 0 0;white-space: nowrap;"><div class="ratingstars floatleft" style="width:80px;height:16px;padding: 2px 5px 2px 0px;"><ul id="StarsListstaticfootersermon_171221" class="rating fivestar"><li class="half"></li><li class="one"></li><li class="onehalf"></li><li class="two"></li><li class="twohalf"></li><li class="three"></li><li class="threehalf"></li><li class="four"></li><li class="fourhalf"></li><li class="five"></li></ul></div><div style="clear:left;"></div></div></div><div class="FooterTopSermon"><a style="color: #990100;" onmouseover="document.getElementById('TopSermonOnFooter_85172').style.display='block';" onmouseout="document.getElementById('TopSermonOnFooter_85172').style.display='none';" href="/sermons/thanksgiving-3-ways-to-look-at-it-jerry-shirley-sermon-on-thanksgiving-holiday-85172.asp">Thanksgiving:  3 Ways To Look At It</a></div><div id="TopSermonOnFooter_85172" class="SermonInfoPopup"><div class="SermonInfoPopupTitle">Thanksgiving:  3 Ways To Look At It</div><div style="padding: 5px 0 0 0;"><strong>Contributor:</strong>&nbsp;Jerry&nbsp;Shirley</div><div style="padding: 5px 0 0 0"><strong>Denomination:</strong>&nbsp;Baptist</div><div style="padding: 5px 0 5px 0"><strong>Date Added:</strong>&nbsp;November 2005</div><div style="padding: 0 0 0 0;white-space: nowrap;"><div class="ratingstars floatleft" style="width:80px;height:16px;padding: 2px 5px 2px 0px;"><ul id="StarsListstaticfootersermon_85172" class="rating fourhalfstar"><li class="half"></li><li class="one"></li><li class="onehalf"></li><li class="two"></li><li class="twohalf"></li><li class="three"></li><li class="threehalf"></li><li class="four"></li><li class="fourhalf"></li><li class="five"></li></ul></div><div style="clear:left;"></div></div></div><div class="FooterTopSermon"><a style="color: #990100;" onmouseover="document.getElementById('TopSermonOnFooter_85066').style.display='block';" onmouseout="document.getElementById('TopSermonOnFooter_85066').style.display='none';" href="/sermons/commitment-to-thanksgiving-steve-shepherd-sermon-on-thanksgiving-holiday-85066.asp">Commitment To Thanksgiving</a></div><div id="TopSermonOnFooter_85066" class="SermonInfoPopup"><div class="SermonInfoPopupTitle">Commitment To Thanksgiving</div><div style="padding: 5px 0 0 0;"><strong>Contributor:</strong>&nbsp;Steve&nbsp;Shepherd</div><div style="padding: 5px 0 0 0"><strong>Denomination:</strong>&nbsp;Christian/Church</div><div style="padding: 5px 0 5px 0"><strong>Date Added:</strong>&nbsp;November 2005</div><div style="padding: 0 0 0 0;white-space: nowrap;"><div class="ratingstars floatleft" style="width:80px;height:16px;padding: 2px 5px 2px 0px;"><ul id="StarsListstaticfootersermon_85066" class="rating fivestar"><li class="half"></li><li class="one"></li><li class="onehalf"></li><li class="two"></li><li class="twohalf"></li><li class="three"></li><li class="threehalf"></li><li class="four"></li><li class="fourhalf"></li><li class="five"></li></ul></div><div style="clear:left;"></div></div></div><div class="FooterTopSermon"><a style="color: #990100;" onmouseover="document.getElementById('TopSermonOnFooter_41024').style.display='block';" onmouseout="document.getElementById('TopSermonOnFooter_41024').style.display='none';" href="/sermons/thanksgiving-in-a-land-of-plenty-joel-w-lohr-sermon-on-thanksgiving-holiday-41024.asp">Thanksgiving In A Land Of Plenty</a></div><div id="TopSermonOnFooter_41024" class="SermonInfoPopup"><div class="SermonInfoPopupTitle">Thanksgiving In A Land Of Plenty</div><div style="padding: 5px 0 0 0;"><strong>Contributor:</strong>&nbsp;Joel W.&nbsp;Lohr</div><div style="padding: 5px 0 0 0"><strong>Denomination:</strong>&nbsp;Baptist</div><div style="padding: 5px 0 5px 0"><strong>Date Added:</strong>&nbsp;November 2001</div><div style="padding: 0 0 0 0;white-space: nowrap;"><div class="ratingstars floatleft" style="width:80px;height:16px;padding: 2px 5px 2px 0px;"><ul id="StarsListstaticfootersermon_41024" class="rating fourhalfstar"><li class="half"></li><li class="one"></li><li class="onehalf"></li><li class="two"></li><li class="twohalf"></li><li class="three"></li><li class="threehalf"></li><li class="four"></li><li class="fourhalf"></li><li class="five"></li></ul></div><div style="clear:left;"></div></div></div><div class="FooterTopSermon"><a style="color: #990100;" onmouseover="document.getElementById('TopSermonOnFooter_40858').style.display='block';" onmouseout="document.getElementById('TopSermonOnFooter_40858').style.display='none';" href="/sermons/a-proper-perspective-on-thanksgiving-steve-malone-sermon-on-thanksgiving-holiday-40858.asp">A Proper Perspective On Thanksgiving</a></div><div id="TopSermonOnFooter_40858" class="SermonInfoPopup"><div class="SermonInfoPopupTitle">A Proper Perspective On Thanksgiving</div><div style="padding: 5px 0 0 0;"><strong>Contributor:</strong>&nbsp;Steve&nbsp;Malone</div><div style="padding: 5px 0 0 0"><strong>Denomination:</strong>&nbsp;Christian/Church</div><div style="padding: 5px 0 5px 0"><strong>Date Added:</strong>&nbsp;November 2001</div><div style="padding: 0 0 0 0;white-space: nowrap;"><div class="ratingstars floatleft" style="width:80px;height:16px;padding: 2px 5px 2px 0px;"><ul id="StarsListstaticfootersermon_40858" class="rating fivestar"><li class="half"></li><li class="one"></li><li class="onehalf"></li><li class="two"></li><li class="twohalf"></li><li class="three"></li><li class="threehalf"></li><li class="four"></li><li class="fourhalf"></li><li class="five"></li></ul></div><div style="clear:left;"></div></div></div><div class="FooterTopSermon"><a style="color: #990100;" onmouseover="document.getElementById('TopSermonOnFooter_171148').style.display='block';" onmouseout="document.getElementById('TopSermonOnFooter_171148').style.display='none';" href="/sermons/bless-the-lord-oh-my-soul-jeff-strite-sermon-on-thanksgiving-holiday-171148.asp">Bless The Lord, Oh My Soul</a></div><div id="TopSermonOnFooter_171148" class="SermonInfoPopup"><div class="SermonInfoPopupTitle">Bless The Lord, Oh My Soul</div><div style="padding: 5px 0 0 0;"><strong>Contributor:</strong>&nbsp;Jeff&nbsp;Strite</div><div style="padding: 5px 0 0 0"><strong>Denomination:</strong>&nbsp;Christian/Church</div><div style="padding: 5px 0 5px 0"><strong>Date Added:</strong>&nbsp;November 2012</div><div style="padding: 0 0 0 0;white-space: nowrap;"><div class="ratingstars floatleft" style="width:80px;height:16px;padding: 2px 5px 2px 0px;"><ul id="StarsListstaticfootersermon_171148" class="rating fourhalfstar"><li class="half"></li><li class="one"></li><li class="onehalf"></li><li class="two"></li><li class="twohalf"></li><li class="three"></li><li class="threehalf"></li><li class="four"></li><li class="fourhalf"></li><li class="five"></li></ul></div><div style="clear:left;"></div></div></div><div class="FooterTopSermon"><a style="color: #990100;" onmouseover="document.getElementById('TopSermonOnFooter_39929').style.display='block';" onmouseout="document.getElementById('TopSermonOnFooter_39929').style.display='none';" href="/sermons/enter-with-thanksgiving-melvin-newland-sermon-on-thanksgiving-holiday-39929.asp">Enter With Thanksgiving</a></div><div id="TopSermonOnFooter_39929" class="SermonInfoPopup"><div class="SermonInfoPopupTitle">Enter With Thanksgiving</div><div style="padding: 5px 0 0 0;"><strong>Contributor:</strong>&nbsp;Melvin&nbsp;Newland</div><div style="padding: 5px 0 0 0"><strong>Denomination:</strong>&nbsp;Christian/Church</div><div style="padding: 5px 0 5px 0"><strong>Date Added:</strong>&nbsp;October 2001</div><div style="padding: 0 0 0 0;white-space: nowrap;"><div class="ratingstars floatleft" style="width:80px;height:16px;padding: 2px 5px 2px 0px;"><ul id="StarsListstaticfootersermon_39929" class="rating fivestar"><li class="half"></li><li class="one"></li><li class="onehalf"></li><li class="two"></li><li class="twohalf"></li><li class="three"></li><li class="threehalf"></li><li class="four"></li><li class="fourhalf"></li><li class="five"></li></ul></div><div style="clear:left;"></div></div></div><div class="FooterTopSermon"><a style="color: #990100;" onmouseover="document.getElementById('TopSermonOnFooter_41069').style.display='block';" onmouseout="document.getElementById('TopSermonOnFooter_41069').style.display='none';" href="/sermons/an-attitude-of-gratitude-michael-belcher-sermon-on-christian-disciplines-41069.asp">An Attitude Of Gratitude</a></div><div id="TopSermonOnFooter_41069" class="SermonInfoPopup"><div class="SermonInfoPopupTitle">An Attitude Of Gratitude</div><div style="padding: 5px 0 0 0;"><strong>Contributor:</strong>&nbsp;Michael&nbsp;Belcher</div><div style="padding: 5px 0 0 0"><strong>Denomination:</strong>&nbsp;Baptist</div><div style="padding: 5px 0 5px 0"><strong>Date Added:</strong>&nbsp;November 2001</div><div style="padding: 0 0 0 0;white-space: nowrap;"><div class="ratingstars floatleft" style="width:80px;height:16px;padding: 2px 5px 2px 0px;"><ul id="StarsListstaticfootersermon_41069" class="rating fivestar"><li class="half"></li><li class="one"></li><li class="onehalf"></li><li class="two"></li><li class="twohalf"></li><li class="three"></li><li class="threehalf"></li><li class="four"></li><li class="fourhalf"></li><li class="five"></li></ul></div><div style="clear:left;"></div></div></div>
-                    <div style="padding: 0 0 5px 0;">
-                        <!-- Begin: Content Element --><style type="text/css">
-.TopResourceBox .SpecialLinks{
-display:none;
-}
-</style>
-<div class="SpecialLinks">
-	<h2 style="padding-top:10px;color:#990000; font-size:12pt;">Popular Preaching Resources</h2>
-	<div class="FooterTopSermon"><a style="color:;" href="http://www.sermoncentral.com/articleb.asp?article=Free-Sermon-Series-Ideas-Resources-Outlines" title="Free Sermon Series Ideas &amp; Preaching Resources">Free Sermon Series Ideas &amp; Preaching Resources</a></div>
-	<div class="FooterTopSermon"><a style="color:;" href="http://www.sermoncentral.com/articleb.asp?article=Funeral-Sermons-Videos-Illustrations" title="Funeral Sermons, Resources for Funeral Services">Funeral Sermons, Resources for Memorial Services</a></div>
-	<div class="FooterTopSermon"><a style="color:;" href="http://www.sermoncentral.com/articleb.asp?article=Wedding-Sermons-Videos-Illustrations" title="Wedding Sermons, Resources for Marriage Ceremonies">Free Wedding Sermons, Resources for Marriage Ceremonies</a></div>
-</div>	
-
-<div class="moreText">+ <a href="/Sermons/SearchResults.asp">Browse All</a></div><!-- End: Content Element -->
-                    </div>
-                </div>
+            <div class="RightNav_BoxTop">Today's Most Popular</div>
+            <div class="RightNav_Box" style="padding:0;width:298px;">
+                <div class="TopSermons" style="margin: 10px 0 0 0;">
+                    <div class="SectionLabel">Sermons</div>
+                            <div style="margin: 0 0 10px 0;"><li><a title="View sermon Memorial Day - A TIME TO REMEMBER" href="/sermons/memorial-day--a-time-to-remember-melvin-newland-sermon-on-holidays-civic-33976.asp">Memorial Day - A Time To Remember</a></li><li><a title="View sermon Every Sunday is a Memorial Day" href="/sermons/every-sunday-is-a-memorial-day-david-whitten-sermon-on-holidays-civic-47023.asp">Every Sunday Is A Memorial Day</a></li><li><a title="View sermon When Jesus Shows Up" href="/sermons/when-jesus-shows-up-elvis-burrows-sermon-on-miracles-of-jesus-175920.asp">When Jesus Shows Up</a></li><li><a title="View sermon Life’s Major Pursuit" href="/sermons/life8217s-major-pursuit-ralph-andrus-sermon-on-god-brings-purpose-144587.asp">Life’s Major Pursuit</a></li><li><a title="View sermon Church on Fire" href="/sermons/church-on-fire-jerry-shirley-sermon-on-pentecost-64853.asp">Church On Fire</a></li></div>
+                        <div class="TopMedia">
+                            <div class="SectionLabel">Church Media</div>
+                            <div style="margin: 0 0 10px 0;"><li><a title="View Video Illustration Greater Love" href="/church-media-preaching-sermons/sermon-video-illustrations/greater-love-34-detail.asp">Video Illustration : Greater Love</a></li><li><a title="View Worship Music Video Everlasting God" href="/church-media-preaching-sermons/worship-music-videos-service-starters/everlasting-god-3711-detail.asp">Worship Music Video : Everlasting God</a></li><li><a title="View PowerPoint Template A  Good  Soldier" href="/church-media-preaching-sermons/powerpoint-template-backgrounds/a-good-soldier-443-detail.asp">Powerpoint Template : A  Good  Soldier</a></li><li><a title="View PowerPoint Template Facing  Your  Goliath" href="/church-media-preaching-sermons/powerpoint-template-backgrounds/facing-your-goliath-721-detail.asp">Powerpoint Template : Facing  Your  Goliat...</a></li><li><a title="View PowerPoint Template New  Every  Morning" href="/church-media-preaching-sermons/powerpoint-template-backgrounds/new-every-morning-1197-detail.asp">Powerpoint Template : New  Every  Morning</a></li></div>
+                        </div>
                 </div>
             </div>
+            
             <div class="RightNav_BoxBottom"></div>
 
             
 			    <div style="padding: 0 0 10px 0;">
-				    <!-- Begin: Content Element --><center><!-- Begin -  Zone: SC4_300x600-RightSideBar -->
+				    <!-- Begin: Content Element --><center><!-- Begin -  Site: SermonCentral Zone: SC4_300x600-RightSideBar -->
 <script language="javascript" type="text/javascript">
 <!--
 var browName = navigator.appName;
-var SiteID = 3;
-var ZoneID = 134;
 var browDateTime = (new Date()).getTime();
-if (browName=='Netscape')
-{
-document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://bmp.outreach.com/a.aspx?ZoneID=' + ZoneID + '&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=84785&amp;SiteID=' + SiteID + '&amp;Random=' + browDateTime  + '">'); document.write('</'+'scr'+'ipt>');
-}
-if (browName!='Netscape')
-{
-document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://bmp.outreach.com/a.aspx?ZoneID=' + ZoneID + '&amp;Task=Get&amp;IFR=False&amp;PageID=84785&amp;SiteID=' + SiteID + '&amp;Random=' + browDateTime  + '">'); document.write('</'+'scr'+'ipt>');
-}
+var browVersion = parseInt(navigator.appVersion);
+var ua=navigator.userAgent.toLowerCase();
+var adcode='';
+if (browName=='Netscape'){
+     if (browVersion>=5) 
+          { document.write('<ifr'+'ame src="http://bmp.outreach.com/a.aspx?ZoneID=134&amp;Task=Get&amp;Browser=NETSCAPE6&amp;PageID=43486&amp;SiteID=3&amp;X=' + browDateTime  + '" width=300 height=600 Marginwidth=0 Marginheight=0 Hspace=0 Vspace=0 Frameborder=0 Scrolling=No></ifr'+'ame>'); }
+     else if ((browVersion>=4)&&(ua.indexOf("mac")==-1))
+          { document.write('<s'+'cript src="http://bmp.outreach.com/a.aspx?ZoneID=134&amp;Task=Get&amp;Browser=NETSCAPE4&amp;PageID=43486&amp;SiteID=3&amp;X=' + browDateTime  + '">');
+          document.write('</'+'scr'+'ipt>');
+          document.write(adcode); }
+     else if (browVersion>=3) 
+          { document.write('<a href="http://bmp.outreach.com/a.aspx?ZoneID=134&Task=Click&Mode=HTML&SiteID=3&PageID=43486&X=' + browDateTime + '&RandomNumber=' + browDateTime  + '" target="_blank"><img src="http://bmp.outreach.com/a.aspx?ZoneID=134&amp;Task=Get&amp;Mode=HTML&amp;SiteID=3&amp;PageID=43486&X=' + browDateTime + '&RandomNumber=' + browDateTime  + '" width="300" height="600" border="0" alt=""></a>'); } }
+else
+     { document.write('<ifr'+'ame src="http://bmp.outreach.com/a.aspx?ZoneID=134&amp;Task=Get&amp;SiteID=3&amp;PageID=43486&amp;X=' + browDateTime  + '" width=300 height=600 Marginwidth=0 Marginheight=0 Hspace=0 Vspace=0 Frameborder=0 Scrolling=No></ifr'+'ame>'); }
 // --> 
-</script><script language="javascript" src="http://bmp.outreach.com/a.aspx?ZoneID=134&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=84785&amp;SiteID=3&amp;Random=1580569536267"></script>
+</script><iframe src="http://bmp.outreach.com/a.aspx?ZoneID=134&amp;Task=Get&amp;Browser=NETSCAPE6&amp;PageID=43486&amp;SiteID=3&amp;X=1580569530979" width="300" height="600" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="No"></iframe>
 <noscript>
-    <a href="http://bmp.outreach.com/a.aspx?ZoneID=134&Task=Click&Mode=HTML&SiteID=3&PageID=84785" target="_blank">
-    <img src="http://bmp.outreach.com/a.aspx?ZoneID=134&Task=Get&Mode=HTML&SiteID=3&PageID=84785" width="300" height="600" border="0"  alt=""></a>
+    <a href="http://bmp.outreach.com/a.aspx?ZoneID=134&Task=Click&Mode=HTML&SiteID=3&PageID=43486" target="_blank">
+    <img src="http://bmp.outreach.com/a.aspx?ZoneID=134&amp;Task=Get&amp;Mode=HTML&amp;SiteID=3&amp;PageID=43486" width="300" height="600" border="0"  alt=""></a>
 </noscript>
-<!-- End -  Zone: SC4_300x600-RightSideBar --></center><!-- End: Content Element -->
+<!-- End -  Site: SermonCentral Zone: SC4_300x600-RightSideBar --></center><!-- End: Content Element -->
 			    </div>
 			
-			
-			
-			<div class="RightNav_BoxTop" style="white-space: nowrap;">Recently Added Articles</div>
-            <div class="RightNav_Box" style="padding: 5px 0 0 0;">
-                <div style="padding: 0 0 0 5px;">
-                
-                            <div class="RecentArticle">
-                                <div class="ra-Left">
-                                    <a title="Why Preaching on Thanksgiving Is So Difficult by David Lose" href="/pastors-preaching-articles/david-lose-why-preaching-on-thanksgiving-is-so-difficult-1434.asp"><img src="/OptimizedImages/D/a/DavidLose_WhyPreachingonThanksgivingIsSoDifficult_1434x_70_y_70.jpg" alt="Why Preaching on Thanksgiving Is So Difficult by David Lose"></a>
-                                </div>
-                                <div class="ra-Right">
-                                    <div class="ra-Author"><a href="/authors/david-lose-articles-526.asp" title="Preaching Articles by David Lose">David Lose</a></div>
-                                    <div class="ra-ArticleTitle"><a title="Why Preaching on Thanksgiving Is So Difficult by David Lose" style="" href="/pastors-preaching-articles/david-lose-why-preaching-on-thanksgiving-is-so-difficult-1434.asp"><strong>Why Preaching on Thanksgiving Is So Difficult</strong></a></div>
-                                </div>
-                            </div>
-                            <div style="clear:both;display:block;height: 12px;"></div>
-                            
-                            <div class="RecentArticle">
-                                <div class="ra-Left">
-                                    <a title="15 Brilliant Quotes for Thanksgiving by Ray Hollenbach" href="/pastors-preaching-articles/ray-hollenbach-15-brilliant-quotes-for-thanksgiving-1426.asp"><img src="/OptimizedImages/R/a/RayHollenbach_15BrilliantQuotesforThanksgiving_1426x_70_y_70.jpg" alt="15 Brilliant Quotes for Thanksgiving by Ray Hollenbach"></a>
-                                </div>
-                                <div class="ra-Right">
-                                    <div class="ra-Author"><a href="/authors/ray-hollenbach-articles-627.asp" title="Preaching Articles by Ray Hollenbach">Ray Hollenbach</a></div>
-                                    <div class="ra-ArticleTitle"><a title="15 Brilliant Quotes for Thanksgiving by Ray Hollenbach" style="" href="/pastors-preaching-articles/ray-hollenbach-15-brilliant-quotes-for-thanksgiving-1426.asp"><strong>15 Brilliant Quotes for Thanksgiving</strong></a></div>
-                                </div>
-                            </div>
-                            <div style="clear:both;display:block;height: 12px;"></div>
-                            
-                            <div class="RecentArticle">
-                                <div class="ra-Left">
-                                    <a title="How to Preach About Heaven by Randy Alcorn" href="/pastors-preaching-articles/randy-alcorn-how-to-preach-about-heaven-1429.asp"><img src="/OptimizedImages/R/a/RandyAlcorn_HowtoPreachAboutHeaven_1429x_70_y_70.jpg" alt="How to Preach About Heaven by Randy Alcorn"></a>
-                                </div>
-                                <div class="ra-Right">
-                                    <div class="ra-Author"><a href="/authors/randy-alcorn-articles-511.asp" title="Preaching Articles by Randy Alcorn">Randy Alcorn</a></div>
-                                    <div class="ra-ArticleTitle"><a title="How to Preach About Heaven by Randy Alcorn" style="" href="/pastors-preaching-articles/randy-alcorn-how-to-preach-about-heaven-1429.asp"><strong>How to Preach About Heaven</strong></a></div>
-                                </div>
-                            </div>
-                            <div style="clear:both;display:block;height: 12px;"></div>
-                            
-                            <div class="RecentArticle">
-                                <div class="ra-Left">
-                                    <a title="What It Really Means to Preach Grace by Richard Ganz" href="/pastors-preaching-articles/richard-ganz-what-it-really-means-to-preach-grace-1428.asp"><img src="/OptimizedImages/R/i/RichardGanz_WhatItReallyMeanstoPreachGrace_1428x_70_y_70.jpg" alt="What It Really Means to Preach Grace by Richard Ganz"></a>
-                                </div>
-                                <div class="ra-Right">
-                                    <div class="ra-Author"><a href="/authors/richard-ganz-articles-788.asp" title="Preaching Articles by Richard Ganz">Richard Ganz</a></div>
-                                    <div class="ra-ArticleTitle"><a title="What It Really Means to Preach Grace by Richard Ganz" style="" href="/pastors-preaching-articles/richard-ganz-what-it-really-means-to-preach-grace-1428.asp"><strong>What It Really Means to Preach Grace</strong></a></div>
-                                </div>
-                            </div>
-                            <div style="clear:both;display:block;height: 12px;"></div>
-                            
-                            <div class="RecentArticle">
-                                <div class="ra-Left">
-                                    <a title="How to Land Speaking Engagements by Ben Arment" href="/pastors-preaching-articles/ben-arment-how-to-land-speaking-engagements-1427.asp"><img src="/OptimizedImages/B/e/BenArment_HowtoLandSpeakingEngagements_1427x_70_y_70.jpg" alt="How to Land Speaking Engagements by Ben Arment"></a>
-                                </div>
-                                <div class="ra-Right">
-                                    <div class="ra-Author"><a href="/authors/ben-arment-articles-787.asp" title="Preaching Articles by Ben Arment">Ben Arment</a></div>
-                                    <div class="ra-ArticleTitle"><a title="How to Land Speaking Engagements by Ben Arment" style="" href="/pastors-preaching-articles/ben-arment-how-to-land-speaking-engagements-1427.asp"><strong>How to Land Speaking Engagements</strong></a></div>
-                                </div>
-                            </div>
-                            <div style="clear:both;display:block;height: 12px;"></div>
-                            
-                    <div style="text-align:right;padding: 10px 10px 10px 0;"><a title="More Preaching Articles" href="/Articles/" style="color:#990000;font-size:12px;"><strong>More Preaching Articles »</strong></a></div>
-                </div>
-            </div>
-            <div class="RightNav_BoxBottom"></div>
-            
-            
-            
-            
 			    <!-- do nothing -->
 			
 			
@@ -802,116 +634,135 @@ document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://bmp.outre
 			
 			<div class="RightNav_BoxTop">Sponsored Links</div>
             <div class="RightNav_Box" style="padding: 0;">
-                <!-- Begin: Content Element --><h2 style="margin:10px 0 0 10px;">Top Pastor Resources</h2>
-<div id="sponsoredwrap" style="background-image:none;"> 
-<!-- Begin -  Site: SermonCentral Zone: SC4_Sponsored-Links1 --> 
-<script language="javascript" type="text/javascript"> 
+                <!-- Begin: Content Element --><div id="sponsoredwrap" style="background-image:none;"> 
+<!-- Begin -  Site: SermonCentral Zone: SC4_Sponsored-Links1 -->
+<script language="javascript" type="text/javascript">
 <!--
 var browName = navigator.appName;
-var SiteID = 3;
-var ZoneID = 91;
 var browDateTime = (new Date()).getTime();
-if (browName=='Netscape')
-{
-document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://bmp.outreach.com/a.aspx?ZoneID=' + ZoneID + '&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=81681&amp;SiteID=' + SiteID + '&amp;Random=' + browDateTime  + '">'); document.write('</'+'scr'+'ipt>');
-}
-if (browName!='Netscape')
-{
-document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://bmp.outreach.com/a.aspx?ZoneID=' + ZoneID + '&amp;Task=Get&amp;IFR=False&amp;PageID=81681&amp;SiteID=' + SiteID + '&amp;Random=' + browDateTime  + '">'); document.write('</'+'scr'+'ipt>');
-}
+var browVersion = parseInt(navigator.appVersion);
+var ua=navigator.userAgent.toLowerCase();
+var adcode='';
+if (browName=='Netscape'){
+     if (browVersion>=5) 
+          { document.write('<ifr'+'ame src="http://bmp.outreach.com/a.aspx?ZoneID=91&amp;Task=Get&amp;Browser=NETSCAPE6&amp;PageID=39140&amp;SiteID=3&amp;X=' + browDateTime  + '" width=285 height=70 Marginwidth=0 Marginheight=0 Hspace=0 Vspace=0 Frameborder=0 Scrolling=No></ifr'+'ame>'); }
+     else if ((browVersion>=4)&&(ua.indexOf("mac")==-1))
+          { document.write('<s'+'cript src="http://bmp.outreach.com/a.aspx?ZoneID=91&amp;Task=Get&amp;Browser=NETSCAPE4&amp;PageID=39140&amp;SiteID=3&amp;X=' + browDateTime  + '">');
+          document.write('</'+'scr'+'ipt>');
+          document.write(adcode); }
+     else if (browVersion>=3) 
+          { document.write('<a href="http://bmp.outreach.com/a.aspx?ZoneID=91&Task=Click&Mode=HTML&SiteID=3&PageID=39140&X=' + browDateTime + '&RandomNumber=' + browDateTime  + '" target="_blank"><img src="http://bmp.outreach.com/a.aspx?ZoneID=91&amp;Task=Get&amp;Mode=HTML&amp;SiteID=3&amp;PageID=39140&X=' + browDateTime + '&RandomNumber=' + browDateTime  + '" width="285" height="70" border="0" alt=""></a>'); } }
+else
+     { document.write('<ifr'+'ame src="http://bmp.outreach.com/a.aspx?ZoneID=91&amp;Task=Get&amp;SiteID=3&amp;PageID=39140&amp;X=' + browDateTime  + '" width=285 height=70 Marginwidth=0 Marginheight=0 Hspace=0 Vspace=0 Frameborder=0 Scrolling=No></ifr'+'ame>'); }
 // --> 
-</script><script language="javascript" src="http://bmp.outreach.com/a.aspx?ZoneID=91&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=81681&amp;SiteID=3&amp;Random=1580569536272"></script> 
-<noscript> 
-    <a href="http://bmp.outreach.com/a.aspx?ZoneID=91&Task=Click&Mode=HTML&SiteID=3&PageID=81681" target="_blank"> 
-    <img src="http://bmp.outreach.com/a.aspx?ZoneID=91&Task=Get&Mode=HTML&SiteID=3&PageID=81681" width="285" height="80" border="0"  alt=""></a> 
-</noscript> 
-<!-- End -  Site: SermonCentral Zone: SC4_Sponsored-Links1 --> 
-<!-- Begin -  Site: SermonCentral Zone: SC4_Sponsored-Links2 --> 
-<script language="javascript" type="text/javascript"> 
+</script><iframe src="http://bmp.outreach.com/a.aspx?ZoneID=91&amp;Task=Get&amp;Browser=NETSCAPE6&amp;PageID=39140&amp;SiteID=3&amp;X=1580569530982" width="285" height="70" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="No"></iframe>
+<noscript>
+    <a href="http://bmp.outreach.com/a.aspx?ZoneID=91&Task=Click&Mode=HTML&SiteID=3&PageID=39140" target="_blank">
+    <img src="http://bmp.outreach.com/a.aspx?ZoneID=91&amp;Task=Get&amp;Mode=HTML&amp;SiteID=3&amp;PageID=39140" width="285" height="70" border="0"  alt=""></a>
+</noscript>
+<!-- End -  Site: SermonCentral Zone: SC4_Sponsored-Links1 -->
+<!-- Begin -  Site: SermonCentral Zone: SC4_Sponsored-Links2 -->
+<script language="javascript" type="text/javascript">
 <!--
 var browName = navigator.appName;
-var SiteID = 3;
-var ZoneID = 92;
 var browDateTime = (new Date()).getTime();
-if (browName=='Netscape')
-{
-document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://bmp.outreach.com/a.aspx?ZoneID=' + ZoneID + '&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=99319&amp;SiteID=' + SiteID + '&amp;Random=' + browDateTime  + '">'); document.write('</'+'scr'+'ipt>');
-}
-if (browName!='Netscape')
-{
-document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://bmp.outreach.com/a.aspx?ZoneID=' + ZoneID + '&amp;Task=Get&amp;IFR=False&amp;PageID=99319&amp;SiteID=' + SiteID + '&amp;Random=' + browDateTime  + '">'); document.write('</'+'scr'+'ipt>');
-}
+var browVersion = parseInt(navigator.appVersion);
+var ua=navigator.userAgent.toLowerCase();
+var adcode='';
+if (browName=='Netscape'){
+     if (browVersion>=5) 
+          { document.write('<ifr'+'ame src="http://bmp.outreach.com/a.aspx?ZoneID=92&amp;Task=Get&amp;Browser=NETSCAPE6&amp;PageID=9398&amp;SiteID=3&amp;X=' + browDateTime  + '" width=285 height=70 Marginwidth=0 Marginheight=0 Hspace=0 Vspace=0 Frameborder=0 Scrolling=No></ifr'+'ame>'); }
+     else if ((browVersion>=4)&&(ua.indexOf("mac")==-1))
+          { document.write('<s'+'cript src="http://bmp.outreach.com/a.aspx?ZoneID=92&amp;Task=Get&amp;Browser=NETSCAPE4&amp;PageID=9398&amp;SiteID=3&amp;X=' + browDateTime  + '">');
+          document.write('</'+'scr'+'ipt>');
+          document.write(adcode); }
+     else if (browVersion>=3) 
+          { document.write('<a href="http://bmp.outreach.com/a.aspx?ZoneID=92&Task=Click&Mode=HTML&SiteID=3&PageID=9398&X=' + browDateTime + '&RandomNumber=' + browDateTime  + '" target="_blank"><img src="http://bmp.outreach.com/a.aspx?ZoneID=92&amp;Task=Get&amp;Mode=HTML&amp;SiteID=3&amp;PageID=9398&X=' + browDateTime + '&RandomNumber=' + browDateTime  + '" width="285" height="70" border="0" alt=""></a>'); } }
+else
+     { document.write('<ifr'+'ame src="http://bmp.outreach.com/a.aspx?ZoneID=92&amp;Task=Get&amp;SiteID=3&amp;PageID=9398&amp;X=' + browDateTime  + '" width=285 height=70 Marginwidth=0 Marginheight=0 Hspace=0 Vspace=0 Frameborder=0 Scrolling=No></ifr'+'ame>'); }
 // --> 
-</script><script language="javascript" src="http://bmp.outreach.com/a.aspx?ZoneID=92&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=99319&amp;SiteID=3&amp;Random=1580569536273"></script> 
-<noscript> 
-    <a href="http://bmp.outreach.com/a.aspx?ZoneID=92&Task=Click&Mode=HTML&SiteID=3&PageID=99319" target="_blank"> 
-    <img src="http://bmp.outreach.com/a.aspx?ZoneID=92&Task=Get&Mode=HTML&SiteID=3&PageID=99319" width="285" height="80" border="0"  alt=""></a> 
-</noscript> 
-<!-- End -  Site: SermonCentral Zone: SC4_Sponsored-Links2 --> 
-<!-- Begin -  Site: SermonCentral Zone: SC4_Sponsored-Links3 --> 
-<script language="javascript" type="text/javascript"> 
+</script><iframe src="http://bmp.outreach.com/a.aspx?ZoneID=92&amp;Task=Get&amp;Browser=NETSCAPE6&amp;PageID=9398&amp;SiteID=3&amp;X=1580569530986" width="285" height="70" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="No"></iframe>
+<noscript>
+    <a href="http://bmp.outreach.com/a.aspx?ZoneID=92&Task=Click&Mode=HTML&SiteID=3&PageID=9398" target="_blank">
+    <img src="http://bmp.outreach.com/a.aspx?ZoneID=92&amp;Task=Get&amp;Mode=HTML&amp;SiteID=3&amp;PageID=9398" width="285" height="70" border="0"  alt=""></a>
+</noscript>
+<!-- End -  Site: SermonCentral Zone: SC4_Sponsored-Links2 -->
+<!-- Begin -  Site: SermonCentral Zone: SC4_Sponsored-Links3 -->
+<script language="javascript" type="text/javascript">
 <!--
 var browName = navigator.appName;
-var SiteID = 3;
-var ZoneID = 93;
 var browDateTime = (new Date()).getTime();
-if (browName=='Netscape')
-{
-document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://bmp.outreach.com/a.aspx?ZoneID=' + ZoneID + '&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=29187&amp;SiteID=' + SiteID + '&amp;Random=' + browDateTime  + '">'); document.write('</'+'scr'+'ipt>');
-}
-if (browName!='Netscape')
-{
-document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://bmp.outreach.com/a.aspx?ZoneID=' + ZoneID + '&amp;Task=Get&amp;IFR=False&amp;PageID=29187&amp;SiteID=' + SiteID + '&amp;Random=' + browDateTime  + '">'); document.write('</'+'scr'+'ipt>');
-}
+var browVersion = parseInt(navigator.appVersion);
+var ua=navigator.userAgent.toLowerCase();
+var adcode='';
+if (browName=='Netscape'){
+     if (browVersion>=5) 
+          { document.write('<ifr'+'ame src="http://bmp.outreach.com/a.aspx?ZoneID=93&amp;Task=Get&amp;Browser=NETSCAPE6&amp;PageID=26189&amp;SiteID=3&amp;X=' + browDateTime  + '" width=285 height=70 Marginwidth=0 Marginheight=0 Hspace=0 Vspace=0 Frameborder=0 Scrolling=No></ifr'+'ame>'); }
+     else if ((browVersion>=4)&&(ua.indexOf("mac")==-1))
+          { document.write('<s'+'cript src="http://bmp.outreach.com/a.aspx?ZoneID=93&amp;Task=Get&amp;Browser=NETSCAPE4&amp;PageID=26189&amp;SiteID=3&amp;X=' + browDateTime  + '">');
+          document.write('</'+'scr'+'ipt>');
+          document.write(adcode); }
+     else if (browVersion>=3) 
+          { document.write('<a href="http://bmp.outreach.com/a.aspx?ZoneID=93&Task=Click&Mode=HTML&SiteID=3&PageID=26189&X=' + browDateTime + '&RandomNumber=' + browDateTime  + '" target="_blank"><img src="http://bmp.outreach.com/a.aspx?ZoneID=93&amp;Task=Get&amp;Mode=HTML&amp;SiteID=3&amp;PageID=26189&X=' + browDateTime + '&RandomNumber=' + browDateTime  + '" width="285" height="70" border="0" alt=""></a>'); } }
+else
+     { document.write('<ifr'+'ame src="http://bmp.outreach.com/a.aspx?ZoneID=93&amp;Task=Get&amp;SiteID=3&amp;PageID=26189&amp;X=' + browDateTime  + '" width=285 height=70 Marginwidth=0 Marginheight=0 Hspace=0 Vspace=0 Frameborder=0 Scrolling=No></ifr'+'ame>'); }
 // --> 
-</script><script language="javascript" src="http://bmp.outreach.com/a.aspx?ZoneID=93&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=29187&amp;SiteID=3&amp;Random=1580569536275"></script> 
-<noscript> 
-    <a href="http://bmp.outreach.com/a.aspx?ZoneID=93&Task=Click&Mode=HTML&SiteID=3&PageID=29187" target="_blank"> 
-    <img src="http://bmp.outreach.com/a.aspx?ZoneID=93&Task=Get&Mode=HTML&SiteID=3&PageID=29187" width="285" height="70" border="0"  alt=""></a> 
-</noscript> 
-<!-- End -  Site: SermonCentral Zone: SC4_Sponsored-Links3 --> 
-<!-- Begin -  Site: SermonCentral Zone: SC4_Sponsored-Links4 --> 
-<script language="javascript" type="text/javascript"> 
+</script><iframe src="http://bmp.outreach.com/a.aspx?ZoneID=93&amp;Task=Get&amp;Browser=NETSCAPE6&amp;PageID=26189&amp;SiteID=3&amp;X=1580569530988" width="285" height="70" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="No"></iframe>
+<noscript>
+    <a href="http://bmp.outreach.com/a.aspx?ZoneID=93&Task=Click&Mode=HTML&SiteID=3&PageID=26189" target="_blank">
+    <img src="http://bmp.outreach.com/a.aspx?ZoneID=93&amp;Task=Get&amp;Mode=HTML&amp;SiteID=3&amp;PageID=26189" width="285" height="70" border="0"  alt=""></a>
+</noscript>
+<!-- End -  Site: SermonCentral Zone: SC4_Sponsored-Links3 -->
+<!-- Begin -  Site: SermonCentral Zone: SC4_Sponsored-Links4 -->
+<script language="javascript" type="text/javascript">
 <!--
 var browName = navigator.appName;
-var SiteID = 3;
-var ZoneID = 94;
 var browDateTime = (new Date()).getTime();
-if (browName=='Netscape')
-{
-document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://bmp.outreach.com/a.aspx?ZoneID=' + ZoneID + '&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=4337&amp;SiteID=' + SiteID + '&amp;Random=' + browDateTime  + '">'); document.write('</'+'scr'+'ipt>');
-}
-if (browName!='Netscape')
-{
-document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://bmp.outreach.com/a.aspx?ZoneID=' + ZoneID + '&amp;Task=Get&amp;IFR=False&amp;PageID=4337&amp;SiteID=' + SiteID + '&amp;Random=' + browDateTime  + '">'); document.write('</'+'scr'+'ipt>');
-}
+var browVersion = parseInt(navigator.appVersion);
+var ua=navigator.userAgent.toLowerCase();
+var adcode='';
+if (browName=='Netscape'){
+     if (browVersion>=5) 
+          { document.write('<ifr'+'ame src="http://bmp.outreach.com/a.aspx?ZoneID=94&amp;Task=Get&amp;Browser=NETSCAPE6&amp;PageID=14314&amp;SiteID=3&amp;X=' + browDateTime  + '" width=285 height=70 Marginwidth=0 Marginheight=0 Hspace=0 Vspace=0 Frameborder=0 Scrolling=No></ifr'+'ame>'); }
+     else if ((browVersion>=4)&&(ua.indexOf("mac")==-1))
+          { document.write('<s'+'cript src="http://bmp.outreach.com/a.aspx?ZoneID=94&amp;Task=Get&amp;Browser=NETSCAPE4&amp;PageID=14314&amp;SiteID=3&amp;X=' + browDateTime  + '">');
+          document.write('</'+'scr'+'ipt>');
+          document.write(adcode); }
+     else if (browVersion>=3) 
+          { document.write('<a href="http://bmp.outreach.com/a.aspx?ZoneID=94&Task=Click&Mode=HTML&SiteID=3&PageID=14314&X=' + browDateTime + '&RandomNumber=' + browDateTime  + '" target="_blank"><img src="http://bmp.outreach.com/a.aspx?ZoneID=94&amp;Task=Get&amp;Mode=HTML&amp;SiteID=3&amp;PageID=14314&X=' + browDateTime + '&RandomNumber=' + browDateTime  + '" width="285" height="70" border="0" alt=""></a>'); } }
+else
+     { document.write('<ifr'+'ame src="http://bmp.outreach.com/a.aspx?ZoneID=94&amp;Task=Get&amp;SiteID=3&amp;PageID=14314&amp;X=' + browDateTime  + '" width=285 height=70 Marginwidth=0 Marginheight=0 Hspace=0 Vspace=0 Frameborder=0 Scrolling=No></ifr'+'ame>'); }
 // --> 
-</script><script language="javascript" src="http://bmp.outreach.com/a.aspx?ZoneID=94&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=4337&amp;SiteID=3&amp;Random=1580569536276"></script> 
-<noscript> 
-    <a href="http://bmp.outreach.com/a.aspx?ZoneID=94&Task=Click&Mode=HTML&SiteID=3&PageID=4337" target="_blank"> 
-    <img src="http://bmp.outreach.com/a.aspx?ZoneID=94&Task=Get&Mode=HTML&SiteID=3&PageID=4337" width="285" height="70" border="0"  alt=""></a> 
-</noscript> 
+</script><iframe src="http://bmp.outreach.com/a.aspx?ZoneID=94&amp;Task=Get&amp;Browser=NETSCAPE6&amp;PageID=14314&amp;SiteID=3&amp;X=1580569530992" width="285" height="70" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="No"></iframe>
+<noscript>
+    <a href="http://bmp.outreach.com/a.aspx?ZoneID=94&Task=Click&Mode=HTML&SiteID=3&PageID=14314" target="_blank">
+    <img src="http://bmp.outreach.com/a.aspx?ZoneID=94&amp;Task=Get&amp;Mode=HTML&amp;SiteID=3&amp;PageID=14314" width="285" height="70" border="0"  alt=""></a>
+</noscript>
 <!-- End -  Site: SermonCentral Zone: SC4_Sponsored-Links4 -->
 <!-- Begin -  Site: SermonCentral Zone: SC4_Sponsored-Links5 -->
 <script language="javascript" type="text/javascript">
 <!--
 var browName = navigator.appName;
-var SiteID = 3;
-var ZoneID = 141;
 var browDateTime = (new Date()).getTime();
-if (browName=='Netscape')
-{
-document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://bmp.outreach.com/a.aspx?ZoneID=' + ZoneID + '&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=81417&amp;SiteID=' + SiteID + '&amp;Random=' + browDateTime  + '">'); document.write('</'+'scr'+'ipt>');
-}
-if (browName!='Netscape')
-{
-document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://bmp.outreach.com/a.aspx?ZoneID=' + ZoneID + '&amp;Task=Get&amp;IFR=False&amp;PageID=81417&amp;SiteID=' + SiteID + '&amp;Random=' + browDateTime  + '">'); document.write('</'+'scr'+'ipt>');
-}
+var browVersion = parseInt(navigator.appVersion);
+var ua=navigator.userAgent.toLowerCase();
+var adcode='';
+if (browName=='Netscape'){
+     if (browVersion>=5) 
+          { document.write('<ifr'+'ame src="http://bmp.outreach.com/a.aspx?ZoneID=141&amp;Task=Get&amp;Browser=NETSCAPE6&amp;PageID=14792&amp;SiteID=3&amp;X=' + browDateTime  + '" width=285 height=70 Marginwidth=0 Marginheight=0 Hspace=0 Vspace=0 Frameborder=0 Scrolling=No></ifr'+'ame>'); }
+     else if ((browVersion>=4)&&(ua.indexOf("mac")==-1))
+          { document.write('<s'+'cript src="http://bmp.outreach.com/a.aspx?ZoneID=141&amp;Task=Get&amp;Browser=NETSCAPE4&amp;PageID=14792&amp;SiteID=3&amp;X=' + browDateTime  + '">');
+          document.write('</'+'scr'+'ipt>');
+          document.write(adcode); }
+     else if (browVersion>=3) 
+          { document.write('<a href="http://bmp.outreach.com/a.aspx?ZoneID=141&Task=Click&Mode=HTML&SiteID=3&PageID=14792&X=' + browDateTime + '&RandomNumber=' + browDateTime  + '" target="_blank"><img src="http://bmp.outreach.com/a.aspx?ZoneID=141&amp;Task=Get&amp;Mode=HTML&amp;SiteID=3&amp;PageID=14792&X=' + browDateTime + '&RandomNumber=' + browDateTime  + '" width="285" height="70" border="0" alt=""></a>'); } }
+else
+     { document.write('<ifr'+'ame src="http://bmp.outreach.com/a.aspx?ZoneID=141&amp;Task=Get&amp;SiteID=3&amp;PageID=14792&amp;X=' + browDateTime  + '" width=285 height=70 Marginwidth=0 Marginheight=0 Hspace=0 Vspace=0 Frameborder=0 Scrolling=No></ifr'+'ame>'); }
 // --> 
-</script><script language="javascript" src="http://bmp.outreach.com/a.aspx?ZoneID=141&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=81417&amp;SiteID=3&amp;Random=1580569536278"></script>
+</script><iframe src="http://bmp.outreach.com/a.aspx?ZoneID=141&amp;Task=Get&amp;Browser=NETSCAPE6&amp;PageID=14792&amp;SiteID=3&amp;X=1580569530995" width="285" height="70" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="No"></iframe>
 <noscript>
-    <a href="http://bmp.outreach.com/a.aspx?ZoneID=141&Task=Click&Mode=HTML&SiteID=3&PageID=81417" target="_blank">
-    <img src="http://bmp.outreach.com/a.aspx?ZoneID=141&Task=Get&Mode=HTML&SiteID=3&PageID=81417" width="285" height="70" border="0"  alt=""></a>
+    <a href="http://bmp.outreach.com/a.aspx?ZoneID=141&Task=Click&Mode=HTML&SiteID=3&PageID=14792" target="_blank">
+    <img src="http://bmp.outreach.com/a.aspx?ZoneID=141&amp;Task=Get&amp;Mode=HTML&amp;SiteID=3&amp;PageID=14792" width="285" height="70" border="0"  alt=""></a>
 </noscript>
 <!-- End -  Site: SermonCentral Zone: SC4_Sponsored-Links5 -->
 </div>
@@ -920,128 +771,151 @@ document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://bmp.outre
             <div class="RightNav_BoxBottom"></div>
 			
 		</div> <!--rightnav-->
-		<div class="clear"></div>
 		
+		
+		<div class="clear"></div>
 		<!-- Begin: Content Element --><div class="sponsorTexty">Sponsored By:</div>
-<div style="float:left;padding-right:11px;"> <script language="JAVASCRIPT">
- <!-- 
- var browName = navigator.appName;
- var browDateTime = (new Date()).getTime();
- var browVersion = parseInt(navigator.appVersion);
- var ua=navigator.userAgent.toLowerCase();
- var adcode='';
- if (browName=='Netscape'){
- if (browVersion>=5)
- { document.write('<ifr'+'ame src="http://bmp.outreach.com/banman.asp?ZoneID=63&Task=Get&Browser=NETSCAPE6&SiteID=3&X=' + browDateTime + '" width="175" height="50" Marginwidth=0 Marginheight=0 Hspace=0 Vspace=0 Frameborder=0 Scrolling=No Height="90"></ifr'+'ame>'); }
- else if ((browVersion>=4)&&(ua.indexOf("mac")==-1))
- { document.write('<S'+'CRIPT src="http://bmp.outreach.com/banman.asp?ZoneID=63&Task=Get&Browser=NETSCAPE4&SiteID=3">');
- document.write('</'+'scr'+'ipt>');
- document.write(adcode); }
- else if (browVersion>=3) 
- { document.write('<A HREF="http://bmp.outreach.com/banman.asp?ZoneID=63&Task=Click&Mode=HTML&SiteID=3&PageID=63395&RandomNumber=' + browDateTime + '" target="_new"><IMG SRC="http://bmp.outreach.com/banman.asp?ZoneID=63&Task=Get&Mode=HTML&SiteID=3&PageID=63395&RandomNumber=' + browDateTime + '" width="175" height="50" border="0"></A>'); } } 
- if (browName=='Microsoft Internet Explorer') 
- { document.write('<ifr'+'ame src="http://bmp.outreach.com/banman.asp?ZoneID=63&Task=Get&SiteID=3&X=' + browDateTime + '" width=175 height=50 Marginwidth=0 Marginheight=0 Hspace=0 Vspace=0 Frameborder=0 Scrolling=No  Height="90"></ifr'+'ame>') }; 
- // --> 
- </script><iframe src="http://bmp.outreach.com/banman.asp?ZoneID=63&amp;Task=Get&amp;Browser=NETSCAPE6&amp;SiteID=3&amp;X=1580569536278" width="175" height="50" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="No"></iframe> 
- <noscript> 
- <a href="http://bmp.outreach.com/banman.asp?ZoneID=63&Task=Click&Mode=HTML&SiteID=3&PageID=63395" target="_new">
- <img src="http://bmp.outreach.com/banman.asp?ZoneID=63&Task=Get&Mode=HTML&SiteID=3&PageID=63395" width="175" height="50" border="0"></a>
- </noscript> </div>
-        <div style="float:left;padding-right:11px;"> <script language="JAVASCRIPT">
- <!-- 
- var browName = navigator.appName;
- var browDateTime = (new Date()).getTime();
- var browVersion = parseInt(navigator.appVersion);
- var ua=navigator.userAgent.toLowerCase();
- var adcode='';
- if (browName=='Netscape'){
- if (browVersion>=5)
- { document.write('<ifr'+'ame src="http://bmp.outreach.com/banman.asp?ZoneID=64&Task=Get&Browser=NETSCAPE6&SiteID=3&X=' + browDateTime + '" width="175" height="50" Marginwidth=0 Marginheight=0 Hspace=0 Vspace=0 Frameborder=0 Scrolling=No Height="90"></ifr'+'ame>'); }
- else if ((browVersion>=4)&&(ua.indexOf("mac")==-1))
- { document.write('<S'+'CRIPT src="http://bmp.outreach.com/banman.asp?ZoneID=64&Task=Get&Browser=NETSCAPE4&SiteID=3">');
- document.write('</'+'scr'+'ipt>');
- document.write(adcode); }
- else if (browVersion>=3) 
- { document.write('<A HREF="http://bmp.outreach.com/banman.asp?ZoneID=64&Task=Click&Mode=HTML&SiteID=3&PageID=63395&RandomNumber=' + browDateTime + '" target="_new"><IMG SRC="http://bmp.outreach.com/banman.asp?ZoneID=64&Task=Get&Mode=HTML&SiteID=3&PageID=63395&RandomNumber=' + browDateTime + '" width="175" height="50" border="0"></A>'); } } 
- if (browName=='Microsoft Internet Explorer') 
- { document.write('<ifr'+'ame src="http://bmp.outreach.com/banman.asp?ZoneID=64&Task=Get&SiteID=3&X=' + browDateTime + '" width=175 height=50 Marginwidth=0 Marginheight=0 Hspace=0 Vspace=0 Frameborder=0 Scrolling=No  Height="90"></ifr'+'ame>') }; 
- // --> 
- </script><iframe src="http://bmp.outreach.com/banman.asp?ZoneID=64&amp;Task=Get&amp;Browser=NETSCAPE6&amp;SiteID=3&amp;X=1580569536283" width="175" height="50" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="No"></iframe> 
- <noscript> 
- <a href="http://bmp.outreach.com/banman.asp?ZoneID=64&Task=Click&Mode=HTML&SiteID=3&PageID=63395" target="_new">
- <img src="http://bmp.outreach.com/banman.asp?ZoneID=64&Task=Get&Mode=HTML&SiteID=3&PageID=63395" width="175" height="50" border="0"></a>
- </noscript> </div>
-        <div style="float:left;padding-right:11px;"> <script language="JAVASCRIPT">
- <!-- 
- var browName = navigator.appName;
- var browDateTime = (new Date()).getTime();
- var browVersion = parseInt(navigator.appVersion);
- var ua=navigator.userAgent.toLowerCase();
- var adcode='';
- if (browName=='Netscape'){
- if (browVersion>=5)
- { document.write('<ifr'+'ame src="http://bmp.outreach.com/banman.asp?ZoneID=65&Task=Get&Browser=NETSCAPE6&SiteID=3&X=' + browDateTime + '" width="175" height="50" Marginwidth=0 Marginheight=0 Hspace=0 Vspace=0 Frameborder=0 Scrolling=No Height="90"></ifr'+'ame>'); }
- else if ((browVersion>=4)&&(ua.indexOf("mac")==-1))
- { document.write('<S'+'CRIPT src="http://bmp.outreach.com/banman.asp?ZoneID=65&Task=Get&Browser=NETSCAPE4&SiteID=3">');
- document.write('</'+'scr'+'ipt>');
- document.write(adcode); }
- else if (browVersion>=3) 
- { document.write('<A HREF="http://bmp.outreach.com/banman.asp?ZoneID=65&Task=Click&Mode=HTML&SiteID=3&PageID=63395&RandomNumber=' + browDateTime + '" target="_new"><IMG SRC="http://bmp.outreach.com/banman.asp?ZoneID=65&Task=Get&Mode=HTML&SiteID=3&PageID=63395&RandomNumber=' + browDateTime + '" width="175" height="50" border="0"></A>'); } } 
- if (browName=='Microsoft Internet Explorer') 
- { document.write('<ifr'+'ame src="http://bmp.outreach.com/banman.asp?ZoneID=65&Task=Get&SiteID=3&X=' + browDateTime + '" width=175 height=50 Marginwidth=0 Marginheight=0 Hspace=0 Vspace=0 Frameborder=0 Scrolling=No  Height="90"></ifr'+'ame>') }; 
- // --> 
- </script><iframe src="http://bmp.outreach.com/banman.asp?ZoneID=65&amp;Task=Get&amp;Browser=NETSCAPE6&amp;SiteID=3&amp;X=1580569536286" width="175" height="50" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="No"></iframe> 
- <noscript> 
- <a href="http://bmp.outreach.com/banman.asp?ZoneID=65&Task=Click&Mode=HTML&SiteID=3&PageID=63395" target="_new">
- <img src="http://bmp.outreach.com/banman.asp?ZoneID=65&Task=Get&Mode=HTML&SiteID=3&PageID=63395" width="175" height="50" border="0"></a>
- </noscript> </div>
-        <div style="float:left;padding-right:11px;"> <script language="JAVASCRIPT">
- <!-- 
- var browName = navigator.appName;
- var browDateTime = (new Date()).getTime();
- var browVersion = parseInt(navigator.appVersion);
- var ua=navigator.userAgent.toLowerCase();
- var adcode='';
- if (browName=='Netscape'){
- if (browVersion>=5)
- { document.write('<ifr'+'ame src="http://bmp.outreach.com/banman.asp?ZoneID=66&Task=Get&Browser=NETSCAPE6&SiteID=3&X=' + browDateTime + '" width="175" height="50" Marginwidth=0 Marginheight=0 Hspace=0 Vspace=0 Frameborder=0 Scrolling=No Height="90"></ifr'+'ame>'); }
- else if ((browVersion>=4)&&(ua.indexOf("mac")==-1))
- { document.write('<S'+'CRIPT src="http://bmp.outreach.com/banman.asp?ZoneID=66&Task=Get&Browser=NETSCAPE4&SiteID=3">');
- document.write('</'+'scr'+'ipt>');
- document.write(adcode); }
- else if (browVersion>=3) 
- { document.write('<A HREF="http://bmp.outreach.com/banman.asp?ZoneID=66&Task=Click&Mode=HTML&SiteID=3&PageID=63395&RandomNumber=' + browDateTime + '" target="_new"><IMG SRC="http://bmp.outreach.com/banman.asp?ZoneID=66&Task=Get&Mode=HTML&SiteID=3&PageID=63395&RandomNumber=' + browDateTime + '" width="175" height="50" border="0"></A>'); } } 
- if (browName=='Microsoft Internet Explorer') 
- { document.write('<ifr'+'ame src="http://bmp.outreach.com/banman.asp?ZoneID=66&Task=Get&SiteID=3&X=' + browDateTime + '" width=175 height=50 Marginwidth=0 Marginheight=0 Hspace=0 Vspace=0 Frameborder=0 Scrolling=No  Height="90"></ifr'+'ame>') }; 
- // --> 
- </script><iframe src="http://bmp.outreach.com/banman.asp?ZoneID=66&amp;Task=Get&amp;Browser=NETSCAPE6&amp;SiteID=3&amp;X=1580569536289" width="175" height="50" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="No"></iframe> 
- <noscript> 
- <a href="http://bmp.outreach.com/banman.asp?ZoneID=66&Task=Click&Mode=HTML&SiteID=3&PageID=63395" target="_new">
- <img src="http://bmp.outreach.com/banman.asp?ZoneID=66&Task=Get&Mode=HTML&SiteID=3&PageID=63395" width="175" height="50" border="0"></a>
- </noscript> </div>
+<div style="float:left;padding-right:11px;"> 
+<!-- Begin -  Site: SermonCentral Zone: SC_Sponsor_175x50_1 -->
+<script language="javascript" type="text/javascript">
+<!--
+var browName = navigator.appName;
+var browDateTime = (new Date()).getTime();
+var browVersion = parseInt(navigator.appVersion);
+var ua=navigator.userAgent.toLowerCase();
+var adcode='';
+if (browName=='Netscape'){
+     if (browVersion>=5) 
+          { document.write('<ifr'+'ame src="http://bmp.outreach.com/a.aspx?ZoneID=63&amp;Task=Get&amp;Browser=NETSCAPE6&amp;PageID=54527&amp;SiteID=3&amp;X=' + browDateTime  + '" width=175 height=50 Marginwidth=0 Marginheight=0 Hspace=0 Vspace=0 Frameborder=0 Scrolling=No></ifr'+'ame>'); }
+     else if ((browVersion>=4)&&(ua.indexOf("mac")==-1))
+          { document.write('<s'+'cript src="http://bmp.outreach.com/a.aspx?ZoneID=63&amp;Task=Get&amp;Browser=NETSCAPE4&amp;PageID=54527&amp;SiteID=3&amp;X=' + browDateTime  + '">');
+          document.write('</'+'scr'+'ipt>');
+          document.write(adcode); }
+     else if (browVersion>=3) 
+          { document.write('<a href="http://bmp.outreach.com/a.aspx?ZoneID=63&Task=Click&Mode=HTML&SiteID=3&PageID=54527&X=' + browDateTime + '&RandomNumber=' + browDateTime  + '" target="_blank"><img src="http://bmp.outreach.com/a.aspx?ZoneID=63&amp;Task=Get&amp;Mode=HTML&amp;SiteID=3&amp;PageID=54527&X=' + browDateTime + '&RandomNumber=' + browDateTime  + '" width="175" height="50" border="0" alt=""></a>'); } }
+else
+     { document.write('<ifr'+'ame src="http://bmp.outreach.com/a.aspx?ZoneID=63&amp;Task=Get&amp;SiteID=3&amp;PageID=54527&amp;X=' + browDateTime  + '" width=175 height=50 Marginwidth=0 Marginheight=0 Hspace=0 Vspace=0 Frameborder=0 Scrolling=No></ifr'+'ame>'); }
+// --> 
+</script><iframe src="http://bmp.outreach.com/a.aspx?ZoneID=63&amp;Task=Get&amp;Browser=NETSCAPE6&amp;PageID=54527&amp;SiteID=3&amp;X=1580569530998" width="175" height="50" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="No"></iframe>
+<noscript>
+    <a href="http://bmp.outreach.com/a.aspx?ZoneID=63&Task=Click&Mode=HTML&SiteID=3&PageID=54527" target="_blank">
+    <img src="http://bmp.outreach.com/a.aspx?ZoneID=63&amp;Task=Get&amp;Mode=HTML&amp;SiteID=3&amp;PageID=54527" width="175" height="50" border="0"  alt=""></a>
+</noscript>
+<!-- End -  Site: SermonCentral Zone: SC_Sponsor_175x50_1 -->
+</div>
+<div style="float:left;padding-right:11px;"> 
+<!-- Begin -  Site: SermonCentral Zone: SC_Sponsor_175x50_2 -->
+<script language="javascript" type="text/javascript">
+<!--
+var browName = navigator.appName;
+var browDateTime = (new Date()).getTime();
+var browVersion = parseInt(navigator.appVersion);
+var ua=navigator.userAgent.toLowerCase();
+var adcode='';
+if (browName=='Netscape'){
+     if (browVersion>=5) 
+          { document.write('<ifr'+'ame src="http://bmp.outreach.com/a.aspx?ZoneID=64&amp;Task=Get&amp;Browser=NETSCAPE6&amp;PageID=70315&amp;SiteID=3&amp;X=' + browDateTime  + '" width=175 height=50 Marginwidth=0 Marginheight=0 Hspace=0 Vspace=0 Frameborder=0 Scrolling=No></ifr'+'ame>'); }
+     else if ((browVersion>=4)&&(ua.indexOf("mac")==-1))
+          { document.write('<s'+'cript src="http://bmp.outreach.com/a.aspx?ZoneID=64&amp;Task=Get&amp;Browser=NETSCAPE4&amp;PageID=70315&amp;SiteID=3&amp;X=' + browDateTime  + '">');
+          document.write('</'+'scr'+'ipt>');
+          document.write(adcode); }
+     else if (browVersion>=3) 
+          { document.write('<a href="http://bmp.outreach.com/a.aspx?ZoneID=64&Task=Click&Mode=HTML&SiteID=3&PageID=70315&X=' + browDateTime + '&RandomNumber=' + browDateTime  + '" target="_blank"><img src="http://bmp.outreach.com/a.aspx?ZoneID=64&amp;Task=Get&amp;Mode=HTML&amp;SiteID=3&amp;PageID=70315&X=' + browDateTime + '&RandomNumber=' + browDateTime  + '" width="175" height="50" border="0" alt=""></a>'); } }
+else
+     { document.write('<ifr'+'ame src="http://bmp.outreach.com/a.aspx?ZoneID=64&amp;Task=Get&amp;SiteID=3&amp;PageID=70315&amp;X=' + browDateTime  + '" width=175 height=50 Marginwidth=0 Marginheight=0 Hspace=0 Vspace=0 Frameborder=0 Scrolling=No></ifr'+'ame>'); }
+// --> 
+</script><iframe src="http://bmp.outreach.com/a.aspx?ZoneID=64&amp;Task=Get&amp;Browser=NETSCAPE6&amp;PageID=70315&amp;SiteID=3&amp;X=1580569531001" width="175" height="50" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="No"></iframe>
+<noscript>
+    <a href="http://bmp.outreach.com/a.aspx?ZoneID=64&Task=Click&Mode=HTML&SiteID=3&PageID=70315" target="_blank">
+    <img src="http://bmp.outreach.com/a.aspx?ZoneID=64&amp;Task=Get&amp;Mode=HTML&amp;SiteID=3&amp;PageID=70315" width="175" height="50" border="0"  alt=""></a>
+</noscript>
+<!-- End -  Site: SermonCentral Zone: SC_Sponsor_175x50_2 -->
+</div>
+<div style="float:left;padding-right:11px;"> 
+<!-- Begin -  Site: SermonCentral Zone: SC_Sponsor_175x50_3 -->
+<script language="javascript" type="text/javascript">
+<!--
+var browName = navigator.appName;
+var browDateTime = (new Date()).getTime();
+var browVersion = parseInt(navigator.appVersion);
+var ua=navigator.userAgent.toLowerCase();
+var adcode='';
+if (browName=='Netscape'){
+     if (browVersion>=5) 
+          { document.write('<ifr'+'ame src="http://bmp.outreach.com/a.aspx?ZoneID=65&amp;Task=Get&amp;Browser=NETSCAPE6&amp;PageID=68420&amp;SiteID=3&amp;X=' + browDateTime  + '" width=175 height=50 Marginwidth=0 Marginheight=0 Hspace=0 Vspace=0 Frameborder=0 Scrolling=No></ifr'+'ame>'); }
+     else if ((browVersion>=4)&&(ua.indexOf("mac")==-1))
+          { document.write('<s'+'cript src="http://bmp.outreach.com/a.aspx?ZoneID=65&amp;Task=Get&amp;Browser=NETSCAPE4&amp;PageID=68420&amp;SiteID=3&amp;X=' + browDateTime  + '">');
+          document.write('</'+'scr'+'ipt>');
+          document.write(adcode); }
+     else if (browVersion>=3) 
+          { document.write('<a href="http://bmp.outreach.com/a.aspx?ZoneID=65&Task=Click&Mode=HTML&SiteID=3&PageID=68420&X=' + browDateTime + '&RandomNumber=' + browDateTime  + '" target="_blank"><img src="http://bmp.outreach.com/a.aspx?ZoneID=65&amp;Task=Get&amp;Mode=HTML&amp;SiteID=3&amp;PageID=68420&X=' + browDateTime + '&RandomNumber=' + browDateTime  + '" width="175" height="50" border="0" alt=""></a>'); } }
+else
+     { document.write('<ifr'+'ame src="http://bmp.outreach.com/a.aspx?ZoneID=65&amp;Task=Get&amp;SiteID=3&amp;PageID=68420&amp;X=' + browDateTime  + '" width=175 height=50 Marginwidth=0 Marginheight=0 Hspace=0 Vspace=0 Frameborder=0 Scrolling=No></ifr'+'ame>'); }
+// --> 
+</script><iframe src="http://bmp.outreach.com/a.aspx?ZoneID=65&amp;Task=Get&amp;Browser=NETSCAPE6&amp;PageID=68420&amp;SiteID=3&amp;X=1580569531005" width="175" height="50" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="No"></iframe>
+<noscript>
+    <a href="http://bmp.outreach.com/a.aspx?ZoneID=65&Task=Click&Mode=HTML&SiteID=3&PageID=68420" target="_blank">
+    <img src="http://bmp.outreach.com/a.aspx?ZoneID=65&amp;Task=Get&amp;Mode=HTML&amp;SiteID=3&amp;PageID=68420" width="175" height="50" border="0"  alt=""></a>
+</noscript>
+<!-- End -  Site: SermonCentral Zone: SC_Sponsor_175x50_3 -->
+</div>
+<div style="float:left;padding-right:11px;"> 
+<!-- Begin -  Site: SermonCentral Zone: SC_Sponsor_175x50_4 -->
+<script language="javascript" type="text/javascript">
+<!--
+var browName = navigator.appName;
+var browDateTime = (new Date()).getTime();
+var browVersion = parseInt(navigator.appVersion);
+var ua=navigator.userAgent.toLowerCase();
+var adcode='';
+if (browName=='Netscape'){
+     if (browVersion>=5) 
+          { document.write('<ifr'+'ame src="http://bmp.outreach.com/a.aspx?ZoneID=66&amp;Task=Get&amp;Browser=NETSCAPE6&amp;PageID=22680&amp;SiteID=3&amp;X=' + browDateTime  + '" width=175 height=50 Marginwidth=0 Marginheight=0 Hspace=0 Vspace=0 Frameborder=0 Scrolling=No></ifr'+'ame>'); }
+     else if ((browVersion>=4)&&(ua.indexOf("mac")==-1))
+          { document.write('<s'+'cript src="http://bmp.outreach.com/a.aspx?ZoneID=66&amp;Task=Get&amp;Browser=NETSCAPE4&amp;PageID=22680&amp;SiteID=3&amp;X=' + browDateTime  + '">');
+          document.write('</'+'scr'+'ipt>');
+          document.write(adcode); }
+     else if (browVersion>=3) 
+          { document.write('<a href="http://bmp.outreach.com/a.aspx?ZoneID=66&Task=Click&Mode=HTML&SiteID=3&PageID=22680&X=' + browDateTime + '&RandomNumber=' + browDateTime  + '" target="_blank"><img src="http://bmp.outreach.com/a.aspx?ZoneID=66&amp;Task=Get&amp;Mode=HTML&amp;SiteID=3&amp;PageID=22680&X=' + browDateTime + '&RandomNumber=' + browDateTime  + '" width="175" height="50" border="0" alt=""></a>'); } }
+else
+     { document.write('<ifr'+'ame src="http://bmp.outreach.com/a.aspx?ZoneID=66&amp;Task=Get&amp;SiteID=3&amp;PageID=22680&amp;X=' + browDateTime  + '" width=175 height=50 Marginwidth=0 Marginheight=0 Hspace=0 Vspace=0 Frameborder=0 Scrolling=No></ifr'+'ame>'); }
+// --> 
+</script><iframe src="http://bmp.outreach.com/a.aspx?ZoneID=66&amp;Task=Get&amp;Browser=NETSCAPE6&amp;PageID=22680&amp;SiteID=3&amp;X=1580569531009" width="175" height="50" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="No"></iframe>
+<noscript>
+    <a href="http://bmp.outreach.com/a.aspx?ZoneID=66&Task=Click&Mode=HTML&SiteID=3&PageID=22680" target="_blank">
+    <img src="http://bmp.outreach.com/a.aspx?ZoneID=66&amp;Task=Get&amp;Mode=HTML&amp;SiteID=3&amp;PageID=22680" width="175" height="50" border="0"  alt=""></a>
+</noscript>
+<!-- End -  Site: SermonCentral Zone: SC_Sponsor_175x50_4 -->
+</div>
 <div style="float:left;"> 
 <!-- Begin -  Site: SermonCentral Zone: SC_Sponsor_175x50_5 -->
 <script language="javascript" type="text/javascript">
 <!--
 var browName = navigator.appName;
-var SiteID = 3;
-var ZoneID = 99;
 var browDateTime = (new Date()).getTime();
-if (browName=='Netscape')
-{
-document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://bmp.outreach.com/a.aspx?ZoneID=' + ZoneID + '&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=9095&amp;SiteID=' + SiteID + '&amp;Random=' + browDateTime  + '">'); document.write('</'+'scr'+'ipt>');
-}
-if (browName!='Netscape')
-{
-document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://bmp.outreach.com/a.aspx?ZoneID=' + ZoneID + '&amp;Task=Get&amp;IFR=False&amp;PageID=9095&amp;SiteID=' + SiteID + '&amp;Random=' + browDateTime  + '">'); document.write('</'+'scr'+'ipt>');
-}
+var browVersion = parseInt(navigator.appVersion);
+var ua=navigator.userAgent.toLowerCase();
+var adcode='';
+if (browName=='Netscape'){
+     if (browVersion>=5) 
+          { document.write('<ifr'+'ame src="http://bmp.outreach.com/a.aspx?ZoneID=99&amp;Task=Get&amp;Browser=NETSCAPE6&amp;PageID=89500&amp;SiteID=3&amp;X=' + browDateTime  + '" width=175 height=50 Marginwidth=0 Marginheight=0 Hspace=0 Vspace=0 Frameborder=0 Scrolling=No></ifr'+'ame>'); }
+     else if ((browVersion>=4)&&(ua.indexOf("mac")==-1))
+          { document.write('<s'+'cript src="http://bmp.outreach.com/a.aspx?ZoneID=99&amp;Task=Get&amp;Browser=NETSCAPE4&amp;PageID=89500&amp;SiteID=3&amp;X=' + browDateTime  + '">');
+          document.write('</'+'scr'+'ipt>');
+          document.write(adcode); }
+     else if (browVersion>=3) 
+          { document.write('<a href="http://bmp.outreach.com/a.aspx?ZoneID=99&Task=Click&Mode=HTML&SiteID=3&PageID=89500&X=' + browDateTime + '&RandomNumber=' + browDateTime  + '" target="_blank"><img src="http://bmp.outreach.com/a.aspx?ZoneID=99&amp;Task=Get&amp;Mode=HTML&amp;SiteID=3&amp;PageID=89500&X=' + browDateTime + '&RandomNumber=' + browDateTime  + '" width="175" height="50" border="0" alt=""></a>'); } }
+else
+     { document.write('<ifr'+'ame src="http://bmp.outreach.com/a.aspx?ZoneID=99&amp;Task=Get&amp;SiteID=3&amp;PageID=89500&amp;X=' + browDateTime  + '" width=175 height=50 Marginwidth=0 Marginheight=0 Hspace=0 Vspace=0 Frameborder=0 Scrolling=No></ifr'+'ame>'); }
 // --> 
-</script><script language="javascript" src="http://bmp.outreach.com/a.aspx?ZoneID=99&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=9095&amp;SiteID=3&amp;Random=1580569536293"></script>
+</script><iframe src="http://bmp.outreach.com/a.aspx?ZoneID=99&amp;Task=Get&amp;Browser=NETSCAPE6&amp;PageID=89500&amp;SiteID=3&amp;X=1580569531012" width="175" height="50" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="No"></iframe>
 <noscript>
-    <a href="http://bmp.outreach.com/a.aspx?ZoneID=99&Task=Click&Mode=HTML&SiteID=3&PageID=9095" target="_blank">
-    <img src="http://bmp.outreach.com/a.aspx?ZoneID=99&Task=Get&Mode=HTML&SiteID=3&PageID=9095" width="175" height="50" border="0"  alt=""></a>
+    <a href="http://bmp.outreach.com/a.aspx?ZoneID=99&Task=Click&Mode=HTML&SiteID=3&PageID=89500" target="_blank">
+    <img src="http://bmp.outreach.com/a.aspx?ZoneID=99&Task=Get&Mode=HTML&SiteID=3&PageID=89500" width="175" height="50" border="0"  alt=""></a>
 </noscript>
-<!-- End -  Site: SermonCentral Zone: SC_Sponsor_175x50_5 --></div>
+<!-- End -  Site: SermonCentral Zone: SC_Sponsor_175x50_5 -->
+
+</div>
 <div style="clear:both"></div><!-- End: Content Element --><!-- Begin: Content Element --><style type="text/css">
 
 ul.footerMiddle{
@@ -1077,256 +951,273 @@ padding:0 30px;
     <li><a href="/preacherspledge.asp" title="Preacher's Pledge">Preacher's Pledge</a></li>
     <li><a href="/Sermons/SearchResults.asp?advancedsearch=1&amp;lang=Spanish&amp;submitted=1" title="Spanish Sermons" style="padding-right:0;">Spanish Sermons</a></li>
 </ul>
-<div style="clear:both;border-bottom:1px #787878 solid;"></div><!-- End: Content Element --><!-- Begin: Content Element --><div class="footerBottomColumn" style="margin-left:20px">
-	<div>SermonCentral.com</div>
-	<ul class="resource-column">
-<li><a href="/email_support.asp" title="Contact Us"><b>Contact Us</b></a></li>
-        <li><a href="/rssfeeds.asp" title="RSS Feeds">RSS Feeds</a></li>
-        <li><a href="/sermon-topics" title="Browse Sermons, Illustration, PowerPoints and Videos by Topic">Topic Browser</a></li>
-        <!--<li><a href="/MediaVault" title="Free PRO Video of the Week">Video of the Week</a></li>-->
-        <li><a href="/articles/articles.asp" title="For Pastors &amp; Leaders - Article Archive">Article Archive</a></li>
-        <li><a href="/?ShowNewsletterSignup=true" title="Newsletter Signup">Newsletter Signup</a></li>
+<div style="clear:both;border-bottom:1px #787878 solid;"></div><!-- End: Content Element --><!-- Begin: Content Element --><!-- SERMONCENTRAL LINKS -->
+<div class="footerBottomColumn" style="margin-left:20px">
+	<div>SermonCentral</div>
+    <ul class="resource-column" style="vertical-align:top;">
+        <li><a href="/email_support.asp" title="Contact SermonCentral Support and PRO Membership Help">Contact Us</a></li>
+        <li><a href="/article.asp?article=About_Us" title="About SermonCentral the largets collection of Pastor contributed sermons with complementary church media on the web">About SermonCentral</a></li>
+        <li><a href="/articleb.asp?article=privacy-policy" title="SermonCentral Privacy Policy">Privacy Policy</a> · <a href="/article.asp?article=FAQs" title="SermonCentral FAQ's">FAQ's</a></li>
+        <li><a href="/termsandconditions.asp" title="Terms &amp; Conditions for SermonCentral">Terms &amp; Conditions</a></li>
+        <li><a href="/rssfeeds.asp" title="RSS Feeds for Sermons contributed by Top Pastors">RSS Feeds</a></li>
     </ul>
-    <ul class="resource-column" style="margin-left:10px;">
-        <li><a class="external" href="http://outreachmediagroup.com/advertising-options/SermonCentral-advertising" title="Advertise on SermonCentral.com" target="_blank">Advertise With Us</a></li>
+    <ul class="resource-column" style="margin-left:10px; vertical-align:top;">
+        <li><a href="http://outreachmediagroup.com/advertising-options/SermonCentral-advertising" title="Advertise on SermonCentral through Outreach Media Group, market to Churches, Pastors, Preachers, ChurchLeaders" target="_blank" onclick="_gaq.push(['_setCustomVar', 5, 'OMG-Hardcoded-Links', 'Footer-Advertise-on-SermonCentral', 3]);_gaq.push(['_trackPageview']);">Advertise with Us</a></li>
         <li><a href="/createcontributor.asp" title="Contribute Sermons">Contribute Sermons</a></li>
-        <li><a href="/articleb.asp?article=privacy-policy" title="Privacy Policy">Privacy Policy</a> • <a href="/article.asp?article=FAQs" title="FAQ's">FAQ's</a></li>
-        <li><a href="/article.asp?article=About_Us" title="About Us">About Us</a></li>
-        <li><a href="/termsandconditions.asp" title="Terms &amp; Conditions">Terms &amp; Conditions</a></li>
-	</ul>
+        <li><a href="/sermon-topics" title="Browse Sermons, Illustration, PowerPoint files and Videos by Topic">Sermon Topic Browser</a></li>
+        <li><a href="/articles/articles.asp" title="For Pastors, Preachers and Church Leaders - Leadership and How To Articles">Better Preaching Articles</a></li>
+        <li><a href="/?ShowNewsletterSignup=true" title="Better Preaching Newsletter Signup">Signup for Newsletter</a></li>
+    </ul>
 </div>
 
+	
+<!-- ADDITIONAL RESOURCES-->
 <div class="footerBottomColumn">
-	<div>Additional Resources</div>
-    <ul class="resource-column">
-        <li class="banmanAd" style="margin-top:1px;"><!-- Begin -  Site: SermonCentral Zone: SC4_FooterTextAd1 -->
-<script language="javascript" type="text/javascript">
-<!--
-var browName = navigator.appName;
-var SiteID = 3;
-var ZoneID = 100;
-var browDateTime = (new Date()).getTime();
-if (browName=='Netscape')
-{
-document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://bmp.outreach.com/a.aspx?ZoneID=' + ZoneID + '&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=97442&amp;SiteID=' + SiteID + '&amp;Random=' + browDateTime  + '">'); document.write('</'+'scr'+'ipt>');
-}
-if (browName!='Netscape')
-{
-document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://bmp.outreach.com/a.aspx?ZoneID=' + ZoneID + '&amp;Task=Get&amp;IFR=False&amp;PageID=97442&amp;SiteID=' + SiteID + '&amp;Random=' + browDateTime  + '">'); document.write('</'+'scr'+'ipt>');
-}
-// --> 
-</script><script language="javascript" src="http://bmp.outreach.com/a.aspx?ZoneID=100&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=97442&amp;SiteID=3&amp;Random=1580569536319"></script>
-<noscript>
-    <a href="http://bmp.outreach.com/a.aspx?ZoneID=100&Task=Click&Mode=HTML&SiteID=3&PageID=97442" target="_blank">
-    <img src="http://bmp.outreach.com/a.aspx?ZoneID=100&Task=Get&Mode=HTML&SiteID=3&PageID=97442" width="135" height="16" border="0"  alt=""></a>
-</noscript>
-<!-- End -  Site: SermonCentral Zone: SC4_FooterTextAd1 --></li>
-        <li><!-- Begin -  Site: SermonCentral Zone: SC4_FooterTextAd_02 -->
-<script language="javascript" type="text/javascript">
-<!--
-var browName = navigator.appName;
-var SiteID = 3;
-var ZoneID = 101;
-var browDateTime = (new Date()).getTime();
-if (browName=='Netscape')
-{
-document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://bmp.outreach.com/a.aspx?ZoneID=' + ZoneID + '&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=85990&amp;SiteID=' + SiteID + '&amp;Random=' + browDateTime  + '">'); document.write('</'+'scr'+'ipt>');
-}
-if (browName!='Netscape')
-{
-document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://bmp.outreach.com/a.aspx?ZoneID=' + ZoneID + '&amp;Task=Get&amp;IFR=False&amp;PageID=85990&amp;SiteID=' + SiteID + '&amp;Random=' + browDateTime  + '">'); document.write('</'+'scr'+'ipt>');
-}
-// --> 
-</script><script language="javascript" src="http://bmp.outreach.com/a.aspx?ZoneID=101&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=85990&amp;SiteID=3&amp;Random=1580569536320"></script>
-<noscript>
-    <a href="http://bmp.outreach.com/a.aspx?ZoneID=101&Task=Click&Mode=HTML&SiteID=3&PageID=85990" target="_blank">
-    <img src="http://bmp.outreach.com/a.aspx?ZoneID=101&Task=Get&Mode=HTML&SiteID=3&PageID=85990" width="135" height="16" border="0"  alt=""></a>
-</noscript>
-<!-- End -  Site: SermonCentral Zone: SC4_FooterTextAd_02 --></li>
-        <li><!-- Begin -  Site: SermonCentral Zone: SC4_FooterTextAd_03 -->
-<script language="javascript" type="text/javascript">
-<!--
-var browName = navigator.appName;
-var SiteID = 3;
-var ZoneID = 102;
-var browDateTime = (new Date()).getTime();
-if (browName=='Netscape')
-{
-document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://bmp.outreach.com/a.aspx?ZoneID=' + ZoneID + '&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=14869&amp;SiteID=' + SiteID + '&amp;Random=' + browDateTime  + '">'); document.write('</'+'scr'+'ipt>');
-}
-if (browName!='Netscape')
-{
-document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://bmp.outreach.com/a.aspx?ZoneID=' + ZoneID + '&amp;Task=Get&amp;IFR=False&amp;PageID=14869&amp;SiteID=' + SiteID + '&amp;Random=' + browDateTime  + '">'); document.write('</'+'scr'+'ipt>');
-}
-// --> 
-</script><script language="javascript" src="http://bmp.outreach.com/a.aspx?ZoneID=102&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=14869&amp;SiteID=3&amp;Random=1580569536322"></script>
-<noscript>
-    <a href="http://bmp.outreach.com/a.aspx?ZoneID=102&Task=Click&Mode=HTML&SiteID=3&PageID=14869" target="_blank">
-    <img src="http://bmp.outreach.com/a.aspx?ZoneID=102&Task=Get&Mode=HTML&SiteID=3&PageID=14869" width="135" height="16" border="0"  alt=""></a>
-</noscript>
-<!-- End -  Site: SermonCentral Zone: SC4_FooterTextAd_03 --></li>
-        <li><!-- Begin -  Site: SermonCentral Zone: SC4_FooterTextAd_04 -->
-<script language="javascript" type="text/javascript">
-<!--
-var browName = navigator.appName;
-var SiteID = 3;
-var ZoneID = 103;
-var browDateTime = (new Date()).getTime();
-if (browName=='Netscape')
-{
-document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://bmp.outreach.com/a.aspx?ZoneID=' + ZoneID + '&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=55301&amp;SiteID=' + SiteID + '&amp;Random=' + browDateTime  + '">'); document.write('</'+'scr'+'ipt>');
-}
-if (browName!='Netscape')
-{
-document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://bmp.outreach.com/a.aspx?ZoneID=' + ZoneID + '&amp;Task=Get&amp;IFR=False&amp;PageID=55301&amp;SiteID=' + SiteID + '&amp;Random=' + browDateTime  + '">'); document.write('</'+'scr'+'ipt>');
-}
-// --> 
-</script><script language="javascript" src="http://bmp.outreach.com/a.aspx?ZoneID=103&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=55301&amp;SiteID=3&amp;Random=1580569536323"></script>
-<noscript>
-    <a href="http://bmp.outreach.com/a.aspx?ZoneID=103&Task=Click&Mode=HTML&SiteID=3&PageID=55301" target="_blank">
-    <img src="http://bmp.outreach.com/a.aspx?ZoneID=103&Task=Get&Mode=HTML&SiteID=3&PageID=55301" width="135" height="16" border="0"  alt=""></a>
-</noscript>
-<!-- End -  Site: SermonCentral Zone: SC4_FooterTextAd_04 --></li>
-        <li><!-- Begin -  Site: SermonCentral Zone: SC4_FooterTextAd_05 -->
-<script language="javascript" type="text/javascript">
-<!--
-var browName = navigator.appName;
-var SiteID = 3;
-var ZoneID = 104;
-var browDateTime = (new Date()).getTime();
-if (browName=='Netscape')
-{
-document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://bmp.outreach.com/a.aspx?ZoneID=' + ZoneID + '&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=99559&amp;SiteID=' + SiteID + '&amp;Random=' + browDateTime  + '">'); document.write('</'+'scr'+'ipt>');
-}
-if (browName!='Netscape')
-{
-document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://bmp.outreach.com/a.aspx?ZoneID=' + ZoneID + '&amp;Task=Get&amp;IFR=False&amp;PageID=99559&amp;SiteID=' + SiteID + '&amp;Random=' + browDateTime  + '">'); document.write('</'+'scr'+'ipt>');
-}
-// --> 
-</script><script language="javascript" src="http://bmp.outreach.com/a.aspx?ZoneID=104&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=99559&amp;SiteID=3&amp;Random=1580569536324"></script>
-<noscript>
-    <a href="http://bmp.outreach.com/a.aspx?ZoneID=104&Task=Click&Mode=HTML&SiteID=3&PageID=99559" target="_blank">
-    <img src="http://bmp.outreach.com/a.aspx?ZoneID=104&Task=Get&Mode=HTML&SiteID=3&PageID=99559" width="135" height="16" border="0"  alt=""></a>
-</noscript>
-<!-- End -  Site: SermonCentral Zone: SC4_FooterTextAd_05 --></li>
-    </ul>
+    <div>Additional Resources</div>
+    <ul class="resource-column" style="vertical-align:top;">
+        
+        <li class="banmanAd" style="margin-top:1px;">
+            <!-- Begin -  Site: SermonCentral Zone: SC4_FooterTextAd_01 -->
+			<script language="javascript" type="text/javascript">
+            <!--
+            var browName = navigator.appName;
+            var browDateTime = (new Date()).getTime();
+            var browVersion = parseInt(navigator.appVersion);
+            var ua=navigator.userAgent.toLowerCase();
+            var adcode='';
+            if (browName=='Netscape'){
+                 if (browVersion>=5) 
+                      { document.write('<ifr'+'ame src="http://bmp.outreach.com/a.aspx?ZoneID=100&amp;Task=Get&amp;Browser=NETSCAPE6&amp;PageID=95726&amp;SiteID=3&amp;X=' + browDateTime  + '" width=135 height=16 Marginwidth=0 Marginheight=0 Hspace=0 Vspace=0 Frameborder=0 Scrolling=No></ifr'+'ame>'); }
+                 else if ((browVersion>=4)&&(ua.indexOf("mac")==-1))
+                      { document.write('<s'+'cript src="http://bmp.outreach.com/a.aspx?ZoneID=100&amp;Task=Get&amp;Browser=NETSCAPE4&amp;PageID=95726&amp;SiteID=3&amp;X=' + browDateTime  + '">');
+                      document.write('</'+'scr'+'ipt>');
+                      document.write(adcode); }
+                 else if (browVersion>=3) 
+                      { document.write('<a href="http://bmp.outreach.com/a.aspx?ZoneID=100&Task=Click&Mode=HTML&SiteID=3&PageID=95726&X=' + browDateTime + '&RandomNumber=' + browDateTime  + '" target="_blank"><img src="http://bmp.outreach.com/a.aspx?ZoneID=100&amp;Task=Get&amp;Mode=HTML&amp;SiteID=3&amp;PageID=95726&X=' + browDateTime + '&RandomNumber=' + browDateTime  + '" width="135" height="16" border="0" alt=""></a>'); } }
+            else
+                 { document.write('<ifr'+'ame src="http://bmp.outreach.com/a.aspx?ZoneID=100&amp;Task=Get&amp;SiteID=3&amp;PageID=95726&amp;X=' + browDateTime  + '" width=135 height=16 Marginwidth=0 Marginheight=0 Hspace=0 Vspace=0 Frameborder=0 Scrolling=No></ifr'+'ame>'); }
+            // --> 
+            </script><iframe src="http://bmp.outreach.com/a.aspx?ZoneID=100&amp;Task=Get&amp;Browser=NETSCAPE6&amp;PageID=95726&amp;SiteID=3&amp;X=1580569531045" width="135" height="16" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="No"></iframe>
+            <noscript>
+                <a href="http://bmp.outreach.com/a.aspx?ZoneID=100&Task=Click&Mode=HTML&SiteID=3&PageID=95726" target="_blank">
+                <img src="http://bmp.outreach.com/a.aspx?ZoneID=100&Task=Get&Mode=HTML&SiteID=3&PageID=95726" width="135" height="16" border="0"  alt=""></a>
+            </noscript>
+            <!-- End -  Site: SermonCentral Zone: SC4_FooterTextAd_01 -->
+        </li>        
+        
+        <li class="banmanAd" style="margin-top:1px;">
+            <!-- Begin -  Site: SermonCentral Zone: SC4_FooterTextAd_02 -->
+			<script language="javascript" type="text/javascript">
+            <!--
+            var browName = navigator.appName;
+            var browDateTime = (new Date()).getTime();
+            var browVersion = parseInt(navigator.appVersion);
+            var ua=navigator.userAgent.toLowerCase();
+            var adcode='';
+            if (browName=='Netscape'){
+                 if (browVersion>=5) 
+                      { document.write('<ifr'+'ame src="http://bmp.outreach.com/a.aspx?ZoneID=101&amp;Task=Get&amp;Browser=NETSCAPE6&amp;PageID=42708&amp;SiteID=3&amp;X=' + browDateTime  + '" width=135 height=16 Marginwidth=0 Marginheight=0 Hspace=0 Vspace=0 Frameborder=0 Scrolling=No></ifr'+'ame>'); }
+                 else if ((browVersion>=4)&&(ua.indexOf("mac")==-1))
+                      { document.write('<s'+'cript src="http://bmp.outreach.com/a.aspx?ZoneID=101&amp;Task=Get&amp;Browser=NETSCAPE4&amp;PageID=42708&amp;SiteID=3&amp;X=' + browDateTime  + '">');
+                      document.write('</'+'scr'+'ipt>');
+                      document.write(adcode); }
+                 else if (browVersion>=3) 
+                      { document.write('<a href="http://bmp.outreach.com/a.aspx?ZoneID=101&Task=Click&Mode=HTML&SiteID=3&PageID=42708&X=' + browDateTime + '&RandomNumber=' + browDateTime  + '" target="_blank"><img src="http://bmp.outreach.com/a.aspx?ZoneID=101&amp;Task=Get&amp;Mode=HTML&amp;SiteID=3&amp;PageID=42708&X=' + browDateTime + '&RandomNumber=' + browDateTime  + '" width="135" height="16" border="0" alt=""></a>'); } }
+            else
+                 { document.write('<ifr'+'ame src="http://bmp.outreach.com/a.aspx?ZoneID=101&amp;Task=Get&amp;SiteID=3&amp;PageID=42708&amp;X=' + browDateTime  + '" width=135 height=16 Marginwidth=0 Marginheight=0 Hspace=0 Vspace=0 Frameborder=0 Scrolling=No></ifr'+'ame>'); }
+            // --> 
+            </script><iframe src="http://bmp.outreach.com/a.aspx?ZoneID=101&amp;Task=Get&amp;Browser=NETSCAPE6&amp;PageID=42708&amp;SiteID=3&amp;X=1580569531049" width="135" height="16" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="No"></iframe>
+            <noscript>
+                <a href="http://bmp.outreach.com/a.aspx?ZoneID=101&Task=Click&Mode=HTML&SiteID=3&PageID=42708" target="_blank">
+                <img src="http://bmp.outreach.com/a.aspx?ZoneID=101&Task=Get&Mode=HTML&SiteID=3&PageID=42708" width="135" height="16" border="0"  alt=""></a>
+            </noscript>
+            <!-- End -  Site: SermonCentral Zone: SC4_FooterTextAd_02 -->
+        </li>        
+        
+        <li class="banmanAd"><!-- HARDCODED: BACK TO CHURCH RESOURCES --><a href=" http://backtochurch.com/?utm_source=sermoncentral&amp;utm_medium=homepagetextlink" title="Back to Church postcards, bulletins, banners, and more for church outreach marketing" class="external" onclick="_gaq.push(['_setCustomVar', 5, 'OMG-Hardcoded-Links', 'Footer-Back-To-Church', 3]);_gaq.push(['_trackPageview']);" target="_blank">Back to Church</a></li>        
+        
+        <li class="banmanAd" style="margin-top:1px;">
+            <!-- Begin -  Site: SermonCentral Zone: SC4_FooterTextAd_04 -->
+			<script language="javascript" type="text/javascript">
+            <!--
+            var browName = navigator.appName;
+            var browDateTime = (new Date()).getTime();
+            var browVersion = parseInt(navigator.appVersion);
+            var ua=navigator.userAgent.toLowerCase();
+            var adcode='';
+            if (browName=='Netscape'){
+                 if (browVersion>=5) 
+                      { document.write('<ifr'+'ame src="http://bmp.outreach.com/a.aspx?ZoneID=103&amp;Task=Get&amp;Browser=NETSCAPE6&amp;PageID=77045&amp;SiteID=3&amp;X=' + browDateTime  + '" width=135 height=16 Marginwidth=0 Marginheight=0 Hspace=0 Vspace=0 Frameborder=0 Scrolling=No></ifr'+'ame>'); }
+                 else if ((browVersion>=4)&&(ua.indexOf("mac")==-1))
+                      { document.write('<s'+'cript src="http://bmp.outreach.com/a.aspx?ZoneID=103&amp;Task=Get&amp;Browser=NETSCAPE4&amp;PageID=77045&amp;SiteID=3&amp;X=' + browDateTime  + '">');
+                      document.write('</'+'scr'+'ipt>');
+                      document.write(adcode); }
+                 else if (browVersion>=3) 
+                      { document.write('<a href="http://bmp.outreach.com/a.aspx?ZoneID=103&Task=Click&Mode=HTML&SiteID=3&PageID=77045&X=' + browDateTime + '&RandomNumber=' + browDateTime  + '" target="_blank"><img src="http://bmp.outreach.com/a.aspx?ZoneID=103&amp;Task=Get&amp;Mode=HTML&amp;SiteID=3&amp;PageID=77045&X=' + browDateTime + '&RandomNumber=' + browDateTime  + '" width="135" height="16" border="0" alt=""></a>'); } }
+            else
+                 { document.write('<ifr'+'ame src="http://bmp.outreach.com/a.aspx?ZoneID=103&amp;Task=Get&amp;SiteID=3&amp;PageID=77045&amp;X=' + browDateTime  + '" width=135 height=16 Marginwidth=0 Marginheight=0 Hspace=0 Vspace=0 Frameborder=0 Scrolling=No></ifr'+'ame>'); }
+            // --> 
+            </script><iframe src="http://bmp.outreach.com/a.aspx?ZoneID=103&amp;Task=Get&amp;Browser=NETSCAPE6&amp;PageID=77045&amp;SiteID=3&amp;X=1580569531052" width="135" height="16" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="No"></iframe>
+            <noscript>
+                <a href="http://bmp.outreach.com/a.aspx?ZoneID=103&Task=Click&Mode=HTML&SiteID=3&PageID=77045" target="_blank">
+                <img src="http://bmp.outreach.com/a.aspx?ZoneID=103&Task=Get&Mode=HTML&SiteID=3&PageID=77045" width="135" height="16" border="0"  alt=""></a>
+            </noscript>
+            <!-- End -  Site: SermonCentral Zone: SC4_FooterTextAd_04 -->
+        </li>        
+        
+        <li class="banmanAd" style="margin-top:1px;">
+            <!-- Begin -  Site: SermonCentral Zone: SC4_FooterTextAd_05 -->
+			<script language="javascript" type="text/javascript">
+            <!--
+            var browName = navigator.appName;
+            var browDateTime = (new Date()).getTime();
+            var browVersion = parseInt(navigator.appVersion);
+            var ua=navigator.userAgent.toLowerCase();
+            var adcode='';
+            if (browName=='Netscape'){
+                 if (browVersion>=5) 
+                      { document.write('<ifr'+'ame src="http://bmp.outreach.com/a.aspx?ZoneID=104&amp;Task=Get&amp;Browser=NETSCAPE6&amp;PageID=91441&amp;SiteID=3&amp;X=' + browDateTime  + '" width=135 height=16 Marginwidth=0 Marginheight=0 Hspace=0 Vspace=0 Frameborder=0 Scrolling=No></ifr'+'ame>'); }
+                 else if ((browVersion>=4)&&(ua.indexOf("mac")==-1))
+                      { document.write('<s'+'cript src="http://bmp.outreach.com/a.aspx?ZoneID=104&amp;Task=Get&amp;Browser=NETSCAPE4&amp;PageID=91441&amp;SiteID=3&amp;X=' + browDateTime  + '">');
+                      document.write('</'+'scr'+'ipt>');
+                      document.write(adcode); }
+                 else if (browVersion>=3) 
+                      { document.write('<a href="http://bmp.outreach.com/a.aspx?ZoneID=104&Task=Click&Mode=HTML&SiteID=3&PageID=91441&X=' + browDateTime + '&RandomNumber=' + browDateTime  + '" target="_blank"><img src="http://bmp.outreach.com/a.aspx?ZoneID=104&amp;Task=Get&amp;Mode=HTML&amp;SiteID=3&amp;PageID=91441&X=' + browDateTime + '&RandomNumber=' + browDateTime  + '" width="135" height="16" border="0" alt=""></a>'); } }
+            else
+                 { document.write('<ifr'+'ame src="http://bmp.outreach.com/a.aspx?ZoneID=104&amp;Task=Get&amp;SiteID=3&amp;PageID=91441&amp;X=' + browDateTime  + '" width=135 height=16 Marginwidth=0 Marginheight=0 Hspace=0 Vspace=0 Frameborder=0 Scrolling=No></ifr'+'ame>'); }
+            // --> 
+            </script><iframe src="http://bmp.outreach.com/a.aspx?ZoneID=104&amp;Task=Get&amp;Browser=NETSCAPE6&amp;PageID=91441&amp;SiteID=3&amp;X=1580569531055" width="135" height="16" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="No"></iframe>
+            <noscript>
+                <a href="http://bmp.outreach.com/a.aspx?ZoneID=104&Task=Click&Mode=HTML&SiteID=3&PageID=91441" target="_blank"><img src="http://bmp.outreach.com/a.aspx?ZoneID=104&Task=Get&Mode=HTML&SiteID=3&PageID=91441" width="135" height="16" border="0"  alt=""></a>
+            </noscript>
+            <!-- End -  Site: SermonCentral Zone: SC4_FooterTextAd_05 -->
+        </li>
     
-    <ul class="resource-column">
-        <li><!-- Begin -  Site: SermonCentral Zone: SC4_FooterTextAd_06 -->
-<script language="javascript" type="text/javascript">
-<!--
-var browName = navigator.appName;
-var SiteID = 3;
-var ZoneID = 105;
-var browDateTime = (new Date()).getTime();
-if (browName=='Netscape')
-{
-document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://bmp.outreach.com/a.aspx?ZoneID=' + ZoneID + '&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=55984&amp;SiteID=' + SiteID + '&amp;Random=' + browDateTime  + '">'); document.write('</'+'scr'+'ipt>');
-}
-if (browName!='Netscape')
-{
-document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://bmp.outreach.com/a.aspx?ZoneID=' + ZoneID + '&amp;Task=Get&amp;IFR=False&amp;PageID=55984&amp;SiteID=' + SiteID + '&amp;Random=' + browDateTime  + '">'); document.write('</'+'scr'+'ipt>');
-}
-// --> 
-</script><script language="javascript" src="http://bmp.outreach.com/a.aspx?ZoneID=105&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=55984&amp;SiteID=3&amp;Random=1580569536325"></script>
-<noscript>
-    <a href="http://bmp.outreach.com/a.aspx?ZoneID=105&Task=Click&Mode=HTML&SiteID=3&PageID=55984" target="_blank">
-    <img src="http://bmp.outreach.com/a.aspx?ZoneID=105&Task=Get&Mode=HTML&SiteID=3&PageID=55984" width="135" height="16" border="0"  alt=""></a>
-</noscript>
-<!-- End -  Site: SermonCentral Zone: SC4_FooterTextAd_06 --></li>
-        <li><!-- Begin -  Site: SermonCentral Zone: SC4_FooterTextAd_07 -->
-<script language="javascript" type="text/javascript">
-<!--
-var browName = navigator.appName;
-var SiteID = 3;
-var ZoneID = 106;
-var browDateTime = (new Date()).getTime();
-if (browName=='Netscape')
-{
-document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://bmp.outreach.com/a.aspx?ZoneID=' + ZoneID + '&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=56655&amp;SiteID=' + SiteID + '&amp;Random=' + browDateTime  + '">'); document.write('</'+'scr'+'ipt>');
-}
-if (browName!='Netscape')
-{
-document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://bmp.outreach.com/a.aspx?ZoneID=' + ZoneID + '&amp;Task=Get&amp;IFR=False&amp;PageID=56655&amp;SiteID=' + SiteID + '&amp;Random=' + browDateTime  + '">'); document.write('</'+'scr'+'ipt>');
-}
-// --> 
-</script><script language="javascript" src="http://bmp.outreach.com/a.aspx?ZoneID=106&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=56655&amp;SiteID=3&amp;Random=1580569536326"></script>
-<noscript>
-    <a href="http://bmp.outreach.com/a.aspx?ZoneID=106&Task=Click&Mode=HTML&SiteID=3&PageID=56655" target="_blank">
-    <img src="http://bmp.outreach.com/a.aspx?ZoneID=106&Task=Get&Mode=HTML&SiteID=3&PageID=56655" width="135" height="16" border="0"  alt=""></a>
-</noscript>
-<!-- End -  Site: SermonCentral Zone: SC4_FooterTextAd_07 --></li>
-        <li><!-- Begin -  Site: SermonCentral Zone: SC4_FooterTextAd_08 -->
-<script language="javascript" type="text/javascript">
-<!--
-var browName = navigator.appName;
-var SiteID = 3;
-var ZoneID = 107;
-var browDateTime = (new Date()).getTime();
-if (browName=='Netscape')
-{
-document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://bmp.outreach.com/a.aspx?ZoneID=' + ZoneID + '&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=26107&amp;SiteID=' + SiteID + '&amp;Random=' + browDateTime  + '">'); document.write('</'+'scr'+'ipt>');
-}
-if (browName!='Netscape')
-{
-document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://bmp.outreach.com/a.aspx?ZoneID=' + ZoneID + '&amp;Task=Get&amp;IFR=False&amp;PageID=26107&amp;SiteID=' + SiteID + '&amp;Random=' + browDateTime  + '">'); document.write('</'+'scr'+'ipt>');
-}
-// --> 
-</script><script language="javascript" src="http://bmp.outreach.com/a.aspx?ZoneID=107&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=26107&amp;SiteID=3&amp;Random=1580569536328"></script>
-<noscript>
-    <a href="http://bmp.outreach.com/a.aspx?ZoneID=107&Task=Click&Mode=HTML&SiteID=3&PageID=26107" target="_blank">
-    <img src="http://bmp.outreach.com/a.aspx?ZoneID=107&Task=Get&Mode=HTML&SiteID=3&PageID=26107" width="135" height="16" border="0"  alt=""></a>
-</noscript>
-<!-- End -  Site: SermonCentral Zone: SC4_FooterTextAd_08 --></li>
-        <li><!-- Begin -  Site: SermonCentral Zone: SC4_FooterTextAd_09 -->
-<script language="javascript" type="text/javascript">
-<!--
-var browName = navigator.appName;
-var SiteID = 3;
-var ZoneID = 108;
-var browDateTime = (new Date()).getTime();
-if (browName=='Netscape')
-{
-document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://bmp.outreach.com/a.aspx?ZoneID=' + ZoneID + '&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=85616&amp;SiteID=' + SiteID + '&amp;Random=' + browDateTime  + '">'); document.write('</'+'scr'+'ipt>');
-}
-if (browName!='Netscape')
-{
-document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://bmp.outreach.com/a.aspx?ZoneID=' + ZoneID + '&amp;Task=Get&amp;IFR=False&amp;PageID=85616&amp;SiteID=' + SiteID + '&amp;Random=' + browDateTime  + '">'); document.write('</'+'scr'+'ipt>');
-}
-// --> 
-</script><script language="javascript" src="http://bmp.outreach.com/a.aspx?ZoneID=108&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=85616&amp;SiteID=3&amp;Random=1580569536330"></script>
-<noscript>
-    <a href="http://bmp.outreach.com/a.aspx?ZoneID=108&Task=Click&Mode=HTML&SiteID=3&PageID=85616" target="_blank">
-    <img src="http://bmp.outreach.com/a.aspx?ZoneID=108&Task=Get&Mode=HTML&SiteID=3&PageID=85616" width="135" height="16" border="0"  alt=""></a>
-</noscript>
-<!-- End -  Site: SermonCentral Zone: SC4_FooterTextAd_09 --></li>
-        <li><a href="http://www.churchjobfinder.com" title="Visit ChurchJobFinder.com" class="external">ChurchJobFinder.com</a></li>
+    </ul>
+        
+    <ul class="resource-column" style="vertical-align:top;">
+    
+		<li class="banmanAd" style="margin-top:1px;"><!-- HARDCODED: THE BIBLE MINISERIES --><a href="http://www.thebibleminiseries.com?utm_source=sermoncentral&amp;utm_medium=hardtextlink&amp;utm_campaign=BIBLE" title="THE BIBLE television miniseries on the History Channel website for churches" class="external" onclick="_gaq.push(['_setCustomVar', 5, 'OMG-Hardcoded-Links', 'Footer-The-Bible-Miniseries', 3]);_gaq.push(['_trackPageview']);" target="_blank">THE BIBLE miniseries</a></li>
+
+        <li class="banmanAd" style="margin-top:1px;">        
+        	<!-- Begin -  Site: SermonCentral Zone: SC4_FooterTextAd_07 -->
+			<script language="javascript" type="text/javascript">
+            <!--
+            var browName = navigator.appName;
+            var browDateTime = (new Date()).getTime();
+            var browVersion = parseInt(navigator.appVersion);
+            var ua=navigator.userAgent.toLowerCase();
+            var adcode='';
+            if (browName=='Netscape'){
+                 if (browVersion>=5) 
+                      { document.write('<ifr'+'ame src="http://bmp.outreach.com/a.aspx?ZoneID=106&amp;Task=Get&amp;Browser=NETSCAPE6&amp;PageID=79443&amp;SiteID=3&amp;X=' + browDateTime  + '" width=135 height=16 Marginwidth=0 Marginheight=0 Hspace=0 Vspace=0 Frameborder=0 Scrolling=No></ifr'+'ame>'); }
+                 else if ((browVersion>=4)&&(ua.indexOf("mac")==-1))
+                      { document.write('<s'+'cript src="http://bmp.outreach.com/a.aspx?ZoneID=106&amp;Task=Get&amp;Browser=NETSCAPE4&amp;PageID=79443&amp;SiteID=3&amp;X=' + browDateTime  + '">');
+                      document.write('</'+'scr'+'ipt>');
+                      document.write(adcode); }
+                 else if (browVersion>=3) 
+                      { document.write('<a href="http://bmp.outreach.com/a.aspx?ZoneID=106&Task=Click&Mode=HTML&SiteID=3&PageID=79443&X=' + browDateTime + '&RandomNumber=' + browDateTime  + '" target="_blank"><img src="http://bmp.outreach.com/a.aspx?ZoneID=106&amp;Task=Get&amp;Mode=HTML&amp;SiteID=3&amp;PageID=79443&X=' + browDateTime + '&RandomNumber=' + browDateTime  + '" width="135" height="16" border="0" alt=""></a>'); } }
+            else
+                 { document.write('<ifr'+'ame src="http://bmp.outreach.com/a.aspx?ZoneID=106&amp;Task=Get&amp;SiteID=3&amp;PageID=79443&amp;X=' + browDateTime  + '" width=135 height=16 Marginwidth=0 Marginheight=0 Hspace=0 Vspace=0 Frameborder=0 Scrolling=No></ifr'+'ame>'); }
+            // --> 
+            </script><iframe src="http://bmp.outreach.com/a.aspx?ZoneID=106&amp;Task=Get&amp;Browser=NETSCAPE6&amp;PageID=79443&amp;SiteID=3&amp;X=1580569531058" width="135" height="16" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="No"></iframe>
+            <noscript>
+                <a href="http://bmp.outreach.com/a.aspx?ZoneID=106&Task=Click&Mode=HTML&SiteID=3&PageID=79443" target="_blank">
+                <img src="http://bmp.outreach.com/a.aspx?ZoneID=106&Task=Get&Mode=HTML&SiteID=3&PageID=79443" width="135" height="16" border="0"  alt=""></a>
+            </noscript>
+            <!-- End -  Site: SermonCentral Zone: SC4_FooterTextAd_07 -->
+        </li>
+
+        <li class="banmanAd" style="margin-top:1px;">
+        	<!-- Begin -  Site: SermonCentral Zone: SC4_FooterTextAd_08 -->
+			<script language="javascript" type="text/javascript">
+            <!--
+            var browName = navigator.appName;
+            var browDateTime = (new Date()).getTime();
+            var browVersion = parseInt(navigator.appVersion);
+            var ua=navigator.userAgent.toLowerCase();
+            var adcode='';
+            if (browName=='Netscape'){
+                 if (browVersion>=5) 
+                      { document.write('<ifr'+'ame src="http://bmp.outreach.com/a.aspx?ZoneID=107&amp;Task=Get&amp;Browser=NETSCAPE6&amp;PageID=97249&amp;SiteID=3&amp;X=' + browDateTime  + '" width=135 height=16 Marginwidth=0 Marginheight=0 Hspace=0 Vspace=0 Frameborder=0 Scrolling=No></ifr'+'ame>'); }
+                 else if ((browVersion>=4)&&(ua.indexOf("mac")==-1))
+                      { document.write('<s'+'cript src="http://bmp.outreach.com/a.aspx?ZoneID=107&amp;Task=Get&amp;Browser=NETSCAPE4&amp;PageID=97249&amp;SiteID=3&amp;X=' + browDateTime  + '">');
+                      document.write('</'+'scr'+'ipt>');
+                      document.write(adcode); }
+                 else if (browVersion>=3) 
+                      { document.write('<a href="http://bmp.outreach.com/a.aspx?ZoneID=107&Task=Click&Mode=HTML&SiteID=3&PageID=97249&X=' + browDateTime + '&RandomNumber=' + browDateTime  + '" target="_blank"><img src="http://bmp.outreach.com/a.aspx?ZoneID=107&amp;Task=Get&amp;Mode=HTML&amp;SiteID=3&amp;PageID=97249&X=' + browDateTime + '&RandomNumber=' + browDateTime  + '" width="135" height="16" border="0" alt=""></a>'); } }
+            else
+                 { document.write('<ifr'+'ame src="http://bmp.outreach.com/a.aspx?ZoneID=107&amp;Task=Get&amp;SiteID=3&amp;PageID=97249&amp;X=' + browDateTime  + '" width=135 height=16 Marginwidth=0 Marginheight=0 Hspace=0 Vspace=0 Frameborder=0 Scrolling=No></ifr'+'ame>'); }
+            // --> 
+            </script><iframe src="http://bmp.outreach.com/a.aspx?ZoneID=107&amp;Task=Get&amp;Browser=NETSCAPE6&amp;PageID=97249&amp;SiteID=3&amp;X=1580569531062" width="135" height="16" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="No"></iframe>
+            <noscript>
+                <a href="http://bmp.outreach.com/a.aspx?ZoneID=107&Task=Click&Mode=HTML&SiteID=3&PageID=97249" target="_blank">
+                <img src="http://bmp.outreach.com/a.aspx?ZoneID=107&Task=Get&Mode=HTML&SiteID=3&PageID=97249" width="135" height="16" border="0"  alt=""></a>
+            </noscript>
+            <!-- End -  Site: SermonCentral Zone: SC4_FooterTextAd_08 -->
+        </li>
+
+        <li class="banmanAd" style="margin-top:1px;">
+            <!-- Begin -  Site: SermonCentral Zone: SC4_FooterTextAd_09 -->
+            <script language="javascript" type="text/javascript">
+            <!--
+            var browName = navigator.appName;
+            var browDateTime = (new Date()).getTime();
+            var browVersion = parseInt(navigator.appVersion);
+            var ua=navigator.userAgent.toLowerCase();
+            var adcode='';
+            if (browName=='Netscape'){
+                 if (browVersion>=5) 
+                      { document.write('<ifr'+'ame src="http://bmp.outreach.com/a.aspx?ZoneID=108&amp;Task=Get&amp;Browser=NETSCAPE6&amp;PageID=5858&amp;SiteID=3&amp;X=' + browDateTime  + '" width=135 height=16 Marginwidth=0 Marginheight=0 Hspace=0 Vspace=0 Frameborder=0 Scrolling=No></ifr'+'ame>'); }
+                 else if ((browVersion>=4)&&(ua.indexOf("mac")==-1))
+                      { document.write('<s'+'cript src="http://bmp.outreach.com/a.aspx?ZoneID=108&amp;Task=Get&amp;Browser=NETSCAPE4&amp;PageID=5858&amp;SiteID=3&amp;X=' + browDateTime  + '">');
+                      document.write('</'+'scr'+'ipt>');
+                      document.write(adcode); }
+                 else if (browVersion>=3) 
+                      { document.write('<a href="http://bmp.outreach.com/a.aspx?ZoneID=108&Task=Click&Mode=HTML&SiteID=3&PageID=5858&X=' + browDateTime + '&RandomNumber=' + browDateTime  + '" target="_blank"><img src="http://bmp.outreach.com/a.aspx?ZoneID=108&amp;Task=Get&amp;Mode=HTML&amp;SiteID=3&amp;PageID=5858&X=' + browDateTime + '&RandomNumber=' + browDateTime  + '" width="135" height="16" border="0" alt=""></a>'); } }
+            else
+                 { document.write('<ifr'+'ame src="http://bmp.outreach.com/a.aspx?ZoneID=108&amp;Task=Get&amp;SiteID=3&amp;PageID=5858&amp;X=' + browDateTime  + '" width=135 height=16 Marginwidth=0 Marginheight=0 Hspace=0 Vspace=0 Frameborder=0 Scrolling=No></ifr'+'ame>'); }
+            // --> 
+            </script><iframe src="http://bmp.outreach.com/a.aspx?ZoneID=108&amp;Task=Get&amp;Browser=NETSCAPE6&amp;PageID=5858&amp;SiteID=3&amp;X=1580569531064" width="135" height="16" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="No"></iframe>
+            <noscript>
+                <a href="http://bmp.outreach.com/a.aspx?ZoneID=108&Task=Click&Mode=HTML&SiteID=3&PageID=5858" target="_blank">
+                <img src="http://bmp.outreach.com/a.aspx?ZoneID=108&Task=Get&Mode=HTML&SiteID=3&PageID=5858" width="135" height="16" border="0"  alt=""></a>
+            </noscript>
+            <!-- End -  Site: SermonCentral Zone: SC4_FooterTextAd_09 -->
+        </li>
+
+        <li class="banmanAd"><!-- HARDCODED: CHURCH JOB FINDER --><a href="http://www.churchjobfinder.com" title="Find a new job, career, employment at a church or ministry at ChurchJobFinder.com" class="external" onclick="_gaq.push(['_setCustomVar', 5, 'OMG-Hardcoded-Links', 'Footer-ChurchJobFinder', 3]);_gaq.push(['_trackPageview']);" target="_blank">ChurchJobFinder.com</a></li>
+    
     </ul>
 </div>
+        
 
+<!-- PARTNERS -->
 <div class="footerBottomColumn">
     <div>SermonCentral Partners</div>         
     <ul class="resource-column">
-        <li><a class="external" href="http://www.Outreach.com" title="Go to Outreach.com" target="_blank">Outreach.com</a></li>
-       
-        <li><a class="external" href="/redirect.asp?url=http://www.ministryflix.com/index.php?trk=109" title="Go to MinistryFlix.com" target="_blank">MinistryFlix.com</a></li>
-        <li><a class="external" href="/redirect.asp?url=http://www.Zondervan.com" title="Go to Zondervan.com" target="_blank">Zondervan.com</a></li>
- <li><a class="external" href="/redirect.asp?url=http://www.Logos.com" title="Go to Logos.com" target="_blank">Logos.com</a></li>
+        <li><a class="external" href="http://www.outreach.com" title="Go to Outreach.com" target="_blank" onclick="_gaq.push(['_setCustomVar', 5, 'OMG-Hardcoded-Links', 'Footer-Outreach_com', 3]);_gaq.push(['_trackPageview']);">Outreach.com</a></li>
+        <!--<li><a class="external" href="/redirect.asp?url=http://www.ministryflix.com/index.php?trk=109" title="Go to MinistryFlix.com" target="_blank" onClick="_gaq.push(['_setCustomVar', 5, 'OMG-Hardcoded-Links', 'Footer-MinistryFlix_com', 3]);_gaq.push(['_trackPageview']);">MinistryFlix.com</a></li>-->
+        <li><a class="external" href="/redirect.asp?url=http://www.biblica.com" title="Go to biblica.com" target="_blank" onclick="_gaq.push(['_setCustomVar', 5, 'OMG-Hardcoded-Links', 'Footer-Biblica_com', 3]);_gaq.push(['_trackPageview']);">Biblica.com</a></li>
+        <li><a class="external" href="/redirect.asp?url=http://www.Logos.com" title="Go to Logos.com" target="_blank" onclick="_gaq.push(['_setCustomVar', 5, 'OMG-Hardcoded-Links', 'Footer-Logos_com', 3]);_gaq.push(['_trackPageview']);">Logos.com</a></li>
     </ul>
-</div>
+</div>        
 
-<div id="copyright">Copyright 2003-2012  |  Outreach Inc., All rights reserved.</div><!-- End: Content Element -->
+
+<!-- COPYRIGHT FOOTER -->
+<div id="copyright">Copyright 2003-2013  |  Outreach, Inc., All rights reserved.</div>
+<!-- End: Content Element -->
 	</div><!--wrap-->
 	<div class="clear"></div>
 	
 	
  	
     <script type="text/javascript">
-    (function() {
-	        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-	        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-	        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-	    })();
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
     </script>
         
     
