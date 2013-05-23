@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the celebsquares.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222072643id_/http%3A//celebsquares.com/index.cfm/fuse/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebsquares.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523035054id_/http%3A//celebsquares.com/index.cfm/fuse/privacypolicy) for the most accurate reproduction.*
 
 # Celebrity Squares - When Celebs Make News, You Win Cash & Prizes
 
@@ -6,7 +6,7 @@ Print-Friendly Page
 
  **Celebrity Squares™ Privacy Policy** **
 
-**Last Updated: November 28, 2012**
+**Last Updated: April 9, 2013**
 
 **
 
@@ -16,7 +16,6 @@ Print-Friendly Page
     Personal Information We Collect From You   
         Registration   
         Website Visitors   
-        Sweepstakes  
         Non-Identifying Information   
 2\. How We Use Personal Information   
     Text Messages and Other Communications   
@@ -38,7 +37,7 @@ Print-Friendly Page
 10\. Changes In This Privacy Policy   
 11\. Contacting Us About Privacy Questions or Concerns 
 
-Snak Media, LLC ("Celebrity Squares™", "we" or "us") operates the Celebrity Squares™ website located at [www.celebritysquares.com](http://www.celebritysquares.com/) (the "Website"), and the Celebrity Squares™ service that includes the provision of interactive mobile content, such as news alerts, sweepstakes, surveys and quizzes, available online or via text messaging for entertainment purposes ("Service"). This privacy policy ("Privacy Policy") outlines the privacy practices associated with the Website and the Service and covers our treatment of personal information that we collect when you: (a) visit the Website; (b) register for the Service, either as a premium member ("Premium Member") or as a web basic ("Web Basic") or mobile basic ("Mobile Basic") member (collectively, "Basic Members" and together with Premium Members, "Members"); (c) enter any of the various drawings and/or sweepstakes that we may offer from time to time ("Sweepstakes"); (d) respond to any of our surveys or quizzes ("Surveys"); and/or (e) submit any other material to us, such as comments on surveys, user profile information or personal quotes relating to redeeming Loyalty Points or winning a Sweepstakes. By visiting the Website, subscribing for the Service, responding to a Survey or entering a Sweepstakes, you agree to be bound by the terms of this Privacy Policy. It is important that Website visitors, Members and Sweepstakes entrants are fully informed about the use of their personal information. Unless defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Celebrity Squares™ Member Terms, accessible at <http://celebritysquares.com/index.cfm/fuse/terms> and our Sweepstakes Official Rules, accessible at <http://celebritysquares.com/index.cfm/fuse/rules>. 
+Snak Media, LLC ("Celebrity Squares™", "we" or "us") operates the Celebrity Squares™ website located at [www.celebritysquares.com](http://www.celebritysquares.com/) (the "Website"), and the Celebrity Squares™ service that includes the provision of interactive mobile content, such as news alerts, surveys and quizzes, available online or via text messaging for entertainment purposes ("Service"). This privacy policy ("Privacy Policy") outlines the privacy practices associated with the Website and the Service and covers our treatment of personal information that we collect when you: (a) visit the Website; (b) register for the Service, either as a premium member ("Premium Member") or as a web basic ("Web Basic") or mobile basic ("Mobile Basic") member (collectively, "Basic Members" and together with Premium Members, "Members"); (c) respond to any of our surveys or quizzes ("Surveys"); and/or (d) submit any other material to us, such as comments on surveys, user profile information or personal quotes relating to redeeming Loyalty Points. By visiting the Website, subscribing for the Service or responding to a Survey, you agree to be bound by the terms of this Privacy Policy. It is important that Website visitors and Members entrants are fully informed about the use of their personal information. Unless defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Celebrity Squares™ Member Terms, accessible at <http://celebritysquares.com/index.cfm/fuse/terms>. 
 
 ##  TRUSTe - Scope of Certification
 
@@ -57,8 +56,6 @@ SendMe, Inc., the parent company of Snak Media, LLC, has been awarded TRUSTe's P
 
 **Website Visitors.** We collect information when you visit the Website through cookies, clear gifs and other means such as your IP address, browser type, ISP, referring/exit pages, operating system, date/time stamp and clickstream data. We store this information ("Log File Information") in log files. 
 
-**Sweepstakes.** If you are not a Member and mail in an entry for a given Sweepstakes, we collect your name and mailing address, home or cell phone number, and Sweepstakes ID when you enter the Sweepstakes. We do not collect Social Security Numbers unless you are a Sweepstakes winner and your prize has a monetary value that requires that we report your winnings to the Internal Revenue Service. If you win one of our Sweepstakes, you will be required to provide your mailing address if we have not already collected it and the following additional personal information (please see the applicable Sweepstakes Rules for additional details): (i) Social Security Number (if necessary, depending on the amount of your prize); and (ii) a copy of a government issued photo identification. If you win one of our Sweepstakes, we also require that you complete and submit a release which allows us to identify you as a winner on the Website and in other promotional materials. We may also ask you for a quote and a photograph. 
-
 **Non-Identifying Information.** We also collect the other information that you provide as part of registration and your use of the Service (e.g., without limitation, birth date, time zone, zip code (on its own) and individual preferences) ( ** _"Non-Identifying Information"_** ). We use your Personal Information (in some cases, in conjunction with your Non-Identifying Information) mainly to provide the Service, complete your transactions, and administer your inquiries. 
 
   
@@ -66,7 +63,7 @@ SendMe, Inc., the parent company of Snak Media, LLC, has been awarded TRUSTe's P
 
 ## How We Use Personal Information
 
-Any personal information that you submit to us remains your property however, we may use this personal information to administer the Website, Service and Sweepstakes as described below. 
+Any personal information that you submit to us remains your property however, we may use this personal information to administer the Website and Service as described below. 
 
 **Text Messages and Other Communications.** By providing your mobile telephone number, you expressly consent to receive a sign-up text message from us. In most circumstances, the text message that you receive in connection with the sign-up process will contain a unique, four digit personal identification number which is used to set up your account. If your wireless carrier does not support our Service, or you do not complete the sign-up process in full, you expressly consent to receive one promotional text message from us. 
 
@@ -106,7 +103,7 @@ We may share aggregated information that does not include Personal Information a
 
 **Surveys, Votes and Predictions.** If you choose to reply to a survey, place a vote or make a prediction via the Service, the response you provide in relation to such survey, vote or prediction may be made publicly available via the Website in connection with your screen name and profile picture or avatar. Such information can be viewed by other users of the Service. 
 
-**Third Party Service Providers.** By submitting your Personal Identifiable Information to us, you grant us the right, subject to applicable state and federal law, to use that Personal Identifiable Information, other than your Social Security Number, to provide our Services. We may share your Personal Information with our third party prize fulfillment service providers in order to deliver any prizes won by you in connection with Sweepstakes made available via the Services. Additionally, for Premium Members, we share your cell phone number with third party billing companies, cell phone carriers and our third party customer care call center to facilitate billings, to process credits and refunds, for customer service and to communicate with you via text message. We may, from time-to-time, supplement the information we collect from you with outside records (e.g., information we obtain from other companies, including wireless providers) to enhance our ability to serve you. We may also share your Personally Identifiable Information with third parties so that we can award prizes to Sweepstakes winners and when Members redeem loyalty points. These third parties are prohibited from using your Personally Identifiable Information for any other purpose. 
+**Third Party Service Providers.** By submitting your Personal Identifiable Information to us, you grant us the right, subject to applicable state and federal law, to use that Personal Identifiable Information, other than your Social Security Number, to provide our Services. We may share your Personal Information with our third party prize fulfillment service providers in order to deliver any prizes made available via the Services. Additionally, for Premium Members, we share your cell phone number with third party billing companies, cell phone carriers and our third party customer care call center to facilitate billings, to process credits and refunds, for customer service and to communicate with you via text message. We may, from time-to-time, supplement the information we collect from you with outside records (e.g., information we obtain from other companies, including wireless providers) to enhance our ability to serve you. We may also share your Personally Identifiable Information with third parties so that we can award prizes and when Members redeem loyalty points. These third parties are prohibited from using your Personally Identifiable Information for any other purpose. 
 
 **Business Transitions.** We may sell, transfer or otherwise share some or all of its assets, including your Personal Information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy. 
 
@@ -121,7 +118,7 @@ You may correct, update or delete your Personally Identifiable Information in yo
 
 If you completely delete all such information, your account may be deactivated. We may retain an archived copy of your records as required by law or for legitimate business purposes. 
 
-If you would like us to delete your Personal Information part of our account in our system, please contact us at [cs_support@celebritysquares.com](https://web.archive.org/web/20121222072643id_/http%3A//celebsquares.com/index.cfm/fuse/cs_support@celebritysquares.com) with a request that we delete your Personal Information from our database. We will use commercially reasonable efforts to honor your request. Deletion of your information will result in termination of your account. We will retain an archived copy of your records to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+If you would like us to delete your Personal Information part of our account in our system, please contact us at [cs_support@celebritysquares.com](https://web.archive.org/web/20130523035054id_/http%3A//celebsquares.com/index.cfm/fuse/cs_support@celebritysquares.com) with a request that we delete your Personal Information from our database. We will use commercially reasonable efforts to honor your request. Deletion of your information will result in termination of your account. We will retain an archived copy of your records to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
 ## Links to Other Websites 
 
@@ -147,4 +144,4 @@ This Privacy Policy may be updated from time to time. We will notify you of any 
 
 ## Contacting Us About Privacy Questions or Concerns
 
-If you have any questions about this Privacy Policy, the Service, Sweepstakes, Surveys or the Website, you may obtain support at any time through the Website at [www.celebritysquares.com/support](http://www.celebritysquares.com/support), via email at [cs_support@celebritysquares.com](mailto:cs_support@celebritysquares.com), or via telephone at 1-800-477-3913. You may also text ìHELPî to 258258 at any time to receive summary information about your Celebrity Squares™ account and instructions on how to access customer service. 
+If you have any questions about this Privacy Policy, the Service, Surveys or the Website, you may obtain support at any time through the Website at [www.celebritysquares.com/support](http://www.celebritysquares.com/support), via email at [cs_support@celebritysquares.com](mailto:cs_support@celebritysquares.com), or via telephone at 1-800-477-3913. You may also text ìHELPî to 258258 at any time to receive summary information about your Celebrity Squares™ account and instructions on how to access customer service. 
