@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bris.ac.uk privacy policy that was archived on 2012-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120922113202id_/http%3A//www.bris.ac.uk/university/web/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bris.ac.uk privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523165926id_/http%3A//www.bris.ac.uk/university/web/privacy-policy.html) for the most accurate reproduction.*
 
 # Bristol University | The web at Bristol | Privacy and cookie policy
 
@@ -6,15 +6,15 @@ In order to operate the University of Bristol (“University”) website, we may
 
 This system is provided and hosted by the University. By submitting your personal information, you are consenting to the University holding and using it in accordance with this policy. The policy is subject to change and any changes to it in the future will be notified on this page. By continuing to use this website you are agreeing to such changes. We recommend that you check the privacy policy each time you visit this site.
 
-This website is known by a number of different names. These are bristol.ac.uk, bris.ac.uk, www.bristol.ac.uk, www.bris.ac.uk, bristol.edu and www.bristol.edu. This privacy policy applies to all of these, but not necessarily to others within the bristol.ac.uk, bris.ac.uk and bristol.edu domains. Please note that this website acts as a transparent proxy to some other University of Bristol websites which may be subject to their own privacy policies. please see our [list of proxied sites](http://www.bris.ac.uk/web/policies/proxied-sites.html).
+This website is known by a number of different names. These are bristol.ac.uk, bris.ac.uk, www.bristol.ac.uk, www.bris.ac.uk, bristol.edu and www.bristol.edu. This privacy policy applies to all of these, but not necessarily to others within the bristol.ac.uk, bris.ac.uk and bristol.edu domains. Please note that this website acts as a transparent proxy to some other University of Bristol websites which may be subject to their own privacy policies. please see our [list of proxied sites](http://www.bristol.ac.uk/web/policies/proxied-sites.html).
 
 ## Contents
 
-  1. [Information that we collect from you and your use of this website](http://www.bris.ac.uk/web/policies/privacy-policy.html#info-coll)
-  2. [How we use your information](http://www.bris.ac.uk/web/policies/privacy-policy.html#use-info)
-  3. [How we handle the data submitted by you](http://www.bris.ac.uk/web/policies/privacy-policy.html#handle-data)
-  4. [Links to external web sites](http://www.bris.ac.uk/web/policies/privacy-policy.html#ext-web)
-  5. [How to contact us](http://www.bris.ac.uk/web/policies/privacy-policy.html#how-cont)
+  1. [Information that we collect from you and your use of this website](http://www.bristol.ac.uk/web/policies/privacy-policy.html#info-coll)
+  2. [How we use your information](http://www.bristol.ac.uk/web/policies/privacy-policy.html#use-info)
+  3. [How we handle the data submitted by you](http://www.bristol.ac.uk/web/policies/privacy-policy.html#handle-data)
+  4. [Links to external web sites](http://www.bristol.ac.uk/web/policies/privacy-policy.html#ext-web)
+  5. [How to contact us](http://www.bristol.ac.uk/web/policies/privacy-policy.html#how-cont)
 
 
 
@@ -41,7 +41,7 @@ Information that we will automatically receive includes:
 
 #### 1.3 Cookies
 
-Please see the University’s [‘Use of cookies’](http://www.bris.ac.uk/web/policies/use-of-cookies.html) page.
+Please see the University’s [‘Use of cookies’](http://www.bristol.ac.uk/web/policies/use-of-cookies.html) page.
 
 ### 2\. How we use your information
 
