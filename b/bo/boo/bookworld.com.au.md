@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookworld.com.au privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230194736id_/http%3A//www.bookworld.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookworld.com.au privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523070117id_/http%3A//www.bookworld.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy policy | Bookworld
 
