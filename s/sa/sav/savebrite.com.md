@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the savebrite.com privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029060826id_/http%3A//www.savebrite.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savebrite.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523135803id_/http%3A//www.savebrite.com/privacy) for the most accurate reproduction.*
 
 # - SaveBrite.com
 
