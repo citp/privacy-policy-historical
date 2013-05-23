@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the extrade.com privacy policy that was archived on 2012-10-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121023153058id_/http%3A//extrade.com/PrivacyPolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the extrade.com privacy policy that was archived on 2013-05-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130523210950id_/http%3A//www.extrade.com/PrivacyPolicy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <title>
@@ -20,10 +20,6 @@
 
 <meta name="robots" content="index,follow,all">
 <meta name="revisit-after" content="7 days">
-
-    
-    
-    
 
 
         <link rel="Shortcut Icon" href="http://images.smartname.com/smartname/images/favicon.ico">
@@ -58,11 +54,11 @@
 <script type="text/javascript" language="JavaScript">
     if (cookieVal('referrer') == '') {
         if (document.referrer) {
-            setCookie('referrer',document.referrer,0,'/','.www.extrade.com');
+            setCookie('referrer',document.referrer,0,'/','.extrade.com');
         }
     }
-    setCookie('navName',navigator.appName,0,'/','.www.extrade.com');
-    setCookie('platform',navigator.platform,0,'/','.www.extrade.com');
+    setCookie('navName',navigator.appName,0,'/','.extrade.com');
+    setCookie('platform',navigator.platform,0,'/','.extrade.com');
     var brVer = navigator.userAgent; var brNum; var reg = new RegExp('/');
     if (navigator.appName == 'Microsoft Internet Explorer') {
         var brVerId = brVer.indexOf('MSIE');
@@ -71,21 +67,33 @@
         var brVerId = brVer.search(reg);
         brNum = brVer.substring(brVerId+1);
     }
-    setCookie('brVer',brVer,0,'/','.www.extrade.com');
-    setCookie('brVerId',brVerId,0,'/','.www.extrade.com');
-    setCookie('brNum',brNum,0,'/','.www.extrade.com');
+    setCookie('brVer',brVer,0,'/','.extrade.com');
+    setCookie('brVerId',brVerId,0,'/','.extrade.com');
+    setCookie('brNum',brNum,0,'/','.extrade.com');
     var java='';
     if (!(navigator.javaEnabled())) {
         java='No' ;
     } else {
         java='Yes' ;
     }
-    setCookie('java',java,0,'/','.www.extrade.com');
-    var pv = history.length;
-    setCookie('pv',pv,0,'/','.www.extrade.com');
+    setCookie('java',java,0,'/','.extrade.com');
+//     var pv = history.length;
+//     setCookie('pv',pv,0,'/','.extrade.com');
+    var cpv = 'pv.' + 'extrade.com';
+    var pv=getCookie(cpv);
+ 	if (pv!=null && pv!="")
+	{
+		//alert("Page view Count " + pv);
+		var pvi = parseInt(pv) + 1;
+		setCookie(cpv,pvi,0,'/','.extrade.com');
+	}
+ 	else
+	{   
+ 		setCookie(cpv, 1, 0,'/','.extrade.com');
+ 	}
     var theScreen = screen.width+' '+screen.height;
-    setCookie('screen',theScreen,0,'/','.www.extrade.com');
-    setCookie('date',(new Date()).getTime(),0,'/','.www.extrade.com');
+    setCookie('screen',theScreen,0,'/','.extrade.com');
+    setCookie('date',(new Date()).getTime(),0,'/','.extrade.com');
 
 
 
@@ -122,10 +130,6 @@
 		 
 		
 <!-- Google Analytics Tag -->
-
-
-
-
 
 
 
@@ -293,7 +297,7 @@
               
     <br><br>
 
-	<span class="copyright">Copyright © Tue Oct 23 11:30:58 EDT 2012 extrade.com. All Rights Reserved.</span>
+	<span class="copyright">Copyright © Thu May 23 17:09:50 EDT 2013 extrade.com. All Rights Reserved.</span>
     <br>
           
     
