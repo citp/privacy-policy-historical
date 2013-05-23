@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funny-base.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224031054id_/http%3A//www.funny-base.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funny-base.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523071623id_/http%3A//www.funny-base.com/privacy.html) for the most accurate reproduction.*
 
 # FUNNY BASE - Privacy Policy.
 
@@ -21,4 +21,4 @@ Funny-base.com works with Google AdSense and Fastclick that serve ads to this si
 Funny-base.com contains links to other sites. We are not responsible for the privacy practices or the content of such Web sites.
 
  **CONTACTING OUR WEB SITE**  
-If you have any comments or questions about this privacy statement or any other issues you can [contact us](https://web.archive.org/web/20121224031054id_/http%3A//www.funny-base.com/contact.html).
+If you have any comments or questions about this privacy statement or any other issues you can [contact us](https://web.archive.org/web/20130523071623id_/http%3A//www.funny-base.com/contact.html).
