@@ -1,88 +1,179 @@
-> *The following text is extracted and transformed from the budgetair.com privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029060254id_/http%3A//www.budgetair.com/aboutus/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the budgetair.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523142320id_/http%3A//www.budgetair.com/aboutus/privacy) for the most accurate reproduction.*
 
 # BudgetAir.com | privacy
 
-We have created this Privacy Policy to demonstrate our firm commitment to your privacy and security. BudgetAir ("BudgetAir.com") pledges to protect you with our Privacy Policy which defines our policies on the collection, use and protection of personal information of BudgetAir users. We encourage you to read this Privacy Policy carefully. This Privacy Policy is effective February 1, 2011 and BudgetAir may update this Privacy Policy from time to time. If we decide to make any material changes to this Policy we will notify you by placing a prominent notice on our website. By using our website or by submitting any personal information to us, you agree that BudgetAir may collect, use and disclose your personal information in accordance with this Privacy Policy and as permitted or required by law
+BudgetAir.com knows that you care how information about you is used and shared. We value your trust, and we prioritize the security and confidentiality of information you provide to us. Please read this policy to learn about our privacy practices but you should know that we do not sell or rent our customers' personal information to third parties. By visiting our website, you accept our practices as described below and agree that any dispute over our practices is governed by this policy and our Terms of Use. 
 
-## What kind of information we collect from you:
+Your California Privacy Rights
+
+Under California law, California residents may request and obtain from us once a year, free of charge, certain details about personal information (if any) that we disclosed to third parties for direct marketing purposes in the preceding calendar year. If applicable, these details would include a list of the categories of personal information that was shared and the names and addresses of all third parties with which we shared such information.
+
+If you are a California resident and would like to make such a request, please submit your request in writing by email to [privacy@BudgetAir.com](mailto:privacy@BudgetAir.com) or write to us at: Airtrade International, Inc. d/b/a BudgetAir.com, Attn: Customer Service ? Privacy, 1975 W. El Camino Real, Ste. 204, Mountain View, CA 94040 and reference "California Privacy Disclosure." We will respond to such requests within 30 days following receipt at the email or mailing address stated above. If we receive your request at a different email or mailing address, we will respond within a reasonable period of time not to exceed 150 days from the date received.
+
+The information we collect »  
+How we use your information »  
+With whom we share your information »  
+How you can access your information »  
+How you can close your account »  
+Your choices around collection and use of your information »  
+Cookies and other technologies »  
+Display of tailored advertising and your choices »  
+How we protect your information »  
+A warning about phishing »  
+Children's privacy »  
+External links »  
+Visiting BudgetAir from outside the United States »  
+Disputes »  
+Changes to this Privacy Policy »  
+How to contact us »
+
+The information we collect 
+
+From you.  We receive and store information that you submit on our website or give us in other ways (such as via telephone or through the mail). This consists of information that can identify you ("personal information"), including your first and last name, date of birth, telephone number, postal and email addresses, fax number, and billing information (such as credit card number, cardholder name, and expiration date). We may also request information about your travel plans, style, and preferences (such as meal requests, seat selection, frequent flyer/hotel/car rental program information, and flight class, luggage, and ticketing options) as well as your entertainment interests (such as tour itineraries, performance and activity interests, and venue preferences). You can choose not to provide information to us, but generally this information is necessary for you to register as a user, make bookings for travel or entertainment, complete a profile, receive updates of flight delays or schedule changes, post reviews, contribute to a discussion forum, participate in a survey, contest, or sweepstakes, ask us a question, or initiate other transactions on our website. If you decline to supply or provide us with information while using our website, you may not be able to use or participate in some or all of its features.
+
+About Travel Companions. When you make a reservation on behalf of one or more travel or activity companions using our website, we will request personal information as well as interests, styles and preferences for each of those individuals. You should obtain the consent of those individuals prior to submitting such information, as access to view or change their information will be available only through your account.
+
+As May Be Required By Law.  Under the Transportation Security Administration (TSA) Secure Flight program, most air passengers are now required to provide their full name, date of birth, and gender (plus redress number, when applicable). Secure Flight is a federally mandated program administered by the TSA. The privacy notice of the TSA is as follows:
+
+_The Transportation Security Administration of the U.S. Department of Homeland Security requires aircraft operators to collect information from you for purposes of watch list screening, under the authority of 49 U.S.C. section 114, and the Intelligence Reform and Terrorism Prevention Act of 2004. Providing this information is voluntary; however, if it is not provided, you may be subject to additional screening or denied transport or authorization to enter a sterile area. TSA may share information you provide with law enforcement or intelligence agencies or others under its published system of records notice. For more on TSA Privacy policies, or to view the system of records notice and the privacy impact assessment, please see TSA's Web site at[www.tsa.gov](http://www.tsa.gov/)._
+
+From Other Sources.  From time to time we may also obtain both personal and non-personal information about you from our affiliated entities, business partners or other third party sources and add it to our account information about you. Examples of such information include updated address information, purchase history, and demographic data. In addition, if you sign up for BudgetAir.com using your social media account, link your BudgetAir.com account to your social media account, or use certain other BudgetAir.com social media features, we may access information about you through that social media provider, subject to that provider's policies. The information may include your name, email address, profile picture, gender, list of friends, and other information that you authorize us to receive. Depending on the privacy settings of you and your friends, we may access information that you provide to a social media provider regarding your respective locations ("Location Data") or "likes" in order to provide you with relevant content. Note that your Location Data may also be shared with your friends on a social media provider, subject to your privacy settings with that social media provider.
+
+Automatic Information.  We automatically collect certain information about your computer when you visit our website. For example, we record your IP address, Web browser software (such as Firefox, Safari, or Internet Explorer), and referring website. We also may gather information about your online activity, such as trips or activities viewed and bookings made. We collect this automatic information to customize your user experience and protect against fraud. See also Cookies and other technologies below.
 
   
 
 
-### (a) when you are visiting our website
+How we use your information
 
-When you are browsing our website, you are not required to provide any personal information unless and until you make a purchase or sign up for one of our other services on the BudgetAir website.
+In General.  We use sensitive billing information about you (such as cardholder name, credit card number, and expiration date) to complete travel-related or other bookings you make. We use other information about you for general purposes, such as providing you with products and services you request; providing you with booking confirmations and updates; managing your account, including processing bills; communicating with you in general; responding to your questions and comments; assessing interest in and improving our products, services, and website; advising you about special offers, products or services that may be of interest to you; customizing your experience with our website; rewarding you as part of a reward and recognition program you may belong to; soliciting information from you, including through surveys;enabling us to publish your reviews, forum posts, and other content within the BudgetAir.com community; resolving disputes, collecting fees, or troubleshooting problems; preventing potentially prohibited or illegal activities; enforcing our Terms of Use; and as otherwise may be described to you at the time the information is collected.
 
-We use a variety of technologies including session data, cookies, log files, and web beacons to better understand how our website is navigated, how many visitors click on certain pages, how long and how frequently visitors visit our website, the types of searches that occur, the browsers and computer operating systems used by our visitors and the Internet Protocol addresses from which visitors connect to our website. Information specifically about you, called "Personally identifiable information" or "PII" is not captured and retained when capturing data about our website.
+Email Communications. From time to time, we may send you emails containing information about your apparent travel-related or activity interests. We do this to make it easy for you to take advantage of travel-related or other opportunities on our website. For example, if you search for a flight to Paris on our website and have saved your itinerary or otherwise not yet booked your travel, we may send you an email to remind you about your saved itinerary or let you know about a special airfare to Paris. Similarly, if we send you an email about Paris travel and you show interest in Paris hotels by clicking on a link about Paris hotels in the email, we may send you an email containing special hotel offers in Paris or other destination information such as tours and local entertainment. We hope such emails provide valuable information to you about travel-related or other special offers available on our website. Note, however, that you may choose not to receive these emails. See Your choices around collection and use of your information below.
 
-### Third-Party Tracking Services
-
-We also use a number of third-party tracking service that uses cookies and web beacons to track non-personally identifiable information about visitors to our site. Information such as number of visitors, page views, referrals and site exit points are captured for us to learn more about our customers.
-
-One of our goals in collecting this information is to help customize your user experience. We generally do not share this information with third parties, except as described in this privacy policy.
-
-### Web Beacons
-
-We and our third-party tracking service partners employ a software technology called Web Beacons that help us better manage content on our site by informing us what content is effective. Web Beacons are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user's computer hard drive, Web Beacons are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers' personally identifiable information.
-
-If you would like more information about this practice or to opt out of having this information used by companies that are part of the Network Advertising Initiative to provide targeted ads, please [click here](http://www.networkadvertising.org/managing/opt_out.asp).
-
-We may also use Web Beacons in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. If you would like to opt-out of these emails, please see "Choice and Opt-out." 
-
-### How BudgetAir secures your information
-
-All personal information you provide to BudgetAir when booking is transmitted using SSL (Secure Socket Layer) encryption. SSL is a proven coding system that lets your browser automatically encrypt information being sent between you and our site. 
-
-We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
-
-If you have any questions about security on our website, you can email us at [privacy@budgetair.com.](mailto:privacy@budgetair.com)
-
-### (b) when you are purchasing products
-
-In order to purchase travel and related services and products through our website, you must provide us with specific personal information such as your name, credit card number with expiration date, credit card billing address, telephone number, email address and the name or names of the person(s) traveling (if not you). In addition, the Transportation Security Administration (TSA) requires all travelers to provide their date of birth and gender which must be included within all bookings completed through BudgetAir. We may also ask you for other personal information, such as your frequent traveler numbers. We need this information to process, fulfill and confirm your reservations and transactions.
-
-If you are making a reservation for one or more travelers other than yourself, you will need to make sure that each of these other travelers agrees in advance and that you may disclose their personal information to us.
-
-### (c) when signing up for emails from BudgetAir
-
-BudgetAir possesses a number of opportunities for you to sign up to receive emails about special offers or pricing available through our site. You will need to provide an email address to us to receive these offers. However, you may choose at any time to no longer receive these types of e-mail messages by selecting the "SafeUnsubscribe" option at the bottom of the email received.
-
-We will not share, rent or sell any email addresses provided by you to BudgetAir.
-
-## If you do NOT want to provide your information:
-
-You can always choose not to provide your personal information to us; however some information about you is required in order for you to register on our website, purchase products and services, to ask us a question; or initiate other transactions on our website.
-
-## With whom we share your personal information:
-
-We may disclose the personal information that we collected from you in any of the following situations:
-
-  * if this is necessary for providing services to you;
-  * if we have received your permission beforehand;
-  * in accordance with this Privacy Policy; or
-  * in very special circumstances, such as when we believe that such disclosure is required by law.
+  
+  
 
 
+How you can access your information 
 
-To successfully fulfill and complete your booking we must provide certain personal information of yours to third parties such as airlines, hotels, car-rental agencies, insurance companies or other involved third parties.
+You can access and update certain information by logging in to your account at BudgetAir.com.
 
-We may also share your information with third party vendors that perform services for or on our behalf. For example: to provide customer care, issue documents, process credit cards, deliver tickets, ship items, for research, marketing, data processing, to measure the use of our site, to facilitate usage by a visitor, or evaluate your creditworthiness. We will share with these companies only that personal information which they need for providing services to us and they are not permitted to share or use the information for any other purpose including their own marketing purposes. These companies might be located outside the US. By submitting your personal data to us, you agree to the transfer, storing and processing of your data outside the US.
+  
 
-BudgetAir currently contracts with several online partners to help manage and optimize our internet business and communications. We use the services of a third party provider to help us collect data and measure the effectiveness of our advertising and how visitors use our website. To do this, we use web beacons and cookies provided by the third party service provider on this website. The type of information we collect includes e.g., the product codes and prices for merchandise that visitors purchase, the pages visited, etc. By supplementing our records, this information helps us learn things like what pages are most attractive to our visitors, which of our products most interest our customers, and what kinds of offers our customers like to see. Although the third party service provider logs the information coming from our website on our behalf, we control how that data may and may not be used. If you do not want to help us learn how to improve our site, products, offers and marketing strategy, you can "opt-out" of our ability to analyze such data by sending an e-mail to the following e-mail address [optout@budgetair.com.](mailto:optout@budgetair.com)
 
-We may also share your information: (i) in response to subpoenas, court orders, or other legal process, (ii) to investigate, prevent, or take action regarding illegal or suspected illegal activities, (iii) to protect and defend our rights and safety; and (iv) to enforce our Terms, (v) in relation to a divestiture, merger, or sale of assets.
+How you can close your account
 
-## Other websites:
+You can close your account by emailing us at [cs@BudgetAir.com](mailto:cs@BudgetAir.com). Please note that after you close an account, you will not be able to sign in or access any of your personal information. However, you can open a new account at any time. We may retain certain information associated with your account, including for analytical purposes as well as for record keeping integrity.
 
-When you click through to a third party website, our Privacy Policy no longer applies. We encourage you to carefully read the Privacy Policies of these other websites. BudgetAir does not control any cookies or other features that third parties may use, and the information practices of these advertisers are not covered by this Privacy Policy. Please be aware that these third parties may also contact you to obtain additional information to fulfill your travel reservation.
+  
 
-## Children's privacy:
 
-BudgetAir does not sell travel or other services for purchase by children and does not knowingly collect information from people under the age of 18. If we become aware of the fact that a minor is attempting to submit personal information, we will inform the minor that he or she is ineligible to do so. We will then remove this information from our records.
+Your choices around collection and use of your information
 
-If you have questions about our Privacy Policies, please contact us at: 
+As stated above, you can decline to supply or provide us with information however you may not be able to make bookings for travel or other products and services or take advantage of certain features offered on our website.
 
-**Airtrade International Inc.  
+You also can add or update information and close your account as stated above.
+
+When you create an account on our website, you will be given a choice as to whether or not you would like to receive email messages from us about special offers. You can modify your choice at any time by logging in to your account. You will also be able to unsubscribe from commercial email messages in any such email we send. However, we reserve the right to send you other communications, including service announcements, administrative messages, and surveys relating to your account or to your transactions on our website, without offering you the opportunity to opt out of receiving them.
+
+You may choose to register a mobile number on our website in order to receive day-of-travel flight alerts. You may discontinue these alerts at any time by logging in to your account.
+
+  
+
+
+Cookies and other technologies
+
+Cookies are small data text files that are stored on your computer's hard drive (if your Web browser permits). BudgetAir.com uses cookies for the following general purposes: 
+
+To help us recognize your browser as a previous visitor and save and remember any preferences you may have set while your browser was visiting our website. For example, if you create an account on our website, we may use cookies to remember your account information so you do not need to log into our website each time you visit. We also may record your password in a cookie, if you check the box entitled "Sign me in automatically next time." Note that for security purposes we encrypt all account-related data included in such cookies. Cookies will not contain any personal information unless you have created an account with us.
+
+To help us customize the content and advertisements provided to you on this website and on other websites across the Internet. For example, when you access a page on our website, a cookie is automatically set by us, our service providers (such as Google), or our partners to recognize your browser as you navigate the Internet and to present you with information and advertising based on your apparent interests. See Display of tailored advertising and your choices for more information about our online advertising practices and your choices. You may also opt out of Google's use of cookies by visiting [Google advertising opt-out page](https://www.google.com/settings/ads/onweb/?hl=en&sig=ACi0TCiiAXXaTPKMfm37GAoFBWk8jkYkH_7pTzDcIOo_RF9gEfULkAnnxyz2Bawyd3lgFkvjNCtDMmsJC1ngLxN3NuPxb_tWddkKWp_CevszNKqwQlFR-3HkOzPpfYToptSeS0nBuLkRyk-yKeH5N3Zso89C8_YY-xE1ejCr1_z_I_M1hvI72tzxT-8vYwf1LR_n9YiiTn5/)
+
+To help us measure and research the effectiveness of our website features and offerings, advertisements, and email communications. For example, we may use cookies to determine which emails you open and act upon.
+
+The Help menu on the toolbar of most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. For example, to disable cookies using Internet Explorer, select "Internet Options" under the Tools menu and click on "Privacy." Select "High" or "Block All Cookies." To disable cookies using Mozilla Firefox, select "Options" under the "Tools" menu. Note, however, that if you refuse to accept cookies, you may not be able to access many of the tools and features offered on our website.
+
+Our website also uses beacons (also known as clear gifs, pixel tags or Web bugs), which are tiny graphics with a unique identifier, similar in function to cookies, that are placed in the code of a Web page. We use beacons to monitor traffic patterns of users across pages within our website, to deliver or communicate with cookies, to determine whether you have come to our website from an online advertisement displayed on a third party website, and to improve website performance. We also may allow our third party vendors to use beacons to help us understand which emails have been opened by recipients and to track the visitor traffic and actions on our website. This helps us to measure the effectiveness of our content and other offerings.
+
+If you have any questions about our use of cookies or other technologies, please email us at 
+
+[cs@BudgetAir.com](mailto:cs@BudgetAir.com).
+
+  
+
+
+Display of tailored advertising and your choices
+
+Data collected by us to serve you with relevant advertising. We want to help provide you with relevant content and other information as you use the Internet. To do this, we may, through Cookies and other technologies, collect and store information about your travel-related or other searches, such as prospective itineraries, airfare information or entertainment bookings in which you indicate interest. We use this information, together with other information we have collected about you, to serve you with ads, on our website or elsewhere online, that match your apparent interests. For example, if you search for a flight to Shanghai on our website, you may see an advertisement for a Shanghai travel package on our website or on another website you visit. We do not combine information we collect about your travel-related or other searches with personal information (such as your email address) in order to serve you with advertisements nor do we share your personal information with third parties so that they can serve you with advertisements. 
+
+If you wish to opt-out of this kind of advertising, you can either delete cookies on your browser or you can click on the following link: <http://www.networkadvertising.org/managing/opt_out.asp>. Note that if you choose not to receive tailored ads, you will still see online advertisements, but they will be more general and less relevant to you.
+
+Data collected by others to serve you with relevant advertising.  The advertisements you see on our website are served by us or by our service providers. However, we also allow third parties to collect information about your online activities through Cookies and other technologies. These third parties include (1) Google, which provides us with analytics data, displays advertisements for third party products and services on our website, and collects information when you view or interact with such advertisements, (2) our other business partners, which collect information when you view or interact with one of their advertisements on our website, and (3) advertising networks, which collect information about your interests when you view or interact with an advertisement they place on websites across the Internet. The information gathered by these third parties is used to make predictions about your characteristics, interests or preferences, and to display advertisements that are tailored to your apparent interests on our website and across the Internet. The information they collect does not include your personal information.
+
+Note that we do not have access to or control over Cookies and other technologies these third parties may use to collect information about your interests, and the information practices of these third parties are not covered by this Privacy Policy. Some of these companies are members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies. To learn more, please click [here](http://www.networkadvertising.org/) or [here](http://www.aboutads.info/). You may also opt out of your use of Google analytics by visiting <https://tools.google.com/dlpage/gaoptout>.
+
+Data collected by cookie-based exchanges to serve you with relevant advertising. Like other companies operating online, BudgetAir.com participates in cookie-based exchanges where anonymous information is collected about your browsing behavior through Cookies and other technologies and segmented into different topics of interest (such as travel or entertainment). These topics of interest are then shared with third parties, including advertisers and ad networks, so they can tailor advertisements to your apparent interests. We do not share personal information (such as your email address) with these companies and we do not permit these companies to collect any personal information about you on our website. Please click [here](http://www.bluekai.com/consumers.html) to learn more about cookie-based exchanges, including how to access information about the topics of interest associated with cookies on your computer and how to decline participation in these programs.  
+
+
+  
+
+
+How we protect your information
+
+We want you to feel secure and confident about using our website to make travel arrangements and other bookings, and we are committed to protecting the information we collect about you. While no website can guarantee security or that information you supply will not be intercepted while being transmitted to us over the Internet, we have implemented appropriate administrative, technical, and physical security procedures to help protect the personal information you provide to us. For example, only authorized employees are permitted to access personal information, and they may only do so for permitted business functions. In addition, we use encryption when transmitting your sensitive personal information between your system and ours, and we employ firewalls and intrusion detection systems to help prevent unauthorized persons from gaining access to your information.
+
+  
+
+
+A warning about phishing
+
+We do not and will not, at any time, request your credit card information, login name, or password, in an unsecure or unsolicited e-mail or telephone communication. 
+
+Identity theft and the practice currently known as "phishing" are of great concern to us. Safeguarding information to help protect you from identity theft is our priority. For more information about phishing, you may want to visit the Federal Government website "OnGuard Online" at <http://onguardonline.gov/phishing.html>.
+
+  
+
+
+Children's privacy
+
+We do not offer services directed to children. If we become aware that we have inadvertently received personally identifiable information from a user under the age of 13 on our website, we will delete such information from our records. If a parent or guardian becomes aware that his or her child has provided us with personal information without his or her consent, he or she should contact us at [privacy@BudgetAir.com](mailto:privacy@BudgetAir.com). 
+
+  
+
+
+External Links
+
+If any part of this website links you to other websites, please note that those websites do not operate under this Privacy Policy. We recommend you examine the privacy statements posted on those other websites to understand their procedures for collecting, using, and disclosing personal information as they may be very different from this Privacy Policy.
+
+  
+
+
+Visiting our website from outside the United States
+
+If you are visiting our website from outside the United States, please be aware that your information may be transferred to, stored, and processed in the United States, where our servers are located and our central database is operated. The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country, but please be assured that we take steps to ensure that your privacy is protected. By using our services, you understand that your information may be transferred to our facilities and those third parties with whom we share it as described in this Policy.
+
+  
+
+
+Disputes
+
+BudgetAir.com has been awarded TRUSTe's Privacy Seal signifying that this Privacy Policy and our business practices have been reviewed by TRUSTe for compliance with [ TRUSTe's Program Requirements](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.vayama.com&sealid=101) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmarkand innovative trust solutions. The TRUSTeprogram only covers information collected through our website.
+
+  
+
+
+Changes to this Privacy Policy
+
+Because the Internet is an evolving medium, we may update this Privacy Policy in the future. We will notify you about material changes to this Privacy Policy by sending a notice to the email address you provided to us or by placing a prominent notice on our website. By continuing to use our website after we post any such changes, you accept the Privacy Policy as modified.
+
+  
+
+
+* * * * * 
+
+This Privacy Policy is effective as of November 7, 2012.
+
+ **Airtrade International Inc.  
 1975 West El Camino Real
 
 Mountain View, CA 94040  
