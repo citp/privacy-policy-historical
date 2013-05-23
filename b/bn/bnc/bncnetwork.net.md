@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bncnetwork.net privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623033643id_/http%3A//www.bncnetwork.net/PGS/Portal/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bncnetwork.net privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523222509id_/https%3A//www.bncnetwork.net/PGS/Portal/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
