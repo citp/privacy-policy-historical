@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the desiplaza.us privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221065718id_/http%3A//www.desiplaza.us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desiplaza.us privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523235237id_/http%3A//desiplaza.us/privacy-policy) for the most accurate reproduction.*
 
-# Desiplaza.us : South Asian community portal of dallas. - Privacy Policy
+# Privacy Policy - Desiplaza.us : South Asian community portal of dallas.
 
 We have established this privacy policy to explain to you how your information is protected, collected and used, which may be updated by us from time to time. We will provide notice of materially significant changes to this privacy policy by posting notice on the site.
 
