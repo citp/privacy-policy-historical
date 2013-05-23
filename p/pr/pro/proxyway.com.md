@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the proxyway.com privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018190028id_/http%3A//www.proxyway.com/www/info/proxyway-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proxyway.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523182937id_/http%3A//www.proxyway.com/www/info/proxyway-privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -35,16 +35,20 @@ ProxyWay.com Privacy Policy may be changed from time to time. Please review the 
 ---|---|---  
   
 _Proxy Question_  
-• How to disable proxy settings in Internet Explorer 8.0
+• How to configure proxy settings in Internet Explorer 8.0
 
-Follow the step by step instructions below to disable proxy server settings in Internet Explorer 8.x:  
+You can easily configure proxy settings by following the steps below:  
 Open Internet Explorer.  
-Select _Tools_ and then _Internet Options_.  
-Open the _Connections_ tab and click the _LAN Settings_ button.  
-If you use a Dial-up or Virtual Private Network connection, select the necessary connection and click the _Settings_ button.  
-In the 'Proxy Server' area, uncheck the _Use a proxy server for this connection_ or _Use a proxy server for your LAN_ option.  
-Click OK.   
+Then click the _Tools_ button and select _Internet Options_.  
+Open the _Connections_ tab.  
+Click the _LAN Settings_ button. In case of using a Dial-up or Virtual Private Network connection, select the necessary connection and click the _Settings_ button.  
+Type the address and the port number of the proxy server.  
+It could happen that your network requires separate proxy addresses for different protocols - HTTP, HTTPS, or FTP. In this case click the _Advanced_ button, and then type the individual proxy server addresses for necessary protocols.  
+You can optionally enable or disable the 'automatically detect proxy settings' and 'use a proxy automatic configuration script' options.  
+In the 'Proxy Server' area, select the _Use a proxy server for this connection_ or _Use a proxy server for your LAN_ check box.  
+If necessary, enable the _'Bypass proxy server for local addresses'_ option.  
+Click OK to apply your changes.   
   
- Copyright © 2011 [ProxyWay.com](http://www.proxyway.com/) All rights reserved. | [Terms of Use](http://www.proxyway.com/www/info/proxyway-terms.html) | [Privacy Policy](http://www.proxyway.com/www/info/proxyway-privacy.html) | [Check IP](http://www.proxyway.com/www/check-ip-address/whatis-my-ip-address.html) | [Site Map](http://www.proxyway.com/www/site_map.html) | [Contact](http://www.proxyway.com/cf.html)      Thursday, October 18, 2012   
+ Copyright © 2011 [ProxyWay.com](http://www.proxyway.com/) All rights reserved. | [Terms of Use](http://www.proxyway.com/www/info/proxyway-terms.html) | [Privacy Policy](http://www.proxyway.com/www/info/proxyway-privacy.html) | [Check IP](http://www.proxyway.com/www/check-ip-address/whatis-my-ip-address.html) | [Site Map](http://www.proxyway.com/www/site_map.html) | [Contact](http://www.proxyway.com/cf.html)      Thursday, May 23, 2013   
 |   
 ---
