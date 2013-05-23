@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the lists-n-profits.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222201612id_/http%3A//lists-n-profits.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lists-n-profits.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523145933id_/http%3A//lists-n-profits.com/privacy.php) for the most accurate reproduction.*
 
 # Build Your Lists & Profits!
 
-[](http://lists-n-profits.com/banclick.php?code=ff4d70de478038c72282b7e4af1d4260)  
+[](http://lists-n-profits.com/banclick.php?code=8efe4ff08d6f51db0f7179fbef12f2f1)  
 
 
 Lists-N-Profits Privacy Policy
@@ -35,6 +35,6 @@ What happens if the Privacy Policy Changes? We will let our Visitors and Authori
 Links: This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours. 
 
   
-Copyright (c) 2010 Lists-N-Profits All Rights Reserved 
+Copyright (c) 2010-2013 Lists-N-Profits All Rights Reserved - Part of the [Trax Web](http://traxweb.com/)
 
 [Terms and Conditions](https://web.archive.org/terms.php) | [Earnings Disclaimer](https://web.archive.org/earnings.php) | [ Spam Policy](https://web.archive.org/spam.php) | [ Privacy Policy](https://web.archive.org/privacy.php) | [ Recommended Site Of The Day](https://web.archive.org/recommends.php)
