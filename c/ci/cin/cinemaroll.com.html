@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cinemaroll.com privacy policy that was archived on 2012-08-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120814181002id_/http%3A//cinemaroll.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cinemaroll.com privacy policy that was archived on 2013-05-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130523065259id_/http%3A//cinemaroll.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><head profile="http://gmpg.org/xfn/11">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -14,7 +14,7 @@
 <![endif]-->
 <link rel="alternate" type="application/rss+xml" title="Cinemaroll RSS Feed" href="http://cinemaroll.com/feed/">
 
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://cinemaroll.com/wp-content/themes/cinemaroll/js/jquery-1.3.2.min.js"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://www.sharepops.com/static/js/sp.js"></script><script type="text/javascript" src="http://cinemaroll.com/wp-content/themes/cinemaroll/js/jquery-1.3.2.min.js"></script>
 <script type="text/javascript" src="http://cinemaroll.com/wp-content/themes/cinemaroll/js/jquery-init.js"></script>
 
 <link rel="pingback" href="http://cinemaroll.com/xmlrpc.php">	
@@ -207,35 +207,61 @@ function showTriondSignupForm()
 <meta name="google-site-verification" content="_pkzL-FJXTa2WN0DBJdCrPj3fHsFP6CS4rxGiw6IR0M">
 </head>
 
-<body> 
-		<script type="text/javascript" src="http://www.triond.com/login/is-logged-in"></script>
+<body>
+<script type="text/javascript">
+var _spq = _spq || [];
+_spq.push(["_setSiteId", "tri1"]);
+
+(function() {
+  var po = document.createElement("script"); po.type = "text/javascript"; po.async = true;
+  po.src = ('https:' == document.location.protocol ? "https://" : "http://") + 'www.sharepops.com/static/js/sp.js';
+  var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+ 
+<!-- 
+		<script language="JavaScript" src="http://j.maxmind.com/app/geoip.js"></script>
+ -->
+		<script>
+			triond_user_logged_in = false;
+//			if (geoip_country_code() != 'CN'){
+//				document.write('<scr' + 'ipt type="text/javascript" src="http://www.triond.com/login/is-logged-in"></s' + 'cript>');
+//			} else {
+//				impression_country = 'CN';
+//			}
+		</script>
+
 
 <div id="leaderboard" style="display: block;">
 	
 					<!--/* OpenX Javascript Tag v2.5.60-beta */-->
 					
 					<script type="text/javascript"><!--//<![CDATA[
-					   var 	is_triond_reader;
-					   if (typeof triond_writer_id=="undefined")
-					   	 is_triond_reader = 'nontriond';
-					   else if ((typeof writer_triond_id!="undefined") && (triond_writer_id == writer_triond_id))
-					     is_triond_reader = 'nontriond';
-					   else
-					     is_triond_reader = 'yestriond'; 
-					   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
-					   var m3_r = Math.floor(Math.random()*99999999999);
-					   if (!document.MAX_used) document.MAX_used = ',';
-					   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-					   document.write ("?zoneid=597");
-					   document.write ("&clr_link=2D6097&clr_title=2D6097&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=595959&source=acf=" + readCookie("w4lfc") + is_triond_reader);
-					   document.write ('&amp;cb=' + m3_r);
-					   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-					   document.write ("&amp;loc=" + escape(window.location));
-					   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-					   if (document.context) document.write ("&context=" + escape(document.context));
-					   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-					   document.write ("'><\/scr"+"ipt>");
-					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=597&amp;clr_link=2D6097&amp;clr_title=2D6097&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=595959&amp;source=acf=nontriond&amp;cb=574794268&amp;loc=https%3A//web.archive.org/web/20120814181002id_/http%253A//cinemaroll.com/privacy-policy"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=7328d5&amp;cb=53c791b67a9a68d9c88d08f94f395df2' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=597&amp;cb=53c791b67a9a68d9c88d08f94f395df2&amp;n=7328d5' border='0' alt='' /></a></noscript>	<script type="text/javascript">antimalkar_detect('leaderboard')</script></div>
+					   if (typeof impression_country=="undefined") impression_country = '';
+					   if (impression_country != 'CN'){	
+						   var 	is_triond_reader;
+						   if (typeof triond_writer_id=="undefined")
+						   	 is_triond_reader = 'nontriond';
+						   else if ((typeof writer_triond_id!="undefined") && (triond_writer_id == writer_triond_id))
+						     is_triond_reader = 'nontriond';
+						   else
+						     is_triond_reader = 'yestriond'; 
+						   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
+						   var m3_r = Math.floor(Math.random()*99999999999);
+						   if (!document.MAX_used) document.MAX_used = ',';
+						   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+						   document.write ("?zoneid=597");
+						   document.write ("&clr_link=2D6097&clr_title=2D6097&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=595959&source=acf=" + readCookie("w4lfc") + is_triond_reader);
+						   document.write ('&amp;cb=' + m3_r);
+						   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+						   document.write ("&amp;loc=" + escape(window.location));
+						   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+						   if (document.context) document.write ("&context=" + escape(document.context));
+						   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+						   document.write ("'><\/scr"+"ipt>");
+					   }
+					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=597&amp;clr_link=2D6097&amp;clr_title=2D6097&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=595959&amp;source=acf=nontriond&amp;cb=73215377353&amp;loc=https%3A//web.archive.org/web/20130523065259id_/http%3A//cinemaroll.com/privacy-policy/"></script>	<script type="text/javascript">antimalkar_detect('leaderboard')</script></div>
 
 <div id="wrapper">
 	
@@ -299,7 +325,7 @@ function showTriondSignupForm()
 <p>(3)  Cinemaroll may share information with or disclose information to its employees, officers, directors, consultants, advisors, subsidiaries, affiliates, business partners, joint ventures, provided such disclosure is on a need-to-know basis, and subject to confidentiality provisions.</p>
 <p>(4)  Cinemaroll may share aggregated statistic data provided such information is not connected with personally identifiable data.</p>
 <p>(5)  In the event that v is merged with or acquired by another entity, the successor entity will have access to the information maintained by Cinemaroll. In such case the successor entity shall continue to be bound by the provisions of this Privacy Policy, unless and until amended in accordance with the provisions in this Privacy Policy.</p>
-<p>(6) We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click <a target="_blank" href="http://www.networkadvertising.org/managing/opt_out.asp">here</a>.</p>
+<p>(6) We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click <a target="_blank" href="http://www.networkadvertising.org/managing/opt_out.asp" rel="nofollow">here</a>.</p>
 <p>4.  Communications .</p>
 <p>a.  Cinemaroll will generally communicate with its users via email. Cinemaroll further reserves the right to use your email address to send you other communications, such as periodic newsletters, user questionnaires and surveys, and any other communications.</p>
 <p>b.  You will be able to choose whether to receive these communications, in whole or in part, upon completing a standard registration form, or at any time thereafter, by changing your preferences as instructed on the Site.</p>
@@ -406,27 +432,30 @@ function showTriondSignupForm()
 					<!--/* OpenX Javascript Tag v2.5.60-beta */-->
 					
 					<script type="text/javascript"><!--//<![CDATA[
-					   var 	is_triond_reader;
-					   if (typeof triond_writer_id=="undefined")
-					   	 is_triond_reader = 'nontriond';
-					   else if ((typeof writer_triond_id!="undefined") && (triond_writer_id == writer_triond_id))
-					     is_triond_reader = 'nontriond';
-					   else
-					     is_triond_reader = 'yestriond'; 
-					   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
-					   var m3_r = Math.floor(Math.random()*99999999999);
-					   if (!document.MAX_used) document.MAX_used = ',';
-					   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-					   document.write ("?zoneid=504");
-					   document.write ("&clr_link=2D6097&clr_title=2D6097&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=595959&source=acf=" + readCookie("w4lfc") + is_triond_reader);
-					   document.write ('&amp;cb=' + m3_r);
-					   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-					   document.write ("&amp;loc=" + escape(window.location));
-					   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-					   if (document.context) document.write ("&context=" + escape(document.context));
-					   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-					   document.write ("'><\/scr"+"ipt>");
-					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=504&amp;clr_link=2D6097&amp;clr_title=2D6097&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=595959&amp;source=acf=nontriond&amp;cb=62097712538&amp;loc=https%3A//web.archive.org/web/20120814181002id_/http%253A//cinemaroll.com/privacy-policy"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=d17be5&amp;cb=b47b91ed25a8c46cb8c721af1a01bacb' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=504&amp;cb=b47b91ed25a8c46cb8c721af1a01bacb&amp;n=d17be5' border='0' alt='' /></a></noscript>			<script type="text/javascript">antimalkar_detect('ad300')</script>		</div>
+					   if (typeof impression_country=="undefined") impression_country = '';
+					   if (impression_country != 'CN'){	
+						   var 	is_triond_reader;
+						   if (typeof triond_writer_id=="undefined")
+						   	 is_triond_reader = 'nontriond';
+						   else if ((typeof writer_triond_id!="undefined") && (triond_writer_id == writer_triond_id))
+						     is_triond_reader = 'nontriond';
+						   else
+						     is_triond_reader = 'yestriond'; 
+						   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
+						   var m3_r = Math.floor(Math.random()*99999999999);
+						   if (!document.MAX_used) document.MAX_used = ',';
+						   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+						   document.write ("?zoneid=504");
+						   document.write ("&clr_link=2D6097&clr_title=2D6097&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=595959&source=acf=" + readCookie("w4lfc") + is_triond_reader);
+						   document.write ('&amp;cb=' + m3_r);
+						   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+						   document.write ("&amp;loc=" + escape(window.location));
+						   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+						   if (document.context) document.write ("&context=" + escape(document.context));
+						   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+						   document.write ("'><\/scr"+"ipt>");
+					   }
+					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=504&amp;clr_link=2D6097&amp;clr_title=2D6097&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=595959&amp;source=acf=nontriond&amp;cb=84337417469&amp;loc=https%3A//web.archive.org/web/20130523065259id_/http%3A//cinemaroll.com/privacy-policy/"></script>			<script type="text/javascript">antimalkar_detect('ad300')</script>		</div>
 	
 		<div class="sidepanel" id="popularposts">
 			<div class="sidebar-title">Search Cinemaroll</div>	
@@ -446,7 +475,7 @@ function showTriondSignupForm()
 		<div class="sidepanel" id="popularposts">
 			<div class="sidebar-title">Popular Articles</div>	
 			<ul class="sidebar-list">
-				<li><div class="popularPostImgDiv"><a href="http://cinemaroll.com/cinemarolling/ted-2012/" title="Ted (2012)"><img src="http://s3.amazonaws.com/readers/cinemaroll/2008/02/11/111527.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://cinemaroll.com/cinemarolling/ted-2012/" title="Ted (2012)">Ted (2012)</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://cinemaroll.com/cinemarolling/sometimes-bad-movies-can-be-a-lot-of-fun/" title="Sometimes Bad Movies Can be a Lot of Fun"><img src="http://s3.amazonaws.com/readers/quazen/2008/08/18/275945.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://cinemaroll.com/cinemarolling/sometimes-bad-movies-can-be-a-lot-of-fun/" title="Sometimes Bad Movies Can be a Lot of Fun">Sometimes Bad Movies Can be a Lot of Fun</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://cinemaroll.com/cinemarolling/would-you-sit-in-an-electric-chair-while-watching-scary-movies-2/" title="Would You Sit in an Electric Chair While Watching Scary Movies?"><img src="http://s3.amazonaws.com/readers/cinemaroll/2008/10/12/386493.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://cinemaroll.com/cinemarolling/would-you-sit-in-an-electric-chair-while-watching-scary-movies-2/" title="Would You Sit in an Electric Chair While Watching Scary Movies?">Would You Sit in an Electric Chair While Watching Scary Movies?</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://cinemaroll.com/cinemarolling/film-review-of-a-ticket-to-tomahawk-a-female-marshal-a-handsome-passenger-and-struggles-between-the-arapaho-railroad-men-and-stagecoach-operators/" title="Film Review of A Ticket to Tomahawk: A Female Marshal, a Handsome Passenger, and Struggles Between The Arapaho, Railroad Men, and Stagecoach Operators"><img src="http://readers.s3.amazonaws.com/grey.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://cinemaroll.com/cinemarolling/film-review-of-a-ticket-to-tomahawk-a-female-marshal-a-handsome-passenger-and-struggles-between-the-arapaho-railroad-men-and-stagecoach-operators/" title="Film Review of A Ticket to Tomahawk: A Female Marshal, a Handsome Passenger, and Struggles Between The Arapaho, Railroad Men, and Stagecoach Operators">Film Review of A Ticket to Tomahawk: A Female Marshal, a Handsome Passenger, and Struggles Between The Arapaho, Railroad Men, and Stagecoach Operators</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://cinemaroll.com/science-fiction/alien-versus-aliens-movie-comparison/" title="Alien Versus Aliens Movie Comparison"><img src="http://s3.amazonaws.com/readers/socyberty/2007/07/30/45232.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://cinemaroll.com/science-fiction/alien-versus-aliens-movie-comparison/" title="Alien Versus Aliens Movie Comparison">Alien Versus Aliens Movie Comparison</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://cinemaroll.com/horror/movies-banned-from-the-show/" title="Movies Banned From The Show"><img src="http://s3.amazonaws.com/readers/authspot/2009/06/12/1051299.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://cinemaroll.com/horror/movies-banned-from-the-show/" title="Movies Banned From The Show">Movies Banned From The Show</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://cinemaroll.com/cinemarolling/carlo-rambaldi-1925-2012/" title="Carlo Rambaldi 1925-2012"><img src="http://s3.amazonaws.com/readers/cinemaroll/2008/10/12/386493.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://cinemaroll.com/cinemarolling/carlo-rambaldi-1925-2012/" title="Carlo Rambaldi 1925-2012">Carlo Rambaldi 1925-2012</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://cinemaroll.com/adventure/hawkeye-speaks/" title="Hawkeye Speaks!"><img src="http://s3.amazonaws.com/readers/cinemaroll/2008/10/12/386493.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://cinemaroll.com/adventure/hawkeye-speaks/" title="Hawkeye Speaks!">Hawkeye Speaks!</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://cinemaroll.com/action/film-review-of-lets-make-it-legal-a-husband-who-loves-gambling-and-roses-an-old-flame-who-loves-his-high-school-sweetheart-and-his-reputation-and-a-wife-who-wants-to-be-number-one/" title="Film Review of Lets Make It Legal: A Husband Who Loves Gambling and Roses, an Old Flame Who Loves His High School Sweetheart and His Reputation, and a Wife Who Wants to be Number One"><img src="http://s3.amazonaws.com/readers/purpleslinky/2008/10/23/408171.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://cinemaroll.com/action/film-review-of-lets-make-it-legal-a-husband-who-loves-gambling-and-roses-an-old-flame-who-loves-his-high-school-sweetheart-and-his-reputation-and-a-wife-who-wants-to-be-number-one/" title="Film Review of Lets Make It Legal: A Husband Who Loves Gambling and Roses, an Old Flame Who Loves His High School Sweetheart and His Reputation, and a Wife Who Wants to be Number One">Film Review of Lets Make It Legal: A Husband Who Loves Gambling and Roses, an Old Flame Who Loves His High School Sweetheart and His Reputation, and a Wife Who Wants to be Number One</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://cinemaroll.com/cinemarolling/film-review-of-as-young-as-you-feel-an-employee-unenthused-over-mandatory-retirement-a-precarious-ruse-and-rising-company-stock/" title="Film Review of as Young as You Feel: An Employee Unenthused Over Mandatory Retirement, a Precarious Ruse, and Rising Company Stock"><img src="http://s3.amazonaws.com/readers/purpleslinky/2008/10/23/408171.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://cinemaroll.com/cinemarolling/film-review-of-as-young-as-you-feel-an-employee-unenthused-over-mandatory-retirement-a-precarious-ruse-and-rising-company-stock/" title="Film Review of as Young as You Feel: An Employee Unenthused Over Mandatory Retirement, a Precarious Ruse, and Rising Company Stock">Film Review of as Young as You Feel: An Employee Unenthused Over Mandatory Retirement, a Precarious Ruse, and Rising Company Stock</a></div><div style="clear:both;"></div></li>			</ul>
+				<li><div class="popularPostImgDiv"><a href="http://cinemaroll.com/cinemarolling/sony-assists-rovio-mad-wild-birds-motion-picture-manufacturing/" title="Sony Assists Rovio Mad Wild Birds Motion Picture Manufacturing"><img src="http://s3.amazonaws.com/readers/gameolosophy/2008/01/16/101367.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://cinemaroll.com/cinemarolling/sony-assists-rovio-mad-wild-birds-motion-picture-manufacturing/" title="Sony Assists Rovio Mad Wild Birds Motion Picture Manufacturing">Sony Assists Rovio Mad Wild Birds Motion Picture Manufacturing</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://cinemaroll.com/cinemarolling/contraband-1980/" title="Contraband (1980)"><img src="http://s3.amazonaws.com/readers/socyberty/2007/09/22/61391.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://cinemaroll.com/cinemarolling/contraband-1980/" title="Contraband (1980)">Contraband (1980)</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://cinemaroll.com/cinemarolling/hobo-with-a-shotgun-2011-2/" title="Hobo with a Shotgun (2011)"><img src="http://s3.amazonaws.com/readers/socyberty/2007/09/22/61391.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://cinemaroll.com/cinemarolling/hobo-with-a-shotgun-2011-2/" title="Hobo with a Shotgun (2011)">Hobo with a Shotgun (2011)</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://cinemaroll.com/cinemarolling/john-cleese/" title="John Cleese"><img src="http://s3.amazonaws.com/readers/cinemaroll/2008/01/21/103262.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://cinemaroll.com/cinemarolling/john-cleese/" title="John Cleese">John Cleese</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://cinemaroll.com/cinemarolling/shock-moment-shots-in-cannes-man-fires-at-tv-transmission-christoph-waltz-middle/" title="Shock-moment Shots in Cannes Man Fires at TV Transmission  Christoph Waltz Middle"><img src="http://s3.amazonaws.com/readers/musicouch/2008/09/25/352983.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://cinemaroll.com/cinemarolling/shock-moment-shots-in-cannes-man-fires-at-tv-transmission-christoph-waltz-middle/" title="Shock-moment Shots in Cannes Man Fires at TV Transmission  Christoph Waltz Middle">Shock-moment Shots in Cannes Man Fires at TV Transmission  Christoph Waltz Middle</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://cinemaroll.com/fantasy/bestiary/" title="Bestiary"><img src="http://s3.amazonaws.com/readers/bookstove/2007/11/23/82206.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://cinemaroll.com/fantasy/bestiary/" title="Bestiary">Bestiary</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://cinemaroll.com/horror/movie-review-of-house-at-the-end-of-the-street/" title="Movie Review of " house="" at="" the="" end="" of="" street""=""><img src="http://s3.amazonaws.com/readers/scienceray/2008/05/03/155494.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://cinemaroll.com/horror/movie-review-of-house-at-the-end-of-the-street/" title="Movie Review of " house="" at="" the="" end="" of="" street""="">Movie Review of "House at The End of The Street"</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://cinemaroll.com/cinemarolling/best-worst-movie-2009/" title="Best Worst Movie (2009)"><img src="http://s3.amazonaws.com/readers/authspot/2007/05/23/33184.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://cinemaroll.com/cinemarolling/best-worst-movie-2009/" title="Best Worst Movie (2009)">Best Worst Movie (2009)</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://cinemaroll.com/cinemarolling/actress-katharine-hepburn-biography/" title="Actress Katharine Hepburn Biography"><img src="http://s3.amazonaws.com/readers/purpleslinky/2008/02/27/118679.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://cinemaroll.com/cinemarolling/actress-katharine-hepburn-biography/" title="Actress Katharine Hepburn Biography">Actress Katharine Hepburn Biography</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://cinemaroll.com/cinemarolling/stars-in-cannes-parade-of-sexy-ladies/" title="Stars in Cannes: Parade of Sexy Ladies"><img src="http://s3.amazonaws.com/readers/cinemaroll/2008/01/16/101485.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://cinemaroll.com/cinemarolling/stars-in-cannes-parade-of-sexy-ladies/" title="Stars in Cannes: Parade of Sexy Ladies">Stars in Cannes: Parade of Sexy Ladies</a></div><div style="clear:both;"></div></li>			</ul>
 		</div>
 		
 		<div id="ad160Wrapper">
@@ -460,58 +489,64 @@ function showTriondSignupForm()
 					<!--/* OpenX Javascript Tag v2.5.60-beta */-->
 					
 					<script type="text/javascript"><!--//<![CDATA[
-					   var 	is_triond_reader;
-					   if (typeof triond_writer_id=="undefined")
-					   	 is_triond_reader = 'nontriond';
-					   else if ((typeof writer_triond_id!="undefined") && (triond_writer_id == writer_triond_id))
-					     is_triond_reader = 'nontriond';
-					   else
-					     is_triond_reader = 'yestriond'; 
-					   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
-					   var m3_r = Math.floor(Math.random()*99999999999);
-					   if (!document.MAX_used) document.MAX_used = ',';
-					   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-					   document.write ("?zoneid=792");
-					   document.write ("&clr_link=2D6097&clr_title=2D6097&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=595959&source=acf=" + readCookie("w4lfc") + is_triond_reader);
-					   document.write ('&amp;cb=' + m3_r);
-					   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-					   document.write ("&amp;loc=" + escape(window.location));
-					   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-					   if (document.context) document.write ("&context=" + escape(document.context));
-					   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-					   document.write ("'><\/scr"+"ipt>");
-					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=792&amp;clr_link=2D6097&amp;clr_title=2D6097&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=595959&amp;source=acf=nontriond&amp;cb=33923659760&amp;loc=https%3A//web.archive.org/web/20120814181002id_/http%253A//cinemaroll.com/privacy-policy"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=27357f&amp;cb=875b58f4e297690c9ffba8ca2daccb2b' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=792&amp;cb=875b58f4e297690c9ffba8ca2daccb2b&amp;n=27357f' border='0' alt='' /></a></noscript>			</div>
+					   if (typeof impression_country=="undefined") impression_country = '';
+					   if (impression_country != 'CN'){	
+						   var 	is_triond_reader;
+						   if (typeof triond_writer_id=="undefined")
+						   	 is_triond_reader = 'nontriond';
+						   else if ((typeof writer_triond_id!="undefined") && (triond_writer_id == writer_triond_id))
+						     is_triond_reader = 'nontriond';
+						   else
+						     is_triond_reader = 'yestriond'; 
+						   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
+						   var m3_r = Math.floor(Math.random()*99999999999);
+						   if (!document.MAX_used) document.MAX_used = ',';
+						   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+						   document.write ("?zoneid=792");
+						   document.write ("&clr_link=2D6097&clr_title=2D6097&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=595959&source=acf=" + readCookie("w4lfc") + is_triond_reader);
+						   document.write ('&amp;cb=' + m3_r);
+						   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+						   document.write ("&amp;loc=" + escape(window.location));
+						   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+						   if (document.context) document.write ("&context=" + escape(document.context));
+						   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+						   document.write ("'><\/scr"+"ipt>");
+					   }
+					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=792&amp;clr_link=2D6097&amp;clr_title=2D6097&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=595959&amp;source=acf=nontriond&amp;cb=86732128158&amp;loc=https%3A//web.archive.org/web/20130523065259id_/http%3A//cinemaroll.com/privacy-policy/"></script>			</div>
 			<div id="ad160" style="display: block;">
 				
 					<!--/* OpenX Javascript Tag v2.5.60-beta */-->
 					
 					<script type="text/javascript"><!--//<![CDATA[
-					   var 	is_triond_reader;
-					   if (typeof triond_writer_id=="undefined")
-					   	 is_triond_reader = 'nontriond';
-					   else if ((typeof writer_triond_id!="undefined") && (triond_writer_id == writer_triond_id))
-					     is_triond_reader = 'nontriond';
-					   else
-					     is_triond_reader = 'yestriond'; 
-					   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
-					   var m3_r = Math.floor(Math.random()*99999999999);
-					   if (!document.MAX_used) document.MAX_used = ',';
-					   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-					   document.write ("?zoneid=505");
-					   document.write ("&clr_link=2D6097&clr_title=2D6097&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=595959&source=acf=" + readCookie("w4lfc") + is_triond_reader);
-					   document.write ('&amp;cb=' + m3_r);
-					   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-					   document.write ("&amp;loc=" + escape(window.location));
-					   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-					   if (document.context) document.write ("&context=" + escape(document.context));
-					   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-					   document.write ("'><\/scr"+"ipt>");
-					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=505&amp;clr_link=2D6097&amp;clr_title=2D6097&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=595959&amp;source=acf=nontriond&amp;cb=51446954674&amp;loc=https%3A//web.archive.org/web/20120814181002id_/http%253A//cinemaroll.com/privacy-policy"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=7c4ba6&amp;cb=d408ee1909aea25e1308e366e2906eb9' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=505&amp;cb=d408ee1909aea25e1308e366e2906eb9&amp;n=7c4ba6' border='0' alt='' /></a></noscript>				<script type="text/javascript">antimalkar_detect('ad160')</script>			</div>
+					   if (typeof impression_country=="undefined") impression_country = '';
+					   if (impression_country != 'CN'){	
+						   var 	is_triond_reader;
+						   if (typeof triond_writer_id=="undefined")
+						   	 is_triond_reader = 'nontriond';
+						   else if ((typeof writer_triond_id!="undefined") && (triond_writer_id == writer_triond_id))
+						     is_triond_reader = 'nontriond';
+						   else
+						     is_triond_reader = 'yestriond'; 
+						   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
+						   var m3_r = Math.floor(Math.random()*99999999999);
+						   if (!document.MAX_used) document.MAX_used = ',';
+						   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+						   document.write ("?zoneid=505");
+						   document.write ("&clr_link=2D6097&clr_title=2D6097&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=595959&source=acf=" + readCookie("w4lfc") + is_triond_reader);
+						   document.write ('&amp;cb=' + m3_r);
+						   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+						   document.write ("&amp;loc=" + escape(window.location));
+						   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+						   if (document.context) document.write ("&context=" + escape(document.context));
+						   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+						   document.write ("'><\/scr"+"ipt>");
+					   }
+					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=505&amp;clr_link=2D6097&amp;clr_title=2D6097&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=595959&amp;source=acf=nontriond&amp;cb=35605531276&amp;loc=https%3A//web.archive.org/web/20130523065259id_/http%3A//cinemaroll.com/privacy-policy/"></script>				<script type="text/javascript">antimalkar_detect('ad160')</script>			</div>
 		</div>
 		<div style="clear: both;"></div>
 
 		
-	<div id="triond-signup-div" style="display:none">
+	<div id="triond-signup-div" style="display: block;">
 	</div>
 	<script type="text/javascript">
 	if(typeof triond_user_logged_in != "undefined")
@@ -528,27 +563,30 @@ function showTriondSignupForm()
 					<!--/* OpenX Javascript Tag v2.5.60-beta */-->
 					
 					<script type="text/javascript"><!--//<![CDATA[
-					   var 	is_triond_reader;
-					   if (typeof triond_writer_id=="undefined")
-					   	 is_triond_reader = 'nontriond';
-					   else if ((typeof writer_triond_id!="undefined") && (triond_writer_id == writer_triond_id))
-					     is_triond_reader = 'nontriond';
-					   else
-					     is_triond_reader = 'yestriond'; 
-					   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
-					   var m3_r = Math.floor(Math.random()*99999999999);
-					   if (!document.MAX_used) document.MAX_used = ',';
-					   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-					   document.write ("?zoneid=1510");
-					   document.write ("&clr_link=2D6097&clr_title=2D6097&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=595959&source=acf=" + readCookie("w4lfc") + is_triond_reader);
-					   document.write ('&amp;cb=' + m3_r);
-					   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-					   document.write ("&amp;loc=" + escape(window.location));
-					   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-					   if (document.context) document.write ("&context=" + escape(document.context));
-					   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-					   document.write ("'><\/scr"+"ipt>");
-					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=1510&amp;clr_link=2D6097&amp;clr_title=2D6097&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=595959&amp;source=acf=nontriond&amp;cb=20876633680&amp;loc=https%3A//web.archive.org/web/20120814181002id_/http%253A//cinemaroll.com/privacy-policy"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=566fbf&amp;cb=5bb3897eaab0c94f9b1e2cd64a7a0bc8' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=1510&amp;cb=5bb3897eaab0c94f9b1e2cd64a7a0bc8&amp;n=566fbf' border='0' alt='' /></a></noscript>		</div>
+					   if (typeof impression_country=="undefined") impression_country = '';
+					   if (impression_country != 'CN'){	
+						   var 	is_triond_reader;
+						   if (typeof triond_writer_id=="undefined")
+						   	 is_triond_reader = 'nontriond';
+						   else if ((typeof writer_triond_id!="undefined") && (triond_writer_id == writer_triond_id))
+						     is_triond_reader = 'nontriond';
+						   else
+						     is_triond_reader = 'yestriond'; 
+						   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
+						   var m3_r = Math.floor(Math.random()*99999999999);
+						   if (!document.MAX_used) document.MAX_used = ',';
+						   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+						   document.write ("?zoneid=1510");
+						   document.write ("&clr_link=2D6097&clr_title=2D6097&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=595959&source=acf=" + readCookie("w4lfc") + is_triond_reader);
+						   document.write ('&amp;cb=' + m3_r);
+						   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+						   document.write ("&amp;loc=" + escape(window.location));
+						   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+						   if (document.context) document.write ("&context=" + escape(document.context));
+						   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+						   document.write ("'><\/scr"+"ipt>");
+					   }
+					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=1510&amp;clr_link=2D6097&amp;clr_title=2D6097&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=595959&amp;source=acf=nontriond&amp;cb=7661893812&amp;loc=https%3A//web.archive.org/web/20130523065259id_/http%3A//cinemaroll.com/privacy-policy/"></script>		</div>
 
 		
 		<div class="sidepanel" id="comments">
@@ -587,7 +625,7 @@ function showTriondSignupForm()
 <noscript>
 <a href="http://www.quantcast.com/p-daj4ISsTm6BnE" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-daj4ISsTm6BnE.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
 </noscript>
-<img width="1" height="1" border="0" src="http://wprest.triond.com/cntimp?home_channel_id=1034&amp;rnd=2315720548"><script type="text/javascript">
+<script type="text/javascript">
 					var _gaq = _gaq || [];
 					_gaq.push(['t14._setAccount', 'UA-1488967-14']);_gaq.push(['t14._trackPageview']);_gaq.push(['t29._setAccount', 'UA-1488967-29']);_gaq.push(['t29._trackPageview']);
 					(function() {
@@ -621,53 +659,59 @@ var _sf_async_config={uid:6902};
 					<!--/* OpenX Javascript Tag v2.5.60-beta */-->
 					
 					<script type="text/javascript"><!--//<![CDATA[
-					   var 	is_triond_reader;
-					   if (typeof triond_writer_id=="undefined")
-					   	 is_triond_reader = 'nontriond';
-					   else if ((typeof writer_triond_id!="undefined") && (triond_writer_id == writer_triond_id))
-					     is_triond_reader = 'nontriond';
-					   else
-					     is_triond_reader = 'yestriond'; 
-					   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
-					   var m3_r = Math.floor(Math.random()*99999999999);
-					   if (!document.MAX_used) document.MAX_used = ',';
-					   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-					   document.write ("?zoneid=1379");
-					   document.write ("&clr_link=2D6097&clr_title=2D6097&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=595959&source=acf=" + readCookie("w4lfc") + is_triond_reader);
-					   document.write ('&amp;cb=' + m3_r);
-					   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-					   document.write ("&amp;loc=" + escape(window.location));
-					   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-					   if (document.context) document.write ("&context=" + escape(document.context));
-					   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-					   document.write ("'><\/scr"+"ipt>");
-					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=1379&amp;clr_link=2D6097&amp;clr_title=2D6097&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=595959&amp;source=acf=nontriond&amp;cb=98747971971&amp;loc=https%3A//web.archive.org/web/20120814181002id_/http%253A//cinemaroll.com/privacy-policy"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=34c80a&amp;cb=e46aaa0859f2c51da5ca97a7fd1f4ef5' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=1379&amp;cb=e46aaa0859f2c51da5ca97a7fd1f4ef5&amp;n=34c80a' border='0' alt='' /></a></noscript>	</div>
+					   if (typeof impression_country=="undefined") impression_country = '';
+					   if (impression_country != 'CN'){	
+						   var 	is_triond_reader;
+						   if (typeof triond_writer_id=="undefined")
+						   	 is_triond_reader = 'nontriond';
+						   else if ((typeof writer_triond_id!="undefined") && (triond_writer_id == writer_triond_id))
+						     is_triond_reader = 'nontriond';
+						   else
+						     is_triond_reader = 'yestriond'; 
+						   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
+						   var m3_r = Math.floor(Math.random()*99999999999);
+						   if (!document.MAX_used) document.MAX_used = ',';
+						   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+						   document.write ("?zoneid=1379");
+						   document.write ("&clr_link=2D6097&clr_title=2D6097&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=595959&source=acf=" + readCookie("w4lfc") + is_triond_reader);
+						   document.write ('&amp;cb=' + m3_r);
+						   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+						   document.write ("&amp;loc=" + escape(window.location));
+						   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+						   if (document.context) document.write ("&context=" + escape(document.context));
+						   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+						   document.write ("'><\/scr"+"ipt>");
+					   }
+					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=1379&amp;clr_link=2D6097&amp;clr_title=2D6097&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=595959&amp;source=acf=nontriond&amp;cb=67242610782&amp;loc=https%3A//web.archive.org/web/20130523065259id_/http%3A//cinemaroll.com/privacy-policy/"></script>	</div>
 	<div id="ad-slider">
 		
 					<!--/* OpenX Javascript Tag v2.5.60-beta */-->
 					
 					<script type="text/javascript"><!--//<![CDATA[
-					   var 	is_triond_reader;
-					   if (typeof triond_writer_id=="undefined")
-					   	 is_triond_reader = 'nontriond';
-					   else if ((typeof writer_triond_id!="undefined") && (triond_writer_id == writer_triond_id))
-					     is_triond_reader = 'nontriond';
-					   else
-					     is_triond_reader = 'yestriond'; 
-					   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
-					   var m3_r = Math.floor(Math.random()*99999999999);
-					   if (!document.MAX_used) document.MAX_used = ',';
-					   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-					   document.write ("?zoneid=956");
-					   document.write ("&clr_link=2D6097&clr_title=2D6097&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=595959&source=acf=" + readCookie("w4lfc") + is_triond_reader);
-					   document.write ('&amp;cb=' + m3_r);
-					   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-					   document.write ("&amp;loc=" + escape(window.location));
-					   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-					   if (document.context) document.write ("&context=" + escape(document.context));
-					   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-					   document.write ("'><\/scr"+"ipt>");
-					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=956&amp;clr_link=2D6097&amp;clr_title=2D6097&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=595959&amp;source=acf=nontriond&amp;cb=90713237416&amp;loc=https%3A//web.archive.org/web/20120814181002id_/http%253A//cinemaroll.com/privacy-policy"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=c4d9d9&amp;cb=c67fd65d56c119914050e548fa8f5332' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=956&amp;cb=c67fd65d56c119914050e548fa8f5332&amp;n=c4d9d9' border='0' alt='' /></a></noscript>	</div>
+					   if (typeof impression_country=="undefined") impression_country = '';
+					   if (impression_country != 'CN'){	
+						   var 	is_triond_reader;
+						   if (typeof triond_writer_id=="undefined")
+						   	 is_triond_reader = 'nontriond';
+						   else if ((typeof writer_triond_id!="undefined") && (triond_writer_id == writer_triond_id))
+						     is_triond_reader = 'nontriond';
+						   else
+						     is_triond_reader = 'yestriond'; 
+						   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
+						   var m3_r = Math.floor(Math.random()*99999999999);
+						   if (!document.MAX_used) document.MAX_used = ',';
+						   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+						   document.write ("?zoneid=956");
+						   document.write ("&clr_link=2D6097&clr_title=2D6097&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=595959&source=acf=" + readCookie("w4lfc") + is_triond_reader);
+						   document.write ('&amp;cb=' + m3_r);
+						   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+						   document.write ("&amp;loc=" + escape(window.location));
+						   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+						   if (document.context) document.write ("&context=" + escape(document.context));
+						   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+						   document.write ("'><\/scr"+"ipt>");
+					   }
+					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=956&amp;clr_link=2D6097&amp;clr_title=2D6097&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=595959&amp;source=acf=nontriond&amp;cb=39524579890&amp;loc=https%3A//web.archive.org/web/20130523065259id_/http%3A//cinemaroll.com/privacy-policy/"></script>	</div>
 <!-- start eXelate tag - Triond - Default Site -->
 
 <script type="text/javascript" src="http://loadus.exelator.com/load/?p=149&amp;g=006&amp;c=285363&amp;ctg=movies&amp;subctg=uncategorized"></script>
@@ -677,49 +721,58 @@ var _sf_async_config={uid:6902};
 					<!--/* OpenX Javascript Tag v2.5.60-beta */-->
 					
 					<script type="text/javascript"><!--//<![CDATA[
-					   var 	is_triond_reader;
-					   if (typeof triond_writer_id=="undefined")
-					   	 is_triond_reader = 'nontriond';
-					   else if ((typeof writer_triond_id!="undefined") && (triond_writer_id == writer_triond_id))
-					     is_triond_reader = 'nontriond';
-					   else
-					     is_triond_reader = 'yestriond'; 
-					   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
-					   var m3_r = Math.floor(Math.random()*99999999999);
-					   if (!document.MAX_used) document.MAX_used = ',';
-					   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-					   document.write ("?zoneid=1576");
-					   document.write ("&clr_link=2D6097&clr_title=2D6097&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=595959&source=acf=" + readCookie("w4lfc") + is_triond_reader);
-					   document.write ('&amp;cb=' + m3_r);
-					   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-					   document.write ("&amp;loc=" + escape(window.location));
-					   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-					   if (document.context) document.write ("&context=" + escape(document.context));
-					   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-					   document.write ("'><\/scr"+"ipt>");
-					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=1576&amp;clr_link=2D6097&amp;clr_title=2D6097&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=595959&amp;source=acf=nontriond&amp;cb=71557938341&amp;loc=https%3A//web.archive.org/web/20120814181002id_/http%253A//cinemaroll.com/privacy-policy"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=62438f&amp;cb=e337ddf56b93c2159a301e4ceb2fca38' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=1576&amp;cb=e337ddf56b93c2159a301e4ceb2fca38&amp;n=62438f' border='0' alt='' /></a></noscript>
+					   if (typeof impression_country=="undefined") impression_country = '';
+					   if (impression_country != 'CN'){	
+						   var 	is_triond_reader;
+						   if (typeof triond_writer_id=="undefined")
+						   	 is_triond_reader = 'nontriond';
+						   else if ((typeof writer_triond_id!="undefined") && (triond_writer_id == writer_triond_id))
+						     is_triond_reader = 'nontriond';
+						   else
+						     is_triond_reader = 'yestriond'; 
+						   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
+						   var m3_r = Math.floor(Math.random()*99999999999);
+						   if (!document.MAX_used) document.MAX_used = ',';
+						   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+						   document.write ("?zoneid=1576");
+						   document.write ("&clr_link=2D6097&clr_title=2D6097&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=595959&source=acf=" + readCookie("w4lfc") + is_triond_reader);
+						   document.write ('&amp;cb=' + m3_r);
+						   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+						   document.write ("&amp;loc=" + escape(window.location));
+						   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+						   if (document.context) document.write ("&context=" + escape(document.context));
+						   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+						   document.write ("'><\/scr"+"ipt>");
+					   }
+					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=1576&amp;clr_link=2D6097&amp;clr_title=2D6097&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=595959&amp;source=acf=nontriond&amp;cb=10250480150&amp;loc=https%3A//web.archive.org/web/20130523065259id_/http%3A//cinemaroll.com/privacy-policy/"></script>
 					<!--/* OpenX Javascript Tag v2.5.60-beta */-->
 					
 					<script type="text/javascript"><!--//<![CDATA[
-					   var 	is_triond_reader;
-					   if (typeof triond_writer_id=="undefined")
-					   	 is_triond_reader = 'nontriond';
-					   else if ((typeof writer_triond_id!="undefined") && (triond_writer_id == writer_triond_id))
-					     is_triond_reader = 'nontriond';
-					   else
-					     is_triond_reader = 'yestriond'; 
-					   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
-					   var m3_r = Math.floor(Math.random()*99999999999);
-					   if (!document.MAX_used) document.MAX_used = ',';
-					   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-					   document.write ("?zoneid=1588");
-					   document.write ("&clr_link=2D6097&clr_title=2D6097&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=595959&source=acf=" + readCookie("w4lfc") + is_triond_reader);
-					   document.write ('&amp;cb=' + m3_r);
-					   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-					   document.write ("&amp;loc=" + escape(window.location));
-					   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-					   if (document.context) document.write ("&context=" + escape(document.context));
-					   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-					   document.write ("'><\/scr"+"ipt>");
-					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=1588&amp;clr_link=2D6097&amp;clr_title=2D6097&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=595959&amp;source=acf=nontriond&amp;cb=38586694858&amp;loc=https%3A//web.archive.org/web/20120814181002id_/http%253A//cinemaroll.com/privacy-policy"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=c8edb7&amp;cb=abb4a7882788b2507578e9e2038897c9' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=1588&amp;cb=abb4a7882788b2507578e9e2038897c9&amp;n=c8edb7' border='0' alt='' /></a></noscript>
+					   if (typeof impression_country=="undefined") impression_country = '';
+					   if (impression_country != 'CN'){	
+						   var 	is_triond_reader;
+						   if (typeof triond_writer_id=="undefined")
+						   	 is_triond_reader = 'nontriond';
+						   else if ((typeof writer_triond_id!="undefined") && (triond_writer_id == writer_triond_id))
+						     is_triond_reader = 'nontriond';
+						   else
+						     is_triond_reader = 'yestriond'; 
+						   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
+						   var m3_r = Math.floor(Math.random()*99999999999);
+						   if (!document.MAX_used) document.MAX_used = ',';
+						   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+						   document.write ("?zoneid=1588");
+						   document.write ("&clr_link=2D6097&clr_title=2D6097&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=595959&source=acf=" + readCookie("w4lfc") + is_triond_reader);
+						   document.write ('&amp;cb=' + m3_r);
+						   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+						   document.write ("&amp;loc=" + escape(window.location));
+						   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+						   if (document.context) document.write ("&context=" + escape(document.context));
+						   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+						   document.write ("'><\/scr"+"ipt>");
+					   }
+					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=1588&amp;clr_link=2D6097&amp;clr_title=2D6097&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=595959&amp;source=acf=nontriond&amp;cb=94556870857&amp;loc=https%3A//web.archive.org/web/20130523065259id_/http%3A//cinemaroll.com/privacy-policy/"></script>
+
+
+
 <script language="javascript" type="text/javascript" src="https://s3.amazonaws.com/static.chartbeat.com/js/chartbeat.js"></script></body></html>
