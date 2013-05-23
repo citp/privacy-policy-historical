@@ -1,48 +1,83 @@
-> *The following text is extracted and transformed from the latinstockinvesting.com privacy policy that was archived on 2011-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111010000012id_/http%3A//www.latincapitalmarket.com/help/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the latinstockinvesting.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523054133id_/http%3A//www.acamarglobal.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Latin Capital Market
+# Privacy | ACAMAR GLOBAL INVESTMENTS
 
-## Who's online
+### Our Commitment to Privacy
 
-There are currently _0 users_ and _0 guests_ online.
+Acamar Global Investments is committed to maintaining the confidentiality, integrity, and security of personal information about our current and prospective customers. Please note that certain details of this policy may depend on whether you deal with us through an investment professional, directly as an individual investor, or whether Acamar Global provides services to your employer or plan sponsor. The privacy policies of Acamar Global Investments is reviewed annually. Our printed and online notices are then updated to reflect any changes.
 
-Latin Capital Market  
-15430 Endeavor Drive  
-Jupiter, FL 33478 USA  
-1-561-282-4566
+**Acamar Global Investments Privacy Policy**
 
-| 
+**How and why we obtain personal information**  
+Acamar Global takes great care to protect personal information about you and when we use it, we do so with respect for your privacy. We may use personal information about you to service and maintain your account; process transactions in your account; respond to inquiries from you or your representative; develop, offer, and deliver products and services; or to fulfill legal and regulatory requirements. Acamar Global may collect public and non-public personal information about you from any of the following sources:
 
-PRIVACY STATEMENT  
-Our company is committed to preserving your trust and confidence. Because your privacy is important, we have created this privacy statement in order to demonstrate this commitment. The following discloses our information gathering and dissemination practices for this website.
+• You or your representative on applications or forms (for example, name, address, Social Security number, birth date, assets and income)  
+• You or your employer or plan sponsor if Acamar Global provides them with recordkeeping services (for example, payroll, human resources, or benefits information)  
+• Transactional activity in your account (for example, trading history and balances)  
+• Other interactions with Acamar Global (for example, discussions with our customer service staff or information you enter into our websites)  
+• Information from consumer reporting agencies (for example, to assess your creditworthiness for margin products)  
+• Information from other third-party data services (for example, to verify your identity and to better understand your product and service needs)  
+• You or your representative regarding your preferences (for example, your choice of electronic statement delivery, or the screen layout you specify if you use our Internet sites)  
+• Other sources with your consent or with the consent of your representative (for example, from other institutions if you transfer positions into Acamar Global)
 
-USE OF YOUR IP ADDRESS  
-An IP (Internet Protocol) address is a 32-bit numeric address written as four numbers separated by periods. It is a unique identifier for a computer or device on a network like the Internet. We use your IP address to help diagnose problems with our server and to administer our website. Your IP address is used to help identify you and to gather broad information to help us better serve you.
+**How we protect information about you**
 
-COOKIES  
-A “cookie” is a small piece of information that is stored by your Internet browser software on your computer’s hard drive. Cookies are commonly used to facilitate secure website connections via a unique user name and password, so that you can buy things in an online store and access services that are in password protected areas of a site. They also may be used to facilitate automatic log-in (you can save your own user name and password so you don’t have to re-enter it each time you visit). Cookies are used to authenticate website users and keep track of the user session. They allow us to better analyze our site’s traffic patterns and to provide improved content, throughput, advertisements, products and services. They help us to refine and enhance the visitor registration process and add personalization features to customize the site to your needs. Cookies also help identify information that we may need to better serve you should there be any problems with your use of this site. This kind of information may include the web browser you use, the type of computer, the operating system, the Internet service providers, and other similar information. This information is used for various personalization features. We may share this information with our partners, suppliers, and other third parties so that they can better serve you too. We may sometimes display advertisements on this site from companies outside of our own. These ads may contain their own cookies. While we use cookies in other parts of our website, cookies received with electronic ads are collected by these other companies, and we do not have access to this information. Select customer data may be shared with the advertising companies.
+Acamar Global considers the protection of personal information to be a foundation of customer trust and a sound business practice. We employ physical, electronic and procedural controls and we regularly adapt these controls to respond to changing requirements and advances in technology. At Acamar Global, we restrict access to personal information to those who require it to develop, support, offer and deliver products and services to you.
 
-COLLECTION AND USE OF DATA  
-Our site’s registration form requires users to give us contact information (such as name and email address), unique identifiers, and demographic information (such as sex or age). We use this information to enhance the site so that it can offer you a more personalized experience. We also use the information to communicate information about our company, promotional material such as contests, questionnaires and surveys, and promotional material from some of our partners. Users may opt-out of receiving future mailings by using the tool explained in the “Updating and Removal of Data” section below. Unique identifiers are collected to verify the user’s identity, for use as account numbers in our record system, and for other purposes. Demographic profile data is also collected at our site. We use this data to tailor the user experience, showing you content that is most likely to be of interest to you, and displaying the content according to your preferences. This information may be shared with our affiliates or third-party service providers such as fulfillment centers, mailing houses, event providers, and customer support organizations.
+**How we share information about you with third parties**
 
-LINKS TO WEBSITES OUTSIDE OF THIS ONE  
-This site contains links to other sites outside of our own network. We are not responsible for the privacy practices or the content of such websites.
+Acamar Global does not share personal information about our customers with unaffiliated third parties for use in marketing their products and services. We may share personal information with the following entities:
 
-CUSTOMER ORDER INFORMATION  
-Our site uses order forms for customers to request information, products and services. Contact information from the order form is used to send orders, communicate information and promotional material from our company and partner companies. Financial information that is collected is used to bill you for products and services ordered. The security of your information is a paramount concern to us. When you place orders on this site, we offer the use of a secure server. The secure server software (SSL) encrypts all information you input before it is sent to us. Furthermore, we have implemented industry standard security mechanisms and procedures to protect data from loss, misuse, and unauthorized access, disclosure, alteration and destruction.
+• Unaffiliated service providers (for example, printing and mailing companies, securities clearinghouses, marketing service providers, and other entities who may provide services at Acamar Global's direction)  
+• Government agencies, other regulatory bodies and law enforcement officials (for example, for tax purposes or for reporting suspicious transactions)  
+• Other organizations, with your consent or as directed by your representative (for example, if you use Acamar Global as a financial reference in applying for credit with another institution), or as permitted or required by law (for example, for fraud prevention)
 
-SUPPLEMENTAL INFORMATION  
-This site supplements the information that you provide with information that is received from third parties. For example, your address may be run against the U.S. postal service database in an effort to correct any typographical errors, so that the publications you seek will indeed arrive at the right location.
+Our service providers are obligated to keep the personal information we share with them confidential and use it only to provide services specified by Acamar Global. 
 
-UPDATING AND REMOVAL OF DATA  
-You may have your name removed from our email marketing lists at any time, by visiting http://www.latincapitalmarket.com/p/unsubscribe.html or you can send a request by mail to the following postal address: Latin Capital Market, 15430 Endeavour Dr.- Suite 200, Jupiter, FL 33478
+Based on the nature of your relationship with Acamar Global, we may exchange information with other third parties as described below:
 
-CONTACTING THE WEBSITE  
-If you have any questions about this statement, the practices of this website, or your dealings with this website, you can enter comments online at http://www.latincapitalmarket.com/contact/support, call 1-561-282-4566, or write:  
-Latin Capital Market Website  
-15430 Endeavour Drive – Suite 200  
-Jupiter, FL  
-33478 USA
+• If Acamar Global provides workplace services to your employer or plan sponsor, such as payroll, human resources or benefits recordkeeping services, Acamar Global may exchange any information received in connection with such services with your employer or plan sponsor or others they may authorize.  
+• If you conduct business with Acamar Global through your investment professional, we may exchange information we collect with your investment professional or with others they may authorize.
 
-|   
----|---|---
+**How we share information about you within Acamar Global**
+
+We may share personal information about you with various Acamar Global corporate affiliates including internal service providers which perform, for example, printing, mailing, and data processing services. Information collected from investment professionals' customers is not shared with Acamar Global affiliates for marketing purposes, except with your consent or the consent of your investment professional and as allowed by law.
+
+**Privacy online**
+
+Privacy, security, and service in Acamar Global's online operations are just as critical as in the rest of our business. We use firewall barriers, encryption techniques and authentication procedures, among others, to maintain the security of your online session and to protect Acamar Global accounts and systems from unauthorized access.  
+When you interact with us through online channels (for example, websites and mobile applications) owned and controlled by Acamar Global Investments ("Acamar Global websites"), Acamar Global manages personal information in accordance with all of the practices and safeguards described previously. When you visit Acamar Global websites, we may collect technical and navigational information, such as device type, browser type, Internet protocol address, pages visited, and average time spent on Acamar Global websites. We use this information for a variety of purposes, such as maintaining the security of your online session, facilitating site navigation, improving Acamar Global website design and functionality, and personalizing your experience on Acamar Global websites. Additionally, the following policies and practices apply when you are online.
+
+**Cookies and similar technologies**
+
+We use cookies and similar technologies to support the operation of Acamar Global websites. Cookies are small amounts of data that a website sends to a web browser on a visitor's computer. Our cookies help us to collect information about visitors to Acamar Global websites, including date and time of visits, pages viewed, amount of time spent on our sites, or general information about the device used to access the site. Acamar Global cookies are also used for security purposes and to personalize your experience, such as customizing your screen layout. You can refuse or delete cookies. Most browsers and mobile devices offer their own settings to manage cookies. If you refuse a cookie when on an Acamar Global website, or if you delete cookies, you may experience some inconvenience in your use of Acamar Global websites. For example, you may not be able to sign in and access your account, or we may not be able to recognize you, your device, or your online preferences. Both Acamar Global and third-party service providers we hire may use cookies and other technologies, such as web beacons or pixel tags, in online advertising as described below. We do not share personally identifiable information about our customers with these third-party service providers, and these service providers do not collect such information on our behalf.
+
+**Advertising on Acamar Global websites**
+
+Acamar Global advertises on some pages within the Acamar Global websites, and when we do, we may use information about your relationship with us, such as the types of accounts you have, to tailor advertisements about Acamar Global products and services that may be of interest to you. We may also use third-party service providers to help us determine which Acamar Global products and services may be of interest to you. These service providers may collect information about your activity on Acamar Global websites using cookies and other technologies to analyze, for example, pages visited on the Acamar Global websites, search engine referrals, browsing patterns within the Acamar Global websites, and responses to advertisements and promotions on Acamar Global websites where we advertise. Such service providers may only collect and use such information for purposes specified by Acamar Global and not for their own purposes.
+
+**Advertising on non-Acamar Global websites**
+
+Acamar Global also advertises our products and services on websites not affiliated with Acamar Global. We contract with third-party advertising companies to display these ads, and they may use cookies and similar technologies to optimize the placement of our ads. We do not permit these companies to use information they collect on Acamar Global's behalf for any purpose other than to assist them with advertising Acamar Global products and services. When we hire third-party online advertising companies, they may provide you with Acamar Global advertisements that may be relevant to your interests, as determined by your activity on Acamar Global and non-Acamar Global websites. Such advertisements are known as "interest-based advertisements." You may opt-out of receiving interest-based advertisements from online advertising companies by clicking on the AdChoices icon (which appears on all Acamar Global interest-based ads) and following the opt-out instructions. For more information about interest-based advertising please see <http://www.networkadvertising.org/managing/opt_out.asp> .
+
+**Connecting with Acamar Global on social media sites**
+
+Acamar Global provides experiences on social media platforms that enable online sharing and collaboration among users who have registered to use them. We may collect information you provide by interacting with us via social media, such as photographs, opinions, or Twitter handle. Any content you post, such as pictures, information, opinions, or any personal information that you make available to other participants on these social platforms, is also subject to the terms of use and privacy policies of those platforms. Please refer to them to better understand your rights and obligations with regard to such content.
+
+**Acamar Global Mobile® apps**
+
+Acamar Global Mobile® applications ("apps") allow you to access your accounts, trade securities, move money, and access news and research using wireless or mobile devices. Our privacy practices apply to any personal information or other information that we may collect through the apps.
+
+**Protecting children's privacy online**
+
+Acamar Global websites are not directed to individuals under the age of thirteen (13). Acamar Global does not intentionally collect information on Acamar Global websites from those we actually know are under 13, and we request that these individuals do not provide personal information through the sites.
+
+**Additional information**
+
+If you are a former customer, these policies also apply to you; we treat your information with the same care as we do information about current customers.  
+Acamar Global offers several options for accessing and, if necessary, correcting your account information. You can review your information using your statements, or through our automated telephone or Internet services. You may also write or call us with your request for information. If we serve you through an investment professional, please contact them directly. Specific Internet addresses, mailing addresses and telephone numbers are listed on your statements and other correspondence.
+
+The Acamar Global Investments Privacy Policy is provided on behalf of: 
+
+• Acamar Global Investments LLC  
+• Other companies owned by Acamar Global Investments using the Acamar Global name to provide financial services to customers
