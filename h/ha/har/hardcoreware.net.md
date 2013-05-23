@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hardcoreware.net privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119221041id_/http%3A//www.hardcoreware.net/about/%23Privacy_Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hardcoreware.net privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523072447id_/http%3A//www.hardcoreware.net/about/%23Privacy_Statement) for the most accurate reproduction.*
 
 # About hardCOREware - Established in 1999
 
@@ -25,8 +25,8 @@ We also cover video games from the unique perspective of someone who needs to kn
 
 #### Quick Facts:
 
-  * HCW currently runs on what’s known as a “hybrid” VPS server, at WiredTree in Chicago.
-  * The current web design was done by by Carl Nelson. The framework is based on [Theme Hybrid](http://themehybrid.com/themes/hybrid) by Justin Tadlock
+  * HCW is hosted at at WiredTree in Chicago.
+  * The current web design is based on Newsroom by WP Bandit
   * The previous two designs were done by [Apaja Designs](http://www.apaja.com/) in Finland
   * Our first review was of the Creative Labs GeForce DDR, Carl’s personal video card at the time
   * First motherboard review: Tyan s1854 Trinity 400 (VIA Apollo Pro 133a)
@@ -38,7 +38,7 @@ We also cover video games from the unique perspective of someone who needs to kn
 
 ### Current HCW Staff
 
-[**Carl Nelson**](http://www.hardcoreware.net/contact-us/)  
+[ **Carl Nelson**](http://www.hardcoreware.net/contact-us/)  
 _Editor in Chief_
 
   * Founded hardCOREware.net in 1999
@@ -50,24 +50,24 @@ _Editor in Chief_
 
 ### Former HCW Staff
 
-[**Trevor Flynn**](http://www.hardcoreware.net/contact-us/)  
+[ **Trevor Flynn**](http://www.hardcoreware.net/contact-us/)  
 _Senior Editor_
 
   * Joined HCW writing crew in 2002
   * Runs several HCW sponsored LAN events, including Hardcore War and LANsomnia
   * Favourite games of all time: Mike Tyson’s Punch Out, Fifa RTWC 98, Wolfenstein: Enemy Territory
   * Location: Eastern Canada
-  * Personal blog: http://www.trefly.com
+  * Personal blog:
 
 
 
-[**Wolfgang Kritzinger**](http://www.hardcoreware.net/contact-us/)  
+[ **Wolfgang Kritzinger**](http://www.hardcoreware.net/contact-us/)  
 _Software Engineer_
 
   * Wrote HCW’s custom CMS backend
   * Favourite games of all time: Quake 3, Unreal Tournament 2004, Drakan
   * Location: Austria
-  * Personal blog: http://morgh.us
+  * Personal blog:
 
 
 
@@ -77,13 +77,13 @@ If you require any more information or have any questions about our privacy poli
 
 At www.hardcoreware.net, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.hardcoreware.net and how it is used.
 
-**Log Files**  
+ **Log Files**  
 Like many other Web sites, www.hardcoreware.net makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-**Cookies and Web Beacons**  
+ **Cookies and Web Beacons**  
 www.hardcoreware.net does use cookies to store information when visitors comment on articles. This is purely a convenience, so that the visitor won’t need to re-type all their information again when they want to leave another comment. This feature is optional.
 
-**DoubleClick DART Cookie**  
+ **DoubleClick DART Cookie**  
 .:: Google, as a third party vendor, uses cookies to serve ads on www.hardcoreware.net.  
 .:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.hardcoreware.net and other sites on the Internet.  
 .:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
@@ -104,9 +104,7 @@ If you wish to disable cookies, you may do so through your individual browser op
 ### Credits
 
   * Powered by [WordPress](http://www.wordpress.org/)
-  * Theme and Graphics by [Carl Nelson](http://www.hardcoreware.net/)
-  * Theme based on [Hybrid](http://themehybrid.com/themes/hybrid)
-  * Twitter icon by [MiloMark](http://milomark.deviantart.com/)
+  * Theme by [WPBandit](http://wpbandit.com/)
   * Performance Optimization [WordPress Plugins](http://www.w3-edge.com/wordpress-plugins/) by W3 EDGE
 
 
