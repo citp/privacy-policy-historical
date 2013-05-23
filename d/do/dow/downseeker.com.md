@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the downseeker.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123145329id_/http%3A//downseeker.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downseeker.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523152103id_/http%3A//downseeker.com/privacy.html) for the most accurate reproduction.*
 
 # Downseeker Privacy
 
@@ -44,3 +44,11 @@ If you have any questions, concerns, or comments about our privacy policy you ma
 By e-mail: [contact us.](mailto:contact@downseeker.com)
 
 We reserve the right to make changes to this policy without notice. 
+
+| 
+
+Categories
+
+New software
+
+New Updated
