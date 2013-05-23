@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scottsmenswear.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123090635id_/http%3A//www.scottsmenswear.com/customer-service/privacy%3Fcm_re%3DGlobal-_-Footer-_-Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scottsmenswear.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523231515id_/http%3A//www.scottsmenswear.com/customer-service/privacy%3Fcm_re%3DGlobal-_-Footer-_-Privacy) for the most accurate reproduction.*
 
 # Scotts Privacy
 
