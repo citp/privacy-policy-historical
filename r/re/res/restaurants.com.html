@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the restaurants.com privacy policy that was archived on 2012-11-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121121102217id_/http%3A//www.restaurants.com/content/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the restaurants.com privacy policy that was archived on 2013-05-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130523142558id_/http%3A//www.restaurants.com/content/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xml:lang="en" lang="en"><head>
     <title>Restaurants Guide | Local Restaurants | Restaurants.com</title>
@@ -39,7 +39,7 @@ node.parentNode.insertBefore(gads, node);
 })();
 </script><script type="text/javascript">
 googletag.cmd.push(function() {
- googletag.defineSlot('/18153130/Contact_Top', [728, 90], 'div-gpt-ad-1352231447213-0').addService(googletag.pubads()); 
+  
 googletag.pubads().enableSingleRequest();
 googletag.enableServices();
 });
@@ -93,6 +93,85 @@ googletag.enableServices();
       <img src="//pixel.quantserve.com/pixel/p-CqKdHTAk3kNRy.gif" border="0" height="1" width="1" alt="Quantcast"/>
       </div>
     </noscript>
+    <script language="javascript" type="text/javascript">
+      $(document).ready(function(){
+        $('#where').removeClass('ac_loading');
+        $('#where').prop('disabled', '');
+        $('#where').attr('value', '');
+      });
+
+      function changeFormAction(action, value_keyword, value_where){
+        var form = document.getElementById("search_form");
+        var keyword = '';
+        var where = '';
+
+        value_keyword = value_keyword.replace(/\//g,"|2F");
+        value_where = value_where.replace(/\//g,"|2F");
+        value_keyword = value_keyword.replace(/\\/g,"|3F");
+        value_where = value_where.replace(/\\/g,"|3F");
+
+        keyword = encodeURIComponent(value_keyword);
+        where = encodeURIComponent(value_where);
+
+        if (where){
+          where = "where/"+where;
+        } else {
+          where = "";
+        }
+        
+        if (keyword){
+          where = "/"+where;
+        } else {
+          keyword = "empty";
+          where = "/"+where;
+        }
+
+        form.action = action+keyword+where;
+      }
+
+      function submitformSearch(action){
+        var keyword = document.getElementById("keyword").value;
+        var where = '';
+
+        keyword = keyword.replace(/\//g,"|2F");
+        keyword = keyword.replace(/\\/g,"|3F");
+
+        if (document.getElementById("where")){
+          where = document.getElementById("where").value;
+          where = where.replace(/\//g,"|2F");
+          where = where.replace(/\\/g,"|3F");
+          if (where){
+            where = "where/"+encodeURIComponent(where);
+          } else {
+            where = "where/empty";
+          }
+        } else{
+          where = "";
+        }
+
+        if (keyword){
+          where = "/"+where;
+        } else {
+          keyword = "empty";
+          where = "/"+where;
+        }
+        
+        window.location = action+encodeURIComponent(keyword)+where;
+      }
+
+      function submitenter(myfield,e){
+        var keycode;
+        if (window.event) keycode = window.event.keyCode;
+        else if (e) keycode = e.which;
+        else return true;
+
+        if (keycode == 13){
+          submitformSearch('/listing/search/');
+          return false;
+        } else return true;
+      }
+     </script>
+    
 
     <script type="text/javascript">var switchTo5x=true;</script>
     <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
@@ -102,153 +181,41 @@ googletag.enableServices();
 
     <body>
         <div id="header">
-			<div>
-				<h3 class="logo"><a href="/">Restaurants.com All the Restaurants of the world</a>
-				</h3>
-				<div class="banner">
-											<div class="googleDetailIndexTop" style="margin: 10px 0 0 15px;">
-							<!-- Contact_Top -->
-<div id="div-gpt-ad-1352231447213-0" style="width:728px; height:90px;">
-<script type="text/javascript">
-googletag.cmd.push(function() { googletag.display('div-gpt-ad-1352231447213-0'); });
-</script>
-</div>						</div>
-									</div>
-				<div style="clear:both">
-				</div>
-			</div>
-
-			<div class="navigation">
-				<ul id="nav">
-					<li><a href="/us"><strong>Find</strong>A Restaurant</a></li> 
-      				<li><a href="/members/login.php"><strong>Review</strong>A Restaurant</a></li> 
-      				<li><a href="/blog"><strong>Read</strong>Our Blog</a></li>
-      				<li><a href="/deals.php"><strong>Featured</strong>Deals</a></li>
-                    
-				</ul>
-				<div class="" style="float:left; padding:0 0 0 10px;">
-					
-	<div class="search">
-
-        
-		<form name="search_form" id="search_form" method="post" action="http://www.restaurants.com/listing/search/">
-					<fieldset>
-				<label>I'm looking for...</label>
-				<input type="text" name="keyword" id="keyword" value="" onkeypress="return submitenter(this,event)" onkeyup="changeFormAction('http://www.restaurants.com/listing/search/', this.value, document.getElementById('where').value)">
-			</fieldset>
-
-			
-				<fieldset class="whereField">
-					<label>
-						Near (City, State or Zip)
-					</label>
-					<input type="text" name="where" id="where" value="Ashburn, VA" onkeypress="return submitenter(this,event)" onkeyup="changeFormAction('http://www.restaurants.com/listing/search/', document.getElementById('keyword').value, this.value)">
-				</fieldset>
-
-                
-				
-
-			
-			<p class="standardButton">
-				<button type="button" id="buttonSearch" onclick="submitformSearch('http://www.restaurants.com/listing/search/');" style="cursor:pointer"> Search </button>
-			</p>
-
-											<p class="advancedSearch" id="pAdvancedSearch"><a id="linkAdvancedSearch" href="javascript:void(0);" onclick="showAdvancedSearch('', '0', '', 'http://www.restaurants.com/listing/search/', '');"><span id="switchAdvancedSearch" class="switchOpen">+</span> Advanced Search</a></p>
-				<div id="advancedSearchID" class="isHidden"></div>
-			
-      <p class="googleImage"><img src="http://www.restaurants.com/images/img_google_search.gif" alt="Google Custom Search"></p>
-
-		</form>
-
-	</div>
-	<span class="clear"></span>
-
-	<div class="share_it_goodies">
-        <span class="st_facebook_large" displaytext="Facebook"></span>
-        <span class="st_twitter_large" displaytext="Tweet"></span>
-        <span class="st_sharethis_large" displaytext="ShareThis"></span>
-        <span class="st_googleplus_large" displaytext="Google +"></span>
-      </div>
-
-	<script language="javascript" type="text/javascript">
-
-	$(document).ready(function(){
-
-			});
-
-	function changeFormAction(action, value_keyword, value_where){
-		var form = document.getElementById("search_form");
-		var keyword = '';
-		var where = '';
-
-		value_keyword = value_keyword.replace(/\//g,"|2F");
-		value_where = value_where.replace(/\//g,"|2F");
-		value_keyword = value_keyword.replace(/\\/g,"|3F");
-		value_where = value_where.replace(/\\/g,"|3F");
-
-		keyword = urlencode(value_keyword);
-		where = urlencode(value_where);
-
-		if (where){
-			where = "where/"+where;
-		} else {
-							where = "where/empty";
-					}
-		if (keyword){
-			where = "/"+where;
-		} else {
-			keyword = "empty";
-			where = "/"+where;
-		}
-
-		form.action = action+keyword+where;
-	}
-
-	function submitformSearch(action){
-		var keyword = document.getElementById("keyword").value;
-		var where = '';
-
-		keyword = keyword.replace(/\//g,"|2F");
-		keyword = keyword.replace(/\\/g,"|3F");
-
-		if (document.getElementById("where")){
-			where = document.getElementById("where").value;
-			where = where.replace(/\//g,"|2F");
-			where = where.replace(/\\/g,"|3F");
-			if (where){
-				where = "where/"+urlencode(where);
-			} else {
-				where = "where/empty";
-			}
-		} else{
-			where = "";
-		}
-
-		if (keyword){
-			where = "/"+where;
-		} else {
-			keyword = "empty";
-			where = "/"+where;
-		}
-
-					window.location = action+urlencode(keyword)+where;
-			}
-
-	function submitenter(myfield,e){
-		var keycode;
-		if (window.event) keycode = window.event.keyCode;
-		else if (e) keycode = e.which;
-		else return true;
-
-		if (keycode == 13){
-			submitformSearch('http://www.restaurants.com/listing/search/');
-			return false;
-		} else return true;
-	}
-	</script>
-			</div>
-		</div>
-	</div>
+          <div class="main">
+            <a href="/"><img class="logo" src="/images/logo.png"></a>
+            
+            <div class="banner">
+              <div class="googleDetailIndexTop">
+                <!-- Banner Ad -->
+                              <!-- /content/index.php -->
+              </div>
+            </div>
+            
+            <br class="clear">
+            
+            <div class="navigation">
+              <ul class="nav-list">
+                <li><a href="/us"><img class="nav-search" src="/images/icon-search.png"></a></li>
+                <li><a href="/members/login.php"><img class="nav-review" src="/images/icon-review.png"></a></li> 
+                <li><a href="/blog"><img class="nav-blog" src="/images/icon-blog.png"></a></li>
+              </ul>
+              
+              <form class="search" name="search_form" id="search_form" method="post" action="/listing/search/">
+                <input class="search-field" type="text" name="keyword" id="keyword" onkeypress="return submitenter(this,event)" onkeyup="changeFormAction('/listing/search/', this.value, document.getElementById('where').value)" placeholder="I'm looking for...">
+                <input class="search-field" type="text" name="where" id="where" value="" onkeypress="return submitenter(this,event)" onkeyup="changeFormAction('/listing/search/', document.getElementById('keyword').value, this.value)" placeholder="Near (city, state or zip)">
+                <button class="search-button" type="button" id="buttonSearch" onclick="submitformSearch('/listing/search/');" style="cursor:pointer">Search</button>
+              </form>
+              
+              <div class="share_it_goodies">
+                <span class="st_facebook_large" displaytext="Facebook"></span>
+                <span class="st_twitter_large" displaytext="Tweet"></span>
+                <span class="st_sharethis_large" displaytext="ShareThis"></span>
+                <span class="st_googleplus_large" displaytext="Google +"></span>
+              </div>      
+            </div>
+            
+          </div>
+        </div>
 
 
 
