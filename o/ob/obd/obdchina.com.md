@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the obdchina.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014061336id_/http%3A//www.obdchina.com/faq_info.html%3Ffaqs_id%3D113) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the obdchina.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524001040id_/http%3A//www.obdchina.com/faq_info.html%3Ffaqs_id%3D113) for the most accurate reproduction.*
 
 # Privacy Policy OBDchina
 
