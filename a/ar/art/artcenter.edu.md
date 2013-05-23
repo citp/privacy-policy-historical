@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artcenter.edu privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031124121id_/http%3A//www.artcenter.edu/accd/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artcenter.edu privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523173510id_/http%3A//www.artcenter.edu/accd/privacy_policy.jsp) for the most accurate reproduction.*
 
 # | Pasadena, CA | Learn to Create. Influence Change.
 
