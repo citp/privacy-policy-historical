@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the backpage.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508140954id_/http%3A//www.backpage.com/classifieds/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backpage.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524005039id_/http%3A//www.backpage.com/classifieds/PrivacyPolicy) for the most accurate reproduction.*
 
-# Free classifieds - backpage.com
+# backpage.com
 
 Backpage.com and its affiliates, including but not limited to Village Voice Media Holdings, LLC (collectively, the “Site”) respect your privacy. Here's our Privacy Policy for this Site:
 
@@ -39,8 +39,8 @@ If you are a California resident and have provided personal information to the S
 We will not share your personal information with third parties for their direct marketing purposes if you request that we do not do so.  You may make such a request by sending us an email at [support@backpage.com](mailto:support@backpage.com) or mailing your request to:
 
 Backpage.com LLC  
-PO Box 21328  
-Phoenix, AZ 85034 
+PO Box 192307   
+Dallas, TX 75219 USA
 
 When contacting us, please indicate your name, address, email address, and what personal information you do not want us to share with third parties for their direct marketing purposes. Please note that there is no charge for controlling the sharing of your personal information or for processing this request. 
 
