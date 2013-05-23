@@ -1,34 +1,14 @@
-> *The following text is extracted and transformed from the cabelas.ca privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215164220id_/http%3A//www.cabelas.ca/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cabelas.ca privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523051057id_/http%3A//www.cabelas.ca/pages/privacy) for the most accurate reproduction.*
 
-# Cabelas Canada - Privacy Policy
+# Cabela's Canada
 
-  | 
-
-[Bargain Cave](https://web.archive.org/bargain_cave/ "Bargain Cave")
-
-Save on Overstocks, Special Buys and Discounted Items
-
-[](https://web.archive.org/bargain_cave/ "Bargain Cave")
-
-[](https://www.mcafeesecure.com/RatingVerify?ref=72.32.19.227 "McAfee Secure Site")
-
-| 
-
-Home / About Us / Privacy Policy
-
-PRIVACY POLICY
-
-**AT CABELA'S CANADA WE RESPECT AND VALUE YOUR PRIVACY**  
-
-
-  
 **Cabela’s Retail Canada Inc. Privacy Statement**
 
 Last updated: March 30, 2010
 
 This Privacy Statement sets out the manner in which Cabela’s Retail Canada Inc. (“Cabela’s Canada”) collects, uses, discloses and otherwise manages the personally identifiable information of its customers, including the privacy practices of our retail store, catalogue services, and website located at **www.cabelas.ca**.
 
-If you have questions or concerns regarding this Privacy Statement, you should first contact us via Customer Service e-mail at [**privacyofficer@cabelas.ca**](mailto:privacyofficer@cabelas.ca) or by calling **1.800.265.6245**.  If you prefer to write us, our postal address is below.
+If you have questions or concerns regarding this Privacy Statement, you should first contact us via Customer Service e-mail at [**privacyofficer@cabelas.ca**](mailto:privacyofficer@cabelas.ca) or by calling **1.800.265.6245**.  If you prefer to write us, please send it to:
 
 **Cabela's Retail Canada Inc.  
 Privacy Officer  
@@ -140,24 +120,3 @@ If you are under the legal age of majority within your jurisdiction, you are wel
 **Changes in this Privacy Statement**
 
 We reserve the right to modify this Privacy Statement at any time, so please review it frequently. If we make material changes to this statement, we will notify you here, by e-mail, or by means of a notice on our home page. We will use and disclose your personal information in accordance with the Privacy Statement in place at the time of collection of such information, or as you otherwise consent or permitted by law.
-
-| 
-
-[](https://web.archive.org/signupforemail/)
-
-[](https://web.archive.org/36245/12/121127/121127.html)
-
-Since 1961, it has been our ongoing mission to provide outdoor enthusiasts with the finest quality gear and the highest level of customer service in the industry.   
-
-
-[](https://web.archive.org/customer_service/)
-
-Not sure what to buy? Many outdoor enthusiasts prefer to select their own equipment. Cabela's Canada Gift Cards are available in various card styles and denominations. Order yours today!
-
-[](https://web.archive.org/gift_certificates/)
-
-[](http://www.facebook.com/pages/Cabelas-Canada/166727514458?utm_source=site&utm_medium=hpl&utm_campaign=facebook)
-
-[ ](http://twitter.com/cabelascanada?utm_source=site&utm_medium=hpl&utm_campaign=twitter)
-
-|  
