@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the augusta.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122062722id_/http%3A//www.augusta.com/masters/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the augusta.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523171040id_/http%3A//www.augusta.com/masters/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Masters
 
@@ -42,6 +42,6 @@ We may disclose personal information if we are required to do so by law or we in
 
 For any questions or comments, you may contact us:
 
-By mail: Augusta.com, 108 Railroad St., Thomson, GA 30824
+By mail: Augusta.com, 725 Broad St., Augusta, GA 30901
 
-By phone: 706-823-3409
+By phone: 706-724-0851
