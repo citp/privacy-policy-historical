@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redevolution.com privacy policy that was archived on 2012-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121207104009id_/http%3A//www.redevolution.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redevolution.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523152725id_/http%3A//www.redevolution.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,6 +6,13 @@
 Red Evolution is committed to protecting the privacy of our website users.  In this policy we set how we will deal with your personal details. 
 
 Any information collected and stored, including cookies will be of the following kind: 
+
+  * Your visits and use of our website.
+  * Information provided for the use of registering and/or subscribing to our website service.
+  * Information provided for the business purposes, quotes, analysis etc
+  * Newsletters.
+
+
 
 Website Visits, we may collect information about your visits to our website such as IP address, location, browser type, referral source, length of visit and number of page views.  This information may be used to improve our website's usability and for marketing purposes.
 
@@ -59,6 +66,8 @@ We may occasionally update this privacy policy by posting a new version on our w
 
 Our website contains links to other websites. We are not responsible for the privacy policies of any third party websites. 
 
+**Cookies**
+
  Some of the services we use such as Google Analytics, Clicky Analytics and addThis set cookies to allow us to gather anonymous data about your usage of our website. 
 
 **You Rights**
@@ -68,3 +77,7 @@ You may instruct us to provide you with any personal information we hold about y
 You can request us not to use any of your personal details; you will usually ask in advance whether you agree to our use of your personal data.  If not you can instruct us not to use your personal data by emailing us at 
 
 These terms and conditions, together with our privacy policy constitute the entire agreement between you and us in relation to your use of our website, and supersede all previous agreements in respect of your use of this website. 
+
+**Contact us**
+
+If you need any more information please contact us at Red Evolution (Aberdeen) Ltd [info@redevolution.com](mailto:info@redevolution.com)
