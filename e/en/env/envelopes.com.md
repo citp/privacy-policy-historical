@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the envelopes.com privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124040725id_/http%3A//www.envelopes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the envelopes.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523035424id_/http%3A//www.envelopes.com/privacy) for the most accurate reproduction.*
 
 # Privacy & Security - Envelopes.com
 
