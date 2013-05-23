@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ferret.com.au privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122083916id_/http%3A//www.ferret.com.au/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ferret.com.au privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523175159id_/http%3A//www.ferret.com.au/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Reed Business Information Pty Limited (ABN 80 132 719 861) ("Catch") (an Australian company)
+Cirrus Media Information Pty Limited (ABN 80 132 719 861) ("Catch") (an Australian company)
 
 This privacy policy applies to all personal information collected by Catch via the internet.
 
