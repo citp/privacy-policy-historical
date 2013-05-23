@@ -1,16 +1,6 @@
-> *The following text is extracted and transformed from the onecle.com privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104001647id_/http%3A//www.onecle.com/info/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onecle.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523040216id_/http%3A//www.onecle.com/info/privacy.shtml) for the most accurate reproduction.*
 
 # None
-
-### Business Contracts
-
-### Consumer Forms
-
-### Projects
-
-### Friends
-
-| 
 
 Loading
 
@@ -27,8 +17,6 @@ OneCLE collects personal information in three ways - through information provide
 ## Information Supplied by Our Users
 
 OneCLE collects personal information, such as your e-mail address, name, home or work address, and telephone number. OneCLE may also collect demographic information, such as your ZIP code, age, gender, and legal interests. OneCLE does not collect any of this unique information about you except when you specifically and knowingly provide such information.
-
-Furthermore, if you participate in an MCLE activity offered by OneCLE, the State Bar of California requires us to log your name, bar number, the time, date, location, title and the amount of California approved education credit offered for the education activity in an official record of attendance, which we are required to provide to the State Bar upon their request.
 
 **Additionally, if you send us a cease and desist notice, letter or e-mail asking us to remove one of the contracts we retrieved from a public domain securities filing, your e-mail or letter to us may be forwarded in its entirety to the[Chilling Effects Clearinghouse](http://www.chillingeffects.org/). At their discretion, they may publicly display such cease and desist notice, letter or e-mail on their web site. We may also reproduce all or portions of the cease and desist notice, letter or e-mail on our own website.**
 
@@ -66,6 +54,4 @@ When you sign up for OneCLE's products and service, we may send you an e-mail co
 
 We welcome your comments or questions.
 
-#### Sponsored Links  
-  
----|---
+#### Sponsored Links
