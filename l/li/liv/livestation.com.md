@@ -1,122 +1,109 @@
-> *The following text is extracted and transformed from the livestation.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101130349id_/http%3A//www.livestation.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livestation.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523143511id_/http%3A//www.livestation.com/pages/privacy_policy) for the most accurate reproduction.*
 
-# Livestation privacy policy | Livestation
+# Cookies and Privacy
 
-We respect your right to privacy and it is our policy to comply with all applicable privacy and data protection laws. We are committed to protecting your personal information when using our software or services. 
+## Cookies
 
-Livestation is a software product and service provided by Livestation Limited, a UK Registered Company. In this document "Livestation", "our", "us" or "we" all refer to Livestation Limited. 
+Our website uses cookies. A cookie is a small file of letters and numbers that we put on your computer if you agree. These cookies allow us to distinguish you from other users of the website which helps us to provide you with a good experience when you browse our website and also allows us to improve our site.
 
-This privacy policy (the "Policy") describes how we protect your privacy when we collect personal information through your use of the Livestation application (the "Software") or the www.livestation.com web service (the "Website"). In this Policy, the term "Personal Information" means information that identifies you personally, alone or in combination with other information available to us. We also collect information that does not identify you personally. 
+We use cookies for analytics and advertising.
 
-  1. ## Your consent
+‘Analytics cookies’ allow us to recognise and count the number of visitors and to see how visitors move around the site when they’re using it. This helps us to improve the way our website works, for example by making sure users are finding what they need easily.
 
-When registering to use our Software or by using the Website or providing Personal Information to us, you are consenting to the collection, use and disclosure of your Personal Information as described in this Policy. 
+‘Advertising cookies’ are used to make advertising on our website more relevant to you, for example by limiting the number of times you see the same ad on our website.
 
-If you do not consent to the collection, use and disclosure of your personal information as described in this Policy, please do not use the Software or Website. 
+To read more about the individual cookies we use [click here](https://web.archive.org/en/pages/cookies). 
 
-If you are less than 18 years of age you must get the permission of your parent or guardian before you provide any personal information to us. 
+## How to block cookies
 
-If your child has submitted personal information and you would like to request that such information be deleted from our records, you may do so by contacting us at the address at the end of this Policy. 
+You block cookies by activating the setting on your browser which allows you to refuse the setting of all or some cookies. However, if you use your browser settings to block all cookies (including essential cookies) you may not be to access all or parts of our site. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies as soon you visit our site.
 
-  2. ## Limitations
+## Privacy
 
-To the extent required by applicable law, whenever Livestation collects Personal Information via the Livestation Software or on the Website, we will: 
+Livestation Limited, a company incorporated in England and Wales with Company number 06872775 and whose registered address is at The Trampery, 13-19 Bevenden Street, London, N1 6AA ("We") is committed to protecting and respecting your privacy.
 
-    * Provide timely and appropriate notice to you about the use of your Personal Information;
-    * Collect, use, disclose and transfer your Personal Information as described in this Policy only with your consent, which may be expressed or implied, depending on the sensitivity of the personal information, legal requirements, and other factors;
-    * Collect your relevant, adequate and not excessive Personal Information only for specific, limited purposes;
-    * Process your Personal Information in a manner consistent with the purposes for which it was originally collected or to which you have subsequently consented;
-    * Take commercially reasonable steps to ensure that your Personal Information is reliable for its intended use, accurate, complete, and, where necessary, kept up-to-date;
-    * Not use your Personal Information for direct marketing purposes without giving you an opportunity to "opt-out"; and
-    * Take appropriate measures, by contract or otherwise, to provide adequate protection for personal information that is disclosed to a third party or transferred to another country, including internal transfers or to our associated companies.
-  3. ## Use of Personal Information
+This policy (together with our terms of use [WEBSITE TERMS OF USE](https://web.archive.org/en/pages/terms_of_website) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. 
 
-We only collect Personal Information that we believe will improve our service to you. We may use this information to improve the service, analyse technical issues, learn about our audience, suggest programming, or deliver advertisements. 
+For the purpose of the Data Protection Act 1998 (the **Act** the data controller is Livestation Limited, a company incorporated in England and Wales with Company number 06872775 and whose registered address is at The Trampery, 13-19 Bevenden Street, London, N1 6AA. 
 
-We may collect the information you knowingly and voluntarily provide when you use the Livestation Software or Website. This may include Personal Information that you provide when you sign up, when you complete a survey, or when you ask us a question or email us with feedback. 
+Our nominated representative for the purpose of the Act is Lippe Oosterhof.
 
-This Personal Information may include: 
+## Information we may collect from you
 
-    * Personal Details - We may ask you for information such as your age, your gender, country, and your interests. 
-    * Viewing History - We may also collect information on channels, programmes, advertisements, emails or web pages viewed.
+We may collect and process the following data about you:
 
-We may use the information we collect for other business purposes such as providing customer service, fraud prevention, market research, improving our products and services, and providing you or your company with information and offers we believe may be of interest to you. We may also remove all the personally identifiable information and use the remaining data for historical, statistical or scientific purposes. 
+Information that you provide by subscribing to our services. This includes information provided at the time of subscribing to one of our services, posting material or requesting further services. We may also ask you for information when you enter a competition or promotion sponsored by Us, and when you report a problem with our site.
 
-  4. ## Collecting Personal Information
+If you contact us, we may keep a record of that correspondence.
 
-When you use the Livestation Software or Website we may collect information that is sent to us automatically by the Livestation software or your web browser. 
+We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
 
-This information may include or incorporate your IP internet address, your MAC network address, the name and version of your operating system and the name and version of your browser, together with other information used to configure our software for your computer. 
+Details of transactions you carry out through our site and of the fulfilment of your orders.
 
-This information does not identify you personally, but the registration process for the Livestation software does. 
+Details of your visits to our site including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access.
 
-We may use this information to determine from which country you are accessing the services and to determine which channels are available to you. 
+## IP addresses
 
-We may also pass on your login information to a channel provider or platform operator in the case of subscription channels or premium programming to enable you to view such channels or programmes. 
+We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify any individual.
 
-We may also store and transfer a small file known as a 'cookie' to save and maintain information and preferences while you are using the Livestation software or Website and between sessions. 
+## Where we store your personal data
 
-We may also save other information on the storage system of your computer to enable the Livestation Software or Website to store preferences. 
+The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
 
-The Livestation Software may also be used to send us a log file when there is a problem. This log file contains information about your use of our software and technical information about your computer to enable us to diagnose problems. 
+All information you provide to us is stored on our secure servers. Any payment transactions will be encrypted using SSL technology. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
 
-  5. ## Sharing Personal Information
+Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
 
-Livestation may share your personal information with third parties we use to perform certain services for us such as support or technical functions. We will limit the information we share and these third parties are required to use the personal information we share with them only to perform services on our behalf and to treat your personal information as strictly confidential. 
+## Uses made of the information
 
-Livestation may also share your personal information with other Livestation businesses or with third parties who partner with us to provide products and services to our customers. In this case we will require such business units or business partners to use the personal information we share with them in a manner consistent with the purposes for which it was originally collected or to which you subsequently consented and only as permitted under this Policy and all applicable privacy and data protection laws. 
+We use information held about you in the following ways:
 
-In certain limited circumstances we may share or transfer personal information to unrelated third parties. This may be at your request, to comply with a legal requirement or court order, to investigate a possible crime, or a matter on which we require legal advice or under similar circumstances. In such cases we will take appropriate steps to protect your personal information. 
+To ensure that content from our site is presented in the most effective manner for you and for your computer.
 
-  6. ## Security of Personal Information
+To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes.
 
-Livestation will maintain reasonable safeguards to protect the confidentiality, security and integrity of your personal information. For example, we use encryption to protect any passwords and we restrict access to information both physically and logically. Although we use security measures to help protect your personal information against unauthorised disclosure, misuse or alteration, as is the case with all public computer networks, we cannot guarantee the security of information provided over the Internet and will not be responsible for breaches of security beyond our reasonable control. 
+To carry out our obligations arising from any contracts entered into between you and us.
 
-  7. ## Links to third-party services
+To allow you to participate in interactive features of our service, when you choose to do so.
 
-The Livestation Software and our Website may contain references or links to third-party services that are not operated by Livestation. These references or links are provided as a service and do not imply any endorsement of the activities or content of such services or any association with their operators. Livestation does not control such services and is not responsible for their content, security or privacy practices. You therefore access such services at your own risk. You should review the privacy policy or terms and conditions of use associated with such services before using them or providing personal or other information. 
+To notify you about changes to our service.
 
-  8. ## Retention and deletion of Personal Information
+We may also use your data, or permit selected third parties to use your data, to provide you with information about goods and services which may be of interest to you and we or they may contact you about these by post or telephone.
 
-We will retain the Personal Information we collect only as long as necessary to provide the services, products and information you request or as permitted by applicable law. We also periodically destroy information in accordance with our company policies. 
+If you are an existing subscriber, we will only contact you by electronic means (e-mail or SMS) with information about goods and services similar to those which were the subject of a previous sale to you.
 
-We aim to respond to any request for deletion of personal information within seven days. Please note that this may prevent you from using our software. Requests should be sent to the contact address listed at the end of this Policy. 
+If you are a new subscriber, and where we permit selected third parties to use your data, we (or they) will contact you by electronic means only if you have consented to this.
 
-  9. ## Access to Personal Information
+If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please tick the relevant box situated on the form on which we collect your data (the Order).
 
-You may review, correct and update the personal information that you provide to us by using the feedback mechanisms provided by the Website or by using the contact details listed at the end of this Policy. 
+We do not disclose information about identifiable individuals to our advertisers, but we may provide them with aggregate information about our users (for example, we may inform them that 500 men aged under 30 have clicked on their advertisement on any given day). We may also use such aggregate information to help advertisers reach the kind of audience they want to target (for example, users in London). We may make use of the personal data we have collected from you to enable us to comply with our advertisers' wishes by displaying their advertisement to that target audience.
 
-  10. ## Financial Information
+## Disclosure of your information
 
-All payments on the Livestation website are managed by Paypal.
+We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.
 
-Livestation does not store any of your financial information. Livestation merely stores an identification token which is used to link your account to the Paypal gateway.
+We may disclose your personal information to third parties:
 
-  11. ## Contacting you
+In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
 
-Livestation may contact you: 
+If Livestation Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
 
-    * In relation to the functioning of our software or to ensure that we can deliver services to you;
-    * To invite you to participate in voluntary surveys about Livestation services;
-    * In relation to any contribution you have made to a Livestation user survey or message board;
-    * For marketing purposes where you have specifically agreed to this; or
-    * Where you have opted to receive further correspondence.
-  12. ## Changes to this Policy
+If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [Terms and Conditions](https://web.archive.org/en/pages/terms_main) of supply and other agreements; or to protect the rights, property, or safety of Livestation Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction. 
 
-We will always post the latest Policy on the Website. 
+## Your rights
 
-We may introduce new features or services from time to time as we develop the service. In order to be able to do this we need to be able to change our privacy policies. 
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at Livestation, The Trampery, 13-15 Bevenden Street, N1 6AA, our email is [info@livestation.com](mailto:info@livestation.com)
 
-Livestation reserves the right to update or modify this Policy, at any time and without prior notice, by posting the revised version of this Policy on the Website. Your continued use of the Website after any such changes to the Policy constitutes your acceptance of those changes. 
+Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
 
-Except for amendments required by law, the Policy at the date that the personal information is collected shall apply to your previously provided Personal Information and any new Personal Information you provide to us. 
+## Access to information
 
-  13. ## Contact details
+The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
 
-If you have any questions about this Policy or our use of your Personal Information, you may contact us either by email to [privacy@livestation.com](mailto:privacy@livestation.com) or by writing to us at: Livestation Privacy Officer, Livestation Ltd, The Trampery, 13-19 Bevenden Street, London, N1 6AA, United Kingdom. 
+## Changes to our privacy policy
 
+Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail.
 
+## Contact
 
-
-  
-
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [info@livestation.com](mailto:info@livestation.com) . 
