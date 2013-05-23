@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the master-matrix-mailer.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122014440id_/http%3A//master-matrix-mailer.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the master-matrix-mailer.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523145543id_/http%3A//www.master-matrix-mailer.com/privacy.php) for the most accurate reproduction.*
 
 # Master Matrix Mailer Privacy Policy
 
