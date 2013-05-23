@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the seobythesea.com privacy policy that was archived on 2012-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121113141623id_/http%3A//www.seobythesea.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seobythesea.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523181521id_/http%3A//www.seobythesea.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - SEO by the Sea
+# Privacy Policy for SEO by the Sea
 
 SEO by the Sea does not sell or share personally identifiable data to any third parties whatsoever.
 
