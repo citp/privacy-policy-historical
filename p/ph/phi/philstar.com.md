@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the philstar.com privacy policy that was archived on 2012-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120305044801id_/http%3A//www.philstar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the philstar.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523114836id_/http%3A//www.philstar.com/privacy-policy) for the most accurate reproduction.*
 
-# Philippine News for the Filipino Global Community
+# Privacy Policy | philstar.com
 
 This Privacy Policy discloses the privacy practices for philstar.com. For the purposes of this Privacy Policy, unless otherwise noted, all references to "philstar.com" include The Philippine Star, Pilipino Star Ngayon, The Freeman and Banat newspapers as well as the People Asia lifestyle magazine.
 
@@ -104,7 +104,7 @@ If you choose to receive them, philstar.com will periodically send you e-mail ne
 
 _**WHAT IS OUR E-MAIL POLICY?**_
 
-philstar.com complies fully with the federal CAN-SPAM Act of 2003. We will not share, sell, rent, swap or authorize any third party to use your e-mail address without your permission. If you feel you have received an e-mail from us in error, please contact katrinasandejas@philstar.com.
+philstar.com complies fully with the federal CAN-SPAM Act of 2003. We will not share, sell, rent, swap or authorize any third party to use your e-mail address without your permission. If you feel you have received an e-mail from us in error, please contact [katrinasandejas@philstar.com](mailto:katrinasandejas@philstar.com).
 
 Account and Service-Related E-mail: philstar.com reserves the right to send you e-mail relating to your account status. This includes order confirmations, renewal/expiration notices, notices of credit-card problems, other transactional e-mails and notifications about major changes to our Web sites and/or to our Privacy Policy. If you have registered for online discussions or other services, you may receive e-mail specific to your participation in those activities.
 
@@ -148,9 +148,9 @@ If, at any time, you prefer not to receive e-mail marketing information from us,
 
 1\. Click here to remove your e-mail address from any future promotional e-mail campaigns originated by philstar.com
 
-2\. Click here to manage your e-mail subscriptions from philstar.com. These include Today's Headlines, Business News, Sports News, Entertainment News and other News Features. 
+2\. Click here to manage your e-mail subscriptions from philstar.com. These include Today's Headlines, Business News, Sports News, Entertainment News and other News Features.
 
-If you experience difficulty with the unsubscribe process, feel free to contact us at katrinasandejas@philstar.com and provide your e-mail address along with the name of the newsletter from which you would like to unsubscribe.
+If you experience difficulty with the unsubscribe process, feel free to contact us at [katrinasandejas@philstar.com](mailto:katrinasandejas@philstar.com) and provide your e-mail address along with the name of the newsletter from which you would like to unsubscribe.
 
 _**OTHER INFORMATION: Compliance with Legal Process**_
 
