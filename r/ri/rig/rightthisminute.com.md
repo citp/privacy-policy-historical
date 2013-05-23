@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rightthisminute.com privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121214052id_/http%3A//www.rightthisminute.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rightthisminute.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523050909id_/http%3A//www.rightthisminute.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | RTM - Right This Minute
+# Privacy Policy | RTM - RightThisMinute
 
 **PLEASE READ THIS USER AGREEMENT BEFORE USING THIS SERVICE. BY CONTINUING TO USE RIGHTTHISMINUTE.COM, YOU AGREE TO ABIDE BY THE CONDITIONS OF THIS USER AGREEMENT. IF YOU DO NOT AGREE WITH ANY OF THE TERMS OF THIS USER AGREEMENT, PLEASE DO NOT USE THIS SERVICE.**
 
