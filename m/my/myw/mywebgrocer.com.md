@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mywebgrocer.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224171911id_/http%3A//mywebgrocer.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mywebgrocer.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523091422id_/http%3A//mywebgrocer.com/about/privacy-policy) for the most accurate reproduction.*
 
 # MyWebGrocer - Privacy Policy
 
@@ -58,7 +58,7 @@ We use both session ID cookies and/or persistent cookies. We use session cookies
 
 Most browsers allow you to turn off the cookie function. If you want to know how to do this please look at the help menu on your browser. As described above this will restrict the online MyWebGrocer services you can use.
 
-Click here to opt-out of targeting advertising through our partner Double Click: <http://www.doubleclick.com/privacy/index.aspx>  
+Click here to opt-out of targeting advertising through our partner Double Click:[ http://www.aboutads.info/choices/ ](http://www.aboutads.info/choices/)  
 **  
 Clear Gifs (Web Beacons)**
 
