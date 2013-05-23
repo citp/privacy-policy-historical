@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the angusreidforum.com privacy policy that was archived on 2012-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120724082231id_/https%3A//www.angusreidforum.com/Portal/det-PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the angusreidforum.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523085227id_/https%3A//www.angusreidforum.com/Portal/det-PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Angus Reid Forum
 
@@ -14,8 +14,11 @@ The VC Privacy Policy is a statement of principles and guidelines describing th
 
 VC will continue to review its Privacy Policy to make sure that it is relevant and remains current with changing industry standards, technologies and laws. If you have any concerns about how your privacy is protected at VC, please contact our Privacy Officer by e-mail at [privacyofficer@visioncritical.com](mailto:privacyofficer@visioncritical.com) or by mail at:
 
-Suite 700, 858 Beatty Street  
-Vancouver, BC V6B 1C1  
+200 Granville Street  
+ Mezzanine Floor  
+ Vancouver, BC  
+ V6C 1S4 Canada
+
 Attention: Privacy Officer
 
 **SCOPE AND APPLICATION**
@@ -61,8 +64,11 @@ VC is responsible for personal information under its control and shall designat
 
 Responsibility for compliance with the provisions of the VC Privacy Policy rests with the VC Privacy Officer. The VC Privacy Officer can be contacted by e-mail at [privacyofficer@visioncritical.com](mailto:privacyofficer@visioncritical.com) or by mail
 
-Suite 700, 858 Beatty Street  
-Vancouver, BC V6B 1C1  
+200 Granville Street  
+Mezzanine Floor  
+Vancouver, BC  
+V6C 1S4 Canada
+
 Attention: Privacy Officer
 
 Other individuals within VC may be delegated to act on behalf of the Privacy Officer or to take responsibility for the day-to-day collection and/or processing of personal information.
@@ -193,8 +199,11 @@ VC shall investigate all complaints concerning compliance with its Privacy Poli
 
 For more information regarding the VC Privacy Policy, please contact the VC Privacy Officer by e-mail at [privacyofficer@visioncritical.com](mailto:privacyofficer@visioncritical.com) or by mail at:
 
-Suite 700, 858 Beatty Street  
-Vancouver, BC V6B 1C1  
+200 Granville Street  
+Mezzanine Floor  
+Vancouver, BC  
+V6C 1S4 Canada
+
 Attention: Privacy Officer
 
 Please visit the Privacy Commissioner of Canada's website at <http://www.privcom.gc.ca/>.
