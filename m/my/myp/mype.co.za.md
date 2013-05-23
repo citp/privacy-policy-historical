@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mype.co.za privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223025406id_/http%3A//mype.co.za/new/2011/02/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mype.co.za privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523171113id_/http%3A//mype.co.za/new/2011/02/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - MyPE
+# Privacy Policy
 
   1. Privacy Policy
   2. Advertiser Terms and Conditions
@@ -52,7 +52,7 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
   * Google Analytics: MyPE uses Google Analytics, a web analytics service. Google Analytics uses cookies, web beacons, and other means to help 2CO analyze how users use the site. You may find Google’s Privacy Policy at <http://www.google.com/intl/en/privacypolicy.html>
-  * 2Checkput: MyPE uses 2Checkout as a payment processor. You can find 2Checkout’s Privacy Policy at <https://www.2checkout.com/documentation/privacy.html>
+  * 2Checkout: MyPE uses 2Checkout as a payment processor. You can find 2Checkout’s Privacy Policy at <https://www.2checkout.com/documentation/privacy.html>
 
 
 
