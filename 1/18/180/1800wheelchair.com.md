@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1800wheelchair.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021025842id_/http%3A//www.1800wheelchair.com/pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1800wheelchair.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523070410id_/http%3A//www.1800wheelchair.com/pages/privacy.aspx) for the most accurate reproduction.*
 
 # 1800wheelchair.com
 
