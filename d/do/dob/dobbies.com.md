@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dobbies.com privacy policy that was archived on 2012-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121128211533id_/http%3A//www.dobbies.com/Information/cookies/C) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dobbies.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523042631id_/http%3A//www.dobbies.com/Information/cookies/C) for the most accurate reproduction.*
 
 # Dobbies Garden Centres. Inspiring Gardeners since 1865 - Cookies
 
