@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the delyver.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122011809id_/http%3A//delyver.com/Home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the delyver.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523231943id_/http%3A//www.delyver.com/Home/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Delyver | Bangalore Based Home Delivery Service in Marathahalli, Whitefield, Bellandur, Sarjapur Road
 
