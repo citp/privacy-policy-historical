@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pewterreport.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122043618id_/http%3A//www.pewterreport.com/index.php%3Foption%3Dcom_standards%26view%3Dstandard%26layout%3Dprivacy%26category_id%3D102%26Itemid%3D89) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pewterreport.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523040604id_/http%3A//www.pewterreport.com/index.php%3Foption%3Dcom_standards%26view%3Dstandard%26layout%3Dprivacy%26category_id%3D102%26Itemid%3D89) for the most accurate reproduction.*
 
 # Privacy Policy-Pewter Report: Your source for inside and breaking news on the Tampa Bay Buccaneers
 
