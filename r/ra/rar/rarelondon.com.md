@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rarelondon.com privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115035618id_/http%3A//www.rarelondon.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rarelondon.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523043337id_/http%3A//www.rarelondon.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -28,6 +28,8 @@ Unit 36
 Wellington Employment Park  
 Dunes Way  
 Liverpool  
-L5 9RJ  
-Company Reg. No 3778662  
-VAT No: 732 5074 51
+L5 9RJ
+
+Company Registration Number 8345420
+
+VAT Number 159100037
