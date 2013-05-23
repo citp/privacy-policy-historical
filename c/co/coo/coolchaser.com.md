@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolchaser.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227120043id_/http%3A//www.coolchaser.com/message/private_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolchaser.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523094122id_/http%3A//www.coolchaser.com/message/private_policy) for the most accurate reproduction.*
 
 # Privacy Policy - CoolChaser
 
@@ -84,7 +84,8 @@ CoolChaser may update this policy at any time for any reason.
 If you have questions or suggestions you can contact us at:
 
 Next Small Things  
-193 Waverley St Suite 6502  
+193 Waverley Street  
+Suite 6502  
 Palo Alto, California 94301  
-USA  
-email: copyright@nextsmallthings.com 
+United States of America  
+Email: contact@nextsmallthings.com 
