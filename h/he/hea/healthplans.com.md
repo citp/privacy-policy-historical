@@ -1,74 +1,93 @@
-> *The following text is extracted and transformed from the healthplans.com privacy policy that was archived on 2005-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050206034955id_/http%3A//www.healthplans.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthplans.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524000118id_/http%3A//www.healthplans.com/about-us/privacy-policy) for the most accurate reproduction.*
 
-# Healthplans.com - Affordable Health Solutions!
+# Privacy Policy | HealthPlans.com
 
-HealthPlans.com takes your privacy seriously. Please read the following to learn more about our privacy policy.
+For the purposes of this privacy policy, the terms "we", "us", "our" and "HealthPlans.com" refer to the HealthPlans.com, Inc. The terms "you" and "user" refer to you as a user of this Site.
 
-**What This Privacy Policy Covers**   
-This policy covers how HealthPlans.com treats personal information that HealthPlans.com collects and receives, including information related to your past use of HealthPlans.com products and services. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available. 
+At HealthPlans.com we care about your privacy as much as you do. We commit ourselves to bring you, as a member of HealthPlans.com, the best site experience we can offer in a way that assures that your personally identifiable information is safe with us.
 
-This policy does not apply to the practices of companies that HealthPlans.com does not own or control, or to people that HealthPlans.com does not employ or manage.
+**1\. Collection and Use of Information**  
+In general, you can visit our Site without telling us who you are or revealing any personal information about yourself. In order to better provide you with numerous products and services, our Site collects two types of information about its visitors: Personally Identifiable Information ("PII") and Non-Personally Identifiable Information.  
 
- **Information Collection and Use**   
-HealthPlans.com collects personal information when you register with HealthPlans.com, when you use HealthPlans.com products or services, when you visit HealthPlans.com pages or the pages of certain HealthPlans.com partners, and when you enter promotions or sweepstakes. HealthPlans.com may combine information about you that we have with information we obtain from business partners or other companies. 
 
-When you register we ask for information such as your name, email address, birth date, gender, zip code, occupation, industry, and personal interests. For some financial products and services we may also ask for your address, Social Security number, and information about your assets. Once you register with HealthPlans.com and sign in to our services, you are not anonymous to us.   
-HealthPlans.com collects information about your transactions with us and with some of our business partners, including information about your use of financial products and services that we offer. 
+**Non-Personally Identifiable Information**  
+HealthPlans.com collects no personal information about you when you visit our web site unless otherwise stated or unless you choose to provide this information to us. However, we may collect and store certain information automatically. This information will not be shared with anyone beyond the web site support staff, except when required by law enforcement investigation, and will be used only as a source of anonymous statistical information.
 
-HealthPlans.com automatically receives and records information on our server logs from your browser, including your IP address, HealthPlans.com cookie information, and the page you request. 
+This information may include:
 
-HealthPlans.com uses information for the following general purposes: to customize the advertising and content you see, fulfill your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients.
+  * Internet Protocol (IP) address of the domain from which You access the Internet, either Your individual address or the proxy provided by Your Internet Service Provider (ISP).
+  * Date and time You access our site.
+  * Pages You view (recorded by the text and graphics files that compose that page).
+  * Web address of the site from which You linked directly to our site.
+  * Browser version and operating system of the computer You are using.
+  * HealthPlans.com, Inc. is the sole owner of the information collected on HealthPlans.com.
 
- **Information Sharing and Disclosure**   
-HealthPlans.com does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances: 
 
-We provide the information to trusted partners who work on behalf of or with HealthPlans.com under confidentiality agreements. These companies may use your personal information to help HealthPlans.com communicate with you about offers from HealthPlans.com and our marketing partners. However, these companies do not have any independent right to share this information. 
 
-We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims; We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of HealthPlans.com's terms of use, or as otherwise required by law. 
+**Personally Identifiable Information**  
+HealthPlans.com collects no personally identifiable information about you when you visit our web site unless otherwise stated or unless you choose to provide this information to us. However, HealthPlans.com.com does collect personally identifiable information from our users at several different points on our Web site.
 
-We transfer information about you if HealthPlans.com is acquired by or merged with another company. In this event, HealthPlans.com will notify you before information about you is transferred and becomes subject to a different privacy policy. 
+**Registration**  
+In order to use some areas of this web site, you must first complete the registration form. If you as choose to register for "Take Control of Your Health" and "Advertise with Us", we request certain personally identifiable information from you such as your email address, gender, age and zip code. This information is used to improve the content of our web, review purposes, customize the content and/or layout of our page for each individual visitor, notify consumers about updates to our Web site, contact consumers for marketing purposes and aggregate information on what pages our consumers access or visit.  
 
-HealthPlans.com displays targeted advertisements based on personal information. Advertisers (including ad serving companies) may assume that people who interact with, view, or click on targeted ads meet the targeting criteria - for example, women ages 18-24 from a particular geographic area. 
 
-HealthPlans.com does not provide any personal information to the advertiser when you interact with or view a targeted ad. However, by interacting with or viewing an ad you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad. 
+**Placing an Order**  
+When you place an order, we require you to provide us with PII. We use this information to give you a customized experience and to process the orders that you place with us. When you place an order, we automatically establish your own registration account ("Personal Account") where information used in placing such order (including billing address, email address, telephone number(s) is saved. Your Personal Account is password protected from third parties. Upon confirmation of your order, you will receive an email from sales@HealthPlans.com that will include your password from us. You may access your Personal Account by signing in with that password. Afterward, you may change your password, edit your PII or request a password reminder at any time. Our database stores your billing and delivery information, and will automatically transfer it to the order form each time you place an order so that you do not have to re-enter this information when you sign in at subsequent visits.
 
-HealthPlans.com advertisers include financial service providers (such as banks, insurance agents, stock brokers and mortgage lenders) and non-financial companies (such as stores, airlines, and software companies). 
+To keep your information safe, you must choose a good password. At HealthPlans.com passwords must be at least for characters, a-z and 0 -9 with at list one letter and one number. Our password field is case - sensitive.
 
-**Cookies**   
-HealthPlans.com may set and access HealthPlans.com cookies on your computer. 
+**Opt-Out Policy**  
+We provide you the opportunity to opt-out of having your PII used for certain purposes, when we ask for this information. For example, if you register as a HealthPlans.com user but do not wish to receive any additional marketing material from us, you can indicate your preference on our sign-up form. If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at contact@HealthPlans.com. We also offer an opportunity to opt-out of certain communications on our member profile pages.
 
-HealthPlans.com lets other companies that show advertisements on some of our pages set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to HealthPlans.com's cookies. 
+If your personally identifiable information changes, you may correct or update it by emailing our Customer Support at [contact@HealthPlans.com](mailto:contact@HealthPlans.com).
 
-HealthPlans.com uses web beacons to access HealthPlans.com cookies inside and outside our network of web sites and in connection with HealthPlans.com products and services.
+**Legal Disclosure**  
+We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order or legal process served on our Web site.
 
- **Your Ability to Edit and Delete Your Account Information and Preferences**   
-You can edit your HealthPlans.com Account Information, including your marketing preferences, at any time. 
+**Public Display of PII**  
+If you choose to post a user review on this site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these reviews, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these reviews.
 
-New categories of marketing communications may be added to the Marketing Preferences page from time to time. Users who visit this page can opt out of receiving future marketing communications from these new categories or they can unsubscribe by following instructions contained in the messages they receive. 
+**2\. Communications from the Site**  
+From time to time, we send email communications to registered users to confirm of completed transactions and provide site updates.
 
-We reserve the right to send you certain communications relating to the HealthPlans.com service, such as service announcements, administrative messages and the HealthPlans.com Newsletter, that are considered part of your HealthPlans.com account, without offering you the opportunity to opt-out of receiving them. 
+**Promotional Communications**  
+From time to time, we make the e-mail addresses of those who access our site available to other reputable organizations whose products or services we think you might find interesting. To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. When visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information
 
-You can delete your HealthPlans.com account by emailing our  [Accounts Department](mailto:welcome@dentalplans.com). 
+**3\. Cookies**  
+A "cookie" is a piece of information that our web site sends to your browser, which then is stored on your system. You may disable or delete cookies at any moment. We use cookies to store visitors preferences, record session information, record user-specific information on what pages users access or visit, alert visitors to new areas that we think might be of interest to them when they return to our site, record past activity at a site in order to provide better service when visitors return to our site, ensure that visitors are not repeatedly sent the same banner ads, and customize Web page content based on visitors' browser type or other information that the visitor sends. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. Some of our business partners (e.g., advertisers) may use cookies on our site. We have no access to or control over these cookies. This privacy statement covers the use of cookies by this site only and does not cover the use of cookies by any advertisers.
 
-In addition to emails, you can opt out by requesting removal through postal mail to: 19 South Federal Highway, Dania, Florida 33004. Customer Service is available to help you Monday - Friday, 9:00am to 5:00pm. Email 
+**4\. IP Addresses**  
+Our Web server receives your IP address and other information as a normal function of the HTTP protocol. This data is stored in standard Web logs and used for aggregate statistics. No attempt is made to match your IP address with email addresses or any other information.
 
-[welcome@healthplans.com](mailto:welcome@healthplans.com) or call 954-923-2694. 
+**5\. Security**  
+We follow generally accepted industry standards to protect the personally identifiable information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personally identifiable information, we cannot guarantee its absolute security.
 
-**Confidentiality and Security**   
-We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs.   
-We have physical, electronic, and procedural safeguards that comply with federal regulations to protect personal information about you.    In certain areas HealthPlans.com uses industry-standard SSLencryption to protect data transmissions. 
+The security of your personal information is important to us. When you enter sensitive information (such as credit card number and/or social security number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). If you have any questions about security on our web site, you can send email us at contact@HealthPlans.com.
 
-**Changes to this Privacy Policy**   
-HealthPlans.com may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your HealthPlans.com account or by placing a prominent notice on our site. 
+**6\. Third Parties**  
+Our site contains links to other sites whose information practices may be different than ours. Users should consult the other sites' privacy notices as we have no control over information that is submitted to, or collected by, these third parties.
 
-**Questions and Suggestions**   
-HealthPlans.com values your right to privacy and we will not release any information regarding our members to any third party.  The information that you provide to us will only be used to process your membership enrollment and in communicating with you in the future.  It will enable us to send you HealthPlans.com member updates, including email regarding new benefits and services, as well as new products and special offers.
+HealthPlans.com uses technology provided by a third-party advertising company to serve ads when you visit this Web site. This technology may use information about your visit to this Web site in order to provide advertisements about goods and services that may be of interest to you. In the course of serving advertisements to this Web site, such third-party advertising technology may place or recognize a unique cookie on your browser. If you would like more information about this practice and to know your choices about not having this information used to target ads to you, please visit <http://www.doubleclick.net/us/corporate/privacy>. In addition, you have the ability to accept or decline cookies by modifying the settings in your browser.
 
-We may use third-party advertising companies to serve ads on our site. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, [click here](http://www.networkadvertising.org/optout_nonppii.asp).
+HealthPlans.com may also use a third party ad network provider to help present advertisements on this Web site. Third-party ad serving enables HealthPlans.com to target advertisements to you for products and services you might be interested in. These third party network advertisers, along with other advertisers and sponsors on the Web site, may use cookies, web beacons (also called single pixel gifs or action tags) or similar technologies (and, in the case of cookies, access them on your computer if you choose to have cookies enabled in your browser) to serve you advertisements tailored to interests you have shown by browsing on this and other sites you have visited, to determine whether you have seen a particular advertisement before and to avoid sending you duplicated advertisements. In doing so, the provider collects non-personal data such as your browser type, your operating system, Web pages visited, time of visits, content viewed, ads viewed and other clickstream data. The use of third party cookies, web beacons and similar technologies by these ad network providers is governed by each third party's specific privacy policy, not this one. Please visit http://www.networkadvertising.org/optout_nonppii.asp to learn more about the information collection practices and "opt-out" procedures of third party ad networks we may use.
 
-We want you to enjoy all the savings discounts that are available to you as a member of HealthPlans.com.  But just as important, we want you to be assured that the information that you entrust to us stays private and confidential.
+**Sharing of PII with Third-Parties**  
+We may contract with third-party companies or persons to provide certain services including credit card processing, distribution, data management, promotional services, etc. ("Service Providers"). We provide our Service Providers with the information needed for them to perform these services. We also ask our Service Providers to confirm that their privacy practices are consistent with ours.
 
-Thank you for coming to our web site.  We hope to have the honor of serving you as a member of HealthPlans.com for many years to come.
+We use PayPal to provide credit card processing on our site. For Professional Registrations, users who sign up to purchase listings on the HealthPlans.com directory will share their name, address, phone, email, and credit card numbers as necessary for PayPal to provide that service.
 
-  
+**7\. How to unsubscribe**  
+If you no longer wish to receive periodic emails from us or our promotional partners, or be part of HealthPlans.com, you can go to your profile to opt-out of certain communications. You may also opt-out of receiving them by following the instructions included in each newsletter or communication, by emailing us at contact@HealthPlans.com. Please note that we have a 7-day processing period for unsubscribe requests.
 
+**8\. Changes to this Privacy Policy**  
+If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
+
+**9\. Contact information**  
+If you have questions or concerns regarding this statement, you should first contact:
+
+HealthPlans.com, Inc.  
+3301 NE 1st Ave. Suite PH4  
+Miami, Florida 33137  
+E-mail: [contact@HealthPlans.com](mailto:contact@HealthPlans.com)
+
+Effective Date: 1/24/2008
