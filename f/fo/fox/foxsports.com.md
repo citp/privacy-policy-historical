@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foxsports.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230183934id_/http%3A//msn.foxsports.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foxsports.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523083348id_/http%3A//msn.foxsports.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - FOX Sports on MSN
 
@@ -30,7 +30,7 @@ This Privacy Policy applies to all users, including both those who use some of t
 
 **Services Offered with Microsoft**
 
-We work with Microsoft to bring you certain features for some of the FSD Sites.  By providing information to or using the FSD Sites, you agree that we may share your information with Microsoft. Microsoft's use of your information is governed by Microsoft's Privacy Policy, which can be found here: _<http://privacy.microsoft.com/en-us/default.mspx>_.
+We work with Microsoft to bring you certain features for some of the FSD Sites.  By providing information to or using the FSD Sites, you agree that we may share your information with Microsoft. Microsoft's use of your information is governed by Microsoft's Privacy Policy, which can be found here: _<http://go.microsoft.com/fwlink/?LinkId=248688>_.
 
 **Services Offered with Publishers**  
 
