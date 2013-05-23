@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geekpedia.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229213847id_/http%3A//www.geekpedia.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geekpedia.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524011805id_/http%3A//www.geekpedia.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Geekpedia • Privacy Policy
 
@@ -16,7 +16,7 @@ When you register with Geekpedia you must enter your first name, surname, birthd
 **Email address**  
 We don't sell your email address. Your email address is kept only in our database when you register, for contact information. It is made public only on our website, for others to contact you. It is protected by spam by using some simple ways to trick the crawlers. We will contact you only when necessary (reseting your password, tutorial approval, etc.).  
 We may only send you very few emails (two or three a year) that we think you would be interested in (IT conferences, for example) and that don't have any comercial interest.  
-For more information read the [FAQ](https://web.archive.org/web/20121229213847id_/http%3A//www.geekpedia.com/faq.php). 
+For more information read the [FAQ](https://web.archive.org/web/20130524011805id_/http%3A//www.geekpedia.com/faq.php). 
 
 **Security**  
 This website has security measures meant to prevent loss or alteration of the information. Although we can't guaranty that the information you posted will not be alterated or deleted from our website. Backups are usually made daily. 
