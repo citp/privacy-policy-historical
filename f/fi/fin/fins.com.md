@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the fins.com privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022103442id_/http%3A//www.fins.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fins.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523072150id_/http%3A//www.fins.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - FINS.com
-
-## FINS Privacy Policy
 
 #### Effective July 31, 2012
 
@@ -107,7 +105,7 @@ We also share your Personal Information:
 
 **Linked Websites**. Our Online Services may also be linked to third parties, and may carry advertisements or offer content, functionality, games or applications developed and maintained by third parties. Some of these third party sites may be co-branded with an eFinancialCareers logo, even though they are not operated or maintained by us. For example:
 
-The commenting tool for fins.com is provided by a third party online comment system called Disqus. Disqus is a third party application that allows visitors to post comments on fins.com and allthingsd.com and connect those and other comments across multiple websites. You may use your Disqus or certain select social media accounts to log-in and post comments on fins.com and allthingsd.com. When you log in and post a comment on these websites, Disqus may collect information about your visit to this and other Disqus partner sites, including information that you post and your IP address. If you register with and use Disqus, Disqus may collect and use additional information from and about you.
+The commenting tool for fins.com is provided by a third party online comment system called Disqus. Disqus is a third party application that allows visitors to post comments on fins.com and connect those and other comments across multiple websites. You may use your Disqus or certain select social media accounts to log-in and post comments on fins.com. When you log in and post a comment on these websites, Disqus may collect information about your visit to this and other Disqus partner sites, including information that you post and your IP address. If you register with and use Disqus, Disqus may collect and use additional information from and about you.
 
 eFinancialCareers is not responsible for the privacy practices of any such third parties, and once you leave our Online Services via a link, enable a third-party service, or click an advertisement, you should check the applicable privacy policy of the third-party site.
 
