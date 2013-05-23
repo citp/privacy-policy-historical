@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foopets.com privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104050745id_/http%3A//www.foopets.com/signup/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foopets.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523151453id_/http%3A//www.foopets.com/signup/privacy) for the most accurate reproduction.*
 
 # FooPets | Real Virtual Pets Online
 
@@ -144,6 +144,6 @@ email: support@foopets.com
 
 phone: +1.650.479.5907 
 
-#### ©2012 Startapult, Inc. All rights reserved.
+#### ©2013 Startapult, Inc. All rights reserved.
 
 Top
