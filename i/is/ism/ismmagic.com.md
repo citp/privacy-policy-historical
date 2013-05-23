@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ismmagic.com privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127064752id_/http%3A//www.ismmagic.com/policies/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ismmagic.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524015053id_/http%3A//www.ismmagic.com/policies/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Policies
+# Privacy Policy | policies
 
 This Privacy Policy is as between you, the User of this Web Site (ismmagic.com) and ISMMAGIC LIMITED (hereinafter known as ISMmagic) the owner and provider of this Web Site. This Policy applies to our use of any and all Data collected by us in relation to your use of the Web Site and any Services or Systems therein.
 
