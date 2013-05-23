@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the alltopstartups.com privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121231547id_/http%3A//alltopstartups.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alltopstartups.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523174654id_/http%3A//alltopstartups.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy | All Top Startups
+# Privacy | Alltopstartups.com
 
 ### Alltopstartups Privacy Policy
 
