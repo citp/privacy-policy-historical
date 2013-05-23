@@ -1,24 +1,86 @@
-<!--The following is the downloaded HTML source of the qwertee.com privacy policy that was archived on 2012-12-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121224081038id_/http%3A//www.qwertee.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the qwertee.com privacy policy that was archived on 2013-05-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130523140218id_/http%3A//www.qwertee.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>Qwertee. </title>
-<meta name="Description" content="Qwertee">
-<meta name="author" content="Qwertee UK Ireland">
-<meta name="keywords" content="qwertee, robert feeley,">
-
-<link rel="icon" type="images/png" href="/static/images/favicon.ico">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml" xml:lang="en-gb" lang="en-gb"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title> Qwertee : Limited Edition Cheap Daily T Shirts | Gone in 24 Hours | T-shirt Only £8/€10/$12 | Cool Graphic Funny Tee Shirts</title>
+<meta name="Description" content="Qwertee.com sells a new cool, funny, graphic t shirt every 24 hours for only £8/€10/$12! Get your limited edition tee now before its too late!">
+<meta name="author" content="Qwertee">
+<meta property="fb:admins" content="1050828616">
+<meta name="keywords" content="Qwerty T Shirts, Qwerty, Qwertee, Graphic Tees, cool shirts, awesome t shirts, cheap graphic tees, tee shirts, limited edition tshirts, limited edition tee shirts, cool graphic tees, cool graphic t-shirts, mens, boys girls Tshirts kids Tees, womens, ladies, funny, cool, music, printed, graphic, designer, humor, unique, t-shirts, tee shirts, tshirts, clothing, design, art, Irish T-Shirts, Irish T-Shirt, retro, band, art, cotton t shirt, Irish Shirts, tshirts ireland, Limited Edition, Ireland, online t shirts, tees, funny shirts, funny slogans, t-shirts UK, daily t shirt, 24 hours only, UK, Europe, Worldwide, Free Delivery, Free Returns">
+<link rel="icon" type="images/png" href="/static/images/favicon.png">
 <link rel="alternate" type="application/rss+xml" href="/rss/">
-<link href="/css/min/screen.css" rel="stylesheet" type="text/css">
-<link href="/css/min/front.css" rel="stylesheet" type="text/css">
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+<link href="/static/css/min/screen2012110300.css" rel="stylesheet" type="text/css">
+<link href="/static/css/min/front2802201200.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" src="/static/js/jquery.min.js"></script>
+<script type="text/javascript" src="https://s7.addthis.com/js/250/addthis_widget.js?username=xa-4c1950eb7ebb16b7"></script>
 <script type="text/javascript" src="/static/js/jquery.countdown.min.js"></script>
 <script src="/static/js/jquery.qtip-1.0.min.js" type="text/javascript"></script>
-<link rel="stylesheet" href="/css/min/jquery.lightbox-0.5.css" type="text/css" media="screen">
+<script src="/static/js/min/jquery.lightbox-0.5-mod.pack.js" type="text/javascript"></script>
+<script src="/static/js/jquery.validate.pack.js" type="text/javascript"></script>
+<link rel="stylesheet" href="/static/css/min/jquery.lightbox-0.5.css" type="text/css" media="screen">
 <script type="text/javascript">
-        $(document).ready(function() {
+//<![CDATA[
 
+window.onload = function() {
+	$("a[href^='http']").attr('target','_blank');
+}
+
+function popUp(URL) {
+day = new Date();
+id = day.getTime();
+eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=1,width=500,height=500');");
+}
+
+        $(document).ready(function() {
+		
+		
+		
+    			/**
+* jQuery Cookie plugin
+*
+* Copyright (c) 2010 Klaus Hartl (stilbuero.de)
+* Dual licensed under the MIT and GPL licenses:
+* http://www.opensource.org/licenses/mit-license.php
+* http://www.gnu.org/licenses/gpl.html
+*
+*/
+jQuery.cookie = function (key, value, options) {
+
+    // key and at least value given, set cookie...
+    if (arguments.length > 1 && String(value) !== "[object Object]") {
+        options = jQuery.extend({}, options);
+
+        if (value === null || value === undefined) {
+            options.expires = -1;
+        }
+
+        if (typeof options.expires === 'number') {
+            var days = options.expires, t = options.expires = new Date();
+            t.setDate(t.getDate() + days);
+        }
+
+        value = String(value);
+
+        return (document.cookie = [
+            encodeURIComponent(key), '=',
+            options.raw ? value : encodeURIComponent(value),
+            options.expires ? '; expires=' + options.expires.toUTCString() : '', // use expires attribute, max-age is not supported by IE
+            options.path ? '; path=' + options.path : '',
+            options.domain ? '; domain=' + options.domain : '',
+            options.secure ? '; secure' : ''
+        ].join(''));
+    }
+
+    // key and possibly options given, get cookie...
+    options = value || {};
+    var result, decode = options.raw ? function (s) { return s; } : decodeURIComponent;
+    return (result = new RegExp('(?:^|; )' + encodeURIComponent(key) + '=([^;]*)').exec(document.cookie)) ? decode(result[1]) : null;
+};
+		
+            $("#checkout-login-validate").validate();
+            $("#checkout-form-validate").validate();
+            
             $(".signin").click(function(e) {
                 e.preventDefault();
                 $("fieldset#signin_menu").toggle();
@@ -37,92 +99,329 @@
 
         });
 		
-function showAnswer(faq)
+function quoteReply(content)
 {
-	element = $("#question-"+faq);
-	element.toggleClass("hidden-list");
-	thisele = $("#answer-"+faq);
-	thisele.toggleClass("hidden-list");
+    current = $("#id_comment").val();
+	new_content = '<quote>'+ content +'</quote>\n'+ current;
+	$("#id_comment").val(new_content);
+	$('html, body').animate({scrollTop: $("#id_comment").offset().top}, 500);
 }
 
-</script>
-<script type="text/javascript">
+function quoteReply2(id,name)
+{
+	$("#quoting-user").html("Quoting "+name);
+	$("#quote-form .quote").val(id);
+	$('html, body').animate({scrollTop: $("#quote-form").offset().top-30}, 500);
+}
+
+function quoteFormSubmit()
+{
+	if($("#quote-form .quote").val()!="")
+	{
+		$("#id_comment").val(">quote:"+$("#quote-form .quote").val()+'\r\n'+$("#id_comment").val());
+	}
+	return true;
+}
+
+function forumQuoteReply(post,name)
+{
+		$("#id_quoted_post").val(post);
+		$("#quoting-user").html("Quoting "+name);
+		$('html, body').animate({scrollTop: $("#quote-form").offset().top-30}, 500);
+}
+
+function showButton(id)
+{
+    $("#"+id).css("display","block");
+}
+	
+function showAnswer(faq)
+{
+	$('#answer-'+faq).toggle();
+}
+
+function switchThumb(num)
+{
+    thumb_next = $('#thumb-'+num);
+    full_next = $('#fullimage-'+num);
+	thumb_active = $('.thumb-active').first();
+	full_active = $('.full-active').first();
+	splash = $('#project-splash-holder');
+	
+	
+	if (full_active!=full_next){
+		
+		$('.full-active').toggleClass("full-active");
+		$('.thumb-active').toggleClass("thumb-active");
+		$('#fullimage-'+num).toggleClass("full-active");
+		$('#num-'+num).toggleClass("thumb-active");
+		
+	    new_height = full_next.css("height");
+	    //new Effect.Morph(splash, {style: 'height:'+new_height, duration:0.5});
+	    splash.animate({"height": new_height}, "slow")
+	
+		//new Effect.DropOut(full_active,{duration:0.5});
+		full_active.css("display","none");
+		full_next.css("display","block");
+		//new Effect.Appear(full_next,{duration:0.5});
+	}
+}
+
+function switchThumb2(num,loop)
+{
+    thumb_next = $('#thumb-'+num);
+    full_next = $('#fullimage-'+num);
+	thumb_active = $('.thumb-active'+loop).first();
+	full_active = $('.full-active'+loop).first();
+	
+	
+	if (full_active!=full_next){
+		
+		$('.full-active'+loop).toggleClass("full-active"+loop);
+		$('.thumb-active'+loop).toggleClass("thumb-active"+loop);
+		$('#fullimage-'+num).toggleClass("full-active"+loop);
+		$('#num-'+num).toggleClass("thumb-active"+loop);
+		
+	    new_height = full_next.css("height");
+	    //new Effect.Morph(splash, {style: 'height:'+new_height, duration:0.5});
+	
+		//new Effect.DropOut(full_active,{duration:0.5});
+		full_active.css("display","none");
+		full_next.css("display","block");
+		//new Effect.Appear(full_next,{duration:0.5});
+	}
+}
+
 function hideModal()
 {
 	$('#success_modal').css('display','none');
-}
+	$('#modal_checkout_btn2').css('display','none');
+	$('#splash-image').css('visibility','visible');
+	$('#success_modal_msg').html('<img src="/static/images/loading.gif" alt="Loading" title="Loading" />');
+	$('#cart-modal-header1').html("Updating");
+};
+
+function hideSizingModal()
+{
+	$('#sizing_modal').css('display','none');
+	$('#splash-image').css('visibility','visible');
+};
+
+function showSizingModal()
+{
+	$('#sizing_modal').css('display','block');
+	$('#splash-image').css('visibility','hidden');
+};
 
 function disableForm(div)
 {
 	if(document.getElementById('id_copy_address').checked){
 		$('#'+div).fadeTo("fast", 0.2);
+		$('#id_addressee').val($('#id_ship_addressee').val());
+		$('#id_street1').val($('#id_ship_street1').val());
+		$('#id_street2').val($('#id_ship_street2').val());
+		$('#id_state').val($('#id_ship_state').val());
+		$('#id_city').val($('#id_ship_city').val());
+		$('#id_postal_code').val($('#id_ship_postal_code').val());
+		$('#id_country').val($('#id_ship_country').val());
 	}
 	else{
 		$('#'+div).fadeTo("fast", 1.00);
 	}
-}
+};
+
 
 function swapThumb(url,div)
 {
-	$('#splash-image').css('background-image','url('+url+')');
-}
+	//$('#splash-image').css('background-image','url('+url+')');
+	$('#splash-picture-actual').attr('src',url)
+	//$('#splash-zoom').attr('href',url);
+};
 
-var SSS = {
+function recalculateShippingNew()
+{
+    cc = $('#id_ship_country')[0];
+    ccnum = cc.options[cc.selectedIndex].title; 
+	$('.selected-country-deliver').css('display','none');
+	$('.selected-country-deliver').removeClass('selected-country-deliver');
+	$('#selected-'+ ccnum +'-deliver').css('display','block');
+	$('#id_ship_zone').val(ccnum);
+	var radios = $('input[name=shipping-rad-'+ ccnum +']:radio');
+	if(radios.length > 0)
+	{
+		radios[0].checked = true;
+	}
+	$('#selected-'+ ccnum +'-deliver').addClass('selected-country-deliver');
+};
 
-	// handle a form submission
-	// including updating the cart quantity
-	updatestatus : function(json, result_tgt, count_tgt) {
-		var result = json.results;
-		if (result == "Success") {
-			result = 'ITEM ADDED!';
-		}
-		$(result_tgt).html(result);
-		errors = json.errors;
-		if (errors > 0) {
-			for (var i = 0; i<errors.length; i++) {
-				which = errors[i][0];
-				err = errors[i][1];
-				if (which == 'quantity') {
-					$('#label-quantity span.error').html(err);
-				}
-				else if (which == 'product') {
-					var t = tgt.html();
-					tgt.html(t + '<br/>' + err);
-				}
-			}
-		}
-		else {
-			var ct = '(' + json.cart_count + ' Item';
-			if (json.cart_count != 1) {
-				ct = ct + 's';
-			}
-			ct = ct + ')';
-			$(count_tgt).text(ct);
-		}
-	},
+function recalculateShipping()
+{
+    cc = document.getElementById('id_ship_zone');
+    ccnum = cc.options[cc.selectedIndex].value;
+	$('.selected-country-deliver').css('display','none');
+	$('.selected-country-deliver').toggleClass('selected-country-deliver');
+	$('#selected-'+ ccnum +'-deliver').css('display','block');
+	var radios = $('input[name=shipping-rad-'+ ccnum +']:radio');
+	if(radios.length > 0)
+	{
+		radios[0].checked = true;
+	}
+	$('#selected-'+ ccnum +'-deliver').toggleClass('selected-country-deliver');
+};
 
-	validate : function(formArray, jqForm, tgt) {
-		var qty = 0;
-		for (var i = 0; i<formArray.length; i++) {
-			var elt = formArray[i];
-			if (elt.name == 'quantity') {
-				qty = elt.value;
-			}
+//append feedburner to newsletter form
+jQuery(function(){
+	$('form[action="/newsletter/subscribe/"] input[type=text]').after('<br />Sign up for daily tee updates: <input type="checkbox" name="feedburner" />');
+	
+	$('form[action="/newsletter/subscribe/"]').submit(function(){
+		if($(this).find('input[name="feedburner"]:checked').length>0){
+			window.open('http://feedburner.google.com/fb/a/mailverify?uri=qwertee&email='+$(this).find('input[name="email"]').val());
 		}
-		if (! parseInt(qty)>0) {
-			$('#label-quantity span.error').html("Choose a quantity");
-			return false;
-		}
-		return true;
-	},
+		})
+	
+});
 
-}
+$(function() {
+	// Use this example, or...
+	$('a[rel=lightbox]').lightBox(); // Select all links that contains lightbox in the attribute rel
+	$('a[rel=lightboxb]').lightBox(); // Select all links that contains lightbox in the attribute rel
+});
+
+			$(document).ready(function()
+			{
+				$('a.header-qtip').qtip({
+				   content: 'One Tee Shirt, One Day Only, One Incredible Price: Welcome to Qwertee.',
+				   position: {
+					corner: {
+						target: 'rightMiddle',
+						tooltip: 'leftTop',
+						},
+				   },
+				   style: {
+					name: 'light',
+					width:400,
+					border: {
+						width:3,
+						radius:8,
+					},
+					tip: 'leftTop',
+				   },
+				   show: {
+					when: { event: 'mouseover'},
+					effect: 'fade',
+				   },
+				   hide: { fixed: true }
+				});
+			});
+
+
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '349135248458184', // App ID
+      channelUrl : '//'+document.domain+'/static/channel.html', // Channel File
+      status     : true, // check login status
+      cookie     : true, // enable cookies to allow the server to access the session
+      xfbml      : true  // parse XFBML
+    });
+
+    // Additional initialization code here
+  };
+
+  // Load the SDK Asynchronously
+  (function(d){
+     var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement('script'); js.id = id; js.async = true;
+     js.src = "//connect.facebook.net/en_US/all.js";
+     ref.parentNode.insertBefore(js, ref);
+   }(document));
+	
+$(function(){
+	var f = function(){
+	if($.cookie('loggedin')){
+		$('.loggedin').show();
+		$('.loggedout').hide();
+	} else {
+		$('.loggedout').show();
+		$('.loggedin').hide();
+	}
+	$('.location-cookie').hide();
+	$('.location-'+$.cookie('location')).addClass('active-curr').show();
+	if(!$.cookie('location')){
+		$('.location-EUR').show();
+	}
+	};
+	f();
+	$.get('/cookie/',function(){
+		f();
+	});
+	if($.cookie('msghide7')){
+		$('#msghide').hide();
+	}
+});
+
+
+
+//]]>
 </script>
-
+<style type="text/css">li.loggedin,.location-cookie.location-GBP,.location-cookie.location-USD{display:none;}</style>
 </head>
 <body id="home">
+<div id="fb-root"></div>
+<div id="header-root">
+<div class="container">
+<div id="header">
+<div id="header-logo"><a href="/" class="header-qtip"><img src="/static/images/hdr_logo.png" alt="Qwertee" title="Qwertee"></a>
+<div class="clearBoth"></div></div>
+<div class="header-nav">
+<ul>
+<li class="nav-replace" id="nav-cart"><a href="/cart/">Your Cart</a></li>
+<li class="nav-replace" id="nav-country">
+<a class="location-EUR" href="/switch/eur/?next=/privacy/"><img src="/static/images/flags/eur.png" alt="EURO" title="EURO"></a>
+<a class="location-GBP" href="/switch/gbp/?next=/privacy/"><img src="/static/images/flags/gb.png" alt="GBP" title="GBP"></a>
+<a class="location-USD" href="/switch/usd/?next=/privacy/"><img src="/static/images/flags/us.png" alt="USD" title="USD"></a>
+</li>
+<li class="nav-replace loggedin" id="nav-profile" style="display: none;"><a href="">Your Profile</a><em><a href="/profile/edit">Edit</a></em></li>
+<li class="nav-replace loggedin" id="nav-history" style="display: none;"><a href="/history/">Your Orders</a></li>
+<li class="nav-replace loggedin" id="nav-logout" style="display: none;"><a href="/accounts/logout/?next=/privacy/">Logout</a></li>
+<li class="nav-replace loggedout" id="nav-register"><a href="/accounts/register/">Join Now</a></li>
+<li class="nav-replace loggedout"><a href="/accounts/login/"><span>Sign in</span></a> </li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div id="root" style="color:#fff;">
+<div class="container">
+<div>
+</div>
+<div class="clearBoth"></div>
+</div>
+<div class="clearBoth"></div>
+</div>
+<div id="main-root">
+<div class="container">
+<div>
+<ul id="nav">
+<li class="nav-replace" id="nav-todays-tee"><a href="/">Today's Tee</a></li>
+<li class="nav-replace" id="nav-last-chance"><a href="/last-chance/">Last Chance Tee</a></li>
+<li class="nav-replace" id="nav-previous-tees"><a href="/product/view/recent/">Previous Tees</a></li>
+<li class="nav-replace" id="nav-vote"><a href="/vote/">Vote</a></li>
+<li class="nav-replace" id="nav-submit"><a href="/create/">Submit</a></li>
+<li class="nav-replace" id="nav-forum"><a href="/forum/">Forum</a></li>
+<li class="nav-replace" id="nav-news"><a href="/blog/">News</a></li>
+<li class="nav-replace" id="nav-helpfaq"><a href="/faq/">Help/FAQ</a></li>
+<li class="nav-replace" id="nav-contact"><a href="/contact/">Contact</a></li>
+</ul>
+<div class="clearBoth"></div>
+</div>
+<div class="clearBoth"></div>
+</div>
+<div class="clearBoth"></div>
+</div>
 <div id="extra-root">
-<div class="popup-container">
+<div class="container">
+<div id="contents">
 <h3>Privacy</h3>
 <p><b>QWERTEE.COM PRIVACY POLICY:</b><br><br></p>
 <p>We take your privacy very seriously. We will never pass on or sell any of your details to anyone else and we will keep any information you provide us with stored secure<br><br></p>
@@ -162,8 +461,127 @@ Second Floor<br>
 Ballsbridge<br>
 Dublin 4<br>
 Ireland<br><br></p>
+<p><b>Cookies we use:</b><br><br></p>
+<table><tbody><tr><td>Cookie<span>&nbsp; &nbsp;</span></td><td>Name</td><td>Purpose</td><td>Notes</td></tr><tr><td>AddThis</td><td>__atvc</td><td>This cookie is used to update the add this share widget count</td><td>See&nbsp;http://support.addthis.com/customer/portal/questions/319587--atuvc-cookie<span>&nbsp;&nbsp; &nbsp;</span><br></td></tr><tr><td>Qwertee</td><td>sessionid</td><td>This cookie is used to identify users to the site so they can log in, place orders etc</td><td></td></tr><tr><td>Qwertee</td><td>csrftoken</td><td>This cookie is used by our system to prevent Cross Site Request Forgery<span>&nbsp;attacks</span></td><td><span>&nbsp;&nbsp; &nbsp;</span></td></tr><tr><td>Google Analytics</td><td>_utma<br>_utmb<br>_utmc<br>_utmz</td><td>These cookies are used to collect information about how visitors use our
+site, which we use to&nbsp;help improve it. The cookies collect information
+in an anonymous form, including the number of visitors to the site,
+where visitors have come to the site from and the pages they visited.</td><td>http://www.google.com/intl/en_uk/analytics/privacyoverview.html</td></tr><tr><td>Qwertee</td><td>msghide1<br>msghide2<br>msghide3</td><td>These cookie hide the red&nbsp;announcement&nbsp;banners at the top of the screen.</td><td>A new cookie with the number incremented is created each time we have a new banner</td></tr></tbody></table>
 </div>
+<div class="clearBoth"></div>
 </div>
+<div class="clearBoth"></div>
+</div>
+<div id="footerholder">
+<div id="footer">
+<div class="footer-block">
+<div class="footer-module shop-module">
+<h3>Shop</h3>
+<p>
+<a href="/category/mens/">Mens T-Shirts</a>
+<a href="/category/womens/">Womens T-Shirts</a>
+<a href="/"> Buy T-shirts</a>
+<a href="/"> Graphic T-shirt</a>
+<a href="/"> Cool Tees</a>
+<a href="/"> Buy Tshirts</a>
+<a href="/"> Designer T shirts</a>
+<a href="/"> Limited Edition</a>
+<a href="/"> Funny T-shirts</a>
+<a href="/"> Retro Tshirts</a>
+<a href="/"> Tee shirts</a>
+<a href="/"> Tshirt</a>
+<a href="/"> T shirt</a>
+</p>
+<img src="/static/images/footer-card-images.png" alt="Accepted Payments,Credit cards,Debit cards,Paypal" class="accepted-payments">
+</div>
+<div class="footer-module join-in-module">
+<h3>Join In</h3>
+<p>
+<a href="/vote/">Vote for Designs</a>
+<a href="/create/">Submit your Designs</a>
+<a href="/forum/">Forum</a>
+<a href="/blog/">Blog</a>
+</p>
+</div>
+<div class="footer-module information-module">
+<h3>Information</h3>
+<p>
+<a href="/faq/">Help &amp; FAQ</a>
+<a href="/history/">Order Tracking</a>
+<a href="/blog/">Qwertee News/Blog</a>
+<a href="/tandc/">Terms and Conditions</a>
+<a href="/privacy/">Privacy</a>
+<a href="/jobs/">Jobs at Qwertee</a>
+</p>
+</div>
+<div class="footer-module connect-module">
+<h3>Connect</h3>
+<p>
+<a href="http://www.facebook.com/Qwertee" target="_blank">Facebook</a>
+<a href="https://twitter.com/#!/qwertee" target="_blank">Twitter</a>
+<a href="http://qwertee.tumblr.com/" target="_blank">Tumblr</a>
+<a href="/forum/">Forum</a>
+<a href="/blog/">Blog</a>
+<a href="/rss/">RSS</a>
+</p>
+</div>
+<div class="footer-module company-information-module">
+<h3>Company Information</h3>
+<ul>
+<li><b>Qwertee Registered Address:</b></li>
+<li>Qwertee.com / Ubertee Ltd</li>
+<li>13 Upper Baggot St | 2nd Floor</li>
+<li>Dublin 4 | Ireland</li>
+<li>Company Number: 476552</li>
+<li>VAT Number: IE9732470B</li>
+<li><br></li>
+<li><b>US &amp; Canada Mail Distributed Via</b></li>
+<li>International Sorting Centre</li>
+<li>USPS | JFK International Airport</li>
+<li>Building 250 | Jamaica NY 11430</li>
+<li>United States of America</li>
+<li><br></li>
+<li><b>UK Mail Distributed Via</b></li>
+<li>Royal Mail Birmingham Mail Centre</li>
+<li>St. Stephens Street | Aston</li>
+<li>Birmingham | B6 4AA</li>
+<li>United Kingdom</li>
+</ul>
+</div>
+<div class="footer-module newsletter-modules">
+<h3>Join Qwertee Newsletter</h3>
+<p>Sign up for our fantastic newsletter and get a 50p/50c discount code immediately. We also give away a FREE shirt to a newsletter member EVERY WEEK! Join now to get the latest Qwertee updates and news of our insaniTEE sales!</p>
+<form action="/newsletter/subscribe/" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" method="post" style="font: 12px Arial;">
+<div style="display:none"><input type="hidden" name="csrfmiddlewaretoken" value="10a732a63b97a34b065364214c29f08c"></div>
+Email: <input type="text" maxlength="75" name="email" id="id_email"><br>Sign up for daily tee updates: <input type="checkbox" name="feedburner">
+<input type="hidden" value="on" name="subscribed">
+<button name="subscribe" id="mc-embedded-subscribe">Subscribe</button>
+</form>
+</div>
+<div class="clearBoth"></div>
+</div>
+<div class="clearBoth"></div>
+<div id="footerleft">© 2013 Qwertee. All Designs Copyright by Owner.</div>
+<div class="clearBoth"></div>
+</div>
+<div class="clearBoth"></div>
+</div>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-25877856-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script>
+  
+</script>
+ 
 
 
 </body></html>
