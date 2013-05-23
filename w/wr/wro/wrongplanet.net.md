@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wrongplanet.net privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121211530id_/http%3A//www.wrongplanet.net/asperger.html%3Fname%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wrongplanet.net privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523171356id_/http%3A//www.wrongplanet.net/asperger.html%3Fname%3DPrivacy) for the most accurate reproduction.*
 
 # Wrong Planet - Privacy
 
