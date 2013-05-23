@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the watchfuleyedesigns.com privacy policy that was archived on 2012-12-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121227045828id_/http%3A//www.loksak.com/customer-support/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the watchfuleyedesigns.com privacy policy that was archived on 2013-05-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130523170437id_/http%3A//www.loksak.com/customer-support/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
     <title>Privacy Policy</title>
@@ -75,18 +75,25 @@ jQuery(document).ready(function(){
 }); 
 </script>
 
+<script type="text/javascript" src="/js/cookie.js"></script>
+<script type="text/javascript" src="/js/detectmobilebrowser.js"></script>
 <script type="text/javascript">
-$(document).ready(function(){
-  $('.shop-access ul li.first a').attr('target', '_blank');
-
-});
-
+	jQuery(document).ready(function(){
+		// detect mobile devices
+		if (jQuery.browser.mobile) {		
+			// if cookie for fullsite doesn't exists, redirect to mobile site. otherwise, they just came from it
+			if (Cookie.get('fullsite') == null) {
+				window.location = '/mobile/';
+			}
+		}
+	});
 </script>
 
-
-
-
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script></head>
+<script type="text/javascript">
+jQuery(document).ready(function(){
+  	jQuery('.shop-access ul li.first a').attr('target', '_blank');
+});
+</script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script></head>
 <body class=" catalog-category-view categorypath-customer-support-privacy-policy category-privacy-policy">
 <div class="wrapper">
         <!-- [start] header -->
@@ -94,7 +101,7 @@ $(document).ready(function(){
             
 <div class="header-top-container">
     <div class="header-top">
-  <p style="margin: 0px; padding: 0px; float:left;">   <!--   <h1 id="logo">--><a href="http://www.loksak.com/"><img src="http://www.loksak.com/skin/frontend/loksak/loksak/images/logo.gif" alt="Loksak"></a><!--</h1>--> </p>
+  <p style="margin: 0px; padding: 0px; float:left;">   <!--   <h1 id="logo">--><a href="http://www.loksak.com/"><img src="http://www.loksak.com/skin/frontend/loksak/loksak/images/logo.gif" alt="Bags and Carrying Cases Manufacturer | Air Tight Bags, Waterproof Phone Cases, Airtight Food Containers &amp; More! | LOKSAK, Inc"></a><!--</h1>--> </p>
         <p class="no-display"><a href="#main"><strong>Skip to Main Content »</strong></a></p>
                 <div class="quick-access">
            <!--<br />-->
@@ -225,7 +232,7 @@ $(document).ready(function(){
 <tr>
 <td style="width: 130px;"><a class="bm" href="/products/aloksak" target="_self">aLOKSAK</a><br> <a class="bm" href="/products/opsak" target="_self">OPSAK</a><br> <a class="bm" href="/products/splashsak" target="_self">SPLASHSAK</a><br> <a class="bm" href="/products/shieldsak" target="_self">SHIELDSAK</a></td>
 <td style="width: 130px;"><a class="bm" href="/about-loksak" target="_self">Company Info</a><br> <a class="bm" href="/about-loksak/performance-test-certifications" target="_self">Certifications</a><br> <a class="bm" href="/about-loksak/testimonials" target="_self">Testimonials</a><br> <a class="bm" href="/about-loksak/faq" target="_self">FAQ</a></td>
-<td style="width: 130px;"><a class="bm" href="/customer-support" target="_self">Contact Us</a><br> <a class="bm" href="/customer-support/privacy-policy" target="_self">Privacy Policy</a><br> <a class="bm" href="/customer-support/shipping-returns" target="_self">Shipping &amp; Returns</a><br> <a class="bm" href="/customer-support/disclaimers" target="_self">Disclaimers</a></td>
+<td style="width: 130px;"><a class="bm" href="/customer-support" target="_self">Contact Us</a><br> <a class="bm" href="/customer-support/privacy-policy" target="_self">Privacy Policy</a><br> <a class="bm" href="/customer-support/shipping-returns" target="_self">Shipping &amp; Returns</a><br> <a class="bm" href="/customer-support/disclaimers" target="_self">Disclaimers</a><br><a class="bm" href="http://www.loksak.com/sitemap">Sitemap</a></td>
 </tr>
 </tbody>
 </table>
@@ -235,7 +242,7 @@ $(document).ready(function(){
 <div id="footer-brochures">Product Brochures: 
 
 
-<!-- <a href="/pdf/MarketingSheets2010-1-8eng.pdf" target="_new">English</a> - -->
+<!-- <a href="/pdf/MarketingSheets_2013[english].pdf" target="_new">English</a> - -->
 <!-- <a href="/pdf/MarketingSheets1-8[finnish].pdf" target="_new">Finnish</a> - -->
 <!-- <a href="/pdf/MarketingSheets1-8[french].pdf" target="_new">French</a> - -->
 <!-- <a href="/pdf/MarketingSheets[german].pdf" target="_new">German</a> - -->
@@ -248,7 +255,7 @@ $(document).ready(function(){
 <!-- <a href="/pdf/MarketingSheets1-8[spanish].pdf" target="_new">Spanish</a>  -->
 
 <br>
-<a href="/pdf/MarketingSheets2010-1-8eng.pdf" target="_new"><img src="/skin/frontend/loksak/loksak/images/flags/flag_usa.png" alt="English" title="English"></a>
+<a href="/pdf/MarketingSheets_2013[english].pdf" target="_new"><img src="/skin/frontend/loksak/loksak/images/flags/flag_usa.png" alt="English" title="English"></a>
 <a href="/pdf/MarketingSheets1-8[finnish].pdf" target="_new"><img src="/skin/frontend/loksak/loksak/images/flags/flag_finland.png" alt="Finnish" title="Finnish"></a>
 <a href="/pdf/MarketingSheets1-8[french].pdf" target="_new"><img src="/skin/frontend/loksak/loksak/images/flags/flag_france.png" alt="French" title="French"></a>
 <a href="/pdf/MarketingSheets[german].pdf" target="_new"><img src="/skin/frontend/loksak/loksak/images/flags/flag_germany.png" alt="German" title="German"></a>
@@ -262,7 +269,7 @@ $(document).ready(function(){
 
 </div>
 <br>
-© 2012 LOKSAK, Inc. | <a class="ts2" href="http://www.threestream.com" target="_new">Site</a> by <a class="ts2" href="http://www.threestream.com" target="_new">Three Stream</a>
+© 2013 LOKSAK, Inc. | <a class="ts2" href="http://www.threestream.com" target="_new">Site</a> by <a class="ts2" href="http://www.threestream.com" target="_new">Three Stream</a>
 </div>            </div>
         </div>
         <!-- [end] footer -->
@@ -277,7 +284,7 @@ $(document).ready(function(){
     })();
 
     var _gaq = _gaq || [];
-    _gaq.push(["_setAccount", "UA-6898669-1"]);
+    _gaq.push(["_setAccount", "39432156-1"]);
     _gaq.push(["_trackPageview", "/customer-support/privacy-policy"]);
 //]]>
 </script>
