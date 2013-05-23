@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sendpepper.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227085041id_/http%3A//www.sendpepper.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sendpepper.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524002228id_/http%3A//sendpepper.com/privacy.php) for the most accurate reproduction.*
 
 # Sendpepper -
 
@@ -6,14 +6,14 @@ We collect the e-mail addresses of those who communicate with us via e-mail, agg
 
 It is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Terms of Service, or as otherwise required by law.
 
-  * We transfer information about you if Moonray or OfficeAutopilot is acquired by or merged with another company. In this event, Moonray will notify you before information about you is transferred and becomes subject to a different privacy policy.
+  * We transfer information about you if Ontraport Inc. or OfficeAutopilot is acquired by or merged with another company. In this event, Ontraport Inc. will notify you before information about you is transferred and becomes subject to a different privacy policy.
 
 
 
 ## INFORMATION GATHERING AND USAGE
 
   * When you register for OfficeAutopilot we ask for information such as your name, company name, e-mail address, billing address, credit card information. Members who sign up for the free account are not required to enter a credit card.
-  * Moonray uses collected information for the following general purposes: products and services provision, billing, identification and authentication, services improvement, contact, and research.
+  * Ontraport Inc. uses collected information for the following general purposes: products and services provision, billing, identification and authentication, services improvement, contact, and research.
 
 
 
@@ -27,16 +27,16 @@ It is necessary to share information in order to investigate, prevent, or take a
 
 ## DATA STORAGE
 
-Moonray uses third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run OfficeAutopilot. Although Moonray owns the code, databases, and all rights to the OfficeAutopilot application, you retain all rights to your data.
+Ontraport Inc. uses third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run OfficeAutopilot. Although Ontraport Inc. owns the code, databases, and all rights to the OfficeAutopilot application, you retain all rights to your data.
 
 ## DISCLOSURE
 
-* Moonray may disclose personally identifiable information under special circumstances, such as to comply with subpoenas or when your actions violate the Terms of Service.
+* Ontraport Inc. may disclose personally identifiable information under special circumstances, such as to comply with subpoenas or when your actions violate the Terms of Service.
 
 ## CHANGES
 
-Moonray may periodically update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary e-mail address specified in your OfficeAutopilot primary account holder account or by placing a prominent notice on our site.
+Ontraport Inc. may periodically update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary e-mail address specified in your OfficeAutopilot primary account holder account or by placing a prominent notice on our site.
 
 ## QUESTIONS
 
-Any questions about this Privacy Policy should be addressed to support at MoonRay.com or by mail at: Moonray, 3905 State Street, Suite 7-338, Santa Barbara, CA 93105
+Any questions about this Privacy Policy should be addressed to support at Ontraport Inc. or by mail at: Ontraport Inc., 3905 State Street, Suite 7-338, Santa Barbara, CA 93105
