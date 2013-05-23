@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adsage.com privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108004517id_/http%3A//www.adsage.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adsage.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523090314id_/http%3A//www.adsage.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy -adSage
 
@@ -68,7 +68,7 @@ We may combine personal information from one service with information, including
 We will ask for your consent before using information for a purpose other than those that are set out in this Privacy Policy. We process personal information on our servers in many countries around the world. We may process your personal information on a server located outside the country where you live. 
 
 You may also set your browser to block all cookies, including cookies associated with our services, or to indicate when a cookie is being set by us. However, it¡¯s important to remember that many of our services may not function properly if your cookies are disabled. For example, we may not remember your language preferences.  
-[Opt out cookie track](https://web.archive.org/web/20121108004517id_/http%3A//www.adsage.com/optout.html)
+[Opt out cookie track](https://web.archive.org/web/20130523090314id_/http%3A//www.adsage.com/optout.html)
 
 Whenever you use our services, we aim to provide you with access to your personal information. If that information is wrong, we strive to give you ways to update it quickly or to delete it ¨C unless we have to keep that information for legitimate business or legal purposes. When updating your personal information, we may ask you to verify your dentity before we can act on your request. 
 
