@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theknot.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014112813id_/http%3A//wedding.theknot.com/wedding-tools-help-center/the-knot-about-us/articles/the-knot-privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theknot.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523220043id_/http%3A//wedding.theknot.com/wedding-tools-help-center/the-knot-about-us/articles/the-knot-privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Your Privacy RightsTheKnot.com -
 
@@ -55,7 +55,5 @@ Though we make every effort to preserve your privacy we may need to disclose per
 If at some point in the future, there is a change to our information usage practices that affect your personally identifiable information, we will notify you by email of the relevant changes. At the time of this message, you will be able to opt-out of this information usage by sending a message to membersupport@theknot.com. We will also post the changes in our privacy statement 30 days prior to a change. You should also check this posted privacy statement for changes.
 
 We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
-
-Posted on: Feb 08, 2012
 
 See More: [Help Center](http://wedding.theknot.com/related.aspx?type=tag&value=Help+Center)
