@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the restodb.com privacy policy that was archived on 2012-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120529033903id_/http%3A//www.restodb.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the restodb.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523052848id_/http%3A//www.restodb.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Restaurant and Dining Guide - Directory, Review, Articles, Photos
 
@@ -37,10 +37,4 @@ RestoDB has the right to modify or update this policy from time to time. Any cha
 
 Latest Forum Posted
 
-[]()[](https://web.archive.org/restolovers/2007/10/04/)
-
-Latest Articles Posted
-
-[]()[](https://web.archive.org/indonesia/articles/2009/01/31/ottimo_deli_original_italian_tiramisu/ "Ottimo Deli: Original Italian Tiramisu")
-
-Nama Ottimo Deli Diambil Dari Bahasa Italia, Ottimo Berarti Optimum Dan Del ...
+[]()[](https://web.archive.org/restolovers/%C2%A0/%C2%A0/%C2%A0/)
