@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chatdd.com privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029104630id_/http%3A//www.chatdd.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chatdd.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523045648id_/http%3A//www.chatdd.com/policy) for the most accurate reproduction.*
 
 # ChatDD.Com - Privacy Policy
 
@@ -46,23 +46,23 @@ We do not take any responsibility for any error or omission by Chatdd.com or Thi
 
 ## Latest Threads from ChatDD Forums:
 
-  * [funny](http://forum.chatdd.com/photo-gallery-wallpapers-world/99550-funny.html)
-  * [Salsa Chicken Rice Casser...](http://forum.chatdd.com/cooking-recipes/99549-salsa-chicken-rice-casserole.html)
-  * [Spicy Garlic Lime Chicken](http://forum.chatdd.com/cooking-recipes/99548-spicy-garlic-lime-chicken.html)
-  * [اچھی یادداشت �...](http://forum.chatdd.com/information-center/99547-1575%3B-1670%3B-1726%3B-1740%3B-1740%3B-1575%3B-1583%3B-1583%3B-1575%3B-1588%3B-1578%3B-1705%3B-1746%3B-1604%3B-1740%3B-1746%3B-1576%3B-1681%3B-1726%3B-1575%3B-1662%3B-1746%3B-1605%3B-1740%3B-1722%3B-1608%3B-1585%3B-1586%3B-1588%3B-1604%3B-1575%3B-1586%3B-1605%3B.html)
-  * [Different Jura style..](http://forum.chatdd.com/ladies-gents-fashion/99546-different-jura-style.html)
-  * [Beautiful Watches For Gir...](http://forum.chatdd.com/ladies-gents-fashion/99545-beautiful-watches-girls.html)
-  * [Main Narra e Mastana](http://forum.chatdd.com/famous-urdu-poetry/99544-main-narra-e-mastana.html)
-  * [=-App Ki Eid?-=](http://forum.chatdd.com/freedom-speech-gupshup/99543-%3D-app-ki-eid-%3D.html)
-  * [Top & Best IELTS Preparat...](http://forum.chatdd.com/education-results-admission-notes/99542-top-best-ielts-preparation-institutes-pakistan-lahore-karachi-islamabad.html)
-  * [Jannat ki 5 Cheezain](http://forum.chatdd.com/islam-forum/99541-jannat-ki-5-cheezain.html)
-  * [teacher](http://forum.chatdd.com/fun-humor-jokes/99540-teacher.html)
-  * [Qurbani](http://forum.chatdd.com/fun-humor-jokes/99539-qurbani.html)
-  * [refresh your imaan,,,,,](http://forum.chatdd.com/islam-forum/99538-refresh-your-imaan.html)
-  * [Reham,,,,,,,,,,,,,](http://forum.chatdd.com/islam-forum/99537-reham.html)
-  * [A Girl Wont Cry Easily,](http://forum.chatdd.com/english-club/99536-girl-wont-cry-easily.html)
+  * [Iqra ..](http://forum.chatdd.com/islam-forum/110368-iqra.html)
+  * [Taqdeer k paaband](http://forum.chatdd.com/famous-urdu-poetry/110367-taqdeer-k-paaband.html)
+  * [Martin Luther King said](http://forum.chatdd.com/quotes-sayings/110366-martin-luther-king-said.html)
+  * [Always Pray....](http://forum.chatdd.com/quotes-sayings/110365-always-pray.html)
+  * [Attention plz](http://forum.chatdd.com/freedom-speech-gupshup/110364-attention-plz.html)
+  * [Maa k Naam - کچھ اش�...](http://forum.chatdd.com/famous-urdu-poetry/110363-maa-k-naam.html)
+  * [Surah Bani Israil Ayat 1](http://forum.chatdd.com/quran-kareem/110362-surah-bani-israil-ayat-1-a.html)
+  * [Apny Rab ko dekha](http://forum.chatdd.com/islam-forum/110361-apny-rab-ko-dekha.html)
+  * [Harf'e Dua !!!](http://forum.chatdd.com/designers-work/110360-harfe-dua.html)
+  * [ali mat drao](http://forum.chatdd.com/fun-humor-jokes/110359-ali-mat-drao.html)
+  * [ali wid friends](http://forum.chatdd.com/fun-humor-jokes/110358-ali-wid-friends.html)
+  * [~~ Daily Life April 2013 ...](http://forum.chatdd.com/photo-gallery-wallpapers-world/110357-~~-daily-life-april-2013-~~.html)
+  * [Indian Pepsi 6 session El...](http://forum.chatdd.com/sports-cricket/110356-indian-pepsi-6-session-eliminator-match-score-results-2013-a.html)
+  * [~*~ Kaise Batayein ~*~](http://forum.chatdd.com/famous-urdu-poetry/110354-~%2A~-kaise-batayein-~%2A~.html)
+  * [Gorgeous Nadia Ali](http://forum.chatdd.com/hollywood-bollywood-lollywood-music/110353-gorgeous-nadia-ali.html)
 
-[ ](http://www.countgames.com/)
+
 
 **More Resources  
 
