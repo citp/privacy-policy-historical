@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stepout.com privacy policy that was archived on 2012-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121212180918id_/http%3A//www.stepout.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stepout.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523043630id_/http%3A//www.stepout.com/Privacy) for the most accurate reproduction.*
 
 # We take privacy very seriously on StepOut.com
 
