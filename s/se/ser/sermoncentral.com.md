@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sermoncentral.com privacy policy that was archived on 2012-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121117232759id_/http%3A//www.sermoncentral.com/articleb.asp%3Farticle%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sermoncentral.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523230713id_/http%3A//www.sermoncentral.com/articleb.asp%3Farticle%3Dprivacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -61,4 +61,4 @@ Our site may, from time to time, contain links to and from websites for advertis
 
 Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [support@sermoncentral.com](mailto:support@sermoncentral.com?subject=Privacy%20Policy%20Inquiry). 
 
-Copyright 2003-2012 | Outreach Inc., All rights reserved.
+Copyright 2003-2013 | Outreach, Inc., All rights reserved.
