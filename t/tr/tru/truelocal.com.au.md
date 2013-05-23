@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the truelocal.com.au privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110091124id_/http%3A//www.truelocal.com.au/cms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truelocal.com.au privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524013859id_/http%3A//www.truelocal.com.au/cms/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Local Business Directory - TrueLocal.com.au
 
@@ -8,7 +8,7 @@ This part of the website explains how TrueLocal handles your personal informatio
 
 This section will also answer any queries you might have about how we collect, use and disclose information.
 
-For the purposes of the privacy policy, please bear in mind this website is owned by Australian Local Search Pty Limited (ALS), trading as truelocal.com.au, and is operated by News Digital Media Pty Ltd on ALS’s behalf. Together they will be referred to as ’TrueLocal’.
+For the purposes of the privacy policy, please bear in mind this website is owned by Australian Local Search Pty Limited (ALS), trading as truelocal.com.au. In this document, ALS is referred to as ’TrueLocal’.
 
 The word ’customers’ includes visitors to our web sites, subscribers to and users of our services, purchasers of our products and advertising customers.
 
@@ -18,23 +18,25 @@ If you have any questions after reading this policy, please simply just get in t
 
 The sort of information we collect includes such things as your name, address, telephone number, and in some instances, your financial details. When you are online, we collect information regarding the pages within our network that you have visited and what you click on.
 
-This information is collected as we provide our services to you. We’ll always tell you why we are collecting information when we collect it and how we plan to use it.
+This information is collected as we provide our services to you.
 
-As a general rule we don’t collect sensitive information. However, if we do, it will usually be essential to providing our services. If the law requires us to, we’ll seek your consent to collect this information.
+As a general rule we don’t collect sensitive information. To the extent that we do collect sensitive informatioin, we will make sure that our collection and use of that information complies with all applicable laws, including by seeking your consent where required to do so.
 
-We usually collect personal information directly from you although sometimes we may use agents or service providers to do this for us. We may also get lists from other sources, both from other companies and from other public documents.
+We usually collect personal information directly from you although sometimes we may use agents or service providers to do this for us. We may also get lists that include personal information from other sources, both from other companies and from other public documents.
 
 ### How do you use the information I give you?
 
 We use your information to provide our services (which may include the display of personalised content and advertising) to you, to fulfil administrative functions associated with these services (for example, billing), to enter into contracts with you or third parties and for marketing and client relationship purposes.
 
-Where your personal information is contained within an advertisement that we publish for you, we may also use your information for publication of that same advertisement in other media, in accordance with the terms and conditions of the initial publication.
+Where your personal information is contained within an advertisement that we publish for you, we may also use your information for publication of that same advertisement in other media. This includes providing the information in the advertisement to our syndication partners so that they can publish the advertisement on the websites and other media services that they operate.
 
-We may share your information with other companies related to TrueLocal provided it is within Australia. We or they may also use your personal information to help us improve our products and services and any of us might be in touch to let you know about goods, services, or promotions that may interest you.
+We may also use your personal information to help us improve our products and services and any of us might be in touch to let you know about goods, services, or promotions that may interest you.
 
 ### Do you give information to third parties?
 
-Yes, TrueLocal may give your information to service providers and contractors to help us provide and promote our goods and services to you. We may also share your information with third parties, including for marketing purposes. If we do this we require these parties protect your information the same way we do.
+TrueLocal may give your information to service providers and contractors to help us provide and promote our goods and services to you. We may also share your information with third parties, including for syndication and marketing purposes. If we share your information with a third party in this way, we will reqire that the third party only use, store and disclose your information in a way that is consistent with this policy.
+
+In addition, we may share your information with companies that are related to TrueLocal, including Sensis Pty Limited and Telstra Corporation Limited. Our related companies will use and disclose your personal information in accordance with their privacy policies. You can find more about their areas of business and commitment to privacy by visitiing their own websites, or by contacting the Privacy Officer.
 
 ### Do you capture information through my computer’s web browser?
 
@@ -78,9 +80,9 @@ Whenever you voluntarily disclose personal information over the internet this in
 
 ### Who can I contact for more information about privacy?
 
-If you want access to your information or if you have a complaint concerning your information privacy or if you would like more information about our approach to privacy, please contact our Privacy Officer
+If you want access to your information or if you have a complaint concerning your information privacy or if you would like more information about our approach to privacy, please contact our Privacy Officer.
 
 Privacy Officer  
-TrueLocal  
-Level 23/175 Liverpool Street  
-Sydney NSW 2000
+Sensis Pty Ltd  
+222 Lonsdale Street  
+Melbourne 3000
