@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestandroidappsreview.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228195055id_/http%3A//www.bestandroidappsreview.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestandroidappsreview.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524121915id_/http%3A//www.bestandroidappsreview.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Best Android Apps Review
 
@@ -8,7 +8,7 @@ This website uses Google Analytics to help analyze how users use the site. The t
 
 We will never (and will not allow any third party to) use the statistical analytics tool to track or to collect any Personally Identifiable Information of visitors to our site. Google will not associate your IP address with any other data held by Google. Neither we nor Google will link, or seek to link, an IP address with the identity of a computer user. We will not associate any data gathered from this site with any Personally Identifiable Information from any source, unless you explicitly submit that information via a fill-in form on our website.
 
- **Further Information about Cookies**
+**Further Information about Cookies**
 
 The Interactive Advertising Bureau (IAB) is an industry body that develops standards and guidelines to support online business processes. It has produced a series of web pages that explain how cookies work and how they can be managed.
 
