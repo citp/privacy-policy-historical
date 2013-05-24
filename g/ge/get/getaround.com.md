@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getaround.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015085348id_/http%3A//www.getaround.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getaround.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524144026id_/http%3A//www.getaround.com/privacy) for the most accurate reproduction.*
 
 # Getaround - Peer-to-peer car sharing and local car rental
 
@@ -112,4 +112,4 @@ Changes to Our Privacy Policy
 
 If we change our privacy policies and procedures, we will post those changes on the Service to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it. Changes to this Privacy Policy are effective when they are posted on this page. 
 
-Version 1.1-- August 11, 2010. For any questions on this privacy policy, please contact us by email at [ support@getaround.com ](mailto:support@getaround.com) or by postal mail at Getaround, Inc., NASA Ames Research Park, Building 20 S. Akron Rd, MS 20-1, Moffett Field, CA 94035.
+Version 1.1-- August 11, 2010. For any questions on this privacy policy, please contact us by email at [ help@getaround.com ](mailto:help@getaround.com) or by postal mail at Getaround, Inc., NASA Ames Research Park, Building 20 S. Akron Rd, MS 20-1, Moffett Field, CA 94035.
