@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emailquestions.com privacy policy that was archived on 2012-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121009093158id_/http%3A//www.emailquestions.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emailquestions.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524091126id_/http%3A//www.emailquestions.com/privacy.html) for the most accurate reproduction.*
 
 # Email Questions Privacy Policy Statement
 
