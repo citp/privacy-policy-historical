@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pwcs.edu privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003021040id_/http%3A//pwcs.edu/privacy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pwcs.edu privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524144448id_/http%3A//pwcs.edu/privacy.phtml) for the most accurate reproduction.*
 
-# Prince William County Schools
+# Prince William County Public Schools
 
 Centrifuge Solutions LLC (dba "SchoolFusion") uses My Payment Network (SchoolPay) solution which delivers payment services to schools and businesses and offers its service under many brand names, powered by My Payment Network (SchoolPay). Part of the payment process involves the collecting of personal information. Such information is voluntarily submitted by people who submit payments through any branded version of their services and is required to submit transactions.
 
