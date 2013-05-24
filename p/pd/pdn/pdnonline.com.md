@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pdnonline.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231202400id_/http%3A//www.pdnonline.com/Privacy-Policy-2344.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdnonline.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524131830id_/http%3A//www.pdnonline.com/Privacy-Policy-2344.shtml) for the most accurate reproduction.*
 
 # Photo Magazine | Photography Magazine | Photos Magazine | Professional Photographer Magazine | Photo News | Best News Photos
 
@@ -26,7 +26,7 @@ This privacy notice covers the collection and use of information for this websit
 
 If you do not wish to receive **PDN** marketing information from Nielsen or wish to opt out of future **PDN** email promotions from Nielsen, please email [nielsenexpositionsprivacy@nielsen.com](mailto:nielsenexpositionsprivacy@nielsen.com) with **PDN** in the subject line. Please note that all promotional and research email messages you receive from Nielsen will include an option to opt out of future email communications.
 
-From time to time Nielsen may also share your contact information with other organizations, such as trade show exhibitors and vendors, for marketing purposes. If you do not wish to receive such offers, please [click here.](http://nielsencomm.net/o/ext/Confirm.aspx)
+From time to time Nielsen may also share your contact information with other organizations, such as trade show exhibitors and vendors, for marketing purposes. If you do not wish to receive such offers, please [click here.](http://o.nielsen-info.com/no.aspx)
 
 We contract with third party companies that we have employed to provide us with specialized services, including customer service, registration, subscription fulfillment, housing, research, statistical analysis, list cleansing, postal mailings, email and fax deployment, and other information services. These companies or individuals may be provided with access to personally identifiable information, but only as needed to perform their functions. These companies are required by contract to maintain the confidentiality, security and integrity of such information.
 
