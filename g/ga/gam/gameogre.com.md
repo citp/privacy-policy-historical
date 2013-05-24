@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gameogre.com privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127005350id_/http%3A//www.gameogre.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameogre.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524223512id_/http%3A//www.gameogre.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy For GameOgre.com
 
