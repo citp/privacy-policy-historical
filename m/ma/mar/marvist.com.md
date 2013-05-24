@@ -1,46 +1,50 @@
-> *The following text is extracted and transformed from the marvist.com privacy policy that was archived on 2006-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060517131224id_/http%3A//marvist.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marvist.com privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525001733id_/http%3A//www.marvist.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Internet Marketing Solutions Company, New Jersey - Web Design, Logos, Online Ads
+# Marvist Internet Marketing Services for SMBs - Privacy Policy
 
-This is the web site of Marvist Consulting LLC.
+This Privacy Policy governs the manner in which Marvist collects, uses, maintains and discloses information collected from users (each, a "User") of the _http://www.marvist.com/_ website ("Site").
 
-Our postal address is   
-49 C Reading Road  
-Edison, NJ 08817
+Personal identification information 
 
-We can be reached via e-mail at info@marvist.com or you can reach us by telephone at (732) 767 3071
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities. 
 
-For each visitor to our Web page, our Web server automatically recognizes the consumer's domain name and e-mail address (where possible).
+Non-personal identification information 
 
-We collect the domain name and e-mail address (where possible) of visitors to our Web page, the e-mail addresses of those who post messages to our bulletin board, the e-mail addresses of those who communicate with us via e-mail, the e-mail addresses of those who make postings to our chat areas, aggregate information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations and information on consumers who browse our Web page.
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information. 
 
-The information we collect is used to improve the content of our Web page, used to customize the content and/or layout of our page for each individual visitor, used to notify consumers about updates to our Web site and used by us to contact consumers for marketing purposes.
+Web browser cookies 
 
-With respect to cookies: We do not set any cookies. 
+Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly. 
 
-If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address, calling us at the above telephone number or writing to us at the above address.
+How we use collected information 
 
-From time to time, we make the e-mail addresses of those who access our site available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by calling us at the number provided above, e-mailing us or writing to us at the above address.
+Marvist may collect and use Users personal information for the following purposes: 
 
-From time to time, we make our customer e-mail list available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by calling us at the number provided above, e-mailing us at the above address.
+  * _To send periodic emails:_ We may use the email address to respond to your inquiries, questions, and/or other requests.
 
-If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by calling us at the number provided above, e-mailing us, or writing to us at the above address. Please provide us with your exact name and address. We will ensure your name is removed from the list we share with other organizations 
 
-Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line.
 
-Persons who supply us with their telephone numbers on-line may receive telephone contact from us with information regarding new products and services or upcoming events. If you do not wish to receive such telephone calls, please let us know by sending us e-mail at the above address or calling us at the above telephone number. Please provide us with your name and phone number. We will be sure your name is removed from the list we share with other organizations
+Sharing your personal information 
 
-With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of these ad server companies.
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above. 
 
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.
+Changes to this privacy policy 
 
-Customers may prevent their information from being used for purposes other than those for which it was originally collected by e-mailing us at the above email ID or writing us at the above postal address.
+Marvist has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications. 
 
-Upon request we provide site visitors with access to no information that we have collected and that we maintain about them.
+Your acceptance of these terms 
 
-Upon request we offer visitors no ability to have factual inaccuracies corrected in information that we maintain about them 
+By using this Site, you signify your acceptance of this policy and terms of service. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes. 
 
-With respect to security: When we transfer and receive certain types of sensitive information such as financial or health information, we redirect visitors to a secure server and will notify visitors through a pop-up screen on our site, We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
+Contacting us 
 
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.   
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: 
 
+Marvist Consulting LLC   
+103 Carnegie Center   
+Suite 300   
+Princeton, NJ-08540, U.S.A  
+(877) 767-3071   
+info@marvist.com
+
+This document was last updated on February 19, 2013.
