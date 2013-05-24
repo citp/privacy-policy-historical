@@ -1,85 +1,66 @@
-> *The following text is extracted and transformed from the serobot.com privacy policy that was archived on 2012-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120301072019id_/http%3A//www.serobot.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the serobot.com privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525002942id_/http%3A//www.serobot.com/privacy.html) for the most accurate reproduction.*
 
-# PRIVACY POLICY
+# PRIVACY POLICY - serobot.com
 
-**PRIVACY POLICY**
+### PRIVACY POLICY
 
-We are committed to keeping all of your personal details safe and secure. Our privacy policy strictly protects the security of your personal information and honors your choices for its intended use. We carefully protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction. 
+### HOW WE PROTECT YOUR PRIVACY
 
-**MINORS**
+This privacy policy tells you how we collect, use, and protect your personal information. By visiting our website, you accept and agree to the terms and conditions of this privacy policy. In particular, you consent to our collection and use of your personal information as described in this privacy policy.
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), and do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older. If you are a minor, please do not provide us or other website visitors with any personal information. 
+### MINORS
 
-If you are below the age of 18, you may use our website only with the permission and active involvement of a parent or legal guardian. 
+We do not provide services or sell products to children. If you are below the age of 18, you may use our website only with the permission and active involvement of a parent or legal guardian. If you are a minor, please do not provide us or other website visitors with any personal information.
 
-**THE INFORMATION WE COLLECT FROM YOU**
+### POLICY IS PART OF OUR TERMS AND CONDITIONS OF USE
 
-We collect information from you when you register on our site, place an order or subscribe to our newsletter. 
+Our privacy policy is part of, and subject to, our website’s terms and conditions of use. You may view these terms and conditions on our website.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, or telephone number information. The email address you provide for order processing, will only be used to send you information and updates pertaining to your order. 
+### THE TYPE OF INFORMATION WE COLLECT FROM YOU
 
-Some transactions between you and our website may involve payment by credit card, debit card, checks, money orders, and/or third party online payment services. In such transactions, we will collect information related to the transaction as part of the course of doing business with you, including your billing address, telephone number, and other information related to the transaction. 
+Like most places on the Internet, simply by visiting our website you automatically tell us certain information. This includes basic information such as your IP address, when you visited, the website from where you came prior to visiting us, the website where you go when you leave our website, your computer’s operating system, and the type of web browser that you are using. Our website automatically records this basic information about you.
 
-When visiting www.serobot.com, the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information. 
+And like many other websites, we may use cookies. In plain English, this means information that our website’s server transfers to your computer. This information can be used to track your session on our website. Cookies may also be used to customize our website content for you as an individual. If you are using one of the common Internet web browsers, you can set up your browser to either let you know when you receive a cookie or to deny cookie access to your computer.
 
-**HOW WE PROTECT YOUR INFORMATION**
+We may also collect any data that you provide us by posting it at our website or by e-mail. You can always choose not to provide us with information. However, if you do withhold information, we may deny you access to some or all of our website’s services and features.
 
-We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information. 
+Some transactions between you and our website may involve payment by credit card, debit card, checks, money orders, and/or third party online payment services. In such transactions, we will collect information related to the transaction as part of the course of doing business with you, including your billing address, telephone number, and other information related to the transaction.
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
+### WHAT WE DO WITH YOUR INFORMATION
 
-**USE OF COOKIES**
+We use your information to operate our website’s business activities. For example, we may use this data to contact you about changes to our website, new services, or special offers, resolve disputes, troubleshoot issues, and enforce our website’s terms and conditions.
 
-Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information. 
+As a general rule, we will not give your data to third parties without your permission. However, there are some important exceptions to this rule that are described in the following paragraphs.
 
-We use cookies to help us remember and process the items in your shopping cart and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
+We may, in our sole discretion, provide information about you to law enforcement or other government officials for purposes of fraud investigations, alleged intellectual property infringement, or any other suspected illegal activity or matters that may expose us to legal liability.
 
-**DISCLOSURE OF INFORMATION TO THIRD PARTIES**
+Although we do not disclose individually identifiable information, we may disclose aggregate data about our website’s visitors to advertisers or other third parties for marketing and promotional purposes.
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. 
+From time to time, we may use third party suppliers to provide services on our website. If a supplier wants to collect information about you, you will be notified. However, you will never be required to give information to a third party supplier. We restrict the way third party suppliers can use your information. They are not allowed to sell or give your information to others.
 
-**USER NAMES AND PASSWORDS**
+### USER NAMES AND PASSWORDS
 
-Parts of our website may be protected by a user name and a password. Do not share your password with anyone. If you enter the section of our website that should require a password, you should log out when you leave. As a safety precaution, you should also close out of your web browser completely and re-open it before viewing other parts of the Internet. 
+Your access to parts of our website may be protected by a user name and a password. Do not give your password to anyone. If you enter a section of our website that requires a password, you should log out when you leave. As a safety precaution, you should also close out of your web browser completely and re-open it before viewing other parts of the Internet.
 
-**NEWSLETTERS AND AUTORESPONDERS**
+### YOUR USE OF INFORMATION AND UNSOLICITED JUNK E-MAIL
 
-You will never be implicitly added to any marketing lists. You may subscribe to mailing lists by clicking on a checkbox in a form that clearly states what the checkbox means. You will have the right to opt-in or opt-out at any time. 
+If you obtain personally identifiable information about another website user, you are not allowed to disclose this information to anyone else without the consent of the user and our consent too.
 
-We may use autoresponders to communicate with you by e-mail. To protect your privacy, we use a verified opt-in system for such communications and you can always opt-out of such communications using the links contained in each autoresponder message. If you have difficulties opting out, you may contact us at serobot.com@gmail.com. 
+We hate junk e-mail (Spam). Information you obtain from our website about us or other site users cannot be used by you or others to send unsolicited commercial e-mail or to send unsolicited commercial communications via our website’s posting or other communication systems.
 
-**YOUR USE OF INFORMATION AND UNSOLICITED JUNK E-MAIL**
+### YOUR VOLUNTARY DISCLOSURE OF INFORMATION TO THIRD PARTIES WHO ARE NOT OUR SUPPLIERS
 
-If you obtain personally identifiable information about another website user, you are not allowed to disclose this information to anyone else without the consent of the user and our consent too. 
+You may choose to provide personal information to website visitors or other third parties who are not our suppliers. Please use caution when doing so. The privacy policies and customs of these third parties determine what is done with your information.
 
-We do not condone the use of junk e-mail or spam. Information you obtain from our website about us or other site users cannot be used by you or others to send unsolicited commercial e-mail or to send unsolicited commercial communications via our website's posting or other communication systems. 
+### AUTORESPONDERS
 
-**CALIFORNIA ONLINE PRIVACY PROTECTION ACT COMPLIANCE**
+We may use autoresponders to communicate with you by e-mail. To protect your privacy, we use a verified opt-in system for such communications and you can always opt-out of such communications using the links contained in each autoresponder message. If you have difficulties opting out, you may contact us by contacting us at <http://www.serobot.com/contact.html>.
 
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent. 
+### POLICY CHANGES
 
-As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the 'Edit Profile' page. 
+The terms of this policy may change from time to time. If such changes are made, we will notify you by a notice posted on our website’s home page of the changes that have been made. If you disagree with the changes that have been made, please contact us (by e-mail, using a website contact form, or in writing by mail), and any changes made to this policy will not apply to information we have collected from you prior to making the changes.
 
-**TERMS AND CONDITIONS**
+If you are concerned about the topic covered by this policy, you should read it each time before you use our website. Any questions or concerns about this policy should be brought to our attention by contacting us at <http://www.serobot.com/contact.html> and providing us with information relating to your concern.
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at http://www.serobot.com/terms.shtml 
 
-**YOUR CONSENT**
 
-By using our site, you consent to our online privacy policy. 
-
-**CHANGES TO OUR PRIVACY POLICY**
-
-If we decide to change our privacy policy, we will post those changes on this page. 
-
-**CHANGES TO OUR PRIVACY POLICY**
-
-If there are any questions regarding this privacy policy you may contact us using the information below.
-
-**Tin Nguyen**  
-Address: 368/20 Ton Dan, P.4, Q.4  
-City: Hochiminh  
-Country: VIETNAM  
-Email: serobot.com@gmail.com
-
-This Privacy Policy for www.serobot.com was last updated on May 23, 2011 
