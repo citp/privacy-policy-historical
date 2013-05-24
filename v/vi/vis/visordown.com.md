@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visordown.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122202006id_/http%3A//www.visordown.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visordown.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524215226id_/http%3A//www.visordown.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Visordown
 
