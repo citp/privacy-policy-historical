@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealereprocess.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120115202id_/http%3A//www.dealereprocess.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealereprocess.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524062717id_/http%3A//www.dealereprocess.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Dealer e-Process: Privacy Policy
 
@@ -19,6 +19,17 @@ At times, particularly when you use one of our online services (i.e., new-car bu
 While we have not done so at this time, in the future we may contract with other reputable companies in our efforts to offer you additional attractive products and services. If you do not want the information you provide to Dealer e-Process to be shared with other companies, please indicate this preference when you provide the information to Dealer e-Process in the comments section. Of course, we will honor your request.
 
 Dealer e-Process' privacy practices are designed to provide a high level of protection for your personal information and our computer systems.
+
+  
+
+
+#### **Interest-Based/Online Behavioral Advertising:**
+
+Interest-Based/Online Behavioral Advertising. On some pages of our site we may allow third-party advertising partners to set web tracking tools (e.g., cookies and web beacons) to collect anonymous, non-personally identifiable information regarding your activities on those pages (e.g., your IP address, page(s) visited, time of day). We may also share such information we have collected with third-party advertising partners. These advertising partners may use this information (and similar information collected from other websites) for purposes of delivering future targeted advertisements to you when you visit other sites within their networks. This practice is commonly referred to as "interest-based advertising" or "online behavioral advertising."
+
+A "cookie" is a small text file or text identifier placed on your computer to assist us in providing customized services. We use cookies to provide you with a convenience feature to save you time and provide a more personalized experience on our site. For example, you may log on once during a visit and will be able to access multiple servers without having to log on again and again. We also use the information for internal research on our user's demographics, interests, and behavior to better understand our visitor's preferences. We may use cookies provided by Google . You have the ability to accept or decline cookies. 
+
+You may elect to refuse cookies. Please refer to your browser Help instructions to learn more about cookies and how to manage their use
 
 * * *
 
