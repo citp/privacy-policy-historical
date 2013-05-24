@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greengeeks.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116040350id_/http%3A//www.greengeeks.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greengeeks.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524232226id_/http%3A//www.greengeeks.com/legal/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Legal - Green Hosting that's 300% Green by GreenGeeks
 
