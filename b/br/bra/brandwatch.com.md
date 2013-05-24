@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the brandwatch.com privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124232204id_/http%3A//www.brandwatch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brandwatch.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524033334id_/http%3A//www.brandwatch.com/privacy-policy-2) for the most accurate reproduction.*
 
-# Privacy Policy | Brandwatch
-
-Effective as of March 2008
+# Privacy Policy - Brandwatch
 
 **Brandwatch Privacy Statement**  
 Brandwatch has created this privacy statement (“Statement”) in order to demonstrate our commitment to customer privacy. Privacy on the Brandwatch web site (the “Site”) is of great importance to us. Because we gather important information from our visitors and customers, we have established this Statement as a means to communicate our information gathering and dissemination practices. We reserve the right to change this Statement and will provide notification of the change at least thirty (30) business days prior to the change taking effect.
@@ -39,3 +37,5 @@ Brandwatch offers its visitors and customers a means to choose how we may use in
 
 **Correcting & Updating Your Information**  
 If customers need to update or change registration information they may do so by editing the user or organisation record. To update a User Profile, log on to Brandwatch and select Settings to add or update information. To update billing information please email contact@brandwatch.com or call +44 (0)1273 234 290. To discontinue the Service and to have data deleted, email contact at brandwatch.com or call +44 (0)1273 234 290. Brandwatch will respond to your correction or update request within at most 30 days from the date of your request.
+
+Brandwatch uses cookies to enhance your experience when using our website.[More info >](http://www.brandwatch.com/cookie-policy/)
