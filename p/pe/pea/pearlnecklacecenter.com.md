@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pearlnecklacecenter.com privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219000427id_/http%3A//www.pearlnecklacecenter.com/privacy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pearlnecklacecenter.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524095838id_/http%3A//www.pearlnecklacecenter.com/privacy_statement.htm) for the most accurate reproduction.*
 
 # Genuine Japanese Akoya Pearl Necklace | Saltwater and Freshwater Pearl Necklaces
 
