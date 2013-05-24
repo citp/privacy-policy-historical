@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the trafficshock.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123084803id_/http%3A//www.trafficshock.com/support/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficshock.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524215246id_/http%3A//www.trafficshock.com/support/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | SEO and Search Engine Marketing Optimization from Traffic Shock
+# Privacy Policy | Website SEO & SEM...
 
 **SEO and Search Engine Marketing Optimization from Traffic Shock** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this [privacy policy primer](http://www.synclastic.com/privacy/privacy-policies/) to learn more about privacy policies in general.
 
