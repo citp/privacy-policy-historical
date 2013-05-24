@@ -1,23 +1,49 @@
-> *The following text is extracted and transformed from the esc.edu privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123073055id_/http%3A//www.esc.edu/webprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esc.edu privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524052536id_/http%3A//www.esc.edu/webprivacy) for the most accurate reproduction.*
 
 # Web Privacy Policy - SUNY Empire State College | Policies, Procedures and Guidelines | SUNY Empire State College
 
-Sponsor: | Office of Integrated Technologies   
+## Sponsor:
+
+| Office of Integrated Technologies   
 ---|---  
-Contact: | Vice President, Office of Integrated Technologies  
-Category: |  Computer and Other Integrated Technology Related Policies   
-Number: | 700.006  
-Effective Date: | 06/14/2002  
-Review Date: | 07/01/2013  
-Implementation History: | Approved: June 14, 2002 under the title “SUNY Empire State College Privacy Policy” Revised: January 18, 2008 and title changed to “Web Privacy Policy”   
-Keywords: | Web Privacy Policy  
-Background Information: |   
   
-### Purpose
+## Contact:
+
+| Vice President, Office of Integrated Technologies  
+  
+## Category:
+
+|  Computer and Other Integrated Technology Related Policies   
+  
+## Number:
+
+| 700.006  
+  
+## Effective Date:
+
+| 06/14/2002  
+  
+## Review Date:
+
+| 07/01/2013  
+  
+## Implementation History:
+
+| Approved: June 14, 2002 under the title “SUNY Empire State College Privacy Policy” Revised: January 18, 2008 and title changed to “Web Privacy Policy”   
+  
+## Keywords:
+
+| Web Privacy Policy  
+  
+## Background Information:
+
+|   
+  
+## Purpose
 
 This policy is consistent with the provisions of the Internet Security and Privacy Act, the Freedom of Information Law and the Personal Privacy Protection Law.
 
-### Definitions
+## Definitions
 
 The following definitions apply to, and appear in italics, in this policy:
 
@@ -25,7 +51,7 @@ The following definitions apply to, and appear in italics, in this policy:
  **  
  _User_** : shall have the meaning set forth in subdivision 8 of section 202 of the State Technology
 
-### Statements
+## Statements
 
 Empire State College is committed to protecting your privacy while making it easier and more efficient to interact with our college. You can navigate through much of the college's website without giving us any information about yourself. Sometimes we do need information to provide services that you request, and this commitment to privacy explains our online information practices. 
 
@@ -54,7 +80,7 @@ When visiting this website, we automatically collect and store the following inf
 
 
 
-None of the above-mentioned information is deemed to constitute _personal information_ by the [Internet Security and Privacy Act](http://www.oft.state.ny.us/policy/OFTEnablingLeg.htm#Article_II_-_%28201_-_208%29_INTERNET_SECURITY_AND_PRIVACY_ACT).
+None of the above-mentioned information is deemed to constitute _personal information_ by the [Internet Security and Privacy Act](http://www.its.ny.gov/tables/privacy_policy).
 
 In addition to the above-mentioned information, when you access a password-protected part of the website, your username is collected automatically. 
 
@@ -124,12 +150,12 @@ Empire State College
 3 Union Avenue   
 Saratoga Springs, NY 12866
 
-### Applicable Legislation and Regulations
+## Applicable Legislation and Regulations
 
 This policy is consistent with the provisions of the Internet Security and Privacy Act, the Freedom of Information Law, and the Personal Privacy Protection Law.
 
-### Related References, Policies, Procedures, Forms and Appendices
+## Related References, Policies, Procedures, Forms and Appendices
 
-[Password and Information Security Practices at Empire State College](https://web.archive.org/integrated-technologies/technology-policies/password-and-information-security-practices/)
+[Password and Information Security Practices at Empire State College](https://web.archive.org/integrated-technologies/technology-policies/password-information-security-practices/)
 
-[Web Presence and Publishing Policy - SUNY Empire State College](https://web.archive.org/web/20121123073055id_/http://www.esc.edu/policies/?search=cid%3D35655)
+[Web Presence and Publishing Policy - SUNY Empire State College](https://web.archive.org/web/20130524052536id_/http://www.esc.edu/policies/?search=cid%3D35655)
