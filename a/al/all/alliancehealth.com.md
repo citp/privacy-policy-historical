@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alliancehealth.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224093319id_/http%3A//alliancehealth.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alliancehealth.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524143323id_/http%3A//alliancehealth.com/privacy) for the most accurate reproduction.*
 
 # Alliance Health - Empowering Consumers through Social Health Networks
 
@@ -328,7 +328,13 @@ We welcome your input and feedback about our sites and the services that we prov
 
   * Email: [privacy@alliancehealth.com](mailto:privacy@alliancehealth.com).
 
-  * Mail: Attention: Privacy & Compliance, Alliance Health Networks Inc., 9 Exchange Place, Ste. 200, Salt Lake City, UT 84111
+  * Mail:  
+Attention: Privacy & Compliance,  
+Alliance Health Networks Inc.,  
+9 Exchange Place,  
+Ste. 200,  
+Salt Lake City,  
+UT 84111
 
   * Phone: 801-355-6002
 
