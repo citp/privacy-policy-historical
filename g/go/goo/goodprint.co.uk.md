@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goodprint.co.uk privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122181319id_/http%3A//www.goodprint.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodprint.co.uk privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524185349id_/http%3A//www.goodprint.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -122,4 +122,4 @@
 
 ### Contact
 
-    Questions, comments and requests regarding any of the policies above are welcomed, and should be addressed to Kevin Goodwin at Stephenson Way, Thetford, Norfolk IP24 3RU.
+    Questions, comments and requests regarding any of the policies above are welcomed, and should be addressed to Kevin Goodwin at 84-86 Great Portland, Street London, W1W 7NR.
