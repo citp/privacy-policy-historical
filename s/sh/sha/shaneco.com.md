@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shaneco.com privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121191915id_/http%3A//www.shaneco.com/About/PrivacyPolicy.htmx%3Fnid%3DGN_Footer_PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shaneco.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524070029id_/http%3A//www.shaneco.com/About/PrivacyPolicy.htmx%3Fnid%3DGN_Footer_PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Shane Co.
 
@@ -43,9 +43,9 @@ Our users are given the opportunity to 'opt-out' of having their information use
 
 Users who no longer wish to receive promotional emails from Shane Co. may opt-out by one of the following methods:
 
-  * Selecting the "Unsubscribe" link in the email
+  * Selecting the "Unsubscribe" link in the email 
   * Logging into your ShaneCo.com account and changing your email preference - <https://www.shaneco.com/MyAccount/Login.aspx>
-  * Visiting our opt-out page - <http://www.shaneco.com/myaccount/shanecomywayoptout.htmx>
+  * Visiting our opt-out page - [http://www.shaneco.com/myaccount/shanecomywayoptout.htmx](https://web.archive.org/myaccount/shanecomywayoptout.htmx)
   * Emailing us at [Support@ShaneCo.com](mailto:Support@ShaneCo.com)
 
 
