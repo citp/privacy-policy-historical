@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ghanafilla.net privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217035410id_/http%3A//www.ghanafilla.net/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ghanafilla.net privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524214635id_/http%3A//www.ghanafilla.net/privacy-policy) for the most accurate reproduction.*
 
-# GhanaFilla Privacy Policy | Ghana Filla™ • com
+# Privacy Policy | Ghana Filla™ • com
 
-**Updated On 2nd December 2012**
+## (updated on 4th May 2013)
 
   1. All User information supplied by Users of GhanaFilla.net as defined under the Terms & Conditions is covered by the Data Protection Act 1998.
   2. Users can amend information provided at any time by contacting info@ghanafilla.net
@@ -33,3 +33,5 @@
 5.4 NetRatings UK Limited are one of the third parties we use to provide us with information about how users use our website. Click here to learn more information about how we use their third party service to collect and use information about this website.
 
 [Terms Of Use](http://www.ghanafilla.net/terms-of-use/)
+
+[Disclaimer](http://www.ghanafilla.net/disclaimer/)
