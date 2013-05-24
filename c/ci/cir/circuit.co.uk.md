@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the circuit.co.uk privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119193618id_/http%3A//www.circuit.co.uk/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the circuit.co.uk privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524021559id_/http%3A//www.circuit.co.uk/privacy-and-cookies) for the most accurate reproduction.*
 
 # Privacy and Cookies - Circuit
 
