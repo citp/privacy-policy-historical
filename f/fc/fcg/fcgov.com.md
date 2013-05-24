@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fcgov.com privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119155653id_/http%3A//www.fcgov.com/legal.php%3Fcmd%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fcgov.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524052600id_/http%3A//www.fcgov.com/legal.php%3Fcmd%3Dprivacy) for the most accurate reproduction.*
 
 # Legal notices, disclaimer, accessibility statement: City of Fort Collins
 
-The City of Fort Collins is committed to protecting online users' privacy. Protection of personal privacy on the Internet promotes citizen confidence, increases participation in online activities and supports effective delivery of services. The purpose of our policy is to inform you about the types of information we gather when you visit our site, how we may use that information, and whether we disclose it to anyone. 
+The City of Fort Collins is committed to protecting online users’ privacy. Protection of personal privacy on the Internet promotes citizen confidence, increases participation in online activities and supports effective delivery of services. The purpose of our policy is to inform you about the types of information we gather when you visit our site, how we may use that information, and whether we disclose it to anyone. 
 
 **Information collected for statistical purposes**  
 We automatically collect electronically generated information about your visit to our site, such as the date, type of browser used, and technical Internet protocol data. We collect this information about each user session from our user logs, and refer to it in summary form for identifying trends. Our goal in using this type of information is to help us make our site more useful to visitors, to learn about the number of visitors and the types of technology our visitors use. We do not track or record information about individuals and their visits. 
