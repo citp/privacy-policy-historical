@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the lyricstatus.com privacy policy that was archived on 2012-11-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121109164546id_/http%3A//www.lyricstatus.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lyricstatus.com privacy policy that was archived on 2013-05-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130525001835id_/http%3A//www.lyricstatus.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/"><head>
+<!DOCTYPE html><html xmlns:fb="http://ogp.me/ns/fb#"><head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Privacy policy</title>
 <link rel="stylesheet" type="text/css" href="/assets/css/layout.main.css">
@@ -15,8 +15,11 @@
         <link rel="stylesheet" type="text/css" href="/assets/css/ie.css">
         <script type="text/javascript" src="/assets/js/selectivizr.min.js"></script>
 <![endif]-->
+<!--[if lte IE 9]>
+        <link rel="stylesheet" type="text/css" href="/assets/css/ie9.css">
+<![endif]-->
 <link rel="icon" type="image/png" href="http://lyricstatus.com/favicon.png">
-<script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
 <script type="text/javascript">
     var initConf = {prefill_search:'1'}
 </script>
@@ -28,7 +31,6 @@
 <meta property="og:site_name" content="LyricStatus.com">
 <meta property="og:description" content="Find lyrics and post snippets to your wall or your friends' walls in just a couple of clicks with LyricStatus.com">
 <meta property="fb:app_id" content="168833259831524">
-
 <!-- plus one -->
 <script type="text/javascript">
   (function() {
@@ -41,10 +43,12 @@
 <script type="text/javascript">
 
   var _gaq = _gaq || [];
+  var pluginUrl = 
+   '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+  _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
   _gaq.push(['_setAccount', 'UA-21554196-1']);
-    _gaq.push(['_trackPageview']);
-  
-  (function() {
+      _gaq.push(['_trackPageview']);
+    (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
@@ -75,27 +79,39 @@ googletag.enableServices();
     </head>
 
     <body class="loggedin">
-        <div id="fb-root"><script async="" src="https://connect.facebook.net/en_US/all.js"></script></div>
+        <div id="fb-root"></div>
 <script>
   window.fbAsyncInit = function() {
-    FB.init({appId: '168833259831524', status: true, cookie: true,
-             xfbml: true});
-          };
-  (function() {
-    var e = document.createElement('script'); e.async = true;
-    e.src = document.location.protocol +
-      '//connect.facebook.net/en_US/all.js';
-    document.getElementById('fb-root').appendChild(e);
-  }());
+    FB.init({
+      appId      : '168833259831524',
+      channelUrl : '//www.lyricstatus.com/fb_channel.php',
+      status     : true,
+      cookie     : true,
+      xfbml      : true
+    });
+  };
+  (function(d, debug){
+     var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement('script'); js.id = id; js.async = true;
+     js.src = "//connect.facebook.net/en_US/all" + (debug ? "/debug" : "") + ".js";
+     ref.parentNode.insertBefore(js, ref);
+   }(document, /*debug*/ false));
 </script>
+
 <div id="lyricstatus">        <div id="gen-head" class="gen-head-logged-in">
+                        
+                        
                         <div class="align-container">
                 <div id="header">
                     <div id="header-right">
-            <a id="login-btn" href="/login?re=%2Fprivacy" rel="nofollow"><span class="login-btn-ico ui"></span><span class="login-btn-txt">Login</span></a>
+    
+        
+        <div id="header-auth-links"><a id="login-btn" href="/facebook_login?re=%2Fprivacy" rel="nofollow"><span class="ui"></span></a><a id="login-btn" href="/login?re=%2Fprivacy" rel="nofollow">Log in</a> or <a id="login-btn" href="/join?re=%2Fprivacy" rel="nofollow">Join now</a></div>
         <a id="header-submit-lyrics-btn" href="/submit"><span id="header-submit-lyrics-btn-txt">Submit lyrics</span></a>
                 <a href="/" class="global-account-mnu-item" id="home-btn"><span class="global-account-mnu-item-txt">Home</span></a>
-            </div>                    <a id="mainlogo" href="/" title="LyricStatus">
+                
+</div>                    <a id="mainlogo" href="/" title="LyricStatus">
                         <img src="/assets/ui/lyricstatus_logo_sml.png" alt="LyricStatus">
                     </a>
                     <form action="/search" id="search-form" class="">
@@ -107,22 +123,31 @@ googletag.enableServices();
 </form>                    <div class="clear"></div>
                 </div>
             </div>
+                        
         </div>
-        <div id="gen-head-spacer"></div>
-                <div id="content" class="align-container">
+                <div id="gen-head-spacer"></div>
+                <div id="breadcrumbs">
+    <ul id="breadcrumb">
+            <li class="bc-home"><span class="bc-divider ui"></span><a href="/"><span id="bctrail-home" class="ui"></span></a></li><li class="bc-current"><span class="bc-divider ui"></span><a href="/privacy">Privacy policy</a></li>            <li class="bc-endstop"></li>
+    </ul>
+</div>
+<div class="clear"></div>
+        <div id="content" class="align-container">
             <div id="primary-pad">
-            <ul id="breadcrumb">
-            <li><a href="/"><span id="bctrail-home" class="ui"></span></a></li><li><span class="bc-divider ui"></span><a href="/privacy">Privacy policy</a></li>    </ul>
-                <div class="main-pad">
+                        <div class="main-pad">
                     <div id="content-page">
     <div class="standard-left-floatpane">
         <div class="standard-left-inner">
-            
             <h1>Privacy policy</h1>
 
             <p>LyricStatus.com (the Site) provides a content service to you (the "Service(s)"), subject to the following Privacy Policy, which may be updated from time to time without notice to you. Your use of the Service constitutes acceptance of this Privacy Policy and creates a binding legal agreement, so read them carefully. This Privacy Policy applies only to information that you provide to us through the Site, and when you access, download, purchase or use any information, services, products or content appearing on the Site. This Privacy Policy may be updated from time to time. We will notify you of any material changes by posting the new Privacy Policy on the Site. You should consult this Privacy Policy regularly for any changes. Any reference to us, our, we or similar words shall refer to this Site and its affiliates thereto.</p>
             <p><strong>The Personal Information We Collect</strong><br>
             It is our policy to respect the privacy of the people who use the Services (each a "User," collectively the "Users"). As you use the Site, our servers automatically record information that the browser sends whenever it points to a Site or online service ("Log Data"). Log Data may include, but is not limited to, your computer's Internet Protocol address, browser type, the web page you were visiting before you came to one of the Site and information you search for on a Site.</p>
+            <p><strong>Your Submissions of Personal Information</strong><br>
+            You have the opportunity to submit personal information to us through the Website in several ways:</p>
+            <p>Your Profile: If you create an account to comment on lyrics and earn LyricStatus points, you identify a unique username and password and submit your email address to us.  You may, but are not required to, submit a photo to represent yourself.  Although this need not  be an actual picture of you, we will associate it with your account.  You may, but are not required to, describe yourself in a narrative on your profile.  We refer to these items collectively in this policy as "Account Information."</p>
+			<p>Once you sign up for an account, we'll host a profile page that includes your user name, narrative (if any) and your photo.  On this page, we may display information about the pages, artists, or works upon which you have commented.  Such information may include "favorites" such as artists, songs, and lines. If you choose to provide it for your profile, we can may also display your user information from other sites, such as Facebook or Twitter.  We refer to the information contained in your profile in this policy as "Profile Information."</p>
+			<p>Second, you can click the "<a href="/contact">Contact Us</a>" link from our home page, in which case you would input your name, email address, and a message to be submitted to our team for review and response.</p>
             <p><strong>Other Information/Logging and Cookies</strong><br>
             Like many websites, we use "cookies" to collect information. A cookie is a small data file that we transfer to your computer's hard disk for record-keeping purposes. We use "persistent cookies" to save your username and login password for future logins to the Site. We use "session ID cookies" to enable certain features of our service, to better understand how you interact with the Site and to monitor web traffic routing on the Site and aggregate usage of the Site. You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to use all portions of the Site or all functionality of the services.</p>
             <p>We also use the services of a third-party advertising companies and advertising networks to serve ads to you on our behalf when you visit the Site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this Site and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit http://www.networkadvertising.org/optout_nonppii.asp.</p>
@@ -132,8 +157,7 @@ googletag.enableServices();
             Business Transfers. We may sell, transfer or otherwise share some or all of its assets, including your Personal Information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy.</p>
             <p><strong>Links to Other Sites</strong><br>
             The Site contains links to other websites. If you choose to visit an advertiser by "clicking on" a banner ad or other type of advertisement, or click on another third party link, you will be directed to that third party's website. The fact that we link to a website or present a banner ad or other type of advertisement is not an endorsement, authorization or representation that we are affiliated with that third party, nor is it an endorsement of their privacy or information security policies or practices. We do not exercise control over third party websites. These other websites may place their own cookies or other files on your computer, collect data or solicit personal information from you. Other websites and services follow different rules regarding the use or disclosure of the personal information you submit to them. We encourage you to read the privacy policies or statements of the other websites you visit.</p>
-            
-       </div>
+                   </div>
     </div>
     <div class="standard-right">
                 
@@ -144,7 +168,8 @@ googletag.enableServices();
 <script type="text/javascript">
 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1326208662012-0'); });
 </script>
-</div>        </div>
+</div>
+        </div>
         
         
          
@@ -153,6 +178,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1326208662012-0');
          
 
 
+        
         
         
         
@@ -166,129 +192,129 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1326208662012-0');
     <div class="align-container">
         
         <div class="footer-left">
-                <div class="footer-heading">This weeks top lyrics</div>
+                <div class="footer-heading">Fresh new songs</div>
                 <div class="clear"></div>
         
                 <div class="footer-col">
                                     <div class="lyriclisting-row sync-hover-container">
-                        <a href="/the-collective-teardrop-lyrics" class="lyriclisting-row-image sync-hover">
-                            <img src="/i/the-collective-lyrics-teardrop-774167.jpg" alt="Teardrop" width="32" height="32">
+                        <a href="/frank-turner-the-fastest-way-back-home-lyrics" class="lyriclisting-row-image sync-hover">
+                            <img src="/images/albums/543260.jpg" alt="The Fastest Way Back Home" width="32" height="32">
                         </a>
                         <div class="lyriclisting-row-details">
-                            <div class="lyriclisting-row-artist sync-hover">The Collective</div>
-                            <div class="lyriclisting-row-title"><a href="/the-collective-teardrop-lyrics" class="sync-hover">Teardrop lyrics</a></div>
+                            <div class="lyriclisting-row-artist sync-hover">Frank Turner</div>
+                            <div class="lyriclisting-row-title"><a href="/frank-turner-the-fastest-way-back-home-lyrics" class="sync-hover">The Fastest Way Back Home lyrics</a></div>
                         </div>
                         <div class="clear"></div>
                     </div>
                                                         <div class="lyriclisting-row sync-hover-container">
-                        <a href="/iggy-azalea-my-world-lyrics" class="lyriclisting-row-image sync-hover">
-                            <img src="/i/iggy-azalea-lyrics-ignorant-art-766856.jpg" alt="My World" width="32" height="32">
+                        <a href="/eric-saade-cover-girl-part-ii-lyrics" class="lyriclisting-row-image sync-hover">
+                            <img src="/assets/ui/album-noimg.gif" alt="Cover Girl Part II" width="32" height="32">
                         </a>
                         <div class="lyriclisting-row-details">
-                            <div class="lyriclisting-row-artist sync-hover">Iggy Azalea</div>
-                            <div class="lyriclisting-row-title"><a href="/iggy-azalea-my-world-lyrics" class="sync-hover">My World lyrics</a></div>
+                            <div class="lyriclisting-row-artist sync-hover">Eric Saade</div>
+                            <div class="lyriclisting-row-title"><a href="/eric-saade-cover-girl-part-ii-lyrics" class="sync-hover">Cover Girl Part II lyrics</a></div>
                         </div>
                         <div class="clear"></div>
                     </div>
                                                         <div class="lyriclisting-row sync-hover-container">
-                        <a href="/jme-96-fuckries-lyrics" class="lyriclisting-row-image sync-hover">
-                            <img src="/i/jme-lyrics-96-fuckries-922748.jpg" alt="96 Fuckries" width="32" height="32">
+                        <a href="/1728-kahit-kunwari-lang-lyrics" class="lyriclisting-row-image sync-hover">
+                            <img src="/images/albums/743616.jpg" alt="Kahit Kunwari Lang" width="32" height="32">
                         </a>
                         <div class="lyriclisting-row-details">
-                            <div class="lyriclisting-row-artist sync-hover">JME</div>
-                            <div class="lyriclisting-row-title"><a href="/jme-96-fuckries-lyrics" class="sync-hover">96 Fuckries lyrics</a></div>
+                            <div class="lyriclisting-row-artist sync-hover">17:28</div>
+                            <div class="lyriclisting-row-title"><a href="/1728-kahit-kunwari-lang-lyrics" class="sync-hover">Kahit Kunwari Lang lyrics</a></div>
                         </div>
                         <div class="clear"></div>
                     </div>
                                                         <div class="lyriclisting-row sync-hover-container">
-                        <a href="/the-joy-formidable-endtapes-lyrics" class="lyriclisting-row-image sync-hover">
-                            <img src="/assets/ui/album-noimg.gif" alt="Endtapes" width="32" height="32">
+                        <a href="/antoine-bertazzon-rue-de-trion-lyrics" class="lyriclisting-row-image sync-hover">
+                            <img src="/assets/ui/album-noimg.gif" alt="Rue de trion" width="32" height="32">
                         </a>
                         <div class="lyriclisting-row-details">
-                            <div class="lyriclisting-row-artist sync-hover">The Joy Formidable</div>
-                            <div class="lyriclisting-row-title"><a href="/the-joy-formidable-endtapes-lyrics" class="sync-hover">Endtapes lyrics</a></div>
+                            <div class="lyriclisting-row-artist sync-hover">Antoine Bertazzon</div>
+                            <div class="lyriclisting-row-title"><a href="/antoine-bertazzon-rue-de-trion-lyrics" class="sync-hover">Rue de trion lyrics</a></div>
                         </div>
                         <div class="clear"></div>
                     </div>
                                                         <div class="lyriclisting-row sync-hover-container">
-                        <a href="/azealia-banks-212-lyrics" class="lyriclisting-row-image sync-hover">
-                            <img src="/i/azealia-banks-lyrics-212-745964.jpg" alt="212" width="32" height="32">
+                        <a href="/willie-rosario-magdalena-lyrics" class="lyriclisting-row-image sync-hover">
+                            <img src="/assets/ui/album-noimg.gif" alt="Magdalena" width="32" height="32">
                         </a>
                         <div class="lyriclisting-row-details">
-                            <div class="lyriclisting-row-artist sync-hover">Azealia Banks</div>
-                            <div class="lyriclisting-row-title"><a href="/azealia-banks-212-lyrics" class="sync-hover">212 lyrics</a></div>
+                            <div class="lyriclisting-row-artist sync-hover">Willie Rosario</div>
+                            <div class="lyriclisting-row-title"><a href="/willie-rosario-magdalena-lyrics" class="sync-hover">Magdalena lyrics</a></div>
                         </div>
                         <div class="clear"></div>
                     </div>
                                                         <div class="lyriclisting-row sync-hover-container">
-                        <a href="/sleeping-at-last-turning-page-lyrics" class="lyriclisting-row-image sync-hover">
-                            <img src="/assets/ui/album-noimg.gif" alt="Turning Page" width="32" height="32">
+                        <a href="/millionyoung-everyday-lyrics" class="lyriclisting-row-image sync-hover">
+                            <img src="/assets/ui/album-noimg.gif" alt="Everyday" width="32" height="32">
                         </a>
                         <div class="lyriclisting-row-details lyriclisting-row-last">
-                            <div class="lyriclisting-row-artist sync-hover">Sleeping at Last</div>
-                            <div class="lyriclisting-row-title"><a href="/sleeping-at-last-turning-page-lyrics" class="sync-hover">Turning Page lyrics</a></div>
+                            <div class="lyriclisting-row-artist sync-hover">MillionYoung</div>
+                            <div class="lyriclisting-row-title"><a href="/millionyoung-everyday-lyrics" class="sync-hover">Everyday lyrics</a></div>
                         </div>
                         <div class="clear"></div>
                     </div>
                                         </div>
                     <div class="footer-col">
                                                         <div class="lyriclisting-row sync-hover-container">
-                        <a href="/ghetts-on-a-level-lyrics" class="lyriclisting-row-image sync-hover">
-                            <img src="/i/ghetts-lyrics-on-a-level-923110.jpg" alt="On a Level" width="32" height="32">
+                        <a href="/paulusma-fallin-lyrics" class="lyriclisting-row-image sync-hover">
+                            <img src="/images/albums/694292.jpg" alt="Fallin'" width="32" height="32">
                         </a>
                         <div class="lyriclisting-row-details">
-                            <div class="lyriclisting-row-artist sync-hover">Ghetts</div>
-                            <div class="lyriclisting-row-title"><a href="/ghetts-on-a-level-lyrics" class="sync-hover">On a Level lyrics</a></div>
+                            <div class="lyriclisting-row-artist sync-hover">Paulusma</div>
+                            <div class="lyriclisting-row-title"><a href="/paulusma-fallin-lyrics" class="sync-hover">Fallin' lyrics</a></div>
                         </div>
                         <div class="clear"></div>
                     </div>
                                                         <div class="lyriclisting-row sync-hover-container">
-                        <a href="/professor-green-trouble-lyrics" class="lyriclisting-row-image sync-hover">
-                            <img src="/i/professor-green-lyrics-at-your-inconvenience-736326.jpg" alt="Trouble" width="32" height="32">
+                        <a href="/paulusma-friends-lyrics" class="lyriclisting-row-image sync-hover">
+                            <img src="/images/albums/694292.jpg" alt="Friends" width="32" height="32">
                         </a>
                         <div class="lyriclisting-row-details">
-                            <div class="lyriclisting-row-artist sync-hover">Professor Green</div>
-                            <div class="lyriclisting-row-title"><a href="/professor-green-trouble-lyrics" class="sync-hover">Trouble lyrics</a></div>
+                            <div class="lyriclisting-row-artist sync-hover">Paulusma</div>
+                            <div class="lyriclisting-row-title"><a href="/paulusma-friends-lyrics" class="sync-hover">Friends lyrics</a></div>
                         </div>
                         <div class="clear"></div>
                     </div>
                                                         <div class="lyriclisting-row sync-hover-container">
-                        <a href="/oh-my-dirty-dancer-lyrics" class="lyriclisting-row-image sync-hover">
-                            <img src="/i/oh-my-lyrics-dirty-dancer-feat-scru-fizzer-739781.jpg" alt="Dirty Dancer" width="32" height="32">
+                        <a href="/paulusma-waitin-for-howard-to-board-lyrics" class="lyriclisting-row-image sync-hover">
+                            <img src="/images/albums/694292.jpg" alt="Waitin' for Howard to Board" width="32" height="32">
                         </a>
                         <div class="lyriclisting-row-details">
-                            <div class="lyriclisting-row-artist sync-hover">Oh My!</div>
-                            <div class="lyriclisting-row-title"><a href="/oh-my-dirty-dancer-lyrics" class="sync-hover">Dirty Dancer lyrics</a></div>
+                            <div class="lyriclisting-row-artist sync-hover">Paulusma</div>
+                            <div class="lyriclisting-row-title"><a href="/paulusma-waitin-for-howard-to-board-lyrics" class="sync-hover">Waitin' for Howard to Board lyrics</a></div>
                         </div>
                         <div class="clear"></div>
                     </div>
                                                         <div class="lyriclisting-row sync-hover-container">
-                        <a href="/theophilus-london-neighbors-lyrics" class="lyriclisting-row-image sync-hover">
-                            <img src="/assets/ui/album-noimg.gif" alt="Neighbors" width="32" height="32">
+                        <a href="/paulusma-catch-u-later-lyrics" class="lyriclisting-row-image sync-hover">
+                            <img src="/images/albums/694292.jpg" alt="Catch U Later" width="32" height="32">
                         </a>
                         <div class="lyriclisting-row-details">
-                            <div class="lyriclisting-row-artist sync-hover">Theophilus London</div>
-                            <div class="lyriclisting-row-title"><a href="/theophilus-london-neighbors-lyrics" class="sync-hover">Neighbors lyrics</a></div>
+                            <div class="lyriclisting-row-artist sync-hover">Paulusma</div>
+                            <div class="lyriclisting-row-title"><a href="/paulusma-catch-u-later-lyrics" class="sync-hover">Catch U Later lyrics</a></div>
                         </div>
                         <div class="clear"></div>
                     </div>
                                                         <div class="lyriclisting-row sync-hover-container">
-                        <a href="/sincere-aint-nobody-like-you-lyrics" class="lyriclisting-row-image sync-hover">
-                            <img src="/i/sincere-lyrics-aint-nobody-like-you-922786.jpg" alt="Ain't Nobody Like You" width="32" height="32">
+                        <a href="/paulusma-summer-has-gone-lyrics" class="lyriclisting-row-image sync-hover">
+                            <img src="/images/albums/694292.jpg" alt="Summer Has Gone" width="32" height="32">
                         </a>
                         <div class="lyriclisting-row-details">
-                            <div class="lyriclisting-row-artist sync-hover">Sincere</div>
-                            <div class="lyriclisting-row-title"><a href="/sincere-aint-nobody-like-you-lyrics" class="sync-hover">Ain't Nobody Like You lyrics</a></div>
+                            <div class="lyriclisting-row-artist sync-hover">Paulusma</div>
+                            <div class="lyriclisting-row-title"><a href="/paulusma-summer-has-gone-lyrics" class="sync-hover">Summer Has Gone lyrics</a></div>
                         </div>
                         <div class="clear"></div>
                     </div>
                                                         <div class="lyriclisting-row sync-hover-container">
-                        <a href="/zowie-smash-it-lyrics" class="lyriclisting-row-image sync-hover">
-                            <img src="/i/zowie-lyrics-smash-it-922769.jpg" alt="Smash It" width="32" height="32">
+                        <a href="/paulusma-learning-to-fly-lyrics" class="lyriclisting-row-image sync-hover">
+                            <img src="/images/albums/694292.jpg" alt="Learning to Fly" width="32" height="32">
                         </a>
                         <div class="lyriclisting-row-details">
-                            <div class="lyriclisting-row-artist sync-hover">Zowie</div>
-                            <div class="lyriclisting-row-title"><a href="/zowie-smash-it-lyrics" class="sync-hover">Smash It lyrics</a></div>
+                            <div class="lyriclisting-row-artist sync-hover">Paulusma</div>
+                            <div class="lyriclisting-row-title"><a href="/paulusma-learning-to-fly-lyrics" class="sync-hover">Learning to Fly lyrics</a></div>
                         </div>
                         <div class="clear"></div>
                     </div>
@@ -300,28 +326,36 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1326208662012-0');
                 <div class="footer-heading">Get to know LyricStatus</div>
                 
                 <div class="footer-right-item">
-                    <div class="footer-item-icon-contact footer-item-icon ui"></div>
+                    <div class="footer-item-icon-about footer-item-icon ui"></div>
                     <div class="footer-item-text">
-                        <a href="/contact">Contact us</a>
+                        <a href="/about" rel="nofollow">About us</a>
                     </div>
-                    <div class="clear"></div>
-                </div>
-            
-                <div class="footer-right-item">
-                    <div class="footer-item-icon-meet footer-item-icon ui"></div>
+                    <div class="footer-item-icon-press footer-item-icon ui"></div>
                     <div class="footer-item-text">
-                        <a href="/news/team">Meet the news team</a>
-                        <div class="footer-team-members">
-                            <a href="/news/author/jess/" title="Jess"><img src="/news/wp-content/uploads/authors/9-25.jpg" alt="Jess"></a><a href="/news/author/jon/" title="Jon"><img src="/news/wp-content/uploads/authors/11-25.jpg" alt="Jon"></a><a href="/news/author/ed/" title="Ed"><img src="/news/wp-content/uploads/authors/2-25.jpg" alt="Ed"></a><a href="/news/author/dan/" title="Dan"><img src="/news/wp-content/uploads/authors/4-25.jpg" alt="Dan"></a>
-                        </div>
+                        <a href="/press" rel="nofollow">Press</a>
                     </div>
                     <div class="clear"></div>
                 </div>
                 
                 <div class="footer-right-item">
-                    <div class="footer-item-icon-join footer-item-icon ui"></div>
+                    <div class="footer-item-icon-contact footer-item-icon ui"></div>
                     <div class="footer-item-text">
-                        <a href="/news/join-our-news-team">Join the news team</a>
+                        <a href="/contact" rel="nofollow">Contact us</a>
+                    </div>
+                    <div class="footer-item-icon-advertising footer-item-icon ui"></div>
+                    <div class="footer-item-text">
+                        <a href="/advertising" rel="nofollow">Advertising</a>
+                    </div>
+                    <div class="clear"></div>
+                </div>
+            
+                <div class="footer-right-item footer-meet-the-team">
+                    <div class="footer-item-icon-meet footer-item-icon ui"></div>
+                    <div class="footer-item-text">
+                        <a href="/news/team">Meet the news team</a>
+                        <div class="footer-team-members">
+                            <a href="/news/author/jess/" title="Jess" rel="nofollow"><img src="/news/wp-content/uploads/authors/9-25.jpg" alt="Jess"></a><a href="/news/author/jon/" title="Jon" rel="nofollow"><img src="/news/wp-content/uploads/authors/11-25.jpg" alt="Jon"></a><a href="/news/author/ruth/" title="Ruth" rel="nofollow"><img src="/news/wp-content/uploads/authors/12-25.jpg" alt="Ruth"></a><a href="/news/author/chris/" title="Chris" rel="nofollow"><img src="/news/wp-content/uploads/authors/14-25.jpg" alt="Chris"></a><a href="/news/author/ed/" title="Ed" rel="nofollow"><img src="/news/wp-content/uploads/authors/2-25.jpg" alt="Ed"></a>
+                        </div>
                     </div>
                     <div class="clear"></div>
                 </div>
@@ -331,37 +365,23 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1326208662012-0');
                         <fb:like href="http://www.facebook.com/pages/Music-Lyrics/120240211362207" send="false" layout="button_count" width="98" show_faces="false" font="lucida grande"></fb:like>
                     </div>
                     <div id="footer-gp">
-                        <g:plusone size="medium"></g:plusone>
+                        <g:plusone size="medium" href="http://www.lyricstatus.com"></g:plusone>
                     </div>
                     <div class="clear"></div>
                 </div>
                 <div id="footer-tw">
-                    <a href="http://twitter.com/lyricstatus" class="twitter-follow-button" data-link-color="#3B5998">Follow @lyricstatus</a>
+                    <a href="http://twitter.com/lyricstatus" class="twitter-follow-button" data-link-color="#3B5998" rel="nofollow">Follow @lyricstatus</a>
                     <script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
                 </div>
                 <ul id="footer-botright">
-                    <li>© 2012 LyricStatus Ltd</li><li><a href="/privacy" rel="nofollow">Privacy Policy</a></li><li><a href="/contact">Contact</a></li>
+                    <li>© 2013 LyricStatus Ltd</li><li><a href="/privacy" rel="nofollow">Privacy Policy</a></li><li><a href="/terms" rel="nofollow">Terms of Use</a></li>
                 </ul>
                 
         </div>
         <div class="clear"></div>
     </div>
 </div>
-</div>
-<div class="cookie-rpopout">
-    <div class="cookie-rpopout-inner">
-        <div class="cookie-rpopout-heading">Have a cookie.</div>
-
-
-        <img src="/assets/img/nomnomnom.jpg" alt="Cookie! ...." id="chocolate-cookie">
-        <div id="cookie-text">By using LyricStatus.com you agree to us using <a href="http://en.wikipedia.org/wiki/HTTP_cookie" target="_blank" rel="nofollow">cookies</a> to improve your experience on this site. Nom.<br><a href="#" id="cookie-close">Dismiss this message</a></div>     
-
-        <div class="clear"></div>
-        <a class="rpopout-cookie-close ui"></a>
-    </div>
-    </div>
-
-        <div class="dimscreen"></div>
+</div>        <div class="dimscreen"></div>
                 
     
 </body></html>
