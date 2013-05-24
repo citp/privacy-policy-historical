@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the yourbillbuddy.com privacy policy that was archived on 2012-11-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121121231946id_/http%3A//www.yourbillbuddy.com/privacyPolicy.do) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the yourbillbuddy.com privacy policy that was archived on 2013-05-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130524084620id_/http%3A//yourbillbuddy.com/privacyPolicy.do) for the most accurate reproduction.-->
 
 <html><head>
     	<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="javascript/common_mini.js"></script>
@@ -35,6 +35,7 @@
 	</script>
 
     </head>
+    
     <body>
 		<div class="header">
 	       	
@@ -71,8 +72,12 @@
 
 <!-- Logo -->
 <div class="logo"><a href="welcome.do" style="border: none;"><img border="0" src="images/logo.gif" alt="Your Bill Buddy" title="yourbillbuddy.com"></a></div>
+
+
+<a href="http://www.domyrecharge.com/welcome.do" target="_blank"><input type="image" src="images/domyrecharge.gif" style="margin-left: 48px; margin-top: 41px;"></a>
+
 <!-- Login Area -->
-<div class="loginDiv"><!-- Bookmark -->
+<div class="loginDiv" style="_margin-top: -80px;"><!-- Bookmark -->
 	<div class="bookmark_div">
 	<div class="fb-like" data-href="http://www.facebook.com/yourbillbuddy" data-send="false" data-layout="button_count" data-width="100" data-show-faces="false"></div>
 	<img src="images/sperater.gif" alt=""><b>
@@ -184,6 +189,14 @@
 	  		</div>
        	<div class="clear"><img src="images/dot.gif" alt="" height="10"></div>
 		<div class="body">
+			
+			<div style="width:960px;_width:964px"><a target="_blank" href="http://www.domyrecharge.com/reliance-mobilePlans.do?id=YBB" style="border: none;float: left;">
+<img border="0" width="438" src="images/mobileplanad.gif" alt="" title="Get Unlimited Plan offer" style="border-top: medium solid white; border-left: medium solid white; border-bottom: medium solid white;"></a>
+<a target="_blank" href="http://www.domyrecharge.com" style="border: none;float: left;"><img border="0" width="284" src="images/rechargead.gif" alt="" title="Do Free Recharge" style="border-top: medium solid white; border-bottom: medium solid white;"></a>
+<a target="_blank" href="http://domyrecharge.com/BuyHighspeedDatacard/Reliance-Netconnect-Broadband-Data-Card" style="border: none;float: left;"><img border="0" width="232" src="images/ad3.gif" alt="" title="Get Data Card Offer" style="border-top: medium solid white; border-right: medium solid white; border-bottom: medium solid white;"></a>
+</div>
+			
+			
 			
 
 
@@ -421,7 +434,12 @@ function changeTabOnLoad()
     }
 </script>
 <script>
-$(document).ready(function(){changeTabOnLoad();});
+$(document).ready(function(){changeTabOnLoad();
+if (navigator && navigator.appName != 'Microsoft Internet Explorer'){
+	showfbpromo();
+}
+checkingie();
+});
 </script>
 
 
@@ -793,7 +811,7 @@ $(document).ready(function(){changeTabOnLoad();});
 		    <div class="errorMessage" >
         </li> -->
         <li><b>Data Usage per Month (in GB) </b>
-			    <input type="text" name="dataWebEmail" value="1" id="dataWebEmailUsageCalculator" class="frm_txtfld1"> 
+			    <input type="text" name="dataWebEmail" value="6000" id="dataWebEmailUsageCalculator" class="frm_txtfld1"> 
 			    <div style="text-align: right; float: right"><a href="javascript:showPopWin('jspincludes/datausagecalculator.jsp', 785, 475, null);">?</a></div>
 	    </li>
 		   <a href="javascript:showPopWin('jspincludes/datausagecalculator.jsp', 785, 475, null);"><p align="right">Estimate your Data Usage</p></a>
@@ -1122,79 +1140,62 @@ $(document).ready(function() {
 <div id="ft_sitemap">
 <h4>View 3G Mobile Plans and Data Card Plans</h4>
 <span>
-<a href="3g.do" title="">3g</a>
-<a href="3g-plans.do" title="">3g Plans</a>
+<a href="3g-postpaid-plans.do" title="">3g Postpaid Plans</a>
 </span>
 <span>
-<a href="3g-postpaid-plans.do" title="">3g Postpaid Plans</a>
 <a href="3g-prepaid-plans.do" title="">3g Prepaid Plans</a>
 </span>
 <span>
-<a href="mobile-plans.do" title="">Mobile Plans</a>
-<a href="plans.do" title="">Plans</a>
-</span>
-<span>
-<a href="postpaid-plans.do" title="">Postpaid Plans</a>
-<a href="postpaid.do" title="">Postpaid</a>
-</span>
-<span>
-<a href="prepaid-plans.do" title="">Prepaid Plans</a>
-<a href="prepaid.do" title="">Prepaid</a>
-</span>
-<span>
-<a href="3g-data-plans.do" title="">3g Data Plans</a>
-<a href="internet-plans.do" title="">Internet Plans</a>
-</span>
-<span>
-<a href="mobile-internet-plans.do" title="">Mobile Internet Plans</a>
 <a href="data-card-plans.do" title="">Data Card Plans</a>
 </span>
 <span>
-<a href="3g-internet.do" title="">3g Internet</a>
-<a href="3g-network.do" title="">3g Network</a>
+<a href="data-card-plans.do" title="">Data Card Plans</a>
 </span>
+<span>
+<a href="mnp-procedure.do" title="">MNP Procedure</a>
+</span>
+
 </div>
 
 <div id="ft_sitemap" style="margin: 0px;">
 <h4>View Data Cards</h4>
 <span>
 <a href="data-cards.do" title="">Data Cards</a>
-<a href="data-card.do" title="">Data Card</a>
-<a href="data-card-3g.do" title=""> data card 3g</a>
-</span>
-<span>
 <a href="3g-data-card.do" title="">3g Data Cards</a>
-<a href="dongle.do" title="">Dongle</a>
-<a href="usb-data-cards.do" title="">Usb Data Cards</a>
+
+
 </span>
 <span>
 <a href="3g-usb-stick.do" title="">3g Usb Stick</a>
 <a href="3g-dongle.do" title="">3g Dongle</a>
-<a href="3g-usb-data-card.do" title="">3g Usb Data Card</a>
+
 </span>
 <span style="padding-left: 10px;">
-<a href="usb-3g-dongle.do" title="">Usb 3g Dongle</a>
-<a href="usb-dongle.do" title="">Usb Dongle</a>
 <a href="mobile-internet-device.do" title="">Mobile Internet Device</a>
+<a href="dongle-price.do" title="">Dongle Price</a>
+
 </span>
 <span style="padding-left: 10px;">
 <a href="usb-modem.do" title="">Usb Modem</a>
 <a href="data-card-price.do" title="">Data Card Price</a>
-<a href="3g-service.do" title="">3g Service</a>
-</span>
-<span>
-<a href="dongle-price.do" title="">Dongle Price</a>
-<a href="3g-dongle-price.do" title="">3g Dongle Price</a>
-<a href="3g-mobile.do" title="">3g Mobile</a>
+
 </span>
 <span>
 <a href="usb-dongle-price.do" title="">Usb Dongle Price</a>
 <a href="usb-modem-price.do" title="">Usb Modem Price</a>
-<a href="mnp-procedure.do" title="">MNP Procedure</a>
+
 </span>
 <span style="padding-left: 10px;">
 <a href="usb-3g-dongle-price.do" title="">Usb 3g Dongle Price</a>
 <a href="usb-stick-price.do" title="">Usb Stick Price</a>
+</span>
+<span style="padding-left: 10px;">
+<a href="usb-data-cards.do" title="">Usb Data Cards</a>
+<a href="3g-usb-data-card.do" title="">3g Usb Data Card</a>
+</span>
+<span style="padding-left: 10px;">
+<a href="3g-mobile.do" title="">3g Mobile</a>
+<a href="3g-service.do" title="">3g Service</a>
 </span>
 </div>
 
@@ -1265,25 +1266,7 @@ $(document).ready(function() {
 </span>
 
 </div>
-<!--<div id="ft_sitemap" style="margin: 0px;">
-        <span>
-                <a href="faq.do">Frequent Questions</a>
-        </span>
-        <span>
-                <a href="customer_support.do">Customer Support</a>
-        </span>
-        <span>
-                <a href="termsOfUse.do">Terms and Conditions</a>
-        </span>
-        <span>
-                <a href="privacyPolicy.do">Privacy Policy</a>
-        </span>
-        <span>
-                <a href="refund_policy.do">Refund Policy</a>
-        </span>
-        
-</div>
---><div id="ft_sitemap" style="margin: 0px;">
+<div id="ft_sitemap" style="margin: 0px;">
         <h4>Mobile number search &amp; Customer Care Details</h4>
         <span>
                 <a href="find-mobile-number-location.do">Find Mobile Number Location</a>
@@ -1345,7 +1328,6 @@ $(document).ready(function() {
 		<a href="aboutUs.do" title="About Us">About Us</a> |
 		<a href="privacyPolicy.do" title="Privacy Policy">Privacy Policy</a> |
 		<a href="faq.do" title="Frequently Asked Questions">FAQ</a> |
-		<a href="blog/index.php" title="YourBillBuddy Blogs">Blog</a> |
 		<a href="contactUs.do" title="Contact Us">Contact Us</a> |
 		<a href="termsOfUse.do" title="Terms of Use">Terms of Use</a>
 	</span>
