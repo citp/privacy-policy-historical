@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the brosome.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123073557id_/http%3A//brosome.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brosome.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524194449id_/http%3A//brosome.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy for Brosome.com | Brosome.com
+# Privacy Policy for Brosome.com
 
 **Privacy Policy for Brosome.com  
 **
