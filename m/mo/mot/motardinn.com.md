@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the motardinn.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120074432id_/http%3A//www.motardinn.com%3Faction%3Dpolitica%26idioma%3Deng) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motardinn.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524020714id_/http%3A//www.motardinn.com%3Faction%3Dpolitica%26idioma%3Deng) for the most accurate reproduction.*
 
 # New TradeInn
 
-**Website:** www.Motoinn.com
+**Website:** www.Motardinn.com
 
  **Company that owns:** [Tradeinn](http://www.tradeinn.com/ "tradeinn") (Tradeinn Retail Services SL).
 
