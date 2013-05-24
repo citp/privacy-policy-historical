@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lynda.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227102449id_/http%3A//www.lynda.com/aboutus/otl-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lynda.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524204609id_/http%3A//www.lynda.com/aboutus/otl-privacy.aspx) for the most accurate reproduction.*
 
 # lynda.com Online Training Library®: Privacy
 
@@ -10,7 +10,7 @@ lynda.com has been awarded TRUSTe's Privacy and Children’s Privacy Seal signif
 
 The TRUSTe program covers information collected through the website, [www.lynda.com](http://www.lynda.com/), and the service platform associated with this website.
 
-lynda.com complies with the U.S. – E.U. Safe Harbor Framework and U.S. – Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from European Union member countries and Switzerland.  lynda.com has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view lynda.com’s certification, please visit <http://www.export.gov/safeharbor>
+lynda.com complies with the U.S. - E.U. Safe Harbor Framework and U.S. - Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from European Union member countries and Switzerland.  lynda.com has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view lynda.com’s certification, please visit <http://www.export.gov/safeharbor>
 
 If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by [Internet here](https://feedback-form.truste.com/watchdog/request), or by fax at 415-520-3420 or mail to TRUSTe Safe Harbor Compliance Dept., [click for mailing address](http://www.truste.com/about-TRUSTe/contact_us).  If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company.  For information about TRUSTe or the operation of TRUSTe's dispute resolution process, click [here](http://www.truste.com/why_TRUSTe_privacy_services/dispute-resolution-services/) or request this information from TRUSTe at any of the addresses listed above.  The TRUSTe dispute resolution process shall be conducted in English.
 
@@ -156,7 +156,7 @@ To make online purchases you must use an SSL-enabled browser in order to protect
 
 Access by you to your account is available through a password and/or unique username selected by you.  This password is encrypted.  We recommend that you do not divulge your password to anyone, that you change your password often using a combination of letters and numbers, and that you ensure you use a secure web browser.  We cannot be held accountable for activity that results from your own neglect to safeguard the secrecy of your password and username.  If you share a computer with anyone, you should always log out of the Website before leaving it to prevent access to your information from subsequent users of that computer.
 
-You should notify us promptly if your username or password is compromised.  If you are suspicious of an inquiry for your account information, contact us immediately by telephone at 1-888-335-9632 or by email at businessaffairs@lynda.com.
+Please notify us as soon as possible if your user name or password is compromised.  Call 1 (888) 335-9632 or +1 (805) 477-3900 for assistance, or email [businessaffairs@lynda.com](mailto:businessaffairs@lynda.com).
 
 Personal information that you provide that is not Personally Identifiable Information also resides on a secure server and is only accessible via password.  Since this information is not accessible from outside lynda.com, you will not be asked to select a password in order to view or modify such information.
 
@@ -221,9 +221,5 @@ Carpinteria CA 93013
 
 _Attn: Business Affairs_
 
-Phone Number:  
-            1 (888) 33 – LYNDA or  
-            1-888-335-9632  
-
-
-You may also contact us by e-mail at [businessaffairs@lynda.com](mailto:businessaffairs@lynda.com)
+Phone Number: 1 (888) 335-9632 or +1 (805) 477-3900  
+You may also contact us by email at [businessaffairs@lynda.com](mailto:businessaffairs@lynda.com).
