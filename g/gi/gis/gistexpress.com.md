@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gistexpress.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122231453id_/http%3A//www.gistexpress.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gistexpress.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524060656id_/http%3A//www.gistexpress.com/privacy) for the most accurate reproduction.*
 
-# Privacy « Gist Express
+# Gist Express – Privacy
 
 **Privacy Policy**
 
@@ -43,5 +43,3 @@ Company incorporates reasonable safeguards to help protect and secure your perso
 
 **NOTIFICATION OF CHANGES AND YOUR ACCEPTANCE OF THE PRIVACY POLICY  
 **By using the Web Site, you acknowledge your agreement to the terms of this Privacy Policy. From time to time, Company may update this Privacy Policy. However, Company will use your personal information in a manner consistent with the Privacy Policy in effect at the time you submitted the information, unless you consent to the new or revised policy.
-
-[Share on Facebook](http://www.facebook.com/share.php?u=http://www.gistexpress.com/privacy/ "Share on Facebook")
