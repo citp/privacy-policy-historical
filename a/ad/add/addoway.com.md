@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the addoway.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014132309id_/http%3A//www.addoway.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addoway.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524083209id_/http%3A//www.addoway.com/privacy) for the most accurate reproduction.*
 
 # Addoway - Privacy Policy
 
@@ -20,7 +20,7 @@ When you add yourself to the Addoway.com database you are asked a question regar
 
 **Protect Yourself Online and Prevent Fraud  ** 
 
-1.  Never reply to emails that ask for personal information verification. Please report all spam emails like this to [spam@addoway.com](mailto:spam@addoway.com). If you receive an email from Addoway.com you will also be able to read this email via your personal account at [www.addoway.com](https://web.archive.org/web/20121014132309id_/http%3A//). We will never contact you and ask you to verify personal information.
+1.  Never reply to emails that ask for personal information verification. Please report all spam emails like this to [spam@addoway.com](mailto:spam@addoway.com). If you receive an email from Addoway.com you will also be able to read this email via your personal account at [www.addoway.com](https://web.archive.org/web/20130524083209id_/http%3A//). We will never contact you and ask you to verify personal information.
 
 2.  Keep a close eye on your personal accounts. Credit bureau reports should be run annually for everyone to verify all information is correct and valid.
 
