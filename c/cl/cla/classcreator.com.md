@@ -1,46 +1,104 @@
-> *The following text is extracted and transformed from the classcreator.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023050023id_/http%3A//www.classcreator.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classcreator.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524195212id_/http%3A//www.classcreator.com/privacy-policy.cfm) for the most accurate reproduction.*
 
-# Class Creator Privacy Policy
+# Class Reunion Web Site Creator
 
-Effective Date: November 1, 2007
+|  | 
 
-The following Privacy Policy governs the online data collection practices of Class Creator. Specifically, it describes the types of information that we collect about you while you are using the Class Creator web site, and the methods in which we use this information. 
+Last modified: November 30, 2012 ([view archived versions](https://web.archive.org/web/20130524195212id_/http%3A//www.classcreator.com/privacy-policy-archive.cfm))
 
-As the web is a continually evolving medium, we may need to change our Privacy Policy at some time in the future. If we do we make changes we will update the "Effective Date" above to reflect the date of the changes. Your continued usage of the Class Creator system after we post any such changes will be considered as acceptance and agreement to the updated Privacy Policy terms.
+Our Privacy Policy explains:
 
-**What Information is Collected About Visitors?**
+  * What information we collect and why we collect it. 
+  * How we use that information. 
+  * The choices we offer, including how to access and update information. 
 
-The data that we collect about you while you are using the site falls into two basic categories:
 
-1\. _Information You Provide to Us._
 
-We may collect and store data that you voluntarily supply while using the Class Creator system. Some examples of this type of information include demographic information that you electronically submit when you sign up, information (such as your name or email address), information that you post on message boards on the site, and information contained in emails or questions that you submit to the Site. Should you decline to provide us with certain information while using the site it is possible you may not be able to use some or all of the features of the Class Creator system. 
+We've tried to keep it as simple as possible, but if you're not familiar with terms like cookies, IP addresses and browsers, then read about these [key terms](https://web.archive.org/web/20130524195212id_/http%3A//www.classcreator.com/privacy-policy-terms.cfm) first.
 
-2\. _Information Automatically Collected._
+### Information we collect
 
-We also collect and store information that is generated automatically as you navigate through the Class Creator system. For example, we use a standard feature of browser software called "cookies." Cookies are small files that your web browser places on your hard drive for record-keeping purposes. By showing how and when visitors use the Class Creator system, cookies help us track user trends and patterns. They also prevent you from having to re-enter information on some areas of the site, such as login and password information to access the system. Another example of information we might automatically collect as you use the Class Creator system is information about your computer’s connection to the Internet. This information allows us, among other things, to improve the delivery of our web pages to you and to measure traffic on the site. 
+We collect information in two ways:
 
-**How is this Information Used?**
+  * **Information you give us when creating a website, or when joining an existing website.** When you do either of these, we'll ask for personal information, like your name, email address, telephone number and date of birth. We'll then create a Member Profile, which may include your name and photo. The part of your profile containing your email address, physical address, phone numbers and birthdate is not visible to anyone except the adminstrators of the website unless you personally elect to display this information. The rest of the profile information you supply is only visible to other persons who are logged into the same website. You can override the sharing limitations, but the default settings are the most protective of your privacy. 
 
-Class Creator respects your right to privacy. Class Creator collects information only for the purpose of creating your class web site and answering your questions. We may also use the information we collect from you while you are using the Class Creator system for other internal purposes, including using the information to customize features that appear on class web sites. We will not use personal information that we collect online from you while you are using the Class Creator system, nor will we use any information provided by classmates, to mail or email promotional offers (AKA spam). Your personal information and the personal information entered by your classmates will never be shared with other companies or organizations electronically or otherwise — period.
+  * **Information we get from your use of our services ([server logs](https://web.archive.org/web/20130524195212id_/http%3A//www.classcreator.com/privacy-policy-terms.cfm)).** We may collect information about the services that you use and how you use them, like when you visit the website, and details of your activity on each page. This information includes:
 
-Please also keep in mind that whenever you voluntarily make your personal information available for viewing by third parties online – for example on message boards, In Memory forums, through email or web logs, etc. – that information can be seen, collected and used by others besides us. Class Creator cannot be responsible for any unauthorized third party use of such information. 
+    * your hardware model, operating system version, and web browser verion
+    * the [Internet protocol address](https://web.archive.org/web/20130524195212id_/http%3A//www.classcreator.com/privacy-policy-terms.cfm) from which you are connecting to the internet.
+    * event information such as browser type, browser language, the date and time of your request and referral URL.
+    * [cookies](https://web.archive.org/web/20130524195212id_/http%3A//www.classcreator.com/privacy-policy-terms.cfm) that may uniquely identify your browser and/or collect and store information necessary to provide the services you are using.
 
-Be aware that although we have not done so to date, we may release information about site visitors when release is appropriate to comply with an order of the law, or to protect the rights, property or safety of users of the Class Creator system. 
 
-Please also note that as our business grows, we may buy or sell various assets. Although not in our plans, in the unlikely event that we sell some or all of our assets, or our site is acquired by another company, information about our visitors may be among the transferred assets. 
 
-**How To Make Changes to Your Information**
+### How we use information we collect
 
-Administrators and classmates alike can log into the system and update your personal information at any time. 
+We use the information we collect from all of our services to provide, maintain, protect and improve them, to develop new ones, and to protect us and our users.
 
-**Questions Regarding Privacy**
+### Information we share
 
-For more information about Privacy and Security issues please read _[_Questions About Passwords and Privacy_](http://www.classcreator.com/faqs.html#Privacy)_ in our FAQ section.
+We do not share personal information with companies, organizations and individuals unless one of the following circumstances apply: 
 
-If you have questions or concerns about this Privacy Policy, our privacy practices, or your dealings with us, please contact us in writing at: 
+  * **With your consent**
+
+We may share personal profile information via publicly accessible pages of your website when we have your consent to do so. We require opt-in consent for the sharing of any personal profile information.
+
+  * **With website administrators**
+
+Your website administrators will have access to your full profile information (including your email and contact information, but not your password). Your website administrator may be able to:
+
+    * view statistics regarding your account, like login dates.
+    * change your account password.
+    * suspend or terminate your account access.
+    * access or retain information stored as part of your account.
+  * **For external processing**
+
+We may provide personal information to trusted businesses or persons to process it for us, based on our instructions and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures. For instance, information provided through our Reunion Planner may be used to faciliate ACH direct deposit transactions on your behalf. We do not provide personal information to others without your agreement to do so.
+
+  * **For legal reasons**
+
+We may share personal information with companies, organizations or individuals if we have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary to:
+
+    * meet any applicable law, regulation, legal process or enforceable governmental request.
+    * enforce applicable Terms of Service, including investigation of potential violations.
+    * detect, prevent, or otherwise address fraud, security or technical issues.
+    * protect against harm to the rights, property or safety of us, our users or the public as required or permitted by law.
+
+
+
+We may share aggregated, [non-personally identifiable information](https://web.archive.org/web/20130524195212id_/http%3A//www.classcreator.com/privacy-policy-terms.cfm) publicly. For example, we may share information publicly to show trends about the general use of our services.
+
+If we are involved in a merger, acquisition or asset sale, we will continue to ensure the confidentiality of any personal information and give affected users notice before personal information is transferred or becomes subject to a different privacy policy.
+
+### Information security
+
+We work hard to protect our systems and our users from unauthorized access to or unauthorized alteration, disclosure or destruction of information we hold. In particular:
+
+  * We encrypt credit card payment services using SSL.
+  * We review our information collection, storage and processing practices, including physical security measures, to guard against unauthorized access to systems.
+  * We restrict access to personal information to persons who need to know that information in order to process it for us in order to provide you the service we offer.
+  * You can elect to block the public and search engines from accessing information you add to your personal Profile page. All logged in fellow site members can see all information you add to your personal Profile page. In rare cases a site member may join under false pretenses and claim to be somebody they are not (i.e. an imposter). Class Creator provides Class Administrators tools to combat this such as a New Member Verification feature. Class Creator does not require the use of the Verification feature nor can we assure proper use of the Verification feature when it is enabled. Therefore in rare cases a member can pose as somebody they are not. If you use this site you acknowledge the possibility of somebody joining the site under an assumed or false identity. Because of this infrequent but real possibility you should not post personal information or photos on your Profile page you do not want non members to see even if you have blocked search engines and the public from accessing your Profile information.
+
+
+
+### Enforcement
+
+We regularly review our compliance with our Privacy Policy. If we receive formal written complaints we will contact the person who made the complaint to follow up. We work with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that we cannot resolve with our users directly.
+
+### Changes
+
+Our Privacy Policy may change periodically. We will not reduce your rights under this Privacy Policy without your explicit consent. We will post any privacy policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of privacy policy changes). We will also keep prior versions of this Privacy Policy in an archive for your review.
+
+### Questions Regarding Privacy
+
+For more information about Privacy and Security issues please read _[_Questions About Passwords and Privacy_](http://www.classcreator.com/faqs.cfm#Privacy)_ in our FAQ section.
+
+If you have questions or concerns about this Privacy Policy, our privacy practices, or your dealings with us, please contact us in writing at:
 
 Class Creator  
 3060 Packard  
 Suite G  
-Ann Arbor, MI 48108 
+Ann Arbor, MI 48108
+
+|   
+---|---|---
