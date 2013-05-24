@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fitbrains.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123084003id_/http%3A//www.fitbrains.com/privacy_policy/%3Fref%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fitbrains.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524215144id_/http%3A//www.fitbrains.com/privacy_policy/%3Fref%3Dfooter) for the most accurate reproduction.*
 
-# Privacy Policy, Online Brain Game, Brain Workout
+# Privacy Policy
 
 Vivity Labs is deeply committed to protecting the privacy of Internet users. Below is information outlining our continued support for the responsible management of Internet users' data.
 
