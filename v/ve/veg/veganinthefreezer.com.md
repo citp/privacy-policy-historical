@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the veganinthefreezer.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222201923id_/http%3A//veganinthefreezer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the veganinthefreezer.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524074555id_/http%3A//veganinthefreezer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Vegan in the Freezer
 
