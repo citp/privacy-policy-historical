@@ -1,8 +1,7 @@
-<!--The following is the downloaded HTML source of the addoway.com privacy policy that was archived on 2012-10-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121014132309id_/http%3A//www.addoway.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the addoway.com privacy policy that was archived on 2013-05-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130524083209id_/http%3A//www.addoway.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"><head profile="http://gmpg.org/xfn/11">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
 <title>Addoway - Privacy Policy</title>
 <meta name="title" content="Addoway.com - Privacy Policy"><meta name="description" content="At Addoway, your privacy is very important to us.">
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
@@ -12,28 +11,9 @@
 <link rel="image_src" href="/images/Addoway_icon.jpg">
 <link rel="shortcut icon" href="/images/favicon_addoway.ico" type="image/x-icon">
 <link rel="stylesheet" href="/combine?t=c&amp;f=main.css,style.css,jquery.ui.min.css,jquery.fancybox.new.css&amp;r=28" type="text/css" media="screen">
-<script type="text/javascript" src="/combine?t=j&amp;f=jquery.min.js,jquery.fancybox.new.js,functions.js,jquery.impromptu.js,jquery.corner.min.js,jquery.oauthpopup.js,jquery.hashchange.js,jquery.example.js&amp;r=24"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/combine?t=j&amp;f=jquery.min.js,jquery.fancybox.new.js,functions.js,jquery.impromptu.js,jquery.corner.min.js,jquery.oauthpopup.js,jquery.hashchange.js,jquery.example.js&amp;r=24"></script>
 <script type="text/javascript">
 // <![CDATA[
-function fb_onlogin() {
-                                if($("div#login_fb_pop").is(":hidden")) {
-                                    $("a#login_fb").trigger("click");
-                                }							 
-								$("div[id='login_fb_main']").hide();
-								$("div[id='login_fb_loading']").customFadeIn('slow');                                                                
-								$.post("http://www.addoway.com/login_fb/", {}, function(data) {
-									eval(data);
-								});
-							}
-                            
-                            function tw_onlogin() {
-                                $("div[id^='login_tw_main']").hide();
-                                $("div[id^='login_tw_email']").hide();
-                                $("div#login_tw_loading").customFadeIn('slow'); 
-								$.post("http://www.addoway.com/login_tw/", {}, function(data) {
-									eval(data);
-								});
-							}
 var scrollSpeed = 750;
 var step = 1;
 var current1 = 0;
@@ -41,7 +21,7 @@ function scrollBg(){
 	current1 -= step;
 	$('#way_wrapper_top').css("background-position",current1+"px 0");   
 }
-var init = setInterval("scrollBg()", scrollSpeed);
+//var init = setInterval("scrollBg()", scrollSpeed);
       
 $(document).ready(function() {
 	$.fn.customFadeIn = function(speed, callback) {
@@ -76,184 +56,26 @@ $(document).ready(function() {
         return $(this).attr('title');
     }, {className: 'search_example'});
         
-$("a#main_login_popup").fancybox({
-        							'speedIn': 300,
-        							'speedOut': 0,
-        							'overlayOpacity': .2,
-        							'hideOnContentClick': false,
-        							'hideOnOverlayClick': false,
-                                    'showNavArrows': false,
-                                    'easingIn': 'swing',
-                                    'autoDimensions': false,
-        					  		'width': 490,
-        					    	'height': 310
-					         });
-                                                          
-                            $("a#fb_connect_main").live("click", function() {
-							FB.login(function(response) {
-							  if (response.authResponse) {
-                                  fb_onlogin();
-							  }
-							  else {
-								$("div#login_fb_loading").hide();
-								$("div#login_fb_main").show();
-							  }
-							}, {scope:'email'});
-							return false;
-						});
-                            
-                            $("a#tw_connect_main").live("click", function() {
-                                if($("div#login_tw_loading").is(":hidden")) {                                     
-    								$("div#login_tw_main").hide();
-                                    $("div#login_tw_loading").show()
-    								$("div#login_tw_pop").show();
-                                    $("a#popup_login_tw").addClass("current");
-    								$("a#main_login_popup").trigger("click");
-                                }
-                                $.oauthpopup({
-                                    path: "/twitter_connect",
-                                    callback: function(){
-                                        window.location.reload();
-                                    }
-                                });                                
-                            });
-                            
-                            $("button#tw_email_submit").live("click", function() {
-                                $("div#tw_email_error").html("");
-                                $("span#tw_loading_sm").css("visibility", "visible");
-                                var pemail = $("input#tw_pemail").val();
-                                var cpemail = $("input#tw_cpemail").val();
-                                $.post("http://www.addoway.com/login_tw/", {pemail:pemail, cpemail:cpemail}, function(data) {
-									eval(data);
-								});                                   
-                            });
-                                                            
-                            $("a[id^='login_']").click(function() {
-                                var this_id = $(this).attr("id").replace("login_", "");
-                                $(".login_pop").hide();
-						        $(".login_buttons a").removeClass("current");
-								$("a#popup_login_"+this_id).addClass("current");
-								$("div[id^='login_"+this_id+"_']").hide();
-								$("div#login_"+this_id+"_main").show();
-								$("div#login_"+this_id+"_pop").show();
-								$("a#main_login_popup").trigger("click");
-								$("input#username").focus();                                
-                            });
-                            
-                            $("a[id^='popup_login_']").live("click", function() {
-                                var this_id = $(this).attr("id").replace("popup_login_", "");
-						    	$(".login_buttons a").removeClass("current");
-								$(this).addClass("current");
-						  		$(".login_pop").hide();
-						  		$("div[id^='login_"+this_id+"_']").hide();
-								$("div#login_"+this_id+"_main").show();
-                                $("div#login_"+this_id+"_pop").customFadeIn("fast");
-                                $("input#username").focus();                                    
-                            });
  
 });
 $(document).ajaxSend(function(e, xhr, options) {
-	xhr.setRequestHeader("X-CSRF-Token", "bc13de92ff3f34ef70ff00f8353ce1b2e5e1bdd2cce0e7a72a9398a96f525649ecdad23bd60afb45ea98f368a39be2fd37ec894c6be3b7bf5940bca549201434");
+	xhr.setRequestHeader("X-CSRF-Token", "");
 });
 // ]]>   
 </script>
 </head>
 <body id="addo_body">
-	<div id="fb-root"><script async="" src="https://connect.facebook.net/en_US/all.js"></script></div>
-                        <script type="text/javascript">
-                        function tracklike(e, u) {
-                         $.ajax({type: "post", url: "/tracklike", data: "e="+e+"&u="+u});  
-                        }                    
-                        
-                        $(document).ready(function() {
-    					  window.fbAsyncInit = function() {
-    						 FB.init({
-                                appId: '186852054016', 
-                                status: true, 
-                                cookie: true, 
-                                xfbml: true,
-                                oauth: true,
-                                channelUrl : document.location.protocol +"//www.addoway.com/fb_channel"
-                            });
-                             
-                          };
-    					  (function() {
-    					    var e = document.createElement('script'); e.async = true;
-    					    e.src = document.location.protocol +
-    					      '//connect.facebook.net/en_US/all.js';
-    					    document.getElementById('fb-root').appendChild(e);
-    					  }());                            
-                        });                            
-    					</script>
+	
 	<div id="page_loading"><div></div></div>
-	<div style="display: none;">
-                        <div style="width: 480px;" id="login_pop_main">
-							<div style="height: 260px; padding: 20px 0 0 10px; ">
-								<div style="padding: 0 0 0 10px; font-size: 15px; font-weight: bold; text-align: left; color: #0f6ba8;">Choose any of these login options:</div>
-								<div><hr></div>
-								<div class="login_buttons"><a class="login_button_ad" id="popup_login_ad"></a><a class="login_button_fb" id="popup_login_fb"></a><a class="login_button_tw" id="popup_login_tw"></a></div>
-								<div style="clear: left;"></div>
-								<div style="display: none;" class="login_pop" id="login_ad_pop">
-									<div id="login_ad_main">
-							            <form action="https://www.addoway.com/login/" method="post"><input type="hidden" name="csrf_token" value="bc13de92ff3f34ef70ff00f8353ce1b2e5e1bdd2cce0e7a72a9398a96f525649ecdad23bd60afb45ea98f368a39be2fd37ec894c6be3b7bf5940bca549201434"><br>
-											<div style="font-weight: bold;">Username or Email:</div>
-											<div style="padding: 3px 0 0 0;"><input class="input" name="username" id="username" value="" maxlength="40" size="35"></div>
-											<div style="font-weight: bold; padding: 10px 0 0 0;">Password:</div>
-											<div style="padding: 3px 0 0 0;"><input class="input" type="password" value="" name="password" size="35"></div>
-                                            <div style="padding: 3px 0 0 0; font-size: 10px;"><a href="https://www.addoway.com/forgotpassword/">Forgot password?</a></div>
-											<div style="padding: 5px 0 0 0;"><input class="checkbox" type="checkbox" value="1" name="remember">&nbsp;Remember Me</div>
-											<div style="padding: 5px 0 0 0;"><input type="hidden" name="submit" value="Login"><button class="button" type="submit">Login</button></div>
-							            </form>
-						            </div>
-								</div>
-								<div style="display: none;" class="login_pop" id="login_fb_pop">
-								    <div id="login_fb_main">
-										<div style="padding: 13px 0 0 0; font-weight: bold;">Already registered with Facebook?</div>
-										<div style="padding: 3px 0 0 0;">Use your Facebook account to register and login to Addoway</div>
-										<div style="padding: 10px 0 0 0;"><a id="fb_connect_main"><img src="/images/home/facebook_connect.gif" alt="Facebook Connect" title="Facebook Connect" width="194" height="25"></a></div>
-										<div style="padding: 10px 0 0 0; position: relative;"><div style="position: absolute; left: -50px; width: 400px; overflow: hidden; height: 80px;"><!--<iframe src="http://www.facebook.com/plugins/facepile.php?app_id=186852054016" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:400px;" allowTransparency="true"></iframe>--></div></div>
-									</div>                                  
-									<div id="login_fb_loading" style="padding: 30px 0 0 0; text-align: center; display:none;">
-										<div class="font_big" style="margin: 0 auto; text-align: center;">Logging in with Facebook Connect</div>
-										<div style="padding: 10px 0 0 0;"><img src="/images/indicator.gif" width="32" height="32" alt="loading..."></div>
-									</div>
-								</div>
-                                <div style="display: none;" class="login_pop" id="login_tw_pop">
-							    <div id="login_tw_main">
-									<div style="padding: 13px 0 0 0; font-weight: bold;">Already registered with Twitter?</div>
-									<div style="padding: 3px 0 0 0;">Use your Twitter account to register and login to Addoway</div>
-									<div style="padding: 10px 0 0 0;"><a id="tw_connect_main"><img src="/images/login_buttons/Twitter_signin_lighter.png" alt="Sign in with Twitter" width="151" height="24"></a></div>
-								</div>
-							    <div id="login_tw_email" style="padding: 5px 0 0 0; display:none;">
-                                    <div id="tw_email_error" style="height: 15px; text-align: center; margin-left: -30px;"></div>                                    
-                                    <div style="padding: 0 0 10px 0;">We'll need your email address to register a new account,<br>or to link to your existing Addoway account.</div>
-									<div style="font-weight: bold; float: left; padding: 3px 3px 0 0;">Email Address:</div>
-									<div style="padding: 3px 0 0 0;"><input class="input" name="username" id="tw_pemail" value="" maxlength="40" size="35"></div>
-									<div class="clear"></div>
-                                    <div style="font-weight: bold; padding: 13px 3px 0 0; float: left;">Confirm Email:</div>
-									<div style="padding: 10px 0 0 0;"><input class="input" value="" id="tw_cpemail" size="35"></div>
-									<div style="margin: 10px 0 0 0; text-align: center; height: 20px;"><button class="button" type="button" id="tw_email_submit">Continue</button>&nbsp;&nbsp;<span id="tw_loading_sm" style="visibility: hidden;"><img style="vertical-align: middle;" src="/images/indicator_lil.gif" width="16" height="16" alt="loading..."></span></div>
-								</div>                                
-								<div id="login_tw_loading" style="margin: 30px 0 0 -30px; text-align: center; display:none;">
-                                    <div class="font_big" style="margin: 0 auto; text-align: center;">Logging in with Twitter</div>
-									<div style="padding: 10px 0 0 0;"><img src="/images/indicator.gif" width="32" height="32" alt="loading..."></div>
-								</div>                                
-							</div>
-							</div>
-							<div id="register_field">
-								Or, <a href="https://www.addoway.com/register/">Register a New Addoway Account</a>
-							</div>
-						</div>
-                        </div>  
+	  
 	<div id="way_wrapper_bottom">        
-        <div id="way_wrapper_top" style="background-position: -1px 0px;">
-            
+        <div id="way_wrapper_top">            
         	<div id="way_header">         
                 <div id="way_header_inner">
                                     
                     <div class="header_addo_pro_link"><a href="http://www.addoway.com/promembership"></a></div>
                     <div class="header_main_link"><a href="http://www.addoway.com/"></a></div>                        
-                    <div class="header_fundraiser_link"><a id="fundraiser_main" href="#fundraiser_pop_main"></a></div>
+                    
                     <div class="header_facebook_link"><a id="fb_connect_main"></a></div> 
                     <div class="header_twitter_link"><a id="tw_connect_main"></a></div>                    
                      
@@ -283,9 +105,8 @@ $(document).ajaxSend(function(e, xhr, options) {
                             <li><a href="http://www.addoway.com/about">About</a></li>
                             <li><a href="http://www.addoway.com/help">Help</a></li>
                         </ul>                
-                    </div> 
-                          
-                </div>
+                    </div>					 
+                </div>                
                                 
         	</div>
             
@@ -293,7 +114,8 @@ $(document).ajaxSend(function(e, xhr, options) {
         	<div id="way_main_top"></div>
             <div id="way_main">
         	    <div id="way_main_table">
-                    <table id="general_layout_table" class="general_layout_table" cellspacing="0" cellpadding="0" border="0">                    <tbody><tr>
+                    <table id="general_layout_table" class="general_layout_table" cellspacing="0" cellpadding="0" border="0">            
+        <tbody><tr>
             <td align="left" valign="top" id="content">
                 <h1>Privacy Policy</h1><hr>
                 <div style="padding: 20px; font-size: 12px;">
@@ -312,7 +134,7 @@ $(document).ajaxSend(function(e, xhr, options) {
             <div id="way_footer_back"></div>            
             <div id="way_footer_out">
                 <div id="way_footer_content">
-                    <div class="footer_copyright">© Addoway.com 2012, all rights reserved</div>
+                    <div class="footer_copyright">© Addoway.com 2013, all rights reserved</div>
                     <div class="footer_links">
                         <ul>
                             <li><a href="http://www.addoway.com/terms" title="Terms of Use">Terms of Use</a></li>
@@ -330,12 +152,12 @@ $(document).ajaxSend(function(e, xhr, options) {
 	</div>
    	<div id="FB_HiddenContainer" style="position:absolute; top:-10000px; width:0px; height:0px;"></div>
    	<div id="FB_HiddenIFrameContainer" style="display:none; position:absolute; left:-100px; top:-100px; width:0px; height: 0px;"></div>
-   	<div style="display: none;">
-        <div id="fundraiser_pop_main">
+   	<!--<div style="display: none;">
+        <div id="fundraiser_pop_main" >
             <div><a id="fundraiser_pop_donate_link" href="http://www.globalgiving.org/dy/fundraiser/prevfund/gg.html?regid=6767" target="_blank">&nbsp;</a></div>
-            <img src="/images/charity/2012_Tornadoes_pop_up.jpg" width="489" height="360" alt="Fundraiser">
+            <img src="/images/charity/2012_Tornadoes_pop_up.jpg" width="489" height="360" alt="Fundraiser"/>
         </div>
-    </div>  
+    </div>--> 
 	<script type="text/javascript">
                             var _gaq = _gaq || [];
                             _gaq.push(["_setAccount", "UA-8107356-2"]);
@@ -351,6 +173,5 @@ $(document).ajaxSend(function(e, xhr, options) {
     
     
     
-<script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrf2","beacon-4.newrelic.com","b0379a4aff",1189652,"MVdSZxEHVhcHAE1fXggdZUEKSUgWCQBcRUJIQlhD",0,39,new Date().getTime()]);</script>
 
-<div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap"><div id="fancybox-outer"><div class="fancybox-bg" id="fancybox-bg-n"></div><div class="fancybox-bg" id="fancybox-bg-ne"></div><div class="fancybox-bg" id="fancybox-bg-e"></div><div class="fancybox-bg" id="fancybox-bg-se"></div><div class="fancybox-bg" id="fancybox-bg-s"></div><div class="fancybox-bg" id="fancybox-bg-sw"></div><div class="fancybox-bg" id="fancybox-bg-w"></div><div class="fancybox-bg" id="fancybox-bg-nw"></div><div id="fancybox-content"></div><a id="fancybox-close"></a><div id="fancybox-title"></div><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div><script type="text/javascript" async="" src="https://d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js"></script></body></html>
+<div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap"><div id="fancybox-outer"><div class="fancybox-bg" id="fancybox-bg-n"></div><div class="fancybox-bg" id="fancybox-bg-ne"></div><div class="fancybox-bg" id="fancybox-bg-e"></div><div class="fancybox-bg" id="fancybox-bg-se"></div><div class="fancybox-bg" id="fancybox-bg-s"></div><div class="fancybox-bg" id="fancybox-bg-sw"></div><div class="fancybox-bg" id="fancybox-bg-w"></div><div class="fancybox-bg" id="fancybox-bg-nw"></div><div id="fancybox-content"></div><a id="fancybox-close"></a><div id="fancybox-title"></div><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div></body></html>
