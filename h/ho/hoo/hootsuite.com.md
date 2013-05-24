@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hootsuite.com privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125055450id_/http%3A//hootsuite.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hootsuite.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524233336id_/http%3A//hootsuite.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - HootSuite Media
 
@@ -49,6 +49,6 @@ HootSuite Media Inc. may periodically update this policy. We will notify you abo
 Any questions about this Privacy Policy should be addressed to HootSuite Twitter support at [@hootsuite_help](https://twitter.com/hootsuite_help) or by mail at:
 
 **HootSuite Media Inc.**  
-37 Dunlevy Ave.  
+5 East 8th Avenue  
 Vancouver, BC, Canada  
-V6A 3A3
+V5T 4S8
