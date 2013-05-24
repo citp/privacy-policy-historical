@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the audi.ca privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122105035id_/http%3A//www.audi.ca/ca/brand/en/tools/imprint/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audi.ca privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524070642id_/http%3A//www.audi.ca/ca/brand/en/tools/imprint/privacy.html) for the most accurate reproduction.*
 
-# Audi Canada > Privacy
+# Privacy > Audi Canada
 
 Privacy Policy
     
