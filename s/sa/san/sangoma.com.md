@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the sangoma.com privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229220858id_/http%3A//www.sangoma.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sangoma.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524234608id_/http%3A//www.sangoma.com/company/privacy-policy-statement) for the most accurate reproduction.*
 
-# Sangoma :: Privacy Policy
+# Privacy Policy Statement | Sangoma
 
 ## This is the web site of Sangoma Technologies Corporation.
 
 Our postal address is  
-50 McIntosh Drive, Suite 120  
-Markham, ON L3R 9T3, Canada  
-We can be reached via e-mail at   
-or you can reach us by telephone at **1 905 474 1990**
+100 Renfrew Drive, Suite 100  
+Markham ON L3R 9R6 CANADA  
+We can be reached via e-mail at info@sngoma.com  
+or you can reach us by telephone at  **1 905 474 1990**
 
-For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
+For each visitor to our Web page, our Web server automatically recognizes only the consumer’s domain name, but not the e-mail address (where possible).
 
 We collect the e-mail addresses of those who post messages to our bulletin board, the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations.
 
