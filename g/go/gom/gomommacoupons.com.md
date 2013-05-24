@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gomommacoupons.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122202217id_/http%3A//www.gomommacoupons.com/disclousure-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gomommacoupons.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524084618id_/http%3A//www.gomommacoupons.com/disclousure-policy) for the most accurate reproduction.*
 
 # Disclosure & Privacy Policy - Go Momma Coupons
 
@@ -14,4 +14,6 @@ Third Party ad servers or ad networks may use cookies to track users activities 
 
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you.
 
-[](http://www.printfriendly.com/print/v2?url=http://www.gomommacoupons.com/disclousure-policy/)
+_If you would like more information about this practice and to know your choices about not having this information used by these companies, please see:<http://www.networkadvertising.org/managing/opt_out.asp>_
+
+[ ](http://www.printfriendly.com/print?url=http://www.gomommacoupons.com/disclousure-policy/)
