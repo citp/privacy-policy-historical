@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsflare.com privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028191834id_/http%3A//www.newsflare.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsflare.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524023544id_/http%3A//www.newsflare.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - About Newsflare | Newsflare
 
@@ -22,7 +22,7 @@ This Privacy Policy describes our current policies and practices on Personal Dat
 
 Please note that by submitting Personal Data manually or in electronic form to us and/or by using our Website you give your consent that all Personal Data on each occasion that you submit may be processed by Newsflare, in the manner and for the purposes described in this Privacy Policy. 
 
-You may be accessing our Website from a computer or mobile phone device (through an iPhone application, for example) and this policy govern your use of our Website regardless of the means of access. We also like to interact with you on third party sites where we post content or invite your feedback, such as [www.facebook.com/newsflare](http://www.facebook.com/newsflare) and [www.twitter.com/newsflare](https://web.archive.org/web/20121028191834id_/http%3A//www.newsflare.com/about/www.twitter.com/newsflare) ("Third Party Sites"). 
+You may be accessing our Website from a computer or mobile phone device (through an iPhone application, for example) and this policy govern your use of our Website regardless of the means of access. We also like to interact with you on third party sites where we post content or invite your feedback, such as [www.facebook.com/newsflare](http://www.facebook.com/newsflare) and [www.twitter.com/newsflare](https://web.archive.org/web/20130524023544id_/http%3A//www.newsflare.com/about/www.twitter.com/newsflare) ("Third Party Sites"). 
 
 ### Notification of changes to this Privacy Policy
 
@@ -108,7 +108,7 @@ We encourage you to ensure that your Personal Data is accurate and kept up to da
 
 Our Website may contain hyperlinks to websites that are not operated by us. Any such hyperlinks are provided for your reference and convenience only and do not imply any endorsement of the activities of these third-party websites or any association with their operators. We do not control these websites and are not responsible for their data or privacy practices. We urge you to review any privacy policy posted on any site you visit before using the site or providing any Personal Data about yourself. 
 
-Our Website contains hyperlinks to other pages on our Website. We may use technology to track how often these links are used and which pages on our Website our visitors choose to view. Again this technology does not identify you personally – it simply enables us to compile statistics about the use of these hyperlinks. 
+Our Website contains hyperlinks to other pages on our Website. We may use technology to track how often these links are used and which pages on our Website our visitors choose to view. Again this technology does not identify you personally - it simply enables us to compile statistics about the use of these hyperlinks. 
 
 ### Transfer of Data Abroad
 
