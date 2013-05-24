@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the govtech.com privacy policy that was archived on 2012-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121019005013id_/http%3A//forms.erepublic.com/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the govtech.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524172001id_/http%3A//forms.erepublic.com/content/privacy) for the most accurate reproduction.*
 
 # Privacy Policy for e.Republic, Inc.
 
