@@ -1,434 +1,427 @@
-<!--The following is the downloaded HTML source of the las-vegas-theater.com privacy policy that was archived on 2012-10-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121028120605id_/http%3A//www.las-vegas-theater.com/common/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the las-vegas-theater.com privacy policy that was archived on 2013-05-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130524033553id_/http%3A//www.las-vegas-theater.com/common/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<title>Las Vegas Theater - Privacy</title>
+	<meta property="fb:admins" content="889925073">	 
+    <base href="http://www.las-vegas-theater.com/">
+	<link rel="stylesheet" type="text/css" href="http://static.las-vegas-theater.com/styles/theatreland.curran.css">
+	<link rel="stylesheet" type="text/css" href="http://static.las-vegas-theater.com/styles/las-vegas-theater.com.css">
+	<link rel="stylesheet" type="text/css" href="http://static.las-vegas-theater.com/styles/calendar.curran.css">
+	<link rel="stylesheet" type="text/css" href="http://static.las-vegas-theater.com/styles/widget.curran.css">
+	<link rel="stylesheet" type="text/css" href="http://static.las-vegas-theater.com/styles/custom-theme/jquery-ui-1.8.9.custom.css">	
+	<!--[if IE 6]><link rel="stylesheet" type="text/css" href="http://static.las-vegas-theater.com/styles/theatreland_ie6.css" /><![endif]-->
+		<style type="text/css">
+		@media only screen and (max-device-width: 1024px) {
+			.top { margin-left: 10px; width: 170px;}
+			.dontmiss { margin-left: 10px; width: 469px;}
+			.facebookLike {left:-115px;}
+			.google {margin-right:20px;}			
+		}
+	</style>
+	<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://code.jquery.com/jquery-1.6.2.min.js"></script>
+	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js"></script>	
+	<script type="text/javascript">
+	$(document).ready(function() {$('.hoverBar').toggle(openNav, closeNav);});
+	$(document).ready(function() {
+			
+		$('.hoverBar').hover(function() {
+	      $('.linkHide').addClass('linkHideOn');
+	    }, function() {
+	      $('.linkHide').removeClass('linkHideOn');
+	    });		
+			
+			$('.hoverBar').hover(function() {
+	      $('.linkBtn').addClass('linkBtnOn');
+	    }, function() {
+	      $('.linkBtn').removeClass('linkBtnOn');
+	    });
+		
+	});
+	var handler = function() {return false;};
+	
+	function openNav(){
+		_gaq.push(['_trackEvent', 'Primary Navigation', 'Open']);
+		$('.navHover').animate({"top": 0}, 360);
+		$('#hoverBarId').toggleClass("hoverBar hoverBarOpen");
+		//Close on click anywhere other than the details section
+		$(document).click(function() { closeNav();});
+		$(".details").click(handler);
+		$(".details a").click( function(event) {
+		    event.stopPropagation();
+		} );
+	}
+	function closeNav(){
+		_gaq.push(['_trackEvent', 'Primary Navigation', 'Close']);
+		$(document).unbind('click');
+		$(".details").unbind('click', handler);
+		$('#hoverBarId').toggleClass("hoverBarOpen hoverBar");
+		$('.navHover').animate({"top": -320}, 360);
+	}	
 
-   <title>Las Vegas Theater - Privacy</title>
-	 <meta property="fb:admins" content="889925073">	 
-      <base href="http://www.las-vegas-theater.com/">
-      
-	<link rel="stylesheet" type="text/css" href="styles/theatreland.css">
-	<!--[if IE 6]><link rel="stylesheet" type="text/css" href="styles/theatreland_ie6.css" /><![endif]-->
-		<link rel="stylesheet" type="text/css" href="styles/calendar.css">
-		<link rel="stylesheet" type="text/css" href="/promotions/promotions.css">
-   		<script type="text/javascript" src="js/CalendarPopup.js"></script>
-<!--[if lte IE 6]>
-	<script type="text/javascript" src="js/supersleight-min.js"></script>
-<![endif]-->
-	<script src="js/swfobject_modified.js" type="text/javascript"></script> 
-</head>
+
+	$.widget( "custom.catcomplete", $.ui.autocomplete, {
+		_renderMenu: function( ul, items ) {
+			var self = this,
+				currentCategory = "";
+			$.each( items, function( index, item ) {
+				if ( item.category != currentCategory ) {
+					ul.append( "<li class='ui-autocomplete-category'>" + item.category + "</li>" );
+					currentCategory = item.category;
+				}
+				self._renderItem( ul, item );
+			});
+		}
+	});
+	$(function() {
+		$( "#searchBox" ).catcomplete({
+			delay: 0,
+			source: '/rootincludes/search_data_process.php',
+			minLength: 2,
+			select: function( event, ui ) {
+				document.location.href = '/' + ui.item.url + '?q=' + ui.item.label + '&cat=' + ui.item.category;
+			}
+		});
+	});
+</script>
+<script type="text/javascript" src="/js/jquery-funcs.js"></script>
+	<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['a._setAccount', 'UA-30628158-8']);
+	_gaq.push(['a._setDomainName', 'las-vegas-theater.com']);
+	_gaq.push(['a._setAllowLinker', true]);  
+	_gaq.push(['a._trackPageview']);
+	
+	_gaq.push(['b._setAccount', 'UA-56287-3']);
+	_gaq.push(['b._setDomainName', 'las-vegas-theater.com']);
+	_gaq.push(['b._setAllowLinker', true]);   
+	_gaq.push(['b._trackPageview']);
+	
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+
+	var googletag = googletag || {};
+	googletag.cmd = googletag.cmd || [];
+	(function() {
+		var gads = document.createElement('script');
+		gads.async = true;
+		gads.type = 'text/javascript';
+		var useSSL = 'https:' == document.location.protocol;
+		gads.src = (useSSL ? 'https:' : 'http:') + 
+		'//www.googletagservices.com/tag/js/gpt.js';
+		var node = document.getElementsByTagName('script')[0];
+		node.parentNode.insertBefore(gads, node);
+	})();
+</script>
+<script type="text/javascript">
+googletag.cmd.push(function() {
+	googletag.defineSlot('/1305719/Lvt_All_Bottom_Right_160x600', [160, 600], 'lvt_ad_bottom_right').addService(googletag.pubads());
+	googletag.pubads().enableSingleRequest();
+	googletag.enableServices();
+});
+</script></head>
 <body>
 
-<div id="outerShadow">
-
-  <div id="all">
-
-	<!-- top banner -->
-	<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
-</script>
-<script type="text/javascript">
-GS_googleAddAdSenseService("ca-pub-0869762933844762");
-GS_googleEnableAllServices();
-</script>
-<script type="text/javascript">
-GA_googleAddSlot("ca-pub-0869762933844762", "Lvt_All_Bottom_Right_160x600");
-</script>
-<script type="text/javascript">
-GA_googleFetchAds();
-</script>
-   <!--Banner + Nav Start -->
-
-    <div href="http://www.las-vegas-theater.com" id="banner" class="bannerLvt">
-		<a href="http://www.las-vegas-theater.com"><div class="homeButton"></div></a>
-        <div id="navPosition" class="overlay">
-
-      <div id="navFind" class="navBg">
-       <div href="#_self" class="ttLeft">
-      <img src="/images/misc/tl_search_icon.gif" width="21" height="21" class="searchIcon" alt="" title="">
-      <img src="/images/misc/tl_search_arrow.gif" width="6" height="21" class="searchIcon" alt="" title="">
-      <p class="nav">FIND A SHOW <span class="gradient"><img src="/images/misc/tl_banner_gradient.gif" width="980" height="10" alt="" title=""></span>IN LAS VEGAS</p>
-      <span class="gradient"><img src="/images/misc/tl_banner_gradient.gif" width="980" height="10" alt="" title=""></span><span class="tooltipTopLeft">
-      <img src="/images/misc/tl_search_icon_on.gif" width="21" height="21" class="searchIcon" alt="" title="">
-      <img src="/images/misc/tl_search_arrow_on.gif" width="9" height="21" class="searchIcon" alt="" title="">
-      <p class="navOn">FIND A SHOW IN LAS VEGAS</p>
-      </span>
-      <span class="tooltip">
-      <div class="searchContent">
-
-      <div class="topShows">
-      <p class="mainNavTitle">Our Top Shows</p>
-
-      <div class="topShowBlock">
-      <a href="http://www.las-vegas-theater.com/theaters/palazzo-resort-hotel-casino/theater.php"><img border="0" src="images/events/small/event_jersey_boys_small.jpg" width="100" height="100" class="pic100MainNav" alt="Jersey Boys" title="Jersey Boys">
-      <p>Jersey Boys »</p></a>
-      </div>
-      <div class="topShowBlock">
-      <a href="http://www.las-vegas-theater.com/theaters/phantom-venetian/theater.php"><img border="0" src="images/events/small/event_phantom_of_the_opera_small.jpg" width="100" height="100" class="pic100MainNav" alt="Phantom" title="Phantom ">
-      <p>Phantom »</p></a>
-      </div>
-      <div class="topShowBlock">
-      <a href="http://www.las-vegas-theater.com/theaters/elvistheater/theater.php"><img border="0" src="images/events/small/event_viva_elvis_small.jpg" width="100" height="100" class="pic100MainNav" alt="Viva Elvis" title="Viva Elvis">
-      <p>Viva Elvis »</p></a>
-      </div>
-      <div class="topShowBlock">
-      <a href="http://www.las-vegas-theater.com/theaters/v-theater/theater.php"><img border="0" src="images/events/small/event_v_the_ultimate_variety_show_small.jpg" width="100" height="100" class="pic100MainNav" alt="V The Ultimate Variety Show" title="V The Ultimate Variety Show">
-      <p>V The Ultimate Variety Show »</p></a>
-      </div>
-      <div id="clear"></div>
-
-      <div class="viewLink"><a href="http://www.las-vegas-theater.com/" class="white">View all Shows »</a></div>
-       </div>
-
-
-       <div id="clear"></div>
-
-       <div id="genreBlock">
-      <h5>What's Hot</h5>
-            <p><a href="http://www.las-vegas-theater.com/theaters/love-mirage/theater.php">Beatles Love at The Mirage »</a></p>
-      <p><a href="http://www.las-vegas-theater.com/theaters/blue-man-theater/theater.php">Blue Man Group »</a></p>
-
-      <p><a href="http://www.las-vegas-theater.com/theaters/palazzo-resort-hotel-casino/theater.php">Jersey Boys »</a></p>
-
-
-      </div>
-
-      <div id="genreBlockLight">
-      <h5>Comedy</h5>
-      <p><a href="http://www.las-vegas-theater.com/theaters/flamingo-showroom/theater.php">George Wallace »</a></p>
-<p><a href="http://www.las-vegas-theater.com/theaters/terry-fator-mirage/theater.php">Jay Leno »</a></p>
-<p><a href="http://www.las-vegas-theater.com/theaters/terry-fator-mirage/theater.php">Terry Fator »</a></p>
-<p><a href="http://www.las-vegas-theater.com/theaters/flamingo-showroom/theater.php">Nathan Burton - Comedy Magic »</a></p>
-
-
-
-      </div>
-
-      <div id="genreBlockLight">
-      <h5>Cirque du Soleil</h5>
-            <p><a href="http://www.las-vegas-theater.com/theaters/ka-mgm-grand/theater.php">KA at The MGM Grand »</a></p>
-           <p><a href="http://www.las-vegas-theater.com/theaters/o-bellagio/theater.php">O Cirque du Soleil »</a></p>
-      <p><a href="http://www.las-vegas-theater.com/theaters/mystere-treasure-island/theater.php">Mystere Cirque du Soleil »</a></p>
-      <p><a href="http://www.las-vegas-theater.com/theaters/zumanity-new-york/theater.php">Zumanity »</a></p>
-
-
-      </div>
-      </div>
-      </span>
-      </div>
-      </div>
-
-
-      <div id="navSearch" class="navBg">
-       <div href="#_self" class="ttRight">
-      <img src="/images/misc/tl_search_icon.gif" width="21" height="21" class="searchIcon" alt="" title="">
-      <img src="/images/misc/tl_search_arrow.gif" width="6" height="21" class="searchIcon" alt="" title="">
-      <p class="nav">FIND A THEATER IN LAS VEGAS</p>
-      <span class="tooltipTopRight">
-      <img src="/images/misc/tl_search_icon_on.gif" width="21" height="21" class="searchIcon" alt="" title="">
-      <img src="/images/misc/tl_search_arrow_on.gif" width="9" height="21" class="searchIcon" alt="" title="">
-      <p class="navOn">FIND A THEATER IN LAS VEGAS</p>
-      </span>
-      <span class="tooltip">
-      <div class="searchContent">
-
-      <div class="topShows">
-      <p class="mainNavTitle">Find a Theater in Las Vegas</p>
-
-
-      <div id="alphabetBlock" class="alphabetBlockBg">
-		  	<h1 class="alphabetText">		 <a id="lnA" href="/theatres.php?letter=a">A</a> <a id="lnB" href="/theatres.php?letter=b">B </a><a id="lnC" href="/theatres.php?letter=c">C</a>
-				 <a id="lnD" href="/theatres.php?letter=d">D </a><a id="lnE" href="/theatres.php?letter=e">E </a><a id="lnF" href="/theatres.php?letter=f">F </a><a id="lnG" href="/theatres.php?letter=g">G</a>
-				 <a id="lnH" href="/theatres.php?letter=h">H </a><a id="lnI" href="/theatres.php?letter=i">I </a><a id="lnJ" href="/theatres.php?letter=j">J </a><a id="lnK" href="/theatres.php?letter=k">K</a>
-				 <a id="lnL" href="/theatres.php?letter=l">L </a><a id="lnM" href="/theatres.php?letter=m">M </a><a id="lnN" href="/theatres.php?letter=n">N </a><br>
-				 <a id="lnO" href="/theatres.php?letter=o">O</a>
-				 <a id="lnP" href="/theatres.php?letter=p">P </a><a id="lnQ" href="/theatres.php?letter=q">Q </a><a id="lnR" href="/theatres.php?letter=r">R </a><a id="lnS" href="/theatres.php?letter=s">S</a>
-				 <a id="lnT" href="/theatres.php?letter=t">T </a><a id="lnU" href="/theatres.php?letter=u">U </a><a id="lnV" href="/theatres.php?letter=v">V </a><a id="lnW" href="/theatres.php?letter=w">W</a>
-				 <a id="lnX" href="/theatres.php?letter=x">X </a><a id="lnY" href="/theatres.php?letter=y">Y </a><a id="lnZ" href="/theatres.php?letter=z">Z </a><a id="ln0" href="/theatres.php?letter=0">0-9</a>
-			</h1>
-      </div>
-
-      <div id="clear"></div>
-
-      <div class="viewLink"><a href="http://www.las-vegas-theater.com/theatres.php" class="white">View all Theatres »</a></div>
-       </div>
-
-
-
-
-       <div id="clear"></div>
-
-       <div id="genreBlockTheatre">
-   <h5>Casino Venues &amp; Theaters</h5>
-           <p><a href="theaters/palazzo-resort-hotel-casino/theater.php">Palazzo Resort Hotel »</a></p>
-           <p><a href="theaters/phantom-venetian/theater.php">Phantom Theater »</a></p>
-           <p><a href="theaters/v-theater/theater.php">V Theater »</a></p>
-           <p><a href="theaters/le-reve-wynn/theater.php">Le Reve Theater »</a></p>
-
-
-      </div>
-
-      <div id="genreBlockLight">
- <h5>Cirque du Soleil Venues</h5>
-      <p><a href="http://www.las-vegas-theater.com/theaters/ka-mgm-grand/theater.php">KA Theater »</a></p>
-      <p><a href="http://www.las-vegas-theater.com/theaters/o-bellagio/theater.php">O Theater - Bellagio »</a></p>
-      <p><a href="http://www.las-vegas-theater.com/theaters/mystere-treasure-island/theater.php">Mystere Theater »</a></p>
-      <p><a href="http://www.las-vegas-theater.com/theaters/zumanity-new-york/theater.php">Zumanity Theater »</a></p>
-
-
-
-      </div>
-
-      <div id="genreBlockLight">
-      <h5>Comedy Venues</h5>
-      <br>
-           <p><a href="theaters/fitzgeralds-hotel-casino/theater.php">Fitzgeralds »</a></p>
-           <p><a href="theaters/flamingo-showroom/theater.php">Flamingo Showroom »</a></p>
-           <p><a href="theaters/comedy-club-riviera/theater.php">Riviera Comedy Club »</a></p>
-           <p><a href="theaters/terry-fator-mirage/theater.php">Terry Fator Theater »</a></p>           
-           
-
-      </div>
-
-      </div>
-
-      </span>
-      </div>
-      </div>
-
-   </div>
-  </div>
-
- <!--Banner + Nav Finish -->
-
-    <div class="gradient"><img src="/images/misc/tl_banner_gradient.gif" width="980" height="10" alt="" title=""></div>
-	<!-- /top banner -->
-	<!-- main theatre block -->
-		<div id="contentLeft">
-    <div class="contentHeader">
-				<h1>PRIVACY POLICY</h1>
-                <p><a href="http://www.las-vegas-theater.com/">www.las-vegas-theater.com</a> is firmly committed to protecting your privacy while you are visiting our Web site. The following Privacy Policy discloses the information gathering and dissemination practices for&nbsp;<a href="http://www.las-vegas-theater.com/">www.las-vegas-theater.com</a>.&nbsp;</p>
-                <br>
+<!-- top banner -->
+<!-- new nav start -->
+<div class="bannerInf bannerlvt">
+	<div class="navHover"> <img src="http://static.las-vegas-theater.com/images/misc/tl_search_icon_close.gif" class="searchIconClose">
+		<div class="details">
+			<div class="innerBlock top">
+				<h2 class="heading1"><img src="http://static.las-vegas-theater.com/images/misc/tl_listing_star.png" class="listingStar hovNav">CATEGORIES</h2>
+				<p><a href="/index.php">Top Shows</a></p>
+				<p><a href="/index_musical.php">Musicals</a></p>
+				<p><a href="/index_play.php">Plays</a></p>
+				<p><a href="/index_concert.php">Concerts</a></p>
+				<p><a href="/index_comedy.php">Stand-up</a></p>
+				<p><a href="/index_holiday.php">Holiday Shows</a></p>
+				<p><a href="/index_family.php">Family</a></p>
+			</div>
+			<div class="innerBlock season">
+				<h2 class="heading1"><img src="http://static.las-vegas-theater.com/images/misc/tl_listing_star.png" class="listingStar hovNav">TOP SHOWS: 2013 / 2014 SEASON</h2>
+				<div class="smallPoster"><a href="/theaters/harrahs-showroom/million-dollar-quartet.php"><img class="smallPosterImg" height="120" src="http://static.las-vegas-theater.com/images/show/03301_show_portrait_small.jpg">MAY '13</a></div><div class="smallPoster"><a href="/theaters/smith-center/les-miserables.php"><img class="smallPosterImg" height="120" src="http://static.las-vegas-theater.com/images/show/03116_show_portrait_small.jpg">AUG '13</a></div><div class="smallPoster"><a href="/theaters/smith-center/war-horse.php"><img class="smallPosterImg" height="120" src="http://static.las-vegas-theater.com/images/show/04782_show_portrait_small.jpg">OCT '13</a></div><div class="smallPoster"><a href="/theaters/smith-center/american-idiot.php"><img class="smallPosterImg" height="120" src="http://static.las-vegas-theater.com/images/show/04249_show_portrait_small.jpg">JUN '13</a></div><div class="smallPoster"><a href="/theaters/smith-center/catch-me-if-you-can.php"><img class="smallPosterImg" height="120" src="http://static.las-vegas-theater.com/images/show/07278_show_portrait_small.jpg">JUN '13</a></div><div class="smallPoster"><a href="/theaters/rock-of-ages-theatre/rock-of-ages.php"><img class="smallPosterImg" height="120" src="http://static.las-vegas-theater.com/images/show/03110_show_portrait_small.jpg">MAY '13</a></div>			</div>
+			<div class="innerBlock dontmiss">
+				<h2 class="heading1"><img src="http://static.las-vegas-theater.com/images/misc/tl_listing_star.png" class="listingStar hovNav">DON'T MISS!</h2>
+				<p><a href="/index.php?#opening_soon">Opening Soon</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/index.php?#what_hot">Last Chance</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/index_celeb_on_stage.php">Celebs on Stage</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/index_broadway.php">Broadway Season</a></p>
+			</div>
+			<div class="innerBlock search">
+				<h2 class="heading1"><img src="http://static.las-vegas-theater.com/images/misc/tl_listing_star.png" class="listingStar hovNav">SEARCH</h2>
+				<img src="http://static.las-vegas-theater.com/images/misc/tl_search_icon_btn2.gif" class="searchIcon2" alt="search">
+				<input id="searchBox" type="text" class="formField">
+			</div>
+		</div>
+		<div class="hoverBar">
+			<div class="linkBtnContainer">
+				<div class="linkHide2"></div>
+				<div class="linkHide"></div>
+				<div class="linkBtn">
+					<img src="http://static.las-vegas-theater.com/images/misc/tl_search_arrow_hover2.gif" class="searchIconHover">
+					<h2 class="heading1 hov">FIND A SHOW OR VENUE</h2>
+					<img src="http://static.las-vegas-theater.com/images/misc/tl_search_icon2.gif" class="searchIconGlass">
 				</div>
-	
+			</div>
+		</div>
+	</div>
+	<div class="helpline">
+		<p>Order by Phone</p>
+		<h2><a href="tel:(800) 430-8903">(800) 430-8903</a></h2>
+		<img src="http://static.las-vegas-theater.com/images/ico-phone.png">
+	</div>	
+</div>
+<!-- new nav finish -->
+<!-- /top banner -->
 
-                                <!-- main content area starts -->
-                                        
-              
-<!--posting start --->
-<div class="posting faq"><img src="images/misc/tl_icon_red_posting.gif" class="icon" alt="" title="">
-<h3 class="iconTitle">INFORMATION THIS SITE GATHERS/TRACKS</h3>
-<div id="clear"></div>
-<img src="images/misc/tl_spacer.gif" class="icon" width="45" height="45" alt="" title="">
-<div class="faqAnswer">
-<p>We use your IP address and browser type to help diagnose problems with our server and to administer our Web site. This means that a user's session will be tracked, but the user will remain anonymous. Your IP address is used to help identify you and your shopping cart and to gather broad demographic information. This means that although your IP address may be associated during your session it is not permanently associated with any of your personal information.</p>
-</div>
-<div id="clear"></div>
-</div>
-<!--posting finish --->
+<div id="all">
+    <!--Banner + Nav Start -->
+    <div id="banner"> 
+        <a href="http://www.las-vegas-theater.com"><div class="homeButton"></div></a>
+    </div>
+    <!--Banner + Nav Finish -->
+    <div class="gradient"></div>	
+
+	<div id="contentLeft">
+
+	    <div class="contentHeader">
+            <h1>PRIVACY POLICY</h1>
+            <p><a href="http://www.las-vegas-theater.com/">Las Vegas Theater</a> is firmly committed to protecting your privacy while you are visiting our Web site. The following Privacy Policy discloses the information gathering and dissemination practices for&nbsp;<a href="http://www.las-vegas-theater.com/">www.las-vegas-theater.com</a>.&nbsp;</p>
+            <br>
+		</div>
+
+		<!-- main content area starts -->
+
+		<div class="postingHolder">
+
+			<!--posting start --->
+            <div class="postingLeftPad">    
+				<img src="images/misc/tl_icon_red_posting.gif" class="icon" alt="" title="">
+                <h3 class="iconTitle">INFORMATION THIS SITE GATHERS/TRACKS</h3>
+                <div class="clear"></div>
+                <img src="images/misc/tl_spacer.gif" class="icon" width="45" height="45" alt="" title="">
+                <div class="faqAnswer">
+                    <p>We use your IP address and browser type to help diagnose problems with our server and to administer our Web site. This means that a user's session will be tracked, but the user will remain anonymous. Your IP address is used to help identify you and your shopping cart and to gather broad demographic information. This means that although your IP address may be associated during your session it is not permanently associated with any of your personal information.</p>
+                </div>
+                <div class="clear"></div>
+            </div>
+            <!--posting finish --->
           
+			<!--posting start --->
+            <div class="postingLeftPad">    
+				<img src="images/misc/tl_icon_red_posting.gif" class="icon" alt="" title="">
+                <h3 class="iconTitle">REGISTRATION</h3>
+                <div class="clear"></div>
+                <img src="images/misc/tl_spacer.gif" class="icon" width="45" height="45" alt="" title="">
+                <div class="faqAnswer">
+	                <p>You can browse our site without entering any personal information and, therefore, remain anonymous during your visit. However, we hope that all of our visitors will <a href="/users/register.php">register with us</a> so that we can learn more about our valuable customers. Our site's optional <a href="/users/register.php">registration form</a> requires users to give us contact information (such as their name and email address) for us to send the user relevant newsletters and special offers. Users may opt-out of receiving any communications from our company at any time. Please review our <a href="/common/privacy.php#optout">Opt-Out Policy</a> below.</p>
+                </div>
+                <div class="clear"></div>
+            </div>
+            <!--posting finish --->
           
-<!--posting start --->
-<div class="posting faq"><img src="images/misc/tl_icon_red_posting.gif" class="icon" alt="" title="">
-<h3 class="iconTitle">REGISTRATION</h3>
-<div id="clear"></div>
-<img src="images/misc/tl_spacer.gif" class="icon" width="45" height="45" alt="" title="">
-<div class="faqAnswer">
-<p>You can browse our site without entering any personal information and, therefore, remain anonymous during your visit. However, we hope that all of our visitors will register with us so that we can learn more about our valuable customers. Our site's optional registration form requires users to give us contact information (such as their name and email address) for us to send the user relevant newsletters and special offers. Users may opt-out of receiving any communications from our company at any time. Please review our Opt-Out Policy below.</p>
-</div>
-<div id="clear"></div>
-</div>
-<!--posting finish --->
-          
-<!--posting start --->
-<div class="posting faq"><img src="images/misc/tl_icon_red_posting.gif" class="icon" alt="" title="">
-<h3 class="iconTitle">COOKIES</h3>
-<div id="clear"></div>
-<img src="images/misc/tl_spacer.gif" class="icon" width="45" height="45" alt="" title="">
-<div class="faqAnswer">
-<p>Our site uses cookies to keep track of your shopping cart. Upon your request we can use cookies to deliver content specific to your interests and to save your password so that you do not have to re-enter it each time you visit our site.</p>
-</div>
-<div id="clear"></div>
-</div>
-<!--posting finish --->
+			<!--posting start --->
+            <div class="postingLeftPad">    
+				<img src="images/misc/tl_icon_red_posting.gif" class="icon" alt="" title="">
+                <h3 class="iconTitle">COOKIES</h3>
+                <div class="clear"></div>
+                <img src="images/misc/tl_spacer.gif" class="icon" width="45" height="45" alt="" title="">
+                <div class="faqAnswer">
+	                <p>Our site uses cookies to keep track of your shopping cart. Upon your request we can use cookies to deliver content specific to your interests and to save your password so that you do not have to re-enter it each time you visit our site. <a href="/common/privacy_cookies.php">Details on Cookies and how they benefit you</a>.</p>
+                </div>
+                <div class="clear"></div>
+            </div>
+            <!--posting finish --->
 
-<!--posting start --->
-<div class="posting faq"><img src="images/misc/tl_icon_red_posting.gif" class="icon" alt="" title="">
-<h3 class="iconTitle">LINKS</h3>
-<div id="clear"></div>
-<img src="images/misc/tl_spacer.gif" class="icon" width="45" height="45" alt="" title="">
-<div class="faqAnswer">
-<p>This site contains links to other sites. <a href="http://www.las-vegas-theater.com/">www.las-vegas-theater.com</a> is not responsible for the privacy practices or the content of such Web sites. We encourage you to read posted privacy statements whenever interacting with any Web site. We will not share any specific information that you provide to us without your explicit permission to share it.</p>
-</div>
-<div id="clear"></div>
-</div>
-<!--posting finish --->
+			<!--posting start --->
+            <div class="postingLeftPad">    
+				<img src="images/misc/tl_icon_red_posting.gif" class="icon" alt="" title="">
+                <h3 class="iconTitle">LINKS</h3>
+                <div class="clear"></div>
+                <img src="images/misc/tl_spacer.gif" class="icon" width="45" height="45" alt="" title="">
+                <div class="faqAnswer">
+	                <p>This site contains links to other sites. <a href="http://www.las-vegas-theater.com/">Las Vegas Theater</a> is not responsible for the privacy practices or the content of such Web sites. We encourage you to read posted privacy statements whenever interacting with any Web site. We will not share any specific information that you provide to us without your explicit permission to share it.</p>
+                </div>
+                <div class="clear"></div>
+            </div>
+            <!--posting finish --->
 
-<!--posting start --->
-<div class="posting faq"><img src="images/misc/tl_icon_red_posting.gif" class="icon" alt="" title="">
-<h3 class="iconTitle">ORDER FORM</h3>
-<div id="clear"></div>
-<img src="images/misc/tl_spacer.gif" class="icon" width="45" height="45" alt="" title="">
-<div class="faqAnswer">
-<p>This Web site uses the internet's leading ticket reseller <a href="http://www.ticketnetwork.com">TicketsNetwork.com</a> for the purchase of tickets. Please refer to <a href="http://www.ticketnetwork.com">TicketsNetwork.com</a> for their privacy policy</p>
-</div>
-<div id="clear"></div>
-</div>
-<!--posting finish --->
+			<!--posting start --->
+            <div class="postingLeftPad">    
+				<img src="images/misc/tl_icon_red_posting.gif" class="icon" alt="" title="">
+                <h3 class="iconTitle">ORDER FORM</h3>
+                <div class="clear"></div>
+                <img src="images/misc/tl_spacer.gif" class="icon" width="45" height="45" alt="" title="">
+                <div class="faqAnswer">
+	                <p>This Web site uses the internet's leading ticket reseller <a href="http://www.ticketnetwork.com">TicketNetwork.com</a> for the purchase of tickets. Please refer to <a href="http://www.ticketnetwork.com">TicketNetwork.com</a> for their privacy policy</p>
+                </div>
+                <div class="clear"></div>
+            </div>
+            <!--posting finish --->
+  
 
-<!--posting start --->
-<div class="posting faq"><img src="images/misc/tl_icon_red_posting.gif" class="icon" alt="" title="">
-<h3 class="iconTitle">SECURITY</h3>
-<div id="clear"></div>
-<img src="images/misc/tl_spacer.gif" class="icon" width="45" height="45" alt="" title="">
-<div class="faqAnswer">
-<p>This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. All transactions are placed on our secure server and are encrypted with full 128-bit encryption. All transactions must be placed with a secure browser for customers to take advantage of this secure service.</p>
-</div>
-<div id="clear"></div>
-</div>
-<!--posting finish --->
+			<!--posting start --->
+            <div class="postingLeftPad">    
+				<img src="images/misc/tl_icon_red_posting.gif" class="icon" alt="" title="">
+                <h3 class="iconTitle">SECURITY</h3>
+                <div class="clear"></div>
+                <img src="images/misc/tl_spacer.gif" class="icon" width="45" height="45" alt="" title="">
+                <div class="faqAnswer">
+	                <p>This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. All transactions are placed on our secure server and are encrypted with full 128-bit encryption. All transactions must be placed with a secure browser for customers to take advantage of this secure service.</p>
+                </div>
+                <div class="clear"></div>
+            </div>
+            <!--posting finish --->
 
-<!--posting start --->
-<div class="posting faq"><img src="images/misc/tl_icon_red_posting.gif" class="icon" alt="" title="">
-<h3 class="iconTitle">OPT-OUT POLICY</h3>
-<div id="clear"></div>
-<img src="images/misc/tl_spacer.gif" class="icon" width="45" height="45" alt="" title="">
-<div class="faqAnswer">
-<p>You may choose to opt-out of receiving future communications from www.las-vegas-theater.com. If you do not want to receive our event newsletters or special offers, simply fill out the <a href="http://www.las-vegas-theater.com/users/unsubscribe.php?email=">unsubscribe form</a>.</p>
-</div>
+			<!--posting start --->
+            <a name="optout"></a>
+            <div class="postingLeftPad">    
+				<img src="images/misc/tl_icon_red_posting.gif" class="icon" alt="" title="">
+                <h3 class="iconTitle">OPT-OUT POLICY</h3>
+                <div class="clear"></div>
+                <img src="images/misc/tl_spacer.gif" class="icon" width="45" height="45" alt="" title="">
+                <div class="faqAnswer">
+	                <p>You may choose to opt-out of receiving future communications from Las Vegas Theater. If you do not want to receive our event newsletters or special offers, simply fill out the <a href="http://www.las-vegas-theater.com/users/newsletters/unsubscribe.php?email=">unsubscribe form</a>.</p>
+                </div>
+                <div class="clear"></div>
+            </div>
+            <!--posting finish --->
 
-<div id="clear"></div>
-</div>
-<!--posting finish --->
-
-<!--posting start --->
-<div class="posting faq"><img src="images/misc/tl_icon_red_posting.gif" class="icon" alt="" title="">
-<h3 class="iconTitle">CONTACT US</h3>
-<div id="clear"></div>
-<img src="images/misc/tl_spacer.gif" class="icon" width="45" height="45" alt="" title="">
-<div class="faqAnswer">
-<p>If you have any questions about this privacy statement or the security practices of this site, please <a href="http://www.las-vegas-theater.com/customer-support/leaving_feedback.php">contact us</a>.</p>
-     </div>
-          
-          <!--posting finish --->
-          <p></p>
-          
-          <div id="clear"></div>
-        </div>
-        <div id="clear"></div>
+			<!--posting start --->
+            <div class="postingLeftPad">    
+				<img src="images/misc/tl_icon_red_posting.gif" class="icon" alt="" title="">
+                <h3 class="iconTitle">CONTACT US</h3>
+                <div class="clear"></div>
+                <img src="images/misc/tl_spacer.gif" class="icon" width="45" height="45" alt="" title="">
+                <div class="faqAnswer">
+	                <p>If you have any questions about this privacy statement or the security practices of this site, please <a href="http://www.las-vegas-theater.com/customer-support/leaving_feedback.php">contact us</a>.</p>
+                </div>
+                <div class="clear"></div>
+            </div>
+            <!--posting finish --->
+        
+        <div class="clear"></div>
       </div>
-    
-
+	</div>
 	<!---/main theatre block -->
+
 	<!-- right banner -->
 	<div id="contentRight" class="contentRight">
-		      <div id="whatsOn" class="whatsOnBg"> <img src="/images/headings/tl_heading_whatson.gif" class="heading1" alt="WHAT'S ON" title="">
-
+		    <div id="whatsOn"> <h2 class="heading1">WHAT'S ON</h2>
         <p class="white">View all events on:</p>
-		<div style="margin-top: 14px; margin-bottom: 14px; height:135px; width: 144px; background-color:#FFFFFF;" id="eventsCalendar" name="eventsCalendar"></div>
-		<a id="eventsCalendarA" name="eventsCalendarA"></a><a>
-        </a><p class="findShow"><a>
-        	<img src="/images/misc/tl_help_icon.gif" class="helpIcon" alt="" title="">
-        	</a><a href="customer-support/index.php" class="white">Need help with<br>your purchase? »</a>
+        <div id="eventsCalendarNew" name="eventsCalendarNew"></div>
+        <a id="eventsCalendarA" name="eventsCalendarA"></a>
+        <p class="findShow">
+            <img src="http://static.las-vegas-theater.com/images/misc/tl_help_icon_red.gif" class="helpIcon" alt="" title="">
+            <a href="/customer-support/booking_tickets.php" class="white">Need help with<br>your purchase? »</a>
         </p>
-      </div>
-	
-    
-
-   <div id="eNews" class="eNewsBg"> <img src="/images/headings/tl_heading_enews.gif" class="heading1" alt="E-NEWS SIGN UP" title="">
-      	<form method="POST" action="/users/newsletter_presubscribe.php" name="fENews">
-			<input onclick="this.select();" name="address" id="address" class="inputBox" type="text" value="Email Address" size="19">
-			<p><a href="javascript:submitENews();" class="white">Sign Up »</a></p>
+    </div>
+			<a href="/theaters/caesars-palace-colosseum/elton-john.php">		<div id="adRightLarge">			<img src="http://static.las-vegas-theater.com/images/show/02373_show_square_poster.jpg" class="adRightLarge" alt="Buy tickets for Elton John at Caesars Palace" title="Buy tickets for Elton John at Caesars Palace">			<div class="adContent"><p class="nowshowing">NOW SHOWING</p><p class="book">BOOK TICKETS</p>			</div>		</div>	</a>	<div id="eNews">         <h2 class="heading1">NEWSLETTER</h2>
+        <form method="POST" action="/users/newsletters/subscribe-process.php" name="fENews">
+            <input type="hidden" id="rhs-posted" name="rhs-posted" value="1">
+            <input type="hidden" name="rhs-siteCode" id="rhs-siteCode" value="lvt">
+            <input type="hidden" name="rhs-frmSrc" id="rhs-frmSrc" value="rhs advert"> 
+            <input onclick="this.select();" name="address" id="address" class="inputBox" type="text" value="Email Address" size="19">
+            <p><a href="javascript:submitRHSNews();" class="white">Sign Up »</a></p>
         </form>
-        <script>
-        	function submitENews() {
-				if (document.fENews.address.value=="") {
-					alert("Please enter your email address");
-					return;
-		 		}
-		 		document.fENews.submit();
-		 	}
-		 </script>
-      </div>
-      <div id="clear"></div>
-      <div style="padding: 7px 0px 0px 0px; vertical-align: middle; text-align: center;">
-<!-- ca-pub-0869762933844762/Lvt_All_Bottom_Right_160x600 -->
-<script type="text/javascript">
-GA_googleFillSlot("Lvt_All_Bottom_Right_160x600");
-</script>
-	  </div>
-      <div id="clear"></div>
+	</div>
+	<div id="clear"></div>
+    
+ 
+    <div id="adRightGoogle">
+		<div id="lvt_ad_bottom_right" style="width:160px; height:600px;">
+		<script type="text/javascript">
+		googletag.cmd.push(function() { googletag.display('lvt_ad_bottom_right'); });
+		</script>
+		</div>
+	</div>
+
+
 	</div>
 	<!-- //right banner -->
-    <div id="clear"></div>
-  </div>
+    <div class="clear"></div>
 </div>
+
 <!-- base navigation -->
-	<div class="baseLinks">
-  <p>
-	<a href="hotels.php" class="white">Hotels</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-	<a href="common/sitemap.php" class="white">Sitemap</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-	<a href="common/faqs.php" class="white">FAQs</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-	<a href="common/about_us.php" class="white">About Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-    <a href="/users/profile_details.php" class="white">Newsletter</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-	<a href="common/privacy.php" class="white">Privacy Policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-    <a href="promotions/index.php" class="white">Advertise</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-	<a href="customer-support/index.php" class="white">Customer Support</a>
-</p>
-  <p>
-  	Theater Cities in:
-	<a href="/common/theatreland-collection-us-west-coast.php" class="white">West Coast »</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-    <a href="/common/theatreland-collection-us-east-coast.php" class="white">East Coast »</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-    <a href="/common/theatreland-collection-us-central.php" class="white">Central »</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-	<a href="/common/theatreland-collection-canada.php" class="white">Canada »</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-	<a href="/common/theatreland-collection-uk-london.php" class="white">London »</a>
-</p>
-<p><strong>Please note:</strong> This site is independently owned and operated and in no way affiliated to any venue or production company</p>
+	<!--footer -->
+<div class="footer">
+<div class="baseLinks">
+    <a href="/common/worry_free_guarantee.php">
+             <div class="worryFree">		
+				<h4 class="worry-free"><span>Worry-free guarantee</span></h4>
+				<ul>
+					<li>Certified secure checkout</li>
+					<li class="even">Phone customer support</li>
+					<li>125% money back guarantee</li>
+				</ul>
+             </div>
+     </a> 
+     <div class="footerBlock quickLinks">
+      <h2 class="heading1"><img src="http://static.las-vegas-theater.com/images/misc/tl_listing_star.png" class="listingStar hovNav">Quick Links</h2>
+      <p><a href="/common/about_us.php">About Us</a></p>
+      <p><a href="/common/faqs.php">FAQs</a></p>
+      <p><a href="/common/privacy.php">Privacy Policy</a></p>
+      <p><a href="/common/terms.php">Terms &amp; Conditions</a></p>
+      <!--<p><a href="#">Terms & Conditions</a></p>-->
+      <p></p>
+      <p><a href="/promotions/">List Your Show</a></p>
+      <p><a href="/common/advertise.php">Advertise</a></p>
+      <p></p>
+      <p><a href="/users/newsletters/subscribe.php">Subscribe For Updates</a></p>
+      <p><a href="/customer-support/index.php">Contact Us</a></p>
+      <p><a href="/users/login.php">Login to My Theatreland</a></p>
+  
+    </div>
+
+    <div class="footerBlock tl"><a href="/common/theatreland-collection.php"> <img src="http://static.las-vegas-theater.com/images/misc/tl_theatreland_logo.gif" alt="theatreland logo"></a>
+
+      <p><a href="/common/theatreland-collection.php">Las Vegas Theater is part of the Theatreland Ltd Collection. Established in 2003, Theatreland offers the largest individual collection of websites providing complete, impartial guides to all the theatrical, musical and performance arts events and venues in the world's greatest theatre cities, from New York's Broadway to London's West End and from the showrooms of Las Vegas to Shakespeare's Globe Theatre.</a></p>
+
+    </div>
+
+    <div id="clear"></div>
+
+    <p>Please note: This site is independently owned and operated and in no way affiliated to any venue or production company</p>
+
+    <div id="clear"></div>
+
+  </div>
+
 </div>
+<!--footer -->
+<!--Start Cookie Layer -->
+<div id="cookie-layer">
+	<div id="cookie-content">
+        <p id="hide-cookie-layer"><a href="#" class="accept-cookie">Close X</a></p>
+        <p>We use cookies to make this site as useful as possible. Cookies are small text files we put in your browser to track usage of our site and give you a better experience. By viewing our content, you are accepting the use of cookies. You can change these settings or learn more about <a href="/common/privacy_cookies.php">how we use cookies</a> by using the link at the bottom of any page at any time.</p>
+	</div>
+</div>
+<!--End Cookie Layer -->
+<!-- Quantcast Tag -->
 <script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-56287-3");
-pageTracker._setDomainName('none');
-pageTracker._setAllowLinker(true);
-pageTracker._trackPageview();
-} catch(err) {}</script>
-<script>
-	var now = new Date();
-	now.setDate(now.getDate()-1);
-	var myCal = new CalendarPopup("eventsCalendar");
-	myCal.setTodayText("");
-	myCal.addDisabledDates(null,formatDate(now,"yyyy-MM-dd"));
-	myCal.setCssPrefix("nyct_");
-	myCal.setReturnFunction('searchDates');
-	myCal.showCalendar('eventsCalendarA');
-	function searchDates(year, month, day){
-		document.location ='/common/events_calendar.php?year='+year+'&month='+month+'&day='+day;
-	}
+var _qevents = _qevents || [];
+
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+
+_qevents.push({
+qacct:"p-WQ0LtHe5Ux_dq"
+});
 </script>
 
-
-<!-- Google Code for Las Vegas Visitors Remarketing List -->
-<script type="text/javascript">
-/* <![CDATA[ */
-var google_conversion_id = 955483124;
-var google_conversion_language = "en";
-var google_conversion_format = "3";
-var google_conversion_color = "ffffff";
-var google_conversion_label = "9D_uCOSl5QMQ9IfOxwM";
-var google_conversion_value = 0;
-/* ]]> */
-</script>
-<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
-</script>
 <noscript>
-<div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/955483124/?value=0&amp;label=9D_uCOSl5QMQ9IfOxwM&amp;guid=ON&amp;script=0"/>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-WQ0LtHe5Ux_dq.gif" border="0" height="1" width="1" alt="Quantcast"/>
 </div>
 </noscript>
+<!-- End Quantcast tag -->
 <!-- /base navigation -->
 
 
