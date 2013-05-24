@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nbc-2.com privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114223457id_/http%3A//www.nbc-2.com/global/story.asp%3Fs%3D18990) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbc-2.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524233101id_/http%3A//www.nbc-2.com/global/story.asp%3Fs%3D18990) for the most accurate reproduction.*
 
 # This Web Site’s Privacy Policy - NBC-2.com WBBH News for Fort Myers, Cape Coral & Naples, Florida
 
