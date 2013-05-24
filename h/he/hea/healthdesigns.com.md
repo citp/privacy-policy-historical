@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthdesigns.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122182819id_/http%3A//www.healthdesigns.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthdesigns.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524193724id_/http%3A//www.healthdesigns.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | healthdesigns.com - Your Health Is Here
 
