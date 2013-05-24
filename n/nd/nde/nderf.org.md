@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nderf.org privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123075852id_/http%3A//www.nderf.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nderf.org privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524064523id_/http%3A//www.nderf.org/privacy.htm) for the most accurate reproduction.*
 
 # Privacy
 
@@ -8,7 +8,7 @@
 
 recognizes that respecting user privacy over the Internet is of utmost importance. This privacy statement is designed to provide information about the privacy and data collection practices for the site:  http://www.nderf.org. The Site is operated by  Experience Research Foundation.
 
-If you have questions or concerns regarding this statement, you should first contact our site coordinator at blueheron78@yahoo.com or by postal mail to:
+If you have questions or concerns regarding this statement, you should first contact our site coordinator at  or by postal mail to:
 
   * NDERF
   * P.O. Box 20238
