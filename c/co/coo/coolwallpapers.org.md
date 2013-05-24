@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolwallpapers.org privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031104829id_/http%3A//www.coolwallpapers.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolwallpapers.org privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524134958id_/http%3A//www.coolwallpapers.org/privacy.php) for the most accurate reproduction.*
 
 # Wallpapers
 
@@ -41,3 +41,6 @@ If we make changes to this policy, we will let members know by posting mention o
 ### Contact Wallpapers
 
 If you have questions not answered in this policy in regards to the daily running of this site, please feel free to email at _info@coolwallpapers.org_
+
+  
+
