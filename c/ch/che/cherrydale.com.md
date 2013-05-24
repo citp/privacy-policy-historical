@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cherrydale.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225015947id_/https%3A//www.cherrydale.com/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cherrydale.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524224812id_/https%3A//www.cherrydale.com/Privacy_Policy) for the most accurate reproduction.*
 
 # Cherrydale Farms Fundraising - School Fundraiser, School Fundraising Ideas and More
 
