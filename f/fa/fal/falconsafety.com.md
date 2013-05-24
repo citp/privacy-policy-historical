@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the falconsafety.com privacy policy that was archived on 2012-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120817005120id_/http%3A//www.falconsafety.com/%3Fpage_id%3D785) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the falconsafety.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524191213id_/http%3A//www.falconsafety.com/%3Fpage_id%3D785) for the most accurate reproduction.*
 
 # Falcon Safety
 
-### [Privacy Policy](http://www.falconsafety.com/?page_id=785)
+### [Privacy Policy](http://www.falconsafety.com/privacy-policy)
 
 **Binding Agreement.** Falcon Safety Products, Inc., (“Falcon Safety Products”) is providing this Privacy Policy to explain our data collection and use practices. By using or accessing this website or any of our other websites: dust-off.com, dustoffzone.com, falconsafety.com, shopfalcon.com, Falconsignalhorns.com, you agree to this privacy policy as in effect at the time of such access. (the “Sites”) IF YOU DO NOT AGREE TO THIS PRIVACY POLICY DO NOT ACCESS OR OTHERWISE USE THE SITES. You should carefully review this Privacy Policy
 
@@ -44,4 +44,4 @@ Falcon Safety shall only make Onward Transfers of personally-identifiable inform
 
 [](http://www.falconsafety.com/?page_id=56/)
 
-[](http://www.falconsafety.com/?page_id=24&cat=7&year=2012/)
+[](http://www.falconsafety.com/news-events)
