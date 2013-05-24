@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lowendmac.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920002127id_/http%3A//www.lowendmac.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lowendmac.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524124532id_/http%3A//lowendmac.com/privacy.html) for the most accurate reproduction.*
 
 # Low End Mac Privacy Policy
 
@@ -7,8 +7,6 @@
 ## Low End Mac's Privacy Policy
 
 #### Low End Mac Reader Specials
-
-[Macsales](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/874/clickHTML?ajkey=E7BB0120CF3A96D6CFF1EDE200001EB9000055D200000CEA00001B6AFFFFFF91FFFFFF91FFFFFFFFE7E82671) for the Right Mac Memory. Easy to Use Online Guide for no Guesswork! Mac Pro up to 128GB, iMac up to 32GB. MacBook/MB Pro, & Mac mini up to 16GB. - [Macsales.com](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/874/clickHTML?ajkey=E7BB0120CF3A96D6CFF1EDE200001EB9000055D200000CEA00001B6AFFFFFF91FFFFFF91FFFFFFFFE7E82671)
 
 International privacy standards require businesses to:
 
@@ -31,15 +29,16 @@ We do not use any type of cookies on Low End Mac, although BackBeat Media (which
 
 [Dan Knight](https://web.archive.org/email/dan-knight.htm) , publisher, Low End Mac
 
-[Low End Mac](https://web.archive.org/) is an independent publication and has not been authorized, sponsored, or otherwise approved by Apple Inc. Entire Low End Mac website copyright ©1997-2012 by [Cobweb Publishing, Inc.](https://web.archive.org/cobweb/) unless otherwise noted. All rights reserved. Low End Mac, LowEndMac, and lowendmac.com are trademarks of Cobweb Publishing Inc. Apple, the Apple logo, Macintosh, iPad iPhone, iMac, iPod, MacBook, MagSafe, Mac Pro, Apple TV, and AirPort are [registered trademarks of Apple Inc.](http://www.apple.com/legal/trademark/) Additional company and product names may be trademarks or registered trademarks and are hereby acknowledged.  
-  Advice is presented in good faith, but what works for one may not work for all. Please report errors to [webmaster](mailto:lowendmac@gmail.com) .  
+Low End Mac is an independent publication and has not been authorized, sponsored, or otherwise approved by Apple Inc. Opinions expressed are those of their authors and may not reflect the opinion of Cobweb Publishing. Advice is presented in good faith, but what works for one may not work for all.  
+  Entire Low End Mac website copyright ©1997-2013 by [Cobweb Publishing, Inc.](https://web.archive.org/cobweb/) unless otherwise noted. All rights reserved. Low End Mac, LowEndMac, and lowendmac.com are trademarks of Cobweb Publishing Inc. Apple, the Apple logo, Macintosh, iPad, iPhone, iMac, iPod, MacBook, Mac Pro, and AirPort are [registered trademarks of Apple Inc.](http://www.apple.com/legal/trademark/) Additional company and product names may be trademarks or registered trademarks and are hereby acknowledged.  
+  Please report errors to [webmaster](mailto:lowendmac@gmail.com) .  
   [LINKS](https://web.archive.org/link.shtml): We allow and encourage links to any public page as long as the linked page does not appear within a frame that prevents bookmarking it.  
-  Email may be published at our discretion unless marked "not for publication"; email addresses will not be published without permission, and we will encrypt them in hopes of avoiding spammers. Letters may be edited for length, context, and to match [house style](https://web.archive.org/styleguide/index.shtml).  
-  [PRIVACY](https://web.archive.org/privacy.html): We don't collect personal information unless you explicitly provide it. For more details, see our [Terms of Use.](https://web.archive.org/terms.html)
+  Email may be published at our discretion unless marked "not for publication"; email addresses will not be published without permission, and we will encrypt them in hopes of avoiding spammers. Letters may be edited for length, context, and to match house style.  
+  [PRIVACY](https://web.archive.org/privacy.html): We don't collect personal information unless you explicitly provide it, and we don't share the information we have with others. For more details, see our [Terms of Use.](https://web.archive.org/terms.html)
 
 | 
-* Mac of the Day: [Macintosh IIx](https://web.archive.org/ii/macintosh-iix.html), introduced 1988.09.19. The first Mac to use a 68030 CPU, high density floppy drive.
-* List of the Day: [PowerBooks](http://lowendmac.com/lists/powerbooks.shtml) covers all pre-G3 PowerBooks, 680x0 and PowerPC.  
+* Mac of the Day: [Centris 610](https://web.archive.org/quadra/centris-610.html), introduced 1993.02.10. This was the Mac we used when we started Low End Mac in 1997.
+* List of the Day: [LEM Swap](http://lowendmac.com/lists/swap.html) is where users can buy, sell, and swap Mac-related goods.  
 
  **Channels**  
  [Power Macs](https://web.archive.org/ppc/index.shtml)  
