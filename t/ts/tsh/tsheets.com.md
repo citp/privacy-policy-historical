@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tsheets.com privacy policy that was archived on 2012-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120713041210id_/http%3A//www.tsheets.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tsheets.com privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525003501id_/http%3A//tsheets.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Web TimeSheet Software, Time Tracking Software, Time Sheets, Online TimeSheet
+# Mobile and Secure Online Timesheets and Employee Time Tracking Tools
 
 ## Privacy Policy Overview
 
