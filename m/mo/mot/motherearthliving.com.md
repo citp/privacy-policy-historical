@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the motherearthliving.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616165457id_/http%3A//www.motherearthnews.com/help/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motherearthliving.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524135854id_/http%3A//www.motherearthliving.com/help/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Ogden Publications Privacy Policy
+# Privacy Policy
 
 ## Ogden Publications, Inc. Privacy Policy
 
