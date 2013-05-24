@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thegrocerygame.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614090229id_/http%3A//www.thegrocerygame.com/security-information/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegrocerygame.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524085934id_/http%3A//www.thegrocerygame.com/security-information/privacy) for the most accurate reproduction.*
 
 # Security Information - Privacy Statement - The Grocery Game
 
@@ -96,32 +96,32 @@ From time to time, we may update this privacy notice. We will notify you about m
 
 The Privacy Notice posted on this site was updated on or about December 29, 2004. 
 
-## HAVE YOU TRIED TERI'S LIST?
+## Save 67% or more on groceries by joining The Grocery Game
 
 Enter your zip to find out which stores are available.  
 ZIP CODE[NEXT ](https://web.archive.org/sign-up/try-teris-list-free-for-4-weeks/index.cfm)
 
-  * 25,630
+  * 20,291
 
-###### Deals Valid Today in US and Canada
+###### Deals Valid Today in the US
 
-  * 15,378
+  * 12,175
 
 ###### Unadvertised Sales this week
 
-  * 176,206
+  * 117,695
 
 ###### Deals Members Shopped For This Week
 
-  * $555,586
+  * $381,919
 
 ###### Amount Members Saved this week
 
-  * 141
+  * 131
 
-###### Local lists in US and Canada
+###### Local lists in the US
 
-  * $2,303,243
+  * $1,527,611
 
 ###### Amount Members Saved this month
 
@@ -130,16 +130,16 @@ ZIP CODE[NEXT ](https://web.archive.org/sign-up/try-teris-list-free-for-4-weeks/
 
 ## FOLLOW US
 
-## GET FREE WEEKS
+## REFER FRIENDS
 
-Receive 12 free weeks for every 3 friends who join.
+Earn $5 account credit for each friend who joins. 
 
 FRIEND'S EMAIL  
   
-RULES [INVITE](https://web.archive.org/inc-referral-form.cfm)
+RULES [INVITE](https://web.archive.org/share/refer-friends/?friendEmail=)
 
 ## MORE SAVINGS
 
 [ ](https://web.archive.org/app/teris-coupon-tracker/) [ ](https://web.archive.org/app/teris-coupon-center/) [ ](http://teritoday.thegrocerygame.com/)
 
-© 2012 The Grocery Game, Inc. All rights reserved.
+© 2013 The Grocery Game, Inc. All rights reserved.
