@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the hootlet.com privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519134625id_/http%3A//hootsuite.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hootlet.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524233336id_/https%3A//hootsuite.com/privacy) for the most accurate reproduction.*
 
-# HootSuite - Social Media Dashboard for Teams using Twitter, Facebook, Linkedin
+# Privacy Policy - HootSuite Media
+
+## HootSuite Privacy Policy
 
 We collect the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, and information volunteered by the consumer (such as survey information and/or site registrations). The information we collect is used to improve the content of our Web pages and the quality of our service, and is not shared with or sold to other organizations for commercial purposes, except to provide products or services you've requested, when we have your permission, or under the following circumstances:
 
@@ -9,14 +11,14 @@ We collect the e-mail addresses of those who communicate with us via e-mail, agg
 
 
 
-## Information Gathering and Usage
+**Information Gathering and Usage**
 
   1. When you register for HootSuite we ask for information such as your name, company name, email address, billing address, credit card information. Members who sign up for the free account are not required to enter a credit card.
   2. HootSuite Media Inc. uses collected information for the following general purposes: products and services provision, billing, identification and authentication, services improvement, contact, advertising and research.
 
 
 
-## Cookies
+**Cookies**
 
   1. A cookie is a small amount of data, which often includes an anonymous unique identifier, that is sent to your browser from a web site's computers and stored on your computer's hard drive.
   2. Cookies are required to use the HootSuite service.
@@ -24,20 +26,29 @@ We collect the e-mail addresses of those who communicate with us via e-mail, agg
 
 
 
-## Data Storage
+**Data Storage**
 
 HootSuite Media Inc. uses third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run HootSuite. Although HootSuite Media Inc. owns the code, databases, and all rights to the HootSuite application, you retain all rights to your data.
 
-## Disclosure
+**Disclosure**
 
   1. HootSuite Media Inc. may disclose personally identifiable information under special circumstances, such as to comply with subpoenas or when your actions violate the Terms of Service. 
 
 
 
-## Changes
+**Email Preferences**
+
+You can manage your email preferences, such as opt-out or unsubscribe from emails sent by HootSuite Media, Inc., by adjusting your preferences in your account settings. You can also opt-out or unsubscribe from any future email communications from within each email correspondence that we send you.
+
+**Changes**
 
 HootSuite Media Inc. may periodically update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your HootSuite primary account holder account or by placing a prominent notice on our site.
 
-## Questions
+**Questions**
 
-Any questions about this Privacy Policy should be addressed to support at [HootSuite.com](https://hootsuite.com/) or by mail at: HootSuite Media Inc., 37 Dunlevy Ave., Vancouver, BC, Canada V6A 3A3
+Any questions about this Privacy Policy should be addressed to HootSuite Twitter support at [@hootsuite_help](https://twitter.com/hootsuite_help) or by mail at:
+
+**HootSuite Media Inc.**  
+5 East 8th Avenue  
+Vancouver, BC, Canada  
+V5T 4S8
