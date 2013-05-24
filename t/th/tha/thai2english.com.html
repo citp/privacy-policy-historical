@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the thai2english.com privacy policy that was archived on 2012-10-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121010181107id_/http%3A//www.thai2english.com/about/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thai2english.com privacy policy that was archived on 2013-05-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130524071241id_/http%3A//www.thai2english.com/about/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -36,7 +36,8 @@
     <div id="headerSearchBar" style="background-color:#fff;  padding-bottom:10px; padding-top:10px; padding-left:320px; font-size:18px;">
        <form name="searchForm" method="post" onsubmit="return searchFor()">
     
-<a href="/online/dictionary" style="color:Black"><b>online thai - english dictionary</b></a>:  <input name="dictionaryLookup" type="text" id="dictionaryLookup" class="watermark" placeholder="search in thai or english...">
+<a href="/online/dictionary" style="color:Black"><b>online thai - english dictionary</b></a>:  
+<input name="dictionaryLookup" type="text" id="dictionaryLookup" class="watermark" placeholder="search in thai or english...">
             <input type="button" onclick="searchFor()" name="Submit" value=" Go " style="font-size:16px; vertical-align:middle; ">
 
 
@@ -63,26 +64,9 @@
 </div>
 <div id="balloonContainer" onmouseover="keepLayer()"></div>
 
+
+
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
-
-function openRowLink(thisPage)
-{
-	if (thisPage != "") 
-	{
-		var newLocation = "/search.aspx?q=" + encodeURIComponent(thisPage);
-		window.location = newLocation;
-	}
-}
-
-function searchFor() {
-	searchTerm = document.getElementById('dictionaryLookup').value;
-	openRowLink(searchTerm);
-	return false;
-}
-</script>
-
-
-<script type="text/javascript">
 
     var _gaq = _gaq || [];
     _gaq.push(['_setAccount', 'UA-287338-2']);
@@ -102,6 +86,36 @@ function searchFor() {
 <script type="text/javascript" src="/js/js-fonts.js"></script>
 
 
+
+
+<script type="text/javascript">
+
+function openRowLink(thisPage)
+{
+    if (thisPage != "") 
+    {
+        var newLocation = "/search.aspx?q=" + encodeURIComponent(thisPage);
+        window.location = newLocation;
+    }
+}
+
+function searchFor() {
+    searchTerm = document.getElementById('dictionaryLookup').value;
+    openRowLink(searchTerm);
+    return false;
+}
+
+$(function() {
+    $unspacedText = $("textarea#unspacedText");
+    if ($unspacedText.length) { $unspacedText.focus(); }
+    else {
+        if (navigator.userAgent.indexOf("MSIE") == -1) { 
+            $("#dictionaryLookup").focus();
+        }
+    }
+
+});
+</script>
 
 <div id="paddingContainer" style=" padding-right:20px; padding-left:10px; position:relative;">
 
