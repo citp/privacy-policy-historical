@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mmawarehouse.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122202158id_/http%3A//www.mmawarehouse.com/MMAWarehouse.com---MMA-Gear%252C-MMA-Clothing%252C-MMA-Shorts%252C-MMA-Gloves%252C-MMA-Shirts-and-more%2521/privacy-policy%2Cdefault%2Cpg.html%3Ffid%3Dcustomer-service) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mmawarehouse.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524084527id_/http%3A//www.mmawarehouse.com/MMAWarehouse.com---MMA-Gear%252C-MMA-Clothing%252C-MMA-Shorts%252C-MMA-Gloves%252C-MMA-Shirts-and-more%2521/privacy-policy%2Cdefault%2Cpg.html%3Ffid%3Dcustomer-service) for the most accurate reproduction.*
 
 # MMAWarehouse.com - MMA Gear, MMA Clothing, MMA Shorts, MMA Gloves, MMA Shirts and more!
 
@@ -66,7 +66,7 @@ This online privacy policy applies only to information collected through our web
 
 Terms and Conditions
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20121122202158id_/http%3A//www.mmawarehouse.com/MMAWarehouse.com---MMA-Gear%252C-MMA-Clothing%252C-MMA-Shorts%252C-MMA-Gloves%252C-MMA-Shirts-and-more%2521/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20130524084527id_/http%3A//www.mmawarehouse.com/MMAWarehouse.com---MMA-Gear%252C-MMA-Clothing%252C-MMA-Shorts%252C-MMA-Gloves%252C-MMA-Shirts-and-more%2521/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
 Your consent
 
