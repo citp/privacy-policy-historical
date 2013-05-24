@@ -1,11 +1,14 @@
-<!--The following is the downloaded HTML source of the adidas.com privacy policy that was archived on 2012-11-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121101000434id_/http%3A//www.adidas.com/us/content/privacypolicies) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the adidas.com privacy policy that was archived on 2013-05-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130524134955id_/http%3A//www.adidas.com/us/content/privacypolicies) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- ====================== Page Info ====================== --><!-- === Page Id: 4294940064 === --><!-- === Page Name: Privacy Policies === --><!-- ============================================================================== --><!-- =============== Page Sections and Cartridges info =============== --><!-- ====== Section 1 : Header-Section ====== --><!-- ========= Cartridge 1 : head ========= --><!-- ====== Section 2 : Center-Top-Section ====== --><!-- ========= Cartridge 1 : STATIC BREAD CRUMB ========= --><!-- ====== Section 3 : Center-Left-Section ====== --><!-- ========= Cartridge 1 : privacyPolicies_LeftNav ========= --><!-- ====== Section 4 : Center-Right-Section ====== --><!-- ========= Cartridge 1 : privacyPolicies ========= --><!-- ====== Section 5 : Footer-Section ====== --><!-- ========= Cartridge 1 : foot ========= --><!-- ========================= Starting Page Content ========================= --><head>
 		<title>adidas - Help Desk</title>
 		<meta name="keywords" content="adidas,privacy,policy, secure">
 		<meta name="description" content="Take a look at the latest styles at adidas.com.  See our newest styles at the official online adidas store.">
-		
+		<!--
+commonHeadContent.jsp
+-->
+
 
 
 
@@ -15,6 +18,11 @@
 
 	<meta property="fb:app_id" content="129087217170262">
 	<meta property="fb:admins" content="100002410377144">
+
+
+
+
+
 
 
 
@@ -45,7 +53,7 @@
 
 
 
-				<link href="http://www.adidas.com/us/theme1/adidas/css/style.min.css" rel="stylesheet" type="text/css">
+				<link href="http://www.adidas.com/us/theme1/adidas/css/style.min.css?v=1" rel="stylesheet" type="text/css">
 
 
 <!--[if IE 7]>
@@ -70,7 +78,7 @@
 
 
 
-				<link href="http://www.adidas.com/us/theme1/adidas/css/ie7.css" rel="stylesheet" type="text/css"/>
+				<link href="http://www.adidas.com/us/theme1/adidas/css/ie7.css?v=1" rel="stylesheet" type="text/css"/>
 
 <![endif]-->
 
@@ -94,10 +102,49 @@
 
 
 
-<script async="" src="https://d2xgf76oeu9pbh.cloudfront.net/b4c450e54fd0d2a70cfc592025a6c511.js" type="text/javascript"></script><script type="text/javascript" src="http://www.adidas.com/us/theme1/adidas/js/modernizr-2.5.2.custom.min.js"></script>
+
+<script async="" src="https://d2xgf76oeu9pbh.cloudfront.net/b4c450e54fd0d2a70cfc592025a6c511.js" type="text/javascript"></script><script type="text/javascript" src="http://www.adidas.com/us/theme1/adidas/js/modernizr-2.5.2.custom.min.js?v=1"></script>
+
+
+<script type="text/javascript">
+function loadInDocument(doesNotExist, jsSrc) {
+	if (doesNotExist) {
+		document.write(unescape('%3Cscript type="text/javascript" src="' + jsSrc + '"%3E%3C/script%3E'));
+	}
+}
+</script>
+
+<script type="text/javascript">
+	loadInDocument(!window.JSON, "//cdnjs.cloudflare.com/ajax/libs/json2/20110223/json2.min.js");
+	loadInDocument(!window.JSON, "//cdn.jsdelivr.net/json2/0.1/json2.min.js");
+	loadInDocument(!window.JSON, "/us/theme1/common/js/json2.js");
+</script>
+
 
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
-<script>if(!window.jQuery) document.write(unescape('%3Cscript type="text/javascript" src="/us/theme1/adidas/js/jquery-1.4.4.min.js"%3E%3C/script%3E'));</script><script type="text/javascript" src="/us/theme1/adidas/js/jquery-1.4.4.min.js"></script>
+
+<script type="text/javascript">
+	loadInDocument(!window.jQuery, "//ajax.aspnetcdn.com/ajax/jQuery/jquery-1.4.4.min.js");
+	loadInDocument(!window.jQuery, "//cdnjs.cloudflare.com/ajax/libs/jquery/1.4.4/jquery.min.js");
+	loadInDocument(!window.jQuery, "/us/theme1/adidas/js/jquery-1.4.4.min.js");
+</script><script type="text/javascript" src="//ajax.aspnetcdn.com/ajax/jQuery/jquery-1.4.4.min.js"></script><script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script><script type="text/javascript" src="/us/theme1/adidas/js/jquery-1.4.4.min.js"></script>
+
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/underscore.js/1.4.3/underscore-min.js"></script>
+
+<script type="text/javascript">
+	loadInDocument(!window._, "//cdn.jsdelivr.net/underscorejs/1.4.3/underscore-min.js");
+	loadInDocument(!window._, "/us/theme1/common/js/underscore-1.4.3.min.js");
+</script><script type="text/javascript" src="//cdn.jsdelivr.net/underscorejs/1.4.3/underscore-min.js"></script><script type="text/javascript" src="/us/theme1/common/js/underscore-1.4.3.min.js"></script>
+
+
+<script type="text/javascript">
+// configure underscorejs templating system to use different style b/c its default style conflicts with JSP.
+_.templateSettings = {
+	interpolate: /\<\@\=(.+?)\@\>/gim,		/* <@ title @> */
+	evaluate: /\<\@([\s\S]+?)\@\>/gim,		/* <@= console.log("blah") @*/
+	escape: /\<\@\-(.+?)\@\>/gim			/* <@- title @> */
+};
+</script>
 
 
 
@@ -119,7 +166,7 @@
 
 
 
-<script type="text/javascript" src="http://www.adidas.com/us/theme1/adidas/js/global.min.js"></script>
+<script type="text/javascript" src="http://www.adidas.com/us/theme1/adidas/../common/js/jquery.adidas.min.js?v=1"></script>
 
 
 
@@ -141,13 +188,74 @@
 
 
 
-<script type="text/javascript" src="http://www.adidas.com/us/theme1/adidas/js/script.min.js"></script>
- 
+
+<script type="text/javascript" src="http://www.adidas.com/us/theme1/adidas/js/library.min.js?v=1"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="http://www.adidas.com/us/theme1/adidas/js/adidas.min.js?v=1"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="http://www.adidas.com/us/theme1/adidas/js/script.min.js?v=1"></script>
+
 <noscript>
 	<p style="width:100%; font-size:12px; border-bottom:5px solid #ff3300; z-index:10000; background:#fff; padding:50px 0 white-space:nowrap">
- 		<strong>You can browse this site without having JavaScript enabled, but to experience the full benefits of the site, please enable JavaScript.</strong>
-  	</p>
+		<strong>You can browse this site without having JavaScript enabled, but to experience the full benefits of the site, please enable JavaScript.</strong>
+	</p>
 </noscript>
+
+<script type="text/javascript">
+$(document).ready(function(){
+	$.configureLog4jq({
+		enabled: true,
+		level : $.log4jqLevels.debug,
+		target : {
+			console : true
+		}
+	});
+});
+</script>
+
+
+
+
 
 <link rel="shortcut icon" href="/us/favicon.ico">
 
@@ -155,8 +263,11 @@
 
 
 
-	
-	
+
+<script type="text/javascript" src="//cdn.optimizely.com/js/142501655.js"></script>
+
+
+
 	
 	
 	
@@ -182,7 +293,7 @@
 
 
 
-<script type="text/javascript" src="http://www.adidas.com/us/theme1/adidas/js/cmcustom.js"></script>
+<script type="text/javascript" src="http://www.adidas.com/us/theme1/adidas/js/cmcustom.js?v=1"></script>
 
 	
 
@@ -204,14 +315,14 @@
 
 
 
-<script type="text/javascript" src="http://www.adidas.com/us/theme1/adidas/js/adidasAnalytics.js"></script>
+<script type="text/javascript" src="http://www.adidas.com/us/theme1/adidas/js/adidasAnalytics.js?v=1"></script>
 
 	  
 	<script type="text/javascript">
 		cmSetClientID("90297162;90297136",false,"metrics.adidas.com","metrics.adidas.com");
 		var coremetricsCountry = "US";
 		var coremetricsPageName = "ecom_helpdesk_privacyPolicy_privacyPolicy";
-		var coremetricsSplittestId = createSplitIdString('42421');
+		var coremetricsSplittestId = createSplitIdString('34232');
 		var staticExploreAttr = [coremetricsCountry
 								,''//Breadcrumbs
 								,''//Filters Applied
@@ -237,8 +348,6 @@
 								,''//Search term
 								];
 	</script>
-
-
 	</head>
 	<body>
 		
@@ -264,27 +373,15 @@
 
 <!-- ====================== Cartridge Info ====================== -->
 		<!-- === Cartridge Id: FullWidthBanner === -->
-		<!-- === Cartridge Name: head === --><!-- ========================= Cartridge's Section Info containing CMS content========================= --><!-- ======  cms_cartridge_id : head ====== --><!-- ======  promotional_banner : sitecontent.common.media.onesite_header.html ====== --><!-- ========================= Starting Cartridge Content ========================= -->
+		<!-- === Cartridge Name: head === --><!-- ========================= Cartridge's Section Info containing CMS content========================= --><!-- ======  cms_cartridge_id : head ====== --><!-- ======  promotional_banner : sitecontent.common.media.onesite_header.html ====== --><!-- ========================= Starting Cartridge Content ========================= --> 	
 
- 	
-
-
-
-	
 
 
 
 
 
 	
-
-
-
-
-
-
-
-
+		
 
 
 
@@ -308,59 +405,111 @@
  <!-- === Begin CMS Content === -->
 		<!-- === Content Path: http://localhost:8080/us/cms_content/adi/us/en/sitecontent/common/media/onesite_header.html === -->
 		
-			
-<script type="text/javascript">
-// TEMP
-if(typeof cmSetupOther === 'undefined') cmSetupOther = function(){};
-
+			 
+<script type="text/javascript"> 
+ 
 // disable Coremetrics impressions
+if(typeof cmSetupOther === 'undefined') cmSetupOther = function(){};
 cmSetupOther({"cm_TrackImpressions":""});
-
-// Coremetrics Element view funtion
+ 
+// Coremetrics Element view function
 function tagPageElement(inElCat,inElName) {
 	var exploreAttr = ['explore1' ,'explore2','explore3',coremetricsSplittestId];
 	tagElement(inElName,inElCat,exploreAttr);
 	return false;
 }
+ 
+function SetSubmitFormDate(a) {
+	var b = new Date,
+		d = "JAN FEB MAR APR MAY JUN JUL AUG SEP OCT NOV DEC".split(" ")[b.getMonth()],
+		c = b.getDate();
+	10 > c && (c = "0" + c);
+	b = b.getFullYear();
+	myForms = document.getElementById(a);
+	myForms.elements.SUBBED_DATE.value = c + "-" + d + "-" + b
+}
+ 
+function readCookie(a){var b=a+"=";var c=document.cookie.split(";");
+for(var d=0;d<c.length;d++){var e=c[d];while(e.charAt(0)==" ")e=e.substring(1,e.length);
+if(e.indexOf(b)==0)return e.substring(b.length,e.length)}return null}
+ 
+function SetCookie(cookieName,cookieValue,nDays) {
+var today = new Date();var expire = new Date();
+if (nDays==null || nDays==0) nDays=1;
+expire.setTime(today.getTime() + 3600000*24*nDays);
+document.cookie = cookieName+"="+escape(cookieValue)
++ ";expires="+expire.toGMTString();}
+ 
+// Page Topper global settings //
+var topper_pop_active=0;
+var topper_btn_name="topper_btn_FreeShipping";
+var topper_cookie_name="adiTopFS-2013-02";
+var topper_cookie_days=8;
+var topper_cookie_value= readCookie(topper_cookie_name);
+// force it on at all times
+// var topper_cookie_value="2";
+ 
 </script>
-
-<!-- Free shipping promo -->
+ 
 <script type="text/javascript" src="/us/cms_content/adi/us/en/sitecontent/home/media/jquery.validate.js"></script>
-
-<div id="free-shipping-promo">
-	<div class="content">
-		<div class="promo-1">
-			<p><a href="javascript:cPop('/us/promo/?promo=shop_sw_fs49_080112', height= 465, width=500)"><em>free shipping</em> on orders of $49</a></p>
-		</div>
-		<div class="promo-2">
-			<form name="formCH2" id="formCH2" method="post" action="http://ebm.adidasusnews.com/r/regf2" target="_blank">
+ 
+<link type="text/css" rel="stylesheet" href="/us/cms_content/adi/us/en/sitecontent/common/media/cmsContent_1304.css">
+ 
+<!--[if IE 7]>
+<link href="/us/cms_content/adi/us/en/sitecontent/common/media/cmsContent_ie7.css" _mce_href="/us/cms_content/adi/us/en/sitecontent/common/media/cmsContent_ie7.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+ 
+<style type="text/css"> 
+#topper-thing {
+  background-image:url(/us/cms_content/adi/us/en/marketingcontent/topper/media/Topper_Background_010413.jpg);
+}
+</style>
+ 
+<!-- Topper Thing -->
+<div id="topper-thing" style="display:none">
+    <div class="content">
+ 
+      <!-- BEGIN promo-1: the LEFT side -->
+      <div class="promo-1">
+        <div id="topper-email-form">
+ 
+		  <form name="formCH2" id="formCH2" method="post" action="http://ebm.adidasusnews.com/r/regf2" target="_blank">
 				<input type="hidden" name="aid" value="344098838">
 				<input type="hidden" name="n" value="198">
 				<input type="hidden" name="nc" value="SOURCE">
 				<input type="hidden" name="SOURCE" value="SITE">
 				<input type="hidden" name="nc" value="ACQUISITION_CAMPAIGN_ID">
 				<input type="hidden" name="ACQUISITION_CAMPAIGN_ID" value="EASY_HEADER">
-				<input type="hidden" name="SUBBED_DATE" value="30-JAN-2020">
+				<input type="hidden" name="SUBBED_DATE" value="%%_DT_TODAY%%">
 				<input type="hidden" value="SUBBED_DATE" name="nc" id="eebnc">
 				<input type="hidden" value="345395768" name="fsub" id="eebfsub">
 				<input type="hidden" name="SPORTINTEREST" value="20">
 				<input type="hidden" name="f" value="SPORTINTEREST|1|||bit|">
-				<div id="cta-checkbox" class="col">
-					<label for="email" class="promo-cta">SIGN UP FOR EMAIL &amp; SAVE:</label>
-				</div>
-				<div id="email-box" class="col">
-					<input type="text" name="email" id="email" onfocus="if(this.value==' shop@adidas.com'){this.value='';}else{this.select();}" onblur="if(this.value==''){this.value=' shop@adidas.com';}" value=" shop@adidas.com">
-					<p class="conditions">Offer valid for first time subscribers only.</p>
-				</div>
-				<div id="signup-col" class="col">
-					<input type="image" id="imgSubmit" src="/us/cms_content/adi/us/en/sitecontent/common/media/signup-btn.gif" width="72" height="15" alt="Click here to sign up">
-				</div>
-			</form>
-		</div>
-	</div>
+ 
+          <span id="topper-email-label" class="topper-email-text" style="display:block;font-size:12px;font-weight:bold;color:#fff;text-transform:uppercase;margin-top:3px;margin-bottom:3px;">
+          <img src="/us/cms_content/adi/us/en/marketingcontent/topper/media/ptop_sign_up.png" alt="">
+          </span>
+          <input name="email" id="email" type="text" value=" shop@adidas.com" onfocus="if(this.value==' shop@adidas.com'){this.value='';}else{this.select();}" onblur="if(this.value==''){this.value=' shop@adidas.com';}">
+          <span id="topper-email-submit" class="topper-email-text" style="display:block;font-size:12px;font-weight:bold;color:#fff;text-transform:uppercase;">
+          <input type="image" id="imgSubmit" src="/us/cms_content/adi/us/en/marketingcontent/topper/media/ptop_sign_up_button.png" alt="Click here to sign up">
+          </span>
+ 
+          </form>
+        </div>
+      </div>
+      <!-- END promo-1 -->
+ 
+      <!-- BEGIN promo-2: the RIGHT side -->
+      <div class="promo-2">
+      	<a href="javascript:cPop('/us/promo/?promo=shop_sw_fsnomin_040113',height=465,width=500)" onclick="tagManualLinkClick('/us/promo/?promo=shop_sw_fsnomin_040113&amp;cm_sp=global_header-_-topper-_-free_ship_promo_details','free_ship_promo_details')">
+      		<img alt="free shipping promotion note" border="0" src="/us/cms_content/adi/us/en/marketingcontent/topper/media/04012013_button_upgrade_text.jpg"></a>
+      </div>
+      <!-- END promo-2 -->
+ 
+    </div>
 </div>
-<script type="text/javascript">
-	$(document).ready(function(){
+<script type="text/javascript"> 
+	$(function(){
 		$("#formCH2").validate({
 			rules: {
 				email: {
@@ -371,55 +520,30 @@ function tagPageElement(inElCat,inElName) {
 			messages: {
 				email: {
 					required: "Please enter a valid email address",
-					minlength: "Please enter a valid email address",
+					minlength: "Please enter a valid email address"
 				}
 			}
 		});
-
-		var eebmonth = [];
-		eebmonth[0]="JAN";
-		eebmonth[1]="FEB";
-		eebmonth[2]="MAR";
-		eebmonth[3]="APR";
-		eebmonth[4]="MAY";
-		eebmonth[5]="JUN";
-		eebmonth[6]="JUL";
-		eebmonth[7]="AUG";
-		eebmonth[8]="SEP";
-		eebmonth[9]="OCT";
-		eebmonth[10]="NOV";
-		eebmonth[11]="DEC";
-
-		var now         = new Date();
-		var monthnumber = now.getMonth();
-		var monthname   = eebmonth[monthnumber];
-		var monthday    = now.getDate();
-		if (monthday < 10) {monthday = "0" + monthday; }
-		var year        = now.getFullYear();
-		var subbed_date = monthday+"-"+monthname+"-"+year;
-		myForms=document.getElementById("formCH2");
-		myForms.elements["SUBBED_DATE"].value = subbed_date;
+ 
+		SetSubmitFormDate("formCH2");
 	});
 </script>
+<!-- END Topper Thing -->
+ 
+ 
 <!-- header -->
 <div id="header">
-
+ 
 	<div id="headerContent">
-
-		<link type="text/css" rel="stylesheet" href="/us/cms_content/adi/us/en/sitecontent/common/media/cmsContent.css?n=sf">
-
-		<!--[if IE 7]>
-		<link href="/us/cms_content/adi/us/en/sitecontent/common/media/cmsContent_ie7.css" _mce_href="/us/cms_content/adi/us/en/sitecontent/common/media/cmsContent_ie7.css" rel="stylesheet" type="text/css" />
-		<![endif]-->
-
+ 
 		<div class="primaryNav">
-
+ 
 			<div class="logoHolder clearfix">
-
-				<a href="/us/" title="adidas.com" manual_cm_sp="global_header-_-top_left-_-adidas_logo"><img id="site_logo" src="/us/cms_content/adi/us/en/sitecontent/logos/media/adus_headerLogo.gif" alt="adidas logo" border="0"> </a>
+ 
+				<a href="/us/" title="adidas.com" id="adidas_logo_link" name="adidas_logo_link" manual_cm_sp="global_header-_-top_left-_-adidas_logo"><img id="site_logo" src="/us/cms_content/adi/us/en/sitecontent/logos/media/adus_headerLogo.gif" alt="adidas logo" border="0"> </a>
 				<a href="#" id="countrySelector" name="countrySelector"><img src="/us/cms_content/adi/us/en/sitecontent/common/media/country-us.gif" alt="United States"></a>
-
-				<div class="countryList">
+ 
+				<div id="countryList" class="countryList">
 					<ul>
 						<li><a class="country1" href="http://www.adidas.ca/shop" manual_cm_sp="global_header-_-country_list-_-canada" target="_BLANK"><span>Canada</span></a></li>
 						<li><a class="country2" href="http://www.adidas.de/shop" manual_cm_sp="global_header-_-country_list-_-germany" target="_BLANK"><span>Germany</span></a></li>
@@ -429,69 +553,76 @@ function tagPageElement(inElCat,inElName) {
 						<li><a class="country6" href="http://www.adidas.es/" manual_cm_sp="global_header-_-country_list-_-spain" target="_BLANK"><span>Spain</span></a></li>
 						<li><a class="country7" href="http://www.adidas.it/" manual_cm_sp="global_header-_-country_list-_-italy" target="_BLANK"><span>Italy</span></a></li>
 						<li><a class="country8" href="http://www.adidas.ru/shop" manual_cm_sp="global_header-_-country_list-_-russia" target="_BLANK"><span>Russia</span></a></li>
-						<!--li><a class="country9" href="http://shop.adidas.jp/pc/" manual_cm_sp="global_header-_-country_list-_-japan" target="_BLANK"><span>Japan</span></a></li-->
+						<li><a class="country12" href="http://shop.adidas.jp/pc/" manual_cm_sp="global_header-_-country_list-_-japan" target="_BLANK"><span>Japan</span></a></li>
+						<li><a class="country14" href="http://shop.adidas.co.kr/" manual_cm_sp="global_header-_-country_list-_-korea" target="_BLANK"><span>Korea</span></a></li>
+						<li><a class="country10" href="http://shop.adidas.cn/" manual_cm_sp="global_header-_-country_list-_-china" target="_BLANK"><span>China</span></a></li>
+						<li><a class="country13" href="http://www.adidas.co/shop" manual_cm_sp="global_header-_-country_list-_-colombia" target="_BLANK"><span>Colombia</span></a></li>
+						<li><a class="country11" href="http://www.adidas.com.br/shop" manual_cm_sp="global_header-_-country_list-_-brazil" target="_BLANK"><span>Brazil</span></a></li>
 					</ul>
 				</div>
-
+ 
 			</div>
-
+ 
 		</div>
-
+ 
 		<div id="headerRight">
-
+ 
 			<div class="cart_searchBoxWrapper">
-
+ 
 				<link href="/us/theme1/adidas/js/autocomplete/jquery.autocomplete.css" rel="stylesheet" type="text/css">
 				<script language="JavaScript" type="text/javascript" src="/us/theme1/adidas/js/autocomplete/jquery.autocomplete.js"></script>
 				<script type="text/javascript">
 					function checkSearchTextBox() {
-					if($("#searchTextBox").val()=='') {
+					  if($("#searchTextBox").val()=='') {
 						document.getElementById('searchTextBox').value="Keyword Search";
+					  }
 					}
-					}
-
+ 
 					function funcClick() {
-					var v_SearchText = $.trim($("#searchTextBox").val());
-					if(v_SearchText!='' && v_SearchText!='Keyword Search') {
+					  var v_SearchText = $.trim($("#searchTextBox").val());
+					  if(v_SearchText!='' && v_SearchText!='Keyword Search') {
+						tagPageElement('SEARCH:FUNCCLICK',v_SearchText);
 						document.search.submit();
-					} else {
+					  } else {
 						return false;
+					  }
 					}
-					}
-
-					function funcEnter() {
-					document.search.submit();
-					}
-
+ 
+					// function funcEnter() {
+					//   document.search.submit();
+					// }
+ 
 					function funcClear(obj) {
-					if(obj.value=='Keyword Search') {
+					  if(obj.value=='Keyword Search') {
 						obj.value='';
+					  }
 					}
-					}
-
+ 
 					// UER-3813 changes start
 					function checkSubmit(obj,e){
-					var eventObj = window.event?window.event:e;
-					if(eventObj.keyCode==13 && ($.trim(obj.value)=='' || $.trim(obj.value)=='Keyword Search')) {
+					  var eventObj = window.event?window.event:e;
+					  if(eventObj.keyCode==13 && ($.trim(obj.value)=='' || $.trim(obj.value)=='Keyword Search')) {
 						eventObj.returnValue=false;
-					}else if(eventObj.keyCode==13 ){
+					  }else if(eventObj.keyCode==13 ){
 						obj.value = $.trim($("#searchTextBox").val());
+						tagPageElement('SEARCH:CHECKSUBMIT',obj.value);
 						document.search.submit();
+					  }
 					}
-					}
-
+ 
 					function onEnter(obj,e){
-					var eventObj = window.event?window.event:e;
-					if(eventObj.keyCode==13){
+					  var eventObj = window.event?window.event:e;
+					  if(eventObj.keyCode==13){
 						obj.value= $.trim($("#searchTextBox").val());
+						tagPageElement('SEARCH:ONENTER',obj.value);
 						document.search.submit();
+					  }
 					}
-					}
-
+ 
 					function validateSubmit() {
 					// AUSO-745
-					var v_strServiceURL = "/us/setSearchParam";
-					jQuery.ajax({
+					  var v_strServiceURL = "/us/setSearchParam";
+					  jQuery.ajax({
 					     url:     v_strServiceURL,
 					     success: function(data) {
 					     },
@@ -499,15 +630,16 @@ function tagPageElement(inElCat,inElName) {
 					     async:   false,
 						 cache:   false
 					     /* AUSO-183: End */
-					});
-
+					  });
+ 
 					// AUSO-745
-					var v_SearchText = $.trim($("#searchTextBox").val());
-					if(v_SearchText!='' && v_SearchText!='Keyword Search') {
+					  var v_SearchText = $.trim($("#searchTextBox").val());
+					  if(v_SearchText!='' && v_SearchText!='Keyword Search') {
+						tagPageElement('SEARCH:VALIDATESUBMIT',v_SearchText);
 						return true;
-					} else {
+					  } else {
 						return false;
-					}
+					  }
 					}
 				</script>
 				<form method="get" action="/us/N" name="search" id="searchBox" onsubmit="return validateSubmit();">
@@ -515,14 +647,14 @@ function tagPageElement(inElCat,inElName) {
 					<input name="" type="image" src="/us/cms_content/adi/us/en/sitecontent/common/media/global-search-submit-btn.gif" class="btnGO" alt="GO" id="GoButton" onclick="return funcClick()">
 					<script type="text/javascript">$("#searchTextBox").autocomplete("/us/typeahead",{selectFirst: false });</script>
 				</form>
-
+ 
 		 		<!-- Utility Links -->
 				<ul id="utility-links">
-					<li id="topsignup"><a href="http://ebm.adidasusnews.com/r/regf2?aid=344098838&amp;n=600&amp;a=0&amp;SOURCE=SITE&amp;ACQUISITION_CAMPAIGN_ID=SHOP_TOPNAV" manual_cm_sp="global_header-_-top_right-_-email_sign_up_save" target="_BLANK">Sign up &amp; Save</a></li>
+					<li id="topsignup"><a href="http://ebm.adidasusnews.com/r/regf2?aid=344098838&amp;n=600&amp;a=0&amp;SOURCE=SITE&amp;ACQUISITION_CAMPAIGN_ID=SHOP_TOPNAV" manual_cm_sp="global_header-_-top_right-_-email_sign_up_save" target="_BLANK" title="Sign up for email and save!">Sign up &amp; Save</a></li>
 					<li id="topstorelocator"><a manual_cm_sp="global_header-_-top_right-_-store_locator" href="/us/content/storelocator/">Store Locator</a></li>
 					<li id="login"><a href="/us/myaccount/show" manual_cm_sp="global_header-_-top_right-_-my_account">My Account</a> <a id="logout" class="hide" href="/us/logout" manual_cm_sp="global_header-_-top_right-_-logout">(logout)</a></li>
 				</ul>
-
+ 
 				<!--cart itmes start-->
 				<div class="cartDetail" id="cartItmesDiv">
 					<div id="checkout-count">
@@ -530,7 +662,7 @@ function tagPageElement(inElCat,inElName) {
 						<span class="cart-count">2 items</span>
 					</div>
 					<a id="cartLogo" href="/us/cart/show" manual_cm_sp="global_header-_-top_right-_-cart_logo"><img src="/us/cms_content/adi/us/en/sitecontent/common/media/adus_headerCartBG.gif" width="34" height="35" alt="adidas shopping bag" title=""></a>
-
+ 
 					<script language="Javascript" type="text/javascript">
 					//show logout link for logged in user
 					var userLoggedIn = getCookie('LG_F');
@@ -538,37 +670,33 @@ function tagPageElement(inElCat,inElName) {
 						document.getElementById("logout").className = "show";
 					}
 					// read cart count from cookie
-
+ 
 					var cart_cookie= getCookie('sa_P');
-
 					var cart_count = getCartCount(cart_cookie);
-
+ 
 					if(cart_count=='1')	{
-
 						$('#cartItmesDiv .cart-count').text(cart_count+' item');
-
 					}else{
-
 						$('#cartItmesDiv .cart-count').text(cart_count+' items');
 					}
-
+ 
 					</script>
 				</div><!--cart itmes end-->
-
+ 
 			</div>
-
-			<a href="" id="free-shipping-btn" name="free-shipping-btn" onclick="tagPageElement('HEAD:EXPAND','FreeShippingEmailSignUpOffer');"><img align="right" src="/us/cms_content/adi/us/en/sitecontent/common/media/free-shipping-btn.gif" width="143" height="26" alt="Free Shipping"></a>
-
+ 
+			<a href="" id="topper-tag-btn" name="topper-tag-btn" manual_cm_sp="global_header-_-top_right-_-topper_tag"><img id="topper-tag-img" align="right" src="/us/cms_content/adi/us/en/sitecontent/common/media/free-shipping-btn.gif" width="143" height="26" alt="Free Shipping"></a>
+ 
 			<script type="text/javascript">
-
+ 
 				$(function(){
-					var container = $('#free-shipping-promo'),
+					var container = $('#topper-thing'),
 						transforms = ( typeof Modernizr !== 'undefined' && Modernizr.csstransforms3d ) ? true : false;
-
+ 
 					if(!container.length) return;
-
+ 
 					container.removeAttr('style');
-
+ 
 					container.bind('close',function(){
 						if( transforms ) {
 							container.removeClass('open');
@@ -588,71 +716,151 @@ function tagPageElement(inElCat,inElName) {
 							container
 								.addClass('opening')
 								.stop()
-								.slideDown(function(){
+								.slideDown('slow',function(){
 									$(this)
 										.removeClass('opening')
 										.addClass('open');
 								});
 						}
 					});
-					$('#free-shipping-btn').bind('click',function(){
+					$('#topper-tag-btn').bind('click',function(){
 						if( container.hasClass('open') || container.hasClass('opening') ) {
 							container.trigger('close');
+							tagPageElement('HEAD:EXPAND',topper_btn_name+'_close');
 						} else {
-							container.trigger('open')
+							container.trigger('open');
+							tagPageElement('HEAD:EXPAND',topper_btn_name+'_open');
 						}
 						return false;
 					});
 				});
-
+ 
+				$(function(){
+				if(topper_pop_active==1){
+				if(topper_cookie_value=='1'){
+				}else{
+					var topperTag = $('#topper-tag-img');
+					// topperTag.attr('src',topperTag.attr('src').replace('_opener.','_closer.'));
+ 
+					var container = $('#topper-thing');
+					container.trigger('open');
+					SetCookie(topper_cookie_name,"1",topper_cookie_days);
+					tagPageElement('HEAD:EXPAND',topper_btn_name+'_auto_open');
+				}
+				}
+				});
+ 
 			</script>
-
+ 
 		</div>
-
+ 
 	</div>
-
+ 
 	<div class="mainNavigation" id="mainNavigationDiv">
-		<div class="mainNavigationContent">
-
+		<div id="mainNavigationDivL2" class="mainNavigationContent mainNavigationContentOptiTest">
+ 
 			<!-- Category -->
-			<ul class="category">
-				<li><a class="tab" href="/us/men/_/N-u2" manual_cm_sp="global_header-_-men-_-top_men" id="Men" title="Men's adidas"><span>Men</span></a>
-					<ul class="dropdownMenuWrapper men" style="display: none;">
+			<ul id="topCatGroup1" class="category categoryOptiTest">
+ 
+				<li id="liWrapMen" class="optiTest"><a class="tab" href="/us/men/_/N-u2" manual_cm_sp="global_header-_-men-_-top_men" id="Men" title="Men's adidas"><span>Men</span></a>
+ 
+					<ul id="dropdownMenuWrapperMenOptiTest" class="dropdownMenuWrapper men" style="display:none;">
 						<li>
 							<div class="columnDivider">
-								<h3>Category</h3>
+								<h3><a title="Men's Shoes" href="/us/shoes-men-s/_/N-svZu2" manual_cm_sp="global_header-_-men-_-shoes_header">Shoes</a></h3>
 								<ul class="subCategory">
-									<li><a href="/us/shoes-men-s/_/N-svZu2" manual_cm_sp="global_header-_-men-_-category_shoes" title="Men's Shoes">Shoes</a></li>
-									<li><a href="/us/apparel-men-s/_/N-sxZu2" manual_cm_sp="global_header-_-men-_-category_apparel" title="Men's Apparel">Apparel</a></li>
-									<li><a href="/us/accessories-men-s/_/N-swZu2" manual_cm_sp="global_header-_-men-_-category_accessories" title="Men's Accessories">Accessories</a></li>
-								</ul>
-							</div>
-							<div class="columnDivider">
-								<h3>Brand</h3>
-								<ul class="brands">
-									<li><a class="sports" href="/us/men-s-sport/_/N-u2Z1z13y9u" manual_cm_sp="global_header-_-men-_-brand_sport" title="adidas Sport"><span>adidas Sport</span> </a></li>
-									<li><a class="original" href="/us/men-s-originals/_/N-u2Z1z13ybj" manual_cm_sp="global_header-_-men-_-brand_originals" title="adidas Originals"><span>adidas Originals</span> </a></li>
+									<li><a title="Men's Originals Shoes" href="/us/shoes-men-s-originals/_/N-svZu2Z1z13ybj" manual_cm_sp="global_header-_-men-_-shoes_originals">Originals</a></li>
+									<li><a title="Men's Soccer Shoes and Cleats" href="/us/shoes-men-s-soccer/_/N-svZu2Z1z13y8w" manual_cm_sp="global_header-_-men-_-shoes_soccer">Soccer</a></li>
+									<li><a title="Men's Running Shoes" href="/us/shoes-men-s-running/_/N-svZu2Z1z13y9l" manual_cm_sp="global_header-_-men-_-shoes_running">Running</a></li>
+									<li><a title="Men's Training Shoes" href="/us/shoes-men-s-training/_/N-svZu2Z1z13y9n" manual_cm_sp="global_header-_-men-_-shoes_training">Training</a></li>
+									<li><a title="Men's Basketball Shoes" href="/us/shoes-men-s-basketball/_/N-svZu2Z1z13y9k" manual_cm_sp="global_header-_-men-_-shoes_basketball">Basketball</a></li>
+									<li><a title="Men's Tennis Shoes" href="/us/shoes-men-s-tennis/_/N-svZu2Z1z13y9i" manual_cm_sp="global_header-_-men-_-shoes_tennis">Tennis</a></li>
+									<li><a title="Men's Football Shoes and Cleats" href="/us/shoes-men-s-football/_/N-svZu2Z1z13y9h" manual_cm_sp="global_header-_-men-_-shoes_football">Football</a></li>
+									<li><a title="Men's Skate Shoes" href="/us/shoes-men-s-skate/_/N-svZu2Z1z13y9r" manual_cm_sp="global_header-_-men-_-shoes_skate">Skate</a></li>
+									<li><a title="Men's Outdoor Shoes" href="/us/shoes-men-s-outdoor/_/N-svZu2Z1z13y9p" manual_cm_sp="global_header-_-men-_-shoes_outdoor">Outdoor</a></li>
+									<li><a title="Men's Weightlifting Shoes" href="/us/shoes-men-s-weightlifting/_/N-svZu2Z1z13nzz" manual_cm_sp="global_header-_-men-_-shoes_weightlifting">Weightlifting</a></li>
+									<li><a title="Men's Track &amp; Field Shoes" href="/us/shoes-men-s-track-field/_/N-svZu2Z1z134t6" manual_cm_sp="global_header-_-men-_-shoes_track_field">Track &amp; Field</a></li>
+									<li><a title="Men's Lifestyle Shoes" href="/us/shoes-men-s-lifestyle/_/N-svZu2Z1z134w0" manual_cm_sp="global_header-_-men-_-shoes_lifestyle">Lifestyle</a></li>
+									<li><a title="Men's Customize Shoes" href="/us/shoes-men-s/_/N-svZu2Z1z12gjj" manual_cm_sp="global_header-_-men-_-shoes_customize">Customize</a></li>
+									<li class="lastAll"><a title="All Men's Shoes" href="/us/shoes-men-s/_/N-svZu2" manual_cm_sp="global_header-_-men-_-shoes_view_all">All Men's Shoes</a></li>
 								</ul>
 							</div>
 						</li>
 						<li>
 							<div class="columnDivider">
-								<h3>Sport</h3>
+								<h3><a title="Men's Apparel" href="/us/apparel-men-s/_/N-sxZu2" manual_cm_sp="global_header-_-men-_-apparel_header">Apparel</a></h3>
 								<ul class="subCategory">
-									<li><a href="/us/men-s-originals/_/N-u2Z1z13ybj" manual_cm_sp="global_header-_-men-_-sports_originals" title="adidas Originals"><span>Originals</span></a></li>
+									<li><a title="Men's Short Sleeves Tops" href="/us/apparel-men-s-short-sleeve-tops/_/N-sxZu2Z1z13xgi" manual_cm_sp="global_header-_-men-_-apparel_short_sleeves_tops">Short Sleeve Tops</a></li>
+                                    <li><a title="Men's Graphic Tees" href="/us/men-s-graphic-tees/_/N-u2Z1z124qo" manual_cm_sp="global_header-_-men-_-apparel_graphic_tees">Graphic Tees</a></li>
+                                    									<li><a title="Men's Sleeveless Tops" href="/us/apparel-men-s-sleeveless-tops/_/N-sxZu2Z1z13xgo" manual_cm_sp="global_header-_-men-_-apparel_sleeveless_tops">Sleeveless Tops</a></li>
+									<li><a title="Men's Long Sleeves Tops" href="/us/apparel-men-s-long-sleeve-tops/_/N-sxZu2Z1z13xgm" manual_cm_sp="global_header-_-men-_-apparel_long_sleeves_tops">Long Sleeve Tops</a></li>
+									<li><a title="Men's Jackets" href="/us/apparel-men-s-jackets/_/N-sxZu2Z1z134vw" manual_cm_sp="global_header-_-men-_-apparel_jackets">Jackets</a></li>
+									<li><a title="Men's Shorts" href="/us/apparel-men-s-shorts/_/N-sxZu2Z1z13xgj" manual_cm_sp="global_header-_-men-_-apparel_shorts">Shorts</a></li>
+									<li><a title="Men's Pants" href="/us/apparel-men-s-pants/_/N-sxZu2Z1z13xg4" manual_cm_sp="global_header-_-men-_-apparel_pants">Pants</a></li>
+									<li><a title="Men's Swimwear" href="/us/apparel-men-s-swimwear/_/N-sxZu2Z1z13wlb" manual_cm_sp="global_header-_-men-_-apparel_swimwear">Swimwear</a></li>
+									<li><a title="Men's Underwear" href="/us/apparel-men-s-underwear/_/N-sxZu2Z1z135xs" manual_cm_sp="global_header-_-men-_-apparel_underwear">Underwear</a></li>
+									<li class="lastAll"><a title="All Men's Apparel" href="/us/apparel-men-s/_/N-sxZu2" manual_cm_sp="global_header-_-men-_-apparel_view_all">All Men's Apparel</a></li>
+								</ul>
+							</div>
+						</li>
+						<li>
+							<div class="columnDivider">
+								<h3><a title="Men's Accessories" href="/us/accessories-men-s/_/N-swZu2" manual_cm_sp="global_header-_-men-_-accessories_header">Accessories</a></h3>
+								<ul class="subCategory">
+									<li><a title="Men's Socks" href="/us/accessories-men-s-socks/_/N-swZu2Z1z13xg9" manual_cm_sp="global_header-_-men-_-accessories_socks">Socks</a></li>
+									<li><a title="Men's Bags" href="/us/accessories-men-s-bags/_/N-swZu2Z1z13xgg" manual_cm_sp="global_header-_-men-_-accessories_bags">Bags</a></li>
+									<li><a title="Men's Hats" href="/us/accessories-men-s-hats/_/N-swZu2Z1z13xgp" manual_cm_sp="global_header-_-men-_-accessories_hats">Hats</a></li>
+									<li><a title="Men's Eyewear" href="/us/accessories-men-s-eyewear/_/N-swZu2Z1z13xg2" manual_cm_sp="global_header-_-men-_-accessories_eyewear">Eyewear</a></li>
+									<li><a title="Men's Balls" href="/us/accessories-men-s-balls/_/N-swZu2Z1z13xgb" manual_cm_sp="global_header-_-men-_-accessories_balls">Balls</a></li>
+									<li><a title="Men's Gloves" href="/us/accessories-men-s-gloves/_/N-swZu2Z1z13xg6" manual_cm_sp="global_header-_-men-_-accessories_gloves">Gloves</a></li>
+									<li><a title="Men's Watches" href="/us/accessories-men-s-watches/_/N-swZu2Z1z13xgf" manual_cm_sp="global_header-_-men-_-accessories_watches">Watches</a></li>
+									<li><a title="Men's Shin Guards" href="/us/accessories-men-s-shin-guards/_/N-swZu2Z1z13w16" manual_cm_sp="global_header-_-men-_-accessories_shin_guards">Shin Guards</a></li>
+									<li><a title="Men's Compression &amp; Braces" href="/us/accessories-men-s-compression-braces/_/N-swZu2Z1z134up" manual_cm_sp="global_header-_-men-_-accessories_compression_braces">Compression &amp; Braces</a></li>
+									<li class="lastAll"><a title="All Men's Accessories" href="/us/accessories-men-s/_/N-swZu2" manual_cm_sp="global_header-_-men-_-accessories_view_all">All Men's Accessories</a></li>
+								</ul>
+							</div>
+						</li>
+						<li>
+							<div class="columnDivider">
+								<h3>Sports</h3>
+								<ul class="subCategory">
+									<li><a href="/us/men-s-originals/_/N-u2Z1z13ybj" manual_cm_sp="global_header-_-men-_-sports_originals" title="adidas Originals">Originals</a></li>
 									<li><a href="/us/men-s-soccer/_/N-u2Z1z13y8w" manual_cm_sp="global_header-_-men-_-sports_soccer" title="Men's Soccer">Soccer</a></li>
 									<li><a href="/us/men-s-running/_/N-u2Z1z13y9l" manual_cm_sp="global_header-_-men-_-sports_running" title="Men's Running">Running</a></li>
 									<li><a href="/us/men-s-training/_/N-u2Z1z13y9n" manual_cm_sp="global_header-_-men-_-sports_training" title="Men's Training">Training</a></li>
 									<li><a href="/us/men-s-basketball/_/N-u2Z1z13y9k" manual_cm_sp="global_header-_-men-_-sports_basketball" title="Men's Basketball">Basketball</a></li>
 									<li><a href="/us/men-s-tennis/_/N-u2Z1z13y9i" manual_cm_sp="global_header-_-men-_-sports_tennis" title="Men's Tennis">Tennis</a></li>
 									<li><a href="/us/men-s-football/_/N-u2Z1z13y9h" manual_cm_sp="global_header-_-men-_-sports_football" title="Men's Football">Football</a></li>
-									<li><a href="/us/men-s-skate/_/N-u2Z1z13y9r" manual_cm_sp="global_header-_-men-_-sports_skate" title="Men's Skate">Skate</a></li>
+									<li><a href="/us/men-s-skate-lifestyle/_/N-u2Z1z12bb1" manual_cm_sp="global_header-_-men-_-sports_skate" title="Men's Skate">Skate</a></li>
 									<li><a href="/us/men-s-outdoor/_/N-u2Z1z13y9p" manual_cm_sp="global_header-_-men-_-sports_outdoor" title="Men's Outdoor">Outdoor</a></li>
 									<li><a href="/us/men-s-baseball/_/N-u2Z1z13y9f" manual_cm_sp="global_header-_-men-_-sports_baseball" title="Men's Baseball">Baseball</a></li>
 									<li><a href="/us/men-s-weightlifting/_/N-u2Z1z13nzz" manual_cm_sp="global_header-_-men-_-sports_weightlifting" title="Men's Weightlifting">Weightlifting</a></li>
-									<li><a href="/us/men-s-wrestling/_/N-u2Z1z13y9e" manual_cm_sp="global_header-_-men-_-sports_wrestling" title="Men's Wrestling">Wrestling</a></li>
+									<!--li><a href="/us/men-s-wrestling/_/N-u2Z1z13y9e" manual_cm_sp="global_header-_-men-_-sports_wrestling" title="Men's Wrestling">Wrestling</a></li-->
 									<li><a href="/us/men-s-lifestyle/_/N-u2Z1z134w0" manual_cm_sp="global_header-_-men-_-sports_lifestyle" title="Men's Lifestyle">Lifestyle</a></li>
 									<!--li><a href="/us/men-s-collegiate/_/N-u2Z1z13y9j" manual_cm_sp="global_header-_-men-_-sports_collegiate" title="Men's Collegiate">Collegiate</a></li-->
+                                    <li><a href="/us/men-s-swimwear/_/N-u2Z1z13wlb" manual_cm_sp="global_header-_-men-_-sports_swim" title="Men's Swim">Swim</a></li>
+								</ul>
+							</div>
+						</li>
+						<li class="columnBrands">
+							<div class="columnDivider">
+								<h3 class="brandHeadLogo brandHeadOriginals"><a title="Men's Originals Brand" href="/us/men-s-originals/_/N-u2Z1z13ybj" manual_cm_sp="global_header-_-men-_-brand_originals_header">Originals</a></h3>
+								<ul class="brands">
+									<li><a title="Men's Originals Shoes" href="/us/shoes-men-s-originals/_/N-svZu2Z1z13ybj" manual_cm_sp="global_header-_-men-_-brand_originals_shoes">Shoes</a></li>
+									<li><a title="Men's Originals Apparel" href="/us/apparel-men-s-originals/_/N-sxZu2Z1z13ybj" manual_cm_sp="global_header-_-men-_-brand_originals_apparel">Apparel</a></li>
+									<li><a title="Men's Originals Accessories" href="/us/accessories-men-s-originals/_/N-swZu2Z1z13ybj" manual_cm_sp="global_header-_-men-_-brand_originals_accessories">Accessories</a></li>
+								</ul>
+								<h3 class="brandHeadLogo brandHeadPerformance"><a title="Men's Sport Brand" href="/us/men-s-sport/_/N-u2Z1z13y9u" manual_cm_sp="global_header-_-men-_-brand_sport_header">Sport </a> </h3>
+								<ul class="brands">
+									<li><a title="Men's Sport Shoes" href="/us/shoes-men-s-sport/_/N-svZu2Z1z13y9u" manual_cm_sp="global_header-_-men-_-brand_sport_shoes">Shoes</a></li>
+									<li><a title="Men's Sport Apparel" href="/us/apparel-men-s-sport/_/N-sxZu2Z1z13y9u" manual_cm_sp="global_header-_-men-_-brand_sport_apparel">Apparel</a></li>
+									<li><a title="Men's Sport Accessories" href="/us/accessories-men-s-sport/_/N-swZu2Z1z13y9u" manual_cm_sp="global_header-_-men-_-brand_sport_accessories">Accessories</a></li>
+								</ul>
+								<h3 class="brandHeadLogo brandHeadStyle"><a title="Men's Neo Brand" href="/us/men-s-neo/_/N-u2Z1z129e2" manual_cm_sp="global_header-_-men-_-brand_neo_header">NEO</a></h3>
+								<ul class="brands">
+									<li><a title="Men's Neo Shoes" href="/us/shoes-men-s-neo/_/N-svZu2Z1z129e2" manual_cm_sp="global_header-_-men-_-brand_neo_shoes">Shoes</a></li>
+									<li><a title="Men's Neo Apparel" href="/us/apparel-men-s-neo/_/N-sxZu2Z1z129e2" manual_cm_sp="global_header-_-men-_-brand_neo_apparel">Apparel</a></li>
+									<li><a title="Men's Neo Accessories" href="/us/accessories-men-s-neo/_/N-swZu2Z1z129e2" manual_cm_sp="global_header-_-men-_-brand_neo_accessories">Accessories</a></li>
 								</ul>
 							</div>
 						</li>
@@ -661,53 +869,117 @@ function tagPageElement(inElCat,inElName) {
 								<h3>More Choices</h3>
 								<ul class="subCategory">
 									<li><a href="/us/men-s/_/N-u2Z1z139lo" manual_cm_sp="global_header-_-men-_-more_new_arrivals" title="Men's New Arrivals">New Arrivals</a></li>
+									<li><a href="/us/men-s/_/N-u2Z1z12gjj" manual_cm_sp="global_header-_-men-_-more_new_customize" title="Men's Custom">Customize</a></li>
 									<li><a href="/us/men-sale/_/N-u2Z1z13y2p" manual_cm_sp="global_header-_-men-_-more_sale" title="Men's Sale Items">Sale</a></li>
 									<li><a href="/us/giftcards" manual_cm_sp="global_header-_-men-_-more_gift_cards" title="Gift Cards">Gift Cards</a></li>
 								</ul>
 							</div>
-							<a href="/us/men-sale/_/N-u2Z1z13y2p" manual_cm_sp="global_header-_-men-_-more_sale_image"><img src="/us/cms_content/adi/us/en/marketingcontent/topnav/media/165x145_flyout_menu_sale_banner.png" alt="adidas Men's shoes and apparel on Sale" border="0"></a>
+							<a href="/us/men-s/_/N-u2Z1z13y2p" manual_cm_sp="global_header-_-men-_-more_sale_image"><img src="/us/cms_content/adi/us/en/marketingcontent/topnav/media/165x145_flyout_menu_sale_banner.png" alt="adidas Men's shoes and apparel on Sale" border="0"></a>
 						</li>
 					</ul>
+ 
 				</li>
-				<li>
+ 
+				<li id="liWrapWomen" class="optiTest">
 					<a class="tab" href="/us/women-s/_/N-u3" manual_cm_sp="global_header-_-women-_-top_women" id="Women" title="Women's adidas"><span>Women</span></a>
-					<ul class="dropdownMenuWrapper women" style="display: none;">
+ 
+					<ul id="dropdownMenuWrapperWomenOptiTest" class="dropdownMenuWrapper women" style="display:none;">
 						<li>
 							<div class="columnDivider">
-								<h3>Category</h3>
+								<h3><a title="Women's Shoes" href="/us/shoes-women-s/_/N-svZu3" manual_cm_sp="global_header-_-women-_-shoes_header">Shoes</a></h3>
 								<ul class="subCategory">
-									<li><a href="/us/shoes-women-s/_/N-svZu3" manual_cm_sp="global_header-_-women-_-category_shoes" title="Women's Shoes">Shoes</a></li>
-									<li><a href="/us/apparel-women-s/_/N-sxZu3" manual_cm_sp="global_header-_-women-_-category_apparel" title="Women's Apparel">Apparel</a></li>
-									<li><a href="/us/accessories-women-s/_/N-swZu3" manual_cm_sp="global_header-_-women-_-category_accessories" title="Women's Accessories">Accessories</a></li>
-								</ul>
-							</div>
-							<div class="columnDivider">
-								<h3>Brand</h3>
-								<ul class="brands">
-									<li><a class="sports" href="/us/women-s-sport/_/N-u3Z1z13y9u" manual_cm_sp="global_header-_-women-_-brand_sport" title="Women's adidas Sport"><span>adidas Sport</span> 	</a></li>
-									<li><a class="original" href="/us/women-s-originals/_/N-u3Z1z13ybj" manual_cm_sp="global_header-_-women-_-brand_originals" title="Women's adidas Originals"><span>adidas Originals</span> </a></li>
+									<li><a title="Women's Originals Shoes" href="/us/shoes-women-s-originals/_/N-svZu3Z1z13ybj" manual_cm_sp="global_header-_-women-_-shoes_originals">Originals</a></li>
+									<li><a title="Women's Soccer Shoes and Cleats" href="/us/shoes-women-s-soccer/_/N-svZu3Z1z13y8w" manual_cm_sp="global_header-_-women-_-shoes_soccer">Soccer</a></li>
+									<li><a title="Women's Running Shoes" href="/us/shoes-women-s-running/_/N-svZu3Z1z13y9l" manual_cm_sp="global_header-_-women-_-shoes_running">Running</a></li>
+									<li><a title="Women's Training Shoes" href="/us/shoes-women-s-training/_/N-svZu3Z1z13y9n" manual_cm_sp="global_header-_-women-_-shoes_training">Training</a></li>
+									<li><a title="Women's Tennis Shoes" href="/us/shoes-women-s-tennis/_/N-svZu3Z1z13y9i" manual_cm_sp="global_header-_-women-_-shoes_tennis">Tennis</a></li>
+									<li><a title="Women's adidas by Stella McCartney Shoes" href="/us/shoes-adidas-by-stella-mccartney/_/N-svZ1z13svo" manual_cm_sp="global_header-_-women-_-shoes_stella">adidas by Stella McCartney</a></li>
+									<li><a title="Women's Yoga Shoes" href="/us/shoes-women-s-yoga/_/N-svZu3Z1z13y9g" manual_cm_sp="global_header-_-women-_-shoes_yoga">Yoga</a></li>
+									<li><a title="Women's Outdoor Shoes" href="/us/shoes-women-s-outdoor/_/N-svZu3Z1z13y9p" manual_cm_sp="global_header-_-women-_-shoes_outdoor">Outdoor</a></li>
+									<li><a title="Women's Basketball Shoes" href="/us/shoes-women-s-basketball/_/N-svZu3Z1z13y9k" manual_cm_sp="global_header-_-women-_-shoes_basketball">Basketball</a></li>
+									<li><a title="Women's Lifestyle Shoes" href="/us/shoes-women-s-lifestyle/_/N-svZu3Z1z134w0" manual_cm_sp="global_header-_-women-_-shoes_lifestyle">Lifestyle</a></li>
+									<li><a title="Women's Customize Shoes" href="/us/shoes-women-s/_/N-svZu3Z1z12gjj" manual_cm_sp="global_header-_-women-_-shoes_customize">Customize</a></li>
+									<li class="lastAll"><a title="All Women's Shoes" href="/us/shoes-women-s/_/N-svZu3" manual_cm_sp="global_header-_-women-_-shoes_view_all">All Women's Shoes</a></li>
 								</ul>
 							</div>
 						</li>
 						<li>
 							<div class="columnDivider">
-								<h3>Sport</h3>
+								<h3><a title="Women's Apparel" href="/us/apparel-women-s/_/N-sxZu3" manual_cm_sp="global_header-_-women-_-apparel_header">Apparel</a></h3>
+								<ul class="subCategory">
+									<li><a title="Women's Short Sleeves Tops" href="/us/apparel-women-s-short-sleeve-tops/_/N-sxZu3Z1z13xgi" manual_cm_sp="global_header-_-women-_-apparel_short_sleeves_tops">Short Sleeve Tops</a></li>
+                                    <li><a title="Women's Graphic Tees" href="/us/women-s-graphic-tees/_/N-u3Z1z124qo" manual_cm_sp="global_header-_-women-_-apparel_graphic_tees">Graphic Tees</a></li>
+									<li><a title="Women's Sleeveless Tops" href="/us/apparel-women-s-sleeveless-tops/_/N-sxZu3Z1z13xgo" manual_cm_sp="global_header-_-women-_-apparel_sleeveless_tops">Sleeveless Tops</a></li>
+									<li><a title="Women's Long Sleeves Tops" href="/us/apparel-women-s-long-sleeve-tops/_/N-sxZu3Z1z13xgm" manual_cm_sp="global_header-_-women-_-apparel_long_sleeves_tops">Long Sleeve Tops</a></li>
+									<li><a title="Women's Jackets" href="/us/apparel-women-s-jackets/_/N-sxZu3Z1z134vw" manual_cm_sp="global_header-_-women-_-apparel_jackets">Jackets</a></li>
+									<li><a title="Women's Shorts" href="/us/apparel-women-s-shorts/_/N-sxZu3Z1z13xgj" manual_cm_sp="global_header-_-women-_-apparel_shorts">Shorts</a></li>
+									<li><a title="Women's Pants" href="/us/apparel-women-s-pants/_/N-sxZu3Z1z13xg4" manual_cm_sp="global_header-_-women-_-apparel_pants">Pants</a></li>
+									<li><a title="Women's Bras" href="/us/apparel-women-s-bras/_/N-sxZu3Z1z134u8" manual_cm_sp="global_header-_-women-_-apparel_bras">Bras</a></li>
+									<li><a title="Women's Swimwear" href="/us/apparel-women-s-swimwear/_/N-sxZu3Z1z13wlb" manual_cm_sp="global_header-_-women-_-apparel_swimwear">Swimwear</a></li>
+									<li class="lastAll"><a title="All Women's Apparel" href="/us/apparel-women-s/_/N-sxZu3" manual_cm_sp="global_header-_-women-_-apparel_view_all">All Women's Apparel</a></li>
+								</ul>
+							</div>
+
+						</li>
+						<li>
+							<div class="columnDivider">
+								<h3><a title="Women's Accessories" href="/us/accessories-women-s/_/N-swZu3" manual_cm_sp="global_header-_-women-_-accessories_header">Accessories</a></h3>
+								<ul class="subCategory">
+									<li><a title="Women's Socks" href="/us/accessories-women-s-socks/_/N-swZu3Z1z13xg9" manual_cm_sp="global_header-_-women-_-accessories_socks">Socks</a></li>
+									<li><a title="Women's Bags" href="/us/accessories-women-s-bags/_/N-swZu3Z1z13xgg" manual_cm_sp="global_header-_-women-_-accessories_bags">Bags</a></li>
+									<li><a title="Women's Hats" href="/us/accessories-women-s-hats/_/N-swZu3Z1z13xgp" manual_cm_sp="global_header-_-women-_-accessories_hats">Hats</a></li>
+									<li><a title="Women's Eyewear" href="/us/accessories-women-s-eyewear/_/N-swZu3Z1z13xg2" manual_cm_sp="global_header-_-women-_-accessories_eyewear">Eyewear</a></li>
+									<li><a title="Women's Balls" href="/us/accessories-women-s-balls/_/N-swZu3Z1z13xgb" manual_cm_sp="global_header-_-women-_-accessories_balls">Balls</a></li>
+									<li><a title="Women's Bands" href="/us/accessories-women-s-bands/_/N-swZu3Z1z13o34" manual_cm_sp="global_header-_-women-_-accessories_bands">Bands</a></li>
+									<li><a title="Women's Watches" href="/us/accessories-women-s-watches/_/N-swZu3Z1z13xgf" manual_cm_sp="global_header-_-women-_-accessories_watches">Watches</a></li>
+									<li><a title="Women's Shin Guards" href="/us/accessories-women-s-shin-guards/_/N-swZu3Z1z13w16" manual_cm_sp="global_header-_-women-_-accessories_shin_guards">Shin Guards</a></li>
+									<li><a title="Women's Compression &amp; Braces" href="/us/accessories-women-s-compression-braces/_/N-swZu3Z1z134up" manual_cm_sp="global_header-_-women-_-accessories_compression_braces">Compression &amp; Braces</a></li>
+									<li class="lastAll"><a title="All Women's Accessories" href="/us/accessories-women-s/_/N-swZu3" manual_cm_sp="global_header-_-women-_-accessories_view_all">All Women's Accessories</a></li>
+								</ul>
+							</div>
+						</li>
+						<li>
+							<div class="columnDivider">
+								<h3>Sports</h3>
 								<ul class="subCategory">
 									<li><a href="/us/women-s-originals/_/N-u3Z1z13ybj" manual_cm_sp="global_header-_-women-_-sports_originals" title="Women's adidas Originals"><span>Originals</span></a></li>
 									<li><a href="/us/women-s-soccer/_/N-u3Z1z13y8w" manual_cm_sp="global_header-_-women-_-sports_soccer" title="Soccer">Soccer</a></li>
 									<li><a href="/us/women-s-running/_/N-u3Z1z13y9l" manual_cm_sp="global_header-_-women-_-sports_running" title="Running">Running</a></li>
 									<li><a href="/us/women-s-training/_/N-u3Z1z13y9n" manual_cm_sp="global_header-_-women-_-sports_training" title="Training">Training</a></li>
-									<li><a href="/us/adidas-by-stella-mccartney/_/N-1z13svo" manual_cm_sp="global_header-_-women-_-sports_stella" title="adidas by Stella McCartney">adidas by Stella McCartney</a></li>
 									<li><a href="/us/women-s-tennis/_/N-u3Z1z13y9i" manual_cm_sp="global_header-_-women-_-sports_tennis" title="Tennis">Tennis</a></li>
-									<li><a href="/us/women-s-skate/_/N-u3Z1z13y9r" manual_cm_sp="global_header-_-women-_-sports_skate" title="Skate">Skate</a></li>
+									<li><a href="/us/adidas-by-stella-mccartney/_/N-1z13svo" manual_cm_sp="global_header-_-women-_-sports_stella" title="adidas by Stella McCartney">adidas by Stella McCartney</a></li>
+									<!--li><a href="/us/women-s-skate/_/N-u3Z1z13y9r" manual_cm_sp="global_header-_-women-_-sports_skate" title="Skate">Skate</a></li -->
 									<li><a href="/us/women-s-yoga/_/N-u3Z1z13y9g" manual_cm_sp="global_header-_-women-_-sports_yoga" title="Yoga">Yoga</a></li>
 									<li><a href="/us/women-s-outdoor/_/N-u3Z1z13y9p" manual_cm_sp="global_header-_-women-_-sports_outdoor" title="Outdoor">Outdoor</a></li>
 									<li><a href="/us/women-s-basketball/_/N-u3Z1z13y9k" manual_cm_sp="global_header-_-women-_-sports_basketball" title="Basketball">Basketball</a></li>
-									<li><a href="/us/women-s-softball/_/N-u3Z1z13x32" manual_cm_sp="global_header-_-women-_-sports_softball" title="Softball">Softball</a></li>
+									<!--li><a href="/us/women-s-softball/_/N-u3Z1z13x32" manual_cm_sp="global_header-_-women-_-sports_softball" title="Softball">Softball</li-->
 									<li><a href="/us/women-s-lifestyle/_/N-u3Z1z134w0" manual_cm_sp="global_header-_-women-_-sports_lifestyle" title="Lifestyle">Lifestyle</a></li>
+                                    <li><a href="/us/women-s-swimwear/_/N-u3Z1z13wlb" manual_cm_sp="global_header-_-women-_-sports_swim" title="Swim">Swim</a></li>
 									<!--li><a href="/us/women-s-golf/_/N-u3Z1z13w6g" manual_cm_sp="global_header-_-women-_-sports_golf" title="Golf">Golf</a></li-->
 									<!--li><a href="/us/women-s-volleyball/_/N-u3Z1z13y9m" manual_cm_sp="global_header-_-women-_-sports_volleyball" title="Volleyball">Volleyball</a></li-->
 									<!--li><a href="/us/women-s-plus-size-training/_/N-u3Z1z13y9d" manual_cm_sp="global_header-_-women-_-sports_plus_size_training" title="Plus Size Training">Plus Size Training</a></li-->
+								</ul>
+							</div>
+						</li>
+						<li class="columnBrands">
+							<div class="columnDivider">
+								<h3 class="brandHeadLogo brandHeadOriginals"><a title="Women's Originals Brand" href="/us/women-s-originals/_/N-u3Z1z13ybj" manual_cm_sp="global_header-_-women-_-brand_originals_header">Originals</a></h3>
+								<ul class="brands">
+									<li><a title="Women's Originals Shoes" href="/us/shoes-women-s-originals/_/N-svZu3Z1z13ybj" manual_cm_sp="global_header-_-women-_-brand_originals_shoes">Shoes</a></li>
+									<li><a title="Women's Originals Apparel" href="/us/apparel-women-s-originals/_/N-sxZu3Z1z13ybj" manual_cm_sp="global_header-_-women-_-brand_originals_apparel">Apparel</a></li>
+									<li><a title="Women's Originals Accessories" href="/us/accessories-women-s-originals/_/N-swZu3Z1z13ybj" manual_cm_sp="global_header-_-women-_-brand_originals_accessories">Accessories</a></li>
+								</ul>
+								<h3 class="brandHeadLogo brandHeadPerformance"><a title="Women's Sport Brand" href="/us/women-s-sport/_/N-u3Z1z13y9u" manual_cm_sp="global_header-_-women-_-brand_sport_header">Sport</a></h3>
+								<ul class="brands">
+									<li><a title="Women's Sport Shoes" href="/us/shoes-women-s-sport/_/N-svZu3Z1z13y9u" manual_cm_sp="global_header-_-women-_-brand_sport_shoes">Shoes</a></li>
+									<li><a title="Women's Sport Apparel" href="/us/apparel-women-s-sport/_/N-sxZu3Z1z13y9u" manual_cm_sp="global_header-_-women-_-brand_sport_apparel">Apparel</a></li>
+									<li><a title="Women's Sport Accessories" href="/us/accessories-women-s-sport/_/N-swZu3Z1z13y9u" manual_cm_sp="global_header-_-women-_-brand_sport_accessories">Accessories</a></li>
+								</ul>
+								<h3 class="brandHeadLogo brandHeadStyle"><a title="Women's Neo Brand" href="/us/women-s-neo/_/N-u3Z1z129e2" manual_cm_sp="global_header-_-women-_-brand_neo_header">NEO</a></h3>
+								<ul class="brands">
+									<li><a title="Women's Neo Shoes" href="/us/shoes-women-s-neo/_/N-svZu3Z1z129e2" manual_cm_sp="global_header-_-women-_-brand_neo_shoes">Shoes</a></li>
+									<li><a title="Women's Neo Apparel" href="/us/apparel-women-s-neo/_/N-sxZu3Z1z129e2" manual_cm_sp="global_header-_-women-_-brand_neo_apparel">Apparel</a></li>
+									<li><a title="Women's Neo Accessories" href="/us/accessories-women-s-neo/_/N-swZu3Z1z129e2" manual_cm_sp="global_header-_-women-_-brand_neo_accessories">Accessories</a></li>
 								</ul>
 							</div>
 						</li>
@@ -716,24 +988,26 @@ function tagPageElement(inElCat,inElName) {
 								<h3>More Choices</h3>
 								<ul class="subCategory">
 									<li><a href="/us/women-s/_/N-u3Z1z139lo" manual_cm_sp="global_header-_-women-_-more_new_arrivals" title="Women's New Arrivals">New Arrivals</a></li>
+                                    <li><a href="/us/women-s/_/N-u3Z1z12gjj" manual_cm_sp="global_header-_-women-_-more_new_customize" title="Women's Custom">Customize</a></li>
 									<li><a href="/us/women-sale/_/N-u3Z1z13y2p" manual_cm_sp="global_header-_-women-_-more_sale" title="Women's Sale Items">Sale</a></li>
 									<li><a href="/us/giftcards" manual_cm_sp="global_header-_-women-_-more_gift_cards" title="Gift Cards">Gift Cards</a></li>
 								</ul>
 							</div>
-							<a href="/us/women-sale/_/N-u3Z1z13y2p" manual_cm_sp="global_header-_-women-_-more_sale_image"><img src="/us/cms_content/adi/us/en/marketingcontent/topnav/media/165x145_flyout_menu_sale_banner.png" alt="adidas Women's shoes and apparel on Sale" border="0"></a>
+							<a href="/us/women-s/_/N-u3Z1z13y2p" manual_cm_sp="global_header-_-women-_-more_sale_image"><img src="/us/cms_content/adi/us/en/marketingcontent/topnav/media/165x145_flyout_menu_sale_banner.png" alt="adidas Women's shoes and apparel on Sale" border="0"></a>
 						</li>
 					</ul>
 				</li>
-				<li>
+ 
+				<li id="liWrapKids">
 					<a class="tab" href="/us/kids/_/N-u4" manual_cm_sp="global_header-_-kids-_-top_kids" id="Kids" title="Kids adidas Shoes &amp; Apparel"><span>Kids</span></a>
-					<ul class="dropdownMenuWrapper kids" style="display: none;">
+					<ul id="dropdownMenuWrapperKids" class="dropdownMenuWrapper kids" style="display: none;">
 						<li>
 							<div class="columnDivider">
 								<h3>Youth</h3>
 								<ul class="subCategory">
-									<li><a href="/us/apparel-kids-youth-boys/_/N-sxZu4Z1z139a5Z1z141tl" manual_cm_sp="global_header-_-kids-_-youth_boys_apparel_8_20" title="Boys Apparel Sizes 8-20">Boys Apparel Sizes 8-20</a></li>
-									<li><a href="/us/apparel-kids-youth-girls/_/N-sxZu4Z1z139a5Z1z141t1" manual_cm_sp="global_header-_-kids-_-youth_girls_apparel_7_16" title="Girls Apparel Sizes 7-16">Girls Apparel Sizes 7-16</a></li>
-									<li><a href="/us/shoes-kids-youth/_/N-svZu4Z1z139a5" manual_cm_sp="global_header-_-kids-_-youth_shoes_10_6" title="Kids Shoes Sizes 10.5K-6.5">Shoes Sizes 10.5K-6.5</a></li>
+									<li><a href="/us/apparel-kids-youth-boys/_/N-sxZu4Z1z139a5Z1z141tl" manual_cm_sp="global_header-_-kids-_-youth_boys_apparel_8_20" title="Boys Apparel Sizes 8-20">Boy's Apparel Sizes 8-20</a></li>
+									<li><a href="/us/apparel-kids-youth-girls/_/N-sxZu4Z1z139a5Z1z141t1" manual_cm_sp="global_header-_-kids-_-youth_girls_apparel_7_16" title="Girls Apparel Sizes 7-16">Girl's Apparel Sizes 7-16</a></li>
+									<li><a href="/us/shoes-kids-youth/_/N-svZu4Z1z139a5" manual_cm_sp="global_header-_-kids-_-youth_shoes_10_6" title="Kids Shoes Sizes 10.5K-6.5">Shoe Sizes 10.5K-6.5</a></li>
 									<li><a href="/us/accessories-kids/_/N-swZu4" manual_cm_sp="global_header-_-kids-_-youth_accessories" title="Youth Accessories">Accessories</a></li>
 								</ul>
 							</div>
@@ -749,9 +1023,9 @@ function tagPageElement(inElCat,inElName) {
 							<div class="columnDivider">
 								<h3>Children</h3>
 								<ul class="subCategory">
-									<li><a href="/us/apparel-kids-children-boys/_/N-sxZu4Z1z139a2Z1z141tl" manual_cm_sp="global_header-_-kids-_-children_boys_apparel_4_7" title="Boys Apparel Sizes 4-7x">Boys Apparel Sizes 4-7x</a></li>
-									<li><a href="/us/apparel-kids-children-girls/_/N-sxZu4Z1z139a2Z1z141t1" manual_cm_sp="global_header-_-kids-_-children_girls_apparel_4_7" title="Girls Apparel Sizes 2T-7">Girls Apparel Sizes 4-7</a></li>
-									<li><a href="/us/shoes-kids-children/_/N-svZu4Z1z139a2" manual_cm_sp="global_header-_-kids-_-children_shoes_10_6" title="Shoes Sizes 10.5K-6.5">Shoes Sizes 10.5K-6.5</a></li>
+									<li><a href="/us/apparel-kids-children-boys/_/N-sxZu4Z1z139a2Z1z141tl" manual_cm_sp="global_header-_-kids-_-children_boys_apparel_4_7" title="Boys Apparel Sizes 4-7x">Boy's Apparel Sizes 4-7x</a></li>
+									<li><a href="/us/apparel-kids-children-girls/_/N-sxZu4Z1z139a2Z1z141t1" manual_cm_sp="global_header-_-kids-_-children_girls_apparel_4_7" title="Girls Apparel Sizes 2T-7">Girl's Apparel Sizes 4-7</a></li>
+									<li><a href="/us/shoes-kids-children/_/N-svZu4Z1z139a2" manual_cm_sp="global_header-_-kids-_-children_shoes_10_6" title="Shoes Sizes 10.5K-6.5">Shoe Sizes 10.5K-6.5</a></li>
 									<li><a href="/us/accessories-kids/_/N-swZu4" manual_cm_sp="global_header-_-kids-_-children_accessories" title="Accessories">Accessories</a></li>
 								</ul>
 							</div>
@@ -759,7 +1033,7 @@ function tagPageElement(inElCat,inElName) {
 								<h3>Infants and Toddlers</h3>
 								<ul class="subCategory">
 									<li><a href="/us/apparel-kids-infant-toddler/_/N-sxZu4Z1z139aa" manual_cm_sp="global_header-_-kids-_-infant_toddler_apparel_0_3" title="Infant &amp; Toddler Apparel 0mo-3T">Apparel 0mo-3T</a></li>
-									<li><a href="/us/shoes-kids-infant-toddler/_/N-svZu4Z1z139aa" manual_cm_sp="global_header-_-kids-_-infant_toddler_shoes_2_10" title="Infant &amp; Toddler Shoes 2K-10K">Shoe Sizes 2K-10K</a></li>
+									<li><a href="/us/shoes-kids-infant-toddler/_/N-svZu4Z1z139aa" manual_cm_sp="global_header-_-kids-_-infant_toddler_shoes_0_10" title="Infant &amp; Toddler Shoes 0K-10K">Shoe Sizes 0K-10K</a></li>
 								</ul>
 							</div>
 						</li>
@@ -772,27 +1046,53 @@ function tagPageElement(inElCat,inElName) {
 									<li><a href="/us/giftcards" manual_cm_sp="global_header-_-kids-_-more_gift_cards" title="Gift Cards">Gift Cards</a></li>
 								</ul>
 							</div>
-							<a href="/us/kids-sale/_/N-u4Z1z13y2p" manual_cm_sp="global_header-_-kids-_-more_sale_image"><img src="/us/cms_content/adi/us/en/marketingcontent/topnav/media/165x145_flyout_menu_sale_banner.png" alt="adidas Kids shoes and apparel on Sale" border="0"></a>
+							<a href="/us/kids/_/N-u4Z1z13y2p" manual_cm_sp="global_header-_-kids-_-more_sale_image"><img src="/us/cms_content/adi/us/en/marketingcontent/topnav/media/165x145_flyout_menu_sale_banner.png" alt="adidas Kids' shoes and apparel on Sale" border="0"></a>
 						</li>
 					</ul>
 				</li>
 			</ul>
-
-			<!-- Customize -->
-			<ul class="category saleOptions">
-				<li><a id="saleOptionsSale" class="tab" title="End of Season Sale - Save up to 50% off" manual_cm_sp="global_header-_-sale-_-top_sale" href="/us/sale/_/N-1z13y2p"><span style="color:#ffffff;">Sale</span></a>
-					<ul class="dropdownMenuWrapper brandSubMenu saleSubMenu" style="display:none;">
-						<li><a href="/us/men-s/_/N-u2Z1z13y2p" manual_cm_sp="global_header-_-sale-_-sale_mens">Mens</a></li>
-						<li><a href="/us/women-s/_/N-u3Z1z13y2p" manual_cm_sp="global_header-_-sale-_-sale_womens">Womens</a></li>
-						<li><a href="/us/kids/_/N-u4Z1z13y2p" manual_cm_sp="global_header-_-sale-_-sale_kids">Kids</a></li>
-					</ul>
-				</li>
-				<li><a id="miadidas" class="tab" href="/us/content/miadidas/" manual_cm_sp="global_header-_-miadidas-_-top_customize" title="Customize your adidas shoes with miadidas"><span>Customize</span></a>
-
-					<ul class="dropdownMenuWrapper miadidas" style="display: none;">
+ 
+			<ul id="topCatGroup2" class="category saleOptions">
+			<!-- Sale -->
+				<li id="liWrapSale" class="optiTest"><a id="saleOptionsSale" class="tab" title="End of Season Sale - Save up to 50% off" manual_cm_sp="global_header-_-sale-_-top_sale" href="/us/sale/_/N-1z13y2p"><span>Sale</span></a>
+					<ul id="dropdownMenuWrapperSaleOptiTest" class="dropdownMenuWrapper sale" style="display: none;">
 						<li>
 							<div class="columnDivider">
-								<h3><a href="/us/men-s/_/N-u2Z1z12gjj" style="color:#333333;" manual_cm_sp="global_header-_-customize-_-mens_miadidas" title="View All Men's mi adidas">Mens mi adidas</a></h3>
+								<h3><a title="Men's SALE" href="/us/men-s/_/N-u2Z1z13y2p" manual_cm_sp="global_header-_-sale-_-men_men">Men's SALE</a></h3>
+								<ul class="subCategory">
+									<li><a title="Men's SALE Shoes" href="/us/shoes-men-s/_/N-svZu2Z1z13y2p" manual_cm_sp="global_header-_-sale-_-men_shoes">Shoes</a></li>
+									<li><a title="Men's SALE Apparel" href="/us/apparel-men-s/_/N-sxZu2Z1z13y2p" manual_cm_sp="global_header-_-sale-_-men_apparel">Apparel</a></li>
+									<li><a title="Men's SALE Accessories" href="/us/accessories-men-s/_/N-swZu2Z1z13y2p" manual_cm_sp="global_header-_-sale-_-men_accessories">Accessories</a></li>
+								</ul>
+							</div>
+						</li>
+						<li>
+							<div class="columnDivider">
+								<h3><a title="Women's SALE" href="/us/women-s/_/N-u3Z1z13y2p" manual_cm_sp="global_header-_-sale-_-men_women">Women's SALE</a></h3>
+								<ul class="subCategory">
+									<li><a title="Women's SALE Shoes" href="/us/shoes-women-s/_/N-svZu3Z1z13y2p" manual_cm_sp="global_header-_-sale-_-women_shoes">Shoes</a></li>
+									<li><a title="Women's SALE Apparel" href="/us/apparel-women-s/_/N-sxZu3Z1z13y2p" manual_cm_sp="global_header-_-sale-_-women_apparel">Apparel</a></li>
+									<li><a title="Women's SALE Accessories" href="/us/accessories-women-s/_/N-swZu3Z1z13y2p" manual_cm_sp="global_header-_-sale-_-women_accessories">Accessories</a></li>
+								</ul>
+							</div>
+						</li>
+						<li>
+							<div class="columnDivider">
+								<h3><a title="Kids SALE" href="/us/kids/_/N-u4Z1z13y2p" manual_cm_sp="global_header-_-sale-_-men_kids">Kids SALE</a></h3>
+								<ul class="subCategory">
+									<li><a title="Kids SALE Shoes" href="/us/shoes-kids/_/N-svZu4Z1z13y2p" manual_cm_sp="global_header-_-sale-_-kids_shoes">Shoes</a></li>
+									<li><a title="Kids SALE Apparel" href="/us/apparel-kids/_/N-sxZu4Z1z13y2p" manual_cm_sp="global_header-_-sale-_-kids_apparel">Apparel</a></li>
+								</ul>
+							</div>
+						</li>
+					</ul>
+				</li>
+			<!-- Customize -->
+				<li id="liWrapCustom"><a id="miadidas" class="tab" href="/us/content/miadidas/" manual_cm_sp="global_header-_-miadidas-_-top_customize" title="Customize your adidas shoes with miadidas"><span>Customize</span></a>
+					<ul id="dropdownMenuWrapperCustom" class="dropdownMenuWrapper miadidas" style="display: none;">
+						<li class="flyoutColumnLinks">
+							<div class="columnDivider">
+								<h3><a href="/us/men-s/_/N-u2Z1z12gjj" style="color:#333333;" manual_cm_sp="global_header-_-customize-_-mens_header" title="View All Men's mi adidas">Men's mi adidas</a></h3>
 								<ul class="subCategory">
 									<li><a href="/us/men-s-originals/_/N-u2Z1z12gjjZ1z13ybj" manual_cm_sp="global_header-_-customize-_-mens_originals" title="Men's Originals">Originals</a></li>
 									<li><a href="/us/men-s-basketball/_/N-u2Z1z12gjjZ1z13y9k" manual_cm_sp="global_header-_-customize-_-mens_basketball" title="Men's Basketball">Basketball</a></li>
@@ -802,21 +1102,13 @@ function tagPageElement(inElCat,inElName) {
 									<li><a href="/us/men-s-football/_/N-u2Z1z12gjjZ1z13y9h" manual_cm_sp="global_header-_-customize-_-mens_football" title="Men's Football">Football</a></li>
 									<li><a href="/us/men-s-golf/_/N-u2Z1z12gjjZ1z13w6g" manual_cm_sp="global_header-_-customize-_-mens_golf" title="Men's Golf">Golf</a></li>
 									<li><a href="/us/men-s-lifestyle/_/N-u2Z1z12gjjZ1z134w0" manual_cm_sp="global_header-_-customize-_-mens_lifestyle" title="Men's Lifestyle">Lifestyle</a></li>
-									<!--li><a href="/us/men-s/_/N-u2Z1z12gjjZ1z139lo" manual_cm_sp="global_header-_-customize-_-mens_new_arrivals" title="Men's New Arrivals">New Arrivals</a></li-->
-									<li><a href="/us/men-s/_/N-u2Z1z12gjj" manual_cm_sp="global_header-_-customize-_-mens_view_all" title="View All Men's mi adidas">View All Mens mi adidas</a></li>
+									<li class="lastAll"><a href="/us/men-s/_/N-u2Z1z12gjj" manual_cm_sp="global_header-_-customize-_-mens_view_all" title="View All Men's mi adidas">View All Men's mi adidas</a></li>
 								</ul>
 							</div>
-							<!--div class="columnDivider">
-								<h3>Brand</h3>
-								<ul class="brands">
-									<li><a class="sports" href="/us/sport/_/N-1z12gjjZ1z13y9u" manual_cm_sp="global_header-_-customize-_-brand_sport" title="miadidas Sport"><span>miadidas Sport</span> </a></li>
-									<li><a class="original" href="/us/originals/_/N-1z12gjjZ1z13ybj" manual_cm_sp="global_header-_-customize-_-brand_originals" title="miadidas Originals"><span>miadidas Originals</span> </a></li>
-								</ul>
-							</div-->
 						</li>
-						<li>
+						<li class="flyoutColumnLinks">
 							<div class="columnDivider">
-								<h3><a href="/us/women-s/_/N-u3Z1z12gjj" style="color:#333333;" manual_cm_sp="global_header-_-customize-_-womens_miadidas" title="View All Women's mi adidas">Womens mi adidas</a></h3>
+								<h3><a href="/us/women-s/_/N-u3Z1z12gjj" style="color:#333333;" manual_cm_sp="global_header-_-customize-_-womens_header" title="View All Women's mi adidas">Women's mi adidas</a></h3>
 								<ul class="subCategory">
 									<li><a href="/us/women-s-originals/_/N-u3Z1z12gjjZ1z13ybj" manual_cm_sp="global_header-_-customize-_-womens_originals" title="Women's Originals">Originals</a></li>
 									<li><a href="/us/women-s-soccer/_/N-u3Z1z12gjjZ1z13y8w" manual_cm_sp="global_header-_-customize-_-womens_soccer" title="Women's Soccer">Soccer</a></li>
@@ -824,29 +1116,23 @@ function tagPageElement(inElCat,inElName) {
 									<li><a href="/us/women-s-tennis/_/N-u3Z1z12gjjZ1z13y9i" manual_cm_sp="global_header-_-customize-_-womens_tennis" title="Women's Tennis">Tennis</a></li>
 									<li><a href="/us/women-s-basketball/_/N-u3Z1z12gjjZ1z13y9k" manual_cm_sp="global_header-_-customize-_-womens_basketball" title="Women's Basketball">Basketball</a></li>
 									<li><a href="/us/women-s-lifestyle/_/N-u3Z1z12gjjZ1z134w0" manual_cm_sp="global_header-_-customize-_-womens_lifestyle" title="Women's Lifestyle">Lifestyle</a></li>
-									<!--li><a href="/us/women-s/_/N-u3Z1z12gjjZ1z139lo" manual_cm_sp="global_header-_-customize-_-womens_new_arrivals" title="Women's New Arrivals">New Arrivals</a></li-->
-									<li><a href="/us/women-s/_/N-u3Z1z12gjj" manual_cm_sp="global_header-_-customize-_-womens_view_all" title="View All Women's mi adidas">View All Womens mi adidas</a></li>
+									<li class="lastAll"><a href="/us/women-s/_/N-u3Z1z12gjj" manual_cm_sp="global_header-_-customize-_-womens_view_all" title="View All Women's mi adidas">View All Women's mi adidas</a></li>
 								</ul>
 							</div>
 						</li>
-						<!--li>
-							<div class="columnDividerNot">
-								<h3>More Choices</h3>
-								<ul class="subCategory">
-									<li><a href="/us/customize/_/N-1z12gjj" manual_cm_sp="global_header-_-customize-_-more_new_arrivals" title="miadidas New Arrivals">New Arrivals</a></li>
-									<li><a href="/us/kids-sale/_/N-1z12gjjZ1z13y2p" manual_cm_sp="global_header-_-customize-_-more_sale" title="miadidas Sale Items">Sale</a></li>
-									<li><a href="/us/giftcards" manual_cm_sp="global_header-_-customize-_-more_gift_cards" title="Gift Cards">Gift Cards</a></li>
-								</ul>
-							</div>
-							<a href="/us/customize-sale/_/N-1z12gjjZ1z13y2p" manual_cm_sp="global_header-_-customize-_-more_sale_image"><img src="/us/cms_content/adi/us/en/marketingcontent/topnav/media/165x145_flyout_menu_sale_banner.png" alt="Customize miadidas shoes on Sale" border="0" /></a>
-						</li-->
+						<li class="flyoutColumnGraphic">
+							<a href="/us/content/miadidas/" manual_cm_sp="global_header-_-customize-_-banner_create_your_own">
+								<!--img border="0" title="miadidas - Create Your Own Custom adidas Shoes" alt="miadidas - Create Your Own Custom adidas Shoes" src="/us/cms_content/adi/us/en/marketingcontent/topnav/media/mi_dopdown_image.jpg"-->
+								<div id="miadidasFlyGraphic" title="miadidas - Create Your Own Custom adidas Shoes" style="height: 220px; width: 320px; background: url('/us/cms_content/adi/us/en/marketingcontent/topnav/media/mi_dopdown_image.jpg') repeat scroll 0% 0% transparent;"></div>
+							</a>
+						</li>
 					</ul>
-
+ 
 				</li>
 			</ul>
-
+ 
 			<!-- Brand Menu -->
-			<ul class="brandMenu">
+			<ul id="topCatGroup3" class="brandMenu">
 				<li id="brand-originals" class="brand-landing"><a href="/us/content/originals/" manual_cm_sp="global_header-_-originals-_-top_originals">Originals</a></li>
 				<li id="brand-basketball" class="brand-landing"><a href="/us/content/basketball/" manual_cm_sp="global_header-_-basketball-_-top_basketball">Basketball</a></li>
 				<li id="brand-running" class="brand-landing"><a href="/us/content/running/" manual_cm_sp="global_header-_-running-_-top_running">Running</a></li>
@@ -855,41 +1141,105 @@ function tagPageElement(inElCat,inElName) {
 				<li id="brand-training" class="training">
 					<a class="tab" id="training" name="training-dropdown" href="#"><span>Training</span></a>
 					<ul class="dropdownMenuWrapper training brandSubMenu" style="display:none;">
-						<li><a href="/us/content/menstraining/" manual_cm_sp="global_header-_-training-_-training_mens">Mens Training</a></li>
-						<li><a href="/us/content/womenstraining/" manual_cm_sp="global_header-_-training-_-training_womens">Womens Training</a></li>
+						<li><a href="/us/content/menstraining/" manual_cm_sp="global_header-_-training-_-training_mens">Men's Training</a></li>
+						<li><a href="/us/content/womenstraining/" manual_cm_sp="global_header-_-training-_-training_womens">Women's Training</a></li>
 					</ul>
 				</li>
 				<li class="sports">
 					<a class="tab" manual_cm_sp="global_header-_-more-_-top_more" href="/us/sport/_/N-1z13y9u" id="Sport" title="adidas Sport Brand"><span>More</span></a>
-					<ul class="dropdownMenuWrapper sports brandSubMenu" style="display: none;">
+					<ul class="dropdownMenuWrapper sports brandSubMenu" style="display:none;">
 						<li><a href="/us/content/baseball" manual_cm_sp="global_header-_-more-_-more_baseball">Baseball</a></li>
 						<!--li><a href="/us/micoach" target="_BLANK" manual_cm_sp="global_header-_-more-_-more_micoach">miCoach</a></li-->
 						<li><a href="/us/accessories-micoach/_/N-swZ1z12min" manual_cm_sp="global_header-_-more-_-more_micoach">miCoach</a></li>
 						<li><a href="/us/adidas-by-stella-mccartney/_/N-1z13svo" manual_cm_sp="global_header-_-more-_-more_stella">adidas by Stella McCartney</a></li>
 						<li><a href="/us/outdoor/_/N-1z13y9p" manual_cm_sp="global_header-_-more-_-more_outdoor">Outdoor</a></li>
+						<li><a href="http://taylormadegolf.com/adidasGolf/adidasGolf,en_US,sc.html" target="_BLANK" manual_cm_sp="global_header-_-more-_-more_adidasgolf">adidasgolf.com</a></li>
 						<li><a href="/us/content/Y3" manual_cm_sp="global_header-_-more-_-more_y3">Y-3</a></li>
 						<li><a href="/us/content/SLVR" manual_cm_sp="global_header-_-more-_-more_slvr">SLVR</a></li>
 						<li><a href="/us/content/neo/" manual_cm_sp="global_header-_-more-_-more_neo">NEO</a></li>
 						<li><a href="http://www.adidas.com/com/apps/snowboarding/" target="_BLANK" manual_cm_sp="global_header-_-more-_-more_snowboarding">Snowboarding</a></li>
 						<li><a href="http://www.adidas.com/campaigns/adidasskateboarding/content/index.asp?strcountry_adidascom=us" target="_BLANK" manual_cm_sp="global_header-_-more-_-more_skateboarding">Skateboarding</a></li>
-						<li><a href="http://www.adidas.com/Eyewear/content/en/?strCountry_adidascom=us" target="_BLANK" manual_cm_sp="global_header-_-more-_-more_eyewear">eyewear</a></li>
+						<li><a href="/us/accessories-eyewear/_/N-swZ1z13xg2" manual_cm_sp="global_header-_-more-_-more_eyewear">eyewear</a></li>
 					</ul>
 				</li>
 			</ul>
 		</div>
 	</div>
 </div>
+ 
+<style type="text/css"> 
+/* CART update for prebuy issue */
+ 
+.cartPage #wraplist td .messageTextBold, .cartPage #wraplist td div.messageTextNormal {
+	color: #CC0000;
+	font-size: 12px;
+	font-family: Arial,Helvetica,sans-serif;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+</style>
+<script type="text/javascript"> 
+// updates the header & footer links to be non-https
+$(function(){
+	var l=window.location;
+	if(l.protocol=="https:"){
+ 
+	tagPageElement('HTTPS_correction',window.location.pathname+'_from_'+document.referrer);
+ 
+	$('#header a').not('.https').each(function() {
+		var my=$(this).attr('href');
+		if(my.indexOf('/')==0){
+			$(this).attr('href','http:\/\/'+l.hostname+my)
+		}
+	});
+	$('#footer a').not('.https').each(function() {
+		var my=$(this).attr('href');
+		if(my.indexOf('/')==0){
+			$(this).attr('href','http:\/\/'+l.hostname+my)
+		}
+	});
+	}
+});
+</script>
+ 
+
  	
 			
 		<!-- === End CMS Content: http://localhost:8080/us/cms_content/adi/us/en/sitecontent/common/media/onesite_header.html === -->
 	
 
+	
+	
+
+
+<div id="minicart" enableminicartglobally="true" class="minicart"></div>
 
 
 
 
 
-<!-- ========================= Ending Cartridge: head ========================="-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="http://www.adidas.com/us/theme1/adidas/../common/js/gwgah.min.js?v=1"></script>
+
+
+<script type="text/javascript">
+
+</script><!-- ========================= Ending Cartridge: head ========================="-->
  
 			
 		
@@ -1104,9 +1454,13 @@ function tagPageElement(inElCat,inElName) {
 <p><b><u>Applicable Law and Jurisdiction</u></b></p>
 <p>Oregon state law governs the interpretation of this Policy and applies to claims for breach of them regardless of conflict of laws principles. Both parties consent to exclusive jurisdiction and venue in courts sitting in Portland, Oregon. Both parties waive all defenses of lack of personal jurisdiction and forum non conveniens.</p>
 <p><b><u>Changes to This Online Privacy Policy</u></b></p>
-<p>We will update this Policy as needed to reflect changes in our services and customer feedback. When we post changes to this Policy, we will revise the "last updated" date at the top. If there are material changes to this Policy or in how adidas will use your personal information, we will notify you by prominently posting a notice of such changes prior to implementing the change. We encourage you to periodically review this Policy to remain informed of how adidas is protecting your information.</p>
+<p>We will update this Policy as needed to reflect changes in our services and customer feedback. When we post changes to this Policy, we will revise the "last updated" date at the bottom. If there are material changes to this Policy or in how adidas will use your personal information, we will notify you by prominently posting a notice of such changes prior to implementing the change. We encourage you to periodically review this Policy to remain informed of how adidas is protecting your information.</p>
 <p><b><u>How to Contact Us</u></b></p>
-<p>If you have questions or comments about our privacy practices, please contact us by e-mail <a href="mailto:privacy.policy@adidas.com">privacy.policy@adidas.com</a>.</p>
+<p>If you have questions or comments about our privacy practices, please contact us by e-mail <a href="mailto:privacy.policy@adidas.com">privacy.policy@adidas.com</a> or by mail at the following address.</p>
+<p>adidas America</p>
+<p>Attn: Legal Privacy Policy</p>
+<p>5055 N Greeley Ave</p>
+<p>Portland, OR 97217</p>
 <p>If you have a question regarding a product or service, please contact Customer Service by e-mail <a href="mailto:customerservice@service.shopadidas.com">customerservice@service.shopadidas.com</a>.</p>
 <p>The adidas Group is a global player which is represented in markets all over the world. To find out more about our major locations, see <a href="http://www.adidas-group.com/en/ourgroup/locations/default.aspx">http://www.adidas-group.com/en/ourgroup/locations/default.</a></p>
 <p><b><u>European Union and Swiss Residents</u></b></p>
@@ -1116,7 +1470,7 @@ function tagPageElement(inElCat,inElName) {
 <p>To return to the Website, please use the "Back" button on your browser.</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p>REV: 06/21/2012</p> 	
+<p>REV: 12/28/2012</p> 	
 			
 		<!-- === End CMS Content: http://localhost:8080/us/cms_content/adi/us/en/staticcontent/privacy_security/html/privacyPolicies.html === -->
 	
@@ -1175,43 +1529,73 @@ function tagPageElement(inElCat,inElName) {
  <!-- === Begin CMS Content === -->
 		<!-- === Content Path: http://localhost:8080/us/cms_content/adi/us/en/sitecontent/footer/media/onesite_footer.html === -->
 		
-			<div id="footer">
+			 
+<script type="text/javascript"> 
+// some pages have this footer cartridge nested inside of 'contentWrapper'
+// adding a closing div tag here puts 'footer' in 'mainWrapper'
+if(typeof needs_mainWrapper_div_closed != 'undefined' && needs_mainWrapper_div_closed==1){document.write('</div>')}
+ 
+// this handles the content blocks in the cart
+// show_cart_blocks
+if(typeof show_cart_blocks != 'undefined' && show_cart_blocks==1){
+ 
+	var $theCartMsg=$('#cartMessaging');
+	$('#contentWrapper.cartPage .leftCol').append($theCartMsg);
+	if ($("#cart_rr").length==0){
+		$theCartMsg.css("marginTop","44px")
+	}
+	$theCartMsg.show();
+}
+ 
+</script>
+ 
+<div id="footer">
+	<div id="footerTop">
+		<ul>
+			<li id="blackBarSpot1" class="shipping"><a name="blackbar_free_ship_info" href="javascript:cPop('/us/promo/?promo=shop_sw_fsnomin_040113', height= 465, width=500)" onclick="tagManualLinkClick('/us/promo/?promo=shop_sw_fsnomin_040113&amp;cm_sp=global_footer-_-black_bar-_-free_shipping','free_shipping')">Free Shipping</a> *</li>
+			<li id="blackBarSpot2" class="barspacer">&nbsp;</li>
+			<li id="blackBarSpot3" class="">The Official adidas Store</li>
+			<li id="blackBarSpot4" class="barspacer">&nbsp;</li>
+			<li id="blackBarSpot5" class="customer-service" style="float:right"><a href="tel:1-800-982-9337" manual_cm_sp="global_footer-_-black_bar-_-800_phone_number">Call Us Anytime 1-800-982-9337</a></li>
+		</ul>
+	</div>
+ 
 	<div id="footerContent">
-
+ 
 		<div id="footerLinksWrapper">
-
+ 
 			<ul class="column">
 				<li>
 					<h3 class="group-title"><a href="/us/men/_/N-u2" manual_cm_sp="global_footer-_-shop_men-_-shop_men">Shop Men</a></h3>
 					<ul class="subCategory">
-						<li><a href="/us/shoes-men/_/N-svZu2" manual_cm_sp="global_footer-_-shop_men-_-shoes">Shoes</a></li>
-						<li><a href="/us/apparel-men/_/N-sxZu2" manual_cm_sp="global_footer-_-shop_men-_-apparel">Apparel</a></li>
-						<li><a href="/us/accessories-men/_/N-swZu2" manual_cm_sp="global_footer-_-shop_men-_-accessories">Accessories</a></li>
+						<li><a href="/us/shoes-men/_/N-svZu2" manual_cm_sp="global_footer-_-shop_men-_-shoes">Men's Shoes</a></li>
+						<li><a href="/us/apparel-men/_/N-sxZu2" manual_cm_sp="global_footer-_-shop_men-_-apparel">Men's Apparel</a></li>
+						<li><a href="/us/accessories-men/_/N-swZu2" manual_cm_sp="global_footer-_-shop_men-_-accessories">Men's Accessories</a></li>
 					</ul>
 				</li>
 				<li>
 					<h3 class="group-title"><a href="/us/women-s/_/N-u3" manual_cm_sp="global_footer-_-shop_women-_-shop_women">Shop Women</a></h3>
 					<ul class="subCategory">
-						<li><a href="/us/shoes-women/_/N-svZu3" manual_cm_sp="global_footer-_-shop_women-_-shoes">Shoes</a></li>
-						<li><a href="/us/apparel-women/_/N-sxZu3" manual_cm_sp="global_footer-_-shop_women-_-apparel">Apparel</a></li>
-						<li><a href="/us/accessories-women/_/N-swZu3" manual_cm_sp="global_footer-_-shop_women-_-accessories">Accessories</a></li>
+						<li><a href="/us/shoes-women/_/N-svZu3" manual_cm_sp="global_footer-_-shop_women-_-shoes">Women's Shoes</a></li>
+						<li><a href="/us/apparel-women/_/N-sxZu3" manual_cm_sp="global_footer-_-shop_women-_-apparel">Women's Apparel</a></li>
+						<li><a href="/us/accessories-women/_/N-swZu3" manual_cm_sp="global_footer-_-shop_women-_-accessories">Women's Accessories</a></li>
 					</ul>
 				</li>
 				<li>
 					<h3 class="group-title"><a href="/us/kids/_/N-u4" manual_cm_sp="global_footer-_-shop_kids-_-shop_kids">Shop Kids</a></h3>
 					<ul class="subCategory">
-						<li><a href="/us/kids-originals/_/N-u4Z1z13ybj" manual_cm_sp="global_footer-_-shop_kids-_-kids_originals">Kids Originals</a></li>
+						<li><a href="/us/kids-originals/_/N-u4Z1z13ybj" manual_cm_sp="global_footer-_-shop_kids-_-kids_originals">Kids' Originals</a></li>
 						<li><a href="/us/kids/_/N-u4Z1z139lo" manual_cm_sp="global_footer-_-shop_kids-_-new_arrivals">New Arrivals</a></li>
-						<li><a href="/us/apparel-kids-boys/_/N-sxZu4Z1z141tl?nav=gender" manual_cm_sp="global_footer-_-shop_kids-_-boys_apparel">Boys Apparel</a></li>
-						<li><a href="/us/apparel-kids-girls/_/N-sxZu4Z1z141t1?nav=gender" manual_cm_sp="global_footer-_-shop_kids-_-girls_apparel">Girls Apparel</a></li>
+						<li><a href="/us/apparel-kids-boys/_/N-sxZu4Z1z141tl?nav=gender" manual_cm_sp="global_footer-_-shop_kids-_-boys_apparel">Boy's Apparel</a></li>
+						<li><a href="/us/apparel-kids-girls/_/N-sxZu4Z1z141t1?nav=gender" manual_cm_sp="global_footer-_-shop_kids-_-girls_apparel">Girl's Apparel</a></li>
 						<li><a href="/us/apparel-kids-infant-toddler/_/N-sxZu4Z1z139aa" manual_cm_sp="global_footer-_-shop_kids-_-infants_toddlers_apparel">Infants &amp; Toddlers Apparel</a></li>
-						<li><a href="/us/shoes-kids-boys/_/N-svZu4Z1z141tl?nav=gender" manual_cm_sp="global_footer-_-shop_kids-_-boys_shoes">Boys Shoes</a></li>
-						<li><a href="/us/shoes-kids-girls/_/N-svZu4Z1z141t1?nav=gender" manual_cm_sp="global_footer-_-shop_kids-_-girls_shoes">Girls Shoes</a></li>
+						<li><a href="/us/shoes-kids-boys/_/N-svZu4Z1z141tl?nav=gender" manual_cm_sp="global_footer-_-shop_kids-_-boys_shoes">Boy's Shoes</a></li>
+						<li><a href="/us/shoes-kids-girls/_/N-svZu4Z1z141t1?nav=gender" manual_cm_sp="global_footer-_-shop_kids-_-girls_shoes">Girl's Shoes</a></li>
 						<li><a href="/us/shoes-kids-infant-toddler/_/N-svZu4Z1z139aa" manual_cm_sp="global_footer-_-shop_kids-_-infants_toddlers_shoes">Infants &amp; Toddlers Shoes</a></li>
 					</ul>
 				</li>
 			</ul>
-
+ 
 			<ul class="column">
 				<li>
 					<h3 class="group-title">Sports</h3>
@@ -1228,7 +1612,8 @@ function tagPageElement(inElCat,inElName) {
 					<h3 class="group-title">Shop Collections</h3>
 					<ul class="subCategory">
 						<li><a href="/us/new-arrivals/_/N-1z139lo" manual_cm_sp="global_footer-_-shop_collections-_-new_arrivals">New Arrivals</a></li>
-						<li><a href="/us/jeremy-scott/_/N-1z132gn" manual_cm_sp="global_footer-_-shop_collections-_-obyo">Jeremy Scott</a></li>
+						<li><a href="/us/jeremy-scott/_/N-1z132gn" manual_cm_sp="global_footer-_-shop_collections-_-Jeremy_Scott">Jeremy Scott</a></li>
+                    	<li><a href="/us/graphic-tees/_/N-1z124qo" manual_cm_sp="global_footer-_-shop_collections-_-Graphic_Tees">Graphic Tees</a></li>
 						<li><a href="/us/adizero/_/N-1z12mjf" manual_cm_sp="global_footer-_-shop_collections-_-adizero">adizero</a></li>
 						<li><a href="/us/nba-shop/_/N-1z139lf" manual_cm_sp="global_footer-_-shop_collections-_-nba">NBA Shop</a></li>
 						<li><a href="/us/accessories-micoach/_/N-swZ1z12min" manual_cm_sp="global_footer-_-shop_collections-_-micoach">miCoach</a></li>
@@ -1244,10 +1629,10 @@ function tagPageElement(inElCat,inElName) {
 					</ul>
 				</li>
 			</ul>
-
+ 
 			<ul class="column">
 				<li>
-					<h3 class="group-title">Originals</h3>
+					<h3 class="group-title"><a href="/us/originals/_/N-1z13ybj" manual_cm_sp="global_footer-_-originals-_-originals">Originals</a></h3>
 					<ul class="subCategory">
 						<li><a href="/us/shoes-originals/_/N-svZ1z13ybj" manual_cm_sp="global_footer-_-originals-_-shoes">Shoes</a></li>
 						<li><a href="/us/apparel-originals/_/N-sxZ1z13ybj" manual_cm_sp="global_footer-_-originals-_-apparel">Apparel</a></li>
@@ -1255,39 +1640,50 @@ function tagPageElement(inElCat,inElName) {
 						<li><a href="/us/jeremy-scott/_/N-1z132gn" manual_cm_sp="global_footer-_-originals-_-obyo">Jeremy Scott</a></li>
 						<li><a href="/us/iconics/_/N-1z138tv" manual_cm_sp="global_footer-_-originals-_-iconics">Iconics</a></li>
 						<li><a href="/us/adicolor-originals/_/N-1z12mj2Z1z13ybj" manual_cm_sp="global_footer-_-originals-_-adiColor">adiColor</a></li>
+						<li><a href="/us/men-s-originals/_/N-u2Z1z13ybj" manual_cm_sp="global_footer-_-originals-_-mens_originals">Men's Originals</a></li>
+						<li><a href="/us/women-s-originals/_/N-u3Z1z13ybj" manual_cm_sp="global_footer-_-originals-_-womens_originals">Women's Originals</a></li>
+						<li><a href="/us/kids-originals/_/N-u4Z1z13ybj" manual_cm_sp="global_footer-_-originals-_-kids_originals">Kids' Originals</a></li>
 					</ul>
 				</li>
-
+ 
 				<li>
-					<h3 class="group-title">Customize</h3>
+					<h3 class="group-title"><a href="/us/content/miadidas/" manual_cm_sp="global_footer-_-miadidas-_-customize" title="mi adidas Custom Shoes - Create Your Own">Customize</a></h3>
 					<ul class="subCategory">
-						<li><a href="/us/men-s/_/N-u2Z1z12gjj" manual_cm_sp="global_footer-_-miadidas-_-mens">Mens</a></li>
-						<li><a href="/us/women-s/_/N-u3Z1z12gjj" manual_cm_sp="global_footer-_-miadidas-_-womens">Womens</a></li>
-						<li><a href="/us/originals/_/N-1z12gjjZ1z13ybj" manual_cm_sp="global_footer-_-miadidas-_-originals">Originals</a></li>
+						<li><a href="/us/men-s/_/N-u2Z1z12gjj" manual_cm_sp="global_footer-_-miadidas-_-mens" title="Men's mi adidas Custom Shoes">Men</a></li>
+						<li><a href="/us/women-s/_/N-u3Z1z12gjj" manual_cm_sp="global_footer-_-miadidas-_-womens" title="Women's mi adidas Custom Shoes">Women</a></li>
+						<li><a href="/us/originals/_/N-1z12gjjZ1z13ybj" manual_cm_sp="global_footer-_-miadidas-_-originals" title="adidas Originals mi adidas Custom Shoes">Originals</a></li>
 						<li><a href="/us/sport/_/N-1z12gjjZ1z13y9u" manual_cm_sp="global_footer-_-miadidas-_-performance">Performance</a></li>
 					</ul>
 				</li>
-
+ 
 				<li>
 					<h3 class="group-title"><a href="/us/sale/_/N-1z13y2p?top=true" manual_cm_sp="global_footer-_-sale-_-sale"><span style="color:#FF0000">Sale</span></a></h3>
 					<ul class="subCategory">
 						<li><a href="/us/mens-sale/_/N-u2Z1z13y2p" manual_cm_sp="global_footer-_-sale-_-mens">Men's Sale</a></li>
 						<li><a href="/us/womens-sale/_/N-u3Z1z13y2p" manual_cm_sp="global_footer-_-sale-_-womens">Women's Sale</a></li>
-						<li><a href="/us/kids-sale/_/N-u4Z1z13y2p" manual_cm_sp="global_footer-_-sale-_-kids">Kids Sale</a></li>
+						<li><a href="/us/kids-sale/_/N-u4Z1z13y2p" manual_cm_sp="global_footer-_-sale-_-kids">Kids' Sale</a></li>
 					</ul>
 				</li>
-
+ 
 			</ul>
-
+ 
 			<ul class="column">
 				<li>
 					<h3 class="group-title"><a href="/us/content/helptopics" manual_cm_sp="global_footer-_-customer_service-_-customer_service">Customer Service</a></h3>
 					<ul class="subCategory">
-						<li><a href="/us/content/helptopics" manual_cm_sp="global_footer-_-customer_service-_-online_help">Online Help</a></li>
 						<!-- <li><a href="/us/content/FAQs">FAQs</a></li> -->
-						<li><a href="/us/myaccount/show" manual_cm_sp="global_footer-_-customer_service-_-my_account">My Account</a></li>
+						<li><a href="/us/content/helptopics" manual_cm_sp="global_footer-_-customer_service-_-online_help">Online Help</a></li>
+ 
+						<li><a href="/us/content/orderplacing" manual_cm_sp="global_footer-_-customer_service-_-ordering_online">Ordering Online</a></li>
+						<li><a href="/us/content/ordershippingoptions" manual_cm_sp="global_footer-_-customer_service-_-shipping_options ">Shipping Options &amp; Rates</a></li>
 						<li><a href="/us/content/returnpolicy" manual_cm_sp="global_footer-_-customer_service-_-return_policy">Return Policy</a></li>
+						<li><a href="/us/content/miorder" manual_cm_sp="global_footer-_-customer_service-_-mi_adidas" title="Ordering mi adidas custom shoes">mi adidas</a></li>
+						<li><a href="/us/myaccount/show" manual_cm_sp="global_footer-_-customer_service-_-my_account">My Account</a></li>
+						<li><a href="/us/content/teamsales" manual_cm_sp="global_footer-_-customer_service-_-adiconcierge">adiconcierge</a></li>
+						<li><a href="http://ebm.adidasusnews.com/r/regf2?aid=344098838&amp;n=620&amp;a=0&amp;SOURCE=SITE&amp;ACQUISITION_CAMPAIGN_ID=SITEFOOTER" target="_BLANK" manual_cm_sp="global_footer-_-customer_service-_-sign_up_email_save" title="Sign up for email and save!">Sign Up &amp; Save</a></li>
 						<li><a href="/us/content/storelocator" manual_cm_sp="global_footer-_-customer_service-_-find_a_store" title="adidas Retail Store Finder">Find a Store</a></li>
+						<li><a href="/us/content/contactus" manual_cm_sp="global_footer-_-customer_service-_-contact_us">Contact Us</a></li>
+						<li><a href="tel:1-800-982-9337" manual_cm_sp="global_footer-_-customer_service-_-800_phone_number">24-Hour Help 1-800-982-9337</a></li>
 						<!--li><a href="/us/content/sitemap" manual_cm_sp="global_footer-_-customer_service-_-site_map">Site Map</a></li-->
 					</ul>
 				</li>
@@ -1301,7 +1697,7 @@ function tagPageElement(inElCat,inElName) {
 					</ul>
 				</li>
 			</ul>
-
+ 
 			<ul class="column">
 				<li>
 					<h3 class="group-title">Company Info</h3>
@@ -1311,38 +1707,99 @@ function tagPageElement(inElCat,inElName) {
 						<li><a href="http://www.adidas-group.com/en/pressroom/PressRoom_AreaStart.aspx" manual_cm_sp="global_footer-_-company-_-press">Press</a></li>
 						<li><a href="/us/content/affiliates" manual_cm_sp="global_footer-_-company-_-partners_affiliates">Affiliates</a></li>
 						<li><a href="http://www.adidas-group.com/en/home/Welcome.aspx" manual_cm_sp="global_footer-_-company-_-corp_info">Corporate Information</a></li>
+						<li><a href="http://www.adidas-group.com/en/sustainability/welcome.aspx" manual_cm_sp="global_footer-_-company-_-sustainability">Sustainability</a></li>
 					</ul>
 				</li>
 			</ul>
-
+ 
 		</div>
-
+ 
 		<div id="footer-legal-bar">
 			<ul>
-				<li class="copyright">©2012 adidas America Inc.</li>
+				<li class="copyright">©2013 adidas America Inc.</li>
 			</ul>
 		</div>
-
+ 
 		<div id="slapChopSplits">
 		<script type="text/javascript">// <![CDATA[
 		function readCookie(a){var b=a+"=";var c=document.cookie.split(";");for(var d=0;d<c.length;d++){var e=c[d];while(e.charAt(0)==" ")e=e.substring(1,e.length);if(e.indexOf(b)==0)return e.substring(b.length,e.length)}return null}document.write('<span style="color:white;">'+readCookie("sa_SP")+"</span>")
 		// ]]></script><span style="color:white;">null</span>
 		</div>
-		<style>
-			#BVSVPLinkContainer,#BVFrame{display:none !important;}
-			#reivewRating{margin-top: 12px;}
-		</style>
-
+ 
 	</div>
-
+ 
 <!-- PadiAct Code -->
-<script type="text/javascript">
+<script type="text/javascript"> 
 (function() {
   var pa = document.createElement('script'), ae = document.getElementsByTagName('script')[0]
   , protocol = (('https:' == document.location.protocol) ? 'https://' : 'http://');pa.async = true;
   pa.src = protocol + 'd2xgf76oeu9pbh.cloudfront.net/b4c450e54fd0d2a70cfc592025a6c511.js'; pa.type = 'text/javascript'; ae.parentNode.insertBefore(pa, ae);
 })();
+ 
+function nrlskHook()
+{
+  //code to fire upon Subscribe
+  tagPageElement('EMAIL:PADIACT','subscribed');
+  var email_padi=$("#norilsk_overlay_div #nrlsk_email").attr('value');
+  tagRegistration(email_padi,email_padi,'','','','',exploreAttr);
+}
 </script>
+ 
+<script type="text/javascript"> 
+ 
+function doManyTimes(funcName,delay,num){
+  var time=0;
+  for (var i = 0; i < num; i++) {
+    time += delay;
+    setTimeout(function(j) {
+      return function() {funcName(j)}
+    }(i), time);
+  }
+}
+ 
+/////////////////////////////////
+// PLP Carousel updater
+/////////////////////////////////
+ 
+// only do this on PLPs
+if($('body#searchResultPage').length){
+ 
+  // only do this on PLPs with carousel active
+  if($('div#carousel').length && resx.rrec==true){
+ 
+    resx.tilesDone=0;
+    resx.theTiles={};
+    resx.arrowsDone=0;
+ 
+    resx.improveCarousel = function(x){
+      if(resx.tilesDone==0){
+        if($('#carousel.infiniteCarousel #Carouselfinal li a').length!=0){
+          resx.theTiles=$('#carousel.infiniteCarousel #Carouselfinal li a');
+          resx.theTiles.each(function(index){
+            $(this).attr('manual_cm_sp','RECS_PLP_CAROUSELS-_-Certona_Scheme_'+resx.rrelem+'-_-product_slot_'+index);
+          });
+          resx.tilesDone=1;
+        }
+      }
+      if(resx.arrowsDone==0){
+        if($('#carousel.infiniteCarousel a.arrow').length!=0){
+          $('#carousel.infiniteCarousel a.arrow.back').click(function() {
+            tagPageElement('RECS:PLP_CAROUSELS','RECS_PLP_CAROUSELS-_-Certona_Scheme_'+resx.rrelem+'_prev');
+          });
+          $('#carousel.infiniteCarousel a.arrow.forward').click(function() {
+            tagPageElement('RECS:PLP_CAROUSELS','RECS_PLP_CAROUSELS-_-Certona_Scheme_'+resx.rrelem+'_next');
+          });
+          resx.arrowsDone=1;
+        }
+      }
+    }
+    // call the the improveCarousel func 16 times 320 millisecs apart
+    doManyTimes(resx.improveCarousel,320,16);
+  }
+}
+</script>
+ 
+
  	
 			
 		<!-- === End CMS Content: http://localhost:8080/us/cms_content/adi/us/en/sitecontent/footer/media/onesite_footer.html === -->
@@ -1371,10 +1828,26 @@ function tagPageElement(inElCat,inElName) {
 
 
 
-<script type="text/javascript" src="http://www.adidas.com/us/theme1/adidas/foresee/foresee-trigger.js"></script>
-<!-- ========================= Ending Cartridge: foot ========================="-->
+<script type="text/javascript" src="http://www.adidas.com/us/theme1/adidas/foresee/foresee-trigger.js?v=1"></script>
+
+
+<!-- AUSO-3641 - Needle Integration - Common JS Library in the footer - start -->
+<!-- Begin Needle (fan-sourcing platform) snippet -->
+<script type="text/javascript">
+Needle = {onload: window.onload};
+window.onload = function() {
+    var e = document.createElement("script");
+    e.type = "text/javascript";
+    e.async = true;
+    e.src = document.location.protocol + "//adidas.needle.com/needle_service.js?20130509";
+    document.body.appendChild(e);
+    if (typeof Needle.onload != "undefined" && Needle.onload !== null) Needle.onload();
+};
+</script>
+<!-- End Needle snippet -->
+<!-- Needle Integration - Common JS Library in the footer - end --><!-- ========================= Ending Cartridge: foot ========================="-->
  
 		</div>
 	
 <!-- ========================= Ending Page Content for Privacy Policies ========================= -->
-</div></body></html>
+</div><script type="text/javascript" async="" src="https://adidas.needle.com/needle_service.js?20130509"></script></body></html>
