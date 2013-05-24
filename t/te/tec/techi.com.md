@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techi.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213172229id_/http%3A//www.techi.com/disclaimer-and-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techi.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524204129id_/http%3A//www.techi.com/disclaimer-and-privacy-policy) for the most accurate reproduction.*
 
 # Disclaimer and Privacy Policy | Techi.com
 
@@ -30,4 +30,4 @@ We have appropriate security measures in place in our physical facilities and th
 Information provided by Website visitors is held in confidence and used for editorial and technical improvements to the Website.
 
 **Privacy Contact  
-If you feel that this Website is not following this Privacy Policy, you may [contact us](mailto:info@techi.com) at with your concerns.**
+If you feel that this Website is not following this Privacy Policy, you may [contact us](https://web.archive.org/contact) at with your concerns.**
