@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edin.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231195857id_/http%3A//www.educationalinsights.com/category/customer%2Bservice/privacy%2Band%2Bsecurity.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edin.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524190230id_/http%3A//www.educationalinsights.com/category/customer%2Bservice/privacy%2Band%2Bsecurity.do) for the most accurate reproduction.*
 
 # Privacy and Security - Customer Service - Educational Insights®
 
@@ -22,10 +22,12 @@ Does EducationalInsights.com disclose the information it receives?**
 As a matter of policy, we do not sell or rent any personally identifiable information about you to any third party outside of its affiliated companies.  
 **
 
-A special note to parents
+Protecting Children´s Privacy
 
 **  
-Educational Insights adheres to the guidelines of the Children's Online Privacy Protection Act of 1998 and the Children's Advertising Review Unit (CARU) of the Council of Better Business Bureaus, Inc. in our web sites. You can help by spending time online with your children and monitoring your children's online activities. Please help us protect your child's privacy by instructing them never to provide personal information on this site or any other without your permission. 
+Educational Insights' products, although intended for use by children, are available for adult purchase only. Persons under 18 are not permitted to purchase products from Educational Insights nor submit information stored by Educational Insights for action. Persons under 18 are required to use the site under the supervision of a legal guardian.
+
+In compliance with the Children's Online Privacy Protection Act of 1998 (COPPA), Educational Insights does not knowingly collect and store personal information from any persons under the age of 13. Private information identified as being gathered from a person under the age of 13 is used solely for completion of the requested action and immediately destroyed. This includes, but is not limited to, submissions to the Wish Lists and e-mail. 
 
 Cookies
 
