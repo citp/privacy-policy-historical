@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swinglifestyle.com privacy policy that was archived on 2012-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120818113810id_/http%3A//www.swinglifestyle.com/login/pp.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swinglifestyle.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524162228id_/http%3A//swinglifestyle.com/login/pp.htm) for the most accurate reproduction.*
 
 # Dashboard Privacy Policy
 
