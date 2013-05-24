@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the goingcrazywannago.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122224948id_/http%3A//goingcrazywannago.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goingcrazywannago.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524195338id_/http%3A//goingcrazywannago.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Going Crazy!! Wanna Go??!!
-
-[Pin It](http://pinterest.com/pin/create/button/?url=http://goingcrazywannago.com/privacy-policy/&media=&description=Privacy%20Policy)
+# Privacy Policy - Going Crazy! Wanna Go?
 
 If you have questions about this Privacy Policy, please contact me [here](http://goingcrazywannago.com/privacy-policy/ "Email"). The privacy of my followers is very important to me. I want to tell you about how the types of personal information I receive and collect when you visit my site is protected and how I strive to safeguard your information. I would never sell your personal information to third parties.
 
@@ -20,4 +18,4 @@ I will not knowingly collect or maintain identifiable information (personal or n
 
 **Revisions and Amendment** If you have further privacy concerns please do not hesitate to contact me [here](http://goingcrazywannago.com/privacy-policy/ "Email"). This Privacy Policy is effective as of August 2, 2011. This Privacy Policy is not intended to and does not create any contractual or other legal rights in or on behalf of any party. Going Crazy!! Wanna Go??!! reserves the right, at any time and without notice, to add to, modify, change or update this Privacy Policy, simply by posting such change, update or modification on the site. Any such change, update or modification will be effective immediately upon posting.  
 
-Love it?!! Share it!!
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [http://www.networkadvertising.org/managing/opt_out.asp ](http://www.networkadvertising.org/managing/opt_out.asp)
