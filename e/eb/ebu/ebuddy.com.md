@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebuddy.com privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103035230id_/http%3A//www.ebuddy.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebuddy.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524161552id_/http%3A//www.ebuddy.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | eBuddy
 
@@ -36,9 +36,9 @@ When you use eBuddyServices to access IM services from othercompanies (such as M
 
 When creating an eBuddy ID you provide eBuddy with certain information, such as your eBuddy ID log-in, password, gender, age, and e-mail address. We also store the account credentials(network, user name and password) for all IM accounts associated with your eBuddy ID. These account credentials are stored in an encrypted manner. 
 
-### eBuddy XMS
+### XMS
 
-When you use eBuddy XMS you may provide us with your name, phone number, email address and allow us to access your address book. Your phone number may be verified by sending you a verification code in an SMS text message. A copy of your phone address book will be transmitted to and stored on our servers and used to provide you and other users with Suggested Contacts (see below). The transmission of your phone address book will be done in an encrypted manner, and the names, phone numbers and email addresses will be stored in encrypted format. We may also ask you to provide your age, gender, or other personal information or preferences. 
+When you use XMS you may provide us with your name, phone number, email address and allow us to access your address book. Your phone number may be verified by sending you a verification code in an SMS text message. A copy of your phone address book will be transmitted to and stored on our servers and used to provide you and other users with Suggested Contacts (see below). The transmission of your phone address book will be done in an encrypted manner, and the names, phone numbers and email addresses will be stored in encrypted format. We may also ask you to provide your age, gender, or other personal information or preferences. 
 
 ### Private messages
 
@@ -83,17 +83,17 @@ eBuddy will use the information it collects for the following purposes:
 
 As a general matter, we use the information we collect, to provide the Service to you. We will also try to enhance and personalize your use of the eBuddy Services based on this information. eBuddy may offer you targeted advertisements based on for example your age, gender and type of device.
 
-In addition, eBuddy wants to keep you informed of developments of the eBuddy service and of any promotional actions by eBuddy. We may ask you to participate in surveys in order to help us enhance the Service. If you do not want to receive this kind of messages about the Service, you can unsubscribe via this Internet address: [http://www.ebuddy.com/unsubscribe.html](https://web.archive.org/web/20121103035230id_/http%3A//www.ebuddy.com/unsubscribe.html).
+In addition, eBuddy wants to keep you informed of developments of the eBuddy service and of any promotional actions by eBuddy. We may ask you to participate in surveys in order to help us enhance the Service. If you do not want to receive this kind of messages about the Service, you can unsubscribe via this Internet address: [http://www.ebuddy.com/unsubscribe.html](https://web.archive.org/web/20130524161552id_/http%3A//www.ebuddy.com/unsubscribe.html).
 
 eBuddy uses the information it collects for statistical purposes and for reporting. This allows usfor example to monitor performance and detect technical problems. All analysis is done in an anonymous, aggregate manner, such that no part of the data can be traced back to individual users.
 
-### Verification SMS for eBuddy XMS
+### Verification SMS for XMS
 
-To verify your phone number in the eBuddy XMS application we may send you a confirmation SMS. eBuddy will not charge you for this confirmation SMS. Please note that depending on your country and operator, standard message and data rates may apply. The companies that provide eBuddy with the SMS gateway are contractually bound to use your number exclusively for the confirmation SMS.
+To verify your phone number in the XMS application we may send you a confirmation SMS. eBuddy will not charge you for this confirmation SMS. Please note that depending on your country and operator, standard message and data rates may apply. The companies that provide eBuddy with the SMS gateway are contractually bound to use your number exclusively for the confirmation SMS.
 
-### Sse of phone address book for suggested contacts in eBuddy XMS
+### Sse of phone address book for suggested contacts in XMS
 
-The eBuddy XMS Service may use the content of your phone address book to provide you as well as other users with “Suggested Contacts”. When we offer you a Suggested Contact, we believe this user may be of interest to you. You are always able to accept or reject the Suggested Contact. We may propose you as Suggested Contact to other users. In doing so, we may use the name and profile picture you have provided to us and show this to other users. We will not share your direct contact details such as your phone number or your email address with any other users. However, any user that has your contact details (such as phone number or email address) through other means may be able to send you a message. We will provide you with the option to block a user from sending you messages.
+The XMS Service may use the content of your phone address book to provide you as well as other users with “Suggested Contacts”. When we offer you a Suggested Contact, we believe this user may be of interest to you. You are always able to accept or reject the Suggested Contact. We may propose you as Suggested Contact to other users. In doing so, we may use the name and profile picture you have provided to us and show this to other users. We will not share your direct contact details such as your phone number or your email address with any other users. However, any user that has your contact details (such as phone number or email address) through other means may be able to send you a message. We will provide you with the option to block a user from sending you messages.
 
 ### Use by third parties
 
