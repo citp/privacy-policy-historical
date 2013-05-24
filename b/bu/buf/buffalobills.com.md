@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the buffalobills.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230183500id_/http%3A//www.buffalobills.com/about-us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buffalobills.com privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525010416id_/http%3A//www.buffalobills.com/about-us/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Buffalo Bills
 
-## Buffalo Bills Team Privacy Policy
-
-This privacy policy is applicable to the Website[s] accessible at buffalobills.com, which is operated pursuant to a strategic relationship between Buffalo Bills Inc. and Sportvision Inc. The purpose of this privacy policy is to disclose to you what information we may collect, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you.
+This privacy policy is applicable to the Website[s] accessible at buffalobills.com, which is operated pursuant to a strategic relationship between Buffalo Bills Inc. and Sportvision Inc. The purpose of this privacy policy is to disclose to you what information we may collect, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you. 
 
 ### TYPES OF INFORMATION THAT MAY BE COLLECTED
 
