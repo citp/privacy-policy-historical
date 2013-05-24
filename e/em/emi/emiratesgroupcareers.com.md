@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the emiratesgroupcareers.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531093719id_/http%3A//www.emiratesgroupcareers.com/system/ASPX/Link.aspx%3FID%3Dtcm%3A401-395414) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emiratesgroupcareers.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524200659id_/http%3A//www.emiratesgroupcareers.com/system/ASPX/Link.aspx%3FID%3Dtcm%3A401-395414) for the most accurate reproduction.*
 
-# Privacy Policy | Emirates Group Careers Centre
+# 
 
 **Information collection and use**|  **Why do we need your personal information?**  
 ---|---  
