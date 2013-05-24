@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the universetoday.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123085440id_/http%3A//www.universetoday.com/28582/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the universetoday.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524084715id_/http%3A//www.universetoday.com/28582/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Want to stay on top of all the space news? Follow [**@universetoday**](https://twitter.com/#!/universetoday) on Twitter
 
-Universe Today is run by me, Fraser Cain, and only me, and I’m pretty serious about maintaining your privacy. I don’t like to get spam, and can appreciate that you don’t want to get any either. So, here’s the deal…
+[Universe](http://www.universetoday.com/36425/the-universe/) Today is run by me, Fraser Cain, and only me, and I’m pretty serious about maintaining your privacy. I don’t like to get spam, and can appreciate that you don’t want to get any either. So, here’s the deal…
 
 **What Information is Collected**  
 When you visit Universe Today, my webserver automatically logs the following information, which I use to understand general usage of the website. This is completely standard. Pretty much every single website on the entire Internet stores traffic logs exactly like this.
