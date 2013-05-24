@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the k12reader.com privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028231534id_/http%3A//k12reader.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the k12reader.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524051946id_/http%3A//k12reader.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -100,7 +100,7 @@ info@k12reader.com
 
 **Privacy Policy Customer Pledge**
 
-We pledge to you, our customer, that we have made a dedicated effort to bring our privacy policy in line with the the following important privacy laws and initiatives:  
+We pledge to you, our customer, that we have made a dedicated effort to bring our privacy policy in line with the following important privacy laws and initiatives:  
 Federal Trade Commission Fair  
 California Online Privacy Protection Act  
 Childrens Online Privacy Protection Act  
