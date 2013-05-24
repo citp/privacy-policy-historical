@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the monsterauto.ca privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014083131id_/http%3A//www.monsterauto.ca/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monsterauto.ca privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524133732id_/http%3A//www.monsterauto.ca/privacy.php) for the most accurate reproduction.*
 
 # MonsterAuto.ca: Privacy Policy
 
@@ -25,7 +25,7 @@
   * MonsterAuto.ca may want to contact you to notify you of changes to the Website, special events or new services or products MonsterAuto.ca is offering that we think may interest you. 
 
 
-  * If you want to update any of your information held by MonsterAuto.ca, you can either make certain changes on-line or you can send an email detailing the required amendments to [support@monsterauto.ca](https://web.archive.org/web/20121014083131id_/http%3A//www.monsterauto.ca/@@@@@@:support@monsterauto.ca)
+  * If you want to update any of your information held by MonsterAuto.ca, you can either make certain changes on-line or you can send an email detailing the required amendments to [support@monsterauto.ca](https://web.archive.org/web/20130524133732id_/http%3A//www.monsterauto.ca/@@@@@@:support@monsterauto.ca)
 
 
   * MonsterAuto.ca reserves the right to access and disclose personal data or information to comply with applicable laws and lawful government requests, to operate its systems properly, or to protect itself or its users. 
@@ -86,4 +86,4 @@
 
 9\. Feedback 
 
-·        If you have any queries or problems with regard to this Privacy Policy or the uses to which we put your information, please e-mail us at [support@monsterauto.ca](https://web.archive.org/web/20121014083131id_/http%3A//www.monsterauto.ca/@@@@@@:support@monsterauto.ca).
+·        If you have any queries or problems with regard to this Privacy Policy or the uses to which we put your information, please e-mail us at [support@monsterauto.ca](https://web.archive.org/web/20130524133732id_/http%3A//www.monsterauto.ca/@@@@@@:support@monsterauto.ca).
