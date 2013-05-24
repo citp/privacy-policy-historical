@@ -1,69 +1,54 @@
-> *The following text is extracted and transformed from the ping.fm privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521195638id_/http%3A//www.ping.fm/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ping.fm privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524233336id_/http%3A//hootsuite.com/privacy) for the most accurate reproduction.*
 
-# Ping.fm / Privacy Policy
+# Privacy Policy - HootSuite Media
 
-##  [](https://web.archive.org/) > Privacy Policy 
+## HootSuite Privacy Policy
 
-**First and foremost:**
+We collect the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, and information volunteered by the consumer (such as survey information and/or site registrations). The information we collect is used to improve the content of our Web pages and the quality of our service, and is not shared with or sold to other organizations for commercial purposes, except to provide products or services you've requested, when we have your permission, or under the following circumstances:
 
-Any data you share with Ping.fm will be used only for the service we provide. We don't share your personal information with anyone and no other websites have access to our databases. We've ensured even higher security with top of the line SSL encryption. 
-
-If you ever have any questions regarding your information or the reliability of our security measures, don't hesitate to contact us about it. 
-
-**Your privacy is important to us.**
-
-Safeguarding your privacy and the security of your personal information is important to us. Please take a few minutes to read the following policy so that you understand how we treat your personal information. As we continuously improve and expand our services, this policy might change. So please check it out periodically. If you have questions about our policy, please [contact us](https://web.archive.org/contact/). 
-
-We collect information in three ways: 
-
-  1. We collect information that our users supply to us.
-  2. We collect information from emails and other contacts sent to us by our users and users of our website. 
-  3. We collect information electronically on all users of our website, including users, by means of cookies. 
+  1. It is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Terms of Service, or as otherwise required by law. 
+  2. We transfer information about you if HootSuite Media Inc. or HootSuite is acquired by or merged with another company. In this event, HootSuite Media Inc. will notify you before information about you is transferred and becomes subject to a different privacy policy.
 
 
 
-Further details are provided below. 
+**Information Gathering and Usage**
 
-**What personal information we collect from our users.**
+  1. When you register for HootSuite we ask for information such as your name, company name, email address, billing address, credit card information. Members who sign up for the free account are not required to enter a credit card.
+  2. HootSuite Media Inc. uses collected information for the following general purposes: products and services provision, billing, identification and authentication, services improvement, contact, advertising and research.
 
-When you set up an account at Ping.fm to use our service, you are required to provide us your e-mail address only. You must also choose your password and provide it to us. 
 
-Additional information collected is for the website profiles, or the actual website that your content will be delivered. This consists of website url, and the path location to your delivery script. 
 
-**Our use of cookies.**
+**Cookies**
 
-Like many websites on the Internet, our website uses cookies. Cookies are small strings of data placed on a user's personal computer hard drive during the exchange of data that happens when your browser points to our website. Cookies enable a website to identify a user's browser as a previous visitor by means of a unique string of numbers assigned on a previous visit. Our cookies assist us in collecting information on what pages of our website you access or visit, and in recording any preferences you indicate on our website. We also use cookies to make your experience on Ping.fm more personalized, and convenient. 
+  1. A cookie is a small amount of data, which often includes an anonymous unique identifier, that is sent to your browser from a web site's computers and stored on your computer's hard drive.
+  2. Cookies are required to use the HootSuite service.
+  3. We use cookies to record current session information, but do not use permanent cookies. You are required to log-in to your HootSuite Project Site after a certain period of time has elapsed to protect you against others accidentally accessing your account contents.
 
-Our cookies cannot and do not retrieve any other data from your hard drive or pass on computer viruses. If you are just browsing our website, a cookie identifies your browser and e-mail address, not your identity. 
 
-**How we store the information we collect.**
 
-We store the information you provide to us and the information we collect electronically in our computer databases. We own, maintain and operate our computer servers containing our databases. Access to our computer servers is controlled by strict network security. 
+**Data Storage**
 
-**How we use the information we collect.**
+HootSuite Media Inc. uses third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run HootSuite. Although HootSuite Media Inc. owns the code, databases, and all rights to the HootSuite application, you retain all rights to your data.
 
-We do not sell your personal information, or any information that can be identified to you personally, to any third-party marketers or other third parties. We do aggregate information about how our service is used (without specific identification to any particular user) to be able to improve our service and make it more responsive to our users' preferences. 
+**Disclosure**
 
-You can control how information about you is used. You can also limit our communications directly to you. If you have a Ping.fm account and do not want to receive emails telling you about our other services in the future, please let us know. 
+  1. HootSuite Media Inc. may disclose personally identifiable information under special circumstances, such as to comply with subpoenas or when your actions violate the Terms of Service. 
 
-Ping.fm may from time to time send nonpromotional email to all registered users for the purpose of gathering and dispersing data to provide better services to our users. Registered users will be under no obligation to reply or answer questions in said nonpromotional email. Nonpromotional email will include, but will not be limited to, surveys, maintenance notices and system updates. 
 
-**Our policies may change.**
 
-This is our current privacy and security policy, but we reserve the right to change our website and this policy at any time. You should check this privacy policy periodically. If our policies regarding collection, storage and use of your information change, the information collected under prior policies will continue to be governed by those policies, unless we obtain your consent to use that information in new ways. 
+**Email Preferences**
 
-**You can access your information.**
+You can manage your email preferences, such as opt-out or unsubscribe from emails sent by HootSuite Media, Inc., by adjusting your preferences in your account settings. You can also opt-out or unsubscribe from any future email communications from within each email correspondence that we send you.
 
-Upon your request, we will provide you with access to your unique account-related information and information from contacts that we maintain about you. In your request, please provide us with your current specific contact information so that we can accurately check our records. 
+**Changes**
 
-**How is my information protected?**
+HootSuite Media Inc. may periodically update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your HootSuite primary account holder account or by placing a prominent notice on our site.
 
-Your information is password-protected. In order to maintain this protection, we caution you not to provide your password to anyone. We do not give your password to anyone. We recommend that, if you share your computer with other people, you close your browser window when your session is completed. Logging out will protect your information if you share a computer with someone else or are using a computer in a public place like a library. 
+**Questions**
 
-Please contact us with any questions or comments. 
+Any questions about this Privacy Policy should be addressed to HootSuite Twitter support at [@hootsuite_help](https://twitter.com/hootsuite_help) or by mail at:
 
-We want you to enjoy your use of Ping.fm's service. If you have any questions, or believe that a violation of this policy may have occurred, please let us know by using our [contacting us](https://web.archive.org/contact/). 
-
-Last updated: 02.28.2008 
-
-Copyright © 2011 Seesmic - Trademarks and tradenames used herein are the property of their respective holders.
+**HootSuite Media Inc.**  
+5 East 8th Avenue  
+Vancouver, BC, Canada  
+V5T 4S8
