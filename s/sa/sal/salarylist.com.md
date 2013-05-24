@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the salarylist.com privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029062944id_/http%3A//www.salarylist.com/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salarylist.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524102328id_/http%3A//www.salarylist.com/about/privacy.htm) for the most accurate reproduction.*
 
-# 
+# Privacy Policy | SalaryList.com
 
 **PRIVACY POLICY**
 
@@ -22,7 +22,7 @@ This page summarizes the key highlights from our privacy policy. By using Salary
 
 We collect information:
 
-When you register an account to become a user (â€œUserâ€), such as your name, e-mail, country, location and a password.
+When you register an account to become a user (“User”), such as your name, e-mail, country, location and a password.
 
 When you add to your profile with further information about yourself or your private contacts.
 
@@ -76,17 +76,17 @@ We reserve the right to modify this privacy statement at any time, so please rev
 
 Please read this privacy policy to learn more about:
 
-Â·        What personally identifiable information of yours is collected by JobsAndCareer.com Network sites.
+·        What personally identifiable information of yours is collected by JobsAndCareer.com Network sites.
 
-Â·        How the information is used.
+·        How the information is used.
 
-Â·        With whom the information may be shared.
+·        With whom the information may be shared.
 
-Â·        How you can access and change your account settings.
+·        How you can access and change your account settings.
 
-Â·        What security procedures are in place to protect the loss, misuse or alteration of information collected by JobsAndCareer.com Network sites.
+·        What security procedures are in place to protect the loss, misuse or alteration of information collected by JobsAndCareer.com Network sites.
 
-Â·        How to contact us.
+·        How to contact us.
 
 1\. Personal Information Collected
 
@@ -110,15 +110,15 @@ You may also choose to manually enter or upload data about your contacts into yo
 
 1.4 Customer Service
 
-JobsAndCareer.com Network sites may collect information through the JobsAndCareer.com Network sites in order to, among other things, accurately categorize and respond to a customerâ€™s inquiry and deliver appropriate service levels.
+JobsAndCareer.com Network sites may collect information through the JobsAndCareer.com Network sites in order to, among other things, accurately categorize and respond to a customer’s inquiry and deliver appropriate service levels.
 
 1.5 Cookies
 
 Like most websites, JobsAndCareer.com Network sites use cookies and web log files to track site usage. A cookie is a tiny data file which resides on your computer which allows JobsAndCareer.com Network sites to recognize you as a User when you return to the JobsAndCareer.com Network sites using the same computer and web browser. If your browser settings do not allow cookies, you will not be able to use the JobsAndCareer.com Network sites. Like the information you enter at registration or in your Profile, cookie and log file data is used to customize your experience on our website.
 
-One type of cookie, known as a â€œpersistentâ€ cookie, is set once youâ€™ve logged in to your JobsAndCareer.com Network sites account. The next time you visit the JobsAndCareer.com Network sites, the persistent cookie will allow us to recognize you as an existing User so you will not need to log in before using the service. In order to access or change any of your private information or to send a message to another User, however, you must log in securely again with your password even if your computer contains your persistent cookie.
+One type of cookie, known as a “persistent” cookie, is set once you’ve logged in to your JobsAndCareer.com Network sites account. The next time you visit the JobsAndCareer.com Network sites, the persistent cookie will allow us to recognize you as an existing User so you will not need to log in before using the service. In order to access or change any of your private information or to send a message to another User, however, you must log in securely again with your password even if your computer contains your persistent cookie.
 
-Additionally, if you log out of the JobsAndCareer.com Network sites you will need to re-enter your password the next time you visit in order to log in to your account. Another type of cookie, called a â€œsessionâ€ cookie, is used to identify a particular visit to the JobsAndCareer.com Network sites. Session cookies expire after a short time or when you close your web browser.
+Additionally, if you log out of the JobsAndCareer.com Network sites you will need to re-enter your password the next time you visit in order to log in to your account. Another type of cookie, called a “session” cookie, is used to identify a particular visit to the JobsAndCareer.com Network sites. Session cookies expire after a short time or when you close your web browser.
 
 We use cookies to improve the quality of our service by storing User preferences and tracking User trends. In the course of serving advertisements or optimizing services to our Users, we may allow authorized third parties to place or recognize a unique cookie on your browser. Any information provided to third parties through such cookies will not be personally identifiable but may provide general segment information, e.g. your industry or geographic location, your occupation, or information about your professional or educational background, for greater customization of your user experience. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. Unfortunately, if your browser settings do not allow cookies or you opt to refuse all cookies, you may not be able to use the JobsAndCareer.com Network sites or services. JobsAndCareer.com Network sites do not store personally identifiable information in the cookies.
 
@@ -130,7 +130,7 @@ Due to the communications standards on the Internet, when you visit the JobsAndC
 
 1.7 Consent toJobsAndCareer.com Network Sites Processing Information about You
 
-Certain information you provide to JobsAndCareer.com Network sites may reveal, or allow others to identify, your nationality, ethnic origin, religion or other aspects of your private life, and more generally about you. Please be aware that in providing information to JobsAndCareer.com Network sites for the purposes of opening your user account, you are expressly and voluntarily accepting the terms and conditions of this Privacy Policy and JobsAndCareer.com Network sitesâ€™ Terms of Use. The supplying of all such information by you to JobsAndCareer.com Network sites, including all information deemed â€œsensitiveâ€ by applicable law, is entirely voluntary on your part. You have the right to withdraw your consent at any time, in accordance with the terms of this Privacy Policy and the Terms of Use, but please note that your withdrawal of consent will not be retroactive.
+Certain information you provide to JobsAndCareer.com Network sites may reveal, or allow others to identify, your nationality, ethnic origin, religion or other aspects of your private life, and more generally about you. Please be aware that in providing information to JobsAndCareer.com Network sites for the purposes of opening your user account, you are expressly and voluntarily accepting the terms and conditions of this Privacy Policy and JobsAndCareer.com Network sites’ Terms of Use. The supplying of all such information by you to JobsAndCareer.com Network sites, including all information deemed “sensitive” by applicable law, is entirely voluntary on your part. You have the right to withdraw your consent at any time, in accordance with the terms of this Privacy Policy and the Terms of Use, but please note that your withdrawal of consent will not be retroactive.
 
 1.8 Rights to Access, Correct and Eliminate Information about You
 
@@ -154,9 +154,9 @@ Information provided to JobsAndCareer.com Network sites (or to third parties wit
 
 JobsAndCareer.com Network sites take the privacy of Users very seriously. We do not sell, rent, or otherwise provide your personally identifiable information to third parties for marketing purposes. We will only share your personally identifiable information with third parties to carry out your instructions or to provide specific services or information.
 
-JobsAndCareer.com Network sites offer a â€œpublic profileâ€ feature which allows Users to publish portions of their JobsAndCareer.com Network sites profile, including their â€œnameâ€, but not their â€œemail addressâ€ to the public Internet. Users may opt-out of this feature by contacting us, however JobsAndCareer.com Network sites do not warrant how often third-party search engines will update their cache.
+JobsAndCareer.com Network sites offer a “public profile” feature which allows Users to publish portions of their JobsAndCareer.com Network sites profile, including their “name”, but not their “email address” to the public Internet. Users may opt-out of this feature by contacting us, however JobsAndCareer.com Network sites do not warrant how often third-party search engines will update their cache.
 
-We may provide aggregated anonymous data about the usage of our services to third parties for such purposes as we deem, in our sole discretion, to be appropriate, including to prospective advertisers on JobsAndCareer.com Network sites. We may segment our Users by role (i.e. interview coach, career center), industry, geographic location, or company. If you would like to be excluded from the aggregated research or products based upon aggregated data about our Usersâ€™ activities on the site, please contact us.
+We may provide aggregated anonymous data about the usage of our services to third parties for such purposes as we deem, in our sole discretion, to be appropriate, including to prospective advertisers on JobsAndCareer.com Network sites. We may segment our Users by role (i.e. interview coach, career center), industry, geographic location, or company. If you would like to be excluded from the aggregated research or products based upon aggregated data about our Users’ activities on the site, please contact us.
 
 2.4 Surveys and Polls
 
@@ -168,7 +168,7 @@ If you post on the Answers section of JobsAndCareer.com Network sites, or use a 
 
 2.6 Communications to Other Users
 
-Many emails you initiate through JobsAndCareer.com Network sites, e.g., an invitation sent to a non-User, will list your email address and name in the header of the message. Emails you initiate may also provide aggregate information about your network (for instance how many answers you have provided), but will not list the people to whom youâ€™re directly connected. Other communications that you initiate through the JobsAndCareer.com Network sites, like a private message, will list your name as the initiator but will not include your personal contact information. Your contact information will only be shared with another User if both of you have indicated that you would like to establish contact with each other.
+Many emails you initiate through JobsAndCareer.com Network sites, e.g., an invitation sent to a non-User, will list your email address and name in the header of the message. Emails you initiate may also provide aggregate information about your network (for instance how many answers you have provided), but will not list the people to whom you’re directly connected. Other communications that you initiate through the JobsAndCareer.com Network sites, like a private message, will list your name as the initiator but will not include your personal contact information. Your contact information will only be shared with another User if both of you have indicated that you would like to establish contact with each other.
 
 2.7 Legal Disclaimer
 
@@ -176,7 +176,7 @@ It is possible that we may need to disclose personal information when required b
 
 2.8 Disclosures to Others
 
-We may also disclose your personal and other information you provide, to another third party as part of a reorganization or a sale of the assets of a JobsAndCareer.com Network site or company. Any third party to which we transfer or sell JobsAndCareer.comâ€™s assets will have the right to continue to use the personal and other information that you provide to us.
+We may also disclose your personal and other information you provide, to another third party as part of a reorganization or a sale of the assets of a JobsAndCareer.com Network site or company. Any third party to which we transfer or sell JobsAndCareer.com’s assets will have the right to continue to use the personal and other information that you provide to us.
 
 3\. Your Information Choices
 
