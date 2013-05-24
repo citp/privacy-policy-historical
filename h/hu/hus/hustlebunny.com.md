@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the hustlebunny.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122020047id_/http%3A//hustlebunny.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hustlebunny.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524024247id_/http%3A//hustlebunny.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | HustleBunny
 
 Updated on: July 21, 2010
 
- **IMPORTANT**
+**IMPORTANT**
 
 This site is owned and operated by Hustlebunny.com. Your privacy on the Internet is of the utmost importance to us. At Hustlebunny.com, we want to make your experience online satisfying and safe.
 
@@ -20,35 +20,35 @@ Hustlebunny.com gathers two types of information about users:
 
 Hustlebunny.com Gathers User Information In The Following Processes:
 
- **Optional Voluntary Information**
+**Optional Voluntary Information**
 
 We offer the following free services, which require some type of voluntary submission of personal information by users:
 
- **1\. Electronic Newsletters (Dispatches).**
+**1\. Electronic Newsletters (Dispatches).**
 
 We will offer a free electronic newsletter to users. Hustlebunny.com gathers the email addresses of users who voluntarily subscribe. Users may remove themselves from this mailing list by following the link provided in every newsletter that points users to the subscription management page. Users can also subscribe to the newsletters at the time of registration.
 
- **2\. Message Boards/Forums.**
+**2\. Message Boards/Forums.**
 
 Users of the site’s Message Boards and Forums must register separately for these services (both are free of charge) in order to post messages, although they needn’t register to visit the site. During registration the user is required to supply a username, password, and email address.
 
- **3\. “Email this to a friend” Service.**
+**3\. “Email this to a friend” Service.**
 
 Our site users can choose to electronically forward a link, page, or documents to someone else by clicking “email this to a friend”. The user must provide their email address, as well as that of the recipient. This information is used only in the case of transmission errors and, of course, to let the recipient know who sent the email. The information is not used for any other purpose.
 
- **4\. Polling.**
+**4\. Polling.**
 
 We may offer interactive polls to users so they can easily share their opinions with other users and see what our audience thinks about important issues. Opinions or other responses to polls are aggregated and are not identifiable to any particular user. Hustlebunny.com may use a system to “tag” users after they have voted, so they can vote only once on a particular question. This tag is not correlated with information about individual users.
 
- **5\. Surveys.**
+**5\. Surveys.**
 
 Hustlebunny.com may occasionally conduct user surveys to better target our content to our audience. We sometimes share the aggregated demographic information in these surveys with our sponsors, advertisers and partners. We never share any of this information about specific individuals with any third party.
 
- **CHILDREN**
+**CHILDREN**
 
 Consistent with the Federal Children’s Online Privacy Protection Act of 1998 (COPPA), we will never knowingly request personally identifiable information from anyone under the age of 13 without requesting parental consent.
 
- **USAGE TRACKING**
+**USAGE TRACKING**
 
 Hustlebunny.com tracks user traffic patterns throughout all of our sites. However, we do not correlate this information with data about individual users. Hustlebunny.com does break down overall usage statistics according to a user’s domain name, browser type, and MIME type by reading this information from the browser string (information contained in every user’s browser).
 
