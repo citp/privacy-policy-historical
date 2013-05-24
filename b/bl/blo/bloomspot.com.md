@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bloomspot.com privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205072811id_/http%3A//www.bloomspot.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloomspot.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524161924id_/http%3A//www.bloomspot.com/site/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - bloomspot - bloomspot
 
