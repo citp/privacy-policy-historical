@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citizenship.gov.au privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230193209id_/http%3A//www.immi.gov.au/functional/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citizenship.gov.au privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524041225id_/http%3A//www.immi.gov.au/functional/privacy.htm) for the most accurate reproduction.*
 
 # Privacy
 
@@ -9,17 +9,17 @@
 
 The _Privacy Act 1988_ defines personal information as 'information or an opinion (including information or an opinion forming part of a database), whether true or not, and whether recorded in a material form or not, about an individual whose identity is apparent, or can reasonably be ascertained, from the information or opinion'.
 
-This website is managed by the Department of Immigration and Citizenship (DIAC). DIAC takes seriously its obligation to protect your privacy.
+This website is managed by the Department of Immigration and Citizenship (DIAC). We take seriously our obligation to protect your privacy.
 
 The _Privacy Act 1988_ is the key law designed to protect your rights and prevent misuse of personal information collected by government agencies such as this department. 
 
-Also, information received by this department is protected from unauthorised use and disclosure by virtue of specific provisions in the _Migration Act 1958_ , _Crimes Act 1914_ , _Public Service Act 1999_ and the _Public Service Regulations 1999_.
+Also, information received by us is protected from unauthorised use and disclosure by virtue of specific provisions in the _Migration Act 1958_ , _Crimes Act 1914_ , _Public Service Act 1999_ and the _Public Service Regulations 1999_.
 
 A breach of these laws may make an officer liable to criminal and/or civil penalty.
 
-As a general rule, we do not collect personal information about you when you visit this site. You can generally visit this site without telling us who you are, unless you choose to provide such information.
+We do not collect personal information about you when you visit this site. You can generally visit this site without telling us who you are, unless you choose to provide such information.
 
-This website contains links to other sites. The immigration website is not responsible for the content and the privacy practices of other websites and the department encourages you to read each site's privacy policies.
+Our website contains links to other sites. We are not responsible for the content and the privacy practices of other websites and we encourage you to read each site's privacy policy.
 
 ## Security of information
 
@@ -27,14 +27,14 @@ The _Privacy Act 1988_ has specific provisions that prohibit any officer of this
 
 Your personal information will not be disclosed unless the law permits it or your permission is given.
 
-While the department provides a secure environment, you should be aware there are inherent risks associated with the transmission of information via the Internet.  
+While we provide a secure environment, you should be aware there are inherent risks associated with the transmission of information via the Internet.  
 **See:** [Online Security](https://web.archive.org/e_visa/online-security.htm)
 
 ## Site visit data
 
-The department operates this web site with outsourced technical assistance. 
+We operate this web site with outsourced technical assistance. 
 
-When visiting this site, a record of your visit is logged. Information is recorded for statistical purposes and is used by the department to monitor the use of the site, discover what information is most and least used and to make the site more useful to visitors.
+When visiting this site, a record of your visit is logged. Information is recorded for statistical purposes and is used by us to monitor the use of the site, discover what information is most and least used and to make the site more useful to visitors.
 
 The information we log when you access this web site includes:
 
@@ -42,36 +42,40 @@ The information we log when you access this web site includes:
   * the date and time of your visit to the site
   * the pages accessed
   * your operating system  
-**Example:** Windows NT, Windows 95, Mac OS X etc.
+**Example:** Windows 8, Mac OS X etc.
   * your web browser version and type   
-**Example:** IE4, IE5, Netscape 4 etc.
+**Example:** Mozilla Firefox, Internet Explorer, Google Chrome etc.
   * the time taken to transmit information to you
   * the previous internet address from which you came directly to this website.
 
 
 
-No attempt is made to identify you or your browsing activities except in the event of an investigation into apparent improper use of the department's Internet facility, or where a law enforcement agency exercises a warrant to inspect the Internet Service Provider's logs.
+This information is analysed to show broken links in our website, bottlenecks, and other site problems. We use this information to maintain our site for your efficient use.
+
+No attempt is made to identify you through your browsing activities except in the event of an investigation into the improper use of our internet facility, or where a law enforcement agency exercises a warrant to inspect the Internet Service Provider's logs.
 
 ## Cookies
 
-Cookies are pieces of information or small files that a website can send to your computer's hard drive for record keeping.
+We use ‘cookies’ for maintaining contact with a user through a website session. A cookie is a small file supplied by us, and stored by the web browser software on your computer when you access our site. (An explanation of what cookies are and how they work can be found at the site of the [Privacy Commissioner](http://www.privacy.gov.au/internet/internet_privacy/#2.1). Cookies allow us to recognise you as an individual web user, as you browse our website.
 
-Cookies can make using websites easier to use by storing information about your preferences on a particular website. The information may remain on your computer after the Internet session finishes.
+Two cookie types may be used by this website:
 
-While the main website does not use cookies, cookies may be sent by the department's online applications accessed via the main website.
+### Session cookies
 
-## Collection, use and disclosure of personal information
+These exist only for the duration of a web browser session with a particular website/host. All cookies will be immediately lost when you end your internet session or shut down your computer. Our copy of your information will be automatically deleted twenty minutes after you last used the system. This information is only used to help you use our website systems more efficiently, not to track your movements through the internet, or to record private information about you.
 
-When the department receives your email or fill-in form, your message becomes accessible by staff, and your email address may be recorded.
+### Persistent cookies
 
-However, personal information provided to us will be treated confidentially and will only be used and/or disclosed in accordance with your consent and/or the provisions of the _Migration Act 1958_ and _Privacy Act 1988_.
+These exist for a defined period of time (usually beyond the termination of the current session) before expiring.
+
+No personally identifiable information is stored within cookies used by this website. No attempt will be made to identify anonymous users or their browsing activities unless legally compelled to do so, such as in the event of an investigation, where a law enforcement agency may exercise a warrant to inspect the Internet Service Provider's log files.
 
 ## Further information
 
-You can find more information from the Privacy Commissioner's website.   
+You can find more information from the Privacy Commissioner's website.  
 **See:** [Privacy Commissioner](http://www.privacy.gov.au/)
 
 If at any time you believe we have not adhered to the principles referred to in this privacy statement or have any other comments on these principles, please contact the DIAC Privacy Officer via the online form.  
 **See:** [DIAC Privacy Officer Enquiry Form](https://web.archive.org/contacts/forms/email/eform-privacy-contact.htm?65)
 
-Please note the Privacy Officer will only respond to queries on privacy matters. Inquiries about other matters will not be answered.
+Please note the Privacy Officer will only respond to queries on privacy matters. Enquiries about other matters will not be answered.
