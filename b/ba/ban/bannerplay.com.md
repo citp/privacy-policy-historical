@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bannerplay.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106174558id_/http%3A//bannerplay.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bannerplay.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524194332id_/http%3A//bannerplay.com/privacy-policy) for the most accurate reproduction.*
 
-# BannerPlay Privacy Policy, Partners and Affiliates
+# Privacy Policy | BannerPlay
 
 Last modified: September 1, 2012
 
@@ -10,7 +10,7 @@ This Privacy Policy may be amended or updated from time to time. If we make any 
 
 1.
 
-##  Information Collection
+## Information Collection
 
 ### Personally Identifiable Information.
 
@@ -46,13 +46,13 @@ This Privacy Policy applies only to the Service. We do not exercise control over
 
 2.
 
-##  Our Policy Toward Children
+## Our Policy Toward Children
 
 We do not knowingly collect personally identifiable information from children under 13. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us at info@bannerplay.com. If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files.
 
 3.
 
-##  How We Use Personal Information
+## How We Use Personal Information
 
 Personal Information is used for the following purposes: (i) to provide the Services, (ii) to administer your use of the Services and your BannerPlay account, (iii) to personalize your experience, (iv) to provide to you service announcements, (v) to provide you with further information and offers from us or third parties that we believe you may find useful or interesting, such as newsletters, marketing or promotional materials, and (vi) on behalf of and according to instructions of a third party, such as our advertising partners. If you decide at any time that you no longer wish to receive such announcements, information or offers, please follow the unsubscribe instructions provided in the communication.
 
@@ -62,21 +62,21 @@ In addition, we post ancillary privacy notices with respect to specific services
 
 4.
 
-##  Information Sharing and Disclosure
+## Information Sharing And Disclosure
 
-  * **Reports .** You acknowledge that parts of the reports generated as a result of your use of the Service include or are based on information that is publicly available. You agree that such parts of the reports will be publicly available, however, your Personal Information and any other information in connection with your request to generate such a Report will be kept confidential and not disclosed. 
-  * **Submissions .** Any information you choose to provide in a comment or a submission should reflect how much you want other users to know about you. We recommend that you guard your anonymity and sensitive information and we encourage BannerPlay users to think carefully about what information about themselves they disclose in their comments or submissions. 
-  * **End User Information .** We may share End User information that is based on or includes information that is publicly available, excluding Personal Information of an End User or any other type of information that you reveal the identity of an End User, with the user that has implemented such application. 
-  * **Aggregate Information and Non-Identifying Information .** We may share aggregated information, including reports generated as a result of your use of the Service, that includes non-identifying information and Log Data with third parties for industry analysis, demographic profiling, other commercial purposes and to deliver targeted advertising about other products and services. Any aggregated information shared in these contexts will not contain your Personal Information. 
-  * **Service Providers .** We may employ third party companies and individuals to facilitate the Service, to provide the Service on our behalf and to perform services related to administration of the Service or the Site (including, without limitation, bill and credit card payment processing, maintenance, hosting and database management services, web analytics and administration). These third parties have access to your Personal Information only to perform these tasks on our behalf. These third parties that operate through website have their own privacy policies. We encourage you to read the privacy policies and other terms of such websites before using their services. 
-  * **Compliance with Laws and Law Enforcement .** We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including but not limited to subpoenas), to protect our or a third party’s property and rights, to protect the safety of the public or any person, or to prevent or stop any activity we may consider to be, or to pose a risk of being, illegal, unethical, inappropriate or legally actionable. 
-  * **Business Transfers .** We may sell, transfer or otherwise share some or all of our assets, including among others your Personal Information and Log Data, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy. 
+  * **Reports .** You acknowledge that parts of the reports generated as a result of your use of the Service include or are based on information that is publicly available. You agree that such parts of the reports will be publicly available, however, your Personal Information and any other information in connection with your request to generate such a Report will be kept confidential and not disclosed.
+  * **Submissions .** Any information you choose to provide in a comment or a submission should reflect how much you want other users to know about you. We recommend that you guard your anonymity and sensitive information and we encourage BannerPlay users to think carefully about what information about themselves they disclose in their comments or submissions.
+  * **End User Information .** We may share End User information that is based on or includes information that is publicly available, excluding Personal Information of an End User or any other type of information that you reveal the identity of an End User, with the user that has implemented such application.
+  * **Aggregate Information and Non-Identifying Information .** We may share aggregated information, including reports generated as a result of your use of the Service, that includes non-identifying information and Log Data with third parties for industry analysis, demographic profiling, other commercial purposes and to deliver targeted advertising about other products and services. Any aggregated information shared in these contexts will not contain your Personal Information.
+  * **Service Providers .** We may employ third party companies and individuals to facilitate the Service, to provide the Service on our behalf and to perform services related to administration of the Service or the Site (including, without limitation, bill and credit card payment processing, maintenance, hosting and database management services, web analytics and administration). These third parties have access to your Personal Information only to perform these tasks on our behalf. These third parties that operate through website have their own privacy policies. We encourage you to read the privacy policies and other terms of such websites before using their services.
+  * **Compliance with Laws and Law Enforcement .** We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including but not limited to subpoenas), to protect our or a third party’s property and rights, to protect the safety of the public or any person, or to prevent or stop any activity we may consider to be, or to pose a risk of being, illegal, unethical, inappropriate or legally actionable.
+  * **Business Transfers .** We may sell, transfer or otherwise share some or all of our assets, including among others your Personal Information and Log Data, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy.
 
 
 
 5.
 
-##  Changing or Deleting Your Information
+## Changing Or Deleting Your Information
 
 We make good faith efforts so all of our registered users may review, update, correct or delete the Personal Information, if not required to be retained by law or for legitimate business reasons. If you completely delete all such information, your account may be deactivated. We may charge for such services, and may retain an archived copy of your records as required by law or for legitimate business purposes.
 
@@ -86,8 +86,8 @@ We are concerned with safeguarding your information. We employ a variety of meas
 
 7.
 
-##  International Processing or Transfer
+## International Processing Or Transfer
 
 Your information may be processed or transferred outside of your state, where the privacy laws may not be as protective as those in your jurisdiction.
 
-If you have any concerns or questions about this Privacy Policy, please contact us at [info@bannerplay.com](mailto:info@bannerplay.com?Subject=Hello%20again%22) .
+If you have any concerns or questions about this Privacy Policy, please contact us at [info@bannerplay.com](mailto:info@bannerplay.com?Subject=Hello%20again%22)
