@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the zeekrewardsscam.co privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920044100id_/http%3A//zeekrewardsscam.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zeekrewardsscam.co privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524232537id_/http%3A//zeekrewardsscam.co/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Zeek Rewards Scam - Our Research here...
+# 
 
 What information do we collect?
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address or credit card information. You may, however, visit our site anonymously.
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
 
 What do we use your information for?
 
