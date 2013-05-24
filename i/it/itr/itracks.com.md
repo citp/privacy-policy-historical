@@ -1,7 +1,8 @@
-> *The following text is extracted and transformed from the itracks.com privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111185426id_/http%3A//itracks.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itracks.com privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525005349id_/http%3A//itracks.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | itracks
 
+  
 Itracks – Experts in Online Research is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Itracks – Experts in Online Research Web site and governs data collection and usage. By using the Itracks – Experts in Online Research website, you consent to the data practices described in this statement.
 
 ## Collection of your Personal Information
