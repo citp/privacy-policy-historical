@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grimco.com privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121231222id_/http%3A//www.grimco.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grimco.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524074619id_/https%3A//www.grimco.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Grimco - Privacy Policy
 
@@ -55,10 +55,10 @@ Online Privacy Policy Only
 This online privacy policy applies only to information collected through our website and not to information collected offline. 
 
 Terms and Conditions  
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [**Terms & Conditions**](https://web.archive.org/web/20121121231222id_/http%3A//www.grimco.com/TermsConditions.aspx)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [**Terms & Conditions**](https://web.archive.org/web/20130524074619id_/https%3A//www.grimco.com/TermsConditions.aspx)
 
 Your Consent  
-By using our site, you consent to our [Grimco's privacy policy](https://web.archive.org/web/20121121231222id_/http%3A//www.grimco.com/PrivacyPolicy.aspx)
+By using our site, you consent to our [Grimco's privacy policy](https://web.archive.org/web/20130524074619id_/https%3A//www.grimco.com/PrivacyPolicy.aspx)
 
 Changes to our Privacy Policy  
 If we decide to change our privacy policy, we will update the Privacy Policy modification date below.
