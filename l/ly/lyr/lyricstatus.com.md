@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lyricstatus.com privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109164546id_/http%3A//www.lyricstatus.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lyricstatus.com privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525001835id_/http%3A//www.lyricstatus.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -6,6 +6,15 @@ LyricStatus.com (the Site) provides a content service to you (the "Service(s)"),
 
 **The Personal Information We Collect**  
 It is our policy to respect the privacy of the people who use the Services (each a "User," collectively the "Users"). As you use the Site, our servers automatically record information that the browser sends whenever it points to a Site or online service ("Log Data"). Log Data may include, but is not limited to, your computer's Internet Protocol address, browser type, the web page you were visiting before you came to one of the Site and information you search for on a Site.
+
+**Your Submissions of Personal Information**  
+You have the opportunity to submit personal information to us through the Website in several ways:
+
+Your Profile: If you create an account to comment on lyrics and earn LyricStatus points, you identify a unique username and password and submit your email address to us. You may, but are not required to, submit a photo to represent yourself. Although this need not be an actual picture of you, we will associate it with your account. You may, but are not required to, describe yourself in a narrative on your profile. We refer to these items collectively in this policy as "Account Information."
+
+Once you sign up for an account, we'll host a profile page that includes your user name, narrative (if any) and your photo. On this page, we may display information about the pages, artists, or works upon which you have commented. Such information may include "favorites" such as artists, songs, and lines. If you choose to provide it for your profile, we can may also display your user information from other sites, such as Facebook or Twitter. We refer to the information contained in your profile in this policy as "Profile Information."
+
+Second, you can click the "[Contact Us](https://web.archive.org/contact)" link from our home page, in which case you would input your name, email address, and a message to be submitted to our team for review and response.
 
 **Other Information/Logging and Cookies**  
 Like many websites, we use "cookies" to collect information. A cookie is a small data file that we transfer to your computer's hard disk for record-keeping purposes. We use "persistent cookies" to save your username and login password for future logins to the Site. We use "session ID cookies" to enable certain features of our service, to better understand how you interact with the Site and to monitor web traffic routing on the Site and aggregate usage of the Site. You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to use all portions of the Site or all functionality of the services.
