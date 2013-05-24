@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the monsterjam.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123085718id_/http%3A//www.monsterjam.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monsterjam.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524215517id_/http%3A//www.monsterjam.com/PrivacyPolicy) for the most accurate reproduction.*
 
-# Advance Auto Parts Monster Jam - Privacy Policy
+# THE OFFICIAL WEBSITE OF ADVANCE AUTO PARTS MONSTER JAM MONSTER TRUCKS - Privacy Policy
 
 This website, located at **[www.monsterjam.com](http://www.monsterjam.com/)** (the "Site"), is owned and operated by Feld Motor Sports, Inc. ("FEI" "we," "us"). Your privacy is important to us. This Privacy Policy (the "Privacy Policy") outlines the types of Personally Identifiable Information (as defined below) that we gather while you are visiting the Site, as well as ways in which we process and disseminate such Personally Identifiable Information. This Privacy Policy does not pertain to information collected on any other site owned by FEI, its subsidiaries or other businesses, nor does it extend to the privacy practices (or lack thereof) of third parties. We cannot and do not assume responsibility for the policies, practices and actions of such third parties. You are, of course, free to use much of the Site without providing any Personally Identifiable Information to us.
 
