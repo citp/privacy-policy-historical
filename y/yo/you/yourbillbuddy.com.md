@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the yourbillbuddy.com privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121231946id_/http%3A//www.yourbillbuddy.com/privacyPolicy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourbillbuddy.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524084620id_/http%3A//yourbillbuddy.com/privacyPolicy.do) for the most accurate reproduction.*
 
 # Privacy Policy - Compare Mobile Tariff Plans - Reduce Mobile Phone Bills |YourBillBuddy
+
+[ ](http://www.domyrecharge.com/reliance-mobilePlans.do?id=YBB) [](http://www.domyrecharge.com/) [](http://domyrecharge.com/BuyHighspeedDatacard/Reliance-Netconnect-Broadband-Data-Card)
 
 ## Know your Best Plan & Save Money!
 
