@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the confetti.co.uk privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227204416id_/http%3A//www.confetti.co.uk/information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the confetti.co.uk privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524040444id_/http%3A//www.confetti.co.uk/information/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Confetti.co.uk
 
@@ -17,7 +17,7 @@ This privacy notice tells you what to expect when Confetti Celebrations Ltd. col
 
 
 
-If we collect your personal information for any of these reasons, we will not sell it to any third party.
+If we collect your personal information for any of these reasons, we may share your email address with registered Confetti suppliers from time to time.
 
 ### Visitors to Our Website
 
@@ -58,6 +58,8 @@ Cookies are small text files that are placed on your computer by websites that y
 Most web browsers allow some control of most cookies through the browser settings. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/).
 
 To opt out of being tracked by Google Analytics across all websites visit <http://tools.google.com/dlpage/gaoptout>.
+
+[](http://www.confetti.co.uk/shop/wedding-reception-accessories/disposable-wedding-cameras?icp=Articles&icn=Cameras)
 
 Each cookie used on the Confetti website can be categorised into one or more of the following categories:
 
@@ -154,7 +156,7 @@ This privacy notice does not cover the links within this site linking to other w
 
 ## Changes to this Privacy Policy
 
-We keep our privacy notice under regular review. This privacy notice was last updated on 24 May 2012.
+We keep our privacy notice under regular review. This privacy notice was last updated on 17 April 2013.
 
 ## How to Contact Us
 
