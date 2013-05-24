@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the prettylinkpro.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510092249id_/http%3A//prettylinkpro.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prettylinkpro.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524044539id_/http%3A//prettylinkpro.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Pretty Link Pro
 
 Caseproof, LLC, a Utah limited liability company, owns and operates this website. We are committed to the privacy and security of our visitors’ information. The following is a statement of our privacy practices:
 
