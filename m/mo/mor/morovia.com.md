@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the morovia.com privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203074431id_/http%3A//www.morovia.com/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the morovia.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524032650id_/http%3A//www.morovia.com/help/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
