@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the masterkreatif.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016051717id_/http%3A//www.masterkreatif.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the masterkreatif.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526005223id_/http%3A//www.masterkreatif.com/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy & Policy
+# Privacy & Policy » masterkreatif.com
 
 The following is the Privacy Statement for web masterkreatif.com 
 
@@ -51,3 +51,6 @@ Masterkreatif.com Privacy Statement at any time subject to change without prior 
 **Contact Information**
 
 If you have any questions about this privacy policy masterkreatif.com, Information, Share, please [](http://www.masterkreatif.com/p/contact-us.html)
+
+  
+
