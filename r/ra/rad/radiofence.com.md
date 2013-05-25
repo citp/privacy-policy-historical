@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the radiofence.com privacy policy that was archived on 2012-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121030100022id_/http%3A//www.radiofence.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radiofence.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526002325id_/http%3A//www.radiofence.com/privacy-policy) for the most accurate reproduction.*
 
 # RadioFence.com Privacy Policy
 
@@ -54,7 +54,7 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 This online privacy policy applies only to information collected through our website and not to information collected offline.
 
 **Terms and Conditions**   
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.radiofence.com/pages/Terms.html>
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website, please see our [Terms & Conditions](http://www.radiofence.com/terms/)
 
 **Your Consent**   
 By using our site, you consent to our online privacy policy.
