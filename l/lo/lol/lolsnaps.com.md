@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lolsnaps.com privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028042610id_/http%3A//lolsnaps.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lolsnaps.com privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525033539id_/http%3A//lolsnaps.com/pages/privacy) for the most accurate reproduction.*
 
-# News
+# Lolsnaps.com - Privacy Policy
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us at feedback{at}lolsnaps.com. 
 
