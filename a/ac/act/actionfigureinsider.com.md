@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the actionfigureinsider.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017182625id_/http%3A//www.actionfigureinsider.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the actionfigureinsider.com privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525101540id_/http%3A//www.actionfigureinsider.com/privacy.shtml) for the most accurate reproduction.*
 
 # Action Figure Insider
 
