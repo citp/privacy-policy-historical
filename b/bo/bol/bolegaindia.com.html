@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bolegaindia.com privacy policy that was archived on 2012-11-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121123200518id_/http%3A//www.bolegaindia.com/index.php%3Faction%3Dcompany%26page_id%3D6) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bolegaindia.com privacy policy that was archived on 2013-05-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130526000417id_/http%3A//www.bolegaindia.com/index.php%3Faction%3Dcompany%26page_id%3D6) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" itemscope="" itemtype="http://schema.org/Article" xmlns:fb="http://www.facebook.com/2008/fbml" dir="ltr" xml:lang="en" lang="en"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
@@ -7,7 +7,7 @@
         	    <meta name="description" content="BolegaIndia.com is where India Speaks Out!, Share Knowledge, Connect With Your Friends , Share Offers, Vote on Polls Make Predictions Win Prizes">
         <meta itemprop="description" content="BolegaIndia.com is where India Speaks Out!, Share Knowledge, Connect With Your Friends , Share Offers, Vote on Polls Make Predictions Win Prizes">
             
-       <meta property="fb:app_id" content="358223580932161">
+         <meta property="fb:app_id" content="135627003299388">
      <link rel="shortcut icon" href="favicon.ico" type="image/x-icon"> 
 	<!--script type="text/javascript" src="http://www.bolegaindia.com/js/unitpngfix.js"></script-->
 		<link rel="stylesheet" type="text/css" href="http://www.bolegaindia.com/css/stylesheet_main.css">
@@ -695,7 +695,7 @@
 		</td>
 		<td width="5" valign="top"><img src="http://www.bolegaindia.com/images/footerright.gif" border="0"></td>
 	</tr>
-    <tr><td colspan="3" align="right" class="copyright1" style="padding-bottom:6px;">© 2012  BolegaIndia.com Web Pvt. Ltd. All rights reserved.</td></tr>
+    <tr><td colspan="3" align="right" class="copyright1" style="padding-bottom:6px;">© 2013  BolegaIndia.com Web Pvt. Ltd. All rights reserved.</td></tr>
 </tbody></table>
 
 <script type="text/javascript">
@@ -744,7 +744,7 @@ woopraTracker.track();
     <div id="fb-root"></div>
     <script src="http://connect.facebook.net/en_US/all.js"></script>
     <script>
-	FB.init({appId: '358223580932161', status: true, cookie: true, xfbml: true});
+	FB.init({appId: '135627003299388', status: true, cookie: true, xfbml: true});
 	FB.Event.subscribe('edge.create', function(href, widget) {
 			//alert(href);
 				postData = {whichURL: href}
@@ -770,17 +770,23 @@ woopraTracker.track();
 		logout();
 	});
 	function login(){
-		whichURL = AJAX_SITE_REQUEST_GOSSIP_URL + "FacbookUserLoginRegister.php";
-		$.ajax({	method: "get",
-					url: whichURL,
-					data: '',
-					beforeSend: function(){	},
-					complete: function(){ }, 
-					success: function(html) { 
-						//alert("Login Performed"+"\r\n" + html);
-						document.location.href = document.location.href;
-					}
-			});
+		fbstat=getCookie("bolegaFbStat");
+		if (fbstat!=null && fbstat!="" && fbstat==="alreadydone"){
+			
+		}else{
+			whichURL = AJAX_SITE_REQUEST_GOSSIP_URL + "FacbookUserLoginRegister.php";
+			$.ajax({	method: "get",
+						url: whichURL,
+						data: '',
+						beforeSend: function(){	},
+						complete: function(){ }, 
+						success: function(html) { 
+							setCookie("bolegaFbStat","alreadydone","1");
+							//alert("Login Performed"+"\r\n" + html);
+							document.location.href = document.location.href;
+						}
+				});
+		}
 	}
 	function logout(){
 		whichURL = AJAX_SITE_REQUEST_GOSSIP_URL + "FacbookUserLogout.php";
@@ -790,10 +796,31 @@ woopraTracker.track();
 					beforeSend: function(){	},
 					complete: function(){ }, 
 					success: function(html) { 
+						setCookie("bolegaFbStat","","-1");
 						//alert("Logout Performed"+"\r\n" + html);
 						document.location.href = document.location.href;
 					}
 			});
+	}
+	function setCookie(c_name,value,exdays){
+		var exdate=new Date();
+		exdate.setDate(exdate.getDate() + exdays);
+		var c_value=escape(value) + ((exdays==null) ? "" : "; expires="+exdate.toUTCString());
+		document.cookie=c_name + "=" + c_value;
+	}
+	function getCookie(c_name)
+	{
+		var i,x,y,ARRcookies=document.cookie.split(";");
+		for (i=0;i<ARRcookies.length;i++)
+		{
+		  x=ARRcookies[i].substr(0,ARRcookies[i].indexOf("="));
+		  y=ARRcookies[i].substr(ARRcookies[i].indexOf("=")+1);
+		  x=x.replace(/^\s+|\s+$/g,"");
+		  if (x==c_name)
+			{
+			return unescape(y);
+			}
+	  	}
 	}
     </script>
 
