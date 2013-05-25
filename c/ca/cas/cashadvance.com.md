@@ -1,44 +1,44 @@
-> *The following text is extracted and transformed from the cashadvance.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226173836id_/http%3A//www.cashadvance.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashadvance.com privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525044532id_/http%3A//www.cashadvance.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for CashAdvance.com
 
-_This Privacy Policy replaces any privacy policy previously delivered to you or appearing on the CashAdvance.com website, any transaction agreement, or any other document previously delivered to you.  If there are conflicts between this Privacy Policy and any other policy delivered to you by CashAdvance.com, the terms of this Privacy Policy shall control until revised.  This Privacy Policy is effective as of April 5, 2012.  _
+_This Privacy Policy replaces any privacy policy previously delivered to you or appearing on the CashAdvance.com website, any transaction agreement, or any other document previously delivered to you. If there are conflicts between this Privacy Policy and any other policy delivered to you by CashAdvance.com, the terms of this Privacy Policy shall control until revised. This Privacy Policy is effective as of April 25, 2013._
 
-CashAdvance.com is Hawk, LLC, which is a limited liability company chartered pursuant to the laws of the Ute Indian Tribe and is wholly owned by enrolled members of the Ute Indian Tribe.  By Your use of this website you consent to the laws and jurisdiction of the Ute Indian Tribe as it relates directly or indirectly to your use of this website.
+CashAdvance.com is Hawk, LLC, which is a limited liability company chartered pursuant to the laws of the Ute Indian Tribe and is wholly owned by enrolled members of the Ute Indian Tribe. By Your use of this website you consent to the laws and jurisdiction of the Ute Indian Tribe as it r^elates directly or indirectly to your use of this website.
 
 ACKNOWLEDGEMENT AND AGREEMENT
 
-CashAdvance.com is not intended for use by individuals under the age of 18 or those who are not legal residents of the United States, United Kingdom or Canada. Please take a moment to review the terms of our Privacy Policy.  By using the CashAdvance.com website and participating in any of the CashAdvance.com Services, you agree to accept the terms of this Privacy Policy. If you do not agree to the terms of this Privacy Policy, or if you are not 18 years of age or older and a valid resident of the United States, United Kingdom or Canada, please do not use the CashAdvance.com website or participate in the CashAdvance.com Services.
+CashAdvance.com is not intended for use by individuals under the age of 18 or those who are not legal residents of the United States, United Kingdom or Canada. Please take a moment to review the terms of our Privacy Policy. By using the CashAdvance.com website and participating in any of the CashAdvance.com Services, you agree to accept the terms of this Privacy Policy. If you do not agree to the terms of this Privacy Policy, or if you are not 18 years of age or older and a valid resident of the United States, United Kingdom or Canada, please do not use the CashAdvance.com website or participate in the CashAdvance.com Services.
 
 TRUSTe PRIVACY SEAL PROGRAM
 
-CashAdvance.com participates in the TRUSTe Privacy Seal Program.  TRUSTe is an independent organization whose mission is to advance privacy and trust on the World Wide Web.  As a TRUSTe member CashAdvance.com demonstrates its commitment to your privacy.  CashAdvance.com discloses its information practices and is monitored for compliance by TRUSTe’s team of Internet privacy specialists.
+CashAdvance.com participates in the TRUSTe Privacy Seal Program. TRUSTe is an independent organization whose mission is to advance privacy and trust on the World Wide Web. As a TRUSTe member CashAdvance.com demonstrates its commitment to your privacy. CashAdvance.com discloses its information practices and is monitored for compliance by TRUSTe’s team of Internet privacy specialists.
 
-If you have questions or concerns about our Privacy Policy, you should first contact support@cashadvance.com.  If for any reason you do not receive a response that meets your concerns you should then contact TRUSTe at http://www.truste.org/consumers/watchdog_complaint.php.  TRUSTe will then serve as a liaison with CashAdvance.com to resolve your concerns.
+If you have questions or concerns about our Privacy Policy, you should first contact support@cashadvance.com. If for any reason you do not receive a response that meets your concerns you should then contact TRUSTe at http://www.truste.org/consumers/watchdog_complaint.php. TRUSTe will then serve as a liaison with CashAdvance.com to resolve your concerns.
 
 NOTIFICATION OF CHANGES TO OUR PRIVACY PRACTICES
 
-CashAdvance.com may update this Privacy Policy to reflect changes to our information practices.  We reserve the right to change this Privacy Policy at any time.  If we make any material changes to our information practices, we will revise this Policy.  You are advised to read and review this Policy each and every time you access our website and/or use any service referred to you by CashAdvance.com.  Your use of the website constitutes your agreement to the terms of the effective Privacy Policy.
+CashAdvance.com may update this Privacy Policy to reflect changes to our information practices. We reserve the right to change this Privacy Policy at any time. If we make any material changes to our information practices, we will revise this Policy. You are advised to read and review this Policy each and every time you access our website and/or use any service referred to you by CashAdvance.com. Your use of the website constitutes your agreement to the terms of the effective Privacy Policy.
 
 PERSONALLY IDENTIFIABLE INFORMATION
 
-We collect and combine personally identifiable information (“PII”) and non-personally identifiable information (“Non-PII”) through various sources, including those discussed below. For your reference, PII is data collected with an intention to specifically identify, contact or locate a person, including but not limited to social security number, first name, last name, address, Zip Code, city, state, length of stay at address, whether you rent or own, your e-mail address, driver’s license or state ID number, telephone number, work telephone number, time at which you may be contacted, birth date, birth year, whether you are related to someone in the armed forces, whether you make income from job or from benefits, your employer name, duration of employment, employer’s phone number, job title, frequency of compensation, your pay dates, your IP address and computer specifications, your  ABA/routing number, your bank account number, nature of bank account, name of bank, bank phone number, duration with bank, whether you get paid by direct deposit, monthly net income, and loan amount desired.  Conversely, Non-PII is data that is not used to specifically identify, contact or locate an individual, including but not limited to Zip Code, gender, age, or IP address.
+We collect and combine personally identifiable information (“PII”) and non-personally identifiable information (“Non-PII”) through various sources, including those discussed below. For your reference, PII is data collected with an intention to specifically identify, contact or locate a person, including but not limited to social security number, first name, last name, address, Zip Code, city, state, length of stay at address, whether you rent or own, your e-mail address, driver’s license or state ID number, telephone number, work telephone number, time at which you may be contacted, birth date, birth year, whether you are related to someone in the armed forces, whether you make income from job or from benefits, your employer name, duration of employment, employer’s phone number, job title, frequency of compensation, your pay dates, your IP address and computer specifications, your ABA/routing number, your bank account number, nature of bank account, name of bank, bank phone number, duration with bank, whether you get paid by direct deposit, monthly net income, and loan amount desired. Conversely, Non-PII is data that is not used to specifically identify, contact or locate an individual, including but not limited to Zip Code, gender, age, or IP address.
 
 ABOUT US
 
-This Privacy Policy is provided to you on behalf of Hawk, LLC, doing business as CashAdvance.com (“CashAdvance.com” or “We” or “Our”).  We operate the website located at www.CashAdvance.com, (the “Site”). Through the Site, we operate a prospective customer data base (the “Service”), which compiles, sorts and sells contact information to businesses and networks on behalf of individual consumers who have shown an interest in applying for a business’ products or services and have affirmatively asked to be contacted by a representative of a product or service business. We utilize third-party vendors, third-party affiliates, and a variety of media advertisements to promote our Site to consumers interested in using our Site or to supplement our database by purchasing the third-party’s database of consumers who have completed applications on websites other than our Site and have affirmatively requested receipt of information about product or service offerings similar to those offered on our Site.  Additionally, we advertise third-party services through referrals and/or through pay-per-click advertisements to which you may be redirected through our website. By using the CashAdvance.com website, you agree to our use of your PII and Non-PII for these purposes.
+This Privacy Policy is provided to you on behalf of Hawk, LLC, doing business as CashAdvance.com (“CashAdvance.com” or “We” or “Our”). We operate the website located at www.CashAdvance.com, (the “Site”). Through the Site, we operate a prospective customer data base (the “Service”), which compiles, sorts and sells contact information to businesses and networks on behalf of individual consumers who have shown an interest in applying for a business’ products or services and have affirmatively asked to be contacted by a representative of a product or service business. We utilize third-party vendors, third-party affiliates, and a variety of media advertisements to promote our Site to consumers interested in using our Site or to supplement our database by purchasing the third-party’s database of consumers who have completed applications on websites other than our Site and have affirmatively requested receipt of information about product or service offerings similar to those offered on our Site. Additionally, we advertise third-party services through referrals and/or through pay-per-click advertisements to which you may be redirected through our website. By using the CashAdvance.com website, you agree to our use of your PII and Non-PII for these purposes.
 
 We collect and retain information about you to communicate with you, to process your requests for products and services, and to inform you about other financial services that may be of interest to you through our newsletter. The examples in this Privacy Policy are illustrative only and are not intended to be exclusive.
 
 GLB Act
 
-For purposes of compliance with the Gramm-Leach-Bliley Act, 15 U.S.C. 6802 (the “GLB Act”), this Privacy Policy shall serve as both Your initial customer relationship and annual “Privacy Notice” as defined under the GLB Act. If You would like to opt-out from the disclosure of Your personal information to any third-party for marketing purposes, please visit [cashadvance.com/unsubscribe](http://www.cashadvance.com/unsubscribe "Unsubscribe"), enter your email address and click the submit button then confirm your entry.
+For purposes of compliance with the Gramm-Leach-Bliley Act, 15 U.S.C. 6802 (the “GLB Act”), this Privacy Policy shall serve as both Your initial customer relationship and annual “Privacy Notice” as defined under the GLB Act. If You would like to opt-out from the disclosure of Your personal information to any third-party for marketing purposes, please visit[ cashadvance.com/unsubscribe](http://www.cashadvance.com/unsubscribe), enter your email address and click the submit button then confirm your entry.
 
 OPT-OUT / OPT-IN
 
 We, our affiliate(s) and/or third parties may also promote product and service offerings via e-mail, sms-text message, or telephone to consumers who requested to be contacted either through our Site’s online forms Opt-in process or through an Opt-In process on our third-party vendor or affiliate sites (“List Members”). List Members will receive emails, sms-text messages, or telephone contacts for as long as they wish to continue to receive such contacts.
 
-List Members can be removed from our contact lists at any time with no questions asked.  To remove your information from our database to not receive future communications or to no longer receive our service, go to [CashAdvance.com/unsubscribe](http://www.cashadvance.com/unsubscribe "Unsubscribe"). Or contact us at the email address below:
+List Members can be removed from our contact lists at any time with no questions asked. To remove your information from our database to not receive future communications or to no longer receive our service, go to[ CashAdvance.com/unsubscribe](http://www.cashadvance.com/unsubscribe). Or contact us at the email address below:
 
 Please note that participation in certain activities on our Site may be limited if personally identifiable information is not submitted for the user. E-mail addresses and phone numbers received in an opt-out request will be added to our internal Do-Not-Contact registry within ten (10) days following receipt. Unless we hear from you, we will assume you consent to receiving communications from us and our third-party vendors and affiliates.
 
@@ -46,7 +46,7 @@ If a List Member chooses to be removed from our contact list, if applicable, we 
 
 MINORS
 
-CashAdvance.com does not knowingly collect information from children under the age of 18.  No information is knowingly collected from children or used for any purpose whatsoever, including marketing and promotional purposes.  If a parent or guardian is made aware that a child under the age of 18 has provided us with personally identifying information through any point of contact, please contact us at the email address below, and we will delete the information about the child referenced from our files.
+CashAdvance.com does not knowingly collect information from children under the age of 18. No information is knowingly collected from children or used for any purpose whatsoever, including marketing and promotional purposes. If a parent or guardian is made aware that a child under the age of 18 has provided us with personally identifying information through any point of contact, please contact us at the email address below, and we will delete the information about the child referenced from our files.
 
 GENERAL INFORMATION COLLECTION AND USE
 
@@ -74,10 +74,15 @@ We cannot ensure that all of your private communications and other personally id
 
 In addition, as noted above, if you opt-out of future contact from CashAdvance.com by using the opt-out mechanism provided in each e-mail we send to you on behalf of a third- party service provider other than CashAdvance.com, we will provide your email address to the third-party service provider so that the third-party service provider can add your name and contact information to its own Do-Not-Contact list.
 
-As CashAdvance.com develops, we may buy other businesses or their assets or sell our business assets. Customer information is generally one of the business assets involved in such transactions. Thus, in the event that CashAdvance.com or all of its assets are acquired, customer information, including any visitor information collected through the Site, would be one of the transferred assets. For more information see the “Notification of Changes” section of this Privacy Policy.  
+As CashAdvance.com develops, we may buy other businesses or their assets or sell our business assets. Customer information is generally one of the business assets involved in such transactions. Thus, in the event that CashAdvance.com or all of its assets are acquired, customer information, including any visitor information collected through the Site, would be one of the transferred assets. For more information see the “Notification of Changes” section of this Privacy Policy.
+
 Finally, CashAdvance.com reserves the right to disclose member information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) CashAdvance.com’s rights or property, other visitors, members, or anyone else that could be harmed by such activities. CashAdvance.com also reserves the right to disclose visitor or member information when we believe in good faith that the law requires it.
 
 We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Site.
+
+TAILORED CONTENT
+
+CashAdvance.com may tailor content for you based on your visits to third-party websites that integrate with CashAdvance.com. When these websites first load, CashAdvance.com receives log data, including the web page you visited and a cookie that identifies your browser. After a maximum of 10 days, CashAdvance.com starts the process of deleting or aggregating log data, which is usually instantaneous but in some cases may take up to a week. While CashAdvance.com maintains the log data, it may be used to tailor content for you, such as suggestions for products and services. This feature is optional. If you want, you can suspend it or turn it off, which removes from your browser the unique cookie that enables the feature, using the Do Not Track settings in your browser, described further below.
 
 SHARING INFORMATION WITH AFFILIATES
 
@@ -89,9 +94,45 @@ Some of the services offered on our website are co-branded with contracted partn
 
 We may use personal information to provide the services you’ve requested, including services that display customized content and advertising. In addition to any fee of which you are notified, your provider’s standard messaging rates apply to our confirmation and all subsequent SMS correspondence. You may opt-out and remove your SMS information by sending “STOP,” “END,” or “QUIT” to the SMS text message you have received. If you remove your SMS information from our database it will no longer be used by us for secondary purposes, disclosed to third parties, or used by us or third parties to send promotional correspondence to you.
 
+SHARING DATA FOR BEHAVIORAL ADVERTISING
+
+CashAdvance.com also engages in online behavioral advertising (OBA). This involves using patterns of online behavior observed by CashAdvance.com or its third-party data advertisers to segment users into interest groups for advertising campaigns. These processes are carried out using cookies and pixels. “Cookies” are small pieces of information that are stored by your web browser on your computer when you visit. Pixels are small graphic images (usually invisible) that can be embedded in content and advertising on a website, which can be used to recognize our cookies and to monitor certain user interactions with the website.
+
+SHARING GEO-LOCATION DATA
+
+CashAdvance.com may also use other information obtained from third-party data partners that reflects or suggests the end-user has a higher likelihood of being within a certain de-identified segments of the population. These de-identified segments, which may include de-identified health segments, may be based on demographic characteristics such as location and geographic area and other categories derived from various information, including purchasing tendencies.
+
+SHARING OR ACCESSING USER CONTENT
+
+You own all of the content and information you provide to CashAdvance.com, and you can control how it is shared through your privacy and application settings. In addition:
+
+1\.   For content that is covered by intellectual property rights, like photos and videos (IP content), you specifically give CashAdvance.com the following permission, subject to your privacy and application settings: you grant us a non-exclusive, transferable, sub-licensable, royalty-free, worldwide license to use any IP content that you provide in connection with CashAdvance.com (IP License). This IP License ends when you delete your IP content or your account unless your content has been shared with others, and they have not deleted it.
+
+2\.   When you delete IP content, it is deleted in a manner similar to emptying the recycle bin on a computer. However, you understand that removed content may persist in backup copies for a reasonable period of time (but will not be available to others).
+
+3\.   When you use CashAdvance.com, third party applications may ask for your permission to access your content and information as well as content and information that others have shared with you.  We require applications to respect your privacy, and your agreement with that application will control how the application can use, store, and transfer that content and information.
+
+4\.   When you publish content or information using public setting, it means that you are allowing others to access and use that information, and to associate it with you.
+
 DO NOT CONTACT REGISTRY COMPLIANCE
 
 By submitting personal contact and/or financial information, the user hereby grants written permission to CashAdvance.com, its affiliated sites, and its business partners for contact via telephone, mail, and/or e-mail. Further, by registering at CashAdvance.com you are consenting to receive phone calls from CashAdvance.com, its affiliated sites, and its business partners for contact via telephone, including but not limited to lenders that may contact you regarding a loan.
+
+DO NOT TRACK SETTINGS
+
+Do Not Track (DNT) is a privacy preference that users can set in their web browsers.  DNT informs integrated web services which offer content across the Internet (such as buttons, widgets, and other embedded features) that the user does not want certain information about their webpage visits collected across websites when they have not interacted with that service’s content on the page.
+
+The DNT browser setting is now supported by recent versions of major browsers, including Firefox 5+, Internet Explorer 9+, and Safari 5.1+.  If you are using Chrome 17.0 or higher, there is a third-party extension that enables DNT.
+
+If you select the on setting for DNT in your browser, CashAdvance.com stops collecting the information that allows it to tailor its services based on your recent visits to websites that have integrated CashAdvance.com buttons or widgets. CashAdvance.com removes from your browser the unique cookie that links your browser to visits to websites related to CashAdvance.com. CashAdvance.com then cannot provide tailored suggestions for you.
+
+CashAdvance.com respects DNT preferences by turning off tailored suggestions by default in the following circumstances:
+
+·         For new users signing up for CashAdvance.com with DNT already enabled, the checkbox on the signup page that says CashAdvance.com based on my recent website visits will be unchecked.
+
+·         If you had already use CashAdvance.com with DNT enabled in the days before tailored suggestions, thecheckbox in your account settings will be unchecked at launch.
+
+If you’ve had DNT enabled recently, it may take a day or two to implement.
 
 FORMER CUSTOMERS
 
@@ -99,16 +140,25 @@ We treat information about our former customers in the same manner as we treat i
 
 CONFIDENTIALITY AND SECURITY
 
-We restrict access to nonpublic personal information about you to those employees who need to know that information to provide products or services to you. We maintain physical, electronic and procedural safeguards that comply with federal standards to guard your nonpublic personal information against unauthorized access or use.  
+We restrict access to nonpublic personal information about you to those employees who need to know that information to provide products or services to you. We maintain physical, electronic and procedural safeguards that comply with federal standards to guard your nonpublic personal information against unauthorized access or use.
+
 Maintaining the accuracy of your information is a shared responsibility. We maintain the integrity of the information you provide us and will update your records when you notify us of a change. Please contact us at the address or phone number listed below when information concerning you changes.
 
 SITE AND SERVICE UPDATES
 
 We will send the user site and service announcement updates. Members are not able to unsubscribe from service announcements, which contain important information about the service. We also communicate with user to provide requested services and in regards to issues relating to the account via e-mail or telephone when requested.
 
+MOBILE AND OTHER DEVICES
+
+CashAdvance.com’s mobile website services are free to use, but please be aware that your phone carrier’s normal rates and fees, such as text messaging fees, will still apply if you are contacted by a third party after submitting your information to CashAdvance.com.
+
+In the event you change or deactivate your mobile telephone number, you will update your account information on CashAdvance.com within 48 hours to ensure that your messages are not sent to the person who acquires your old number.
+
+You provide consent and all rights necessary to enable users to sync (including through an application) their devices with any information that is available on CashAdvance.com.
+
 CORRECT / UPDATE INFORMATION
 
-If you would like to verify any data that we have received from you, make any corrections or disable the use of your personal information, please log into your account here on cashadvance.com, or contact us at: 
+If you would like to verify any data that we have received from you, make any corrections or disable the use of your personal information, please log into your account here on cashadvance.com, or contact us at: 
 
 CHOICE OF LAW AND CHOICE OF FORUM
 
@@ -116,14 +166,17 @@ The Ute Tribe of Utah is a federally recognized Indian Tribe, and as such, the T
 
 INFORMATION FOR ISPs
 
-Website:  CashAdvance.com  
-Company Name:  Hawk, LLC  
-c/o Capital Management  
-3315 HWY 50, Silver Springs  
-NV 89429  
-Phone Number:   (800) 590-0078  
-Email:  
+Website: CashAdvance.com
 
+Company Name: Hawk, LLC
+
+12850 West 331 North Suite 60
+
+Altamont, UT 84401
+
+Phone Number: (800) 590-0078
+
+Email:
 
 CashAdvance.com understands the importance of protecting consumers’ personal information and the proper use of their personal information. It is Our policy to not send unsolicited e-mails to consumers and we hope the following information will eliminate any concerns that Your company may have regarding Our practices of consumers’ personal information.
 
@@ -135,14 +188,15 @@ ________________________________________
 
 This e-mail is not sent unsolicited. This is a CashAdvance.com emailing. Offers are sent to subscribers ONLY.
 
-To be removed from Our list, [click here](http://www.cashadvance.com/unsubscribe "Unsubscribe").
+To be removed from Our list,[ click here](http://www.cashadvance.com/unsubscribe).
 
-View Our [Privacy Policy](http://www.cashadvance.com/privacy-policy "Privacy Policy").
+View Our[ Privacy Policy](http://www.cashadvance.com/privacy-policy).
 
 ISPs view Our policies.
 
 ________________________________________
 
-In some instances, CashAdvance.com will enter into a Privacy Policy with a third-party website to allow consumers to opt-in to our marketing program on those third party websites. When this occurs we make certain that the third-party websites represent and warrant to us that the consumer data was collected voluntarily by consumer registration and/or co-registrations. We also require that the third-party websites have a right under any applicable privacy policy to transfer the consumer data to us, and that CashAdvance.com has the right to send marketing offers to the consumer.
+**  
+** In some instances, CashAdvance.com will enter into a Privacy Policy with a third-party website to allow consumers to opt-in to our marketing program on those third party websites. When this occurs we make certain that the third-party websites represent and warrant to us that the consumer data was collected voluntarily by consumer registration and/or co-registrations. We also require that the third-party websites have a right under any applicable privacy policy to transfer the consumer data to us, and that CashAdvance.com has the right to send marketing offers to the consumer.
 
 We hope this information satisfies any questions or concerns you may have as an ISP regarding our e-mail practices. If you have additional questions or wish to discuss the matter further, please contact us at .
