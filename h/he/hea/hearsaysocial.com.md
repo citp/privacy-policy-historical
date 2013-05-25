@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hearsaysocial.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227080726id_/http%3A//hearsaysocial.com/assets/2012/08/Hearsay-Social-Privacy-Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hearsaysocial.com privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525143847id_/http%3A//hearsaysocial.com/assets/2012/08/Hearsay-Social-Privacy-Policy.pdf) for the most accurate reproduction.*
 
 # 
 
