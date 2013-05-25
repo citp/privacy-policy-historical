@@ -1,0 +1,267 @@
+> *The following text is extracted and transformed from the hobbycraft.co.uk privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526000628id_/http%3A//www.hobbycraft.co.uk/pages/privacy%2520policy) for the most accurate reproduction.*
+
+# 
+
+Hobbycraft are committed to protecting your privacy online. Here we explain how we collect information, what we do with it and what controls you have.
+
+You can find all other information about our website in our [Terms and Conditions](http://www.hobbycraft.co.uk/pages/termsandconditions "Terms and Conditions") and [Frequently Asked Questions (FAQs)](http://www.hobbycraft.co.uk/pages/faq "Frequently Asked Questions \(FAQs\)").
+
+## What data we collect
+
+Your personal data will be used to to provide the information, goods and services offered through our website to you, for billing and order fulfilment.
+
+We collect personal information through the use of [cookies](http://www.hobbycraft.co.uk/pages/privacy%20policy#cookies "Hobbycraft Cookie Policy") and from the information that you send to us when you :
+
+  * Visit our website.
+  * Order products.
+  * Create an account.
+  * Join our email newsletter.
+
+
+
+We also monitor who uses our website. For example, we may collect information about you like the type of internet browser you use, the website from which you have come to ours and your IP address (the unique address which identifies your computer on the internet). This lets us improve our website.
+
+## Privacy promise
+
+Hobbycraft know how important it is to keep your personal information (for example your email address), safe and secure online. When you give us any personal information, we will not pass it on to anybody else.
+
+We promise that :
+
+  * We will never pass your personal details on to anyone else, or for any reason.
+  * Any information that we collect from you is held legally.
+
+
+
+We use some of your personal information to process your order and other companies help us with this. We only send them the data that they need and we make sure that they keep your personal information safe and secure.
+
+## Security
+
+  
+
+
+### Account security
+
+You are responsible for your account security, password and any activities on it. We are not responsible for anything that may happen if you do not protect your password or account.
+
+### Site security
+
+Our website uses the highest level of security available for online shopping. Any personal information that you send is securely encrypted by a 128-bit Secure Sockets Layer (SSL). In other words, the SSL mixes-up your data and stops it from being taken by anyone else.
+
+### How to check that you are in a secure area
+
+Our Checkout is one example of secure area. There are two ways that you can check that the page has been encrypted and that it is safe for you to continue :
+
+  1. A padlock will be shown at the bottom of your screen. 
+  2. Our website address, http://www.hobbycraft.co.uk, will change slightly :  
+The part of the address starting with “http” will change to “https”. You can find it at the top of your screen.
+
+
+
+## Phishing scams
+
+Phishing scams try and trick you into giving your personal or sensitive information to a fake person. - Usually by an email or phone call from someone pretending to be from a real company.
+
+**Do not share your personal information with anyone who calls and says that they are from Hobbycraft**. If we need to get in contact, you will be asked to call us back on our main Online Customer Service telephone number which is **0845 051 6599**.
+
+Please tell our Online Customer Service Team straight way if you think someone is trying to trick you into giving them your details. Call us on **0845 051 6599** from Monday to Friday, between 9am and 5pm. Or [email the Online Customer Services Team](mailto:onlinecustomerservices@hobbycraft.co.uk).
+
+## Contact Us
+
+You can get in contact with our Online Customer Services Team by telephone, email or post :
+
+  * Telehone : 0845 051 6599 from Monday to Friday, between 9am and 5pm. 
+  * Email : onlinecustomerservices@hobbycraft.co.uk 
+  * Post :
+
+
+
+eCommerce Department  
+Hobbycraft Trading Limited  
+Tyne Road  
+Weedon Road Industrial Estate  
+Northampton  
+Northamptonshire  
+NN5 5AF
+
+## Your rights
+
+You have the right to ask for access to the personal data which we may hold or process about you. You also have the right to ask us to correct any mistakes in your data.
+
+### Right to prevent marketing
+
+We offer an email newsletter and may use your data for marketing reasons. We never sell your data to anyone else. You have the right to ask us to stop using your personal data to send you the Hobbycraft email newsletter. You can opt-out any time by using the 'Unsubscribe' link at the very bottom of the email.
+
+## Cookie policy
+
+We use cookies on our website so that you can use everything on it. - Like saving favourite products and ideas to your craft drawer and logging into your account. Cookies also help us to understand how you use our website so that we can continue to improve it.
+
+Hobbycraft cookies are read-only and set by our website. They cannot have a virus or get any personal information from your computer.
+
+### What are cookies?
+
+Cookies are tiny text files saved on your computer when you go to some web pages.
+
+Any website can put cookies on your computer. But your browser (for example Internet Explorer, Google Chrome or Firefox), will only allow some cookies to protect your privacy.
+
+It is usual that a cookie will contain the following :
+
+  * A website address, for example [www.hobbycraft.co.uk](http://www.hobbycraft.co.uk/).
+  * Its 'lifetime' (how long it will be held on your computer for).
+  * Its value, usually a unique string of letters and / or numbers.
+
+
+
+### First-party and third-party cookies
+
+  * **First-party cookies** are saved to your computer by the website that you are on.
+  * **Third-party cookies** are saved to your computer by a website that gives content to the one that you are on. So, if you watch a YouTube video on our website, YouTube may save its own cookie to your computer.
+
+
+
+A website can only read the cookies that it makes. So, other websites cannot read the cookies we save to your computer and we cannot read any cookies saved by them.
+
+## Hobbycraft first-party cookies
+
+These are the cookies set by [www.hobbycraft.co.uk](http://www.hobbycraft.co.uk/) :
+
+Cookie Name
+
+| 
+
+Purpose  
+  
+---|---  
+  
+ASP.NET_SessionId
+
+| 
+
+This cookie allows us to respond to the choices that you make on our website like "Add to basket". Without it, we wouldn’t know if one person or many were using our website and no one would be able to log in or buy anything.  
+  
+PHPSESSID
+
+| 
+
+This cookie is similar to the ASP.NET_SessionId cookie, but is only saved to your computer if you browse pages on our website that come from Wordpress (for example the Get Crafty blog).  
+  
+craft
+
+| 
+
+When you select an interest or add something to your craft drawer the craft cookie makes sure that our website will remember it.  
+  
+viewedproducts
+
+| 
+
+This cookie is used to show your recently browsed items. You can hide Recent Items with the cross that appears as you pass your mouse pointer over them, or you can choose to ‘Remove all’.  
+  
+Login
+
+| 
+
+Thiscookie is set if you choose ‘Keep me signed in’ when you log in to your account. It keeps your account email address and a secure version of your password. Never choose 'Keep me signed in' on a public or shared computer.   
+  
+  * __utma
+  * __utmb
+  * __utmc
+  * __utmz
+
+| 
+
+These cookies are set by Google Analytics and we use them for our website statistics. Any data that is sent to Google Analytics is kept secret. We only use it to better understand our visitors and make the right choices about our website and marketing.  
+  
+### Third-party cookies
+
+We keep our list of third-party cookies as up-to-date as possible. Our information may be wrong if our third-parties change their cookies and do not tell us however.
+
+Cookie set by
+
+| 
+
+Name of cookies
+
+| 
+
+Purpose  
+  
+---|---|---  
+  
+awin1.com (Affiliate Window)
+
+| 
+
+aw3454
+
+| 
+
+We work with other websites to try and bring more customers to Hobbycraft. This cookie is only saved to your computer if you come to our website through one of these websites or their marketing. We use it when they send you to us so that we can pay them for your visit. Go to the [Affiliate Window Privacy Policy](http://www.affiliatewindow.com/documents/legal/privacy.pdf "Affiliate Window Privacy Policy PDF"), to understand how Affiliate Window use cookies.  
+  
+Facebook
+
+| 
+
+  * c_user
+  * datr
+  * locale
+  * lu
+  * s
+  * xs
+
+| 
+
+Facebook may save some or all of these cookies to your computer if you use the Facebook 'Like' or 'Share' buttons on the Hobbycraft website. Go to the [Facebook Cookie Policy](https://www.facebook.com/help/cookies "Facebook Cookie Policy"), to understand how Facebook use cookies.  
+  
+Twitter
+
+| 
+
+  * k, guest_id
+  * _twitter_sess
+  * original_referer
+  * external_referer
+
+| 
+
+Twitter may save some or all of these cookies to your computer if you use the Twitter 'Tweet' button on the Hobbycraft website. Go to the [Twitter Privacy Policy](https://twitter.com/privacy "Twitter Privacy Policy"), to understand how Twitter use cookies.  
+  
+PayPal
+
+| 
+
+  * s_vi
+  * DH4puLeRqX6BpunfdurQO8Swi28
+  * HaC80bwXscjqZ7KM6VOxULOB534
+  * INSIDE_SEARCH_PARAMS
+  * KHcl0EuY7AKSMgfvHl7J5E7hPtK
+  * LANG
+  * PUuuwWB0yFt3AzV9ACftsAxz2fO
+  * SEGM
+  * cookie_check cwrClyrK4LoCV1fydGbAxiNL6iG
+  * flow_back_cookie
+  * login_email, navcmd
+  * navlns
+  * pNTcMTtQfrJuaJiwEnWXQ6yNxfq
+  * s_pers
+  * s_sess
+  * Apache, TS6a0e62
+
+| 
+
+You will be sent to the PayPal website if you pay for your order from Hobbycraft through them. This is so that you can log in and confirm your payment. PayPal save some or all of these cookies to your computer. Go to the [PayPal Privacy Policy](https://cms.paypal.com/uk/cgi-bin/marketingweb?cmd=_render-content&content_ID=ua/Privacy_full&locale.x=en_GB "PayPal Privacy Policy") to understand how PayPal use cookies.  
+  
+## Manage cookies on your computer or mobile device 
+
+You can browse the Hobbycraft website with no cookies allowed on your computer or mobile device, but you will not be able to add items to your craft drawer or products to your shopping basket.
+
+In your web browser settings (for example Internet Explorer, Firefox or Google Chrome) you can :
+
+  * Check the cookies on your computer;
+  * remove all or some of them; and
+  * set rules on when you want cookies to be allowed.
+
+
+
+We advise that you visit [**www.aboutcookies.org**](http://www.aboutcookies.org/) for help on how to manage cookies in your web browser.
+
+To manage cookies on your mobile phone, tablet or other mobile device we advise that you check the device manual.
