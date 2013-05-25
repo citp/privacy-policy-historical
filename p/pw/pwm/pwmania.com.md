@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pwmania.com privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110233620id_/http%3A//www.pwmania.com/site-info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pwmania.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526001833id_/http%3A//www.pwmania.com/site-info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PWMania
 
