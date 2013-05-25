@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the exa.com.au privacy policy that was archived on 2012-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121206060346id_/http%3A//www.exa.com.au/terms/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exa.com.au privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525182751id_/http%3A//www.exa.com.au/terms/privacy.html) for the most accurate reproduction.*
 
-# Web Development, Online Marketing, Web Design, SEO
-
-## Privacy
+# Privacy Policy- Exa Web Solutions
 
 Exa respects your privacy and is committed to the protection of it. This privacy policy explains why and when we collect your personal information, and what use we make of that information. The policy also explains where and why your information may be disclosed to third parties, and the security measures used by Exa to help protect your personal information 
 
@@ -34,7 +32,7 @@ ICANN (the Internet Corporation for Assigned Names and Numbers) is the organisat
 
 The public policy behind this requirement is that the personal details of domain name licence holders should be freely available to all other users of the Internet. This public policy is adopted by the domain name industry as a whole. The requirement means, however, that Exa will not be able to control how members of the public may use the information made available on these publicly accessible databases. 
 
-In addition, ICANN has another mandatory requirement that all its accredited registrars make the WHOIS database of personal information for com, net and org available for bulk downloads by third parties who have entered into a bulk access agreement with Exa. If you do not want your personal information to be included in these bulk downloads, you may opt out of this service by providing written notice to Exa, or by emailing us at: [info@exa.com.au](mailto:info@exa.com.au)
+In addition, ICANN has another mandatory requirement that all its accredited registrars make the WHOIS database of personal information for com, net and org available for bulk downloads by third parties who have entered into a bulk access agreement with Exa. If you do not want your personal information to be included in these bulk downloads, you may opt out of this service by providing written notice to Exa, or by emailing us at: [info@exa.com.au](mailto:%69%6e%66%6f@%65%78%61.%63%6f%6d.%61%75)
 
   * #### Use of your information to fulfil our role as registrar
 
@@ -59,7 +57,7 @@ We may supply your personal information to our third party billing and payment s
 
 ### Accuracy
 
-You may access and update the personal information we provide to the registries in respect of your domain name licence at any time. For information on this procedure, feel free to contact Exa [here](https://web.archive.org/web/20121206060346id_/http%3A//www.exa.com.au/contact/).   
+You may access and update the personal information we provide to the registries in respect of your domain name licence at any time. For information on this procedure, feel free to contact Exa [here](https://web.archive.org/web/20130525182751id_/http%3A//www.exa.com.au/contact/).   
 If you believe that Exa may hold other personal information about you which is inaccurate, please contact us by using this web form and we will take reasonable steps to ensure that it is corrected. 
 
 ### Security
@@ -76,4 +74,4 @@ Exa may make changes to its privacy policy from time to time. You should check o
 
 ### Further information or queries
 
-If you have any queries or comments, or would like more information concerning Exa's privacy policy, please contact us by using this [web form](https://web.archive.org/web/20121206060346id_/http%3A//www.exa.com.au/contact/)
+If you have any queries or comments, or would like more information concerning Exa's privacy policy, please contact us by using this [web form](https://web.archive.org/web/20130525182751id_/http%3A//www.exa.com.au/contact/)
