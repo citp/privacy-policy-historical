@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the funnydoom.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228063125id_/http%3A//funnydoom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funnydoom.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526000205id_/http%3A//funnydoom.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | FunnyDoom.com
+
+[](http://funnydoom.com/)   
+  
+
 
 **FunnyDoom.com** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site.
 
@@ -44,3 +48,7 @@ To protect your privacy and security, we will also take reasonable steps to veri
 
 **Contacting the Web Site**  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us.
+
+  
+  
+
