@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tigerdirect.com privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029083627id_/http%3A//www.tigerdirect.com/sectors/aboutus/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tigerdirect.com privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525062754id_/http%3A//www.tigerdirect.com/sectors/aboutus/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy at TigerDirect.com
 
-**TigerDirect.com Privacy Notice** (Updated 8/22/2011)
+**TigerDirect.com Privacy Notice** (Updated 11/27/2012)
 
 By visiting the TigerDirect.com website or any other websites operated by TigerDirect.com or its affiliates (collectively, the "Site"), you agree to accept the practices described in this Privacy Notice. If you do not agree to the terms of this Privacy Notice, please do not use the Site. Each time you use the Site, you should check the date of this Privacy Notice (which appears above) and review any changes that have been made since your last visit to the Site. 
 
@@ -69,11 +69,11 @@ You should recognize, however, that no computer system is fully secure and that 
 
 **7\. Corrections/Information Removal/Opt-Out**
 
-If your name, e-mail or postal address, telephone number or other Personal Information changes, you may update, correct or omit the relevant information by contacting us at privacy@TigerDirect.com. In addition, if you no longer wish to receive communications from us you may opt-out by emailing us at privacy@TigerDirect.com, sending a letter to: TigerDirect.com Privacy Officer, 8300 West Flagler St. Suite# 121-106, Miami, FL 33144 or by clicking on the unsubscribe link within any marketing e-mail you receive from us. If you no longer wish to receive our catalog, you may call us at 800-800-8300, email us at privacy@TigerDirect.com or send a letter to: TigerDirect.com Privacy Officer, 8300 West Flagler St. Suite# 121-106, Miami, FL 33144.
+If your name, e-mail or postal address, telephone number or other Personal Information changes, you may update, correct or omit the relevant information by contacting us at privacy@TigerDirect.com. In addition, if you no longer wish to receive communications from us you may opt-out by emailing us at privacy@TigerDirect.com, sending a letter to: TigerDirect.com Privacy Officer, 7795 West Flagler St., Suite 35, Miami, FL 33144 or by clicking on the unsubscribe link within any marketing e-mail you receive from us. If you no longer wish to receive our catalog, you may call us at 800-800-8300, email us at privacy@TigerDirect.com or send a letter to: TigerDirect.com Privacy Officer, 7795 West Flagler St., Suite 35, Miami, FL 33144.
 
 **8\. Contact Information**
 
-If you have any questions or concerns about this Privacy Notice, please e-mail us at privacy@TigerDirect.com or send a letter to: TigerDirect.com Privacy Officer, 8300 West Flagler St. Suite# 121-106, Miami, FL 33144.
+If you have any questions or concerns about this Privacy Notice, please e-mail us at privacy@TigerDirect.com or send a letter to: TigerDirect.com Privacy Officer, 7795 West Flagler St., Suite 35, Miami, FL 33144.
 
 **9\. Business Transfer**
 
