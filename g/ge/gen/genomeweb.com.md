@@ -1,40 +1,92 @@
-> *The following text is extracted and transformed from the genomeweb.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216020100id_/http%3A//www.genomeweb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genomeweb.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526001829id_/http%3A//www.genomeweb.com/privacy) for the most accurate reproduction.*
 
-# GenomeWeb Privacy Policy
+# GenomeWeb's Privacy Policy | GenomeWeb | GenomeWeb
 
-* * *
+GenomeWeb values your privacy. This statement explains what information GenomeWeb gathers from you through our website and how we may use it. By using genomeweb.com you indicate your acceptance of GenomeWeb's privacy policy. 
 
-**Privacy Policy for GenomeWeb LLC - Online and Print**
+**What information do we collect?**
 
-**GenomeWeb Daily News (www.GenomeWeb.com)**   
-When you register to receive GenomeWeb Daily News Bulletins, we collect your email address and certain geographical and professional information from you. We collect additional information through our use of cookie technology and IP-address logging as you browse our website.
+We collect information from you when you register on our site, place an order, respond to a survey, or fill out a form.
 
-We do not and will not share your personal information with any third parties except as follows. We share aggregate demographic information – not personal data – with our advertisers to help them better understand the readership of GenomeWeb Daily News. We also may disclose or exchange with others information you have provided to us if we believe in good faith that the law requires us to do so – or if it is necessary to protect the rights or property of GenomeWeb or our subscribers.
+When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address, mailing address, phone number, or credit card information. You may, however, visit our site anonymously.
 
-We may from time to time use your email address to contact you regarding other publications and services in The GenomeWeb Intelligence Network. By registering to receive GenomeWeb Daily News Bulletins, you agree to accept these messages. 
+**What do we use your information for?**
 
-**Genome Technology Magazine and Genome Technology Online**  
-When you request a subscription to Genome Technology magazine, we collect personal information (name, postal address, email address and other data) from you and we collect additional information through our use of cookie technology and IP-address logging as you browse our website.
+Any of the information we collect from you may be used in one of the following ways:
 
-We use information you provide about your work to determine if you are eligible for a nonpaid subscription. We also use this information to fulfill your subscription and contact you regarding the status of your subscription. Our editors may also contact you by email as part of occasional readership surveys. In addition, Genome Technology's publisher, GenomeWeb LLC, may from time to time use this information to contact you regarding other publications and services in The GenomeWeb Intelligence Network. By requesting a nonpaid subscription, you agree to accept these messages. 
+• To personalize your experience (your information helps us to better respond to your individual needs)
 
-Genome Technology does not share your personal information with any third parties except as follows. From time to time Genome Technology may make our subscriber mailing list (postal addresses only - NEVER email addresses) available to qualified third parties who wish to distribute information about relevant products or services, subject to our specific approval. In addition, our readership is audited by [BPA Worldwide](http://www.bpaww.com/about_bpa), a non-profit media auditing agency that occasionally requires limited access to a sample of our subscription requests.
+• To improve our website (we aim to improve our website offerings based on the information and feedback we receive from you)
 
-The data we collect from cookies and IP addresses gives us demographic information about the Genome Technology audience, which we use to improve Genome Technology. We also share aggregate information - not personal data - with our advertisers to help them better understand our magazine's readership. Genome Technology also may disclose or exchange with others information you have provided to us if we believe in good faith that the law requires us to do so or if it is necessary to protect the rights or property of Genome Technology or our subscribers.
+• To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs)
 
-As part of his or her subscription request, each nonpaid subscriber to Genome Technology is asked to provide a valid workplace email address. Genome Technology reserves the right to suspend or cancel the subscription of any nonpaid subscriber who provides no email address, provides a personal email address (e.g., gmail.com, yahoo.com, comcast.net), provides an undeliverable email address, or requests that GenomeWeb or Genome Technology not contact him or her via email.
+• To process transactions
 
-**Application-Focus Newsletters**  
-This applies to the following websites: www.BioArrayNews.com, www.BioInform.com, www.BioRegionNews.com, www.BiotechTransferWeek.com, www.CBA-News.com, www.In-Sequence.com, www.PGxReporter.com, www.ProteoMonitor.com, and www.RNAiNews.com. 
+• To administer a contest, promotion, survey or other site feature
 
-When you purchase a subscription to an application-focus newsletter, we collect personal information (name, postal address, email address and other data) from you and we collect additional information through our use of cookie technology and IP-address logging as you browse our website.
+• To send periodic emails (The email address you provide may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.)
 
-We use this information to fulfill your subscription and contact you regarding the status of your subscription. Our editors may also contact you by email as part of occasional readership surveys. 
+Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent.
 
-We do not and will not share your personal information with any third parties except as follows. We share aggregate demographic information – not personal data – with our advertisers to help them better understand the readership of GenomeWeb Daily News. We also may disclose or exchange with others information you have provided to us if we believe in good faith that the law requires us to do so – or if it is necessary to protect the rights or property of GenomeWeb or our subscribers.
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
-* * *
+**How do we protect your information?**
 
-GenomeWeb LLC uses reasonable precautions to keep the information disclosed to us secure. However, we are not responsible for any breach of security, nor for any subsequent actions of any third parties that may receive the information as a result of such a breach.
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information. 
 
-* * *
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our payment gateway provider's database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
+
+After a transaction, your private information will not be stored on our servers.
+
+**Do we use cookies?**
+
+Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your web browser (if you allow) that enables the site to recognize your browser and capture and remember certain information.
+
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements, and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders by calling 212-651-5612 or by contacting [ customer service](mailto:customerservice@genomeweb.com).
+
+**Do we disclose any information to outside parties?**
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+**Third party links**
+
+At our discretion, we may include or offer third-party products or services on our website. These third-party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+**California Online Privacy Protection Act Compliance**
+
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+
+As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at any time by logging into genomweb.com and accessing the "My Account" page.
+
+**Children's Online Privacy Protection Act Compliance**
+
+We are in compliance with the requirements of COPPA (Children's Online Privacy Protection Act). We do not collect any information from anyone under 13 years of age. Our website, products, and services are all directed to people who are at least 13 years old or older.
+
+**Online Privacy Policy Only**
+
+This online privacy policy applies only to information collected through our website and not to information collected offline.
+
+**Your Consent**
+
+By using our site, you consent to our website's privacy policy.
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page, and/or update the privacy policy modification date below.
+
+This policy was last modified on March 21, 2013
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may contact us using the information below.
+
+GemomeWeb LLC  
+40 Fulton St., 10th Floor  
+New York, NY 10038
+
+[customerservice@genomeweb.com](mailto:customerservice@genomeweb.com)  
+212-651-5636
+
+This policy is powered by Free Privacy Policy and Rhino Support help desk software.
