@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the morevisibility.com privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028135757id_/http%3A//www.morevisibility.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the morevisibility.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526000209id_/http%3A//www.morevisibility.com/privacy_policy.php) for the most accurate reproduction.*
 
 # MoreVisibility's Privacy Policy
 
@@ -10,26 +10,30 @@ Boca Raton, FL 33432
 
 We can be reached via e-mail at [info@MoreVisibility.com](mailto:info@MoreVisibility.com?subject=MV%20Website%20Privacy%20Policy) or you can reach us by telephone at 561.620.9682
 
-## 1.  Collecting Information
+## 1.  Information Collection
 
-For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
+We collect information from you in several different ways on this Site. One goal in collecting personal information from you is to provide an efficient, meaningful, and customized experience. For example, we can use your personal information to: 
 
-We collect only the domain name, but not the e-mail address of visitors to our Web page, the e-mail addresses of those who communicate with us via e-mail, the e-mail addresses of those who make postings to our chat areas, aggregate information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations, name and address, telephone number, fax number, payment information (e.g., credit card number and billing address).
-
-The information we collect is used for internal review and is then discarded, used to improve the content of our Web page, used by us to contact consumers for marketing purposes.
-
-Do we use cookies?   
-Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information, including: 
-
-  * Third party vendors, including Google, show your ads on sites on the internet.
-  * Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website.
-  * Users may opt out of Google's use of cookies by visiting the Google advertising opt-out page.
+  * Help make the Site easier for you to use by not having to enter information more than once
+  * Help you quickly find information, products, and services
+  * Help us create content that is most relevant to you
+  * Alert you to new information, products, and services that we offer
 
 
 
-We use cookies to understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business. 
+**A)**   Cookies and Other Technology. Like many sites, the Site employs cookies and web beacons (also known as clear GIF technology or "action tags") to speed your navigation of the Site, recognize you and your access privileges, and track your Site usage. 
 
-MoreVisibility uses [Google Analytics](http://www.google.com/analytics/), and is a [Google Analytics Authorized Partner](http://www.google.com/analytics/partners.html). Google Analytics uses four first-party cookies that are set on a visitor’s computer which allow anonymous web site usage data to be collected. MoreVisibility uses this anonymous information to study and observe how our web site is performing, and how we can improve the user-experience of our web site. MoreVisibility does not in any way, shape, or form re-distribute, re-sell, or make publicly available the anonymous web site data that we collect. The first-party cookies set on your computer by our web site are 128-bit secure socket layer (SSL) encrypted, and can only be read by our primary domain. 
+  (i)  Cookies are small pieces of information that are stored as text files by your Internet browser on your computer’s hard drive. Most Internet browsers are initially set to accept cookies. You can set your browser to refuse cookies from web sites or to remove cookies from your hard drive, but if you do, you will not be able to access or use portions of the Site. We have to use cookies to enable you to select products, place them in an online shopping cart, and to purchase those products. If you do this, we keep a record of your browsing activity and purchase. THE SITE’S COOKIES DO NOT AND CANNOT INFILTRATE A USER’S HARD DRIVE TO GATHER A USER’S CONFIDENTIAL INFORMATION. Our cookies are not "spyware". 
+
+  (ii)  Web beacons assist in delivering cookies and help us determine whether a web page on the Site has been viewed and, if so, how many times. For example, any electronic image on the Site, such as an ad banner, can function as a web beacon. 
+
+  (iii)  We may use third-party advertising companies to help tailor site content to users or to serve ads on our behalf. These companies may employ cookies and web beacons to measure advertising effectiveness (such as which web pages are visited or what products are requested). Any information that these third parties collect via cookies and web beacons is not linked to any personal information collected by us. In certain instances, we will use this information to market to you on other websites, in an effort of re-engaging your interest on us and/or specific services of ours, through specialized targeting, referred to as Remarketing or Retargeting. 
+
+  (iv)  As an example, Google collects certain information via cookies and web beacons to determine which web pages are visited or what products are requested. Please note that any information collected by Google via cookies and web beacons is not linked to any customer's personal information collected by us. Visitors can opt out of Google's use of cookies by visiting the [Ads Preferences Manager](https://www.google.com/ads/preferences/)
+
+  (v)  Log Files. As is true of most web sites, the Site server automatically recognizes the Internet URL from which you access the Site. We may also log your Internet protocol ("IP") address, Internet service provider, and date/time stamp for system administration, order verification, internal marketing, and system troubleshooting purposes. (An IP address may indicate the location of your computer on the Internet.) 
+
+  **B)**   MoreVisibility uses [Google Analytics](http://www.google.com/analytics/), and is a [Google Analytics Authorized Partner](http://www.google.com/analytics/partners.html). Google Analytics uses four first-party cookies that are set on a visitor’s computer which allow anonymous web site usage data to be collected. MoreVisibility uses this anonymous information to study and observe how our web site is performing, and how we can improve the user-experience of our web site. MoreVisibility does not in any way, shape, or form re-distribute, re-sell, or make publicly available the anonymous web site data that we collect. The first-party cookies set on your computer by our web site are 128-bit secure socket layer (SSL) encrypted, and can only be read by our primary domain. 
 
 ## 2.  Use of Your Information
 
