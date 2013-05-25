@@ -1,99 +1,553 @@
-<!--The following is the downloaded HTML source of the dogspot.in privacy policy that was archived on 2012-10-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121029054236id_/http%3A//www.dogspot.in/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dogspot.in privacy policy that was archived on 2013-05-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130525033720id_/http%3A//www.dogspot.in/shop-policy.php%23privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>Privacy Policy | DogSpot</title>
-<meta name="keywords" content="Privacy Policy | DogSpot">
-<meta name="description" content="Privacy Policy | DogSpot">
-<link rel="stylesheet" type="text/css" href="/combinefiles/shop-new.css?date=1350304524"><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/combinefiles/shop-item.js?date=1347969634"></script><!--[if lt IE 7]>
+<script id="viralmint-js" src="//cdn.viralmint.com/js/viralmint-min.js" async=""></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
+<title>DogSpot Shop Policy | DogSpot</title>
+<meta name="keywords" content="DogSpot Shop Policy | DogSpot">
+<meta name="description" content="DogSpot Shop Policy | DogSpot">
+<link rel="stylesheet" type="text/css" href="/combinefiles/shop-new.css?date=1367595731"><script type="text/javascript" src="/combinefiles/shop-item.js?date=1361877240"></script><!--[if lt IE 7]>
 <script type="text/javascript" src="/new/js/jquery/jquery.js"></script>
 <script type="text/javascript" src="/new/js/jquery/jquery.dropdown.js"></script>
 <![endif]-->
 
-<script type="text/javascript" src="/ajax-autocomplete/jquery.autocomplete.js"></script>
+
+
+<meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE">
+<meta name="msvalidate.01" content="33722F73799514D1FBB0C782A3581F88">
+
+<link href="/new/common/css/header-style.css?v=1369453037" rel="stylesheet" type="text/css">
+<link href="/new/common/css/mega_menu.css?v=1369453037" rel="stylesheet" type="text/css">
+
+<!----- Feed Burner Starts Here---->
+<link rel="alternate" type="application/rss+xml" title="Dog Spot Dog Blogs" href="http://feeds.feedburner.com/dogspotblog">
+<link rel="alternate" type="application/rss+xml" title="Dog Spot Q&amp;A" href="http://feeds.feedburner.com/DogspotinQna">
+<link rel="alternate" type="application/rss+xml" title="Dog Spot Dog Gallery " href="http://feeds.feedburner.com/DogspotDogs">
+<link rel="alternate" type="application/rss+xml" title="Dog Spot Puppies Available" href="http://feeds.feedburner.com/DogspotPuppies">
+<!----- Feed Burner Ends Here---->
 <link rel="stylesheet" type="text/css" href="/ajax-autocomplete/jquery.autocomplete.css">
+<!----- aLL jS fILES---->
+<script type="text/javascript" src="/new/common/js/alice.js?v=1369453037"></script>
+<script type="text/javascript" src="/ajax-autocomplete/jquery.autocomplete.js"></script>
+<script src="/js/shaajax2.1.js" type="text/javascript"></script>
+<!----- aLL jS fILES ENDS HERE---->
 <script type="text/javascript">
+ var aliceImageHost = '#';
+        var aliceStaticHost = '#';
+        var globalConfig = {};   
 $().ready(function() {
-	$("#search-query").autocomplete("/new/shop/getall.php", {
+		$("#search-query").autocomplete("/new/shop/getall.php", {
 		width: 390,
 		matchContains: true,
-		//mustMatch: true,
-		//minChars: 0,
-		//multiple: true,
-		//highlight: false,
-		//multipleSeparator: ",",
 		selectFirst: false
 	});
+	 
+	 $(".slidingDiv").hide();
+        $(".show_hide").show();
+ 
+    $('.show_hide').click(function(){
+    $(".slidingDiv").slideToggle();
+    });
 });
 </script>
 
-<meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE">
+<!----validation for login panel start here	--->
 <script type="text/javascript">
+function checkpassword()
+{
+var pin=document.getElementById('login_email').value;
+var password=document.getElementById('password').value;
+var login='login';
+ShaAjaxJquary('/new/common/checkuser.php?email='+pin+'&password='+password+'&emailcheck='+login+'', '#login_error1', '', '', 'POST', 
+'#login_error1', '', 'REP');
+}
+</script>
+<script type="text/javascript">
+function submit1()
+{
+	if(validateLogin()){
+var checklogin=document.getElementById('login_error1').textContent;
+if(checklogin=="")
+{
+document.getElementById('login_error1').style.display='none';
+return true;
+}
+else {
+document.getElementById('login_email').focus();
+document.getElementById('login_error1').innerHTML=" Incorrect DogSpot ID or Password.";
+document.getElementById('login_error1').style.display='inline-block';
+return false;
+}}
+return false;
+
+}
+</script>
+<!----validation for login panel ends here	--->
+
+<script type="text/javascript">
+
+<!----- Validation for login and register starts here---->
+function count()
+{
+	if(isemail() && isfullname() && ispass() && isnews() && isprofile() && checkonsubmit()){
+	return true;}
+	else
+	return false;
+}
+function isemail(){	
+//alert('email');
+var mailformat = /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/; 
+var email =document.getElementById('cust_email').value;
+	if(email=='Email*') {
+		//alert('Please enter valid Name');
+		document.getElementById('cust_email').focus();
+		document.getElementById('customer_error').innerHTML='Please enter  Email';
+		document.getElementById('customer_error').style.display='inline-block';
+		return false;
+	}
+	if(!email.match(mailformat))
+	 {
+		 //alert('isemail');
+		document.getElementById('customer_error').innerHTML='Please enter valid Email';
+		document.getElementById('customer_error').style.display='inline-block';
+		 return false;
+	 }
+	document.getElementById('customer_error').style.display='none';
+	return true;
+}
+	function isfullname(){
+	if((document.getElementById('fullname').value=='Full Name*') || (document.getElementById('fullname').value=='')){
+	//document.getElementById('fullname').focus();
+	document.getElementById('customer_error').innerHTML='Please enter valid Name';
+	document.getElementById('customer_error').style.display='inline-block';
+	return false;
+	}
+	return true;
+	}
+	function ispass(){
+	if((document.getElementById('cust_password').value=='Password*') || (document.getElementById('fullname').value=='Full Name*')) {
+	//document.getElementById('cust_password').focus();
+	document.getElementById('customer_error').innerHTML='Protect your account, type your password';
+	document.getElementById('customer_error').style.display='inline-block';
+	return false;
+	}
+
+	document.getElementById('customer_error').style.display='none';
+ return true;
+}
+function isprofile(){
+
+	if(document.getElementById('youare').value=='Selectare') {
+		document.getElementById('cust_password').focus();
+		document.getElementById('customer_error').innerHTML='Please select what you are';
+		document.getElementById('customer_error').style.display='inline-block';
+		return false;
+	}
+	document.getElementById('customer_error').style.display='none';
+ return true;
+	
+}
+function isnews(){
+if(!document.getElementById('is_newsletter_subscribed').checked) {
+		document.getElementById('is_newsletter_subscribed').focus();
+		document.getElementById('customer_error').innerHTML='Please Check for newsletter subscribe';
+		document.getElementById('customer_error').style.display='inline-block';
+		return false;
+	}
+	document.getElementById('customer_error').style.display='none';
+	return true;}
+
+	
+	function checkonsubmit()
+		{
+	
+			var check=document.getElementById('customer_error1').textContent;
+			if(check==" Email already exists.")
+			{
+				document.getElementById('cust_email').focus();
+		        document.getElementById('customer_error1').innerHTML=' Email already exists.';
+		        document.getElementById('customer_error1').style.display='inline-block';
+				return false;
+			}
+			else {
+			document.getElementById('customer_error1').style.display='none';
+				return true;
+			}
+}
+
+function checkthis(){
+	
+	 		 var pin=document.getElementById('cust_email').value;
+		 
+		  if(pin!='' && pin!='Email*'){
+var emailcheck='emailcheck';
+ShaAjaxJquary('/new/common/checkuser.php?email='+pin+'&emailcheck='+emailcheck+'', '#customer_error1', '', '', 'POST', '#customer_error1', '', 'REP');
+		 }
+
+
+}
+
+function validateemail(){
+document.getElementById('reset_password').style.display='block';	
+var mailformat = /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/; 
+var email =document.getElementById('RegistrationForm').value;
+	if(email=='Enter Your Email ID') {
+		//alert('Please enter valid Name');
+		document.getElementById('RegistrationForm').focus();
+		document.getElementById('password_error1').innerHTML='Please enter  Email';
+		//document.getElementById('password_error1').style.display='inline-block';
+	// document.getElementById('reset_password').style.display='none';	
+	}
+	else if(!email.match(mailformat))
+	 {
+		 
+		document.getElementById('password_error1').innerHTML='Please enter valid Email';
+		document.getElementById('password_error1').style.display='inline-block';
+		// document.getElementById('reset_password').style.display='none';
+	 }
+	 else {
+		 document.getElementById('password_error1').style.display='none';
+		 document.getElementById('reset_password').style.display='block';
+	 	}
+}
+function validpassword()
+
+{
+		var email =document.getElementById('RegistrationForm').value;
+		document.getElementById('password_error1').style.display='none';
+		 ShaAjaxJquary('/new/common/forgetpassword.php?emailid='+email+'', '#DivStateLoading', '', '', 'GET', '#DivStateLoading', 'Loading...', 'REP');
+		 document.getElementById('reset_password').style.display='none';
+		 
+}
+function closed() {
+	document.getElementById('DivStateLoading').innerHTML = '';
+	document.getElementById('reset_password').style.display='block';
+	document.getElementById('RegistrationForm').value='';
+}
+function regsrclos() {
+	
+	document.getElementById('new_customer_form').style.display='none';
+	
+}
+function resetpasd() {
+	
+	document.getElementById('forgot_password').style.display='none';
+	
+}
+
+function show()
+{
+if(document.getElementById('show_pass').checked){
+	var w=document.getElementById('pwdtemp1').value;
+	document.getElementById('cust_password').type='text';
+	document.getElementById('cust_password').value=w;
+}
+else
+{
+	document.getElementById('cust_password').type='password';
+	}
+	
+}
+function restoreCreatePasswordBox()
+{
+	var w=document.getElementById('cust_password').value;
+	document.getElementById('pwdtemp1').value=w;	
+}
+
 function clickclear() {
 	document.getElementById('search-query').style.backgroundColor = "white";
 }
-function validatetitle(){
-	if(document.getElementById('search-query').value=='' || document.getElementById('search-query').value=='Enter the Keywords'){	
+
+function filevalidate(){
+	if(document.getElementById('search-query').value=='' || document.getElementById('search-query').value=='Search e.g. Dog Food'){	
 			
 		document.searchshopform.shopQuery.focus();
-		document.getElementById('search-query').style.backgroundColor = "red";
+		
+		return false;
 			}
 		else{
+			
 		//document.getElementById('search-query').style.background = "white";
 		searchshopform.submit();
 	 }
 }
-</script>
-<!-- main Analytics profile code -->
-<script type="text/javascript">
+<!----- Validation for login and register ends here here---->
+function empty1(field1,value1)
+{
 
+if(value1=='Full Name*'){
+document.getElementById('fullname').style.color= "#000";
+document.getElementById('fullname').value = "";
+}
+else if(document.f1.fullname.value==''){
+document.getElementById('fullname').style.color= "#CCC";
+document.getElementById('fullname').value = "Full Name*";
+}
+
+if(value1=='Password*'){
+document.getElementById('cust_password').type= "password";
+document.getElementById('cust_password').style.color= "#000";
+document.getElementById("cust_password").value="";
+}
+else if(document.f1.cust_password.value==''){
+document.getElementById('cust_password').type= "text";
+document.getElementById('cust_password').style.color= "#CCC";
+document.getElementById("cust_password").value="Password*";
+}
+
+}
+
+
+</script>
+
+
+ <script type="text/javascript">
+<!-- Analytics code for every section -->
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-1552614-5']);
-  _gaq.push(['_trackPageview']);
+  
+      _gaq.push(['_trackPageview']);
 
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
-
+<!-- Analytics code for every section ends here -->
 </script>
-<!--Main Analytics Profile-->
-</head>
+
+<!-- ViralMint CSS -->
+<style type="text/css">
+	#vm-container, #vm-close{ top: 35px !important;}
+</style>
+<!-- ViralMint CSS -->
+<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 <body>
 <!-- header -->
-    
-    	<div class="header">
-        	
-            <!-- ticker -->
-            
-       <div class="cont460 topcc" style="width:120px;">Customer Care +91-9818809553   </div>
-                  <!-- ticker -->
-            <!-- shoppin cart -->
-            <div class="cont280" style="margin-left:220px; margin-top:5px;">
-            <a href="/new/shop/cart.php" style="text-decoration:none">
-            	<div class="addCart">
-                	<div class="fl"><img src="/new/pix/cart_img.gif" alt="" title=""></div>
-                    <div class="fr"><p align="right"><b><span id="topItemCount">0</span> Items</b>  (Rs. <span id="topCartTotal">0</span>)</p></div>
-                    <div class="cb"></div>
+<!-- ViralMint JS code 5 sec delay -->
+<script type="text/javascript">
+	setTimeout(function(){viralMintJs();},100);
+	function viralMintJs(){
+		(function(d, s, id) {
+		var js, vjs = d.getElementsByTagName(s)[0];
+		if (d.getElementById(id)) return;
+		js = d.createElement(s); js.id = id;
+		js.src = "//cdn.viralmint.com/js/viralmint-min.js";
+		js.acc_id = "1365080648"; js.async=true;
+		vjs.parentNode.insertBefore(js, vjs);
+		}(document, "script", "viralmint-js"))
+	}
+</script>
+<!-- ViralMint JS code 5 sec delay -->
+
+<div id="headerContainer">
+  <div class="headerContainer_inside">
+    <div class="headerContainer_left">
+      <div class="logo"><a href="/"><img src="/new/common/images/logo.png" width="197" height="83" alt="DogSpot" title="Dogspot"></a></div>
+     
+    </div>
+    <div class="headerContainer_center">
+    <div>
+        </div>
+    <div style="margin-top:44px">
+    <a href="http://www.dogspot.in/cibau/"><img src="/new/common/images/cibau-banner.png" alt="Cibau" title="Cibau"></a></div></div>
+    <div class="headerContainer_right">
+      <div class="loginContainer" style="margin-bottom:55px"> 
+ <div style="width:100%; float:right; text-align:left; position:relative;">      
+      
+          <div class="tooltipBg" style="position:absolute;z-index:1000000;right:195px; top:30px; display:none;" id="login_form">
+            <div class="tooltip_mid"><span class="tooltip_close">[x]</span>
+             
+              <div class="tooltip_mid_content">
+                <div>
+                <div class="signin_text" style="float:left; width:30%;"></div>
+				<div id="newcustomer" class="newcustomer_text" style="float:right; width:49%;">New User? <a id="qa-start-here" onclick="showNewCustomerForm()">Register</a></div>
                 </div>
-            </a>
-            </div>   <!-- shoppin cart -->
-            
-            <!-- login -->
-            <div class="cont300">
-            <p align="right" class="login">
-                        </p><div style="float:right;margin-left:15px;">
-            <p class="login2"><a href="/login.php">Login</a> / <a href="/reg-log/register-1.php">Register</a></p>
+                <form id="form-account-login" action="" method="POST" onsubmit="return submit1();">
+                <div style="display:none">
+                <input value="" name="input" type="hidden">
+                </div>
+                <input name="login_email" value="Email*" tabindex="1" class="signin_input" id="login_email" type="text">
+                <div id="pass_temp">
+                <input class="signin_input" id="pwdtemp" tabindex="2" value="Password*" onfocus="changeBox()" type="text">
+                </div>
+                <div id="pass_org" style="display:none">
+                <input name="password" tabindex="2" value="Password*" class="signin_input placeholder" id="password" onblur="restoreBox();" type="password">
+                </div>
+                <input name="refUrl" id="refUrl" type="hidden" value="/shop-policy.php">
+                
+                <div class="fl forgot_text" id="forgot_pwd"><a id="qa-start-here" onclick="showNewfeedbackForm()" tabindex="4" style="cursor:pointer;">Forgot password?</a></div>
+                <br><br>
+                <div class="row">
+                <div class="fl">
+                <button class="sign_btn" id="login_btn" name="login_btn" value="submit" type="submit" tabindex="3" onclick="return validateLogin(); return submit1();">Login</button>
+                </div>
+                </div>
+                <br><br><br>
+                <div style="display: none; color:red; margin-top:10px; margin-left:-4px;" class="row mts" id="login_error">Error Message</div>
+                <div style="display: none; color:red; margin-top:10px; margin-left:-4px;" class="row mts" id="login_error1"></div>
+</form>
+
+              </div>
+              
+                        
+              
+              
             </div>
-            <div style="float:right;margin-left:15px;"> 
-			 
-<a href="https://www.google.com/accounts/o8/ud?openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;openid.mode=checkid_setup&amp;openid.return_to=http%3A%2F%2Fwww.dogspot.in%2Fgoogleconnect%2Fglogin.php&amp;openid.realm=http%3A%2F%2Fwww.dogspot.in&amp;openid.ns.ax=http%3A%2F%2Fopenid.net%2Fsrv%2Fax%2F1.0&amp;openid.ax.mode=fetch_request&amp;openid.ax.type.namePerson_first=http%3A%2F%2Faxschema.org%2FnamePerson%2Ffirst&amp;openid.ax.type.namePerson_last=http%3A%2F%2Faxschema.org%2FnamePerson%2Flast&amp;openid.ax.type.contact_email=http%3A%2F%2Faxschema.org%2Fcontact%2Femail&amp;openid.ax.type.birthDate=http%3A%2F%2Faxschema.org%2FbirthDate&amp;openid.ax.type.person_gender=http%3A%2F%2Faxschema.org%2Fperson%2Fgender&amp;openid.ax.type.contact_postalCode_home=http%3A%2F%2Faxschema.org%2Fcontact%2FpostalCode%2Fhome&amp;openid.ax.type.contact_country_home=http%3A%2F%2Faxschema.org%2Fcontact%2Fcountry%2Fhome&amp;openid.ax.type.pref_language=http%3A%2F%2Faxschema.org%2Fpref%2Flanguage&amp;openid.ax.type.pref_timezone=http%3A%2F%2Faxschema.org%2Fpref%2Ftimezone&amp;openid.ax.required=namePerson_first%2CnamePerson_last%2Ccontact_email%2CbirthDate%2Cperson_gender%2Ccontact_postalCode_home%2Ccontact_country_home%2Cpref_language%2Cpref_timezone&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select"><img src="/googleconnect/google_signin.png"></a>
- 
+          </div>
+          <div class="tooltipBg" style="position:absolute;z-index:1000000;right:210px; top:30px; display:none;" id="new_customer_form">
+            <div class="tooltip_mid" style="width:265px;">
+            <span id="registerclose" onclick="regsrclos()" class="tooltip_close">[x]</span>
+              <div class="tooltip_mid_content" id="tooltip_mid_content">
+                <div class="signin_text"></div>
+                <form id="form-account-create" action="" method="POST" onsubmit="return count();" name="f1">
+                 
+                  <input tabindex="1" name="cust_email" value="Email*" class="signin_input" id="cust_email" onkeyup="return isemail();" onblur="javascript: checkthis();" type="text" autocomplete="off" onclick="empty1(this)">
+                 <input tabindex="2" name="fullname" value="Full Name*" class="signin_input" autocomplete="off" id="fullname" maxlength="50" type="text" onfocus="empty1(this.id,this.value)">          
+                  
+                    <div id="pass_org2">
+                    <input tabindex="4" name="cust_password" class="signin_input placeholder" id="cust_password" value="Password*" onfocus="empty1(this.id,this.value)" onclick="togglePasswordFieldClicked1()" type="text">
+                  </div>
+                 <div class="checkbox_bg">
+                   <span class="checkbox_bg_div6" style="text-align:center !important;">
+                     <input value="1" tabindex="8" name="show_pass" id="show_pass" type="checkbox" onchange="return show();" style="display: inline;">
+                                            <script type="text/javascript">
+ (function() {
+
+    try {
+
+        // switch the password field to text, then back to password to see if it supports
+
+        // changing the field type (IE9+, and all other browsers do). then switch it back.
+
+        var passwordField = document.getElementById('cust_password');
+
+passwordField.type = 'password';
+
+        passwordField.type = 'text';
+
+       
+
+        // if it does support changing the field type then add the event handler and make
+
+        // the button visible. if the browser doesn't support it, then this is bypassed
+
+        // and code execution continues in the catch() section below
+
+        var togglePasswordField = document.getElementById('show_pass');
+
+        togglePasswordField.addEventListener('click', togglePasswordFieldClicked, false);
+
+        togglePasswordField.style.display = 'inline';
+
+    }
+
+    catch(err) {
+
+    }
+
+})();
+
+function togglePasswordFieldClicked() {
+
+    var passwordField = document.getElementById('cust_password');
+
+    var value = passwordField.value;
+
+    if(passwordField.type == 'password') {
+
+        passwordField.type = 'text';
+
+    }
+
+    else {
+
+        passwordField.type = 'password';
+
+    }
+
+    passwordField.value = value;
+
+}
+
+function togglePasswordFieldClicked1() {
+
+    var passwordField = document.getElementById('cust_password');
+
+    var value = passwordField.value;
+
+    if(passwordField.type == 'text') {
+
+        passwordField.type = 'password';
+
+    }
+    passwordField.value = value;
+
+}
+                      </script>
+                  </span>
+                  <span class="checkbox_bg_div6">Show Password</span></div>
+                <div><font size="2">You are: </font><div style="display:inline-block">
+                 <select name="youare" id="youare" style="width:150px; padding:4px; border-radius:5px; border-color:#ddd;">
+                 <option value="Selectare">Select</option>
+               	 <option value="21;Pet lover">Pet lover</option>
+     <option value="20;Pet owner">Pet owner</option>
+     <option value="19;Just curious">Just curious</option>
+      
+              </select></div></div>
+                  <input id="refurl2" name="refurl" value="/shop-policy.php" type="hidden">
+                        
+                  <div style="display:none;color:red;" class="row mts" id="customer_error"></div>
+                   <div style="display:none;color:red;" class="row mts" id="customer_error1"></div>
+                   
+                  <div class="checkbox_bg"> <span class="checkbox_bg_div">
+                    <input checked="checked" value="1" tabindex="8" name="is_newsletter_subscribed" id="is_newsletter_subscribed" type="checkbox">
+                  </span> <span class="checkbox_bg_div2" style="font-size:10.4px">&nbsp;I would like to subscribe for<br> DogSpot.in updates &amp; newsletter.</span></div>
+                  
+                  
+<div id="maindiv11" style="width:100%">
+                  <div style="margin-right:10px;float:left;">
+                  <input class="sign_btn" id="account_btn" name="account_btn" value="Submit" type="submit" onclick="return count();" tabindex="7">
+                  </div>
+                  
+				     </div>
+                     <div class="cb"></div>              
+                        </form>
+                     
+              </div>
             </div>
-            <div style="float:right;margin-left:15px;">
-			<div id="fb-root"><script async="" src="https://connect.facebook.net/en_US/all.js"></script></div>
+          </div>
+          
+          <!--forgot password starts-->          
+          <div class="tooltipBg" style="position:absolute;z-index:1000000;right:195px; top:30px; display:none;" id="forgot_password">
+            <div class="tooltip_mid" style="width:250px;"><span id="registerclose" onclick="resetpasd()" class="tooltip_close">[x]</span>
+              <div class="tooltip_mid_content" id="tooltip_mid_content">
+                <div class="signin_text">Enter your Email Address here to receive your password.</div>
+                <form id="form-account-create" action="" method="post">
+                  <input tabindex="1" name="RegistrationForm" value="" onblur="validateemail();" autocomplete="off" placeholder="Enter Your Email ID" class="signin_input" id="RegistrationForm" type="text" style="color:#666;">
+                  <div style="display:none;color:red;" class="row mts" id="password_error1"></div>
+                  <div id="DivStateLoading"></div>
+     <button class="sign_btn" id="reset_password" name="reset_password" type="button" onclick="validpassword();" tabindex="7">Submit</button>
+                </form>
+              </div>
+            </div>
+          </div>
+          
+<!--forgot password ends-->  
+          <div id="maindiv" style="width:100%">
+          <div class="hdMeta fssInd" style="margin-left:10px;float:left;width:55%">
+            <ul class="hdMetaLinks_new">
+              
+              <li>New User? <a href="#" id="Login12" class="accountnew" title="Login12">Register</a></li>&nbsp;&nbsp;
+              <li><a id="Login" class="accountnew" href="#" rel="follow" title="Login">Login</a></li>
+
+            </ul>
+          </div>
+        
+        <div style="float:right;width:37%; text-align:right;">
+        <div style="float:left">
+        <div id="fb-root"><script async="" src="https://connect.facebook.net/en_US/all.js"></script></div>
         <script>
           //initializing API
           window.fbAsyncInit = function() {
@@ -108,1020 +562,1402 @@ function validatetitle(){
           }());
         </script>
         <!-- custom login button -->
-        <a href="javascript:voide();" onclick="fblogin();return false;"><img src="/images/facebook-logo-small.png"></a>
+        <a href="javascript:voide();" onclick="fblogin();return false;"><img src="/new/common/images/button-fb.png" width="66" height="22"></a><br>
         <script>
           //your fb login function
           function fblogin() {
             FB.login(function(response) {
-								window.location = "http://www.dogspot.in/facebookconnect/fblogin.php?refUrl=/privacy-policy.php";
-				              //...
+								 window.location = "http://www.dogspot.in/facebookconnect/fblogin.php?refUrl=/shop-policy.php";
+				               //...
             }, {perms:'email,user_birthday,user_location,user_interests,user_likes,user_location,read_stream,publish_stream,offline_access'});
           }
-        </script>            </div>
-                        
-            <p></p>
-            </div><!-- login -->
-            <div class="cb"></div>
+        </script></div><div>
+         
+<a href="https://www.google.com/accounts/o8/ud?openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;openid.mode=checkid_setup&amp;openid.return_to=http%3A%2F%2Fwww.dogspot.in%2Fgoogleconnect%2Fglogin.php&amp;openid.realm=http%3A%2F%2Fwww.dogspot.in&amp;openid.ns.ax=http%3A%2F%2Fopenid.net%2Fsrv%2Fax%2F1.0&amp;openid.ax.mode=fetch_request&amp;openid.ax.type.namePerson_first=http%3A%2F%2Faxschema.org%2FnamePerson%2Ffirst&amp;openid.ax.type.namePerson_last=http%3A%2F%2Faxschema.org%2FnamePerson%2Flast&amp;openid.ax.type.contact_email=http%3A%2F%2Faxschema.org%2Fcontact%2Femail&amp;openid.ax.type.birthDate=http%3A%2F%2Faxschema.org%2FbirthDate&amp;openid.ax.type.person_gender=http%3A%2F%2Faxschema.org%2Fperson%2Fgender&amp;openid.ax.type.contact_postalCode_home=http%3A%2F%2Faxschema.org%2Fcontact%2FpostalCode%2Fhome&amp;openid.ax.type.contact_country_home=http%3A%2F%2Faxschema.org%2Fcontact%2Fcountry%2Fhome&amp;openid.ax.type.pref_language=http%3A%2F%2Faxschema.org%2Fpref%2Flanguage&amp;openid.ax.type.pref_timezone=http%3A%2F%2Faxschema.org%2Fpref%2Ftimezone&amp;openid.ax.required=namePerson_first%2CnamePerson_last%2Ccontact_email%2CbirthDate%2Cperson_gender%2Ccontact_postalCode_home%2Ccontact_country_home%2Cpref_language%2Cpref_timezone&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select">
+<img src="/new/common/images/button-google.png" width="66" height="22">
+</a>
+</div>
         </div>
-     <div class="cb"></div>
+        </div>
+                </div>
+      </div>
+      <div style="clear:both;">
 
-        
-     <!-- green strip -->
-	<div class="greenstrip">
-		<div class="header">
-			
-            		<!-- logo cont -->
-                    <div class="fl mt16">
-            			<p align="left"><a href="http://www.dogspot.in/"><img src="/new/pix/dogspot-logo-beta.gif" alt="Dogspot spot for all your dog needs" title="Dogspot"></a></p>
-                        <div class="vs3"></div>
-                        <!-- browse categories -->
-                        <div class="heading" id="browse_category" style="position:absolute;">Browse Categories<span><a href="javascript:void();"><img src="/new/pix/shop_nav_arrow.gif" align="absmiddle" ;=""></a></span>
-                             <div style="position:absolute; top:60px; left:-7px;">
-                          <span style="display:none;position:absolute;top:-15px; left:0px;" id="category_nav">
-           	  <ul id="nav" class="dropdown2 dropdown-vertical" style="width:183px; padding-top:1px">
 
-                <li><a href="/shop/category/treats-food/" class="dir">Foods  &amp; Treats</a>
 
-                  <ul>
-                     <li><a href="/shop/category/dry-dog-food/">Dry Dog Food </a></li>
-                        <li><a href="/shop/category/canned-dog-food/">Canned Dog Food </a></li>
-                           <li><a href="/shop/category/supplements/">Supplements </a></li>
-                           <li><a href="/shop/category/dog-meaty-treats/">Dog Meaty Treats </a></li>
+<div class="basketContainer"><a href="/new/shop/cart.php"><img src="/new/common/images/icon-basket.png" width="16" height="16">
+<div class="item" id="topItemCount">Cart is empty</div>
+<div class="rate" id="cartTotal"></div>
 
-                                                   <li><a href="/shop/category/dog-dental-treats/">Dog Dental Treats </a></li>
+ </a>
+</div>
 
-                                                       <li><a href="/shop/category/dog-biscuits/">Dog Biscuits </a></li>
 
-                                                           <li><a href="/shop/category/veg-treats/">Dog Veg. Treats </a></li>
-      </ul>
-                </li>
 
-                                                                                                                                                                 
-
-    
-
-                <li><a href="/shop/category/puppy-care/" class="dir">Puppy Care</a>
-
-                    <ul>
-                      <li><a href="/shop/category/new-born/">New Born </a></li>
-
-                         <li><a href="/shop/category/milk-replacers/">Milk Replacer </a></li>
-                  </ul>
-                </li>
-
-                <li><a href="/shop/category/collars-leashes/" class="dir">Collars &amp; Leashes </a>
-
-                                <ul>
-
-                                 <li><a href="/shop/category/dog-collars/">Dog Collars </a></li>
-
-                                    <li><a href="/shop/category/dog-leashes/">Dog Leashes </a></li>
-
-                                       <li><a href="/shop/category/show-leashes/">Show Leashes </a></li>
-
-                                         <li><a href="/shop/category/retractable-leashes/">Retractable Leashes </a></li>
-
-                                             <li><a href="/shop/category/dog-harnesses/">Dog Harness </a></li>
-                  </ul>
-                </li>
-
-                                              
-
-                               
-
-                
-
-                <li><a href="/shop/category/dog-toy/" class="dir">Dog Toys</a>
-
-                                    <ul>
-
-                                        <li><a href="/shop/category/kong-toys/">Kong Toys </a></li>
-
-                                            <li><a href="/shop/category/ball-toys/">Ball Toys </a></li>
-
-                                                <li><a href="/shop/category/squeaker-toy/">Squeaker Toy </a></li>
-
-                                                     <li><a href="/shop/category/interactive-dog-toys/">Interactive Dog Toys </a></li>
-
-                                                          <li><a href="/shop/category/rope-dog-toys/">Rope Dog Toys </a></li>
-                                                             <li><a href="/shop/category/soft-toys/">Dog Soft Toys </a></li>
-                                                               <li><a href="/shop/category/bone-toys/">Bone Toys  </a></li>
-                                                                  <li> <a href="/shop/category/jw-pet-toys/">JW Pet Toys</a></li>
-                                                                     <li><a href="/shop/category/pet-brand-toys/">Pet Brand Toys  </a></li>
-
-                                                
-
-                                </ul>
-
-                </li>
-
-    <li><a href="/shop/category/accessories/" class="dir">Accessories </a>
-
-                                <ul>
-
-                                                <li><a href="/shop/category/collar-pendant/">Collar Pendant </a></li>
-
-                                                <li><a href="/shop/category/bandana/">Bandana </a></li>
-
-                                                <li><a href="/shop/category/muzzles/">Muzzles </a></li>
-
-                                                <li><a href="/shop/category/cutique/">Cutique </a></li>
-
-                                                <li><a href="/shop/category/utility/">Utility</a></li>
-                                                <li><a href="/shop/category/clothes/">Clothes </a></li>
-
-                                                <li><a href="/shop/category/beds/">Beds </a></li>
-
-                                                
-
-
-                                               
-
-                                </ul>
-
-                </li>
-
-     <li><a href="/shop/category/flea-ticks/" class="dir">Flea &amp; Ticks</a>
-
-
-                </li>
-
-    <li><a href="/shop/category/dog-bowls/" class="dir">Bowls &amp; Feeders </a>
-
-                                <ul>
-
-                                                <li><a href="/shop/category/tip-bowls/">Tip Bowls </a></li>
-
-                                                <li><a href="/shop/category/non-tip-bowls/">Non Tip Bowls </a></li>
-
-                                                <li><a href="/shop/category/adjustable-bowl/">Adjustable Bowl Stands </a></li>
-
-                                                <li><a href="/shop/category/clamp-bowls//">Clamp Bowls </a></li>
-
-                                                <li><a href="/shop/category/feeders/">Feeders </a></li>
-
-                                         
-
-                                </ul>
-
-                </li>
-
-      <li><a href="/shop/category/dog-clean-up/" class="dir">Cleaning</a>
-
-                                <ul>
-
-                                                <li><a href="/shop/category/odour-remover/">Odour Remover </a></li>
-
-                                                <li><a href="/shop/category/pet-hair-remover/">Pet Hair Remover </a></li>
-
-                                                <li><a href="/shop/category/waste-management/">Waste Management </a></li>
-
-                                           
-
-                                                <li><a href="/shop/category/stain-remover/">Stain Remover </a></li>
-                                                <li><a href="/shop/category/diapers/">Diapers  </a></li>
-
-                                              
-
-                                </ul>
-
-                </li>
-                
-                <li><a href="/shop/category/dog-grooming/" class="dir">Grooming</a>
-
-                                <ul>
-
-                                                <li><a href="/shop/category/bath-accessories/">Bath Accessories </a></li>
-                                                <li><a href="/shop/category/shampoos/">Shampoos  </a>
-                                                </li><li><a href="/shop/category/conditioners/">Conditioners </a></li>
-                                                <li><a href="/shop/category/brushes-combs/">Brushes &amp; Combs </a></li>
-
-                                              
-
-                                                <li><a href="/shop/category/grooming-tools/">Grooming Tools  </a></li>
-                                                <li><a href="/shop/category/bath-accessories/">Bath Accessories </a></li>
-                                                <li><a href="/shop/category/deodorizers/">Deodorizers  </a></li>
-
-                                                 <li><a href="/shop/category/shedding-control/">Shedding Control </a></li>
-                                                 <li><a href="/shop/category/ear-care/">Ear Care</a></li>
-
-                                                   <li><a href="/shop/category/eye-care/">Eye Care  </a></li>
-                                                   <li><a href="/shop/category/advanced-grooming/">Advanced Grooming </a></li>
-                                                 <li><a href="/shop/category/dry-bathing/">Dry Bathing </a></li>
-
-                                                   <li><a href="/shop/category/dental-care/">Dental care </a></li>
-                  </ul>
-                </li>
-                                                        
-                                                        
-                                               <li><a href="/shop/category/dog-training-behavior/" class="dir">Training</a>
-
-                                <ul>
-
-                                                <li><a href="/shop/category/education/">Education</a></li>
-                                                <li><a href="/shop/category/training-products/">Training Products</a></li>
-                                                <li><a href="/shop/category/training-aids/">Training Aids </a></li>
-
-                                                <li><a href="/shop/category/training-pads/">Training Pads </a></li>
-
-                                                <li><a href="/shop/category/training-treats/">Training Treats </a></li>
-
-                                                <li><a href="/shop/category/training-leashes/">Training Leashes</a></li>
-
-                                                <li><a href="/shop/category/barking-control/">Barking Control  </a></li>
-                                                <li><a href="/shop/category/training-harness/">Training Harness </a></li>
-                                                <li><a href="/shop/category/training-collars/">Training Collars  </a></li>
-
-                                              
-
-                                </ul>
-
-                </li>         
-                                                        
-
-
-                          <li><a href="/shop/category/crates-beds/" class="dir">Crates &amp; Cages</a>
-
-                                <ul>
-                                                <li><a href="/shop/category/crates/">Crates </a></li>
-
-                                                <li><a href="/shop/category/cages/">Cages  </a></li>
-
-                                </ul>
-
-                </li>         
-
-            <li><a href="/shop/category/cats-birds/" class="dir">Cats, Birds &amp; Small Animal</a>
-            <ul>
-                                                <li><a href="/shop/category/birds/">Birds </a></li>
-
-                                                <li><a href="/shop/category/cats/">Cats  </a></li>
-                                                <li><a href="/shop/category/small-pets/">Small Pets</a></li>
-
-                                </ul>
-            </li>
-            <li style="border-bottom:none;"><a href="/shop/category/dog-magazines/" class="dir">Books &amp; Magazines</a></li>
-
-</ul>
-
-
-               
-                <div style="background:url(/new/pix/shop_navbg.gif) no-repeat; width:183px; height:8px;"></div>
-                </span>
-                          </div>
-           <script>
-            $('#browse_category').hover(function(){
-				if($('#category_nav').is(':hidden')){
-				 $('#category_nav').show();
-				 $('#browse_nav').slideDown();
-  			}else{
-				$('#browse_nav').slideUp();
-				$('#category_nav').hide();
-			} });
-
-            $('ul.dropdown2 li').hover(function(){
-			$(this).not($("ul.dropdown2 li ul li")).css({'background-color':'#d6c8ac', 'border':'1px solid #d6c8ac', 'border-right':'none'});
-			},function(){
-			$(this).not($("ul.dropdown2 li ul li")).css({'background-color':'#877b63','border-bottom':'1px solid #9f9582','border-top':'none','border-right':'none','border-left':'none'});
-
-			})
-
-            </script>
-               		    </div><!-- browse categories -->
-                    </div><!-- logo cont -->
-                    
-                                            <!-- right link cont -->
-     				<!-- shop -->
-     				<div class="fr cont514">
-                    
-                    	<ul class="rightHeader">
-                            <li style="width:132px;"><span><a href="/shop/"><b>shop</b>1200 products</a></span></li>
-                            <li style="width:183px;"><span><a href="/puppies/"><b>classifieds</b>3000+ puppies available</a></span></li>
-                            <li style="width:187px; margin-right:0px; padding-right:0px; border:0;"><span><a href="/qna/"><b>answers</b>2500+ questions</a></span></li>
-       
-   						</ul>
-                   
-                    <div class="cb"></div>
-                    <!-- shop -->
-                    
-                    
-					<!-- search box-->
-                    	
-							<div class="search">
-                            	<div style="padding:10px 5px 0px 10px;">
-                                <form action="/new/shop/product_listing.php" id="cse-search-box" onsubmit="javascript:validatetitle();" name="searchshopform">
-                    			<div class="searchBox">
-
-								<div id="input-search-container" style="position:relative">
-                           
-                           <div id="search-cont">
-                           <input name="shopQuery" type="text" id="search-query" placeholder="Search e.g. Dog Food, Dog Treats" onclick="clickclear();" value="">  
-                           </div>
-                          <!--<div id='selection'>
-                          <select name="" id="default-usage-select" style="width:135px; height:20px; border:none; margin-left:2px; color:#666;">
-                             	 <option>All</option>
-                                 <option>Dogs Toys</option>
-                                  <option>Clothing & Accessories</option>
-                                  <option>Winter Collection</option>
-                                  <option>Cleaning</option>
-								  <option>Books & Magazines</option>
-                            	 <option>Grooming</option>
-                                  <option>Training Corner</option>
-                                  <option>Clothing</option>
-                                  <option>Bowls</option>
-								  <option>Training Corner</option>   
-                             </select>                            
-                           </div>-->
-                           
-
-                            <!--<div id='arrow-up-down'>
-                                 <div></div> 
-                           </div>
-                            
-                            <div id="options-cont" style="z-index:99; display:block; position:absolute;">
-                            <span style="position:absolute;">
-                               <ul>
-                                 
-                               </ul>
-                               </span>
-                            </div>-->
-                            
-                        </div>
-
-                        </div>
-                        <div style="float:left; width:50px;">
-						<a href="javascript:validatetitle();"><img src="/new/pix/search_btn.gif" title="Search" id="Search"></a>
-						</div>
-                        </form>
-						<div class="cb"></div>
-
-                        </div>
-                        </div><!-- search box-->
-
-                   
-                    
-                   </div>  <!-- right link cont -->
+        <div class="searchwrapper">
+          <form action="/new/common/all-search.php" id="cse-search-box" onsubmit="return filevalidate();" name="searchshopform">
+            <input type="text" id="search-query" style="height:18px" name="shopQuery" onkeyup="clickclear()" class="searchbox" placeholder="Search e.g. Dog Food">
+            <input type="image" src="/new/common/images/icon-search.png" class="searchbox_submit">
             
-     		
-     <div class="cb"></div>
-		</div> <!-- end of header -->		
-		</div><!-- end of green strip -->
+          </form>
+        </div>
+    </div>
+    </div>
+  </div>
+        </div>
+     
+<!-- header ends here -->
+
+
+ <!-- navigation starts here -->
+ <!-- navigation starts here -->
+<div id="navContainer" align="left">
+  <div class="navContainer_inside">
+    <div class="navContainer_left">
+      <div id="nav-wrapper">
+        <div class="navigation">
+          <ul id="navigation" class="fleft">
+            <li><a href="/shop"><span class="drop">shop</span></a>
+              <div class="drop-menu" style="display: none;">
+                <ul class="fleft cat-main">
+                                  <li><a class="active" href="/treats-food/"><span class="NavArrow"></span>
+				  Foods &amp; Treats</a>
+                    <div style="display: block;" class="cat-content">
+                      <div style="" id="category" class="fleft list-column">
+                        <div class="menu">
+                          <p>Shop by category</p>
+                          <ul>
+                                                      <li><a class="active" href="/dry-dog-food/"><font style="text-transform: capitalize;">Dry Dog Food</font></a></li>
+                                                        <li><a class="active" href="/dog-biscuits/"><font style="text-transform: capitalize;">Dog Biscuits</font></a></li>
+                                                        <li><a class="active" href="/canned-dog-food/"><font style="text-transform: capitalize;">Canned Dog Food</font></a></li>
+                                                        <li><a class="active" href="/dog-dental-treats/"><font style="text-transform: capitalize;">Dog Dental Treats</font></a></li>
+                                                        <li><a class="active" href="/dog-meaty-treats/"><font style="text-transform: capitalize;">Dog Meaty Treats</font></a></li>
+                                                        <li><a class="active" href="/veg-treats/"><font style="text-transform: capitalize;">Dog Veg. Treats</font></a></li>
+                                                         <li><a class="active" href="/treat-combos/"><font style="text-transform: capitalize;">Treat Combos</font></a></li>
+                                                       </ul>
+                        </div>
+                      </div>
+                      <div style="" id="brand" class="fleft list-column">
+                        <div class="menu">
+                          <p>Shop by brands</p>
+                          <ul>
+                          						<li><a class="active" href="/new/shop/product_listing.php?shopQuery=food+and+treats&amp;item_brand=80" rel="nofollow">Pedigree</a></li>
+                                                <li><a class="active" href="/new/shop/product_listing.php?shopQuery=food+and+treats&amp;item_brand=24" rel="nofollow">Royal Canin</a></li>
+                                                <li><a class="active" href="/new/shop/product_listing.php?shopQuery=food+and+treats&amp;item_brand=79" rel="nofollow">Drools</a></li>
+                                                <li><a class="active" href="/new/shop/product_listing.php?shopQuery=food+and+treats&amp;item_brand=101" rel="nofollow">Cibau</a></li>
+                                                <li><a class="active" href="/new/shop/product_listing.php?shopQuery=choostix" rel="nofollow">Choostix</a></li>
+                                                <li><a class="active" href="/new/shop/product_listing.php?shopQuery=food+and+treats&amp;item_brand=57" rel="nofollow">Eukanuba</a></li>
+                                                <li><a class="active" href="/new/shop/product_listing.php?shopQuery=food+and+treats&amp;item_brand=159" rel="nofollow">Hill's</a></li>
+                                     			  <li><a class="active" href="/new/shop/product_listing.php?shopQuery=food+and+treats&amp;item_brand=19" rel="nofollow">Jerhigh</a></li>
+                                                <li><a class="active" href="/new/shop/product_listing.php?shopQuery=food+and+treats&amp;item_brand=192" rel="nofollow">Ecopet</a></li>
+                                                 <li><a class="active" href="/new/shop/product_listing.php?shopQuery=food+and+treats&amp;item_brand=30" rel="nofollow">Petdig</a></li>
+                                                 
+                                                 </ul>
+                        </div>
+                      </div>
+                      <br class="clear">
+                    </div>                  </li><li><a class="active" href="/accessories/"><span class="NavArrow"></span>
+				  Accessories</a>
+                    <div style="display: block;" class="cat-content">
+                      <div style="" id="category" class="fleft list-column">
+                        <div class="menu">
+                          <p>Shop by category</p>
+                          <ul>
+                                                      <li><a class="active" href="/clothes/"><font style="text-transform: capitalize;">Clothes</font></a></li>
+                                                        <li><a class="active" href="/beds/"><font style="text-transform: capitalize;">Beds</font></a></li>
+                                                        <li><a class="active" href="/muzzles/"><font style="text-transform: capitalize;">Muzzles</font></a></li>
+                                                        <li><a class="active" href="/utility/"><font style="text-transform: capitalize;">Utility</font></a></li>
+                                                        <li><a class="active" href="/cooling-dog-coat/"><font style="text-transform: capitalize;">Cooling Dog Coats</font></a></li>
+                                                        <li><a class="active" href="/collar-pendant/"><font style="text-transform: capitalize;">Collar Pendant</font></a></li>
+                                                        <li><a class="active" href="/cutique/"><font style="text-transform: capitalize;">Cutique</font></a></li>
+                                                       </ul>
+                        </div>
+                      </div>
+                      <div style="" id="brand" class="fleft list-column">
+                        <div class="menu">
+                          <p>Shop by brands</p>
+                          <ul>
+                          						
+                                                <li><a class="active" href="/new/shop/product_listing.php?shopQuery=Accessories&amp;item_brand=34" rel="nofollow">Petsport</a></li>
+                                                <li><a class="active" href="/new/shop/product_listing.php?shopQuery=Accessories&amp;item_brand=142" rel="nofollow">Trixie</a></li>
+                                                <li><a class="active" href="/new/shop/product_listing.php?shopQuery=Accessories&amp;item_brand=145" rel="nofollow">Savic</a></li>
+                                      
+                                       <li><a class="active" href="/new/shop/product_listing.php?shopQuery=Accessories&amp;item_brand=111" rel="nofollow">PetSpot</a></li>
+                                       <li><a class="active" href="/new/shop/product_listing.php?shopQuery=Accessories&amp;item_brand=33" rel="nofollow">The Company Of Animals</a></li>
+                                                <li><a class="active" href="/new/shop/product_listing.php?shopQuery=Accessories&amp;item_brand=32" rel="nofollow">Scoobee</a></li>
+                                                 
+                                                  <li><a class="active" href="/new/shop/product_listing.php?shopQuery=Accessories&amp;item_brand=94" rel="nofollow">All4pets</a></li>
+                                                  <li><a class="active" href="/new/shop/product_listing.php?shopQuery=Accessories&amp;item_brand=108" rel="nofollow">Innovation India</a></li>
+                                                  <li><a class="active" href="/new/shop/product_listing.php?shopQuery=Accessories&amp;item_brand=23" rel="nofollow">DogSpot</a></li>
+                                       
+                                                                                                                                                
+                                                       </ul>
+                        </div>
+                      </div>
+                      <br class="clear">
+                    </div>                  </li><li><a class="active" href="/dog-toy/"><span class="NavArrow"></span>
+				  Dog Toys</a>
+                    <div style="display: block;" class="cat-content">
+                      <div style="" id="category" class="fleft list-column">
+                        <div class="menu">
+                          <p>Shop by category</p>
+                          <ul>
+                                                      <li><a class="active" href="/kong-toys/"><font style="text-transform: capitalize;">Kong Toys</font></a></li>
+                                                        <li><a class="active" href="/soft-toys/"><font style="text-transform: capitalize;">Dog Soft Toys</font></a></li>
+                                                        <li><a class="active" href="/interactive-dog-toys/"><font style="text-transform: capitalize;">Interactive Dog Toys</font></a></li>
+                                                        <li><a class="active" href="/ball-toys/"><font style="text-transform: capitalize;">Ball Toys</font></a></li>
+                                                        <li><a class="active" href="/squeaker-toy/"><font style="text-transform: capitalize;">Squeaker Toy</font></a></li>
+                                                        <li><a class="active" href="/bone-toys/"><font style="text-transform: capitalize;">Bone Toys</font></a></li>
+                                                        <li><a class="active" href="/jw-pet-toys/"><font style="text-transform: capitalize;">JW Pet Toys</font></a></li>
+                                                        <li><a class="active" href="/dog-it/"><font style="text-transform: capitalize;">Dogit</font></a></li>
+                                                        <li><a class="active" href="/latex-dog-toys/"><font style="text-transform: capitalize;">Latex Dog Toys</font></a></li>
+                                                        <li><a class="active" href="/rope-dog-toys/"><font style="text-transform: capitalize;">Rope Dog Toys</font></a></li>
+                                                       </ul>
+                        </div>
+                      </div>
+                      <div style="" id="brand" class="fleft list-column">
+                        <div class="menu">
+                          <p>Shop by brands</p>
+                          <ul>
+                          					<li><a class="active" href="/kong/">Kong</a></li>
+                                       <li><a class="active" href="/new/shop/product_listing.php?shopQuery=Dog+Toys&amp;item_brand=1" rel="nofollow">Karlie</a></li>
+                                                  
+                                                  <li><a class="active" href="/new/shop/product_listing.php?shopQuery=Dog+Toys&amp;item_brand=95" rel="nofollow">JWPet</a></li>
+                                                 <li><a class="active" href="/new/shop/product_listing.php?shopQuery=Dog+Toys&amp;item_brand=17" rel="nofollow">Knot A Rope</a></li>
+                                                 <li><a class="active" href="/new/shop/product_listing.php?shopQuery=Dog+Toys&amp;item_brand=124" rel="nofollow">Dogit</a></li>
+                                                 <li><a class="active" href="/new/shop/product_listing.php?shopQuery=Dog+Toys&amp;item_brand=94" rel="nofollow">All4pets</a></li>
+                                                 <li><a class="active" href="/new/shop/product_listing.php?shopQuery=Dog+Toys&amp;item_brand=16" rel="nofollow">Ourpets</a></li>
+                                                 <li><a class="active" href="/new/shop/product_listing.php?shopQuery=Dog+Toys&amp;item_brand=34" rel="nofollow">Petsport</a></li>
+                                                  <li><a class="active" href="/new/shop/product_listing.php?shopQuery=Dog+Toys&amp;item_brand=53" rel="nofollow">Petstages</a></li>
+                                                                                                                                             
+                                                       </ul>
+                        </div>
+                      </div>
+                      <br class="clear">
+                    </div>                  </li><li><a class="active" href="/dog-grooming/"><span class="NavArrow"></span>
+				  Dog Grooming</a>
+                    <div style="display: block;" class="cat-content">
+                      <div style="" id="category" class="fleft list-column">
+                        <div class="menu">
+                          <p>Shop by category</p>
+                          <ul>
+                                                      <li><a class="active" href="/shampoos/"><font style="text-transform: capitalize;">Shampoos</font></a></li>
+                                                        <li><a class="active" href="/conditioners/"><font style="text-transform: capitalize;">Conditioners</font></a></li>
+                                                        <li><a class="active" href="/dental-care/"><font style="text-transform: capitalize;">Dental care</font></a></li>
+                                                        <li><a class="active" href="/ear-care/"><font style="text-transform: capitalize;">Ear Care</font></a></li>
+                                                        <li><a class="active" href="/grooming-tools/"><font style="text-transform: capitalize;">Grooming Tools</font></a></li>
+                                                        <li><a class="active" href="/brushes-combs/"><font style="text-transform: capitalize;">Brushes &amp; Combs</font></a></li>
+                                                        <li><a class="active" href="/bath-accessories/"><font style="text-transform: capitalize;">Bath Accessories</font></a></li>
+                                                        <li><a class="active" href="/shedding-control/"><font style="text-transform: capitalize;">Shedding Control</font></a></li>
+                                                        <li><a class="active" href="/advanced-grooming/"><font style="text-transform: capitalize;">Advanced Grooming</font></a></li>
+                                                        <li><a class="active" href="/dry-bathing/"><font style="text-transform: capitalize;">Dry Bathing</font></a></li>
+                                                        <li><a class="active" href="/deodorizers/"><font style="text-transform: capitalize;">Deodorizers</font></a></li>
+                                                       </ul>
+                        </div>
+                      </div>
+                      <div style="" id="brand" class="fleft list-column">
+                        <div class="menu">
+                          <p>Shop by brands</p>
+                          <ul>
+                                <li><a class="active" href="/new/shop/product_listing.php?shopQuery=Dog+Grooming&amp;item_brand=151" rel="nofollow">Wahl</a></li>
+                                <li><a class="active" href="/new/shop/product_listing.php?shopQuery=Dog+Grooming&amp;item_brand=100" rel="nofollow">Andis</a></li>
+                                <li><a class="active" href="/new/shop/product_listing.php?shopQuery=Dog+Grooming&amp;item_brand=4" rel="nofollow">Forbis</a></li>
+                                        <li><a class="active" href="/new/shop/product_listing.php?shopQuery=Dog+Grooming&amp;item_brand=44" rel="nofollow"> Simple Solution</a></li>
+                                        
+                                         <li><a class="active" href="/new/shop/product_listing.php?shopQuery=Dog+Grooming&amp;item_brand=179" rel="nofollow">Himalaya</a></li>
+                                          <li><a class="active" href="/new/shop/product_listing.php?shopQuery=Dog+Grooming&amp;item_brand=36" rel="nofollow">Bio-groom</a></li>
+                                            <li><a class="active" href="/new/shop/product_listing.php?shopQuery=Dog+Grooming&amp;item_brand=20" rel="nofollow">Beaphar</a></li>
+                                               
+                                                 <li><a class="active" href="/new/shop/product_listing.php?shopQuery=Dog+Grooming&amp;item_brand=8" rel="nofollow">Furminator</a></li>
+                                                <li><a class="active" href="/new/shop/product_listing.php?shopQuery=Dog+Grooming&amp;item_brand=5" rel="nofollow">Isle of Dogs</a></li>
+                                                <li><a class="active" href="/new/shop/product_listing.php?shopQuery=Dog+Grooming&amp;item_brand=94" rel="nofollow">All4pets</a></li>
+                                                 <li><a class="active" href="/new/shop/product_listing.php?shopQuery=Dog+Grooming&amp;item_brand=177" rel="nofollow">Aromatree</a></li>
+                                                 </ul>
+                        </div>
+                      </div>
+                      <br class="clear">
+                    </div>                  </li><li><a class="active" href="/collars-leashes/"><span class="NavArrow"></span>
+				  Collars &amp; Leashes</a>
+                    <div style="display: block;" class="cat-content">
+                      <div style="" id="category" class="fleft list-column">
+                        <div class="menu">
+                          <p>Shop by category</p>
+                          <ul>
+                                                      <li><a class="active" href="/dog-collars/"><font style="text-transform: capitalize;">Dog Collars</font></a></li>
+                                                        <li><a class="active" href="/dog-leashes/"><font style="text-transform: capitalize;">Dog Leashes</font></a></li>
+                                                        <li><a class="active" href="/dog-harnesses/"><font style="text-transform: capitalize;">Dog Harness</font></a></li>
+                                                        <li><a class="active" href="/retractable-leashes/"><font style="text-transform: capitalize;">Retractable Leashes</font></a></li>
+                                                        <li><a class="active" href="/show-leashes/"><font style="text-transform: capitalize;">Show Leashes</font></a></li>
+                                                       </ul>
+                        </div>
+                      </div>
+                      <div style="" id="brand" class="fleft list-column">
+                        <div class="menu">
+                          <p>Shop by brands</p>
+                          <ul>
+                          				 <li><a class="active" href="/new/shop/product_listing.php?shopQuery=Collars+%26+Leashes&amp;item_brand=6" rel="nofollow">Flexi</a></li>
+                                       <li><a class="active" href="/new/shop/product_listing.php?shopQuery=Collars+%26+Leashes&amp;item_brand=1" rel="nofollow">Karlie</a></li>
+                                            <li><a class="active" href="/new/shop/product_listing.php?shopQuery=Collars+%26+Leashes&amp;item_brand=74" rel="nofollow">Smart Way</a></li>     
+                                                 
+                                                 <li><a class="active" href="/new/shop/product_listing.php?shopQuery=Collars+%26+Leashes&amp;item_brand=142" rel="nofollow">Trixie</a></li>
+                                                 <li><a class="active" href="/new/shop/product_listing.php?shopQuery=Collars+%26+Leashes&amp;item_brand=109" rel="nofollow">Super Dog</a></li>
+                                                 <li><a class="active" href="/new/shop/product_listing.php?shopQuery=Collars+%26+Leashes&amp;item_brand=154" rel="nofollow">Tri-Tronics</a></li>
+                                                  <li><a class="active" href="/new/shop/product_listing.php?shopQuery=Collars+%26+Leashes&amp;item_brand=37" rel="nofollow">Sprenger</a></li>
+                                                 <li><a class="active" href="/new/shop/product_listing.php?shopQuery=Collars+%26+Leashes&amp;item_brand=32" rel="nofollow">Scoobee</a></li>
+                                                 <li><a class="active" href="/new/shop/product_listing.php?shopQuery=Collars+%26+Leashes&amp;item_brand=156" rel="nofollow">Dogtra</a></li>
+                                                 <li><a class="active" href="/new/shop/product_listing.php?shopQuery=Collars+%26+Leashes&amp;item_brand=152" rel="nofollow">Ferplast</a></li>
+                                                
+                                                       </ul>
+                        </div>
+                      </div>
+                      <br class="clear">
+                    </div>                  </li><li><a class="active" href="/crates-beds/"><span class="NavArrow"></span>
+				  Crates &amp; Cages</a>
+                    <div style="display: block;" class="cat-content">
+                      <div style="" id="category" class="fleft list-column">
+                        <div class="menu">
+                          <p>Shop by category</p>
+                          <ul>
+                                                      <li><a class="active" href="/crates/"><font style="text-transform: capitalize;">Crates</font></a></li>
+                                                        <li><a class="active" href="/cages/"><font style="text-transform: capitalize;">Cages</font></a></li>
+                                                        <li><a class="active" href="/dog-house/"><font style="text-transform: capitalize;">Dog House</font></a></li>
+                                                       </ul>
+                        </div>
+                      </div>
+                      <div style="" id="brand" class="fleft list-column">
+                        <div class="menu">
+                          <p>Shop by brands</p>
+                          <ul>
+                                       
+                                          <li><a class="active" href="/new/shop/product_listing.php?shopQuery=Crates+%26+Cages&amp;item_brand=109" rel="nofollow">Super Dog</a></li>
+                                          <li><a class="active" href="/new/shop/product_listing.php?shopQuery=Crates+%26+Cages&amp;item_brand=74" rel="nofollow">Smart Way</a></li>
+                                                 <li><a class="active" href="/new/shop/product_listing.php?shopQuery=Crates+%26+Cages&amp;item_brand=32" rel="nofollow">Scoobee</a></li>
+                                                 <li><a class="active" href="/new/shop/product_listing.php?shopQuery=Crates+%26+Cages&amp;item_brand=45" rel="nofollow">Petmate</a></li>
+                                                 <li><a class="active" href="/new/shop/product_listing.php?shopQuery=Crates+%26+Cages&amp;item_brand=94" rel="nofollow">All4pets</a></li>
+                                              <li><a class="active" href="/new/shop/product_listing.php?shopQuery=Crates+%26+Cages&amp;item_brand=152" rel="nofollow">Ferplast</a></li>
+                                              <li><a class="active" href="/new/shop/product_listing.php?shopQuery=Crates+%26+Cages&amp;item_brand=145" rel="nofollow">Savic</a></li>
+                                               
+                                                 
+                                                       </ul>
+                        </div>
+                      </div>
+                      <br class="clear">
+                    </div>                  </li><li><a class="active" href="/dog-training-behavior/"><span class="NavArrow"></span>
+				  Dog Training</a>
+                    <div style="display: block;" class="cat-content">
+                      <div style="" id="category" class="fleft list-column">
+                        <div class="menu">
+                          <p>Shop by category</p>
+                          <ul>
+                                                      <li><a class="active" href="/training-collars/"><font style="text-transform: capitalize;">Training Collars</font></a></li>
+                                                        <li><a class="active" href="/training-leashes/"><font style="text-transform: capitalize;">Training Leashes</font></a></li>
+                                                        <li><a class="active" href="/training-treats/"><font style="text-transform: capitalize;">Training Treats</font></a></li>
+                                                        <li><a class="active" href="/training-pads/"><font style="text-transform: capitalize;">Training Pads</font></a></li>
+                                                        <li><a class="active" href="/training-aids/"><font style="text-transform: capitalize;">Training Aids</font></a></li>
+                                                        <li><a class="active" href="/barking-control/"><font style="text-transform: capitalize;">Barking Control</font></a></li>
+                                                        <li><a class="active" href="/education/"><font style="text-transform: capitalize;">Education</font></a></li>
+                                                        <li><a class="active" href="/training-products/"><font style="text-transform: capitalize;">Training Products</font></a></li>
+                                                       </ul>
+                        </div>
+                      </div>
+                      <div style="" id="brand" class="fleft list-column">
+                        <div class="menu">
+                          <p>Shop by brands</p>
+                          <ul>
+                                       <li><a class="active" href="/new/shop/product_listing.php?shopQuery=Dog+Training&amp;item_brand=1" rel="nofollow">Karlie</a></li>
+                                       <li><a class="active" href="/new/shop/product_listing.php?shopQuery=Dog+Training&amp;item_brand=142" rel="nofollow">Trixie</a></li>
+                                        <li><a class="active" href="/new/shop/product_listing.php?shopQuery=Dog+Training&amp;item_brand=22" rel="nofollow">Chomp</a></li>
+                                         
+                                          <li><a class="active" href="/new/shop/product_listing.php?shopQuery=Dog+Training&amp;item_brand=44" rel="nofollow">Simple Solution</a></li>
+                                           <li><a class="active" href="/new/shop/product_listing.php?shopQuery=Dog+Training&amp;item_brand=109" rel="nofollow">Super Dog</a></li>
+                                            <li><a class="active" href="/new/shop/product_listing.php?shopQuery=Dog+Training&amp;item_brand=46" rel="nofollow">Dosch</a></li>
+                                            <li><a class="active" href="/new/shop/product_listing.php?shopQuery=Dog+Training&amp;item_brand=20" rel="nofollow">Beaphar</a></li>
+                                            
+                                              <li><a class="active" href="/new/shop/product_listing.php?shopQuery=Dog+Training&amp;item_brand=33" rel="nofollow">The Company Of Animals</a></li>
+                                                 <li><a class="active" href="/new/shop/product_listing.php?shopQuery=Dog+Training&amp;item_brand=37" rel="nofollow">Sprenger</a></li>
+                                                 
+                                                       </ul>
+                        </div>
+                      </div>
+                      <br class="clear">
+                    </div>                  </li><li><a class="active" href="/dog-bowls/"><span class="NavArrow"></span>
+				  Bowls &amp; Feeders</a>
+                    <div style="display: block;" class="cat-content">
+                      <div style="" id="category" class="fleft list-column">
+                        <div class="menu">
+                          <p>Shop by category</p>
+                          <ul>
+                                                      <li><a class="active" href="/feeders/"><font style="text-transform: capitalize;">Feeders</font></a></li>
+                                                        <li><a class="active" href="/tip-bowls/"><font style="text-transform: capitalize;">Tip Bowls</font></a></li>
+                                                        <li><a class="active" href="/non-tip-bowls/"><font style="text-transform: capitalize;">Non Tip Bowls</font></a></li>
+                                                        <li><a class="active" href="/adjustable-bowl/"><font style="text-transform: capitalize;">Adjustable Bowl Stands</font></a></li>
+                                                        <li><a class="active" href="/clamp-bowls/"><font style="text-transform: capitalize;">Clamp Bowls</font></a></li>
+                                                       </ul>
+                        </div>
+                      </div>
+                      <div style="" id="brand" class="fleft list-column">
+                        <div class="menu">
+                          <p>Shop by brands</p>
+                          <ul>
+                        
+                          <li><a class="active" href="/new/shop/product_listing.php?shopQuery=Bowls+%26+Feeders&amp;item_brand=145" rel="nofollow">Savic</a></li>
+                           <li><a class="active" href="/new/shop/product_listing.php?shopQuery=Bowls+%26+Feeders&amp;item_brand=109" rel="nofollow">Super Dog</a></li>
+                            <li><a class="active" href="/new/shop/product_listing.php?shopQuery=Bowls+%26+Feeders&amp;item_brand=124" rel="nofollow">Dogit</a></li>
+                             <li><a class="active" href="/new/shop/product_listing.php?shopQuery=Bowls+%26+Feeders&amp;item_brand=38" rel="nofollow">Pet Brands</a></li>
+                             <li><a class="active" href="/new/shop/product_listing.php?shopQuery=Bowls+%26+Feeders&amp;item_brand=32" rel="nofollow">Scoobee</a></li>
+                                       <li><a class="active" href="/new/shop/product_listing.php?shopQuery=Bowls+%26+Feeders&amp;item_brand=10" rel="nofollow">Durapet</a></li>
+                                        <li><a class="active" href="/new/shop/product_listing.php?shopQuery=Bowls+%26+Feeders&amp;item_brand=94" rel="nofollow">All4pets</a></li>
+                                                
+                                                       </ul>
+                        </div>
+                      </div>
+                      <br class="clear">
+                    </div>                  </li><li><a class="active" href="/dog-clean-up/"><span class="NavArrow"></span>
+				  Dog Cleaning </a>
+                    <div style="display: block;" class="cat-content">
+                      <div style="" id="category" class="fleft list-column">
+                        <div class="menu">
+                          <p>Shop by category</p>
+                          <ul>
+                                                      <li><a class="active" href="/flea-ticks/"><font style="text-transform: capitalize;">Flea &amp; Ticks</font></a></li>
+                                                        <li><a class="active" href="/odour-remover/"><font style="text-transform: capitalize;">Odour Remover</font></a></li>
+                                                        <li><a class="active" href="/pet-hair-remover/"><font style="text-transform: capitalize;">Pet Hair Remover</font></a></li>
+                                                        <li><a class="active" href="/diapers/"><font style="text-transform: capitalize;">Diapers</font></a></li>
+                                                        <li><a class="active" href="/waste-management/"><font style="text-transform: capitalize;">Waste Management</font></a></li>
+                                                       </ul>
+                        </div>
+                      </div>
+                      <div style="" id="brand" class="fleft list-column">
+                        <div class="menu">
+                          <p>Shop by brands</p>
+                          <ul>
+                             <li><a class="active" href="/new/shop/product_listing.php?shopQuery=Dog+Cleaning+%26+Control&amp;item_brand=26" rel="nofollow">Bayer</a></li>
+                              <li><a class="active" href="/new/shop/product_listing.php?shopQuery=Dog+Cleaning+%26+Control&amp;item_brand=119" rel="nofollow">Get Off</a></li>
+                              <li><a class="active" href="/new/shop/product_listing.php?shopQuery=Dog+Cleaning+%26+Control&amp;item_brand=28" rel="nofollow">Frontline</a></li>
+                               <li><a class="active" href="/new/shop/product_listing.php?shopQuery=Dog+Cleaning+%26+Control&amp;item_brand=179" rel="nofollow">Himalaya</a></li>
+                                       <li><a class="active" href="/new/shop/product_listing.php?shopQuery=Dog+Cleaning+%26+Control&amp;item_brand=177" rel="nofollow">Aromatree</a></li>
+                                      
+                                         <li><a class="active" href="/new/shop/product_listing.php?shopQuery=Dog+Cleaning+%26+Control&amp;item_brand=52" rel="nofollow">Intas</a></li>
+                                         <li><a class="active" href="/new/shop/product_listing.php?shopQuery=Dog+Cleaning+%26+Control&amp;item_brand=109" rel="nofollow">Super Dog</a></li>
+                                         <li><a class="active" href="/new/shop/product_listing.php?shopQuery=Dog+Cleaning+%26+Control&amp;item_brand=44" rel="nofollow">Simple Solution</a></li>
+                                                 <li><a class="active" href="/new/shop/product_listing.php?shopQuery=Dog+Cleaning+%26+Control&amp;item_brand=42" rel="nofollow">Venky's</a></li>
+                                                 <li><a class="active" href="/new/shop/product_listing.php?shopQuery=Dog+Cleaning+%26+Control&amp;item_brand=20" rel="nofollow">Beaphar</a></li>
+                                                 <li><a class="active" href="/new/shop/product_listing.php?shopQuery=Dog+Cleaning+%26+Control&amp;item_brand=144" rel="nofollow">Savavet</a></li>
+                                                 
+                                                       </ul>
+                        </div>
+                      </div>
+                      <br class="clear">
+                    </div>                  </li><li><a class="active" href="/dog-puppy-care/"><span class="NavArrow"></span>
+				  Puppy Care</a>
+                    <div style="display: block;" class="cat-content">
+                      <div style="" id="category" class="fleft list-column">
+                        <div class="menu">
+                          <p>Shop by category</p>
+                          <ul>
+                                                      <li><a class="active" href="/new-born/"><font style="text-transform: capitalize;">New Born</font></a></li>
+                                                        <li><a class="active" href="/milk-replacers/"><font style="text-transform: capitalize;">Milk Replacer</font></a></li>
+                                                       </ul>
+                        </div>
+                      </div>
+                      <div style="" id="brand" class="fleft list-column">
+                        <div class="menu">
+                          <p>Shop by brands</p>
+                          <ul>
+                          <li><a class="active" href="/new/shop/product_listing.php?shopQuery=Puppy+Care&amp;item_brand=79" rel="nofollow">Drools</a></li>
+                                       <li><a class="active" href="/new/shop/product_listing.php?shopQuery=Puppy+Care&amp;item_brand=20" rel="nofollow">Beaphar</a></li>
+                                       <li><a class="active" href="/new/shop/product_listing.php?shopQuery=Puppy+Care&amp;item_brand=36" rel="nofollow">Bio-Groom</a></li>
+                                                 <li><a class="active" href="/new/shop/product_listing.php?shopQuery=Puppy+Care&amp;item_brand=43" rel="nofollow">New Born Animal Care</a></li>
+                                                       </ul>
+                        </div>
+                      </div>
+                      <br class="clear">
+                    </div>                  </li><li><a class="active" href="/health-care/"><span class="NavArrow"></span>
+				  Health Care</a>
+                    <div style="display: block;" class="cat-content">
+                      <div style="" id="category" class="fleft list-column">
+                        <div class="menu">
+                          <p>Shop by category</p>
+                          <ul>
+                                                      <li><a class="active" href="/dewormer/"><font style="text-transform: capitalize;">Dewormer</font></a></li>
+                                                        <li><a class="active" href="/supplements/"><font style="text-transform: capitalize;">Supplements</font></a></li>
+                                                       </ul>
+                        </div>
+                      </div>
+                      <div style="" id="brand" class="fleft list-column">
+                        <div class="menu">
+                          <p>Shop by brands</p>
+                          <ul>
+                        				
+                                                 <li><a class="active" href="/new/shop/product_listing.php?shopQuery=health+care&amp;item_brand=159" rel="nofollow">Hill's
+</a></li>
+                                       <li><a class="active" href="/new/shop/product_listing.php?shopQuery=health+care&amp;item_brand=178" rel="nofollow">Pfizer
+</a></li>
+                                                  <li><a class="active" href="/new/shop/product_listing.php?shopQuery=health+care&amp;item_brand=79" rel="nofollow">Drools
+</a></li>
+                                                 <li><a class="active" href="/new/shop/product_listing.php?shopQuery=health+care&amp;item_brand=78" rel="nofollow">Petcare
+</a></li>
+                                                                                 
+                                                 <li><a class="active" href="/new/shop/product_listing.php?shopQuery=health+care&amp;item_brand=144" rel="nofollow">Savavet
+</a></li>
+                                                 <li><a class="active" href="/new/shop/product_listing.php?shopQuery=health+care&amp;item_brand=94" rel="nofollow">All4Pets
+</a></li>
+                                                                                                
+                                                       </ul>
+                        </div>
+                      </div>
+                      <br class="clear">
+                    </div>                  </li><li><a class="active" href="/cats-birds/"><span class="NavArrow"></span>
+				  Cats &amp; Birds</a>
+                    <div style="display: block;" class="cat-content">
+                      <div style="" id="category" class="fleft list-column">
+                        <div class="menu">
+                          <p>Shop by category</p>
+                          <ul>
+                                                      <li><a class="active" href="/birds/"><font style="text-transform: capitalize;">Birds</font></a></li>
+                                                        <li><a class="active" href="/cats/"><font style="text-transform: capitalize;">Cats</font></a></li>
+                                                        <li><a class="active" href="/small-pets/"><font style="text-transform: capitalize;">Small Pets</font></a></li>
+                                                       </ul>
+                        </div>
+                      </div>
+                      <div style="" id="brand" class="fleft list-column">
+                        <div class="menu">
+                          <p>Shop by brands</p>
+                          <ul>
+                                       <li><a class="active" href="/new/shop/product_listing.php?shopQuery=Cats+%26+Birds&amp;item_brand=92" rel="nofollow">Whiskas</a></li>
+                                                 <li><a class="active" href="/new/shop/product_listing.php?shopQuery=Cats+%26+Birds&amp;item_brand=24" rel="nofollow">Royal Canin</a></li>
+                                                 <li><a class="active" href="/new/shop/product_listing.php?shopQuery=Cats+%26+Birds&amp;item_brand=38" rel="nofollow">Pet Brands</a></li>
+                                                 <li><a class="active" href="/new/shop/product_listing.php?shopQuery=Cats+%26+Birds&amp;item_brand=91" rel="nofollow">Verselaga</a></li>
+                                                 <li><a class="active" href="/new/shop/product_listing.php?shopQuery=Cats+%26+Birds&amp;item_brand=20" rel="nofollow">Beaphar</a></li>
+                                                 
+
+                                                 <li><a class="active" href="/new/shop/product_listing.php?shopQuery=Cats+%26+Birds&amp;item_brand=10" rel="nofollow">Durapet</a></li>
+                                                 <li><a class="active" href="/new/shop/product_listing.php?shopQuery=Cats+%26+Birds&amp;item_brand=1" rel="nofollow">Karlie</a></li>
+                                                 <li><a class="active" href="/new/shop/product_listing.php?shopQuery=Cats+%26+Birds&amp;item_brand=17" rel="nofollow">Knot A rope</a></li>
+                                                  <li><a class="active" href="/new/shop/product_listing.php?shopQuery=Cats+%26+Birds&amp;item_brand=57" rel="nofollow">Eukanuba</a></li>
+                                                  <li><a class="active" href="/new/shop/product_listing.php?shopQuery=Cats+%26+Birds&amp;item_brand=101" rel="nofollow">Cimiao</a></li>
+                                                  <li><a class="active" href="/new/shop/product_listing.php?shopQuery=Cats+%26+Birds&amp;item_brand=79" rel="nofollow">Drools</a></li>
+                                    
+                                    
+                                                  
+                                                       </ul>
+                        </div>
+                      </div>
+                      <br class="clear">
+                    </div>                  </li><li><a class="active" href="/fish/"><span class="NavArrow"></span>
+				  Fish</a>
+                    <div style="display: block;" class="cat-content">
+                      <div style="" id="category" class="fleft list-column">
+                        <div class="menu">
+                          <p>Shop by category</p>
+                          <ul>
+                                                      <li><a class="active" href="/fish-aquariums/"><font style="text-transform: capitalize;">Aquariums</font></a></li>
+                                                        <li><a class="active" href="/fish-food/"><font style="text-transform: capitalize;">Fish Food</font></a></li>
+                                                        <li><a class="active" href="/aquarium-filter/"><font style="text-transform: capitalize;">Filter</font></a></li>
+                                                        <li><a class="active" href="/aquarium-filter-media/"><font style="text-transform: capitalize;">Filter Media</font></a></li>
+                                                        <li><a class="active" href="/fish-aquarium-water-conditioning/"><font style="text-transform: capitalize;">Water Conditioning</font></a></li>
+                                                        <li><a class="active" href="/aquarium-heater/"><font style="text-transform: capitalize;">Heater</font></a></li>
+                                                        <li><a class="active" href="/fish-aquarium-decoration/"><font style="text-transform: capitalize;">Decoration</font></a></li>
+                                                        <li><a class="active" href="/aquarium-air-pumps/"><font style="text-transform: capitalize;">Air Pumps</font></a></li>
+                                                        <li><a class="active" href="/aquarium-accessories/"><font style="text-transform: capitalize;">Accessories</font></a></li>
+                                                        <li><a class="active" href="/aquarium-co2-system/"><font style="text-transform: capitalize;">Co2 System</font></a></li>
+                                                        <li><a class="active" href="/aquarium-freshwater-substrate/"><font style="text-transform: capitalize;">Freshwater Substrate </font></a></li>
+                                         <li><a class="active" href="/fish/"><font style="text-transform: capitalize;"><strong>View More... </strong></font></a></li>
+                                                       </ul>
+                        </div>
+                      </div>
+                      <div style="" id="brand" class="fleft list-column">
+                        <div class="menu">
+                          <p>Shop by brands</p>
+                          <ul>
+                          <li><a class="active" href="/new/shop/product_listing.php?shopQuery=Fish&amp;item_brand=166" rel="nofollow">Sera</a></li>
+                                                                                       
+                                                 <li><a class="active" href="/new/shop/product_listing.php?shopQuery=Fish&amp;item_brand=125" rel="nofollow">Marina</a></li>
+                                                 <li><a class="active" href="/new/shop/product_listing.php?shopQuery=Fish&amp;item_brand=126" rel="nofollow">Exo Terra</a></li>
+                                                 <li><a class="active" href="/new/shop/product_listing.php?shopQuery=Fish&amp;item_brand=131" rel="nofollow">Nutrafin</a></li>
+                                       <li><a class="active" href="/new/shop/product_listing.php?shopQuery=Fish&amp;item_brand=122" rel="nofollow">Fluval</a></li>
+                                                 <li><a class="active" href="/new/shop/product_listing.php?shopQuery=Fish&amp;item_brand=160" rel="nofollow">Hiblow</a></li>
+                  <li><a class="active" href="/new/shop/product_listing.php?shopQuery=Fish&amp;item_brand=161" rel="nofollow">Elite</a></li>
+                                                 <li><a class="active" href="/new/shop/product_listing.php?shopQuery=Fish&amp;item_brand=162" rel="nofollow">Geosystem</a></li>
+                                                 <li><a class="active" href="/new/shop/product_listing.php?shopQuery=Fish&amp;item_brand=163" rel="nofollow">Tetra</a></li>
+                                                 <li><a class="active" href="/new/shop/product_listing.php?shopQuery=Fish&amp;item_brand=164" rel="nofollow">Rainone</a></li>     
+                                                         <li><a class="active" href="/new/shop/product_listing.php?shopQuery=Fish&amp;item_brand=168" rel="nofollow">Rid-All</a></li>
+              
+                                                       </ul>
+                        </div>
+                      </div>
+                      <br class="clear">
+                    </div>                  
+                    </li><li><a class="active" href="/turtle/"><span class="NavArrow"></span>
+				  Turtle</a>
+                    <div style="display: block;" class="cat-content">
+                      <div style="" id="category" class="fleft list-column">
+                        <div class="menu">
+                          <p>Shop by category</p>
+                          <ul>
+                                                      <li><a class="active" href="/turtle-food/"><font style="text-transform: capitalize;">Turtle Food</font></a></li>
+                                                        <li><a class="active" href="/turtle-habitats/"><font style="text-transform: capitalize;">Turtle Habitats</font></a></li>
+                                                       </ul>
+                        </div>
+                      </div>
+                      <div style="" id="brand" class="fleft list-column">
+                        <div class="menu">
+                          <p>Shop by brands</p>
+                          <ul>
+                                       <li><a class="active" href="/new/shop/product_listing.php?shopQuery=turtle&amp;item_brand=126" rel="nofollow">Exo Terra</a></li>
+                                                 <li><a class="active" href="/new/shop/product_listing.php?shopQuery=turtle&amp;item_brand=164" rel="nofollow">Rainone</a></li>
+                                                 
+                                                       </ul>
+                        </div>
+                      </div>
+                      <br class="clear">
+                    </div>                  </li>
+                    <li><a class="active" href="/dog-magazines/"><span class="NavArrow"></span>
+				  Dog Magazines</a>
+                  <div style="display: block;" class="cat-content">
+                      <div style="" id="category" class="fleft list-column">
+                        <div class="menu">
+                          <p>Shop by category</p>
+                          <ul>
+                          <li><a class="active" href="/dog-books/"><font style="text-transform: capitalize;">Books</font></a></li>
+                          <li><a class="active" href="/magazine/"><font style="text-transform: capitalize;">Magazine</font></a></li>
+                          <li><a class="active" href="/education/"><font style="text-transform: capitalize;">CD's</font></a></li>
+                                                       </ul> 
+                        </div>
+                      </div>
+                      <div style="" id="brand" class="fleft list-column">
+                        <div class="menu">
+                          <p>Shop by brands</p>
+                          <ul>
+                      <li><a class="active" href="/new/shop/product_listing.php?shopQuery=Dog+Magazines&amp;item_brand=12" rel="nofollow">Creature Companions</a></li>
+                      <li><a class="active" href="/new/shop/product_listing.php?shopQuery=Dog+Magazines&amp;item_brand=13" rel="nofollow">Dogs &amp; More</a></li>
+                      <li><a class="active" href="/new/shop/product_listing.php?shopQuery=Dog+Magazines&amp;item_brand=11" rel="nofollow">Dogs and Pups</a></li>
+                      <li><a class="active" href="/new/shop/product_listing.php?shopQuery=Dog+Magazines&amp;item_brand=56" rel="nofollow">Natraj Publishers</a></li>
+                      <li><a class="active" href="/new/shop/product_listing.php?shopQuery=Dog+Magazines&amp;item_brand=112" rel="nofollow">Roli Books</a></li>
+                      <li><a class="active" href="/new/shop/product_listing.php?shopQuery=Dog+Magazines&amp;item_brand=75" rel="nofollow">The Kennel Club</a></li>
+                      <li><a class="active" href="/new/shop/product_listing.php?shopQuery=Education&amp;item_brand=86" rel="nofollow">Dog*tec</a></li>
+                                                 
+                                                       </ul>
+                        </div>
+                      </div>
+                      <br class="clear">
+                    </div></li>
+                    
+                        
+                </ul>
+              </div>
+            </li>
+            <li style="display:none"><a href="#">breed</a></li>
+            <li><a href="/dog-events/">dog shows</a></li>
+            <li><a href="/dog-blog/">articles</a></li>
+            <li><a href="/qna/">q&amp;a</a></li>
+            <li><a href="/puppies/">puppies available</a></li>
+            <li><a href="/dogs/">dog gallery</a></li>
+            <li style="background-image:url(/new/common/images/bg-nav.png); background-repeat:no-repeat; background-position:right;"><a href="/dog-listing/">business</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="navContainer_right">
+      <div id="nav-wrapper">
+        <div class="navigation">
+          <ul id="navigation" class="fright">
+            <li style="background-image:url(/new/common/images/bg-nav.png); background-repeat:no-repeat; background-position:right;"><a href="Javascript:void()"><span class="drop">customer support</span></a>
+              <div class="drop-menu" style="display: none;">
+                <ul class="fleft cat-main" style="width:156px;">
+                 <li style="font-size:14px; text-transform:lowercase; background-image:url(/new/common/images/icon-phone.gif); background-repeat:no-repeat; background-position:left; padding-left:20px;color:#444"> +91-9818809553</li>
+<li style="font-size:14px; text-transform:lowercase; background-image:url(/new/common/images/icon-mail.gif); background-repeat:no-repeat; background-position:left; padding-left:20px;color:#444"><a href="mailto:contact@dogspot.in">&nbsp;contact@dogspot.in</a></li>
+
+               </ul>
+              </div>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- navigation ends here-->
+
+<!-- navigation ends here-->
+
+
 <div class="cont980">
+<div class="pageBody">
+<br>
+<h1> Policies of DogSpot</h1>
 <div class="vs10"></div>
-<h1>Website privacy </h1>
-  <p>    PetsGlam  Service Pvt Ltd or DogSpot.in (“DogSpot)” will only  disclose your Personal Information in accordance with this Privacy Policy. </p>
-  <p>If you decline to submit personal information to us, then we will  unfortunately not be in a position to provide the Services to you.</p>
-  <p>Any of your information which you provide when you use DogSpot.in in an  unencrypted manner and/or to an open, public environment or forum including  (without limitation) any blog, chat room, albums, community, classifieds or  discussion board, is not confidential, does not constitute Personal  Information, and is not subject to protection under Privacy Policy. </p>
-  <p>Since such public environments are accessible by third parties, it is  possible that third parties may collect and collate and use such information  for their own purposes. You should accordingly be careful when deciding to  share any of your Personal Information in such public environments. </p>
-  <p>DogSpot is not liable to  you or any third party for any damages that you or any third party may suffer  howsoever arising from your disclosure of Personal Information in any public  environment. You accordingly disclose information in a public environment at  your own risk.</p>
-  <p><strong>The Information DogSpot may collect </strong></p>
+<p><a name="cw" id="privacy"></a></p>
+<h3>Privacy Policy </h3>
+<p style="line-height:20px;">PetsGlam Service Pvt Ltd or DogSpot.in (“DogSpot)” will only disclose your Personal Information in accordance with this Privacy Policy. If you decline to submit personal information to us, then we will unfortunately not be in a position to provide the Services to you. </p>
+  <p style="line-height:20px;">Any of your personal information which you provide when you use DogSpot.in in an unencrypted manner and/or to an open, public environment or forum including (without limitation) any blog, chat room, albums, community, classifieds or discussion board, is not confidential, does not constitute Personal Information, and is not subject to protection under Privacy Policy.</p>
+  <p style="line-height:20px;">Since such public environments are accessible by third parties, it is possible that third parties may collect and collate and use such information for their own purposes. You should accordingly be careful when deciding to share any of your Personal Information in such public environments. </p>
+  <p style="line-height:20px;">DogSpot is not liable to you or any third party for any damages that you or any third party may suffer howsoever arising from your disclosure of Personal Information in any public environment. Disclose your personal information in a public environment at your own risk. </p>
+  <p style="line-height:20px;"><strong>The Information DogSpot may collect</strong></p>
   <ol>
-    <li><strong>User-provided Information</strong>: When you register for, browse and use the Website, you may provide to DogSpot  "identity information" (such as your name, email address, address,  home or mobile telephone number etc). You may also be able to add a picture of  yourself. </li>
-    <li>If you decide to register through or  otherwise grant access to a third party social networking or authentication  service that we may make available ("<strong>Authentication Service</strong>"),  such as Facebook Connect or Google, DogSpot may also collect any such "identity  information" that you have provided to the Authentication Service from the  account you have with the Authentication Service.</li>
-    <li>Details of transactions by your  Facebook friends and other Facebook users generated by you through our Service.</li>
-    <li>&nbsp;If you choose to provide such information,  during registration or otherwise, you are giving DogSpot the permission to use  and store it consistent with this policy. Therefore, please understand that  when you sign in with DogSpot, you are not anonymous to us.</li>
-  </ol>
-  <p><strong>IP Addresses and cookies</strong><br>
-    We may collect information about your computer, including where available  your IP address, operating system and browser type, for system administration  and to report aggregate information to our advertisers. We may also collect  such information from your Facebook friends and other Facebook users who use  the Service. This is statistical data about our users' browsing actions and  patterns, and does not identify any individual.</p>
+  <li style="line-height:20px;"><strong>User-provided Information:</strong> When you register for, browse and use the Website, you may provide to DogSpot "identity information" (such as your name, email address, address, home or mobile telephone number etc.). You may also be able to add a picture of yourself.</li>
+  <li style="line-height:20px;"> If you decide to register through or otherwise grant access to a third party, social networking or authentication service that we may make available ("<strong>Authentication Service</strong>"), such as Facebook Connect or Google, DogSpot may also collect any such "identity information" that you have provided to the Authentication Service from the account you have with the Authentication Service.</li>
+ <li style="line-height:20px;"> Details of transactions by your Facebook friends and other Facebook users generated by you through our Service.</li>
+ <li style="line-height:20px;"> If you choose to provide such information, during registration or otherwise, you are giving DogSpot the permission to use and store it consistent with this policy. Therefore, please understand that when you sign in with DogSpot, you are not anonymous to us.  </li>
+ </ol>
+  <p style="line-height:20px;"><strong>IP Addresses and cookies</strong><br>
+  We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. We may also collect such information from your Facebook friends and other Facebook users who use the Service. This is statistical data about our users' browsing actions and patterns, and does not identify any individual.</p>
+  <ul>
+    <li style="line-height:20px;">Please note that our advertisers may also use cookies, over which we have no control.</li>
+      </ul>
+ 
+  <p style="line-height:20px;"><strong>The Way DogSpot Uses Information</strong></p>
+ <ol>
+    <li style="line-height:20px;"> DogSpot uses the information that you provide or that we collect in order to establish and enhance our relationship with you. DogSpot generally uses the information you provide or that we collect to operate, maintain, enhance, and provide all of the features and services found on the Website. If you have given DogSpot consent, we may use your personally identifiable information to provide you with information about DogSpot's features, services and other offerings that may be of interest to you. We may also send information or offers to groups of users on behalf of other businesses. 
+  </li></ol>
+  <p style="line-height:20px;"><strong>When DogSpot Discloses Information</strong></p>
   <ol>
-    <li>Please note that our advertisers may  also use cookies, over which we have no control.</li>
-  </ol>
-  <p><strong>The Way DogSpot Uses Information</strong></p>
-  <ol>
-    <li>DogSpot uses the information that you  provide or that we collect in order to establish and enhance our relationship  with you. DogSpot generally uses the information you provide or that we collect  to operate, maintain, enhance, and provide all of the features and services  found on the Website. If you have given DogSpot consent, we may use your  personally identifiable information to provide you with information about DogSpot's  features, services and other offerings that may be of interest to you. We may  also send information or offers to groups of users on behalf of other  businesses. </li>
-  </ol>
-  <p><strong>When DogSpot Discloses Information</strong></p>
-  <ol>
-    <li><strong>Social Networks:</strong>&nbsp;DogSpot will disclose your personal information if you have explicitly  agreed that we may do so. In particular, we will disclose personal information  where you have elected to connect your account on our Website to a social  network or other similar service (e.g., Facebook or Google), or have elected to  have your activity on our Website published to a social network or other  similar service (e.g., Facebook or Google). To control the information that you  share, you should review and, if appropriate, modify your privacy settings on  such services.</li>
-    <li><strong>Required by Law:</strong>&nbsp;DogSpot may also disclose User information if required to do so by law  or in the good-faith belief that such action is necessary to comply with state  and other governing bodies</li>
-    <li><strong>Merger or Acquisition:</strong>&nbsp;In the event that DogSpot is acquired by or merged with a third-party  entity, we reserve the right, in any of these circumstances, to transfer or  assign the information that we have collected from Users as part of such  merger, acquisition, sale, or other change of control.</li>
-    <li><strong>Other Purposes:</strong>&nbsp;DogSpot also reserves the right to disclose User information that we  believe, in good faith, is appropriate or necessary to take precautions against  liability; protect DogSpot from fraudulent, abusive, or unlawful uses; to  investigate and defend ourselves against any third-party claims or allegations;  to assist government enforcement agencies; to protect the security or integrity  of the Website; or to protect the rights, property, or personal safety of DogSpot,  our Users, or others.</li>
-  </ol>
-  <p><strong>Contacting  Us</strong><br>
+    <li style="line-height:20px;"> <strong>Social Networks:</strong>&nbsp;DogSpot will disclose your personal information if you have explicitly agreed that we may do so. In particular, we will disclose personal information where you have elected to connect your account on our  Website to a social network or other similar service (e.g., Facebook or Google), or have elected to have your activity on our Website published to a social network or other similar service (e.g., Facebook or Google). To control the information that you share, you should review and, if appropriate, modify your privacy settings on such services.</li>
+    <li style="line-height:20px;"> <strong>Required by Law:</strong>&nbsp;DogSpot may also disclose user information if required to do so by law or in the good-faith belief that such action is necessary to comply with state and other governing bodies.</li>
+    <li style="line-height:20px;"> <strong>Merger or Acquisition:</strong>&nbsp;In the event that DogSpot is acquired by or merged with a third-party entity, we reserve the right, in any of these circumstances, to transfer or assign the information that we have collected from users as part of such merger, acquisition, sale, or other change of control.</li>
+    <li style="line-height:20px;"><strong>Other Purposes:</strong>&nbsp;DogSpot also reserves the right to disclose user information that we believe, in good faith, is appropriate or necessary to take precautions against liability; protect DogSpot from fraudulent, abusive, or unlawful uses; to investigate and defend ourselves against any third-party claims or allegations; to assist government enforcement agencies; to protect the security or integrity of the Website; or to protect the rights, property, or personal safety of DogSpot, our Users, or others.</li></ol>
+  
+  <p style="line-height:20px;"><strong>Contact Us</strong><br>
     If there are any questions  regarding this privacy policy you may contact us using the information below:<br>
-    PetsGlam  Services Pvt Ltd <br>
-    U-1/10-11, DLF Phase- III<br>
-   Gurgaon 122002, Haryana, India<br>
+ PetsGlam  Services Pvt Ltd <br>
+  Plot no - 545, S.Lal Tower<br>
+  Sector - 20, Dundahera<br>
+   Gurgaon 122016<br>
+   Haryana, India <br>
     Telephone  No.: +91-9818809553<br>
     E-Mail  ID: contact@dogspot.in</p><br>
+ <hr>
+<p style="line-height:20px;"><a name="cw" id="pricing"></a></p>    
+<h3>Pricing Information</h3>
+<p style="line-height:20px;">While <strong>Dogspot.in</strong> strives to provide accurate product and pricing information, pricing or typographical errors may occur. Dogspot.in cannot confirm the price of a product until after you order. In the event that a product is listed at an incorrect price or with incorrect information due to an error in pricing or product information, <strong>Dogspot.in</strong> shall have the right, at our sole discretion, to refuse or cancel any orders placed for that product, unless the product has already been dispatched. In the event that an item is mis-priced, <strong>Dogspot.in</strong> may, at its discretion, either contact you for instructions or cancel your order and notify you of such cancellation. Unless the product ordered by you has been dispatched, your offer will not be deemed accepted and <strong>Dogspot.in</strong> will have the right to modify the price of the product and contact you for further instructions using the e-mail address provided by you during the time of registration, or cancel the order and notify you of such cancellation. In the event that <strong>Dogspot.in</strong> accepts your order the same shall be debited to your credit card account and duly notified to you by email that the payment has been processed. The payment may be processed prior to <strong>Dogspot.in </strong>dispatch of the product that you have ordered. If we have to cancel the order after we have processed the payment, the said amount will be reversed back to your credit card account.</p>
+
+
+<hr>
+<p style="line-height:20px;"><a name="cw" id="shipping"></a></p>
+<h3>Shipping &amp; Delivery  Policy for Products </h3>
+<p style="line-height:20px;">We ship only in India and for domestic (India) buyers, orders are shipped through registered domestic courier companies and /or speed post only. Orders are shipped within 10 working days or as per the delivery date agreed at the time of order confirmation and delivering of the shipment subject to Courier Company / post office norms. PetsGlam Services Pvt Ltd (DogSpot.in) is not liable for any delay in delivery by the courier company / postal authorities and only guarantees to hand over the consignment to the courier company or postal authorities within 10 working days from the date of the order and payment or as per the delivery date agreed at the time of order confirmation. Delivery of all orders will be to registered address of the buyer as per the credit/debit card only at all times (Unless specified at the time of Order). PetsGlam Services Pvt Ltd (DogSpot.in) is in no way responsible for any damage to the order while in transit to the buyer. </p>
+  <p style="line-height:20px;"><strong>Shipping is Free across India for all products.</strong><br>
+    Rs. 50&nbsp; applicable&nbsp;  for Cash On Delivery (COD) payment method.<br>
+   In India, some state governments levies the Octroi  charges when the product enters the state. <br><br>
+  <strong>The  Octroi charge is payable by the recipient at the time of delivery</strong>. The  courier will collect the Octroi amount from the recipient at the time of  delivery.</p>
+  <hr>
+ <p style="line-height:20px;"><a name="cw" id="cancelation"></a></p> 
+ <h3>Order Cancellation </h3>
+ <p style="line-height:20px;">All order cancellations will be handled as per our Standard Cancellation Policy  </p>
+<p style="line-height:20px;"><strong>Cancellation by Dogspot.in:</strong><br>
+Please note that there may be certain orders that we are unable to accept and must cancel. We reserve the right, at our sole discretion, to refuse or cancel any order for any reason. Some situations that may result in your order being canceled include limitations on quantities available for purchase, inaccuracies or errors in product or pricing information, or problems identified by our credit and fraud avoidance department. We may also require additional verifications or information before accepting any order. We will contact you if all or any portion of your order is canceled or if additional information is required to accept your order. Cash payment mode orders will be cancelled for non-receipt of cash within 48 hours from the time of placing the order. Cheque payment mode orders will be cancelled if cheque is not deposited or intimation of the same is not given to us within 48 hours from the time of placing the order.  </p>
+
+  <p style="line-height:20px;"><strong>Cancellation by Customer:</strong><br>
+  If you cancel your order before your product has shipped, we will refund the entire amount.<br>
+If the cancellation is after your product has shipped, you  can do one of the following:</p>
+  <ol start="1" type="1">
+    <li style="ine-height:20px;">If your product has shipped but has not yet been delivered, contact Customer Support and inform them  of the same</li>
+    <li style="ine-height:20px;">If you received the product,it will be eligible for replacement, only in cases where there are defects found with the product.</li>
+  </ol> 
+  <hr>
+ <p style="line-height:20px;"><a name="cw" id="replacement"></a></p>  
+   <h3>Replacement  </h3>
+   <p style="line-height:20px;">In order to get a defective item replaced, contact Care via <a href="/contactus.php"><font color="0000FF">Contact Us</font></a> Page or call on 0124 4059145, within 30 days from the date of delivery. The defective product or part of the product will be recalled and a replacement will be shipped immediately.</p> 
+    <hr>
+   <p style="line-height:20px;"><a name="cw" id="refund"></a></p>   
+   
+ <h3>Refund and Return </h3>
+ 
+  <p style="line-height:20px;">In case you are not happy with the quality of the product or the product doesn't fit properly, you can return the product to us. We will replace the product or refund entire amount.</p><br>
+  Please note that the product should be unused and should be sent back along with original box and invoice to:<br>
+  <strong>Customer care</strong><br>
+  <strong>DogSpot.in, U-1/9,G.F.</strong><br>
+  <strong>DLF Phase- III</strong><br>
+	<strong>Gurgaon 122002</strong><br>
+	<strong>Haryana, India</strong> <br>
+  <p style="line-height:20px;">The refund process will be initiated once we have received the product(s). Typically refunds are processed in less than 10 working days but in case of payments by Cheque or DD, it may take a few extra days for the cheque to be delivered to your billing address, and for the funds to be credited to your account, once you deposit the cheque.</p>   
+   <hr>
+
+    
+    
+</div>    
 </div>
+
 <div class="cb"></div>
 <div class="vs20"></div>
-<div class="cont980">
    	<div class="hrline"></div>
         
      
    <!-- footer -->
-  <div id="footer">
-    	<!-- left container -->
-   	  <div class="fcont300"><table><tbody><tr><td colspan="2" valign="top">
-        	<h2>quick links</h2>
-           </td></tr><tr><td width="134" valign="top">
-            
-                <a href="/">Home</a><div class="vs5"></div>
-                <a href="/shop/">Shop</a><div class="vs5"></div>
-                <a href="/dog-blog/">Articles</a><div class="vs5"></div>
-                <a href="/dog-events/">Dog Shows</a><div class="vs5"></div>
-                
-                <a href="/puppies/">Puppies Available</a><div class="vs5"></div>
-                <a href="/dogs/">Dog Gallery</a><div class="vs5"></div>
-                <a href="/jobs.php">Careers</a><div class="vs5"></div>
-             </td>
-              
-              <td width="152" valign="top">
-       
-                <a href="/qna/">Questions &amp; Answer</a><div class="vs5"></div>
-                <a href="/dog-listing/">Business</a><div class="vs5"></div>
-                <a href="/contactus.php">Contact Us</a><div class="vs5"></div>
-                 <a href="/about-us.php">About Us</a><div class="vs5"></div>
-                <a href="/press-release.php">Press Release</a><div class="vs5"></div>
-                <a href="http://www.coupondunia.in/" target="_blank">CouponDunia</a>
-                <a href="http://www.couponzguru.com/">CouponzGuru</a><div class="vs5"></div>
-             </td></tr>  
-           <tr><td colspan="2"> <div class="vs5"></div>
-            <h2>connect with us </h2>
-           <p align="left">
-<a href=" http://www.junglee.com/mn/search/junglee/ref=seller_badge_Dogspot&amp;sr_nr_p_6_1?rh=n%3A683871031%2Cn%3A!683872031%2Cn%3A801743031%2Cp_6%3AA2WQ2B9BVSXPGW&amp;bbn=801743031&amp;ie=UTF8&amp;qid=1335330304&amp;rnid=905183031"><img style="padding:4px; cursor: hand" src="http://g-ecx.images-amazon.com/images/G/31/junglee/sitewide/plate_82x42._V136902523_.gif" border="0"></a>
-
-
-<a href="http://www.facebook.com/indogspot" target="_blank"><img src="/new/pix/fb_icon.gif" alt="Facebook" title="Facebook" border="0"></a>
-
-<a href="http://twitter.com/#!/indogspot" target="_blank"><img src="/new/pix/twitter_icon.gif" alt="Twitter" title="Twitter" border="0"></a></p>
-           
-           
-           
-         </td></tr></tbody></table>
-          <span class="cl"></span>        
-          </div><!-- left container -->
-          
-          <!-- middle container -->
-          
-          <div class="fcont300"><table><tbody><tr><td colspan="2" valign="top">
-          	<h2>shipping information</h2></td></tr><tr><td width="134" valign="top">
-           
-                <a href="/shipping-delivery.php">Shipping &amp; Delivery Policy</a><div class="vs5"></div>
-                <a href="/cancellation-refund.php">Order Cancellation</a><div class="vs5"></div>
-                <a href="/replacement.php">Replacement</a><div class="vs5"></div>
-                <a href="/refund-return.php">Refund &amp; Return</a><div class="vs5"></div>
-                
-              </td>
-              
-              <td width="152" valign="top">
-              <a href="/terms-conditions.php">Terms &amp; Conditions</a><div class="vs5"></div>
-                <a href="/disclaimer-policy.php">Disclaimer Policy</a><div class="vs5"></div>
-                <a href="/privacy-policy.php">Privacy Policy</a><div class="vs5"></div>
-                    
-        </td></tr>
-           <tr><td colspan="2">  <div class="vs20"></div>  <div class="vs5"></div><div class="vs2"></div><div class="vs2"></div>
-            <h2>payment gateway</h2><div class="vs5"></div>
-
-    <p align="left"><img src="/new/pix/mastercard.gif" alt="" title="" border="0" class="mr5"><img src="/new/pix/maestro_icon.gif" alt="" title="" border="0" class="mr5"><img src="/new/pix/visa_icon.gif" alt="" title="" border="0"></p></td></tr></tbody></table>
-<span class="cl"></span>   
-      </div><!-- middle container -->
-   <!-- Testemonial Programme Changes Starts Here....................................................................................   -->          <!-- right container -->
-            
-             <div class="fcont300" style="margin-right:0px; padding-right:0px; border:0px;">
-
-             <table>
-             	<tbody><tr>
-                	<td valign="top"><h2>happy pet owners say </h2>
-                    <div class="vs5"></div> 
-<marquee class="marq" behavior="alternate" height="120" onmouseout="start();" onmouseover="stop();" direction="up" truespeed="truespeed" scrolldelay="45" scrollamount="1">
+  <link href="/new/css/footer.css" rel="stylesheet" type="text/css">
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>   
+<div id="newFooter">
+  <div id="footerContent">
+    <div id="footerContent_left">
+      <div style="height:250px; margin:0 10px 0 0;">
+        <div class="footerContainer" style="border-right:1px dotted #ddd; margin-right:10px; width:250px; height:240px; ">
+          <h3>Dog Spot</h3>
+         <ul style="width:130px;">
+            <li><a href="/"> Home</a></li>
+            <li><a href="/shop/"> Shop</a></li>
+            <li><a href="/dog-blog/"> Articles</a></li>
+            <li><a href="/dog-events/"> Dog Shows</a></li>
+            <li><a href="/puppies/"> Puppies Available</a></li>
+            <li><a href="/dogs/"> Dog Gallery</a></li>
+            <li><a href="/dog-listing/"> Business</a></li>
+            <li><a href="/qna/"> Q&amp;A</a></li>
+          </ul>
+          <ul style="width:120px;">
+            <li><a href="/about-us.php"> About Us</a></li>
+            <li><a href="/contactus.php"> Contact Us</a></li>
+            <li><a href="/press-release.php"> Press Release</a></li>
+            <li><a href="/jobs.php"> Careers</a></li>
+            <li><a href="/get-listed.php"> Get Listed</a></li>
+            <li><a href="/sitemap.php"> Site Map</a></li>
+            <li><a href="/sitemap.xml"> Sitemap xml</a></li>
+            <li><a href="/syndication/"> Rss / Syndication</a></li>
+           <!-- <li><a href="#"> Coupon Guru</a></li>
+            <li><a href="#"> Sitemap</a></li>-->
+          </ul>
+        </div>
+        <div class="footerContainer" style="border-right:1px dotted #ddd; margin-right:10px; padding-right:10px; width:130px; height:240px; ">
+          <h3>Our Policies</h3>
+          <ul>
+           <li><a href="/shop-policy.php#shipping"> Shipping &amp; Delivery</a></li>
+            <li><a href="/shop-policy.php#cancelation"> Order Cancellation</a></li>
+            <li><a href="/shop-policy.php#refund"> Refund &amp; Return</a></li>
+            <li><a href="/shop-policy.php#replacement"> Replacement</a></li>
+            <li><a href="/shop-policy.php#pricing"> Pricing Information</a></li>
+            <li><a href="/terms-conditions.php"> Terms &amp; Conditions</a></li>
+            <li><a href="/shop-policy.php#privacy"> Privacy Policy</a></li>
+            <li><a href="/terms-conditions.php#disclaimer"> Disclaimer</a></li>
+          </ul>
+        </div>
+        <div class="footerContainer" style="width:253px; height:240px; ">
+          <h3>Payment Option</h3>
+          <div style="margin-bottom:20px;" align="left"><img src="/new/pix/icon-mastercard.png" width="44" height="29"> <img src="/new/pix/icon-visa.png" width="44" height="29" alt="Visa"> <img src="/new/pix/icon-netbanking.png" width="44" height="29" alt="Net Banking"> <img src="/new/pix/icon-cod.png" width="44" height="29" alt="Cash On Delivery"> <img src="/new/pix/icon-cheque.png" width="44" height="29" alt="Cheque/Draft"></div>
+          <h3>Join Us At:</h3>
+          <div align="left"><a href="https://twitter.com/indogspot" target="_blank"> <img src="/new/pix/twitter.png" width="30" height="30" alt="Twitter"></a> <a href="http://www.facebook.com/indogspot" target="_blank"> <img src="/new/pix/facebook.png" width="30" height="30" alt="Facebook"> </a> <a href="https://plus.google.com/101662873906223019669/" target="_blank" rel="publisher">  <img src="/new/pix/googleplus.png" width="30" height="30" alt="Google Plus"> </a> <a href="http://www.linkedin.com/company/dogspot/" target="_blank"> <img src="/new/pix/linkedin.png" width="30" height="30" alt="Linked In"> </a> <a href="http://www.youtube.com/user/indogspot" target="_blank">  <img src="/new/pix/youtube.png" width="30" height="30" alt="Youtube"> </a> <a href="http://pinterest.com/indogspot/" target="_blank">  <img src="/new/pix/pinit.png" width="30" height="30" alt="Pin it"> </a></div>
+        </div>
+      </div>
+      <div class="divideLine">
+        <div class="divideLine_inner">
+          <div><h3 class="divideLine_heading">Payment Partners</h3></div>
+          <div style="text-align:center;"><img src="/new/pix/logo-payu.png" width="100" height="52" alt="Pay U"> <img src="/new/pix/logo-ebs.png" width="100" height="52" alt="EBS"></div>
+        </div>
+        <div class="divideLine_inner" style="border-left:1px dotted #ddd; border-right:1px dotted #ddd;">
+          <div>
+            <h3 class="divideLine_heading">Marketing Partners</h3>
+          </div>
+          <div style="text-align:center;"><img src="/new/pix/logo-junglee.png" width="100" height="52" alt="Junglee"> <img src="/new/pix/logo-shopclues.png" width="100" height="52" alt="Shop Clues"></div>
+        </div>
+        <div class="divideLine_inner">
+          <div>
+            <h3 class="divideLine_heading">Logistics Partners</h3>
+          </div>
+          <div style="text-align:center;"><img src="/new/pix/logo-bluedart.png" width="100" height="52" alt="Blue Dart"> <img src="/new/pix/logo-delivery.png" width="100" height="52" alt="Delivery"></div>
+        </div>
+      </div>
+      <div style="height:250px; margin-right:10px;">
+        <div class="footerContainer" style="border-right:1px dotted #ddd; margin-right:20px; width:250px; height:240px; ">
+          <h3>Top Brands</h3>
+         <ul style="width:125px;">
+            <li><a href="http://www.dogspot.in/brand/"> Dog Food Brands</a></li>
+            <li><a href="http://www.dogspot.in/Pedigree/"> Pedigree</a></li>
+            <li><a href="http://www.dogspot.in/royal-canin/"> Royal Canin</a></li>
+            <li><a href="http://www.dogspot.in/Drools/"> Drools Dog Food</a></li>
+            <li><a href="http://www.dogspot.in/eukanuba-57/"> Eukanuba</a></li>
+            <li><a href="http://www.dogspot.in/taste-of-wild/"> Taste Of Wild</a></li>
+            <li><a href="http://www.dogspot.in/petdig-30/"> Petdig</a></li>
+            <li><a href="http://www.dogspot.in/durapet/"> Durapet</a></li>
+          </ul>
+          <ul style="width:125px;">
+            <li><a href="http://www.dogspot.in/jerhigh/"> Jerhigh</a></li>
+            <li><a href="http://www.dogspot.in/FRONTLINE/"> Frontline</a></li>
+            <li><a href="http://www.dogspot.in/karlie/"> Karlie</a></li>
+            <li><a href="http://www.dogspot.in/kong/"> Kong</a></li>
+            <li><a href="http://www.dogspot.in/forbis/"> Forbis</a></li>
+            <li><a href="http://www.dogspot.in/simple-solutions/"> Simple Solution</a></li>
+            <li><a href="http://www.dogspot.in/Me-O/"> Me-O</a></li>
+            <li><a href="http://www.dogspot.in/dogtec/"> DogTec</a></li>
+          </ul>
+        </div>
+        <div class="footerContainer" style="width:400px; height:240px; ">
+          <h3>Top Categories</h3>
+          <ul style="width:130px;">
+            <li><a href="http://www.dogspot.in/treats-food/"> Dog Food</a></li>
+            <li><a href="http://www.dogspot.in/dog-collars/"> Dog Collars</a></li>
+            <li><a href="http://www.dogspot.in/dog-leashes/"> Dog Leash</a></li>
+            <li><a href="http://www.dogspot.in/dog-harnesses/"> Dog Harness</a></li>
+            <li><a href="http://www.dogspot.in/accessories/"> Dog Accessories</a></li>
+            <li><a href="http://www.dogspot.in/clothes/"> Dog Clothes</a></li>
+			<li><a href="http://www.dogspot.in/beds/"> Dog Beds</a></li>
+            <li><a href="http://www.dogspot.in/dog-grooming/"> Dog Grooming</a></li>
+          </ul>
+          <ul style="width:130px;">
+            <li><a href="http://www.dogspot.in/shampoos/"> Dog Shampoo</a></li>
+            <li><a href="http://www.dogspot.in/cages/"> Dog Cage</a></li>
+            <li><a href="http://www.dogspot.in/dog-biscuits/"> Dog Biscuits</a></li>
+            <li><a href="http://www.dogspot.in/supplements/"> Dog Supplements</a></li>
+            <li><a href="http://www.dogspot.in/crates/"> Dog Crates</a></li>
+            <li><a href="http://www.dogspot.in/flea-ticks/"> Dog Ticks</a></li>
+            <li><a href="http://www.dogspot.in/dog-toy/"> Dog Toys</a></li>
+            <li><a href="http://www.dogspot.in/dog-meaty-treats/"> Dog Meat</a></li>
+          </ul>
+          <ul style="width:140px;">
+             <li><a href="http://www.dogspot.in/feeders/"> Dog Feeder</a></li>
+            <li><a href="http://www.dogspot.in/diapers/"> Dog Diapers</a></li>
+            <li><a href="http://www.dogspot.in/muzzles/"> Dog Muzzles</a></li>
+            <li><a href="http://www.dogspot.in/dog-bowls/"> Dog Bowls</a></li>
+            <li><a href="http://www.dogspot.in/bandana/"> Dog Bandana</a></li>
+            <li><a href="http://www.dogspot.in/pet-hair-remover/"> Pet Hair Remover</a></li>
+            <li><a href="http://www.dogspot.in/birds/"> Birds Products</a></li>
+            <li><a href="http://www.dogspot.in/cats/"> Cat Products</a></li>
+          </ul>
+        </div>
+      </div>
+      <div><img src="/new/common/images/puppies.jpg" width="715" height="298" style="margin-left:-30px;"></div>
+    </div>
+    <div id="footerContent_right">
+      <div id="feedbackContainer">
+        
+ <div class="happyClients" style="height:400px;text-align:left;">
+          <h3>Happy Customers Says</h3>
+<marquee class="marq" behavior="alternate" height="360" onmouseout="start();" onmouseover="stop();" direction="up" truespeed="truespeed" scrolldelay="45" scrollamount="1">
 
 	
-            <div class="imgtxtcont2">
-            <div class="txthold" style="width:300px">
-           
-            <p class="caption" style="margin:0px;">DogSpot. Thanks a lot for your prompt services. I also thank you for selling the products at reasonable rates and with genuine quality. We will go on keeping good terms as far as my pet is concerned. Thanks once again.<br>
-ahuradessigns@gmail.com<br><br>
-            
-            feedback by <span class="tgreen">DogSpot Team</span> | Date:26 Oct 2012 &nbsp;|&nbsp;  <a href="/testimonial/">View More</a>  </p></div>   
-            <div class="cb"></div>
-        </div>
-
-
-            <div class="imgtxtcont2">
-            <div class="txthold" style="width:300px">
-           
-            <p class="caption" style="margin:0px;">My dog was chewing on everything, from slippers to rods, I bought him a cotton loop knot a rope toy, came in 1 half days, superb delivery speed :) and the product is so good that i think my dog has finally met its match!! Keep up the quality dogspot.<br><br>
-            
-            feedback by <span class="tgreen">Varshanth Rao</span> | Date:26 Oct 2012 &nbsp;|&nbsp;  <a href="/testimonial/">View More</a>  </p></div>   
-            <div class="cb"></div>
-        </div>
-
-
-            <div class="imgtxtcont2">
-            <div class="txthold" style="width:300px">
-           
-            <p class="caption" style="margin:0px;">I love DogSpot , great website for purchase<br><br>
-            
-            feedback by <span class="tgreen">simeon</span> | Date:25 Oct 2012 &nbsp;|&nbsp;  <a href="/testimonial/">View More</a>  </p></div>   
-            <div class="cb"></div>
-        </div>
-
-
-            <div class="imgtxtcont2">
-            <div class="txthold" style="width:300px">
-           
-            <p class="caption" style="margin:0px;">you guys are doing great job... keep it up guys<br><br>
-            
-            feedback by <span class="tgreen">ABHISHEK BHADAURIA</span> | Date:23 Oct 2012 &nbsp;|&nbsp;  <a href="/testimonial/">View More</a>  </p></div>   
-            <div class="cb"></div>
-        </div>
-
-
-            <div class="imgtxtcont2">
-            <div class="txthold" style="width:300px">
-           
-            <p class="caption" style="margin:0px;">Most valuable site for pet lovers<br><br>
-            
-            feedback by <span class="tgreen">kalika prasad mukherjee</span> | Date:21 Oct 2012 &nbsp;|&nbsp;  <a href="/testimonial/">View More</a>  </p></div>   
-            <div class="cb"></div>
-        </div>
-
-
-            <div class="imgtxtcont2">
-            <div class="txthold" style="width:300px">
-           
-            <p class="caption" style="margin:0px;">Received your product which had been ordered at your site.My sweetheart enjoyed the free gift u send and of course all the product was on time as committed by the site.Thank you<br><br>
-            
-            feedback by <span class="tgreen">Shweta Agarwal</span> | Date:19 Oct 2012 &nbsp;|&nbsp;  <a href="/testimonial/">View More</a>  </p></div>   
-            <div class="cb"></div>
-        </div>
-
-
-            <div class="imgtxtcont2">
-            <div class="txthold" style="width:300px">
-           
-            <p class="caption" style="margin:0px;">Finally got a good online pet shop... :)<br><br>
-            
-            feedback by <span class="tgreen">Vasul Nicket</span> | Date:17 Oct 2012 &nbsp;|&nbsp;  <a href="/testimonial/">View More</a>  </p></div>   
-            <div class="cb"></div>
-        </div>
-
-
-            <div class="imgtxtcont2">
-            <div class="txthold" style="width:300px">
-           
-            <p class="caption" style="margin:0px;">I am a regular customer at your site. It has everything that my dogs need. And when I run out of something I know it is just a click away. Thank you for your prompt service, guys!<br><br>
-            
-            feedback by <span class="tgreen">Priya Nagarajan</span> | Date:15 Oct 2012 &nbsp;|&nbsp;  <a href="/testimonial/">View More</a>  </p></div>   
-            <div class="cb"></div>
-        </div>
-
-
-            <div class="imgtxtcont2">
-            <div class="txthold" style="width:300px">
-           
-            <p class="caption" style="margin:0px;">Have ordered twice and the delivery has been in time. This is my 3rd order with the site. keep it up!<br><br>
-            
-            feedback by <span class="tgreen">Ruchi Joshi</span> | Date:14 Oct 2012 &nbsp;|&nbsp;  <a href="/testimonial/">View More</a>  </p></div>   
-            <div class="cb"></div>
-        </div>
-
-
-            <div class="imgtxtcont2">
-            <div class="txthold" style="width:300px">
-           
-            <p class="caption" style="margin:0px;">I love my Dog and so I love Dogspot. I live in a small town where quality stuff for pets is hard to find, Thankyou Dogspot for all your efforts.<br><br>
-            
-            feedback by <span class="tgreen">DogSpot Team</span> | Date:13 Oct 2012 &nbsp;|&nbsp;  <a href="/testimonial/">View More</a>  </p></div>   
-            <div class="cb"></div>
-        </div>
-
-
-            <div class="imgtxtcont2">
-            <div class="txthold" style="width:300px">
-           
-            <p class="caption" style="margin:0px;">Hi... it was my first experience... it was GOOD... In future also i will... do<br><br>
-            
-            feedback by <span class="tgreen">DogSpot Team</span> | Date:08 Oct 2012 &nbsp;|&nbsp;  <a href="/testimonial/">View More</a>  </p></div>   
-            <div class="cb"></div>
-        </div>
-
-
-            <div class="imgtxtcont2">
-            <div class="txthold" style="width:300px">
-           
-            <p class="caption" style="margin:0px;">I get Whiskas - Fisherman's choice online? If yes, I would like to order 30 packets.<br>
-<br>
-Thanks,<br>
-Rakhi<br>
-rakhinair@gmail.com<br><br>
-            
-            feedback by <span class="tgreen">DogSpot Team</span> | Date:08 Oct 2012 &nbsp;|&nbsp;  <a href="/testimonial/">View More</a>  </p></div>   
-            <div class="cb"></div>
-        </div>
-
-
-            <div class="imgtxtcont2">
-            <div class="txthold" style="width:300px">
-           
-            <p class="caption" style="margin:0px;">Satisfied with the products and website. Easy to shop and order... thanks DogSpot... spread cheers...<br><br>
-            
-            feedback by <span class="tgreen">Ashutosh Pandey</span> | Date:06 Oct 2012 &nbsp;|&nbsp;  <a href="/testimonial/">View More</a>  </p></div>   
-            <div class="cb"></div>
-        </div>
-
-
-            <div class="imgtxtcont2">
-            <div class="txthold" style="width:300px">
-           
-            <p class="caption" style="margin:0px;">I just would like to Thank DogSpot. I just made a suggestion couple of days of back to introduce certain dogfood in their shopping cart and I received an email that they have that certain food now. I can't tell how good I felt and how much it means to me and my dog. thank you dogspot.<br><br>
-            
-            feedback by <span class="tgreen">Amit Kaushal</span> | Date:05 Oct 2012 &nbsp;|&nbsp;  <a href="/testimonial/">View More</a>  </p></div>   
-            <div class="cb"></div>
-        </div>
-
-
-            <div class="imgtxtcont2">
-            <div class="txthold" style="width:300px">
-           
-            <p class="caption" style="margin:0px;">For the first time I've used it so yet to see the functioning.<br><br>
-            
-            feedback by <span class="tgreen">DogSpot Team</span> | Date:05 Oct 2012 &nbsp;|&nbsp;  <a href="/testimonial/">View More</a>  </p></div>   
-            <div class="cb"></div>
-        </div>
-
-
-            <div class="imgtxtcont2">
-            <div class="txthold" style="width:300px">
-           
-            <p class="caption" style="margin:0px;">Great Site<br><br>
-            
-            feedback by <span class="tgreen">DogSpot Team</span> | Date:02 Oct 2012 &nbsp;|&nbsp;  <a href="/testimonial/">View More</a>  </p></div>   
-            <div class="cb"></div>
-        </div>
-
-
-            <div class="imgtxtcont2">
-            <div class="txthold" style="width:300px">
-           
-            <p class="caption" style="margin:0px;">please can you provide me a electronic collar by dogspot shop i am searching it by a long time.<br><br>
-            
-            feedback by <span class="tgreen">DogSpot Team</span> | Date:28 Sep 2012 &nbsp;|&nbsp;  <a href="/testimonial/">View More</a>  </p></div>   
-            <div class="cb"></div>
-        </div>
-
-
-            <div class="imgtxtcont2">
-            <div class="txthold" style="width:300px">
-           
-            <p class="caption" style="margin:0px;">Excellent service, received promptly... totally satisfied.<br><br>
-            
-            feedback by <span class="tgreen">Francis Fernandes</span> | Date:27 Sep 2012 &nbsp;|&nbsp;  <a href="/testimonial/">View More</a>  </p></div>   
-            <div class="cb"></div>
-        </div>
-
-
-            <div class="imgtxtcont2">
-            <div class="txthold" style="width:300px">
-           
-            <p class="caption" style="margin:0px;">Thank you dogspot<br><br>
-            
-            feedback by <span class="tgreen">Hemant kale</span> | Date:15 Sep 2012 &nbsp;|&nbsp;  <a href="/testimonial/">View More</a>  </p></div>   
-            <div class="cb"></div>
-        </div>
-
-
-            <div class="imgtxtcont2">
-            <div class="txthold" style="width:300px">
-           
-            <p class="caption" style="margin:0px;">Me mate from mizoram... i am big fan of pets i love my dog and so i love dogspot... keep it up.<br><br>
-            
-            feedback by <span class="tgreen">DogSpot Team</span> | Date:15 Sep 2012 &nbsp;|&nbsp;  <a href="/testimonial/">View More</a>  </p></div>   
-            <div class="cb"></div>
-        </div>
-
-
-            <div class="imgtxtcont2">
-            <div class="txthold" style="width:300px">
-           
-            <p class="caption" style="margin:0px;">Just got my goodie bag from dogspot right on time for my dog's birthday tomorrow.. So excited...Thank You Dogspot :)<br><br>
-            
-            feedback by <span class="tgreen">Ratika Verma</span> | Date:14 Sep 2012 &nbsp;|&nbsp;  <a href="/testimonial/">View More</a>  </p></div>   
-            <div class="cb"></div>
-        </div>
-
-
-            <div class="imgtxtcont2">
-            <div class="txthold" style="width:300px">
-           
-            <p class="caption" style="margin:0px;">Hi, from lash 6 month i searching for online pet shoppy and i got your website, its very very nice.<br><br>
-            
-            feedback by <span class="tgreen">varsha</span> | Date:04 Sep 2012 &nbsp;|&nbsp;  <a href="/testimonial/">View More</a>  </p></div>   
-            <div class="cb"></div>
-        </div>
-
-
-            <div class="imgtxtcont2">
-            <div class="txthold" style="width:300px">
-           
-            <p class="caption" style="margin:0px;">Lots of information are available at your website... do let us know next dog show in delhi<br><br>
-            
-            feedback by <span class="tgreen">DogSpot Team</span> | Date:16 Aug 2012 &nbsp;|&nbsp;  <a href="/testimonial/">View More</a>  </p></div>   
-            <div class="cb"></div>
-        </div>
-
-
-            <div class="imgtxtcont2">
-            <div class="txthold" style="width:300px">
-           
-            <p class="caption" style="margin:0px;">Thank you dog-spot for a very nice cozy bed for my minpin. The crate pad was very much appreciated, he instantly sensed that the shopping bag contains his items and was jumping crazily when we opened it. Seeing him sleeping peacefully on both the items is very comforting. Thank you for being there with such amazing quality stuff for my spoilt brat Eddy...!<br><br>
-            
-            feedback by <span class="tgreen">Suveechi Chaudhary</span> | Date:15 Aug 2012 &nbsp;|&nbsp;  <a href="/testimonial/">View More</a>  </p></div>   
-            <div class="cb"></div>
-        </div>
-
-
-            <div class="imgtxtcont2">
-            <div class="txthold" style="width:300px">
-           
-            <p class="caption" style="margin:0px;">Great Site to shop at has a wide range of products and services are also good..<br><br>
-            
-            feedback by <span class="tgreen">Varun Malhotra</span> | Date:11 Aug 2012 &nbsp;|&nbsp;  <a href="/testimonial/">View More</a>  </p></div>   
-            <div class="cb"></div>
-        </div>
-
-
-            <div class="imgtxtcont2">
-            <div class="txthold" style="width:300px">
-           
-            <p class="caption" style="margin:0px;">Is very much usefull for me. thanks for taking order... waiting for the product...<br><br>
-            
-            feedback by <span class="tgreen">GANESH SHYAM SINGH</span> | Date:10 Aug 2012 &nbsp;|&nbsp;  <a href="/testimonial/">View More</a>  </p></div>   
-            <div class="cb"></div>
-        </div>
-
-
-            <div class="imgtxtcont2">
-            <div class="txthold" style="width:300px">
-           
-            <p class="caption" style="margin:0px;">Am very impressed with the quality of products and the service. Keep it up, Dogspot!<br><br>
-            
-            feedback by <span class="tgreen">Priya Nagarajan</span> | Date:19 Jul 2012 &nbsp;|&nbsp;  <a href="/testimonial/">View More</a>  </p></div>   
-            <div class="cb"></div>
-        </div>
-
-
-            <div class="imgtxtcont2">
-            <div class="txthold" style="width:300px">
-           
-            <p class="caption" style="margin:0px;">I've placed many orders in last 2 months on dogspot and I must say that in all cases the products and delivery has been absolutely wonderful. I am gradually becoming fan of dogspot. :)<br><br>
-            
-            feedback by <span class="tgreen">Rahul Sharma</span> | Date:17 Jul 2012 &nbsp;|&nbsp;  <a href="/testimonial/">View More</a>  </p></div>   
-            <div class="cb"></div>
-        </div>
-
-
-            <div class="imgtxtcont2">
-            <div class="txthold" style="width:300px">
-           
-            <p class="caption" style="margin:0px;">Finally, a shop where i can get stuff for my pet RABBITS... keep up the good work, and please add more products.<br><br>
-            
-            feedback by <span class="tgreen">DogSpot Team</span> | Date:10 Jul 2012 &nbsp;|&nbsp;  <a href="/testimonial/">View More</a>  </p></div>   
-            <div class="cb"></div>
-        </div>
-
-
-            <div class="imgtxtcont2">
-            <div class="txthold" style="width:300px">
-           
-            <p class="caption" style="margin:0px;">Please  add  the products of versele laga for birds... Minerals, iodine block, omnivit, fertivit, supplements etc<br><br>
-            
-            feedback by <span class="tgreen">sumesh c.a</span> | Date:07 Jul 2012 &nbsp;|&nbsp;  <a href="/testimonial/">View More</a>  </p></div>   
-            <div class="cb"></div>
-        </div>
-
-
-            <div class="imgtxtcont2">
-            <div class="txthold" style="width:300px">
-           
-            <p class="caption" style="margin:0px;">This site are very impressive.Keep up all the good work you are doing.<br>
-I have a few suggestions for you in regards to dog food. I would like to see more brands in the coming days. I would like DogSpot to sell dog food recommended by WDJ and approved by AAFCO. The generic brands like Pedigree,Eukanuba and Royal Canin can be bought from any local pet store,but I want DogSpot to be different and offer better brands which are value laden like Orijen, Taste of the Wild or Wellness. Just received good<br><br>
-            
-            feedback by <span class="tgreen">Dheeraj Yadav</span> | Date:03 Jul 2012 &nbsp;|&nbsp;  <a href="/testimonial/">View More</a>  </p></div>   
-            <div class="cb"></div>
-        </div>
-
-
-            <div class="imgtxtcont2">
-            <div class="txthold" style="width:300px">
-           
-            <p class="caption" style="margin:0px;">Thank You DogSpot! This has been so helpful... The best Online Store!<br><br>
-            
-            feedback by <span class="tgreen">Dr.V.R.Raju</span> | Date:01 Jul 2012 &nbsp;|&nbsp;  <a href="/testimonial/">View More</a>  </p></div>   
-            <div class="cb"></div>
-        </div>
-
-
-            <div class="imgtxtcont2">
-            <div class="txthold" style="width:300px">
-           
-            <p class="caption" style="margin:0px;">Really speedy delivery... products are of best quality...<br><br>
-            
-            feedback by <span class="tgreen">Runni</span> | Date:29 Jun 2012 &nbsp;|&nbsp;  <a href="/testimonial/">View More</a>  </p></div>   
-            <div class="cb"></div>
-        </div>
-
-
-            <div class="imgtxtcont2">
-            <div class="txthold" style="width:300px">
-           
-            <p class="caption" style="margin:0px;">DogSpot,<br>
-Keep up all the good work you are doing.<br>
-I have a few suggestions for you in regards to dog food. I would like to see more brands in the coming days. I would like DogSpot to sell dog food recommended by WDJ and approved by AAFCO. The generic brands like Pedigree,Eukanuba and Royal Canin can be bought from any local pet store,but I want DogSpot to be different and offer better brands which are value laden like Orijen, Taste of the Wild or Wellness. There is a huge market for these produc<br><br>
-            
-            feedback by <span class="tgreen">DogSpot Team</span> | Date:28 Jun 2012 &nbsp;|&nbsp;  <a href="/testimonial/">View More</a>  </p></div>   
-            <div class="cb"></div>
-        </div>
-
-
-            <div class="imgtxtcont2">
-            <div class="txthold" style="width:300px">
-           
-            <p class="caption" style="margin:0px;">Hi, I have ordered for more then 1000 Rs, However, I havent received the free Eukeneba dog treat along with it, and now the offer is not showing here in the site anymore, However I still prefer Dogspot to be one of the best website for Pets.<br><br>
-            
-            feedback by <span class="tgreen">Robin Gupta</span> | Date:26 Jun 2012 &nbsp;|&nbsp;  <a href="/testimonial/">View More</a>  </p></div>   
-            <div class="cb"></div>
-        </div>
-
-
-            <div class="imgtxtcont2">
-            <div class="txthold" style="width:300px">
-           
-            <p class="caption" style="margin:0px;">This website is very impressive but payment on delivery option is not available for Rishikesh, which is sad there are lots of dog owners in rishikesh if they enable this option im sure you can do a good business.<br><br>
-            
-            feedback by <span class="tgreen">DogSpot Team</span> | Date:25 Jun 2012 &nbsp;|&nbsp;  <a href="/testimonial/">View More</a>  </p></div>   
-            <div class="cb"></div>
-        </div>
-
-
-            <div class="imgtxtcont2">
-            <div class="txthold" style="width:300px">
-           
-            <p class="caption" style="margin:0px;">Its site is a best for breader &amp; pet lover. Shurveer kennel,hisar<br><br>
-            
-            feedback by <span class="tgreen">DogSpot Team</span> | Date:25 Jun 2012 &nbsp;|&nbsp;  <a href="/testimonial/">View More</a>  </p></div>   
-            <div class="cb"></div>
-        </div>
-
-
-            <div class="imgtxtcont2">
-            <div class="txthold" style="width:300px">
-           
-            <p class="caption" style="margin:0px;">Even am looking for dog pendants/ name plates on which names can be engraved ..<br><br>
-            
-            feedback by <span class="tgreen">hari pavan akkina</span> | Date:24 Jun 2012 &nbsp;|&nbsp;  <a href="/testimonial/">View More</a>  </p></div>   
-            <div class="cb"></div>
-        </div>
-
-
-            <div class="imgtxtcont2">
-            <div class="txthold" style="width:300px">
-           
-            <p class="caption" style="margin:0px;">DOGSPOT is the complete store that i prefer to shop pet products......  please give more discounts and offers for customers and encourage better shopping in Dogspot!!<br><br>
-            
-            feedback by <span class="tgreen">Barath Kumar M</span> | Date:21 Jun 2012 &nbsp;|&nbsp;  <a href="/testimonial/">View More</a>  </p></div>   
-            <div class="cb"></div>
-        </div>
-
-
-            <div class="imgtxtcont2">
-            <div class="txthold" style="width:300px">
-           
-            <p class="caption" style="margin:0px;">The dogspot team is doing a very good job in keeping pet owners uptodate on every aspect, be it vetinary,breeding,training,solutions to various problems and diseases etc. This site is very informative and I have benifitted alot from these articles and views on dogspot.  Keepup the dedicated work towrds Pets and Pet owners.<br><br>
-            
-            feedback by <span class="tgreen">DogSpot Team</span> | Date:19 Jun 2012 &nbsp;|&nbsp;  <a href="/testimonial/">View More</a>  </p></div>   
-            <div class="cb"></div>
-        </div>
-
-
-            <div class="imgtxtcont2">
-            <div class="txthold" style="width:300px">
-           
-            <p class="caption" style="margin:0px;">I would like to have a dog tag with my dog's name imprinted or engraved on it. I would like to have a bone shaped locket and a tag, so that I can get address engraved on it too. Is there any such products available?<br><br>
-            
-            feedback by <span class="tgreen">DogSpot Team</span> | Date:17 Jun 2012 &nbsp;|&nbsp;  <a href="/testimonial/">View More</a>  </p></div>   
-            <div class="cb"></div>
-        </div>
-
-
-            <div class="imgtxtcont2">
-            <div class="txthold" style="width:300px">
-           
-            <p class="caption" style="margin:0px;">Its very important to get info for me about pets... how to train and feed the pets... thanks friends...<br><br>
-            
-            feedback by <span class="tgreen">dinesh rao</span> | Date:16 Jun 2012 &nbsp;|&nbsp;  <a href="/testimonial/">View More</a>  </p></div>   
-            <div class="cb"></div>
-        </div>
-
-
-            <div class="imgtxtcont2">
-            <div class="txthold" style="width:300px">
-           
-            <p class="caption" style="margin:0px;">I Love dogspot! The products are clean, in good shape and delivered fast :)<br><br>
-            
-            feedback by <span class="tgreen">DogSpot Team</span> | Date:16 Jun 2012 &nbsp;|&nbsp;  <a href="/testimonial/">View More</a>  </p></div>   
-            <div class="cb"></div>
-        </div>
-
-
-            <div class="imgtxtcont2">
-            <div class="txthold" style="width:300px">
-           
-            <p class="caption" style="margin:0px;">I love my Dog and so I love Dogspot. I live in a small town where quality stuff for pets is hard to find, Thankyou Dogspot for all your efforts.<br><br>
-            
-            feedback by <span class="tgreen">Rohit Singh</span> | Date:16 Jun 2012 &nbsp;|&nbsp;  <a href="/testimonial/">View More</a>  </p></div>   
-            <div class="cb"></div>
-        </div>
-
-
-            <div class="imgtxtcont2">
-            <div class="txthold" style="width:300px">
-           
-            <p class="caption" style="margin:0px;">dear dogspot team,<br>
-Thanks a lot !!! You people are doing great work ... best wishes... keep it  up... cheeers... <br>
-  Regards<br>
-  Manish shridhar<br><br>
-            
-            feedback by <span class="tgreen">Admin</span> | Date:30 Nov 1999 &nbsp;|&nbsp;  <a href="/testimonial/">View More</a>  </p></div>   
-            <div class="cb"></div>
-        </div>
-
-
-            <div class="imgtxtcont2">
-            <div class="txthold" style="width:300px">
-           
-            <p class="caption" style="margin:0px;">Just received goods that I ordered from Dogspot.in yesterday. Extremely impressed with the overall experience of ordering, the packaging and the delivery speed. Felt wonderful and kudos to the team !!!!!<br><br>
-            
-            feedback by <span class="tgreen">Admin</span> | Date:30 Nov 1999 &nbsp;|&nbsp;  <a href="/testimonial/">View More</a>  </p></div>   
-            <div class="cb"></div>
-        </div>
+
+          <p style="text-align:left">Very much satisfied with the quality of dog food, excellent packaging and super fast delivery. Continue giving more discounts and offers. Keep up the wonderful customer service.</p>
+          <p style="text-align:left">Feedback by: S VENKATESH PRASAD<br>
+            Date:21 May 2013  | <a href="/testimonial/">View More</a></p>
+          <p>..............................................................................</p>
+          
+                        
+
+
+
+          <p style="text-align:left">Am with Dogspot since 6 months, This is a one stop place for every thing, 90% of these products you cannot imagine finding it outside in shops. Hats off to you guys for doing wonderful job. Delivery is also on time. Rock on :)</p>
+          <p style="text-align:left">Feedback by: hari<br>
+            Date:20 May 2013  | <a href="/testimonial/">View More</a></p>
+          <p>..............................................................................</p>
+          
+                        
+
+
+
+          <p style="text-align:left">Thank u for the Excellent and prompt Service.I appreciate your professional approach and user friendly site.</p>
+          <p style="text-align:left">Feedback by: Anonymous<br>
+            Date:16 May 2013  | <a href="/testimonial/">View More</a></p>
+          <p>..............................................................................</p>
+          
+                        
+
+
+
+          <p style="text-align:left">I am very happy with the quick response and delivery of the product and I must say you have really essential aquarium products, which is rarely available in Indian market.</p>
+          <p style="text-align:left">Feedback by: Nafis Ahmed<br>
+            Date:14 May 2013  | <a href="/testimonial/">View More</a></p>
+          <p>..............................................................................</p>
+          
+                        
+
+
+
+          <p style="text-align:left">User friendly site,  Proffesiobally managed Products, Fast delivery with good Customer support. Best online portal for Dog lovers. Want you to expand your scope to other areas, as we have very few professional online sstores.</p>
+          <p style="text-align:left">Feedback by: Anonymous<br>
+            Date:11 May 2013  | <a href="/testimonial/">View More</a></p>
+          <p>..............................................................................</p>
+          
+                        
+
+
+
+          <p style="text-align:left">Quick delivery. very pleased with the speed at which my dog food was delivered..will place more orders definitely..</p>
+          <p style="text-align:left">Feedback by: Anonymous<br>
+            Date:11 May 2013  | <a href="/testimonial/">View More</a></p>
+          <p>..............................................................................</p>
+          
+                        
+
+
+
+          <p style="text-align:left">such a awsome online storequality as per customer satisfaction....</p>
+          <p style="text-align:left">Feedback by: Jayant Kumar Singh<br>
+            Date:10 May 2013  | <a href="/testimonial/">View More</a></p>
+          <p>..............................................................................</p>
+          
+                        
+
+
+
+          <p style="text-align:left">Thank you for quickly arranging for my order to be modified, delivering the order promptly, and including a free sample treats bag with my order. Wonderful customer service!</p>
+          <p style="text-align:left">Feedback by: Anonymous<br>
+            Date:10 May 2013  | <a href="/testimonial/">View More</a></p>
+          <p>..............................................................................</p>
+          
+                        
+
+
+
+          <p style="text-align:left">Good quality Products. Reasonable Rates,Fast delivery.Perfect shop for dog lovers.</p>
+          <p style="text-align:left">Feedback by: Preeti Smith<br>
+            Date:02 May 2013  | <a href="/testimonial/">View More</a></p>
+          <p>..............................................................................</p>
+          
+                        
+
+
+
+          <p style="text-align:left">Great Service. This is the best dog portal in india.Delivered my dog products in 48 hours.</p>
+          <p style="text-align:left">Feedback by: Anonymous<br>
+            Date:29 Apr 2013  | <a href="/testimonial/">View More</a></p>
+          <p>..............................................................................</p>
+          
+                        
+
+
+
+          <p style="text-align:left">I love dogs and DogSpot</p>
+          <p style="text-align:left">Feedback by: Anonymous<br>
+            Date:25 Apr 2013  | <a href="/testimonial/">View More</a></p>
+          <p>..............................................................................</p>
+          
+                        
+
+
+
+          <p style="text-align:left">I just received my first delivery from you guys, and i must say...you're awesome. Very prompt follow up and delivery. Even though, i wasn't available to receive the package, you quickly arranged for a second attempt, which came at the appointed time. I'm so happy that an Indian business is offering such good customer service. Keep it up.</p>
+          <p style="text-align:left">Feedback by: Vishal Bharathraj<br>
+            Date:18 Apr 2013  | <a href="/testimonial/">View More</a></p>
+          <p>..............................................................................</p>
+          
+                        
+
+
+
+          <p style="text-align:left">One of the best shop online for the dog lovers. Excellent service and excellent products...Will shop again...Keep it up</p>
+          <p style="text-align:left">Feedback by: Anonymous<br>
+            Date:17 Apr 2013  | <a href="/testimonial/">View More</a></p>
+          <p>..............................................................................</p>
+          
+                        
+
+
+
+          <p style="text-align:left">Excellent Service and huge variety of products.</p>
+          <p style="text-align:left">Feedback by: chandrasen<br>
+            Date:08 Apr 2013  | <a href="/testimonial/">View More</a></p>
+          <p>..............................................................................</p>
+          
+                        
+
+
+
+          <p style="text-align:left">Close to my 25th order now with DogSpot...I have quit going local pet shops...This is the best dog Portal  in India...Good products,quick delivery....Wish would have more variety in the small pets category and Dog supplements...cheers</p>
+          <p style="text-align:left">Feedback by: neel<br>
+            Date:08 Apr 2013  | <a href="/testimonial/">View More</a></p>
+          <p>..............................................................................</p>
+          
+                        
+
+
+
+          <p style="text-align:left">products quality is very good and safely shipped. very fast delivery</p>
+          <p style="text-align:left">Feedback by: sai sharath<br>
+            Date:04 Apr 2013  | <a href="/testimonial/">View More</a></p>
+          <p>..............................................................................</p>
+          
+                        
+
+
+
+          <p style="text-align:left">wonderfull one window shop for pets, pets lover. Pets, food and accessories under one roof</p>
+          <p style="text-align:left">Feedback by: Anonymous<br>
+            Date:01 Apr 2013  | <a href="/testimonial/">View More</a></p>
+          <p>..............................................................................</p>
+          
+                        
+
+
+
+          <p style="text-align:left">Really nice products and very beautiful, Nice collection of dog accessories.</p>
+          <p style="text-align:left">Feedback by: Anonymous<br>
+            Date:24 Mar 2013  | <a href="/testimonial/">View More</a></p>
+          <p>..............................................................................</p>
+          
+                        
+
+
+
+          <p style="text-align:left">Very glad!! someone cares for my companions as much as I do.</p>
+          <p style="text-align:left">Feedback by: Ashwin<br>
+            Date:14 Mar 2013  | <a href="/testimonial/">View More</a></p>
+          <p>..............................................................................</p>
+          
+                        
+
+
+
+          <p style="text-align:left">great site with useful products for pets... my dogs love it</p>
+          <p style="text-align:left">Feedback by: Pawan Pai<br>
+            Date:13 Mar 2013  | <a href="/testimonial/">View More</a></p>
+          <p>..............................................................................</p>
+          
+                        
+
+
+
+          <p style="text-align:left">Thank you for fast delivery. My kitten was sick and I was desperately looking for cat food  which was not available in my city. Thanks for excellent service.</p>
+          <p style="text-align:left">Feedback by: Anonymous<br>
+            Date:13 Mar 2013  | <a href="/testimonial/">View More</a></p>
+          <p>..............................................................................</p>
+          
+                        
+
+
+
+          <p style="text-align:left">Your product Zorb it up has proved to be very useful. Your delivery is also very prompt. Thanks a lot. Indrani Roy</p>
+          <p style="text-align:left">Feedback by: Indrani Roy<br>
+            Date:06 Mar 2013  | <a href="/testimonial/">View More</a></p>
+          <p>..............................................................................</p>
+          
+                        
+
+
+
+          <p style="text-align:left">Very good products at our doorstep. Almost every thing is available here.</p>
+          <p style="text-align:left">Feedback by: sibaram swain<br>
+            Date:05 Mar 2013  | <a href="/testimonial/">View More</a></p>
+          <p>..............................................................................</p>
+          
+                        
+
+
+
+          <p style="text-align:left">I like your service very much... products as well as... please include Maharashtra shows photos in your photos... thanking you... keep it up... Best of luck... DOG LOVER... D. G. RANE</p>
+          <p style="text-align:left">Feedback by: Anonymous<br>
+            Date:04 Mar 2013  | <a href="/testimonial/">View More</a></p>
+          <p>..............................................................................</p>
+          
+                        
+
+
+
+          <p style="text-align:left">Amazing Portal ! Great collection of quality products at one stop. Lightning delivery ! Thumbs up...</p>
+          <p style="text-align:left">Feedback by: Ashish tandon<br>
+            Date:03 Mar 2013  | <a href="/testimonial/">View More</a></p>
+          <p>..............................................................................</p>
+          
+                        
+
+
+
+          <p style="text-align:left">Reliable seller and economical for people to buy</p>
+          <p style="text-align:left">Feedback by: Anonymous<br>
+            Date:28 Feb 2013  | <a href="/testimonial/">View More</a></p>
+          <p>..............................................................................</p>
+          
+                        
+
+
+
+          <p style="text-align:left">Its really great... Happy with the service:-)Just want dog shoes also to be available</p>
+          <p style="text-align:left">Feedback by: Anonymous<br>
+            Date:17 Feb 2013  | <a href="/testimonial/">View More</a></p>
+          <p>..............................................................................</p>
+          
+                        
+
+
+
+          <p style="text-align:left">I am happy with d fast delivery and products. My pets enjoying it :-)</p>
+          <p style="text-align:left">Feedback by: geetanjali<br>
+            Date:10 Feb 2013  | <a href="/testimonial/">View More</a></p>
+          <p>..............................................................................</p>
+          
+                        
+
+
+
+          <p style="text-align:left">Very valuable site for pet lovers.</p>
+          <p style="text-align:left">Feedback by: Anonymous<br>
+            Date:08 Feb 2013  | <a href="/testimonial/">View More</a></p>
+          <p>..............................................................................</p>
+          
+                        
+
+
+
+          <p style="text-align:left">Speed Service, Original and Fresh products, Well Communicated and Super Service.</p>
+          <p style="text-align:left">Feedback by: Anonymous<br>
+            Date:08 Feb 2013  | <a href="/testimonial/">View More</a></p>
+          <p>..............................................................................</p>
+          
+                        
+
+
+
+          <p style="text-align:left">Finally I got all my items, good prices and great deals. DogSpot will be my only site to shop.</p>
+          <p style="text-align:left">Feedback by: Gopi nath<br>
+            Date:06 Feb 2013  | <a href="/testimonial/">View More</a></p>
+          <p>..............................................................................</p>
+          
+                        
+
+
+
+          <p style="text-align:left">Items got delivered yesterday. I am very happy with the service by dogspot. Thanks for the republic day offer by the way. Waiting for more :):)</p>
+          <p style="text-align:left">Feedback by: Naveen V S<br>
+            Date:05 Feb 2013  | <a href="/testimonial/">View More</a></p>
+          <p>..............................................................................</p>
+          
+                        
+
+
+
+          <p style="text-align:left">I am very happy with your fast delivery. Rajan Kumar</p>
+          <p style="text-align:left">Feedback by: Rajan Kumar<br>
+            Date:28 Jan 2013  | <a href="/testimonial/">View More</a></p>
+          <p>..............................................................................</p>
+          
+                        
+
+
+
+          <p style="text-align:left">Very good site keep it up.</p>
+          <p style="text-align:left">Feedback by: RAJESH<br>
+            Date:25 Jan 2013  | <a href="/testimonial/">View More</a></p>
+          <p>..............................................................................</p>
+          
+                        
+
+
+
+          <p style="text-align:left">Thank you DogSpot for attending to my complaint so promptly and for replacing free of cost the hanging door plate that i had ordered. I am quite impressed with the quality of products received from your site and wish your team the best. Cheers!Tiakala Ao</p>
+          <p style="text-align:left">Feedback by: Tiakala<br>
+            Date:23 Jan 2013  | <a href="/testimonial/">View More</a></p>
+          <p>..............................................................................</p>
+          
+                        
+
+
+
+          <p style="text-align:left">We went to 6th IIPTF and loved the complimentary dog badges you provided. Thanks for the photograph too (special thanks to Praveen, hope I got the spelling right). Always liked Dogspot. Purabi D Chowdhury (purabidc@gmail.com)</p>
+          <p style="text-align:left">Feedback by: Anonymous<br>
+            Date:23 Jan 2013  | <a href="/testimonial/">View More</a></p>
+          <p>..............................................................................</p>
+          
+                        
+
+
+
+          <p style="text-align:left">Very good and prompt customer service. I stopped buying products from shops. Amazing experience and very cheap compared to other pet shops</p>
+          <p style="text-align:left">Feedback by: Rajesh<br>
+            Date:22 Jan 2013  | <a href="/testimonial/">View More</a></p>
+          <p>..............................................................................</p>
+          
+                        
+
+
+
+          <p style="text-align:left">Great and professional service, very fast delivery. For sure the best place to shop online in India for pet goods! And don't let the name confuse you: they have a great selection of products for cats!</p>
+          <p style="text-align:left">Feedback by: Rein Bollen<br>
+            Date:18 Jan 2013  | <a href="/testimonial/">View More</a></p>
+          <p>..............................................................................</p>
+          
+                        
+
+
+
+          <p style="text-align:left">This is a great site with great offers! The service is very fast and reliable... great experience!!!!</p>
+          <p style="text-align:left">Feedback by: shubhi verma<br>
+            Date:14 Jan 2013  | <a href="/testimonial/">View More</a></p>
+          <p>..............................................................................</p>
+          
+                        
+
+
+
+          <p style="text-align:left">Speed of service is great. Thanks a ton</p>
+          <p style="text-align:left">Feedback by: anonymous<br>
+            Date:12 Jan 2013  | <a href="/testimonial/">View More</a></p>
+          <p>..............................................................................</p>
+          
+                        
+
+
+
+          <p style="text-align:left">Thanks a lot. Very fast service and prompt response over the phone... Keep up the good work... please check if u can make grain free dog food available in India.</p>
+          <p style="text-align:left">Feedback by: Anonymous<br>
+            Date:12 Jan 2013  | <a href="/testimonial/">View More</a></p>
+          <p>..............................................................................</p>
+          
+                        
+
+
+
+          <p style="text-align:left">Thank you soo much!! Loved the I love Dogs badge complimentary ...:) :)</p>
+          <p style="text-align:left">Feedback by: shafalee basu<br>
+            Date:10 Jan 2013  | <a href="/testimonial/">View More</a></p>
+          <p>..............................................................................</p>
+          
+                        
+
+
+
+          <p style="text-align:left">best online pet shopping site in india or you can say in world</p>
+          <p style="text-align:left">Feedback by: romil<br>
+            Date:10 Jan 2013  | <a href="/testimonial/">View More</a></p>
+          <p>..............................................................................</p>
+          
+                        
+
+
+
+          <p style="text-align:left">Order dispatched on the same day of booking and got delivered soon, very happy with the service. keep it up.</p>
+          <p style="text-align:left">Feedback by: Naveen V S<br>
+            Date:09 Jan 2013  | <a href="/testimonial/">View More</a></p>
+          <p>..............................................................................</p>
+          
+                        
+
+
+
+          <p style="text-align:left">Products are cheap and get deliver within time.</p>
+          <p style="text-align:left">Feedback by: Anonymous<br>
+            Date:29 Dec 2012  | <a href="/testimonial/">View More</a></p>
+          <p>..............................................................................</p>
+          
+                        
+
+
+
+          <p style="text-align:left">Good,i have ordered dog spot aprox 3 times and all the time they made the delivery perfect, good show keep going</p>
+          <p style="text-align:left">Feedback by: srini<br>
+            Date:24 Dec 2012  | <a href="/testimonial/">View More</a></p>
+          <p>..............................................................................</p>
+          
+                        
+
+
+
+          <p style="text-align:left">Unbelievable but astonishing speed of<br>
+service...Great.</p>
+          <p style="text-align:left">Feedback by: anurag<br>
+            Date:20 Dec 2012  | <a href="/testimonial/">View More</a></p>
+          <p>..............................................................................</p>
+          
+                        
+
+
+
+          <p style="text-align:left">The Fastest Delivery done with good product have stopped buying pet products from other sites only from dog spot.</p>
+          <p style="text-align:left">Feedback by: Sathya Prabha<br>
+            Date:19 Dec 2012  | <a href="/testimonial/">View More</a></p>
+          <p>..............................................................................</p>
+          
+                        
+
+
+
+          <p style="text-align:left">Good Service and products...!</p>
+          <p style="text-align:left">Feedback by: Jazz<br>
+            Date:18 Dec 2012  | <a href="/testimonial/">View More</a></p>
+          <p>..............................................................................</p>
+          
+                        
+
+
+
+          <p style="text-align:left">I am very happy with your fast service Thanks.</p>
+          <p style="text-align:left">Feedback by: Aman Deep Singh<br>
+            Date:18 Dec 2012  | <a href="/testimonial/">View More</a></p>
+          <p>..............................................................................</p>
+          
+                        
 
 </marquee>
-
-
-<div class="cb"></div> 
-<div class="hrline"></div> </td>
-                </tr>
-           		<tr>
-                	<td>
-                    <h2>your feedback please</h2>  <div class="vs5"></div>  <p align="left"><script type="text/javascript" src="/js/shaajax2.js"></script>
-<script src="/js/ajax.js" type="text/javascript"></script>
-<!--[if lt IE 7]>
-<script type="text/javascript" src="/new/js/jquery/jquery.js"></script>
-<script type="text/javascript" src="/new/js/jquery/jquery.dropdown.js"></script>
-<![endif]-->
-<!-- breadcrumb -->
-</p><div style="width:300px;">   <!-- main container onsubmit="return submitForms()"-->
-   <form id="formArt" name="formArt" method="POST" action="">
-     <div id="loadingMsg"></div>
-     <div class="newtestimonialbox">
-  <textarea name="comments" id="comments" rows="2" cols="19" class="required textWrite" onfocus="if(this.value == 'Enter Your Email Address and Feedback here') this.value='';" onblur="if(this.value == '') this.value='Enter Your Email Address and Feedback here';" style="width: 227px; margin: 0px; padding: 4px; height: 54px; border: 1px solid silver; color: gray; font-family: Arial; font-size: 11px;">Enter Your Email Address and Feedback here</textarea>
-  
-  </div>
-     <div align="right" style=" padding-top:48px;">
-	<input type="button" class="write_testimonial" name="submit" id="submit" align="bottom" value="Submit" onclick="ShaAjaxJquary('/testimonial/insertcomment.php','#ucheck','','formArt', 'POST' ,'', 'Saving...','REP');testmnl();">
-	<input type="hidden" name="submit" id="submit" value="submit">
-	</div>
-	</form> 
-<script>
-function testmnl(){
-	document.getElementById('comments').value='Enter Your Email Address and Feedback here';
-}
-</script>
-<div id="ucheck" style="font-size:14px; color:#87A70E; font-weight:bold;" class="vs20"></div>
-
-  <!-- main container -->
 </div>
 
-<p></p>
-                    </td>
-                </tr>
-           		
-              </tbody></table>
+        <script type="text/javascript" src="/js/shaajax2.1.js"></script>
+<script src="/js/ajax.js" type="text/javascript"></script>
+<script language="javascript">
+function validateComment1221(){
+	if (document.formArt.comments.value == "" || document.formArt.comments.value == "Enter Your Feedback here"){
+		document.getElementById('comments').style.borderColor = "red";
+		document.formArt.comments.focus();
+		document.getElementById('vali').style.display="block";
+		
+		}
+		else {
+		document.getElementById('vali').style.display="none";		
+		var feedback= document.formArt.comments.value;
+		ShaAjaxJquary("/testimonial/insertcomment1.php?feedback1="+feedback+"", "#mistesti", '', 'formArt', 'GET', '#loadingtesti', '<img src="/images/indicator.gif" />','REP');
+		document.formArt.comments.value = "";	
+		
+	}
+}
+	</script>
 
-			   
-             </div><!-- right container -->          
-             <div class="cb"></div>
-    <!-- footer -->
-            <div class="vs20"></div>
-            <div class="hrline"></div>
-            <div class="vs20"></div>
-  <!-- footer2 -->
-  <div>
-   <div class="fr" style="width:150px"><a href="http://www.dmca.com/" title="DMCA" target="_blank"> <img src="http://images.dmca.com/Badges/dmca_copyright_protected150c.png" alt="DMCA.com"></a></div>
+
+<div class="feedback" style="text-align:left">
+          <h3>Your Feedback Please</h3>
+          <form id="formArt" name="formArt" action="">
+                     
+ <textarea name="comments" style="width:220px;height:71px;" placeholder="Enter Your Feedback here" id="comments"></textarea><div class="vs40"></div>
+   <div id="loadingtesti"></div>   <div id="mistesti"></div>
+
+ <div id="vali" style="display:none;"><font color="#CC0000">Please enter your feedback</font></div>
+  <a style="padding-left:100px;" href="javascript:validateComment1221()" onclick="_gaq.push(['_trackPageview', 'http://www.dogspot.in/testimonial/']);"><img src="/new/common/images/button-submit.jpg" style="margin-top:10px;"></a>
+	</form>
+    
+        </div>
+
+ 
+      </div>
+     <div style="background-color:#ffffff">
+      <div class="fb-like-box" data-href="http://www.facebook.com/indogspot" data-width="252" data-show-faces="true" data-stream="false" data-border-color="#FFFFFF" data-header="true"></div></div>
+    </div>
+  </div>
+  <div id="footerGreen">
+    <div class="fr" style="width:150px"><a href="http://www.dmca.com/" title="DMCA" target="_blank"> <img src="http://images.dmca.com/Badges/dmca_copyright_protected150c.png" alt="DMCA.com"></a></div>
     <p align="left">
     
     Views and Articles are not endorsed by DogSpot.in. DogSpot does not assume responsibility or liability for any Comment or for any claims, damages, or losses resulting from any use of the Site or the materials contained therein. All contributions and Articles are owned by DogSpot.in. </p>
-   
-    
-    </div>
- <!-- Testemonial Programme Changes Ends Here....................................................................................   -->      
-    <!-- footer 2-->
-    <div class="cb"></div>
+  </div>
 </div><!-- main container -->
+<!-- popup Box Start--> 
+<!-- popup Box END-->
+<script type="text/javascript">
+adroll_adv_id = "MHSX72GMJNG3XDYEPAV745";
+adroll_pix_id = "GKKCEQKQPNCLRPNCNXRH6F";
+(function () {
+var oldonload = window.onload;
+window.onload = function(){
+__adroll_loaded=true;
+var scr = document.createElement("script");
+var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+scr.setAttribute('async', 'true');
+scr.type = "text/javascript";
+scr.src = host + "/j/roundtrip.js";
+((document.getElementsByTagName('head') || [null])[0] ||
+document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+if(oldonload){oldonload()}};
+}());
+</script>
+<!-- ClickTale Bottom part -->
+<div id="ClickTaleDiv" style="display: none;"></div>
+<script type="text/javascript">
+if(document.location.protocol!='https:')
+  document.write(unescape("%3Cscript%20src='http://s.clicktale.net/WRd.js'%20type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+if(typeof ClickTale=='function') ClickTale(16534,0.0112,"www14");
+</script>
+<!-- ClickTale end of Bottom part -->
+<script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:")+"//"+"d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-4.newrelic.com","46bbdeea88","1093870","YVQHMBcDXktZBhJfClgeMBYMTUNQVxVLRgpaWAYdSxJYSA==",0,357,new Date().getTime(),"","","","",""]);</script>
 
 
-</div></body></html>
+<script type="text/javascript" src="https://d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js"></script></body></html>
