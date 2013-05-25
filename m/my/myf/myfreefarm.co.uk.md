@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myfreefarm.co.uk privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122131857id_/http%3A//upjers.com/privacy%3Flang%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfreefarm.co.uk privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525215451id_/http%3A//upjers.com/privacy%3Flang%3Den) for the most accurate reproduction.*
 
 # Data Privacy Statement
 
