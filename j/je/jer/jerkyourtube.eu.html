@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the jerkyourtube.eu privacy policy that was archived on 2012-11-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121122170026id_/http%3A//www.jerkyourtube.eu/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jerkyourtube.eu privacy policy that was archived on 2013-05-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130526001605id_/http%3A//www.jerkyourtube.eu/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 <title>JerkYourTube</title>
@@ -142,12 +142,91 @@
             top: -1px;
             left: 100px;
         }
-
+		#overlayEffect{display:none;position:fixed;opacity:0.7;height:100%;width:100%;top:0;left:0;background:-moz-linear-gradient(rgba(11,11,11,0.1),rgba(11,11,11,0.6)) repeat-x rgba(11,11,11,0.2);background:-webkit-gradient(linear,0% 0%,0% 100%,from(rgba(11,11,11,0.1)),to(rgba(11,11,11,0.6))) repeat-x rgba(11,11,11,0.2);z-index:1;}
+		#popupContainer
+		{
+			position:fixed;
+			left:50%;
+			top:50%;
+			width:500px;
+			background:#000;
+			border:5px solid #cecece;
+			z-index:2;
+			padding:10px;
+			border: 1px solid rgba(33, 33, 33, 0.6);
+			-moz-box-shadow: 0 0 2px rgba(255, 255, 255, 0.6) inset;
+			-webkit-box-shadow: 0 0 2px rgba(255, 255, 255, 0.6) inset;
+			box-shadow: 0 0 2px rgba(255, 255, 255, 0.6) inset;
+		}
+		#popupContainer h1
+		{
+			text-align:left;
+			text-shadow: 1px 1px 0 rgba(255, 255, 255, 0.6);
+			color:#090;
+			font:22px;
+			border-bottom:1px dotted #D3D3D3;
+			padding: 5px 2px;
+			margin-bottom:20px;
+		}
+		#popupContainer p
+		{
+			font-size:16px;
+			line-height:1.4;
+			text-align: center;
+		}
+		#close
+		{
+			background:url(images/x.png) no-repeat center center;
+			cursor:pointer;
+			width:25px;
+			height:26px;
+			position:fixed;
+			z-index:3200;
+			position:absolute;
+			top:-25px;
+			right:-22px;
+		}
+		.hidden{display:none;}
     
   </style>
 <!-- !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! -->
 
 
+<script>
+$(function(){
+	var popup=false;
+	$(".button_dis").click(function(){
+		if(popup==false){
+			$("#overlayEffect").fadeIn("slow");
+			$("#popupContainer").fadeIn("slow");
+			$("#close").fadeIn("slow");
+			center();
+			popup=true;
+		}
+	});
+	$("#close").click(function(){
+		hidePopup();
+	});
+	$("#overlayEffect").click(function(){
+		hidePopup();
+	});
+	function center(){
+		var windowWidth=document.documentElement.clientWidth;
+		var windowHeight=document.documentElement.clientHeight;
+		var popupHeight=$("#popupContainer").height();
+		var popupWidth=$("#popupContainer").width();
+		$("#popupContainer").css({"position":"absolute","top":windowHeight/2-popupHeight/2,"left":windowWidth/2-popupWidth/2});
+	}	
+	function hidePopup(){
+		if(popup==true){
+			$("#overlayEffect").fadeOut("slow");
+			$("#popupContainer").fadeOut("slow");
+			$("#close").fadeOut("slow");
+			popup=false;
+		}
+	}
+},jQuery);
+</script>
 <script language="javascript" type="text/javascript">
 function showVids1(value){
  if(value == true){
@@ -190,6 +269,23 @@ function showVids1(value){
 
 </head>
 <body>
+
+<div id="overlayEffect">
+</div>
+<div id="popupContainer" class="hidden">
+		<a id="close" class="hidden" title="close popup"></a>
+<table align="center" width="200" style="width:100%;"><tbody><tr><td>
+<p>Upgrade to Premium to view HD videos and lots more!</p>
+<center>
+<div>
+<!--<input type="button" name="Upgrade" value="Upgrade NOW!" onClick="opener.location.href='video_limit_upgrade_new.php'; window.close();"/> //-->
+<a href="http://www.jerkyourtube.eu/video_limit_upgrade_new.php"><img src="http://www.jerkyourtube.eu/images/upgrade1.png" alt="" style="cursor:pointer;"></a>
+</div>
+</center>
+</td>
+</tr>
+</tbody></table>
+</div>
 
 <div style="background: url(&quot;http://www.gayforit.eu/images/network_bar_bg.png&quot;) repeat-x scroll 0pt 0pt transparent; overflow: hidden; position: relative; -moz-background-inline-policy: continuous; width: 100%; height: 20px;" id="gfi_net_bar">
 	
@@ -255,22 +351,22 @@ function showVids1(value){
     </form>
 	</div><!-- end login //-->
 
-	<div id="search"><!-- search container //-->
+		<div id="search"><!-- search container //-->
 		  <form action="http://www.jerkyourtube.eu/search/" method="post" name="searchForm" id="searchForm"><!-- form //-->
 			<div class="search_rl"><img src="http://www.jerkyourtube.eu/images/search_left.gif" alt="search left"></div>
 	
-				<div id="search_form"><!-- search form //-->
-                <!--<img src="http://www.jerkyourtube.eu/images/new.png" alt="New" style="float:left; margin-left:95px; margin-top:-2px;"/>-->
-				<a href="/advance_search.php" style="background:url(http://www.jerkyourtube.eu/images/button-9.png) no-repeat; display:block; height:20px; width:129px; float:left; text-align:left;  margin-top:2px; margin-left:115px;" onmouseover="ddrivetip('<b>TRY THIS NEW FEATURE:</b><br/>(a) Search within channels<br/>(b) Minimum runtime<br/>(c) Multiple Keywords<br/>(d) Sort by rating, views &amp; more')" onmouseout="hideddrivetip()"><span style=" color:#fff; text-decoration:none; font-family:Arial, Helvetica, sans-serif; font-weight:bold; font-size:11px; text-shadow:0px 1px 1px #000; padding-left:17px; line-height:20px;">Advanced Search</span></a>
-				<input size="40" tabindex="1" maxlength="22" name="search_id" value="" class="s_for">
-				
+                    <div id="search_form"><!-- search form //-->
+                                <!--<img src="http://www.jerkyourtube.eu/images/new.png" alt="New" style="float:left; margin-left:95px; margin-top:-2px;"/>-->
+				<input type="submit" name="btn_submit" value=" " class="search_button">				
+				<input size="40" tabindex="1" maxlength="22" name="search_id" value="" class="s_for" style="float:left;margin:2px;">
+				<input name="fld_scode" id="fld_scode" type="hidden"> 				
 
 				<input type="hidden" value="search_videos" name="search_type">
 
 				<input type="hidden" value="xrp" name="usercheck">
-				<input name="fld_scode" id="fld_scode" type="hidden"> 
-				<input type="submit" name="btn_submit" value=" " class="search_button">
-				</div> <!--  end search form//-->
+
+                <a href="/advance_search.php" style="background:url(http://www.jerkyourtube.eu/images/button-9.png) no-repeat; display:block; height:20px; width:129px; float:left; text-align:center;  margin-top:2px; margin-left:5px;" onmouseover="ddrivetip('<b>TRY THIS NEW FEATURE:</b><br/>(a) Search within channels<br/>(b) Minimum runtime<br/>(c) Multiple Keywords<br/>(d) Sort by rating, views &amp; more')" onmouseout="hideddrivetip()"><span style=" color:#fff; text-decoration:none; font-family:Arial, Helvetica, sans-serif; font-weight:bold; font-size:11px; text-shadow:0px 1px 1px #000; line-height:20px;">Super Search</span></a>
+                				</div> <!--  end search form//-->
 				
 			<div class="search_rl"><img src="http://www.jerkyourtube.eu/images/search_right.gif" alt="search right"></div>
 			
