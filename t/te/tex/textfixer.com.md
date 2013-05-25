@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the textfixer.com privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022170207id_/http%3A//www.textfixer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the textfixer.com privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525070309id_/http%3A//textfixer.com/privacy) for the most accurate reproduction.*
 
 # TextFixer.com - Privacy Policy
 
@@ -6,7 +6,7 @@ This is the web site of TextFixer.com. We can be reached using the [contact form
 
 For each visitor to our Web page, our Web server automatically recognizes general statistical information.
 
-We collect aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit. We do save or are interested in the type of data that you are manipulating and since the vast majority of that kind of activity occurs on the client side - the specifics of that data are not known to us.
+We collect aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit. We do not save or are interested in the type of data that you are manipulating and since the vast majority of that kind of activity occurs on the client side - the specifics of that data are not known to us.
 
 The information we collect is used to improve the content of our Web pages.
 
