@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the magazines.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223094034id_/http%3A//www.magazines.com/help/privacy-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magazines.com privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525044241id_/http%3A//www.magazines.com/help/privacy-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
-# Magazines.com
+# Privacy Policy | Magazines.com
 
 Your privacy is important to us. To better protect your privacy we provide this privacy policy explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we link to it from our home page and other pages of our web site. 
 
@@ -38,7 +38,7 @@ We use the information you provide about yourself when placing an order to compl
 
 PAID CONSUMER MAGAZINES: Magazines.com does not share email addresses with other parties, including the publishers. Magazines.com does not provide any other personal information to any other businesses (besides the publisher of the magazine to which you've subscribed). 
 
-FREE TRADE MAGAZINES: Magazines.com does not share your email address with any other parties, besides the publisher who requires an email address as part of the qualification process. Occasionally, we may provide personally identifiable information, voluntarily provided on free trade magazine qualification forms, to third parties who provide products and services that Magazines.com believes readers may be interested in purchasing, obtaining, or learning more about. To request that your information not be shared with third parties, please [contact us](http://www.magazines.com/on/demandware.store/Sites-mags-us-Site/default/CustomerService-ContactUs). 
+FREE TRADE MAGAZINES: Magazines.com does not share your email address with any other parties, besides the publisher who requires an email address as part of the qualification process. Occasionally, we may provide personally identifiable information, voluntarily provided on free trade magazine qualification forms, to third parties who provide products and services that Magazines.com believes readers may be interested in purchasing, obtaining, or learning more about. To request that your information not be shared with third parties, please [contact us](https://www.magazines.com/on/demandware.store/Sites-mags-us-Site/default/CustomerService-ContactUs). 
 
 ### Cookies
 
@@ -64,4 +64,4 @@ To protect your privacy and security, we will also take reasonable steps to veri
 
 ### How To Contact Us
 
-If you ever have any questions about what information we collect and how we use it, [please contact us](http://www.magazines.com/on/demandware.store/Sites-mags-us-Site/default/CustomerService-ContactUs). 
+If you ever have any questions about what information we collect and how we use it, [please contact us](https://www.magazines.com/on/demandware.store/Sites-mags-us-Site/default/CustomerService-ContactUs). 
