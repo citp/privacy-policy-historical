@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the simplyswim.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017151512id_/http%3A//www.simplyswim.com/docs/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplyswim.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526002703id_/http%3A//www.simplyswim.com/docs/Privacy.aspx) for the most accurate reproduction.*
 
-# Simply Swim - Website Privacy Policy
+# Website Privacy Policy
 
 ##  Privacy Policy
 
@@ -35,7 +35,7 @@ Owing to the global nature of the Internet infrastructure, the information you p
 
 ###  How to contact Us
 
-We welcome your views about our website and our privacy policy. If you would like to contact us with any queries or comments please send an e-mail to customer.services@thesimplygroup.com or from the UK call us on 0844 567 7070 or internationally on +44 1795 597250.
+We welcome your views about our website and our privacy policy. If you would like to contact us with any queries or comments please send an e-mail to CustomerCare@TheSimplyGroup.com or from the UK call us on 0844 567 7070 or internationally on +44 1795 597250.
 
 ## What information do we collect and how do we use it?
 
