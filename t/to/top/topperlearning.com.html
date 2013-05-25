@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the topperlearning.com privacy policy that was archived on 2012-09-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120920074551id_/http%3A//www.topperlearning.com/home/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the topperlearning.com privacy policy that was archived on 2013-05-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130525235612id_/http%3A//www.topperlearning.com/home/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 
@@ -28,14 +28,16 @@
 <meta name="description" content="TopperLearning.com provides free NCERT Maths solutions, NCERT books including solutions of NCERT textbooks class 9 and gives information on NCERT 10th, board papers, CBSE model test papers, guess papers, NCERT XII, sample papers for class 10, special solved questions, study material, videos, business studies, topper sample papers English and online tutors.">
 
 <meta name="keywords" content="NCERT, NCERT Class, NCERT Solutions, Maths NCERT, NCERT Class 9, NCERT Maths, NCERT Class X, NCERT 10th, NCERT Question, NCERT Sample Papers, NCERT Book Solution, NCERT Books Solutions, Maths NCERT Solution, Maths NCERT Solutions, NCERT Questions, NCERT Paper, NCERT Question Paper, NCERT Question Papers">
-<script type="text/javascript" async="" src="https://api.mixpanel.com/site_media/js/api/mixpanel.2.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" async="" src="https://api.mixpanel.com/site_media/js/api/mixpanel.2.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
     var siteUrl = 'http://www.topperlearning.com/';
 </script>
-<link rel="stylesheet" type="text/css" href="/css/stylesheet.1.2.css"><link rel="stylesheet" type="text/css" href="/css/jquery-ui-themeroller/theme/ui.all.css"><link rel="stylesheet" type="text/css" href="/css/carousel/carousel.css"><link rel="stylesheet" type="text/css" href="/css/contentslider.css"><script type="text/javascript" src="http://www.google.com/jsapi"></script>
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.18/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="/css/stylesheet.1.2.css"><link rel="stylesheet" type="text/css" href="/css/jquery-ui-themeroller/theme/ui.all.css"><link rel="stylesheet" type="text/css" href="/css/carousel/carousel.css"><link rel="stylesheet" type="text/css" href="/css/contentslider.css">
+    <script type="text/javascript" src="http://www.google.com/jsapi"></script>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.18/jquery-ui.min.js"></script>
+    
 
-<script type="text/javascript" src="/js/jquery.validate.js"></script><script type="text/javascript" src="/js/validation.js"></script><script type="text/javascript" src="/js/facebook.1.js"></script><script type="text/javascript" src="/js/topper_functions.js"></script><script type="text/javascript" src="/js/topper_new_functions.js"></script><script type="text/javascript" src="/js/contentslider.js"></script><script type="text/javascript" src="/js/easyscroll.js"></script><script type="text/javascript" src="/js/carousel/jquery.tinycarousel.min.js"></script>
+<script type="text/javascript" src="/js/jquery.validate.js"></script><script type="text/javascript" src="/js/validation.js"></script><script type="text/javascript" src="/js/topper_functions.js"></script><script type="text/javascript" src="/js/topper_new_functions.js"></script><script type="text/javascript" src="/js/contentslider.js"></script><script type="text/javascript" src="/js/easyscroll.js"></script><script type="text/javascript" src="/js/carousel/jquery.tinycarousel.min.js"></script>
 <script language="JavaScript" type="text/javascript">
 $(document).ready(function() {
 	
@@ -65,7 +67,29 @@ $("ul#topnav li").hover(function() { //Hover over event on list item
     /**
      * end js for roadblock
      */
+    
+    $('#show_upes_registration').click(function(e) {
+    $('.upes_pop_container').lightbox_me({
+        centered: true, 
+        onLoad: function() { 
+            $('.upes_pop_container').find('input:first').focus()
+            }
+        });
+    e.preventDefault();
+});
+    
+    //auto close roadblock after three second
+    setTimeout(function(){
+      //closeRoadBlock();
+    },10000);
+    
     });
+    function closeRoadBlock()
+    {
+        
+        $('.road_block_image').css('display','none');
+        $('.road_block_background').css('display','none');     
+    }
 </script>
 
 
@@ -82,7 +106,10 @@ $("ul#topnav li").hover(function() { //Hover over event on list item
  
 
   var _gaq = _gaq || [];
-
+  /*added for inpage analytics*/
+  var pluginUrl = '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+  _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
+  /*end */
   _gaq.push(['_setAccount', 'UA-3228942-1']);
 
   _gaq.push(['_setDomainName', 'topperlearning.com']);
@@ -132,11 +159,11 @@ $("ul#topnav li").hover(function() { //Hover over event on list item
     </script>
 <!-- end Mixpanel -->
 
-
+<meta name="google-site-verification" content="O_KnxNWZcqAIFGb9j1ht2gjTQZlST5__qYTFzMhqbc8">
     
+</head>    
     
-    
-   <script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script></head><body class="homepageBG bodyinner">
+   <body class="homepageBG bodyinner">
 <!-- begin initializing Facebook Javascript SDK-------->
 <div id="fb-root"></div>
 <script>
@@ -149,20 +176,29 @@ $("ul#topnav li").hover(function() { //Hover over event on list item
         oauth: true
     });
     };
-    (function(d){
-            var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
-            js = d.createElement('script'); js.id = id; js.async = true;
-            js.src = "//connect.facebook.net/en_US/all.js";
-            d.getElementsByTagName('head')[0].appendChild(js);
-            }(document));
+    // COMMENTED BY GULAM on 25 FEB 2013
+//    (function(d){
+//            var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
+//            js = d.createElement('script'); js.id = id; js.async = true;
+//            js.src = "//connect.facebook.net/en_US/all.js";
+//            d.getElementsByTagName('head')[0].appendChild(js);
+//            }(document));
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
 </script>
 <!-- end of initializing Facebook Javascript SDK-------->  
-<!--login dialog box start-->
+<script type="text/javascript" src="/js/facebook.1.js"></script><!--login dialog box start-->
     <style>
 
 .ui-corner-all { -moz-border-radius: 4px/*{cornerRadius}*/; -webkit-border-radius: 4px/*{cornerRadius}*/; border-radius: 4px/*{cornerRadius}*/;
     border:0;
 	background:none;
+        z-index:999999;
     } 
 .ui-dialog .ui-dialog-content { overflow: hidden; }
   
@@ -204,6 +240,73 @@ $("ul#topnav li").hover(function() { //Hover over event on list item
 <a href="javascript:void(0)" onclick="fb_connect_login()"><img src="http://www.topperlearning.com/img/new_registration/fb.gif" border="0"></a>
 </div>
 </form></div>    <!--login dialog box end-->
+    
+    
+    <!-- Upes registration dialog by aftab: 25-01-2013 -->
+    <script type="text/javascript" src="/js/jquery.lightbox_me.js"></script><link rel="stylesheet" type="text/css" href="/css/aieee_upes.css"><div class="upes_pop_container" style="display:none">
+  <div class="upes_pop_head_wrapper">
+   	<div class="upes_pop_head"><img src="/img/upes_close_button.jpg" style="margin-right:10px; cursor:pointer;" class="close" align="right" alt=""></div>
+  </div>
+    <div class="upes_pop_formBg">
+    	<div>
+            <form action="/user/small_registration" name="small_registration" id="small_registration" style="display:inline" method="post" accept-charset="utf-8"><div style="display:none;"><input type="hidden" name="_method" value="POST"></div>            <input name="data[Registration][Source]" type="text" class="reg_sourceupes" value="upes_banner" style="display:none" id="RegistrationSource">            
+            <table width="320px" border="0" cellspacing="0" cellpadding="5" align="center">
+                <tbody><tr>
+                    <td colspan="2" class="upes_error" style="color:#FF0000; text-align: center"></td>
+                </tr>
+              <tr>
+                <td>Name</td>
+                <td><input name="data[User][registernameupes]" type="text" class="" onkeypress="return onKeyPressBlockNumbers(event);" id="UserRegisternameupes"></td>
+              </tr>
+              <tr>
+                <td>Email</td>
+                <td><input name="data[User][registeremailupes]" type="text" class="" id="UserRegisteremailupes">                                                                                                                        </td>
+              </tr>
+              <tr>
+                <td>Password</td>
+                <td><input type="password" name="data[User][registerpasswordupes]" maxlength="20" class="" id="UserRegisterpasswordupes"></td>
+              </tr>
+              <tr>
+                <td>Mobile</td>
+                <td><input name="data[User][mobilenoupes]" type="text" maxlength="10" class="" onkeypress="return onKeyPressAllowNumbers(event);" id="UserMobilenoupes"></td>
+              </tr>
+              <tr>
+                <td>Select</td>
+                <td><select name="data[User][registerboardsupes]" class="populate_board_small_reg input" lang="UserRegisterclassupes" style="width:88px;" id="UserRegisterboardsupes">
+<option value="">Select Board</option>
+<option value="101">CBSE</option>
+<option value="110">ICSE</option>
+<option value="109">Kerala Board</option>
+<option value="111">TN Samacheerkalvi</option>
+</select>                              <select name="data[User][registerclassupes]" style="width:88px;" class="input" id="UserRegisterclassupes">
+<option value="">Select Class</option>
+</select></td>
+              </tr>
+              <tr>
+                <td>&nbsp;</td>
+                <td><div class="terms-condition">
+                                                      <input type="hidden" name="data[User][here_from_topper]" id="UserHereFromTopper_" value="0"><input type="checkbox" name="data[User][here_from_topper]" checked="checked" value="1" id="UserHereFromTopper">                                                        Yes, I would like to hear from Topper
+
+                                                                                                           <!-- Agree to our -->
+                                                  </div></td>
+              </tr>
+            </tbody></table>
+            
+            <div class="cl" style="height:3px; *height:0px !important;"></div>
+           
+            <div class="cl" style="height:8px;"></div>
+                          
+            <div class="terms" style="line-height:11px; text-align: center;">&nbsp;By clicking on "SUBMIT" you agree to our <a href="/home/terms_conditions" target="_blank">terms &amp; conditions</a></div>
+        </form>        </div>
+        
+    	<div class="upes_pop_marginTop10 upes_pop_marginBottom20">
+            
+    		<div class="upes_pop_submitButton upes_pop_floatLeft"><img src="/img/upes_submit_Img.png" style="cursor:pointer" onclick="small_registration_upes()" alt=""><br></div>
+
+                <div class="cl">&nbsp;</div>
+    	</div>
+    </div>
+</div>    
 	<!---For Open New Registration POPUP--->
     
 <div id="registration_open" style="display:none;">
@@ -278,8 +381,7 @@ function opentinybox1()
 <script type="text/javascript" src="/js/tinybox.js"></script>
 
 
-<script type="text/javascript">
-</script>
+
 
 <div style="background:#1b5194;">
 
@@ -324,8 +426,8 @@ function opentinybox1()
                 </div>
             </li>
             <li>
-                <a href="http://www.facebook.com/Topperlearning.India" class="fb bgs"></a>				
-                <a href="http://twitter.com/#!/topperlearning" class="twi bgs"></a>                <a href="http://www.topperlearning.com/rss" class="rss1 bgs"></a>                
+                <a href="http://www.facebook.com/Topperlearning.India" class="fb bgs" target="_blank"></a>				
+                <a href="http://twitter.com/#!/topperlearning" class="twi bgs" target="_blank"></a>                <a href="http://www.topperlearning.com/rss" class="rss1 bgs"></a>                
            </li>
         </ul>
         
@@ -334,7 +436,7 @@ function opentinybox1()
 
 
 
-<div class="subscribe">To Subscribe and get assistance call: 011-65176453 [10AM to 7PM]<br>
+<div class="subscribe">To Subscribe and get assistance call: 011-65176453 / 011-65176455 [10AM to 7PM]<br>
   <a href="http://www.topperlearning.com/junior/" target="_blank" class="sixtoeight bgs"></a>            <a href="#login" id="arrow_rollover_link" class="ColorWhite show_login signin bgs" onclick="$('#loginController').val('dashboard'); $('#loginAction').val('index');"></a>     
     <a href="/store" class="storenew bgs"></a>	
 </div>
@@ -347,6 +449,14 @@ function opentinybox1()
 
 <div class="newnavbg">
 
+<script type="text/javascript">
+    $().ready(function(){
+        $("#my_course_combo").bind("change", function() {
+            var url=$("#my_course_combo").val();
+            location.href=siteUrl+'/'+url;
+        });
+    });
+</script>
 <!--aieee menu start-->
 <div id="nav">
     
@@ -394,13 +504,28 @@ function opentinybox1()
 	
 	<div class="fr">
         <ul id="topnav_n">
-            <li><a href="/aieee-exam/index">AIEEE </a></li> 
+               
+            <li>
+                <a href="/results" id="brlink1">Board Results</a>            </li>
+            <li class="line" style="background:none; border:none;">|</li>
+            <li>
+                <a href="/student/sample_papers_board" id="jeelink1">Sample Papers</a>            </li> 
+            <li class="line" style="background:none; border:none;">|</li>
+            
+            <!--<li class="yellow">
+                <div><img src="/img/new_examMenu.png" align="absmiddle" style="margin-left: -18px;margin-top: -28px;" alt="" /></div>
+                <a href="http://www.topperlearning.com/horlicks/user/topperuser.php?email=" target="_blank" id="eslink2">Exam Special </a></li>
+            <li class="line" style="background:none; border:none;">|</li>-->
+            
+            <li>
+                <a href="/jee-exam/index" id="jeelink1">JEE </a>            </li> 
+                        
             <li class="line" style="background:none; border:none;">|</li>
             <li><a href="/ncert/textbook-solutions">Textbook Solutions </a></li>
             <li class="line" style="background:none; border:none;">|</li>
             <li>
                 <a href="#">Student's Corner <img src="/img/top_nav_menu/arrow.gif" alt=""></a>                    <span style="width:127px;">
-                                                                                                                      <a href="/online/study-material">Study Material</a>                        <a href="/student/sample_papers_board">Sample Papers</a>                        <a href="/student/board_papers_solutions_2012">Solved Board Papers</a>                      <a href="/news">Topper News</a>                      <a href="/home/testimonials">Testimonial</a>                      <a href="/meet-the-topper-faculty">Meet The Faculty</a>                      <a href="/cbse/syllabus">Course Plan</a>                      <a href="/home/tvschedule">Tv Schedule</a>                  </span>
+                                            <a href="http://careerguide.topperlearning.com/" target="_blank">Career Guide</a>                                                                                                <a href="/online/study-material">Study Material</a>                        <a href="/student/sample_papers_board">Sample Papers</a>                        <a href="/student/solved_papers">Solved Board Papers</a>                      <a href="/news">Topper News</a>                      <a href="/home/testimonials">Testimonials</a>                      <a href="/meet-the-topper-faculty">Meet The Faculty</a>                      <a href="/cbse/syllabus">Course Plan</a>                      <a href="/home/tvschedules">Tv Schedule</a>                        <a href="/results/index">Board Results</a>                                        </span>
             </li>
             <!--<li class="line" style="background:none; border:none;">|</li>
             <li>
@@ -421,7 +546,13 @@ function opentinybox1()
 	
 </div>
 <div class="cl"></div>
-</div>
+
+
+
+<!--popup div to configure different board and class start here-->
+<div id="configure_course_popup" style="display: none;text-align:center;">
+    
+</div></div>
 
 
 <div id="maindiv">
@@ -483,7 +614,7 @@ function opentinybox1()
 	<div align="center">
 	
             <a href="javascript:void(0)" class="connectfb1" onclick="fb_connect_login()"></a>            
-           <div style="color:#fff; padding-top:5px;">(Dont worry, we never post without <br>
+           <div style="display:none;color:#fff; padding-top:5px;">(Dont worry, we never post without <br>
 your permission)</div>
 
 <div class="fill-up">or Fill Up the Form</div>
@@ -518,7 +649,7 @@ your permission)</div>
 <option value="110">ICSE</option>
 <option value="109">Kerala Board</option>
 <option value="111">TN Samacheerkalvi</option>
-</select>                              <select name="data[User][registerclass]" style="width:88px;" class="input" id="UserRegisterclass">
+</select>                              <select name="data[User][registerclass]" style="width:88px;" class="input" onchange="show_preboard()" id="UserRegisterclass">
 <option value="">Select Class</option>
 </select>                          </p>
                           
@@ -546,14 +677,14 @@ your permission)</div>
                           <!--
                           --
                           --------------BEGIN of code for checkbox required for preboard Class X and XII-----------
-                          --
+                          -->
                           
-                          <div class="m1 checkbox_div" style="display: none">
-                                                            <span class="Light10V" style="*line-height:10px !important;">Yes I want to appear in Topper Pre Board FREE
+                          <div class="m1 checkbox_div" style="display: none;" id="preboard_check_div">
+                              <input type="hidden" name="data[User][reg_for_preboard]" id="UserRegForPreboard_" value="0"><input type="checkbox" name="data[User][reg_for_preboard]" checked="checked" value="1" id="UserRegForPreboard">                              <span class="Light10V" style="*line-height:10px !important;">Register me in Topper Pre Board for free<!-- I want to appear in Topper Pre Board-->
                                                                 </span>
                           </div>
                           
-                          --
+                          <!--
                           --------------END of code for checkbox required for preboard Class X and XII-----------
                           --
                           -->
@@ -586,6 +717,22 @@ your permission)</div>
 			}
 
 	}
+
+        function show_preboard()
+        {
+            var class_id=$('#UserRegisterclass').val();
+            
+            if(class_id==2 || class_id==4)
+            {
+                //$('#preboard_check_div').show();
+               // $('#UserRegForPreboard').attr('checked', true); 
+            }
+            else
+            {
+                //$('#preboard_check_div').hide();
+                //$('#UserRegForPreboard').attr('checked', false); 
+            }
+        }
 	</script>
 
 
@@ -595,19 +742,17 @@ your permission)</div>
 
 
 
-    
-<br>
-
-
+<!--
+<br />
 <div class="reynolds_flash">
 <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="245" height="245">
   <param name="movie" value="http://topperlearning.com/flash/250x250_handwriting.swf">
   <param name="quality" value="high">
   <param name="wmode" value="transparent">
-  <embed src="http://topperlearning.com/flash/250x250_handwriting.swf" width="245" height="245" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent">
+  <embed src="http://topperlearning.com/flash/250x250_handwriting.swf" width="245" height="245" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent"></embed>
 </object>
-
 </div>
+-->
 
 <div class="olymic_image" style="display:none;">
 <a href="http://www.topperlearning.com/science_dipstick/view/MTAy/Science-Behind-Olympics-2012"><img src="/img/banner-250X250.jpg" onclick="_gaq.push(['b._trackEvent','right','Olympics','science behind olympics']);" alt=""></a></div>
@@ -823,41 +968,69 @@ $().ready(function(){
 		<div style="height: 10px;" class="Clear">&nbsp;</div>
                 <div id="ie6msg" style="font-weight: bold; text-align: center; display: none;color:#777777"></div>
 		<div class="FootWrapper">
-			<div class="FooterColumn1">
+			<div class="FooterColumn1" style="width:175px;">
 				<div class="FootNav"><a href="/home">Home</a></div>
 				<div class="FootNav"><a href="/home/about_us">About Us</a></div>
 				<div class="FootNav"><a href="/store/index">How To Buy</a></div>
 				<!--<div class="FootNav"><a href="/home/sitedemo">Site Demo</a></div> -->
 				<div class="FootNav"><a href="/home/contact_us">Feedback</a></div>
 				<div class="FootNav"><a href="/home/faq">FAQs</a></div>
+                                <div class="FootNav"><a href="/sitemap">Site Map</a></div>
 			</div>
 			<!--FooterColumn1 end-->
-			<div class="FooterColumn1">
+			<div class="FooterColumn1" style="width:175px;">
 				<div class="FootNav"><a href="/dashboard">My Profile</a></div>
 				<!--<div class="FootNav"><a href="/student/topper_assessment">Topper Assessment</a></div> -->
 				<div class="FootNav"><a href="/home/testimonials">Testimonials</a></div>
 				<div class="FootNav"><a href="/home/contact_us">Contact Us</a></div>
 				<div class="FootNav"><a href="/home/terms_conditions">Terms of Use</a></div>
 				<div class="FootNav"><a href="/home/privacy_policy">Privacy Policy</a></div>
+                                <div class="FootNav"><a href="http://www.topperlearning.com/horlicks/mobile/index.html" target="_blank">Mobile App</a></div>
 			</div>
-			<!--FooterColumn1 end-->
-			<div class="FooterColumn2">
+			
+			
+			
+			
+			<!--FooterColumn1 end style="width:165px;"-->
+			<div class="FooterColumn1" style="width:175px; border-right:solid 1px #cecece;">
 				<div class="FootNav"><a href="/student_corner/career_zone">Career Counselling</a></div>
 				<div class="FootNav"><a href="/student_corner/study_room">Free Resources</a></div>
-				<div class="FootNav"><a href="/home/tvschedule">TV Schedule</a></div>
+				<div class="FootNav"><a href="/home/tvschedules">TV Schedule</a></div>
 				<div class="FootNav"><a href="/store/">Topper Store</a></div>
 				<!--<div class="FootNav"><a href="/schools/pre_register_learn_more">Topper @ Schools</a></div> -->
                                 <div class="FootNav"><a href="/news/index/sort_by:articles">Articles</a></div>
-								<div class="FootNav"><a href="/sitemap">Site Map</a></div>
+								
 				<!--<div class="FootNav"><a href="/home/sitemap">Site Map</a></div> -->
 
 				<div style="height: 25px;" class="Clear">&nbsp;</div>
 			</div>
+			<!--FooterColumn1 end-->
+			
+			
+			
+			
+			
+			<!--FooterColumn2 start-->
+			<!---<div class="FooterColumn2">
+                              <div class="FootNav"><strong>Marketing Partners</strong></div>
+				<div class="FootNav"><a href="http://www.couponrani.com/" target="_blank">Couponrani</a></div>
+				<div class="FootNav"><a href="http://www.coupondunia.in/" target="_blank">Coupondunia</a>></div>
+				<div class="FootNav"><a href="http://couponcodewa.com/" target="_blank">Couponcodewa</a></div>
+				<div style="height: 25px;" class="Clear">&nbsp;</div>
+			</div>--->
 			<!--FooterColumn2 end-->
+			
+			
+			
+			
+			
+			
+			
+			
 <form action="/home/contact" id="footerEnquiry" method="post" accept-charset="utf-8"><div style="display:none;"><input type="hidden" name="_method" value="POST"></div>    <fieldset style="display: none;">
         <input type="hidden" value="POST" name="_method">
     </fieldset>
-    <div class="FooterColumn3">
+    <div class="FooterColumn3" style="width:350px; margin-left:50px;">
         <div class="FootNav"><strong>Contact Us</strong></div>
 
         <div style="display: none;" class="success_message_small footerEnquirySuccess">
@@ -917,20 +1090,20 @@ $().ready(function(){
 </form>
 
 
-
-
-
-
-
 <!--FooterColumn3 end-->
 
-
 <div id="footer">
+    
     <img src="/img/images/footer-logo.gif" alt=""><br>
     <div style="line-height:26px;">In association with Network18 and Educomp</div>
     <img src="/img/images/footer-line.gif" alt=""><br>
     <div style="height:6px;"></div>
-    Copyright Notice © 2011 Greycells18 Media Pvt. Ltd. and its licensors. All rights reserved.<br>
+    Copyright Notice © 2013 Greycells18 Media Pvt. Ltd. and its licensors. All rights reserved.<br>
+
+    <p class="bestviewed">Site best viewed in <a target="_blank" title="This is to inform you that by clicking on the hyperlink, you will be exiting topperlearning.com" alt="This is to inform you that by clicking on the hyperlink, you will be exiting topperlearning.com" href="http://www.microsoft.com/download/en/details.aspx?id=2">IE7+</a>, <a target="_blank" title="This is to inform you that by clicking on the hyperlink, you will be exiting topperlearning.com" alt="This is to inform you that by clicking on the hyperlink, you will be exiting topperlearning.com" href="http://www.mozilla.org/en-US/firefox/3.5/releasenotes/">Firefox 3.5+</a>, <a target="_blank" title="This is to inform you that by clicking on the hyperlink, you will be exiting topperlearning.com" alt="This is to inform you that by clicking on the hyperlink, you will be exiting topperlearning.com" href="https://www.google.com/chrome/index.html">Chrome 3+</a>, <a target="_blank" title="This is to inform you that by clicking on the hyperlink, you will be exiting topperlearning.com" alt="This is to inform you that by clicking on the hyperlink, you will be exiting topperlearning.com" href="http://www.apple.com/safari/download/">Safari 5.0+</a> at 1024 x 768 pixels resolution.</p>
+
+
+
    <!-- <a href="http://www.topperlearning.com/textbookhelp/textbook_help" title="NCERT Solutions">NCERT Solutions</a> | 
     <a href="http://www.topperlearning.com/textbookhelp/textbook_helpchapter/MTE=" title="Maths NCERT">Maths NCERT</a> | 
     <a href="http://www.topperlearning.com/textbookhelp/textbook_helpchapter/Mw==" title="NCERT Class X">NCERT Class X</a> | 
@@ -958,7 +1131,7 @@ $().ready(function(){
 		
 	<div class="AsspcoationTxt2">
 			
-			<div><strong>&nbsp;Copyright Notice &copy; 2011 Greycells18 Media Pvt. Ltd. and its licensors. All rights reserved.<br><a style="text-decoration: none; color: rgb(204, 204, 204);" href="http://www.topperlearning.com/textbookhelp/textbook_help" original-title="NCERT Solutions">NCERT Solutions</a> | <a style="text-decoration: none; color: rgb(204, 204, 204);" href="http://www.topperlearning.com/textbookhelp/textbook_helpchapter/MTE=" original-title="Maths NCERT">Maths NCERT</a> | <a style="text-decoration: none; color: rgb(204, 204, 204);" href="http://www.topperlearning.com/textbookhelp/textbook_helpchapter/Mw==" original-title="NCERT Class X">NCERT Class X</a> | <a style="text-decoration: none; color: rgb(204, 204, 204);" href="http://www.topperlearning.com/textbookhelp/textbook_help" original-title="NCERT Sample Papers">NCERT Sample Papers</a> | <a style="text-decoration: none; color: rgb(204, 204, 204);" href="http://www.topperlearning.com/visitors/online_test" original-title="Online Tuition Classes">Online Tuition Classes</a> | <a style="text-decoration: none; color: rgb(204, 204, 204);" href="http://www.topperlearning.com/visitors/online_test" original-title="Computer Adaptive Test">Computer Adaptive Test</a><br><a style="text-decoration: none; color: rgb(204, 204, 204);" href="http://www.topperlearning.com/visitors/topic/MQ==/Mw==/NjM=/MzE0/MTIzMg==" original-title="Watch Video Lessons">Watch Video Lessons</a> | <a style="text-decoration: none; color: rgb(204, 204, 204);" href="http://www.topperlearning.com/t/course_plan" original-title="Effective Education Methods">Effective Education Methods</a> | <a style="text-decoration: none; color: rgb(204, 204, 204);" href="http://www.topperlearning.com/visitors/home_work_plan" original-title="CBSE Question Papers">CBSE Question Papers</a> | <a style="text-decoration: none; color: rgb(204, 204, 204);" href="http://www.topperlearning.com/visitors/solved_papers" original-title="NCERT Sample Papers 2008">NCERT Sample Papers 2008</a> | <a style="text-decoration: none; color: rgb(204, 204, 204);" href="http://www.topperlearning.com/visitors/solved_papers" original-title="CBSE Past Year Paper">CBSE Past Year Paper</a></strong></div>
+			<div><strong>&nbsp;Copyright Notice &copy; 2012 Greycells18 Media Pvt. Ltd. and its licensors. All rights reserved.<br><a style="text-decoration: none; color: rgb(204, 204, 204);" href="http://www.topperlearning.com/textbookhelp/textbook_help" original-title="NCERT Solutions">NCERT Solutions</a> | <a style="text-decoration: none; color: rgb(204, 204, 204);" href="http://www.topperlearning.com/textbookhelp/textbook_helpchapter/MTE=" original-title="Maths NCERT">Maths NCERT</a> | <a style="text-decoration: none; color: rgb(204, 204, 204);" href="http://www.topperlearning.com/textbookhelp/textbook_helpchapter/Mw==" original-title="NCERT Class X">NCERT Class X</a> | <a style="text-decoration: none; color: rgb(204, 204, 204);" href="http://www.topperlearning.com/textbookhelp/textbook_help" original-title="NCERT Sample Papers">NCERT Sample Papers</a> | <a style="text-decoration: none; color: rgb(204, 204, 204);" href="http://www.topperlearning.com/visitors/online_test" original-title="Online Tuition Classes">Online Tuition Classes</a> | <a style="text-decoration: none; color: rgb(204, 204, 204);" href="http://www.topperlearning.com/visitors/online_test" original-title="Computer Adaptive Test">Computer Adaptive Test</a><br><a style="text-decoration: none; color: rgb(204, 204, 204);" href="http://www.topperlearning.com/visitors/topic/MQ==/Mw==/NjM=/MzE0/MTIzMg==" original-title="Watch Video Lessons">Watch Video Lessons</a> | <a style="text-decoration: none; color: rgb(204, 204, 204);" href="http://www.topperlearning.com/t/course_plan" original-title="Effective Education Methods">Effective Education Methods</a> | <a style="text-decoration: none; color: rgb(204, 204, 204);" href="http://www.topperlearning.com/visitors/home_work_plan" original-title="CBSE Question Papers">CBSE Question Papers</a> | <a style="text-decoration: none; color: rgb(204, 204, 204);" href="http://www.topperlearning.com/visitors/solved_papers" original-title="NCERT Sample Papers 2008">NCERT Sample Papers 2008</a> | <a style="text-decoration: none; color: rgb(204, 204, 204);" href="http://www.topperlearning.com/visitors/solved_papers" original-title="CBSE Past Year Paper">CBSE Past Year Paper</a></strong></div>
 
 </div>
  -->
