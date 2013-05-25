@@ -1,26 +1,89 @@
-<!--The following is the downloaded HTML source of the wizehive.com privacy policy that was archived on 2012-11-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121124220024id_/http%3A//www.wizehive.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wizehive.com privacy policy that was archived on 2013-05-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130526011100id_/http%3A//www.wizehive.com/privacy_policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-	<title>Privacy Policy - WizeHive</title>
-	<meta name="MSSmartTagsPreventParsing" content="true">
-	<meta name="robots" content="index,follow">
-	<link rel="icon" type="image/x-icon" href="/favicon.ico">
-	<link rel="stylesheet" type="text/css" href="../css/all.css" media="screen">
-	<link href="https://fonts.googleapis.com/css?family=Copse:regular" rel="stylesheet" type="text/css">
-	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="../js/jquery-1.3.1.min.js"></script>	
-	<script type="text/javascript" language="javascript" src="../js/hoverIntent.js"></script>
-	<script type="text/javascript" language="javascript" src="../js/jquery.dropdown.js"></script>
-	 <!-- TypeKit  --> <script type="text/javascript" src="http://use.typekit.com/lok1ffp.js"></script><script type="text/javascript">try{Typekit.load();}catch(e){}</script>
-	<script>
-	function setFocus() {
-	 document.RequestDemoForm.name.focus();
-	}
-	</script>
-	
-	<!-- Begin GoogleAnalytics -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/2000/REC-xhtml1-20000126/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>WizeHive - Enterprise Collaboration, Business Process and Workflow</title>
+<meta name="description" content="The fastest and easiest way to build and use web-based apps that automate business processes and engage customers, employees and those that matters to you.">
+<meta name="keywords" content="wizehive,wisehive,social media marketing,social,media,marketing,software,contest software,online,video,contest,video,grant,mike levinson,project,grants,scholarship,video,online,management">
+<meta name="MSSmartTagsPreventParsing" content="true">
+<meta name="robots" content="index,follow">
+<meta name="y_key" content="96cc5f22ae8935ad">
+<meta name="msvalidate.01" content="92135C4B62FD42723B0B7F4057E57101">
+<link rel="stylesheet" type="text/css" href="../style.css">
+<link rel="stylesheet" type="text/css" href="../css/960.css">
+<link rel="stylesheet" type="text/css" href="../css/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" href="../css/font-awesome.min.css">
+<link rel="icon" type="image/x-icon" href="/favicon.ico">
+<link href="https://fonts.googleapis.com/css?family=Copse" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,600" rel="stylesheet" type="text/css">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://use.typekit.com/blj2jxb.js">
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script><!-- Update This Code To The WizeHive Account -->
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+<script type="text/javascript" src="../js/jquery-1.7.2.min.js"></script>
+<script type="text/javascript" src="../js/jquery.scrollTo-1.4.3.1-min.js"></script>
+<script type="text/javascript" src="../js/jquery.bxslider.min.js"></script>
+<script>
+$(document).ready(function(){
+  $('.bxslider').bxSlider();
+});
+</script><!-- Closes Carousel Jquery -->
+
 <script type="text/javascript">
+$(window).scroll(function() {
+    var y_scroll_pos = window.pageYOffset;
+    var scroll_pos_test = 300;            
+
+    if(y_scroll_pos > scroll_pos_test) {
+            $(".btn-float-signup:hidden").show(); 
+        }
+        else {
+            $(".btn-float-signup:visible").hide();
+        }
+});      
+</script><!-- Closes Sign-up Event Jquery -->
+
+<script type="text/javascript">
+		$(function() {
+			var scrollOffset = $('#floatingHeader').outerHeight();
+			$('a.internal').click(function() {
+				var $target = $($(this).attr('data-target')),
+					offset = 0 - ($('#floatingheader').height() + 60);
+				if($target.length) {
+					$.scrollTo($target, 500, { offset:offset });
+				}
+				return false;
+			}).each(function() {
+				var $this = $(this),
+					$target = $($this.attr('data-target')),
+					top = $target.offset().top - scrollOffset,
+					bottom = top + $target.outerHeight() - scrollOffset - 30;
+					top -= 80;
+
+				var active = false;
+				$(window).scroll(function(evt) {
+					var scrollTop = $(window).scrollTop();
+					if(!active && scrollTop > top && scrollTop < bottom) {
+						$this.addClass('active');
+						active = true;
+					} else if(active && (scrollTop < top || scrollTop > bottom)) {
+						$this.removeClass('active');
+						active = false;
+					}
+				});
+			});
+			$(window).scroll();
+
+			$('.top a').click(function(e) {
+				$.scrollTo(0);
+				e.preventDefault();
+			});
+		});
+	</script><!-- Closes Scroll JQuery -->
+
+	<!-- Begin GoogleAnalytics -->
+	<script type="text/javascript">
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-6625020-1']);
   _gaq.push(['_trackPageview']);
@@ -30,99 +93,130 @@
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 </script>
-<!-- End GoogleAnalytics -->
-<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
-<body onload="setFocus()" id="alternate">
-	<div id="wrapper-secondary">
-		<div id="header">
-			<div class="header-holder">
-				<div id="logo"><a href="/" title="WizeHive.com">WizeHive</a></div>
-				<ul id="nav">
-					<li class="solutions">Solutions
-						<ul class="sub_menu">
-        			 		<li><a href="/grant-management-system/">Grants</a></li>
-        			 		<li><a href="/applicant/">Scholarships</a></li>
-        			 		<li><a href="/contest/">Contests</a></li>
-        				</ul>
-        			</li>
-					<li><a id="about-us" href="/about/">About Us</a></li>
-					<li><a id="blog" href="http://blog.wizehive.com">Blog</a></li>
-					<li><a id="get-in-touch" href="/get-in-touch/">Get in Touch</a></li>
-				</ul>
-				<div class="sign-in"><a id="signin" href="https://www.wizehive.com/users/login/">Sign In</a></div>
- 			</div>
-		</div>
-		<div class="wrapper-secondary-inner"></div>
-		<div class="secondary-wrapper">	
-			<div class="secondary-content">
-			<h1>Privacy Policy</h1>
-					
-					<p>Your privacy is important to WizeHive. This privacy statement provides information about the personal information that we collect, and the ways in which we use that personal information.  It applies to your use of various websites you may visit where we run promotions or similar activities (together with associated and successor websites and services, the “Site').   We reserve the right to change this Policy from time to time and will notify you of any changes via email or on our web site. </p>
-					
-					<h2>Information Collected</h2>
-					
-					<p>We may collect personal information for those who enter, vote or otherwise participate in our promotions.  Personal information may include your username, your password (we only store an encrypted version of this; not the actual password), one or more email addresses and other contact information.  For paying customers we may ask for additional information such as credit card number, billing address and related information.</p>
-					<p>Like most web-based services, we may automatically collect information that your browser sends whenever you visit a website. This information may include, but is not limited to, your computer's Internet Protocol address, and the browser type of the web page you were visiting before you came to the our Site and information you search for on our Site.</p>
-					<p>Like many websites, we may also use "cookies" to collect information. A cookie is a small data file that we transfer to your computer's hard disk for record-keeping purposes. We may use "persistent cookies" to save your registration ID and login password for future logins to the Site; and we may use "session ID cookies" to enable certain features of the Site, to better understand how you interact with the Site and to monitor aggregate usage and web traffic routing on the Site. You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to use all portions of the Site or all functionality of our services.</p>
-					
-					<h2>Information Use</h2>
-					
-					<p>We use the information collected to enable your access to and use of the website services, to personalize the website for you, or to supply you services that you have asked for. If you are a paying customer we will also use this information to charge your credit card or collect payments from you.</p>
-					<p>We may also occasionally contact you via email to tell you about web maintenance, upgrades and new features regarding our promotions or those on behalf of third parties, but will provide you with a vehicle for opting out of these emails.</p>
-					<p>We will never disclose data on an individual or identifiable basis to third parties except when we must comply with laws that require such disclosure to law enforcement authorities or other government third party officials such as subpoenas.</p>
-					
-					<h2>Security</h2>
-					
-					<p>We use industry standard security measures to protect against the loss and misuse of information within our control, as follows:</p>
-					<ul>
-						<li>The site uses Secure Socket Layer (SSL) encryption to protect your name, password and all other information transmitted to or from our database to ensure the protection of your data.</li>
-						<li>Passwords  are only stored in an encrypted form and are therefore not retrievable by us or any other third party. (In case you need a new password we will generate and send you one that you can subsequently change).</li>
-						<li>The data is hosted in a secured environment with 24 X 7 monitoring, surveillance and support to prevent unauthorized access and data security. Advanced security measures including firewalls, security guards and surveillance are taken to ensure the continued service and protection of your data.</li>
-						<li>Despite our best attempts to secure your data no data transmissions over the Internet can be guaranteed to be 100% secure. Consequently, we cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk. In addition, while we work hard to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent "hackers" or other unauthorized persons from illegally accessing or obtaining this information.</li>
-						<li>We take security issues seriously and will respond swiftly to fix verifiable security issues. Some of our products are complex and take time to update. When properly notified of legitimate issues, we'll do our best to acknowledge your emailed report, assign resources to investigate the issue, and fix potential problems as quickly as possible. </li>
-					</ul>
-					<h2>Other Websites &amp; Links</h2>
-					<p>At some point there may be links to other websites or services included on the Site.  We make no representation or warranties and are not responsible for the privacy policies or practices of any third party.</p>
-					
-					<h2>Children</h2>
-					<p>Our site is designed to be used by people over 13 years of age. The Children's Online Privacy Protection Act ("COPPA") protects the online privacy of children under 13 years of age. WizeHive does not knowingly collect or maintain personal information from anyone under the age of 13, unless or except as permitted by law.  Any person who provides Personal Information through our site represents to us that he or she is 13 years of age or older.  If we learn that Personal Information has been collected from a user under 13 years of age , then we will take the appropriate steps to cause this information to be deleted.</p>
- 				</div>
- 			</div>
-		</div>
-	
-	
-		
-	<div id="footer">
-		<div class="footer-holder">
-			<div class="footer-links-one">
-				<h3>Company</h3>
-				<ul><li><a href="/">Home</a></li><li><a href="/about/">About Us</a></li><li><a href="http://blog.wizehive.com/">Blog</a></li><li><a href="/get-in-touch/">Get in Touch</a></li><li><a href="/privacy_policy/">Privacy Policy</a></li><li><a href="/terms_of_service/">Terms of Service</a></li><li><a href="/security/">Data Security </a></li><li><a href="/sitemap/">Site Map</a></li></ul>
-			</div>
-			<div class="footer-links-two">
-				<h3>Featured Solutions</h3>
-				<ul><li><a href="/grant-management-system/" title="Grant Management Software">Grants</a></li><li><a href="/applicant/" title="Scholarship Management Software">Scholarships</a></li><li><a href="/contest/" title="Online Contest Software">Contests</a></li></ul>
-			</div>
-			<div class="footer-links-three">
-				<h3>POPULAR SEARCHES</h3>
-				<ul><li><a href="/photo-contest-software/" title="Photo Contest Software">Photo Contest Software</a></li><li><a href="/facebook-contest/" title="Facebook Contest Software">Facebook Contest Software</a></li><li><a href="/scholarship-management-software/" title="Scholarship Management Software">Scholarship Management Software</a></li><li><a href="/contest-management-for-publishers/" title="Contest Management for Publishers">Contest Management for Publishers</a></li><li><a href="/grant-management-system/" title="Grant Management Software">Grant Management Software</a></li><li><a href="/competition-software/" title="Competition Software">Competition Software</a></li><li><a href="/online-video-contest/" title="Online Video Contest">Online Video Contest</a></li><li><a href="/contest-platform/" title="Contest Platform">Contest Platform</a></li><li><a href="/contest-management/" title="Contest Management">Contest Management</a></li>
-				</ul>
-			</div>
-			<div class="copyright">
-				<p class="call">Call WizeHive today: 215-600-1753</p>
-				<p class="googleplus"><g:plusone size="medium"></g:plusone></p>
-				<p class="face"><iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FWizeHive%2F171451739550282&amp;layout=button_count&amp;show_faces=false&amp;width=80&amp;action=like&amp;font=arial&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="text-align: right; float: right; border:none; overflow:hidden; width:80px; height:21px;" allowtransparency="true"></iframe></p>
-				<p id="tweet-button"><a href="http://twitter.com/intent/user?screen_name=wizehive" target="_blank">WizeHive on Twitter</a></p>
-				<p class="copy">Copyright © 2012  WizeHive. All rights reserved.</p>
-			</div>
-		</div>
-	</div>	
-		
-		
-<!-- Begin Google Plus One tag -->
-<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
-<!-- End Google Plus One tag -->
+	<!-- End GoogleAnalytics -->
 
-<!-- Begin adroll -->
+	<title>WizeHive - online business apps to organize and automate your business</title>
+<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
+<body class="home">
+<div id="floatingHeader">
+  <div class="container_12">
+    <div id="logoTitle" class="grid_5">
+      <h1><a href="/" class="wizehTitle">Wize Hive Beta</a></h1>
+    </div>
+    <!-- Close Logo Title -->
+    
+    <div id="navi" class="grid_7">
+      <ul>
+        <li><a href="http://blog.wizehive.com/" title="Blog" target="_blank">Blog</a></li>
+        <li><a href="/index.html#customers" title="Customers">Customers</a></li>
+        <li><a href="/index.html#maincontent-works-wrapper" title="How It Works">How it Works</a></li>
+        <li class="navi-last"><a href="https://www.wizehive.com/users/login" class="navi-signin" title="User Sign In"><i class="icon-signin"></i> Sign In</a></li>
+      </ul>
+    </div>
+    <!-- Close Navi --> 
+  </div>
+  <!-- Close Floating Header Container --> 
+</div>
+<!-- Close Floating Header --> 
+
+<!-- Main Container -->
+<div class="container">
+<div id="mainContent">
+<div class="staticContent sub">
+  <h2>Privacy Policy</h2>
+  <div class="txtbox txtwhite">
+    <p>Your privacy is important to WizeHive. This privacy statement provides information about the personal information that we collect, and the ways in which we use that personal information.  It applies to your use of various websites you may visit where we run promotions or similar activities (together with associated and successor websites and services, the “Site').   We reserve the right to change this Policy from time to time and will notify you of any changes via email or on our web site. </p>
+    <h5>Information Collected</h5>
+    <p>We may collect personal information for those who enter, vote or otherwise participate in our promotions.  Personal information may include your username, your password (we only store an encrypted version of this; not the actual password), one or more email addresses and other contact information.  For paying customers we may ask for additional information such as credit card number, billing address and related information.</p>
+    <p>Like most web-based services, we may automatically collect information that your browser sends whenever you visit a website. This information may include, but is not limited to, your computer's Internet Protocol address, and the browser type of the web page you were visiting before you came to the our Site and information you search for on our Site.</p>
+    <p>Like many websites, we may also use "cookies" to collect information. A cookie is a small data file that we transfer to your computer's hard disk for record-keeping purposes. We may use "persistent cookies" to save your registration ID and login password for future logins to the Site; and we may use "session ID cookies" to enable certain features of the Site, to better understand how you interact with the Site and to monitor aggregate usage and web traffic routing on the Site. You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to use all portions of the Site or all functionality of our services.</p>
+    <h5>Information Use</h5>
+    <p>We use the information collected to enable your access to and use of the website services, to personalize the website for you, or to supply you services that you have asked for. If you are a paying customer we will also use this information to charge your credit card or collect payments from you.</p>
+    <p>We may also occasionally contact you via email to tell you about web maintenance, upgrades and new features regarding our promotions or those on behalf of third parties, but will provide you with a vehicle for opting out of these emails.</p>
+    <p>We will never disclose data on an individual or identifiable basis to third parties except when we must comply with laws that require such disclosure to law enforcement authorities or other government third party officials such as subpoenas.</p>
+    <h5>Security</h5>
+    <p>We use industry standard security measures to protect against the loss and misuse of information within our control, as follows:</p>
+    <ul>
+      <li>The site uses Secure Socket Layer (SSL) encryption to protect your name, password and all other information transmitted to or from our database to ensure the protection of your data.</li>
+      <li>Passwords  are only stored in an encrypted form and are therefore not retrievable by us or any other third party. (In case you need a new password we will generate and send you one that you can subsequently change).</li>
+      <li>The data is hosted in a secured environment with 24 X 7 monitoring, surveillance and support to prevent unauthorized access and data security. Advanced security measures including firewalls, security guards and surveillance are taken to ensure the continued service and protection of your data.</li>
+      <li>Despite our best attempts to secure your data no data transmissions over the Internet can be guaranteed to be 100% secure. Consequently, we cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk. In addition, while we work hard to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent "hackers" or other unauthorized persons from illegally accessing or obtaining this information.</li>
+      <li>We take security issues seriously and will respond swiftly to fix verifiable security issues. Some of our products are complex and take time to update. When properly notified of legitimate issues, we'll do our best to acknowledge your emailed report, assign resources to investigate the issue, and fix potential problems as quickly as possible. </li>
+    </ul>
+    <h5>Other Websites &amp; Links</h5>
+    <p>At some point there may be links to other websites or services included on the Site.  We make no representation or warranties and are not responsible for the privacy policies or practices of any third party.</p>
+    <h5>Children</h5>
+    <p>Our site is designed to be used by people over 13 years of age. The Children's Online Privacy Protection Act ("COPPA") protects the online privacy of children under 13 years of age. WizeHive does not knowingly collect or maintain personal information from anyone under the age of 13, unless or except as permitted by law.  Any person who provides Personal Information through our site represents to us that he or she is 13 years of age or older.  If we learn that Personal Information has been collected from a user under 13 years of age , then we will take the appropriate steps to cause this information to be deleted.</p>
+    <div class="clear"></div>
+  </div>
+</div>
+<div class="clear"></div>
+
+<!-- Close Main Content-->
+
+<div id="footer">
+  <div id="footer-wrap" class="container_16">
+    <div class="footer-container grid_4">
+      <h4>Company</h4>
+      <ul class="foot-company">
+        <li><a href="http://www.wizehive.com/" title="Main Page">Home</a></li>
+        <li><a href="http://www.wizehive.com/about/" title="About WizeHive">About Us</a></li>
+        <li><a href="http://blog.wizehive.com/" title="The WizeHive Blog">Blog</a></li>
+        <li><a href="http://www.wizehive.com/get-in-touch/" title="Get In Touch">Get in Touch</a></li>
+      </ul>
+    </div>
+    <div class="footer-container grid_4">
+      <h4>Featured Solutions</h4>
+      <ul class="foot-featured">
+        <li><a href="/photo-contest-software/" title="Photo Contest Software">Photo Contest Software</a></li>
+        <li><a href="/facebook-contest/" title="Facebook Contest Software">Facebook Contest Software</a></li>
+        <li><a href="http://www.wizehive.com/grant-management-system/" title="Grant Management System">Grant Management System</a></li>
+        <li><a href="http://www.wizehive.com/applicant/" title="Scholarship Management System">Scholarship Management System</a></li>
+        <li><a href="/scholarship-management-software/" title="Scholarship Management Software">Scholarship Management Software</a></li>
+        <li><a href="/contest-management-for-publishers/" title="Contest Management for Publishers">Contest Management for Publishers</a></li>
+        <li><a href="/grant-management-system/" title="Grant Management Software">Grant Management Software</a></li>
+        <li><a href="/competition-software/" title="Competition Software">Competition Software</a></li>
+        <li><a href="/online-video-contest/" title="Online Video Contest">Online Video Contest</a></li>
+        <li><a href="/contest-platform/" title="Contest Platform">Contest Platform</a></li>
+        <li><a href="/contest-management/" title="Contest Management">Contest Management</a></li>
+      </ul>
+    </div>
+    <div class="footer-container grid_4">
+      <h4>Additional Info</h4>
+      <ul class="foot-info">
+        <li><a href="http://www.wizehive.com/privacy_policy/" title="Privacy Policy">Privacy Policy</a></li>
+        <li><a href="http://www.wizehive.com/terms_of_service/" title="Terms of Service">Terms of Service</a></li>
+        <li><a href="http://www.wizehive.com/security/" title="Data Security">Data Security</a></li>
+        <li><a href="http://www.wizehive.com/sitemap/" title="Site Map">Site Map</a></li>
+      </ul>
+    </div>
+    <div class="footer-container grid_4">
+      <div id="socialFooter">
+        <ul>
+          <li><a href="https://www.facebook.com/wizehive" class="socialfootFB" title="Follow Us On Facebook">Facebook</a></li>
+          <li><a href="https://twitter.com/wizehive" class="socialfootTwitter" title="Follow Us On Twitter">Twitter</a></li>
+          <li><a href="http://www.linkedin.com/company/wizehive" class="socialfootLinkedin" title="Follow Us On Linkedin">Linkedin</a></li>
+        </ul>
+        <h4 class="footerTitle"><a href="../ " class="wizehTitle">Wize Hive Beta</a></h4>
+      </div>
+    </div>
+    <!-- Close Footer Wrapper --> 
+  </div>
+  <!-- Close Footer --> 
+</div>
+<!-- Close Main Container --> 
+
+<!-- Visual Visitor  --> 
+<script type="text/javascript"> 
+  var vv_account_id = 'sHOQIEJ2v5'; 
+  var vv_BaseURL = (("https:" == document.location.protocol) ? "https://frontend.id-visitors.com/FrontEndWeb/" : "http://frontend.id-visitors.com/FrontEndWeb/");document.write(unescape("%3Cscript src='" + vv_BaseURL + "Scripts/liveVisit.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://frontend.id-visitors.com/FrontEndWeb/Scripts/liveVisit.js" type="text/javascript"></script> 
+<script type="text/javascript"> 
+  try {document.write(unescape("%3Cscript src='" + new_url +"' type='text/javascript'%3E%3C/script%3E"));} catch( err ) {}
+</script> 
+<!-- End Visual Visitor --> 
+
+<!-- Begin adroll --> 
 <script type="text/javascript">
 adroll_adv_id = "TXH5NORSLRDHXKYWBGVWET";
 adroll_pix_id = "VOW4YSCRTZAZPOSONKODZQ";
@@ -138,8 +232,7 @@ window.onload = function(){
    document.documentElement.firstChild.appendChild(scr);
    if(oldonload){oldonload()}};
 }());
-</script>
+</script> 
 <!-- End adroll -->
- 
 
-</body></html>
+</div></div></body></html>
