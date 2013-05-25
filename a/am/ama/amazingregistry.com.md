@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the amazingregistry.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228161307id_/http%3A//www.amazingregistry.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amazingregistry.com privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525073426id_/http%3A//www.amazingregistry.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - AmazingRegistry.com
 
 AmazingRegistry.com is committed to your right to privacy and to taking steps designed to secure your personal information. To earn your trust and confidence in our commitment, the intent of this policy is to fully disclose our privacy practices to you. We will only use your personal information in accordance with this Privacy Policy.
 
-The AmazingRegistry.com website is owned and operated by Amazing Registry.com Inc.. AmazingRegistry.com makes the registries of various retailers available through this website and also offers related products and services provided by other companies.
+The AmazingRegistry.com website is owned and operated by Amazing Registry.com Inc. AmazingRegistry.com makes the registries of various retailers available through this website and also offers related products and services provided by other companies.
 
 We encourage you to read the AmazingRegistry.com privacy policy, as well as those of the retailers you register with or purchase from, and of the other companies featured on our website, so you understand what types of personal information are collected and how this information may be used. AmazingRegistry.com and the retailers and other companies participating in this website are committed to collecting and using your information only in accordance with their respective privacy policies.
 
@@ -49,7 +49,7 @@ Your choices with respect to personal information provided by you or us to partn
 
 Your ability to access, update or correct your information 
 
-At any time, you can view, update, or delete all of the information contained in your Account, or Gift Registry by logging in to your account and following the appropriate links or by clicking ‘Contact us’ and selecting ‘Remove my registry’. Your account log-in can be easily accessed by visiting our website at www.AmazingRegistry.com . In addition, you can update or delete such information by contacting our customer service department by email at help@amazingregistry.com. However, even if you delete or change some personal information in our registration database, it may still be stored on our, or other third party, databases (including those kept for archival purposes).
+At any time, you can view, update, or delete all of the information contained in your Account, or Gift Registry by logging in to your account and following the appropriate links or by clicking ‘Contact us’ and selecting ‘Remove my registry’. Your account log-in can be easily accessed by visiting our website at www.AmazingRegistry.com . In addition, you can update or delete such information by contacting our customer service department by email at help@AmazingRegistry.com. However, even if you delete or change some personal information in our registration database, it may still be stored on our, or other third party, databases (including those kept for archival purposes).
 
 The security measures we take to protect your personal information
 
@@ -57,7 +57,7 @@ When you register for certain online gift registries, you will have the opportun
 
 Additional information about online privacy and changes to our policy 
 
-Please be aware our website has advertisements and links to other websites that may collect personal information about you. This Privacy Policy does not cover the information practices or policies of such websites. We encourage you to read the privacy policies of all such websites, as their policies may be materially different from our Privacy Policy. Any material changes in the way we use personal information will be described in future versions of this Privacy Policy. Of course, you may always submit concerns regarding our Privacy Policy or our privacy practices to our Customer Service Center at help@amazingregistry.com. Please reference the Privacy Policy in your subject line. We will attempt to respond to all reasonable concerns or inquiries within five business days of receipt.
+Please be aware our website has advertisements and links to other websites that may collect personal information about you. This Privacy Policy does not cover the information practices or policies of such websites. We encourage you to read the privacy policies of all such websites, as their policies may be materially different from our Privacy Policy. Any material changes in the way we use personal information will be described in future versions of this Privacy Policy. Of course, you may always submit concerns regarding our Privacy Policy or our privacy practices to our Customer Service Center at help@AmazingRegistry.com. Please reference the Privacy Policy in your subject line. We will attempt to respond to all reasonable concerns or inquiries within five business days of receipt.
 
 Contact Us 
 
