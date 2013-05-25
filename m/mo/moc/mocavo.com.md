@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mocavo.com privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028101203id_/http%3A//www.mocavo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mocavo.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526001800id_/http%3A//www.mocavo.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Mocavo
 
@@ -49,7 +49,7 @@ We may extend any of our rights under this Privacy Policy to third parties perfo
 
 SHARING INFORMATION
 
-We may enable other users of our site and third parties to view or receive information from your profile, subject to your permission to share this information. These third-parties may include social networking providers such as Facebook, Linked-In, Twitter and MySpace, as well as individual subscribers to these third-party services. With your permission, we may publish or distribute selected information about you, such as your recommendations, interests and other data of possible interest to other users of our site and third parties.
+We may enable other users of our site to view or receive information from your profile. We may enable third parties to view or receive information from your profile, subject to your permission to share this information. These third-parties may include social networking providers such as Facebook, Linked-In, Twitter and MySpace, as well as individual subscribers to these third-party services. With your permission, we may publish or distribute selected information about you, such as your recommendations, interests and other data of possible interest to other users of our site and third parties.
 
 For the purpose of operating our business, we may transfer information between Mocavo, Inc. and our preferred service providers who use that information only to conduct Mocavo, Inc. business. For example, they may handle our credit card processing, shipping, data management, email distribution, market research, information analysis, and promotions management. We provide our preferred service providers with the information they need to perform their services and work with them to respect and protect your information. 
 
