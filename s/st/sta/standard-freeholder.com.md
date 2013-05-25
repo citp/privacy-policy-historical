@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the standard-freeholder.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014155002id_/http%3A//www.standard-freeholder.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the standard-freeholder.com privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525084701id_/http%3A//www.standard-freeholder.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Cornwall Standard Freeholder
 
