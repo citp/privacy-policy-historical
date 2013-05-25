@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tomandlorenzo.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015113749id_/http%3A//www.tomandlorenzo.com/2006/07/privacy-policy-information.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tomandlorenzo.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526002034id_/http%3A//www.tomandlorenzo.com/2006/07/privacy-policy-information.html) for the most accurate reproduction.*
 
 # Privacy Policy Disclosure | Tom & Lorenzo
 
-Posted on Jul 21, 2006 in [Misc.](http://www.tomandlorenzo.com/category/misc "View all posts in Misc.")
+Posted on Jul 21, 2006 in [Fashion](http://www.tomandlorenzo.com/category/fashion "View all posts in Fashion")
 
 Your privacy is important to us. This Privacy Policy provides information about the personal information that this website collects and the ways in which this website uses that personal information.
 
@@ -60,6 +60,8 @@ If there are any questions regarding this privacy policy you may contact us usin
 
 Website: http://www.tomandlorenzo.com  
 Email: tlo @ tomandlorenzo . com
+
+Tags:
 
 Follow us:   
 [](https://twitter.com/#!/tomandlorenzo) [](http://www.facebook.com/pages/Tom-and-LorenzoProject-Rungay/131035174615) [](http://tomandlorenzo.tumblr.com/) [](http://feeds.feedburner.com/tlofeed) [](https://pinterest.com/tomandlorenzo/)
