@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the conversationsnetwork.org privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120145258id_/http%3A//www.conversationsnetwork.org/faqPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conversationsnetwork.org privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526005423id_/http%3A//www.conversationsnetwork.org/faqPrivacy) for the most accurate reproduction.*
 
 # Privacy Policy for The Conversations Network
+
+This page is archived for historical purposes. The Conversations Network ceased operation of its websites as of the end of 2012.
 
 The personal privacy of Internet users is extremely important to The Conversations Network and we recognize and support the protection of visitors' privacy rights as a fundamental principle of our business.
 
@@ -43,9 +45,10 @@ From time to time we may offer users the opportunity to subscribe to one of our 
 The Conversations Network does not send "spam." The term "spam" refers to emailing a message to address(es) that have not asked to receive it. In addition, every message sent by The Conversations Network provides information about unsubscribing from (that is, choosing not to receive) future mailings. Every email message The Conversations Network sends contains instructions that allow you unsubscribe from our list(s). To contact The Conversations Network to request removal from future The Conversations Network email communications, you can send email to webmaster@conversationsnetwork.org specifying the address that you wish to unsubscribe, or send mail to the US postal address:
 
 > The Conversations Network  
->  113 Terrace Avenue  
->  Kentfield, CA 94904 (US)  
->  or call +1 415.453.1400
+> c/o Internet Archive  
+> 300 Funston Avenue  
+> San Francisco, CA 94118 (US)  
+>  or call +1 415.561.6767
 
 ### Forms and Surveys
 
