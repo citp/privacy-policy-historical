@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mbna.co.uk privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609084026id_/http%3A//www.mbna.co.uk/privacy/index.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mbna.co.uk privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526001809id_/http%3A//www.mbna.co.uk/privacy/index.php) for the most accurate reproduction.*
 
 # Privacy and cookie policy | UK | MBNA - Official Site
 
@@ -91,6 +91,8 @@ usy46gabsosd
 mbox | Enables us to track your activity within our website so that we can tailor our product and service advertisements so they’re more relevant to you in future.  
 full | Enables us to store your mobile or desktop display preferences so our website is easy to access and use.  
 mbna_csm_v | Enables us to track your activity within our website to help us provide relevant product and service information.  
+Card-table | Enables us to provide you with a consistent and intuitive browsing experience.  
+CookieNotification | Enables us to store your preference for cookie notifications.  
 BIGipServerwww.euapplyonlinenow.com | Ensures that you can complete our online application form easily.  
 JSESSIONID | Ensures that you can complete our online application form easily.  
 UserSession | Enables us to use your information and preferences to provide relevant web content based on your location and the type of account you hold with us.  
@@ -118,7 +120,7 @@ Other technologies we use may capture customer specific data to help us understa
 
 Back to top
 
-## Information we collect 
+## Information we collect
 
 When you visit this site, we may collect certain types of information from you, such as information you voluntarily provide via forms, surveys, applications, etc. We may also collect information about you from your online browsing and transactions, including your preferences, pages visited, technical information regarding your computer and operating systems, such as your internet protocol address, domain name, system configuration and settings. See Cookies, similar files and other technologies for details.
 
