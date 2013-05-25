@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the publicschoolworks.com privacy policy that was archived on 2012-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121025125001id_/http%3A//corp.publicschoolworks.com/Page.aspx/7/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the publicschoolworks.com privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525042242id_/http%3A//corp.publicschoolworks.com/Page.aspx/7/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Public School Works
 
