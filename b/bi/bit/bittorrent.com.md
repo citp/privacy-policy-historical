@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the bittorrent.com privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109190013id_/http%3A//bittorrent.ourtoolbar.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bittorrent.com privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525054915id_/http%3A//bittorrent.ourtoolbar.com/privacy) for the most accurate reproduction.*
 
 # Conduit-Powered Application – Privacy Policy
 
 |  |  | 
+
+Last updated: November 7, 2012 
 
 This privacy policy governs your use of a software application (“Application”) that was created using the Conduit platform (<http://www.conduit.com/>) by one of your favorite brands or web publishers (“Publisher”) directly or indirectly, and explains how Conduit Ltd. and its affiliates (together, “Conduit”, “we” or “us”) treats your information, and protects your privacy, when you use the Application. The Application may include various features and content that are offered and delivered to you by the Publisher or other third parties, such as: news, messages, games, as well as features and content that you may choose to add (“Content”).
 
@@ -14,7 +16,7 @@ The following are the privacy practices of Conduit and our policy for third part
 Additionally, the Application uses cookies to identify and save various pieces of information about your use of the Application and of certain features of the Application. For instance, when you access the Application download and installation screen(s), we use Cookies to automatically record information that your browser sends to install the Application according to your preferences. These Cookies can be removed or blocked altogether by following the help file directions on your Internet browser. You may always customize the Application according to your preferences by using the Options dialog box of the Application. “Cookies” are small pieces of information that a website places on your device’s browser while you are viewing a website.
 
     * Search Data. As part of the functionality available on the Application, we may offer you search features provided by us and/or other third parties. Additionally, we may use Cookies in the web search services we provide to you.  These Cookies collect and store information about your search activity when you use our web search services. This information may be shared with third party applications that use search data to function or to offer you more customized information and services. The information collected and stored by these Cookies may include Personally Identifiable Information, depending on your search query.  For instance, if you search your own name Personally Identifiable Information would be included in the search query.  By using the search features provided by us, you are consenting to grant Conduit permission to use Cookies regarding your use of web search. 
-    * Additional Services. Conduit may share the information it receives from the Cookies with other third parties in order to serve you ads and provide you with relevant offers and services. We may combine the web search information with other non-personally identifiable Application information (as further detailed above) and if we do, some of the otherwise non-personally identifiable Application information may become personally identifiable information. 
+    * Additional Services. We may combine the web search information with other non-personally identifiable Application information (as further detailed above) and if we do, some of the otherwise non-personally identifiable Application information may become personally identifiable information. 
 
 In addition, an Application also take the form of apps, buttons or gadgets that we created for your enjoyment If these Applications will require any access, collection, use or sharing of your information – both your Personally Identifiable Information and non- Personally Identifiable Information,  we will ask for your permission prior to having access to your information.
 
@@ -31,8 +33,6 @@ In addition, Conduit, as a platform provider, provides the Publisher and other t
   7. **Control over Preferences** – you have full control over the Application and can modify your preferences at any time (including the Content you have added to the Application), from the Options dialog box of the Application. 
   8. **Report** – if you have any concerns while using the Application, or if you believe that your privacy right has been violated, please contact us by email at: [Privacy@conduit.com](mailto:Privacy@conduit.com). 
   9. **Updates** – from time to time we may update this privacy policy. We encourage you to visit and review this policy frequently to stay informed. 
-
-[Last updated: July 22, 2012]
 
 [Contact us about privacy issues](https://web.archive.org/contact/?topic=Privacy+Issues)
 
