@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the carbonmade.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016072059id_/http%3A//carbonmade.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carbonmade.com privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525055440id_/http%3A//carbonmade.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy : Carbonmade
+# Privacy Policy - Carbonmade
 
 Effective February 25th, 2010
 
