@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the furtadosonline.com privacy policy that was archived on 2012-12-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121212182954id_/http%3A//www.furtadosonline.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the furtadosonline.com privacy policy that was archived on 2013-05-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130525054028id_/http%3A//www.furtadosonline.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -20,7 +20,97 @@
 
 <body>
 <div class="mcont">
-	 <div class="tcont">
+	 <script>
+function suggest(inputString){
+		if(inputString.length == 0) {
+			$('#suggestions').fadeOut();
+		} else {
+		$('#searchText').addClass('load');
+			$.post("/autosuggest.php", {'return_type':1,'pageType':1,'queryString': ""+inputString+""}, function(data){
+				if(data.length >0) {
+					$('#suggestions').fadeIn();
+					$('#suggestionsList').html(data);
+					$('#searchText').removeClass('load');
+				}
+			});
+		}
+	}
+
+function fill(thisValue) {		
+	$('#searchText').val(thisValue);	//alert(thisValue);
+	//document.getElementById('searchText').value = thisValue;
+	// Autosuggest - Cat + Brand
+	$.post("/autosuggest.php", {'return_type':2,'pageType':1,'queryString': ""+thisValue+""}, function(data){	//alert(data);
+		var temp = data.split('|');
+		$('#catid').val(temp[0]);
+		$('#brandid').val(temp[1]);
+		//$('#catid').val(1121);
+
+		setTimeout("$('#suggestions').fadeOut();", 600);
+		$('#formSearch').submit();
+	});
+		
+	
+}
+
+</script>
+<style>
+#result {
+	height:20px;
+	font-size:16px;
+	font-family:Arial, Helvetica, sans-serif;
+	color:#333;
+	padding:5px;
+	margin-bottom:10px;
+	background-color:#FFFF99;
+}
+#country{
+	padding:3px;
+	border:1px #CCC solid;
+	font-size:17px;
+}
+.suggestionsBox {
+	position: absolute;
+	top:65px;
+	margin: 52px 0px 0px 0px;
+	width: 200px;
+	padding:0px;
+	background-color: #000;
+	border-top: 3px solid #000;
+	color: #fff;
+	z-index:1000;
+	height:300px;
+	overflow:auto; 
+}
+.suggestionList {
+	margin: 0px;
+	padding: 0px;
+}
+.suggestionList ul li {
+	list-style:none;
+	margin: 0px;
+	padding: 6px;
+	border-bottom:1px dotted #666;
+	cursor: pointer;
+}
+.suggestionList ul li:hover {
+	background-color: #FC3;
+	color:#000;
+}
+
+.load{
+background-image:url(loader.gif);
+background-position:right;
+background-repeat:no-repeat;
+}
+
+#suggest {
+	position:relative;
+}
+
+</style>
+
+<div class="tcont">
   <div class="FL" style="padding:39px 0px 0px 32px;"> <a href="/" title="Furtadosonline.com � Online Music Instrument Store"><img src="/images/logo.jpg" width="260" height="56" border="0" alt="Furtadosonline.com – Online Music Instrument Store"></a> </div>
   <div class="FL">
   	<div style="padding:10px 0px 0px 0px; .padding:10px 20px 0px 0px; _padding:10px 20px 0px 0px;">
@@ -34,7 +124,7 @@
 		<a href="/shopping-cart.html" class="w_11">Shopping Cart</a> &nbsp;|&nbsp; 
 		<a href="/login.php" class="w_11">Sign In</a> &nbsp;|&nbsp; 
 	<a href="/registration.html" class="w_11">New User</a> </div>
-    	<form name="formSearch" method="post" action="/searchresult.php">
+    	<form name="formSearch" id="formSearch" method="post" action="/searchresult.php">
 	  <div style="padding:13px 0px 0px 40px;">
 	  <script type="text/javascript" language="javascript">
 function free_shipping(){		
@@ -173,9 +263,15 @@ function pincodePopup()
 <a href="javascript:void(0)" class="bl_12" onclick="javascript:free_shipping();" title="Click to read Terms &amp; Conditions"><img src="/images/free_shipping_banner.jpg" border="0" height="48" alt="Free Shipping on any Musical Equipments"></a></div>
       <div class="FL" style="padding-left:55px;">
       	      <div class="FL">
-        <input type="text" name="searchText" id="searchText" value="" class="search" style="width:130px;" maxlength="100">
-      </div>
+        <input type="text" name="searchText" id="searchText" class="search" style="width:130px;" maxlength="200" value="">
+				<div class="suggestionsBox" id="suggestions" style="display: none;">
+                    <div class="suggestionList" id="suggestionsList"></div>
+                    <div class="CL"></div>
+                  </div>
+                </div>
               <div class="FL PA3">
+				<input type="hidden" name="catid" id="catid">
+				<input type="hidden" name="brandid" id="brandid">
                 <input type="image" src="/images/searchbtn.jpg" onclick="return checkSearch()" title="Search">
               </div>
         <script type="text/javascript" language="javascript">
@@ -222,6 +318,7 @@ function searchtips(){
               <div class="FL r_11 PT5" style="display:block;width:160px;"><a href="javascript:void(0)" class="r_10 UL" onclick="searchtips();">Search Tips</a>&nbsp;|&nbsp;<a href="/advance-search-1.html" class="r_10 UL">Advanced Search</a></div>
               <div class="CL"></div>
       </div>
+      	      
       <div class="CL"></div>
     </div>
 	</form>
@@ -389,24 +486,20 @@ function showstore(val){
 
  
   </div>
-  <div>
-  		<!--<img src="/images/yamaha_ava.jpg" border="0" />-->
-		<div class="MT5" style="background:url(/images/h_br_bg1.jpg) repeat-x;width:183px;">
-	  <p class="FL" style="height:26px;"></p>
-	  <p class="FL PT5 PL10"><a href="jobs.html" class="w_11"><b>» Jobs &amp; Careers</b></a></p>
-	  <p class="CL"></p>
-	</div>
-  </div> 
-  <div class="PT10" style="width:185px;">
+
+	<div class="PT10"><a href="/staticpage.php?id=69" title=" "><img src="/images/finance.jpg" border="0" width="187" height="189" alt="Finance"></a></div>
+  
+
+	<div class="PT10" style="width:185px;">
 	<div class="" style="border:1px #CFCFCF solid; background:#F8F3E5;">
   <div style="background:url(/images/h_r_bg1.jpg) repeat-x; padding:5px 8px;" class="w_14"><b>Testimonials</b></div>
   <div class="PA10">
  
 	
 	
-    <p class="g_12">This has been a wonderful experience. Extremely fast delivery and I loved the strings. I never knew about the website until I googled. My pre-pay experience with online shopping has many scars but...</p>
-	<p class="PT10 bl_11"><b>Sobraj </b></p>
-	<p class="PT5 bl_11">Feedback on - Dec, 2012</p>
+    <p class="g_12">The experience with Furtados totally blew my mind. top marks for customer satisfaction. I look forward to more purchases from here. Its a brand you can trust blindly.</p>
+	<p class="PT10 bl_11"><b>Saiprasad </b></p>
+	<p class="PT5 bl_11">Feedback on - Feb, 2013</p>
 	<p class="PT5" style="border-bottom:1px dotted #999999"></p>
 	
 
@@ -493,12 +586,12 @@ The privacy practices of this statement apply to our services available under th
 	<div class="MT15" style="border:1px #CFCFCF solid; background:#F8F3E5; width:181px;">
   <div style="background:url(/images/h_r_bg1.jpg) repeat-x; padding:5px 8px;" class="w_14"><b>Product Spotlight</b></div>
   <div class="PA10">
-    <p><a href="/product/Dunlop-guitar-pick-riffs-0-96mm-120360.html" title="Dunlop, Guitar Pick, Riffs, 0.96mm"><img src="http://www.furtadosonline.com/media/instrument/10085/120360_1_dunlop_guitar_pick_riffs_096mm_100x75.jpg" width="100" height="75" border="0" class="imgbrd" alt="Dunlop, Guitar Pick, Riffs, 0.96mm"></a></p>
-    <p class="PT5 PB10"><a href="/product/Dunlop-guitar-pick-riffs-0-96mm-120360.html" class="b_12"><b>Dunlop, Guitar Pick, Riffs, 0.96mm</b></a></p>
+    <p><a href="/product/Java-electric-guitar-string--set-010s-215-f010-126125.html" title="Java, Electric Guitar String - Set .010s 215-F010"><img src="http://www.furtadosonline.com/media/instrument/100008/126125_1_java_electric_guitar_string_set_010s_215f010_100x75.jpg" width="100" height="75" border="0" class="imgbrd" alt="Java, Electric Guitar String - Set .010s 215-F010"></a></p>
+    <p class="PT5 PB10"><a href="/product/Java-electric-guitar-string--set-010s-215-f010-126125.html" class="b_12"><b>Java, Electric Guitar String - Set .010s 215-F010</b></a></p>
     <div style="border-top:1px #999 dotted;" class="hlist1">
       <ul>
-        <li><a href="/product/Granada-violin-shoulder-rest-1-4--1-16-size-124189.html" class="b_11">Granada, Violin Shoulder Rest, 1/4 - 1/16 Size</a></li>
-        <li><a href="/product/Ashton-ukulele-uke100mh-206217.html" class="b_11">Ashton, Ukulele UKE100MH</a></li>
+        <li><a href="/product/Casio-keyboard-adaptor-lad6-203262.html" class="b_11">Casio, Keyboard Adaptor LAD6</a></li>
+        <li><a href="/product/Yamaha-foot-switch-fc4-116106.html" class="b_11">Yamaha, Foot Switch FC4</a></li>
       </ul>
     </div>
 	
@@ -511,9 +604,9 @@ The privacy practices of this statement apply to our services available under th
  
 	
 	
-    <p class="PT10">	<a href="event/Gala-concert-1147.html" title="Gala Concert"><img src="http://www.furtadosonline.com/media/event/2012/Nov/securedownload_1353776472_160x160.jpg" border="0" class="imgbrd" alt="Gala Concert" style="width:160px;"></a></p>
-	<p class="PT5"><a href="/event/Gala-concert-1147.html" title="Gala Concert" class="g_11"><b>Gala Concert</b></a></p>
-	<p class="PT5 g_11">Dec 13, 2012</p>
+    <p class="PT10">	<a href="event/Canada-india-youth-orchestra-1393.html" title="Canada-India Youth Orchestra"><img src="http://www.furtadosonline.com/media/event/2013/May/compressed_version_1368440466_160x160.png" border="0" class="imgbrd" alt="Canada-India Youth Orchestra" style="width:160px;"></a></p>
+	<p class="PT5"><a href="/event/Canada-india-youth-orchestra-1393.html" title="Canada-India Youth Orchestra" class="g_11"><b>Canada-India Youth Orchestra</b></a></p>
+	<p class="PT5 g_11">May 25, 2013</p>
 	<p class="PT5" style="border-bottom:1px dotted #999999"></p>
 	
 
@@ -527,9 +620,9 @@ The privacy practices of this statement apply to our services available under th
   
  
 	
-    <p class="PT10"><a href="/news/Keep-of-kalessin-signs-to-demonstealer-records-booking-agency-278.html" title="Keep of Kalessin signs to Demonstealer Records Booking Agency"><img src="http://www.furtadosonline.com/media/news/2012/Dec/keep_of_kalessin_1355142083_160x160.jpg" border="0" class="imgbrd" alt="Keep of Kalessin signs to Demonstealer Records Booking Agency;" style="width:160px;"></a></p>
-	<p class="PT5"><a href="/news/Keep-of-kalessin-signs-to-demonstealer-records-booking-agency-278.html" title="Keep of Kalessin signs to Demonstealer Records Booking Agency" class="g_11"><b>Keep of Kalessin signs to Demonstealer Records Booking Agency</b></a></p>
-	<p class="PT5 g_11">Dec 10, 2012</p>
+    <p class="PT10"><a href="/news/Ray-manzarek-doors-keyboardist-dead-at-74-348.html" title="Ray Manzarek, Doors Keyboardist, Dead At 74"><img src="http://www.furtadosonline.com/media/news/2013/May/ray_1369119557_160x160.jpg" border="0" class="imgbrd" alt="Ray Manzarek, Doors Keyboardist, Dead At 74;" style="width:160px;"></a></p>
+	<p class="PT5"><a href="/news/Ray-manzarek-doors-keyboardist-dead-at-74-348.html" title="Ray Manzarek, Doors Keyboardist, Dead At 74" class="g_11"><b>Ray Manzarek, Doors Keyboardist, Dead At 74</b></a></p>
+	<p class="PT5 g_11">May 21, 2013</p>
 	<p class="PT5" style="border-bottom:1px dotted #999999"></p>
 	
 	
@@ -541,10 +634,10 @@ The privacy practices of this statement apply to our services available under th
 <form name="newsletter_subscription" id="newsletter_subscription" method="post" action="newsletter_subscription2db.php">
   <div id="newsletter">
     <div style="background:url(/images/signupbg.jpg) no-repeat; width:181px; height:189px;">
-      <div style="padding:130px 0px 5px 10px;">
+      <div style="padding:10px 0px 5px 10px;">
         <input type="text" name="emailID" id="emailID" value="Enter Your Email ID here.." style="font:11px arial; color:#999; padding:4px; border:1px #333 solid; width:150px;" onclick="if(this.value == 'Enter Your Email ID here..'){this.value = '';}" maxlength="100">
       </div>
-      <div class="PL10">
+      <div class="PL10" style="padding-left:100px; padding-top:27px;">
 	  <a href="javascript:void(0);" onclick="return subscribe();">
 	  	<img src="/images/subscribe.jpg" border="0" alt="Subscribe" title="Suscribe to Newsletter" width="76" height="28">
 	  </a>
@@ -611,7 +704,7 @@ The privacy practices of this statement apply to our services available under th
   </tr>
 </tbody></table>
 <br>
-Copyright © 2012 Furtadosonline.com
+Copyright © 2013 Furtadosonline.com
 </div>
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
