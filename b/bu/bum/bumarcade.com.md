@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bumarcade.com privacy policy that was archived on 2012-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120902065531id_/http%3A//www.bumarcade.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bumarcade.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526015757id_/http%3A//www.bumarcade.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - BumArcade.com
 
