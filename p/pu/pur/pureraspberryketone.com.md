@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pureraspberryketone.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016100152id_/https%3A//pureraspberryketone.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pureraspberryketone.com privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525143450id_/https%3A//www.pureraspberryketone.com/privacy.php) for the most accurate reproduction.*
 
 # PureRaspberryKetone: Privacy Policy
 
