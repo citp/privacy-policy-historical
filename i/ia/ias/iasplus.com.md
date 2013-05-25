@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the iasplus.com privacy policy that was archived on 2012-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121025010743id_/http%3A//www.iasplus.com/en/footer/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iasplus.com privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525130727id_/http%3A//www.iasplus.com/en/footer/privacy) for the most accurate reproduction.*
 
-# Privacy — IAS Plus
+# Privacy
 
 Deloitte Global Services Limited ( **DGSL** ) operates this website and is a privacy conscious organization. The following privacy statement explains how DGSL protects visitors' information gathered via this website. If you as a visitor choose to register or submit information to this website, you agree to the use of such data in accordance with this privacy statement. Please note that this site contains links to other web sites, including, without limitation, web sites maintained by member firms of Deloitte Touche Tohmatsu Limited (each a " **DTTL Member Firm** ") or their affiliates, which may not be governed by this privacy statement.
 
