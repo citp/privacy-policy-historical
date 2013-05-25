@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qatarcl.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123085243id_/http%3A//qatarcl.com/p%2C2%2Chelp.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qatarcl.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526001906id_/http%3A//qatarcl.com/p%2C2%2Chelp.htm) for the most accurate reproduction.*
 
 # Qatar Classifieds - Buy, Sell, Rent, Job Vacancies @ QatarCl.com
 
