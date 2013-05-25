@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the securesafe.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102074026id_/http%3A//www.securesafe.com/en/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the securesafe.com privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525030651id_/http%3A//www.securesafe.com/en/security/privacy-policy.html) for the most accurate reproduction.*
 
 # SecureSafe - online secure storage for passwords & files / Privacy Policy | SecureSafe
 
@@ -8,10 +8,12 @@ We are committed to safeguarding the privacy of our website visitors and SecureS
 
 When you visit the SecureSafe website, we collect your IP address and standard web information, such as your browser type and the pages you accessed on our website. These data are used for statistical purposes only, to improve our service. If you open an account, we collect the following types of information from you:
 
-\- username   
-\- email address   
-\- mobile number (optional, only used to carry out our SecureSafe service or for 2-stage authentication)   
-\- first name, last name (optional, only used to carry out our SecureSafe service)
+  * username
+  * email address
+  * mobile number (optional, only used to carry out our SecureSafe service or for 2-stage authentication)
+  * first name, last name (optional, only used to carry out our SecureSafe service)
+
+
 
 These data are only available to our customer service for personal interaction with you and to inform you about important system changes. Finally, we may collect additional information from or about you in other ways not specifically described here. For example, we may collect information related to your contact with our customer support team or the length of subscription time. All information, including files and passwords, that you store in your SecureSafe data-safe is fully encrypted and cannot be accessed by anyone except you.
 
@@ -27,23 +29,25 @@ We store and process your personal information on our computers in Switzerland, 
 
 Our primary purpose in collecting personal information is to provide you with a safe, smooth, efficient and customized experience. We may use your personal information to:
 
-\- provide the services and customer support you request;
+  * provide the services and customer support you request;
+  * customize, evaluate, and improve our services and the content and layout of our website;
+  * send you targeted marketing, service update notices, and promotional offers based on your communication preferences;
+  * deliver specific update reports and exceptional SecureSafe special offers, based on your preferred communication methods. We do not send out these offers more than once every two months, as a short email. 
+  * send you a series of introductory emails consisting of five emails sent at three-week intervals. The emails explain the functions and features of SecureSafe in more detail. Users who no longer wish to receive our newsletter or advertising emails can click on the "Unsubscribe" link, which is included in all the emails we send.
+  * compare information to test for accuracy and verify it with third parties.
 
-\- customize, evaluate, and improve our services and the content and layout of our website;
 
-\- send you targeted marketing, service update notices, and promotional offers based on your communication preferences; - compare information to test for accuracy and verify it with third parties.
 
 ## How we share personal information with other parties
 
 We rely on the services of trusted partners to implement SecureSafe. The following partners may see some of your contact data as part of their way of helping us to provide our SecureSafe service to you:
 
-\- ECall, an SMS delivery service by Dolphin Systems in Switzerland, will use your mobile number to be able to deliver notification messages for activating the inheritance procedure and to be able to deliver the SMS authentication code to you.
+  * ECall, an SMS delivery service by Dolphin Systems in Switzerland, will use your mobile number to be able to deliver notification messages for activating the inheritance procedure and to be able to deliver the SMS authentication code to you.
+  * Law enforcement or government officials when we are compelled to do so by a subpoena, court order or similar legal procedure. If we need to do so to comply with law then we would potentially be forced to give away the username and email address. All other personal information is fully encrypted and cannot be seen by any SecureSafe/DSwiss employee.
+  * All our payment transactions are handled through our payment services provider, Saferpay. We will share information with Saferpay only to the extent necessary for the purposes of processing payments you make via our website. DSwiss does not store your credit card information.
+  * Other third parties with your consent or direction to do so. SecureSafe will not sell or rent any of your personal information to third parties in the normal course of doing business, and only shares your personal information with third parties as described in this policy.
 
-\- Law enforcement or government officials when we are compelled to do so by a subpoena, court order or similar legal procedure. If we need to do so to comply with law then we would potentially be forced to give away the username and email address. All other personal information is fully encrypted and cannot be seen by any SecureSafe/DSwiss employee.
 
-\- All our payment transactions are handled through our payment services provider, Saferpay. We will share information with Saferpay only to the extent necessary for the purposes of processing payments you make via our website. DSwiss does not store your credit card information.
-
-\- Other third parties with your consent or direction to do so. SecureSafe will not sell or rent any of your personal information to third parties in the normal course of doing business, and only shares your personal information with third parties as described in this policy.
 
 ## How you can access or change your personal information
 
@@ -56,3 +60,5 @@ We may update this privacy policy from time to time by posting a new version on 
 ## How you can contact us about privacy questions
 
 If you have questions or concerns regarding this policy, you should contact us by email [info@securesafe.com](mailto:info@securesafe.com) or by writing to us at DSwiss AG, Attn: Privacy Department, Badenerstrasse 281, 8003 Zurich, Switzerland.
+
+You can find answers to your support queries here: <http://www.securesafe.com/en/online-support-center.html>
