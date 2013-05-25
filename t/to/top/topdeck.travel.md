@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topdeck.travel privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023215034id_/http%3A//www.topdeck.travel/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topdeck.travel privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526000231id_/http%3A//www.topdeck.travel/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
