@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magazinemall.in privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014064745id_/https%3A//www.magazinemall.in/privacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magazinemall.in privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526005226id_/http%3A//magazinemall.in/privacyPolicy.aspx) for the most accurate reproduction.*
 
 # :: Magazine Mall - Privacy Policy ::
 
