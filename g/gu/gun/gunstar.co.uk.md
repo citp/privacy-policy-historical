@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the gunstar.co.uk privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015221100id_/http%3A//www.gunstar.co.uk/Privacy-Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gunstar.co.uk privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526001833id_/http%3A//www.gunstar.co.uk/Privacy-Policy.htm) for the most accurate reproduction.*
 
 # 
 
 **GUNSTAR LIMITED** (" **We** ") are committed to protecting and respecting your privacy.
 
-This policy (together with our terms of use, [ Terms-Of-Use.htm](https://web.archive.org/web/20121015221100id_/http%3A//www.gunstar.co.uk/Terms-Of-Use.htm) acceptable use policy, [ Acceptable-Use-Policy.htm](https://web.archive.org/web/20121015221100id_/http%3A//www.gunstar.co.uk/Acceptable-Use-Policy.htm) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.  Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+This policy (together with our terms of use, [ Terms-Of-Use.htm](https://web.archive.org/web/20130526001833id_/http%3A//www.gunstar.co.uk/Terms-Of-Use.htm) acceptable use policy, [ Acceptable-Use-Policy.htm](https://web.archive.org/web/20130526001833id_/http%3A//www.gunstar.co.uk/Acceptable-Use-Policy.htm) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.  Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
 For the purpose of the Data Protection Act 1998 (the “Act”), the data controller is GunStar Limited of London Road, Sayers Common, West Sussex, BN6 9HS. 
 
@@ -84,7 +84,7 @@ In the event that we sell or buy any business or assets, in which case we may di
 
 If GunStar Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
 
-If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use [Terms-Of-Use.htm](https://web.archive.org/web/20121015221100id_/http%3A//www.gunstar.co.uk/Terms-Of-Use.htm) and other agreements; or to protect the rights, property, or safety of GunStar Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use [Terms-Of-Use.htm](https://web.archive.org/web/20130526001833id_/http%3A//www.gunstar.co.uk/Terms-Of-Use.htm) and other agreements; or to protect the rights, property, or safety of GunStar Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
 We co-operate with the police and other third parties involved in law enforcement.  We may disclose personal information to any such person if we in our absolute discretion consider it necessary or desirable in connection to an investigation, for general analysis by them or otherwise in respect of any illegal activity. 
 
