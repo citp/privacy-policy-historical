@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tastekid.com privacy policy that was archived on 2012-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120724000015id_/http%3A//www.tastekid.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tastekid.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526002210id_/http%3A//www.tastekid.com/page/privacy) for the most accurate reproduction.*
 
-# TasteKid | Privacy
+# Privacy | TasteKid
 
 This website - [http://www.tastekid.com](http://www.tastekid.com/) \- (the "Website") is owned and operated by TasteKid, Inc. ("TasteKid" or "We"). We understand and value your privacy. At TasteKid, we want to make your experience online satisfying and safe. 
 
