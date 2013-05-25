@@ -1,173 +1,137 @@
-<!--The following is the downloaded HTML source of the edfinancial.com privacy policy that was archived on 2012-10-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121029114103id_/http%3A//www.edfinancial.com/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the edfinancial.com privacy policy that was archived on 2013-05-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130525074932id_/https%3A//www.edfinancial.com/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head id="head"><title>
 	Internet Privacy Policy - Edfinancial Services
 </title><meta name="description" content="At Edfinancial Services, we continue to develop technological enhancements for students, families, schools and our partners. We are committed to excellence in customer service, and your privacy is important to us."> 
 <meta charset="UTF-8"> 
-<meta http-equiv="cache-control" content="no-cache"> 
 <meta name="keywords" content="privacy, protect your information, personal information, use of personal information, consumer protection, secure transactions, NPPI, esignature, SSL"> 
-<link href="/CMSPages/GetCSS.aspx?stylesheetname=EdfinancialRedesignSub" type="text/css" rel="stylesheet"> 
-<link rel="shortcut icon" href="/images/favicon.ico">
-<link rel="bookmark" href="/images/favicon.ico"><meta name="language" content="en">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/scripts/jquery-1-6-1-min.js"></script>
-<script type="text/javascript" src="/scripts/jquery-ui-min.js"></script>
-<link rel="stylesheet" type="text/css" href="/CMSPages/GetCSS.aspx?stylesheetname=modal_css">
-
+<link href="/CMSPages/GetCSS.aspx?stylesheetname=10_2012_style" type="text/css" rel="stylesheet"> 
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+<link rel="shortcut icon" href="/img/favicon.ico">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js" type="text/javascript"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.7.2/jquery-ui.js" type="text/javascript"></script>
+<!--[if lt IE 9]><script src="/scripts/html5shiv.js" type="text/javascript"></script><![endif]-->
 <script type="text/javascript">
+var _gaq = _gaq || [];
+var pluginUrl = 
+ '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+_gaq.push(['_require', 'inpage_linkid', pluginUrl]);
+_gaq.push(['_setAccount', 'UA-5507749-1']);
+_gaq.push(['_trackPageview']);
 
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-5507749-1']);
-  _gaq.push(['_trackPageview']);
+(function() {
+	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
 
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
+jQuery(function(){
+    jQuery('dt').addClass('toggler');
+	//jQuery('.special_alert').hide();.slideDown('fast');
 
-$(function(){
-	$('a[rel="PDF"]').attr('target','_blank');
-	hider = function(elem) { $(elem).removeClass('toggled').next().hide(); };
-	$('.toggler').click(function(){
-		//$('.toggler').each(function(){hider(this);});
-		$(this).next().toggle();
-		if ($(this).hasClass('toggled')) { $(this).removeClass('toggled'); }
-		else { $(this).addClass('toggled'); }
-	});
-	hider('.toggler');
-	$('.SpanishDefForms').hide();
-	$('.SpanishDefLink').click(function(){ $(this).addClass('active');
-	$('.EnglishDefLink').removeClass('active');
-	$('.SpanishDefForms').show(); $('.EnglishDefForms').hide(); });
-	$('.EnglishDefLink').click(function(){ $(this).addClass('active');
-	$('.SpanishDefLink').removeClass('active');
-	$('.EnglishDefForms').show(); $('.SpanishDefForms').hide(); });
-
-	$('.makeModal').dialog({
-			autoOpen: false,
-			modal: true,
-			position: ['center',100],
-			draggable: false,
-			resizable: false,
-			width: 650
-	});
-	$('a[href="#loan-types"]').click(function(){
-		$('#loan-types').dialog('open');
-		$('#loan-types a').blur();
-		return false;
-	});
-
-	$("#modal").dialog({
-		autoOpen: false, modal: true, position: ['center',75],
-		draggable: false, resizable: false,
-		width: 658, height: 415
-	});
-	$('a[rel=account]').click(function(){
-		$('#modal').dialog('open');
-		$('.modal-direct').blur();
-		return false;
-	});
 });
-</script>
-<style>
-#fadeshow {
-   z-index:1;
-   background:transparent !important;
-   box-shadow: 0 0 10px #888;
-   margin: 30px 60px 30px 37px;
-}
-#fadeshow img, #fadeshow div, #fadeshow { border-radius:20px; }
-
-
-#loan-types { padding: 10px; }
-.normal { font-weight:normal; }
-.ui-dialog {
-	background:url(/images/portals-modal-bg.jpg) no-repeat center white;
-	border:1px black solid;
-	border-radius:15px;
-}
-.ui-dialog-titlebar {
-	height: 54px;
-	border-radius: 14px 14px 0 0;
-	box-shadow: #666 0 5px 10px;
-	background: url(/images/which-loan-type-banner.jpg) no-repeat center #0E4D85;
-	border-bottom: #8EC05D 5px solid;
-}
-.ui-widget-overlay{
-	position:absolute; top:0;
-	background-color: #AAA; opacity: .3;
-}
-</style> 
+</script> 
 </head>
 <body class="LTR ENUS ContentBody">
-    <form name="form" method="post" action="/privacy.aspx" id="form">
-<div>
+    <form method="post" action="/privacy.aspx" id="form">
+<div class="aspNetHidden">
 <input type="hidden" name="manScript_HiddenField" id="manScript_HiddenField" value="">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTYwODg0MzQ2Ng9kFgICARBkZBYCAgMPZBYCZg9kFgJmD2QWAgIBD2QWAmYPZBYCZg9kFgICAg8PFgQeCENzc0NsYXNzBQ1zZWFyY2hUZXh0Ym94HgRfIVNCAgJkZGS4vU/VB7fWmfK3UOc/2Pz2yZZEywxZv7SHmnPZbSuuCA==">
+
 </div>
 
 <input type="hidden" name="lng" id="lng" value="en-US">
-<script src="/ScriptResource.axd?d=XQ1VB5zFydeY-w6SAxxtasto-rQC33Vperde1RbMJ6rDM8Ov_FPmNYAhtTN2FMky2HCwO99SBLR1rOIx-G_ssst36PeUoX0xbyx3U3FlkuaqDoID-j2BaiS78ev7gptJ0&amp;t=34d147fd" type="text/javascript"></script>
+<script type="text/javascript">
+	//<![CDATA[
+
+function PM_Postback(param) { if (window.top.HideScreenLockWarningAndSync) { window.top.HideScreenLockWarningAndSync(1080); }__doPostBack('m',param); }
+function PM_Callback(param, callback, ctx) { if (window.top.HideScreenLockWarningAndSync) { window.top.HideScreenLockWarningAndSync(1080); }WebForm_DoCallback('m',param,callback,ctx,null,true); }
+//]]>
+</script>
+<script src="/ScriptResource.axd?d=Jv8HNMYewqeCXXGy_fRz_WFvHr-IhqwX_U6opk40X9plwxUwcpXZ_w2PLcIzB7Miv2uZIWXkfusSDlml1uRNUJ_hfOUq6l5PEFWUQE8viXTVtq0CgiOnbvm9Ez4p0yqE0&amp;t=ffffffff8dea9fe4" type="text/javascript"></script>
     <div id="CMSHeaderDiv">
 	<!-- -->
 </div>
-     
- <div class="skipnav"><a href="#internalContent">Skip to main content</a></div>
- <div id="headerSearch">
-	<div id="headerLogo"><a href="/default.aspx" title="Edfinancial Services"><img src="/images/redesign/edfinancial_logo.gif" alt="Edfinancial Services"></a></div>
-	<div id="searchField">
-
-<!-- Start Search -->
-    
-	<div class="search">
-		<div id="p_lt_zoneSearch_cmssearchbox_pnlSearch" class="searchBox">
-	
-    <label for="p_lt_zoneSearch_cmssearchbox_txtWord" id="p_lt_zoneSearch_cmssearchbox_lblSearch">Search:</label><input name="p$lt$zoneSearch$cmssearchbox$txtWord" type="text" id="p_lt_zoneSearch_cmssearchbox_txtWord" class="searchTextbox"><input type="submit" name="p$lt$zoneSearch$cmssearchbox$btnGo" value="Go" id="p_lt_zoneSearch_cmssearchbox_btnGo" class="searchButton">
+    <div id="ctxM">
 
 </div>
-
-	</div>
     
-    <!-- End Search -->
+<!--[if lt IE 8]><p style="margin:1px; background: #ccc; border:1px dashed #999; color: #000; padding: 0.2em 0; text-align:center;">You are using an <strong>outdated</strong> browser. Parts of this webpage may not display correctly. Please upgrade your browser to improve your experience.</p><![endif]-->
+<div class="special_alert" style="display:none;">
+<div>The Manage My Account borrower portal is now available again. We apologize for the inconvenience this morning.</div>
 </div>
+<style>.skipnav { position: absolute; top: -20px; }.skipnav:focus { top:0; }</style>
+<a href="#content" tabindex="1" class="skipnav">Skip Navigation</a>
+<header>
+	<h1 id="logo"><a href="/home"><img id="p_lt_zLogo_Logo_ucEditableImage_imgImage" title="Edfinancial Services" src="/img/logo.aspx" alt="Edfinancial Services">
 
- </div>
+</a><span class="screen-reader">Edfinancial Services</span></h1>
+	<div id="SearchNav">
+        	<ul class="p2_nav">
+	<li class="popoverlink">
+		<a href="/AllForms" title="Complete List of Forms">Forms</a>
+		<!--<div class="popover">
+			<div class="vlist">
+				<strong>Common Forms:</strong><br />
+				<a href="#ibr">Income-Based Repayment</a><br />
+				<a href="#ehd">Economic Hardship Deferment</a><br />
+				<a href="#def-forb">Deferments and Forbearances</a><br />
+				<a href="#info-release">Information Release Form</a><br />
+				<a href="#tlf">Teacher Loan Forgiveness</a><br />
+				<a href="#tpd">Total and Permanent Disability</a><br />
+				<a href="/AllForms">more...</a></div>
+		</div>-->
+	</li>
+	|
+	<li class="popoverlink">
+		<a href="/Contact" title="Contact Us">Contact Us</a></li>
+</ul>
 
-<div class="content">
 
 
 
-<div id="menu">
-                      <h2>
-	Navigation</h2>
-<ul title="navigation">
-	<li>
-		<a href="/managemyaccount" title="Manage My Account">Manage My Account</a>
-		<h2>
-			Manage My Account</h2>
-		<ul title="Manage My Account links">
+<script type="text/javascript">jQuery(function($){ $('.searchBox').wrapInner('<form action="/search" method="GET" />'); });</script>
+<div class="searchBox">
+	<label for="searchtext">Search:</label> <input class="search_text" maxlength="1000" name="searchtext" type="text"> <input name="searchmode" type="hidden" value="anyword"> <input class="submit" name="SearchBtn" type="submit" value="Go"></div>
+<nav>
+<style>
+.memorialday {
+    position: absolute;
+    top: -2em;
+    right: -2em;
+    font-size: 0.9em;
+    color: #113355;
+} .memorialday:before {
+    content:"";
+    display:inline-block;
+    background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAMCAMAAABV0m3JAAAAYFBMVEXk8+zm9fGXHCn25/Dn7e7tztxTRHS5zOjEHB/Lysnq7vPL1+za5O3qr6jl492mrMWzPTvrlJDQpqHgv7tcgbWbPj/05ufJh4vceXq3j4/5+PayY2rAd3fZXV4wZ7X9/v2bgYsIAAAAnElEQVR42lXPyQ7DMAhFUXdIMw92EgMGwv//ZUmULnqWV09CBDPr67qqciklj1TMBeu34zg+qizCzOsVh+PCXhUBJFux0HnZflMUTme0+Z6KCACRrOZx8OUMqE7E9ylbKNO2gWJEXxJBhH0948wS9cROMXEOVloSHceIiEAp4i4lmL2J09I0y7K7Ra9DZi09eZ3Co3vlfH/kSOzPF20sFwoq0MdnAAAAAElFTkSuQmCC);
+    width:20px; height:12px;
+    margin-right: 0.5em;
+}
+</style>
+<div class="memorialday">Our offices will be closed on Memorial Day - Monday, May 27th.</div><ul id="main_nav">
+	<li class="main_nav_li">
+		<a href="/mystudentloans" title="My Student Loans">My Student Loans</a>
+		<ul>
 			<li>
-				<a href="/makeapayment" rel="account" title="Make a Payment">Make a Payment</a></li>
+				<a href="/mma" title="Make a Payment">Make a Payment</a></li>
 			<li>
-				<a href="/onlineaccountaccess" rel="account" title="Online Account Access">Online Account Access</a></li>
-			<li>
-				<a href="/MyAccount/UpdateInfo" title="Update My Information">Update My Information</a></li>
+				<a href="/mma" title="Online Account Access">Online Account Access</a></li>
 			<li>
 				<a href="/repaymentoptions" title="Repayment Options">Repayment Options</a></li>
 			<li>
-				<a href="/forms/otherforms" title="Online Forms">Online Forms</a></li>
+				<a href="/AllForms" title="Online Forms">Online Forms</a></li>
 			<li>
 				<a href="/bepaperfree" title="E-correspondence">E-correspondence</a></li>
 			<li>
 				<a href="/faqs" title="Student Loan FAQs">Student Loan FAQs</a></li>
+			<li>
+				<a href="/mystudentloans/militarybenefits">Benefits for Servicemembers</a></li>
 		</ul>
 	</li>
-	<li>
+	<li class="main_nav_li">
 		<a href="/debtmanagement" title="Debt Management">Debt Management</a>
-		<h2>
-			Debt Management</h2>
-		<ul title="Debt Management links">
+		<ul>
 			<li>
 				<a href="/debtmanagement/studentloanrepayment" title="Student Loan Repayment">Student Loan Repayment</a></li>
 			<li>
@@ -176,161 +140,168 @@ $(function(){
 				<a href="/debtmanagement/privatestudentloans" title="Private Student Loans">Private Student Loans</a></li>
 		</ul>
 	</li>
-	<li>
+	<li class="main_nav_li">
 		<a href="/forschoolsandclients" title="For Schools and Clients">For Schools &amp; Clients</a>
-		<h2>
-			For Schools and Clients</h2>
-		<ul title="For Schools and Clients links">
+		<ul>
 			<li>
-				<a href="/highereducationservices" title="Higher Education Solutions">Higher Education Solutions</a></li>
+				<a href="/HigherEducationSolutions" title="Higher Education Solutions">Higher Education Solutions</a></li>
 			<li>
 				<a href="/forschoolsandclients/repaymentservicing.aspx" title="Repayment Servicing">Repayment Servicing</a></li>
-			<li>
-				<a href="/forschoolsandclients/partners.aspx" title="Edfinancial Services Lenders">Edfinancial Services Lenders</a></li>
 		</ul>
 	</li>
-	<li>
-		<a href="/findcontactinfo" title="Contact">Contact</a>
-		<h2>
-			Contact</h2>
-		<ul title="Contact links">
+	<li class="main_nav_li">
+		<a href="/contact" title="Contact">Contact</a>
+		<ul>
 			<li>
-				<a href="/faqs" title="Student Loan FAQ's">Student Loan FAQs</a></li>
+				<a href="/faqs" title="Student Loan FAQs">Student Loan FAQs</a></li>
 			<li>
 				<a href="/ContactUs/PhoneandAddress" title="Phone Numbers and Addresses">Phone Numbers &amp; Addresses</a></li>
 			<li>
 				<a href="/ContactUs/EmailCustomerService" title="Email Customer Service">Email Customer Service</a></li>
-			<li>
-				<a href="/MyAccount/UpdateInfo" title="Update My Information">Update My Information</a></li>
+			<!--<li>
+				<a href="/MyAccount/UpdateInfo" title="Update My Information">Update My Information</a></li>-->
 			<li>
 				<a href="/mediacenter.aspx" title="Media Center">Media Center</a></li>
 		</ul>
 	</li>
 </ul>
-                        
-		</div>
-        
-
-
-
-
-
-<!--Start Internal Main --> 
-
-	<div class="internalMain">
-   		 <div id="siteMapPath">
-       			 <a href="/Default.aspx" title="Edfinancial Services" class="CMSBreadCrumbsLink">Edfinancial Services</a> &gt; <span class="CMSBreadCrumbsCurrentItem">Edfinancial Privacy Policy</span>
-
-   		 </div>
-   	 	 <div id="internalContent">
-       		 	<h1>Internet Privacy Policy</h1>
-<span class="floatright"><span id="container"><a href="http://www.truste.org/ivalidate.php?url=www.edfinancial.com&amp;sealid=101" title="Click to verify your privacy"><img width="79" height="103" src="/images/TRUSTeClicktoVerify.aspx?width=79&amp;height=103" alt="Click to verify your privacy"></a></span></span>
-<p>At Edfinancial Services, we continue to develop technological enhancements for students, families, schools and our partners. We are committed to excellence in customer service, and your privacy is important to us. This policy is effective on February 17, 2012.&nbsp;</p>
-<p>&nbsp;</p>
-<h3>TRUSTe Privacy Program</h3>
-<p>Edfinancial Services has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with <a href="http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html">TRUSTe's program requirements</a> including transparency, accountability and choice regarding the collection and use of your personal information.&nbsp; TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us via our <a href="https://www.edservicing.com/customercarequestions" target="_blank" title="e-mail contact form">e-mail contact form</a>.&nbsp; If you are not satisfied with our response you can <a href="http://watchdog.truste.com/pvr.php?page=complaint">contact TRUSTe here</a>.</p>
-<h3>What this Privacy Policy Covers</h3>
-<p>This Privacy Statement applies to Edfinancial Services and governs data collection and usage at all Edfinancial Services sites and services such as <a href="http://www.Edfinancial.com">www.Edfinancial.com</a>.<br>
-<br>
-Edfinancial Services is a servicer of student loans and provides various online services for other providers of educational funding. You may access some services provided by Edfinancial Services with pages that are co-branded through the site of one of our partner lenders. It is important to note that this privacy policy does not apply to other areas of that lender's site that are not provided by Edfinancial Services.<br>
-<br>
-Some areas of our websites may provide links to non-Edfinancial Services sites. If you link to a site that is not an Edfinancial Services website, the privacy policy of that site and its terms of use of use apply to you. We encourage you to learn about the privacy policy of any third party before giving personal information to them.</p>
-<h3>Use of Personal Identifying Information</h3>
-<p>Edfinancial Services does not collect any nonpublic personal information from visitors to our sites unless you expressly provide it to us through one of our online services. Edfinancial Services does not sell, rent or lease its customer lists to third parties. If you choose to register on an Edfinancial Services website in order to utilize an online service that requires you to log in, Edfinancial Services will collect basic information such as name, email address and brief demographic information. If you choose to submit an online loan application, Edfinancial Services will collect information such as your Social Security Number, and that of your endorser or co-borrower, if applicable, date of birth, driver's license number, phone number, and references required for the completion of a student loan application. Edfinancial Services will store this information for six (6) months for purposes of research, resend requests, and to send via batch to your school.</p>
-<p>We currently use Google Analytics to track visitors by collecting anonymous statistics with first-party cookies, small text files with a single string of anonymous text or numbers. We do not collect any personally identifiable information about website visitors using this tool. The type of information we collect includes pages visited, product, school and lender codes, IP address, the type of browser you are using, the websites you visit immediately before and immediately after you visit our websites, and other anonymous data involving your use of our websites. By supplementing our records, this information helps us learn things like what pages are most attractive to our visitors, which of our products most interest our customers, and what kinds of offers our customers like to see. We do not link an IP address with the identity of a computer user.</p>
-<p>If you choose not to uncheck the Offers box on your registration form, you agree that Edfinancial Services or Edamerica, Inc. may periodically send educational or marketing information to the email address with which you registered. You may unsubscribe to this service at any time by following the instructions included in each email communication. You may also contact us for assistance via our <a href="https://www.edservicing.com/customercarequestions" target="_blank" title="e-mail contact form">e-mail contact form</a>. You will be notified when your personal information is collected by any third party that is not our agent/service provider, so you can make an informed choice as to whether or not to share your information with that party.</p>
-<p>Certain processes, such as online loan applications, will require that you provide your social security number and date of birth if you choose to continue with the online process. Once this information is provided, it will be associated by Edfinancial Services with the user account that is then logged on, and you will not need to provide it again. Thereafter, you will only need your username and password to access your account information or to complete forms in other processes. For your security, the social security number that you enter cannot be used with any other account.</p>
-<p>Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law where in we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site. &nbsp;</p>
-<h3>Data Retention</h3>
-<p>We will retain your information for as long as your account is active or as needed to provide you services.&nbsp; If you wish to cancel your account or request that we no longer use your information to provide you services contact us vial our <a href="https://www.edservicing.com/customercarequestions" target="_blank" title="e-mail contact form">e-mail contact form</a>. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.</p>
-<h3>Minimum Age Requirement</h3>
-<p>By law, Edfinancial Services cannot collect any information from persons who are not yet 13 years of age. If you are under 13 years of age, you can utilize the information provided in many areas of our site, but you are not authorized to create an account.</p>
-<h3>Updating Personal Information</h3>
-<p>You may update or modify or delete basic personal information associated with your account by using the <a href="https://preapproval.edfinancial.com/LoginApp/Default.aspx">Edfinancial Services login manager</a> or by contacting us via our <a href="https://www.edservicing.com/customercarequestions" target="_blank" title="e-mail contact form">e-mail contact form</a>.</p>
-<h3>Use of Cookies</h3>
-<p>If you choose to register with the Edfinancial Services Sites in order to utilize a service that requires you to log in, your user ID will be stored in a temporary "cookie" on your web browser. A cookie is a text file that is placed on your hard disk by a web page server to help us identify you. Cookies cannot be used to run programs or deliver viruses to your computer. The cookie that manages your login will be removed as soon as you close your browser. Other cookies that are used are for customization of content and contain no personally identifying information. Our cookies are not used to collect any nonpublic personal information. We do not link the information we store in cookies to any personally identifiable information you submit while on our site.</p>
-<h3>Website Use Information</h3>
-<p>Web servers at Edfinancial Services automatically recognize your domain name, but not your e-mail address. No nonpublic personal information is collected unless you choose to provide it to us through one of our online services. Our web server does collect information such as domain name, number of hits, pages visited and length of user session in order to compile website statistics that enable us to analyze how our websites are used. This information is then used to improve the usefulness of the sites.</p>
-<h3>Confidentiality and Security</h3>
-<p>The security of your personal information is important to us.&nbsp; When you enter sensitive information (such as credit card number and/or social security number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL).&nbsp; To learn more about SSL, visit <a href="http://info.ssl.com/article.aspx?id=10241">http://info.ssl.com/article.aspx?id=10241</a>.</p>
-<p>In addition to the use of SSL technology, we follow industry-accepted best practices for protecting personal information, both during transmission and at rest on our systems. While no method of communication over the Internet or electronic storage is ever 100% secure, we have gone to great lengths to protect your personal information through the use of layered firewalls, intrusion detection/protection systems, file level encryption of data while at rest and encryption of data while in transit over our network. All systems provide extensive logging and automated reporting of issues enabling timely response, interdiction and corrective actions if necessary.</p>
-<p>If you have any questions about security on our Web site, you can contact us via our <a href="https://www.edservicing.com/customercarequestions" target="_blank" title="e-mail contact form">e-mail contact form</a>.</p>
-<h3>Passwords</h3>
-<p>The <a href="https://preapproval.edfinancial.com/LoginApp/Default.aspx">Edfinancial Services login manager</a> allows you to change your password at any time.<br>
-<br>
-If you forget your password, there is a link on the <a href="https://preapproval.edfinancial.com/LoginApp/Default.aspx" title="Edfinancial Services login manager">Edfinancial Services login manager</a> that will enable you to enter your username or email address with which you originally registered. When you submit this information, if your information matches what Edfinancial Services has recorded for you, your username and password will be emailed to you.</p>
-<h3>Changes to this Privacy Policy</h3>
-<p>Edfinancial Services may occasionally update this Privacy Policy to reflect company and customer feedback. We encourage you to periodically review this Policy to be informed of how Edfinancial Services is protecting your information. If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If, however, we are going to use users' personally identifiable information in a manner different from that stated at the time of collection we will notify users by posting a notice on our Web site for 30 days.</p>
-<h3>Contact information</h3>
-<p>If you have any questions about this policy please contact:</p>
-<p>Customer Privacy<br>
-Edfinancial Services<br>
-120 North Seven Oaks Drive<br>
-Knoxville, TN 37922<br>
-<br>
-<a href="https://www.edservicing.com/customercarequestions" target="_blank" title="e-mail contact form">e-mail contact form</a></p>
-<h3>California Privacy</h3>
-<p>If you are resident of California, “Your Privacy Rights” allow you to receive an Information-Sharing Disclosure. This disclosure provides a list of categories of personal information shared, during the immediately preceding calendar year, with other businesses for their direct marketing purposes, and the names and addresses of other businesses with whom such information was shared. You may request this disclosure by contacting us at the information provided above.</p>
-<p>We will respond to requests made to the designated contact point and provide the Information-Sharing Disclosure within 30 days of receipt of request.<br>
-<br>
-If your request is made to an address, other than the one provided in this policy, the Information-Sharing Disclosure will be responded to in a “reasonable time period,” no later than 150 days from receipt of the request.</p>
-<p>For more information, visit the <a href="http://www.privacy.ca.gov/" title="California privacy">California Privacy homepage</a>.<br>
-&nbsp;</p>
-    		 </div>
-
+</nav>
+        </div>
+</header>
+<div id="content">
 	
 
-	</div>
+<section id="main-content" class="sub1">
+	<nav class="breadcrumbs">
+	<a href="/home" title="Edfinancial Services" class="CMSBreadCrumbsLink">Home</a> &gt; <span class="CMSBreadCrumbsCurrentItem">Edfinancial Privacy Policy</span>
+</nav><h1>
+	Internet Privacy Policy</h1>
+<p>
+	At Edfinancial Services, we continue to develop technological enhancements for students, families, schools and our partners. We are committed to excellence in customer service, and your privacy is important to us. This policy is effective on December 20, 2012.&nbsp;</p>
+<h3>
+	TRUSTe Privacy Program</h3>
+<p>
+	<a href="http://www.truste.org/ivalidate.php?url=www.edfinancial.com&amp;sealid=101" title="Click to verify your privacy"><img align="right" alt="Click to verify your privacy" height="103" src="/images/TRUSTeClicktoVerify.aspx?width=79&amp;height=103" style="margin:0 5px 0 0;" width="79"></a>Edfinancial Services has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with <a href="http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html">TRUSTe's program requirements</a> including transparency, accountability and choice regarding the collection and use of your personal information.<br>
+	<br>
+	TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us via our <a href="https://www.edservicing.com/customercarequestions" target="_blank" title="email contact form">email contact form</a>.&nbsp; If you are not satisfied with our response you can <a href="http://watchdog.truste.com/pvr.php?page=complaint">contact TRUSTe here</a>.</p>
+<h3>
+	What this Privacy Policy Covers</h3>
+<p>
+	This Privacy Statement applies to Edfinancial Services and governs data collection and usage at all Edfinancial Services sites and services such as <a href="http://www.Edfinancial.com">www.Edfinancial.com</a>.<br>
+	<br>
+	Edfinancial Services is a servicer of student loans and provides various online services for other providers of educational funding. You may access some services provided by Edfinancial Services with pages that are co-branded through the site of one of our partner lenders. It is important to note that this privacy policy does not apply to other areas of that lender's site that are not provided by Edfinancial Services.<br>
+	<br>
+	Some areas of our websites may provide links to non-Edfinancial Services sites. If you link to a site that is not an Edfinancial Services website, the privacy policy of that site and its terms of use apply to you. We encourage you to learn about the privacy policy of any third party before giving personal information to them.</p>
+<h3>
+	Use of Personal Identifying Information</h3>
+<p>
+	Edfinancial Services does not collect any nonpublic personal information from visitors to our sites unless you expressly provide it to us through one of our online services. Edfinancial Services does not sell, rent or lease its customer lists to third parties. Certain processes, such as our secure <a href="https://www.edservicing.com/customercarequestions" title="email contact form">email contact form</a>, will require that you provide your student loan account number and date of birth so that we may answer specific questions to assist you with your account(s).</p>
+<p>
+	We currently use Google Analytics to track visitors by collecting anonymous statistics with first-party cookies, small text files with a single string of anonymous text or numbers. We do not collect any personally identifiable information about website visitors using this tool. The type of information we collect includes pages visited, product, school and lender codes, IP address, the type of browser you are using, the websites you visit immediately before and immediately after you visit our websites, and other anonymous data involving your use of our websites. By supplementing our records, this information helps us learn things like what pages are most attractive to our visitors, which of our products most interest our customers, and what kinds of offers our customers like to see. We do not link an IP address with the identity of a computer user.</p>
+<p>
+Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law where in we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site.</p>
+<h3>
+	Data Retention</h3>
+<p>
+	We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us via our <a href="https://www.edservicing.com/customercarequestions" target="_blank" title="email contact form">email contact form</a>. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.</p>
+<h3>
+	Minimum Age Requirement</h3>
+<p>
+	By law, Edfinancial Services cannot collect any information from persons who are not yet 13 years of age. If you are under 13 years of age, you can utilize the information provided in many areas of our site, but you are not authorized to create an account.</p>
+<h3>
+	Updating Personal Information</h3>
+<p>
+	You may update or modify or delete basic personal information associated with your student loan account(s) by logging into the <a href="/MMA" title="Manage My Account">Manage My Account</a> borrower portal or by contacting us via our <a href="https://www.edservicing.com/customercarequestions" target="_blank" title="email contact form">email contact form</a>.</p>
+<h3>
+	Use of Cookies</h3>
+<p>
+	If you choose to register with the Edfinancial Services Sites in order to utilize a service that requires you to log in, your user ID will be stored in a temporary "cookie" on your web browser. A cookie is a text file that is placed on your hard disk by a web page server to help us identify you. Cookies cannot be used to run programs or deliver viruses to your computer. The cookie that manages your login will be removed as soon as you close your browser. Other cookies that are used are for customization of content and contain no personally identifying information. Our cookies are not used to collect any nonpublic personal information. We do not link the information we store in cookies to any personally identifiable information you submit while on our site.</p>
+<h3>
+	Website Use Information</h3>
+<p>
+	Web servers at Edfinancial Services automatically recognize your domain name, but not your e-mail address. No nonpublic personal information is collected unless you choose to provide it to us through one of our online services. Our web server does collect information such as domain name, number of hits, pages visited and length of user session in order to compile website statistics that enable us to analyze how our websites are used. This information is then used to improve the usefulness of the sites.</p>
+<h3>
+	Confidentiality and Security</h3>
+<p>
+	The security of your personal information is important to us.&nbsp; When you enter sensitive information (such as credit card number and/or social security number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL).&nbsp; To learn more about SSL, visit <a href="http://info.ssl.com/article.aspx?id=10241">http://info.ssl.com/article.aspx?id=10241</a>.</p>
+<p>
+	In addition to the use of SSL technology, we follow industry-accepted best practices for protecting personal information, both during transmission and at rest on our systems. While no method of communication over the Internet or electronic storage is ever 100% secure, we have gone to great lengths to protect your personal information through the use of layered firewalls, intrusion detection/protection systems, file level encryption of data while at rest and encryption of data while in transit over our network. All systems provide extensive logging and automated reporting of issues enabling timely response, interdiction and corrective actions if necessary.</p>
+<p>
+	If you have any questions about security on our Web site, you can contact us via our <a href="https://www.edservicing.com/customercarequestions" target="_blank" title="email contact form">email contact form</a>.</p>
+<h3>
+	Changes to this Privacy Policy</h3>
+<p>
+	Edfinancial Services may occasionally update this Privacy Policy to reflect company and customer feedback. We encourage you to periodically review this Policy to be informed of how Edfinancial Services is protecting your information. If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If, however, we are going to use users' personally identifiable information in a manner different from that stated at the time of collection we will notify users by posting a notice on our Web site for 30 days.</p>
+<h3>
+	Contact information</h3>
+<p>
+	If you have any questions about this policy please contact:</p>
+<p>
+	Customer Privacy<br>
+	Edfinancial Services<br>
+	120 North Seven Oaks Drive<br>
+	Knoxville, TN 37922<br>
+	<br>
+	<a href="https://www.edservicing.com/customercarequestions" target="_blank" title="email contact form">email contact form</a></p>
+<h3>
+	California Privacy</h3>
+<p>
+	If you are resident of California, “Your Privacy Rights” allow you to receive an Information-Sharing Disclosure. This disclosure provides a list of categories of personal information shared, during the immediately preceding calendar year, with other businesses for their direct marketing purposes, and the names and addresses of other businesses with whom such information was shared. You may request this disclosure by contacting us at the information provided above.</p>
+<p>
+	We will respond to requests made to the designated contact point and provide the Information-Sharing Disclosure within 30 days of receipt of request.<br>
+	<br>
+	If your request is made to an address, other than the one provided in this policy, the Information-Sharing Disclosure will be responded to in a “reasonable time period,” no later than 150 days from receipt of the request.</p>
+<p>
+	For more information, visit the <a href="http://www.privacy.ca.gov/" title="California privacy">California Privacy homepage</a>.<br>
+	&nbsp;</p>
 
-<!--End Internal Main -->
 
-<!--Start Internal Sidebar -->
 
-	<div class="internalSidebar">
-		<div class="centering"><div id="sidebarAds"><br>
-    			<a onclick="javascript: pageTracker._trackPageview('/subpageads/repaymentoptions');" title="Repayment Options" href="/repaymentoptions"><img alt="Repayment Options" src="/images/breakingbank225.jpg"></a> <br>
-<a onclick="javascript: pageTracker._trackPageview('/subpageads/bepaperfree');" title="Be Paper Free" href="/bepaperfree"><img alt="Be Paper Free" src="/images/bepaperfree225.jpg"></a>
-    		</div>
-    		</div>
-	</div>
-	<div class="clearBoth"></div>
 
-<!--End Internal Sidebar -->
+
+</section>
+<aside class="sub1">
+	<p> <a href="/repaymentoptions"><img alt="Repayment Options" src="/img/ads/RepmtOpt_BannerSmall.aspx" style="width: 221px; height: 104px;border-radius: 6px;box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.16);"></a>
+	<a href="/bepaperfree" title="Be Paper Free"><img alt="Be Paper Free" src="/img/ads/bePaperFree225.aspx" style="width: 225px; height: 108px;"></a> <a href="/mystudentloans/militarybenefits" title="Benefits for Servicemembers"><img alt="Benefits for Servicemembers" src="/img/ads/Military_Servicemember"></a></p>
+
+</aside>
 </div>
-<div class="clear"></div>
-            <div id="footerText">
-            <a href="/aboutthissite.aspx" title="About This Site">About This Site</a> | <a href="/mediacenter.aspx" title="Media Center">Media Center</a> | <a href="/contactus" title="Contact Us">Contact Us</a> | <a href="/careers.aspx" title="Careers">Careers</a> | <a href="/privacy.aspx" title="Privacy Policy">Privacy Policy</a> | <a href="/terms.aspx" title="Terms of Use">Terms of Use</a> | <a href="/sitemap" title="Site Map">Site Map</a><br>
-             © <script language="JavaScript1.2">
-        var months=new Array(13);
-        months[1]="January";
-        months[2]="February";
-        months[3]="March";
-        months[4]="April";
-        months[5]="May";
-        months[6]="June";
-        months[7]="July";
-        months[8]="August";
-        months[9]="September";
-        months[10]="October";
-        months[11]="November";
-        months[12]="December";
-        var time=new Date();
-        var lmonth=months[time.getMonth() + 1];
-        var date=time.getDate();
-        var year=time.getYear();
-        if (year < 2000)
-        year = year + 1900;
-        document.write(year + " Edfinancial Services. All rights reserved.");
-        </script>2020 Edfinancial Services. All rights reserved.
-        
-        <div id="truste"><a href="http://www.truste.org/ivalidate.php?url=www.edfinancial.com&amp;sealid=101" title="TRUSTe"><img src="/images/finalmark.gif" alt="Click to verify your privacy" style="border:none;"></a></div>
-        
-        
-            </div>
+<footer>
+	<nav><ul class="footer_links">
+	<li>
+		<a href="/aboutthissite.aspx" title="About This Site">About This Site</a> |</li>
+	<li>
+		<a href="/mediacenter.aspx" title="Media Center">Media Center</a> |</li>
+	<li>
+		<a href="/contactus" title="Contact Us">Contact Us</a> |</li>
+	<li>
+		<a href="/careers" title="Careers">Careers</a> |</li>
+	<li>
+		<a href="/privacy.aspx" title="Privacy Policy">Privacy Policy</a> |</li>
+	<li>
+		<a href="/terms.aspx" title="Terms of Use">Terms of Use</a></li>
+	<!--<li>
+		<a href="/sitemap.aspx" title="Site Map">Site Map</a></li>-->
+</ul>
+<small class="copyright">© <span id="copy-year">2020</span> Edfinancial Services. All rights reserved.</small> <script type="text/javascript">var d = new Date(); document.getElementById("copy-year").innerHTML=d.getFullYear();</script>
 
 
 
+</nav><a href="/privacy.aspx"><img id="p_lt_zFooter_EditableImage1_ucEditableImage_imgImage" title="Click to verify your privacy" src="/img/finalmark.aspx" alt="Click to verify your privacy">
 
+</a>
+</footer>
+<script type="text/javascript">
+jQuery(function($) {
+	hider = function(elem) { $(elem).removeClass('toggled').next().hide(); };
+	$('.toggler').click(function(){
+		$(this).next().toggle();
+		if ($(this).hasClass('toggled')) { $(this).removeClass('toggled'); }
+		else { $(this).addClass('toggled'); }
+	});
+	hider('.toggler');
+});
+</script>
     
     
 
@@ -338,7 +309,17 @@ If your request is made to an address, other than the one provided in this polic
 //<![CDATA[
 (function() {var fn = function() {$get("manScript_HiddenField").value = '';Sys.Application.remove_init(fn);};Sys.Application.add_init(fn);})();//]]>
 </script>
-</form>
+  <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJODc3OTc4NjAwZGTilXUpJk8M/WJa9enYZsinnVVrf2myVbC84+aGUYXz3Q==">
+    <script type="text/javascript"> 
+      //<![CDATA[
+      if (window.WebForm_InitCallback) { 
+        __theFormPostData = '';
+        __theFormPostCollection = new Array();
+        window.WebForm_InitCallback(); 
+      }
+      //]]>
+    </script>
+  </form>
 
 
 </body></html>
