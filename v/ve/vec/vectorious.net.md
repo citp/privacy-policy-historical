@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the vectorious.net privacy policy that was archived on 2012-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120210031844id_/http%3A//privacy.truste.com/privacy-policy/Vectorious.net/certified/04c4db32-b910-4376-a88a-9f089dbd4d5c) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vectorious.net privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526001745id_/http%3A//privacy.truste.com/privacy-policy/Vectorious.net/certified/04c4db32-b910-4376-a88a-9f089dbd4d5c) for the most accurate reproduction.*
 
 # Welcome to vectorious.net
 
-[](https://privacy.truste.com/privacy-seal/Vectorious.net/validation?validationId=0b286d0a-e077-4de2-876d-edbfa53a680a)**Effective July 5, 2011**
+[](https://privacy.truste.com/privacy-seal/Vectorious.net/validation?validationId=0b286d0a-e077-4de2-876d-edbfa53a680a&referer=)**Effective July 5, 2011**
 
 This privacy statement describes how **vectorious.net** collects and uses your personal information. The privacy practices of this company have been certified by TRUSTe for compliance with our [Privacy Certification Requirements](http://www.truste.com/privacy-program-requirements/index.html). 
 
@@ -10,9 +10,9 @@ This privacy statement describes how **vectorious.net** collects and uses your p
 
 ## Tracking On This Site »
 
-](https://web.archive.org/web/20120210031844id_/http%3A//privacy.truste.com/privacy-policy/Vectorious.net/certified/04c4db32-b910-4376-a88a-9f089dbd4d5c#Tracking)
+](https://web.archive.org/web/20130526001745id_/http%3A//privacy.truste.com/privacy-policy/Vectorious.net/certified/04c4db32-b910-4376-a88a-9f089dbd4d5c#Tracking)
 
-This website uses other companies to collect data about how you use this site, such as: what pages you viewed, how long you were on a particular page, or whether you filled out a form to understand how people use the site. **[learn more »](https://web.archive.org/web/20120210031844id_/http%3A//privacy.truste.com/privacy-policy/Vectorious.net/certified/04c4db32-b910-4376-a88a-9f089dbd4d5c#Tracking)**
+This website uses other companies to collect data about how you use this site, such as: what pages you viewed, how long you were on a particular page, or whether you filled out a form to understand how people use the site. **[learn more »](https://web.archive.org/web/20130526001745id_/http%3A//privacy.truste.com/privacy-policy/Vectorious.net/certified/04c4db32-b910-4376-a88a-9f089dbd4d5c#Tracking)**
 
 * * *
 
@@ -26,7 +26,7 @@ If a TRUSTe client has violated its privacy agreement you can file a complaint w
   
 
 
-[](https://privacy.truste.com/privacy-seal/Vectorious.net/validation?validationId=0b286d0a-e077-4de2-876d-edbfa53a680a)
+[](https://privacy.truste.com/privacy-seal/Vectorious.net/validation?validationId=0b286d0a-e077-4de2-876d-edbfa53a680a&referer=)
 
  **Effective on July 5, 2011**
 
