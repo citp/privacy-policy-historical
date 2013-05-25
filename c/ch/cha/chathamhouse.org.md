@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chathamhouse.org privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010143918id_/http%3A//www.chathamhouse.org/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chathamhouse.org privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525235625id_/http%3A//www.chathamhouse.org/privacy_policy) for the most accurate reproduction.*
 
 # Privacy & Cookies | Chatham House: Independent thinking on international affairs
 
