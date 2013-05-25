@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the collegexpress.com privacy policy that was archived on 2012-11-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121123092238id_/http%3A//www.collegexpress.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the collegexpress.com privacy policy that was archived on 2013-05-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130525070831id_/http%3A//www.collegexpress.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><!-- the "no-js" class is for Modernizr. --><head id="www-collegexpress-com" data-template-set="html5-reset">
 
@@ -47,7 +47,7 @@
 
  <!-- Amount of default banner images -->
  
- <body id="body" class="cx none1">
+ <body id="body" class="cx none5">
   
    
    
@@ -162,7 +162,7 @@
        <li class="alloyedu_scholarship"><a href="/alloy_scholarship/"><span class="number">$10,000</span><br>Scholarship</a></li>
        <li id="counselors" class="content_category"><a href="/counselors-and-parents/college-counselors/">For Parents<br>and Counselors</a>
         <ul>
-          <li><a href="/counselors-and-parents/college-counselors/">College Counselors</a></li>
+          <li><a href="/counselors-and-parents/college-counselors/">Guidance Counselors &amp;<br>Independent Consultants</a></li>
           <li><a href="/counselors-and-parents/parents/">Parents</a></li>
         </ul>
        </li>
@@ -190,11 +190,10 @@
      <div class="content">
       <div class="logo-tag">
       
-       <a href="/" class="cx_logo"><img src="/static/img/collegeXpressLogo.png" alt="CollegeXpress Logo"></a>
-       
-       
-       <p class="cx_tagline">Colleges. Scholarships. You.</p>
-       
+       <div itemscope="" itemtype="http://schema.org/Organization">
+        <a itemprop="url" href="/" class="cx_logo"><img itemprop="logo" src="/static/img/collegeXpressLogo.png" alt="CollegeXpress Logo"></a>
+       </div>
+      
       </div>
       
       
@@ -356,14 +355,15 @@
     <ul>
       <li class="ft_heading">Other Resources</li>
       <li><a href="/widgets/">Free College Widgets</a></li>
+      <li><a href="/fact_machine/">The Amazing College Fact Machine</a></li>
       <li><a href="/data_provider/">College Data Updates</a></li>
       <li><a href="/data_provider/">Scholarship Providers</a></li>
-      <li><a href="/counselors-and-parents/college-counselors/">Guidance Counselors</a></li>
+      <li><a href="/counselors-and-parents/college-counselors/">Guidance Counselors &amp; IECs</a></li>
       <!-- <li><a href="/counselors-and-parents/parents/">Parents</a></li> -->
     </ul>
      
       <p class="mb-0 clear-b"><img src="/static/img/carnegie.jpg" alt="Carnegie Communications Logo"></p> 
-      <p class="copyright">Copyright © 2012 <a href="http://www.carnegiecomm.com/">Carnegie Communications</a>. All rights reserved.</p>
+      <p class="copyright">Copyright © 2013 <a href="http://www.carnegiecomm.com/">Carnegie Communications</a>. All rights reserved.</p>
      
      <p class="note clear-l">Directory Data is copyrighted material under license to <a href="http://www.wintergreenorchardhouse.com/dataLease.php?subPageCat=dataHome&amp;pageCat=dataLease">Wintergreen Orchard House</a> and which is reproduced by permission of Wintergreen Orchard House. All rights reserved.</p>
       
@@ -386,8 +386,8 @@
   </footer>
 
   <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-  <script type="text/javascript" src="http://ajax.microsoft.com/ajax/jquery.validate/1.9/jquery.validate.min.js"></script>
-  <script type="text/javascript" src="http://ajax.microsoft.com/ajax/jquery.validate/1.9/additional-methods.min.js"></script>
+  <script type="text/javascript" src="http://ajax.microsoft.com/ajax/jquery.validate/1.11.1/jquery.validate.min.js"></script>
+  <script type="text/javascript" src="http://ajax.microsoft.com/ajax/jquery.validate/1.11.1/additional-methods.min.js"></script>
   <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.18/jquery-ui.min.js"></script>
 
   <script src="/static/gen/core.js"></script>
@@ -405,20 +405,18 @@
  <script type="text/javascript">
  /* <![CDATA[ */
  var google_conversion_id = 1003271569;
- var google_conversion_language = "en";
- var google_conversion_format = "3";
- var google_conversion_color = "ffffff";
  var google_conversion_label = "ZQXrCNf_hQQQkeuy3gM";
- var google_conversion_value = 0;
+ var google_custom_params = window.google_tag_params;
+ var google_remarketing_only = true;
  /* ]]> */
  </script>
- <script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
+ <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
  </script>
  <noscript>
  <div style="display:inline;">
- <img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1003271569/?value=0&amp;label=ZQXrCNf_hQQQkeuy3gM&amp;guid=ON&amp;script=0"/>
- </div>
- </noscript>
+ <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1003271569/?value=0&amp;label=ZQXrCNf_hQQQkeuy3gM&amp;guid=ON&amp;script=0"/>
+  </div>
+  </noscript>
 
 
   
@@ -456,7 +454,21 @@
       $(".content_category").mouseout(function(){
         $(this).find("ul").hide();
       });
-    });
+      
+      // dropdown menus
+      var megaConfig = {
+             interval: 100,
+             sensitivity: 7,
+             over: function(){
+          $("#mystuff_drop").show();
+         },
+             timeout: 200,
+             out: function(){
+          $("#mystuff_drop").hide();
+         }
+        };
+      $("#mystuff_li").hoverIntent(megaConfig);  
+      });
 
 
   </script>
