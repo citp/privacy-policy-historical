@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sarkarinaukris.org privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221154435id_/http%3A//sarkarinaukris.org/contact-us) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sarkarinaukris.org privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525120346id_/http%3A//sarkarinaukris.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sarkari Naukri
 
