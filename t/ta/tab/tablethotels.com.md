@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tablethotels.com privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121210047id_/http%3A//www.tablethotels.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tablethotels.com privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525235953id_/http%3A//www.tablethotels.com/en/privacy) for the most accurate reproduction.*
 
 # Tablet Hotels | Privacy Policy
 
@@ -7,6 +7,9 @@ Your privacy is important to us. This Privacy Policy tells you about Tablet's po
 By using our sites and services, you accept and agree to the terms of this Privacy Policy and you consent to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy.
 
 This Privacy Policy is effective upon acceptance for new users and is otherwise effective on August 20, 2012.
+
+[We self-certify compliance with:](https://safeharbor.export.gov/list.aspx)  
+[](https://www.export.gov/safeharbor)
 
 ## 1\. Definitions
 
