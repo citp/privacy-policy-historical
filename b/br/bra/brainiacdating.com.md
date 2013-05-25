@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brainiacdating.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224093520id_/http%3A//brainiacdating.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brainiacdating.com privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525043223id_/http%3A//brainiacdating.com/privacy.php) for the most accurate reproduction.*
 
 # Find smart singles at BrainiacDating.com.
 
@@ -64,11 +64,15 @@ We will not disclose personally identifiable information we collect from you to 
 
 We will provide you with the means to ensure that personally identifiable information in your web account file is correct and current. You may review this information by contacting us by sending an email to our support attendant: support@brainiacdating.com>
 
-  5. **CHANGES TO THIS STATEMENT**
+  5. **PROMOTING YOUR PROFILE**
+
+Your profile may be selected to be featured (seen on the featured page) and can be posted to social media sources. If you do not want this you can change the settings on your profile (profile settings page) and make you photos available to friends on the site or password protected (profile photos page). 
+
+  6. **CHANGES TO THIS STATEMENT**
 
 Social Universe, LLC has the discretion to occasionally update this privacy statement. When we do, we will also revise the “updated” date at the top of this Privacy page. We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect. Your continued use of the service constitutes your agreement to this privacy statement and any updates.
 
-  6. **CONTACTING US**
+  7. **CONTACTING US**
 
 If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please contact us at:
 
