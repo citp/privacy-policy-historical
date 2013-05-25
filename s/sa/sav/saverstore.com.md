@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the saverstore.com privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018192631id_/http%3A//www.saverstore.com/products/information/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saverstore.com privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525134045id_/http%3A//www.saverstore.com/products/information/privacy) for the most accurate reproduction.*
 
-# Cheap Privacy best offers
+# 
 
 At Saverstore.com we are committed to protecting your privacy. We will only use the information that we collect about you lawfully (in accordance with the Data Protection Act 1998).
 
