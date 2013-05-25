@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the totallyhistory.com privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107224542id_/http%3A//totallyhistory.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totallyhistory.com privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525041818id_/http%3A//totallyhistory.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -67,9 +67,3 @@ TotallyHistory.com
 http://totallyhistory.com
 
 This document was last updated on April 30, 2012
-
-### Comments
-
-comments
-
-Powered by [Facebook Comments](http://3doordigital.com/wordpress/plugins/facebook-comments/)
