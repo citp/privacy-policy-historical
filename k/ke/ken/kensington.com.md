@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kensington.com privacy policy that was archived on 2012-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120918160920id_/http%3A//www.kensington.com/kensington/us/us/s/1382/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kensington.com privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525235612id_/http%3A//www.kensington.com/kensington/us/us/s/1382/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Kensington
 
@@ -49,11 +49,11 @@ In addition to the information that you provide to us we may also collect data a
 
 We may also use these tools on our eMail marketing campaigns to allow us to understand what links you click on and what content is of interest to you.
 
-ACCO Brands may also collect data form commercial sources to enrich and verify the data that you have provided or that we have collected about you. This data will help us to ensure we have accurate records and will provide us with the ability to keep your information up to date. In some cases we may use this commercial data to work out something about you. For example we may use your IP address to calculate your approximate geographic location.
+ACCO Brands may also collect data from commercial sources to enrich and verify the data that you have provided or that we have collected about you. This data will help us to ensure we have accurate records and will provide us with the ability to keep your information up to date. In some cases we may use this commercial data to work out something about you. For example we may use your IP address to calculate your approximate geographic location.
 
 **a. Cookies**
 
-A “cookie” is a small data file transmitted form a website to your computer’s hard drive. ACCO Brands will use cookies on our websites to provide you with services and features. For example we will use cookies to help you login to your account and provide a personalised experience. We will also use cookies to connect your activity together across multiple visits. In some cases we will also use cookies to monitor your interaction with our advertising campaigns; these cookies will be delivered by a third party website but will provide us with information when you visit our web site.
+A “cookie” is a small data file transmitted from a website to your computer’s hard drive. ACCO Brands will use cookies on our websites to provide you with services and features. For example we will use cookies to help you login to your account and provide a personalised experience. We will also use cookies to connect your activity together across multiple visits. In some cases we will also use cookies to monitor your interaction with our advertising campaigns; these cookies will be delivered by a third party website but will provide us with information when you visit our web site.
 
 Cookies are usually defined in one of two ways and ACCO Brands sites use both of them: 
 
@@ -70,9 +70,9 @@ Please be aware that a number of features on our site require cookies to operate
 
 **b. Web beacons**
 
-A Web beacon is an electronic image. Web beacons can track certain things form your computer and can report activity back to a web server allowing us to understand some of your behaviour.
+A Web beacon is an electronic image. Web beacons can track certain things from your computer and can report activity back to a web server allowing us to understand some of your behaviour.
 
-If you choose to receive emails form ACCO Brands we will use web beacons to track your reaction to our emails. We will also use them to track if you click on the links and at what time and date you do so. Some of our marketing partners will use web beacons to track your interaction with online advertising banners.
+If you choose to receive emails from ACCO Brands we will use web beacons to track your reaction to our emails. We will also use them to track if you click on the links and at what time and date you do so. Some of our marketing partners will use web beacons to track your interaction with online advertising banners.
 
 **c. Embedded Web links**
 
@@ -114,13 +114,13 @@ Where we display testimonials, reviews or recommendations on our web site they h
 
 ACCO Brands will never sell or lease your information to any third party. We may disclose your personal information to our partners in accordance with this policy. We will share your information in the following ways:
 
-ACCO Brands works with a number of suppliers internationally that help us to process your requests, deliver customer service and support, send our email marketing communications and provide the experience that you have come to expect form our brands. We will share your information with these suppliers in order to fulfil the service that they provide to us. They are under contract to keep your data secure and not to use it for any reason other than to fulfil the service we have requested from them.
+ACCO Brands works with a number of suppliers internationally that help us to process your requests, deliver customer service and support, send our email marketing communications and provide the experience that you have come to expect from our brands. We will share your information with these suppliers in order to fulfil the service that they provide to us. They are under contract to keep your data secure and not to use it for any reason other than to fulfil the service we have requested from them.
 
 On occasion we may provide you with the ability to communicate with selected third parties. Where this is the case we will provide you with the facility to instruct us to share your data with the selected third party. We will only ever share your data in this way if you have told us that you are willing to allow us to do so.
 
 ACCO Brands requires that all users of our web sites and marketing campaigns allow us to share information with our subsidiaries and global legal entities. As a global organisation we have systems and process in countries around the globe and therefore need to be able to process your information globally to fulfil your requests for service and deliver the experience that you have asked for. This sharing is required as a condition of you providing us with information.
 
-Except as describe in this policy we will not share your data with third parties unless it is under one of the following circumstances
+Except as described in this policy we will not share your data with third parties unless it is under one of the following circumstances
 
 (i) respond to duly authorized information requests of police and governmental authorities;  
 (ii) comply with any law, regulation, subpoena, or court order;  
@@ -138,9 +138,9 @@ ACCO Brands does not actively seek to gather data from Children. We do not targe
 
 ACCO Brands wants to provide you with relevant information that you have requested. 
 
-You can make choices about the subscription based services we provide at the point of data collection or at anytime after you have received a communication form us or whilst you are subscribed to a service. This assumes that any transactional or service oriented messages are excluded form your preference as they are not intended to be for the purposes of marketing communications and rather to fulfil a service you have requested.
+You can make choices about the subscription based services we provide at the point of data collection or at anytime after you have received a communication from us or whilst you are subscribed to a service. This assumes that any transactional or service oriented messages are excluded from your preference as they are not intended to be for the purposes of marketing communications and rather to fulfil a service you have requested.
 
-The communication that you receive form ACCO Brands will be in accordance with your preferences and this policy. Some of the communications you receive could include automatic data collection tools.
+The communication that you receive from ACCO Brands will be in accordance with your preferences and this policy. Some of the communications you receive could include automatic data collection tools.
 
 **a. Subscription eMail communications**
 
@@ -176,7 +176,7 @@ We value your opinions and welcome your feedback. Please use the contact methods
 
 **14\. Other Policies and statements**
 
-Please read this privacy policy in conjunction with our [global ‘terms of use’ statement](https://web.archive.org/web/20120918160920id_/http%3A//www.kensington.com/kensington/us/us/s/1381/legal-notice.aspx)
+Please read this privacy policy in conjunction with our [global ‘terms of use’ statement](https://web.archive.org/legalNotice)
 
 **15\. Governing Law**
 
