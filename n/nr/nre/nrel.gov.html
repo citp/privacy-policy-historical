@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the nrel.gov privacy policy that was archived on 2012-10-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121014021100id_/http%3A//www.nrel.gov/security.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nrel.gov privacy policy that was archived on 2013-05-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130526000135id_/http%3A//www.nrel.gov/security.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <title>NREL: Security and Privacy Notices</title>
@@ -8,6 +8,15 @@
 
 <!--Force IE to render with latest engine-->
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+<!--Favicon -->
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+
+<!-- iOS icons -->
+<link rel="apple-touch-icon" href="/images/touch-icon-iphone.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/images/touch-icon-ipad.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/images/touch-icon-iphone-retina.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/images/touch-icon-ipad-retina.png">
 
 <!--MAIN NREL STYLESHEET -->
 <link rel="stylesheet" type="text/css" href="/includes/nrel.css"> 
@@ -19,7 +28,6 @@ normal[0] = "/images/tn_about_nrel_off.gif";
 normal[1] = "/images/tn_energy_analysis_off.gif";
 normal[2] = "/images/tn_science_tech_off.gif";
 normal[3] = "/images/tn_tech_transfer_off.gif";
-normal[99] = "/images/tn_applying_tech_off.gif";
 normal[4] = "/images/tn_tech_deployment_off.gif";
 normal[5] = "/images/tn_esi_off.gif";
 
@@ -28,7 +36,6 @@ over[0] = "/images/tn_about_nrel_on.gif";
 over[1] = "/images/tn_energy_analysis_on.gif";
 over[2] = "/images/tn_science_tech_on.gif";
 over[3] = "/images/tn_tech_transfer_on.gif";
-over[99] = "/images/tn_applying_tech_on.gif";
 over[4] = "/images/tn_tech_deployment_on.gif";
 over[5] = "/images/tn_esi_on.gif";
 
@@ -65,10 +72,17 @@ function msout(num) {
   <script src="/includes/js/jquery-ui-1.8.19.custom/js/jquery-ui-1.8.19.custom.min.js" type="text/javascript"></script>
   <link href="/includes/js/jquery-ui-1.8.19.custom/css/custom-theme/jquery-ui-1.8.18.custom.css" rel="stylesheet" type="text/css"> 
   
-  <!-- Lighbox -->
+  <!-- ariaLighbox -->
   <script src="/includes/js/lightbox/js/ui.ariaLightbox_min.js" type="text/javascript"></script>	
   
 <!-- END GLOBAL SCRIPTS -->
+
+
+
+
+<!-- SITE SPECIFIC SCRIPTS -->
+
+
 
 
 
@@ -110,13 +124,16 @@ function msout(num) {
 <!-- NEWS must go last! (until decoupled from cfincludes) -->
 
 
+<!-- END SITE SPECIFIC SCRIPTS -->
+
+
 
 <!--GOOGLE ANALYTICS-->
 <script type="text/javascript">
  (function() {
-    var so = document.createElement('script'); so.type = 'text/javascript'; so.async = true;
-    so.src = '//www.nrel.gov/includes/ga/nrel.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(so, s);
+ var so = document.createElement('script'); so.type = 'text/javascript'; so.async = true;
+ so.src = '//www.nrel.gov/includes/ga/nrel.js';
+ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(so, s);
   })();
 </script>
 
@@ -133,20 +150,20 @@ function msout(num) {
 <!--
 <div id="nrelheader"><img src="/images/head_nrel.gif" alt="NREL - National Renewable Energy Laboratory" width="1000" height="86" border="0" usemap="#nrelheader_map" />
   <map name="nrelheader_map" id="nrelheader_map">
-    <area shape="rect" coords="-10,0,834,85" href="/" alt="NREL - National Renewable Energy Laboratory" />
-    <area shape="rect" coords="835,3,999,54" href="http://energy.gov/" alt="U.S. Department of Energy" />
-    <area shape="rect" coords="835,55,1000,83" href="http://nrelsurvey.hellman.com" alt="Take Our Survey!" />
+ <area shape="rect" coords="-10,0,834,85" href="/" alt="NREL - National Renewable Energy Laboratory" />
+ <area shape="rect" coords="835,3,999,54" href="http://energy.gov/" alt="U.S. Department of Energy" />
+ <area shape="rect" coords="835,55,1000,83" href="http://nrelsurvey.hellman.com" alt="Take Our Survey!" />
   </map>
 </div>
 -->
 <!--NREL HEADER - without survey-->
-<div id="nrelheader"><a href="/"><img src="/images/head_nrel.gif" alt="NREL - National Renewable Energy Laboratory" width="1000" height="86"></a></div> 
+<div id="nrelheader"><a href="/"><img src="/images/head_nrel.gif" alt="NREL - National Renewable Energy Laboratory" width="1000" height="86"></a></div>
 
 <!--TOP NAV -->
 
-<div id="topnav"><!--ABOUT NREL START --><a href="/about/" onmouseover="msover('0')" onmouseout="msout('0')"><img src="/images/tn_about_nrel_off.gif" alt="About NREL" name="Image0"></a><!--ABOUT NREL END --><!--ENERGY ANALYSIS START --><a href="/analysis/" onmouseover="msover('1')" onmouseout="msout('1')"><img src="/images/tn_energy_analysis_off.gif" alt="Energy Analysis" name="Image1"></a><!--ENERGY ANALYSIS END --><!--SCIENCE & TECHNOLOGY START --><a href="/science_technology/" onmouseover="msover('2')" onmouseout="msout('2')"><img src="/images/tn_science_tech_off.gif" alt="Science and Technology" name="Image2"></a><!--SCIENCE & TECHNOLOGY END --><!--TECHNOLOGY TRANSFER START --><a href="/technologytransfer/" onmouseover="msover('3')" onmouseout="msout('3')"><img src="/images/tn_tech_transfer_off.gif" alt="Technology Transfer" name="Image3"></a><!--TECHNOLOGY TRANSFER END --><!--APPLYING TECHNOLOGY  START --><a href="/applying_technologies/" onmouseover="msover('99')" onmouseout="msout('99')"><img src="/images/tn_applying_tech_off.gif" alt="Applying Technologies" name="Image99"></a><!--APPLYING DEPLOYMENT END --><!--TECHNOLOGY DEPLOYMENT START --><!--<a href="/tech_deployment/" onmouseover="msover('4')" onmouseout="msout('4')"><img src="/images/tn_tech_deployment_off.gif" alt="Technology Deployment" name="Image4" /></a> --><!--TECHNOLOGY DEPLOYMENT END --><!--ESIF NREL START --><a href="/esi/" onmouseover="msover('5')" onmouseout="msout('5')"><img src="/images/tn_esi_off.gif" alt="Energy Systems Integration" name="Image5"></a><!--ESIF END --></div>
+<div id="topnav"><!--ABOUT NREL START --><a href="/about/" onmouseover="msover('0')" onmouseout="msout('0')"><img src="/images/tn_about_nrel_off.gif" alt="About NREL" name="Image0"></a><!--ABOUT NREL END --><!--ENERGY ANALYSIS START --><a href="/analysis/" onmouseover="msover('1')" onmouseout="msout('1')"><img src="/images/tn_energy_analysis_off.gif" alt="Energy Analysis" name="Image1"></a><!--ENERGY ANALYSIS END --><!--SCIENCE & TECHNOLOGY START --><a href="/science_technology/" onmouseover="msover('2')" onmouseout="msout('2')"><img src="/images/tn_science_tech_off.gif" alt="Science and Technology" name="Image2"></a><!--SCIENCE & TECHNOLOGY END --><!--TECHNOLOGY TRANSFER START --><a href="/technologytransfer/" onmouseover="msover('3')" onmouseout="msout('3')"><img src="/images/tn_tech_transfer_off.gif" alt="Technology Transfer" name="Image3"></a><!--TECHNOLOGY TRANSFER END --><!--TECHNOLOGY DEPLOYMENT START --><a href="/tech_deployment/" onmouseover="msover('4')" onmouseout="msout('4')"><img src="/images/tn_tech_deployment_off.gif" alt="Technology Deployment" name="Image4"></a><!--TECHNOLOGY DEPLOYMENT END --><!--ESIF NREL START --><a href="/esi/" onmouseover="msover('5')" onmouseout="msout('5')"><img src="/images/tn_esi_off.gif" alt="Energy Systems Integration" name="Image5"></a><!--ESIF END --></div>
 
-   
+
 
 <!--SITE HEADERS & SEARCH -->
 
@@ -155,23 +172,20 @@ function msout(num) {
 <!--About NREL -->
 
 
+
+
+
 <!--Advanced Vehicles and Fuels Research -->
 
 <!--AVF - Advanced Heavy Hybrid Propulsion Systems -->
 
 <!--AVF - Vehicle Ancillary Loads Reduction -->
 
-<!--AVF - Advanced Petroleum Based Fuels -->
-
 <!--AVF - Energy Storage -->
 
 <!--AVF - Fleet Test & Evaluation -->
 
 <!--AVF - Hybrid Electric & Fuel Cell Vehicles -->
-
-<!--AVF - New Fuels Technology Impacts -->
-
-<!--AVF - Nonpetroleum Based Fuels -->
 
 <!--AVF - Power Electronics -->
 
@@ -186,22 +200,7 @@ function msout(num) {
 <!--AVF subsite header image maps - END -->
 
 
-  
-  <!--Applying Technologies -->
-  
-  <!--Applying Technologies - Climate Action Planning Tool  -->
-  
-  <!--Applying Technologies - Climate-Neutral Research Campuses -->
-  
-  <!--Applying Technologies - State and Local Activities -->
-  
-  <!--Applying Technologies subsite header image maps - START -->
-  
-  <!--Applying Technologies subsite header image maps - END -->
-  
-  
-  
- 
+
 
 <!--Analysis -->
 
@@ -261,33 +260,25 @@ function msout(num) {
 
 <!--Concentrating Solar Power Research subsite header image maps - END -->
 
-<!--Contacts -->
-
 
 <!--Department of Defense Energy Programs -->
+
 
 
 <!--Director's Page -->
 
 
+
 <!--Disclaimer -->
+
 
 
 <!--Diversity at NREL -->
 
 
+
 <!--Education -->
 
-
-<!--Electric Infrastructure Systems Power Research -->
-
-<!--Electric Infrastructure Systems Research - Distributed Thermal Energy Technologies (DTET) -->
-
-<!--Electric Infrastructure Systems Research - In My Backyard (IMBY) -->
-
-<!--Electric Infrastructure Systems Research subsite header image maps - START -->
-
-<!--Electric Infrastructure Systems Research subsite header image maps - END -->
 
 
 <!--Electricity -->
@@ -358,6 +349,14 @@ function msout(num) {
 <!--Extranet - NGS (Navajo Generation Station Study) -->
 
 
+<!--Extranet - Prime Contract (RM) -->
+
+
+<!--Extranet - Policy & Procedure (RM) -->
+
+
+
+
 <!--Extranet - RSF (Research Support Facilities) -->
 
 
@@ -376,47 +375,66 @@ function msout(num) {
 <!--Extranet - UMP (Uniform Method Project) -->
 
 
+
+<!--Extranet - Western Wind and Solar Integration Study Working Site -->
+
+
+<!--Extranet - Wind and Water Power Technologies Office Lab Summit -->
+
+
+
+
 <!--Geothermal Technologies -->
+
 
 
 <!--Geothermal Financing -->
 
 
+
 <!--Geothermal Guidebooks -->
+
 
 
 <!--Geothermal Technologies subsite header image maps - START -->
 
 <!--Geothermal Technologies subsite header image maps - END -->
 
+
 <!--GIS - Dynamic Maps, GIS Data, and Analysis Tools -->
+
 
 
 <!--Hydrogen & Fuel Cells Research -->
 
 
+
 <!--Innovation Spectrum -->
+
 
 
 <!--International -->
 
 
+
 <!--Learning About Renewable Energy -->
+
 
 
 <!--Library -->
 
 
+
 <!--Lost & Found -->
+
 
 
 <!--Multimedia -->
 
 
+
 <!--News -->
 
-
-<!--Organization Chart -->
 
 
 <!--Overview -->
@@ -425,24 +443,30 @@ function msout(num) {
 <!--Photographic Information eXchange (PIX) -->
 
 
-<!--Programs -->
-
 
 <!--Publications -->
+
 
 
 <!--Photovoltaics Research (PV) -->
 
 
+<!--PV - M&C -->
+
+
+
 <!--PV - PDIL -->
+
 
 
 <!--PV - Performance Reliability -->
 
 
+
 <!--PV - Photovoltaics Research subsite header image maps - START -->
 
 <!--PV - Photovoltaics Research subsite header image maps - END -->
+
 
 <!--Renewable Resource Data Center (RReDC) -->
 
@@ -454,28 +478,33 @@ function msout(num) {
 
 <!--RReDC subsite header image maps - END -->
 
+
 <!--Renewable Resources Maps & Data -->
+
 
 
 <!--Research Facilities -->
 
 
-<!--Research Fellows -->
-
 
 <!--Research Participant Program (RPP) -->
+
 
 
 <!--RSS -->
 
 
+
 <!--Science & Technology -->
+
 
 
 <!--Search Help -->
 
 
+
 <!--Search Options -->
+
 
 
 <!--Security & Privacy Notices -->
@@ -484,25 +513,41 @@ function msout(num) {
 <!--Site Map -->
 
 
+
 <!--Solar -->
+
 
 
 <!--Solar Radiation Research -->
 
 
-<!--Success Stories -->
-
 
 <!--Sustainable NREL -->
+
+
+
+
+
+<!--Technology Deployment -->
+
+<!--Applying Technologies - Climate Action Planning Tool  -->
+
+<!--Applying Technologies - Climate-Neutral Research Campuses -->
+
+<!--Applying Technologies - State and Local Activities -->
+
+<!--Applying Technologies subsite header image maps - START -->
+
+<!--Technology Deployment subsite header image maps - END -->
+
 
 
 <!--Technology Transfer -->
 
 
-<!--Visitors Center -->
 
+<!--used to be Visitors Center now it's Education Center 032013-->
 
-<!--Visiting NREL -->
 
 
 <!-- Water -->
@@ -537,7 +582,7 @@ function msout(num) {
 <!--stopindex-->
 <div id="searchbox">
 <form name="seek" method="get" action="http://search.nrel.gov/query.html">
-<input type="hidden" name="qp" value="site:www.nrel.gov site:sam.nrel.gov">
+<input type="hidden" name="qp" value="site:www.nrel.gov site:sam.nrel.gov site:images.nrel.gov">
 <input type="hidden" name="style" value="nrel">
 <input type="hidden" name="qs" value="">
 <input type="hidden" name="qc" value="nrel">
