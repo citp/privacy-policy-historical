@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gmc-uk.org privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130083202id_/http%3A//www.gmc-uk.org/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gmc-uk.org privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525114701id_/http%3A//www.gmc-uk.org/privacy_policy.asp) for the most accurate reproduction.*
 
 # GMC | Privacy and Cookies policy
 
@@ -114,6 +114,7 @@ WT_FPC | This is our analytics provider Webtrends’ cookie used to collect info
 ASP.NET_SessionId | This cookie is necessary for site functionality. | Session  
 MobileNoDetect | This cookie is set to allow a mobile device to use a link to visit the main website. | Session  
 _atuvc | This cookie is an Addthis.com cookie set when using the Share functionality for Facebook and Twitter. | Persistent  
+GMCAcceptCookie | This is set when you click on 'Accept cookies'   | Persistent  
   
 #####  The GMC Mobile website: [http://www.gmc-uk.org/mobile]
 
@@ -130,6 +131,7 @@ Name | Purpose | Cookie type
 WT_FPC | This is our analytics provider Webtrends’ cookie used to collect information about which pages are popular and number of visitors to our site. We use the information to compile reports and to help us improve the site. | Persistent  
 ASP.NET_SessionId | This cookie is necessary for site functionality. | Session  
 _atuvc | This cookie is an Addthis.com cookie set when using the Share functionality for Facebook and Twitter. | Persistent  
+GMCAcceptCookie  | This is set when you click on 'Accept cookies'    | Persistent   
   
 ##### The GMC Consultation website: [https://gmc.e-consultation.net/econsult/]
 
