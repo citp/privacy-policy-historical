@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zootemplate.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231041852id_/http%3A//www.zootemplate.com/legal/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zootemplate.com privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525034802id_/http%3A//www.zootemplate.com/legal/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -53,9 +53,9 @@ We will not disclose your Personal Data to third parties unless you have consent
 
 This Web site contains links to other sites. Please be aware that We are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
 
-### 6\. How To [Contact Us](http://www.zootemplate.com/Contact-Us/Support.html "Contact Us")
+### 6\. How To Contact Us
 
-Should you have other questions or concerns about these privacy policies, please [contact us](http://www.zootemplate.com/Contact-Us/Support.html "Contact Us") **support(at)ZooTemplate.com**
+Should you have other questions or concerns about these privacy policies, please contact us **support(at)ZooTemplate.com**
 
 ### 7\. Changes to the Website Privacy Policy
 
