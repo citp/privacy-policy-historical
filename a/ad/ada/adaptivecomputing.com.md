@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the adaptivecomputing.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215044043id_/http%3A//www.adaptivecomputing.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adaptivecomputing.com privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525064800id_/http%3A//www.adaptivecomputing.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Adaptive Computing
 
 Adaptive Computing offers online resources to aid in accelerating dynamic cloud and HPC workload management solutions, as well as corporate and financial news and employment information. 
 
@@ -114,7 +114,7 @@ How may I access and correct personal information about me?**
    _Top_
 
 **What is Adaptive Computing’s contact address for privacy questions?**  
-Should you have questions about this policy or Adaptive Computing’s information collection, use and disclosure practices, you may contact us at the address most relevant to you. You may access this list of addresses online at <http://www.adaptivecomputing.com/about/contact.php>. When you contact us, please note the name of the Web site or other online resource you used or to which you provided personal information, as well as the nature of any information that you provided. We will use reasonable efforts to respond promptly to requests, questions or concerns you may have regarding access to personal information about you collected online or our use of personal information about you. We may contact you for follow up information and may share your inquiry with other individuals within Adaptive Computing or working for Adaptive Computing that are responsible for functions related to the subject of your inquiry. Except where required by law, Adaptive Computing cannot ensure a response to questions or comments regarding topics unrelated to this policy or Adaptive Computing’s privacy practices.
+Should you have questions about this policy or Adaptive Computing’s information collection, use and disclosure practices, you may contact us at the address most relevant to you. You may access this list of addresses online at [http://www.adaptivecomputing.com/company/contact-us/](https://web.archive.org/company/contact-us/). When you contact us, please note the name of the Web site or other online resource you used or to which you provided personal information, as well as the nature of any information that you provided. We will use reasonable efforts to respond promptly to requests, questions or concerns you may have regarding access to personal information about you collected online or our use of personal information about you. We may contact you for follow up information and may share your inquiry with other individuals within Adaptive Computing or working for Adaptive Computing that are responsible for functions related to the subject of your inquiry. Except where required by law, Adaptive Computing cannot ensure a response to questions or comments regarding topics unrelated to this policy or Adaptive Computing’s privacy practices.
 
    _Top_
 
