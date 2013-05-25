@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wbal.com privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101131134id_/http%3A//www.wbal.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wbal.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526000045id_/http%3A//www.wbal.com/about/privacy) for the most accurate reproduction.*
 
 # Internet Privacy Policy | Baltimore News | WBAL Radio 1090 AM
 
@@ -17,8 +17,6 @@ Users should be aware that when they voluntarily disclose personal information (
 Children should ask their parents for permission before sending any information about themselves to us or anyone else over the Internet.
 
 ##  Sponsors
-
-[](https://web.archive.org/banner/view?b=3105&z=84)
 
 ##  Talkshow Numbers
 
