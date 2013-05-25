@@ -1,57 +1,61 @@
-> *The following text is extracted and transformed from the voltasac.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920043020id_/http%3A//www.voltasac.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D65%26Itemid%3D65) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voltasac.com privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525073018id_/http%3A//voltasac.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D65%26Itemid%3D65) for the most accurate reproduction.*
 
 # TATA VOLTAS
 
-1\. Your privacy is important to us at Voltas and is committed to the Voltas Privacy Policy. 
+Voltas Limited (also referred to as "we" "our" or "us") respects your privacy and endeavors to limit the collection of information to the extent required. We also provide adequate safeguards where such information is processed in the way of collection, recording, storing, utilization, disclosure, transfer and deletion, to name a few. In addition to complying with the applicable laws, we believe in processing the data fairly.
 
-2\. We collect information about your use of our website through forms, registrationsand Internet protocol addresses. 
+**Information automatically obtained from your visit**
 
-3\. We try to ensure that our website offers visitorsexactly what they are looking for - to help us achieve this goal we may analyzeanonymous data collected about how visitors use the website. 
+By visiting our website, you are unconditionally consenting to the automatic recording of certain information. This includes your Internet Protocol address, domain name, the time at which you visited, the duration of your visit, the pages you visit and the links you use. 
 
-4\. We may also collectInternet Protocol addresses to help diagnose problems with our servers and for systemadministration, but we don't link these addresses to any person's name or identity. 
+On your visit to our website, we send cookies to your browser to enable us to track your activities on our website and help us remember who you are. You have an option to receive intimation of receipt of a cookie, or to reject it altogether. Cookies enable us to provide you with more efficient and personalized service.
 
-5\. In using voltasac.com, you consent to the collection and use of this informationby Voltas Ltd. and that you adhere to the terms of the Privacy policy. 
+**Information requested from you**
 
-6\. Disclosureto third parties   
-a. Voltas Ltd. does not sell, trade, or rent your personal informationto others. 
+In addition to the above, we might ask you for certain information such as your name, age, sex, email ID, contact number, address, postal code, preferences and other details for the purpose of providing products and services to you. 
 
-b. When Voltas Ltd. uses other agents, contractors, corporations or businesspartners to perform services on its behalf or as part of a joint promotion, VoltasLtd. will ensure that this entity protects the user's personal information in amanner, which is consistent with this statement. We never disclose information abouta visitor to any other person or organization without your consent unless thereis an emergency situation that requires it or we are legally required to do so.
+**Information obtained from your transactions with us**
 
-c. Voltas Ltd. reserves the right to pass your information on to agents or businesspartners that we use for the provision of certain services used online, for instanceallowing Voltas Ltd. customers to book hotels packages, car hire services, creditcard applications and online air ticket bookings quickly and easily by transferringdetails from the Voltas Ltd. booking form to our partners' booking forms. 
+We may also collect information relating to products and services provided to you, including details of requests you may have made, the products and services we may have provided, their delivery, billing and invoicing, any communication or correspondence with you, and other transactional information. We may also record your communication with our customer care or with other such contact points, in accordance with applicable law. 
 
-d. VoltasLtd. may provide aggregate statistics about our customers, sales, traffic patterns,and related site information to reputable agents, contractors, corporations or businesspartners, but these statistics will include no personally identifying information.
+Each item of information might not individually be sufficient to identify you, but combined with certain other types of information, it may suffice and hence fall under the ambit of this Privacy Policy.
 
-7\. Information collection and use:   
-a. We may use the Data you provided for one ormore of the following purposes: 
+**Purposes for which information is obtained from you**
 
-  * To process your request on purchasing our product(s) and service(s)
-  * To fulfill your request when you use our online booking services;
-  * To contact you regarding your enquiries;
-  * For our own marketing purposes and partner promotions, such as sending you updates on our latest offers and promotions.
-  * For identification and verification purposes;
-  * For our own reference and record.
-  * For Website customization and targeting of advertisements
+Information is collected from you for various purposes, including but not limited to, registering for our products and/or services, receiving your feedback, complaints and other responses, and contacting you and/or communicating with you. 
 
+It may also be used for developing and improving our products, services and/or website. For this purpose, the information is usually considered in purely statistical form, i.e. collectively. 
 
+Additionally, the information may be used for advertising or marketing purposes as a 'customer statement', testimonial or other quotation, with or without attribution to you. In such cases, we will first obtain your consent, and give you the option of unsubscribing from or refusing such services.
 
-b. We will use the informationyou enter on the site for administration purposes and any other purposes made clearin the data entry forms themselves, in any relevant terms or conditions and on anypages or emails which link to such forms.
+Although we are not obliged to do so, we will usually specify our purpose at the time of asking you for information, and unless otherwise necessitated, we will use it for the stated purposes.
 
-c. If you make an online booking withVoltas Ltd., we will record your personal details. Your data may be used for thefollowing purposes: accounting, billing and audit, credit or other payment cardverification, security, administrative and legal purposes, systems testing, maintenanceand development, customer relations and to help us in any future dealings with you,for example by identifying your requirements and preferences. 
+**Changes in the terms of information collection and use**
 
-d. Whenever we hireother organizations to provide support services, we will require them to confirmto our privacy standards and allow us to audit them for compliance.
+The purposes for which we collect information may be modified from time to time depending on change in Voltas' businesses, functioning or policies, or in the applicable laws. Any such change, if not included already under the purposes broadly defined above, shall be intimated to you via the same website. The privacy policy may also be modified in any other manner without your prior notification; hence it would be advisable for you to visit website from time to time to learn about such changes.
 
-8\. Data Security   
-a. Voltas Ltd. will take appropriate steps to protect the personal information youshare with us. We have implemented technology and security features to safeguardthe privacy of your personal information. 
+**Disclosure to third parties**
 
-b. We use protocol - an industry standardfor encryption over the Internet, to protect the Data. When you type in sensitiveinformation such as credit card details, it will be automatically converted intocodes before being securely dispatched over the Internet. 
+Disclosure of information to any other third party shall not be done without your consent, unless it is necessary for compliance with a legal obligation, in which case your consent is deemed to have been obtained. 
 
-c. As with any standardemail, emails containing your personal data sent to or from Voltas Ltd. will travelin a non-encrypted format. d. However, complete confidentiality and security isnot yet possible over the Internet, and privacy cannot be assured in your communicationsto us. You acknowledge that personal information is disclosed at your own risk,and may be subject to unauthorized use by others. This may result in you receivingunsolicited messages from other parties. We are not responsible in any manner fordirect, indirect, special or consequential damages, howsoever caused arising outof the communication of information to us. e. We will permit only authorized employees,who are trained in the proper handling of customer information, to have access tothat information. 
+At the same time, Governmental agencies may require the information which Voltas collect from you, for certain purposes including verification, investigation and prosecution. In such cases, it is mandatory to pass on that information under the applicable law; Voltas shall ensure that this is done only after following the due procedure.
 
-9\. Log Files We may collect information regarding your IP address,browser type, domain name and access time. This information is used for our ownresearch purposes and is separate from the Data. We do not link IP addresses toany personal information. In rare instances, IP addresses may be used to assistin deterring and/or preventing abusive or criminal activity on the website. 
+**Transfer of information across jurisdictions**
 
-10.Notification of changes in policy   
-a. If we decide to change our privacy policy,we will post those changes on our web site so our users are always aware of whatinformation we collect, how we use it, and under what circumstances, if any, wedisclose it. If at any point we decide to use personally identifiable informationin a manner different from that stated at the time it was collected, we will notifyusers by way of an email. Users will have a choice as to whether or not we use theirinformation in this different manner. We will use information in accordance withthe privacy policy under which the information was collected. 
+There will be times when Voltas will transfer your information across jurisdictions, to its employees, branches, affiliates, subsidiaries, joint ventures or business partners, irrespective of the country where such person or entity might be located. Your consent is deemed to have been obtained in such cases, and we shall ensure that such transfer is done only for the purposes stated in this Policy. 
 
-b. We will amend thisPrivacy Policy statement from time to time and the updated versions will be postedto our website and date stamped so that you are aware of when the Privacy Policywas last updated. 
+To protect your rights, the recipient of the information shall be compliant with this Privacy Policy. The registered office of Voltas is to be treated as the controller of the data for the purposes of this Policy and such transfers. Such transfer is usually not conditional to, or governed by, geographical circumstances. That is, the information flow may occur even if the place of origin is not a registered office. It is not impacted by the fact of your physical location, or the physical storage of the data, in any particular country. Voltas will not be subject to any additional obligations arising from these circumstances.
 
-General Information While compiling this information, Voltas –UPBG has endeavored to ensure that all information is correct. However, no guaranteeor representation is made to the accuracy or completeness of the information containedhere. This information is subject to changes by Voltas - UPBG without notice.
+**Transfer to entities outside Voltas**
+
+From time to time, there may occur the transfer of information to a person or entity connected with Voltas only as a business associate. Such transfer will be limited to trusted business associates, and will only occur if necessary under a contractual obligation, and if the transferee complies with at least a similar standard of data protection. 
+
+**Security Practices**
+
+Voltas is committed to ensuring that your data is not subjected to unauthorized access, accidental loss or unlawful processing. Towards this end, Voltas has various security practices in place to address risks in physical and online security. 
+
+You are entitled to contact Voltas for modification of any inaccurate information or any information which has changed over a period of time. This is also in consonance with our principle to maintain accuracy of data.
+
+In case of any grievance with regard to any of the above, you may write to / or contact Ms Gauri Ganesh ( [ggauri@voltas.com](mailto:ggauri@voltas.com)), Corporate Communications Department, Voltas House 'A', Dr. Babasaheb Ambedkar Road, Chinchpokli, Mumbai- 400 033, India.
+
+If you visit or access our website and/ or provide us with information, it is deemed that you have read this and agree with the terms and conditions set out in this policy. If you do not agree to this, please do not visit or access the website or provide us with information. Your visit to this website or submission to any information is deemed to be of your own volition. This consent shall be equated to that given in writing, wherever there is a requirement under law for written consent. In case you withdraw your consent anytime, we might not be able to provide you with our products and services or otherwise accede to your request for information. This website also consists of links to other websites, and we are in no way liable or responsible for the content, authenticity, accuracy, or privacy policies of the same.
