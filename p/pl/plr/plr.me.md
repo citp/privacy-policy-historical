@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plr.me privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219015254id_/http%3A//www.plr.me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plr.me privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525172947id_/http%3A//www.plr.me/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PLR.me
 
@@ -44,7 +44,7 @@ We provide links to third-party sites. Since we do not control these websites, w
 
 The PLR.me website may occasionally use cookies. Cookies help us provide a better user experience by measuring which web pages are of greatest interest. If you choose to disable cookies in your browser, you can still access the members only area of the website.
 
-Current versions of web browsers offer enhanced user controls regarding the placement and duration of both first and third party cookies. Search for “cookies” under your Web browser’s help menu for more information on cookie management features available to you.
+Current versions of web browsers offer enhanced user controls regarding the placement and duration of both first and third party cookies. Search for "cookies" under your Web browser’s help menu for more information on cookie management features available to you.
 
 **Newsletters**
 
