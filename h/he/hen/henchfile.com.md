@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the henchfile.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021104645id_/http%3A//www.henchfile.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the henchfile.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526000110id_/http%3A//www.henchfile.com/privacy.html) for the most accurate reproduction.*
 
 # HenchFile.com - Send files right now - Fast, reliable file sharing service
 
@@ -70,6 +70,6 @@ W1B 3HH
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect. 
 
 © 2012 Hench Online Services Ltd, All Rights Reserved.  
-* - Premium downloader accounts only.   
+* - Premium accounts only.   
 Approximate download speed/times are estimates only and not guaranteed as actual download speeds may vary.   
 Company number: 08131876 | Hench Online Services Ltd - 3rd Floor, 207 Regent Street, London, W1B 3HH 
