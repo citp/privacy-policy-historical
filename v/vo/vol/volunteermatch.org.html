@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the volunteermatch.org privacy policy that was archived on 2012-10-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121004194224id_/https%3A//www.volunteermatch.org/legal/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the volunteermatch.org privacy policy that was archived on 2013-05-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130526001857id_/https%3A//www.volunteermatch.org/legal/privacy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" js flexbox canvas canvastext postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache"><head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()])</script>
@@ -17,6 +17,36 @@
     
        
     
+
+  
+    
+    
+    
+  
+
+        <!--[if IE 9]>
+        <style>
+          .standardregistration form#fbregisterForm td input[type="text"],
+          .standardregistration form#fbregisterForm td input[type="password"],
+          .uxp_imodal_wrapper form#fbloginForm input[type="text"],
+          .uxp_imodal_wrapper form#fbloginForm input[type="password"],
+          .uxp_imodal_wrapper form#fbregisterForm input[type="text"] {
+            border-radius: 0;
+          }
+        </style>
+        <![endif]-->
+
+        <!--[if lt IE 9]>
+        <style>
+          /*header subnavigation bg tile and bottom border*/
+          #container #subnav {
+            background: transparent url("/images/public/global_nav_shadow_ie_tile.jpg") repeat-x center left !important;
+          }
+          #container #subnav ul li a.on {
+            border-bottom: none !important;
+          }
+        </style>
+        <![endif]-->
 
         <!--[if lte IE 8]>
         <style>
@@ -39,6 +69,26 @@
         .new_secondary, .new_secondary:hover, .new_secondary:focus {
             background-color: #d5d5d5 !important;
         }
+        /*uxp i-modal flows*/
+        #window_overlay {
+          width: 100%;
+          zoom: 1 !important;
+          filter: alpha(opacity=80);
+          opacity: 0.8;
+        }
+        header#main {
+          position: static !important;
+        }
+        .uxp_imodal_wrapper .signin_form {
+          width: 660px !important;
+        }
+        input[type="button"].basic_button, input[type="submit"].basic_button { /* base style for buttons */
+          background: none;
+        }
+        footer#footer_main { /* keeps footer below modal divs */
+          position: relative;
+          z-index: -1;
+        }
         </style>
         <![endif]-->
   
@@ -59,24 +109,32 @@
     <!-- Start CSS Block -->
 
 <!-- CSS Refs -->
-<link type="text/css" rel="stylesheet" media="screen" href="/include/js/build/build_974668386.1348511123000.css">
+<link type="text/css" rel="stylesheet" media="screen" href="//fonts.googleapis.com/css?family=Cabin:400,400italic,700,700italic">
+<link type="text/css" rel="stylesheet" media="screen" href="//fonts.googleapis.com/css?family=Cabin+Condensed">
+<link type="text/css" rel="stylesheet" media="screen" href="/include/js/build/build_832889259.1369249876000.css">
 
 <!-- End CSS Block -->
 
     <script type="text/javascript" language="javascript" src="/include/js/modernizr.custom.23623.js"></script>
     <!-- Start Javascript Header -->
 
-<script type="text/javascript" language="javascript" src="/include/js/build/build_1929385204.1337366924000.js"></script>
+<script type="text/javascript" language="javascript" src="/include/js/build/build_1223755732.1369249876000.js"></script>
 <script type="text/javascript" language="javascript" src="/include/js/lib/jquery.thickbox-compressed.js"></script>
 <script type="text/javascript" language="javascript" src="/include/js/lib/jquery.watermark.js"></script>
 <script type="text/javascript" language="javascript" src="/include/js/lib/jquery.validate.min.js"></script>
-<script type="text/javascript">
+<script type="text/javascript" language="javascript">if(typeof(jQuery) != 'undefined'){ $.ajaxSetup({ cache: false }); }</script><script type="text/javascript">
 //<![CDATA[
 
     var analyticsKey = 'UA-937784-1';
 
+
+    var uxpRegEnabled = true;
+
     $(document).ready(function() {
         updateAccountTab();
+    
+      globalFlowContainer = 'uxpRegContainer';
+    
     
     
     });
@@ -276,7 +334,7 @@
 
 <script type="text/javascript">
 
-    $(document).ready(function() {
+    $(function() {
     
      });
 </script>
@@ -284,16 +342,14 @@
   
     <div id="global">
       <ul>
-        <li> <a id="global_login_link" href="#" onclick="getFlow('loginContainer','loginPanel').doAction('load','login');">Sign In</a></li>
-        <li><a href="#" id="global_register_link" onclick="getFlow('loginContainer','loginPanel').doAction('load','register');">Register</a></li>
+        <li><a id="global_login_link" href="#" onclick="getFlow(globalFlowContainer,'loginPanel').doAction('load','login');">Sign In</a></li>
+        <li><span class="global_nav_dot">·</span> <a href="#" id="global_register_link" onclick="getFlow(globalFlowContainer,'loginPanel').doAction('load','register_custom');">Register</a></li>
         
-          <li>
-            <a href="#" id="facebook_connect_link" onclick="doFacebookLoginOAuth('loginPanel'); return false;"><img src="/images/facebook/login.png"></a>
-          </li>
+          <li><span class="global_nav_dot">·</span> <a href="#" id="facebook_connect_link" onclick="doFacebookLoginOAuth(globalFlowContainer); return false;"><img src="/images/facebook/login.png"></a></li>
         
-        <li>
+        <li><span class="global_nav_dot">·</span> 
 
-<span class="help"><a href="http://community.volunteermatch.org" target="_new">Help</a></span></li>
+<span class="help"><a href="http://community.volunteermatch.org" target="_new">support</a></span></li>
       </ul>
       <form>
         <input type="hidden" id="__login_status" value="false">
@@ -314,7 +370,7 @@
             </div><!-- end main -->
             <div id="secondary">
             	<ul>
-                <li><a href="/corporations/">Corporations</a></li>
+                <li><a href="http://solutions.volunteermatch.org/">Corporations</a></li>
                 <li><a href="http://learn.volunteermatch.org">Learning Center</a></li>
                 <li><a href="/community/">Blogs</a></li>
               </ul>
@@ -326,6 +382,10 @@
   
  <div id="container">
   
+    <div id="window_overlay" class="window_overlay" style="display: none;"></div>
+  <div id="uxpRegContainer" class="uxp-flowContainer flowContainer">
+    
+  </div>
   <div id="loginContainer" class="flowContainer">
   </div>
   <div id="lightboxContainerContainer" style="display:none">
@@ -363,6 +423,34 @@
   
   
   <div id="content">
+    
+
+
+
+
+
+
+
+
+
+
+<!-- Since this tag is included in pub_header, we need to use a standard script element vs. vm:script -->
+<script type="text/javascript">
+  if (typeof jQuery != 'undefined') {
+    $(document).ready(function() {
+      $('.vm-closealert').click(function() {
+        var p = $(this).parents('.vm-sitealert');
+        var alert_id = p.attr("alert_id");
+        p.hide();
+        var date = new Date();
+        date.setTime(date.getTime()+(365*24*60*60*1000));
+        document.cookie = "alert" + alert_id + "=false; path=/; expires="+date.toGMTString();
+      });
+    });
+  }
+</script>
+
+
 
   <div id="subcolumnmain">
 
@@ -661,14 +749,14 @@ Effective Date: May 31, 2008
         <li><a href="/about/contact/" title="Contact Us">Contact VolunteerMatch</a></li>
       </ul>
 			<ul class="more_links">
-        <li><a href="/corporations/" title="Corporate Tools">Corporate Tools</a> |</li>
-        <li><a href="/corporations/clients/" title="Clients">Clients</a> |</li>
+        <li><a href="http://solutions.volunteermatch.org/clients" title="Corporate Tools">Corporate Tools</a> |</li>
+        <li><a href="http://solutions.volunteermatch.org/clients" title="Clients">Clients</a> |</li>
         <li><a href="http://blogs.volunteermatch.org/volunteeringiscsr/" target="_blank" title="Corporate Blog">Corporate Blog</a> |</li>
         <li><a href="/post/register/np/org_check.jsp" title="Nonprofit Registration">Nonprofit Registration</a> |</li>
         <li><a href="http://blogs.volunteermatch.org/engagingvolunteers/" title="Nonprofit Blog">Nonprofit Blog</a> |</li> 
         <li><a href="http://learn.volunteermatch.org" title="Learning Center">Learning Center</a></li>
       </ul>
-      <p>© <a href="/legal/" title="Legal">1998-2012 VolunteerMatch</a>. All Rights Reserved. <a href="/legal/privacy.jsp" title="Privacy Policy">Privacy Policy</a>, <a href="/legal/terms.jsp" title="Terms of Use">Terms of Use</a>
+      <p>© <a href="/legal/" title="Legal">1998-2013 VolunteerMatch</a>. All Rights Reserved. <a href="/legal/privacy.jsp" title="Privacy Policy">Privacy Policy</a>, <a href="/legal/terms.jsp" title="Terms of Use">Terms of Use</a>
     </p></div><!-- end global_footer -->
 
     </div><!-- end footer -->
@@ -685,321 +773,398 @@ Effective Date: May 31, 2008
 
 
 
+  
+  
+    
+      
+      
+    
 
+    
+      
+        
+          
+          
+          
+          
+        
+      
+        
+      
+    
+  
 
-
-  <script type="text/javascript" src="http://twitter.com/javascripts/blogger.js"></script>
-  <script>
-    $(document).ready(function() {
-      // get the latest tweets
-      $.getJSON("/tweetStatus", tweetStatusResponseHandler);
-    });
-
-    function tweetStatusResponseHandler(data) {
-      try {
-        if (data.status == "success") {
-          // convert the tweets string to a js object
-          var tweets = eval('(' + data.tweets + ')');
-          twitterCallback2(tweets);
-          $('#tweet_list_container').show();
-        }
-      } catch (err) {
-        // won't update the tweet status div
-      }
-    }
-  </script>
-
-<div class="tools_plug">
-	   <div class="tools_plug_text"><a href="/corporations/">Engage your employees, consumers, or students!</a> VolunteerMatch provides the tools that make community involvement easy.</div>
+<div class="tools_plug"> <!-- is hidden : not included in uxp design -->
+	   <div class="tools_plug_text"><a href="http://solutions.volunteermatch.org/">Engage your employees, consumers, or students!</a> VolunteerMatch provides the tools that make community involvement easy.</div>
 </div>
+
+
+
+<div class="clear" style="height: 0px;"></div>
+
+
 <footer id="footer_main">
-  <div class="interior">
-	<div class="footer_links_and_twitter" style="width:887px;">
-    <div class="col1">
-      <ul>
-        <li><a href="/about/">About Us</a></li>
-        <li><a href="/pressroom/index.jsp">Press Room</a></li>
-        <li><a href="/careers">Careers</a></li>
-        <li><a href="https://www.volunteermatch.org/secure/donate.jsp">Donate to VolunteerMatch</a></li>
-        <li><a href="/about/contact/">Contact VolunteerMatch</a></li>
-      </ul>
-    </div><!-- end col1 -->
-    <div class="col2">
-      <ul>
-          <li><a href="/corporations/">Corporate Tools</a></li>
-          <li><a href="/corporations/clients/">Clients</a></li>
-          <li><a href="http://blogs.volunteermatch.org/volunteeringiscsr/">Volunteering is CSR Blog</a></li>
-          <li><a href="https://www.volunteermatch.org/post/register/np/org_check.jsp">Nonprofit Registration</a></li>
-          <li><a href="http://blogs.volunteermatch.org/engagingvolunteers/">Engaging Volunteers Blog</a></li>
-          <li><a href="http://learn.volunteermatch.org">Learning Center</a></li>
-        </ul>
-    </div><!-- end col2 -->
-    <div class="col3">
-      <ul>
-        <li class="twitter" onclick="window.open('http://twitter.com/#!/VolunteerMatch');"><a href="http://twitter.com/#!/VolunteerMatch" target="new">twitter</a></li>
-        <li class="facebook" onclick="window.open('http://www.facebook.com/VolunteerMatch?ref=ts');"><a href="http://www.facebook.com/VolunteerMatch?ref=ts" target="new">facebook</a></li>
-        <li class="linkedin" onclick="window.open('http://www.linkedin.com/groups?home=&amp;gid=1783952&amp;trk=anet_ug_hm&amp;goback=.gdr_1233340449993_1');"><a href="http://www.linkedin.com/groups?home=&amp;gid=1783952&amp;trk=anet_ug_hm&amp;goback=.gdr_1233340449993_1" target="new">linkedin</a></li>
-      </ul>
-    </div><!-- end col3 -->
+  <div class="shadow_wrapper">
     
-      <div class="col4" id="tweet_list_container" style="display:none;">
-        <h3>Our Latest Tweet</h3>
-        <div id="twitter_update_list"></div>
+    <div class="publications_bar sprite_global _publications_gradient_tile">
+      <div class="publications_logos">
+        <div class="banner_flag pub_b_f_position left">
+          <div class="b_f_interior">we've been popping up all over</div>
+        </div>
+        <dl class="publications_image_map">
+          <dd><a class="LINK0" title="The New York Times" target="_blank" href="//www.nytimes.com/2011/11/02/giving/volunteer-work-gains-stature-on-a-resume.html?_r=0"></a></dd>
+          <dd><a class="LINK1" title="U.S. News" target="_blank" href="//www.usnews.com/usnews/biztech/charities/articles/step4.htm"></a></dd>
+          <dd><a class="LINK2" title="The Christian Science Monitor" target="_blank" href="//www.csmonitor.com/Business/2012/0529/Retirement-3-ways-to-enrich-it-without-adding-money"></a></dd>
+          <dd><a class="LINK3" title="Market Watch" target="_blank" href="//www.marketwatch.com/story/10-great-volunteer-jobs-for-retirees-2012-12-03"></a></dd>
+          <dd><a class="LINK4" title="Chicago Tribune" target="_blank" href="//articles.chicagotribune.com/2011-12-21/business/ct-biz-bf-1221-volunteer-jobs-20111221_1_volunteer-work-volunteer-rates-volunteer-experience"></a></dd>
+        </dl>
       </div>
-      <!-- end col4 -->
+    </div> 
     
-    <div class="clear"></div>
-		</div>
-		
+    <div id="footer_section_top_info" class="footer_section">
+      <div id="footer_section_top_info_inner_container">
+        <div id="footer_col1" class="col">
+          <div>
+        <span class="footer_col_w_image">
+          <img src="/images/public/footer_feat_retro_mic.jpg" width="54" height="140" alt="picture of retro microphone">
+        </span>
+        <span class="footer_col_desc">
+          <h4>VolunteerMatch for Nonprofits</h4>
+          <span class="footer_col_desc_section">We're here for you: we spotlight your cause and we do what it takes to get you the volunteers you need, when you need them.</span>
+          <div class="footer_col_desc_button"><a href="http://www.volunteermatch.org/nonprofits">Get Started</a></div>
+        </span>
+          </div>
+        </div>
+        <div id="footer_col2" class="col">
+        <span class="footer_col_desc">
+          <h4><a href="http://solutions.volunteermatch.org/">Volunteermatch corporate solutions</a></h4>
+          <span class="footer_col_desc_section">Get your <a href="http://solutions.volunteermatch.org/solutions/employee">employees</a>, <a href="http://solutions.volunteermatch.org/solutions/cause">consumers</a>, or <a href="http://solutions.volunteermatch.org/solutions/campus">students</a> to volunteer with all the power of the VolunteerMatch network platform and resources behind you.</span>
+          <div class="footer_col_desc_button"><a href="http://solutions.volunteermatch.org/">Learn More</a></div>
+        </span>
+        </div>
+        <div id="footer_col3" class="col">
+        <span class="footer_col_desc">
+          <h4>make a donation</h4>
+          <span class="footer_col_desc_section">Every contribution makes a difference. We happily accept donations.</span>
+          <div class="footer_col_desc_button"><a href="https://www.volunteermatch.org/secure/donate.jsp">Donate</a></div>
+        </span>
+        </div>
+      </div>
+    </div> 
+
+    
+    <div class="footer_links_and_social">
+      
+        <ul class="col1 left">
+          <li><a href="/careers">Come Work With Us</a></li>
+          <li><a href="/about/contact/">Contact Us</a></li>
+          <li><a href="/about/">About volunteermatch</a></li>
+          
+          
+        </ul>
+      
+      
+        <ul class="col2 left">
+          
+          
+          
+          
+          
+          
+        </ul>
+      
+      
+        <ul class="col3 right">
+          <li class="twitter sprite_global footer_social_icon_twitter"><a href="//twitter.com/VolunteerMatch" target="new"></a></li>
+          <li class="facebook sprite_global footer_social_icon_facebook"><a href="//www.facebook.com/VolunteerMatch?ref=ts" target="new"></a></li>
+          <li class="linkedin sprite_global footer_social_icon_linkedin"><a href="//www.linkedin.com/groups?home=&amp;gid=1783952&amp;trk=anet_ug_hm&amp;goback=.gdr_1233340449993_1" target="new"></a></li>
+          <li class="youtube sprite_global footer_social_icon_youtube"><a href="//www.youtube.com/user/VolunteerMatch" target="new"></a></li>
+          <li class="pinterest sprite_global footer_social_icon_pinterest"><a href="//www.pinterest.com/volunteermatch" target="new"></a></li>
+        </ul>
+      
+
+      
+        
+          
+          
+        
+        
+      
+      
+
+<div class="clear" style="height: 5px;"></div>
+
+    </div>
+    
+
+<div class="clear" style="height: 5px;"></div>
+
+  </div> 
+
+  
+  
     <div id="seo_footer">
-      <h3>Find Opportunities</h3>
-        <span class="seo_footer_cities">Cities</span>
-        
-					
-					  <div class="col1.0 cols">
-						  <ul>
-				  							
-								<li>
-									<h3><a href="/search?l=Atlanta%2C+GA%2C+USA">Atlanta</a></h3>
-									
-								</li>
-					
-        
-												
-								<li>
-									<h3><a href="/search?l=Austin%2C+TX%2C+USA">Austin</a></h3>
-									
-								</li>
-					
-        
-												
-								<li>
-									<h3><a href="/search?l=Boston%2C+MA%2C+USA">Boston</a></h3>
-									
-								</li>
-					
-        
-												
-								<li>
-									<h3><a href="/search?l=Chicago%2C+IL%2C+USA">Chicago</a></h3>
-									
-								</li>
-					
-							</ul>
-						</div>
-					
-        
-					
-					  <div class="col2.0 cols">
-						  <ul>
-				  							
-								<li>
-									<h3><a href="/search?l=Denver%2C+CO%2C+USA">Denver</a></h3>
-									
-								</li>
-					
-        
-												
-								<li>
-									<h3><a href="/search?l=Las+Vegas%2C+NV%2C+USA">Las Vegas</a></h3>
-									
-								</li>
-					
-        
-												
-								<li>
-									<h3><a href="/search?l=Los+Angeles%2C+CA%2C+USA">Los Angeles</a></h3>
-									
-								</li>
-					
-        
-												
-								<li>
-									<h3><a href="/search?l=Miami%2C+FL%2C+USA">Miami</a></h3>
-									
-								</li>
-					
-							</ul>
-						</div>
-					
-        
-					
-					  <div class="col3.0 cols">
-						  <ul>
-				  							
-								<li>
-									<h3><a href="/search?l=Milwaukee%2C+WI%2C+USA">Milwaukee</a></h3>
-									
-								</li>
-					
-        
-												
-								<li>
-									<h3><a href="/search?l=New+York%2C+NY%2C+USA">New York</a></h3>
-									
-								</li>
-					
-        
-												
-								<li>
-									<h3><a href="/search?l=Phoenix%2C+AZ%2C+USA">Phoenix</a></h3>
-									
-								</li>
-					
-        
-												
-								<li>
-									<h3><a href="/search?l=San+Diego%2C+CA%2C+USA">San Diego</a></h3>
-									
-								</li>
-					
-							</ul>
-						</div>
-					
-        
-					
-					  <div class="col4.0 cols">
-						  <ul>
-				  							
-								<li>
-									<h3><a href="/search?l=San+Francisco%2C+CA%2C+USA">San Francisco</a></h3>
-									
-								</li>
-					
-        
-												
-								<li>
-									<h3><a href="/cities/">More Cities</a></h3>
-									
-								</li>
-					
-							</ul>
-						</div>
-					
-        
-        <span class="seo_footer_searches">Top Searches</span>
-        
-					
-					  <div class="col1.0 cols">
-						  <ul>
-				  	
-          <li>
-            <h3><a href="/search?l=United+States&amp;k=Animals">Animals</a></h3>
+      <div class="interior">
+        <div class="interior_col_1 left">
+          
+          <h2 class="uxp_heading">Cities</h2>
+          <span class="uxp_heading_underline"></span>
+          
+          
             
-          </li>
-					
-        
-						
-          <li>
-            <h3><a href="/search?l=United+States&amp;k=Children">Children</a></h3>
+              
+                <ul class="col1.0 cols left">
             
-          </li>
-					
-        
-						
-          <li>
-            <h3><a href="/search?l=United+States&amp;k=Community">Community</a></h3>
+                  <li>
+                    <h3><a href="/search?l=Atlanta%2C+GA%2C+USA">Atlanta</a></h3>
+                    
+                  </li>
             
-          </li>
-					
-        
-						
-          <li>
-            <h3><a href="/search?l=United+States&amp;k=Education">Education</a></h3>
+          
             
-          </li>
-					
-							</ul>
-						</div>
-					
-        
-					
-					  <div class="col2.0 cols">
-						  <ul>
-				  	
-          <li>
-            <h3><a href="/search?l=United+States&amp;k=Environment">Environment</a></h3>
+                  <li>
+                    <h3><a href="/search?l=Austin%2C+TX%2C+USA">Austin</a></h3>
+                    
+                  </li>
             
-          </li>
-					
-        
-						
-          <li>
-            <h3><a href="/search?l=United+States&amp;k=Health">Health</a></h3>
+          
             
-          </li>
-					
-        
-						
-          <li>
-            <h3><a href="/search?l=United+States&amp;k=Mentor">Mentor</a></h3>
+                  <li>
+                    <h3><a href="/search?l=Boston%2C+MA%2C+USA">Boston</a></h3>
+                    
+                  </li>
             
-          </li>
-					
-        
-						
-          <li>
-            <h3><a href="/search?l=United+States&amp;k=Homeless">Homeless</a></h3>
+          
             
-          </li>
-					
-							</ul>
-						</div>
-					
-        
-					
-					  <div class="col3.0 cols">
-						  <ul>
-				  	
-          <li>
-            <h3><a href="/search?l=United+States&amp;k=Women">Women</a></h3>
+                  <li>
+                    <h3><a href="/search?l=Chicago%2C+IL%2C+USA">Chicago</a></h3>
+                    
+                  </li>
             
-          </li>
-					
-        
-						
-          <li>
-            <h3><a href="/search?l=United+States&amp;k=Virtual">Virtual</a></h3>
+                </ul>
+              
             
-          </li>
-					
-        
-						
-          <li>
-            <h3><a href="/opportunities/disaster_relief.jsp">Disaster</a></h3>
+          
             
-          </li>
-					
-        
-						
-          <li>
-            <h3><a href="/fighthunger">Hunger</a></h3>
+              
+                <ul class="col2.0 cols left">
             
-          </li>
-					
-							</ul>
-						</div>
-					
-        
-				<div class="clear"></div>
+                  <li>
+                    <h3><a href="/search?l=Denver%2C+CO%2C+USA">Denver</a></h3>
+                    
+                  </li>
+            
+          
+            
+                  <li>
+                    <h3><a href="/search?l=Las+Vegas%2C+NV%2C+USA">Las Vegas</a></h3>
+                    
+                  </li>
+            
+          
+            
+                  <li>
+                    <h3><a href="/search?l=Los+Angeles%2C+CA%2C+USA">Los Angeles</a></h3>
+                    
+                  </li>
+            
+          
+            
+                  <li>
+                    <h3><a href="/search?l=Miami%2C+FL%2C+USA">Miami</a></h3>
+                    
+                  </li>
+            
+                </ul>
+              
+            
+          
+            
+              
+                <ul class="col3.0 cols left">
+            
+                  <li>
+                    <h3><a href="/search?l=Milwaukee%2C+WI%2C+USA">Milwaukee</a></h3>
+                    
+                  </li>
+            
+          
+            
+                  <li>
+                    <h3><a href="/search?l=New+York%2C+NY%2C+USA">New York</a></h3>
+                    
+                  </li>
+            
+          
+            
+                  <li>
+                    <h3><a href="/search?l=Phoenix%2C+AZ%2C+USA">Phoenix</a></h3>
+                    
+                  </li>
+            
+          
+            
+                  <li>
+                    <h3><a href="/search?l=San+Diego%2C+CA%2C+USA">San Diego</a></h3>
+                    
+                  </li>
+            
+                </ul>
+              
+            
+          
+            
+              
+                <ul class="col4.0 cols left">
+            
+                  <li>
+                    <h3><a href="/search?l=San+Francisco%2C+CA%2C+USA">San Francisco</a></h3>
+                    
+                  </li>
+            
+          
+            
+                  <li>
+                    <h3><a href="/cities/">More Cities</a></h3>
+                    
+                  </li>
+            
+                </ul>
+              
+            
+          
+        </div>
+
+        <div class="interior_col_2 left">
+          
+          <h2 class="uxp_heading">Top Searches</h2>
+          <span class="uxp_heading_underline"></span>
+          
+          
+            
+              
+                <ul class="col1.0 cols left">
+            
+            <li>
+              <h3><a href="/search?l=USA&amp;k=Animals">Animals</a></h3>
+              
+            </li>
+            
+          
+            
+            <li>
+              <h3><a href="/search?l=USA&amp;k=Children">Children</a></h3>
+              
+            </li>
+            
+          
+            
+            <li>
+              <h3><a href="/search?l=USA&amp;k=Community">Community</a></h3>
+              
+            </li>
+            
+          
+            
+            <li>
+              <h3><a href="/search?l=USA&amp;k=Education">Education</a></h3>
+              
+            </li>
+            
+                </ul>
+              
+            
+          
+            
+              
+                <ul class="col2.0 cols left">
+            
+            <li>
+              <h3><a href="/search?l=USA&amp;k=Environment">Environment</a></h3>
+              
+            </li>
+            
+          
+            
+            <li>
+              <h3><a href="/search?l=USA&amp;k=Health">Health</a></h3>
+              
+            </li>
+            
+          
+            
+            <li>
+              <h3><a href="/search?l=USA&amp;k=Mentor">Mentor</a></h3>
+              
+            </li>
+            
+          
+            
+            <li>
+              <h3><a href="/search?l=USA&amp;k=Homeless">Homeless</a></h3>
+              
+            </li>
+            
+                </ul>
+              
+            
+          
+            
+              
+                <ul class="col3.0 cols left">
+            
+            <li>
+              <h3><a href="/search?l=USA&amp;k=Women">Women</a></h3>
+              
+            </li>
+            
+          
+            
+            <li>
+              <h3><a href="/search?l=USA&amp;k=Virtual">Virtual</a></h3>
+              
+            </li>
+            
+          
+            
+            <li>
+              <h3><a href="/opportunities/disaster_relief.jsp">Disaster</a></h3>
+              
+            </li>
+            
+          
+            
+            <li>
+              <h3><a href="/fighthunger">Hunger</a></h3>
+              
+            </li>
+            
+                </ul>
+              
+            
+          
+        </div>
+        <div class="clear"></div>
+      </div><!-- close interior -->
     </div><!-- end seo_footer -->
-		
- 
+  
+
+  
 
 
-    <div class="legal">
-        <p> <span class="copyright">© 1998-2012 VolunteerMatch. All Rights Reserved.</span> <span class="legal_links"><a href="https://www.volunteermatch.org/legal/privacy.jsp">Privacy Policy</a>  /  <a href="https://www.volunteermatch.org/legal/terms.jsp">Terms of Use</a></span></p>
-    </div><!-- end legal -->
+
+  <div class="legal"> <!-- is hidden : not included in uxp design -->
+      <p> <span class="copyright">© 1998-2013 VolunteerMatch. All Rights Reserved.</span> <span class="legal_links"><a href="https://www.volunteermatch.org/legal/privacy.jsp">Privacy Policy</a>  /  <a href="https://www.volunteermatch.org/legal/terms.jsp">Terms of Use</a></span></p>
+  </div><!-- end legal -->
+
   <div class="clear"></div>
-</div>
-<div class="clear"></div>
+  <div class="clear"></div>
 </footer>
 
   
 
   
     
-
 
 
 
@@ -1017,7 +1182,6 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
     var rTracker = _gat._getTracker("UA-937784-79");
     rTracker._initData();
     rTracker._trackPageview();
-
   } catch(err) {}
 </script>
 
@@ -1050,7 +1214,7 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
   
 
 
-<script type="text/javascript">if (!NREUMQ.f) { NREUMQ.f=function() {NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrf2","beacon-1.newrelic.com","2710c860b4",114360,"bwQAZxFQW0IHUBFQDlZOKGAzHllUAVIJFhFKCBRSAEgbWxVD",0,12,new Date().getTime()])</script>
+<script type="text/javascript">if (!NREUMQ.f) { NREUMQ.f=function() {NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrf2","beacon-1.newrelic.com","2710c860b4",114360,"bwQAZxFQW0IHUBFQDlZOKGAzHllUAVIJFhFKCBRSAEgbWxVD",0,15,new Date().getTime()])</script>
 
 
 
