@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getithotdeals.in privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123084221id_/http%3A//www.getithotdeals.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getithotdeals.in privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525160123id_/http%3A//www.getithotdeals.in/privacy) for the most accurate reproduction.*
 
 # Best daily deals in your city from getithotdeals.in
 
@@ -67,3 +67,11 @@ We may provide areas on our Website where you can publicly post information abou
 11\. Contacting Us
 
 Whether you are a new or loyal customer, restaurant owner, marketer, publisher, media member or job seeker we would like to stay connected and want to hear from you!
+
+1\. In case of transaction failure, wherein the user has not received the service despite his or account been debited with the amount, an issue can be raised by him or her. 
+
+2\. Refund can be made either fully or partially. In case of full refund, the customer will be entitled to get the entire amount of transaction while partial refund involves the refund of only sum of amount from the base amount and is decided by the service provider. 
+
+3\. The duration of refund process for getting the amount credited back to the customer’s account will be T+2 days where T stands for the refund mark date. 
+
+4\. Debit card related refunds will require 3-4 working days (excluding holidays) while transactions related to credit cards will require 14-15 working days (excluding holidays). 
