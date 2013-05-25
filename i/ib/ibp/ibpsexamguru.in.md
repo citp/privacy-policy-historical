@@ -1,27 +1,33 @@
-> *The following text is extracted and transformed from the ibpsexamguru.in privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016101430id_/http%3A//www.ibpsexamguru.in/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibpsexamguru.in privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526010037id_/http%3A//www.ibpsexamguru.in/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy ~ Ibps Exam Guru
+# Privacy Policy ~ IBPS Exam Guru
 
-Ibpsexamguru.in takes this Privacy policy seriously and strictly adheres to it.Any personal information you provide us including your name,website url,address and email address will not be released,sold or rented to anyone outside Ibpsexamguru.in
+IBPSEXAMGURU.in (IBPSEXAMGURU) Online Properties of the  “Gajendran Megajolla “ 
 
-Usage of Information Collected
+IBPSEXAMGURU  respects the privacy of it's users and is committed to protect it in all respects. With a view to offer most enriching and holistic internet experience to it's users IBPSEXAMGURU  offers a vast repository of Online Sites and variety of community services. You may read 'About Us' to know more about IBPSEXAMGURU . 
 
-Your email address would be collected if you want to subscribe to our updates posted on this site.Detailed information on unsubscribing from our mailing list is provided with all emails sent to you from us.
+To avail certain sites / services on our websites, users are required to provide certain information for the registration process namely:- a) your name, b) email address, c) sex, d) age, e) PIN code etc., and / or your occupation, interests, and the like. (All required information is Service Dependent). The Information as supplied by the users enables us to improve our sites and provide you the most user-friendly experience.
 
-As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP , the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site. This site uses Get clicky and Google Analytics automatically receive and record information from your browser, including your IP address, cookie information, and the page you request. As said, such information will not be released, rented or sold outside of Ibpsexamguru.in
+To improve the responsiveness of the sites for our users, we may use "cookies", or similar electronic tools to collect information to assign each visitor a unique, random number to understand the user's individual interests using the Identified Computer. Unless you voluntarily identify yourself (through registration, for example), we will have no way of knowing who you are, even if we assign a cookie to your computer. The only personal information a cookie can contain is information you supply (an example of this is when you ask for our Personalised Horoscope). A cookie cannot read data off your hard drive. Our advertisers may also assign their own cookies to your browser (if you click on their ads), a process that we do not control.
 
-Usage of Cookies and Web beacons
+Our web servers automatically collect limited information about your computer's connection to the Internet, including your IP address, when you visit our site. (Your IP address is a number that lets computers attached to the Internet know where to send you data -- such as the web pages you view.) Your IP address does not identify you personally. We use this information to deliver our web pages to you upon request, to tailor our site to the interests of our users, to measure traffic within our site and let advertisers know the geographic locations from where our visitors come.
 
-A “cookie” is a small text file placed in your computer and allows ibpsexamguru.in  to recognise you the next time you visit.Cookies does not contain any of your personal information,and ibpsexamguru.in  does not use cookies to collect information.These cookies might be collected by 3rd party content providers such as online advertising companies.
+IBPSEXAMGURU  includes links to other websites. Such sites are governed by their respective privacy policies, which are beyond our control. Once you leave our servers (you can tell where you are by checking the URL in the location bar on your browser), use of any information you provide is governed by the privacy policy of the operator of the site you are visiting. That policy may differ from ours. If you can't find the privacy policy of any of these sites via a link from the site's homepage, you should contact the site directly for more information.
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
+When we present information to our advertisers to help them understand our audience and confirm the value of advertising on our website.It is usually in the form of aggregated statistics on traffic to various pages within our site. When you subscribe  with IBPSEXAMGURU, we contact you from time to time about updation of your content to provide the users such features that we believe may benefit you.
 
-Google,as a third party vendor,uses cookies to serve ads on this site.Google's use of the DART cookie enables it to serve ads to you based on your visit to our sites and other sites on the Internet.You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.  
-  
-  
-Note : **WWW.IBPSEXAMGURU.IN  Materials only Purpose of Promotional practice only not fully material (Quiz and Practice only)  . who Already prepared offline can check their knowledge with practice test  through in the website ..please Note it Down . Ibpsexamguru believes online material having websites  only For promotional Practice only . we will hope to cover all practice test in all subjects .**  
+All information gathered on IBPSEXAMGURU  is securely stored within the IBPSEXAMGURU  controlled database. The database is stored on servers secured behind a firewall; access to the servers is password-protected and is strictly limited. However, as effective as our security measures are, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the Internet. And, of course, any information you include in a posting to the discussion areas is available to anyone with Internet access.
 
+However the internet is an ever evolving medium. We may change our privacy policy from time to time to incorporate necessary future changes. Of course, our use of any information we gather will always be consistent with the policy under which the information was collected, regardless of what the new policy may be.
 
-**Thank you & Regards **
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you.
 
-**Ibpsexamguru.in**
+Any questions or clarifications with respect to this Policy can be sent to IBPSEXAMGURU  at:
+
+Gajendran Megajolla     
+
+D.bo 18-1-736/A1, 7th Line 
+
+Bhavani Nagar, Tirupati 517501
+
+Contact : +91-8686524468
