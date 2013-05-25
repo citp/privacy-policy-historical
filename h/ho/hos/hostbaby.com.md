@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostbaby.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122171801id_/http%3A//www.hostbaby.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostbaby.com privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525043641id_/http%3A//www.hostbaby.com/privacy) for the most accurate reproduction.*
 
 # Welcome | HostBaby
 
