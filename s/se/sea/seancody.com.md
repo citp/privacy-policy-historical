@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seancody.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919181939id_/http%3A//www.seancody.com/page.php%3Fframe%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seancody.com privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525092048id_/http%3A//seancody.com%3Fframe%3Dprivacy) for the most accurate reproduction.*
 
 # Sean Cody
 
@@ -8,9 +8,9 @@ CODY MEDIA, INC. ("Company" or "we"), the owner and operator of SeanCody.com, it
 
 BEFORE YOU BEGIN OR CONTINUE TO USE THE SITE, OR ANY SERVICES OR FUNCTIONALITY PROVIDED BY OR THROUGH THE SITE, PLEASE CAREFULLY READ THIS PRIVACY POLICY. THIS PRIVACY POLICY CONTAINS IMPORTANT INFORMATION. IT IS ALSO VERY IMPORTANT THAT YOU FULLY UNDERSTAND OUR POLICY BECAUSE BY YOUR USE OR CONTINUED USE OF THIS SITE OR ANY OF ITS RELATED SERVICES YOU WILL BE EXPRESSLY SIGNIFYING THAT YOU AGREE TO THIS POLICY IN ITS ENTIRETY AND THAT YOU AGREE TO THE COLLECTION AND USE OF INFORMATION THAT YOU SUPPLY OR THAT IS COLLECTED ABOUT YOU, INCLUDING PERSONAL INFORMATION, AS DETAILED IN THIS POLICY STATEMENT.
 
-ONLY ADULTS ARE AUTHORIZED TO USE THIS SITE. AUTHORIZED ACCESS AND USE OF THE SITE, ITS DATABASES AND FUNCTIONALITY IS LIMITED TO PERSONS OVER THE AGE OF EIGHTEEN YEARS, AND SUCH ACCESS AND USE IS LIMITED BY OUR [TERMS AND CONDITIONS](https://web.archive.org/page.php?frame=terms). THE COMPANY DOES NOT KNOWINGLY SEEK OR COLLECT ANY PERSONAL INFORMATION OR OTHER DATA FROM ANY PERSONS UNDER THE AGE OF EIGHTEEN YEARS.
+ONLY ADULTS ARE AUTHORIZED TO USE THIS SITE. AUTHORIZED ACCESS AND USE OF THE SITE, ITS DATABASES AND FUNCTIONALITY IS LIMITED TO PERSONS OVER THE AGE OF EIGHTEEN YEARS, AND SUCH ACCESS AND USE IS LIMITED BY OUR [TERMS AND CONDITIONS](https://web.archive.org/?frame=terms). THE COMPANY DOES NOT KNOWINGLY SEEK OR COLLECT ANY PERSONAL INFORMATION OR OTHER DATA FROM ANY PERSONS UNDER THE AGE OF EIGHTEEN YEARS.
 
-IF YOU DO NOT UNDERSTAND OR DO NOT EXPRESSLY AGREE WITH ALL OF THE TERMS OF THIS PRIVACY POLICY AND OUR [TERMS AND CONDITIONS](https://web.archive.org/page.php?frame=terms) YOU SHOULD NOT USE THIS SITE OR THE SERVICES OFFERED OR OTHERWISE PROVIDED BY OR THROUGH THIS SITE.
+IF YOU DO NOT UNDERSTAND OR DO NOT EXPRESSLY AGREE WITH ALL OF THE TERMS OF THIS PRIVACY POLICY AND OUR [TERMS AND CONDITIONS](https://web.archive.org/?frame=terms) YOU SHOULD NOT USE THIS SITE OR THE SERVICES OFFERED OR OTHERWISE PROVIDED BY OR THROUGH THIS SITE.
 
 1\. Information Security 
 
@@ -60,7 +60,7 @@ All Members, visitors and Users of this Site should consider any information pro
 
 6\. Disclosure
 
-The Company will not disclose or use any of your personally identifiable information except to the extent set forth in this Privacy Policy, or under special circumstances, such as when we believe in good faith that the law requires it, or when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating the Site's [Terms and Conditions](https://web.archive.org/page.php?frame=terms), defrauding the Company or any third party, including any Third Party Program Participant.
+The Company will not disclose or use any of your personally identifiable information except to the extent set forth in this Privacy Policy, or under special circumstances, such as when we believe in good faith that the law requires it, or when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating the Site's [Terms and Conditions](https://web.archive.org/?frame=terms), defrauding the Company or any third party, including any Third Party Program Participant.
 
 The Company will disclose your personal information, without notice, to a party unrelated to the Company if required to do so by law or in the good faith belief that such action is necessary to comply with the law, legal process served on the Company or a Third Party Program Participant, to protect the rights or property of the Company or a Third Party Program Participant, or in urgent circumstances to protect the personal safety of users of the Site or the public at large.
 
