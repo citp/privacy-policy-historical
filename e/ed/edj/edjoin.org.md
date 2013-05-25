@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the edjoin.org privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018054548id_/http%3A//www.edjoin.org/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edjoin.org privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525032902id_/http%3A//www.edjoin.org/privacy.aspx) for the most accurate reproduction.*
 
 # EDJOIN Privacy Statement
+
+IMPORTANT NOTICE
+
+***ATTENTION JOBSEEKERS***IMPORTANT
+
+Starting Wednesday 5/22/2013 through Monday 5/27/2013, the EDJOIN Staff will be attending our annual conference. We will return to normal helpdesk hours of 8:00 AM to 5:00 PM on Tuesday 5/28/2013. During this time the helpdesk will be monitoring the site remotely however we will not be accepting or returning calls. We will have limited access to email so if you are experiencing a problem or have a question, please visit the HELP tab at the top right of the page as this area contains any information you may need to apply for a position including many of the questions and answers we get at the helpdesk. Starting Tuesday May 28th we will start returning emails in the order they were received. If you are in need of your username and/or password, please click the LOGIN/REGISTER tab at the top of the page and click LOGIN. At the top left of the page you will see “Forgot Your Username and Password”. Click that to recover your login information.
 
 **Overview**
 
