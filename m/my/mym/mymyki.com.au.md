@@ -1,52 +1,32 @@
-> *The following text is extracted and transformed from the mymyki.com.au privacy policy that was archived on 2011-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111019043517id_/https%3A//www.mymyki.com.au/NTSWebPortal/Common/cms/PrivacyStatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mymyki.com.au privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526004031id_/https%3A//www.mymyki.com.au/NTSWebPortal/Common/cms/PrivacyStatement.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
 
-TTA understands and respects your right to privacy and is committed to privacy protection.
-
-As a State-Owned Enterprise subject to the Information Privacy Act 2000, TTA has developed a Privacy Policy to regulate the way that it collects and handles your personal information.
-
-This privacy statement describes how TTA manages information it may collect from visitors to this website, as well as providing an overview of how your privacy will be protected when myki is introduced to Victoria.
-
-[TTA Privacy Policy](http://www.transport.vic.gov.au/__data/assets/pdf_file/0020/30971/Transport-Ticketing-Authority-Privacy-policy-revision-3-November-2009.pdf).
+The TTA understands and respects your right to privacy and is committed to privacy protection. As a State-Owned Enterprise subject to the Information Privacy Act 2000, TTA has developed a Privacy Policy to regulate the way that it collects and handles your personal information. This privacy statement outlines how your privacy is protected and how TTA manages information it collects from visitors to this website [TTA Privacy Policy](http://www.myki.com.au/ArticleDocuments/167/myki%20Privacy%20Policy%20January%202013.pdf.aspx).
 
  **What information is currently collected through this website?**
 
 You can access this website and browse anonymously without providing your personal information and without being identified. TTA collects data through its web server, including the number, time and date of visits to the site and its pages. This anonymous information is used for statistical purposes and to ensure our website is providing relevant information.
 
-However, some of the functions and services provided by this website require you to provide certain personal information. For example, if you are seeking additional information on myki, we will need contact details in order to respond. A Privacy Notice is provided wherever personal information is collected.
+Some functions and services provided by this website require you to provide certain personal information. For example, if you are seeking additional information on myki, we will need contact details in order to respond. A Privacy Notice is provided wherever personal information is collected.
 
  **Cookies**
 
-This website may use cookies for certain services. A cookie is a small data file that is shared between a web server and your browser and which may be stored on your hard drive.
-
-Cookies can provide various types of information, depending on how they are used. This TTA website uses cookies to track user traffic patterns so that we can serve you better when you next visit the site. You can set your browser to notify you when you receive a cookie so that you can accept or reject it. However, rejecting cookies may limit how you can use this site.
+This website uses cookies to track user traffic patterns so that we can improve this site. A cookie is a small data file that is shared between a web server and your browser and which may be stored on your hard drive. Cookies can provide various types of information, depending on how they are used. You can set your browser to notify you when you receive a cookie so that you can accept or reject it. However, rejecting cookies may limit how you can use this site.
 
  **Privacy and myki**
 
-myki smartcards will be used for travel on metropolitan trains, trams and buses, as well as regional trains and major regional centre bus services.
-
-Most people will have the choice of purchasing and using an anonymous myki.
-
-Personal information will be collected if a customer chooses to do any of the following things:
+myki smart cards will be used for travel on metropolitan trains, trams and buses as well as on selected regional trains and buses. Most myki cardholders will have the choice of purchasing and using an unregistered myki. **Personal information will be collected if a customer chooses to do any of the following things:**
 
  **Registering a myki**
 
-Registration will require at least minimum contact details, and will ensure the balance or value on your myki will be protected if it is lost or stolen.
+Registration will require at least minimum contact details, for some concession cardholders it is mandatory to register and personalise their card (with name, or name and photo), dependent on the category of concession entitlement. Registered cardholders can choose to personalise their myki with their name if this is requested at the time of purchase.
 
-It will be mandatory for some concession cardholders to be registered and personalised (with name, or name and photo), dependent on the category of concession entitlement.
-
-Registered cardholders will also have the option of personalising their myki with their name if this is requested at the time of purchase.
-
-Personal information provided by or about the account holder or cardholder or generated by using the Card is collected by Public Transport Authorities (TTA, the Department of Transport and their contractors, agents and delegates including Metlink and public transport operators) to issue and administer the Card and relevant entitlements.
-
-The account holder or cardholder will generally be able to access his/her personal information. Personal information sought by TTA is required in order to provide the Card and related services, such as registration.
-
-Personal information held by Public Transport Authorities may be used or disclosed (including to each other) for the operation of myki; to verify entitlement to concession travel; for ticketing enforcement; in emergencies; otherwise as required or authorised by or under law; or with your consent.
+Personal information provided by or about the account holder or cardholder or generated by using the Card is collected by Public Transport Authorities (TTA, Public Transport Victoria, the Department of Transport and their contractors, agents and delegates including public transport operators) to issue and administer the Card and relevant entitlements. The account holder or cardholder will generally be able to access his/her personal information. The TTA requires personal information to provide the Card and related services, such as registration.
 
  **Setting auto topup**
 
-If you choose to register for auto topup (a direct debit facility from your credit card or bank account), TTA will need to hold relevant details required for payment processing.
+If you choose to register for auto top up (a direct debit facility from your credit card or bank account). The TTA will need to hold relevant details required for payment processing.
 
  **Topping up by credit or debit card**
 
@@ -58,26 +38,25 @@ If you order an anonymous myki via the website or call centre, your contact deta
 
  **Making a query or complaint**
 
-A customer's personal information may also be required in order to respond to queries or complaints.
+The TTA may require personal information (contact details) in order to respond to queries or complaints.
 
  **Using the myki**
 
-Use of the myki will generate a transaction record, which will include the location, time and date of the transaction. If a cardholder has provided personal details, TTA will have the ability to link these with their transactions. However, TTA or its agents will not normally need to do so in connection with the operation of the payment system.
-
-Personal information will be used and disclosed by Public Transport Authorities for the purpose for which it was collected, which will be explained at the time of collection. Personal information may be disclosed to third parties for other purposes in limited circumstances which are explained in the full [TTA Privacy Policy](http://www.transport.vic.gov.au/__data/assets/pdf_file/0020/30971/Transport-Ticketing-Authority-Privacy-policy-revision-3-November-2009.pdf)
+Use of the myki will generate a record, which will include the location, time and date of the transaction. If a cardholder has provided personal details, the TTA will have the ability to link these with card holder's transactions. However, TTA or its agents will not normally need to do so in connection with the operation of the payment system.  
+Personal information held by Public Transport Authorities may be used or disclosed (including to each other) for the operation of myki; to verify entitlement to concession travel; for ticketing enforcement; in emergencies; otherwise as required or authorised by or under law; or with your consent. The full Privacy Policy explains these circumstances. [TTA Privacy Policy](http://www.myki.com.au/ArticleDocuments/167/myki%20Privacy%20Policy%20January%202013.pdf.aspx)
 
  **Security**
 
-TTA and its agents will take all reasonable measures to secure personal information.
+The TTA and its agents will take all reasonable measures to secure personal information.
 
  **Accessing or correcting your information**
 
-If you would like to see or correct information that TTA holds about you, you may be able to change your details directly by logging into your account (if you have set up online access), or by contacting the call centre for further assistance on 13 myki (13 6954).
+To view or correct information that TTA holds about you, log into your account (if you have set up online access) to change your details directly or contact the call centre on 13 6954 (13 myki).
 
- **Complaints**
+ **Making a query or complaint**
 
-If you have a complaint about the way TTA has handled your personal information, please contact us via the [Feedback form](https://www.mymyki.com.au/NTSWebPortal/common/Auxillary/Contactus.aspx?menu=Feedback "Feedback Form") or call 13 6954 (13 myki).
+If you have a query or a complaint about the way TTA has handled your personal information, please contact us via the [Feedback form](https://web.archive.org/web/20130526004031id_/https%3A//www.mymyki.com.au/NTSWebPortal/Common/Auxillary/Contactus.aspx?menu=Contact%20myki "Feedback Form") or call 13 6954 (13 myki).
 
  **More information**
 
-If you would like further information about the TTA's Information Privacy practices see the full [TTA Privacy Policy](http://www.transport.vic.gov.au/__data/assets/pdf_file/0020/30971/Transport-Ticketing-Authority-Privacy-policy-revision-3-November-2009.pdf) or contact us via the [Feedback form](https://www.mymyki.com.au/NTSWebPortal/common/Auxillary/Contactus.aspx?menu=Feedback "Feedback Form"), or call 13 6954 (13 myki).
+If you would like further information about the TTA's Information Privacy practices see the full [TTA Privacy Policy](http://www.transport.vic.gov.au/__data/assets/pdf_file/0020/61526/Transport-Ticketing-Authroty-Privacy-Policy-Revision-4-24-January-2012.pdf) or contact us via the [Feedback form](https://web.archive.org/web/20130526004031id_/https%3A//www.mymyki.com.au/NTSWebPortal/Common/Auxillary/Contactus.aspx?menu=Contact%20myki "Feedback Form"), or call 13 6954 (13 myki).
