@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ptk.org privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022065624id_/http%3A//www.ptk.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ptk.org privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526000123id_/http%3A//www.ptk.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Phi Theta Kappa Honor Society
 
