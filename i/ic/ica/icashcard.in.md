@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icashcard.in privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919235921id_/http%3A//icashcard.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icashcard.in privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525220955id_/https%3A//icashcard.in/privacy-policy) for the most accurate reproduction.*
 
 # iCASHCARD – Privacy Policy
 
@@ -80,4 +80,4 @@ Chennai.
 
 Toll Free :- 1800-108-1080 
 
-[ E-Mail:-support@icashcard.co.in ](mailto:support@icashcard.co.in)
+[ E-Mail:-support@icashcard.in ](mailto:support@icashcard.in)
