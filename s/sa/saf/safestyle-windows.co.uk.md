@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the safestyle-windows.co.uk privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525074937id_/http%3A//www.safestyle-windows.co.uk/privacy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safestyle-windows.co.uk privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526002254id_/http%3A//www.safestyle-windows.co.uk/privacy/index.htm) for the most accurate reproduction.*
 
 # Privacy Policy | Safestyle UK
 
@@ -11,8 +11,6 @@ Protected by the Data Protection Act 1988
 **What is a Privacy Policy?**
 
 You have to trust the ones that you love. That's why we have this document. Our Privacy Policy is here to reassure you about how Safestyle UK collect, use and transfer information we collect from this website.
-
-This document is called a Privacy Policy and it tells you how Safestyle UK (part of the Style Group UK) collect, use and transfer information we collect from this website. 
 
 By using this website you consent to the collection, use and transfer of the information that you provide to us in accordance with the terms of this policy.
 
@@ -64,7 +62,7 @@ We reserve the right to change this policy from time to time at our sole discret
 
 By uploading text or images to our [Customer Review](http://customer-reviews.safestyle-windows.co.uk/) section you affirm that we may use both the text and images as part of our Customer Review section of this website.
 
-For full usage and removal information, please [click here](https://web.archive.org/web/20120525074937id_/http://www.safestyle-windows.co.uk/privacy/reviewterms.html)
+For full usage and removal information, please [click here](https://web.archive.org/web/20130526002254id_/http://www.safestyle-windows.co.uk/privacy/reviewterms.html).
 
 **Security**
 
@@ -78,15 +76,13 @@ We will only perform the activities outlined above to the extent that such activ
 
 **Contact**
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to customerservices@safestyle.co.uk or Style Group UK, Style House, Eldon Place, Bradford BD1 3AZ. 
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to customerservices@safestyle.co.uk or Customer Services, Safestyle UK, Style House, Eldon Place, Bradford BD1 3AZ.
 
-**Last revised 21 December 2006**
+**Last revised 31 May 2012**
 
   
 
 
 Take a look at our fantastic offer
 
-[save now
-
-](https://web.archive.org/offers/)
+[save now](https://web.archive.org/offers/)
