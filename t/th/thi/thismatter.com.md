@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thismatter.com privacy policy that was archived on 2012-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121012064118id_/http%3A//thismatter.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thismatter.com privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525161849id_/http%3A//thismatter.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy For thismatter.com
 
@@ -16,12 +16,5 @@ In addition, there may be cookies that track your content preferences so that ad
   * Google, as a third party vendor, uses cookies to serve ads on this site.
   * Google's use of the DART cookie enables it to serve ads to this site's users based on your visit to this site and other sites on the Internet.
   * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
-
-
-
-  * [Privacy Policy For thismatter.com](http://thismatter.com/privacy.htm)
-  *   * Information is provided 'as is' and solely for education, not for trading purposes or professional advice.
-  * Copyright © 1982 - 2012 by 
-  * [](https://plus.google.com/101155870866732684316?prsrc=3)
 
 
