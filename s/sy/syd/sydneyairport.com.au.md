@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sydneyairport.com.au privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122081741id_/http%3A//www.sydneyairport.com.au/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sydneyairport.com.au privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526010859id_/http%3A//www.sydneyairport.com.au/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Sydney Airport - Privacy Policy
 
@@ -26,13 +26,19 @@ In the case of matters relating to security or airfield operations - for example
 
 
 
-In the case of retail and marketing-related matters, we might collect additional information such as:
+In the case of retail and marketing-related matters, we may collect additional information such as:
 
   * your preferences concerning types of products or services; 
   * the frequency of use of certain types of products or services; 
   * the methods, purpose and frequency of travel; 
   * your preferred destinations; and 
   * your income demographics. 
+
+
+
+In the case of lost property, we may collect and retain additional information such as:
+
+  * your name, address, telephone numbers, date of birth, flight details and a copy of approved photo identification (e.g drivers licence).
 
 
 
@@ -70,7 +76,7 @@ At the point we collect information from you, you may be asked to “opt in” t
 
 You will generally be given the opportunity to “opt out” from receiving communications from us or from third parties that send communications to you in accordance with this policy. For example, you will be given the option to unsubscribe from e-newsletters and other marketing or promotional material sent by us. You may “opt out” from receiving these communications by either clicking on an unsubscribe link at the end of an email. 
 
-If you receive communications purporting to be connected with us or our services that you believe have been sent to you other than in accordance with this policy, or in breach of any law, please write to us at [privacy@sacl.com.au](mailto:privacy@sacl.com.au)
+If you receive communications purporting to be connected with us or our services that you believe have been sent to you other than in accordance with this policy, or in breach of any law, please write to us at [privacy@syd.com.au](mailto:privacy@syd.com.au)
 
 ## How does SACL use your personal information?
 
@@ -133,6 +139,26 @@ You may request access to, and correction of, any of your personal information h
   All requests for access and/or correction will be processed within a reasonable time.  In some situations, you may be able to access and correct your personal information directly through our website. 
 
 There is no application fee for making a request to access your personal information. However, we may charge an administrative fee for the provision of information in order to recover costs.
+
+## How does Sydney Airport control access to Closed Circuit Television (CCTV) Footage?
+
+CCTV footage is released under provision of the company’s corporate policy. This policy is written in line with the National Approach to Closed Circuit Television, the Australian Standards for CCTV and the National Privacy Principals. 
+
+Aims of the CCTV System
+
+  
+
+
+CCTV significantly increases the ability to monitor areas of the airport and aims to do the following: 
+
+  * assist in the prevention and detection of acts of unlawful interference against aviation
+  * reduce acts of unlawful interference with aviation by deterring potential offenders through fear of detection
+  * assist Government and law enforcement agencies with the detection and identification of offenders
+  * to aid in a more effective assessment and response to unlawful acts of interference including security, safety and emergency situations.
+
+
+
+For further information, view the [CCTV Fact Sheet](https://web.archive.org/~/media/Files/Corporate/About%20Us/Fact%20Sheets/Sydney-Airport-CCTV-Fact-Sheet.pdf).  Any other inquiries can be directed via e-mail to [Customer.Service@syd.com.au](mailto:Customer.Service@syd.com.au?subject=CCTV%20Enquiry) or by phone on 02 9667 9111.
 
 ## Contacting Us
 
