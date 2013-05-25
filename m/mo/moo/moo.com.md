@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moo.com privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217161956id_/http%3A//us.moo.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moo.com privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525030547id_/http%3A//us.moo.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy | moo.com USA
 
@@ -19,7 +19,7 @@ If you’re still interested, you might like to visit [this website](http://www.
 
 **Further information about Cookies**
 
-If you'd like to learn more about Cookies in general and how to manage them, visit [aboutCookies.org](https://web.archive.org/web/20121217161956id_/http://us.moo.com/about/privacy-policy/aboutCookies.org)
+If you'd like to learn more about Cookies in general and how to manage them, visit [aboutCookies.org](https://web.archive.org/web/20130525030547id_/http://us.moo.com/about/privacy-policy/aboutCookies.org)
 
 ### 5\. Our commitment to the privacy of children
 
