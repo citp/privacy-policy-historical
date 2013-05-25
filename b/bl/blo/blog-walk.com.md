@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blog-walk.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525201528id_/http%3A//blog-walk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blog-walk.com privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525141415id_/http%3A//blog-walk.com/privacy-policy) for the most accurate reproduction.*
 
-# Blog Walking and Auto Comments
+# Blog Walking and Auto Comments | Blog Walking, Auto Comments, Autoblog
 
 Privacy Policy for http://blog-walk.com
 
