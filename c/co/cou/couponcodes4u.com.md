@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the couponcodes4u.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228174452id_/http%3A//www.couponcodes4u.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponcodes4u.com privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525043240id_/http%3A//www.couponcodes4u.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
   * [Home](http://www.couponcodes4u.com/)
   * [Categories](https://web.archive.org/categories)
     * [ __Business & Home Office](https://web.archive.org/business-home-office)
-    * [ __Days Out & Attractions](https://web.archive.org/days-out-attractions)
     * [ __Fashion](https://web.archive.org/fashion)
     * [ __Finance & Insurance](https://web.archive.org/finance-insurance)
-    * [ __Food & Drink](https://web.archive.org/food-drink)
     * [ __Gifts & Occasions](https://web.archive.org/gifts-occasions)
     * [ __Health & Beauty](https://web.archive.org/health-beauty)
     * [ __Home & Garden](https://web.archive.org/home-garden)
@@ -19,16 +17,15 @@
     * [ __Music, Books, Games & Movies](https://web.archive.org/music-books-games-movies)
     * [ __Online Services](https://web.archive.org/online-services)
     * [ __Pets](https://web.archive.org/pets)
-    * [ __Restaurants, Takeaways & Bars](https://web.archive.org/restaurants-takeaways-bars)
     * [ __Sports, Fitness & Outdoors](https://web.archive.org/sports-fitness-outdoors)
     * [ __Technology & Electrical](https://web.archive.org/technology-electrical)
     * [ __Travel](https://web.archive.org/travel)
-    * [ __Utilities & Home Services](https://web.archive.org/utilities-home-services)
-  * [__Exclusives](https://web.archive.org/exclusive)
   * [Top 50](https://web.archive.org/top50-discounts)
+  * [ __Exclusives __](https://web.archive.org/exclusive)
   * [Printable Coupons](https://web.archive.org/printable-coupons)
   * [Grocery Coupons](https://web.archive.org/grocery-coupons)
-  * [After Christmas Sales](https://web.archive.org/occasions/after-christmas-sales)
+  * [Free Shipping](https://web.archive.org/free-shipping)
+  * [Tax Returns](https://web.archive.org/web/20130525043240id_/http%3A//www.couponcodes4u.com/occasions/taxes)
 
 
 
@@ -49,6 +46,3 @@ This site uses cookies to control popup windows and advertisements. The main pur
 ## Mailing List
 
 If you join our mailing list, we will keep your email address and any demographics information you volunteer strictly confidential. We will never give or sell your email address or any information about you to anyone else.
-
-© 2006-2012 CouponCodes4u.com - All Rights Reserved.  
-CouponCodes4u.com is operated by Markco Media Ltd. Markco Media Ltd. is registered in England and Wales with Company No. 06327961 and VAT Registration 920963422
