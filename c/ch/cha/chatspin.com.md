@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chatspin.com privacy policy that was archived on 2011-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110503190624id_/http%3A//www.wiredreality.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chatspin.com privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525075100id_/http%3A//www.wiredreality.com/privacypolicy.html) for the most accurate reproduction.*
 
 # 
 
