@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hamcity.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123143744id_/http%3A//www.hamcity.com/store/pc/viewContent.asp%3Fidpage%3D6) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hamcity.com privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525041834id_/https%3A//www.hamcity.com/store/pc/viewContent.asp%3Fidpage%3D6) for the most accurate reproduction.*
 
 # Privacy Policy - HamCity / Ham Radio Equipment
 
@@ -30,4 +30,4 @@ Culver City, CA 90230
 
 * * *
 
-[](https://web.archive.org/web/20121123143744id_/http%3A//www.hamcity.com/store/pc/viewPages.asp)
+[](https://web.archive.org/web/20130525041834id_/https%3A//www.hamcity.com/store/pc/viewPages.asp)
