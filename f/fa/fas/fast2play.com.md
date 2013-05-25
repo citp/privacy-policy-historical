@@ -1,0 +1,26 @@
+> *The following text is extracted and transformed from the fast2play.com privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525051953id_/http%3A//fast2play.com/privacy-policy) for the most accurate reproduction.*
+
+# Privacy Policy
+
+FAST2PLAY.COM respects your privacy and works hard to safeguard the privacy of your personal data. We realize that the exciting growth of the Internet and online services raise questions concerning the nature, use and confidentiality of information collected about consumers. We want you to know that we apply our long-standing commitment of safeguarding privacy to our online and Internet activities. 
+
+In addition to this general online privacy policy, you may receive notice of other terms that apply to particular promotions or services. 
+
+ **   Personally Identifiable Information **
+
+FAST2PLAY.COM does not share, disclose or sell any personally-identifiable information (such as your name, address, telephone number or e-mail address) collected online on FAST2PLAY.COM sites with other unaffiliated companies or organizations for non-FAST2PLAY.COM marketing purposes. Because this information is a critical part of our business, it would be treated like our other assets in the context of a merger, sale or other corporate reorganization or legal proceeding. FAST2PLAY.COM also does not market to, or knowingly collect personal information from, children under he age of 13 on Company sites. 
+
+ **   How We Use Information **
+
+FAST2PLAY.COM uses the personally-identifiable information we collect online principally to provide you with the service(s) you have ordered and to let you know about other offerings which may be of interest to you. Postal and e-mail address information, for example, enables communication about services offered and ordered, as well as the proper provisioning and billing of those services. 
+
+We also provide personally-identifiable online information in response to subpoenas and other legal demands, and where we believe that disclosing this information is necessary to identify, contact or bring legal action against individuals who may be endangering public safety or interfering with FAST2PLAY.COM' ervices, or with our customers' or others' use of them. 
+
+ **   How We Collect Information **
+
+FAST2PLAY.COM collects information online by asking you for it, for example, when you order a service, apply for a job, or respond to a survey, offer or other promotion. A customer's name, address (postal and e-mail) and telephone number are the most important pieces of information, but we might request other information, based on, for example, the service(s) being ordered or promoted. 
+
+FAST2PLAY.COM may also use "cookies" and similar technology to obtain information about your visits to our sites or your responses to e-mail from us - both individually and in aggregated data that does not identify you. These reporting tools tell us the parts of our web sites or e-mails in which you showed an interest or took some action, and help us improve the quality and usefulness of our sites.   
+Security 
+
+We use encryption, firewalls and other technology and security procedures to help protect the accuracy and security of your personal information and prevent unauthorized access or improper use. For example, you will note that while using some features of the FAST2PLAY.net's web site you will need to submit a password or some other type of authenticating information.
