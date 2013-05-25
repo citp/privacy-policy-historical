@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the leslielovesveggies.net privacy policy that was archived on 2012-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121025160928id_/http%3A//www.leslielovesveggies.net/about-2/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leslielovesveggies.net privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525052430id_/http%3A//www.leslielovesveggies.net/about-2/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy - Leslie Loves Veggies
+
+[Privacy Policy](http://www.leslielovesveggies.net/about-2/privacy-policy-2)
 
 [](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.leslielovesveggies.net%2Fabout-2%2Fprivacy-policy-2&media=&description=Privacy%20Policy)
 
@@ -50,15 +52,13 @@ This online privacy policy applies only to information collected through our web
 
 **Your Consent**
 
-By using our site, you consent to our [web site privacy policy](http://www.freeprivacypolicy.com/).
-
-This policy was last modified on April 24, 2010
+By using our site, you consent to our web site privacy policy.
 
 **Contacting Us**
 
-If there are any questions regarding this privacy policy you may contact us using the information below.
+If there are any questions regarding this privacy policy you may contact us using the information below.  
+LeslieVeg@gmail.com  
+<http://leslielovesveggies.net/>  
+USA
 
-http://leslielovesveggies.net/
-
-USA  
-LeslieVeg@gmail.com
+This policy was last modified on April 24, 2010
