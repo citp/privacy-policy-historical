@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the specialtyansweringservice.net privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223035547id_/http%3A//www.specialtyansweringservice.net/specialty-answering-service-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the specialtyansweringservice.net privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525160200id_/http%3A//www.specialtyansweringservice.net/specialty-answering-service-privacy-policy.html) for the most accurate reproduction.*
 
 # Specialty Answering Service Privacy Policy
 
