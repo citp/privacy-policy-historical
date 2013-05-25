@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stuffit.com privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031000944id_/http%3A//www.stuffit.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stuffit.com privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525134107id_/http%3A//www.stuffit.com/about/privacy.html) for the most accurate reproduction.*
 
 # About StuffIt ® : Privacy Policy | Smith Micro Software
 
