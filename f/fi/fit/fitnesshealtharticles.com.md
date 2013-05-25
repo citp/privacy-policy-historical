@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fitnesshealtharticles.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122170230id_/http%3A//www.fitnesshealtharticles.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fitnesshealtharticles.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526002606id_/http%3A//www.fitnesshealtharticles.com/privacy) for the most accurate reproduction.*
 
-# Privacy | FitnessHealthArticles.com | FitnessHealthArticles.com
+# Privacy | FitnessHealthArticles.com
 
 FitnessHealthArticles.com has created this privacy statement in order to demonstrate our firm and continuing commitment to the privacy of personal information provided by those visiting and interacting with this web site. We hold the privacy of your personal information in the highest regard. The following discloses our information gathering and dissemination practices for this website.
 
