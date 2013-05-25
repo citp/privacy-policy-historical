@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netglimse.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224172756id_/http%3A//netglimse.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netglimse.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526004123id_/http%3A//www.netglimse.com/privacy.shtml) for the most accurate reproduction.*
 
 # NetGlimse.Com - Privacy Policy
 
