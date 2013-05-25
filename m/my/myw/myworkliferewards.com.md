@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myworkliferewards.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123192034id_/http%3A//www.myworkliferewards.com/loyalty/privacy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myworkliferewards.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526002341id_/http%3A//www.myworkliferewards.com/loyalty/privacy.do) for the most accurate reproduction.*
 
 # Office Depot Worklife Rewards® Program
 
