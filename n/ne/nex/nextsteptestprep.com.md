@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nextsteptestprep.com privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104132504id_/http%3A//www.nextsteptestprep.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nextsteptestprep.com privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525162315id_/http%3A//nextsteptestprep.com/services/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Next Step Test Prep
 
@@ -69,6 +69,6 @@ This policy was last modified on 4/28/10
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-www.nextsteptestprep.com  
+nextsteptestprep.com  
 info@nextsteptestprep.com  
 
