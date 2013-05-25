@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ticketleap.com privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125063559id_/http%3A//www.ticketleap.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticketleap.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526000824id_/http%3A//www.ticketleap.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # TicketLeap Privacy Policy - The leading social ticketing platform.
 
