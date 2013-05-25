@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icanteachmychild.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122202020id_/http%3A//www.icanteachmychild.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icanteachmychild.com privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525160003id_/http%3A//www.icanteachmychild.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - I Can Teach My Child!
 
@@ -24,8 +24,10 @@ To opt out of the DART cookies you may visit the [Google ad and content network 
 
 You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
 
+We are not responsible for republished content from this blog on other blogs or websites without our permission.
+
 **Changes to this Privacy Statement**
 
-The contents of this statement may be altered at any time, at our discretion.
+The contents of this statement may be altered at any time, at our discretion and was last updated January 2, 2013.
 
-[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.icanteachmychild.com%2Fprivacy-policy%2F&media=&description=Privacy%20Policy)
+If you have any questions feel free to contact me directly here:  icanteachmychild (at) gmail (dot) com.
