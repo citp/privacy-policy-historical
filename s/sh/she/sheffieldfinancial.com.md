@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sheffieldfinancial.com privacy policy that was archived on 2012-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121206235739id_/http%3A//www.sheffieldfinancial.com/forms/Privacy_Notice.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sheffieldfinancial.com privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525070543id_/http%3A//sheffieldfinancial.com/forms/Privacy_Notice.pdf) for the most accurate reproduction.*
 
 # FACTS
 
-                                                                                                     Rev. 05/2011
+                                                                                                     Rev. 01/2013
                      WHAT DOES BB&T DO
 FACTS                WITH YOUR PERSONAL INFORMATION?
 Why?                 Financial companies choose how they share your personal information. Federal law
@@ -90,10 +90,9 @@ Questions?           Call 1-888-800-3420
   Other important information
   You may have other privacy protections under some state laws. We will comply with applicable state laws
   as to information about you, including medical information.
-  n Accounts with California addresses will be treated as if you opted out of joint marketing
-    arrangements.
+  n Accounts with California addresses will be treated as if you opted out of joint marketing arrangements.
   n Accounts with Vermont addresses will be treated as if you opted out of sharing information among our
     affiliates and opted out of joint marketing arrangements.
-*BB&T Companies providing this notice are: BB&T Credit Services, Inc., BB&T Financial, FSB, BB&T Investment Services, Inc., Branch
+*BB&T Companies providing this notice are: BB&T Credit Services, Inc., BB&T Investment Services, Inc., BB&T Securities, LLC, Branch
 Banking and Trust Company, Lendmark Financial Services, Inc., Lendmark Financial Services of West Virginia, Inc., Lendmark Mortgage
-and Finance, Inc., Regional Acceptance Corporation, Scott & Stringfellow, LLC, Sterling Capital Management, LLC.
+and Finance, Inc., Regional Acceptance Corporation, Sterling Capital Management LLC.
