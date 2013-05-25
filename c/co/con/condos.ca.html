@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the condos.ca privacy policy that was archived on 2012-07-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120712165456id_/http%3A//condos.ca/info/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the condos.ca privacy policy that was archived on 2013-05-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130526003803id_/http%3A//condos.ca/info/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml" xml:lang="en" lang="en" dir="ltr"><head>
   <base href="http://condos.ca/">
@@ -14,7 +14,7 @@
 <meta name="keywords" content="Toronto Condos Sale Rent GTA Condominium">
 
 
-      <link href="/application/css.php?request=application/themes/condo/theme.css" media="screen" rel="stylesheet" type="text/css">
+      <link href="/application/css.php?request=application/themes/condos/theme.css" media="screen" rel="stylesheet" type="text/css">
 <link href="/favicon.ico" rel="favicon" type="image/x-icon">
   
 
@@ -30,7 +30,7 @@
 <script type="text/javascript">
     //<![CDATA[
 
-    Date.setServerOffset('Thu, 12 Jul 2012 16:54:56 +0000');
+    Date.setServerOffset('Sun, 26 May 2013 0:28:56 +0000');
 
     en4.orientation = 'ltr';
     en4.core.environment = 'production';
@@ -65,8 +65,10 @@
   <div id="global_header">
     <div class="layout_page_header">
 <div class="generic_layout_container layout_main">
-<div class="generic_layout_container layout_condo_menu_main"><div id="condo_logo">
-<a href="/" title="Toronto Condos for Sale and Rent"><img src="application/themes/condo/images/condos.ca.png" alt="Toronto Condos for Sale and Rent"></a></div>
+<div class="generic_layout_container layout_condo_menu_main_m"><div id="condo_logo">
+    
+    
+<a href="/" title="Toronto Condos for Sale and Rent"><img alt="Toronto Condos for Sale and Rent" src="application/themes/condos/images/logo.png"></a></div>
 <ul class="navigation">
     <li>
         <a title="Condos for Sale in Toronto" class="menu_core_main condo_main_forsale" href="/condominium/listing/search/for/sale">For Sale</a>
@@ -78,134 +80,48 @@
         <a class="menu_core_main condo_main_newdevelopments" href="/new-developments">New Condos</a>
     </li>
     <li>
-        <a class="menu_core_main condo_main_neighbourhoods" href="/neighbourhoods">Neighbourhoods</a>
+        <a class="menu_core_main condo_buy" href="buy">Buy</a>
     </li>
     <li>
-        <a title="Condo Rent and Buy Calculators" class="menu_core_main condo_main_calculators" href="pages/calculate">Calculators</a>
+        <a class="menu_core_main condo_sell" href="sell">Sell</a>
     </li>
-    <li>
-        <a title="Toronto Condo FAQs" class="menu_core_main core_main_question" href="/question">Q&amp;A</a>
-    </li>
-    <li>
-        <a class="menu_core_main condo_main_auth" href="javascript:void(0);Smoothbox.open('login');">My Login</a>
-    </li>
-</ul></div>
+</ul><div style="clear: both;"></div></div>
 
-<div class="generic_layout_container layout_condo_menu_mini"><div id="condo_menu_mini_menu">
-  <ul>
-      <li id="global_search_form_container"><form id="global_search_form" class="global_form" action="/condominium/search" method="get">
-
-<input type="text" name="query" id="query" value="Search..." class="searchbox" onfocus="if(this.value=='Search...') this.value='';">
-
-<button name="submit" id="submit" type="submit">Search</button></form></li>
-  </ul>
-</div>
+<div class="generic_layout_container layout_condo_menu_mini_m"><div id="mini_menu_right_border">
+    
+    <a href="/signup" class="green_button1">Become a member</a>    
+    <div class="already">
+        Already a member? <a href="javascript:void(0);Smoothbox.open('/login');" class="greenlink">Log in.</a>    </div>
+       
+        
+            
+    </div>
 <script type="text/javascript">
-  var notificationUpdater;
+    if($("toggle_mini_menu")){
+        var mySlide = new Fx.Slide('toggle_mini_menu').hide();
+        en4.core.runonce.add(function(){
 
-  en4.core.runonce.add(function(){
-    new OverText($('global_search_field'), {
-      poll: true,
-      pollInterval: 500,
-      positionOptions: {
-        position: ( en4.orientation == 'rtl' ? 'upperRight' : 'upperLeft' ),
-        edge: ( en4.orientation == 'rtl' ? 'upperRight' : 'upperLeft' ),
-        offset: {
-          x: ( en4.orientation == 'rtl' ? -4 : 4 ),
-          y: 2
-        }
-      }
-    });
 
-    if($('notifications_markread_link')){
-      $('notifications_markread_link').addEvent('click', function() {
-        //$('notifications_markread').setStyle('display', 'none');
-        en4.activity.hideNotifications('0 Updates');
-      });
+            //Create a slide in/out
+            $('user_name').addEvent('mouseover', function(e){//add the click function (i.e on an anchor)
+                    e = new Event(e);//create a new event here
+                    mySlide.show();//do this to the selected element
+                    $('immr').hide();
+                    $('immd').show();
+                    e.stop();//stop the event
+            });
+
+            $('toggle_mini_menu').addEvent('mouseleave', function(e){//add the click function (i.e on an anchor)
+                    e = new Event(e);//create a new event here
+                    mySlide.hide();//do this to the selected element
+                    $('immd').hide();
+                    $('immr').show();
+                    e.stop();//stop the event
+            });
+        });
     }
-
-      });
-
-
-  var toggleUpdatesPulldown = function(event, element, user_id) {
-    if( element.className=='updates_pulldown' ) {
-      element.className= 'updates_pulldown_active';
-      showNotifications();
-    } else {
-      element.className='updates_pulldown';
-    }
-  }
-
-  var showNotifications = function() {
-    en4.activity.updateNotifications();
-    new Request.HTML({
-      'url' : en4.core.baseUrl + 'activity/notifications/pulldown',
-      'data' : {
-        'format' : 'html',
-        'page' : 1
-      },
-      'onComplete' : function(responseTree, responseElements, responseHTML, responseJavaScript) {
-
-        if(responseHTML){
-          // hide loading icon
-          if($('notifications_loading')) $('notifications_loading').setStyle('display', 'none');
-
-          $('notifications_menu').innerHTML = responseHTML;
-          $('notifications_menu').addEvent('click', function(event){
-            event.stop(); //Prevents the browser from following the link.
-
-            var current_link = event.target;
-            var notification_li = $(current_link).getParent('li');
-
-            // if this is true, then the user clicked on the li element itself
-            if (notification_li.id == 'condo_menu_mini_menu_update') notification_li = current_link;
-
-            var forward_link;
-            if(current_link.get('href')){
-              forward_link = current_link.get('href');
-            }
-            else{
-              forward_link = $(current_link).getElements('a:last-child').get('href');
-            }
-
-            if(notification_li.get('class')=='notifications_unread'){
-              notification_li.removeClass('notifications_unread');
-              en4.core.request.send(new Request.JSON({
-                url : en4.core.baseUrl + 'activity/notifications/markread',
-                data : {
-                  format     : 'json',
-                  'actionid' : notification_li.get('value')
-                },
-                onSuccess : window.location = forward_link
-              }));
-            }
-            else window.location = forward_link;
-          });
-        }
-        else $('notifications_loading').innerHTML = 'You have no new updates.';
-      }
-    }).send();
-  };
-
-  /*
-  function focusSearch() {
-    if(document.getElementById('global_search_field').value == 'Search') {
-      document.getElementById('global_search_field').value = '';
-      document.getElementById('global_search_field').className = 'text';
-    }
-  }
-  function blurSearch() {
-    if(document.getElementById('global_search_field').value == '') {
-      document.getElementById('global_search_field').value = 'Search';
-      document.getElementById('global_search_field').className = 'text suggested';
-    }
-  }
-  */
-</script>
-<noscript>
-<p style="font-size:0.8em;">Condos.ca is Toronto's best condominium directory. Utilising our innovative &quot;Draw-a-Search&quot; technology and the most in-depth information on both individual condos and condo buildings in Toronto, we provide the most comprehensive database of searchable condos for sale in Toronto, as well as condos for rent.</p>
-<p style="font-size:0.8em;">If you're looking for information such as condo floor size, condo building price trends, building information and mortgage affordability on a huge range of condos in Toronto, Condos.ca is the place to look.</p>
-</noscript></div>
+    
+</script></div>
 </div>
 </div>
   </div>
@@ -275,38 +191,18 @@
   <div id="global_footer">
     <div class="layout_page_footer">
 <div class="generic_layout_container layout_main">
-<div class="generic_layout_container layout_core_html_block">
-<div id="footer-logo"><a href="/"><img src="application/themes/condo/images/footer_logo.png" border="0" alt=""></a></div></div>
-
-<div class="generic_layout_container layout_core_menu_generic">
-<ul class="footer-head">
-    <li>
-        <a class="menu_custom_10 custom_119" href="condominium/listing/search/for/sale">For Sale</a>
-    </li>
-    <li>
-        <a class="menu_custom_10 custom_120" href="condominium/listing/search/for/rent">For Rent</a>
-    </li>
-    <li>
-        <a class="menu_custom_10 custom_121" href="pages/calculate">Calculators</a>
-    </li>
-    <li>
-        <a class="menu_custom_10 custom_122" href="question">Q&amp;A</a>
-    </li>
-</ul></div>
-
-<div class="generic_layout_container layout_condo_menu_footer"><div class="copyright">
-Copyright © 2012 Condos.ca All rights reserved.<br><script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script><g:plusone size="standard" count="true"></g:plusone>
+<div class="generic_layout_container layout_condo_menu_footer_m"><div id="footer-logo">
+    <img src="application/themes/condos/images/footer_logo.png">
 </div>
 <div class="footer-sub">
-  <a href="/info/terms" class="menu_core_footer core_footer_terms">Terms of Use</a>  <a href="/info/privacy" class="menu_core_footer core_footer_privacy">Privacy Policy</a>  <a href="/sitemap" class="menu_core_footer core_footer_sitemap">Site Map</a>  <a href="/info/contact" class="menu_core_footer core_footer_contact">Contact</a>
-    &nbsp;-&nbsp;
-    <form method="post" action="/utility/locale" style="display:inline-block">
-            <select name="language" id="language" onchange="$(this).getParent('form').submit();">
-    <option value="" label=""></option>
-    <option value="en" label="English" selected="selected">English</option>
-</select>      <input type="hidden" name="return" value="/info/privacy" id="return">    </form>
+    <ul class="footer-head"><li><a href="/condominiums">Condo guide</a><span class="footer-menu-separator">&nbsp;/&nbsp;</span></li><li><a href="/info/terms">Terms of Use</a><span class="footer-menu-separator">&nbsp;/&nbsp;</span></li><li><a href="/info/privacy">Privacy Policy</a><span class="footer-menu-separator">&nbsp;/&nbsp;</span></li><li><a href="/sitemap">Site Map</a><span class="footer-menu-separator">&nbsp;/&nbsp;</span></li><li><a href="/info/contact">Contact</a><span class="footer-menu-separator">&nbsp;/&nbsp;</span></li><li><a href="pages/careers">Careers</a></li><li><span class="footer-menu-separator">&nbsp;/&nbsp;</span><a href="question">Q&amp;A</a></li></ul>
+    
+    <div id="copyright">
+Copyright © 2013 Condos.ca All rights reserved.</div>
 </div>
-</div>
+
+
+<div class="clear"></div></div>
 </div>
 </div>
   </div>
