@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vouchercodes.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228172105id_/http%3A//www.vouchercodes.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vouchercodes.com privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525133935id_/http%3A//www.vouchercodes.com/privacypolicy.htm) for the most accurate reproduction.*
 
-# Privacy & Cookies | Voucher Codes | Promotional Codes | Promotional Vouchers | Promotional Coupons | Discount Codes | Discount Vouchers
+# Privacy Policy and Cookies | VoucherCodes.com Policies
 
 VoucherCodes.com is committed to respecting your privacy and protecting any personal data that you may share with us.
 
@@ -11,13 +11,6 @@ VoucherCodes.com contains links to and from third party websites with their own 
 **Personal information**
 
 We may collect and process information that you provide to us by filling in forms on our website including, but not limited to, information provided at the time of registering to receive our newsletters, entering competitions, completing surveys, sharing discount codes, promotional codes, voucher codes and when contacting us. The data collected may include, but is not limited to, first and last name, postal address, telephone number, mobile phone number, email address, date of birth and gender. We use information held about you to:
-
-  * Provide you with information, products or services that we think may be of interest to you or that you request from us;
-  * Ensure the content on our website is presented to you in the most effective way;
-  * Carry out any contractual obligations between you and us;
-  * Notify you about changes to our service.
-
-
 
 We will never disclose your personal information to advertisers, partners or any third party that would enable your identity to be known.
 
@@ -38,13 +31,6 @@ Once we have received your personal data we will use strict security procedures 
 **Disclosure of your information**
 
 Only under the following circumstances may we disclose your personal information:
-
-  * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets;
-  * If VoucherCodes.com, or all or part of its assets, are acquired, in which case personal information held by it about its users will be one of the assets transferred; 
-  * If we are under a duty to disclose or share your personal information in order to comply with any legal obligation or to protect the rights, property or users of VoucherCodes.com, or others; 
-  * Where you agree to the specific terms and conditions of a third party promotion.
-
-
 
 **Your Rights**
 
@@ -105,6 +91,10 @@ You can read more about Google Analytics cookies on their website <https://devel
 We use a service called StatCounter to track live usage of the site in addition to Google Analytics. StatCounter uses cookies to show us which pages are being visited, how visitors have found us and other statistics about how our visitors use the site.
 
 You can read more about StatCounter on their website [ http://statcounter.com/how-it-works](http://statcounter.com/how-it-works)
+
+**Personalisation**
+
+We use a simple cookie to personalise your experience based on whether you have opted in to receive our newsletter or not. This cookie is called 'registered' when set by your browser and has an expiry time of [](http://statcounter.com/how-it-works)2 years from set or update.
 
 **Turning cookies off or blocking them**
 
