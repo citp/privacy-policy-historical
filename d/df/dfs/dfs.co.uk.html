@@ -1,27 +1,51 @@
-<!--The following is the downloaded HTML source of the dfs.co.uk privacy policy that was archived on 2012-11-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121124182906id_/http%3A//www.dfs.co.uk/data-protection) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dfs.co.uk privacy policy that was archived on 2013-05-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130526000428id_/http%3A//www.dfs.co.uk/data-protection) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-GB" class="has-js"><head>
 <meta charset="UTF-8">
 <title>dfs | making everyday more comfortable</title>
-<meta name="viewport" content="width=device-width">
+<!--<meta name="viewport" content="width=device-width" />-->
 <meta name="author" content="Coolpink Ltd. : www.coolpink.net">
 <meta name="description" content="dfs is passionate about sofas and we design them with the most important element in mind, YOU.">
 <base href="http://www.dfs.co.uk/">
 <link rel="shortcut icon" href="favicon.ico">
 <link rel="apple-touch-icon" href="http://www.dfs.co.uk/iphone-icon.png">
-<link rel="stylesheet" href="./framework/css/main.css">
-<link rel="stylesheet" href="./framework/css/main2.css">
-<link rel="stylesheet" href="./campaigns/gxd-2012/css/main.css">
-<link rel="stylesheet" href="./framework/css/print.css" media="print">
+<script type="text/javascript" async="" src="https://static.adinsight.eu/static/scripts/adiTrack.min.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="framework/javascript/libs/jquery-1.7.1.min.js"></script>
+<script type="text/javascript" src="framework/javascript/jquery-ui-1.8.16.min.js"></script>
+<link rel="stylesheet" type="text/css" href="shared/stylesheets/jquery-ui/ui-lightness/jquery-ui-1.7.2.custom.css">
+<script src="framework/javascript/libs/bootstrap.min.js"></script>
+<link rel="stylesheet" href="./framework/css/main.css?x=2013-05-26_01">
+<link rel="stylesheet" href="./framework/css/main2.css?x=2013-05-26_01">
+<link rel="stylesheet" href="./framework/css/main3.css?x=2013-05-26_01">
+<link rel="stylesheet" href="./campaigns/easter-2013/css/main.css?x=2013-05-26_01">
+<link rel="stylesheet" href="./framework/css/print.css?x=2013-05-26_01" media="print">
+<!--[if gte IE 9]>
+<style type="text/css">
+.gradient {
+filter: none;
+}
+</style>
+<![endif]-->
 <!--[if lt IE 7]>
 <link rel="stylesheet" type="text/css" href="framework/css/print-ie6.css" media="print" />
 <![endif]-->
-<script type="text/javascript" async="" src="https://static.adinsight.eu/static/scripts/adiTrack.min.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/framework/javascript/console-log-fix.js"></script>
-<script type="text/javascript" src="//d3c3cq33003psk.cloudfront.net/opentag-49433-156697.js"></script>
-<script type="text/javascript" src="shared/javascripts/libs/jquery-1.6.2.min.js"></script>
-<script type="text/javascript" src="framework/javascript/jquery-ui-1.8.16.min.js"></script>
-<link rel="stylesheet" type="text/css" href="shared/stylesheets/jquery-ui/ui-lightness/jquery-ui-1.7.2.custom.css">
+<script src="/framework/javascript/console-log-fix.js"></script>
+<script type="text/javascript">
+window.universal_variable = {};
+window.universal_variable["version"] = "1.1.1";
+window.universal_variable["basket"] = [];
+window.universal_variable["user"] = [];
+</script>
+<script type="text/javascript">
+if (!window.universal_variable.page)
+{
+window.universal_variable.page = {
+"category": "Content",
+"subcategory": "dfs | making everyday more comfortable"
+}
+}
+</script>
+               <script type="text/javascript" src="//d3c3cq33003psk.cloudfront.net/opentag-49433-156697.js"></script>
 <script type="text/javascript" src="framework/javascript/swfobject.js"></script>
 <script type="text/javascript" src="framework/javascript/auto-complete.js"></script>
 <script type="text/javascript" src="framework/javascript/popups.js"></script>  <script type="text/javascript" src="framework/javascript/page-tracker.js"></script>
@@ -49,14 +73,56 @@ $j = $;
 <script src="/framework/javascript/home.js"></script>
 <script type="text/javascript">
 var _gaq = _gaq || [];
+var pluginUrl = '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+_gaq.push(['_require', 'inpage_linkid', pluginUrl]);
 _gaq.push(['_setAccount', 'UA-9563044-1']);
 _gaq.push(['_trackPageview']);
-_gaq.push(['_trackPageLoadTime']);
 (function() {
 var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
 ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
 var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 })();
+</script>
+<script>
+$(function () {
+var menuresettimeout = null;
+var clearMenuHovers = function () {
+$("#menu .hover, #menu .open").removeClass("hover open");
+}
+$("#menu li").hover(
+function () {
+var $this = $(this).find("a").first();
+if (menuresettimeout) {
+clearTimeout(menuresettimeout);
+menuresettimeout = null;
+}
+clearMenuHovers();
+menuresettimeout = setTimeout(clearMenuHovers, 5000);
+$this.addClass("hover").parents("li, a").addClass("hover");
+},
+function () {
+clearMenuHovers();
+if (menuresettimeout) {
+clearTimeout(menuresettimeout);
+menuresettimeout = null;
+}
+}
+).find("a.dropdown").click(function (event) {
+if ($("html").hasClass("touch")) {
+var $this = $(this);
+var isiPad = navigator.userAgent.match(/iPad/i) != null;
+if (!isiPad && !$this.hasClass("open") && $this.parents(".subnav").length === 0) {
+event.preventDefault();
+//clearMenuHovers();
+$this.addClass("open").parents("li, a").addClass("hover");
+menuresettimeout = setTimeout(clearMenuHovers, 5000);
+event.stopImmediatePropagation();
+event.stopPropagation();
+return false;
+}
+}
+});
+});
 </script>
 <script type="text/javascript">
 //<![CDATA[
@@ -89,8 +155,7 @@ ie6_pngbg_fix(
 <ul class="favourites-opts">
 <li class="first"><i class="favourites_icon"></i>My Favourites:</li>
 <li><a class="login" href="./users/login/">Login</a> / <a class="register" href="./users/register/">Register</a></li>
-<li><a href="./faqs/">FAQs</a></li>
-<li class="last"><a href="./contact-us/">Contact Us</a></li>
+<li class="last"><a href="./contact-us/">FAQs &amp; Contact Us</a></li>
 </ul>
 </li>
 <li class="domain-switcher">
@@ -163,47 +228,70 @@ Save time - Order direct
 </div>
 </div>
 <div id="menu" class="express wide with-express with-dining">
-<ul class="no-colour">
-<li class="sale">
-<a title="sale" href="http://www.dfs.co.uk/sofas/offers/" onclick="_gaq.push(['_trackEvent', 'Top Navigation Clicks', 'Sale', window.location.pathname]);"><span>Offers</span></a>
-</li>
-<li class="express">
-<a title="Christmas delivery" href="http://www.dfs.co.uk/sofas/express-delivery/" onclick="_gaq.push(['_trackEvent', 'Top Navigation Clicks', 'Christmas Delivery', window.location.pathname]);">
-<span>Christmas delivery</span>
-</a>
+<ul>
+<li class="sale designerschoice">
+<a title="Offers" href="http://www.dfs.co.uk/sofas/offers/" onclick="_gaq.push(['_trackEvent', 'Top Navigation Clicks', 'Sale', window.location.pathname]);"><span>Offers</span></a>
 </li>
 <li class="leather">
 <a title="Leather sofas" href="http://www.dfs.co.uk/sofas/leather-sofas/" onclick="_gaq.push(['_trackEvent', 'Top Navigation Clicks', 'Leather Sofas', window.location.pathname]);">
-<span>leather<br>sofas</span>
+<span>leather sofas</span>
 </a>
 </li>
 <li class="fabric">
 <a title="Fabric sofas" href="http://www.dfs.co.uk/sofas/fabric-sofas/" onclick="_gaq.push(['_trackEvent', 'Top Navigation Clicks', 'Fabric Sofas', window.location.pathname]);">
-<span>fabric<br>sofas</span>
+<span>fabric sofas</span>
 </a>
 </li>
 <li class="corner-sofas">
 <a title="Corner sofas" href="http://www.dfs.co.uk/sofas/corner-sofas/" onclick="_gaq.push(['_trackEvent', 'Top Navigation Clicks', 'Corner Sofas', window.location.pathname]);">
-<span>corner<br>sofas</span>
+<span>corner sofas</span>
 </a>
 </li>
 <li class="sofabed">
 <a title="Sofa beds" href="http://www.dfs.co.uk/sofas/sofa-beds/" onclick="_gaq.push(['_trackEvent', 'Top Navigation Clicks', 'Sofa Beds', window.location.pathname]);">
-<span>sofa<br>beds</span>
+<span>sofa beds</span>
 </a>
 </li>
 <li class="recliners">
 <a title="Recliner sofas" href="http://www.dfs.co.uk/sofas/recliner-sofas/" onclick="_gaq.push(['_trackEvent', 'Top Navigation Clicks', 'Recliner Sofas', window.location.pathname]);">
-<span>recliner<br>sofas</span>
+<span>recliner sofas</span>
 </a>
 </li>
 <li class="dining">
-<a title="Dining and Dining Furniture" href="http://www.dfs.co.uk/dining-and-dining-furniture/" onclick="_gaq.push(['_trackEvent', 'Top Navigation Clicks', 'Dining Furniture', window.location.pathname]);"><span><span class="hide_this">dining and </span>dining<br>furniture</span></a>
+<a title="Dining and Dining Furniture" href="http://www.dfs.co.uk/dining-and-dining-furniture/" onclick="_gaq.push(['_trackEvent', 'Top Navigation Clicks', 'Dining Furniture', window.location.pathname]);">
+<span><span class="hide_this">dining and </span>dining furniture</span>
+</a>
 </li>
-<li class="bedroom-furniture"><a title="Bedroom Furniture" href="http://www.dfs.co.uk/beds/" onclick="_gaq.push(['_trackEvent', 'Top Navigation Clicks', 'Bedroom Furniture', window.location.pathname])"><span>bedroom<br>furniture</span></a></li>
-<li class="at-home">
-<a href="dfs-at-home/" onclick="_gaq.push(['_trackEvent', 'Top Navigation Clicks', 'DFS at Home', window.location.pathname]);"><span>DFS<br>at home</span></a>
+<li class="bedroom-furniture">
+<a title="Bedroom Furniture" href="http://www.dfs.co.uk/beds/" onclick="_gaq.push(['_trackEvent', 'Top Navigation Clicks', 'Bedroom Furniture', window.location.pathname])" class="dropdown">
+<span>beds &amp;<br>bedroom</span>
+</a>
 <ul class="subnav">
+<li class="beds-bedframes">
+<a title="beds &amp; bedframes" href="http://www.dfs.co.uk/sofas/beds/#beds" onclick="_gaq.push(['_trackEvent', 'Top Navigation Clicks', 'Beds and Bedframes', window.location.pathname]);">
+<span>beds &amp; bedframes</span>
+</a>
+</li>
+<li class="mattresses">
+<a title="mattresses" href="http://www.dfs.co.uk/sofas/beds/#mattresses" onclick="_gaq.push(['_trackEvent', 'Top Navigation Clicks', 'Mattresses', window.location.pathname]);">
+<span>mattresses</span>
+</a>
+</li>
+<li class="headboards">
+<a title="headboards" href="http://www.dfs.co.uk/sofas/beds/#headboards" onclick="_gaq.push(['_trackEvent', 'Top Navigation Clicks', 'Headboards', window.location.pathname]);">
+<span>headboards</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="at-home">
+<a href="dfs-at-home/" class="dropdown" onclick="_gaq.push(['_trackEvent', 'Top Navigation Clicks', 'DFS at Home', window.location.pathname]);"><span>DFS<br>at home</span></a>
+<ul class="subnav">
+<li class="garden-conservatory">
+<a title="Garden &amp; Conservatory" href="http://www.dfs.co.uk/sofas/garden-conservatory/" onclick="_gaq.push(['_trackEvent', 'Top Navigation Clicks', 'Garden &amp; Conservatory', window.location.pathname]);">
+<span>garden &amp; conservatory</span>
+</a>
+</li>
 <li class="chairs">
 <a title="Chairs" href="http://www.dfs.co.uk/sofas/chairs/" onclick="_gaq.push(['_trackEvent', 'Top Navigation Clicks', 'Chairs', window.location.pathname]);">
 <span>chairs</span>
@@ -215,27 +303,34 @@ Save time - Order direct
 </a>
 </li>
 <li class="beds">
-<a title="Beds, mattresses &amp; bedframes" href="http://www.dfs.co.uk/sofas/beds/" onclick="_gaq.push(['_trackEvent', 'Top Navigation Clicks', 'Beds, mattresses &amp; bedframes', window.location.pathname]);"><span>beds, mattresses &amp; bedframes</span></a>
+<a title="Beds, headboards &amp; bedframes" href="http://www.dfs.co.uk/sofas/beds/" onclick="_gaq.push(['_trackEvent', 'Top Navigation Clicks', 'Beds, headboards &amp; bedframes', window.location.pathname]);"><span>beds, headboards &amp; bedframes</span></a>
+</li>
+<li class="mattresses">
+<a title="Mattresses" href="http://www.dfs.co.uk/sofas/beds/#mattresses" onclick="_gaq.push(['_trackEvent', 'Top Navigation Clicks', 'Mattresses', window.location.pathname]);"><span>mattresses</span></a>
+</li>
+<li class="rugs">
+<a title="Rugs" href="http://www.dfs.co.uk/sofas/rugs" onclick="_gaq.push(['_trackEvent', 'Top Navigation Clicks', 'Rugs', window.location.pathname]);"><span>rugs</span></a>
 </li>
 <li class="occasional-tables">
 <a title="Coffee &amp; occasional tables" href="http://www.dfs.co.uk/sofas/occasional-tables/" onclick="_gaq.push(['_trackEvent', 'Top Navigation Clicks', 'Occasional Tables', window.location.pathname]);">
 <span>coffee &amp; occasional tables</span>
 </a>
 </li>
-<li class="garden-conservatory">
-<a title="Garden &amp; Conservatory" href="http://www.dfs.co.uk/sofas/garden-conservatory/" onclick="_gaq.push(['_trackEvent', 'Top Navigation Clicks', 'Garden &amp; Conservatory', window.location.pathname]);">
-<span>garden &amp; conservatory</span>
-</a>
-</li>
 </ul>
 </li>
 <li class="exclusive-brands">
-<a href="/exclusive-brands/" onclick="_gaq.push(['_trackEvent', 'Top Navigation Clicks', 'Exclusive Brands', window.location.pathname]);"><span>exclusive<br>brands</span></a>
+<a href="/exclusive-brands/" class="dropdown " onclick="_gaq.push(['_trackEvent', 'Top Navigation Clicks', 'Exclusive Brands', window.location.pathname]);"><span>exclusive brands</span></a>
 <ul class="subnav">
 <li><a href="capsule-collection/" title="Capsule Collection" onclick="_gaq.push(['_trackEvent', 'Top Navigation Clicks', 'Capsule Collection', window.location.pathname]);"><span>Capsule Collection</span></a></li>
 <li><a href="countryliving/" title="Country Living" onclick="_gaq.push(['_trackEvent', 'Top Navigation Clicks', 'Country Living', window.location.pathname]);"><span>Country Living</span></a></li>
 <li><a href="housebeautiful/" title="House Beautiful" onclick="_gaq.push(['_trackEvent', 'Top Navigation Clicks', 'House Beautiful', window.location.pathname]);"><span>House Beautiful</span></a></li>
+<li><a href="frenchconnection/" title="French Connection" onclick="_gaq.push(['_trackEvent', 'Top Navigation Clicks', 'French Connection', window.location.pathname]);"><span>French Connection</span></a></li>
 </ul>
+</li>
+<li class="express">
+<a title="Express delivery" href="http://www.dfs.co.uk/sofas/express-delivery/" onclick="_gaq.push(['_trackEvent', 'Top Navigation Clicks', 'Express Delivery', window.location.pathname]);">
+<span>express delivery</span>
+</a>
 </li>
 </ul>
 </div>
@@ -249,6 +344,7 @@ Save time - Order direct
 <li><a href="cookies/">Cookies</a></li>
 <li><a href="leather-protection/">Leather Protection</a></li>
 <li><a href="fabric-protection/">Fabric Protection</a></li>
+<li><a href="furniture-care/">Furniture Care</a></li>
 </ul>
 <div id="terms-availability">
 <p>DFS terms and conditions are available in large print, Braille or audio format.</p>
@@ -257,7 +353,7 @@ Save time - Order direct
 </div>
 <div id="free-credit-pos">
 <a href="free-credit/">
-<img src="framework/images/landing/pods/uk_ifc_pod_tncs_4yrs.jpg" alt="Take 4 years interest free credit | NO DEPOSIT | NO INTEREST | 0% APR REPRESENTATIVE">
+<img src="campaigns/easter-2013/images/landing/pods/uk_ifc_pod_tncs_4yrs.jpg" alt="Take 4 years interest free credit | NO DEPOSIT | NO INTEREST | 0% APR REPRESENTATIVE">
 </a>
 </div>
 </div><div class="narrow">
@@ -403,10 +499,7 @@ Cufon.replace('#submenu h1');
 Cufon.now();
 </script>
 </div>
-<div id="gu-footer">
-<div class="arthur-christmas">
-<img src="campaigns/gxd-2012/images/footer/arthur-christmas-out-now.jpg" alt="Arthur Christmas" width="960" height="114">
-</div>
+<div id="gu-footer" class="no-border">
 <div id="recently-viewed-products">
 </div>
 <script type="text/javascript" src="framework/javascript/jquery.flexslider.min.js"></script>
@@ -448,7 +541,9 @@ _gaq.push(['_trackEvent', 'Recently Viewed', 'Product Click', $(this).children('
 </div>
 </div>
 <div class="pod last">
-<div class="title order-direct">Save time - Order direct</div>
+<div class="title order-direct">
+Save time - Order direct
+</div>
 <div class="inner floats">
 <div class="left">
 <p>Call our <span class="pink">UK-based</span> call centre free, lines open <span class="pink">24 hours</span> a day <strong class="adinsightNumber491">0800 110 5000</strong></p>
@@ -466,7 +561,6 @@ _gaq.push(['_trackEvent', 'Recently Viewed', 'Product Click', $(this).children('
 <ul>
 <li class="first">Our ranges</li>
 <li><a href="sofas/offers/">Offers</a></li>
-<li><a href="sofas/express-delivery/">Christmas delivery</a></li>
 <li><a href="sofas/leather-sofas/">Leather sofas</a></li>
 <li><a href="sofas/fabric-sofas/">Fabric sofas</a></li>
 <li><a href="sofas/corner-sofas/">Corner sofas</a></li>
@@ -475,34 +569,40 @@ _gaq.push(['_trackEvent', 'Recently Viewed', 'Product Click', $(this).children('
 <li><a href="sofas/chairs/">Chairs</a></li>
 <li><a href="dfs-at-home/">DFS at home</a></li>
 <li><a href="sofas/garden-conservatory/">Garden &amp; conservatory</a></li>
-<li><a href="sofas/beds/">Beds, mattresses &amp; bedframes</a></li>
+<li><a href="sofas/beds/">Beds, headboards &amp; bedframes</a></li>
+<li><a href="sofas/beds/#mattresses">Mattresses</a></li>
+<li><a href="sofas/rugs">Rugs</a></li>
 <li><a href="dining-furniture/">Dining furniture</a></li>
 <li><a href="sofas/occasional-tables/">Coffee &amp; occasional tables</a></li>
 <li><a href="/exclusive-brands/">Exclusive brands at DFS</a></li>
 <li><a href="countryliving/">Country Living</a></li>
 <li><a href="housebeautiful/">House Beautiful</a></li>
-<li class="last"><a href="capsule-collection/">Capsule Collection</a></li>
+<li><a href="capsule-collection/">Capsule Collection</a></li>
+<li><a href="frenchconnection/">French Connection</a></li>
+<li class="last"><a href="sofas/express-delivery/">Express delivery</a></li>
 </ul>
 <ul>
 <li class="first">About us</li>
-<li><a href="making-everyday-more-comfortable/">Making everyday more comfortable</a></li>
-<li><a href="meet-the-designers/">Meet the designers</a></li>
+<li><a href="designers/">Designers' Choice</a></li>
+<li><a href="inspirational-room-designs/">Inspirational room designs</a></li>
+<li><a href="thismorning/">This Morning</a></li>      <li><a href="making-everyday-more-comfortable/">Making everyday more comfortable</a></li>
 <li><a href="helen-and-dfs/">Why I love DFS</a></li>
-<li><a href="tv-advertisements/">DFS TV channel</a></li>      <li><a href="brochure/" onclick="_gaq.push(['_trackPageview', '/podtrack-november/view-sales-brochure']);" id="view-sales-brochure-footer">Latest brochure</a></li>
+<li><a href="refresh-your-space/">Refresh your space</a></li>
+<li><a href="handmade/">Handmade</a></li>
+<li><a href="meet-the-designers/">Meet the designers</a></li>
+<li><a href="tv-advertisements/">DFS TV channel</a></li>      <li><a href="brochure/" onclick="_gaq.push(['_trackPageview', '/podtrack-may/view-sales-brochure']);" id="view-sales-brochure-footer">Latest brochure</a></li>
 <li><a href="community-partnerships/">Community partnerships</a></li>
 <li><a href="my-sofa-story/">A sofa story</a></li>
-<li><a href="testimonials/" title="Testimonials">Testimonials</a></li>
-<li class="last"><a href="/prizedraw/" title="Prize draw">Prize draw</a></li>
+<li class="last"><a href="testimonials/" title="Customer Testimonials">Customer testimonials</a></li>
 </ul>
 <ul>
 <li class="first">Need help?</li>
-<li><a href="contact-us/">Contact us</a></li>
+<li><a href="contact-us/">FAQs &amp; contact us</a></li>
 <li><a href="store-directory/">Store directory</a></li>
 <li><a href="./how-to-buy/" onclick="toggle_popup('footer');return false;">Order direct</a></li>
 <li><a href="find-a-store/">Find your nearest store</a></li>
-<li><a href="faqs/">FAQs</a></li>
 <li><a href="free-credit/">4 years free credit</a></li>
-<li class="last"><a href="/livechat/">Live Chat</a></li>
+<li class="last"><a href="/livechat/">Live chat</a></li>
 </ul>
 <ul class="last">
 <li class="first">Careers</li>
@@ -536,7 +636,7 @@ _gaq.push(['_trackEvent', 'Recently Viewed', 'Product Click', $(this).children('
 <li class="yyaf last"><a href="/community-partnerships/yorkshire-young-achievers-foundation/"><span>Yorkshire Young Achievers Foundation</span></a></li>
 </ul>
 <div class="blurb dfs active">
-<p>DFS is proud to be associated with the Yorkshire Achievers Foundation in 2012 and also supporting The Duke of Edinburgh's Award as its Patron, Prince Philip, celebrates his 91st birthday year.</p>
+<p>DFS is proud to be associated with the Yorkshire Achievers Foundation in 2013 and also supporting The Duke of Edinburgh's Award as its Patron, Prince Philip, celebrates his 91st birthday year.</p>
 <p><a class="fom" href="/community-partnerships/">Find out about our community partnerships</a></p>
 </div>
 </div>
@@ -546,7 +646,7 @@ _gaq.push(['_trackEvent', 'Recently Viewed', 'Product Click', $(this).children('
 <a class="bordered" href="cookies/">Cookies</a>
 <a class="bordered" href="site-index/">Site Index</a>
 <a class="bordered" href="investor-relations/">Investor Relations</a>  <a class="bordered" href="demos/">Demos</a>
-<div class="bordered">© DFS 2012</div>
+<div class="bordered">© DFS 2013</div>
 </div>
 <!--<p>&copy; DFS 2009</p>-->
 </div>	</div>
@@ -561,23 +661,7 @@ var s = document.getElementsByTagName("script")[0];
 s.parentNode.insertBefore(adiSrc, s);
 })();
 </script>
-<script type="text/javascript">
-var v24ClientInitialise = (function() {
-var original_v24init = function () {};
-if (window.v24ClientInitialise) {
-original_v24init = window.v24ClientInitialise;
-}
-return function () {
-original_v24init();
-vee24.events.logUserSaysYesToAutoNudge = function() {
-if (window.Opentag_DFS_Vee24_logUserSaysYesToAutoNudge)
-{
-Opentag_DFS_Vee24_logUserSaysYesToAutoNudge();
-}
-}
-}
-})();
-</script>
+<script type="text/javascript" src="framework/javascript/vee24.js"></script>
 <script type="text/javascript" src="http://static.vee24.com/v24/veedesk/v24Embedded.js"></script>
 <script type="text/javascript">
 //<![CDATA[
@@ -597,4 +681,5 @@ catch(err) { /* doesn't exist? */ }
 //]]>
 </script>
 
+<!-- 2013-05-26 01:00:00 -->
 </body></html>
