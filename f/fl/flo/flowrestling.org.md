@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flowrestling.org privacy policy that was archived on 2012-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121008032345id_/http%3A//www.flowrestling.org/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flowrestling.org privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526000034id_/http%3A//www.flowrestling.org/site/privacy) for the most accurate reproduction.*
 
 # Flowrestling - Privacy Site | Flowrestling
 
@@ -9,5 +9,9 @@ These companies may use aggregated information (not including your name, address
 <http://www.networkadvertising.org/managing/opt_out.asp>
 
 Third Party Links: We offer affiliate links on our site. We are in no way responsible for the content of these websites. Please be sure to read their Privacy Policies and terms of use for information regarding those particular sites.
+
+##  **Children**
+
+If you are under 13 years of age, please do not access Flowrestling. Flowrestling is not intended for children under 13, and we will not knowingly collect any information from any children under the age of 13. If we discover that we have collected any personally-identifying information from a child under the age of 13, we will promptly remove that information from our database.
 
 Flocasts Management
