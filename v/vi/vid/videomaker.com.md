@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videomaker.com privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031024900id_/http%3A//www.videomaker.com/about-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videomaker.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526001806id_/http%3A//www.videomaker.com/about-us/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Videomaker.com
 
@@ -23,5 +23,3 @@ Webmaster
  **Videomaker Magazine**  
 PO Box 4591  
 Chico, CA 95927 
-
-© 2012 Videomaker, Inc. All rights reserved.
