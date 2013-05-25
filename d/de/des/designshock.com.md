@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the designshock.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225232108id_/http%3A//designshock.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designshock.com privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525171030id_/http%3A//www.designshock.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **Unsubscribe from our mailings**
 
-If you no longer want to receive emails from our newsletter please follow this [link](http://iconshock.com/phplist/?p=unsubscribe). 
+If you no longer want to receive emails from our newsletter please follow this [link](http://www.designshock.com/lists/?p=unsubscribe). 
 
 **What information do we collect?**
 
