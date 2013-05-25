@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boomerangtv.co.uk privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511054854id_/http%3A//www.boomerangtv.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boomerangtv.co.uk privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525144751id_/http%3A//www.boomerangtv.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Boomerang
 
@@ -8,7 +8,7 @@ Thank you for visiting [www.BoomerangTV.co.uk](http://www.boomerangtv.co.uk/ "ww
 
 At some of our sites, you can order products, enter contests, vote in polls or otherwise express an opinion, or subscribe to one of our services such as our online newsletters, or participate in one of our online forums or communities. The types of information that may be collected at these pages include: your name, e-mail address, postal address, and telephone/mobile number, your gender and date of birth. We request these details in order to provide the service or product to you (i.e. despatch prizes, send goodies via email, post, fax or phone), to respond to any queries you may have, to ensure we request and receive the correct consent from you or your parents, and to understand customer trends and patterns.
 
-We may also use the information you provide to send you details via email, post, fax, SMS or phone of our products and services and the products and services of other companies we think are suitable and may be of interest to you and by submitting your details, you are consenting to such use. However, you always have the opportunity to remove your consent to such use by sending an email to [toonprivacy_uk@turner.com](mailto:toonprivacy_uk@turner.com) with your request.
+We may also use the information you provide to send you details via email, post, fax, SMS or phone of our products and services and the products and services of other companies we think are suitable and may be of interest to you and by submitting your details, you are consenting to such use. However, you always have the opportunity to remove your consent to such use by sending an email to [privacy.uk@turner.com](mailto:privacy.uk@turner.com) with your request.
 
 We may on occasion combine information we receive online with other records to enhance our ability to notify you of our products and services that we think will be of interest to you. If you do not want to receive these notifications please send an e-mail to [toonprivacy_uk@turner.com](mailto:toonprivacy_uk@turner.com) letting us know.
 
@@ -48,11 +48,11 @@ We may use a reputable third party to present or serve the advertisements that y
 
 Although absolute security cannot be guaranteed on the Internet, please be assured that we have in place security measures to protect the confidentiality of your information. We will continue to maintain and improve these measures over time in line with legal and technological developments.
 
-You can contact us at any time at [toonprivacy_uk@turner.com](mailto:toonprivacy_uk@turner.com) to see the personal information we have collected through this site which relates to you, and in some cases, your children, and to ask us to make any necessary changes to correct or update your information. To protect your privacy and security we will take reasonable steps to verify your identity before granting access.
+You can contact us at any time at [privacy.uk@turner.com](mailto:privacy.uk@turner.com) to see the personal information we have collected through this site which relates to you, and in some cases, your children, and to ask us to make any necessary changes to correct or update your information. To protect your privacy and security we will take reasonable steps to verify your identity before granting access.
 
 If we decide to change this Privacy Policy, the changes will be posted on this page so that you are always aware of the information we collect, how we use it and under what circumstances we disclose it. We will not use or disclose personal information provided to us in ways unrelated to the ones described above without informing you and providing you with an opportunity to opt-out of these unrelated uses.
 
-If you have any questions or comments about this Privacy Policy please feel free to contact us at [privacy@CartoonNetwork.co.uk](mailto:privacy@CartoonNetwork.co.uk).
+If you have any questions or comments about this Privacy Policy please feel free to contact us at [privacy.uk@turner.com](mailto:privacy.uk@turner.com).
 
 **PARENTAL GUIDANCE**
 
@@ -65,4 +65,4 @@ London
 W1F 7HS  
 England  
 (registered office: Turner House, 16 Great Marlborough Street, London, W1F 7HS)  
-[toonprivacy_uk@turner.com](mailto:toonprivacy_uk@turner.com)
+[privacy.uk@turner.com](mailto:privacy.uk@turner.com)
