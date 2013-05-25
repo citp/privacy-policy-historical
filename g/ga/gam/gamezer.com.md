@@ -1,21 +1,18 @@
-> *The following text is extracted and transformed from the gamezer.com privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108145727id_/http%3A//www.gamezer.com/legal/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamezer.com privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525062932id_/http%3A//gamezconnect.com/en/legal/privacy) for the most accurate reproduction.*
 
-# Online Multiplayer Games | Privacy Policy
+# GameZConnect | Privacy Policy
 
-  
-**Privacy Policy**  
-Last Revised September 8, 2006 
+Privacy Policy  
+Last Revised September 24, 2012 
 
-In addition to reviewing this privacy policy, please read our User Agreement. Your use of www.gamezer.com ("Website") constitutes agreement to its terms and conditions.   
-This Website is produced by GameZer ("Service Provider"). This policy does not cover information collected on sites linked to from the Website.   
+In addition to reviewing this privacy policy, please read our User Agreement. Your use of www.gamezconnect.com ("Website") constitutes agreement to its terms and conditions.   
+This Website is produced by Gamezconnect ("Service Provider"). This policy does not cover information collected on sites linked to from the Website.   
 This Privacy Policy may be modified from time to time; the date of the most recent revisions will appear on this page, so check back often. Continued access of the Website by you will constitute your acceptance of any changes or revisions to the Privacy Policy. 
 
 KIDS AND PARENTS 
 
 This Website is not intended for use by children under age 13\. No one under age 13 is allowed to provide any personal information or use our public discussion areas, games, forums and chats. Minors between the ages of 13 and 17 must get the permission of their parent(s) or legal guardian(s) before making purchases, including subscriptions, on this site.   
-If your children disclose information about themselves in publicly accessible areas of the Website, they may get unsolicited messages from other parties. Accordingly, you should tell them not to do so.   
-If you're worried about your children's activities or their privacy on our site, we encourage you to e-mail our Privacy Policy Coordinator at gamezer @ gamezer.com.   
-If you have other concerns or questions about any aspect of this policy, you may also e-mail our Privacy Policy Coordinator. We welcome your feedback. You can also send us regular mail at the following address: 
+If your children disclose information about themselves in publicly accessible areas of the Website, they may get unsolicited messages from other parties. Accordingly, you should tell them not to do so. 
 
 THE TYPE OF INFORMATION THE WEBSITE COLLECTS 
 
@@ -25,7 +22,7 @@ HOW THE WEBSITE USES INFORMATION PROVIDED BY YOU
 
 Service Provider uses information you supply through the Website to provide you with the service you have requested. For example, if you subscribe to any of our publications, we may use your e-mail address to send you a confirmation notice and your mailing address to send you the publication. Similarly, if you enter an online sweepstakes, we will use this information to notify you if you are a winner. We may also use the information to communicate with you about new features, products or services, or to improve the services that we offer by tailoring them to your needs. 
 
-Service Provider does not sell our users' e-mail addresses. However, unless otherwise specified, we may share e-mail addresses and sell or share all other information with our affiliates and with carefully selected companies who we think can offer you services and products of interest to you. If you do not wish to have your information shared, write to us at gamezer @ gamezer.com. If you've registered on any part of the Website, we may provide an online method to change or update your member preferences or information on the website, or you can send us an e-mail with your revised preferences or information to gamezer @ gamezer.com. 
+Service Provider does not sell our users' e-mail addresses. However, unless otherwise specified, we may share e-mail addresses and sell or share all other information with our affiliates and with carefully selected companies who we think can offer you services and products of interest to you. 
 
 We also allow access to our database by third parties that provide us with services, such as technical maintenance or forums and job search software, but only for the purpose of and to the extent necessary to provide those services. And if you choose to purchase items through features on our site, we may forward your information to third parties for services such as credit card processing and order fulfillment. There are also times when you provide information about yourself to us in areas of the site that are managed or participated in by third parties, such as our auction services or shopping areas. In such cases, the information may be used by us and by such third party(ies), each pursuant to its own policies. We may also provide your information to our advertisers, so that they can serve ads to you that meet your needs or match your interests. While Service Provider will seek to require such third parties to follow appropriate privacy policies and will not authorize them to use this information except for the express purpose for which it is provided, Service Provider does not bear any responsibility for any actions or policies of third parties. There may also be occasion when we are legally required to provide access to our database in order to cooperate with police investigations or other legal proceedings. In those instances, the information is provided only for that purpose. 
 
