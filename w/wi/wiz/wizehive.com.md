@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the wizehive.com privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124220024id_/http%3A//www.wizehive.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wizehive.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526011100id_/http%3A//www.wizehive.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy - WizeHive
+# WizeHive - Enterprise Collaboration, Business Process and Workflow
 
 Your privacy is important to WizeHive. This privacy statement provides information about the personal information that we collect, and the ways in which we use that personal information. It applies to your use of various websites you may visit where we run promotions or similar activities (together with associated and successor websites and services, the “Site'). We reserve the right to change this Policy from time to time and will notify you of any changes via email or on our web site. 
 
-## Information Collected
+##### Information Collected
 
 We may collect personal information for those who enter, vote or otherwise participate in our promotions. Personal information may include your username, your password (we only store an encrypted version of this; not the actual password), one or more email addresses and other contact information. For paying customers we may ask for additional information such as credit card number, billing address and related information.
 
@@ -12,7 +12,7 @@ Like most web-based services, we may automatically collect information that your
 
 Like many websites, we may also use "cookies" to collect information. A cookie is a small data file that we transfer to your computer's hard disk for record-keeping purposes. We may use "persistent cookies" to save your registration ID and login password for future logins to the Site; and we may use "session ID cookies" to enable certain features of the Site, to better understand how you interact with the Site and to monitor aggregate usage and web traffic routing on the Site. You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to use all portions of the Site or all functionality of our services.
 
-## Information Use
+##### Information Use
 
 We use the information collected to enable your access to and use of the website services, to personalize the website for you, or to supply you services that you have asked for. If you are a paying customer we will also use this information to charge your credit card or collect payments from you.
 
@@ -20,7 +20,7 @@ We may also occasionally contact you via email to tell you about web maintenance
 
 We will never disclose data on an individual or identifiable basis to third parties except when we must comply with laws that require such disclosure to law enforcement authorities or other government third party officials such as subpoenas.
 
-## Security
+##### Security
 
 We use industry standard security measures to protect against the loss and misuse of information within our control, as follows:
 
@@ -32,10 +32,10 @@ We use industry standard security measures to protect against the loss and misus
 
 
 
-## Other Websites & Links
+##### Other Websites & Links
 
 At some point there may be links to other websites or services included on the Site. We make no representation or warranties and are not responsible for the privacy policies or practices of any third party.
 
-## Children
+##### Children
 
 Our site is designed to be used by people over 13 years of age. The Children's Online Privacy Protection Act ("COPPA") protects the online privacy of children under 13 years of age. WizeHive does not knowingly collect or maintain personal information from anyone under the age of 13, unless or except as permitted by law. Any person who provides Personal Information through our site represents to us that he or she is 13 years of age or older. If we learn that Personal Information has been collected from a user under 13 years of age , then we will take the appropriate steps to cause this information to be deleted.
