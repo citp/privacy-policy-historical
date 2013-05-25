@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thepondguy.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015150511id_/http%3A//www.thepondguy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thepondguy.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526002438id_/http%3A//www.thepondguy.com/privacy) for the most accurate reproduction.*
 
 # Pond, Lake, & Water Garden Supplies, Pond Algae Control, Pond Dye, Pond Aeration, Pond Liners
 
@@ -46,7 +46,8 @@ The Pond Guy respects the privacy needs and concerns of our customers. It is our
   * We use the information you share with us to improve your shopping experience by allowing us to make our Web site easier and more enjoyable to use. The information you volunteer enables us to process your purchases, confirm your orders, customize the content and layout of our pages, notify you about updates to our site, and provide you with additional information about our products. 
   * The information you supply to us is added to our customer database. We may also send you catalogs or emails to inform you of new products, services and special offers, special promotions or upcoming events for The Pond Guy. 
   * We may also share names, addresses and/or email addresses of our registered Web site guests with other contractors that The Pond Guy may hire to assist us in making improvements to the site. The Pond Guy requires that such companies keep all such information confidential and use it solely for the purpose of making improvements to the site. 
-  * We do occasionally share name and address information with other catalog companies that offer similar products. We will not share any personal financial information. Nor will we share you email address. 
+  * We do occasionally share name and address information with other reputable organizations, such as catalog companies that offer similar products. We will not share any personal financial information. Nor will we share your email address. 
+  * If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by sending an email to us or calling us or writing to us. Also you may receive mailings from other reputable companies. You can, however, have your name put on our do-not-share list by sending an email to us or calling us or writing to us. Please provide us with your exact name and address. We will be sure your name is removed from the list we share with other organizations. 
   * We contract with a third-party service provider to place our advertising messages on other websites. This provider may collect anonymous information about your visits to our website, and your interaction with our products and services. They may also use information about your visits to this and other websites to target advertisements for goods and services. This anonymous information is collected through the use of a pixel tag, which is industry standard technology used by most major websites. No personally identifiable information is collected or used in this process. 
 
 
@@ -68,3 +69,5 @@ Protecting the privacy of the very young is especially important. For that reaso
 You can access all your personally identifiable information that we collect online and maintain this information by [contacting us](https://web.archive.org/storefront#contact-us "Contact The Pond Guy®"). We use this procedure to better safeguard your information.
 
 You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error.
+
+Unauthorized use of this website may give rise to a claim for damages and/or be a criminal offense. Any connection or usage of the site done outside of the parameters of normal use is strictly prohibited-including but not limited to: data scraping, website monitoring, load testing-without the expressed written consent of The Pond Guy.
