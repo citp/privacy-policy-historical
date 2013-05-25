@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rockto.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017143547id_/http%3A//www.rockto.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rockto.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526001807id_/http%3A//www.rockto.com/privacy) for the most accurate reproduction.*
 
 # ROCKTO - Privacy Policy
 
