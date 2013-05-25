@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the madisonseating.com privacy policy that was archived on 2012-05-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120520080545id_/http%3A//www.madisonseating.com/security-and-privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the madisonseating.com privacy policy that was archived on 2013-05-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130525035828id_/http%3A//www.madisonseating.com/security-and-privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
 <title>Security &amp; Privacy at MadisonSeating.com</title>
@@ -21,13 +21,10 @@
 <link href="/skins/basic/customer/styles_ie.css" rel="stylesheet" type="text/css" />
 <![endif]-->
 
-<link href="/skins/basic/customer/addons/buy_together/styles.css" rel="stylesheet" type="text/css">
-<!--[if lte IE 7]>
-<link href="/skins/basic/customer/addons/buy_together/styles_ie.css" rel="stylesheet" type="text/css" />
-<![endif]-->
-<link href="/skins/basic/customer/addons/quick_search/styles.css" rel="stylesheet" type="text/css">
-<link href="/skins/basic/customer/addons/shop_by_features/styles.css" rel="stylesheet" type="text/css">
-<link href="/skins/basic/customer/addons/news_and_emails/styles.css" rel="stylesheet" type="text/css">
+
+<link href="/skins/basic/customer/addons/shop_by_features/styles.css" rel="stylesheet" type="text/css"><link href="/skins/basic/customer/addons/buy_together_new/styles.css" rel="stylesheet" type="text/css">
+<link href="/skins/basic/customer/addons/news_and_emails/styles.css" rel="stylesheet" type="text/css"><link href="/skins/basic/customer/addons/easy_scroll_pagination/styles.css" rel="stylesheet" type="text/css">
+
 <link href="/skins/basic/customer/addons/discussion/styles.css" rel="stylesheet" type="text/css">
 <link href="/skins/basic/customer/addons/hot_deals_block/styles.css" rel="stylesheet" type="text/css"><link href="/skins/basic/customer/addons/my_changes/icons/favicon.ico" rel="shortcut icon">
 <link href="/skins/basic/customer/addons/my_changes/css/custom.css" rel="stylesheet" type="text/css">
@@ -103,7 +100,7 @@ var currencies = {
 };
 
 var default_editor = 'ckeditor';
-var default_previewer = 'prettyphoto';
+var default_previewer = 'fancybox';
 
 var cart_language = 'EN';
 var images_dir = '/skins/basic/customer/images';
@@ -142,14 +139,63 @@ $(document).ready(function(){
 <![endif]-->
 
 
-<script type="text/javascript" src="/var/cache/addons/buy_together/js/func.js"></script>
+<script type="text/javascript" src="/var/cache/addons/buy_together_new/js/func.js"></script>
 
 <script type="text/javascript">
 //<![CDATA[
-	lang['buy_together_fill_the_mandatory_fields'] = '_buy_together_fill_the_mandatory_fields';
+	lang['buy_together_new_fill_the_mandatory_fields'] = 'Please specify product options before adding this product combination to the cart.';
+//]]>
+</script>	
+<script type="text/javascript">
+//<![CDATA[
+	Searchanise = {};
+	Searchanise.host = 'http://www.searchanise.com';
+	Searchanise.api_key = '0o9P8v9M3h';
+
+	Searchanise.AutoCmpParams = {};
+	Searchanise.AutoCmpParams.restrictBy = {};
+	Searchanise.AutoCmpParams.restrictBy.status = 'A';
+	Searchanise.AutoCmpParams.restrictBy.empty_categories = 'N';
+	Searchanise.AutoCmpParams.restrictBy.usergroup_ids = '0|1';
+	Searchanise.AutoCmpParams.restrictBy.category_usergroup_ids = '0|1';
+	Searchanise.options = {};
+	Searchanise.options.LabelSuggestions = 'Popular suggestions';
+	Searchanise.options.LabelProducts = 'Products';
+	Searchanise.options.PriceFormat = {rate : 1.00000, decimals: 2, decimals_separator: '.', thousands_separator: ',', symbol: '$', after: false};
+	Searchanise.SearchInput = '#snize-input';
+
+	(function() {
+		var __se = document.createElement('script');
+		__se.src = 'http://www.searchanise.com/widgets/v1.0/init.js';
+		__se.setAttribute('async', 'true');
+		document.documentElement.firstChild.appendChild(__se);
+	})();
+//]]>
+</script><script src="http://www.searchanise.com/widgets/v1.0/init.js" async="true"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+	$(document).ready(function() {
+		jQuery.get('http://www.madisonseating.com/index.php?dispatch=searchanise.async&no_session=Y');
+	});
 //]]>
 </script>
-<script type="text/javascript" src="/var/cache/addons/quick_search/js/func.js"></script><script src="https://ssl.google-analytics.com/ga.js" async="true"></script></head>
+
+<script type="text/javascript" src="/var/cache/addons/easy_scroll_pagination/js/func.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+
+	req_page = 1;
+	lang.price = 'Price';
+	lang.product = 'Product';
+	lang.watch_more = 'View more';
+	var	num_watch_more = 3;
+	var	flag_watch_more = "N";
+	var	up_everywhere = "Y";
+
+//]]>
+</script><script src="https://ssl.google-analytics.com/ga.js" async="true"></script></head>
 
 <body>
 <div class="helper-container">
@@ -164,7 +210,7 @@ $(document).ready(function(){
 
 <div id="header" class="clearfix">
 	
-	<p class="quick-links"><a href="/">Home</a><a href="my-account.html">My Account</a><a href="about-madison-seating.html">About</a><a href="contact-us.html">Contact Us</a>
+	<p class="quick-links"><a href="/">Home</a><a href="my-account.html">My Account</a><a href="about-madison-seating.html">About</a><a href="contact-us.html">Contact Us</a><a style="color:#FFFF99" href="http://blog.madisonseating.com">Blog</a>
 	</p>
 		
 	<div class="logo-image"><a href="/"><img src="/skins/basic/customer/images/madison-seating-logo.png" width="347" height="47" border="0" alt="Madison Seating"></a>
@@ -181,23 +227,11 @@ $(document).ready(function(){
 <input type="hidden" name="pname" value="Y">
 <input type="hidden" name="pkeywords" value="Y">
 <input type="hidden" name="search_performed" value="Y">
-
-	<div class="qsearch-result border cm-popup-box" id="quick_search_result">
-
-	<div class="center">No data found</div>
-
-<p class="right">
-	<a class="extra-link" onclick="$('#quick_search_result').hide();">Close</a>
-</p>
-<!--quick_search_result--></div>
-
-<script type="text/javascript">
-	var qs_min_length = 3
-</script> 
+ 
 
 <span class="search-products-text">Search:</span>
-<input type="text" name="q" value="" onfocus="this.select();" class="search-input"><input type="image" src="/skins/basic/customer/images/icons/go.gif" alt="Search" title="Search" class="go-button"><input type="hidden" name="dispatch" value="products.search"><a href="/index.php?dispatch=products.search" class="search-advanced">Advanced search</a></form></div>
-	
+<input type="hidden" name="cid" value="0"><input type="text" name="q" value="" id="snize-input" autocomplete="off" class="search-input snize-input-style"><input type="image" src="/skins/basic/customer/images/icons/go.gif" alt="Search" title="Search" class="go-button"><input type="hidden" name="dispatch" value="products.search"><a href="/index.php?dispatch=products.search" class="search-advanced">Advanced search</a></form></div>
+	<div class="clearance"><a href="mega-clearance.html"><img src="images/elements/icons/top-clearance.gif" width="119" height="41" alt="Mega Clearance" title="Click to enjoy great savings"></a></div>
 	<div class="float-right" id="sign_io">
 									<a id="sw_login" rel="nofollow" href="/index.php?dispatch=auth.login_form&amp;return_url=index.php%3Fdispatch%3Dpages.view%26page_id%3D4">Sign in</a>
 			or
@@ -261,6 +295,10 @@ $(document).ready(function(){
 		<li class="h-sep">&nbsp;</li>
 			<li>
 		<a href="/chairs/chruch.html">Church Chairs</a>
+			</li>
+		<li class="h-sep">&nbsp;</li>
+			<li>
+		<a href="/chairs/work-stools.html">Work Stools</a>
 			</li>
 		<li class="h-sep">&nbsp;</li>
 			<li>
@@ -368,6 +406,10 @@ $(document).ready(function(){
 			</li>
 		<li class="h-sep">&nbsp;</li>
 			<li>
+		<a href="/living-room-furniture/fireplaces.html">Fireplaces</a>
+			</li>
+		<li class="h-sep">&nbsp;</li>
+			<li>
 		<a href="/office-and-home-furniture/bookshelves.html">Bookshelves</a>
 			</li>
 		<li class="h-sep">&nbsp;</li>
@@ -383,6 +425,10 @@ $(document).ready(function(){
 <ul>
 			<li>
 		<a href="/sofas/sofa-collections-and-sets.html">Collections &amp; Sets</a>
+			</li>
+		<li class="h-sep">&nbsp;</li>
+			<li>
+		<a href="/sofas/sectional-sofas.html">Sectional Sofas</a>
 			</li>
 		<li class="h-sep">&nbsp;</li>
 			<li>
@@ -423,10 +469,6 @@ $(document).ready(function(){
 		<li class="h-sep">&nbsp;</li>
 			<li>
 		<a href="/sofas/lounge-chairs.html">Lounge Chairs</a>
-			</li>
-		<li class="h-sep">&nbsp;</li>
-			<li>
-		<a href="/sofas/daily-deals-on-sofas.html">Daily Deals on Sofas</a>
 			</li>
 		</ul>
 </li><li class="first-level "><span><a href="/dining-room-furniture.html">Dining Room</a></span>
@@ -572,7 +614,7 @@ $(document).ready(function(){
 			</li>
 		<li class="h-sep">&nbsp;</li>
 			<li>
-		<a href="/bedroom-furniture/vanitys.html">Vanitys &amp; Benches</a>
+		<a href="/bedroom-furniture/vanities.html">Vanities and Benches</a>
 			</li>
 		<li class="h-sep">&nbsp;</li>
 			<li>
@@ -594,135 +636,19 @@ $(document).ready(function(){
 			<li>
 		<a href="/office-and-home-furniture/bookshelves.html">Bookshelves</a>
 			</li>
-		</ul>
-</li><li class="first-level "><span><a href="childrens-furniture.html">Childrens</a></span>
-<ul class="dropdown-vertical-rtl">
-			<li>
-		<a href="/childrens-furniture/kids-tables-and-chairs.html">Tables and Chairs</a>
-			</li>
 		<li class="h-sep">&nbsp;</li>
 			<li>
-		<a href="/childrens-furniture/kids-storage-furniture.html">Storage &amp; Chests</a>
-			</li>
-		<li class="h-sep">&nbsp;</li>
-			<li class="dir">
-		<a href="/childrens-furniture/kids-bedroom-furniture.html">Bedroom</a>
-					
-<ul class="dropdown-vertical-rtl">
-			<li>
-		<a href="/childrens-furniture/kids-bedroom-furniture/vanitys-and-step-stools.html">Vanitys &amp; Step Stools</a>
-			</li>
-		<li class="h-sep">&nbsp;</li>
-			<li class="dir">
-		<a href="/childrens-furniture/kids-bedroom-furniture/kids-beds.html">Beds</a>
-					
-<ul class="dropdown-vertical-rtl">
-			<li>
-		<a href="/childrens-furniture/kids-bedroom-furniture/kids-beds/novelty-beds.html">Novelty Beds</a>
-			</li>
-		<li class="h-sep">&nbsp;</li>
-			<li>
-		<a href="/childrens-furniture/kids-bedroom-furniture/kids-beds/twin-beds.html">Twin Beds</a>
-			</li>
-		<li class="h-sep">&nbsp;</li>
-			<li>
-		<a href="/childrens-furniture/kids-bedroom-furniture/kids-beds/bunk-beds.html">Bunk Beds</a>
-			</li>
-		<li class="h-sep">&nbsp;</li>
-			<li>
-		<a href="/childrens-furniture/kids-bedroom-furniture/kids-beds/loft-beds.html">Loft Beds</a>
-			</li>
-		</ul>
-			</li>
-		<li class="h-sep">&nbsp;</li>
-			<li>
-		<a href="/childrens-furniture/kids-bedroom-furniture/kids-bedroom-sets.html">Bedroom Sets</a>
-			</li>
-		<li class="h-sep">&nbsp;</li>
-			<li>
-		<a href="/office-and-home-furniture/bookshelves.html">Bookshelves</a>
-			</li>
-		</ul>
-			</li>
-		<li class="h-sep">&nbsp;</li>
-			<li>
-		<a href="/childrens-furniture/kids-furniture-accessories.html">Accessories</a>
-			</li>
-		<li class="h-sep">&nbsp;</li>
-			<li>
-		<a href="/childrens-furniture/kids-toys.html">Toys</a>
-			</li>
-		<li class="h-sep">&nbsp;</li>
-			<li>
-		<a href="/childrens-furniture/kids-study-furniture.html">Kids Study</a>
-			</li>
-		<li class="h-sep">&nbsp;</li>
-			<li>
-		<a href="/childrens-furniture/baby-cribs.html">Cribs &amp; Changing Tables</a>
+		<a href="/childrens-furniture.html">Kids Furniture</a>
 			</li>
 		</ul>
 </li><li class="first-level "><span><a href="/lighting.html">Lighting</a></span>
 <ul class="dropdown-vertical-rtl">
-			<li class="dir">
-		<a href="/lighting/indoor-lighting.html">Indoor Lighting</a>
-					
-<ul class="dropdown-vertical-rtl">
-			<li class="dir">
-		<a href="/lighting/indoor-lighting/ceiling-lights.html">Ceiling Lights</a>
-					
-<ul class="dropdown-vertical-rtl">
 			<li>
-		<a href="/lighting/indoor-lighting/ceiling-lights/chandeliers-and-pendents.html">Chandeliers &amp; Pendents</a>
+		<a href="/lighting/lamps.html">Lamps</a>
 			</li>
 		<li class="h-sep">&nbsp;</li>
 			<li>
-		<a href="/lighting/indoor-lighting/ceiling-lights/small-pendents.html">Small Pendents</a>
-			</li>
-		<li class="h-sep">&nbsp;</li>
-			<li>
-		<a href="/lighting/indoor-lighting/ceiling-lights/flush-and-recessed-lighting.html">Flush &amp; Recessed Lighting</a>
-			</li>
-		<li class="h-sep">&nbsp;</li>
-			<li>
-		<a href="/lighting/indoor-lighting/ceiling-lights/ceiling-fan-lights.html">Ceiling Fan Lights</a>
-			</li>
-		<li class="h-sep">&nbsp;</li>
-			<li>
-		<a href="/lighting/indoor-lighting/ceiling-lights/track-and-island-lighting.html">Track &amp; Island Lighting</a>
-			</li>
-		<li class="h-sep">&nbsp;</li>
-			<li>
-		<a href="/lighting/indoor-lighting/ceiling-lights/directional-spot-lights.html">Directional Spot Lights</a>
-			</li>
-		<li class="h-sep">&nbsp;</li>
-			<li>
-		<a href="/lighting/indoor-lighting/ceiling-lights/foyer-lights.html">Foyer Lights</a>
-			</li>
-		</ul>
-			</li>
-		<li class="h-sep">&nbsp;</li>
-			<li class="dir">
-		<a href="/lighting/indoor-lighting/lamps.html">Lamps</a>
-					
-<ul class="dropdown-vertical-rtl">
-			<li>
-		<a href="/lighting/indoor-lighting/lamps/lamp-sets.html">Lamp Sets</a>
-			</li>
-		<li class="h-sep">&nbsp;</li>
-			<li>
-		<a href="/lighting/indoor-lighting/lamps/table-lamps.html">Table Lamps</a>
-			</li>
-		<li class="h-sep">&nbsp;</li>
-			<li>
-		<a href="/lighting/indoor-lighting/lamps/floor-lamps.html">Floor Lamps</a>
-			</li>
-		</ul>
-			</li>
-		<li class="h-sep">&nbsp;</li>
-			<li>
-		<a href="/lighting/indoor-lighting/lighting-accessories.html">Lighting Accessories</a>
-			</li>
-		</ul>
+		<a href="/lighting/ceiling-lights.html">Ceiling Lights</a>
 			</li>
 		</ul>
 </li></ul>
@@ -732,7 +658,7 @@ $(document).ready(function(){
     
 
    
-	
+
 
 <div id="container" class="container-long">
 	
@@ -793,13 +719,19 @@ $(document).ready(function(){
 	
 
 
+
+
 </div>
 </div>
 				</div>
 			</div>
 		
 						
-									
+						
+
+
+
+			
 					</div>
 	</div>
 	
@@ -818,24 +750,21 @@ $(document).ready(function(){
 <input type="hidden" name="pname" value="Y">
 <input type="hidden" name="pkeywords" value="Y">
 <input type="hidden" name="search_performed" value="Y">
-
  
 
 <span class="search-products-text">Search:</span>
-<input type="text" name="q" value="" onfocus="this.select();" class="search-input"><input type="image" src="/skins/basic/customer/images/icons/go.gif" alt="Search" title="Search" class="go-button"><input type="hidden" name="dispatch" value="products.search"></form></div>
+<input type="hidden" name="cid" value="0"><input type="text" name="q" value="" id="snize-input" autocomplete="off" class="search-input snize-input-style"><input type="image" src="/skins/basic/customer/images/icons/go.gif" alt="Search" title="Search" class="go-button"><input type="hidden" name="dispatch" value="products.search"></form></div>
 <p class="quick-links">
 			<a href="/">Home</a>
+			<a href="http://blog.madisonseating.com">Blog</a>
 			<a href="about-madison-seating.html">About Us</a>
 			<a href="contact-us.html">Contact Us</a>
 			<a href="aeron-chair.html">Aeron Chair</a>
 			<a href="terms-of-use.html"> Terms of Use  </a>
 			<a href="security-and-privacy.html">Security &amp;  Privacy</a>
 	</p>
-<p class="bottom-copyright class">© 2004-2012 MadisonSeating.com. &nbsp;Powered by <a href="http://www.cs-cart.com" target="_blank">All rights reserved on text and illustrations.</a>
+<p class="bottom-copyright class">© 2004-2013 MadisonSeating.com. &nbsp;Powered by <a href="http://www.cs-cart.com" target="_blank">All rights reserved on text and illustrations.</a>
 </p>
-    <p class="bottom-copyright class">
-        <a href="http://www.madisonseating.com/index.php?dispatch=pages.view&amp;page_id=4&amp;mobile_skin=1" rel="nofollow">Mobile Version</a>
-    </p>
 
 
 
@@ -862,7 +791,7 @@ $(document).ready(function(){
 			've[screen_x]': (screen.width || null),
 			've[screen_y]': (screen.height || null),
 			've[color]': (screen.colorDepth || screen.pixelDepth || null),
-			've[time_begin]': 1337501146.08
+			've[time_begin]': 1369454308.37
 		},
 		hidden: true
 	});
@@ -871,7 +800,7 @@ $(document).ready(function(){
 </script>
 
 <noscript>
-<object data="/index.php?dispatch=statistics.collect&amp;ve%5Burl%5D=http%3A%2F%2Fwww.madisonseating.com%2Fsecurity-and-privacy.html&amp;ve%5Btitle%5D=Security+%26+Privacy+at+MadisonSeating.com&amp;ve%5Breferrer%5D=&amp;ve%5Btime_begin%5D=1337501146.08" width="0" height="0"></object>
+<object data="/index.php?dispatch=statistics.collect&amp;ve%5Burl%5D=http%3A%2F%2Fwww.madisonseating.com%2Fsecurity-and-privacy.html&amp;ve%5Btitle%5D=Security+%26+Privacy+at+MadisonSeating.com&amp;ve%5Breferrer%5D=http%3A%2F%2Fwww.madisonseating.com%2F&amp;ve%5Btime_begin%5D=1369454308.37" width="0" height="0"></object>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
@@ -887,20 +816,24 @@ $(document).ready(function(){
 	})();
 //]]>
 </script>
+
+<div id="up_button">
+	<span>Up</span>
+</div>
 <div class="footer clearfix">
 	<div class="column a">
         <p>
                             <a href="/">Home</a>
+                            <a href="http://blog.madisonseating.com">Blog</a>
                             <a href="about-madison-seating.html">About Us</a>
                             <a href="contact-us.html">Contact Us</a>
                             <a href="aeron-chair.html">Aeron Chair</a>
                             <a href="terms-of-use.html"> Terms of Use  </a>
                             <a href="security-and-privacy.html">Security &amp;  Privacy</a>
                     </p>
-        <p>Copyright © 2005-2012 MadisonSeating.com.  All rights reserved on text and illustrations.</p>
+        <p>Copyright © 2005-2013 MadisonSeating.com.  All rights reserved on text and illustrations.</p>
         <p><a href="http://www.innovationdesignworks.com" style="color: rgb(164, 164, 164); text-decoration: none;">Website Design by Innovation Designworks</a></p>
-					<p><a href="http://www.madisonseating.com/index.php?dispatch=pages.view&amp;page_id=4&amp;mobile_skin=1" rel="nofollow">Mobile Version</a></p>
-			</div>
+	</div>
     
     <div class="column b">
         <p>
