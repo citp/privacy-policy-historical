@@ -1,47 +1,96 @@
-> *The following text is extracted and transformed from the shareholder.com privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219133720id_/http%3A//www.shareholder.com/home/Company/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shareholder.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526002423id_/http%3A//www.nasdaqomx.com/Privacy_Statement) for the most accurate reproduction.*
 
-# Shareholder.com |
+# Privacy Statement
 
-Shareholder.com takes your privacy seriously. This privacy statement describes the personal information we collect, how we use that information, and what we do to protect that information.
+Effective Date: 04/21/2006
 
-This privacy policy covers the following web sites: [www.shareholder.com](http://www.shareholder.com/), [www.bestcalls.com](http://www.bestcalls.com/), [www.opencompany.info](http://www.opencompany.info/), and [www.openchannel.info](http://www.openchannel.info/). All other web sites operated by Shareholder.com are subject to their individual privacy policies. Shareholder.com hosts web sites for numerous clients, some of or which are hosted under the www.shareholder.com domain. Each client web site is subject to its own privacy policy as posted on that site rather than this Shareholder.com policy.
+  
+This Privacy Statement describes how your personal information is collected, used, shared, and safeguarded by NASDAQOMX.
 
-**Personal Information We Collect**  
-The sites covered by this policy collect personal information that you voluntarily provide to us. Examples of personal information collected include name, company name, job title, address, telephone number, and any other information we may wish to collect as part of our investor tracking services. In addition, we collect your Internet Protocol (IP) address, browser type, and the date and time that you accessed the web site.
+#### Information Collection & Use
 
-**Use of Cookies and Web Beacons**  
-The sites covered by this policy may use cookies to facilitate use of the site. A cookie is a small file that is stored on your hard drive that allows our web servers to recognize your computer. The cookies that we send you are accessible only by our web servers.
+### Uses of Information
 
-Cookies are used to personalize your experience on our sites, assist with authentication for password protected portions of sites, and collect information about how people are using our sites and how our site is performing. 
+NASDAQOMX uses the personally identifiable information you provide us to communicate with you in response to your inquiries, to provide the services you request, and to manage your account. Any personally identifiable information gathered by NASDAQOMX will be used for internal purposes only. We will not disclose or divulge such data outside of NASDAQOMX.
 
-You may select to disable cookies by changing the settings of your web browser. However, if you choose to disable cookies, it is possible that parts of our web site may not function properly. See your browser's documentation for more information on how to disable cookies.
+####   
+Communications from the Site
 
-The sites covered by this policy may use electronic images known as web beacons. Web beacons are used to collect information about how people are using a web site. We do not accept third-party web beacons on our sites. 
+### Special Offers and Updates
 
-**Email Communications**  
-From time to time we may communicate with you by email if you have chosen to provide us with your email address. All emails are sent on an opt-in basis and you may opt-out at any time by following the instructions at the bottom each email communication. Some of our emails may include web beacons so that we may determine if our emails have been read.
+We may occasionally send you information on NASDAQOMX products or services.
 
-**Uses of Personal Information**  
-Shareholder.com uses the personal information collected on our sites to provide the services and carry out the transactions that you have requested and to enhance our sales and marketing efforts.
+Out of respect for your privacy, we present the option not to receive these types of communications. Please see the “Choice and Opt-out."
 
-Shareholder.com does not share the personal information collected on our sites with third parties except in two cases: (1) you have used one or our sites to register for an event, or (2) you request information from one of our clients. In such cases, the personal information will be shared only with the organization to which your request pertains. In addition, in the event that Shareholder.com sells (whether by asset sale, stock sale, merger or otherwise) all or substantially all of the business to which any of its sites relates, the personal information will be shared with the acquirer of such business.
+### Customer Service
 
-Shareholder.com may disclose personal information if required to do so by law, if we believe in good faith that it is necessary to comply with a legal process served on Shareholder.com; or in urgent circumstances to protect the personal safety of Shareholder.com employees, Shareholder.com clients, or members of the public.
+Based upon the personally identifiable information you provide us, we may send you a welcoming email to verify your username and password. We will also communicate with you in response to your inquiries, to provide the services you request, and to manage your account. We will communicate with you by email or telephone, in accordance with your wishes.
 
-**Access to Personal Information**  
-Access to all personal information is limited to Shareholder.com employees who need to access that information to fulfill the duties of their job, and to our clients to whom the information pertains if you have used one of our web sites to request information from, or register for, the events of that client.
+### Profile
 
-**Security of Personal Information**  
-Shareholder.com is committed to protecting the security of your personal information. We follow industry best practices to maintain the security of your data including limiting physical access to our computers systems, using network security devices such as firewalls and intrusion protection systems, conducting regular security audits of our computer systems, and regularly training our personnel on security and privacy.
+We store information that we collect through cookies, log files, clear gifs, to create a “profile" of your preferences. On some web sites we will link your personally identifiable information to your web site actions, to information in the profile, in order to provide a more accurate understanding of the web sites usage.
 
-Shareholder.com sites are neither designed for the use of children nor marketed to children. Therefore we do not knowingly collect personal information from children.
+####   
+Information Sharing and Disclosure
 
-**Contact Information**  
-If you have any questions or comments about this policy, you can [contact us electronically](https://web.archive.org/home/company/contactus.cfm) or via postal mail at the following address: 
+### Aggregate Information (non-personally identifiable)
 
-> Shareholder.com  
->  Attn: Privacy  
->  12 Clock Tower Place  
->  Suite 300  
->  Maynard, MA 01754  
-> U.S.A. 
+NASDAQOMX does not share aggregated demographic information with our partners and advertisers, in ways that directly identify you.
+
+####   
+Personally Identifiable Information
+
+### Legal Disclaimer
+
+We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site
+
+### Choice/Opt-Out
+
+If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by emailing us at the appropriate contact associated with each web site found in the contact section of this privacy statement below.
+
+You will be notified when your personal information is collected by any third party that is not our agent/service provider, so you can make an informed choice as to whether or not to share your information with that party.
+
+### Log Files
+
+As is true of most Web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.
+
+We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole.
+
+On certain websites we do link this automatically-collected data to personally identifiable information. IP addresses are tied to personally identifiable information to help identify individual web site usage.
+
+### Cookies
+
+A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. NASDAQOMX uses cookies on some of our websites. We do not link the information we store in cookies to any personally identifiable information you submit while on our site.
+
+We use both session ID cookies and/or persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close you browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser’s “help" file.
+
+Some cookies contain the email address provided by you when completing an email profile for that site. This information is used to populate an email address box with your email address. Where appropriate some sites generate disclaimer/notice cookies to confirm that you have read and agreed to its terms of use. In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site.
+
+This privacy statement covers the use of cookies by all NASDAQOMX web sites and does not cover the use of cookies by any advertisers. [See the “Third Party advertising " section.]
+
+### Clear Gifs (Web Beacons/Web Bugs/ Embedded Pixels)
+
+In an effort to provide users with the most relevant Web site content, we may also use embedded pixel technologies to help track site usage, these technologies are used on selected pages for the purposes of identifying unique user visits as opposed to aggregate hits. The site usage information collected by these technologies is associated with cookies and may provide data about site use by registered users of NASDAQ OMX Web sites. This information is used to evaluate site content, navigability and composition as well as page response rates. Any data linking the information gathered by clear gifs to a user's personally identifiable information is used for internal tracking purposes only. We will not disclose or divulge such data linkages outside of NASDAQOMX. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. To learn more about our advertising company’s use of clear gifs, please go to http://www.omniture.com/
+
+### Links to Other Sites
+
+This Web site contains links to other sites that are not owned or controlled by NASDAQOMX. NASDAQOMX is not responsible for the privacy practices of non-NASDAQOMX web sites linked to a NASDAQOMX site. We encourage you to read the privacy statements of other linked web sites when you leave our Web site. This privacy statement applies only to information collected by this Web site.
+
+### Access to Personally Identifiable Information
+
+If your personally identifiable information changes, or if you no longer desire our service, you may update or deactivate it by contacting us at the contact information listed below.
+
+### Security
+
+NASDAQOMX takes reasonable precautions to protect your personal information. The security of your personal information is important to us. When you enter sensitive information (such as credit card number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL).
+
+We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+
+### Changes in this Privacy Statement
+
+If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
+
+### Contact Us
+
+If you have any questions or suggestions regarding our privacy policy, please [contact us](http://www.nasdaqomx.com/contactus/ "contact us").  
+ 
