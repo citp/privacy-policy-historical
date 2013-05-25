@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coriscouponcorner.com privacy policy that was archived on 2012-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121202063650id_/http%3A//www.coriscouponcorner.com/disclosure) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coriscouponcorner.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526000813id_/http%3A//www.coriscouponcorner.com/disclosure) for the most accurate reproduction.*
 
 # Disclosure/Privacy Policy - Coupon Corner Cori
 
@@ -37,3 +37,5 @@ Note that you can change your browser settings to disable cookies if you have pr
 
 Special Note About Google Advertising  
 Any advertisements served by Google, Inc., and affiliated companies may be controlled using cookies. These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. Learn how to [opt out of Google’s cookie usage](http://www.google.com/privacy_ads.html). As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Google’s own privacy policies.
+
+[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.coriscouponcorner.com%2Fdisclosure%2F&media=&description=Disclosure%2FPrivacy%20Policy)
