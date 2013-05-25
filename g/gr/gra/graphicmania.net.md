@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the graphicmania.net privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125014651id_/http%3A//www.graphicmania.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the graphicmania.net privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526002449id_/http%3A//www.graphicmania.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Design tutorials, vector packs, and photography ideas - Graphic Mania
 
 Your privacy is critically important to us. At Graphic Mania ( http://www.graphicmania.net ) we have a few fundamental principles:
 
