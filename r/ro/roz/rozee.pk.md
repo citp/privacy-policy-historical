@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the rozee.pk privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127080056id_/http%3A//www.rozee.pk/rozeedocs/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rozee.pk privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525045054id_/http%3A//www.rozee.pk/rozeedocs/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy Policy - Jobs in Pakistan, Careers in Pakistan, Employment, Careers | ROZEE.PK
+# Privacy Policy - Jobs in Pakistan, Careers in Pakistan, Jobs, Employment, Careers | ROZEE.PK
 
 | 
 
 _Effective Date: 10/20/2008 ROZEE.PK is a licensee of the TRUSTe Web Privacy Seal Program. TRUSTe is an independent organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site www.rozee.pk. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
-If you have questions or concerns regarding this statement, you should first contact us at support@ROZEE.PK. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at http://www.truste.org/consumers/watchdog_complaint.php TRUSTe will then serve as a liaison with us to resolve your concerns.
+If you have questions or concerns regarding this statement, you should first contact us at support@ROZEE.PKsatisfactorily addressed, you should contact TRUSTe at http://www.truste.org/consumers/watchdog_complaint.php TRUSTe will then serve as a liaison with us to resolve your concerns.
 
 _  
 ---  
@@ -24,7 +24,7 @@ We also gather information about our users' use of ROZEE.PK, such as what areas 
 
 If you choose to use our referral service to tell a friend about ROZEE.PK or refer a job posting to a friend, we will ask you for your friend's email address. We will automatically send your friend a one-time email inviting him or her to visit the ROZEE.PK website or view the job posting. This information is used for no other purpose than to send out this one time email. We provide you two options to allow you to refer your friends to our site. When you choose to access your email account from your ROZEE.PK account, and send your personal contacts an email, we only use the email information you select by checking the box next to each email to service your request to send this one time email from your account. 
 
-We do not store any email information from your email account without your explicit consent. You can also enter a friend's email directly into the "Invite Colleagues" email field. We do not store this information nor is it shared with any third parties for their promotional purposes.  
+We do not store any email information from your email account without your explicit consent. You can also enter a friend's email directly into the 'Invite Colleagues' email field. We do not store this information nor is it shared with any third parties for their promotional purposes.  
   
    
 **Our Use of Your Information**  
@@ -51,8 +51,9 @@ Since ROZEE.PK is a career site, we give you two options regarding the accessibi
 
 We attempt to limit access to our searchable resume database (or copies thereof) only to registered employers, recruiters, hiring managers, headhunters, and human resource professionals.
 
-You may remove your resume on ROZEE.PK or delete your profile on ROZEE.PK at anytime, but, employers, recruiters and others who have access to ROZEE.PK resume database as well as parties who have otherwise gained access may have retained a copy of your resume in their own files or databases. We are not responsible for the retention, use or privacy of resumes or profiles in these instances.  
-  
+You may remove your resume on ROZEE.PK or delete your profile on ROZEE.PK at anytime, but, employers, recruiters and others who have access to 
+
+resume database as well as parties who have otherwise gained access may have retained a copy of your resume in their own files or databases. We are not responsible for the retention, use or privacy of resumes or profiles in these instances.  
    
 **Posting to Public Areas of ROZEE.PK**  
 Please remember that if you post any of your personal information in public areas of ROZEE.PK such as the searchable resume database, such information may be collected and used by others over whom we have no control. We are not responsible for the use made by third parties of information you post or otherwise make available in public areas of ROZEE.PK.  
@@ -66,7 +67,7 @@ You may have the ability to accept or decline cookies. Most Web browsers automat
   
    
 **Modification of Your Information**  
-You may review, correct, update or change your ROZEE.PK account profile at any time on your "My Settings" page or by emailing our webmaster at "support@rozee.pk" or by calling customer support at +92-42-5777630. These points of contact also allow you to edit your subscription to our newsletters and promotional emails.
+You may review, correct, update or change your ROZEE.PK account profile at any time on your 'My Settings' page or by emailing our webmaster at 'support@rozee.pk' or by calling customer support at +92-42-5777630. These points of contact also allow you to edit your subscription to our newsletters and promotional emails.
 
 If you opted to receive job postings, commercial e-mails or other communications from ROZEE.PK or third parties at the time you created a ROZEE.PK account, but subsequently change your mind, you may opt-out by editing your ROZEE.PK Account Profile as described above. If you previously opted not to receive such communications, you may later opt-in by editing your ROZEE.PK Account Profile as well.
 
@@ -92,6 +93,6 @@ If at any time, you have questions or concerns about this Privacy Policy or beli
 ROZEE.PK is the name under which Naseeb Networks, Inc., a Silicon Valley corporation with its principal place of business at 1299 Del Mar Avenue, Suite 260 , San Jose , CA 95128 and certain of its affiliated companies worldwide, do business. [Naseeb Networks, Inc](http://www.naseebnetworks.com/). is the legal entity which determines the purposes and means of processing the information gathered at www.rozee.pk. You can also contact us at support@rozee.pk.  
    
 **Refund Policy**  
-All sales are final. Refunds are solely at the discretion of ROZEE.PK. For further details email refunds@rozee.pk
+All sales are final. Refunds are solely at the discretion of ROZEE.PK . For further details email refunds@rozee.pk
 
 Thank you for using ROZEE.PK. 
