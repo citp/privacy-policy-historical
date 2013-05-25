@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forplaycatalog.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004225856id_/http%3A//www.forplaycatalog.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forplaycatalog.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526001824id_/http%3A//www.forplaycatalog.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Sexy Costumes, Dresses, Lingerie, Clubwear, Streetwear & More with Forplay Catalog
 
@@ -10,17 +10,15 @@ ForplayCatalog.com gathers navigational information about where you go on our We
 
 **Disclosure of Personal Information**
 
-Any information you provide to us at this site when you establish an account, shop online or request information (i.e. name, address, e-mail address, telephone number and credit card information), is maintained in private files on our secure Web server and our internal systems. This information is used to enable ForplayCatalog.com to deliver services to you. To ensure compliance with federal law, Forplay Catalog does not maintain information provided by children under the age of 18. 
+Any information you provide to us at this site when you establish an account, shop online or request information (i.e. name, address, e-mail address, telephone number and credit card information), is maintained in private files on our secure Web server and our internal systems. This information is used to enable ForplayCatalog.com to deliver services to you. To ensure compliance with federal law, Forplay Catalog does not maintain information provided by children under the age of 18.
 
-If you are visiting ForplayCatalog.com from a location outside of the U.S., your connection will be through and to server located in the U.S. Your orders placed through ForplayCatalog.com will be accepted and fully processed in and shipped from the U.S. and all information you provide will be processed and securely maintained in our Web server and internal systems located within the U.S. 
+Your orders placed through ForplayCatalog.com will be accepted and fully processed in and shipped from the U.S. and all information you provide will be processed and securely maintained in our Web server and internal systems located within the U.S.
 
 You should be aware that we may disclose specific information about you if necessary to do so by law or based on our good faith belief that it is necessary to conform or comply with the law or is necessary to protect the users of our Web site, the site or the public.
 
 Forplay Catalog does not sell or rent your e-mail address to third parties. We may, however, use third parties to help us provide services to you, such as fulfilling orders, processing payments, monitoring site activity, conducting surveys, and administering e-mails, drawings or contests. If personally identifiable information (i.e. name, address, e-mail address, telephone number) is provided to any of these third parties, we will require that such information be maintained by them in strictest confidence.
 
 If you purchase merchandise through ForplayCatalog.com, your name and mailing address will be added to the Forplay Catalog print Catalog mailing list and database.
-
-If you are visiting ForplayCatalog.com through Yahoo!Shopping, information about your visit through the pages within ForplayCatalog.com and your purchasing experience on our site will be accessed by Yahoo!Shopping and we suggest that you review the Yahoo! privacy policy. You may avoid these disclosures to Yahoo!Shopping by entering www.ForplayCatalog.com directly into the address field of your browser.
 
 **Use of Cookies**
 
