@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cambridgesoft.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224072640id_/http%3A//www.cambridgesoft.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cambridgesoft.com privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525162848id_/http%3A//www.cambridgesoft.com/privacy) for the most accurate reproduction.*
 
 # PerkinElmer Informatics Privacy Policy
 
@@ -66,6 +66,6 @@ If you have questions about our handling of personal information, you may write 
 
 ### Corporate Identity
 
-PerkinElmer Informatics is located at 100 CambridgePark Drive, Cambridge MA 02140 USA. 
+PerkinElmer Informatics is located at 940 Winter St., Waltham MA 02451 USA. 
 
 This Privacy Policy is effective as of 15 October 2007.
