@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buzzlol.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014181809id_/http%3A//www.buzzlol.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzzlol.com privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525235642id_/http%3A//www.buzzlol.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Buzz LOL!!!
 
