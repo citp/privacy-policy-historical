@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the best-reviewer.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221093349id_/http%3A//www.best-reviewer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the best-reviewer.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526002239id_/http%3A//www.best-reviewer.com/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY FOR BEST-REVIEWER.COM ON DECEMBER 2012
+# PRIVACY POLICY FOR BEST-REVIEWER.COM ON MAY 2013
 
 **The privacy of our visitors to[www.Best-Reviewer.com](http://www.best-reviewer.com/ "www.Best-Reviewer.com") is important to us.**
 
