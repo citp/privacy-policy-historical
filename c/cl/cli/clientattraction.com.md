@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the clientattraction.com privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031095223id_/http%3A//clientattraction.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clientattraction.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526005416id_/http%3A//www.clientattraction.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Client Attraction Business School
 
 Fabienne and Derek Fredrickson and Client Attraction, LLC take your privacy seriously. Please read the following to learn more about our Privacy Policy.
 
