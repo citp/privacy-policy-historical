@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kpoplyrics.net privacy policy that was archived on 2012-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121008044833id_/http%3A//www.kpoplyrics.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kpoplyrics.net privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526000226id_/http%3A//www.kpoplyrics.net/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | KPop Lyrics
 
@@ -10,7 +10,7 @@ Like many other Web sites, kpoplyrics.net makes use of log files. The informatio
 **Cookies and Web Beacons**  
 kpoplyrics.net does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
-Some of our advertising partners like Google Adsense may use cookies and web beacons on our site.
+Some of our advertising partners like Pixfuture, ToneMedia and ToneFuse may use cookies and web beacons on our site.
 
 These third-party ad servers or ad networks use technology to the advertisements and links that appear on kpoplyrics.net send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
@@ -29,7 +29,7 @@ You can find additional information in Appendix A of the [NAI Self-Regulatory pr
 
 **External Links**
 
-This Web site contains links to other sites. Please be aware that I am not responsible for the privacy practices of such other sites. I encourage my users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
+This Web site contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
 
 **Contact Information**
 
