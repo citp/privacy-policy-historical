@@ -1,41 +1,39 @@
-> *The following text is extracted and transformed from the dawnsign.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531161236id_/http%3A//www.dawnsign.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dawnsign.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526003836id_/http%3A//www.dawnsign.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy: America's leaderin Sign Language Books, DVDs and ASL and Deaf Culture specialist
 
-## **The following policy applies to the DAWNSIGN.COM site.**
+This privacy notice discloses the privacy practices for **DawnSignPress**. This privacy notice applies solely to information collected by this web site. 
 
-DAWNSIGN.COM is committed to protecting the privacy and security of its online visitors. This policy statement provides our visitors with an overview of the measures we have taken to provide a safe online environment. **By visiting DAWNSIGN.COM, you are accepting the practices described in this Privacy Notice.**
+It will notify you of the following:
 
-##  **Personally Identifiable Information**
+  * What personally identifiable information is collected from you through the web site, how it is used and with whom it may be shared.
+  * What choices are available to you regarding the use of your data.
+  * The security procedures in place to protect the misuse of your information.
+  * How you can correct any inaccuracies in the information.
 
-We only collect personally identifiable information from our visitors when our visitors voluntarily submit such information. We consider the following, among other things, to be personally identifiable information: first and last name, email address, street address, and phone number. We may request personally identifiable information in connection with contests, surveys, content submissions, requests for suggestions, and site registration.
 
-##  **For Individuals**
 
-In some areas of our site, we collect personally identifiable information from individuals. We use that information to customize the content on DAWNSIGN.COM for individuals' current and future needs. We also use this personally identifiable information to provide individuals, via email or other means, information about materials, activities, or other things that may be of interest. However, individuals always have the opportunity to unsubscribe from communication via email if they choose to do so.
+### Information Collection, Use, and Sharing 
 
-##  **For Teachers**
+We are the sole owners of the information collected on this site. We only have access to/collect information that you voluntarily give us via email or other direct contact from you. We will not sell or rent this information to anyone. We will use your information to respond to you, regarding the reason you contacted us. We will not share your information with any third party outside of our organization, other than as necessary to fulfill your request, e.g. to ship an order. Unless you ask us not to, we may contact you via email in the future to tell you about specials, new products or services, or changes to this privacy policy.
 
-When teachers register at our site, we use their sign-in information, which contains personally identifiable information, to ensure that the teacher has access to certain areas of the site. We also use personally identifiable information that teachers provide to us to customize the content on DAWNSIGN.COM for teachers' current and future needs. In addition, we use this personally identifiable information to provide teachers, via email or other means, information about materials, activities, or other things that may be of interest. However, teachers always have the opportunity to unsubscribe from communication via email if they choose to do so.
+### Your Access to and Control Over Information 
 
-##  **Non-Personally Identifiable Information and the Use of Cookie Technology**
+You may opt out of any future contacts from us at any time. You can do the following at any time by contacting us via the email address or phone number given on our website:
 
-We collect non-personally identifiable information through the use of a software technology called "cookies" and through our visitors' voluntary submissions to us and/or upon our request. By non-personally identifiable information, we are referring to information about our visitors' browsers, operating systems, Internet Service Providers, and other similar information that we track in aggregate form. The non-personally identifiable information that we track is anonymous and will never be identified with or lead us back to any of our visitors. 
+  * See what data we have about you, if any.
+  * Change/correct any data we have about you.
+  * Have us delete any data we have about you.
+  * Express any concern you have about our use of your data. 
 
-Cookie technology helps us to know how many people visit our site and where visitors go within our site. Cookies are small bits of information we send to your computer. Among other things, this non-personally identifiable information allows us to know which areas are favorites, which areas need improvement, or what technologies and internet services are being used by our visitors so that we may continually improve our visitors' online experience. 
 
-## **Security**
 
-DAWNSIGN.COM ensures that all personally and non-personally identifiable information that it receives via the internet is secure against unauthorized access. This information is kept in a secure system isolated from direct connection to the Internet. This means that no one except DawnSignPress will ever see the information that our visitors send to us, unless we indicate otherwise.
+### Security 
 
-Within the e-commerce portion of our site, individuals and teachers are able to purchase items with the use of a credit card. In such instances, DAWNSIGN.COM uses secure server software over a Secure Socket Layer (SSL) line, the latest technology to protect your credit card information. SSL is the industry standard and among the best software available today for secure commerce transactions. It encrypts all of your credit card information so that the information from your credit card cannot be read as it travels over the internet.
+We take precautions to protect your information. When you submit sensitive information via the website, your information is protected both online and offline.
 
-##  **Links to Other Sites**
+Wherever we collect sensitive information (such as credit card data), that information is encrypted and transmitted to us in a secure way. You can verify this by looking for a closed lock icon at the bottom of your web browser, or looking for "https" at the beginning of the address of the web page.
 
-Visitors may find links from DAWNSIGN.COM to independently owned, controlled, and/or managed World-Wide Web or internet sites whose content we have found of possible interest to our visitors. In many cases, but not always, the links represent cooperative projects or mutual links established with the organizations connected with these sites. While we initially visit sites to which we directly link, please note that we do not monitor or control the content that appears on these sites and such content may be constantly changing. We recommend that children check with their parents or teachers before linking to any new sites and we encourage all end users of DAWNSIGN.COM to read the privacy policies of all linked sites before navigating through them.
+While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment. 
 
-##  **Please Note**
-
-We may revise our above policy as the content on our site continues to change.
-
-DAWNSIGN.COM is owned and operated by DawnSignPress, 6130 Nancy Ridge Drive, San Diego, CA 92121-3223. We can be reached by telephone or TTY at 800-549-5350, VP at (858) 768-0478 or by email at [info@dawnsign.com](mailto:info@dawnsign.com). If you have any questions about our privacy policy or practices, or you wish to amend, update, or verify your personal information, or notify us that you want your information deleted from our files, please contact us.
+If you feel that we are not abiding by this privacy policy, you should [ contact us ](https://web.archive.org/web/20130526003836id_/http%3A//www.dawnsign.com/contact.php)immediately via email.
