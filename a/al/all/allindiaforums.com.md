@@ -1,15 +1,13 @@
-> *The following text is extracted and transformed from the allindiaforums.com privacy policy that was archived on 2012-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120906020655id_/http%3A//allindiaforums.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allindiaforums.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526210950id_/http%3A//likeforums.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy Policy : India Forum
+# Privacy Policy : Free Discussion Forums and Message Board
 
-Hi friend, welcome. This is a FREE Discussion Forum and Message board. You can post questions, messages, replies and anything else... and thousands of people can read and reply. close 
-
-The privacy of our visitors to allindiaforums.com is important to us. At allindiaforums.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit allindiaforums.com, and how we safeguard your information. We never sell your personal information to third parties. allindiaforums.com is committed to maintaining the privacy of personal information that you provide to us when using any of our online services. This Privacy Policy describes how we treat the information we receive when you transmit data through allindiaforums.com . 
+The privacy of our visitors to likeforums.com is important to us. At likeforums.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit likeforums.com, and how we safeguard your information. We never sell your personal information to third parties. likeforums.com is committed to maintaining the privacy of personal information that you provide to us when using any of our online services. This Privacy Policy describes how we treat the information we receive when you transmit data through likeforums.com . 
 
 ### Web Form Information
 
   
-When you submit information to allindiaforums.com to open an account, we may collect personally identifiable information from you that may include your name, email address etc. We do not knowingly collect personal information from persons under the age of eighteen. 
+When you submit information to likeforums.com to open an account, we may collect personally identifiable information from you that may include your name, email address etc. We do not knowingly collect personal information from persons under the age of eighteen. 
 
 ### Web Site Usage Information
 
@@ -23,10 +21,10 @@ We may use information in the following ways:
 
 * To perform the actions for which you specifically provided the information.  
 * To register you as a client and establish an account for you.   
-* To send you email notifications about our new or existing allindiaforums.com products and services, special offers, or to otherwise contact you.  
+* To send you email notifications about our new or existing likeforums.com products and services, special offers, or to otherwise contact you.  
 * To enhance existing features or develop new features, products and services. 
 
-Except as specifically set forth in this Privacy Policy, we will not share your personally identifiable information with any entity outside of allindiaforums.com .   
+Except as specifically set forth in this Privacy Policy, we will not share your personally identifiable information with any entity outside of likeforums.com .   
 We may disclose and use personally identifiable information in special circumstances where it is necessary to enforce our service agreements or terms of use. We may also disclose or use your personal information when we, in good faith, believe that the law may require us to do so. 
 
 ### Security
@@ -42,13 +40,13 @@ As with most other websites, we collect and use the data contained in log files.
 ### Cookies and Web Beacons 
 
   
-1) of limited duration, 2) less than 10KB in length, 3) visible to allindiaforums.com web servers. 
+1) of limited duration, 2) less than 10KB in length, 3) visible to likeforums.com web servers. 
 
-We define a cookie as any string of data that is automatically stored on your computer upon access to our online services. allindiaforums.com employs cookies to assign temporary identification numbers to machines that access our web servers. This information enables us to deliver faster service to our subscribers, prevent denial of service attacks on our systems, 
+We define a cookie as any string of data that is automatically stored on your computer upon access to our online services. likeforums.com employs cookies to assign temporary identification numbers to machines that access our web servers. This information enables us to deliver faster service to our subscribers, prevent denial of service attacks on our systems, 
 
-We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums. allindiaforums.com cookies are devoid of any personally identifiable information. 
+We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums. likeforums.com cookies are devoid of any personally identifiable information. 
 
-We also use third party advertisements on allindiaforums.com to support our site. 
+We also use third party advertisements on likeforums.com to support our site. 
 
 Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program etc... or some affiliate networks like commission junction etc...) information including your IP address, your ISP, the browser you used to visit our site, and in some cases, whether you have Flash installed etc... This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites). 
 
@@ -62,5 +60,5 @@ We may change this Privacy Policy from time to time. We will post any changes he
 ### Comments and Questions.
 
   
-If you have any questions, comments or concerns about our Privacy Policy, you may contact us by submitting your inquiry to our Customer Service department or email to **admin at allindiaforums.com**.   
+If you have any questions, comments or concerns about our Privacy Policy, you may contact us by submitting your inquiry to our Customer Service department or email to **admin at likeforums.com**.   
 
