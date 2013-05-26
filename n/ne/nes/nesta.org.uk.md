@@ -1,98 +1,64 @@
-> *The following text is extracted and transformed from the nesta.org.uk privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522184611id_/http%3A//www.nesta.org.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nesta.org.uk privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526230906id_/http%3A//www.nesta.org.uk/privacy) for the most accurate reproduction.*
 
-# NESTA - Privacy
+# Cookies & Privacy - Nesta
 
-## Privacy and data protection policy
+## Cookies and Privacy policy
 
-To operate efficiently, we must collect information about people, with who we work. These may include members of the public, current, past and prospective employees, funded bodies, and suppliers. We may also be legally required to collect and use information to comply with our statutory obligations.
+**We have updated our Privacy Policy to provide more information about how Nesta uses cookies on our website.**
 
-We are registered with the Information Commissioner to process personal data. We are named as a data controller under the register kept by the Information Commissioner in accordance with section 19 of the Act.
+**Privacy and Cookies Policy**
 
-To respect your privacy, we process your personal data in accordance with the eight data protection principles.
+This website belongs to the Nesta Operating Company ("Nesta"), details below. This privacy policy explains how Nesta uses personal information which we collect via this site.
 
-  1. Personal data shall be processed fairly and lawfully.
-  2. Personal data shall be obtained only for one or more specified and lawful purposes, and shall not be further processed in any manner incompatible with that purpose or those purposes.
-  3. Personal data shall be adequate, relevant and not excessive in relation to the purpose or purposes for which they are processed.
-  4. Personal data shall be accurate and, where necessary, kept up to date.
-  5. Personal data processed for any purpose or purposes shall not be kept for longer than is necessary for that purpose or those purposes.
-  6. Personal data shall be processed in accordance with the rights of data subjects under this Act.
-  7. Appropriate technical and organisational measures shall be taken against unauthorised or unlawful processing of personal data and against accidental loss or destruction of, or damage to, personal data.
-  8. Personal data shall not be transferred to a country or territory outside the European Economic Area unless that country or territory ensures an adequate level of protection for the rights and freedoms of data subjects in relation to the processing of personal data.
+**1\. What kind of information do we collect?**
 
+If you register on this site, we may ask for personal information such as your name, email address and photograph. We may ask you for feedback on our events or to complete surveys for us. We may detail your activity and personal preferences when visiting our sites (see "Cookies", below). If you post content on the site or communicate via the site, we may store and monitor your content and communications.
 
+**2\. What do we do with information we collect?**
 
-  
-The Act refers to the term 'personal data'. For information held by NESTA, this means any recorded information held by us and from which a living individual can be identified. It may include:
+We will use your personal information to:
 
-  * name and job title;
-  * contact information such as telephone numbers, addresses and emails;
-  * age, disability status, ethnicity, gender and nationality;
-  * occupation and company details;
-  * other information relevant to our HR function.
+  * operate this site
+  * if you register with us, to provide you with newsletters and information about us, our partners and our publications, activities and events
+  * carry out analysis and research to improve our sites, events and activities
+  * prevent and detect fraud and abuse of our site and protect other users
 
 
 
-It will include any expression of opinion about a living individual - or any indication of our intentions about that individual.
+Please make sure that any personal details which you give us are accurate and up to date, and let us know about any changes. Please get consent first before giving us information about anyone else.
 
-We may use this information for the following reasons:
+**3\. How to unsubscribe**
 
-  * to carry out our statutory functions;
-  * licensing and registration;
-  * complaints and dispute handling;
-  * investigations;
-  * research;
-  * improving our services;
-  * sending information, which we think may be of interest to you;
-  * staff administration including HR functions;
-  * to pass your details to accountants, consultants and other professionals for obtaining professional advice and complying with our contractual obligations;
-  * complying with our legal obligations.
+If you don't want to receive any more communications from us, please change the preferences on your account or click the unsubscribe link on any email from us.
 
+**4\. Who else has access to your information?**
 
+We may share your information with our partners and with companies who help us to host and operate this site and to organise our events and other activities. Some of these organisations may process your information in countries outside the European Economic Area (EEA), such as the United States, where data protection laws are not the same as in the EEA. If you are not happy for us to transfer your information in this way, please don't access and use our websites.
 
-### Monitoring and recording of communications
+Comments, blogs and other information which you upload may be displayed publicly and to other users. Please be careful when disclosing personal information which may identify you or anyone else. We are not responsible for the protection or security of information which you disclose in public areas.
 
-We may monitor or record any communication between you and NESTA for quality control and training purposes.
+We may disclose your personal information if required by law, or to protect or defend ourselves or others against illegal or harmful activities, or as part of a reorganisation or restructuring of our organisation.
 
-### Security
+**5\. Cookies**
 
-We have appropriate technical and organisational measures to prevent the unauthorised or unlawful processing of your personal information - and accidental loss or destruction of, or damage to, your personal information.
+This site may contain cookies. Cookies are small text files containing small amounts of information which are downloaded to your computer when you visit our site or when you log in. Cookies are useful because they allow our site to recognise your computer. You can find more information about cookies at: [www.aboutcookies.org](http://www.aboutcookies.org/). 
 
-### Cookies
+This site may use cookies that are **[strictly necessary](http://www.bbc.co.uk/privacy/cookies/bbc/strictly-necessary.html) **to enable you to move around the site or to provide certain basic features, such as logging into secure areas. 
 
-Cookies are text files, which identify a user's computer to our server. Cookies don't identify individual users, only the computer used. Our site uses cookies for collecting user information. The information we gather from cookies may be used in the same way as detailed above.
+The site also uses **p** **erformance** cookies which collect information about how you use the site, such as how you are referred to it and how long you stay on certain pages. All this information is aggregated and therefore anonymous and is only used to improve the [performance](http://www.bbc.co.uk/privacy/cookies/bbc/performance.html) of the site. Some of these performance cookies are Google Analytics web cookies. Google have produced a tool to opt out of their cookies which is available here: <https://tools.google.com/dlpage/gaoptout?hl=None> 
 
-### Retention of personal information
+If you don't want to receive cookies, you can modify your browser settings so that it notifies you when cookies are sent to it or you can refuse cookies altogether. You can also delete cookies that have already been set, or restrict or block web browser cookies. The Help function within your browser should tell you how to do this or you can visit for more information. You may lose some features and functionality if you choose to disable cookies.
 
-We will not keep your personal information for longer than is necessary for our purposes.
+**6\. Security**
 
-### Links to other websites
+We take steps to protect your personal information and follow procedures designed to minimise unauthorised access to or disclosure of your information. However, we can't guarantee that we will eliminate all risk of misuse. If you have a password for your account, please keep this safe and don't share it with anyone else. You are responsible for all activity on your account and must contact us immediately if you become aware of any unauthorised use of your password or other security breach. 
 
-Our website contains links to other sites. We aren't responsible for the data protection and privacy practices on any other sites. We encourage you to be aware of this when you leave our site and to read the data protection and privacy statements on other websites you visit, which collect personally identifiable information. This statement applies solely to our website.
+**7\. Contacting us**
 
-### Your rights to access your personal information
+You are legally entitled to know what personal information an organisation holds about you and how that information is processed. If you would like to know what information we currently hold about you, please write to the Head of Legal at Nesta, 1 Plough Place, London EC4A 1DE, UK. We will ask you for proof of identity and may charge a £10 fee.
 
-All requests for information will be processed under the Data Protection Act 1988. You don't need to complete a form, but you'll be asked to provide sufficient information for us to:
+**Nesta Operating Company**
 
-  * identify you and the nature of your request;
-  * ensure we are releasing personal information to the right person.
+Company limited by guarantee registered in England and Wales with company number 7706036 and charity number 1144091. Registered as a charity in Scotland number SC042833.
 
-
-
-A charge of £10.00 will be made for every request. Please send your request to [information@nesta.org.uk](mailto:information@nesta.org.uk)
-
-### Complaints about how we process your personal information
-
-In the first instance, you should contact NESTA. Complaints should be addressed to:
-
-The Compliance Officer  
-NESTA
-
-1 Plough Place  
-London EC4A 1DE
-
-020 7438 2500
-
-[information@nesta.org.uk](mailto:information@nesta.org.uk)
-
-  
-This statement may change from time to time, so please review it regularly.
+Registered office: 1 Plough Place, London EC4A 1DE.
