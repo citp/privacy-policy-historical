@@ -1,0 +1,575 @@
+<!--The following is the downloaded HTML source of the rawfuckclub.com privacy policy that was archived on 2013-05-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130526143831id_/http%3A//www.rawfuckclub.com/vod/RFC/info.php%3Fpage%3Dprivacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+                <link rel="SHORTCUT ICON" href="/vod/RFC/RFC/images/favicon.ico">
+                <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+                <meta http-equiv="X-UA-Compatible" content="IE=8;FF=3;OtherUA=4">
+                <meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
+                <meta http-equiv="PRAGMA" content="NO-CACHE">
+		<meta name="robots" content="noindex">
+
+		<link href="/vod/RFC/RFC/styles.css" rel="stylesheet" type="text/css">
+		<title>Raw Fuck Club</title>
+
+			<style type="text/css">
+		#mainwrapper {
+			background-image: url(/vod/RFC/RFC/images/background-2.png);
+			background-attachment: initial;
+			background-origin: initial;
+			background-clip: initial;
+			background-color: initial;		
+			background-position: 100% 0%;
+			background-repeat: no-repeat;
+		}
+	</style>
+	</head>
+	<body>
+		<script type="text/javascript" src="jquery.js"></script>
+		<div class="wrapper">
+			<script type="text/javascript" src="flash_detect_min.js"></script>
+
+
+
+<script language="javascript" type="text/javascript">
+
+function header_login_click()
+{
+	var video = document.getElementsByTagName('video');
+	
+	if (video.length > 0) { video[0].style.visibility='hidden'; }
+	document.getElementById('login_popup').style.display='block';
+	document.getElementById('black_overlay').style.display='block';
+	document.getElementById('login').style.visibility='hidden';
+
+	document.forms[0].username.focus();
+}
+
+function header_login_close_click()
+{
+	var video = document.getElementsByTagName('video');
+
+	if (video.length > 0) { video[0].style.visibility='visible'; }
+
+	document.getElementById('login_popup').style.display='none';
+	document.getElementById('black_overlay').style.display='none';
+	document.getElementById('login').style.visibility='visible';
+	document.getElementById('loginError').style.visibility='hidden';
+
+	var div_username = document.getElementById('username');
+	var div_password = document.getElementById('password');
+	div_username.value = '';
+	div_password.value = '';
+}
+
+function header_login_login_keypress(field,e)
+{
+	var keycode;
+	if (window.event) keycode = window.event.keyCode;
+	else if (e) keycode = e.which;
+	else return true;
+
+	if (keycode == 13)
+	{
+		header_login_login_click();
+		return false;
+	} else  return true;
+}
+
+function header_login_login_success(response)
+{
+	var div_login_error = document.getElementById('loginError');
+
+	if (response.success) {
+		window.location.reload();
+	} else {
+		div_login_error.innerHTML = 'Invalid user or password.';
+		div_login_error.style.visibility = 'visible';
+	}
+}
+
+function header_ajax_error(data)
+{
+	MessageBox('Transient server error.', 'Transient server error, try again later.', 'OK');
+}
+
+function header_login_login_click()
+{
+	var div_username = document.getElementById('username');
+	var div_password = document.getElementById('password');
+	var div_login_error = document.getElementById('loginError');
+	var data = { username: div_username.value, password: div_password.value };
+
+	div_login_error.style.visibility = 'hidden';
+
+	$.post('ajax_login.php', data).success(header_login_login_success).error(header_ajax_error);
+}
+
+</script>
+
+
+<div id="login_popup">
+	<a href="help.php?page=faq"> <div id="loginpopup_help_button"></div> </a>
+	<a href="javascript:header_login_close_click();"><div id="loginpopup_close_button"></div></a>
+	<h2>Login!</h2>
+	<form id="login_form">
+		<ul>
+			<li>
+				<label for="username">username:</label>
+				<input name="username" id="username" type="text">
+			</li>
+			<li>
+				<label for="password">password:</label>
+				<input name="password" id="password" type="password" value="" onkeypress="return header_login_login_keypress(this,event)">
+			</li>
+			<li>
+				<div class="login_button" onclick="header_login_login_click()"></div>
+				<div id="loginError"></div>
+			</li>
+			<li class="help">
+				<p>
+					For support please contact
+					<a href="mailto:">support@</a>
+				</p>
+			</li>
+		</ul>
+	</form>
+</div>
+
+<div id="black_overlay" onclick="header_login_close_click();"></div>
+
+<script language="javascript" type="text/javascript">
+
+/**
+ * A standardized messaging popup that can be used on the sites like an alert box.
+ * It would automatically resize its height based on length of text message.
+ *
+ *  Usage: MessageBox("Processing your Upgrade","Please wait a moment while your upgrade processes.",process_whatever() );
+ */
+function MessageBox(title, text, button_text, callbackfunction, button2_text, callbackfunction2) {
+    var message_box = document.getElementById('message_box');
+   
+    var div_title = document.getElementById('message_box_title');
+    if (div_title) {
+        div_title.innerHTML = title;
+    }
+   
+    var div_text = document.getElementById('message_box_text');
+    if (div_text) {
+        div_text.innerHTML = text;
+    }
+   
+    var div_button = document.getElementById('message_box_button');
+    if (div_button) {
+        if (button_text) {
+            div_button.innerHTML = button_text;
+            div_button.style.display = 'inline';
+        } else {
+            div_button.style.display = 'none';
+        }
+    }
+	
+	var div_button2 = document.getElementById('message_box_button2');
+	if (div_button2) {
+		if (button2_text) {
+			div_button2.innerHTML = button2_text;
+			div_button2.style.display = 'inline';
+		} else {
+			div_button2.style.display = 'none';
+		}
+	}
+
+   
+    if (typeof(callbackfunction) == 'function') {
+        div_button.onclick = function() {
+            callbackfunction();
+        };
+    } else {
+        div_button.onclick = MessageBoxClose;
+    }
+
+    if (typeof(callbackfunction2) == 'function') {
+        div_button2.onclick = function() {
+            callbackfunction2();
+        };
+    } else {
+        div_button2.onclick = MessageBoxClose;
+    }
+
+    message_box.style.margin = "-" + (message_box.clientHeight/2) + "px 0px 0px -" + (message_box.clientWidth / 2) + "px";
+
+    document.getElementById('message_box_overlay').style.display = 'block';
+    message_box.style.visibility = 'visible';
+}
+
+/**
+ * Closes messaging popup.
+ */
+function MessageBoxClose() {
+    var message_box = document.getElementById('message_box');
+
+    if (!message_box) {
+        return;
+    }
+
+    message_box.style.visibility = 'hidden';
+    document.getElementById('message_box_overlay').style.display = 'none';
+}
+
+</script>
+
+
+<div id="message_box_overlay"></div>
+
+<div id="message_box">
+	<div class="tl"></div><div class="tr"></div>
+	<div class="t"></div><div class="bl"></div>
+	<div class="br"></div><div class="b"></div>
+	<div class="l"></div><div class="r"></div>
+
+	<div id="message_box_content">
+		<h2 id="message_box_title"></h2>
+		<p id="message_box_text"></p>
+
+		<button id="message_box_button" class="message_box_button"></button>
+		<button id="message_box_button2" class="message_box_button"></button>
+	</div>
+</div>
+
+<div id="header">
+	<div id="joinnow" style="visibility: visible;"></div>
+		<div id="slogan"></div>
+	<a href="browse.php"> <div id="brand"></div> </a>
+
+                
+
+		<div id="login" style="visibility: visible;"> <div class="login_main" onclick="header_login_click()"></div> </div>
+
+	<div id="navTab">
+				<div id="tabAbout"><a href="about.php?page=offer"><img src="/vod/RFC/RFC/images/tab-how.png"></a></div>
+					<div id="tabBlog">
+									<a href="about.php?page=blog"></a>
+							</div>
+		
+		<div id="tabJoin"><a href="join.php"><img src="/vod/RFC/RFC/images/tab-join.png"></a></div>		<div id="tabBrowse"><a href="browse.php"><img src="/vod/RFC/RFC/images/tab-videos.png"></a></div>		
+	</div>
+</div>
+
+
+			<div class="wrapper" id="mainwrapper">
+				<div id="navSide">
+										<div class="section" id="sidebar_hidden" style="display: block">
+	<div class="hide"> <h1 id="sidebar_hidden_title"></h1> </div>
+	<div class="sub">
+		<ul class="links" id="sidebar_hidden_links">
+			<li><a href="?page=about">The Company</a></li><li><a href="?page=terms">Terms of Service</a></li><li><a href="?page=2257">2257 Statement</a></li><li><a href="?page=contact">Contact Us</a></li><li><a href="?page=privacy"><b>Privacy Policy</b></a></li><li><a href="?page=copyrights">Copyrights</a></li>		</ul>
+	</div>
+</div>
+
+					
+<div id="black_overlay_seemore" onclick="sidebar_seemore_close()"> </div>
+<div id="seemore_popup" style="display: none">
+	<h1 id="seemore_header"></h1>
+	<a href="javascript:sidebar_seemore_close()">
+		<div id="seemore_popup_close_button"></div>
+	</a>
+	<div id="seemore_popup_links">
+	</div>
+	<div class="seemore_nav_links">
+		<a href="javascript:seemore_nav_next()" id="seemore_nav_next" style="display: block;">Next →</a>
+		<a href="javascript:seemore_nav_prev()" id="seemore_nav_prev" style="display: block;">← Prev</a>
+	</div>
+</div>
+
+<script language="javascript" type="text/javascript">
+
+var seemore_column_count = 4;
+var seemore_column_index = 0;
+
+var seemore_actors = [{"id":"1757","name":"Aandre"},{"id":"4731","name":"Aaron Summer"},{"id":"36","name":"Adam Burr"},{"id":"4753","name":"Adam Gunner"},{"id":"1942","name":"Adrian"},{"id":"51","name":"Aiden Shaw"},{"id":"56","name":"AJ Long"},{"id":"4345","name":"Alejandro Wilde"},{"id":"4381","name":"Alex Wolfe"},{"id":"2643","name":"Amir"},{"id":"87","name":"Andre"},{"id":"88","name":"Andre Barclay"},{"id":"2717","name":"Andrei"},{"id":"4171","name":"Andres"},{"id":"4377","name":"Anton Dickson"},{"id":"108","name":"Antonio"},{"id":"2937","name":"Antonio Biaggi"},{"id":"4667","name":"Antonio C."},{"id":"4591","name":"Austin Dallas"},{"id":"140","name":"Austin Shadow"},{"id":"4398","name":"Bbixby"},{"id":"151","name":"Ben Armstrong"},{"id":"4553","name":"Blake Daniels"},{"id":"4622","name":"Blue Bailey"},{"id":"191","name":"Boyhous"},{"id":"2552","name":"Brandon Hawk"},{"id":"2557","name":"Buster Sly"},{"id":"4637","name":"Caleb Ramble"},{"id":"2165","name":"Calvin"},{"id":"3306","name":"Chad Brock"},{"id":"1636","name":"Chad Manning"},{"id":"1643","name":"Champ Robinson"},{"id":"292","name":"Charly"},{"id":"4616","name":"Chase Coxxx"},{"id":"1642","name":"Chase Roberts"},{"id":"2940","name":"Chris Anderson"},{"id":"320","name":"Christian Hezzog"},{"id":"4721","name":"Cole Hudson"},{"id":"4179","name":"Colin Black"},{"id":"4686","name":"Colton"},{"id":"4220","name":"Colton Carbone"},{"id":"1628","name":"Damon Loan"},{"id":"379","name":"Danny Fox"},{"id":"380","name":"Danny Lopez"},{"id":"4451","name":"Darius Soli"},{"id":"1641","name":"David Starr"},{"id":"1629","name":"Davis Khalo"},{"id":"420","name":"Derek Parker"},{"id":"4456","name":"Derrick"},{"id":"4521","name":"Derrick Hanson"},{"id":"449","name":"Dimitri Santiago"},{"id":"459","name":"DJ Ryder"},{"id":"1646","name":"Dmitri Santiago"},{"id":"4542","name":"Dominic Sol"},{"id":"464","name":"Dominik Rider"},{"id":"4554","name":"Drew Sumrok"},{"id":"1914","name":"Dusty Robinchaux"},{"id":"4382","name":"Dylan Hyde"},{"id":"4614","name":"Ed Hunter"},{"id":"4271","name":"Eddie von Fistenberg"},{"id":"1631","name":"Edourd Ventoux"},{"id":"2115","name":"Enigma"},{"id":"2718","name":"Erick"},{"id":"1639","name":"Eru"},{"id":"4332","name":"Ethan Wolfe"},{"id":"3852","name":"Fabio (Raw Fuck Club)"},{"id":"554","name":"Franco Cento"},{"id":"1640","name":"Francois"},{"id":"1647","name":"Fred Mayer"},{"id":"1834","name":"Freddie"},{"id":"565","name":"Fredrick Berlin"},{"id":"4244","name":"Geoff Paine"},{"id":"4453","name":"Guiny"},{"id":"4315","name":"Gutenberg"},{"id":"4236","name":"Hot Rod"},{"id":"615","name":"Ian Jay"},{"id":"2441","name":"Igor Lucas"},{"id":"4379","name":"Italo Gang"},{"id":"623","name":"Ivan"},{"id":"3164","name":"Ivan (Raw Fuck Club)"},{"id":"2442","name":"Jacob"},{"id":"4386","name":"Jake Ascot"},{"id":"3087","name":"James Jones"},{"id":"663","name":"James Roscoe"},{"id":"673","name":"Jarod Steel"},{"id":"696","name":"Jay Grant"},{"id":"4450","name":"Jay Hernandez"},{"id":"1644","name":"Jay Phoenix"},{"id":"701","name":"Jay Scorpio"},{"id":"704","name":"Jayson Park"},{"id":"1630","name":"Jean Paul"},{"id":"4178","name":"Jeremy Rockwood"},{"id":"4615","name":"Jerry Sterns"},{"id":"2432","name":"Jesse Balboa"},{"id":"4729","name":"Jesse Santana"},{"id":"735","name":"Jessie Marks"},{"id":"4380","name":"Jessifer Santana"},{"id":"4687","name":"Jessy"},{"id":"2160","name":"Jessy Karson"},{"id":"3430","name":"Jim Ferro"},{"id":"4400","name":"Joao"},{"id":"4705","name":"Joe Gunn"},{"id":"4300","name":"Jorginho"},{"id":"1634","name":"Joshua Chandler"},{"id":"820","name":"Julian Schmidt"},{"id":"821","name":"Junior"},{"id":"4440","name":"Justin Cox"},{"id":"4297","name":"Kane Rider"},{"id":"4295","name":"Kannon"},{"id":"868","name":"Kid Chocolate"},{"id":"4441","name":"Kory Kong"},{"id":"4316","name":"Kratos"},{"id":"912","name":"Lars Svenson"},{"id":"918","name":"LeeRoy"},{"id":"1833","name":"Leo"},{"id":"4695","name":"Leo Grando"},{"id":"937","name":"Lito Cruz"},{"id":"938","name":"Logan"},{"id":"4369","name":"Luca"},{"id":"4318","name":"Luca Bondi"},{"id":"3853","name":"Lucas (Raw Fuck Club)"},{"id":"4678","name":"Lutz"},{"id":"4273","name":"Manuel Rokko"},{"id":"2534","name":"Marcel Hoffman"},{"id":"981","name":"Marcell Hoffman"},{"id":"1645","name":"Marco Cruise"},{"id":"2881","name":"Mariano"},{"id":"1635","name":"Marques Maddox"},{"id":"2014","name":"Mason Garet"},{"id":"3031","name":"Mason Wyler"},{"id":"1027","name":"Matt"},{"id":"1031","name":"Matt Sizemore"},{"id":"1035","name":"Matthias von Fistenberg"},{"id":"1055","name":"Michael Beck"},{"id":"1679","name":"Michael Hengst"},{"id":"1068","name":"Mickey"},{"id":"1075","name":"Miguel Fresno"},{"id":"1079","name":"Mikael"},{"id":"4399","name":"Morgan Black"},{"id":"1633","name":"Mustafa Medina"},{"id":"4455","name":"Nick"},{"id":"4593","name":"Nick Andrews"},{"id":"4337","name":"Nick Moretti"},{"id":"2609","name":"Nick Taylor"},{"id":"2408","name":"Oliver"},{"id":"1137","name":"Orion Cross"},{"id":"1140","name":"Owen Hawk"},{"id":"1148","name":"Paris"},{"id":"1152","name":"Patrick"},{"id":"4432","name":"Patrick O'Connor"},{"id":"1173","name":"Pedro"},{"id":"1177","name":"Peter"},{"id":"1185","name":"Peto Coast"},{"id":"4270","name":"Preto Bom"},{"id":"4394","name":"Rafael"},{"id":"4387","name":"Rafael Carreras"},{"id":"4368","name":"Randy Harden"},{"id":"4304","name":"Raphael"},{"id":"3165","name":"Raphael (Raw Fuck Club)"},{"id":"4772","name":"Red"},{"id":"3086","name":"Renato Bellagio"},{"id":"1265","name":"Rio"},{"id":"4314","name":"Riu"},{"id":"1266","name":"RJ"},{"id":"4277","name":"Rocco Vitelli"},{"id":"2607","name":"Rod Stevens"},{"id":"2880","name":"Ronan"},{"id":"2479","name":"Rudy"},{"id":"1348","name":"Sandro"},{"id":"4301","name":"Saulo"},{"id":"1377","name":"Sebastian Carle"},{"id":"4720","name":"Sebastian Rio"},{"id":"1632","name":"Serge Lion"},{"id":"4272","name":"Sergio Amore"},{"id":"1638","name":"Seth Miller"},{"id":"4711","name":"Sewperman"},{"id":"1401","name":"Simon"},{"id":"2437","name":"St. Davide"},{"id":"1432","name":"Steve"},{"id":"1637","name":"Stylez"},{"id":"3088","name":"Tattoo Junior"},{"id":"2085","name":"Thiago Romero"},{"id":"1498","name":"Tim Rusty"},{"id":"2882","name":"Tommy Hawk"},{"id":"2967","name":"Ty (Raw Fuck Club)"},{"id":"4655","name":"Ty Roberts"},{"id":"1696","name":"Wade Stone"},{"id":"4693","name":"William West"},{"id":"4319","name":"Xande"},{"id":"4393","name":"Yan"},{"id":"1613","name":"Yves"},{"id":"1756","name":"Zack Blunt"},{"id":"4696","name":"ZsoltXL"}];
+var seemore_tags = [{"id":"137","name":"Breeding"},{"id":"178","name":"Daddy"},{"id":"133","name":"Double Penetration"},{"id":"128","name":"Euro"},{"id":"176","name":"Group"},{"id":"121","name":"Interracial"},{"id":"173","name":"Jerk Off"},{"id":"118","name":"Jocks"},{"id":"177","name":"Jockstraps"},{"id":"172","name":"Latino"},{"id":"108","name":"Leather"},{"id":"166","name":"Muscle"},{"id":"112","name":"Outdoors"},{"id":"179","name":"Piercings"},{"id":"132","name":"Skin Head"},{"id":"170","name":"Sling"},{"id":"171","name":"Sneakers"},{"id":"175","name":"Spitting"},{"id":"143","name":"Threeway"},{"id":"174","name":"Toys"},{"id":"134","name":"Twink"},{"id":"130","name":"Uncut"}];
+var seemore_studios = [{"id":"340","name":"Raw Fuck Club"}];
+
+function seemore_nav_setcolumn(index)
+{
+	seemore_column_index = index;
+	var ul_div = document.getElementById('seemore_popup_links');
+	var total = ul_div.childNodes.length; 
+	for ( var i = 0; i < total; i++) {
+		if (i >= index && i < index + seemore_column_count) {
+			ul_div.childNodes[i].style.display = 'block';
+		} else {
+			ul_div.childNodes[i].style.display = 'none';
+		}
+	}
+	if (index == 0) {
+		document.getElementById("seemore_nav_prev").style.display = "none";
+	} else {
+		document.getElementById("seemore_nav_prev").style.display = "block";
+	}
+
+	if (index + seemore_column_count + 1> total) {
+		document.getElementById("seemore_nav_next").style.display = "none";
+	} else {
+		document.getElementById("seemore_nav_next").style.display = "block";
+	}
+}
+
+function seemore_nav_next() { seemore_nav_setcolumn(seemore_column_index + seemore_column_count); }
+function seemore_nav_prev() { seemore_nav_setcolumn(seemore_column_index - seemore_column_count); }
+
+
+function sidebar_seemore_close()
+{
+	document.getElementById('black_overlay_seemore').style.display = 'none';
+	document.getElementById('seemore_popup').style.display = 'none';
+}
+
+function sidebar_seemore(kind, links)
+{
+	var div_seemore_popup_links = document.getElementById('seemore_popup_links');
+	var html = '<ul class="seemore_column_1" style="display: none">';
+	var j = 0, k = 1;
+
+	for (i in links) {
+		html += '<li><a href="browse.php?by_' + kind + '=' + links[i].id + '">';
+		html += links[i].name;
+		html += '</a></li>';
+
+		if (++j == 20) {
+			j = 0;
+			k++;
+			html += '</ul><ul class="seemore_column_' + k + '">';
+		}
+	}
+
+	html += '</ul>';
+
+	div_seemore_popup_links.innerHTML = html;
+	
+	document.getElementById('black_overlay_seemore').style.display = 'block';
+	document.getElementById('seemore_popup').style.display = 'block';
+	seemore_nav_setcolumn(0);
+}
+
+function sidebar_actors_seemore_click()
+{
+	document.getElementById('seemore_header').innerHTML = 'Actors';
+	sidebar_seemore('actor', seemore_actors);
+}
+
+function sidebar_tags_seemore_click()
+{
+	document.getElementById('seemore_header').innerHTML = 'Tags';
+	sidebar_seemore('category', seemore_tags);
+}
+
+function sidebar_studios_seemore_click()
+{
+	document.getElementById('seemore_header').innerHTML = 'Studios';
+	sidebar_seemore('studio', seemore_studios);
+}
+
+
+function sidebar_quick_search_submit()
+{
+	var terms = document.getElementById('sidebar_quick_search_text').value;
+
+	if (terms == 'Enter keyword(s)') return;
+	document.location.href = "browse.php?search=" + escape(terms);
+}
+
+function sidebar_quick_search_press(event)
+{
+	if (event.keyCode == 13) {
+		sidebar_quick_search_submit();
+	}
+}
+
+function navbar_newsletter_success(response)
+{
+	var msg = response.message;
+
+        if (response.success) {
+		msg = 'Your email address has been added, thank you!';
+        }
+
+	MessageBox('Newsletter', msg, 'OK');
+}
+
+function navbar_ajax_error(data)
+{
+        alert('transient server error, try again later');
+}
+
+function navbar_newsletter_submit_click()
+{
+        var div_newsemail = document.getElementById('newsemail');
+        var data = { email: div_newsemail.value };
+
+        $.post('ajax_newsletter.php', data).success(navbar_newsletter_success).error(navbar_ajax_error);
+}
+
+function navbar_newsletter_newsemail_click()
+{
+	var div_newsemail = document.getElementById('newsemail');
+	div_newsemail.value = '';
+}
+
+</script>
+
+
+<div class="section">
+	<h1><img src="/vod/RFC/RFC/images/sidebar-videos.png"></h1>
+	<div id="sidebar_videos_featured_section">
+		<div class="sub">
+			<ul class="links" id="sidebar_featured">
+				
+                		                    			<li><a href="browse.php?featured=newest">
+                       	 		New Releases                    			</a></li>
+                		
+		                       			        	<li><a href="browse.php?featured=popular">
+                        			Most Popular                    			</a></li>
+                		
+				
+                		                    			<li><a href="browse.php?featured=all">
+                        			All Scenes                    			</a></li>
+                		            		</ul>
+		</div>
+	</div>
+
+	<div id="sidebar_quick_search_section">
+		<h2><img src="/vod/RFC/RFC/images/sidebar-search.png"></h2>
+		<div class="sub">
+			<input type="text" id="sidebar_quick_search_text" name="sidebar_quick_search_text" value="Enter keyword(s)" onkeypress="javascript:sidebar_quick_search_press(event);" onfocus="if (this.value == 'Enter keyword(s)') this.value=''">
+			<button id="sidebar_quick_search_submit" onclick="javascript:sidebar_quick_search_submit()"></button>
+		</div>
+	</div>
+
+	<div id="sidebar_videos_tags_section">
+		<h2><img src="/vod/RFC/RFC/images/sidebar-categories.png"></h2>
+		<div class="sub">
+			<ul id="taglist" class="links">
+				<li><a href="browse.php?by_category=137">Breeding</a></li><li><a href="browse.php?by_category=130">Uncut</a></li><li><a href="browse.php?by_category=121">Interracial</a></li><li><a href="browse.php?by_category=173">Jerk Off</a></li><li><a href="browse.php?by_category=172">Latino</a></li>			</ul>
+			<div class="viewAll">
+				<a id="seemore_tags" href="javascript:sidebar_tags_seemore_click();">see more →</a>
+			</div>
+		</div>
+	</div>
+
+
+	<div id="sidebar_videos_actors_section">
+		<h2><img src="/vod/RFC/RFC/images/sidebar-actors.png"></h2>
+		<div class="sub">
+			<ul id="actorlist" class="links">
+				<li><a href="browse.php?by_actor=2552">Brandon Hawk</a></li><li><a href="browse.php?by_actor=1140">Owen Hawk</a></li><li><a href="browse.php?by_actor=2937">Antonio Biaggi</a></li><li><a href="browse.php?by_actor=4542">Dominic Sol</a></li><li><a href="browse.php?by_actor=4399">Morgan Black</a></li>			</ul>
+			<div class="viewAll">
+				<a id="seemore_actors" href="javascript:sidebar_actors_seemore_click();">see more →</a>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="section" id="sidebar_help_section">
+		<div class="sub">
+		<ul class="links">
+            		<li><a href="help.php">I need help!</a></li>
+		<li><a href="http://www.darkalley.com/casting.php" target="_blank">Become a Model</a></li></ul>
+	</div>
+</div>
+
+    	
+<script type="text/javascript">
+jQuery(function($) {
+	$("#sidebar_help_section .links").append('<li><a href="http://www.darkalley.com/casting.php" target="_blank">Become a Model</a></li>');
+});
+</script>
+
+<div id="newsletter" class="section" style="visibility: visible;">
+	<h1 class="hide"></h1>
+	<div class="sub">
+		<p id="newsmsg">
+            		                		Sign up for free newsletter!
+            		        	</p>
+
+		<input name="newsemail" value="Email Address" id="newsemail" type="text" onclick="javascript:navbar_newsletter_newsemail_click()">
+		<button id="newssubmit" onclick="javascript:navbar_newsletter_submit_click()" type="submit"></button>
+		<div>
+			<p id="newserr">Email address is in use</p>
+			<p></p>
+		</div>
+		<div class="clear"></div>
+	</div>
+</div>
+
+				</div>
+				<div id="main">
+					<div class="info">
+
+	<h2>Our Commitment To Privacy</h2>
+	<div class="text"><p>
+		Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our every page of our site.
+	</p></div>
+
+	<h2>The Information We Collect</h2>
+	<div class="text"><p>
+		When you sign up with this site, your name, email address, street address, and billing information (credit card, ACH, or other) is stored securely in an encrypted database on our servers.
+	</p></div>
+
+	<h2>Securing Your Information</h2>
+	<div class="text"><p>
+		We utilize the most secure technologies to keep your confidential information secure, including but not limited to: HTTP (SSL channel encryption) between your browser and our servers, highly encrypted databases inside our datacenter (preventing unauthorized internal access at the datacenter level), physical security (requiring proof of ID, handscan, and access codes) to enter of cage within the datacenter, preventing physical removal of devices. Additionally, hackers are thwarted by the use of firewalls preventing remote access to this data (only available through VPN channels and secure database clients with proper digital certificates); and world-class intrustion prevention systems that block repetitive access attempts and log such attempts.
+	</p></div>
+
+	<h2>The Way We Use Information</h2>
+	<div class="text"><p>
+		We use the information to bill you and communicate with you. Additionally, we use your email address and password to give you access to this site.
+	</p></div>
+
+	<h2>How You Can Access Or Correct Your Information</h2>
+	<div class="text"><p>
+		You can access all your personally identifiable information that we collect online and maintain, either by logging into your account, or by contacting customer support and requesting that we send you a copy of all data in our records. <br><br>
+
+		To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
+	</p></div>
+
+        <h2>How You Can Control What Information Is Collected and Used (Opt-Out)</h2>
+        <div class="text"><p>
+                We do not share public or non-public (financial) personal information collected about you with third parties or non-affiliates, except for the purposes of processing your transactions with our payment gateway and merchant bank, or submitting an account to collections in the event of a disputed chargeback. <br><br>
+
+                If you wish to opt-out of sharing personally identifiable financial information to third parties and non-affiliates per the Financial Services Modernization Act (GLB), or if you wish to opt-out of sharing creditworthiness information per the Fair Credit Reporting Act (FCRA), please use the Contact Support form and choose the Privacy Category. We'll be happy to answer any questions you have about your collected personal information.
+        </p></div>
+
+	<h2>How To Contact Us</h2>
+	<div class="text"><p>
+		Should you have other questions or concerns about these privacy policies, please feel free to contact us via the contact form herein.
+	</p></div>
+</div>
+				</div>
+				<div class="clear"></div>
+			</div>
+		</div>
+		<div id="footer">
+	<div class="footer_content">
+		<ul>
+			<li><a href="info.php?page=about">about us</a></li>
+			<li class="pipe">|</li>
+			<li><a href="info.php?page=terms">terms of service</a></li>
+			<li class="pipe">|</li>
+			<li><a href="info.php?page=privacy">privacy policy</a></li>
+			<li class="pipe">|</li>
+			<li><a href="info.php?page=contact">contact</a></li>
+			<li class="pipe">|</li>
+			<li><a href="help.php">help</a></li>
+			<li class="pipe">|</li>
+			<li><a href="affiliate.php">affiliates</a></li>
+			<li class="pipe">|</li>
+			<li><a href="info.php?page=2257">18 U.S.C. 2257</a></li>
+		</ul>
+		<h4>Content © 2012 Dark Alley Media. Site powered by PPVNetworks 2.0.</h4>
+	</div>
+</div>
+	
+
+
+</body></html>
