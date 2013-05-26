@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webink.com privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124060959id_/http%3A//www.webink.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webink.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526022652id_/http%3A//www.webink.com/privacy) for the most accurate reproduction.*
 
 # WebINK and Your Privacy
 
@@ -40,7 +40,7 @@ We occasionally hire other companies to provide limited services on our behalf, 
 
 If Extensis requests general demographic information, this information is limited to reporting purposes only; members remain anonymous. Phone numbers, e-mail addresses, and postal addresses are never shared for demographic reports with outside entities. Extensis may occasionally present a special contest or promotion that is sponsored by another company. To qualify for entry, we may ask you to provide personal information. If we plan to share that information with the sponsor(s), we will provide an up-front statement to that effect.
 
-p>Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law or where we have a good-faith belief that (a) such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Website; (b) such action is necessary to protect and defend our rights or property, the Website or our uses; (c) such action is necessary to protect the personal safety of us, our affiliates, agents, or the users of the Website or the public.
+Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law or where we have a good-faith belief that (a) such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Website; (b) such action is necessary to protect and defend our rights or property, the Website or our uses; (c) such action is necessary to protect the personal safety of us, our affiliates, agents, or the users of the Website or the public.
 
 The Website is published in the United States. We make every effort to protect the personal information of all users of the Website. We attempt to comply with local data protection and consumer rights laws to the extent they may apply to the Extensis services. If you are uncertain whether this privacy policy conflicts with the applicable local privacy laws where you are located, you should not submit your personal information to Extensis.
 
