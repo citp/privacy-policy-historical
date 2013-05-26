@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the steelers.com privacy policy that was archived on 2012-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121230234625id_/http%3A//www.steelers.com/footer/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the steelers.com privacy policy that was archived on 2013-05-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130526050812id_/http%3A//www.steelers.com/footer/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html SYSTEM "about:legacy-compat"><html xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:nflcs="http://clubs.nfl.com" xmlns="http://www.w3.org/1999/xhtml" xmlns:pas="http://www.nfl.com/2009/pluckApplicationServer"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><title>Pittsburgh Steelers  | Privacy Policy</title><!--ls:begin[stylesheet]--><style type="text/css">.centerComponents
 {
@@ -235,6 +235,7 @@
 #c1260792045599{background-color: transparent; min-height: 0;}#c1260792045597{background-color: transparent; min-height: 0;}#c1260792045595{background-color: transparent; min-height: 0;}#c1260792045603{background-color: transparent; min-height: 0;}#c1260792045602{background-color: transparent; min-height: 0;}#c1320834046501{background-color: transparent; min-height: 0;}#c1260792045601{background-color: transparent; min-height: 0;}#c1317115248838{background-color: transparent; min-height: 0;}#c1260792045600{background-color: transparent; min-height: 0;}#c1260792045598{background-color: transparent; min-height: 0;}#c1262692887696{background-color: transparent; min-height: 0;}#c1260792045606{background-color: transparent; min-height: 0;}#c1260792045593{background-color: transparent; min-height: 0;}#c1264161671674{background-color: transparent; min-height: 0;}#c1260792045594{background-color: transparent; min-height: 0;}</style><!--ls:end[stylesheet]--><!--ls:begin[meta-keywords]--><meta name="keywords" content=""><!--ls:end[meta-keywords]--><!--ls:begin[meta-description]--><meta name="description" content=""><!--ls:end[meta-description]--><!--ls:begin[meta-vpath]--><meta name="vpath" content=""><!--ls:end[meta-vpath]--><meta name="og:title" content="Pittsburgh Steelers  | Privacy Policy"><meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 <script type="text/javascript">
     var nflcsAssetPath='http://prod.static.steelers.clubs.nfl.com/';
+    var nflcsImgAssetPath='http://prod.images.steelers.clubs.nflcdn.com:80/image-web/NFL/CDA/data/deployed/prod/STEELERS/';
     var nflcsAVAssetPath='http://prod.video.steelers.clubs.nfl.com/';
     var nflcsClubCode='PIT';
     var nflcomCombinatorAVP='http://combine.nflcdn.com/yui/min2/index.php?g=video';
@@ -257,6 +258,9 @@
 <link type="text/css" href="http://prod.static.steelers.clubs.nfl.com/nfl-assets/css/nflcs-league.css" rel="stylesheet">
 <link type="text/css" href="http://prod.static.steelers.clubs.nfl.com/nfl-assets/css/nflcs-print.css" rel="stylesheet" media="print">
 <link type="text/css" href="http://prod.static.steelers.clubs.nfl.com/assets/nflcss/club-main.css" rel="stylesheet">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@steelers">
+
 <meta property="og:type" content="article">
 <meta property="og:image" content="http://prod.static.steelers.clubs.nfl.com/nfl-assets/img/gbl-ico-team/PIT/logos/home/large.png">
         <meta property="og:url" content="http://www.steelers.com/footer/privacy-policy.html?campaign=pit:fanshare:facebook">
@@ -330,42 +334,36 @@
                         <div id="header-swap"></div>
 &nbsp;
 <script language="javascript" type="text/javascript">// <![CDATA[
+var headerSwap = {
+	images: null,
+	imagesDir: "http://prod.static.steelers.clubs.nfl.com/assets/images/header-swap/",
+
+	setImage: function(){
+		var
+			randomIndex = Math.floor(Math.random() * headerSwap.images.length),
+			imagePath = headerSwap.imagesDir + headerSwap.images[randomIndex];
+
+		$('#header-swap').css("background", "url(" + imagePath + ") no-repeat top left");
+	}
+};
+
 headerSwap.images = new Array(
-
-        "header_clark.png",
-
-        "header_a-brown.png",
-
-        "header_Woodley.png",
-
-        "header_hampton.png",
-
-        "header_Harrison.png",
-
-        "header_hood.png",
-
-        "header_Miller.png",
-
-        "header_Polamalu.png",
-
-        "header_pouncey.png",
-
-        "header_a-brown_throwback.png",
-
-        "header_allens_throwback.png",
-
-        "header_sanders.png",
-
-        "header_tomlin.png"
-
+	"header_browna.png",
+         "header_clark.png",
+	"header_Woodley.png",
+	"header_hood.png",
+         "header_keisel.png",
+	"header_Miller.png",
+	"header_Polamalu.png",
+	"header_pouncey.png",
+         "header_roethlisberger.png",
+	"header_sanders.png",
+         "header_timmons.png",
+	"header_tomlin.png"
 );
 
-
-
 $(document).ready(function(){
-
 	headerSwap.setImage();
-
 });
 // ]]></script>
                     
@@ -399,17 +397,40 @@ $(document).ready(function(){
                     
                         <div id="proshop-swap"><a target="_blank">&nbsp;</a></div>
 <script language="javascript" type="text/javascript">// <![CDATA[
+var proshopSwap = {
+	images: null,
+	imagesDir: "http://prod.static.steelers.clubs.nfl.com/assets/images/proshop-swap/",
+	imagesUrl: "",
+
+	setImage: function(){
+		var
+			randomIndex = Math.floor(Math.random() * proshopSwap.images.length),
+			imagePick = proshopSwap.images[randomIndex],
+			imageElements = imagePick.split(' '),
+			imagePath = proshopSwap.imagesDir + imageElements[0],
+			imageUrl = proshopSwap.imagesUrl + imageElements[1];
+
+		$('#proshop-swap').css("background", "url(" + imagePath + ") no-repeat top left");
+		$('#proshop-swap a').attr("href", imageUrl);
+	}
+};
+
 proshopSwap.images = new Array(
 	"02-29_www.jpg http://secure.steelers.com/adPromo/clickthrough/120658",
 	"59-169_www.jpg http://secure.steelers.com/adPromo/clickthrough/120676",
-        "08-710_www.jpg http://secure.steelers.com/adPromo/clickthrough/120698",
-        "08-1038_www.jpg http://secure.steelers.com/adPromo/clickthrough/120700",
-        "01-411_www.jpg http://shop.steelers.com/adPromo/clickthrough/121448",
-        "09-585_www.jpg http://shop.steelers.com/adPromo/clickthrough/121450",
-        "08-889_www.jpg http://shop.steelers.com/adPromo/clickthrough/120687",
-        "81-08_www.jpg http://shop.steelers.com/adPromo/clickthrough/121455",
-        "tt80-1100_www.jpg http://shop.steelers.com/adPromo/clickthrough/121458"
+	"08-710_www.jpg http://secure.steelers.com/adPromo/clickthrough/120698",
+	"08-1038_www.jpg http://secure.steelers.com/adPromo/clickthrough/120700",
+	"01-411_www.jpg http://shop.steelers.com/adPromo/clickthrough/121448",
+	"09-585_www.jpg http://shop.steelers.com/adPromo/clickthrough/121450",
+	"08-889_www.jpg http://shop.steelers.com/adPromo/clickthrough/120687",
+         "11-258_www.jpg http://shop.steelers.com/adpromo/clickthrough/126066",
+         "08-25g_www.jpg http://shop.steelers.com/adpromo/clickthrough/126068",
+         "08-515_www.jpg http://shop.steelers.com/adpromo/clickthrough/126071",
+         "01-217_www.jpg http://shop.steelers.com/adpromo/clickthrough/126073",
+         "08-616_www.jpg http://shop.steelers.com/adpromo/clickthrough/126075",
+         "08-1224_www.jpg http://shop.steelers.com/adpromo/clickthrough/126077"
 );
+
 
 $(document).ready(function(){
 	proshopSwap.setImage();
@@ -435,12 +456,6 @@ $(document).ready(function(){
 	<div class="bd">
 		<ul><li id="main-nav-home">
 						<a target="" href="http://www.steelers.com/.html" title="Home"><span>Home</span></a>
-						
-
-					</li>
-				
-			<li id="main-nav-watch-games">
-						<a target="_blank" href="http://www.pjtra.com/t/RUBKRUNER0BKRklKSkBISEtERw?website=157574" title="Watch Games"><span>Watch Games</span></a>
 						
 
 					</li>
@@ -489,7 +504,7 @@ $(document).ready(function(){
 																			<a target="" href="http://www.steelers.com/news/all-news/community-news.html" title="Community">Community</a>																		</li>
                                                                             
 																	 	    <li>
-																			<a target="" href="http://www.steelers.com/schedule-and-events/2012_draft.html" title="2012 Draft">2012 Draft</a>																		</li>
+																			<a target="" href="http://www.steelers.com/schedule-and-events/2013_Draft.html" title="2013 Draft">2013 Draft</a>																		</li>
                                                                 
                                                                     </ul>
                                                                 
@@ -619,6 +634,180 @@ $(document).ready(function(){
                                             <li class="last">
 														
 															<a target="popup" href="http://members.steelers.com" title="Media Only Access">Media Only Access</a>
+														
+													
+
+
+												
+                                                
+                                            
+											</li>
+										
+									
+                                    
+        								</ul>
+                                    
+							
+						
+
+					</li>
+				
+			<li id="main-nav-video--audio">
+						<a target="" href="http://www.steelers.com/video-and-audio/index.html" title="Video &amp; Audio"><span>Video &amp; Audio</span></a>
+                                            
+                                                
+                                                <ul>
+                                            
+                                            <li>
+														
+															<a target="" href="http://www.steelers.com/video-and-audio/index.html" title="Video &amp; Audio Home">Video &amp; Audio Home</a>
+														
+													
+
+
+												
+                                                
+                                            
+											</li>
+										
+									
+                                            
+                                            <li>
+                                                                            
+                                                                                
+                                                                                <ul>
+                                                                            
+																	 	    <li>
+																			<a target="" href="http://www.steelers.com/video-and-audio/video-browser/recent-videos.html" title="Recent">Recent</a>																		</li>
+                                                                            
+																	 	    <li>
+																			<a target="" href="http://www.steelers.com/video-and-audio/video-browser/gameday-video.html" title="Gameday">Gameday</a>																		</li>
+                                                                            
+																	 	    <li>
+																			<a target="" href="http://www.steelers.com/video-and-audio/video-browser/news-conference-video.html" title="News Conferences">News Conferences</a>																		</li>
+                                                                            
+																	 	    <li>
+																			<a target="" href="http://www.steelers.com/video-and-audio/video-browser/video-interviews.html" title="Interviews">Interviews</a>																		</li>
+                                                                            
+																	 	    <li>
+																			<a target="" href="http://www.steelers.com/video-and-audio/video-browser/features-video.html" title="Features">Features</a>																		</li>
+                                                                            
+																	 	    <li>
+																			<a target="" href="http://www.steelers.com/video-and-audio/video-browser/steelers-tv.html" title="Steelers TV">Steelers TV</a>																		</li>
+                                                                            
+																	 	    <li>
+																			<a target="" href="http://www.steelers.com/video-and-audio/video-browser/off-the-field-video.html" title="Off the Field">Off the Field</a>																		</li>
+                                                                            
+																	 	    <li>
+																			<a target="" href="http://www.steelers.com/video-and-audio/video-browser/youth-football.html" title="Youth Football">Youth Football</a>																		</li>
+                                                                            
+																	 	    <li>
+																			<a target="" href="http://www.steelers.com/video-and-audio/video-browser/training-camp.html" title="Training Camp">Training Camp</a>																		</li>
+                                                                            
+																	 	    <li>
+																			<a target="" href="http://www.steelers.com/video-and-audio/video-browser/draft-videos.html" title="Draft">Draft</a>																		</li>
+                                                                            
+																	 	    <li>
+																			<a target="" href="http://www.steelers.com/video-and-audio/video-browser/community-video.html" title="Community">Community</a>																		</li>
+                                                                
+                                                                    </ul>
+                                                                
+
+															
+																
+																	<span>Video</span>
+																
+																
+															
+
+														
+														
+													
+
+
+												
+                                                
+                                            
+											</li>
+										
+									
+                                            
+                                            <li>
+                                                                            
+                                                                                
+                                                                                <ul>
+                                                                            
+																	 	    <li>
+																			<a target="" href="http://www.steelers.com/video-and-audio/audio-browser/most-recent-audio.html" title="Recent">Recent</a>																		</li>
+                                                                            
+																	 	    <li>
+																			<a target="" href="http://www.steelers.com/video-and-audio/audio-browser/draft-audio.html" title="Draft">Draft</a>																		</li>
+                                                                            
+																	 	    <li>
+																			<a target="" href="http://www.steelers.com/video-and-audio/audio-browser/gameday-audio.html" title="Gameday">Gameday</a>																		</li>
+                                                                            
+																	 	    <li>
+																			<a target="" href="http://www.steelers.com/video-and-audio/audio-browser/audio-interviews.html" title="Interviews">Interviews</a>																		</li>
+                                                                            
+																	 	    <li>
+																			<a target="" href="http://www.steelers.com/video-and-audio/audio-browser/talking-steelers-football.html" title="Talking Steelers">Talking Steelers</a>																		</li>
+                                                                            
+																	 	    <li>
+																			<a target="" href="http://www.steelers.com/video-and-audio/audio-browser/training-camp.html" title="Training Camp">Training Camp</a>																		</li>
+                                                                
+                                                                    </ul>
+                                                                
+
+															
+																
+																	<span>Audio</span>
+																
+																
+															
+
+														
+														
+													
+
+
+												
+                                                
+                                            
+											</li>
+										
+									
+                                            
+                                            <li class="last">
+                                                                            
+                                                                                
+                                                                                <ul>
+                                                                            
+																	 	    <li>
+																			<a target="" href="http://www.steelers.com/video-and-audio/all-photos.html" title="All Photos">All Photos</a>																		</li>
+                                                                            
+																	 	    <li>
+																			<a target="" href="http://www.steelers.com/video-and-audio/all-photos/gameday-photos.html" title="Gameday">Gameday</a>																		</li>
+                                                                            
+																	 	    <li>
+																			<a target="" href="http://www.steelers.com/video-and-audio/all-photos/events-photos.html" title="Events">Events</a>																		</li>
+                                                                            
+																	 	    <li>
+																			<a target="" href="http://www.steelers.com/video-and-audio/all-photos/community-photos.html" title="Community">Community</a>																		</li>
+                                                                            
+																	 	    <li>
+																			<a target="" href="http://www.steelers.com/video-and-audio/all-photos/team-photos.html" title="Team">Team</a>																		</li>
+                                                                
+                                                                    </ul>
+                                                                
+
+															
+																
+																	<span>Photos</span>
+																
+																
+															
+
+														
 														
 													
 
@@ -857,7 +1046,7 @@ $(document).ready(function(){
                                             
                                             <li>
 														
-															<a target="" href="http://www.steelers.com/team/training-partners.html" title="Training Partners">Training Partners</a>
+															<a target="" href="http://www.steelers.com/team/TrainingPartners.html" title="Training Partners">Training Partners</a>
 														
 													
 
@@ -952,7 +1141,21 @@ $(document).ready(function(){
                                             
                                             <li>
 														
-															<a target="" href="http://www.steelers.com/schedule-and-events/season-schedule.html" title="2012 Schedule">2012 Schedule</a>
+															<a target="" href="http://www.steelers.com/tickets-and-stadium/International_Series.html" title="London Tickets">London Tickets</a>
+														
+													
+
+
+												
+                                                
+                                            
+											</li>
+										
+									
+                                            
+                                            <li>
+														
+															<a target="" href="http://www.steelers.com/schedule-and-events/season-schedule.html" title="2013 Schedule">2013 Schedule</a>
 														
 													
 
@@ -978,9 +1181,51 @@ $(document).ready(function(){
 										
 									
                                             
-                                            <li class="last">
+                                            <li>
 														
-															<a target="" href="http://www.steelers.com/schedule-and-events/2012_draft.html" title="2012 Draft">2012 Draft</a>
+															<a target="" href="http://www.steelers.com/schedule-and-events/2013_Draft.html" title="2013 Draft">2013 Draft</a>
+														
+													
+
+
+												
+                                                
+                                            
+											</li>
+										
+									
+                                            
+                                            <li class="last">
+                                                                            
+                                                                                
+                                                                                <ul>
+                                                                            
+																	 	    <li>
+																			<a target="" href="http://www.steelers.com/fan-zone/Mens_Fantasy_Camp.html" title="Men's Fantasy Camp">Men's Fantasy Camp</a>																		</li>
+                                                                            
+																	 	    <li>
+																			<a target="" href="http://www.steelers.com/community/youth-football/ClinicForMoms.html" title="Clinic for Moms">Clinic for Moms</a>																		</li>
+                                                                            
+																	 	    <li>
+																			<a target="" href="http://www.steelers.com/community/youth-football/SteelersCoachingClinic.html" title="Coaching Clinic">Coaching Clinic</a>																		</li>
+                                                                            
+																	 	    <li>
+																			<a target="" href="http://www.steelers.com/community/youth-football/YouthFootballCamp.html" title="Youth Football Camps">Youth Football Camps</a>																		</li>
+                                                                            
+																	 	    <li>
+																			<a target="" href="http://www.steelers.com/fan-zone/Gatorade-Steelers5K.html" title="Gatorade-Steelers 5K">Gatorade-Steelers 5K</a>																		</li>
+                                                                
+                                                                    </ul>
+                                                                
+
+															
+																
+																	<span>Upcoming Events</span>
+																
+																
+															
+
+														
 														
 													
 
@@ -1021,7 +1266,21 @@ $(document).ready(function(){
                                             
                                             <li>
 														
-															<a target="_top" href="http://www.steelers.com/news/article-1/Steelers-2012-Individual-Game-Tickets-Available-Through-Ticketmaster/3f2f0403-cb26-4694-b125-46aa5f31394b" title="Individual Game Tickets">Individual Game Tickets</a>
+															<a target="" href="http://www.steelers.com/tickets-and-stadium/International_Series.html" title="London Tickets">London Tickets</a>
+														
+													
+
+
+												
+                                                
+                                            
+											</li>
+										
+									
+                                            
+                                            <li>
+														
+															<a target="_top" href="http://www.steelers.com/news/article-1/2013-Steelers-Individual-Game-Tickets/1c7d6331-6329-41eb-85d1-fab751c560f0" title="Individual Game Tickets">Individual Game Tickets</a>
 														
 													
 
@@ -1226,7 +1485,7 @@ $(document).ready(function(){
                                             
                                             <li>
 														
-															<a target="" href="http://www.steelers.com/tickets-and-stadium/employment.html" title="Employment">Employment</a>
+															<a target="" href="http://www.steelers.com/tickets-and-stadium/HeinzFieldJobFair.html" title="Employment">Employment</a>
 														
 													
 
@@ -1241,180 +1500,6 @@ $(document).ready(function(){
                                             <li class="last">
 														
 															<a target="_blank" href="http://members.steelers.com" title="Team Members">Team Members</a>
-														
-													
-
-
-												
-                                                
-                                            
-											</li>
-										
-									
-                                    
-        								</ul>
-                                    
-							
-						
-
-					</li>
-				
-			<li id="main-nav-video--audio">
-						<a target="" href="http://www.steelers.com/video-and-audio/index.html" title="Video &amp; Audio"><span>Video &amp; Audio</span></a>
-                                            
-                                                
-                                                <ul>
-                                            
-                                            <li>
-														
-															<a target="" href="http://www.steelers.com/video-and-audio/index.html" title="Video &amp; Audio Home">Video &amp; Audio Home</a>
-														
-													
-
-
-												
-                                                
-                                            
-											</li>
-										
-									
-                                            
-                                            <li>
-                                                                            
-                                                                                
-                                                                                <ul>
-                                                                            
-																	 	    <li>
-																			<a target="" href="http://www.steelers.com/video-and-audio/video-browser/recent-videos.html" title="Recent">Recent</a>																		</li>
-                                                                            
-																	 	    <li>
-																			<a target="" href="http://www.steelers.com/video-and-audio/video-browser/gameday-video.html" title="Gameday">Gameday</a>																		</li>
-                                                                            
-																	 	    <li>
-																			<a target="" href="http://www.steelers.com/video-and-audio/video-browser/news-conference-video.html" title="News Conferences">News Conferences</a>																		</li>
-                                                                            
-																	 	    <li>
-																			<a target="" href="http://www.steelers.com/video-and-audio/video-browser/video-interviews.html" title="Interviews">Interviews</a>																		</li>
-                                                                            
-																	 	    <li>
-																			<a target="" href="http://www.steelers.com/video-and-audio/video-browser/features-video.html" title="Features">Features</a>																		</li>
-                                                                            
-																	 	    <li>
-																			<a target="" href="http://www.steelers.com/video-and-audio/video-browser/steelers-tv.html" title="Steelers TV">Steelers TV</a>																		</li>
-                                                                            
-																	 	    <li>
-																			<a target="" href="http://www.steelers.com/video-and-audio/video-browser/off-the-field-video.html" title="Off the Field">Off the Field</a>																		</li>
-                                                                            
-																	 	    <li>
-																			<a target="" href="http://www.steelers.com/video-and-audio/video-browser/youth-football.html" title="Youth Football">Youth Football</a>																		</li>
-                                                                            
-																	 	    <li>
-																			<a target="" href="http://www.steelers.com/video-and-audio/video-browser/training-camp.html" title="Training Camp">Training Camp</a>																		</li>
-                                                                            
-																	 	    <li>
-																			<a target="" href="http://www.steelers.com/video-and-audio/video-browser/draft-videos.html" title="Draft">Draft</a>																		</li>
-                                                                            
-																	 	    <li>
-																			<a target="" href="http://www.steelers.com/video-and-audio/video-browser/community-video.html" title="Community">Community</a>																		</li>
-                                                                
-                                                                    </ul>
-                                                                
-
-															
-																
-																	<span>Video</span>
-																
-																
-															
-
-														
-														
-													
-
-
-												
-                                                
-                                            
-											</li>
-										
-									
-                                            
-                                            <li>
-                                                                            
-                                                                                
-                                                                                <ul>
-                                                                            
-																	 	    <li>
-																			<a target="" href="http://www.steelers.com/video-and-audio/audio-browser/most-recent-audio.html" title="Recent">Recent</a>																		</li>
-                                                                            
-																	 	    <li>
-																			<a target="" href="http://www.steelers.com/video-and-audio/audio-browser/draft-audio.html" title="Draft">Draft</a>																		</li>
-                                                                            
-																	 	    <li>
-																			<a target="" href="http://www.steelers.com/video-and-audio/audio-browser/gameday-audio.html" title="Gameday">Gameday</a>																		</li>
-                                                                            
-																	 	    <li>
-																			<a target="" href="http://www.steelers.com/video-and-audio/audio-browser/audio-interviews.html" title="Interviews">Interviews</a>																		</li>
-                                                                            
-																	 	    <li>
-																			<a target="" href="http://www.steelers.com/video-and-audio/audio-browser/talking-steelers-football.html" title="Talking Steelers">Talking Steelers</a>																		</li>
-                                                                            
-																	 	    <li>
-																			<a target="" href="http://www.steelers.com/video-and-audio/audio-browser/training-camp.html" title="Training Camp">Training Camp</a>																		</li>
-                                                                
-                                                                    </ul>
-                                                                
-
-															
-																
-																	<span>Audio</span>
-																
-																
-															
-
-														
-														
-													
-
-
-												
-                                                
-                                            
-											</li>
-										
-									
-                                            
-                                            <li class="last">
-                                                                            
-                                                                                
-                                                                                <ul>
-                                                                            
-																	 	    <li>
-																			<a target="" href="http://www.steelers.com/video-and-audio/all-photos.html" title="All Photos">All Photos</a>																		</li>
-                                                                            
-																	 	    <li>
-																			<a target="" href="http://www.steelers.com/video-and-audio/all-photos/gameday-photos.html" title="Gameday">Gameday</a>																		</li>
-                                                                            
-																	 	    <li>
-																			<a target="" href="http://www.steelers.com/video-and-audio/all-photos/events-photos.html" title="Events">Events</a>																		</li>
-                                                                            
-																	 	    <li>
-																			<a target="" href="http://www.steelers.com/video-and-audio/all-photos/community-photos.html" title="Community">Community</a>																		</li>
-                                                                            
-																	 	    <li>
-																			<a target="" href="http://www.steelers.com/video-and-audio/all-photos/team-photos.html" title="Team">Team</a>																		</li>
-                                                                
-                                                                    </ul>
-                                                                
-
-															
-																
-																	<span>Photos</span>
-																
-																
-															
-
-														
 														
 													
 
@@ -1561,6 +1646,15 @@ $(document).ready(function(){
                                                                             
 																	 	    <li>
 																			<a target="" href="http://www.steelers.com/community/youth-football/PlaySmart.html" title="Play Smart">Play Smart</a>																		</li>
+                                                                            
+																	 	    <li>
+																			<a target="" href="http://www.steelers.com/community/youth-football/ClinicForMoms.html" title="Clinic for Moms">Clinic for Moms</a>																		</li>
+                                                                            
+																	 	    <li>
+																			<a target="" href="http://www.steelers.com/community/youth-football/SteelersCoachingClinic.html" title="Coaching Clinic">Coaching Clinic</a>																		</li>
+                                                                            
+																	 	    <li>
+																			<a target="" href="http://www.steelers.com/community/youth-football/YouthFootballCamp.html" title="Youth Football Camps">Youth Football Camps</a>																		</li>
                                                                 
                                                                     </ul>
                                                                 
@@ -1584,9 +1678,23 @@ $(document).ready(function(){
 										
 									
                                             
-                                            <li class="last">
+                                            <li>
 														
 															<a target="" href="http://www.steelers.com/community/youth-football/player-websites.html" title="Player Websites">Player Websites</a>
+														
+													
+
+
+												
+                                                
+                                            
+											</li>
+										
+									
+                                            
+                                            <li class="last">
+														
+															<a target="" href="http://www.steelers.com/fan-zone/Gatorade-Steelers5K.html" title="Gatorade-Steelers 5K">Gatorade-Steelers 5K</a>
 														
 													
 
@@ -1640,8 +1748,36 @@ $(document).ready(function(){
 									
                                             
                                             <li>
+                                                                            
+                                                                                
+                                                                                <ul>
+                                                                            
+																	 	    <li>
+																			<a target="" href="http://www.steelers.com/fan-zone/Mens_Fantasy_Camp.html" title="Men's Fantasy Camp">Men's Fantasy Camp</a>																		</li>
+                                                                            
+																	 	    <li>
+																			<a target="" href="http://www.steelers.com/community/youth-football/ClinicForMoms.html" title="Clinic for Moms">Clinic for Moms</a>																		</li>
+                                                                            
+																	 	    <li>
+																			<a target="" href="http://www.steelers.com/community/youth-football/SteelersCoachingClinic.html" title="Coaching Clinic">Coaching Clinic</a>																		</li>
+                                                                            
+																	 	    <li>
+																			<a target="" href="http://www.steelers.com/community/youth-football/YouthFootballCamp.html" title="Youth Football Camps">Youth Football Camps</a>																		</li>
+                                                                            
+																	 	    <li>
+																			<a target="" href="http://www.steelers.com/fan-zone/Gatorade-Steelers5K.html" title="Gatorade-Steelers 5K">Gatorade-Steelers 5K</a>																		</li>
+                                                                
+                                                                    </ul>
+                                                                
+
+															
+																
+																	<span>Upcoming Events</span>
+																
+																
+															
+
 														
-															<a target="" href="http://www.steelers.com/news/article-1/Whats-Happening-in-Steelers-Country/f99cc927-e9cd-4b99-9082-5d540c2167c4" title="Steelers Events">Steelers Events</a>
 														
 													
 
@@ -1669,7 +1805,7 @@ $(document).ready(function(){
                                             
                                             <li>
 														
-															<a target="_blank" href="http://app.steelers.com/profile/signup.cfm" title="Steelers Newsletter">Steelers Newsletter</a>
+															<a target="_blank" href="http://app.steelers.com/profile/signup.cfm" title="Steelers Email">Steelers Email</a>
 														
 													
 
@@ -1741,9 +1877,6 @@ $(document).ready(function(){
 																			<a target="" href="http://prod.static.steelers.clubs.nfl.com/assets/docs/2012_Steelers_Advantage_Card.pdf" title="Steelers Advantage">Steelers Advantage</a>																		</li>
                                                                             
 																	 	    <li>
-																			<a target="" href="http://www.steelers.com/WinAFordTruck.html" title="Ford F-150 Sweepstakes">Ford F-150 Sweepstakes</a>																		</li>
-                                                                            
-																	 	    <li>
 																			<a target="" href="http://www.steelers.com/fan-zone/AE_CollegeBlitz.html" title="AE College Blitz">AE College Blitz</a>																		</li>
                                                                             
 																	 	    <li>
@@ -1813,23 +1946,9 @@ $(document).ready(function(){
 										
 									
                                             
-                                            <li>
-														
-															<a target="" href="http://www.steelers.com/fan-zone/steelers-nation-connect.html" title="Steelers Connect">Steelers Connect</a>
-														
-													
-
-
-												
-                                                
-                                            
-											</li>
-										
-									
-                                            
                                             <li class="last">
 														
-															<a target="" href="http://www.steelers.com/fan-zone/pro-bowl-ballot-2013.html" title="2013 Pro Bowl Ballot">2013 Pro Bowl Ballot</a>
+															<a target="" href="http://www.steelers.com/fan-zone/steelers-nation-connect.html" title="Steelers Connect">Steelers Connect</a>
 														
 													
 
@@ -1890,20 +2009,20 @@ $(document).ready(function(){
                 
                 
                     
-                        <div id="SocialMediaBar" style="background: url('/assets/nflimg/gbl-mod-bg.png') repeat-y scroll 0 0 transparent; padding-bottom: 1px;">
+                        <div style="background: url('http://www.steelers.com/assets/nflimg/gbl-mod-bg.png') repeat-y scroll 0 0 transparent; padding-bottom: 1px;" id="SocialMediaBar">
 <ul style="list-style-type: none; position: relative; top: 3px; left: 6px;">
-<li style="display: inline; padding-top: 2px;"><a href="http://www.facebook.com/steelers/" target="_blank" style="text-decoration: none; border: none;"><img src="http://prod.static.steelers.clubs.nfl.com/assets/images/SocialMediaBar/Facebook_Normal_28x25.png" alt="Steelers Facebook" title="Steelers Facebook" name="appButtonFacebook" style="text-decoration: none; border: none;" height="25" width="28"> </a></li>
-<li style="display: inline; padding-top: 2px;"><a href="https://twitter.com/#!/steelers/" target="_blank" style="text-decoration: none; border: none;"><img src="http://prod.static.steelers.clubs.nfl.com/assets/images/SocialMediaBar/Twitter_Normal_28x25.png" alt="Steelers Twitter" title="Steelers Twitter" name="appButtonTwitter" style="text-decoration: none; border: none;" height="25" width="28"></a></li>
-<li style="display: inline; padding-top: 2px;"><a href="https://plus.google.com/105180819222641832102/posts" target="_blank" style="text-decoration: none; border: none;"><img src="http://prod.static.steelers.clubs.nfl.com/assets/images/SocialMediaBar/GooglePlus_Normal_28x25.png" alt="Steelers on Google+" title="Steelers on Google+" name="appButtonGooglePlus" style="text-decoration: none; border: none;" height="25" width="28"></a></li>
-<li style="display: inline; padding-top: 2px;"><a href="http://pinterest.com/steelers/" target="_blank" style="text-decoration: none; border: none;"><img src="http://prod.static.steelers.clubs.nfl.com/assets/images/SocialMediaBar/Pinterest_Normal_28x25.png" alt="Steelers Pinterest" title="Steelers Pinterest" name="appButtonPinterest" style="text-decoration: none; border: none;" height="25" width="28"></a></li>
+<li style="display: inline; padding-top: 2px;"><a style="text-decoration: none; border: none;" href="http://www.facebook.com/steelers/" target="_blank"><img style="text-decoration: none; border: none;" title="Steelers Facebook" name="appButtonFacebook" alt="Steelers Facebook" src="http://prod.static.steelers.clubs.nfl.com/assets/images/SocialMediaBar/Facebook_Normal_28x25.png" width="28" height="25"> </a></li>
+<li style="display: inline; padding-top: 2px;"><a style="text-decoration: none; border: none;" href="https://twitter.com/#!/steelers/" target="_blank"><img style="text-decoration: none; border: none;" title="Steelers Twitter" name="appButtonTwitter" alt="Steelers Twitter" src="http://prod.static.steelers.clubs.nfl.com/assets/images/SocialMediaBar/Twitter_Normal_28x25.png" width="28" height="25"></a></li>
+<li style="display: inline; padding-top: 2px;"><a style="text-decoration: none; border: none;" href="https://plus.google.com/105180819222641832102/posts" target="_blank"><img style="text-decoration: none; border: none;" title="Steelers on Google+" name="appButtonGooglePlus" alt="Steelers on Google+" src="http://prod.static.steelers.clubs.nfl.com/assets/images/SocialMediaBar/GooglePlus_Normal_28x25.png" width="28" height="25"></a></li>
+<li style="display: inline; padding-top: 2px;"><a style="text-decoration: none; border: none;" href="http://pinterest.com/steelers/" target="_blank"><img style="text-decoration: none; border: none;" title="Steelers Pinterest" name="appButtonPinterest" alt="Steelers Pinterest" src="http://prod.static.steelers.clubs.nfl.com/assets/images/SocialMediaBar/Pinterest_Normal_28x25.png" width="28" height="25"></a></li>
 <!--		<li style="display: inline; padding-top: 2px;">
 			<a href="__________" target="_blank" style="text-decoration: none; border: none;"><img src="http://prod.static.steelers.clubs.nfl.com/assets/images/SocialMediaBar/Instagram_Normal_28x25.png" alt="Steelers Instagram" title="Steelers Instagram" width="28" height="25" name="appButtonInstagram" style="text-decoration: none; border: none;"/></a> 
-		</li> --> <!--		<li style="display: inline; padding-top: 2px;">
+		</li> --><!--		<li style="display: inline; padding-top: 2px;">
 			<a href="https://www.foursquare.com/steelers/" target="_blank" onmouseover="roll('appButtonFoursquare', 'http://prod.static.steelers.clubs.nfl.com/assets/images/SocialMediaBar/Foursquare_Hover_28x25.png')" onmouseout="roll('appButtonFoursquare', 'http://prod.static.steelers.clubs.nfl.com/assets/images/SocialMediaBar/Foursquare_Normal_28x25.png')" style="text-decoration: none; border: none;"><img src="http://prod.static.steelers.clubs.nfl.com/assets/images/SocialMediaBar/Foursquare_Normal_28x25.png" alt="Steelers Foursquare" title="Steelers Foursquare" width="28" height="25" name="appButtonFoursquare" style="text-decoration: none; border: none;"/></a>
 		</li> -->
-<li style="display: inline; padding-top: 2px;"><a href="http://www.tout.com/u/steelers/" target="_blank" style="text-decoration: none; border: none;"><img src="http://prod.static.steelers.clubs.nfl.com/assets/images/SocialMediaBar/Tout_Normal_28x25.png" alt="Steelers Tout" title="Steelers Tout"></a></li>
-<li style="display: inline; padding-top: 2px;"><a href="http://app.steelers.com/profile/signup.cfm" target="_self" style="text-decoration: none; border: none;"><img src="http://prod.static.steelers.clubs.nfl.com/assets/images/SocialMediaBar/Email_Normal_28x25.png" alt="Steelers Email Newsletter" title="Steelers Email Newsletter" name="appButtonEmail" style="text-decoration: none; border: none;" height="25" width="28"></a></li>
-<li style="display: inline; padding-top: 2px;"><a href="http://www.steelers.com/fan-zone/official-steelers-app.html" target="_blank" style="text-decoration: none; border: none;"><img src="http://prod.static.steelers.clubs.nfl.com/assets/images/SocialMediaBar/GamedayPlus_Normal_28x25.png" alt="Steelers Gameday Plus Mobile App" title="Steelers Gameday Plus Mobile App" name="appButtonGamedayPlus" style="text-decoration: none; border: none;" height="25" width="28"></a></li>
+<li style="display: inline; padding-top: 2px;"><a style="text-decoration: none; border: none;" href="http://www.tout.com/u/steelers/" target="_blank"><img title="Steelers Tout" alt="Steelers Tout" src="http://prod.static.steelers.clubs.nfl.com/assets/images/SocialMediaBar/Tout_Normal_28x25.png"></a></li>
+<li style="display: inline; padding-top: 2px;"><a style="text-decoration: none; border: none;" href="http://app.steelers.com/profile/signup.cfm" target="_self"><img style="text-decoration: none; border: none;" title="Steelers Emails" name="appButtonEmail" alt="Steelers Email" src="http://prod.static.steelers.clubs.nfl.com/assets/images/SocialMediaBar/Email_Normal_28x25.png" width="28" height="25"></a></li>
+<li style="display: inline; padding-top: 2px;"><a style="text-decoration: none; border: none;" href="http://www.steelers.com/fan-zone/official-steelers-app.html" target="_blank"><img style="text-decoration: none; border: none;" title="Steelers Gameday Plus Mobile App" name="appButtonGamedayPlus" alt="Steelers Gameday Plus Mobile App" src="http://prod.static.steelers.clubs.nfl.com/assets/images/SocialMediaBar/GamedayPlus_Normal_28x25.png" width="28" height="25"></a></li>
 </ul>
 </div>
                     
@@ -1930,15 +2049,7 @@ $(document).ready(function(){
                 
                 
                     
-                        <div id="hot-topics"><!-- BEGIN WATCH GAMES AD CODE -->
-<div class="watch-games">
-<script type="text/javascript">// <![CDATA[
-ord=Math.random()*10000000000000000;
-document.write('<a href="http://ad.doubleclick.net/jump/team.pit/index/steelers;s1=index;s2=steelers;sz=235x15;ord=' + ord + '?" target="_blank">');
-document.write('<img src="http://ad.doubleclick.net/ad/team.pit/index/steelers;s1=index;s2=steelers;sz=235x15;ord=' + ord + '?" border="0" alt="" align="absmiddle"/></a>');
-// ]]></script><a href="http://ad.doubleclick.net/jump/team.pit/index/steelers;s1=index;s2=steelers;sz=235x15;ord=4534319212878339?" target="_blank"><img src="http://ad.doubleclick.net/ad/team.pit/index/steelers;s1=index;s2=steelers;sz=235x15;ord=4534319212878339?" border="0" alt="" align="absmiddle"></a>
-</div>
-<!-- END WATCH GAMES AD CODE --></div>
+                        <div style="height: 31px; background: url('http://www.steelers.com/assets/nflimg/gbl-mod-bg.png') repeat-y 0 0 transparent;">&nbsp;</div>
                     
                 
             
@@ -1975,9 +2086,9 @@ document.write('<img src="http://ad.doubleclick.net/ad/team.pit/index/steelers;s
 
 <div class="module search ramp">
             <div class="hd empty">
-                </div>
-            <div class="bd">
-                
+                        </div>
+                    <div class="bd">
+                        
 <div id="search">
 	<form method="get" name="search-form" action="http://www.Steelers.com/search-results">
 		<fieldset title="Search the site">
@@ -1991,9 +2102,9 @@ document.write('<img src="http://ad.doubleclick.net/ad/team.pit/index/steelers;s
         <div id="list-autocomplete"></div>
 </div>
 </div>
-            <div class="ft empty">
-                </div>
-            </div>
+                    <div class="ft empty">
+                        </div>
+                    </div>
     
 
     
@@ -2229,20 +2340,13 @@ Caused by: java.lang.NullPointerException: Cannot read file: //CSPRDCMS01-fe/def
                         <div id="footer"><a class="footer-logo-link" title="Pittsburgh Steelers" href="/"><span>Pittsburgh Steelers</span></a>
 <div class="link-list">
 <ul>
-<li value="0"><a class="null" title="Privacy Policy" href="http://www.steelers.com/footer/privacy-policy.html">Privacy Policy</a><span>|</span><a class="null" title="Code of Conduct" href="http://www.steelers.com/footer/code-of-conduct.html">Code of Conduct</a><span>|</span><a href="http://www.steelers.com/espanol/espanol.html">Español</a></li>
-<li value="0"><a class="null" title="Employment" href="http://www.steelers.com/tickets-and-stadium/employment.html">Employment</a><span>|</span><a class="null" title="Contact Us" href="http://www.steelers.com/footer/contact-us.html">Contact Us</a><span>|</span><a title="Radio" class="null" href="http://www.steelers.com/video-and-audio/radio-show.html?ooooooo" mce_href="http://www.steelers.com/video-and-audio/radio-show.html?ooooooo">Radio </a><a title="Radio" href="http://www.steelers.com/video-and-audio/radio-show.html?ooooooo" mce_href="http://www.steelers.com/video-and-audio/radio-show.html?ooooooo"><span><span title="Radio" href="http://www.steelers.com/video-and-audio/radio-show.html?ooooooo" mce_href="http://www.steelers.com/video-and-audio/radio-show.html?ooooooo"></span></span></a></li>
+<li><a class="null" title="Privacy Policy" href="http://www.steelers.com/footer/privacy-policy.html">Privacy Policy</a><span>|</span><a class="null" title="Code of Conduct" href="http://www.steelers.com/footer/code-of-conduct.html">Code of Conduct</a><span>|</span><a href="http://www.steelers.com/espanol/espanol.html">Español</a></li>
+<li><a class="null" title="Employment" href="http://www.steelers.com/tickets-and-stadium/employment.html">Employment</a><span>|</span><a class="null" title="Contact Us" href="http://www.steelers.com/footer/contact-us.html">Contact Us</a><span>|</span><a class="null" title="Radio" href="http://www.steelers.com/video-and-audio/radio-show.html?ooooooo" mce_href="http://www.steelers.com/video-and-audio/radio-show.html?ooooooo">Radio </a><a title="Radio" href="http://www.steelers.com/video-and-audio/radio-show.html?ooooooo" mce_href="http://www.steelers.com/video-and-audio/radio-show.html?ooooooo"><span><span title="Radio" mce_href="http://www.steelers.com/video-and-audio/radio-show.html?ooooooo" href="http://www.steelers.com/video-and-audio/radio-show.html?ooooooo"></span></span></a></li>
 </ul>
-<div class="footer-copywrite">© 2012 Pittsburgh Steelers. All Rights Reserved</div>
+<div class="footer-copywrite">© 2013 Pittsburgh Steelers. All Rights Reserved</div>
 </div>
-<div class="google-plus" style="float: left; display: block; margin-left: 25px; margin-top: 47px;"><a href="https://plus.google.com/105180819222641832102?prsrc=3" style="text-decoration: none;"><img src="https://ssl.gstatic.com/images/icons/gplus-64.png" style="border: 0;" height="32" width="32"></a></div>
 <div class="footer-promo"><a class="null" title="Book an Event" href="http://www.steelers.com/tickets-and-stadium/book-an-event.html"><span>Promo Link</span></a></div>
 </div>
-<div class="ad-bottom" rev="">
-            <nflcs:ad data-adtype="adj" data-width="1" data-height="3" data-suite="team.pit" data-customparams="" class="ad-bottom">
-                <param name="nfl" value="ad">
-            </nflcs:ad>
-        </div>
-    
                     
                 
             
