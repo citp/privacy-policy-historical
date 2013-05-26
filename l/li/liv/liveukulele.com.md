@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the liveukulele.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524002205id_/http%3A//liveukulele.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liveukulele.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526190423id_/http%3A//liveukulele.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Live 'Ukulele
+# Privacy Policy
 
 Except as disclosed in these Terms, Live ‘Ukulele does not sell or disclose any personally identifiable information it collects about its users nor does it make it possible for third parties to contact its users directly.
 
