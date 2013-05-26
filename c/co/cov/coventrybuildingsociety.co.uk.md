@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coventrybuildingsociety.co.uk privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003020440id_/http%3A//www.coventrybuildingsociety.co.uk/your-society/important-info/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coventrybuildingsociety.co.uk privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527015509id_/http%3A//www.coventrybuildingsociety.co.uk/your-society/important-info/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy and cookies policy | Coventry Building Society
 
@@ -35,7 +35,7 @@ We may use the information we hold for staff training purposes and computer syst
 
 From time to time we'll tell you about new accounts or services. You can choose not to receive this information when you open your account. You can change your instructions at any time, by writing to us with details of your savings and/or mortgage account number(s), to Mortgage and Investment Services, Coventry Building Society, PO Box 9, Coventry, CV1 5QN.
 
-However, we will continue to send notice of General Meetings if you are eligible to vote, and where appropriate information about your account and interest rate changes.
+However, we will continue to send notice of Annual General Meetings if you are eligible to vote, and where appropriate information about your account and interest rate changes. 
 
 ## Who we share your data with
 
