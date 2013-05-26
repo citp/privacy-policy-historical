@@ -1,100 +1,123 @@
-> *The following text is extracted and transformed from the readygraph.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readygraph.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526052717id_/http%3A//www.readygraph.com/tos/privacy) for the most accurate reproduction.*
 
-# Legal Agreement
+# ReadyGraph
 
-**Go Daddy Respects Your Privacy**
+**Privacy Policy**
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+This Privacy Policy describes the personal information (“Information”) collection and use procedures for the ReadyGraph mobile application and our website, located at www.ReadyGraph.com (collectively or separately, the “Service”). This notice describes how such Information may be used or disclosed by ReadyGraph.  Capitalized terms not defined in this Privacy Policy have the meanings set forth in the Terms of Service.   Please note that for data collected through the ReadyGraph application, ReadyGraph is acting as a data processor and service provider and collecting the data on behalf of our business clients (“Clients”).
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+_Overview_
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+Except as described below, ReadyGraph does not collect or require users of the Service to furnish personal information. Like most websites, ReadyGraph collects non-personal information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring/exit pages, and the date and time of each visitor request, browser type, and operating system. Ready Graph’s purpose in collecting non-personal information is to better understand how ReadyGraph’s visitors use its website. From time to time, ReadyGraph may release non-personal information in the aggregate, for example, by publishing a report on trends in the usage of its service.
 
-**Information Collection and Use**
+ReadyGraph also collects potentially personal information like IP addresses. ReadyGraph does not use such information to identify its visitors, however, and does not disclose such information, other than under the same circumstances that it uses and discloses personal information, as described below.
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+As part of the operation of the Service, we collect and may disclose information about you. By accepting and using the Service, you consent to our use and disclosure of your personal information as described in this Privacy Policy. This Privacy Policy is incorporated into and subject to the Terms of Service.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+You should review this Privacy Policy frequently as ReadyGraph may update the Privacy Policy at any time by posting the revised version of this Privacy Policy on or through the Service.  Your continued use of the Service after such notice constitutes your consent to the revised Privacy Policy. 
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+_Information We Collect_
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+In connection with the Service, we may collect Information in the following ways:
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+•           Through registration forms filled out by a user through the Service
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+•           Through Information provided by a user in connection with the purchase of products via the Service
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+•           Through the maintenance and analysis of Web server logs
 
-**Security**
+•           Via communications between a user and us
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+·             Through our use of third-party databases from which user Information is extracted and   combined with Information obtained by us through the Service
 
-**Updating Your Information**
+In connection with the Service, the types of Information about a user that we collect may include the following:
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+•           Name and/or Business Name
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+•           Postal address
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+•           E-mail address
 
-      iii.      You may call us at: (480) 505-8800
+•           Telephone number
 
-       iv.      You may fax us at: (480) 505-8844
+•           Payment information (e.g. credit card numbers and billing addresses), if purchases or payments are made
 
-**Sending Emails**
+•           Date of Birth/Age
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+•           Other technical information collected by the Service’s servers.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+When you register for the Service you will be prompted to submit some personal information. We may retain in our files information you have requested be removed from our active databases for certain purposes, such as to resolve disputes, troubleshoot problems and enforce the Terms of Service. Moreover, such prior information may never be completely removed from our databases due to technical and legal constraints, including stored ‘back up' systems. You should not expect that all of your Information will be completely removed from our databases in response to your request.
 
-**Compliance with Laws and Law Enforcement**
+_Control of Your Password/Authentication Mechanism_
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+You are responsible for all actions taken with your login information and password, including any fees or charges incurred based on such use. If you choose to share this information with a third party, you are responsible for all actions taken with your login information and password by such third party. If you believe your password has been disclosed to third parties or otherwise compromised in any way you should immediately change your password. You should be sure to maintain the control and security of your device at all times to prevent unauthorized use. 
 
-**Third Party Service Providers**
+We urge you to take steps to protect yourself as well. For example, select a neutral username that does not include your name or other personally identifiable information. To learn more about how to protect yourself online, we encourage you to visit government websites that address these issues.
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+_A Special Note About Children_
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+The Service is not intended for users under the age of 13, nor do we knowingly collect or retain Information in connection with the Service from children under the age of 13. If you are a parent and believe that your child has submitted information to ReadyGraph, please contact us.
 
-**Supplementation of Information**
+_Tracking Technologies_
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+We also uses passive tracking technologies to log non-identifiable information such as IP address, browser type and usage of the ReadyGraph website. The information collected in this manner is used for Service maintenance and development. We may also employ "cookies" or similar technologies to provide additional functionality to our website and help us analyze the site usage more accurately. Some of the features on our webite will only function if your browser is set to accept cookies. Thus, if you decline to accept cookies, certain features of our website may not operate properly.
 
-**Contests/Surveys**
+_Push Notification Policies_
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+We may send you periodic updates regarding the use of the Service through push notifications. These notifications may impact the data limits set by your provider. You may disable these notifications from the iOS “Settings” application on your device.
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+_Our Use and Sharing of Information_
 
-**Tell-A-Friend**
+ReadyGraph has functionality where we may collect some of your personal information through the Facebook Connect and the Graph API. Your data will be shared with us from Facebook. We use Facebook Connect or an Open ID provider to authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form and to post information about your activities on this Web site to your profile page to share with others within your network.
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+For our Facebook applications we also use Facebook Permissions in order to give you the option to share personal information like your activities and interests as well as the authorization to post information about your activity to your profile page.  All personal information that may be collected is done so via an iframe or through a Facebook application on behalf of our client. Please refer to the privacy policy on the site/iframe where this data is collected.
 
-**What Happens to my Personal Information if I Opt Out?**
+If you post on a public forum, you should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us as described below.  In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+We may use Information collected in connection with the Service in the following ways:
 
-**Transfer of Data Abroad**
+•           To provide requested information, products and services to users via the Service or through other online or offline channels
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+•           To improve the user experience with the Service
 
-**Changes in Our Practices**
+•           To otherwise operate the Service and our internal business
 
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+•           To enable users to obtain information and offers for products and Services offered by us as well as selected third parties.
 
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+In order to do the foregoing, we may provide the Information to third party service providers who help us bring you the services we offer, including but not limited to the operation of the Service, financial verification and payment services, communication services and fulfillment of orders, and information verification.  We will use commercially reasonable efforts to limit use of the Information by such third parties to the provision of the services to us. These third parties may include the credit card companies and banking institutions used to process and support your transactions. By purchasing, or registering for, or making reservations for products or services of third parties offered on the Service, or by participating in programs offered on the Service that are administered by third parties and that require you to submit financial information in order to use them, you consent to our providing your financial information to those third parties. These third parties will be authorized to use your financial information in accordance with our contractual arrangements with such third parties and in accordance with their own privacy policies, over which we have no control, and you agree that we are not responsible or liable for any of their actions or omissions.
 
-**Contacting Our Site**
+Although we use industry-standard efforts to protect the Information we collect via the Service, we cannot guarantee that this information will not be accessed by the government or third parties in certain circumstances. We may be required by law to disclose information to the government, law enforcement agencies or third parties. You authorize us to report consumer transaction data to third parties for fraud prevention services. In addition, third parties may unlawfully intercept or access transmissions or private communications and other services may abuse or misuse your information that they collect from the Service. Accordingly, you should not expect that your Information or private communications will remain private in all circumstances.
 
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+We use information in the data files we maintain about you, and the other information we obtain from your current and past activities on the Service to resolve disputes, troubleshoot problems and enforce the Terms of Use. We may review the data of multiple users to identify problems or resolve disputes.
 
-* * *
+We aggregate Information of our users and disclose such information in a non-personally identifiable manner to advertisers and other third parties for marketing and promotional purposes. We do not disclose to these entities any information that could be used to identify you personally. We do not disclose certain Information, such as your name, email address, password, credit card number and bank account number, to marketing advertisers. 
 
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+We may share data collected via the Service, including Information about you, with our parent, affiliates, or subsidiaries. Our parent, affiliates and subsidiaries will follow privacy practices no less protective of such Information than our practices described in this Privacy Policy. It is possible that we could merge with or be acquired by another business entity. Should such merger or acquisition occur, we would share some or all of your Information with the merger partner or acquiring party. The acquiring entity or newly combined entity will follow the practices disclosed in this Privacy Policy with respect to such information.
+
+_Fraud_
+
+Without limiting any other remedies, ReadyGraph may suspend or terminate your account if it suspects that you (by conviction, settlement, insurance or escrow investigation, or otherwise) have engaged in fraudulent activity in connection with the ReadyGraph service.
+
+_Restricted Activities_
+
+Your use of the ReadyGraph service shall not: (a) be false, inaccurate or misleading; (b) be fraudulent or involve the sale of illegal services or items; (c) infringe any third party’s copyright, patent, trademark, trade secret or other proprietary rights or rights of publicity or privacy; (d) violate any applicable law, statute, professional code of conduct, ordinance or regulation (including, but not limited to restrictions on sharing of fees, restrictions on giving referral fees, consumer protection, unfair competition, antidiscrimination or false advertising); (e) be defamatory, trade libelous, unlawfully threatening or unlawfully harassing; (f) be obscene or contain child pornography; (g) contain any viruses, Trojan horses, worms, time bombs, cancelbots, easter eggs or other computer programming routines that may damage, detrimentally interfere with, surreptitiously intercept or expropriate any system, data or personal information; (h) create liability for us or cause us to lose (in whole or in part) the services of our ISPs or other suppliers; and (i) link directly or indirectly to or include descriptions of goods or services that are prohibited under this Agreement or ones that you do not have a right to link to or include.
+
+_License_
+
+Solely to enable ReadyGraph to use the information you supply us with, so that we are not violating any rights you might have in that information, you agree to grant us a non-exclusive, worldwide, perpetual, irrevocable, royalty-free, sub-licensable (through multiple tiers) right to exercise the copyright, publicity, and database rights (but no other rights) you have in your information, in any media now known or not currently known, with respect to your information. ReadyGraph will only use your information in accordance with our Privacy Policy.
+
+_Third Party Use of Information_
+
+This Privacy Policy only addresses the use and disclosure of information we collect from you. If you disclose your Information to other parties, whether via the Service or on sites throughout the Internet, different rules may apply to their use or disclosure of the information you disclose to them. We do not control the privacy policies of any third parties so you should investigate their policies before you disclose your Information to them.
+
+Information you submit will be used to respond to your request. We may also use your information for other legitimate business purposes, including sending you notices about ReadyGraph, its products and services, or asking for your input and feedback on our products and services. 
+
+_Email Policies_
+
+By default, we will send you periodic updates of various site information including occasional site announcements. You have full control regarding which of these emails you want to receive. To change your options, simply click "Unsubscribe" link from any email. 
+
+_Contact Information_
+
+Social Nation, Inc. PO Box 1315 Millbrae, CA 94030 support@readygraph.com +1 (657) GO-GRAPH 
+
+Last Updated 03/11/2013
