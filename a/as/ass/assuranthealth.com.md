@@ -1,17 +1,9 @@
-> *The following text is extracted and transformed from the assuranthealth.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603092424id_/http%3A//www.assuranthealth.com/corp/ah/aboutassuranthealth/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the assuranthealth.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527004446id_/http%3A//www.assuranthealth.com/corp/ah/aboutassuranthealth/privacypolicy) for the most accurate reproduction.*
 
 # Assurant Health Privacy Policy
 
-[HIPAA Privacy Notice](http://www.assuranthealth.com/corp/ah/HIPAA/HIPAAPrivacyNotice.htm)  [
-
-Individual Rights and Forms
-
-](http://www.assuranthealth.com/corp/ah/aboutassuranthealth/hipaa)
-
-[HITECH Business Associate Information](http://www.assuranthealth.com/corp/ah/AboutAssurantHealth/HITECH-FAQ)
-
- **  
-Online Privacy Policy** If You are an individual consumer located in California or other applicable state (if any), this notice is given to You pursuant to state law. It addresses personally identifiable information collected by Us about You when You visit or use this Site.
+[  
+HIPAA Privacy Notice](http://www.assuranthealth.com/corp/ah/HIPAA/HIPAAPrivacyNotice.htm)  **Online Privacy Policy** If You are an individual consumer located in California or other applicable state (if any), this notice is given to You pursuant to state law. It addresses personally identifiable information collected by Us about You when You visit or use this Site.
 
 Assurant Health and its affiliated companies are committed to protecting the personal information entrusted to us by consumers who visit our website. The trust you place in us when you share personal information and/or the personal information of another person or entity is a responsibility we take very seriously and is the cornerstone of how we conduct our business.
 
