@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the playdemic.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118120316id_/http%3A//playdemic.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playdemic.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526151824id_/http%3A//playdemic.com/privacy.html) for the most accurate reproduction.*
 
-# Playdemic | Privacy Policy
+# Playdemic
 
-****[CLICK HERE TO READ OUR TERMS OF SERVICE.](https://web.archive.org/terms-of-service.aspx "Terms of Service")****
+****[CLICK HERE TO READ OUR TERMS OF SERVICE.](https://web.archive.org/web/20130526151824id_/http%3A//playdemic.com/tos.html)****
 
-**NOTICE: We have updated our Privacy Policy and[Terms of Service](https://web.archive.org/terms-of-service.aspx "Terms of Service") as of 17 May 2012.**
+**NOTICE: We have updated our Privacy Policy and Terms of Service  as of 17 May 2012.**
 
 **Our updated Privacy Policy is below.**
 
