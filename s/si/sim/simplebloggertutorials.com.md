@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the simplebloggertutorials.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014063648id_/http%3A//www.simplebloggertutorials.com/p/privacy-policy_29.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplebloggertutorials.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526160707id_/http%3A//www.simplebloggertutorials.com/p/privacy-policy_29.html) for the most accurate reproduction.*
 
-# Privacy Policy - Simple Blogger Tutorials
+# Privacy Policy | Simple Blogger Tutorials
 
 Privacy Policy for Simple Blogger Tutorials (http://www.simplebloggertutorials.com/) 
 
