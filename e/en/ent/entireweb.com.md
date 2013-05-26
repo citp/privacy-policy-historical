@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the entireweb.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230181015id_/http%3A//www.entireweb.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entireweb.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527004645id_/http%3A//www.entireweb.com/about/privacy) for the most accurate reproduction.*
 
 # About - Privacy Policy
 
@@ -30,9 +30,13 @@ Entireweb is strongly committed to protecting the privacy of consumers of its in
 
 Entireweb strictly enforces a no tolerance policy when it comes to spam. We prohibit the sending of unsolicited mass messages of any kind.
 
-If you have received unwanted, unsolicited email sent via Entireweb.com, please verify that the email originated from our servers by checking the IP-number (our IP is 89.150.197.*) and report it [here](http://www.entireweb.com/contact/) (Please include the header of the spam).
+If you have received unwanted, unsolicited email sent via Entireweb.com, please verify the IP-number and report it [here](http://www.entireweb.com/contact/) (Please include the header of the spam).
 
 To be removed from our Newsletter, please click the link in the bottom of the Newsletter.
+
+### Opt Out Policy
+
+We respect your right to receive only emails from us that you wish to receive. Beyond order or transaction-related emails, you will always have the opportunity to decline receiving email from us by. Any special interest email you may receive will include "opt out" or "unsubscribe" links. If you choose to "opt out," we will immediately remove you from our promotional email address list.
 
 ### Disclosure
 
