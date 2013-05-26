@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the themastercleanse.org privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223153444id_/http%3A//themastercleanse.org/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themastercleanse.org privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527000341id_/http%3A//themastercleanse.org/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The Master CleanseThe Master Cleanse
+# The Master Cleanse and The Lemonade Diet
 
 Last Updated: December 21th, 2010 
 
