@@ -1,47 +1,91 @@
-> *The following text is extracted and transformed from the starbucks.com.sg privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125223924id_/http%3A//www.starbucks.com.sg/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starbucks.com.sg privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526102222id_/http%3A//www.starbucks.com.sg/privacy-statement.html) for the most accurate reproduction.*
 
 # Starbucks Singapore: Privacy Statement
 
-Dated 7 October 2010
+Last updated 28 April 2013
 
-The Starbucks name and reputation were built on a foundation of trust. Therefore, this online privacy policy tells you about the information Starbucks collects through the services available on our web site, Starbucks.com.sg (the "Site"), how we use that information and how you can opt out of certain uses of information we may collect. By using our services and accessing our Site, you are consenting to the information collection and use practices described in this policy, as modified from time to time by us. If we decide to change our privacy policy, we will post a new policy on our Site and change the date at the top of the policy. Therefore, we encourage you to check the date of our privacy policy whenever you visit this Site for any updates or changes. Please see our Terms of Use for a more detailed legal explanation of our general online policies. 
+The Starbucks name and reputation were built on a foundation of trust. This Starbucks Privacy Policy ("Policy") describes how Starbucks Coffee Singapore Pte Ltd and its parent and other affiliated companies ("Starbucks") collects, uses and discloses personal information of customers through our websites and online services, including [www.starbucks.com.sg](http://www.starbucks/com.sg), mobile applications, and other Starbucks owned or operated websites and online services that link to this Policy (collectively, the “Sites”), through our programs and in our physical stores ("Services"). This Policy does not apply to websites and services that display or link to different privacy statements. Websites and services co-branded with other partners may display or link to a joint privacy statement or separate privacy statements of our partners in addition to our Policy. By accessing the Sites or utilising the Services, you hereby consent to the use of your information, including your personal information, in the manner described in this Policy. Without limiting the generality of the foregoing, you authorise Starbucks to transmit your information outside of Singapore in the manner and for the purposes described in this Policy.
 
-If you have any questions about our privacy policy or our use of your information you can e-mail us at [customer@starbucks.com.sg](mailto:customer@starbucks.com.sg)
+**What Types of Information Does Starbucks Collect?**  
+Personal Information that may be collected by Starbucks may include:
 
-**Information About You**  
-We collect several types of information on our Site. We collect "Personal Information", which generally speaking is information that can be used to identify you individually, such as your name and address. We also collect "Non-personal Information", which is information about you that does not itself identify you individually. Examples of Non-personal Information include age range and gender. We also collect "Aggregate Information", which is information about use of our site, such as pages visited on our Site. The information we collect depends on what services you use on our Site. 
+• Name, postal address, phone number, and e-mail address.  
+• Financial account information, such as credit card number and other payment information. 
 
-**Customer Service Correspondence**  
-We may collect information that identifies you personally when you submit comments, questions or suggestions to our Customer Service department. 
+We may also collect information about you such as:   
+• If you create an account - your username, password, your city of birth, your birthday, gender, nationality and mobile phone number.  
+• If you buy goods at our stores or through our programs or otherwise - what you buy, where you buy, how frequently you buy, rewards you earn, and reward you redeem.  
+• If you register any Starbucks Card – the card number, card transactions, including activating the Starbucks Card, loading value to the Starbucks Card, redeeming any value, balance transfer, balance enquiries.   
+• If you use our mobile applications - information such as your device ID, your location and stores near you and visited by you may be collected.  
+• If you take a survey or interact with us in various other ways - demographics information, your comments, feedback, questions or suggestions, and information about subjects that may interest you. 
 
-**Curriculum Vitae ("CV")**  
-If you are interested in applying for a job with Starbucks, we may collect your CV. CV's you submit for job applications will not be used for marketing purposes. Please see the Data Protection Notice section below. 
+We may automatically collect online use information when you visit our Sites or use our Services. This information may include information about your Internet service provider, your operating system, browser type, domain name, Internet protocol (IP) address, your access times, the website that referred you to us, the Web pages you request, and the date and time of those requests. Our collection of online use information may involve the use of cookies and Web beacons. Cookies are small data files stored on your hard drive by a website. Among other things, cookies help us improve our Sites and your experience. We use cookies to see which areas and features are popular and to count visits to our Sites. Web beacons are electronic images that may be used on our Sites or in our emails. We use Web beacons to deliver cookies, count visits, understand usage and campaign effectiveness and to tell if an email has been opened and acted upon.
 
-**Data Protection Notice - Starbucks' Use of Your Personal Information**  
-Starbucks respects privacy and seeks to protect your Personal Information and deal with any Personal Information received in accordance with industry best practices. Except as disclosed in this policy, we do not sell or disclose information that identifies our guests personally or makes it possible for other parties to contact them directly without our guests' consent. We may use, sell, disclose, or otherwise dispose of Personal Information we collect in the following circumstances:
+Starbucks may also collect aggregated data or anonymized data that does not directly identify you. 
 
-• Internal Analysis and Promotions. We may use information about you for our own internal statistical, design, operational purposes such as to estimate our audience size; measure aggregate traffic patterns; and understand demographic, customer interest and other trends among our guests and customers.  
-• Company Sale. Information collected through our Site is considered a trade secret of Starbucks. As the owner of such information, we may disclose or sell such information as an asset of the company in conjunction with the sale to a third party of our company or a portion of our assets.  
-• Curriculum Vitae. Any Curriculum Vitae sent to us by you in response to a job application advertised on this Site shall be used for our own internal purposes in order to fill the position advertised on this site. However, Starbucks may hold the Personal Information supplied by you for a reasonable period thereafter in order to notify you of any similar positions that may become available. Any Personal Information collected by Starbucks will be stored in its internal databases, such as its Human Resources database for reference. The information may be retained and used by Starbucks for a reasonable period and in accordance with industry best practices. 
+We may combine information we collect about you with information we receive from third parties.
 
-**Starbucks may share Personal Information with any of its group companies.**  
-In the event that you submit any Personal Information to the Site you can request to assess the Personal Information stored by Starbucks about you by emailing us at [customer@starbucks.com.sg](mailto:customer@starbucks.com.sg). Starbucks may charge up to the maximum amount permissible at any time for this. 
+**How Does Starbucks Use Information About You?**  
+Starbucks may use information about you for purposes described in this Policy or disclosed to you on our Sites or with our Services. For example, we may use information about you to: 
 
-**Aggregate Information**  
-We collect Aggregate Information about you and your use of our Site whenever you visit us online. For instance, we may collect various forms of "click stream" information such as entry and exit points for our Site (i.e., referring URLs or domains), site traffic statistics, page views, impressions, and operating system and browser type. In addition, when users request pages on our Site, our servers automatically log their IP addresses. An IP address is a number that is automatically assigned to your computer whenever you are surfing the Web. This Aggregate Information generally will not personally identify you or be correlated to you individually for external purposes. We may collect, compile, store, publish, promote, report, sell, or otherwise disclose or use any and all Aggregate Information, provided that, such information does not personally identify you. When we share such information with other companies, it is not traceable to any particular user, and will not be used to contact you. If we do correlate any Aggregate Information to you, such information will be treated like any other Personal Information under this policy. 
+• Process and manage your purchase and use of Starbucks products and services, including your accounts and program participation, your use of the Sites.   
+• Respond to your customer service inquiries, post your comments or statements on any blog or other online forum maintained on our Sites, or take other actions in response to your inquiries or other Site activities.  
+• Create personalized promotions by combining your personal information with non personal information about you, such as the amounts and types of purchases you make or any benefits you receive through our programs.  
+• Communicate with you by post, telephone, email and SMS about your orders or purchases, your services, accounts and program participation, a contest or sweepstakes you have entered, and your requests for information.   
+• Communicate with you by post, telephone, email and SMS about our brands, products, events or other promotional purposes, including co-branded offers and affiliate and partner offers. 
 
-**Cookies**.   
-We may make use of "cookies" on our Site. Cookies are small text files that are stored on a user's computer by a Web server based on the permissions set in a user's browser software. A cookie itself is not designed or intended to read any information from a user's computer (other than the contents of the cookie); rather, it is an identifier used by the Web site that originally placed it on your hard drive. The actual contents of the cookie information can be retrieved by the same server to identify the computer and subsequently to customise, monitor, or regulate the use of a site based on information stored on the host server. Therefore, cookies only identify the user's computer to the Web site which may correlate other information, including personally identifying information with the cookie. 
+The data that we collect from you may be transferred to, and stored at, a destination outside Singapore. 
 
-We use cookies to allow us to automate access and data entry functions of our Site such as, tailoring the Site to your preferences or interests, or customise promotions or marketing. In addition, cookies allow us to track use of the Site to determine those areas which are useful or popular and those that are not thereby enabling us to improve and update the Site effectively. 
+**Does Starbucks Share Personal Information with Third Parties?**
 
-You may adjust your Web browsers to either alert you of the use of cookies or refuse to accept cookies entirely. For Internet Explorer or AOL users, you can click on the "Start" button and then select Control Panel, Internet Options and the Security tab. If you click on the "Custom" button, you will be able to see the cookie options. For Netscape users, in the browser, select File, Preferences and then Advanced to view the cookie options. Be aware that if you elect not to accept cookies, the Site may not function properly or permit access. 
+Starbucks shares your personal information in limited ways. 
 
-**Links to Other Sites**  
-Please be aware that we provide links to third-party Web sites as a service to our guests, and that we are not responsible for the content or information collection practices of those pages. Please note that these Web sites' privacy policies may differ from those of Starbucks. We encourage you to review and understand their privacy practices before providing them with information. 
+• We may share personal information about you with others with your consent.  
+• We may share information with our parent and other affiliated companies.  
+• We may also share information with companies that provide support services to us (such as credit card processors or other payment services providers, mailing houses or website hosts) and that help us market our products and services (such as email vendors). These companies may use information about you to perform their functions on our behalf.   
+• We may disclose specific information (i) upon lawful request, in response to legal process, and when required to comply with laws, (ii) to enforce our agreements, corporate policies, and terms of use or (iii) to protect the rights, property or safety of Starbucks, our employees, agents, customers, and others.  
+• If you participate in any blog or other online forum on our Sites, any personal information that you post on our Sites may be shared with other forum participants and Site visitors.   
+• In the event of a merger, acquisition, financing, or sale of assets or any other situation involving the transfer of some or all of our business assets, Starbucks may disclose personal information to those involved in the negotiation or transfer.   
 
-**Children**  
-Our Site is a general audience site that is not designed nor intended to collect Personal Information from children. We ask that parents supervise their children while online. 
 
-**Security**  
-We use commercially reasonable efforts to store and maintain Personal Information to protect it from loss, misuse, alteration or destruction by any unauthorized party. 
+We may also share aggregated or anonymized information that does not directly identify you. 
+
+**What Choices Does Starbucks Offer About Personal Information?**
+
+Starbucks offers choices for you to request to update or change your personal information and how we communicate with you. Here are some of the ways you can request changes: 
+
+• Follow the opt-out instructions in promotional emails we send you.  
+• Log in to your online account via either www.starbucks.com.sg or our mobile application, if you have one, and visit the Manage My Account section and then the Personal Info sub-section to manage your contact information (e.g., SMS text, email and postal address) preferences and to update your personal information.   
+
+
+If you opt out of receiving promotional communications from us, we may still send you non-promotional communications such as emails about your accounts or our ongoing business relations. 
+
+You can usually choose to set your browser to warn you when a cookie is being sent or to remove or reject cookies. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookie settings. If you choose to remove or reject cookies, it will affect many features or Services on our Sites. 
+
+**How is Personal Information Secured?**
+
+Starbucks takes reasonable steps to maintain appropriate physical, technical and administrative security to help prevent loss, misuse, unauthorized access, disclosure or modification of personal information.
+
+While we take these reasonable efforts to safeguard your personal information, no system or transmission of data over the Internet or any other public network can be guaranteed to be 100% secure.
+
+**Privacy Policy Updates**
+
+We may update this privacy policy from time to time. When we do so, we will post the new privacy policy on this page and change the date at the top of the policy. 
+
+We encourage you to check the date of our privacy policy when you visit this Site for any updates or changes. We will notify you of any modified versions of the privacy policy that might materially affect the way we use or disclose your personal information. 
+
+**Questions and Feedback**
+
+We welcome your questions, comments and concerns about privacy. You may contact us at:
+
+Starbucks Coffee Singapore Pte Ltd  
+Customer Care (customer@starbucks.com.sg)  
+401 Commonwealth Drive   
+#01-04/05, Haw Par Technocentre  
+Singapore 149598  
+
+
+Singapore Toll-Free Number: (65) 1800-782-7282   
+Mondays to Fridays: 10am to 5pm   
+Closed on public holidays.  
+
