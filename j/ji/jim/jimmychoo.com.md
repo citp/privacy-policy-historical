@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the jimmychoo.com privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125063515id_/http%3A//www.jimmychoo.com/legal-terms/page/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jimmychoo.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526100134id_/http%3A//www.jimmychoo.com/legal-terms/page/terms) for the most accurate reproduction.*
 
 # Legal Terms | Jimmy Choo
 
 **USE OF SITE**
 
-Use of this Site, which is owned by J. Choo Limited (JCL) of 4 Lancer Square, Kensington Church Street, London W8 4EH United Kingdom (Company Registered Number: 3185783) (VAT Number: GB 849150905), is subject to the following legal terms. 
+Use of this Site, which is owned by J. Choo Limited (JCL) of 10 Howick Place, London, SW1P 1GW United Kingdom (Company Registered Number: 3185783) (VAT Number: GB 849150905), is subject to the following legal terms. 
 
 Copyright and all other intellectual property rights in both the content of this Site owned by JCL and licensed to JIMMY CHOO (OS) Limited. Copyright © 2006 J. Choo Limited. Except as expressly set out below, all rights reserved. 
 
