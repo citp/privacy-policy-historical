@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the altredo.com privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203060049id_/http%3A//www.altredo.com/altredo_privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the altredo.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526102356id_/http%3A//altredo.com/altredo_2013_privacy_policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - ALTREDO
+# Privacy Policy | Altredo
+
+## Privacy Plolicy
 
 We take your privacy seriously the interaction with clients at Altredo is based on principles of confidentiality. This privacy statement discloses the type of information we gather and to create secure operating conditions. 
 
