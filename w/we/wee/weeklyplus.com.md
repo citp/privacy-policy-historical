@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weeklyplus.com privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217091345id_/http%3A//www.weeklyplus.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weeklyplus.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526084942id_/http%3A//www.weeklyplus.com/legal/privacy.php) for the most accurate reproduction.*
 
 # WeeklyPlus.com Privacy Policy
 
