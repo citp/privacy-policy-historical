@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the nabiscoworld.com privacy policy that was archived on 2012-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120930204256id_/http%3A//www.nabiscoworld.com/misccontent/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nabiscoworld.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526083052id_/http%3A//brands.nabisco.com/MiscContent/privacy_policy.aspx) for the most accurate reproduction.*
 
-# NabiscoWorld.com
+# Mondelēz International
 
 |  |  |   
 ---|---|---  
-Effective Date: 01/18/2005  
-**NabiscoWorld.com Privacy Notice**  
-This website is owned and operated by Kraft Foods Global, Inc. At Kraft, we recognize that visitors to our site may be concerned about the information they provide to us and how we handle that information. We’ve prepared this website Privacy Notice to address those concerns. This notice relates only to information collected through this website.  
+Effective Date: 10/01/2012  
+**MONDELĒZ INTERNATIONAL Privacy Notice**  
+This website is owned and operated by Mondelēz International, we recognize that visitors to our site may be concerned about the information they provide to us and how we handle that information. We’ve prepared this website Privacy Notice to address those concerns. This notice relates only to information collected through this website.  
   
   * Information We Collect
     * Personally-Identifiable Information
@@ -56,17 +56,17 @@ Like many companies, we use “cookies” on our website. Cookies are bits of te
 
 When you visit our website, cookies are placed on your computer. We use cookies to tell us, for example, whether you’ve visited us before or if you’re a new visitor and to help us identify site features and recipes in which you may have the greatest interest. We collect this information to enhance your experience on our website.
 
-The “help” portion of the toolbar on most browsers will tell you how to stop accepting new cookies, how to be notified when you receive a new cookie, and how to disable existing cookies. Remember, though, without cookies, you may not be able to take full advantage of all of Kraft’s website features.  
+The “help” portion of the toolbar on most browsers will tell you how to stop accepting new cookies, how to be notified when you receive a new cookie, and how to disable existing cookies. Remember, though, without cookies, you may not be able to take full advantage of all of Mondelēz International website features.  
   
 _**Web Beacons**_  
 Certain pages on our site contain “web beacons” (also known as Internet tags, pixel tags and clear GIFs). These web beacons allow third parties to obtain information such as the IP address of the computer that downloaded the page on which the beacon appears, the URL of the page on which the beacon appears, the time the page containing the beacon was viewed, the type of browser used to view the page, and the information in cookies set by the third party.  
 **_How We Use Personally-Identifiable Information_**  
-We may use the information you provide to contact you from time to time. For example, we may (i) send you promotional materials and other communications you request, (ii) respond to your comments or questions, or (iii) contact you if needed while processing a product or service you requested through our website. We also may use the information you provide to contact you for your opinions on Kraft products or the website.
+We may use the information you provide to contact you from time to time. For example, we may (i) send you promotional materials and other communications you request, (ii) respond to your comments or questions, or (iii) contact you if needed while processing a product or service you requested through our website. We also may use the information you provide to contact you for your opinions on Mondelēz International products or the website.
 
 We also use personally-identifiable information about you to improve our website features and content and to analyze website usage. In addition, we use personally-identifiable information for market research purposes if you give us permission to do so.  
   
 **_How We Share Personally-Identifiable Information_**  
-Except as described below, we don’t sell, transfer or otherwise disclose to third parties the personally-identifiable information we collect on this website without your prior consent. We disclose information where we think it’s necessary to investigate or prevent an actual or suspected crime or injury to ourselves or others or where disclosure is required by law. We also may disclose information in response to a request from law enforcement authorities or other government officials. We also disclose information to third parties we retain to perform services on our behalf. For example, we hire service providers to help us run promotions, fulfill orders you may place and provide customer service. These service providers may have access to personally-identifiable information about our website visitors if it is needed to perform their functions for Kraft, but they are not authorized by Kraft to use the information for their own marketing purposes.
+Except as described below, we don’t sell, transfer or otherwise disclose to third parties the personally-identifiable information we collect on this website without your prior consent. We disclose information where we think it’s necessary to investigate or prevent an actual or suspected crime or injury to ourselves or others or where disclosure is required by law. We also may disclose information in response to a request from law enforcement authorities or other government officials. We also disclose information to third parties we retain to perform services on our behalf. For example, we hire service providers to help us run promotions, fulfill orders you may place and provide customer service. These service providers may have access to personally-identifiable information about our website visitors if it is needed to perform their functions for Mondelēz International, but they are not authorized by Mondelēz International to use the information for their own marketing purposes.
 
 On our website, we may conduct joint promotions with other companies. We may share with our promotional partners (and their service providers) certain personally-identifiable information as necessary to conduct the promotion. We will not share this information with our promotional partners for any other purpose unless you tell us it’s ok to do so.
 
@@ -75,7 +75,7 @@ We reserve the right to transfer any information we have about you in the event 
 **_Links To Other Websites_**  
 This website may contain links to other websites. We provide these links solely for your convenience and information. Different websites have different privacy practices. You should always check the privacy notice of the specific site you’re visiting to understand the privacy practices associated with that site.  
 **_Your Choices_**  
-You can change your preferences for follow-up contacts by Kraft. If you’re registered with this site, you can change the information you’ve provided to us in the registration section of the site. If you prefer, you can cancel your registration altogether. E-mail us if you wish to take this action.   
+You can change your preferences for follow-up contacts by Mondelēz International. If you’re registered with this site, you can change the information you’ve provided to us in the registration section of the site. If you prefer, you can cancel your registration altogether. [E-mail](http://mdlz.custhelp.com/) us if you wish to take this action.   
 **_Children's Privacy_**  
 This website may appeal to kids under 13. Our conduct on the website is governed by federal law and regulations that address children’s online privacy, as well as by the guidelines of the Children’s Advertising Review Unit (CARU), a part of the Council of Better Business Bureaus.
 
@@ -92,15 +92,14 @@ We may change or update portions of this Privacy Notice at any time. Please chec
 **_How To Contact Us_**  
 If you have any questions about this Privacy Notice, you can contact us at:
 
-Kraft Foods Global, Inc.  
-1 Kraft Court  
-Glenview, IL 60025  
-Attention: Consumer Relations Group  
-1-800-543-5335  
-(9 a.m. - 5 p.m. Eastern Time, Monday through Friday, excluding holidays.)
+Mondelēz Consumer Relations  
+Post Office Box Y  
+Wilkes-Barre, PA 18703  
+1-855-535-5948  
+(9 a.m. - 6 p.m. Eastern Time, Monday through Friday, excluding holidays.)
 
-E-mail us 
+[E-mail us ](http://mdlz.custhelp.com/)
 
 We would be happy to answer your questions or hear your concerns.
 
-© 2012 KF Holdings. 
+© Mondelēz International and/or its affiliate(s). 
