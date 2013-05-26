@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slh.com privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127034037id_/http%3A//www.slh.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slh.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526225022id_/http%3A//www.slh.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Small Luxury Hotels of the World | slh.com
 
@@ -26,7 +26,7 @@ Telephone calls to and from our office or reservation service may be recorded or
 
 To make SLH work even better for you, we also use 'cookies' to collect information about your use of the web-site. Cookies are a feature of web browser software that allows web servers to temporarily store information within your browser, which in turn allows us to recognise the computer used to access SLH.
 
-[Read our Cookies Policy](https://web.archive.org/en/about-us/cookie-policy/)
+[Read our Cookies Policy](https://web.archive.org/about-us/cookie-policy/)
 
 ## Using your personal information
 
