@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theconversation.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527090710id_/http%3A//theconversation.edu.au/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theconversation.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526140552id_/https%3A//theconversation.com/au/privacy_policy) for the most accurate reproduction.*
 
 # Privacy at The Conversation
 
@@ -10,7 +10,7 @@ The Conversation Media Group Ltd ACN 142 923 653 (TCMG) is committed to protecti
 
 TCMG will only collect, use or disclose personal information in accordance with the Act and this Privacy Policy.
 
-TCMG may amend this Privacy Policy at any time and for any reason. The updated version will be available at theconversation.edu.au/ privacy_policy. TCMG may highlight changes to this Privacy Policy at theconversation.edu.au/ privacy_policy, but you should check the Privacy Policy regularly for changes.
+TCMG may amend this Privacy Policy at any time and for any reason. The updated version will be available at [http://theconversation.com/au/privacy_policy](https://web.archive.org/au/privacy_policy). TCMG may highlight changes to this Privacy Policy at [http://theconversation.com/au/privacy_policy](https://web.archive.org/au/privacy_policy), but you should check the Privacy Policy regularly for changes.
 
 In this Privacy Policy, “personal information” means information or an opinion about a person whose identity is apparent, or can be reasonably ascertained, from the information or opinion.
 
