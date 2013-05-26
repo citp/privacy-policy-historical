@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lipsy.co.uk privacy policy that was archived on 2012-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120915002548id_/http%3A//www.lipsy.co.uk/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lipsy.co.uk privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526151521id_/http%3A//www.lipsy.co.uk/help/privacy) for the most accurate reproduction.*
 
 # Lipsy - Privacy Policy
 
@@ -70,7 +70,7 @@ We also offer you the facility to share your experience on our site through soci
 
 **Can I turn off cookies?  
 **Lipsy uses cookies to ensure that we provide the best possible standard of service to our online customers. However, as part of our privacy and security policy, we require your consent to use them.   
-To withdraw your consent, or if you want to be notified each time a cookie is about to be used, you should amend the settings provided in your web browser to prevent us from storing cookies on your computerâ€™s hard drive. For information on how to disable cookies, please consult the 'Help' tab of your browser via the menu bar.  
+To withdraw your consent, or if you want to be notified each time a cookie is about to be used, you should amend the settings provided in your web browser to prevent us from storing cookies on your computer’s hard drive. For information on how to disable cookies, please consult the 'Help' tab of your browser via the menu bar.  
 It must be noted that if you choose not to consent to the use of cookies, your experience of our site will be severely impaired and many integral aspects of the site, including (but not limited to) adding items to your shopping bag and accessing your account, will not work at all.
 
 **Our use of advertisement tracking  
