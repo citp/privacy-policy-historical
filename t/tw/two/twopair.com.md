@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the twopair.com privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125203308id_/http%3A//www.twopair.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twopair.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526095557id_/http%3A//www.twopair.com/privacy-policy) for the most accurate reproduction.*
 
-# America’s Best eyeglasses, optometrists and quality eyewear—your privacy is our priority.
+# Privacy Policy: America’s Best Contacts & Eyeglasses
 
 At America's Best, we respect our customers and understand that they are concerned about privacy, so we have instituted policies intended to ensure that your personal information is handled safely and responsibly. This Privacy Policy explains what America's Best does with your information and what you can expect from America's Best. You should review this Privacy Policy periodically as we may update it from time to time. This policy was last revised on May 6, 2010.
 
@@ -30,7 +30,7 @@ Third parties that need access to your information to provide operational or oth
 
 ##### How Can I Update My Personal Information?
 
-Whenever you log on to our bestcontacts.com site, you are given the opportunity to edit your personal information.
+Whenever you log on to our americasbest.com/shop site, you are given the opportunity to edit your personal information.
 
 ##### What Are "Cookies" and Do We Use Them?
 
