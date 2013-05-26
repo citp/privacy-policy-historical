@@ -1,19 +1,20 @@
-<!--The following is the downloaded HTML source of the nesta.org.uk privacy policy that was archived on 2010-05-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100522184611id_/http%3A//www.nesta.org.uk/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nesta.org.uk privacy policy that was archived on 2013-05-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130526230906id_/http%3A//www.nesta.org.uk/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
 <!-- META TAGS -->
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta http-equiv="content-language" content="en-GB">
+<meta name="google-site-verification" content="znd6IQ9ZP2tNE6VkOgxTjz_9IEUVsP5cked-VUak3cg">
 
-<meta name="copyright" content="Copyright NESTA 2009-2010">  
-<meta name="description" content="">  
-<meta name="keywords" content="compliance,privacy,data protection,policy"> 
+<meta name="copyright" content="Copyright NESTA 2009-2010">
+<meta name="description" content="">
+<meta name="keywords" content="compliance,privacy,data protection,policy">
 
-<title>NESTA  - Privacy</title>
+<title>Cookies &amp; Privacy - Nesta </title>
 
 <!-- CSS -->
-<link href="http://www-core.nesta.org.uk/css/site_1/minimized.css" rel="stylesheet" type="text/css">
+<link href="http://www-core.nesta.org.uk/css/site_1/minimized.css?version=1872" rel="stylesheet" type="text/css">
 <!--[if IE 7]>
 <link href="http://www-core.nesta.org.uk/css/site_1/ie7.css" rel="stylesheet" type="text/css" />
 <![endif]-->
@@ -22,10 +23,26 @@
 <![endif]-->
 
 
-<!-- JAVASCRIPT -->
-<script type="text/javascript" src="http://www.nesta.org.uk/js/jquery/min_jquery.js"></script>
+<!-- JAVASCRIPT
+<script type="text/javascript" src="http://www.nesta.org.uk/js/jquery/jquery-1.4.2.js"></script>
+<script type="text/javascript" src="http://www.nesta.org.uk/js/jquery/jquery.popeye-2.0.4.min.js"></script>
+<script type="text/javascript" src="http://www.nesta.org.uk/js/jquery/jquery-ui-1.8.2.custom.min.js"></script>
 <script type="text/javascript" src="http://www.nesta.org.uk/js/jquery/hoverintent.js"></script>
 <script type="text/javascript" src="http://www.nesta.org.uk/js/min.js"></script>
+<script type="text/javascript" src="http://www.nesta.org.uk/js/fonts/Foundry_Form_Sans_400.font.js"></script>
+<script type="text/javascript" src="http://www.nesta.org.uk/js/fonts/Baskerville_400.font.js"></script>
+<script type="text/javascript" src="http://www.nesta.org.uk/js/jquery/xmldom.js"></script>
+<script type="text/javascript" src="http://www.nesta.org.uk/js/calendar/kl.week.js"></script>
+<script type="text/javascript" src="http://www.nesta.org.uk/js/jquery/jquery.selectboxes.min.js"></script>-->
+
+
+
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www-core.nesta.org.uk/min/g=js"></script>
+<link rel="stylesheet" href="http://www-core.nesta.org.uk/css/site_1/prettyPhoto.css" type="text/css" media="screen" title="prettyPhoto main stylesheet" charset="utf-8">
+<link rel="stylesheet" href="http://www-core.nesta.org.uk/css/site_1/lightbox.css" type="text/css" media="screen" charset="utf-8">
+<script type="text/javascript" src="http://www.nesta.org.uk/js/jquery/jquery.prettyPhoto.js"></script>
+<script type="text/javascript" src="http://www.nesta.org.uk/js/jquery/lightbox.js"></script>
+
 
 
 <script type="text/javascript" charset="UTF-8">
@@ -33,7 +50,7 @@
 try { if (undefined == xajax.config) xajax.config = {}; } catch (e) { xajax = {}; xajax.config = {}; };
 xajax.config.requestURI = "http://www.nesta.org.uk/xajax/privacy";
 xajax.config.statusMessages = false;
-xajax.config.waitCursor = true;
+xajax.config.waitCursor = false;
 xajax.config.version = "xajax 0.5";
 xajax.config.legacy = false;
 xajax.config.defaultMode = "asynchronous";
@@ -90,14 +107,26 @@ xajax_remove_following = function() { return xajax.request({ xjxfun: 'remove_fol
 </script>
 <script type="text/javascript">
 /* <![CDATA[ */
+
+var booSubmit;
+function checkJssearch_overall_search(booCheck){
+	booSubmit = booCheck;return false;
+}
+
+function get_search_text_overall_search(){
+	var val =  $("#frmsearch_overall_search").find("#search_field").val();
+	if(val == 'Search...'){return '';}else{return val;}
+}
+
 $(document).ready(function(){
-	$('#share_link').show();
-	$('#social_close').click(function(){$('#social_bookmarks').hide();});
-	$('#social_bookmarks').hide();
-	$('#share_link').click(function(){
-		$('#social_bookmarks').show();
+$("#frmsearch_overall_search").find("#button_search").click(function(){
+if($("#frmsearch_overall_search").find("#search_field").val() == 'Search...'){return false;}});
+$("#frmsearch_overall_search").find("#search_field").focus(function(){
+	if($(this).val() == 'Search...'){
+		$(this).val('');
+		}
 	});
-});
+$("#frmsearch_overall_search").find("#search_field").blur(function(){if($(this).val() == ''){$(this).val('Search...');}});});
 /* ]]> */
 </script><script type="text/javascript">
 /* <![CDATA[ */
@@ -110,38 +139,35 @@ $(document).ready(function(){
 		}
 	});
 	$('.error_msg').hide();
-	$('.error_msg').css('padding','0.5em');
 });
-
+if(typeof(checkJssearch_overall_search) != 'function')
+{
 function checkJssearch_overall_search(booSubmit){
 	if(booSubmit){return false;}
 	else{
-		if('' == ''){
-	showBusyOverlaysearch_overall_search();
-		}
-	
-	submit_formsearch_overall_search();}return true;
+	submit_formsearch_overall_search();
+	}
+	return true;}
 }
-	function reset_submit_search_overall_search()
-	{
-		booIsSubmitsearch_overall_search = false;
-	}
-
-	function submit_formsearch_overall_search(){ 
-		if (typeof tinyMCE != "undefined"){tinyMCE.triggerSave(true,true);}
-		if('' != ''){
-			$('body').append('<div id="divConfirmBox" title="Confirm"></div>');
-			$("#divConfirmBox").dialog({bgiframe: true,
-				resizable: true,
-				height:160,	
-				modal: true,
-				overlay: {backgroundColor: '#000',opacity: 0.5},
-				buttons: {OK: function() {$(this).dialog('destroy');$('#divConfirmBox').remove();
-									showBusyOverlaysearch_overall_search();
-									do_active_submitsearch_overall_search();},
-						Cancel:function(){$(this).dialog('destroy');$('#divConfirmBox').remove();}}});}
-		else{do_active_submitsearch_overall_search();}
-	}
+function reset_submit_search_overall_search(){booIsSubmitsearch_overall_search = false;}
+function submit_formsearch_overall_search(){
+	if (typeof tinyMCE != "undefined"){tinyMCE.triggerSave(true,true);}
+	if('' != ''){
+		$('body').append('<div id="divConfirmBox" title="Confirm"></div>');
+		$("#divConfirmBox").dialog({bgiframe: true,
+			resizable: true,
+			height:160,	
+			modal: true,
+			overlay: {backgroundColor: '#000',opacity: 0.5},
+			buttons: {OK: function() {
+								$(this).dialog('destroy');$('#divConfirmBox').remove();
+								xajax_show_busy_screen();
+								do_active_submitsearch_overall_search();},
+					Cancel:function(){
+								$(this).dialog('destroy');$('#divConfirmBox').remove();}}
+					});}
+	else{do_active_submitsearch_overall_search();}
+}
 
 function do_active_submitsearch_overall_search(){
 	var arrUploadErrors = new Array();
@@ -149,19 +175,10 @@ function do_active_submitsearch_overall_search(){
 	//var booResetErrors = $('.error_msg').css('display') == 'none' ? false : true;
 	var booResetErrors = true;
 	xajax_submit_form('search_overall_search',objFormValues,true,arrUploadErrors,booResetErrors);
-}
-
-function showBusyOverlaysearch_overall_search(){
-	$('body').append('<div id=\"divBusy\" title=\"Busy\">	<div class=\"busy\">Processing data...Please wait<br><br>	<img src=\"http://admin.nesta.org.uk/css/images/ajax-loader.gif\">	</div></div>');
-	$("#divBusy").dialog({bgiframe: true,modal: true,autoOpen: true,draggable:false,modal: true,resizable:false,closeOnEscape: false});
-	$("#divBusy").prev().find('.ui-dialog-titlebar-close').hide();
-}
-
-function hideBusyOverlaysearch_overall_search(){$('#divBusy').dialog( 'destroy' );$('#divBusy').remove();}
+	reset_submit_search_overall_search();}
 
 var errorIntervalId = 0;var errorItemsearch_overall_search;
 var booTablesearch_overall_search;
-
 function scrollErrorsearch_overall_search(){
 	clearInterval(errorIntervalId);var clickedEle;
 	if(booTablesearch_overall_search){
@@ -171,22 +188,13 @@ function scrollErrorsearch_overall_search(){
 	else{clickedEle = errorItemsearch_overall_search;}if(clickedEle.is(':visible')){
 		var pos = clickedEle.offset().top - 80;clickedEle.focus();
 		$('html,body').animate({scrollTop:pos}, 'slow');
-		
 		errorItemsearch_overall_search = null;}
-	else{alert('both visible???');return false;	}
-	}
-
+	else{
+		//alert('both visible???');
+	return false;}}
 /* ]]> */
 </script>
-<script type="text/javascript">
-<!--
-var booSubmit;function checkJssearch_overall_search(booCheck){booSubmit = booCheck;return false;}function get_search_text_overall_search(){var val =  $("#frmsearch_overall_search").find("#search_field").val();if(val == 'Search...'){return '';}else{return val;}}
-$(document).ready(function(){$("#frmsearch_overall_search").find("#button_search").click(function(){
-if($("#frmsearch_overall_search").find("#search_field").val() == 'Search...'){return false;}});
-$("#frmsearch_overall_search").find("#search_field").focus(function(){if($(this).val() == 'Search...'){$(this).val('');}});
-$("#frmsearch_overall_search").find("#search_field").blur(function(){if($(this).val() == ''){$(this).val('Search...');}});});
-//-->
-</script><script type="text/javascript"><!--
+<script type="text/javascript"><!--
 $(document).ready(function(){var booCheckOverTop = false;var booCheckOverBottom = false;
 $('div.top_navigation_content_holder').hoverIntent({sensitivity: 100,interval: 5,timeout:0,over:function(){booCheckOverBottom = true;},
 	out:function(){booCheckOverBottom = false;setTimeout ( function(){hide_topnav_holder()}, 300 );}});
@@ -199,7 +207,7 @@ if(!$('#' + strActiveId + '_top_content').html() && strActiveId != 'calendar'){
 	$('#' + strActiveId + '_top_content').html('<div class="loading_top_nav"><div class="loading_top_nav_inner"><img src="http://www-core.nesta.org.uk/css/site_1/images/preloader.gif"/></div></div>');
 	xajax_show_top_navigation_content(strActiveId);}});
 var booBusy = false;
-$('#top_navigation li[id!=keep_in_touch]').click(function(){
+$('#top_navigation li[id=faqs]').click(function(){
 	var strActiveId = $(this).attr('id');
 	if(!$('#' + strActiveId + '_top_content').html()){
 		$('#' + strActiveId + '_top_content').html('<div class="loading_top_nav"><div class="loading_top_nav_inner"><img src="http://www-core.nesta.org.uk/css/site_1/images/preloader.gif"/></div></div>');
@@ -216,109 +224,225 @@ function hide_topnav_holder(){if(!booCheckOverBottom && !booCheckOverTop){$('#to
 //-->
 </script><script type="text/javascript">
 <!--
+
+
 Cufon.replace('#social_bookmarks p', { fontFamily: 'Foundry Form Sans', hover:true });
-Cufon.replace('.sharer a', { fontFamily: 'Foundry Form Sans', hover:true });Cufon.replace('#homepage_1_title h1', { fontFamily: 'Foundry Form Sans', hover:true });Cufon.replace('.inner_panel .col_head', { fontFamily: 'Baskerville', hover:true });Cufon.replace('#homepage_1_title h3', { fontFamily: 'Foundry Form Sans', hover:true });Cufon.replace('#homepage_1_panel h1', { fontFamily: 'Foundry Form Sans', hover:true });Cufon.replace('#homepage_1_panel p', { fontFamily: 'Baskerville', hover:true });Cufon.replace('div.main_content ul.in_page_nav li a', { fontFamily: 'Foundry Form Sans', hover:true });Cufon.replace('#user_authentication_navigation li a', { fontFamily: 'Foundry Form Sans', hover:true });Cufon.replace('ul.vertical_link_list li a', { fontFamily: 'Baskerville', hover:true });Cufon.replace('dt label', { fontFamily: 'Baskerville', hover:true });Cufon.replace('label.list_label', { fontFamily: 'Baskerville', hover:true });Cufon.replace('#main_navigation li a', { fontFamily: 'Baskerville', hover:true });Cufon.replace('.top_navigation_content h2', { fontFamily: 'Baskerville' });Cufon.replace('#faqs_right li', { fontFamily: 'Baskerville' });Cufon.replace('#footer_left h3', { fontFamily: 'Baskerville' });Cufon.replace('h2.col_head', { fontFamily: 'Baskerville' });Cufon.replace('h2.overlay', { fontFamily: 'Baskerville' });Cufon.replace('#content_col3 h3', { fontFamily: 'Baskerville' });Cufon.replace('#subhome_col3 h3', { fontFamily: 'Baskerville' });Cufon.replace('.wrap .panel h3,.wrap .mast_nav h3', { fontFamily: 'Baskerville', forceHitArea: true, hover:true });Cufon.replace('#subhome_col3 blockquote', { fontFamily: 'Baskerville' });Cufon.replace('p.project_intro', { fontFamily: 'Baskerville' });Cufon.replace('#project_col3 h3,#news_col3 h3', { fontFamily: 'Baskerville' });Cufon.replace('.text_image_list h4,', { fontFamily: 'Baskerville' });Cufon.replace('#home_leaders h2,#home_leaders h3', { fontFamily: 'Baskerville' });Cufon.replace('#comments h4', { fontFamily: 'Baskerville' });Cufon.replace('#content_col2 h4', { fontFamily: 'Baskerville' });Cufon.replace('.inline_nav h3', { fontFamily: 'Baskerville' });Cufon.replace('.left_nav li a', { fontFamily: 'Baskerville', forceHitArea: true, hover:true });Cufon.replace('#subhome_col2 h2', { fontFamily: 'Foundry Form Sans', forceHitArea: true, hover:true });Cufon.replace('div.main_content h3', { fontFamily: 'Foundry Form Sans', forceHitArea: true, hover:true });Cufon.replace('.wrap .panel h2', { fontFamily: 'Foundry Form Sans',forceHitArea: true, hover:true });Cufon.replace('.wrap .mast_nav h2', { fontFamily: 'Foundry Form Sans',forceHitArea: true, hover:true });
+Cufon.replace('.filter_type a', { fontFamily: 'Baskerville', hover:true });
+Cufon.replace('.filter_data li a', { fontFamily: 'Baskerville', hover:true });
+Cufon.replace('.filter_expand', { fontFamily: 'Baskerville', hover:true });
+Cufon.replace('.sharer a', { fontFamily: 'Foundry Form Sans', hover:true });
+Cufon.replace('#homepage_1_title h1', { fontFamily: 'Foundry Form Sans', hover:true });
+Cufon.replace('.inner_panel .col_head', { fontFamily: 'Baskerville', hover:true });
+Cufon.replace('#homepage_1_title h3', { fontFamily: 'Foundry Form Sans', hover:true });
+Cufon.replace('#homepage_1_panel h1', { fontFamily: 'Foundry Form Sans', hover:true });
+Cufon.replace('#homepage_1_panel p', { fontFamily: 'Baskerville', hover:true });
+
+Cufon.replace('div.main_content ul.in_page_nav li a', { fontFamily: 'Foundry Form Sans', hover:true });
+Cufon.replace('#user_authentication_navigation li a', { fontFamily: 'Foundry Form Sans', hover:true });
+Cufon.replace('ul.vertical_link_list li a', { fontFamily: 'Baskerville', hover:true });
+Cufon.replace('dt label', { fontFamily: 'Baskerville', hover:true });
+Cufon.replace('label.list_label', { fontFamily: 'Baskerville', hover:true });
+Cufon.replace('#main_navigation li a', { fontFamily: 'Baskerville', hover:true });
+Cufon.replace('.top_navigation_content h2', { fontFamily: 'Baskerville' });
+Cufon.replace('#faqs_right li', { fontFamily: 'Baskerville' });
+
+Cufon.replace('#footer_left h3', { fontFamily: 'Baskerville' });
+Cufon.replace('h2.col_head', { fontFamily: 'Baskerville' });
+Cufon.replace('h2.overlay', { fontFamily: 'Baskerville' });
+Cufon.replace('#content_col3 h3', { fontFamily: 'Baskerville' });
+
+Cufon.replace('#subhome_col3 h3', { fontFamily: 'Baskerville' });
+//Cufon.replace('#content_container:not(.new)  .wrap .panel h3,.wrap .mast_nav h3', { fontFamily: 'Baskerville', forceHitArea: true, hover:true });
+
+Cufon.replace('#subhome_col3 blockquote', { fontFamily: 'Baskerville' });
+Cufon.replace('p.project_intro', { fontFamily: 'Baskerville' });
+Cufon.replace('#project_col3 h3,#news_col3 h3', { fontFamily: 'Baskerville' });
+
+
+Cufon.replace('.text_image_list h4,', { fontFamily: 'Baskerville' });
+Cufon.replace('#home_leaders h2,#home_leaders h3', { fontFamily: 'Baskerville' });
+Cufon.replace('#comments h4', { fontFamily: 'Baskerville' });
+Cufon.replace('#content_col2 h4', { fontFamily: 'Baskerville' });
+Cufon.replace('.inline_nav h3', { fontFamily: 'Baskerville' });
+Cufon.replace('.left_nav li a', { fontFamily: 'Baskerville', forceHitArea: true, hover:true });
+Cufon.replace('#content_container:not(.new) #subhome_col2 h2', { fontFamily: 'Foundry Form Sans', forceHitArea: true, hover:true });
+Cufon.replace('#content_container:not(.new) div.main_content h3', { fontFamily: 'Foundry Form Sans', forceHitArea: true, hover:true });
+Cufon.replace('.wrap .panel h2', { fontFamily: 'Foundry Form Sans',forceHitArea: true, hover:true });
+Cufon.replace('.wrap .mast_nav h2', { fontFamily: 'Foundry Form Sans',forceHitArea: true, hover:true });
+Cufon.replace('.author_title', { fontFamily: 'Baskerville' });
 Cufon.replace('#content_col2 .blog_col2 h2', { fontFamily: 'Baskerville' });
+Cufon.replace('#subhome_col2 h1', { fontFamily: 'Foundry Form Sans' });
 Cufon.replace('#content_col2 .blog_col1 h2', { fontFamily: 'Baskerville' });
 Cufon.replace('#content_col2 .blog_col1 .panel h2', { fontFamily: 'Foundry Form Sans', hover:true });
-Cufon.replace('blockquote p, .read_more_quote li a', { fontFamily: 'Baskerville' });Cufon.replace('.event_list_header li p', { fontFamily: 'Baskerville' });Cufon.replace('.event_list p a, .no_events', { fontFamily: 'Foundry Form Sans' });
+Cufon.replace('blockquote p, .read_more_quote li a', { fontFamily: 'Baskerville' });
+Cufon.replace('.event_list_header li p', { fontFamily: 'Baskerville' });
+Cufon.replace('.event_list p a, .no_events', { fontFamily: 'Foundry Form Sans' });
+
+
 //-->
 </script><!-- fix for having the left navigation always the max height -->
 <script type="text/javascript">
 <!--
-	$(document).ready(function(){var newHeight = $('#subhome_col2').height() + $('#bottom_content').height();if(newHeight > 0){$('#content_col1').height(newHeight);}});
+//	$(document).ready(function(){var newHeight = $('#subhome_col2').height() + $('#bottom_content').height();if(newHeight > 0){$('#content_col1').height(newHeight);}});
 //-->
 </script>
 
 <!-- FAVICON -->
 <link rel="icon" href="http://www.nesta.org.uk/favicon.ico" type="image/x-icon">
-<link rel="shortcut icon" href="http://www.nesta.org.uk/favicon.ico" type="image/x-icon"> </head>
+<link rel="shortcut icon" href="http://www.nesta.org.uk/favicon.ico" type="image/x-icon"></head>
 
 <body>
 
 <div class="wrap">
 	<div id="top">
-	<div id="formholdersearch_overall_search" name="formholdersearch_overall_search">
-	<div id="errorsearch_overall_search" name="errorsearch_overall_search" class="error_msg"></div>
+	<div id="formholdersearch_overall_search">
+	<div id="errorsearch_overall_search" class="error_msg"></div>
 	<form name="frmsearch_overall_search" id="frmsearch_overall_search" method="post" enctype="multipart/form-data" action="http://www.nesta.org.uk/search">
+		
 		<dl>		
 		<!-- START CUSTOM LAYOUT -->
 		
-			<dd><input type="text" name="search_field" value="Search..." id="search_field" class="" label_class=""></dd>
+			<dt><label for="search_field">Search</label></dt><dd><input type="text" name="search_field" value="Search..." id="search_field" class=""></dd>
 <input type="hidden" name="search_method" value="search_all"><input type="hidden" name="search_asset" value="search"><input type="hidden" name="search_field_text" value="Search..."><dd><input type="submit" name="button_search" value="" id="button_search" class=""></dd>
 	
 		<!-- END CUSTOM LAYOUT -->	
 		
 		
-				</dl>										<input type="hidden" name="module" value="search">		<input type="hidden" name="handle_method" value="search_items">		<input type="hidden" name="final_action" value="custom">		<input type="hidden" name="final_action_value" value="">		<input type="hidden" name="reset_after_submit" value="1">		<input type="hidden" name="error_lines" value="1">		
-	</form>
-	
+				</dl>										
+		<input type="hidden" name="module" value="search">		<input type="hidden" name="handle_method" value="search_items">		<input type="hidden" name="final_action" value="custom">		<input type="hidden" name="final_action_value" value="">		<input type="hidden" name="reset_after_submit" value="">		<input type="hidden" name="error_lines" value="1">		<input type="hidden" name="busy_title" value="">		<input type="hidden" name="busy_text" value="">	</form>
 </div>	<ul id="top_navigation">
-	<li id="keep_in_touch"><a href="http://www.nesta.org.uk/keep_in_touch">
-	<img width="99" height="45" src="http://www-core.nesta.org.uk/css/site_1/images/keep_in_touch.gif" alt="Keep in touch">
-	</a></li>
-	<li id="calendar"><a href="http://www.nesta.org.uk/calendar">
-	<img width="99" height="45" src="http://www-core.nesta.org.uk/css/site_1/images/calendar.gif" alt="Calendar">
-	</a></li>
 	<li id="faqs"><a href="http://www.nesta.org.uk/faqs">
 	<img width="99" height="45" src="http://www-core.nesta.org.uk/css/site_1/images/faqs.gif" alt="FAQs">
+	</a></li>
+	<li id="press"><a href="http://www.nesta.org.uk/press_new">
+	<img width="99" height="45" src="http://www-core.nesta.org.uk/css/site_1/images/press.gif" alt="Press">
+	</a></li>
+	<li id="contact_us"><a href="http://www.nesta.org.uk/contact_us">
+	<img width="99" height="45" src="http://www-core.nesta.org.uk/css/site_1/images/contact_us.gif" alt="Contact us">
 	</a></li>
 </ul>
 
 <div class="clear"></div>
 
 <div class="top_navigation_content_holder">
-		<div class="top_navigation_content" id="keep_in_touch_top_content"></div>
-		<div class="top_navigation_content" id="calendar_top_content"></div>
 		<div class="top_navigation_content" id="faqs_top_content"></div>
+		<div class="top_navigation_content" id="press_top_content"></div>
+		<div class="top_navigation_content" id="contact_us_top_content"></div>
 	</div>	</div>
 	
 	<div id="main_header">
-	<h1><a id="logo" href="http://www.nesta.org.uk/"><img width="186" height="44" src="http://www-core.nesta.org.uk/css/site_1/images/nesta_logo.jpg" alt="NESTA"></a></h1>
+	<h1><a id="logo" href="http://www.nesta.org.uk/"><img width="186" height="44" src="http://www-core.nesta.org.uk/css/site_1/images/nesta_logo.jpg" alt="Nesta"></a></h1>
 	<script type="text/javascript">
-<!--
-$(document).ready(function(){var booCheckOverMainTop = false;var booCheckOverMainBottom = false;$('div.main_menu_overlay_container').hoverIntent({sensitivity: 100,interval: 5,timeout:0,over:function(){booCheckOverMainBottom = true;},out:function(){booCheckOverMainBottom = false;setTimeout ( function(){hide_mainnav_holder()}, 300 );}});$('#main_navigation li').hoverIntent({sensitivity: 30,interval: 50,timeout: 50,over: function(){booCheckOverMainTop = true;var strActiveId = $(this).attr('id');$('#main_navigation li').css('border-top','4px solid #ffffff');$(this).css('border-top','4px solid #' + $('#main_navigation_' + strActiveId).attr('name'));$('.main_menu_overlay_container').show();$('.main_menu_overlay_container div.main_menu_overlay').hide();$('#main_navigation_' + strActiveId).show();},out: function(){booCheckOverMainTop = false;setTimeout (function(){hide_mainnav_holder()}, 300 );}});function hide_mainnav_holder(){if(!booCheckOverMainTop && !booCheckOverMainBottom){$('#main_navigation li').css('border-top','4px solid #ffffff');$('.main_menu_overlay_container').hide();$('.main_menu_overlay').hide();}}$('#main_navigation li').each(function(){var strActiveId = $(this).attr('id');show_main_nav_content(strActiveId);});function show_main_nav_content(strActiveId){if($('#main_navigation_wrapper_' + strActiveId).size() && !$('#main_navigation_wrapper_' + strActiveId).html()){$('#main_navigation_wrapper_' + strActiveId).html('<div class="loading_top_nav"><div class="loading_top_nav_inner"><img src="http://www-core.nesta.org.uk/css/site_1/images/preloader.gif"/></div></div>');xajax_show_main_navigation_content(strActiveId);}}});
-//-->
+    <!--
+    $(document).ready(function() {
+
+        var booCheckOverMainTop = false;
+        var booCheckOverMainBottom = false;
+
+        $('div.main_menu_overlay_container').hoverIntent({
+            sensitivity: 100,
+            interval: 5,
+            timeout: 0,
+            over: function() {
+                booCheckOverMainBottom = true;
+            },
+            out: function() {
+                booCheckOverMainBottom = false;
+                setTimeout(function() {
+                    hide_mainnav_holder()
+                }, 300);
+            }
+        });
+        $('#main_navigation li').hoverIntent({
+            sensitivity: 30,
+            interval: 50,
+            timeout: 50,
+            over: function() {
+                booCheckOverMainTop = true;
+                var strActiveId = $(this).attr('id');
+
+                $('.main_menu_overlay_container').show();
+                $('.main_menu_overlay_container div.main_menu_overlay').hide();
+                $('#main_navigation_' + strActiveId).show();
+            },
+            out: function() {
+                booCheckOverMainTop = false;
+                setTimeout(function() {
+                    hide_mainnav_holder()
+                }, 300);
+            }
+        });
+        function hide_mainnav_holder() {
+            if (!booCheckOverMainTop && !booCheckOverMainBottom) { //$('#main_navigation li').css('border-top','4px solid #ffffff');
+                $('.main_menu_overlay_container').hide();
+                $('.main_menu_overlay').hide();
+            }
+        }
+
+        function show_main_nav_content(strActiveId) {
+            if ($('#main_navigation_wrapper_' + strActiveId).size() && !$('#main_navigation_wrapper_' + strActiveId).html()) {
+                $('#main_navigation_wrapper_' + strActiveId).html('<div class="loading_top_nav"><div class="loading_top_nav_inner"><img src="http://www-core.nesta.org.uk/css/site_1/images/preloader.gif"/></div></div>');
+                xajax_show_main_navigation_content(strActiveId);
+            }
+        }
+
+
+        $('#main_navigation li').each(function() {
+            var strActiveId = $(this).attr('id');
+
+            show_main_nav_content(strActiveId);
+        });
+    });
+    //-->
 </script>
 <ul id="main_navigation"><li class="" id="section_117">
 	<a href="http://www.nesta.org.uk/home">Home</a>
-	</li><li class="" id="section_97">
+	</li><li class="blue" id="section_97">
 	<a href="http://www.nesta.org.uk/about_us">About us</a>
-	</li><li class="" id="section_99">
-	<a href="http://www.nesta.org.uk/areas_of_work">Areas of Work</a>
-	</li><li class="" id="section_101">
-	<a href="http://www.nesta.org.uk/investments">Investments</a>
-	</li><li class="" id="section_103">
-	<a href="http://www.nesta.org.uk/news_events">News &amp; Events</a>
-	</li><li class=" last" id="section_197">
+	</li><li class="purple" id="section_436">
+	<a href="http://www.nesta.org.uk/news_and_features">News &amp; Features</a>
+	</li><li class="pink" id="section_99">
+	<a href="http://www.nesta.org.uk/areas_of_work">Our Work</a>
+	</li><li class="purple" id="section_197">
 	<a href="http://www.nesta.org.uk/publications">Publications</a>
+	</li><li class="teal" id="section_199">
+	<a href="http://www.nesta.org.uk/events">Events</a>
+	</li><li class="green" id="section_105">
+	<a href="http://www.nesta.org.uk/blogs">Blogs</a>
+	</li><li class="peach  last" id="section_101">
+	<a href="http://www.nesta.org.uk/investment">Investment</a>
 	</li></ul>
 <div class="main_menu_overlay_container">
 					<div id="main_navigation_section_117" name="f26b51" class="peach"></div>
 							<div id="main_navigation_section_97" name="0079c1" class="main_menu_overlay blue">
 		<div class="main_menu_overlay_wrapper" id="main_navigation_wrapper_section_97"></div>
 		</div>
+							<div id="main_navigation_section_436" name="7A70AD" class="main_menu_overlay purple">
+		<div class="main_menu_overlay_wrapper" id="main_navigation_wrapper_section_436"></div>
+		</div>
 							<div id="main_navigation_section_99" name="ea4498" class="main_menu_overlay pink">
 		<div class="main_menu_overlay_wrapper" id="main_navigation_wrapper_section_99"></div>
 		</div>
-							<div id="main_navigation_section_101" name="f26b51" class="main_menu_overlay peach">
-		<div class="main_menu_overlay_wrapper" id="main_navigation_wrapper_section_101"></div>
-		</div>
-							<div id="main_navigation_section_103" name="3fac45" class="main_menu_overlay green">
-		<div class="main_menu_overlay_wrapper" id="main_navigation_wrapper_section_103"></div>
-		</div>
 							<div id="main_navigation_section_197" name="7A70AD" class="main_menu_overlay purple">
 		<div class="main_menu_overlay_wrapper" id="main_navigation_wrapper_section_197"></div>
+		</div>
+							<div id="main_navigation_section_199" name="0096b7" class="main_menu_overlay teal">
+		<div class="main_menu_overlay_wrapper" id="main_navigation_wrapper_section_199"></div>
+		</div>
+							<div id="main_navigation_section_105" name="3fac45" class="main_menu_overlay green">
+		<div class="main_menu_overlay_wrapper" id="main_navigation_wrapper_section_105"></div>
+		</div>
+							<div id="main_navigation_section_101" name="f26b51" class="main_menu_overlay peach">
+		<div class="main_menu_overlay_wrapper" id="main_navigation_wrapper_section_101"></div>
 		</div>
 			</div>	</div>
 </div>
 <div class="clear"></div>
 <div class="wrap">
 <div id="content_container" class="peach">
-	
+
 	<div id="content_col1">
-	
-	<h2 class="col_head"><a href="http://www.nesta.org.uk/privacy">Privacy</a></h2>
+	<h2 class="col_head"><a href="http://www.nesta.org.uk/privacy">Cookies &amp; Privacy</a></h2>
 <ul class="left_nav">
 	</ul>
 
@@ -326,92 +450,50 @@ $(document).ready(function(){var booCheckOverMainTop = false;var booCheckOverMai
 $(document).ready(function(){$('.dropdown_level').each(function(){if(!$(this).hasClass('active')){$(this).next().hide();}});$('.dropdown_level').click(function(){if(!$(this).hasClass('nochildren')){if($(this).next().is(':hidden')){$('.dropdown_level').each(function(){if(!$(this).hasClass('active')&&!$(this).next().is(':hidden')){$(this).next('ul').slideUp('fast');}});if(!$(this).hasClass('active')){$(this).next('ul').slideDown('fast');}}return false;}});});
 //--></script>	</div>
 	<div id="subhome_col2">
-					    	    		<div class="main_content">
-			<h2>Privacy and data protection policy</h2>
-			<p><strong></strong></p>
-			<p></p><p>To operate efficiently, we must collect information about people, with who we work. These may include members of the public, current, past and prospective employees, funded bodies, and suppliers. We may also be legally required to collect and use information to comply with our statutory obligations.</p>
-<p>We are registered with the Information Commissioner to process personal data. We are named as a data controller under the register kept by the Information Commissioner in accordance with section 19 of the Act.</p>
-<p>To respect your privacy, we process your personal data in accordance with the eight data protection principles.</p>
-<ol>
-<li>Personal data shall be processed fairly and lawfully.</li>
-<li>Personal data shall be obtained only for one or more specified and lawful purposes, and shall not be further processed in any manner incompatible with that purpose or those purposes.</li>
-<li>Personal data shall be adequate, relevant and not excessive in relation to the purpose or purposes for which they are processed.</li>
-<li>Personal data shall be accurate and, where necessary, kept up to date.</li>
-<li>Personal data processed for any purpose or purposes shall not be kept for longer than is necessary for that purpose or those purposes.</li>
-<li>Personal data shall be processed in accordance with the rights of data subjects under this Act.</li>
-<li>Appropriate technical and organisational measures shall be taken against unauthorised or unlawful processing of personal data and against accidental loss or destruction of, or damage to, personal data.</li>
-<li>Personal data shall not be transferred to a country or territory outside the European Economic Area unless that country or territory ensures an adequate level of protection for the rights and freedoms of data subjects in relation to the processing of personal data.</li>
-</ol>
-<p><br>The Act refers to the term 'personal data'. For information held by NESTA, this means any recorded information held by us and from which a living individual can be identified. It may include:</p>
+					    	    				<div class="main_content">
+			<h2>Cookies and Privacy policy</h2>
+			<p><strong>We have updated our Privacy Policy to provide more information about how Nesta uses cookies on our website.</strong></p>
+			<p></p><p><strong>Privacy and Cookies Policy</strong></p>
+<p>This website belongs to the Nesta Operating Company ("Nesta"), details below. This privacy policy explains how Nesta uses personal information which we collect via this site.</p>
+<p><strong>1. What kind of information do we collect?</strong></p>
+<p>If you register on this site, we may ask for personal information such as your name, email address and photograph. We may ask you for feedback on our events or to complete surveys for us. We may detail your activity and personal preferences when visiting our sites (see "Cookies", below). If you post content on the site or communicate via the site, we may store and monitor your content and communications.</p>
+<p><strong>2. What do we do with information we collect? </strong></p>
+<p>We will use your personal information to:</p>
 <ul>
-<li>name and job title;</li>
-<li>contact information such as telephone numbers, addresses and emails;</li>
-<li>age, disability status, ethnicity, gender and nationality;</li>
-<li>occupation and company details;</li>
-<li>other information relevant to our HR function.</li>
+<li>operate this site</li>
+<li>if you register with us, to provide you with newsletters and information about us, our partners and our publications, activities and events</li>
+<li>carry out analysis and research to improve our sites, events and activities</li>
+<li>prevent and detect fraud and abuse of our site and protect other users</li>
 </ul>
-<p>It will include any expression of opinion about a living individual - or any indication of our intentions about that individual.</p>
-<p>We may use this information for the following reasons:</p>
-<ul>
-<li>to carry out our statutory functions;</li>
-<li>licensing and registration;</li>
-<li>complaints and dispute handling;</li>
-<li>investigations;</li>
-<li>research;</li>
-<li>improving our services;</li>
-<li>sending information, which we think may be of interest to you;</li>
-<li>staff administration including HR functions;</li>
-<li>to pass your details to accountants, consultants and other professionals for obtaining professional advice and complying with our contractual obligations;</li>
-<li>complying with our legal obligations.</li>
-</ul>
-<h3>Monitoring and recording of communications</h3>
-<p>We may monitor or record any communication between you and NESTA for quality control and training purposes.</p>
-<h3>Security</h3>
-<p>We have appropriate technical and organisational measures to prevent the unauthorised or unlawful processing of your personal information - and accidental loss or destruction of, or damage to, your personal information.</p>
-<h3>Cookies</h3>
-<p>Cookies are text files, which identify a user's computer to our server. Cookies don't identify individual users, only the computer used. Our site uses cookies for collecting user information. The information we gather from cookies may be used in the same way as detailed above.</p>
-<h3>Retention of personal information</h3>
-<p>We will not keep your personal information for longer than is necessary for our purposes.</p>
-<h3>Links to other websites</h3>
-<p>Our website contains links to other sites. We aren't responsible for the data protection and privacy practices on any other sites. We encourage you to be aware of this when you leave our site and to read the data protection and privacy statements on other websites you visit, which collect personally identifiable information. This statement applies solely to our website.</p>
-<p>&nbsp;</p>
-<h3>Your rights to access your personal information</h3>
-<p>All requests for information will be processed under the Data Protection Act 1988. You don't need to complete a form, but you'll be asked to provide sufficient information for us to:</p>
-<ul>
-<li>identify you and the nature of your request;</li>
-<li>ensure we are releasing personal information to the right person.</li>
-</ul>
-<p>A charge of £10.00 will be made for every request. Please send your request to <a href="mailto:information@nesta.org.uk">information@nesta.org.uk</a></p>
-<h3>Complaints about how we process your personal information</h3>
-<p>In the first instance, you should contact NESTA. Complaints should be addressed to:</p>
-<p>The Compliance Officer<br>NESTA</p>
-<p>1 Plough Place<br>London EC4A 1DE<br><br>020 7438 2500</p>
-<p><a href="mailto:information@nesta.org.uk" target="_blank">information@nesta.org.uk</a></p>
-<p><br>This statement may change from time to time, so please review it regularly.</p>
-<p>&nbsp;</p><p></p>
-			<div id="share_holder">
-<p class="sharer"><a id="share_link" href="javascript:void(0)">Share this</a></p>
+<p>Please make sure that any personal details which you give us are accurate and up to date, and let us know about any changes. Please get consent first before giving us information about anyone else.</p>
+<p><strong>3. How to unsubscribe</strong></p>
+<p>If you don't want to receive any more communications from us, please change the preferences on your account or click the unsubscribe link on any email from us.</p>
+<p><strong>4. Who else has access to your information?</strong></p>
+<p>We may share your information with our partners and with companies who help us to host and operate this site and to organise our events and other activities. Some of these organisations may process your information in countries outside the European Economic Area (EEA), such as the United States, where data protection laws are not the same as in the EEA. If you are not happy for us to transfer your information in this way, please don't access and use our websites.</p>
+<p>Comments, blogs and other information which you upload may be displayed publicly and to other users. Please be careful when disclosing personal information which may identify you or anyone else. We are not responsible for the protection or security of information which you disclose in public areas.</p>
+<p>We may disclose your personal information if required by law, or to protect or defend ourselves or others against illegal or harmful activities, or as part of a reorganisation or restructuring of our organisation.</p>
+<p><strong>5. Cookies</strong></p>
+<p>This site may contain cookies. Cookies are small text files containing small amounts of information which are downloaded to your computer when you visit our site or when you log in. Cookies are useful because they allow our site to recognise your computer. You can find more information about cookies at: <a href="http://www.aboutcookies.org">www.aboutcookies.org</a>.&nbsp;</p>
+<p>This site may use cookies that are <strong><a href="http://www.bbc.co.uk/privacy/cookies/bbc/strictly-necessary.html" target="_self">strictly necessary</a> </strong>to enable you to move around the site or to provide certain basic features, such as logging into secure areas.&nbsp;</p>
+<p>The site also uses <strong>p</strong><strong>erformance</strong> cookies which collect information about how you use the site, such as how you are referred to it and how long you stay on certain pages. All this information is aggregated and therefore anonymous and is only used to improve the <a href="http://www.bbc.co.uk/privacy/cookies/bbc/performance.html" target="_blank">performance</a> of the site. Some of these performance cookies are Google Analytics web cookies. Google have produced a tool to opt out of their cookies which is available here: <a href="https://tools.google.com/dlpage/gaoptout?hl=None">https://tools.google.com/dlpage/gaoptout?hl=None</a>&nbsp;</p>
+<p>If you don't want to receive cookies, you can modify your browser settings so that it notifies you when cookies are sent to it or you can refuse cookies altogether. You can also delete cookies that have already been set, or restrict or block web browser cookies. The Help function within your browser should tell you how to do this or you can visit for more information. You may lose some features and functionality if you choose to disable cookies.</p>
+<p><strong>6. Security </strong></p>
+<p>We take steps to protect your personal information and follow procedures designed to minimise unauthorised access to or disclosure of your information. However, we can't guarantee that we will eliminate all risk of misuse. If you have a password for your account, please keep this safe and don't share it with anyone else. You are responsible for all activity on your account and must contact us immediately if you become aware of any unauthorised use of your password or other security breach.&nbsp;</p>
+<p><strong>7. Contacting us</strong></p>
+<p>You are legally entitled to know what personal information an organisation holds about you and how that information is processed. If you would like to know what information we currently hold about you, please write to the Head of Legal at Nesta, 1 Plough Place, London EC4A 1DE, UK. We will ask you for proof of identity and may charge a £10 fee.</p>
+<p><strong>Nesta Operating Company</strong></p>
+<p>Company limited by guarantee registered in England and Wales with company number 7706036 and charity number 1144091. Registered as a charity in Scotland number SC042833.</p>
+<p>Registered office: 1 Plough Place, London EC4A 1DE.</p><p></p>
+			<!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style ">
+<a class="addthis_button_preferred_1"></a>
+<a class="addthis_button_preferred_2"></a>
 
-<div id="social_bookmarks">
-	<p class="title">Share Via</p>
-	<p id="close_sharer"><a href="javascript:void(0)" id="social_close">Close</a></p>
-	<div class="clear"></div>
-	<ul>
-				<li>
-			<a id="social_facebook" target="_blank" href="http://www.facebook.com/sharer.php?u=http://www.nesta.org.uk/privacy/&amp;t=Privacy" title="Facebook">Facebook</a>
-		</li>
-						<li>
-			<a id="social_twitter" target="_blank" href="http://twitter.com/home?status=Currently reading http://www.nesta.org.uk/privacy/" title="Twitter">Twitter</a>
-		</li>
-						<li>
-			<a id="social_linked_in" target="_blank" href="http://del.icio.us/post?url=http://www.nesta.org.uk/privacy/" title="Linked In">Linked In</a>
-		</li>
-														<li>
-			<a id="social_email" href="mailto:?subject=Privacy&amp;body=Have a look at this page from the NESTA website: http://www.nesta.org.uk/privacy/" title="StumbleUpon">Email</a>
-		</li>
-			</ul>
+<a class="addthis_button_compact"></a>
+<a class="addthis_counter addthis_bubble_style"></a>
 </div>
-</div>		</div>
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=xa-4f74464406e5e5d2"></script>
+<!-- AddThis Button END -->		</div>
 	</div>
 	<div id="subhome_col3">
     	<div class="inner">
@@ -425,46 +507,55 @@ $(document).ready(function(){$('.dropdown_level').each(function(){if(!$(this).ha
 <div id="footer_bg">
   <div class="wrap" id="footer">
     <div id="footer_left">
-      <h3><a href="/about_us/contact_us">Contact us</a></h3>
+      <h3><a href="/contact_us">Contact us</a></h3>
       <address>
       1 Plough Place<br>
       London EC4A 1DE<br>
       </address>
-      <p class="contacts"> 
+      <p class="contacts">
       T +44 (0)20 7438 2500<br>
        F +44 (0)20 7438 2501</p>
-      <p class="legal"> National Endowment for Science Technology and the Arts </p>
+       <p class="legal">Nesta Operating Company, a company limited by guarantee registered in England and Wales with company number 7706036 and charity number 1144091. Registered as a charity in Scotland number SC042833.</p>
+
+      <a class="footer_social footer_twitter" href="http://twitter.com/nesta_uk" target="_blank"><img src="http://www-core.nesta.org.uk/css/site_1/images/twitter_clean.jpg" alt="Twitter"></a>
+      <a class="footer_social footer_linkedin" href="http://www.linkedin.com/groups?mostPopular=&amp;gid=1868227" target="_blank"><img src="http://www-core.nesta.org.uk/css/site_1/images/linkedin_clean.jpg" alt="LinkedIn"></a>
+      <a class="footer_social footer_facebook" href="http://www.facebook.com/nesta.uk" target="_blank"><img src="http://www-core.nesta.org.uk/css/site_1/images/facebook_clean.jpg" alt="Facebook"></a>
+      <a class="footer_social footer_rss" href="http://www.nesta.org.uk/rss/blog_entries" target="_blank"><img src="http://www-core.nesta.org.uk/css/site_1/images/rss_clean.jpg" alt="RSS feed"></a>
     </div>
-    
+
     <div id="footer_right">
-    	<ul id="bottom_navigation"><li class="" id="section_280">
-	<a href="http://www.nesta.org.uk/vacancies">Vacancies</a>
-	</li><li class="" id="section_118">
-	<a href="http://www.nesta.org.uk/terms">Terms and Conditions</a>
-	</li><li class="active" id="section_119">
-	<a href="http://www.nesta.org.uk/privacy">Privacy</a>
-	</li><li class="" id="section_237">
-	<a href="http://www.nesta.org.uk/cymraeg">Cymraeg</a>
-	</li><li class="" id="section_108">
+    	<ul id="bottom_navigation"><li class="" id="section_108">
 	<a href="http://www.nesta.org.uk/login">Login</a>
-	</li><li class=" last" id="section_109">
-	<a href="http://www.nesta.org.uk/register">Register</a>
-	</li></ul>      	<p class="legal">Copyright NESTA 2009-2010<br>
+	</li><li class="" id="section_373">
+	<a href="http://www.nesta.org.uk/sitemap">Site Map</a>
+	</li><li class="green" id="section_416">
+	<a href="http://www.nesta.org.uk/newsletter_signup">Newsletter</a>
+	</li><li class="" id="section_280">
+	<a href="http://www.nesta.org.uk/vacancies1">Vacancies</a>
+	</li><li class="" id="section_118">
+	<a href="http://www.nesta.org.uk/terms">Terms of Use</a>
+	</li><li class=" active" id="section_119">
+	<a href="http://www.nesta.org.uk/privacy">Cookies &amp; Privacy</a>
+	</li><li class="green  last" id="section_237">
+	<a href="http://www.nesta.org.uk/cymraeg">Cymraeg</a>
+	</li></ul>      	<p class="legal">Copyright Nesta 2013-2014<br>
       	<a href="http://www.kentlyons.com" target="_blank">Site designed by KentLyons</a></p>
     </div>
     <div class="clear"></div>
   </div>
 </div>
-<script type="text/javascript">Cufon.now(); </script>
+<script type="text/javascript">Cufon.now(); </script><script type="text/javascript">
 
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-1360665-6");
-pageTracker._setDomainName("www.nesta.org.uk");
-pageTracker._trackPageview();
-} catch(err) {}</script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-1360665-6']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+  </script>
+
+
 </body></html>
