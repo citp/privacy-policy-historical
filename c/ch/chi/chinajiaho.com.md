@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the chinajiaho.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003072439id_/http%3A//www.chinajiaho.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chinajiaho.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527002411id_/http%3A//www.chinajiaho.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Notice - www.Chinajiaho.com
+
+## Privacy Notice
 
 We understand that you are very concerned about the usage and sharing of your personal information. And we are very appreciated your belief on our prudence and sensitivity handling this issue. This declaration will specify our policy regarding the protection of your privacy. Our website is under the operation of Inc.  
 If you have visited our website, that will be considered to be your acceptance to this privacy policy. **Automatically collected information**   
@@ -30,16 +32,7 @@ The information you can get easily from
 
 containing the latest order information, identifiable personal information (including name, email address, password, directory inquiries etc.), payment settings (including credit card details) and so on.
 
-* * *
+﻿ 
 
-_Visit a Part of Categories of chinajiaho.com_
-
-_:_
-
-[Wholesale China Cell Phone](http://www.chinajiaho.com/Wholesale-mobile-phones_c1034.html "Cheapest Hiphone,China Mobile Phone,Chinese Cell Phone Watch")  |  [Wholesale 1 DIN & 2 DIN Car DVD Player](http://www.chinajiaho.com/Wholesale-car-dvd-players_c1042.html "Dropship Discount GPS Car DVD, 1 DIN Car DVD, 2 DIN Car DVD")
-
-[Wholesale Cell Phone Jammers & Spy Cameras](http://www.chinajiaho.com/Wholesale-security-equipment_c1051.html "Discount Portable Signal Jammer, Spy Camera, Security Equipment")  |  [Wholesale Video Games & Accessories](http://www.chinajiaho.com/Wholesale-video-games-accessories_c1119.html "Free Shipping Cheapest R4 Lite, PS3, Wii , Nintendo Ds Games, PSP,XBox 360, PS2, NDSL, PSP2000, PSP3000, Games Consoles")
-
-[Wholesale Android Win 7 Tablet PC](http://www.chinajiaho.com/Wholesale-computer-accessories-tablet-pc_c1132.html "Android Tablet PC,Google Android netbook,mini laptop")  |   [Wholesale Computer Accessories](http://www.chinajiaho.com/Wholesale-computer-accessories_c1100.html "IBM,Acer,Lenovo,ASUS Laptop Battery,Charger,PC Web Cameras,USB Fan,USB Light,Memory Card & Reader")
-
-[Wholesale Electronic Gadgets & Christmas Gift](http://www.chinajiaho.com/Wholesale-electronic-gadgets_c1060.html "Electronic Gadgets, New Gadgets & Christmas Gift")   |   [Wholesale iPhone & iPad Accessories](http://www.chinajiaho.com/Wholesale-computer-accessories-ipad-accessories_c1133.html "Apple iPad,iPod,iPhone,iPhone 3G,iPhone 3GS,iPhone 4 Accessories - Case, Cover,Earphone,Cable,Charger,Touch Stylus")
+Copyright © 2013 WWW.CHINAJIAHO.COM. All Rights Reserved.  
+[Wholesale Electronics](http://www.chinajiaho.com/) from China Electronics Supplier - Enjoy Online Shopping at Wholesale Price.
