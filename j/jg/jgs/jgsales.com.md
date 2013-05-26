@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jgsales.com privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107140603id_/http%3A//www.jgsales.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jgsales.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526162045id_/http%3A//www.jgsales.com/privacy.php) for the most accurate reproduction.*
 
 # J&G Sales
 
@@ -42,7 +42,7 @@ You provide most such information when you search, buy, order, post reviews, or 
 
 **Automatic Information**
 
-For security purposes J&G Salessometimes collects and analyzes the Internet protocol (IP) address used to connect your computer to the Internet, and to our website. This is done for your protection for tracking purposes in the unfortunate event that someone gains access to your personal or financial information and opens an account, or makes purchases under your name.
+For security purposes J&G Sales sometimes collects and analyzes the Internet protocol (IP) address used to connect your computer to the Internet, and to our website. This is done for your protection for tracking purposes in the unfortunate event that someone gains access to your personal or financial information and opens an account, or makes purchases under your name.
 
 **BATFE Information**
 
