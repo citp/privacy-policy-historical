@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wrapwithus.com privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101202754id_/http%3A//www.wrapwithus.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wrapwithus.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526020004id_/http%3A//www.wrapwithus.com/Privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - WrapWithUs Wedding Favors
+# Privacy Policy -
 
 Thank you for visiting our web site. This privacy policy tells you how we use personal information collected at this site. Please read this privacy policy before using the site or submitting any personal information. By using the site, you are accepting the practices described in this privacy policy. These practices may be changed, but any changes will be posted and changes will only apply to activities and information on a going forward, not retroactive basis. You are encouraged to review the privacy policy whenever you visit the site to make sure that you understand how any personal information you provide will be used. 
 
