@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rocketlawyer.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213182733id_/http%3A//www.rocketlawyer.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rocketlawyer.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526132434id_/http%3A//www.rocketlawyer.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Rocket Lawyer Privacy Policy
 
@@ -11,7 +11,7 @@ Rocket Lawyer Incorporated ("RLI") may collect personally identifiable informati
 
 Information about your computer hardware and software also may be automatically collected by RocketLawyer.com. This information can include: your IP address, browser type, domain names, access times and referring website addresses. This information is used by RLI for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the RocketLawyer.com website. 
 
-Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through RocketLawyer.com public message boards, this information may be collected and used by others. 
+Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through RocketLawyer.com public message boards, this information may be collected and used by others. Regarding Rocket Lawyer’s Q&A product, communications between you and a participating attorney are not confidential. For quality assurance purposes, and in order to deliver the Rocket Lawyer services, Rocket Lawyer will have access to your communications with participating attorneys. 
 
 RLI encourages you to review the privacy statements of websites you choose to link to from RocketLawyer.com so that you can understand how those websites collect, use and share your information. RLI is not responsible for the privacy statements or other content on websites outside of the RocketLawyer.com and RLI family of websites.  
   
