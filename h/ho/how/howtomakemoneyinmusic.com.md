@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the howtomakemoneyinmusic.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629202629id_/http%3A//howtomakemoneyinmusic.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howtomakemoneyinmusic.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526101455id_/http%3A//howtomakemoneyinmusic.com/privacy.php) for the most accurate reproduction.*
 
 # Howtomakemoneyinmusic's Site Privacy Policy
 
