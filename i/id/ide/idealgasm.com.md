@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the idealgasm.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210023844id_/https%3A//www.idealgasm.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idealgasm.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526201345id_/https%3A//www.idealgasm.com/page/privacy-policy) for the most accurate reproduction.*
 
 # iDealgasm - Daily Adult Deals - Privacy Policy
 
