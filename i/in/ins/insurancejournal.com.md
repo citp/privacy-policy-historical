@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insurancejournal.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221115539id_/http%3A//www.insurancejournal.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insurancejournal.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526184736id_/http%3A//www.insurancejournal.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -16,11 +16,9 @@ This means that we will not know your name, your email address, or any other per
 
 
 
-When we do need to collect personally identifiable information from you, we will ask you to voluntarily supply us with the information we need. For example, if you would like to subscribe to our magazine, we will ask you for information such as name, address, telephone number, email address and credit card number to process your subscription request. We may collect this information directly  
-from you by telephone, fax, email, upon completion of an application or enrollment form, or through your use of our web site.
+When we do need to collect personally identifiable information from you, we will ask you to voluntarily supply us with the information we need. For example, if you would like to subscribe to our magazine, we will ask you for information such as name, address, telephone number, email address and credit card number to process your subscription request. We may collect this information directly from you by telephone, fax, email, upon completion of an application or enrollment form, or through your use of our web site.
 
-InsuranceJournal.com will only collect personally identifying information with prior notification of its users. Cases may include but are not limited to the following: (i) survey, contest or sweepstakes registration and (ii) subscription. In addition, information is collected in certain portions of sites in which guests specifically and knowingly provide such information along with content  
-submissions, community postings (i.e., forums), suggestions, or reader service responses. InsuranceJournal.com may use such information for editorial and feedback purposes (to the extent that is explained when guests provide the information). In the event InsuranceJournal.com plans to post any such information on a site, guests are provided prior notification of such posting.
+InsuranceJournal.com will only collect personally identifying information with prior notification of its users. Cases may include but are not limited to the following: (i) survey, contest or sweepstakes registration and (ii) subscription. In addition, information is collected in certain portions of sites in which guests specifically and knowingly provide such information along with content submissions, community postings (i.e., forums), suggestions, or reader service responses. InsuranceJournal.com may use such information for editorial and feedback purposes (to the extent that is explained when guests provide the information). In the event InsuranceJournal.com plans to post any such information on a site, guests are provided prior notification of such posting.
 
 The types of personally identifiable information that we collect may include your name, company name, home, work and email addresses, telephone and fax numbers, credit card information, your month of birth, and information about your profession, such as the types and quantities of insurance you sell if you are an insurance agent and your agent/broker premium volume.
 
@@ -64,9 +62,9 @@ We will use your email address to send a subscription confirmation and, if neces
 **Consent**
 
 As part of our commitment to keep you informed, we may contact you via mail, email, telephone, or by other means to notify you of new Insurance Journal products and services, or upcoming Insurance Journal special offers, events, enhancements, or other relevant information that may be of interest to you. You may also receive mailings or other communications from carefully selected partners,  
-such as our referral partners or our customer satisfaction surveyors. We may offer you the option to decline any or all of these communications by following the directions included in our emails or other communications, or by contacting Insurance Journal directly.  
-In some cases your permission will be implied from the nature of the service requested or transaction undertaken. For example, Insurance Journal may collect and use personally identifiable information that you volunteer, or behavioral data or information collected in the aggregate. In addition, your permission will be deemed given for communications from us that are necessary to fulfill  
-transactions and services that you request.
+such as our referral partners or our customer satisfaction surveyors. We may offer you the option to decline any or all of these communications by following the directions included in our emails or other communications, or by contacting Insurance Journal directly.
+
+In some cases your permission will be implied from the nature of the service requested or transaction undertaken. For example, Insurance Journal may collect and use personally identifiable information that you volunteer, or behavioral data or information collected in the aggregate. In addition, your permission will be deemed given for communications from us that are necessary to fulfill transactions and services that you request.
 
 In certain circumstances, we will seek your express permission when we collect information that is regarded under certain countries? data privacy regulations to be sensitive in nature, such as racial or ethnic origin, marital status, or health conditions.
 
@@ -81,15 +79,12 @@ that all of your personally identifiable information would be completely removed
 **Security**
 
 Insurance Journal recognizes the importance of information security, and is constantly reviewing and enhancing all technical, physical, and logical security rules and procedures. After information reaches Insurance Journal, it is stored on a secure server that resides behind firewalls designed to block unauthorized access from outside of Insurance Journal. All Insurance Journal owned web  
-sites and servers have security measures in place to help protect your personally identifiable information against loss, misuse, and alteration while under our control. Although “guaranteed security” does not exist either on or off the internet, we safeguard your information using both procedural and technical safeguards, including VeriSign Secure Server ID. The use of VeriSign?s services  
-allows for the use of Secure Sockets Layer (SSL), an encryption method used to help protect your data from interception and hacking while in transit.
+sites and servers have security measures in place to help protect your personally identifiable information against loss, misuse, and alteration while under our control. Although “guaranteed security” does not exist either on or off the internet, we safeguard your information using both procedural and technical safeguards, including VeriSign Secure Server ID. The use of VeriSign?s services allows for the use of Secure Sockets Layer (SSL), an encryption method used to help protect your data from interception and hacking while in transit.
 
 **Links To Other Web Sites**
 
 In order to anticipate your needs, Insurance Journal provides links to other web sites for your convenience and information. Insurance Journal is not responsible or liable for any content presented by or contained within any independent web site, including, but not limited to, any advertising claims or marketing practices. Please note that while Insurance Journal will protect your information  
-on Insurance Journal owned and operated web sites, we cannot control and will not be responsible for the privacy policies of third party web sites, including web sites owned or controlled by independent franchisees or third party owners of companies that may use the name of an Insurance Journal brand, or web sites not controlled or authorized by Insurance Journal. Third party web sites that  
-are accessed through links on our web site have separate privacy and data collection practices, and security measures. We have no responsibility or liability for the practices, policies and security measures implemented by third parties on their web sites. We encourage you to contact them to ask questions about their privacy practices, policies and security measures before disclosing any  
-personally identifiable information. We recommend that you review the privacy statements and policies of linked web sites to understand how those web sites collect, use and store information.
+on Insurance Journal owned and operated web sites, we cannot control and will not be responsible for the privacy policies of third party web sites, including web sites owned or controlled by independent franchisees or third party owners of companies that may use the name of an Insurance Journal brand, or web sites not controlled or authorized by Insurance Journal. Third party web sites that are accessed through links on our web site have separate privacy and data collection practices, and security measures. We have no responsibility or liability for the practices, policies and security measures implemented by third parties on their web sites. We encourage you to contact them to ask questions about their privacy practices, policies and security measures before disclosing any personally identifiable information. We recommend that you review the privacy statements and policies of linked web sites to understand how those web sites collect, use and store information.
 
 **Children**
 
@@ -114,8 +109,7 @@ Fax: (619) 584-1200
 
 **Updates**
 
-Insurance Journal may amend this Online Privacy Statement from time to time in order to meet changes in the regulatory environment, business needs, or to satisfy the needs of our customers, affiliates, strategic marketing partners, and service providers. Updated versions will be posted to our web site and date stamped so that you are always aware when the Online Privacy Statement was last  
-updated.
+Insurance Journal may amend this Online Privacy Statement from time to time in order to meet changes in the regulatory environment, business needs, or to satisfy the needs of our customers, affiliates, strategic marketing partners, and service providers. Updated versions will be posted to our web site and date stamped so that you are always aware when the Online Privacy Statement was last updated.
 
 By using this site, you signify your assent to the Insurance Journal Online Privacy Policy. Wells Publishing Inc. reserves the right to make changes to this privacy statement at its sole discretion without notice to the User.
 
