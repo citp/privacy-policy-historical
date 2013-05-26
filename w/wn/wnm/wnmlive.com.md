@@ -1,90 +1,95 @@
-> *The following text is extracted and transformed from the wnmlive.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919181816id_/http%3A//www.wnmlive.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wnmlive.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526155837id_/http%3A//www.wnmlive.com/legal/privacy) for the most accurate reproduction.*
 
-# WNM Near Me :: Privacy Policy
+# WNM Live :: Privacy Policy
 
-###  Last updated: August 21, 2012
+WNM Live is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the WNM Live Web site and governs data collection and usage. By using the WNM Live website, you consent to the data practices described in this statement. We will occasionally update this Privacy Policy to reflect company and customer feedback.  We strongly encourage you to periodically review this policy to be informed of how we are protecting your personal information. If you have any questions, concerns, or comments about this policy please do not hesitate to contact us at [support@wnmlive.com](mailto:support@wnmlive.com). 
 
-Welcome to the website properties (the “SynergeTech Solutions Web Sites”) of SynergeTech Solutions, Inc and its affiliates, successors, and assigns (collectively referred to as “SynergeTech Solutions”). SynergeTech Solutions products and services (collectively, the “Products and Services”) are offered by SynergeTech Solutions through web pages at or linked to the SynergeTech Solutions Web Sites, and are made available subject to this Privacy Policy. This Privacy Policy discloses the privacy practices of SynergeTech Solutions. SynergeTech Solutions reserves the right to change this Privacy Policy from time to time at its sole discretion. You are at all times responsible for reading and understanding any notices regarding this Privacy Policy and the current version of this document, as well as reading and understanding the current versions of all other SynergeTech Solutions policies, procedures and guidelines relating to the Products and Services and the SynergeTech Solutions Web Sites. YOUR CONTINUED USE OF SYNERGETECH SOLUTIONS WEB SITES AND/OR  THE PRODUCTS AND SERVICES FOLLOWING SYNERGETECH SOLUTIONS’S POSTING OF ANY CHANGES WILL CONSTITUTE YOUR ACCEPTANCE OF SUCH CHANGES. IF  YOU DO NOT AGREE TO ANY CHANGES TO  THIS PRIVACY POLICY, DO NOT CONTINUE TO  USE THE PRODUCTS OR SERVICES OR THE SYNERGETECH SOLUTIONS WEB SITES.
+|   
+| 
 
-  1. What information does SynergeTech Solutions collect?
-  2. What are “cookies” and how does SynergeTech Solutions use them?
-  3. What organization is collecting the information?
-  4. How does SynergeTech Solutions use the information it collects?
-  5. With whom does SynergeTech Solutions share the information that is collected?
-  6. What types of security procedures are in place to protect against the loss, misuse or alteration of your information?
-  7. Updating your personal information and privacy preferences.
-  8. Inquiries and Complaints
-  9. Disputes
-  10. Special notice regarding location data
+### Who We Are
 
+**SynergeTech Solutions, Inc**  
+160 Lowell Avenue  
+Palo Alto, CA 94301
 
+WNM Live is owned and operated by SynergeTech Solutions, Inc, a California domestic corporation.  
+  
+| 
 
-Please note that SynergeTech Solutions Web Sites may contain links to other sites and that these sites’ Privacy Policies may not conform to our own. This SynergeTech Solutions Privacy Policy does not cover third party data collection practices and SynergeTech Solutions does not assume any responsibility for any actions of third parties. You are solely responsible for reading and understanding the privacy and other policies of such web sites, and for complying therewith.
+### Collection of Personal Data
 
-###  1\. What information does SynergeTech Solutions collect?
+We collect personally identifiable information, such as your e-mail address, username, age, and precise location.  There is also information about your computer hardware and software that is automatically collected by us. This information can include: your IP address, browser or device type, domain names, access times and referring Web site addresses. This information is used by us for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the service. Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through this service, it may be publiclly viewable by other users.  
+  
+| 
 
-SynergeTech Solutions sometimes needs to collect information to understand what differentiates you from other unique users. We collect two types of information from you, “anonymous information” and “personally identifiable information.” Anonymous information refers to information that cannot be tied back to a specific individual. Each time a visitor comes to a SynergeTech Solutions Web Site, SynergeTech Solutions collects some information to improve the overall quality of the visitor’s online experience. For example, SynergeTech Solutions collects general information regarding the visitor’s IP address (e.g., whether the user is logged on from a .com, .gov or .edu domain), referral data (e.g., the address of the last URL a user visited prior to clicking through to a SynergeTech Solutions Web Site), and browser and platform type (e.g., a Netscape browser on a Macintosh platform). SynergeTech Solutions also collects aggregate search terms from its search services for internal reporting and targeted content presentation (that is, web pages which are dynamically displayed based on your individual interests). SynergeTech Solutions collects this user information for purposes of product monitoring, product improvement, and target content.
+### Location Data Collection
 
-In addition to this anonymous data, SynergeTech Solutions may also collect personally identifiable information. Personally identifiable information refers to information that tells us specifically who you are, such as your name and postal address. SynergeTech Solutions collects personally identifiable information in the following ways from different parts of its network of web sites:
+In order to use the WNM Live Services, we need to associate your account with a geographic location. In order to do this, we will utilize the GPS and/or cellular antenna of your mobile device to find your approximate location. We may also utilize your IP Address to determine where you are. Your latitude and longitude coordinate pair will be utilized to determine the city and political region that you are currently in. This information will be posted publically when you use the WNM Live service. If you would like to opt-out of sharing your actual geographic location, you can visit the Account Settings page of www.wnmlive.com and override your location with a false one. Location data will be treated as any other personally identifiable collected in regards to our policy on sharing such information with third parties. Even if you opt-out of sharing your location data publically with other users, please note that SynergeTech Solutions will still collect your location data and may still share it with third parties to enable us to run the WNM Live properties.   
+  
+| 
 
-  * Most of the personal information is gathered when you register with one or several of SynergeTech Solutions Web Sites (often when you use a computer program or other Product or Service for the first time). If you choose to register, you may provide SynergeTech Solutions with your name, postal address, email address, birth date, gender, zip code and other requested information. While not all of this information may be required, the more information you volunteer (and the more accurate it is), the better we are able to customize your experience.
-  * SynergeTech Solutions may also specifically ask you whether we may send you information about Products and Services related to a SynergeTech Solutions purchase.
-  * SynergeTech Solutions collects information from commercial transactions, from requests for information on the SynergeTech Solutions Web Sites, and from its registration database.
-  * SynergeTech Solutions may review and compare installation information from your computer, including product, version, build, language, and OEM.
-  * If you contact SynergeTech Solutions, we may keep a record of that correspondence, including your email address. We use that information so that we may respond to that email, and for future reference.
+### Data Use and Sharing
 
+The nature of the WNM Live service is that most information you give us will be shared with any other user, or even anonymous visitor, of the WNM Live service.  This includes your profile details, Live Stream posts, photos, and general location.  You can block specific users from accessing this data.  Private messages between you and a single other user will not be shared by the WNM Live service, but could be shared by the other participant.
 
+There are also a few ways we share your data in order to help enhance the service, and specifically drive user interaction.  For instance, we may choose to use your user content (including your profile, posts, or photos) to market the WNM Live service.  This could include, without limitation, screenshots for the App Store or promotional emails to current or potential users.  
+  
+| 
 
-###  2\. What are “cookies” and how does SynergeTech Solutions use them?
+### Security of Personal Data
 
-A cookie is a small text file containing a unique identification number that is transferred from a web site to the hard drive of your computer so that the web site may identify you and track your activities on the web site. This unique number identifies your browser to computers whenever you visit the web site making use of them. A cookie will not allow a web site to learn any personally identifiable information (such as your real name and address) that you have not otherwise disclosed.
+Your privacy is of the utmost concern to our company.  We secure your personal information from unauthorized access, use, and disclosure. We secure the personally identifiable information you provide on servers in a controlled, secured environment, protected from unauthorized access via physical and technical mechanisms in accordance with industry best practices. When personal information (such as a credit card number) is transmitted to other Web sites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
 
-In order to improve the SynergeTech Solutions Web Sites, we use cookies to track your visits. Most browsers are initially set to accept cookies. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it. For some SynergeTech Solutions Web Sites that require an authorization, cookies may not be optional; users choosing not to accept cookies may not be able to access such Web Sites or to use some or all of the Products and/or Services otherwise available on such Web Sites.
+When you submit personally identifiable information to us, you understand and agree that this information may be transferred across national boundaries and may be stored and processed in any of the countries in which we or our affiliates and subsidiaries maintain offices, including, without limitation, the United States. You also acknowledge that in certain countries or with respect to certain activities, the collection, transferring, storage, and processing of your information may be undertaken by trusted vendors of ours. Such vendors are bound by contract not to use your personal information for their own purposes or provide it to any third parties.  
+  
+| 
 
-###  3\. What organization is collecting the information?
+### Limited Data Sharing With Advertisers
 
-When you provide information on any of the SynergeTech Solutions Web Sites, that information is collected and maintained either by SynergeTech Solutions or by an authorized agent of SynergeTech Solutions, unless specifically stated otherwise at the point of collection. 
+WNM Live is an ad-supported free service.  We currently only show advertisements on our Windows Phone application.  We work with Microsoft Advertising and AdDuplex to provide the advertisements shown within that application.  Both companies are highly respected and reputable.  In order to provide the most relevant advertisements to each user, we share with Microsoft Advertising the following pieces of personal data: 
 
-###  4\. How does SynergeTech Solutions use the information it collects?
-
-Any personal information you provide to SynergeTech Solutions at any of the SynergeTech Solutions Web Sites is maintained and accessible only by SynergeTech Solutions and its authorized agents, unless specifically stated otherwise. SynergeTech Solutions may request information from its users so that users can enjoy customized experiences across SynergeTech Solutions Web Sites, including personalization services, interactive communications, discussion groups, and many other types of content and services. Most of these Products and Services are free to you. In order to provide great content and services free of charge, SynergeTech Solutions may display advertisements.
-
-The following are examples of how SynergeTech Solutions may use the information it collects:
-
-  * SynergeTech Solutions may provide you with technical support, updates to Products and Services, and upgrades to newer products as they become available.
-  * SynergeTech Solutions may offer its users the ability to personalize content such as news, local resources, links to other web sites, and more.
-  * SynergeTech Solutions may, from time to time, use your information to contact you about changes or enhancements to SynergeTech Solutions Products and Services.
-  * SynergeTech Solutions may be required by law enforcement or judicial authorities to provide information on individual users to the appropriate governmental authorities. In matters involving a danger to personal or public safety, SynergeTech Solutions may voluntarily provide information to appropriate governmental authorities. If you are a member of the military, you should not register any personally identifiable information at the SynergeTech Solutions Web Sites in the eventuality that it may be subpoenaed.
-  * SynergeTech Solutions sometimes uses an individual registered user’s data to “pre-populate” forms that are displayed when that user has logged in for the purpose of collecting individual data by SynergeTech Solutions and/or its advertisers and sponsors.
-  * SynergeTech Solutions may use the aggregate data collected to inform our sponsors, advertisers and other third parties as to numbers of people who have certain demographic characteristics and the number of those people who have seen and “clicked” on specific pages or advertisement(s). We may also disclose to such third-parties the overall demographics available regarding who saw and “clicked” on advertisements. No personally identifiable information will be disclosed to any individual, whatsoever, as part of this process without your express consent; only information in an aggregate form.
-  * In the event SynergeTech Solutions sells assets (or the assets of a division or subsidiary) to another entity, including, without limitation, in the event of bankruptcy, or if SynergeTech Solutions (or a division or subsidiary) is acquired by, or merged with, another entity, SynergeTech Solutions may provide to such entity customer and visitor information (both aggregate and personally identifiable) that is related to that part of the business that was sold to or merged with the other entity.
-  * If you inform SynergeTech Solutions that you are interested in receiving offers or information, SynergeTech Solutions may send you email or otherwise contact you about products and services that we feel may be of interest to you, including, without limitation notification of sales, coupons, newsletters and other communications. For those who elect to receive such materials from SynergeTech Solutions or third parties, and who indicate that they do in their profile, SynergeTech Solutions will release personally identifiable information. Information released may include your name, email address and other information supplied in the SynergeTech Solutions registration process, and only when you specifically grant us that right.
-  * SynergeTech Solutions also uses aggregate data to perform statistical analyses of the collective characteristics and behavior of our registered users and visitors, to measure user demographics and interests regarding specific areas of the SynergeTech Solutions Web Sites, and to analyze how and where best to use our resources.
+  * Precise Location
+  * Locale and Language Settings
+  * Device Unique ID
+  * Obfuscated Windows Live ID
+  * Device Hardware/Software Details
 
 
 
-###  5\. With whom does SynergeTech Solutions share the information that is collected?
+We provide AdDuplex with the following pieces of personal data: 
 
-Information about our customers and visitors to the SynergeTech Solutions Web Sites is an important part of our business, and we are not in the business of selling it to others. We share customer information only as described in this Privacy Policy and with affiliates, subsidiaries and agents that either are subject to this Privacy Policy or follow practices at least as protective as those described in this Privacy Policy.
+  * Locale and Language Settings
+  * Device Hardware/Software Details
 
-When you submit personally identifiable information to SynergeTech Solutions, you understand and agree that this information may be transferred across national boundaries and may be stored and processed in any of the countries in which SynergeTech Solutions and its affiliates and subsidiaries maintain offices, including, without limitation, the United States. You also acknowledge that in certain countries or with respect to certain activities, the collection, transferring, storage, and processing of your information may be undertaken by trusted vendors of SynergeTech Solutions. Such vendors are bound by contract not to use your personal information for their own purposes or provide it to any third parties.
 
-SynergeTech Solutions has established relationships with various service providers whose services are available to you from the SynergeTech Solutions Web Sites or from web sites that are linked to the SynergeTech Solutions Web Sites. Typically, these providers offer services that SynergeTech Solutions customers might find useful, such as those that can be used in conjunction with SynergeTech Solutions Products and Services. In order to use those services, you may be required to provide personally identifiable or other information to the providers. Unless expressly provided to the contrary, personally identifiable information that you provide while you are visiting a provider’s web site will be subject to the privacy policy posted on such web site, and personally identifiable information that you provide while on the SynergeTech Solutions Web Sites in conjunction with a provider’s service will be subject to this Privacy Policy. As noted above, you are solely responsible for reading and understanding the privacy and other policies of these service providers and all other third party web sites you visit. You should be aware that our agreements with these service providers often provide that they will share with SynergeTech Solutions personal information collected from you. If we do receive information from a third party service provider, we may use this information in a manner consistent with this Privacy Policy. In the situation where web sites have a SynergeTech Solutions “look and feel,” and you reasonably believe you are on a SynergeTech Solutions Web Site, the web site should be collecting information in an intermediary capacity, and not for secondary purposes.
 
-###  6\. What kinds of security procedures are in place to protect against the loss, misuse or alteration of your information?
+You can read the privacy policies of these third-party companies on their respective websites: 
 
-SynergeTech Solutions has security measures in place to attempt to protect against the loss, misuse and alteration of your user data under our control. We have implemented rules and procedures designed to limit access to the information you provide us to authorized SynergeTech Solutions employees and agents. Despite the steps we take to ensure the protection of your information, unfortunately we cannot guarantee that loss, misuse or alteration to data will not occur. To better protect you, we encrypt particularly sensitive information, such as credit card numbers collected for a commerce transaction on the SynergeTech Solutions Web Sites, prior to transmission.
+  * [Microsoft Privacy Policy](http://privacy.microsoft.com/en-us/default.mspx)
+  * [AdDuplex Privacy Policy](http://www.adduplex.com/Home/Privacy)
 
-You are responsible for the security of your SynergeTech Solutions ID and password. Please take care when using and storing them. SynergeTech Solutions recommends that you do not divulge your password to anyone. You should log out of your browser at the end of each computer session to ensure that others cannot access your personal information and correspondence, especially if you share a computer with someone else or are using a computer in a public place like a library or Internet cafe.
+  
+| 
 
-###  7\. Inquiries and Complaints
+### No Sale of Personal Data Collected
 
-If you have any concern about privacy at SynergeTech Solutions, please send us a thorough description of your concern to privacy@synergeTechsolutions.com and we will try to resolve it.
+We are not in the business of selling any of your personal data to any other individual or company and such a sale would never take place.  We do not sell, rent, or lease our customer list to third parties, although we may sell, rent, or lease access to such users with the user's explicit permission. We may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, we may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to our company and users, and they are required to maintain the confidentiality of your information.  We also reserve the right to pass along all the data we have collected in the event of a merger or acquistion of our company in order to facilitate the continued operation of the service.   
+  
+| 
 
-###  9\. Disputes
+### Disclosure to Law Enforcement
 
-If you choose to visit any SynergeTech Solutions Web Site, your visit and any dispute over privacy is subject to this Privacy Policy and our Legal terms and conditions, including limitations on damages, arbitration of disputes, and application of the law of the State of California.
+We will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to conform to the edicts of the law or comply with legal process served on our company or the site; protect and defend the rights or property of  our company; and, act under exigent circumstances to protect the personal safety of users of this service, or the public.   
+  
+| 
 
-###  10\. Location Data
+### Service Monitoring
 
-In addition to the types of personably identifying data discussed above, we wanted to make a special point to mention our policy in regards to geographic data (latitude, longitude coordinate pairs) that we collect.  In order to use the WNM Near Me Services, we need to associate your account with a geographic location.  In order to do this, we will utilize the GPS and/or cellular antenna of your mobile device to find your approximate location.  We may also utilize your IP Address to determine where you are.  Your latitude and longitude coordinate pair will be utilized to determine the city and political region that you are currently in.  This information will be posted publically when you use the WNM Near Me service.  If you would like to opt-out of sharing your actual geographic location, you can visit the Account Settings page of [www.wnmlive.com](http://www.wnmlive.com/) and override your location with a false one.  Location data will be treated as any other personally identifiable collected in regards to our policy on sharing such information with third parties.  Even if you opt-out of sharing your location data publically with other users, please note that SynergeTech Solutions will still collect your location data and may still share it with third parties to enable us to run the WNM Near Me properties.
+During normal course of business our employees, sub-contractors, agents, and affiliates will never review your private communications or other personal data.  We do however reserve the right to do so when there is a clear and obvious need to do so.  An example of such a situation would be to verify reports of harrassment or to investigate service interuptions or issues.  In the event that it is neccessary to review private personal data, such data will only be viewed by individuals under a strict non-disclosure agreement with our company to protect disclosure beyond our company.   
+  
+| 
+
+### Data Retention
+
+Your data will be retained on our server computers indefinitely.  In the event that you delete data from the service, it likely will be retained on our servers.  In the event that your account is deactivated, your email address is deleted from our production system, but all other data will be preserved. 
