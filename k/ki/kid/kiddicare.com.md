@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kiddicare.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017150033id_/http%3A//www.kiddicare.com/webapp/wcs/stores/servlet/securityandprivacy0_10751__-1_10001) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kiddicare.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526085356id_/http%3A//www.kiddicare.com/webapp/wcs/stores/servlet/securityandprivacy0_10751__-1_10001) for the most accurate reproduction.*
 
 # Kiddicare - Privacy and Cookies| Online baby shop | Nursery Equipment
 
@@ -61,7 +61,7 @@ We use the information we collect:
 
 Return to top of page
 
-**Who do we share it with?**
+ **Who do we share it with?**
 
 We cannot run our business without involving other people and businesses and sometimes we pass the information to these other people and businesses as set out below.
 
@@ -95,7 +95,7 @@ Please note that your telecoms network providers (including mobile phone network
 
 Return to top of page
 
-**How do we receive information and store it?**
+ **How do we receive information and store it?**
 
 Much of the information we receive is provided electronically, originating with your relevant device and then transmitted to us by your relevant telecoms network provider. 
 
@@ -119,7 +119,7 @@ If you have any concerns about the security of your own domestic computers and m
 
 Return to top of page
 
-**How long do we keep it for?**
+ **How long do we keep it for?**
 
 We may retain your information for historic research and statistical purposes for as long as we choose (which could be indefinitely).
 
@@ -220,7 +220,7 @@ Now that we've explained what cookies are, please read 'How do we use cookies' t
 
 Return to top of page
 
-**How do we use cookies?**
+ **How do we use cookies?**
 
 We have set out brief details of the cookies and similar technologies we use below, together with an overview of why we use them. 
 
@@ -458,7 +458,7 @@ You'll need to consult your browser's user guide to see how you can use it to re
 
 Return to top of page
 
-**What will happen if you choose to restrict or block cookies?**
+ **What will happen if you choose to restrict or block cookies?**
 
 If you choose to restrict or block cookies and similar technologies on your computer and/or mobile phone on average your browsing experience will change.
 
