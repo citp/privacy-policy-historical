@@ -1,8 +1,14 @@
-> *The following text is extracted and transformed from the hexrpg.com privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125035140id_/http%3A//www.hexrpg.com/terms.php%3Fview%3Dpp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hexrpg.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526163633id_/http%3A//www.hexrpg.com/terms.php%3Fview%3Dpp) for the most accurate reproduction.*
 
 # Hogwarts Extreme : An Interactive Harry Potter RPG
 
-_Hogwarts Extreme - Privacy Policy_  
+  
+
+
+We depend on advertisements and donations to keep the site up and running.  
+Please consider disabling Adblock or subscribing to one of our donation packages. It would mean a lot to us.
+
+ _Hogwarts Extreme - Privacy Policy_  
   
 Hogwarts Extreme fully respects the privacy of its users and pledges to continually protect it by using the best means of technology available. This policy is provided as an informational tool for everyone. Please contact us if you have any questions through the "Contact" link located at the bottom of every page. 
 
@@ -39,10 +45,12 @@ Links to other websites exist on Hogwarts Extreme and can mostly be found under 
 
 **Parents**
 
-Please view our [COPPA Policy](https://web.archive.org/web/20121125035140id_/http%3A//www.hexrpg.com/terms.php?view=coppa) for information. 
+Please view our [COPPA Policy](https://web.archive.org/web/20130526163633id_/http%3A//www.hexrpg.com/terms.php?view=coppa) for information. 
 
 **Updating of this Policy**
 
 If this policy is modified, a news post will be made on the main page or an asterisk will be put next to the link to this policy. It is your responsibility to notice these notifications.
 
- **Eleven Years of Magic**
+[ **About**](https://web.archive.org/about.php) • [**Terms**](https://web.archive.org/terms.php) * • [**Bullying**](https://web.archive.org/bullying.php) • [**Privacy Policy**](https://web.archive.org/terms.php?view=pp) • [**COPPA Policy**](https://web.archive.org/terms.php?view=coppa) • [**Credits**](https://web.archive.org/terms.php?view=credits) • [**Contact**](https://web.archive.org/contact.php) • [**Multiples**](https://web.archive.org/multiples.php) • [**Site Map**](https://web.archive.org/sitemap.php) **Eleven Years of Magic** Copyright © 2001-2013 HEXRPG. All rights reserved.  Hogwarts Extreme is an independent fan website.  
+Images, content, Harry Potter © Warner Brothers, J.K. Rowling, and/or their respective owners.  
+User content on this website is credited to the individuals. 
