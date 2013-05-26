@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the grammarbank.com privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124063946id_/http%3A//www.grammarbank.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grammarbank.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526045800id_/http%3A//www.grammarbank.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - GrammarBank
 
+## GrammarBank Privacy Policy
+
+* * *
+
 **What information do we collect?**
 
-We collect information from you when you register on our site, respond to a survey or fill out a form. 
+We collect information from you when you register on our site, respond to a survey or fill out a form.
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
 
@@ -39,23 +43,13 @@ Because we value your privacy we have taken the necessary precautions to be in c
 
 As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the 'Edit Profile' page.
 
- **Childrens Online Privacy Protection Act Compliance**
+ **Children's Online Privacy Protection Act Compliance**
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+We are in compliance with the requirements of COPPA (Children's Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
 
- **Your Consent**
-
-By using our site, you consent to our [privacy policy](http://www.freeprivacypolicy.com/).
-
- **Changes to our Privacy Policy**
-
-If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
-
-This policy was last modified on Tuesday, May 1, 2012
-
- **Contacting Us**
+ **Contact Us**
 
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
 www.grammarbank.com  
-learn@grammarbank.com
+learn@grammarbank.com 
