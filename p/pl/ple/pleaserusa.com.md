@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pleaserusa.com privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121133724id_/http%3A//www2.pleaserusa.com/policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pleaserusa.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526180240id_/http%3A//www.pleaserusa.com/policy.asp) for the most accurate reproduction.*
 
-# www.pleaserusa.com - Privacy Policy
+# 
 
 Pleaser USA, Inc. ("Pleaser") respects the privacy of our customers and the users of our website, and has established the following provisions to ensure that your personal information is handled in a responsible manner. Pleaser will not collect, use or disclose your personal information other than in compliance with this Policy. By visiting [www.pleaserusa.com](http://www.pleaserusa.com/), you are accepting the practices described in this policy notice.
 
