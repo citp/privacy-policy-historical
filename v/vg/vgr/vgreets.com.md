@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vgreets.com privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124140720id_/http%3A//www.vgreets.com/privacy.shtm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vgreets.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526222754id_/http%3A//www.vgreets.com/privacy.shtm) for the most accurate reproduction.*
 
 # Privacy Policy
 
