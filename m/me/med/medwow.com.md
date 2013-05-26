@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medwow.com privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125224324id_/http%3A//www.medwow.com/view_content.php%3Fid%3D626) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medwow.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527000833id_/http%3A//www.medwow.com/view_content.php%3Fid%3D626) for the most accurate reproduction.*
 
 # Privacy Policy - MedWOW.com
 
@@ -106,4 +106,4 @@ We may change and update the terms of this Policy from time to time. We therefor
 
 You may send us requests, responses, questions and complaints, by using the ['contact us'](http://www.medwow.com/contact.php) form on MedWOW, or by contacting us at [service@medwow.com](mailto:service@medwow.com).
 
-Copyright © 2011 MedWOW ltd. All rights reserved. 
+Copyright © 2013 MedWOW ltd. All rights reserved. 
