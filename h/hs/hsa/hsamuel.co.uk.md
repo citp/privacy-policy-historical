@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hsamuel.co.uk privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010121320id_/http%3A//www.hsamuel.co.uk/webstore/static/legal/privacy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hsamuel.co.uk privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527015305id_/http%3A//www.hsamuel.co.uk/webstore/static/legal/privacy.do) for the most accurate reproduction.*
 
 # Security & Privacy - H.Samuel the Jeweller
 
@@ -14,16 +14,16 @@ We understand that privacy is important to you, and we promise to look after you
 
 By providing H.Samuel with your information, you consent to the collection and processing of such information in accordance with the terms of this Policy.
 
-### What information do we collect from you? 
+### What information do we collect from you?
 
-We will only collect information about you if you willingly provide it. The information you provide which is about you is referred to as personal information. Please make sure you [update your personal information](https://web.archive.org/webstore/secure/myaccount.do) if any of your details change.
+We will only collect information about you if you willingly provide it. The information you provide which is about you is referred to as personal information. Please make sure you [update your personal information](https://web.archive.org/webstore/secure/myaccount.do) if any of your details change. 
 
 In order to do any of the following, you will need to provide us with certain details:
 
   * place an order
   * request a gold recycling/buying pack
   * be contacted by us so that we may notify you of our offer to buy your goods under our gold recycling/buying scheme or answer any queries in relation to the proposed sale
-  * make a payment to you under our gold recycling/buying scheme 
+  * make a payment to you under our gold recycling/buying scheme
   * sign up for e-newsletters
   * enter competitions
   * take part in a survey (in this instance, your details will be passed to a third party for research purposes only)
@@ -31,7 +31,7 @@ In order to do any of the following, you will need to provide us with certain de
 
 
 
-The details you provide may include your name, email address, delivery address, telephone number, credit or debit card number and the card's expiry date. 
+The details you provide may include your name, email address, delivery address, telephone number, credit or debit card number and the card's expiry date.
 
 We may collect your IP (Internet Protocol) address to help diagnose problems with our server and to administer the website. An IP address is a number that is assigned to your computer when you use the Internet. Your IP address is also used to help identify you during a particular session and to gather statistical data.
 
@@ -41,11 +41,11 @@ We will use this information to fulfil any order, to fulfil any of our services 
 
 We may also use these details for validation checks, as outlined below.
 
-We may also use your personal information to contact you about news and offers that we think may interest you, or to tell you if we change anything important about how the website works, or the terms of use of the website. 
+We may also use your personal information to contact you about news and offers that we think may interest you, or to tell you if we change anything important about how the website works, or the terms of use of the website.
 
-If you decide at any point that you no longer wish to receive messages of this nature, please [Contact Us](https://web.archive.org/webstore/secure/contactus.do) and send an email to let us know. Alternatively, click to unsubscribe at the bottom of any of the emails you receive.
+If you decide at any point that you no longer wish to receive messages of this nature, please [Contact Us](https://web.archive.org/webstore/secure/contactus.do) and send an email to let us know. Alternatively, click to unsubscribe at the bottom of any of the emails you receive. 
 
-Please note that if you [telephone us](https://web.archive.org/webstore/secure/contactus.do), or we telephone you, calls may be recorded for training purposes and/or to provide evidence of the terms of any agreement we may enter into, including in respect of our gold recycling/buying scheme.
+Please note that if you [telephone us](https://web.archive.org/webstore/secure/contactus.do), or we telephone you, calls may be recorded for training purposes and/or to provide evidence of the terms of any agreement we may enter into, including in respect of our gold recycling/buying scheme. 
 
 We may use these details for validation checks, as outlined below.
 
@@ -65,7 +65,7 @@ We will only keep your personal information for as long as necessary and consist
 
 ### Access to your information and correction
 
-You have the right to request a copy of the information that we hold about you - to obtain a copy of this personal information, please refer to the [Contact Us](https://web.archive.org/webstore/secure/contactus.do) section.
+You have the right to request a copy of the information that we hold about you - to obtain a copy of this personal information, please refer to the [Contact Us](https://web.archive.org/webstore/secure/contactus.do) section. 
 
 We want to make sure that your personal information is accurate and up to date, therefore you may ask us to correct or remove information you think is inaccurate.
 
@@ -75,7 +75,7 @@ When you use our website and enter your name and details, you will become a reco
 
 By using cookies, we can make your online experience more efficient. For example, they allow you to store your chosen items in your shopping basket, without losing them between visits, and to make the checkout process faster by having your card and delivery details ready to use.
 
-We will also use cookies for the compilation of certain statistics (which do not identify you personally) relating to the use of the website. Such information may include the number of visits, average time spent, and other statistics relating to the website. 
+We will also use cookies for the compilation of certain statistics (which do not identify you personally) relating to the use of the website. Such information may include the number of visits, average time spent, and other statistics relating to the website.
 
 You may see H.Samuel adverts on other websites. For these adverts, we will be using software that may set a cookie to your browser. This software will allow us to monitor if you see our adverts, if you click on them and if you go on to buy from our website.
 
@@ -91,7 +91,7 @@ Our website contains links to other websites. Please note that we are not respon
 
 Our website uses a secure server which uses SSL technology (secure sockets layer) to make sure that all your credit or debit card transactions are completely secure.
 
-Every time we receive an order, we use fraud checking systems as well as authentication processes before we fulfil it. 
+Every time we receive an order, we use fraud checking systems as well as authentication processes before we fulfil it.
 
 When you use our website, the secure server will encrypt all of the personal information you send us, including credit or debit card number and name and address. Encryption turns the information you enter into bits of code which are then securely transmitted to us over the Internet.
 
@@ -101,7 +101,7 @@ At H.Samuel we are committed to protecting you against unauthorised transactions
 
 ### Validation checks
 
-All credit and charge card holders are subject to validation checks and authorisation by the card issuer. If the issuer of your payment card refuses to authorise payment to us, we will not be liable for any delay or non-delivery. In addition, in the interests of preventing fraudulent use of credit, debit and charge cards, H.Samuel will validate the names, addresses and other information supplied during the order process against commercially available records (e.g Electoral Roll data, Credit Reference Services). A third party may also be instructed to complete these checks. By ordering from the hsamuel.co.uk website you consent to such checks being made. We may need to contact you by letter, telephone or email to verify details before we are able to process and dispatch your order or we may be unable to accept your order. Any information given may be disclosed to a registered Credit Reference Agency which may keep a record of the information. All information provided will be treated in accordance with the Data Protection Act 1998. These measures are taken as extra protection for you, to ensure your online shopping experience with us is as safe and secure as possible and to assist in the prevention of crime.
+All credit and charge card holders are subject to validation checks and authorisation by the card issuer. If the issuer of your payment card refuses to authorise payment to us, we will not be liable for any delay or non-delivery. In addition, in the interests of preventing fraudulent use of credit, debit and charge cards, H.Samuel will validate the names, addresses and other information supplied during the order process against commercially available records (e.g Electoral Roll data, Credit Reference Services). A third party may also be instructed to complete these checks. By ordering from the hsamuel.co.uk website you consent to such checks being made. We may need to contact you by letter, telephone or email to verify details before we are able to process and dispatch your order or we may be unable to accept your order. Any information given may be disclosed to a registered Credit Reference Agency which may keep a record of the information. All information provided will be treated in accordance with the Data Protection Act 1998\. These measures are taken as extra protection for you, to ensure your online shopping experience with us is as safe and secure as possible and to assist in the prevention of crime.
 
 ### Security Code
 
