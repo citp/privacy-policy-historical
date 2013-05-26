@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hackillusion.com privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205003752id_/http%3A//www.hackillusion.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hackillusion.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526064350id_/http%3A//www.hackillusion.com/privacy-policy) for the most accurate reproduction.*
 
-# privacy policy Hack Illusion : Hack Illusion
+# privacy policy Hack Illusion | Hack Illusion
 
-[Privacy Policy](http://www.hackillusion.com/privacy-policy/ "Privacy Policy") for [http://www.hackillusion.com](http://www.hackillusion.com/)
+Privacy Policy for [http://www.hackillusion.com](http://www.hackillusion.com/)
 
 The privacy of our visitors to [http://www.hackillusion.com](http://www.hackillusion.com/) is important to us.
 
