@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4networking.biz privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021132319id_/http%3A//www.4networking.biz/Pages/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4networking.biz privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527015242id_/http%3A//www.4networking.biz/Pages/Privacy) for the most accurate reproduction.*
 
 # Privacy Statment for 4Networking
 
@@ -19,19 +19,19 @@ We refer to information about individuals in this policy as “personal informat
 
 If you enter personal information such as your name, e-mail address and telephone number, this information will be passed to other members of 4Networking who may use such information to contact you.
 
-We may also use personal information to notify you of news and information about 4networking by way of email. 
+We may also use personal information to notify you of news and information about 4networking by way of email.
 
 Personal information may also be used to help us provide other services on this site in the future.
 
 ##  **Sharing of Information**
 
-We may share personal information with third parties for the purposes of performing the Networking Services as such term is described in our Terms and Conditions. Examples include providing your details to other subscribers to 4networking, arranging meetings, seminars and booking venues for meetings. 
+We may share personal information with third parties for the purposes of performing the Networking Services as such term is described in our Terms and Conditions. Examples include providing your details to other subscribers to 4networking, arranging meetings, seminars and booking venues for meetings.
 
 We do not sell your personal information.
 
 ##  **Cookies**
 
-A cookie is a small piece of information sent by a web server to a web browser, which enable the server to collect information from the browser. For information about cookies see [www.AboutCookies.org](http://www.aboutcookies.org/). 
+A cookie is a small piece of information sent by a web server to a web browser, which enable the server to collect information from the browser. For information about cookies see [www.AboutCookies.org](http://www.aboutcookies.org/).
 
 This site **_does_** use cookies.
 
