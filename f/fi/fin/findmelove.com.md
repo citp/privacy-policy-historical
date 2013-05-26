@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findmelove.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016022237id_/http%3A//www.findmelove.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findmelove.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526151114id_/http%3A//www.findmelove.com/privacy) for the most accurate reproduction.*
 
 # FindMeLove.com | Privacy Policy
 
@@ -62,7 +62,7 @@ We may also provide information about you to other users of the Site as reasonab
 
 **Marketing**
 
-We would like to send you information about goods and services offered by us and selected third parties that we think may be of interest to you. If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes please tick the appropriate boxes situated in the ' **my account** ' area of the Site. You can also ask us to not to use your personal information, or to pass your details on to third parties for marketing purposes, by e-mailing us at:
+By joining any site within JDI Dating Ltd you agree that we may use your contact information for the purpose of sending or advertising to you, information or promotional material relating to the JDI Dating Ltd network of sites or third party sites.
 
 You can set your browser not to accept cookies and the above website tells you how to do that. However, in a few cases some of the features on our Site may not function as a result. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to the Site.
 
@@ -86,6 +86,10 @@ Where we have given you (or where you have chosen) a password or user ID code wh
 
 Unfortunately, the transmission of information via the internet is not completely secure. Athough we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to the Site; any transmission is at your own risk. Once we have received your information, we will use procedures and security features to try to prevent unauthorised access.
 
+**E-Mail Removal**
+
+If you wish to opt-out of receiving all e-mail correspondence from us, please submit your email [here](https://web.archive.org/un-subscribe).
+
 **Other Websites**
 
 The Site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
@@ -101,3 +105,13 @@ We want to make sure that your personal information is accurate and up to date. 
 We keep our privacy policy under regular review and will post any changes to it on this page. We encourage you to regularly review our privacy policy to make sure you are always aware of what information we collect, how we use it and under what circumstances, if any, we may share it with other parties.
 
 Please note that we do not verify user’s identity when a photo is submitted which means we cannot guarantee all photos are of the person named in the profile. We accept no responsibility for the source of the photo and will remove any photos that are proved to not be of the named user.
+
+JDI Dating Ltd
+
+Station House,  
+North Street,  
+Havant,  
+Hampshire,  
+United Kingdom,  
+PO91QU  
+
