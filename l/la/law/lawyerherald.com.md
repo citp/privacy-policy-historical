@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lawyerherald.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230063814id_/http%3A//www.lawyerherald.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lawyerherald.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526094802id_/http%3A//www.lawyerherald.com/privacypolicy) for the most accurate reproduction.*
 
 # Lawyer Herald
 
@@ -220,9 +220,9 @@ Further, if you use any of the Communities features and functions made available
 
 This Privacy Policy was last modified on the date indicated above and is effective immediately.
 
-Most Popular Posts 
+Editor's Picks 
 
-Hot Issues 
+Jodi Arias Trial Diaries 
 
 Get Lawyer & Herald
 
