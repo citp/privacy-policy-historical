@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the mygrafico.com privacy policy that was archived on 2012-11-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121120152315id_/http%3A//www.mygrafico.com/privacy-policy/info_4.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mygrafico.com privacy policy that was archived on 2013-05-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130526134054id_/http%3A//www.mygrafico.com/privacy-policy/info_4.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Privacy Policy - MYGRAFICO - DIGITAL ARTS AND CRAFTS STORE</title>
-<meta name="description" content="MYGRAFICO is a leading Digital Online store with Hand selected Designers. Our unique designs come with affordable prices. We offer Commercial Use high quality Designer cliparts, digital stamps, Photoshop brushes, creative paper sets, scrapbooking designs, SVG cutting templates, premade party printables and stationery templates.">
-<meta name="keywords" content="illustration, vector, stock vector, vector illustration, design, unique vector design, vector pack, brush set, illustrator brush set, pattern, vector pattern, floral pattern, decorative pattern, wallpaper, floral pattern, floral, floral vector,  floral,  border, vector, border, invitation border, wedding invitation, wedding invite, wedding invitation template, stationery, printable stationery, pre-made logo, pre-made wedding invitation, frame, scrapbook, scrapbooking, scrapbook design, paper design, wrapping paper design, greeting card design, business card design, envelope design, eps, freehand, coreldraw, freehand templates, coreldraw templates, illustrator templates, illustration, damask, damask pattern, textile design, fabric design, screen printing, logo design, character design, banner design, blog header design, ad design, flash animation, growing flower animation, growing floral animation, cliparts, tattoo sets, tattoo, vector tattoo, t-shirt vector, t-shirt clipart, t shirt design, Commercial Use high quality Designer cliparts, digital stamps, Photoshop brushes, cretative paper sets, scrapbooking designs, SVG cutting templates, premade party printables, stationery templates.">
+<meta name="description" content="MYGRAFICO is a leading Digital Online store with Hand selected Designers. We offer Commercial Use high quality Designer cliparts, digital stamps, Photoshop brushes, digital paper sets, scrapbooking designs, SVG cutting templates, premade party printables and stationery templates.">
+<meta name="keywords" content="illustration, vector, stock vector, vector illustration, design, unique vector design, vector pack, brush set, illustrator brush set, pattern, vector pattern, floral pattern, decorative pattern, wallpaper, floral pattern, floral, floral vector,  floral,  border, vector, border, invitation border, wedding invitation, wedding invite, wedding invitation template, stationery, printable stationery, pre-made logo, pre-made wedding invitation, frame, scrapbook, scrapbooking, scrapbook design, paper design, wrapping paper design, greeting card design, business card design, envelope design, eps, freehand, coreldraw, freehand templates, coreldraw templates, illustrator templates, illustration, damask, damask pattern, textile design, fabric design, screen printing, logo design, character design, banner design, blog header design, ad design, flash animation, growing flower animation, growing floral animation, cliparts, tattoo sets, tattoo, vector tattoo, t-shirt vector, t-shirt clipart, t shirt design, Commercial Use high quality Designer cliparts, digital stamps, Photoshop brushes, creative paper sets, scrapbooking designs, SVG cutting templates, premade party printables, stationery templates, DIY party templates, SVG cutting files,">
 <meta http-equiv="Pragma" content="No-Cache">
 <meta http-equiv="Expires" content="0">
 
@@ -24,11 +24,49 @@ var fileBottomNavCloseImage = '/images/lightbox/close.gif';
 var fileLoadingImage = '/images/lightbox/loading.gif';
 </script>
 <script type="text/javascript" src="http://www.mygrafico.com/js/jslibrary.js"></script>
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+<script type="text/javascript" language="javascript" src="http://www.mygrafico.com/skins/mygrafico/js/jquery-1.8.2.min.js"></script>
 <script type="text/javascript" src="http://www.mygrafico.com/skins/mygrafico/fancybox/jquery.mousewheel-3.0.4.pack.js"></script>
 <script type="text/javascript" src="http://www.mygrafico.com/skins/mygrafico/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
 <link rel="stylesheet" type="text/css" href="http://www.mygrafico.com/skins/mygrafico/fancybox/jquery.fancybox-1.3.4.css" media="screen">
 
+
+
+<script language="Javascript">
+ 
+$(document).ready(function() {
+ 
+	$('#password-clear').show();
+	$('#password-password').hide();
+ 
+	$('#password-clear').focus(function() {
+		$('#password-clear').hide();
+		$('#password-password').show();
+		$('#password-password').focus();
+	});
+	$('#password-password').blur(function() {
+		if($('#password-password').val() == '') {
+			$('#password-clear').show();
+			$('#password-password').hide();
+		}
+	});
+ 
+	$('.default-value').each(function() {
+		var default_value = this.value;
+		$(this).focus(function() {
+			if(this.value == default_value) {
+				this.value = '';
+			}
+		});
+		$(this).blur(function() {
+			if(this.value == '') {
+				this.value = default_value;
+			}
+		});
+	});
+ 
+});
+ 
+</script>
 
 <script type="text/javascript">
 		$(document).ready(function() {
@@ -45,7 +83,25 @@ var fileLoadingImage = '/images/lightbox/loading.gif';
  var RecaptchaOptions = {
     theme : 'white'
  }
-</script><script src="http://www.mygrafico.com/peel/peel.js" type="text/javascript"></script>
+</script>
+
+<script type="text/javascript" language="javascript" src="http://www.mygrafico.com/skins/mygrafico/js/jquery.carouFredSel-6.1.0-packed.js"></script>
+
+		<script type="text/javascript" language="javascript">
+			$(function() {
+				
+				
+				$('#foo0').carouFredSel({
+					scroll : 1,
+					mousewheel : true,
+
+					swipe : {
+						onTouch : true
+					}
+				});
+				
+			});
+		</script><script src="http://www.mygrafico.com/peel/peel.js" type="text/javascript"></script>
 
 <script type="text/javascript" async="" src="//s3.buysellads.com/ac/bsa.js"></script></head>
 
@@ -62,11 +118,54 @@ var fileLoadingImage = '/images/lightbox/loading.gif';
 </script>
 <!-- End BuySellAds.com Ad Code -->
  
+<div class="session">
+	
+	<div class="wrap">
+		
+		<div class="htext">Sign in</div>
+	
+		<form action="http://www.mygrafico.com/index.php?_a=login&amp;redir=%2Findex.php%3F_a%3DviewDoc%26docId%3D4" target="_self" method="post">
+
+						<div class="session-align">
+						<input class="default-value login" type="text" name="username" value="Email">
+						</div>
+						
+						<div class="session-align">
+						<input id="password-clear" type="text" value="Password" name="password" class="login" autocomplete="off">
+						<input id="password-password" name="password" class="login" type="password" value="" autocomplete="off">
+						</div>
+
+						<div class="session-align"><input name="proceed" type="submit" value="LOGIN" class="loginBtn"></div>
+
+		</form>
+		
+	<div class="signinbox">
+		<ul>
+		<li><a href="http://www.mygrafico.com/index.php?_a=forgotPass">Forgot Password</a></li>
+		<li><a href="http://www.mygrafico.com/index.php?_g=co&amp;_a=reg">Register</a></li>
+		
+		
+		<li><a href="http://www.mygrafico.com/index.php?_a=account">My Account</a></li>
+		<li><a href="/index.php?_a=registry&amp;type=wish">Wish List</a></li>
+		
+		</ul>
+	</div>
+	
+	</div>
+
+	<div class="clear"></div>
+	
+</div> 
+ 
 <div id="header">
 	<div class="header-surround">
 		<div class="logo"><a href="http://www.mygrafico.com/index.php"><img src="http://www.mygrafico.com/skins/mygrafico/styleImages/logo.gif" alt="Mygrafico - Digital Arts and Crafts Store"></a></div>
 		<div class="slogan"></div>		
-		<div class="cart-lion"><a href="http://www.mygrafico.com/index.php?_g=co&amp;_a=cart"><img src="http://www.mygrafico.com/skins/mygrafico/styleImages/cart.gif" alt="Cart"></a></div>
+		<div class="items-in-cart"></div>
+<div class="basket">
+<div class="txtCart">
+<a href="http://www.mygrafico.com/index.php?_g=co&amp;_a=cart">0</a></div>
+</div><div class="cart-lion"><a href="http://www.mygrafico.com/index.php?_g=co&amp;_a=cart"><img src="http://www.mygrafico.com/skins/mygrafico/styleImages/cart.gif" alt="Cart"></a></div>
 	</div>
 </div>
 <div class="clear"></div>
@@ -74,15 +173,6 @@ var fileLoadingImage = '/images/lightbox/loading.gif';
 <div id="pageSurround">
 
 <div class="colLeft">
-<script>
-function googleTranslateElementInit() {
-  new google.translate.TranslateElement({
-    pageLanguage: 'en',
-    includedLanguages: 'zh-CN,cs,da,nl,en,tl,fr,de,el,hi,id,it,ja,lv,pl,pt,ru,sr,es,tr,uk'
-  });
-}
-</script><script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
-<br> <br>
 <div class="search-form">
 <form action="http://www.mygrafico.com/index.php" method="get">
 	<div class="ie-box"><input name="searchStr" type="text" class="searchBox" value="" size="20"></div>
@@ -92,7 +182,14 @@ function googleTranslateElementInit() {
 </form>
 <div class="clear"></div>
 </div>
-<h2 class="in">CATEGORIES</h2>
+
+<!-- BuySellAds Zone Code -->
+<div id="bsap_1283541" class="bsarocks bsap_b9c794df3d8aec79edc4b9236e9d4c9c"></div>
+<!-- End BuySellAds Zone Code -->
+
+
+<h2 class="in" style="padding-top: 15px;">CATEGORIES</h2>
+
 <ul id="mainmenu-nav">
 		<li class="li-nav"><a href="http://www.mygrafico.com/index.php">Homepage</a></li>
 			<li class="li-nav">
@@ -723,6 +820,13 @@ function googleTranslateElementInit() {
 			
 			
 				<li class="li-nav">
+					<a href="http://www.mygrafico.com/party-printable-kits/cat_223.html">Party Printable Kits</a>
+				</li>
+				
+		
+			
+			
+				<li class="li-nav">
 					<a href="http://www.mygrafico.com/digital-stamps/cat_95.html">Digital Stamps</a>
 				
 				
@@ -917,6 +1021,35 @@ function googleTranslateElementInit() {
 			
 			
 				<li class="li-nav">
+					<a href="http://www.mygrafico.com/scrapbook/cat_224.html">Scrapbook</a>
+				
+				
+		
+			
+			<ul class="ul-nav">
+				<li class="li-nav">
+					<a href="http://www.mygrafico.com/scrapbook/scrapbook-textured-papers/cat_225.html">Scrapbook Textured Papers</a>
+				</li>
+				
+		
+			
+			
+				<li class="li-nav">
+					<a href="http://www.mygrafico.com/scrapbook/scrapbook-collage-sheets/cat_227.html">Scrapbook Collage Sheets</a>
+				</li>
+				
+		
+			
+			
+				<li class="li-nav">
+					<a href="http://www.mygrafico.com/scrapbook/photo-and-album-templates/cat_226.html">Photo and Album Templates</a>
+				</li>
+				</ul>
+		</li>
+		
+			
+			
+				<li class="li-nav">
 					<a href="http://www.mygrafico.com/svg-cutting-templates/cat_172.html">SVG Cutting Templates</a>
 				
 				
@@ -954,28 +1087,6 @@ function googleTranslateElementInit() {
 			
 			
 				<li class="li-nav">
-					<a href="http://www.mygrafico.com/create-a-set-singles-/cat_220.html">Create A Set (Singles)</a>
-				
-				
-		
-			
-			<ul class="ul-nav">
-				<li class="li-nav">
-					<a href="http://www.mygrafico.com/create-a-set-singles-/rockstar-singles/cat_221.html">Rockstar Singles</a>
-				</li>
-				
-		
-			
-			
-				<li class="li-nav">
-					<a href="http://www.mygrafico.com/create-a-set-singles-/football-season-singles/cat_222.html">Football Season Singles</a>
-				</li>
-				</ul>
-		</li>
-		
-			
-			
-				<li class="li-nav">
 					<a href="http://www.mygrafico.com/build-your-own/cat_203.html">Build Your Own</a>
 				
 				
@@ -994,6 +1105,13 @@ function googleTranslateElementInit() {
 				</li>
 				</ul>
 		</li>
+		
+			
+			
+				<li class="li-nav">
+					<a href="http://www.mygrafico.com/1-00-dollar-sets/cat_201.html">1.00 Dollar Sets</a>
+				</li>
+				
 		
 			
 			
@@ -1041,7 +1159,7 @@ function googleTranslateElementInit() {
 			
 			
 				<li class="li-nav">
-					<a href="http://www.mygrafico.com/1-00-dollar-sets/cat_201.html">1.00 Dollar Sets</a>
+					<a href="http://www.mygrafico.com/freebies/cat_13.html">Freebies</a>
 				</li>
 				
 		
@@ -1056,13 +1174,6 @@ function googleTranslateElementInit() {
 			
 				<li class="li-nav">
 					<a href="http://www.mygrafico.com/commercial-license-included/cat_196.html">License Included Items</a>
-				</li>
-				
-		
-			
-			
-				<li class="li-nav">
-					<a href="http://www.mygrafico.com/freebies/cat_13.html">Freebies</a>
 				</li>
 		
 		<li class="li-nav"> <a href="http://www.mygrafico.com/index.php?_a=giftCert">Gift Certificates</a></li>
@@ -1087,8 +1198,6 @@ function googleTranslateElementInit() {
 	<div class="designers-menu">
 	<select name="lang" class="dropDown" onchange="jumpMenu('parent',this,0)">
 	<option value="">-- Select --</option>
-	<option value="http://www.mygrafico.com/index.php?_a=viewAff&amp;affId=169">Aleksma Design</option>
-	
 	<option value="http://www.mygrafico.com/index.php?_a=viewAff&amp;affId=113">Babystar Design</option>
 	
 	<option value="http://www.mygrafico.com/index.php?_a=viewAff&amp;affId=86">Blackleaf Studios</option>
@@ -1099,17 +1208,19 @@ function googleTranslateElementInit() {
 	
 	<option value="http://www.mygrafico.com/index.php?_a=viewAff&amp;affId=16">Cupcake Cutiees</option>
 	
+	<option value="http://www.mygrafico.com/index.php?_a=viewAff&amp;affId=213">Deasy Designs</option>
+	
+	<option value="http://www.mygrafico.com/index.php?_a=viewAff&amp;affId=209">Designs by Angie</option>
+	
+	<option value="http://www.mygrafico.com/index.php?_a=viewAff&amp;affId=221">Digital Bake Shop</option>
+	
 	<option value="http://www.mygrafico.com/index.php?_a=viewAff&amp;affId=23">Dilek Design Studio</option>
 	
 	<option value="http://www.mygrafico.com/index.php?_a=viewAff&amp;affId=138">DreAmLoft</option>
 	
-	<option value="http://www.mygrafico.com/index.php?_a=viewAff&amp;affId=190">Fancy Dog Studio</option>
-	
 	<option value="http://www.mygrafico.com/index.php?_a=viewAff&amp;affId=101">Goodness &amp; Fun</option>
 	
 	<option value="http://www.mygrafico.com/index.php?_a=viewAff&amp;affId=67">JW Illustrations</option>
-	
-	<option value="http://www.mygrafico.com/index.php?_a=viewAff&amp;affId=76">Kelly Medina</option>
 	
 	<option value="http://www.mygrafico.com/index.php?_a=viewAff&amp;affId=181">Kika Esteves</option>
 	
@@ -1123,7 +1234,7 @@ function googleTranslateElementInit() {
 	
 	<option value="http://www.mygrafico.com/index.php?_a=viewAff&amp;affId=4">Mels Brushes</option>
 	
-	<option value="http://www.mygrafico.com/index.php?_a=viewAff&amp;affId=189">Miss Pickle's</option>
+	<option value="http://www.mygrafico.com/index.php?_a=viewAff&amp;affId=214">Miss Kate SVG Cuts</option>
 	
 	<option value="http://www.mygrafico.com/index.php?_a=viewAff&amp;affId=1">Mujka Chic</option>
 	
@@ -1133,7 +1244,13 @@ function googleTranslateElementInit() {
 	
 	<option value="http://www.mygrafico.com/index.php?_a=viewAff&amp;affId=188">Pixel Paper Prints</option>
 	
+	<option value="http://www.mygrafico.com/index.php?_a=viewAff&amp;affId=219">PPbN Cuts</option>
+	
 	<option value="http://www.mygrafico.com/index.php?_a=viewAff&amp;affId=192">Pretty Grafik</option>
+	
+	<option value="http://www.mygrafico.com/index.php?_a=viewAff&amp;affId=215">Pretty Paper, Pretty Ribbons</option>
+	
+	<option value="http://www.mygrafico.com/index.php?_a=viewAff&amp;affId=196">Print Magic</option>
 	
 	<option value="http://www.mygrafico.com/index.php?_a=viewAff&amp;affId=78">Revidevi</option>
 	
@@ -1145,20 +1262,22 @@ function googleTranslateElementInit() {
 	
 	<option value="http://www.mygrafico.com/index.php?_a=viewAff&amp;affId=124">Stockberry Studio</option>
 	
+	<option value="http://www.mygrafico.com/index.php?_a=viewAff&amp;affId=200">Strawberry Mommycakes</option>
+	
 	<option value="http://www.mygrafico.com/index.php?_a=viewAff&amp;affId=136">SVG Shop</option>
 	
 	<option value="http://www.mygrafico.com/index.php?_a=viewAff&amp;affId=114">Sweet Chic</option>
 	
 	<option value="http://www.mygrafico.com/index.php?_a=viewAff&amp;affId=134">The Crafty Clip</option>
 	
-	<option value="http://www.mygrafico.com/index.php?_a=viewAff&amp;affId=122">Woofy World</option>
-	
-	<option value="http://www.mygrafico.com/index.php?_a=viewAff&amp;affId=121">Zboooh Design Studio</option>
+	<option value="http://www.mygrafico.com/index.php?_a=viewAff&amp;affId=222">Unlimited Party Themes</option>
 	
 	<option value="http://www.mygrafico.com/index.php?_a=viewAff&amp;affId=14">Zenware Designs</option>
 	</select>
 	</div>
-</div><h2 class="in">SPONSORS</h2>
+</div>
+
+<h2 class="in" style="padding-top: 15px;">SPONSORS</h2>
 <p align="center">
 <font face="Tahoma" size="1">
   <a target="_blank" href="http://buysellads.com/buy/detail/18615">ADVERTISE HERE</a></font>
@@ -1170,8 +1289,8 @@ function googleTranslateElementInit() {
 <div class="clear"></div>
 <div class="online-stats">
 
-<li class="list">Online Guests:&nbsp;573</li>
-<li class="list">Online Customers:&nbsp;12</li>
+<li class="list">Online Guests:&nbsp;598</li>
+<li class="list">Online Customers:&nbsp;2</li>
 </div>
 </div>
 
@@ -1220,12 +1339,12 @@ Thank you for being part of <strong>MyGrafico.</strong><br>
 <div class="column-1">
 <div class="ft-title">FOLLOW US</div>
 <ul>
-<li class="facebook"><a href="http://www.facebook.com/MYGRAFICO" target="_blank">Facebook</a></li>
-<li class="pinterest"><a href="http://pinterest.com/mygrafico/" target="_blank">Pinterest</a></li>
-<li class="twitter"><a href="http://www.twitter.com/mygrafico" target="_blank">Twitter</a></li>
-<li class="yahoo"><a href="http://groups.yahoo.com/group/mygraficoclipartandcrafts/join" target="_blank">Yahoo Groups</a></li>
-<li class="wordpress"><a href="http://mygrafico.com/blog/" target="_blank">Wordpress</a></li>
-<li class="blogger"><a href="http://mygraficocrafts.blogspot.com/" target="_blank">Blogger</a></li>
+<li class="facebook"><a href="http://www.facebook.com/MYGRAFICO" target="_blank">Facebook Fan Page</a></li>
+<li class="pinterest"><a href="http://pinterest.com/mygrafico/" target="_blank">Daily Pins</a></li>
+<li class="twitter"><a href="http://www.twitter.com/mygrafico" target="_blank">Daily Tweets</a></li>
+<li class="yahoo"><a href="http://groups.yahoo.com/group/mygraficoclipartandcrafts/join" target="_blank">Embroidery Fan Page</a></li>
+<li class="wordpress"><a href="http://mygrafico.com/blog/" target="_blank">Sale News</a></li>
+<li class="blogger"><a href="http://mygraficocrafts.blogspot.com/" target="_blank">Challenge Blog</a></li>
 <li class="rss"><a href="http://www.facebook.com/feeds/page.php?id=102113953499&amp;format=rss20" target="_blank">RSS</a></li>
 </ul>
 </div>
@@ -1246,7 +1365,7 @@ Thank you for being part of <strong>MyGrafico.</strong><br>
 <input type="hidden" name="email_only" value="1">
 </fieldset>
 </form>
-<br> <br>
+
 <a href="http://www.facebook.com/MYGRAFICO" target="_blank"><img class="padding" src="http://www.mygrafico.com/skins/mygrafico/styleImages/fanclub.png" alt="Mygrafico Fanclub"></a>
 <a href="http://www.partyblog.mygrafico.com/" target="_blank"><img class="padding" src="http://www.mygrafico.com/skins/mygrafico/styleImages/mgparty.png" alt="MG Partyblog"></a>
 </div>
@@ -1269,14 +1388,12 @@ Thank you for being part of <strong>MyGrafico.</strong><br>
 
 <div class="column-4"><div class="ft-title indent">MG LINKS</div>
 <ul>
-<!--<li><a href="http://www.mygrafico.com/blog/" target="_blank">MG Blog</a></li><!-->
 <li><a href="http://www.mygrafico.com/top10" target="_self">MG TOP 10</a></li>
 <li><a href="http://www.mygrafico.com/tutorials/info_63.html" target="_self">MG Tutorials</a></li>
 <li><a href="http://www.mygrafico.ning.com/" target="_blank">MG Community</a></li>
-<li><a href="http://mygraficocrafts.blogspot.com/" target="_blank">MG Challenge Blog</a></li>
-<li><a href="http://www.mygrafico.com/MGcrafts/info_64.html" target="_self">MG Craft Projects</a></li>
 <li><a href="http://www.allcraftsites.com/"><img src="http://www.allcraftsites.com/rank/BOOJOO/a2.gif" alt="Top Craft Scrapbooking Cards sites" border="0"></a></li>
-<li><a href="http://www.stampingtop50.com/cgi-bin/topsite.cgi?user=BOOJOO"><img src="http://www.stampingtop50.com/cgi-bin/counter.cgi?user=BOOJOO" alt="Stampingtop50 Counter" border="0"></a></li>
+
+<li><a href="http://www.scrapbookingtop500.com/"><img src="http://www.scrapbookingtop500.com/button.php?u=BOOJOO" alt="SCRAPBOOKING TOP 500" border="0"></a></li>
 <li><a href="http://atw.typepad.com/embroiderydailynews" target="_blank"><img src="http://atw.typepad.com/EDN01-115x69.jpg"></a></li>
 </ul>
 <div class="banners">
@@ -1287,7 +1404,7 @@ Thank you for being part of <strong>MyGrafico.</strong><br>
 <div class="clear"></div>
 <br> <br>
 <div class="footerLink">
-<p align="center"><a href="http://www.mygrafico.com/terms-conditions/info_3.html" class="txtLink">All rights reserved. MYGRAFICO 2008-2012</a></p>
+<p align="center"><a href="http://www.mygrafico.com/terms-conditions/info_3.html" class="txtLink">All rights reserved. MYGRAFICO 2008-2013</a></p>
 </div>
 
 		<!-- BuySellAds.com Zone Code -->
@@ -1299,6 +1416,18 @@ Thank you for being part of <strong>MyGrafico.</strong><br>
 
 </div><script src="http://static.getclicky.com/54793.js" type="text/javascript"></script>
 <noscript><p><img alt="Clicky" src="http://static.getclicky.com/54793-db8.gif" /></p></noscript>
+
+<script src="http://sitescripts.mobile.conduit-services.com/sitescripts/site/d6dc2dcb-c404-4f92-bdc9-09ba64de4fe6/?appId=e6fad830-e22b-41b4-a74a-d3650d465355" type="text/javascript"></script> 
+<!-- google translate -->
+<script>
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({
+    pageLanguage: 'en',
+    includedLanguages: 'zh-CN,cs,da,nl,en,tl,fr,de,el,hi,id,it,ja,lv,pl,pt,ru,sr,es,tr,uk'
+  });
+}
+</script><script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+<!-- End google translate -->
 
 
 
