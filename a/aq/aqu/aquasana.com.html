@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the aquasana.com privacy policy that was archived on 2012-09-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120921213346id_/http%3A//www2.aquasana.com/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the aquasana.com privacy policy that was archived on 2013-05-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130526045720id_/http%3A//www.aquasana.com/privacy_policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -92,6 +92,9 @@ function MM_swapImage() { //v3.0
 function HideDIV(d) { document.getElementById(d).style.display = "none"; }
 function DisplayDIV(d) { document.getElementById(d).style.display = "block"; }
 
+function chat0() {
+	alert('Sorry, but online chat is not available at this time.');
+}
 </script>
 
 
@@ -123,6 +126,23 @@ function DisplayDIV(d) { document.getElementById(d).style.display = "block"; }
 		    }, function() {
 		        $(this).removeClass('hover');
 		    });
+
+		    $('#HomePageRotatorImages li:first-child').css({ display: 'block' });
+		    $('#HomePageRotatorSpots li:first-child div').css('display', 'block').parent().addClass('active');
+		    $('#HomePageRotatorSpots li').click(function() {
+		        if (!$(this).hasClass('active')) {
+		            clearTimeout(t);
+		            var curIndex = $('#HomePageRotatorSpots li').index($('#HomePageRotatorSpots li.active'));
+		            var index = $('#HomePageRotatorSpots li').index($(this));
+					//comment out the line below to stop the animation if drop clicked.
+		            goToItem(curIndex, index);
+		        }
+		    }).hover(function() {
+		        $(this).addClass('hover');
+		    }, function() {
+		        $(this).removeClass('hover');
+		    });
+
 			$('#navigationUL > li').hover(function() {
 					$(this).find('> div').show();
 			}, function() {
@@ -225,18 +245,20 @@ function DisplayDIV(d) { document.getElementById(d).style.display = "block"; }
 
 
 
+
+
 <!-- styles -->
-<link rel="stylesheet" type="text/css" href="/css/styles.css?t=1348109635">
+<link rel="stylesheet" type="text/css" href="/css/styles.css?t=1369338701">
 <link rel="stylesheet" type="text/css" href="/css/newtabs.css">
 <link rel="stylesheet" type="text/css" href="/css/jquery.qtip.css">
+<link rel="stylesheet" type="text/css" href="/css/widetabs.css">
 
-</head>
+<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 
 <body>
 	<div id="outer">
-		<div id="container"><!--Start of container-->
         <div id="header">
-            <a href="http://www.aquasana.com/"><img id="Logo" src="/images/Logo.jpg" alt="Water Filter"></a>
+            <a href="http://www.aquasana.com/"><img id="Logo" src="/images/Logo.jpg?v=2013052501" alt="Water Filter"></a>
             <div id="EmailSignUp">
 								<h1>866-662-6885</h1>
 																Sign up for exclusive offers, product info and more:<br>
@@ -262,16 +284,23 @@ function DisplayDIV(d) { document.getElementById(d).style.display = "block"; }
                                     <li><a href="http://www.aquasana.com/category.php?category_id=1" style="margin-top:5px; height:35px;">Drinking Water Filters</a></li>
                                     <li><a href="http://www.aquasana.com/category.php?category_id=2" style="margin-top:5px; height:35px;">Shower Filters</a></li>
                                     <li><a href="http://www.aquasana.com/category.php?category_id=4">Whole House Water Filters</a></li>
+                                    <li><a href="http://www.aquasana.com/category.php?category_id=4&amp;tab=2">Filter + Softener Systems</a></li>
                                     <li><a href="http://www.aquasana.com/category.php?category_id=5">Replacement Filters</a></li>
-                                    <li><a href="http://www.aquasana.com/category.php?category_id=8">Water Bottles</a></li>
                                     <li><a href="http://www.aquasana.com/category.php?category_id=6">Water Filter Accessories</a></li>
-                                    <li><a href="http://www.aquasana.com/category.php?category_id=7">Vitamin Squeeze</a></li>
+                                    <li><a href="http://www.aquasana.com/category.php?category_id=8">Water Bottles</a></li>
                                     <li><a href="http://www.aquasana.com/mywater.php">myWater</a></li>
                                 </ul>
                             </div>
                     </li>
-                    <li class="navigationLI" id="liWater4Life">
+                    <li class="navigationLI" id="liReplacements">
                         <a class="NavHref" href="http://www.aquasana.com/category.php?category_id=5"></a>
+                            <div id="SubNavReplacements">
+                                <ul id="SubNavReplacementsUL">
+                                    <li><a href="http://www.aquasana.com/category.php?category_id=5&amp;subcat=1" style="padding-top:6px; margin-top:5px;line-height:15px;">Replacement Drinking Water<br>Filters</a></li>
+                                    <li><a href="http://www.aquasana.com/product_detail.php?product_id=7" style="line-height:15px;">Replacement Shower<br>Filter</a></li>
+                                    <li><a href="http://www.aquasana.com/category.php?category_id=5&amp;subcat=4" style="line-height:15px;">Replacement Whole House<br>Filters</a></li>
+																</ul>
+														</div>
                     </li>
                     <li class="navigationLI" id="liYourWater">
                         <a class="NavHref" style="cursor:default;"></a>
@@ -286,7 +315,7 @@ function DisplayDIV(d) { document.getElementById(d).style.display = "block"; }
                                         <li><a href="http://www.aquasana.com/raising_children.php">Raising Small Children</a></li>
                                     </ul>
                                     <ul id="SubNavYourWaterULTwo">
-                                        <li><a href="http://www.aquasana.com/importance.php" style="padding-top:6px;height:40px; margin-top:5px;line-height:15px;">Importance of Water in<br>Health and Fitness</a></li>
+                                        <li><a href="http://www.aquasana.com/importance.php" style="padding-top:6px; height:40px; margin-top:5px;line-height:15px;">Importance of Water in<br>Health and Fitness</a></li>
                                         <li><a href="http://www.aquasana.com/bottled_water.php" style="height:44px;line-height:15px;padding-top:8px;">Is Bottled Water the <br>Right Choice?</a></li>
                                         <li><a href="http://www.aquasana.com/how_much.php" style="height:44px;line-height:15px;">How Much Water Should<br>I Drink?</a></li>
                                         <li><a href="http://www.aquasana.com/dieting.php" style="height:44px;line-height:15px;">Weight Loss, Dieting<br>and Skin Care</a></li>
@@ -321,7 +350,8 @@ function DisplayDIV(d) { document.getElementById(d).style.display = "block"; }
         
         </div><!--end of header-->
 
-        <div style="clear:both;"></div>
+								<div id="container"><!--Start of container-->
+				
 <div id="main">
 	<div id="contents">
 					<div id="page-content-main">
@@ -427,67 +457,73 @@ Haltom City, Texas 76117
 <p>Please note that this Policy applies to all of our Sites hosted in the United States.</p>			</div>
 			</div>
 	<div id="RightGutterCallOut">
-		<h1>Recommended Products:</h1><div class="suggestions-item-container"><div class="suggestions-img"><a href="/product_detail.php?product_id=2"><img src="/images/CartImages/aq4100_cart.jpg" border="0"></a></div><div class="category-product-cell suggestions-text"><form name="form2" action="/addtocart.php"><h2>Shower Filter</h2><p><b>List Price: <s>$84.99</s><br><span class="highlight-green">Your Price: $67.14</span></b></p><p><a href="/product_detail.php?product_id=2">View Product Details</a></p><p><input type="button" value="Add to Cart" onclick="javascript:submitAddForm('form2','',''); return false;" class="AddToCart"></p><input type="hidden" id="add2" name="add" value="2"><input type="hidden" name="qty" value="1"></form></div></div><div class="suggestions-item-container"><div class="suggestions-img"><a href="/product_detail.php?product_id=11"><img src="/images/CartImages/aq4000w_cart.jpg" border="0"></a></div><div class="category-product-cell suggestions-text"><form name="form11" action="/addtocart.php"><h2>Countertop Water Filter - White</h2><p><b>List Price: <s>$124.99</s><br><span class="highlight-green">Your Price: $98.74</span></b></p><p><a href="/product_detail.php?product_id=11">View Product Details</a></p><p><input type="button" value="Add to Cart" onclick="javascript:submitAddForm('form11','',''); return false;" class="AddToCart"></p><input type="hidden" id="add11" name="add" value="11"><input type="hidden" name="qty" value="1"></form></div></div><div class="suggestions-item-container"><div class="suggestions-img"><a href="/product_detail.php?product_id=21"><img src="/images/CartImages/aq4601.55_cart.jpg" border="0"></a></div><div class="category-product-cell suggestions-text"><form name="form21" action="/addtocart.php"><h2>Premium Under Counter Water Filter - Brushed Nickel</h2><p><b>List Price: <s>$249.99</s><br><span class="highlight-green">Your Price: $197.49</span></b></p><p><a href="/product_detail.php?product_id=21">View Product Details</a></p><p><input type="button" value="Add to Cart" onclick="javascript:submitAddForm('form21','',''); return false;" class="AddToCart"></p><input type="hidden" id="add21" name="add" value="21"><input type="hidden" name="qty" value="1"></form></div></div><div class="suggestions-item-container"><div class="suggestions-img"><a href="/product_detail.php?product_id=27"><img src="/images/CartImages/eq300_cart.jpg" border="0"></a></div><div class="category-product-cell suggestions-text"><form name="form27" action="/addtocart.php"><h2>Rhino® Whole House Water Filter</h2><p><b>List Price: <s>$1,099.00</s><br><span class="highlight-green">Your Price: $769.30</span></b></p><p><a href="/product_detail.php?product_id=27">View Product Details</a></p><p><input type="button" value="Add to Cart" onclick="javascript:submitAddForm('form27','',''); return false;" class="AddToCart"></p><input type="hidden" id="add27" name="add" value="27"><input type="hidden" name="qty" value="1"></form></div></div>	</div>
+		<h1>Recommended Products:</h1><div class="suggestions-item-container"><div class="suggestions-img"><a href="/product_detail.php?product_id=2"><img src="/images/CartImages/aq4100_cart.jpg" border="0"></a></div><div class="category-product-cell suggestions-text"><form name="form2" action="/addtocart.php"><h2>Shower Filter</h2><p><b>List Price: <s>$84.99</s><br><span class="highlight-green">Your Price: $59.49</span></b></p><p><a href="/product_detail.php?product_id=2">View Product Details</a></p><p><input type="button" value="Add to Cart" onclick="javascript:submitAddForm('form2','',''); return false;" class="AddToCart"></p><input type="hidden" id="add2" name="add" value="2"><input type="hidden" name="qty" value="1"></form></div></div><div class="suggestions-item-container"><div class="suggestions-img"><a href="/product_detail.php?product_id=11"><img src="/images/CartImages/aq4000w_cart.jpg" border="0"></a></div><div class="category-product-cell suggestions-text"><form name="form11" action="/addtocart.php"><h2>Countertop Water Filter - White</h2><p><b>List Price: <s>$124.99</s><br><span class="highlight-green">Your Price: $87.49</span></b></p><p><a href="/product_detail.php?product_id=11">View Product Details</a></p><p><input type="button" value="Add to Cart" onclick="javascript:submitAddForm('form11','',''); return false;" class="AddToCart"></p><input type="hidden" id="add11" name="add" value="11"><input type="hidden" name="qty" value="1"></form></div></div><div class="suggestions-item-container"><div class="suggestions-img"><a href="/product_detail.php?product_id=14"><img src="/images/CartImages/aq5200.55_cart.jpg" border="0"></a></div><div class="category-product-cell suggestions-text"><form name="form14" action="/addtocart.php"><h2>2-Stage Under Counter Water Filter - Brushed Nickel</h2><p><b>List Price: <s>$199.99</s><br><span class="highlight-green">Your Price: $139.99</span></b></p><p><a href="/product_detail.php?product_id=14">View Product Details</a></p><p><input type="button" value="Add to Cart" onclick="javascript:submitAddForm('form14','',''); return false;" class="AddToCart"></p><input type="hidden" id="add14" name="add" value="14"><input type="hidden" name="qty" value="1"></form></div></div><div class="suggestions-item-container"><div class="suggestions-img"><a href="/product_detail.php?product_id=27"><img src="/images/CartImages/eq300_cart.jpg" border="0"></a></div><div class="category-product-cell suggestions-text"><form name="form27" action="/addtocart.php"><h2>Rhino® Whole House Water Filter</h2><p><b>List Price: <s>$1,099.00</s><br><span class="highlight-green">Your Price: $659.40</span></b></p><p><a href="/product_detail.php?product_id=27">View Product Details</a></p><p><input type="button" value="Add to Cart" onclick="javascript:submitAddForm('form27','',''); return false;" class="AddToCart"></p><input type="hidden" id="add27" name="add" value="27"><input type="hidden" name="qty" value="1"></form></div></div>	</div>
 </div>
 
-		</div><!--End of container-->
+				</div><!--End of container-->
+				
+		<div id="PreFooterWrap">
+			<div id="PreFooter">
+					<div id="FooterCustomerService">
+							<h2>CUSTOMER SERVICE</h2>
+							Mon-Fri 7am-8pm CDT<br>
+							<span class="NoBottle">866-NO-BOTTLE<br>866-662-6885</span>
+					</div>
+					<div id="FooterBadges">
+							<div class="FooterBadge">
+									<img src="/images/icon72-inc500-aquasana-water-filters.gif" alt="Aquasana makes the Inc 500">
+							</div>
+							<div class="FooterBadge">
+									<a href="http://www.nsf.org/Certified/DWTU/Listings.asp?Company=C0052639" target="_blank"><img src="/images/icon72-nsf.gif" alt="drinking water filters certified by NSF"></a>
+							</div>
+							<div class="FooterBadge">
+									<img src="/images/icon72-healthy-water-filter.gif" alt="award winning Aquasana water filters">
+							</div>
+							<div class="FooterBadge">
+									<img src="/images/icon72-90day_satisfaction_guarantee.gif" alt="Aquasana 90 day satisfaction guarantee">
+							</div>
+					</div>
+					<div id="FooterIcons">
+							<div class="FooterIcon">
+								<a href="http://www.facebook.com/aquasana" target="_blank"><img src="/images/icon32-facebook-aquasana-water-filters.gif" alt="find Aquasana on facebook" border="0"></a>
+							</div>
+							<div class="FooterIcon">
+								<a href="http://twitter.com/aquasana" target="_blank"><img src="/images/icon32-twitter-aquasana-water-filters.gif" alt="follow Aquasana on twitter" border="0"></a>
+							</div>
+							<div class="FooterIcon2">
+								<a href="http://www.flickr.com/photos/aquasana" target="_blank"><img src="/images/icon32-flickr-aquasana-water-filters.gif" alt="Aquasana's photostream on flickr" border="0"></a>
+							</div>
+							<div class="FooterIcon2">
+								<a href="http://www.youtube.com/aquasana" target="_blank"><img src="/images/icon32-youtube-aquasana-water-filters.gif" alt="Aquasana's YouTube channel" border="0"></a>
+							</div>
+					</div>
+					<div id="FooterElse">
+						<a href="http://www.aquasana.com/assets/PressKit/aquasana_presskit.pdf" target="_blank">
+							<div class="FooterGoLink">
+								<h2>Download our press kit</h2>
+								<p>Click here to download the PDF</p>
+							</div>
+							<div class="FooterGo">
+								<img src="/images/go_blue.gif" alt="" border="0">
+							</div>
+						</a>
+						<a href="http://www.aquasana.com/water4life.php">
+							<div class="FooterGoLink">
+								<h3>All about Water for Life</h3>
+								<p>Click here for more information</p>
+							</div>
+							<div class="FooterGo">
+								<img src="/images/go_teal.gif" alt="" border="0">
+							</div>
+						</a>
+					</div>
 
-		<div id="PreFooter">
-				<div id="FooterCustomerService">
-						<h2>CUSTOMER SERVICE</h2>
-						Mon-Fri 7am-8pm CDT<br>
-						<span class="NoBottle">866-NO-BOTTLE<br>866-662-6885</span>
-				</div>
-				<div id="FooterBadges">
-						<div class="FooterBadge">
-								<img src="/images/icon72-inc500-aquasana-water-filters.gif" alt="Aquasana makes the Inc 500">
-						</div>
-						<div class="FooterBadge">
-								<img src="/images/icon72-nsf.gif" alt="drinking water filters certified by NSF">
-						</div>
-						<div class="FooterBadge">
-								<img src="/images/icon72-healthy-water-filter.gif" alt="award winning Aquasana water filters">
-						</div>
-						<div class="FooterBadge">
-								<img src="/images/icon72-90day_satisfaction_guarantee.gif" alt="Aquasana 90 day satisfaction guarantee">
-						</div>
-				</div>
-				<div id="FooterIcons">
-						<div class="FooterIcon">
-							<a href="http://www.facebook.com/aquasana" target="_blank"><img src="/images/icon32-facebook-aquasana-water-filters.gif" alt="find Aquasana on facebook" border="0"></a>
-						</div>
-						<div class="FooterIcon">
-							<a href="http://twitter.com/aquasana" target="_blank"><img src="/images/icon32-twitter-aquasana-water-filters.gif" alt="follow Aquasana on twitter" border="0"></a>
-						</div>
-						<div class="FooterIcon2">
-							<a href="http://www.flickr.com/photos/aquasana" target="_blank"><img src="/images/icon32-flickr-aquasana-water-filters.gif" alt="Aquasana's photostream on flickr" border="0"></a>
-						</div>
-						<div class="FooterIcon2">
-							<a href="http://www.youtube.com/aquasana" target="_blank"><img src="/images/icon32-youtube-aquasana-water-filters.gif" alt="Aquasana's YouTube channel" border="0"></a>
-						</div>
-				</div>
-				<div id="FooterElse">
-					<a href="http://www.aquasana.com/assets/PressKit/aquasana_presskit.pdf" target="_blank">
-						<div class="FooterGoLink">
-							<h2>Download our press kit</h2>
-							<p>Click here to download the PDF</p>
-						</div>
-						<div class="FooterGo">
-							<img src="/images/go_blue.gif" alt="" border="0">
-						</div>
-					</a>
-					<a href="http://www.aquasana.com/water4life.php">
-						<div class="FooterGoLink">
-							<h3>All about Water for Life</h3>
-							<p>Click here for more information</p>
-						</div>
-						<div class="FooterGo">
-							<img src="/images/go_teal.gif" alt="" border="0">
-						</div>
-					</a>
-				</div>
+					
+					
+			</div> <!-- End PreFooter -->
+			<div style="clear:both;"></div>
+		</div> <!-- End PreFooterWrap -->
 
-						</div> <!-- End PreFooter -->
 
 	</div> <!-- End of outer -->
 
@@ -501,7 +537,7 @@ Haltom City, Texas 76117
 			<a href="http://www.aquasana.com/water4life.php">WATER FOR LIFE PROGRAM</a>
 		</div>
 		<div id="copyrightInfo">
-			Copyright 2002 - 2012 Aquasana, Inc.
+			Copyright 2002 - 2013 Aquasana, Inc.
 		</div>
 
 <!-- Channeladvisor tracking pixel -->
@@ -513,6 +549,25 @@ Haltom City, Texas 76117
 	}
 }
 //-->
+</script>
+
+<!-- adRoll tracking pixel -->
+<script type="text/javascript">
+adroll_adv_id = "V6NDTSHOB5ATVCACHAFEU2";
+adroll_pix_id = "WO2QA4FWRRBCLCBYFSDL4K";
+(function () {
+var oldonload = window.onload;
+window.onload = function(){
+   __adroll_loaded=true;
+   var scr = document.createElement("script");
+   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+   scr.setAttribute('async', 'true');
+   scr.type = "text/javascript";
+   scr.src = host + "/j/roundtrip.js";
+   ((document.getElementsByTagName('head') || [null])[0] ||
+    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+   if(oldonload){oldonload()}};
+}());
 </script>
 
 <!-- Google Code for Have visited Aquasana.com Remarketing List -->
@@ -533,6 +588,33 @@ var google_conversion_value = 0;
 <img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1071440505/?label=Zjj8CJmxuwEQ-cTz_gM&amp;guid=ON&amp;script=0"/>
 </div>
 </noscript>
+<!--   PLEASE INCLUDE THIS COMMENT ON THE WEB PAGE WITH THE TAG
+Remarketing tags may not be associated with personally identifiable information
+or placed on pages related to sensitive categories.
+-->
+<script type="text/javascript">
+var google_tag_params = {
+prodid: '',
+pagetype: '',
+value: ''
+};
+</script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1071440505;
+var google_conversion_label = "VFPeCMGM1AQQ-cTz_gM";
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1071440505/?value=0&amp;label=VFPeCMGM1AQQ-cTz_gM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
 
 
 
