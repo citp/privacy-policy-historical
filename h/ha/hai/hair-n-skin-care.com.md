@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hair-n-skin-care.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508235219id_/http%3A//www.dailyglow.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hair-n-skin-care.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526075640id_/http%3A//www.dailyglow.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Daily Glow Privacy Policy
 
