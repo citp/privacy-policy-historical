@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the platotv.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226231105id_/http%3A//www.platotv.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the platotv.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526140612id_/http%3A//platotv.tv/policy) for the most accurate reproduction.*
 
 # Platotv :: Privacy Policy
 
-PlatoTV ("PlatoTV") is committed to protecting its users' privacy. This Privacy Policy (the "Privacy Policy"), as set forth below, covers PlatoTV.com (“PlatoTV.com,” the “Site,” or the "website") and applies solely to information collected on PlatoTV.com . Please read this Privacy Policy to understand how we will treat personally and non-personally identifiable information we collect on PlatoTV.com. This Privacy Policy may change from time to time, so please check back periodically.
+PlatoTV ("PlatoTV") is committed to protecting its users' privacy. This Privacy Policy (the "Privacy Policy"), as set forth below, covers PlatoTV.tv (“PlatoTV.tv,” the “Site,” or the "website") and applies solely to information collected on PlatoTV.tv . Please read this Privacy Policy to understand how we will treat personally and non-personally identifiable information we collect on PlatoTV.tv. This Privacy Policy may change from time to time, so please check back periodically.
 
 ## What non-personally identifiable information is collected automatically?
 
