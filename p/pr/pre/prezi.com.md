@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the prezi.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126045302id_/http%3A//prezi.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prezi.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526231717id_/http%3A//prezi.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy policy | Prezi
 
 ## 1\. Agreement and Parties
 
@@ -118,7 +118,7 @@ The Prezi Service is intended only for those who are at least 18 years old – o
 
 ### 10.2. Notice Concerning Children
 
-PLEASE NOTE: The Prezi Service is general audience service, and does not direct any of its content, products, or services specifically at children under 13 years of age. We understand and are committed to respecting the sensitive nature of children's privacy online. If we learn or have reason to suspect that a user of the Prezi Service is under age 13, we will promptly delete any personal information in that user's account. If you have such information, please contact us as [under13@prezi.com](mailto:under13@prezi.com)
+PLEASE NOTE: The Prezi Service is general audience service, and does not direct any of its content, products, or services specifically at children under 13 years of age. We understand and are committed to respecting the sensitive nature of children's privacy online. If we learn or have reason to suspect that a user of the Prezi Service is under age 13, we will promptly delete any personal information in that user's account. If you have such information, please contact us as [legal@prezi.com](mailto:legal@prezi.com)
 
 * * *
 
@@ -130,7 +130,7 @@ For your convenience and to improve the usage of the Prezi Service we may insert
 
 ## 12\. Canceling Your Account, Opting Out of Email, and Modifying Personal Information
 
-You may cancel your account and you may opt out of receiving any emails from Prezi at any time. You may cancel your account, opt out of, or modify your personal information, by logging in and visiting your [Settings & Account page](https://web.archive.org/settings/) and following the instructions provided, or go to our [Help & Support page](https://web.archive.org/support/). We encourage you promptly to update your personal information when it changes. Information concerning your past behavior with the Service may be retained indefinitely by Prezi.
+You may cancel your account and you may opt out of receiving any emails from Prezi at any time. You may cancel your account, opt out of, or modify your personal information, by logging in and visiting your [Settings & Account page](https://web.archive.org/settings/) and following the instructions provided, or go to our [Help & Support page](https://web.archive.org/support). We encourage you promptly to update your personal information when it changes. Information concerning your past behavior with the Service may be retained indefinitely by Prezi.
 
 Please note that although you may opt out of receiving certain emails, Prezi reserves the right to communicate with you via email regarding specific products and services you have ordered, requested, or inquired about.
 
