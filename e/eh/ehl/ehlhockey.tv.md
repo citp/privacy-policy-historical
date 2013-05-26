@@ -1,83 +1,74 @@
-> *The following text is extracted and transformed from the ehlhockey.tv privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913142603id_/http%3A//ehlhockey.tv/home/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ehlhockey.tv privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526225019id_/http%3A//www.ehlhockey.tv/terms-and-conditions) for the most accurate reproduction.*
 
-# Privacy Policy | Euro Hockey League
+# Terms and Conditions - EHL Euro Hockey League
 
-**Euro Hockey League (EHL)**  
-Pro Sport Nederland BV  
-Marathon 9E  
-1213 PE Hilversum  
-Nederland / The Netherlands 
+This Terms and Conditions governs the manner in which Euro Hockey League collects, uses, maintains and discloses information collected from users (each, a "User") of the [www.ehlhockey.tv](http://www.generateprivacypolicy.com/account/policies/edit/www.ehlhockey.tv) website ("Site"). This Terms and Conditions applies to the Site and all products and services offered by Euro Hockey League.
 
-## Introduction
+**Personal identification information**
 
-Euro Hockey League (EHL) is committed to processing your personal data in accordance with this privacy policy and in compliance with the applicable legislation and regulations for the protection of personal data including the Dutch DPA (Wbp).  
-This document describes the privacy policy of EHL related to any personal data EHL collects when you are on the EHL website and/or use services on the website. 
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, subscribe to the newsletter, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-This privacy policy also covers EHL's treatment of any personal data that EHL's partners and sponsors share with EHL unless otherwise stated. 
+**Non-personal identification information**
 
-By using this website you are deemed to be aware of, to have understood, the processing (including transfer) of any personal data we collect from you through the website. 
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
-From time to time, EHL may update this privacy policy. You are therefore responsible for regularly reviewing this privacy policy. 
+**Web browser cookies**
 
-## Processing of personal data
+Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
-EHL does not collect personal data when you access the homepage of the website and browse through the website without submitting your personal data (with the exception of cookies; see below). 
+**How we use collected information**
 
-EHL collects personal data when you register on the website, when you use certain products or services on the website, or when you enter promotions, sweepstakes or similar services sponsored by EHL or its partners. The personal data processed may include name, address, IP address, phone number, email address, nationality, business data for members of the media requesting registration and/or accreditation, as well as credit card details for ticket reservations. 
+Euro Hockey League may collect and use Users personal information for the following purposes:
 
-When submitting any personal data to any part of this website, you consent to the processing of your personal data in accordance with this privacy policy. 
-
-## Purposes of processing
-
-The personal data collected on the EHL website is used to inform you about products and services provided through the EHL website, to enhance and tailor the website’s services, to administer and carry out EHL’s contractual obligations in relation to any agreement a user has entered into with EHL, to create products or collect data that may meet your current or future needs and to conduct statistical analyses of the website and services. 
-
-## Disclosure of personal data
-
-EHL will not sell, rent, or provide your personal data to other parties without your consent. EHL may however disclose your personal data to other parties when : 
-
-  * EHL needs to share your personal data with a third party to provides a product or service requested by you;
-  * EHL is required to do so by applicable law or regulations; 
-  * disclosure is necessary to protect and defend the rights, property, and safety of EHL or other users; or when
-  * EHL discovers that you violate the website’s terms and conditions or any other guidelines or rules applicable for specific services and the disclosure is necessary to stop such violation. 
+  * _\- To improve customer service_  
+Information you provide helps us respond to your customer service requests and support needs more efficiently.
+  * _\- To personalize user experience_  
+We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
+  * _\- To improve our Site_  
+We may use feedback you provide to improve our products and services.
+  * _\- To send periodic emails_  
+If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
 
 
 
-With the exception of these grounds above, your personal data shall not be disclosed at any point in time without your prior explicit consent. 
-
-## Children's privacy
-
-The EHL website is intended for use by adults only. Persons under the age of 18 may only use the EHL website and services with the permission, and under the supervision, of a parent or legal guardian. 
-
-EHL does not intentionally or knowingly collect personal data from children and does not take specific, active steps to protect the privacy of children who disclose their personal data. 
-
-Use of Cookies 
-
-Cookies are small text files that are stored by the browser on the computer's hard drive and are used for authenticating, tracking, and maintaining specific data about website users. 
-
-EHL may use cookies to improve the quality of service that the EHL website provides, e.g. monitoring customer traffic patterns and site use patterns to support the development and improvement of the website’s design, layout and services, including: 
-
-  * access your data when you sign in to provide you with customized content; 
-  * keep track of the preferences that you specify while you are using EHL services; and
-  * estimate and report the EHL website’s total audience size and traffic. 
+**How we protect your information**  
 
 
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
-## Security
+**Sharing your personal information**
 
-When you communicate with EHL by email, you should note that the secrecy of email use is uncertain. When transferring sensitive or confidential information via e-mail which is not encrypted, you accept the risk of a possible lack of confidentiality. 
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
 
-## Access to your personal data
+**Third party websites**
 
-You may access your personal data and correct, amend, complete, or delete your personal data except where the law requires otherwise. To exercise these rights, you should contact EHL via the website’s [Contact page](http://www.ehlhockey.tv/contact). 
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.
 
-To protect your privacy and security, EHL may also take reasonable steps to verify your identity before access is granted or corrections are made. 
+**Compliance with children's online privacy protection act**
 
-## Applicable Law and Jurisdiction
+Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our Site from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
 
-This privacy policy, Dutch data protection laws and the European Privacy Directive will apply exclusively to all matters relating to the processing of personal data collected through this website by EHL. The relevant courts of the Netherlands are exclusively competent to rule on any disputes arising from the data processing by EHL. 
+**Changes to this Terms and Conditions**
 
-## Future use of personal data 
+Euro Hockey League has the discretion to update this Terms and Conditions at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this Terms and Conditions periodically and become aware of modifications.
 
-This privacy policy describes EHL’s current business practices related to the use of any personal data collected via the EHL website. You acknowledge that in case EHL's ownership is wholly or fully transferred to a third party at some point in the future, any data bases containing personal data may be transferred as well. 
+**Your acceptance of these terms**
 
-Last modified: September 18, 2007 ** **
+By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+
+**Contacting us**
+
+If you have any questions about this Terms and Conditions, the practices of this site, or your dealings with this site, please contact us at:
+
+[Euro Hockey League](http://www.generateprivacypolicy.com/account/policies/edit/www.ehlhockey.tv)
+
+[www.ehlhockey.tv](http://www.generateprivacypolicy.com/account/policies/edit/www.ehlhockey.tv)
+
+EHL Media en Marketing B.V. Marathon 9/E 1213 PE Hilversum
+
+support@ehlhockey.tv
+
+This document was last updated on March 22, 2013
+
+  
+
