@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the athlinks.com privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018051218id_/http%3A//athlinks.com/helpPrivacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the athlinks.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527014959id_/http%3A//athlinks.com/helpPrivacy.aspx) for the most accurate reproduction.*
 
 # Athlinks - Privacy Policy
 
@@ -16,7 +16,7 @@ Athlinks helps you share information with your friends and fellow endurance athl
 **2\. You should have access to the information others want to share.**   
 There is an increasing amount of information available on the Internet, and you may want to know what relates to you, your friends, and people around you. We want to help you easily get that information. 
 
-Sharing information should be easy. And we want to provide you with the privacy tools necessary to control how and with whom you share that information. If you have questions or ideas, please send them to [privacy@Athlinks.com](mailto:privacy@Athlinks.com). 
+Sharing information should be easy. And we want to provide you with the privacy tools necessary to control how and with whom you share that information. If you have questions or ideas, please [contact us](https://web.archive.org/contact.aspx?topic=privacy). 
 
 ### Athlinks's Privacy Policy
 
@@ -36,9 +36,9 @@ When you use Athlinks, you may form relationships, send messages, perform search
 
 You post User Content (as defined in the Athlinks [Terms of Use](http://www.athlinks.com/helpTermsOfUse.aspx)) on the Site at your own risk. Although we allow you to set privacy options that limit access to your pages, please be aware that no security measures are perfect or impenetrable. We cannot control the actions of other Users with whom you may choose to share your pages and information. Therefore, we cannot and do not guarantee that User Content you post on the Site will not be viewed by unauthorized persons. We are not responsible for circumvention of any privacy settings or security measures contained on the Site. You understand and acknowledge that, even after removal, copies of User Content may remain viewable in cached and archived pages or if other Users have copied or stored your User Content. 
 
-Any improper collection or misuse of information provided on Athlinks is a violation of the Athlinks Terms of Service and should be reported to [privacy@Athlinks.com](mailto:privacy@Athlinks.com). 
+Any improper collection or misuse of information provided on Athlinks is a violation of the Athlinks Terms of Service and should be reported on our [contact us](https://web.archive.org/contact.aspx?topic=privacy) page. 
 
-If you choose to use our invitation service to tell a friend about our site, we will ask you for your friend's email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Athlinks stores this information to send this one-time email, to register a friend connection if your invitation is accepted, and to track the success of our referral program. Your friend may contact us at [info@Athlinks.com](mailto:info@Athlinks.com) to request that we remove this information from our database. 
+If you choose to use our invitation service to tell a friend about our site, we will ask you for your friend's email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Athlinks stores this information to send this one-time email, to register a friend connection if your invitation is accepted, and to track the success of our referral program. Your friend may [contact us](https://web.archive.org/contact.aspx?topic=privacy) to request that we remove this information from our database. 
 
 Athlinks also collects race results from outside sources in order to provide you with a complete user experience as an endurance athlete and a more personalized experience. 
 
@@ -46,7 +46,7 @@ By using Athlinks, you are consenting to have your personal data transferred to 
 
 ### Children Under Age 13
 
-Athlinks does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. If you are under 13, please do not send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 is allowed to provide any personal information to or on Athlinks. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at [info@Athlinks.com](mailto:info@Athlinks.com). 
+Athlinks does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. If you are under 13, please do not send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 is allowed to provide any personal information to or on Athlinks. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please [contact us](https://web.archive.org/contact.aspx?topic=privacy). 
 
 ### Children Between the Ages of 13 and 18
 
@@ -100,7 +100,7 @@ Where you make use of the communication features of the service to share informa
 
 ### Security
 
-Athlinks takes appropriate precautions to protect our users' information. Your account information is located on a secured server behind a firewall. Because email and instant messaging are not recognized as secure communications, we request that you not send private information to us by email or instant messaging services. If you have any questions about the security of Athlinks Web Site, please contact us at [privacy@Athlinks.com](mailto:privacy@Athlinks.com). 
+Athlinks takes appropriate precautions to protect our users' information. Your account information is located on a secured server behind a firewall. Because email and instant messaging are not recognized as secure communications, we request that you not send private information to us by email or instant messaging services. If you have any questions about the security of Athlinks Web Site, please [contact us](https://web.archive.org/contact.aspx?topic=privacy). 
 
 ### Terms of Use, Notices and Revisions
 
@@ -108,4 +108,4 @@ If you choose to visit Athlinks, your visit and any dispute over privacy is subj
 
 ### Contacting the Web Site
 
-If you have any questions about this privacy policy, please contact us at [privacy@Athlinks.com](mailto:privacy@Athlinks.com). You may also contact us by mail at  2040 S. Alma School Rd. Ste 1 #148 Chandler, AZ 85248 . 
+If you have any questions about this privacy policy, please [contact us](https://web.archive.org/contact.aspx?topic=privacy). You may also contact us by mail at  2040 S. Alma School Rd. Ste 1 #148 Chandler, AZ 85248 . 
