@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teavana.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126224032id_/http%3A//www.teavana.com/customer-service/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teavana.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526083305id_/http%3A//www.teavana.com/customer-service/privacy-policy) for the most accurate reproduction.*
 
 # Teavana's Privacy Policy | Teavana
 
