@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the girlsguideto.com privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214055430id_/http%3A//girlsguideto.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girlsguideto.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526073150id_/http%3A//girlsguideto.com/privacy_policy) for the most accurate reproduction.*
 
 # GirlsGuideTo
 
