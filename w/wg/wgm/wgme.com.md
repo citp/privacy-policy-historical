@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wgme.com privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110092623id_/http%3A//www.wgme.com/station/legal/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wgme.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526095402id_/http%3A//wgme.com/station/legal/privacy.shtml) for the most accurate reproduction.*
 
 # WGME 13 :: Station Info - Privacy Policy
 
@@ -28,44 +28,47 @@ The Website allows certain advertisements/postings which include links to other 
 
 ### Business News
 
-**Obama invites lawmakers to WH to talk fiscal cliff**
+**US durable goods orders rise 3.3 percent in April**
 
-WASHINGTON (AP) -- A White House official says President Barack Obama is inviting Congressional leaders of both parties to the White House next week for talks on how to avoid the so-called fiscal cliff.
+WASHINGTON (AP) -- U.S. orders for long-lasting manufactured goods rebounded in April, buoyed by more demand for military and civilian aircraft and an increase in business investment.
 
 ### Consumer Info
 
-**Jobs dwindle during green power debate**  
-DENVER (AP) -- The wind energy boom President Barack Obama touted as key to his energy strategy has hit a wall in an election-year dispute over taxpayer support. ...
+BC-US--Dow Record-Three Personal Stories, 1st Ld-Writethru,1173  
+Dow Record: Three tales of ups, downs and changes  
+AP Photo FX102, FX103  
+Eds: With BC-US--Dow Record. Adds photos.  
+By SCOTT MAYEROWITZ  
+AP Business Writer  
+   NEW YORK (AP) -- When the Dow first crossed 14,000, investors were overjoyed. ...
 
 ### Entertainment News
 
-**BROOKE BURKE-CHARVET HAS THYROID CANCER**
+**"HANGOVER 3"**
 
-NEW YORK (AP) -- Brooke Burke-Charvet (shar-VAY') has thyroid cancer. 
+LOS ANGELES (AP) -- All hangovers come to an end eventually, and so, too, "The Hangover" franchise. 
 
 ### Get This
 
-**FLAG FLAP**
+**BEST BEACH**
 
-FOLLANSBEE, W.Va. (AP) -- No, that wasn't a symbol of distress at a West Virginia McDonald's. 
+EAST HAMPTON, N.Y. (AP) -- Dr. 
 
 ### Science/Tech News
 
-**IN THE NEWS: TWITTER MISTAKENLY RESETS PASSWORDS**
+**IN THE NEWS: RESTAURANT FLAP LEADS TO INTERNET MELTDOWN**
 
-SAN FRANCISCO (AP) -- If you're a Twitter user who found your password had been reset yesterday -- don't blame hackers. 
+SCOTTSDALE, Ariz. (AP) -- It isn't exactly to curry favor with your restaurant customers -- even if your specialty isn't curry. 
 
-[](https://web.archive.org/station/advertise/)
+[](https://web.archive.org/sections/station/advertise/)
 
 ## Forecast
 
-**Saturday:   **Mostly sunny. Light winds. Highs 44 to 50.  NW winds 5-10 mph. 
+**Sunday:** Rain ends during the morning.  Mostly cloudy during the afternoon. Some towns will get sunny breaks by the end of the day. Highs 54 to 59. 
 
-**Saturday Night:  ** Partly to mostly cloudy.  Lows 26 to 36. 
+**Sunday Night:** Partly cloudy skies. Lows 40 to 45.
 
-**Sunday:**   Partly sunny. Highs 49 to 55. 
-
-[](https://web.archive.org/sections/station/advertise/)
+ **Memorial Day:** Mostly sunny skies.  Highs 63 to 68. 
 
   
 
