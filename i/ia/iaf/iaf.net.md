@@ -1,30 +1,70 @@
-> *The following text is extracted and transformed from the iaf.net privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405004705id_/http%3A//www.iaf.net/privacy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iaf.net privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526120745id_/http%3A//www.zabasearch.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Statement
+# ZabaSearch - Privacy
 
-_Privacy_
+**PRIVACY POLICY**
 
-iaf.net promotes responsible use and dissemination of information. We fully support and adhere to the Individual Services Group Principles (IRSG), the GLB act, and the Fair Credit Reporting Act (FCRA).
+**December 5, 2012**
 
-All information provided by iaf.net is either from public records or publicly available information. The products provided are intended to be used for locating individuals for various lawful purposes, e.g. reuniting old friends, finding lost relatives, re-establishing business contacts, adoption reunification, class reunion searches, and other harmless activities of sorts.
+Zabasearch is dedicated to providing you with the best people search experience possible. In addition to this, we seek to provide you with the ability to report scammers and telemarketers. Zabasearch is committed to protecting your privacy and your personal information. The privacy policy listed below explains our information practices so that you may better understand how your information is being used before you choose to share it with us. This policy also discloses what types of information we gather, track and share with other parties.
 
-But we don't stop there. As a self imposed rule, we also DO NOT maintain nor sell information on known minors, celebrities, government officials, or members of law enforcement. Additionally, we NEVER provide full social security numbers or full date of births to anyone in any of our reports.
+#### Your Personal Information and Zabasearch
 
-Furthermore, we at iaf.net have put in place another level of scrutiny. Although the order taking process is automated, the order processing part isn't. Another filter for inappropriate requests is placed on all incoming orders which are reviewed by a live person in our Compliance Dept. who runs the order through a series of checks and balances which allows us to catch suspicious orders.
+You are free to visit our site at anytime without ever providing us with any personal information about yourself. However, in some situations, you may choose to share personal information with us or on our site. For example, you may register with our site, authorize us to collect information from your social media account(s) such as Facebook, provide us with your contact information for communication purposes, or you may choose to provide personal information in one of our user forums. If you share your information with us but indicate that you do not want us to use that information for anything further than fulfilling your request, we will respect that request. If you choose to share personal information about another individual, we will assume that you have their permission to share or distribute such information. We will use your information you provide to us or authorize us to collect from your social media account(s) to provide useful products and services to our and our affiliates' users, and to enhance your experience on Zabasearch by providing targeted search results and advertising. 
 
-To enable this level of filtering, all orders placed with us require full disclosure of buyer's identity, including name, address and phone, which many of our competitors do not. This allows us to enforce the various filtering and alarm mechanisms we have in place, and often to check with the buyer on the validity and motive of their order. We cannot reveal what these filters are in this page so as not to give someone a chance to circumvent them, but they do work and as a matter of extremely safe and conservative practices on our part, we end up turning down approx. 1% of all orders. These same mechanisms are also used to protect both the buyer and us from online fraud.
+#### Registration
 
-We are committed to protect your privacy and credit while providing the highest quality data possible to our customers, and  maintaining a high degree of respect for the sensitive nature of the information provided. As a matter of policy, iaf.net will not sell information to individuals who do not agree to its lawful use, nor to anyone under the age of 18. Nor will it sell information about individuals who it knows to be under the age of 18. 
+We offer users the option to register on our site. During this registration process, you may be required to give contact information (such as your name and email address). We can use this information to contact you about items associated with our site. Please see the opt out policy below for information on opting out of these emails. 
 
-__What about me the buyer?__  
-iaf.net does not use, sell, compile, nor in any way record information from the visitors to our web site for marketing or any other purposes other than strictly for the purposes of billing/collection and services as represented by our web site, or for voluntary subscriptions to our mailing list via a separate independent subscription database. Your private information remains private.
+#### User Forums
 
-[\- Back Home -](https://web.archive.org/web/20050405004705id_/http%3A//www.iaf.net/Default.htm)
+We provide users with the opportunity to share their own personal experiences and information with other Zabasearch users by the following means:  
 
-[  [locator report](https://web.archive.org/web/20050405004705id_/http%3A//www.iaf.net/locator_search.htm) |  [background report](https://web.archive.org/web/20050405004705id_/http%3A//www.iaf.net/background_search.htm) | [legal](https://web.archive.org/web/20050405004705id_/http%3A//www.iaf.net/legaldisclaimer.htm) | [ order form](https://web.archive.org/web/20050405004705id_/http%3A//www.iaf.net/orderinfo.htm) ]  
+
+  * Creating a Zabasphere
+  * Leaving Zabasearch messages
+
   
+If you choose to provide information in any of these user forums, please be aware that any personally identifiable information can be collected, read and used by other users and third parties. This information can be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to share on these forums. 
 
+#### Links to Other Websites
 
-**Copyright since 1996! © iaf.net   \- All rights reserved.**  
-Use of this site indicates that you have read and understand the site's [legal information.](https://web.archive.org/web/20050405004705id_/http%3A//www.iaf.net/legaldisclaimer.htm)  
-Our [Privacy](https://web.archive.org/web/20050405004705id_/http%3A//www.iaf.net/privacy_statement.htm) Statement
+In some cases, you may see links or advertisements about information and data available to you through other websites. For example, if you find certain limited information through Zabasearch, you may be able to purchase more detailed information, subject to certain terms and conditions, through a third party. These links or advertisements may be presented to you using framing techniques, which means that, although it appears you are still on our website, you have been transferred to the website of a third party. You should carefully review the privacy policy of any advertised or linked website before providing any personal information or purchasing any product or service from them. We are not responsible for the privacy practices or the content of third party websites. 
+
+#### Cookies and Other Online Technologies
+
+We sometimes collect non-personally-identifiable information from visitors to the site. We do this in order to provide our users with a better experience and service. For instance, we may keep track of the domains from which people visit our site and their activity within our site. This is done using cookies to ensure that the visitor's identity remains anonymous. A cookie is a piece of data that we send to your browser. This is then stored on your computer as an anonymous tag or identifier. It is possible to identify your computer from this information, but not you personally. You may choose to set your browser to notify you when receiving cookies or to turn off cookies altogether. However, if you disallow cookies, keep in mind that some websites may not work properly. 
+
+#### Log Files
+
+As with most websites, we gather certain information and automatically store it in log files. This information can include IP address, browser type, Internet service provider, operating system and clickstream data. This information does not individually identify any users and is used to analyze trends and make improvements to our site to provide a better user experience. 
+
+#### Personal Information and Children
+
+We do not knowingly collect information relating to children. Our products are designed for individuals who are over the age of 13 in accordance with COPPA (http://www.coppa.org/). If we are made aware that we have personal information from someone under the age of 13, we will take all reasonable efforts to expunge that information from our records. 
+
+#### Disclosures Required By Law
+
+In certain circumstances, we may be required to share any personal information you have provided to us with others pursuant to judicial or other government subpoenas, warrants and orders. 
+
+#### Accuracy of Third Party Information
+
+The substantive information provided by us on our site is aggregated from multiple third party sources. We cannot guarantee the accuracy of this information, nor are we responsible for how this information is being used by these third-parties. If you have questions or concerns about this third party information, please review the privacy policies and contact the appropriate third party. 
+
+#### How to Remove your Information from Our Database
+
+Public records are available from the official public records custodian or repository to anyone who requests them. In order for any database of public records to be useful, the databases must contain all of the information in the public records offices. If you have a compelling privacy or security issue, you may wish to contact the official custodians of those public records that contain sensitive information about you, such as your county's land records office, to determine how to remove your information from the public record. (The process of having public records sealed typically requires a court order.) This process will ensure that the information is not available to the public, to us, or to any other public records information provider. 
+
+In addition to public records, personal information may be publicly or commercially available. Publicly available information consists of online and offline information that is generally available but is not maintained by a government agency, such as names, addresses and telephone numbers of individuals and businesses, professional licensing and trade organization information, press releases and newspaper articles and content from blogs or social networking sites. Commercial records consist of information that is maintained by enterprises and is available for purchase, such as marketing and telemarketing lists, phone connect and disconnect information, and business profile data.
+
+As a courtesy we allow you to opt out your personal information from our website. What this means is that your name as it appears in a particular record and the associated identifying information such as your address and phone number will be suppressed if you request this in the manner described below. However, please note that any time your identifying information appears in a public record or in a publicly or commercially available manner, in a way that is different from the particular record you opted out, it will again appear on our website. For example, if your address or area code changes, your new information -- including other associated identifying information -- will again appear unless you opt out the new record. Similarly, if the way in which your name or address appears in a record differs from a record you opted out (e.g., "Michael" instead of "Mike," or "1212 Second AVE NE" instead of "1212-2nd Avenue Northeast"), we may include the differing record. Please also note that there may be more than one record on our website associated with your personal information. Opting out one particular record will not opt out other record(s). In addition to this website, there are many other companies offering public records search services, and your request that we opt out your information from this website will not prevent your information from appearing on these other services. 
+
+In order for us to suppress or opt out your personal information from appearing on our website, we need to verify your identity. To do this, we require faxed proof of identity. Proof of identity can be a state issued ID card or driver's license. If you are faxing a copy of your driver's license, we require that you cross out the photo and the driver's license number. We only need to see the name, address and date of birth. We will only use this information to process your opt out request. Please fax to (425) 974-6194 and allow 7-14 days to process your request.
+
+#### Other Opt-Outs
+
+Upon your request, we will also (i) remove you and your personal information from our registration records, thereby canceling your registration with our site, and (ii) permit you to "opt out" of receiving further e-mails from us. Please fax any such a cancellation or opt-out request to (425) 974-6194. 
+
+#### Changes to this Privacy Policy
+
+Please note that this privacy policy may change. All policy changes will be posted to this page at the time of change 
