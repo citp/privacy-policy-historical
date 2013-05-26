@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the pleaserusa.com privacy policy that was archived on 2012-11-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121121133724id_/http%3A//www2.pleaserusa.com/policy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pleaserusa.com privacy policy that was archived on 2013-05-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130526180240id_/http%3A//www.pleaserusa.com/policy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -8,7 +8,7 @@
 <meta name="DESCRIPTION" content="The global leader in sexy and alternative footwear: Pleaser, Demonia, Bordello, Pin Up Couture, Funtasma, Devious, Lucious.">
 <meta name="KEYWORDS" content="Pleaser, Shoe, Footwear, Pleaser Shoes, Pleasershoes, Pleaser Footwear, Pleaser USA, Pleaserusa, Bordello, Bordello Shoes, Demonia, Demonia Shoes, Pin Up Couture, Pleaser Boots, Demonia Boots, Lucious, Lucious Shoes, Devious, Devious Shoes, Devious Boots, sexy shoes, sexy boots, high heels, high heel shoes, high heel boots, stiletto pumps, stiletto shoes, stiletto boots, stiletto heels, spike heels, spike heeled shoes, spike heeled boots, wedge shoes, dancer shoes, dancer boots, exotic dancer shoes, exotic dancer boots, exotic shoes, exotic boots, stripper shoes, stripper boots, ankle boots, mid calf boots, knee high boots, thigh high boots, crotch boots, chap boots, chaps, renaissance boots, medieval boots, pageant shoes, prom shoes, halloween shoes and boots, pirate shoes and boots, gogo boot, gogo boots, easy boots, chacha boots, transvestite shoes, transgender shoes, crossdresser shoes, transsexual shoes, larger sizes, grad queen shoes, wood shoes, wood bottom shoes, metal shoes, bridal shoes and boots, wedding shoes and boots, rubber shoes, rubber boots, latex boots, pig leather boots, cow leather boots, party shoes, evening shoes, marabou slippers, extreme high heels, for men and women, 2 inch heel, 3 inch heel, 4 inch heel, 5 inch heel, 6 inch heel, 7 inch heel, 8 inch heel, cone heel, square heel, wedge heel, aluminum heel, tinted bottom, 2" "="" pump,="" 3""="" 4""="" 5""="" 6""="" leather,="" patent,="" pu,="" lucite,="" stretch,="" glitter,="" rhinestone,="" lycra,="" velvet,="" glow="" in="" the="" dark,="" light-up,="" uv="" reactive,="" blue="" light="" shoes,="" wood="" imitation,="" cork,="" mule,="" slide,="" sandal,="" mules,="" slides,="" sandals,="" pumps,="" spectator="" wing="" tip,="" peep-toe="" sling="" back,="" sling-back,="" t-strap,="" open="" toe,="" closed="" d’orsay,="" baby="" doll,="" pointed="" metal="" heels,="" slip="" ons,="" clear="" platforms,="" black,="" white,="" red,="" pink,="" hot="" fuchsia,="" blue,="" navy="" brown,="" taupe,="" tan,="" orange,="" yellow,="" contrast="" stitching,="" trim,="" perforated="" velcro-type="" close,="" bow="" ornamentation,="" rhinestone="" buckle,="" grommets,="" corset="" lacing,="" two="" tone,="" interchangeable="" tongues,="" wide="" calf,="" shaft,="" front="" lace,="" side="" back="" lace="" up,="" inside="" zipper,="" inner="" scalloped="" edging,="" ankle="" strap,="" studs,="" bow,="" grosgrain="" ribbon,="" snap="" closure="" zip,="" crisscross,="" single="" band,="" two-band,="" studded="" straps,="" neon="" color"="">
 <meta name="Robots" content="All">
-<title>www.pleaserusa.com - Privacy Policy</title>
+<title></title>
 <link href="/css/styleNew.css" rel="stylesheet" type="text/css">
 <link href="/css/styleRI.css" rel="stylesheet" type="text/css">
 <link rel="stylesheet" href="/css/jqzoom.css" type="text/css" media="screen">
@@ -113,6 +113,8 @@ window.document.getElementById("m_style").innerHTML = style_cd;
 window.document.getElementById("m_desc1").innerHTML = desc1;
 window.document.getElementById("m_desc2").innerHTML = desc2;
 
+window.document.getElementById("content_master").style.top = event.clientY;
+
 if (window.document.getElementById("m_price1") != null)
 {
 	if (tag1 == "Wholesale")
@@ -209,7 +211,7 @@ function setImageHeight(id, ht) {
 		
 		var oqty, oamt, cqty, camt;
 
-		var tempqty, tempcase, tempttl, tempprice, tempamt, sqty, scase, runqty, caseqty;
+		var tempqty, tempcase, tempttl, tempprice, tempamt, sqty, scase, runqty, caseqty, caseqty2;
 
 		t = ctrl.name;
 		ta = t.split("=")
@@ -233,6 +235,9 @@ function setImageHeight(id, ht) {
 		tempCtrl = t + "=caseqty";
 		caseqty = window.document.ShopForm[tempCtrl].value;
 
+		tempCtrl = t + "=caseqty2";
+		caseqty2 = window.document.ShopForm[tempCtrl].value;
+
 		tempCtrl = t + "=ototal";
 		window.document.ShopForm[tempCtrl].value = colorItems;	
 		oqty = colorItems;
@@ -243,8 +248,10 @@ function setImageHeight(id, ht) {
 //		if (colorItems < runqty)
 		if (colorItems < caseqty)
 			tempprice = t + "=price";
-		else
+		else if (colorItems < caseqty2)
 			tempprice = t + "=price2";
+		else
+			tempprice = t + "=price3";
 
 		price = parseFloat(window.document.ShopForm[tempprice].value)
 
@@ -347,7 +354,7 @@ function brandpop(brand, brandpopup, img)
 		return false;
 	
 	document.getElementById(brandpopup).style.backgroundImage="url(" + img + ")";
-	//document.getElementById(brandpopup).style.backgroundImage ="url(http://static.pleaserusa.com/img/brandpopup_demonia.jpg)";
+	//document.getElementById(brandpopup).style.backgroundImage ="url(http://pleaser.sa.metacdn.com/img/brandpopup_demonia.jpg)";
 	document.getElementById(brandpopup).style.zIndex = "100";
 	document.getElementById(brand).style.zIndex = "100";
 	document.getElementById(brandpopup).style.display = "inline";
@@ -362,6 +369,7 @@ function brandpopclose(brand, brandpopup)
 
 function moveup(){
 	var count;
+	var uptime;
 
 	if (document.getElementById("gallery_count") == null)
 		return false;
@@ -389,7 +397,9 @@ function moveup(){
 
 </head>
 
-<body bgcolor="#000000" leftmargin="0" topmargin="0" rightmargin="0" bottommargin="0" marginwidth="0" marginheight="0" onload="runSlideShow();moveup();showtime();MM_preloadImages('http://static.pleaserusa.comhttp://static.pleaserusa.com/img/PleaserCorporate_Nav_Home_R.gif','http://static.pleaserusa.com/img/PleaserCorporate_Nav_Aboutus_R.gif','http://static.pleaserusa.com/img/PleaserCorporate_Nav_Faq_R.gif','http://static.pleaserusa.com/img/PleaserCorporate_Nav_How_R.gif','http://static.pleaserusa.com/img/PleaserCorporate_Nav_Where_R.gif','http://static.pleaserusa.com/img/PleaserCorporate_Nav_Shopping_R.gif','http://static.pleaserusa.com/img/PleaserCorporate_Nav_Account_R.gif','http://static.pleaserusa.com/img/PleaserCorporate_Nav_Login_R.png','http://static.pleaserusa.com/img/PleaserCorporate_Nav_Language_R.gif','http://static.pleaserusa.com/img/PleaserCorporate_Browse_by_Cat_R.png','http://static.pleaserusa.com/img/PleaserCorporate_Browse_by_Holiday_R.png','http://static.pleaserusa.com/img/PleaserCorporate_Browse_Acc_R.png','http://static.pleaserusa.com/img/PleaserCorporate_Browse_Sales_R.png','http://static.pleaserusa.com/img/PleaserCorporate_PleaserD_R.png','http://static.pleaserusa.com/img/PleaserCorporate_Pleaser_R.png','http://static.pleaserusa.com/img/PleaserCorporate_Demonia_R.png','http://static.pleaserusa.com/img/PleaserCorporate_Devious_R.png','http://static.pleaserusa.com/img/PleaserCorporate_Lucious_R.png','http://static.pleaserusa.com/img/PleaserCorporate_Bordello_R.png','http://static.pleaserusa.com/img/PleaserCorporate_Funtasma_R.png','http://static.pleaserusa.com/img/PleaserCorporate_Browse_by_brand_R.png','http://static.pleaserusa.com/img/Brand_Profile_button_R.gif','http://static.pleaserusa.com/img/Online_Catalog_button_R.gif','http://static.pleaserusa.com/img/New_Style_button_R.gif','http://static.pleaserusa.com/img/PleaserCorporate_Nav_Logoff_R.png')">
+<body bgcolor="#000000" leftmargin="0" topmargin="0" rightmargin="0" bottommargin="0" marginwidth="0" marginheight="0" onload="runSlideShow();moveup();showtime();MM_preloadImages('http://pleaser.sa.metacdn.com/img/PleaserCorporate_Nav_Home_R.gif','http://pleaser.sa.metacdn.com/img/PleaserCorporate_Nav_Aboutus_R.gif','http://pleaser.sa.metacdn.com/img/PleaserCorporate_Nav_Faq_R.gif','http://pleaser.sa.metacdn.com/img/PleaserCorporate_Nav_How_R.gif','http://pleaser.sa.metacdn.com/img/PleaserCorporate_Nav_Where_R.gif','http://pleaser.sa.metacdn.com/img/PleaserCorporate_Nav_Shopping_R.gif','http://pleaser.sa.metacdn.com/img/PleaserCorporate_Nav_Account_R.gif','http://pleaser.sa.metacdn.com/img/PleaserCorporate_Nav_Login_R.png','http://pleaser.sa.metacdn.com/img/PleaserCorporate_Nav_Language_R.gif','http://pleaser.sa.metacdn.com/img/PleaserCorporate_Browse_by_Cat_R.png','http://pleaser.sa.metacdn.com/img/PleaserCorporate_Browse_by_Holiday_R.png','http://pleaser.sa.metacdn.com/img/PleaserCorporate_Browse_Acc_R.png','http://pleaser.sa.metacdn.com/img/PleaserCorporate_Browse_Sales_R.png','http://pleaser.sa.metacdn.com/img/PleaserCorporate_PleaserD_R.png','http://pleaser.sa.metacdn.com/img/PleaserCorporate_Pleaser_R.png','http://pleaser.sa.metacdn.com/img/PleaserCorporate_Demonia_R.png','http://pleaser.sa.metacdn.com/img/PleaserCorporate_Devious_R.png','http://pleaser.sa.metacdn.com/img/PleaserCorporate_Lucious_R.png','http://pleaser.sa.metacdn.com/img/PleaserCorporate_Bordello_R.png','http://pleaser.sa.metacdn.com/img/PleaserCorporate_Funtasma_R.png','http://pleaser.sa.metacdn.com/img/PleaserCorporate_Browse_by_brand_R.png','http://pleaser.sa.metacdn.com/img/Brand_Profile_button_R.gif','http://pleaser.sa.metacdn.com/img/Online_Catalog_button_R.gif','http://pleaser.sa.metacdn.com/img/New_Style_button_R.gif','http://pleaser.sa.metacdn.com/img/PleaserCorporate_Nav_Logoff_R.png',
+	'http://pleaser.sa.metacdn.com/img/NAa.png','http://pleaser.sa.metacdn.com/img/NEa.png','http://pleaser.sa.metacdn.com/img/POa.png','http://pleaser.sa.metacdn.com/img/CSa.png','http://pleaser.sa.metacdn.com/img/SCa.png','http://pleaser.sa.metacdn.com/img/WSa.png','http://pleaser.sa.metacdn.com/img/NWa.png',
+	'http://pleaser.sa.metacdn.com/img/NA2a.png','http://pleaser.sa.metacdn.com/img/NE2a.png','http://pleaser.sa.metacdn.com/img/PO2a.png','http://pleaser.sa.metacdn.com/img/CS2a.png','http://pleaser.sa.metacdn.com/img/SC2a.png','http://pleaser.sa.metacdn.com/img/WS2a.png','http://pleaser.sa.metacdn.com/img/NW2a.png')">
 	<table align="center" cellpadding="0" cellspacing="0" border="0">
 		<tbody><tr>
 			<td width="255" class="bg_corp_left_ri"></td>
@@ -398,18 +408,36 @@ function moveup(){
 					<tbody><tr>
 						<td width="978" height="107" valign="top">
 							<div style="position: absolute; padding-top:0px;">
-								<div style="position:absolute; margin-top: 6px; margin-left: 750px;">
-									<a href="login.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Nav_Login','','http://static.pleaserusa.com/img/PleaserCorporate_Nav_Login3_R.png',1)"><img src="http://static.pleaserusa.com/img/PleaserCorporate_Nav_Login3.png" name="Nav_Login" width="118" height="27" border="0" valign="bottom" id="Nav_Login"></a>
+								<div style="position:absolute; margin-top: 24px; margin-left: 545px;">
+									<a href="https://www.pleaserusa.com/login.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Nav_Login','','http://pleaser.sa.metacdn.com/img/PleaserCorporate_Nav_Login3_R.png',1)"><img src="http://pleaser.sa.metacdn.com/img/PleaserCorporate_Nav_Login3.png" name="Nav_Login" width="118" height="27" border="0" valign="bottom" id="Nav_Login"></a>
 								</div>
-								<div style="position:absolute; margin-top: 6px; margin-left: 860px;">
-									<a href="languages.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Nav_Language','','http://static.pleaserusa.com/img/PleaserCorporate_Nav_Language3_R.png',1)">
-										<img src="http://static.pleaserusa.com/img/PleaserCorporate_Nav_Language3.png" name="Nav_Language" width="126" height="27" border="0" id="Nav_Language"></a>
+								<div style="position:absolute; margin-top: 24px; margin-left: 690px;">
+									<a href="http://www.pleaserusa.com/languages.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Nav_Language','','http://pleaser.sa.metacdn.com/img/PleaserCorporate_Nav_Language3_R.png',1)">
+										<img src="http://pleaser.sa.metacdn.com/img/PleaserCorporate_Nav_Language3.png" name="Nav_Language" width="126" height="27" border="0" id="Nav_Language"></a>
 								</div>
-								<div style="position:absolute; margin-top: 56px; margin-left: 720px;">
-									<a href="regular.asp?season=NEW&amp;instock=y&amp;WebFormat=12&amp;PW=150&amp;PH=150&amp;ViewAll=0&amp;ShowPage=1"><img id="New_arrival_btn" src="http://static.pleaserusa.com/img/New_arrival_btn.png" border="0" onmouseover="javascript: setdpt2(this, 1)" onmouseout="javascript: setdpt2(this, 0)"></a>
+								<div style="position:absolute; margin-top: 16px; margin-left: 845px;">
+									
+									<a href="http://www2.pleaserusa.com" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('rg_icon','','/img/eu_icona.png',1)">
+										<img src="/img/eu_icon.png" name="rg_icon" width="110" height="29" border="0" id="rg_icon"></a>
+									
 								</div>
-								<div style="position:absolute; margin-top: 56px; margin-left: 860px;">
-									<a href="regular.asp?season=NEW&amp;instock=n&amp;WebFormat=12&amp;PW=150&amp;PH=150&amp;ViewAll=0&amp;ShowPage=1"><img id="Coming_Soon_btn" src="http://static.pleaserusa.com/img/Coming_Soon_btn.png" border="0" onmouseover="javascript: setdpt2(this, 1)" onmouseout="javascript: setdpt2(this, 0)"></a>
+								<div style="position:absolute; margin-top: 58px; margin-left: 555px; width:135px;">
+									<a class="banner_post" href="/regular.asp?season=NA&amp;WebFormat=12&amp;PW=150&amp;PH=150&amp;ViewAll=0&amp;ShowPage=1">
+										<div style="font-size: 12px; letter-spacing: 1px; font-weight: bold; margin-top: 2px; margin-bottom: 2px;">NEW ARRIVALS...</div>
+										<div style="font-size: 7px; font-weight: normal;">WITHIN LAST 6 MONTHS</div>
+									</a>
+								</div>
+								<div style="position:absolute; margin-top: 58px; margin-left: 700px; width:135px;">
+									<a class="banner_post2" href="/regular.asp?season=CS&amp;WebFormat=12&amp;PW=150&amp;PH=150&amp;ViewAll=0&amp;ShowPage=1&quot;">
+										<div style="font-size: 12px; letter-spacing: 1px; font-weight: bold; margin-top: 2px; margin-bottom: 2px;">COMING SOON...</div>
+										<div style="font-size: 7px; font-weight: normal;">AVAILABLE IN 15 - 30 DAYS</div>
+									</a>
+								</div>
+								<div style="position:absolute; margin-top: 58px; margin-left: 845px; width:135px;">
+									<a class="banner_post" href="/regular.asp?season=PO&amp;WebFormat=12&amp;PW=150&amp;PH=150&amp;ViewAll=0&amp;ShowPage=1">
+										<div style="font-size: 12px; letter-spacing: 1px; font-weight: bold; margin-top: 2px; margin-bottom: 2px;">PRE-ORDER NOW...</div>
+										<div style="font-size: 7px; font-weight: normal;">UPCOMING NEW STYLES</div>
+									</a>
 								</div>
 							</div>
 						</td>
@@ -417,44 +445,44 @@ function moveup(){
 				</tbody></table>
 				<table width="978" border="0" cellspacing="0" cellpadding="0">
 					<tbody><tr>
-						<td width="978" height="1"><img src="http://static.pleaserusa.com/img/PleaserCorporate_seperate_line.jpg" name="Nav_Bar" width="978" height="1" id="Nav_Bar"></td>
+						<td width="978" height="1"><img src="http://pleaser.sa.metacdn.com/img/PleaserCorporate_seperate_line.jpg" name="Nav_Bar" width="978" height="1" id="Nav_Bar"></td>
 					</tr>
 				</tbody></table>
 				<table width="978" border="0" cellspacing="0" cellpadding="0">
 					<tbody><tr>
-						<td width="794" height="26" valign="middle" class="tagline1"></td>
-						<td width="184" height="26" valign="middle" align="right" class="tagline" style="padding-right:2px"><span class="tagline" id="clock">Wednesday, Feb 19, 2020  5:17 pm</span></td>
+						<td width="768" height="26" valign="middle" class="tagline1"></td>
+						<td width="200" height="26" valign="middle" align="right" class="tagline" style="padding-right:2px"><span class="tagline" id="clock">Wednesday, Feb 19, 2020  5:17 pm</span></td>
 					</tr>
 				</tbody></table>
 				<table width="978" border="0" cellspacing="0" cellpadding="0">
 					<tbody><tr>
-						<td width="978" height="1"><img src="http://static.pleaserusa.com/img/PleaserCorporate_seperate_line.jpg" name="Nav_Bar" width="978" height="1" id="Nav_Bar"></td>
+						<td width="978" height="1"><img src="http://pleaser.sa.metacdn.com/img/PleaserCorporate_seperate_line.jpg" name="Nav_Bar" width="978" height="1" id="Nav_Bar"></td>
 					</tr>
 				</tbody></table>
 				<table width="978" height="27" border="0" cellspacing="0" cellpadding="0">
 					<tbody><tr>
 						<td width="978" height="27" valign="top" class="top_nav">
 							<div style="position: absolute; padding-top:0px;">
-								<div style="position:absolute; margin-top: 0px; margin-left: 0px;"><a href="home.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Nav_Home','','http://static.pleaserusa.com/img/PleaserCorporate_Nav_Home_R.png',1)"><img src="http://static.pleaserusa.com/img/PleaserCorporate_Nav_Home.png" name="Nav_Home" width="52" height="27" border="0" id="Nav_Home"></a></div>
-								<div style="position:absolute; margin-top: 0px; margin-left: 52px;"><img src="http://static.pleaserusa.com/img/PleaserCorporate_Nav_Top_Divbar.png" alt="" name="Nav_Bar" width="3" height="27" id="Nav_Bar2" border="0"></div>
-								<div style="position:absolute; margin-top: 0px; margin-left: 55px;"><a href="about.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Nav_About','','http://static.pleaserusa.com/img/PleaserCorporate_Nav_Aboutus_R.png',1)"><img src="http://static.pleaserusa.com/img/PleaserCorporate_Nav_Aboutus.png" name="Nav_About" width="66" height="27" border="0" id="Nav_About"></a></div>
-								<div style="position:absolute; margin-top: 0px; margin-left: 121px;"><img src="http://static.pleaserusa.com/img/PleaserCorporate_Nav_Top_Divbar.png" alt="" name="Nav_Bar" width="3" height="27" id="Nav_Bar3" border="0"></div>
-								<div style="position:absolute; margin-top: 0px; margin-left: 124px;"><a href="faq.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Nav_Faq','','http://static.pleaserusa.com/img/PleaserCorporate_Nav_Faq_R.png',1)"><img src="http://static.pleaserusa.com/img/PleaserCorporate_Nav_Faq.png" name="Nav_Faq" width="37" height="27" border="0" id="Nav_Faq"></a></div>
-								<div style="position:absolute; margin-top: 0px; margin-left: 161px;"><img src="http://static.pleaserusa.com/img/PleaserCorporate_Nav_Top_Divbar.png" alt="" name="Nav_Bar" width="3" height="27" id="Nav_Bar4" border="0"></div>
-								<div style="position:absolute; margin-top: 0px; margin-left: 164px;"><a href="howtoorder.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Nav_How','','http://static.pleaserusa.com/img/PleaserCorporate_Nav_How_R.png',1)"><img src="http://static.pleaserusa.com/img/PleaserCorporate_Nav_How.png" name="Nav_How" width="94" height="27" border="0" id="Nav_How"></a></div>
-								<div style="position:absolute; margin-top: 0px; margin-left: 258px;"><img src="http://static.pleaserusa.com/img/PleaserCorporate_Nav_Top_Divbar.png" alt="" name="Nav_Bar" width="3" height="27" id="Nav_Bar5" border="0"></div>
-								<div style="position:absolute; margin-top: 0px; margin-left: 261px;"><a href="wheretobuy.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Nav_Where','','http://static.pleaserusa.com/img/PleaserCorporate_Nav_Where_R.png',1)"><img src="http://static.pleaserusa.com/img/PleaserCorporate_Nav_Where.png" name="Nav_Where" width="85" height="27" border="0" id="Nav_Where"></a></div>
-								<div style="position:absolute; margin-top: 0px; margin-left: 346px;"><img src="http://static.pleaserusa.com/img/PleaserCorporate_Nav_Top_Divbar.png" alt="" name="Nav_Bar" width="3" height="27" id="Nav_Bar6" border="0"></div>
-								<div style="position:absolute; margin-top: 0px; margin-left: 349px;"><a href="showorder.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Nav_Shopping','','http://static.pleaserusa.com/img/PleaserCorporate_Nav_Shopping_R.png',1)"><img src="http://static.pleaserusa.com/img/PleaserCorporate_Nav_Shopping.png" name="Nav_Shopping" width="94" height="27" border="0" id="Nav_Shopping"></a></div>
-								<div style="position:absolute; margin-top: 0px; margin-left: 443px;"><img src="http://static.pleaserusa.com/img/PleaserCorporate_Nav_Top_Divbar.png" alt="" name="Nav_Bar" width="3" height="27" id="Nav_Bar7" border="0"></div>
-								<div style="position:absolute; margin-top: 0px; margin-left: 446px;"><a href="myaccount.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Nav_Account','','http://static.pleaserusa.com/img/PleaserCorporate_Nav_Account_R.png',1)"><img src="http://static.pleaserusa.com/img/PleaserCorporate_Nav_Account.png" name="Nav_Account" width="81" height="27" border="0" id="Nav_Account"></a></div>
+								<div style="position:absolute; margin-top: 0px; margin-left: 0px;"><a href="/home.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Nav_Home','','http://pleaser.sa.metacdn.com/img/PleaserCorporate_Nav_Home_R.png',1)"><img src="http://pleaser.sa.metacdn.com/img/PleaserCorporate_Nav_Home.png" name="Nav_Home" width="52" height="27" border="0" id="Nav_Home"></a></div>
+								<div style="position:absolute; margin-top: 0px; margin-left: 52px;"><img src="http://pleaser.sa.metacdn.com/img/PleaserCorporate_Nav_Top_Divbar.png" alt="" name="Nav_Bar" width="3" height="27" id="Nav_Bar2" border="0"></div>
+								<div style="position:absolute; margin-top: 0px; margin-left: 55px;"><a href="/about.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Nav_About','','http://pleaser.sa.metacdn.com/img/PleaserCorporate_Nav_Aboutus_R.png',1)"><img src="http://pleaser.sa.metacdn.com/img/PleaserCorporate_Nav_Aboutus.png" name="Nav_About" width="66" height="27" border="0" id="Nav_About"></a></div>
+								<div style="position:absolute; margin-top: 0px; margin-left: 121px;"><img src="http://pleaser.sa.metacdn.com/img/PleaserCorporate_Nav_Top_Divbar.png" alt="" name="Nav_Bar" width="3" height="27" id="Nav_Bar3" border="0"></div>
+								<div style="position:absolute; margin-top: 0px; margin-left: 124px;"><a href="/faq.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Nav_Faq','','http://pleaser.sa.metacdn.com/img/PleaserCorporate_Nav_Faq_R.png',1)"><img src="http://pleaser.sa.metacdn.com/img/PleaserCorporate_Nav_Faq.png" name="Nav_Faq" width="37" height="27" border="0" id="Nav_Faq"></a></div>
+								<div style="position:absolute; margin-top: 0px; margin-left: 161px;"><img src="http://pleaser.sa.metacdn.com/img/PleaserCorporate_Nav_Top_Divbar.png" alt="" name="Nav_Bar" width="3" height="27" id="Nav_Bar4" border="0"></div>
+								<div style="position:absolute; margin-top: 0px; margin-left: 164px;"><a href="/howtoorder.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Nav_How','','http://pleaser.sa.metacdn.com/img/PleaserCorporate_Nav_How_R.png',1)"><img src="http://pleaser.sa.metacdn.com/img/PleaserCorporate_Nav_How.png" name="Nav_How" width="94" height="27" border="0" id="Nav_How"></a></div>
+								<div style="position:absolute; margin-top: 0px; margin-left: 258px;"><img src="http://pleaser.sa.metacdn.com/img/PleaserCorporate_Nav_Top_Divbar.png" alt="" name="Nav_Bar" width="3" height="27" id="Nav_Bar5" border="0"></div>
+								<div style="position:absolute; margin-top: 0px; margin-left: 261px;"><a href="/wheretobuy.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Nav_Where','','http://pleaser.sa.metacdn.com/img/PleaserCorporate_Nav_Where_R.png',1)"><img src="http://pleaser.sa.metacdn.com/img/PleaserCorporate_Nav_Where.png" name="Nav_Where" width="85" height="27" border="0" id="Nav_Where"></a></div>
+								<div style="position:absolute; margin-top: 0px; margin-left: 346px;"><img src="http://pleaser.sa.metacdn.com/img/PleaserCorporate_Nav_Top_Divbar.png" alt="" name="Nav_Bar" width="3" height="27" id="Nav_Bar6" border="0"></div>
+								<div style="position:absolute; margin-top: 0px; margin-left: 349px;"><a href="https://www.pleaserusa.com/showorder.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Nav_Shopping','','http://pleaser.sa.metacdn.com/img/PleaserCorporate_Nav_Shopping_R.png',1)"><img src="http://pleaser.sa.metacdn.com/img/PleaserCorporate_Nav_Shopping.png" name="Nav_Shopping" width="94" height="27" border="0" id="Nav_Shopping"></a></div>
+								<div style="position:absolute; margin-top: 0px; margin-left: 443px;"><img src="http://pleaser.sa.metacdn.com/img/PleaserCorporate_Nav_Top_Divbar.png" alt="" name="Nav_Bar" width="3" height="27" id="Nav_Bar7" border="0"></div>
+								<div style="position:absolute; margin-top: 0px; margin-left: 446px;"><a href="https://www.pleaserusa.com/myaccount.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Nav_Account','','http://pleaser.sa.metacdn.com/img/PleaserCorporate_Nav_Account_R.png',1)"><img src="http://pleaser.sa.metacdn.com/img/PleaserCorporate_Nav_Account.png" name="Nav_Account" width="81" height="27" border="0" id="Nav_Account"></a></div>
 							</div>
 						</td>
 					</tr>
 				</tbody></table>
 				<table width="978" border="0" cellspacing="0" cellpadding="0">
 					<tbody><tr>
-					<td width="978" height="1"><img src="http://static.pleaserusa.com/img/PleaserCorporate_seperate_line2.jpg" name="Nav_Bar" width="978" height="1" id="Nav_Bar"></td>
+					<td width="978" height="1"><img src="http://pleaser.sa.metacdn.com/img/PleaserCorporate_seperate_line2.jpg" name="Nav_Bar" width="978" height="1" id="Nav_Bar"></td>
 					</tr>
 				</tbody></table>
 				
@@ -463,7 +491,7 @@ function moveup(){
 					<td width="198" valign="top">
 								<table width="198" border="0" cellspacing="0" cellpadding="0">
 							<tbody><tr>
-							<td width="198" background="http://static.pleaserusa.com/img/PleaserCorporate_Browse_Background.png">
+							<td width="198" background="http://pleaser.sa.metacdn.com/img/PleaserCorporate_Browse_Background.png">
 										<table width="198" border="0" cellspacing="0" cellpadding="0">
 											<form name="frm1" method="get" action="/ProductSearch.asp"></form>
 											<tbody><tr>
@@ -471,19 +499,19 @@ function moveup(){
 											<span width="122" height="23" valign="bottom">
 													<input name="Keyword" type="text" class="searchtext" value="" maxlength="100">
 												</span>
-											<span width="66" height="23" valign="bottom"><input id="go_search" type="image" alt="Click To Search" src="http://static.pleaserusa.com/img/Search_Button.png" width="62" height="19" hspace="0" vspace="0" align="absBottom"></span>
+											<span width="66" height="23" valign="bottom"><input id="go_search" type="image" alt="Click To Search" src="http://pleaser.sa.metacdn.com/img/Search_Button.png" width="62" height="19" hspace="0" vspace="0" align="absBottom"></span>
 										</td>
 											</tr>
 												<tr>
 												
-											<td width="198" height="35"><img src="img/PleaserCorporate_Browse_brand.png" alt="" name="Browse_by_brand" width="198" height="35" border="" 0""="" id="Browse_by_brand"></td>
+											<td width="198" height="35"><img src="/img/PleaserCorporate_Browse_brand.png" alt="" name="Browse_by_brand" width="198" height="35" border="" 0""="" id="Browse_by_brand"></td>
 											
 												</tr>
 											
 										</tbody></table>
 							</td>
 							</tr>
-								<tr><td><div><a href="\regular.asp?div=1_PLEASER" onmouseout="MM_swapImgRestore(); setImageHeight('Nav_Pleaser',53)" onmouseover="MM_swapImage('Nav_Pleaser','','http://static.pleaserusa.com/img/PleaserCorporate_Pleaser_R.png',1); setImageHeight('Nav_Pleaser',74)"><img src="http://static.pleaserusa.com/img/PleaserCorporate_Pleaser.png" alt="" name="Pleaser" width="198" height="53" border="0" id="Nav_Pleaser"></a></div><div><a href="\regular.asp?div=1_PLEASERD" onmouseout="MM_swapImgRestore(); setImageHeight('Nav_PleaserD',53)" onmouseover="MM_swapImage('Nav_PleaserD','','http://static.pleaserusa.com/img/PleaserCorporate_PleaserD_R.png',1); setImageHeight('Nav_PleaserD',74)"><img src="http://static.pleaserusa.com/img/PleaserCorporate_PleaserD.png" alt="" name="PleaserD" width="198" height="53" border="0" id="Nav_PleaserD"></a></div><div><a href="\regular.asp?div=2_DEMONIA" onmouseout="MM_swapImgRestore(); setImageHeight('Nav_Demonia',53)" onmouseover="MM_swapImage('Nav_Demonia','','http://static.pleaserusa.com/img/PleaserCorporate_Demonia_R.png',1); setImageHeight('Nav_Demonia',74)"><img src="http://static.pleaserusa.com/img/PleaserCorporate_Demonia.png" alt="" name="Demonia" width="198" height="53" border="0" id="Nav_Demonia"></a></div><div><a href="\regular.asp?div=5_BORDELLO" onmouseout="MM_swapImgRestore(); setImageHeight('Nav_Bordello',53)" onmouseover="MM_swapImage('Nav_Bordello','','http://static.pleaserusa.com/img/PleaserCorporate_Bordello_R.png',1); setImageHeight('Nav_Bordello',74)"><img src="http://static.pleaserusa.com/img/PleaserCorporate_Bordello.png" alt="" name="Bordello" width="198" height="53" border="0" id="Nav_Bordello"></a></div><div><a href="\regular.asp?div=5_PINUP" onmouseout="MM_swapImgRestore(); setImageHeight('Nav_Pinup',53)" onmouseover="MM_swapImage('Nav_Pinup','','http://static.pleaserusa.com/img/PleaserCorporate_Pinup_R.png',1); setImageHeight('Nav_Pinup',74)"><img src="http://static.pleaserusa.com/img/PleaserCorporate_Pinup.png" alt="" name="Pinup" width="198" height="53" border="0" id="Nav_Pinup"></a></div><div><a href="\regular.asp?div=5_FUNTASMA" onmouseout="MM_swapImgRestore(); setImageHeight('Nav_Funtasma',53)" onmouseover="MM_swapImage('Nav_Funtasma','','http://static.pleaserusa.com/img/PleaserCorporate_Funtasma_R.png',1); setImageHeight('Nav_Funtasma',74)"><img src="http://static.pleaserusa.com/img/PleaserCorporate_Funtasma.png" alt="" name="Funtasma" width="198" height="53" border="0" id="Nav_Funtasma"></a></div><div><a href="\regular.asp?div=3_DEVIOUS" onmouseout="MM_swapImgRestore(); setImageHeight('Nav_Devious',53)" onmouseover="MM_swapImage('Nav_Devious','','http://static.pleaserusa.com/img/PleaserCorporate_Devious_R.png',1); setImageHeight('Nav_Devious',74)"><img src="http://static.pleaserusa.com/img/PleaserCorporate_Devious.png" alt="" name="Devious" width="198" height="53" border="0" id="Nav_Devious"></a></div><div><a href="\regular.asp?div=4_LUCIOUS" onmouseout="MM_swapImgRestore(); setImageHeight('Nav_Lucious',53)" onmouseover="MM_swapImage('Nav_Lucious','','http://static.pleaserusa.com/img/PleaserCorporate_Lucious_R.png',1); setImageHeight('Nav_Lucious',74)"><img src="http://static.pleaserusa.com/img/PleaserCorporate_Lucious.png" alt="" name="Lucious" width="198" height="53" border="0" id="Nav_Lucious"></a></div></td></tr><tr><td><img src="http://static.pleaserusa.com/img/PleaserCorporate_Browse_spacer.png" alt="" name="Browse_spacer" width="198" height="1" id="Browse_spacer"></td></tr><tr><td><a href="regular.asp?div=CAT" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Nav_Browse_Cat','','http://static.pleaserusa.com/img/PleaserCorporate_Browse_by_Cat_R.png',1)"><img src="http://static.pleaserusa.com/img/PleaserCorporate_Browse_by_Cat.png" name="Nav_Browse_Cat" width="198" height="35" border="0" id="Nav_Browse_Cat"></a></td></tr><tr><td><img src="http://static.pleaserusa.com/img/PleaserCorporate_Browse_spacer.png" alt="" name="Browse_spacer" width="198" height="1" id="Browse_spacer"></td></tr><tr><td><a href="regular.asp?div=HOLIDAY" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Nav_Browse_Holiday','','http://static.pleaserusa.com/img/PleaserCorporate_Browse_by_Holiday_R.png',1)"><img src="http://static.pleaserusa.com/img/PleaserCorporate_Browse_by_Holiday.png" name="Nav_Browse_Holiday" width="198" height="35" border="0" id="Nav_Browse_Holiday"></a></td></tr><tr><td><img src="http://static.pleaserusa.com/img/PleaserCorporate_Browse_spacer.png" alt="" name="Browse_spacer" width="198" height="1" id="Browse_spacer"></td></tr><tr><td><a href="regular.asp?div=6%5FACC&amp;WebFormat=12&amp;PW=150&amp;PH=150" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Nav_Browse_Acc','','http://static.pleaserusa.com/img/PleaserCorporate_Browse_Acc_R.png',1)"><img src="http://static.pleaserusa.com/img/PleaserCorporate_Browse_Acc.png" name="Nav_Browse_Acc" width="198" height="35" border="0" id="Nav_Browse_Acc"></a></td></tr><tr><td><img src="http://static.pleaserusa.com/img/PleaserCorporate_Browse_spacer.png" alt="" name="Browse_spacer" width="198" height="1" id="Browse_spacer"></td></tr><tr><td><a href="regular.asp?div=7%5FCLOSEOUT&amp;WebFormat=12&amp;PW=150&amp;PH=150" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Nav_Browse_Sales','','http://static.pleaserusa.com/img/PleaserCorporate_Browse_Sales_R.png',1)"><img src="http://static.pleaserusa.com/img/PleaserCorporate_Browse_Sales.png" name="Nav_Browse_Sales" width="198" height="35" border="0" id="Nav_Browse_Sales"></a></td></tr><tr><td><img src="http://static.pleaserusa.com/img/PleaserCorporate_Browse_spacer.png" alt="" name="Browse_spacer" width="198" height="1" id="Browse_spacer"></td></tr>
+								<tr><td><div><a href="\regular.asp?div=1_PLEASER" onmouseout="MM_swapImgRestore(); setImageHeight('Nav_Pleaser',53)" onmouseover="MM_swapImage('Nav_Pleaser','','http://pleaser.sa.metacdn.com/img/PleaserCorporate_Pleaser_R.png',1); setImageHeight('Nav_Pleaser',74)"><img src="http://pleaser.sa.metacdn.com/img/PleaserCorporate_Pleaser.png" alt="" name="Pleaser" width="198" height="53" border="0" id="Nav_Pleaser"></a></div><div><a href="\regular.asp?div=1_PLEASERD" onmouseout="MM_swapImgRestore(); setImageHeight('Nav_PleaserD',53)" onmouseover="MM_swapImage('Nav_PleaserD','','http://pleaser.sa.metacdn.com/img/PleaserCorporate_PleaserD_R.png',1); setImageHeight('Nav_PleaserD',74)"><img src="http://pleaser.sa.metacdn.com/img/PleaserCorporate_PleaserD.png" alt="" name="PleaserD" width="198" height="53" border="0" id="Nav_PleaserD"></a></div><div><a href="\regular.asp?div=2_DEMONIA" onmouseout="MM_swapImgRestore(); setImageHeight('Nav_Demonia',53)" onmouseover="MM_swapImage('Nav_Demonia','','http://pleaser.sa.metacdn.com/img/PleaserCorporate_Demonia_R.png',1); setImageHeight('Nav_Demonia',74)"><img src="http://pleaser.sa.metacdn.com/img/PleaserCorporate_Demonia.png" alt="" name="Demonia" width="198" height="53" border="0" id="Nav_Demonia"></a></div><div><a href="\regular.asp?div=5_BORDELLO" onmouseout="MM_swapImgRestore(); setImageHeight('Nav_Bordello',53)" onmouseover="MM_swapImage('Nav_Bordello','','http://pleaser.sa.metacdn.com/img/PleaserCorporate_Bordello_R.png',1); setImageHeight('Nav_Bordello',74)"><img src="http://pleaser.sa.metacdn.com/img/PleaserCorporate_Bordello.png" alt="" name="Bordello" width="198" height="53" border="0" id="Nav_Bordello"></a></div><div><a href="\regular.asp?div=5_PINUP" onmouseout="MM_swapImgRestore(); setImageHeight('Nav_Pinup',53)" onmouseover="MM_swapImage('Nav_Pinup','','http://pleaser.sa.metacdn.com/img/PleaserCorporate_Pinup_R.png',1); setImageHeight('Nav_Pinup',74)"><img src="http://pleaser.sa.metacdn.com/img/PleaserCorporate_Pinup.png" alt="" name="Pinup" width="198" height="53" border="0" id="Nav_Pinup"></a></div><div><a href="\regular.asp?div=5_FUNTASMA" onmouseout="MM_swapImgRestore(); setImageHeight('Nav_Funtasma',53)" onmouseover="MM_swapImage('Nav_Funtasma','','http://pleaser.sa.metacdn.com/img/PleaserCorporate_Funtasma_R.png',1); setImageHeight('Nav_Funtasma',74)"><img src="http://pleaser.sa.metacdn.com/img/PleaserCorporate_Funtasma.png" alt="" name="Funtasma" width="198" height="53" border="0" id="Nav_Funtasma"></a></div><div><a href="\regular.asp?div=3_DEVIOUS" onmouseout="MM_swapImgRestore(); setImageHeight('Nav_Devious',53)" onmouseover="MM_swapImage('Nav_Devious','','http://pleaser.sa.metacdn.com/img/PleaserCorporate_Devious_R.png',1); setImageHeight('Nav_Devious',74)"><img src="http://pleaser.sa.metacdn.com/img/PleaserCorporate_Devious.png" alt="" name="Devious" width="198" height="53" border="0" id="Nav_Devious"></a></div></td></tr><tr><td><img src="http://pleaser.sa.metacdn.com/img/PleaserCorporate_Browse_spacer.png" alt="" name="Browse_spacer" width="198" height="1" id="Browse_spacer"></td></tr><tr><td><a href="regular.asp?div=CAT" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Nav_Browse_Cat','','http://pleaser.sa.metacdn.com/img/PleaserCorporate_Browse_by_Cat_R.png',1)"><img src="http://pleaser.sa.metacdn.com/img/PleaserCorporate_Browse_by_Cat.png" name="Nav_Browse_Cat" width="198" height="35" border="0" id="Nav_Browse_Cat"></a></td></tr><tr><td><img src="http://pleaser.sa.metacdn.com/img/PleaserCorporate_Browse_spacer.png" alt="" name="Browse_spacer" width="198" height="1" id="Browse_spacer"></td></tr><tr><td><a href="regular.asp?div=HOLIDAY" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Nav_Browse_Holiday','','http://pleaser.sa.metacdn.com/img/PleaserCorporate_Browse_by_Holiday_R.png',1)"><img src="http://pleaser.sa.metacdn.com/img/PleaserCorporate_Browse_by_Holiday.png" name="Nav_Browse_Holiday" width="198" height="35" border="0" id="Nav_Browse_Holiday"></a></td></tr><tr><td><img src="http://pleaser.sa.metacdn.com/img/PleaserCorporate_Browse_spacer.png" alt="" name="Browse_spacer" width="198" height="1" id="Browse_spacer"></td></tr><tr><td><a href="regular.asp?div=6%5FACC&amp;WebFormat=12&amp;PW=150&amp;PH=150" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Nav_Browse_Acc','','http://pleaser.sa.metacdn.com/img/PleaserCorporate_Browse_Acc_R.png',1)"><img src="http://pleaser.sa.metacdn.com/img/PleaserCorporate_Browse_Acc.png" name="Nav_Browse_Acc" width="198" height="35" border="0" id="Nav_Browse_Acc"></a></td></tr><tr><td><img src="http://pleaser.sa.metacdn.com/img/PleaserCorporate_Browse_spacer.png" alt="" name="Browse_spacer" width="198" height="1" id="Browse_spacer"></td></tr><tr><td><a href="regular.asp?div=7%5FCLOSEOUT&amp;WebFormat=12&amp;PW=150&amp;PH=150" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Nav_Browse_Sales','','http://pleaser.sa.metacdn.com/img/PleaserCorporate_Browse_Sales_R.png',1)"><img src="http://pleaser.sa.metacdn.com/img/PleaserCorporate_Browse_Sales.png" name="Nav_Browse_Sales" width="198" height="35" border="0" id="Nav_Browse_Sales"></a></td></tr><tr><td><img src="http://pleaser.sa.metacdn.com/img/PleaserCorporate_Browse_spacer.png" alt="" name="Browse_spacer" width="198" height="1" id="Browse_spacer"></td></tr>
 						</tbody></table>
 					</td>
 					
@@ -555,8 +583,8 @@ function moveup(){
 						<td width="978" height="21" bgcolor="#000000">
 							<table border="0" cellspacing="0" cellpadding="0">
 								<tbody><tr>
-									<td width="698" height="21" bgcolor="#000000"><div class="nav_bottom_div"><a href="contact.asp" class="nav_bottom">Contact Us</a><span class="banner">|</span><a href="reqcatalog.asp" class="nav_bottom">Request a Catalog</a><span class="banner">|</span><a href="brandprofile.asp" class="nav_bottom">Brand Profiles</a><span class="banner">|</span><a href="customerserv.asp" class="nav_bottom">Customer Service</a><span class="banner">|</span><a href="ecatalog.asp" class="nav_bottom">E - Catalogs</a><span class="banner">|</span><a href="events.asp" class="nav_bottom">Tradeshows &amp; Events</a><span class="banner">|</span><a href="career.asp" class="nav_bottom">Careers</a></div></td>
-									<td width="280" height="21" align="center" valign="bottom" bgcolor="#000000"><div class="nav_div_2"><a href="sitemap.asp" class="nav">Site Map</a><span class="banner">|</span><a href="downloads.asp" class="nav">Downloads</a><span class="banner">|</span><a href="terms.asp" class="nav">Terms of Use</a><span class="banner">|</span><a href="policy.asp" class="nav">Privacy Policy</a></div></td>
+									<td width="678" height="21" bgcolor="#000000"><div class="nav_bottom_div"><a href="/contact.asp" class="nav_bottom">Contact Us</a><span class="banner">|</span><a href="/reqcatalog.asp" class="nav_bottom">Request a Catalog</a><span class="banner">|</span><a href="/brandprofile.asp" class="nav_bottom">Brand Profiles</a><span class="banner">|</span><a href="/customerserv.asp" class="nav_bottom">Customer Service</a><span class="banner">|</span><a href="/ecatalog.asp" class="nav_bottom">E - Catalogs</a><span class="banner">|</span><a href="/events.asp" class="nav_bottom">Tradeshows &amp; Events</a><span class="banner">|</span><a href="/career.asp" class="nav_bottom">Careers</a></div></td>
+									<td width="300" height="21" align="center" valign="bottom" bgcolor="#000000"><div class="nav_div_2"><a href="https://www.pleaserusa.com/sitemap.asp" class="nav">Site Map</a><span class="banner">|</span><a href="/downloads.asp" class="nav">Downloads</a><span class="banner">|</span><a href="/mappolicy.asp" class="nav">MAP Policy</a><span class="banner">|</span><a href="/terms.asp" class="nav">Terms of Use</a><span class="banner">|</span><a href="/policy.asp" class="nav">Privacy Policy</a></div></td>
 								</tr>
 							</tbody></table>
 						</td>
@@ -565,20 +593,20 @@ function moveup(){
   			
 				<table width="978" border="0" cellspacing="0" cellpadding="0">
 					<tbody><tr>
-						<td width="978" height="1"><img src="http://static.pleaserusa.com/img/PleaserCorporate_Nav_bottom_spacer.png" width="978" height="1"></td>
+						<td width="978" height="1"><img src="http://pleaser.sa.metacdn.com/img/PleaserCorporate_Nav_bottom_spacer.png" width="978" height="1"></td>
 					</tr>
 				</tbody></table>
 				<table width="978" border="0" cellspacing="0" cellpadding="0">
 					<tbody><tr>
 						<td width="978" height="60" align="left" valign="top" bgcolor="#000000">
 							<div style="position: absolute; padding-top:0px;">
-								<div style="position:absolute;" class="nav_div">©  2012 Pleaser USA, Inc.<br>All Rights Reserved.</div>
-								<div style="position:absolute; margin-top: 4px; margin-left: 710px;"><a href="/news.asp"><img id="media_centeri" src="http://static.pleaserusa.com/img/media_centeri.png" border="0" onmouseover="javascript: setdpt2(this, 1)" onmouseout="javascript: setdpt2(this, 0)"></a></div>
-								<div style="position:absolute; margin-top: 4px; margin-left: 800px;"><img id="follow_usi" src="http://static.pleaserusa.com/img/follow_usi.png" border="0"></div>
-								<div style="position:absolute; margin-top: 6px; margin-left: 852px;"><a href="http://www.facebook.com/pages/Pleaser-USA-Inc/300206558074" target="_blank"><img id="facebooki" src="http://static.pleaserusa.com/img/facebooki.png" border="0" onmouseover="javascript: setdpt2(this, 1)" onmouseout="javascript: setdpt2(this, 0)"></a></div>
-								<div style="position:absolute; margin-top: 6px; margin-left: 894px;"><a href="http://twitter.com/pleaser_shoes" target="_blank"><img id="twitteri" src="http://static.pleaserusa.com/img/twitteri.png" onmouseover="javascript: setdpt2(this, 1)" border="0" onmouseout="javascript: setdpt2(this, 0)"></a></div>
-								<div style="position:absolute; margin-top: 6px; margin-left: 936px;"><a href="http://www.myspace.com/bordello_shoes_by_pleaser" target="_blank"><img id="myspacei" src="http://static.pleaserusa.com/img/myspacei.png" border="0" onmouseover="javascript: setdpt2(this, 1)" onmouseout="javascript: setdpt2(this, 0)"></a></div>
-								<!--<div style="position:absolute; margin-top: 6px; margin-left: 900px;"><a href="http://www.pleaserusa.com/index.asp?page=link"><img id="linki" src="http://static.pleaserusa.com/img/linki.png" border="0" onmouseover="javascript: setdpt2(this, 1)" onmouseout="javascript: setdpt2(this, 0)"/></a></div>-->
+								<div style="position:absolute;" class="nav_div">© 2013 Pleaser USA, Inc.<br>All Rights Reserved.</div>
+								<div style="position:absolute; margin-top: 4px; margin-left: 710px;"><a href="/news.asp"><img id="media_centeri" src="http://pleaser.sa.metacdn.com/img/media_centeri.png" border="0" onmouseover="javascript: setdpt2(this, 1)" onmouseout="javascript: setdpt2(this, 0)"></a></div>
+								<div style="position:absolute; margin-top: 4px; margin-left: 800px;"><img id="follow_usi" src="http://pleaser.sa.metacdn.com/img/follow_usi.png" border="0"></div>
+								<div style="position:absolute; margin-top: 6px; margin-left: 852px;"><a href="http://www.facebook.com/pleasershoes" target="_blank"><img id="facebooki" src="http://pleaser.sa.metacdn.com/img/facebooki.png" border="0" onmouseover="javascript: setdpt2(this, 1)" onmouseout="javascript: setdpt2(this, 0)"></a></div>
+								<div style="position:absolute; margin-top: 6px; margin-left: 894px;"><a href="http://twitter.com/pleaser_shoes" target="_blank"><img id="twitteri" src="http://pleaser.sa.metacdn.com/img/twitteri.png" onmouseover="javascript: setdpt2(this, 1)" border="0" onmouseout="javascript: setdpt2(this, 0)"></a></div>
+								<div style="position:absolute; margin-top: 6px; margin-left: 936px;"><a href="http://www.myspace.com/bordello_shoes_by_pleaser" target="_blank"><img id="myspacei" src="http://pleaser.sa.metacdn.com/img/myspacei.png" border="0" onmouseover="javascript: setdpt2(this, 1)" onmouseout="javascript: setdpt2(this, 0)"></a></div>
+								<!--<div style="position:absolute; margin-top: 6px; margin-left: 900px;"><a href="http://www.pleaserusa.com/index.asp?page=link"><img id="linki" src="http://pleaser.sa.metacdn.com/img/linki.png" border="0" onmouseover="javascript: setdpt2(this, 1)" onmouseout="javascript: setdpt2(this, 0)"/></a></div>-->
 							</div>
 						</td>
 					</tr>
