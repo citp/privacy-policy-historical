@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the carinsurance.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004175802id_/http%3A//www.carinsurance.com/PrivacySecurity.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carinsurance.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527014755id_/http%3A//www.carinsurance.com/PrivacySecurity.aspx) for the most accurate reproduction.*
 
 # CarInsurance.com Privacy Policy
 
-Updated as of April 20, 2011
+Updated as of February 1, 2013
 
 **Company Practices Regarding Your Privacy**
 
@@ -33,14 +33,14 @@ Where you provide your personal information to us to receive an auto insurance q
 
 The non-personally identifiable information that QuinStreet collects is used for marketing and sales efforts to better target advertisements and other content in an effort to create a more personally relevant experience. The information is also used to predict responses to advertisements, and to help determine which ads perform best and which content is most appropriate for different individuals. If you take advantage of our insurance-quoting services, we may also provide non-personally identifiable information about your use of our websites to quoting aggregators, participating insurance carriers and our business partners.
 
-If you elect to provide QuinStreet with personally identifiable information, we may utilize such information for marketing purposes, and this use may result in follow-up communications from QuinStreet and from our clients. By submitting such information to us, you understand and agree that such submission constitutes making an “inquiry” to us and our affiliated entities, who may contact you via telephone for a limited period even if the telephone number you submitted appears on any state and/of federal Do Not Call list because your inquiry serves as an exception to state and/or federal Do Not Call laws. In addition, that information may be combined with information collected from other sources to assist with targeting ads to your preferences and behaviors, and for other QuinStreet sales and marketing efforts.
+If you elect to provide QuinStreet with personally identifiable information, we may utilize such information for marketing purposes, and this use may result in follow-up communications from QuinStreet and from our clients. By submitting such information to us, you understand and agree that such submission constitutes making an “inquiry” to us and our affiliated entities, who may contact you via telephone for a limited period even if the telephone number you submitted appears on any state and/of federal Do Not Call list because your inquiry serves as an exception to state and/or federal Do Not Call laws. In addition, that information may be combined with information collected from other sources to assist with targeting ads to your preferences and behaviors, both on our own websites and on certain third party websites, including Facebook, and for other QuinStreet sales and marketing efforts.
 
 If you provide your personal information to us to receive an auto insurance quote, we may utilize such information for the following purposes:
 
-  * Online Interview. In order to take advantage of the services on our Sites you must provide certain Personal Information to us during the online client interview process (“Interview”). Personal Information is used to facilitate your requests for insurance 
-  * Offline Interview. If you take advantage of our services through our call center with one of our licensed insurance agents, your Personal Information will be collected during such offline interview (“Interview”) and incorporated into our electronic system so we can fulfill the products/services selected by you. 
-  * Post-Interview Information. Additional Personal Information, such as method of payment and social security numbers will be collected from you during the post Interview process in order to fulfill any orders for services or products made by you. 
-  * Transaction Information. Your Personal Information may be collected and used by us to track transactions conducted on our Sites including which products/services you selected and information we require for payment. 
+  * Online Interview. In order to take advantage of the services on our Sites you must provide certain Personal Information to us during the online client interview process (“Interview”). Personal Information is used to facilitate your requests for insurance
+  * Offline Interview. If you take advantage of our services through our call center with one of our licensed insurance agents, your Personal Information will be collected during such offline interview (“Interview”) and incorporated into our electronic system so we can fulfill the products/services selected by you.
+  * Post-Interview Information. Additional Personal Information, such as method of payment and social security numbers will be collected from you during the post Interview process in order to fulfill any orders for services or products made by you.
+  * Transaction Information. Your Personal Information may be collected and used by us to track transactions conducted on our Sites including which products/services you selected and information we require for payment.
   * Sweepstakes and Surveys. You will be asked to disclose Personal Information if you elect to participate in any sweepstakes or surveys we offer on the Sites from time to time.
 
 
@@ -61,7 +61,7 @@ If you provide your personal information to us to receive an auto insurance quot
 
   * Clients. Insurance carriers, independent insurance agencies appointed by insurance carriers, and independent insurance agents will use your personal information in combination with other information you provide about your insurance needs contact you and/or create an insurance premium estimate. Third party marketing organizations may also use your personal information in connection with distributing such information to their clients who are insurance carriers, independent insurance agencies and independent insurance agents. Ratings criteria vary between participating providers, with each carrier placing emphasis on particular items of information you provide. Please Note: Third party insurance carriers have their own privacy policies and we are not responsible for these policies nor the products and/or services offered by third party providers so please make sure to review the privacy policy of any third party carrier from whom you may purchase a policy.
   * Financial, Credit and Government Agencies. In order to provide you with our services, and only where permitted by law, we share your personal information with: (1) financial service providers who provide comparative rates; (2) certified credit bureaus to verify information about your credit report; (3) Department of Motor Vehicles to verify your driving record, previous claims history, vehicles and VIN and other relevant information. Your personal information is maintained by credit agencies and disclosed by them to others as permitted by law.
-  * Service Providers. Sometimes third party service providers are retained or utilized by us and may have access to our visitors' personal information. This information is required in order to generate accurate and bindable insurance rates. Please be aware, while we take steps to protect third party use of Personal Information through confidentiality agreements and restrictions on access to and use of such information, there is no means for us to police the activities of third parties' use of Personal Information disclosed to them. 
+  * Service Providers. Sometimes third party service providers are retained or utilized by us and may have access to our visitors' personal information. This information is required in order to generate accurate and bindable insurance rates. Please be aware, while we take steps to protect third party use of Personal Information through confidentiality agreements and restrictions on access to and use of such information, there is no means for us to police the activities of third parties' use of Personal Information disclosed to them.
   * QuinStreet Insurance Agency, Inc. (fka Car Insurance.com, Inc.). Licensed insurance agents of our wholly owned subsidiary, QuinStreet Insurance Agency, Inc. (fka Car Insurance.com, Inc.)., may contact you to assist you in obtaining insurance information from our clients.
 
 
@@ -89,16 +89,16 @@ If you provide your personal information to us in an Interview process to receiv
 Also, if you provide your personal information to us in an Interview process to receive an auto insurance quote:
 
   * How to Correct or Change Your Quote Information. You can access the quote information you provided and update it at any point during the Interview by navigating to previous pages and making the necessary changes. Upon completing the Interview, you may review and/or modify your personal information and/or email address by selecting the “modify” button on the rates page and get a revised quote reflecting the changes you have made. When you save your quote information, you can return to the Sites and change your information at anytime as long as you have not yet purchased a policy. Simply log onto the Sites, select the applicable insurance for which you requested a quote, and select Retrieve My Quote. To change your information type the new data and click the Continue button.
-  * Editing Your Personal Information. If your personal information or email address changes or you want to edit or update your information you can do so by emailing our Customer Support, or by contacting us by telephone or postal mail at the contact information listed below. 
+  * Editing Your Personal Information. If your personal information or email address changes or you want to edit or update your information you can do so by emailing our Customer Support, or by contacting us by telephone or postal mail at the contact information listed below.
 
 
 
-Customer Support E-mail: customerservice@carinsurance.com
+Customer Support E-mail: contact@carinsurance.com
 
 Customer Support Address: QuinStreet, Inc., 950 Tower Lane, 6th Floor, Foster City, CA 94404.
 
   * Implementing Change Request. We will use reasonable efforts to make the changes you requested but it is not always possible to modify database information. In addition, if your personal information and email address has been provided to third parties, we will not be able to make changes to it. Further, such information is never completely removed from our database due to technical constraints and the fact that we back up our systems. Therefore, you should not expect that all of your personal information would be removed from our database in response to your request.
-  * Live Chat. We provide a live chat feature on our Sites. When used during business hours, this feature does not collect any personally identifiable information. When used after business hours to send us a message, this feature collects your name and email address. We use this information to communicate with you regarding your inquiry. 
+  * Live Chat. We provide a live chat feature on our Sites. When used during business hours, this feature does not collect any personally identifiable information. When used after business hours to send us a message, this feature collects your name and email address. We use this information to communicate with you regarding your inquiry.
 
 
 
