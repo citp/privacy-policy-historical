@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the irishrail.ie privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221165454id_/http%3A//www.irishrail.ie/index.jsp%3Fp%3D121%26n%3D137) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irishrail.ie privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526211156id_/http%3A//www.irishrail.ie/index.jsp%3Fp%3D121%26n%3D137) for the most accurate reproduction.*
 
 # Privacy Statement - Iarnród Éireann - Irish Rail
 
