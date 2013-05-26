@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the renweb.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017074556id_/http%3A//www.renweb.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the renweb.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526054130id_/http%3A//www.renweb.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -97,9 +97,11 @@ Our Web site offers publicly accessible blogs or community forums.  You should 
 
 **LINKS TO OTHER SITES**
 
-Renweb.com maintains a co-branding relationship with Tadley, who runs the RenWebPayments.com section of the site. Some pages of the Renweb.com site will have the look and feel of Renweb.com while the personal information collected on these pages is solely controlled by Tadley's privacy polices. If you have any questions about the data collected on these pages please consult with the appropriate third party vendor managing the data on these pages.
+Renweb.com maintains a co-branding relationship with Tadley, who runs the RenWebPayments.com section of the site. Some pages of the Renweb.com site will have the look and feel of Renweb.com while the personal information collected on these pages is solely controlled by Tadley's privacy policy (<http://www.tadley.com/201002privacy.html>). If you have any questions about the data collected on these pages please consult Tadley directly. Information collected on these pages is limited to financial data collected for the purpose of processing transactions between the client school and its end-user parents. No personal information regarding students is collected or processed on these pages.
 
-In the event that our website contains links to other websites, WilComp is not responsible for the privacy practices or the content of such websites. We recommend you carefully read the privacy policies of each site you visit.
+**SOCIAL MEDIA (FEATURES) AND WIDGETS**
+
+Our Web site includes Social Media Features, such as the Facebook Like button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
 
 **NOTIFICATION OF CHANGES TO THIS PRIVACY POLICY**
 
@@ -111,4 +113,4 @@ WilComp Software, L.P.
 101 E. Renfro St. Suite A  
 Burleson, TX USA 76028
 
-This version of the Privacy Policy was last updated on **17-Feb-2012** and replaces all previous versions of our policy.
+This version of the Privacy Policy was last updated on **19-Dec-2012** and replaces all previous versions of our policy.
