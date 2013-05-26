@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the efinancialnews.com privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115161744id_/http%3A//www.efinancialnews.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the efinancialnews.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526060739id_/http%3A//www.efinancialnews.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - About Us - Financial News
 
@@ -120,7 +120,7 @@ If you have any comments or questions about this Privacy and Cookies Policy, ple
 
 eFinancial News Limited  
 Dow Jones International, Ltd.  
-Commodity Quay  
-East Smithfield  
+222 Gray's Inn Road  
 London  
-E1W 1AZ
+WC1X 8HB  
+
