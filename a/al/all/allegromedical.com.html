@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the allegromedical.com privacy policy that was archived on 2012-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121226205719id_/http%3A//www.allegromedical.com/support/privacyPolicy.do) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the allegromedical.com privacy policy that was archived on 2013-05-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130526164859id_/http%3A//www.allegromedical.com/support/privacyPolicy.do) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
 	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
@@ -24,6 +24,7 @@
 
 
 	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+	
 	var expando = "jQuery" + now();
 	function now()
 	{
@@ -58,8 +59,95 @@
 
 
 	<script type="text/javascript" src="http://static.allegromedical.com/include/js/jquery.plugins.min.js"></script>
+	<script type="text/javascript" src="http://static.allegromedical.com/include/js/ecat-subscribe.js"></script>
 
 	<script type="text/javascript">
+
+		jQuery(function () {
+			try {
+			if ( 'https:' != document.location.protocol ) {
+			    stickyFooter();
+			
+			    jQuery(window)
+			        .scroll(stickyFooter)
+			        .resize(stickyFooter);
+			    jQuery('#stickyFooterSubscriptionForm').submit( function () {
+				    if ( email_check(jQuery('#stickyFooter #ecatEmail').attr('value')) ) {
+				    	jQuery(".footerSticky-close").trigger('click');
+			    		return true;
+			    	}
+			    	else {
+				    	jQuery('#stickyFooter #ecatEmail').css('color','red');
+				    	jQuery('#stickyFooter #ecatEmail').attr('value','Please enter a valid email address');
+				    	return false;
+			    	}
+			    });
+		    }
+		    }
+		    catch(e) {
+		    }
+		});
+
+		jQuery(document).ready(function () 
+		{
+			try 
+			{
+				if ( 'https:' != document.location.protocol ) 
+				{
+				    stickyFooter()
+			    }
+		    }
+		    catch(e) 
+		    {
+		
+		    }
+		});
+
+		function ajaxSubscribe(theform)
+		{
+			var thisAction = jQuery(theform).find('input[name=action]').val();
+			var thisEmail = jQuery('#ecatAlt').val();
+			var thisReferringPage = jQuery(theform).find('input[name=referringPage]').val();
+
+			if (thisAction == "Yes")
+			{
+				jQuery('.errorEcat').html('Submitting.');
+	
+				if (!email_check(thisEmail) || thisEmail == "")
+				{
+					jQuery('.errorEcat').html('Please enter a valid email address.');
+					return false;
+				}
+			}
+					
+			jQuery.ajax( {
+				url: "/support/subscriptionHome.ajax",
+				cache: false,
+				type: "POST",
+				data: ({ action: thisAction, email: thisEmail, referringPage: thisReferringPage }),
+				global: false,
+				success: function(data) 
+				{
+					jQuery(".ecatcontent").hide();
+					if (data == "Yes")
+					{
+						_gaq.push(['_trackPageview','/ajax/eCatModalPopup/subscribe']);
+						var split = jQuery('#banner-across-top-promo-code').html().split(": ")
+						jQuery(".ecatPromoText").show();
+						jQuery(".ecatPromoText2").html("<span style='color:#FF7F00'>Use gift code </span><span style='color:#000'>" + split[1] + " </span><span  style='color:#FF7F00'>when you checkout.</span>");
+						jQuery(".ecatPromoText2").show();
+						jQuery(".ecatModalBk").css('background-image','url(http://static.allegromedical.com/images/browse/modal-subscribed.png)');
+						jQuery(".modalecatclose").attr('onClick',"jQuery('#noecat').click(); ");
+					}
+					if (data == "No") 
+					{
+						jQuery("#greyBoxClose").click();
+					}
+		            jQuery.cookie("stickyFooter_subscribe", "true", { expires: 182, path: '/' });
+				}
+			});
+		}
+
 
 
 		
@@ -69,6 +157,7 @@
 
 		jQuery(document).ready(function() 
 		{
+		
 			if( jQuery("#sidebar").height() > jQuery("#content").height())
 			{
 				jQuery("#content").css("border-left", "none");
@@ -143,13 +232,71 @@
 			jQuery(".gn_level1").hoverIntent(propSubMenu);
 	
 	
+			/* Retrieve sub-sub menu items */
+			jQuery.ajax({
+				type: "POST",
+				url: "/subSubMenuAjax.ajax",
+				data:({subMenuNumber: '0'}),
+				success: function(data, textStatus) 
+				{
+					jQuery("#subSubMenu-container").append(data);
+
+					//Hoverintent for sub-subMenu
+					var flt = {};
+					var propSubSubMenu = {	sensitivity: 3, interval: 300, over: expandSubSubMenu, timeout: 500, out: collapseSubSubMenu };
+					function expandSubSubMenu() 
+					{
+						nwId = jQuery(this).attr("id").replace("_hi","");
+						jQuery(this).attr("id",nwId);
+												
+						//Custom code to control the show
+						Flyouts = target.NAV.Flyouts;
+				
+					    if (!flt[nwId]) 
+					    {
+					           flt[nwId] = Flyouts.create(this, "Main", false, false);
+					    }
+					    if (flt[nwId]) 
+					    {
+							flt[nwId].show();
+							flyOutImager(nwId);
+					    }
+					}
+								
+					function collapseSubSubMenu() 
+					{
+						nwId = jQuery(this).attr("id");
+						jQuery(this).attr("id",nwId + "_hi");
+					}
+	
+					//append Id's with _hi so that the usual trigger does not happen
+					allTops = jQuery("#gnl_main ul li");
+					allTops.each(function(i) 
+					{
+						theId = jQuery(allTops[i]).attr("id");
+						jQuery(allTops[i]).attr("id", theId+"_hi");
+					});
+					
+					//install hoverIntent
+					jQuery("#gnl_main ul li").hoverIntent(propSubSubMenu);
+					
+					
+				},
+				error: function(a, textStatus, errorThrown) 
+				{
+					//alert('Error loading sub-sub menu');
+				},
+				cache: false
+			});
+			
+	
 			subMenuAnalytics();
 		});
 
 
 		function checkSearchBox()
 		{
-			var defText = "Search 36,365 products";
+			var defText = "Search 35,253 products";
 			var str = jQuery.trim(jQuery("#searchfield").val());
 			if (str != "" && str != defText)
 			{
@@ -182,34 +329,131 @@
 	  _gaq.push(['_setAccount', 'UA-82101-1']);
 	  _gaq.push(['_trackPageview']);
 	</script>
+	
 </head>
 
+
+
 <body>
+
+<input type="hidden" name="ecatAlt" value="" id="ecatAlt">
+
+<div style="display: none" id="eCatHomePagePopupSelector">
+	<div style="width:695px; ">
+	<table style="border-collapse: collapse; position:absolute;width:100%;height:400px">
+		<tbody>
+		<tr style="width:100%">
+			<td class="ajaxMainData" style="background-color: transparent">
+		<div class="ecatModalBk" style="width:695px;height: 355px; background: transparent url('http://static.allegromedical.com/images/browse/modal-offer.png') no-repeat;">
+		<br>
+		
+		<div style="width:695px;height:25px;">
+			<div class="modalecatclose" style="cursor:pointer; cursor:hand; float:right;width:30px; height: 20px;" onclick="jQuery('#greyBoxClose').click();">
+				<form action="#" method="POST" onsubmit="ajaxSubscribe(this); return false;">
+					<input id="noecat" style="visibility:hidden" type="submit" name="Nope" value="No Thanks">
+					<input type="hidden" name="action" value="No">
+				</form>
+			</div>			
+		</div>
+		<div class="ecatPromoText" style="display:none; color: #053B87;    font-family: arial;    font-size: 36px;   font-weight: bold;  height: 31px;    margin-left: 370px;    margin-top: 14px;    width: 310px;"></div>
+		<div class="ecatPromoText2" style="display:none; color: #053B87;    font-family: arial;    font-size: 26px;    font-weight: bold; height: 31px;    margin-left: 370px;    margin-top: 130px;    width: 310px;"></div>
+		<div class="ecatcontent" style="font-family: arial">
+			<div id="ecatalog" class="sidebaritem">
+				<div style="width:300px; float:left; height: 355px; ">
+					<div class="ecatPromoText" style="color: #053B87;    font-size: 30px;  height: 31px;    margin-left: 40px;    margin-top: 84px;    width: 250px;"></div>
+					<div style="   color: #444444 ;font-size: 24px;    height: 31px;    margin-left: 40px;    margin-top: 95px; width: 225px;">Enter your email address to get the gift code.</div>
+				</div>
+				<div style="width:300px; float:left; height: 355px; ">
+					<form action="#" method="POST" onsubmit="ajaxSubscribe(this); return false;">
+						<input type="hidden" name="action" value="Yes">
+						<input name="email" style="-moz-border-radius: 6px; border-radius: 6px;color: #777777; border:1px solid #777; width: 250px;  font-size: 13px;    height: 19px;    margin-left: 81px;    margin-top: 151px;    padding: 8px;" type="text" value="ENTER EMAIL ADDRESS" id="ecatEmail" onkeyup="jQuery('#ecatAlt').val(this.value);" onfocus="if(this.value=='ENTER EMAIL ADDRESS'){ this.value=''}" onblur="if(this.value=='') {this.value='ENTER EMAIL ADDRESS';}">
+						<input name="referringPage" type="hidden" id="referringPage" value="Modal_Popup at %2Fsupport%2FprivacyPolicy.do%3F">
+						<input id="ecatyes" style="display:none" class="ecatSignup" type="image" alt="Submit" src="http://static.allegromedical.com/images/button/signup.png">
+						<script type="text/javascript" src="http://static.allegromedical.com/include/js/ecat-subscribe.js"></script>
+					</form>
+					<div class="errorEcat" style="color:#fff; height: 21px; margin-left: 85px; margin-top: 2px; width: 207px;"></div>
+					<div style="cursor:pointer; cursor:hand; height: 31px; margin-left: 81px; margin-top: 0px; width: 207px;" onclick="jQuery('#ecatyes').click();"></div>
+				</div>
+			</div>
+		</div>
+		</div>
+
+			</td>
+		</tr>
+	</tbody></table>
+	</div>
+</div>
+
+
+
 <div id="page">
 		<a name="top"></a>
 
 		<div id="body">
-			<!-- Google Analytics Content Experiment code -->
-			<script>function utmx_section(){}function utmx(){}(function(){var
-			k='44248-1',d=document,l=d.location,c=d.cookie;
-			if(l.search.indexOf('utm_expid='+k)>0)return;
-			function f(n){if(c){var i=c.indexOf(n+'=');if(i>-1){var j=c.
-			indexOf(';',i);return escape(c.substring(i+n.length+1,j<0?c.
-			length:j))}}}var x=f('__utmx'),xx=f('__utmxx'),h=l.hash;d.write(
-			'<sc'+'ript src="'+'http'+(l.protocol=='https:'?'s://ssl':
-			'://www')+'.google-analytics.com/ga_exp.js?'+'utmxkey='+k+
-			'&utmx='+(x?x:'')+'&utmxx='+(xx?xx:'')+'&utmxtime='+new Date().
-			valueOf()+(h?'&utmxhash='+escape(h.substr(1)):'')+
-			'" type="text/javascript" charset="utf-8"><\/sc'+'ript>')})();
-			</script><script src="https://ssl.google-analytics.com/ga_exp.js?utmxkey=44248-1&amp;utmx=&amp;utmxx=&amp;utmxtime=1582530769078" type="text/javascript" charset="utf-8"></script><script>utmx('url','A/B');</script>
-			<!-- End of Google Analytics Content Experiment code -->
+		
+				<!-- Google Analytics Content Experiment code -->
+				<script>function utmx_section(){}function utmx(){}(function(){var
+				k='44248-8',d=document,l=d.location,c=d.cookie;
+				if(l.search.indexOf('utm_expid='+k)>0)return;
+				function f(n){if(c){var i=c.indexOf(n+'=');if(i>-1){var j=c.
+				indexOf(';',i);return escape(c.substring(i+n.length+1,j<0?c.
+				length:j))}}}var x=f('__utmx'),xx=f('__utmxx'),h=l.hash;d.write(
+				'<sc'+'ript src="'+'http'+(l.protocol=='https:'?'s://ssl':
+				'://www')+'.google-analytics.com/ga_exp.js?'+'utmxkey='+k+
+				'&utmx='+(x?x:'')+'&utmxx='+(xx?xx:'')+'&utmxtime='+new Date().
+				valueOf()+(h?'&utmxhash='+escape(h.substr(1)):'')+
+				'" type="text/javascript" charset="utf-8"><\/sc'+'ript>')})();
+				</script><script src="https://ssl.google-analytics.com/ga_exp.js?utmxkey=44248-8&amp;utmx=&amp;utmxx=&amp;utmxtime=1582530769730" type="text/javascript" charset="utf-8"></script><script>utmx('url','A/B');</script>
+				<!-- End of Google Analytics Content Experiment code -->
 			<div id="navigation">
-					<img id="logo" style="top: 2em;" src="http://static.allegromedical.com/images/logo_standard.png" alt="Medical Supplies" usemap="#allegro_logo_map">
+					<img id="logo" style="top: 2em;" src="http://static.allegromedical.com/images/logo_standard.jpg" alt="Medical Supplies" usemap="#allegro_logo_map">
 					<map id="allegro_logo_map" name="allegro_logo_map">
 					<area coords="0,0,273,48" href="/" alt="Medical Supplies">
 					</map>
+				
+<div id="countdowncontainer">	<script type="text/javascript" src="/include/js/jquery.countdown.min.js"></script>
+	
+	
+	<script type="text/javascript">
+	jQuery(document).ready( function() {
+		function closePromoTimer() {
+			jQuery('.banner-countdown-timer').parent().hide();
+		}
+		function getServerTime() {
+			var time = null;
+		    /*jQuery.ajax({url: 'http://vrana-tandoori/internal/getServerTime.ajax', 
+		        async: false, dataType: 'text',
+		        success: function(text) {
+		            time = new Date(new Number(text));
+		        }, error: function(http, message, exc) {
+		            time = new Date();
+		    }});*/
+		    time = new Date(1369586938929);
+		    return time; 
+		}
+	
+		jQuery(".banner-countdown-timer .timer").countdown({ 
+			until: new Date(1369638000000),
+			compact: true,
+			format:'DHMS',
+			onExpiry: closePromoTimer,
+			serverSync: getServerTime,
+			layout:'<div>{dnn}</div><div>{hnn}</div><div>{mnn}</div><div>{snn}</div>'
+		});
+	});
+	</script>
+</div>
+<div id="banner-across-top">
+        <div id="banner-across-top-promo-info">
+                <div id="banner-across-top-promo-code">Use Gift Code: may5013</div>
+        	<div class="promo-text hand-cursor" id="banner-across-top-details">*See Details »</div>
+		<div id="banner-across-top-offer-end" style="display:none">Offer Ends 2013-05-27</div>
+	</div>
+        <div id="banner-across-top-promo-text">50% OFF LIST - NO MINIMUM PURCHASE</div>
+	<div class="banner-ends-in">Hurry,<br>Ends in:</div>
+	<div class="banner-countdown-timer"><div class="timer"></div></div>
+</div>
 
-					
 	<div>
 		<div id="promo-text" style="display: none">
 
@@ -226,7 +470,7 @@
 			<td class="ajaxMainData">
 <br>
 			<div id="promo-text" class="promo-text" style="height:323px;overflow:auto;">
-<div><p>Save 50% - Off List Price. Use gift certificate code <span class="bold">50dec12</span> at checkout. Offer Ends Midnight Friday.</p>
+<div id="gpdiv"><p>50% Off List - No Minimum Purchase. Use gift certificate code <span class="bold">may5013</span> at checkout. Offer Ends Midnight Tonight.</p>
 
 <p>Most products on Allegro Medical qualify for our offers. Due to restrictions the following products have been excluded from all Allegro Medical promotions and offers online:</p>
 
@@ -235,7 +479,7 @@
 </li><li>Products by Roho
 </li><li>Products by Superfeet
 </li><li>Products by Sunrise Medical
-</li><li>Dietary Supplements (including Pediasure, Boost, Ensure, Nutren, Resource, etc)
+</li><li>Some Dietary Supplements (including Pediasure, Ensure, etc)
 </li><li>Diabetes Supplies (including Freestyle, OneTouch, AgaMatrix, Ascenia, Accu-Chek, Invacare, etc)
 </li><li>Drive Power Scooters (including Sunfire, Image GT, Cirrus, Odyssey, GEO, Daytona, Phoenix, &amp; Falcon)
 </li><li>Invacare Power Wheelchairs, Invacare Rehab cushions and backs, Invacare Top End wheelchairs, Invacare Respiratory Equipment, &amp; Invacare Lifts and Swings. 
@@ -262,45 +506,13 @@ jQuery(document).ready( function()
 {
 	jQuery(".promo-text").click( function() 
 	{ 
-		loadLocalDivInPopup('#promo-text', 'body', 520, 330, function() {});
+		loadLocalDivInPopup('#promo-text', 'body', 520, 330, function() {}, function() {});
 	});
 });
 </script>
 	</div>
 
-<div class="generalDetailsToolTip" style="display:none;"><p>Save 50% - Off List Price. Use gift certificate code <span class="bold">50dec12</span> at checkout. Offer Ends Midnight Friday.</p>
-
-<p>Most products on Allegro Medical qualify for our offers. Due to restrictions the following products have been excluded from all Allegro Medical promotions and offers online:</p>
-
-<ul>
-<li>Products by Pride
-</li><li>Products by Roho
-</li><li>Products by Superfeet
-</li><li>Products by Sunrise Medical
-</li><li>Dietary Supplements (including Pediasure, Boost, Ensure, Nutren, Resource, etc)
-</li><li>Diabetes Supplies (including Freestyle, OneTouch, AgaMatrix, Ascenia, Accu-Chek, Invacare, etc)
-</li><li>Drive Power Scooters (including Sunfire, Image GT, Cirrus, Odyssey, GEO, Daytona, Phoenix, &amp; Falcon)
-</li><li>Invacare Power Wheelchairs, Invacare Rehab cushions and backs, Invacare Top End wheelchairs, Invacare Respiratory Equipment, &amp; Invacare Lifts and Swings. 
-</li></ul>
-
-<p>Other products may not qualify for additional discount. Exclusions may include, but are not limited to, products of certain size, weight, manufacturer price restrictions or products with savings/discounts already applied.</p>
-
-<p>Offers are available online only and are exclusive of applicable shipping and handling charges or taxes. Offers cannot be combined, are not available on all AllegroMedical.com products, and are subject to restrictions, limitations and blackout periods. Offers are not valid on prior purchases. Discount 
- applied at time of purchase will be taken off each item returned. Prices and charges are subject to change without notice.</p></div>
-
-<div class="generalDetailPromoTextDiv"><span class="generalDetailPromoSpan">Save 50% - Off List Price. Ends Midnight Friday.</span> <a href="#" class="detailsTip" rel=".generalDetailsToolTip">Details</a></div>
-<script type="text/javascript">
-jQuery(document).ready(function() {
-	jQuery(".detailsTip").cluetip({
-		cluetipClass : 'allegro2',
-		width: 500, local: true,
-		arrows: true, dropShadow: false,
-		showTitle: false,
-		cluezIndex: 111
-	});
-});
-</script>
-<br>
+					<br>
 
 						<div id="cartlinks">
 
@@ -539,7 +751,7 @@ jQuery(document).ready(function() {
 		<div id="right-menu-detail">
 			<div style="float:left;width:46%;text-align:center">
 							<span id="signinlink" style="border: none">
-							<a style="margin-top:37px;" class="bluelink" href="/signIn.do?successPath=%2Fmessage.do%3Ftitle%3DLogin+Confirmation%26message%3DThank-you+for+logging+into+AllegroMedical.com.%26gotoPath%3D%252Fsupport%252FprivacyPolicy.do">Sign In/Register</a></span>
+							<a style="margin-top:37px;" class="bluelink" href="/signIn.do?successPath=%2Fsupport%2FprivacyPolicy.do%3F">Sign In/Register</a></span>
 			</div>
 		
 			<div id="font-div">
@@ -611,9 +823,9 @@ jQuery(document).ready(function() {
 
 		
 						</div>
-						<span class="notyou" style="top:35px">
+						<span class="notyou" style="top:2px;right:-130px;width:129px">
 							<!-- START SCANALERT CODE -->
-							<a target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=www.AllegroMedical.com"><img width="115" height="32" border="0" src="//images.scanalert.com/meter/www.AllegroMedical.com/12.gif" alt="McAfee SECURE sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee Secure is a Trademark of McAfee, Inc.'); return false;"></a>
+							<a target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=www.AllegroMedical.com"><img width="115" height="32" border="0" src="//images.scanalert.com/meter/www.AllegroMedical.com/12.gif" alt="McAfee SECURE sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee Secure is a Trademark of McAfee, Inc.'); return false;" style="float:right"></a>
 							<!-- END SCANALERT CODE -->
 						</span>
 						
@@ -625,7 +837,7 @@ jQuery(document).ready(function() {
 						<div style="width:240px;padding: 7px 0px 0 0">
 							<form action="/browse/browseProducts.do" onsubmit="return checkSearchBox()">
 								<div id="search_fields">
-									<input id="searchfield" style="color:#999" name="searchPhrase" type="text" value="Search 36,365 products" onfocus="if (this.value.indexOf('Search') > -1) { this.value = ''; jQuery('#searchfield').css({color:'#000'}); }" onblur="if (this.value == '') { this.value='Search 36,365 products';  jQuery('#searchfield').css({color:'#999'});} ">
+									<input id="searchfield" style="color:#999" name="searchPhrase" type="text" value="Search 35,253 products" onfocus="if (this.value.indexOf('Search') > -1) { this.value = ''; jQuery('#searchfield').css({color:'#000'}); }" onblur="if (this.value == '') { this.value='Search 35,253 products';  jQuery('#searchfield').css({color:'#999'});} ">
 									<input type="submit" value="Search">
 								</div>
 							</form>
@@ -633,7 +845,7 @@ jQuery(document).ready(function() {
 						<div style="width:675px">
 								<div id="menu_bar_shadow">
 									<div style="padding-top: 5px;">
-<div id="top-mn" class="top-mnheader"><div><div class="gnheader" id="mnheader" style="width:675px; background-color: transparent;"><div style="padding-bottom: 0px;" id="mn_mainheader" class="gn_mainheader"> <ul> <li class="gn_level1m first-child headerlinksmain" id="mn_main_category"><a href="/categorysitemap.html" style="width: 125px;font-weight: bold; color: #fff;cursor: hand;cursor: pointer;" class="fixed" title="Shop by Category" onclick="return false;">Shop by Category</a></li> <li class="gn_level1m headerlinksmain" id="mn_main_brand"><a href="/brandsitemap.html" style="width: 125px; font-weight: bold; color: #fff;cursor: hand;cursor: pointer;" class="fixed" title="Shop by Brand" onclick="return false;">Shop by Brand</a></li> <li class="gn_level1m headerlinksmain" id="mn_main_condition"><a href="/browse/attributeMap.do" style="width: 145px; font-weight: bold; color: #fff;cursor: hand;cursor: pointer;" class="fixed" title="Shop by Condition" onclick="return false;">Shop by Condition™</a></li> <li class="gn_level1m headerlinksmain" id="mn_main_body"><a href="/browse/shopByBodyPart.do" style="width: 145px;font-weight: bold; color: #fff;cursor: hand;cursor: pointer;" class="fixed" title="Shop by Body Part" onclick="return false;">Shop by Body Part</a></li> <li class="gn_level1m headerlinksmain" id="mn_main_store"><a style="width: 120px;font-weight: bold; color: #fff;cursor: hand;cursor: pointer;" class="fixed" title="Shop by Store" onclick="return false;">Shop by Store</a></li> </ul> <div id="mn_main_headerfix" class="gn_main_headerfix"></div></div><div style="display: none;" id="mn_subheader" class="gn_subheader"></div></div></div></div> <div id="mn_flyheader" class="gn_flyheader"> <div style="left: -9999px; top: -9999px;" class="gn_level1_fly gn_fly main col1" id="mn_mainfly_category"><div style="width: 64px; height: 36px; top: -36px; left:0px" class="gn_flytab"><div class="gn_shadow"><div class="gn_tl"></div><div class="gn_tr"></div><div class="gn_bl"></div><div class="gn_br"></div></div><a style="font-weight:bold" title="Category Sitemap" href="/categorysitemap.html" onclick="return false;"><span>Shop By Category</span></a></div><div class="gn_flybody"><div class="gn_shadow"><div class="gn_tl"></div><div class="gn_tr"></div><div class="gn_bl"></div><div class="gn_br"></div></div><div style="width: 605px" class="gn_col"> <div style="width:190px; float:left"><ul> <li class="leaf"><a href="/bariatric-c6776.html" title="Bariatric"><span>Bariatric</span></a></li> <li class="leaf"><a href="/bathroom-assists-c517.html" title="Bathroom Assists"><span>Bathroom Assists</span></a></li> <li class="leaf"><a href="/beds-c6812.html" title="Beds"><span>Beds</span></a></li> <li class="leaf"><a href="/canes-c6632.html" title="Canes"><span>Canes</span></a></li> <li class="leaf"><a href="/catheters-c539.html" title="Catheters"><span>Catheters</span></a></li> <li class="leaf"><a href="/children-pediatric-c531.html" title="Children/Pediatric"><span>Children/Pediatric</span></a></li> <li class="leaf"><a href="/cold-flu-season-c5030.html" title="Cold/Flu Season"><span>Cold/Flu Season</span></a></li> <li class="leaf"><a href="/crutches-c5009.html" title="Crutches"><span>Crutches</span></a></li> <li class="leaf"><a href="/cushions-covers-backs-c544.html" title="Cushions/Covers/Backs"><span>Cushions/Covers/Backs</span></a></li> <li class="leaf"><a href="/daily-living-aids-c519.html" title="Daily Living Aids"><span>Daily Living Aids</span></a></li> <li class="leaf"><a href="/defibrillators-c546.html" title="Defibrillators"><span>Defibrillators</span></a></li> <li class="leaf"><a href="/diabetic-supplies-c520.html" title="Diabetic Supplies"><span>Diabetic Supplies</span></a></li> <li class="leaf"><a href="/diagnostic-products-c521.html" title="Diagnostic Products"><span>Diagnostic Products</span></a></li> <li class="leaf"><a href="/dietary-supplements-c522.html" title="Dietary Supplements"><span>Dietary Supplements</span></a></li> <li class="leaf"><a href="/electrotherapy-c561.html" title="Electrotherapy"><span>Electrotherapy</span></a></li> <li class="leaf"><a href="/emergency-preparation-c565.html" title="Emergency Preparation"><span>Emergency Preparation</span></a></li> <li class="leaf"><a href="/exercise-fitness-c523.html" title="Exercise/Fitness"><span>Exercise/Fitness</span></a></li> </ul></div><div style="width:205px; float:left"><ul> <li class="leaf"><a href="/exam-gloves-latex-vinyl-nitrile-c6867.html" title="Exam Gloves - Latex/Vinyl/Nitrile"><span>Exam Gloves - Latex/Vinyl/Nitrile</span></a></li> <li class="leaf"><a href="/gift-ideas-c573.html" title="Gift Ideas"><span>Gift Ideas</span></a></li> <li class="leaf"><a href="/hair-care-c7479.html" title="Hair care"><span>Hair Care</span></a></li> <li class="leaf"><a href="/handcycles-c543.html" title="Handcycles"><span>Handcycles</span></a></li> <li class="leaf"><a href="/hospital-discharge-favorites-c5000.html" title="Hospital Discharge Favorites"><span>Hospital Discharge Favorites</span></a></li> <li class="leaf"><a href="/housewares-c5256.html" title="Housewares"><span>Housewares</span></a></li> <li class="leaf"><a href="/impotence-c574.html" title="Impotence"><span>Impotence</span></a></li> <li class="leaf"><a href="/incontinence-c525.html" title="Incontinence"><span>Incontinence</span></a></li> <li class="leaf"><a href="/infusion-iv-supplies-c6448.html" title="Infusion/IV Supplies"><span>Infusion/IV Supplies</span></a></li> <li class="leaf"><a href="/lift-chairs-c526.html" title="Lift Chairs"><span>Lift Chairs</span></a></li> <li class="leaf"><a href="/maternity-care-c527.html" title="Maternity Care"><span>Maternity Care</span></a></li> <li class="leaf"><a href="/mobility-scooters-c533.html" title="Mobility Scooters"><span>Mobility Scooters</span></a></li> <li class="leaf"><a href="/orthopedics-orthotics-c528.html" title="Orthopedics/Orthotics"><span>Orthopedics/Orthotics</span></a></li> <li class="leaf"><a href="/ostomy-supplies-c529.html" title="Ostomy Supplies"><span>Ostomy Supplies</span></a></li> <li class="leaf"><a href="/otc-medications-c6752.html" title="OTC Medications"><span>OTC Medications</span></a></li> <li class="leaf"><a href="/outdoor-gear-c5209.html" title="Outdoor Gear"><span>Outdoor Gear</span></a></li> <li class="leaf"><a href="/pain-management-c6489.html" title="Pain Relief"><span>Pain Relief</span></a></li> </ul></div><div style="width:205px; float:left"><ul> <li class="leaf"><a href="/patient-care-c530.html" title="Patient Care"><span>Patient Care</span></a></li> <li class="leaf"><a href="/personal-care-c532.html" title="Personal Care"><span>Personal Care</span></a></li> <li class="leaf"><a href="/personal-protection-c6473.html" title="Personal Protection"><span>Personal Protection</span></a></li> <li class="leaf"><a href="/pet-supplies-c563535.html" title="Pet Supplies"><span>Pet Supplies</span></a></li> <li class="leaf"><a href="/ramps-c559.html" title="Ramps"><span>Ramps</span></a></li> <li class="leaf"><a href="/respiratory-therapy-c534.html" title="Respiratory Therapy"><span>Respiratory Therapy</span></a></li> <li class="leaf"><a href="/sexual-health-c524.html" title="Sexual Health"><span>Sexual Health</span></a></li> <li class="leaf"><a href="/shoes-c575.html" title="Shoes"><span>Shoes</span></a></li> <li class="leaf"><a href="/skin-care-c535.html" title="Skin Care"><span>Skin Care</span></a></li> <li class="leaf"><a href="/surgical-supplies-c537.html" title="Surgical Supplies"><span>Surgical Supplies</span></a></li> <li class="leaf"><a href="/syringes-c570.html" title="Syringes"><span>Syringes</span></a></li> <li class="leaf"><a href="/travel-aids-c6857.html" title="Travel Aids"><span>Travel Aids</span></a></li> <li class="leaf"><a href="/treatment-furniture-c554.html" title="Treatment Furniture"><span>Treatment Furniture</span></a></li> <li class="leaf"><a href="/walkers-c516.html" title="Walkers"><span>Walkers</span></a></li> <li class="leaf"><a href="/wheelchair-accessories-c545.html" title="Wheelchair Accessories"><span>Wheelchair Accessories</span></a></li> <li class="leaf"><a href="/wheelchairs-c540.html" title="Wheelchairs"><span>Wheelchairs</span></a></li> <li class="leaf"><a href="/wound-care-c541.html" title="Wound Care"><span>Wound Care</span></a></li> </ul></div> <div class="gn_special last-child" style="width:600px; text-align:right; padding-right:10px;"><ul><li class="leaf"><a title="See all categories" href="/categorysitemap.html"><span>See All Categories...</span></a></li></ul></div> </div> </div></div> <div style="left: -9999px; top: -9999px;" class="gn_level1_fly gn_fly main col1" id="mn_mainfly_brand"><div style="width: 64px; height: 36px; top: -36px; left:0px" class="gn_flytab"><div class="gn_shadow"><div class="gn_tl"></div><div class="gn_tr"></div><div class="gn_bl"></div><div class="gn_br"></div></div><a style="font-weight:bold" title="Brand Sitemap" href="/brandsitemap.html" onclick="return false;"><span>Shop by Brand</span></a></div><div class="gn_flybody"><div class="gn_shadow"><div class="gn_tl"></div><div class="gn_tr"></div><div class="gn_bl"></div><div class="gn_br"></div></div><div style="width: 510px" class="gn_col"> <div style="width:170px; float:left"><ul> <li class="leaf"><a href="/ableware-b15772.html" title="Ableware"><span>Ableware</span></a></li> <li class="leaf"><a href="/alimed-b15590.html" title="AliMed"><span>AliMed</span></a></li> <li class="leaf"><a href="/aloe-vesta-bff8081812f018af6012f036e589f31dd.html" title="Aloe Vesta"><span>Aloe Vesta</span></a></li> <li class="leaf"><a href="/bard-b14921.html" title="Bard"><span>Bard</span></a></li> <li class="leaf"><a href="/bd-bff8081812ec3beab012ec4fb4baf20d0.html" title="BD"><span>BD</span></a></li> <li class="leaf"><a href="/boost-b15712.html" title="Boost"><span>Boost</span></a></li> <li class="leaf"><a href="/carnation-b15713.html" title="Carnation"><span>Carnation</span></a></li> <li class="leaf"><a href="/colpac-b15689.html" title="ColPaC"><span>ColPaC</span></a></li> <li class="leaf"><a href="/curity-bff8081812f06b151012f0850f1a31828.html" title="Curity"><span>Curity</span></a></li> <li class="leaf"><a href="/dover-bff8081812f06b151012f08406f0916d8.html" title="Dover"><span>Dover</span></a></li> <li class="leaf"><a href="/drive-b15763.html" title="Drive"><span>Drive</span></a></li> <li class="leaf"><a href="/dura-stick-b15694.html" title="Dura-Stick"><span>Dura-Stick</span></a></li> <li class="leaf"><a href="/encore-b15002.html" title="Encore"><span>Encore</span></a></li> <li class="leaf"><a href="/ensure-b15708.html" title="Ensure"><span>Ensure</span></a></li> <li class="leaf"><a href="/ez-access-bff8081812f447da2012f46a6e621579d.html" title="EZ-Access"><span>EZ-Access</span></a></li> <li class="leaf"><a href="/freedom-clear-bff8081812ee7cb26012ee9c042826606.html" title="Freedom Clear"><span>Freedom Clear</span></a></li> <li class="leaf"><a href="/freestyle-bff8081812ea4d878012ea5e90c190aa4.html" title="FreeStyle"><span>FreeStyle</span></a></li> </ul></div><div style="width:170px; float:left"><ul> <li class="leaf"><a href="/guardian-bff8081811d8cd634011d8d69f88d00b3.html" title="Guardian"><span>Guardian</span></a></li> <li class="leaf"><a href="/harmonie-bff8081812f259778012f2681917a156e.html" title="Harmonie"><span>Harmonie</span></a></li> <li class="leaf"><a href="/invacare-b15069.html" title="Invacare"><span>Invacare</span></a></li> <li class="leaf"><a href="/jevity-bff8081812ea4d878012ea62846e4223a.html"><span>Jevity</span></a></li> <li class="leaf"><a href="/kerlix-bff8081812f06b151012f0837e1181663.html" title="Kerlix"><span>Kerlix</span></a></li> <li class="leaf"><a href="/kinesio-b15728.html" title="Kinesio"><span>Kinesio</span></a></li> <li class="leaf"><a href="/dmi-b14990.html" title="DMI"><span>Mabis DMI</span></a></li> <li class="leaf"><a href="/magic-bullet-b15734.html" title="Magic Bullet"><span>Magic Bullet</span></a></li> <li class="leaf"><a href="/medipore-bff8081812e9fb220012ea0ea77cc1651.html" title="Medipore"><span>Medipore</span></a></li> <li class="leaf"><a href="/medline-b15324.html" title="Medline"><span>Medline</span></a></li> <li class="leaf"><a href="/mepilex-bff8081812f4eca56012f50ca10833d63.html" title="Mepilex"><span>Mepilex</span></a></li> <li class="leaf"><a href="/monoject-bff8081812f06b151012f081a48551551.html" title="Monoject"><span>Monoject</span></a></li> <li class="leaf"><a href="/new-image-bff8081812f2abdd3012f2c8cc4224fc9.html" title="New Image"><span>New Image</span></a></li> <li class="leaf"><a href="/nutren-bff8081812f688a20012f6a85c09b4954.html" title="Nutren"><span>Nutren</span></a></li> <li class="leaf"><a href="/onetouch-bff8081812f53f0b2012f5509671415c5.html" title="OneTouch"><span>OneTouch</span></a></li> <li class="leaf"><a href="/ossur-bff8081811b2826e0011b290eeacf0084.html" title="Ossur"><span>Ossur</span></a></li> </ul></div><div style="width:170px; float:left"><ul> <li class="leaf"><a href="/pediasure-b15710.html" title="Pediasure"><span>Pediasure</span></a></li> <li class="leaf"><a href="/prevail-bff8081812f018af6012f038c385534a1.html" title="Prevail"><span>Prevail</span></a></li> <li class="leaf"><a href="/rochester-medical-b15222.html" title="Rochester Medical"><span>Rochester Medical</span></a></li> <li class="leaf"><a href="/roho-b15225.html" title="Roho"><span>Roho</span></a></li> <li class="leaf"><a href="/rusch-b15231.html" title="Rusch"><span>Rusch</span></a></li> <li class="leaf"><a href="/sammons-preston-b15238.html" title="Sammons Preston"><span>Sammons Preston</span></a></li> <li class="leaf"><a href="/self-cath-bff8081812ee4859a012ee4c2d37803ce.html" title="Self-Catch"><span>Self-Cath</span></a></li> <li class="leaf"><a href="/sensi-care-bff8081812f350a8f012f374edd0f5dc1.html" title="Sensi-Care"><span>Sensi-Care</span></a></li> <li class="leaf"><a href="/smith-and-nephew-b15257.html" title="Smith &amp; Nephew"><span>Smith &amp; Nephew</span></a></li> <li class="leaf"><a href="/sunrise-medical-b15272.html" title="Sunrise Medical"><span>Sunrise Medical</span></a></li> <li class="leaf"><a href="/sur-fit-natura-bff8081812f350a8f012f37016832591b.html" title="SUR-FIT Natura"><span>SUR-FIT</span></a></li> <li class="leaf"><a href="/surgilube-bff8081812f447da2012f46971339564e.html" title="Surgilube"><span>Surgilube</span></a></li> <li class="leaf"><a href="/tena-bff8081812ed8582d012ed96ec44d45b1.html" title="TENA"><span>TENA</span></a></li> <li class="leaf"><a href="/uplift-technologies-b15637.html" title="Uplift Technologies"><span>Uplift Technologies</span></a></li> <li class="leaf"><a href="/visco-memory-foam-b15753.html" title="Visco Memory Foam"><span>Visco Memory Foam</span></a></li> <li class="leaf"><a href="/wings-bff8081812f06b151012f082164cc157d.html" title="Wings"><span>Wings</span></a></li> </ul></div> <div class="gn_special last-child" style="width:510px; text-align:right; padding-right:10px;"><ul><li class="leaf"><a title="See all brands" href="/brandsitemap.html"><span>See All Brands...</span></a></li></ul></div> </div> </div></div> <div style="left: -9999px; top: -9999px;" class="gn_level1_fly gn_fly main col1" id="mn_mainfly_condition"><div style="width: 64px; height: 36px; top: -36px;" class="gn_flytab"><div class="gn_shadow"><div class="gn_tl"></div><div class="gn_tr"></div><div class="gn_bl"></div><div class="gn_br"></div></div><a style="font-weight:bold" title="Attribute Sitemap" href="/browse/attributeMap.do" onclick="return false;"><span>Shop by Condition™</span></a></div><div class="gn_flybody"><div class="gn_shadow"><div class="gn_tl"></div><div class="gn_tr"></div><div class="gn_bl"></div><div class="gn_br"></div></div><div style="width: 450px" class="gn_col"> <div style="width:150px; float:left"><ul> <li class="leaf"><a href="/attr-condition-Allergies%252C%2BNasal.html" title="Allergies, Nasal"><span>Allergies, Nasal</span></a></li> <li class="leaf"><a href="/attr-condition-Alzheimers%2B-%2BDementia.html" title="Alzheimers / Dementia"><span>Alzheimers / Dementia</span></a></li> <li class="leaf"><a href="/attr-condition-Ankle%2BPain.html" title="Ankle Pain"><span>Ankle Pain</span></a></li> <li class="leaf"><a href="/attr-condition-Arthritis.html" title="Arthritis"><span>Arthritis</span></a></li> <li class="leaf"><a href="/attr-condition-Asthma.html" title="Asthma"><span>Asthma</span></a></li> <li class="leaf"><a href="/attr-condition-Athletes%2BFoot.html" title="Athletes Foot"><span>Athletes Foot</span></a></li> <li class="leaf"><a href="/attr-condition-Back%2BPain.html" title="Back Pain"><span>Back Pain</span></a></li> <li class="leaf"><a href="/attr-condition-Balance%2Band%2BCore%2BStability.html" title="Balance / Core Stability"><span>Balance / Core Stability</span></a></li> <li class="leaf"><a href="/attr-condition-Bed%2BWetting.html" title="Bed Wetting"><span>Bed Wetting</span></a></li> <li class="leaf"><a href="/attr-condition-Bedridden.html" title="Bedridden"><span>Bedridden</span></a></li> <li class="leaf"><a href="/attr-condition-Blindness%2Bor%2BLow%2BVision.html" title="Blindness / Low Vision"><span>Blindness / Low Vision</span></a></li> <li class="leaf"><a href="/attr-condition-Carpal%2BTunnel.html" title="Carpal Tunnel"><span>Carpal Tunnel</span></a></li> <li class="leaf"><a href="/attr-condition-Cerebral%2BPalsy.html" title="Cerebral Palsy"><span>Cerebral Palsy</span></a></li> <li class="leaf"><a href="/attr-condition-Cold%2B-%2BFlu.html" title="Cold / Flu"><span>Cold / Flu</span></a></li> <li class="leaf"><a href="/attr-condition-Constipation.html" title="Constipation"><span>Constipation</span></a></li> <li class="leaf"><a href="/attr-condition-Crohns%2BDisease.html" title="Crohns Disease"><span>Crohns Disease</span></a></li> </ul></div><div style="width:150px; float:left"><ul> <li class="leaf"><a href="/attr-condition-Diabetes.html" title="Diabetes"><span>Diabetes</span></a></li> <li class="leaf"><a href="/attr-condition-Diaper%2BRash.html" title="Diaper Rash"><span>Diaper Rash</span></a></li> <li class="leaf"><a href="/attr-condition-Diarrhea.html" title="Diarrhea"><span>Diarrhea</span></a></li> <li class="leaf"><a href="/attr-condition-Foot%2BPain.html" title="Foot Pain"><span>Foot Pain</span></a></li> <li class="leaf"><a href="/attr-condition-Headache.html" title="Headache"><span>Headache</span></a></li> <li class="leaf"><a href="/attr-condition-Hearing%2BImpairment.html" title="Hearing Impairment"><span>Hearing Impairment</span></a></li> <li class="leaf"><a href="/attr-condition-Heartburn.html" title="Heartburn"><span>Heartburn</span></a></li> <li class="leaf"><a href="/attr-condition-Heel%2BSpurs.html" title="Heel Spurs"><span>Heel Spurs</span></a></li> <li class="leaf"><a href="/attr-condition-High%2BBlood%2BPressure.html" title="High Blood Pressure"><span>High Blood Pressure</span></a></li> <li class="leaf"><a href="/attr-condition-Hip%2BReplacement.html" title="Hip Replacement"><span>Hip Replacement</span></a></li> <li class="leaf"><a href="/attr-condition-Incontinence.html" title="Incontinence"><span>Incontinence</span></a></li> <li class="leaf"><a href="/attr-condition-Insomnia.html" title="Insomnia"><span>Insomnia</span></a></li> <li class="leaf"><a href="/attr-condition-Knee%2BPain.html" title="Knee Pain"><span>Knee Pain</span></a></li> <li class="leaf"><a href="/attr-condition-Knee%2BReplacement.html" title="Knee Replacement"><span>Knee Replacement</span></a></li> <li class="leaf"><a href="/attr-condition-Migraine.html" title="Migraine"><span>Migraine</span></a></li> <li class="leaf"><a href="/attr-condition-Multiple%2BSclerosis.html" title="Multiple Sclerosis"><span>Multiple Sclerosis</span></a></li> </ul></div><div style="width:150px; float:left"><ul> <li class="leaf"><a href="/attr-condition-Muscle%2BPain.html" title="Muscle Pain"><span>Muscle Pain</span></a></li> <li class="leaf"><a href="/attr-condition-Obesity.html" title="Obesity"><span>Obesity</span></a></li> <li class="leaf"><a href="/attr-condition-Paraplegia.html" title="Paraplegia"><span>Paraplegia</span></a></li> <li class="leaf"><a href="/attr-condition-Plantar%2BFasciitis.html" title="Plantar Fasciitis"><span>Plantar Fasciitis</span></a></li> <li class="leaf"><a href="/attr-condition-Post-Surgery.html" title="Post-Surgery"><span>Post-Surgery</span></a></li> <li class="leaf"><a href="/attr-condition-Pregnant%2B-%2BNewborn.html" title="Pregnant / Newborn"><span>Pregnant / Newborn</span></a></li> <li class="leaf"><a href="/attr-condition-Quadriplegia.html" title="Quadriplegia"><span>Quadriplegia</span></a></li> <li class="leaf"><a href="/attr-condition-Shin%2BSplints.html" title="Shin Splints"><span>Shin Splints</span></a></li> <li class="leaf"><a href="/attr-condition-Skin%2BCondition.html" title="Skin Condition"><span>Skin Condition</span></a></li> <li class="leaf"><a href="/attr-condition-Snoring.html" title="Snoring"><span>Snoring</span></a></li> <li class="leaf"><a href="/attr-condition-Stress.html" title="Stress"><span>Stress</span></a></li> <li class="leaf"><a href="/attr-condition-Stroke.html" title="Stroke"><span>Stroke</span></a></li> <li class="leaf"><a href="/attr-condition-Swallowing%2BDisorder.html" title="Swallowing Disorder"><span>Swallowing Disorder</span></a></li> <li class="leaf"><a href="/attr-condition-Tube%2BFeeding.html" title="Tube Feeding"><span>Tube Feeding</span></a></li> <li class="leaf"><a href="/attr-condition-Weight%2BGain%2BHelp.html" title="Weight Gain Help"><span>Weight Gain Help</span></a></li> <li class="leaf"><a href="/attr-condition-Weight%2BLoss%2BHelp.html" title="Weight Loss Help"><span>Weight Loss Help</span></a></li> </ul></div> <div class="gn_special last-child" style="width:450px; text-align:right; padding-right:10px;"><ul><li class="leaf"><a title="See all conditions" href="/browse/attributeMap.do"><span>See All Conditions...</span></a></li></ul></div> </div> </div></div> <div style="left: -9999px; top: -9999px;" class="gn_level1_fly gn_fly main col1" id="mn_mainfly_body"><div style="width: 64px; height: 36px; top: -36px;" class="gn_flytab"><div class="gn_shadow"><div class="gn_tl"></div><div class="gn_tr"></div><div class="gn_bl"></div><div class="gn_br"></div></div><a style="font-weight:bold" title="Shop by Body Part" href="/browse/shopByBodyPart.do" onclick="return false;"><span>Shop by Body Part</span></a></div><div class="gn_flybody"><div class="gn_shadow"><div class="gn_tl"></div><div class="gn_tr"></div><div class="gn_bl"></div><div class="gn_br"></div></div><div style="width: 400px" class="gn_col"> <div style="width:190px; float:left"><ul> <li class="leaf"><a title="Ankles" href="/browse/browseProducts.do?searchPhrase=ankles"><span>Ankles</span></a></li> <li class="leaf"><a title="Arm" href="/browse/browseProducts.do?searchPhrase=arm+sling"><span>Arm</span></a></li> <li class="leaf"><a title="Back" href="/attr-condition-Back%2BPain.html"><span>Back</span></a></li> <li class="leaf"><a title="Calf" href="/browse/browseProducts.do?searchPhrase=calf"><span>Calf</span></a></li> <li class="leaf"><a title="Chest" href="/attr-condition-Cold%2B%252F%2BFlu.html"><span>Chest</span></a></li> <li class="leaf"><a title="Circulatory System" href="/diagnostic-products-c521/blood-pressure-monitors-c3637.html"><span>Circulatory System</span></a></li> <li class="leaf"><a title="Feet" href="/orthopedics-orthotics-c528/ankle-foot-c4061.html"><span>Feet</span></a></li> <li class="leaf"><a title="Hamstring" href="/browse/browseProducts.do?searchPhrase=Hamstring"><span>Hamstring</span></a></li> <li class="leaf"><a title="Wrist, Elbow, Hand" href="/orthopedics-orthotics-c528/wrist-elbow-hand-c3675.html"><span>Wrist, Elbow, Hand</span></a></li> <li class="leaf"><a title="Head" href="/attr-condition-Headache.html"><span>Head</span></a></li> <li class="leaf"><a title="Heart" href="/diagnostic-products-c521/heart-rate-monitors-c4041.html"><span>Heart</span></a></li> <li class="leaf"><a title="Hip" href="/attr-condition-Hip%2BReplacement.html"><span>Hip</span></a></li> <li class="leaf"><a title="Ear" href="/attr-condition-Hearing%2BImpairment.html"><span>Ear</span></a></li> <li class="leaf"><a title="Elbow" href="/browse/browseProducts.do?searchPhrase=elbow"><span>Elbow</span></a></li> <li class="leaf"><a title="Eyes" href="/attr-condition-Blindness%2B%252F%2BLow%2BVision.html"><span>Eyes</span></a></li> <li class="leaf"><a title="Finger" href="/browse/browseProducts.do?searchPhrase=finger"><span>Finger</span></a></li> </ul></div><div style="width:205px; float:left"><ul> <li class="leaf"><a title="Knees" href="/orthopedics-orthotics-c528/knee-thigh-c3677.html"><span>Knees</span></a></li> <li class="leaf"><a title="Larynx" href="/daily-living-aids-c519/servox-digital-artificial-larynx-p189025.html"><span>Larynx</span></a></li> <li class="leaf"><a title="Lateral Ligament" href="/browse/browseProducts.do?searchPhrase=lateral+ligament"><span>Lateral Ligament</span></a></li> <li class="leaf"><a title="Lungs" href="/attr-condition-Asthma.html"><span>Lungs</span></a></li> <li class="leaf"><a title="Mouth" href="/attr-condition-Swallowing%2BDisorder.html"><span>Mouth</span></a></li> <li class="leaf"><a title="Neck" href="/orthopedics-orthotics-c528/neck-c3679.html"><span>Neck</span></a></li> <li class="leaf"><a title="Nose" href="/attr-condition-Allergies%252C%2BNasal.html"><span>Nose</span></a></li> <li class="leaf"><a title="Palm" href="/browse/browseProducts.do?searchPhrase=palm"><span>Palm</span></a></li> <li class="leaf"><a title="Penis" href="/impotence-c574.html"><span>Penis</span></a></li> <li class="leaf"><a title="Rectum" href="/browse/browseProducts.do?searchPhrase=suppository"><span>Rectum</span></a></li> <li class="leaf"><a title="Shoulder" href="/orthopedics-orthotics-c528/shoulder-c4102.html"><span>Shoulder</span></a></li> <li class="leaf"><a title="Thigh" href="/browse/browseProducts.do?searchPhrase=thigh"><span>Thigh</span></a></li> <li class="leaf"><a title="Thumb" href="/browse/browseProducts.do?searchPhrase=thumb"><span>Thumb</span></a></li> <li class="leaf"><a title="Toes" href="/browse/browseProducts.do?searchPhrase=toe"><span>Toes</span></a></li> <li class="leaf"><a title="Trachea" href="/browse/browseProducts.do?searchPhrase=trachea"><span>Trachea</span></a></li> <li class="leaf"><a title="Vagina" href="/browse/browseProducts.do?searchPhrase=menstrual"><span>Vagina</span></a></li> </ul></div> <div class="gn_special last-child" style="width:400px; text-align:right; padding-right:10px;"><ul><li class="leaf"><a title="See all body parts" href="/browse/shopByBodyPart.do"><span>See All Body Parts...</span></a></li></ul></div> </div> </div></div> <div style="left: -9999px; top: -9999px;" class="gn_level1_fly gn_fly main col1" id="mn_mainfly_store"><div style="width: 64px; height: 36px; top: -36px;" class="gn_flytab"><div class="gn_shadow"><div class="gn_tl"></div><div class="gn_tr"></div><div class="gn_bl"></div><div class="gn_br"></div></div><a style="font-weight:bold" title="Shop by Store" href="#" onclick="return false;"><span>Shop by Store</span></a></div><div class="gn_flybody"><div class="gn_shadow"><div class="gn_tl"></div><div class="gn_tr"></div><div class="gn_bl"></div><div class="gn_br"></div></div><div style="width: 200px" class="gn_col"> <div style="width:190px; float:left"><ul> <li class="leaf"><a style="width:200px" href="/medical-equipment-store"><span>Medical Equipment Store</span></a></li> <li class="leaf"><a style="width:200px" href="/mobility-equipment-store"><span>Mobility Equipment Store</span></a></li> <li class="leaf"><a style="width:200px" href="/incontinence-store"><span>Incontinence Store</span></a></li> <li class="leaf"><a style="width:200px" href="/medical-supplies-store"><span>Medical Supplies Store</span></a></li> <li class="leaf"><a style="width:200px" href="/wound-care-store"><span>Wound Care Store</span></a></li> <li class="leaf"><a style="width:200px" href="/dietary-supplement-store"><span>Dietary Supplement Store</span></a></li> <li class="leaf"><a style="width:200px" href="/diabetic-supplies-store"><span>Diabetic Supplies Store</span></a></li> <li class="leaf"><a style="width:200px" href="/catheter-store"><span>Catheter Store</span></a></li> </ul></div></div> </div></div> </div>									</div>
+<div id="top-mn" class="top-mnheader"><div><div class="gnheader" id="mnheader" style="width:675px; background-color: transparent;"><div style="padding-bottom: 0px;" id="mn_mainheader" class="gn_mainheader"> <ul> <li class="gn_level1m first-child headerlinksmain" id="mn_main_category"><a href="/categorysitemap.html" style="width: 125px;font-weight: bold; color: #fff;cursor: hand;cursor: pointer;" class="fixed" title="Shop by Category" onclick="return false;">Shop by Category</a></li> <li class="gn_level1m headerlinksmain" id="mn_main_brand"><a href="/brandsitemap.html" style="width: 125px; font-weight: bold; color: #fff;cursor: hand;cursor: pointer;" class="fixed" title="Shop by Brand" onclick="return false;">Shop by Brand</a></li> <li class="gn_level1m headerlinksmain" id="mn_main_condition"><a href="/browse/attributeMap.do" style="width: 145px; font-weight: bold; color: #fff;cursor: hand;cursor: pointer;" class="fixed" title="Shop by Condition" onclick="return false;">Shop by Condition™</a></li> <li class="gn_level1m headerlinksmain" id="mn_main_body"><a href="/browse/shopByBodyPart.do" style="width: 145px;font-weight: bold; color: #fff;cursor: hand;cursor: pointer;" class="fixed" title="Shop by Body Part" onclick="return false;">Shop by Body Part</a></li> <li class="gn_level1m headerlinksmain" id="mn_main_store"><a style="width: 120px;font-weight: bold; color: #fff;cursor: hand;cursor: pointer;" class="fixed" title="Shop by Store" onclick="return false;">Shop by Store</a></li> </ul> <div id="mn_main_headerfix" class="gn_main_headerfix"></div></div><div style="display: none;" id="mn_subheader" class="gn_subheader"></div></div></div></div> <div id="mn_flyheader" class="gn_flyheader"> <div style="left: -9999px; top: -9999px;" class="gn_level1_fly gn_fly main col1" id="mn_mainfly_category"><div style="width: 64px; height: 36px; top: -36px; left:0px" class="gn_flytab"><div class="gn_shadow"><div class="gn_tl"></div><div class="gn_tr"></div><div class="gn_bl"></div><div class="gn_br"></div></div><a style="font-weight:bold" title="Category Sitemap" href="/categorysitemap.html" onclick="return false;"><span>Shop By Category</span></a></div><div class="gn_flybody"><div class="gn_shadow"><div class="gn_tl"></div><div class="gn_tr"></div><div class="gn_bl"></div><div class="gn_br"></div></div><div style="width: 605px" class="gn_col"> <div style="width:190px; float:left"><ul> <li class="leaf"><a href="/bariatric-c6776.html" title="Bariatric"><span>Bariatric</span></a></li> <li class="leaf"><a href="/bathroom-assists-c517.html" title="Bathroom Assists"><span>Bathroom Assists</span></a></li> <li class="leaf"><a href="/beds-c6812.html" title="Beds"><span>Beds</span></a></li> <li class="leaf"><a href="/canes-c6632.html" title="Canes"><span>Canes</span></a></li> <li class="leaf"><a href="/catheters-c539.html" title="Catheters"><span>Catheters</span></a></li> <li class="leaf"><a href="/children-pediatric-c531.html" title="Children/Pediatric"><span>Children/Pediatric</span></a></li> <li class="leaf"><a href="/cold-flu-season-c5030.html" title="Cold/Flu Season"><span>Cold/Flu Season</span></a></li> <li class="leaf"><a href="/crutches-c5009.html" title="Crutches"><span>Crutches</span></a></li> <li class="leaf"><a href="/cushions-covers-backs-c544.html" title="Cushions/Covers/Backs"><span>Cushions/Covers/Backs</span></a></li> <li class="leaf"><a href="/daily-living-aids-c519.html" title="Daily Living Aids"><span>Daily Living Aids</span></a></li> <li class="leaf"><a href="/defibrillators-c546.html" title="Defibrillators"><span>Defibrillators</span></a></li> <li class="leaf"><a href="/diabetic-supplies-c520.html" title="Diabetic Supplies"><span>Diabetic Supplies</span></a></li> <li class="leaf"><a href="/diagnostic-products-c521.html" title="Diagnostic Products"><span>Diagnostic Products</span></a></li> <li class="leaf"><a href="/dietary-supplements-c522.html" title="Dietary Supplements"><span>Dietary Supplements</span></a></li> <li class="leaf"><a href="/electrotherapy-c561.html" title="Electrotherapy"><span>Electrotherapy</span></a></li> <li class="leaf"><a href="/emergency-preparation-c565.html" title="Emergency Preparation"><span>Emergency Preparation</span></a></li> <li class="leaf"><a href="/exercise-fitness-c523.html" title="Exercise/Fitness"><span>Exercise/Fitness</span></a></li> </ul></div><div style="width:205px; float:left"><ul> <li class="leaf"><a href="/exam-gloves-latex-vinyl-nitrile-c6867.html" title="Exam Gloves - Latex/Vinyl/Nitrile"><span>Exam Gloves - Latex/Vinyl/Nitrile</span></a></li> <li class="leaf"><a href="/gift-ideas-c573.html" title="Gift Ideas"><span>Gift Ideas</span></a></li> <li class="leaf"><a href="/hair-care-c7479.html" title="Hair care"><span>Hair Care</span></a></li> <li class="leaf"><a href="/handcycles-c543.html" title="Handcycles"><span>Handcycles</span></a></li> <li class="leaf"><a href="/hospital-discharge-favorites-c5000.html" title="Hospital Discharge Favorites"><span>Hospital Discharge Favorites</span></a></li> <li class="leaf"><a href="/housewares-c5256.html" title="Housewares"><span>Housewares</span></a></li> <li class="leaf"><a href="/impotence-c574.html" title="Impotence"><span>Impotence</span></a></li> <li class="leaf"><a href="/incontinence-c525.html" title="Incontinence"><span>Incontinence</span></a></li> <li class="leaf"><a href="/infusion-iv-supplies-c6448.html" title="Infusion/IV Supplies"><span>Infusion/IV Supplies</span></a></li> <li class="leaf"><a href="/lift-chairs-c526.html" title="Lift Chairs"><span>Lift Chairs</span></a></li> <li class="leaf"><a href="/maternity-care-c527.html" title="Maternity Care"><span>Maternity Care</span></a></li> <li class="leaf"><a href="/mobility-scooters-c533.html" title="Mobility Scooters"><span>Mobility Scooters</span></a></li> <li class="leaf"><a href="/orthopedics-orthotics-c528.html" title="Orthopedics/Orthotics"><span>Orthopedics/Orthotics</span></a></li> <li class="leaf"><a href="/ostomy-supplies-c529.html" title="Ostomy Supplies"><span>Ostomy Supplies</span></a></li> <li class="leaf"><a href="/otc-medications-c6752.html" title="OTC Medications"><span>OTC Medications</span></a></li> <li class="leaf"><a href="/outdoor-gear-c5209.html" title="Outdoor Gear"><span>Outdoor Gear</span></a></li> <li class="leaf"><a href="/pain-management-c6489.html" title="Pain Relief"><span>Pain Relief</span></a></li> </ul></div><div style="width:205px; float:left"><ul> <li class="leaf"><a href="/patient-care-c530.html" title="Patient Care"><span>Patient Care</span></a></li> <li class="leaf"><a href="/personal-care-c532.html" title="Personal Care"><span>Personal Care</span></a></li> <li class="leaf"><a href="/personal-protection-c6473.html" title="Personal Protection"><span>Personal Protection</span></a></li> <li class="leaf"><a href="/pet-supplies-c563535.html" title="Pet Supplies"><span>Pet Supplies</span></a></li> <li class="leaf"><a href="/ramps-c559.html" title="Ramps"><span>Ramps</span></a></li> <li class="leaf"><a href="/respiratory-therapy-c534.html" title="Respiratory Therapy"><span>Respiratory Therapy</span></a></li> <li class="leaf"><a href="/sexual-health-c524.html" title="Sexual Health"><span>Sexual Health</span></a></li> <li class="leaf"><a href="/shoes-c575.html" title="Shoes"><span>Shoes</span></a></li> <li class="leaf"><a href="/skin-care-c535.html" title="Skin Care"><span>Skin Care</span></a></li> <li class="leaf"><a href="/surgical-supplies-c537.html" title="Surgical Supplies"><span>Surgical Supplies</span></a></li> <li class="leaf"><a href="/syringes-c570.html" title="Syringes"><span>Syringes</span></a></li> <li class="leaf"><a href="/travel-aids-c6857.html" title="Travel Aids"><span>Travel Aids</span></a></li> <li class="leaf"><a href="/treatment-furniture-c554.html" title="Treatment Furniture"><span>Treatment Furniture</span></a></li> <li class="leaf"><a href="/walkers-c516.html" title="Walkers"><span>Walkers</span></a></li> <li class="leaf"><a href="/wheelchair-accessories-c545.html" title="Wheelchair Accessories"><span>Wheelchair Accessories</span></a></li> <li class="leaf"><a href="/wheelchairs-c540.html" title="Wheelchairs"><span>Wheelchairs</span></a></li> <li class="leaf"><a href="/wound-care-c541.html" title="Wound Care"><span>Wound Care</span></a></li> </ul></div> <div class="gn_special last-child" style="width:600px; text-align:right; padding-right:10px;"><ul><li class="leaf"><a title="See all categories" href="/categorysitemap.html"><span>See All Categories...</span></a></li></ul></div> </div> </div></div> <div style="left: -9999px; top: -9999px;" class="gn_level1_fly gn_fly main col1" id="mn_mainfly_brand"><div style="width: 64px; height: 36px; top: -36px; left:0px" class="gn_flytab"><div class="gn_shadow"><div class="gn_tl"></div><div class="gn_tr"></div><div class="gn_bl"></div><div class="gn_br"></div></div><a style="font-weight:bold" title="Brand Sitemap" href="/brandsitemap.html" onclick="return false;"><span>Shop by Brand</span></a></div><div class="gn_flybody"><div class="gn_shadow"><div class="gn_tl"></div><div class="gn_tr"></div><div class="gn_bl"></div><div class="gn_br"></div></div><div style="width: 510px" class="gn_col"> <div style="width:170px; float:left"><ul> <li class="leaf"><a href="/ableware-b15772.html" title="Ableware"><span>Ableware</span></a></li> <li class="leaf"><a href="/alimed-b15590.html" title="AliMed"><span>AliMed</span></a></li> <li class="leaf"><a href="/aloe-vesta-bff8081812f018af6012f036e589f31dd.html" title="Aloe Vesta"><span>Aloe Vesta</span></a></li> <li class="leaf"><a href="/bard-b14921.html" title="Bard"><span>Bard</span></a></li> <li class="leaf"><a href="/bd-bff8081812ec3beab012ec4fb4baf20d0.html" title="BD"><span>BD</span></a></li> <li class="leaf"><a href="/boost-b15712.html" title="Boost"><span>Boost</span></a></li> <li class="leaf"><a href="/carnation-b15713.html" title="Carnation"><span>Carnation</span></a></li> <li class="leaf"><a href="/colpac-b15689.html" title="ColPaC"><span>ColPaC</span></a></li> <li class="leaf"><a href="/curity-bff8081812f06b151012f0850f1a31828.html" title="Curity"><span>Curity</span></a></li> <li class="leaf"><a href="/dover-bff8081812f06b151012f08406f0916d8.html" title="Dover"><span>Dover</span></a></li> <li class="leaf"><a href="/drive-b15763.html" title="Drive"><span>Drive</span></a></li> <li class="leaf"><a href="/dura-stick-b15694.html" title="Dura-Stick"><span>Dura-Stick</span></a></li> <li class="leaf"><a href="/encore-b15002.html" title="Encore"><span>Encore</span></a></li> <li class="leaf"><a href="/ensure-b15708.html" title="Ensure"><span>Ensure</span></a></li> <li class="leaf"><a href="/ez-access-bff8081812f447da2012f46a6e621579d.html" title="EZ-Access"><span>EZ-Access</span></a></li> <li class="leaf"><a href="/freedom-clear-bff8081812ee7cb26012ee9c042826606.html" title="Freedom Clear"><span>Freedom Clear</span></a></li> <li class="leaf"><a href="/freestyle-bff8081812ea4d878012ea5e90c190aa4.html" title="FreeStyle"><span>FreeStyle</span></a></li> </ul></div><div style="width:170px; float:left"><ul> <li class="leaf"><a href="/guardian-bff8081811d8cd634011d8d69f88d00b3.html" title="Guardian"><span>Guardian</span></a></li> <li class="leaf"><a href="/harmonie-bff8081812f259778012f2681917a156e.html" title="Harmonie"><span>Harmonie</span></a></li> <li class="leaf"><a href="/invacare-b15069.html" title="Invacare"><span>Invacare</span></a></li> <li class="leaf"><a href="/jay-cushions-bff808181205df01c0120633b20e23955.html" title="Jay Cushions"><span>Jay Cushions</span></a></li> <li class="leaf"><a href="/jevity-bff8081812ea4d878012ea62846e4223a.html"><span>Jevity</span></a></li> <li class="leaf"><a href="/kerlix-bff8081812f06b151012f0837e1181663.html" title="Kerlix"><span>Kerlix</span></a></li> <li class="leaf"><a href="/kinesio-b15728.html" title="Kinesio"><span>Kinesio</span></a></li> <li class="leaf"><a href="/dmi-b14990.html" title="DMI"><span>Mabis DMI</span></a></li> <li class="leaf"><a href="/magic-bullet-b15734.html" title="Magic Bullet"><span>Magic Bullet</span></a></li> <li class="leaf"><a href="/medipore-bff8081812e9fb220012ea0ea77cc1651.html" title="Medipore"><span>Medipore</span></a></li> <li class="leaf"><a href="/medline-b15324.html" title="Medline"><span>Medline</span></a></li> <li class="leaf"><a href="/mepilex-bff8081812f4eca56012f50ca10833d63.html" title="Mepilex"><span>Mepilex</span></a></li> <li class="leaf"><a href="/monoject-bff8081812f06b151012f081a48551551.html" title="Monoject"><span>Monoject</span></a></li> <li class="leaf"><a href="/new-image-bff8081812f2abdd3012f2c8cc4224fc9.html" title="New Image"><span>New Image</span></a></li> <li class="leaf"><a href="/nutren-bff8081812f688a20012f6a85c09b4954.html" title="Nutren"><span>Nutren</span></a></li> <li class="leaf"><a href="/onetouch-bff8081812f53f0b2012f5509671415c5.html" title="OneTouch"><span>OneTouch</span></a></li> <li class="leaf"><a href="/ossur-bff8081811b2826e0011b290eeacf0084.html" title="Ossur"><span>Ossur</span></a></li> </ul></div><div style="width:170px; float:left"><ul> <li class="leaf"><a href="/pediasure-b15710.html" title="Pediasure"><span>Pediasure</span></a></li> <li class="leaf"><a href="/quickie-wheelchairs-b15214.html" title="Pediasure"><span>Quickie Wheelchairs</span></a></li> <li class="leaf"><a href="/prevail-bff8081812f018af6012f038c385534a1.html" title="Prevail"><span>Prevail</span></a></li> <li class="leaf"><a href="/rochester-medical-b15222.html" title="Rochester Medical"><span>Rochester Medical</span></a></li> <li class="leaf"><a href="/roho-b15225.html" title="Roho"><span>Roho</span></a></li> <li class="leaf"><a href="/rusch-b15231.html" title="Rusch"><span>Rusch</span></a></li> <li class="leaf"><a href="/sammons-preston-b15238.html" title="Sammons Preston"><span>Sammons Preston</span></a></li> <li class="leaf"><a href="/self-cath-bff8081812ee4859a012ee4c2d37803ce.html" title="Self-Catch"><span>Self-Cath</span></a></li> <li class="leaf"><a href="/sensi-care-bff8081812f350a8f012f374edd0f5dc1.html" title="Sensi-Care"><span>Sensi-Care</span></a></li> <li class="leaf"><a href="/smith-and-nephew-b15257.html" title="Smith &amp; Nephew"><span>Smith &amp; Nephew</span></a></li> <li class="leaf"><a href="/sur-fit-natura-bff8081812f350a8f012f37016832591b.html" title="SUR-FIT Natura"><span>SUR-FIT</span></a></li> <li class="leaf"><a href="/surgilube-bff8081812f447da2012f46971339564e.html" title="Surgilube"><span>Surgilube</span></a></li> <li class="leaf"><a href="/tena-bff8081812ed8582d012ed96ec44d45b1.html" title="TENA"><span>TENA</span></a></li> <li class="leaf"><a href="/uplift-technologies-b15637.html" title="Uplift Technologies"><span>Uplift Technologies</span></a></li> <li class="leaf"><a href="/visco-memory-foam-b15753.html" title="Visco Memory Foam"><span>Visco Memory Foam</span></a></li> <li class="leaf"><a href="/wings-bff8081812f06b151012f082164cc157d.html" title="Wings"><span>Wings</span></a></li> </ul></div> <div class="gn_special last-child" style="width:510px; text-align:right; padding-right:10px;"><ul><li class="leaf"><a title="See all brands" href="/brandsitemap.html"><span>See All Brands...</span></a></li></ul></div> </div> </div></div> <div style="left: -9999px; top: -9999px;" class="gn_level1_fly gn_fly main col1" id="mn_mainfly_condition"><div style="width: 64px; height: 36px; top: -36px;" class="gn_flytab"><div class="gn_shadow"><div class="gn_tl"></div><div class="gn_tr"></div><div class="gn_bl"></div><div class="gn_br"></div></div><a style="font-weight:bold" title="Attribute Sitemap" href="/browse/attributeMap.do" onclick="return false;"><span>Shop by Condition™</span></a></div><div class="gn_flybody"><div class="gn_shadow"><div class="gn_tl"></div><div class="gn_tr"></div><div class="gn_bl"></div><div class="gn_br"></div></div><div style="width: 450px" class="gn_col"> <div style="width:150px; float:left"><ul> <li class="leaf"><a href="/attr-condition-Allergies%252C%2BNasal.html" title="Allergies, Nasal"><span>Allergies, Nasal</span></a></li> <li class="leaf"><a href="/attr-condition-Alzheimers%2B-%2BDementia.html" title="Alzheimers / Dementia"><span>Alzheimers / Dementia</span></a></li> <li class="leaf"><a href="/attr-condition-Ankle%2BPain.html" title="Ankle Pain"><span>Ankle Pain</span></a></li> <li class="leaf"><a href="/attr-condition-Arthritis.html" title="Arthritis"><span>Arthritis</span></a></li> <li class="leaf"><a href="/attr-condition-Asthma.html" title="Asthma"><span>Asthma</span></a></li> <li class="leaf"><a href="/attr-condition-Athletes%2BFoot.html" title="Athletes Foot"><span>Athletes Foot</span></a></li> <li class="leaf"><a href="/attr-condition-Back%2BPain.html" title="Back Pain"><span>Back Pain</span></a></li> <li class="leaf"><a href="/attr-condition-Balance%2Band%2BCore%2BStability.html" title="Balance / Core Stability"><span>Balance / Core Stability</span></a></li> <li class="leaf"><a href="/attr-condition-Bed%2BWetting.html" title="Bed Wetting"><span>Bed Wetting</span></a></li> <li class="leaf"><a href="/attr-condition-Bedridden.html" title="Bedridden"><span>Bedridden</span></a></li> <li class="leaf"><a href="/attr-condition-Blindness%2Bor%2BLow%2BVision.html" title="Blindness / Low Vision"><span>Blindness / Low Vision</span></a></li> <li class="leaf"><a href="/attr-condition-Carpal%2BTunnel.html" title="Carpal Tunnel"><span>Carpal Tunnel</span></a></li> <li class="leaf"><a href="/attr-condition-Cerebral%2BPalsy.html" title="Cerebral Palsy"><span>Cerebral Palsy</span></a></li> <li class="leaf"><a href="/attr-condition-Cold%2B-%2BFlu.html" title="Cold / Flu"><span>Cold / Flu</span></a></li> <li class="leaf"><a href="/attr-condition-Constipation.html" title="Constipation"><span>Constipation</span></a></li> <li class="leaf"><a href="/attr-condition-Crohns%2BDisease.html" title="Crohns Disease"><span>Crohns Disease</span></a></li> </ul></div><div style="width:150px; float:left"><ul> <li class="leaf"><a href="/attr-condition-Diabetes.html" title="Diabetes"><span>Diabetes</span></a></li> <li class="leaf"><a href="/attr-condition-Diaper%2BRash.html" title="Diaper Rash"><span>Diaper Rash</span></a></li> <li class="leaf"><a href="/attr-condition-Diarrhea.html" title="Diarrhea"><span>Diarrhea</span></a></li> <li class="leaf"><a href="/attr-condition-Foot%2BPain.html" title="Foot Pain"><span>Foot Pain</span></a></li> <li class="leaf"><a href="/attr-condition-Headache.html" title="Headache"><span>Headache</span></a></li> <li class="leaf"><a href="/attr-condition-Hearing%2BImpairment.html" title="Hearing Impairment"><span>Hearing Impairment</span></a></li> <li class="leaf"><a href="/attr-condition-Heartburn.html" title="Heartburn"><span>Heartburn</span></a></li> <li class="leaf"><a href="/attr-condition-Heel%2BSpurs.html" title="Heel Spurs"><span>Heel Spurs</span></a></li> <li class="leaf"><a href="/attr-condition-High%2BBlood%2BPressure.html" title="High Blood Pressure"><span>High Blood Pressure</span></a></li> <li class="leaf"><a href="/attr-condition-Hip%2BReplacement.html" title="Hip Replacement"><span>Hip Replacement</span></a></li> <li class="leaf"><a href="/attr-condition-Incontinence.html" title="Incontinence"><span>Incontinence</span></a></li> <li class="leaf"><a href="/attr-condition-Insomnia.html" title="Insomnia"><span>Insomnia</span></a></li> <li class="leaf"><a href="/attr-condition-Knee%2BPain.html" title="Knee Pain"><span>Knee Pain</span></a></li> <li class="leaf"><a href="/attr-condition-Knee%2BReplacement.html" title="Knee Replacement"><span>Knee Replacement</span></a></li> <li class="leaf"><a href="/attr-condition-Migraine.html" title="Migraine"><span>Migraine</span></a></li> <li class="leaf"><a href="/attr-condition-Multiple%2BSclerosis.html" title="Multiple Sclerosis"><span>Multiple Sclerosis</span></a></li> </ul></div><div style="width:150px; float:left"><ul> <li class="leaf"><a href="/attr-condition-Muscle%2BPain.html" title="Muscle Pain"><span>Muscle Pain</span></a></li> <li class="leaf"><a href="/attr-condition-Obesity.html" title="Obesity"><span>Obesity</span></a></li> <li class="leaf"><a href="/attr-condition-Paraplegia.html" title="Paraplegia"><span>Paraplegia</span></a></li> <li class="leaf"><a href="/attr-condition-Plantar%2BFasciitis.html" title="Plantar Fasciitis"><span>Plantar Fasciitis</span></a></li> <li class="leaf"><a href="/attr-condition-Post-Surgery.html" title="Post-Surgery"><span>Post-Surgery</span></a></li> <li class="leaf"><a href="/attr-condition-Pregnant%2B-%2BNewborn.html" title="Pregnant / Newborn"><span>Pregnant / Newborn</span></a></li> <li class="leaf"><a href="/attr-condition-Quadriplegia.html" title="Quadriplegia"><span>Quadriplegia</span></a></li> <li class="leaf"><a href="/attr-condition-Shin%2BSplints.html" title="Shin Splints"><span>Shin Splints</span></a></li> <li class="leaf"><a href="/attr-condition-Skin%2BCondition.html" title="Skin Condition"><span>Skin Condition</span></a></li> <li class="leaf"><a href="/attr-condition-Snoring.html" title="Snoring"><span>Snoring</span></a></li> <li class="leaf"><a href="/attr-condition-Stress.html" title="Stress"><span>Stress</span></a></li> <li class="leaf"><a href="/attr-condition-Stroke.html" title="Stroke"><span>Stroke</span></a></li> <li class="leaf"><a href="/attr-condition-Swallowing%2BDisorder.html" title="Swallowing Disorder"><span>Swallowing Disorder</span></a></li> <li class="leaf"><a href="/attr-condition-Tube%2BFeeding.html" title="Tube Feeding"><span>Tube Feeding</span></a></li> <li class="leaf"><a href="/attr-condition-Weight%2BGain%2BHelp.html" title="Weight Gain Help"><span>Weight Gain Help</span></a></li> <li class="leaf"><a href="/attr-condition-Weight%2BLoss%2BHelp.html" title="Weight Loss Help"><span>Weight Loss Help</span></a></li> </ul></div> <div class="gn_special last-child" style="width:450px; text-align:right; padding-right:10px;"><ul><li class="leaf"><a title="See all conditions" href="/browse/attributeMap.do"><span>See All Conditions...</span></a></li></ul></div> </div> </div></div> <div style="left: -9999px; top: -9999px;" class="gn_level1_fly gn_fly main col1" id="mn_mainfly_body"><div style="width: 64px; height: 36px; top: -36px;" class="gn_flytab"><div class="gn_shadow"><div class="gn_tl"></div><div class="gn_tr"></div><div class="gn_bl"></div><div class="gn_br"></div></div><a style="font-weight:bold" title="Shop by Body Part" href="/browse/shopByBodyPart.do" onclick="return false;"><span>Shop by Body Part</span></a></div><div class="gn_flybody"><div class="gn_shadow"><div class="gn_tl"></div><div class="gn_tr"></div><div class="gn_bl"></div><div class="gn_br"></div></div><div style="width: 400px" class="gn_col"> <div style="width:190px; float:left"><ul> <li class="leaf"><a title="Ankles" href="/browse/browseProducts.do?searchPhrase=ankles"><span>Ankles</span></a></li> <li class="leaf"><a title="Arm" href="/browse/browseProducts.do?searchPhrase=arm+sling"><span>Arm</span></a></li> <li class="leaf"><a title="Back" href="/attr-condition-Back%2BPain.html"><span>Back</span></a></li> <li class="leaf"><a title="Calf" href="/browse/browseProducts.do?searchPhrase=calf"><span>Calf</span></a></li> <li class="leaf"><a title="Chest" href="/attr-condition-Cold%2B%252F%2BFlu.html"><span>Chest</span></a></li> <li class="leaf"><a title="Circulatory System" href="/diagnostic-products-c521/blood-pressure-monitors-c3637.html"><span>Circulatory System</span></a></li> <li class="leaf"><a title="Feet" href="/orthopedics-orthotics-c528/ankle-foot-c4061.html"><span>Feet</span></a></li> <li class="leaf"><a title="Hamstring" href="/browse/browseProducts.do?searchPhrase=Hamstring"><span>Hamstring</span></a></li> <li class="leaf"><a title="Wrist, Elbow, Hand" href="/orthopedics-orthotics-c528/wrist-elbow-hand-c3675.html"><span>Wrist, Elbow, Hand</span></a></li> <li class="leaf"><a title="Head" href="/attr-condition-Headache.html"><span>Head</span></a></li> <li class="leaf"><a title="Heart" href="/diagnostic-products-c521/heart-rate-monitors-c4041.html"><span>Heart</span></a></li> <li class="leaf"><a title="Hip" href="/attr-condition-Hip%2BReplacement.html"><span>Hip</span></a></li> <li class="leaf"><a title="Ear" href="/attr-condition-Hearing%2BImpairment.html"><span>Ear</span></a></li> <li class="leaf"><a title="Elbow" href="/browse/browseProducts.do?searchPhrase=elbow"><span>Elbow</span></a></li> <li class="leaf"><a title="Eyes" href="/attr-condition-Blindness%2B%252F%2BLow%2BVision.html"><span>Eyes</span></a></li> <li class="leaf"><a title="Finger" href="/browse/browseProducts.do?searchPhrase=finger"><span>Finger</span></a></li> </ul></div><div style="width:205px; float:left"><ul> <li class="leaf"><a title="Knees" href="/orthopedics-orthotics-c528/knee-thigh-c3677.html"><span>Knees</span></a></li> <li class="leaf"><a title="Larynx" href="/daily-living-aids-c519/servox-digital-artificial-larynx-p189025.html"><span>Larynx</span></a></li> <li class="leaf"><a title="Lateral Ligament" href="/browse/browseProducts.do?searchPhrase=lateral+ligament"><span>Lateral Ligament</span></a></li> <li class="leaf"><a title="Lungs" href="/attr-condition-Asthma.html"><span>Lungs</span></a></li> <li class="leaf"><a title="Mouth" href="/attr-condition-Swallowing%2BDisorder.html"><span>Mouth</span></a></li> <li class="leaf"><a title="Neck" href="/orthopedics-orthotics-c528/neck-c3679.html"><span>Neck</span></a></li> <li class="leaf"><a title="Nose" href="/attr-condition-Allergies%252C%2BNasal.html"><span>Nose</span></a></li> <li class="leaf"><a title="Palm" href="/browse/browseProducts.do?searchPhrase=palm"><span>Palm</span></a></li> <li class="leaf"><a title="Penis" href="/impotence-c574.html"><span>Penis</span></a></li> <li class="leaf"><a title="Rectum" href="/browse/browseProducts.do?searchPhrase=suppository"><span>Rectum</span></a></li> <li class="leaf"><a title="Shoulder" href="/orthopedics-orthotics-c528/shoulder-c4102.html"><span>Shoulder</span></a></li> <li class="leaf"><a title="Thigh" href="/browse/browseProducts.do?searchPhrase=thigh"><span>Thigh</span></a></li> <li class="leaf"><a title="Thumb" href="/browse/browseProducts.do?searchPhrase=thumb"><span>Thumb</span></a></li> <li class="leaf"><a title="Toes" href="/browse/browseProducts.do?searchPhrase=toe"><span>Toes</span></a></li> <li class="leaf"><a title="Trachea" href="/browse/browseProducts.do?searchPhrase=trachea"><span>Trachea</span></a></li> <li class="leaf"><a title="Vagina" href="/browse/browseProducts.do?searchPhrase=menstrual"><span>Vagina</span></a></li> </ul></div> <div class="gn_special last-child" style="width:400px; text-align:right; padding-right:10px;"><ul><li class="leaf"><a title="See all body parts" href="/browse/shopByBodyPart.do"><span>See All Body Parts...</span></a></li></ul></div> </div> </div></div> <div style="left: -9999px; top: -9999px;" class="gn_level1_fly gn_fly main col1" id="mn_mainfly_store"><div style="width: 64px; height: 36px; top: -36px;" class="gn_flytab"><div class="gn_shadow"><div class="gn_tl"></div><div class="gn_tr"></div><div class="gn_bl"></div><div class="gn_br"></div></div><a style="font-weight:bold" title="Shop by Store" href="#" onclick="return false;"><span>Shop by Store</span></a></div><div class="gn_flybody"><div class="gn_shadow"><div class="gn_tl"></div><div class="gn_tr"></div><div class="gn_bl"></div><div class="gn_br"></div></div><div style="width: 200px" class="gn_col"> <div style="width:190px; float:left"><ul> <li class="leaf"><a style="width:200px" href="/medical-equipment-store"><span>Medical Equipment Store</span></a></li> <li class="leaf"><a style="width:200px" href="/mobility-equipment-store"><span>Mobility Equipment Store</span></a></li> <li class="leaf"><a style="width:200px" href="/incontinence-store"><span>Incontinence Store</span></a></li> <li class="leaf"><a style="width:200px" href="/medical-supplies-store"><span>Medical Supplies Store</span></a></li> <li class="leaf"><a style="width:200px" href="/wound-care-store"><span>Wound Care Store</span></a></li> <li class="leaf"><a style="width:200px" href="/dietary-supplement-store"><span>Dietary Supplement Store</span></a></li> <li class="leaf"><a style="width:200px" href="/diabetic-supplies-store"><span>Diabetic Supplies Store</span></a></li> <li class="leaf"><a style="width:200px" href="/catheter-store"><span>Catheter Store</span></a></li> </ul></div></div> </div></div> </div>									</div>
 								</div>
 						</div>
 					</div>
@@ -829,42 +1041,99 @@ jQuery(document).ready(function() {
 			Recently Viewed
 		</label>
 
-	<div id="rvMiniProd559635" class="hand-cursor sidebar-prod">
+	<div id="rvMiniProd207273" class="hand-cursor sidebar-prod">
 		<div class="sidebarProductBlock">
-			<a href="/incontinence-c525/attends-guards-for-men-unisize-p559635.html"><img src="http://images.allegrocentral.com/F6/B2/attends-guards-for-men-unisize-559635-SMALL_0.jpg" alt="Attends Guards for Men - Unisize" width="45" height="45" border="0" style="display:inline;text-align:middle"></a>
+			<a href="/personal-care-c532/t-foam-seat-cushion-t-foam-seat-cushion-p207273.html"><img src="http://images.allegrocentral.com/3D/7E/T-Foam-Seat-Cushion-207273-PRODUCT-SMALL_IMAGE.jpg" alt="T-Foam Seat Cushion" width="45" height="45" border="0" style="display:inline;text-align:middle"></a>
 		</div>
 
 		<div class="sidebarProductInfo">
-			<a style="white-space: normal;" href="/incontinence-c525/attends-guards-for-men-unisize-p559635.html"> Attends Guards for Men - Unisize</a>
+			<a style="white-space: normal;" href="/personal-care-c532/t-foam-seat-cushion-t-foam-seat-cushion-p207273.html"> T- Foam Seat Cushion</a>
 			
 			<br>
-			<span class="retail-price">$74.26</span>
-			<span class="our-price">$46.41</span>
+			<span class="retail-price">$76.50</span>
+			<span class="our-price">$47.81</span>
 				
 
 				
 		</div>
 	</div>
-	<script type="text/javascript">miniProductPageAjax('559635','rvMiniProd559635', 'recentlyViewed', '#000099');</script>
+	<script type="text/javascript">miniProductPageAjax('207273','rvMiniProd207273', 'recentlyViewed', '#000099');</script>
 					<div style="clear:both;border-top:1px gray dotted;height:1px"></div>
 
-	<div id="rvMiniProd189934" class="hand-cursor sidebar-prod">
+	<div id="rvMiniProd157461" class="hand-cursor sidebar-prod">
 		<div class="sidebarProductBlock">
-			<a href="/dietary-supplements-c522/nutren-2-0-p189934.html"><img src="http://images.allegrocentral.com/63/0B/nutren-2-0-189934-SMALL_0.jpg" alt="Nutren®  2.0" width="45" height="45" border="0" style="display:inline;text-align:middle"></a>
+			<a href="/personal-care-c532/comfort-bath-cleansing-system-p157461.html"><img src="http://images.allegrocentral.com/7D/D9/comfort-bath-personal-cleansing-washcloths-4pk-157461-SMALL_0.jpg" alt="Comfort Bath Personal Bathing Wipes - Bathing Wipe Washcloths - 4 Pack" width="45" height="45" border="0" style="display:inline;text-align:middle"></a>
 		</div>
 
 		<div class="sidebarProductInfo">
-			<a style="white-space: normal;" href="/dietary-supplements-c522/nutren-2-0-p189934.html"> Nutren® 2.0</a>
+			<a style="white-space: normal;" href="/personal-care-c532/comfort-bath-cleansing-system-p157461.html"> Comfort Bath Personal Bathing Wipes - Ba...</a>
 			
 			<br>
-			<span class="retail-price">$76.82</span>
-			<span class="our-price">$48.01</span>
+			<span class="retail-price">$37.62</span>
+			<span class="our-price">$23.51</span>
 				
 
 				
 		</div>
 	</div>
-	<script type="text/javascript">miniProductPageAjax('189934','rvMiniProd189934', 'recentlyViewed', '#000099');</script>
+	<script type="text/javascript">miniProductPageAjax('157461','rvMiniProd157461', 'recentlyViewed', '#000099');</script>
+					<div style="clear:both;border-top:1px gray dotted;height:1px"></div>
+
+	<div id="rvMiniProd562195" class="hand-cursor sidebar-prod">
+		<div class="sidebarProductBlock">
+			<a href="/cushions-covers-backs-c544/gel-e-2-wheelchair-cushions-with-gel-bladder-p562195.html"><img src="http://images.allegrocentral.com/EC/69/gel-e-2-wheelchair-cushions-with-gel-bladder-562195-SMALL_0.jpg" alt="Gel-E 2&quot; Wheelchair Cushions with Gel Bladder " width="45" height="45" border="0" style="display:inline;text-align:middle"></a>
+		</div>
+
+		<div class="sidebarProductInfo">
+			<a style="white-space: normal;" href="/cushions-covers-backs-c544/gel-e-2-wheelchair-cushions-with-gel-bladder-p562195.html"> Gel- E 2" Wheelchair Cushions with Gel B...</a>
+			
+			<br>
+			<span class="retail-price">$66.82</span>
+			<span class="our-price">$41.76</span>
+				
+
+				
+		</div>
+	</div>
+	<script type="text/javascript">miniProductPageAjax('562195','rvMiniProd562195', 'recentlyViewed', '#000099');</script>
+					<div style="clear:both;border-top:1px gray dotted;height:1px"></div>
+
+	<div id="rvMiniProd561500" class="hand-cursor sidebar-prod">
+		<div class="sidebarProductBlock">
+			<a href="/catheters-c539/latex-coude-foley-catheter-10ml-p561500.html"><img src="http://images.allegrocentral.com/74/44/latex-coude-foley-catheter-10ml-561500-SMALL_0.jpg" alt="Latex Coude Foley Catheter 10ML 5cc" width="45" height="45" border="0" style="display:inline;text-align:middle"></a>
+		</div>
+
+		<div class="sidebarProductInfo">
+			<a style="white-space: normal;" href="/catheters-c539/latex-coude-foley-catheter-10ml-p561500.html"> Latex Coude Foley Catheter 10ML 5cc</a>
+			
+			<br>
+			<span class="retail-price">$14.21</span>
+			<span class="our-price">$8.88</span>
+				
+
+				
+		</div>
+	</div>
+	<script type="text/javascript">miniProductPageAjax('561500','rvMiniProd561500', 'recentlyViewed', '#000099');</script>
+					<div style="clear:both;border-top:1px gray dotted;height:1px"></div>
+
+	<div id="rvMiniProd562336" class="hand-cursor sidebar-prod">
+		<div class="sidebarProductBlock">
+			<a href="/bathroom-assists-c517/padded-transfer-bench-and-commode-combo-p562336.html"><img src="http://images.allegrocentral.com/12/C9/padded-transfer-bench-and-commode-combo-562336-SMALL_0.jpg" alt="Padded Transfer Bench and Commode Combo" width="45" height="45" border="0" style="display:inline;text-align:middle"></a>
+		</div>
+
+		<div class="sidebarProductInfo">
+			<a style="white-space: normal;" href="/bathroom-assists-c517/padded-transfer-bench-and-commode-combo-p562336.html"> Padded Transfer Bench and Commode Combo</a>
+			
+			<br>
+			<span class="retail-price">$190.27</span>
+			<span class="our-price">$118.92</span>
+				
+
+				
+		</div>
+	</div>
+	<script type="text/javascript">miniProductPageAjax('562336','rvMiniProd562336', 'recentlyViewed', '#000099');</script>
 					<div style="clear:both"></div>
 	</div>
 
@@ -884,7 +1153,7 @@ jQuery(document).ready(function() {
 			<form action="/support/subscriptionCenter.do" method="GET">
 				<div>
 						<input name="email" style="width:155px" type="text" value="enter email address" id="ecatEmail" onfocus="erase(this); return false" onkeyup="updateEcatEmail(this)" onblur="revert(this); return false">
-						<input name="referringPage" type="hidden" id="referringPage" value="%2Fsupport%2FprivacyPolicy.do">
+						<input name="referringPage" type="hidden" id="referringPage" value="%2Fsupport%2FprivacyPolicy.do%3F">
 						<input name="js" type="hidden" value="off">
 						<input name="action" type="hidden" value="add">
 						<br>
@@ -939,7 +1208,7 @@ jQuery(document).ready( function()
 {
 	jQuery("#unexistingId").click( function() 
 	{ 
-		loadLocalDivInPopup('#eCatResponse', 'body', 520, 210, function() {});
+		loadLocalDivInPopup('#eCatResponse', 'body', 520, 210, function() {}, function() {});
 	});
 });
 </script>
@@ -983,7 +1252,7 @@ jQuery(document).ready( function()
 {
 	jQuery("#unexistingId2").click( function() 
 	{ 
-		loadLocalDivInPopup('#eCatWait', 'body', 100, 50, function() {});
+		loadLocalDivInPopup('#eCatWait', 'body', 100, 50, function() {}, function() {});
 	});
 });
 </script>
@@ -994,7 +1263,7 @@ jQuery(document).ready( function()
 </div>
 
 		<div style="border-bottom:1px solid #999;border-left:1px solid #999"><a href="/support/reOrderDetails.do">
-			<img src="http://static.allegromedical.com/images/browse/picture-menu/199shipping-left.png" alt="$1.99 Shipping on All Your Orders. Sign up for Auto-ReOrder!">
+			<img src="http://static.allegromedical.com/images/browse/picture-menu/monthly-d_banner.png" alt="Free Shipping on All Your Auto-Orders. Sign up for Monthly Delivery!">
 		</a></div>
 
 <div>
@@ -1103,7 +1372,10 @@ jQuery(document).ready( function()
 			</div>
 
 		</div>
-	</div>		<div id="foot">
+	</div>
+
+
+		<div id="foot">
 <div class="footer-main">
 	<table class="glossy-footer" width="100%" border="0" cellpadding="0" cellspacing="0">
 		<tbody><tr>
@@ -1171,14 +1443,16 @@ jQuery(document).ready( function()
 		<tbody><tr>
 			<td>
 				<img src="http://static.allegromedical.com/images/icons/secure-reliable-hdr.jpg" alt="Secure &amp; Reliable On-Line Shopping" style="display:block">
-				<a target="_BLANK" href="https://sealinfo.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=WWW.ALLEGROMEDICAL.COM&amp;lang=en"><img src="http://static.allegromedical.com/images/icons/verisign--secure-logo.jpg" alt="Verisign"></a>&nbsp;&nbsp;
-				<a target="_BLANK" href="http://www.bbb.org/central-northern-western-arizona/business-reviews/hospital-and-medical-equipment-and-supplies/allegro-medical-inc-in-mesa-az-9000823/#bbbonlineclick"><img src="http://static.allegromedical.com/images/icons/bbb-horiz-logo.jpg" alt="BBB Accredited Business"></a>&nbsp;
+				<a target="_BLANK" href="https://sealinfo.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=WWW.ALLEGROMEDICAL.COM&amp;lang=en"><img src="http://static.allegromedical.com/images/icons/norton-secured-logo.jpg" alt="Verisign"></a>&nbsp;&nbsp;
+				<a target="_BLANK" href="https://www.mcafeesecure.com/RatingVerify?ref=www.allegromedical.com"><img src="http://static.allegromedical.com/images/icons/mcafee-secure-logo.jpg" alt="McAfee Secure"></a>
+				<a target="_BLANK" href="http://www.bbb.org/central-northern-western-arizona/business-reviews/hospital-and-medical-equipment-and-supplies/allegro-medical-inc-in-mesa-az-9000823/#bbbonlineclick"><img src="http://static.allegromedical.com/images/icons/bbb-aplus-logo.jpg" alt="BBB Accredited Business"></a>&nbsp;
 				<a href="/support/privacyPolicy.do" rel="nofollow"><img src="http://static.allegromedical.com/images/icons/e-privacy-logo.jpg"></a>
 			</td>
 			<td style="border-left:1px solid #AAA">
 				<img src="http://static.allegromedical.com/images/icons/follow-am-hdr.jpg" alt="Follow Allegro Medical on Facebook &amp; Twitter" style="display:block">
 				<a href="http://www.facebook.com/pages/AllegroMedicalcom/74867746000"><img src="http://static.allegromedical.com/images/icons/facebook-logo.jpg" alt="Allegro on Facebook" style="margin-left:9px"></a>
-				<a href="http://twitter.com/#!/AllegroMedical"><img src="http://static.allegromedical.com/images/icons/twitter--logo.jpg" alt="Allegro on Twitter"></a>
+				<a href="http://twitter.com/#!/AllegroMedical"><img src="http://static.allegromedical.com/images/icons/twitter-logo.jpg" alt="Allegro on Twitter"></a>
+				<a href="/blog/feed"><img src="http://static.allegromedical.com/images/icons/rss-logo.jpg" alt="RSS Logo"></a>
 			</td>
 			<td style="border-left:1px solid #AAA">
 				<img src="http://static.allegromedical.com/images/icons/allegro-accepts-hdr.jpg" alt="Allegro Proudly Accepts" style="display:block">
@@ -1191,7 +1465,7 @@ jQuery(document).ready( function()
 <br>
 <table class="footest" cellpadding="3" cellspacing="0" id="BBBtable">
 	<tbody><tr>
-		<td align="left" valign="top" colspan="2">© 1997 - 2012 Allegro Medical Supplies Inc, a division of Scrip, Inc. All rights reserved.</td>
+		<td align="left" valign="top" colspan="2">© 1997 - 2013 Allegro Medical Supplies Inc, a division of Scrip, Inc. All rights reserved.</td>
 	</tr>
 	<tr>
 		<td align="left" valign="top" colspan="2">All trademarks and logos are property of their respective owners.</td>
@@ -1237,37 +1511,35 @@ var CID='10205';
 
 <!-- END: buySAFE Seal -->
 
-<div id="stickyFooter">
-<form action="/support/subscriptionCenter.do" target="_blank" method="get" id="stickyFooterSubscriptionForm">
-	<div class="footerSticky">
-
-		<div class="footerBar">
-			
-			<div class="outerBdr">
-				<div class="innerBdr">
-					<div id="ctl00_pnlEmailSignup" class="emailSignup">
+		<div id="stickyFooter">
+		<form action="/support/subscriptionCenter.do" target="_blank" method="get" id="stickyFooterSubscriptionForm">
+			<div class="footerSticky">
+				<div class="footerBar">
+					<div class="outerBdr">
+						<div class="innerBdr">
+							<div id="ctl00_pnlEmailSignup" class="emailSignup">
+							
+							<div class="footerSticky-close">X</div>
+							<div class="footerStickyText">
+							    Join 250,000+ Subscribers. Special Discounts, Coupons &amp; Deals:
+							</div>
+							
+							<input name="email" style="" type="text" class="text" value="enter email address" id="ecatEmail" onfocus="erase(this); return false" onblur="revert(this); return false">
+							<input name="referringPage" type="hidden" id="referringPage" value="%2Fsupport%2FprivacyPolicy.do%3F">
+		  					<input name="action" type="hidden" value="add">
+							<input class="submit" type="submit" value="Signup">
+						
+							<script type="text/javascript" src="http://static.allegromedical.com/include/js/ecat-subscribe.js"></script>
 					
-					<div class="footerSticky-close">X</div>
-					<div class="footerStickyText">
-					    Join 250,000+ Subscribers. Special Discounts, Coupons &amp; Deals:
+							</div>
+							<div class="clear">&nbsp;</div>
+							
+						</div>
 					</div>
-					
-					<input name="email" style="" type="text" class="text" value="enter email address" id="ecatEmail" onfocus="erase(this); return false" onblur="revert(this); return false">
-					<input name="referringPage" type="hidden" id="referringPage" value="%2Fsupport%2FprivacyPolicy.do">
-  					<input name="action" type="hidden" value="add">
-					<input class="submit" type="submit" value="Signup">
-				
-					<script type="text/javascript" src="http://static.allegromedical.com/include/js/ecat-subscribe.js"></script>
-			
-					</div>
-					<div class="clear">&nbsp;</div>
-					
 				</div>
 			</div>
+		</form>
 		</div>
-	</div>
-</form>
-</div>
 
 
 
