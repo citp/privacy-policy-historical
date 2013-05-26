@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the gurneys.com privacy policy that was archived on 2012-12-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121227174718id_/http%3A//gurneys.com/Privacy-Policy/a/112) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gurneys.com privacy policy that was archived on 2013-05-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130526225116id_/http%3A//www.gurneys.com/Privacy-Policy/a/112) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 
@@ -17,29 +17,36 @@
 <meta name="distribution" content="Global">
 <link rel="Stylesheet" type="text/css" href="/custom/style.css">
 <link rel="Stylesheet" type="text/css" href="/style.asp?si=CustomStyle1">
-<script language="JavaScript" type="text/javascript" src="/js/util.js">
-</script>
 
 
 
+<script language="JavaScript" type="text/javascript" src="/js/util.js"></script>
+
+<script language="JavaScript" type="text/javascript" src="/js/jquery.js"></script>
+    <script language="JavaScript" type="text/javascript" src="/js/jquery-ui.js"></script>
+    <script language="JavaScript" type="text/javascript" src="/js/jquery.cookie.js"></script>
+    <script language="JavaScript" type="text/javascript" src="/js/jquery-plugins.js"></script>
+    <script language="JavaScript" type="text/javascript" src="/js/jquery-ready.js"></script>
+
+<script src="//www.universalcookie.com/js/ucxmin.0.2.js" type="text/javascript"></script>
 
 
-<base href="http://gurneys.com/">
+
+<base href="http://www.gurneys.com/">
+
 <script type="text/javascript">
 
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-456121-3']);
-_gaq.push(['_setSiteSpeedSampleRate', 5]);
-  _gaq.push(['_trackPageview']);
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-456121-3']);
+_gaq.push(['_trackPageview']);
 
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
 
 </script>
-
 
 <!-- Begin Hiconversion Head Enabling. Do NOT move. Must come directly before the closing head tag -->
 <script id="hiconversion_head_include" type="text/javascript" src="https://www.hiconversion.com/enabling/update.jsp?external=&amp;version=1.0"></script>
@@ -76,38 +83,55 @@ var google_conversion_value = 0;
 
 <script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 
-<body onload="openSizedPopUp('http://gurneys.com/pop_promo.asp',450,450);">
+<body id="PopPromo" onload="openSizedPopUp('/pop_promo.asp',450,450);">
 <center>
 
 <!-- TOPPER CONTENT -->
 <table width="960" cellpadding="0" cellspacing="0" border="0" id="topper">
 	<tbody><tr>
 		<td width="167" valign="middle" align="left" style="padding:4px;">
-		<a href="/default.asp"><img src="http://cdnll.gurneys.com/images/art/logo.gif" title="Gurney's - Home Page" alt="Gurney's - Home Page" border="0"></a><br>
+		<a href="/default.asp"><img src="/images/art/logo.gif" title="Gurney's - Home Page" alt="Gurney's - Home Page" border="0"></a><br>
 		</td>
 		<td width="305" valign="bottom" align="left" style="padding-bottom:5px;padding-left:10px"></td>
-		<td width="88" valign="bottom" align="right"><a href="/todaydeals/c/167/"><img src="http://cdnll.gurneys.com/images/art/todaysdeals.gif"><br></a></td>
-		<td width="220" valign="top" align="right" style="padding:4px;"><form name="frmSearch_LN" action="/search.asp" method="get">
+		<td width="88" valign="bottom" align="right"><a href="/todaydeals/c/167/"><img src="/images/art/todaysdeals.gif"><br></a></td>
+		<td width="220" valign="top" align="right" style="padding:4px;">
+
+
+
+
 <table height="60" cellpadding="0" cellspacing="0" border="0">
 <tbody><tr>
-	<td valign="top" align="right" colspan="2">
+	<td valign="top" align="right">
 	<div>
-	<a href="/help/a/286/" class="nav">HELP</a> | <a href="/login.asp?login_type=order_history" class="nav">ORDER STATUS</a> | <a href="/cart.asp" class="nav">GO TO CART</a>
-	</div>
-	</td>
+	<a href="/help/a/286/" class="nav">HELP</a>&nbsp;|&nbsp;<a href="https://secure.gurneys.com/login.asp?login_type=order_history" class="nav">ORDER STATUS</a>&nbsp;|&nbsp;
+    <div id="viewCart" style="display: inline;">
+                    <input type="hidden" id="itemCount" value="0">
+                    <a href="/cart.asp" rel="nofollow,noindex" class="nav">GO TO CART</a>                    
+                </div>
+                
+	</div></td>
 </tr>
 <tr>
-	<td valign="bottom" align="right">
-	<div id="search">
-	<input type="text" class="input" name="ss" value="Enter Keyword or Item #" onfocus="if (this.value == 'Enter Keyword or Item #') { this.value = ''; }" onblur="if (this.value == '') { this.value = 'Enter Keyword or Item #'; }">
-	</div>
-	</td>
-	<td valign="bottom" align="left">
-	<input type="image" src="http://cdnll.gurneys.com/images/art/buttonsearch.gif">
-	</td>
+    <td>
+    <form name="frmSearch_LN" action="/search.asp" method="get">
+        <table cellpadding="0" cellspacing="0" border="0">
+            <tbody><tr>
+	            <td valign="bottom" align="right">    
+	                <div id="search">
+	                    <input type="text" class="input" name="ss" value="Enter Keyword or Item #" onfocus="if (this.value == 'Enter Keyword or Item #') { this.value = ''; }" onblur="if (this.value == '') { this.value = 'Enter Keyword or Item #'; }">
+	                </div>
+	            </td>
+	            <td valign="bottom" align="left">
+	                <input type="image" src="/images/art/buttonsearch.gif">
+	            </td>
+            </tr>
+        </tbody></table>
+    </form>
+    </td>
 </tr>
 </tbody></table>
-</form>
+
+
 </td>
 	</tr>
 </tbody></table>
@@ -117,9 +141,9 @@ var google_conversion_value = 0;
 <a href="/quick_order.asp">Catalog Quick Order</a> 
 <a href="/catalog_request_qas.asp">Free Catalog</a>
 <a href="/newsletter/a/615/">Free Newsletter</a>
-<a href="/findzone/a/665/">Find Garden Zone</a> 
 <a href="/search.asp_Q_t_E_n">New</a> 
-<a href="/search.asp_Q_t_E_s">Sale</a></td>
+<a href="/search.asp_Q_t_E_s">Sale</a>
+<a href="web-exclusive/c/578">Web Exclusive</a></td>
 	</tr>
 </tbody></table>
 
@@ -161,6 +185,7 @@ var google_conversion_value = 0;
 <a href="/growing-supplies-and-aids/c/1/" class="navlevel0">Growing Supplies and Aids</a>
 <a href="/sprouting-seeds-and-supplies/c/278/" class="navlevel0">Sprouting Seeds &amp; Supplies</a>
 <a href="/heirloom-vegetables/c/291/" class="navlevel0">Heirloom Vegetables</a>
+<a href="/web-exclusive/c/578/" class="navlevel0">Web Exclusive</a>
 
 <br>
 <img width="219px" style="width:219px !important; height:1px !important;" height="1px" src="/images/art/onepixel.gif">
@@ -245,158 +270,73 @@ if (!reg1.test(str) && reg2.test(str))
 // -->
 </script>
 
-<table bgcolor="FFFF33" width="961" cellpadding="0" cellspacing="0" border="0" style="padding: 2px 20px 2px 20px;border-left:1px solid #aaaaaa;border-right:1px solid #aaaaaa;border-bottom:1px solid #aaaaaa;border-top:1px solid #aaaaaa" id="email">
-<form name="frmEmail_LN" action="/prg_newsletter.asp" method="post" onsubmit="return newsletterSignUp(this);"></form>
+
+<form name="frmEmail_LN" action="/prg_newsletter.asp" method="post" onsubmit="return newsletterSignUp(this);">
+
+<input type="hidden" value="email_offer" name="type">
+<input type="hidden" value="article" name="pagename">
+<input type="hidden" value="footer" name="location">
+<input type="hidden" value="Y" name="hdnFooterNewsletter"> 
+
 <script src="/js/ajax.asp"></script>
+
+<table bgcolor="FFFF33" width="961" cellpadding="0" cellspacing="0" border="0" style="padding: 2px 20px 2px 20px;border-left:1px solid #aaaaaa;border-right:1px solid #aaaaaa;border-bottom:1px solid #aaaaaa;border-top:1px solid #aaaaaa" id="email">
+
 	<tbody><tr>
 		<td valign="bottom" align="center">
 		<table cellpadding="2" cellspacing="0" border="0" width="100%">
 		<tbody><tr>
 			<td valign="middle" align="right"><span class="header">Get the latest <font color="#CC0000">DEALS</font> from Gurney's - sign up for our email newsletter &gt;&gt;</span></td>
 			<td valign="middle" width="100px" align="left" nowrap=""><input type="text" class="input" name="email" maxlength="255" value="Enter Your Email Address Here" onfocus="if (this.value == 'Enter Your Email Address Here') { this.value = ''; }" onblur=" addNewsletterEmail(this.value);  if (this.value == '') { this.value = 'Enter Your Email Address Here'; }"></td>
-		<td valign="middle" align="left"><input type="image" src="http://cdnll.gurneys.com/images/art/Signup.gif" align="bottom"></td>	
+		<td valign="middle" align="left"><input type="image" src="/images/art/Signup.gif" align="bottom"></td>	
 		</tr>
 		</tbody></table>
 		</td>
 	</tr>
-<input type="hidden" value="Y" name="hdnFooterNewsletter"> 
 
 </tbody></table>
 
+</form>
 
 <!-- END CENTER -->
 
 <!-- FOOTER CONTENT -->
 <!-- footer -->
-<table width="941" cellpadding="10" cellspacing="0" border="0" id="footer" style="margin-top:10px;">
-	<tbody><tr>
-		<td><!-- 
-<table cellpadding="2" cellspacing="0" border="0">
-		<tr>
-		<td align="center">
-			<div align="center" style="width:720px;border:1px solid #aaaaaa;">
-			  <p class="headera">Popular Searches at HenryFields</p>
-			  <p><a href="/Shrubs/c/59/">shrubs</a>, <a href="/Seed-Starting-Supplies/c/49/">seed starter</a>, <a href="/category/patio_house_plants">mail order plants</a>, <a href="/Potato-Plants-and-Potato-Sets/c/80/">potato</a>, <a href="/vegetable-seed/c/10/">vegetable seeds</a>, <a href="/flower-bulbs/c/4/">flower bulbs</a>, <a href="/Tomato-Seed/c/113/">tomato seed</a>, <a href="/Apple-Trees/c/28/">apple trees</a>,<br />
-			  <a href="/Garlic-Bulbs/c/76/">garlic</a>, <a href="/roses-perennials/c/3/">perennial plants</a>, <a href="/Onion-Plants-and-Onion-Sets/c/79/">onion sets</a>, <a href="/flower-bulbs/c/4/">tulip bulbs</a>, <a href="/fruit-nut-trees/c/9/">fruit tree</a>, <a href="/catalog_request/">seed catalog</a>, <a href="/Seed-Starting-Supplies/c/49/">seed starting kits</a>, <a href="/Lily-Bulbs/c/25/">daylily</a>, <a href="/Strawberry-Plants/c/69/">strawberry plants</a></p>
-			</div><br />
-			</td>
-		  </tr>
-		  </table>
--->
-<a href="/quick_order.asp">Catalog Quick Order</a> &nbsp;|&nbsp; <a href="/catalog_request_qas.asp">Catalog Request</a> &nbsp;|&nbsp; <a href="/login.asp?login_type=order_history">Order Status</a> &nbsp;|&nbsp; <a href="/shipping-information/a/102/">Shipping Information</a> &nbsp;|&nbsp; <a href="/Planting&amp;Care/a/570/">Planting &amp; Care</a> <br><a href="/Customer-Service/a/286/">Customer Service</a> &nbsp;|&nbsp; <a href="/Hardiness-Zones/a/665/">Hardiness Zones</a> &nbsp;|&nbsp; <a href="/No-Risk-Guarantee/a/103/">No-Risk Guarantee</a> &nbsp;|&nbsp; 
+<table width="941" cellpadding="10" cellspacing="0" border="0" id="footer" style="margin-top: 10px;">
+    <tbody><tr>
+        <td>
+            <a href="/quick_order.asp">Catalog Quick Order</a> &nbsp;|&nbsp; <a href="/catalog_request_qas.asp?location=footer&amp;type=catalog_request&amp;pagename=article">Catalog Request</a> &nbsp;|&nbsp; <a href="https://secure.gurneys.com/login.asp?login_type=order_history">Order Status</a> &nbsp;|&nbsp; <a href="/shipping-information/a/102/">Shipping Information</a> &nbsp;|&nbsp; <a href="/Planting&amp;Care/a/570/">Planting &amp; Care</a> <br><a href="/Customer-Service/a/286/">Customer Service</a> &nbsp;|&nbsp; <a href="/Hardiness-Zones/a/665/">Hardiness Zones</a> &nbsp;|&nbsp; <a href="/No-Risk-Guarantee/a/103/">No-Risk Guarantee</a> &nbsp;|&nbsp; 
 <a href="/Privacy-Policy/a/112/">Privacy Policy</a> &nbsp;|&nbsp; <a href="/Become-an-Affiliate/a/342/">Become an Affiliate</a>&nbsp;|&nbsp; <a href="/Sitemap/">Site Map</a>
 
-		
-	</td></tr><tr>
-		<!--<td style="color:#FFFFFF; background:#006600""><strong>Gardening Sites:</strong> &nbsp;
-<a href="http://springhillnursery.com" style="font-weight:normal; color:#FFFFFF;">Garden Plants</a> at <a href="http://springhillnursery.com" style="font-weight:normal; color:#FFFFFF;">Spring Hill Nursery</a>: <a href="http://springhillnursery.com/catalog_request_qas.asp" style="font-weight:normal; color:#FFFFFF;">Garden Catalog</a>, <a href="http://springhillnursery.com/gardens/c/14/" style="font-weight:normal; color:#FFFFFF;">Garden Design</a>, <a href="http://springhillnursery.com/sun-perennial-flowers/c/1716/" style="font-weight:normal; color:#FFFFFF;">Perennials</a>, <a href="http://springhillnursery.com/shrubs-and-hedges/c/10/" style="font-weight:normal; color:#FFFFFF;>Shrubs</a>, <a href="http://springhillnursery.com/ground-cover/c/2/" style="font-weight:normal; color:#FFFFFF;">Ground Covers</a>, <a href="http://springhillnursery.com/flowering-trees/c/12/" style="font-weight:normal; color:#FFFFFF;">Flowering Trees</a>, and more! &nbsp;| &nbsp;
-
-<a href="http://audubonworkshop.com/" style="font-weight:normal; color:#FFFFFF;">Audubon Workshop</a>: <a href="http://audubonworkshop.com/catalog_request_qas.asp" style="font-weight:normal; color:#FFFFFF;">Bird Catalog</a>, <a href="http://audubonworkshop.com/category.asp_Q_c_E_116" style="font-weight:normal; color:#FFFFFF;">Bluebird Food</a>, <a href="http://audubonworkshop.com/category.asp_Q_c_E_266" style="font-weight:normal; color:#FFFFFF;">Bird Grub</a>, <a href="http://audubonworkshop.com/category.asp_Q_c_E_266" style="font-weight:normal; color:#FFFFFF;">Bird Feeders</a>, <a href="http://audubonworkshop.com/category.asp_Q_c_E_266" style="font-weight:normal; color:#FFFFFF;">Bird Food</a>
-&nbsp;| &nbsp;
-
-Environmentally Responsible <a href="http://www.gardensalive.com/" style="font-weight:normal; color:#FFFFFF;">Gardening Products</a> that Work – <a href="http://www.gardensalive.com/" style="font-weight:normal; color:#FFFFFF;">Gardens Alive</a>! <a href="http://www.gardensalive.com/product.asp?pn=8862&ss=corn%20gluten" style="font-weight:normal; color:#FFFFFF;">Corn Gluten</a>, <a href="http://www.gardensalive.com/product.asp?pn=5065" style="font-weight:normal; color:#FFFFFF;">Live Ladybugs</a>, <a href="http://www.gardensalive.com/search.asp?ss=row+covers&x=15&y=14" style="font-weight:normal; color:#FFFFFF;">Row Covers</a>, <a href="http://www.gardensalive.com/product.asp?pn=8101&ss=pyola" style="font-weight:normal; color:#FFFFFF;">Pyola</a> and more!
-&nbsp;| &nbsp;
-
-<a href="http://brecks.com/" style="font-weight:normal; color:#FFFFFF;">Flower Bulbs</a> at <a href="http://brecks.com/" style="font-weight:normal; color:#FFFFFF;">Breck’s</a>: <a href="http://brecks.com/" style="font-weight:normal; color:#FFFFFF;">Premium Dutch Bulbs</a>, <a href="http://brecks.com/category.asp_Q_c_E_7_A_l_E_1_A_g_E_1" style="font-weight:normal; color:#FFFFFF;">Tulips</a>, <a href="http://brecks.com/category.asp_Q_c_E_141_A_l_E_2_A_g_E_2" style="font-weight:normal; color:#FFFFFF;">Daylilies</a>, <a href="http://brecks.com/category.asp_Q_c_E_3_A_l_E_1_A_g_E_1" style="font-weight:normal; color:#FFFFFF;">Daffodils</a>, <a href="http://brecks.com/category.asp_Q_c_E_36_A_l_E_1_A_g_E_2" style="font-weight:normal; color:#FFFFFF;">Dahlias</a>, <a href="http://brecks.com/category.asp_Q_c_E_141_A_l_E_2_A_g_E_2" style="font-weight:normal; color:#FFFFFF;">Peonies</a>, <a href="http://brecks.com/category.asp_Q_c_E_34_A_l_E_1_A_g_E_1" style="font-weight:normal; color:#FFFFFF;">Amaryllis</a> and more, Direct to You from Holland!
-&nbsp;| &nbsp;
-</tr></td></table> -->
-
-</tr></tbody></table><table width="941" cellpadding="10" cellspacing="0" border="0" id="footer" style="margin-top:10px;">
-
-<tbody><tr>
-		<td style="color:#006600; background:#EFF7C4" "=""><strong>Most Popular Searches:</strong> &nbsp; 
-<!--<a href="http://gurneys.com/catalog_request_qas.asp" style="font-weight:normal; color:#006600;">seed catalog</a> |-->
-<a href="http://gurneys.com/vegetable-seeds/c/10/" style="font-weight:normal; color:#006600;">garden seeds</a> | 
-<!--<a href="http://gurneys.com/fruit-trees-and-nut-trees/c/9/" style="font-weight:normal; color:#006600;">fruit tree</a> | 
-<a href="http://gurneys.com/vegetable-seeds/c/10/" style="font-weight:normal; color:#006600;">vegetable seeds</a> |-->
-<a href="http://gurneys.com/strawberry-plants/c/69/" style="font-weight:normal; color:#006600;">strawberry plants</a> | 
-<!--<a href="http://gurneys.com/catalog_request_qas.asp" style="font-weight:normal; color:#006600;">seed catalogs</a> | 
-<a href="http://gurneys.com/vegetable-seeds/c/10/" style="font-weight:normal; color:#006600;">seed company</a> | -->
-<a href="http://gurneys.com/asparagus-plants/c/75/" style="font-weight:normal; color:#006600;">asparagus</a> | 
-<!--<a href="http://gurneys.com/perennials-and-roses/c/3/" style="font-weight:normal; color:#006600;">garden plants</a> | 
-<a href="http://gurneys.com/strawberry-plants/c/69/" style="font-weight:normal; color:#006600;">strawberry plants for sale</a> | 
-<a href="http://gurneys.com/vegetable-seeds/c/10/" style="font-weight:normal; color:#006600;">seeds plants </a> | 
-<a href="http://gurneys.com/perennials-and-roses/c/3/" style="font-weight:normal; color:#006600;">plants for sale</a> | 
-<a href="http://gurneys.com/vegetable-seeds/c/10/" style="font-weight:normal; color:#006600;">seed potatoes</a> | 
-<a href="http://gurneys.com/strawberry-plants/c/69/" style="font-weight:normal; color:#006600;">strawberry</a> | 
-<a href="http://gurneys.com/vegetable-plants/c/8/" style="font-weight:normal; color:#006600;">vegetable plants</a> | 
-<a href="http://gurneys.com/vegetable-seeds/c/10/" style="font-weight:normal; color:#006600;">seed companies</a> | 
-<a href="http://gurneys.com/perennials-and-roses/c/3/" style="font-weight:normal; color:#006600;">online nursery</a> | 
-<a href="http://gurneys.com/sweet-potatoes/c/139/" style="font-weight:normal; color:#006600;">sweet potato plants</a> | 
-<a href="http://gurneys.com/" style="font-weight:normal; color:#006600;">seed and nursery</a> | 
-<a href="http://gurneys.com/fruit-trees-and-nut-trees/c/9/" style="font-weight:normal; color:#006600;">apple trees</a> |
-<a href="http://gurneys.com/perennials-and-roses/c/3/" style="font-weight:normal; color:#006600;">nursery plants</a> | -->
-<a href="http://gurneys.com/blueberry-plants/c/62/" style="font-weight:normal; color:#006600;">blueberry plants</a> | 
-<a href="http://gurneys.com/article.asp?ai=802" style="font-weight:normal; color:#006600;">care for trees</a> | 
-<a href="http://gurneys.com/corn-seed/c/92/" style="font-weight:normal; color:#006600;">corn seeds</a> | 
-<a href="http://gurneys.com/garden-bulbs/c/4/" style="font-weight:normal; color:#006600;"> flowering bulbs</a> | 
-<a href="http://gurneys.com/perennials-and-roses/c/3/" style="font-weight:normal; color:#006600;"> flowers and plants</a> |
-<a href="http://gurneys.com/flowering-vine-plants/c/37/" style="font-weight:normal; color:#006600;"> flowers and vines</a> |
-<a href="http://gurneys.com/fruit-trees-and-nut-trees/c/9/" style="font-weight:normal; color:#006600;"> fruit trees</a> |
-<a href="http://gurneys.com/small-fruit-and-berries/c/12/" style="font-weight:normal; color:#006600;"> fruit plants</a> |
-<a href="http://gurneys.com/article.asp?ai=801" style="font-weight:normal; color:#006600;"> how to care for plants</a> |
-<a href="http://gurneys.com/article.asp?ai=799" style="font-weight:normal; color:#006600;"> how to plant seeds</a> |
-<a href="http://gurneys.com/search.asp?ss=perennial&amp;x=0&amp;y=0/" style="font-weight:normal; color:#006600;"> nursery plants</a> |
-<a href="http://gurneys.com/category.asp?c=352/" style="font-weight:normal; color:#006600;"> nursery trees for sale</a> |
-<a href="http://gurneys.com/flowering-vine-plants/c/37/" style="font-weight:normal; color:#006600;"> plants and vines</a> |
-<a href="http://gurneys.com/house-plants/c/51/" style="font-weight:normal; color:#006600;"> plants for home</a> |
-<a href="http://gurneys.com/potato-plants-and-potato-sets/c/80/" style="font-weight:normal; color:#006600;"> potatoes plant</a> |
-<a href="http://gurneys.com/article.asp?ai=161" style="font-weight:normal; color:#006600;"> seed grow</a> |
-<a href="http://gurneys.com/sweet-potatoes/c/139/" style="font-weight:normal; color:#006600;"> sweet potatoes</a> |<br>
-
-<!--<a class="tf_upfront_badge" href="http://www.thefind.com/store/about-gurneys" title="TheFind Upfront" style="font-weight:normal; color:#006600;">Gurney's Seed & Nursery is <u>Upfront</u></a>
-
-  <script type="text/javascript">
-
-    (function() {
-
-      var upfront = document.createElement('SCRIPT'); upfront.type = "text/javascript"; upfront.async = true;
-
-      upfront.src = document.location.protocol + "//upfront.thefind.com/scripts/main/utils-init-ajaxlib/upfront-badgeinit.js";
-
-      upfront.text = "thefind.upfront.init('tf_upfront_badge', '262dd47f291098ac5b2f8c4ec5d1f2af')";
-
-      document.getElementsByTagName('HEAD')[0].appendChild(upfront);
-
-    })();
-
-  </script>
-
--->
-
-<!--<a href="http://gurneys.com/onion-plants-and-onion-sets/c/79/" style="font-weight:normal; color:#006600;">onion sets</a> | 
-<a href="http://gurneys.com/raspberry-plants/c/68/" style="font-weight:normal; color:#006600;">raspberry plants</a> | 
-<a href="http://gurneys.com/asparagus-plants/c/75/" style="font-weight:normal; color:#006600;">for sale asparagus</a> | 
-<a href="http://gurneys.com/asparagus-plants/c/75/" style="font-weight:normal; color:#006600;">asparagus</a> | 
-<a href="http://gurneys.com/raspberry-plants/c/68/" style="font-weight:normal; color:#006600;">raspberry</a> | 
-<a href="http://gurneys.com/fruit-trees-and-nut-trees/c/9/" style="font-weight:normal; color:#006600;">nut trees</a> | 
-<a href="http://gurneys.com/raspberry-plants/c/68/" style="font-weight:normal; color:#006600;">raspberries</a> | 
-<a href="http://gurneys.com/blueberry-plants/c/62/" style="font-weight:normal; color:#006600;">blueberries</a> | 
-<a href="http://gurneys.com/vegetable-seeds/c/10/" style="font-weight:normal; color:#006600;">garden seed</a> | 
-<a href="http://gurneys.com/shrubs--hedges-and-grasses/c/11/" style="font-weight:normal; color:#006600;">shrubs online</a> | 
-<a href="http://gurneys.com/blackberry-plants/c/61/" style="font-weight:normal; color:#006600;">blackberries</a> | 
-<a href="http://gurneys.com/rhubarb-plants/c/81/" style="font-weight:normal; color:#006600;">rhubarb plants</a> | 
-<a href="http://gurneys.com/fruit-trees-and-nut-trees/c/9/" style="font-weight:normal; color:#006600;">fruit trees for sale</a> | 
-<a href="http://gurneys.com/fruit-trees-and-nut-trees/c/9/" style="font-weight:normal; color:#006600;">fruittree</a> |
-<a href="http://gurneys.com/sweet-corn-seed/c/148/" style="font-weight:normal; color:#006600;">sweet corn seed</a> | 
-<a href="http://gurneys.com/potato-plants-and-potato-sets/c/80/" style="font-weight:normal; color:#006600;">seed potato</a> | 
-<a href="http://gurneys.com/vegetable-plants/c/8/" style="font-weight:normal; color:#006600;">garden vegetable</a> | 
-<a href="http://gurneys.com/rhubarb-plants/c/81/" style="font-weight:normal; color:#006600;">rhubarb</a> |
-<a href="http://gurneys.com/strawberry-plants/c/69/" style="font-weight:normal; color:#006600;">plant strawberry</a> | 
-<a href="http://gurneys.com/shrubs/c/59/" style=" font-weight:normal; color:#006600;">lilac bushes</a> |
-<a href=" http://gurneys.com/catalog_request_qas.asp" style="font-weight:normal; color:#006600;">vegetable seeds catalog</a> | 
-<a href="http://gurneys.com/strawberry-plants/c/69/" style="font-weight:normal; color:#006600;">strawberries</a> | 
-<a href="http://gurneys.com/vegetable-seeds/c/10/" style="font-weight:normal; color:#006600;">seeds</a> | 
-<a href="http://gurneys.com/blackberry-plants/c/61/" style="font-weight:normal; color:#006600;">plant blackberry</a> | 
-<a href="http://gurneys.com/potato-plants-and-potato-sets/c/80/" style="font-weight:normal; color:#006600;">potato</a> | 
-<a href="http://gurneys.com/strawberry-plants/c/69/" style="font-weight:normal; color:#006600;">garden strawberry</a> | -->
-
-
-
-<br><br>
-		Copyright <a href="http://gurneys.com/article.asp?ai=686" style="font-weight:normal; color:#006600;">©</a>; 2012 Scarlet Tanager LLC, d/b/a Gurney  Seed and Nursery Co. All Rights Reserved<br>Gurney's trademarks are registered trademarks of Scarlet Tanager LLC
-		</td>
-	</tr>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <table width="941" cellpadding="10" cellspacing="0" border="0" id="footer" style="margin-top: 10px;">
+                <tbody><tr>
+                    <td style="color: #006600; background: #EFF7C4" "="">
+                        <strong>Most Popular Searches:</strong> &nbsp; <a href="/vegetable-seeds/c/10/" style="font-weight: normal; color: #006600;">garden seeds</a> | <a href="/strawberry-plants/c/69/" style="font-weight: normal; color: #006600;">strawberry plants</a> | <a href="/asparagus-plants/c/75/" style="font-weight: normal; color: #006600;">asparagus</a> | <a href="/blueberry-plants/c/62/" style="font-weight: normal; color: #006600;">blueberry plants</a>
+                        | <a href="/article.asp?ai=802" style="font-weight: normal; color: #006600;">
+                            care for trees</a> | <a href="/corn-seed/c/92/" style="font-weight: normal;
+                                color: #006600;">corn seeds</a> | <a href="/garden-bulbs/c/4/" style="font-weight: normal; color: #006600;">flowering bulbs</a> | <a href="/perennials-and-roses/c/3/" style="font-weight: normal; color: #006600;">flowers and plants</a>
+                        | <a href="/flowering-vine-plants/c/37/" style="font-weight: normal;
+                            color: #006600;">flowers and vines</a> | <a href="/fruit-trees-and-nut-trees/c/9/" style="font-weight: normal; color: #006600;">fruit trees</a> | <a href="/small-fruit-and-berries/c/12/" style="font-weight: normal; color: #006600;">fruit plants</a> | <a href="/article.asp?ai=801" style="font-weight: normal; color: #006600;">how to care for plants</a>
+                        | <a href="/article.asp?ai=799" style="font-weight: normal; color: #006600;">
+                            how to plant seeds</a> | <a href="/search.asp?ss=perennial&amp;x=0&amp;y=0/" style="font-weight: normal; color: #006600;">nursery plants</a> | <a href="/category.asp?c=352/" style="font-weight: normal; color: #006600;">nursery trees for sale</a>
+                        | <a href="/flowering-vine-plants/c/37/" style="font-weight: normal;
+                            color: #006600;">plants and vines</a> | <a href="/house-plants/c/51/" style="font-weight: normal; color: #006600;">plants for home</a> | <a href="/potato-plants-and-potato-sets/c/80/" style="font-weight: normal; color: #006600;">potatoes plant</a> | <a href="/article.asp?ai=161" style="font-weight: normal; color: #006600;">seed grow</a> | <a href="/sweet-potatoes/c/139/" style="font-weight: normal; color: #006600;">sweet potatoes</a>
+                        |<br>
+                        <br>
+                        <br>
+                        Copyright <a href="/article.asp?ai=686" style="font-weight: normal;
+                            color: #006600;">©</a>; 2013 Scarlet Tanager LLC, d/b/a Gurney Seed and
+                        Nursery Co. All Rights Reserved<br>
+                        Gurney's trademarks are registered trademarks of Scarlet Tanager LLC
+                    </td>
+                </tr>
+            </tbody></table>
+        </td>
+    </tr>
 </tbody></table>
 <!-- end footer -->
 
@@ -406,18 +346,13 @@ Environmentally Responsible <a href="http://www.gardensalive.com/" style="font-w
 
 <!-- RichRelevanceForceLoad... -->
 
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
-<script type="text/javascript">
-_uacct = "UA-456121-3";
-urchinTracker();
-</script>
+
 
 </center>
 
 
 <!-- Lyris List Manager -->
-<!-- Referer: http://gurneys.com/ -->
+<!-- Referer:  -->
 <!-- No referer cookie associated to a mailing -->
 <!-- Lyris List Manager -->
 
@@ -454,11 +389,11 @@ var google_conversion_label = "CNM4CKvGggIQ7e-e_gM";
 var google_conversion_value = 0;
 /* ]]> */
 </script>
-<script type="text/javascript" src="https://www.googleadservices.com/pagead/conversion.js">
+<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
 </script>
 <noscript>
 <div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt="" src="https://www.googleadservices.com/pagead/conversion/1070053357/?label=CNM4CKvGggIQ7e-e_gM&amp;guid=ON&amp;script=0"/>
+<img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1070053357/?label=CNM4CKvGggIQ7e-e_gM&amp;guid=ON&amp;script=0"/>
 </div>
 </noscript>
 
@@ -505,16 +440,51 @@ var google_custom_params = window.google_tag_params;
 var google_remarketing_only = true;
 /* ]]> */
 </script>
-<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
 </script>
 <noscript>
 <div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1070053357/?value=0&amp;label=Zqo8CLOo0gMQ7e-e_gM&amp;guid=ON&amp;script=0"/>
+<img height="1" width="1" style="border-style:none;" alt="" src="http://googleads.g.doubleclick.net/pagead/viewthroughconversion/1070053357/?value=0&amp;label=Zqo8CLOo0gMQ7e-e_gM&amp;guid=ON&amp;script=0"/>
 </div>
 </noscript>
 
 
 
 
+<script language="JavaScript"><!--
+{
+document.write("<img src=http://tracking.searchmarketing.com/welcome.asp?SMCID=12002003&x="+escape(document.referrer)+" width=1 height=1>");
+}
+//-->
+</script><img src="http://tracking.searchmarketing.com/welcome.asp?SMCID=12002003&amp;x=" width="1" height="1">
 
-</body></html>
+<!-- UCX Tracking Code Starts Here -->
+
+<script type="text/javascript">
+
+    var ucxAccess = "33D72149";
+    var ucxKeycode = "";
+    var ucxCartID = "1AD1B7ACTEX5J";
+    var ucxCampaign = "utm_source:" + UCX.GetParameter("utm_source")
+	    + "|utm_medium:" + UCX.GetParameter("utm_medium")
+	    + "|utm_campaign:" + UCX.GetParameter("utm_campaign")
+	    + "|utm_keyword:" + UCX.GetParameter("utm_keyword");
+    if (ucxCampaign == "utm_source:|utm_medium:|utm_campaign:|utm_keyword:")
+        ucxCampaign = "";
+    var uid = UCX.GetParameter("uid");
+    var sid= UCX.GetParameter("sid");
+
+    UCX.P(ucxAccess, ucxKeycode, ucxCampaign, sid, uid);  //UCX.P(accessKey, keycode, eid, sid, uid)
+
+    function UCX_Queue(accessKey, cookieId) {
+
+        
+
+    }
+
+</script>
+
+<!-- UCX Tracking Code Ends Here -->
+
+
+<div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap"><div id="fancybox-outer"><div class="fancybox-bg" id="fancybox-bg-n"></div><div class="fancybox-bg" id="fancybox-bg-ne"></div><div class="fancybox-bg" id="fancybox-bg-e"></div><div class="fancybox-bg" id="fancybox-bg-se"></div><div class="fancybox-bg" id="fancybox-bg-s"></div><div class="fancybox-bg" id="fancybox-bg-sw"></div><div class="fancybox-bg" id="fancybox-bg-w"></div><div class="fancybox-bg" id="fancybox-bg-nw"></div><div id="fancybox-content"></div><a id="fancybox-close"></a><div id="fancybox-title"></div><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div></body></html>
