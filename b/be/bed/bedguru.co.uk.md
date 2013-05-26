@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bedguru.co.uk privacy policy that was archived on 2012-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121112161037id_/http%3A//www.bedguru.co.uk/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bedguru.co.uk privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527001522id_/http%3A//www.bedguru.co.uk/policy.php) for the most accurate reproduction.*
 
 # The Bed Guru, Specialising in a Good Night's Sleep for Over 27 Years. The Bed Guru, Leeds.
 
-Tangic Ltd. t/a The Bed Guru takes the privacy of its users seriously. We are committed to safeguarding the privacy of our users while providing a personalised and valuable service. This Privacy Policy Statement explains the data processing practices of [www.bedguru.co.uk](https://web.archive.org/web/20121112161037id_/http%3A//www.bedguru.co.uk/www.bedguru.co.uk). If you have any requests concerning your personal information or any queries with regard to these practices please contact our Privacy Officer by e-mail at info@bedguru.co.uk.
+Tangic Ltd. t/a The Bed Guru takes the privacy of its users seriously. We are committed to safeguarding the privacy of our users while providing a personalised and valuable service. This Privacy Policy Statement explains the data processing practices of [www.bedguru.co.uk](https://web.archive.org/web/20130527001522id_/http%3A//www.bedguru.co.uk/www.bedguru.co.uk). If you have any requests concerning your personal information or any queries with regard to these practices please contact our Privacy Officer by e-mail at info@bedguru.co.uk.
 
 Information collected  
 We collect personal information from you through the use of enquiry forms and every time you e-mail us your details and finally, when you place an order in our on-line shop.
@@ -32,4 +32,4 @@ Our use of cookies also allows registered users to be presented with a personali
 Disclosures  
 We will not disclose any information we keep about you to any third parties, except for other companies in the Tangic Ltd. group of companies; for credit reference agency clearance (where you have submitted a completed order form for goods or services), and any suppliers we engage to provide services which involve processing data on our behalf.
 
-Given that the Internet is a global environment, using the Internet to collect and process personal data necessarily involves the transmission of data on an international basis. Therefore, by browsing the [www.bedguru.co.uk](https://web.archive.org/web/20121112161037id_/http%3A//www.bedguru.co.uk/www.bedguru.co.uk) site and communicating electronically with us you acknowledge and agree to our processing of personal data in this way. 
+Given that the Internet is a global environment, using the Internet to collect and process personal data necessarily involves the transmission of data on an international basis. Therefore, by browsing the [www.bedguru.co.uk](https://web.archive.org/web/20130527001522id_/http%3A//www.bedguru.co.uk/www.bedguru.co.uk) site and communicating electronically with us you acknowledge and agree to our processing of personal data in this way. 
