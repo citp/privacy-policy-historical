@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ammunitionstore.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919185850id_/http%3A//www.ammunitionstore.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ammunitionstore.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527010702id_/http%3A//ammunitionstore.com/pages/privacy-policy.html) for the most accurate reproduction.*
 
-# Ammunitionstore.com - Online privacy policy. Your online information and how it's protected. Advertising policy. Credit card privacy.
+# Ammunition Store privacy policy. Buying ammo online. Secure transactions.
 
-See also [Terms and Conditions](http://www.ammunitionstore.com/pages/Terms-and-conditions.html)
+**See also[Terms and Conditions](http://www.ammunitionstore.com/pages/terms-and-conditions.html)**
 
-**Privacy**
+### Ammunition Store Privacy Policy
 
 **Your personal information is treated as strictly confidential.**
 
@@ -23,10 +23,10 @@ The following outlines our privacy policy.
 
 
 
-**Advertising Privacy**
+### Advertising Privacy
 
 We do not share or disclose any of our customer information. We do not use any customer information for 3rd party marketing. We do not participate in any spam mailing or bulk mailing. All email lists generated are on an opt-in basis, such as our newsletter or promotional opt-ins.
 
-**Credit Card Privacy**
+### Credit Card Privacy
 
-We do not store credit card information on our web servers. This is for your safety and protection. We do not offer any marketable information to any third party contractor or group. All transactions are done through encrypted https services and are secured with SSL (secure soket layer) technology.
+We do not store credit card information on our web servers. This is for your safety and protection. We do not offer any marketable information to any third party contractor or group. All transactions are done through encrypted https services and are secured with SSL (secure sockets layer) technology.
