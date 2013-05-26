@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the exootlab.com privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204022109id_/http%3A//www.exootlab.com/misc/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exootlab.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527002408id_/http%3A//www.exootlab.com/misc/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Exoot
+
+Thousands of free premium ultimate games are awaiting you.
 
 Your privacy matters to Exoot so whether you are new to Exoot or a long-time user, please do take the time to get to know our practices – and if you have any questions [contact us](https://web.archive.org/misc/contact). As you use our services, we want you to be clear how we're using information and the ways in which you can protect your privacy.
 
