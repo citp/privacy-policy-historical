@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dandad.org privacy policy that was archived on 2012-10-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121010190846id_/http%3A//www.dandad.org/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dandad.org privacy policy that was archived on 2013-05-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130527015313id_/http%3A//www.dandad.org/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 	<title>Privacy</title>
@@ -17,10 +17,10 @@
 
 	<meta name="description" content="D&amp;AD represents the global creative, design and advertising communities and celebrates brilliance in commercial creativity.">
 
-	<link rel="alternate" title="D&amp;AD News Atom feed" href="/feed/news" type="application/rss+xml">
-	<link rel="alternate" title="D&amp;AD News RSS feed (alternative)" href="/feed/news/rss" type="application/rss+xml">
-	<link rel="alternate" title="D&amp;AD Events Atom feed" href="/feed/events" type="application/rss+xml">
-	<link rel="alternate" title="D&amp;AD Events RSS feed (alternative)" href="/feed/events/rss" type="application/rss+xml">
+	<link rel="alternate" title="D&amp;AD News Atom feed" href="/index.php/feed/news" type="application/rss+xml">
+	<link rel="alternate" title="D&amp;AD News RSS feed (alternative)" href="/index.php/feed/news/rss" type="application/rss+xml">
+	<link rel="alternate" title="D&amp;AD Events Atom feed" href="/index.php/feed/events" type="application/rss+xml">
+	<link rel="alternate" title="D&amp;AD Events RSS feed (alternative)" href="/index.php/feed/events/rss" type="application/rss+xml">
 
 	
 	<link rel="shortcut icon" type="image/png" href="/assets/dandad/images/favicon.png">
@@ -30,7 +30,7 @@
 	<meta name="viewport" content="width=1040">
 
 
-	<link rel="stylesheet" href="/assets/dandad/css/dandad.combined.css?v=5707a2846a7d5eabf463dab92b6148a7" type="text/css" media="screen">
+	<link rel="stylesheet" href="/assets/dandad/css/dandad.combined.css?v=d519c2b1be68a5d0092d86c19885910c" type="text/css" media="screen">
 
 	<!--[if lt IE 8]><link rel="stylesheet" href="/assets/dandad/css/dandad-main-ie.css" type="text/css" media="screen" /><![endif]-->
 	<link rel="stylesheet" href="/assets/dandad/css/dandad-print.css" type="text/css" media="print">
@@ -40,7 +40,7 @@
 	</script>
 
 
-	<script type="text/javascript" src="/assets/dandad/js/dandad.combined.js?v=2879"></script><style type="text/css">.hide-at-start { display: none !important; }</style>
+	<script type="text/javascript" src="/assets/dandad/js/dandad.combined.js?v=3f4fd12"></script><style type="text/css">.hide-at-start { display: none !important; }</style>
 
 
 
@@ -57,92 +57,140 @@
 	
 	<script type="text/javascript">
 		var _gaq = _gaq || [];
+		//Enhanced Link Attribution for In-Page Analytics
+		var pluginUrl = (('https:' == document.location.protocol) ? 'https://ssl.' : 'http://www.') + 'google-analytics.com/plugins/ga/inpage_linkid.js';
+		_gaq.push(['_require', 'inpage_linkid', pluginUrl]);
 		_gaq.push(['_setAccount', 'UA-486424-1']);
-		_gaq.push(['_setCustomVar', 1, 'User role', 'public']);
+					_gaq.push(['_setDomainName', '.dandad.org']);
+				_gaq.push(['_setCustomVar', 1, 'User role', 'Logged out']);
 		_gaq.push(['_trackPageview']);
 
-		(function() {
+		jQuery(function() {
+			var $  = jQuery;
 			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
 			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
 			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-		})();
-	</script>
-<script type="text/javascript" src="https://web.archive.org/web/20121010173843/http://api.twitter.com/1/statuses/user_timeline/dandad.json?include_rts=1&amp;callback=Request.JSONP.request_map.request_0&amp;count=1"></script></head>
 
-<body class="page-privacy js-active">
+			$('a').live('click', function(e) {
+				var url = $(this).attr('href');
+				if (!url) {
+					return;
+				}
+				var media_types = ['mp4', 'mp3'];
+				var doc_types = ['pdf'];
+				var parts = url.split('.');
+				var ext = parts[parts.length - 1].toLowerCase();
+
+				var is_outbound = e.currentTarget.host != window.location.host;
+				if (is_outbound && url.indexOf('http') != 0) {
+					is_outbound = false;
+				}
+
+				var addthis_social_sharing = $(this).closest('.addthis_toolbox').length;
+
+				if ($.inArray(ext, media_types) < 0) {
+					// is not a mp4, mp3 etc
+					var is_doc = $.inArray(ext, doc_types) >= 0;
+					var newtab = false;
+
+					if (is_doc || is_outbound && addthis_social_sharing != 1) {
+						var category = is_outbound ? 'Outbound Links' : 'Website Downloads';
+						_gaq.push(['_trackEvent', category, e.currentTarget.host, url, 0]);
+						if (e.metaKey || e.ctrlKey) {
+							newtab = true;
+						}
+						if (!newtab) {
+							e.preventDefault();
+							setTimeout(function() {
+								document.location = url;
+							}, 100);
+						}
+					}
+				}
+			});
+		});
+	</script>
+<script type="text/javascript" src="https://web.archive.org/web/20130302135236/https://search.twitter.com/search.json?q=%23whitepencil&amp;callback=Request.JSONP.request_map.request_0&amp;count=5&amp;rpp=3"></script></head>
+
+<body class="cms-page page-privacy js-active">
 	
 	<div id="wrapper">
 		<div id="jump">
 			<p><a href="#content">jump to content</a></p>
 		</div>
-
-		<div id="hud" class="closed" style="">
+		<div id="hud" class="guest closed" style="">
 			<div class="hud-content">
-				<div class="panel-2 push-2">
-					<div class="login" id="login-login">
-						<p class="hud-title login">Login</p>
-						<form method="post" action="/account/login">
-							<input type="hidden" name="url" value="/privacy">
-							<div class="login-text-fields">
-								<p><label for="fldUsername">Email address</label><input type="text" id="fldUsername" class="txtField" name="username" value="" tabindex="1"></p>
-
-								<p><label for="fldPassword">Password</label><input type="password" id="fldPassword" class="txtField" name="password" value="" tabindex="2"></p>
-							</div>
-
-	
-							<p class="bSubmit"><input type="submit" value="Login" tabindex="3"></p>
-
-							<div class="clearing"></div>
-
-							<div class="login-options">
-								<p><a href="javascript:;">Forgotten your password?</a></p>
-							</div>
-						</form>
-					</div>
-					<div class="login hidden" id="login-forgotpass">
-						<p class="hud-title login">Password reminder</p>
-						<form method="post" action="/account/forgottenpassword">
-							<input type="hidden" name="url" value="/privacy">
-							<div class="login-text-fields">
-								<p><label for="fldUsername2">Username</label><input type="text" id="fldUsername2" class="txtField" name="username" value=""></p>
-							</div>
-
-	
-							<p class="bSubmit"><input type="submit" value="Submit"></p>
-
-							<div class="clearing"></div>
-
-							<div class="login-options">
-								<p><a href="javascript:;" class="back">Back to login</a></p>
-							</div>
-						</form>
-					</div>
-				</div>
-				<div class="panel-2 push-2">
-					<p class="hud-title head">Register</p>
-					<p>Anyone can register.</p>
-
-					<p>D&amp;AD members, Education Network members and press can also access additional content once registered.</p>
+				<div class="panel-5 alpha">
 					
-					<p><a class="arrow" rel="lightbox[set 976 550]" href="http://register.dandad.org/reg.php?d=www">Click here to register</a></p>
-				</div>
-				<div class="clearing"></div>
-			</div>
+<div class="login login-panel-login" id="login-login">
+	<p class="hud-title login">Login</p>
+	<form method="post" action="/index.php/account/login">
+		<input type="hidden" name="url" value="/index.php/privacy">
+		<div class="login-text-fields">
+			<p><label for="fldUsername">Email address</label><input type="text" id="fldUsername" name="username" value=""></p>
 
-			<p><a href="javascript:;" title="Close My D&amp;AD" class="close hud-toggle">Close My D&amp;AD</a></p>
+			<p><label for="fldPassword">Password</label><input type="password" id="fldPassword" name="password" value=""></p>
+		
+			
+			<p class="bSubmit">
+				<input type="submit" value="Log in" title="Log in">
+			</p>
+
+			<div class="login-options">
+				<p class="forgot-password">
+					<a href="javascript:;">Forgotten password?</a>
+				</p>
+			</div>
+		</div>
+	</form>
+</div>
+<div class="login login-panel-forgotpass hidden" id="login-forgotpass">
+	<p class="hud-title login">Password reminder</p>
+	<form method="post" action="/index.php/account/forgottenpassword">
+		<input type="hidden" name="url" value="/index.php/privacy">
+		<div class="login-text-fields">
+			<p><label for="fldUsername2">Email address</label><input type="text" id="fldUsername2" name="username" value=""></p>
+
+			
+			<p class="bSubmit"><input type="submit" value="Submit"></p>
+
+			<div class="clearing"></div>
+
+			<div class="login-options">
+				<p class="forgot-password">
+					<a href="javascript:;" class="back">Back to login</a>
+				</p>
+			</div>
+		</div>
+	</form>
+</div>				</div>
+				<div class="panel-5 omega cta">
+					<p class="hud-title">Subscribe</p>
+
+					<div class="registration-cta">
+
+						<p>For insights and opinions, support and inspiration, and an archive of award winning work.</p>
+						<p>Subscribe now to get the most from your D&amp;AD.</p>
+
+						<p class="bSubmit">
+							<a rel="lightbox[set 976 550]" href="http://register.dandad.org/reg.php?d=www">Subscribe</a>
+						</p>
+					</div>
+				</div>
+			</div>
+			<a href="javascript:;" title="Close My D&amp;AD" class="close hud-toggle">Close My D&amp;AD</a>
 		</div>
 
-
-		<script type="text/javascript">
-			$('hud').addClass('closed');
-		</script>
-
+					<script type="text/javascript">
+				$('hud').addClass('closed');
+			</script>
+		
 		<div id="content-container">
-
+			<div class="masthead">
 
 <div id="header">
 	<div id="logo">
-		<a href="/" title="D&amp;AD">
+		<a href="/index.php/" title="D&amp;AD">
 			<img src="/assets/dandad/images/dandad.png" width="80" height="93" alt="D&amp;AD" title="D&amp;AD">
 		</a>
 	</div>
@@ -154,114 +202,138 @@
 	<div id="hud-toggler">
 		<ul>
 
-			<li><a href="#" class="hud-toggle">Login / Register</a></li>
+			<li><a href="#" class="hud-toggle">Login / Subscribe</a></li>
 		</ul>
 	</div>
-<div style="position: absolute; width: 480px; height: 30px; bottom: 0px; left: 192px; z-index: 20;"></div></div><div id="nav">
+</div><div id="nav">
 	<ul>
 		<li id="nav-home"><a href="/" title="Return to the D&amp;AD home page">Home</a></li>
 		<li id="nav-dandad"><a class="nav-item" href="/dandad" title="D&amp;AD">D&amp;AD</a>
-			<div class="subnav" style="display: none;">
-	<ul class="subnav">
+			<div class="subnav">
+	<ul class="subnav-menu">
+		<li><a href="/dandad" title="Return to the D&amp;AD section splash page">D&amp;AD</a></li>
 		<li><a href="/dandad/about" title="About">About</a></li>
 		<li><a href="/dandad/events" title="Events">Events</a></li>
 		<li><a href="/dandad/join" title="Join">Join</a></li>
-		<li><a href="/dandad/latest/news" title="Latest News">Latest</a></li>
+		<li><a href="/dandad/news/latest" title="News">News</a></li>
 		<li><a href="/dandad/partnerships" title="Partnerships">Partnerships</a></li>
-		<li><a href="/dandad/white-pencil" title="White Pencil">White Pencil</a></li>
-		<li class="feature">
-			<p class="intro">Get your voice heard</p>
-			<p>D&amp;AD Membership: It’s classy, exclusive, well connected – everything you could ask for from a private member’s club. Ok, we don’t have a pool on the roof, but just wait till you see the size of our archive.</p>
-			<p class="readmore"><a href="/dandad/join" title="read more">Read More</a></p>
-			<img src="/var/samples/nav/yellow_pencil.jpg" width="167" height="167" alt="Nav Yellow Pencil" class="feature-pic">
-
-			<ul class="feature-links">
-				<li><a href="/dandad/join/individual-membership" title="Individual Membership">Individual<br>
-					Membership</a></li>
-				<li><a href="/dandad/join/d-ad-education-network" title="Education Network">Education<br>
-					Network</a></li>
 			</ul>
-		</li>
-	</ul>
+
+	<div class="subnav-image half">
+		<a href="/jobs"><img src="/assets/dandad/images/nav/jobs.png" width="448" height="200" alt="We're hiring"></a>
+	</div>
+
+	<div class="close-subnav">
+		<a class="close">Close</a>
+	</div>
 </div>		</li>
 		<li id="nav-inspire"><a class="nav-item" href="/inspiration" title="Inspiration">Inspiration</a>
-			<div class="subnav" style="display: none;">
-	<ul class="subnav">
+			<div class="subnav">
+	<ul class="subnav-menu">
+		<li><a href="/inspiration">Inspiration</a></li>
 		<li><a href="/inspiration/inspired-by" title="Inspired by…">Inspired by…</a></li>
 		<li><a href="/inspiration/watch-and-listen" title="Watch &amp; Listen">Watch &amp; Listen</a></li>
 		<li><a href="/inspiration/have-your-say" title="Have Your Say">Have Your Say</a></li>
 		<li><a href="/inspiration/features-and-opinion" title="Features &amp; opinion">Features &amp; Opinion</a></li>
+		<li><a href="/inspiration/archive-tours" title="Archive tours">Archive Tours</a></li>
 		<li><a href="/inspiration/profiles" title="Profile">Profiles</a></li>
-		<li><a href="/inspiration/archives-and-collections" title="Archives &amp; Collections">Archives &amp; Collections</a></li>
-		<li class="feature">
-			<p class="intro">D&amp;AD<br>President’s Lectures</p>
-			<p>Chosen by the President of D&amp;AD, speakers represent the best in their creative fields and inspire discussion and debate.<br></p>
-			<p class="readmore"><a href="/dandad/events?series=President%E2%80%99s%20Lectures">Book your tickets</a></p>
-			<img src="/var/samples/nav/microphone.png" width="167" height="167" alt="President’s Lectures" class="feature-pic">
-		</li>
 	</ul>
-</div>		</li>
-		<li id="nav-awards"><a class="nav-item" href="/awards" title="Awards">Awards</a>
-			<div class="subnav" style="display: none;">
-	<ul class="subnav award-sections">
-		<li>
-			<p class="intro">Professional Awards</p>
-			<p>Yellow Pencils are recognised the world over as a symbol of true creative achievement. Year on year the D&amp;AD Annual showcases the very best work and continues to provide an unrivalled source of creative inspiration.</p>
-			<ul>
-				<li><a href="/awards/professional" title="Professional">Professional</a></li>
-				<li><a href="/awards/professional/2012" title="2012">2012</a></li>
-				<li><a href="/awards/professional/2011" title="2011">2011</a></li>
-				<li><a href="/awards/professional/2010" title="2010">2010</a></li>
-				<li><a href="/awards/professional/archive" title="Archive">Archive</a></li>
-			</ul>
-			
-		</li>
+	<div class="subnav-image half">
+		<a href="/inspiration/inspired-by/storytelling"><img src="/assets/dandad/images/nav/storytelling.jpg" width="448" height="200" alt="Inspired By…"></a>
+	</div>
 
-		<li>
-			<p class="intro">Student Awards</p>
-			<p>Creatives the world over value the D&amp;AD Student Awards above any other. Winning a D&amp;AD Student Award truly marks you out as one of the best. Take your first step in becoming a creative superstar.</p>
-			<ul>
-				<li><a href="/awards/student" title="Student">Student</a></li>
-				<li><a href="/awards/student/2012" title="2012">2012</a></li>
-				<li><a href="/awards/student/2011" title="2011">2011</a></li>
-				<li><a href="/awards/student/2010" title="2010">2010</a></li>
-				<li><a href="/awards/student/archive" title="Archive">Archive</a></li>
-			</ul>
-	
+	<div class="close-subnav">
+		<a class="close">Close</a>
+	</div>
+</div>
 		</li>
-	</ul>
+		<li id="nav-awards"><a class="nav-item" href="/awards/professional" title="Awards">Awards</a>
+			<div class="subnav">
+	<div class="professional">
+		<ul class="subnav-menu award-sections">
+			<li><a href="/awards/professional" title="Professional">Professional Awards</a></li>
+			<li class="new"><a href="/awards/professional/2013" title="2013">2013</a></li>
+			<li><a href="/awards/professional/2012" title="2012">2012</a></li>
+			<li><a href="/awards/professional/2011" title="2011">2011</a></li>
+			<li><a href="/awards/professional/archive" title="Archive">Archive</a></li>
+		</ul>
+
+		<div class="subnav-image quarter">
+			<img src="/assets/dandad/images/nav/awards_pencil.gif" width="204" height="222" alt="">
+		</div>
+	</div>
+
+	<div class="student">
+		<ul class="subnav-menu award-sections">
+			<li><a href="/awards/student" title="Student">Student Awards</a></li>
+			<li class="new"><a href="/awards/student/2013" title="2013">2013</a></li>
+			<li><a href="/awards/student/2012" title="2012">2012</a></li>
+			<li><a href="/awards/student/2011" title="2011">2011</a></li>
+			<li><a href="/awards/student/archive" title="Archive">Archive</a></li>
+		</ul>
+
+		<div class="subnav-image quarter">
+			<img src="/assets/dandad/images/nav/student_awards_pencil.gif" width="204" height="222" alt="">
+<!--			<a href="http://student-entry.dandad.org" class="award-link">
+				<span>
+					<strong>Student Awards</strong><br/>
+					Enter now
+				</span>
+			</a>
+			<a href="" class="award-link">
+				<span>
+					<strong>Student Awards</strong><br/>
+					Enter now
+				</span>
+			</a> -->
+		</div>
+	</div>
+
+	<div class="close-subnav">
+		<a class="close">Close</a>
+	</div>
 </div>		</li>
 		<li id="nav-talent"><a class="nav-item" href="/talent" title="Talent">Talent</a>
-			<div class="subnav" style="display: none;">
-	<ul class="subnav">
+			<div class="subnav">
+	<ul class="subnav-menu">
+		<li><a href="/talent">Talent</a></li>
 		<li><a href="/talent/portfolios" title="Portfolios">Portfolios</a></li>
 		<li><a href="/talent/new-blood" title="New Blood">New Blood</a></li>
 <!--	<li><a href="/talent/graduate-placement-scheme" title="Graduate Placement Scheme">Graduate Placement Scheme</a></li>-->
 		<li><a href="/talent/graduate-academy" title="Graduate Academy">Graduate Academy</a></li>
 <!--		<li><a href="/talent/jobs" title="Jobs">Jobs</a></li>-->
-		<li class="feature">
-			<a href="http://www.dandad.org/talent#talentmagazine"><img src="/var/samples/nav/epubnav_block.jpg" alt="Talent Magazine" title="" class="fullpic"></a>
-		</li>
 	</ul>
+
+	<div class="subnav-image half">
+		<a href="/talent/graduate-academy"><img src="/assets/dandad/images/nav/make_some_noise.jpg" width="448" height="200" alt="Make some noise"></a>
+	</div>
+
+	<div class="close-subnav">
+		<a class="close">Close</a>
+	</div>
 </div>
 		</li>
 		<li id="nav-learning"><a class="nav-item" href="/learning" title="Learning">Learning</a>
-			<div class="subnav" style="display: none;">
-	<ul class="subnav">
-		<li><a href="/learning/case-studies" title="Case Studies">Case Studies</a></li>
-		<li><a href="/learning/commentary" title="Commentary">Commentary</a></li>
-		<li><a href="/learning/guides" title="Guides">Guides</a></li>
-		<li><a href="/learning/talks" title="Talks">Talks</a></li>
-		<li class="new"><a href="/learning/projects" title="Projects">Projects</a></li>
-		<li><a href="/learning/workshops" title="Workshops">Workshops</a></li>
+			<div class="subnav">
+	<ul class="subnav-menu">
+		<li><a href="/learning">Learning</a></li>
 		<li><a href="/learning/professional-development" title="Professional Development">Professional Development</a></li>
-		<li><a href="/learning/courses" title="Courses">Courses</a></li>
-		<li class="feature">
-			<a href="/dandad/join/d-ad-education-network" title="University Network. Behind you all the way."><img src="/var/samples/nav/en_nav.jpg" alt="Education Network Membership. One yellow pencil. Lots of benefits." class="fullpic"></a>
-
-					</li>
+		<li><a href="/learning/case-studies" title="Case Studies">Case Studies</a></li>
+		<li><a href="/learning/advice" title="Advice">Advice</a></li>
+		<li><a href="/learning/guides" title="Guides">Guides</a></li>
+		<li class="new"><a href="/learning/projects" title="Projects">Projects</a></li>
+				<li><a href="/learning/courses" title="Courses">HE/FE Course Directory</a></li>
 	</ul>
-</div>		</li>
+
+	<div class="subnav-image half">
+		<img src="/assets/dandad/images/nav/still_learning.jpg" width="448" height="200" alt="Still learning">
+	</div>
+
+	<div class="close-subnav">
+		<a class="close">Close</a>
+	</div>
+</div>
+		</li>
 		<li id="nav-search">
 			<form action="/search" method="get" accept-charset="utf-8">
 				<p><label for="search">Search</label><input type="text" name="q" value="Search" id="search" class="tfield" tabindex="5" style="background-position: 2px 18px;"></p>
@@ -269,54 +341,98 @@
 			</form>
 		</li>
 	</ul>
-</div><div id="imagebar">
+</div>			</div>
+
+			<div class="main-content">
+
+<div id="imagebar">
 	<img src="/assets/dandad/images/user_gen/banner1.jpg" width="944" height="96" alt="">
 </div>
 <div id="breadcrumb">
-<ul><li class="first"><a href="/privacy">privacy</a></li></ul></div>		<div id="content">
-			
+<ul><li class="first"><a href="/index.php/privacy">privacy</a></li></ul></div>
+							<div id="content">
+					
 <div class="panel-2" id="sidenav">
 	<p class="section-title">Miscellaneous</p>
 	<ul>
 		<li>
-			<a href="/site-map" title="Site Map">Site Map</a>
+			<a href="/index.php/site-map" title="Site Map">Site Map</a>
 		</li>
 		<li>
-			<a href="/accessibility" title="Accessibility">Accessibility</a>
+			<a href="/index.php/accessibility" title="Accessibility">Accessibility</a>
 		</li>
 		<li class="on">
-			<a href="/privacy" title="Privacy">Privacy</a>
+			<a href="/index.php/privacy" title="Privacy">Privacy</a>
 		</li>
 		<li>
-			<a href="/member-benefits" title="Member Benefits" rel="nofollow">Member Benefits</a>
+			<a href="/index.php/member-benefits" title="Member Benefits" rel="nofollow">Member Benefits</a>
 		</li>
 		<li>
-			<a href="/connect" title="Connect" rel="nofollow">Connect</a>
+			<a href="/index.php/connect" title="Connect" rel="nofollow">Connect</a>
 		</li>
 		<li>
-			<a href="/show-and-tell-europe" title="Show and Tell Europe">Show and Tell Europe</a>
+			<a href="/index.php/terms-conditions" title="Terms &amp; Conditions">Terms &amp; Conditions</a>
 		</li>
 		<li>
-			<a href="/terms-conditions" title="Terms &amp; Conditions">Terms &amp; Conditions</a>
+			<a href="/index.php/jobs" title="Jobs">Jobs</a>
 		</li>
 		<li>
-			<a href="/jobs" title="Jobs">Jobs</a>
-		</li>
-		<li>
-			<a href="/shop" title="Shop">Shop</a>
-		</li>
-		<li>
-			<a href="/contact-us" title="Contact us">Contact us</a>
+			<a href="/index.php/contact-us" title="Contact us">Contact us</a>
 		</li>
 	</ul>
 </div>
 <div class="panel-4" id="article">
 
 	<p class="subsection-title">Privacy</p>
+	<div class="article-info empty">
+		<div class="addthis_toolbox">
+	<ul>
+		<li class="share-more"><a href="javascript:void(0);">Share…</a></li>
+		<li class="twitter"><a class="addthis_button_twitter" href="javascript:void(0);">Twitter</a></li>
+		<li class="facebook"><a class="addthis_button_facebook" href="javascript:void(0);">Facebook</a></li>
+	</ul>
+
+	<div class="share-dropdown" style="display: none;">
+		<p>Share This Page</p>
+		<ul>
+			<li class="blogger"><a class="addthis_button_blogger" href="javascript:void(0);">Blogger</a></li>
+			<li class="digg"><a class="addthis_button_digg" href="javascript:void(0);">Digg</a></li>
+			<li class="email"><a class="addthis_button_email" href="javascript:void(0);">Email</a></li>
+			<li class="googleplus"><a class="addthis_button_google_plusone_share" href="javascript:void(0);">Google +1</a></li>
+			<li class="linkedin"><a class="addthis_button_linkedin" href="javascript:void(0);">LinkedIn</a></li>
+			<li class="pinterest"><a class="addthis_button_pinterest_share" href="javascript:void(0);">Pinterest</a></li>
+			<li class="reddit"><a class="addthis_button_reddit" href="javascript:void(0);">Reddit</a></li>
+			<li class="stumbleupon"><a class="addthis_button_stumbleupon" href="javascript:void(0);">StumbleUpon</a></li>
+		</ul>
+
+		<a class="share-dropdown-close" href="javascript:void(0);">Close</a>
+	</div>
+</div>
+<script type="text/javascript">
+	var addthis_config = {
+							data_track_clickback: true,
+							data_ga_property: 'UA-486424-1',
+							data_ga_social : true,
+							ui_email_note: 'Take a look at this'
+						 };
+
+	var addthis_share = addthis_share || {}
+		addthis_share = {
+				passthrough : {
+						twitter: {	via: "dandad"	}
+				}
+		}
+</script>
+<script type="text/javascript" src="http://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4df9d74137184d10"></script>
+
+
+	</div>
+
 	<div class="article-copy">
 	
 	
-		<p>At D&amp;AD, we take your privacy seriously.</p>	
+		<p>At D&amp;AD, we take your privacy seriously.</p>
+	
 	
 	
 	
@@ -329,7 +445,8 @@
 <li>This website is owned and operated by D&amp;AD. All references to ‘our’, ‘us’ or ‘we’ within this   policy are deemed to refer to D&amp;AD.</li>
 <li>We are committed to protecting your personal privacy. We provide   this privacy policy to help you to understand how we collect information   through this website and what we may do with any information that we   obtain from you.</li>
 <li>We may need to update this privacy policy from time to time so we   recommend that you check you have read the most recent policy when you   visit our website.</li>
-</ol>	
+</ol>
+	
 	
 	
 	
@@ -341,7 +458,8 @@
 		<ol>
 <li>D&amp;AD respects the right to privacy of every individual who  visits our website. This Privacy Policy outlines the information we  collect that is Personally Identifiable Information, how we use and  store the information collected, and your rights to verify and amend the  information.</li>
 <li>By using this website, and providing us with information, you  consent to its use in line with this policy. D&amp;AD will always handle  information in compliance with the Data Protection Act (1998).</li>
-</ol>	
+</ol>
+	
 	
 	
 	
@@ -356,7 +474,8 @@
 <li>If you choose to receive further information from us, we will  keep you informed of future D&amp;AD activities. </li>
 <li>If you choose to receive information from third parties, your  contact information may be used by carefully selected complimentary  organisations to inform you of offers or events. </li>
 <li>When you contact us using the “Contact Us” form on the site, we  collect your name, email address and any comments that you provide.  This information is used by us to respond to your comments. </li>
-</ol>	
+</ol>
+	
 	
 	
 	
@@ -367,7 +486,8 @@
 	
 		<p>When you visit the site, we log the IP address of the machine you used  to access our site with. The IP address is a unique number that is used  on the Internet to identify a unique computer for the purposes of  allowing computers to communicate with each other.</p>
 <p>Certain features of our site require Cookies in order to function. A  Cookie is a small piece of information that is placed on your computer,  and is used to differentiate you from other users accessing our site. We  use this so that we can ensure your information is kept separate from  that of other users of the site. For more information on cookies, please  refer to the documentation provided with your web browser software.</p>
-<p>We may also collect information on the type of web browser that you  are using, the operating system that your computer uses, and (where  applicable) the link that you followed to get to our website. We use  this information to produce general statistics about the numbers of  unique visitors to the site and what software they use. In turn, these  statistics are used to channel effort into further developing our site  to meet the needs of our users.</p>	
+<p>We may also collect information on the type of web browser that you  are using, the operating system that your computer uses, and (where  applicable) the link that you followed to get to our website. We use  this information to produce general statistics about the numbers of  unique visitors to the site and what software they use. In turn, these  statistics are used to channel effort into further developing our site  to meet the needs of our users.</p>
+	
 	
 	
 	
@@ -378,7 +498,8 @@
 	
 		<p>D&amp;AD takes the security of any information we hold very seriously,  and will always implement security measures that are in line with, or  exceed current best practices and recommendations.</p>
 <p>Where necessary, and in common with other websites, we use SSL  (Secure Sockets Layer) encryption to ensure that information provided to  us is not visible to anybody else when in transit between your computer  and our servers. You can tell when SSL is in use by the presence of a  small “padlock” symbol in the status bar of your web browser.</p>
-<p>In addition, our web servers are housed behind a secure firewall that  prevents access to our databases from unauthorised users. All of our  servers are housed in a secure environment with high levels of physical  security, and access is only permitted to a handful of security screened  staff.</p>	
+<p>In addition, our web servers are housed behind a secure firewall that  prevents access to our databases from unauthorised users. All of our  servers are housed in a secure environment with high levels of physical  security, and access is only permitted to a handful of security screened  staff.</p>
+	
 	
 	
 	
@@ -389,7 +510,8 @@
 	
 		<p>For the purposes of the Data Protection Act (1998), the controller of  all information collected on this website is:</p>
 <p>D&amp;AD<br> Britannia House<br> 68 - 80 Hanbury Street<br> London<br> E1 5JL</p>
-<p>If you wish to view, delete or amend any of the information we hold  on you, this can be done by contacting us through the web site, or by  writing to us at the address provided above. We will not charge for  amending or deleting personal information, but may charge for viewing  information held on you as specified in the Data Protection Act (1998).</p>	
+<p>If you wish to view, delete or amend any of the information we hold  on you, this can be done by contacting us through the web site, or by  writing to us at the address provided above. We will not charge for  amending or deleting personal information, but may charge for viewing  information held on you as specified in the Data Protection Act (1998).</p>
+	
 	
 	
 	
@@ -400,7 +522,8 @@
 	
 		<p>We encourage parents and guardians to supervise the use of the Internet  by their children, and to educate them about providing personal  information both on the Internet and elsewhere.</p>
 <p>Where we expect children under the age of 18 to make use of a  facility on our website, then we will display a notice stating that  parental consent should be given before providing us with any  information.</p>
-<p>Information provided by those under 18 may be deleted or removed  through the website, or by the parent or guardian writing to us at the  address given in the section “Amendments to Data”.</p>	
+<p>Information provided by those under 18 may be deleted or removed  through the website, or by the parent or guardian writing to us at the  address given in the section “Amendments to Data”.</p>
+	
 	
 	
 	
@@ -409,7 +532,8 @@
 		<h3>Third parties</h3>
 	
 	
-		<p>D&amp;AD does not and will never pass your information to any third  party without your prior authorisation. Where information is collected  on our behalf by third parties (such as for the purposes of surveys), we  will ensure that they comply with our policy as outlined in this  document.</p>	
+		<p>D&amp;AD does not and will never pass your information to any third  party without your prior authorisation. Where information is collected  on our behalf by third parties (such as for the purposes of surveys), we  will ensure that they comply with our policy as outlined in this  document.</p>
+	
 	
 	
 	
@@ -418,7 +542,8 @@
 		<h3>Direct marketing</h3>
 	
 	
-		<p>D&amp;AD will only ever contact you with marketing information where you  have requested to receive it. If at any time you do not wish to receive  such information, then you may ask us to amend our records  appropriately (see section on Amendments to Data).</p>	
+		<p>D&amp;AD will only ever contact you with marketing information where you  have requested to receive it. If at any time you do not wish to receive  such information, then you may ask us to amend our records  appropriately (see section on Amendments to Data).</p>
+	
 	
 	
 	
@@ -427,7 +552,8 @@
 		<h3>Further information</h3>
 	
 	
-		<p>If you require further information or have any questions regarding this  policy, then please contact us at:</p>	
+		<p>If you require further information or have any questions regarding this  policy, then please contact us at:</p>
+	
 	
 		<ul class="contact-details">
 
@@ -447,42 +573,44 @@
 		</div>
 
 	<div class="clearing"></div>
-	<div class="share addthis_toolbox">
-	<p>Share:</p>
-	<ul>
-		<li class="twitter"><a class="addthis_button_twitter">Twitter</a></li>
-		<li class="facebook"><a class="addthis_button_facebook">Facebook</a></li>
-		<li class="linkedin"><a class="addthis_button_linkedin">LinkedIn</a></li>
-	</ul>
+
 </div>
-<script type="text/javascript">var addthis_config = {"data_track_clickback":true};</script>
-<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4df9d74137184d10"></script></div>
 
 <div id="aside" class="panel-4">
 
-
-
-
-
 	
-			<div class="panel-4" id="tweet">
-			<p class="widget-title">Twitter</p>
+	
+	
+	
+	
+	
+	
 			
-			<script type="text/javascript">
-				var twitterAccount = 'dandad';
-			</script>
-			
-			<blockquote>
-				<p>Loading...</p>
-			</blockquote>
-			
-			<p><a class="view-all" href="http://twitter.com/dandad">View all</a></p>
+	<div class="twitter-search">
+		<p class="widget-title">From Twitter</p>
+		
+		<div id="twitter-search-whitepencil-twitter-search" class="tweets loading">
+			Loading…
 		</div>
+		
+		<script type="text/javascript">
+			new DandadTwitterSearch('%23whitepencil', 'twitter-search-whitepencil-twitter-search');
+		</script>
+			
+		<p>
+			<a class="view-all" href="https://twitter.com/#!/search/%23whitepencil">
+				View all
+			</a>
+		</p>
+	</div>
+	
 	
 </div>
 
 
-<div class="clearing"></div>		</div>
+<div class="clearing"></div>				</div>
+				
+										</div>
 <div class="panel-10" id="footer">
 	<div class="panel-2">
 		<p>
@@ -515,32 +643,27 @@
 	<div class="panel-2" id="sitemap">
 		<ul>
 			<li><a href="/site-map">Site Map</a></li>
-			<li>
-				<a href="/accessibility">Accessibility</a>
-			</li>
-			<li>
-				<a href="/privacy">Privacy</a>
-			</li>
-			<li>
-				<a href="/member-benefits" rel="nofollow">Member Benefits</a>
-			</li>
-			<li>
-				<a href="/connect" rel="nofollow">Connect</a>
-			</li>
-			<li>
-				<a href="/show-and-tell-europe">Show and Tell Europe</a>
-			</li>
-			<li>
-				<a href="/terms-conditions">Terms &amp; Conditions</a>
-			</li>
-			<li>
-				<a href="/jobs">Jobs</a>
-			</li>
-			<li>
-				<a href="/shop">Shop</a>
-			</li>
+							<li>
+					<a href="/accessibility">Accessibility</a>
+				</li>
+							<li>
+					<a href="/privacy">Privacy</a>
+				</li>
+							<li>
+					<a href="/member-benefits" rel="nofollow">Member Benefits</a>
+				</li>
+							<li>
+					<a href="/connect" rel="nofollow">Connect</a>
+				</li>
+							<li>
+					<a href="/terms-conditions">Terms &amp; Conditions</a>
+				</li>
+							<li>
+					<a href="/jobs">Jobs</a>
+				</li>
+						<li><a href="http://shop.dandad.org">Shop</a></li>
 			<li><a href="/contact-us">Contact Us</a></li>
-			<li><a href="/dandad/latest/press-office">Press Office</a></li>
+			<li><a href="/dandad/news/press-office">Press Office</a></li>
 		</ul>
 	</div>
 
@@ -562,8 +685,8 @@
 <div class="clearing"></div>
 		</div>
 	</div>
-	<div class="overlay" style="visibility: hidden; zoom: 1; opacity: 0;"></div>
+	<div class="overlay"></div>
 
 
 
-<script type="text/javascript" src="https://web.archive.org/web/20121010173843/http://maps.google.com/maps/api/js?sensor=false&amp;region=GB&amp;callback=MapsManager.apiLoaded"></script><div id="mbOverlay" style="display: none; visibility: hidden; zoom: 1; opacity: 0;"></div><div id="mbCenter" style="display: none;"><div id="mbImage"></div><div id="mbBottom" style="visibility: hidden; zoom: 1; opacity: 0;"><a id="mbCloseLink" href="#"></a><a id="mbNextLink" href="#"></a><a id="mbPrevLink" href="#"></a><div id="mbTitle"></div><div id="mbNumber"></div><div id="mbCaption"></div></div></div><div id="jplb-overlay" style="height: 3061px; width: 100%; visibility: hidden; zoom: 1; opacity: 0.85;"></div><div id="jplb-outer" style="visibility: hidden; zoom: 1; opacity: 1;"><div id="jplb-inner"><div id="jplb-content"></div><div id="jplb-loading" style="visibility: hidden; zoom: 1; opacity: 1;"></div></div></div><script src="https://web.archive.org/web/20121110091336/http://maps.gstatic.com/intl/en_us/mapfiles/api-3/9/19/main.js"></script></body></html>
+<script type="text/javascript" src="https://web.archive.org/web/20130302135236/http://maps.google.com/maps/api/js?sensor=false&amp;region=GB&amp;callback=MapsManager.apiLoaded"></script><div id="mbOverlay" style="display: none; visibility: hidden; zoom: 1; opacity: 0;"></div><div id="mbCenter" style="display: none;"><div id="mbImage"></div><div id="mbBottom" style="visibility: hidden; zoom: 1; opacity: 0;"><a id="mbCloseLink" href="#"></a><a id="mbNextLink" href="#"></a><a id="mbPrevLink" href="#"></a><div id="mbTitle"></div><div id="mbNumber"></div><div id="mbCaption"></div></div></div><div id="jplb-overlay" style="height: 0px; width: 100%; visibility: hidden; zoom: 1; opacity: 0.85;"></div><div id="jplb-outer" style="visibility: hidden; zoom: 1; opacity: 1;"><div id="jplb-inner"><div id="jplb-content"></div><div id="jplb-loading" style="visibility: hidden; zoom: 1; opacity: 1;"></div></div></div><script src="https://web.archive.org/web/20121110091336/http://maps.gstatic.com/intl/en_us/mapfiles/api-3/9/19/main.js"></script></body></html>
