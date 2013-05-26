@@ -1,8 +1,154 @@
-> *The following text is extracted and transformed from the xpango.com privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121042922id_/http%3A//www.xpango.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xpango.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526022735id_/http%3A//www.xpango.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Xpango.com
 
 [](https://web.archive.org/)
+
+  * [Register](https://web.archive.org/register)
+  * [Sign in](https://web.archive.org/login)
+
+
+
+2,297,312 Xpangoer's and counting...
+
+  * mobile phones
+    *     * [
+
+#### Free iPhone
+
+Free iPhone 5, iPhone 4S & more...
+
+](https://web.archive.org/free-iphone)
+    * [
+
+#### Free Samsung
+
+Free Samsung Galaxy S4, Galaxy S3 & more...
+
+](https://web.archive.org/free-samsung)
+    * [
+
+#### Free Nokia
+
+Free Nokia Lumia 920, Lumia 820 and more...
+
+](https://web.archive.org/free-nokia)
+    * [
+
+#### Free HTC
+
+Free HTC 8X, HTC 8S and more...
+
+](https://web.archive.org/free-htc)
+    * [
+
+#### Free Blackberry
+
+Free Blackberry Z10, Bold 9900 and more...
+
+](https://web.archive.org/free-blackberry)
+    * [**View all Free Mobile Phones »**](https://web.archive.org/free-mobile-phones)
+  * games consoles
+    *     * [
+
+#### Free Xbox 360
+
+Free Xbox 360, Xbox games and more
+
+](https://web.archive.org/free-xbox-360)
+    * [
+
+#### Free Sony PS3
+
+Free Sony PS3, PS Vita, Games and more...
+
+](https://web.archive.org/free-sony-ps3)
+    * [
+
+#### Free Nintendo Wii U
+
+Free Nintendo Wii U, Nintendo 3DS, Games and more...
+
+](https://web.archive.org/free-wii-u)
+    * [**View all Free Gaming Consoles »**](https://web.archive.org/free-gaming-consoles)
+  * mp3 players
+    *     * [
+
+#### Free Apple iPod
+
+Free iPod Touch, iPod Nano and more...
+
+](https://web.archive.org/free-ipod)
+    * [
+
+#### Free Beats Headphones
+
+Free Beats Solo Headphones & more...
+
+](https://web.archive.org/free-beats-headphones)
+    * [
+
+#### Free Sony Walkman
+
+Free Sony Walkman F Series, E Series and more...
+
+](https://web.archive.org/free-sony-walkman)
+    * [**View all Free MP3 Players »**](https://web.archive.org/free-mp3-players)
+  * tablet/mac
+    *     * [
+
+#### Free Apple iPad
+
+Free Apple iPad, iPad 2, iPad Mini and more...
+
+](https://web.archive.org/free-ipad)
+    * [
+
+#### Free Samsung Galaxy Tab
+
+Free Samsung Galaxy Tab, Galaxy Tab 2 & more...
+
+](https://web.archive.org/free-samsung-tablet)
+    * [
+
+#### Free Kindle
+
+Free Kindle, Kindle Fire and more...
+
+](https://web.archive.org/free-kindle)
+    * [
+
+#### Free Google Nexus
+
+Free Google Nexus 7, Nexus 10 and more...
+
+](https://web.archive.org/free-google-nexus)
+    * [
+
+#### Free Microsoft Surface
+
+Free Microsoft Surface, plus keyboard and more...
+
+](https://web.archive.org/free-microsoft-surface)
+    * [**View all Free Tablet/Mac »**](https://web.archive.org/free-tablet-mac)
+  * gift cards
+    *     * [
+
+#### Free iTunes Gift Cards
+
+Free Apple iTunes Gift Cards, App Store Cards and more...
+
+](https://web.archive.org/free-itunes-gift-card)
+    * [
+
+#### Free Amazon Gift Cards
+
+Free Amazon Gift Cards, MP3 Gift Cards and more...
+
+](https://web.archive.org/free-amazon-gift-card)
+    * [**View all Free Gift Cards »**](https://web.archive.org/free-gift-cards)
+
+
 
 Xpango are committed to protecting your privacy. We hope the following privacy policy ("Privacy Policy") will help you understand how we collect and protect the personal information you provide to us when registering with the Xpango.com web site (the "Site") and by Xpango Ltd. 
 
