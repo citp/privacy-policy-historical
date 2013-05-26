@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2mhost.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222214528id_/http%3A//2mhost.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2mhost.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526161724id_/http%3A//2mhost.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,13 +6,17 @@
 
 Effective Date: 11/18/2010
 
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. Please read the following carefully. If you have any questions or concerns, please [Contact us](http://www.2mhost.com/contact.html)
+
 This privacy statement describes how 2MHost dot com ltd. collects and uses the personal information you provide on our Web site: www.2mhost.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
 2MHost dot com ltd. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with _[TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html)_ including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at _<http://www.2mhost.com/contact.html>_. If you are not satisfied with our response you can contact _[TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint)_ . 
 
 The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site.
 
-**Collection and Use of Personal Information**
+**Gathering and Use of Information**
+
+MHost will never willfully disclose any personally identifiable information about our online audience to any third party without first receiving the user's permission. We do not collect personally identifiable information from our visitors other than what is supplied to us on a voluntary basis. Visitors to the 2MHost Web Site may voluntarily supply certain personally identifiable information in connection with (i)contest or sweepstakes registration, (ii) subscription registration for sites or services which require subscription (such as email newsletters), (iii) requests for membership information and (iv) e-commerce transactions. In addition, personally identifiable information is voluntarily provided in connection with certain content submissions, community postings (i.e., forums or bulletin boards), comments and suggestions, or voting. Some of our sites contain links to other sites whose information practices may be different than ours. Visitors should consult the other sites' privacy notices as we have no control over information that is submitted to, or collected by, these third parties. 2MHost may use such information only for conducting the activities stated above, for internal marketing and promotional purposes, or, on occasion, when mailing lists are made available to other organizations. (The occasional provision of mailing lists to such organizations is the only case where such information would be provided to third parties).
 
 We collect the following personal information from you
 
@@ -93,22 +97,10 @@ If you have any questions about security on our Web site, you can contact us at 
 
 With your consent we may post your testimonial along with your name. If you want your testimonial removed please contact us using your admin area http://www.2mhost.com/admin
 
-**Correcting and Updating Your Personal Information**
+**Acceptance of these 2MHost Web Site Privacy Policy Terms and Conditions**
 
-To review and update your personal information to ensure it is accurate, you may login to your account http://www.2mhost.com/admin
+By using this site, you signify your agreement to the terms and conditions of this 2MHost Web Site Privacy Policy. If you do not agree to these terms and conditions, please do not use the site. We reserve the right, at our sole discretion, to change, modify, add, or remove portions of this policy at any time.
 
-**Notification of Privacy Statement Changes**
-
-We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
-
-**Contact Information**
-
-You can contact us about this privacy statement by writing or email us at the address below:
-
-2MHost Dot Com Limited  
-Blk A 15/F Hillier Commercial Building 65-67 Bonham Strand, East Sheung Wan  
-Hong Kong
-
-Email: _http://www.2mhost.com/contact.html_
+From time to time, 2MHost may update this privacy notice. We will notify you about material changes in the way we treat personally identifiable information by placing a notice on our site. We encourage you to periodically check back and review this policy so that you always will know what information we collect, how we use it, and to whom we disclose it. Your continued use of the 2MHost Web Site following the posting of any changes to these terms shall mean that you have accepted those changes.
 
 | 
