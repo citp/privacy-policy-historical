@@ -1,63 +1,249 @@
-<!--The following is the downloaded HTML source of the our365.com privacy policy that was archived on 2012-11-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121130093353id_/http%3A//www.our365.com/AboutUs/Privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the our365.com privacy policy that was archived on 2013-05-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130527151058id_/http%3A//www.mom365.com/AboutUs/Privacy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" class="cufon-active cufon-ready"><head><title>
-	Our365 Privacy Policy - Our365
-</title><meta id="metaKeywords" name="keywords" content="Our365, Privacy, Online, Collection, Information, Personal, website"><meta id="metaDescription" name="description" content="This Our365 Privacy Policy describes the manner in which Our365, Inc. (“Our365”) collects, uses, maintains, discloses and otherwise manages information collected and controlled by Our365, including Personal Information collected through the websites available at www.Our365.com and www.Mom365.com (the &quot;Sites&quot;).  
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" class="cufon-active cufon-ready"><head><title>
+	Mom365 Privacy Policy - Mom365.com
+</title><meta id="metaKeywords" name="keywords" content="Our365, Privacy, Online, Collection, Information, Personal, website"><meta id="metaDescription" name="description" content="This Mom365 Privacy Policy describes the manner in which Mom365, Inc. (“Mom365”) collects, uses, maintains, discloses and otherwise manages information collected and controlled by Mom365, including Personal Information collected through the websites available at www.Mom365.com (the &quot;Sites&quot;).  
 
-"><link rel="icon" href="/Images/Corporate/General/Icons/Our365_favicon.ico" type="image/x-icon"><link rel="shortcut icon" href="/Images/Corporate/General/Icons/Our365_favicon.ico" type="image/x-icon"><link href="/Css/Corporate/resets.css" rel="stylesheet" type="text/css">
-    <!--[if lte IE 8]>
-    <link href="/Css/Corporate/iecolors.css" rel="stylesheet" type="text/css" />
-    <![endif]-->
-    <script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" src="/Scripts/Corporate/jquery-1.5.2.js"></script>
-    <script type="text/javascript" src="/Scripts/Corporate/html5.js"> </script>
-
-    <script type="text/javascript" src="/Scripts/Corporate/cufon-yui.js"></script><style type="text/css">cufon{text-indent:0!important;}@media screen,projection{cufon{display:inline!important;display:inline-block!important;position:relative!important;vertical-align:middle!important;font-size:1px!important;line-height:1px!important;}cufon cufontext{display:-moz-inline-box!important;display:inline-block!important;width:0!important;height:0!important;overflow:hidden!important;text-indent:-10000in!important;}cufon canvas{position:relative!important;}}@media print{cufon{padding:0!important;}cufon canvas{display:none!important;}}</style>
-    <script type="text/javascript" src="/Scripts/Corporate/Webdings_400.font.js"></script>
-    <script type="text/javascript" src="/Scripts/Corporate/JQueryGlobalFunctions.js"></script>
-    <script type="text/javascript" src="/Scripts/Corporate/functions.js"></script>
-     
+"><link rel="icon" href="/Images/Mom365/Icons/Mom365_favicon.ico" type="image/x-icon"><link rel="shortcut icon" href="/Images/Mom365/Icons/Mom365_favicon.ico" type="image/x-icon"><meta name="viewport" content="initial-scale=0.4, maximum-scale=1">
     
-    <script type="text/javascript" language="javascript">
+    <!--[if lte IE 8]>
+    <link href="/Css/Mom365/iecolors.css?052720131" rel="stylesheet" type="text/css" />
+    <![endif]-->
+    <script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/Scripts/Mom365/jquery-1.5.2.js"></script>
+    <script type="text/javascript" src="/Scripts/Mom365/html5.js"> </script>
+    <script type="text/javascript" src="/Scripts/Mom365/cufon-yui.js"> </script><style type="text/css">cufon{text-indent:0!important;}@media screen,projection{cufon{display:inline!important;display:inline-block!important;position:relative!important;vertical-align:middle!important;font-size:1px!important;line-height:1px!important;}cufon cufontext{display:-moz-inline-box!important;display:inline-block!important;width:0!important;height:0!important;overflow:hidden!important;text-indent:-10000in!important;}cufon canvas{position:relative!important;}}@media print{cufon{padding:0!important;}cufon canvas{display:none!important;}}</style>
+    <script type="text/javascript" src="/Scripts/Mom365/Webdings_400.font.js"> </script>
+    <script type="text/javascript" src="/Scripts/Mom365/jquery.autoellipsis-1.0.2.min.js"> </script>
+    <script type="text/javascript" src="/Scripts/Mom365/jquery.cycle.all.latest.js"> </script>
+    <script type="text/javascript" src="/Scripts/Mom365/jquery.vticker.1.4.js"> </script>
+    <!--[if (lt IE 9)]><script src="/Scripts/Mom365/iepp.1-6-2.js"></script><![endif]-->
+    <script type="text/javascript" src="/Scripts/Mom365/JQueryGlobalFunctions.js"></script>
+    <script type="text/javascript" src="/Scripts/Mom365/functions.js"></script>
+<script type="text/javascript">
 
-        function IsValidGuestPassword(birth, guestPassword, momLastName) {
+/* Cross Browser Add Event Shortcut */
+function addEvent(obj,type,fn){if(!obj)return;if(obj.attachEvent){obj['e'+type+fn]=fn;obj[type+fn]=function(){obj['e'+type+fn](window.event);};obj.attachEvent('on'+type,obj[type+fn]);}else obj.addEventListener(type,fn,false);};
 
-            PageMethods.IsValidGuestPassword(birth, guestPassword, momLastName, OnIsValidGuestPasswordComplete);
-        }
+/* Get Element By Id Shortcut */
+function get(id) { return document.getElementById(id); };
 
-        function IsValidUserName(username) {
+/* On Window Load */
+window.onload = function () {
+	addEvent(
+		get('hoverExample'),
+		'mouseover',
+		function () {
+			this.style.background = '#AAA';
+		}
+	);
+	addEvent(
+		get('hoverExample'),
+		'mouseout',
+		function () {
+			this.style.background = '#FFF';
+		}
+	);
+};
 
-            PageMethods.IsValidUsername(username, OnIsValidUserNameComplete);
-        }
+	</script>
 
-        function IsValidEmailAddress(email) {
+<!-- Share this script -->
+<script type="text/javascript">var switchTo5x=false;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher:'32a56c20-a141-4006-ba08-1cc12656b620'});</script>
+ <script type="text/javascript" language="javascript">
 
-            PageMethods.IsValidEmailAddress(email, OnIsValidEmailAddressComplete);
-        }
+     function GetLatestUploadedImage() {
 
-        function GetBabyPhotos(birthID) {
-            PageMethods.GetBabyPhotos(birthID,null, OnGetBabyPhotosComplete, OnGetBabyPhotosError);
-        }
+         PageMethods.GetLatestUploadedImage(OnIGetLatestUploadedImageComplete);
+     }
+
+     function IsValidUserName(username) {
+
+         PageMethods.IsValidUsername(username, OnIsValidUserNameComplete);
+     }
+
+     function IsValidEmailAddress(email) {
+
+         PageMethods.IsValidEmailAddress(email, OnIsValidEmailAddressComplete);
+     }
+
+
+
+
+
+     function IsValidGuestPassword(birth, guestPassword, momLastName) {
+
+         PageMethods.IsValidGuestPassword(birth, guestPassword, momLastName, OnIsValidGuestPasswordComplete);
+     }
+
+     function IsValidUserName(username) {
+
+         PageMethods.IsValidUsername(username, OnIsValidUserNameComplete);
+     }
+
+     function IsValidEmailAddress(email) {
+
+         PageMethods.IsValidEmailAddress(email, OnIsValidEmailAddressComplete);
+     }
+
+     function GetBabyPhotos(birthID) {
+         PageMethods.GetBabyPhotos(birthID, null, OnGetBabyPhotosComplete, OnGetBabyPhotosError);
+     }
         
-    </script>  
-    <style type="text/css">
-        .LoadingBox
-        {
-           width: 200px;
-           border: solid 1px #123abc;
-           background-color: #CCCCCC;
-           font-family: Verdana;
-           font-size: 12px;
-           position:absolute;
+    </script>
+    <script type="text/javascript">
+var _gaq = _gaq || [];
+var pluginUrl = 
+ '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+_gaq.push(['_require', 'inpage_linkid', pluginUrl]);
+_gaq.push(
+   ['_setAccount', 'UA-2700982-4'],
+   ['_trackPageview'],
+   ['rollup._setAccount', 'UA-36361064-1'],
+   ['rollup._setDomainName', 'mom365.com'],
+   ['rollup._trackPageview']
+   
+);
+
+ (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+<!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "15759395" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=15759395&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+
+<!-- Begin Mobile Redirect -->
+<script type="text/javascript">
+	/*!
+	* JS Redirection Mobile
+	*
+	* Copyright (c) 2010 Sebastiano Armeli-Battana (http://sebarmeli.com)
+	* MIT Licensed: http://www.opensource.org/licenses/mit-license.php
+	* @link http://github.com/sebarmeli/JS-Redirection-Mobile-Site/
+	*/
+
+	/* 
+	* This version is exactly the same as redirection_mobile.js, but it's an anonymous self-executing
+	* function, and it's using the default values for param ("isStandardSite"), mobile_prefix("m"),
+	* mobile_url("") and cookie_hour(1). In this way you can drop this file on your web server with no configuration
+	* 
+	* @author Sebastiano Armeli-Battana
+	* @version 0.5 
+	* 
+	*/
+
+	/*globals window, redirection_mobile, document, navigator, location */
+	(function(window, document, navigator) {
+
+        // Helper function
+        var addTimeToDate = function(msec) {
+
+            // Get the current date
+            var exdate = new Date();
+
+            // Add time to the date
+            exdate.setTime(exdate.getTime() + msec);
+
+            //Return the new Date
+            return exdate;
+
+        };
+
+        // Retrieve the User Agent of the browser
+        var agent = navigator.userAgent.toLowerCase(),
+
+        // Constants
+			TRUE = "true",
+
+        // parameter to be passed to avoid mobile redirection
+			param = "isStandardSite",
+
+        // prefix appended to the hostname
+			mobile_prefix = "",
+
+        // new url for the mobile site domain 
+			mobile_url = "mom365.cb-mobile.com",
+
+
+        // protocol for the mobile site domain 
+			mobile_protocol = document.location.protocol,
+
+        // URL host of incoming request
+		    host = document.location.host,
+
+        // Compose the mobile hostname considering "mobile_url" or "mobile_prefix"+hostname
+			mobile_host = mobile_url ||
+							(mobile_prefix + "." +
+								(!!host.match(/^www\./i) ?
+									host.substring(4) :
+										host)),
+        //alert mobile_host;		
+        // Expiry hours for cookie
+			cookie_hours = 1,
+url = document.location.href,
+careers = false,
+        // Check if the UA is a mobile one (iphone, ipod, ipad, android, blackberry)
+			isUAMobile = !!(agent.match(/(iPhone|iPod|iPad|blackberry|android|htc|kindle|lg|midp|mmp|mobile|nokia|opera mini|palm|pocket|psp|sgh|smartphone|symbian|treo mini|Playstation Portable|SonyEricsson|Samsung|MobileExplorer|PalmSource|Benq|Windows Phone)/i));
+
+        // Check if the referrer was a mobile page of the site
+        // (in that case we need to set a variable in the sessionStorage or in the cookie)
+        if (document.referrer.indexOf(mobile_host) >= 0) {
+            if (window.sessionStorage) {
+                window.sessionStorage.setItem(param, TRUE);
+            } else {
+                document.cookie = param + "=" + TRUE + ";expires=" +
+													addTimeToDate(3600 * 1000 * cookie_hours).toUTCString();
+            }
         }
-        
-    </style>
-    <link href="../App_Themes/Corporate/Css/cantarell.css" type="text/css" rel="stylesheet"><link href="../App_Themes/Corporate/Css/corisande.css" type="text/css" rel="stylesheet"><link href="../App_Themes/Corporate/Css/resets.css" type="text/css" rel="stylesheet"><link href="../App_Themes/Corporate/styles.css" type="text/css" rel="stylesheet"><link href="../App_Themes/Corporate/stylesExnteded.css" type="text/css" rel="stylesheet"><link href="../App_Themes/Corporate/stylesExtended.css" type="text/css" rel="stylesheet"></head>
+
+        if (url.toLowerCase().indexOf('careers') > 0) {
+            careers = true;
+        }
+        else {
+            careers = false;
+        }
+
+        // Check if the sessionStorage contain the parameter
+        var isSessionStorage = (window.sessionStorage) ?
+								(window.sessionStorage.getItem(param) === TRUE) :
+								 false,
+
+        // Check if the Cookie has been set up
+			isCookieSet = document.cookie ?
+							(document.cookie.indexOf(param) >= 0) :
+								false;
+
+        // Check that User Agent is mobile, cookie is not set or value in the sessionStorage not present
+        if (isUAMobile && careers && !(isCookieSet || isSessionStorage)) {
+            document.location.href = mobile_protocol + "//" + mobile_host;
+        }
+        //else {document.location.href = pc_url;}
+
+    } (window, document, navigator));
+
+</script>
+<!-- End Mobile Redirect -->
+<link href="../App_Themes/Mom365/Css/Albert.css?052720131" type="text/css" rel="stylesheet"><link href="../App_Themes/Mom365/Css/corisande.css?052720131" type="text/css" rel="stylesheet"><link href="../App_Themes/Mom365/Css/ie.css?052720131" type="text/css" rel="stylesheet"><link href="../App_Themes/Mom365/Css/pimlico.css?052720131" type="text/css" rel="stylesheet"><link href="../App_Themes/Mom365/Css/resets.css?052720131" type="text/css" rel="stylesheet"><link href="../App_Themes/Mom365/styles.css?052720131" type="text/css" rel="stylesheet"><link href="../App_Themes/Mom365/stylesExnteded.css?052720131" type="text/css" rel="stylesheet"></head>
 <body id="body" onload="trapEnter_FF();" onkeypress="return trapEnter_IE();">
     <form name="form1" method="post" action="/aboutus/privacy.aspx" id="form1">
 <div>
 <input type="hidden" name="mainScriptMgr_HiddenField" id="mainScriptMgr_HiddenField" value="">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTgyNTI5NTc0MQ9kFgQCAQ9kFgYCAQ8WAh4HY29udGVudAVDT3VyMzY1LCBQcml2YWN5LCBPbmxpbmUsIENvbGxlY3Rpb24sIEluZm9ybWF0aW9uLCBQZXJzb25hbCwgd2Vic2l0ZWQCAg8WAh8ABcECVGhpcyBPdXIzNjUgUHJpdmFjeSBQb2xpY3kgZGVzY3JpYmVzIHRoZSBtYW5uZXIgaW4gd2hpY2ggT3VyMzY1LCBJbmMuICjigJxPdXIzNjXigJ0pIGNvbGxlY3RzLCB1c2VzLCBtYWludGFpbnMsIGRpc2Nsb3NlcyBhbmQgb3RoZXJ3aXNlIG1hbmFnZXMgaW5mb3JtYXRpb24gY29sbGVjdGVkIGFuZCBjb250cm9sbGVkIGJ5IE91cjM2NSwgaW5jbHVkaW5nIFBlcnNvbmFsIEluZm9ybWF0aW9uIGNvbGxlY3RlZCB0aHJvdWdoIHRoZSB3ZWJzaXRlcyBhdmFpbGFibGUgYXQgd3d3Lk91cjM2NS5jb20gYW5kIHd3dy5Nb20zNjUuY29tICh0aGUgIlNpdGVzIikuICANCg0KZAILDxYCHgRUZXh0ZWQCAw8WBB4Gb25sb2FkBQ90cmFwRW50ZXJfRkYoKTseCm9ua2V5cHJlc3MFFnJldHVybiB0cmFwRW50ZXJfSUUoKTsWAmYQZGQWBAIFD2QWAmYPZBYCAgMPZBYEZg9kFgYCAQ9kFgJmDxYCHgRocmVmBRUvUmVnaXN0ZXIvU2lnblVwLmFzcHhkAgMPFgIfBAUML1NpZ25Jbi5hc3B4ZAIFDxYCHwQFEi9HaWZ0cy9NeUNhcnQuYXNweBYCAgEPFgIfAQUBMGQCAQ9kFgICCQ9kFgICAQ8WAh8BBQEwZAIHD2QWAmYPZBYCZg9kFgICBQ9kFgICBQ8WAh4HVmlzaWJsZWhkGAEFG2N0bDA1JG1sdHZVdGlsaXR5TmF2aWdhdGlvbg8PZGZknC5QqvR0tgkU+EiaX4dJuaFoWkc=">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTM0OTM2NDc5MA9kFgQCAQ9kFhoCAQ8WAh4HY29udGVudAVDT3VyMzY1LCBQcml2YWN5LCBPbmxpbmUsIENvbGxlY3Rpb24sIEluZm9ybWF0aW9uLCBQZXJzb25hbCwgd2Vic2l0ZWQCAg8WAh8ABawCVGhpcyBNb20zNjUgUHJpdmFjeSBQb2xpY3kgZGVzY3JpYmVzIHRoZSBtYW5uZXIgaW4gd2hpY2ggTW9tMzY1LCBJbmMuICjigJxNb20zNjXigJ0pIGNvbGxlY3RzLCB1c2VzLCBtYWludGFpbnMsIGRpc2Nsb3NlcyBhbmQgb3RoZXJ3aXNlIG1hbmFnZXMgaW5mb3JtYXRpb24gY29sbGVjdGVkIGFuZCBjb250cm9sbGVkIGJ5IE1vbTM2NSwgaW5jbHVkaW5nIFBlcnNvbmFsIEluZm9ybWF0aW9uIGNvbGxlY3RlZCB0aHJvdWdoIHRoZSB3ZWJzaXRlcyBhdmFpbGFibGUgYXQgd3d3Lk1vbTM2NS5jb20gKHRoZSAiU2l0ZXMiKS4gIAoKZAIJDxYCHgRocmVmBSIvQ3NzL01vbTM2NS9pZWNvbG9ycy5jc3M/MDUyNzIwMTMxZAILDxYCHgRUZXh0BZsCPCEtLSBTaGFyZSB0aGlzIHNjcmlwdCAtLT4KPHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPnZhciBzd2l0Y2hUbzV4PWZhbHNlOzwvc2NyaXB0PjxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9Imh0dHA6Ly93LnNoYXJldGhpcy5jb20vYnV0dG9uL2J1dHRvbnMuanMiPjwvc2NyaXB0PjxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij5zdExpZ2h0Lm9wdGlvbnMoe3B1Ymxpc2hlcjonMzJhNTZjMjAtYTE0MS00MDA2LWJhMDgtMWNjMTI2NTZiNjIwJ30pOzwvc2NyaXB0PmQCDg8WAh8CBfAJPHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPgp2YXIgX2dhcSA9IF9nYXEgfHwgW107CnZhciBwbHVnaW5VcmwgPSAKICcvL3d3dy5nb29nbGUtYW5hbHl0aWNzLmNvbS9wbHVnaW5zL2dhL2lucGFnZV9saW5raWQuanMnOwpfZ2FxLnB1c2goWydfcmVxdWlyZScsICdpbnBhZ2VfbGlua2lkJywgcGx1Z2luVXJsXSk7Cl9nYXEucHVzaCgKICAgWydfc2V0QWNjb3VudCcsICdVQS0yNzAwOTgyLTQnXSwKICAgWydfdHJhY2tQYWdldmlldyddLAogICBbJ3JvbGx1cC5fc2V0QWNjb3VudCcsICdVQS0zNjM2MTA2NC0xJ10sCiAgIFsncm9sbHVwLl9zZXREb21haW5OYW1lJywgJ21vbTM2NS5jb20nXSwKICAgWydyb2xsdXAuX3RyYWNrUGFnZXZpZXcnXQogICAKKTsKCiAoZnVuY3Rpb24oKSB7CiAgICB2YXIgZ2EgPSBkb2N1bWVudC5jcmVhdGVFbGVtZW50KCdzY3JpcHQnKTsgZ2EudHlwZSA9ICd0ZXh0L2phdmFzY3JpcHQnOyBnYS5hc3luYyA9IHRydWU7CiAgICBnYS5zcmMgPSAoJ2h0dHBzOicgPT0gZG9jdW1lbnQubG9jYXRpb24ucHJvdG9jb2wgPyAnaHR0cHM6Ly9zc2wnIDogJ2h0dHA6Ly93d3cnKSArICcuZ29vZ2xlLWFuYWx5dGljcy5jb20vZ2EuanMnOwogICAgdmFyIHMgPSBkb2N1bWVudC5nZXRFbGVtZW50c0J5VGFnTmFtZSgnc2NyaXB0JylbMF07IHMucGFyZW50Tm9kZS5pbnNlcnRCZWZvcmUoZ2EsIHMpOwogIH0pKCk7Cjwvc2NyaXB0PgoKPCEtLSBCZWdpbiBjb21TY29yZSBUYWcgLS0+CjxzY3JpcHQ+CiAgdmFyIF9jb21zY29yZSA9IF9jb21zY29yZSB8fCBbXTsKICBfY29tc2NvcmUucHVzaCh7IGMxOiAiMiIsIGMyOiAiMTU3NTkzOTUiIH0pOwogIChmdW5jdGlvbigpIHsKICAgIHZhciBzID0gZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0IiksIGVsID0gZG9jdW1lbnQuZ2V0RWxlbWVudHNCeVRhZ05hbWUoInNjcmlwdCIpWzBdOyBzLmFzeW5jID0gdHJ1ZTsKICAgIHMuc3JjID0gKGRvY3VtZW50LmxvY2F0aW9uLnByb3RvY29sID09ICJodHRwczoiID8gImh0dHBzOi8vc2IiIDogImh0dHA6Ly9iIikgKyAiLnNjb3JlY2FyZHJlc2VhcmNoLmNvbS9iZWFjb24uanMiOwogICAgZWwucGFyZW50Tm9kZS5pbnNlcnRCZWZvcmUocywgZWwpOwogIH0pKCk7Cjwvc2NyaXB0Pgo8bm9zY3JpcHQ+CiAgPGltZyBzcmM9Imh0dHA6Ly9iLnNjb3JlY2FyZHJlc2VhcmNoLmNvbS9wP2MxPTImYzI9MTU3NTkzOTUmY3Y9Mi4wJmNqPTEiIC8+Cjwvbm9zY3JpcHQ+CjwhLS0gRW5kIGNvbVNjb3JlIFRhZyAtLT4KCmQCDw8WAh8CBcAdPCEtLSBCZWdpbiBNb2JpbGUgUmVkaXJlY3QgLS0+CjxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij4KCS8qIQoJKiBKUyBSZWRpcmVjdGlvbiBNb2JpbGUKCSoKCSogQ29weXJpZ2h0IChjKSAyMDEwIFNlYmFzdGlhbm8gQXJtZWxpLUJhdHRhbmEgKGh0dHA6Ly9zZWJhcm1lbGkuY29tKQoJKiBNSVQgTGljZW5zZWQ6IGh0dHA6Ly93d3cub3BlbnNvdXJjZS5vcmcvbGljZW5zZXMvbWl0LWxpY2Vuc2UucGhwCgkqIEBsaW5rIGh0dHA6Ly9naXRodWIuY29tL3NlYmFybWVsaS9KUy1SZWRpcmVjdGlvbi1Nb2JpbGUtU2l0ZS8KCSovCgoJLyogCgkqIFRoaXMgdmVyc2lvbiBpcyBleGFjdGx5IHRoZSBzYW1lIGFzIHJlZGlyZWN0aW9uX21vYmlsZS5qcywgYnV0IGl0J3MgYW4gYW5vbnltb3VzIHNlbGYtZXhlY3V0aW5nCgkqIGZ1bmN0aW9uLCBhbmQgaXQncyB1c2luZyB0aGUgZGVmYXVsdCB2YWx1ZXMgZm9yIHBhcmFtICgiaXNTdGFuZGFyZFNpdGUiKSwgbW9iaWxlX3ByZWZpeCgibSIpLAoJKiBtb2JpbGVfdXJsKCIiKSBhbmQgY29va2llX2hvdXIoMSkuIEluIHRoaXMgd2F5IHlvdSBjYW4gZHJvcCB0aGlzIGZpbGUgb24geW91ciB3ZWIgc2VydmVyIHdpdGggbm8gY29uZmlndXJhdGlvbgoJKiAKCSogQGF1dGhvciBTZWJhc3RpYW5vIEFybWVsaS1CYXR0YW5hCgkqIEB2ZXJzaW9uIDAuNSAKCSogCgkqLwoKCS8qZ2xvYmFscyB3aW5kb3csIHJlZGlyZWN0aW9uX21vYmlsZSwgZG9jdW1lbnQsIG5hdmlnYXRvciwgbG9jYXRpb24gKi8KCShmdW5jdGlvbih3aW5kb3csIGRvY3VtZW50LCBuYXZpZ2F0b3IpIHsKCiAgICAgICAgLy8gSGVscGVyIGZ1bmN0aW9uCiAgICAgICAgdmFyIGFkZFRpbWVUb0RhdGUgPSBmdW5jdGlvbihtc2VjKSB7CgogICAgICAgICAgICAvLyBHZXQgdGhlIGN1cnJlbnQgZGF0ZQogICAgICAgICAgICB2YXIgZXhkYXRlID0gbmV3IERhdGUoKTsKCiAgICAgICAgICAgIC8vIEFkZCB0aW1lIHRvIHRoZSBkYXRlCiAgICAgICAgICAgIGV4ZGF0ZS5zZXRUaW1lKGV4ZGF0ZS5nZXRUaW1lKCkgKyBtc2VjKTsKCiAgICAgICAgICAgIC8vUmV0dXJuIHRoZSBuZXcgRGF0ZQogICAgICAgICAgICByZXR1cm4gZXhkYXRlOwoKICAgICAgICB9OwoKICAgICAgICAvLyBSZXRyaWV2ZSB0aGUgVXNlciBBZ2VudCBvZiB0aGUgYnJvd3NlcgogICAgICAgIHZhciBhZ2VudCA9IG5hdmlnYXRvci51c2VyQWdlbnQudG9Mb3dlckNhc2UoKSwKCiAgICAgICAgLy8gQ29uc3RhbnRzCgkJCVRSVUUgPSAidHJ1ZSIsCgogICAgICAgIC8vIHBhcmFtZXRlciB0byBiZSBwYXNzZWQgdG8gYXZvaWQgbW9iaWxlIHJlZGlyZWN0aW9uCgkJCXBhcmFtID0gImlzU3RhbmRhcmRTaXRlIiwKCiAgICAgICAgLy8gcHJlZml4IGFwcGVuZGVkIHRvIHRoZSBob3N0bmFtZQoJCQltb2JpbGVfcHJlZml4ID0gIiIsCgogICAgICAgIC8vIG5ldyB1cmwgZm9yIHRoZSBtb2JpbGUgc2l0ZSBkb21haW4gCgkJCW1vYmlsZV91cmwgPSAibW9tMzY1LmNiLW1vYmlsZS5jb20iLAoKCiAgICAgICAgLy8gcHJvdG9jb2wgZm9yIHRoZSBtb2JpbGUgc2l0ZSBkb21haW4gCgkJCW1vYmlsZV9wcm90b2NvbCA9IGRvY3VtZW50LmxvY2F0aW9uLnByb3RvY29sLAoKICAgICAgICAvLyBVUkwgaG9zdCBvZiBpbmNvbWluZyByZXF1ZXN0CgkJICAgIGhvc3QgPSBkb2N1bWVudC5sb2NhdGlvbi5ob3N0LAoKICAgICAgICAvLyBDb21wb3NlIHRoZSBtb2JpbGUgaG9zdG5hbWUgY29uc2lkZXJpbmcgIm1vYmlsZV91cmwiIG9yICJtb2JpbGVfcHJlZml4Iitob3N0bmFtZQoJCQltb2JpbGVfaG9zdCA9IG1vYmlsZV91cmwgfHwKCQkJCQkJCShtb2JpbGVfcHJlZml4ICsgIi4iICsKCQkJCQkJCQkoISFob3N0Lm1hdGNoKC9ed3d3XC4vaSkgPwoJCQkJCQkJCQlob3N0LnN1YnN0cmluZyg0KSA6CgkJCQkJCQkJCQlob3N0KSksCiAgICAgICAgLy9hbGVydCBtb2JpbGVfaG9zdDsJCQogICAgICAgIC8vIEV4cGlyeSBob3VycyBmb3IgY29va2llCgkJCWNvb2tpZV9ob3VycyA9IDEsCnVybCA9IGRvY3VtZW50LmxvY2F0aW9uLmhyZWYsCmNhcmVlcnMgPSBmYWxzZSwKICAgICAgICAvLyBDaGVjayBpZiB0aGUgVUEgaXMgYSBtb2JpbGUgb25lIChpcGhvbmUsIGlwb2QsIGlwYWQsIGFuZHJvaWQsIGJsYWNrYmVycnkpCgkJCWlzVUFNb2JpbGUgPSAhIShhZ2VudC5tYXRjaCgvKGlQaG9uZXxpUG9kfGlQYWR8YmxhY2tiZXJyeXxhbmRyb2lkfGh0Y3xraW5kbGV8bGd8bWlkcHxtbXB8bW9iaWxlfG5va2lhfG9wZXJhIG1pbml8cGFsbXxwb2NrZXR8cHNwfHNnaHxzbWFydHBob25lfHN5bWJpYW58dHJlbyBtaW5pfFBsYXlzdGF0aW9uIFBvcnRhYmxlfFNvbnlFcmljc3NvbnxTYW1zdW5nfE1vYmlsZUV4cGxvcmVyfFBhbG1Tb3VyY2V8QmVucXxXaW5kb3dzIFBob25lKS9pKSk7CgogICAgICAgIC8vIENoZWNrIGlmIHRoZSByZWZlcnJlciB3YXMgYSBtb2JpbGUgcGFnZSBvZiB0aGUgc2l0ZQogICAgICAgIC8vIChpbiB0aGF0IGNhc2Ugd2UgbmVlZCB0byBzZXQgYSB2YXJpYWJsZSBpbiB0aGUgc2Vzc2lvblN0b3JhZ2Ugb3IgaW4gdGhlIGNvb2tpZSkKICAgICAgICBpZiAoZG9jdW1lbnQucmVmZXJyZXIuaW5kZXhPZihtb2JpbGVfaG9zdCkgPj0gMCkgewogICAgICAgICAgICBpZiAod2luZG93LnNlc3Npb25TdG9yYWdlKSB7CiAgICAgICAgICAgICAgICB3aW5kb3cuc2Vzc2lvblN0b3JhZ2Uuc2V0SXRlbShwYXJhbSwgVFJVRSk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBkb2N1bWVudC5jb29raWUgPSBwYXJhbSArICI9IiArIFRSVUUgKyAiO2V4cGlyZXM9IiArCgkJCQkJCQkJCQkJCQlhZGRUaW1lVG9EYXRlKDM2MDAgKiAxMDAwICogY29va2llX2hvdXJzKS50b1VUQ1N0cmluZygpOwogICAgICAgICAgICB9CiAgICAgICAgfQoKICAgICAgICBpZiAodXJsLnRvTG93ZXJDYXNlKCkuaW5kZXhPZignY2FyZWVycycpID4gMCkgewogICAgICAgICAgICBjYXJlZXJzID0gdHJ1ZTsKICAgICAgICB9CiAgICAgICAgZWxzZSB7CiAgICAgICAgICAgIGNhcmVlcnMgPSBmYWxzZTsKICAgICAgICB9CgogICAgICAgIC8vIENoZWNrIGlmIHRoZSBzZXNzaW9uU3RvcmFnZSBjb250YWluIHRoZSBwYXJhbWV0ZXIKICAgICAgICB2YXIgaXNTZXNzaW9uU3RvcmFnZSA9ICh3aW5kb3cuc2Vzc2lvblN0b3JhZ2UpID8KCQkJCQkJCQkod2luZG93LnNlc3Npb25TdG9yYWdlLmdldEl0ZW0ocGFyYW0pID09PSBUUlVFKSA6CgkJCQkJCQkJIGZhbHNlLAoKICAgICAgICAvLyBDaGVjayBpZiB0aGUgQ29va2llIGhhcyBiZWVuIHNldCB1cAoJCQlpc0Nvb2tpZVNldCA9IGRvY3VtZW50LmNvb2tpZSA/CgkJCQkJCQkoZG9jdW1lbnQuY29va2llLmluZGV4T2YocGFyYW0pID49IDApIDoKCQkJCQkJCQlmYWxzZTsKCiAgICAgICAgLy8gQ2hlY2sgdGhhdCBVc2VyIEFnZW50IGlzIG1vYmlsZSwgY29va2llIGlzIG5vdCBzZXQgb3IgdmFsdWUgaW4gdGhlIHNlc3Npb25TdG9yYWdlIG5vdCBwcmVzZW50CiAgICAgICAgaWYgKGlzVUFNb2JpbGUgJiYgY2FyZWVycyAmJiAhKGlzQ29va2llU2V0IHx8IGlzU2Vzc2lvblN0b3JhZ2UpKSB7CiAgICAgICAgICAgIGRvY3VtZW50LmxvY2F0aW9uLmhyZWYgPSBtb2JpbGVfcHJvdG9jb2wgKyAiLy8iICsgbW9iaWxlX2hvc3Q7CiAgICAgICAgfQogICAgICAgIC8vZWxzZSB7ZG9jdW1lbnQubG9jYXRpb24uaHJlZiA9IHBjX3VybDt9CgogICAgfSAod2luZG93LCBkb2N1bWVudCwgbmF2aWdhdG9yKSk7Cgo8L3NjcmlwdD4KPCEtLSBFbmQgTW9iaWxlIFJlZGlyZWN0IC0tPgpkAhAPFgIfAQUsfi9BcHBfVGhlbWVzL01vbTM2NS9Dc3MvQWxiZXJ0LmNzcz8wNTI3MjAxMzFkAhEPFgIfAQUvfi9BcHBfVGhlbWVzL01vbTM2NS9Dc3MvY29yaXNhbmRlLmNzcz8wNTI3MjAxMzFkAhIPFgIfAQUofi9BcHBfVGhlbWVzL01vbTM2NS9Dc3MvaWUuY3NzPzA1MjcyMDEzMWQCEw8WAh8BBS1+L0FwcF9UaGVtZXMvTW9tMzY1L0Nzcy9waW1saWNvLmNzcz8wNTI3MjAxMzFkAhQPFgIfAQUsfi9BcHBfVGhlbWVzL01vbTM2NS9Dc3MvcmVzZXRzLmNzcz8wNTI3MjAxMzFkAhUPFgIfAQUofi9BcHBfVGhlbWVzL01vbTM2NS9zdHlsZXMuY3NzPzA1MjcyMDEzMWQCFg8WAh8BBTB+L0FwcF9UaGVtZXMvTW9tMzY1L3N0eWxlc0V4bnRlZGVkLmNzcz8wNTI3MjAxMzFkAgMPFgQeBm9ubG9hZAUPdHJhcEVudGVyX0ZGKCk7HgpvbmtleXByZXNzBRZyZXR1cm4gdHJhcEVudGVyX0lFKCk7FgICARBkZBYEAgUPZBYCZg9kFgYCBw9kFgRmD2QWBgIBDxYCHwEFEi9naWZ0cy9teWNhcnQuYXNweBYCZg8PFgIfAgUEQ2FydGRkAgMPFgIfAQUWL3N1YnNjcmliZS9zaWdudXAuYXNweBYCZg8PFgIfAgUESm9pbmRkAgUPFgIfAQUVL3N1YnNjcmliZS9sb2dpbi5hc3B4FgJmDw8WAh8CBQdTaWduIEluZGQCAQ9kFgwCAQ8PFgIfAgUCSGlkZAIFDw8WBB8CBQEgHglfX1Zpc2libGVoZGQCBg8PFgQfAgUNeW91ciBiYWJ5IGlzIB8FaGRkAg4PZBYCZg8PFgIfAgUHQWNjb3VudGRkAhAPZBYCZg8PFgIfAgUEQ2FydGRkAhIPDxYCHwIFCFNpZ24gT3V0ZGQCCQ8WAh4FY2xhc3MFFHNob3Agc3BlY2lhbCBoYXNkcm9wFgQCAQ8WAh8BBRUvYmFieXBob3RvZ3JhcGh5LmFzcHhkAgMPFgIeC18hSXRlbUNvdW50AgEWAgIBD2QWAmYPFQElL2JhYnlwaG90b2dyYXBoeS9maW5kYmFieXdlYnBhZ2UuYXNweGQCCw9kFgQCAQ9kFgICAQ9kFgICAQ8WAh4ETmFtZQUiVG9wLFJpZ2h0MSxSaWdodDMsQm90dG9tLExlZnQzIVRvcGQCAw9kFgICAQ9kFgICAQ8WAh8IBQRUb3AxZAIHD2QWAmYPZBYCZg9kFgQCBQ9kFgICBQ8WAh4HVmlzaWJsZWhkAgcPZBYCZg9kFgJmD2QWBAIBD2QWAgIBD2QWAgIBDxYCHwgFBkJvdHRvbWQCAw9kFgICAQ9kFgICAQ8WAh8IBQdCb3R0b20zZBgFBRNjdGwwNSRtdWx2d0hlYWRlckFkDw9kAgFkBRtjdGwwNSRtbHR2VXRpbGl0eU5hdmlnYXRpb24PD2RmZAUdY29udGVudF8wJGN0bDAwJG11bHZ3Rm9vdGVyQWQPD2QCAWQFHmNvbnRlbnRfMCRjdGwwMCRtdWx2d0Zvb3RlckFkMg8PZAIBZAUUY3RsMDUkbXVsdndIZWFkZXJBZDIPD2QCAWQHxWjrCsOKnBENaQQ70GspKbCoUA==">
 </div>
 
 <!-- ##### begin OAS browser test ##### -->
@@ -74,7 +260,7 @@ _version=10;}
 <script language="JavaScript"> <!--
 <!-- here are oas site, page, and random number variables -->
 var oas='http://oascentral.our365.com/RealMedia/ads/';
-var sitepage = "our365.com/aboutus/privacy.aspx";
+var sitepage = "www.mom365.com/aboutus/privacy.aspx";
 var RN = new String (Math.random());
 var RNS = RN.substring (2, 11);
 <!-- here is the ad insertion function -->
@@ -97,45 +283,154 @@ document.write ('\<\!-- --\>');
 </script>
 <!-- # end OAS function definition # -->
 <script src="/ScriptResource.axd?d=nPgi9ibOtd59AsM1d39myr8fgBQa3tpTWH6eYgimYTTjFaggDbO-AwbwHXxtqqsdcb_27QD1h2q8LgtyP3prXXoryQubsCPT6WciZdGO65PKxIam0&amp;t=3f0ccc7f" type="text/javascript"></script>
+    <div class="popUpHolder"><div class="content-modal-cover">&nbsp;</div></div>
+    
+                
+    
+    
+    <!-- HEADER -->
         
-        
-        
-        <!-- HEADER -->
-        
+
+
+
 
 <div class="header">
-    <header>
-        <div class="header-logo">
-            <a href="/">
-                <img src="~/media/Corporate/Images/Logos/logo-main.ashx" alt="Our365" width="105" height="62">
-            </a>
-        </div>
-        <div class="header-utilitynav">
-          
-                <ul>
-                    
-                    <li><a href="/SignIn.aspx" id="ctl05_hrefSignIn">MY BABY PAGE LOGIN</a> &nbsp;|</li>
-                    <li><a href="/Gifts/MyCart.aspx" id="ctl05_hrefMyCart">MY CART [0 ITEMS]</a></li>
-                </ul> 
-          
+  <header>
+    <div class="header-logo">
+         <a href="/"><img src="/~/media/Mom365/Images/Logos/logo-main.ashx?h=120&amp;w=215" alt="Mom365" width="215" height="120"></a>
+    </div>    
+        
+    <div class="header-search">
+        <div class="header-search-search">
+        
+            <input id="search-box" type="text" class="header-search-search global-txtfld-default" value="SEARCH MOM365" onkeypress="Mom365_SearchText2(event,'/search/communitysearchresults.aspx','search-box')" onfocus="ClearInitialValueTextBox(this,'SEARCH MOM365')" onblur="ResetTextBox(this,'SEARCH MOM365')">
         
         </div>
-        <nav class="main"><ul class="topnav-nav-navitems"><li class="medium"><a href="/BabyPhotography.aspx">WebNursery®</a><ul><li><a href="/BabyPhotography.aspx">Find Baby Web Page</a></li><li><a href="/Gifts/Ourshop.aspx">Browse Portrait Packages, Birth Announcements and Custom Keepsakes</a></li><li><a href="/AboutUs/Our365Foundation.aspx">Our Foundation</a></li><li><a title="Link to Professional Photography" target="_blank" href="http://www.our365photography.com/">Professional Photography</a></li></ul></li><li class="small"><a href="http://www.mom365.com/">Mom365</a><ul><li><a href="http://www.mom365.com/">Mom365 Home</a></li><li><a title="Link to Mom365 community site" href="http://community.mom365.com/">Community</a></li><li><a href="http://www.mom365.com/Wisdom.aspx">Archives</a></li><li><a title="Link to Facebook Mom365" target="_blank" href="http://www.facebook.com/Mom365">Connect on Facebook</a></li><li><a title="Follow Us Mom365 Twitter" target="_blank" href="http://twitter.com/Mom365">Follow Us On Twitter</a></li><li class="hasmorenav"><a target="_blank" href="http://www.shutterfly.com/our365parents/?pid=OUR3&amp;psid=WEB&amp;cid=OUR3NEWSWEB&amp;escFlag=1">Photo Sharing<span class="global-arrow"><cufon class="cufon cufon-canvas" alt="4" style="width: 11px; height: 11px;"><canvas width="12" height="11" style="width: 12px; height: 11px; top: 0px; left: 0px;"></canvas><cufontext>4</cufontext></cufon></span></a><ul><li><a title="Start a Photo Site on Shutterfly.com" href="http://www.shutterfly.com/our365parents/?pid=OUR3&amp;psid=WEB&amp;cid=OUR3NEWSWEB&amp;escFlag=1">Start a baby share site on shutterfly.com</a></li><li><a title="Link to Sign In on Shutterfly.com" href="https://www.shutterfly.com/signin/viewSignin.sfly?">Upload Photos on shutterfly.com</a></li></ul></li></ul></li><li class="small"><a href="/Gifts/Ourshop.aspx">Our Shop</a><ul><li><a href="/Gifts/Ourshop.aspx"><img src="~/media/Corporate/Images/MenuImages/OURSITE_MENU-SHOP_03.ashx" alt="Our365 Shop" width="67" height="42"></a></li><li><a href="/Gifts/PortraitPackages.aspx">Portrait Packages</a></li><li class="hasmorenav"><a href="/Gifts/BirthAnnouncements.aspx">Birth Announcements<span class="global-arrow"><cufon class="cufon cufon-canvas" alt="4" style="width: 11px; height: 11px;"><canvas width="12" height="11" style="width: 12px; height: 11px; top: 0px; left: 0px;"></canvas><cufontext>4</cufontext></cufon></span></a><ul><li><a href="/Gifts/BirthAnnouncements/PremiumPortrait.aspx">Premium Portrait</a></li><li><a href="/Gifts/BirthAnnouncements/BestSellers.aspx">Best Sellers</a></li><li><a href="/Gifts/BirthAnnouncements/Classic.aspx">Classic</a></li><li><a href="/Gifts/BirthAnnouncements/Twins-Multiples.aspx">Twins/ Multiples</a></li><li><a href="/Gifts/BirthAnnouncements/Modern.aspx">Modern</a></li><li><a href="/Gifts/BirthAnnouncements/Vintage.aspx">Vintage</a></li><li><a href="/Gifts/BirthAnnouncements/Sports.aspx">Sports</a></li></ul></li><li><a href="/Gifts/Keepsakes.aspx">Keepsakes</a></li></ul></li></ul></nav>
-    </header>
+      <div class="header-search-search-btn" onclick="Mom365_Search('search-box','/search/communitysearchresults.aspx')">&nbsp;</div>
+    </div>   
+    
+    <div class="header-utilitynav">
+    <div style="float:left; max-width:200px;">
+      <ul style="float:right; text-align:right;">
+        <li style="margin-top: 2px;"><a href="/aboutus/mom365.aspx">About Us</a>
+          &nbsp;|
+        </li><li style="margin-top: 2px;"><a href="/mom/getinvolved.aspx">Get Involved</a></li>      
+
+      </ul>
+      </div>
+      <div style="float:left;">
+        <div style="margin-left: 22px;">
+            <a class="social-button" href="http://www.facebook.com/mom365"><img src="/App_Themes/Mom365/Images/Icon-fb.png" alt="fb"></a>
+            <a class="social-button" href="http://twitter.com/mom365"><img src="/App_Themes/Mom365/Images/Icon-twitter.png" alt="fb"></a>
+            <a class="social-button" href="https://plus.google.com/113523402858547591909/posts"><img src="/App_Themes/Mom365/Images/Icon-google.png" alt="fb"></a>
+            <a class="social-button" href="http://pinterest.com/Mom365Pinterest/"><img src="/App_Themes/Mom365/Images/Icon-pinterest.png" alt="fb"></a>
+            <a class="social-button" href="http://instagram.com/mom365"><img src="/App_Themes/Mom365/Images/Icon-instragram.png" alt="fb"></a>
+        </div>
+      
+      </div>
+    </div>
+    
+    
+    
+    
+    <div class="header-utilitynav2">
+    
+            <a href="/gifts/mycart.aspx" id="ctl05_hrefCart" class="cart"><span id="LiteralCart">Cart</span></a> &nbsp;
+            <a href="/subscribe/signup.aspx" id="ctl05_hrefSignUp" class="global-btn global-orange background" style="width: 43px;text-align: center;font-size:13px;font-weight:bold;margin-top:-3px;"><span id="Literal2">Join</span></a> &nbsp;
+            <a href="/subscribe/login.aspx" id="ctl05_hrefSignIn" class="global-btn global-orange background" style="width: 43px;text-align: center;font-size:13px;font-weight:bold;margin-top:-3px;"><span id="Literal1">Sign In</span></a> &nbsp;
+        
+
+        
+   </div>
+   
+
+
+    
+    
+
+  </header>
 </div>
-        <!-- /HEADER -->
-        <!-- CONTENT -->
-        <div class="content">
-	        
 
 
+<div class="topnav">
+    <nav>
+        <ul>
+        <li><a href="/"><img width="38" height="50" src="/Images/Mom365/General/nav-home.png"></a></li>
+    <li class="hasdrop"><a href="http://community.mom365.com">COMMUNITY</a><ul><li><a href="http://community.mom365.com/main/authorization/signIn?target=http%3A%2F%2Fcommunity.mom365.com%2F">Sign In</a></li><li><a href="http://community.mom365.com/groups">Groups</a></li><li><a href="http://community.mom365.com/forum">Conversations</a></li><li><a href="http://community.mom365.com/photo">Photo Sharing</a></li></ul></li><li class="hasdrop blog"><a href="/mom.aspx">MOM</a><ul><li><a href="/mom/healthwellness.aspx">Health &amp; Wellness</a></li><li><a href="/mom/nutritionfitness.aspx">Nutrition &amp; Fitness</a></li><li><a href="/mom/workmoney.aspx">Work &amp; Money</a></li><li><a href="/mom/relationshipssex.aspx">Relationships &amp; Sex</a></li><li><a href="/quizzes.aspx">Quizzes</a></li><li><a href="/mom/inspiration.aspx">Inspiration</a></li><li><a href="/mom/humor.aspx">Humor</a></li><li><a href="/mom/beautystyle.aspx">Beauty &amp; Style</a></li><li><a href="/mom/dads.aspx">For Dads</a></li><li><a href="/mom/getinvolved.aspx">Get Involved</a></li></ul></li><li class="hasdrop blog"><a href="/pregnancy.aspx">PREGNANCY</a><ul><li><a href="/guide/registry.aspx">Registry Guide</a></li><li><a href="/quizzes/092412-popular-baby-names-quiz.aspx">Popular Baby Names Quiz</a></li><li><a href="/pregnancy/find-popular-baby-names.aspx">Find Baby Names</a></li></ul></li><li class="hasdrop blog"><a href="/baby.aspx">BABY</a><ul><li><a href="/guide/birthday.aspx">1st Birthday Guide</a></li><li><a href="/quizzes/01032013-baby-personality-quiz.aspx">What's Your Baby's Personality?</a></li></ul></li><li class="hasdrop blog"><a href="/toddler.aspx">TODDLER</a><ul><li><a href="/guide/activeplay.aspx">Active Play Guide</a></li><li><a href="/quizzes/02112013-terrible-twos-quiz.aspx">Quiz: Your Terrible Twos</a></li></ul></li><li class="hasdrop blog"><a href="/preschool.aspx">PRESCHOOL</a><ul><li><a href="/slideshows/122712-hottest-toys-of-2012.aspx">10 Most Popular Toys</a></li></ul></li><li class="hasdrop"><a href="/gifts/ourshop.aspx">SHOP</a><ul><li><a href="/gifts/portraitpackages.aspx">Portrait Packages</a></li><li><a href="/gifts/birthannouncements.aspx">Birth Announcements</a></li><li><a href="/gifts/keepsakes.aspx">Keepsakes</a></li></ul></li><li class="hasdrop"><a href="/save.aspx">SAVE</a><ul><li><a href="/deals/featureddeals.aspx">Deals</a></li><li><a href="/save/coupons.aspx">Coupons</a></li><li><a href="http://community.mom365.com/page/deals">Freebies and Giveaways</a></li><li><a href="/save/ourmomslove.aspx">Our Moms Love</a></li></ul></li><li><a href="/win.aspx">WIN&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></li>
+        <li id="ctl05_liSpecial" class="shop special hasdrop">
+            <a href="/babyphotography.aspx" id="ctl05_hrefBabyPortraits">
+                Baby Portraits
+            </a>
+            
+            
+                 <ul>
+            
+                <li><a href="/babyphotography/findbabywebpage.aspx">Find Baby Web Page</a></li>
+            
+            
+                </ul>
+            
+           
+               
+            
+            
+        </li>
+            </ul>
+      </nav>
+</div>
+
+
+
+<div id="ctl05_divAds" class="ad">
+	
+    <div class="ad-cont">
+    
+    
+            <div class="global-float-left">
+                <div class="promoContainer">
+	<!-- ##### ad call for second position ##### -->
+<script language="JavaScript">
+<!--
+DisplayAds ("Top,Right1,Right3,Bottom,Left3!Top", "728", "103");
+//-->
+</script><script language="JavaScript1.1" src="http://oascentral.our365.com/RealMedia/ads/adstream_jx.ads/www.mom365.com/aboutus/privacy.aspx/1263984580@Top,Right1,Right3,Bottom,Left3!Top"><!-- --></script><!-- -->
+</div>
+           </div>
+          
+        
+     
+
+
+
+              <div class="global-float-right" style="height:90px; overflow:hidden;">
+                <div class="promoContainer">
+	<!-- ##### ad call for second position ##### -->
+<script language="JavaScript">
+<!--
+DisplayAds ("Top1", "230", "90");
+//-->
+</script><script language="JavaScript1.1" src="http://oascentral.our365.com/RealMedia/ads/adstream_jx.ads/www.mom365.com/aboutus/privacy.aspx/1263984580@Top1"><!-- --></script><!-- -->
+</div>
+            </div>
+        
+
+
+
+    </div>
+
+</div>
+    <!-- /HEADER -->
+    <!-- CONTENT -->
+        
+
+<div class="content">
 <div class="content-cont">
     <div class="content-subheader">
         <h1>About Us</h1>
     </div>
     <div class="global-clear">&nbsp;</div>
     <section id="content_0_divContentLeft" class="content-cont-left">
-        <ul class="content-cont-left-nav"><li><a href="/AboutUs/AboutOur365.aspx">About Our365</a></li><li><a href="/AboutUs/OurManagement.aspx">Our Management</a></li><li><a href="/AboutUs/ProfessionalPhotography.aspx">Professional Photography</a></li><li><a href="/AboutUs/Mom365.aspx">About Mom365</a></li><li><a href="/AboutUs/Our365Foundation.aspx">Our365 Foundation</a></li><li><a href="/AboutUs/Careers.aspx">Careers</a></li><li><a href="/AboutUs/Help.aspx">Help</a></li><li><a href="/AboutUs/Terms-And-Conditions.aspx">Terms And Conditions</a></li><li class="selected"><a href="/AboutUs/Privacy.aspx">Privacy</a></li><li><a href="/AboutUs/ForProfessionals.aspx">Hospital Professionals</a></li><li><a href="/AboutUs/Sitemap.aspx">Sitemap</a></li></ul>
+        <ul class="content-cont-left-nav"><li><a href="/aboutus/aboutour365.aspx">About Mom365</a></li><li><a href="/aboutus/advertise.aspx">ADVERTISE WITH US</a></li><li><a href="/aboutus/professionalphotography.aspx">Professional Photography</a></li><li><a href="/aboutus/our365foundation.aspx">Foundation</a></li><li><a href="/aboutus/careers.aspx">Careers</a></li><li><a href="/aboutus/help.aspx">Help</a></li><li><a href="/aboutus/terms-and-conditions.aspx">Terms And Conditions</a></li><li class="selected"><a href="/aboutus/privacy.aspx">Privacy</a></li><li><a href="/aboutus/forprofessionals.aspx">Hospital Professionals</a></li></ul>
         <div class="global-clear">&nbsp;</div>
         
         
@@ -146,128 +441,162 @@ document.write ('\<\!-- --\>');
 <!--
 DisplayAds ("Left3,Bottom1,Bottom2!Left3", "0", "0");
 //-->
-</script><script language="JavaScript1.1" src="http://oascentral.our365.com/RealMedia/ads/adstream_jx.ads/our365.com/aboutus/privacy.aspx/1470961743@Left3,Bottom1,Bottom2!Left3"><!-- --></script><!-- -->
+</script><script language="JavaScript1.1" src="http://oascentral.our365.com/RealMedia/ads/adstream_jx.ads/www.mom365.com/aboutus/privacy.aspx/1263984580@Left3,Bottom1,Bottom2!Left3"><!-- --></script><!-- -->
 </div>
         <div class="global-clear">&nbsp;</div>
         
     </section>
     <section id="content_0_divContentRightPane" class="content-cont-right"> 
-        <h2>Our365 Privacy Policy</h2>
+        <h2>Mom365 Privacy Policy</h2>
         <section id="content_0_divContentMiddle">
             <p style="margin: 0in 0in 10pt;">Effective Date:&nbsp;January 30, 2012</p>
-<p style="margin: 0in 0in 10pt;"><b>Introduction</b></p>
-<p style="margin: 0in 0in 10pt;">This Our365 Privacy Policy describes the manner in which Our365, Inc. (“Our365”) collects, uses, maintains, discloses and otherwise manages information collected and controlled by Our365, including Personal Information collected through the websites available at www.Our365.com and www.Mom365.com (the "Sites").&nbsp; </p>
-<p style="margin: 0in 0in 10pt;"><b>The Principles</b></p>
-<p style="margin: 0in 0in 10pt;"><b>Principle 1 - Accountability</b></p>
-<p style="margin: 0in 0in 10pt;">1.1 The Our365 Chief Information Officer and President of Hospital Operations oversee Our365's compliance with the Our365 Privacy Policy. &nbsp;</p>
-<p style="margin: 0in 0in 10pt;"><b>Principle 2 - Identifying Purposes - Collection of Information</b></p>
-<p style="margin: 0in 0in 10pt;">Our365 collects Personal Information and non-personally identifiable information.&nbsp; </p>
+<p style="margin: 0in 0in 10pt;"><strong>Introduction</strong></p>
+<p style="margin: 0in 0in 10pt;">This Mom365 Privacy Policy describes the manner in which Mom365, Inc. (“Mom365”) collects, uses, maintains, discloses and otherwise manages information collected and controlled by Mom365, including Personal Information collected through the websites available at www.Mom365.com (the "Sites").&nbsp; </p>
+<p style="margin: 0in 0in 10pt;"><strong>The Principles</strong></p>
+<p style="margin: 0in 0in 10pt;"><strong>Principle 1 - Accountability</strong></p>
+<p style="margin: 0in 0in 10pt;">1.1 The Mom365 Chief Information Officer, Chief Operating Officer and Vice President of Consumer Marketing oversee Mom365's compliance with the Mom365 Privacy Policy. &nbsp;</p>
+<p style="margin: 0in 0in 10pt;"><strong>Principle 2 - Identifying Purposes - Collection of Information</strong></p>
+<p style="margin: 0in 0in 10pt;">Mom365 collects Personal Information and non-personally identifiable information.&nbsp; </p>
 <p style="margin: 0in 0in 10pt;">“Personal Information” is&nbsp; information about an identifiable individual, including but not limited to the following: first and last name, mailing address, e-mail address, phone number, baby's name, baby's birth date, and other applicable birth event statistics.</p>
-<p style="margin: 0in 0in 10pt 0.5in;"><b>General Collection of Information </b></p>
-<p style="margin: 0in 0in 10pt;">2.1 Our365 collects Personal Information on its Sites and elsewhere through:</p>
+<p style="margin: 0in 0in 10pt 0.5in;"><strong>General Collection of Information </strong></p>
+<p style="margin: 0in 0in 10pt;">2.1 Mom365 collects Personal Information on its Sites and elsewhere through:</p>
 <ul style="list-style-type: disc;">
-    <li style="margin: 0in 0in 10pt;">Our365 representatives and employees; </li>
+    <li style="margin: 0in 0in 10pt;">Mom365 representatives and employees; </li>
     <li style="margin: 0in 0in 10pt;">Our customer service department; </li>
     <li style="margin: 0in 0in 10pt;">Registration or participation in online forums and communities; </li>
     <li style="margin: 0in 0in 10pt;">Telephone, paper and online polls, surveys, contests and sweepstakes; </li>
-    <li style="margin: 0in 0in 10pt;">Enrollment in various Our365 programs and services; and</li>
-    <li style="margin: 0in 0in 10pt;">Other online and electronic activity with Our365.</li>
+    <li style="margin: 0in 0in 10pt;">Enrollment in various Mom365 programs and services; and</li>
+    <li style="margin: 0in 0in 10pt;">Other online and electronic activity with Mom365.</li>
 </ul>
-<p style="margin: 0in 0in 10pt;">2.2 Our365 collects Personal Information for the following purposes:</p>
+<p style="margin: 0in 0in 10pt;">2.2 Mom365 collects Personal Information for the following purposes:</p>
 <ul style="list-style-type: disc;">
     <li style="margin: 0in 0in 10pt;">To process product orders and returns; </li>
     <li style="margin: 0in 0in 10pt;">To process payments;</li>
-    <li style="margin: 0in 0in 10pt;">To process website search requests and enrollment in and registration for Our365 programs and services; </li>
-    <li style="margin: 0in 0in 10pt;">To communicate information and special offers from Our365 and/or third-party corporations or other organizations (“Partners”) that have an agreement with Our365 to provide promotional offers and discounts to you; </li>
+    <li style="margin: 0in 0in 10pt;">To process website search requests and enrollment in and registration for Mom365 programs and services; </li>
+    <li style="margin: 0in 0in 10pt;">To communicate information and special offers from Mom365 and/or third-party corporations or other organizations (“Partners”) that have an agreement with Mom365 to provide promotional offers and discounts to you; </li>
     <li style="margin: 0in 0in 10pt;">To respond to requests for information about our products and services; </li>
     <li style="margin: 0in 0in 10pt;">To better understand and analyze your needs and preferences;</li>
     <li style="margin: 0in 0in 10pt;">To develop, enhance, market and provide products and services to meet those needs and preferences; </li>
     <li style="margin: 0in 0in 10pt;">To notify you if you win a contest or sweepstakes, and to provide the contest or sweepstakes prize to you; and</li>
-    <li style="margin: 0in 0in 10pt;">To ship products to those individuals that provide product reviews to or on behalf of Our365.</li>
+    <li style="margin: 0in 0in 10pt;">To ship products to those individuals that provide product reviews to or on behalf of Mom365.</li>
 </ul>
-<p style="margin: 0in 0in 10pt 0.5in;"><b>Additional Collection of Information Online</b></p>
-<p style="margin: 0in 0in 10pt; background: white;">2.3 Our365 also collects non-personally identifiable information from users of its Sites. Non-personally identifiable information is anonymous information that we do not associate with Personal Information. </p>
-<p style="margin: 0in 0in 10pt; background: white;">2.4 One type of non-personally identifiable information that we collect (either directly, through the use of "cookies" or through the use of a third-party tracking system) is the IP address of the computer making the request. This IP address may be associated with your personal computer, or with a computer used by the portal through which you accessed the Internet, such as your Internet Service Provider or company network. IP addresses are not linked to Personal Information.</p>
-<p style="margin: 0in 0in 10pt; background: white;">2.5 &nbsp;We also gather information about (1) the areas that users visit on the Sites, and (2) the links that users select from within the Sites to other areas of the World Wide Web or elsewhere online. Our365 uses such information in the aggregate to understand how website visitors (as a group) use the services and resources provided on our Sites. This way, Our365 knows which areas of its Sites are most popular, which areas need development and what technologies are being used so that Our365 may continually improve its site and provide users with a positive online experience. </p>
-<p style="margin: 0in 0in 10pt; background: white;">2.6 Our Sites use cookies. A "cookie" is a piece of information that a Site sends to your computer while you are viewing the Site to remember who you are the next time you visit the Site. <b><i></i></b></p>
-<p style="margin: 0in 0in 10pt; background: white;">2.7 &nbsp;We use cookies on our Sites to understand site usage and to improve the content and offerings on our Sites. For example, we may use cookies to personalize your experience on our Sites (e.g. to recognize you by name when you return to our Sites). Many pages on our Sites where you are prompted to log in or that are customizable require that you accept cookies to function properly.&nbsp; You may set your Web browser to notify you when you receive a cookie. Should you decide not to accept cookies from our Sites, you will limit the functionality we can provide. </p>
-<p style="margin: 0in 0in 10pt 0.5in;"><b>Collection of Information from Photography Customers</b></p>
-<p style="margin: 0in 0in 10pt;">2.8&nbsp; All information collected by Our365 is gathered directly from the Customer; it is never obtained from hospital records or medical files.</p>
-<p style="margin: 0in 0in 10pt;"><b>Principle 3 - Consent/Opt-Out </b></p>
-<p style="margin: 0in 0in 10pt;">Our365 obtains consent for the collection, use and/or disclosure of Personal Information at the time of collection.&nbsp; <b><i></i></b></p>
-<p style="margin: 0in 0in 10pt;">If you do not provide Personal Information to us, you may be unable to purchase products and services from us and may be unable to use certain portions of the Sites.<b><i></i></b></p>
-<p style="margin: 0in 0in 10pt;"><b>Principle 4 – Limiting Collection </b></p>
-<p style="margin: 0in 0in 10pt;">4.1 We do not knowingly collect Personal Information from children under the age of 13.&nbsp;&nbsp; <b><i></i></b></p>
-<p style="margin: 0in 0in 10pt;"><b>Principle 5 - Use, Disclosure and Retention </b></p>
-<p style="margin: 0in 0in 10pt;"><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; General Use, Disclosure and Retention</b></p>
-<p style="margin: 0in 0in 10pt;">Our365 will only use or disclose Personal Information for purposes specified in this Privacy Policy or as you otherwise consent. </p>
-<p style="margin: 0in 0in 10pt; background: white;">5.1 Our365’s “Mom365 Community” and other online communities may be run on platforms operated by third parties (e.g., Ning.com).&nbsp;The Mom365 Community is currently operated by Ning.com. Thus, when you register for Mom365 Community, any information you provide is given to both Our365 and Ning.com. Ning.com’s privacy practices may vary from those of Our365, so we encourage you to carefully review Ning.com’s Terms of Service and Privacy Policy.</p>
-<p style="margin: 0in 0in 10pt;">5.2 In the course of processing a transaction with you, we may share some of your Personal Information with certain entities that we have contracted with to process and/or manage transactions, data management, and communications on our behalf. Such functions include package deliveries and credit card payment processing. Our365 may give these companies access to your Personal Information only to the extent necessary to provide you with these specific services.&nbsp; </p>
-<p style="margin: 0in 0in 10pt;">5.3 We may use Personal Information to communicate information and special offers from Our365 and its Partners.</p>
-<p style="margin: 0in 0in 10pt;">5.4 Our365 may also share your Personal Information from time to time with its Partners so that they can (a) inform you about their products, services, rewards and special offers, and (b) ship contest and sweepstakes prizes to you.</p>
-<p style="margin: 0in 0in 10pt;">5.5 Our365 may disclose Personal Information that it collects if, in its opinion, such disclosure is required to comply with legal process or procedure, for example, in response to a subpoena, search warrant or other governmental inquiry or order. It may also disclose such information in response to a law enforcement agency's request or to an investigative body in the case of a breach of an agreement or contravention of law, or as otherwise required or permitted by law. We may also disclose Personal Information to assist us in collecting a debt owed by you. </p>
-<p style="margin: 0in 0in 10pt;">5.6 Our365 may also transfer any Personal Information in the event that all or a portion of our business or assets are sold or transferred to a third party, including without limitation in the course of insolvency proceedings. </p>
-<p style="margin: 0in 0in 10pt;">5.7 Our365 does not otherwise trade, rent or sell Personal Information without your prior consent.</p>
-<p style="margin: 0in 0in 10pt;">5.8 Our365 may share non-personally identifiable information with its suppliers and other third parties for trend analysis and other statistical purposes. </p>
-<p style="margin: 0in 0in 10pt;"><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Additional Use of Information for Photography Customers</b></p>
-<p style="margin: 0in 0in 10pt; background: white;">5.9 Our365 provides customers who have photographs taken while in the hospital a web page on Our365.com for their baby that may also be linked to the birth hospital's home page. Customers must provide consent to this service prior to a Baby Web Page being posted to the WebNursery® section of Our365.com.&nbsp; (A “Baby Web Page” is a page on the Sites where photographs and information about a particular Customer’s baby is posted.) </p>
-<p style="margin: 0in 0in 10pt; background: white;">5.10 The following information may be displayed on a Baby Web Page: parents' first names; baby's first name, middle name and last initial; weight; length; place of birth; and date and time of birth. Depending on the hospital where your photographs were taken, you may have the option to password protect your Baby Web Page using the "Edit Baby Info" link within WebNursery® Baby Web Page, or the My Account link in the site header. When the Baby Web Page is password protected, only those individuals whom you invite to view Baby Web Page are able to do so.</p>
-<p style="margin: 0in 0in 10pt;"><b>Principle 6 - Accuracy</b></p>
-<p style="margin: 0in 0in 10pt;">6.1 Our365 updates Personal Information in its database if you provide updated Personal Information to Our365. </p>
-<p style="margin: 0in 0in 10pt;">6.2 You are responsible for informing Our365 about changes to Personal Information, as appropriate. </p>
-<p style="margin: 0in 0in 10pt;"><b>Principle 7 – Safeguards</b></p>
-<p style="margin: 0in 0in 10pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>General Safeguards</b></p>
-<p style="margin: 0in 0in 10pt;">Our365 protects Personal Information in its custody and control with reasonable administrative, technical and physical safeguards appropriate to the sensitivity of the Personal Information. </p>
-<p style="margin: 0in 0in 10pt;">7.1 Our365 has implemented administrative, technical and physical safeguards in an effort to protect the Personal Information in its custody and control against loss, theft, and unauthorized access, disclosure, copying, use or modification of Personal Information in our custody and control. Our365 protects Personal Information regardless of the format in which it is held. </p>
+<p style="margin: 0in 0in 10pt 0.5in;"><strong>Additional Collection of Information Online</strong></p>
+<p style="margin: 0in 0in 10pt; background-color: white;">2.3 Mom365 also collects non-personally identifiable information from users of its Sites. Non-personally identifiable information is anonymous information that we do not associate with Personal Information. </p>
+<p style="margin: 0in 0in 10pt; background-color: white;">2.4 One type of non-personally identifiable information that we collect (either directly, through the use of "cookies" or through the use of a third-party tracking system) is the IP address of the computer making the request. This IP address may be associated with your personal computer, or with a computer used by the portal through which you accessed the Internet, such as your Internet Service Provider or company network. IP addresses are not linked to Personal Information.</p>
+<p style="margin: 0in 0in 10pt; background-color: white;">2.5 &nbsp;We also gather information about (1) the areas that users visit on the Sites, and (2) the links that users select from within the Sites to other areas of the World Wide Web or elsewhere online. Mom365 uses such information in the aggregate to understand how website visitors (as a group) use the services and resources provided on our Sites. This way, Mom365 knows which areas of its Sites are most popular, which areas need development and what technologies are being used so that Mom365 may continually improve its site and provide users with a positive online experience. </p>
+<p style="margin: 0in 0in 10pt; background-color: white;">2.6 Our Site uses cookies. A "cookie" is a piece of information that a Site sends to your computer while you are viewing the Site to remember who you are the next time you visit the Site. <strong><em></em></strong></p>
+<p style="margin: 0in 0in 10pt; background-color: white;">2.7 &nbsp;We use cookies on our Site to understand site usage and to improve the content and offerings on our Sites. For example, we may use cookies to personalize your experience on our Sites(e.g. to recognize you by name when you return to our Site). Many pages on our Site where you are prompted to log in or that are customizable require that you accept cookies to function properly.&nbsp; You may set your Web browser to notify you when you receive a cookie. Should you decide not to accept cookies from our Site, you will limit the functionality we can provide. </p>
+<p style="margin: 0in 0in 10pt 0.5in;"><strong>Collection of Information from Photography Customers</strong></p>
+<p style="margin: 0in 0in 10pt;">2.8&nbsp; All information collected by Mom365 is gathered directly from the Customer; it is never obtained from hospital records or medical files.</p>
+<p style="margin: 0in 0in 10pt;"><strong>Principle 3 - Consent/Opt-Out </strong></p>
+<p style="margin: 0in 0in 10pt;">Mom365 obtains consent for the collection, use and/or disclosure of Personal Information at the time of collection.&nbsp; <strong><em></em></strong></p>
+<p style="margin: 0in 0in 10pt;">If you do not provide Personal Information to us, you may be unable to purchase products and services from us and may be unable to use certain portions of the Sites.<strong><em></em></strong></p>
+<p style="margin: 0in 0in 10pt;"><strong>Principle 4 – Limiting Collection </strong></p>
+<p style="margin: 0in 0in 10pt;">4.1 We do not knowingly collect Personal Information from children under the age of 13.&nbsp;&nbsp; <strong><em></em></strong></p>
+<p style="margin: 0in 0in 10pt;"><strong>Principle 5 - Use, Disclosure and Retention </strong></p>
+<p style="margin: 0in 0in 10pt;"><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; General Use, Disclosure and Retention</strong></p>
+<p style="margin: 0in 0in 10pt;">Mom365 will only use or disclose Personal Information for purposes specified in this Privacy Policy or as you otherwise consent. </p>
+<p style="margin: 0in 0in 10pt; background-color: white;">5.1 Mom365’s “Mom365 Community” and other online communities may be run on platforms operated by third parties (e.g., Ning.com).&nbsp;The Mom365 Community is currently operated by Ning.com. Thus, when you register for Mom365 Community, any information you provide is given to both Mom365 and Ning.com. Ning.com’s privacy practices may vary from those of Mom365, so we encourage you to carefully review Ning.com’s Terms of Service and Privacy Policy.</p>
+<p style="margin: 0in 0in 10pt;">5.2 In the course of processing a transaction with you, we may share some of your Personal Information with certain entities that we have contracted with to process and/or manage transactions, data management, and communications on our behalf. Such functions include package deliveries and credit card payment processing. Mom365 may give these companies access to your Personal Information only to the extent necessary to provide you with these specific services.&nbsp; </p>
+<p style="margin: 0in 0in 10pt;">5.3 We may use Personal Information to communicate information and special offers from Mom365 and its Partners.</p>
+<p style="margin: 0in 0in 10pt;">5.4 Mom365 may also share your Personal Information from time to time with its Partners so that they can (a) inform you about their products, services, rewards and special offers, and (b) ship contest and sweepstakes prizes to you.</p>
+<p style="margin: 0in 0in 10pt;">5.5 Mom365 may disclose Personal Information that it collects if, in its opinion, such disclosure is required to comply with legal process or procedure, for example, in response to a subpoena, search warrant or other governmental inquiry or order. It may also disclose such information in response to a law enforcement agency's request or to an investigative body in the case of a breach of an agreement or contravention of law, or as otherwise required or permitted by law. We may also disclose Personal Information to assist us in collecting a debt owed by you. </p>
+<p style="margin: 0in 0in 10pt;">5.6 Mom365 may also transfer any Personal Information in the event that all or a portion of our business or assets are sold or transferred to a third party, including without limitation in the course of insolvency proceedings. </p>
+<p style="margin: 0in 0in 10pt;">5.7 Mom365 does not otherwise trade, rent or sell Personal Information without your prior consent.</p>
+<p style="margin: 0in 0in 10pt;">5.8 Mom365 may share non-personally identifiable information with its suppliers and other third parties for trend analysis and other statistical purposes. </p>
+<p style="margin: 0in 0in 10pt;"><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Additional Use of Information for Photography Customers</strong></p>
+<p style="margin: 0in 0in 10pt; background-color: white;">5.9 Mom365 provides customers who have photographs taken while in the hospital a web page on Mom365.com for their baby that may also be linked to the birth hospital's home page. Customers must provide consent to this service prior to a Baby Web Page being posted to the Baby Portrait Page® section of Mom365.com.&nbsp; (A “Baby Portrait Page” is a page on the Sites where photographs and information about a particular Customer’s baby is posted.) </p>
+<p style="margin: 0in 0in 10pt; background-color: white;">5.10 The following information may be displayed on a Baby Portrait Page: parents' first names; baby's first name, middle name and last initial; weight; length; place of birth; and date and time of birth. Depending on the hospital where your photographs were taken, you may have the option to password protect your Baby Portrait Page using the "Edit Baby Info" link within Baby Portrait Page, or the My Account link in the site header. When the Baby Portrait Page is password protected, only those individuals whom you invite to view Baby Portrait Page are able to do so.</p>
+<p style="margin: 0in 0in 10pt;"><strong>Principle 6 - Accuracy</strong></p>
+<p style="margin: 0in 0in 10pt;">6.1 Mom365 updates Personal Information in its database if you provide updated Personal Information to Mom365. </p>
+<p style="margin: 0in 0in 10pt;">6.2 You are responsible for informing Mom365 about changes to Personal Information, as appropriate. </p>
+<p style="margin: 0in 0in 10pt;"><strong>Principle 7 – Safeguards</strong></p>
+<p style="margin: 0in 0in 10pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>General Safeguards</strong></p>
+<p style="margin: 0in 0in 10pt;">Mom365 protects Personal Information in its custody and control with reasonable administrative, technical and physical safeguards appropriate to the sensitivity of the Personal Information. </p>
+<p style="margin: 0in 0in 10pt;">7.1 Mom365 has implemented administrative, technical and physical safeguards in an effort to protect the Personal Information in its custody and control against loss, theft, and unauthorized access, disclosure, copying, use or modification of Personal Information in our custody and control. Mom365 protects Personal Information regardless of the format in which it is held. </p>
 <p style="margin: 0in 0in 10pt;">7.2 The methods of protection for Personal Information may include: </p>
 <ul style="list-style-type: disc;">
-    <li style="margin: 0in 0in 10pt; background: white;">Physical measures, for example, locked filing cabinets and restricted access to offices;</li>
-    <li style="margin: 0in 0in 10pt; background: white;">Administrative measures, for example, employee confidentiality agreements, security clearances and limiting access on a "need-to-know" basis; and </li>
-    <li style="margin: 0in 0in 10pt; background: white;">Technological measures, for example, the use of passwords, firewalls and encryption. </li>
+    <li style="margin: 0in 0in 10pt; background-color: white;">Physical measures, for example, locked filing cabinets and restricted access to offices;</li>
+    <li style="margin: 0in 0in 10pt; background-color: white;">Administrative measures, for example, employee confidentiality agreements, security clearances and limiting access on a "need-to-know" basis; and </li>
+    <li style="margin: 0in 0in 10pt; background-color: white;">Technological measures, for example, the use of passwords, firewalls and encryption. </li>
 </ul>
-<p style="margin: 0in 0in 10pt;">7.3 Personal Information is stored on databases in Our365 production facilities and at third-party database management and storage facilities in the U.S.&nbsp;Our365 may in the future store information on storage facilities available on the Internet; this practice is commonly known as cloud computing. </p>
+<p style="margin: 0in 0in 10pt;">7.3 Personal Information is stored on databases in Mom365 production facilities and at third-party database management and storage facilities in the U.S.&nbsp;Mom365 may in the future store information on storage facilities available on the Internet; this practice is commonly known as cloud computing. </p>
 <p>7.4 We may provide your personally identifiable information to third parties who provide services to us or on our behalf. These third parties may provide a variety of services including, without limitation, delivering your order, providing or operating certain features of the Site (e.g., the online shopping cart), providing billing and/or payment services, and/or sending or coordinating the sending of marketing or other communications.&nbsp; </p>
-<p style="margin: 0in 0in 10pt;">7.5 Our365 has appropriate training programs in place and provides employees with information about its policies and procedures for maintaining the privacy of Personal Information and the importance of maintaining the confidentiality of Personal Information. </p>
+<p style="margin: 0in 0in 10pt;">7.5 Mom365 has appropriate training programs in place and provides employees with information about its policies and procedures for maintaining the privacy of Personal Information and the importance of maintaining the confidentiality of Personal Information. </p>
 <p style="margin: 0in 0in 10pt;">7.6 Personal Information is disposed of or destroyed with care to prevent unauthorized parties from gaining access to the information. </p>
-<p style="margin: 0in 0in 10pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Online Safeguards</b></p>
-<p style="margin: 0in 0in 10pt;">7.7 You may protect online access to your Account with a password you select. You alone are responsible for any and all activity that occurs on our Sites under such password. You agree to immediately notify Our365 of any unauthorized use of your password or user name or any other breach of security. You agree to provide true, current, complete and accurate information as requested on any registration form to which our Sites may direct you, and to update that registration information as soon as possible after any information on such registration form changes. </p>
-<p style="margin: 0in 0in 10pt;"><b>Principle 8 - Openness </b></p>
-<p style="margin: 0in 0in 10pt;">Our365 makes specific information about its policies and practices relating to the management of Personal Information readily available to you, through face-to-face interaction with Our365 representatives and photographers, written materials, its Sites, and agents in its Customer Care Center. </p>
-<p style="margin: 0in 0in 10pt;"><b>Principle 9 - Individual Access </b></p>
-<p style="margin: 0in 0in 10pt;">Upon request, Our365 provides you with a general right of access to your Personal Information held by Our365 and an account of its use and disclosure. </p>
-<p style="margin: 0in 0in 10pt;">9.1 You can request access to Personal Information held by Our365 by contacting Our365 at the address provided in Section 10.2. </p>
-<p style="margin: 0in 0in 10pt;">9.2 Our365 may request sufficient information from you (including passwords) to verify your identity and the existence, use and disclosure of Personal Information held by Our365. </p>
-<p style="margin: 0in 0in 10pt;">9.3 You may challenge the accuracy and completeness of the Personal Information contained in the Our365 database and have it amended as appropriate. When Our365 does not resolve a challenge to your satisfaction, the Our365 database will reflect the unresolved challenge. </p>
-<p style="margin: 0in 0in 10pt;">9.4 Our365 amends the Personal Information contained in the Our365 databases to address inaccuracies or incompleteness of the Personal Information when you notify Our365 of such inaccuracies or incompleteness. </p>
-<p style="margin: 0in 0in 10pt;">9.5 If Our365 does not provide access to all the Personal Information it holds about you, it will provide the reasons for denying such access to you. </p>
-<p style="margin: 0in 0in 10pt;"><b>Principle 10 - Challenging Compliance/Inquiries</b></p>
-<p style="margin: 0in 0in 10pt;">10.1 A Customer may challenge Our365's compliance with the above principles with the Chief Information Officer or President of Hospital Operations or any other individual identified by Our365 who oversees Our365's compliance with this Privacy Policy. </p>
-<p style="margin: 0in 0in 10pt;">10.2 Please send inquiries about Our365's Privacy Policy to Our365 Customer Care Center: </p>
+<p style="margin: 0in 0in 10pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Online Safeguards</strong></p>
+<p style="margin: 0in 0in 10pt;">7.7 You may protect online access to your Account with a password you select. You alone are responsible for any and all activity that occurs on our Sites under such password. You agree to immediately notify Mom365 of any unauthorized use of your password or user name or any other breach of security. You agree to provide true, current, complete and accurate information as requested on any registration form to which our Sites may direct you, and to update that registration information as soon as possible after any information on such registration form changes. </p>
+<p style="margin: 0in 0in 10pt;"><strong>Principle 8 - Openness </strong></p>
+<p style="margin: 0in 0in 10pt;">Mom365 makes specific information about its policies and practices relating to the management of Personal Information readily available to you, through face-to-face interaction with Mom365 representatives and photographers, written materials, its Sites, and agents in its Customer Care Center. </p>
+<p style="margin: 0in 0in 10pt;"><strong>Principle 9 - Individual Access </strong></p>
+<p style="margin: 0in 0in 10pt;">Upon request, Mom365 provides you with a general right of access to your Personal Information held by Mom365 and an account of its use and disclosure. </p>
+<p style="margin: 0in 0in 10pt;">9.1 You can request access to Personal Information held by Mom365 by contacting Mom365 at the address provided in Section 10.2. </p>
+<p style="margin: 0in 0in 10pt;">9.2 Mom365 may request sufficient information from you (including passwords) to verify your identity and the existence, use and disclosure of Personal Information held by Mom365. </p>
+<p style="margin: 0in 0in 10pt;">9.3 You may challenge the accuracy and completeness of the Personal Information contained in the Mom365 database and have it amended as appropriate. When Mom365 does not resolve a challenge to your satisfaction, the Mom365 database will reflect the unresolved challenge. </p>
+<p style="margin: 0in 0in 10pt;">9.4 Mom365 amends the Personal Information contained in the Mom365 databases to address inaccuracies or incompleteness of the Personal Information when you notify Mom365 of such inaccuracies or incompleteness. </p>
+<p style="margin: 0in 0in 10pt;">9.5 If Mom365 does not provide access to all the Personal Information it holds about you, it will provide the reasons for denying such access to you. </p>
+<p style="margin: 0in 0in 10pt;"><strong>Principle 10 - Challenging Compliance/Inquiries</strong></p>
+<p style="margin: 0in 0in 10pt;">10.1 A Customer may challenge Mom365's compliance with the above principles with the Chief Information Officer, Chief Operating Officer, Vice President of Consumer Marketing or any other individual identified by Mom365 who oversees Mom365's compliance with this Privacy Policy. </p>
+<p style="margin: 0in 0in 10pt;">10.2 Please send inquiries about Mom365's Privacy Policy to Mom365 Customer Care Center: </p>
 <p>
 </p><table border="0" cellpadding="0">
     <tbody>
         <tr>
-            <td style="padding-bottom: 0.75pt; background-color: transparent; padding-left: 0.75pt; padding-right: 0.75pt;   padding-top: 0.75pt;border: #ece9d8;">
-            <p style="text-align: center; margin: 0in 0in 10pt;"><b>Customer Care Center</b></p>
-            </td>
-            <td style="padding-bottom: 0.75pt; background-color: transparent; padding-left: 0.75pt; padding-right: 0.75pt;   padding-top: 0.75pt;border: #ece9d8;"></td>
+            <td style="padding: 0.75pt; background-color: transparent; border: #ece9d8;">
+            <p></p>
+            <p>
+            </p>
+            <p>
+            </p>
+            <p>
+            </p>
+            <p style="margin: 0in 0in 10pt; text-align: center;"><strong>Customer Care Center</strong></p>
+            <p>
+            </p>
+            <p>
+            </p>
+            <p>
+            </p>
+            <p>
+            </p>
+            <p>
+            </p>
+            <p></p></td>
+            <td style="padding: 0.75pt; background-color: transparent; border: #ece9d8;"></td>
         </tr>
         <tr>
-            <td style="padding-bottom: 0.75pt; background-color: transparent; padding-left: 0.75pt; padding-right: 0.75pt;   padding-top: 0.75pt;border: #ece9d8;">
-            <p style="margin: 0in 0in 10pt;">Our365 <br>
+            <td style="padding: 0.75pt; background-color: transparent; border: #ece9d8;">
+            <p></p>
+            <p>
+            </p>
+            <p>
+            </p>
+            <p>
+            </p>
+            <p style="margin: 0in 0in 10pt;">Mom365 <br>
             3613 Mueller Road<br>
             St. Charles, MO 63301<br>
             Or by calling: (800) 620-8479<br>
             <a href="mailto:customercare@Our365.com">customercare@Our365.com</a> </p>
-            </td>
-            <td style="padding-bottom: 0.75pt; background-color: transparent; padding-left: 0.75pt; padding-right: 0.75pt;   padding-top: 0.75pt;border: #ece9d8;"></td>
+            <p>
+            </p>
+            <p>
+            </p>
+            <p>
+            </p>
+            <p>
+            </p>
+            <p>
+            </p>
+            <p></p></td>
+            <td style="padding: 0.75pt; background-color: transparent; border: #ece9d8;"></td>
         </tr>
     </tbody>
 </table>
 <p></p>
-<p style="margin: 0in 0in 10pt;"><b>Section 11 - Additional Terms that Apply Online</b></p>
-<p style="margin: 0in 0in 10pt;">11.1 Our365's Sites may have links to the sites of other companies such as Partners or other business partners, vendors and advertisers. The inclusion of any link does not imply Our365's endorsement of any other company, its websites, or its products and/or services. Since their treatment of Personal Information may differ from ours, we encourage you to investigate their privacy practices and policies. We have no control over such websites and therefore have no responsibility or liability for the manner in which the organizations that operate such linked websites may collect, use or disclose and otherwise treat your personal information. </p>
-<p style="margin: 0in 0in 10pt;"><b>Changes to this Policy</b></p>
+<p style="margin: 0in 0in 10pt;"><strong>Section 11 - Additional Terms that Apply Online</strong></p>
+<p style="margin: 0in 0in 10pt;">11.1 Mom365's Sites may have links to the sites of other companies such as Partners or other business partners, vendors and advertisers. The inclusion of any link does not imply Mom365's endorsement of any other company, its websites, or its products and/or services. Since their treatment of Personal Information may differ from ours, we encourage you to investigate their privacy practices and policies. We have no control over such websites and therefore have no responsibility or liability for the manner in which the organizations that operate such linked websites may collect, use or disclose and otherwise treat your personal information. </p>
+<p style="margin: 0in 0in 10pt;"><strong>Changes to this Policy</strong></p>
 <p style="margin: 0in 0in 10pt;">We may revise, modify, update, and/or supplement this Privacy Policy at any time at our sole discretion and without prior notice. Material changes to this Privacy Policy will be posted, along with their effective date, on our Sites. You should review the Privacy Policy periodically to monitor any changes. However, we will treat your Personal Information in accordance with the Privacy Policy that was in place at the time we collected your information. </p>
         </section>
         
@@ -275,32 +604,52 @@ DisplayAds ("Left3,Bottom1,Bottom2!Left3", "0", "0");
            
     </section>
 </div>
-    
+</div>
+<div id="content_0_ctl00_divAds" class="ad">
+<div class="content-cont-footerad ad-cont">
+
+        <div class="global-float-left">
+            <div class="promoContainer">
+	<!-- ##### ad call for second position ##### -->
+<script language="JavaScript">
+<!--
+DisplayAds ("Bottom", "728", "103");
+//-->
+</script><script language="JavaScript1.1" src="http://oascentral.our365.com/RealMedia/ads/adstream_jx.ads/www.mom365.com/aboutus/privacy.aspx/1263984580@Bottom"><!-- --></script><!-- -->
+</div>
         </div>
-        <!-- /CONTENT -->
-        <!-- FOOTER -->
-        <div class="footer"><footer class="bottom"><div class="footer-copy">© 2007-2012 OUR365, INC.</div><ul class="footer-nav"><li><a title="Report Issues on Website" href="http://www.our365.com/aboutus/contactus/contact.aspx?v=WebNursery">Report Website Issues</a>
-            &nbsp;|&nbsp;
-            </li><li><a href="/AboutUs/AboutOur365.aspx">About Our365</a>
-            &nbsp;|&nbsp;
-            </li><li><a href="/AboutUs/ContactUs.aspx">Contact Us</a>
-            &nbsp;|&nbsp;
-            </li><li><a href="/AboutUs/Help.aspx">Help</a>
-            &nbsp;|&nbsp;
-            </li><li><a href="/AboutUs/Terms-And-Conditions.aspx">Terms And Conditions</a>
-            &nbsp;|&nbsp;
-            </li><li class="selected"><a href="/AboutUs/Privacy.aspx">Privacy</a>
-            &nbsp;|&nbsp;
-            </li><li><a href="/AboutUs/Careers.aspx">Careers</a>
-            &nbsp;|&nbsp;
-            </li><li><a href="/AboutUs/ForProfessionals.aspx">Hospital Professionals</a>
-            &nbsp;|&nbsp;
-            </li><li><a target="_blank" href="http://my.our365.com">Employees</a>
-            &nbsp;|&nbsp;
-            </li><li><a href="/AboutUs/Sitemap.aspx">Sitemap</a></li></ul></footer></div>
-        <!-- /FOOTER -->
-           
- 
+    
+
+        <div class="global-float-right" style="height:90px; overflow:hidden;">
+            <div class="promoContainer">
+	<!-- ##### ad call for second position ##### -->
+<script language="JavaScript">
+<!--
+DisplayAds ("Bottom3", "230", "90");
+//-->
+</script><script language="JavaScript1.1" src="http://oascentral.our365.com/RealMedia/ads/adstream_jx.ads/www.mom365.com/aboutus/privacy.aspx/1263984580@Bottom3"><!-- --></script><!-- -->
+</div>
+        </div>
+    
+</div>
+</div>
+
+  
+    <!-- /CONTENT -->
+    <!-- FOOTER -->
+        <div class="footer"><footer><div class="footer-logo"><img src="/~/media/Mom365/Images/Logos/logo-footer.ashx" alt="" width="130" height="54"></div><section><header>SECTIONS</header><ul><li><a href="http://community.mom365.com">COMMUNITY</a></li><li><a href="/mom.aspx">MOM</a></li><li><a href="/pregnancy.aspx">PREGNANCY</a></li><li><a href="/baby.aspx">BABY</a></li><li><a href="/toddler.aspx">TODDLER</a></li><li><a href="/preschool.aspx">PRESCHOOL</a></li><li><a href="/gifts/ourshop.aspx">SHOP</a></li><li><a href="/save.aspx">SAVE</a></li><li><a href="/win.aspx">WIN&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></li><li><a href="/babyphotography.aspx">Baby Portraits</a></li></ul></section><section><header>ABOUT US</header><ul><li><a href="/aboutus/mom365.aspx">About Us</a></li><li><a href="/aboutus/professionalphotography.aspx">Professional Photography</a></li><li><a href="/aboutus/advertise.aspx">ADVERTISE WITH US</a></li><li><a href="/aboutus/careers.aspx">Careers</a></li></ul></section><section class="right"><header>FOLLOW US</header><ul><li><a href="http://www.facebook.com/mom365"><img width="18" height="17" src="/App_Themes/Mom365/Images/Icons/share-facebook-footer.png"> Facebook
+              </a></li><li><a href="http://twitter.com/mom365"><img width="18" height="17" src="/App_Themes/Mom365/Images/Icons/share-twitter-footer.png"> Twitter
+              </a></li><li><a href="http://pinterest.com/Mom365Pinterest/"><img width="18" height="17" src="/App_Themes/Mom365/Images/Icons/share-pinterest-footer.png"> Pinterest
+              </a></li><li><a href="https://plus.google.com/113523402858547591909/posts"><img width="18" height="17" src="/App_Themes/Mom365/Images/Icons/share-google-footer.png"> Google Plus
+              </a></li><li><a href="http://instagram.com/mom365"><img width="18" height="17" src="/App_Themes/Mom365/Images/Icons/share-instagram-footer.png"> Instagram
+              </a></li></ul></section><section class="footer-bottom">© 2007-2013 MOM365, INC. |
+          <a href="/aboutus/terms-and-conditions.aspx">Terms And Conditions</a>
+                &nbsp;|&nbsp;
+              <a href="/aboutus/privacy.aspx">Privacy</a><span class="footer-bottom-rightlinks"><a href="/aboutus/help.aspx">Help</a>
+                &nbsp;|&nbsp;
+              <a href="/aboutus/contactus.aspx">Contact Us</a></span></section><ul class="footer-nav"></ul></footer></div>
+    <!-- /FOOTER -->
+    
     
 
 <script type="text/javascript">
@@ -309,46 +658,67 @@ DisplayAds ("Left3,Bottom1,Bottom2!Left3", "0", "0");
 //]]>
 </script>
 </form>
-    
-    
-    
     <script type="text/javascript">
-        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-    </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+    
+    (function($R) {
+        $R(function() {
+            // more code using $ as alias to jQuery
 
-    <script type="text/javascript">
-    var pageTracker = _gat._getTracker("UA-2700982-1");
-    pageTracker._trackPageview();
+            //var $R = jQuery.noConflict();
+            $R(document).ready(function() {
+
+
+                //Tracking Outbound Links
+                $R('a').click(function() {
+                    var hrefVal = $R(this).attr("href");
+                    hrefVal = hrefVal.toLowerCase();
+                    if (hrefVal.indexOf("http://") > -1) {
+                        //Is Outbound Link
+
+                        //Track Outbound Links
+                        //pageTracker._trackPageview(hrefVal);
+                        _gat._getTrackerByName()._trackEvent("Outbound Links", hrefVal);
+
+                    }
+                });
+
+                $R(".content-modal-close").click(function() {
+                    $R(".content-modal-cover").animate({
+                        opacity: 0.0
+                    }, 0);
+                    $R(".content-modal-cover").css("display", "none");
+                    $R(".content-modal").css("display", "none");
+
+                });
+
+            });
+
+        });
+    })(jQuery);
+
+    function ShowSFR() {
+        (function($R) {
+            $R(function() {
+
+            $R(".popUpHolder").append($R(".content-modal.shortregconfirm"));
+            $R(".popUpHolder").append($R(".content-modal-cover"));
+            $R(".content-modal-cover").css("display", "block");
+            $R(".content-modal.shortregconfirm").css("display", "block");
+            $R(".content-modal-cover").animate({
+                opacity: 0.5
+            }, 100);
+            $R(".content-modal-cover").css("display", "block");
+            });
+
+        })(jQuery);
+    }
+
+    
     </script>
 
-    <!-- Begin comScore Tag -->
+    
+ 
 
-<script>
-
-    var _comscore = _comscore || [];
-
-    _comscore.push({ c1: "2", c2: "9014912" });
-
-    (function() {
-
-        var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
-
-        s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
-
-        el.parentNode.insertBefore(s, el);
-
-    })();
-
-</script>
-
-<noscript>
-
-  <img src="http://b.scorecardresearch.com/p?c1=2&c2=9014912&cv=2.0&cj=1" />
-
-</noscript>
-
-<!-- End comScore Tag -->
     
 
 
