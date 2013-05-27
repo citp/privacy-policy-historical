@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the burke.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920091750id_/http%3A//burke.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the burke.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527023814id_/http%3A//burke.com/privacy.cfm) for the most accurate reproduction.*
 
 # None
 
@@ -6,7 +6,7 @@
   
 Founded in 1931, Burke is an international leader in decision support services. We are committed to quality, honesty, and integrity in all endeavors. 
 
-As one of the founding members of the Council of American Survey Research Organizations (CASRO), Burke demonstrates its commitment to clients and to the public by adhering to a mandatory Code of Standards and Ethics for Survey Research. Burke also monitors the privacy policies of other industry organizations and works to conform to common standards of ethical practice. Burke abides by all relevant legislation (both international and national) relating to data protection and other topics. Burke seeks to avoid any actions that might bring Internet research into disrepute or reduce confidence in its findings. Burke adheres to the Safe Harbor privacy principles and frequently asked questions, as agreed to by the U.S. Department of Commerce and the European Commission. 
+As one of the founding members of the Council of American Survey Research Organizations (CASRO), Burke demonstrates its commitment to clients and to the public by adhering to a mandatory Code of Standards and Ethics for Survey Research. This adherence includes respecting the voluntary nature of research participation and taking steps to protect respondents' identities. Burke also monitors the privacy policies of other industry organizations and works to conform to common standards of ethical practice. Burke abides by all relevant legislation (both international and national) relating to data protection and other topics. Burke seeks to avoid any actions that might bring Internet research into disrepute or reduce confidence in its findings. Burke adheres to the Safe Harbor privacy principles and frequently asked questions, as agreed to by the U.S. Department of Commerce and the European Commission. 
 
 We place the same high value on the trust of the people who use our Web site. Therefore we want you to know what our policy is regarding information we obtain from you while you are visiting our site.   
   
