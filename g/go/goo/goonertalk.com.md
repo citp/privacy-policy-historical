@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goonertalk.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126000108id_/http%3A//goonertalk.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goonertalk.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527234840id_/http%3A//goonertalk.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Gooner Talk
 
