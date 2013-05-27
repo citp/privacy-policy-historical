@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hookupclub.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123013633id_/http%3A//www.hookupclub.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hookupclub.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527232639id_/http%3A//www.hookupclub.com/privacy) for the most accurate reproduction.*
 
 # HookupClub.com | Privacy Policy
 
@@ -86,6 +86,10 @@ Where we have given you (or where you have chosen) a password or user ID code wh
 
 Unfortunately, the transmission of information via the internet is not completely secure. Athough we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to the Site; any transmission is at your own risk. Once we have received your information, we will use procedures and security features to try to prevent unauthorised access.
 
+**E-Mail Removal**
+
+If you wish to opt-out of receiving all e-mail correspondence from us, please submit your email [here](https://web.archive.org/un-subscribe).
+
 **Other Websites**
 
 The Site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
@@ -101,3 +105,13 @@ We want to make sure that your personal information is accurate and up to date. 
 We keep our privacy policy under regular review and will post any changes to it on this page. We encourage you to regularly review our privacy policy to make sure you are always aware of what information we collect, how we use it and under what circumstances, if any, we may share it with other parties.
 
 Please note that we do not verify user’s identity when a photo is submitted which means we cannot guarantee all photos are of the person named in the profile. We accept no responsibility for the source of the photo and will remove any photos that are proved to not be of the named user.
+
+JDI Dating Ltd
+
+Station House,  
+North Street,  
+Havant,  
+Hampshire,  
+United Kingdom,  
+PO91QU  
+
