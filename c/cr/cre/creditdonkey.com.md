@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creditdonkey.com privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214050416id_/http%3A//www.creditdonkey.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creditdonkey.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527151438id_/http%3A//www.creditdonkey.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - CreditDonkey
 
@@ -16,7 +16,11 @@ The information we collect is used to improve the content of our Web page, used 
 
 With respect to cookies: We use cookies to record session information, such as items that consumers add to the credit card comparison wizard, record user-specific information on what pages users access or visit, record past activity at our site in order to provide better service when visitors return to our site, customize Web page content based on visitors' browser type or other information that the visitor sends.
 
-**If you do not want to receive e-mail from us in the future, please let us know by sending us a detail unsubscription request via e-mail to info@lunchspark.com**
+This website uses 3rd party vendors, such as Google Analytics, to help analyze how visitors use this website. The 3rd party vendors use cookies to collect standard Internet logging information and track visitor behavior in the form of anonymous data.
+
+This website uses 3rd party vendors, including Google, to show ads on sites across the Internet. This website may use remarketing or similar audiences to advertise to people who previously visited this website. Third party vendors, including Google, use cookies to serve ads based on a visitor's prior visit to this site. Users may opt out of a third party vendor's use of cookies by visiting the [Networking Advertising Initiative opt out page](http://www.networkadvertising.org/choices/).
+
+**If you do not want to receive e-mail from us in the future, please let us know by sending us a detail unsubscription request via e-mail to[info@lunchspark.com](mailto:info@lunchspark.com)**
 
 From time to time, we make the e-mail addresses of those who access our site available to other reputable organizations whose products or services we think you might find interesting.
 
