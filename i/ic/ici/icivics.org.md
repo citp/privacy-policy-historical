@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icivics.org privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017130247id_/http%3A//www.icivics.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icivics.org privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527172611id_/https%3A//www.icivics.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | iCivics
 
@@ -38,14 +38,14 @@ We may change this Privacy Policy from time to time, so it is advisable to revie
 
 ## contact information
 
-If you have questions about our handling of personal information, you may write to us at[ feedback@icivics.org](mailto:feedback@icivics.org) or at the address below.
+If you have questions about our handling of personal information, you may write to us at [feedback@icivics.org](mailto:feedback@icivics.org) or at the address below.
 
 ## mailing address
 
-iCivics, Inc. is a 501(c)(3) tax-exempt nonprofit located at 1875 K Street NW, 5th Floor Washington, DC 20006.
+iCivics, Inc. is a 501(c)(3) tax-exempt nonprofit located at 2001 S St NW, Suite 400, Washington DC 20009.
 
 This privacy policy is effective as of May 16, 2010.
 
 ## governing law
 
-You agree that your use of this Privacy Policy and any disputes relating thereto shall be governed in all respects by the laws of the State of New York. Any dispute relating to this Privacy Policy shall be resolved solely in the state or federal courts located in Manhattan, New York. This Privacy Policy was last updated on June 17, 2010.
+You agree that your use of this Privacy Policy and any disputes relating thereto shall be governed in all respects by the laws of the State of New York. Any dispute relating to this Privacy Policy shall be resolved solely in the state or federal courts located in Manhattan, New York. This Privacy Policy was last updated on October 1, 2012.
