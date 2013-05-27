@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the epiphone.com privacy policy that was archived on 2012-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120701013946id_/http%3A//www.gibson.com/en-us/Support/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epiphone.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527235257id_/http%3A//www.gibson.com/en-us/Support/Privacy-Policy) for the most accurate reproduction.*
 
-# Gibson.com Privacy Policy
-
-[ ](http://www.gibson.com/en-us/lifestyle/)
+# Privacy Policy
 
   
 
@@ -26,13 +24,13 @@ We may use the information we gather for internal purposes such as editorial fee
 We may collect your IP address for system administration purposes, or from time to time, to report aggregate information with our non-brand partners, including contest partners and event co-sponsors, but we will not share individual information with them. 
 
 **Visitors under Age 13**  
- **We do not accept registrations from children under the age of thirteen (13)**. If you are a parent and believe that your child has registered on our website or is on our mailing list, please contact our legal department at: 
+**We do not accept registrations from children under the age of thirteen (13)**. If you are a parent and believe that your child has registered on our website or is on our mailing list, please contact our legal department at:
 
 Legal Department  
 Gibson Guitar Corp.  
 309 Plus Park Blvd.  
 Nashville, TN 37217  
-[ **legal@gibson.com**](mailto:legal@gibson.com)
+[**legal@gibson.com**](mailto:legal@gibson.com)
 
 **California Privacy Rights**  
 Pursuant to Section 1798.83 of the California Civil Code, residents of California have the right to request from a business with which the California resident has an established business relationship, certain information with respect to the types of personal information the business shares with third parties for direct marketing purposes by such third party, and the identities of the third parties with whom the business has shared such information during the immediately preceding calendar year. Under California law, California residents who have an established business relationship with Gibson may choose to have us withhold sharing personal information with third parties for marketing purposes. You may request the information you are entitled to receive under Section 1798.83 of the California Civil Code by sending a written request to: **Legal Department, Gibson Guitar Corp., 309 Plus Park Blvd., Nashville, TN 37217**. 
@@ -43,7 +41,3 @@ Cookies are pieces of information that a website transfers to an individual's ha
 Gibson never uses cookies to retrieve information from your computer not originally sent in the cookie. We never use the information we gather this way for promotional or marketing purposes, nor is this information shared with any third parties. 
 
 Most browsers are set initially to accept cookies. You can change these settings to prevent your hard drive from accepting cookies. In doing so, however, you may not be able to fully access all parts of the Gibson website and certain features contained in our website may not operate properly. 
-
-[](http://www.facebook.com/GibsonGuitar)   
-  
-
