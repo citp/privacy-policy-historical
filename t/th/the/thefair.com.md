@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thefair.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126025254id_/http%3A//www.thefair.com/utility/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefair.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527104751id_/http%3A//www.thefair.com/utility/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy: Information: Puyallup Fair and Events Center
 
@@ -48,7 +48,7 @@ We welcome your feedback. For any questions, complaints or if you would like to 
 
 You may also contact us by mail at the following address:
 
-Puyallup Fair & Events Center  
+Washington State Fair Events Center  
 Attention: Marketing Dept. - Website Customer Support  
 110 9th Ave SW  
 Puyallup, Washington 98371
