@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the moderndogmagazine.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016024022id_/http%3A//www.moderndogmagazine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moderndogmagazine.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527123218id_/https%3A//www.moderndogmagazine.com/modern-dog-privacy-policy) for the most accurate reproduction.*
 
-# Modern Dog Privacy Policy | Modern Dog magazine - the best dog magazine ever
+# Modern Dog magazine | the best dog magazine ever
 
 **Introduction**
 
@@ -19,7 +19,7 @@ In general, you can browse the Modern Dog web site without telling us who you ar
 5\. To download articles, receive industry reports, and newsletters;  
 6\. To take part in surveys;  
 7\. To develop, enhance, market and/or provide products and services to meet your needs;  
-8\. To enable you to participate in promotions and contests. All personal information can be updated or deleted by you at any time by sending an email to subscriptions@moderndogmagazine. com or by contacting us by telephone at 1-800-417-6289. 
+8\. To enable you to participate in promotions and contests. All personal information can be updated or deleted by you at any time by sending an email to [subscriptions@moderndogmagazine](mailto:subscriptions@moderndogmagazine). com or by contacting us by telephone at 1-800-417-6289. 
 
 **Disclosure of Information Submitted Online**
 
