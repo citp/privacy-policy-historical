@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nflshop.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531234940id_/http%3A//www.nflshop.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dbotnav_privacy_txt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nflshop.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527114316id_/http%3A//www.nflshop.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dbotnav_privacy_txt) for the most accurate reproduction.*
 
 # NFL Shop
 
@@ -74,16 +74,21 @@ When we run a contest or sweepstakes relating to this Web Site, it will be accom
 
 **_NFLShop Mobile Alerts Privacy Policy_**
 
-You may decide to have promotional text messages sent directly to your mobile device. This program is completely voluntary, and messages will be sent to you only if you have opted in to receive them. Message and data rates may apply. If you have errantly received a marketing text message without opting in to the program, or if you wish to opt out of receiving text messages, you can cancel the program by either:
+**NFLShop Mobile Alerts Sign Up** \- By entering your mobile phone number you are subscribing to receive promotional text messages and alerts from NFLShop. You will receive seven (7) messages per month. Promotional text messaging shall include notifications, alerts, updates, discounts, coupons and special offers. NFLShop respects your privacy and your mobile number will be subject to its privacy policy.
 
-  * **replying "STOP" to FANTXT (326898); or**
-  * contacting Customer Service by phone at 1.877.NFL.SHOP.
+You may opt-in to the program at any time by texting the keyword "NFLShop" to the FANTXT (326898).
 
+**You may cancel the program at any time by texting the keyword "STOP" to FANTXT (326898) or by contacting Customer Service by phone at 1.877.NFL.SHOP.**
 
+**You may text the keyword "HELP" to FANTXT (326898) to receive more information regarding your subscription to NFLShop Mobile Alerts.**
 
-When cancelling by calling the number above and/or emailing, you will need to provide your mobile phone number in order to be removed from the program. It may take up to 10 days to process your stop request. You may receive additional text messages from NFLShop during this time.
+Message and data rates may apply. Please consult the applicable wireless service agreement for your individual pricing plan.
 
-NFLShop respects your privacy and your mobile number will only be used in this text message program by NFLShop and its third party marketing partners administering this program on NFLShop's behalf as set forth above.
+When cancelling by calling the number above, you will need to provide your mobile phone number in order to be removed from the program. It may take up to 10 days to process your stop request. You may receive additional text messages from NFLShop during this time.
+
+Text messaging may not be available for all service providers or for all handsets. The carriers supported by this program are as follows: AT&T, Sprint, T-Mobile, Verizon Wireless, Alltel, U.S. Cellular, Boost and Nextel. Cellular phone carriers' instructions for text messaging may be different. Check your user's manual for phone capabilities and specific instructions. NFLShop makes no guarantee that any particular wireless service provider will participate. NFLShop, in its sole discretion, may add or delete a cellular carrier at any time, without notice.
+
+For additional information, you may contact Customer Service by phone at 1.877.NFL.SHOP
 
 **_How Will I Be Informed About Changes Regarding This Privacy Policy?_**
 
