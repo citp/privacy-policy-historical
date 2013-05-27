@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infobyip.com privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125081856id_/http%3A//www.infobyip.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infobyip.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527075133id_/http%3A//www.infobyip.com/privacypolicy.php) for the most accurate reproduction.*
 
 # None
 
@@ -60,4 +60,4 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
 <http://www.infobyip.com/contact.php>
 
-This document was last updated on October 07, 2011
+This document was last updated on April 15, 2013
