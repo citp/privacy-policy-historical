@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bidstart.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225113023id_/http%3A//www.bidstart.com/wiki/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bidstart.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527061405id_/http%3A//www.bidstart.com/wiki/Privacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy - StampWantsWiki
 
@@ -43,6 +43,7 @@ We require this information to understand your needs and provide you with a bett
   * Internal record keeping. 
   * If you sell or win an item to another user of our website, your name, physical address and email address will be provided to that user so that the transaction can be completed. However, your phone number and all other personal information will not be provided to that user; unless our staff, and/or that user is unable to reach you by MyMessage or email regarding an open issue with a transaction within a reasonable amount of time. 
   * We may use the information to improve our products and services. 
+  * We may use your name to identify yourself with your username. 
   * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided. This will generally be provided in the form of a newsletter. If you do not wish to receive this newsletter you may opt out on the Account Details page. However, we may still send important system and other related emails if need be, though unlikely. Your email address will also be used to send you updates on items you are currently involved with, the extent of which you can modify from the Account Details page. 
   * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customize the website according to your interests. 
 
