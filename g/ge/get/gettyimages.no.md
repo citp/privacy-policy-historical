@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gettyimages.no privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126194343id_/http%3A//www.gettyimages.no/Corporate/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gettyimages.no privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528014501id_/http%3A//www.gettyimages.no/Corporate/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Getty Images - Getty Images Privacy Policy
+# Getty Images Privacy Policy - Getty Images NO
 
 Last updated: May 2012
 
@@ -46,11 +46,11 @@ If you would like to review or revise information that you previously provided t
 
 Personal Information Preferences
 
-Getty Images respects your right to make choices about the use and disclosure of your personal information. If at any time you decide that you do not want to receive marketing emails from us, please let us know by: (1) checking or unchecking the appropriate box on your online registration form or the “My Profile” page of the website; (2) contacting your Account Executive; or (3) sending an email to sales@gettyimages.com.
+Getty Images respects your right to make choices about the use and disclosure of your personal information. If at any time you decide that you do not want to receive marketing emails from us, please let us know by: (1) checking or unchecking the appropriate box on your online registration form or the “My Profile” page of the website; (2) contacting your Account Executive; or (3) sending an email to [sales@gettyimages.com](mailto:sales@gettyimages.com%20%20%20%20%20%20%20%20%20%20?subject=Privacy%20Policy).
 
 If you choose not to receive marketing emails, please be advised that you may continue to receive transactional or account emails (e.g., purchase confirmations and account balance statements).
 
-If you are a licensee of copyrighted photographs of the NBA Parties and would like to revoke your consent to have your information shared with the NBA Parties, you may express that preference by contacting your Account Executive or by sending an email to sales@gettyimages.com.
+If you are a licensee of copyrighted photographs of the NBA Parties and would like to revoke your consent to have your information shared with the NBA Parties, you may express that preference by contacting your Account Executive or by sending an email to [sales@gettyimages.com](mailto:sales@gettyimages.com%20%20%20%20%20%20%20%20%20%20?subject=Privacy%20Policy).
 
 Use of Cookies and Other Technologies
 
@@ -94,7 +94,7 @@ If a password is used to protect your account and personal information, it is yo
 
 Forums & Other Interactive Services
 
-Our websites may include discussion forums or other interactive areas or services, including blogs, chat rooms, bulletin boards, message boards, online hosting or storage services, or other areas or services in which you or third parties create, post or store any content, messages, comments, materials or other items on the sites (“Interactive Areas”). If you use an Interactive Area, you should be aware that these areas are open to the public and any personal information you post or provide at registration may be viewable by others. We are not responsible for personal information you submit in connection with the Interactive Areas, nor are we responsible for how others might use that information, including to send you unsolicited messages. Interactive Area postings may be retained indefinitely. If at any time you would like to remove a posting, please email us at sales@gettyimages.com. Keep in mind that removal of a posting from an Interactive Area does not mean that the posting will be deleted from our systems.
+Our websites may include discussion forums or other interactive areas or services, including blogs, chat rooms, bulletin boards, message boards, online hosting or storage services, or other areas or services in which you or third parties create, post or store any content, messages, comments, materials or other items on the sites (“Interactive Areas”). If you use an Interactive Area, you should be aware that these areas are open to the public and any personal information you post or provide at registration may be viewable by others. We are not responsible for personal information you submit in connection with the Interactive Areas, nor are we responsible for how others might use that information, including to send you unsolicited messages. Interactive Area postings may be retained indefinitely. If at any time you would like to remove a posting, please email us at [sales@gettyimages.com](mailto:sales@gettyimages.com%20%20%20%20%20%20%20%20%20%20?subject=Privacy%20Policy). Keep in mind that removal of a posting from an Interactive Area does not mean that the posting will be deleted from our systems.
 
 Email Referrals
 
@@ -120,4 +120,4 @@ Contact Information
 
 You can contact Getty Images Sales by emailing [sales@gettyimages.com](mailto:sales@gettyimages.com%20%20%20%20%20%20%20%20%20%20?subject=Privacy%20Policy), or by phone at 206-925-5000, or by postal mail at Getty Images, Inc., Sales, 605 5th Avenue South, Suite 400, Seattle, WA 98104. 
 
-© 1999-2012 Getty Images, Inc. All rights reserved. Privacy Policy.
+© 1999-2013 Getty Images, Inc. All rights reserved. Privacy Policy.
