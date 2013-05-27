@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the interaction-design.org privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221001815id_/http%3A//www.interaction-design.org/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interaction-design.org privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527152517id_/http%3A//www.interaction-design.org/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy
+
+## Free Knowledge!
+
+People from around the world show their support for our mission to give away world-class educational materials for free! [Send us yours](https://web.archive.org/about/democratization_of_knowledge.html)!   
+ 
 
 The Interaction Design Foundation collects no more data about you than most other websites.
 
@@ -60,4 +65,4 @@ We make no guarantee that the information that you provide us will be secure.
 ### Page Information
 
 Author(s): Mads Soegaard  
-URL: http://interaction-design.org/about/privacy.html 
+URL: http://www.interaction-design.org/about/privacy.html 
