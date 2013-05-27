@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smallcapstockplays.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228083439id_/http%3A//smallcapstockplays.com/pages.php%3FpID%3D2%26CDpath%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smallcapstockplays.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527125941id_/http%3A//smallcapstockplays.com/pages.php%3FpID%3D2%26CDpath%3D1) for the most accurate reproduction.*
 
 # Penny Stocks | Penny Stock Newsletters | Smallcapstockplays.com - Privacy Policy - Information Pages
 
