@@ -1,0 +1,45 @@
+> *The following text is extracted and transformed from the checksiteinfo.net privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527105116id_/http%3A//www.checksiteinfo.net/privacy-policy) for the most accurate reproduction.*
+
+# Privacy Policy
+
+#### Privacy Policy
+
+Please Read Carefully Prior To Using This Website
+
+The use of this CheckSiteInfo.Net Worldwide, LLC and its subsidiaries (? **CheckSiteInfo**.Net?) website (?Website?) is conditioned upon the acceptance of the terms and conditions contained in this Privacy Statement by the visitor to the **CheckSiteInfo**.Net Website (?User?); this Privacy Statement is part of and incorporated by reference into the Terms of Use of the CheckSiteInfo.Net Website. This Privacy Statement constitutes a legally binding agreement between User and CheckSiteInfo.Net. This Privacy Statement lists our current policies, but, as noted below, this Privacy Statement may be adjusted from time to time at CheckSiteInfo.Net? discretion. By utilizing the CheckSiteInfo.Net Website, User expressly agrees to this Privacy Statement. Those who do not agree to be subject to this Privacy Statement may not, under any circumstances, use this CheckSiteInfo.Net Website.
+
+## Data Collection
+
+User should be aware that portions of this Website contain functions for collecting and/or receiving User's personal information, including User's name and email address, information about User?s product purchases, any credit information provided as well as User's accessing history of this Website. CheckSiteInfo.Net may also collect and track non-personally identifiable information about User including User's IP address, the type of browser User employs, and the referrer ID.
+
+## Entry by User/Update
+
+Certain areas of this Website will require entry by the User of certain personal information as indicated above. CheckSiteInfo.Net requires that the actual User input such information and that such information be the most recent available and accurate. Please inform CheckSiteInfo.Net of any change of name, address, or other information. In addition, User may request that CheckSiteInfo.Net update, modify, or delete User's registered information by sending an email to webmaster@CheckSiteInfo.Net.com with the words "UPDATE USER INFORMATION" in the subject line.
+
+## Use of User Information
+
+CheckSiteInfo.Net reserves the right to compile, save, use within the scope of CheckSiteInfo.Net' activities, and analyze any and all User data (registration data, use history, etc.). CheckSiteInfo.Net intends to use such User data for internal purposes only, including without limitation, for the purposes of providing User support, responding to User requests for information, and for contacting User. CheckSiteInfo.Net may provide aggregated statistics about users (including User) to third parties, but such information will be aggregated so that it does not identify a particular individual or company, including User.
+
+## Choice/Opt-Out
+
+ **CheckSiteInfo.Net** may periodically send User information regarding CheckSiteInfo.Net and its products. If User has been receiving such information and does not wish to continue receiving such information, please contact CheckSiteInfo.Net at webmaster@CheckSiteInfo.Net.com, and let CheckSiteInfo.Net know that User no longer wishes to receive such information. Alternatively, User can simply reply to an email from CheckSiteInfo.Net and type "REMOVE" in the subject line.
+
+## Disclosure of User Information
+
+CheckSiteInfo.Net will, to the extent possible, control User information, and, except as otherwise set forth herein, not disclose such User information to third parties. However, in the event disclosure of any User information by CheckSiteInfo.Net is required by law, CheckSiteInfo.Net may disclose such User information without the consent of User.
+
+## Cookies
+
+A "cookie" is a piece of data stored on User's hard drive containing information about the User. **CheckSiteInfo.Net** may use cookies in order to collect certain information about User, such as IP addresses (e.g., whether User is logged on from a .com, .gov, or .edu domain), domain names (the Internet address of a computer), and type of computer and operating system being used. CheckSiteInfo.Net may collect such information in order to better operate the Website so as to enhance User's use of the Website. By using cookies, CheckSiteInfo.Net is able to recognize User when User revisits the Website, and it is able to remember certain information about User, such as User's contact information. Depending on the type of browser User is using, it may be set to alert User of cookies. User does not have to accept all cookies sent to User by the CheckSiteInfo.Net Website; however, depending on the particular cookie User rejects, User may not be able to use some of the features in the Website if a particular cookie is rejected.
+
+## Third Party Sites
+
+The Website may from time to time include, for User's convenience, links to third party sites, which CheckSiteInfo.Net does not own or control and that are controlled by third parties. These links are for convenience only. If User utilizes third party links or moves to the third party sites, CheckSiteInfo.Net is not responsible for the availability, content, data collection, utilization of data, use of cookies, or otherwise on the third party sites. CheckSiteInfo.Net has no access to the third party sites or information collected by them and no control over any third party cookies. If User has any questions about how such third parties use cookies, collect information, or otherwise, User should contact such third parties directly.
+
+## Security
+
+CheckSiteInfo.Net uses reasonable security measures to safeguard information concerning, and submitted by, users. Despite the security measures employed by CheckSiteInfo.Net, users should be aware that it is impossible to guarantee absolute security with respect to information sent through the Internet, and User agrees and accepts the risks associated with the same.
+
+## Modifications
+
+This Privacy Statement and the Terms of Use of the **CheckSiteInfo**.Net Website constitute the complete agreement between the parties with respect to their subject matter and supersede any prior agreement or communication. CheckSiteInfo.Net reserves the right to modify this Privacy Statement without prior notice. In the event CheckSiteInfo.Net updates or modifies this Privacy Statement, CheckSiteInfo.Net shall endeavor to post such updates or modifications on this Website following any such modifications. Therefore, User is advised to review this Privacy Statement occasionally, or at least every thirty (30) days. User's continued use of this Website subsequent to **CheckSiteInfo.Net** ' notice of modification of this Privacy Statement shall constitute User's acceptance of the modified Privacy Statement.
