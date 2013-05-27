@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dialme.com privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124080507id_/http%3A//www.dialme.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dialme.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527132009id_/http%3A//www.dialme.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,8 +14,7 @@ If you register or join this site please provide us with the following informati
   * password
   * e-mail address
 
-
-
+  
 **Copyrights**  
 All [DialMe.com](http://www.dialme.com/) site contents copyrights are reserved by Dialme.com and content copying and duplication are strongly prohibited.
 
