@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fandor.com privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101122105id_/http%3A//www.fandor.com/company/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fandor.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527020813id_/http%3A//www.fandor.com/company/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fandor
 
@@ -60,8 +60,8 @@ We take reasonable measures to protect your personal information in an effort to
 
 ## What Choices Do You Have Regarding The Use Of Your Information?
 
-You may opt out of receiving marketing or promotional emails from us by following the instructions in those emails. You may also opt out of such marketing emails by emailing us at [marketing@fandor.com](mailto:marketing@fandor.com). If you opt out, we may still send you non-promotional emails, such as emails about your account or our ongoing business relations.
+You may opt out of receiving marketing or promotional emails from us by following the instructions in those emails. You may also opt out of such marketing emails by emailing us at [marketing@fandor.com](mailto:marketing@fandor.com "Contact the marketing department at Fandor"). If you opt out, we may still send you non-promotional emails, such as emails about your account or our ongoing business relations.
 
 ## Questions?
 
-If you have any questions about this Policy, please contact us at [support@fandor.com](mailto:support@fandor.com)
+If you have any questions about this Policy, please contact us at [support@fandor.com](mailto:support@fandor.com "Contact customer support at Fandor").
