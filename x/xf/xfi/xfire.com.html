@@ -1,708 +1,546 @@
-<!--The following is the downloaded HTML source of the xfire.com privacy policy that was archived on 2012-11-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121101130217id_/http%3A//www.xfire.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the xfire.com privacy policy that was archived on 2013-05-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130527145956id_/http%3A//www.xfire.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-<meta name="description" content="The official Privacy Policy for Xfire.">
-<meta name="keywords" content="Privacy Policy">
-<meta name="robots" content="noodp">
-<link rel="stylesheet" type="text/css" href="http://media.xfire.com/v4/webskins-new/default/style.css?bn=45723">
-<!--[if IE 6]>
-<link rel='stylesheet' type='text/css' href='http://media.xfire.com/v4/webskins-new/default/ie6.css?bn=45723' />
+<!DOCTYPE html><html><head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+    <meta name="viewport" content="width=1024, initial-scale=1.0">
+    <meta name="description" content="Track, message, and talk to your gaming friends, join them in games, browse servers, take screenshots and download patches. Xfire supports over 2930 games including World of Warcraft, League of Legends, Call of Duty and Counter-Strike.">
+    <meta name="keywords" content="online PC computer video games, in-game instant messaging, world of warcraft, call of duty, guild wars, counter-strike, voice chat, server browser, screenshots, downloads, downlaods, patches">
+
+    <title>Xfire - Gaming Simplified</title>
+
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" type="text/javascript"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.2/jquery-ui.min.js" type="text/javascript"></script>
+
+    <link href="http://fonts.googleapis.com/css?family=Cabin|Roboto+Condensed" rel="stylesheet" type="text/css">
+
+    <script type="text/javascript">
+      Xfire = {};
+      Xfire.controller = "pages";
+      Xfire.action = "privacy";
+      Xfire.isIE = /*@cc_on!@*/false;
+      Xfire.region = 'US';
+    </script>
+
+    <link href="http://fonts.googleapis.com/css?family=Cabin|Roboto+Condensed:400,700,300" rel="stylesheet" type="text/css">
+
+
+
+    <script src="https://www.google.com/jsapi" type="text/javascript"></script>
+    <script type="text/javascript" src="/assets/i18n/en.js?f6550f387e1f"></script>
+    <script src="http://assets.xfire.com/assets/application-cdbd553d5cf870b332a9f9525693317c.js" type="text/javascript"></script>
+      <script src="http://assets.xfire.com/assets/jwplayer.html5-cbf9ad6af2dd7dce58cb3581fa77ac7a.js" type="text/javascript"></script>
+
+    <script type="text/javascript">
+//<![CDATA[
+      window["current_user_user_name"] = "";
+      window["current_user_print_name"] = "";
+
+//]]>
+</script>
+    <script type="text/javascript">
+//<![CDATA[
+      I18n.defaultLocale = "en";
+      I18n.locale = "en";
+      I18n.fallbacks = true;
+
+//]]>
+</script>
+
+    <script type="text/javascript">
+    (function() {
+        // Needed to fix broken profile images
+          $('img').error(function() {
+            if ($(this).hasClass("user_profile_image")) {
+                return $(this).attr("src", "/assets/default_avatar.png");
+            }
+        });
+
+        $(function() {
+          // Set up the overlay for our dialogs
+            $(document).on('click', '.add_overlay', function() {
+              var removeOverlay,
+                _this = this;
+              if (document.all && !window.opera && window.XMLHttpRequest)  return;
+              if (!$(this).hasClass("add_overlay_disabled")) {
+                removeOverlay = function() {
+                  return $("body .overlay").fadeOut("fast", function() {
+                    $("body .overlay").remove();
+                    $("body").removeClass("overlay-trigger").css("overflow", "");
+                    return $(".add_overlay_disabled").removeClass("add_overlay_disabled");
+                  });
+                };
+                if ($("body .overlay").length > 0) {
+                  removeOverlay();
+                } else {
+                  $(".add_overlay").each(function(index, element) {
+                    if (_this !== element) return $(_this).addClass('add_overlay_disabled');
+                  });
+                  $("body").overlay().find(".overlay").click(function() {
+                    removeOverlay();
+                    return $(_this).trigger("click");
+                  });
+                }
+                return $(".overlay").css("z-index", 90);
+              }
+            });
+
+          // Adds a class to make dialogs appear and or disappear
+          $(document).on('click', '.dialog_link', function() {
+            if($(this).hasClass("dialog_disabled")){
+              $(".dialog_link:not(.dialog_disabled)").click();
+            }
+            dialog_name = $(this).attr('dialog-name')
+            $("." + dialog_name).toggleClass("active").find('input[type=text]').first().focus();
+            $(this).toggleClass("active_link")
+            //IE6 hack
+            if( ! $(this).parent().hasClass('rt_col') ){
+              $(this).parent().toggleClass("active_link");
+            }
+            var self = this;
+            $(".dialog_link").each(function(){
+              if( this != self ){
+                $(this).toggleClass("dialog_disabled");
+              }
+            });
+          });
+        if($(".login_page .activate_login").length > 0){
+            $('.login_acct .login').click();
+        }
+        });
+
+    }).call(this);
+
+    window.handleAvatarError = function(img) {
+        img.src = "/assets/default_avatar.png";
+        img.width = 48;
+        return img.height = 48;
+    };
+
+</script>
+
+    <link href="http://assets.xfire.com/assets/application-cca02e5a1a9959823607b409a2193382.css" media="screen" rel="stylesheet" type="text/css">
+      <script src="http://assets.xfire.com/assets/jwplayer.html5-cbf9ad6af2dd7dce58cb3581fa77ac7a.js" type="text/javascript"></script>
+ 
+
+    
+
+    <!--[if IE 6]>
+<link href="http://assets.xfire.com/assets/ie/ie6-2994c26dd2548e6a2e93d39dce5a02dc.css" media="screen" rel="stylesheet" type="text/css" />
 <![endif]-->
 <!--[if IE 7]>
-<link rel='stylesheet' type='text/css' href='http://media.xfire.com/v4/webskins-new/default/ie7.css?bn=45723' />
+<link href="http://assets.xfire.com/assets/ie/ie7-911839712d67277597c0545dca68be3e.css" media="screen" rel="stylesheet" type="text/css" />
 <![endif]-->
 <!--[if IE 8]>
-<link rel='stylesheet' type='text/css' href='http://media.xfire.com/v4/webskins-new/default/ie8.css?bn=45723' />
+<link href="http://assets.xfire.com/assets/ie/ie8-8ca89d11837eed4178bd4db70c64500b.css" media="screen" rel="stylesheet" type="text/css" />
+<![endif]-->
+<!--[if IE 9]>
+<link href="http://assets.xfire.com/assets/ie/ie9-1ea03f4ed351953a7bd2e8c518d749c5.css" media="screen" rel="stylesheet" type="text/css" />
 <![endif]-->
 
-				<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
-				<!--
-					var g_build_number = 45723;
-					var g_webskins_urlbase = 'http://media.xfire.com/v4/webskins-new/';
-				// -->
-				</script>
-			<script src="http://ajax.googleapis.com/ajax/libs/prototype/1.7.0.0/prototype.js" type="text/javascript"></script>
-<script src="http://cdn.optimizely.com/js/16294300.js" type="text/javascript"></script>
-<script src="http://www.xfire.com/js/general.js?bn=45723" type="text/javascript"></script>
-<script src="http://www.xfire.com/js/lt.js?bn=45723" type="text/javascript"></script>
-<script src="http://www.xfire.com/js/detectbrowser.js?bn=45723" type="text/javascript"></script>
-<script src="http://www.xfire.com/js/prototype.cropper.js?bn=45723" type="text/javascript"></script>
-<script src="http://www.xfire.com/js/megatabs.js?bn=45723" type="text/javascript"></script>
-<script src="http://www.xfire.com/js/forms.js?bn=45723" type="text/javascript"></script>
-<script src="http://www.xfire.com/js/beta_redirector.js?bn=45723" type="text/javascript"></script>
-<script type="text/javascript"><!-- var ltr="http://www.xfire.com/blog/grantgeorge716/";var ltt=1351774937;var ltb="45723";var lti=0;var lts="http://www.xfire.com/privacy_policy/";
- //--></script>
-<script type="text/javascript"><!-- 
+<!--[if IE 6]>
+<script src="http://assets.xfire.com/assets/ie/ie6-f75d0eb642a13f8edcb3adae5f4f3339.js" type="text/javascript"></script>
+<![endif]-->
+<!--[if IE 7]>
+<script src="http://assets.xfire.com/assets/ie/ie7-e98b34ca90ed88f5d0a300afdcb61268.js" type="text/javascript"></script>
+<![endif]-->
+<!--[if IE 8]>
+<script src="http://assets.xfire.com/assets/ie/ie8-0b42af391a06238bbe5516849152714e.js" type="text/javascript"></script>
+<![endif]-->
+<!--[if IE 9]>
+<script src="http://assets.xfire.com/assets/ie/ie9-0b42af391a06238bbe5516849152714e.js" type="text/javascript"></script>
+<![endif]-->
+
+    <meta content="authenticity_token" name="csrf-param">
+<meta content="Xrg0qhi9wxkMpEYpZrhnPb4sdhQUemv/ioPEvCeocfk=" name="csrf-token">
+  <script type="text/javascript">
+
   var _gaq = _gaq || [];
- _gaq.push(['_setAccount', 'UA-2815595-18']);
- _gaq.push(['_trackPageview']);
-_gaq.push(["_setCustomVar",1,"LoggedIn","Known-Not-LoggedIn",2]);
- (function() {
-   var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-   ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-   var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
- })();
-
- //--></script>
-<script type="text/javascript"><!-- 
-(function() {
-    var useSSL = 'https:' == document.location.protocol;
-    var src = (useSSL ? 'https:' : 'http:') +
-        '//www.googletagservices.com/tag/js/gpt.js?google_console=1';
-    document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
-})();
-
- //--></script><script src="https://www.googletagservices.com/tag/js/gpt.js?google_console=1"></script>
-<script type="text/javascript"><!-- 
-googletag.defineSlot('/8419164/Classic_Skin_Left', [336, 768], 'div-gpt-ad-1349482529859-0').addService(googletag.pubads());
-//googletag.defineSlot('/8419164/Classic_Skin_Right', [336, 768], 'div-gpt-ad-1349482529859-1').addService(googletag.pubads());
-googletag.defineSlot('/8419164/Classic_Skin_Right', [336, 768], 'div-gpt-ad-1349489016544-0').addService(googletag.pubads());googletag.pubads().enableSyncRendering();
-googletag.pubads().enableSingleRequest();
-googletag.enableServices();
- //--></script>
+  _gaq.push(['_setAccount', "UA-2815595-18"]);
 
 
-		
-		
-			<title>Privacy Policy</title>
 
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    _gaq.push(["_setCustomVar",1,"LoggedIn","Anonymous",2]);
 
-	
-	
+  _gaq.push(['_trackPageview']);
+  _gaq.push(['_trackPageLoadTime']);
 
-		
-		
-	</head>
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
 
-	<body>
-				
-		<div class="p_wrapper">
-			
-<div class="masthead_container">
-	<div class="masthead_upper">
-					<div class="masthead_standard_banner">
-				<a class="mastnead_standard_home_link" href="http://www.xfire.com/"></a>
+</script></head>
 
-				<div class="masthead_standard_top">
-					<div class="masthead_search_area">
-						
-<div class="masthead_search_bar">
-	<div class="masthead_search_bar_background">
-		<div class="masthead_search_label">search</div>
+  <body class="controller-pages action-privacy no_right_column no_left_column siteskin no_left_or_right_column locale-en main-page">
+    <div class="image_preload">
+      
+    </div>
 
-		<form class="masthead_search_form" action="" id="search_input_form" onsubmit="return false;">
-			<span id="masthead_search_filter" class="masthead_search_filter">
-				<div class="masthead_search_filter_1"></div>
-				<div class="masthead_search_filter_2" id="masthead_search_filter_label">All Xfire</div>
-				<div class="masthead_search_filter_3"></div>
-			</span>
+      <div id="fb-root"></div>
+      <script src="http://connect.facebook.net/en_US/all.js#appId=233949663350160&amp;amp;xfbml=1" type="text/javascript"></script>
 
-			<select class="megatab_search_category" id="search_cat" name="search_cat">
-				<option value="/search/" selected="">All Xfire</option>
-				<option value="/game_search/">Games</option>
-				<option value="/video_search/">Videos</option>
-				<option value="/screenshot_search/">Screenshots</option>
-				<option value="/communities_search/">Communities</option>
-				<option value="/people_search/">People</option>
-				<option value="/forums_search/">Forums</option>
-				<option value="/file_search/">Files</option>
-				<option value="/live_video/">Live Videos</option>
-			</select>
+    <script type="text/javascript">
+//<![CDATA[
 
-			<input class="masthead_search_input" id="search_query" name="q" type="text" value="">
-		</form>
-	</div>
+      window.global_variables = {};
+      window.global_variables.screenshot_server = "http://screenshot.xfire.com";
+      window.global_variables.video_server = "http://video.xfire.com";
 
-	<a href="#" onclick="SubmitSearch(); return false;" class="masthead_search_button"></a>
+//]]>
+</script>
 
-	<div style="clear: both"></div>
+      <div class="siteskin_container" style="margin-left: -960px">
+        <div class="google-dfp" data-unit="/8419164/Beta_Skin_1920x900" id="dfp-Beta_Skin_1920x900" style="width: 1920px; height: 900px"></div>
+      </div>
+
+    <div class="header_wrapper">
+  <div class="header">
+    <div class="header_top">
+      <div class="content content_top">
+        <div class="navigation">
+  <ul class="lt_col">
+    <li><a href="/" class="home"></a></li>
+    <li><a href="/" class="home xfire"><img alt="Xfire_logo" src="http://assets.xfire.com/assets/header_icons/xfire_logo-91830afa393811b0d58bec25b1f2778c.png"></a></li>
+    <li><a href="http://battleground.xfire.com/" class="home battleground" target="blank"><img alt="Battleground_logo" src="http://assets.xfire.com/assets/header_icons/battleground_logo-d23409b541ccca348b8de08e529b5ef2.png"></a></li>
+  </ul>
+  <ul class="rt_col">
+      <li class="login_acct">
+  <ul>
+    <li>
+      <a dialog-name="account_actions" class="login dialog_link add_overlay" href="#">
+        Log in &nbsp;&nbsp; or &nbsp;&nbsp; Create Account
+      </a>
+    </li>
+  </ul> 
+</li>
+
+  </ul>
+</div>
+      </div>
+    </div>
+    <div class="header_bottom">
+      <div class="content content_top">
+        <div class="navigation">
+  <ul class="lt_col">
+    <li><a href="/" class="links">Home</a></li>
+    <li><a href="/screenshots" class="links">Screenshots</a></li>
+    <li><a href="/videos" class="links">Videos</a></li>
+
+      <li><a href="/live_videos" class="links">Live</a></li>
+
+      <li><a href="/communities" class="links">Communities</a></li>
+
+    <li><a href="/games" class="links">Games</a></li>
+
+      <li><a href="/news/" class="links">News</a></li>
+  </ul>
+  
+  <ul class="rt_col">
+
+    <li class="language_container">
+      <a dialog-name="language_wrapper" href="#" class="nav_icon locale_en dialog_link"></a>
+    </li>
+    
+    <li class="search_container">
+      <a dialog-name="search_header" href="#" class="nav_icon search dialog_link"></a>
+    </li>
+
+    <li class="download_link"><a href="http://media.xfire.com/xfire/client/download/2.0/xfire_setup.exe" class="download_link" id="download_button" onclick="_gaq.push(['_trackEvent', 'Download', 'Web', 'Xfire Client']);">Download Xfire Client</a></li>
+  </ul>
 </div>
 
 
-					</div>
 
-					<div class="masthead_login">
-						<div class="loginbox_small"><div id="fb-root"></div>
-			<form id="loginbox" class="loginbox_form" method="post" onkeypress="return FormSubmitOnEnter( event, this );" action="https://secure.xfire.com/login/">
-			<table><tbody><tr>
-				<td class="loginbox_small_td">
-					<input style="color:#999; width: 115px;" onfocus="this.value='';" id="lbs_username" type="text" name="username" size="14" value="username">
-				</td>
-				<td class="loginbox_small_td">
-					<input style="color:#999; width: 115px;" onfocus="this.value='';" name="password" type="password" id="password" size="14" value="password">
-				</td>
-				<td class="loginbox_small_td">
-					<a href="#" onclick="$('loginbox_submit').click(); return false;">
-	<table class="small_button">
-		<tbody><tr>
-			<td style="width: 9px;">
-				<div class="small_button_left">
-					<img src="http://media.xfire.com/v4/common/cleardot.gif">
-				</div>
-			</td>
-			<td>
-								<div class="small_button_content">
-					Log&nbsp;On
-				</div>
-							</td>
-			<td style="width: 9px;">
-				<div class="small_button_right">
-					<img src="http://media.xfire.com/v4/common/cleardot.gif">
-				</div>
-			</td>
-		</tr>
-	</tbody></table>
-</a>
-				</td>
-							</tr></tbody></table>
-			<div class="loginbox_redirect">
-				<input type="hidden" id="masthead_loginbox_redirect" name="redirect" value="/privacy_policy/">
-			</div>
-			<div class="loginbox_hidden_submit"><!-- Required to submit-on-enter when more than one text box is present. -->
-				<input type="submit" id="loginbox_submit">
-			</div>
-		</form>
-	</div>
-<div style="clear: both"></div>
-					</div>
+      </div>
+    </div>
+  </div>
 
-					<div class="clearboth"></div>
-				</div>
-			</div>
-		
-		<div style="clear: both;"></div>
-	</div>
+  <div class="header_dialog_wrapper">
+      <div class="login_panel account_actions header_dropdown">
+        <div class="top_panel">
+<div class="triangle"></div>
+<div class="login_page">
+      <div class="l_col">
+        <p>Have facebook or steam? Sign in here.</p>
+        <a href="/auth/facebook"><img alt="Facebook-connect-button" src="http://assets.xfire.com/assets/facebook-connect-button-2a5a75ae9c077eda97ecae59d3a7b1aa.png"></a>
+        <a href="/auth/steam"><img alt="Sits_small" src="http://assets.xfire.com/assets/external/sits_small-2dede8b186f9514446f785c4f01b7ca5.png"></a>
+      </div><!-- / l_col-->
 
-
-	<div class="masthead_lower">
-					<div class="masthead_lower_3">
-				<a class="masthead_username" href="/download/">New user? Join Xfire</a>
-
-				<a class="masthead_password" href="/lost_password/">Lost password?</a>
-			</div>
-		
-
-		<img src="http://media.xfire.com/v4/webskins-new/default/images/nav-left-highlight.jpg" class="precache" alt="">
-<img src="http://media.xfire.com/v4/webskins-new/default/images/nav-middle-highlight.jpg" class="precache" alt="">
-<img src="http://media.xfire.com/v4/webskins-new/default/images/nav-right-highlight.jpg" class="precache" alt="">
-<img src="http://media.xfire.com/v4/webskins-new/default/images/nav-gold-left-highlight.jpg" class="precache" alt="">
-<img src="http://media.xfire.com/v4/webskins-new/default/images/nav-gold-middle-highlight.jpg" class="precache" alt="">
-<img src="http://media.xfire.com/v4/webskins-new/default/images/nav-gold-right-highlight.jpg" class="precache" alt="">
-<img src="http://media.xfire.com/v4/webskins-new/default/images/masthead/search_go_button_hover.png" class="precache" alt="">
-<img src="http://media.xfire.com/v4/webskins-new/default/images/masthead/search_go_button_active.png" class="precache" alt="">
-<img src="http://media.xfire.com/v4/webskins-new/default/images/masthead/standard_store_button_hover.png" class="precache" alt="">
-<img src="http://media.xfire.com/v4/webskins-new/default/images/masthead/standard_store_button_active.png" class="precache" alt="">
-
-<div class="masthead_lower_1">
-			<a class="masthead_standard_store_link" href="/forums/"><span>FORUMS</span></a>
-	</div>
-
-<div class="masthead_lower_2">
-	<div>
-		<div class="megatab">
-			<ul>
-			<li id="megatab_label_1">
-		      <a href="/screenshot/">
-				<img src="http://media.xfire.com/v4/webskins-new/default/images/cleardot.gif" class="left" alt="">
-				<img src="http://media.xfire.com/v4/webskins-new/default/images/cleardot.gif" class="right" alt="">
-				<img src="http://media.xfire.com/v4/webskins-new/default/images/cleardot.gif" class="masthead_megatabs_arrow" alt="">
-				Screenshots
-		      </a>
-		      <div class="megatab_popup" id="megatab_popup_1" style="display:none">
-				<div class="megatab_popup_title_inline_first">
-				  <a href="/screenshot/">Screenshots</a>
-				</div>
-				<div class="megatab_popup_line">
-					<table><tbody><tr><td style="vertical-align: top">
-						<div>• <a href="/screenshot/newest/">Recent</a></div>
-						<div>• <a href="/screenshot/top/">Popular</a></div>
-<!-- these dont exist yet
-						<div>&bull; <a href="/screenshot/">All-Time Best</a></div>
-						<div>&bull; <a href="/screenshot/">All-Time Worst</a></div>
--->
-						<div>• <a href="/about_screenshots/">Take Your Own</a></div>
-					</td><td>
-						<div class="screenshot_thumbnail screenshot_thumbnail_minus_four_rows">
-	<div class="spacer"></div>
-	<div class="screenshot_thumbnail_image_box">
-		<a href="/screenshot/top/?view#126039764" target="" "="">			<img name="img" src="http://screenshot.xfire.com/s/126039764-1.jpg" title=":)" class="screenshot_thumbnail_image" onmouseover=""></a>	</div>
-	
-		
-	<div class="views">
-								</div>
-
-		
-	
-	<div class="spacer"></div>
-</div>
-
-					</td></tr></tbody></table>
-				</div>
-<!--
-				<div class="megatab_popup_title_inline">
-				  LEFTOVERS
-				</div>
-				<div class="megatab_popup_line">
-				  <div>&bull; <a href="/downloads/topweek/">Popular</a></div>
-				  <div>&bull; <a href="/downloads/newest/">Recent</a></div>
-				</div>
-				<div class="megatab_popup_line">
-				  <div>&bull; <a href="/live_video/">Live Videos</a></div>
-				  <div>&bull; <a href="/video/top/">Popular</a></div>
-				  <div>&bull; <a href="/video/newest/">Recent</a></div>
-				</div>
--->
-		      </div>
-		    </li>
-
-			<li id="megatab_label_6">
-		      <a href="/video/">
-				<img src="http://media.xfire.com/v4/webskins-new/default/images/cleardot.gif" class="left" alt="">
-				<img src="http://media.xfire.com/v4/webskins-new/default/images/cleardot.gif" class="right" alt="">
-				<img src="http://media.xfire.com/v4/webskins-new/default/images/cleardot.gif" class="masthead_megatabs_arrow" alt="">
-				Videos
-		      </a>
-		      <div class="megatab_popup" id="megatab_popup_6" style="display:none">
-				<div class="megatab_popup_title_inline_first">
-				  <a href="/video/">Videos</a>
-				</div>
-				<div class="megatab_popup_line">
-					<table><tbody><tr><td style="vertical-align: top">
-						<div>• <a href="/live_video/">Live Videos</a></div>
-						<div>• <a href="/stream_series/">Exclusive Broadcasts</a></div>
-						<div>• <a href="/video/newest/">Recent</a></div>
-						<div>• <a href="/video/top/">Popular</a></div>
-<!-- these dont exist yet
-						<div>&bull; <a href="/videos/">All-Time Best</a></div>
-						<div>&bull; <a href="/videos/">All-Time Worst</a></div>
--->
-						<div>• <a href="/about_video/">Take Your Own</a></div>
-					</td><td>
-													<div class="stream_thumbnail  stream_thumbnail_short ">
-	<div class="spacer"></div>
-	  <div class="livevideothumb">
-		<div class="thumbnail"><a href="/live_video/mgresswell" class="livevideolink"><img class="lsthumbnail" src="http://static-cdn.jtvnw.net/previews/live_user_mgresswellxfire-320x240.jpg?t=1351774938" width="133" height="100"></a></div>
-		<a href="/live_video/mgresswell" class="livevideolink">
-		<div class="info" style="color:red; font-weight: bold; cursor:pointer;">LIVE</div>
-		</a>
-	  </div>
-	  
-
-	</div>
-
-											</td></tr></tbody></table>
-				</div>
-		      </div>
-		    </li>
-
-			<li id="megatab_label_3">
-				<a href="/communities/">
-					<img src="http://media.xfire.com/v4/webskins-new/default/images/cleardot.gif" class="left" alt="">
-					<img src="http://media.xfire.com/v4/webskins-new/default/images/cleardot.gif" class="right" alt="">
-					<img src="http://media.xfire.com/v4/webskins-new/default/images/cleardot.gif" class="masthead_megatabs_arrow" alt="">
-					COMMUNITIES
-				</a>
-				<div class="megatab_popup" id="megatab_popup_3" style="display:none">
-					<div class="megatab_popup_title" style="position:relative;">
-						<div style="position:absolute; left: 10px;">
-							Xfire
-						</div>
-						<div style="position:absolute; left: 160px;">
-							More
-						</div>
-					</div>
-					<div class="megatab_popup_line">
-						<table><tbody><tr>
-							<td id="megatab_popup_3_left">
-								<div>• <a href="/communities/">Communities</a></div>
-								<div>• <a href="/events/">Events</a></div>
-								<div>• <a href="/forums/">Forums</a></div>
-								<div>• <a href="/cms/xf_newsletter/">Newsletter</a></div>
-								<div>• <a href="/blog/theblog/">Official Blog</a></div>
-							</td>
-							<td id="megatab_popup_3_right">
-								<div>• <a href="/cms/xf_events_past/">Past Events</a></div>
-								<div>• <a href="/stream_series/">Exclusive Broadcasts</a></div>
-								<div>• <a href="/cms/xf_transcript_archive/">Transcripts</a></div>
-							</td>
-						</tr></tbody></table>
-					</div>
-				</div>
-			</li>
-
-			<li id="megatab_label_2">
-				<a href="/profile/">
-					<img src="http://media.xfire.com/v4/webskins-new/default/images/cleardot.gif" class="left" alt="">
-					<img src="http://media.xfire.com/v4/webskins-new/default/images/cleardot.gif" class="right" alt="">
-					<img src="http://media.xfire.com/v4/webskins-new/default/images/cleardot.gif" class="masthead_megatabs_arrow" alt="">
-					PROFILE
-				</a>
-				<div class="megatab_popup" id="megatab_popup_2" style="display:none">
-					<div class="megatab_popup_title" style="position:relative;">
-						<div style="position:absolute; left: 10px;">
-							My
-						</div>
-						<div style="position:absolute; left: 160px;">
-							More
-						</div>
-					</div>
-					<div class="megatab_popup_line">
-						<table><tbody><tr>
-							<td id="megatab_popup_2_left">
-																	<div>• <a href="/profile/">Log on to see your profile</a></div>
-															</td>
-							<td id="megatab_popup_2_right">
-																	<div>• <a href="/cms/xf_help/">Learn about Xfire</a></div>
-									<div>• <a href="/download/">New user? Join Xfire</a></div>
-															</td>
-						</tr></tbody></table>
-					</div>
-				</div>
-			</li>
-
-			<li id="megatab_label_4">
-				<a href="/games/">
-					<img src="http://media.xfire.com/v4/webskins-new/default/images/cleardot.gif" class="left" alt="">
-					<img src="http://media.xfire.com/v4/webskins-new/default/images/cleardot.gif" class="right" alt="">
-					<img src="http://media.xfire.com/v4/webskins-new/default/images/cleardot.gif" class="masthead_megatabs_arrow" alt="">
-					GAMES
-				</a>
-				<div class="megatab_popup" id="megatab_popup_4" style="display:none">
-					<div class="megatab_popup_title" style="position:relative;">
-						<div style="position:absolute; left: 10px;">
-							Top games
-						</div>
-						<div style="position:absolute; left: 210px;">
-							<a href="/downloads/">Files</a>
-						</div>
-					</div>
-					<div class="megatab_popup_line">
-						<table><tbody><tr>
-							<td id="megatab_popup_4_left">
-																	<div style="padding-top:2px;"><a href="/games/wow/World_of_Warcraft/">
-										<img style="float: left; margin-right:5px" src="http://media.xfire.com/xfire/xf/images/icons/wow.gif" width="16" height="16" alt="World of Warcraft" title="World of Warcraft">
-										</a><a style="display: inline-block; vertical-align: top;" href="/games/wow/World_of_Warcraft/">World of Warcraft</a>
-									</div>
-								
-									<div style="padding-top:2px;"><a href="/games/codmw2/Call_of_Duty_Modern_Warfare_2/">
-										<img style="float: left; margin-right:5px" src="http://media.xfire.com/xfire/xf/images/icons/codmw2.gif" width="16" height="16" alt="Call of Duty: Modern Warfare 2" title="Call of Duty: Modern Warfare 2">
-										</a><a style="display: inline-block; vertical-align: top;" href="/games/codmw2/Call_of_Duty_Modern_Warfare_2/">Call of Duty: Modern Warfare 2</a>
-									</div>
-								
-									<div style="padding-top:2px;"><a href="/games/cod4/Call_of_Duty_4_Modern_Warfare/">
-										<img style="float: left; margin-right:5px" src="http://media.xfire.com/xfire/xf/images/icons/cod4sp.gif" width="16" height="16" alt="Call of Duty 4: Modern Warfare" title="Call of Duty 4: Modern Warfare">
-										</a><a style="display: inline-block; vertical-align: top;" href="/games/cod4/Call_of_Duty_4_Modern_Warfare/">Call of Duty 4: Modern Warfare</a>
-									</div>
-								
-									<div style="padding-top:2px;"><a href="/games/css/Counter-Strike_Source/">
-										<img style="float: left; margin-right:5px" src="http://media.xfire.com/xfire/xf/images/icons/css.gif" width="16" height="16" alt="Counter-Strike: Source" title="Counter-Strike: Source">
-										</a><a style="display: inline-block; vertical-align: top;" href="/games/css/Counter-Strike_Source/">Counter-Strike: Source</a>
-									</div>
-								
-									<div style="padding-top:2px;"><a href="/games/bf2/Battlefield_2/">
-										<img style="float: left; margin-right:5px" src="http://media.xfire.com/xfire/xf/images/icons/bf2.gif" width="16" height="16" alt="Battlefield 2" title="Battlefield 2">
-										</a><a style="display: inline-block; vertical-align: top;" href="/games/bf2/Battlefield_2/">Battlefield 2</a>
-									</div>
-								
-									<div style="padding-top:2px;"><a href="/games/hon/Heroes_of_Newerth/">
-										<img style="float: left; margin-right:5px" src="http://media.xfire.com/xfire/xf/images/icons/honth.gif" width="16" height="16" alt="Heroes of Newerth" title="Heroes of Newerth">
-										</a><a style="display: inline-block; vertical-align: top;" href="/games/hon/Heroes_of_Newerth/">Heroes of Newerth</a>
-									</div>
-								
-									<div style="padding-top:2px;"><a href="/games/lol/League_of_Legends/">
-										<img style="float: left; margin-right:5px" src="http://media.xfire.com/xfire/xf/images/icons/lol.gif" width="16" height="16" alt="League of Legends" title="League of Legends">
-										</a><a style="display: inline-block; vertical-align: top;" href="/games/lol/League_of_Legends/">League of Legends</a>
-									</div>
-								
-									<div style="padding-top:2px;"><a href="/games/mtn2/Metin_2/">
-										<img style="float: left; margin-right:5px" src="http://media.xfire.com/xfire/xf/images/icons/metin2.gif" width="16" height="16" alt="Metin 2" title="Metin 2">
-										</a><a style="display: inline-block; vertical-align: top;" href="/games/mtn2/Metin_2/">Metin 2</a>
-									</div>
-								
-							</td>
-							<td id="megatab_popup_4_right">
-								<div>• <a href="/downloads/topweek/">Popular</a></div>
-								<div>• <a href="/downloads/newest/">Recent</a></div>
-								<div>• <a href="/cms/about_xo/">Xfire XO Toolbar</a></div>
-								<div>• <a href="/download/now/">Download Xfire</a></div>
-							</td>
-						</tr></tbody></table>
-					</div>
-					<div class="megatab_popup_title">
-						<div style="position:absolute; left: 10px;">
-							<a href="/games/">More games</a>
-						</div>
-					</div>
-					<div class="megatab_popup_line">
-						<div>• <a href="/genre/fps/first-person_shooter/">Top First-Person Shooters</a></div>
-						<div>• <a href="/genre/strat/strategy/">Top Strategy Games</a></div>
-						<div>• <a href="/genre/sim/simulation/">Top Simulation Games</a></div>
-						<div>• <a href="/games/all_games/free/">Free Games</a></div>
-						<div>• <a href="/games/all_games/web/">Web Games</a></div>
-						<div>• <a href="/cms/xf_store_close/">Buy Games</a></div>
-					</div>
-				</div>
-			</li>
-
-			<li id="megatab_label_5">
-				<a href="/cms/xf_help/">
-					<img src="http://media.xfire.com/v4/webskins-new/default/images/cleardot.gif" class="left" alt="">
-					<img src="http://media.xfire.com/v4/webskins-new/default/images/cleardot.gif" class="right" alt="">
-					<img src="http://media.xfire.com/v4/webskins-new/default/images/cleardot.gif" class="masthead_megatabs_arrow" alt="">
-					HELP
-				</a>
-				<div class="megatab_popup" id="megatab_popup_5" style="display:none">
-					<div class="megatab_popup_title" style="position:relative;">
-						<div style="position:absolute; left: 10px;">
-							Support
-						</div>
-						<div style="position:absolute; left: 160px;">
-							Reference
-						</div>
-					</div>
-					<div class="megatab_popup_line">
-						<table><tbody><tr>
-							<td id="megatab_popup_5_left">
-								<div>• <a href="/cms/xf_help/">Product Tour</a></div>
-								<div>• <a href="/faq/">FAQ</a></div>
-								<div>• <a href="/forums/">Forums</a></div>
-								<div>• <a href="/forums/182686/">Technical Support Forum</a></div>
-								<div>• <a href="">Game Store Help</a></div>
-							</td>
-							<td id="megatab_popup_5_right">
-								<div>• <a href="/cms/xf_developers/">Developers</a></div>
-								<div>• <a href="http://media.xfire.com/xfire/readme.html">Release Notes</a></div>
-							</td>
-						</tr></tbody></table>
-					</div>
-				</div>
-			</li>
-						</ul>
-		</div>
-
-		<div id="masthead_search_pulldown" class="masthead_search_pulldown" style="display: none">
-			<p onclick="UpdateSearchCategory(0, this);">All Xfire</p>
-			<p onclick="UpdateSearchCategory(1, this);">Games</p>
-			<p onclick="UpdateSearchCategory(2, this);">Videos</p>
-			<p onclick="UpdateSearchCategory(3, this);">Screenshots</p>
-			<p onclick="UpdateSearchCategory(4, this);">Communities</p>
-			<p onclick="UpdateSearchCategory(5, this);">People</p>
-			<p onclick="UpdateSearchCategory(6, this);">Forums</p>
-			<p onclick="UpdateSearchCategory(7, this);">Files</p>
-			<p onclick="UpdateSearchCategory(8, this);">Live Videos</p>
-		</div>
-
-
-	<div style="clear:both;"></div>
-	</div>
-</div>
-
-		<div style="clear: both;"></div>
-	</div>
-<!--
-    <a href="http://beta.xfire.com/" rel="nofollow">
-        <div id="ad_beta" style="text-align:center;position:relative;background-color: #061834;width:100%;height:90px;margin: 5px auto 5px;cursor:pointer;">
-          <h2 style="padding-top: 31px;position:relative;font-size:22px;color:#F2BC02">Try the new BETA Website Here</h2>
+    <div class="r_col ">
+        <p>Already have an Xfire account?
+			<br>Sign in Here.
+		</p>
+      <h2 class="hidden sign_up_page">
+        Sign in
+      </h2>
+      <form accept-charset="UTF-8" action="/user_sessions" class="simple_form new_user_session" id="new_user_session" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="Xrg0qhi9wxkMpEYpZrhnPb4sdhQUemv/ioPEvCeocfk="></div>
+        <div class="input string optional"><label class="string optional" for="user_session_login">Log in</label><input class="string optional" id="user_session_login" name="user_session[login]" placeholder="Username                                                                 " size="50" type="text"></div>
+            <p class="alert"><span>Incorrect Username or Password </span></p>
+        <div class="input password optional"><label class="password optional" for="user_session_password">Password</label><input class="password optional" id="user_session_password" name="user_session[password]" placeholder="Password                                                                 " size="50" type="password"></div>
+        <div class="input hidden"><input class="hidden" id="user_session_redirect" name="user_session[redirect]" type="hidden" value="/privacy?"></div>
+            <input type="hidden" name="controller" value="pages" placeholder="Enter email and username">
+            <input type="hidden" name="action" value="privacy" placeholder="Enter email and username">
+        <div>
+            <a class="text" href="/users/forgot_password">Having trouble?</a>
+            <input type="hidden" name="user_session[parameters][logged_id]" value="true">
+            <button class="orange_btn" name="button" type="submit">Log in</button>
         </div>
-    </a>
--->
+<div id="a_comment_body_hp_1369666659"><style media="screen" scoped="scoped" type="text/css">#a_comment_body_hp_1369666659 { display:none; }</style><label for="a_comment_body">Do not fill in this field</label><textarea id="a_comment_body" name="a_comment_body"></textarea></div></form>    </div><!-- / r_col-->
+
+    <div class="clear"></div>
+</div><!--- /login_page -->
 </div>
 
+        <div class="bottom_panel">
+          <p>Don't have an account?</p>
+          <a class="orange_btn" href="#/users/new">Register Now</a>
+        </div>
+      </div>
 
+    <div class="language_wrapper menu header_dropdown list">
+      <div class="triangle"></div>
+      <ul>    <li>
+      <a href="http://beta.xfire.com?set_locale=en" class="en">
+        English
+</a>    </li>
+    <li>
+      <a href="http://kr.xfire.com?set_locale=kr" class="kr">
+        한국어
+</a>    </li>
+    <li>
+      <a href="http://cn.xfire.com?set_locale=zh-CN" class="zh-CN">
+        中文
+</a>    </li>
+</ul>
+    </div>
 
-<div class="p_content_div">
-
-	<div class="vertical_spacer">
+    <div class="search_header header_dropdown">
+      <div class="triangle"></div>
+      <div class="search">
+        <form accept-charset="UTF-8" action="/search" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"></div>
+          <input id="q" name="q" placeholder="Search by Title, Developer" type="text">
+          <div class="icon" href="#/search"></div>
+</form>      </div>
+    </div>
+  </div>
 </div>
 
-	<div class="p_template p_template4">
-	
-				<div class="p_template_box p_template4_box1">
-			<div class="window">
-	<div class="window_titlebar">
-	<div class="window_titlebar_1">
-	</div>
-	<div class="window_titlebar_2">
-		<h1>		Privacy Policy
-		</h1>	</div>
-	<div class="window_titlebar_3">
-	</div>
-	<div class="window_titlebar_4">
-	</div>
-	<div class="window_titlebar_5">
-	</div>
-</div>
-<div class="window_titlebar_footer">
+    <div class="content_wrapper controller-pages action-privacy no_right_column no_left_column siteskin no_left_or_right_column locale-en main-page" id="template_scroller">
+      <div class="content_background content margin_top clear controller-pages action-privacy no_right_column no_left_column siteskin no_left_or_right_column locale-en main-page" id="template_container">
+          <div class="advert_top">
+  <div class="google-dfp" data-unit="/8419164/Beta_Default_728x90" id="dfp-Beta_Default_728x90" style="width: 728px; height: 90px"></div>
 </div>
 
-	<div class="window_content">
-		<div class="cms">
-			<div class="static_verbage">
-	<p class="p_storytitle text_align_right">
-		<span style="color:#F50000">Effective February 1st, 2011</span>
+        
+        
+
+        <div class="main_column" id="main-content">
+          <h1 class="full_width">XFIRE, INC. ("Xfire") PRIVACY POLICY</h1>
+<div class="full_width text_content box">
+	<h3>Effective February 1st, 2011</h3>
+	<p>
+		Xfire provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive from users of http://www.xfire.com (the "Site") and the games and forums we provide on various other websites (the Site and these games and forums collectively, the "Services"). This Privacy Policy applies only to information that you provide to us through the Services. This Privacy Policy may be updated from time to time. We will notify you of any material changes by posting the new Privacy Policy on the Services. You are advised to consult this policy regularly for any changes. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our.
 	</p>
-
-<p><b><span>XFIRE, INC. ("Xfire") PRIVACY POLICY</span></b></p>
-
-<p><span>Xfire provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive from users of <u>http://www.xfire.com</u> (the "Site") and the games and forums we provide on various other websites (the Site and these games and forums collectively, the "Services"). This Privacy Policy applies only to information that you provide to us through the Services. This Privacy Policy may be updated from time to time. We will notify you of any material changes by posting the new Privacy Policy on the Services. You are advised to consult this policy regularly for any changes. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our </span></p>
-
-<p><a href="/terms_and_conditions/"><span>Terms of Service</span></a><span>.</span></p>
-
-<p><span>As used in this policy, the terms "using" and "processing" information include using cookies on a computer, subjecting the information to statistical or other analysis and using or handling information in any way, including, but not limited to collecting, storing, evaluating, modifying, deleting, using, combining, disclosing and transferring information within our organization or among our affiliates within the United States or internationally.</span></p>
-
-<p><b><span>Information Collection and Use</span></b></p>
-
-<p><span>Our primary goals in collecting information are to provide and improve our Services, to administer your membership, and to enable users to enjoy and easily navigate them.</span></p>
-
-<p><b><span>Personally Identifiable Information.</span></b></p>
-
-<p><span>When you register with us, either through the Site or on one of the Services, we may ask you for personally identifiable information. This refers to information about you that can be used to contact or identify you ("<i>Personal Information</i>"). Personal Information includes, but is not limited to, your name, phone number, credit card or other billing information, email address and home and business postal addresses. We may also collect the other information that you provide as part of registration and the administration and personalization of your account (e.g., without limitation, zip code (on its own) and individual preferences) ("<i>Non-Identifying Information</i>"). We use your Personal Information (in some cases, in conjunction with Non-Identifying Information) mainly to provide the Services, complete your transactions, and administer your inquiries.</span></p>
-
-<p><span>Certain Non-Identifying Information would be considered a part of your Personal Information if it were combined with other identifiers (for example, combining your zip code with your street address) in a way that enables you to be identified. But the same pieces of information are considered Non-Identifying Information when they are taken alone or combined only with other non-identifying information (for example, your viewing preferences). We may combine your Personal Information with Non-Identifying Information and aggregate it with information collected from other Xfire Users (defined below) to attempt to provide you with a better experience, to improve the quality and value of the Services and to analyze and understand how our Site and Services are used. We may also use the combined information without aggregating it to serve you specifically, for instance, to deliver a product to you according to your preferences or restrictions.</span></p>
-
-<p><span>We also use your Personal Information to contact you with Xfire and its marketing partners' newsletters, marketing or promotional materials and other information that may be of interest to you. If you decide at any time that you no longer wish to receive such communications from us, please follow the unsubscribe instructions provided in any of the communications or update your "user preferences" information as applicable. (See "<i>Changing or Deleting Information</i>," below.)</span></p>
-
-<p><u><span><span style="text-decoration:none">�</span></span></u></p>
-
-<p><u><span>Log Data.</span></u><span> When you visit the Site or the Services, whether as a Xfire or a
-non-registered user just browsing (any of these, a "<i>Xfire User</i>"), our servers automatically record information that your browser sends whenever you visit a website ("<i>Log Data</i>"). This Log Data may include information such as your computer's Internet Protocol ("<i>IP</i>") address, browser type or the webpage you were visiting before you came to our Site, pages of our Site that you visit, the time spent on those pages, information you search for on our Site, access times and dates, and other statistics. We use this information to monitor and analyze use of the Services, for their technical administration, to increase their functionality and user-friendliness, and to better tailor them to our visitors' needs. For example, some of this information is collected so that when you visit the Services again, it will recognize you and serve advertisements and other information appropriate to your interests. We also use this information to verify that visitors to the Services meet the criteria required to process their requests. We do not treat Log Data as Personal Information or use it in association with other Personal Information, though we may aggregate, analyze and evaluate such information for the same purposes as stated above regarding other Non-Identifying Information.</span></p>
-
-<p><b><span>Cookies</span></b></p>
-
-<p><span>Like many websites, we use "cookies" to collect information. A cookie is a small data file that we transfer to your computer's hard disk for record-keeping purposes. We use cookies for two purposes. First, we utilize persistent cookies to save your registration ID and login password for future logins to the Services. Second, we utilize session ID cookies to enable certain features of the Services, to better understand how you interact with the Services and to monitor aggregate usage by Xfire. Users and web traffic routing on the Services. Unlike persistent cookies, session cookies are deleted from your computer when you log off from the Services and then close your browser. Third party advertisers on the Services may also place or read cookies on your browser. You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to use all portions or functionalities of the Services.</span></p>
-
-<p><b><span>Emailing Via a Xfire Account</span></b></p>
-
-<p><span>As part of the Services, Xfire, Players may communicate with other Xfire Players and non-registered users through use of their accounts. Where Xfire Players have selected the option of adding one or more email addresses to an online form, the message they create in the corresponding template will be sent from Xfire to those email addresses on their behalf. These email addresses will be stored in the address book the Xfire. Player creates and will be used only for the purpose of sending the email communication to the addressee.</span></p>
-
-<p><b><span>Phishing</span></b></p>
-
-<p><span>Identity theft and the practice currently known as "phishing" are of great concern to Xfire. Safeguarding information to help protect you from identity theft is a top priority. We do not and will not, at any time, request your credit card information, your account ID, login password, or national identification numbers in a non-secure or unsolicited e-mail or telephone communication. For more information about phishing, visit the Federal Trade Commission's website.</span></p>
-
-<p><b><span>Information Sharing and
-Disclosure</span></b></p>
-
-<p><u><span><span style="text-decoration:none">�</span></span></u></p>
-
-<p><u><span>Xfire, Registration.</span></u><span> When you register through the Services and submit your Personal Information to create a profile webpage or join one of the Services, Xfire. Players may see your username and the other information about you ("<i>Required Subscriber Identifiers</i>"). We may display your Personal Information in your profile page and elsewhere on the Services according to the preferences you set in your account. Any information you choose to provide should reflect how much you want other Xfire. Users to know about you. We recommend that you guard your anonymity and sensitive information and we encourage members to think carefully about what information about themselves they disclose in their profile pages. You can review and revise your profile information at any time. We recommend that you guard your anonymity and sensitive information and that you not use your real name as your username, since that would allow others to identify you.</span></p>
-
-<p><u><span><span style="text-decoration:none">�</span></span></u></p>
-
-<p><u><span>Aggregate Information and Non-Identifying Information.</span></u><span> We may share aggregated information that includes your Personal Information, Non-Identifying Information and Log Data with third parties for industry analysis and demographic profiling and to deliver targeted advertising about other products and services.</span></p>
-
-<p><u><span>Service Providers.</span></u><span> We may employ third party companies and individuals to facilitate our Services, to provide the Services on our behalf, to perform tasks, (e.g., without limitation, maintenance services, database management, web analytics and improvement of the Services) or to assist us in analyzing how our Services are used. These third parties have access to your Personal Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose. We may also provide Personal Information to our business partners or other trusted entities for the purpose of providing you with information on goods or services we believe will be of interest to you. You can, at any time, opt out of receiving such communications.</span></p>
-
-<p><u><span><span style="text-decoration:none">�</span></span></u></p>
-
-<p><u><span>Compliance with Laws and Law Enforcement.</span></u><span> We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including but not limited to subpoenas), to protect the property and rights of Xfire. or a third party, to protect the safety of the public or any person, or to prevent or stop activity we may consider to be, or to pose a risk of being, any illegal, unethical or legally actionable activity.</span></p>
-
-<p><u><span><span style="text-decoration:none">�</span></span></u></p>
-
-<p><u><span>Business Transfers.</span></u><span> Xfire. may sell, transfer or otherwise share some or all of
-its assets, including your Personal Information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy.</span></p>
-
-<p><b><span>Changing or Deleting Your Information</span></b></p>
-
-<p><span>All Subscribers may review, update, correct or delete the Personal Information in their registration profile by changing the applicable information in their account settings or, for Services that are hosted on a social networking site, by changing the applicable information in their profile page.</span></p>
-
-<p><b><span>Security</span></b></p>
-
-<p><span>Xfire is very concerned with safeguarding your information. We employ administrative, physical and electronic measures designed to protect your information from unauthorized access. We will make any legally required disclosures of any breach of the security, confidentiality, or integrity of your unencrypted electronically stored "personal data" (as defined in applicable state statutes on security breach notification) to you via email or conspicuous posting on the Services in the most expedient time possible and without unreasonable delay, insofar as consistent with (i) the legitimate needs of law enforcement or (ii) any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system.</span></p>
-
-<p><b><span>International Transfer</span></b></p>
-
-<p><span>Your information may be transferred to - and maintained on - computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you are located outside the United States and choose to provide information to us, Xfire, transfers Personal Information to the United States and processes it there and your submission of such information  represents your agreement to
-that transfer.</span></p>
-
-<p><b><span>Links to Other Sites</span></b></p>
-
-<p><span>Our Services contain links to other websites. If you choose to visit an advertiser by clicking on a banner ad or other type of advertisement, or click on another third party link, you will be directed to that third party's website. The fact that we link to a website or present a banner ad or other type of advertisement is not an endorsement, authorization or representation of our affiliation with that third party, nor is it an endorsement of their privacy or information security policies or practices. We do not exercise control over third party websites. These other websites may place their own cookies or other files on your computer, collect data or solicit personal information from you. Other sites follow different rules regarding the use or disclosure of the personal information you submit to them. We encourage you to read the privacy policies or statements of the other websites you visit.</span></p>
-
-<p><b><span>Our Policy Toward Children</span></b></p>
-
-<p><span>The Services are not directed to children under 13. We do not knowingly collect personally identifiable information from children under 13. If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files.</span></p>
-
-<p><b><span>Contacting Us</span></b></p>
-
-<p><span>If you have any questions about this Privacy Policy, please contact us at <u>privacy@Xfire.com</u>
-or at: Privacy Matters, Xfire, Inc. Gaming, Inc., 1351 Fourth Street, 4th Floor, Santa Monica CA 90401</span></p>
-
-<p><span>© Xfire, Inc. 2011, All Rights Reserved.</span></p>
-
-</div>
-	</div>
-
-	</div>
-</div>
-<div class="window_bottom">
-</div>
-
-		</div>	
-			
-		<div class="p_template4_col1">
-		
-			
-		</div>
-
-	</div>	<!-- p_template4 -->
-
-	<div class="vertical_spacer">
-</div>
 	
-</div>	<!-- p_content_div -->
-<div style="clear:both"></div>
+	<h4>Terms of Service.</h4>
+	<p>
+		As used in this policy, the terms "using" and "processing" information include using cookies on a computer, subjecting the information to statistical or other analysis and using or handling information in any way, including, but not limited to collecting, storing, evaluating, modifying, deleting, using, combining, disclosing and transferring information within our organization or among our affiliates within the United States or internationally.
+	</p>
+	
+	<h4>Information Collection and Use</h4>
+	<p>
+		Our primary goals in collecting information are to provide and improve our Services, to administer your membership, and to enable users to enjoy and easily navigate them.
+	</p>
+	
+	<h4>Personally Identifiable Information.</h4>
+	<p>When you register with us, either through the Site or on one of the Services, we may ask you for personally identifiable information. This refers to information about you that can be used to contact or identify you ("Personal Information"). Personal Information includes, but is not limited to, your name, phone number, credit card or other billing information, email address and home and business postal addresses. We may also collect the other information that you provide as part of registration and the administration and personalization of your account (e.g., without limitation, zip code (on its own) and individual preferences) ("Non-Identifying Information"). We use your Personal Information (in some cases, in conjunction with Non-Identifying Information) mainly to provide the Services, complete your transactions, and administer your inquiries.</p>
+
+	<p>Certain Non-Identifying Information would be considered a part of your Personal Information if it were combined with other identifiers (for example, combining your zip code with your street address) in a way that enables you to be identified. But the same pieces of information are considered Non-Identifying Information when they are taken alone or combined only with other non-identifying information (for example, your viewing preferences). We may combine your Personal Information with Non-Identifying Information and aggregate it with information collected from other Xfire Users (defined below) to attempt to provide you with a better experience, to improve the quality and value of the Services and to analyze and understand how our Site and Services are used. We may also use the combined information without aggregating it to serve you specifically, for instance, to deliver a product to you according to your preferences or restrictions.</p>
+	
+	<p>We may also use the combined information without aggregating it to serve you specifically, for instance, to deliver a product to you according to your preferences or restrictions.</p>
+	
+	<p>We also use your Personal Information to contact you with Xfire and its marketing partners' newsletters, marketing or promotional materials and other information that may be of interest to you. If you decide at any time that you no longer wish to receive such communications from us, please follow the unsubscribe instructions provided in any of the communications or update your "user preferences" information as applicable. (See "Changing or Deleting Information," below.)</p>
+	
+	<h4>Log Data</h4>
+	<p>When you visit the Site or the Services, whether as a Xfire or a non-registered user just browsing (any of these, a "Xfire User"), our servers automatically record information that your browser sends whenever you visit a website ("Log Data"). This Log Data may include information such as your computer's Internet Protocol ("IP") address, browser type or the webpage you were visiting before you came to our Site, pages of our Site that you visit, the time spent on those pages, information you search for on our Site, access times and dates, and other statistics. We use this information to monitor and analyze use of the Services, for their technical administration, to increase their functionality and user-friendliness, and to better tailor them to our visitors' needs. For example, some of this information is collected so that when you visit the Services again, it will recognize you and serve advertisements and other information appropriate to your interests. We also use this information to verify that visitors to the Services meet the criteria required to process their requests. We do not treat Log Data as Personal Information or use it in association with other Personal Information, though we may aggregate, analyze and evaluate such information for the same purposes as stated above regarding other Non-Identifying Information.</p>
+	
+	<h4>Cookies</h4>
+	<p>Like many websites, we use "cookies" to collect information. A cookie is a small data file that we transfer to your computer's hard disk for record-keeping purposes. We use cookies for two purposes. First, we utilize persistent cookies to save your registration ID and login password for future logins to the Services. Second, we utilize session ID cookies to enable certain features of the Services, to better understand how you interact with the Services and to monitor aggregate usage by Xfire. Users and web traffic routing on the Services. Unlike persistent cookies, session cookies are deleted from your computer when you log off from the Services and then close your browser. Third party advertisers on the Services may also place or read cookies on your browser. You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to use all portions or functionalities of the Services.</p>
+	
+	<h4>Emailing Via a Xfire Account</h4>
+	<p>As part of the Services, Xfire, Players may communicate with other Xfire Players and non-registered users through use of their accounts. Where Xfire Players have selected the option of adding one or more email addresses to an online form, the message they create in the corresponding template will be sent from Xfire to those email addresses on their behalf. These email addresses will be stored in the address book the Xfire. Player creates and will be used only for the purpose of sending the email communication to the addressee.</p>
+	
+	<h4>Phishing</h4>
+	<p>Identity theft and the practice currently known as "phishing" are of great concern to Xfire. Safeguarding information to help protect you from identity theft is a top priority. We do not and will not, at any time, request your credit card information, your account ID, login password, or national identification numbers in a non-secure or unsolicited e-mail or telephone communication. For more information about phishing, visit the Federal Trade Commission's website.</p>
+	
+	<h4>Information Sharing and Disclosure</h4>
+	<p>Xfire, Registration. When you register through the Services and submit your Personal Information to create a profile webpage or join one of the Services, Xfire. Players may see your username and the other information about you ("Required Subscriber Identifiers"). We may display your Personal Information in your profile page and elsewhere on the Services according to the preferences you set in your account. Any information you choose to provide should reflect how much you want other Xfire. Users to know about you. We recommend that you guard your anonymity and sensitive information and we encourage members to think carefully about what information about themselves they disclose in their profile pages. You can review and revise your profile information at any time. We recommend that you guard your anonymity and sensitive information and that you not use your real name as your username, since that would allow others to identify you.</p>
+	
+	<p>Aggregate Information and Non-Identifying Information. We may share aggregated information that includes your Personal Information, Non-Identifying Information and Log Data with third parties for industry analysis and demographic profiling and to deliver targeted advertising about other products and services.</p>
+	
+	<p>Service Providers. We may employ third party companies and individuals to facilitate our Services, to provide the Services on our behalf, to perform tasks, (e.g., without limitation, maintenance services, database management, web analytics and improvement of the Services) or to assist us in analyzing how our Services are used. These third parties have access to your Personal Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose. We may also provide Personal Information to our business partners or other trusted entities for the purpose of providing you with information on goods or services we believe will be of interest to you. You can, at any time, opt out of receiving such communications.</p>
+	
+	<p>Compliance with Laws and Law Enforcement. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including but not limited to subpoenas), to protect the property and rights of Xfire. or a third party, to protect the safety of the public or any person, or to prevent or stop activity we may consider to be, or to pose a risk of being, any illegal, unethical or legally actionable activity.</p>
+	
+	<p>Business Transfers. Xfire. may sell, transfer or otherwise share some or all of its assets, including your Personal Information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy.</p>
+	
+	<h4>Changing or Deleting Your Information</h4>
+	<p>All Subscribers may review, update, correct or delete the Personal Information in their registration profile by changing the applicable information in their account settings or, for Services that are hosted on a social networking site, by changing the applicable information in their profile page.</p>
+	
+	<h4>Security</h4>
+	<p>Xfire is very concerned with safeguarding your information. We employ administrative, physical and electronic measures designed to protect your information from unauthorized access. We will make any legally required disclosures of any breach of the security, confidentiality, or integrity of your unencrypted electronically stored "personal data" (as defined in applicable state statutes on security breach notification) to you via email or conspicuous posting on the Services in the most expedient time possible and without unreasonable delay, insofar as consistent with (i) the legitimate needs of law enforcement or (ii) any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system.</p>
+	
+	<h4>International Transfer</h4>
+	<p>Your information may be transferred to - and maintained on - computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you are located outside the United States and choose to provide information to us, Xfire, transfers Personal Information to the United States and processes it there and your submission of such information represents your agreement to that transfer.</p>
+	
+	<h4>Links to Other Sites</h4>
+	<p>Our Services contain links to other websites. If you choose to visit an advertiser by clicking on a banner ad or other type of advertisement, or click on another third party link, you will be directed to that third party's website. The fact that we link to a website or present a banner ad or other type of advertisement is not an endorsement, authorization or representation of our affiliation with that third party, nor is it an endorsement of their privacy or information security policies or practices. We do not exercise control over third party websites. These other websites may place their own cookies or other files on your computer, collect data or solicit personal information from you. Other sites follow different rules regarding the use or disclosure of the personal information you submit to them. We encourage you to read the privacy policies or statements of the other websites you visit.</p>
+	
+	<h4>Our Policy Toward Children</h4>
+	<p>The Services are not directed to children under 13. We do not knowingly collect personally identifiable information from children under 13. If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files.</p>
+	
+	<h4>Contacting Us</h4>
+	<p>If you have any questions about this Privacy Policy, please contact us at privacy@Xfire.com or at: Privacy Matters, Xfire, Inc. Gaming, Inc., 1351 Fourth Street, 4th Floor, Santa Monica CA 90401</p>
+</div>
+        </div>
+      </div>
+      <div class="push"></div>
+    </div>
+
+    <div class="footer">
+      <div class="content">
+        <div class="left">
+          <span>
+              <a href="http://business.xfire.com" target="_blank">Business Partners</a>
+              <a href="http://blog.xfire.com" target="_blank">Blog</a>
+
+            <a href="http://www.xfire.com/privacy">Privacy</a>
+            <a href="http://www.xfire.com/terms">Terms &amp; Conditions</a>
+            <a href="http://www.xfire.com/faq">FAQ</a>
+            <a href="http://support.xfire.com " target="_blank">Support</a>
+            <a href="http://support.xfire.com/open.php?" target="_blank">Contact Us</a>
+          </span>
+          Copyright © 2013 Xfire Inc. All Rights Reserved.
+        </div>
+
+        <div class="right">
+          <div class="download_btn">
+            <a href="http://media.xfire.com/xfire/client/download/2.0/xfire_setup.exe" id="download_button" onclick="_gaq.push(['_trackEvent', 'Download', 'Web', 'Xfire Client']);">Download Xfire Client</a>
+          </div>
+          <a href="http://media.xfire.com/xfire/client/xfsite/xfire_installer.exe" class="old" id="download_button" link="http://media.xfire.com/xfire/client/xfsite/xfire_installer.exe" onclick="_gaq.push(['_trackEvent', 'Download', 'Web', 'Xfire Client']);">Download the old Xfire Client</a>
+        </div>
+      </div>
+    </div>
+
+    <div id="ajax_loader" style="display: none;"></div>
+
+      
+
+    
+    
 
 
-			<div class="footer">
-	<a href="http://www.xfire.com/cms/xf_aboutus/">About Us</a> |
-	<a href="http://www.xfire.com/cms/xf_mediakit/">Advertise</a> |
-	<a href="http://www.xfire.com/cms/xf_promote_xfire/">Promote Xfire</a> |
-	<a href="http://www.xfire.com/blog/theblog/">Xfire Blog</a> |
-	<a href="http://www.xfire.com/cms/xf_skins/">Skins</a> |
-	<a href="http://www.xfire.com/cms/xf_sitemap/">Site Map</a> |
-	<a href="http://www.xfire.com/privacy_policy/">Privacy Policy</a><br>
-	<!-- 982dc44d024a157a08075eac323dc921 -->
-	Copyright © 2011 Xfire, Inc.  All Rights Reserved.
+    
+    
+
+    <div class="registration hidden">
+      <div class="inner_registration">
+        <h1>Sign up for Xfire</h1>
+          <p class="facebook">
+    <a href="/auth/facebook" class="facebook_signup"></a>
+  </p>
+  <p class="or">- OR -</p>
+  <p class="steam">
+    <a href="/auth/steam" class="steam_signup"></a>
+  </p>
+  <p class="or">- OR -</p>
+<a class="hidden signup_cancel" href="#/users/cancel"> Cancel </a> 
+
+<div class="registration_container clear">
+  <form accept-charset="UTF-8" action="/users.html" autocomplete="off" class="simple_form new_user" data-validate="true" id="new_user_2243739" method="post" novalidate="novalidate"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="Xrg0qhi9wxkMpEYpZrhnPb4sdhQUemv/ioPEvCeocfk="></div>
+    <h2>
+      Sign up
+    </h2>
+
+    <div class="reg_inside_shadow .username">
+      <div class="reg_input">
+        <div class="input string required"><label class="string required" for="user_username"><abbr title="required">*</abbr> Username</label><input class="string required sl_field" id="user_username" name="user[username]" placeholder="Username                                                                 " required="required" size="50" type="text"></div>
+      </div>
+    </div>
+
+    <div class="reg_inside_shadow .password">
+      <div class="reg_input">
+        <div class="input password required"><label class="password required" for="user_password"><abbr title="required">*</abbr> Password</label><input class="password required" id="user_password" name="user[password]" placeholder="Password                                                                 " required="required" size="50" type="password"></div>
+      </div>
+    </div>
+
+    <div class="reg_inside_shadow .email">
+      <div class="reg_input">
+        <div class="input email required"><label class="email required" for="user_email"><abbr title="required">*</abbr> Email</label><input class="string email required" id="user_email" name="user[email]" placeholder="Email                                                                       " required="required" size="50" type="email" value=""></div>
+      </div>
+    </div>
+
+    <input as="hidden" id="user_create_redirect" name="user[create_redirect]" type="hidden" value="/privacy">
+    
+    
+
+    <div class="disclaimer"> By clicking below you acknowledge you are over 13 years old and agree to the <a href="/terms">Terms of Service.</a></div>
+
+    <div class="btn">
+      <input class="create_button button" id="create-account" name="commit" type="submit" value="Create Account">
+    </div>
+
+    <div class="client hidden already_user">
+      <a href="/api/users/dummy" data-method="post" rel="nofollow">I already have an Xfire account.</a>
+    </div>
+<div id="a_comment_body_hp_1369666659"><style media="screen" scoped="scoped" type="text/css">#a_comment_body_hp_1369666659 { display:none; }</style><label for="a_comment_body">Do not fill in this field</label><input id="a_comment_body" name="a_comment_body" type="text"></div></form><script>//<![CDATA[
+if(window.ClientSideValidations===undefined)window.ClientSideValidations={};window.ClientSideValidations.disabled_validators=[];window.ClientSideValidations.number_format={"separator":".","delimiter":","};if(window.ClientSideValidations.patterns===undefined)window.ClientSideValidations.patterns = {};if(window.ClientSideValidations.has_validated===undefined)window.ClientSideValidations.has_validated = [] ;window.ClientSideValidations.patterns.numericality=/^(-|\+)?(?:\d+|\d{1,3}(?:\,\d{3})+)(?:\.\d*)?$/;if(window.ClientSideValidations.remote_validators_prefix===undefined)window.ClientSideValidations.remote_validators_prefix='';if(window.ClientSideValidations.forms===undefined)window.ClientSideValidations.forms={};window.ClientSideValidations.forms['new_user_2243739'] = {"type":"SimpleForm::FormBuilder","error_class":"error","error_tag":"span","wrapper_error_class":"field_with_errors","wrapper_tag":"div","wrapper_class":"input","wrapper":"default","validators":{"user[username]":{"presence":[{"message":"can't be blank"}]},"user[password]":{"presence":[{"message":"can't be blank"}],"length":[{"messages":{"minimum":"is too short (minimum is 6 characters)"},"minimum":6}]},"user[email]":{"presence":[{"message":"can't be blank"}],"format":[{"message":"is invalid","with":/^[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]+$/}]}}};if($('#new_user_2243739').validate && _.indexOf(window.ClientSideValidations.has_validated, 'new_user_2243739') == -1){$('#new_user_2243739').validate();window.ClientSideValidations.has_validated.push('new_user_2243739');}
+//]]></script>  <div class="hidden sign_in">
+    
+<div class="triangle"></div>
+<div class="login_page">
+      <div class="l_col">
+        <p>Have facebook or steam? Sign in here.</p>
+        <a href="/auth/facebook"><img alt="Facebook-connect-button" src="http://assets.xfire.com/assets/facebook-connect-button-2a5a75ae9c077eda97ecae59d3a7b1aa.png"></a>
+        <a href="/auth/steam"><img alt="Sits_small" src="http://assets.xfire.com/assets/external/sits_small-2dede8b186f9514446f785c4f01b7ca5.png"></a>
+      </div><!-- / l_col-->
+
+    <div class="r_col ">
+        <p>Already have an Xfire account?
+			<br>Sign in Here.
+		</p>
+      <h2 class="hidden sign_up_page">
+        Sign in
+      </h2>
+      <form accept-charset="UTF-8" action="/user_sessions" class="simple_form new_user_session" id="new_user_session" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="Xrg0qhi9wxkMpEYpZrhnPb4sdhQUemv/ioPEvCeocfk="></div>
+        <div class="input string optional"><label class="string optional" for="user_session_login">Log in</label><input class="string optional" id="user_session_login" name="user_session[login]" placeholder="Username                                                                 " size="50" type="text"></div>
+            <p class="alert"><span>Incorrect Username or Password </span></p>
+        <div class="input password optional"><label class="password optional" for="user_session_password">Password</label><input class="password optional" id="user_session_password" name="user_session[password]" placeholder="Password                                                                 " size="50" type="password"></div>
+        <div class="input hidden"><input class="hidden" id="user_session_redirect" name="user_session[redirect]" type="hidden" value="/privacy?"></div>
+            <input type="hidden" name="controller" value="pages" placeholder="Enter email and username">
+            <input type="hidden" name="action" value="privacy" placeholder="Enter email and username">
+        <div>
+            <a class="text" href="/users/forgot_password">Having trouble?</a>
+            <input type="hidden" name="user_session[parameters][logged_id]" value="true">
+            <button class="orange_btn" name="button" type="submit">Log in</button>
+        </div>
+<div id="a_comment_body_hp_1369666659"><style media="screen" scoped="scoped" type="text/css">#a_comment_body_hp_1369666659 { display:none; }</style><label for="a_comment_body">Do not fill in this field</label><input id="a_comment_body" name="a_comment_body" type="text"></div></form>    </div><!-- / r_col-->
+
+    <div class="clear"></div>
+</div><!--- /login_page -->
+
+  </div>
 </div>
 
-	
-<!-- Start Quantcast tag -->
-<script type="text/javascript">
-	_qoptions={
-	qacct:"p-b4Brie4i0051I"
-	};
-</script>
 
-<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+      </div>
+    </div>
 
-<noscript>
-	<img src="http://pixel.quantserve.com/pixel/p-b4Brie4i0051I.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast" />
-</noscript>
-<!-- End Quantcast tag -->
-
-
-		</div><!-- p_wrapper -->
-	
-<script type="text/javascript">
-<!--
-RunOnLoad( "ltl()" )
-//-->
-</script>
-<script type="text/javascript">
-<!--
-var cpmstar_pid = 15500; // your poolid
-var cpmstar_centerWidth = "1020"; //width IN PIXELS of your center content, e.g. "800px"
-var cpmstar_fixed = "1" ; //fix ads near top of screen: "0" to allow ads to scroll with page
-var cpmstar_leftOffset = "0px" ; //optionally adjust left ad positioning
-var cpmstar_rightOffset = "0px" ; //optionally adjust right ad positioning
-var cpmstar_zIndex = "100" ; //adjust layering of ads vs. other page elements
-var cpmstar_rnd = Math.round(Math.random() * 999999);
-document.write("<scr" + "ipt type='text/javascript' src='http://server.cpmstar.com/view.aspx?poolid=" + cpmstar_pid + "&script=1&rnd=" + cpmstar_rnd + "'></scr" + "ipt>");
-//-->
-</script><script type="text/javascript" src="http://server.cpmstar.com/view.aspx?poolid=15500&amp;script=1&amp;rnd=630426"></script>
-
-
+    <div id="override_javascript_alert">
+    </div>
+  
 
 </body></html>
