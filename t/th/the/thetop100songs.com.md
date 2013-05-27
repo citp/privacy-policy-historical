@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thetop100songs.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230121307id_/http%3A//www.thetop100songs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetop100songs.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527224327id_/http%3A//www.thetop100songs.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Top 100 songs
+# Privacy Policy
 
 This Privacy Policy governs the manner in which The Top 100 Songs collects, uses, maintains and discloses information collected from users (each, a “User”) of the <http://www.thetop100songs.com/> website (“Site”). This privacy policy applies to the Site and all products and services offered by The Top 100 Songs.
 
@@ -66,10 +66,6 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 Contacting us
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-The Top 100 Songs  
 <http://www.thetop100songs.com/contact-us/>
 
-This document was last updated on December 18, 2011  
-  
----  
-[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.thetop100songs.com%2Fprivacy-policy%2F&media=&description=Privacy%20Policy)
+This document was last updated on December 18, 2011
