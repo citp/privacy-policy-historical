@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the contracthireandleasing.com privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111130112id_/http%3A//www.contracthireandleasing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contracthireandleasing.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527145344id_/http%3A//www.contracthireandleasing.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | ContractHireAndLeasing.com
 
