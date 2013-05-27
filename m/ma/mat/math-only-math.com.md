@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the math-only-math.com privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109190139id_/http%3A//www.math-only-math.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the math-only-math.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527044753id_/http%3A//www.math-only-math.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Personal Information | Use of Cookies and Web Beacons
 
@@ -31,7 +31,7 @@ Some third-party advertisements may be provided by Google, which uses cookies to
 
 Browsers can be set to accept or reject cookies or notify you when a cookie is being sent. Privacy software can be used to override web beacons. Taking either of these actions shouldn't cause a problem with our site, should you so choose.
 
- **Non-Personal Information:**
+**Non-Personal Information:**
 
 In some cases, we may collect information about you that is not personally identifiable. We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users' movements around the site and to gather demographic information about our user base as a whole. The information collected is used solely for internal review and not shared with other organizations for commercial purposes. 
 
@@ -45,10 +45,13 @@ We provide this privacy policy as a statement to you of our commitment to protec
 
 **Updates and Effective Date:**
 
- **www.math-only-math.com** reserves the right to make changes in this policy. If there is a material change in our privacy practices, we will indicate on our site that our privacy practices have changed and provide a link to the new privacy policy. We encourage you to periodically review this policyso that you will know what information we collect and how we use it.
+**www.math-only-math.com** reserves the right to make changes in this policy. If there is a material change in our privacy practices, we will indicate on our site that our privacy practices have changed and provide a link to the new privacy policy. We encourage you to periodically review this policy so that you will know what information we collect and how we use it.
 
- **Agreeing to Terms:**
+**Agreeing to Terms:**
 
 If you do not agree to **www.math-only-math.com** Privacy Policy as posted here on this website, please do not use this site or any services offered by this site. 
 
 Your use of this site indicates acceptance of this privacy policy.
+
+ **Didn't find what you were looking for? Or want to know more information about** **[Math Only Math](http://www.math-only-math.com/). Use this Google Search to find what you need.**  
+
