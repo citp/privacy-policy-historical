@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mymangosteen.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017005658id_/http%3A//www.mymangosteen.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mymangosteen.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527085820id_/http%3A//www.mymangosteen.com/privacy.asp) for the most accurate reproduction.*
 
 # XANGO - Welcome to MyMangosteen.com
 
