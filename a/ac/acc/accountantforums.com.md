@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accountantforums.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005052041id_/http%3A//www.accountantforums.com/faq.php%3Ffaq%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accountantforums.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527071200id_/http%3A//www.accountantforums.com/faq.php%3Ffaq%3Dprivacypolicy) for the most accurate reproduction.*
 
 # Accountant Forums - FAQ: Privacy Policy
 
