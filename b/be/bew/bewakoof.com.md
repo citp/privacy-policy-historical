@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the bewakoof.com privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109092921id_/http%3A//www.bewakoof.com/article/privacy-policy-and-disclaimer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bewakoof.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527135451id_/http%3A//www.bewakoof.com/article/privacy-policy-and-disclaimer) for the most accurate reproduction.*
 
 # Privacy Policy and Disclaimer
+
+### Privacy Policy and Disclaimer
 
 **Bewakoof.com** recognizes that its customers, visitors, users, and others (known collectively or individually as "Users") who use [www.bewakoof.com](http://www.threadless.com/) (the "Website") value their privacy. This Privacy Policy applies to all of the products, services, and Websites offered by **Bewakoof.com** , and details important information regarding the use and disclosure of User information collected on the Website.
 
@@ -131,4 +133,6 @@ Mumbai, 400076
 
 care@bewakoof.com
 
-Bewakoof Lifestyle: Men's T Shirts | Buy T Shirts Online in India | Funny T-Shirts, Cool T-Shirts, Slogan T-Shirts © 2012
+###  10\. SMOKING KILLS :
+
+Cigarette smoking is injurious to health. It causes cancer. All content contained within Bewakoof.com is for ENTERTAINMENT purposes ONLY. The t-shirt designs and content of Bewakoof.com do not endorse the use of tobacco, marijuana or alcohol. We cannot be held responsible for those who use poor judgement involving illegal substances. Bewakoof.com contains no information about the purchasing or selling of tobacco, marijuana or any illegal substance 
