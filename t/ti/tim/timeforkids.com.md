@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timeforkids.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621145655id_/http%3A//www.timeinc.net/subs/privacy/tk/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timeforkids.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527170800id_/http%3A//www.timeinc.net/subs/privacy/tk/policy.html) for the most accurate reproduction.*
 
 # TIME FOR KIDS Privacy Notice
 
@@ -7,8 +7,9 @@
   
 **Table of Contents** |    
 * The Information We Collect
-* How We Use the Information 
+* How We Use and Share the Information 
 * Privacy Options
+* Your California Privacy Rights
 * Collection of Information by Third-Party Sites and Sponsors
 * Cookies
 * Our Commitment to Security
@@ -23,9 +24,9 @@
 
 |    
   
-This is the Privacy Policy for the United States of America which applies to you if you live outside the [European Union](http://cgi.pathfinder.com/cgi-bin/mail/dnp/privacy_centralized_eu.cgi/tfk?dnp_source=E) or [Canada](http://cgi.pathfinder.com/cgi-bin/mail/dnp/privacy_centralized_caneu.cgi/tfk?dnp_source=E). 
+This is the Privacy Policy for the United States of America which applies to you if you live outside the [European Union](https://web.archive.org/cgi-bin/mail/dnp/privacy_centralized_eu.cgi/tfk?dnp_source=E) or [Canada](https://web.archive.org/cgi-bin/mail/dnp/privacy_centralized_caneu.cgi/tfk?dnp_source=E). 
 
-Thank you for visiting TimeForKids.com, a Time Inc. site. Your privacy and children's privacy are important to us. This website contains areas for both adults and children to enjoy multi-purpose activities. Adults such as parents, guardians, and teachers may use this site to, among other things, order subscriptions and communicate with us. Children may enjoy educational features, fun games, and other activities. To better protect your and your children's privacy, we provide this policy explaining our information practices and the choices you can make about the way your information is collected and used by Time Inc. Refer to "Additional Information Regarding Children's Privacy" for an explanation of how we handle children's information. [Click here](http://www.timeinc.net/subs/privacy/bus_units.html) for a list of the Time Inc. businesses whose sites are governed by this Privacy Policy.
+Thank you for visiting TimeForKids.com, a Time Inc. site. Your and your children's privacy are important to us. This website contains areas for both adults and children to enjoy multi-purpose activities. Adults such as parents, guardians, and teachers may use this site to, among other things, order subscriptions and communicate with us. Children may enjoy educational features, fun games, and other activities. To better protect your and your children's privacy, we provide this policy explaining our information practices and the choices you can make about the way your information is collected and used by Time Inc. Refer to "Additional Information Regarding Children's Privacy" for an explanation of how we handle children's information.
 
 |    
   
@@ -36,11 +37,11 @@ At some Time Inc. sites and through certain promotions, you can submit informati
 
 For certain promotions, only persons who provide us with the requested personally identifiable information will be able to order products, programs, and services or otherwise participate in the promotion's activities and offerings. 
 
-We may also collect certain non-personally identifiable information when you visit our web pages or use our applications, such as the type of browser and operating system you are using, your IP Address, and your Internet service provider, and location-based information. 
+We also may collect certain non-personally identifiable information when you visit many of our web pages such as the type of browser you are using, the type of operating system you are using, and the domain name of your Internet service provider. 
 
 | back to top  
   
-**How We Use the Information**  
+**How We Use and Share the Information**  
 We may use the information you provide about yourself to fulfill your requests for our products, programs, and services, to respond to your inquiries about offerings, and to offer you other products, programs or services that we believe may be of interest to you. 
 
 We sometimes use this information to communicate with you, such as to notify you when you have won one of our contests or when we make changes to subscriber agreements, to fulfill a request by you for an online newsletter, or to contact you about your account with us. 
@@ -64,22 +65,25 @@ Although we take appropriate measures to safeguard against unauthorized disclosu
 |    
   
 **Privacy Options**  
-If you prefer not to receive traditional mail or other off-line promotions from this or any other Time Inc. property or any companies not owned by Time Inc., please [click here](http://cgi.timeinc.net/cgi-bin/mail/dnp/privacy_centralized.cgi/tfk?offline=yes&referring_url=&dnp_source=K). |    
+If you prefer not to receive traditional mail or other off-line promotions from this or any other Time Inc. property or any companies not owned by Time Inc., please [click here](https://subscription.timeinc.com/storefront/privacy/tfk/generic_privacy_form_offline.html?dnp-source=K). |    
   
-If a Time Inc. site discloses personally identifiable information to companies not owned by Time Inc. who want to market products or services to you, it will provide you with an opportunity to opt out or block such uses. If you prefer not to receive online marketing information from companies not owned by Time Inc., please [click here](http://cgi.timeinc.net/cgi-bin/mail/dnp/privacy_centralized.cgi/tfk?online=yes&referring_url=&dnp_source=K). 
+If a Time Inc. site discloses personally identifiable information to companies not owned by Time Inc. who want to market products or services to you, it will provide you with an opportunity to opt out or block such uses. If you prefer not to receive online marketing information from companies not owned by Time Inc., please [click here](https://subscription.timeinc.com/storefront/privacy/tfk/generic_privacy_form_online.html?dnp-source=K). 
 
-Time Inc. may on occasion combine information we receive online with outside records to enhance our ability to market to you those products or services that may be of interest to you. If you prefer not to receive online marketing information from this or any other Time Inc. site, please [click here](http://cgi.timeinc.net/cgi-bin/mail/dnp/privacy_centralized.cgi/tfk?online=yes&referring_url=&dnp_source=K). 
+Time Inc. may on occasion combine information we receive online with outside records to enhance our ability to market to you those products or services that may be of interest to you. If you prefer not to receive online marketing information from this or any other Time Inc. site, please [click here](https://subscription.timeinc.com/storefront/privacy/tfk/generic_privacy_form_online.html?dnp-source=K). 
 
 Time Inc. sites will not use or transfer personally identifiable information provided to us in ways unrelated to the ones described above without also providing you with an opportunity to opt out of these unrelated uses. 
 
 | back to top  
   
+**Your California Privacy Rights: Notice to California Customers**  
+California's "Shine the Light" law, Civil Code section 1798.83, requires certain businesses to respond to requests from California customers asking about the businesses' practices related to disclosing personal information to third parties for the third parties' direct marketing purposes. Alternately, such businesses may have in place a policy not to disclose personal information of customers to third parties for the third parties' direct marketing purposes if the customer has exercised an option to opt-out of such information-sharing. As discussed above, if you wish to opt-out of our sharing of your information with third parties for the third parties' direct marketing purposes offline please click here, or for email please click here. To find out more about your opt-out rights, please contact us as described in the " **How to Contact Us**" section below.  |    
+  
 **Collection of Information by Third-Party Sites and Sponsors**  
 Some of our sites contain links to other sites whose information practices may be different than ours. You should consult the other sites' privacy policies, as we have no control over information that is submitted to, or collected by, these third parties. 
 
-Time Inc. sites sometimes may offer contests, sweepstakes, promotions, editorial features, or other activities or offerings that are sponsored or co-sponsored by or presented with identified third parties. By virtue of your participation in such activities or offerings, the personally identifiable information that you voluntarily submit may be provided to both the Time Inc. site and the third parties. Time Inc. has no control over the third parties' use of this information. 
+Time Inc. sites sometimes may offer contests, sweepstakes, or promotions that are sponsored by or co-sponsored with identified third parties. By virtue of their sponsorship, these third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the contest, sweepstakes, or promotion. Time Inc. has no control over the third-party sponsors' use of this information. 
 
-Time Inc. sites may use reputable third parties to present or serve the advertisements that you may see at its web pages and to conduct research about the advertisements. This privacy policy does not cover any use of information that such third parties may have collected from you or the methods used by the third-parties to collect that information (e.g., cookies, web beacons and clear gifs). For more information on the use of such third-parties, please [click here](http://www.timeinc.net/legal/parties.html). 
+Time Inc. sites may use reputable third parties to present or serve the advertisements that you may see at its web pages and to conduct research about the advertisements. This privacy policy does not cover any use of information that such third parties may have collected from you or the methods used by the third-parties to collect that information (e.g., cookies, web beacons and clear gifs). For more information on the use of such third-parties, please [click here](http://subscription-assets.timeinc.com/prod/assets/themes/magazines/default/template-resources/html/legal/parties.html). 
 
 |    
   
@@ -93,40 +97,41 @@ We may also use small pieces of code called "web beacons" or "clear gifs" to col
 | back to top  
   
 **Our Commitment to Security**  
-We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect. |    
-  
-**How You Can Access or Correct Information**   
-To inquire about personally identifiable information that this Time Inc. site has collected about you, or how to correct factual errors in such information, please email us by clicking [here](http://www.pathfinder.com/customerservice). 
+We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect.
 
-To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections.
+To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections. 
 
 |    
   
+**How You Can Access or Correct Information**   
+To inquire about personally identifiable information that this Time Inc. site has collected about you, or how to correct factual errors in such information, please email us by clicking [clicking here](mailto:consumeraffairs@customersvc.com).  |    
+  
 **Additional Information Regarding Children's Privacy**  
-Your child's privacy is important to us, and we are committed to safeguarding children's personal information collected online, and to helping parents and their children learn how to exercise control over personal information while exploring the Internet. Therefore, we have taken additional measures to tailor our content and offerings at those sites and portions of our sites directed to children to help them protect their privacy while online. These measures include asking children to use non-personally identifiable screen names rather than their real names in certain activities and making efforts to prevent children from posting contact information. In addition, we do not ask children to disclose more personal information than is necessary for them to participate in an activity.
+Your child's privacy is important to us, and we are committed to safeguarding children's personal information, and to helping parents and their children learn how to exercise control over personal information while exploring this website. Therefore, we have taken additional measures to tailor our content and offerings at our sites and portions of our sites directed to children under the age of 13, or which knowingly collect personal information from children under the age of 13, to help them protect their privacy while they use our sites. These measures include asking children to use non-personally identifiable screen names rather than their real names in certain activities and making efforts to prevent children from posting contact information. In addition, we do not ask children to disclose more personal information than is necessary for them to participate in an activity. 
 
-Visitors to the portions of our sites directed at children may participate in many of our offerings and activities without providing any personally identifiable information. To participate in certain of our interactive features, however, we may ask the user to provide us with the following types of information: first name, first initial of the last name, the visitor's e-mail address, parent's e-mail address, and age information. On some pages of our sites, such as where children can send postcards to their friends, we also may ask your child to provide information (e.g., friend's first name and e-mail address).
+Visitors to the portions of our sites directed at children may participate in many of our offerings and activities without providing any personally identifiable information. To participate in certain of our interactive features, however, we may ask the user to provide us with the following types of information: first name, first initial of the last name, the visitor's e-mail address, parent's e-mail address, and age information. On some pages of our sites, such as where children can send postcards to their friends, we also may ask your child to provide information (e.g., friend's first name and e-mail address). We only use the personal information collected in these situations for the one-time purpose of responding to the request, and we delete the personal information from our systems after doing so. 
 
-We use this information only for our internal purposes to enable them to enter one of our sweepstakes or contests, to express their opinions on various topics, to send electronic postcards to their friends, to otherwise participate in one of the activities on our site, or to respond to an e-mail message they have sent to us. We use information about others to enable the child to communicate with them or, in the case of the parent's e-mail address, to obtain your consent for participation in our activities (e.g., participation in a contest or subscription to Time For Kids Magazine). We may also use information to enable parents and children to learn of additional product or service opportunities. We do not share children's personally identifiable information with outside third parties not bound by this Privacy Policy. Parents, if you would like to do any of the following, please send an e-mail to [consumeraffairs@customersvc.com](mailto:consumeraffairs@customersvc.com) for instructions:  
-• access the personally identifiable information that this site has collected from your child,  
-• correct factual errors in such information,  
-• request to have this information deleted, or  
-• request that we no longer collect or maintain such information.
+We use the information provided on our interactive pages for our internal purposes, to enable the user to enter one of our sweepstakes or contests, to express their opinions on various topics, to send electronic postcards to their friends, to otherwise participate in one of the activities on our site, or to respond to an e-mail message they have sent to us. We use information about others to enable the child to communicate with them or, in the case of the parent's e-mail address, to obtain your consent for participation in our activities (e.g., participation in a contest or subscription to Time for Kids Magazine). We may also use information to enable parents and children to learn of additional product or service opportunities. We do not share children's personally identifiable information with outside third parties not bound by this Privacy Policy. Parents, if you would like to do any of the following, please send an e-mail to [customer service](mailto:consumeraffairs@customersvc.com) for instructions:  
+    • access the personally identifiable information that this site has collected from your child,  
+    • correct factual errors in such information,  
+    • request to have this information deleted, or  
+    • request that we no longer collect or maintain such information.
 
 To protect your child's privacy and security online, we will take appropriate steps to help verify your identity before granting you access to the personal information that we collect and maintain about your child. 
 
 |    
-  
 **Changes to This Policy**  
 This Policy may be changed by Time Inc. The revised Policy will be posted to this page so that you are aware of the information we collect, how we use it, and under what circumstances we may disclose it.  |    
-  
+|   
 **How to Contact Us**  
-If you have any questions or concerns about the Time Inc. Privacy Policy or its implementation please contact us via email by [clicking here](http://www.pathfinder.com/customerservice), call us at 800-318-1198 or write to us at the following address:
+Time Inc. is the operator of this website. If you have any questions or concerns about the Time Inc. Privacy Policy or its implementation please contact us via email by [clicking here](mailto:consumeraffairs@customersvc.com), call us at 800-318-1198 or write to us at the following address:
 
 Time Customer Service  
 Attention: Consumer Affairs - TimeForKids.com Privacy Policy  
 3000 University Center Drive  
-Tampa, Florida 33612-6408
+Tampa, Florida 33612-6408  
+Telephone: 800-318-1198  
+Email: [consumeraffairs@customersvc.com](mailto:consumeraffairs@customersvc.com)
 
 | back to top  
-|  This Privacy Policy was revised 1/7/2011.
+|  This Privacy Policy was revised 5/13/13.
