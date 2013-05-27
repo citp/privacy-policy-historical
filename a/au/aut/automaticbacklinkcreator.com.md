@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the automaticbacklinkcreator.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130195527id_/http%3A//blog.abc3k.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the automaticbacklinkcreator.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527094134id_/http%3A//blog.abc3k.com/privacy) for the most accurate reproduction.*
 
 # Privacy « ABC 3K
 
