@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the atlantisthepalm.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014202818id_/http%3A//www.atlantisthepalm.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atlantisthepalm.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527160909id_/http%3A//www.atlantisthepalm.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
 * * *
 
-We are providing you with this Privacy Policy ("Privacy Policy") because we understand that you are concerned about privacy. This Privacy Policy pertains to the <http://www.atlantisthepalm.com/> website (the "Site") owned and operated by Kerzner International Resorts, Inc., on behalf of its affiliated companies including Kerzner Istithmar Limited and its affiliated properties, including Atlantis, The Palm (collectively, "Kerzner", "us" or "we").  This Privacy Policy describes how personal information about you may be collected, used and disclosed by us in the course of business.  It also describes how you can opt-out of some uses of personal information.
+We are providing you with this Privacy Policy ("Privacy Policy") because we understand that you are concerned about privacy. This Privacy Policy pertains to the <http://www.atlantisthepalm.com/> website (the "Site") owned and operated by Kerzner International Resorts, Inc., on behalf of its affiliated companies including Atlantis The Palm Limited and its affiliated properties, including Atlantis, The Palm (collectively, "Kerzner", "us" or "we").  This Privacy Policy describes how personal information about you may be collected, used and disclosed by us in the course of business.  It also describes how you can opt-out of some uses of personal information.
 
 This Privacy Policy is incorporated into and is subject to our [Terms and Conditions](https://web.archive.org/termsandconditions.aspx). Your use of our services, including this Site and any personal information you provide us remains subject to the terms of this Privacy Policy and our [Terms and Conditions](https://web.archive.org/termsandconditions.aspx). If you do not agree with this Privacy Policy please do not use this Site.
 
