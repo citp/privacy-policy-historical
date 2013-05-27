@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bdtechie.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213045740id_/http%3A//www.bdtechie.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bdtechie.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527193629id_/http%3A//www.bdtechie.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - BDTECHIE
+# Privacy Policy
 
 **Privacy Policy for[www.bdtechie.com](http://www.bdtechie.com/)**
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us through [BDTECHIE’S CONTACT PAGE](http://www.bdtechie.com/contact/)
+If you require any more information or have any questions about our privacy policy, please feel free to contact us through [contact page](http://www.bdtechie.com/contact/)
 
 At www.bdtechie.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.bdtechie.com and how it is used.
 
