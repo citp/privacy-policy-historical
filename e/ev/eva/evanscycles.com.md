@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evanscycles.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230181554id_/http%3A//www.evanscycles.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evanscycles.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527151942id_/http%3A//www.evanscycles.com/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Help | Evans Cycles
 
@@ -20,7 +20,9 @@ If you wish to contact us regarding our privacy policy please use this [_form_](
 
 **What is a cookie?**
 
-A cookie is a small text file which we transfer to your hard drive through your web browser when you visit our website or open certain emails. It enables our own system to recognise you when you visit our website again and improve our service to you. This information can be used to enhance the content of our website and make your use of it easier. For more information about cookies please visit [www.allaboutcookies.org](http://www.allaboutcookies.org/).
+A cookie is a small text file which we transfer to your hard drive through your web browser when you visit our website or open certain emails. It enables our own system to recognise you when you visit our website again and improve our service to you. This information can be used to enhance the content of our website and make your use of it easier.
+
+Read how the IAB provides information about Internet Advertising and your privacy [here](http://www.youronlinechoices.eu/).
 
 **Three types of cookie may be used during your visit to www.evanscycles.com  **
 
@@ -28,11 +30,11 @@ Evanscycles.com session cookies that are deleted after each visit
 Evanscycles.com persistent cookies are not deleted after each visit   
 Third party cookies that are used by our partners, for example, to help us measure site visitors
 
-**How to control or delete cookies?**
+**How to manage cookies?**
 
-See a list of our main cookies here. For instructions on how to control or delete cookies from your computer please visit [http://www.aboutcookies.org](http://www.aboutcookies.org/)
+Most web browsers allow you to manage which cookies you accept via their settings - you can use the following links to find out more. If your browser is not listed below you can normally use the 'Help' functionality on your browser to find out about how it handles cookies, or visit the site you downloaded it from for more information.
 
-## Cookies used ****
+See a list of our main cookies here:
 
 ### **www.evanscycles.com** :
 
@@ -79,11 +81,8 @@ _utmc
 _utma  
 _utmz  
   |    
-**Redeye Analytics** | 
-
-We use Redeye's software to carry out statistical analysis of page use, page interactions and paths through www.evanscycles.com. This is known as 'web metrics'. We also capture a customer identifier when Evans Cycles registered customers log on to www.evanscycles com. This information allows us to identify customers and more accurately understand their behaviours and needs. This means that we can more easily tailor offers and information which may be of interest to individuals. We will only send marketing emails when customers have given us permission to do so. Redeye has access to this along with other Evans Cycles data, to help increase the relevancy of our direct marketing.  
-  
-Redeye reporting  
+  |   
+   
 Net Outcome  
 kampyle feedback | 
 
@@ -164,4 +163,4 @@ youtube / vimeo cookies
 
 video uploads  
   
-This story was last updated on 19/06/2012
+This story was last updated on 21/05/2013
