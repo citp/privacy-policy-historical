@@ -1,113 +1,138 @@
-> *The following text is extracted and transformed from the match.com.au privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619201134id_/http%3A//www.match.com.au/Help/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the match.com.au privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527130034id_/http%3A//match.com.au/registration/privacystatement.aspx%3Flid%3D4) for the most accurate reproduction.*
 
-# match.com - The Leading Online Dating Site for Singles & Personals
+# Match.com - Find Singles with Match.com's Online Dating Personals Service
 
-### Protecting all our Global Network members privacy
+#### Last Updated: June 29, 2011
 
-Although our ability to provide service requires that we collect personal information about our customers, we take measures to ensure the privacy and confidentiality of that information.
+Match.com, L.L.C. (“Match.com”) respects the privacy of its users and has developed this Privacy Policy to demonstrate its commitment to protecting your privacy. This Privacy Policy describes the information we collect, how that information may be used, with whom it may be shared, and your choices about such uses and disclosures.  We encourage you to read this Privacy Policy carefully when using our website or services or transacting business with us. By using our website, you are accepting the practices described in this Privacy Policy.
 
-Online privacy concerns focus on the protection of "customer identifiable" information that an individual or other customer reasonably expects to be kept private. As the term suggests, "customer identifiable" information is information which can be associated with a specific individual or entity, including, for example, a customer's name, address, or telephone number, e-mail address, and information about online activities that are directly linked to them.
+If you have any questions about our privacy practices, please refer to the end of this Privacy Policy for information on how to contact us.
 
-We respect your privacy. We are not involved in the selling, trading or alternative unauthorised use of personal information. We promise that we will not pass on any of your personal details to any other another organisations. By providing us with your information and visiting this web site, you accept and consent to the practices described in this privacy policy.
+## Information we collect about you
 
-### What information do we collect and how do we use it?
+We may collect personal information that can identify you such as your name and email address and other information that does not identify you. When you provide personal information through our website, the information may be sent to servers located in the United States and other countries around the world. 
 
-Match.com does collect information about you at different times. Instances include:
-
-  1. ### Mandatory personal information needed for us to provide a service to you
-
-To first join Match.com - Australia, information such as your name, contact details, age and gender are requested. We will not disclose this personal information unless we have received your express consent to do so.
-
-We also may disclose this information to our subsidiary and parent companies and businesses, and other affiliated legal entities and businesses with whom we are under common corporate control. However, all of these parent, subsidiary and affiliated legal entities and businesses that receive your personal information from us will comply with the terms of this privacy policy with respect to their use and disclosure of such personal information. We may also disclose this information if we believe it is required by law - that is, to answer a subpoena, warrant or in response to other legal processes. All of your information may be transferred to and maintained on computer networks which may be located outside of the state, province, country or other governmental jurisdiction in which you reside, and the countries in which these computer networks are located may not have privacy laws as protective as the laws in your country.
-
-  2. ### Non-personally identifiable (specific or aggregated) information, to improve our services
-
-Apart from this mandatory information we need to provide our service to you, there may be data (that does not personally identify you) collected to monitor and improve Match.com - Australia service and performance. For example, when you visit a web page the URL requested is automatically recorded, as is the time and date requested, and the browser software being used.
-
-Specific or aggregate information may be collected to help maintain accurate accounts, assist in marketing our products and services and to help make our web site useful to you. For example, our server recognises your domain name and the pages that you visit. This data is gathered in an aggregate manner for quality control and improvement of our sites.
-
-From time to time, Match.com - Australia may provide aggregated statistical information about sales, browsing patterns and navigation techniques to reputable third parties. This is not personally identifiable information, and assists Match.com - Australia to improve products and services offered.
-
-  3. ### Personal information voluntarily provided by you - for Match.com - Australia surveys, newsletters, and in conjunction with third party offers
-
-We collect information that you volunteer to us on surveys, contests and on registration pages and use the information collected only to improve your Match.com - Australia online experience. These surveys are strictly confidential. We do not reveal, disclose, sell, distribute, rent, license, share or pass on to any third parties your personal information without your consent. From time to time Match.com - Australia may form relationships with other organisations to bring you special offers, competitions and subscriptions. For any third party offer or subscription, we require as a matter of policy that the third party clearly states their intentions with any information gathered, and attaches their privacy policy as a hyperlink to the offer or subscription.
-
-The terms and conditions of the offer should also be clearly stated. Please read this information carefully, and understand that it is your own choice should you choose to disclose your personally identifiable information to the third party. The information that you offer to the third party is voluntary.
-
-Match.com - Australia enters into third party business relationships with care, and will not share, disclose or sell any personally identifiable information collected at our site with third party companies or organisations without these conditions being met.
-
-  4. ### Contacting you by e-mail
-
-We may use your e-mail address for any purpose for which you provided it. We may also use it to respond to feedback given about our Site or Services, to provide you with any information you request, to confirm receipt of e-mails you have sent to us or if we need to contact you for any reason.
-
-  5. ### Create a profile
-
-We only record and publish (post) information that you provide directly to us as part of the Match.com - Australia service. All information you provide when posting a personal profile will be accessible by anyone accessing the Internet. All areas relating to what information is publicly viewable will be clearly stated on our site. You have the option at any time to remove this information from the site. At no time will any personal contact information be disclosed to any member or persons.
-
-Please note that any person who is a user of our Site may access, download and print any information you provide. We are not responsible for the use or disclosure by others of the information you provide to our Site.
+  * **Information you provide.** We may collect and store any personal information you enter on our website or provide to us in some other manner. This includes identifying information, such as your name, address, email address, and telephone number, and, if you transact business with us, financial information such as your payment method (valid credit card number, type, expiration date or other financial information). We also request information about your interests and activities, your gender and age, and other demographic information such as your hometown or your username.. 
+  * **Information from other sources.** Match.com is a part of the IAC family of businesses (please see [www.iac.com](http://www.iac.com/)), which as of the date of this policy includes Ask.com, Citysearch, ServiceMagic, Pronto, Shoebuy, College Humor, and many others companies and websites. We may periodically obtain both personal and non-personal information about you from other IAC businesses, business partners, contractors and other third parties and add it to our account information or other information we have collected. 
+  * **Information about others.** We may collect and store personal information about other people that you provide to us, such as their name, address and email address. If you use our website to send others (friends, relatives, colleagues, etc.) a product as a gift, we may store your personal information, and the personal information of each such recipient in order to process those requests or facilitate future activities.. 
 
 
 
+We use various technologies to collect information from your computer and about your activities on our site. 
 
-### When do we collect personal information?
-
-Generally, we only collect personal information about you in the following situations:
-
-  * you register as a Site user;
-  * you send us an e-mail;
-  * you post a profile;
-  * you use our e-commerce Services.
+  * **Information collected automatically.** We automatically collect information from your browser when you visit our website. This information includes your IP address, your browser type and language, access times, the content of any undeleted cookies that your browser previously accepted from us (see "Cookies" below), and the referring website address. 
+  * **Cookies and Use of Cookie Data.** When you visit our website, we may assign your computer one or more cookies, to facilitate access to our site and to personalize your online experience. Through the use of a cookie, we also may automatically collect information about your online activity on our site, such as the web pages you visit, the time and date of your visits, the links you click, and the searches you conduct on our site. During your visits to other websites where we advertise, we (or third parties) may use certain data collected on our site to show you the type of Match.com advertisements likely to be of greater interest to you. Although you may not opt out of receiving online advertisements generally, you may control the collection of data on our site used for targeted Match.com advertising during your visits to other websites. To opt-out of Match.com data collection for targeted advertising on other sites, click here: [Opt Out Now](http://media.match.com/optout.html). Most browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you choose to decline cookies, please note that you may not be able to sign in or use some of the interactive features offered on our website. 
+  * **Other Technologies.** We may use standard Internet technology, such as web beacons and other similar technologies, to track your use of our site. We also may include web beacons in advertisements or email messages to determine whether messages have been opened and acted upon. The information we obtain in this manner enables us to customize the services we offer our website visitors to deliver targeted advertisements and to measure the overall effectiveness of our online advertising, content, programming or other activities. 
+  * **Information collected by third-parties.** We may allow third-parties, including our authorized service providers, IAC companies, advertising companies and ad networks, to display advertisements on our site. These companies may use tracking technologies, such as cookies, to collect information about users who view or interact with their advertisements. Our website does not provide any personal information to these third parties. This information allows them to deliver targeted advertisements and gauge their effectiveness. Some of these third-party advertising companies may be advertising networks that are members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies ([www.networkadvertising.org](http://www.networkadvertising.org/)). 
 
 
 
-### To whom, and for what purposes, will we disclose information we collect from you?
+## How we use the information we collect
 
-We will not disclose any personal information we collect from you without your consent. By using our Profile Service, you consent to the disclosure of any personal information you provide while participating in any of this services to any other person participating in this service.
+We may use information that we collect about you to: 
 
-### How do we protect your personal information?
-
-High technology is used to ensure your sensitive information is secure and is protected from unauthorised access or improper use. Your personal password is confidential and is encrypted to ensure its secrecy. With your password, you are able to edit your personal details via the Member Services pages.
-
-Particularly sensitive information such as your credit card number is not stored in a server that is connected to the Internet. All transmission of data for the purposes of billing and collections is done via encrypted transmission between Match.com - Australia and the bank.
-
-### Unsolicited commercial e-mail (UCE) or "spam"
-
-Spam is the Internet term for marketing or commercial e-mail you receive for which you did not ask. Match.com - Australia does not and has never supported or condoned this practice.
-
-Marketing mail from Match.com - Australia will generally be "opt-in" / "opt-out". This means that you should not receive any commercial or marketing e-mail from us unless you have requested it, that is, you have opted in. When you opt in, every piece of commercial e-mail will contain an opt-out option, or unsubscribe function. You can send us a message telling us you would prefer not to receive the mail again and we will respect your wishes.
-
-We may also send you e-mail providing general information about Services we provide or about goods or services that are available to you from other persons. Each time we do that, we will give you the opportunity to opt-out or unsubscribe should you choose not to receive further e-mails of that type.
-
-### Use of the Site/Services
-
-A person must be over the age of 18 to join Match.com - Australia. We do not market to children or knowingly collect personal information about children without parental consent.
-
-### Pointers to protect your privacy
-
-  * Always close your browser and log out once you have finished surfing the net to prevent other people gaining access to your information and correspondence.
-  * Match.com - Australia has no control over other web sites we may link to, and we take no responsibility for the conduct of these companies. Always read the Terms and Conditions when using other web sites.
-  * Keep your passwords and your member details secret. If unauthorised access of your account occurs please inform us immediately. Frequently change your password.
-  * Posting of personal contact information is prohibited on Match.com - Australia site. We take no responsibility for any personal contact information disclosed to other members in our network. Personal information includes information such as full names, telephone numbers and home addresses. Beware - if you voluntarily disclose personal information it may be collected and used by others. Take precaution!
-  * Be careful if you arrange to meet someone you have met online. Remember that people who engage in online communication may not be who they seem. If you do arrange to meet someone, make sure you meet them during the day or in a crowded place; tell a close friend or family member if you arrange to meet someone you have met online. Make sure you tell them where you are going and what time you expect to return.
+  * deliver the products and services that you have requested; 
+  * manage your account and provide you with customer support; 
+  * perform research and analysis about your use of, or interest in, our products, services, or content, or products, services or content offered by others; 
+  * communicate with you by email, postal mail, telephone and/or mobile devices about products or services that may be of interest to you either from us, other IAC companies or other third parties; 
+  * develop and display content and advertising tailored to your interests on our site and other sites; 
+  * verify your eligibility and deliver prizes in connection with contests and sweepstakes; 
+  * enforce or exercise any rights in our terms and conditions; 
+  * manage our business; 
+  * provide Match.com advertisements to you when you visit other sites; and 
+  * perform functions as otherwise described to you at the time of collection. 
 
 
 
-### When and what type of information do we disclose?
+We may use financial information or payment method to process payment for any purchases made on our website, enroll you in the discount, rebate, and other programs in which you elect to participate, to protect against or identify possible fraudulent transactions, and otherwise as needed to manage our business. 
 
-From time to time, we may provide statistical information about sales, trading patterns and navigation techniques to reputable third parties. This will simply comprise data collected about our clients, members of the Match.com - Australia network and other users to form aggregate results. It will not include any direct personal information that identifies our database members or our clients.
+If your personal information is submitted through our website when applying for a position with our company, the information will be used solely in connection with considering and acting upon your application. We may retain your personal information for a period of time, but only for the purpose of considering your application for current or future available positions. This information, which may include your name and contact information, prior education and experience, and other information you provided to us, may be shared with other IAC companies for the purpose of evaluating your qualifications for the particular position or other available positions, as well as with third-party service providers retained by us to collect, maintain and analyze candidate submissions for job postings. 
 
-### Cookies
+Please review "Your choices about collection and use of your information" below. 
 
-We use a feature of your browser called "a cookie" to assign a user ID. Cookies identify your computer to our servers when you visit our Site and extend the functionality of the service offered in an area of our Site. You must have Cookies enabled on your web browser to use the Match.com - Australia web site.
+## With whom we share your information
 
-### Member Agreement
+We do not share your personal information with others except as indicated below or when we inform you and give you an opportunity to opt out of having your personal information shared. We may share personal information with: 
 
-To use the certain areas of our site, you must agree and be bound by our Member Agreement. Our Member Agreement sets out the entire understanding and agreement between you and us with respect to its subject matter.
+  * **Service providers:** Service providers. 
+  * **Business partner:** When you make purchases on our website or click-through our advertisements offered on third party websites, we may share personal information with the businesses with which we partner to offer you the applicable products, services or advertisements. When you elect to engage in a particular merchant's offer or program, you authorize us to provide your email address and other information to that merchant. 
+  * **Other IAC businesses.** We are part of the IAC family of businesses (go to [www.iac.com](http://www.iac.com/) for a listing of these businesses). We may share information we collect, including personal information such as your name and contact information, interests, activities and transactions on our site, with the IAC companies. All IAC companies comply with the IAC [Consumer Privacy](http://www.iac.com/privacy-policy/) statement. 
+  * **Other Situations.** We also may disclose your information, including personal information: 
+    * In response to a subpoena or similar investigative demand, a court order, or a request for cooperation from a law enforcement or other government agency; to establish or exercise our legal rights; to defend against legal claims; or as otherwise required by law. In such cases, we may raise or waive any legal objection or right available to us. 
+    * When we believe disclosure is appropriate in connection with efforts to investigate, prevent, or take other action regarding illegal activity, suspected fraud or other wrongdoing; to protect and defend the rights, property or safety of our company, our users, our employees, or others; to comply with applicable law or cooperate with law enforcement; or to enforce our website terms and conditions or other agreements or policies. 
+    * In connection with a substantial corporate transaction, such as the sale of our business, a divestiture, merger, consolidation, or asset sale, or in the unlikely event of bankruptcy. 
 
-### Additional Privacy Protections for Children Using the Internet
 
-Match.com - Australia joins the industry in recognizing that children, including young teens, may not be able to make informed choices about personal information requested online.
 
-Accordingly, Match.com - Australia does not target children or teenagers (younger than eighteen years of age) for collection of information online. Match.com - Australia does not solicit or collect customer identifiable information targeted at children and teenagers under eighteen and does not allow anyone else to do so on a Match.com - Australia Affiliate Web Site.
+We may share non-personal information we collect under any of the above circumstances. We may also share it with IAC companies and third parties to develop and deliver targeted advertising on our website and on websites of third parties, and to analyze and report on advertising you see. We may combine non-personal information we collect with additional non-personal information collected from other sources. We also may share aggregated, non-personal information with third parties, including advisors, advertisers and investors, for the purpose of conducting general business analysis. 
 
-back to top
+## Third-party websites
+
+There are a number of places on our website where you may click on a link to access other websites that do not operate under this Privacy Policy. For example, if you click on an advertisement on our website, you may be taken to a website that we do not control. These third-party websites may independently solicit and collect information, including personal information, from you and, in some instances, provide us with information about your activities on those websites. We recommend that you consult the privacy statements of all third-party websites you visit by clicking on the "privacy" link typically located at the bottom of the webpage you are visiting. 
+
+## How you can access your information
+
+If you have an online account with us, you have the ability to review and update your personal information online by logging into [your account](https://web.archive.org/accountsettings/accountindex.aspx?lid=2) and clicking on your account settings. More information about how to contact us is provided below. If you have an online account with us, you also may close your account at any time by visiting the 'Account Settings' page for your account. After you close your account, you will not be able to sign in to our website or access any of your personal information. However, you can open a new, separate account at any time or re-activate your previous account by following instructions we will give you at the time you close your account. If you close your account, we may still retain certain information associated with your account for analytical purposes and recordkeeping integrity, as well as to prevent fraud, collect any fees owed, enforce our terms and conditions, take actions we deem necessary to protect the integrity of our website or our users, or take other actions otherwise permitted by law. In addition, if certain information has already been provided to third parties as described in this Privacy Policy, retention of that information will be subject to those third parties' policies. 
+
+## Your choices about collection and use of your information
+
+  * You can choose not to provide us with certain information, but that may result in you being unable to use certain features of our website because such information may be required in order for you to register as a member; purchase products or services; participate in a contest, promotion, survey, or sweepstakes; ask a question; or initiate other transactions on our website. 
+  * At any time you can choose to no longer receive commercial or promotional emails from us by visiting the "Account Settings' page associated with your account. When you register on our website, you will consent, or be given a choice as to whether you want, to receive email messages from us about special offers. You may modify this consent later by visiting the 'Account Settings' page associated with your account. You also will be given the opportunity, in any commercial email that we send to you, to opt out of receiving such messages in the future. It may take up to 10 days for us to process an opt-out request. We may send you other types of transactional and relationship email communications, such as service announcements, administrative notices, and surveys, without offering you the opportunity to opt out of receiving them. Please note that changing information in your account, or otherwise opting out of receipt of promotional email communications will only affect future activities or communications from us. If we have already provided your information to a third party (such as a service provider) before you have changed your preferences or updated your information, you may have to change you preferences directly with that third party. 
+  * You may tell us not to share your personal information with third parties or the IAC family of companies for direct marketing purposes by visiting the 'Account Settings' page associated with your account after you have registered. 
+  * You can also control information collected by cookies. See "cookies" below for information about declining or deleting cookies. 
+
+
+
+## How we protect your personal information
+
+We take appropriate security measures (including physical, electronic and procedural measures) to help safeguard your personal information from unauthorized access and disclosure. We want you to feel confident using our website to transact business. However, no system can be completely secure. Therefore, although we take steps to secure your information, we do not promise, and you should not expect, that your personal information, searches, or other communications will always remain secure. Users should also take care with how they handle and disclose their personal information and should avoid sending personal information through insecure email. Please refer to the Federal Trade Commission's website at <http://www.ftc.gov/bcp/menus/consumer/data.shtm> for information about how to protect yourself against identity theft. 
+
+## Information you provide about yourself while using our service 
+
+We provide areas on our websites where you can post information about yourself and others and communicate with others or upload content such as photographs. Such postings are governed by our [terms of use](https://web.archive.org/registration/membagr.aspx?lid=4). In addition, such postings may appear on other websites or when searches are executed on the subject of your posting. Also, whenever you voluntarily disclose personal information on publicly-viewable web pages, that information will be publicly available and can be collected and used by others. For example, if you post your email address, you may receive unsolicited messages. We cannot control who reads your posting or what other users may do with the information you voluntarily post, so we encourage you to exercise discretion and caution with respect to your personal information. 
+
+## Children's privacy
+
+Although our website is a general audience site, we restrict the use of our service to individuals age 18 and above. We do not knowingly collect personal information from children under the age of 13.
+
+## Visiting our websites from outside the United States 
+
+This Privacy Policy is intended to cover collection of information on our website from residents of the United States. If you are visiting our website from outside the United States, please be aware that your information may be transferred to, stored, and processed in the United States where our servers are located and our central database is operated. By using our services, you understand that your information may be transferred to our facilities and those third parties with whom we share it as described in this privacy policy. 
+
+## No Rights of Third Parties
+
+This Privacy Policy does not create rights enforceable by third parties or require disclosure of any personal information relating to users of the website. 
+
+## Changes to this Privacy Policy
+
+We will occasionally update this Privacy Policy. When we post changes to this Privacy Policy, we will revise the 'last updated' date at the top of this Privacy Policy. We recommend that you check our website from time to time to inform yourself of any changes in this Privacy Policy or any of our other policies. 
+
+**How to contact us**
+
+If you have any questions about this Privacy Policy or our information-handling practices, or if you would like to request information about our disclosure of personal information to third parties for their direct marketing purposes, please contact us by email or postal mail as follows: 
+
+Privacy Officer   
+Match.com, L.L.C.   
+8300 Douglas Avenue   
+Dallas,Texas 75225   
+[privacy@match.com](mailto:privacy@match.com)
+
+© IAC/InterActiveCorp. All rights reserved.
+
+## Linked information:
+
+A cookie is a small text file that is stored on a user's computer for record keeping purposes. Cookies can be either session cookies or persistent cookies. A session cookie expires when you close your browser and is used to make it easier for you to navigate our website. A persistent cookie remains on your hard drive for an extended period of time. Cookies on our website do not link to or store your personal information. 
+
+For example, when you sign in to our website, we will record your user or member ID and the name associated with your user or member ID in the cookie file on your computer. We also may record your password in this cookie file, if you indicated that you would like your password saved for automatic sign-in. For security purposes, we will encrypt any usernames, passwords, and other user or member account-related data that we store in such cookies. In the case of sites and services that do not use a user or member ID, the cookie will contain a unique identifier. We may allow our authorized service providers to serve cookies from our website to allow them to assist us in various activities, such as doing analysis and research on the effectiveness of our site, content and advertising. 
+
+You may delete or decline cookies by changing your browser settings. (Click 'Help' in the toolbar of most browsers for instructions.) If you do so, some of the features and services of our website may not function properly. 
+
+We may allow third-parties, including IAC companies, advertising companies, and ad networks, to display advertisements on our site. These companies may use tracking technologies, such as cookies, to collect information about users who view or interact with their advertisements. Our website does not provide any personal information to these third parties, but they may collect information about where you, or others who are using your computer, saw and/or clicked on the advertisements they deliver (such as click stream information, browser type, time and date, subject of advertisements clicked or scrolled over, etc.), and possibly associate this information with your subsequent visits to the advertised websites. They also may combine this information with personal information they collect from you to provide advertisements about goods and services likely to be of greater interest to you. The collection and use of that information is subject to the third-party's privacy policy. This information allows them to deliver targeted advertisements and gauge their effectiveness. Some of these third-party advertising companies may be advertising networks that are members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies and provides information about this behavioral advertising practice ([www.networkadvertising.org](http://www.networkadvertising.org/)). This policy covers the use of cookies by Match.com only and does not cover the use of cookies by any advertisers. 
+
+You may opt out of our data collection for use by third party ad companies to provide targeted Match.com advertising to you when you visit other sites. Cookies are unique to each computer. Therefore, you must opt out separately on all computers you use. If you delete all of your cookies (specifically, the "Opt-Out" cookie), you will have to go through the opt-out process again to reactivate your opted-out status. You can opt out of receiving such advertising-related cookies by clicking below: 
+
+[Opt Out Now.](http://media.match.com/optout.html)
+
+Web beacons (also known as clear gifs, pixel tags or web bugs) are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of web users or to access cookies. Unlike cookies which are stored on the user's computer hard drive, web beacons are embedded invisibly on the web pages (or in email) and are about the size of the period at the end of this sentence. 
+
+Web beacons may be used to deliver or communicate with cookies, to count users who have visited certain pages and to understand usage patterns. We also may receive an anonymous identification number if you come to our site from an online advertisement displayed on a third-party website. Third parties may use anonymous information about your visits to our site and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. 
