@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hathitrust.org privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023022212id_/http%3A//www.hathitrust.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hathitrust.org privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527130907id_/http%3A//www.hathitrust.org/privacy) for the most accurate reproduction.*
 
-# Privacy | HathiTrust Digital Library
+# Privacy Policy | HathiTrust Digital Library
 
 HathiTrust respects the privacy of all visitors and users of its services. Information about privacy in different areas of HathiTrust is given below.
 
@@ -16,7 +16,7 @@ Information from transaction logs may be aggregated for reporting on types of us
 
 ## Authentication
 
-HathiTrust uses [Shibboleth](http://shibboleth.internet2.edu/ "Shibboleth") as a mechanism to allow individuals affiliated with partner institutions to authenticate into HathiTrust. More about Shibboleth, including privacy, is available on HathiTrust's [Shibboleth implementation page](https://web.archive.org/web/20121023022212id_/http%3A//www.hathitrust.org/shibboleth "Shibboleth in HathiTrust").
+HathiTrust uses [Shibboleth](http://shibboleth.internet2.edu/ "Shibboleth") as a mechanism to allow individuals affiliated with partner institutions to authenticate into HathiTrust. More about Shibboleth, including privacy, is available on HathiTrust's [Shibboleth implementation page](https://web.archive.org/web/20130527130907id_/http%3A//www.hathitrust.org/shibboleth "Shibboleth in HathiTrust").
 
 Individuals not affiliated with partner institutions can authenticate to create permanent collections in HathiTrust's Collection Builder using a University of Michigan [Friend Account](http://www.itd.umich.edu/itcsdocs/s4316/ "University of Michigan Friend Accounts"). Friend Accounts require a valid email address. Information about privacy and security for information at the University of Michigan can be found at <http://www.itcs.umich.edu/itpolicies/>. Users may choose a username to build collections in HathiTrust. If users choose to make collections public, the username is displayed on the public list of collections on the [Collection Builder home page](http://babel.hathitrust.org/cgi/mb "HathiTrust Collection Builder"). No information is displayed if collections are made private.
 
@@ -28,5 +28,9 @@ If you choose, you can opt out of this tracking by using one of the following me
 
   * Turn off cookies in the preferences setting in your browser
   * Use the Google Analytics opt-out browser add-on [http://tools.google.com/dlpage/gaoptout](http://tools.google.com/dlpage/gaoptout)
+
+
+
+  * [Printer-friendly version](https://web.archive.org/print/368 "Display a printer-friendly version of this page.")
 
 
