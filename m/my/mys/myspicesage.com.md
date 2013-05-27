@@ -1,11 +1,20 @@
-> *The following text is extracted and transformed from the myspicesage.com privacy policy that was archived on 2009-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090406031024id_/http%3A//www.myspicesage.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myspicesage.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527073819id_/http%3A//www.myspicesage.com/page.html%3Fid%3D9) for the most accurate reproduction.*
 
-# 
+# Privacy : MySpiceSage.com, Better spices, prices and information than the grocery!
 
-_This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the[Yahoo! Privacy Policy](http://info.yahoo.com/privacy/us/yahoo/details.html) for more information about how Yahoo! uses this information._
+Privacy
 
- **MySpiceSage Values Your Privacy**
+**  MySpiceSage Values Your Privacy**
 
-Here at MySpiceSage we are committed to protecting your right to privacy. We will never share, sell or release your information to anyone. All of your personal information is protected by industry standard SSL encryption. When you order online your credit card information is never seen or stored by us. We will only send you special MySpiceSage discounts and information if you consent within checkout. We will never share your email address with anyone. You will never receive junk email as a result of shopping at MySpiceSage. Third-Party Web Beacons: We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo!, [click here](https://reports.web.analytics.yahoo.com/optout,OptOut.vm?domain=a.analytics.yahoo.com). If you have any further questions regarding our privacy policy, please do not hesitate to [contact us](http://www.myspicesage.com/info.html#contactus) at any time.
+Here at MySpiceSage we are committed to protecting your right to privacy. We will never share, sell or release your information to anyone. All of your personal information is protected by industry standard SSL encryption. When you order online your credit card information is never seen or stored by us. We will only send you special MySpiceSage discounts and information if you consent within checkout.
 
-[](http://www.myspicesage.com/allspice-ground--16-oz-resealable-b16.html)[](http://www.myspicesage.com/lepesesaorno.html)[](http://www.myspicesage.com/cinnamon-korintje-grade-a.html)[](http://www.myspicesage.com/cupomi.html)[](http://www.myspicesage.com/paprika.html)[](http://www.myspicesage.com/dillweed.html)[](http://www.myspicesage.com/arpo.html)[](http://www.myspicesage.com/picklingspice.html)
+We only request your e-mail address when necessary. For example, when placing on order. We also have a mailing list that you can join voluntarily, and can leave at anytime. We will never share your email address with anyone. You will never receive junk email as a result of shopping at MySpiceSage. Your information is only used internally by employees at our company when it is required, and we only collect information that is required to provide excellent service to our customers. Only employees that require access to your information are given access. We take pride in ensuring that your information is safe with us.
+
+MySpiceSage also makes use of cookies. Cookies are small peices of information stored by your browser. We only use these for storing information to improve your experience on our website. For example, we use cookies to help us remember what items are you in your shopping cart. Our cookies do not collect personally identifiable information about you, and we do not share them with other websites.
+
+We only log information such as IP addresses for security reasons, and for improving our quality of service to you. Log files are periodically deleted, and are not kept longer than necessary. We do not share our log information with any third-parties.Any information stored by us is done so with industry-standard security practices. Our website is hosted in a highly secure environment with strict access controls. We undergo regular scans to remain PCI compliant, which is the industry-standard for e-commerce security.
+
+If you have any further questions regarding our privacy policy, please do not hesitate to [contact us](https://www.myspicesage.com/contact_us.html) at any time.  
+
+
+"This is one of the BEST websites to buy spices! The choices are awesome, shipping is fast and affordable, and the spices are fresh and delicious!" 
