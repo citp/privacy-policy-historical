@@ -1,59 +1,82 @@
-> *The following text is extracted and transformed from the goodlookingloser.com privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125190638id_/http%3A//www.goodlookingloser.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodlookingloser.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527113722id_/http%3A//goodlookingloser.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy - Good Looking Loser
+# Privacy Policy
 
-Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and make use of personal information. The following outlines our Privacy Policy. 
+**Privacy Policy for GoodLookingLoser.com**
 
-When accessing our Website, Good Looking Loser™ will learn certain information about you during your visit.
+Effective Date: March 3rd 2013
 
-Similar to other commercial Web sites, our Web site utilizes a standard technology called "cookies" (see explanation below, "What Are Cookies?") and Web server logs to collect information about how our Web site is used. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Web site, and the Web sites visited just before and just after our Web site, your IP address.
+At GoodLookingLoser.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you visit the site, and how we safeguard your information. We will never sell your personal information to third parties. Okay, here is what you need to know.
 
-  
-**What Are Cookies?**
+### **1\. INTRODUCTION**
 
-A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a Web site, that site's computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each Web site can send its own cookie to your browser if your browser's preferences allow it, but (to protect your privacy) your browser only permits a Web site to access the cookies it has already sent to you, not the cookies sent to you by other sites.
+**1.1. PURPOSE OF POLICY.**
 
-  
-**IP Addresses**
+GoodLookingLoser.com (“us,” “we,” or “Company”) is committed to respecting the privacy rights of its customers, visitors, and other users of the Company Website (the “Site”). We created this Website Privacy Policy (this “Policy”) to give you confidence as you visit and use the Site, and to demonstrate our commitment to fair information practices and the protection of privacy. This Policy is only applicable to the Site, and not to any other websites that you may be able to access from the Site, each of which may have data collection and use practices and policies that differ materially from this Policy.
 
-IP addresses are used by your computer every time you are connected to the Internet. Your IP address is a number that is used by computers on the network to identify your computer. IP addresses are automatically collected by our web server as part of demographic and profile data known as “traffic data” so that data (such as the Web pages you request) can be sent to you.
+A handful of pages on GoodLookingLoser.com contain non-sexual nudity that may be considered ‘adult’ per standard. On all these pages, there are multiple warnings of the adult material and warnings that the material is “not safe for work” (NSFW) before any of these images appear. You must be 18 years of age or an adult in your country to view this material.
 
-  
-**Email Information**
+**1.2. NOTICE CONCERNING CHILDREN / MINORS  
+**
 
-If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses. We provide the same protections for these electronic communications that we employ in the maintenance of information received online, mail and telephone.
+PLEASE NOTE: We are a general audience site, and do not direct any of our content specifically at children under 13 years of age. We also do not sell any of our products to minors under the age of 18. We understand and are committed to respecting the sensitive nature of children’s privacy online. If we learn or have reason to suspect that a Site user is under age 13, we will promptly delete any personal information in that user’s account.
 
-  
-**How Do We Use the Information That You Provide to Us?**
+### **2\. INFORMATION COLLECTION PRACTICES**
 
-Broadly speaking, we use personal information for purposes of administering our business activities, providing customer service and making available other items and services to our customers and prospective customers.
+**2.1. WHAT BASIC INFORMATION DOES THE COMPANY COLLECT?**
 
-Good Looking Loser™ will not obtain personally-identifying information about you when you visit our site, unless you choose to provide such information to us, nor will such information be sold or otherwise transferred to unaffiliated third parties without the approval of the user at the time of collection.
+In operating the Site, Company may include newsletters, online commenting areas, and other online forms that ask users to provide their names, e-mail addresses, and other contact information.
 
-We may disclose information when legally compelled to do so, in other words, when we, in good faith, believe that the law requires it or for the protection of our legal rights.
+**2.2. WHAT ADDITIONAL INFORMATION DOES COMPANY COLLECT?**
 
-**  
-A Special Note About Children**
+(a) AUTOMATIC COLLECTION. Our servers automatically recognize visitors’ domain names and IP addresses (the number assigned to computers on the Internet). No personal information about you is revealed in this process. The Site may also gather anonymous “traffic data” that does not personally identify you, but that may be helpful for marketing purposes or for improving the services we offer.
 
-Children are not eligible to use our web site and services and we ask that minors (under the age of 13) do not submit any personal information to us. If you are a minor, you can use this site only in conjunction with permission and guidance from your parents or guardians.
+(b) COOKIES. From time to time, we may use the standard “cookies” feature of major browser applications that allows us to store a small piece of data on your computer about your visit to our Web site. Cookies help us learn which areas of our site are useful and which areas need improvement. You can choose whether to accept cookies by changing the settings on your browser. However, if you choose to disable this function, your experience at our Web site may be diminished and some features may not work as they were intended.
 
-  
-**How Do We Protect Your Information and Secure Information Transmissions?**
+### **3\. USE AND SHARING OF INFORMATION**
 
-Email is not recognized as a secure medium of communication. For this reason, we request that you do not send private information to us by email. However, doing so is allowed, but at your own risk. Some of the information you may enter on our Web site may be transmitted securely via a secure medium known as Secure Sockets Layer, or SSL. Credit Card information is never transmitted via email.
+**3.1. WHAT DOES COMPANY DO WITH COLLECTED INFORMATION?**
 
-Good Looking Loser™ may use software programs to create summary statistics, which are used for such purposes as assessing the number of visitors to the different sections of our site, what information is of most and least interest, determining technical design specifications, and identifying system performance or problem areas.
+(a) PERSONAL INFORMATION. We will not share your personal information with any third parties without your consent, except as necessary to provide you with the services offered by us or to comply with the law. We will use your information as a greater collection of data related to the site in traffic discussions in articles posted on the blog. No individual users visit, whether you or another visitor, are discussed. The aggregate data is used for education purposes only and no reader of the article will be able to identify you.
 
-For site security purposes and to ensure that this service remains available to all users, Good Looking Loser™ uses software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.
+(b) ANONYMOUS INFORMATION. We use anonymous information to analyze our Site traffic. In addition, we may use anonymous IP addresses to help diagnose problems with our server, to administer our site, or to display the content according to your preferences. Traffic and transaction information may also be shared with business partners and advertisers on an aggregate and anonymous basis.
 
-  
-**Policy Changes**
+(c) USE OF COOKIES. We may use cookies to deliver content specific to your interests or for other purposes. Promotions or advertisements displayed on our site may contain cookies. We do not have access to or control over information collected by outside advertisers on our site.
 
-We reserve the right to amend this privacy policy at any time with or without notice. However, please be assured that if the Privacy Policy changes in the future, we will not use the personal information you have submitted to us under this Privacy Policy in a manner that is materially inconsistent with this Privacy Policy, without your prior consent.
+(d) DISCLOSURE OF PERSONAL INFORMATION. We may disclose personal information if required to do so by law or in the good-faith belief that such action is necessary to (1) conform to the edicts of the law or comply with legal process served on Company or its parent company, subsidiaries or affiliates, (2) protect and defend the rights or property of Company or the users of the Site, or (3) act under exigent circumstances to protect the safety of the public or users of the Site.
 
-We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained. 
+(e) SALE OF INFORMATION. In order to accommodate changes in our business, we may sell or buy portions of our company or other companies or assets, including the information collected through this Web site. If Company or substantially all of its assets are acquired, customer information will be one of the assets transferred to the acquirer.
 
-**  
-Contact**
+(f) ACCESS TO INFORMATION. Unfortunately, we do not maintain any procedures for you to review or request changes to the information that we collect about you, except that you may request that we remove all information about you from our database by contacting us in accordance with Section 6.1 below.
 
-If you have any questions regarding this Policy, or your dealings with our web site, please contact us.
+### **4\. SECURITY**
+
+The Site has security measures in place to prevent the loss, misuse, and alteration of the information that we obtain from you, but we make no assurances about our ability to prevent any such loss, misuse, to you or to any third party arising out of any such loss, misuse, or alteration.
+
+**5\. WEBSITE AREAS BEYOND COMPANY’S CONTROL**
+
+**5.1. PUBLIC COMMENTS**
+
+The Site may include interactive sections such as commenting areas where visitors to the site can post comments. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
+
+**5.2. THIRD PARTY WEBSITES**
+
+The Site contains links to other websites. If you choose to visit other websites, we have no control over the privacy practices or content of those other websites, and it is your responsibility to review the privacy policies at those websites to confirm that you understand and agree with their policies.
+
+### **6\. CONTACT INFORMATION AND POLICY UPDATES**
+
+**6.1. CONTACTING US**
+
+If you have any questions about this Policy, our practices related to this Site, or if you would like to have us remove your information from our database please feel contact us at the following:
+
+**MichaelCollinsLaw@Live.com**
+
+**5952 Digital Productions LLC  
+(Your email will automatically be forwarded to the legal representation of whom it may concern)  
+**
+
+**6.2. UPDATES AND CHANGES**
+
+We reserve the right, at any time, to add to, change, update, or modify this Policy, simply by posting such change, update, or modification on the Site and without any other notice to you. Any such change, update, or modification will be effective immediately upon posting on the Site. It is your responsibility to review this Policy from time to time to ensure that you continue to agree with all of its terms.
+
+### Share and Enjoy
