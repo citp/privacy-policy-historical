@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the dukandiet.co.uk privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028030131id_/http%3A//www.dukandiet.co.uk/en/615-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dukandiet.co.uk privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527022619id_/http%3A//www.dukandiet.co.uk/en/615-privacy.html) for the most accurate reproduction.*
 
 # Privacy | The Dukan diet
 
 You are here: [Home](https://web.archive.org/) [> **Privacy**](https://web.archive.org/en/615-privacy.html)
 
-Regime Coach may collect personal informations from you via this website, for example, if you register with us for services, in order to receive news and announcements, or when applying for jobs, and your informations may be stored manually or electronically.
+Regime Coach may collect personal information from you via this website, for example, if you register with us for services, in order to receive news and announcements, or when applying for jobs, and your informations may be stored manually or electronically.
 
 Any personal information you give to us will always be processed in accordance with the UK Data Protection Act 1998. We will only use the personal information you provide to deliver the services you have requested, or for our lawful, disclosed purposes.   
 We will not make your personal details available outside our organisation without your consent, unless obliged by law.
