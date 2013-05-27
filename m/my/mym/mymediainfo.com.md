@@ -1,34 +1,63 @@
-> *The following text is extracted and transformed from the mymediainfo.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213162725id_/http%3A//www.mymediainfo.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mymediainfo.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527154029id_/http%3A//thomsonreuters.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy - RedEgg Solutions, Inc.
+# Thomson Reuters | Privacy Statement
 
-Privacy Policy
+This Privacy Statement relates solely to the online information collection and use practices of our Web site located at [www.thomsonreuters.com ](https://web.archive.org/ "Home Page")(this "Web Site"), and not to any subdomains of this Web Site. We recognize that many visitors and users of this Web Site are concerned about the information they provide to us, and how we treat that information. This Privacy Statement, which may be updated from time to time, has been developed to address those concerns. 
 
-RedEgg Solutions Inc. Privacy Policy
+Your use of this Web Site indicates to us that you have read and accept our privacy practices, as outlined in this Privacy Statement. If you have any questions or concerns regarding this Privacy Statement, please contact: general.info@thomsonreuters.com . 
 
-PRIVACY   
-RedEgg Solutions Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. RedEgg Solutions Inc. believes that concern for everyone's privacy is a basis for sound business practices within direct marketing and other arenas. This statement is intended to apply to all visitors of web sites owned and operated by RedEgg Solutions Inc. 
+###  What Information About You Do We Collect? 
 
-COLLECTION OF INFORMATION   
-RedEgg Solutions Inc. does not collect personally identifiable information about visitors except when visitors specifically provide such information on a voluntary basis. For example, such personally identifiable information may be gathered from the registration process for subscription sites or services and in connection with content submissions, community postings (e.g., chat and bulletin boards), suggestions, and transactional areas. Such information may be used by RedEgg Solutions Inc. for the following purposes: contacting a subscriber regarding account status, changes to the subscriber agreement, special discounts, promotions, products offered and other matters relevant to the underlying service and/or the information collected. 
+When you visit our Web Site, you may provide us with two types of information: (1) personally identifiable information that you knowingly choose to disclose, which is collected on an individual basis, and (2) general user information that does not contain personally identifiable information, which is collected on an aggregate basis as you browse the Web Site. In some cases, if you choose not to provide us with requested information, you may not be able to access all of our Web Site's content or services. 
 
-RedEgg Solutions Inc. values opinions and comments from visitors, so we occasionally conduct online surveys. These surveys are entirely optional for all visitors. Most frequently, the information is aggregated and used to make improvements to RedEgg Solutions Inc. web sites and to develop appealing content, features and promotions for visitors. Survey participants are anonymous unless otherwise stated in the survey. RedEgg Solutions Inc. reserves the right to perform statistical analyses of visitors behavior and characteristics. In order to measure interest in and use of the various areas of the site and to inform advertisers of such information as well as the number of visitors that have been exposed to or clicked on their advertising banners. RedEgg Solutions Inc. will provide only aggregated data from these analyses to third parties. 
+####  Personally Identifiable Information You Choose to Provide. 
 
-COOKIES, ETC.   
-Visitors also should be aware that non-personal information (for example, domain names or e-mail and IP addresses) and data may be automatically collected through the standard operation of RedEgg Solutions Inc.'s internet servers or at RedEgg Solutions Inc.'s discretion through the use of "cookies." "Cookies" are small text files a web site can use to recognize repeat visitors, facilitate a visitor's ongoing access to and use of the site, track usage behavior and compile aggregate data that will allow content improvements and targeted advertising. Cookies are not programs that come onto a visitor's system and damage files. Generally, cookies work by assigning a unique number to the visitor that has no meaning outside the assigning site. Visitors to RedEgg Solutions Inc. web sites should be aware that RedEgg Solutions Inc. cannot control the use of cookies, or the non-personal information collected through the cookies by advertisers or third parties hosting data for RedEgg Solutions Inc. If a visitor does not want information collected through the use of cookies, there is a simple procedure in most browsers that allows the visitor to deny or accept the cookie feature. However, visitors should note that cookies may be necessary to provide them with certain features (e.g., customized delivery of information) available on the RedEgg Solutions Inc. web sites. 
+We may ask for certain personal information from you for the purpose of providing to you content and/or services that you request. For example, if you indicate an interest in receiving press releases about Thomson Reuters, you are asked to submit your name and e-mail address, which we retain on file, so that we may send you the information that you requested. If you indicate on our E-mail Alert registration form that you are a member of the press, we may also send you information regarding our business. We also request your name and e-mail address each time you contact us by clicking on the "Contact Us" link. We may retain a record of users who have contacted us in order to respond properly to questions or concerns and for purposes of future communications. 
 
-OPT OUT POLICY   
-Upon a visitor's request, RedEgg Solutions Inc. will:
+####  Non-Personally Identifiable Information We Collect. 
 
-  * allow any visitor to "opt out" of further promotional contacts;
-  * use reasonable efforts to allow visitors to update/correct personal information previously submitted which he/she states is erroneous to the extent such activities will not compromise privacy or security interests;
-  * Initiate reasonable efforts to functionally delete the visitor and his/her personal information from its database. Visitors should be aware that it might be impossible to completely delete erroneous information or a visitor's personal information without some residual information remaining in its database because of backups and records of deletions.
+_Cookies/ Web server logs_ : Similar to other commercial Web sites, our Web Site utilizes standard technology called "cookies" and Web server logs to collect information about how our Web Site is used. Cookies are a feature of Web browser software that allows Web servers to recognize the computer used to access a Web site. Cookies are small pieces of data that are stored by a user's Web browser on the user's hard drive. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Web Site, and the Web sites visited just before and just after our Web Site. This information is collected on an aggregate basis. None of this information is associated with you as an individual. 
 
-SECURITY   
-RedEgg Solutions Inc. is responsible for the security of personal information provided by visitors. Strict measures will be taken to assure against unauthorized access, alteration, or dissemination of personal information. 
+You can, of course, disable cookies on your computer by indicating this in the preferences or options menus in your browser. However, it is possible that some parts of our Web Site will not operate correctly if you disable cookies. You should consult with your browser's provider/manufacturer if you have any questions regarding disabling cookies.   
 
-DISCLOSURE OF INFORMATION   
-RedEgg Solutions Inc. may disclose visitor information if requested or required to by law, court order, or government or law enforcement authority. In addition, RedEgg Solutions Inc. may in its sole discretion disclose visitor information if it believes in good faith that disclosure is otherwise necessary or advisable for any reason including without limitation rights or properties of RedEgg Solutions Inc. or any third party. 
 
-CHANGES   
-RedEgg Solutions Inc. reserves the right to change this privacy statement at anytime upon providing notification to visitors. This privacy statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any other person or entity. 
+_Third Party Services_ :   We may use services hosted by third parties such as Google Analytics, to assist in providing our services and to help us understand how use our websites  is used. These services may collect information sent by a browser as part of a web page request, including IP addresses or cookies. If these third party services collect information, they do so anonymously and in the aggregate to provide information helpful to us such as website trends, without identifying individual visitors. Please see "Cookies" in the section above for information on how you can control the use of cookies on your computer.  
+
+
+###  How Do We Use the Information We Collect? 
+
+We use your personally identifiable information to provide you with the information or content that you have requested, and, in some cases, to contact you about our programs, products, features or services. If you no longer wish to receive press releases or any other type of information from us, you may send us an email through our "Contact Us" link or use our E-mail Alert form to change your preferences; or follow the “unsubscribe” link provided in the e-mail that you receive. 
+
+We use non-identifying information collected on our Web Site in the aggregate to better understand your use of the Web Site and to enhance your enjoyment and experience. For example, we may use the information to improve the design and content of our Web Site or to analyze the programs and services that we offer. 
+
+We may employ other companies and individuals to perform functions on our behalf. Our employees, agents and contractors who have access to personally identifiable information are required to protect the information in a manner that is consistent with this Privacy Statement. 
+
+We may provide access to your personally identifiable information when legally required to do so, to cooperate with police investigations or other legal proceedings, to protect against misuse or unauthorized use of our Web Site, to limit our legal liability and protect our rights, or to protect the rights and safety of visitors to this Web Site or the public. In those instances, the information is provided only for that limited purpose. 
+
+We will not share your personally identifiable information in ways unrelated to those described above without providing you with an opportunity to opt out of such use or otherwise prohibit such unrelated uses. 
+
+###  How Do You Access And/Or Modify Your Information or Choices? 
+
+If you visit our Web Site and volunteer personally identifiable information, you may modify, update or delete such information by visiting the E-mail Alert area where you will have the opportunity to access and revise certain of your personally identifiable information, and to update your preferences regarding what information you want to receive from us, or by clicking on the "Contact Us” link and sending us an e-mail. You should be aware, however, that it is not always possible to completely remove or modify information in our databases. In addition, please be aware that your ability to opt out from receiving marketing and promotional materials does not change our right to contact you regarding your use of our Web Site. 
+
+###  Privacy Protections for Children Using the Internet 
+
+Protecting children's privacy is important to us. For that reason, we do not collect or maintain information on our Web Site from those we actually know are under the age of 13, nor is any part of our Web Site targeted to attract anyone under 13. We request that all visitors to our Web Site who are under 13 not disclose or provide any personally identifiable information. If we discover that a child under 13 has provided us with personally identifiable information, we will delete that child's personally identifiable information from our records. 
+
+###  Data Security 
+
+We take reasonable steps to maintain the security of the personally identifiable information that we collect, including limiting the number of people who have physical access to our database servers, as well as installing electronic security systems that guard against unauthorized access. However, no data transmission over the Internet can be guaranteed to be completely secure. Accordingly, we cannot ensure or warrant the security of any information that you transmit to us, so you do so at your own risk. 
+
+###  Consent to Transfer 
+
+This Web Site is operated in the United States. If you are located outside of the United States, please be aware that any information you provide to us will be transferred to the United States and/or third countries. By using our Web Site, participating in any of our services and/or providing us with your information, you consent to this transfer. 
+
+###  Links 
+
+This Web Site contains links to third party sites as well as to other sites owned and/or operated by Thomson Reuters. Please be aware that Thomson Reuters is not responsible for the privacy practices of any third party sites. Please also be aware that the privacy policies of other Thomson Reuters sites may differ significantly from the privacy policy of this Web Site. Therefore, we encourage our users to read the privacy statement of each and every Web site that collects personally identifiable information. This Privacy Statement applies solely to information collected by this Web Site.   
+
+
+###  Revision Date 
+
+This Privacy Statement was last revised in June of 2012.    
+
