@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cookielaw.org privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031233741id_/http%3A//www.cookielaw.org/cookies-and-privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cookielaw.org privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527173957id_/http%3A//www.cookielaw.org/cookies-and-privacy-policy.aspx) for the most accurate reproduction.*
 
 # Cookies and Privacy | Cookie Law
 
@@ -6,9 +6,10 @@ We are committed to protecting and respecting your privacy.  The aim of this pa
 
 **Summary:**
 
-  * We generally do not collect any information or statistics unless you explicitly give us your consent.
-  * Any web usage statistics we do collect, like which pages on the site are most visited, are anonymous.
-  * We have some common sharing tools on the site provided by Twitter, Google and Facebook. If you use their services elsewhere, they may be able to track your use of this site, if you have allowed cookies.
+  * Your use of this site implies consent for the setting of cookies, unless you change your privacy preferences. 
+  * Any web usage statistics we collect, like which pages on the site are most visited, are anonymous.
+  * We have some common sharing tools on the site provided by Twitter, Google and Facebook. If you use their services elsewhere, they may be able to track your use of this site, unless you change your privacy preferences.
+  * By sending us information via a form on this site, you consent to our use of this information as explained on this page.
   * Any personal information you give us via forms on the site is treated as confidential and never shared with any third parties except data processors acting on our behalf to provide our services.
 
 
@@ -33,9 +34,9 @@ This site contains a number of forms you can fill in to provide us with informat
 
 We use this information purely for the purpose of providing you with the services you are requesting, or to keep you informed about new developments we think you may be interested in.
 
-You information will be held by the Cookie Collective LLP, which is a partnership between [Governor Technology Ltd](http://www.governor.co.uk/ "Governor Technology") and [Thin Martian Ltd](http://thinmartian.com/ "Thin Martian").  Employees of these companies will only have access to your information if they need it to provide our services.
+You information will be held by the Cookie Collective LLP, which is a wholly owned subsidiary of [Governor Technology Ltd](http://www.governor.co.uk/ "Governor Technology").  Governor employees will only have access to your information if they need it to provide our services.
 
-We will not pass on details to any other party without your express prior consent unless we are required by law to do so.
+We do not generally share this information with any third parties, except where we use data processors to act on our instructions to provide our services.  We will not pass on details to any other data controller without your express prior consent unless we are required by law to do so.
 
 If we send you an email newsletter to the address supplied by you, it will contain tracking images that enable us to see when you open the email. We will also know if you click on any link contained in the email.
 
@@ -54,6 +55,16 @@ We do not use an personally identifiable information for any other purpose, and 
 All submissions of data via the Optanon Auditor plug-in are otherwise completely anonymous.  No information is collected about the device the plug-in is installed on, or the person using the device.  No browsing history, other than a record pf pages that set cookies, is complied, and no profile linked to a device can be created from the data.
 
 The names and some attributes of the cookies gathered by the auditor are made publicly available on the [Cookiepedia](http://www.cookiepedia.co.uk/ "Cookiepedia - all about cookies") website.  However there is to our knowledge no personally identifiable information contained within this data.
+
+Aside from the Optanon Auditor there are two Cookie Collector plug-ins in circulation which submit data about cookies to our database.
+
+Although the old Chrome Collector is no longer available for download, a Firefox Cookie Collector extension is still available in the [Mozilla Add-ons store](https://addons.mozilla.org/en-US/firefox/addon/cookie-collector/ "Cookie Collector on Mozilla").
+
+Both plug-ins if installed will submit data about cookies to our systems.  They do this automatically, without any kind of user input, feedback or control. 
+
+The Collector submits only names of cookies and their other attributes, along with the top level domain name of the site being visited by the browser, when the data was submitted.  The values (contents) of the cookies are **not** stored, nor the specific pages of the site they were found on.  Therefore **no personal data** is collected.  We do not identify the source of the data submitted - so it cannot be used to build up a browsing history of any person using the Collector.
+
+The sole purpose is to source data about cookies to inform our research.  Statistics and other intelligence garnered from analysis of this data are published freely on [Cookiepedia](http://www.cookiepedia.co.uk/ "Cookiepedia").
 
 We are committed to making sure that your information is secure and treated in accordance with this policy. We have put in place suitable procedures to safeguard the information we collect in order to prevent unauthorised access or disclosure.
 
