@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blip.fm privacy policy that was archived on 2012-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121006024749id_/http%3A//blip.fm/corp/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blip.fm privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527024406id_/http%3A//blip.fm/corp/privacy) for the most accurate reproduction.*
 
 # Blip.fm | Privacy Policy
 
