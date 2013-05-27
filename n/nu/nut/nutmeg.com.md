@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nutmeg.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226073312id_/http%3A//nutmeg.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nutmeg.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528013403id_/http%3A//www.nutmeg.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Nutmeg: we build and manage your investment portfolio
+# Privacy Policy | Nutmeg
 
-This privacy policy sets out how Hungry Finance Limited, trading as Nutmeg, uses and protects any information that you give Nutmeg when you use this website.
+This privacy policy sets out how Nutmeg Saving & Investment Limited, trading as Nutmeg, uses and protects any information that you give Nutmeg when you use this website.
 
 Nutmeg is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
