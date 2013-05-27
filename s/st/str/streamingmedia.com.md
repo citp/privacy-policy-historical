@@ -1,36 +1,134 @@
-> *The following text is extracted and transformed from the streamingmedia.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216233508id_/http%3A//www.infotoday.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streamingmedia.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527123753id_/http%3A//www.infotoday.com/privacy.shtml) for the most accurate reproduction.*
 
-# ITI Privacy Policy
+# ITI Privacy and Cookies Policy
 
-The various Information Today, Inc. Web sites include: Information Today, Inc. **[(www.infotoday.com)](http://www.infotoday.com/)** , Plexus Publishing [**(www.plexuspublishing.com)**](http://www.plexuspublishing.com/), books.infotoday.com [**(books.infotoday.com)**](http://books.infotoday.com/), Literary Market Place **[(www.literarymarketplace.com)](http://www.literarymarketplace.com/)** , Library Resource Guide **[(www.libraryresource.com)](http://www.libraryresource.com/)** , American Library Directory **[(www.americanlibrarydirectory.com)](http://www.americanlibrarydirectory.com/)** , Faulkner Information Services **[(www.faulkner.com)](http://www.faulkner.com/)** , Fulltext Sources Online **[(www.fso-online.com)](http://www.fso-online.com/)** , Enterprise Search Center **[(www.enterprisesearchcenter.com)](http://www.enterprisesearchcenter.com/)** , BestBizWeb **[(www.bestbizweb.com)](http://www.bestbizweb.com/)** , The CyberSkeptics Guide **[(www.cyberskeptic.com)](http://www.cyberskeptic.com/)** , Database Trends and Applications **[(www.dbta.com)](http://www.dbta.com/)** , DestinationCRM **[(www.destinationcrm.com)](http://www.destinationcrm.com/)** , EContent **[(www.econtentmag.com)](http://www.econtentmag.com/)** , EMedia Live **[(www.emedialive.com)](http://www.emedialive.com/)** , EventDV **[(www.eventdv.net)](http://www.eventdv.net/)** , EventDVLive **[(www.eventdvlive.com)](http://www.eventdvlive.com/)** , The Information Advisor **[(www.informationadvisor.com)](http://www.informationadvisor.com/)** , Intranets Today **[(www.intranetstoday.com)](http://www.intranetstoday.com/)** , KMWorld [**(www.kmworld.com)**](http://www.kmworld.com/), Library Resource Guide [**(www.libraryresource.com)**](http://www.libraryresource.com/), Multimedia & Internet@Schools **[(www.mmischools.com)](http://www.mmischools.com/)** , onlinemag.net [**(www.onlinemag.net)**](http://www.onlinemag.net/), Speech Technology Magazine **[(www.speechtechmag.com)](http://www.speechtechmag.com/)** , StreamingMedia.com **[(www.streamingmedia.com)](http://www.streamingmedia.com/)** , StreamingMediaGlobal.com **[(www.streamingmediaglobal.com)](http://www.streamingmediaglobal.com/)** , Unisphere Magazine **[(www.unispheremag.com)](http://www.unispheremag.com/)** , Boardwalk Empire **[(www.boardwalkempire.com)](http://www.boardwalkempire.com/)** , Buying & Selling eContent **[(www.buy-sell-econtent.com)](http://www.buy-sell-econtent.com/)** , Content Delivery Summit **[(www.contentdeliverysummit.com)](http://www.contentdeliverysummit.com/)** , Enterprise Search Summit **[(www.enterprisesearchsummit.com)](http://www.enterprisesearchsummit.com/)** , Internet Librarian International **[(www.internet-librarian.com)](http://www.internet-librarian.com/)** , WebSearch University **[(www.websearchu.com)](http://www.websearchu.com/)** , SpeechTEK **[(www.speechtek.com)](http://www.speechtek.com/)** , Taxonomy Boot Camp **[(www.taxonomybootcamp.com)](http://www.taxonomybootcamp.com/)** , Online Video Platform Summit **[(www.ovpsummit.com)](http://www.ovpsummit.com/)** , The Search Engine Meeting **[(www.searchenginemeeting.net)](http://www.searchenginemeeting.net/)** , and the Information Today/Plexus Publishing Online Store **[(store.yahoo.com/infotoday/)](http://store.yahoo.com/infotoday/)**. These sites are maintained by Information Today, Inc., 143 Old Marlton Pike, Medford, NJ 08055, Phone: 609-654-6266. Send comments or suggestions about these sites to: **[webmaster@infotoday.com](mailto:webmaster@infotoday.com)**. 
+| [**books.infotoday.com**](http://books.infotoday.com/)  
+---  
+[**aboardwalkstory.com**](http://www.aboardwalkstory.com/)  
+[**americanlibrarydirectory.com**](http://www.americanlibrarydirectory.com/)  
+**[BestBizWeb.com](http://www.bestbizweb.com/)**  
+**[BoardwalkEmpire.com](http://www.boardwalkempire.com/)**  
+**[buy-sell-econtent.com](http://www.buy-sell-econtent.com/)**  
+**[contentdeliverysummit.com](http://www.contentdeliverysummit.com/)**  
+**[CRMEvolution.com](http://www.crmevolution.com/)**  
+**[custservexperience.com](http://www.custservexperience.com/)**  
+**[cyberskeptic.com](http://www.cyberskeptic.com/)**  
+[**dancingwithdigitalnatives.com**](http://www.dancingwithdigitalnatives.com/)  
+**[dbta.com](http://www.dbta.com/)**  
+**[dbtablog.com](http://www.dbtablog.com/)**  
+**[destinationCRM.com](http://www.destinationcrm.com/)**  
+**[destinationCRMBlog.com](http://www.destinationcrmblog.com/)**  
+**[econtentmag.com](http://www.econtentmag.com/)**  
+**[emedialive.com](http://www.emedialive.com/)**  
+**[enterprisesearchcenter.com](http://www.enterprisesearchcenter.com/)**  
+**[enterprisesearcheurope.com](http://www.enterprisesearcheurope.com/)**  
+**[enterprisesearchsummit.com](http://www.enterprisesearchsummit.com/)**  
+[**enterprisevideoconference.com**](http://www.enterprisevideoconference.com/)  
+**[eventdv.net](http://www.eventdv.net/)**  
+**[faulkner.com](http://www.faulkner.com/)**  
+**[fso-online.com](http://www.fso-online.com/)**  
+**[html5videosummit.com](http://www.html5videosummit.com/)**  
+**[informationadvisor.com](http://www.informationadvisor.com/)**  
+**[infotoday.com](http://www.infotoday.com/)**  
+**[infotoday.eu](http://www.infotoday.eu/)**  
+**[infotodayblog.com](http://www.infotodayblog.com/)**  
+**[infotodayeurope.com](http://www.infotodayeurope.com/)**  
+**[internetatschools.com](http://www.internetatschools.com/)**  
+**[internet-librarian.com](http://www.internet-librarian.com/)**  
+[**intranetstoday.com**](http://www.intranetstoday.com%3Cbr%3E/)  
+[**iti-infocentral.com**](http://www.iti-infocentral.com/)  
+**[itiresearch.com](http://www.itiresearch.com/)**  
+**[kmworld.com](http://www.kmworld.com/)**  
+**[libconf.com](http://www.libconf.com/)**  
+**[libraryresource.com](http://www.libraryresource.com/)**  
+**[librarystuff.net](http://www.librarystuff.net/)**  
+**[librarysummit.com](http://www.librarysummit.com/)**  
+**[literarymarketplace.com](http://www.literarymarketplace.com/)**  
+**[mobrulelearning.com](http://www.mobrulelearning.com/)**  
+**[onlineinsider.net](http://www.onlineinsider.net/)**  
+**[onlinemag.net](http://www.onlinemag.net/)**  
+[**onlinesearcher.net**](http://www.onlinesearcher.net/)  
+**[onlinevideo.net](http://www.onlinevideo.net/)**  
+**[ovpsummit.com](http://www.ovpsummit.com/)**  
+[**plexuspublishing.com**](http://www.plexuspublishing.com/)  
+**[searchenginemeeting.net](http://www.searchenginemeeting.net/)**  
+**[sharepointsymposium.com](http://www.sharepointsymposium.com/)**  
+[**smartcustomerservice.com**](http://www.smartcustomerservice.com/)  
+**[speechtechblog.com](http://www.speechtechblog.com/)**  
+**[speechtechmag.com](http://www.speechtechmag.com/)**  
+**[speechtek.com](http://www.speechtek.com/)**  
+**[blog.streamingmedia.com](http://blog.streamingmedia.com/)**  
+**[streamingmedia.com](http://www.streamingmedia.com/)**  
+**[streamingmediaeurope.net](http://www.streamingmediaeurope.net/)**  
+**[streamingmediaglobal.com](http://www.streamingmediaglobal.com/)**  
+**[streamingmediaproducer.com](http://www.streamingmediaproducer.com/)**  
+**[taxonomybootcamp.com](http://www.taxonomybootcamp.com/)**  
+**[theconferencecircuit.com](http://www.theconferencecircuit.com/)**  
+[**thenorthsidebook.com**](http://www.thenorthsidebook.com/)  
+[**trentonthenovel.com**](http://www.trentonthenovel.com/)  
+[**truecrime-online.com**](http://www.truecrime-online.com/)  
+[**webofdeceit.net**](http://www.webofdeceit.net/)  
+[**websearchu.com**](http://www.websearchu.com/)  
+**The various Information Today, Inc. websites include the company, book, periodical, conference, and blog sites listed on the right of this page.**
 
-Information Today, Inc. also hosts a number of blog sites, including: Infotoday Blog **[(www.infotodayblog.com)](http://www.infotodayblog.com/)** , Library Stuff **[(www.librarystuff.net)](http://www.librarystuff.net/)** , The Online Insider **[(www.onlineinsider.net)](http://www.onlineinsider.net/)** , Intelligent Agent **[(www.ia-blog.com)](http://www.ia-blog.com/)** , destinationCRM Blog **[(www.destinationCRMBlog.com)](http://www.destinationcrmblog.com/)** , SpeechTech Blog **[(www.SpeechTechBlog.com)](http://www.speechtechblog.com/)** , KMWorld & Intranets Blog **[(www.kmworldblog.com)](http://www.kmworldblog.com/)** , BSEC Blog **[(www.bsecblog.com)](http://www.bsecblog.com/)** , The Business of Online Video **[(blog.streamingmedia.com)](http://blog.streamingmedia.com/)** , and Streaming Media Europe Blog **[(www.streamingmediaeurope.net)](http://www.streamingmediaeurope.net/)**. 
+These websites are maintained and operated by Information Today, Inc. (ITI), 143 Old Marlton Pike, Medford, NJ 08055, Phone: 609-654-6266. Send comments or suggestions about these sites to: **[webmaster@infotoday.com](mailto:webmaster@infotoday.com)**. 
 
-For each visitor to our Web sites, we log the I.P. address of the computer the visitor is using to view our Web pages, as well as the referring URL.  We routinely collect information on what pages they access or visit, and will occasionally collect information that is volunteered by visitors, such as survey responses. Automatically collected information is used for internal review and to improve the content of our Web site. 
+For each visitor to our websites, we log the IP address of the computer the visitor is using to view our Web pages, as well as the referring URL.  We routinely collect information on what pages they access or visit. This information is used for internal review and to improve the content of our websites. We only collect personal information (including contact and email information) that is willingly provided by visitors to our websites. 
 
-We only collect personal information (including contact and e-mail information) that is willingly provided by visitors to our Web sites.  The Information Today/Plexus Publishing Online Store Web site (hosted by Yahoo!) collects information about customers, including credit card and contact information, and securely provides it to Information Today, Inc., which is solely responsible for its use.  We only use that information to complete a transaction requested by a customer. 
+The Information Today/Plexus Publishing Online Store website (hosted by Yahoo!, at **[infotoday.stores.yahoo.net](http://infotoday.stores.yahoo.net/)** ) collects information about customers, including purchase and contact information, and securely provides it to Information Today, Inc., which is solely responsible for its use.  We only use that information to complete a transaction requested by a customer. Every transaction conducted at the Information Today Online Store website is encrypted for the customers' protection.  The Yahoo! privacy policy is available at **<http://docs.yahoo.com/info/privacy/>**. 
 
-Every transaction conducted at the Information Today Online Store Web site is encrypted for the customers' protection.  The Yahoo! privacy policy is available at **<http://docs.yahoo.com/info/privacy/>**. 
+###  **_Cookies_**
 
-**_Cookies_**   
-A cookie is a small amount of data, which often includes an anonymous unique identifier, that is sent to your browser from a web site's computers and stored on your computer's hard drive. 
+A cookie is a small text file, which often includes an anonymous unique identifier, that is sent to your computer or other access device from our servers, or from the servers of our third-party partners. 
 
-The Information Today, Inc., Plexus Publishing, books.infotoday.com, Library Resource Guide, FSO-Online, EMedia Live, EventDV, onlinemag.net, Cyberskeptics Guide, The Information Advisor, BestBizWeb, Boardwalk Empire, Buying & Selling eContent, Enterprise Search Summit, Internet Librarian International, Library Resource Guide, Online Video Platform Summit, The Search Engine Meeting, Taxonomy Boot Camp, WebSearch University, and our various blog sites do not currently use cookies. 
+The various Information Today, Inc. websites use different types of cookies. 
 
-The Literary Market Place and American Library Directory Web sites use cookies to maintain user sessions and log out users after a specific length of time. The Database Trends and Applications, DestinationCRM, KMWorld, EContentMag, Enterprise Search Center, Speech Technology Magazine, SpeechTEK, and StreamingMedia.com, Web sites use cookies to store registration information for access to White Papers, Webinars, and other premium content and online events. The Intranets Today and Multimedia & Internet@SchoolsWeb sites also use cookies to store registered users' sign-in information, for access to premium content. 
+> By using our websites, you consent to our use of cookies on your computer or other access device, in accordance with this cookie policy.
+> 
+> If you do not consent to our use of cookies, then you should either not use our websites, or use your browser in anonymous mode (“Incognito” in Chrome, “InPrivate” in Internet Explorer, "Private Browsing" in Firefox and Safari). 
+> 
+> Information on how you can delete, disable, or control cookies for most Web browsers is available at [www.AllAboutCookies.org](http://www.allaboutcookies.org/manage-cookies/). 
+> 
+> Please note that by deleting our cookies or disabling future cookies you may not be able to access certain areas or features of our websites.
 
-As part of offering and providing customizable and personalized services, the Information Today Online Store Web site uses cookies to store and sometimes track information about customers. For more information about the use of cookies on the Information Today/Plexus Publishing Online Store Web site, see **<http://privacy.yahoo.com/privacy/us/cookies/details.html>**. 
+Our websites that offer access to White Papers, Webinars, and other premium content and online events use cookies to store registration information, so that website visitors are remembered, and do not need to supply that information upon each visit. 
 
-Information Today, Inc. uses third-party advertising companies to serve ads on our websites that include advertising. These companies may use information ( _not including_ your name, address, email address, or telephone number) about your visits to these websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, **[click here](http://www.networkadvertising.org/)**. 
+The Literary Market Place and American Library Directory websites use cookies to maintain user sessions and log out users after a specific length of time. 
 
-**_Your information_**   
-When you request information from us, register for an electronic newsletter, sign up for an online event, register to attend one of ITI's conferences, subscribe to an online service, register to view premium content on one of our Web sites, or make a purchase from our online store, we may use your information for marketing and promotional purposes to occasionally notify you of Information Today, Inc. products and services we think will interest you. We may also share this information with companies we believe will extend you offers of interest, including sponsors of premium content, webinars, and conferences. 
+The Information Today Online Store website uses cookies to store and sometimes track information about customers. For more information about the use of cookies on the Information Today/Plexus Publishing Online Store website, see **<http://privacy.yahoo.com/privacy/us/cookies/details.html>**. 
 
-If you don't wish to receive such notifications and offers from ITI, you can request to be removed from our mailing lists. ( **See below.** )
+Information Today, Inc. uses certain third-party partner companies that also send cookies to your computer/device via your web browser.
 
-We will seek to advise any companies or other third parties to whom we provide e-mail mailing list information to follow similar privacy policies. However, we cannot assume any responsibility for any actions or policies of these third parties. 
+We use **Google Analytics** , a popular web analytics service provided by Google, Inc. Google Analytics uses cookies to count the number of visitors to our websites, and helps us to analyze how users use our websites. It tells us things such as the typical length of stay on the site or the average number of pages a user views. User data is all anonymous.
 
-**_Removal from Mailing Lists  
-_**E-mail messages sent to mailing lists maintained by Information Today, Inc. contain links to automatically unsubscribe from the list to which the e-mail was sent. You may also request to be removed from mailing lists maintained by Information Today, Inc. via e-mail (to **[custserv@infotoday.com](mailto:custserv@infotoday.com)** ), telephone (609-654-6266), fax (609-654-4309), or in writing (Information Today, Inc., 143 Old Marlton Pike, Medford, NJ 08055-8750). 
+You can find out more about Google’s position on privacy as regards its analytics service at **<http://www.google.co.uk/intl/en/analytics/privacyoverview.html>**
+
+We use **Google's DoubleClick for Publishers** to serve ads on our websites. These cookies are very similar to the Google Analytics cookie described above, but are specific to the display of advertising on our websites. User data is anonymous.
+
+**Google AdSense** cookies are used by Google to report to us how certain ads shown on our websites are performing. User data is all anonymous.
+
+You can find out more generally about Google and its policies and principles as regards advertising at **<http://www.google.com/policies/privacy/ads/>**
+
+Some of the ads you may see on our websites are customized based on predictions about your interests generated from your visits over time and across different websites. This type of ad customization - sometimes called “online behavioral” or “interest-based” advertising - is accomplished by the use of cookies. If you would like more information about this practice and to know your choices about not having this information used, [**click here**](http://www.networkadvertising.org/choices/). 
+
+### _Social buttons_
+
+On many of the pages of our websites you will see ‘social buttons’. These enable users to share or bookmark the web pages. There may be buttons for: Twitter, Google +, Facebook's ‘Like’, LinkedIn's ‘Share’, YouTube, or others. In order to implement these buttons, and connect them to the relevant social networks and external sites, there are scripts from domains outside of Information Today, Inc.'s. You should be aware that these sites are likely to be collecting information about what you are doing all around the internet, including on our websites. 
+
+So if you click on any of these buttons, these sites will be registering that action and may use that information. In some cases these sites will be registering the fact that you are visiting our websites, and the specific pages you are on, even if you don’t click on the button if you are logged into their services, like Google and Facebook. You should check the respective policies of each of these sites to see how exactly they use your information and to find out how to opt out, or delete, such information.
+
+### **_Your information_ **
+
+Each time you request information from us, register for an electronic newsletter, sign up for an online event, register to attend one of ITI's conferences, subscribe to an online service, register to view premium content on one of our websites, or make a purchase from our online store, we may include your name in our email mailing lists. We may use these mailing lists or this information or for marketing and promotional purposes to occasionally notify you of Information Today, Inc. products and services we think will interest you. We may also share this information with companies we believe will extend you offers of interest, including sponsors of our premium content, webinars, and conferences. 
+
+### **_Removal from Mailing Lists_**
+
+If you don't wish to receive such notifications and offers from ITI, you can request to be removed from our mailing lists. Every email message sent to mailing lists maintained by Information Today, Inc. contains a link to automatically unsubscribe from the list, or lists, to which the email was sent. 
+
+You may also request to be removed from mailing lists maintained by Information Today, Inc. via email (to **[help@emediapro.com](mailto:help@emediapro.com)** ), telephone (609-654-6266), fax (609-654-4309), or in writing (Information Today, Inc., 143 Old Marlton Pike, Medford, NJ 08055-8750). 
+
+We will seek to advise any companies or other third parties to whom we provide email information to follow similar privacy policies. However, we cannot assume any responsibility for any actions or policies of these third parties. 
+
+Questions or comments about this privacy policy may be directed to: **[webmaster@infotoday.com](mailto:webmaster@infotoday.com)**. 
 
 * * *
