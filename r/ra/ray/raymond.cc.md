@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the raymond.cc privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230185331id_/http%3A//www.raymond.cc/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raymond.cc privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527132658id_/http%3A//www.raymond.cc/blog/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy • Raymond.CC
 
@@ -12,13 +12,13 @@ Newsletter subscription uses Google Feedburner which comes under Google’s own 
 
 If for any reason you are concerned about your email address being stored, please [contact us](http://www.raymond.cc/blog/contact/).
 
- _ **Third Party Advertising**_
+_**Third Party Advertising**_
 
 “Raymond.cc” or “RAYMONDCC TECH” uses third-party advertising companies such as Google Adsense to serve ads when you visit our website. These companies may use cookies and/or web beacons to collect non-personally identifiable information about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
 
 Google’s use of the DART cookie enables it to serve ads to “Raymond.cc” users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
- _ **Collection of Information**_
+_**Collection of Information**_
 
 When you visit “Raymond.cc”, third party services we use such as Google Analytics automatically collects certain information during your visit. This information can include the internet protocol (IP) address, type of browser, used operating system, date and time you access our site, the pages you visit and time spent on them, which links or buttons you click on, tracking a user’s movement around the site, and gathering demographic information. This information does not identify you personally and cannot be linked back to you. It is strictly for use by us on how you interact while you are visiting this website and serves only as a basis to analyze and help improve ”Raymond.cc”. This information will not be released, sold, or rented to any entities or individuals outside of “Raymond.cc” or “RAYMONDCC TECH”.
 
@@ -26,13 +26,13 @@ Because we link directly to other websites, they will have their own privacy pol
 
 A “cookie” is a small data text file that is placed in your browser and allows ”Raymond.cc” to recognize you each time you visit this site. Cookies themselves do not contain any personal information, and ”Raymond.cc” or “RAYMONDCC TECH” does not use cookies to collect personal information.
 
- _ **Notification of Privacy Statement Changes**_
+_**Notification of Privacy Statement Changes**_
 
 We may update this privacy statement to reflect changes to our information gathering practices. We encourage you to periodically review this page for the latest information on our privacy practices.
 
 Feel free to get in touch if you have any questions or concerns regarding our Privacy Policy.
 
- _ **Privacy Policy Validation and Certification**_
+_**Privacy Policy Validation and Certification**_
 
 Our Privacy Policy is verified by the famous [TRUSTe](http://www.truste.com/) to be accurate and up-to-date.
 
