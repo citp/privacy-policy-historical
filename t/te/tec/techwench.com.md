@@ -1,10 +1,13 @@
-> *The following text is extracted and transformed from the techwench.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230122201id_/http%3A//www.techwench.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techwench.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528015248id_/http%3A//www.techwench.com/privacy) for the most accurate reproduction.*
 
 # Privacy | TechWench.com
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at admin[@]techwench.com.
 
 At http://www.techwench.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by http://www.techwench.com and how it is used.
+
+We use third-party advertising companies to serve ads and collect information when users visit our site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements on our site, other websites and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, check out  
+<http://www.networkadvertising.org/managing/opt_out.asp> .
 
 Log Files  
 Like many other Web sites, http://www.techwench.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
