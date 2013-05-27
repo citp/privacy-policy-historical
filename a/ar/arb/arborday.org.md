@@ -1,24 +1,20 @@
-> *The following text is extracted and transformed from the arborday.org privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018122827id_/http%3A//www.arborday.org/generalinfo/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arborday.org privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527075745id_/http%3A//www.arborday.org/generalinfo/privacy.cfm) for the most accurate reproduction.*
 
 # The Arbor Day Foundation
 
-We take your privacy very seriously. Arborday.org is hosted on computers that are secured behind a strong firewall, and all sensitive information is encrypted on our servers using the latest encryption methods. Modern security precautions are taken to ensure data integrity and security. 
+We take your privacy very seriously. Arborday.org is hosted on computers that are secured behind a strong firewall, and all sensitive information is encrypted on our servers using the latest encryption methods. Modern security precautions are taken to ensure data integrity and security. We are PCI compliant. 
 
-### User Accounts
+### Personal Information
 
-We collect information when a visitor creates a user account on our website in order to place an order or to receive email newsletters. Whenever you create or update your account, all information is transfered via SSL (Secure Socket Layer). 
+All personal information you send to us through arborday.org is transferred via SSL.
 
-### Email
+Your email address will never be loaned or sold to any other group, individual, or business. We may email you information about orders you have made, and we offer several email newsletters that you may opt in to receive. You can opt out at anytime, and a link to do so appears in every email. 
 
-Your email address will never be shared, loaned or sold to any other group, individual or business. We will never give your email address to any third party unless legally required to do so. Opt-in email newsletter subscriptions can be added or canceled at any time. This can be done in the "My Account" section under the "More" tab. 
+When you supply a mailing address, we may send you periodic mailings with information about trees, services, or upcoming events. You may also occasionally receive mailings from other reputable organizations. If you wish to opt out of these mailings, please email [memberservices@arborday.org ](mailto:memberservices@arborday.org)and let us know. 
 
 ### Cookies
 
-Our shopping system uses temporary cookies to enable you to add items to your shopping cart. No personal data is collected through the use of cookies. [More about that.](https://web.archive.org/web/20121018122827id_/http%3A//www.arborday.org/generalinfo/nocookies.cfm)
-
-### Mail
-
-If you have supplied a postal address online, you may receive periodic mailings from us with information about trees, services or upcoming events. If you do not wish to receive such mailings, please let us know by [ sending us email ](https://web.archive.org/web/20121018122827id_/http%3A//www.arborday.org/generalinfo/index.cfm) or writing to us at the address below. Be sure to provide your exact name and address so we can honor your request. Unless you have indicated that we should not share your name, you may also receive mailings from other reputable organizations from time to time. 
+Our shopping system uses temporary cookies to enable you to add items to your shopping cart. No personal data is collected through the use of cookies. [More about that.](https://web.archive.org/web/20130527075745id_/http%3A//www.arborday.org/generalinfo/nocookies.cfm)
 
 ### Children
 
@@ -48,7 +44,7 @@ All refunds will be provided as a credit to the credit card used at the time of 
 
 We sometimes use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here.](https://web.archive.org/linkout.cfm?Destination=http://www.google.com/policies/privacy/ads/)
 
-Questions regarding our privacy policy may be [directed to our webmaster](https://web.archive.org/web/20121018122827id_/http%3A//www.arborday.org/generalinfo/index.cfm) or mailed to:
+Questions regarding our privacy policy may be [directed to our webmaster](https://web.archive.org/web/20130527075745id_/http%3A//www.arborday.org/generalinfo/index.cfm) or mailed to:
 
 The Arbor Day Foundation  
 211 North 12th Street  
