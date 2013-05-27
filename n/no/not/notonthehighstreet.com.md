@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the notonthehighstreet.com privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103081609id_/http%3A//www.notonthehighstreet.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the notonthehighstreet.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527194106id_/http%3A//www.notonthehighstreet.com/about/privacy) for the most accurate reproduction.*
 
-# Gift Ideas, Unique Gifts and Personalised Gifts | notonthehighstreet.com
+# privacy and data security | notonthehighstreet.com
 
 ### what we do with the stuff we know
 
@@ -51,8 +51,13 @@ These are the circumstances in which we may share some of your data with others:
   4. If we are requested by the police or a regulatory or government authority investigating illegal activities to provide information concerning your activities whilst using the network we shall do so.
   5. To the users who created a wedding list on notonthehighstreet.com if you have purchased a gift from such wedding list.
   6. To the group gifting application provider to the extent required in order to supply the group gifting service to you.
+  7. If a customer recommends you as part of our 'refer-a-friend' scheme, we shall notify them that you are already a shopper with NOTHS. We will not share any of your purchase or other details with that customer.
 
 
+
+### managing your orders
+
+We may monitor and review communications between you and our partners on our Content Management System (CMS), solely for the purposes of ensuring that your orders are managed appropriately by our partners and our customer service team, and in accordance with the terms and conditions that we have in place with our partners.
 
 ### cookies
 
@@ -62,7 +67,7 @@ Most computers are set up to automatically accept cookies. However, you can rese
 
 In addition to the cookies set by notonthehighstreet.com in order to ensure the site functions as it should, you may also find the following cookies:
 
-**COOKIE PROVIDER** | **WHAT THEIR COOKIES ARE USED FOR**  
+COOKIE PROVIDER | WHAT THEIR COOKIES ARE USED FOR  
 ---|---  
 **Criteo; Struq** | notonthehighstreet.com work with third party agencies Criteo and Struq to display banner advertising on other selected websites within their display networks. The cookies used by Criteo and Struq help us to monitor and improve the effectiveness of our banner advertising and to refine the targeting of these campaigns so that we are displaying the most relevant content for each individual. The information collected through these cookies is anonymous and does not identify specific individuals.  
 **Google Adwords; MSN/Bing** | Google Adwords and MSN/Bing use cookies to track our paid advertising activity on Google and MSN/Bing. We use the information collected by these cookies to help us determine where our ads will be most effective online. The information collected through these cookies is anonymous and does not identify specific individuals.  
@@ -88,13 +93,13 @@ Please keep in mind that whenever you voluntarily disclose personal information 
 
 ### further information
 
-If you have questions about your personal data or our privacy policy, please contact us at <https://www.notonthehighstreet.com/contact>.
+If you have questions about your personal data or our privacy policy, please contact us at <https://www.notonthehighstreet.com/contact>, phone us on 0845 259 1359 (or on 01 4319731 from within the Republic of Ireland), or email us at [info@notonthehighstreet.com](mailto:info@notonthehighstreet.com)
 
 To see all the information we have about you, and to correct any inaccuracies, please write to us at: notonthehighstreet.com, First Floor, Lion House, Red Lion Street, Richmond, Surrey, TW9 1RE.
 
 ### how to unsubscribe
 
-If you no longer wish to receive any further email messages, post or other communications from us or you no longer wish to be contacted by other companies who you permitted us to provide your details to then please contact us at <https://www.notonthehighstreet.com/contact> or change your account settings accordingly.
+If you no longer wish to receive any further email messages, post or other communications from us or you no longer wish to be contacted by other companies who you permitted us to provide your details to then please change your communication preferences accordingly [here](http://www.notonthehighstreet.com/communication-preference).
 
 ### changes to privacy policy
 
