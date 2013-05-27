@@ -1,102 +1,53 @@
-> *The following text is extracted and transformed from the kinja.com privacy policy that was archived on 2008-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080413120931id_/http%3A//www.kinja.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kinja.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527103555id_/http%3A//legal.kinja.com/privacy-policy-90190742) for the most accurate reproduction.*
 
-# Kinja, the weblog guide
+# Privacy Policy
 
-##### What This Privacy Policy Covers
+This privacy policy covers all of the Kinja sites ("Kinja"). Please read this statement carefully before using or proceeding to access Kinja. Your use of Kinja indicates you have read and understood this Privacy Policy and indicates your agreement to abide by the [Terms of Service](http://legal.kinja.com/kinja-terms-of-use-90161644) in effect.
 
-  1. This privacy statement covers the site www.kinja.com ("Kinja")
-  2. This policy covers how Kinja treats personal information that Kinja collects and receives. Personal information is information about you that is personally identifiable like your name, email address, or date of birth, and that is not otherwise publicly available.
+### 1\. Information Collection
+
+Kinja is the sole owner of the information collected on Kinja. Kinja may collect information from our users at several different points on Kinja.
+
+  * Comments – In order to enhance their use of Kinja, users can choose to leave comments on particular articles of interest. Commenters may register anonymously. However, if a third party complains that a comment breaches our [Terms of Service](http://legal.kinja.com/kinja-terms-of-use-90161644) (e.g. libels them), then in accordance with our [Terms of Service](http://legal.kinja.com/kinja-terms-of-use-90161644), we will make reasonable efforts to contact the commenter and alert them to the situation. If we are required to by law to disclose commenters’ contact information, we will attempt to contact commenters to give them the opportunity to respond to such requests. Please refer to our [Terms of Service](http://legal.kinja.com/kinja-terms-of-use-90161644) for more information.
+  * Mailing Lists & Service Emails - Kinja may launch a mailing list, in order to provide subscribers with relevant information - breaking news, or weekly or daily round-ups, for example. In order to sign up to receive regular emails from a site's mailing list, users must submit information including a valid email address and demographic information such as location and interests. This information will be used in aggregate form only in order to assess general user interest in various internal and third party products and services, and your personal and contact information will not be passed to any other organization. Users who choose to sign up for a mailing list will receive regular emails from the site. Kinja may from time to time track user email usage in a continued effort to improve our services. Most of the time, these will be content from the site in question, but we may occasionally send out an email from a third party sponsor. This will be infrequent, and does not represent an endorsement by Kinja of any products advertised therein. It will clearly be marked as advertising. Since editorial independence is critical to us, you can be sure that we will never send out a sponsored email in the guise of a glowing product review. If you do not wish to receive emails from third party advertisers, please do not sign up for the mailing list.
+  * Comment Service and Cookies – In order to further enhance the user experience, Kinja runs a comment service on some or all of Kinja sites where users can discuss common topics of interest. Users have the option of signing up for this service, and to do so must submit some valid information. Kinja uses this information to screen out users who leave comments prohibited by our [Terms of Service](http://legal.kinja.com/kinja-terms-of-use-90161644) and to pick out topics of interest to commenters. Kinja will not pass this information to any other organization except in aggregate form.  The Comment Service may use cookies. A cookie is a piece of data stored on the user's computer tied to information about the user. We may use both session ID cookies and persistent cookies. For the session ID cookie, once users close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on the user’s hard drive for an extended period of time. Persistent cookies can be removed by following the user’s Internet browser help file directions. We store a cookie on each user's machine that contains user specific information. You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is set. If you reject all cookies, you will not be able to use Kinja products or services that require you to "sign in," and you may not be able to take full advantage of all offerings. However, not all Kinja services require that you accept cookies.
+  * Links – Kinja contain links to other sites. Please be aware that Kinja is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This Privacy Policy applies solely to information collected by Kinja.
+  * Log Files – Like most standard Website servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. We may use a tracking utility that uses log files to analyze user movement.
 
 
 
-If you have any questions or concerns regarding this statement, contact [privacy@kinja.com](mailto:privacy@kinja.com "email privacy@kinja.com").
+### 2\. Advertising
 
-### Information Collection and Use
+  * First Party Ad Serving – The ads appearing on this website are delivered to you by Google's DoubleClick, our web advertising vendor. Kinja uses only first party data about your visits to this site to serve ads to you. First party data only includes information collected during your current search or visit to our websites. First party data that we collect is not shared with any other third parties and is only used for proprietary ad delivery, ad reporting, and contextual advertising. As such, Kinja is not a participant in online behavioral advertising as defined by the Digital Advertising Alliance and FTC.
+  * Third Party Advertising and Cookies – Some of our third party advertising partners may distribute cookies to users in advertisements that are provided to us. Kinja has no access to or control over these cookies once we have received the advertisements from third parties. These advertisers may be engaging in online behavioral advertising as defined by the Digital Advertising Alliance and FTC.
+  * Opt-out – As part of our commitment to transparency and your privacy, we provide the following links to opt-out of cookies provided by both our first party ad server and many third party advertising partners who may be engaging in online behavioral advertising: 
+    * First Party Opt-out – Please visit this link to opt-out of cookies from our first party ad serving vendor, Google: <http://www.google.com/privacy/ads/>
+    * Third Party and Online Behavioral Advertising Opt-out – Please visit this link to opt-out of cookies from over 50+ major third party behavioral advertising providers: <http://www.aboutads.info/choices/>
 
-##### Information Collection
 
-Kinja, LLC. is the sole owner of the information collected on www.kinja.com. Kinja collects information from our users at several different points on our Web site. 
 
-##### Registration
+### 3\. Business Transitions
 
-In order to use fully this Web site, a user must first complete the registration form. During registration a user gives contact information (such as name and email address) and unique identifiers (such as, username and password). We use this information to contact the user about services on our site about which she has expressed interest. It is optional for the user to provide demographic information (such as date of birth), but encouraged so we can provide a more personalized experience on our site. 
+In the event Kinja goes through a business transition, such as a merger, acquisition by another company, or sale of a portion of its assets, users' personal information will, in most instances, be part of the assets transferred.
 
-##### Information Use
+### 4\. Legal Disclaimer
 
-Kinja provides personalized digests of content from weblogs and news sites. The site uses username and password to identify users, in order to display the correct personal digest. Kinja also aggregates data to identify patterns, such as the most popular news sources in the system, or to categorize sites. Kinja monitors the sites selected by users in order to provide more complete topic digests. 
+Though we make every effort to preserve user privacy, Kinja may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on Kinja or affiliates.
 
-##### Profile
+### 5\. Information Security
 
-We store information that we collect through cookies, log files, and/or third parties to create a profile of our users. A profile is stored information that we keep on individual users that details their viewing preferences. Consequently, collected information is tied to the user's personally identifiable information to improve the content of the site for the user. This profile is used to tailor a user's visit to our Web site, and to direct pertinent marketing promotions to them. Your profile is shared in aggregate form only, except where explicitly indicated. 
+Kinja has technical, administrative and physical safeguards in place to help protect against unauthorized access to, use or disclosure of user information we maintain. Under our security practices and policies, access to personally identifiable information is authorized only for those who have a business need for such access, and sensitive records are to be retained only as long as necessary for business or legal needs and destroyed before disposal. Although we work hard to protect personal information that we collect and store, no program is one hundred percent secure and we cannot guarantee that our safeguards will prevent every unauthorized attempt to access, use or disclose personal information.
 
-##### Public digests
+If you become aware of a security issue, please email us at legal [at] gawker [dot] com. We will work with you to address any problems.
 
-The user's profile contains a list of blogs and other web addresses, in order to provide personal digests. Personal digests are, by default, public, and available at www.kinja.com/user/<username>/<digestname>. To make personal digests private, the user must go to the "Share" page in the "Favorites" section, and check a box indicating "Keep my page private". Kinja's editors may monitor a user's public digests in order to improve the topic digests which are available to all users. 
+### 6\. Notification of Changes
 
-##### Cookies
+Whenever Kinja changes its privacy policy, we will post those changes to this Privacy Policy page, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
-A cookie is a piece of data stored on the user's computer tied to information about the user. We use both session ID cookies and persistent cookies. For the session ID cookie, once users close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on the user's hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file [directions](http://www.sabcar.unr.edu/howto/explorer/). 
+### 7\. Contact Information
 
-By setting a cookie on our site, users will not have to log in a password more than once, thereby saving time while on our site. We store a cookie on each user's machine that contains a username and encrypted password. You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is set. If you reject all cookies, you will not be able to use Kinja products or services that require you to "sign in," and you may not be able to take full advantage of all offerings. However, not all Kinja services require that you accept cookies. Persistent cookies enable us to track and target the interests of our users to enhance the experience on our site. See the "Profile" section above. 
+If you have any questions or suggestions regarding our privacy policy, please contact the editor of the GM site in question, or send an email to help AT gawker.com, or by mail to Kinja, 210 Elizabeth Street, Fourth Floor, New York, NY 10012
 
-Some of our business partners use cookies on our site (for example, advertisers). However, Kinja has no access to or control over these cookies, once we have given permission for them to set cookies for advertising. This privacy statement covers the use of cookies by Kinja only and does not cover the use of cookies by any advertisers. 
+### 8\. Effective Date
 
-### Third Party Advertising
-
-The ads appearing on this Web site are delivered to users by various advertising networks. Information about users' visit to this site, such as number of times they have viewed an ad (but not username, date of birth, or any other personal information), may be used to serve ads to users on this site. 
-
-### Log Files
-
-Like most Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. We may use a tracking utility that uses log files to analyze user movement. 
-
-### Communications from the Site
-
-##### Special Offers and Updates
-
-We send all new members a welcoming email to verify the email address used to create the account. Our users are given the opportunity to 'opt-in' to receive news of Kinja developments via email. Users who no longer wish to receive our communications may change their preferences on the user profile page. 
-
-##### Service Announcements
-
-On rare occasions it is necessary to send out a strictly service related announcement. For instance, if our service is temporarily suspended for maintenance we might send users an email. Generally, users may not opt-out of these communications, though they can deactivate their account. However, these communications are never promotional in nature. 
-
-### Sharing
-
-##### Legal Disclaimer
-
-Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site. 
-
-##### Aggregate Information (non-personally identifiable)
-
-We may in future share aggregated demographic information with our partners and advertisers upon request. This is not linked to any personally identifiable information. 
-
-##### Third Party Advertisers
-
-Kinja may in future share Web site usage information about users with a reputable third party for the purpose of targeting our advertisements on this site and other sites. 
-
-### Business Transitions
-
-In the event Kinja goes through a business transition, such as a merger, acquisition by another company, or sale of a portion of its assets, users' personal information will, in most instances, be part of the assets transferred. 
-
-### Links
-
-The Kinja web site contains links to other sites. Please be aware that we, Kinja, are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by Kinja. 
-
-Kinja may choose to exhibit its search results in the form of a "URL redirecter. " When Kinja uses a URL redirecter, if you click on a URL from a search result, information about the click is sent to Kinja, and Kinja in turn sends you to the site you clicked on. Kinja uses this URL information to understand and improve the quality of our personalization. 
-
-### Security
-
-This Web site takes every precaution to protect our users' information. When users submit sensitive information via the Web site, their information is protected both online and off-line.
-
-### Editing Personal Information
-
-You can edit your Kinja account information at any time by visiting your [Kinja profile page](https://web.archive.org/editprofileform.knj "Kinja profile page"). You can delete your Kinja account at any time by visiting our Account Deletion page.
-
-### Notification of Changes
-
-Whenever we change our privacy policy, we will post those changes to this privacy statement, the Kinja weblog, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-### Contact Information
-
-If you have any questions or suggestions regarding our privacy policy, please contact us at:
-
-Email: [privacy@kinja.com](mailto:privacy@kinja.com "email privacy@kinja.com").
+This Privacy Policy is effective February 1, 2013.
