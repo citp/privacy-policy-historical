@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aboutone.com privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124010049id_/http%3A//www.aboutone.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aboutone.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527064004id_/http%3A//www.aboutone.com/privacy-policy) for the most accurate reproduction.*
 
 # AboutOne Privacy Policy
 
@@ -62,7 +62,7 @@ Within the Birth Information section of the site, you are able to enter your bir
 
 You have the opportunity to add contacts within your account. You can store their name, email address, date of birth, wedding anniversary, business contact information, photos, addresses, notes, and any linked documents. The AboutOne team does not have any access to this information and cannot use this information in any way. The information is collected for the sole purpose of allowing you to store it in your account.
 
-If you choose to use our referral service to tell a friend about our site, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. AboutOne stores this information for the sole purpose of sending this one-time email [and tracking the success of our referral program]. 
+If you choose to use our referral service to tell a friend about our site, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. AboutOne stores this information for the sole purpose of sending this one-time email [and tracking the success of our referral program].
 
 Your friend may contact us at [support@aboutone.com](mailto:support@aboutone.com) to request that we remove this information from our database.
 
@@ -110,6 +110,10 @@ This site may contain links to other web sites or advertisements for or placed b
 
 Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [support@aboutone.com](mailto:support@aboutone.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
+#### Testimonials
+
+We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at [support@aboutone.com](mailto:support@aboutone.com).
+
 ## 
 
 ## Security Measures and Communicating with AboutOne
@@ -140,7 +144,7 @@ We will retain your information for as long as your account is active or as need
 
 ## Right to Change Privacy Policy
 
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
+If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page prior to the change becoming effective.
 
 ## 
 
@@ -148,4 +152,4 @@ If we decide to change our privacy policy, we will post those changes to this pr
 
 Please be aware that the site is a general audience web site, not directed to children under the age of 13, and must not be used by children under 13. We do not knowingly collect individually identifiable information from anyone under the age of 13.
 
-_Last updated: November 10, 2012, AboutOne, Inc.; All rights reserved._
+_Last updated: January 9, 2013, AboutOne, Inc.; All rights reserved._
