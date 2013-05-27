@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prontotech.com privacy policy that was archived on 2012-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121113114719id_/http%3A//www.prontotech.com/help/legal/policy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prontotech.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527023023id_/http%3A//www.prontotech.com/help/legal/policy.do) for the most accurate reproduction.*
 
 # About Pronto - Privacy Policy
 
