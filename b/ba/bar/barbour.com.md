@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the barbour.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123031515id_/http%3A//www.barbour.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barbour.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527142428id_/http%3A//www.barbour.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY | Barbour
 
@@ -27,7 +27,7 @@ We will keep your information secure by taking appropriate technical and organis
 
 You have a statutory right to see a copy of the information we hold about you on payment of a fee, which is currently £10.
 
- **What we use your information for**  
+**What we use your information for**  
 We will use your information to provide you with any further details or information you request when you contact us.
 
 If we provide an online shopping service we will use your information to fulfil your order.
@@ -43,7 +43,9 @@ We will disclose your information to enforcement authorities if we are required 
 
 If we provide an online shopping service, any credit or debit card details you supply will be passed to our payment provider and your card issuer.
 
- **Opting-out of marketing emails**  
+From time to time we may work with third party partners to undertake marketing activities. In these instances we will only share your information with these partners where at the time of data capture you have given permission to do so.
+
+**Opting-out of marketing emails**  
 Barbour will periodically send you marketing emails only if you opt-in using one of our sign up forms online or if you entered a Barbour competition. If you no longer wish to receive Email updates from Barbour you can unsubscribe by clicking on the link in the footer of the email or alternatively you can contact the Barbour team via email at [info@barbour.com](mailto:info@barbour.com)
 
 **Where we use your data**  
