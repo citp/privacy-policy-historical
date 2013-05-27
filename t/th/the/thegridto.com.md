@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thegridto.com privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109114826id_/http%3A//www.thegridto.com/connect/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegridto.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527051747id_/http%3A//www.thegridto.com/connect/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Grid TO
 
