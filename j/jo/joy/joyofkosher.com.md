@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joyofkosher.com privacy policy that was archived on 2012-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121117165710id_/http%3A//www.joyofkosher.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joyofkosher.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527153959id_/http%3A//www.joyofkosher.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Joy of Kosher with Jamie Geller
 
@@ -78,4 +78,4 @@ If you have any questions about this policy, our practices related to this site,
 
 **Updates and Changes**
 
-We reserve the right, at any time, to add to, change, update, or modify this Privacy Policy, simply by posting such change, update, or modification on joyofkosher.com and without any other notice to you. Any such change, update, or modification will be effective immediately upon posting on the site.  It is your responsibility to review this Privacy Policy from time to time to ensure that you continue to agree with all of its terms.
+We reserve the right, at any time, to add to, change, update, or modify this Privacy Policy, simply by posting such change, update, or modification on joyofkosher.com and without any other notice to you. Any such change, update, or modification will be effective immediately upon posting on the site.  It is your responsibility to review this Privacy Policy from time to time to ensure that you continue to agree with all of its terms. 
