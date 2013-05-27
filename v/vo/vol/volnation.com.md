@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the volnation.com privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127084912id_/http%3A//www.volnation.com/blog/volnation-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the volnation.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527153446id_/http%3A//www.volnation.com/blog/volnation-privacy-policy) for the most accurate reproduction.*
 
 # VolNation Privacy Policy - VolNation Blog
 
@@ -21,7 +21,7 @@ o VolNation.com may collect and, on any page, display the total counts that page
 
 o Many companies offer programs that help you to visit websites anonymously. While VolNation.com will not be able to provide you with a personalized experience if we cannot recognize you, we want you to be aware that these programs are available.
 
-**E-mail Communications**
+ **E-mail Communications**
 
 VolNation.com is very concerned about your privacy and we will never provide your email address to a third party without your explicit permission, as detailed in the “Sharing Your Information” section below. VolNation.com may send out e-mails with VolNation.com-related news, products, offers, surveys or promotions. 
 
@@ -63,7 +63,7 @@ If you decide to visit VolNation.com website, your visit and any possible disput
 
 This Privacy Policy is effective as of 10/1/2008 and last updated 5/26/2011.
 
-**Contacting the web site:**
+ **Contacting the web site:**
 
 If you have any questions about this privacy statement or your dealings with this web site, you can contact
 
@@ -71,7 +71,7 @@ Attn: Webmaster
 VolNation.com, Turnkin Media, LLC  
 webmaster@volnation.com
 
-**VolNation.com, Turnkin Media, LLC’s Copyright Agent**
+ **VolNation.com, Turnkin Media, LLC’s Copyright Agent**
 
   
 email: webmaster@volnation.com
