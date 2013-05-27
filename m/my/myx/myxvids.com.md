@@ -1,52 +1,85 @@
-> *The following text is extracted and transformed from the myxvids.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503131321id_/http%3A//www.myxvids.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myxvids.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527173007id_/http%3A//www.myxvids.com/privacy.php) for the most accurate reproduction.*
 
-# My X Videos - Daily Amateur Porn Tube - Privacy policy
+# Privacy Policy
 
-My X Videos - Daily Amateur Porn Tube Limited recognizes that its customers, visitors, users, and others who use My X Videos - Daily Amateur Porn Tube Video value their privacy. This privacy notice details important information regarding the use and disclosure of user information collected on the My X Videos - Daily Amateur Porn Tube Video site. We provide this privacy notice to help you make an informed decision about whether to use or continue using our site.
+### Privacy policy for:
 
-Please note that any video, image, or other content posted at the direction of users onto the My X Videos - Daily Amateur Porn Tube Video site becomes published content and is not considered personally identifiable information subject to this privacy notice.
+www.myxvids.com
 
-The Information My X Videos - Daily Amateur Porn Tube Limited Collects
+Effective Date: March 1, 2013
 
- **User-provided information:** You provide certain personally identifiable information (such as your name and email address) to My X Videos - Daily Amateur Porn Tube Video when choosing to participate in various activities on the sites such as uploading videos or posting messages.
+**[Last Modified on March 1, 2013]**
 
- **Cookies Information:** When you visit the My X Videos - Daily Amateur Porn Tube Video site, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer that uniquely identifies your browser. My X Videos - Daily Amateur Porn Tube Video uses both session cookies and persistent cookies. A persistent cookie remains after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser help file directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the My X Videos - Daily Amateur Porn Tube Video site may not function properly if the ability to accept cookies is disabled.
+**I. General**
 
-**Log File Information:** When you use the My X Videos - Daily Amateur Porn Tube Video site, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, browser language, referring / exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of your request, and one or more cookies that may uniquely identify your browser
+A. The operative parties referred to in this policy are COMPANY and you, the user of this site.
 
-The Way My X Videos - Daily Amateur Porn Tube Video Retains Information
+1\. **COMPANY** is the publisher and operator of the websites listed at the beginning of this policy. When first-person pronouns are used in this Policy, (us, we, our, ours, etc.) these provisions are referring to COMPANY. Additionally, when the terms “The SITE” or “SITE” are used, these terms refer to the websites listed at the beginning of this policy.
 
-To preserve the integrity of website databases, My X Videos - Daily Amateur Porn Tube Video's procedure is to retain information submitted by members for an indefinite length of time. By submitting information to My X Videos - Daily Amateur Porn Tube Video, you are consenting to store that information indefinitely.
+2\. **You, the User** – As the user of this SITE, this policy will refer to the user as “you” or through any second-person pronouns, such as “yours,” etc. Hereinafter, the user of the site shall be referred to in applicable second-person pronouns.
 
-The Way My X Videos - Daily Amateur Porn Tube Limited Uses Information 
+B. This Privacy Policy describes how we use information received about you when you visit our SITE or when you subscribe to, or otherwise use our online services. This Policy does not cover any information that we may receive from or about you through channels other than through the use of the SITE.
 
-If you submit personally identifiable information to us through the My X Videos - Daily Amateur Porn Tube Video website, then we use your personal information to operate, maintain, and provide to you the features and functionality of the site.
+**II. Revisions to this Policy**
 
-Any personal information or video content that you voluntarily disclose online (on discussion boards, in messages and chat areas, within your public profile page, etc.) becomes publicly available and can be collected and used by others. Your account name (not your email address) is displayed to other users when you upload videos or send messages through the My X Videos - Daily Amateur Porn Tube Video site, and other users can contact you through messages and comments. Any videos that you submit to the My X Videos - Daily Amateur Porn Tube Video site may be redistributed through the Internet and other media channels, and may be viewed by the general public.
+We reserve the right to revise, amend, or modify this policy and our other policies and agreements at any time and in any manner. You should periodically check for any modifications of this Policy by re-visiting this web page and using the “refresh” button on your browser. You should note the date of last revision to this Policy, which appears at the top of this Policy. If the “last modified” date remains unchanged after you have clicked the “refresh” button on your browser, you may presume that no changes have been made since the last reading of the policy. A changed “last modified” dates indicates that this Policy has been updated or edited, and the updated or edited version supersedes any prior versions immediately upon posting.
 
-We do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. We may, however, use your email address without further consent for non-marketing or administrative purposes.
+**III. Personal information that we collect**
 
-When My X Videos - Daily Amateur Porn Tube Video Discloses Information 
+Visitors to our site and services will have multiple manners of interactivity with us. Depending upon your level of interaction, we will collect different information about you. The type of information collected is as follows:
 
-We provide personally identifiable information and non-personally-identifiable information to our subsidiaries, affiliated companies, or other businesses or persons for the purpose of processing such information on our behalf. We require that these parties agree to process such information in compliance with our privacy policy, and we use reasonable efforts to limit their use of such information and to use other appropriate confidentiality and security measures.
+A. **Members -** Members are those users who interact with our services in a way which requires registration, such as by uploading content to the SITE. Members will be prompted to provide their e-mail address in the process of registering a username.
 
-We do not share your personally identifiable information (such as name or email address) with other, third-party companies for their commercial or marketing use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out.
+B. **Browsers -** Browsers are visitors to the site who never enter into any active data collection pages. Browsers may, however, view content uploaded by Members. Any information gathered from Browsers is also gathered from Members. This information is restricted to cookies, IP Addresses and Referral URLs, and other passive information gathering devises (explained below).
 
-We may release personally identifiable information and/or non-personally-identifiable information if required to do so by law, or in the good-faith belief that such action is necessary to comply with state and federal laws (such as U.S. Copyright Law) or respond to a court order, subpoena, or search warrant.
+**IV. How we collect information from you**
 
-My X Videos - Daily Amateur Porn Tube Limited also reserves the right to disclose personally identifiable information and/or non-personally-identifiable information that, in good faith, is appropriate or necessary to enforce our terms of use, take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of our web site, and to protect the rights, property, or personal safety of our company, our users or others.
+A. **Passive Collection** – We use cookies to collect information about you in order to enhance your experience on the site. The information collected in our cookies includes, but is not limited to, your user IP address, your browser information, your geographic location and other session data.
 
-Our Commitment to Legal-Age Usage 
+B. **Active Collection** – we collect information from you, such as your e-mail address, when you complete registration forms to sign up for your membership on our Site. Locations for such collection are registration pages, but we reserve the right to add additional information collection portals.
 
-Protecting children from adult content is especially important. For that reason, My X Videos - Daily Amateur Porn Tube Limited does not knowingly collect or maintain personally identifiable information or non-personally-identifiable information on the My X Videos - Daily Amateur Porn Tube Video site from persons under 18 years of age, and no part of our website is directed to persons under 18, or legal age according to state law. If you are under 18 years of age, then please do not use or access the My X Videos - Daily Amateur Porn Tube Video site at any time or in any manner. If My X Videos - Daily Amateur Porn Tube Limited learns that personally identifiable information of persons under 18 years of age has been collected, appropriate steps will be taken to delete this information.
+**V**. **How we use your information**
 
-In the Event of Merger, Sale, or Bankruptcy
+The primary use for your information is to provide you with services you have requested and/or paid for. We also use your information to deliver customized services to you, such as automatic log-in capabilities and storage of preferences. Member login information and e-mail addresses may be disclosed to third parties for the purpose of providing certain features or third-party upgrades as requested by the Member. We are not responsible for how third parties use your information, and You should become familiar with such third parties’ privacy policies prior to requesting their services. Non-personal and aggregate information, such as that collected passively is used in order to customize our marketing efforts or to customize the use of our site for an aggregate group of customers. We additionally may use the personal information of users whose membership has expired or have been cancelled in order to market our services to these individuals in the future.
 
-In the event that My X Videos - Daily Amateur Porn Tube Limited is acquired by or merged with a third party entity, we reserve the right, in any of these circumstances, to transfer or assign the information we have collected from our users as part of such merger, acquisition, sale, or other change of control. In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, we may not be able to control how your personal information is treated, transferred, or used.
+We generally will use your information for the purposes for which you specifically provide it, for example, to ensure payment for subscription services, if applicable. We also use your information for market research purposes – in order to increase your (and other users’) experience according to tracked interests, to analyze and target potential new markets, and for other marketing purposes.
 
-Changes and updates to this Privacy Notice
+**VI.** **Special Cases**
 
-This privacy notice may be revised periodically and users are encouraged to review it periodically to stay aware of any changes. Your continued use of the My X Videos - Daily Amateur Porn Tube Video site constitutes your agreement to this privacy notice and any future revisions.
+It is our policy not to use or share the personal information about Browsers or Members in ways unrelated to those described in this Policy without also providing you an opportunity to opt out or otherwise prohibit such unrelated uses. However, we may disclose personal information about Browsers or Members, or information regarding your use of the Services or Sites accessible through our Services, for any reason if, in our sole discretion, we believe that it is reasonable to do so, including:
 
-  
+1\. To satisfy any laws, such as the Electronic Communications Privacy Act, regulations, or governmental, or legal requests for such information;
 
+2\. To disclose information that is necessary to identify, contact, or bring legal action against someone who may be violating our Terms & Conditions or other user policies;
+
+3\. To operate our Services properly;
+
+4\. To protect ourselves, our Members, and the general public. We specifically reserve the right to disclose any and all information to law enforcement in the event that a crime is committed, is suspected, or if we are compelled to do so by lawful criminal, civil, or administrative process, discovery requests, subpoenas, court orders, writs, or reasonable request of authorities or persons with the reasonable power to obtain such process.
+
+5\. We will always cooperate with law enforcement authorities, private-party litigants, and others seeking information about our end users to the extent required by applicable law. Examples of such cooperation include lawful criminal, civil, or administrative process, discovery requests, subpoenas, court orders, writs, or reasonable request of authorities or persons with the reasonable power to obtain such process.
+
+6\. We may provide members of the media with summarized User statistics upon request, but we will not provide individual User information.
+
+**VII.** **Transmittals from Us**
+
+We may send you periodic announcements including the details of our existing and new programs. You may opt out of these announcements by disabling the notifications on your User profile page. If you opt out of these marketing emails, you may still receive system notices and other information that is specifically related to your account.
+
+If you provide your information to us, use the SITE, or subscribe to any of our services, you will have created a commercial relationship with us. In having done so, you understand that even unsolicited commercial email sent from us or our affiliates is not SPAM as that term is defined under the law.
+
+**VIII.** **Public Forums and Other Public Areas**
+
+A. **Public Forums** – at the time of the instatement of this Policy, we currently offer Users the option to comment in public forums, to send private messages to other Users, and to comment on other User’s profiles, and we reserve the right to offer other interactive features in the future. We also provide services that allow Members to post messages or comments to the public. Any and all information posted to the SITE, whether as a comment to a video or any other post, should immediately be considered to be public information.
+
+**IX.** **Our Commitment to Data Security**
+
+We take measures to protect the transmission of all sensitive end-user information. We make every effort to ensure the integrity and security of our network and systems. Nevertheless, we cannot guarantee that our security measures will prevent third-party ‘hackers’ from illegally obtaining this information. We take all reasonable measures to prevent such breaches of security, but given the resourcefulness of cyber-criminals we are unable to guarantee that our security is 100% breach-proof. You assume the risk of such breaches to the extent that they occur despite our reasonable security measures.
+
+**X.** **How to Access or Modify Your Information**
+
+We may offer our Members the opportunity to access or modify information provided during registration. To access or modify such information, contact our Customer Service at http://www.myxvids.com/support.php
+
+**XI.** **Where to Direct Questions About Our Privacy Policy**
+
+If you have any questions about this Privacy Policy or the practices described herein, you may contact us at http://www.myxvids.com/support.php
+
+**\- End -**
