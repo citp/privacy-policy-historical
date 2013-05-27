@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ushud.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224132234id_/http%3A//ushud.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ushud.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527162156id_/http%3A//ushud.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
