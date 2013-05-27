@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the unitravel.com privacy policy that was archived on 2012-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121007210227id_/http%3A//www.unitravel.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unitravel.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527193651id_/http%3A//www.unitravel.com/privacy.html) for the most accurate reproduction.*
 
 # Unitravel.com - Privacy
 
-This website belongs and is managed by UniTravel Srl, hereinafter UniTravel, an Italian Company with registered office in Via Lazzarini, 13 Venice Italy, Vat Code 03458490277. It makes part of the circuit of portals that head to the website www.unitravel.com, hereinafter called UniTravel Network or simply the Network. 
+This website belongs and is managed by UniTravel Srl, hereinafter UniTravel, an Italian Company with registered office in Via Brunacci 9/b, Venice Italy, Vat Code 03458490277. It makes part of the circuit of portals that head to the website www.unitravel.com, hereinafter called UniTravel Network or simply the Network. 
 
 UniTravel is aware of the importance of security and discretion of personal data and carefully handles collected data, not only to respect regulations in force, but to safeguard the confidence placed in UniTravel by the Users. 
 
@@ -15,11 +15,11 @@ The present statement is aimed at guaranteeing the security and privacy of perso
 
 ### The "holder" of data processing
 
-UniTravel S.r.l is the holder of the data, with its Head Office situated in Venice, Italy, Via Lazzarini 13, P IVA 03458490277, registered in Venice, Italy N REA VE-310017. 
+UniTravel S.r.l is the holder of the data, with its Head Office situated in Venice, Italy, Via Brunacci 9/b, P IVA 03458490277, registered in Venice, Italy N REA VE-310017. 
 
 ### Place of Data Processing
 
-The treatment of the data which is connected to the service will be processed in the offices of UniTravel S.r.l, Via Lazzarini, 13 (registered office) and Via Brunacci 9/b (administration office), 30175 Venice, Italy, where only authorized people are assigned to processing such data, using DPS (Security Data Program) approved by the company.  
+The treatment of the data which is connected to the service will be processed in the offices of UniTravel S.r.l, Via Brunacci 9/b, 30175 Venice, Italy, where only authorized people are assigned to processing such data, using DPS (Security Data Program) approved by the company.  
 Once the reservation has been supplied through third party, the data collected in relation to the booking is presented to the supplier with whom the booking has been made (such as the reserved hotel) and will therefore be processed by the supplier in respect to the terms and condition laid down by the respective privacy policy. 
 
 ### Nature of requested Data 
@@ -33,7 +33,7 @@ The data supplied through technology, telecommunications and paper sources, will
 ### The User’s rights
 
 The Users of which UniTravel collect data have the right to know the contents of the data collected in any form and are able to know where the information came from, to verify its accuracy, supplement, or update or correct data (art 7. of the Legislative Decree n.196/2003).  
-In conformity with the same article, the Users have the right to ask for cancellation, transformation of the data into an anonymous form in case of right withhold data which is seen to be against the law, in addition to oppose the data being processed for legal reasons. Such requests must be sent to UniTravel S.r.l, Via Lazzarini 13, 30175 Venice Italy, to fax number +39 041 8620433 or via mail to the above mentioned address. 
+In conformity with the same article, the Users have the right to ask for cancellation, transformation of the data into an anonymous form in case of right withhold data which is seen to be against the law, in addition to oppose the data being processed for legal reasons. Such requests must be sent to UniTravel S.r.l, Via Brunacci 9/b, 30175 Venice Italy, to fax number +39 041 8620433 or via mail to the above mentioned address. 
 
 ### Type of data and purpose of processing 
 
@@ -139,7 +139,7 @@ UniTravel under current laws must disclose personal data to the authorities shou
 
 ### Ability to check the use of personal data and self access
 
-UniTravel believes that both users and visitors should have control of the data collected and how the data should be used. Requests can be made by contacting UniTravel S.r.l, Via Lazzarini 13, 30175 Venice, Italy on +39 041 8620433 or by the email address written below. 
+UniTravel believes that both users and visitors should have control of the data collected and how the data should be used. Requests can be made by contacting UniTravel S.r.l, Via Brunacci 9/b, 30175 Venice, Italy on +39 041 8620433 or by the email address written below. 
 
 ### UniTravel communication
 
