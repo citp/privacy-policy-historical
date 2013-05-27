@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rooshv.com privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127100943id_/http%3A//www.rooshv.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rooshv.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527213555id_/http%3A//www.rooshv.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -29,6 +29,6 @@ If you feel that this site is not following its stated information policy, you m
 
 Any emails or correspondence you send to me can be used any way I see fit, unless you specific otherwise.
 
-_Updated: February 25, 2008_
+_Updated: February 25, 2008 by[Roosh](http://en.wikipedia.org/wiki/Roosh)_
 
 **Comments are closed for this post.**
