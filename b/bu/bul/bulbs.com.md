@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bulbs.com privacy policy that was archived on 2012-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121011024016id_/http%3A//www.bulbs.com/yrprivacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bulbs.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527154315id_/http%3A//www.bulbs.com/yrprivacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Customer Service | Bulbs.com
 
