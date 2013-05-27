@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thomson.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126043101id_/http%3A//thomsonreuters.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thomson.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527154029id_/http%3A//thomsonreuters.com/privacy_policy) for the most accurate reproduction.*
 
 # Thomson Reuters | Privacy Statement
 
