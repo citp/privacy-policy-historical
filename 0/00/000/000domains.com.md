@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 000domains.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226181326id_/http%3A//www.dotster.com/legal/legal_privacy.bml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 000domains.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528003322id_/http%3A//www.dotster.com/legal/legal_privacy.bml) for the most accurate reproduction.*
 
 # Dotster's Privacy Policy
 
