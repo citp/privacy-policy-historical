@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the windowsecurity.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116004237id_/http%3A//www.windowsecurity.com/pages/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windowsecurity.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527154010id_/http%3A//www.windowsecurity.com/pages/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -53,6 +53,3 @@ If you wish to update or correct your personal information, please use our conta
 If our information practices change in a significant way, we will post and highlight the policy changes.
 
 _This privacy policy has last been updated on 8 April 2009._
-
-  
-
