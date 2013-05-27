@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the jagex.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224173423id_/http%3A//www.jagex.com/privacy/privacy.ws) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jagex.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527084753id_/http%3A//www.jagex.com/privacy/privacy.ws) for the most accurate reproduction.*
 
 # Jagex Games Studio - Free Online Browser Games
 
-**Privacy Policy**
+Effective Date: 20th February, 2013
 
-Effective Date: 11th December, 2012
+### Privacy Policy
 
   1. Introduction
   2. What Personally Identifiable Information do we collect and store?
@@ -15,11 +15,10 @@ Effective Date: 11th December, 2012
   7. Safeguarding your Personally Identifiable Information
   8. Jagex's privacy practices in relation to children and the safeguarding of children's Personally Identifiable Information
   9. Review, correction and deletion of information from our records
-  10. Data Protection Policy
 
 
 
-**1\. Introduction**
+### 1\. Introduction
 
 This is the privacy policy of Jagex Limited and any companies within our group (referred to collectively as "Jagex"). It applies to all of our websites/services (referred to collectively as "our websites") on which it appears.
 
@@ -33,9 +32,9 @@ Please read this policy carefully. You must accept this policy in full in order 
 
 We may change this policy at any time, and will post any changes made on the site. Please check it whenever you return to the site. We will treat your continued use of our websites as acceptance of these changes from their effective date as shown above.
 
-If you have any questions about this privacy policy, please contact us by emailing  and do not use our websites or Jagex Products until you are satisfied and can accept this policy in its entirety.
+If you have any questions about this privacy policy, please contact us by emailing  and do not use our websites or Jagex Products until you are satisfied and can accept this policy in its entirety. 
 
-**2\. What Personally Identifiable Information do we collect and store?**
+### 2\. What Personally Identifiable Information do we collect and store?
 
 No Personally Identifiable Information is collected when you merely access the public areas of our websites or when you play our single player games.
 
@@ -45,19 +44,20 @@ For example:
 
   * To use many of the features of Jagex Products you will need to open an account by choosing a username and password.
   * To start a subscription for any Jagex Product you will need to provide contact information including: name, a valid email address, home address, and payment details (such as credit card number and expiry date). Some users may not be eligible to provide this information.
+  * To start a subscription for any Jagex Product you will also need to provide contact information including: your name, a valid email address, home address.
   * To make use of our customer support service you will need to access the customer support section using your username and password and supply information relating to your query via the online form.
   * To enable us to provide a better customer support service we may also ask you to provide contact information including: name, email address, postcode and country, and to provide a number of security questions which we can use to verify your identity if you require assistance in the future. (Note that the questions and the answers you provide are up to you. You may opt-out of providing some of this information but it will limit the availability or effectiveness of our support service if you do, or you may not be eligible for a particular support service.)
   * We may give you the option of supplying a valid email address so we can contact you in the future with email newsletters about Jagex Products, including new game features and special offers.
 
 
 
-Some users may not be eligible for certain elements detailed above, for example because there are restrictions on the collection of Personally Identifiable Information from those users.
+Some users may not be eligible for certain elements detailed above, for example because there are restrictions on the collection of Personally Identifiable Information from those users. 
 
-**3\. What other information is collected and stored?**
+### 3\. What other information is collected and stored?
 
 We use Cookies, collect and store IP-addresses, alphanumeric IDs and other unique identifiers in order to identify specific computers that access our websites. We identify and store the versions of Java and .NET (if any) on your computer along with your browser and operating system, and details of your device's hardware and software specifications.
 
-For more information about Cookies, the information they collect and how to disable them, please visit our [Cookies](http://www.jagex.com/cookies.ws) page.
+For more information about Cookies, the information they collect and how to disable them, please visit our [Cookies](http://www.jagex.com/g=runescape/cookies.ws) page.
 
 We generate and store logs indicating usage of our websites such as activity in our games and public and private chat communications. This includes monitoring play patterns and anti-tamper checks which verify the correct internal operation of our software and are designed to spot abusive or inappropriate activities.
 
@@ -65,15 +65,15 @@ We may track your use of certain features and areas of our websites to help us i
 
 If our client software held on your computer fails, it sends an automatic error report to our server to help us fix it. This error report only includes information about the internal state of our own client software and which browser/java version it is running on. It does not include data from elsewhere on your system and so does not reveal Personally Identifiable Information to us.
 
-We store 'save game' and 'game settings' information to enable us to provide a better games service in which your activities and achievements are remembered in the game, and we conduct polls to find better ways of serving the needs of our users.
+We store 'save game' and 'game settings' information to enable us to provide a better games service in which your activities and achievements are remembered in the game, and we conduct polls to find better ways of serving the needs of our users. 
 
-**4\. Information about you received from third parties**
+### 4\. Information about you received from third parties
 
 If you access Jagex's Products through an integrated and approved third party then you are allowing Jagex access to certain information from that third party. The information you allow Jagex to access may vary per Jagex Product and across different third party platforms and is affected by the privacy settings you have on your computer or internet device and the choices you make with that third party.
 
-By playing a Jagex Product through a third party site or application you are authorising Jagex to collect, store and use in accordance with this Privacy Policy any and all information that you agreed the third party could provide to Jagex through that third party site or application including Personally Identifiable Information.
+By playing a Jagex Product through a third party site or application you are authorising Jagex to collect, store and use in accordance with this Privacy Policy any and all information that you agreed the third party could provide to Jagex through that third party site or application including Personally Identifiable Information. 
 
-**5\. What happens to the information provided/collected?**
+### 5\. What happens to the information provided/collected?
 
 The information we collect may be used:
 
@@ -90,13 +90,13 @@ The information we collect may be used:
 
 
 
-We care about protecting your privacy, and with the exception of the uses specified above or where you explicitly consent, we will not sell, transfer, rent out, share or disclose your Personally Identifiable Information to other companies.
+We care about protecting your privacy, and with the exception of the uses specified above or where you explicitly consent, we will not sell, transfer, rent out, share or disclose your Personally Identifiable Information to other companies. 
 
-**6\. Passing your personal information to third parties**
+### 6\. Passing your personal information to third parties
 
 We may supply your Personally Identifiable Information to external third parties who provide a service to us (such as fulfilment of orders placed for Jagex Product merchandise or to assist us in the supply of customer support) and purely for the purpose of that service.
 
-We partner with a number of external payment service provider companies to enable you to make payment via a wide range of payment options. We share your billing information with such companies insofar as is necessary for the processing of your payment or to prevent or detect fraud. These companies have agreed not to retain, share, store or use your Personally Identifiable Information which we pass to them for any secondary purposes.
+>We partner with a number of external payment service provider companies to enable you to make payment via a wide range of payment options. We share your billing information with such companies insofar as is necessary for the processing of your payment or to prevent or detect fraud. These companies have agreed not to retain, share, store or use your Personally Identifiable Information which we pass to them for any secondary purposes.
 
 Your personal information may be transferred to, stored and processed in countries outside your country of residence both in and outside the European Union including the United States, and used for the purposes set out in this Privacy Policy.
 
@@ -104,21 +104,21 @@ You should be aware that the data protection laws of other countries may not be 
 
 Please note that this privacy policy does not apply to any of your Personally Identifiable Information which is collected by the external payment provider companies themselves or to the websites or services of other companies to which we link or which link to us, or which provide goods or services to our users from their websites (such as co-branded, white label or affiliate sites or other sites selling Jagex Product merchandise). Please note that those companies (and not Jagex) are responsible for the information which they collect. Please check their privacy polices where appropriate.
 
-We use external companies to provide and serve advertisements or other technologies on our websites (eg to collect website statistics or to enable sharing of buttons or widgets). These companies may use information (not including Personally Identifiable Information) about your visits to this and other websites in order to personalize advertisements on this site or other sites and/or to personalize certain features on our site and/or to provide anonymised aggregated statistics concerning use of our site or use of certain features on our site which are shared with other sites (eg buttons or widgets linking to our site). We do not have access to or control over cookies or other technologies that these third parties may use and the information practices of these advertisers and technology companies are not covered by this policy. If you would like more information about some of these practices and to know your choices about preventing this information being used by certain of these companies, please click here.
+We use external companies to provide and serve advertisements or other technologies on our websites (eg to collect website statistics or to enable sharing of buttons or widgets). These companies may use information (not including Personally Identifiable Information) about your visits to this and other websites in order to personalize advertisements on this site or other sites and/or to personalize certain features on our site and/or to provide anonymised aggregated statistics concerning use of our site or use of certain features on our site which are shared with other sites (eg buttons or widgets linking to our site). We do not have access to or control over cookies or other technologies that these third parties may use and the information practices of these advertisers and technology companies are not covered by this policy. If you would like more information about some of these practices and to know your choices about preventing this information being used by certain of these companies, please [click here](http://www.networkadvertising.org/).
 
 Furthermore, information collected from our users by third parties providing goods or services (including advertisements) at or via our websites may be shared by those third parties with us and stored by us for the purposes stated in this policy.
 
 Be very careful before making or posting any communications on our websites. Certain information is visible to other players of the game including: public and private chat communications, the appearance of your characters and your experience points. Players who include you on their friends list can see which in-game world you are playing on. We may share Game Data with third parties, such as survey and data analysis companies, to help improve the products and services we offer to our players and improve the player experience. "Game Data" includes, but is not limited to, communications posted on Jagex Products and player communications. Game Data may contain Personally Identifiable Information.
 
-If you have agreed on our websites, we may provide your email address to our business partners so that they can send you emails with details of goods or services which may be of interest to you including information about special offers or promotions.
+If you have agreed on our websites, we may provide your email address to our business partners so that they can send you emails with details of goods or services which may be of interest to you including information about special offers or promotions. 
 
-**7\. Safeguarding your Personally Identifiable Information**
+### 7\. Safeguarding your Personally Identifiable Information
 
 We will only collect Personally Identifiable Information to the extent we believe it reasonably necessary to serve our legitimate business purposes, and will protect it using the same level of safeguards we use to ensure the security, integrity and privacy of our own equivalent proprietary information. In addition, we will take reasonable steps to ensure that third parties to whom we transfer any Personally Identifiable Information in accordance with this policy will agree to provide sufficient protection.
 
-Note that while we strive to protect all our Personally Identifiable Information, we have all heard of data breaches in well-respected financial and governmental institutions and we cannot ever fully guarantee that such breaches will not happen. We will inform you of any material data breaches that we discover that may compromise your Personally Identifiable Information.
+Note that while we strive to protect all our Personally Identifiable Information, we have all heard of data breaches in well-respected financial and governmental institutions and we cannot ever fully guarantee that such breaches will not happen. We will inform you of any material data breaches that we discover that may compromise your Personally Identifiable Information. 
 
-**8\. Jagex’s privacy practices in relation to children**
+### 8\. Jagex’s privacy practices in relation to children
 
 We do not knowingly collect or store any Personally Identifiable Information from children under 13. If a Jagex Product allows under 13s to create an account, Jagex will only collect information than is reasonably necessary for participation in the Jagex Product, such as a user-name, password and a parent or guardian's email address.
 
@@ -157,70 +157,11 @@ The affidavit has to be signed by and in the presence of 'notary public'. This i
 
 
 
-If you are submitting an affidavit for a child that is under 13 years of age, then please do not include any of their Personally Identifiable Information. If you do include any Personally Identifiable Information of the child, your submission is your express consent for Jagex to receive and store the Personally Identifiable Information as reasonably necessary to fulfil your request.
+If you are submitting an affidavit for a child that is under 13 years of age, then please do not include any of their Personally Identifiable Information. If you do include any Personally Identifiable Information of the child, your submission is your express consent for Jagex to receive and store the Personally Identifiable Information as reasonably necessary to fulfil your request. 
 
-**9\. Review, correction and deletion of information from our records**
+### 9\. Review, correction and deletion of information from our records
 
-If for data protection purposes you are concerned that the Personally Identifiable Information which we hold about you is not accurate, or should you wish to have your Personally Identifiable Information removed from our records, please see our Data Protection Policy below.
-
-**10\. Data Protection Policy**
-
-Jagex holds a range of Personally Identifiable Information which can include: 
-
-  * Full name
-  * Postal address
-  * Email address
-  * Telephone number
-
-
-
-Please note, it's entirely possible that we hold all, none or only some of the above information, depending on if you have ever entered this into our systems.
-
-If, for data protection purposes, you are concerned that the above Personally Identifiable Information maintained by Jagex is not correct, or should you wish to have your Personally Identifiable Information removed from our records, please follow the steps below:
-
-**a. Request in writing & provide your contact details**
-
-Please outline specifically your request. Your request should be one of the following:
-
-  * Access to personal information we maintain
-  * Modification of personal information we maintain
-  * Removal of personal information we maintain
-
-
-
-Please also include full contact details for yourself. This should include your postal contact details and a telephone number, including international dialing codes.
-
-**b. Proof of identity**
-
-We require proof of identity in the form of picture ID. This must be in one of the following forms:
-
-  * a photocopy of a passport; or
-  * a photocopy of a picture driving license.
-
-
-
-The photocopied document must contain a clear picture of yourself and also your full name.
-
-**c. Request fee**
-
-In order to carry out your data protection request, we require a fee of £10.00. This is to cover administration costs and is in line with the guidelines of the Data Protection Act. Please enclose a cheque for this amount in your written request payable to Jagex Ltd.
-
-Please note: All of the above steps must be followed in order for us to issue, modify or remove personal information maintained by us. If all of the above steps have not been followed, we will not be able to take action on a data protection request.
-
-**d. Where to send your request**
-
-Please send your data protection request, including full contact details, proof of identity and a cheque for the request fee to the following address:
-
-Jagex Ltd.  
-St. John's Innovation Centre  
-Cowley Road  
-Cambridge  
-CB4 0WS  
-United Kingdom 
-
-**What will happen next?**
-
-Upon receiving your data protection request, we will review it accordingly and contact you within 30 days. Please do not attempt to contact us before 30 days, as this will not speed up the process.
+If for data protection purposes you are concerned that the Personally Identifiable Information which we hold about you is not accurate, or should you wish to have your Personally Identifiable Information removed from our records, please see our Data Protection Policy below. 
 
   
 
