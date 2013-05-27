@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the forexminute.com privacy policy that was archived on 2012-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120323032150id_/http%3A//www.forexminute.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forexminute.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527192135id_/http%3A//www.forexminute.com/privacy-policy) for the most accurate reproduction.*
 
-# Forexminute
+# Privacy Policy - Forex Minute - Financial News | Stock Market | Trading Commodities | Binary Options Updates - Forex Minute Portal
 
-Global Invest Limited. (Hereinafter "FOREXMINUTE" or "FOREXMINUTE.COM" or "the Company" or "Global Invest Ltd." or "Global Invest" or "we") is the owner of the website forexminute.com ("The website"). This "Privacy Policy" describes how we collect, store and use information on individuals that use this Web Site. Global Invest is committed to protecting your privacy.
+Global Invest Limited. (Hereinafter “FOREXMINUTE” or “FOREXMINUTE.COM” or “the Company” or “Global Invest Ltd.” or “Global Invest” or “we”) is the owner of the website forexminute.com (“The website”). This “Privacy Policy” describes how we collect, store and use information on individuals that use this Web Site. Global Invest is committed to protecting your privacy.
 
 ###  GLOBAL INVEST Privacy Pledge
 
-The term "personal data" as used in this Policy refers to information such as your name, e-mail address or mailing address, or any data that can be used to identify you. We ensure that our staff and those acting on our behalf obtain, use and disclose personal information lawfully and correctly.
+The term “personal data” as used in this Policy refers to information such as your name, e-mail address or mailing address, or any data that can be used to identify you. We ensure that our staff and those acting on our behalf obtain, use and disclose personal information lawfully and correctly.
 
 ### Right of Information
 
@@ -30,7 +30,7 @@ The Company guarantees that your personal data will be treated with the strictes
 
 ###  Cookies and Spamming
 
-This Web Site does not use "cookies" to gather personal information such as a person's name or email address. A "cookie" is a small text file placed on your computer's hard drive or browser by a webpage server. The cookies on this website are used to hide certain publicity from the users that have chosen this option. The cookies are also used to save the identity of the user in order to allow automatic login to the private home page of the registered user, but only if this is desired.
+This Web Site does not use “cookies” to gather personal information such as a person’s name or email address. A “cookie” is a small text file placed on your computer’s hard drive or browser by a webpage server. The cookies on this website are used to hide certain publicity from the users that have chosen this option. The cookies are also used to save the identity of the user in order to allow automatic login to the private home page of the registered user, but only if this is desired.
 
 ### Sharing Information with Our Affiliates
 
@@ -42,7 +42,7 @@ Our affiliates maintain the privacy of your information to the same extent Globa
 
 Global Invest does not disclose your personal information to third parties, except as described in this Policy. Third party disclosures may include sharing such information with non-affiliated companies that perform services to you are required to maintain the confidentiality of such information to the extent they receive it and to use your personal information only in the course of providing such services and only for the purposes that Global Invest dictates. 
 
-Global Invest reserve the right to sell such information to third parties who might be interested in offering its services to Global Invest's Customers of which Global Invest find appropriate to offer its customer base. Global Invest may also disclose your personal information to third parties to fulfill your instructions or pursuant to your express consent.
+Global Invest reserve the right to sell such information to third parties who might be interested in offering its services to Global Invest’s Customers of which Global Invest find appropriate to offer its customer base. Global Invest may also disclose your personal information to third parties to fulfill your instructions or pursuant to your express consent.
 
 ###  Links to Other Websites
 
