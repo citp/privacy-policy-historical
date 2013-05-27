@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the petsafe.net privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523170422id_/http%3A//www.petsafe.net/customer-care/policies-terms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petsafe.net privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527154245id_/https%3A//www.petsafe.net/customer-care/policies-terms/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | PetSafe
+# Privacy Policy
 
-### _This document was last updated February 23, 2009._ ** ** ** **
+###  _This document was last updated February 23, 2009._ ** ** ** **
 
-Thank you for visiting www.petsafe.net ("Website" or "Site").  The purpose of this Privacy Policy is to inform you about the types of information Radio Systems Corporation ("Radio Systems," "we," "us" or "our") gathers about you when you visit this Website, how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of, and your ability to correct, the information.  By your use of this Website, you signify your assent to this Privacy Policy and our [Terms of Use](https://web.archive.org/web/20120523170422id_/http://www.petsafe.net/customer-care/policies-and-terms/Terms-of-Use).  By your use of this Site following posted changes to either the Privacy Policy or [Terms of Use](https://web.archive.org/web/20120523170422id_/http://www.petsafe.net/customer-care/policies-and-terms/Terms-of-Use), you signify your assent to those changes.  Other Radio Systems' websites may operate under their own and different Privacy Policies and we encourage you to review them.
+Thank you for visiting www.petsafe.net ("Website" or "Site").  The purpose of this Privacy Policy is to inform you about the types of information Radio Systems Corporation ("Radio Systems," "we," "us" or "our") gathers about you when you visit this Website, how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of, and your ability to correct, the information.  By your use of this Website, you signify your assent to this Privacy Policy and our [Terms of Use](https://web.archive.org/web/20130527154245id_/http://www.petsafe.net/Terms-of-Use).  By your use of this Site following posted changes to either the Privacy Policy or [Terms of Use](https://web.archive.org/web/20130527154245id_/http://www.petsafe.net/Terms-of-Use), you signify your assent to those changes.  Other Radio Systems' websites may operate under their own and different Privacy Policies and we encourage you to review them.
 
 **1\. Children's Privacy:** We take children's privacy seriously.  This Website is not directed to children.  We do not seek to collect personal information about children through our Website.  We ask that minors (under the age of 18) do not submit any personal information to us.  If we learn that someone under the age of 18 has submitted information to us through any part of our Website, we delete the information as soon as we discover it and do not use it for any purpose, nor do we disclose it to third parties.  Since we do not seek to collect any personal information about children, and we delete information collected inadvertently as soon as we discover that a child has submitted it, we typically retain no information about children that can be reviewed or deleted.  If a parent requests review or deletion of information about their child before we have discovered and removed the information, we will of course honor that request.
 
@@ -12,23 +12,17 @@ Thank you for visiting www.petsafe.net ("Website" or "Site").  The purpose of t
 
 You can browse part of this Website without telling us who you are or revealing any personal information about yourself.  However, we will gather and store certain information from your visit automatically including:
 
-·         **Your computer’s internet protocol (IP) address.**
+  * **Your computer’s internet protocol (IP) address.**
+  * **The domain from which you access the internet.**
+  * **The kind of browser or computer you use.**
+  * **The address of the internet site, banner or email from which you selected or entered a link that brought you to this Website.**
+  * **The number of links you click within this Website.**
+  * **The state or country from which you accessed this Website.**
+  * **The date and time of your visit and how long you spent visiting the Website.**
+  * **The pages you viewed on the Website.**
+  * **Your computer’s operating system.**
 
-·         **The domain from which you access the internet.**
 
-·         **The kind of browser or computer you use.**
-
-·         **The address of the internet site, banner or email from which you selected or entered a link that brought you to this Website.**
-
-·         **The number of links you click within this Website.**
-
-·         **The state or country from which you accessed this Website.**
-
-·         **The date and time of your visit and how long you spent visiting the Website.**
-
-·         **The pages you viewed on the Website.**
-
-·         **Your computer’s operating system.**
 
 We require you to create an account prior to purchasing items through the Website register your product for warranty purposes, to register for any contest or other content submission.  We ask that you provide us with certain information during the registration process. If you cannot do so, you will not be able to complete the registration process, and therefore you will not be able to access and use certain information, material and services.
 
