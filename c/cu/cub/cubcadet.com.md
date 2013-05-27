@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cubcadet.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230011814id_/http%3A//www.cubcadet.com/webapp/wcs/stores/servlet/CubCadetFullPageArticleDisplayView%3FlangId%3D-1%26storeId%3D10051%26catalogId%3D14101%26pageView%3DCubcadet_General/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cubcadet.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528000632id_/http%3A//www.cubcadet.com/equipment/CubCadetFullPageArticleDisplayView%3FlangId%3D-1%26storeId%3D10051%26catalogId%3D14101%26pageView%3DCubcadet_General/Privacy_Policy.html) for the most accurate reproduction.*
 
 # Welcome to Cub Cadet
 
@@ -51,24 +51,23 @@ From time to time, Cub Cadet may use customer information for new purposes not p
 
 Should you have other questions or concerns about this privacy statement, please send us an email or write us at:
 
-| Home Owners| Compact Tractors| Utility Vehicles| Professional  
----|---|---|---  
-cubcadet@custhelp.com| marketing@cubcadetyanmar.com| cubcadet@custhelp.com| cubcadet@custhelp.com  
+| Home Owners| Utility Vehicles| Professional  
+---|---|---  
+http://cubcadet.custhelp.com/  
+| http://cubcadet.custhelp.com/  
+| http://cubcadet.custhelp.com/  
+  
 Webmaster  
 Cub Cadet Service Division  
-P.O. Box 368022  
-Cleveland, OH 44136-9722  
-(330) 225-2600| Webmaster  
-Cub Cadet Yanmar LLC  
-P.O. Box 361052  
-Cleveland, OH 44136-1052  
-(330) 558-3495| Webmaster  
-Cub Cadet Service Division  
-P.O. Box 368022  
+P.O. Box 368023  
 Cleveland, OH 44136-9722  
 (330) 225-2600| Webmaster  
 Cub Cadet Service Division  
-P.O. Box 368022  
+P.O. Box 368023  
+Cleveland, OH 44136-9722  
+(330) 225-2600| Webmaster  
+Cub Cadet Service Division  
+P.O. Box 368023  
 Cleveland, OH 44136-9722  
 (330) 225-2600  
   
