@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the etilize.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118135134id_/http%3A//www.etilize.com/etilize-privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etilize.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527215700id_/http%3A//www.etilize.com/etilize-privacy-policy.htm) for the most accurate reproduction.*
 
 # Etilize Privacy Policy
 
 We respect the rights of our customers and website users, your information will never be given to any third-party without consent
 
-## Etilize, Inc. is committed to respecting the privacy of our users. This Privacy Statement sets forth the online data collection and usage policies and practices that apply to our website. By using our website, you consent to the policies and practices described in this Statement. 
+## GfK Etilize is committed to respecting the privacy of our users. This Privacy Statement sets forth the online data collection and usage policies and practices that apply to our website. By using our website, you consent to the policies and practices described in this Statement. 
 
 This Privacy Statement applies solely to the information collected on www.etilize.com. 
 
@@ -35,6 +35,8 @@ One of the primary purposes of cookies is to provide a convenience feature to sa
 You may have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline all cookies if you prefer. Alternatively, you may be able to modify your browser setting to notify you each time a cookie is tendered and permit you to accept or decline cookies on an individual basis. If you choose to decline cookies, however, that may hinder performance and negatively impact your experience on the Etilize Web site. 
 
 If you opted to receive newsletters, commercial e-mails or other communications from Etilize but subsequently change your mind, you may opt-out at any time by sending an email to [unsubscribe@etilize.com. ](mailto:unsubscribe@etilize.com)This e-mail address is being protected from spambots. Please type "UNSUBSCRIBE" in the subject header of the email. 
+
+## For more information about how you can opt out of Google's use of cookies, visit the [Ads Preferences Manager](https://www.google.com/ads/preferences/). You can also opt out of a third-party vendor's use of cookies by visiting the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).
 
 ## Etilize has implemented reasonable technical and organizational measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration or disclosure. However, we cannot guarantee that unauthorized third parties will never be able to defeat those measures or use your personal information for improper purposes.
 
