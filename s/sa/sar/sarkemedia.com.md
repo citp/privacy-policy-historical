@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the sarkemedia.com privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121203324id_/http%3A//www.sarkemedia.com/sarah-arrow-sark-e-media-our-commitment-to-your-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sarkemedia.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527212817id_/http%3A//www.sarkemedia.com/sarah-arrow-sark-e-media-our-commitment-to-your-privacy) for the most accurate reproduction.*
 
-# Sarah Arrow / Sark e-Media our commitment to your privacy - Blog-centric social media
+# Sarah Arrow / Sark e-Media our commitment to your privacy
 
-This site is owned and operated by [Sarah](http://www.sarkemedia.com/about/ "Sarah") Arrow / Sark e-media. Your privacy on the Internet is of the utmost importance to us. At [Sarah](http://www.sarkemedia.com/about/ "Sarah") Arrow / Sark e-media, we want to make your experience online satisfying and safe.
+This site is owned and operated by [Sarah](http://www.sarkemedia.com/about/ "Sarah") Arrow / Sark e-media. Your [privacy](http://www.sarkemedia.com/privacy/ "privacy") on the Internet is of the utmost importance to us. At [Sarah](http://www.sarkemedia.com/about/ "Sarah") Arrow / Sark e-media, we want to make your experience online satisfying and safe.
 
-Because we gather certain types of information about our users, we feel you should fully understand our policy and the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather and how we use it.
+Because we gather certain types of information about our users, we feel you should fully understand our policy and the terms and conditions surrounding the capture and use of that information. This [privacy](http://www.sarkemedia.com/privacy/ "privacy") statement discloses what information we gather and how we use it.
 
 INFORMATION [Sarah Arrow](http://www.sarkemedia.com/about/ "Sarah Arrow") / Sark e-media GATHERS AND TRACKS
 
@@ -89,20 +89,4 @@ Opting not to participate in certain interactive areas, which completely allevia
 
 YOUR CONSENT
 
-By using this site, you consent to the collection and use of this information by Sarah Arrow / Sark e-media. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. 
-
-  * Bio
-  * Twitter
-  * Facebook
-  * Google+
-  * Latest Posts
-
-
-
-#### [Sarah Arrow](http://www.sarkemedia.com/)
-
-Director of Special Projects at Sark eMedia
-
-About me, I started out as a transport blogger for a [same day courier company](http://www.arrowlighthaulage.co.uk/), and grew into a [kick-ass blog coach](http://www.sarkemedia.com/zero-to-blogger-getting-found-by-your-ideal-reader/ "Zero to Blogger ") as well as creator of [Birds on the Blog](http://www.birdsontheblog.co.uk/ "Birds on the Blog") (listed 3 times by Forbes as a top 100 website for women). If you want your blog to make a difference then you really should subscribe to my newsletter  \- it can mean the difference between your blog being a lead generating machine or staying the same, week after week.
-
-Couldn’t fetch latest tweet.
+By using this site, you consent to the collection and use of this information by Sarah Arrow / Sark e-media. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
