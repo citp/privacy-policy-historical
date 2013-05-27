@@ -1,21 +1,19 @@
-> *The following text is extracted and transformed from the marketingprofs.com privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121033153id_/http%3A//www.marketingprofs.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketingprofs.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527113809id_/http%3A//www.marketingprofs.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy : MarketingProfs
 
-Published on June 15, 2008
+MarketingProfs, LLC is deeply committed to respecting and protecting your right to privacy and takes your privacy seriously. We strive to keep your personal and financial information secure. We have prepared this privacy policy to disclose and describe our information gathering and dissemination practices for this website. 
 
-MarketingProfs, LLC has created this privacy statement in order to demonstrate our strong commitment to privacy. MarketingProfs.com is deeply committed to respecting and protecting your right to privacy and takes your privacy seriously. We have very strict privacy policies and we strive to keep your personal and financial information secure. To that end, we have prepared this privacy policy to disclose and describe our information gathering and dissemination practices for this website. 
-
-**Most of all, we value your privacy** . We do not sell, rent, loan, or give your email address or other personal information to anybody and will never do so. 
+**Most of all, we value your privacy**. We do not sell, rent, loan, or give your email address or other personal information to anybody without your express permission. 
 
 **Collection of your Personal Information**
 
-You can visit most pages on our site without giving us any information about yourself. But sometimes we do need information to provide services that you request, and this privacy policy explains data collection and use in those situations. Please read the complete MarketingProfs.com privacy policy below in conjunction with our **[Terms and Conditions](https://web.archive.org/about/terms-of-use)**.
+You can visit most pages on our website without giving us any information about yourself. But sometimes we do need information to provide services that you request, and this privacy policy explains data collection and use in those situations. Please read the complete privacy policy below in conjunction with our [Terms and Conditions](https://web.archive.org/about/terms-of-use).
 
-  * This privacy policy covers our treatment of personally identifiable information that we collect when you are on our site, and when you use our services. 
+  * This privacy policy covers our treatment of personally identifiable information that we collect when you are on our website, and when you use our services. 
   * We pledge to hold all information you provide to us in absolute privacy. 
   * We will NEVER sell or rent your name or personal information to any third party without your express permission. 
-  * We NEVER sell or rent our mailing list. 
+  * We NEVER sell or rent our email subscriber list. 
   * Only authorized employees may access your information. 
 
 
@@ -24,23 +22,23 @@ All employees are required to adhere to our strict privacy policies and any empl
 
 **Use of Your Personal Information**
 
-If you decide to become a member, you will receive a short series of orientation emails from MarketingProfs.com. From time to time, members may receive notification of new services, changes to policies or price adjustments. We will not send you other email at the address you provide, except for infrequent communications to resolve issues that may arise with your own MarketingProfs.com account. More routine announcements are made in the MarketingProfs Newsletter, rather than via email. 
+If you decide to become a member, you will receive a short series of orientation emails from MarketingProfs. From time to time, members may receive notifications about changes to policies. We will not send you any other unsolicited email at the address you provide, except for infrequent communications to resolve issues that may arise with your own MarketingProfs.com account. We also offer a variety of optional newsletter and promotional subscriptions. We send these emails only to members who have elected to see them. Members can manage their opt-in and opt-out status at any time from [this page in My Account](https://www.marketingprofs.com/newprem/editaccount/acct_mail.asp).
 
-Our site uses cookies to save your username and password if you become a member and decide to use the "Remember Me" option. This means you don't have to re-enter these items each time you visit our site. You can always logout which will delete this cookie from your computer. 
+Special offers are sometimes sent to Basic members on behalf of third parties. But these third parties do not have access to personal information since we alone send out the emails. All recipients of third-party emails are given the opportunity to opt-out of future third-party mailings at any time by clicking the link at the bottom of any email or by changing email preference settings on [this page in My Account](https://www.marketingprofs.com/newprem/editaccount/acct_mail.asp).
+
+Our site uses cookies to save your username and password if you become a member and decide to use the "Remember Me" option. This means you don't have to re-enter these items each time you visit our website. You can always logout which will delete this cookie from your computer. 
 
 We may track and store geolocation information related to your IP address. This information may be used to provide you with the most relevant material, as well as allow for more effective communications.
 
 Additionally, we use session variables to aid in the development of various features on the site. These session variables disappear after 20 minutes or when the user exits a browser. Thus, this information is not stored for any reason other than as indicated. 
 
-The user's contact information is also used to send a newsletter if you are a member or subscribe to the newsletter. Special offers are sometimes sent to subscribers as well on behalf of third parties. But these third parties do not have access to your information since we alone send out the emails. However, all recipients of the newsletter may opt-out of receiving future newsletters or offers when so desired, and are given opportunity to opt-out of these emails at any time - at the bottom of each newsletter or by using the [**My Account**](http://www.marketingprofs.com/newprem/editaccount) link on the right and bottom navigation bars on the site. 
+We may also use personal information in a manner that does not identify you specifically nor allow you to be contacted but does identify certain criteria about our users in general. For example, we may inform third parties about the number of registered users, number of unique visitors, and the pages most frequently browsed.
 
-We may also use personal information in a manner that does not identify you specifically nor allow you to be contacted but does identify certain criteria about our users in general. For example, we may inform third parties about the number of registered users, number of unique visitors, and the pages most frequently browsed. 
-
-Aside from these uses of user information - and we have no knowledge of this information except at an anonymous level - we do not sell, nor plan to sell any user information to anyone. 
+Aside from these uses of user information, we do not sell, nor plan to sell any user information to anyone. 
 
 **Protection of Children's Personal Information**
 
-MarketingProfs.com is a general audience site and does not knowingly collect any personal information from children. While our website may be viewed by children, we do not wish to receive data from children. MarketingProfs.com encourages parents and guardians to spend time online with their children and to participate in the interactive activities offered on the sites their children visit. No information should be submitted to, or posted at, the MarketingProfs.com web site by visitors under 18 years of age without the consent of their parent or guardian. 
+MarketingProfs.com is a general audience website and does not knowingly collect any personal information from children. While our website may be viewed by children, we do not wish to receive data from children. MarketingProfs.com encourages parents and guardians to spend time online with their children and to participate in the interactive activities offered on the sites their children visit. No information should be submitted to, or posted at, the MarketingProfs.com web site by visitors under 18 years of age without the consent of their parent or guardian. 
 
 **Links to Third Party Sites**
 
