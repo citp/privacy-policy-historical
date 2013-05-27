@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eyedealab.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223112756id_/http%3A//eyedealab.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eyedealab.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527055711id_/http%3A//eyedealab.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Eyedea Lab - Graphics design & Website design Services
+# Privacy Policy - Eyedea Lab
 
 **EyedeaLab** is committed to protecting the privacy and personal information that visitors may provide for information purposes. This information is necessary in order to provide appropriate service.
 
