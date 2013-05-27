@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tods.com privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115094431id_/http%3A//www.tods.com/us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tods.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527194649id_/http%3A//www.tods.com/us/privacy) for the most accurate reproduction.*
 
 # Tod's Privacy Policy
 
