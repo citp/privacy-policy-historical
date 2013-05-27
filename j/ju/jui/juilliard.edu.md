@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the juilliard.edu privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919212922id_/http%3A//www.juilliard.edu/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the juilliard.edu privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527021456id_/http%3A//www.juilliard.edu/juilliard-school-web-site-privacy-statement) for the most accurate reproduction.*
 
-# Juilliard School Web Site Privacy Statement - The Juilliard School
+# Juilliard School Web Site Privacy Statement | The Juilliard School
 
-Thank you for visiting The Juilliard School Web site. We have a firm commitment to your privacy. The policies outlined herein pertain to the Juilliard Web site (www.juilliard.edu) and the Juilliard Alumni Online Community.
+Thank you for visiting The Juilliard School Web site. We have a firm commitment to your privacy. The policies outlined herein pertain to the Juilliard Web site ([www.juilliard.edu](http://www.juilliard.edu/)) and the Juilliard Alumni Online Community.
 
-Please note: Juilliard's online application form is hosted by the Hobsons Inc. and is governed by that organization's own privacy policies, which may be read online at [app.applyyourself.com/Common/AppSecurity.htm](https://app.applyyourself.com/Common/AppSecurity.htm).
+Please note: Juilliard's online application form is hosted by the Hobsons Inc. and is governed by that organization's own privacy policies, which may be read online at [app.applyyourself.com/Common/AppSecurity.asp](https://app.applyyourself.com/Common/AppSecurity.asp).
 
 The Juilliard School has taken considerable precautions to ensure security for our online visitors. However, since data transmission over the Internet cannot be guaranteed to be 100 percent secure, we cannot ensure the absolute security of the information that you transmit or provide to us.
 
@@ -30,7 +30,7 @@ Juilliard occasionally shares aggregated demographic information with partners a
 
 Whenever Juilliard partners with outside vendors to provide specific services for the School, our agreements with those parties prohibit them from using personally identifiable information about you except for the sole purpose of providing those services.
 
-When you sign up for a mailing list or make a contribution from this Web site, Juilliard will use information provided in order to contact you about activities of The Juilliard School. From time to time, we may share this information with carefully selected partners. Should you decide that you prefer that your information not be used for these purposes, you may notify us of your preference by writing to us at [development@juilliard.edu](mailto:development@juilliard.edu), and we will honor your request.
+When you sign up for a mailing list or make a contribution from this Web site, Juilliard will use information provided in order to contact you about activities of The Juilliard School. From time to time, we may share this information with carefully selected partners. Should you decide that you prefer that your information not be used for these purposes, you may notify us of your preference by writing to us at [development@juilliard.edu](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=development@juilliard.edu), and we will honor your request.
 
 ### SSL (Secure Sockets Layer)
 
@@ -52,14 +52,14 @@ The Juilliard Web site may provide links to other Web sites or resources. We hav
 
 Members of the Juilliard Alumni Online Community voluntarily provide us with personal contact information and may occasionally receive electronic mailings from The Juilliard School. Alumni address, phone, and e-mail contact information are available exclusively to the members of the Juilliard Alumni Online Community via a password-protected logon. This information may be made available to other alumni through the Online Alumni Directory, but participation in the Directory is voluntary: alumni are given the opportunity to opt out of the Alumni Directory when they register for the Online Community. Once they have opted in, they then have the chance to determine what personal data to display to their classmates on an item-by-item basis by unchecking the "Make Private" checkbox on their Profile Update form, which defaults to private (that is, "Do Not Display") for all fields except alumni last names and class years.
 
-The School does give some personally identifiable information to its affinity partners — companies that provide benefits to the alumni community — on a one-time only basis. Alumni may request at any time to be removed from the mailing list given to Juilliard's affinity partners by e-mailing the Office of Alumni Relations (alumni@juilliard.edu), or by phone at (212) 799-5000, ext. 344.
+The School does give some personally identifiable information to its affinity partners — companies that provide benefits to the alumni community — on a one-time only basis. Alumni may request at any time to be removed from the mailing list given to Juilliard's affinity partners by e-mailing the Office of Alumni Relations ([alumni@juilliard.edu](mailto:alumni@juilliard.edu)), or by phone at (212) 799-5000, ext. 344.
 
 ### Online Alumni Profile Updates and Donations
 
-If you complete the profile update form in the Online Alumni Community and share your personally identifiable information, this information will be used only to provide you with more individually targeted content. We may use your contact information to send further information about our organization or to contact you when necessary. You may opt-out of receiving future mailings by e-mailing the Office of Alumni Relations (alumni@juilliard.edu), or by phone at (212) 799-5000, ext. 344.
+If you complete the profile update form in the Online Alumni Community and share your personally identifiable information, this information will be used only to provide you with more individually targeted content. We may use your contact information to send further information about our organization or to contact you when necessary. You may opt-out of receiving future mailings by e-mailing the Office of Alumni Relations ([alumni@juilliard.edu](mailto:alumni@juilliard.edu)), or by phone at (212) 799-5000, ext. 344.
 
 ### Questions About Our Policies
 
-When you sign up for a mailing list or make a contribution from this Web site, Juilliard will use information provided in order to contact you about activities of The Juilliard School. From time to time, we may share this information with carefully selected partners. Should you decide that you prefer that your information not be used for these purposes, you may notify us of your preference by writing to us at [development@juilliard.edu](mailto:development@juilliard.edu), and we will honor your request.
+When you sign up for a mailing list or make a contribution from this Web site, Juilliard will use information provided in order to contact you about activities of The Juilliard School. From time to time, we may share this information with carefully selected partners. Should you decide that you prefer that your information not be used for these purposes, you may notify us of your preference by writing to us at [development@juilliard.edu](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=development@juilliard.edu), and we will honor your request.
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please e-mail the Juilliard Publications Office at [publications@juilliard.edu](mailto:publications@juilliard.edu), or, for questions about the Juilliard Alumni Online Community, e-mail [alumni@juilliard.edu.](mailto:alumni@juilliard.edu)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please e-mail the Juilliard Publications Office at [publications@juilliard.edu](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=publications@juilliard.edu), or, for questions about the Juilliard Alumni Online Community, e-mail [alumni@juilliard.edu.](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=alumni@juilliard.edu)
