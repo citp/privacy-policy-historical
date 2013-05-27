@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shoppersbase.com privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125075359id_/http%3A//www.shoppersbase.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoppersbase.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527145608id_/http%3A//www.shoppersbase.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - ShoppersBase
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
 
