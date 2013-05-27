@@ -1,80 +1,176 @@
-> *The following text is extracted and transformed from the standardchartered.co.in privacy policy that was archived on 2008-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080527093747id_/http%3A//www.standardchartered.com/in/home/datapp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the standardchartered.co.in privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527194859id_/http%3A//www.standardchartered.co.in/website-privacy-statement.html) for the most accurate reproduction.*
 
-# Standard Chartered Bank
+# Website Privacy Statement – Standard Chartered Bank India
 
-_**
+Standard Chartered Bank respects your privacy and we are committed to keeping your personal information and other data confidential and secure.
 
-DATA PROTECTION AND PRIVACY POLICY
+  1. **When does this Website Privacy Statement apply?**
 
-**_ ****
+This Website Privacy Statement explains the approach taken by Standard Chartered Bank, India Branch and the members of the Standard Chartered Group ("SCB", “we” or “us”) toward the personal information and data that we collect about you (“Your Information”) when you visit this Website, electronically respond to our online advertisements or when you send us communications via any computer, mobile or other similar electronic devices (“Device”). It does not apply to information we collect in other ways e.g. when you are dealing with our staff in a branch or over the telephone. In these cases, there may be other privacy statements and terms and conditions that are applicable.
 
-This Data Protection and Privacy Policy relates solely to personal information supplied by you on this Web Site. It is necessary for you to supply Standard Chartered Bank (Standard Chartered) with personal information on this Web Site in connection with the provision of the services you have requested or are about to request at this Web Site. Failure to supply such information may result in Standard Chartered being unable to provide these services. 
+This Website Privacy Statement is limited to information and data collected on this Website, our online advertisements and electronic communications. Our Website Privacy Statement does not apply when you leave our Website, including third-party websites where our online advertisements are displayed or links to third-party websites which we do not operate or control. Please read the privacy statements and terms and conditions of these third-party websites and decide whether they satisfactorily protect your rights.
 
-Standard Chartered respects the privacy of your personal information. The purposes for which any personal information provided by you to Standard Chartered through this Web Site may be used will vary depending on the nature of the relationship, which you as a data subject have with Standard Chartered. Broadly, they may comprise all or any one or more or of the following purposes (but shall not be restricted to):
+  2. **You consent to our use of Your Information and Cookies**
 
-    1. the processing of applications for banking services and facilities;
-    2. the daily operation of the services and facilities provided to its customers;
-    3. conducting credit checks;
-    4. assisting other financial institutions to conduct credit checks and collect debts;
-    5. ensuring ongoing credit worthiness of data subjects;
-    6. designing financial services or related products for customers' use;
-    7. marketing financial services or related products;
-    8. determining the amount of indebtedness owed to or by data subjects;
-    9. the enforcement of data subjects' obligations, including without limitation the collection of amounts outstanding from data subjects and those providing security for data subjects' obligations;
-    10. meeting the requirements to make disclosure under the requirements of any law binding on Standard Chartered or its head office or any of its branches; 
-    11. enabling an actual or potential assignee of Standard Chartered, or participant or sub-participant of Standard Chartered's rights in respect of the data subject, to evaluate the transaction intended to be the subject of the assignment, participation or sub-participation; and 
-    12. purposes relating to any of the above purposes.
+By using this Website, responding to our online advertisements and/or providing Your Information you consent to: (a) our use of Cookies (see section 3(a) below) and our use of Your Information as described in this Website Privacy Statement; and (b) the terms and conditions of this Website Privacy Statement. If you do not consent then please do not proceed further and do not provide Your Information. 
+
+  3. **What information do we collect about you?**
+
+The Website is designed to use Cookies to collect information about how people use the Website (see _Use of Cookies_ ) and in some parts of our Website, we specifically ask for Your Information (see _Online Forms_ and _Job Applicants_ ). Otherwise, you can use the Website without providing Your Information.
 
 
 
-This Policy will not alter or affect any information otherwise provided by you to Standard Chartered. 
 
-The details which you are requested to provide on this Web Site may be transferred within the Standard Chartered Group. This may include transfer to other parts of the Standard Chartered Group in different jurisdictions and by using this Web Site you consent to such transfer. In providing your email address, telephone and facsimile numbers you are agreeing that Standard Chartered may contact you by email, telephone or facsimile. Other than to those individuals and entities listed below, Standard Chartered will not reveal your details to any external body, unless Standard Chartered either has your permission, or is under a legal obligation or any other duty to do so. The information provided by you at this Web Site may be disclosed by Standard Chartered to the following parties for the purposes set out in the foregoing paragraphs: 
+a. **Use of Cookies**
 
-  * Regulators;
-  * Lawyers; 
-  * Auditors; 
-  * Any agent, contractor or third party service provider who provides administrative, telecommunications, computer, payment or securities clearing or other services to Standard Chartered in connection with the operation of its business;
-  * Any other person under a duty of confidentiality to Standard Chartered including a Standard Chartered Group company which has undertaken to keep such information confidential;
-  * The drawee bank providing a copy of a paid cheque (which may contain information about the payee) to the drawer;
-  * Credit reference agencies and, in the event of default, debt collection agencies;
-  * Any actual or proposed assignee of Standard Chartered or participant or sub-participant or transferee of Standard Chartered 's rights in respect of the data subject.
-  * Other companies in the same Group
-  * Standard Chartered’s business alliance partners.
+Cookies are small data files which are placed on your Device when you visit certain parts of   
+our Website or click on our online advertisements. Cookies and similar technologies are used to identify your Device   
+for the following purposes:- 
 
+**(i) Strictly necessary cookies.** These essential cookies are set throughout our Website and are   
+required for the operation of our Website to:
+
+  * allow our web server to determine whether the cookies setting on your web browser has been enabled or disabled. This allows us to know whether data can be collected from your web browser;
+  * temporarily allow you to carry information between pages of our Website to avoid having to re-enter that information;
+  * temporarily identify your Device after you have logged in to a secure page on our Website so that our web server can maintain a dialogue with your web browser in order for you to carry out certain activities.
 
 
-Standard Chartered wishes to assure you that your personal information will be treated as confidential and with high standards of security. Standard Chartered pledges its intention fully to meet internationally recognised standards of personal data privacy protection and to comply with the requirements of applicable data protection / privacy laws. In doing so, we will ensure compliance by our staff with the strictest standards of security and confidentiality. In addition Standard Chartered Group has implemented a mandatory IT security policy, which is intended to achieve a level of security compliance similar to the relevant elements of British Standard 7799. 
 
-Despite taking all efforts and maintaining / exercising all care and caution, any information passed to any person though not due to a fault on the part of Standard Chartered, SCB will not be in any ways liable.
+**(ii) Analytical/performance cookies.** These are used to help us improve our Website by:
 
-**However, it is your responsibility at all times to maintain the secrecy of your user ID and login password.**
+  * tracking your visits to our Website and recognising your web browser when you are a repeat visitor so that we can gather statistics on new and repeat visitors to evaluate site effectiveness.
 
-Personal data provided by you are retained for as long as the purposes for which such data were collected continue. Data are then destroyed unless their retention is required to satisfy legal, regulatory or accounting requirements or to protect Standard Chartered 's interests. As a general rule the maximum retention period is 11 years.
 
-In order to improve our Internet service to you, we will occasionally use a "cookie". A cookie is a small amount of data that our web server sends to your web browser when you visit certain parts of our site. We use cookies to assist our understanding of your interest in our Web Site and to store and maintain user preferences. 
 
-Standard Chartered reserves the right to amend its prevailing Data Protection and Privacy Policy at any time and will place any such amendments on this Web Site. This Data Protection and Privacy Policy is not intended to, nor does it, create any contractual rights whatsoever or any other legal rights, nor does it create any obligations on Standard Chartered in respect of any other party or on behalf of any party. Nothing in this Notice shall limit the rights of data subjects under the Laws of India.
+**(iii) Functionality cookies.** These are used to recognise you when you return to our Website. This enables us to:
 
-You have the right to ascertain Standard Chartered 's policies and practices in relation to personal data, to be informed of the kind of personal data held by Standard Chartered and to check whether Standard Chartered holds data about you. You also have the right to request correction of and, on payment of a fee, access to personal information about you held by us. 
+  * personalise our content for you and remember your preferences (for example, your choice of language and region);
+  * store your login and other preferences so you do not have to re-enter that information when you return to the Website.
 
-In relation to consumer credit you also have the right to request to be informed which items of data are routinely disclosed to credit reference agencies and, in the event of default, to debt collection agencies, and to be provided with further information to enable the making of an access or correction request to the relevant credit reference agency or debt collection agency. 
 
-If you wish to access or to ask for correction or deletion of any of your personal data held by us, or if you have any questions concerning our data protection and privacy policies and practices and kinds of personal data held, please contact the Standard Chartered Customer Care Officer at: 
 
-**
+**(iv) Targeting / advertising cookies.** These cookies record your visit to our Website, your response to our online advertisements, track the pages you have visited and the website links you have followed. We use this information to:
 
-STANDARD CHARTERED BANK
+  * make our Website more relevant to your interests;
+  * provide online advertisements or offers on our Website or third-party websites which are most likely to interest you;
+  * limit the number of times you see an advertisement and evaluate the effectiveness of our online marketing and advertising programs.
 
-Post Box # 8888 
 
-Chennai 
 
-**
+The above cookies may be placed on your Device by us or by third parties on our behalf (for example, advertising networks and providers of external services like web traffic analysis services).
 
-**India**
+Most web browsers are initially set up to accept cookies. You can choose to ‘not accept’ cookies by changing the settings on your web browser but if you block all cookies, including strictly necessary cookies, you may find that certain features on our Website will not work properly.
 
-  
-****
+**(iii) Functionality cookies.** These are used to recognise you when you return to our Website. This enables us to:
 
-**COPYRIGHT©STANDARD CHARTERED PLC 2000. ALL RIGHTS RESERVED.**
+b. **Online Forms**
+
+There are sections of the Website where we ask for personal information, for example, when you complete online forms to submit an enquiry, apply for a particular product or service or if you register to use our secure online services such as Online Banking. Please ensure you also read any applicable Terms and Conditions for these products and services.  
+Using this Website we may collect the following types of Your Information from the online forms as follows:
+
+  * Basic personal particulars;
+  * Contact information;
+  * Employment information; and/or
+  * Income information;
+
+
+
+c. **Job Applicants**
+
+Personal information provided on our Website in connection with an application for employment will be used to determine your suitability for a position with the SCB Group and, if applicable, your terms of employment or engagement. Your Information may also be used to monitor our recruitment initiatives and equal opportunities policies. Applicant details may be disclosed to third parties to verify or obtain additional information including education institutions, current/previous employers and credit reference agencies. Credit reference agencies record these searches and you can contact us to find out which agencies we used. Unsuccessful applications may be retained to match your skills to future job opportunities. These are usually retained for up for 12 months but please let us know if you do not wish us to retain Your Information for this purpose. 
+
+d. **Electronic Communications**
+
+If you contact us via email, we may keep a record of that correspondence.
+
+**4\. How we use Your Information**
+
+We will always treat Your Information as confidential. We will use good practices to keep it secure and will otherwise abide by the relevant data protection and privacy laws.
+
+a. **Using Your Information - Purposes**
+
+If you provide Your Information on the Website in relation to any products and services from SCB, or send us an electronic communication, we will use Your Information for the purposes (“Purposes”) of providing and operating the product or service you request or responding to your electronic communication and for other related purposes that may include: 
+
+  * following up on any product or service application which you have shown interest in;
+  * updating our records about you;
+  * understanding your financial needs;
+  * conducting credit checks and assisting other financial institutions to conduct credit checks;
+  * crime or fraud detection, prevention and prosecution;
+  * debt collection;
+  * complying with laws or regulations;
+  * research and statistical analysis with the aim of improving our products and services;
+  * handling queries and complaints;
+  * daily operation of the services and facilities provided to you;
+  * designing financial services or related products for you; 
+  * enabling us to assign or securitise the business as a whole or part thereof in any manner;
+  * enabling any actual or potential assignee, participant or sub-participant of SCB's rights in respect of the data, to evaluate the transaction intended to be the subject of the assignment, participation or sub-participation.
+
+Please ensure you also read the Terms and Conditions applicable to these products and services.
+
+b. **Marketing**
+
+We generally do not use Your Information collected on this Website for marketing purposes but if you apply for products and services on the Website, Your Information may be used to inform you about other related products and services of SCB Group that may be of interest.
+
+If you wish to be contacted about related products and services please indicate on the relevant box situated on the online form on which we collect Your Information.
+
+c. **Disclosing Your Information**
+
+When using Your Information for the Purposes we may need to disclose it to more than one company within the SCB Group and to our affiliates, agents, advisors and third party service providers (“Other Parties”). When this happens we will require the Other Parties to handle Your Information using the same level of care that we apply. We will also require them to only use Your Information according to our instructions and directions.  
+If the Other Parties are overseas Your Information may be sent to another country including countries with weaker privacy and data protection laws than in your country of residence. We will not otherwise disclose Your Information to third parties unless we have your permission or we are under a legal or similar obligation.   
+This means, by way of example, that Your Information may be disclosed to:
+
+    * regulators, supervisors, governments or quasi-governmental authorities in countries where we, our agents, advisors or third party service providers have a presence.
+    * agents, advisors or third party service providers under a duty of confidentiality to the SCB Group.
+    * credit reference, debt collection, anti-money laundering and fraud prevention agencies (where necessary for the Purposes).
+
+d. **Retaining Your Information**
+
+We will retain Your Information for as long as the Purpose for which we collected it continues. It is then destroyed unless further retention is required to satisfy a legal, regulatory or accounting requirement or to protect our interests.
+
+**5\. Privacy, security and communications using the Internet**
+
+a.The Internet is not a secure form of communication and sending and receiving information over the Internet carries with it risks including the risk of access and interference by unauthorised third parties. It is your responsibility to maintain the secrecy of any user ID and login password you hold.
+
+b.Information passing over the Internet may be transmitted internationally (even when sender and recipient are located in the same country) via countries with weaker privacy and data protection laws than in your country of residence. As a result, we do not accept responsibility or liability for the confidentiality, security or integrity of Your Information in connection with its transmission over the Internet. 
+
+c.In order to maintain the security of our systems, protect our staff, record transactions, and, in certain circumstances, to prevent and detect crime or unauthorised activities, we reserve the right to monitor all Internet communications including web and email traffic into and out of our domains.
+
+**6\. Accessing and updating Your Information and contacting us**
+
+If you wish to report any discrepancy or have any grievance with regards to Your Information provided or if you have any questions about our Website Privacy Statement, you may write to us:
+
+**_For Corporate Customers:_**  
+Standard Chartered Bank  
+Client Services Group  
+Crescenzo, 3rd Floor  
+C – 38 /39, G – Block  
+Behind MCA Club  
+Bandra Kurla Complex, Bandra (East)  
+Mumbai 400 051
+
+Email address:[ **Straight2bank.in@sc.com**](mailto:Straight2bank.in@sc.com)
+
+**_For Retail Customers:_**  
+Standard Chartered Bank  
+Customer Care Unit,  
+19, Rajaji Salai   
+Post Box No. 1359  
+Chennai 600 001
+
+Email address:  
+[ **customer.care@sc.com**](mailto:customer.care@sc.com)
+
+**8\. Changes to our Website Privacy Statement**
+
+Standard Chartered wishes to assure you that your personal information will be treated as confidential and with high standards of security. Standard Chartered pledges its intention fully to meet internationally recognised standards of personal data privacy protection and to comply with the requirements of applicable data protection / privacy laws. Standard Chartered Group has implemented a mandatory IT security policy that is based on international best practices and the risk based approach. In doing so, we will ensure compliance by our staff with the strictest standards of security and confidentiality.
+
+**7\. IT security policy**
+
+We update our Website Privacy Statement from time to time and ask that you regularly check this Website to make sure you are familiar with the most recent version.
+
+This Website Privacy Statement was last updated on 24 August 2012.
+
+COPYRIGHT©STANDARD CHARTERED PLC 2012. ALL RIGHTS RESERVED.
+
+
+
