@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theherald.co.za privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127132813id_/http%3A//www.peherald.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theherald.co.za privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527150703id_/http%3A//www.peherald.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
