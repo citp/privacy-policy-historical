@@ -1,20 +1,15 @@
-> *The following text is extracted and transformed from the cloudmagic.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221171845id_/https%3A//cloudmagic.com/k/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloudmagic.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528013526id_/https%3A//cloudmagic.com/k/privacypolicy) for the most accurate reproduction.*
 
-# Privacy policy | CloudMagic
+# Privacy Policy | CloudMagic
 
-#####  In a nutshell  
+Effective Date: January 1, 2012  
+Last updated: April 24, 2013 
 
-  * Your data is yours and therefore only read by you. Neither do we read it, nor share with anyone else.
-  * We use OAuth (wherever possible) which gives us access to your data without letting us know your password. Your data and credentials are absolutely safe with us.
-  * If you delete any account from CloudMagic, we permanently delete the data and credentials from our servers almost instantly. 
-
-
-
-##### Unabridged version 
+[](http://www.etrust.org/cert/687679.html)
 
 ##### Introduction
 
-This policy describes what information we collect when you use our service and how we use this information collected. We are not in the business of loaning, renting or selling information to others. We only use the information collected to better the service offered to you. 
+This Policy describes what information we collect when you use our service and how we use this information collected. We are not in the business of loaning, renting or selling information to others. We only use the information collected to better the service offered to you. 
 
 ##### Your privacy is important to us
 
@@ -22,11 +17,11 @@ Webyog, Inc. is committed to protect your privacy. Through the CloudMagic websit
 
 ##### Collection, use and disclosure of General Statistical Information
 
-When you visit our website and use our applications we gather usage statistics. This information is referred to throughout this policy as "General Statistical Information". We use and store this data only on a collective basis, in summary form, rather than on an individual basis. This data helps us to determine how and the extent to which certain parts of our website and applications are used. The stored General Statistical Information does not contain any Personal Identifying Information about you or any of our other users. 
+When you visit our website and use our applications we gather usage statistics. This information is referred to throughout this Policy as "General Statistical Information". We use and store this data only on a collective basis, in summary form, rather than on an individual basis. This data helps us to determine how and the extent to which certain parts of our website and applications are used. The stored General Statistical Information does not contain any Personal Identifying Information about you or any of our other users. 
 
 ##### Collection and use of Personal Identifying Information
 
-In addition to collecting General Statistical Information, we may ask you to provide us with certain personal information. Information that can reasonably be used to identify you is referred to in this policy as "Personal Identifying Information". The following describes each aspect of Personal Identifying Information: 
+In addition to collecting General Statistical Information, we may ask you to provide us with certain personal information. Information that can reasonably be used to identify you is referred to in this Policy as "Personal Identifying Information". The following describes each aspect of Personal Identifying Information: 
 
   1. Account info
 
@@ -45,11 +40,20 @@ The only manner in which your data is used is when you carry out a search - in w
 
   
 
-  3. Support queries
+  3. Our policy towards children
+
+CloudMagic does not knowingly collect information from children under the age of 13. If we learn that we have inadvertently collected personally identifiable information such as email address or name from children under the age of 13, we will promptly delete it. Parents and guardians can contact us on [feedback@cloudmagic.com](mailto:feedback@cloudmagic.com) if they are aware that their child has provided us with personal information without their consent. 
+  
+
+  4. Support queries
 
 The support queries you write to us about might contain personal information. We use this information solely to help you resolve the issues reported and improve the product quality. 
 
 
+
+##### Cookies
+
+A cookie is a small text file that is sent from a web server to your browser and stored on your computer. We use persistent session cookies which ensure that you don't have to log in each time you visit. CloudMagic never stores your information that we consider personal or private in a cookie. In addition to our own cookies, we make use of third-party services like Google Analytics to track usage and volume statistics to help us analyse how the service is used. Because CloudMagic is entirely personalized, your browser must accept cookies for us to provide our services to you.
 
 ##### Deletion of account authentication/passwords and data
 
@@ -61,13 +65,19 @@ We will only disclose your Personal Identifying Information to third parties if 
 
 We never loan, rent or sell your Personal Identifying Information to others. 
 
+If CloudMagic should have its assets sold to or merged with another entity, user information collected through the service may be among the items sold or transferred. The user will have the rights to delete his/her data.
+
 ##### Third-party websites
 
-The CloudMagic website may contain links to third-party websites over which we have no control or responsibility regarding content, privacy policies, or practices. We suggest that you review the privacy policy applicable to any third party site that you visit. This privacy policy applies only to our own website at [https://cloudmagic.com](https://web.archive.org/). 
+The CloudMagic website may contain links to third-party websites over which we have no control or responsibility regarding content, privacy policies, or practices. We suggest that you review the Privacy Policy applicable to any third party site that you visit. This Privacy Policy applies only to our own website at [https://cloudmagic.com](https://web.archive.org/).
 
-##### Changes to the Webyog privacy policy
+##### Financial information
 
-Webyog may amend this policy at any time by posting the amended terms on our website. All amended terms will be automatically effective without further notice, 30 days after they are first posted. If you have any comments on this privacy policy please email us at [feedback@cloudmagic.com](mailto:feedback@cloudmagic.com) or write to us at: 
+We use Stripe, a secure third party payment processor to process all the credit card transactions. This means that your credit card information never reaches CloudMagic servers/employees, and is sent directly from your web browser to Stripe over a secure SSL connection. Stripe has the most stringent level of PCI compliance in the industry. [Here's more on how Stripe handles security](https://stripe.com/help/security). We also use Apple iTunes and Google Play Store to collect payments directly within apps. Their respective security policies can be found [here](http://www.apple.com/legal/itunes/us/terms.html) and [here](http://support.google.com/googleplay/bin/topic.py?hl=en&topic=2450225&parent=1100168&ctx=topic). 
+
+##### Changes to the Webyog Privacy Policy
+
+Webyog may amend this Policy at any time by posting the amended terms on our website. All amended terms will be automatically effective without further notice, 30 days after they are first posted. If you have any comments on this Privacy Policy please email us at [feedback@cloudmagic.com](mailto:feedback@cloudmagic.com) or write to us at: 
 
 Webyog, Inc.  
 2900 Gordon Avenue, Suite 100-7P  
