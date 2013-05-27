@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avidarticles.com privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114190441id_/http%3A//www.avidarticles.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avidarticles.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527024441id_/http%3A//www.avidarticles.com/privacy.php) for the most accurate reproduction.*
 
 # Avid Articles Free Content For Your Website Ezine or Blog avidarticles.com
 
