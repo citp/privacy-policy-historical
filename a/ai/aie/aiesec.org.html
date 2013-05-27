@@ -1,0 +1,393 @@
+<!--The following is the downloaded HTML source of the aiesec.org privacy policy that was archived on 2013-05-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130527184147id_/http%3A//www.aiesec.org/cms/aiesec/AI/privacy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<title>AIESEC Privacy Policy</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="stylesheet" href="http://www.myaiesec.net/cms/aiesec/stylesheets/screen.css" type="text/css" media="screen">
+<!--[if IE]>
+<link rel="stylesheet" href="http://www.myaiesec.net/cms/aiesec/stylesheets/ie.css" type="text/css" media="screen, projection" />
+<![endif]-->
+<link rel="stylesheet" href="http://www.myaiesec.net/cms/aiesec/stylesheets/styles.css" type="text/css" media="screen">
+<script type="text/javascript" src="http://www.myaiesec.net/cms/aiesec/js/jquery-1.3.2.js"></script>
+<script src="Scripts/swfobject_modified.js" type="text/javascript"></script>
+<script type="text/javascript"> 
+/* <![CDATA[ */
+ 
+$(document).ready(function() {		
+	
+	//Execute the slideShow, set 4 seconds for each images
+	slideShow(4000);
+ 
+});
+ 
+function slideShow(speed) {
+ 
+ 
+	//append a LI item to the UL list for displaying caption
+	$('ul.slideshow').append('<li id="slideshow-caption" class="caption"><div class="slideshow-caption-container"><h3></h3><p></p></div></li>');
+ 
+	//Set the opacity of all images to 0
+	$('ul.slideshow li').css({opacity: 0.0});
+	
+	//Get the first image and display it (set it to full opacity)
+	$('ul.slideshow li:first').css({opacity: 1.0});
+	
+	//Get the caption of the first image from REL attribute and display it
+	$('#slideshow-caption h3').html($('ul.slideshow a:first').find('img').attr('title'));
+	$('#slideshow-caption p').html($('ul.slideshow a:first').find('img').attr('alt'));
+		
+	//Display the caption
+	$('#slideshow-caption').css({opacity: 0.7, bottom:0});
+	
+	//Call the gallery function to run the slideshow	
+	var timer = setInterval('gallery()',speed);
+	
+	//pause the slideshow on mouse over
+	$('ul.slideshow').hover(
+		function () {
+			clearInterval(timer);	
+		}, 	
+		function () {
+			timer = setInterval('gallery()',speed);			
+		}
+	);
+	
+}
+ 
+function gallery() {
+ 
+ 
+	//if no IMGs have the show class, grab the first image
+	var current = ($('ul.slideshow li.show')?  $('ul.slideshow li.show') : $('#ul.slideshow li:first'));
+ 
+	//Get next image, if it reached the end of the slideshow, rotate it back to the first image
+	var next = ((current.next().length) ? ((current.next().attr('id') == 'slideshow-caption')? $('ul.slideshow li:first') :current.next()) : $('ul.slideshow li:first'));
+		
+	//Get next image caption
+	var title = next.find('img').attr('title');	
+	var desc = next.find('img').attr('alt');	
+ 
+	//Set the fade in effect for the next image, show class has higher z-index
+	next.css({opacity: 0.0}).addClass('show').animate({opacity: 1.0}, 1000);
+	
+	//Hide the caption first, and then set and display the caption
+	$('#slideshow-caption').animate({bottom:-70}, 300, function () {
+			//Display the content
+			$('#slideshow-caption h3').html(title);
+			$('#slideshow-caption p').html(desc);				
+			$('#slideshow-caption').animate({bottom:0}, 500);	
+	});		
+ 
+	//Hide the current image
+	current.animate({opacity: 0.0}, 1000).removeClass('show');
+ 
+}
+ 
+/* ]]> */
+</script> 
+<script src="http://www.google.com/jsapi" type="text/javascript"></script>
+<script type="text/javascript" charset="utf-8">
+	google.load("jquery", "1.3");
+</script>
+<link rel="stylesheet" href="http://www.myaiesec.net/cms/aiesec/stylesheets/prettyPhoto.css" type="text/css" media="screen" title="prettyPhoto main stylesheet" charset="utf-8">
+<script src="http://www.myaiesec.net/cms/aiesec/js/jquery.prettyPhoto.js" type="text/javascript" charset="utf-8"></script>
+
+<style type="text/css" media="screen">
+	* { margin: 0; padding: 0; }
+	.wide {
+		border-bottom: 1px #000 solid;
+		width: 4000px;
+	}
+</style>
+
+<link rel="stylesheet" type="text/css" href="http://www.myaiesec.net/cms/aiesec/stylesheets/superfish.css" media="screen">
+<script type="text/javascript" src="http://www.myaiesec.net/cms/aiesec/js/jquery-1.2.6.min.js"></script>
+<script type="text/javascript" src="http://www.myaiesec.net/cms/aiesec/js/hoverIntent.js"></script>
+<script type="text/javascript" src="http://www.myaiesec.net/cms/aiesec/js/superfish.js"></script>
+<script type="text/javascript">
+
+// initialise plugins
+jQuery(function(){
+	jQuery('ul.sf-menu').superfish();
+});
+
+</script>
+
+</head>
+
+<body>
+	<div id="wrap" class="container">
+    
+    	<div id="header" class="column span-24">
+
+	        <div id="logo" class="column span-16">
+            	<a href="http://www.aiesec.org" title="AIESEC"><img src="http://www.myaiesec.net/cms/aiesec/images/logo.png" alt="AIESEC"></a>
+            </div>
+            <div id="topbuttons" class="column span-8 last">
+            	<img src="http://www.myaiesec.net/cms/aiesec/images/Key.png" width="16" height="16" alt="Login to AIESEC"> <a href="#myaiesec" rel="prettyPhoto">LOGIN</a> 
+                <img src="http://www.myaiesec.net/cms/aiesec/images/Lock.png" width="16" height="16" alt="Register to AIESEC"> <a href="http://live.myaiesec.net" target="_blank">REGISTER</a>  
+                <img src="http://www.myaiesec.net/cms/aiesec/images/Web.png" width="16" height="16" alt="AIESEC Worldwide"><a href="http://www.myaiesec.net/cms/aiesec/map.html?iframe=true&amp;width=790&amp;height=495" rel="prettyPhoto[iframe]" title="">WORLDWIDE</a>
+            </div>
+            
+		</div>
+        
+        <div id="nav" class="column span-16 last">
+             <ul class="sf-menu">
+                <li><a href="http://www.aiesec.org" title="Home" class="active">Home</a></li>
+                <li><a href="http://www.aiesec.org/cms/aiesec/AI/about/index.html" title="About AIESEC">About AIESEC</a>
+                <ul>
+                    <li><a href="http://www.aiesec.org/cms/aiesec/AI/about/index.html">Overview</a></li>
+                    <li><a href="http://www.aiesec.org/cms/aiesec/AI/about/who-we-are.html">Who we are</a></li>
+                    <li><a href="http://www.myaiesec.net/cms/aiesec/AI/contactaiesec.html">Network</a></li>
+                    <li><a href="http://www.aiesec.org/cms/aiesec/AI/about/History.html">History</a></li>
+                    <li><a href="http://www.aiesec.org/cms/aiesec/AI/press.html">Press</a></li> 
+                    <li><a href="http://www.aiesec.org/cms/aiesec/AI/partners/publications.html">Publications</a></li>                    
+                </ul>
+                </li>
+                <li><a href="#" title="Experience AIESEC">Experience AIESEC</a>
+                <ul>
+                    <li><a href="http://www.aiesec.org/cms/aiesec/AI/students/index.html">Students</a>
+                    	<ul>
+                        	<li><a href="http://www.aiesec.org/cms/aiesec/AI/students/index.html">What we Offer</a></li>
+                            <li><a href="http://www.aiesec.org/cms/aiesec/AI/students/International_Internship.html">International Internships</a></li>
+                        	<li><a href="http://live.myaiesec.net" target="_blank">Join AIESEC</a></li>                            
+                        </ul>
+                    </li>
+                    <li><a href="http://www.aiesec.org/cms/aiesec/AI/partners/index.html">Organizations</a>
+                    <ul>
+                        	<li><a href="http://www.aiesec.org/cms/aiesec/AI/partners/index.html">Partner with AIESEC</a></li>
+                            <li><a href="http://myaiesec.net/cms/aiesec/AI/partners/request.html">Get Information</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="http://www.aiesec.org/cms/aiesec/AI/alumni/index.html">Alumni</a>
+                   		<ul>
+                    		<li><a href="http://www.aiesec.org/cms/aiesec/AI/alumni/index.html">What we Offer</a></li>
+                        	<li><a href="http://www.aiesec.org/cms/aiesec/AI/alumni/Alumni_Associations/index.html">Reconnect with AIESEC</a></li>                            
+                        </ul>
+                    </li>
+                </ul>
+                </li>                
+                <li>
+                    <a href="http://www.aiesec.org/cms/aiesec/AI/about/aiesec-stories.html">AIESEC Stories</a>
+                </li>
+            </ul>
+        </div>           	
+        
+        
+        <div id="textaiesec" class="column span-24">
+        
+            <div id="contenido" class="column span-24 last">
+            	<div style="float:right; width:160px;">
+                <!-- AddThis Button BEGIN -->
+                    <div class="addthis_toolbox addthis_default_style">
+                    <a class="addthis_button_facebook"></a>
+                    <a class="addthis_button_email"></a>
+                    <a class="addthis_button_print"></a>
+                    <span class="addthis_separator">|</span>
+                    <a href="http://addthis.com/bookmark.php?v=250&amp;username=xa-4b6d0ef043aea3c1" class="addthis_button_expanded">More</a>
+                    </div>
+                    <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=xa-4b6d0ef043aea3c1"></script>
+                    <!-- AddThis Button END -->
+                </div>
+                
+                <h2 style="padding-bottom:15px;"> AIESEC.org Privacy Policy</h2>
+                <br>
+                This website is controlled and operated by Stichting AIESEC International (referred to in this privacy policy as “AIESEC”, “we”, “us” or “our”).&nbsp; This privacy policy explains how we use any personal information we collect about you when you use this website.&nbsp;&nbsp;<br>
+                <br>
+                <strong>What information we collect and how we collect it</strong>&nbsp;<br>
+                We use third party analytical tools (such as Google Analytics) to analyse how our website is being used.&nbsp; These tools use “cookies” (small text files placed on your computer) to collect standard internet log information and visitor behaviour information in an anonymous form.&nbsp;&nbsp;<br>
+                The information generated by the cookie about your use of the website (including your IP address) is transmitted to third party service providers such as Google.&nbsp; This information is then used to evaluate visitors’ use of the website and to compile statistical reports on website activity.&nbsp;<br>
+                We will not use the analytical tools to track or to collect any personally identifiable information from you and we will not associate any data gathered from this website with any personally identifying information from any source as part of our use of the analytical tools.&nbsp;<br>
+                <br>
+                <strong>Links to other websites</strong>&nbsp;<br>
+                Our website may contain links to other websites.&nbsp; This privacy policy only applies to this website so when you link to other websites you should read their privacy policies.&nbsp;&nbsp;<br>
+                <br>
+                <strong>Your rights</strong>&nbsp;<br>
+                You have the right to request a copy of any personal information that we hold about you.&nbsp; To obtain a copy of this personal information, please write to us at the address set out below.&nbsp; We may charge a small fee for this service.&nbsp;<br>
+                If we do hold information about you, you may ask us to correct or remove information you think is inaccurate.&nbsp;<br>
+                <br>
+                <strong>Changes to our privacy policy</strong>&nbsp;<br>
+                We keep our privacy policy under review and we will place any updates on this webpage.&nbsp; This privacy policy was last updated on 14 April 2009.&nbsp;<br>
+                How to contact us&nbsp;<br>
+                If you have any questions about our privacy policy or personal information we hold about you, please contact us by post at the following address:&nbsp;<br>
+                Vice President Information Management&nbsp;<br>
+                Stichting AIESEC International&nbsp;<br>
+                Teilingerstraat 126&nbsp;<br>
+                3032-AW Rotterdam&nbsp;<br>
+                The Netherlands&nbsp;<br>
+                <br>
+                <strong>Terms of Use</strong>&nbsp;<br>
+                By accessing, browsing or otherwise using this website you agree to be bound by these terms of use and our privacy policy.&nbsp;&nbsp;<br>
+                <br>
+                <strong>About us</strong>&nbsp;<br>
+                This website is controlled and operated by Stichting AIESEC International (referred to in these terms of use as “AIESEC international”, “we”, “us” or “our”).&nbsp; AIESEC International is a Foundation incorporated under the laws of the Netherlands.&nbsp; Our registered office address is: 126 Teilingerstraat, 3032-AW Rotterdam, The Netherlands&nbsp;<br>
+                <br>
+                <strong>How to contact us</strong>&nbsp;<br>
+                You can contact us by email at feedback@ai.aiesec.org if you have any questions, comments or complaints about this website.&nbsp;<br>
+                <br>
+                <strong>Changes to these terms of use</strong>&nbsp;<br>
+                We keep these terms of use under review and will place any updates on this webpage.&nbsp; Any changes will be effective immediately upon posting to the website and your continued access, browsing or other use of the website constitutes your agreement to all such terms of use.&nbsp; These terms of use were last updated on 14 April 2009.&nbsp;<br>
+                <br>
+                <strong>Privacy and data protection</strong>&nbsp;<br>
+                Full details of how we collect, hold and process your personally identifiable information via this website are set out in our privacy policy.&nbsp;&nbsp;<br>
+                <br>
+                <strong>Access to and use of the website.</strong>&nbsp;<br>
+                We are the owner or the licensee of all intellectual property rights in this website and the material on it (including all text, trade marks, data, graphics, layout, logos, images, music or other audio material, clips, films or other moving images, algorithms, product details and/or software published or otherwise available on the website from time to time).&nbsp;&nbsp;<br>
+                Subject to these terms of use, we grant you a limited, temporary, revocable and non-exclusive licence to access, browse and use this website for your personal and non commercial use only.&nbsp; You may print off one copy of any page(s) from this website for your personal reference.&nbsp;&nbsp;<br>
+                <br>
+                Except as set out in the limited licence above (or as required under any applicable law), no part of this website may be used, reproduced, duplicated, copied, sold, resold, accessed, modified, or otherwise exploited, in full or in part, for any purpose without our prior written consent.&nbsp; In particular, you are not permitted to republish any part of this website on another website, in any other medium (print, electronic or otherwise) or as part of any commercial service without our prior written permission.&nbsp; All the intellectual property rights referred to above remain owned by us or our licensors.&nbsp;<br>
+                <br>
+                <strong>Acceptable use of the website</strong>&nbsp;<br>
+                While accessing, browsing and/or using this website you must:&nbsp;<br>
+                (a)&nbsp;&nbsp;&nbsp; comply with all applicable laws, regulations and codes;&nbsp;<br>
+                (b)&nbsp;&nbsp;&nbsp; not link to any part of the website other than the homepage;&nbsp;<br>
+                (c)&nbsp;&nbsp;&nbsp; not frame or use framing techniques to enclose the website, or any part of the website, without our prior written consent;&nbsp;<br>
+                (d)&nbsp;&nbsp;&nbsp; not modify, or attempt to modify, all or any part of the content on the website; and/or&nbsp;<br>
+                (e)&nbsp;&nbsp;&nbsp; not gain or attempt to gain unauthorised access to the website, the server on which the website is stored or any third party server, computer or database connected to the website.&nbsp;<br>
+                <br>
+                Whilst you may link to the homepage of this website, you must only do so in a way that is fair, does not harm our reputation and does not suggest any form of association, approval or endorsement of you, your goods or services and/or your website by AIESEC.&nbsp;<br>
+                <br>
+                <strong>Termination or suspension of your access to the website</strong>&nbsp;<br>
+                At any time and without giving you any advance notice, we may permanently or temporarily and for any reason:&nbsp;<br>
+                (a)&nbsp;&nbsp;&nbsp; terminate, suspend or deny your access to this website (whether in whole or in part);&nbsp;<br>
+                (b)&nbsp;&nbsp;&nbsp; terminate your permission to link to this website; and/or&nbsp;<br>
+                (c)&nbsp;&nbsp;&nbsp; remove or edit any content on the website, and&nbsp;<br>
+                in such circumstances all our liability (as well as the liability of our directors, employees or other representatives) for any loss whatsoever arising from our removing or editing content and/or your limited use of or inability to use this website (either in whole or in part) is excluded, insofar as it is possible to do so in law.&nbsp;<br>
+                <br>
+                <strong>Third party links</strong>&nbsp;<br>
+                This website may contain links to third party websites.&nbsp; We are not responsible for, nor do we endorse in any way such third party websites or their content.&nbsp; If you decide to access any of the third party websites linked to this website, you do so entirely at your own risk.&nbsp;<br>
+                <br>
+                <strong>Disclaimer</strong>&nbsp;<br>
+                All information and/or data on this website is provided on an “as is” basis.&nbsp; To the extent permitted by law, all conditions, warranties and other terms which might otherwise by implied are now expressly excluded and no representations, warranties or terms of any kind are made in respect of the website or the content, including, without limitation, warranties of satisfactory quality, accuracy, adequacy, conformity to description or fitness for any particular purpose.&nbsp;&nbsp;<br>
+                Neither we nor any of our data providers or affiliates gives any warranty or guarantee: (a) relating to the availability of the website; or (b) that the website and/or our operation of it, the content or the server that makes the website available, are error or virus free or free of other harmful components; or (c) that your use of this website will be uninterrupted.&nbsp;<br>
+                <br>
+                <strong>Limitation of liability</strong>&nbsp;<br>
+                Nothing in these terms of use excludes or limits our liability for:&nbsp;<br>
+                (a)&nbsp;&nbsp;&nbsp; death or personal injury caused by our negligence or that of any of our officers, employees or agents; or&nbsp;<br>
+                (b)&nbsp;&nbsp;&nbsp; fraudulent misrepresentation; or&nbsp;<br>
+                (c)&nbsp;&nbsp;&nbsp; any liability which it is not lawful to exclude either now or in the future.&nbsp;<br>
+                <br>
+                Subject to the above, we will not be liable, whether in tort (including for negligence or breach of statutory duty), contract or otherwise, for: (a) any loss or damage which may arise from reliance on any information contained on this website; (b) any loss, damage or costs suffered or incurred by you arising from viruses or other harmful components received via this website; or (c) any loss of profits; loss of business; depletion of goodwill or similar losses; loss of anticipated savings; loss of contracts; loss of use; loss or corruption of data or information; or any special, indirect, consequential or pure economic loss incurred by any user in connection with this website.&nbsp;<br>
+                <br>
+                <strong>Enforcement</strong>&nbsp;<br>
+                If the whole or any part of any provision of these terms of use is or becomes invalid, void or unenforceable for any reason the same shall to the extent required be severed from these terms of use and rendered ineffective so far as is possible without modifying the remaining provisions of these terms of use and shall in no way affect the validity or enforceability of any other provisions.&nbsp;<br>
+                <br>
+                <strong>Waiver</strong>&nbsp;<br>
+                No waiver by us of any breach of these terms of use shall constitute a waiver of any other prior or subsequent breach and we shall not be affected by any delay, failure or omission to enforce or express forbearance granted in respect of any of your obligations.&nbsp;<br>
+                <br>
+                <strong>Governing law and jurisdiction</strong>&nbsp;<br>
+            These terms of use and/or your use of the website shall be governed by and construed in accordance with English law and the English courts shall have exclusive jurisdiction over any dispute which may arise. <p></p> 
+</div>
+
+<br>
+<h2 <strong="">Registration Privacy Policy</h2>
+<br>
+<p>Privacy Statement   AIESEC International ("AIESEC" or "we") is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Privacy Statement applies to AIESEC's Global Information System and governs data collection and usage by AIESEC, including by local or national committees of AIESEC. By using the AIESEC's Global Information System (MyAIESEC.net), you agree to AIESEC processing your personal data as set out below. If you do not agree to have your information used in any of the ways described in this Privacy Statement, you must discontinue use of MyAIESEC.net.
+<br><br></p><p><strong>User's Personal Information:</strong>   We consider information that may be used to identify an individual, including, but not limited to, first and last name date of birth, credit card information, home or other physical address, email address, phone number or other contact information to be "Personal Data". You may be asked to provide Personal Data when you use the Global Information System. The Personal Data that we collect may include information such as: name, contact information (including telephone number and email address), web site usage preferences, and feedback regarding the Global Information System. This information is held by AIESEC on servers based in the United Kingdom and elsewhere from time to time. In addition, when you use the Global Information System our servers keep an activity log unique to you that collects certain administrative and traffic information including: source IP address, time of access, date of access, web page(s) visited, language use, software crash reports and type of browser used which are essential for the provision of and the quality of the Global Information System. We do not collect Personal Data about you on the Global Information System without your knowledge.   If you choose to participate in the Exchange Program, AIESEC will collect additional,more detailed information about you including your education, work experience and academic background (your "Detailed Personal Data"). With your consent,AIESEC may share your Detailed Personal Data with selected organisations participating in the Exchange Program which match your interests. Other users of MyAIESEC.net will not be able to access your Detailed Personal Data without your consent.   AIESEC also collects anonymous demographic information, which is not unique to you, such as your city, country, age, gender, preferences, interests and favorites.   AIESEC does not collect any data about you from other sources, such as public records or bodies, or private organisations.   You are responsible for ensuring that any information you provide relates to you and is accurate, complete and remains up to date.
+<br><br></p><p><strong>Use of your Personal Data:</strong>   AIESEC collects the Personal Data that you submit for the purpose of providing you with information about AIESEC, membership administration and management of the services we offer; the Exchange Program, surveys and on-line polls, applications for events organized and advertised by AIESEC and for statistical purposes in order to improve our services.   Personal Data collected on MyAIESEC.net may be stored and processed in any country in which we or our affiliates, suppliers, subsidiaries or agents maintain facilities, and by using MyAIESEC.net you consent to any transfer of information outside of your country (including to third countries which may not have been assessed as having adequate privacy laws). Your data is however only processed within AIESEC network of local and national committees and will not be shared with third parties without your explicit consent, unless required by law. We take steps to ensure that our affiliates, agents, subsidiaries and suppliers comply with our standards of privacy regardless of their location   AIESEC does not sell,rent or lease its member's lists to third parties. AIESEC may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, AIESEC may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide user support, or arrange for deliveries. All such third parties are prohibited from using your Personal Data except to provide these services to AIESEC, and they are required to maintain the confidentiality of your information.   AIESEC does not use or disclose sensitive Personal Data, such as race, religion, or political affiliations, without your explicit consent. If you choose to participate in the Exchange Program, you consent to AIESEC sharing sensitive Personal Data with selected organisations participating in the Exchange Program where it is relevant to your participation in the Exchange Program.   If you choose to use the donation module of MyAIESEC.net, AIESEC may process your payment using an external third party electronic payment processors and/or financial institutions ("Electronic Service Provider"). By accepting this Privacy Statement, you consent to Personal Data necessary for the processing of transactions being shared with Electronic Service Providers, including where necessary the transfer of information outside of your country. We take steps to ensure that our arrangements with Electronic Service Providers protect your privacy This data is used to deliver customized content and advertising within AIESEC to customers whose behavior indicates that they are interested in a particular subject area.   AIESEC will disclose your Personal Data, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: <br> </p><p>(a) conform to the edicts of the law or comply with legal process served on AIESEC or the Global Information System;</p><p> (b) protect and defend the rights or property of AIESEC; and,</p><p> (c) act under exigent circumstances to protect the personal safety of users of AIESEC, or the public.   You can change or complete the Personal Data that AIESEC holds about you by following the update procedure included in the systems. You may request the deletion of your Personal Data from the Global Information System, by contacting the system administrators at AIESEC . Deletion of your Personal Data from the Global Information System will result in the deletion of your account from MyAIESEC.net. We may, however, still retain your Personal Data in our files to resolve disputes, to enforce our user agreement, and to comply with any and all technical and legal requirements and constraints related to the security, integrity and operation of the Global Information System.   After the expiry of your membership in AIESEC your data will be processed by our alumni system. You may request the deletion of your Personal Data from our alumni system by contacting the system administrators at AIESEC . Deletion of your Personal Data from our alumni system will result in the deletion of your account from MyAIESEC.net.
+<br><br></p><p><strong>Internet Awareness:</strong>   Whenever you voluntarily post Personal Data in public areas of the MyAIESEC.net, you should be aware that this information can be accessed by other users of MyAIESEC.net and can in turn be used by others to send you unsolicited communications, advertisements or for other purposes.   AIESEC encourages you to review the privacy statements of third party web sites you choose to link to from MyAIESEC.net so that you can understand how those web sites collect, use and share your information. We cannot ensure the protection of any information or images that you provide to a third-party online site that links to or from MyAIESEC.net since these third-party online sites are owned and operated independently of us. AIESEC is not responsible for the privacy statements or other content on web sites outside of the MyAIESEC.net.
+<br><br></p><p><strong>Security:</strong>  We understand the importance of information security and the techniques needed to secure information. AIESEC will take reasonable steps to protect your Personal Data safe. We employ a variety of security technologies and procedures to help protect your Personal Data from unauthorised access, use or disclosure. We employ firewalls and store all of our files and information on secure terminals.   The security of your Personal Data depends on your protection of your account password. Please do not disclose your account password to unauthorized people.   Although we will use reasonable efforts to safeguard the privacy of your information, transmissions on the internet cannot be made absolutely secure. Accordingly, we assume no responsibility or liability for disclosure of any of your information due to errors in transmission, unauthorised third-party access or other causes beyond our reasonable control.
+<br><br></p><p><strong>Use of Cookies:</strong>   The Global Information System uses "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.   You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the AIESEC services or Web sites you visit.
+<br><br></p><p><strong>Update to this Statement:</strong>   We may periodically make changes to this Privacy Statement. We will notify you of changes by posting the modified terms on the website and we advise you to revisit this Privacy Policy regularly. Your continued use of MyAIESEC.net will be subject to the terms of the then-current policy.
+<br><br></p><p><strong>Contact Information:</strong>   AIESEC welcomes your comments regarding this Statement of Privacy. If you believe that AIESEC has not adhered to this Statement, please contact AIESEC at vpis@ai.aiesec.org. We will use commercially reasonable efforts to promptly determine and remedy the problem.
+
+
+        </p></div>
+		
+		        
+		<div id="partners-list" class="column span-24">
+        	<h2>Global Partners</h2>
+          <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="900" height="85" id="FlashID" title="AIESEC Partners">
+              <param name="movie" value="http://www.myaiesec.net/cms/aiesec/Partners.swf">
+              <param name="quality" value="high">
+              <param name="wmode" value="opaque">
+              <param name="swfversion" value="6.0.65.0">
+              <!-- This param tag prompts users with Flash Player 6.0 r65 and higher to download the latest version of Flash Player. Delete it if you don’t want users to see the prompt. -->
+              <param name="expressinstall" value="Scripts/expressInstall.swf">
+              <!-- Next object tag is for non-IE browsers. So hide it from IE using IECC. -->
+              <!--[if !IE]>-->
+              <object type="application/x-shockwave-flash" data="http://www.myaiesec.net/cms/aiesec/Partners.swf" width="900" height="85">
+                <!--<![endif]-->
+                <param name="quality" value="high">
+                <param name="wmode" value="opaque">
+                <param name="swfversion" value="6.0.65.0">
+                <param name="expressinstall" value="Scripts/expressInstall.swf">
+                <!-- The browser displays the following alternative content for users with Flash Player 6.0 and older. -->
+                <div>
+                  <h4>Content on this page requires a newer version of Adobe Flash Player.</h4>
+                  <p><a href="http://www.adobe.com/go/getflashplayer"><img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="Get Adobe Flash player" width="112" height="33"></a></p>
+                </div>
+                <!--[if !IE]>-->
+              </object>
+              <!--<![endif]-->
+          </object>
+          <p>Want to know more about our Partners? Please visit our <a href="http://www.aiesec.org/cms/aiesec/AI/partners/index.html">Partners section</a> to learn more</p>
+        </div>
+		      
+        <div id="footer" class="column span-24">
+        	<div id="footer-links" class="column span-18">
+	             <ul>
+                	<li><a href="http://www.aiesec.org/cms/aiesec/AI/about/index.html">About AIESEC</a></li>
+                    <li><a href="http://www.aiesec.org/cms/aiesec/AI/privacy.html">Privacy Policy</a></li>
+                    <li><a href="http://www.aiesec.org/cms/aiesec/AI/press.html">Press</a></li>
+                    <li><a href="http://www.aiesec.org/cms/aiesec/AI/partners/publications.html">Publications</a></li>
+                </ul>  </div>
+            <div id="footer-links3" class="column span-6 last">
+            	© 2010 AIESEC International.
+            </div>
+        </div> 
+
+	</div>
+<script type="text/javascript">
+<!--
+swfobject.registerObject("FlashID");
+swfobject.registerObject("FlashID2");
+//-->
+</script>
+<script type="text/javascript" charset="utf-8">
+		$(document).ready(function(){
+			$("a[rel^='prettyPhoto']").prettyPhoto();
+		});
+	</script>
+
+<div id="myaiesec" style="display:none">
+    
+    <img src="http://www.myaiesec.net/cms/aiesec/images/myaiesec-members.png" alt="login myaiesec">               
+    
+    
+    
+    <form name="loginForm" id="loginForm" method="post" action="http://myaiesec.net/login.do"> 
+    
+     <input type="hidden" name="menuitem" value="1">
+     <input type="hidden" name="ishome" value="true"> 
+     
+     <label>Username:   
+     <input type="text" name="userName" tabindex="1" class="email">                   
+     </label>  
+     <br>
+     <label>Password:    
+     <input type="password" name="password" tabindex="2" class="password"> 
+     </label>
+     <br> 
+     <input type="submit" name="signin" value=" " tabindex="3" class="formbutton">  
+      <ul>
+        <li><a href="http://www.aiesec.org/cms/aiesec/forgotpassword.do" style="color:#46A9AA">Forgot Password?</a></li>
+        <li><a href="http://myaiesec.net/signup.do" style="color:#46A9AA">Sign Up</a></li>
+      </ul>
+    </form>
+    
+    </div>
+
+<script type="text/javascript"> 
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script> 
+<script type="text/javascript"> 
+try {
+var pageTracker = _gat._getTracker("UA-6532179-1");
+pageTracker._trackPageview();
+} catch(err) {}</script> 
+ 
+
+</body></html>
