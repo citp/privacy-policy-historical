@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the booksgreatchoice.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126044914id_/http%3A//booksgreatchoice.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the booksgreatchoice.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527113505id_/http%3A//booksgreatchoice.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Books Great Choice
 
