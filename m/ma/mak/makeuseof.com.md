@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the makeuseof.com privacy policy that was archived on 2012-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121220100828id_/http%3A//www.makeuseof.com/disclaimer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makeuseof.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527224436id_/http%3A//www.makeuseof.com/disclaimer) for the most accurate reproduction.*
 
 # Disclaimer & Privacy Policy
 
@@ -23,6 +23,8 @@
 10\. Our Facebook application will gather specific public information about you: whether you’ve liked our Facebook page and your location. We use the gathered information to display the relevant offers to you through our application. Your information is never shared or stored in any way.
 
 11\. If you choose to purchase premium content from MakeUseOf, it will be delivered electronically according to the schedule set specifically for each product and explained on the individual product page. You will be able to apply for a refund within 30 days of the original purchase date.
+
+12\. Disclosure of Material Connection: Some of the links in our articles are “affiliate links.” This means if you click on the link and purchase the item, we will receive an affiliate commission. Regardless, we only recommend products or services we believe will add value to our readers. We are disclosing this in accordance with the Federal Trade Commission’s [16 CFR, Part 255](http://www.access.gpo.gov/nara/cfr/waisidx_03/16cfr255_03.html): “Guides Concerning the Use of Endorsements and Testimonials in Advertising.”
 
 _Aibek Esengulov  
 Editor-in-Chief  
