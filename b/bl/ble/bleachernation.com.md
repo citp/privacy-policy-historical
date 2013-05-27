@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bleachernation.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118164608id_/http%3A//www.bleachernation.com/privacy-policy-and-terms-of-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bleachernation.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527164216id_/http%3A//www.bleachernation.com/privacy-policy-and-terms-of-use) for the most accurate reproduction.*
 
 # Privacy Policy and Terms of Use | Bleacher Nation | Chicago Cubs News, Rumors, and Commentary
 
@@ -62,7 +62,7 @@ If you decide to visit Bleacher Nation, your visit and any possible dispute over
 
 **Effective Date of this Privacy Policy**
 
-This Privacy Policy is effective as of 5/17/2011 and last updated 5/17/2011.
+This Privacy Policy is effective as of 5/17/2011 and last updated 12/19/2012.
 
 ## Terms of Use
 
