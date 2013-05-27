@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 123mycodes.com privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121105934id_/http%3A//www.123mycodes.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123mycodes.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527103453id_/http%3A//www.123mycodes.com/privacy.php) for the most accurate reproduction.*
 
 # 123mycodes.com User Agreement - Privacy Policy
 
