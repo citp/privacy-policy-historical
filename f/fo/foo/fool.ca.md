@@ -1,0 +1,83 @@
+> *The following text is extracted and transformed from the fool.ca privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527125555id_/http%3A//www.fool.ca/privacy-policy) for the most accurate reproduction.*
+
+# Privacy Policy | The Motley Fool
+
+## Privacy Policy
+
+The Motley Fool Canada, ULC, (“The Motley Fool”) takes the issue of privacy very seriously and is committed to protecting and respecting your privacy.  This Privacy Policy describes how we may collect, use and disclose personal information of our users, readers and subscribers.  It does not apply to personal information that we collect, use or disclose for journalistic purposes.
+
+Submitting your personal information, subscribing to our services or products or using our website, you signifies your agreement to the terms and conditions of this Privacy Policy.
+
+If you have any queries or concerns regarding these practices, you should contact The Motley Fool at [privacy@fool.ca](mailto:privacy@fool.ca).
+
+**The Information We Collect**
+
+  * **Email Address:** When you register with The Motley Fool, subscribe to our products and services, or sign up to receive a special report, we ask for your email address. We usually also capture your Internet Protocol address (“IP address”) at the time you register.
+  * **Information We Automatically Track:** While on Fool.ca, we automatically log certain information about how you’re using our site. This information may include the URL that you just came from, your IP address and the pages you visit while on our site. The Motley Fool may place a pixel on pages on our site, or those of other companies that are presenting advertisements. This enables us to record in our server logs that a specific user id has visited a particular page. This data allows us to analyse and determine our audience’s behavioural characteristics, which helps us to optimise our site and marketing focus. Only anonymous information is collected, and it cannot, by itself or in combination, be tracked to you or any specific individual.
+
+
+
+**Where Your Information is Processed and Stored**
+
+The information outlined above is processed and stored in the United States.  As a result, your information may be subject to US law and jurisdiction.   You acknowledge that you will be sending your personal information (including your email address) to computer networks located in the United States and you consent to this transfer.  The Motley Fool takes steps to ensure that your information is treated securely and in accordance with this Privacy Policy and applicable law.
+
+**Our Use of this Information**
+
+  * **More Customised Service:** The Motley Fool collects personal information to provide you with the best and most personalised web experience possible. In short, by knowing a little about you, The Motley Fool can deliver more relevant content to you while at our web site and thus, provide you with a more efficient, customise and seamless experience when using our service.
+  * **Internal Research:** Cookies and the other information we automatically track are used to help us better understand how our audience uses our site as well as for internal research on users’ demographics and interests. Each browser accessing The Motley Fool is given a unique cookie which is then used to determine usage patterns, and to help in targeting content based on user interests.
+  * **To Contact You:** We may subsequently email you about our various products and services, or other products and services we feel may interest you. If you’d rather not receive these subsequent communications, unsubscribe [here](http://www.fool.ca/unsubscribe/).
+
+
+
+**Our Use of IP Addresses and Cookies**
+
+**IP Addresses:** Your web browser or email application automatically provides your IP address to other computers with which you communicate over the internet, so that they know where to send you information.  We receive an IP address each time you view one of our web pages, because the browser automatically reports it to us. We also may store the IP address when you register with The Motley Fool.
+
+We may use IP addresses for various purposes, including:
+
+  * Diagnosing service or technology problems.
+  * Assessing and maintaining system security.
+  * Displaying the most appropriate advertising and content.
+  * Studying how people use our site and how we can improve it.
+  * Reporting to advertiser and other business partners about aggregate, but not individual information derived from IP addresses.
+
+
+
+**Cookies:**   If your browser is set up to accept them, we also use a feature known as a cookie. Cookies contain bits of information that web sites transfer to your computer’s hard drive for record keeping purposes. Cookies can make the web more useful by storing information about your preferences on a particular site such as ours.
+
+At The Motley Fool cookies are used in the following ways:
+
+  * To automatically access your previously stored account information.
+  * To estimate our audience size and usage patterns.
+
+
+
+You can configure your browser to refuse cookies or to notify you when you’ve received one. If you reject cookies, though,  you may not be able to use portions of our site.
+
+**Information Sharing and Disclosure**
+
+With the few exceptions that we explain below, The Motley Fool does not give, rent, lend, or sell individual information to any third party.  We may, however, provide aggregate information to current and potential business partners.  For example, we might tell advertisers that there are 120,000 Registered Fools in Metropolis, but we will not tell them that the user called ‘Superman’ is one of them, and we definitely will not disclose that his email address is [ckent@dailyplanet.com](mailto:ckent@dailyplanet.com).
+
+We will disclose personal information only in the following circumstances:
+
+  * Since our parent company, The Motley Fool, LLC (“Fool US”), handles the distribution of some of our emails for us, we provide our members’ email addresses to Fool US for the sole purpose of delivering these publications.
+  * We may employ the services of third party providers to aid us in certain aspects of our operations (such as the distribution of our email products or conducting a survey for us). Depending on the services performed, some of these providers may be provided with your personal information. These contractors would be subject to confidentiality agreements which limit their use and disclosure of all information they obtain through their relationship with us to Fool-related business only, consistent with this policy.
+  * We may disclose your personally identifiable information to protect the rights and property of The Motley Fool as well as to comply with any applicable law.
+
+
+
+**Security**
+
+The Motley Fool takes reasonable steps to ensure that your information is treated securely and in accordance with this Privacy Policy.  All information that you provide to us is stored on secure servers. While we do our best to protect your personal information, The Motley Fool cannot ensure or warrant the security of any information you transmit to us, and you do so at your own risk. What does all this mean? Just as in the investing world, you must protect yourself. You are responsible for maintaining the secrecy of any passwords and account information you reveal on the internet.
+
+**Access to Your Information**
+
+Upon written request, The Motley Fool may provide you access to the personal information we hold about you.  If your access request is denied, we will give you the reasons for denying your request.  All requests for access should be directed to [privacy@fool.ca](mailto:privacy@fool.ca).
+
+**Links to Other Websites and Advertisements**
+
+If you follow or click on links to any third party websites from Fool.ca, you should be aware that these other sites have their own privacy and data processing practices. The Motley Fool has no responsibility or liability for these independent policies.
+
+**Changes to this Privacy Policy**
+
+The Motley Fool may amend this Privacy Policy from time to time. Any substantive changes will be announced on the site.  Your continued use of the website and related services will signify your acceptance of any new terms.
