@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the free-extras.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228211343id_/http%3A//www.free-extras.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-extras.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527234056id_/http%3A//www.free-extras.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy Pictures and Images
 
@@ -36,6 +36,3 @@ If you wish to disable cookies, you may do so through your individual browser op
 
 We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here.   
 The link for click here is www.networkadvertising.org. 
-
-Disclaimer: This site is 100% user uploaded. Have a complaint? Please use our [DMCA](http://www.free-extras.com/copyright.html) \- [Privacy Policy](http://www.free-extras.com/privacy.htm)  
-
