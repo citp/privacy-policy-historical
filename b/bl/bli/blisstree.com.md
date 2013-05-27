@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blisstree.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118060556id_/http%3A//blisstree.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blisstree.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527175609id_/http%3A//www.blisstree.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Blisstree
+# Privacy Policy | Blisstree
 
 Thank you for visiting [WWW.BLISSTREE.COM](https://web.archive.org/) (the “Site”)! The Site is strongly committed to protecting your privacy. The purpose of this privacy policy is to inform users of the Site as to what information we collect and how and why we use such information. The Site is a website published and maintained by Alloy Digital, LLC.
 
