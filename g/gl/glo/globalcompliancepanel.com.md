@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalcompliancepanel.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016052449id_/http%3A//www.globalcompliancepanel.com/control/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalcompliancepanel.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527020008id_/http%3A//www.globalcompliancepanel.com/control/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -50,7 +50,7 @@ GlobalCompliancePanel has the right to alter the policy at any time and the chan
 For further queries on Privacy Policy, the practice of any GlobalCompliancePanel site or dealings with the GlobalCompliancePanel, please contact us at the following address: 
 
 NetZealous LLC,  
-1000 N West Street Suite,  
-1200 Wilmington DE 19801.
+161 Mission Falls Lane,,   
+Suite 216, Fremont, CA 94539, USA. 
 
-You can also email your concerns at [privacy@GlobalCompliancePanel.com](mailto:privacy@globalcompliancepanel.com) or call us at 1-800-447-9407. 
+You can also email your concerns at [privacy@GlobalCompliancePanel.com](mailto:privacy@globalcompliancepanel.com) or call us at 1- 800-447-9407 . 
