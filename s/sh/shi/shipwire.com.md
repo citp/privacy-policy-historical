@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the shipwire.com privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219093942id_/http%3A//www.shipwire.com/w/support/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shipwire.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527083410id_/http%3A//www.shipwire.com/w/support/privacy) for the most accurate reproduction.*
 
 # Order fulfillment privacy policy
 
-We know that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. By visiting Shipwire.com, you are accepting the practices described in this Privacy Notice.
+We know that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. By visiting Shipwire.com, you are accepting the practices described in this Privacy Notice.  
+ 
 
 #### What personal information does Shipwire.com gather?
 
@@ -31,27 +32,32 @@ Information about our customers is an important part of our business, and we are
 
 #### How secure is information about me?
 
-We reveal only the last five digits of your credit card numbers when confirming a shipment. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing. It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer.
+We reveal only the last five digits of your credit card numbers when confirming a shipment. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing. It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer.  
+ 
 
 #### Which information can I access?
 
-Shipwire.com gives you access to a broad range of information about your account and your interactions with Shipwire.com for the limited purpose of viewing and, in certain cases, updating that information.
+Shipwire.com gives you access to a broad range of information about your account and your interactions with Shipwire.com for the limited purpose of viewing and, in certain cases, updating that information.  
+ 
 
 #### Children
 
-If you are under 18, you may use Shipwire.com only with the involvement of a parent or guardian.
+If you are under 18, you may use Shipwire.com only with the involvement of a parent or guardian.  
+ 
 
 #### Conditions of use, notices, and revisions
 
 If you choose to visit Shipwire.com, your visit and any dispute over privacy is subject to this Notice and our Terms of Use, including limitations on damages, arbitration of disputes, and application of the law of the state of California. If you have any concern about privacy at Shipwire.com, please contact us with a thorough description, and we will try to resolve it.
 
-Our business changes constantly, and our Privacy Notice and the Terms of Use will change also. You should check our Web site frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers.
+Our business changes constantly, and our Privacy Notice and the Terms of Use will change also. You should check our Web site frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers.  
+ 
 
 #### Contact us
 
-If you have any questions about this privacy statement, the practices of this site or your dealings with Shipwire.com, please contact Customer Support. Our Privacy Policy is subject to change without notice. Please visit this site often to keep up to date with our latest policies.
+If you have any questions about this privacy statement, the practices of this site or your dealings with Shipwire.com, please contact Customer Support. Our Privacy Policy is subject to change without notice. Please visit this site often to keep up to date with our latest policies.  
+ 
 
-#### For more information…
+#### For more information
 
   * [Electronic Frontier Foundation](http://www.eff.org/ "Electronic Frontier Foundation") – a civil liberties organization working to protect your rights online.
   * [Electronic Privacy Information Center](http://www.epic.org/ "Electronic Privacy Information Center") – established to focus public attention on emerging civil liberties issues relating to the National Information Infrastructure.
