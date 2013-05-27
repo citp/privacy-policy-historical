@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the india365.org privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017101924id_/http%3A//www.india365.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the india365.org privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527100457id_/http%3A//www.india365.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -67,5 +67,3 @@ Contacting Us
 If there are any questions regarding this privacy policy you may [contact](http://www.india365.org/contact/ "contact") us using the information below.
 
 mn.vamsi@gmail.com
-
-Rating: 0.0/ **10** (0 votes cast)
