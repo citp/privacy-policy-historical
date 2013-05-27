@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the chrwtrucks.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624015839id_/http%3A//www.chrobinson.com/en/us/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chrwtrucks.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527031141id_/http%3A//www.chrobinson.com/en/us/Privacy-Policy) for the most accurate reproduction.*
 
 # Global Privacy Policy - C.H. Robinson
 
 Effective: July 1, 2011
 
-_This Web Site, as defined below, is maintained by C.H.  Robinson Worldwide, Inc. ©1998-2012. Content on this site may not be used for commercial benefit without expressed written consent of C.H. Robinson Worldwide, Inc._
+_This Web Site, as defined below, is maintained by C.H. Robinson Worldwide, Inc. ©1998-2013. Content on this site may not be used for commercial benefit without expressed written consent of C.H. Robinson Worldwide, Inc._
 
 C.H. Robinson Worldwide, Inc., and its affiliates and subsidiaries and each of their directors, officers, employees, and authorized representative (collectively, "C.H. Robinson") respect your privacy. This Global Privacy Policy describes the types of personal information we collect, how we use the information, with whom we share it, and the choices you can make about our use of the information. We also describe the measures we take to protect the security of the information and how you can contact us about our privacy practices. Our privacy practices may vary among the countries in which we operate to reflect local practices and legal requirements.
 
@@ -18,18 +18,18 @@ C.H. Robinson collects information about you from various sources. For example,
 
 The types of personal information we may obtain are:
 
-  * Contact information (such as name, postal or e-mail address, and phone or fax number)
-  * Business contact information (such as job title, department and name of organization)
-  * Country of origin information (from which country you are accessing the Web site)
-  * Usernames and passwords used to access C.H. Robinson resources
-  * Financial information (such as financial account information used for payment purposed and/or information that may be contained in a consumer report)
-  * Contact information for friends or other people you would like us to contact
-  * Content you provide (such as photographs, articles and comments)
-  * Employment information (such as employment history, employee number, performance appraisals, salary and benefits)
-  * Mobile device unique identifier
-  * Social Media identifier (such as Facebook ID)
-  * Geo-location data
-  * Other information (such as language preference,)
+  * Contact information (such as name, postal or e-mail address, and phone or fax number) 
+  * Business contact information (such as job title, department and name of organization) 
+  * Country of origin information (from which country you are accessing the Web site) 
+  * Usernames and passwords used to access C.H. Robinson resources 
+  * Financial information (such as financial account information used for payment purposed and/or information that may be contained in a consumer report) 
+  * Contact information for friends or other people you would like us to contact 
+  * Content you provide (such as photographs, articles and comments) 
+  * Employment information (such as employment history, employee number, performance appraisals, salary and benefits) 
+  * Mobile device unique identifier 
+  * Social Media identifier (such as Facebook ID) 
+  * Geo-location data 
+  * Other information (such as language preference,) 
 
 
 
@@ -39,21 +39,21 @@ We also collect certain information by automated means. For example, we collect 
 
 We may use the information we obtain about you to:
 
-  * provide the information, products and services you request;
-  * provide you, if you are a consumer, with effective customer service;
-  * provide you with a personalized experience when you use our Web sites;
-  * contact you with special offers and other information we believe will be of interest to you (in accordance with any privacy preferences you have expressed to us);
+  * provide the information, products and services you request; 
+  * provide you, if you are a consumer, with effective customer service; 
+  * provide you with a personalized experience when you use our Web sites; 
+  * contact you with special offers and other information we believe will be of interest to you (in accordance with any privacy preferences you have expressed to us); 
   * contact you with information and notices related to your use of our products and services, including our Web sites; 
   * invite you to participate in surveys and provide feedback to us (in accordance with any privacy preferences you have expressed to us); 
-  * better understand your needs and interests;
-  * improve our products and services and develop new products and services;
-  * improve our marketing and promotional efforts;
-  * improve the content, functionality and usability of the Web sites;
-  * evaluate your interest in employment and contact you regarding possible employment with C.H. Robinson
-  * help you, if you are a C.H. Robinson employee, perform your job functions and to manage our workforce;
-  * enforce our Web sites' terms of use;
-  * promote compliance with applicable legal requirements, industry standards, and corporate policies;
-  * promote security; to protect against and prevent fraud, claims and other liabilities; and to manage corporate risk exposure; and
+  * better understand your needs and interests; 
+  * improve our products and services and develop new products and services; 
+  * improve our marketing and promotional efforts; 
+  * improve the content, functionality and usability of the Web sites; 
+  * evaluate your interest in employment and contact you regarding possible employment with C.H. Robinson 
+  * help you, if you are a C.H. Robinson employee, perform your job functions and to manage our workforce; 
+  * enforce our Web sites' terms of use; 
+  * promote compliance with applicable legal requirements, industry standards, and corporate policies; 
+  * promote security; to protect against and prevent fraud, claims and other liabilities; and to manage corporate risk exposure; and 
   * use for any other purpose about which we provide notice at the time of collection. 
 
 
