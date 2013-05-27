@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interment.net privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125020320id_/http%3A//www.interment.net/statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interment.net privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527021937id_/http%3A//www.interment.net/statement.htm) for the most accurate reproduction.*
 
 # Privacy Statement - Cemetery Records Online
 
@@ -60,10 +60,10 @@ If you have any questions about this privacy statement, the practices of this si
 
 #### Sponsored Genealogy Links
 
-  * [USA Death Records, 1900-Present](http://d.peoplesearchads.com/ck.php?zoneid=175&bannerid=163&oadest=http%3A//www.archives.com/GA.aspx?_act=deathRecords&location=US&cam=419&utm_source=Interment.net&utm_campaign=TextLinks) \- Archives.com
-  * [USA Obituary Records, 1900-Present](http://d.peoplesearchads.com/ck.php?zoneid=175&bannerid=165&oadest=http%3A//www.archives.com/GA.aspx?_act=obituaries&location=US&cam=419&utm_source=Interment.net&utm_campaign=TextLinks) \- Archives.com
-  * [USA Birth Records, 1900-Present](http://d.peoplesearchads.com/ck.php?zoneid=175&bannerid=167&oadest=http%3A//www.archives.com/GA.aspx?_act=birthRecords&location=US&cam=419&utm_source=Interment.net&utm_campaign=TextLinks) \- Archives.com
-  * [USA Marriage Records, 1900-Present](http://d.peoplesearchads.com/ck.php?zoneid=175&bannerid=166&oadest=http%3A//www.archives.com/GA.aspx?_act=marriageRecords&location=US&cam=419&utm_source=Interment.net&utm_campaign=TextLinks) \- Archives.com
-  * [USA Vital Records, 1900-Present](http://d.peoplesearchads.com/ck.php?zoneid=175&bannerid=169&oadest=http%3A//www.archives.com/GA.aspx?_act=vitalRecords&location=US&cam=419&utm_source=Interment.net&utm_campaign=TextLinks) \- Archives.com
+  * [USA Death Records, 1900-Present](http://www.archives.com/?_act=deathRecords&location=US&hardCopyCert=1&cam=419&utm_medium=Advertising&utm_source=Interment.net&utm_campaign=GenealogTextLinks&utm_content=GenealogyTextLinksDR) \- Archives.com
+  * [USA Obituary Records, 1900-Present](http://www.archives.com/?_act=obituaries&location=US&hardCopyCert=1&cam=419&utm_medium=Advertising&utm_source=Interment.net&utm_campaign=GenealogTextLinks&utm_content=GenealogyTextLinksObits) \- Archives.com
+  * [USA Birth Records, 1900-Present](http://www.archives.com/?_act=birthRecords&location=US&hardCopyCert=1&cam=419&utm_medium=Advertising&utm_source=Interment.net&utm_campaign=GenealogTextLinks&utm_content=GenealogyTextLinksBR) \- Archives.com
+  * [USA Marriage Records, 1900-Present](http://www.archives.com/?_act=marriageRecords&location=US&hardCopyCert=1&cam=419&utm_medium=Advertising&utm_source=Interment.net&utm_campaign=GenealogTextLinks&utm_content=GenealogyTextLinksMR) \- Archives.com
+  * [USA Vital Records, 1900-Present](http://www.archives.com/?_act=vitalRecords&location=US&hardCopyCert=1&cam=419&utm_medium=Advertising&utm_source=Interment.net&utm_campaign=GenealogTextLinks&utm_content=GenealogyTextLinksVR) \- Archives.com
 
 
