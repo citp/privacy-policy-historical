@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stacksandstacks.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017161015id_/http%3A//www.stacksandstacks.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stacksandstacks.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528005418id_/http%3A//www.stacksandstacks.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
@@ -34,3 +34,9 @@ You can also read more about online marketing practices and the technologies tha
 
   
 [Return to Stacks & Stacks Home Page](https://web.archive.org/)
+
+[](http://www.stacksandstacks.com/why-shop-at-stacks.html)  
+Stacks and Stacks, founded in 1984 in the San Francisco Bay Area, is a nationally recognized internet retailer. Stacksandstacks.com provides the best solutions for storage and organization, furniture, home furnishings for the living room, bedroom, office, kitchen, bathroom, and garage Choose from over 40,000 stylish, and affordable products for every room of the home. 
+
+Copyright 2013, Stacks and Stacks. All rights reserved.  
+All trademarks and registered trademarks are the property of their respective owners. 
