@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the helpingwithmath.com privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125222143id_/http%3A//www.helpingwithmath.com/about_us/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the helpingwithmath.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527154157id_/http%3A//www.helpingwithmath.com/about_us/privacy.htm) for the most accurate reproduction.*
 
 # helpingwithmath.com - Privacy Policy
 
+Custom Search 
+
 Your privacy is important to HelpingWithMath.com. We have created this privacy statement to show our commitment to privacy. 
+
+HelpingWithMath.com does not collect any personally identifiable information from any person browsing this site except when users sign up for a particular service that requires communication via email. We do use your IP address to help diagnose problems with our server, and to administer the site. 
 
 We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. In particular, we use Google and the [DoubleClick DART cookie](http://www.doubleclick.com/privacy/faq.aspx) to serve ads and you should know that 
 
@@ -14,4 +18,4 @@ We use third-party advertising companies to serve ads when you visit our website
 
 If we keep your email address we will not use it for any purpose other than that which we specifically tell you. We will not pass your email address to any other person or company without your permission.
 
-If you have any questions about this Privacy Policy please [contact the HelpingWithMath.com team](https://web.archive.org/web/20121125222143id_/http%3A//www.helpingwithmath.com/about_us/where.htm)
+If you have any questions about this Privacy Policy please [contact the HelpingWithMath.com team](https://web.archive.org/web/20130527154157id_/http%3A//www.helpingwithmath.com/about_us/where.htm)
