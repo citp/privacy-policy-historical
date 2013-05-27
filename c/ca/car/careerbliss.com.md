@@ -1,14 +1,13 @@
-> *The following text is extracted and transformed from the careerbliss.com privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103075110id_/http%3A//www.careerbliss.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerbliss.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527035812id_/http%3A//www.careerbliss.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CareerBliss
 
 At CareerBliss, we recognize that privacy is important. This Privacy Policy applies to all of the services offered by CyberCoders, LLC or its related companies (the "Services").
 
-If you have any questions about this Privacy Policy, please feel free to contact us through our website or write to us at:  
-6591 Irvine Center Drive, Suite 200  
-Irvine, CA 92618 
+If you have any questions about this Privacy Policy, please feel free to contact us through our website or write to us at: 
 
-## Information We Collect and How We Use It
+6591 Irvine Center Drive, Suite 200  
+Irvine, CA 92618
 
 We offer a number of services that do not require you to register for an account or provide any personal information to us, such as our search functions. In order to provide our full range of services, we may collect the following types of information: 
 
@@ -20,7 +19,7 @@ We offer a number of services that do not require you to register for an account
 
 
 
-CareerBliss only processes personal information for the purposes described in this Privacy Policy. In addition to the above, such purposes include: 
+CareerBliss only processes personal information for the purposes described in this Privacy Policy. In addition to the above, such purposes include:
 
   * Providing our services, including the display of customized content and advertising;
   * Auditing, research, and analysis in order to maintain, protect, and improve our services;
@@ -32,15 +31,11 @@ CareerBliss only processes personal information for the purposes described in th
 
 CareerBliss processes personal information on our services in the United States of America and in other countries. In some cases, we process personal information on a server outside your own country. We may process personal information to provide our own services. In some cases, we may process personal information on behalf of and according to the instructions of a third party, such as our advertising partners.
 
-## Choices for Personal Information
-
 When you register with CareerBliss, we ask you to provide personal information. If we use this information in a manner different than the purpose for which it was collected, then we will ask you for your consent prior to such use.
 
 If we propose to use personal information for any purposes other than those described in this Privacy Policy and/or in the specific service privacy notices, we will offer you an effective way to opt out of the use of personal information for those other purposes. We will not collect or use sensitive information for purposes other than those described in this Privacy Policy, unless we have obtained your prior consent.
 
 You can decline to submit personal information to CareerBliss, in which case we may not be able to provide all available services to you.
-
-## Information Sharing
 
 CareerBliss only shares personal information with other companies or individuals outside of CareerBliss in the following limited circumstances: 
 
@@ -56,32 +51,24 @@ We may share with third parties certain pieces of aggregated, non-personal infor
 
 Please contact us at the address below for any additional questions about the management or use of personal data.
 
-## Information Security
-
 We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure, or destruction of data. These include internal reviews of our data collection, storage and process practices, and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data.
 
 We restrict access to personal information to CareerBliss employees, contractors, and agents who need to know that information in order to operate, develop, or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
 
-## Data Integrity
-
 CareerBliss processes personal information only for the purposes for which it was collected and in accordance with this Privacy Policy or any applicable service-specific privacy notice. We review our data collection, storage, and processing practices to ensure that we only collect, store and process the personal information needed to provide or improve our services or as otherwise permitted under this Policy. We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary.
-
-## Accessing and Updating Personal Information
 
 When you use CareerBliss services, we make good faith efforts to provide you with access to your personal information and to correct this data if it is inaccurate or to delete such data at your request if it is not otherwise required to be retained by law or for legitimate business purposes. We ask individual users to identify themselves and he information requested to be accessed, corrected, or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. In any case where we provide information access and correction, we perform the service free of charge, except if doing so would require a disproportionate effort.
 
-## Enforcement
+CareerBliss regularly reviews its compliance with this Privacy Policy. Please feel free to direct any questions or concerns regarding this Privacy Policy or CareerBliss’s treatment of personal information by contacting us through the CareerBliss website or by writing to us at: 
 
-CareerBliss regularly reviews its compliance with this Privacy Policy. Please feel free to direct any questions or concerns regarding this Privacy Policy or CareerBliss’s treatment of personal information by contacting us through the CareerBliss website or by writing to us at:  
 6591 Irvine Center Drive, Suite 200  
-Irvine, CA 92618 
+Irvine, CA 92618
 
 When we receive formal written complaints at this address, it is CareerBliss’s policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between CareerBliss and an individual.
 
-## Changes to this Privacy Policy
-
 Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent, and we expect most such changes will be minor. Regardless, we will post any Privacy Policy changes on this page, and, if the changes are significant, we will provide a more prominent notice (including e-mail notification of Privacy Policy changes). Each version of this Privacy Policy will be identified at the top of the page.
 
-If you have any additional questions or concerns about this Privacy Policy, please feel free to contact us at any time through this web site or at:  
+If you have any additional questions or concerns about this Privacy Policy, please feel free to contact us at any time through this web site or at:
+
 6591 Irvine Center Drive, Suite 200  
-Irvine, CA 92618 
+Irvine, CA 92618
