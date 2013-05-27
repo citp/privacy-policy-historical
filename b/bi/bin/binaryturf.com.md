@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the binaryturf.com privacy policy that was archived on 2010-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100430224221id_/http%3A//www.binaryturf.com/%3Fp%3D1720) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the binaryturf.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527142242id_/http%3A//www.binaryturf.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
