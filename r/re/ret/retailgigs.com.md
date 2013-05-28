@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the retailgigs.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102060850id_/http%3A//www.retailgigs.com/mkt/content/js/default.asp%3Fpg%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the retailgigs.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528064111id_/http%3A//www.retailgigs.com/mkt/content/js/default.asp%3Fpg%3Dprivacy) for the most accurate reproduction.*
 
 # Retail Jobs, Retail Management Jobs, Merchandising Careers - RetailGigs.com
 
