@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mobilekarma.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017203453id_/http%3A//www.mobilekarma.com/t-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobilekarma.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528232919id_/http%3A//www.mobilekarma.com/t-privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
 [Home](https://web.archive.org/) > Privacy Policy
 
-_Last Update: March 3, 2011_ ****
+_Last Update: April 10, 2013_ ****
 
 Mobile Karma recognizes the importance of protecting the privacy of certain information collected about the users and visitors of our website. This Privacy Policy Statement discloses what information we gather, how we use it, and how to correct or change it.
 
@@ -24,23 +24,31 @@ This policy does not apply to the practices of companies that Mobile Karma does 
 
 **A. General**
 
-**1\. Collection.** Mobile Karma collects personal information when you register with Mobile Karma, when you use Mobile Karma products or services, when you visit Mobile Karma pages or the pages of certain Mobile Karma partners, and when you enter contests, promotions or sweepstakes. Mobile Karma may combine information about you that we have with information we obtain from business partners or other companies. 
+**1\. Non-Personally Identifiable Information.** When you visit our site, we collect some basic information that does not identify individual users. This includes pages visited, types of products purchased, and feedback from our visitors, as well as location data, logs and other communication data, and information about your computer and internet connection, including your IP address, operating system and browser type. We then aggregate this information with other pieces of information to improve our site and make your experience on the site as valuable and efficient as possible. Pages of the site may use devices that permit us to count users who have visited those pages and for other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity).
 
-**2\. Information Sought.** When you register we ask for information such as your name, e-mail address, member or project ID, password, password hint, job title, company name, address, telephone and fax numbers. Once you register with Mobile Karma and sign in to our services, you are not anonymous to us. 
+We may share your PII and non-personal information, including your name, address, email address and any transactions you conduct on our website with us with a third party advertising partner and its service providers in order to deliver tailored advertising to you that match your interests when you visit our website as well as other websites. Our advertising partner will anonymize the data that we provide so that no one else will receive your PII.
 
-(a) **Purchase or Sale of Products or Services Online.** Mobile Karma will collect your contact and payment information (including name, postal address, email address, credit card number, or other financial transaction information).
+You may opt-out of the use of your information for tailored advertising purposes. To learn more about the use of this information or to choose not to have this information used by our third-party advertising partner by opting out please visit the Network Advertising Initiative by [**clicking here**](http://www.networkadvertising.org/). _If you delete your Cookies, use a different browser, or buy a new computer, you will need to renew your opt-out choice._
 
-We only use this information to create/update your account, verify your identity, authorize payments, and to send you a confirmation of your payment. We will share your financial information via a secure Internet connection with our order-processing center for the sole purpose of processing your order or refund. 
+**2\. Personally Identifiable Information.** Mobile Karma collects personal information when you register with Mobile Karma, when you use Mobile Karma products or services, when you visit Mobile Karma pages or the pages of certain Mobile Karma partners, and when you enter contests, promotions or sweepstakes. Mobile Karma may combine information about you that we have with information we obtain from business partners or other companies. 
 
-**3\. Right to refrain from giving information.** You have right to refrain from giving us certain information, but then you might not be able to take advantage of all of our features. We use the information that you provide for to enhance the service, such as responding to your requests. However, you may not mask your identity by providing false or misleading information. For example, you may not use IP masking to mask your Internet access location, including without limitation, proxy servers, masking software or the like. 
+**3\. Information Sought.** When you register we ask for information such as your name, e-mail address, member or project ID, password, password hint, job title, company name, address, telephone and fax numbers. Once you register with Mobile Karma and sign in to our services, you are not anonymous to us. 
 
-**4\. IP Address and Cookies.** Mobile Karma automatically receives and records information on our server logs from your browser, including your IP address, Mobile Karma cookie information, and the page you request. Most web browsers have the ability to accept cookies, reject cookies, or to prompt the user before accepting them. The help portion of the toolbar of your browser will tell you how to select the option that suits you best. However, disabling the acceptance of cookies allows you to take full advantage of some of the best and most advanced features that we have to offer, and we recommend that you leave them turned on. We do not normally link IP addresses to anything personally identifiable, which means that a user's session will be logged, but the user will remain anonymous to us.
+**Purchase or Sale of Products or Services Online.** Mobile Karma will collect your contact and payment information (including name, postal address, email address, credit card number, or other financial transaction information).
 
-**5\. Web Beacons.** Mobile Karma may use web beacons to access Mobile Karma cookies inside and outside our network of websites and in connection with Mobile Karma products and services. 
+We also use this information to create/update your account, verify your identity, authorize payments, and to send you a confirmation of your payment. We will share your financial information via a secure Internet connection with our order-processing center for the sole purpose of processing your order or refund. 
 
-**6\. Software.** During some visits we may use software tools such as JavaScript to measure and collect session information, including page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page. 
+**4\. Right to refrain from giving information.** You have right to refrain from giving us certain information, but then you might not be able to take advantage of all of our features. We use the information that you provide for to enhance the service, such as responding to your requests. However, you may not mask your identity by providing false or misleading information. For example, you may not use IP masking to mask your Internet access location, including without limitation, proxy servers, masking software or the like. 
 
-**7\. Use.** Mobile Karma uses information for the following general purposes: to customize the advertising and content you see, fulfill your requests for products and services, improve our services, contact you, conduct research, system administration, diagnose problems with our main computers, and provide anonymous reporting for internal and external clients. 
+**5\. IP Address and Cookies.** Mobile Karma automatically receives and records information on our server logs from your browser, including your IP address, Mobile Karma cookie information, and the page you request. Most web browsers have the ability to accept cookies, reject cookies, or to prompt the user before accepting them. The help portion of the toolbar of your browser will tell you how to select the option that suits you best. However, disabling the acceptance of cookies allows you to take full advantage of some of the best and most advanced features that we have to offer, and we recommend that you leave them turned on. We do not normally link IP addresses to anything personally identifiable, which means that a user's session will be logged, but the user will remain anonymous to us.
+
+**6\. Web Beacons.** Mobile Karma may use web beacons to access Mobile Karma cookies inside and outside our network of websites and in connection with Mobile Karma products and services. 
+
+**7\. Software.** During some visits we may use software tools such as JavaScript to measure and collect session information, including page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page. 
+
+**8\. Online Advertising.** We use third-party advertising companies to serve ads when you visit our Website. These companies may use information about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. [Click here](http://www.networkadvertising.org/) if you would like more information about this practice and to know your choices about not having this information used by these companies.
+
+**9\. Use.** Mobile Karma uses information for the following general purposes: to customize the advertising and content you see, fulfill your requests for products and services, improve our services, contact you, conduct research, system administration, diagnose problems with our main computers, and provide anonymous reporting for internal and external clients. 
 
 **B. Information Sharing and Disclosure**
 
@@ -57,7 +65,9 @@ Mobile Karma does not knowingly collect or solicit personal information from any
 
 **3\. COOKIES**
 
-A. **Rights Reserved.** Mobile Karma may set and access Mobile Karma cookies on your computer. You may occasionally get cookies from our business partners. Mobile Karma and/or Mobile Karma-affiliates do not control these cookies.
+A. **Rights Reserved.** Mobile Karma may set and access Mobile Karma cookies on your computer. You may occasionally get cookies from our business partners for advertising and other purposes. Mobile Karma and/or Mobile Karma-affiliates do not control these cookies.
+
+You may opt-out of the use of your information for tailored advertising purposes. To learn more about the use of this information or to choose not to have this information used by our third-party advertising partner by opting out please visit the Network Advertising Initiative by [**clicking here**](http://www.networkadvertising.org/). _If you delete your Cookies, use a different browser, or buy a new computer, you will need to renew your opt-out choice._
 
 B. **This Policy Not Applicable to Other Companies.** Mobile Karma may let other companies show advertisements on some of our pages set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to Mobile Karma's cookies.
 
