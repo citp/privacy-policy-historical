@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sergiorossi.com privacy policy that was archived on 2012-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121011065645id_/http%3A//www.sergiorossi.com/cms/legal/privacypolicy.asp%3Ftskay%3D82631D22) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sergiorossi.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528025525id_/http%3A//www.sergiorossi.com/cms/legal/privacypolicy.asp%3Ftskay%3D82631D22) for the most accurate reproduction.*
 
 # Sergio Rossi Online Store - Legal Area
 
@@ -12,7 +12,7 @@ Your personal data are collected and processed by Sergio Rossi S.p.A. and the co
 
 Your Personal Data will be processed to provide the services you subscribed to or reserved for registered users, to facilitate your navigation of and shopping from the website and to keep you informed of PPR Group news and offers. 
 
-Sergio Rossi S.p.A. and the companies of PPR Group are jointly controllers of Personal Data collected and processed for purpose of rendering the e-commerce services and the sale of products (herein the " **Commercial Purposes** ") through the Site, together with YOOX S.p.A. with registered offices in Via Nannetti 1, 40069 Zola Predosa (BO), Italy, Bologna Business Register, Tax and VAT number 02050461207, share capital Euro 570.544,00 fully paid up. 
+Sergio Rossi S.p.A. and the companies of PPR Group are jointly controllers of Personal Data collected and processed for purpose of rendering the e-commerce services and the sale of products (herein the " **Commercial Purposes** ") through the Site, together with YOOX S.p.A. with registered offices in Via Nannetti 1, 40069 Zola Predosa (BO), Italy, Bologna Business Register, Tax and VAT number 02050461207, share capital Euro 574.301,00 fully paid up. 
 
 The management of the sale of the products and the transactions performed on www.sergiorossi.com, within the United States of America are operated, under license, by YOOX S.p.A.’ s subsidiary YOOX Corporation, a Delaware corporation having an address at 122 Hudson Street, 5th Floor, New York, New York 10013 ("YOOX USA", YOOX S.p.A. and YOOX USA also jointly referred to as YOOX). 
 
