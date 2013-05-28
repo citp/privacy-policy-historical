@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ronpaul.com privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127171210id_/http%3A//www.ronpaul.com/misc/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ronpaul.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528171833id_/http%3A//www.ronpaul.com/misc/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -24,6 +24,4 @@ If you wish to disable cookies, you may do so through your individual browser op
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at support @ ronpaul.com.
 
-[](http://www.ronpaul.com/wp-content/plugins/adrotate/adrotate-out.php?track=NywyLDAsaHR0cDovL3d3dy5hdXN0cmlhaW52ZXN0LmNvbT9hZmY9YTg3ZmY2NzlhMmYzZTcxZDkxODFhNjdiNzU0MjEyMmM)
-
-[ ](http://www.ronpaul.com/wp-content/plugins/adrotate/adrotate-out.php?track=NywyLDAsaHR0cDovL3d3dy5hdXN0cmlhaW52ZXN0LmNvbT9hZmY9YTg3ZmY2NzlhMmYzZTcxZDkxODFhNjdiNzU0MjEyMmM)
+[ ](http://www.ronpaul.com/wp-content/plugins/adrotate/adrotate-out.php?track=MTMsMiwwLGh0dHA6Ly9iZWZyZWUyMDE2LmZhbWlseXN1LmhvcC5jbGlja2JhbmsubmV0)
