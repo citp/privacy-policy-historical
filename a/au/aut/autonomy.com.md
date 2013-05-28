@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autonomy.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130165839id_/http%3A//www.autonomy.com/content/Legal/PrivacyPolicy.en.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autonomy.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528045544id_/http%3A//www.autonomy.com/content/Legal/PrivacyPolicy.en.html) for the most accurate reproduction.*
 
 # General Privacy Policy
 
@@ -29,3 +29,9 @@ Autonomy complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe
 You acknowledge that acceptance of this privacy policy, as updated from time to time at this location, is a condition to your use of our website and you agree to be bound by all of its terms and conditions.
 
 If you have any questions regarding our policies please e-mail Autonomy's webmaster at [webmaster@autonomy.com](mailto:webmaster@autonomy.com).
+
+## Unsubscribe from Autonomy Emails
+
+If you no longer wish to receive emails from HP Autonomy, please send a blank email to [unsubscribe@autonomy.com](mailto:unsubscribe@autonomy.com).
+
+To update your Hewlett Packard email subscription, [please click here](http://www.hp.com/go/unsubscribe-p).
