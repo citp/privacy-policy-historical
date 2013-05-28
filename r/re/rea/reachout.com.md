@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the reachout.com privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127023347id_/http%3A//www.reachout.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reachout.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528165624id_/https%3A//reachout.com/privacy) for the most accurate reproduction.*
 
-# Privacy policy | Reach out Australia
+# Privacy policy | ReachOut.com Australia
 
 The Inspire Foundation, it’s staff and volunteers who operate [http://au.reachout.com](http://au.reachout.com/), [http://forums.reachout.com](http://forums.reachout.com/), [http://www.inspire.org.au](http://www.inspire.org.au/), and any ReachOut.com and Inspire Foundation social media profiles, respect and are committed to maintaining the privacy of all visitors to this site. This policy (“Privacy Policy”) sets out how we deal with the collection, security, quality, use and disclosure of your Personal Information and Sensitive Information in accordance with the Privacy Act 1988 (Cth). 
 
-Your use of [http://au.reachout.com](http://au.reachout.com/), [http://forums.au.reachout.com](http://forums.au.reachout.com/), [www.inspire.org.au](https://web.archive.org/web/20121127023347id_/http%3A//www.reachout.com/www.inspire.org.au), or any other website through which you communicate with us (including through ReachOut.com and Inspire Foundation social media profiles such as Facebook, Twitter, Youtube, Myspace, etc) (referred to in this policy as the ‘Sites’) indicates that you accept this Privacy Policy, and consent to the collection and use by us of your Personal Information and Sensitive Information according to the terms below.
+Your use of [http://au.reachout.com](http://au.reachout.com/), [http://forums.au.reachout.com](http://forums.au.reachout.com/), [www.inspire.org.au](https://web.archive.org/web/20130528165624id_/https%3A//reachout.com/www.inspire.org.au), or any other website through which you communicate with us (including through ReachOut.com and Inspire Foundation social media profiles such as Facebook, Twitter, Youtube, Myspace, etc) (referred to in this policy as the ‘Sites’) indicates that you accept this Privacy Policy, and consent to the collection and use by us of your Personal Information and Sensitive Information according to the terms below.
 
-If you have any questions, comments or concerns about this Privacy Policy, please [contact us.](https://web.archive.org/web/20121127023347id_/http%3A//www.reachout.com/~/link.aspx?_id=93C92F9391BA46FB80630BF1B0978385&_z=z)
+If you have any questions, comments or concerns about this Privacy Policy, please [contact us.](https://web.archive.org/Contact-Us)
 
 ##  **1.    What types of information do we collect?**
 
