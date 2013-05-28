@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ace2three.com privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124115042id_/http%3A//www.ace2three.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ace2three.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528073333id_/http%3A//www.ace2three.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy – Ace2Three Rummy Users Privacy
 
@@ -8,8 +8,7 @@ We require the users to register with us in order to access our games. For this,
 
 Ace2Three.com does not disclose your personal information to any third party without first receiving your permission. By registering on our website, however, you grant permission for your personal information to be shared and/or used as stated in this privacy policy. We may need to disclose information when required by law. We use your personal information to improve our service and your experience on our sites and provide our users with new offers, products and services. Your personal information may be disclosed to sponsors and suppliers of prizes for our winners available through our site. Ace2Three.com has the required security to protect the loss, misuse and alteration of information you provide us. Your registration data is password protected where only you can access your information. Ace2Three.com is not responsible for any activity which is undertaken when your password is used. We suggest you not to disclose your password to anyone. 
 
-Ace2Three.com is committed to protecting the privacy of children and to complying with the Children's Online Privacy Protection Act ("COPPA"). Ace2Three.com does not knowingly collect personal information from children under the age of 13.   
-
+Ace2Three.com is committed to protecting the privacy of children and to complying with the Children's Online Privacy Protection Act ("COPPA"). Ace2Three.com does not knowingly collect personal information from children under the age of 13. 
 
   * If, in our current website or software, a user identifies himself or herself as a child under the age of 13, we will not collect, store or use any personal information.
   * If we receive personal information that we discover was provided by a child under the age of 13, we will promptly delete this information in a secure manner.
