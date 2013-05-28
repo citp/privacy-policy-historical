@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discountandyou.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231045756id_/http%3A//www.discountandyou.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discountandyou.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528021251id_/http%3A//www.discountandyou.com/privacy_policy) for the most accurate reproduction.*
 
 # fashion,utsav,saree designs,salwar,discount,salwar kameez,sarees,indian wedding sarees,saree,indian wedding lehenga,designer sarees,lehenga sarees,printed sarees,bridal saree,bridal lehenga,blouse back,salwar suits,bollywood dresses,anarkali suits,pakista
 
