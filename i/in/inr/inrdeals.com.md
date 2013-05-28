@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inrdeals.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102155650id_/http%3A//www.inrdeals.com/index.php%3Fdispatch%3Dpages.view%26page_id%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inrdeals.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528034151id_/http%3A//www.inrdeals.com/index.php%3Fdispatch%3Dpages.view%26page_id%3D3) for the most accurate reproduction.*
 
 # Privacy policy -
 
