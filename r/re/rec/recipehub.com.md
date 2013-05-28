@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the recipehub.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106233650id_/http%3A//www.recipehub.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recipehub.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528083945id_/http%3A//www.recipehub.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -50,6 +50,20 @@ We do not sell, trade, or otherwise transfer your personally identifiable inform
 ###  Third party links 
 
 Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites. 
+
+### Display Advertising
+
+To better serve our users and improve our display advertising efforts, we enable Google Analytics to collect data about site traffic via the DoubleClick cookie, in addition to data collected through the standard analytics implementation.
+
+  * • This site uses Remarketing with Google Analytics to advertise online.
+  * • Third-party vendors, including Google, show our ads on sites across the Internet.
+  * • Our and third-party vendors, including Google, use first-party cookies and third-party cookies together to inform, optimize, and serve ads based on someone’s past visits to your website.
+
+
+
+This site uses Remarketing with Google Analytics to advertise online. Third-party vendors, including Google, show our ads on sites across the Internet. Our and third-party vendors, including Google, use first-party cookies and third-party cookies together to inform, optimize, and serve ads based on someone’s past visits to your website.
+
+If you would like to learn more about [Google AdWords Remarketing Policy](https://support.google.com/adwordspolicy/bin/answer.py?hl=en&answer=143465), click here. If you’d like to opt-out, please visit the [Google Analytics opt-out browser add-on](https://tools.google.com/dlpage/gaoptout/).
 
 ###  Opt-Out 
 
@@ -142,14 +156,15 @@ By using our site, you consent to our privacy policy.
 ###  Changes to our Privacy Policy 
 
 If we decide to change our privacy policy, we will post those changes on this page.   
-This policy was last modified  **August 28, 2012.**
+This policy was last modified  **February 6, 2013.**
 
 ###  Contact Us 
 
 If there are any questions regarding this privacy policy you may Contact Us at: 
 
 **RecipeHub**   
-588 Sutter St. #551   
-San Francisco, CA 94102   
+One North Lexington   
+9th Floor   
+White Plains, NY, 10601   
 (415) 649-6124 [   
 contactus@recipehub.com ](mailto:contactus@recipehub.com)
