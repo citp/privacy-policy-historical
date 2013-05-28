@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the competitionhunter.com privacy policy that was archived on 2012-12-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121224132814id_/http%3A//www.competitionhunter.com/static/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the competitionhunter.com privacy policy that was archived on 2013-05-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130528181202id_/http%3A//www.competitionhunter.com/static/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" class=" webkit chrome linux js"><head>
-<!-- Monday 24th 2012f December 2012 01:28:15 PM -->
+<!-- Tuesday 28th 2013f May 2013 07:12:00 PM -->
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta http-equiv="Pragma" content="no-cache">
 <meta http-equiv="Expires" content="0">
@@ -37,47 +37,31 @@ $(function() {
 
 <link rel="stylesheet" type="text/css" href="http://www.competitionhunter.com/modules/thumbnail_plus/css/shadows.css">
 
-
 <script>
+var my_pligg_base='';
+
 function tweet_story(htmlid, linkid)
 {
-//	var emailtodisplay=document.getElementById('tweet-' + htmlid).style.display ? '' : 'none';
-//	document.getElementById('emailto-' + htmlid).style.display = emailtodisplay;
+	var url = my_pligg_base + "/modules/twitter/sendtweet.php";
+	var mycontent = "htmlid=" + htmlid + "&linkid=" + linkid;
 
-	if (xmlhttp) {
-		url = $thisurl + "/modules/twitter/sendtweet.php";
-		mycontent = "htmlid=" + htmlid + "&linkid=" + linkid;
-		target2 = document.getElementById ('tweet-' + htmlid);
-		target2.innerHTML = "<img src='./modules/twitter/templates/images/tweet_sending.gif' width='110' height='20' style='border:0;padding:0;marign:0;' title='Sending Tweet...' alt='Sending Tweet...' />";	
-		
-		mnmxmlhttp[htmlid] = new myXMLHttpRequest ();
-		
-		if (mnmxmlhttp) {
-			mnmxmlhttp[htmlid].open ("POST", url, true);
-			mnmxmlhttp[htmlid].setRequestHeader ('Content-Type',
-					   'application/x-www-form-urlencoded');
+	$('#tweet-'+htmlid).html("<img src='./modules/twitter/templates/images/tweet_sending.gif' width='110' height='20' style='border:0;padding:0;marign:0;' title='Sending Tweet...' alt='Sending Tweet...' />");
 
-			mnmxmlhttp[htmlid].send (mycontent);
-			errormatch = new RegExp ("^ERROR:");
-			target1 = document.getElementById ('tweet-' + htmlid);
-			mnmxmlhttp[htmlid].onreadystatechange = function () {
-				if (mnmxmlhttp[htmlid].readyState == 4) {
-					if (mnmxmlhttp[htmlid].responseText.match (errormatch)) {
-						target2 = document.getElementById ('tweet-' + htmlid);
-						target2.innerHTML = '<font color=red>'+mnmxmlhttp[htmlid].responseText.substring (6, mnmxmlhttp[htmlid].responseText.length)+'</font>';
-					} else {
-						target2 = document.getElementById ('tweet-' + htmlid);
-						target2.innerHTML = mnmxmlhttp[htmlid].responseText;
-					}
-				}
-			}
+    	$.post(url, mycontent, function (data) {
+		if (data.match (new RegExp ("^ERROR:"))) {
+			$('#tweet-'+htmlid).html('<font color=red>'+data.substring(6, data.length)+'</font>');
+   		} else {
+			$('#tweet-'+htmlid).html(data);
 		}
-	}
+	}, "text");
 }
 </script>
 
 <link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://www.competitionhunter.com/rss.php">
 <link rel="icon" href="/favicon.ico" type="image/x-icon">
+
+<meta name="avgthreatlabs-verification" content="aa23d3f1b49951f57dbb50188623b20b824b862e"> 
+
 </head>
 <body>
 <a name="top"></a>
@@ -177,13 +161,13 @@ google_ad_height = 60;
 					<table border="0" cellspacing="0" cellpadding="0" width="100%">
 						<tbody><tr valign="top">
 							<td width="120" style="padding-top: 1px;">
-								<small>[2012-12-23 15:39:08]</small>
+								<small>[2013-05-16 14:45:38]</small>
 							</td>
 							<td>
-								Seasons Greetings from all at Competition Hunter!
+								Big news!  A new way to earn (quite a lot of) Karma!  <a href="http://www.competitionhunter.com/blog/big-news-a-new-way-to-earn-karma-points/" target="_blank">Find out more here!</a>
 							</td>
 							<td width="20">
-								<a id="notification_close" href="/close.php?id=1356277148" class="ui-dialog-titlebar-close ui-corner-all" role="button">
+								<a id="notification_close" href="/close.php?id=1368711938" class="ui-dialog-titlebar-close ui-corner-all" role="button">
 									<span class="ui-icon ui-icon-closethick">
 										close
 									</span>
@@ -371,15 +355,15 @@ If you decide to visit Competition Hunter, your visit and any possible dispute o
 <div class="boxcontent">
 	<ul class="sidebar-stories">
 		
-<li><span class="sidebar-vote-number"><a href="/Win-a-home-and-garden-competitions/win-a-hunter-rockefeller-desk-fan-worth-over-%C2%A3240/">3</a></span><span class="sidebar-article"><a href="/Win-a-home-and-garden-competitions/win-a-hunter-rockefeller-desk-fan-worth-over-%C2%A3240/" class="switchurl">Win a Hunter Rockefeller d...</a></span></li>
+<li><span class="sidebar-vote-number"><a href="/Win-Cash-and-Vouchers-competitions/itv-dickinsons-real-deal-competitions-tuesday-win-%C2%A33210-cash/">5</a></span><span class="sidebar-article"><a href="/Win-Cash-and-Vouchers-competitions/itv-dickinsons-real-deal-competitions-tuesday-win-%C2%A33210-cash/" class="switchurl">ITV Dickinson's Real Deal ...</a></span></li>
 
-<li><span class="sidebar-vote-number"><a href="/Win-a-home-and-garden-competitions/win-a-frogtape-prize-bundle-worth-%C2%A350/">3</a></span><span class="sidebar-article"><a href="/Win-a-home-and-garden-competitions/win-a-frogtape-prize-bundle-worth-%C2%A350/" class="switchurl">Win a FrogTape prize bundl...</a></span></li>
+<li><span class="sidebar-vote-number"><a href="/Win-clothes-makeup-Fashion-and-beauty-competitions/win-all-of-this-clothing-from-odessa-worth-%C2%A3115-guestlist/">3</a></span><span class="sidebar-article"><a href="/Win-clothes-makeup-Fashion-and-beauty-competitions/win-all-of-this-clothing-from-odessa-worth-%C2%A3115-guestlist/" class="switchurl">Win all of this clothing f...</a></span></li>
 
-<li><span class="sidebar-vote-number"><a href="/Win-a-home-and-garden-competitions/win-a-soft-water-system-worth-over-%C2%A3500-from-bwt/">3</a></span><span class="sidebar-article"><a href="/Win-a-home-and-garden-competitions/win-a-soft-water-system-worth-over-%C2%A3500-from-bwt/" class="switchurl">Win a soft water system wo...</a></span></li>
+<li><span class="sidebar-vote-number"><a href="/Win-a-home-and-garden-competitions/win-a-year%E2%80%99s-supply-of-teapigs-organic-matcha-stylist-magazine/">3</a></span><span class="sidebar-article"><a href="/Win-a-home-and-garden-competitions/win-a-year%E2%80%99s-supply-of-teapigs-organic-matcha-stylist-magazine/" class="switchurl">Win A Year’s Supply Of tea...</a></span></li>
 
-<li><span class="sidebar-vote-number"><a href="/Win-Electronics-and-Gadgets-competitions/win-a-motorola-razr-i-smartphone/">3</a></span><span class="sidebar-article"><a href="/Win-Electronics-and-Gadgets-competitions/win-a-motorola-razr-i-smartphone/" class="switchurl">Win a Motorola RAZR i smar...</a></span></li>
+<li><span class="sidebar-vote-number"><a href="/Win-clothes-makeup-Fashion-and-beauty-competitions/win-a-%C2%A3500-country-attire-designer-spending-spree-stylist-magazine/">3</a></span><span class="sidebar-article"><a href="/Win-clothes-makeup-Fashion-and-beauty-competitions/win-a-%C2%A3500-country-attire-designer-spending-spree-stylist-magazine/" class="switchurl">Win A £500 Country Attire ...</a></span></li>
 
-<li><span class="sidebar-vote-number"><a href="/Win-Electronics-and-Gadgets-competitions/win-an-ipod-nano-and-portable-speaker/">2</a></span><span class="sidebar-article"><a href="/Win-Electronics-and-Gadgets-competitions/win-an-ipod-nano-and-portable-speaker/" class="switchurl">Win an iPod Nano and porta...</a></span></li>
+<li><span class="sidebar-vote-number"><a href="/Win-clothes-makeup-Fashion-and-beauty-competitions/win-a-%C2%A31000-spending-spree-with-garmentquarter-com-stylist-magazine/">3</a></span><span class="sidebar-article"><a href="/Win-clothes-makeup-Fashion-and-beauty-competitions/win-a-%C2%A31000-spending-spree-with-garmentquarter-com-stylist-magazine/" class="switchurl">Win a £1,000 spending spre...</a></span></li>
 
 	</ul>
 </div>
@@ -393,15 +377,15 @@ If you decide to visit Competition Hunter, your visit and any possible dispute o
 <div class="boxcontent">
 	<ul class="sidebar-stories">
 		
-<li><span class="sidebar-vote-number"><a href="/Win-Electronics-and-Gadgets-competitions/win-a-motorola-razr-i-smartphone/">3</a></span><span class="sidebar-article"><a href="/Win-Electronics-and-Gadgets-competitions/win-a-motorola-razr-i-smartphone/" class="switchurl">Win a Motorola RAZR i smar...</a></span></li>
+<li><span class="sidebar-vote-number"><a href="/Win-Electronics-and-Gadgets-competitions/win-a-16gb-ipad-with-true-blood-season-five-stylist-magazine/">6</a></span><span class="sidebar-article"><a href="/Win-Electronics-and-Gadgets-competitions/win-a-16gb-ipad-with-true-blood-season-five-stylist-magazine/" class="switchurl">Win a 16GB iPad with True ...</a></span></li>
 
-<li><span class="sidebar-vote-number"><a href="/Win-a-home-and-garden-competitions/win-a-soft-water-system-worth-over-%C2%A3500-from-bwt/">3</a></span><span class="sidebar-article"><a href="/Win-a-home-and-garden-competitions/win-a-soft-water-system-worth-over-%C2%A3500-from-bwt/" class="switchurl">Win a soft water system wo...</a></span></li>
+<li><span class="sidebar-vote-number"><a href="/Win-a-home-and-garden-competitions/win-an-armchair-worth-%C2%A3549-from-dfs-stylist-magazine/">5</a></span><span class="sidebar-article"><a href="/Win-a-home-and-garden-competitions/win-an-armchair-worth-%C2%A3549-from-dfs-stylist-magazine/" class="switchurl">Win an armchair worth £549...</a></span></li>
 
-<li><span class="sidebar-vote-number"><a href="/Win-a-home-and-garden-competitions/win-a-frogtape-prize-bundle-worth-%C2%A350/">3</a></span><span class="sidebar-article"><a href="/Win-a-home-and-garden-competitions/win-a-frogtape-prize-bundle-worth-%C2%A350/" class="switchurl">Win a FrogTape prize bundl...</a></span></li>
+<li><span class="sidebar-vote-number"><a href="/Win-Cash-and-Vouchers-competitions/itv-dickinsons-real-deal-competitions-tuesday-win-%C2%A33210-cash/">5</a></span><span class="sidebar-article"><a href="/Win-Cash-and-Vouchers-competitions/itv-dickinsons-real-deal-competitions-tuesday-win-%C2%A33210-cash/" class="switchurl">ITV Dickinson's Real Deal ...</a></span></li>
 
-<li><span class="sidebar-vote-number"><a href="/Win-a-home-and-garden-competitions/win-a-hunter-rockefeller-desk-fan-worth-over-%C2%A3240/">3</a></span><span class="sidebar-article"><a href="/Win-a-home-and-garden-competitions/win-a-hunter-rockefeller-desk-fan-worth-over-%C2%A3240/" class="switchurl">Win a Hunter Rockefeller d...</a></span></li>
+<li><span class="sidebar-vote-number"><a href="/Win-clothes-makeup-Fashion-and-beauty-competitions/win-a-%C2%A3500-reiss-wardrobe-stylist-magazine/">4</a></span><span class="sidebar-article"><a href="/Win-clothes-makeup-Fashion-and-beauty-competitions/win-a-%C2%A3500-reiss-wardrobe-stylist-magazine/" class="switchurl">Win a £500 Reiss wardrobe ...</a></span></li>
 
-<li><span class="sidebar-vote-number"><a href="/Win-Electronics-and-Gadgets-competitions/win-an-ipod-nano-and-portable-speaker/">2</a></span><span class="sidebar-article"><a href="/Win-Electronics-and-Gadgets-competitions/win-an-ipod-nano-and-portable-speaker/" class="switchurl">Win an iPod Nano and porta...</a></span></li>
+<li><span class="sidebar-vote-number"><a href="/Win-clothes-makeup-Fashion-and-beauty-competitions/win-a-palmerharding-shirt-courtesy-of-cotton-usa-stylist-magazine/">4</a></span><span class="sidebar-article"><a href="/Win-clothes-makeup-Fashion-and-beauty-competitions/win-a-palmerharding-shirt-courtesy-of-cotton-usa-stylist-magazine/" class="switchurl">Win a palmer//harding shir...</a></span></li>
 
 	</ul>
 </div>
@@ -493,15 +477,15 @@ If you decide to visit Competition Hunter, your visit and any possible dispute o
 </div>
 <div class="boxcontent" id="sidebar-comments">
 	
-<p></p><div style="float:left;margin:1px 4px 1px 0px;"><img src="http://www.competitionhunter.com/avatars/Gravatar_15.gif" alt="macflava" title="macflava"></div>“<a class="switchurl" href="/Win-Cash-and-Vouchers-competitions/win-a-vue-gift-card-time-out-london/#c2097">loads of other great comps via this link!!...</a>”<p></p>
+<p></p><div style="float:left;margin:1px 4px 1px 0px;"><img src="http://www.competitionhunter.com/avatars/Gravatar_15.gif" alt="Josephine" title="Josephine"></div>“<a class="switchurl" href="/Win-Cash-and-Vouchers-competitions/itv-britains-got-talent-competition-win-%C2%A350000-cash-and-international-theatre-holiday/#c3763">Must say I love this programme.  David Walliams and Mr.Cowell are a heady...</a>”<p></p>
 
-<p></p><div style="float:left;margin:1px 4px 1px 0px;"><img src="http://www.competitionhunter.com/avatars/Gravatar_15.gif" alt="macflava" title="macflava"></div>“<a class="switchurl" href="/Win-Cash-and-Vouchers-competitions/win-a-vue-gift-card-time-out-london/#c2096">merry christmas competition hunter...</a>”<p></p>
+<p></p><div style="float:left;margin:1px 4px 1px 0px;"><img src="http://www.competitionhunter.com/avatars/Gravatar_15.gif" alt="Josephine" title="Josephine"></div>“<a class="switchurl" href="/Win-Cash-and-Vouchers-competitions/win-a-amazon-gift-certificate/#c3762">Being a late developer I have just discovered Amazon...... and it's great!...</a>”<p></p>
 
-<p></p><div style="float:left;margin:1px 4px 1px 0px;"><img src="http://www.competitionhunter.com/avatars/Gravatar_15.gif" alt="macflava" title="macflava"></div>“<a class="switchurl" href="/Win-Cash-and-Vouchers-competitions/win-a-%C2%A31000-shopping-spree-with-foxhall-shortlist-magazine-competitions/#c2095">ooh nice, was a couple of extra comps on the link!!...</a>”<p></p>
+<p></p><div style="float:left;margin:1px 4px 1px 0px;"><img src="http://www.competitionhunter.com/avatars/Gravatar_15.gif" alt="Josephine" title="Josephine"></div>“<a class="switchurl" href="/Win-a-home-and-garden-competitions/win-a-kew-gardens-collection-tool-set-competitions-your-home-online/#c3761">I would love to visit Kew - anyone out there visited?...</a>”<p></p>
 
-<p></p><div style="float:left;margin:1px 4px 1px 0px;"><img src="http://www.competitionhunter.com/avatars/Gravatar_15.gif" alt="macflava" title="macflava"></div>“<a class="switchurl" href="/Win-Cash-and-Vouchers-competitions/win-a-%C2%A31000-shopping-spree-with-foxhall-shortlist-magazine-competitions/#c2094">done..fingers crossed now!!...</a>”<p></p>
+<p></p><div style="float:left;margin:1px 4px 1px 0px;"><img src="http://www.competitionhunter.com/avatars/Gravatar_15.gif" alt="Josephine" title="Josephine"></div>“<a class="switchurl" href="/Win-Food-and-drink-competitions/baking-mad-competitions/#c3760">On your marks, get set .............................BAKE...</a>”<p></p>
 
-<p></p><div style="float:left;margin:1px 4px 1px 0px;"><img src="http://www.competitionhunter.com/avatars/Gravatar_15.gif" alt="macflava" title="macflava"></div>“<a class="switchurl" href="/Win-Cash-and-Vouchers-competitions/itv-who-wants-to-be-a-millionaire-live-competition-win-%C2%A3110000-cash-and-a-holiday-to-new-york/#c2093">done......good luck to me!!!...</a>”<p></p>
+<p></p><div style="float:left;margin:1px 4px 1px 0px;"><img src="http://www.competitionhunter.com/avatars/Gravatar_15.gif" alt="Josephine" title="Josephine"></div>“<a class="switchurl" href="/Win-tickets-Events-competitions/two-free-tickets-to-the-legoland-windsor-resort-worth-%C2%A386-%7C-the-sun-competitions/#c3759">Me too Fi .... that date's us!  Don't you think the pusscat on the blog...</a>”<p></p>
 
 </div>		</div>
 		<div class="box_bottom"><!-- //--></div>
@@ -569,24 +553,10 @@ glam_logo_country = 'UK';
 Find out how we use cookies <a href="http://www.competitionhunter.com/static/privacy-policy">here</a>.
 	</div>
 	<div class="columns right small_font">	
-	<a href="http://www.competitionhunter.com/static/help-and-faq/">Help and FAQ</a>
-		<span class="bullet">&nbsp;•&nbsp;</span>
-<a href="http://www.competitionhunter.com/blog/">Blog</a>
-		<span class="bullet">&nbsp;•&nbsp;</span>
 
 	<a href="http://www.competitionhunter.com/static/advertise/">Advertise</a>
 
 <span class="bullet">&nbsp;•&nbsp;</span>
-
-<a href="http://www.competitionhunter.com/static/karma-reward-store/">Karma Reward Store</a>
-
-<span class="bullet">&nbsp;•&nbsp;</span>
-
-	<a href="http://www.competitionhunter.com/static/links/">Links</a>
-
-<span class="bullet">&nbsp;•&nbsp;</span>
-
-	
 
 <a href="http://www.competitionhunter.com/static/competition-tips">Competition Tips &amp; Advice</a>
 
@@ -596,19 +566,29 @@ Find out how we use cookies <a href="http://www.competitionhunter.com/static/pri
 
 <span class="bullet">&nbsp;•&nbsp;</span>
 
-	
-
 <a href="http://www.competitionhunter.com/static/privacy-policy">Privacy Policy</a>
 
 <span class="bullet">&nbsp;•&nbsp;</span>
-
-	
 
 <a href="http://www.competitionhunter.com/">Online Competitions</a>
 
 <span class="bullet">&nbsp;•&nbsp;</span>
 
 <a href="http://www.competitionhunter.com/">UK Competitions</a>
+
+<span class="bullet">&nbsp;•&nbsp;</span>
+
+<a target="_blank" href="http://www.competitionagency.com">Competition Agency</a>
+
+<span class="bullet">&nbsp;•&nbsp;</span>
+
+<a target="_blank" href="http://www.gigapanda.com">Giga Panda</a>
+
+<span class="bullet">&nbsp;•&nbsp;</span>
+
+<a target="_blank" href="http://www.recipemash">Recipe Mash</a>
+
+<span class="bullet">&nbsp;•&nbsp;</span>ff
 
 	</div>
 
