@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the elekta.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014202645id_/http%3A//www.elekta.com/meta/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elekta.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528045856id_/http%3A//www.elekta.com/meta/privacy.html) for the most accurate reproduction.*
 
-# Elekta | Stereotactic Radiosurgery, Oncology, TP & OIS Software, Brachytherapy - Privacy Statement
+# Privacy Statement | Elekta
 
 Elekta is committed to the security of data collected online. Your privacy is important to us and we recognize your need for reasonable control of personally identifiable information that you provide to Elekta. We qualify personally identifiable information as any information that is associated with your name. The information you provide helps Elekta to better understand your needs and provide you with better service.
 
