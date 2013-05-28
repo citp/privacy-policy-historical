@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the ghacks.net privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130075947id_/http%3A//www.ghacks.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ghacks.net privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528054523id_/http%3A//www.ghacks.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy -
 
-Below is information regarding ghacks.net’s commitment to protect the privacy of users and to ensure the integrity of the Internet.  
+Below is information regarding ghacks.net's commitment to protect the privacy of users and to ensure the integrity of the Internet.  
 (This Privacy Policy was last revised on May 22, 2008.)
 
-Internet user privacy is of paramount importance to Ghacks.net. The success of our business depends upon our ability to maintain the trust of our users. If for any reason you have concerns about our software or website’s privacy policies, please contact us. We are committed to ensuring that every user’s needs are addressed.
+Internet user privacy is of paramount importance to Ghacks.net. The success of our business depends upon our ability to maintain the trust of our users. If for any reason you have concerns about our software or website's privacy policies, please contact us. We are committed to ensuring that every user's needs are addressed.
 
  **Collection of Personal Information**
 
