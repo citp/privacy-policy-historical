@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fancydresscostumes.co.uk privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222064345id_/http%3A//fancydresscostumes.co.uk/content/9-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fancydresscostumes.co.uk privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528075336id_/http%3A//fancydresscostumes.co.uk/content/9-privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - FancyDressCostumes.co.uk
+# Privacy Policy
 
 **Privacy Policy**
 
@@ -12,13 +12,13 @@ A.    Details of your visits to this website and the resources within this w
 
 B.    Information that you have voluntary provided by completing forms on this website, such as when you register for an account or make a transaction.
 
-C.     Information provided to us when you communicate with us for any reason, including but not limited to, emails, telephone, & facsimile.
+C.    Information provided to us when you communicate with us for any reason, including but not limited to, emails, telephone, & facsimile.
 
 D.    Use of Cookies.
 
-E.     We gather basic information about your computer or mobile device, such as the operating system or internet browser you are using, which enables us to optimise and improve general customer experience of this website.   
+E.    We gather basic information about your computer or mobile device, such as the operating system or internet browser you are using, which enables us to optimise and improve general customer experience of this website.   
 
-F.     Such information will not identify you personally, it will be aggregated into statistical data that will be used on a daily basis to analyse general visitor behavior. This statistical data does not identify any personal details whatsoever.
+F.    Such information will not identify you personally, it will be aggregated into statistical data that will be used on a daily basis to analyse general visitor behavior. This statistical data does not identify any personal details whatsoever.
 
 On occasion we gather details about your general online activity through cookie files. These cookie files are downloaded to your computer automatically and are stored on your hard drive. This is very much standard practice across the internet, as it assists us as a retailer in improving the level of service that we are able to provide to you. If this is not to your liking please note that all computers have a built in tool that enables them to decline the use of cookies. To do this, you will need to access the “Tool” menu in your internet browser. Please be advised that if cookies are not used, you may be unable to access particular parts of this website.
 
