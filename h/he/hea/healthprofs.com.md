@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the healthprofs.com privacy policy that was archived on 2012-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120922084827id_/http%3A//healthprofs.com/cam/content/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthprofs.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528050145id_/http%3A//healthprofs.com/cam/content/privacy.html) for the most accurate reproduction.*
 
-# HealthProfs.com - Privacy Policy -
+# Find a Health Professional - Privacy Policy
 
 We take your privacy seriously. We only ask you to provide information that we need in order to deliver the service or information you have requested.
 
