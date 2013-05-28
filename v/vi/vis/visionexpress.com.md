@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visionexpress.com privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127172709id_/http%3A//www.visionexpress.com/customer-services/legal-notices/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visionexpress.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528175225id_/http%3A//www.visionexpress.com/customer-services/legal-notices/privacy-statement) for the most accurate reproduction.*
 
 # Vision Express are registered with the Data Protection Registry - Visionexpress
 
@@ -112,11 +112,11 @@ Having opted in to receive email marketing material you will always be provided 
 
 ### Not a past or present customer?
 
-If you are not a past or present customer of Vision Express, you will have been sent an acquisition mailing. The data company Experian provide information to companies such as ourselves for direct marketing purposes, so we can contact potential customers with details of the products and services we provide. The data we have acquired from them has been collated from sources such as the Royal Mail data files and the Electoral Roll register.
+If you are not a past or present customer of Vision Express, you will have been sent an acquisition mailing. The data company Equifax provide information to companies such as ourselves for direct marketing purposes, so we can contact potential customers with details of the products and services we provide. The data we have acquired from them has been collated from sources such as the Royal Mail data files and the Electoral Roll register.
 
 If you do not wish to receive acquisition mailings from us, please contact our Data Compliance Offer in writing, at the address below, or by email to [e-business@visionexpress.com](mailto:e-business@visionexpress.com "Email Vision Express e-business") . We will require your first name, surname, postcode, and ideally date of birth to ensure we can correctly identify your record and cease mailing activity.
 
-We will then contact Experian on your behalf to stop any future mailings being sent to you by Vision Express in this way.
+We will then contact Equifax on your behalf to stop any future mailings being sent to you by Vision Express in this way.
 
 If you wish to stop prospective mail from all companies, not just Vision Express, we advise you to join the MPS ([Mail Preference Service](http://www.mpsonline.org.uk/mpsr/)) register. Details for this are available online and you can sign up anytime. Please remember to update your details with MPS if you move house or change name.
 
