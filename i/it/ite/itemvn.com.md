@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itemvn.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604224846id_/http%3A//www.itemvn.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itemvn.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528151453id_/http%3A//www.itemvn.com/privacy) for the most accurate reproduction.*
 
 # Itemvn - Listen to Free Music Online - Free MP3 Streaming - Search music, find music, listen to music, share music online
 
