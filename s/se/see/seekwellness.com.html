@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the seekwellness.com privacy policy that was archived on 2012-10-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121023222202id_/http%3A//www.seekwellness.com/info/privacy_statement.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the seekwellness.com privacy policy that was archived on 2013-05-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130528181818id_/http%3A//www.seekwellness.com/info/privacy_statement.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns:fb="http://ogp.me/ns/fb#"><head>
 		<meta http-equiv="Content-Type" content="text/html;charset=ISO-8859-1">
@@ -22,7 +22,7 @@
 	</script>
 <script language="Javascript" type="text/javascript">
 	if ( (navigator.userAgent.match(/iPhone/i)) || (navigator.userAgent.match(/iPod/i)) ||
-	 	 (navigator.userAgent.match(/Android/i)) ) 
+	 	 (navigator.userAgent.match(/Android/i)) )
 	{
 		var standard = 'http://www.seekwellness.com/m/info/privacy_statement.htm';
 			var sWidth = document.viewport.getWidth();
@@ -40,8 +40,9 @@
 	<meta name="revisit-after" content="1 days">
 	<meta name="Rating" content="General">
 	<meta name="Language" content="en">
+	<meta http-equiv="content-language" content="en-us">
 	<meta name="distribution" content="Global">
-	<meta name="Copyright" content="© 2012">
+	<meta name="Copyright" content="© 2013">
 	<meta name="Classification" content="Health">
 	<meta name="Author" content="SeekWellness">
 	<meta name="msvalidate.01" content="53BA534198FB1557EAE173F9C20B4286">
@@ -94,21 +95,15 @@ pageTracker._trackPageview();
 		
 	</div>
 	<br class="clearB">
-</div><div id="wrapper"><div id="pupbox">
-<div style="height:170px;"><div style="margin:2px;"><a href="#" onclick="javascript:closeSurveyBox();" style="border:1px solid #333333;text-decoration:none;padding:0px 3px;color:#333333;">x</a></div></div>
-<div style="background-color:white;padding:12px;text-align:center;">
-<h1><i>Throw us a bone</i></h1>
-
-<a href="http://www.seekwellness.com/surveys/index.php?survey_code=f6c98c00&amp;login=1&amp;center=info" target="_blank" onclick="javascript:closeSurveyBox();">Answer 5 quick questions</a><br>
-</div>
-</div><div id="center">
+</div><div id="wrapper"><div id="center">
 <div class="courtesyMsg printBlock">
 Information courtesy of SeekWellness.com<br>
 http://www.seekwellness.com/privacy_statement.htm</div>
 
 <div style="height:10px;clear:right;" class="noPrint">&nbsp;</div>
 <a id="link1" onclick="javascript:showTab('1');" class="tablinks tablink1 noPrint">Related Articles</a>
-<a id="link2" onclick="javascript:showTab('2');" class="tablinks tablink2 linkOff noPrint">Helpful Products</a>
+<a id="link2" onclick="javascript:showTab('2');" class="tablinks tablink2 linkOff noPrint">More About Info</a>
+<a id="link3" onclick="javascript:showTab('3');" class="tablinks tablink3 linkOff noPrint">Helpful Products</a>
 <br>
 
 <div id="articleTab1" class="tabs noPrint">
@@ -129,6 +124,16 @@ http://www.seekwellness.com/privacy_statement.htm</div>
 	<li><a href="smiley_file.htm">smiley file</a></li>
 </ul>
 <br style="clear:both;"> </div><div id="articleTab2" class="tabs hideTab">
+<ul class="relatedLinks half clearL">
+			<li><a href="http://www.seekwellness.com/info/nursingce-assessment-bladder-bowel.htm">continuing nursing education</a></li>
+	</ul>
+<ul class="relatedLinks half">
+</ul>
+
+<br style="clear:both;">
+<a href="http://www.seekwellness.com/featured-products.htm" class="tinyarrow">other featured products</a>
+</div>
+<div id="articleTab3" class="tabs hideTab noPrint">
 <!-- helpful products //-->
 <table border="0" cellspacing="18" cellpadding="0">
 	<tbody><tr>
@@ -151,6 +156,7 @@ http://www.seekwellness.com/privacy_statement.htm</div>
 function showTab(num) {
 	if ($('articleTab1').hasClassName('hideTab') == false) { var currentTab = '1'; }
 	if ($('articleTab2').hasClassName('hideTab') == false) { var currentTab = '2'; }
+	if ($('articleTab3').hasClassName('hideTab') == false) { var currentTab = '3'; }
 	if (currentTab != num) 
 	{
 		if (num == 1) 
@@ -159,9 +165,15 @@ function showTab(num) {
 			if ($('articleTab2').hasClassName('hideTab') == false) {
 				$('articleTab2').addClassName('hideTab'); 
 			}
+			if ($('articleTab3').hasClassName('hideTab') == false) {
+				$('articleTab3').addClassName('hideTab'); 
+			}
 			$('link1').removeClassName('linkOff');
 			if ($('articleTab2').hasClassName('linkOff') == false) {
 				$('link2').addClassName('linkOff'); 
+			}
+			if ($('articleTab3').hasClassName('linkOff') == false) {
+				$('link3').addClassName('linkOff'); 
 			}
 		}
 		if (num == 2)
@@ -170,7 +182,30 @@ function showTab(num) {
 			if ($('articleTab1').hasClassName('hideTab') == false) {
 				$('articleTab1').addClassName('hideTab'); 
 			}
+			if ($('articleTab3').hasClassName('hideTab') == false) {
+				$('articleTab3').addClassName('hideTab'); 
+			}
 			$('link2').removeClassName('linkOff');
+			if ($('articleTab1').hasClassName('linkOff') == false) {
+				$('link1').addClassName('linkOff'); 
+			}
+			if ($('articleTab3').hasClassName('linkOff') == false) {
+				$('link3').addClassName('linkOff'); 
+			}
+		}
+		if (num == 3)
+		{
+			$('articleTab3').removeClassName('hideTab');
+			if ($('articleTab1').hasClassName('hideTab') == false) {
+				$('articleTab1').addClassName('hideTab'); 
+			}
+			if ($('articleTab2').hasClassName('hideTab') == false) {
+				$('articleTab2').addClassName('hideTab'); 
+			}
+			$('link3').removeClassName('linkOff');
+			if ($('articleTab2').hasClassName('linkOff') == false) {
+				$('link2').addClassName('linkOff'); 
+			}
 			if ($('articleTab1').hasClassName('linkOff') == false) {
 				$('link1').addClassName('linkOff'); 
 			}
@@ -178,6 +213,7 @@ function showTab(num) {
 	}	
 }
 </script>
+
 <!-- google_ad_section_start -->
 <div id="SocialSharing">
 <br><br>
@@ -346,8 +382,9 @@ google_ad_height = 600;
 <div class="custSvc">For orders or<br>
 product information,<br>
 <a href="mailto:customer.service@seekwellness.com">e-mail customer service</a>.</div>
+<br style="clear:both;">
 
-
+<div style="margin:0px;padding:24px 0px;"><a href="http://www.seekwellness.com/sca/"><img src="http://www.seekwellness.com/images/sca/sca-ad2.gif" alt="Take the Bladder and Bowel Master Series continuing education course now." width="125" height="210"></a></div>
 
 <br style="line-height:150%;">
 <div id="SwlBgIncontinenceProducts" class="buyingGuide">
@@ -390,14 +427,14 @@ function SwlBgCloseHelp()
 <a href="http://www.seekwellness.com/info/links.htm">Links</a> &nbsp;&nbsp;&nbsp;
 <a href="http://www.seekwellness.com/sitemap.htm">Sitemap</a>
 </div>
-	© 2012 Seek Wellness LLC<br>
+	© 2013 Seek Wellness LLC<br>
 	<p style="clear:both;"><br>Seek Wellness is a leader in the development of targeted health care information on the Internet. Specializing in pelvic health and wellness information and backed by leading healthcare professionals, Seek Wellness develops and implements consumer-oriented programs and services.</p>
 	<p align="center">Seek Wellness LLC · 237 Old Tilton Road · Canterbury, NH 03224 · Phone: 603 783-5677</p>
 </div>
 
 <div style="float:right;padding-top:12px;" class="noPrint">
 <!-- GeoTrust QuickSSL [tm] Smart Icon tag. Do not edit. -->
-<script language="JavaScript" type="text/javascript" src="//smarticon.geotrust.com/si.js"></script>
+<span id="siteseal"><script type="text/javascript" src="https://seal.starfieldtech.com/getSeal?sealID=vXWRZNKOiCLwBpk0Rs6LTTah3xzxpI8rOMLnV2Oek8zW4g8xk13ilz9nC"></script></span>
 <!-- end GeoTrust Smart Icon tag -->
 </div>
 
@@ -407,8 +444,7 @@ function SwlBgCloseHelp()
 </div>
 
 <div style="float:left;padding-top:12px;" class="noPrint">
-<!-- (c) 2006. Authorize.Net is a registered trademark of Lightbridge, Inc. -->
-<div class="AuthorizeNetSeal"> <script type="text/javascript" language="javascript">var ANS_customer_id="1d3820e7-9203-458d-a0e8-96f9fb6d09a2";</script> <script type="text/javascript" language="javascript" src="//VERIFY.AUTHORIZE.NET/anetseal/seal.js"></script> <a href="http://www.authorize.net/" id="AuthorizeNetText" target="_blank">Online Payments</a> </div>
+<!-- (c) 2005, 2013. Authorize.Net is a registered trademark of CyberSource Corporation --> <div class="AuthorizeNetSeal"> <script type="text/javascript" language="javascript">var ANS_customer_id="1d3820e7-9203-458d-a0e8-96f9fb6d09a2";</script> <script type="text/javascript" language="javascript" src="//verify.authorize.net/anetseal/seal.js"></script> <a href="http://www.authorize.net/" id="AuthorizeNetText" target="_blank">Online Payments</a> </div>
 </div>
 
 <div align="center" class="noPrint">
