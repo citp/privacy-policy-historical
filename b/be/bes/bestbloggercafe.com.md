@@ -1,11 +1,9 @@
-> *The following text is extracted and transformed from the bestbloggercafe.com privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119223054id_/http%3A//www.bestbloggercafe.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestbloggercafe.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529005557id_/http%3A//www.bestbloggercafe.com/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy ~ Best Bloggers Cafe
+# Best Bloggers Cafe: Privacy Policy
 
-  
 **Privacy Policy for** : [http://www.bestbloggercafe.com](http://www.bestbloggercafe.com/)  
-Your privacy is very important to us, this policy will be updated when will necessary, Your personal information such as IP Address, browser info, internal pages or even suffering sites information maybe collect just for better service purposes.  
-
+Your privacy is very important to us, this policy will be updated when will necessary, Your personal information such as IP Address, browser info, internal pages or even suffering sites information maybe collect just for better service purposes.
 
 ###  Cookies and Web Beacons 
 
@@ -22,6 +20,3 @@ Any advertisements served by Google, Inc., and affiliated companies may be contr
 About Google advertising: What is the DoubleClick DART cookie? The DoubleClick DART cookie is used by Google in the ads served on publisher websites displaying AdSense for content ads. When users visit an AdSense publisher’s website and either view or click on an ad, a cookie may be dropped on that end user’s browser. The data gathered from these cookies will be used to help AdSense publishers better serve and manage the ads on their site(s) and across the web. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. (Hyperlink this to: http://www.google.com/privacy/ads/
 
 If you're using this site then you must agree with Privacy Policy provided above
-
-  
-
