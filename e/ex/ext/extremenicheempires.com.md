@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the extremenicheempires.com privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103121626id_/http%3A//extremenicheempires.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extremenicheempires.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528065133id_/http%3A//extremenicheempires.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,19 +6,19 @@ We respect and are committed to protecting your privacy. That is why we have ado
 
 We promise that we will use your personal information only in ways that are compatible with this Privacy Policy as follows:
 
-##  **Do you collect IP addresses?**
+## **Do you collect IP addresses?**
 
 Every computer connected to the Internet is given a domain name and a set of numbers, that serve as that computer’s “Internet Protocol” IP address. When a visitor requests a page from any Web site within the ADD Marketing Group Network, our Web servers automatically recognize that visitor’s domain name and IP address. The domain name and IP address reveal nothing personal about you other than the IP address from which you have accessed our Sites. We use this information to examine our traffic in aggregate, and to investigate misuse of the ADD Marketing Group Network, its users, or to cooperate with law enforcement. We do not collect and evaluate this information for specific individuals. Our Web servers do not automatically record e-mail addresses of the visitors.
 
-##  **What are cookies?**
+## **What are cookies?**
 
 From time to time, ADD Marketing Group or its advertisers may send a “cookie” to your computer. A cookie is a small piece of data that is sent to your Internet browser from a Web server and stored on your computer’s hard drive. A cookie can’t read data off of your computer hard disk or read cookie files created by other Web sites. Cookies do not damage your system. We use cookies to identify which areas of ADD Marketing Group’s Network you have visited or customized, so the next time you visit, those pages may be readily accessible. Our advertisers may also use cookies to ascertain how many times you’ve seen an advertisement. Our advertisers and we may use this information to better personalize the content, banners, and promotions that you see on our Site. You can choose whether to accept cookies by changing the settings of your Internet browser. You can reset your browser to refuse all cookies, or allow your browser to show you when a cookie is being sent. If you choose not to accept these cookies, your experience at our Site and other Web sites may be diminished and some features may not work as intended.
 
-##  **How do you use single-pixel gifs?**
+## **How do you use single-pixel gifs?**
 
 ADD Marketing Group, its third party service providers and advertisers may use single-pixel gif images, sometimes referred to as web bugs or web beacons, to count Web page accesses and gather some general statistical information. ADD Marketing Group does not gather personal information through the use of these images. Our advertisers and third party providers may use single-pixel gifs that can track personal information from cookies that may have been previously placed on a user’s computer.
 
-##  **What personal information do you collect?**
+## **What personal information do you collect?**
 
 Wherever ADD Marketing Group collects personal information we make an effort to include a link to this Privacy Policy. We will ask you when we need information that personally identifies you (personal information) or allows us to contact you. The personal information we collect may include your name, title, company or organization name, e-mail address, phone number, work or home address, information about your job function, information about your company, and credit card information.
 
@@ -30,7 +30,7 @@ ADD Marketing Group also offers access to some services that require registratio
 
 We may from time to time send e-mail announcing new products and services. If you choose to supply your postal address in an online form, you may receive postal mailings from ADD Marketing Group.
 
-##  **Will you disclose the information you collect to outside third parties?**
+## **Will you disclose the information you collect to outside third parties?**
 
 ADD Marketing Group will disclose personal information and/or an IP address:
 
@@ -50,7 +50,7 @@ d) Fulfill a user’s order or request;
 
 We maintain a strict “No-Spam” policy that means that we do not sell, rent, or otherwise give your e-mail address to a third-party, without your consent or as permitted by this Privacy Policy.
 
-##  **What else should I know about my privacy when online?**
+## **What else should I know about my privacy when online?**
 
 ADD Marketing Group may use third-party advertising companies and advertising networks to serve ads to you based on information (not including your name, address, email address or telephone number) about your visits to our web site in order to provide targeted advertisements about goods and services that may be of interest to you while visiting other Web sites.
 
@@ -62,7 +62,7 @@ Certain ADD Marketing Group media properties use a shopping cart feature that sa
 
 Ultimately, you are solely responsible for maintaining the secrecy of your personal information. Please be careful and responsible whenever you’re online.
 
-##  **Your Consent To This Agreement**
+## **Your Consent To This Agreement**
 
 By using the ADD Marketing Group Network, you consent to the collection and use of information by ADD Marketing Group as specified above. We reserve the right to modify this Policy. If we decide to change our Privacy Policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
 
