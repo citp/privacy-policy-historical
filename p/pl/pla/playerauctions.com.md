@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playerauctions.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227172335id_/http%3A//www.playerauctions.com/help/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playerauctions.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528143625id_/http%3A//www.playerauctions.com/help/policy) for the most accurate reproduction.*
 
 # Privacy Policy - PlayerAuctions
 
@@ -99,7 +99,7 @@ Your information is stored on our servers. We treat data as an asset that must b
 
 Children's privacy
 
-All registered users on PlayerAuctions must be 18 years or older. However in the event that you are under the age of 18 and access areas of our website that do not require an account, please make sure that you provide your Personal Information only after obtaining your parental consent. 
+All registered users on PlayerAuctions must be 13 years or older. However in the event that you are under the age of 13 and access areas of our website that do not require an account, please make sure that you provide your Personal Information only after obtaining your parental consent. 
 
 Applicable laws
 
