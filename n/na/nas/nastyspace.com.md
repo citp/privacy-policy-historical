@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nastyspace.com privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205122634id_/http%3A//www.nastyspace.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nastyspace.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528165546id_/http%3A//www.nastyspace.com/privacy) for the most accurate reproduction.*
 
 # NastySpace - Privacy Policy
 
@@ -26,6 +26,8 @@ We may use cookies or web beacons to: (1) determine whether users of the Service
 
 These kinds of information do not, on their own, personally identify you. However, they can potentially be combined with information obtained from other sources in order to identify you. NastySpace does not ordinarily seek or obtain personally identifying information about users from others. It does reserve the right to seek such information in the event of a violation of the NastySpace [Terms of Service](http://www.nastyspace.com/terms/), in the event of a dispute between NastySpace and you, or if required by law to do so.
 
+Webcam images may be captured from NastySpace video chats, uploaded to NastySpace's servers, and monitored for misbehavior. Captured images may also be stored and used to improve NastySpace’s monitoring process. Monitoring is not perfect, and you may still encounter users in video chat that are violating our terms of service, you are using the service at your own risk. 
+
 **Content You Submit NastySpace to or Communicate Using the Service**
 
 NastySpace may allow you to submit and communicate audio and video content, text, links, and other content ("User Content"). Except with respect to User Content that you are expressly allowed and enabled to keep private using the NastySpace Community uploading function, User Content that you submit to NastySpace or communicate using the Service, including any personal information included in your User Content, becomes publicly available and can be seen, collected, and used by others. Once made public User Content cannot be made private again. In addition, User Content you communicate using the Service may be recorded, stored, copied and/or retransmitted by NastySpace, including but not limited to audio or video content submitted to the NastySpace Community. You should not submit or communicate any content using the Service that you do not want to be seen, collected, or used by others.
@@ -37,6 +39,8 @@ We will keep a record of the information you provide, including your personally 
 **Use of Visitor Information Collected by the Service**
 
 We do not share personally identifiable information about users of the Service in the ordinary operation of the Service, unless you have included such information in User Content that you submit or communicate using the Service, such as through the NastySpace Community feature. We may obtain and merge information about users and usage of the Service into aggregated data, which may then be used by us and/or shared with advertisers or others. When we provide aggregated information to outside companies, they will not be able to identify you or contact you based on that data.
+
+NastySpace uses Google Analytics to track non-personally-identifying statistical information about site usage. Google provides a browser add-on to opt out of Google Analytics. 
 
 **Usage Information - Collection and Use by Advertisers and Others**
 
