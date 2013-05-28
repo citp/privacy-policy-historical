@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitalinsight.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102033249id_/http%3A//ifs.intuit.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalinsight.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528135817id_/http%3A//www.ifs.intuit.com/privacy.html) for the most accurate reproduction.*
 
 # Intuit Financial Services
 
