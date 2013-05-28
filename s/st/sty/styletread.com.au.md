@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the styletread.com.au privacy policy that was archived on 2012-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121211044359id_/http%3A//www.styletread.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the styletread.com.au privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528050111id_/http%3A//www.styletread.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Privacy Policy 
 
-StyleTread values your privacy and takes great care protecting the information you provide us.
+Styletread values your privacy and takes great care protecting the information you provide us.
 
 **Collection of Personal Information**
 
-When you create a StyleTread account, the personal information we collect may include your:
+When you create a Styletread account, the personal information we collect may include your:
 
   * a) Name
   * b) Delivery Address
@@ -22,7 +22,7 @@ When you create a StyleTread account, the personal information we collect may in
 
 The personal information we collect from you will be used in some or all of the following ways:
 
-  * a) To deliver the products you have purchased via the StyleTread website
+  * a) To deliver the products you have purchased via the Styletread website
   * b) To communicate with you during the delivery process of the product and for customer support purposes
   * c) To provide you with relevant product information
   * d) To aid Styletread in the development of new products and services
@@ -36,11 +36,11 @@ Styletread will communicate with you about your order and the purchased product 
 
 Styletread may also request feedback on your order, the shopping experience and the products offered via emails and surveys for the purpose of improving Styletread’s service and product offering. If you do not wish to receive such material, you may unsubscribe from our mailing list at any time by emailing service@styletread.com.au
 
-When you select to be a StyleTread subscriber, we'll also use your personal information to send you marketing or promotional information from time to time. You can opt out of receiving marketing information from StyleTread at anytime by using the unsubscribe function within the electronic marketing material or by changing the settings under your [My Account section](https://www.styletread.com.au/customer/account/ "My Account on StyleTread").
+When you select to be a Styletread subscriber, we'll also use your personal information to send you marketing or promotional information from time to time. You can opt out of receiving marketing information from Styletread at anytime by using the unsubscribe function within the electronic marketing material or by changing the settings under your [My Account section](https://www.styletread.com.au/customer/account/ "My Account on StyleTread").
 
 **Updating Your Personal Information**
 
-You can update your personal information anytime by accessing your account via the StyleTread website.  Use your unique identifier and password to amend your account details.
+You can update your personal information anytime by accessing your account via the Styletread website.  Use your unique identifier and password to amend your account details.
 
 **Security of Your Personal Information   **
 
@@ -54,31 +54,39 @@ We protect your personal information by:
 
 
 
-When purchasing from StyleTread, your financial details are passed through a secure server using the latest 128-bit SSL (secure sockets layer) encryption technology. 128-bit SSL encryption is approximated to take at least one trillion years to break, and is the industry standard. If you have any questions regarding our security policy, please contact Customer Happiness on [service@Styletread.com.au](mailto:service@styletread.com.au).
+When purchasing from Styletread, your financial details are passed through a secure server using the latest 128-bit SSL (secure sockets layer) encryption technology. 128-bit SSL encryption is approximated to take at least one trillion years to break, and is the industry standard. If you have any questions regarding our security policy, please contact Customer Happiness on [service@Styletread.com.au](mailto:service@styletread.com.au).
 
 **Disclosure of Personal Information**
 
-We value our customers and will not share your information with any other organisations other than related companies and those third parties directly related to the delivery of the products you have purchased from the StyleTread website.
+We value our customers and will not share your information with any other organisations other than related companies and those third parties directly related to the delivery of the products you have purchased from the Styletread website.
 
 There may be some exceptional circumstances for disclosing your personal information, such as when there are grounds to believe that the disclosure is necessary to prevent a threat to life or health, or for law enforcement purposes.
 
-StyleTread is committed to complying with the Privacy Act and the National Privacy principles.
+Styletread is committed to complying with the Privacy Act and the National Privacy principles.
 
 **Complaints About Breaches of Privacy**
 
-If you believe that your privacy has been breached by StyleTread, you can contact Customer Happiness on [service@Styletread.com.au](mailto:service@styletread.com.au) and all attempts will be made to resolve the matter.
+If you believe that your privacy has been breached by Styletread, you can contact Customer Happiness on [service@Styletread.com.au](mailto:service@styletread.com.au) and all attempts will be made to resolve the matter.
 
 **Collection of** **Computer** **Data**
 
-When you visit StyleTread.com.au, whether as an account holder or a visitor, our servers and our [google analytics](http://www.google.com/intl/en/analytics/privacyoverview.html "google analytics") setup automatically records information that your browser sends whenever you visit a website.
+When you visit Styletread.com.au, whether as an account holder or a visitor, our servers and our [google analytics](http://www.google.com/intl/en/analytics/privacyoverview.html "google analytics") setup automatically records information that your browser sends whenever you visit a website.
 
 This data may include information such as your computer’s Internet Protocol address, browser type or the webpage you were visiting before you came to our site, pages of our site that you visit, the time spent on those pages, information you search for on our site, access times and dates, and other statistics.
 
 We don't treat the data collected as personal Information or use it in association with other personal information, though we may aggregate, analyze and evaluate such information to better tailor or improve the services or products provided.
 
+**Identification checks**
+
+Styletread will randomly select transactions and request for proof of identification via email for the purpose of credit card fraud prevention.
+
+Creating a secure online shopping environment is extremely important and random identification checks ensures we can take further steps to prevent credit card fraud
+
+There will be a three-working-day period in which to submit a copy of your driver’s license or similar photo ID via email or fax to Styletread. Once we receive the requested documentation, your order will be processed and shipped as soon as possible. If we do not receive the requested information within three working days your order will be cancelled and you will receive a full refund. 
+
 **Address and Contact Details**
 
-StyleTread Pty Ltd  
+Styletread Pty Ltd  
 Unit 3, 35 Carter St. (off Hill Road)  
 Sydney Olympic Park NSW 2127  
 Australia  
