@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the azproxies.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123220540id_/http%3A//www.azproxies.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azproxies.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528150311id_/http%3A//www.azproxies.com/privacy-policy.html) for the most accurate reproduction.*
 
 # A-Z Proxies Privacy Policy
 
@@ -26,9 +26,9 @@ Any personal or financial information collected by this web site is stored and u
 
 This web site does not send out any unsolicited information, including e-mail, except in the cases mentioned below :
 
-  * **Bounds** \- This web site contains links to other entities or organizations. This web site is not responsible for and does not express the privacy practices of any such web sites, since no control over them is provided to this web site.
-  * **Security** \- This web site takes industry standard security measures to protect loss, misuse and alteration of user information, but can not make any guarantees that the information will remain protected in attacks, misconduct or other means by which a third party attempts to obtain it by force or other illegal conduct.
-  * **Opt-out** \- This web site provides an opportunity to opt out of receiving future communication about the content and services, at the point where such communication is conducted. In case of solicited e-mails, this option will be provided either as a link, by visiting the web site or by returning the email.
-  * **Feedback** \- Any feedback provided by visitors or users on the web site will be deemed non-confidential and may be used for any purpose seen fit by this web site.
+  *  **Bounds** \- This web site contains links to other entities or organizations. This web site is not responsible for and does not express the privacy practices of any such web sites, since no control over them is provided to this web site.
+  *  **Security** \- This web site takes industry standard security measures to protect loss, misuse and alteration of user information, but can not make any guarantees that the information will remain protected in attacks, misconduct or other means by which a third party attempts to obtain it by force or other illegal conduct.
+  *  **Opt-out** \- This web site provides an opportunity to opt out of receiving future communication about the content and services, at the point where such communication is conducted. In case of solicited e-mails, this option will be provided either as a link, by visiting the web site or by returning the email.
+  *  **Feedback** \- Any feedback provided by visitors or users on the web site will be deemed non-confidential and may be used for any purpose seen fit by this web site.
 
 
