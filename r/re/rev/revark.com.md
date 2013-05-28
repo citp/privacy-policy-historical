@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the revark.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527121853id_/http%3A//www.revark.com/en-us/resources/docs-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revark.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528022612id_/http%3A//www.revark.com/en-us/resources/docs-privacy) for the most accurate reproduction.*
 
 # Revark.com — Privacy Policy
 
