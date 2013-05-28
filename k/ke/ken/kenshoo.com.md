@@ -1,67 +1,72 @@
-> *The following text is extracted and transformed from the kenshoo.com privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114062714id_/http%3A//www.kenshoo.com/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kenshoo.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528191100id_/http%3A//www.kenshoo.com/privacy-policy) for the most accurate reproduction.*
 
-# Kenshoo - Privacy Policy
+# Digital Marketing Technology from Kenshoo
 
-Privacy Policy Last updated May 2, 2012 
+**Last updated November 29, 2012**
 
-Kenshoo Ltd. ("Kenshoo", "us", or "our") is a digital marketing software company that provides technology solutions to customers (“Customers”) for search marketing, social media and online advertising purposes via an online platform (collectively, the “Services”). In connection with the Services, we make available our websites, at [www.kenshoo.com](http://www.kenshoo.com/), [www.kenshoosocial.com](http://www.kenshoosocial.com/) and [www.](http://www.kenshoolocal.com/)kenshoolocal.com (collectively, the “Kenshoo Site”). Kenshoo provides this privacy policy to inform you of our policies and procedures related to the collection, use and disclosure of information we receive in connection with our provision of the Services: (i) through the Kenshoo Site, and (ii) from end-users of or visitors to (“End Users”) the websites of our Customers (collectively, “Customer Sites”). Also, this privacy policy includes disclosures related to our collection of information that can be used to identify an individual or entity (“Personally Identifiable Information” or “PII”). 
+Kenshoo Ltd. ( **“Kenshoo”** , **“us”** , or **“our”** ) is a digital marketing software company that provides technology solutions to customers ( **“Customers”** ) for search marketing, social media and online advertising purposes via an online platform (collectively, the “ **Services** ”). In connection with the Services, we make available our websites, at [www.kenshoo.com](http://kenshoo.com/ "Kenshoo.com"), [www.kenshoosocial.com](http://kenshoosocial.com/ "KenshooSocial.com") and [www.kenshoolocal.com](http://kenshoolocal.com/ "KenshooLocal.com") (collectively, the “ **Kenshoo Site** ”). Kenshoo provides this privacy policy to inform you of our policies and procedures related to the collection, use and disclosure of information we receive in connection with our provision of the Services: (i) through the Kenshoo Site, and (ii) from end-users of or visitors to (“ **End Users** ”) the websites of our Customers (collectively, “ **Customer Sites** ”). Also, this privacy policy includes disclosures related to our collection of information that can be used to identify an individual or entity (“ **Personally Identifiable Information** ” or “ **PII** ”).
 
-  
-1\. Information Collected from Customer Sites. 
+**1\. Information Collected from Customer Sites.**
 
 In order to enable our Services, we provide our technology on Customer Sites, which technology collects non-PII from Customer Sites.
 
-  
-How We Collect Data from Customer Sites: 
+How We Collect Data from Customer Sites:
 
-We use our technology to collect End Users’ interactions with Customer advertisements and Customer Sites, such as clicks on advertisements, impressions and conversions, whether on a single Customer Site or across sites, but all on an anonymous basis ("Raw Tracking Data").
+We use our technology to collect End Users’ interactions with Customer advertisements and Customer Sites, such as clicks on advertisements, impressions and conversions, whether on a single Customer Site or across sites, but all on an anonymous basis (“ **Raw Tracking Data** “).
 
-Our technology may employ tracking pixels on Customer Sites. A tracking pixel is a piece of code embedded on a web page of Customer Sites that collects information about visitors’ behavior on that web page. The tracking pixel can either be provided by the advertising channels, affiliate networks or by Kenshoo. The tracking pixel may include a command to create cookies. 
+Our technology may employ tracking pixels on Customer Sites. A tracking pixel is a piece of code embedded on a web page of Customer Sites that collects information about visitors’ behavior on that web page. The tracking pixel can either be provided by the advertising channels, affiliate networks or by Kenshoo. The tracking pixel may include a command to create cookies.
 
-A cookie is a small text file that can be stored on a user's browser (on any type of device). Kenshoo's cookie does not collect any personally identifiable information. Kenshoo’s cookie may contain a unique random identifier that enables tracking activity from a browser that is associated with products and services of a customer.
+A cookie is a small text file that can be stored on a user’s browser (on any type of device). Kenshoo’s cookie does not collect any personally identifiable information. Kenshoo’s cookie may contain a unique random identifier that enables tracking activity from a browser that is associated with products and services of a customer.
 
-  
-How We Use Data we Collect from Customer Sites: 
+How We Use Data we Collect from Customer Sites:
 
 We analyze the Raw Tracking Data, including by combining such data with IP addresses or other non-PII information that we may obtain from Customers or other partners, and produce reports for our Customers. For example, we may aggregate performance data for keywords used in search engines, and generate a report that includes, for each keyword, the number of clicks, the click through rate or other performance data.
 
-Further, we may implement external algorithms on the aggregated Raw Tracking Data collected in order to further study general trends, marketing related elements (for example, keyword value), and other digital marketing information. Such algorithms may be used for the purpose of enhancing our Services, including bid polices, keyword selections and general location targeting. 
+Further, we may use the non-PII Raw Tracking Data to facilitate advertisements in Facebook® based on past interactions of an End User with Customer advertisements and Customer Sites.(“ **Retargeting Services** “).
+
+We may implement external algorithms on the aggregated Raw Tracking Data collected in order to further study general trends, marketing related elements (for example, keyword value), and other digital marketing information. Such algorithms may be used for the purpose of enhancing our Services, including bid polices, keyword selections and general location targeting.
 
 Kenshoo retains available Raw Tracking Data for a period of one (1) year or less. Processed or aggregated Raw Tracking Data generated by Kenshoo may be retained for longer periods.
 
-2\. Information Provided via the Kenshoo Site.
+**2\. Information Provided via the Kenshoo Site.**
 
-We may collect PII from actual or prospective Customers through the Kenshoo Site, as described in more detail below. 
+We may collect PII from actual or prospective Customers through the Kenshoo Site, as described in more detail below.
 
-Privacy Practices for the Kenshoo Site: 
+Privacy Practices for the Kenshoo Site:
 
-Kenshoo does not collect any Personally Identifiable Information from visitors to the Kenshoo Site other than what is voluntarily supplied to us (e.g., submitting information through the “Contact Us” form). When PII is provided by a potential Customer, such as contact details, monthly search budget or company information, this information is used by Kenshoo for the purpose of evaluating and contacting and serving the Customer’s requests. In addition, we may use third party suppliers to qualify leads obtained following registration to our websites.
+Kenshoo does not collect any Personally Identifiable Information from visitors to the Kenshoo Site other than what is voluntarily supplied to us (e.g., submitting information through the “Contact Us” form). When PII is provided by a potential Customer, such as contact details, monthly search budget or company information, this information is used by Kenshoo for the purpose of evaluating and contacting and serving the Customer’s requests.Inaddition, we may use third party suppliers to qualify leads obtained following registration to our websites.
 
-We may utilize cookies on the Kenshoo Site. We may also collect statistical and other data related to use of our Site or Services, usage patterns or other behavioral information. This information is collected and used as non-PII, for example, to generate and publish aggregated industry reports. 
+We may utilize cookies on the Kenshoo Site. We may also collect statistical and other data related to use of our Site or Services, usage patterns or other behavioral information. This information is collected and used as non-PII, for example, to generate and publish aggregated industry reports.
 
-3\. Other Information Collected from Third Parties. 
+**3\. Other Information Collected from Third Parties.**
 
-Subject to our Customers' approval, we may collect information from our Customers or third-party partners, and may combine it with our own data. Such information does not contain PII. We use this information only to provide the Services to the Customer who provided us with such information.
+Subject to our Customers’ approval, we may collect information from our Customers or third-party partners, and may combine it with our own data. Such information does not contain PII. We use this information only to provide the Services to the Customer who provided us with such information.
 
-Cookie Opt-Out: 
+Cookie Opt-Out:
 
-Any End User may elect to opt out from enabling cookies in his browser's settings tools, usually by choosing between several options offered by the browser. Some browsers (for example, Microsoft's Explorer®) allow blocking cookies from a specific website. In such cases, an End User may choose to specifically block our cookies by entering ".xg4ken.com" in the designated field. 
+an End User may elect to opt out from enabling cookies in his browser’s settings tools, usually by choosing between several options offered by the browser. Some browsers (for example, Microsoft’s Explorer®) allow blocking cookies from a specific website. In such cases, an End User may choose to specifically block our cookies by entering “.xg4ken.com” in the designated field.
 
-Sharing of Data with Third Parties: 
+Opting out of our Retargeting Services alone may be done here by clicking on the following link:
 
-We do not share, distribute, sell or rent any of collected information in our possession with third parties, except in the following circumstances: 
+[Opt Out ](http://match.xg4ken.com/services/fb/optout "Opt-Out")
 
-· We may share information if the information is required by law in order to prevent, investigate, or take action regarding illegal activities, situations involving potential threats to physical safety, rights, property or of any person, suspected fraud and breach of contract; 
+Note: This opt-out relies on a cookie. If and End User blocks, otherwise restricts cookies, or uses a different computer or internet browser, a renewal of the opt-out choice is required.
 
-· We may sell, transfer or otherwise share some or all of our assets, including information collected under this privacy policy, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy. 
+Sharing of Data with Third Parties:
 
-· For the purpose of providing and operating our Services, we may share Raw Tracking Data and other non-PII information with Customers and trusted third-party partners. We require that these third parties comply with our privacy policy. 
+We do not share, distribute, sell or rent any of collected information in our possession with third parties, except in the following circumstances:
 
-· We may employ third party companies and individuals to facilitate our Services, to provide the Services on our behalf, to perform Site-related services (e.g., without limitation, maintenance services, database management, web analytics and improvement of the Kenshoo Site’s features) or to assist us in analyzing how our Site and Services are used. These third parties may have access to personally identifiable information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose. 
+We may share information if the information is required by law in order to prevent, investigate, or take action regarding illegal activities, situations involving potential threats to physical safety, rights, property or of any person, suspected fraud and breach of contract.
 
-Although we do not share personally identifiable information except as described in this privacy policy, we cannot guarantee that others, including third parties using our Services, do not or will not use information we provide and combine it with personally identifiable information that they may obtain from other sources. 
+We may sell, transfer or otherwise share some or all of our assets, including information collected under this privacy policy, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy.
 
-Data Security: 
+For the purpose of providing and operating our Services, we may share Raw Tracking Data and other non-PII information with Customers and trusted third-party partners. We require that these third parties comply with our privacy policy.
+
+We may employ third party companies and individuals to facilitate our Services, to provide the Services on our behalf, to perform Site-related services (e.g., without limitation, maintenance services, database management, web analytics and improvement of the Kenshoo Site’s features) or to assist us in analyzing how our Site and Services are used. These third parties may have access to personally identifiable information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
+
+Although we do not share personally identifiable information except as described in this privacy policy, we cannot guarantee that others, including third parties using our Services, do not or will not use information we provide and combine it with personally identifiable information that they may obtain from other sources.
+
+Data Security:
 
 We have reasonable security measures in place to help protect personally identifiable information that we collect and retain. However, no system can be completely secure, and we make no guarantees as to the safety or security of any information transmitted through our Services.
 
@@ -71,6 +76,8 @@ Kenshoo reserves the right to change, modify, add or remove portions of this pol
 
 If You Have Questions About This Policy:
 
-To address any questions, comments, or concerns related to our privacy policy, please send a detailed message to: [privacy@kenshoo.com](mailto:privacy@kenshoo.com).
+To address any questions, comments, or concerns related to our privacy policy, please send a detailed message to: [privacy@kenshoo.com](mailto:privacy@kenshoo.com "Email Privacy").
 
-© Copyright 2012 Kenshoo Ltd. All rights reserved.
+**© Copyright 2012 Kenshoo Ltd. All rights reserved.**
+
+Kenshoo is a trademark of Kenshoo (Ltd.) Other company logos and brand names may be trademarks of their respective owners.
