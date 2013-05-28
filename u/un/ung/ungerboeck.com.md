@@ -1,8 +1,16 @@
-> *The following text is extracted and transformed from the ungerboeck.com privacy policy that was archived on 2012-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121128043159id_/http%3A//ungerboeck.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ungerboeck.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528163820id_/http%3A//ungerboeck.com/privacy-policy) for the most accurate reproduction.*
 
-# Terms of Use & Privacy policy
+# Terms of Use & Privacy Policy
 
-The ungerboeck.com (http://ungerboeck.com) website is owned by Ungerboeck Systems International, Inc., a Missouri corporation, with principal offices located at 100 Ungerboeck Park, O’Fallon, MO 63368. 
+**Effective Date: April 25, 2013**
+
+####  ****
+
+**Information about our organization and website**
+
+Ungerboeck Systems International, Inc. (USI) is committed to protecting your privacy. We provide this Privacy Statement to inform you about the type of information we collect from you online and how we use that information. This website is governed in accordance with the laws of the State of Missouri and the United States. The courts of the State of Missouri shall have exclusive jurisdiction over any dispute arising out of your use of this website.
+
+The ungerboeck.com (http://ungerboeck.com) website is owned by Ungerboeck Systems International, Inc., a Missouri corporation, with principal offices located at 100 Ungerboeck Park, O’Fallon, MO 63368. 
 
 **Collection of personal information**
 
@@ -10,13 +18,11 @@ Personal data is information that could identify a specific individual such as n
 
 **Use of personal information**
 
-If you choose to provide us with Personal Information it will be used to provide the information, products or services you request or which we think may be of interest to you, to communicate with you for the same purpose or for any other purposes stated at the time at which the data is collected and subject to any preferences indicated by you at the time. 
-
-For example, if you subscribe for a free newsletter, we will collect and use your email address and other contact details only for the purposes of sending you the newsletter unless we have requested and you have consented to our using your data for marketing or other purposes. Where a fee is payable for a service or product we will also use your information for billing and payment collection purposes. 
+If you choose to provide us with Personal Information it will be used to provide the information, products or services you request or which we think may be of interest to you, to communicate with you for the same purpose or for any other purposes stated at the time at which the data is collected and subject to any preferences indicated by you at the time. Where a fee is payable for a service or product we will also use your information for billing and payment collection purposes. 
 
 **Data retention**
 
-Data is held for the lifetime your subscription is active for the purposes of contacting you effectively after which time it is depersonalized and non-identifiable. We do not collect any additional information about you other than that outlined above. 
+Data is held for the lifetime your subscription is active for the purposes of contacting you effectively after which time it is depersonalized and non-identifiable. 
 
 **How your personal information is kept accurate and up to date?**
 
@@ -42,13 +48,19 @@ We will send you marketing communications which we think may be of interest to y
 
 Servers located within USI and hosted by third party service providers outside the European Economic Area automatically log data about your visit to our site based on your IP address. This information does not identify you as an individual, but identifies the computer or other device you use to access the website. This information we collect is used to see where the site is being used in the world to ensure coverage, and for click stream analysis to help better understand site usage.
 
-During the course of your visit to our website, we may also automatically download short text files called "cookies" to your computer. Cookies enable us to provide you with a better online experience by enabling the site to know that you have visited before and in some cases to record preferences in order to personalize your visit.. Cookies do not identify the individual user, but only the computer that is being used to view the site. We also use analytics cookies to enhance the performance of the website by collecting information about how many visitors we have and how they use the website (e.g. which pages most visitors go to most often).
+During the course of your visit to our website, cookies may be downloaded to your computer or device automatically. Cookies are short text files which store information to help our visitors navigate our website efficiently and perform certain functions. There are two different kinds of cookies: a “session” cookie is deleted the moment you close your browser; a "persistent" cookie remains on your device for a longer period of time, sometimes permanently. Cookies may recognize the individual device or web browser of a user through an IP Address, operating system, browser version and other information. However, a user will not be personally identified through the use of a cookie alone. USI uses cookies to provide you with a better online experience by monitoring website usage and gather information which helps us improve our website.
 
-The information these cookies collect is not used to identify who you are, send you targeted advertising or remember where you’ve been on the internet.
+On most browsers the Help feature will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie and how to disable cookies altogether. In a few cases blocking cookies may reduce the functionality of some sites or prevent access to them depending on your chosen browser options. For further information on cookies, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/). This link will take you to another website. USI is not responsible for the content of that website.
 
-By continuing to use this website, you agree to our use of cookies for the limited purposes described above. 
+Ungerboeck.com does not require that you accept cookies. However, some functionality on our website may be disabled if you decline to accept cookies.
 
-To delete or stop cookies being placed on your computer, refer to the help menu on your internet browser. In a few cases blocking cookies may reduce the functionality of some sites or prevent access to them depending on your chosen browser options. For further information about how to switch off cookies, visit www.aboutcookies.org. This link will take you to another website that is opened in a new window. USI is not responsible for the content of the www.aboutcookies.org website. 
+This website uses Google Analytics, a web analytics service provided by Google, Inc. ("Google"). The information gathered through Google Analytics cookies will be transmitted and stored by Google on servers in the United States. Google will use this information for evaluating your use of a website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google will not associate your IP address with any other data held by Google. 
+
+**Internet Advertising**
+
+This website uses Google AdWords, Google Analytics, and the Google Display Network together to serve ads to you on other websites after you’ve visited our website. This practice is known as remarketing and is a tool that Google offers to businesses. If you would like to know more about the program, you can do so here. Basically we, along with third-party vendors, Google and DoubleClick, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on your past visits to our website.
+
+If you would like to opt-out of receiving advertising like this from Google, you can manage these settings by visiting the [Google Ads Preferences Manager](https://www.google.com/settings/ads/onweb "Google Ads Preferences Manager"). Also, Google recommends installing the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout/ "Google Analytics Opt-out Browser Add-on"). 
 
 **Questions about your personal Information**
 
@@ -66,6 +78,6 @@ We keep our privacy statement under regular review and reserve the right to modi
 
 Our website may contain links to other sites which are outside our control and are not covered by this privacy statement. If you access other sites using the links provided, the operators of these sites may collect information from you which will be used by them in accordance with their privacy statement, which may differ from ours. We encourage you to read the privacy statements on the other websites you visit. 
 
-[Privacy Statement](https://web.archive.org/PrivacyPolicy.aspx)
+[Privacy Statement](https://web.archive.org/privacy-policy)
 
-© 1996-2012 Ungerboeck Systems International, Inc.
+© 1996-2013 Ungerboeck Systems International, Inc.
