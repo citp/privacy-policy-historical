@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cl-p.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224003957id_/http%3A//www.cl-p.com/SiteInfo/Privacy_Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cl-p.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528034641id_/http%3A//www.cl-p.com/SiteInfo/Privacy_Statement) for the most accurate reproduction.*
 
 # Connecticut Light & Power : Privacy Statement
 
