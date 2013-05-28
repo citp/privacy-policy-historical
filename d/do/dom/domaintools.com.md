@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the domaintools.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604122112id_/http%3A//www.domaintools.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domaintools.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528211950id_/http%3A//www.domaintools.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - DomainTools, LLC
 
@@ -78,4 +78,4 @@ DomainTools personnel are trained appropriately regarding the application of pri
 
 ### Contact Information
 
-If you have a concern about your privacy, please contact us at [http://www.domaintools.com/about/contact-us/](https://web.archive.org/about/contact-us/)
+If you have a concern about your privacy, please contact us at <http://www.domaintools.com/about/contact-us/>
