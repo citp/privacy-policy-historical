@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spine-health.com privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204021419id_/http%3A//www.spine-health.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spine-health.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528063743id_/http%3A//www.spine-health.com/privacy-policy) for the most accurate reproduction.*
 
 # Spine-health Privacy Policy
 
@@ -22,7 +22,7 @@ Web beacons are typically used by a third-party to monitor the activity of a sit
 
 Spine-health.com uses third-party advertising companies to serve ads when you visit our web site. Our advertising partners' Ad Server may use cookies when you view pages on our site; these cookies collect anonymous (non-PII) information as a way of measuring the effectiveness of advertising sold on Spine-health.com. Our sponsors and advertisers have agreed that they will not collect any personally identifiable information from our site visitors while they are on Spine-health.com. If you click on an advertisement on Spine-health.com and visit a site maintained by one of our sponsors or advertisers, please be aware that we are not responsible for the privacy practices of those sites. Certain advertiser sites may contain tracking code allowing our ad server systems to capture information about the activity on those sites, e.g., how many people from Spine-health.com visited a certain page of the advertiser’s site, how many people from Spine-health.com completed a product purchase on that site. Again, this information is used to measure the effectiveness of the advertising on Spine-health.com.
 
-Some Ad Servers allow you to opt out of anonymous data collection through the use of cookies. To do so, you must opt out of such data collection with each individual site. You can opt out of cookies for several Ad Servers by visiting the Network Advertising Initiative gateway opt-out site <http://www.networkadvertising.org/optout_nonppii.asp>. At that site you can also review the privacy policies of those Ad Servers.
+Some Ad Servers allow you to opt out of anonymous data collection through the use of cookies. To do so, you must opt out of such data collection with each individual site. You can opt out of cookies for several Ad Servers by visiting the Network Advertising Initiative gateway opt-out site <http://www.networkadvertising.org/choices/>. At that site you can also review the privacy policies of those Ad Servers.
 
 Similarly, Spine-health.com provides links to other web resources and content partners, and users that click on these links will be taken off the Spine-health.com site. These other sites may use their own cookies, collect data or solicit personal information. You should read the privacy policies of each site you visit to determine what information that site may be collecting about you and if you agree to how it will be used.
 
@@ -40,7 +40,7 @@ Subscribers to Spine-health’s e-newsletters and other emails should log in to 
 
 On occasion, Spine-health.com will make available to potential advertisers and research firms aggregated results from research it has conducted on its user base. Once again, Spine-health.com will only provide such demographic information on an aggregated basis and does not disclose individual member profiles without user consent.
 
-Spine-health.com maintains a forums area, in which visitors can post and review posts from other visitors. [Click here](https://web.archive.org/spine-health-forum-rules-and-guidelines "Spine-health Forum Rules and Guidelines") to view the complete Spine-health Forum Rules and Regulations. 
+Spine-health.com maintains a forums area, in which visitors can post and review posts from other visitors. [Click here](https://web.archive.org/forum/announcements/spine-health-announcements/current-spine-health-forum-rules "Current Spine-Health Forum Rules ") to view the complete Spine-health Forum Rules and Regulations. 
 
 In accordance with the Federal Children's Online Privacy Protection Act of 1998 (COPPA), Spine-health.com will never knowingly request personally identifiable information from anyone under the age of 13.
 
