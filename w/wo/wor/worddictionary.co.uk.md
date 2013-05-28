@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the worddictionary.co.uk privacy policy that was archived on 2012-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121212235653id_/http%3A//worddictionary.co.uk/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worddictionary.co.uk privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528060746id_/http%3A//worddictionary.co.uk/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy Policy - WordDictionary.co.uk
+# Privacy Policy - Worddictionary.co.uk
 
-WordDictionary.co.uk (hereafter referred to as "WordDictionary") respects the privacy of its customers and visitors and is committed to protecting the personal information of its customers and visitors. This Privacy Policy is only applicable to the site - http://www.WordDictionary.co.uk (the "Site"), and not any other websites that are accessible from the Site, each of which may have data collection, storage, and use practices and policies that differ materially from this Privacy Policy. We are not responsible for the privacy practices of such websites.
+Worddictionary.co.uk (hereafter referred to as "WordDictionary") respects the privacy of its customers and visitors and is committed to protecting the personal information of its customers and visitors. This Privacy Policy is only applicable to the site - http://www.Worddictionary.co.uk (the "Site"), and not any other websites that are accessible from the Site, each of which may have data collection, storage, and use practices and policies that differ materially from this Privacy Policy. We are not responsible for the privacy practices of such websites.
 
 ### INFORMATION AUTOMATICALLY COLLECTED BY THE SITE
 
