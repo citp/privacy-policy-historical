@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medallia.com privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214021302id_/http%3A//www.medallia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medallia.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528212007id_/http%3A//www.medallia.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Medallia
 
@@ -24,9 +24,11 @@ Medallia may, with the written consent of its clients, ask questions of customer
 
 When Medallia surveys respondents on its own behalf, it typically does not collect or have any other access to personally identifying information. If Medallia does request personally identifiable information during a survey, it will use the personally identifiable information as described in that survey. When Medallia provides resulting proprietary research to third parties, it sometimes reveals individual responses, but these do not contain any personally identifying information.
 
-Medallia does not collect or receive sensitive personal information such as: credit card numbers, social security numbers, financial account and transaction information, medical or health information, political opinions, religious or philosophical beliefs, or trade union membership. Medallia does collect demographic information for statistical purposes. Responses to demographic questions are entirely voluntary.
+Medallia does not collect or receive sensitive personal information such as: credit card numbers, social security numbers, financial account and transaction information, political opinions, religious or philosophical beliefs, or trade union membership. Medallia does collect demographic information for statistical purposes. Responses to demographic questions are entirely voluntary.  
+Medallia’s mobile reporting application, used by Medallia’s clients, uses third-party services to gather data on application usage and stability. This data is shared only with the relevant client. A user may unsubscribe from tracking through the user settings screen within the mobile application.
 
-Medallia uses cookies primarily to identify returning users from the same computer and insure the integrity of its research. As part of its basic uses of Internet technology to provide surveys, Medallia also collects technical information such as: respondent IP address; the date and time at which respondents access Medallia’s website and respondent HTTP request headers.
+Medallia uses cookies primarily to identify returning users from the same computer and insure the integrity of its research. As part of its basic uses of Internet technology to provide surveys, Medallia also collects technical information such as: respondent IP address; the date and time at which respondents access Medallia’s website and respondent HTTP request headers.  
+Medallia uses Google Display Advertising and Remarketing, which enable third-party vendors to show Medallia advertisements across the Internet. Medallia and third-party vendors, including Google, use cookies to optimize ads based on visits to the Medallia website. You can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the Ads Preferences Manager.
 
 ## PROTECTION OF PERSONALLY-IDENTIFIABLE INFORMATION
 
@@ -34,7 +36,7 @@ Medallia is not in the business of selling or renting personally identifiable in
 
 ## VOLUNTARY PARTICIPATION
 
-Individuals may choose not to participate in Medallia’s research. An opt-out choice is included in each communication to individuals, and those who exercise it will be added to Medallia’s opt-out list within ten (10) business days of unsubscribing. Medallia does not send survey invitations to any e-mail address on its opt-out list. Medallia also provides its opt-out list on a timely basis to its clients and third party agents so that they may properly update their records.
+Individuals may choose not to participate in Medallia’s research. An opt-out choice is included in each communication to individuals, and those who exercise it will be added to Medallia’s opt-out list for the relevant client within ten (10) business days of unsubscribing. For each client, Medallia does not send survey invitations to any e-mail address on the applicable opt-out list. Medallia also provides its opt-out lists on a timely basis to its clients and third party agents so that they may properly update their records.
 
 Individuals may elect to opt out at any time from receiving email from Medallia and are under no obligation to take surveys sent to them. Individuals who wish to reverse an earlier unsubscribe option may contact Medallia’s Privacy Contact (see contact information below) to change their opt-out status.
 
@@ -74,7 +76,7 @@ When requested by legal authorities to disclose personal information, Medallia w
 
 ## Children’s Privacy
 
-Medallia does not knowingly collect any information from any individual under the age of 13.
+Medallia does not knowingly collect personal information from any individual under the age of 13.
 
 ## Notification of Changes
 
@@ -86,4 +88,4 @@ We reserve the right to modify this privacy statement at any time, so please rev
 
 If you have any questions or comments about this privacy statement or the practices of this site, please contact Medallia by e-mailing privacy@medallia.com, faxing (650) 321-3156, calling (650) 321-3000, or writing Attention: Privacy, Medallia, Inc., 395 Page Mill Road, Suite 100, Palo Alto, CA 94306. Medallia responds to non-frivolous privacy-related requests in a timely fashion, not to exceed ten (10) business days.
 
-Effective date: September 24, 2004. Last reviewed and updated, March 29, 2012.
+Effective date: September 24, 2004. Last reviewed and updated, May 9, 2013.
