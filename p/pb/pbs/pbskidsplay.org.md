@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pbskidsplay.org privacy policy that was archived on 2012-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120701081420id_/https%3A//www.pbskidsplay.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pbskidsplay.org privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528060148id_/https%3A//www.pbskidsplay.org/privacy) for the most accurate reproduction.*
 
-# PBS KIDS PLAY! Home Edition - Learning games for school readiness with PBS KIDS characters.
+# PBS KIDS PLAY! School readiness program - Educational games - Preschool games - Adaptive learning games
 
 _Last modified on June 14, 2011. ****_
 
@@ -10,9 +10,9 @@ Following is a description of the personal information PBS may collect from you 
 
 ### Your email address.
 
-PBS has a zero-spam policy. This means that, except in the specific circumstances noted below, we do not send you any emails unless you expressly opt into our mailing list. We will always honor your request to remove you from the list in a timely manner. 
+PBS has a zero-spam policy. This means that, except in the specific circumstances noted below, **we do not send you any emails unless you expressly opt into our mailing list**. We will always honor your request to remove you from the list in a timely manner.
 
-The following are circumstances under which we may send emails to you, without your prior explicit permission (i.e., even if you do not opt in):
+**The following are circumstances under which we may send emails to you, _without your prior explicit permission_** (i.e., even if you do not opt in):
 
   1. We will send you one confirmation email when you have created a trial account.
   2. We will send you up to two reminder emails when your trial or subscription is about to expire.
