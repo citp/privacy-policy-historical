@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ibackup.com privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110204908id_/http%3A//www.ibackup.com/policy_new.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibackup.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528235038id_/https%3A//www.ibackup.com/policy_new.htm) for the most accurate reproduction.*
 
 # Privacy policy - Secure online storage and backup
 
