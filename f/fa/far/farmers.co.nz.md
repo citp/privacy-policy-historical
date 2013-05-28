@@ -1,15 +1,16 @@
-> *The following text is extracted and transformed from the farmers.co.nz privacy policy that was archived on 2012-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121113221831id_/http%3A//farmers.co.nz/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the farmers.co.nz privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528115712id_/http%3A//farmers.co.nz/privacypolicy.html) for the most accurate reproduction.*
 
 # Farmers
 
 * * *
 
+  * [FASHION REPORT](https://web.archive.org/web/20130528115712id_/http%3A//farmers.co.nz/catalogue_page.html)
   * [CATALOGUES](http://catalogues.farmers.co.nz/)
   * [FARMERS CLUB](http://www.farmersclub.co.nz/)
   * [FARMERS BEAUTY](http://www.farmersbeauty.co.nz/)
-  * [GIFT CARD](https://web.archive.org/web/20121113221831id_/http%3A//farmers.co.nz/giftcards.html)
-  * [STORE DETAILS](https://web.archive.org/web/20121113221831id_/http%3A//farmers.co.nz/stores.html)
-  * [WHAT'S ON](https://web.archive.org/web/20121113221831id_/http%3A//farmers.co.nz/whatson.html)
+  * [GIFT CARD](https://web.archive.org/web/20130528115712id_/http%3A//farmers.co.nz/giftcards.html)
+  * [STORE DETAILS](https://web.archive.org/web/20130528115712id_/http%3A//farmers.co.nz/stores.html)
+  * [WHAT'S ON](https://web.archive.org/web/20130528115712id_/http%3A//farmers.co.nz/whatson.html)
 
 
 
@@ -56,27 +57,23 @@ We are committed to protecting your privacy. We use the information we collect o
 
 We welcome your questions and comments about privacy at Farmers. Please send e-mails to [contactus@farmers.co.nz](mailto:contactus@farmers.co.nz)
 
-  * [](http://catalogues.farmers.co.nz/Early_Christmas_Savings/4370/Catalogue/)
+  * [](http://catalogues.farmers.co.nz/Fashion_and_Home_Value/4814/Catalogue/#/?page=18)
 
-Starts this Thursday 15th and must end Friday the 16th November 2012
+Manchester Mania is now on. Stock up now, the cooler months are coming.
 
-  * [](https://web.archive.org/web/20121113221831id_/http%3A//farmers.co.nz/comp-montly-prize-nov2012.html)
+  * [](http://catalogues.farmers.co.nz/Fashion_and_Home_Value/4814/Catalogue/#/?page=2)
 
-Win the ultimate insiders New York Beauty Experience with Elizabeth Arden 
+Buy 2 or more and save 30% on Women's Clothing*
 
-  * [](http://www.santaparade.co.nz/)
+  * [](http://catalogues.farmers.co.nz/Fashion_and_Home_Value/4814/Catalogue/#/?page=6)
 
-Don't forget the Auckland Santa Parade is on Sunday 25th November 2012 at 2.00pm!
-
-  * [](http://farmers.co.nz/comp-diamondringoct2012.html)
-
-A beautiful tanzanite & diamond ring, valued at $13,700!
+Buy 2 or more and save 25% on Men's Clothing and Accessories*
 
   * [](http://www.facebook.com/farmersyourstore)
 
-Join us & over 40,000 fans for exclusive competitions, polls and more!
+Join us & over 70,000 fans for exclusive competitions, polls and more!
 
-  * [](https://web.archive.org/web/20121113221831id_/http%3A//farmers.co.nz/stores.html)
+  * [](https://web.archive.org/web/20130528115712id_/http%3A//farmers.co.nz/stores.html)
 
 To find your nearest store locations and trading hours
 
@@ -97,15 +94,5 @@ Check out our fashion and beauty events happening at Farmers stores.
 
 You'll get exclusive access to special deals and discounts.
 
-
-
-
-  1. 1
-  2. 2
-  3. 3
-
-
-  * Previous
-  * Next
 
 
