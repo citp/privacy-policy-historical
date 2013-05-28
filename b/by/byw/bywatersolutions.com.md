@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bywatersolutions.com privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105083537id_/http%3A//bywatersolutions.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bywatersolutions.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528074538id_/http%3A//bywatersolutions.com/about-us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | ByWater Solutions - Koha Open Source ILS
+# ByWater Solutions Privacy Policy
 
 Effective 10/15/2009
 
