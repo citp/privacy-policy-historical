@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 21sexturycash.com privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109034147id_/http%3A//21sexturycash.com/external.php%3Fpage%3DprivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 21sexturycash.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528043603id_/http%3A//21sexturycash.com/external.php%3Fpage%3DprivacyPolicy%26nats%3DOS42Ni4zLjMuMC4wLjAuMC4w) for the most accurate reproduction.*
 
 # 21Sextury Cash - Privacy Policy
 
