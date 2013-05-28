@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myfriendsgreetings.com privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125235333id_/http%3A//www.friendlygreeting.com/facebook-photos/frontpage/greetings/greetings/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfriendsgreetings.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528133756id_/http%3A//www.friendlygreeting.com/facebook-photos/frontpage/greetings/greetings/privacy) for the most accurate reproduction.*
 
 # None
 
