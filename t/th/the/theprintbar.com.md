@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theprintbar.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126014715id_/http%3A//www.theprintbar.com/home/privacy%3Fma%3D4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theprintbar.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528092712id_/http%3A//www.theprintbar.com/home/privacy%3Fma%3D4) for the most accurate reproduction.*
 
-# The Print Bar. T Shirt Printing - Privacy and cookie policy
+# Privacy and cookie policy - The Print Bar. T Shirt Printing
 
 **Effective Date: May 1, 2007**  
 The Print Bar. T Shirt Printing values the users of our website www.theprintbar.com (the "Website"). Your privacy and trust are very important to us. We recognize that you may be concerned about our collection, use, and disclosure of the personally identifiable information ("Personal Information") that we collect when you use the Website and the services offered on the Website ("The Print Bar. T Shirt Printing Services"). This Privacy Policy describes the information that we collect from you, how we collect this information, and what we do with it after we collect it. By using the Website you are accepting the practices described in this Privacy Policy. Our policy and security is authorised and managed by deconetwork.com  
