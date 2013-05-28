@@ -1,0 +1,173 @@
+<!--The following is the downloaded HTML source of the twitonomy.com privacy policy that was archived on 2013-05-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130528210415id_/http%3A//twitonomy.com/content/privacy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en"><head>
+    <base href="http://www.twitonomy.com">
+    <meta charset="utf-8">
+    <title>Privacy Policy // Twitonomy</title>
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    
+    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+    <link rel="icon" type="image/png" href="/favicon.png">
+
+    <!-- Le styles -->
+    <link href="bootstrap/css/bootstrap.css" rel="stylesheet">
+    <link href="twitonomy-custom.css" rel="stylesheet">
+    <style>
+      body {
+        padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
+      }
+      
+.warning {
+  color: #FF0000;
+}
+      
+    </style>
+
+    <!-- Le fav and touch icons -->
+    <link rel="shortcut icon" href="images/favicon.ico">
+    <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
+
+    <!-- Le javascript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://code.jquery.com/jquery-1.7.min.js"></script>
+    <script src="bootstrap/js/bootstrap.js"></script>
+    <script src="bootstrap/js/bootstrap-alert.js"></script>
+    <script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+
+	 <script type="text/javascript">
+	  $(function(){
+	   // On Ajax calls, check that user is authenticated
+	   $('#navBarLogo').ajaxStart(function() {
+			$(this).attr('src', 'images/logo-loading-40.gif');
+			$.get('auth.php', 'chk=1', function(data) { 
+			  if(data<1) 
+			  { 
+			    alert('Your session has expired, please sign in again...'); 
+			    window.location = 'http://www.twitonomy.com/sign-in.php';
+			  }
+			});
+	   });
+	   $('#navBarLogo').ajaxStop(function() {
+			$(this).attr('src', 'images/logo-white-40.jpg');
+	   });
+	  });
+	  </script>
+
+      
+<script type="text/javascript">
+  $(function(){
+
+  });
+</script>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-28981985-1']);
+  _gaq.push(['_setDomainName', 'twitonomy.com']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+  </head>
+
+  <body>
+
+    <div class="navbar navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </a>
+          <a class="brand" href="index.php" style="padding: 0 10px 0 20px;"><img id="navBarLogo" src="images/logo-white-40.jpg" alt="Twitonomy" width="110" height="40" style="max-width: none;"></a>
+          <div class="nav-collapse">
+            <ul class="nav">
+              <li><a href="index.php"><i class="icon-home icon-white"></i> Home</a></li>
+      <li class="active"><a href="sign-in.php"><i class="icon-play icon-white"></i> Sign in</a></li>
+      <li><a href="mailto:webmaster@twitonomy.com"><i class="icon-envelope icon-white"></i> Contact</a></li>
+            </ul>
+            <form class="navbar-search pull-right" name="formSearchNavbar" action="search.php" method="get"><input id="inputSearchNavbar" name="q" type="text" class="search-query" placeholder="@user or #hashtag" style="width: 120px; font-size: 12px; background-image: url('images/search-white.png'); background-position: 115px 5px; background-repeat: no-repeat;"></form>
+          </div><!--/.nav-collapse -->
+        </div>
+      </div>
+      
+    </div>
+
+
+    <div class="container">
+
+<div class="page-header"><h1>Privacy Policy</h1></div>
+
+<p>Twitonomy.com is a service brought to you by Diginomy Pty Ltd (ACN 162 821 954) ("we" or "us" or "Twitonomy" or "Diginomy"). We collect and manage user data according to the following Privacy Policy. This document is part of our <a href="/content/terms.php">Terms of Service</a>, and by using Diginomy services and Twitonomy.com (the “Service” or the "Website"), you agree to the terms of this Privacy Policy and the Terms of Service.</p>
+<p>Diginomy analyzes Twitter data that is made available publicly through the Internet in order to provide the Service. We present some of this data on the Website and may share it with our third party partners (as described in more details below). Diginomy does not analyze non-public data from private networks.</p>
+<p>We collect the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, and information volunteered by the consumer (such as survey information and/or site registrations).</p>
+<p>The information we collect is used to provide the Service, to improve the content of our Website and the quality of our Service, and is not shared with or sold to other organizations for commercial purposes, except to provide products or services you've requested, when we have your permission, or under the following circumstances:</p>
+<ul>
+<li>It is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Terms of Service, or as otherwise required by law.</li>
+<li>We transfer information about you if Diginomy is acquired by or merged with another company. In this event, Diginomy will notify you before information about you is transferred and becomes subject to a different privacy policy.</li>
+</ul>
+
+<h2>Information Gathering and Usage</h2>
+<p>When you register for Twitonomy we may ask for information such as your Twitter username, name, email address, billing address, credit card information. Users who sign up for the free account are not required to enter a credit card.</p>
+<p>Diginomy uses collected information for the following general purposes: Products and services provision, billing, identification and authentication, services improvement, contact and research.</p>
+<p>Diginomy uses the Twitter API to provide the Service. To use the Service, you need to connect your Twitter account with Twitonomy. This connection provides us with access to your Twitter account. This includes, but is not limited to, your tweet stream and timeline, your friends and followers lists, your lists, your profile details and your account settings. We do not have access to your Direct Messages or password.</p>
+<p>When you are accessing Twitter services through our Service, you are sharing information with Twitter, and the information you share will be governed by Twitter’s privacy policies and terms of service. Diginomy shall have no liability or responsibility for the privacy practices or other actions of Twitter that may be enabled within the Service.</p>
+<p>While we may republish public information you provide, we will not publish private or confidential information.</p>
+<p>Diginomy is committed to abide by Twitter’s rules regarding Third Party applications.</p>
+<p>At any time you can revoke Twitonomy's access to your Twitter account from your settings page on Twitter. However revoking our access to your Twitter account will prevent you from using the Service.</p>
+<p>Diginomy operates from Australia and France. By using the Service, you acknowledge and agree that your Personal Information may be transferred, processed and stored in these countries. You also understand that your information may be transferred to our facilities and those third parties with whom we share it as described in this Privacy Policy.</p>
+<p>When you interact with the Website or use the Service, our servers automatically receive and store certain information ("Log Data"). This Log Data is collected passively and may include information such as, but not limited to, your IP address, browser type, the Website pages you visit, the search terms you use. For most users accessing the Internet from an Internet service provider, the IP address will be different every time you log on. We use Log Data to provide you with the Service and pool it with other information to monitor the use of the Service, and for the administration and improvement of the Service.</p>
+
+<h2>Cookies</h2>
+<p>A cookie is a small amount of data, which often includes an anonymous unique identifier, that is sent to your browser from a web site's computers and stored on your computer's hard drive.</p>
+<p>Cookies are required to use Diginomy’s services.</p>
+<p>We use cookies to record current session information, but do not use permanent cookies. You are required to re-login to your Twitonomy account after a certain period of time has elapsed to protect you against others accidentally accessing your account.</p>
+
+<h2>Data Storage</h2>
+<p>Diginomy uses third party vendors and partners to provide the necessary data, hardware, software, networking, storage, and related technology required to run the Service. Although Diginomy owns the code, databases, and all rights to the Twitonomy application, you retain all rights to your data.</p>
+
+<h2>Children</h2>
+<p>If a parent or guardian becomes aware that his or her child has provided us with Personal Information without his/her consent, he or she should contact us at support@twitonomy.com. We do not knowingly collect Personal Information from children under 13. If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files. If you are under the age of 13, please do not submit any Personal Information through the Services. We encourage parents and legal guardians to monitor their children's Internet usage and to help enforce our Privacy Policy by instructing their children never to provide Personal Information via the Service without their permission.</p>
+
+<h2>Disclosure</h2>
+<p>Diginomy may disclose personally identifiable information under special circumstances, such as to comply with subpoenas or when your actions violate the Terms of Service.</p>
+<p>We may engage certain trusted third parties to perform functions and provide services to us, including, without limitation, hosting and maintenance, customer relationship, database storage and management, and direct marketing campaigns. We will share your Personal Information with these third parties, but only to the extent necessary to perform these functions and provide such services.</p>
+
+<h2>Changes</h2>
+<p>Diginomy may periodically update this policy. We will notify you about significant changes in the way we treat personal information (as determined solely by Diginomy) by sending a notice to the primary email address specified in your Twitonomy account or by placing a prominent notice on our site.</p>
+<p>By continuing to access or use the Service after those changes become effective, you agree to be bound by the revised Privacy Policy.</p>
+
+<h2>Questions</h2>
+<p>Any questions about this Privacy Policy should be addressed to <a href="mailto:support@twitonomy.com">support@twitonomy.com</a>.</p>
+      <hr>
+
+      <footer>
+        
+	    <table style="width: 1170px; margin-bottom: 10px;" cellspacing="0" cellpadding="0" border="0"><tbody><tr>
+	      <td><div class="txtGrey">© 2013 Diginomy Pty Ltd<span style="margin-left: 20px;"><a href="content/terms.php" class="txtGrey">Terms of Service</a></span><span style="margin-left: 20px;"><a href="content/privacy.php" class="txtGrey">Privacy Policy</a></span><span style="margin-left: 20px;"><a href="mailto:hello@twitonomy.com" class="txtGrey">Contact Us</a></span></div></td>
+	      <td style="text-align: right;"></td>
+	    </tr></tbody></table>
+      </footer>
+
+    </div> <!-- /container -->
+
+  
+</body></html>
