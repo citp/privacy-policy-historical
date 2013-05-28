@@ -1,8 +1,7 @@
-<!--The following is the downloaded HTML source of the uprinting.com privacy policy that was archived on 2012-11-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121103053912id_/http%3A//www.uprinting.com/site-policies.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the uprinting.com privacy policy that was archived on 2013-05-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130528103032id_/http%3A//www.uprinting.com/site-policies.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-<script type="text/javascript" async="" src="//img.en25.com/i/elqCfg.min.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 <title>UPrinting | Privacy Policy</title>
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
 <meta name="description" content="Save on Commercial Printing! Online Printing Services for Business Cards, Postcards, Brochures, Posters and Canvas Prints!">
@@ -12,9 +11,9 @@
 <link href="https://plus.google.com/b/106588708418323078721/106588708418323078721" rel="publisher"> 
 <meta name="robots" content="noindex,follow">
 <link href="http://static.uprinting.com/site_files/css/reset.css" rel="stylesheet" type="text/css">
-<link href="http://static.uprinting.com/site_files/css/common11.css?v=20121101" rel="stylesheet" type="text/css">
+<link href="http://static.uprinting.com/site_files/css/common11.css?v=20130528" rel="stylesheet" type="text/css">
 <link media="screen" rel="stylesheet" href="http://static.uprinting.com/site_files/css/colorbox-mod12.css">
-<script src="/site/jscripts/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" async="" src="//img.en25.com/i/elqCfg.min.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/site/jscripts/jquery-1.4.2.min.js"></script>
 <script src="/site/jscripts/jquery-ui-1.8.4.custom.min.js" type="text/javascript"></script>
 <script src="/site/jscripts/jquery.colorbox.mod.js"></script>
 <script src="/site/jscripts/toggle.js" type="text/javascript"></script>
@@ -28,6 +27,27 @@
 <style>
 .loggedIn{margin-top:0px;}
 </style>
+
+<!-- INITIALIZE USER VARIABLES-->
+<script type="text/javascript">
+    var cookiestring = RegExp('__upCustomer[^;]+').exec(document.cookie);
+    var customer_cookie = unescape(!!cookiestring ? cookiestring.toString().replace(/^[^=]+/,'').replace('=','') : '{}');
+    var customer_info = jQuery.parseJSON(customer_cookie);
+    
+    var user_info = {};
+    user_info.user_name = (customer_info.customer_id && customer_info.user_name) ? customer_info.user_name.replace(/(<([^>]+)>)/ig,"").replace(/\\/g, "|") : "" ;
+    user_info.login_link = (customer_info.customer_id && customer_info.user_name) ? "Log out" : "Log in" ;
+    user_info.cart_info = customer_info.has_cart ? "" : "(0)";
+        
+    if (typeof jQuery != 'undefined') {
+        jQuery.ajax({ url : '/customer/customer/call/process/getUserInfo/',
+                      type : "post" ,
+                      dataType: 'script' ,
+                      async: true
+                    });
+    }
+</script>
+
 
 
 <!-- ELOQUA SCRIPT SC -->
@@ -70,7 +90,8 @@
    </script>
 <!-- GOOGLE ANALYTIC SC: END -->
 
-<script src="http://api3.thesearchagency.net/v2/a3/tsaapi.js" language="JavaScript" type="text/javascript"></script><link rel="shortcut icon" href="/uprinting.ico"> 
+<link rel="shortcut icon" href="/uprinting.ico"> 
+
 
 <!-- START INTERACTION TRACKER -->
 <script type="text/javascript">
@@ -103,6 +124,7 @@
 <!-- END INTERACTION TRACKER -->
 
 
+
 <script type="text/javascript" charset="iso-8859-1" src="https://server.iad.liveperson.net/hcp/html/mTag.js?site=77577663"></script></head>
 <body><div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" style="padding-bottom: 0px; padding-right: 0px; display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxLoadedContent" style="width: 0px; height: 0px;" class=""></div><div id="cboxLoadingOverlay" class=""></div><div id="cboxLoadingGraphic" class=""></div><div id="cboxTitle" class=""></div><div id="cboxCurrent" class=""></div><div id="cboxNext" class=""></div><div id="cboxPrevious" class=""></div><div id="cboxSlideshow" class=""></div><div id="cboxClose" class=""></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position:absolute; width:9999px; visibility:hidden; display:none"></div></div>
 
@@ -115,117 +137,227 @@ var WRInitTime=(new Date()).getTime();
 
 <div id="march_notification"></div>
 
-  <script type="text/javascript">
+
+<script type="text/javascript">
 </script>
 <div class="container">
 	<div class="container-w">
-		<!--header last edited 4-9-2011 -->
-<!--header-->
-
+		
 <div class="header">
-  <!--[if lte IE 6]><script src="/site/jscripts/warning.js"></script><script>addEvent(window,"load", function(){e("/site/images/")});</script><![endif]-->
+<!--[if lte IE 6]><script src="/site/jscripts/warning.js"></script><script>addEvent(window,"load", function(){e("/site/images/")});</script><![endif]-->
 <div class="newHeadWrap">
 
   <a href="http://www.uprinting.com" class="logo">
     UPrinting - Spread Your Message!
   </a>
-    
+
   <div id="user-bar" class="user">
-  	
-  </div>
   
-  <div id="contactinfo" class="contact">
-    <span class="hours">24 Hour Phone Support on weekdays, 8am - 5pm pst on weekends</span>
-    <span id="number">1.888.888.4211</span>  
-    
+          <!-- Merged from customer/customer/getUserBar -->
+    <ul class="control">
+      <li class="salutation"><strong>Hello <span id="user_name"></span></strong></li>
+      <li><a href="/login.html?url=%2Fsite-policies.html" rel="nofollow" id="loginLink">Log in</a></li>
+      <li><a href="http://www.uprinting.com/my" rel="nofollow">Account</a></li>
+    </ul>
+    <ul class="jobs">
+      <li id="maincart">
+        <a class="cart grayOut" id="cart_info">
+          <strong>Cart 
+          	<span id="cart_items">(0)
+            </span></strong>
+        </a>
+        <ul id="subcart" style="display:none;">
+          <li>
+            <a href="http://www.uprinting.com/cart.html" rel="nofollow">Print orders (<span id="cart_item_count">0</span>)</a>
+          </li>
+          <li>
+            <a href="http://www.uprinting.com/ffr_cart.html" rel="nofollow">Free proofs (<span id="ffrcart_item_count">0</span>)</a>
+          </li>
+        </ul>
+      </li>
+      <li>
+        <a href="http://www.uprinting.com/jobs.html" rel="nofollow">
+          <strong>Orders &amp; Proofs</strong>
+        </a>
+      </li>  
+      <li>
+        <a href="http://www.uprinting.com/my_designs.html" rel="nofollow">
+          <strong>Saved Designs</strong>
+        </a>
+      </li>
+    </ul> 
+
+    <!-- End of Merged code -->
   </div>
 
-</div>
+  <div id="contactinfo" class="contact">
+    <span class="hours">24 Hour Phone Support on weekdays, 8am - 5pm pst on weekends and holidays</span>
+    <span id="number">1.888.888.4211</span>  
+  <ul class="links">
+    <li class="floatLeft">
+      <a href="http://www.uprinting.com/print-quality-assurance/" rel="nofollow" id="pqa" class="cboxElement">
+        Quality Assurance
+      </a>
+    </li>
+    <li class="floatRight">
+      <a href="http://www.uprinting.com/customer-feedback.html" rel="nofollow" id="fback" class="cboxElement">
+        Help us improve
+      </a>
+    </li>
+    <li class="livechat"> 
+      <a rel="nofollow" id="_lpChatBtn" href="https://server.iad.liveperson.net/hc/77577663/?cmd=file&amp;file=visitorWantsToChat&amp;site=77577663&amp;byhref=1&amp;SESSIONVAR!skill=Uprinting&amp;imageUrl=https://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/1a/" target="chat77577663" onclick="javascript:window.open('https://server.iad.liveperson.net/hc/77577663/?cmd=file&amp;file=visitorWantsToChat&amp;site=77577663&amp;SESSIONVAR!skill=Uprinting&amp;imageUrl=https://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/1a/&amp;referrer='+escape(document.location),'chat77577663','width=475,height=400,resizable=yes'); return false;">
+        <strong>Live Chat</strong>
+      </a>
+    </li>
+  </ul>   
+    </div>
 
+</div> 
+<script type="text/javascript">
 
-  <div class="header-menu">
-    <div class="header-menu-w">
-      <div class="header-menu-list">
-        <div id="navigation"><div id="headerNav">
+  //jQuery('#logoutForm').submit();
 
-<ul>
-  <li class="mhome"><a rel="follow" href="https://web.archive.org/web/20120904103304/http://www.uprinting.com/">Home</a></li>
-  <li><a rel="follow" href="https://web.archive.org/web/20120904103304/http://www.uprinting.com/products.html" onclick="SetCookie('PROD_TAB', '1'); SetCookie('UNSET_PROD_TAB', 'y');">Products</a></li>
-  <li class="menu"><a style="cursor:pointer">Templates</a>
-    <ul class="submenu" style="display:none;">
-      <li><a rel="follow" href="https://web.archive.org/web/20120904103304/http://www.uprinting.com/design-templates/">Print Designs</a></li>
-      <li><a rel="follow" href="https://web.archive.org/web/20120904103304/http://www.uprinting.com/print-templates/">Print Templates</a></li>
+  jQuery('#fback').colorbox({width:'650px', height:'420px', href:this.href, scrolling:false, iframe:true}); jQuery('#pqa').colorbox({width:'670px', height:'380px', href:this.href, scrolling:false, iframe:true}); 
+  
+
+  jQuery("ul li.menu").click(function() {  
+    jQuery(this).find("ul.submenu").slideDown('fast').show(); 
+  }, function() {
+    jQuery(this).find("ul.submenu").slideUp('slow');   
+  });
+
+  jQuery("ul li.menu").hover(function() {  
+    //jQuery(this).find("ul.submenu").slideDown('fast').show(); 
+  }, function() {
+    jQuery(this).find("ul.submenu").slideUp('slow');   
+  });
+                  
+  function viewJobs() {
+    document.getElementById("jobs").style.display = "none";
+    document.getElementById("load_jobs").style.display = "block";
+  }
+</script>
+
+    <div class="header-menu">
+        <div class="header-menu-w">
+            <div class="header-menu-boxed">
+                <div id="navigation">
+<div id="headerNav">
+    <ul>
+        <!--<li class="mhome"><a rel="follow" href="http://www.uprinting.com">Home</a></li>-->
+        <li><a class="products-nav" rel="nofollow" href="http://www.uprinting.com/products.html" onclick="SetCookie('PROD_TAB', '1'); SetCookie('UNSET_PROD_TAB', 'y');">Products</a></li>
+        <li class="searchwidget">
+            <span id="search_widget" class="search-widget search-widget-up-new-header"></span>
+        </li>
+        <li class="menu"><a style="cursor:pointer">Templates</a>
+            <ul class="submenu" style="display:none;">
+                <li><a rel="nofollow" href="http://www.uprinting.com/design-templates/">Print Designs</a></li>
+                <li><a rel="nofollow" href="http://www.uprinting.com/print-templates/">Print Templates</a></li>
+            </ul>
+        </li>
+        <li><a rel="nofollow" href="http://www.uprinting.com/samples.html">Free Samples</a></li>
+        <li><a rel="nofollow" href="http://www.uprinting.com/support.html">Help</a></li>
+        <li class="last"><a rel="nofollow" href="http://www.uprinting.com/contact-us.html">Contact Us</a></li>
     </ul>
-  </li>
-  <li><a rel="follow" href="https://web.archive.org/web/20120904103304/http://www.uprinting.com/samples.html">Free Samples</a></li>
-  <li><a rel="follow" href="https://web.archive.org/web/20120904103304/http://www.uprinting.com/support.html">Help</a></li>
-  <li><a rel="follow" href="https://web.archive.org/web/20120904103304/http://www.uprinting.com/contact-us.html">Contact Us</a></li>
-</ul></div></div>
-        <div id="search_widget" class="search-widget search-widget-up-new-header"></div>
-        <!-- START SEARCH WIDGET -->
-<link href="http://www.uprinting.com/js/sw/bootstrap.min.css" rel="stylesheet">
+</div>
+<script type="text/javascript">
+  jQuery("ul li.menu").click(function() {  
+      jQuery(this).find("ul.submenu").slideDown('fast').show(); 
+    }, function(){
+      jQuery(this).find("ul.submenu").slideUp('slow');   
+  });
+  jQuery("ul li.menu").hover(function() {  
+      //jQuery(this).find("ul.submenu").slideDown('fast').show(); 
+    }, function(){
+        jQuery(this).find("ul.submenu").slideUp('slow');   
+  });
+</script>                </div>
+                <div id="search_widget" class="search-widget search-widget-up-new-header">
+                </div>
+                <!-- START SEARCH WIDGET -->
+
+<link href="http://www.uprinting.com/js/searchwidget/bootstrap.min.css" rel="stylesheet" type="text/css">
+
 <script type="text/javascript" src="http://www.uprinting.com/js/sw/up-latest.js"></script>
 <script type="text/javascript">
   if (typeof jQuery == 'function') tmpjQ = jQuery
 </script>
-<script type="text/javascript" src="http://www.uprinting.com/js/sw/jquery.min.js"></script>
+<script type="text/javascript" src="http://www.uprinting.com/js/searchwidget/jquery.min.js"></script>
 <script type="text/javascript">
   jq17 = jQuery.noConflict();
 </script>
-<script type="text/javascript" src="http://www.uprinting.com/js/sw/bootstrap-typeahead.js"></script>
-<script type="text/javascript" src="http://www.uprinting.com/js/sw/search-widget.js"></script>
-<script type="text/javascript">
-    options = {
-	'site_code' : 'UP',
-	'site_domain' : 'http://www.uprinting.com/',
-	'search_widget_domain' : 'http://www.uprinting.com/',
-	'widget_div' : 'search_widget',
-	'widget_id' : 'sw1',
-	'widget_position' : 'Header right',
-        'items' : keyw,
-        'rank' : rank
-    }
-    var sw1 = new SearchWidget(options)
-    </script>
+<script type="text/javascript" src="http://www.uprinting.com/js/searchwidget/underscore-min.js"></script>
+<script type="text/javascript" src="http://www.uprinting.com/js/searchwidget/bootstrap-typeahead.js"></script>
+<script type="text/javascript" src="http://www.uprinting.com/js/searchwidget/bootstrap-ext.js"></script>
+
 
 <script type="text/javascript">
-  jQuery = tmpjQ
+jQuery(document).ready(function () {
+    var objData = [];
+
+    var getdata = _.debounce(function(query,process){
+          jq17.ajax({
+                url: '/widget/search/search',
+                dataType: 'json',
+                async: true, // false
+                cache: false,
+                data: {search : query},
+                success: function(json) {
+                    objData = [];
+                    objData = json;
+                    process(objData);
+                }
+            });
+            //process(objData);
+    }, 100);
+
+    var dom_search_widget =  '<div class="search_container">';
+        dom_search_widget +=     '<input type="text" id="search" name="search" autocomplete="off" data-provide-ext="typeahead"/>';
+        dom_search_widget += '</div>';
+    jq17('#search_widget').html(dom_search_widget);
+
+    jq17("#search").typeaheadext({
+        source: function(query, process) {
+            getdata(query, process);
+        }
+    });
+
+    jq17('.search_container').append('<div id="sw_placeholder" class="empty_text search-widget-text-inactive">Search Products</div>');
+
+    jq17('#sw_placeholder').click(function(){
+        jq17('#search').focus();
+    });
+});
 </script>
+
+<script type="text/javascript">
+if (typeof tmpjQ == 'function') jQuery = tmpjQ
+</script>
+
 <!-- END SEARCH WIDGET -->
-        <div id="login_header" class="fblogged" style="display:none;*margin-top:2px;"></div>
-        
-      </div>
+                <div id="login_header" class="fblogged" style="display:none;*margin-top:2px;">
+                </div>
+            </div>
+        </div>
     </div>
-  </div>
 </div>
-<script>
-
-var navURL = '/secure/navigation.html';
-	jQuery('#navigation').load(navURL+' div#headerNav', null, 
-		function (responseText, textStatus, XMLHttpRequest) {
-			if (textStatus == 'success') {
-					jQuery("ul li.menu").click(function() {  
-							jQuery(this).find("ul.submenu").slideDown('fast').show(); 
-						}, function(){
-														jQuery(this).find("ul.submenu").slideUp('slow');   
-					});
-					jQuery("ul li.menu").hover(function() {  
-							//jQuery(this).find("ul.submenu").slideDown('fast').show(); 
-						}, function(){
-								jQuery(this).find("ul.submenu").slideUp('slow');   
-					});
-				}
-			}
-	); 
-                                
-                        function viewJobs(){
-                    document.getElementById("jobs").style.display = "none";
-                    document.getElementById("load_jobs").style.display = "block";
-                        }
-                </script>
-
-
-        <!--body-->
+ 
+<script type="text/javascript">
+    jQuery("ul li.menu").click(function() {  
+            jQuery(this).find("ul.submenu").slideDown('fast').show(); 
+        }, function(){
+            jQuery(this).find("ul.submenu").slideUp('slow');   
+    });
+    jQuery("ul li.menu").hover(function() {  
+            //jQuery(this).find("ul.submenu").slideDown('fast').show(); 
+        }, function(){
+                jQuery(this).find("ul.submenu").slideUp('slow');   
+    });
+    function viewJobs(){
+        document.getElementById("jobs").style.display = "none";
+        document.getElementById("load_jobs").style.display = "block";
+    }
+</script>        <!--body-->
         <div id="middleSet" class="main">
 			<div class="main-w">
 				<!--right panel-->
@@ -321,91 +453,90 @@ var navURL = '/secure/navigation.html';
 						</div>
 					</div>
 				</div>
-				<!-- LEFT UPDATED  --><div class="leftpanel">
-  <div class="leftpanel-w">
-    <div class="leftpanel-w-ins">
-      <div class="blacktitle"><strong>Browse Products</strong></div>
-      <div class="leftpanel-list-w">
-        <ul>
-        	<li class="lpCustom">
-            <a href="http://www.uprinting.com/custom-sizes.html">
-            	<span>Custom Size</span>
-              <span class="linkDesc">Make your own product</span>
-            </a>
-          </li>
-          <li><span><a href="http://www.uprinting.com/booklet-printing.html" rel="follow">Booklets</a></span>
-                      </li>          
-          <li><span><a href="http://www.uprinting.com/brochure-printing.html" rel="follow">Brochures</a></span></li>
-          <li><span><a href="http://www.uprinting.com/business-cards.html" rel="follow">Business Cards</a></span>
-                      </li>
-          <li><span><a href="http://www.uprinting.com/calendar-printing.html" rel="follow">Calendars</a></span>
-                      </li>
-          <li><span><a href="http://www.uprinting.com/canvas-printing.html" rel="follow">Canvas Prints</a></span>
-                      </li>
-							  <li><span><a href="http://www.uprinting.com/carbonless-form-printing.html" rel="follow">Carbonless Form</a></span></li>
-          <li><span><a href="http://www.uprinting.com/catalog-printing.html" rel="follow">Catalogs</a></span>
-                       </li>
-					<li><span><a href="http://www.uprinting.com/counter-cards.html" rel="follow">Counter Cards</a></span></li>
-          <li><span><a href="http://www.uprinting.com/door-hanger.html" rel="follow">Door Hangers</a></span></li>
-          <li><span><a href="http://www.uprinting.com/envelope-printing.html" rel="follow">Envelopes</a></span>
-                      </li>
-          <li><span><a href="http://www.uprinting.com/event-ticket-printing.html" rel="follow">Event Tickets</a></span></li>
-          <li><span><a href="http://www.uprinting.com/flyer-printing.html" rel="follow">Flyers</a></span>
-                      </li>
-		  		<li><span><a href="http://www.uprinting.com/folder-printing.html" rel="follow">Folders</a></span>
-                      </li>
-          <li><span><a href="http://www.uprinting.com/gift-certificate-printing.html" rel="follow">Gift Certificates</a></span></li>
-          <li><span><a href="http://www.uprinting.com/greeting-cards-printing.html" rel="follow">Greeting Cards</a></span>
-                      </li>
-          <li><span><a href="http://www.uprinting.com/hang-tags-printing.html" rel="follow">Hang Tags</a></span>
-                      </li>
-          <li><span><a href="http://www.uprinting.com/invitation-printing.html" rel="follow">Invitations</a></span>
-                      </li>
-          
-          <li><span><a href="http://www.uprinting.com/label-printing.html" rel="follow">Labels</a></span>
-                      </li>
-					
-          <li><span><a href="http://www.uprinting.com/letterhead-printing.html" rel="follow">Letterheads</a></span></li>
-          <li> <span><a href="http://www.uprinting.com/magnet-printing.html" rel="follow">Magnets</a></span>
-                      </li>
-          <li><span><a href="http://www.uprinting.com/menu-printing.html" rel="follow">Menus</a></span>
-                      </li>
-          <li><span><a href="http://www.uprinting.com/nightclub-flyer-printing.html" rel="follow">Nightclub Flyers</a></span></li>
-          <li><span><a href="http://www.uprinting.com/postcard-printing.html" rel="follow">Postcards</a></span>
-                      </li>
-          <li><span><a href="http://www.uprinting.com/poster-printing.html" rel="follow">Posters</a></span>
-                      </li>          
-          <li><span><a href="http://www.uprinting.com/poster-signs-printing.html" rel="follow">Poster Signs</a></span></li>
-          <li><span><a href="http://www.uprinting.com/rack-cards-printing.html" rel="follow">Rack Cards</a></span></li>
-          <li><span><a href="http://www.uprinting.com/sales-sheet-printing.html" rel="follow">Sales Sheets</a></span></li>
-					
-					<li><span><a href="http://www.uprinting.com/sticker-printing.html" rel="follow">Stickers</a></span>
-                      </li>
-					
-					<li><span><a href="http://www.uprinting.com/table-tent-printing.html" rel="follow">Table Tents</a></span></li>
-					
-          <li><span><a href="http://www.uprinting.com/vinyl-banner.html" rel="follow">Vinyl Banners</a></span></li>
-          <li><span><a href="http://www.uprinting.com/wall-graphics.html" rel="follow">Wall Graphics</a></span>
-                      </li>
-          <li><span><a href="http://www.uprinting.com/window-cling.html" rel="follow">Window Clings</a></span></li>
-          <li><span><a href="http://www.uprinting.com/yard-signs.html" rel="follow">Yard Signs</a></span></li>
-          <li><span><a rel="follow" href="http://www.uprinting.com/custom-printing.html">UPage: Custom Printing</a></span></li>
-          <li><span><a rel="follow" href="http://www.uprinting.com/uv-printing.html">UV Printing</a></span></li>
-        </ul>
-        <ul>
-          <!-- <li><span><a rel="nofollow" href="javascript:" onclick='parent.jQuery.colorbox({width:"650px", height:"450px",href:"/Order-by-Phone.html",iframe:true});'>Order by Phone</a></span></li> -->
-          <li><span><a href="http://www.uprinting.com/quotes_home.html" rel="follow">Custom Quote</a></span>
-          </li><li><span><a href="http://www.uprinting.com/mailing-service.html" rel="follow">Direct Mail</a></span>
-          </li><li><span><a href="http://www.uprinting.com/design-service.html" rel="follow">Design Service</a></span>
-          </li><li><span><a href="http://www.uprinting.com/live-chat.html" rel="nofollow" id="lc" class="cboxElement">Need Help Ordering?</a></span>
-        </li></ul>
-      </div>
+				<div class="leftpanel">
+    <div class="leftpanel-w">
+        <div class="leftpanel-w-ins">
+            <div class="blacktitle"><strong>Browse Products</strong></div>
+            <div class="leftpanel-list-w">
+            <ul>
+               <li class="lpCustom ">
+                  <span>
+                      <a href="http://www.uprinting.com/custom-sizes.html">
+                          Custom Product Builder
+                      </a>
+                  </span>
+                </li>
+                                <li><span><a href="http://www.uprinting.com/vinyl-banner.html" rel="follow">Banners</a></span></li>
+                <li><span><a href="http://www.uprinting.com/booklet-printing.html" rel="follow">Booklets</a></span>
+                            </li> 
+            <li><span><a href="http://www.uprinting.com/bookmark-printing.html" rel="follow">Bookmarks</a></span></li>
+            <li><span><a href="http://www.uprinting.com/brochure-printing.html" rel="follow">Brochures</a></span></li>     
+            <li><span><a href="http://www.uprinting.com/business-cards.html" rel="follow">Business Cards</a></span>
+                        </li>
+            <li><span><a href="http://www.uprinting.com/calendar-printing.html" rel="follow">Calendars</a></span>
+                        </li>
+            <li><span><a href="http://www.uprinting.com/canvas-printing.html" rel="follow">Canvas Prints</a></span>
+                        </li>
+                                <li><span><a href="http://www.uprinting.com/carbonless-form-printing.html" rel="follow">Carbonless Form</a></span></li>
+            <li><span><a href="http://www.uprinting.com/catalog-printing.html" rel="follow">Catalogs</a></span>
+                         </li>
+                    <li><span><a href="http://www.uprinting.com/counter-cards.html" rel="follow">Counter Cards</a></span></li>
+            <li><span><a href="http://www.uprinting.com/door-hanger.html" rel="follow">Door Hangers</a></span></li>
+            <li><span><a href="http://www.uprinting.com/envelope-printing.html" rel="follow">Envelopes</a></span>
+                        </li>
+            <li><span><a href="http://www.uprinting.com/flyer-printing.html" rel="follow">Flyers</a></span>
+                        </li>
+                <li><span><a href="http://www.uprinting.com/folder-printing.html" rel="follow">Folders</a></span>
+                        </li>
+            <li><span><a href="http://www.uprinting.com/gift-certificate-printing.html" rel="follow">Gift Certificates</a></span></li>
+            <li><span><a href="http://www.uprinting.com/greeting-cards-printing.html" rel="follow">Greeting Cards</a></span>
+                        </li>
+            <li><span><a href="http://www.uprinting.com/hang-tags-printing.html" rel="follow">Hang Tags</a></span>
+                        </li>
+            <li><span><a href="http://www.uprinting.com/invitation-printing.html" rel="follow">Invitations</a></span>
+                        </li>
+
+            <li><span><a href="http://www.uprinting.com/label-printing.html" rel="follow">Labels</a></span>
+                        </li>         
+            <li><span><a href="http://www.uprinting.com/letterhead-printing.html" rel="follow">Letterhead</a></span></li>
+            <li> <span><a href="http://www.uprinting.com/magnet-printing.html" rel="follow">Magnets</a></span>
+                        </li>
+            <li><span><a href="http://www.uprinting.com/menu-printing.html" rel="follow">Menus</a></span>
+                        </li>
+            <li><span><a href="http://www.uprinting.com/nightclub-flyer-printing.html" rel="follow">Nightclub Flyers</a></span></li>
+            <li><span><a href="http://www.uprinting.com/postcard-printing.html" rel="follow">Postcards</a></span>
+                        </li>
+            <li><span><a href="http://www.uprinting.com/poster-printing.html" rel="follow">Posters</a></span>
+                        </li>          
+            <li><span><a href="http://www.uprinting.com/poster-signs-printing.html" rel="follow">Poster Signs</a></span></li>
+            <li><span><a href="http://www.uprinting.com/rack-cards-printing.html" rel="follow">Rack Cards</a></span></li>
+            <li><span><a href="http://www.uprinting.com/sales-sheet-printing.html" rel="follow">Sales Sheets</a></span></li>
+            <li><span><a href="http://www.uprinting.com/save-the-date-card-printing.html" rel="follow">Save the Date Cards</a></span></li>        
+            <li><span><a href="http://www.uprinting.com/sticker-printing.html" rel="follow">Stickers</a></span>
+                        </li>
+            <li><span><a href="http://www.uprinting.com/table-tent-printing.html" rel="follow">Table Tents</a></span></li>
+            <li><span><a href="http://www.uprinting.com/event-ticket-printing.html" rel="follow">Tickets</a></span></li>        
+            <li><span><a href="http://www.uprinting.com/wall-graphics.html" rel="follow">Wall Graphics</a></span>
+                        </li>
+            <li><span><a href="http://www.uprinting.com/window-cling.html" rel="follow">Window Clings</a></span></li>
+            <li><span><a href="http://www.uprinting.com/yard-signs.html" rel="follow">Yard Signs</a></span></li>
+            <li><span><a rel="follow" href="http://www.uprinting.com/custom-printing.html">UPage: Custom Printing</a></span></li>
+            <li><span><a rel="follow" href="http://www.uprinting.com/uv-printing.html">UV Printing</a></span></li>
+            </ul>
+            <ul>
+            <!-- <li><span><a rel="nofollow" href="javascript:" onclick='parent.jQuery.colorbox({width:"650px", height:"450px",href:"/Order-by-Phone.html",iframe:true});'>Order by Phone</a></span></li> -->
+            <li><span><a href="http://www.uprinting.com/quotes_home.html" rel="follow">Custom Quote</a></span>
+            </li><li><span><a href="http://www.uprinting.com/mailing-service.html" rel="follow">Direct Mail</a></span>
+            </li><li><span><a href="http://www.uprinting.com/design-service.html" rel="follow">Design Service</a></span>
+            </li></ul>
+        </div>
     </div>
-  </div>
+    </div>
 </div>
-<script type="text/javascript">	                
+<script type="text/javascript">                 
 jQuery("#lc").colorbox({width:"500px", height:"450px",iframe:true,scrolling: false, onClosed:function(){ parent.location.reload(true); } });
-</script>         
+</script>
+        
 			</div>
 			<script type="text/javascript">
 					if(document.getElementById('ffr')!=null){
@@ -435,207 +566,172 @@ jQuery("#lc").colorbox({width:"500px", height:"450px",iframe:true,scrolling: fal
 					</div>
 				</div>
 				<div id="footerWrap">
-   <div id="footerNew">  
-      <div id="fLinks"><div id="footerLinkSet">
-	<ul>
-	  <li><h3 class="print">Print</h3></li>
-	  <li><a href="https://web.archive.org/web/20120904103305/http://www.uprinting.com/business-cards.html">Business Cards</a></li>
-	  <li><a href="https://web.archive.org/web/20120904103305/http://www.uprinting.com/brochure-printing.html">Brochures</a></li>
-	  <li><a href="https://web.archive.org/web/20120904103305/http://www.uprinting.com/postcard-printing.html">Postcards</a></li>
-	  <li><a href="https://web.archive.org/web/20120904103305/http://www.uprinting.com/poster-printing.html">Posters</a></li>
-	  <li><a href="https://web.archive.org/web/20120904103305/http://www.uprinting.com/sticker-printing.html">Stickers</a></li>
-	  <li><a href="https://web.archive.org/web/20120904103305/http://www.uprinting.com/flyer-printing.html">Flyers</a></li>
-	  <li class="view-all"><a href="https://web.archive.org/web/20120904103305/http://www.uprinting.com/products.html"><span>All Products</span> »</a></li>
-	</ul>
-	<ul>
-	  <li><h3 class="use">Use</h3></li>
-	  <li><a href="https://web.archive.org/web/20120904103305/http://www.uprinting.com/support.html">Help &amp; FAQ</a></li>
-	  <li><a href="https://web.archive.org/web/20120904103305/http://www.uprinting.com/design-templates/">Print Designs</a></li>
-	  <li><a href="https://web.archive.org/web/20120904103305/http://www.uprinting.com/print-templates/">Print Templates</a></li>
-	  <li><a href="https://web.archive.org/web/20120904103305/http://www.uprinting.com/samples.html">Sample Kit</a></li>
-	  <li><a href="https://web.archive.org/web/20120904103305/http://www.uprinting.com/coupons.html">Coupons</a></li>
-	</ul>
-	<ul>
-	  <li><h3 class="learn">Learn</h3></li>
-	  <li><a href="https://web.archive.org/web/20120904103305/http://www.uprinting.com/company.html">About Us</a></li>
-	  <li><a href="https://web.archive.org/web/20120904103305/http://www.uprinting.com/contact-us.html">Contact Us</a></li>
-	  <li><a href="https://web.archive.org/web/20120904103305/http://www.uprinting.com/careers.html">Careers</a></li>
-	  <li><a href="https://web.archive.org/web/20120904103305/https://www.uprinting.com/resellers.html">Resellers</a></li>
-	  <li><a href="https://web.archive.org/web/20120904103305/http://www.uprinting.com/Affiliates.html">Affiliates</a></li>
-	</ul>
-	<ul>
-	  <li><h3 class="trust">Trust</h3></li>
-	  <li><a href="https://web.archive.org/web/20120904103305/http://www.la.bbb.org/business-reviews/Printing-Companies/UPrintingcom-in-Van-Nuys-CA-100102269">BBB Membership</a></li>
-	  <li><a href="/web/20120904103305/http://www.uprinting.com/print-quality-assurance/" class="pqa2 cboxElement">Quality Assurance</a></li>
-	  <li><a href="https://web.archive.org/web/20120904103305/http://www.uprinting.com/reviews/">Customer Reviews</a></li>
-	  <li><a href="https://web.archive.org/web/20120904103305/http://www.uprinting.com/Terms.html">Terms of Service</a></li>
-	  <li><a href="https://web.archive.org/web/20120904103305/http://www.uprinting.com/site-policies.html">Privacy Policy</a></li>
-	</ul></div>
-        
-        <ul id="fSocial">
-          <li>
-            <h3 class="connect">Connect</h3>
-          </li>
-          <li><a id="fb" href="https://www.facebook.com/UPrinting"><span>Facebook</span></a></li>
-          <li><a id="twitter" href="https://twitter.com/UPrinting"><span>Twitter</span></a></li>
-          <li><a id="googlePlus" href="https://plus.google.com/106588708418323078721/posts"><span>Google+</span></a></li>
-          <li><a id="youtube" href="http://www.youtube.com/user/UPrinting"><span>YouTube</span></a></li>
-          <li><a id="rss" href="http://blog.uprinting.com"><span>Blog</span></a></li>
-        </ul>
-      </div>
-      <div id="signUpWrap"><div id="wowSignup">
-        <div style="display:none;">
-          <div id="subscribe_msg" style="width: auto;">
-            <p id="signup_msg">Thank you for subscribing to our email list. <!--You will receive your first email shortly. SITE-10263 - jacque --></p></div></div>
-        <div style="display:none;">
-          <div style="padding:10px; background:#fff; text-align:center" id="email_error">Please provide a valid email address.</div></div>
-        <div>
-          <div class="subscribewrap">
-            <input type="text" style="color: gray;" value="Enter your email" id="emailAddressRev1" name="emailAddressRev1" size="20" onkeypress="return _press(event);" onblur="clearUserEmail('blur');" onclick="clearUserEmail('click');" onkeydown="if (event.keyCode == 13){ return checkValuesRev1(); }" maxlength="50">
-            <input type="button" onclick="return checkValuesRev1(); return false;" id="subscribe" name="signupButton"></div>
-          <ul>
-            <li><a href="https://web.archive.org/web/20120904103305/http://www.uprinting.com/privacy-policy.html" class="zerospampol cboxElement">Zero Spam Policy</a></li>
-          </ul></div></div></div>
+    <div id="footerNew">  
+        <div id="fLinks">
+            <ul>
+                <li><h3 class="print">Print</h3></li>
+                <li><a rel="nofollow" href="http://www.uprinting.com/business-cards.html">Business Cards</a></li>
+                <li><a rel="nofollow" href="http://www.uprinting.com/brochure-printing.html">Brochures</a></li>
+                <li><a rel="nofollow" href="http://www.uprinting.com/postcard-printing.html">Postcards</a></li>
+                <li><a rel="nofollow" href="http://www.uprinting.com/poster-printing.html">Posters</a></li>
+                <li><a rel="nofollow" href="http://www.uprinting.com/sticker-printing.html">Stickers</a></li>
+                <li><a rel="nofollow" href="http://www.uprinting.com/flyer-printing.html">Flyers</a></li>
+                <li class="view-all"><a rel="nofollow" href="http://www.uprinting.com/products.html"><span>All Products</span> »</a></li>
+            </ul>
+            <ul>
+                <li><h3 class="use">Use</h3></li>
+                <li><a rel="nofollow" href="http://www.uprinting.com/support.html">Help &amp; FAQ</a></li>
+                <li><a rel="nofollow" href="http://www.uprinting.com/design-templates/">Print Designs</a></li>
+                <li><a rel="nofollow" href="http://www.uprinting.com/print-templates/">Print Templates</a></li>
+                <li><a rel="nofollow" href="http://www.uprinting.com/samples.html">Sample Kit</a></li>
+                <li><a rel="nofollow" href="http://www.uprinting.com/coupons.html">Coupons</a></li>
+            </ul>
+            <ul>
+                <li><h3 class="learn">Learn</h3></li>
+                <li><a rel="nofollow" href="http://www.uprinting.com/company.html">About Us</a></li>
+                <li><a rel="nofollow" href="http://www.uprinting.com/contact-us.html">Contact Us</a></li>
+                <li><a rel="nofollow" href="http://www.uprinting.com/careers.html">Careers</a></li>
+                <li><a rel="nofollow" href="https://www.uprinting.com/resellers.html">Resellers</a></li>
+                <li><a rel="nofollow" href="http://www.uprinting.com/Affiliates.html">Affiliates</a></li>
+            </ul>
+            <ul>
+                <li><h3 class="trust">Trust</h3></li>
+                <li><a rel="nofollow" href="http://www.la.bbb.org/business-reviews/Printing-Companies/UPrintingcom-in-Van-Nuys-CA-100102269">BBB Membership</a></li>
+                <li><a class="pqa2 cboxElement" rel="nofollow" href="http://www.uprinting.com/print-quality-assurance/">Quality Assurance</a></li>
+                                <li><a rel="nofollow" href="http://www.uprinting.com/Terms.html">Terms of Service</a></li>
+                <li><a rel="nofollow" href="http://www.uprinting.com/site-policies.html">Privacy Policy</a></li>
+            </ul>
+            <ul id="fSocial">
+                <li><h3 class="connect">Connect</h3></li>
+                <li><a id="fb" href="https://www.facebook.com/UPrinting"><span>Facebook</span></a></li>
+                <li><a id="twitter" href="https://twitter.com/UPrinting"><span>Twitter</span></a></li>
+                <li><a id="googlePlus" href="https://plus.google.com/106588708418323078721/posts"><span>Google+</span></a></li>
+                <li><a id="youtube" href="http://www.youtube.com/user/UPrinting"><span>YouTube</span></a></li>
+                <li><a id="rss" href="http://blog.uprinting.com"><span>Blog</span></a></li>
+            </ul>
+        </div>
+        <div id="signUpWrap" style="display:none;">
+            <div id="wowSignup">
+                <div style="display:none;">
+                    <div style="width: auto;" id="subscribe_msg">
+                        <p id="signup_msg">Thank you for subscribing to our email list. <!--You will receive your first email shortly. SITE-10263 - jacque --></p>
+                </div></div>
+                <div style="display:none;">
+                    <div id="email_error" style="padding:10px; background:#fff; text-align:center">Please provide a valid email address.</div>
+                </div>
+                <div>
+                    <div class="subscribewrap">
+                        <input type="text" maxlength="50" onkeydown="if (event.keyCode == 13){ return checkValuesRev1(); }" onclick="clearUserEmail('click');" onblur="clearUserEmail('blur');" onkeypress="return _press(event);" size="20" name="emailAddressRev1" id="emailAddressRev1" value="Enter your email" style="color: gray;">
+                        <input type="button" name="signupButton" id="subscribe" onclick="return checkValuesRev1(); return false;">
+                    </div>
+                    <ul>
+                        <li><a class="zerospampol cboxElement" href="http://www.uprinting.com/privacy-policy.html">Zero Spam Policy</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
      
-      <div id="fAcceptance" style="opacity: 0.2;">
-        <div id="trust"><div id="acceptanceLinks">
-	<div id="left">
-  	<span id="mcAfee">
-      <!-- START SCANALERT CODE -->
-      	<a target="_blank" href="https://web.archive.org/web/20120904103305/https://www.mcafeesecure.com/RatingVerify?ref=www.uprinting.com"><img width="65" height="37" border="0" src="//web.archive.org/web/20120904103305im_/http://images.scanalert.com/meter/www.uprinting.com/63.gif" alt="McAfee SECURE sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee SECURE is a Trademark of McAfee, Inc.'); return false;"></a>
-      <!-- END SCANALERT CODE --> 
-    </span>
-		<img alt="" src="https://web.archive.org/web/20120904103305im_/http://static.uprinting.com/site_files/images/logo-recycled.jpg"></div>
-	<div id="center"><img alt="" src="https://web.archive.org/web/20120904103305im_/http://static.uprinting.com/site_files/images/accepted-cc.png"></div>
-	<div id="right">
-		<a href="https://web.archive.org/web/20120904103305/http://www.la.bbb.org/business-reviews/Printing-Companies/UPrintingcom-in-Van-Nuys-CA-100102269"><img width="85" alt="" src="https://web.archive.org/web/20120904103305im_/http://static.uprinting.com/site_files/images/cbbb-badge-horz.png"></a> <a href="https://web.archive.org/web/20120904103305/http://www.la.bbb.org/business-reviews/Printing-Companies/UPrintingcom-in-Van-Nuys-CA-100102269"><img width="32" alt="" src="https://web.archive.org/web/20120904103305im_/http://static.uprinting.com/site_files/images/cbbb-accred-a.png"></a>
-		<a href="https://web.archive.org/web/20120904103305/http://www.inc.com/inc5000/profile/uprintingcom" id="inc5000"><img alt="" src="https://web.archive.org/web/20120904103305im_/http://static.uprinting.com/site_files/images/logo-inc5000.jpg"></a></div></div></div>       
-        <div id="footerLegal"> © 2000-2012 UPrinting.com. All Rights Reserved. <a href="http://www.uprinting.com/sitemap.html">Sitemap</a> </div>
-      </div>
+        <div id="fAcceptance" style="opacity: 0.2;">
+            <div id="trust">
+                <div id="left">
+                    <span id="mcAfee">
+                      <!-- START SCANALERT CODE -->
+                        <a rel="nofollow" href="https://www.mcafeesecure.com/RatingVerify?ref=www.uprinting.com" target="_blank">
+                            <img width="65" height="37" border="0" oncontextmenu="alert('Copying Prohibited by Law - McAfee SECURE is a Trademark of McAfee, Inc.'); return false;" alt="McAfee SECURE sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" src="//images.scanalert.com/meter/www.uprinting.com/63.gif">
+                        </a>
+                      <!-- END SCANALERT CODE --> 
+                    </span>
+                    <img src="http://static.uprinting.com/site_files/images/logo-recycled.jpg" alt="">
+                </div>
+                    <div id="center"><img src="http://static.uprinting.com/site_files/images/accepted-cc.png" alt=""></div>
+                <div id="right">
+                    <a rel="nofollow" href="http://www.la.bbb.org/business-reviews/Printing-Companies/UPrintingcom-in-Van-Nuys-CA-100102269"><img width="85" src="http://static.uprinting.com/site_files/images/cbbb-badge-horz.png" alt=""></a> <a href="http://www.la.bbb.org/business-reviews/Printing-Companies/UPrintingcom-in-Van-Nuys-CA-100102269"><img width="32" src="http://static.uprinting.com/site_files/images/cbbb-accred-a.png" alt=""></a>
+                    <a rel="nofollow" id="inc5000" href="http://www.inc.com/inc5000/profile/uprintingcom"><img src="http://static.uprinting.com/site_files/images/logo-inc5000.jpg" alt=""></a>
+                </div>
+            </div>       
+            <div id="footerLegal"> © 2000-2013 UPrinting.com. All Rights Reserved. <a href="http://www.uprinting.com/sitemap.html">Sitemap</a> </div>
+        </div>
     </div>
-    <!--  end of footer  -->
-  </div>
 </div>
-
-<!-- Fetchback Home/Non-Product Pixel -->
-<div id="fetchback_home_nonprod"><iframe src="http://pixel.fetchback.com/serve/fb/pdj?cat=&amp;name=landing&amp;sid=1440" scrolling="no" width="1" height="1" marginheight="0" marginwidth="0" frameborder="0"></iframe></div>
+    <!--  end of footer  -->
 <script type="text/javascript">
-function load_fetchback_home_nonprod() {
-if (typeof jQuery == 'function')
-    jQuery('#fetchback_home_nonprod').append("<iframe src='http://pixel.fetchback.com/serve/fb/pdj?cat=&name=landing&sid=1440' scrolling='no' width='1' height='1' marginheight='0' marginwidth='0' frameborder='0'></iframe>")
-}
-if (window.attachEvent) { window.attachEvent('onload', load_fetchback_home_nonprod); }
-else if (window.addEventListener) { window.addEventListener('load', load_fetchback_home_nonprod, false); }
-</script>
-<script>
 
 function _press(e){
-		var keynum;			
-		if(window.event){ 
-			keynum = e.keyCode; // IE
-	
-		}else{
-			keynum = e.which; //firefox
-		}			
-	
-		if(keynum == 13){
-			return false;
-		}else{
-			return true;
-		}
-	}
-		
-	function clearUserEmail(e){			
-		if(document.getElementById('emailAddressRev1')){
-			if(e=='click'){
-				if(document.getElementById('emailAddressRev1').value=='Enter your email'){
-					document.getElementById('emailAddressRev1').value = '';
-					document.getElementById('emailAddressRev1').style.color='#000000';						
-				}
-			}else if(e=='blur'){
-				if(document.getElementById('emailAddressRev1').value==''){
-					document.getElementById('emailAddressRev1').value = 'Enter your email';
-					document.getElementById('emailAddressRev1').style.color='gray';						
-				}
-			}
-		}
-	}	
-	if(typeof(checkValuesRev1) == 'undefined'){	
-		function checkValuesRev1() {
-			//var email = document.singupPromosNewsletters.emailAddress.value;		
-			var email = document.getElementById('emailAddressRev1').value;		
-			var errorFlag = false;
-			var	errorMsg = '';	
-			
-			//document.getElementById('res_msg').innerHTML = '';
-			if(!email || (email && !isValidEmail(document.getElementById('emailAddressRev1')))){
-				errorFlag = true;
-				errorMsg += 'Please provide a valid email address.';
-			}else{
-				//var _form = document.getElementById('singupPromosNewslettersRev1');
-				ajaxCall('/customer/newsletter/call/process/signupNewsletter/emailAddress/' + email ,null);
-				//parent.jQuery.colorbox({width:"450px", height:"210px", inline:true,href:"#subscribe_msg",iframe:true, scrolling:false});
-				document.getElementById('emailAddressRev1').value = '';
-			}
-			
-			if(errorFlag==true) {
-				parent.jQuery.colorbox({width:"500px", inline:true, href:"#email_error"});
-				return false;
-			} else {
-				return true;
-			}
-		}
-	}
-	
-	if(typeof(setTextValueRev1) == 'undefined'){
-		function setTextValueRev1(textVal){
-			if(textVal) {
-				document.getElementById('emailAddressRev1').value = textVal;
-			}else{
-				document.getElementById('emailAddressRev1').value = '';
-			}
-		}
-	}		
-
-var footerSet = '/secure/footer-navigation.html';
-
-// store the old content 
-var old = jQuery("#fLinks").html(); 
-// run your load function 
-jQuery("#fLinks").load(footerSet+' #footerLinkSet',function(){   
-
-        jQuery(this).append(old); 
-				jQuery('.view-all a').append('&raquo;')
-}); 
-
-jQuery('#trust').load(footerSet+' #acceptanceLinks', null, 
-	function (responseText, textStatus, XMLHttpRequest) {
-           jQuery('.pqa2').colorbox({width:'670px', height:'380px', href:this.href, scrolling:false, iframe:true});           
-	}
-);
-
-/* original 
-jQuery('#signUpWrap').load(footerSet+' #wowSignup', null, 
-    function (responseText, textStatus, XMLHttpRequest) {
-        jQuery(".zerospampol").colorbox({width:"500px", height:"400px", iframe:true});
+    var keynum;     
+    if(window.event){ 
+      keynum = e.keyCode; // IE
+  
+    }else{
+      keynum = e.which; //firefox
+    }     
+  
+    if(keynum == 13){
+      return false;
+    }else{
+      return true;
     }
-);
-*/	
-
-//jquery ajax - SITE-9854 - jacque
-jQuery.ajax({
-url: '/customer/newsletter/shownewslettersubcription',
-success: function(data) {
-if(data==true){
-                  //load newsletter subscription form
-                  jQuery('#signUpWrap').load(footerSet+' #wowSignup', null, 
-                     function (responseText, textStatus, XMLHttpRequest) {
-                        jQuery(".zerospampol").colorbox({width:"500px", height:"400px", iframe:true});
-                     }
-                  );                
-               }
-}
-});
+  }
+    
+  function clearUserEmail(e){     
+    if(document.getElementById('emailAddressRev1')){
+      if(e=='click'){
+        if(document.getElementById('emailAddressRev1').value=='Enter your email'){
+          document.getElementById('emailAddressRev1').value = '';
+          document.getElementById('emailAddressRev1').style.color='#000000';            
+        }
+      }else if(e=='blur'){
+        if(document.getElementById('emailAddressRev1').value==''){
+          document.getElementById('emailAddressRev1').value = 'Enter your email';
+          document.getElementById('emailAddressRev1').style.color='gray';           
+        }
+      }
+    }
+  } 
+  if(typeof(checkValuesRev1) == 'undefined'){ 
+    function checkValuesRev1() {
+      //var email = document.singupPromosNewsletters.emailAddress.value;    
+      var email = document.getElementById('emailAddressRev1').value;    
+      var errorFlag = false;
+      var errorMsg = '';  
+      //document.getElementById('res_msg').innerHTML = '';
+      if(!email || (email && !isValidEmail(document.getElementById('emailAddressRev1')))){
+        errorFlag = true;
+        errorMsg += 'Please provide a valid email address.';
+      }else{
+			//ajaxCall('/customer/newsletter/call/process/signupNewsletter/?emailAddress=' + email ,null);
+			//image implementation for cross domain ajax calls like easy
+			var img = new Image();
+			img.src = 'http://www.uprinting.com/customer/newsletter/signupNewsletter/?emailAddress=' + email;				
+			if(email == "" || (typeof(user) != 'undefined' && user.email == email)){
+				jQuery('#wowSignup').hide();	
+			}
+			jQuery('#signup_msg').html('Thank you for subscribing to our email list.');				
+			jQuery.colorbox({width:'450px', height:'150px', inline:true,href:'#subscribe_msg', scrolling:false});
+			jQuery('#emailAddressRev1').val('');			
+      }
+      
+      if(errorFlag==true) {
+        parent.jQuery.colorbox({width:"500px", inline:true, href:"#email_error"});
+        return false;
+      } else {
+        return true;
+      }
+    }
+  }
+  
+  if(typeof(setTextValueRev1) == 'undefined'){
+    function setTextValueRev1(textVal){
+      if(textVal) {
+        document.getElementById('emailAddressRev1').value = textVal;
+      }else{
+        document.getElementById('emailAddressRev1').value = '';
+      }
+    }
+  }   
+ 
+    jQuery('.view-all a').append('&raquo;');
+    jQuery('.pqa2').colorbox({width:'670px', height:'380px', href:this.href, scrolling:false, iframe:true});           
+    jQuery(".zerospampol").colorbox({width:"500px", height:"400px", iframe:true});
 
 jQuery('#fAcceptance').css({ 'opacity' : 0.2 });
 
@@ -644,36 +740,30 @@ jQuery("#fAcceptance").mouseover(function() {
 }).mouseout(function(){
   jQuery(this).css({ 'opacity' : 0.2 })
 });
-</script>
 
-			</div>
+</script>			</div>
 		</div>
 	</div>
-
-<script type="text/javascript">	
-	function initLoadFunc(func) {
-		var prev = window.onload;
-		window.onload=function(){
-			if(prev)
-				prev();
-			func();
-		}
-	}
-	
-	// Credits to http://blog.firetree.net/2005/07/17/javascript-onload/ -- Gellie 12132011	
-
-	
-		 jQuery(document).ready(function() {
-			initLoadFunc(loadUserBar); 
-		 }); 
-
-	
-	function loadUserBar(){
-		ajaxCall('/customer/customer/call/process/getUserBar/', null);
-	}
+</div>
+  
+ <!-- Google Code for Main List -->
+<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1070226915;
+var google_conversion_label = "KdKZCJHj_AMQ47up_gM";
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
 </script>
-         <script language="JavaScript" type="text/javascript">          var __tsaapi__ = __tsaapi__ || [];          __tsaapi__.push(function() {                    var wp = new TSATrackingAPI(833,7195);                    wp.record();                    });          </script>                    <!--           Start of DoubleClick Floodlight Tag: Please do not remove           Activity name of this tag: UPrinting Landing Page           URL of the webpage where the tag is expected to be placed:           http://www.uprinting.com           This tag must be placed between the <body> and <script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrf2","beacon-4.newrelic.com","b4d7aa5697","1315834","NlRSZUsFXEJTVUdZWQ8eZUNQSxg=",0,1,new Date().getTime()]);</script>
-</body> tags, as close as           possible to the opening tag.           Creation Date: 03/29/2012           -->           <script type="text/javascript">           var axel = Math.random() + "";           var a = axel * 10000000000000;           document.write('<iframe           src="http://fls.doubleclick.net/activityi;src=3600675;type=remar663;cat=uprin706;ord=' + a + '?" width="1" height="1" frameborder="0"style="display:none"></iframe>');           </script><iframe src="http://fls.doubleclick.net/activityi;src=3600675;type=remar663;cat=uprin706;ord=6587720606779.3545?" width="1" height="1" frameborder="0" style="display:none"></iframe>           <noscript>           <iframe src="http://fls.doubleclick.net/activityi;src=3600675;type=remar663;cat=uprin706;ord=1?" width="1" height="1" frameborder="0"style="display:none"></iframe>           </noscript>           <!-- End of DoubleClick Floodlight Tag: Please do not remove -->         
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1070226915/?value=0&amp;label=KdKZCJHj_AMQ47up_gM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+           <!--           Start of DoubleClick Floodlight Tag: Please do not remove           Activity name of this tag: UPrinting Landing Page           URL of the webpage where the tag is expected to be placed:           http://www.uprinting.com           This tag must be placed between the <body> and </body> tags, as close as           possible to the opening tag.           Creation Date: 03/29/2012           -->           <script type="text/javascript">           var axel = Math.random() + "";           var a = axel * 10000000000000;           document.write('<iframe src="http://fls.doubleclick.net/activityi;src=3600675;type=remar663;cat=uprin706;ord=' + a + '?" width="1" height="1" frameborder="0"style="display:none"><\/iframe>');           </script><iframe src="http://fls.doubleclick.net/activityi;src=3600675;type=remar663;cat=uprin706;ord=33411854319.185253?" width="1" height="1" frameborder="0" style="display:none"></iframe>           <noscript>           <iframe src="http://fls.doubleclick.net/activityi;src=3600675;type=remar663;cat=uprin706;ord=1?" width="1" height="1" frameborder="0"style="display:none"></iframe>           </noscript>           <!-- End of DoubleClick Floodlight Tag: Please do not remove -->         
  <!-- BEGIN LivePerson Monitor. -->
 <script language="javascript">
 var lpMTagConfig = {'lpServer' : "server.iad.liveperson.net",'lpNumber' : "77577663",'lpProtocol' : "https"}; function lpAddMonitorTag(src){if(typeof(src)=='undefined'||typeof(src)=='object'){src=lpMTagConfig.lpMTagSrc?lpMTagConfig.lpMTagSrc:'/hcp/html/mTag.js';}if(src.indexOf('http')!=0){src=lpMTagConfig.lpProtocol+"://"+lpMTagConfig.lpServer+src+'?site='+lpMTagConfig.lpNumber;}else{if(src.indexOf('site=')<0){if(src.indexOf('?')<0)src=src+'?';else src=src+'&';src=src+'site='+lpMTagConfig.lpNumber;}};var s=document.createElement('script');s.setAttribute('type','text/javascript');s.setAttribute('charset','iso-8859-1');s.setAttribute('src',src);document.getElementsByTagName('head').item(0).appendChild(s);} if (window.attachEvent) window.attachEvent('onload',lpAddMonitorTag); else window.addEventListener("load",lpAddMonitorTag,false);
@@ -684,14 +774,11 @@ var lpMTagConfig = {'lpServer' : "server.iad.liveperson.net",'lpNumber' : "77577
 if (typeof(lpMTagConfig.sessionVar) == "undefined"){ lpMTagConfig.sessionVar = new Array();}
 lpMTagConfig.sessionVar[lpMTagConfig.sessionVar.length] = 'skill=Uprinting';
 </script>
-<!-- End Monitor Tracking Variables -->  
-
-
-    
-            <script language="javascript" src="/js/ajax.js"></script>
-            <script language="javascript" src="/js/JSON.js"></script>
-      <script language="javascript" src="/js/preview.onload.js"></script>          
-
+<!-- End Monitor Tracking Variables --> 
+  
+            <script type="text/javascript" language="javascript" src="/js/ajax.js"></script>
+            <script type="text/javascript" language="javascript" src="/js/JSON.js"></script>
+      		<!-- <script type="text/javascript" language="javascript" src="/js/preview.onload.js"></script> --> 
 
 
 <!-- ClickTale Bottom part -->
@@ -708,4 +795,5 @@ if(typeof ClickTale=='function') ClickTale(1706,0.0018,"www14");
 
 
 
-<!-- UPb86003e2d5f4802e50e62bbf241b4bae --></body></html>
+  
+</body></html>
