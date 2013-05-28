@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lincoln.ac.nz privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127043903id_/http%3A//www.lincoln.ac.nz/Privacy-Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lincoln.ac.nz privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528163923id_/http%3A//www.lincoln.ac.nz/Privacy-Statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -52,7 +52,7 @@ External sites that are linked to or from the University site are generally not 
 The University will use reasonable endeavours to maintain accurate, up-to-date information regarding students and staff. If you believe that the personal information the University holds about you is inaccurate and requires correction or if you require copies of your personal information held by the University, please contact;
 
 Student Services and Marketing  
-PO Box 94  
+PO Box 85094  
 Lincoln University  
 Canterbury  
 New Zealand
