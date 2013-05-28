@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brickunderground.com privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124233246id_/http%3A//brickunderground.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brickunderground.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528140921id_/http%3A//brickunderground.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BrickUnderground
 
