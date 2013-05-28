@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exploroz.com privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124215639id_/http%3A//www.exploroz.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exploroz.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528131231id_/http%3A//www.exploroz.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy @ ExplorOz Articles
 
@@ -15,7 +15,7 @@ Please note that separate privacy policies apply to the use of sites that are av
 
 ## Go to top 1\. Your personal information is important to us
 
-ExplorOz recognises that your privacy is very important to you and that you have a right to control your personal information. We know that providing personal information is an act of trust and we take that seriously. Unless you give us explicit consent to act otherwise, the following policy will govern how ExplorOz handles your personal information and safeguards your privacy. ExplorOz is committed to protecting your personal information and giving you choice in who can use your personal information and how it can be used. We believe that our [privacy policy](https://web.archive.org/Privacy.aspx) not only complies with relevant laws but represents industry best practice.  
+ExplorOz recognises that your privacy is very important to you and that you have a right to control your personal information. We know that providing personal information is an act of trust and we take that seriously. Unless you give us explicit consent to act otherwise, the following policy will govern how ExplorOz handles your personal information and safeguards your privacy. ExplorOz is committed to protecting your personal information and giving you choice in who can use your personal information and how it can be used. We believe that our privacy policy not only complies with relevant laws but represents industry best practice.  
 
 
   
@@ -27,7 +27,7 @@ ExplorOz utilises a system of user registration (free service) and Membership (a
 
 To obtain the full benefits of Site use, users are required to register with ExplorOz by providing their email address and then using the site whilst logged on using this email account each time they visit the Site. If you do not view the site with your profile then you cannot access the restricted areas of the site and cannot use the interactive features of the site that enable you to add content (publish) to the Site. The Site however, contains many active pages of content and features that can be viewed in "read-only" mode if you do not register or do not login. 
 
-The Membership system provides enhanced viewing facilities, access to Member-only services and tools in addition to the free services accessible by all registered users. 
+The Membership system provides enhanced viewing facilities, access to Member-only [services](https://web.archive.org/Places/Services.aspx) and tools in addition to the free [services](https://web.archive.org/Places/Services.aspx) accessible by all registered users. 
 
 You can learn more about enhancing your online experience through Membership by [clicking here](http://www.exploroz.com/Membership/About.aspx). 
 
@@ -118,7 +118,7 @@ We will not send you "spam" (advertising information) without first asking you w
 
 ExplorOz will endeavour to take all reasonable steps to keep secure any information which we hold about you, and to keep this information accurate and up to date. Your information is stored on secure servers that are protected in controlled facilities. 
 
-In addition, our employees and the contractors who provide services related to our information systems are obliged to respect the confidentiality of any personal information held by ExplorOz and I.T. Beyond Pty Ltd. However, neither ExplorOz nor I.T. Beyond Pty Ltd. will not be held responsible for [events](https://web.archive.org/Events/Default.aspx) arising from unauthorised access to your personal information. 
+In addition, our employees and the contractors who provide [services](https://web.archive.org/Places/Services.aspx) related to our information systems are obliged to respect the confidentiality of any personal information held by ExplorOz and I.T. Beyond Pty Ltd. However, neither ExplorOz nor I.T. Beyond Pty Ltd. will not be held responsible for [events](https://web.archive.org/Events/Default.aspx) arising from unauthorised access to your personal information. 
 
 You can also play an important role in keeping your personal information secure, by maintaining the confidentiality of any password and accounts used on the ExplorOz website. Please notify us immediately if there is any unauthorised use of your account by any other Internet user or any other breach of security. 
 
@@ -143,7 +143,7 @@ ExplorOz provides links to websites outside of the Site. These linked sites are 
 
 ## Go to top 11\. What to do if you have a problem or question
 
-If ExplorOz becomes aware of any ongoing concerns or problems with our Site, we will take these issues seriously and work to address these concerns. If you have any further queries relating to our [privacy policy](https://web.archive.org/Privacy.aspx), or you have a problem or complaint, please [contact us](https://web.archive.org/AboutUs/Contact.aspx) at info@ExplorOz.com   
+If ExplorOz becomes aware of any ongoing concerns or problems with our Site, we will take these issues seriously and work to address these concerns. If you have any further queries relating to our privacy policy, or you have a problem or complaint, please [contact us](https://web.archive.org/AboutUs/Contact.aspx) at info@ExplorOz.com   
 
 
   
@@ -151,7 +151,7 @@ If ExplorOz becomes aware of any ongoing concerns or problems with our Site, we 
 
 ## Go to top 12\. Future changes
 
-Our commitment to make ExplorOz [Australia](https://web.archive.org/States/Default.aspx)'s leading 4WD Web Site means that we are constantly adding new sites and features to the Site. Because of this, from time to time, our policies will be reviewed and may be revised. ExplorOz reserves the right to change its privacy policy at any time and notify you by posting an updated version of the policy on its website.  
+Our commitment to make ExplorOz [Australia](https://web.archive.org/States/Default.aspx)'s leading 4WD Web Site means that we are constantly adding new sites and features to the Site. Because of this, from time to time, our policies will be reviewed and may be revised. ExplorOz [reserves](https://web.archive.org/Places/Reserves/.aspx) the right to change its [privacy policy](https://web.archive.org/Privacy.aspx) at any time and notify you by posting an updated version of the policy on its website.  
 
 
   
@@ -161,3 +161,17 @@ Our commitment to make ExplorOz [Australia](https://web.archive.org/States/Defau
 
   
 
+
+Go to top ARTICLE FEEDBACK
+
+  * Reviews & Discussions (0)
+
+
+
+ReviewCreate a Review/Discussion
+
+You must be registered and logged in to 'Have Your Say'
+
+Registration is free and takes only seconds to complete!
+
+Loading...
