@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the huntonprivacyblog.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126003704id_/http%3A//www.huntonprivacyblog.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the huntonprivacyblog.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528031428id_/http%3A//www.huntonprivacyblog.com/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice : : Privacy and Information Security Law Blog
 
