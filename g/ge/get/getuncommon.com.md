@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the getuncommon.com privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104062826id_/http%3A//www.getuncommon.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getuncommon.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528081418id_/http%3A//www.getuncommon.com/privacy) for the most accurate reproduction.*
 
-# This is Uncommon - Privacy
+# Custom iPhone, iPod, iPad Cases | Privacy Policy | Uncommon
 
 This Privacy Policy is designed to notify you about how we collect, use, disclose, transfer, and otherwise process personally identifiable information that we collect on the site (‘Personal Information’). Each time you visit the site, you consent to the collection, use, disclosure, and processing of Personal Information in accordance with this Privacy Policy. In particular, if you are located in a jurisdiction outside the United States, you consent to the transfer of your Personal Information to our servers and computer systems anywhere in the world, including to countries that may not provide an equivalent level of data protection to the laws in your home jurisdiction. If you provide any Personal Information that relates to another person you hereby state and agree that you have obtained proper consent from such person for the use, disclosure, and processing of such Personal Information as described in this Privacy Policy.
 
