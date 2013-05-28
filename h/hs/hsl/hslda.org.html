@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hslda.org privacy policy that was archived on 2012-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121226033733id_/http%3A//hslda.org/pdef/privacypolicy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hslda.org privacy policy that was archived on 2013-05-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130528060605id_/http%3A//hslda.org/pdef/privacypolicy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 	<title>HSLDA | Privacy Policy</title>
@@ -87,7 +87,7 @@ $(document).ready(function()
     <li><a href="http://hslda.org/a/LinkTracker.aspx?id=4015475&amp;appeal=383&amp;package=164&amp;uri=https%3A%2F%2Fapp%2Ehslda%2Eorg%2FRenew%2Easpx%3FAppealId%3D383%26packageid%3D164">Renew online</a></li>
     <!--<li><a href="services">HSLDA services list</a></li>-->
     <h4>SHOP</h4>
-    <li><a href="http://www.hslda.org/store/">HSLDA Store</a></li>
+    <li><a href="http://store.hslda.org/articles/home.htm">HSLDA Store</a></li>
     <li><a href="http://market.hslda.org/">Curriculum Market</a></li>
     <li><a href="http://www.hslda.org/perx/">PerX member discounts</a></li>
     <li><a href="http://www.hslda.org/clicks4hs/">Clicks for Homeschooling</a></li>
@@ -187,16 +187,19 @@ $(document).ready(function()
 			<div id="logo">
             	<a href="http://www.hslda.org/default.aspx"><img border="0" alt="HSLDA" src="/hpimages/logo_small.png" height="85" width="282"></a>
             </div>
-			<div id="member_login">
-			
-
-			<form name="Login" action="https://secure.hslda.org/memberslogin.asp?f=Login" method="POST"><div id="login_label">Member Login:</div>
-			<div id="login_u"><input type="text" class="login-input" maxlength="20" name="UserName" value="username" onfocus="if(this.value == 'username') {this.value = '';}" onblur="if (this.value == '') {this.value = 'username';}"></div>
-			<div id="login_p"><input type="password" class="login-input" maxlength="40" name="Password" value="password" onfocus="if(this.value == 'password') {this.value = '';}" onblur="if (this.value == '') {this.value = 'password';}"></div>
-			<div id="login_btn"><input type="image" name="login" src="/hpimages/go_button.png" height="15" width="22" alt="GO!"><input type="hidden" name="Script_Name" value="http://members.hslda.org/"></div>
-			<div id="login_help_btn"><a href="https://secure.hslda.org/memberslogin.asp"><img name="login_help" src="/hpimages/help.gif" height="15" width="42" alt="Help"></a></div></form>
-			
+            
+            
+            <div id="member_login">
+                <div id="member_welcome" style="display: none; text-align: right;"><div style="float:right;"><a href="https://secure.hslda.org/Logout.aspx"><img src="/hpimages/Logout.gif" height="15" width="42" border="0" alt="Logout"></a></div><div style="line-height:.9;margin-top:-2px;">Welcome, <a id="member_welcome_name" href="https://secure.hslda.org/MyAccount.aspx">default</a>&nbsp;&nbsp;</div></div>
+                <div id="member_login_wrapper" style="display: none;">
+			        <form name="Login" action="https://secure.hslda.org/Login.aspx?f=Loginn" method="POST"><div id="login_label">Member Login:</div>
+			        <div id="login_u"><input type="text" class="login-input" maxlength="20" name="UserName" value="username" onfocus="if(this.value == 'username') {this.value = '';}" onblur="if (this.value == '') {this.value = 'username';}"></div>
+			        <div id="login_p"><input type="password" class="login-input" maxlength="40" name="Password" value="password" onfocus="if(this.value == 'password') {this.value = '';}" onblur="if (this.value == '') {this.value = 'password';}"></div>
+			        <div id="login_btn"><input type="image" name="login" src="/hpimages/go_button.png" height="15" width="22" alt="GO!"><input type="hidden" name="Script_Name" value="http://members.hslda.org/"></div>
+			        <div id="login_help_btn"><a href="https://secure.hslda.org/Login.aspx"><img name="login_help" src="/hpimages/help.gif" height="15" width="42" alt="Help"></a></div></form>
+			    </div>
 			</div>
+			
 			<ul id="nav">
 			  <li id="nav_join"><a href="http://www.hslda.org/a/4015475/a383/p40">Join</a></li>
 			  <li id="nav_renew"><a href="http://hslda.org/a/LinkTracker.aspx?id=4015475&amp;appeal=383&amp;package=164&amp;uri=https%3A%2F%2Fapp%2Ehslda%2Eorg%2FRenew%2Easpx%3FAppealId%3D383%26packageid%3D164">Renew</a></li>
@@ -209,6 +212,25 @@ $(document).ready(function()
 	</div><!--end header-->
 
 
+<script type="text/javascript">
+    $(document).ready(function() {
+        
+        // Check to see if the user is currently logged in.  If so, we display
+		// a welcome message; otherwise, we display the login box.
+		var isDev = (window.location.hostname.indexOf("d-") === 0);
+		var devPrefix = "";
+		if(isDev) { devPrefix = "d-"; }
+		$.getJSON('https://' + devPrefix + 'secure.hslda.org/authenticateduserInfoJson.aspx?callback=?',null,
+		function(userInfo) {
+			if(userInfo.IsAuthenticated){
+                $('#member_welcome_name').text(userInfo.Addressee);
+                $('#member_welcome').show();
+			} else {
+				$('#member_login_wrapper').show();
+			}
+		});
+    });
+</script>
 <!-- XSite Header End -->
 
 
@@ -227,21 +249,26 @@ $(document).ready(function()
 					</ul>
 					<div id="ad">
 						<p>ADVERTISEMENT</p>
-						<div id="banner180"><!-- Begin Ban Man Pro Banner Code -  Site: Default Site Zone: XSite Banner -->
+						<div id="banner180"><!-- Begin Ban Man Pro Banner Code -  Site: Default Site Zone: 25 -->
+
 
 <script language="JavaScript" type="text/javascript">
 var browName = navigator.appName;
 var browDateTime = (new Date()).getTime();
 if (browName=='Netscape')
 {
-document.write('<S'+'CRIPT LANG' + 'UAGE="JAV' + 'ASCRIPT" src="https://secure.hslda.org/ads/ad.aspx?ZoneID=25&Task=Get&IFR=False&Browser=NETSCAPE4&PageID=39760&SiteID=1' + '&Random=' + browDateTime + '">'); document.write('</'+'scr'+'ipt>');
+document.write('<S'+'CRIPT LANG' + 'UAGE="JAV' + 'ASCRIPT" src="http://www.hslda.org/ads/ad.aspx?ZoneID=25&Task=Get&IFR=False&Browser=NETSCAPE4&PageID=39760&SiteID=1' + '&Random=' + browDateTime + '">'); document.write('</'+'scr'+'ipt>');
 }
 if (browName!='Netscape')
 {
-document.write('<S'+'CRIPT LANG' + 'UAGE="JAV' + 'ASCRIPT" src="https://secure.hslda.org/ads/ad.aspx?ZoneID=25&Task=Get&IFR=False&PageID=39760&SiteID=1' + '&Random=' + browDateTime + '">'); document.write('</'+'scr'+'ipt>');
+document.write('<S'+'CRIPT LANG' + 'UAGE="JAV' + 'ASCRIPT" src="http://www.hslda.org/ads/ad.aspx?ZoneID=25&Task=Get&IFR=False&PageID=39760&SiteID=1' + '&Random=' + browDateTime + '">'); document.write('</'+'scr'+'ipt>');
 }
-</script><script language="JAVASCRIPT" src="https://secure.hslda.org/ads/ad.aspx?ZoneID=25&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=39760&amp;SiteID=1&amp;Random=1580363986299"></script>
-<!-- End Ban Man Pro Banner Code -  Site: Default Site Zone: XSite Banner --></div>
+</script><script language="JAVASCRIPT" src="http://www.hslda.org/ads/ad.aspx?ZoneID=25&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=39760&amp;SiteID=1&amp;Random=1580363986708"></script>
+<noscript>
+    <a href="http://www.hslda.org/ads/ad.aspx?ZoneID=25&Task=Click&Mode=HTML&SiteID=1&PageID=31092" target="_new">
+    <img src="http://www.hslda.org/ads/ad.aspx?ZoneID=25&Task=Get&Mode=HTML&SiteID=1&PageID=31092" width="234" height="60" border="0"></a>
+</noscript>
+<!-- End Ban Man Pro Banner Code -  Site: Default Site Zone: 25 --></div>
 					</div>
 					
 					<!-- If you don't want sharing buttons, put vbscript code in calling file before inc_SiteMenu.inc is loaded: dontShare = True -->
@@ -356,7 +383,7 @@ User account data can be updated or deleted on the HSLDA website at the addresse
     <li><a href="http://hslda.org/a/LinkTracker.aspx?id=4015475&amp;appeal=383&amp;package=164&amp;uri=https%3A%2F%2Fapp%2Ehslda%2Eorg%2FRenew%2Easpx%3FAppealId%3D383%26packageid%3D164">Renew online</a></li>
     <!--<li><a href="services">HSLDA services list</a></li>-->
     <h4>SHOP</h4>
-    <li><a href="http://www.hslda.org/store/">HSLDA Store</a></li>
+    <li><a href="http://store.hslda.org/articles/home.htm">HSLDA Store</a></li>
     <li><a href="http://market.hslda.org/">Curriculum Market</a></li>
     <li><a href="http://www.hslda.org/perx/">PerX member discounts</a></li>
     <li><a href="http://www.hslda.org/clicks4hs/">Clicks for Homeschooling</a></li>
@@ -454,7 +481,7 @@ User account data can be updated or deleted on the HSLDA website at the addresse
 
 		</div>
 	</div><!--end footer-->
-	<div id="sub_footer"><p>Copyright © 2012 HSLDA. All Rights Reserved.<br>
+	<div id="sub_footer"><p>Copyright © 2013 HSLDA. All Rights Reserved.<br>
 P.O. Box 3000 • Purcellville, VA 20134-9000 • Phone: 540-338-5600 • Fax: 540-338-2733 • Email: <a href="https://secure.hslda.org/hslda/feedback.asp">Click here</a><br><a href="http://hslda.org/pdef/privacypolicy.asp">Privacy Policy</a>&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://hslda.org/pdef/termsofuse.asp">User Agreement</a></p></div>
 <!-- XSite Footer End-->
 
