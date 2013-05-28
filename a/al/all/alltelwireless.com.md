@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alltelwireless.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120070856id_/http%3A//www.alltelwireless.com/allied-webapp-public/allied-internet/misc/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alltelwireless.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528174529id_/http%3A//www.alltelwireless.com/allied-webapp-public/allied-internet/misc/privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy Statement - - Alltel Wireless
 
@@ -46,11 +46,11 @@ Except as permitted by law or with customer approval, Alltel will only use, disc
 
 We collect personal information in a variety of ways:
 
-  * **Information you give us:** We collect information you give us when you purchase or use Alltel products and services, or request information about our services. For example, you provide us with your billing address and credit information when you purchase service from us. Similarly, you may provide personal information when you submit a job application.
-  * **Automatically collected information:** We automatically receive certain types of information whenever you interact with us. When your phone is turned on, wireless systems know your network location and your approximate physical location, which is how calls or information are delivered to you.
-  * **Information from other sources:** We may receive information about you from other sources. For example,we receive credit information from third-party sources before initiating service you have requested. We may add such information or combine it with personal information on your account.
+**Information you give us:** We collect information you give us when you purchase or use Alltel products and services, or request information about our services. For example, you provide us with your billing address and credit information when you purchase service from us. Similarly, you may provide personal information when you submit a job application.
 
+**Automatically collected information:** We automatically receive certain types of information whenever you interact with us. When your phone is turned on, wireless systems know your network location and your approximate physical location, which is how calls or information are delivered to you.
 
+**Information from other sources:** We may receive information about you from other sources. For example,we receive credit information from third-party sources before initiating service you have requested. We may add such information or combine it with personal information on your account.
 
     back to top
 
@@ -64,27 +64,33 @@ We collect, maintain, and use customers' personal information as necessary to pr
 
 Alltel does NOT sell personal information and we disclose personal information only in the following ways:
 
-**1.  With your consent**  
+**1\. With your consent**
+
 We may obtain your consent to disclose personal information in a number of ways, including in writ ing; verbally; online by clicking a button; entering information on a wireless device or handset; or at the time of initiation or use of any service when your consent is part of the required terms and condi tions to use the service. Other times your consent is implicit. For example, if you purchase a product through our Web site and request that it be shipped to your home, you implicitly consent to our disclo sure of your name and address to ship your order and also of your charge card number to the bank to collect payment and complete your order.
 
-**2.  Transaction processing**  
+**2\. Transaction processing**
+
 We disclose personal information to third parties as necessary to complete transactions or perform services on our behalf. Alltel must share some private information with our contractors, consultants, and other parties who require such information to assist us to establish, maintain, and manage our business relationships with customers. Third parties are under the same obligation to protect personal information while assisting us to establish, maintain and manage our business relationships with Customers.
 
 Alltel may let you take advantage of services and products offered by other companies. In those cases, information about you received by those third parties will be managed by those third parties. For example, if you use your phone and roam on the network of another carrier, your usage informa- tion and the numbers you dial will be available to the company providing that service. Also, when you purchase a product from a third party through an Alltel service, you may provide personal information to that entity and some information may automatically be passed to that entity.
 
-**3.  Certain business transfers**  
-Customer personal information may be transferred as part of various business transactions, such as mergers and acquisitions, insolvency, bankruptcy or receivership, in support of the transaction. 
+**3\. Certain business transfers**
 
-**4.  Protection of Alltel and others**  
+Customer personal information may be transferred as part of various business transactions, such as mergers and acquisitions, insolvency, bankruptcy or receivership, in support of the transaction.
+
+**4\. Protection of Alltel and others**
+
 We release personal information, other account information, and possibly location information (as discussed below in 5. Location-based Services) when we believe release is appropriate to comply with the law (e.g., subpoenas, court orders, E911 information); to enforce or apply our customer agree ments; to initiate, render, bill, and collect for services; or to protect Alltel's rights or property, or to protect users of those services and other carriers from fraudulent, abusive, or unlawful use of, or subscription to, such services; or if we reasonably believe that an emergency involving immediate danger of death or serious physical harm to any person requires disclosure of communications or justifies disclosure of records to a governmental entity without delay.
 
-**5.  Location-based Services**Alltel provides wireless location-based services that use your wireless network location to provide services you request. Whenever your mobile device is on, the network knows its general location. Customers should be mindful that their wireless network location is necessary to be able to provide these services, and that it is solely at the customer's discretion to subscribe to location-based services.
+**5\. Location-based Services**
+
+Alltel provides wireless location-based services that use your wireless network location to provide services you request. Whenever your mobile device is on, the network knows its general location. Customers should be mindful that their wireless network location is necessary to be able to provide these services, and that it is solely at the customer's discretion to subscribe to location-based services.
 
 It is important to note, if you let others use location-based services to which you've subscribed as the account holder (or if you let others use your handset if such handset has location tracking capabili ties), it is your responsibility to inform that user that his or her location may be tracked.
 
 When you dial 911 for emergency services, we may provide your network location to an emergency medical service provider or emergency dispatch provider, public safety answering point, or other emergency services provider. The law also permits us to disclose the location of a device on our network without a user's consent to managers or providers of information services solely for the purposes of assisting in the delivery of emergency services in response to an emergency, or to emer gency service providers in order to respond to the user's call for emergency services.
 
-   back to top
+    back to top
 
 ## How does Alltel support the Children's Online Privacy Protection Act (COPPA)?
 
@@ -106,7 +112,7 @@ Many Alltel websites, including wireless (WAP) websites, contain links to other 
 
 ## What are value-added services?
 
-Because we appreciate the trust you have placed in us, we continually look for ways to enhance our business relationship. So from time to time, we may let you know about a product or service. We may inform you about products and services by email, short text messages, telemarketing, and direct mail. Using the information you have provided to us, we strive to limit our offers to those that are lawful and we think you would appreciate receiving. We want every contact you have with us to be a positive experience. So if you would prefer not to receive these value-added services, offers and opportunities, just [Contact Us](https://web.archive.org/allied-webapp-public/allied-internet/about-us/contact-us.html).
+Because we appreciate the trust you have placed in us, we continually look for ways to enhance our business relationship. So from time to time, we may let you know about a product or service. We may inform you about products and services by email, short text messages, telemarketing, and direct mail. Using the information you have provided to us, we strive to limit our offers to those we think you would appreciate receiving. We want every contact you have with us to be a positive experience. So if you would prefer not to receive these value-added services, offers and opportunities, just [Contact Us](https://web.archive.org/allied-webapp-public/allied-internet/about-us/contact-us.html).
 
     back to top
 
@@ -115,6 +121,8 @@ Because we appreciate the trust you have placed in us, we continually look for w
 As with all Alltel sites, we will constantly strive to improve the services we may offer, and may update this privacy policy from time to time in connection with that effort. You should refer back to this page often for the latest information.
 
     back to top
+
+## How can I contact Alltel?
 
 If you have any questions, comments or concerns about Alltel's Privacy Policy, please contact Privacy@alltel.com.
 
