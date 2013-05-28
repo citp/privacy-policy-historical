@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the growing-minds.org privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014122608id_/http%3A//growing-minds.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the growing-minds.org privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528180634id_/http%3A//growing-minds.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Growing Minds
 
@@ -14,7 +14,7 @@ Any of the information we collect from you may be used in one of the following w
 
 To process transactions
 
-> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+> Your financial information, whether public or private, will not be sold, exchanged, transferred, or given to any outside party for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
 To administer a contest, promotion, survey or other site feature
 
@@ -22,7 +22,7 @@ To send periodic emails
 
 > The email address you provide for classifieds, order processing,  or event information, may be used to send you information and updates pertaining to your ad, order, or event.
 > 
-> The email address you provide to subscribe to our newsletter will be used to receiving occasional ASAP news, updates, related program or service information, etc.
+> The email address you provide to subscribe to our newsletter will be used to send you occasional ASAP news, updates, related program or service information, etc.
 > 
 > Note: If at any time you would like to unsubscribe from receiving future emails from our newsletter, we include detailed unsubscribe instructions at the bottom of each email.
 
@@ -44,7 +44,7 @@ Like many services, Google Analytics uses first-party cookies to track visitor i
 
 **Do we disclose any information to outside parties?**
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect our or others’ rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
 **Third party links**
 
@@ -60,7 +60,7 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at<http://fromhere.org/terms-conditions>
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://growing-minds.org/terms-of-use>.
 
 **Your Consent**
 
@@ -70,7 +70,7 @@ By using our site, you consent to our online privacy policy.
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
 
-This policy was last modified on 3/1/2012
+This policy was last modified on 4/3/2013
 
 **Contacting Us**
 
