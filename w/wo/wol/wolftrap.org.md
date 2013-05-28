@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wolftrap.org privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214235006id_/http%3A//www.wolftrap.org/Home/global/Privacy_Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wolftrap.org privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528042749id_/http%3A//www.wolftrap.org/Home/global/Privacy_Policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Wolf Trap
 
 Thank you for visiting wolftrap.org. This Privacy Policy sets forth the online information practices of the Wolf Trap Foundation for the Performing Arts (the "Foundation"), including: 
 
