@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theflowershop.ae privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127003536id_/http%3A//www.theflowershop.ae/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theflowershop.ae privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528030126id_/http%3A//www.theflowershop.ae/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy, theflowershop.ae
 
@@ -52,11 +52,11 @@ Online account information is accessible only by using a password. To protect th
 
 We give you the opportunity to opt-out of receiving certain information or to request that certain information not be shared with third parties, by giving you numerous methods to inform us of your decision. Your choice to opt-out will not apply to your spouse and any add-on members. 
 
-1\. If you do not want us to share information with third parties, you can: (a) call our customer service representatives at Toll-Free (UAE): : 800-44848; (b) email us at [customerservice@theflowershop.ae](mailto:customerservice@theflowershop.ae); or (c) write us at: Emirates Towers, Level 41, Sheikh Zayed Road, P.O Box 31303, Dubai, United Arab Emirates. 
+1\. If you do not want us to share information with third parties, you can: (a) call our customer service representatives at (UAE): (04) 259 1120; (b) email us at [customerservice@theflowershop.ae](mailto:customerservice@theflowershop.ae); or (c) write us at: Emirates Towers, Level 41, Sheikh Zayed Road, P.O Box 31303, Dubai, United Arab Emirates. 
 
-2\. If you do not want to receive Promotional Information (see Use of Personal Information by Flowershop.ae) or information about related services, you can: (a) call our customer service representatives at Toll-Free (UAE): : 800-44848 (b) email us at [customerservice@theflowershop.ae](mailto:customerservice@theflowershop.ae); or (c) write us at: Emirates Towers, Level 41, Sheikh Zayed Road, P.O Box 31303, Dubai, United Arab Emirates. 
+2\. If you do not want to receive Promotional Information (see Use of Personal Information by Flowershop.ae) or information about related services, you can: (a) call our customer service representatives at (UAE): (04) 259 1120 (b) email us at [customerservice@theflowershop.ae](mailto:customerservice@theflowershop.ae); or (c) write us at: Emirates Towers, Level 41, Sheikh Zayed Road, P.O Box 31303, Dubai, United Arab Emirates. 
 
-3\. If you do not want to receive promotional emails, you can: (a) call our customer service representatives at Toll-Free (UAE): : 800-44848; (b) email us at [customerservice@theflowershop.ae](mailto:customerservice@theflowershop.ae); (c) write us at: Emirates Towers, Level 41, Sheikh Zayed Road, P.O Box 31303, Dubai, United Arab Emirates. or (d) click on unsubscribe from our promotional emails.
+3\. If you do not want to receive promotional emails, you can: (a) call our customer service representatives at Toll-Free (UAE): (04) 259 1120; (b) email us at [customerservice@theflowershop.ae](mailto:customerservice@theflowershop.ae); (c) write us at: Emirates Towers, Level 41, Sheikh Zayed Road, P.O Box 31303, Dubai, United Arab Emirates. or (d) click on unsubscribe from our promotional emails.
 
 ## H. Online Specifics
 
@@ -76,7 +76,7 @@ Through selected portions of our website, you can link to other websites of thir
 
 ##### 4\. Updating, Reviewing or Correcting Online Personal Information
 
-You may update, review or correct your online account information at any time online by accessing your password-protected registration page via the "My Account" area of the Web site. You also may email us at [customerservice@theflowershop.ae](mailto:customerservice@theflowershop.ae) or call us at Toll-Free (UAE): : 800-44848. 
+You may update, review or correct your online account information at any time online by accessing your password-protected registration page via the "My Account" area of the Web site. You also may email us at [customerservice@theflowershop.ae](mailto:customerservice@theflowershop.ae) or call us at (UAE): (04) 259 1120 
 
 ##### 5\. Retention of Information we Collect Online
 
@@ -86,7 +86,7 @@ Information we automatically collect as a result of your online activity is gene
 
 If you have any questions or concerns about this privacy statement or would like to contact us for any reason, you can do the following: 
 
-1\. Call our Customer Service representatives at Toll-Free (UAE): : 800-44848 
+1\. Call our Customer Service representatives at (UAE): (04) 259 1120 
 
 2\. Email us at [customerservice@theflowershop.ae](mailto:customerservice@theflowershop.ae); or 
 
