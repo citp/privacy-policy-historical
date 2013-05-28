@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instituteforgovernment.org.uk privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127043117id_/http%3A//www.instituteforgovernment.org.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instituteforgovernment.org.uk privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528164342id_/http%3A//www.instituteforgovernment.org.uk/privacy) for the most accurate reproduction.*
 
 # Privacy | The Institute for Government
 
@@ -19,6 +19,13 @@ We use this information to analyse the usage of our website and continually impr
 ##  Cookies
 
 It is possible that so-called "cookies" are used on some of our web pages, which you will recognize automatically during your next visit. A cookie is a small text file that is stored from a website to your hard disk. The stored information will allow you to use our website in a faster and more convenient way. Cookies can help us, for example, to better adapt our website to your specific requirements. Or your password might be stored - so you will not have to enter it again during your next visit. If you do not wish to be recognized by cookies you may install a warning on your web browser, which will provide effective protection against all types of cookies.
+
+Further information about cookies can be obtained on the following sites:
+
+  * [Information Commissioner's Office - consumer advice](http://www.ico.org.uk/for_the_public/topic_specific_guides/online/cookies)
+  * [About cookies](http://www.aboutcookies.org.uk/)
+
+
 
 ##  Safety
 
