@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the panlasangpinoy.com privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125232847id_/http%3A//panlasangpinoy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panlasangpinoy.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528180545id_/http%3A//panlasangpinoy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Panlasang Pinoy
 
@@ -16,8 +16,8 @@ The Site may use cookie and tracking technology depending on the features offere
 
  **Google Advertising Cookie**
 
-Google, as a third party vendor, uses cookies to serve ads on your site.  
-Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
+Google, as a third party vendor, uses cookies to serve ads in this site.  
+Google’s use of the DART cookie enables it to serve ads to our users based on their visit to this site and other sites on the Internet.
 
 Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.  
 Because publisher sites and laws across countries vary, we’re unable to suggest specific privacy policy language. However, you may wish to review resources such as the Network Advertising Initiative, or NAI, which suggests the following language for data collection of non-personally identifying information:
@@ -35,5 +35,3 @@ If you have any questions, concerns, or comments about our privacy policy you ma
 By e-mail: webmaster {at} panlasangpinoy {dot} com
 
 We reserve the right to make changes to this policy. Any changes to this policy will be posted.
-
-[Pin It](http://pinterest.com/pin/create/button/?url=http://panlasangpinoy.com/privacy-policy/&media=&description=Privacy%20Policy)
