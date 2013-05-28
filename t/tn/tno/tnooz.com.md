@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the tnooz.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015103010id_/http%3A//www.tnooz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tnooz.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528065812id_/http%3A//www.tnooz.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Tnooz
 
-### Tnooz is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+Tnooz is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-Tnooz may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from Friday 25 September.
+Tnooz may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from Monday 17 December, 2012.
 
 **What we collect**
 
@@ -34,13 +34,17 @@ We are committed to ensuring that your information is secure. In order to preven
 
 **How we use cookies**
 
-A cookie is a small file, which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+A cookie is a small file, which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual.
+
+The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
 
 We use traffic log cookies to identify which pages are being used. This helps us analyse data about webpage traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
 
-Tnooz has contracted with [Travel Ad Network](http://www.traveladnetwork.com/) and its third party ad-serving technology provider Atlas, a Microsoft Corporation Subsidiary, to monitor certain pages of our website for the purpose of reporting website statistics, advertisement click-throughs, advertisement impressions, and/or other activities on our website. Where authorized by us, Travel Ad Network may use cookies, web beacons, and/or other monitoring technologies to compile anonymous statistics about our website visitors. No personally identifiable information is collected by or transferred to any party other than the advertiser.
+Tnooz uses third party ad-serving technology provider [OpenX Enterprise](http://www.openx.com/about/facts) to deliver ads to our website, email newsletter and other information products that may be in development or released from time to time. We use this technology for the purpose of reporting website statistics, advertisement click-throughs, advertisement impressions, and/or other activities on our website.
 
-For more information about how the information is collected and used by Travel Ad Network, please see [Travel Ad Network’s privacy policy](http://www.traveladnetwork.com/content/view/56/79/).
+Where authorized by us, third parties may use cookies, web beacons, and/or other monitoring technologies to compile anonymous statistics about our website visitors. No personally identifiable information is collected by or transferred to any party other than the advertiser.
+
+For more information on how our ad-serving partner’s technology works and their privacy policy, please visit <http://www.openx.com/about/facts>.
 
 Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
 
@@ -48,7 +52,9 @@ You can choose to accept or decline cookies. Most web browsers automatically acc
 
 **Links to other websites**
 
-Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information that you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website.
+
+Therefore, we cannot be responsible for the protection and privacy of any information that you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
 **Controlling your personal information**
 
@@ -60,4 +66,6 @@ You may choose to restrict the collection or use of your personal information in
 
 
 
-If you believe that any information we are holding on you is incorrect or incomplete, please write to or [email us](mailto:info@tnooz.com) as soon as possible. We will promptly correct any information found to be incorrect.
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible.
+
+We will promptly correct any information found to be incorrect.
