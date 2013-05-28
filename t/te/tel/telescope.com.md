@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the telescope.com privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127181947id_/http%3A//www.telescope.com/content.jsp%3FpageName%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telescope.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528131241id_/http%3A//www.telescope.com/content.jsp%3FpageName%3DPrivacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy | Orion Telescopes & Binoculars
 
 ## Privacy Policy
 
@@ -49,8 +49,6 @@ In all cases, we will only use your information as permitted by law. Notwithstan
 Our Site uses "cookies" — data that is transferred from our Site to your hard drive for record-keeping purposes — to keep track of your shopping cart when you order merchandise through our Site. We also use cookies to deliver content specific to your interests and to save your password so you do not have to re-enter it each time you visit our Site.
 
 We work with Google to display advertisements to our site prospects, on our behalf, across the Internet. Google uses cookies to serve ads based on your prior visits to our website. You may opt out of Google's use of cookies by visiting the [Google advertising opt-out page](http://www.google.com/privacy_ads.html).
-
-We work with FetchBack to display Retargeted ads to our site prospects, on our behalf, across the Internet. They collect Non-Personally Identifiable Information about your visits to our Website, and your interaction with our products and services. The anonymous information is collected through the use of a pixel tag, which is industry standard technology used by most major web sites. No Personally Identifiable Information is collected during this process. To read FetchBack's Privacy Policy, [click here](http://www.fetchback.com/privacy.html). If you do not want FetchBack to collect this information, you may opt out of their service. Opting out will not in any way effect your use of our Site. To Opt out of FetchBack Retargeting, please [click here](http://www.fetchback.com/optout.html).
 
 ## Disclosure of Information through Business Transfers
 
