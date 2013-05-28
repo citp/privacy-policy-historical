@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thefoxnation.com privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103191750id_/http%3A//nation.foxnews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefoxnation.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528095525id_/http%3A//nation.foxnews.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Fox Nation
+# Privacy Policy | Fox Nation
 
 THEFOXNATION.COM ("FOX") is part of the News America Group, which has adopted a set of Privacy Principles (<http://www.newscorp.com/privacy.html>) applicable to all its U.S.-based companies. FOX has implemented those Principles in this Privacy Policy, which describes how we collect, use and share personally identifiable information ("PII") we obtain from and about individuals located in the U.S., both online and off-line.
 
