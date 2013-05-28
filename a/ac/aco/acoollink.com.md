@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the acoollink.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527060247id_/http%3A//www.acoollink.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acoollink.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528043937id_/http%3A//www.acoollink.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | | A Cool LinkA Cool Link
+# Privacy PolicyA Cool Link
 
 We recognize that your privacy is important. This document outlines the types of personal information we receive and collect when you use ACoolLink.com / A Cool Link LLC, as well as some of the steps we take to safeguard information. We hope this will help you make an informed decision about sharing personal information with us.
 
