@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twitbacks.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130074440id_/http%3A//www.twitbacks.com/twitbacks-privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twitbacks.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528045856id_/http%3A//www.twitbacks.com/twitbacks-privacy.php) for the most accurate reproduction.*
 
 # Twitter Backgrounds Privacy Policy
 
@@ -21,7 +21,7 @@ Credit/Debit Card Information
 
 We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order. 
 
-We use return email addresses to answer the email we receive, to send confirmation emails and newsletters. Such addresses are not used for any other purpose and are not shared with outside parties.
+We use email addresses to answer the email we receive, to send confirmation emails and newsletters. Such email addresses are not shared or re-sold to outside parties. Newsletters may contain outside party advertisments but we do not share your email address with these outside parties.
 
 We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals. 
 
