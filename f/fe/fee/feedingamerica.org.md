@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the feedingamerica.org privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201103054id_/http%3A//feedingamerica.org/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the feedingamerica.org privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528043859id_/http%3A//feedingamerica.org/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Feeding America
 
 Feeding America (formerly named America's Second Harvest) shares your concerns about privacy on the Internet. In order to better protect your privacy, Feeding America has provided this notice explaining its online information practices and the choices you can make about the way your information is collected and used on the Site. Furthermore, this Privacy Policy, being part of the Terms, works in conjunction with the Terms and Conditions of Use, but does not modify or supercede it. On occasion, Feeding America may run promotions or conduct other activities with affiliate partners from this Site. In such event, we may post additional privacy terms in conjunction with such promotion or activities that modify and/or supplement this Privacy Policy and govern the use of information related to or received through such promotions or activities.
 
