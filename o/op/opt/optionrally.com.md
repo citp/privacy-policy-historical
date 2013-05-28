@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the optionrally.com privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127171246id_/http%3A//www.optionrally.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optionrally.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528220135id_/http%3A//www.optionrally.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Binary options trading | Optionrally.com
 
@@ -50,4 +50,4 @@ Your information may be processed, maintained or transferred outside of your sta
 **6\. Contacting Us**  
 If you have any concerns or questions about this Policy, please contact us at [support@optionrally.com.](mailto:support@optionrally.com)
 
-Copyright © 2012, Tifozi Investments LTD. All rights reserved.
+Copyright © 2013, Tifozi Investments LTD. All rights reserved.
