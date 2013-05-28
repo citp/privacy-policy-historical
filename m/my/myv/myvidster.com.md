@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myvidster.com privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103213522id_/http%3A//www.myvidster.com/docs/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myvidster.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528164151id_/https%3A//www.myvidster.com/docs/privacy) for the most accurate reproduction.*
 
 # myVidster - Privacy Policy
 
@@ -62,7 +62,7 @@ A cookie is a small amount of data, which often includes an anonymous unique ide
 
 **Editing and Deleting Account Information**
 
-  * You can change your myVidster member name and other account information, at any time. 
+  * You can change your account information at any time. 
   * We may send you certain communications relating to the myVidster service, such as service announcements and administrative messages, that are considered part of your myVidster account. 
   * You can delete your myVidster account at any time from your account page; however, please note that your identification, billing and contact information may remain in myVidster's records for some period. 
   * We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. 
