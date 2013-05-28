@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sugarrae.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225181352id_/http%3A//www.sugarrae.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sugarrae.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528163350id_/http%3A//www.sugarrae.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Sugarrae
+# Privacy Policy
 
 This is the web site of Sugarrae, Inc..
 
@@ -25,7 +25,7 @@ www.google.com/analytics
 www.cj.com  
 www.[shareasale](http://www.sugarrae.com/getit/SAS/).com  
 www.pepperjamnetwork.com  
-www.clickbank.com
+www.[clickbank](http://www.sugarrae.com/getit/clickbank/).com
 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will use for these new purposes only data collected from the time of the policy change forward .
 
