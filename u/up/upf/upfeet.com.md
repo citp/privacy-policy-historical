@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the upfeet.com privacy policy that was archived on 2012-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121013034044id_/http%3A//www.upfeet.com/us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upfeet.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528150154id_/http%3A//www.upfeet.com/us/privacy) for the most accurate reproduction.*
 
 # UpFeet United States - Privacy policies
 
