@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the csnphilly.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222190929id_/http%3A//www.csnphilly.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csnphilly.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528160034id_/http%3A//www.csnphilly.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Comcast SportsNet Philadelphia
 
-  
-
-
-Comcast SportsNet Philadelphia, LP (“Network,” “we,” or “us”) operates the www.csnphilly.com website, the www.700level.com website, and the www.beerleaguer.com web site (along with all respective sub-domains thereto), (each such website a “Site” and collectively the “Sites”) and Network focuses on delivering sports news and information to our Internet users in the market we serve.  Network is similarly focused on respecting and protecting the privacy of its users.  This privacy policy (“Privacy Policy”) tells you how we collect information from you, how we use it and to whom we share it.  When you access the Sites, we recognize you may be entrusting us with personally identifiable information and we are committed to honoring that trust by working to safeguard your privacy.  This Privacy Policy describes the principles that govern our information practices and other privacy aspects of the Sites.  In this Privacy Policy, we refer to information that specifically identifies you or can be used to contact you as “personally identifiable information” or “personal information.” This Privacy Policy applies only to information collected by Network online and does not apply to information collected or obtained by Network by any other means.  
+Comcast SportsNet Philadelphia, LP (“Network,” “we,” or “us”) operates the [www.csnphilly.com](http://www.csnphilly.com/) website, the [www.700level.com](http://www.700level.com/) website, and the [www.beerleaguer.com](http://www.beerleaguer.com/) web site (along with all respective sub-domains thereto), (each such website a “Site” and collectively the “Sites”) and Network focuses on delivering sports news and information to our Internet users in the market we serve.  Network is similarly focused on respecting and protecting the privacy of its users.  This privacy policy (“Privacy Policy”) tells you how we collect information from you, how we use it and to whom we share it.  When you access the Sites, we recognize you may be entrusting us with personally identifiable information and we are committed to honoring that trust by working to safeguard your privacy.  This Privacy Policy describes the principles that govern our information practices and other privacy aspects of the Sites.  In this Privacy Policy, we refer to information that specifically identifies you or can be used to contact you as “personally identifiable information” or “personal information.” This Privacy Policy applies only to information collected by Network online and does not apply to information collected or obtained by Network by any other means.  
 
 Network’s Security Measures
 
@@ -52,7 +49,7 @@ We use operational service providers to perform certain services on our behalf, 
 
 Comcast.net Users
 
-If you arrive at the Site by clicking through a link from the Comcast.net web site and subsequently provide us with any information in connection with your use of the Site, we may provide that information to Comcast Interactive Media, LLC, Comcast Cable Communications Management, LLC and their respective subsidiaries and affiliates that own and operate web sites and Internet services on their behalf (collectively, “Comcast”).  The use of your information by Comcast will be governed by Comcast’s privacy policy, currently located at http://xfinity.comcast.net/privacy/2011-03.  Our use of the information you provide to us will continue to be governed by this Privacy Policy.  
+If you arrive at the Site by clicking through a link from the Comcast.net web site and subsequently provide us with any information in connection with your use of the Site, we may provide that information to Comcast Interactive Media, LLC, Comcast Cable Communications Management, LLC and their respective subsidiaries and affiliates that own and operate web sites and Internet services on their behalf (collectively, “Comcast”).  The use of your information by Comcast will be governed by Comcast’s privacy policy, currently located at [http://xfinity.comcast.net/privacy/2011-03](https://xfinity.comcast.net/privacy/2011-03'\)\);).  Our use of the information you provide to us will continue to be governed by this Privacy Policy.  
 
 Cookies and IP Address Information
 
@@ -86,11 +83,11 @@ If we make any substantive changes to our Privacy Policy in the future with rega
 
 Accessing and Updating Information 
 
-To access or update the personally identifiable information that Network may have, please send an email to legal@comcastsportsnet.com with your request.   Please include your email address and indicate the nature of your request or the information you wish to change.  In addition, you may delete the cookie stored on your computer, which will cause our system to perceive you as a new user with no known user data.  You may also set your browser to reject cookies, but doing so may prevent you from using some of our services.  There may be certain instances when Network may not be able to respond, such as when access would violate the privacy of another individual, when access is prohibited by law, or when the personally identifiable information has been lawfully obtained from third party sources. 
+To access or update the personally identifiable information that Network may have, please send an email to [legal@comcastsportsnet.com](mailto:legal@comcastsportsnet.com) with your request.   Please include your email address and indicate the nature of your request or the information you wish to change.  In addition, you may delete the cookie stored on your computer, which will cause our system to perceive you as a new user with no known user data.  You may also set your browser to reject cookies, but doing so may prevent you from using some of our services.  There may be certain instances when Network may not be able to respond, such as when access would violate the privacy of another individual, when access is prohibited by law, or when the personally identifiable information has been lawfully obtained from third party sources. 
 
 Email Opt-Out Policy
 
-You may opt-out of receiving promotional email communications from us by emailing us at: legal@comcastsportsnet.com or writing to us at:  Comcast Sports Group, One Comcast Center, Philadelphia, PA 19103, Attn:  Business and Legal Affairs.
+You may opt-out of receiving promotional email communications from us by emailing us at: [legal@comcastsportsnet.com](mailto:legal@comcastsportsnet.com) or writing to us at:  Comcast Sports Group, One Comcast Center, Philadelphia, PA 19103, Attn:  Business and Legal Affairs.
 
 In addition, when we contact you via email, we may include instructions to unsubscribe from future emails if you so choose.
 
@@ -102,7 +99,7 @@ The Site is solely intended for users located in the U.S.  However, like almost
 
 California Privacy Rights 
 
-If you are a California resident and would like to opt-out from the disclosure of personally identifiable information to third parties for their direct marketing purposes, please make your request by email to: legal@comcastsportsnet.com or write to us at:  :  Comcast Sports Group, One Comcast Center, Philadelphia, PA 19103, Attn:  Business and Legal Affairs.
+If you are a California resident and would like to opt-out from the disclosure of personally identifiable information to third parties for their direct marketing purposes, please make your request by email to: [legal@comcastsportsnet.com](mailto:legal@comcastsportsnet.com) or write to us at:  :  Comcast Sports Group, One Comcast Center, Philadelphia, PA 19103, Attn:  Business and Legal Affairs.
 
 Legal Disclaimer
 
@@ -116,6 +113,6 @@ Comcast Sports Group
 One Comcast Center  
 Philadelphia, PA 19103  
 Attn:  Business and Legal Affairs.  
-Or by email at: legal@comcastsportsnet.com
+Or by email at: [legal@comcastsportsnet.com](mailto:legal@comcastsportsnet.com)
 
 ©2011 Comcast Sports Management Services, LLC.  All rights reserved.
