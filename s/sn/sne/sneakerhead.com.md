@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sneakerhead.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231175657id_/http%3A//www.sneakerhead.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sneakerhead.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528123804id_/http%3A//www.sneakerhead.com/policy.html) for the most accurate reproduction.*
 
 # 
 
