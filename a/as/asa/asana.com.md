@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asana.com privacy policy that was archived on 2012-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121208073052id_/http%3A//www.asana.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asana.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528200609id_/http%3A//asana.com/privacy) for the most accurate reproduction.*
 
 # Asana · Privacy Policy
 
@@ -6,14 +6,11 @@ Last updated: March 30, 2012.
 
 This Privacy Policy describes Asana’s policies and procedures on the collection, use and disclosure of your information when you use the Asana Service. We will not use or share your information with anyone except as described in this Privacy Policy. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources. Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our [Terms of Service](http://asana.com/terms). By accessing or using the Service, you agree to this Privacy Policy.
 
-  
-
-
 ### Information We Collect and Use
 
 Asana uses information we collect to operate, maintain and provide you the features and functionality of the Service, to analyze how the Service is used, diagnose service or technical problems, maintain security, personalize content, remember information to help you efficiently access your account, monitor aggregate metrics such as total number of visitors, traffic, and demographic patterns, and track Content and users as necessary to comply with the Digital Millennium Copyright Act and other applicable laws.
 
-**Information You Provide:** You provide us information about yourself, such as your name and e-mail address, if you register for an account with the Service, including by connecting with the Service via a third-party service, or by “following,” “becoming a fan,” adding the Asana application, etc., on a third party website or network. Your name, email address and other information you choose to provide on the Service will be viewable and discoverable by other users, in accordance with your settings on the Service. 
+**Information You Provide:** You provide us information about yourself, such as your name and e-mail address, if you register for an account with the Service, including by connecting with the Service via a third-party service, or by “following,” “becoming a fan,” adding the Asana application, etc., on a third party website or network. Your name, email address and other information you choose to provide on the Service will be viewable and discoverable by other users, in accordance with your settings on the Service.
 
 We may use your email address to send you Service-related notices (including any notices required by law, in lieu of communication by postal mail). We may also use your contact information to send you marketing messages. If you don’t want to receive these messages, you can opt out by following the instructions in the message. If you correspond with us by email, we may retain the content of your email messages, your email address and our responses.
 
@@ -33,9 +30,6 @@ If you choose to use our invitation service to invite a friend to the Service, w
 
 **Third Party Tools:** Asana uses third party analytics tools, such as Google Analytics, to help understand use of the Service. Many of these tools collect the information sent by your browser as part of a web page request, including cookies and your IP address. These analytics tools also receive this information and their use of it is governed by their privacy policy.
 
-  
-
-
 ### How We Share Your Information
 
 **Your Use:** We will display your Personal Information in your profile page and elsewhere on the Service according to the preferences you set in your account. Any information you choose to provide should reflect how much you want others to know about you. Please consider carefully what information you disclose in your profile page and your desired level of anonymity. You can review and revise your profile information at any time. We may also share or disclose your information with your consent, for example if you use a third party application to access your account (see below).
@@ -46,12 +40,9 @@ If you choose to use our invitation service to invite a friend to the Service, w
 
 **Third Party Services:** We may share your information with a third party application with your consent, for example when you choose to access our Services through such an application. We are not responsible for what those parties do with your information, so you should make sure you trust the application and that it has a privacy policy acceptable to you.
 
-**Compliance with Laws and Law Enforcement Requests; Protection of Asana's Rights:** Asana may disclose your personal information if required to do so by law or subpoena or if we believe that it is reasonably necessary to comply with a law, regulation or legal request; to protect the safety of any person; to address fraud, security or technical issues; or to protect Asana’s rights or property.
+**Compliance with Laws and Law Enforcement Requests; Protection of Asana’s Rights:** Asana may disclose your personal information if required to do so by law or subpoena or if we believe that it is reasonably necessary to comply with a law, regulation or legal request; to protect the safety of any person; to address fraud, security or technical issues; or to protect Asana’s rights or property.
 
 **Non-Personally Identifiable Information:** We may disclose your non-private, aggregated, or otherwise non-personally identifiable information, such as anonymous usage data, platform types, etc., with interested third parties to help them understand the usage patterns for certain Asana Services.
-
-  
-
 
 ### How We Protect Your Information
 
@@ -63,57 +54,33 @@ In the event that personal information is compromised as a result of a breach of
 
 If you have any questions about security on our Service, you can view our [Security Overview Page](http://asana.com/security) or contact us at [security@asana.com](mailto:security@asana.com)
 
-  
-
-
 ### Your Choices About Your Information
 
 You may, of course, decline to submit personally identifiable information through the Service, in which case Asana may not be able to provide certain services to you. You may update or correct your account information at any time by logging in to your account.
-
-  
-
 
 ### Asana Blog & Community
 
 Our Service offers publicly accessible community services including blogs, and forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. Your posts may remain even after you cancel your account.
 
-  
-
-
 ### Safe Harbor
 
-Asana complies with the U.S. – E.U. Safe Harbor Framework and the U.S. – Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Asana has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, please visit <http://export.gov/safeharbor>.
-
-  
-
+Asana complies with the U.S. – E.U. Safe Harbor Framework and the U.S. – Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Asana has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, please visit .
 
 ### Children’s Privacy
 
 Protecting the privacy of young children is especially important. Our Service is not directed to persons under 13. Asana does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register with the Service. If we become aware that we have collected personal information from a child under age 13 without verification of parental consent, we take steps to remove that information. If you believe that we might have any information from or about a child under 13, please contact us at [privacy@asana.com.](mailto:privacy@asana.com)
 
-  
-
-
 ### International Data Transfer
 
 We may transfer information that we collect about you, including personal information, to affiliated entities, or to other third parties (as provided herein) across borders and from your country or jurisdiction to other countries or jurisdictions around the world. If you are located in the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that you are transferring information, including personal information, to a country and jurisdiction that does not have the same data protection laws as your jurisdiction, and you consent to the transfer of information to the U.S. and the use and disclosure of information about you, including personal information, as described in this Privacy Policy.
-
-  
-
 
 ### Links to Other Web Sites
 
 We are not responsible for the practices employed by websites linked to or from the Service, nor the information or content contained therein. Please remember that when you use a link to go from the Service to another website, our Privacy Policy is no longer in effect. Your browsing and interaction on any other website, including those that have a link on our website, is subject to that website’s own rules and policies.
 
-  
-
-
 ### Changes to Our Privacy Policy
 
 If we change our Privacy Policy, we will post those changes on this page to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it. Changes to this Privacy Policy are effective when they are posted on this page.
-
-  
-
 
 ### Contact Us
 
