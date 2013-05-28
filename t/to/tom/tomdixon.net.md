@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tomdixon.net privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218183009id_/http%3A//www.tomdixon.net/policies/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tomdixon.net privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528201453id_/http%3A//www.tomdixon.net/policies/privacypolicy) for the most accurate reproduction.*
 
 # Tom Dixon, Designer Lighting, Furniture, Accessories
 
