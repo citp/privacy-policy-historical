@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the redding.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223190234id_/http%3A//www.redding.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redding.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528165311id_/http%3A//www.redding.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy Information & News from Redding Record Searchlight (Redding, CA)
 
-PLEASE NOTE THAT OUR PRIVACY POLICY has changed effective July 1, 2008.
+PLEASE NOTE THAT OUR PRIVACY POLICY has changed effective March 22, 2013.
 
 _If you submitted personally identifiable information to us prior to the above effective date, and desire to opt out of having that previously submitted personally identifiable information from being treated under the new policy, please contact us at[rswebmaster@redding.com](mailto:rswebmaster@redding.com)._
 
 PRIVACY POLICY  
-(Effective July 1, 2008)
+(Effective March 22, 2013)
 
 Welcome to Redding.com ("Website"), an interactive online service operated by The E.W. Scripps Company and its subsidiaries ("us", "we", or "our"). Please read the following to learn more about our Privacy Policy, which includes compliance with California Privacy Rights (see also http://www.privacyprotection.ca.gov).
 
@@ -71,13 +71,15 @@ You may contact us as at [rswebmaster@redding.com](mailto:rswebmaster@redding.co
 
 We will respond to your request and, if applicable and appropriate, make the requested change in our active databases as soon as reasonably practicable. Please note that we may not be able to fulfill certain requests while allowing you access to certain benefits and features of our Website.
 
-**I. YAHOO! ADS AND OPT-OUT POLICIES**
+**I. Google DFP Location Privacy**
 
-Yahoo! is an ad network partner, operating through the APT from Yahoo! platform, that displays ads on Redding.com sites. To improve your ad experience on Redding.com sites and elsewhere on the Internet, we may send non-personal information to Yahoo! based on your browser’s activities, such as type of pages viewed and categories of interests, so that the advertising you see is relevant to you. Yahoo! also may use information regarding its own users to select which ads to display.
+If, in connection with the DFP Service, Company collects, processes or discloses information that identifies a Visitor’s precise geographic location, such as GPS, wifi or cell tower data, 
 
-To learn more about Yahoo!’s ad practices, including how to opt out of using anonymous information to select which ads to show you, see <http://info.yahoo.com/privacy/us/yahoo/opt_out/targeting/details.html>.
+(i) Company must obtain express consent from Visitors, 
 
-Yahoo! is a member of the Network Advertising Initiative. See [http://www.networkadvertising.org](http://www.networkadvertising.org/).
+(ii) Company’s privacy policy must disclose such information collection, processing or disclosure, and advise in writing each of its Clients that they are required to make the same disclosures in their privacy policies, and 
+
+(iii) Company will only send such information to DoubleClick using the HTTPS communications protocol
 
 **J. AP NEWS REGISTRY**
 
