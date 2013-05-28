@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the 192.com privacy policy that was archived on 2012-11-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121129150251id_/http%3A//www.192.com/misc/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 192.com privacy policy that was archived on 2013-05-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130528042759id_/http%3A//www.192.com/misc/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" class="jsEnabled"><head>
 	
@@ -26,20 +26,25 @@
 	
 		
 		
-			<link type="text/css" rel="stylesheet" href="http://statics.192.com/rel-3.43/css/oneninetwo.min.css">
-			<link media="print" type="text/css" rel="stylesheet" href="http://statics.192.com/rel-3.43/css/print.css">
+			<link type="text/css" rel="stylesheet" href="http://statics.192.com/rel-3.59/css/oneninetwo.min.css">
+			<link media="print" type="text/css" rel="stylesheet" href="http://statics.192.com/rel-3.59/css/print.css">
 		
-	
 	
 	
 	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+		google_analytics_domain_name = "192.com";
+	</script>
+	
+	
+	<script type="text/javascript">
 		
 		window.assets={
 			base:'http://www.192.com/',
-			javascript:'http://statics.192.com/rel-3.43/scripts/',
-			images:'http://statics.192.com/rel-3.43/images/',
-			css:'http://statics.192.com/rel-3.43/css/',
-			mapapi:'http://statics.192.com/rel-3.43/scripts/lib/ontmap'
+			javascript:'http://statics.192.com/rel-3.59/scripts/',
+			images:'http://statics.192.com/rel-3.59/images/',
+			css:'http://statics.192.com/rel-3.59/css/',
+			mapapi:'http://statics.192.com/rel-3.59/scripts/lib/ontmap',
+			bingMapKey:'Avh9YWYNfnzd3X4IgPXS2QQh4vMwupIto3045iH4KrAYMgTUFd66znHMppdOZ7WM'
 		};
 		
 		
@@ -64,6 +69,9 @@
 		
 		quickReg = true;
 		icucmePromo = true;
+		newDesktopBusinessSearchEnabled = false;
+		
+		businessResultsParams = {};
 		
 	</script>
 	
@@ -79,6 +87,10 @@
 	
 	
 	<meta name="description" content="We take privacy very seriously. This page sets out our privacy policy.">
+	
+	
+	
+	<link rel="alternate" media="handheld" href="http://m.192.com/misc/privacy-policy/">
 
 
 
@@ -92,7 +104,7 @@
 
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-1364988-1']);
-  _gaq.push(['_setDomainName', '.192.com']);
+  _gaq.push(['_setDomainName', '192.com']);
   _gaq.push(['_trackPageview']);
 
   (function() {
@@ -104,6 +116,17 @@
 </script>
 
 
+	
+	<!--[if IE 7]>
+		<link rel="stylesheet" type="text/css" href="http://statics.192.com/rel-3.59/css/ie7.css" /> 
+	<![endif]-->
+	<!--[if IE 8]>
+		<link rel="stylesheet" type="text/css" href="http://statics.192.com/rel-3.59/css/ie8.css" /> 
+	<![endif]-->	
+	<!--[if IE]>
+		<link rel="stylesheet" type="text/css" href="http://statics.192.com/rel-3.59/css/ie-all.css" /> 
+	<![endif]-->
+		
 </head>
 
 <body>
@@ -136,44 +159,73 @@
 
 
 <div id="header" class="headerLeft">
-	<div class="snow"> </div>
 	
-
+	
 	<div class="headerRight"></div>
 	<div class="headerBody maxWidthFrame">
 		<div id="logo">
 			<a href="/" title="Home">192.com - People, Businesses and Places</a><br>
-			<div class="logoPrint"><img src="http://statics.192.com/rel-3.43/images/logo/192-com.jpg" width="190" height="41" alt="192.com - People, Businesses and Places" class="logoPrint"></div>
+			<div class="logoPrint"><img src="http://statics.192.com/rel-3.59/images/logo/192-com.jpg" width="190" height="41" alt="192.com - People, Businesses and Places" class="logoPrint"></div>
 		</div>
 		
 			
-				<a href="/people/address-finder/" title="Search addresses now "><span id="promoBox"></span></a>
+				
+					
+						<div id="promoBox">
+							<a title="See Who is Looking for You" href="http://www.192.com/people/see-who-is-looking-for-you/"> <span class="swsImage promoImgAll">&nbsp;</span></a>
+							<p class="promoHeading"><strong><a title="20 million searches" href="http://www.192.com/people/see-who-is-looking-for-you/">20 million searches</a></strong></p>
+							<p>A month on 192.com, are any of them for you?</p>
+						</div>
+					
+					
+				
 			
-			<div id="search" class="jsInitHidden">
+			<div id="search" class="fancyForm">
 				<form action="/all/search/" class="validate jsFormHints" method="post">
 					<fieldset title="Search 192.com for People, Businesses and Places">
 						<legend>Search 192.com for People, Businesses and Places</legend>
-						<label id="dbSelect"></label>
+						<label id="dbSelect">
+							<b>Search</b>
+							<span class="fancyWrap sel roundCornersSml">
+								<span class="selRight">
+									<span class="selector">&nbsp;</span>
+								</span>
+								<span class="selLeft">
+									<span class="selected">All 192.com</span>
+								</span>
+							</span>
+						</label>
 
 						
 							
 							
 							
-								<label id="whoLab">  <b>Who / What</b> <input id="peopleBusinesses_name" name="looking_for" alt="e.g. John Smith or Tesco" tabindex="2" class="fancyForm suggestion" type="text">
+								<label id="whoLab">
+									
+									<b>Who / What</b>
+									<span class="fancyWrap inp roundCornersSml">
+										<input id="peopleBusinesses_name" name="looking_for" alt="e.g. John Smith or Tesco" tabindex="2" class="suggestion" type="text">
+									</span>								
 								</label>
+								
+								<label id="whereLab">
+									<b>Where</b>
+									<span class="fancyWrap inp roundCornersSml">
+										<input id="where_location" name="location" alt="e.g. London or SW6" tabindex="3" class="suggestion" type="text">
+									</span>
 
-								<label id="whereLab"> <b>Where</b> <input id="where_location" name="location" alt="e.g. London or SW6" tabindex="3" class="fancyForm suggestion" type="text">
 								</label>
 							
 						
 
-						<input id="searchBtn" name="searchBtn" type="submit" class="fancyForm" tabindex="4" value="Search">
+						<input id="searchBtn" name="searchBtn" type="submit" class="btn roundCornersSml" tabindex="4" value="Search">
 					</fieldset>
 				</form>
 			</div>
 		
 	</div>
 </div>
+
 		
 		
 	<div id="body">
@@ -279,7 +331,7 @@
 		</div>
 		
 		<!--[if lt IE 7]>
-	<div id="ie6UpgradePrompt" style='margin:0px; padding:0px; height:42px; cursor:pointer; text-align:center; background: url("http://statics.192.com/rel-3.43/images/ie6-warning-bg.jpg");repeat-x;' onclick='location.href="http://windows.microsoft.com/en-US/internet-explorer/products/ie/home?ocid=ie6_countdown_bannercode;"'>
+	<div id="ie6UpgradePrompt" style='margin:0px; padding:0px; height:42px; cursor:pointer; text-align:center; background: url("http://statics.192.com/rel-3.59/images/ie6-warning-bg.jpg");repeat-x;' onclick='location.href="http://windows.microsoft.com/en-US/internet-explorer/products/ie/home?ocid=ie6_countdown_bannercode;"'>
 		<a style="border:none; background:none;" href="http://windows.microsoft.com/en-US/internet-explorer/products/ie/home?ocid=ie6_countdown_bannercode" rel="external">
 			<img src="http://ie6countdown.blob.core.windows.net/assets/100/images/banners/warning_bar_0000_us.jpg" border="0" alt="You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today." />
 		</a>
@@ -397,7 +449,7 @@
  		marketing and this is used by almost all direct marketing companies to avoid sending such mail:</p>
  		<p><a href="http://www.mpsonline.org.uk/" title="Visit Mail Preference Service website" rel="external">www.mpsonline.org.uk</a></p>
  		<p>In addition to opting-out of the Edited Electoral Register through Your local council, You may also contact 192.com directly to be removed from the Electoral Registers published on the Service. To do 
- 		this please <a href="http://statics.192.com/rel-3.43/downloads/C01.pdf" rel="external" title="Click to download form">download the record removal form</a> and mail it to the address given or fax it to 0207 909 2169.</p>
+ 		this please <a href="http://statics.192.com/rel-3.59/downloads/C01.pdf" rel="external" title="Click to download form">download the record removal form</a> and mail it to the address given or fax it to 0207 909 2169.</p>
  		
  		<h3>Company Directors Database</h3>
  		<p>The Company Directors Database is a list of all UK company directors which is collated by Companies House. Company director information is in the public domain to encourage transparency regarding the
@@ -537,9 +589,9 @@ userStatus={
 
 var s_account='192-prod';
 </script>
-<script type="text/javascript" src="http://statics.192.com/rel-3.43/scripts/lib/s_code.js"></script>
+<script type="text/javascript" src="http://statics.192.com/rel-3.59/scripts/lib/s_code.js"></script>
 <script type="text/javascript">
-s.server="192app8";
+s.server="192app34";
 
 
 
@@ -565,6 +617,7 @@ s.server="192app8";
 
 
 
+
 	s.prop3=s.eVar3="Unregistered";
 
 
@@ -577,18 +630,20 @@ s.server="192app8";
 
 
 
-s.eVar22="Full";
+s.prop22="Full";
 s.eVar26="UNKNOWN";
 s.eVar27="Unknown";
 
 
 
 
-s.dstStart="3/31/2012";
-s.dstEnd="10/31/2012";
-s.currentYear="2012";
+s.dstStart="3/31/2013";
+s.dstEnd="10/31/2013";
+s.currentYear="2013";
 
-</script><noscript><p><img src="https://192-prod.112.2O7.net/b/ss/192-prod/1/H.24.4--NS/0" class="hidden" alt="192" /></p></noscript>
+
+
+</script><noscript><p><img src="https://192-prod.112.2O7.net/b/ss/192-prod/1/H.25.4--NS/0" class="hidden" alt="192" /></p></noscript>
 
 
 
@@ -596,7 +651,7 @@ s.currentYear="2012";
 	
 	
 	
-		<script type="text/javascript" src="http://statics.192.com/rel-3.43/scripts/min/oneNineTwoMin.js"></script>
+		<script type="text/javascript" src="http://statics.192.com/rel-3.59/scripts/min/oneNineTwoMin.js"></script>
 	
 	
 	
