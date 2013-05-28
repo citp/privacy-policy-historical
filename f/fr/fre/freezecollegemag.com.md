@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freezecollegemag.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023212407id_/http%3A//www.hercampus.com/privacy-policy-and-terms-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freezecollegemag.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528132945id_/http%3A//www.hercampus.com/privacy-policy-and-terms-use) for the most accurate reproduction.*
 
 # Privacy Policy and Terms of Use | Her Campus
 
@@ -98,7 +98,7 @@ Because Her Campus Media does not monitor the Postings, you agree to use and rel
 
 Notice Regarding Online Behavioral Advertising.
 
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our Web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [www.networkadvertising.org](http://www.networkadvertising.org/ "www.networkadvertising.org").
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our Web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [www.networkadvertising.org](http://www.networkadvertising.org/).
 
 Non-U.S. Users  
 If you are located outside of the United States, please note that the information you provide to us will be transferred to the United States. By using this web site, you consent to this transfer. You also consent to the adjudication of any disputes arising in connection with this website in the federal and state courts of, and in accordance with the laws of, the state of New York.
