@@ -1,75 +1,137 @@
-> *The following text is extracted and transformed from the carsite.co.uk privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208144410id_/http%3A//www.tescocars.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carsite.co.uk privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529000331id_/http%3A//www.carsite.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Tesco Cars
+# CarSite - Privacy Policy
 
-Carsite Limited (" **Tesco Cars** ") is committed to protecting your privacy. This Privacy Policy explains our data processing practices and your options regarding the ways in which your personal data is used. If you have any requests concerning your personal information or any queries with regard to our processing please contact us at [info@tescocars.com](mailto:info@tescocars.com).
+#### 1\. This Privacy Policy
 
-In this Privacy Policy, references to " **we** ", " **us** " and " **our** " are references to Tesco Cars and we refer to you as " **you** " and " **your** ".
+BuyYour Ltd is committed to protecting your personal information and other data provided to us via this and any other BuyYour Ltd web site ("Web Site"). Please read this Privacy Policy carefully as it contains important information about the use of information that you provide to us. This Privacy Policy explains what information BuyYour Ltd collects about you, and how we collect and use your information, including setting out the circumstances where we could provide it to third parties. You should also read the separate [Site Visitor Agreement](https://web.archive.org/site-visitor-agreement "Site Visitor Agreement") applicable to this Web Site.
 
-Capitalised terms in this Privacy Policy shall have the meaning given to them in the Tescocars.com [Terms & Conditions](https://web.archive.org/terms/).
+#### 2\. What information do we collect and what do we do with it?
 
-## 1\. Information collected
+2.1 To take advantage of some of our services you will be required to log on or register with the Web Site. We may use your IP address to help diagnose problems with our server and to administer our Web Site. The information will be collected when you register with the Web Site in order to use any of the services available via the Web Site.
 
-Tesco Cars collects the details provided by you on registration of your Account together with information we learn about you from your use of the Services and your visits to our web site and other sites accessible from them. We also collect information about the Tesco Cars Purchases and other related transactions which you undertake including details of payment cards used.
+2.2 If you choose to advertise on the Web Site certain personal information or data (including credit card and billing information) about you will be captured electronically or otherwise. In the event that such personal information or data is part of your advert, such personal information or data will be posted to the Web Site may by viewed by users of the Web Site.
 
-We may collect additional information in connection with your participation in any promotions or competitions offered by us and information you provide when giving us feedback or completing profile forms. We also monitor customer traffic patterns and site use which enables us to improve the service we provide.
+2.3 We may use the information that we collect to personalise your experience on the Web Site, to help you log on in future and to continue to use the Web Site, and to help us select services or materials for inclusion on the Web Site that may be of interest to you. We may need to pass your information to third parties who help us to maintain, administer or develop the Web Site but, if so, that information is only given to those third parties for that limited purpose.
 
-## 2\. Use of your information
+2.4 We also monitor traffic patterns and usage of our Web Site to help us improve our Web Site design and layout. We may pass this information to our partners or other third parties but it will not contain any personally identifying information.
 
-You consent to our using the information collected:
+2.5 BuyYour Ltd may want to contact you to notify you of news about BuyYour Ltd, changes to the Web Site, special events or new services or products that we think may interest you. BuyYour Ltd may also use your details and information to communicate to you offers for services or goods from other websites owned by BuyYour Ltd group or other companies which we think may be of interest to you. However, BuyYour Ltd will not contact you for these purposes unless you authorise us to do so by either ticking the relevant boxes (i.e. during registration on the Web Site) to authorise BuyYour Ltd to make such contact, or you provide such authorisation in writing to BuyYour Ltd or electronically via the Web Site (if applicable). If, at any time thereafter, you change your mind and would rather not be contacted by BuyYour Ltd (or the third parties described above) to receive such information, please send an email to support@carsite.co.uk with an explanation that you no longer wish to receive such information. In those circumstances, BuyYour Ltd will not contact you again in relation to the information described above in this paragraph 2.5. However, BuyYour Ltd and/or its group companies will still use your details to send you information and communications in relation to the services or products for which you have registered.
 
-  * to provide and personalise the Services to you;
-  * to facilitate the arrangements to complete any Tesco Cars Purchases;
-  * to communicate with you; and
-  * for passing onto third parties upon the terms set out in paragraph 3 below.
+#### 3\. Sharing of Information with Third Parties
+
+3.1 From time to time, CarSite may pass your details to carefully selected, trusted third parties so that they can also provide you with details of other services or products that might be of interest to you. If you do not wish us to do so, you should follow the procedure set out in paragraph 2.5 above and we will not provide your information to third parties for such purposes.
+
+3.2 We follow security procedures as required by the UK Data Protection Act 1998, in the storage and disclosure of personal information that you have given us, to prevent unauthorised access to such information. At times we may let you know about the products or services provided by carefully selected third parties. We will only deal with partners who comply with the UK Data Protection Act 1998 as amended from time to time) and any other applicable data protection legislation or regulations, or with whom we are satisfied have appropriate measures to protect data. However, BuyYourLtd shall have no liability to you in respect of any breach of security by a third party.
+
+#### 4\. Your Consent
+
+4.1 You acknowledge and agree that:
+
+4.1.1 in the course of using this Web Site or registering with it and any services offered via this Web Site, certain information about you will be captured electronically or otherwise and transmitted to CarSite or and, potentially, to any third parties as set out above or to third parties who host our web servers or assist us in maintaining this Web Site; and
+
+4.1.2 CarSite may send your information outside of the European Economic Area for processing or use in accordance with this Privacy Policy.
+
+4.2 You consent to the use, storage, or processing of your personal information by CarSite (or any third party CarSite uses for carrying out credit checks) for the purposes of carrying out any credit checks in the event that you enter into any financial transaction with CarSite.
+
+4.3 If ordered by a court of competent jurisdiction to provide any of your personal information collected by CarSite as described in this Privacy Policy, you consent to CarSite providing such personal information to that court in accordance with the court's instructions.
+
+4.4 By using this Web Site, you expressly agree to the collection and use of your information as set out above for the purposes set out in this Privacy Policy.
+
+#### 5\. Data Protection Indemnity
+
+For the purpose of the Data Protection Act 1998, you acknowledge that in the course of you advertising goods or services on our Web Site, certain personal data about your employees, agents or subcontractors or certain personal data of third parties appearing in the advertising you requested to appear on our Web Site may be captured electronically or otherwise by us. If this is the case, you shall ensure that you have obtained the express consent of any employees, agents, subcontractors or any applicable third parties to the transfer of their personal data to us to use, store and process such personal information for the purposes set out in this Privacy Policy, including where such personal data forms part of the advertising and is posted to the Web Site for accessed by users inside and outside of the European Economic Area. You shall indemnify CarSite from and against all claims by any employees, agents, subcontractors or any third parties arising out of your failure to obtain the consent described in this paragraph 5.
+
+#### 6\. Our Responsibilities - How does CarSite protect Your Information?
+
+6.1 When you enter into on-line credit or other payment card transactions (e.g. ordering advertising services on the Web Site), we offer the use of a secure server. The secure server software encrypts the information that you input before it is transmitted to us. To prevent unauthorised access, we follow legally required security procedures in the storage and disclosure of information that you have given to us. This means that sometimes we may ask for proof of identity before we disclose personal information to you.
+
+6.2 Areas of the Web Site where transactions are entered into, reviewed or transmitted may be password protected. You can help to preserve your privacy by never sharing your password with anyone else.
+
+6.3 We seek to limit our employees' access to your information about you to those employees who need to have such information to service your account. We emphasise to our employees the confidential nature of user information and the high level of importance that CarSite places on maintaining this confidentiality.
+
+#### 7\. 'Cookies'
+
+7.1 Cookies - What is a Cookie?: A cookie is a piece of information that a web site transfers to the cookie file of the browser on your computer's hard drive. More information regarding the use of cookies can be found at <http://www.aboutcookies.org/Default.aspx?page=3>
+
+7.2 How to reject/deactivate Cookies: Most browsers accept cookies automatically but you have the ability to accept/decline cookies by altering the settings in your browser to prevent automatic acceptance of cookies. If you decline/disable cookies, you may not be able to use all the interactive features of the Web Site or the Web Site may not be available to you. To remove cookies from your web browser or to obtain further details on cookies, including information on persistent and session cookies, please go to <http://www.aboutcookies.org/Default.aspx?page=2>
+
+#### 7.3 Why we use cookies
+
+  * Cookies enable us to identify your device, or you when you have logged in. 
+  * We use cookies that are strictly necessary to enable you to move around the site or to provide certain basic features. 
+  * We use cookies to enhance the functionality of the website by storing your preferences, for example. 
+  * We also use cookies to help us to improve the performance of our website to provide you with a better user experience. 
 
 
 
-We will use your contact details to communicate with you. We may use your information to send you offers and news about Tesco group products and services or those of other carefully selected companies which we think may be of interest to you. We also like to hear your views to help us improve our service. We may contact you by email for these purposes. If you do not wish to be contacted by us in this way, please send an e-mail to the address provided above.
+CarSite.co.uk may use online behavioural advertising cookies to enable us to tailor this advertising and make it more relevant to you.
 
-We may also use your information to verify your identity and prevent or detect fraud. In performing these checks your information may be disclosed to credit reference agencies, who may keep a record of that information. This is not a credit check and your credit rating will be unaffected.
+We don't sell the information collected by cookies, nor do we disclose the information to third parties, except where required by law (for example to government bodies and law enforcement agencies).
 
-Please note that there may be instances where it may be necessary for us to communicate with you, in any event, for administrative or operational reasons relating to the Services.
+If you wish to control what cookies are set on your device through the CarSite.co.uk website then you can find out how to do this below.
 
-## 3\. Disclosures of your information
+#### 7.4 Why we collect your data?
 
-We may disclose your information to any relevant or interested third party who has a legitimate interest in progressing any transaction or proposed transaction (including Tesco Cars Purchases) in which you have indicated that you wish to participate. These will include:
+By collecting your data, it allows us to understand what your needs and wants are, provide personalised content and match the most relevant adverts and services for you. It also allows us to provide targeted offers and services you may be interested to hear about.
 
-  * the Seller;
-  * any organisation involved in the financial arrangements of any transaction; and
-  * other service providers or duly authorised agents.
+#### 7.4.1. Essential Cookies
 
+These cookies are essential for the running of our websites. Without the use of these cookies parts of our websites would not function. For example our mobile site uses cookies to help us identify which of our readers is viewing the site on a mobile device.
 
+#### 7.4.2. Analytical Performance Cookies
 
-In addition, your information may be passed to and used by all Tesco companies.
+We use these types of cookies to monitor our websites performance and how their users may use it. These cookies provide us with information that helps us provide better products to their users and also to identify any areas that may need maintenance.
 
-We will never pass your personal information to anyone else, except:
+#### 7.4.3. Functional Cookies
 
-  * where we are required or permitted to do so by law;
-  * where the disclosure is necessary for the performance of our operations i.e. mail delivery, hosting services, and payment of your Account;
-  * to any successors in title to our business; and
-  * to suppliers that process information on our behalf both in the UK and abroad.
+Functional cookies are used to remember your preferences on our websites. This can be anything from remembering your city in a weather forecast or saving your username.
 
+#### 7.4.4. Behavioural Advertising Cookies/Third Party Cookies
 
+We, and our advertisers/sponsors, may use cookies to provide tailored advertising to you which we believe are relevant to you.
 
-We may also use and disclose information in aggregate (so that no individual customers are identified) for marketing and strategic development purposes.
+Online behavioural advertising is a way of providing advertisements on the websites you visit and making them more relevant to your interests. This is done by grouping together shared interests based upon previous web browsing activity. Advertising is then displayed to you when you visit a website which matches these interests.
 
-## 4\. Other web sites
+Behavioural advertising is based upon your web browsing activity over a period of time - so it's different to advertising you may see when you're looking for something online using a search engine (eg Google) or on the website you may be visiting at a particular time.
 
-Tescocars.com may contain links to other web sites which are outside our control and are not covered by this Privacy Policy. If you access other websites using the links provided, the operators of these sites may collect information from you which will be used by them in accordance with their privacy policy, which may differ from ours.
+As an example, you may be doing research in order to buy a car and read a number of different articles on a number of different websites. If a car manufacturer was part of an advertising network, they may think that you are interested in buying a car and serve you with one of their adverts for one of their cars. It is possible that from reading these articles elsewhere, you would see this advert on one of our or someone else's websites.
 
-## 5\. Cookies
+We cannot control nor do we have access to any cookies placed on your computer by third party advertisers and sponsors.
 
-"Cookies" are small pieces of information sent by a web server to a web browser, which enables the server to collect information from the browser. You can find out more about the way cookies work on [http://www.cookiecentral.com](http://www.cookiecentral.com/). Tesco Cars uses cookies for a number of purposes, for instance to enable us to simplify the logging on process for registered users, to help ensure the security and authenticity of registered users, to provide the mechanisms for your use of the Services and to enable traffic monitoring.
+We may also track IP addresses. An IP Address is a number that can identify an Internet Service Provider and country location. It cannot provide personal information
 
-Non-registered visitors of the site are sent anonymous cookies to keep track of their browsing patterns and build up a demographic profile. In addition, any visitor who has clicked on a Tescocars.com advertisement on another site that links to Tescocars.com will be sent anonymous cookies that will allow us to analyse advertising effectiveness and manage our relationship with affiliate sites.
+#### 7.5 How to control the use of cookies
 
-Whilst you do not need to allow your browser to accept cookies in order to browse much of our web site, you must have cookies enabled if you wish to use the Services or access any areas reserved for registered users.
+You are not obliged to accept cookies and may modify your browser so that it will not accept cookies. The browser you use to surf the web not only allows you to see the cookies that you have got but also allows you to control their use.
 
-Most browsers allow you to turn off the cookie function. If you want to know how to do this please look at the help menu on your browser. As described above this will restrict your use of the Services.
+You can control them by allowing them, deleting them individually or deleting all of them. You can also set your browser to not accept cookies altogether. If this option is selected, you should be aware that many websites will not function properly or at all. It may be possible to set your browser to not accept cookies and ask for your consent before each cookie is set on your device. This gives you control over what is set on your device, however has the drawback of slowing down your browsing experience.
 
-## 6\. Access rights
+There are different levels of control too. You are able to prevent just third party cookies being deployed, effectively opting out of behavioural advertising, and some even allow you to block specific companies you do not wish to deploy a cookie, instead of selecting all companies.
 
-To obtain a copy of the personal information Tesco Cars holds about you, please write with full details to us at: Tescocars.com, Sussex Innovation Centre, Science Park Square, Falmer, East Sussex BN1 9SB, enclosing your cheque or postal order for £10 payable to Carsite Limited.
+In order to manage your cookies, please select your browser from the list below and follow the instructions:
 
-Last Updated: 03/03/2011
+#### 7.6 How can I prevent Online Behavioural Advertising?
+
+Further to using your browser to controlling the use of cookies, there are also other ways that you can opt out of Online Behavioural Advertising.   
+The "Your Online Choices" page provided by the [Internet Advertising Bureau](http://www.youronlinechoices.com/uk/your-ad-choices) (IAB), provides an easy way to opt out of behavioural advertising from each (or all) of the networks represented by the IAB.
+
+#### Flash Cookies
+
+When you use one of our websites that uses Macromedia Flash Player, a small Flash Cookie may be used. The purpose of using these cookies is to store your flash player preferences and enhance your browsing experience.   
+Flash Cookies are stored on your computer in a similar way to standard cookies, except they are stored in a different location. Due to this, it is not possible to block or manage Flash Cookies directly from your browser.   
+In order to manage or delete Flash Cookies, please visit Adobe's website, which provides full information by [clicking here](http://kb2.adobe.com/cps/526/52697ee8.html).
+
+#### 7.7 Useful information about Cookies
+
+Further information about cookies can be found on the following websites:
+
+#### 8\. Changes to Privacy Policy
+
+We reserve the right to add to or change the terms of this Privacy Policy in our sole discretion, without prior notice to you. If we change this Privacy Policy, we will post the new Privacy Policy on the Web Site, and it will become effective from the time of posting to the Web Site. Please visit this Privacy Policy on a regular basis to make sure you have read the latest version and you understand what we do with your information. Wherever possible, we will give you notice of any changes prior to their implementation.
+
+#### 9\. Ad Serving
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>
+
+**Feedback:** If you have any queries or problems with regard to this Privacy Policy or the uses to which we put your information, please e-mail us at support@carsite.co.uk.
