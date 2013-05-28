@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the digitalplayground.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126091458id_/http%3A//www.digitalplayground.com/docs/pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalplayground.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528024717id_/http%3A//www.digitalplayground.com/docs/pp) for the most accurate reproduction.*
 
-# Privacy Policy
+# Digital Playground :: Privacy Policy
 
 * * *
 
@@ -8,7 +8,7 @@ PLEASE READ THIS PRIVACY POLICY STATEMENT CAREFULLY. BY YOUR SUBSCRIPTION TO AND
 
 IF YOU DO NOT EXPRESSLY AGREE WITH ALL OF THE TERMS OF THIS PRIVACY POLICY STATEMENT YOU SHOULD NOT SUBSCRIBE TO OR USE THIS SITE. 
 
-The present Privacy Policy Statement details important information regarding the use and disclosure of user information and/or data gathered regarding subscriber ("you") and members of DigitalPlayground.com network ("our", "we", "us" the "site") websites including but not limited to, JesseJane.com, RileySteele.com, BibiJones.com, JacksPlayground.com, RobbyD.com, and DPscenes.com. In addition, this Privacy Policy sets forth all relevant policies and practices for the sites. 
+The present Privacy Policy Statement details important information regarding the use and disclosure of user information and/or data gathered regarding subscriber ("you") and members of DigitalPlayground.com network ("our", "we", "us" the "site") websites including but not limited to, BibiJones.com, CodeOfHonorXXX.com, DigitalPlayground.com, JacksPlayground.com, JesseJane.com, Nurses2XXX.com, Pirates2XXX.com, RileySteele.com, RobbyD.com, SelenaRoseXXX.com, StoyaXXX.com, TopGunsXXX.com and Dpscenes.com. In addition, this Privacy Policy sets forth all relevant policies and practices for the sites. 
 
 **USE**
 
