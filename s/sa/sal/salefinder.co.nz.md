@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the salefinder.co.nz privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122110948id_/http%3A//salefinder.co.nz/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salefinder.co.nz privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529174941id_/http%3A//salefinder.co.nz/cms/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy - Sale Finder
+# Online Retail Specials Catalogues - Sale Finder
 
 **SaleFinder Privacy Policy**
 
