@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fitnessblackbook.com privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121073035id_/http%3A//fitnessblackbook.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fitnessblackbook.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529193635id_/http%3A//fitnessblackbook.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Fitness Black Book
 
