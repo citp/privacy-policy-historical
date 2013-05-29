@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the southperry.net privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126090136id_/http%3A//www.southperry.net/page-handler.php%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southperry.net privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529101950id_/http%3A//www.southperry.net/page-handler.php%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Southperry.net - Privacy policy
 
@@ -64,5 +64,3 @@ Any information you transmit to us, intentionally or otherwise, may be retained 
   * If we decide to change our privacy policy, we will post those changes on this page. 
 
 
-
-[Links monetized by  VigLink](http://www.viglink.com/policies/ftc?vgtag=badge)
