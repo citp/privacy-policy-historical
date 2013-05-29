@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the madgam.es privacy policy that was archived on 2012-12-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121214095339id_/http%3A//www.madgam.es/privacy%3Fs%3D%23top) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the madgam.es privacy policy that was archived on 2013-05-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130529222912id_/http%3A//www.madgam.es/privacy%3Fs%3D%23top) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -10,17 +10,20 @@
 <meta property="fb:admins" content="1173001342">
 <meta property="fb:admins" content="1310712990">
 <meta property="fb:admins" content="1318183426">
+<meta property="fb:admins" content="100004475952123">
+<meta property="fb:admins" content="100000750198681">
+
 
 
 <!--base target="_top" /-->
-<link rel="stylesheet" type="text/css" href="http://www.madgam.es/static/css/style.css">
-<!--[if IE]><link rel="stylesheet" href="http://www.madgam.es/static/css/ie.1.4.css" type="text/css"><![endif]-->
+<link rel="stylesheet" type="text/css" href="http://www.madgam.es/static/site/css/style.css">
+<!--[if IE]><link rel="stylesheet" href="http://www.madgam.es/static/site/css/ie.1.4.css" type="text/css"><![endif]-->
 
 
 
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://c0028267.cdn1.cloudfiles.rackspacecloud.com/js/lib/jquerytools/1.2.5/full/jquery.tools.min.js"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://www.madgam.es/static/site/js/lib/jquerytools/1.2.5/full/jquery.tools.min.js"></script>
 
-<script src="http://www.madgam.es/static/js/script.js"></script>
+<script src="http://www.madgam.es/static/site/js/script.js"></script>
 
 <script>
 var _gaq = _gaq || [];
@@ -29,40 +32,43 @@ _gaq.push(['_setDomainName', 'www.madgam.es']);
 _gaq.push(['_trackPageview']);
 
 (function() {
-	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 })();
 </script>
 <script>
 var App = {
-	appId: '180125872040115',
-	appCanvas: 'mg-games',
-	appName: 'Mad Games',
-	basePath: 'http://www.madgam.es/',
-	fbBasePath: 'http://apps.facebook.com/mg-games/',
-	fbuid: '',
-	s: '',
-	pageHeight: 1150,
-	pagePath: 'vacy',
-	loginUrl: '',
-	loginScope: 'publish_stream,publish_actions',
-	logoutUrl: 'http://www.madgam.es/privacy?s=&logout=1',
-	hrefToCanvas: false,
-	skipLogin: true,
-	config: {
-		userStateUpdateFirstInterval: 2000,
-		userStateUpdateInterval: 300000
-	},
-	logged: false,
-	user: {
-		id: "",
-		firstname: "",
-		lastname: "",
-		picture: "",
-		permissions: null	},
-	visitTime: new Date().getTime()
+    appId: '180125872040115',
+    appCanvas: 'mg-games',
+    appName: 'Mad Games',
+    basePath: 'http://www.madgam.es/',
+    fbBasePath: 'http://apps.facebook.com/mg-games/',
+    fbuid: '',
+    s: '',
+    pageHeight: 1150,
+    pagePath: 'vacy',
+    loginUrl: '',
+    loginScope: 'publish_actions',
+    logoutUrl: 'http://www.madgam.es/privacy?s=&logout=1',
+    hrefToCanvas: false,
+    skipLogin: true,
+    config: {
+        userStateUpdateFirstInterval: 2000,
+        userStateUpdateInterval: 300000
+    },
+    logged: false,
+    user: {
+        id: "",
+        firstname: "",
+        lastname: "",
+        picture: "",
+        permissions: null    },
+    visitTime: new Date().getTime()
 };
+function onReady(cb) {
+    cb.call();
+}
 </script>
 
 </head>
@@ -70,71 +76,71 @@ var App = {
 <div id="fb-root"><script src="https://connect.facebook.net/en_US/all.js" async=""></script></div>
 <script>
 window.fbAsyncInit = function() {
-	initFacebook();
-	
-	// FB.Event.subscribe('auth.login', function(response) {
+    initFacebook();
+    
+    // FB.Event.subscribe('auth.login', function(response) {
         //window.location.reload();
     //});
-	// FB.Event.subscribe('auth.logout', function(response) {
-		 //window.location.reload();
+    // FB.Event.subscribe('auth.logout', function(response) {
+         //window.location.reload();
     //});
-	 
-	 
-	/* FB.getLoginStatus(function(response) {
-		var propic = document.getElementById('pro-pic');						
-		if (response.status === 'connected' || response.status === 'not_authorized') {	
-			var authout = document.getElementById('status');
-			var picout = document.getElementById('avater');
-			authout.innerHTML = "<div id='auth-out'><div id='name'></div>Welcome "+App.user.firstname+"<div id='fb-root'></div><a href='#' onclick='fblogout(); return false;'><img src='http://www.madgam.es/static/images/logout.png' /></a></div>"
-			picout.innerHTML = "<fb:profile-pic linked='false' uid='' size='square'></fb:profile-pic>"
-			propic.innerHTML = "<fb:profile-pic linked='false' uid='' size='square'></fb:profile-pic>"
-		}
-		else	{
-			var authin = document.getElementById('status');
-			var picin = document.getElementById('avater');
-			authin.innerHTML = "<div id='auth-in'><div id='fb-root'></div><a href='#' onclick='fblogin(); return false;'><img src='http://www.madgam.es/static/images/facebook_connect.png' /></a></div>"
-			picin.innerHTML = "<img src='http://www.madgam.es/static/images/avater.png'>"
-			propic.innerHTML = "<img src='http://www.madgam.es/static/images/avater.png'>"
-		}
-	}, true);*/
+     
+     
+    /* FB.getLoginStatus(function(response) {
+        var propic = document.getElementById('pro-pic');                        
+        if (response.status === 'connected' || response.status === 'not_authorized') {  
+            var authout = document.getElementById('status');
+            var picout = document.getElementById('avater');
+            authout.innerHTML = "<div id='auth-out'><div id='name'></div>Welcome "+App.user.firstname+"<div id='fb-root'></div><a href='#' onclick='fblogout(); return false;'><img src='http://www.madgam.es/static/site/images/logout.png' /></a></div>"
+            picout.innerHTML = "<fb:profile-pic linked='false' uid='' size='square'></fb:profile-pic>"
+            propic.innerHTML = "<fb:profile-pic linked='false' uid='' size='square'></fb:profile-pic>"
+        }
+        else    {
+            var authin = document.getElementById('status');
+            var picin = document.getElementById('avater');
+            authin.innerHTML = "<div id='auth-in'><div id='fb-root'></div><a href='#' onclick='fblogin(); return false;'><img src='http://www.madgam.es/static/site/images/facebook_connect.png' /></a></div>"
+            picin.innerHTML = "<img src='http://www.madgam.es/static/site/images/avater.png'>"
+            propic.innerHTML = "<img src='http://www.madgam.es/static/site/images/avater.png'>"
+        }
+    }, true);*/
 };
 (function() {
-	var e = document.createElement('script');
-	e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
-	e.async = true;
-	document.getElementById('fb-root').appendChild(e);
+    var e = document.createElement('script');
+    e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
+    e.async = true;
+    document.getElementById('fb-root').appendChild(e);
 }());
 </script>
 
 <div id="height_setter">
-	<div id="back">
+    <div id="back">
 <a id="hd" name="hd"></a>
 
 <div id="wrapper">
-	    <div id="header">
+        <div id="header">
             <div id="links_search">
-			            </div>
+                        </div>
         <div id="header_top" class="clearfix">
             <div id="logo">
-                <a href="http://www.madgam.es/?s="><img src="http://www.madgam.es/static/images/pixel.gif"></a>
+                <a href="http://www.madgam.es/?s="><img src="http://www.madgam.es/static/site/images/pixel.gif"></a>
             </div>
             <div id="like_box">
-	            <iframe frameborder="0" scrolling="no" name="app_like_iframe" allowtransparency="true" src="http://www.veenx.com/fb/common/like.php?app_id=180125872040115"></iframe>
+                <iframe frameborder="0" scrolling="no" name="app_like_iframe" allowtransparency="true" src="http://www.veenx.com/fb/common/like.php?app_id=180125872040115"></iframe>
             </div>
-			<div id="fb-login">
-				<div id="status">
-					<div id="fb-root"></div>
-						
-						<div id="auth-box">
-						<a href="#" onclick="fblogin(); return false;"><img src="http://www.madgam.es/static/images/fbbutton.png"></a>
-						</div>
-									</div>
-			</div>
+            <div id="fb-login">
+                <div id="status">
+                    <div id="fb-root"></div>
+                       
+                        <div id="auth-box">
+                        <a href="#" onclick="fblogin(); return false;"><img src="http://www.madgam.es/static/site/images/fbbutton.png"></a>
+                        </div>
+                                    </div>
+            </div>
         </div>
         <div id="nav" class="clearfix">
             <ul id="nav-menu">
                 <li><a href="http://www.madgam.es/?s=">Home</a></li>
-					<li><a href="http://www.madgam.es/browse/action?s=">Action</a></li><li><a href="http://www.madgam.es/browse/adventure?s=">Adventure</a></li><li><a href="http://www.madgam.es/browse/sports?s=">Sports</a></li><li><a href="http://www.madgam.es/browse/shooting?s=">Shooting</a></li><li><a href="http://www.madgam.es/browse/strategy?s=">Strategy</a></li><li class="last"><a href="http://www.madgam.es/browse/puzzles?s=">Puzzles</a></li>                <li class="rcurve"><div class="tc"></div><div class="bc"></div></li>
+                    <li><a href="http://www.madgam.es/browse/action?s=">Action</a></li><li><a href="http://www.madgam.es/browse/adventure?s=">Adventure</a></li><li><a href="http://www.madgam.es/browse/sports?s=">Sports</a></li><li><a href="http://www.madgam.es/browse/shooting?s=">Shooting</a></li><li><a href="http://www.madgam.es/browse/strategy?s=">Strategy</a></li><li class="last"><a href="http://www.madgam.es/browse/puzzles?s=">Puzzles</a></li>                <li class="rcurve"><div class="tc"></div><div class="bc"></div></li>
             </ul>
                 <div id="search_box">
                     <form id="search_form" method="get" action="http://www.madgam.es/search" class="clearfix">
@@ -143,7 +149,7 @@ window.fbAsyncInit = function() {
                         <input type="hidden" name="s" value="">
                     </form>
                 </div>
-		</div>
+        </div>
                     </div><style>
 h1{margin:0 0 15px 5px}
 .subtitle{color: #999; font-size:14pt; margin: 0 0 20px;}
@@ -172,28 +178,28 @@ h1{margin:0 0 15px 5px}
     </div>
 </div>
 </div></div>
-			</div> <!-- end of div back -->
-			<div id="footer">
-								<div class="inner clearfix">
-					<div class="bottomTm">
-						<div class="copyright">
-							Mad Games © 2012						</div>
-						<div class="links">
-							<a href="http://www.madgam.es/privacy?s=#top">Privacy Policy</a>
-																			   </div>
-				   </div>
-			   </div>
-			</div>
+            </div> <!-- end of div back -->
+            <div id="footer">
+                                <div class="inner clearfix">
+                    <div class="bottomTm">
+                        <div class="copyright">
+                            Mad Games © 2013                        </div>
+                        <div class="links">
+                            <a href="http://www.madgam.es/privacy?s=#top">Privacy Policy</a>
+                                                                               </div>
+                   </div>
+               </div>
+            </div>
 
 
 
 
-<script src="http://www.madgam.es/static/js/features.min.js"></script>
+<script src="http://www.madgam.es/static/site/js/features.min.js"></script>
 <script src="http://www.madgam.es/gamesdata"></script>
 <script>
 // load features
 $(function() {
-		initCoreFeatures();
+        initCoreFeatures();
 });
 </script>
 
