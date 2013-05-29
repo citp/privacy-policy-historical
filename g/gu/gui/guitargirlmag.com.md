@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the guitargirlmag.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015063603id_/http%3A//www.guitargirlmag.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guitargirlmag.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530012903id_/http%3A//www.guitargirlmag.com/privacypolicy) for the most accurate reproduction.*
 
-# Guitar Girl Magazine » Privacy Policy
-
-**Guitar Girl Magazine**
-
-**Privacy Policy**
+# Guitar Girl Magazine - An Ezine about Female Guitarists » Privacy Policy
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available at the bottom portion of our website in a section titled “Privacy Policy.”  This notice applies to all information collected or submitted on the GuitarGirlMag.com web site.
 
@@ -46,7 +42,7 @@ On some pages, you can submit information about other people. For example, if yo
   * Phone Number 
   * E-mail Address 
   * Website URL, etc.
-  * 
+
 
 
 You may choose to participate in various promotional offers provided through us or through our partners.  In these cases, you may provide various kinds of identifiable information such as name, e-mail, address, phone number, etc.  However, we will make it known if the offer is promotional and what information will be sent to a third party.
@@ -83,7 +79,7 @@ This web site contains links to other sites. Please be aware that we GuitarGirlM
 
 **Tell-A-Friend:  (currently not in use)**
 
-If and when GuitarGirlMag.com decides to use the Tell-A-Friend Feature, if a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and email address. GuitarGirlMag.com will automatically send the friend a one-time email inviting them to visit the site. GuitarGirlMag.com stores this information for the sole purpose of sending this one-time email. The friend may contact GuitarGirlMag.com at [info@guitaritupforgirls.com](mailto:info@guitaritupforgirls.com) to request the removal of this information from their database. 
+If and when GuitarGirlMag.com decides to use the Tell-A-Friend Feature, if a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and email address. GuitarGirlMag.com will automatically send the friend a one-time email inviting them to visit the site. GuitarGirlMag.com stores this information for the sole purpose of sending this one-time email. The friend may contact GuitarGirlMag.com at [info@guitargirlmag.com](mailto:info@guitargirlmag.com) to request the removal of this information from their database. 
 
 **Our Commitment To Data Security:**
 
@@ -109,6 +105,6 @@ We do not purposely sell products to individuals under the age of 18.  If you a
 
 **How To Contact Us:**
 
-Should you have other questions or concerns about these privacy policies, please send us an email at [info@guitaritupforgirls.com](mailto:info@guitaritupforgirls.com).  . 
+Should you have other questions or concerns about these privacy policies, please send us an email at [info@guitargirlmag.com](mailto:info@guitargirlmag.com).  . 
 
 Dated:  May 23, 2012
