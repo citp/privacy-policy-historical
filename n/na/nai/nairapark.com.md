@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nairapark.com privacy policy that was archived on 2012-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121128040825id_/http%3A//www.nairapark.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nairapark.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529042707id_/http%3A//www.nairapark.com/policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | NairaPark.com
 
@@ -20,6 +20,7 @@ This site contains links to other sites. We are not responsible for the privacy 
 
 We may use an outside ad company to display ads on our site and these ads may contain cookies. Third parties may be placing and reading cookies on your browser, or using web beacons to collect information, in the course of ads being served on our website. In order to have full access to Nairapark.com, you are required to enable JavaScript and cookies in your browser.
 
-If you do not agree to this Privacy Policy, please do not access Nairapark.com. Please notify us if any part of this policy is not clear to you or if you have any suggestion that could help us improve our policy or site at large. You may wish to correct or request a copy of your information that is with us at any time. Remember to send further enquiries to info@nairapark.com   
-  
----
+If you do not agree to this Privacy Policy, please do not access Nairapark.com. Please notify us if any part of this policy is not clear to you or if you have any suggestion that could help us improve our policy or site at large. You may wish to correct or request a copy of your information that is with us at any time. Remember to send further enquiries to info@nairapark.com 
+
+|   
+---|---
