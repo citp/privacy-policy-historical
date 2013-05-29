@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the awdit.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126162756id_/http%3A//www.awdit.com/terms-and-conditions/%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awdit.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529072948id_/http%3A//www.awdit.com/terms-and-conditions/%23privacy) for the most accurate reproduction.*
 
 # Terms, privacy and security - awdit - The driver, software, & hardware database
 
