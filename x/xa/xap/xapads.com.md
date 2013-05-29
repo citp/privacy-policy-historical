@@ -1,34 +1,63 @@
-> *The following text is extracted and transformed from the xapads.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220131752id_/http%3A//xapads.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xapads.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529131130id_/http%3A//www.xapads.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Display Advertising - Banner Ads, Video Ads, Display Banners, Popunders, Innovations
 
-What this policy covers?
+Privacy Policy
 
-This policy covers business contact information, such as name, email address, telephone number and address and other work-related information, that visitors provide to Xapads online on publicly available Xapads sites.If you are a business enrolled in advertiser programs that are subject to the Advertiser Master Services Terms and Conditions, Insertion Order(s) or other advertising or marketing agreements (collectively, "Advertising Agreement"), please refer to your Advertising Agreement to learn more about how Xapads may use information about your business. Types of information we collect and how we use it:
+The Following Privacy Policy Details the Xapads Pledge to Keep Information Provided By Our Clients Private, Safe & Secure! At Xapads, we take online user privacy very-very seriously and we strongly recommend you to fully read our Privacy policy; explaining how we collect, utilize and protect information and in what circumstances we share it. Xapads - Work Profile
 
-The following describes what information Xapads Advertising Solutions collects from visitors to the Xapads sites as well as outside the Xapads network of web sites, and how we may use it:   
-Email addresses and related information
+Xapads excels at online display advertising. We purchase & vend online display ad space, from web publishers to agencies and advertisers. In addition, we maneuver online ad campaigns, utilizing various forms of targeting. As our targeting procedure, we gather data and information about the behavior of online customers and convert the data into anonymous user profile. We respect and adhere to the IAB India Principles for Online Behavioral Advertising.   
+What we collect?
 
-There may be opportunities for visitors to the site to sign-up to receive email communications. Visitors may subscribe by providing an email address and other requested information. Recipients of email marketing messages will have the opportunity to unsubscribe from future messages via the link(s) provided within the message.   
-Cookies and web beacons on Xapads web sites
+We collect the following information from our clients:
 
-All browsers offer "cookies" and if you permit their use, they will store small amounts of data on your computer about your visit to the site that placed the cookie. A cookie is a small text file. It is not a program, or a plug-in. It could not be used as a virus, and it cannot access your hard drive. Cookies simply assist in tracking which features you like the most and allow content to be customized upon your return, according to prior preferences at that site. They would not gather or hold any personal information. 
+  * Contact info like name, phone number, mailing address, email address and company name.
+  * Billing information
+  * Pan number 
 
-The information collected by these third-party advertising companies through the use of these web beacons is not personally identifiable. 
 
-In addition to the above, Xapads's email delivery vendor may employ web beacons and cookies within HTML email messages sent on our behalf and on the Xapads sites. The use of cookies and web beacons described above help Xapads to measure the effectiveness of our advertising and how visitors use the Xapads sites.   
-Promotions and sweepstakes
 
-From time to time, Xapads may sponsor or host promotions and sweepstakes where we collect information. Use and sharing of this information will be disclosed in promotion and sweepstakes rules or on the page where you sign-up.   
-IP addresses and information specific to your computer
+Why we collect information?
 
-Xapads logs IP information when you visit our sites, including the Xapads sites. In addition to this information, Xapads collects information that your computer's browser automatically reports to us such as information about your operating system and browser version.  
-Security Measures
+We utilize the collected information to mix and match advertisements to profiles of web users, who are more receptive as compared to others. We strongly believe relevant ads can be beneficial to both the advertisers and users, while rendering a less unruly user experience.   
+Cookies help us differentiate between individual users, regulate ad frequency, tailor -fit homepages and so on. Moreover, IP addresses aid us diagnose server issues and helps us in administrating Xapads.com. Without you IP address it will be impossible for us keeping our services operational 24*7, and we want to be available for you round the clock.   
+Every mail dropped into your inbox is to meet your requirements. Through our emails we provide our clients with website updates, allow you to register for sweepstakes and exclusive deals and inform you of new features. Please note, your email ids help us to respond and readdress to any queries you have asked, complains made and issues you have encountered. We need your email ids so we can address the issues.   
+By registering at Xapads, you consent to the use & methods of disclosure as described in our Privacy policy herewith.   
+How we collect information?
 
-We protect the personal information you share with us. For example, if you make an online transaction with us, We preserve all the information you provides to us. Access to your personal information is limited to people who need it to do their job. Authorized third-party agents may also need access to some of your personal information, But We do not otherwise share your personal information with third parties, unless you have granted us permission to do so. We may collect and possibly share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of 's terms of use, or as otherwise required by law.   
-Fraudulent Activity
+We collect your personal information via two-methods  
+Information you provide to us through sign ups, emails or voluntary registration process  
+Information that is derived via automated tracking mechanisms  
+Pixels & Cookies allows us to assign every device visiting our website or utilizing our services a Unique ID. The unique ID assigned is utilized to match the gathered information to the device without the need of any personally identifiable information.   
+What are Pixels?
 
-Fraudulent Activity on Xapads must result from genuine user interest. Any method that artificially generates clicks or impressions on your Xapads is strictly prohibited. These prohibited methods include but are not limited to repeated manual clicks or impressions, using robots, automated click and impression generating tools, third-party services that generate clicks or impressions such as paid-to-click, paid-to-surf, autosurf, and click-exchange programs, or any deceptive software. Please note that clicking on your own ads for any reason is prohibited. Failure to comply with this policy may lead to your account being disabled. To Know more about Account Disability, Please Click Here   
-Policy Updates
+Pixels are known as event-trackers for actions and visitations on a website. A pixel can, for instance, record a view of the webpage or validate an e-sale of a product after watching an advertisement. Moreover, when a pixel is incited, it stores the information in a cookie.  
+What are cookies?
 
-All updates to this policy will be posted here. Contact at: support@Xapads.com to aid in processing your request, please include the following details: Contact information (your name, address, e-mail address, etc.) Name of the program where you want the update applied Details of the request (e.g. change of e-mail address, unsubscribe from a newsletter, review of personal information, etc.) Note: This policy also covers the personal information you provide to Customer Support. 
+Cookies are perhaps, small text files, which are utilized on the user's device by his/her web browser.  
+Cookies do not have programms and are only accessed via user's web browser. They make sure a user-amiable web experience by means of storing information about the usage of the website & any preferences for functions/features, like privacy settings, relevant ads, language preferences or shopping baskets.   
+We do not at all link the information we store in cookies to any sort of PIL you submit while on our website.   
+Data from Third Parties
+
+We may purchase data from the 3rd-parties in order to further enrich profile we already possess or expand & upgrade our profile collection. As with the data collected by Xapads, any purchased data from 3rd-parties does not consists of personally identifiable information (PIL).   
+Security
+
+Security of your personal info is extremely important to us. When you input your sensitive information ( Tax Id/SSN) on our online order forms, we encrypt the transmission of given information utilizing SSL (secure socket layer technology). We abide by the generally accepted standards to safeguard your personal details submitted to us. We do not guarantee or warrant absolute security, since no means of transmission over the web or electronic storage is 100% secure.   
+Accessing & Updating your Personal Information
+
+We provide mechanisms for amending, correcting or updating your personal information for many of the services provided by us. You may change or remove any of your personal details at any time via signing in your account and with the help of features like my account and edit.  
+Children's Privacy
+
+The websites & services by Xapads are not directed at or intended for people under 13 years of age. Regardless of age , we do not intentionally collect or solicit any personally identifiable information, nor do we market our services to children below the age of 13 years.   
+Disclosure of Information
+
+We may share personally identifiable information or any other details with our parent, divisions, affiliates and subsidiaries. We reserve the right to disclose our data to clients, partners, advertisers who work on our behalf. However, the information handed over to third parties does not include PIL.   
+Third parties are obligated to use the information in compliance with applicable regulations and laws.   
+We may transfer your PIL as an asset in conjunction with an actual/proposed merger or sale (comprising any transfers done as a part of bankruptcy or liquidation proceedings) involving all or just a part of a corporate reorganization /business, change in control or stock sale.   
+Additionally, Xapads may disclose your Contact info in special instances where we have a reason to believe that revealing the respective details is important to contact, identify or bring legal action against someone who might be violating the terms of use or is prejudicial to our rights, clients or property.   
+We make use of aggregate and non-identifying information to better design our website as well as for administrative & business purposes. We may use or share with 3rd-parties for any purpose aggregated information, which contains no PIL. We may share information when compelled by law, a court, legal procedure and governmental agency.   
+Changes to Privacy Policy
+
+Xapads reserves the right to amend, add or delete content in this privacy policy at any given time, without any notice. When visiting our website or utilizing our services, the terms of this privacy policy as displayed at that time apply.   
+Privacy Contact Information   
+In case, you have any queries or concerns about our privacy policy, please contact us. 
