@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collegefootballnews.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604030956id_/http%3A//www.scout.com/3/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegefootballnews.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529083600id_/http%3A//www.scout.com/3/privacy-policy.html) for the most accurate reproduction.*
 
 # Scout.com: Privacy Policy
 
