@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cipd.co.uk privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010082944id_/http%3A//www.cipd.co.uk/absite/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cipd.co.uk privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529141518id_/http%3A//www.cipd.co.uk/absite/privacy.htm) for the most accurate reproduction.*
 
 # CIPD - Privacy policy
 
@@ -35,7 +35,8 @@
   5. advising you of other products and services which may be of interest 
   6. inviting you to participate in research studies and/or market research activities 
   7. compiling case studies in relation to the purpose for which the information was submitted (eg. awards nominations), or otherwise in an anonymised format unless otherwise expressly notified to you in advance 
-  8. responding to queries from members of the public about your membership status
+  8. responding to queries from members of the public about your membership status 
+  9. providing you with information about and communications from your local branch network.
 
 
 
@@ -86,7 +87,7 @@ Any modifications to the privacy practices of CIPD will be reflected first withi
 By disclosing personal information to CIPD you consent to the collection, storage and processing of information in the manner described in this policy. Please note that your continued use of the Websites and/or products and services constitutes your agreement to any changes to this policy, the CIPD Website Terms and Conditions ([www.cipd.co.uk/absite/tandc.htm](http://www.cipd.co.uk/absite/tandc.htm)) and the HR Talking Talent Website Terms and Conditions (<http://www.hrtalkingtalent.asia/p/website-terms-conditions.aspx>). 
 
 CIPD Privacy Policy   
-August 2011
+May 2013
 
 
 
