@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the rackroomshoes.com privacy policy that was archived on 2012-12-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121228002533id_/http%3A//www.rackroomshoes.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rackroomshoes.com privacy policy that was archived on 2013-05-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130529184753id_/http%3A//www.rackroomshoes.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
 <meta charset="utf-8">
@@ -21,9 +21,16 @@ Remove this if you use the .htaccess -->
 <link rel="apple-touch-icon" href="/apple-touch-icon.png">
 <link rel="stylesheet" href="/files/css/2012.css">
 
+<!-- REWARDS CSS -->
+<link rel="stylesheet" type="text/css" href="/files/css/elasticslideshow_style.css">
+<link href="http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300|Playfair+Display:400italic" rel="stylesheet" type="text/css">
+<noscript>
+	<link rel="stylesheet" type="text/css" href="/files/css/elasticslideshow_noscript.css" />
+</noscript>
+<!-- END REWARDS CSS -->
 		
 	<!-- <script type="text/javascript" src="/files/js/libs/jquery-1.7.1.min.js"></script> -->	
-	<script type="text/javascript" src="/files/js/jquery-1.8.1.min.js"></script>
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/files/js/jquery-1.8.1.min.js"></script>
 	<script type="text/javascript" src="/files/js/libs/cookie.js"></script>	
 	<script type="text/javascript" src="/files/js/libs/detect.js"></script>	
 	
@@ -50,28 +57,93 @@ Remove this if you use the .htaccess -->
 	
 
 
+<script type="text/javascript">
+$(document).ready(function() {
+	$(window).scroll( function(){
+		if($(window).scrollTop()>200){
+		$("#toContent").fadeOut();
+		} else {
+		$("#toContent").fadeIn();
+		}
+	});
+});
+$(document).ready(function() {
+  function filterPath(string) {
+  return string
+    .replace(/^\//,'')
+    .replace(/(index|default).[a-zA-Z]{3,4}$/,'')
+    .replace(/\/$/,'');
+  }
+  var locationPath = filterPath(location.pathname);
+  var scrollElem = scrollableElement('html', 'body');
+ 
+  $('a[href*=#]').each(function() {
+    var thisPath = filterPath(this.pathname) || locationPath;
+    if (  locationPath == thisPath
+    && (location.hostname == this.hostname || !this.hostname)
+    && this.hash.replace(/#/,'') ) {
+      var $target = $(this.hash), target = this.hash;
+      if (target) {
+        var targetOffset = $target.offset().top;
+        $(this).click(function(event) {
+          event.preventDefault();
+          $(scrollElem).animate({scrollTop: targetOffset}, 400, function() {
+            location.hash = target;
+          });
+        });
+      }
+    }
+  });
+ 
+  // use the first element that is "scrollable"
+  function scrollableElement(els) {
+    for (var i = 0, argLength = arguments.length; i <argLength; i++) {
+      var el = arguments[i],
+          $scrollElement = $(el);
+      if ($scrollElement.scrollTop()> 0) {
+        return el;
+      } else {
+        $scrollElement.scrollTop(1);
+        var isScrollable = $scrollElement.scrollTop()> 0;
+        $scrollElement.scrollTop(0);
+        if (isScrollable) {
+          return el;
+        }
+      }
+    }
+    return [];
+  }
+ 
+});
+</script>
+<!-- google analytics-->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-12338304-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type =
+'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' :
+'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+
+<script type="text/javascript">var switchTo5x=true;</script>
+<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<script type="text/javascript">stLight.options({publisher:
+"29615c21-87df-47b9-80c2-e731a810eb56"});</script>
+
 </head>
 
 <body>
-<!-- AddThis Fixed-Positioned Toolbox -->
-<div class="addthis_toolbox atfixed">
-  <div class="custom_images">
-<!--  <a href="http://www.facebook.com/myrackroomshoes" class="addthis_button_facebook">
-  <img src="/files/images/template/social_fb-6.jpg" alt="Share to Facebook" ></a>
-  <a href="http://www.twitter.com/myrackroomshoes" class="addthis_button_twitter">
-  <img src="/files/images/template/social_tweet-1.jpg"  alt="Share to Twitter" ></a>
-  <a href="http://gplus.to/myrackroomshoes" class="addthis_button_google">
-  <img src="/files/images/template/gplus.jpg"  alt="Share to Google+" ></a>
-  <a href="http://www.youtube.com/rackroomtv" class="addthis_button_youtube">
-  <img src="/files/images/template/social_youtube-1.jpg" alt="Youtube It" ></a>  
-  <a href="http://pinterest.com/source/rackroomshoes.com/" class="addthis_button_youtube">
-  <img src="/files/images/template/big-p-button.gif" alt="Pinterest" ></a>
- --> 
-  </div>
-</div>
-
-
-
 
 <header>
     <h1 id="logo"><a href="/" title="Rack Room Shoes"><img src="/files/images/template/logo.jpg" alt="Rack Room Shoes"></a></h1>
@@ -88,10 +160,10 @@ Remove this if you use the .htaccess -->
         
         <div id="new-social" style="float: right; height: 26px; width: 399px; text-align:right;">	
         <a href="http://www.facebook.com/myrackroomshoes" target="_blank"><img src="/files/images/template/fb-2013.gif" width="20" height="19" alt="facebook"></a>
-        <a href="http://www.twitter.com/myrackroomshoes" target="_blank"><img src="/files/images/template/tw-2013.gif" width="21" height="19" alt="twitter"></a>
+        <a href="http://www.twitter.com/myrackroomshoes" target="_blank"><img src="/files/images/template/new-twitter.png" width="21" height="19" alt="twitter"></a>
         <a href="/mobile-signup/"><img src="/files/images/template/mob-2013.gif" width="20" height="19" alt="mobile sign up"></a>
         <a href="http://www.youtube.com/rackroomtv" target="_blank"><img src="/files/images/template/youtube-2013.gif" width="20" height="19" alt="Youtube"></a>
-        <a href="http://pinterest.com/source/rackroomshoes.com/" target="_blank"><img src="/files/images/template/pin-2013.gif" width="20" height="19" alt="Pinterest"></a>
+        <a href="http://pinterest.com/myrackroomshoes/" target="_blank"><img src="/files/images/template/pinterest_small.gif" width="20" height="19" alt="Pinterest"></a>
         </div>
         
         <ul id="hmenu1">
@@ -107,18 +179,18 @@ Remove this if you use the .htaccess -->
                 </div>-->
         <li><a href="/mobile-signup/">Mobile Sign Up</a></li>
         <li><a href="/store-locator/">Store Locator</a></li>
-        <li><a href="/faq/">Customer Service</a></li>
+        <li><a href="/faq/">Customer Care</a></li>
         </ul>
         
         <ul id="hmenu2">
         <li><a href="/ship-to-home/"><img src="/files/images/template/nav/hm_ship2home.png" width="100" height="16" alt="Ship 2 Home"></a></li>
         <li><a href="/current-ad/"><img src="/files/images/template/nav/hm_currentad.png" width="119" height="16" alt="View our Current Ad"></a></li>
         <li><a href="/gift-cards/"><img src="/files/images/template/nav/hm_gc.png" width="109" height="16" alt="Purchase Gift Cards"></a></li>
-        <li><a href="/mw-entry-2013/"><img src="/files/images/template/nav/hm_mw.png" width="144" height="16" alt="Models Wanted"></a></li>
+        <li><a href="http://www.ourmodelswanted.com/" target="_blank"><img src="/files/images/template/nav/hm_mw.png" width="144" height="16" alt="Models Wanted"></a></li>
         <li><a href="/blog/"><img src="/files/images/template/nav/hm_blog.png" width="49" height="16" alt="Read our Blog"></a></li>
         </ul>
 	</div>
-    
+     
     <nav>
         <ul id="">
         <li id="womens"><a href="/womens/" title="Womens Shoes"><span>Womens</span></a></li>
@@ -177,9 +249,21 @@ Remove this if you use the .htaccess -->
     <p>As with any business, it is possible that as our business develops, we may sell or buy online stores or other assets. In such transactions, information concerning customers often is among the transferred assets. Accordingly, in the unlikely event that our company or substantially all of our assets are acquired by a third party, such information may be one of the transferred assets.</p>
     
     <p><a name="3"></a><span style="font-weight: bold">3.</span> If at any time you no longer wish to receive communications from us, you are free to “opt out” of receiving these communications. If you would no longer like to receive e-mailed coupons, special events information, sales notifications or other messages from Rack Room Shoes, please click the “Unsubscribe” button at the bottom of the email and follow the instructions. Your e-mail address and other personal information will be removed from our marketing list. OPTING OUT OF RECEIVING EMAILS WILL ONLY AFFECT YOUR RECEIPT OF EMAILS. YOU MAY STILL RECEIVE MESSAGES FROM RACK ROO SHOES VIA TEXT MESSAGE OR OTHER METHODS.</p>
-    <p>If you agree to receive mobile text coupons from Rack Room Shoes, Rack Room Shoes may provide any of the information described in this Policy, including promotional text messages, via text messages to the phone number you provided to Rack Room Shoes. If you wish to opt out of receiving text messages, or if you have errantly received a marketing text message without opting in to the program, you can cancel the program at any time by texting STOP to short code 25777. OPTING OUT OF RECEIVING TEXT MESSAGES WILL ONLY AFFECT YOUR RECEIPT OF TEXT MESSAGES. YOU MAY STILL RECEIVE MESSAGES FROM RACK ROOM SHOES VIA EMAIL OR OTHER METHODS.</p>
-    <p>You may text HELP to short code 25777 to receive additional information regarding Rack Room Shoes’ Mobile Alerts Program. 
-      STANDARD TEXT MESSAGING RATES APPLY. WHILE RACK ROOM SHOES DOES NOT CHARGE ANY FEE FOR USING ITS SERVICE, YOUR USE OF THE SERVICE VIA TEXT, MULTIMEDIA, OR INSTANT MESSAGE ON YOUR MOBILE PHONE OR ANY OTHER DEVICE IS SUBJECT TO THE STANDARD CHARGES PER YOUR CARRIER’S RATE PLAN. </p>
+    <p>If you agree to receive mobile text coupons from Rack Room Shoes, Rack Room 
+Shoes may provide any of the information described in this Policy, 
+including promotional text messages, via text messages to the phone number 
+you provided to Rack Room Shoes. If you wish to opt out of receiving text 
+messages, or if you have errantly received a marketing text message without 
+opting in to the program, you can cancel the program at any time by texting 
+STOP RRS to 77550. OPTING OUT OF RECEIVING TEXT MESSAGES WILL ONLY AFFECT 
+YOUR RECEIPT OF TEXT MESSAGES. YOU MAY STILL RECEIVE MESSAGES FROM RACK 
+ROOM SHOES VIA EMAIL OR OTHER METHODS.</p>
+    <p>You may text HELP RRS to 77550 to receive additional information regarding 
+      Rack Room Shoes’ Mobile Alerts Program. STANDARD MESSAGE AND DATA RATES MAY 
+      APPLY. WHILE RACK ROOM SHOES DOES NOT CHARGE ANY FEE FOR USING ITS SERVICE, 
+      YOUR USE OF THE SERVICE VIA TEXT, MULTIMEDIA, OR INSTANT MESSAGE ON YOUR 
+      MOBILE PHONE OR ANY OTHER DEVICE IS SUBJECT TO THE STANDARD MESSAGE AND 
+      DATA CHARGES PER YOUR CARRIER’S RATE PLAN.</p>
     
     <p><a name="4"></a><span style="font-weight: bold">4.</span> If you have submitted personally identifiable information and would like to change or delete that information, please <a href="mailto:rackroomshoes@in10sity.net">email us</a> or update your information using the “Edit your profile” link located on the e-mail communication. </p>
     
@@ -278,9 +362,9 @@ Remove this if you use the .htaccess -->
         <h3>Stay connected and be in the know!</h3>
             <div id="icons"> <a href="http://www.facebook.com/myrackroomshoes"><img src="/files/images/template/fb.jpg" width="30" height="29"></a>
               <a href="http://twitter.com/#!/myrackroomshoes"><img src="/files/images/template/social_tweet-1.png" width="31" height="29"></a>
-            <a href="https://plus.google.com/u/0/116074745865929207920/posts"><img src="/files/images/template/g+.jpg" width="29" height="29"></a>
+            <a href="http://plus.google.com/u/0/116074745865929207920/posts"><img src="/files/images/template/g+.jpg" width="29" height="29"></a>
             <a href="http://www.youtube.com/rackroomtv"><img src="/files/images/template/yt.jpg" width="29" height="29"></a>
-            <a href="http://pinterest.com/source/rackroomshoes.com/"><img src="/files/images/template/big-p-button.gif" width="29" height="29"></a>
+            <a href="http://pinterest.com/myrackroomshoes/" target="_blank"><img src="/files/images/template/big-p-button.gif" width="29" height="29"></a>
             </div>
         </div>
             
@@ -302,7 +386,7 @@ Remove this if you use the .htaccess -->
 </ul>
 
 <ul id="customer-service">
-<li><strong>Customer Service</strong></li>
+<li><strong>Customer Care</strong></li>
 <li><a href="/ship-to-home/">Ship 2 Home</a></li>
 <li><a href="/faq/">FAQs</a> </li>
 <!--<li><a href="/customer-service/">Contact Us</a></li>-->
@@ -339,7 +423,7 @@ Remove this if you use the .htaccess -->
 
 
 </footer>
- <div style="width:150px; margin:0 auto; margin-bottom:24px;">© 2012 Rack Room Shoes</div>
+ <div style="width:150px; margin:0 auto; margin-bottom:24px;">© 2013 Rack Room Shoes</div>
 
  <!--! end of #container -->
 
@@ -397,6 +481,14 @@ Remove this if you use the .htaccess -->
 			$(".fancybox").fancybox({
 				maxWidth	: 640,
 				maxHeight	: 480,
+				fitToView	: false,	
+				autoSize	: true
+				
+			});
+			
+			$(".fancyboxShorter").fancybox({
+				maxWidth	: 640,
+				maxHeight	: 360,
 				fitToView	: false,	
 				autoSize	: true
 				
@@ -468,13 +560,7 @@ Remove this if you use the .htaccess -->
 	}
     </script>
 
-	<!-- google analytics-->
-	  <script> 
-        window._gaq = [['_setAccount','UA-12338304-1'],['_trackPageview'],['_trackPageLoadTime']];
-        Modernizr.load({
-          load: ('https:' == location.protocol ? '//ssl' : '//www') + '.google-analytics.com/ga.js'
-        });
-      </script>
+	
       
       
 	<!-- end scripts-->
