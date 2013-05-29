@@ -1,86 +1,925 @@
-<!--The following is the downloaded HTML source of the arizonalottery.com privacy policy that was archived on 2011-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231204832id_/http%3A//www.arizonalottery.com/About/PrivacyPolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the arizonalottery.com privacy policy that was archived on 2013-05-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130529202519id_/http%3A//www.arizonalottery.com/About/PrivacyPolicy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_ctl00_head1"><title>
 	Privacy Policy
-</title><link href="../reset.css" rel="stylesheet" type="text/css"><link rel="stylesheet" type="text/css" href="../shadowbox/shadowbox.css"><link rel="stylesheet" href="../css/print.css" media="print"><link href="../App_Themes/MasterSkin/internal.css" rel="stylesheet" type="text/css">
-    <script src="../js/jquery-ui.js" type="text/javascript"></script>
-    <link href="../css/jquery-ui.css" rel="stylesheet" type="text/css">
-    <script type="text/javascript">        AC_FL_RunContent = 0;</script>
+</title><link href="../reset.css" rel="stylesheet" type="text/css"><link rel="stylesheet" type="text/css" href="../shadowbox/shadowbox.css"><link rel="Stylesheet" type="text/css" href="../colorbox/colorbox.css"><link rel="stylesheet" href="../css/print.css" media="print"><link href="../App_Themes/MasterSkin/internal.css" rel="stylesheet" type="text/css"><link href="../css/jquery-ui.css" rel="stylesheet" type="text/css">
+
+    <script type="text/javascript">AC_FL_RunContent = 0;</script>
+
     <script src="../js/AC_RunActiveContent.js" type="text/javascript"></script>
-    <script type="text/javascript">
 
-        function toggleContent(elem) {
-            $(elem).parent().children(".divToggleContent").slideToggle("slow");
+    <script type="text/javascript">
+	    function resizeShadowbox() {
+	        var wrapperStyle = $("#sb-wrapper").attr("style");
+	        if(wrapperStyle === 'undefined') {
+	            wrapperStyle = '';
+	        }
+	        var bodyStyle = $("#sb-body").attr("style");
+	        if(bodyStyle === 'undefined') {
+	            bodyStyle = '';
+	        }
+            $("#sb-wrapper").attr("style", "min-width: 750px; width: 752px !important;" + wrapperStyle);
+            $("#sb-body").attr("style", "min-height: 444px; height: 444px !important; " + bodyStyle);
         }
+    
+	    function toggleContent(elem) {
+	        $(elem).parent().children(".divToggleContent").slideToggle("slow");
+	    }
     </script>
-    <script type="text/javascript">
-        var request = null;
+    
+    <style type="text/css">
+        .st_facebook_custom 
+        {
+        	background-image:url('http://w.sharethis.com/images/facebook_counter.png');
+        }
+    </style>
 
-        try {
-            request = new XMLHttpRequest();
-        } catch (trymicrosoft) {
-            try {
-                request = new ActiveXObject("Msxml2.XMLHTTP");
-            } catch (othermicrosoft) {
-                try {
-                    request = new ActiveXObject("Microsoft.XMLHTTP");
-                } catch (failed) {
-                    request = null;
-                }
+    <script type="text/javascript">
+		var request = null;
+
+		try {
+		 request = new XMLHttpRequest();
+		} catch (trymicrosoft) {
+		 try {
+		   request = new ActiveXObject("Msxml2.XMLHTTP");
+		 } catch (othermicrosoft) {
+		   try {
+			 request = new ActiveXObject("Microsoft.XMLHTTP");
+		   } catch (failed) {
+			 request = null;
+		   }
+		 }
+
+        }
+
+
+    function search() {
+
+        var SelectedVal = $get('search_field').value;
+        var path = '/SearchResults.html?Search=' + SelectedVal;
+        window.location.href = path;
+
+    }
+
+    var urlParams = {};
+    (function () {
+        var e,
+        a = /\+/g,  // Regex for replacing addition symbol with a space
+        r = /([^&=]+)=?([^&]*)/g,
+        d = function (s) { return decodeURIComponent(s.replace(a, " ")); },
+        q = window.location.search.substring(1);
+
+        while (e = r.exec(q))
+            urlParams[d(e[1])] = d(e[2]);
+    })();
+
+    function findTop(obj) {
+        var posY = 0;
+        if (obj != null) {
+            posY = obj.offsetTop;
+            while (obj.offsetParent) {
+                posY = posY + obj.offsetParent.offsetTop;
+                if (obj == document.getElementsByTagName('body')[0]) { break }
+                else { obj = obj.offsetParent; }
             }
         }
+        return posY;
+    }
 
-
-        function search() {
-
-            var SelectedVal = $get('search_field').value;
-            var path = '/SearchResults.html?Search=' + SelectedVal;
-            window.location.href = path;
-
+    function scrollToSection() {
+        var position = 0;
+        var param = urlParams["section"];
+        if (param != null) {
+            var elem = document.getElementById(param);
+            if (elem != null) {
+                position = findTop(elem);
+            }
         }
+        window.scrollTo(0, position);
+    }
     </script>
-<script type="text/javascript" src="http://www.arizonalottery.com/js/jquery.js"></script><script type="text/javascript" src="http://www.arizonalottery.com/js/hoverIntent.js"></script><script type="text/javascript" src="http://www.arizonalottery.com/js/superfish.js"></script><script type="text/javascript" src="http://www.arizonalottery.com/js/supersubs.js"></script><script type="text/javascript" src="http://www.arizonalottery.com/js/jquery.jcarousel.pack.js"></script><script type="text/javascript" src="http://www.arizonalottery.com/shadowbox/shadowbox.js"></script><script type="text/javascript" src="http://www.arizonalottery.com/shadowbox/adapters/shadowbox-base.js"></script><script type="text/javascript" src="http://www.arizonalottery.com/shadowbox/adapters/shadowbox-jquery.js"></script><script type="text/javascript">Shadowbox.init({players: ['iframe','img','swf','flv'],  viewportPadding: 60 });</script><link href="../App_Themes/MasterSkin/AdminHeader.css" type="text/css" rel="stylesheet"><link href="../App_Themes/MasterSkin/AdminScroolBar.css" type="text/css" rel="stylesheet"><link href="../App_Themes/MasterSkin/AdminStyle.css" type="text/css" rel="stylesheet"><link href="../App_Themes/MasterSkin/demos.css" type="text/css" rel="stylesheet"><link href="../App_Themes/MasterSkin/grid.css" type="text/css" rel="stylesheet"><link href="../App_Themes/MasterSkin/internal.css" type="text/css" rel="stylesheet"><link href="../App_Themes/MasterSkin/jquery.jcrop.css" type="text/css" rel="stylesheet"><link href="../App_Themes/MasterSkin/main.css" type="text/css" rel="stylesheet"><link href="../App_Themes/MasterSkin/MasterLayout.css" type="text/css" rel="stylesheet"><link href="../App_Themes/MasterSkin/MasterStyle.css" type="text/css" rel="stylesheet"><link href="../App_Themes/MasterSkin/nav.css" type="text/css" rel="stylesheet"><link href="../App_Themes/MasterSkin/news.css" type="text/css" rel="stylesheet"><link href="../App_Themes/MasterSkin/ScroolBar.css" type="text/css" rel="stylesheet"><link href="../App_Themes/MasterSkin/tango/skin.css" type="text/css" rel="stylesheet"><link href="../App_Themes/MasterSkin/texting.css" type="text/css" rel="stylesheet"><link type="text/css" href="/App_Themes/MasterSkin/main.css" rel="stylesheet"><link type="text/css" href="/App_Themes/MasterSkin/nav.css" rel="stylesheet"><link type="text/css" href="/App_Themes/MasterSkin/internal.css" rel="stylesheet"></head>
-<body>
-    <form name="aspnetForm" method="post" action="../Default.aspx?PageID=ca40388b-d20e-49a9-92a4-52afb64937b0" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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">
+
+<script type="text/javascript" src="http://arizonalottery.com/js/jquery.js"></script><script type="text/javascript" src="http://arizonalottery.com/js/jquery-ui.js"></script><script type="text/javascript" src="http://arizonalottery.com/js/jquery.corner.js"></script><script type="text/javascript" src="http://arizonalottery.com/js/jquery.xml2json.js"></script><script type="text/javascript" src="http://arizonalottery.com/js/jquery.preload.min.js"></script><script type="text/javascript" src="http://arizonalottery.com/colorbox/jquery.colorbox-min.js"></script><script type="text/javascript" src="http://arizonalottery.com/js/hoverIntent.js"></script><script type="text/javascript" src="http://arizonalottery.com/js/superfish.js"></script><script type="text/javascript" src="http://arizonalottery.com/js/supersubs.js"></script><script type="text/javascript" src="http://arizonalottery.com/js/jquery.jcarousel.pack.js"></script><script type="text/javascript" src="http://arizonalottery.com/shadowbox/shadowbox.js"></script><script type="text/javascript" src="http://arizonalottery.com/shadowbox/adapters/shadowbox-base.js"></script><script type="text/javascript" src="http://arizonalottery.com/shadowbox/adapters/shadowbox-jquery.js"></script><script type="text/javascript" src="http://arizonalottery.com/js/jquery.tablesorter.min.js"></script><script type="text/javascript" src="http://arizonalottery.com/js/swfobject.js"></script><script type="text/javascript" src="http://arizonalottery.com/js/megaMenu.js"></script><script type="text/javascript">Shadowbox.init({players: ['iframe','img','swf','flv'],  viewportPadding: 60 });</script><link href="../App_Themes/MasterSkin/AdminHeader.css" type="text/css" rel="stylesheet"><link href="../App_Themes/MasterSkin/AdminScroolBar.css" type="text/css" rel="stylesheet"><link href="../App_Themes/MasterSkin/AdminStyle.css" type="text/css" rel="stylesheet"><link href="../App_Themes/MasterSkin/demos.css" type="text/css" rel="stylesheet"><link href="../App_Themes/MasterSkin/grid.css" type="text/css" rel="stylesheet"><link href="../App_Themes/MasterSkin/internal.css" type="text/css" rel="stylesheet"><link href="../App_Themes/MasterSkin/jquery.jcrop.css" type="text/css" rel="stylesheet"><link href="../App_Themes/MasterSkin/kama/dialog.css" type="text/css" rel="stylesheet"><link href="../App_Themes/MasterSkin/kama/editor.css" type="text/css" rel="stylesheet"><link href="../App_Themes/MasterSkin/kama/templates.css" type="text/css" rel="stylesheet"><link href="../App_Themes/MasterSkin/main.css" type="text/css" rel="stylesheet"><link href="../App_Themes/MasterSkin/MasterLayout.css" type="text/css" rel="stylesheet"><link href="../App_Themes/MasterSkin/MasterStyle.css" type="text/css" rel="stylesheet"><link href="../App_Themes/MasterSkin/megaMenu.css" type="text/css" rel="stylesheet"><link href="../App_Themes/MasterSkin/nav.css" type="text/css" rel="stylesheet"><link href="../App_Themes/MasterSkin/news.css" type="text/css" rel="stylesheet"><link href="../App_Themes/MasterSkin/ScroolBar.css" type="text/css" rel="stylesheet"><link href="../App_Themes/MasterSkin/tango/skin.css" type="text/css" rel="stylesheet"><link href="../App_Themes/MasterSkin/texting.css" type="text/css" rel="stylesheet"></head>
+<body onload="scrollToSection()">
+    <form name="aspnetForm" method="post" action="/Default.aspx?PageID=ca40388b-d20e-49a9-92a4-52afb64937b0" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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">
 
 
-<script src="/ScriptResource.axd?d=lpC-uvZs-MYA671J4rqalO5Z0BKNhDEn8iwOWTDV05AQT3EXtUX4pSYQSSjTaH2v6AIUszsNgwcXBttYTFCgLewl3Wc8eEDtiGempTEp_56mmXw9cA2fL62j_UENmIc3QDZEuShnkLkewS6ATAFIboZAKes1&amp;t=77570f1d" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=tIQSDcaDEh7uinRqEsHqb7TtMGVaQucJHO2ugdQALA9CJQTGjtQngeqODo8kx3IhDZM6qYCc7KH6FclBixPJeMGZg1InsK5NFBz2fkZDF_Xk8lbJFi-Z_5q0LdBZB4Ji0oj14wmxkRBBId_350aXkcej81bLujgGpveJ3dBda3I_PWWf0&amp;t=ffffffffb868b5f4" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
 <input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="">
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="WaCD7oVxgf/aH8iCGxkWDrwiTmmjERmp213MLJyE7kz6Ky8ebtRvQ29kHm9YPjv113KoK0wKXBFh6m/zrX9JuAXh2tY=">
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="Pe8XiCIEQjPWNy2Z7hKhKiMv4PMDM5+b+o0hnh5DUKjElLS8NbtKB8Ky2hMCuSiwcUI8IFN87keR7u/ziOAvuc0GqNfneNd8kPqFFDwiDQzCcXdOq/vIFgZ3bh8jD1vtJmikIEMRK974rxnjgwXmSabv6R0P5l8kmj+0FVHZgkzahZNRpVK42q8edVLXdFSvkfw50qENTkjmZX9wu3v3GHzHMV0xfMa/qxkDQjIMNbsMnYznO3FeZZYsDR8sKDIZCfD2hdFQBvC0mfIUHPKyRylMmD8oeiNnezZNZhPjthgnQxprgkFVl5PE2yT21DAGwSf+41nBwMx+VFBi5bT8kZ//4IochTH01S55v068bFnvQb+qBcWw1EPxD2Z+VfGnrkaPREuNRGhFMrUvMRUG5kST9CoSnewe00hALubl/Vw7E2ig">
     
     <div id="header_wrapper">
-        <div id="header" class="clearfix">
-            <div id="ctl00_ctl00_pnlMainVew">
+        
+        <div id="header" class="clearfix" style="position: relative; z-index: 2000;">
+            <div id="header_left"><div id="masthead_left"></div></div>
+            <div id="ctl00_ctl00_pnlMainView">
 	
-                <div style="position: relative;">
+                <div style="position: relative; z-index: 2000">
                     <h1 id="branding">
                         <a id="ctl00_ctl00_HyperLink21" href="../default.aspx">Arizona Lottery</a></h1>
-                    <div id="container_search">
-                        <h3 id="branding_at_your_service">
-                            <a href="http://az.gov"></a>
-                        </h3>
-                        <div id="form_search">
-                            <a id="ctl00_ctl00_lnkHome" href="../default.aspx">
-                                <h3 id="home"></h3>
-                            </a>
-                            <span class="search_field">
-                                <input name="ctl00$ctl00$txtSearch" type="text" id="ctl00_ctl00_txtSearch" class="search_box">
-                            </span><span id="search_button" onclick="search();">
-                                <input type="image" src="/images/button_search.gif" value="Submit" id="Image1">
-                            </span>
-                        </div>
+                    <div id="header_container">
                         <div id="search_text">
-                            About $2.7 billion generated for the state since 1981
+                            <a id="branding_at_your_service" href="http://az.gov"></a>
+                            Over $2.8 billion generated for the state since 1981
                         </div>
+                        <div style="position: absolute; top: 78px; left: 380px;">
+                            <ul id="header_nav">
+                                <li><a id="ctl00_ctl00_HyperLink22" href="../NowWhat.html">I won, now what?</a></li>
+                                <li><a id="ctl00_ctl00_HyperLink23" href="../AboutTheLottery.html">About AZ Lottery</a></li>
+                                <li><a id="ctl00_ctl00_HyperLink24" href="../FindARetailer.html">Find a Retailer</a></li>
+                                <li class="hover-menu">
+                                    <a id="ctl00_ctl00_lnkRetailerSection" href="../retailersection.html">Retailer Section&nbsp;&nbsp;<img id="imgRetailerSection" alt="" src="../images/header_down_arrow.png"></a>
+                                    <ul id="divRetailerSection" style="display: none;">
+                                        <li><a id="ctl00_ctl00_HyperLink25" href="../RetailInfo.html">Become a Retailer</a></li>
+                                        <li><a id="ctl00_ctl00_HyperLink26" href="../Retailer/Contact.html">Lottery Contacts for Retailers</a></li>
+                                        
+                                        <li><a id="ctl00_ctl00_HyperLink29" href="../TheRegisterRetailerNewsletter.html">Retailer Newsletters</a></li>
+                                    </ul>
+                                </li>
+                            </ul>
+                            <div id="form_search">
+                                <span class="search_field">
+                                    <input name="ctl00$ctl00$txtSearch" type="text" id="ctl00_ctl00_txtSearch" class="search_box">
+                                </span>
+                            </div>
+                       </div>
                     </div>
                 </div>
+                <ul id="ctl00_ctl00_MainMenu1_MainMenu" class="nav_menu">
+
+<li id="MegaMenu1" class="MenuItem"><a class="MenuItem1" href="http://arizonalottery.com/Games.html"></a><div id="ctl00_ctl00_MainMenu1_MegaMenu-1_pnlImageButtons" class="megaMenu games clearfix" style="display:none;position:absolute;top:60px;left:-5px;">
+		
+    <div>
+        <div>
+            <div id="ctl00_ctl00_MainMenu1_MegaMenu-1_pnlZoneA" class="zoneA">
+			
+                <ul class="imageButtons">
+<li><a href="http://arizonalottery.com/Games/Powerball.html?GameID=1" rel="ctl00_ctl00_MainMenu1_MegaMenu-1_GamesTabContent1" class="active"><img class="imageButton" src="GetDoc.ashx?DocID=9ee6cbe8-badc-487f-a119-47904b70f553"></a></li>
+<li><a href="http://arizonalottery.com/Games/MegaMillion.html?GameID=5" rel="ctl00_ctl00_MainMenu1_MegaMenu-1_GamesTabContent2"><img class="imageButton" src="GetDoc.ashx?DocID=1a787cbf-a136-4470-aad0-dbcf3e7f88b8"></a></li>
+<li><a href="http://arizonalottery.com/ThePick.html?GameID=3" rel="ctl00_ctl00_MainMenu1_MegaMenu-1_GamesTabContent3"><img class="imageButton" src="GetDoc.ashx?DocID=a450a8c6-d2ff-4168-98e1-c55b14de0a7c"></a></li>
+<li><a href="http://arizonalottery.com/Fantasy5.html?GameID=5555" rel="ctl00_ctl00_MainMenu1_MegaMenu-1_GamesTabContent4"><img class="imageButton" src="GetDoc.ashx?DocID=5d0572d4-c5df-4859-bbe2-f0edeafab71f"></a></li>
+<li><a href="http://arizonalottery.com/Games/WeeklyWinnings.html?GameID=14" rel="ctl00_ctl00_MainMenu1_MegaMenu-1_GamesTabContent5"><img class="imageButton" src="GetDoc.ashx?DocID=4a3a7188-ecb8-4bc6-9710-65362c2adb4b"></a></li>
+<li><a href="http://arizonalottery.com/2by2.html?GameID=11" rel="ctl00_ctl00_MainMenu1_MegaMenu-1_GamesTabContent6"><img class="imageButton" src="GetDoc.ashx?DocID=3a7bec13-6f6a-4e22-b912-7a9dbf7bb054"></a></li>
+<li><a href="http://arizonalottery.com/Pick3.html?GameID=2" rel="ctl00_ctl00_MainMenu1_MegaMenu-1_GamesTabContent7"><img class="imageButton" src="GetDoc.ashx?DocID=ab6fc36e-0101-4579-a7ad-99faf817d5df"></a></li>
+<li><a href="http://arizonalottery.com/Games/Scratchers/Scratchers.html" rel="ctl00_ctl00_MainMenu1_MegaMenu-1_GamesTabContent8"><img class="imageButton" src="GetDoc.ashx?DocID=7acc5a8a-9760-4534-8074-79dee2d0a292"></a></li>
+</ul>
+            
+		</div>
+            <div id="GameszoneB" class="zoneB">
+                <div class="divZoneB_Content"></div>
+            </div>
+        </div>
+        <div>
+            <div class="mmFooter">
+                <a id="ctl00_ctl00_MainMenu1_MegaMenu-1_lnkZoneA_Footer" href="../Games.html">View games page</a>
+            </div>
+        </div>
+    </div>
+    <div id="ctl00_ctl00_MainMenu1_MegaMenu-1_pnlZoneC" class="zoneC">
+			
+        <div style="padding: 0" class="mmHeaderImage"><a href="http://arizonalottery.com/Promotions.html?section=Promotion-5c52c0da-7c9c-436d-84ad-b9631deaab7f"><img src="GetDoc.ashx?DocID=1a970278-84ec-4853-8bb7-b7629830b8d6" alt="" width="312" height="106"></a></div>
+    <div id="ctl00_ctl00_MainMenu1_MegaMenu-1_pnlViewControlbe43e" class="viewContent" style="padding: 0;">
+				
+<div>
+    
+    <div style="padding: 18px 0px 0px 20px;">
+ <ul class="zoneC-list clearfix">
+  <li class="header">
+   MORE INFO:</li>
+  <li>
+   <a href="http://www.arizonalottery.com/Games/SecondChanceDrawings.html">Second Chance Scratchers Games</a></li>
+  <li>
+   <a href="http://arizonalottery.com/ScratchersEndingDates.html">Ended Scratchers Games/Last Day to Claim</a></li>
+  <li>
+   <a href="http://arizonalottery.com/UnclaimedPrizes.html">Unclaimed Draw Games</a></li>
+  <li>
+   <a href="http://www.arizonalottery.com/Signup.html">Sign Up for Email Alerts</a></li>
+  <li>
+   <a href="http://www.arizonalottery.com/Email_Mobile/Text.html">Sign Up for Text Alerts</a></li>
+ </ul>
+</div>
+<p>
+ &nbsp;</p>
+<p>
+ &nbsp;</p>
+<p>
+ &nbsp;</p>
+<p style="left: 0px; bottom: 0px; margin-left: 2px; position: absolute;">
+ <a href="http://www.arizonalottery.com/the-arizona-lottery-gift-shop.html"><img src="GetDoc.ashx?DocID=ce92ecdb-65ce-4e23-aa4e-5a7f19d28376"></a></p>
+
+</div>
+
+			</div>
+		</div>
+    <div id="ctl00_ctl00_MainMenu1_MegaMenu-1_pnlContentCards" style="display: none;">
+			<div id="ctl00_ctl00_MainMenu1_MegaMenu-1_GamesTabContent1" class="ContentCard">
+				<div class="mmHeaderImage">
+<a href="http://arizonalottery.com/Games/Powerball.html?GameID=1"><img src="GetDoc.ashx?DocID=37931091-61ca-4082-87eb-30a1e88383fa" alt=""></a>
+</div>
+<div class="mmContent">
+<div class="mmHeader2">WINNING NUMBERS (05/25/2013):</div><div class="mmWinningNumbers"><ul><li>2</li><li>6</li><li>19</li><li>21</li><li>27</li><li class="power">25</li></ul></div><br><br><div class="mmHeader3">NEXT ESTIMATED JACKPOT:</div>
+<div class="mmHeader4">$40,000,000</div>
+<div class="mmHeader2">NEXT DRAWING:</div>
+<div class="mmHeader5">Wednesday, May 29, 2013</div>
+</div>
+
+			</div><div id="ctl00_ctl00_MainMenu1_MegaMenu-1_GamesTabContent2" class="ContentCard">
+				<div class="mmHeaderImage">
+<a href="http://arizonalottery.com/Games/MegaMillion.html?GameID=5"><img src="GetDoc.ashx?DocID=70e3b3bb-310a-4fd5-9889-994b6f342beb" alt=""></a>
+</div>
+<div class="mmContent">
+<div class="mmHeader2">WINNING NUMBERS (05/28/2013):</div><div class="mmWinningNumbers clearfix"><ul><li>4</li><li>12</li><li>25</li><li>32</li><li>54</li><li class="mega">36</li></ul></div><p class="mmWinningNumbersText" style="margin-top: -10px;">Megaplier: 4</p><br><div class="mmHeader3">NEXT ESTIMATED JACKPOT:</div>
+<div class="mmHeader4">$30,000,000</div>
+<div class="mmHeader2">NEXT DRAWING:</div>
+<div class="mmHeader5">Friday, May 31, 2013</div>
+</div>
+
+			</div><div id="ctl00_ctl00_MainMenu1_MegaMenu-1_GamesTabContent3" class="ContentCard">
+				<div class="mmHeaderImage">
+<a href="http://arizonalottery.com/ThePick.html?GameID=3"><img src="GetDoc.ashx?DocID=584fc7b0-480e-417f-a891-a92865807a04" alt=""></a>
+</div>
+<div class="mmContent">
+<div class="mmHeader2">WINNING NUMBERS (05/25/2013):</div><div class="mmWinningNumbers"><ul><li>9</li><li>25</li><li>27</li><li>36</li><li>40</li><li>42</li></ul></div><br><br><div class="mmHeader3">NEXT ESTIMATED JACKPOT:</div>
+<div class="mmHeader4">$1,500,000</div>
+<div class="mmHeader2">NEXT DRAWING:</div>
+<div class="mmHeader5">Wednesday, May 29, 2013</div>
+</div>
+
+			</div><div id="ctl00_ctl00_MainMenu1_MegaMenu-1_GamesTabContent4" class="ContentCard">
+				<div class="mmHeaderImage">
+<a href="http://arizonalottery.com/Fantasy5.html?GameID=5555"><img src="GetDoc.ashx?DocID=46cab53d-1d10-4d29-84ff-2686543b8477" alt=""></a>
+</div>
+<div class="mmContent">
+<div class="mmHeader2">WINNING NUMBERS (05/28/2013):</div><div class="mmWinningNumbers"><ul><li>5</li><li>8</li><li>11</li><li>16</li><li>30</li></ul></div><br><br><div class="mmHeader3">NEXT ESTIMATED JACKPOT:</div>
+<div class="mmHeader4">$51,000</div>
+<div class="mmHeader2">NEXT DRAWING:</div>
+<div class="mmHeader5">Wednesday, May 29, 2013</div>
+</div>
+
+			</div><div id="ctl00_ctl00_MainMenu1_MegaMenu-1_GamesTabContent5" class="ContentCard">
+				<div class="mmHeaderImage">
+<a href="http://arizonalottery.com/Games/WeeklyWinnings.html?GameID=14"><img src="GetDoc.ashx?DocID=866a1805-9cbe-4727-91df-684cb7efe4ac" alt=""></a>
+</div>
+<div class="mmContent">
+<div class="mmHeader2">WINNING NUMBERS (05/28/2013):</div><div class="mmWinningNumbers"><ul><li>8</li><li>21</li><li>35</li><li>45</li></ul></div><br><br><div class="mmHeader3">TOP PRIZE:</div>
+<div class="mmHeader4">$1,000<span class="headerPink" style="font-size: 13px; font-weight: bold;"> a week<br>for a year, taxes paid.</span></div>
+<div class="mmHeader2">NEXT DRAWING:</div>
+<div class="mmHeader5">Friday, May 31, 2013</div>
+</div>
+
+			</div><div id="ctl00_ctl00_MainMenu1_MegaMenu-1_GamesTabContent6" class="ContentCard">
+				<div class="mmHeaderImage">
+<a href="http://arizonalottery.com/2by2.html?GameID=11"><img src="GetDoc.ashx?DocID=8989d639-db13-4a90-89f0-21df0fe661f0" alt=""></a>
+</div>
+<div class="mmContent">
+<div class="mmHeader2">WINNING NUMBERS (05/28/2013):</div><div class="mmWinningNumbers"><ul><li class="power">16</li><li class="power">18</li><li>8</li><li>14</li></ul></div><br><br><div class="mmHeader3">TOP PRIZE:</div>
+<div class="mmHeader4">$20,000</div>
+<div class="mmHeader2">NEXT DRAWING:</div>
+<div class="mmHeader5">Wednesday, May 29, 2013</div>
+</div>
+
+			</div><div id="ctl00_ctl00_MainMenu1_MegaMenu-1_GamesTabContent7" class="ContentCard">
+				<div class="mmHeaderImage">
+<a href="http://arizonalottery.com/Pick3.html?GameID=2"><img src="GetDoc.ashx?DocID=e1f46437-3fd7-4b00-a024-b8b16c18535a" alt=""></a>
+</div>
+<div class="mmContent">
+<div class="mmHeader2">WINNING NUMBERS (05/28/2013):</div><div class="mmWinningNumbers"><ul><li>5</li><li>7</li><li>1</li></ul></div><br><br><div class="mmHeader3">NEXT DRAWING:</div>
+<div class="mmHeader5">Wednesday, May 29, 2013</div>
+</div>
+
+			</div><div id="ctl00_ctl00_MainMenu1_MegaMenu-1_GamesTabContent8" class="ContentCard">
+				<div id="ctl00_ctl00_MainMenu1_MegaMenu-1_pnlViewControlc688c" class="viewContent" style="padding: 0;">
+					
+<div>
+    
+    <div class="mmHeaderImage">
+	<a href="http://www.arizonalottery.com/Games/Scratchers/Scratchers.html"><img src="GetDoc.ashx?DocID=8c78a599-79b3-45eb-9667-a8bab9e750b5"></a></div>
+<div class="mmContent" style="position: relative;">
+	<div class="mmHeader2">
+		RIGHT ON THE MONEY</div>
+	<div class="mmHeader5" style="margin-bottom: 12px">
+		TICKET PRICE: $10<br>
+		TOP PRIZE: <span>$100,000</span></div>
+	<div class="mmHeader2">
+		LUCKY LOOT</div>
+	<div class="mmHeader5" style="margin-bottom: 12px">
+		TICKET PRICE: $5<br>
+		TOP PRIZE: <span>$50,000</span></div>
+	<div class="mmHeader2">
+		TRIPLE DOUGH</div>
+	<div class="mmHeader5">
+		TICKET PRICE: $2<br>
+		TOP PRIZE: <span>$10,000</span></div>
+	<div style="position: absolute; top: 18px; right: 0px;">
+		<a href="http://www.arizonalottery.com/Games/SecondChanceDrawings.html?utm_source=Homepage&amp;utm_medium=Mega%2BMenu&amp;utm_campaign=2nd%2BChance%2BPortal"><img src="GetDoc.ashx?DocID=a8f51b51-af61-45a6-a7da-87cee01eecb7"></a></div>
+</div>
+<p>
+	&nbsp;</p>
+
+</div>
+
+				</div>
+			</div>
+		</div>
+
+	</div>
+</li><li id="MegaMenu2" class="MenuItem"><a class="MenuItem2" href="http://arizonalottery.com/Promotions.html"></a><div id="ctl00_ctl00_MainMenu1_MegaMenu-2_pnlTabButtons" class="megaMenu clearfix" style="display:none;position:absolute;top:60px;left:-132px;">
+		
+    <div>
+        <div>
+            <div id="ctl00_ctl00_MainMenu1_MegaMenu-2_pnlZoneA" class="zoneA">
+			
+                <ul class="tabButtons">
+<li rel="ctl00_ctl00_MainMenu1_MegaMenu-2_PromotionsTabContent5c52c0da-7c9c-436d-84ad-b9631deaab7f" class="active" onclick="window.location.href='http://arizonalottery.com/Promotions.html?section=Promotion-5c52c0da-7c9c-436d-84ad-b9631deaab7f'">ARIZONA HIGHWAYS VIP GETAWAY</li>
+<li rel="ctl00_ctl00_MainMenu1_MegaMenu-2_PromotionsTabContentfac92e4e-bf21-437c-b119-bc4edc8805c9" onclick="window.location.href='http://arizonalottery.com/Promotions.html?section=Promotion-fac92e4e-bf21-437c-b119-bc4edc8805c9'">CARDINALS CARAVAN</li>
+<li rel="ctl00_ctl00_MainMenu1_MegaMenu-2_PromotionsTabContent20fc70f3-eb0f-4ac7-9066-26def9f4b0f3" onclick="window.location.href='http://arizonalottery.com/Promotions.html?section=Promotion-20fc70f3-eb0f-4ac7-9066-26def9f4b0f3'">MAY RETAILER PROMOTIONS</li>
+<li rel="ctl00_ctl00_MainMenu1_MegaMenu-2_PromotionsTabContentc663d25f-c616-4d96-82e2-014bc72c514b" onclick="window.location.href='http://arizonalottery.com/Promotions.html?section=Promotion-c663d25f-c616-4d96-82e2-014bc72c514b'">JUNE RETAILER PROMOTIONS</li>
+</ul>
+            
+		</div>
+            <div id="PromotionszoneB" class="zoneB">
+                <div class="divZoneB_Content"></div>
+            </div>
+        </div>
+        <div>
+            <div class="mmFooter">
+                <a id="ctl00_ctl00_MainMenu1_MegaMenu-2_lnkZoneA_Footer" href="../Promotions.html">View all promotions</a>
+            </div>
+        </div>
+    </div>
+    <div id="ctl00_ctl00_MainMenu1_MegaMenu-2_pnlZoneC" class="zoneC">
+			
+        <div style="padding: 0" class="mmHeaderImage"><a href="http://arizonalottery.com/Promotions.html?section=Promotion-20fc70f3-eb0f-4ac7-9066-26def9f4b0f3"><img src="GetDoc.ashx?DocID=08d4d196-8735-458b-898a-238b51a1ff8e" alt="" width="312" height="106"></a></div>
+    <div id="ctl00_ctl00_MainMenu1_MegaMenu-2_pnlViewControl06600" class="viewContent" style="padding: 0;">
+				
+<div>
+    
+    <div style="padding: 18px 0px 0px 20px;">
+ <ul class="zoneC-list clearfix">
+  <li class="header">
+   MORE INFO:</li>
+  <li>
+   <a href="http://www.arizonalottery.com/Signup.html">Sign Up for Email Alerts</a></li>
+  <li>
+   <a href="http://www.arizonalottery.com/Email_Mobile/Text.html">Sign Up for Text Alerts</a></li>
+  <li>
+   <a href="http://www.arizonalottery.com/Games/SecondChanceDrawings.html">Second Chance Scratchers Games</a></li>
+  <li>
+   <a href="http://www.arizonalottery.com/FindARetailer.html">Where to Play?</a></li>
+  <li>
+   &nbsp;</li>
+ </ul>
+</div>
+<p style="left: 0px; bottom: 0px; margin-left: 2px; position: absolute;">
+ <a href="http://www.arizonalottery.com/the-arizona-lottery-gift-shop.html"><img src="GetDoc.ashx?DocID=ce92ecdb-65ce-4e23-aa4e-5a7f19d28376"></a></p>
+
+</div>
+
+			</div>
+		</div>
+    <div id="ctl00_ctl00_MainMenu1_MegaMenu-2_pnlContentCards" style="display: none;">
+			<div id="ctl00_ctl00_MainMenu1_MegaMenu-2_PromotionsTabContent5c52c0da-7c9c-436d-84ad-b9631deaab7f" class="ContentCard">
+				<div class="viewContent" style="padding: 0;">
+<div>
+<div class="mmHeaderImage">
+<a href="http://arizonalottery.com/Promotions.html?section=Promotion-5c52c0da-7c9c-436d-84ad-b9631deaab7f"><img src="GetDoc.ashx?DocID=1a970278-84ec-4853-8bb7-b7629830b8d6&amp;width=310&amp;MaxHeight=106" alt=""></a>
+</div>
+<div class="mmContent">
+<div class="mmHeader2">Arizona Highways VIP Getaway</div>
+<p>
+Play to win</p>
+<p>&nbsp;</p>
+<p><a href="http://arizonalottery.com/Promotions.html?section=Promotion-5c52c0da-7c9c-436d-84ad-b9631deaab7f">Read more</a></p>
+</div>
+</div>
+</div>
+
+			</div><div id="ctl00_ctl00_MainMenu1_MegaMenu-2_PromotionsTabContentfac92e4e-bf21-437c-b119-bc4edc8805c9" class="ContentCard">
+				<div class="viewContent" style="padding: 0;">
+<div>
+<div class="mmHeaderImage">
+<a href="http://arizonalottery.com/Promotions.html?section=Promotion-fac92e4e-bf21-437c-b119-bc4edc8805c9"><img src="GetDoc.ashx?DocID=0001b9e7-7ff0-4edf-8211-e6ed35b71a18&amp;width=310&amp;MaxHeight=106" alt=""></a>
+</div>
+<div class="mmContent">
+<div class="mmHeader2">Cardinals Caravan</div>
+<p>
+Win Lottery merchandise and a chance to win Cardinals tickets and more!</p>
+<p>&nbsp;</p>
+<p><a href="http://arizonalottery.com/Promotions.html?section=Promotion-fac92e4e-bf21-437c-b119-bc4edc8805c9">Read more</a></p>
+</div>
+</div>
+</div>
+
+			</div><div id="ctl00_ctl00_MainMenu1_MegaMenu-2_PromotionsTabContent20fc70f3-eb0f-4ac7-9066-26def9f4b0f3" class="ContentCard">
+				<div class="viewContent" style="padding: 0;">
+<div>
+<div class="mmHeaderImage">
+<a href="http://arizonalottery.com/Promotions.html?section=Promotion-20fc70f3-eb0f-4ac7-9066-26def9f4b0f3"><img src="GetDoc.ashx?DocID=08d4d196-8735-458b-898a-238b51a1ff8e&amp;width=310&amp;MaxHeight=106" alt=""></a>
+</div>
+<div class="mmContent">
+<div class="mmHeader2">May Retailer Promotions</div>
+<p>
+May promotions</p>
+<p>&nbsp;</p>
+<p><a href="http://arizonalottery.com/Promotions.html?section=Promotion-20fc70f3-eb0f-4ac7-9066-26def9f4b0f3">Read more</a></p>
+</div>
+</div>
+</div>
+
+			</div><div id="ctl00_ctl00_MainMenu1_MegaMenu-2_PromotionsTabContentc663d25f-c616-4d96-82e2-014bc72c514b" class="ContentCard">
+				<div class="viewContent" style="padding: 0;">
+<div>
+<div class="mmHeaderImage">
+<a href="http://arizonalottery.com/Promotions.html?section=Promotion-c663d25f-c616-4d96-82e2-014bc72c514b"><img src="GetDoc.ashx?DocID=3bc79204-835a-4561-a461-c71525f815f6&amp;width=310&amp;MaxHeight=106" alt=""></a>
+</div>
+<div class="mmContent">
+<div class="mmHeader2">June Retailer Promotions</div>
+<p>
+Check to see if a retailer near you is having a promotion!</p>
+<p>&nbsp;</p>
+<p><a href="http://arizonalottery.com/Promotions.html?section=Promotion-c663d25f-c616-4d96-82e2-014bc72c514b">Read more</a></p>
+</div>
+</div>
+</div>
+
+			</div>
+		</div>
+
+	</div></li><li id="MegaMenu3" class="MenuItem"><a class="MenuItem3" href="http://arizonalottery.com/Winners.html"></a><div id="ctl00_ctl00_MainMenu1_MegaMenu-3_pnlTabButtons" class="megaMenu clearfix" style="display:none;position:absolute;top:60px;left:-302px;">
+		
+    <div>
+        <div>
+            <div id="ctl00_ctl00_MainMenu1_MegaMenu-3_pnlZoneA" class="zoneA">
+			
+                <ul class="tabButtons">
+<li rel="ctl00_ctl00_MainMenu1_MegaMenu-3_HallOfWinnersTabContent1837" class="active" onclick="window.location.href='http://arizonalottery.com/Winners.html?section=1837'">WES MCCOY<br>FANTASY 5 - $69,000</li>
+<li rel="ctl00_ctl00_MainMenu1_MegaMenu-3_HallOfWinnersTabContent1838" onclick="window.location.href='http://arizonalottery.com/Winners.html?section=1838'">HENRY LOPEZ<br>SCRATCHERS - $50,000</li>
+<li rel="ctl00_ctl00_MainMenu1_MegaMenu-3_HallOfWinnersTabContent1839" onclick="window.location.href='http://arizonalottery.com/Winners.html?section=1839'"><br>SCRATCHERS - $100,000</li>
+<li rel="ctl00_ctl00_MainMenu1_MegaMenu-3_HallOfWinnersTabContent1840" onclick="window.location.href='http://arizonalottery.com/Winners.html?section=1840'"><br>SCRATCHERS - $10,000</li>
+</ul>
+            
+		</div>
+            <div id="HallOfWinnerszoneB" class="zoneB">
+                <div class="divZoneB_Content"></div>
+            </div>
+        </div>
+        <div>
+            <div class="mmFooter">
+                <a id="ctl00_ctl00_MainMenu1_MegaMenu-3_lnkZoneA_Footer" href="../Winners.html">View more winners</a>
+            </div>
+        </div>
+    </div>
+    <div id="ctl00_ctl00_MainMenu1_MegaMenu-3_pnlZoneC" class="zoneC">
+			
+        <div style="padding: 0" class="mmHeaderImage"><a href="http://arizonalottery.com/Promotions.html?section=Promotion-5c52c0da-7c9c-436d-84ad-b9631deaab7f"><img src="GetDoc.ashx?DocID=1a970278-84ec-4853-8bb7-b7629830b8d6" alt="" width="312" height="106"></a></div>
+    <div id="ctl00_ctl00_MainMenu1_MegaMenu-3_pnlViewControl6a97b" class="viewContent" style="padding: 0;">
+				
+<div>
+    
+    <div style="padding: 18px 0px 0px 20px;">
+ <ul class="zoneC-list clearfix">
+  <li class="header">
+   MORE INFO:</li>
+  <li>
+   <a href="http://www.arizonalottery.com/Signup.html">Sign Up for Email Alerts</a></li>
+  <li>
+   <a href="http://www.arizonalottery.com/Email_Mobile/Text.html">Sign Up for Text Alerts</a></li>
+  <li>
+   <a href="http://www.arizonalottery.com/Games/SecondChanceDrawings.html">Second Chance Scratchers Games</a></li>
+  <li>
+   <a href="http://www.arizonalottery.com/FindARetailer.html">Where to Play?</a></li>
+ </ul>
+</div>
+<p style="left: 0px; bottom: 0px; margin-left: 2px; position: absolute;">
+ <a href="http://www.arizonalottery.com/the-arizona-lottery-gift-shop.html"><img src="GetDoc.ashx?DocID=ce92ecdb-65ce-4e23-aa4e-5a7f19d28376"></a></p>
+
+</div>
+
+			</div>
+		</div>
+    <div id="ctl00_ctl00_MainMenu1_MegaMenu-3_pnlContentCards" style="display: none;">
+			<div id="ctl00_ctl00_MainMenu1_MegaMenu-3_HallOfWinnersTabContent1837" class="ContentCard">
+				<div class="viewContent" style="padding: 0;">
+    <div>
+        <div class="mmContent">
+            <div class="mmHeader3" style="margin-bottom: 8px;">WES MCCOY            </div>
+            <div>
+                <img src="GetDoc.ashx?DocID=1ae841f9-6591-4952-a4dd-9b7419c02383&amp;width=100&amp;MaxHeight=150" alt="" border="1" align="right" style="margin-left: 12px; margin-bottom: 20px;">
+                <div class="mmHeader2" style="margin-bottom: 0px;">
+FANTASY 5 - $69,000                </div>
+            <div style="width: 200px; padding-top: 8px">
+<p>
+ Flyz, 2889 Willow Creek Road, Prescott</p>
+<p>
+ "I'll pay off the car and bank the rest."</p>
+
+                </div>
+            </div>
+        </div>
+        <div style="clear:both;"></div>
+    </div>
+</div>
+
+			</div><div id="ctl00_ctl00_MainMenu1_MegaMenu-3_HallOfWinnersTabContent1838" class="ContentCard">
+				<div class="viewContent" style="padding: 0;">
+    <div>
+        <div class="mmContent">
+            <div class="mmHeader3" style="margin-bottom: 8px;">HENRY LOPEZ            </div>
+            <div>
+                <img src="GetDoc.ashx?DocID=c6381696-c7b8-4196-805e-824289619520&amp;width=100&amp;MaxHeight=150" alt="" border="1" align="right" style="margin-left: 12px; margin-bottom: 20px;">
+                <div class="mmHeader2" style="margin-bottom: 0px;">
+SCRATCHERS - $50,000                </div>
+            <div style="width: 200px;">
+<p>
+ Black Cherry Doubler</p>
+<p>
+ S K Chevron, 223 E. Indian School Road, Phoenix</p>
+<p>
+ "I like new games, and I had never seen this one."</p>
+
+                </div>
+            </div>
+        </div>
+        <div style="clear:both;"></div>
+    </div>
+</div>
+
+			</div><div id="ctl00_ctl00_MainMenu1_MegaMenu-3_HallOfWinnersTabContent1839" class="ContentCard">
+				<div class="viewContent" style="padding: 0;">
+    <div>
+        <div class="mmContent">
+            <div class="mmHeader3" style="margin-bottom: 8px;">            </div>
+            <div>
+                <img src="GetDoc.ashx?DocID=229070be-32ee-463e-b314-49119dfa4e28&amp;width=100&amp;MaxHeight=150" alt="" border="1" align="right" style="margin-left: 12px; margin-bottom: 20px;">
+                <div class="mmHeader2" style="margin-bottom: 0px;">
+SCRATCHERS - $100,000                </div>
+            <div style="width: 200px;">
+<p>
+ Red Hot Crossword</p>
+<p>
+ Valero Corner Store #1655, 5110 W. Baseline Road, Laveen</p>
+<p>
+ "I'll put it toward a new house.&nbsp; I always believed I would win a jackpot."</p>
+
+                </div>
+            </div>
+        </div>
+        <div style="clear:both;"></div>
+    </div>
+</div>
+
+			</div><div id="ctl00_ctl00_MainMenu1_MegaMenu-3_HallOfWinnersTabContent1840" class="ContentCard">
+				<div class="viewContent" style="padding: 0;">
+    <div>
+        <div class="mmContent">
+            <div class="mmHeader3" style="margin-bottom: 8px;">            </div>
+            <div>
+                <img src="GetDoc.ashx?DocID=229070be-32ee-463e-b314-49119dfa4e28&amp;width=100&amp;MaxHeight=150" alt="" border="1" align="right" style="margin-left: 12px; margin-bottom: 20px;">
+                <div class="mmHeader2" style="margin-bottom: 0px;">
+SCRATCHERS - $10,000                </div>
+            <div style="width: 200px;">
+<p>
+ Arizona Black Select</p>
+<p>
+ NR Tobacco &amp; Gifts, 7445 W. Cactus Road, #201, Peoria</p>
+<p>
+ "After 20 years of playing, I finally won."</p>
+
+                </div>
+            </div>
+        </div>
+        <div style="clear:both;"></div>
+    </div>
+</div>
+
+			</div>
+		</div>
+
+	</div></li><li id="MegaMenu4" class="MenuItem"><a class="MenuItem4" href="http://arizonalottery.com/Email_Mobile.html"></a><div id="ctl00_ctl00_MainMenu1_MegaMenu-4_pnlTabButtons" class="megaMenu clearfix" style="display:none;position:absolute;top:60px;left:-509px;">
+		
+    <div>
+        <div>
+            <div id="ctl00_ctl00_MainMenu1_MegaMenu-4_pnlZoneA" class="zoneA">
+			
+                <ul class="tabButtons">
+<li rel="ctl00_ctl00_MainMenu1_MegaMenu-4_StayConnectedTabContent1" class="emailAndMobile active" onclick="window.location.href='http://arizonalottery.com/Signup.html'">EMAIL SIGN-UP</li>
+<li rel="ctl00_ctl00_MainMenu1_MegaMenu-4_StayConnectedTabContent2" class="emailAndMobile" onclick="window.location.href='http://arizonalottery.com/Email_Mobile/Text.html'">TEXT SIGN-UP</li>
+<li rel="ctl00_ctl00_MainMenu1_MegaMenu-4_StayConnectedTabContent3" class="emailAndMobile" onclick="window.location.href='http://arizonalottery.com/Email_Mobile/Mobile_Site.html'">MOBILE WEBSITE</li>
+</ul>
+            
+		</div>
+            <div id="StayConnectedzoneB" class="zoneB">
+                <div class="divZoneB_Content"></div>
+            </div>
+        </div>
+        <div>
+            <div class="mmFooter">
+                <a id="ctl00_ctl00_MainMenu1_MegaMenu-4_lnkZoneA_Footer" href="../Email_Mobile.html">View main page</a>
+            </div>
+        </div>
+    </div>
+    <div id="ctl00_ctl00_MainMenu1_MegaMenu-4_pnlZoneC" class="zoneC">
+			
+        <div style="padding: 0" class="mmHeaderImage"><a href="http://arizonalottery.com/Promotions.html?section=Promotion-c663d25f-c616-4d96-82e2-014bc72c514b"><img src="GetDoc.ashx?DocID=3bc79204-835a-4561-a461-c71525f815f6" alt="" width="312" height="106"></a></div>
+    <div id="ctl00_ctl00_MainMenu1_MegaMenu-4_pnlViewControlede5a" class="viewContent" style="padding: 0;">
+				
+<div>
+    
+    <div style="padding: 18px 0px 0px 20px;">
+ <ul class="zoneC-list clearfix">
+  <li class="header">
+   MORE INFO:</li>
+  <li>
+   <a href="http://www.arizonalottery.com/Signup.html">Sign Up for Email Alerts</a></li>
+  <li>
+   <a href="http://www.arizonalottery.com/Email_Mobile/Text.html">Sign Up for Text Alerts</a></li>
+  <li>
+   <a href="http://www.arizonalottery.com/Games/SecondChanceDrawings.html">Second Chance Scratchers Games</a></li>
+  <li>
+   <a href="http://www.arizonalottery.com/FindARetailer.html">Where to Play?</a></li>
+ </ul>
+</div>
+<p style="left: 0px; bottom: 0px; margin-left: 2px; position: absolute;">
+ <a href="http://www.arizonalottery.com/the-arizona-lottery-gift-shop.html"><img src="GetDoc.ashx?DocID=ce92ecdb-65ce-4e23-aa4e-5a7f19d28376"></a></p>
+
+</div>
+
+			</div>
+		</div>
+    <div id="ctl00_ctl00_MainMenu1_MegaMenu-4_pnlContentCards" style="display: none;">
+			<div id="ctl00_ctl00_MainMenu1_MegaMenu-4_StayConnectedTabContent1" class="ContentCard">
+				<div id="ctl00_ctl00_MainMenu1_MegaMenu-4_pnlViewControld0c13" class="viewContent" style="padding: 0;">
+					
+<div>
+    
+    <div class="mmHeaderImage">
+ <a href="http://www.arizonalottery.com/Signup.html"><img src="GetDoc.ashx?DocID=b61e0e7f-5557-43fe-8792-ca1ca110b6e3"></a></div>
+<div class="mmContent clearfix">
+ <div class="mmHeader2">
+  EMAIL SIGN-UP</div>
+ <div style="font-weight: bold;">
+  SIGN UP FOR:</div>
+ <ul class="mmContentList clearfix">
+  <li>
+   Winning numbers</li>
+  <li>
+   Jackpot amounts</li>
+  <li>
+   Exclusive email promotions</li>
+ </ul>
+ <p>
+  &nbsp;</p>
+ <p>
+  &nbsp;</p>
+</div>
+<p>
+ &nbsp;</p>
+
+</div>
+
+				</div>
+			</div><div id="ctl00_ctl00_MainMenu1_MegaMenu-4_StayConnectedTabContent2" class="ContentCard">
+				<div id="ctl00_ctl00_MainMenu1_MegaMenu-4_pnlViewControl6726b" class="viewContent" style="padding: 0;">
+					
+<div>
+    
+    <div class="mmHeaderImage">
+ <a href="http://www.arizonalottery.com/Email_Mobile/Text.html"><img src="GetDoc.ashx?DocID=aa78ed36-90ee-4e46-9469-ee74740b6fe6"></a></div>
+<div class="mmContent clearfix">
+ <div class="mmHeader2">
+  TEXT SIGN-UP</div>
+ <div style="font-weight: bold;">
+  SIGN UP FOR:</div>
+ <ul class="mmContentList clearfix">
+  <li>
+   Winning numbers</li>
+  <li>
+   Jackpot amounts</li>
+ </ul>
+</div>
+<p>
+ &nbsp;</p>
+
+</div>
+
+				</div>
+			</div><div id="ctl00_ctl00_MainMenu1_MegaMenu-4_StayConnectedTabContent3" class="ContentCard">
+				<div id="ctl00_ctl00_MainMenu1_MegaMenu-4_pnlViewControle43b8" class="viewContent" style="padding: 0;">
+					
+<div>
+    
+    <div class="mmHeaderImage">
+	<a href="http://www.arizonalottery.com/Signup.html"><img src="GetDoc.ashx?DocID=f7a95996-e591-429a-9b16-293bf131a0d3"></a></div>
+<div class="mmContent clearfix">
+	<div class="mmHeader2">
+		MOBILE WEBSITE</div>
+	<div style="font-weight: bold">
+		CHECK IN FOR:</div>
+	<ul class="mmContentList clearfix">
+		<li>
+			Winning numbers</li>
+		<li>
+			Game information</li>
+		<li>
+			Recent big winners</li>
+		<li>
+			The latest Lottery news</li>
+	</ul>
+	<p>
+		&nbsp;</p>
+	<p>
+		<a href="http://www.arizonalottery.com/Email_Mobile/Mobile_Site.html">Learn more</a></p>
+</div>
+<p>
+	&nbsp;</p>
+
+</div>
+
+				</div>
+			</div>
+		</div>
+
+	</div></li><li id="MegaMenu5" class="MenuItem"><a class="MenuItem5" href="http://arizonalottery.com/HowTheMoneyHelps.html"></a><div id="ctl00_ctl00_MainMenu1_MegaMenu-5_pnlTabButtons" class="megaMenu clearfix" style="display:none;position:absolute;top:60px;left:-703px;">
+		
+    <div>
+        <div>
+            <div id="ctl00_ctl00_MainMenu1_MegaMenu-5_pnlZoneA" class="zoneA">
+			
+                <ul class="tabButtons">
+<li rel="ctl00_ctl00_MainMenu1_MegaMenu-5_HowTheMoneyHelpsTabContent1" class="active" onclick="window.location.href='http://arizonalottery.com/beneficiaries.html?section=Development'">ECONOMIC &amp; BUSINESS DEVELOPMENT</li>
+<li rel="ctl00_ctl00_MainMenu1_MegaMenu-5_HowTheMoneyHelpsTabContent2" onclick="window.location.href='http://arizonalottery.com/beneficiaries.html?section=Education'">EDUCATION</li>
+<li rel="ctl00_ctl00_MainMenu1_MegaMenu-5_HowTheMoneyHelpsTabContent3" onclick="window.location.href='http://arizonalottery.com/beneficiaries.html?section=Environmental'">ENVIRONMENTAL ISSUES</li>
+<li rel="ctl00_ctl00_MainMenu1_MegaMenu-5_HowTheMoneyHelpsTabContent4" onclick="window.location.href='http://arizonalottery.com/beneficiaries.html?section=Welfare'">HEALTH &amp; PUBLIC WELFARE</li>
+</ul>
+            
+		</div>
+            <div id="HowTheMoneyHelpszoneB" class="zoneB">
+                <div class="divZoneB_Content"></div>
+            </div>
+        </div>
+        <div>
+            <div class="mmFooter">
+                <a id="ctl00_ctl00_MainMenu1_MegaMenu-5_lnkZoneA_Footer" href="../HowTheMoneyHelps.html">View main page</a>
+            </div>
+        </div>
+    </div>
+    <div id="ctl00_ctl00_MainMenu1_MegaMenu-5_pnlZoneC" class="zoneC">
+			
+        <div style="padding: 0" class="mmHeaderImage"><a href="http://arizonalottery.com/Promotions.html?section=Promotion-20fc70f3-eb0f-4ac7-9066-26def9f4b0f3"><img src="GetDoc.ashx?DocID=08d4d196-8735-458b-898a-238b51a1ff8e" alt="" width="312" height="106"></a></div>
+    <div id="ctl00_ctl00_MainMenu1_MegaMenu-5_pnlViewControl2a3d1" class="viewContent" style="padding: 0;">
+				
+<div>
+    
+    <div style="padding: 18px 0px 0px 20px;">
+ <ul class="zoneC-list clearfix">
+  <li class="header">
+   MORE INFO:</li>
+  <li>
+   <a href="http://arizonalottery.com/sponsorships.html">Community Sponsorship Opportunities</a></li>
+  <li>
+   <a href="http://www.arizonalottery.com/Signup.html">Sign Up for Email Alerts</a></li>
+  <li>
+   <a href="http://www.arizonalottery.com/Email_Mobile/Text.html">Sign Up for Text Alerts</a></li>
+  <li>
+   <a href="http://www.arizonalottery.com/Games/SecondChanceDrawings.html">Second Chance Scratchers Games</a></li>
+  <li>
+   <a href="http://www.arizonalottery.com/FindARetailer.html">Where to Play?</a></li>
+ </ul>
+</div>
+<p style="left: 0px; bottom: 0px; margin-left: 2px; position: absolute;">
+ <a href="http://www.arizonalottery.com/the-arizona-lottery-gift-shop.html"><img src="GetDoc.ashx?DocID=ce92ecdb-65ce-4e23-aa4e-5a7f19d28376"></a></p>
+
+</div>
+
+			</div>
+		</div>
+    <div id="ctl00_ctl00_MainMenu1_MegaMenu-5_pnlContentCards" style="display: none;">
+			<div id="ctl00_ctl00_MainMenu1_MegaMenu-5_HowTheMoneyHelpsTabContent1" class="ContentCard">
+				<div id="ctl00_ctl00_MainMenu1_MegaMenu-5_pnlViewControle0f7d" class="viewContent" style="padding: 0;">
+					
+<div>
+    
+    <div class="mmHeaderImage">
+ <a href="http://www.arizonalottery.com/beneficiaries.html?section=Development"><img src="GetDoc.ashx?DocID=44474b54-c979-4df3-a7ae-2213f232a090"></a></div>
+<div class="mmContent">
+ <div class="mmHeader2">
+  COMMERCE AUTHORITY: ARIZONA<br>
+  COMPETES FUND</div>
+ <p>
+  By statute, the Lottery provides $3.5 million to Arizona Competes Fund for grants attracting, expanding or retaining Arizona basic enterprises, and supporting and advancing programs and projects for rural businesses, small businesses, and business development that enhance economic development.</p>
+ <p>
+  &nbsp;</p>
+ <p>
+  <a href="http://www.arizonalottery.com/beneficiaries.html?section=Development">Read more</a></p>
+</div>
+<p>
+ &nbsp;</p>
+
+</div>
+
+				</div>
+			</div><div id="ctl00_ctl00_MainMenu1_MegaMenu-5_HowTheMoneyHelpsTabContent2" class="ContentCard">
+				<div id="ctl00_ctl00_MainMenu1_MegaMenu-5_pnlViewControlc8378" class="viewContent" style="padding: 0;">
+					
+<div>
+    
+    <div class="mmHeaderImage">
+	<a href="http://www.arizonalottery.com/beneficiaries.html?section=Education"><img src="GetDoc.ashx?DocID=8202a36e-ca98-48d7-a641-e9ccb5638513"></a></div>
+<div class="mmContent">
+	<div class="mmHeader2">
+		GENERAL FUND</div>
+	<p>
+		By statute, this fund may receive a maximum of $31 million dollars annually from the sale of Lottery products. The fund may receive additional monies, up to $15.49 million, after distributions to several other beneficiaries are complete. Education receives 55.5% of the Lottery’s General Fund total.</p>
+	<p>
+		&nbsp;</p>
+	<p>
+		<a href="http://www.arizonalottery.com/beneficiaries.html?section=Education">Read more</a></p>
+</div>
+<p>
+	&nbsp;</p>
+
+</div>
+
+				</div>
+			</div><div id="ctl00_ctl00_MainMenu1_MegaMenu-5_HowTheMoneyHelpsTabContent3" class="ContentCard">
+				<div id="ctl00_ctl00_MainMenu1_MegaMenu-5_pnlViewControl7ae14" class="viewContent" style="padding: 0;">
+					
+<div>
+    
+    <div class="mmHeaderImage">
+ <a href="http://www.arizonalottery.com/beneficiaries.html?section=Environmental"><img src="GetDoc.ashx?DocID=11663d86-cc4f-4d83-9343-bcf1249f1437"></a></div>
+<div class="mmContent">
+ <div class="mmHeader2">
+  GENERAL FUND</div>
+ <p>
+  By statute, this fund may receive a maximum of $31 million dollars annually from the sale of Lottery products. The fund may receive additional monies, up to $15.49 million, after distributions to several other beneficiaries are complete. Environmental issues receive .4% of the Lottery’s General Fund’s total.</p>
+ <p>
+  &nbsp;</p>
+ <p>
+  <a href="http://www.arizonalottery.com/beneficiaries.html?section=Environmental">Read more</a></p>
+</div>
+<p>
+ &nbsp;</p>
+
+</div>
+
+				</div>
+			</div><div id="ctl00_ctl00_MainMenu1_MegaMenu-5_HowTheMoneyHelpsTabContent4" class="ContentCard">
+				<div id="ctl00_ctl00_MainMenu1_MegaMenu-5_pnlViewControl5b838" class="viewContent" style="padding: 0;">
+					
+<div>
+    
+    <div class="mmHeaderImage">
+	<a href="http://www.arizonalottery.com/beneficiaries.html?section=Welfare"><img src="GetDoc.ashx?DocID=b9467c30-bbf3-4f9a-b1db-c46ba33aee76"></a></div>
+<div class="mmContent">
+	<div class="mmHeader2">
+		GENERAL FUND</div>
+	<p>
+		By statute, this fund may receive a maximum of $31 million dollars annually from the sale of Lottery products. The fund may receive additional monies, up to $15.49 million, after distributions to several other beneficiaries are complete.&nbsp;Health and Public Welfare&nbsp;receives 44.1% of the Lottery’s General Fund total.</p>
+	<p>
+		&nbsp;</p>
+	<p>
+		<a href="http://www.arizonalottery.com/beneficiaries.html?section=Welfare">Read more</a></p>
+</div>
+<p>
+	&nbsp;</p>
+
+</div>
+
+				</div>
+			</div>
+		</div>
+
+	</div></li></ul>
+<div id="ctl00_ctl00_MainMenu1_pnlMenus">
+		
+    
+
+	</div>
+
+            
+</div>
+            
+            
+     
+
+     
+
+        </div>
+    </div>
+    <div id="content_main">
+        <div id="contentBodyWrapper">
+            <div style="text-align:left; width:100px; margin: 2px 0 0 -5px">
                 
-
-<div style="text-align:left; width:100px; margin: 2px 0 0 -5px">
-
-<div id="myElement" style="position: fixed; top: 160px; width: 75px; background: url(/images/bg_subcol.png) repeat; z-index: 100; border: solid 5px #003366;">
+<div id="myElement" style="position: fixed; top: 175px; width: 75px; background: url(/images/bg_subcol.png) repeat; z-index: 100; border: solid 5px #000;">
     <center>
 
         <script type="text/javascript">
@@ -96,7 +935,7 @@
                 <td>
                     <center>
                         <div style="margin-top: 5px; margin-bottom: -3px">
-                            <iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.arizonalottery.com%2FDefault.aspx%3FPageID%3Dca40388b-d20e-49a9-92a4-52afb64937b0&amp;layout=box_count&amp;show_faces=false&amp;width=50&amp;action=like&amp;font=arial&amp;colorscheme=light&amp;height=65" scrolling="no" frameborder="0" style="border:none; margin-left:5px; overflow:hidden; width:50px; height:65px;" allowtransparency="true"></iframe>
+                            <iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Farizonalottery.com%2FDefault.aspx%3FPageID%3Dca40388b-d20e-49a9-92a4-52afb64937b0&amp;layout=box_count&amp;show_faces=false&amp;width=50&amp;action=like&amp;font=arial&amp;colorscheme=light&amp;height=65" scrolling="no" frameborder="0" style="border:none; margin-left:5px; overflow:hidden; width:50px; height:65px;" allowtransparency="true"></iframe>
                         </div>
                     </center>
                 </td>
@@ -175,102 +1014,15 @@
 </script>
 
 
-</div> 
-
-<ul id="ctl00_ctl00_MainMenu1_MainMenu" class="sf-menu"><li> 
-<a class="Item1" href="http://www.arizonalottery.com/Games.html">Games </a> 
-<ul> 
-<li><a href="/Games/AZMillionaireRaffle.html">Millionaire Raffle  </a></li> 
-<li><a href="/Games/Powerball.html?GameID=1">Powerball </a></li> 
-<li><a href="/Games/MegaMillion.html?GameID=5">Mega Millions  </a></li> 
-<li><a href="/ThePick.html?GameID=3">The Pick </a></li> 
-<li><a href="/Fantasy5.html?GameID=5555">Fantasy 5 </a></li> 
-<li><a href="/Pick3.html?GameID=2">Pick 3 </a></li> 
-<li><a href="/Games/2by2.html?GameID=11">2by2 </a></li> 
-<li><a href="/Games/CA$H4.html?GameID=9">CA$H4 </a></li> 
-<li><a href="/Games/Scratchers/Scratchers.html">Scratchers </a></li> 
-<li><a href="/Games/SecondChanceDrawings.html">Second Chance Scratchers Games </a></li> 
-<li><a href="/Games/QuickCheck_Players.html">QUICK CHECK  </a></li> 
-</ul> 
- 
-</li><li> 
-<a class="Item2" href="http://www.arizonalottery.com/FindARetailer.html">Find a Retailer </a> 
- 
-</li><li> 
-<a class="Item3" href="http://www.arizonalottery.com/NowWhat.html">I Won, Now What? </a> 
-<ul> 
-<li><a href="/ClaimForm.html">Winner Claim Form </a></li> 
-<li><a href="/Phoenix.html">Phoenix Office Map  </a></li> 
-<li><a href="/Tucson.html">Tucson Office Map  </a></li> 
-</ul> 
- 
-</li><li> 
-<a class="Item4" href="http://www.arizonalottery.com/Winners.html">Hall of Winners </a> 
- 
-</li><li> 
-<a class="Item5" href="http://www.arizonalottery.com/Email_Mobile.html">Email &amp; Mobile </a> 
-<ul> 
-<li><a href="/Signup.html">Newsletter Sign-Up </a></li> 
-<li><a href="/Email_Mobile/Text.html">Text Sign-Up </a></li> 
-<li><a href="/Email_Mobile/Mobile_Site.html">Mobile Site </a></li> 
-</ul> 
- 
-</li><li> 
-<a class="Item6" href="http://www.arizonalottery.com/Games/HowTheMoneyHelps.html">How the Money Helps </a> 
-<ul> 
-<li><a href="/beneficiaries.html">Beneficiaries </a></li> 
-</ul> 
- 
-</li><li> 
-<a class="Item7" href="http://www.arizonalottery.com/retailersection.html">Retailer Section </a> 
-<ul> 
-<li><a href="/RetailInfo.html">Become a Retailer </a></li> 
-<li><a href="/Retailer/Contact.html">Lottery Contacts for Retailers </a></li> 
-<li><a href="/RetailerPromotions.html">Lottery Promotions </a></li> 
-<li><a href="/Retailer/QuickCheck_Retailers.html">QUICK CHECK  </a></li> 
-<li><a href="/TheRegisterRetailerNewsletter.html">Retailer Newsletters </a></li> 
-</ul> 
- 
-</li><li> 
-<a class="Item8" href="http://www.arizonalottery.com/AboutTheLottery.html">About the Arizona Lottery </a> 
-<ul> 
-<li><a href="/CommissionMeetingMinutes.html">Commission Meetings </a></li> 
-<li><a href="/sponsorships.html">Community Sponsorship Opportunities </a></li> 
-<li><a href="/About/Contact.html">Contact Us </a></li> 
-<li><a href="/Employment.html">Employment Opportunities </a></li> 
-<li><a href="/About/FAQ.html">FAQs </a></li> 
-<li><a href="/FinancialStatements.html">Financial Statements </a></li> 
-<li><a href="/About/Letter_from_the_Director.html">Letter from the Director </a></li> 
-<li><a href="/About/Links.html">Links </a></li> 
-<li><a href="/Rules.html">Lottery Operations Rules </a></li> 
-<li><a href="/About/News.html">News </a></li> 
-<li><a href="/playsafe.html">Play Safe </a></li> 
-<li><a href="/About/PrivacyPolicy.html">Privacy Policy </a></li> 
-<li><a href="/RFP_Procurement.html">RFP/Procurement </a></li> 
-</ul> 
- 
-</li></ul>
-
-            
-</div>
-            
-            
-     
-
-     
-
-        </div>
-    </div>
-    <div id="content_main">
-        <div id="contentBodyWrapper">
+            </div>
             
     <div id="news_container" class="clearfix">
 	        
 <div id="bread_crumbs">
     <ul>
-        <li><a href="http://www.arizonalottery.com/Home.html">The Arizona Lottery &gt; </a></li> 
-<li><a href="http://www.arizonalottery.com/AboutTheLottery.html">About the Arizona Lottery &gt; </a></li> 
-<li><a href="http://www.arizonalottery.com/About/PrivacyPolicy.html">Privacy Policy </a></li> 
+        <li><a href="http://arizonalottery.com/Home.html">The Arizona Lottery &gt; </a></li> 
+<li><a href="http://arizonalottery.com/AboutTheLottery.html">About the Arizona Lottery &gt; </a></li> 
+<li><a href="http://arizonalottery.com/About/PrivacyPolicy.html">Privacy Policy </a></li> 
 
     </ul>
 </div>  
@@ -291,35 +1043,85 @@
 
 <div class="winning_game">
 								<h4>
+								<a id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame1_lnkGameLink" href="../Games/Powerball.html?GameID=1"><span id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame1_lblGame">Powerball</span></a> 
+								</h4>
+								
+								<p class="draw_date">Date: <span id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame1_lblDate">05/25/2013</span></p><br style="clear:both;">
+								
+<div id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame1_pnlwinning_powerball">
+	
+								<div id="winning_powerball">					
+								<ul class="clearfix">
+									<li><span id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame1_lbl1">2</span></li>
+									<li><span id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame1_lbl2">6</span></li>
+									<li><span id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame1_lbl3">19</span></li>
+									<li><span id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame1_lbl4">21</span></li>
+									<li><span id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame1_lbl5">27</span></li>
+									<li id="power"><span id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame1_lbl6">25</span></li>
+								</ul>
+ 
+ 						
+								<p><span class="next_jackpot"><a href="/Games/Powerball.html?GameID=1"><span id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame1_lblEstimatedWinPowerball"><br>Click For Jackpot<br></span> </a></span></p>
+
+							</div>
+
+</div>
+
+								
+	
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+
+                                
+
+<div class="winning_game">
+								<h4>
 								<a id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame7_lnkGameLink" href="../MegaMillion.html?GameID=5"><span id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame7_lblGame">Mega Millions</span></a> 
 								</h4>
 								
-								<p class="draw_date">Date: <span id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame7_lblDate">12/30/2011</span></p><br style="clear:both;">
+								<p class="draw_date">Date: <span id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame7_lblDate">05/28/2013</span></p><br style="clear:both;">
 								
+
+
 								
 <div id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame7_pnlwinning_megamillion">
 	
 								<div id="winning_megamillion">					
 								<ul class="clearfix">
 									<li><span id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame7_lbl11">4</span></li>
-									<li><span id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame7_lbl12">24</span></li>
-									<li><span id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame7_lbl13">45</span></li>
-									<li><span id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame7_lbl14">46</span></li>
-									<li><span id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame7_lbl15">52</span></li>
-									<li id="mega"><span id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame7_lbl16">1</span></li>
+									<li><span id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame7_lbl12">12</span></li>
+									<li><span id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame7_lbl13">25</span></li>
+									<li><span id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame7_lbl14">32</span></li>
+									<li><span id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame7_lbl15">54</span></li>
+									<li id="mega"><span id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame7_lbl16">36</span></li>
 								</ul>
 								<p><span class="highlight">Megaplier: <span id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame7_lblMegaPlier">4</span></span></p>
 								
 								<p><span class="next_jackpot"><a href="/Games/MegaMillion.html?GameID=5"><span id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame7_lblEstimatedWinMegaMillion"><br>Click For Jackpot<br></span></a></span></p>
 								
-								
-																                                                                          
-				
 							</div>
 
-</div>								
-								
-								
+</div>	
+		
 
 
 
@@ -329,9 +1131,8 @@
 
 
 
-<!--
 
--->
+
 
 
 
@@ -343,126 +1144,21 @@
 
 
 						        
-
-<div class="winning_game">
-								<h4>
-								<a id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame1_lnkGameLink" href="../Powerball.html?GameID=1"><span id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame1_lblGame">Powerball</span></a> 
-								</h4>
-								
-								<p class="draw_date">Date: <span id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame1_lblDate">12/28/2011</span></p><br style="clear:both;">
-								
-								
-								
-								
-								
-<div id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame1_pnlwinning_powerball">
-	
-								<div id="winning_powerball">					
-								<ul class="clearfix">
-									<li><span id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame1_lbl1">16</span></li>
-									<li><span id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame1_lbl2">21</span></li>
-									<li><span id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame1_lbl3">27</span></li>
-									<li><span id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame1_lbl4">41</span></li>
-									<li><span id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame1_lbl5">45</span></li>
-									<li id="power"><span id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame1_lbl6">14</span></li>
-								</ul>
-								<p><span class="highlight">Power Play: <span id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame1_lblPowerPlay">2</span></span></p>
-								
-								<p><span class="next_jackpot"><a href="/Games/Powerball.html?GameID=1"><span id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame1_lblEstimatedWinPowerball"><br>Click For Jackpot<br></span> </a></span></p>
-								
-								
-												
-								
-
-							</div>
-
-</div>
-
-
-
-
-
-
-
-
-<!--
-
--->
-
-
-
-
-
-
-</div>
-
-
-
-						        
-
-<div class="winning_game">
-								<h4>
-								<a id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame5_lnkGameLink" href="../Games/CA$H4.html?GameID=9"><span id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame5_lblGame">CA$H4</span></a> 
-								</h4>
-								
-								<p class="draw_date">Date: <span id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame5_lblDate">12/30/2011</span></p><br style="clear:both;">
-								
-								
-								
-								
-								
-
-
-
-<div id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame5_pnlCash4">
-	
-    <div id="winning_cash4">
-				<ul class="clearfix">
-					<li><span id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame5_lblc51">8</span></li>
-					<li><span id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame5_lblc52">9</span></li>
-					<li><span id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame5_lblc53">12</span></li>
-					<li> <span id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame5_lblc54">19</span></li>
-				</ul>
-				
-				<span class="next_jackpot"><a href="/Games/CA$H4.html?GameID=9"><span id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame5_lblEstimatedWinc4"><br>Click For Jackpot<br></span></a></span>
-				
-				
-								
-				
-        </div>
-
-</div>
-
-
-
-
-
-<!--
-
--->
-
-
-
-
-
-
-</div>
-
-
-
-              
 
 <div class="winning_game">
 								<h4>
 								<a id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame2_lnkGameLink" href="../ThePick.html?GameID=3"><span id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame2_lblGame">The Pick</span></a> 
 								</h4>
 								
-								<p class="draw_date">Date: <span id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame2_lblDate">12/28/2011</span></p><br style="clear:both;">
+								<p class="draw_date">Date: <span id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame2_lblDate">05/25/2013</span></p><br style="clear:both;">
 								
+
+
 								
-								
-								
-								
+	
+		
+
+
 
 
 
@@ -474,12 +1170,12 @@
 	
     <div id="winning_thepick">
 				<ul class="clearfix">
-					<li><span id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame2_lbl61">5</span></li>
-					<li><span id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame2_lbl62">10</span></li>
-					<li><span id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame2_lbl63">24</span></li>
-					<li><span id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame2_lbl64">28</span></li>
-					<li><span id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame2_lbl65">31</span></li>
-					<li><span id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame2_lbl66">39</span></li>
+					<li><span id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame2_lbl61">9</span></li>
+					<li><span id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame2_lbl62">25</span></li>
+					<li><span id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame2_lbl63">27</span></li>
+					<li><span id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame2_lbl64">36</span></li>
+					<li><span id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame2_lbl65">40</span></li>
+					<li><span id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame2_lbl66">42</span></li>
 				</ul>
 				
 				<span class="next_jackpot"><a href="/ThePick.html?GameID=3">
@@ -489,9 +1185,6 @@
 
 </div>
 
-<!--
-
--->
 
 
 
@@ -502,21 +1195,35 @@
 
 
 
-              
+                                
 
 <div class="winning_game">
 								<h4>
-								<a id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame3_lnkGameLink" href="../Fantasy5.html?GameID=5555"><span id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame3_lblGame">Fantasy 5<br>(Formerly Pick 5)</span></a> 
+								<a id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame8_lnkGameLink" href="../Games/WeeklyWinnings.html?GameID=14"><span id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame8_lblGame">Weekly Winnings</span></a> 
 								</h4>
 								
-								<p class="draw_date">Date: <span id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame3_lblDate">12/30/2011</span></p><br style="clear:both;">
-								
-								
-								
-								
+								<p class="draw_date">Date: <span id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame8_lblDate">05/28/2013</span></p><br style="clear:both;">
 								
 
 
+								
+	
+		
+
+<div id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame8_pnlWkWin">
+	
+     <div id="winning_wkwin">
+         <ul class="clearfix">
+            <li><span id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame8_lblc81">8</span></li>
+            <li><span id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame8_lblc82">21</span></li>
+            <li><span id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame8_lblc83">35</span></li>
+            <li><span id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame8_lblc84">45</span></li>
+         </ul>
+         <br>
+         <span class="next_jackpot"><a href="/Games/WeeklyWinnings.html?GameID=14"><span id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame8_lblEstimatedWinww"><br>Click For Jackpot<br></span></a></span>
+       </div>
+
+</div>
 
 
 
@@ -524,20 +1231,54 @@
 
 
 
-<!--
 
--->
+
+
+
+
+
+
+
+</div>
+
+
+
+                                
+
+<div class="winning_game">
+								<h4>
+								<a id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame3_lnkGameLink" href="../Fantasy5.html?GameID=5555"><span id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame3_lblGame">Fantasy 5</span></a> 
+								</h4>
+								
+								<p class="draw_date">Date: <span id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame3_lblDate">05/28/2013</span></p><br style="clear:both;">
+								
+
+
+								
+	
+		
+
+
+
+
+
+
+
+
+
+
+
 
 
 <div id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame3_pnlFant5">
 	
     <div id="winning_pick5">
 				<ul class="clearfix">
-					<li><span id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame3_lblf51">7</span></li>
-					<li><span id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame3_lblf52">13</span></li>
-					<li><span id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame3_lblf53" class="WinNum">24</span></li>
-					<li><span id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame3_lblf54" class="WinNum">31</span></li>
-					<li><span id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame3_lblf55" class="WinNum">35</span></li>
+					<li><span id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame3_lblf51">5</span></li>
+					<li><span id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame3_lblf52">8</span></li>
+					<li><span id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame3_lblf53" class="WinNum">11</span></li>
+					<li><span id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame3_lblf54" class="WinNum">16</span></li>
+					<li><span id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame3_lblf55" class="WinNum">30</span></li>
 				</ul>
 
 				
@@ -553,21 +1294,71 @@
 
 
 
-              
+						        
+
+<div class="winning_game">
+								<h4>
+								<a id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame6_lnkGameLink" href="../Games/2by2.html?GameID=11"><span id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame6_lblGame">2by2</span></a> 
+								</h4>
+								
+								<p class="draw_date">Date: <span id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame6_lblDate">05/28/2013</span></p><br style="clear:both;">
+								
+
+
+								
+	
+		
+
+
+
+
+
+<div id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame6_pnlT2by2">
+	
+    <div id="winning_t2by2">
+				<ul class="clearfix">
+					<li id="power"><span id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame6_lblc71">16</span></li>
+					<li id="power"><span id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame6_lblc72">18</span></li>
+					<li><span id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame6_lblc73">8</span></li>
+					<li> <span id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame6_lblc74">14</span></li>
+				</ul>
+			
+				<span class="next_jackpot"><a href="/Games/2by2.html?GameID=11"><span id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame6_lblEstimatedWint2"><br>Click For Jackpot<br></span></a>
+				
+				</span>
+				
+        </div>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+
+                                
 
 <div class="winning_game">
 								<h4>
 								<a id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame4_lnkGameLink" href="../Pick3.html?GameID=2"><span id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame4_lblGame">Pick 3</span></a> 
 								</h4>
 								
-								<p class="draw_date">Date: <span id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame4_lblDate">12/30/2011</span></p><br style="clear:both;">
-								
-								
-								
-								
+								<p class="draw_date">Date: <span id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame4_lblDate">05/28/2013</span></p><br style="clear:both;">
 								
 
 
+								
+	
+		
 
 
 
@@ -575,9 +1366,10 @@
 
 
 
-<!--
 
--->
+
+
+
 
 
 
@@ -587,9 +1379,9 @@
 	
     <div id="winning_pick3">
 				<ul class="clearfix">
-					<li><span id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame4_lbl31" class="WinNum">0</span></li>
-					<li><span id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame4_lbl32" class="WinNum">1</span></li>
-					<li> <span id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame4_lbl33" class="WinNum">7</span></li>
+					<li><span id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame4_lbl31" class="WinNum">5</span></li>
+					<li><span id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame4_lbl32" class="WinNum">7</span></li>
+					<li> <span id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame4_lbl33" class="WinNum">1</span></li>
 				</ul>
 				
 				<p><span class="next_jackpot"><a href="/Pick3.html?GameID=2">
@@ -606,59 +1398,6 @@
 
 
 
-						        
-
-<div class="winning_game">
-								<h4>
-								<a id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame6_lnkGameLink" href="../Games/2by2.html?GameID=11"><span id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame6_lblGame">2by2</span></a> 
-								</h4>
-								
-								<p class="draw_date">Date: <span id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame6_lblDate">12/30/2011</span></p><br style="clear:both;">
-								
-								
-								
-								
-								
-
-
-
-
-
-<div id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame6_pnlT2by2">
-	
-    <div id="winning_t2by2">
-				<ul class="clearfix">
-					<li id="power"><span id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame6_lblc71">14</span></li>
-					<li id="power"><span id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame6_lblc72">17</span></li>
-					<li><span id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame6_lblc73">21</span></li>
-					<li> <span id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame6_lblc74">26</span></li>
-				</ul>
-				
-				<span class="next_jackpot"><a href="/Games/2by2.html?GameID=11"><span id="ctl00_ctl00_ContentPlaceHolderBody_WinningNumbersForAllGames1_WinNumByGame6_lblEstimatedWint2"><br>Click For Jackpot<br></span></a>
-				
-				</span>
-				
-        </div>
-
-</div>
-
-
-
-<!--
-
--->
-
-
-
-
-
-
-</div>
-
-
-
-						       
-						        
 						</div>
 					</div>
 				</div>
@@ -673,12 +1412,18 @@
 			<div>	 
                 
 
-<style>
-.zoneTitle
-{
-	visibility:hidden;
-}
+<style type="text/css">
+    .zoneTitle
+    {
+	    visibility:hidden;
+    }
+
+    #sb-wrapper 
+    {
+        top: 160px !important;
+    }
 </style>
+
     <script type="text/javascript">
 			jQuery.easing['BounceEaseOut'] = function(p, t, b, c, d) {
 				if ((t/=d) < (1/2.75)) {
@@ -709,23 +1454,79 @@
 			    $("div.winning_numbers").each(function() {
 			        $(this).css("height", $(this).height() + "px");
 			    });
-			     $("div.winning_numbers_toggle").children(
-                                      "div.title").mouseup(function() {
-                                          var body = $(this).parent().children("div.winning_numbers");
-                                          if (body.is(":hidden")) {
-                                              body.slideDown();
-                                              pageTracker._trackPageview('/SiteFeature/WinningNumbers.html');
-                                          }
-                                          else {
-                                              body.slideUp();
-                                          }
-                                      });
+			    $("div.winning_numbers_toggle").children(
+					"div.title").mouseup(function() {
+					    var body = $(this).parent().children("div.winning_numbers");
+					    if (body.is(":hidden"))
+					        body.slideDown();
+					    else
+					        body.slideUp();
+					});
 
 					jQuery('div#column_main_content img[align=left]').css('padding-right', '15px');
 					jQuery('div#column_main_content img[align=right]').css('padding-left', '15px');
+	            
+	            // Color box the following classes of videos:
+	            var videoClasses = new Array();
+	            videoClasses[0] = "education_video";
+	            videoClasses[1] = "healthnpublicwelfare_video";
+	            videoClasses[2] = "economicnbusinessdev_video";
+	            videoClasses[3] = "environmentalissues_video";
+				videoClasses[4] = "weeklywinningsenglish_video";
+	            videoClasses[5] = "weeklywinningsespanol_video";
+	            
+	            colorBoxVideos(videoClasses);
+	            
+	            // Open the video with colorbox when a videoId is passed in
+	            var videoId = $.getQuery('videoId');
+	            if(videoId) { 
+	                $("#" + videoId).colorbox({open: true});
+	            }
 			});
 			
+			
+			
+			function colorBoxVideos(videoClasses) {
+			    for(var i = 0; i < videoClasses.length; i++) {
+			        var videoClass = $("."+videoClasses[i]);
+			        var rel = videoClass.first().attr("rel");
+			        
+			        videoClass.colorbox({
+		                iframe:true, 
+		                innerWidth:640, 
+		                innerHeight:360, 
+		                rel:rel,
+		                current:'video {current} of {total}', 
+		                previous:'&laquo;', 
+		                next:'&raquo;', 
+		                title: function(){
+			                var videoId = $(this).attr('id');
+			                var url = document.URL;
+			                url += "&videoId=" + videoId;
+			                return "<center class=\"popupshares\" style=\"margin:0 auto;width: 200px\"><a href=\"http://www.sharethis.com/share?publisher=3e9aa827-e6a3-4d5a-9352-997a370fb486&url=" + url + "?videoId=" + videoId + "\" target=\"_blank\" style=\"float: right\"><img src=\"/Images/btnEmail.jpg\" alt=\"\" /></a><span class='st_twitter_button' st_url=\"" + url + "\" ></span><span class='st_facebook_button' st_url=\"" + url + "?videoId=" + videoId + "\"></span></center><scr"+"ipt type=\"text/javascript\">var switchTo5x=false;</scr"+"ipt><scr"+"ipt type=\"text/javascript\" src=\"http://w.sharethis.com/button/buttons.js\"></scr"+"ipt><scr"+"ipt type=\"text/javascript\">stLight.options({publisher:'3e9aa827-e6a3-4d5a-9352-997a370fb486'}); stButtons.locateElements();</scr"+"ipt>";
+		                }
+	                });
+			    }
+			}
+			
+			// Parse URL Queries Method
+            (function($){
+	            $.getQuery = function( query ) {
+		            query = query.replace(/[\[]/,"\\\[").replace(/[\]]/,"\\\]");
+		            var expr = "[\\?&]"+query+"=([^&#]*)";
+		            var regex = new RegExp( expr );
+		            var results = regex.exec( window.location.href );
+		            if( results !== null ) {
+			            return results[1];
+			            return decodeURIComponent(results[1].replace(/\+/g, " "));
+		            } else {
+			            return false;
+		            }
+	            };
+            })(jQuery);
+			
  		</script>
+ 		
 
    
 <div>
@@ -740,46 +1541,65 @@
   
 <div>
     
-    <p style="text-align: center"><strong><br>
-</strong></p>
-<p><strong>Disclaimer<br>
-</strong><br>
-Although every effort is made to ensure the accuracy of the winning number information on this World Wide Web site, mistakes can occur. In the event of any discrepancies, Arizona State laws, Lottery regulations, and the Arizona State Lottery official audited records of the numbers that were drawn will determine the winner rather than the numbers published on the web. <br>
+    <p style="text-align: center;">
+ &nbsp;</p>
+<p>
+ <strong>Disclaimer</strong><br>
+ <br>
+ Although every effort is made to ensure the accuracy of the winning number information on this World Wide Web site, mistakes can occur. In the event of any discrepancies, Arizona State laws, Lottery regulations, and the Arizona State Lottery official audited records of the numbers that were drawn will determine the winner rather than the numbers published on the web.<br>
+ <br>
+ Complete game information and prize claiming instructions are available on this web site and at Arizona Lottery retailers. Any links from this site to websites maintained by third parties does not imply endorsement by the Lottery. The Lottery makes no effort to independently verify and does not exert editorial control over information on pages outside of the Lottery website.</p>
+<p>
+ &nbsp;</p>
 <br>
-Complete game information and prize claiming instructions are available on this web site and at Arizona Lottery retailers. Any links from this site to websites maintained by third parties does not imply endorsement by the Lottery. The Lottery makes no effort to independently verify and does not exert editorial control over information on pages outside of the Lottery website.</p>
-<p>&nbsp;</p>
+<p>
+ <strong>Privacy Policy</strong></p>
 <br>
-<p><strong>Privacy Policy</strong></p>
+<p>
+ Pursuant to <a href="http://www.azleg.gov/ars/41/04152.htm"><span style="color: rgb(0, 0, 255);"><strong>A.R.S. § 41-4152</strong></span></a>, all agencies of the State of Arizona maintain a Privacy Policy. This disclosure addresses collection, use, and security of and access to information that may be obtained through the use of this website. Your rights to privacy are of utmost importance to the State of Arizona in building trust and confidence when conducting business through the Internet.</p>
 <br>
-<p>Pursuant to <a href="http://www.azleg.gov/ars/41/04152.htm"><span style="color: rgb(0,0,255)"><strong>A.R.S. § 41-4152</strong></span></a>, all agencies of the State of Arizona maintain a Privacy Policy. This disclosure addresses collection, use, and security of and access to information that may be obtained through the use of this website. Your rights to privacy are of utmost importance to the State of Arizona in building trust and confidence when conducting business through the Internet.</p>
+<p>
+ The Arizona Lottery offers access to its public information online that you might otherwise request in person. Our goal is to provide citizens with a more convenient and efficient means with which to receive information from the Lottery. If you choose not to receive your information through the website, you may also receive information through the Lottery’s informational telephone number 480.829.PICK (7425).</p>
+<p>
+ &nbsp;</p>
 <br>
-<p>The Arizona Lottery offers access to its public information online that you might otherwise request in person. Our goal is to provide citizens with a more convenient and efficient means with which to receive information from the Lottery. If you choose not to receive your information through the website, you may also receive information through the Lottery’s informational telephone number 480.829.PICK (7425).</p>
-<p>&nbsp;</p>
+<p>
+ <strong>Collection and Use of Information</strong></p>
 <br>
-<p><strong>Collection and Use of Information</strong></p>
+<p>
+ The Arizona Lottery does not collect information for commercial marketing. The Arizona Lottery does not collect or track personal information from Lottery website visitors unless we are given explicit permission by the visitor. From time to time, the Lottery may conduct surveys and will collect general demographic information to better understand and serve our players. When we present a survey page on the site, use of cookies is limited to the minimum function necessary to prevent duplication of survey results from that page. A cookie is only transmitted at the time you submit the survey to us. You can always avoid receiving the cookie by not submitting the survey to us.</p>
 <br>
-<p>The Arizona Lottery does not collect information for commercial marketing. The Arizona Lottery does not collect or track personal information from Lottery website visitors unless we are given explicit permission by the visitor. From time to time, the Lottery may conduct surveys and will collect general demographic information to better understand and serve our players. When we present a survey page on the site, use of cookies is limited to the minimum function necessary to prevent duplication of survey results from that page. A cookie is only transmitted at the time you submit the survey to us. You can always avoid receiving the cookie by not submitting the survey to us.</p>
+<p>
+ Additionally, generic information from server logs may be used to track the number of hits to the site and to find out what types of browser software are used by visitors. This information will be used only in aggregate form solely for improving website design.</p>
 <br>
-<p>Additionally, generic information from server logs may be used to track the number of hits to the site and to find out what types of browser software are used by visitors. This information will be used only in aggregate form solely for improving website design.</p>
+<p>
+ Please be aware that in the state of Arizona, laws exist to ensure that state government is open and that the public has a right to access appropriate records and information possessed by the State. However, if personal information is requested on the website or volunteered by the user, state law and the Federal Privacy Act of 1974 may protect it from release or disclosure.</p>
+<p>
+ &nbsp;</p>
 <br>
-<p>Please be aware that in the state of Arizona, laws exist to ensure that state government is open and that the public has a right to access appropriate records and information possessed by the State. However, if personal information is requested on the website or volunteered by the user, state law and the Federal Privacy Act of 1974 may protect it from release or disclosure.</p>
-<p>&nbsp;</p>
+<p>
+ <strong>Security</strong></p>
 <br>
-<p><strong>Security</strong></p>
+<p>
+ The Arizona Lottery and its consultants have taken several steps to safeguard the integrity of its computer systems and networks, including, but not limited to, individual authentication, the security of transmitted data, security monitoring, and auditing. Security methods and measures have been integrated into the design, implementation, and day-to-day practices of the entire website.</p>
+<p>
+ &nbsp;</p>
 <br>
-<p>The Arizona Lottery and its consultants have taken several steps to safeguard the integrity of its computer systems and networks, including, but not limited to, individual authentication, the security of transmitted data, security monitoring, and auditing. Security methods and measures have been integrated into the design, implementation, and day-to-day practices of the entire website.</p>
-<p>&nbsp;</p>
+<p>
+ <strong>Other External Links Disclaimer</strong></p>
 <br>
-<p><strong>Other External Links Disclaimer</strong></p>
+<p>
+ The Arizona Lottery website has links to other websites. When you link to another site, you are no longer on the Lottery website, and this privacy statement will not apply to other sites. When you link to another website, you are subject to the privacy policy of that new site. Neither the Lottery nor any employee of the Lottery warrants the accuracy, reliability, or timeliness of any information, nor endorses any content, viewpoints, products, or services linked from this website and shall not be held liable for any losses caused by reliance on the accuracy, reliability, or timeliness of such information. Any person or entity that relies on any information obtained from this system does so at his or her own risk.</p>
+<p>
+ &nbsp;</p>
 <br>
-<p>The Arizona Lottery website has links to other websites. When you link to another site, you are no longer on the Lottery website, and this privacy statement will not apply to other sites. When you link to another website, you are subject to the privacy policy of that new site. Neither the Lottery nor any employee of the Lottery warrants the accuracy, reliability, or timeliness of any information, nor endorses any content, viewpoints, products, or services linked from this website and shall not be held liable for any losses caused by reliance on the accuracy, reliability, or timeliness of such information. Any person or entity that relies on any information obtained from this system does so at his or her own risk.</p>
-<p>&nbsp;</p>
+<p>
+ <strong>Privacy Policy Statement is Subject to Change</strong></p>
 <br>
-<p><strong>Privacy Policy Statement is Subject to Change</strong></p>
-<br>
-<p>This policy may be updated or revised from time to time, so please check back periodically in order to receive advance notice of any substantive changes to the manner in which the information you disclose on this website may be collected, used, or disseminated.<br>
-&nbsp;</p>
-<br>
+<p>
+ This policy may be updated or revised from time to time, so please check back periodically in order to receive advance notice of any substantive changes to the manner in which the information you disclose on this website may be collected, used, or disseminated.<br>
+ &nbsp;</p>
+
 </div>
 
 
@@ -787,6 +1607,189 @@ Complete game information and prize claiming instructions are available on this 
 		</div>
 		<div id="column_sub">
 					    
+    
+<!-- <iframe width="234" height="840" scrolling="no" frameborder="0" 
+src="http://www.netfusionservices.com/LotteryEmail/">
+
+
+</iframe>-->
+<style type="text/css">
+    #signupDiv
+    {
+        font-size: 12px;
+        line-height: 15px;
+        font-family: Arial, Helvetica, sans-serif;
+        color: #fff;
+        background-color: #7698a9;
+    }
+    #signupDiv2
+    {
+        font-size: 12px;
+        line-height: 15px;
+        font-family: Arial, Helvetica, sans-serif;
+        color: #fff;
+        background-color: #7698a9;
+    }
+    input.full
+    {
+        width: 190px;
+    }
+    input.text
+    {
+        height: 15px;
+        padding: 3px;
+        font-size: 12px;
+    }
+    input.noborder
+    {
+        border: 0;
+    }
+    .noborder
+    {
+        border: 5;
+        border-color: #7698a9;
+    }
+    label
+    {
+        display: block; /*margin-top: 11px;
+        margin-bottom: 4px;*/
+        font-weight: bold;
+    }
+    select
+    {
+        width: 210px;
+    }
+    .validationSummary
+    {
+        padding-bottom: 12px;
+    }
+</style>
+
+<script type="text/javascript">
+
+    function checkBoxes(item) {
+        var total = 0;
+
+        if ($('#ctl00_ctl00_ContentPlaceHolderBody_ZoneC_badfdec99c7f4cac9eb103263e29b347_chkMegaMillions').is(':checked')) { total = total + 1; }
+        if ($('#ctl00_ctl00_ContentPlaceHolderBody_ZoneC_badfdec99c7f4cac9eb103263e29b347_chkPowerball').is(':checked')) { total = total + 1; }
+        if ($('#ctl00_ctl00_ContentPlaceHolderBody_ZoneC_badfdec99c7f4cac9eb103263e29b347_chkThePick').is(':checked')) { total = total + 1; }
+        if ($('#ctl00_ctl00_ContentPlaceHolderBody_ZoneC_badfdec99c7f4cac9eb103263e29b347_chkPick3').is(':checked')) { total = total + 1; }
+        if ($('#ctl00_ctl00_ContentPlaceHolderBody_ZoneC_badfdec99c7f4cac9eb103263e29b347_chkFantasy5').is(':checked')) { total = total + 1; }
+        if ($('#ctl00_ctl00_ContentPlaceHolderBody_ZoneC_badfdec99c7f4cac9eb103263e29b347_chkScratchers').is(':checked')) { total = total + 1; }
+        if ($('#ctl00_ctl00_ContentPlaceHolderBody_ZoneC_badfdec99c7f4cac9eb103263e29b347_chk2by2').is(':checked')) { total = total + 1; }
+        if ($('#ctl00_ctl00_ContentPlaceHolderBody_ZoneC_badfdec99c7f4cac9eb103263e29b347_chkWeeklyWinnings').is(':checked')) { total = total + 1; }
+
+        if (total == 4) {
+            if (item == 'chkMegaMillions') { $('#ctl00_ctl00_ContentPlaceHolderBody_ZoneC_badfdec99c7f4cac9eb103263e29b347_chkMegaMillions').attr('checked', false); }
+            if (item == 'chkPowerball') { $('#ctl00_ctl00_ContentPlaceHolderBody_ZoneC_badfdec99c7f4cac9eb103263e29b347_chkPowerball').attr('checked', false); }
+            if (item == 'chkThePick') { $('#ctl00_ctl00_ContentPlaceHolderBody_ZoneC_badfdec99c7f4cac9eb103263e29b347_chkThePick').attr('checked', false); }
+            if (item == 'chkPick3') { $('#ctl00_ctl00_ContentPlaceHolderBody_ZoneC_badfdec99c7f4cac9eb103263e29b347_chkPick3').attr('checked', false); }
+            if (item == 'chkFantasy5') { $('#ctl00_ctl00_ContentPlaceHolderBody_ZoneC_badfdec99c7f4cac9eb103263e29b347_chkFantasy5').attr('checked', false); }
+            if (item == 'chkScratchers') { $('#ctl00_ctl00_ContentPlaceHolderBody_ZoneC_badfdec99c7f4cac9eb103263e29b347_chkScratchers').attr('checked', false); }
+            if (item == 'chk2by2') { $('#ctl00_ctl00_ContentPlaceHolderBody_ZoneC_badfdec99c7f4cac9eb103263e29b347_chk2by2').attr('checked', false); }
+            if (item == 'chkWeeklyWinnings') { $('#ctl00_ctl00_ContentPlaceHolderBody_ZoneC_badfdec99c7f4cac9eb103263e29b347_chkWeeklyWinnings').attr('checked', false); }
+
+            alert("You may only select 3 games.");
+            return false;
+        } else {
+            return true;
+        }
+    }
+</script>
+
+<div style="border: 0; padding: 0; margin: 0; background-color: #7594a4;">
+    <img id="ctl00_ctl00_ContentPlaceHolderBody_ZoneC_badfdec99c7f4cac9eb103263e29b347_Image1" src="../Images/email_signup.gif" border="0">
+    <div id="ctl00_ctl00_ContentPlaceHolderBody_ZoneC_badfdec99c7f4cac9eb103263e29b347_pnlSignUp">
+	
+        <div id="signupDiv" style="width: 210px; padding: 12px; background-color: #7594a4;">
+            
+            Be the first to know when the numbers are drawn, about special promotions, and more!<br>
+            <br>
+            <div>
+                <label for="name">
+                    *Name:</label>
+            </div>
+            <br>
+            <div>
+                <input name="ctl00$ctl00$ContentPlaceHolderBody$ZoneC$badfdec99c7f4cac9eb103263e29b347$txtName" type="text" maxlength="40" id="ctl00_ctl00_ContentPlaceHolderBody_ZoneC_badfdec99c7f4cac9eb103263e29b347_txtName" class="textBox">
+                
+            </div>
+            <br>
+            <div>
+                <label for="email">
+                    *Email:</label></div>
+            <br>
+            <div>
+                <input name="ctl00$ctl00$ContentPlaceHolderBody$ZoneC$badfdec99c7f4cac9eb103263e29b347$txtEmail" type="text" maxlength="80" id="ctl00_ctl00_ContentPlaceHolderBody_ZoneC_badfdec99c7f4cac9eb103263e29b347_txtEmail" class="textBox">
+                
+                
+            </div>
+            <br>
+            <div>
+                <label for="zip">
+                    *Zip Code:</label></div>
+            <br>
+            <div>
+                <input name="ctl00$ctl00$ContentPlaceHolderBody$ZoneC$badfdec99c7f4cac9eb103263e29b347$txtZipCode" type="text" maxlength="10" id="ctl00_ctl00_ContentPlaceHolderBody_ZoneC_badfdec99c7f4cac9eb103263e29b347_txtZipCode" class="textBox">
+                &nbsp;
+                
+            </div>
+            <br>
+            <br>
+            <p>
+                To help us better understand our players, please answer the survey questions below:</p>
+            <br>
+            <div>
+                <label for="misc1">
+                    How often do you play the Arizona Lottery?</label></div>
+            <div>
+                <select name="ctl00$ctl00$ContentPlaceHolderBody$ZoneC$badfdec99c7f4cac9eb103263e29b347$ddlFrequency" id="ctl00_ctl00_ContentPlaceHolderBody_ZoneC_badfdec99c7f4cac9eb103263e29b347_ddlFrequency">
+		<option value="Unanswered"></option>
+		<option value="1-2 times a month">1-2 times a month</option>
+		<option value="3-4 times a month">3-4 times a month</option>
+		<option value="5 or more times a month">5 or more times a month</option>
+		<option value="Never played before">Never played before</option>
+
+	</select>
+                <br>
+                <br>
+            </div>
+            <div>
+                <label for="misc2">
+                    Which games do you play the most?<br>
+                    <span style="font-size: 9px;">(select up to 3)</span></label></div>
+            <div>
+                <input name="ctl00$ctl00$ContentPlaceHolderBody$ZoneC$badfdec99c7f4cac9eb103263e29b347$chkMegaMillions" type="checkbox" id="ctl00_ctl00_ContentPlaceHolderBody_ZoneC_badfdec99c7f4cac9eb103263e29b347_chkMegaMillions" onclick="checkBoxes('chkMegaMillions');" value="Mega Millions">Mega Millions<br>
+                <input name="ctl00$ctl00$ContentPlaceHolderBody$ZoneC$badfdec99c7f4cac9eb103263e29b347$chkPowerball" type="checkbox" id="ctl00_ctl00_ContentPlaceHolderBody_ZoneC_badfdec99c7f4cac9eb103263e29b347_chkPowerball" onclick="checkBoxes('chkPowerball');" value="Powerball">Powerball<br>
+                <input name="ctl00$ctl00$ContentPlaceHolderBody$ZoneC$badfdec99c7f4cac9eb103263e29b347$chkThePick" type="checkbox" id="ctl00_ctl00_ContentPlaceHolderBody_ZoneC_badfdec99c7f4cac9eb103263e29b347_chkThePick" onclick="checkBoxes('chkThePick');" value="The Pick">The Pick<br>
+                <input name="ctl00$ctl00$ContentPlaceHolderBody$ZoneC$badfdec99c7f4cac9eb103263e29b347$chkPick3" type="checkbox" id="ctl00_ctl00_ContentPlaceHolderBody_ZoneC_badfdec99c7f4cac9eb103263e29b347_chkPick3" onclick="checkBoxes('chkPick3');" value="Pick 3">Pick 3<br>
+                <input name="ctl00$ctl00$ContentPlaceHolderBody$ZoneC$badfdec99c7f4cac9eb103263e29b347$chkFantasy5" type="checkbox" id="ctl00_ctl00_ContentPlaceHolderBody_ZoneC_badfdec99c7f4cac9eb103263e29b347_chkFantasy5" onclick="checkBoxes('chkFantasy5');" value="Fantasy 5">Fantasy 5<br>
+                <input name="ctl00$ctl00$ContentPlaceHolderBody$ZoneC$badfdec99c7f4cac9eb103263e29b347$chkScratchers" type="checkbox" id="ctl00_ctl00_ContentPlaceHolderBody_ZoneC_badfdec99c7f4cac9eb103263e29b347_chkScratchers" onclick="checkBoxes('chkScratchers');" value="Scratchers">Scratchers<br>
+                <input name="ctl00$ctl00$ContentPlaceHolderBody$ZoneC$badfdec99c7f4cac9eb103263e29b347$chk2by2" type="checkbox" id="ctl00_ctl00_ContentPlaceHolderBody_ZoneC_badfdec99c7f4cac9eb103263e29b347_chk2by2" onclick="checkBoxes('chk2by2');" value="2by2">2by2<br>
+                <input name="ctl00$ctl00$ContentPlaceHolderBody$ZoneC$badfdec99c7f4cac9eb103263e29b347$chkWeeklyWinnings" type="checkbox" id="ctl00_ctl00_ContentPlaceHolderBody_ZoneC_badfdec99c7f4cac9eb103263e29b347_chkWeeklyWinnings" onclick="checkBoxes('chkWeeklyWinnings');" value="WeeklyWinnings">Weekly Winnings
+            </div>
+            <br>
+            <div>
+                <label for="misc3">
+                    Would you like to receive Winning Numbers for the following games?</label></div><div>
+                <input name="ctl00$ctl00$ContentPlaceHolderBody$ZoneC$badfdec99c7f4cac9eb103263e29b347$chkAllWinningNumbers" type="checkbox" id="ctl00_ctl00_ContentPlaceHolderBody_ZoneC_badfdec99c7f4cac9eb103263e29b347_chkAllWinningNumbers" value="All Winning Numbers">All Winning Numbers<br>
+                <input name="ctl00$ctl00$ContentPlaceHolderBody$ZoneC$badfdec99c7f4cac9eb103263e29b347$chkPowerballandThePick" type="checkbox" id="ctl00_ctl00_ContentPlaceHolderBody_ZoneC_badfdec99c7f4cac9eb103263e29b347_chkPowerballandThePick" value="Powerball and The Pick">Powerball and The Pick<br>
+                <input name="ctl00$ctl00$ContentPlaceHolderBody$ZoneC$badfdec99c7f4cac9eb103263e29b347$chkMegaMillionsAndWeeklyWinnings" type="checkbox" id="ctl00_ctl00_ContentPlaceHolderBody_ZoneC_badfdec99c7f4cac9eb103263e29b347_chkMegaMillionsAndWeeklyWinnings" value="Mega Million and Weekly Winnings">Mega Millions and
+                <br>
+                Weekly Winnings<br>
+            </div>
+            <br>
+            <p>
+                * Required</p>
+            <br>
+            <input type="image" name="ctl00$ctl00$ContentPlaceHolderBody$ZoneC$badfdec99c7f4cac9eb103263e29b347$btnSubmit" id="ctl00_ctl00_ContentPlaceHolderBody_ZoneC_badfdec99c7f4cac9eb103263e29b347_btnSubmit" src="../Images/submit_number_checker.gif" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ctl00$ContentPlaceHolderBody$ZoneC$badfdec99c7f4cac9eb103263e29b347$btnSubmit&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" border="0">
+            <br>
+        </div>
+    
+</div>
+    
+</div>
+
     
 
 				</div>
@@ -799,11 +1802,12 @@ Complete game information and prize claiming instructions are available on this 
     
     
 
+            <div id="megaMenuOverlay"></div>
         </div>
         <br>
-        <div id="subnav" class="clearfix">
+        <div id="subnav" class="clearfix" style="position:relative;">
             <ul>
-                <li><a href="/About/21ToPlay.html">Must be 21 to Play</a></li>
+                <li><a id="ctl00_ctl00_lnk21ToPlay" href="21ToPlay.html">Must be 21 to Play</a></li>
                 <li>
                     <a id="ctl00_ctl00_lnkUnclaimedPrizes" href="../UnclaimedPrizes.html">Unclaimed Prizes</a></li>
                 <li>
@@ -820,16 +1824,23 @@ Complete game information and prize claiming instructions are available on this 
             </ul>
             <!-- NEW LIST -->
             <ul class="social_media">
+			
                 <li class="social_media_title">
-                    <p>
-                        Connect With Us</p>
+				<p>Connect With Us Live<br>
+				Monday - Friday<br>8 a.m. to 5 p.m</p>
+                    
                 </li>
-                <li><a href="http://www.facebook.com/ArizonaLottery" class="facebook">facebook</a></li>
-                <li><a href="http://www.youtube.com/arizonalottery" class="youtube">youtube</a></li>
-                <!--<li><a href="" class="twitter">twitter</a></li>-->
-                <li><a href="/games/ThePick/Texting.html" class="mobile">mobile</a></li>
+				<li><a href="http://twitter.com/#!/AZLottery" class="twitter">twitter</a></li>
+				<li><a href="http://www.youtube.com/arizonalottery" class="youtube">youtube</a></li>
+				<li><a href="http://www.facebook.com/ArizonaLottery" class="facebook">facebook</a></li>
+                <!--<li><a href="/games/ThePick/Texting.html" class="mobile">mobile</a></li>-->
             </ul>
             <!-- END NEW LIST -->
+            <div style="position:absolute;top:0;right:130px;text-align:center;">
+                <span style="font-weight: bold;">Phoenix Lottery Office</span><br><span style="font-weight: normal;">4740 E. University Dr.<br>Phoenix, AZ 85034</span>
+                <br><br>
+                <span style="font-weight: bold;">Tucson Lottery Office</span><br><span style="font-weight: normal;">4010 E. Grant Road<br>Tucson, AZ 85712</span>
+            </div>
         </div>
         <div id="banner_farm" class="clearfix">
             <ul id="help_banners">
@@ -838,84 +1849,157 @@ Complete game information and prize claiming instructions are available on this 
                 <li><a href="http://www.problemgambling.az.gov" target="_blank" id="next_step">1-800-NEXT-STEP</a></li>
                 <li><a href="http://www.azgovernor.gov" target="_blank" id="jan_brewer">Governor Jan
                     Brewer</a></li>
-                <li><a href="http://www.census.gov" target="_blank" id="cenus">Census 2010</a></li>
-            </ul>
+                
+                <li><a href="http://www.openbooks.az.gov" target="_blank" id="open_books">Arizona OpenBooks</a></li>
+                <li><a href="http://www.digitalarizona.gov/ipadgiveaway/" target="_blank" id="digital_az">Digital Arizona</a></li>
+
+            </ul><br>
+            <div id="banners_tv"><a href="http://www.kold.com/" id="kold">KOLD News 13</a></div>
         </div>
     </div>
     <div id="footer" class="clearfix">
         
-
 <center>
-      
-
-<table cellspacing="0" border="0" id="ctl00_ctl00_FooterLinks1_FormView1">
-	<tbody><tr>
-		<td colspan="2">
-    <div id="footer_content">
-      <div style="text-align:center">
-
-				<ul id="im_a">
-					<li><span id="ctl00_ctl00_FooterLinks1_FormView1_lblColumnATitle">I'm a</span> </li>
-					<li><a id="ctl00_ctl00_FooterLinks1_FormView1_lnkGame" href="../sponsorships.html">Community Leader</a></li>
-					<li><a id="ctl00_ctl00_FooterLinks1_FormView1_HyperLink1" href="../Employment.html">Job Seeker</a></li>
-					<li><a id="ctl00_ctl00_FooterLinks1_FormView1_HyperLink2" href="../Games.html">Player</a></li>
-					<li><a id="ctl00_ctl00_FooterLinks1_FormView1_HyperLink3" href="../retailersection.html">Retailer</a></li>
-					<li><a id="ctl00_ctl00_FooterLinks1_FormView1_HyperLink4" href="../NowWhat.html">Winner!  Now What?</a></li>
-
-				</ul>
-				<ul id="help_me">
-					<li><span id="ctl00_ctl00_FooterLinks1_FormView1_Label1">Help Me</span></li>
-					<li><a id="ctl00_ctl00_FooterLinks1_FormView1_HyperLink5" href="Contact.html">Contact the Lottery </a></li>
-					<li><a id="ctl00_ctl00_FooterLinks1_FormView1_HyperLink6" href="../FindARetailer.html">Find a Retailer</a></li>
-					<li><a id="ctl00_ctl00_FooterLinks1_FormView1_HyperLink7" href="../ClaimForm.html">Get a Winner Claim Form</a></li>
-					<li><a id="ctl00_ctl00_FooterLinks1_FormView1_HyperLink8" href="../Games.html">Pick a Draw Game</a></li>
-					<li><a id="ctl00_ctl00_FooterLinks1_FormView1_HyperLink9" href="../Games/Scratchers/Scratchers.html">Pick a Scratchers Game</a></li>
-				</ul>
-				
-			<ul id="help_me">
-					<li><span id="ctl00_ctl00_FooterLinks1_FormView1_Label2">Show Me</span></li>
-					<li><a id="ctl00_ctl00_FooterLinks1_FormView1_HyperLink10" href="../sponsorships.html">Community Sponsorship Opportunities</a></li>
-					<li><a id="ctl00_ctl00_FooterLinks1_FormView1_HyperLink11" href="../ScratchersEndingDates.html">Ended Scratchers Games/Last Day to Claim Prizes</a></li>
-					<li><a id="ctl00_ctl00_FooterLinks1_FormView1_HyperLink12" href="News.html">Lottery News</a></li>
-					<li><a id="ctl00_ctl00_FooterLinks1_FormView1_HyperLink13" href="../Retailer/QuickCheck_Retailers.html">QUICK CHECK</a></li>
-					<li><a id="ctl00_ctl00_FooterLinks1_FormView1_HyperLink14" href="../Games/SecondChanceDrawings.html">Second Chance Scratchers Games</a></li>
-				</ul>
-
-				<ul id="help_me">
-					<li><span id="ctl00_ctl00_FooterLinks1_FormView1_Label3">Featured Games </span></li>
-					<li><a id="ctl00_ctl00_FooterLinks1_FormView1_HyperLink15" href="../Games/MegaMillion.html?GameID=5">Mega Millions</a></li>
-					<li><a id="ctl00_ctl00_FooterLinks1_FormView1_HyperLink16" href="../Fantasy5.html?GameID=5555">Fantasy 5</a></li>
-					<li><a id="ctl00_ctl00_FooterLinks1_FormView1_HyperLink17" href="../"></a></li>
-					<li><a id="ctl00_ctl00_FooterLinks1_FormView1_HyperLink18" href="../"></a></li>
-					<li><a id="ctl00_ctl00_FooterLinks1_FormView1_HyperLink19" href="../"></a></li>
-				</ul>
-		</div> 
-    
-		</div>			
-		
-    </td>
-	</tr>
-</tbody></table>
+    <div id="footer" class="clearfix">
+        <center>
+            <div id="footer_content" style="width: 970px;">
+                <div style="text-align: center; margin-left: 45px;">
+                    
+                            <ul id="footerColumn1" class="footer_column" style="width: 220px">
+                                
+                            <li>
+                                <input type="hidden" name="ctl00$ctl00$FooterLinks1$footerColumn1Links$ctrl0$footerLinkId" id="ctl00_ctl00_FooterLinks1_footerColumn1Links_ctrl0_footerLinkId" value="2">
+                                <span id="footerLink-2">I'm a</span>
+                            </li>
+                        
+                            <li>
+                                <input type="hidden" name="ctl00$ctl00$FooterLinks1$footerColumn1Links$ctrl1$footerLinkId" id="ctl00_ctl00_FooterLinks1_footerColumn1Links_ctrl1_footerLinkId" value="9">
+                                <a id="footerLink-9" href="http://arizonalottery.com/NowWhat.html">Winner! Now What?</a>
+                            </li>
+                        
+                            <li>
+                                <input type="hidden" name="ctl00$ctl00$FooterLinks1$footerColumn1Links$ctrl2$footerLinkId" id="ctl00_ctl00_FooterLinks1_footerColumn1Links_ctrl2_footerLinkId" value="7">
+                                <a id="footerLink-7" href="http://arizonalottery.com/Games.html">Player</a>
+                            </li>
+                        
+                            <li>
+                                <input type="hidden" name="ctl00$ctl00$FooterLinks1$footerColumn1Links$ctrl3$footerLinkId" id="ctl00_ctl00_FooterLinks1_footerColumn1Links_ctrl3_footerLinkId" value="8">
+                                <a id="footerLink-8" href="http://arizonalottery.com/retailersection.html">Retailer</a>
+                            </li>
+                        
+                            <li>
+                                <input type="hidden" name="ctl00$ctl00$FooterLinks1$footerColumn1Links$ctrl4$footerLinkId" id="ctl00_ctl00_FooterLinks1_footerColumn1Links_ctrl4_footerLinkId" value="1">
+                                <a id="footerLink-1" href="http://arizonalottery.com/sponsorships.html">Community Leader</a>
+                            </li>
+                        
+                            <li>
+                                <input type="hidden" name="ctl00$ctl00$FooterLinks1$footerColumn1Links$ctrl5$footerLinkId" id="ctl00_ctl00_FooterLinks1_footerColumn1Links_ctrl5_footerLinkId" value="6">
+                                <a id="footerLink-6" href="http://arizonalottery.com/Employment.html">Job Seeker</a>
+                            </li>
+                        
+                            </ul>
+                        
+                    
+                            <ul id="footerColumn2" class="footer_column" style="width: 220px">
+                                
+                            <li>
+                                <input type="hidden" name="ctl00$ctl00$FooterLinks1$footerColumn2Links$ctrl0$footerLinkId" id="ctl00_ctl00_FooterLinks1_footerColumn2Links_ctrl0_footerLinkId" value="3">
+                                <span id="footerLink-3">Help Me</span>
+                            </li>
+                        
+                            <li>
+                                <input type="hidden" name="ctl00$ctl00$FooterLinks1$footerColumn2Links$ctrl1$footerLinkId" id="ctl00_ctl00_FooterLinks1_footerColumn2Links_ctrl1_footerLinkId" value="10">
+                                <a id="footerLink-10" href="http://arizonalottery.com/About/Contact.html">Contact the Lottery</a>
+                            </li>
+                        
+                            <li>
+                                <input type="hidden" name="ctl00$ctl00$FooterLinks1$footerColumn2Links$ctrl2$footerLinkId" id="ctl00_ctl00_FooterLinks1_footerColumn2Links_ctrl2_footerLinkId" value="11">
+                                <a id="footerLink-11" href="http://arizonalottery.com/FindARetailer.html">Find a Retailer</a>
+                            </li>
+                        
+                            <li>
+                                <input type="hidden" name="ctl00$ctl00$FooterLinks1$footerColumn2Links$ctrl3$footerLinkId" id="ctl00_ctl00_FooterLinks1_footerColumn2Links_ctrl3_footerLinkId" value="12">
+                                <a id="footerLink-12" href="http://arizonalottery.com/ClaimForm.html">Get a Winner Claim Form</a>
+                            </li>
+                        
+                            <li>
+                                <input type="hidden" name="ctl00$ctl00$FooterLinks1$footerColumn2Links$ctrl4$footerLinkId" id="ctl00_ctl00_FooterLinks1_footerColumn2Links_ctrl4_footerLinkId" value="13">
+                                <a id="footerLink-13" href="http://arizonalottery.com/Games.html">Pick a Draw Game</a>
+                            </li>
+                        
+                            <li>
+                                <input type="hidden" name="ctl00$ctl00$FooterLinks1$footerColumn2Links$ctrl5$footerLinkId" id="ctl00_ctl00_FooterLinks1_footerColumn2Links_ctrl5_footerLinkId" value="14">
+                                <a id="footerLink-14" href="http://arizonalottery.com/Games/Scratchers/Scratchers.html">Pick a Scratchers Game</a>
+                            </li>
+                        
+                            </ul>
+                        
+                    
+                            <ul id="footerColumn3" class="footer_column" style="width: 220px">
+                                
+                            <li>
+                                <input type="hidden" name="ctl00$ctl00$FooterLinks1$footerColumn3Links$ctrl0$footerLinkId" id="ctl00_ctl00_FooterLinks1_footerColumn3Links_ctrl0_footerLinkId" value="4">
+                                <span id="footerLink-4">Show Me</span>
+                            </li>
+                        
+                            <li>
+                                <input type="hidden" name="ctl00$ctl00$FooterLinks1$footerColumn3Links$ctrl1$footerLinkId" id="ctl00_ctl00_FooterLinks1_footerColumn3Links_ctrl1_footerLinkId" value="22">
+                                <a id="footerLink-22" href="http://arizonalottery.com/RetailerPromotions.html">Sports &amp; Retailer Promotions</a>
+                            </li>
+                        
+                            <li>
+                                <input type="hidden" name="ctl00$ctl00$FooterLinks1$footerColumn3Links$ctrl2$footerLinkId" id="ctl00_ctl00_FooterLinks1_footerColumn3Links_ctrl2_footerLinkId" value="15">
+                                <a id="footerLink-15" href="http://arizonalottery.com/Games/SecondChanceDrawings.html">Second Chance Scratchers</a>
+                            </li>
+                        
+                            <li>
+                                <input type="hidden" name="ctl00$ctl00$FooterLinks1$footerColumn3Links$ctrl3$footerLinkId" id="ctl00_ctl00_FooterLinks1_footerColumn3Links_ctrl3_footerLinkId" value="16">
+                                <a id="footerLink-16" href="http://arizonalottery.com/ScratchersEndingDates.html">Ended Scratchers Games/Last Day to Claim</a>
+                            </li>
+                        
+                            <li>
+                                <input type="hidden" name="ctl00$ctl00$FooterLinks1$footerColumn3Links$ctrl4$footerLinkId" id="ctl00_ctl00_FooterLinks1_footerColumn3Links_ctrl4_footerLinkId" value="17">
+                                <a id="footerLink-17" href="http://arizonalottery.com/UnclaimedPrizes.html">Unclaimed Prizes</a>
+                            </li>
+                        
+                            </ul>
+                        
+                    
+                            <ul id="footerColumn4" class="footer_column" style="width: 220px">
+                                
+                            <li>
+                                <input type="hidden" name="ctl00$ctl00$FooterLinks1$footerColumn4Links$ctrl0$footerLinkId" id="ctl00_ctl00_FooterLinks1_footerColumn4Links_ctrl0_footerLinkId" value="5">
+                                <span id="footerLink-5">Featured Games</span>
+                            </li>
+                        
+                            <li>
+                                <input type="hidden" name="ctl00$ctl00$FooterLinks1$footerColumn4Links$ctrl1$footerLinkId" id="ctl00_ctl00_FooterLinks1_footerColumn4Links_ctrl1_footerLinkId" value="21">
+                                <a id="footerLink-21" href="http://arizonalottery.com/Games/Scratchers/ScratcherDetail.html?GameID=842">Million Dollar Cash Bonanza</a>
+                            </li>
+                        
+                            <li>
+                                <input type="hidden" name="ctl00$ctl00$FooterLinks1$footerColumn4Links$ctrl2$footerLinkId" id="ctl00_ctl00_FooterLinks1_footerColumn4Links_ctrl2_footerLinkId" value="20">
+                                <a id="footerLink-20" href="http://arizonalottery.com/Games/WeeklyWinnings.html?GameID=14">Weekly Winnings ™</a>
+                            </li>
+                        
+                            <li>
+                                <input type="hidden" name="ctl00$ctl00$FooterLinks1$footerColumn4Links$ctrl3$footerLinkId" id="ctl00_ctl00_FooterLinks1_footerColumn4Links_ctrl3_footerLinkId" value="18">
+                                <a id="footerLink-18" href="http://arizonalottery.com/Games/MegaMillion.html?GameID=5">Mega Millions ®</a>
+                            </li>
+                        
+                            <li>
+                                <input type="hidden" name="ctl00$ctl00$FooterLinks1$footerColumn4Links$ctrl4$footerLinkId" id="ctl00_ctl00_FooterLinks1_footerColumn4Links_ctrl4_footerLinkId" value="19">
+                                <a id="footerLink-19" href="http://arizonalottery.com/Games/Scratchers/Scratchers.html">New Scratchers Games</a>
+                            </li>
+                        
+                            </ul>
+                        
+                </div>
+            </div>
+        </center>
+    </div>
 </center>
 
-
-
-        <center>
-            <br>
-            <table>
-                <tbody><tr>
-                    <td>
-                        <a href="http://www.kold.com/" id="kold">KOLD News 13</a>
-                    </td>
-                    <td>
-                        <a href="http://www.abc15.com/default.aspx" id="abc">ABC 15</a>
-                    </td>
-                    <td>
-                        <a href="http://www.univision.com/portal.jhtml" id="univision">Univision 33</a>
-                    </td>
-                </tr>
-            </tbody></table>
-        </center>
     </div>
     <div style="clear: both;">
     </div>
@@ -927,20 +2011,118 @@ Sys.Application.initialize();
 //]]>
 </script>
 </form>
+    
     <script type="text/javascript">
-        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+        var hostProtocol = (("https:" == document.location.protocol) ? "https://" : "http://");
+        document.write("<img src='" + hostProtocol + "bp.specificclick.net?pixid=99010572' alt='' width=1 height=1 border=0>");
+        document.write("<scr"+"ipt src='" + hostProtocol + "js.revsci.net/gateway/gw.js?csid=I11236&auto=t'></scri"+"pt>");
+        document.write("<img src='" + hostProtocol + "ad.doubleclick.net/activity;src=1379696;dcnet=4155;boom=59345;sz=1x1;ord=1?' width=1 height=1 border=0>");
+    </script><img src="https://bp.specificclick.net?pixid=99010572" alt="" width="1" height="1" border="0"><script src="https://js.revsci.net/gateway/gw.js?csid=I11236&amp;auto=t"></script><img src="https://ad.doubleclick.net/activity;src=1379696;dcnet=4155;boom=59345;sz=1x1;ord=1?" width="1" height="1" border="0">
+
+    <script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
     </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+
     <script type="text/javascript">
-        try {
-            var pageTracker = _gat._getTracker("UA-7144430-1");
-            pageTracker._trackPageview();
-        } catch (err) { }</script>
+    try {
+        var pageTracker = _gat._getTracker("UA-7144430-1"); // AZL
+        pageTracker._trackPageview();
+		
+		var _gaq = _gaq || []; 
+        _gaq.push(['_setAccount', 'UA-7144430-1']); 
+    } catch (err) { }</script>
+
     <script type="text/javascript">
-        $().ready(function () {
+        var megaMenuTimeoutId;
+        var megaMenuOpen = false;
+        var currentMegaMenuId;
+        $().ready(function() {
             $(".divToggleContent").hide();
+            $(".divRoundedBox").corner();
+
+            function showMenu() {
+                var menu = $(this);
+                menu.children("a").addClass("active");
+                menu.children("a").children("img").attr("src", "../images/header_down_arrow_active.png");
+                menu.children("ul").slideDown();
+            }
+
+            function hideMenu() {
+                var menu = $(this);
+                menu.children("a").removeClass("active");
+                menu.children("a").children("img").attr("src", "../images/header_down_arrow.png");
+                menu.children("ul").slideUp();
+            }
+
+            $(".hover-menu").hoverIntent({
+                sensitivity: 1,
+                interval: 50,
+                over: showMenu,
+                timeout: 300,
+                out: hideMenu
+            });
+
+            function showMegaMenuOverlay() {
+                clearTimeout(megaMenuTimeoutId);
+                $("#megaMenuOverlay").show();
+            }
+
+            function showMegaMenu() {
+                clearTimeout(megaMenuTimeoutId);
+                var menu = $(this);
+                menu.children("div").children("div").children("div").children("div.zoneA").children("ul.tabButtons").children().removeClass("active");
+                menu.children("div").children("div").children("div").children("div.zoneA").children("ul.tabButtons").children(":first").addClass("active");
+                if (!megaMenuOpen) {
+                    menu.children("div").slideDown(800, function() { });
+                    megaMenuOpen = true;
+                } else {
+                    $("#" + currentMegaMenuId).children("div").fadeOut(500);
+                    menu.children("div").fadeIn(500);
+                }
+                currentMegaMenuId = $(this).attr("id");
+                window.setTimeout(showMegaMenuOverlay, 500);
+            }
+
+            function hideMegaMenu() {
+                var menu = $(this);
+                var menuId = menu.attr("id");
+
+                megaMenuTimeoutId = setTimeout(function() {
+                    hideMegaMenuOverlay(menuId)
+                }, 1000);
+            }
+
+            function hideMegaMenuOverlay(menuId) {
+                megaMenuOpen = false;
+                $("#" + menuId).children("div").slideUp();
+                $("#megaMenuOverlay").hide();
+            }
+
+            $(".MenuItem").hoverIntent({
+                sensitivity: 1,
+                interval: 50,
+                over: showMegaMenu,
+                timeout: 500,
+                out: hideMegaMenu
+            });
+
+            // Initialize tracking Script for Retailer Newsletters
+            initRetailerNewslettersTracking();
         });
+	    
+	    function initRetailerNewslettersTracking() {
+	        $("#RetailerNewsletters a").each(function() {
+                $(this).click(function() {
+                    var eventText = $(this).find("span").text();
+                    if(eventText != null && eventText.length > 0) { 
+                        _gaq.push(['_trackEvent', 'Newsletters', 'Download', $.trim(eventText)]); 
+                    } 
+                });
+            });
+        }
     </script>
+
 
 
 </body></html>
