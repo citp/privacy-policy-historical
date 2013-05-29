@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mynrma.com.au privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124212752id_/http%3A//www.mynrma.com.au/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mynrma.com.au privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529082022id_/http%3A//www.mynrma.com.au/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | NRMA Motoring & Services
 
