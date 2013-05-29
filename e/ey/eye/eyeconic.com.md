@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eyeconic.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126045754id_/http%3A//www.eyeconic.com/Home/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eyeconic.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529210341id_/http%3A//www.eyeconic.com/Home/PrivacyPolicy) for the most accurate reproduction.*
 
 # Eyeconic | Privacy Policy
 
@@ -81,7 +81,7 @@ Information about security:
 
 Children and privacy: 
 
-Like you, Eyeconic is concerned about the safety of children. Eyeconic has no intention of collecting personal information from children under the age of 13. Any transactions on our Site conducted for children ages 13 – 18 should only be conducted under the supervision of that child’s parent or guardian. However, if you give your password to your child, then it could become an issue. If a child has provided his or her personal information, a parent or guardian may so inform us by e-mailing customerservice@eyeconic.com or calling 1-877-478-7553 toll free, and we will use commercially reasonable efforts to delete that child’s personal information from our database (subject to applicable law and this Policy). For more information about children’s privacy on the Internet, please see [http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/index.html ](http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/index.html)
+Like you, Eyeconic is concerned about the safety of children. Eyeconic has no intention of collecting personal information from children under the age of 13. Any transactions on our Site conducted for children ages 13 – 18 should only be conducted under the supervision of that child’s parent or guardian. However, if you give your password to your child, then it could become an issue. If a child has provided his or her personal information, a parent or guardian may so inform us by e-mailing customerservice@eyeconic.com or calling 1-877-478-7553 toll free, and we will use commercially reasonable efforts to delete that child’s personal information from our database (subject to applicable law and this Policy). For more information about children’s privacy on the Internet, please see <http://www.ftc.gov/ogc/coppa1.htm>
 
 Information about enforcement of our Policy: 
 
@@ -148,4 +148,4 @@ Category Information**
   
 **We reserve the right to add, delete or alter categories from time to time.   
   
-© 2012 Eyeconic, Inc. All rights reserved. VSP and eyeconic.com are registered trademarks, and Eyeconic is a trademark, of Vision Service Plan. 
+© 2013 Eyeconic, Inc. All rights reserved. VSP and eyeconic.com are registered trademarks, and Eyeconic is a trademark, of Vision Service Plan. 
