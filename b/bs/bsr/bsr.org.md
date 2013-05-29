@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bsr.org privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230222227id_/http%3A//www.bsr.org/en/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bsr.org privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530014157id_/http%3A//www.bsr.org/en/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BSR
 
 BSR is committed to your right to privacy and to the ethical use of information online. We adhere strictly to the following privacy practices.
 
-Last updated: June 2005
+Last updated on April 2013: Added information about the BSR Conference.
 
 ### No release of personally identifiable information to third parties
 
@@ -39,3 +39,7 @@ We do not use cookies to collect information about you. We do use temporary or s
 ### Links
 
 The BSR site contains links to other sites. Please be aware that we are not responsible for the privacy policies of other sites. We encourage our users to be aware of when they leave our site and to read the privacy statements of each site they visit. BSR's privacy statement applies only to information collected by our website.
+
+### BSR Conference
+
+The BSR Conference may be audio or video recorded, posted as a podcast, photographed, published, and archived. As such, Conference attendees grant BSR permission for use of images.
