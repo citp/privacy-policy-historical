@@ -1,25 +1,27 @@
-<!--The following is the downloaded HTML source of the imediaconnection.com privacy policy that was archived on 2012-11-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121125072831id_/http%3A//www.imediaconnection.com/Privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the imediaconnection.com privacy policy that was archived on 2013-05-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130530010442id_/http%3A//www.imediaconnection.com/Privacy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head id="ctl00_Head1"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta http-equiv="Expires" content="0"><meta http-equiv="Cache-Control" content="no-cache"><meta http-equiv="Pragma" content="no-cache"><title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head id="ctl00_Head1"><meta http-equiv="X-UA-Compatible" content="IE=8"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta http-equiv="Expires" content="0"><meta http-equiv="Cache-Control" content="no-cache"><meta http-equiv="Pragma" content="no-cache"><title>
 	Privacy Policy - iMediaConnection.com
-</title><link type="text/css" rel="stylesheet" href="/css/960_24_col.css"><link type="text/css" rel="stylesheet" href="/css/reset.css"><link type="text/css" rel="stylesheet" href="/css/basestyle.css?20120531a"><link type="text/css" rel="stylesheet" href="/css/colorbox.css">
+</title><link type="text/css" rel="stylesheet" href="/css/960_24_col.css"><link type="text/css" rel="stylesheet" href="/css/reset.css"><link type="text/css" rel="stylesheet" href="/css/basestyle.css?20130528a"><link type="text/css" rel="stylesheet" href="/css/colorbox.css">
 
-    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" src="/Scripts/jquery-1.4.2.min.js"></script>
+    <script type="text/javascript" async="" src="https://sjs.bizographics.com/insight.min.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" src="/Scripts/jquery-1.4.2.min.js"></script>
     <script type="text/javascript" src="/Scripts/jquery.corner.js"></script>
-    <script type="text/javascript" src="/Scripts/jquery.colorbox-min.js"></script>
+    <script type="text/javascript" src="/Scripts/jquery.colorbox.js"></script>
     <script type="text/javascript" src="/Scripts/jquery.hoverIntent.minified.js"></script>
     <script type="text/javascript" src="/Scripts/jquery.scrollTo-min.js"></script>
     <script type="text/javascript" src="/Scripts/jquery.validate.js"></script>
-    <script type="text/javascript" src="/Scripts/InternalCampaign.js"></script>    
+    <script type="text/javascript" src="/Scripts/InternalCampaign.js"></script> 
+    <script type="text/javascript" src="/Scripts/adCode.js"></script>   
     <script type="text/javascript" src="/Scripts/Common.js"></script>
     <script type="text/javascript" src="/Scripts/fix_wmode2opaque_swf.js"></script>
     <script type="text/javascript" src="/Scripts/jquery.cookie.js"></script>
 
 
+
     <link rel="SHORTCUT ICON" href="http://www.imediaconnection.com/favicon.ico"><link rel="alternate" type="application/rss+xml" title="iMediaConnection" href="http://feeds.feedburner.com/ImediaConnectionAll?socialmodule">
 
-
+    
     <script type="text/javascript">
 //        var isInIFrame = (window.location != window.parent.location) ? true : false;
 //        (isInIFrame) ? parent.location = window.location : "";
@@ -62,23 +64,52 @@
             jQuery("ul#topnav li .sub").css({ 'opacity': '0' });
             jQuery("ul#topnav li").hoverIntent(config);
 
-            $("#loginDropDown span").click(function () {
-                var dd = $("#loginDropDown .sub")
+            jQuery("#loginDropDown span").click(function () {
+                var dd = jQuery("#loginDropDown .sub")
                 if (dd.css("display") == "none") {
-                    $('#loginDropDown > ul').hide(); // hide any other open drop downs
+                    jQuery("ul.click-dropdown-menu .sub").hide(); // hide any other open drop downs
                     dd.show();
                 }
                 else {
                     dd.hide();
                 }
+
+                var callUrl = "/CompanyService.asmx/GetProfilecompanies";
+                jQuery.ajax({
+                    type: "POST",
+                    url: callUrl,
+                    data: '{ }',
+                    contentType: "application/json; charset=utf-8",
+                    dataType: "json",
+                    success: function (ret) {
+                        if (ret != null) {
+                            var renderedContent = ret.d;
+                            if (renderedContent.Success) {
+                                jQuery("#login-companies").html(renderedContent.Message);
+                            }
+                            else {
+                                jQuery("#login-companies").html(""); //make the load image go away.
+                            }
+                        }
+                        else {
+                            jQuery("#login-companies").html(""); //make the load image go away.
+                        }
+                    },
+                    error: function (e) {
+                        jQuery("#login-companies").html(""); //make the load image go away.
+                    }
+                });
             });
 
-            $('#loginDropDown').click(function (e) {
+            //check for new messages
+            setInterval(function () { GetUnreadMessagesCount() }, 300000); //set the timeout to be once every 5 minutes.
+
+            jQuery('#loginDropDown').click(function (e) {
                 e.stopPropagation();
             });
 
-            $(document).click(function () {
-                $("#loginDropDown .sub").hide();
+            jQuery(document).bind('click', function () {
+                jQuery("ul.click-dropdown-menu .sub").hide();
             });
         });
 
@@ -86,6 +117,26 @@
         jQuery(document).ready(function ($) {
             jQuery(".msg-notification").delay(2000).slideUp(800);
         });
+
+        function GetUnreadMessagesCount() {
+            var callUrl = "/profiles/PCWebService.asmx/GetUnreadMessagesCount";
+            jQuery.ajax({
+                type: "POST",
+                url: callUrl,
+                data: '{ }',
+                contentType: "application/json; charset=utf-8",
+                dataType: "json",
+                success: function (ret) {
+                    if (ret != null) {
+                        var renderedContent = ret.d;
+                        if (renderedContent.Success) {
+                            jQuery("#login-inboxCount").html(renderedContent.Message);
+                        }
+                    }
+                },
+                error: function (e) { }
+            });
+        }
 
     </script>
 
@@ -119,30 +170,6 @@
             po.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'apis.google.com/js/plusone.js';
             var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
         })();
-    </script>
-
-    <script type="text/javascript">
-
-        var actId = 0;
-        var actTitle = "";
-        var _gaq = _gaq || [];
-        _gaq.push(['_setAccount', 'UA-4077114-8']);
-
-        if (actId != null && actId > 0)
-        {
-            _gaq.push(['_setCustomVar',1,'ActId','0',1]);
-            _gaq.push(['_setCustomVar',2,'ActJobTitle',actTitle,1]);
-        }
-
-        _gaq.push(['_trackPageview']);
-
-        (function () {
-            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-        })();
-
-
     </script>
 
     <!-- twitter-->
@@ -197,11 +224,13 @@
             if (xmlHttp.readyState == 4 || xmlHttp.readyState == "complete") {
             }
         }
+
     </script>
+	
 </head>
-<body><div id="cboxOverlay" style="display: none;"></div><div id="colorbox" style="padding-bottom: 42px; padding-right: 42px; display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxLoadedContent" class="" style="width: 0px; height: 0px;"></div><div id="cboxLoadingOverlay" class=""></div><div id="cboxLoadingGraphic" class=""></div><div id="cboxTitle" class=""></div><div id="cboxCurrent" class=""></div><div id="cboxSlideshow" class=""></div><div id="cboxNext" class=""></div><div id="cboxPrevious" class=""></div><div id="cboxClose" class=""></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position:absolute; top:0; left:0; width:9999px; height:0;"></div></div>
+<body>
     <form name="aspnetForm" method="post" action="Privacy.aspx" id="aspnetForm" class="site-master-aspx-form">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTg1MTQ0Nzc5NA9kFgJmD2QWAgIDD2QWAgIOD2QWAgIBD2QWAgIBD2QWBAICDxYCHgdWaXNpYmxlZ2QCFA9kFgICAQ8WAh4EVGV4dAXpBTxkaXYgY2xhc3M9J2NsZWFyZml4Jz48cD48c3BhbiBjbGFzcz0nZHJvcCc+MTwvc3Bhbj4gPGEgaHJlZj0nL2NvbnRlbnQvMzMxMTQuYXNwP3JlZj1yY19tcCc+MTYgc3VycHJpc2luZyBwcmVkaWN0aW9ucyBmb3IgMjAxMzwvYT48L3A+PC9kaXY+PGRpdiBjbGFzcz0nY2xlYXJmaXgnPjxwPjxzcGFuIGNsYXNzPSdkcm9wJz4yPC9zcGFuPiA8YSBocmVmPScvY29udGVudC8zMDQ5Ny5hc3A/cmVmPXJjX21wJz5BIHNvY2lhbCBtZWRpYSBwbGFubmVyJ3MgZ3VpZGUgdG8gcGxlYXNpbmcgdGhlIGJvc3M8L2E+PC9wPjwvZGl2PjxkaXYgY2xhc3M9J2NsZWFyZml4Jz48cD48c3BhbiBjbGFzcz0nZHJvcCc+Mzwvc3Bhbj4gPGEgaHJlZj0nL2NvbnRlbnQvMzMxMDguYXNwP3JlZj1yY19tcCc+NSB0b3BpY3MgdGhhdCB3aWxsIGdldCBhIHNvY2lhbCBtZWRpYSBtYW5hZ2VyIGZpcmVkPC9hPjwvcD48L2Rpdj48ZGl2IGNsYXNzPSdjbGVhcmZpeCc+PHA+PHNwYW4gY2xhc3M9J2Ryb3AnPjQ8L3NwYW4+IDxhIGhyZWY9Jy9jb250ZW50LzMzMTMyLmFzcD9yZWY9cmNfbXAnPlRoZSA5IGR1bWJlc3Qgd2F5cyB0byBtZWFzdXJlIHNvY2lhbCBtZWRpYTwvYT48L3A+PC9kaXY+PGRpdiBjbGFzcz0nY2xlYXJmaXgnPjxwPjxzcGFuIGNsYXNzPSdkcm9wJz41PC9zcGFuPiA8YSBocmVmPScvY29udGVudC8zMzEyOS5hc3A/cmVmPXJjX21wJz40IGNvbnRlbnQgbWFya2V0aW5nIG15dGhzIGRpc2NyZWRpdGVkPC9hPjwvcD48L2Rpdj5kZA==">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTg1MTQ0Nzc5NA9kFgJmD2QWAgIDD2QWAgIPD2QWAgIBD2QWAgIBD2QWBAIDDxYCHgdWaXNpYmxlZ2QCFw9kFgICAQ8WAh4EVGV4dAXoBTxkaXYgY2xhc3M9J2NsZWFyZml4Jz48cD48c3BhbiBjbGFzcz0nZHJvcCc+MTwvc3Bhbj4gPGEgaHJlZj0nL2NvbnRlbnQvMzM5NjcuYXNwP3JlZj1yY19tcCc+OSBkb3dubG9hZGFibGUgY3VzdG9tIEdvb2dsZSBBbmFseXRpY3MgcmVwb3J0czwvYT48L3A+PC9kaXY+PGRpdiBjbGFzcz0nY2xlYXJmaXgnPjxwPjxzcGFuIGNsYXNzPSdkcm9wJz4yPC9zcGFuPiA8YSBocmVmPScvY29udGVudC8zNDI1NC5hc3A/cmVmPXJjX21wJz4zIHRoaW5ncyB0aGF0IGNvdWxkIGtpbGwgTGlua2VkSW48L2E+PC9wPjwvZGl2PjxkaXYgY2xhc3M9J2NsZWFyZml4Jz48cD48c3BhbiBjbGFzcz0nZHJvcCc+Mzwvc3Bhbj4gPGEgaHJlZj0nL2NvbnRlbnQvMzQyNjEuYXNwP3JlZj1yY19tcCc+NiBtYXJrZXRpbmcgam9icyB0aGF0IGRlc2VydmUgbW9yZSByZXNwZWN0PC9hPjwvcD48L2Rpdj48ZGl2IGNsYXNzPSdjbGVhcmZpeCc+PHA+PHNwYW4gY2xhc3M9J2Ryb3AnPjQ8L3NwYW4+IDxhIGhyZWY9Jy9jb250ZW50LzM0MjE0LmFzcD9yZWY9cmNfbXAnPjUgcXVlc3Rpb25zIHlvdXIgc29jaWFsIG1lZGlhIHRlYW0gaGF0ZXMgYmVpbmcgYXNrZWQ8L2E+PC9wPjwvZGl2PjxkaXYgY2xhc3M9J2NsZWFyZml4Jz48cD48c3BhbiBjbGFzcz0nZHJvcCc+NTwvc3Bhbj4gPGEgaHJlZj0nL2NvbnRlbnQvMzMyNjUuYXNwP3JlZj1yY19tcCc+VGhlIDggYmVzdCBzb2NpYWwgbWVkaWEgY2FtcGFpZ25zIG9mIDIwMTI8L2E+PC9wPjwvZGl2PmRk">
 
 
 <script src="/ScriptResource.axd?d=IO2roS22OTlLQuN9aPXtQrN46losDLEQq7NWAzO24F5MjQuGV8jYfRUk78WSrJ-UYGADyAqEbBib5pR4ML4SVb_VH7LbQrH3vYfgzoFOEQUuUeYqREoHHqQa-MpFwayOT6I3cTNTGpaTM9ICgx7otsGNrxSss59BobxF4f_r97l4IYDV0&amp;t=ffffffff940d030f" type="text/javascript"></script>
@@ -211,43 +240,163 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 //]]>
 </script>
 
+    
+        
+        <script type="text/javascript">
+            (function () {
+                var useSSL = 'https:' == document.location.protocol;
+                var src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+                document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+            })();
+        </script><script src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+
+        <script type="text/javascript">
+            _area = "";
+        </script>
+
+        <script type="text/javascript">
+            LoadDoubleClickAdCodes(_area); 
+            googletag.pubads().enableSyncRendering(); 
+            googletag.pubads().enableSingleRequest(); 
+            googletag.enableServices(); 
+        </script>
+
+        
+
+        <!-- DFP Skin -->
+        
+            <div id="div-ad-skin-1x1">
+                <script type="text/javascript">
+                    googletag.display('div-ad-skin-1x1');
+                </script>
+            </div>
         
 
         <script type="text/javascript">
+
+        var actId = 0;
+        var actTitle = "";
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-4077114-8']);
+		//_gaq.push(['_trackPageview', location.pathname + location.search + location.hash]);
+
+        if (actId != null && actId > 0)
+        {
+            _gaq.push(['_setCustomVar',1,'ActId','0',1]);
+            _gaq.push(['_setCustomVar',2,'ActJobTitle',actTitle,1]);
+        }
+
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+
+
+    </script>
+
+        
+
+        <script type="text/javascript">
+			function mobileCheck()
+            {
+
+                //alert(navigator.userAgent);
+                var check = false;
+                if(typeof window.orientation !== 'undefined')
+                {
+                    check = true;
+                }
+
+                var check = (/iphone|ipod|android|ie|blackberry|fennec/).test
+                (navigator.userAgent.toLowerCase());
+
+                return check;
+            }
+		
             var baseSecureUrl = "https://www.imediaconnection.com/";
 
             function closedLogin() {
-                if ($.cookie('.imcAuthCookie2') != null) {
+                if (jQuery.cookie('.imcAuthCookie2') != null) {
                     window.location.reload();
                 }
             }
+			
+			function PopLogout() {
+                jQuery.colorbox({
+                    href: baseSecureUrl + "dialogs/LogoutDialog.aspx",
+                    iframe: true,
+                    scrolling: false,
+                    width: '420px',
+                    height: '310px',
+                    onClosed: closedLogout
+                });
+            }
 
             function PopLogin() {
-                $.fn.colorbox({
+                jQuery.colorbox({
                     href: baseSecureUrl + "dialogs/LoginDialog.aspx",
                     iframe: true,
                     scrolling: false,
                     width: '420px',
                     height: '310px',
-                    onClosed: closedLogin
+                    onClosed: closedLogin,
+                    fixed: true,
+                    reposition: true,
+                    top: function () {
+                        if (mobileCheck()) { return 50 }
+                        else { return false; } 
+                    },
+                    left: function () {
+                        if (mobileCheck()) { return 50 }
+                        else { return false; } 
+                    }
                 });
             }
 
+            
             function PopLoginReminder() {
-                $.fn.colorbox({
+                jQuery.colorbox({
                     href: baseSecureUrl + "dialogs/LoginDialog.aspx?rem=1",
                     iframe: true,
                     scrolling: false,
                     width: '770px',
                     height: '310px',
-                    onClosed: closedLogin
+                    onClosed: closedLogin,
+                    reposition: false,
+                    top: function () {
+                        if (mobileCheck()) { return 50 }
+                        else { return false; } 
+                    },
+                    left: function () {
+                        if (mobileCheck()) { return 50 }
+                        else { return false; } 
+                    }
                 });
             }
 
-            _area = "";
-            _channel = "";
-            _section = "";
-        </script>
+            function PopLoginMembership() {
+                jQuery.colorbox({
+                    href: baseSecureUrl + "dialogs/LoginDialog.aspx?rem=2",
+                    iframe: true,
+                    scrolling: false,
+                    width: '770px',
+                    height: '310px',
+                    onClosed: closedLogin,
+                    reposition: false,
+                    top: function () {
+                        if (mobileCheck()) { return 50 }
+                        else { return false; } 
+                    },
+                    left: function () {
+                        if (mobileCheck()) { return 50 }
+                        else { return false; } 
+                    }
+                });
+            }
+            </script>
 
         <!-- ADMIN NAVIGATION BAR -->
         
@@ -293,393 +442,24 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                     <!--  SOCIAL MEDIA LINKS  -->
                     
 
-                    <div class="banner728x90">
-                        
-<script type="text/javascript">
-    //<!-- Javascript tag
-    var findarea;
-    if (typeof _area == 'undefined') {
-        _area = "HOME_PAGE";
-    }
-    if (_area != null || _area != "") {
-        findarea = _area;
-    }
-    else {
-        findarea = "HOME_PAGE";
-    }
-
-    switch (findarea) {
-        case "ADTECH_BLOGS":
-            var imcadarea = "17/2"
-            break;
-        case "ASIA":
-            var imcadarea = "19/2"
-            break;
-        case "BLOGS":
-            var imcadarea = "16/2"
-            break;
-        case "COMPANY":
-            var imcadarea = "24/2"
-            break;
-        case "CONS_STRAT":
-            var imcadarea = "11/2"
-            break;
-        case "CONS_STRAT_ACQUISITION":
-            var imcadarea = "25/11/2"
-            break;
-        case "CONS_STRAT_BEHAVIORAL_MKTG":
-            var imcadarea = "26/11/2"
-            break;
-        case "CONS_STRAT_DEMOGRAPHICS":
-            var imcadarea = "27/11/2"
-            break;
-        case "CONS_STRAT_INTERNATIONAL":
-            var imcadarea = "28/11/2"
-            break;
-        case "CONS_STRAT_MULTICULTURAL":
-            var imcadarea = "29/11/2"
-            break;
-        case "CONS_STRAT_POPULATION":
-            var imcadarea = "30/11/2"
-            break;
-        case "CONS_STRAT_SOCIAL_MEDIA":
-            var imcadarea = "31/11/2"
-            break;
-        case "CONS_STRAT_VERTICALS":
-            var imcadarea = "32/11/2"
-            break;
-        case "VERTICALS_ENTERTAINMENT":
-            var imcadarea = "33/11/2"
-            break;
-        case "VERTICALS_AUTOS":
-            var imcadarea = "34/11/2"
-            break;
-
-        case "CREATIVE":
-            var imcadarea = "13/2"
-            break;
-        case "CREATIVE_BEST_PRACTICES":
-            var imcadarea = "35/13/2"
-            break;
-        case "CREATIVE_CASE_STUDIES":
-            var imcadarea = "36/13/2"
-            break;
-        case "CREATIVE_SHOWCASE":
-            var imcadarea = "37/13/2"
-            break;
-        case "HOME_PAGE":
-            var imcadarea = "3/2"
-            break;
-        case "HOME_PODCASTS":
-            var imcadarea = "38/3/2"
-            break;
-        case "HOME_VIDEO":
-            var imcadarea = "39/3/2"
-            break;
-        // case "INDUSTRY_ISSUES": 
-        // var imcadarea="" 
-        // break; 
-        case "IN_FOCUS":
-            var imcadarea = "105/2"
-            break;
-        // case "JOBBOARD_PROMO": 
-        // var imcadarea="" 
-        // break; 
-        case "JOBS":
-            var imcadarea = "20/2"
-            break;
-        case "MEDIA_ST":
-            var imcadarea = "10/2"
-            break;
-        case "MEDIA_ST_AD_NETWORKS":
-            var imcadarea = "40/10/2"
-            break;
-        case "MEDIA_ST_AD_SERVING":
-            var imcadarea = "41/10/2"
-            break;
-        case "MEDIA_ST_DIRECT_MARKETING":
-            var imcadarea = "42/10/2"
-            break;
-        case "MEDIA_ST_INTEGRATED_MARKETING":
-            var imcadarea = "43/10/2"
-            break;
-        case "MEDIA_ST_LOCAL":
-            var imcadarea = "44/10/2"
-            break;
-        case "MEDIA_ST_PLANNING_BUYING":
-            var imcadarea = "45/10/2"
-            break;
-        case "MKTG_CH":
-            var imcadarea = "9/2"
-            break;
-        case "MKTG_CH_DESKTOP_APPS":
-            var imcadarea = "46/9/2"
-            break;
-        case "MKTG_CH_EMAIL":
-            var imcadarea = "47/9/2"
-            break;
-        // case "MKTG_CH_EMAIL_INFOCUS": 
-        // var imcadarea="" 
-        // break; 
-        case "MKTG_CH_EMERGING":
-            var imcadarea = "48/9/2"
-            break;
-        case "MKTG_CH_ITV":
-            var imcadarea = "49/9/2"
-            break;
-        case "MKTG_CH_WEBSITES":
-            var imcadarea = "50/9/2"
-            break;
-        case "MKTG_CH_WIRELESS":
-            var imcadarea = "51/9/2"
-            break;
-        case "NEWS":
-            var imcadarea = "8/2"
-            break;
-        case "NEWSL_IMEDIA":
-            var imcadarea = "52/2"
-            break;
-        case "NEWSL_IMEDIA2":
-            var imcadarea = "104/2"
-            break;
-        case "NEWSL_IMEDIAASIA":
-            var imcadarea = "53/2"
-            break;
-        case "NEWSL_IMEDIAASIA2":
-            var imcadarea = "54/2"
-            break;
-        case "NEWSL_IMEDIAUK":
-            var imcadarea = "55/18/2"
-            break;
-        case "PEOPLE":
-            var imcadarea = "15/2"
-            break;
-        case "PEOPLE_BIOS":
-            var imcadarea = "56/15/2"
-            break;
-        case "PEOPLE_BOOK_CLUB":
-            var imcadarea = "57/15/2"
-            break;
-        case "PEOPLE_INTERVIEWS":
-            var imcadarea = "58/15/2"
-            break;
-        case "PEOPLE_OPINIONS":
-            var imcadarea = "59/15/2"
-            break;
-        case "PEOPLE_PEOPLE_CONNECT":
-            var imcadarea = "22/2"
-            break;
-        case "RC_RESOURCE_CONN_HOME":
-            var imcadarea = "21/2"
-            break;
-        case "RC_AD_SERVING":
-            var imcadarea = "60/21/2"
-            break;
-        case "RC_ADNETWORKS":
-            var imcadarea = "61/21/2"
-            break;
-        case "RC_RICH_MEDIA":
-            var imcadarea = "62/21/2"
-            break;
-        case "RC_SEARCH":
-            var imcadarea = "63/21/2"
-            break;
-        case "RC_WEB_ANALYTICS":
-            var imcadarea = "64/21/2"
-            break;
-        case "RC_EMAIL_MARKETING":
-            var imcadarea = ""
-            break;
-        case "RESEARCH":
-            var imcadarea = "14/2"
-            break;
-        case "RESEARCH_BRANDING":
-            var imcadarea = "66/14/2"
-            break;
-        case "RESEARCH_CONS_ACQUISITION":
-            var imcadarea = "67/14/2"
-            break;
-        case "RESEARCH_CONS_ACTION":
-            var imcadarea = "68/14/2"
-            break;
-        case "RESEARCH_MULTICHANNEL":
-            var imcadarea = "69/14/2"
-            break;
-        case "RESEARCH_WEB_ANALYTICS":
-            var imcadarea = "70/14/2"
-            break;
-        case "ROS_INTERSTITIAL":
-            var imcadarea = "71/2"
-            break;
-        case "RSS_FEED":
-            var imcadarea = "72/2"
-            break;
-        case "SEARCH":
-            var imcadarea = "12/2"
-            break;
-        case "SEARCH_PAID_SEARCH":
-            var imcadarea = "73/12/2"
-            break;
-        case "SEARCH_SEARCH_ENGINES":
-            var imcadarea = "74/12/2"
-            break;
-        case "SEARCH_SEO":
-            var imcadarea = "75/12/2"
-            break;
-        case "SUMMIT_AGENCY_FALL":
-            var imcadarea = "76/2"
-            break;
-        case "SUMMIT_AGENCY_SPRING":
-            var imcadarea = "77/2"
-            break;
-        case "SUMMIT_AUTO":
-            var imcadarea = "78/2"
-            break;
-        case "SUMMIT_BRAND_FALL":
-            var imcadarea = "79/2"
-            break;
-        case "SUMMIT_BRAND_SPRING":
-            var imcadarea = "80/2"
-            break;
-        case "SUMMIT_BRAND_SUMMER":
-            var imcadarea = "81/2"
-            break;
-        case "SUMMIT_BREAKTHROUGH":
-            var imcadarea = "82/2"
-            break;
-        case "SUMMIT_BREAKTHROUGH_FALL":
-            var imcadarea = "83/2"
-            break;
-        case "SUMMIT_COVG_AGENCY_SPRING":
-            var imcadarea = "84/77/2"
-            break;
-        case "SUMMIT_COVG_AGENCY_SPRING_NWSL":
-            var imcadarea = "85/84/77/2"
-            break;
-        case "SUMMIT_COVG_AGENCY_FALL":
-            var imcadarea = "86/76/2"
-            break;
-        case "SUMMIT_COVG_AGENCY_FALL_NWSL":
-            var imcadarea = "87/86/76/2"
-            break;
-        case "SUMMIT_COVG_AUTO":
-            var imcadarea = "88/78/2"
-            break;
-        case "SUMMIT_COVG_BRAND_FALL":
-            var imcadarea = "89/79/2"
-            break;
-        case "SUMMIT_COVG_BRAND_FALL_NWSL":
-            var imcadarea = "90/89/79/2"
-            break;
-        case "SUMMIT_COVG_BRAND_SPRING":
-            var imcadarea = "91/80/2"
-            break;
-        case "SUMMIT_COVG_BRAND_SPRING_NWSL":
-            var imcadarea = "92/91/80/2"
-            break;
-        case "SUMMIT_COVG_BRAND_SUMMER":
-            var imcadarea = "93/81/2"
-            break;
-        case "SUMMIT_COVG_BRAND_SUMMER_NWSL":
-            var imcadarea = "94/93/81/2"
-            break;
-        case "SUMMIT_COVG_BREAKTHROUGH_FALL":
-            var imcadarea = "95/83/2"
-            break;
-        case "SUMMIT_COVG_BREAKTHROUGH_FALL_NWSL":
-            var imcadarea = "96/95/83/2"
-            break;
-        case "SUMMIT_COVG_BREAKTHROUGH_SPRING":
-            var imcadarea = "97/82/2"
-            break;
-        case "SUMMIT_COVG_BREAKTHROUGH_SPRING_NWSL":
-            var imcadarea = "98/97/82/2"
-            break;
-        case "SUMMIT_COVG_FINANCIAL":
-            var imcadarea = "100/99/2"
-            break;
-        case "SUMMIT_ENTERTAINMENT":
-            var imcadarea = "101/2"
-            break;
-        case "SUMMIT_COVG_ENTERTAINMENT":
-            var imcadarea = "102/101/2"
-            break;
-        case "SUMMIT_FINANCIAL":
-            var imcadarea = "99/2"
-            break;
-        case "SUMMIT_VIDEO":
-            var imcadarea = "125/2"
-            break;
-        case "SUMMIT_COVG_VIDEO":
-            var imcadarea = "126/125/2"
-            break; 
-        case "SUMMIT_COVG_VIDEO_SPRING":
-            var imcadarea = "126/125/2"
-            break; 	
-        case "SUMMIT_HOME":
-            var imcadarea = "23/2"
-            break;
-        case "TEST":
-            var imcadarea = "7/2"
-            break;
-        case "UK":
-            var imcadarea = "18/2"
-            break;
-        case "UK_SUMMIT_BRAND_SPRING":
-            var imcadarea = "103/18/2"
-            break;
-        case "SUMMIT_IMOMS":
-            var imcadarea = "109/2"
-            break;
-        case "SUMMIT_COVG_IMOMS":
-            var imcadarea = "110/109/2"
-            break;
-        case "STREAMING_VIDEOS":
-        case "STREAMING_VIDEOS_BOB_GARFIELD":
-        case "STREAMING_VIDEOS_SUMMIT":
-            var imcadarea = "119/2";
-            break;
-        case "STREAMING_VIDEOS_INDUSTRY_INSIDER":
-            var imcadarea = "123/119/2";
-            break;
-        case "IMEDIA_25":
-        case "IMEDIA_LIST":
-            var imcadarea = "117/2";
-            break;
-        case "AGENCY_AWARDS":
-            var imcadarea = "120/2";
-            break;
-        case "NEXT_WAVE":
-            var imcadarea = "128/2";
-            break;
-        default: var imcadarea = "3/2";
-    }
-    // <!-- Javascript tag
-    // 300 x 250
-    var HideIfSponsored = 'False';
-    if (typeof (checkSponsor) == 'undefined')
-        checkSponsor = 0;
-
-    if (HideIfSponsored == 'False' || checkSponsor != 1) {
-        var zflag_nid = "1267";
-        var zflag_sid = "1";
-        var zflag_cid = imcadarea;
-        //var zflag_cid = ""; 
-        var zflag_width = "728";
-        var zflag_height = "90";
-        var zflag_sz = "14";
-        document.write('<SCR');
-        document.write('IPT SRC="http://c5.zedo.com/jsc/c5/fo.js">');
-        document.write('</SCR');
-        document.write('IPT>');
-    }
-    // 300 x 250 -->
-
-</script><script src="http://c5.zedo.com/jsc/c5/fo.js"></script>
-
+                    <div class="banner728x90">                        
+                        <div id="div-ad-top-leaderboard-728x90" style="width:728px; height:90px;">
+                            <script type="text/javascript">
+                                googletag.display('div-ad-top-leaderboard-728x90');
+                            </script>
+                        </div>
                     </div>
                 </div>
                 
+                <!-- 970 Ad -->
+                
+				    <div id="div-ad-pushdown-970x66" class="banner970x66 grid_24" style="margin-left:-5px;">                
+                        <script type="text/javascript">
+                            googletag.display('div-ad-pushdown-970x66');
+                         </script>
+                    </div>
+                
+
                 <!--  SITE NAVIGATION  -->
                 
 <div class="grid_24 site-navigation">
@@ -689,48 +469,49 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                 <div class="nav-content">
                     <div class="col top-stories">
                         <div class="title">
-                            <a href="http://www.imediaconnection.com/">Top <span>Stories</span></a></div>
+                            <a href="http://www.imediaconnection.com/coverstories/?imcid=nav">Top <span>Stories</span></a></div>
                         <ul id="ArticlesUL" class="article">
                         </ul>
                         <div class="coverstories">
                             <div class="title">
                                 Cover <span>Stories</span></div>
-                            <span><a href="/coverstories/">View all Cover Stories »</a></span>
+                            <span><a href="/coverstories/?imcid=nav">View all Cover Stories »</a></span>
                         </div>
                     </div>
                     <div class="col subject">
                         <div class="title">
                             Subjects</div>
                         <ul>
-                            <li><a href="/adnetworks/">Ad Networks</a></li>
-                            <li><a href="/adserving/">Ad Serving</a></li>
-                            <!--  DISABLED UNTIL NEW CMS  
-                                                        <li><a href="#">Agency Issues</a></li>
-                                                    -->
-                            <li><a href="/apps/">Apps</a></li>
-                            <li><a href="/brandissues/">Brand Issues</a></li>
-                            <li><a href="/casestudies/">Case Studies</a></li>
-                            <li><a href="/creative/">Creative</a></li>
-                            <li><a href="/demographics/">Demographics</a></li>
-                            <li><a href="/directmarketing/">Direct Marketing</a></li>
-                            <li><a href="/email/">Email</a></li>
-                            <li><a href="/emerging/">Emerging Platforms</a></li>
-                            <li><a href="/integrated/">Integrated Marketing</a></li>
+                            <li><a href="/adnetworks/?imcid=nav">Ad Networks</a></li>
+                            <li><a href="/adserving/?imcid=nav">Ad Serving</a></li>
+                            
+                            <!--  DISABLED UNTIL NEW CMS  -->
+                            <!-- <li><a href="#">Agency Issues</a></li> -->
+
+                            <li><a href="/apps/?imcid=nav">Apps</a></li>
+                            <li><a href="/brandissues/?imcid=nav">Brand Issues</a></li>
+                            <li><a href="/casestudies/?imcid=nav">Case Studies</a></li>
+                            <li><a href="/creative/?imcid=nav">Creative</a></li>
+                            <li><a href="/demographics/?imcid=nav">Demographics</a></li>
+                            <li><a href="/directmarketing/?imcid=nav">Direct Marketing</a></li>
+                            <li><a href="/email/?imcid=nav">Email</a></li>
+                            <li><a href="/emerging/?imcid=nav">Emerging Platforms</a></li>
+                            <li><a href="/integrated/?imcid=nav">Integrated Marketing</a></li>
                         </ul>
                         <ul>
-                            <li><a href="/local/">Local</a></li>
-                            <li><a href="/mediaplanning/">Media Planning &amp; Buying</a></li>
-                            <li><a href="/mobile/">Mobile</a></li>
+                            <li><a href="/local/?imcid=nav">Local</a></li>
+                            <li><a href="/mediaplanning/?imcid=nav">Media Planning &amp; Buying</a></li>
+                            <li><a href="/mobile/?imcid=nav">Mobile</a></li>
                             <!--  DISABLED UNTIL NEW CMS  
                                                         <li><a href="#">Professional Development</a></li>
                                                     -->
-                            <li><a href="/search/">Search</a></li>
-                            <li><a href="/socialmedia/">Social Media</a></li>
-                            <li><a href="/targeting/">Targeting</a></li>
-                            <li><a href="/viral/">Viral</a></li>
-                            <li><a href="/videoarticles/">Video</a></li>
-                            <li><a href="/webanalytics/">Web Analytics</a></li>
-                            <li><a href="/websites/">Websites</a></li>
+                            <li><a href="/search/?imcid=nav">Search</a></li>
+                            <li><a href="/socialmedia/?imcid=nav">Social Media</a></li>
+                            <li><a href="/targeting/?imcid=nav">Targeting</a></li>
+                            <li><a href="/viral/?imcid=nav">Viral</a></li>
+                            <li><a href="/videoarticles/?imcid=nav">Video</a></li>
+                            <li><a href="/webanalytics/?imcid=nav">Web Analytics</a></li>
+                            <li><a href="/websites/?imcid=nav">Websites</a></li>
                         </ul>
                     </div>
                 </div>
@@ -741,7 +522,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                 <div class="nav-content">
                     <div class="col">
                         <div class="title">
-                            <a href="http://blogs.imediaconnection.com">iMediaConnection <span>Blog</span></a>
+                            <a href="http://blogs.imediaconnection.com/?imcid=nav">iMediaConnection <span>Blog</span></a>
                         </div>
                         <ul id="ImcBlogNavUL">
                         </ul>
@@ -757,10 +538,10 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                         <div class="title">
                             Sections</div>
                         <ul>
-                            <li><a href="/videos/">All Videos</a></li>
-                            <li><a href="/videos/summits/">Summits</a></li>
-                            <li><a href="/videos/bob-garfield/">Bob Garfield</a></li>
-                            <li><a href="/videos/industry-insider/">Industry Insider</a></li>
+                            <li><a href="/videos/?imcid=nav">All Videos</a></li>
+                            <li><a href="/videos/summits/?imcid=nav">Summits</a></li>
+                            <li><a href="/videos/bob-garfield/?imcid=nav">Bob Garfield</a></li>
+                            <li><a href="/videos/industry-insider/?imcid=nav">Industry Insider</a></li>
                         </ul>
                     </div>
                     <div class="col">
@@ -772,7 +553,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                             <script language="JavaScript" type="text/javascript">
                                 try {
                                     for (i = 0; i < 4; i++) {
-                                        document.write('<li><a href="/videoredirect.aspx?VideoID=' + videofile.NewDataSet.VideoFile[i].VideoFile_ID + '&type=' + videofile.NewDataSet.VideoFile[i].VideoType + '">');
+                                        document.write('<li><a href="/videoredirect.aspx?VideoID=' + videofile.NewDataSet.VideoFile[i].VideoFile_ID + '&type=' + videofile.NewDataSet.VideoFile[i].VideoType + '&imcid=nav">');
                                         document.write('<img src="/spot/images/' + videofile.NewDataSet.VideoFile[i].ThumbnailFile + '" alt="video' + videofile.NewDataSet.VideoFile[i].VideoFile_ID + '" /><br />');
                                         title = videofile.NewDataSet.VideoFile[i].Video_Title;
                                         title = title.replace(/\\u0027/g, "'");
@@ -783,7 +564,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                                 catch (err) {
                                     //Handle errors here
                                 }
-                            </script><li><a href="/videoredirect.aspx?VideoID=32770&amp;type=1"><img src="/spot/images/32770.jpg" alt="video32770"><br><span>3 secrets to lasting digital partnerships</span></a></li><li><a href="/videoredirect.aspx?VideoID=32761&amp;type=1"><img src="/spot/images/32761.jpg" alt="video32761"><br><span>The best and worst digital shopping tactics</span></a></li><li><a href="/videoredirect.aspx?VideoID=32679&amp;type=1"><img src="/spot/images/32679.jpg" alt="video32679"><br><span>Tips for marketing your brand to youth</span></a></li><li><a href="/videoredirect.aspx?VideoID=32683&amp;type=1"><img src="/spot/images/32683.jpg" alt="video32683"><br><span>2 ways to help your content go viral</span></a></li>
+                            </script><li><a href="/videoredirect.aspx?VideoID=32770&amp;type=1&amp;imcid=nav"><img src="/spot/images/32770.jpg" alt="video32770"><br><span>3 secrets to lasting digital partnerships</span></a></li><li><a href="/videoredirect.aspx?VideoID=32761&amp;type=1&amp;imcid=nav"><img src="/spot/images/32761.jpg" alt="video32761"><br><span>The best and worst digital shopping tactics</span></a></li><li><a href="/videoredirect.aspx?VideoID=32679&amp;type=1&amp;imcid=nav"><img src="/spot/images/32679.jpg" alt="video32679"><br><span>Tips for marketing your brand to youth</span></a></li><li><a href="/videoredirect.aspx?VideoID=32683&amp;type=1&amp;imcid=nav"><img src="/spot/images/32683.jpg" alt="video32683"><br><span>2 ways to help your content go viral</span></a></li>
                             
                         </ul>
                     </div>
@@ -795,7 +576,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                 <div class="nav-content">
                     <div class="summit-des col">
                         <div class="title">
-                            <a href="/summits/index.asp">iMedia <span>Summits</span></a></div>
+                            <a href="/summits/index.asp?imcid=nav">iMedia <span>Summits</span></a></div>
                         <ul class="summit-des col">
                             <li>Senior buyers and sellers of interactive media attend our summits to learn, network,
                                 and do business.<br>
@@ -805,30 +586,33 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                             <div class="title">
                                 Summit <span>Coverage</span></div>
                             <ul class="summit-coverage col">
-								<li><span>iMedia Breakthrough Summit, October 2012</span><br>
-                                    <a href="/PhotoGallery/Default.aspx?SummitId=115&amp;imcid=nav">Photos</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/summits/coverage/32785.asp?imcid=nav">Articles &amp; Videos</a></li>
-								<li><span>iMedia Brand Summit, September 2012</span><br>
-                                    <a href="/PhotoGallery/Default.aspx?SummitId=114&amp;imcid=nav">Photos</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/summits/coverage/32511.asp?imcid=nav">Articles &amp; Videos</a></li>
-								<li><span>iMedia Entertainment Summit, June 2012</span><br>
-                                    <a href="/PhotoGallery/Default.aspx?SummitId=119&amp;imcid=nav">Photos</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/summits/coverage/32152.asp?imcid=nav">Videos</a></li> 
+								<li><span>iMedia Agency Summit, May 2013</span><br>
+                                    <a href="/PhotoGallery/Default.aspx?SummitId=122&amp;imcid=nav">Photos</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/summits/coverage/34049.asp?imcid=nav">Articles &amp; Videos</a></li>
+								<li><span>iMedia Video Summit, March 2013</span><br>
+                                    <a href="/PhotoGallery/Default.aspx?SummitId=121&amp;imcid=nav">Photos</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/summits/coverage/33688.asp?imcid=nav">Articles &amp; Videos</a></li>
+								<li><span>iMedia Brand Summit, February 2013</span><br>
+                                    <a href="/PhotoGallery/Default.aspx?SummitId=120&amp;imcid=nav">Photos</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/summits/coverage/33504.asp?imcid=nav">Articles &amp; Videos</a></li>
                                 <li class="viewmore"><a href="/summits/96.asp?imcid=nav">view more »</a></li>
                             </ul>
                         </div>
                     </div>
                     <div class="summit-detail col">
-                        <ul class="summit-detail col">
-							<li><span>iMedia Agency Summit 2012</span><br>
-                                Dec 2-5, 2012, Scottsdale, Arizona<br>
-								<a href="/summits/32428.asp?imcid=nav">View Agenda</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/summits/32427.asp?imcid=nav">Learn More</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/SFDC/WebToLead.aspx?imcid=nav">Request Invitation</a></li>
+                        <ul class="summit-detail col">							
+							<li><span>iMedia InFocus Summit 2013</span><br>
+                                June 4-6, 2013, Chicago, Illinois<br>
+								<a href="/summits/32913.asp?imcid=nav">View Agenda</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/summits/32912.asp?imcid=nav">Learn More</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/SFDC/WebToLead.aspx?imcid=nav">Request Invitation</a></li>
 							<li><span>iMedia Brand Summit 2013</span><br>
-                                Feb 2-6, 2013, Amelia Island, Florida<br>
-								<a href="/summits/32758.asp?imcid=nav">View Agenda</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/summits/32756.asp?imcid=nav">Learn More</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/SFDC/WebToLead.aspx?imcid=nav">Request Invitation</a></li>
-							<li><span>iMedia Video Summit 2013</span><br>
-                                March 3-6, 2013, Rancho Palos Verdes, California<br>
-								<a href="/summits/32859.asp?imcid=nav">View Agenda</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/summits/32857.asp?imcid=nav">Learn More</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/SFDC/WebToLead.aspx?imcid=nav">Request Invitation</a></li>
+                                September 8-11, 2013, Coronado, California<br>
+								<a href="/summits/32927.asp?imcid=nav">View Agenda</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/summits/32926.asp?imcid=nav">Learn More</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/SFDC/WebToLead.aspx?imcid=nav">Request Invitation</a></li>
+							<li><span>iMedia Entertainment Summit 2013</span><br>
+                                September 17, 2013, Los Angeles, California<br>
+								<a href="/summits/34225.asp?imcid=nav">View Agenda</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/summits/34223.asp?imcid=nav">Learn More</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/SFDC/WebToLead.aspx?imcid=nav">Request Invitation</a></li>
+							<li><span>iMedia Breakthrough Summit 2013</span><br>
+                                October 20-23, 2013, Austin, Texas<br>
+								<a href="/summits/32933.asp?imcid=nav">View Agenda</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/summits/32931.asp?imcid=nav">Learn More</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/SFDC/WebToLead.aspx?imcid=nav">Request Invitation</a></li>
 							<li><span>iMedia Agency Summit 2013</span><br>
-                                May 5-6, 2013, Austin, Texas<br>
-								<a href="/summits/32865.asp?imcid=nav">View Agenda</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/summits/32864.asp?imcid=nav">Learn More</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/SFDC/WebToLead.aspx?imcid=nav">Request Invitation</a></li>
+                                December 8-11, 2013, Scottsdale, Arizona<br>
+								<a href="/summits/32939.asp?imcid=nav">View Agenda</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/summits/32937.asp?imcid=nav">Learn More</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/SFDC/WebToLead.aspx?imcid=nav">Request Invitation</a></li>
                         </ul>
                     </div>
                     <div class="summit-detail col" style="display:none;">
@@ -846,21 +630,65 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                 <div class="nav-content">
                     <div class="job-group col">
                         <ul class="job-group col">
-                            <li class="seeker"><a href="/jobs/">Job Seekers<br>
+                            <li class="seeker"><a href="/jobs/?imcid=nav">Job Seekers<br>
                                 <span>The leading job board for social media jobs.</span></a></li>
-                            <li class="employer"><a href="/jobs/JobConnectionMain.aspx">Employers<br>
+                            <li class="employer"><a href="/jobs/JobConnectionMain.aspx?imcid=nav">Employers<br>
                                 <span>Put listings in front of the active and passive job seekers.</span></a></li>
                         </ul>
                     </div>
                     <div class="job-listing col">
                         <div class="title">
                             <a href="/jobs/">Latest <span>Jobs</span></a></div>
-                        <ul class="job-listing" id="navLatestJobs"><li><a href="/jobs/description.aspx?id=3730">Head Of Technology - Digital Media, San Francisco -- 94111</a></li><li><a href="/jobs/description.aspx?id=3729">Director, Social Media, Burbank</a></li><li><a href="/jobs/description.aspx?id=3728">Account Supervisor, New York</a></li><li><a href="/jobs/description.aspx?id=3727">Senior Account Director, New York</a></li><li><a href="/jobs/description.aspx?id=3726">Sales Manager, Portland</a></li><li><a href="/jobs/description.aspx?id=3725">Pr/communications Manager, San Francisco</a></li><li><a href="/jobs/description.aspx?id=3724">Sales Representative, New York City</a></li><li><a href="/jobs/description.aspx?id=3723">Associate Strategic Account Manager, Los Angeles</a></li><li><a href="/jobs/description.aspx?id=3722">Online Advertising Account Coordinator, Port Washington, NY</a></li><li><a href="/jobs/description.aspx?id=3721">Account Manager, Online Ad Sales, Port Washington, NY</a></li></ul>
+                        <ul class="job-listing" id="navLatestJobs">
+                            
+                                <script type="text/javascript" src="http://www.imediaconnection.com/jobs/tools/js.aspx"></script>
+                            
+                            
+                            <script type="text/javascript">
+                                function navLatestJobsShow() {
+                                    var displayMax = 10; //How many result should be displayed? Max 20 
+                                    var job = loadXML().getElementsByTagName("job"); var id; var title; var companyName; var city; var state;
+                                    var arrjobURL = new Array(displayMax);
+                                    var navLatestJobsHTML = [];
+                                    for (var i = 0; i < displayMax; i++) {
+                                        if (typeof (job[i]) !== 'undefined' && job[i] !== null) {
+                                            id = job[i].getElementsByTagName("id")[0].firstChild.nodeValue;
+                                            title = job[i].getElementsByTagName("title")[0].firstChild.nodeValue;
+                                            var newtitle = "";
+                                            var arraytitle = title.split(" ");
+                                            if (arraytitle.length > 1) {
+                                                for (index = 0; index < arraytitle.length; index++) {
+                                                    newtitle = newtitle + " " + arraytitle[index].substring(0, 1).toUpperCase() + arraytitle[index].substring(1, arraytitle[index].length).toLowerCase();
+                                                }
+                                            }else {
+                                                newtitle = title.substring(0, 1).toUpperCase() + title.substring(1, title.length).toLowerCase();
+                                            }
+
+                                            companyName = job[i].getElementsByTagName("company")[0].firstChild.nodeValue;
+                                            city = job[i].getElementsByTagName("city")[0].firstChild.nodeValue;
+                                            title = trimTitle(newtitle) + ", " + city;
+                                            state = job[i].getElementsByTagName("state")[0].firstChild.nodeValue;
+
+                                            navLatestJobsHTML.push("<li>");
+                                            navLatestJobsHTML.push('<a href="/jobs/description.aspx?id=' + id + '&imcid=nav">' + title + "</a>");
+                                            navLatestJobsHTML.push("</li>");
+                                        }
+                                    }
+
+                                    document.getElementById('navLatestJobs').innerHTML = navLatestJobsHTML.join('');
+                                }
+
+                                jQuery(document).ready(function ($) {
+                                    navLatestJobsShow();
+                                });
+                            </script>
+                        </ul>
                     </div>
                 </div>
             </div>
         </li>
-        <li class="pc"><span class="pc">People Connection</span>
+        <li class="pc">
+            <span class="pc">People Connection</span>
             <div class="sub" style="opacity: 0;">
                 <div class="nav-content">
                     
@@ -869,14 +697,14 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                             <span>Find People by name, company, or title</span></a>
                         <div id="divNavProfileJoin">
                             <div class="title member-signin">
-                                <a href="https://www.imediaconnection.com/profiles/register/start.aspx">Join <span>People
+                                <a href="https://www.imediaconnection.com/profiles/register/start.aspx?imcid=nav">Join <span>People
                                     Connection</span></a></div>
                             <ul class="whyjoin clearfix">
                                 <li>Public profile SEO friendly!</li>
                                 <li>Become an expert. Comments show up on your profile.</li>
                                 <li>Expand your business. </li>
                                 <li class="nav-signup">
-                                        <a href="https://www.imediaconnection.com/profiles/register/start.aspx">
+                                        <a href="https://www.imediaconnection.com/profiles/register/start.aspx?imcid=nav">
                                     Become a member now</a>&nbsp;&nbsp;|&nbsp;&nbsp;<span class="signin" onclick="PopLogin()" style="cursor:pointer; color:#006699;">Sign in</span>
                                 </li>
                             </ul>
@@ -897,40 +725,34 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
         <li class="rc"><span class="rc">Resource Connection</span>
             <div class="sub" style="opacity: 0;">
                 <div class="nav-content">
-                    <div class="col ">
-                        <div class="title">
-                            Categories</div>
-                        <ul class="category">
-                            <li><a href="http://www.imediaconnection.com/resourceconnection/CompanyCategory.aspx?companycategory=adnetwork">
-                                Ad Networks</a></li>
-                            <li><a href="http://www.imediaconnection.com/resourceconnection/CompanyCategory.aspx?companycategory=adservices">
-                                Ad Servers</a></li>
-                            <li><a href="http://www.imediaconnection.com/resourceconnection/CompanyCategory.aspx?companycategory=emailservices">
-                                Email Marketing Services</a></li>
-                            <li><a href="http://www.imediaconnection.com/resourceconnection/CompanyCategory.aspx?companycategory=generalnews">
-                                Media: General News</a></li>
-                            <li><a href="http://www.imediaconnection.com/resourceconnection/CompanyCategory.aspx?companycategory=richmediaservices">
-                                Rich Media Services</a></li>
-                            <li><a href="http://www.imediaconnection.com/resourceconnection/CompanyCategory.aspx?companycategory=searchengineservices">
-                                Search Engine Marketing</a></li>
-                            <li><a href="http://www.imediaconnection.com/resourceconnection/CompanyCategory.aspx?companycategory=webanalyticservices">
-                                Web Analytics Tools</a></li>
-                            <li><a href="http://www.imediaconnection.com/resourceconnection/" class="viewall">view
-                                all »</a></li>
+                    <!-- left column -->
+                    <div class="nav-rc-info col">
+                        <ul>
+                            <li class="reason rc">
+                                <a href="/resourceconnection/?imcid=nav">Resource Connection <span class="beta">BETA</span><br>
+                                <span>Helps marketers connect with digital service providers</span></a>
+                            </li>
+                            <li class="reason note">
+                                <a href="/resourceconnection/NotesandFavorites.aspx?imcid=nav">Favorites and Notes<br>
+                                <span>See or manage my favorites and notes on companies</span></a>
+                            </li>
+                            <li class="popular">
+                                <div class="heading">Popular Categories</div>
+                                <span><a href="/resourceconnection/ad-networks/?imcid=nav">Ad Networks</a></span>
+								<span><a href="/resourceconnection/analytics-_and_-reporting/?imcid=nav">Analytics &amp; Reporting</a></span>
+                                <span><a href="/resourceconnection/email-marketing-_and_-service-providers/?imcid=nav">Email Marketing &amp; Service Providers</a></span>
+								<span><a href="/resourceconnection/online-publishing/?imcid=nav">Online Publishing</a></span>
+                                <span><a href="/resourceconnection/search-marketing/?imcid=nav">Search Marketing</a></span>
+								<span><a href="/resourceconnection/video-marketing/?imcid=nav">Video Marketing</a></span>             
+                            </li>
                         </ul>
                     </div>
-                    <!--  hidden until the new resource connection -->
-                    <div class="col" style="display: none;">
-                        <div class="title">
-                            <a href="#">Latest <span>Additions</span></a></div>
-                        <ul>
-                            <li><a href="#">BlueHornet <span>- Email Marketing Services</span></a></li>
-                            <li><a href="#">7Search <span>- Search Engine Marketing</span></a></li>
-                            <li><a href="#">Atlas OnePoint <span>- Search Enging Marketing</span></a></li>
-                            <li><a href="#">Pointroll <span>- Rich Media Services</span></a></li>
-                            <li><a href="#">ecommStats Web Analytics <span>- Web Analytics Tools</span></a></li>
-                            <li class="viewmore"><a href="#">view more »</a></li>
-                        </ul>
+                    <!-- right column -->
+                    <div class="nav-rc col">
+                        <!-- no existing RC page or not logged in -->
+                        <div id="divRcCompanies" class="">
+                            <img src="/images/wait.gif" style="width: 16px; height: 16px; margin-left: 5px;" alt="loading...">
+                        </div>
                     </div>
                 </div>
             </div>
@@ -940,8 +762,8 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                 <div class="nav-content">
                     <div class="col ">
                         <ul class="region">
-                            <li><a href="http://www.imediaconnection.in">India</a></li>
-                            <li><a href="http://www.imediaconnection.com/uk/">United Kingdom</a></li>
+                            <li><a href="http://www.imediaconnection.in/?imcid=nav">India</a></li>
+                            <li><a href="http://www.imediaconnection.com/uk/?imcid=nav">United Kingdom</a></li>
                         </ul>
                     </div>
                 </div>
@@ -966,7 +788,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                     //
                     SubmitSearch: function () {
                         var keyword = this.GetKeyword();
-                        if (keyword.length == 0) { return; }
+                        if (keyword.length === 0) { return; }
 
                         var url = "/SearchResultsCSE.aspx"
                                         + "?cx=017392947275951147837:mi3vecqy0uw"
@@ -975,13 +797,13 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                                         + "&q=" + keyword
                                         + "&sa.x=0"
                                         + "&sa.y=0"
-                                        + "&sa=Go#1087";
+                                        + "&sa=Go#1087&imcid=nav";
 
                         location.href = url;
                     },
                     execute: function (keyword) {
                         var keyword = this.GetKeyword();
-                        if (keyword.length == 0) { return; }
+                        if (keyword.length === 0) { return; }
 
                         var url = "/SearchResultsCSE.aspx"
                                         + "?cx=017392947275951147837:mi3vecqy0uw"
@@ -990,7 +812,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                                         + "&q=" + keyword
                                         + "&sa.x=0"
                                         + "&sa.y=0"
-                                        + "&sa=Go#1087";
+                                        + "&sa=Go#1087&imcid=nav";
 
                         location.href = url;
                     },
@@ -1006,7 +828,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                     //
                     GetKeyword: function () {
                         var siteSearchBox = document.getElementById("siteSearchBox");
-                        if (siteSearchBox == null) { return ""; }
+                        if (siteSearchBox === null) { return ""; }
                         return this.Trim(siteSearchBox.value);
                     },
                     //
@@ -1042,23 +864,22 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 <script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
 <script type="text/javascript">
     //load Articles, iMedia & ad:tech blog lists into navigation.
+//    var urlParams = {};
+//    (function () {
+//        var e,
+//        a = /\+/g,  // Regex for replacing addition symbol with a space
+//        r = /([^&=]+)=?([^&]*)/g,
+//        d = function (s) { return decodeURIComponent(s.replace(a, " ")); },
+//        q = window.location.search.substring(1);
 
-    var urlParams = {};
-    (function () {
-        var e,
-        a = /\+/g,  // Regex for replacing addition symbol with a space
-        r = /([^&=]+)=?([^&]*)/g,
-        d = function (s) { return decodeURIComponent(s.replace(a, " ")); },
-        q = window.location.search.substring(1);
-
-        while (e = r.exec(q))
-            urlParams[d(e[1])] = d(e[2]);
-    })();
+//        while (e = r.exec(q))
+//            urlParams[d(e[1])] = d(e[2]);
+//    })();
 
     //for locked navigation bar
     var setMenuOffset = function () {
-        var nav = $("#topnav");
-        if (nav.length == 0) return;
+        var nav = jQuery("#topnav");
+        if (nav.length === 0) { return; }
         var currentOffset = document.documentElement.scrollTop || document.body.scrollTop;
         if (currentOffset > 155 && nav.css('position') != 'fixed') {
             nav.css('top', '0px');
@@ -1069,8 +890,8 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
         }
     };
 
-    var baseUrl = (document.location.protocol == 'https:' ? 'https://' : 'http://') + 'www.imediaconnection.com/profiles';
-    $(document).ready(function () {
+    var baseUrl = (document.location.protocol == 'https:' ? 'https://' : 'http://') + 'www.imediaconnection.com';
+    jQuery(document).ready(function () {
 
         if (typeof onScrollEventsFunctions === 'undefined') {
             onScrollEventsFunctions = [];
@@ -1083,60 +904,63 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
         //setMenuOffset();       
 
         //Render Articles
-        var callUrl = baseUrl + "/WebService.asmx/RenderArticleRss";
-        $.ajax({
+        var callUrl = baseUrl + "/profiles/WebService.asmx/RenderArticleRss";
+        jQuery.ajax({
             type: "POST",
             url: callUrl,
             data: "{'path': 'http://www.imediaconnection.com/rss/top.xml' }",
             contentType: "application/json; charset=utf-8",
             dataType: "json",
             success: function (ret) {
-                if (ret != null) {
+                if (ret !== null) {
                     var renderedContent = ret.d;
                     if (renderedContent.length > 0) {
-                        $('#ArticlesUL').html(renderedContent);
+                        jQuery('#ArticlesUL').html(renderedContent);
                     }
                 }
             },
             error: function (e) { }
         });
         //Render Blog
-        var callUrl = baseUrl + "/WebService.asmx/RenderBlogRss";
-        $.ajax({
+        
+        callUrl = baseUrl + "/profiles/WebService.asmx/RenderBlogRss";
+        jQuery.ajax({
             type: "POST",
             url: callUrl,
             data: "{'path': 'http://blogs.imediaconnection.com/custom-rss/' }",
             contentType: "application/json; charset=utf-8",
             dataType: "json",
             success: function (ret) {
-                if (ret != null) {
+                if (ret !== null) {
                     var renderedContent = ret.d;
                     if (renderedContent.length > 0) {
-                        $('#ImcBlogNavUL').html(renderedContent);
+                        jQuery('#ImcBlogNavUL').html(renderedContent);
                     }
                 }
             },
             error: function (e) { }
         });
 
-        //        //Render AdTech Blog        
-        //        var callUrl = baseUrl + "/WebService.asmx/RenderAdTechBlogRss";        
-        //        $.ajax({
-        //            type: "POST",
-        //            url: callUrl,
-        //            data: "{'path': 'http://ad-tech.blogs.imediaconnection.com/imc-custom-rss/' }",
-        //            contentType: "application/json; charset=utf-8",
-        //            dataType: "json",
-        //            success: function (ret) {
-        //                if (ret != null) {
-        //                    var renderedContent = ret.d;
-        //                    if (renderedContent.length > 0) {
-        //                        $('#AdTechBlogNavUL').html(renderedContent);
-        //                    }
-        //                }
-        //            },
-        //            error: function (e) { }
-        //        });
+        //Render RC Companies
+        callUrl = baseUrl + "/CompanyService.asmx/GetProfileCompaniesForNav";
+        jQuery.ajax({
+            type: "POST",
+            url: callUrl,
+            contentType: "application/json; charset=utf-8",
+            dataType: "json",
+            success: function (ret) {
+                if (ret !== null) {
+                    var retContent = ret.d;
+                    if (retContent.Success && retContent.Message.length > 0) {
+                        jQuery('#divRcCompanies').html(retContent.Message);
+                    }
+                    else {
+                        jQuery('#divRcCompanies').html("<a href=\"/resourceconnection/welcome.aspx?imcid=nav\"><img src=\"http://assets.imediaconnection.com/images/rc/resource-connection-join-now-module.jpg\" alt=\"Join Resource Connection\" title=\"Join Resource Connection\" /></a>");
+                    }
+                }
+            },
+            error: function (e) { }
+        });
 
     });
 </script>
@@ -1146,69 +970,19 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                 
 
 <div class="nav-top-content">
-    <!--?xml version="1.0" encoding="utf-8"?--><ul class="story"><li><a href="http://www.imediaconnection.com/content/33132.asp?imcid=topnavcontent"><img src="http://assets.imediaconnection.com/images/topstory/img-article-default-md.jpg" alt="The 9 dumbest ways to measure social media" title="The 9 dumbest ways to measure social media" onerror="this.onerror=null;this.src='http://assets.imediaconnection.com/images/topstory/img-article-default-md.jpg'"><span>The 9 dumbest ways to measure social media</span></a></li><li><a href="http://www.imediaconnection.com/content/33114.asp?imcid=topnavcontent"><img src="http://assets.imediaconnection.com/images/topstory/img-article-default-md.jpg" alt="16 surprising predictions for 2013" title="16 surprising predictions for 2013" onerror="this.onerror=null;this.src='http://assets.imediaconnection.com/images/topstory/img-article-default-md.jpg'"><span>16 surprising predictions for 2013</span></a></li><li><a href="http://www.imediaconnection.com/content/33108.asp?imcid=topnavcontent"><img src="http://assets.imediaconnection.com/images/topstory/img-article-default-md.jpg" alt="5 topics that will get a social media manager fired" title="5 topics that will get a social media manager fired" onerror="this.onerror=null;this.src='http://assets.imediaconnection.com/images/topstory/img-article-default-md.jpg'"><span>5 topics that will get a social media manager fired</span></a></li><li><a href="http://www.imediaconnection.com/content/33101.asp?imcid=topnavcontent"><img src="http://assets.imediaconnection.com/images/topstory/img-article-default-md.jpg" alt="How to safely experiment with social media marketing " title="How to safely experiment with social media marketing " onerror="this.onerror=null;this.src='http://assets.imediaconnection.com/images/topstory/img-article-default-md.jpg'"><span>How to safely experiment with social media marketing </span></a></li></ul>
-    <div class="latestjob">
-        <div class="title">Latest Jobs</div>
-        <div id="topJobsBox"><ul><li><a href="/jobs/description.aspx?id=3730&amp;imcid=topnavcontent">Head Of Technology - Digital Media </a></li><li><a href="/jobs/description.aspx?id=3729&amp;imcid=topnavcontent">Director, Social Media </a></li><li><a href="/jobs/description.aspx?id=3728&amp;imcid=topnavcontent">Account Supervisor </a></li><li class="more"><a href="/jobs/">SEE MORE JOBS »</a></li></ul></div>
-    </div>
+    <!--?xml version="1.0" encoding="utf-8"?--><ul class="story"><li><a href="http://www.imediaconnection.com/content/34250.asp?imcid=topnavcontent"><img src="http://assets.imediaconnection.com/images/topstory/img-article-default-md.jpg" alt="When it's OK for your brand to be risqu&amp;eacute;" title="When it's OK for your brand to be risqu&amp;eacute;" onerror="this.onerror=null;this.src='http://assets.imediaconnection.com/images/topstory/img-article-default-md.jpg'"><span>When it's OK for your brand to be risqué</span></a></li><li><a href="http://www.imediaconnection.com/content/34261.asp?imcid=topnavcontent"><img src="http://assets.imediaconnection.com/images/topstory/img-article-default-md.jpg" alt="6 marketing jobs that deserve more respect" title="6 marketing jobs that deserve more respect" onerror="this.onerror=null;this.src='http://assets.imediaconnection.com/images/topstory/img-article-default-md.jpg'"><span>6 marketing jobs that deserve more respect</span></a></li><li><a href="http://www.imediaconnection.com/content/34240.asp?imcid=topnavcontent"><img src="http://assets.imediaconnection.com/images/topstory/img-article-default-md.jpg" alt="10 ways Facebook is trying to please marketers" title="10 ways Facebook is trying to please marketers" onerror="this.onerror=null;this.src='http://assets.imediaconnection.com/images/topstory/img-article-default-md.jpg'"><span>10 ways Facebook is trying to please marketers</span></a></li><li><a href="http://www.imediaconnection.com/content/33967.asp?imcid=topnavcontent"><img src="http://assets.imediaconnection.com/images/topstory/img-article-default-md.jpg" alt="9 downloadable custom Google Analytics reports" title="9 downloadable custom Google Analytics reports" onerror="this.onerror=null;this.src='http://assets.imediaconnection.com/images/topstory/img-article-default-md.jpg'"><span>9 downloadable custom Google Analytics reports</span></a></li></ul>
+        <div class="videopromo">
+            <!-- <img src="http://assets.imediaconnection.com/images/pc/icon-industryinsider.png" id="nav-insider" alt="iMedia Industry Insider" title="iMedia Industry Insider" />  -->
+            <div id="container">
+                <a href="http://www.imediaconnection.com/content/34232.asp?imcid=topnav-video">                    
+                    <img src="http://assets.imediaconnection.com/images/topstory/videopromo-thursday.jpg" id="main" alt="iMedia Industry Insider Video" title="iMedia Industry Insider Video">
+                    <span><img src="http://assets.imediaconnection.com/images/pc/bt-video-play-28x30.png" class="videobt" alt="Play video">4 phrases that drive creative people nuts</span>
+                </a>               
+            </div>
+        </div>
 </div>
 
-<script type="text/javascript">
 
-    function underNavJobsBox() {
-        var displayJobsMax = 3;                  //How many result should be displayed? Max 20 
-        var job = loadXML().getElementsByTagName("job");
-        var id;
-        var title;
-        var companyName;
-        var topJobsHTML = [];
-        //var city;
-        //var state;
-        var arrjobBluePromo = new Array(displayJobsMax);
-        topJobsHTML.push('<ul>');
-        for (var i = 0; i < displayJobsMax; i++) {
-            if (typeof (job[i]) != 'undefined') {
-                id = job[i].getElementsByTagName("id")[0].firstChild.nodeValue;
-                title = job[i].getElementsByTagName("title")[0].firstChild.nodeValue;
-                //state = job[i].getElementsByTagName("state")[0].firstChild.nodeValue;
-                companyName = job[i].getElementsByTagName("company")[0].firstChild.nodeValue;
-                //city = job[i].getElementsByTagName("city")[0].firstChild.nodeValue;
-
-                var newtitle = "";
-                var arraytitle = title.split(" ");
-                if (arraytitle.length > 1) {
-                    for (index = 0; index < arraytitle.length; index++) {
-                        newtitle = newtitle + " " + arraytitle[index].substring(0, 1).toUpperCase() + arraytitle[index].substring(1, arraytitle[index].length).toLowerCase();
-                    }
-                }
-                else
-                    newtitle = title.substring(0, 1).toUpperCase() + title.substring(1, title.length).toLowerCase();
-
-                title = trimTitle(newtitle);
-				
-				if (title.length > 45) {
-                    title = title.substring(0, 44) + "...";
-                }
-
-                // --- display template ---
-                arrjobBluePromo[i] = '/jobs/description.aspx?id=' + id;
-                topJobsHTML.push('<li>');
-                topJobsHTML.push('<a href="' + arrjobBluePromo[i] + '&imcid=topnavcontent">' + title + ' </a>');
-                topJobsHTML.push('</li>');
-            }
-        }
-        topJobsHTML.push('<li class=\"more\"><a href="/jobs/">SEE MORE JOBS &raquo;</a></li>');
-        topJobsHTML.push('</ul>');
-
-        document.getElementById('topJobsBox').innerHTML = topJobsHTML.join('')
-    }
-
-
-    $(document).ready(function () {
-        underNavJobsBox();
-    });
-
-</script>
 
                 <!-- Additional promo -->
                 
@@ -1283,35 +1057,33 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 <!-- Right Column -->
     
 
-	<div id="rcolsummitpromo1" class="summit-promobox" style="display: none;">
+<!-- DON'T USE THIS ONE  -->
+
+
+<!-- USE THIS ONE  -->
+
+	<div id="rcolsummitpromo1" class="summit-promobox" style="">
         <h3 style="margin: 0; padding: 0;">
-            <a href="http://www.imediaconnection.com/summits/32427.asp?imcid=promobox" style="background-position: 0 0;">
-                iMedia Agency Summit December 2-5, 2012</a></h3>
+            <a href="http://www.imediaconnection.com/summits/32912.asp?imcid=promobox" style="background-position: 0 0px;">
+                iMedia InFocus Summit June 4-6, 2013</a></h3>
     </div>
-	<div id="rcolsummitpromo2" class="summit-promobox" style="">
+	<div id="rcolsummitpromo2" class="summit-promobox" style="display: none;">
         <h3 style="margin: 0; padding: 0;">
-            <a href="http://www.imediaconnection.com/summits/32427.asp?imcid=promobox" style="background-position: 0 -200px;">
-                iMedia Agency Summit December 2-5, 2012</a></h3>
-    </div>
-	<div id="rcolsummitpromo3" class="summit-promobox" style="display: none;">
-        <h3 style="margin: 0; padding: 0;">
-            <a href="http://www.imediaconnection.com/summits/32427.asp?imcid=promobox" style="background-position: 0 -400px;">
-                iMedia Agency Summit December 2-5, 2012</a></h3>
+            <a href="http://www.imediaconnection.com/summits/32913.asp?imcid=promobox" style="background-position: 0 -200px;">
+                iMedia InFocus Summit June 4-6, 2013</a></h3>
     </div>
     <script type="text/javascript">
-        var rand = 1 + Math.floor(Math.random() * 3);
+        var rand = 1 + Math.floor(Math.random() * 2);
 
         if (rand == 1) {
             document.getElementById("rcolsummitpromo1").style.display = "";
         }
-        if (rand == 2) {
+        else if (rand == 2) {
             document.getElementById("rcolsummitpromo2").style.display = "";
-        }
-		if (rand == 3) {
-            document.getElementById("rcolsummitpromo3").style.display = "";
         }
 
     </script>
+
 
 
     <script type="text/javascript">
@@ -1319,7 +1091,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
             var missinginfo = "";
             var email = document.getElementById("EMAIL_ADDRESS").value;
 
-            if ((email == "") || (email.indexOf('@') < 1) || (email.indexOf('.') == -1)) {
+            if ((email === "") || (email.indexOf('@') < 1) || (email.indexOf('.') == -1)) {
                 missinginfo += "Invalid e-mail address!\n";
                 alert(missinginfo);
                 return false;
@@ -1327,16 +1099,17 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
             else {
                 var pageURL = document.URL;
                 document.newsLettSide.url.value = pageURL;
-
             }
+
             return true;
         }
         function cleartext() {
             var email = document.getElementById("EMAIL_ADDRESS").value;
-            if (email == "richqz@hotmail.com")
+            if (email == "richqz@hotmail.com") {
                 document.getElementById("EMAIL_ADDRESS").value = "";
-
+            }
         }
+
         var today = new Date();
         var dayofweek = today.getDay();
         var newday;
@@ -1351,14 +1124,17 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
         var month = "0";
         var year = today.getFullYear();
 
-        if (today.getMonth() + 1 < 10)
+        if (today.getMonth() + 1 < 10) {
             month = month + (today.getMonth() + 1);
-        else
+        } else {
             month = today.getMonth() + 1;
-        if (today.getDate() < 10)
+        }
+
+        if (today.getDate() < 10) {
             day = day + today.getDate();
-        else
+        } else {
             day = today.getDate();
+        }
 
         var strNewsletter = "newsletter" + month + day + year + ".htm";
         var show = "<div class='label-module'><a href='http://www.imediaconnection.com/newsletter/" + strNewsletter + "'>DAILY NEWSLETTER</a></div>";    
@@ -1409,6 +1185,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
         };
         //-->
     </script>
+
     <div class="socialmedia-module">
         <h3>
             <span>Follow</span> iMediaConnection</h3>
@@ -1433,391 +1210,17 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
         </div>
     </div>
 
-<div class="rc-300">
-    
-<script type="text/javascript">
-    //<!-- Javascript tag
-    var findarea;
-    if (typeof _area == 'undefined') {
-        _area = "HOME_PAGE";
-    }
-    if (_area != null || _area != "") {
-        findarea = _area;
-    }
-    else {
-        findarea = "HOME_PAGE";
-    }
 
-    switch (findarea) {
-        case "ADTECH_BLOGS":
-            var imcadarea = "17/2"
-            break;
-        case "ASIA":
-            var imcadarea = "19/2"
-            break;
-        case "BLOGS":
-            var imcadarea = "16/2"
-            break;
-        case "COMPANY":
-            var imcadarea = "24/2"
-            break;
-        case "CONS_STRAT":
-            var imcadarea = "11/2"
-            break;
-        case "CONS_STRAT_ACQUISITION":
-            var imcadarea = "25/11/2"
-            break;
-        case "CONS_STRAT_BEHAVIORAL_MKTG":
-            var imcadarea = "26/11/2"
-            break;
-        case "CONS_STRAT_DEMOGRAPHICS":
-            var imcadarea = "27/11/2"
-            break;
-        case "CONS_STRAT_INTERNATIONAL":
-            var imcadarea = "28/11/2"
-            break;
-        case "CONS_STRAT_MULTICULTURAL":
-            var imcadarea = "29/11/2"
-            break;
-        case "CONS_STRAT_POPULATION":
-            var imcadarea = "30/11/2"
-            break;
-        case "CONS_STRAT_SOCIAL_MEDIA":
-            var imcadarea = "31/11/2"
-            break;
-        case "CONS_STRAT_VERTICALS":
-            var imcadarea = "32/11/2"
-            break;
-        case "VERTICALS_ENTERTAINMENT":
-            var imcadarea = "33/11/2"
-            break;
-        case "VERTICALS_AUTOS":
-            var imcadarea = "34/11/2"
-            break;
 
-        case "CREATIVE":
-            var imcadarea = "13/2"
-            break;
-        case "CREATIVE_BEST_PRACTICES":
-            var imcadarea = "35/13/2"
-            break;
-        case "CREATIVE_CASE_STUDIES":
-            var imcadarea = "36/13/2"
-            break;
-        case "CREATIVE_SHOWCASE":
-            var imcadarea = "37/13/2"
-            break;
-        case "HOME_PAGE":
-            var imcadarea = "3/2"
-            break;
-        case "HOME_PODCASTS":
-            var imcadarea = "38/3/2"
-            break;
-        case "HOME_VIDEO":
-            var imcadarea = "39/3/2"
-            break;
-        // case "INDUSTRY_ISSUES": 
-        // var imcadarea="" 
-        // break; 
-        case "IN_FOCUS":
-            var imcadarea = "105/2"
-            break;
-        // case "JOBBOARD_PROMO": 
-        // var imcadarea="" 
-        // break; 
-        case "JOBS":
-            var imcadarea = "20/2"
-            break;
-        case "MEDIA_ST":
-            var imcadarea = "10/2"
-            break;
-        case "MEDIA_ST_AD_NETWORKS":
-            var imcadarea = "40/10/2"
-            break;
-        case "MEDIA_ST_AD_SERVING":
-            var imcadarea = "41/10/2"
-            break;
-        case "MEDIA_ST_DIRECT_MARKETING":
-            var imcadarea = "42/10/2"
-            break;
-        case "MEDIA_ST_INTEGRATED_MARKETING":
-            var imcadarea = "43/10/2"
-            break;
-        case "MEDIA_ST_LOCAL":
-            var imcadarea = "44/10/2"
-            break;
-        case "MEDIA_ST_PLANNING_BUYING":
-            var imcadarea = "45/10/2"
-            break;
-        case "MKTG_CH":
-            var imcadarea = "9/2"
-            break;
-        case "MKTG_CH_DESKTOP_APPS":
-            var imcadarea = "46/9/2"
-            break;
-        case "MKTG_CH_EMAIL":
-            var imcadarea = "47/9/2"
-            break;
-        // case "MKTG_CH_EMAIL_INFOCUS": 
-        // var imcadarea="" 
-        // break; 
-        case "MKTG_CH_EMERGING":
-            var imcadarea = "48/9/2"
-            break;
-        case "MKTG_CH_ITV":
-            var imcadarea = "49/9/2"
-            break;
-        case "MKTG_CH_WEBSITES":
-            var imcadarea = "50/9/2"
-            break;
-        case "MKTG_CH_WIRELESS":
-            var imcadarea = "51/9/2"
-            break;
-        case "NEWS":
-            var imcadarea = "8/2"
-            break;
-        case "NEWSL_IMEDIA":
-            var imcadarea = "52/2"
-            break;
-        case "NEWSL_IMEDIA2":
-            var imcadarea = "104/2"
-            break;
-        case "NEWSL_IMEDIAASIA":
-            var imcadarea = "53/2"
-            break;
-        case "NEWSL_IMEDIAASIA2":
-            var imcadarea = "54/2"
-            break;
-        case "NEWSL_IMEDIAUK":
-            var imcadarea = "55/18/2"
-            break;
-        case "PEOPLE":
-            var imcadarea = "15/2"
-            break;
-        case "PEOPLE_BIOS":
-            var imcadarea = "56/15/2"
-            break;
-        case "PEOPLE_BOOK_CLUB":
-            var imcadarea = "57/15/2"
-            break;
-        case "PEOPLE_INTERVIEWS":
-            var imcadarea = "58/15/2"
-            break;
-        case "PEOPLE_OPINIONS":
-            var imcadarea = "59/15/2"
-            break;
-        case "PEOPLE_PEOPLE_CONNECT":
-            var imcadarea = "22/2"
-            break;
-        case "RC_RESOURCE_CONN_HOME":
-            var imcadarea = "21/2"
-            break;
-        case "RC_AD_SERVING":
-            var imcadarea = "60/21/2"
-            break;
-        case "RC_ADNETWORKS":
-            var imcadarea = "61/21/2"
-            break;
-        case "RC_RICH_MEDIA":
-            var imcadarea = "62/21/2"
-            break;
-        case "RC_SEARCH":
-            var imcadarea = "63/21/2"
-            break;
-        case "RC_WEB_ANALYTICS":
-            var imcadarea = "64/21/2"
-            break;
-        case "RC_EMAIL_MARKETING":
-            var imcadarea = ""
-            break;
-        case "RESEARCH":
-            var imcadarea = "14/2"
-            break;
-        case "RESEARCH_BRANDING":
-            var imcadarea = "66/14/2"
-            break;
-        case "RESEARCH_CONS_ACQUISITION":
-            var imcadarea = "67/14/2"
-            break;
-        case "RESEARCH_CONS_ACTION":
-            var imcadarea = "68/14/2"
-            break;
-        case "RESEARCH_MULTICHANNEL":
-            var imcadarea = "69/14/2"
-            break;
-        case "RESEARCH_WEB_ANALYTICS":
-            var imcadarea = "70/14/2"
-            break;
-        case "ROS_INTERSTITIAL":
-            var imcadarea = "71/2"
-            break;
-        case "RSS_FEED":
-            var imcadarea = "72/2"
-            break;
-        case "SEARCH":
-            var imcadarea = "12/2"
-            break;
-        case "SEARCH_PAID_SEARCH":
-            var imcadarea = "73/12/2"
-            break;
-        case "SEARCH_SEARCH_ENGINES":
-            var imcadarea = "74/12/2"
-            break;
-        case "SEARCH_SEO":
-            var imcadarea = "75/12/2"
-            break;
-        case "SUMMIT_AGENCY_FALL":
-            var imcadarea = "76/2"
-            break;
-        case "SUMMIT_AGENCY_SPRING":
-            var imcadarea = "77/2"
-            break;
-        case "SUMMIT_AUTO":
-            var imcadarea = "78/2"
-            break;
-        case "SUMMIT_BRAND_FALL":
-            var imcadarea = "79/2"
-            break;
-        case "SUMMIT_BRAND_SPRING":
-            var imcadarea = "80/2"
-            break;
-        case "SUMMIT_BRAND_SUMMER":
-            var imcadarea = "81/2"
-            break;
-        case "SUMMIT_BREAKTHROUGH":
-            var imcadarea = "82/2"
-            break;
-        case "SUMMIT_BREAKTHROUGH_FALL":
-            var imcadarea = "83/2"
-            break;
-        case "SUMMIT_COVG_AGENCY_SPRING":
-            var imcadarea = "84/77/2"
-            break;
-        case "SUMMIT_COVG_AGENCY_SPRING_NWSL":
-            var imcadarea = "85/84/77/2"
-            break;
-        case "SUMMIT_COVG_AGENCY_FALL":
-            var imcadarea = "86/76/2"
-            break;
-        case "SUMMIT_COVG_AGENCY_FALL_NWSL":
-            var imcadarea = "87/86/76/2"
-            break;
-        case "SUMMIT_COVG_AUTO":
-            var imcadarea = "88/78/2"
-            break;
-        case "SUMMIT_COVG_BRAND_FALL":
-            var imcadarea = "89/79/2"
-            break;
-        case "SUMMIT_COVG_BRAND_FALL_NWSL":
-            var imcadarea = "90/89/79/2"
-            break;
-        case "SUMMIT_COVG_BRAND_SPRING":
-            var imcadarea = "91/80/2"
-            break;
-        case "SUMMIT_COVG_BRAND_SPRING_NWSL":
-            var imcadarea = "92/91/80/2"
-            break;
-        case "SUMMIT_COVG_BRAND_SUMMER":
-            var imcadarea = "93/81/2"
-            break;
-        case "SUMMIT_COVG_BRAND_SUMMER_NWSL":
-            var imcadarea = "94/93/81/2"
-            break;
-        case "SUMMIT_COVG_BREAKTHROUGH_FALL":
-            var imcadarea = "95/83/2"
-            break;
-        case "SUMMIT_COVG_BREAKTHROUGH_FALL_NWSL":
-            var imcadarea = "96/95/83/2"
-            break;
-        case "SUMMIT_COVG_BREAKTHROUGH_SPRING":
-            var imcadarea = "97/82/2"
-            break;
-        case "SUMMIT_COVG_BREAKTHROUGH_SPRING_NWSL":
-            var imcadarea = "98/97/82/2"
-            break;
-        case "SUMMIT_COVG_FINANCIAL":
-            var imcadarea = "100/99/2"
-            break;
-        case "SUMMIT_ENTERTAINMENT":
-            var imcadarea = "101/2"
-            break;
-        case "SUMMIT_COVG_ENTERTAINMENT":
-            var imcadarea = "102/101/2"
-            break;
-        case "SUMMIT_FINANCIAL":
-            var imcadarea = "99/2"
-            break;
-        case "SUMMIT_VIDEO":
-            var imcadarea = "125/2"
-            break;
-        case "SUMMIT_COVG_VIDEO":
-            var imcadarea = "126/125/2"
-            break; 
-        case "SUMMIT_COVG_VIDEO_SPRING":
-            var imcadarea = "126/125/2"
-            break; 	
-        case "SUMMIT_HOME":
-            var imcadarea = "23/2"
-            break;
-        case "TEST":
-            var imcadarea = "7/2"
-            break;
-        case "UK":
-            var imcadarea = "18/2"
-            break;
-        case "UK_SUMMIT_BRAND_SPRING":
-            var imcadarea = "103/18/2"
-            break;
-        case "SUMMIT_IMOMS":
-            var imcadarea = "109/2"
-            break;
-        case "SUMMIT_COVG_IMOMS":
-            var imcadarea = "110/109/2"
-            break;
-        case "STREAMING_VIDEOS":
-        case "STREAMING_VIDEOS_BOB_GARFIELD":
-        case "STREAMING_VIDEOS_SUMMIT":
-            var imcadarea = "119/2";
-            break;
-        case "STREAMING_VIDEOS_INDUSTRY_INSIDER":
-            var imcadarea = "123/119/2";
-            break;
-        case "IMEDIA_25":
-        case "IMEDIA_LIST":
-            var imcadarea = "117/2";
-            break;
-        case "AGENCY_AWARDS":
-            var imcadarea = "120/2";
-            break;
-        case "NEXT_WAVE":
-            var imcadarea = "128/2";
-            break;
-        default: var imcadarea = "3/2";
-    }
-    // <!-- Javascript tag
-    // 300 x 250
-    var HideIfSponsored = 'False';
-    if (typeof (checkSponsor) == 'undefined')
-        checkSponsor = 0;
+    <div class="banner300x600" id="div-ad-300x600">
+        <script type="text/javascript">
+            if (typeof checkSponsor === 'undefined' || checkSponsor != 1) {
+                googletag.display('div-ad-300x600');
+            }
+        </script>                                
+    </div>  
 
-    if (HideIfSponsored == 'False' || checkSponsor != 1) {
-        var zflag_nid = "1267";
-        var zflag_sid = "1";
-        var zflag_cid = imcadarea;
-        //var zflag_cid = ""; 
-        var zflag_width = "300";
-        var zflag_height = "250";
-        var zflag_sz = "9";
-        document.write('<SCR');
-        document.write('IPT SRC="http://c5.zedo.com/jsc/c5/fo.js">');
-        document.write('</SCR');
-        document.write('IPT>');
-    }
-    // 300 x 250 -->
 
-</script><script src="http://c5.zedo.com/jsc/c5/fo.js"></script>
-
-</div>
 
 <div class="industrypulse" id="industry_thingy">
     <h3><span>Industry</span> Pulse<span class="timestamp" id="industry_thingy_updated"></span></h3>
@@ -1888,7 +1291,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
             //alert(status.match(/((https?|s?ftp|ssh)\:\/\/[^"\s\<\>]*[^.,;'">\:\s\<\>\)\]\!])/g));
             status = twitters[i].text.replace(/((https?|s?ftp|ssh)\:\/\/[^"\s\<\>]*[^.,;'">\:\s\<\>\)\]\!])/g, "");
             //statusHTML.push('<li class="clearfix"><span id="twitter-content">' + status + '<br><a id="twitter-username" href="http://twitter.com/' + username + '">' + name + '</a><br><small style="display:none;">' + relative_time(twitters[i].created_at) + '</small></span><span id="twitter-img"><a href="http://twitter.com/' + username + '"><img src=' + headshot + '></a></span></li>');
-            statusHTML.push('<li><a href="' + twitters[i].text.match(indthgurlmatch) + '" target="new">' + status + '</a></li>');
+            statusHTML.push('<li><a href="' + twitters[i].text.match(indthgurlmatch) + '" target="_blank">' + status + '</a></li>');
             maxcount++;
         }
         statusHTML.push('</ul></div>');
@@ -1899,10 +1302,19 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
     }
 
     //call Twitter script on DOM ready with jQuery
-    $(document).ready(function () {
+    jQuery(document).ready(function () {
         var indthg = setTimeout("getIndustryTweets()", 1000);
     });
 </script>
+
+
+
+
+    <div class="banner300x250 rc-300" id="div-ad-medium-rectangle-top-300x250">
+        <script type="text/javascript">
+            googletag.display('div-ad-medium-rectangle-top-300x250');
+        </script>                                
+    </div>  
 
 
 
@@ -1910,29 +1322,20 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
         <h3>
             <span>Upcoming</span> Summits</h3>
         <ul>
-			<li><span><a href="http://www.imediaconnection.com/summits/32427.asp?imcid=imc-rc">Agency
-                Summit</a></span>December 2-5, 2012, Scottsdale, Arizona</li>
-			<li><span><a href="http://www.imediaconnection.com/summits/32756.asp?imcid=imc-rc">Brand
-                Summit</a></span>February 3-6, 2013, Amelia Island, Florida</li>
-			<li><span><a href="http://www.imediaconnection.com/summits/32857.asp?imcid=imc-rc">Video
-                Summit</a></span>March 3-6, 2013, Rancho Palos Verdes, California</li>
-			<li><span><a href="http://www.imediaconnection.com/summits/32864.asp?imcid=imc-rc">Agency
-                Summit</a></span>May 5-8, 2013, Austin, Texas</li>
+			<li><span><a href="http://www.imediaconnection.com/summits/32912.asp?imcid=imc-rc">iMedia InFocus
+                Summit</a></span>June 4-6, 2013, Chicago, Illinois</li>
+			<li><span><a href="http://www.imediaconnection.com/summits/32926.asp?imcid=imc-rc">iMedia Brand
+                Summit</a></span>September 8-11, 2013, Coronado, California</li>
+			<li><span><a href="http://www.imediaconnection.com/summits/34223.asp?imcid=imc-rc">iMedia Entertainment
+                Summit</a></span>September 17, 2013, Los Angeles, California</li>
+			<li><span><a href="http://www.imediaconnection.com/summits/32931.asp?imcid=imc-rc">iMedia Agency
+                Summit</a></span>October 20-13, 2013, Austin, Texas</li>
         </ul>
         <p>
-            <a href="http://www.imediaconnection.com/summits/index.asp">Full Summit Calendar</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.imediaconnection.com/summits/invite.asp" style="color: #CC0000;
+            <a href="http://www.imediaconnection.com/summits/index.asp?imcid=imc-rc">Full Summit Calendar</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.imediaconnection.com/summits/invite.asp&amp;imcid=imc-rc" style="color: #CC0000;
                 text-decoration: underline;">Request Invite</a></p>
     </div>
 
-
-    <div class="video-promobox">
-        <h3>
-            <a href="http://www.imediaconnection.com/content/33038.asp?imcid=rc" style="background:url(http://assets.imediaconnection.com/images/promo/videopromo.jpg?imcid=20121121a) no-repeat;height: 200px;">Why QR codes aren't dead yet
-			<div class="bt-play">
-			</div>
-            </a>
-        </h3>
-    </div>
 
 <!-- VIDEO MODULE A/B TEST -->
 <div style="display:none;">
@@ -1969,96 +1372,35 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 
 <div class="summit-coverage-module clearfix">
 <h3><span>Summit</span> Coverage</h3>
-<a href="http://www.imediaconnection.com/summits/coverage/32785.asp?imcid=rc"><img src="http://assets.imediaconnection.com/images/summits/2012-10-breakthrough-coverage-rc.jpg" alt="2012 October Breakthrough Summit" title="2012 October Breakthrough Summit"></a>
+<a href="http://www.imediaconnection.com/summits/coverage/34049.asp?imcid=imc-rc"><img src="http://assets.imediaconnection.com/images/summits/2013-05-agency-coverage-rc.jpg" alt="2013 May iMedia Agency Summit" title="2013 May iMedia Agency Summit"></a>
 <ul>
-	<li><a href="http://www.imediaconnection.com/summits/coverage/32789.asp">Google's playbook for investing in mobile marketing</a></li>
-	<li><a href="http://www.imediaconnection.com/summits/coverage/32788.asp">6 ways brands can achieve mobile ROI</a></li>
-	<li><a href="http://www.imediaconnection.com/summits/coverage/32787.asp">How mobile is shaping the future of marketing innovation</a></li>
-    <li><a href="http://www.imediaconnection.com/summits/coverage/32786.asp">5 barriers to mobile ad success</a></li>
-    <li><a href="http://blogs.imediaconnection.com/blog/2012/10/16/mobile-understand-your-consumers-or-throw-money-away/">Blog: Mobile: Understand your consumers or throw money away</a></li>
-    <li><a href="http://blogs.imediaconnection.com/blog/2012/10/16/instagram-photos-from-the-imedia-breakthrough-summit/">Blog: Instagram photos from the iMedia Breakthrough Summit</a></li>
-    <li><a href="http://blogs.imediaconnection.com/blog/2012/10/15/breakthrough-day-1-summarized-in-tweets/">Blog: Breakthrough day 1 summarized in tweets</a></li>
-    <li><a href="http://blogs.imediaconnection.com/blog/2012/10/16/googles-view-on-mobile/">Blog: Google's view on mobile</a></li>
-	<li><a href="http://blogs.imediaconnection.com/blog/2012/10/15/digitals-future-is-real-time/">Blog: Digital's future is real-time</a></li>
-	<li><a href="http://blogs.imediaconnection.com/blog/2012/10/14/a-breakthrough-limerick-and-pics-from-the-record-breaking-red-bull-skydive/">Blog: A Breakthrough limerick, and pics from the record-breaking Red Bull skydive</a></li>
-	<li><a href="http://blogs.imediaconnection.com/blog/2012/10/15/photos-from-the-imedia-breakthrough-summit/">Blog: Photos from the iMedia Breakthrough Summit</a></li>
+	<li><a href="http://www.imediaconnection.com/summits/coverage/34064.asp?imcid=hp">How to unite data and creativity</a></li>
+	<li><a href="http://www.imediaconnection.com/summits/coverage/34052.asp?imcid=hp">Q&amp;A with Tim Suther</a></li>
+	<li><a href="http://www.imediaconnection.com/summits/coverage/34051.asp?imcid=hp">How emotions can unlock the power of big data</a></li>
+	<li><a href="http://www.imediaconnection.com/summits/coverage/34050.asp?imcid=hp">Q&amp;A with Alastair Green</a></li>
+	<li><a href="http://blogs.imediaconnection.com/blog/2013/05/06/how-big-data-drives-better-marketing/">Blog: How big data drives better marketing</a></li>
+	<li><a href="http://blogs.imediaconnection.com/blog/2013/05/06/don-draper-debunks-digital-marketing-myths/ ">Blog: Don Draper debunks digital marketing myths</a></li>
+	<li><a href="http://blogs.imediaconnection.com/blog/2013/05/05/the-imedia-agency-summit-kicks-off-texas-style/ ">Blog: The iMedia Agency Summit kicks off Texas-style</a></li>
 </ul>
 <div class="gallery">
-<a href="http://www.imediaconnection.com/PhotoGallery/View.aspx?PhotoId=13291&amp;CurrentPage=1"><img src="http://www.imediaconnection.com/summits/coverage/images/115/sm_IMG0005.jpg" alt="summit photo"></a>
-<a href="http://www.imediaconnection.com/PhotoGallery/View.aspx?PhotoId=13294&amp;CurrentPage=1"><img src="http://www.imediaconnection.com/summits/coverage/images/115/sm_IMG0008.jpg" alt="summit photo"></a>
-<a href="http://www.imediaconnection.com/PhotoGallery/View.aspx?PhotoId=13302&amp;CurrentPage=2"><img src="http://www.imediaconnection.com/summits/coverage/images/115/sm_IMG0016.jpg" alt="summit photo"></a>
-<a href="http://www.imediaconnection.com/PhotoGallery/View.aspx?PhotoId=13308&amp;CurrentPage=2"><img src="http://www.imediaconnection.com/summits/coverage/images/115/sm_IMG0022.jpg" alt="summit photo"></a>
-<a href="http://www.imediaconnection.com/PhotoGallery/View.aspx?PhotoId=13315&amp;CurrentPage=2"><img src="http://www.imediaconnection.com/summits/coverage/images/115/sm_IMG0029.jpg" alt="summit photo"></a>
+<a href="http://www.imediaconnection.com/PhotoGallery/View.aspx?PhotoId=14651&amp;CurrentPage=3"><img alt="summit photo" src="http://www.imediaconnection.com/summits/coverage/images/122/sm_IMG0036.jpg"></a>
+<a href="http://www.imediaconnection.com/PhotoGallery/View.aspx?PhotoId=14649&amp;CurrentPage=3"><img alt="summit photo" src="http://www.imediaconnection.com/summits/coverage/images/122/sm_IMG0034.jpg"></a>
+<a href="http://www.imediaconnection.com/PhotoGallery/View.aspx?PhotoId=14706&amp;CurrentPage=7"><img alt="summit photo" src="http://www.imediaconnection.com/summits/coverage/images/122/sm_IMG0091.jpg"></a>
+<a href="http://www.imediaconnection.com/PhotoGallery/View.aspx?PhotoId=14711&amp;CurrentPage=7"><img alt="summit photo" src="http://www.imediaconnection.com/summits/coverage/images/122/sm_IMG0096.jpg"></a>
+<a href="http://www.imediaconnection.com/PhotoGallery/View.aspx?PhotoId=14674&amp;CurrentPage=4"><img src="http://www.imediaconnection.com/summits/coverage/images/122/sm_IMG0059.jpg" alt="summit photo"></a>
 </div>
 <!--div class="list-blt-link" style="width: 280px; height: 45px; background: transparent url(images/sponsors/spon_foxnews_greybg.gif) no-repeat; background-position: 130px 10px;"><a href="##">More Coverage</a> &raquo;</div-->
 <div class="readmore"><a href="http://www.imediaconnection.com/coverage">View all coverage</a> »</div>
-<div class="sponsor"><a href="http://www.gumgum.com/" target="_blank"><img src="http://www.imediaconnection.com/images/sponsors/sponsor-gumgum-110x30.png" alt="GumGum" border="0"></a></div>
+<div class="sponsor" style="display:none;"><a href="http://www.thismoment.com/" target="_blank"><img src="http://www.imediaconnection.com/images/sponsors/sponsor-thismoment-110x30.png" alt="This Moment" border="0"></a></div>
 </div>
 <!-- Most Popular -->
 
 
 <div class="mostpopular"><h3><span>Most</span> Popular</h3>
-<div class="clearfix"><p><span class="drop">1</span> <a href="/content/33114.asp?ref=rc_mp">16 surprising predictions for 2013</a></p></div><div class="clearfix"><p><span class="drop">2</span> <a href="/content/30497.asp?ref=rc_mp">A social media planner's guide to pleasing the boss</a></p></div><div class="clearfix"><p><span class="drop">3</span> <a href="/content/33108.asp?ref=rc_mp">5 topics that will get a social media manager fired</a></p></div><div class="clearfix"><p><span class="drop">4</span> <a href="/content/33132.asp?ref=rc_mp">The 9 dumbest ways to measure social media</a></p></div><div class="clearfix"><p><span class="drop">5</span> <a href="/content/33129.asp?ref=rc_mp">4 content marketing myths discredited</a></p></div>
+<div class="clearfix"><p><span class="drop">1</span> <a href="/content/33967.asp?ref=rc_mp">9 downloadable custom Google Analytics reports</a></p></div><div class="clearfix"><p><span class="drop">2</span> <a href="/content/34254.asp?ref=rc_mp">3 things that could kill LinkedIn</a></p></div><div class="clearfix"><p><span class="drop">3</span> <a href="/content/34261.asp?ref=rc_mp">6 marketing jobs that deserve more respect</a></p></div><div class="clearfix"><p><span class="drop">4</span> <a href="/content/34214.asp?ref=rc_mp">5 questions your social media team hates being asked</a></p></div><div class="clearfix"><p><span class="drop">5</span> <a href="/content/33265.asp?ref=rc_mp">The 8 best social media campaigns of 2012</a></p></div>
 </div>
 
 
-
-
-
-<div id="staff_tweets">
-	<h3><span>Staff</span> Tweets</h3>
-	<div class="loading" id="loading_staff_tweets"></div>
-</div>
-
-<script type="text/javascript">
-
-    function getStaffTweets() {
-        jQuery.getScript('http://handles.imediaconnection.com/stafftweets.ashx?callback=StaffTwtCallback');
-    }
-
-    function StaffTwtCallback(stftwttwitters) {
-        var stftwtmaxtweets = 5;
-        var stftwtmaxcount = 0;
-        var stftwtstatusHTML = [];
-        //stftwtstatusHTML.clear();
-        var twitterNameArray = new Array();
-        stftwtstatusHTML.push('<ul class="stafftweets">');
-        for (var i = 0; i < stftwttwitters.length && stftwtmaxcount < stftwtmaxtweets; i++) {
-            var username = stftwttwitters[i].user.screen_name;
-
-            if (jQuery.inArray(username, twitterNameArray) == -1) {
-                twitterNameArray.push(username);
-                //stftwtstatusHTML.push('<h1>not found</h1>');
-                var name = stftwttwitters[i].user.name;
-                var headshot = stftwttwitters[i].user.profile_image_url;
-                headshot = headshot.replace("_normal.", "_bigger.");
-                var status = stftwttwitters[i].text.replace(/((https?|s?ftp|ssh)\:\/\/[^"\s\<\>]*[^.,;'">\:\s\<\>\)\]\!])/g, function (url) {
-                    return '<a href="' + url + '">' + url + '</a>';
-                }).replace(/\B@([_a-z0-9]+)/ig, function (reply) {
-                    return reply.charAt(0) + '<a href="http://twitter.com/' + reply.substring(1) + '">' + reply.substring(1) + '</a>';
-                });
-                stftwtstatusHTML.push('<li class="clearfix"><span id="twitter-content">&ldquo;' + status + '&rdquo; &ndash; <br><a id="twitter-username" href="http://twitter.com/' + username + '">' + name + '</a><br><small style="display:none;">' + format_relative_time(extract_relative_time(parse_date(stftwttwitters[i].created_at))) + '</small></span><span id="twitter-img"><a href="http://twitter.com/' + username + '"><img src=' + headshot + '></a></span></li>');
-
-                stftwtmaxcount++;
-            }
-        }
-        stftwtstatusHTML.push('</ul>');
-
-        jQuery('#loading_staff_tweets').fadeOut(0, function () {
-            jQuery('#staff_tweets').append(jQuery(stftwtstatusHTML.join('')).hide().fadeIn(0));
-            //document.getElementById('latest_tweet').innerHTML = stftwtstatusHTML.join('').fadeIn(750));
-        });
-
-        stftwtstatusHTML = [];
-    }
-
-    //call Twitter script on DOM ready with jQuery
-    $(document).ready(function () {
-
-        var stftwt = setTimeout("getStaffTweets()", 1000);
-
-    });
-</script>
 
 
 
@@ -2075,7 +1417,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                     <div class="title">
                         Articles you might have missed:</div>
                     <div class="story">
-                        <!--?xml version="1.0" encoding="utf-8"?--><ul><li><a href="http://www.imediaconnection.com/content/33132.asp?imcid=missedarticle"><img src="http://assets.imediaconnection.com/images/topstory/img-article-default.jpg" alt="The 9 dumbest ways to measure social media" title="The 9 dumbest ways to measure social media" onerror="this.onerror=null;this.src='http://assets.imediaconnection.com/images/topstory/img-article-default.jpg'"><span>The 9 dumbest ways to measure social media</span></a></li></ul><ul><li><a href="http://www.imediaconnection.com/content/33114.asp?imcid=missedarticle"><img src="http://assets.imediaconnection.com/images/topstory/img-article-default.jpg" alt="16 surprising predictions for 2013" title="16 surprising predictions for 2013" onerror="this.onerror=null;this.src='http://assets.imediaconnection.com/images/topstory/img-article-default.jpg'"><span>16 surprising predictions for 2013</span></a></li></ul><ul><li><a href="http://www.imediaconnection.com/content/33108.asp?imcid=missedarticle"><img src="http://assets.imediaconnection.com/images/topstory/img-article-default.jpg" alt="5 topics that will get a social media manager fired" title="5 topics that will get a social media manager fired" onerror="this.onerror=null;this.src='http://assets.imediaconnection.com/images/topstory/img-article-default.jpg'"><span>5 topics that will get a social media manager fired</span></a></li></ul><ul><li><a href="http://www.imediaconnection.com/content/33101.asp?imcid=missedarticle"><img src="http://assets.imediaconnection.com/images/topstory/img-article-default.jpg" alt="How to safely experiment with social media marketing " title="How to safely experiment with social media marketing " onerror="this.onerror=null;this.src='http://assets.imediaconnection.com/images/topstory/img-article-default.jpg'"><span>How to safely experiment with social media marketing </span></a></li></ul><ul><li><a href="http://www.imediaconnection.com/content/33068.asp?imcid=missedarticle"><img src="http://assets.imediaconnection.com/images/topstory/img-article-default.jpg" alt="The iMedia 25: Digital's most innovative marketers" title="The iMedia 25: Digital's most innovative marketers" onerror="this.onerror=null;this.src='http://assets.imediaconnection.com/images/topstory/img-article-default.jpg'"><span>The iMedia 25: Digital's most innovative marketers</span></a></li></ul>
+                        <!--?xml version="1.0" encoding="utf-8"?--><ul><li><a href="http://www.imediaconnection.com/content/34250.asp?imcid=missedarticle"><img src="http://assets.imediaconnection.com/images/topstory/img-article-default.jpg" alt="When it's OK for your brand to be risqu&amp;eacute;" title="When it's OK for your brand to be risqu&amp;eacute;" onerror="this.onerror=null;this.src='http://assets.imediaconnection.com/images/topstory/img-article-default.jpg'"><span>When it's OK for your brand to be risqué</span></a></li></ul><ul><li><a href="http://www.imediaconnection.com/content/34261.asp?imcid=missedarticle"><img src="http://assets.imediaconnection.com/images/topstory/img-article-default.jpg" alt="6 marketing jobs that deserve more respect" title="6 marketing jobs that deserve more respect" onerror="this.onerror=null;this.src='http://assets.imediaconnection.com/images/topstory/img-article-default.jpg'"><span>6 marketing jobs that deserve more respect</span></a></li></ul><ul><li><a href="http://www.imediaconnection.com/content/34240.asp?imcid=missedarticle"><img src="http://assets.imediaconnection.com/images/topstory/img-article-default.jpg" alt="10 ways Facebook is trying to please marketers" title="10 ways Facebook is trying to please marketers" onerror="this.onerror=null;this.src='http://assets.imediaconnection.com/images/topstory/img-article-default.jpg'"><span>10 ways Facebook is trying to please marketers</span></a></li></ul><ul><li><a href="http://www.imediaconnection.com/content/33967.asp?imcid=missedarticle"><img src="http://assets.imediaconnection.com/images/topstory/img-article-default.jpg" alt="9 downloadable custom Google Analytics reports" title="9 downloadable custom Google Analytics reports" onerror="this.onerror=null;this.src='http://assets.imediaconnection.com/images/topstory/img-article-default.jpg'"><span>9 downloadable custom Google Analytics reports</span></a></li></ul><ul><li><a href="http://www.imediaconnection.com/content/34214.asp?imcid=missedarticle"><img src="http://assets.imediaconnection.com/images/topstory/img-article-default.jpg" alt="5 questions your social media team hates being asked" title="5 questions your social media team hates being asked" onerror="this.onerror=null;this.src='http://assets.imediaconnection.com/images/topstory/img-article-default.jpg'"><span>5 questions your social media team hates being asked</span></a></li></ul>
                     </div>
                 </div>
             
@@ -2086,23 +1428,23 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 <script type="text/javascript">
     //load Articles, iMedia & ad:tech blog lists into navigation.
     
-    var urlParams = {};
-    (function () {
-        var e,
-        a = /\+/g,  // Regex for replacing addition symbol with a space
-        r = /([^&=]+)=?([^&]*)/g,
-        d = function (s) { return decodeURIComponent(s.replace(a, " ")); },
-        q = window.location.search.substring(1);
+//    var urlParams = {};
+//    (function () {
+//        var e,
+//        a = /\+/g,  // Regex for replacing addition symbol with a space
+//        r = /([^&=]+)=?([^&]*)/g,
+//        d = function (s) { return decodeURIComponent(s.replace(a, " ")); },
+//        q = window.location.search.substring(1);
 
-        while (e = r.exec(q))
-            urlParams[d(e[1])] = d(e[2]);
-    })();
+//        while (e = r.exec(q))
+//            urlParams[d(e[1])] = d(e[2]);
+//    })();
 
-    var baseUrl = (document.location.protocol == 'https:' ? 'https://' : 'http://') + 'www.imediaconnection.com/profiles';
-    $(document).ready(function () {
+    var baseUrl = (document.location.protocol == 'https:' ? 'https://' : 'http://') + 'www.imediaconnection.com';
+    jQuery(document).ready(function () {
         //Render Footer
-        var callUrl = baseUrl + "/WebService.asmx/RenderFooter";        
-        $.ajax({
+        var callUrl = baseUrl + "/profiles/WebService.asmx/RenderFooter";        
+        jQuery.ajax({
             type: "POST",
             url: callUrl,
             data: "",
@@ -2112,7 +1454,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                 if (ret != null) {
                     var renderedContent = ret.d;
                     if (renderedContent.length > 0) {
-                        $('#footerSpan').html(renderedContent);
+                        jQuery('#footerSpan').html(renderedContent);
                     }
                 }
             },
@@ -2197,8 +1539,8 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                 <li><a href="/summits/96.asp?imcid=footer">iMedia Summit Coverage</a></li>
                 <li><a href="/SFDC/WebToLead.aspx?imcid=footer">Request Invite</a></li>
             </ul>
-			
-			<span class="title">Awards</span>
+
+            <span class="title">Awards</span>
             <ul>
                 <li><a href="/nextwave/?imcid=footer">Next Wave</a></li>
                 <li><a href="/iMediaLists/2011/agency-award-winners/?imcid=footer">2011 Agency Awards</a></li>
@@ -2229,6 +1571,15 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
         <div class="col last">
             <span class="title">Lists</span>
             <ul class="list">
+                <li><a href="http://www.imediaconnection.com/content/30925.asp">2011 Super Bowl wins and fails</a></li>
+                <li><a href="http://www.imediaconnection.com/iMedia25/2012/brands-pioneering-online-video/">25 brands pioneering online video</a></li>
+                <li><a href="http://www.imediaconnection.com/content/31777.asp ">10 companies driving the SoLoMo revolution</a></li>
+                <li><a href="http://www.imediaconnection.com/nextwave/">2012 Next Wave</a></li>
+                <li><a href="http://www.imediaconnection.com/content/32469.asp">Top 10 hottest</a></li>
+                <li><a href="http://www.imediaconnection.com/imedia25/2012/agencies-to-watch/">2012 agencies to watch</a></li>
+                <li><a href="http://www.imediaconnection.com/content/32465.asp ">Brands breeding loyalty through digital </a></li>
+                <li><a href="http://www.imediaconnection.com/iMedia25/2012/people/ ">iMedia 25 internet marketing leaders and innovators</a></li>
+                <!-- 
                 <li><a href="http://www.imediaconnection.com/iMedia25/2011/people/?imcid=footer">iMedia 25: 2011 Internet Marketing Leaders and Innovators</a></li>
                 <li><a href="http://www.imediaconnection.com/iMediaLists/2011/breakthrough-next-wave/?imcid=footer">iMedia Breakthrough Summit: Next Wave</a></li>
                 <li><a href="/imedia25/2011/west-coast-agencies/?imcid=footer">iMedia 25: 2011 West Coast Agencies to Watch</a></li>
@@ -2240,6 +1591,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                 <li><a href="/content/26923.asp?imcid=footer">12 killer websites worth watching</a></li>
                 <li><a href="/content/26410.asp?imcid=footer">10 awesome agency websites</a></li>
                 <li><a href="/content/24046.asp?imcid=footer">8 digital pros worth following on Twitter</a></li>
+                 -->
             </ul>
 
             <span class="title">Company Info</span>
@@ -2250,12 +1602,13 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                 <li><a href="/Feedback.aspx">Contact Us</a></li>
             </ul>
         </div>
-		<a href="http://www.zedo.com" target="_blank" style="bottom:15px; right:270px; position:absolute;"><img src="http://assets.imediaconnection.com/images/pc/img-poweredbyzedo.png"></a>
+		<!-- <a href="http://www.zedo.com" target="_blank" style="bottom:15px; right:270px; position:absolute;"><img src="http://assets.imediaconnection.com/images/pc/img-poweredbyzedo.png"></a> -->
     </div>
 </div>
 
 
         </div>
+        
     </form>
     <!-- START QUANTCAST TAG -->
     <script type="text/javascript">
@@ -2270,10 +1623,22 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
     <!-- END QUANTCAST TAG -->
     
     <!--  GETCLICKY  -->
-    <script src="http://static.getclicky.com/js" type="text/javascript"></script>
-    <script type="text/javascript">        try { clicky.init(66395590); } catch (err) { }</script>
-    <noscript><p><img alt="Clicky" width="1" height="1" src="http://in.getclicky.com/66395590ns.gif" /></p></noscript>
+	<script src="//static.getclicky.com/js" type="text/javascript"></script>
+	<script type="text/javascript">try{ clicky.init(66395590); }catch(e){}</script>
+	<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/66395590ns.gif" /></p></noscript>
     <!-- END GETCLICKY -->
+
+    <!-- BIZO -->
+    <script type="text/javascript">
+        _bizo_data_partner_id = "3202";
+    </script>
+    <script type="text/javascript">
+        (function () { var b, a, u; a = document.createElement("script"); a.type = "text/javascript"; a.async = true; u = (window.location.protocol === "https:" ? "https://sjs." : "http://js.") + "bizographics.com/insight.min.js"; a.src = u; b = document.getElementsByTagName("script")[0]; return b.parentNode.insertBefore(a, b) })();
+    </script>
+    <noscript>
+      <img height="1" width="1" alt="" style="display:none;" src="//www.bizographics.com/collect/?pid=3202&fmt=gif" />
+    </noscript>
+
 
 
 <script type="text/javascript">var s_account="iMediaConnectionProd";var s_linkInternalFilters="javascript:,imediaconnection.com";var s_visitorNamespace="imedia";</script>
@@ -2290,4 +1655,4 @@ s.eVar7="publishing";
 var s_code=s.t();if(s_code)document.write(s_code);
 //]]>
 </script>
-</body></html>
+<div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" style="display: none; padding-bottom: 0px; padding-right: 0px;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxLoadedContent" style="width: 0px; height: 0px; overflow: hidden; float: left;"></div><div id="cboxLoadingOverlay" style="float: left;"></div><div id="cboxLoadingGraphic" style="float: left;"></div><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><div id="cboxNext" style="float: left;"></div><div id="cboxPrevious" style="float: left;"></div><div id="cboxSlideshow" style="float: left;"></div><div id="cboxClose" style="float: left;"></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none;"></div></div></body></html>
