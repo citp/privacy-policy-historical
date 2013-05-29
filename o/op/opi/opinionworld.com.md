@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the opinionworld.com privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105215709id_/http%3A//www.opinionworld.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opinionworld.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529210433id_/http%3A//opinionworld.com/en/policies/privacy) for the most accurate reproduction.*
 
-# None
+# 
 
 **Contents**
 
@@ -187,25 +187,15 @@ Attn: Legal Department
 
 When contacting SSI via regular mail or email, please include your first and last name and specific information regarding your question or complaint.
 
-B.         Privacy Complaints by Citizens of EU Member Countries
+B.         Questions or Complaints By Citizens of EU Member Countries.
 
-In compliance with the Safe Harbor Principles, SSI commits to resolve complaints about privacy and its collection or use of Personal Information. Citizens of EU member countries with inquiries or complaints regarding this Privacy Policy should first contact SSI as set forth in Section 12.A. above.
+In compliance with the Safe Harbor Principles, SSI commits to resolve complaints about privacy and its collection or use of PII. Citizens of EU member countries with inquiries or complaints regarding this Privacy Policy should first contact SSI as set forth above.
 
 Pursuant to the Safe Harbor Principles, SSI has further committed to refer unresolved privacy complaints from Citizens of EU member countries to an independent dispute resolution mechanism, the BBB EU Safe Harbor, operated by the Council of Better Business Bureaus, Inc. If a citizen of an EU member country does not receive timely acknowledgment of his or her complaint from SSI or if such complaint is not satisfactorily addressed by SSI, he or she may contact:
 
-Council of Better Business Bureaus, Inc.
-
-BBB EU Safe Harbor
-
-4200 Wilson Boulevard, Suite 800
-
-Arlington, Virginia 22203 USA
-
-Phone: 703-276-0100
-
-Web: [www.us.bbb.org](http://www.us.bbb.org/)
-
-Email: [eusafeharbor@council.bbb.org](mailto:eusafeharbor@council.bbb.org)
+Council of Better Business Bureaus, Inc.  
+BBB EU Safe Harbor  
+[www.bbb.org/us/safe-harbor-complaints"](http://www.bbb.org/us/safe-harbor-complaints)
 
 **NOTE** **: THE DISPUTE RESOLUTION PROCEDURE DESCRIBED IN SECTION 12.B. IS ONLY AVAILABLE FOR CITIZENS OF EU MEMBER COUNTRIES.**
 
@@ -215,6 +205,6 @@ You acknowledge your consent to, and agreement with, this Privacy Policy by: (i)
 
 SSI hereby reserves the right, in SSI’s sole discretion, to make changes to this Privacy Policy. SSI encourages you to review this Privacy Policy on an ongoing basis. SSI will treat Personal Information in a manner consistent with the Privacy Policy under which the Personal Information was collected, unless SSI receives your consent to treat the Personal Information in a different manner. By joining a Panel, continuing membership in, to, or with a Panel(s), participating in a Survey, visiting a Panel website(s), or disclosing your Personal Information to SSI, after SSI changes or modifies this Privacy Policy, you voluntarily and specifically give SSI your consent to collect, use, transfer, and disclose your Personal Information in the manner specified in the then-current Privacy Policy. 
 
-Please [click here](https://web.archive.org/en/sitecore/content/PANEL/Default/policies/privacy-old.aspx) for the most recent prior version of this Privacy Policy.
+Please [click here](https://web.archive.org/policies/privacy-old) for the most recent prior version of this Privacy Policy.
 
 **Last Updated** :  November 18, 2011
