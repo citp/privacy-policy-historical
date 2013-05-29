@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worketc.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004110001id_/http%3A//www.worketc.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worketc.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530014156id_/http%3A//worketc.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - we hate spam too.
 
