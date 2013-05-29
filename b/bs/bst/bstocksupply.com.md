@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the bstocksupply.com privacy policy that was archived on 2012-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121208075804id_/http%3A//bstocksupply.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bstocksupply.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529182905id_/http%3A//bstocksupply.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - B-Stock Supply
+# Privacy Policy | B-Stock Supply Auctions
 
 ### EFFECTIVE DATE: September 17, 2009
 
 ### INTRODUCTION
 
-B-Stock Solutions, Inc. ("B-Stock," “us” or "we") has created this Privacy Policy to explain how the information ("PII") that you provide through your use of B-Stock’s online liquidations website located at www.bstockauction.com (the "Site") is protected, collected and used.
+B-Stock Solutions, Inc. ("B-Stock," “us” or "we") has created this Privacy Policy to explain how the information ("PII") that you provide through your use of B-Stock’s online liquidations website located at www.bstocksupply.com (the "Site") is protected, collected and used.
 
 "You" or "your" means the individual using the Site and the entity which such individual represents. By using the Site, you consent to the terms and conditions of this Privacy Policy.
 
