@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the couponpaste.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222020326id_/http%3A//couponpaste.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponpaste.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530012208id_/http%3A//couponpaste.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - CouponPaste.com
 
 **CouponPaste.com Privacy Policy**  
-**Last Updated: 02/01/2012**
+**Last Updated: 01/01/13**
 
 **Our Commitment to Your Privacy**  
 Your privacy is important to us, and we are committed to respecting the privacy rights of users of the CouponPaste.com services. We have designed this policy to help you understand how we collect and use the information you decide to share, so that you make informed decisions when using the CouponPaste.com services.
