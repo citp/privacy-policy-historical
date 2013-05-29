@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the proxy-service.de privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014075745id_/http%3A//www.proxy-service.de/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proxy-service.de privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529165548id_/http%3A//proxy-service.de/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -30,14 +30,11 @@ The service we provide may attempt to forward third-party cookies from the websi
 
 We reserve the right to review and change this Policy for this Site and/or any other rules and policies relating to the Site at any time and to provide notification solely by posting an updated version on the Site.
 
-  * [Proxy](https://web.archive.org/web/20121014075745id_/http%3A//www.proxy-service.de/) \- 
-  * [Edit Browser Agent](https://web.archive.org/web/20121014075745id_/http%3A//www.proxy-service.de/edit-browser.php) \- 
-  * [Manage Cookies](https://web.archive.org/web/20121014075745id_/http%3A//www.proxy-service.de/cookies.php)
-  * [Privacy](https://web.archive.org/web/20121014075745id_/http%3A//www.proxy-service.de/privacy.php) \- 
-  * [Our Terms](https://web.archive.org/web/20121014075745id_/http%3A//www.proxy-service.de/terms.php) \- 
-  * [Impressum](https://web.archive.org/web/20121014075745id_/http%3A//www.proxy-service.de/impressum.php)
+  * [Proxy Service](https://web.archive.org/web/20130529165548id_/http%3A//proxy-service.de/) \- 
+  * [Proxy Browser Agent](https://web.archive.org/web/20130529165548id_/http%3A//proxy-service.de/edit-browser.php) \- 
+  * [Proxy Cookies](https://web.archive.org/web/20130529165548id_/http%3A//proxy-service.de/cookies.php)
+  * [Privacy](https://web.archive.org/web/20130529165548id_/http%3A//proxy-service.de/privacy.php) \- 
+  * [Our Terms](https://web.archive.org/web/20130529165548id_/http%3A//proxy-service.de/terms.php) \- 
+  * [Impressum](https://web.archive.org/web/20130529165548id_/http%3A//proxy-service.de/impressum.php)
 
 
-
-Pink oranges turn blue when u eat a chicken 4 morning tea.  
-Your orange skins find this offensive! 
