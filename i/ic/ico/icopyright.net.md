@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the icopyright.net privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613213340id_/http%3A//info.icopyright.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icopyright.net privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529111534id_/http%3A//info.icopyright.com/privacy-policy) for the most accurate reproduction.*
 
-# iCopyright’s Privacy Policy :: iCopyright
+# iCopyright's Privacy Policy - iCopyright
 
 **Collection and Use of Information**
 
@@ -61,7 +61,7 @@ iCopyright will aggregate transaction records and demographic information and ma
 
 We may disclose Personally Identifiable Information to others as follows:
 
-  * Each publisher or content owner may require that iCopyright disclose to it the names and other identifying information of the customers to whom the publisher’s rights or permissions have been granted as part of the legal licensing process. iCopyright does not control the use of such information by publishers/content owners.]
+  * Each publisher or content owner may require that iCopyright disclose to it the names and other identifying information of the customers to whom the publisher’s rights or permissions have been granted as part of the legal licensing process. iCopyright does not control the use of such information by publishers/content owners.
   * Each service provider may require your name or other identifying information to fulfill a request that you make. You will be asked for this information at the time of each request. iCopyright does not control the use of such information by service providers.
   * iCopyright will disclose such information when required to do so by law or as requested by government or law enforcement authorities.
   * iCopyright maintains records of all licensing transactions, even if You cancel your account, so long as our agreements with content owners require us to, which is usually three (3) years.
