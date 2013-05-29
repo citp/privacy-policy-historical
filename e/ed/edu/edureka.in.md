@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the edureka.in privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031000950id_/http%3A//www.edureka.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edureka.in privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529041633id_/http%3A//www.edureka.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Edureka’s e learning solutions for IT professionals and students.
 
 This web site is owned and operated by Brain4ce Education Solutions Pvt. Ltd. ("we", "our", or "us" or the "Company"). We understand and value your privacy. We want to make your experience online satisfying and safe. This privacy policy (the "Policy") governs information you provide to us or we learn from your use of this web site (the "Site") and tells you how we may collect, use, and in some instances share this information. Our policies may differ from other service offerings and you should carefully review the terms of service and this privacy notice before using these services. 
 
@@ -31,6 +31,12 @@ We maintain log files of the traffic that visits our Site. We do not link any in
 We take steps to protect the Personal Information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially reasonable means to protect your Personal Information, we cannot guarantee its absolute security. If we learn of a security systems breach we may attempt to notify you electronically so that you can take appropriate protective steps. By using this Site or providing personal information to us you agree that we can communicate with you electronically regarding security, privacy, and administrative issues relating to your use of this site. We may post a notice on our Site if a security breach occurs. We may also send an email to you at the email address you have provided to us in these circumstances. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. 
 
 We will keep Personal Information of our users for as long as they are registered subscribers or users of our products and services, and as permitted by law. 
+
+If you have purchased Edureka course, we may ask you for testimonial, we will display your testimonial on our website, photos and videos or in our social media channels such as Facebook, YouTube or Flickr. You should be aware that your publicly identifiable information could be used to send you promotional, unsolicited messages. We are not responsible for your personal information which you have chosen to display. 
+
+If you don't want us to feature your pictures/testimonials on our website or on our social media channels, you can write a mail to support@edureka.in 
+
+You can contact us if you notice that the information we are holding is incorrect or incomplete. Please send us a mail to [support@edureka.in](mailto:support@edureka.in)
 
 This Site may contain links to other web sites. The Company cannot and does not control the privacy practices of any such sites. You should review the privacy policy on any web site where you may submit personal information before providing it to any web site. 
 
