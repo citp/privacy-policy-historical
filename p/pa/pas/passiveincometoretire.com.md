@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the passiveincometoretire.com privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108021612id_/http%3A//www.passiveincometoretire.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the passiveincometoretire.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529180645id_/http%3A//www.passiveincometoretire.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Passive Income to Retire
 
@@ -22,4 +22,4 @@ AdSense Privacy Policy Provided by [JenSense](http://www.jensense.com/)
 
 ## Disclaimer
 
-Please note that Passive Income to Retire has financial relationships with some of the merchants mentioned here. Passive Income to Retire may be compensated if consumers choose to utilize the links located throughout the content on this site and generate sales for the said merchant.
+Please note that Passive Income to Retire has financial relationships with some of the merchants mentioned here. Passive Income to Retire may be compensated if consumers choose to utilize the links located throughout the content on this site and generate sales for the said merchant. Enjoy [Secure Payment Methods](http://www.passiveincometoretire.com/secure-payment-methods/) for Entertainment Purposes.
