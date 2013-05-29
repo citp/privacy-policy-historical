@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realore.com privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111053228id_/http%3A//www.realore.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realore.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529205355id_/http%3A//realore.com/privacy.php) for the most accurate reproduction.*
 
 # Realore Studios Games
 
