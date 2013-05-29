@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bradford.ac.uk privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127090133id_/http%3A//www.bradford.ac.uk/about/legal/privacy-and-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bradford.ac.uk privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529075644id_/http%3A//www.bradford.ac.uk/about/legal/privacy-and-cookie-policy) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy - University of Bradford
 
-## Revision date: 25 May 2012
+## Revision date: 29 January 2013
 
 This privacy policy sets out how University of Bradford uses and protects any information that you give the University of Bradford when you use this website.
 
@@ -106,3 +106,7 @@ Data Protection Officer
 University of Bradford  
 Bradford  
 BD7 1DP
+
+## Bulk emails
+
+From time to time we email our alumni, and others who have signalled their willingness to hear from us, with details of new courses or forthcoming events, news about the University, and related information. Some bulk emails are sent via technologies that allow us to track which subscribers have read them. To be removed from a list of subscribers, or to stop receiving any communications from us, please email [alumni@bradford.ac.uk](mailto:alumni@bradford.ac.uk) or use the link an an email that has been sent to you
