@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eia.gov privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215071302id_/http%3A//www.eia.gov/about/privacy_security_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eia.gov privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529205018id_/http%3A//www.eia.gov/about/privacy_security_policy.cfm) for the most accurate reproduction.*
 
 # About EIA - Policies - U.S. Energy Information Administration (EIA)
 
@@ -16,7 +16,7 @@ Since disabling this web measurement technology requires you to modify your indi
 
 #### If you send us personal information and/or subscribe to EIA's e-mail notification system (e-lists)
 
-If you choose to provide us with personal information such as submitting information through the website on our Feedback page ([www.eia.gov/about/feedback](https://web.archive.org/web/20121215071302id_/http%3A//www.eia.gov/about/www.eia.gov/about/feedback)), e-mail subscription lists, or in an e-mail to EIA's Information Center, or to any EIA email (@eia.gov) we use that information to respond to your message and to help us get you the information you have requested. We do not collect personal information for any purpose other than to respond to you. EIA does not give, sell, or transfer personal information to third parties, unless required by law, such as the Freedom of Information Act. 
+If you choose to provide us with personal information such as submitting information through the website on our Feedback page ([www.eia.gov/about/feedback](https://web.archive.org/web/20130529205018id_/http%3A//www.eia.gov/about/www.eia.gov/about/feedback)), e-mail subscription lists, or in an e-mail to EIA's Information Center, or to any EIA email (@eia.gov) we use that information to respond to your message and to help us get you the information you have requested. We do not collect personal information for any purpose other than to respond to you. EIA does not give, sell, or transfer personal information to third parties, unless required by law, such as the Freedom of Information Act. 
 
 #### If you participate in EIA's social media activities
 
@@ -32,18 +32,22 @@ The U.S. Energy Information Administration maintains a program (Operations Secur
 
 #### Links to other sites
 
-Our website has links to many other websites including government (Federal, State, local, and international) agencies, universities, trade associations, energy companies, and selected other websites. Once you link to another site, you are subject to the privacy policy of the new site.
+Our website has links to many other websites including government (Federal, State, local, and international) agencies, universities, trade associations, energy companies, and selected other websites. All links that navigate you away from _www.eia.gov_ are denoted by the  icon. If you navigate to another site, you will be subject to the privacy policy of that site.
 
 #### Security policy
 
-This website is part of a Federal computer system used to accomplish Federal functions. The Department of Energy monitors this website for security purposes to ensure it remains available to all users and to protect information in the system. By accessing this website, you are expressly consenting to these monitoring activities. 
+This website is part of a federal computer system used to accomplish federal functions. The U.S. Energy Information Administration continuously monitors this website for security purposes to ensure it remains available to all users and to protect information in the system. By accessing this website, you are expressly consenting to these monitoring activities. 
 
 Unauthorized attempts to defeat or circumvent security features, to use the system for other than intended purposes, to deny service to authorized users, to access, obtain, alter, damage, or destroy information, or otherwise to interfere with the system or its operation is prohibited. Evidence of such acts may be disclosed to law enforcement authorities and result in criminal prosecution under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act of 1996 (Pub. L. 104-294), (18 U.S.C. 1030), or other applicable criminal laws.
 
 #### Automated retrieval program (robot) activity
 
-EIA is committed to provide data promptly and according to established schedules, therefore any automated retrieval program (commonly referred to as a “robot” or "bot") that excessively accesses information from EIA’s website is prohibited. Excessive robot activity on EIA’s website can cause delays and interfere with other customers' timely access to information. 
+EIA is committed to providing data promptly and according to established schedules. therefore Any automated retrieval program (commonly referred to as a "robot" or "bot") that excessively accesses information from EIA's website is prohibited. Excessive robot activity on EIA's website can cause delays and interfere with other customers' timely access to information.
 
 EIA will block robots that are accessing the website in any way that EIA considers excessive or malicious, including robots that attempt to access or download survey information multiple times per second with resulting degradation of service to others. EIA also reserves the right to block robots that do not contain contact information that can be used to contact the owner. Blocking may occur in real time. 
 
-**NOTE:** Robots using a specific IP address instead of an official EIA URL (examples: www.eia.gov or ir.eia.gov) are at risk for not receiving data promptly at prescribed times. 
+**NOTE:** Robots using a specific IP address instead of an official EIA URL (examples: www.eia.gov or ir.eia.gov) are at risk for not receiving data promptly at prescribed times.
+
+#### **Trouble accessing the EIA website?**
+
+EIA uses industry standard "blackhole" lists, maintained by public and private institutions in the larger Internet community, to defensively block access to our web servers. Please understand that EIA does not maintain these lists and we cannot remove you from them. We suggest you alert your network security officer (for businesses and organizations) or your internet service provider (for individuals).
