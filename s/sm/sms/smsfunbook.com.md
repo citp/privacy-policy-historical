@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smsfunbook.com privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217182123id_/http%3A//smsfunbook.com/site/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smsfunbook.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529174957id_/http%3A//smsfunbook.com/site/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
