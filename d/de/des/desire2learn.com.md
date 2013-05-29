@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the desire2learn.com privacy policy that was archived on 2012-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121212001851id_/http%3A//desire2learn.com/contact/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desire2learn.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529173108id_/http%3A//desire2learn.com/contact/privacy) for the most accurate reproduction.*
 
 # Desire2Learn Incorporated Privacy Statement
 
@@ -139,7 +139,9 @@ We take appropriate security measures to protect against unauthorized access to 
 
 We restrict access to personal information to Desire2Learn employees, contractors and agents who have a need to know that information in order to process it on our behalf. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination, as well as civil action and criminal prosecution, if they fail to meet these obligations.
 
-We do not guarantee that we will eliminate all risk of misuse of your personal information. You are responsible for keeping any passwords secret to prevent unauthorized access to and use of any offerings to which you have access.
+We do not guarantee that we will eliminate all risk of misuse of your personal information. There is no such thing as perfect security, and we cannot guarantee or warrant the security of any data (including personal information) that we receive and store on our or our service providers' systems.
+
+You are responsible for keeping any passwords secret to prevent unauthorized access to and use of any offerings to which you have access.
 
 If you are an enterprise user, your Organization is responsible for ensuring that the system is configured to properly restrict access to information in accordance with its privacy statement or policy, and that anyone with access to that information is covered by its privacy statement or policy.
 
@@ -175,5 +177,7 @@ Attn: Privacy Officer
 Kitchener, Ontario  
 N2G 1H6  Canada  
 cc: Legal Department
+
+Last Modified: 2/26/2013
 
 † The Desire2Learn family of companies includes Desire2Learn Incorporated, D2L Ltd., Desire2Learn Australia Pty Ltd, Desire2Learn UK Ltd and Desire2Learn Singapore Pte. Ltd.
