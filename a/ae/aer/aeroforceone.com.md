@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aeroforceone.com privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526001912id_/http%3A//www.aeroforceone.com/index.cfm/pk/content/pid/444163) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aeroforceone.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529080705id_/http%3A//www.aeroforceone.com/index.cfm/pk/content/pid/444163) for the most accurate reproduction.*
 
 # AeroForceOne | Aerosmith - Privacy Policy
 
