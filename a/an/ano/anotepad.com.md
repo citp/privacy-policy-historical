@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the anotepad.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509231412id_/http%3A//anotepad.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anotepad.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529173940id_/http%3A//anotepad.com/privacy) for the most accurate reproduction.*
 
-# anotepad.com - Free Online Editor
+# anotepad.com - Free Online Editor. Save notes , share and access them from anywhere
 
 This is the web site of **anotepad.com**.
 
-We can be reached via e-mail at [team@lanhappy.net](mailto:team@lanhappy.net)
+We can be reached via e-mail at [support@anotepad.com](mailto:support@anotepad.com)
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
 
@@ -15,6 +15,8 @@ The information we collect is disclosed when legally required to do so, at the r
 With respect to cookies: We use cookies to store visitors preferences, record session information, such as items that consumers add to their shopping cart.
 
 If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address.
+
+Ads (via affiliate ads or Google Ads) served on this site may possibly use cookies to serve ads. Google's use of the DoubleClick cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet. You may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting the [ ads preference manager ](http://www.google.com/ads/preferences/)
 
 With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies. 
 
