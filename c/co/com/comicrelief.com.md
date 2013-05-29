@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comicrelief.com privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028162306id_/http%3A//www.comicrelief.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comicrelief.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529182502id_/http%3A//www.comicrelief.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Comic Relief
 
@@ -101,6 +101,10 @@ HBR_SITE_SESSID
 
 This cookie helps you use our jobs pages by enabling us to identify your visit between page loads. This cookie is destroyed each time you close your browser.
 
+cr_cookie_banner
+
+This cookie remembers that you've acknowledged our cookie information banner that appears at the top of the page. This cookie is destroyed after six months.
+
 Third party cookies
 
 Worldpay
@@ -183,4 +187,4 @@ Comic Relief is the operating name of Charity Projects, a charity registered in 
 
 Any changes we make to this privacy policy will be posted on this page, so please check back from time to time. 
 
-Last updated: April 2011
+Last updated: March 2013
