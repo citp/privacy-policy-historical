@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the igamemom.com privacy policy that was archived on 2012-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121112093901id_/http%3A//igamemom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igamemom.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530001534id_/http%3A//igamemom.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy — iGameMom
+# Privacy Policy iGameMom iGameMom
 
 Thanks for visiting igamemom.com.  The privacy of our visitors is important to us.  This privacy policy tells you how we collect and use personal information at this site. By using this site, you are accepting the practices described in this privacy policy.
 
