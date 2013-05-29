@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the garfield.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226223146id_/http%3A//www.garfield.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the garfield.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529211403id_/http%3A//www.garfield.com/privacy.html) for the most accurate reproduction.*
 
 # Garfield.com - Privacy Policies
 
@@ -16,10 +16,6 @@ Please read below for UCLICK's policy with respect to children under 13.
   3. This policy does not apply to the practices of companies that UNIVERSAL UCLICK and/or Paws do not own or control. Some of these companies have provided content viewable on the Site and/or services or products available on the Site, all of which is subject to and governed by the privacy policies and terms of use of the respective companies: 
 
 
-
-  
-Garfield cardboard stand ups and wall posters  
-Privacy Policy: <http://advancedgraphics.com/store/pc/viewContent.asp?idpage=4>
 
   
 Commerce Bank  
@@ -70,16 +66,7 @@ Privacy Policy: <http://www.amazon.com/gp/help/customer/display.html?nodeId=5514
 
   
 Leather-bound 30th anniversary book  
-Privacy Policy: [http://www.eastonpressbooks.com/leather/privacy_policy.asp](https://web.archive.org/exchweb/bin/redir.asp?URL=http://www.eastonpressbooks.com/leather/privacy_policy.asp)
-
-  
-Personalized Christmas cards   
-Terms of Use: <http://www.christmascardsdirect.com/legal.htm>  
-Privacy Policy: <http://www.christmascardsdirect.com/privacy.htm>
-
-  
-Charms for hats and shoes  
-Terms of Use: [customerservice@rivetzcharms.com](mailto:customerservice@rivetzcharms.com)
+Privacy Policy: <http://www.eastonpressbooks.com/leather/privacy_policy.asp>
 
   
 Garfield nail caps for cats.  
