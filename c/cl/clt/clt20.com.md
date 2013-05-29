@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clt20.com privacy policy that was archived on 2012-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121030081349id_/http%3A//www.clt20.com/about/2012/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clt20.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529075230id_/http%3A//www.clt20.com/about/2012/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - CLT20.com
 
