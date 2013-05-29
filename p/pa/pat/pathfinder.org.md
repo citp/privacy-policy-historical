@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the pathfinder.org privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109130844id_/http%3A//www.pathfinder.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pathfinder.org privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529155301id_/http%3A//www.pathfinder.org/privacy-policy.html) for the most accurate reproduction.*
 
 # Pathfinder International: Privacy Policy
 
 At Pathfinder International, we value the privacy of our donors and online supporters. We have instituted policies intended to ensure that your personal information is handled in a safe and responsible manner.
 
-For any questions or concerns about our Privacy Policy, please contact us at [communications@pathfind.org](mailto:communications@pathfind.org) or call 617-924-7200.
+For any questions or concerns about our Privacy Policy, please contact us at [communications@pathfinder.org](mailto:communications@pathfinder.org) or call 617-924-7200.
 
 ## The Short Version:
 
@@ -28,7 +28,8 @@ If you have other preferences or have questions about our communications practic
 
 ### COOKIES:
 
-When you register on our website, we might store some information on your computer in the form of a cookie or similar file in order to deliver content to you that is specific to your interests, to process a donation or to prevent you from being required to reenter all your registration data at each connection.   
+When you register on our website, we might store some information on your computer in the form of a cookie or similar file in order to deliver content to you that is specific to your interests, to process a donation or to prevent you from being required to reenter all your registration data at each connection. 
+
 The cookies shall only be used to obtain non-personal information in order to improve your online experience. No other information is stored in these cookies. 
 
 ## The Long Version:
@@ -43,7 +44,7 @@ Personal information you choose to provide:
 
 We do not collect any personally identifiable information about you unless you voluntarily submit such information to us, by, for example, filling out a survey or making a donation. The types of information that may be requested include your name, address, email address, and telephone number to respond to a specific request for further information.
 
-You may request a record of your information by calling (617) 924-7200 during normal business hours, Monday-Friday, 9:00am-5:00pm EST or by e-mail at [communications@pathfind.org](mailto:communications@pathfind.org).
+You may request a record of your information by calling (617) 924-7200 during normal business hours, Monday-Friday, 9:00am-5:00pm EST or by e-mail at [communications@pathfinder.org](mailto:communications@pathfinder.org).
 
 Additional Personal Information you may provide:
 
@@ -73,7 +74,7 @@ Non-personal demographic and profile data may be used to tailor your experience 
 
 ### Comments/Opinions
 
-Comments voluntarily submitted by users on forms, surveys, petitions, and donation forms may be used anonymously in Pathfinder International online and/or print communications. You may request that the comment not be used by contacting [communications@pathfind.org](mailto:communications@pathfind.org). Pathfinder will obtain specific permission to use comments which will be attributed to your name. By visiting this website you agree that no information you submit to the website shall contain libelous or otherwise unlawful, abusive or obscene material. You are solely responsible for the content of any information you provide to Pathfinder.
+Comments voluntarily submitted by users on forms, surveys, petitions, and donation forms may be used anonymously in Pathfinder International online and/or print communications. You may request that the comment not be used by contacting [communications@pathfinder.org](mailto:communications@pathfinder.org). Pathfinder will obtain specific permission to use comments which will be attributed to your name. By visiting this website you agree that no information you submit to the website shall contain libelous or otherwise unlawful, abusive or obscene material. You are solely responsible for the content of any information you provide to Pathfinder.
 
 ### USE OF COOKIES
 
