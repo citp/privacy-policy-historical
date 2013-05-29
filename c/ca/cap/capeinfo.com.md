@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the capeinfo.com privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022002556id_/http%3A//capeinfo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the capeinfo.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529164351id_/http%3A//capeinfo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -53,5 +53,3 @@ The user hereby agrees that the law applicable to these terms and conditions of 
 In the event case of any conflict between the terms of this policy and the terms of any electronic or machine readable privacy policy (for example, a P3P electronic privacy policy), the terms of this written policy shall prevail. 
 
 Last Updated: March 2009
-
-Last Updated on Monday, 16 July 2012 09:33 
