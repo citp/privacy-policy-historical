@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the polaroidstore.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122083738id_/http%3A//www.polaroidstore.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the polaroidstore.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529160944id_/http%3A//www.polaroidstore.com/privacy.asp) for the most accurate reproduction.*
 
 # Polaroid Store - Privacy Policy
 
@@ -82,4 +82,4 @@ We will respond to your request and, if applicable and appropriate, make the req
 I. SOLE STATEMENT   
 This Privacy Policy as posted on this Website is the sole statement of our privacy policy with respect to this Website, and no summary, modification, restatement or other version thereof or other privacy statement or policy, in any form, is valid unless we post a new or revised policy to the Website. 
 
-2012 eAccess Solutions, Inc. All Rights Reserved.
+2013 eAccess Solutions, Inc. All Rights Reserved.
