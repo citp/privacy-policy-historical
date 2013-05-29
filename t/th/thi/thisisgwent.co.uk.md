@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thisisgwent.co.uk privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217162121id_/http%3A//www.southwalesargus.co.uk/my/account/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thisisgwent.co.uk privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529203856id_/http%3A//www.southwalesargus.co.uk/my/account/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
