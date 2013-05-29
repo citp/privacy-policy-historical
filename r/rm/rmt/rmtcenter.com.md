@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rmtcenter.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126043516id_/http%3A//www.rmtcenter.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rmtcenter.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529082601id_/http%3A//www.rmtcenter.com/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement | Strategic Intervention Institute
+# Privacy Statement | Robbins-Madanes Training
 
 Your privacy is important to RobbinsMadanesTraining.com. This privacy statement provides information about the personal information that RobbinsMadanesTraining.com collects, and the ways in which RobbinsMadanesTraining.com uses that personal information.
 
