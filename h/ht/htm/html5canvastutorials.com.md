@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the html5canvastutorials.com privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121095326id_/http%3A//www.html5canvastutorials.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the html5canvastutorials.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529121139id_/http%3A//www.html5canvastutorials.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
