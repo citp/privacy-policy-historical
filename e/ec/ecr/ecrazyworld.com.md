@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the ecrazyworld.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122020723id_/http%3A//www.ecrazyworld.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecrazyworld.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529100111id_/http%3A//ecrazyworld.com/my/info%3Fkey%3Dprivacy) for the most accurate reproduction.*
 
-# Privacy Policy | ecrazyworld.com
+# eCrazyWorld.com
+
+## Privacy Policy
 
 eCrazyWorld respects the privacy concerns of the users of its Internet Sites ("Sites"), and has created this privacy statement to explain what information we gather from your visit to our Sites, and how such information may be used. 
 
