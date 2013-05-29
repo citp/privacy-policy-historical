@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the dollartree.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224213030id_/http%3A//www.dollartree.com/custserv/custserv.jsp%3FpageName%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dollartree.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529091259id_/http%3A//www.dollartree.com/custserv/custserv.jsp%3FpageName%3DPrivacy) for the most accurate reproduction.*
 
 # Dollar Tree, Inc.: Privacy Policy for Dollar Tree Website
 
 ## USE OF PERSONALLY IDENTIFIABLE INFORMATION
 
-Information submitted to Dollar Tree through forms on the web site is governed according to the following terms of the Dollar Tree Electronic Personal Information Privacy Policy:
+Information submitted to Dollar Tree through forms on the website is governed according to the following terms of the Dollar Tree Electronic Personal Information Privacy Policy:
 
 **General**
 
-To protect your privacy when visiting our web site, we have adopted the following policies to safeguard any personal information you may voluntarily submit. Any information collected will be used for the purposes of responding to inquiries, orders, and for the general improvement of our Internet services. 
+To protect your privacy when visiting our website, we have adopted the following policies to safeguard any personal information you may voluntarily submit. Any information collected will be used for the purposes of responding to inquiries, orders, and for the general improvement of our Internet services.
 
-Any personal information collected from visitors to our site is done on a voluntary basis. Information such as names, addresses, phone numbers, e-mail addresses, etc. will be used only by Dollar Tree to respond to inquiries, for specific Dollar Tree marketing activities, events, services, or to facilitate fulfillment of orders.
+Any personal information collected from visitors to our site is done on a voluntary basis. Information such as names, addresses, phone numbers, e-mail addresses, etc. will be used only by Dollar Tree to respond to inquiries, for specific Dollar Tree marketing activities, events, services, to facilitate fulfillment of orders, or as otherwise necessary to protect our legal interests.
 
 **User Submissions**
 
@@ -35,14 +35,16 @@ We do not knowingly solicit or collect personally identifiable information onlin
 
 **Cookies**
 
-Some sections of the Dollar Tree web site may deposit pieces of information called “cookies” on your computer.  A cookie is a small piece of information stored by a browser on your computer's hard drive.  Cookie technology does not collect personally identifiable information. If a cookie is sent to your computer, your browser only permits that web site to access the cookie it sent. It does not allow access to cookies sent by other web sites.
+Some sections of the Dollar Tree website may deposit pieces of information called “cookies” on your computer. A cookie is a small piece of information stored by a browser on your computer’s hard drive or stored by a local shared object using Adobe Flash Player. Cookie technology does not collect personally identifiable information. If a cookie is sent to your computer, your browser only permits that website to access the cookie it sent. It does not allow access to cookies sent by other websites.
 
-If you choose to do so, you can change your browser's cookie configuration. Check the “Help” section of your browser for more information. Dollar Tree does not endorse, nor does it participate in the practice of "spamming" (sending of unsolicited promotional e-mail). We comply with the provisions of the CAN-SPAM Act of 2003, as amended. If you believe you have received such a message, [click here to be removed from our database](http://dollartree.p0.com/dollar-unsubscribe.jsp).
+If you choose to do so, you can change your browser’s cookie configuration. Check the “Help” section of your browser for more information. You can manage “flash” cookies by following instructions on Adobe’s website for Flash Player Help. Dollar Tree does not endorse, nor does it participate in the practice of “spamming” (sending of unsolicited promotional e-mail). We comply with the provisions of the CAN-SPAM Act of 2003, as amended. If you believe you have received such a message, [click here to be removed from our database](https://web.archive.org/email-signup).
 
 **Notice to California and Vermont Residents**
 
-We do not disclose personal information about you to nonaffiliated third parties unless you authorize online payment or as permitted under applicable law. No further action is required on your part.  If our policy should change, we will obtain your consent before any information is shared as provided under your state laws.  For California residents we will also provide you with a California Privacy Notice before doing so.
+We do not disclose personal information about you to nonaffiliated third parties unless you authorize online payment or as permitted under applicable law. No further action is required on your part. If our policy should change, we will obtain your consent before any information is shared as provided under your state laws. For California residents we will also provide you with a California Privacy Notice upon request.
 
 **Terms of Usage**
 
-By your use of this web site, you agree to the terms of our [Legal Information](https://web.archive.org/legal), our use of information and this privacy policy.  From time to time we may make changes to our policies so we recommend that you visit this page often to review the information contained herein. 
+By your use of this website, you agree to the terms of our [Legal Information](https://web.archive.org/legal), our use of information and this privacy policy. From time to time we may make changes to our policies so we recommend that you visit this page often to review the information contained herein. 
+
+Last Revision: December 10, 2012
