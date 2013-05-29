@@ -1,149 +1,164 @@
-> *The following text is extracted and transformed from the punjabishaadi.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630182742id_/http%3A//customersupport.networksolutions.com/article.php%3Fid%3D306) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the punjabishaadi.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529205230id_/http%3A//www.punjabishaadi.com/shaadi-info/index/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Shaadi.com Privacy Policy Indian matrimonial web site - free listing matrimonials - PunjabiShaadi.com
 
-#### Find Answers To Your Questions:
+Privacy Policy
 
-Search by keyword or browse by category for immediate answers to frequently asked questions: 
+This section covers Shaadi.com's treatment of personally identifiable information that Shaadi.com collects when you are on our site.
 
-### Privacy Policy
+Read on for information on the following aspects about our Privacy Policy:
 
-**Why A Privacy Policy?**  
+  1. What information does Shaadi.com collect/track about me?
+  2. What does Shaadi.com do with the information it collects/tracks?
+  3. With whom does Shaadi.com share the information it collects/tracks?
+  4. Tell me about links with other sites.
+  5. Tell me about Cookies.
+  6. Tell me about Shaadi.com policy on correcting, updating or removing personal information.
+  7. How will I know of changes in Shaadi.com privacy policy?
+  8. Tell me about security of my personal information.
+  9. Tell me about Shaadi.com's email policy.
+  10. Tell me how to contact Shaadi.com.
 
+
+
+Please [email us](https://web.archive.org/customer-relations/faq/write-to-us) with questions regarding this statement.
+
+  Privacy Policy
+
+  1. **What information does Shaadi.com collect/track about me?**  
+Shaadi.com is an advertising platform providing targeted advertising services for matrimonial alliance. In order to do provide the services, we ask for certain personal information which is displayed on the site. (This information includes physical / mental disability.) (Of course, all Shaadi.com visitors may browse the site, search member profiles and view any articles or features our site has to offer without entering any personal information.)
+
+Information Collected/Tracked by Shaadi.com
+
+Shaadi.com gathers two types of information:
+
+**i. Information users submit; and**  
+**ii. Information not directly submitted.**
+
+    1. **Information users submit**
+
+**MEMBERS**  
+There are two types of user-submitted information we collect: Public and Private. We define Public information as personal information that may be displayed on the site at the behest of the member, such as gender, age, height, telephone number, photograph, etc. Private information is defined as any information that allows others to contact a user other than through Shaadi.com or allows the collection of information about the user other than what is displayed on the site. 
+
+      * **Public:** To order to make the services of advertising to the relevant targeted members, we gather personal information, which may or may not include: customer-specified Shaadi.com username, gender, age, religion, income range, profession, telephone number, preference/lifestyle information, general geographic location, photograph and horoscope.  
+
+      * **Private:** This information is gathered from members and guests who apply for the various services our site offers. This information includes, but is not limited to: email address, first name, last name, credit card number or checking account information for payment, a user-specified password, mailing address, zip code and telephone number.
+Shaadi.com also allows members to submit public and private information on behalf of others - child/ward, sibling or friend. If such child/ward, sibling or friend does not wish this information to be displayed, she/he has the option to request removal of such information after providing the necessary evidence that the information pertains to her/him.
+
+**FRAMING:** We utilize framing techniques to make it appear that the user is still on the web site when they are actually on a third party web site. 
+
+**SURVEYS & CONTESTS:** From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, and age).
+
+**SHAADI.COM AFFILIATE PARTNERS:** The Affiliate Partner program is a vehicle for other websites to link to Shaadi.com. No personal member information is exchanged with the Affiliate Partner.
+
+**Additional Features of the Site :-**
+
+**TESTIMONIALS:** Satisfied users of Shaadi.com have chosen to post testimonials on our web site. All permissions have been obtained to post these testimonials.
+
+**LIVE CHAT:** Shaadi.com has tied up with LIVE person for it's live chat feature. Information you provide on chat is stored on the LIVE person's server but is not used by them. Shaadi.com also saves chats for tracking and MIS purpose.
+
+**MESSENGER:** If you use our online instant messaging function on this Web site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of this platform, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in this platform.
+
+    2. **Information not directly submitted**  
   
-Network Solutions respects your individual privacy. This Privacy Policy ('Policy') embodies our commitment to its protection through adherence to fair electronic information practices. This Policy puts you, the individual, in control of how your personal information is processed. You have our promise that we will not electronically process your personal information in any way that is incompatible with this Policy.
+**AGGREGATE:** This is information we collect that is not personally identifiable, such as browser type and IP address. This information is gathered for all users to the site. 
+  2. **What does Shaadi.com do with the information it collects/tracks?**  
+Shaadi.com uses the information it collects in the following ways: 
+    * **Information users submit**
 
- **This Privacy Policy protects your privacy by:**
+**MEMBERS**  
+**Public:** Public information supplied by members is an advertisement intended to be viewed by visitors to the site. This information is used by visitors for searching and matching purposes. Public information cannot be used to identify a specific member by address, etc (except photograph, posting of which is voluntary). All members also have an option to post their telephone number. The members can choose to display the telephone number to premium members only. This display preference can be changed anytime by the member by visiting the [My Contact Details](https://web.archive.org/my-shaadi/contact-details) page and opting not to display the telephone number and other contact details to other members. Only premium members can view telephone number(s) of other members who have opted to show their contact details to premium members.
 
- **Informing you about:**
+**Private:** We primarily use member's email addresses to verify enrollment and to send system emails on behalf of other members. Email addresses are not disclosed to members. We may also use user's email address to send news regarding our site or our group sites, but the users may choose not to receive such emails by unsubscribing. Email addresses may also be used in private correspondence with the user for customer service issues. Financial information that is collected is used to bill the user for products and services. All other private information submitted by the user is confidential and is not disclosed except as required by law or to protect members of Shaadi.com. All private information except financial information submitted during the process of a financial transaction & certain account-related information collected at the time of registration can be updated or deleted by the user at any time, as follows:-
 
-  * The types of personal information Network Solutions collects about you through its Web sites; 
-  * How it collects that information; 
-  * The general purposes for which it collects such information; 
-  * The types of organizations to which it discloses the information; 
-  * The choices and means by which individuals may limit its use and disclosure. 
+**Updating public information:**
 
+      * Login to your Shaadi.com account
+      * Click on My Profile
+      * Use Edit options in the page to update relevant information and submit
+**NOTE:** To prevent misuse of the system, some information such as date of birth can be changed only on request. To do so, go to Help and use the Write to Customer Relations option.
 
+**Updating private information:**
 
-**Empowering you to choose:**
-
-  * Whether and how certain personal information you provide is used (where such use is unrelated to the uses for which you originally disclosed it); and 
-  * Whether and the manner in which a third party uses certain personal information you provide (where such use is unrelated to the uses for which you originally disclosed it). 
-
-
-
-**Assuring you that Network Solutions:**
-
-  * Takes reasonable precautions to protect personal information from loss, misuse, unauthorized access, disclosure, alteration or destruction; 
-  * Implements reasonable policies and procedures to ensure that personal information is kept only for the purposes for which it has been gathered; 
-  * Uses reasonable measures to ensure that we have accurately and completely recorded the personal information you have provided; and 
-  * Provides you reasonable access to your personal information as well as procedures for correcting or modifying that information where appropriate. 
-
-
-
-**Ensuring accountability** to individuals who believe that Network Solutions has not complied with these privacy principles. 
-
+      * Login to your Shaadi.com account
+      * Click on My Account
+      * Update relevant information and submit
   
-**Third Party Advertising and Cookies**
+**SURVEYS & CONTESTS:** Contact and other information collected for contests is used to notify the winners and award prizes. Survey information collected is used to monitor or improve the site usage experience..
 
-We use third-party advertising companies to serve ads on our Web site and other Web sites. In the course of serving advertisements, these companies may place or recognize a unique 'cookie' on your hard drive, and may use information (not including your name, address, e-mail address, or telephone number) about your visits to this and other web sites in order to measure advertising effectiveness and to provide advertisements about goods and services of interest to you. For more information about this practice and to know your choices about not having your information used by these companies, please visit 
+**SHAADI.COM'S AFFILIATE PARTNERS:** Information submitted by the Affiliate Partner is used for establishing and maintaining a business relationship. No personal or business information is shared outside the relationship between Shaadi.com and the Affiliate Partner. Affiliate Partners may not view or access private information of Shaadi.com subscribers.
 
-[http://www.doubleclick.net/us/corporate/privacy](http://www.doubleclick.net/us/corporate/privacy) and <http://www.accipiter.com/company/privacy.php>. 
+**OTHERS:**  
+Shaadi.com allows members to write messages to other members to advertise there personal profile for matrimonial alliance. While Shaadi.com exercises reasonable care to prevent site misuse, we strongly recommend you establish the authenticity and intent of members before giving out personally identifiable information in such messages.
 
-Network Solutions shares Web site usage information about visitors to our Web site with a reputable third-party advertising company for the purpose of targeting our Internet banner advertisements on this site and other sites. For this purpose, we and our third-party advertising company note some of the pages you visit on our Web site through the use of pixel tags (also called clear gifs). The information collected by our third-party advertising company through the use of these pixel tags is not personally identifiable. For more information about our third-party advertiser, please click here. To opt out of the targeting program, please click 
+    * **Information not directly submitted**
 
-[here](http://www.privacychoices.org/).   
-**Information Corrections or Changes**  
-You have the ability to correct or change certain information in our records, such as your address and contact information. The process for changing your information begins at <https://www.networksolutions.com/en_US/manage-it/index.jhtml>. You may change this information at any time and as often as necessary. If you need assistance or have questions about correcting information, you can contact us via e-mail at [customerservice@networksolutions.com](mailto:customerservice@networksolutions.com). 
+We use your server IP address, and browser-type related information in the general administration of our website.
 
-**How We Put Information to Good Use**  
-We use information about you for purposes of monitoring and improving our internal operations, as well as to ensure we: (i) bill you properly, (ii) administer your account in accordance with your agreements with us, and (iii) properly perform the services you have requested.
+As a matrimonial service we endeavour to provide transparency in the dealings of members on our website. Hence, we display details such as Last Online date in member profiles, and also provide notifications of read messages to the sending member.
 
-We also use the information we collect to monitor and improve our internal operations, as well as to improve the experience of users in our network of sites. For example, we may correlate Web site traffic information with data about individual users. This data helps us to determine how much our customers use parts of the site, allowing us to enhance it to fit the needs of as many of our customers as possible. We may also break down overall usage statistics according to customers' domain names, browser types, and MIME types by reading this information from the browser string (information contained in every user's browser).
+We may store member login ids of users and their IP addresses for certain activities they perform for security purposes in order to track down the person in case of illegal activities. 
 
-Another example of our use of information to enhance the experience of users in our network of sites is our reliance on cookie files. We use cookie files to make it easier for users to access our site or services. A cookie file is a small data file that certain Web sites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you have visited. However, the only personal information a cookie can contain is information you supply yourself. A cookie cannot read data off your hard disk or read cookie files created by other sites. We use cookies to track user traffic patterns (as described above) when you register for Network Solutions services. When you register, we may use a cookie to store a unique, random user ID. We use this ID to identify you anonymously in our database and to track the pages you visit on our site.
+  3. **With whom does Shaadi.com share the information it collects/tracks?**  
+Except where you are expressly informed on the site or as described in this privacy policy we do not sell, rent, share, trade or give away any of your personal information. However, we reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site.
 
-If you have set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You may refuse cookies by turning them off in your browser; however, some of our sites may require a cookie for access.
+Shaadi.com may tie-up with partners to bring you various services (e.g. Shaadi Shop, posting ads in publications). However, Shaadi.com will never share your personal information, without your express permission. Still, we encourage you to review the privacy policy of the partner for questions about their use, any personally identifiable information that you may separately submit to such partner. 
 
-Finally, we use the information we collect to direct important notices and information affecting your account or services, as well as to provide general information that may be of interest to you, including newsletters, surveys, contest and sweepstake announcements, and information about our service or product offerings or the offerings of our business affiliates. You may opt-out of receiving information from us simply by notifying us of your desire in accordance with the opt-out instructions contained in any information message you receive from us. Note, however, that in order to fulfill our service obligations to you, we must continue sending you notices and other important information affecting your account or services.
+  4. **Tell me about links with other sites.**  
+Shaadi.com may contain links to other websites. Please be aware that Shaadi.com is not responsible for the privacy practices of other Web sites. We encourage you to be aware of this when you leave our site, and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by Shaadi.com. 
+  5. **Tell me about Cookies.**  
+Shaadi.com uses cookies to deliver various services and to keep track of your personal preferences. A cookie is a small text file that can be entered into the memory of your browser to:-  
 
- **Getting to Know Our Customers**
-
-Network Solutions is in the business of putting people in touch with other people. That requires more than simply offering innovative technical services. It also requires that we understand you, our customer, and your needs. Indeed, we are the Internet's leading domain name registrar because we have taken the time to get acquainted with each one of our many customers.
-
-We get to know you primarily through the information you provide to us when signing up for, or using, one or more of our services. The information you provide ranges from basic contact information, to payment information, to the technical coordinates of your host servers. The application for domain name registration services found at 
-
-[www.networksolutions.com](http://www.networksolutions.com/en_US/legal/www.networksolutions.com) is a representative illustration of the information we request of you. All of the information we request from you when purchasing our services is obligatory unless otherwise noted on the relevant form. When you purchase our services, you agree to provide and maintain accurate, complete and updated information.
-
-After you have signed up for our services, we may be in communication with you about your account, technical questions you may have about services provided by us, or any other matter relating to those services. Those communications are essential to our relationship with you and to our ability to provide you with quality services that are responsive to your needs. At the same time, those communications give us helpful insights about you, your preferences and the ways in which we might improve our services. We therefore may maintain this information for future use.
-
-For operational and quality assurance purposes, we take note of whether and how you use the information and services that we provide, such as by recording site traffic patterns and by maintaining log files of users' access to site files.
-
-The information we receive from or about you is stored on systems designed to prevent the loss, misuse, unauthorized access, disclosure, alteration or destruction of that information. We also encrypt your transmission of sensitive information to us (e.g., credit card numbers, account passwords) in the interest of heightened privacy protection and information integrity. Transactions within our account manager and purchase flows use Secure Sockets Layer (SSL) encryption when transmitting data from your connection to our systems. You may click the lock icon within your web browser to verify the authenticity of any or our SSL certificates. 
-
-**With Whom We May Share Information**  
-Pursuant to arrangements with Internet Corporation for Assigned Names and Numbers ('ICANN'), we compile and maintain a publicly accessible registration database that includes basic information about each domain name registered with us, including the names, telephone numbers and e-mail addresses of individuals designated as points of contact for a given domain name. Whether or not applicable domain name registration fees have been paid is also publicly accessible. With the gradual continued privatization of the Domain Name System, and consistent with the rules or policies applicable to that system, or to comply with any changes in law or regulation, we may, if appropriate, take steps to restrict the accessibility and amount of personally identifying information available in the registration database
-
-When you register a domain name through us, we must disclose your domain name and its associated Internet Protocol ("IP") numbers to the appropriate registry in order to make your chosen domain name a functional address on the Internet. Certain registries also require that we disclose to them the names, postal addresses, telephone and fax numbers, and e-mail addresses of individuals designated as the registrant or points of contact for a given domain name. Each registry discloses certain portions (and in some cases all) of the information we are required to provide to them about your domain name registration. For example, each registry discloses at least each registered domain name and its associated IP numbers ("TLD zone files") to TLD server administrators so that the domain name is capable of functioning as an address on the Internet. Consistent with the current rules and policies for the Domain Name System, such registries also disclose the TLD zone files to other interested persons, provided those persons agree, among other things, not to use the TLD zone files for improper purposes, including the transmission of unsolicited commercial e-mail. Similarly, each registry may compile and maintain a publicly accessible database that includes basic information about each domain name registered with that registry, including the names, telephone and fax numbers, and e-mail addresses of individuals designated as the registrant or points of contact for a given domain name. 
-
-We may share certain information about you with our vendors who are responsible for handling your account or performing other services that you require (including vendors who may update your credit card expiration date and credit card account number if you choose our auto-renew feature). Although we may share financial information (i.e., credit card numbers, banking information), security information (e.g., account passwords) and personal communications (e.g., personal e-mail messages or message board postings) with such vendors when necessary and appropriate, we will not share such information with any other third parties unless directed by you or except in response to formal requests in the form of a subpoena or court order issued in connection with civil or criminal proceedings related to a domain name registration or other services we provide, or in response to requests by law enforcement agencies when we suspect that you or your agent is using our services to cause harm or damage to us or others or adversely affect our ability to provide services to our customers
-
-Additionally, we may share the information stored on the publicly accessible registration database, as well as other information that is not of a sensitive nature, with carefully selected business partners, including those who offer services that complement those provided by us or which may otherwise be of interest to you. If you do not want us to share information about you with our business partners, you may opt-out of receiving this information through our Account Manager by following the instructions below:
-
-a. Log into Account Manager at [www.networksolutions.com](http://www.networksolutions.com/en_US/manage-it/);
-
-b. Click “Edit User Info” in the left menu;
-
-c. Scroll to the bottom of the page;
-
-d. Select “NO” for the third statement, which reads, “I would like to receive selected and relevant information from Network Solutions partners;” and
-
-e. Click “SAVE.”
-
+    * help a website recognize repeat users;
+    * facilitate the user's ongoing access to and use of the site;
+    * allow a site to track usage behavior;
+    * compile aggregate data for content improvements; and
+    * undertake targeted advertising.
   
-Please note, however, that consistent with the current rules and policies for the Domain Name System, information about you must remain available in the publicly accessible registration database.
+If you do not want information collected through the use of cookies, most browsers contain a function that allows a user to deny the cookie feature. You can also delete cookie files from your computer at your discretion. Please note that the use of cookies is a necessary part of the Shaadi.com technology and is necessary if you wish to access Shaadi.com. Disabling the cookie feature on your browser or deleting cookie files from your computer will render you unable to access certain features on Shaadi.com and participate in its services. Cookies may also be necessary to provide the user with certain features such as customized delivery of information. Consequently cookies we serve are tied to the user's personally identifiable information.
 
- **How Do I Get My Name Removed from Bulk Access**  
-As noted above, we currently make certain information about you available to the general public via our domain name registration database look-up services. These services give users access to such data on a query-by-query basis. Pursuant to our arrangements with ICANN, qualified persons may also access such data on a bulk basis provided they agree, among other things, not to use the data to allow, enable or otherwise support the transmission by e-mail, telephone, or facsimile of mass, unsolicited, commercial advertising or solicitations to entities other than to such qualified persons’ own existing customers; or (ii) sell or redistribute the data to third parties, except insofar as the data is incorporated into a value-added product or service that does not permit the extraction of a substantial portion of the data. If you do not want your personal information disclosed on a bulk basis, you may opt-out of such disclosure through our Account Manager by following the instructions below:
+Shaadi.com uses cookies to provide its services, to deliver content specific to your interests, to save your password so you don't have to re-enter it each time you visit different pages on our site, and for other purposes.
 
-a. Log into Account Manager at [www.networksolutions.com](http://www.networksolutions.com/en_US/legal/www.networksolutions.com);
+Please note that cookies are used only to recollect information sent to your computer from Shaadi.com. We CANNOT access any information not sent by Shaadi.com.
 
-b. Click “Edit User Info” in the left menu;
+Some of our business partners may use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies.
 
-c. Scroll to the bottom of the page;
+  6. **Tell me about Shaadi.com policy on correcting, updating or removing personal information.**  
+Shaadi.com allows you to modify or remove both public and private information from our database. Private information such as financial information submitted during the process of a financial transaction & certain account-related information collected at the time of registration however cannot be changed or removed by the user. 
+  7. **How will I know of changes in Shaadi.com privacy policy?**  
+If we make a material change to our privacy policy, we will prominently post a link to those changes on our Homepage so you are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner materially different from that stated at the time it was collected, we will notify you by way of an email. We will give you a choice as to whether or not we can use information in this different manner and act accordingly. 
+  8. **Tell me about security of my personal information.**  
+Shaadi.com takes every precaution to protect your information, both online and offline.
 
-d. Select “NO” for the first statement, which reads, “I choose to have my name included in the Bulk WHOIS data licensed to third parties for domains for which I am the Account Holder or Primary Contact;” and
+When our registration/order process asks you to enter sensitive information (such as a credit card number), such information is encrypted and is protected with the best encryption software in the industry - SSL.
 
-e. Click “SAVE.” 
+While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect your information offline. We follow generally accepted industry standards to protect the personal information submitted to us, both during transaction and once we receive it. All your information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, a billing clerk or a customer service representative) are granted access to personally identifiable information.
 
-**Our Accountability to You**  
-By purchasing our services, you obtain the protections of, and consent to the data processing practices described in, this Privacy Policy. When you purchase our services, you also represent to us that you have provided notice to, and obtained consent from, any third party individuals whose personal data you supply to us with regard to: (i) the purposes for which such third party's personal data have been collected, (ii) the intended recipients or categories of recipients of the third party's personal data, (iii) which of the third party's data are obligatory and which data, if any, are voluntary, and (iv) how the third party can access and, if necessary, rectify the data held about them.
+We have also done everything in our power to prevent misuse of photographs. Apart from not allowing photographs to be downloaded or copied, we have watermarked them with the Shaadi.com logo. This acts as a further deterrent for illegal use elsewhere.
 
-In addition to the privacy protections that we provide, our employees, agents and business partners are independently responsible for ensuring compliance with this Privacy Policy, as described below. 
+If you have any questions about the security at our website, please [email us.](https://web.archive.org/customer-relations/faq/write-to-us)
 
-**Employee Accountability**  
-Only those Network Solutions employees that have a legitimate business purpose for accessing and handling personal information obtained by us are given authorization to do so. The unauthorized access or use of such information by a Network Solutions employee is prohibited and constitutes grounds for disciplinary action.
+  9. **Tell me about Shaadi.com's email policy.**  
+We use email extensively to help you find your match on Shaadi.com. Our main email products and services include: 
+    * Member responses to your profile (called Contact Alert);
+    * Partner matches for you (called Match Mail); and
+    * Newsletters updating you of the latest features on our site.
+  
+Occasionally, we may also send you: 
+    * Announcements of special events which Shaadi.com is associated with; or
+    * Special offers from partner sites or group sites, which we believe are useful for you.
+  
+As a Shaadi.com member, you are automatically subscribed to all of the above, as an integral part of our matchmaking services to you. However, at any time, you may choose to manage your subscriptions to one or more of the above (except Contact Alert). All our emails will carry a link to help you do this. You can also independently manage your email subscription using the [My Alerts Manager](https://web.archive.org/my-shaadi/profile/alert) option.
 
-Additionally, our information management systems are configured in such a way as to block or inhibit employees from accessing information that they have no authority to access. 
+We reiterate that we will never sell / rent out your email address to any third party, unless you expressly permit us to do so. In fact, we do not allow ANYONE to see your email address, not even other Shaadi.com members.
 
-**The Accountability of Network Solutions' Agents and Business Partners**  
-Our trusted vendors and business partners are responsible for processing or handling some of the information that we receive. These vendors and business partners are not authorized to use such information for purposes beyond those specified by us and are required to preserve the confidentiality with which we treat such information.
+Your friend's email address: Throughout Shaadi.com, you have the option to send interesting profiles / articles to your friends. Do make full use of this option, because your friends are also covered by Shaadi.com's spam-free privacy policy. We will use your friend's email address only to send a one-time message to them per request. Then they will never ever hear from us again unless they voluntarily subscribe to our services.
 
-If you feel that Network Solutions, or any of our agents, representatives or employees, is violating this Privacy Policy, please contact us via e-mail at 
+  10. **Tell me how to contact Shaadi.com.**  
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please [email us](https://web.archive.org/customer-relations/faq/write-to-us) or contact us at.
 
-[privacy@networksolutions.com](mailto:privacy@networksolutions.com), by telephone at (703) 668-4600, or by postal mail at:
+**Shaadi.com**  
+People Interactive (I) Pvt. Ltd. 83/C , Hansraj Pragji Building, Next to TATA Motors, Off Dr. E. Moses Road, Worli, Mumbai - 400018 Phone: 1-860-5003456 (Standard Charges apply) 
 
-Network Solutions, LLC  
-Attention: General Counsel  
-13861 Sunrise Valley Dr   
-Suite 300   
-Herndon VA 20171   
-United States  
-(703) 668-4600 
 
-**Notification of Changes**  
-We will post any changes to this Privacy Policy 30 days before their effective date so you will always know what information we collect, how we use it, and under what circumstances, if any, we disclose it. You are responsible for periodically checking our web site for changes to this Privacy Policy. You may opt-out of any posted change to our collection, use or disclosure of your personal information by sending an e-mail to 
 
-[privacy@networksolutions.com](mailto:privacy@networksolutions.com).
-
- **If you have any questions regarding this Privacy Policy, please contact[ privacy@networksolutions.com](mailto:privacy@networksolutions.com).**
