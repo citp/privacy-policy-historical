@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netdania.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118164858id_/http%3A//www.netdania.com/UI/Privacy.aspx%3Fmenu%3DPrivacy%2520Policy%26m%3Daboutus) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netdania.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529174454id_/http%3A//www.netdania.com/UI/Privacy.aspx%3Fmenu%3DPrivacy%2520Policy%26m%3Daboutus) for the most accurate reproduction.*
 
 # NetDania - Privacy Policy
 
