@@ -1,10 +1,25 @@
-> *The following text is extracted and transformed from the dealscube.com privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109184824id_/http%3A//www.dealscube.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealscube.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529213946id_/http%3A//www.dealscube.com/privacy.asp) for the most accurate reproduction.*
 
-# Free Online Marketplace
+# Online Marketplace
 
 [ ](http://www.dealscube.com/index.asp)
 
-100% Free Marketplace 
+  * [ Home ](http://www.dealscube.com/index.asp)
+  * [ Browse ](http://www.dealscube.com/browse.asp)
+  * [ Register ](https://www.dealscube.com/register.asp)
+  * [ My Account ](https://www.dealscube.com/myauction.asp)
+  * [ Sell ](http://www.dealscube.com/sellitem.asp)
+  * [ Stores ](http://www.dealscube.com/stores.asp)
+  * [ Help ](http://www.dealscube.com/helpgeneral.asp)
+  * [ Chat ](http://www.dealscube.com/chat/default.asp)
+  * [ Community ](http://forum.dealscube.net/)
+
+
+
+Online Marketplace 
+
+  
+
 
 **Privacy Policy**
 
