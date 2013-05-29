@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gangofgamers.com privacy policy that was archived on 2012-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120712100150id_/http%3A//www.gangofgamers.com/corporate/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gangofgamers.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529062558id_/http%3A//www.gangofgamers.com/corporate/privacy_policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - GangofGamers.com - Play Free Games Online
 
@@ -95,7 +95,7 @@ In order to ensure that all our Users comply with the [User Rules](https://web.a
 **To ensure that the security and integrity of our Services are safeguarded, we may monitor your Personal Information. This monitoring may include (without limitation) the filtering of incoming and outgoing electronic data messages to identify, limit and/or prevent the transmission of spam, viruses and/or unlawful, defamatory, obscene or otherwise undesirable material or content.**
 
 We may under certain circumstances procure an element of the Services from a third party service provider; for example we may use third party advertising companies to serve advertisements when you visit our Website. To the extent that it may be necessary, and solely for the purposes of providing the Service to you, you agree that we may disclose to such third party any of your Personal Information that may be necessary for the procurement of services from the third party. These companies may also use information (not including your name, address, email address or telephone number) about your visits to this and other Websites in order to provide advertisements about goods and services of interest to you. More information about this practice and your choices about not having this information used by these companies would be available with the respective third parties. Also, you can visit the following URLs for information on how to opt-out of the use of such technologies for the delivery of more relevant advertising.  
-<http://www.networkadvertising.org/managing>  
-<http://www.networkadvertising.org/managing/opt_out.asp>
+[http://www.networkadvertising.org/choices](http://www.networkadvertising.org/choices/)  
+
 
 In addition to the general limitations in the above terms, we will not be liable to you or any other third party for any damages suffered by you or any other third party howsoever arising from the disclosure of your Personal Information. Your only remedy under such circumstances will be to end this agreement. 
