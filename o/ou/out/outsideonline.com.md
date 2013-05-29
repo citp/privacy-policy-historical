@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outsideonline.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230032041id_/http%3A//www.outsideonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outsideonline.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529062658id_/http%3A//www.outsideonline.com/privacy-policy) for the most accurate reproduction.*
 
 # Mariah Media Network LLC’s Privacy Policy | Privacy Policy | OutsideOnline.com
 
@@ -34,3 +34,61 @@ We use information for our business purposes.  These include:
   4. **To operate our sites and serve our advertisements.   **For example we use information we collect to analyze trends and improve site layout.  We also monitor traffic patterns at our sites to personalize our site.  We sometimes work with third parties to help us with our site monitoring activities. Our monitoring may include tracking your online activities, either ourselves or with the help of our vendors.  To learn more about our tracking tools, [click ](http://www.outsideonline.com/advertise/about-our-ads.html?page=1&abc=bsahqLX9)[here](http://www.outsideonline.com/advertise/about-our-ads.html?page=1&abc=bsahqLX9).
 
 
+
+**Information Sharing**
+
+ **We may share this information:**  
+With third parties who perform services on our behalf. For example, we share information with vendors, or will authorize them to collect information on our behalf.  
+ **Can you limit sharing?**  
+No
+
+ **We may share this information:**  
+With any successor to all or part of our business.  For example, if part of our business was sold we may sell our customer list as part of that transaction.  
+ **Can you limit sharing?**  
+No
+
+ **We may share this information:**  
+With third party business partners.  For example, we might share your information when we conduct a joint promotion with a another company.   
+**Can you limit sharing?**  
+Yes
+
+ **We may share this information:**  
+To government agencies or law enforcement.   We may also share with others if we think we are legally obligated, or to protect ourselves.  For example, we will disclose information in response to subpoenas or investigative requests.  
+ **Can you limit sharing?**  
+Yes
+
+ **We may share this information:**  
+For other reasons as may be described to you.   
+**Can you limit sharing?**  
+In some circumstances
+
+ **We may share this information:**  
+On our message boards and forums.  We may also allow you to submit comments on our sites. When you submit a comment, you are required to provide your full name.  This will be posted publicly with your comment.  If you do not want your personal information disclosed, you should not use this forum.  
+ **Can you limit sharing?**  
+Yes –by not using the forum
+
+ **Your Choices**  
+You can opt out of marketing emails by following the instructions in any marketing emails you receive.  You can also opt-out by sending an email message to [emailreply@outsidemag.com](mailto:emailreply@outsidemag.com) with the word “unsubscribe” in the subject line.
+
+If you do not want us to share your information with third parties for their marketing purposes, send an email to [emailreply@outsidemag.com](mailto:emailreply@outsidemag.com) with the words “do not share” in the subject line.
+
+ **Our Ads**  
+Third parties advertise on our sites, and we also contract with third parties to serve ads across the Internet.  The ads we serve may be based on tracking activities, as described in [more detail ](http://www.outsideonline.com/advertise/about-our-ads.html?page=1&abc=bsahqLX9)[here.](http://www.outsideonline.com/advertise/about-our-ads.html?page=1&abc=bsahqLX9)
+
+ **Security**  
+We use industry standard security measures to protect our sites.  However, We cannot guarantee that the Internet or your use of our Site will be completely secure.  We encourage you to take steps to protect yourself online.  For example, do not share your password with other people including ensuring that any online account information you have remains secure.
+
+ **About Children**  
+Our sites are not created for children.  We do not believe children are interested in our sites, and do not knowingly collect information from children under 13.  If you are a parent or guardian and think we have information about your child who is under 13, please contact us  at [outsideonline@outsidemag.com](mailto:outsideonline@outsidemag.com) To learn more about how to protect your child online, visit the [FTC’s web site](http://www.onguardonline.gov/) and read the [helpful information provided by the FTC](http://www.ftc.gov/bcp/edu/pubs/consumer/tech/tec08.shtm).
+
+ **Links**  
+Our sites contain links to third party sites.   If you click on one of those links, you will be taken to websites we do not control.  This policy does not apply to the information practices of that website.  You should read the privacy policy of other websites carefully.  We are not responsible for such third party's sites.
+
+ **Non-US Users**  
+Our sites are operated in the United States. If you are located outside of the United States, please be aware that any information you provide to us will be transferred to the United States.  Please also be aware that by using our sites and giving us your information, you consent to such transfer, and understand that the U.S. may not provide the same level of protections as the laws of your country.
+
+ **Policy Updates**  
+From time to time we may change our privacy practices. The latest version of this policy will be posted here.  If there is a material change to this policy that we plan to apply retroactively, we will notify you as required by law.
+
+ **How to Contact Us**  
+If users have any questions about our privacy practices, you can email us at **privacy [at] outsidemag.com**. You can call us at (505) 989-7100. If you would like to write to us, our address is 400 Market Street, Santa Fe, NM 87501.
