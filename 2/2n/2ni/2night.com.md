@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2night.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229230522id_/http%3A//2night.com/mexico/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2night.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529191128id_/http%3A//2night.com/global/about/privacy) for the most accurate reproduction.*
 
 # Privacy
 
