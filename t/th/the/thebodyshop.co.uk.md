@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebodyshop.co.uk privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122131159id_/http%3A//www.thebodyshop.com/content/services/aboutus_privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebodyshop.co.uk privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529234916id_/http%3A//www.thebodyshop.com/content/services/aboutus_privacypolicy.aspx) for the most accurate reproduction.*
 
 # The Body Shop | About us | privacy policy
 
@@ -20,7 +20,7 @@ We collect Personal Information that you provide to us voluntarily and process i
 
 We may hold or process such Personal Information securely anywhere in the world, for as long as is necessary for the Purposes and we may only share it with franchisees, subsidiaries and subcontractors of The Body Shop and with other businesses in the L'Oréal group. We use Secure Sockets Layer (SSL) technology to protect your credit card information online.
 
-Subject to your consent we may communicate with you through a variety of channels, including through our stores, our customer loyalty schemes, and through the internet, and through a variety of means such as post, email, phone, fax, or text message, subject to your preference. You may unsubscribe at any time by writing to us in the manner explained in our communications.
+Subject to your consent we may communicate with you through a variety of channels, including through our stores, our customer loyalty schemes, and through the internet, and through a variety of means such as post, email, phone, fax, or text message, subject to your preference. You may unsubscribe at any time by writing to us in the manner explained in our communications or by contacting us as set out in section 14.1 below.
 
 We have a designated Information Officer in our global headquarters, responsible for compliance with this policy and with all applicable laws. The Body Shop International Plc is registered with the Office of the Information Commissioner in the UK under the Data Protection Act 1998.
 
@@ -57,7 +57,7 @@ Our web sites make use of cookies as well as beacons to help us provide a better
 
 1.4. In certain specific instances, this Privacy Policy may also be supplemented by additional policies and terms, or by short Privacy Statements used in connection with particular purpose(s) or on various forms, which we may identify to be applicable.
 
-1.5. We designate one or more persons ( **"Information Officer"** ) in our global headquarters (at Watersmead, Littlehampton, West Sussex, BN17 6LS UK) as well as in any Relevant Jurisdiction to be accountable for the Personal Information that we collect, and for ensuring our compliance with all applicable laws (see section 13 below). **"Relevant Jurisdiction"** in this Privacy Policy means any jurisdiction the laws of which regulate the Processing of Personal Information, by reference, among others, to the locality where such Processing takes place, or the place where The Body Shop, or any of its subsidiaries are based, or the place where you may be domiciled, etc. The Body Shop International Plc is registered with the Office of the Information Commissioner in the UK under the Data Protection Act 1998.
+1.5. We designate one or more persons ( **"Information Officer"**)in our global headquarters (at Watersmead, Littlehampton, West Sussex, BN17 6LS UK). The Body Shop International Plc is registered with the Office of the Information Commissioner in the UK under the Data Protection Act 1998.
 
 1.6. We take every measure to provide a comparable level of protection for Personal Information should the information be Processed by a Vendor.
 
@@ -109,9 +109,9 @@ Our web sites make use of cookies as well as beacons to help us provide a better
 5.1.9. to respond to requests or complaints  
 5.1.10. to enable you to participate in our customer loyalty schemes and manage your membership thereof.
 
-5.2. We only keep Personal Information for as long as is necessary to satisfy the specified purposes, for which it was collected. We retain Personal Information in accordance with our own guidelines, procedures and principles and in line with applicable legislation in any Relevant Jurisdiction.
+5.2. We only keep Personal Informationfor as long as is necessary to satisfy the specified purposes, for which it was collected. We retain Personal Information in accordance with our own guidelines, procedures and principles and in line with United Kingdom law 
 
-5.3. We may disclose your Personal Information to other subsidiaries within The Body Shop group of companies or to a Vendor as explained in section 1.3 above. These subsidiaries will treat your Personal Information as confidential, in accordance with this Privacy Policy and with all applicable Data Protection legislation and will process such Personal Information only for the purposes and within the terms set out herein. 
+5.3.We may disclose your Personal Information to other subsidiaries within The L'Oreal group of companies or to a Vendor as explained in section 1.3 above. These subsidiaries will treat your Personal Information as confidential, in accordance with this Privacy Policy and with all applicable Data Protection legislation and will process such Personal Information only for the purposes and within the terms set out herein. 
 
 5.4. We may disclose your Personal Information if we are required to do so by law or requirement of a competent authority.
 
@@ -121,7 +121,7 @@ Our web sites make use of cookies as well as beacons to help us provide a better
 
 5.7. If you do consent (opt in) to receive these communications you may unsubscribe at any point in the future by contacting us as provided at section 6.4 below.
 
-5.8. Where we need to collect your Personal Information for a purpose about which we have not previously informed you and that is not set out in this Privacy Policy, we will endeavour to notify you and obtain your consent before such collection, or in the event that this is not practicable, as soon thereafter as is reasonable. We will however only use your Personal Information for a purpose that has been specified prior to its use or where the Processing of your Personal Information is necessary for the performance of a contract to which you are a party or in order to take steps at your request prior to entering into a contract or Processing is necessary for other legal purposes.
+5.8. We will only use your Personal Information for a purpose that has been specified prior to its use or where the Processing of your Personal Information is necessary for the performance of a contract to which you are a party or in order to take steps at your request prior to entering into a contract or Processing is necessary for other legal purposes.
 
 5.9. As we develop our business, we might sell or buy Shops or assets. In such transactions, Personal Information may be one of the transferred business assets. Also, in the event that The Body Shop or substantially all of its assets are acquired, data files containing Personal Information will be one of the transferred assets. 
 
@@ -131,9 +131,9 @@ Our web sites make use of cookies as well as beacons to help us provide a better
 
 6.2. Consent to provide Personal Information is not a condition for our selling a product to you, unless the information requested is required to fulfil an explicitly specified and legitimate purpose. 
 
-6.3. In particular we will generally seek your explicit prior consent (opt in) before sending to you marketing communications (see 5.1.2 above).
+6.3. In particular we will seek your explicit prior consent (opt in) before sending to you marketing communications (see section 5.1.2 above).
 
-6.4. Unsubscribe: At any time, you can withdraw your consent to our collection, use or disclosure (generally Processing) of your Personal Information by writing to us in the prescribed manner (whether by email or post, or by text messaging etc), as specified in our communications to you, or in relevant forms that you might have signed (e.g. for our customer loyalty scheme), and depending on the country, in which you live, or the channel by which you have previously agreed to receive our communications. If you have any concerns whatsoever, with regard to the unsubscribe functionality that we make available to you, pursuant to this section, please contact us at the address or medium shown in section 14 of this policy. 
+6.4. Unsubscribe: At any time, you can withdraw your consent to our collection, use or disclosure (generally Processing) of your Personal Information by (i) contacting us as set out in section 14.1 below, or (ii) writing to us in the prescribed manner (whether by email or post, or by text messaging etc), as specified in our communications to you, or in relevant forms that you might have signed (e.g. for our customer loyalty scheme),. If you have any concerns whatsoever, with regard to the unsubscribe functionality that we make available to you, pursuant to this section, please contact us at the address or medium shown in section 14 below. 
 
 6.5. If you have previously opted into receiving commercial communications from us pursuant to 6.3 above, while also becoming a member of our loyalty scheme, should your membership to such scheme comes to an end for whatever reason, we will not take this to imply an automatic request to unsubscribe, and we will assume that we have your continued consent, unless you specifically unsubscribe, as is provided for in section 6.4.
 
@@ -145,15 +145,15 @@ Our web sites make use of cookies as well as beacons to help us provide a better
 
 **8\. Accessing and Updating Personal Information**
 
-8.1. Dependant on the legislation of any Relevant Jurisdiction., some customers have a qualified right to access, rectify, delete, or object (to the processing of) your Personal Information stored by us and to receive an account of its use and disclosure. Where there is no such right provided by law, we may still allow access to such information. We recommend that all customer requests for access to Personal Information held by The Body Shop be made in writing, although we will not impose a formal requirement in this regard. However, we may require you to provide us with additional information reasonably necessary for us to satisfy your request.
+8.1. Customers have a qualified right to access, rectify, delete, or object (to the processing of) your Personal Information stored by us and to receive an account of its use and disclosure. We recommend that all customer requests for access to Personal Information held by The Body Shop be made in writing, although we will not impose a formal requirement in this regard. However, we may require you to provide us with additional information reasonably necessary for us to satisfy your request.
 
-8.2. Responding to a customer request (under section 14 below) for information will usually be done at no or minimal cost to the customer. However, subject to the laws of any Relevant Jurisdiction, a fee for reasonable costs incurred may be charged in responding in writing, provided the customer is informed of the fee in advance, which will not exceed the maximum amount permitted by the legislation of the Relevant Jurisdiction. The Personal Information requested is provided to the customer in a form that is generally understandable. 
+8.2. Responding to a customer request (under section 14 below) for information will usually be done at no or minimal cost to the customer. However, a £10 fee for reasonable costs incurred may be charged in responding in writing. The Personal Information requested is provided to the customer in a form that is generally understandable. 
 
 8.3. We amend the Personal Information contained in our database or elsewhere as required when an individual successfully demonstrates the inaccuracy or incompleteness of the Personal Information. An amendment may involve the correction, deletion or addition of information and notification to third party to whom the data have been disclosed. However, we may be unable to amend past purchase information or return transaction information.
 
 **9\. Effective Date and Changes to the Privacy Policy**
 
-9.1. This Privacy Policy is effective as of 31 March 2009.
+9.1. This Privacy Policy is effective as of 1 January 2013.
 
 9.2. We reserve the right to change our Privacy Policy from time to time. If we decide to change our Privacy Policy, we will post those changes on our Homepage so our users are always aware of what information we collect from them, how we use it, and under what circumstances, if any, we disclose this information to third parties. **Homepage** in this Privacy Policy means the homepage of the corporate web site of The Body Shop (in short "Web Site"), currently located at the following URL: http://www.thebodyshop.com.
 
@@ -217,7 +217,7 @@ Our web sites make use of cookies as well as beacons to help us provide a better
 
 13.1. The Body Shop has procedures in place in order to receive and respond to enquiries about The Body Shops policies and practices relating to its handling of Personal Information. Any complaint or enquiry should be made in writing and addressed as shown in section 14 below. 
 
-13.2. The Body Shop investigates all complaints. Requests will be forwarded to the appropriate Information Officer in the Relevant Jurisdiction.. If the complaint is found to be justified, The Body Shop will take appropriate measures to resolve the matter, including, if necessary, amending its policies and practices. 
+13.2. The Body Shop investigates all complaints. Requests will be forwarded to the Information Officer. If the complaint is found to be justified, The Body Shop will take appropriate measures to resolve the matter, including, if necessary, amending its policies and practices. 
 
 **14\. Contacting Us**
 
@@ -241,7 +241,6 @@ Information Officer - 1.5
 Personal Information - 3  
 Processing - 1.3  
 Purpose(s) - 5  
-Relevant Jurisdiction - 1.5  
 The Body Shop - 1.1  
 Vendor - 1.3  
 Web Site - 9.2  
