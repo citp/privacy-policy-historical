@@ -1,13 +1,10 @@
-> *The following text is extracted and transformed from the obout.com privacy policy that was archived on 2007-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070420142821id_/http%3A//www.obout.com/legal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the obout.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529224708id_/http%3A//www.obout.com/legal/privacy.aspx) for the most accurate reproduction.*
 
-# obout inc - How to install Slide Menu
+# OBOUT - Privacy Statement
 
-|  | Privacy Policy  
----|---  
-  
 Scope
 
-This statement applies to Obout Inc. Web Sites Worldwide. 
+This statement applies to Obout Software Inc Web Sites Worldwide. 
 
 Personal Information
 
@@ -17,15 +14,17 @@ Uses
 
   * To fulfill your requests by us or by others involved in fulfillment. 
   * To contact you for customer satisfaction surveys, market research or in connection with certain transactions. 
-  * By Obout Inc. and selected organizations for marketing purposes if you have permitted such use. 
+  * By Obout Software Inc and selected organizations for marketing purposes if you have permitted such use. 
   * In a non-identifiable format for analysis. 
-  * To develop our business relationship if you represent an Obout Inc. Business Partner or Vendor. 
+  * To develop our business relationship if you represent an Obout Software Inc Business Partner or Vendor. 
 
-  
+
+
 Your Choices
+
 * When we collect information from you, you may tell us that you do not want it used for further marketing contact and we will respect your wishes. 
 * You may also turn off cookies in your browser. 
-  
+
 How to Contact Us
 
-Questions about this statement or about Obout Inc.'s handling of your information may be sent to: info@obout.com, or Privacy, Obout Inc., 728 Ocean View Ave, Ste A1, Brooklyn, NY 11235. 
+Questions about this statement or about Obout Software Inc's handling of your information may be sent to: info@obout.com, or Privacy, Obout Software Inc, 728 Ocean View Ave, Ste A1, Brooklyn, NY 11235. 
