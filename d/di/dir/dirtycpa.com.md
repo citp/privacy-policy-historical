@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dirtycpa.com privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028141935id_/http%3A//www.dirtycpa.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dirtycpa.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530011814id_/http%3A//www.dirtycpa.com/privacy.html) for the most accurate reproduction.*
 
 # Dirty CPA :: Play To Win With CPA's
 
