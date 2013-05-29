@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seekcommercial.com.au privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228181518id_/http%3A//seekcommercial.com.au/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seekcommercial.com.au privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529151804id_/http%3A//seekcommercial.com.au/Privacy) for the most accurate reproduction.*
 
 # SEEK Commercial - Privacy
 
@@ -86,7 +86,7 @@ Your Internet Provider ("IP") address
 SEEK Commercial's web servers provide us with your IP address. This assists us in the diagnosis of problems and or support issues with our services.
 
 Cookies   
-SEEK Commercial uses 'cookies' to provide you with a better, and more relevant, browsing experience. Cookies are able to ‘remember’ your search parameters, and recently viewed ads, and are also able to collect anonymous browsing data. Based on this data collection, SEEK Commercial can tailor ads that appear to your browsing preferences.  Cookies DO NOT collect any of your Personal Information (as that term is defined in the Privacy Act (1988) Cth)).  If you would prefer that cookies were not active whilst you browse the SEEK Commercial site, you are able to disable cookies via your computer's web browser settings. To opt out of our online advertising, follow the instructions on [this page](http://www.google.com/ads/preferences/plugin/browsers.html)  
+SEEK Commercial uses 'cookies' to provide you with a better, and more relevant, browsing experience. Cookies are able to ‘remember’ your search parameters, and recently viewed ads, and are also able to collect anonymous browsing data. Based on this data collection, SEEK Commercial can tailor ads that appear to your browsing preferences.  Cookies DO NOT collect any of your Personal Information (as that term is defined in the Privacy Act (1988) Cth)).  If you would prefer that cookies were not active whilst you browse the SEEK Commercial site, you are able to disable cookies via your computer's web browser settings. To opt out of our online advertising, follow the instructions on [this page](https://www.google.com/intl/en/policies/privacy/ads/)  
    
   
 **3.**
