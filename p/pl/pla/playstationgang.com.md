@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the playstationgang.com privacy policy that was archived on 2012-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121216162926id_/http%3A//playstationgang.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playstationgang.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529200127id_/http%3A//playstationgang.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Playstation
+# Privacy Policy | PlayStation Gang
+
+##  Privacy Policy 
 
 The following Privacy Policy summarizes the various ways that PLAYSTATIONGANG , treats the information You provide, either directly or indirectly, while accessing any website owned or controlled by PLAYSTATIONGANG. Please read this statement carefully before using or accessing our Websites, since your use of and/or registration on any aspect of our Website will constitute your agreement to this Privacy Policy. If you cannot agree with the terms and conditions of this Privacy Policy, please do not use our Website. Also, please be aware that our Privacy Policy does not cover information collected elsewhere, including without limitation sites linked to from our Website, cookies placed on you computer by third party advertisers on our site, or third parties providing services to our Website.Â This privacy statement covers the use of cookies by In
 
@@ -126,3 +128,6 @@ Because no data transmission over the Internet is completely secure, and no syst
 IV. ACCESS BY CHILDREN  
 This Website is not intended for use by children under the age of 18, and especially those under age 13. No one under age 18 is allowed to provide any personal information, register for accounts, or use our public discussion areas, forums and chats.Â Â Parents, if your children disclose information about themselves in publicly accessible areas of the Website or create accounts to message other members, they may get unsolicited messages from other parties. Accordingly, you should tell them not to do so. If you’re worried about your children’s activities or their privacy on our site.  
 If you don’t agree to the terms contained in this Privacy Policy, please exit the Website by closing this window or clicking the Back button on your browser until you return to a page not under the control of the Service Provider.
+
+dsq_thread_id:
+    1017017207
