@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thehightechsociety.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123083827id_/http%3A//thehightechsociety.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehightechsociety.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529203219id_/http%3A//thehightechsociety.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - The High Tech Society
+# Privacy Policy | The High Tech Society
 
 At [thehightechsociety.com](http://thehightechsociety.com/), the privacy of our visitors is of extreme importance to us (See [this article](http://www.wp-insert.smartlogix.co.in/what-is-a-privacy-policy/) to learn more about Privacy Policies.). This privacy policy document outlines the types of personal information is received and collected by [thehightechsociety.com](http://thehightechsociety.com/) and how it is used.
 
