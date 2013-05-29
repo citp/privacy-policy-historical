@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cricketmove.com privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214083159id_/http%3A//watchlivecricket.cricketmove.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cricketmove.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529104727id_/http%3A//watchlivecricket.cricketmove.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Live Cricket
 
@@ -18,4 +18,4 @@ We _**( Cricketmove.com)** ****_ may change this Privacy Policy from time to tim
 
 _**Queries**_
 
-If you have queries about our use of personal information, you can write to us. 
+If you have queries about our use of personal information, you can write to us.
