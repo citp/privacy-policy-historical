@@ -1,60 +1,45 @@
-> *The following text is extracted and transformed from the xmission.com privacy policy that was archived on 2009-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091030143016id_/http%3A//www.xmission.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xmission.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529175021id_/http%3A//www.xmission.com/legal) for the most accurate reproduction.*
 
-# Privacy Policy | XMission Internet
+# XMission - Legal
+
+#### Privacy Statement
 
 XMission has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices.
 
-## Personal Information Collection and Use
+##### Personal Information Collection and Use
 
-Most of the information given to XMission in the registration process, or at any other time is for XMission's use only. XMission is the sole owner of this information and we will not sell, share, or rent this information to others. A court order is the only way that this information can be accessed by another party or organization.
+Most of the information given to XMission in the registration process, or at any other time is for XMission's use only. XMission is the sole owner of this information and we will not sell, share, or rent this information to others. A court order is the only way that this information can be accessed by another party or organization. The one exception to this is the “Online Name” field that's filled out during registration. When someone runs the UNIX “finger” command on an account (e.g., 'finger username@shell.xmission.com'), it will show this “Online Name”. This will also be displayed on a new customer's default Web page. This is the only information that is made public and you, as a customer, may elect to put anything you'd like (or nothing at all) in this particular field. It can also be modified at any time. XMission does not offer services or sell products to children and does not request or knowingly collect personally identifiable contact information from anyone under the age of 13.
 
-The one exception to this is the “Online Name” field that's filled out during registration. When someone runs the UNIX “finger” command on an account (e.g., 'finger username@xmission.com'), it will show this “Online Name”. This will also be displayed on a new customer's default Web page. This is the only information that is made public and you, as a customer, may elect to put anything you'd like (or nothing at all) in this particular field. It can also be modified at any time.
+##### Shared and Unlimited Web Hosting on XMission
 
-XMission does not offer services or sell products to children and does not request or knowingly collect personally identifiable contact information from anyone under the age of 13.
+Shared and Unlimited resources on XMission are intended to support a large number of customer and a wide array of web services. XMission makes every commercially reasonable effort to provide the best services possible so long as the subscriber's use of the service complies with these terms. It is expected that subscribers will practice efficiency in web coding, database usage, storage optimization, and bandwidth transfers to not adversely impact others on the shared hosting services. The term "unlimited" does not allow a small number of users to disproportionately utilize any of the provided features. We expect our subscribers to play fair and be realistic in their expectations regarding shared hosting services. This service is architected to host websites for personal and business applications. XMission does not provide unlimited space for online storage, file backups, documents, MySQL tables, log files, ISOs, warez, and etc. Other unacceptable items include: IRC scripts/bots, anonymizers, IP scanners, bruteforce programs, mail bombers, commercial audio/video streaming, fraudulent sites, sites that link to inappropriate content, filesharing/ptp activities, and topsites. Inodes are not to exceed more than 250,000 on any shared account. Violation of any of these terms may result in immediate termination with or without notice. Should your sites require dedicated resources, which we highly recommend for businesses which depend on their web sites to generate revenue, XMission encourages you to try our enterprise [ cloud hosting service ](https://web.archive.org/web/20130529175021id_/http%3A/cloud_hosting) .
 
-## System Logs
+##### System Logs
 
-All information logged by our various systems is also used for internal purposes only, and will not be released unless under a court order. Retention governed by available disk space.
+All information logged by our various systems is also used for internal purposes only, and will not be released unless under a court issued warrant with the proper jurisdiction. XMission customers will be notified of all government and law-enforcement requests for their private data, whether done according to U.S. and Utah constitutions with a court issued warrant or improperly without.
 
-## Public Forums and Links
+##### Public Forums and Links
 
-XMission makes chat rooms (IRC), forums, message boards, and news groups available to its customers. Please remember that any information that you choose to disclose in these areas becomes public information and you should exercise caution before disclosing your personal information. XMission's customers should also be aware that any information they disclose on their own websites becomes publicly available. XMission is not responsible for any information our customers choose to make available in any of these forums.
+XMission makes chat rooms (IRC), forums, message boards, and news groups available to its customers. Please remember that any information that you choose to disclose in these areas becomes public information and you should exercise caution before disclosing your personal information. XMission's customers should also be aware that any information they disclose on their own websites becomes publicly available. XMission is not responsible for any information our customers choose to make available in any of these forums. Also, please note that XMission has links to other sites. We encourage our customers to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by XMission's Web site.
 
-Also, please note that XMission has links to other sites. We encourage our customers to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by XMission's Web site.
+##### Information Security
 
-## Information Security
+XMission takes every precaution to protect our customers' information. When customers submit sensitive information via our Web site, your information is protected using the safest and most secure methods available. When our registration or service request forms ask customers to enter sensitive information (such as a credit card number), that information is encrypted and is protected with the best encryption software in the industry for the Web - SSL. While on a secure page, such as our secure credit card payment form, the lock icon on the bottom of Web browsers. While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our customers' information, not just the sensitive information mentioned above, is restricted in our offices and data center. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Our employees must use a secure shell (ssh) to access this information and must also be allowed access from a specific IP address within the office. Furthermore, ALL employees are kept up-to-date on our security and privacy practices to avoid security breaches through what is called, “social engineering.” Important details and changes are discussed in staff meetings and email memos. Finally, the servers that we store personally identifiable information on are kept in a secure environment, protected by a firewall and kept in a secure room in our data center. If you have any questions about XMission's security, please feel free to contact [ security@xmission.com ](mailto:security@xmission.com) .
 
-XMission takes every precaution to protect our customers' information. When customers submit sensitive information via our Web site, your information is protected using the safest and most secure methods available.
-
-When our registration or service request forms ask customers to enter sensitive information (such as a credit card number), that information is encrypted and is protected with the best encryption software in the industry for the Web - SSL. While on a secure page, such as our secure credit card payment form, the lock icon on the bottom of Web browsers.
-
-While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our customers' information, not just the sensitive information mentioned above, is restricted in our offices and data center. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Our employees must use a secure shell (ssh) to access this information and must also be allowed access from a specific IP address within the office.
-
-Furthermore, **ALL** employees are kept up-to-date on our security and privacy practices to avoid security breaches through what is called, “social engineering.” Important details and changes are discussed in staff meetings and email memos. Finally, the servers that we store personally identifiable information on are kept in a secure environment, protected by a firewall and kept in a secure room in our data center.
-
-If you have any questions about XMission's security, please feel free to contact [security@xmission.com](mailto:security@xmission.com).
-
-## Necessary Submission of Information
+##### Necessary Submission of Information
 
 Personally identifiable consumer information is shared with Authorize.Net, the credit card processing company we use, to the extent it is necessary for them to provide payment processing services.
 
-## Correction/Updating Personal Information
+##### Correction/Updating Personal Information
 
-If a user's personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user's personal data provided to us. This can be done by contacting [accounting@xmission.com](mailto:accounting@xmission.com) or by calling 801-539-0852. The person changing the information MUST be the contact on the account. Normally, the contact is the person who opened the account or a person who was assigned to the account by the business. To change the information, you must be able to verify that you are, in fact, the contact on the account.
+If a user's personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user's personal data provided to us. This can be done by contacting [ accounting@xmission.com ](mailto:accounting@xmission.com) or by calling 801-539-0852. The person changing the information MUST be the contact on the account. Normally, the contact is the person who opened the account or a person who was assigned to the account by the business. To change the information, you must be able to verify that you are, in fact, the contact on the account.
 
-## Notification of Changes
+All account contact changes must be completed by the customer using an XMission Contact Addition Form. Customers can request this form from any XMission employee. This form should be completed, printed on the customer's business letterhead, and returned to XMission via FAX, postal mail, or secure email. If sent via email, the digital copy must be in a readable format (e.g. PDF, JPG) and emailed to [billing@xmission.com](https://web.archive.org/web/20130529175021id_/http%3A//www.xmission.com/%E2%80%9Dmailto:billing@xmission.com%E2%80%9D) An XMission staff member will send a confirmation email to the customer to verify that the email address is valid for the company. When the customer responds to that confirmation email, he or she can be added as a contact.
+
+##### Notification of Changes
 
 If we ever need to change our privacy policy, we will post those changes on this page. We will also send an email announcement so our customers are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. Rest assured that XMission has no intention of disclosing or selling customer information in the future.
 
-## Contacting XMission
+##### Contacting XMission
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with XMission, you can contact XMission's support staff.
-
-Phone: 801.539.0852
-
-Toll-Free: +1.877.964.7746
-
-51 East 400 South, Suite 200
-
-Salt Lake City, UT 84111
-  *[UT]: Utah
