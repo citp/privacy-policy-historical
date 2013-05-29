@@ -1,48 +1,66 @@
-> *The following text is extracted and transformed from the arris.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122024933id_/http%3A//www.arris.com/Privacy-Policy/34) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arris.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529082344id_/http%3A//arris.com/privacy_policy/index.asp) for the most accurate reproduction.*
 
-# Privacy Policy | Arris Systems, Inc.
+# ARRIS Privacy Policy
 
-Arris Systems Inc., is committed to respecting and protecting your privacy. We've structured our Web site so that you can visit us on the Web without identifying yourself or revealing any personal information. Once you choose to provide us personal information (any information by which you can be identified), you can be assured that it will only be used to support your relationship with Arris.
+ARRIS respects your privacy. When using our sites, you may get information, access online products and services, communicate with us or link to other web sites with which we do business. While doing that, you may give us information so that we can provide enhanced products or services to you and to personalize your experience on our website. This online privacy policy describes how we use and protect Personally Identifiable Information that you share with us ("PII”).
 
-### Collection of your Personal Information
+The following principles govern web-sites owned and operated by ARRIS. These principles do not govern web-sites of other parties to which we may provide links because ARRIS is not responsible, nor can we control the privacy practices or content of those sites. 
 
-Arris Systems collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. Arris Systems also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites.
+##  Information Collection and Use
 
-There is also information about your computer hardware and software that is automatically collected by Arris Systems. This information can include: your IP address, browser type, domain names, access times and referring Web site addresses. This information is used by Arris Systems for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the Arris Systems Web site.
+ARRIS collects PII when you register for an ARRIS webcast, ask to receive an ARRIS newsletter, or request ARRIS information from sales, employment, investor relations or general inquiries. 
 
-Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through Arris Systems public message boards, this information may be collected and used by others. Note: Arris Systems does not read any of your private online communications.
+When you contact ARRIS, we ask for your name, company, title, email address, physical address and telephone number.
 
-Arris Systems encourages you to review the privacy statements of Web sites you choose to link to from Arris Systems so that you can understand how those Web sites collect, use and share your information. Arris Systems is not responsible for the privacy statements or other content on Web sites outside of the Arris Systems and Arris Systems family of Web sites.
+ARRIS automatically receives and records information on our server logs from your browser including your IP address and the page you requested.
 
-### Use of your Personal Information
+ARRIS routinely collects information such as webcast time-stamps and logs events.
 
-Arris Systems collects and uses your personal information to operate the Arris Systems Web site and deliver the services
+##  Retention and Relevance
 
-you have requested. Arris Systems also uses your personally identifiable information to inform you of other products or services available from Arris Systems and its affiliates. Arris Systems may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
+ARRIS retains the PII that it collects only for the period of time such information is required to achieve the purposes set forth above. Generally, the retention period, will not be greater than one year after you cease to be an active customer depending on the purpose and any regulatory or audit requirements.
 
-Arris Systems does not sell, rent or lease its customer lists to third parties. Arris Systems may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, Arris Systems may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to Arris Systems, and they are required to maintain the confidentiality of your information. Arris Systems does not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent.
+ARRIS uses and retains only your PII which is directly relevant to the purpose for which it is collected. This information is retained as you provide it but will be updated when you notify us of changes in order to maintain its accuracy.
 
-Arris Systems keeps track of the Web sites and pages our customers visit within Arris Systems, in order to determine what Arris Systems services are the most popular. This data is used to deliver customized content and advertising within Arris Systems to customers whose behavior indicates that they are interested in a particular subject area.
+##  Information Sharing and Disclosure
 
-Arris Systems Web sites will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Arris Systems or the site; (b) protect and defend the rights or property of Arris Systems; and, (c) act under exigent circumstances to protect the personal safety of users of Arris Systems, or the public.
+ARRIS will not sell or rent your PII to anyone.
 
-### Use of Cookies
+ARRIS will send PII about you to other companies or people only when:
 
-The Arris Systems Web site use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
+  * We have your consent to share the information;  
 
-One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize Arris Systems pages, or register with Arris Systems site or services, a cookie helps Arris Systems to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same Arris Systems Web site, the information you previously provided can be retrieved, so you can easily use the Arris Systems features that you customized.
+  * We need to share your information to provide the product or service you have requested;  
 
-You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Arris Systems services or Web sites you visit.
+  * We need to send the information to companies who work on behalf of ARRIS to provide an ARRIS product or service or to otherwise assist ARRIS with its business activities. (Unless we tell you otherwise, these companies do not have any right to use the PII we provide to them beyond what is necessary to assist us and are required to safeguard PII and not to disclose PII to others).
 
-### Security of your Personal Information
 
-Arris Systems secures your personal information from unauthorized access, use or disclosure. Arris Systems secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other Web sites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
 
-### Changes to this Statement
+You have the ability to edit, correct or erase your PII, at any time. To request such account maintenance send your email request to [marketing@arrisi.com](mailto:marketing@arrisi.com). You may also indicate that you do not wish to receive messages from ARRIS regarding our products or services or update your information relating to such messages at [marketing@arrisi.com](mailto:marketing@arrisi.com) . You may also write to ARRIS Marketing, 3871 Lakefield Drive, Suwanee, GA 30024, USA. Following your request for either type of data editing, your information will be changed in ARRIS databases after we receive the information necessary to process your request.
 
-Arris Systems will occasionally update this Statement of Privacy to reflect company and customer feedback. Arris Systems encourages you to periodically review this Statement to be informed of how Arris Systems is protecting your information.
+We welcome comments and questions on this Privacy Policy. As stated above, we are dedicated to protecting your privacy, and we will make every reasonable effort to keep your information secure. Questions regarding our Privacy Policy should be directed via e-mail to [marketing@arrisi.com](mailto:marketing@arrisi.com) or by contacting the ARRIS Marketing Department at 1-800-469-6569. Additionally you may contact us by writing to ARRIS Marketing, 3871 Lakefield Drive, Suwanee, GA 30024, USA. 
 
-### Contact Information
+##  Disclaimer
 
-Arris Systems welcomes your comments regarding this Statement of Privacy. If you believe that Arris Systems has not adhered to this Statement, please contact Arris Systems at [arrisinfo@arris.com](mailto:arrisinfo@arris.com). We will use commercially reasonable efforts to promptly determine and remedy the problem.   
- 
+ARRIS will not be responsible for typographical or other errors or omissions regarding pricing, availability, specifications, images or other information. Prices are subject to change without notice and DO NOT INCLUDE SHIPPING AND/OR HANDLING CHARGES OR APPLICABLE TAXES. Final order amounts, including shipping/handling and tax, will be communicated following receipt of your order. ARRIS reserves the right at its sole discretion to refuse any order or request for quote.
+
+##  Privacy Policy  
+
+
+Information entered on this site is used solely for ARRIS's order fulfillment, support and marketing purposes.
+
+##  Site Account
+
+By registering and/or logging in to use this site, you are accepting responsiblity for maintaining the confidentiality of your account and password and for restricting access to your computer, and you agree to accept responsibility for all activities that occur under your account or password.
+
+##  Sales Tax
+
+Any tax or other governmental charge upon the production, sale, shipment or use of the products which Seller is required to pay or collect from Purchaser shall be paid by Purchaser to Seller, unless Purchaser furnishes Seller with exemption certificates acceptable to taxing authorities. Such amount shall be due whether or not included on the invoice.
+
+## Shipping & Handling
+
+Unless otherwise stated, all shipments within United States (Domestic) are made F.O.B. (under the UCC) shipping point, freight prepaid and charged; and international shipments (International) shall be EXW (Ex works, Incoterms 2000) shipping point, freight prepaid and charged. Claims for shortages and damages must be filed with the carrier within seven (7) days or such lesser time as the carrier may require. Seller shall have the right to make partial shipments. Quantities are subject to normal manufacturer allowances, subject to a corresponding adjustment in the total price.
+
+## Returns
+
+Purchaser must obtain Seller's prior authorization for returns, which authorization Seller may grant at its sole discretion. Returns must be (a) made in original cartons and in resalable condition, (b) within ninety (90) days of receipt, and (c) subject to a restocking charge of not less than 20% of the stated invoice price.
