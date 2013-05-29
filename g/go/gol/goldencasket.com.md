@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goldencasket.com privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602095437id_/http%3A//www.tattsgroup.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldencasket.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529213703id_/http%3A//www.tattsgroup.com/legal/privacy) for the most accurate reproduction.*
 
 # 
 
