@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sternfannetwork.com privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115232731id_/http%3A//www.sternfannetwork.com/xen/index.php%3Fhelp/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sternfannetwork.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529203717id_/http%3A//www.sternfannetwork.com/xen/index.php%3Fhelp/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SternFanNetwork
 
-[](https://www.facebook.com/hangoverrecovery/app_370648442995666)
+[](http://www.bagger7.com/)
 
 COMMITMENT TO YOUR PRIVACY
 
