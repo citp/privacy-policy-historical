@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sqlmaestro.com privacy policy that was archived on 2012-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120915055622id_/http%3A//www.sqlmaestro.com/contacts/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sqlmaestro.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530014048id_/http%3A//sqlmaestro.com/contacts/privacy) for the most accurate reproduction.*
 
 # Database management tools for MySQL, Oracle, SQL Server, DB2, SQL Anywhere, PostgreSQL, SQLite, Firebird and MaxDB by SQL Maestro Group
 
@@ -6,13 +6,13 @@ Partners
 
 Testimonials
 
-**Gianmarco Brundo:** "I have purchased SQLite Mestro and SQLite Data Wizard, your products are very good".
+**Alex Freeze:** "Good job! As always, MS SQL Data Wizard is at the front of my list with regards to when we advise a simple and powerful Microsoft SQL data manager".
 
-**Kenneth Wagner:** "SQL Maestro is a delight to use. It is easy to learn. Almost always intuitive and has a good help system. I would gladly recommend it to either a beginner or even an advanced user".
+**Jonathan Oakes:** "This is a lovely application. It's easy to hook into my own bespoke applications. It's very powerful, yet really quite simple to use. Thanks for this".
 
-[More](http://sqlmaestro.com/products/testimonials/)
+[More](http://www.sqlmaestro.com/products/testimonials/)
 
-[Add your opinion](http://sqlmaestro.com/contacts/)
+[Add your opinion](http://www.sqlmaestro.com/contacts/)
 
 Customers
 
@@ -62,33 +62,33 @@ We also send the user site and service announcement updates. Members are not abl
 **Choice/Opt-out**  
 Our users are given the opportunity to "opt-out" of having their information used for purposes not directly related to our site at the point where we ask for the information. For example, our order form has an "opt-out" mechanism so users who buy a product from us, but don't want any marketing material, can keep their E-mail address off of our lists.
 
-Users who no longer wish to receive our newsletter or promotional materials from our partners may opt-out of receiving these communications by sending "[unsubscribe](http://sqlmaestro.com/en/news/subscribe/)" form.
+Users who no longer wish to receive our newsletter or promotional materials from our partners may opt-out of receiving these communications by sending "[unsubscribe](http://www.sqlmaestro.com/en/news/subscribe/)" form.
 
 **Notification of Changes**  
 If we decide to change our privacy policy, we will post those changes on our home page so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an E-mail. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
 
 | 
 
-Company news[](http://sqlmaestro.com/rss.xml)
+Company news[](http://www.sqlmaestro.com/rss.xml)
 
-Aug 20, 2012
+May 17, 2013
 
-New version provides you with a lot of features to create perfect web applications including an ability to completely customize the appearance of web pages, enhanced master-detail views, wide choice of new color schemes, and many other useful things.
+New version comes with Report Designer, updated SQL Dump wizard, advanced data management abilities as well as with many other useful enhancements.
 
-Jun 30, 2012
+May 16, 2013
 
-Support for a number of PostgreSQL 9.x new features, a new data reporting tool, lots of new features in SQL editors and viewers and other useful things.
+The article shows how to add various kinds of charts to pages produced by the software.
 
-Jun 11, 2012
+Mar 29, 2013
 
-New version introduces SQL Dump wizard, user-defined data type mappings, auto arranging target tables by dependencies and lots of other new features.
+Support for sequence generators, a new reporting tool, advanced SQL Dump wizard, updated SQL Editor, enhanced data grids and a lot of other useful things.
 
 Feature of the day
 
-[](http://sqlmaestro.com/products/firebird/maestro/help/06_08_00_database_designer/)
-
-You can create ER Diagrams to represent objects in your Firebird databases in a couple clicks with Database Designer.
-
-[](http://sqlmaestro.com/products/db2/phpgenerator/screenshots/common/data_export/)
+[](http://www.sqlmaestro.com/products/postgresql/phpgenerator/screenshots/common/data_export/)
 
 PHP Generator supports data export to PDF, XML, CVS, Excel and Word. 
+
+[](http://www.sqlmaestro.com/products/mysql/maestro/help/01_04_00_object_browser/)
+
+SQL Maestro for MySQL provides you with Object Browser for sorting, filtering and grouping of database objects.
