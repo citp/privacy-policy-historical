@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the techforless.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231055855id_/http%3A//www.techforless.com/cgi-bin/tech4less/privacy_new) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techforless.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529210604id_/http%3A//www.techforless.com/cgi-bin/tech4less/privacy_new) for the most accurate reproduction.*
 
 # Our Policy in Summary - Tech for Less
 
-Your information is safe with us. We do not sell, rent or otherwise share your information with anyone. Tech for Less LLC is a member of the Better Business Bureau (BBB) and has the earned the Online Reliability Seal.  |  [](http://www.bbb.org/southern-colorado/business-reviews/computers-dealers/tech-for-less-in-colorado-springs-co-23002518#sealclick)     
+Your information is safe with us. We do not sell, rent or otherwise share your information with anyone. Tech for Less, Inc. is a member of the Better Business Bureau (BBB) and has the earned the Online Reliability Seal.  |  [](http://www.bbb.org/southern-colorado/business-reviews/computers-dealers/tech-for-less-in-colorado-springs-co-23002518#sealclick)     
 ---|---  
   
 ### What Personally Identifiable Information Is Collected When Making a Purchase?
@@ -16,7 +16,7 @@ When you make a purchase on our site, you provide the following information:
 
 ### Data Security:
 
-Tech for Less LLC uses a secured network to handle your personal information. A secured server is used and information is transmitted via SSL encryption. This security technology makes it safe to enter and transmit your credit card over the Internet by providing the following protections: 
+Tech for Less, Inc. uses a secured network to handle your personal information. A secured server is used and information is transmitted via SSL encryption. This security technology makes it safe to enter and transmit your credit card over the Internet by providing the following protections: 
 
 Server authentication - keeps out imposters   
 Privacy using encryption - keeps out eavesdroppers   
@@ -24,7 +24,7 @@ Data integrity - keeps out vandals
 
 ### Personal Information:
 
-Personal information relating to you and your order history are only available to employees of Tech for Less LLC and cannot be modified by web visitors. We do not store your credit card number on our Web Site. 
+Personal information relating to you and your order history are only available to employees of Tech for Less, Inc. and cannot be modified by web visitors. We do not store your credit card number on our Web Site. 
 
 ### Navigational Information:
 
@@ -32,7 +32,7 @@ TechForLess.com logs the user's Internet Protocol Address (IP). An IP address is
 
 ### Cookies:
 
-A cookie is a small piece of information that web sites use to remember information about users. Tech for Less LLC uses session cookies to provide continuity from page to page. Within a single visit, these cookies store information such as your shopping list to simplify checkout. They do not contain any personally identifying information. You can disable your cookies at any time through your browser options. From time to time we allow 3rd parties to collect anonymous non-personally identifiable usage data. To read more about the industry standards and practices at NAI (Network Advertising Initiative) and to opt-out of certain networks, click <http://www.networkadvertising.org/managing>
+A cookie is a small piece of information that web sites use to remember information about users. Tech for Less, Inc. uses session cookies to provide continuity from page to page. Within a single visit, these cookies store information such as your shopping list to simplify checkout. They do not contain any personally identifying information. You can disable your cookies at any time through your browser options. From time to time we allow 3rd parties to collect anonymous non-personally identifiable usage data. To read more about the industry standards and practices at NAI (Network Advertising Initiative) and to opt-out of certain networks, click <http://www.networkadvertising.org/managing>
 
 ### Transactional Information:
 
@@ -44,15 +44,15 @@ We also protect your purchase by preventing the shipment of merchandise to a fra
 
 ### Managing your account:
 
-Personal information relating to you and your order history are only available to authorized Tech for Less LLC employees. You cannot edit this information online, unless you have created an account on our Web site. 
+Personal information relating to you and your order history are only available to authorized Tech for Less, Inc. employees. You cannot edit this information online, unless you have created an account on our Web site. 
 
 ### Opt-out:
 
-Tech for Less LLC will give visitors a choice whether they wish to be on the mailing list, receive promotions, information or updates about the site. The visitor may choose to remove their name from the site's mailing list by clicking the "remove" link at the bottom of any promotional email communication. 
+Tech for Less, Inc. will give visitors a choice whether they wish to be on the mailing list, receive promotions, information or updates about the site. The visitor may choose to remove their name from the site's mailing list by clicking the "remove" link at the bottom of any promotional email communication. 
 
 ### Data Sharing:
 
-Tech for Less LLC does not provide any third party with any individually identifiable information other than that which is necessary to complete your order. Specifically, Tech for Less LLC gives your name, shipping address, phone number, and order information to our shipping carrier. Tech for Less LLC also supplies your name, billing address, and credit card information to the credit card processor who bills your account. Tech for Less LLC has strict guidelines requiring all third parties to keep any shared personal information confidential. 
+Tech for Less, Inc. does not provide any third party with any individually identifiable information other than that which is necessary to complete your order. Specifically, Tech for Less, Inc. gives your name, shipping address, phone number, and order information to our shipping carrier. Tech for Less, Inc. also supplies your name, billing address, and credit card information to the credit card processor who bills your account. Tech for Less, Inc. has strict guidelines requiring all third parties to keep any shared personal information confidential. 
 
 ### Outside Links:
 
@@ -71,7 +71,7 @@ With Visa's Zero Liability policy*, your liability for unauthorized transactions
 
 ### Confirmation, Pricing and Availability Information:
 
-Tech for Less LLC makes every effort to get your order to you as soon as possible. All advertised products are in stock. Most orders ship the same business day when you place your order before 5pm MST. If there is a problem with your order you will receive an email providing more details about the problem within one business day. Special and Custom orders may take longer to process. 
+Tech for Less, Inc. makes every effort to get your order to you as soon as possible. All advertised products are in stock. Most orders ship the same business day when you place your order before 5pm MST. If there is a problem with your order you will receive an email providing more details about the problem within one business day. Special and Custom orders may take longer to process. 
 
 ### Payment information:
 
@@ -79,13 +79,13 @@ You may pay for your order with a Visa, MasterCard or American Express card. Ord
 
 ### Shipping Rates and Policies:
 
-Tech for Less LLC charges based on the weight and dimensions of the item. Add items to your shopping cart and then enter your zip code and click update. You will see your actual shipping charges. Shipments to Alaska and Hawaii may only be shipped by 2nd day or Next Day Air service. All orders are shipped using UPS, FedEx or other appropriate freight carrier. Tech for Less will ship products billed to our customers shipping account also. Delivery time varies depending on the service level selected. 
+Tech for Less, Inc. charges based on the weight and dimensions of the item. Add items to your shopping cart and then enter your zip code and click update. You will see your actual shipping charges. Shipments to Alaska and Hawaii may only be shipped by 2nd day or Next Day Air service. All orders are shipped using UPS, FedEx or other appropriate freight carrier. Tech for Less will ship products billed to our customers shipping account also. Delivery time varies depending on the service level selected. 
 
 ### Contact Information:
 
-Tech for Less LLC  
-1425 S. Curry Pike  
-Bloomington, IN 47403
+Tech for Less, Inc.  
+1610 Garden of the Gods Rd.  
+Colorado Springs, CO 80907
 
 M-F 8:00am to 6:00pm MST
 
