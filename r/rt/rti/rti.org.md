@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rti.org privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017083222id_/http%3A//www.rti.org/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rti.org privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529165937id_/http%3A//www.rti.org/privacy.cfm) for the most accurate reproduction.*
 
-# Privacy Policy - RTI International
+# RTI International: Privacy Policy
 
 This privacy policy applies to transactions and activities in which you engage ("Transactions") and to data you gather on this site (the "Site"). It does not apply to any other website or offline point of contact between you and RTI. By visiting our Site, you are accepting the practices described in the privacy policy in effect at the time of your visit.
 
@@ -9,11 +9,10 @@ This privacy policy applies to transactions and activities in which you engage (
 The commitment of RTI International to the protection of your information is summarized by the following principles:
 
   * We will not obtain personally identifying information about you when you visit our Site, unless you choose to provide such information to us.
-  * We will not share any personally identifying information about you with any third party without your permission, unless required by law (see [Terms of Use](http://www.rti.org/page.cfm?objectid=0D074E8A-F14A-54CC-188BC53FB9F32A3F)).
+  * We will not share any personally identifying information about you with any third party without your permission, unless required by law (see [Terms of Use](https://web.archive.org/page.cfm?objectid=0D074E8A-F14A-54CC-188BC53FB9F32A3F)).
 
 
 
-  
 The following sections provide more detail on how RTI will handle information obtained about your visit to this Site. The information we receive depends on what you do when visiting our Site.
 
 ##  If You Visit This Site to Read or Download Information
@@ -28,10 +27,9 @@ We collect and store only the following information about you:
 
 
 
-  
 We use this information to measure the number of visitors to the different sections of our Site, find out what information is most viewed, and to help us make our Site more useful to visitors.
 
-The information gathered is used for two purposes: management of the Site and, in the case of suspected unauthorized activity, for law enforcement and possible criminal prosecution (see [Terms of Use](http://www.rti.org/page.cfm?objectid=0D074E8A-F14A-54CC-188BC53FB9F32A3F)).
+The information gathered is used for two purposes: management of the Site and, in the case of suspected unauthorized activity, for law enforcement and possible criminal prosecution (see [Terms of Use](https://web.archive.org/page.cfm?objectid=0D074E8A-F14A-54CC-188BC53FB9F32A3F)).
 
 ##  If You Decide to Provide Iidentifying Information About Yourself
 
@@ -42,7 +40,6 @@ We may require you to provide us some personally identifying information if you 
 
 
 
-  
 In each case, the type of information needed to fulfill your request will be specified in a form on our Site, and typically includes only name and email. This personal information will be stored in our database and will only be used to provide the service you have requested. As stated earlier, we will not share this information with any third party, except if required by law.
 
 ##  Cookies and Other Information Stored on Your Computer
