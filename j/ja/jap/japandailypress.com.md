@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the japandailypress.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920011417id_/http%3A//japandailypress.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the japandailypress.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529221313id_/http%3A//japandailypress.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Japan Daily Press
 
@@ -17,6 +17,3 @@ Japan Daily Press includes links to other websites, and provides access to produ
 **Questions on Privacy**
 
 If you have questions or concerns about the children’s privacy statement, the privacy practices of the Japan Daily Press site, or your dealings with Japan Daily Press, please [contact us](http://japandailypress.com/contact/ "Contact Japan Daily Press").
-
-  
-
