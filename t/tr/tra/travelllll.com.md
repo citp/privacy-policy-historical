@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelllll.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223191752id_/http%3A//travelllll.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelllll.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529223956id_/http%3A//travelllll.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Travelllll.com
 
@@ -28,7 +28,7 @@ When you sign up for an Travelllll.com service or newsletter, your name or alias
 
 Travelllll.com will disclose personal information when required by law or in the good-faith belief that such action is necessary to:
 
- **1.** Conform to the edicts of the law or comply with a legal process served on Travelllll.com.  
+**1.** Conform to the edicts of the law or comply with a legal process served on Travelllll.com.  
 **2.** Protect and defend the rights or property of the Travelllll.com network of sites, or visitors to Travelllll.com.  
 **3.** Identify persons who may be violating the law, the legal notice, or the rights of third parties.  
 **4.** Co-operate with the investigations of purported unlawful activities.
