@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ambercoastcasino.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123215141id_/http%3A//www.eurogrand.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ambercoastcasino.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529080745id_/http%3A//www.eurogrand.com/privacy) for the most accurate reproduction.*
 
 # Privacy and Security- How Your Personal Data is Safeguarded
 
@@ -20,7 +20,8 @@ Your use of the Website and any of the content or applications available on it s
 
 2.4 If You do not wish to provide Your Information on the basis set out in this Privacy Policy You should not enter the relevant information in the spaces provided on the relevant part of any Website, or provide any of Your Information to us over the telephone. However if You do not provide such information, You may not be permitted to make full use of the relevant part of the Services.
 
-2.5 As part of the account registration process, We also offer visitors registering with us the opportunity to “opt out” from keeping them informed of future events, offers and promotions from the Operator. Visitors who wish to take this option should ‘untick’ the relevant box in the registration process. You may update Your marketing preferences at any time through ‘My Account/Update Marketing Preferences’ (or similar) section of the Website (where available) or by contacting Customer Services. If (where available) You have chosen to receive information on future events, offers and promotions by SMS message to Your cellular telephone, You may “opt out” of receiving such information at any time by replying with the word “STOP”.
+2.5 As part of the account registration process, We also offer visitors registering with us the opportunity to “opt out” from keeping them informed of future events, offers and promotions from the Operator. Visitors who wish to take this option should ‘untick’ the relevant box in the registration process. You may update Your marketing preferences at any time through ‘My Account/Update Marketing Preferences’ (or similar) section of the Website (where available) or by contacting Customer Services on telephone UK Freephone: 08000149451(International Phone: +442036678916) / http://www.eurogrand.com/support/, If (where available) You have chosen to receive information on future events, offers and promotions by SMS message to Your cellular telephone, You may “opt out” of receiving such information at any time by replying with the word “STOP”.  
+You can opt out of receiving emails at any time through the unsubscribe link found at the bottom of every email, or by contacting our support team at: support@eurogrand.com
 
   3.  **WHAT TYPE OF INFORMATION WE COLLECT AND HOW WE USE IT**
 
