@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the guru3x.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222071249id_/http%3A//guru3x.com/privacy-policy9-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guru3x.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529183556id_/http%3A//guru3x.com/privacy-policy9-2) for the most accurate reproduction.*
 
 # Privacy Policy » Guru Article Directory
-
-[Target Daily Deals - Save Over 40% on C9 Womens Fitted Bootcut Extended-Sizes Pants](http://gan.doubleclick.net/gan_click?lid=41000613802371529&pubid=21000000000555789)
 
 ## Privacy Policy
 
@@ -45,3 +43,5 @@ This policy and the use of this Site are governed by British law. If a dispute a
 If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration at the following location: London, under the rules of the London Court of International Arbitration. Judgment upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so.
 
 This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
+
+buy cheapest [replica watches](http://www.woawatches.net/) and [red bottom shoes](http://red-bottom-shoes-vip.webs.com/) for men and women here. swiss replica watch, [rolex replica](http://replica-rolex-store.webs.com/), tag heuer, omega, breitling, cartier, panerai, patek philippe, wholesale ladies [fake rolex](http://fake-rolex-shop.webs.com/) free shipping all over the world!
