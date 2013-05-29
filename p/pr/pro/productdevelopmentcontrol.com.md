@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the productdevelopmentcontrol.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010011943id_/http%3A//www.productdevelopmentcontrol.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the productdevelopmentcontrol.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529150513id_/http%3A//productdevelopmentcontrol.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Product Development Control
 
