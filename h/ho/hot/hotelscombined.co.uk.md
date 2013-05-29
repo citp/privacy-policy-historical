@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hotelscombined.co.uk privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014233546id_/http%3A//www.hotelscombined.co.uk/AboutUs/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotelscombined.co.uk privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529123026id_/http%3A//www.hotelscombined.co.uk/AboutUs/Privacy.aspx) for the most accurate reproduction.*
 
-# HotelsCombined.co.uk Privacy Statement
+# HotelsCombined.com Privacy Statement
 
 This website is powered by HotelsCombined Pty Ltd (ABN 61 122 130 554).
 
