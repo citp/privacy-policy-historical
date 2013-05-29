@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the picbadges.com privacy policy that was archived on 2012-12-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121225030757id_/http%3A//www.picbadges.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the picbadges.com privacy policy that was archived on 2013-05-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130529230005id_/http%3A//www.picbadges.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns#"><head profile="http://gmpg.org/xfn/11" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# picbadges: http://ogp.me/ns/fb/picbadges#">
 	<title>Privacy Policy « PicBadges</title>
@@ -12,15 +12,15 @@
 	<meta property="og:url" content="http://www.picbadges.com/privacy-policy/">
 	<link rel="canonical" href="http://www.picbadges.com/privacy-policy/">
         
-    <link rel="stylesheet" href="http://c443513.r13.cf2.rackcdn.com/2.6.5/css/all.css" media="screen" type="text/css">
+    <link rel="stylesheet" href="http://c443513.r13.cf2.rackcdn.com/2.7.3/css/all.css" media="screen" type="text/css">
     
-        	<link rel="shortcut icon" href="http://c443513.r13.cf2.rackcdn.com/2.6.5/favicon.ico">
-	    <script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.0/jquery.min.js"></script>
-    <script type="text/javascript" src="/jsconfig/?ver=2.6.5"></script>
+        	<link rel="shortcut icon" href="http://c443513.r13.cf2.rackcdn.com/2.7.3/favicon.ico">
+	    <script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.0/jquery.min.js"></script>
+    <script type="text/javascript" src="/jsconfig/?ver=2.7.3"></script>
     <script type="text/javascript" src="https://crossrider.cotssl.net/plugins/javascripts/crossriderAPI.js"></script>
 
     
-    <script type="text/javascript" src="http://c443513.r13.cf2.rackcdn.com/2.6.5/js/all.js"></script>
+    <script type="text/javascript" src="http://c443513.r13.cf2.rackcdn.com/2.7.3/js/all.js"></script>
     
             <script type="text/javascript">
 var googletag = googletag || {};
@@ -60,20 +60,27 @@ googletag.enableServices();
       _gaq.push(['_setCampMediumKey','fb_source']);
   }
 
-  var gadata = getGaUserData('2012-12-25');
+  var gadata = getGaUserData('2013-05-29');
   var visitorType = gadata[0];
   var authLevel = gadata[1];
   var connectSource = gadata[2];
 
-  _gaq.push(['_setCustomVar', 1, 'VisitorType', visitorType, 1]);
+if (visitorType) {
+	_gaq.push(['_setCustomVar', 1, 'VisitorType', visitorType, 1]);
+}
+
   _gaq.push(['_setCustomVar', 2, 'AuthLevel', authLevel, 2]);
   _gaq.push(['_setCustomVar', 3, 'ConnectSource', connectSource, 2]);
 
+    var pageType = 'thinPage';
+    if (typeof pageType !== 'undefined' && pageType == 'badgePage' && typeof gaPageData !== 'undefined') {
+  	_gaq.push(['_trackPageview', '/badge/' + gaPageData + '/']);
+  } else {
+  	_gaq.push(['_trackPageview']);
+  }
 
-  _gaq.push(['_trackPageview']);
   _gaq.push(['_setDomainName', 'picbadges.com']);
   _gaq.push(['_addIgnoredRef', 'picbadges.com']);
-  _gaq.push(['_trackPageLoadTime']);
 
   (function() {
 	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
@@ -88,7 +95,7 @@ googletag.enableServices();
 <div class="phead">
 	<div class="con">
 		<div class="left">
-			<h1><a href="/">PicBadges - Add a PicBadge to your profile picture!</a></h1>
+			<h1><a href="/" onclick="trackEvent('Flow_General', 'clickHeaderLogo')">PicBadges - Add a PicBadge to your profile picture!</a></h1>
 
 			<div class="fb-like" data-href="http://facebook.com/PicBadges" data-send="false" data-layout="button_count" data-width="100" data-show-faces="false" data-font="tahoma"></div>
 
@@ -122,13 +129,33 @@ googletag.enableServices();
 		</div>
 
 				<div class="loggedOut" id="loggedOut">
-		<a href="javascript:Twitt.login();" class="bttn twtr"><span class="ico"></span></a>
-		<a href="javascript:Fbook.login();" class="bttn fbook"><span class="ico"></span></a>
+		<a href="javascript:Twitt.login();" class="bttn twtr twHeaderLogin"><span class="ico"></span></a>
+		<a href="javascript:Fbook.login();" class="bttn fbook fbHeaderLogin"><span class="ico"></span></a>
 		<div>Sign in with:</div>
 		</div> 	</div>
 </div>
+<script type="text/javascript">
+	$(document).ready(function () {
+		$('.fbHeaderLogin').live('click', function () {
+			_gaq.push(['_trackEvent', 'Flow_Login', 'clickLoginFB', 'header']);
+		});
+		$('.twHeaderLogin').live('click', function () {
+			_gaq.push(['_trackEvent', 'Flow_Login', 'clickLoginTW', 'header']);
+		})
+		$('#facebox .fbook').live('click', function () {
+			_gaq.push(['_trackEvent', 'Flow_Login', 'clickLoginFB', 'modal']);
+		});
+		$('#facebox .twtr').live('click', function () {
+			_gaq.push(['_trackEvent', 'Flow_Login', 'clickLoginTW', 'modal']);
+		});
+		$('.phead .create').live('click', function() {
+			_gaq.push(['_trackEvent', 'Flow_Create', 'clickCreate', 'header']);
+		});
+	});
+</script>
 
 <div class="pmaster">
+		</div>
 <div class="pcontent">
 	<div class="con">
 <div class="noCol">
@@ -162,7 +189,7 @@ googletag.enableServices();
 			<div style="clear:both"></div>
 		</div>	
 	</div>
-</div>
+
 
 <div id="footer" class="pfoot">
 	<div class="con">
