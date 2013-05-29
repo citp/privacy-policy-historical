@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the watch-tvseries.net privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224022951id_/http%3A//watch-tvseries.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watch-tvseries.net privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529042658id_/http%3A//www.watch-tvseries.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
