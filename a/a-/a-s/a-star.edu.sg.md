@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the a-star.edu.sg privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231024236id_/http%3A//www.a-star.edu.sg/PrivacyStatement/tabid/768/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the a-star.edu.sg privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529035954id_/http%3A//www.a-star.edu.sg/PrivacyStatement/tabid/768/Default.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
 
