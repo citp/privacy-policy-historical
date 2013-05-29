@@ -1,234 +1,27 @@
-<!--The following is the downloaded HTML source of the loudwire.com privacy policy that was archived on 2012-12-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121218050848id_/http%3A//loudwire.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the loudwire.com privacy policy that was archived on 2013-05-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130529124305id_/http%3A//loudwire.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html dir="ltr" lang="en-US" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns#"><!--<![endif]--><head>
+<!DOCTYPE html><html dir="ltr" lang="en-US" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://ogp.me/ns/fb#"><!--<![endif]--><head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=1280">
 <title>Loudwire</title>
 
 <link id="design-fav" rel="shortcut icon" href="http://loudwire.production.townsquaresites.com/files/2011/07/lw-favicon.ico">
+<link rel="alternate" type="application/rss+xml" title="Loudwire » Feed" href="http://loudwire.com/feed/">
 <link rel="profile" href="http://gmpg.org/xfn/11">
 <link rel="stylesheet" type="text/css" media="all" href="http://wac.450F.edgecastcdn.net/80450F/loudwire.com/wp-content/themes/townsquare3-national/style.css">
-<link rel="alternate" type="application/rss+xml" title="Loudwire » Feed" href="http://loudwire.com/feed/">
 <link rel="stylesheet" id="weather-widget-css-css" href="http://wac.450F.edgecastcdn.net/80450F/loudwire.com/wp-content/plugins/weather-widget/resources/style.css?ver=3.4.2" type="text/css" media="all">
 <link rel="stylesheet" id="loyalty-alerts-admin-css" href="http://wac.450F.edgecastcdn.net/80450F/loudwire.com/wp-content/plugins/loyalty-alert-system/resources/css/admin.css?ver=3.4.2" type="text/css" media="all">
-<link rel="stylesheet" id="jquery-fancybox-css" href="http://wac.450F.edgecastcdn.net/80450F/loudwire.com/wp-content/mu-plugins/fancybox/vendor/jquery.fancybox-1.3.3.css?ver=e80cc3f2d07dfd9995805c406967c1539f1bbc56" type="text/css" media="all">
-<link rel="stylesheet" id="ts3-css" href="http://wac.450F.edgecastcdn.net/80450F/loudwire.com/css/ts3.css?ver=1354902188e80cc3f2d0" type="text/css" media="all">
-<link rel="stylesheet" id="tsc-fonts-css" href="http://wac.450F.edgecastcdn.net/80450F/loudwire.com/wp-content/themes/townsquare3/resources/css/fonts.css?ver=e80cc3f2d07dfd9995805c406967c1539f1bbc56" type="text/css" media="screen">
-<script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript">/* <![CDATA[ */function add_loyalty_points( activity, points, callback ) {
-	Loyalty_Points.add_points(activity, points, callback);
-}
-
-function remove_loyalty_points( activity, points, callback ) {
-	add_loyalty_points(activity, points*-1, callback);
-}
-
-function get_loyalty_user( activity, callback ) {
-	Loyalty_Points.get_user( activity, callback );
-}
-
-function update_loyalty_points( points ) {
-	Loyalty_Points.update_points(points);
-}
-
-function get_loyalty_point_value( activity ) {
-	return Loyalty_Points.get_point_value(activity);
-}
-
-function get_loyalty_activity_interval( activity ) {
-	return Loyalty_Points.get_interval(activity);
-}
-
-function Loyalty_User() {
-	this.last_request = 0;
-	this.status = 'OK';
-	this.error = '';
-	this.name = '';
-	this.email = '';
-	this.points = 0;
-	this.activities = {};
-}
-Loyalty_User.prototype.update = function ( data ) {
-	if ( typeof(data.status) == 'undefined' ) {
-		return; // if we don't have a status, we can't assume anything else if valid
-	}
-	this.status = data.status;
-	this.error = '';
-	if ( typeof(data.last_request) != 'undefined' ) {
-		this.last_request = data.last_request;
-	}
-	if ( typeof(data.error) != 'undefined' ) {
-		this.error = data.error;
-	}
-	if ( typeof(data.name) != 'undefined' ) {
-		this.name = data.name;
-	}
-	if ( typeof(data.email) != 'undefined' ) {
-		this.email = data.email;
-	}
-	if ( typeof(data.points) != 'undefined' ) {
-		this.points = data.points;
-	}
-	if ( typeof(data.activities) != 'undefined' ) {
-		// don't want to overwrite any existing activities that aren't set in data
-		for ( activity in data.activities ) {
-			this.activities[activity] = data.activities[activity];
-		}
-	}
-};
-
-Loyalty_Points = {
-	activities: {},
-	user: new Loyalty_User,
-
-	add_points: function( activity, points, callback ) {
-		if ( !activity ) {
-			return;
-		}
-		var url = '/api/loyalty';
-		url = url + '/' + activity;
-		if ( points ) {
-			url = url + '/' + points;
-		}
-		jQuery.ajax({
-			url: url,
-			data: { now: Math.round((new Date()).getTime() / 1000) }, // because IE loves to cache
-			success: function(data, textStatus) {
-				if ( data ) {
-					if ( typeof(data.points) != 'undefined' ) {
-						Loyalty_Points.update_points(data.points);
-					}
-					Loyalty_Points.user.update(data);
-					if ( callback ) {
-						callback(Loyalty_Points.user);
-					}
-				}
-			},
-			error: function(request, textStatus) {
-				var data = jQuery.parseJSON(request.response);
-				if ( data ) {
-					Loyalty_Points.user.update(data);
-					if ( callback ) {
-						callback(Loyalty_Points.user);
-					}
-				}
-			},
-			dataType: 'json'
-		});
-	},
-
-	get_user: function( activity, callback ) {
-		if ( !document.cookie.match(/_ts_logged_in=1/) ) {
-			return;
-		}
-		var url = '/api/loyalty/user';
-		if ( activity ) {
-			url = url + '/' + activity;
-		}
-		jQuery.ajax({
-			url: url,
-			data: {},
-			success: function(data, textStatus) {
-				if ( data ) {
-					Loyalty_Points.user.update(data);
-					if ( callback ) {
-						callback(Loyalty_Points.user);
-					}
-				}
-			},
-			error: function(request, textStatus) {
-				data = jQuery.parseJSON(request.response);
-				if ( data ) {
-					Loyalty_Points.user.update(data);
-					if ( callback ) {
-						callback(Loyalty_Points.user);
-					}
-				}
-			},
-			dataType: 'json'
-		});
-	},
-
-	update_points: function( points ) {
-		jQuery(".number-of-points").text(points);
-	},
-
-	get_point_value: function( activity ) {
-		var a = this.get_activity(activity);
-		if ( a != null ) {
-			return a.points;
-		}
-		return 0;
-	},
-
-	get_interval: function( activity ) {
-		var a = this.get_activity(activity);
-		if ( a != null ) {
-			return a.interval;
-		}
-		return 0;
-	},
-
-	get_activity: function( activity ) {
-		if ( !(typeof this.activities[activity] == 'undefined') ) {
-			return this.activities[activity];
-		}
-		return null;
-	}
-};
-
-Loyalty_Points.activities = {"loyalty_manual_entry":{"points":10,"point_override":true,"maximum":-1,"daily_maximum":-1,"request_maximum":-1,"interval":5,"label":"Manual Entry","immutable":2},"loyalty_new_user":{"points":2500,"point_override":false,"maximum":2500,"daily_maximum":2500,"request_maximum":-1,"interval":15,"label":"User Registration","immutable":true,"superimmutable":false},"loyalty_migrate_user":{"points":10,"point_override":true,"maximum":-1,"daily_maximum":-1,"request_maximum":-1,"interval":5,"label":"Migrate User","immutable":2},"prize":{"points":10,"point_override":true,"maximum":-1,"daily_maximum":-1,"request_maximum":-1,"interval":5,"label":"Prize","immutable":2},"loyalty_code_listen":{"points":2500,"point_override":true,"maximum":-1,"daily_maximum":40000,"request_maximum":-1,"interval":15,"expiration":0,"label":"Listen & Win","immutable":true,"superimmutable":true},"loyalty_code_bonus":{"points":1000,"point_override":true,"maximum":-1,"daily_maximum":20000,"request_maximum":-1,"interval":15,"expiration":0,"label":"Bonus Code","immutable":true,"superimmutable":true},"loyalty_game_blkjack":{"points":10,"point_override":true,"maximum":-1,"daily_maximum":1000000,"request_maximum":-1,"interval":3,"expiration":0,"label":"Blackjack","immutable":true,"superimmutable":false},"loyalty_game_slots":{"points":10,"point_override":true,"maximum":-1,"daily_maximum":1000000,"request_maximum":-1,"interval":3,"expiration":0,"label":"Slot Machine","immutable":true,"superimmutable":false},"loyalty_game_scratch":{"points":10,"point_override":true,"maximum":-1,"daily_maximum":1000000,"request_maximum":-1,"interval":3,"expiration":0,"label":"Scratch & Win","immutable":true,"superimmutable":false},"loyalty_ftlink_link":{"points":250,"point_override":false,"maximum":-1,"daily_maximum":20000,"request_maximum":-1,"interval":3,"expiration":0,"label":"Featured Link","immutable":true,"superimmutable":false},"loyalty_ftlink_land":{"points":10,"point_override":false,"maximum":-1,"daily_maximum":20000,"request_maximum":-1,"interval":15,"expiration":0,"label":"Landing","immutable":true,"superimmutable":false},"loyalty_trivia":{"points":1000,"point_override":true,"maximum":-1,"daily_maximum":20000,"request_maximum":-1,"interval":15,"expiration":0,"label":"Trivia","immutable":true,"superimmutable":false},"loyalty_qa_poll":{"points":500,"point_override":false,"maximum":-1,"daily_maximum":20000,"request_maximum":-1,"interval":15,"expiration":0,"label":"Poll","immutable":true,"superimmutable":false},"loyalty_qa_quiz":{"points":1000,"point_override":false,"maximum":-1,"daily_maximum":20000,"request_maximum":-1,"interval":15,"expiration":0,"label":"Quiz","immutable":true,"superimmutable":false},"loyalty_qa_survey":{"points":1500,"point_override":true,"maximum":-1,"daily_maximum":20000,"request_maximum":-1,"interval":15,"expiration":0,"label":"Survey","immutable":true,"superimmutable":true},"loyalty_purch_trade":{"points":1000,"point_override":true,"maximum":-1,"daily_maximum":-1,"request_maximum":-1,"interval":5,"expiration":0,"label":"Trade-in","immutable":true,"superimmutable":false},"loyalty_purch_coupon":{"points":500,"point_override":true,"maximum":-1,"daily_maximum":-1,"request_maximum":-1,"interval":5,"expiration":0,"label":"Coupon","immutable":false,"superimmutable":false},"loyalty_ct_custom":{"points":500,"point_override":true,"maximum":-1,"daily_maximum":-1,"request_maximum":-1,"interval":15,"expiration":0,"label":"Featured Contest","immutable":true,"superimmutable":false},"loyalty_ct_standard":{"points":500,"point_override":true,"maximum":-1,"daily_maximum":-1,"request_maximum":-1,"interval":15,"expiration":0,"label":"Contest","immutable":true,"superimmutable":false},"Radio Page Counter":{"points":250,"point_override":false,"maximum":-1,"daily_maximum":20000,"request_maximum":-1,"interval":900,"expiration":0,"active":true,"immutable":true,"superimmutable":false}};
-/* ]]> */</script><script type="text/javascript">
-/* <![CDATA[ */
-var $adminAjax = {"url":"http:\/\/loudwire.com\/wp-admin\/admin-ajax.php"};
-/* ]]> */
-</script>
-<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/loudwire.com/wp-content/plugins/jquery-updater/js/jquery-1.7.2.min.js?ver=1.7.2"></script>
-<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/loudwire.com/wp-content/plugins/crossposting/resources/crossposting.js?ver=2012-09-06"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var NowPlaying = {"refresh":"0"};
-/* ]]> */
-</script>
-<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/loudwire.com/wp-content/mu-plugins/now-playing/resources/now-playing.js?ver=e80cc3f2d07dfd9995805c406967c1539f1bbc56"></script>
-<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/loudwire.com/wp-content/plugins/events/resources/events.js?ver=3.4.2"></script>
-<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/loudwire.com/wp-content/themes/townsquare3/resources/js/html5.js?ver=e80cc3f2d07dfd9995805c406967c1539f1bbc56"></script>
-<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/loudwire.com/wp-content/plugins/google-analyticator/external-tracking.min.js?ver=6.1.1"></script>
+<link rel="stylesheet" id="jquery-fancybox-css" href="http://wac.450F.edgecastcdn.net/80450F/loudwire.com/wp-content/mu-plugins/fancybox/vendor/jquery.fancybox-1.3.3.css?ver=97c938a0e92f178ae4683be08921c498ae2797a1" type="text/css" media="all">
+<link rel="stylesheet" id="ts3-css" href="http://wac.450F.edgecastcdn.net/80450F/loudwire.com/css/ts3.css?ver=136906646497c938a0e9" type="text/css" media="all">
+<link rel="stylesheet" id="facebook_auth-css" href="http://wac.450F.edgecastcdn.net/80450F/loudwire.com/wp-content/plugins/facebook-apps/css/facebook-auth.css?ver=97c938a0e92f178ae4683be08921c498ae2797a1" type="text/css" media="all">
+<link rel="stylesheet" id="bbp-default-bbpress-css" href="http://wac.450F.edgecastcdn.net/80450F/loudwire.com/wp-content/plugins/bbpress/bbp-theme-compat/css/bbpress.css?ver=2.1.2" type="text/css" media="screen">
+<script id="twitter-wjs" src="http://platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/loudwire.com/wp-content/plugins/jquery-updater/js/jquery-1.7.2.min.js?ver=1.7.2"></script>
+<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/loudwire.com/wp-content/themes/townsquare3/resources/js/html5.js?ver=97c938a0e92f178ae4683be08921c498ae2797a1"></script>
+<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/loudwire.com/wp-content/plugins/google-analyticator/external-tracking.min.js?ver=6.1.1.d"></script>
+<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/loudwire.com/wp-content/plugins/google-analyticator/content-scrolling.js?ver=6.1.1.d"></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://loudwire.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://loudwire.com/wp-includes/wlwmanifest.xml"> 
-
-<!-- All in One SEO Pack - Pro Version 1.72 by Michael Torbert of Semper Fi Web Design[811,849] -->
-<meta name="description" content="Rock music news, interviews, reviews and more from rock artists.">
-<meta name="keywords" content="rock news, rock music">
-<link rel="canonical" href="http://loudwire.com/">
-<!-- /all in one seo pack Pro Version-->
-<meta property="fb:app_id" content="222651877772174">
-<meta property="fb:admins" content="581803834,583052867,100002025987268,732998853,8802808">
-<meta property="og:title" content="Loudwire">
-<meta property="og:site_name" content="Loudwire">
-<meta property="og:url" content="http://loudwire.com">
-<meta property="og:description" content="Rock music news, interviews, reviews and more from rock artists.">
-<meta property="og:type" content="blog">
-<meta property="og:image" content="http://wac.450F.edgecastcdn.net/80450F/loudwire.com/files/2012/01/loudwire_340x100.jpg">
-
-                <script>
-                    if(typeof(oKETool)=="undefined") oKETool = {};
-                    oKETool.pluginsUrl = "http://loudwire.com/wp-content/plugins/";
-                    oKETool.themePlugin = "http://loudwire.com/wp-content/themes/townsquare3-national/plugins/";
-                </script>
-            <!-- Begin comScore Tag -->
-<script>
-	var _comscore = _comscore || [];
-	_comscore.push({ c1: "2", c2: "6665296" });
-	(function() {
-		var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true; s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
-		el.parentNode.insertBefore(s, el);
-	})();
-</script>
-
-<noscript>
-<img src="http://b.scorecardresearch.com/p?c1=2&c2=6665296&cv=2.0&cj=1" /> </noscript>
-<!-- End comScore Tag -->
 <!-- Google Ads Start -->
 <script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
 </script>
@@ -262,33 +55,75 @@ GA_googleAddSlot("ca-pub-5913157830665197", "TSM_LOUD_CUSTOM2_1X1");
 GA_googleFetchAds();
 </script>
 <!-- Google Ads End -->
-<style type="text/css" media="all">
+
+<!-- All in One SEO Pack - Pro Version 1.72 by Michael Torbert of Semper Fi Web Design[631,669] -->
+<meta name="description" content="Rock music news, interviews, reviews and more from rock artists.">
+<meta name="keywords" content="rock news, rock music">
+<link rel="canonical" href="http://loudwire.com/">
+<!-- /all in one seo pack Pro Version-->
+<meta property="fb:app_id" content="222651877772174">
+<meta property="fb:admins" content="581803834">
+<meta property="fb:admins" content="583052867">
+<meta property="fb:admins" content="100002025987268">
+<meta property="fb:admins" content="732998853">
+<meta property="fb:admins" content="8802808">
+<meta property="og:title" content="Loudwire">
+<meta property="og:description" content="">
+<meta property="og:url" content="http://loudwire.com/">
+<meta property="og:site_name" content="Loudwire">
+<meta property="og:type" content="blog">
+<meta property="og:image" content="http://wac.450F.edgecastcdn.net/80450F/loudwire.com/files/2012/01/loudwire_340x100.jpg">
+
+		<script type="text/javascript" charset="utf-8">
+			/* <![CDATA[ */
+			var ajaxurl = 'http://loudwire.com/wp-admin/admin-ajax.php';
+
+						/* ]]> */
+		</script>
+
+	<script type="text/javascript">if(ajaxurl == undefined) { var ajaxurl = "http://loudwire.com/wp-admin/admin-ajax.php"; }</script><style type="text/css" media="all">
 /* <![CDATA[ */
 @import url("http://wac.450F.edgecastcdn.net/80450F/loudwire.com/wp-content/plugins/wp-table-reloaded/css/plugin.css?ver=1.9.3");
 @import url("http://wac.450F.edgecastcdn.net/80450F/loudwire.com/wp-content/plugins/wp-table-reloaded/css/datatables.css?ver=1.9.3");
 /* ]]> */
-</style>
+</style><!-- Begin comScore Tag -->
+<script>
+	var _comscore = _comscore || [];
+	_comscore.push({ c1: "2", c2: "6665296" });
+	(function() {
+		var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true; s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+		el.parentNode.insertBefore(s, el);
+	})();
+</script>
+
+<noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&c2=6665296&cv=2.0&cj=1" /> </noscript>
+<!-- End comScore Tag -->
+
 <link rel="apple-touch-icon-precomposed" href="http://wac.450F.edgecastcdn.net/80450F/loudwire.com/files/2012/01/loudwire57.gif">
 
 <link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://wac.450F.edgecastcdn.net/80450F/loudwire.com/files/2012/01/loudwire114.gif">
 
 <link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://wac.450F.edgecastcdn.net/80450F/loudwire.com/files/2012/01/loudwire72.gif">
-<!-- Google Analytics Tracking by Google Analyticator 6.1.1: http://ronaldheft.com/code/analyticator/ -->
+<!-- Google Analytics Tracking by Google Analyticator 6.1.1.d: http://ronaldheft.com/code/analyticator/ -->
 <script type="text/javascript">
-	var analyticsFileTypes = [''];
-	var analyticsEventTracking = 'enabled';
+var analyticsFileTypes = [''];
+var analyticsEventTracking = 'enabled';
 </script>
 <script type="text/javascript">
 var _gaq_author = 'Loudwire';
+var _gaq_categories = '';
 var _gaq = _gaq || [];
 _gaq.push(['_setAccount', 'UA-19109753-12']);
 _gaq.push(['_setCampaignCookieTimeout', 0]);
 _gaq.push(['_setAllowHash', false]);
 _gaq.push(['_setCustomVar', 1, 'Author', _gaq_author, 3]);
+_gaq.push(['_setCustomVar', 2, 'Categories', _gaq_categories, 3]);
 _gaq.push(['_trackPageview']);
 _gaq.push(['_setAccount', 'UA-19109753-15']);
 _gaq.push(['_setCampaignCookieTimeout', 0]);
 _gaq.push(['_setAllowHash', false]);
+_gaq.push(['_setCustomVar', 2, 'Categories', _gaq_categories, 3]);
 _gaq.push(['_trackPageview']);
 
 	(function() {
@@ -299,15 +134,17 @@ _gaq.push(['_trackPageview']);
 </script>
 </head>
 
-<body class="home blog top_banner onetone clear-sidebar-header block-listen-bar template-landing template-landing-home">
-<div id="takeover_wrap" class="body_child"><div id="top_banner" class="clearfix"><!-- /TSM_LOUD_LEADERBOARD -->
-	<script src="http://ad.doubleclick.net/adj/loudwire.mmn/home;id=109545;pos=top;genre=rock;dc_ref=http%3A%2F%2Floudwire.com;dcopt=ist;tile=1;sz=728x90;ord=1355807328?"></script></div><div class="google_ad_custom_1x1_wrap"><!-- /TSM_LOUD_CUSTOM_1X1 -->
-	<script src="http://ad.doubleclick.net/adj/loudwire.mmn/home;id=109545;pos=top;genre=rock;dc_ref=http%3A%2F%2Floudwire.com;dcopt=ist;tile=2;sz=1X1;ord=1355807328?"></script></div><div class="google_ad_custom2_1x1_wrap"></div><div id="fb-root"></div>
+<body class="home blog onetone clear-sidebar-header block-listen-bar">
+<div id="takeover_wrap" class="body_child">
+<div id="top_banner" class="tsmAd clearfix"><!-- /TSM_LOUD_LEADERBOARD -->
+	<script src="http://ad.doubleclick.net/adj/loudwire.mmn/home;id=142872;pos=top;genre=rock;dc_ref=http%3A%2F%2Floudwire.com;dcopt=ist;tile=1;sz=728x90;ord=1369831384?"></script></div><div class="google_ad_custom_1x1_wrap"><!-- /TSM_LOUD_CUSTOM_1X1 -->
+	<script src="http://ad.doubleclick.net/adj/loudwire.mmn/home;id=142872;pos=top;genre=rock;dc_ref=http%3A%2F%2Floudwire.com;dcopt=ist;tile=2;sz=1X1;ord=1369831384?"></script></div><div class="google_ad_custom2_1x1_wrap"><!-- /TSM_LOUD_CUSTOM2_1X1 -->
+	<script src="http://ad.doubleclick.net/adj/loudwire.mmn/home;id=142872;pos=top;genre=rock;dc_ref=http%3A%2F%2Floudwire.com;dcopt=ist;tile=3;sz=1X1;ord=1369831384?"></script></div><div id="fb-root"></div>
 <script>
 	window.fbAsyncInit = function() {
 		FB.init({
 			appId      : '222651877772174', // App ID from the App Dashboard
-			channelUrl : 'http://loudwire.com/wp-content/plugins/facebook-apps/views/client/channel.php', // Channel File for x-domain communication
+			channelUrl : 'http://loudwire.com/wp-content/plugins/facebook-apps/views/channel.php', // Channel File for x-domain communication
 			status     : true,
 			cookie     : true,
 			xfbml      : true,
@@ -327,48 +164,48 @@ _gaq.push(['_trackPageview']);
                 <form method="get" action="http://loudwire.com/" class="search_form">
             <label for="search_input">Search</label>
             <input type="submit" name="submit_button" alt="Search" class="search_icon" value="">
-            <input type="text" id="search_input" name="s" value="" size="15" onblur="if (this.value == '')  {this.value = '';}" onfocus="if (this.value == '') {this.value = '';}">
+            <input type="text" id="search_input" name="s" value="Search" size="15" onblur="if (this.value == '')  {this.value = 'Search';}" onfocus="if (this.value == 'Search') {this.value = '';}">
         </form>
     </div>
     <a class="contactUs" href="/help/">Contact Us</a>
     <div id="sso">
-        <span class="sso_links"><img class="fbicon" src="http://wac.450F.edgecastcdn.net/80450F/loudwire.com/wp-content/plugins/tsm-wp-fb-autoconnect/images/fbicon.png"><a class="login_modal_link" href="http://loudwire.com/login/?referer=http://loudwire.com/privacy">Sign In</a> | <a class="register_modal_link" href="http://loudwire.com/registration/">Sign Up</a></span>
+        <span class="sso_links"><img src="http://wac.450f.edgecastcdn.net/80450F/production.townsquaresites.com/wp-content/uploads/2013/04/fbicon.png"><a class="fb-auth-login-link" href="#fb-auth-login">Sign In</a> | <a class="fb-auth-registration-link" href="#fb-auth-registration">Sign Up</a></span>
     </div><!-- // #sso.right -->
 </header><!-- // #header_nav. -->
 
 <div id="main_container" class="clearfix">
-    
-<nav class="main">
+    <nav class="main">
 	<div class="menu-navigation-container"><ul id="menu-navigation" class="menu"><li id="menu-item-773" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-773"><a title="Loudwire" href="/"><span class="nav_item">Home</span></a></li>
+<li id="menu-item-112674" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-112674"><a title="Rock News" href="http://loudwire.com/rock/?nav"><span class="nav_item">Rock</span></a></li>
+<li id="menu-item-112675" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-112675"><a title="Metal News" href="http://loudwire.com/metal/?nav"><span class="nav_item">Metal</span></a></li>
 <li id="menu-item-98858" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-98858"><a title="Rock News" href="http://loudwire.com/category/news/?nav"><span class="nav_item">News</span></a></li>
 <li id="menu-item-98860" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-98860"><a title="Rock Lists" href="http://loudwire.com/category/lists/?nav"><span class="nav_item">Lists</span></a></li>
 <li id="menu-item-98868" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-98868"><a title="Rock Songs" href="http://loudwire.com/category/songs/?nav"><span class="nav_item">Songs</span></a></li>
-<li id="menu-item-98869" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-98869"><a title="Rock Videos" href="http://loudwire.com/category/videos/?nav"><span class="nav_item">Videos</span></a></li>
-<li id="menu-item-98872" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-98872"><a title="Rock Concerts" href="http://loudwire.com/category/concerts/?nav"><span class="nav_item">Concerts</span></a></li>
+<li id="menu-item-132865" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-132865"><a title="HD Music Videos" href="http://loudwire.com/music-videos/?nav"><span class="nav_item">Videos</span></a></li>
+<li id="menu-item-125904" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-125904"><a title="Festivals" href="http://loudwire.com/rock-music-festivals/"><span class="nav_item">Festivals</span></a></li>
 <li id="menu-item-98865" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-98865"><a title="Cage Match" href="http://loudwire.com/category/cage-match/?nav"><span class="nav_item">Cage Match</span></a></li>
-<li id="menu-item-98866" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-98866"><a title="WTF News" href="http://loudwire.com/category/wtf/?nav"><span class="nav_item">WTF</span></a></li>
-</ul></div>
-	<div class="social_icons size_24">
-					<a href="http://www.facebook.com/loudwire" title="Follow on facebook" class="share_link facebook" target="_blank"><span class="social_icon">follow on facebook</span></a>
-		
-		<!--<a href="http://loudwire.com/feed/" title="Subscribe via RSS" class="share_link rss"><span class="social_icon">Subscribe via RSS</span></a>-->
-
-					<a href="http://twitter.com/Loudwire" title="Follow on Twitter" class="share_link twitter" target="_blank"><span class="social_icon">follow on Twitter</span></a>
-		
-							<a class="tip-us" href="mailto:staff@loudwire.com">Tip Us</a>
-			</div><!-- // #.social_icons -->
+</ul></div>	<div class="social_icons">
+				<a href="http://www.facebook.com/loudwire" title="Follow on facebook" class="share_link facebook" target="_blank">
+			<span class="social_icon">follow on facebook</span>
+		</a>
+		<a href="http://twitter.com/Loudwire" title="Follow on Twitter" class="share_link twitter twitter-follow-button" data-size="large" data-show-screen-name="false" data-show-count="false" data-width="80px">
+		<span class="social_icon">Follow on Twitter</span>
+	</a>
+	<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="http://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+		</div><!-- // #.social_icons -->
 
 </nav><!-- // nav -->
 
 	<div id="promo_links" class="horizontal_navigation clearfix alt_link_color">
 	<div class="menu-promo-links-container"><ul id="menu-promo-links" class="menu"><li id="menu-item-76698" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-76698"><a>Trending:</a></li>
-<li id="menu-item-109147" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-109147"><a title="Randy Blythe Trial" href="http://loudwire.com/lamb-of-god-randy-blythe-czech-manslaughter-trial-date/?trending">Randy Blythe Trial</a></li>
-<li id="menu-item-109264" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-109264"><a title="Nirvana-McCartney Song" href="http://loudwire.com/tags/nirvana/?trending">Nirvana-McCartney Song</a></li>
-<li id="menu-item-107351" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-107351"><a title="2012 Loudwire Music Awards" href="http://loudwire.com/rock-song-of-the-year-2012-loudwire-music-awards/?trending">2012 Loudwire Music Awards</a></li>
-<li id="menu-item-96606" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-96606"><a href="http://loudwire.com/mariqueen-maandig-hottest-rockstar-wives/?trending">Hot Rockstar Wives</a></li>
-<li id="menu-item-109359" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-109359"><a title="Top 21st Century Hard Rock Songs" href="http://loudwire.com/top-hard-rock-songs-21st-century/?trending">Top 21st Century Hard Rock Songs</a></li>
+<li id="menu-item-142477" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-142477"><a title="Stone Temple Pilots Dispute" href="http://loudwire.com/tags/stone-temple-pilots/?trending">Stone Temple Pilots Dispute</a></li>
+<li id="menu-item-142909" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-142909"><a href="http://loudwire.com/nine-inch-nails-new-album-2013/?trending">New Nine Inch Nails Album</a></li>
+<li id="menu-item-142910" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-142910"><a href="http://loudwire.com/shinedown-papa-roach-skillet-in-this-moment-2013-carnival-of-madness-tour/?trending">Carnival of Madness 2013</a></li>
+<li id="menu-item-139425" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-139425"><a title="As I Lay Dying Murder-for-Hire Case" href="http://loudwire.com/tags/tim-lambesis/?trending">As I Lay Dying Murder-for-Hire Case</a></li>
+<li id="menu-item-138518" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-138518"><a title="Jeff Hanneman" href="http://loudwire.com/tags/slayer/?trending">Jeff Hanneman</a></li>
 </ul></div>	</div>
-<div id="pushdown_ad" class="clearfix"></div>    <div id="content" class=" clearfix">
+<div id="pushdown_ad" class="tsmAd clearfix"><!-- /TSM_LOUD_PUSHDOWN -->
+	<script src="http://ad.doubleclick.net/adj/loudwire.mmn/home;id=142872;pos=top;genre=rock;dc_ref=http%3A%2F%2Floudwire.com;dcopt=ist;tile=4;sz=;ord=1369831384?"></script></div>    <div id="content" class=" clearfix">
 
 
 
@@ -380,368 +217,417 @@ _gaq.push(['_trackPageview']);
 
 
 <div id="content_main" class="clearfix">
-    <section class="single page">
-        <article class="footer_link_legal">
-    <h1>Privacy</h1>
-    <div class="the_content">
-            <h3>About LOUDWIRE.COM</h3>
+	<section class="single page">
+		<article class="footer_link_legal">
+			<h1>Privacy</h1>
+			<div class="the_content">
+			<h3>About LOUDWIRE.COM</h3>
 
-        <p>This Privacy Policy is an integral part of the agreement between Townsquare Media, LLC ("Townsquare" or "we" or "us") and each visitor or registered user, as the case may be (each, a "user" or "you") concerning the use of the websites, including this website, owned, controlled, operated or hosted (whether now or in the future) by Townsquare and/or its corporate affiliates, including but not limited to LOUDWIRE.COM (collectively the "Websites"). The other integral part of this agreement is the Townsquare <a href="/terms">Terms of Use</a>.  All capitalized terms used herein that are not otherwise defined in this Privacy Policy shall be defined in the <a href="/terms">Terms of Use</a>.  If you have any questions concerning this Privacy Policy, please email us at <a href="http://loudwire.com/?geo-address=fgnssAybhqjverNpbz" class="geo-address share_link email">staff@loudwire.com</a>.</p>
+<p>This Privacy Policy is an integral part of the agreement between Townsquare Media, LLC ("Townsquare" or "we" or "us") and each visitor or registered user, as the case may be (each, a "user" or "you") concerning the use of the websites, including this website, owned, controlled, operated or hosted (whether now or in the future) by Townsquare and/or its corporate affiliates, including but not limited to LOUDWIRE.COM (collectively the "Websites"). The other integral part of this agreement is the Townsquare <a href="/terms">Terms of Use</a>.  All capitalized terms used herein that are not otherwise defined in this Privacy Policy shall be defined in the <a href="/terms">Terms of Use</a>.  If you have any questions concerning this Privacy Policy, please email us at <a href="http://loudwire.com/?geo-address=fgnssAybhqjverNpbz" class="geo-address ">staff@loudwire.com</a>.</p>
 
-        <h3>Information Collection and Use by the Websites</h3>
+<h3>Information Collection and Use by the Websites</h3>
 
-        <p>The Websites gather identifying information about individuals only when individuals provide that information on a voluntary basis pursuant to the voluntary registration process for the Websites. Such information includes, but is not limited to, name, age, gender, email address, cell phone number, personal interests, and physical address. We use this voluntary profile data to, (a) authenticate users, (b) send notifications to users relating to the Websites, (c) assist users in communicating with each other, and (d) make offers to users that we believe may be of interest to them based on their personal profile data. With the exception of email address, physical address and cell phone number, registered users' voluntary personal profile information, including pictures, are displayed to other registered users in order to facilitate user interaction. Registered users' user names are displayed to all users, although each verified user has the option of having his or her full name displayed to all users instead of his or her user name. Under no circumstances are email addresses, physical addresses and cell phone numbers directly revealed to other users or disclosed to third parties other than as set forth below in the "Sharing and Disclosure of Information" section.</p>
+<p>The Websites gather identifying information about individuals only when individuals provide that information on a voluntary basis pursuant to the voluntary registration process for the Websites. Such information includes, but is not limited to, name, age, gender, email address, cell phone number, personal interests, and physical address. We use this voluntary profile data to, (a) authenticate users, (b) send notifications to users relating to the Websites, (c) assist users in communicating with each other, and (d) make offers to users that we believe may be of interest to them based on their personal profile data. With the exception of email address, physical address and cell phone number, registered users' voluntary personal profile information, including pictures, are displayed to other registered users in order to facilitate user interaction. Registered users' user names are displayed to all users, although each verified user has the option of having his or her full name displayed to all users instead of his or her user name. Under no circumstances are email addresses, physical addresses and cell phone numbers directly revealed to other users or disclosed to third parties other than as set forth below in the "Sharing and Disclosure of Information" section.</p>
 
-        <p>We also log non-personally identifiable information about use of the Websites, including, but not limited to, IP address, profile information, pages visited, and browser type, from users of the Websites. This data is used for, among other things, to provide customized content to users, provide targeted offers to users, manage the site, track usage and improve the site services. This non-personally identifiable information may be shared with third-parties to provide more relevant services and advertisements to users.  User IP addresses are recorded for security and monitoring purposes.</p>
+<p>We also log non-personally identifiable information about use of the Websites, including, but not limited to, IP address, profile information, pages visited, and browser type, from users of the Websites. This data is used for, among other things, to provide customized content to users, provide targeted offers to users, manage the site, track usage and improve the site services. This non-personally identifiable information may be shared with third-parties to provide more relevant services and advertisements to users.  User IP addresses are recorded for security and monitoring purposes.</p>
 
-        <p>Users must provide us, at a minimum, with a valid email address in order to complete the voluntary registration process. Email addresses are used to send notifications related to the Websites and to communicate offers. Registered users may communicate with each other through the Websites without disclosing their email addresses.</p>
+<p>Users must provide us, at a minimum, with a valid email address in order to complete the voluntary registration process. Email addresses are used to send notifications related to the Websites and to communicate offers. Registered users may communicate with each other through the Websites without disclosing their email addresses.</p>
 
-        <p>Cell phone numbers are used to send SMS (short Message Service), text and voice message notifications related to the Websites and to communicate offers. Registered users may choose not to receive text messages from us by not providing their cell phone number to us at registration. Registered users who have provided their cell phone number to us may remove it from within their personal profile settings. Please note that standard message rates and data charges from your cellular service provider apply to sending and/or receiving text messages. You are solely responsible for such message rates and data charges.</p>
+<p>Cell phone numbers are used to send SMS (short Message Service), text and voice message notifications related to the Websites and to communicate offers. Registered users may choose not to receive text messages from us by not providing their cell phone number to us at registration. Registered users who have provided their cell phone number to us may remove it from within their personal profile settings. Please note that standard message rates and data charges from your cellular service provider apply to sending and/or receiving text messages. You are solely responsible for such message rates and data charges.</p>
 
-        <p>We do not sell or make available any individual user information to unrelated third parties, except to third parties that are providing services to the Websites or as provided in the "Sharing and Disclosure of Information" section below. We may aggregate user information for the purpose of user analyses and inform advertisers of the results of such analyses. In all such instances, we  will refer only to general, aggregate usage data from these analyses and will never provide specific identifying information. We may also aggregate user information for the purpose of making offers to users that we believe may be of interest to them.</p>
+<p>We do not sell or make available any individual user information to unrelated third parties, except to third parties that are providing services to the Websites or as provided in the "Sharing and Disclosure of Information" section below. We may aggregate user information for the purpose of user analyses and inform advertisers of the results of such analyses. In all such instances, we  will refer only to general, aggregate usage data from these analyses and will never provide specific identifying information. We may also aggregate user information for the purpose of making offers to users that we believe may be of interest to them.</p>
 
-        <p>From time to time, Townsquare or a partner, may sponsor a promotion, sweepstakes or contest on the Websites.  Users may be asked to provide personal information including name, email address or home address or to answer question in order to participate.  We may transfer personal information to certain ad partners that you have explicitly required to receive information from.  It will be clear at the point of collection who is collecting the personal information and whose privacy statement will apply.</p>
+<p>From time to time, Townsquare or a partner, may sponsor a promotion, sweepstakes or contest on the Websites.  Users may be asked to provide personal information including name, email address or home address or to answer question in order to participate.  We may transfer personal information to certain ad partners that you have explicitly required to receive information from.  It will be clear at the point of collection who is collecting the personal information and whose privacy statement will apply.</p>
 
-        <p>Third parties can read information voluntarily posted by registered users on the Websites. That information can be used by those third parties to send you unsolicited messages. We have no control over such unsolicited messages.</p>
+<p>Third parties can read information voluntarily posted by registered users on the Websites. That information can be used by those third parties to send you unsolicited messages. We have no control over such unsolicited messages.</p>
 
-        <p>By using any of the Websites, you affirmatively consent to this Privacy Policy and agree to have your personal information (to the extent disclosed by you to the Websites) collected by the Websites (or its agents or contractors).</p>
+<p>By using any of the Websites, you affirmatively consent to this Privacy Policy and agree to have your personal information (to the extent disclosed by you to the Websites) collected by the Websites (or its agents or contractors).</p>
 
-        <h3>User Content</h3>
+<h3>User Content</h3>
 
-        <p>Any information that you disclose when participating on the Websites (including creating a profile or submitting a comment to a story, a video or in a discussion thread), such as your full name and any nickname, is likely to become public. This information may be posted on the Websites. In addition, Townsquare, its affiliates and their licensees, may use, copy, sublicense, modify, transmit, publicly perform, display, create derivative works of, host, index, cache, tag, encode, and/or adapt any user Content, and any information contained therein, in any and all media formats or channels, whether now known or thereafter devised, including, but not limited to, the Websites, other Townsquare services, over the air and on mobile platforms. Further, other users of the Websites may embed a widget or feed that allows your user Content to appear on their personal, noncommercial website or page, blog or other application, subject to conditions set forth in the Terms of Use.</p>
+<p>Any information that you disclose when participating on the Websites (including creating a profile or submitting a comment to a story, a video or in a discussion thread), such as your full name and any nickname, is likely to become public. This information may be posted on the Websites. In addition, Townsquare, its affiliates and their licensees, may use, copy, sublicense, modify, transmit, publicly perform, display, create derivative works of, host, index, cache, tag, encode, and/or adapt any user Content, and any information contained therein, in any and all media formats or channels, whether now known or thereafter devised, including, but not limited to, the Websites, other Townsquare services, over the air and on mobile platforms. Further, other users of the Websites may embed a widget or feed that allows your user Content to appear on their personal, noncommercial website or page, blog or other application, subject to conditions set forth in the Terms of Use.</p>
 
-        <h3>Use of Cookies</h3>
+<h3>Use of Cookies</h3>
 
-        <p>The Websites uses cookies to store users' preferences, account status, traffic origination  and to record session information. We do not link the information we store in cookies to any personally identifiable information you submit while on our Websites. You may be able to configure your browser to accept or reject all or some cookies, or notify you when a cookie is set. Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences. However, you must enable cookies from the specific website you wish to access in order to use most functions on such website. Third party advertisers on the Websites may have the ability to set and access their cookies on your computer. Advertisers' use of cookies are subject to their own privacy policies and are not subject to this Privacy Policy.</p>
+<p>The Websites uses cookies to store users' preferences, account status, traffic origination  and to record session information. We do not link the information we store in cookies to any personally identifiable information you submit while on our Websites. You may be able to configure your browser to accept or reject all or some cookies, or notify you when a cookie is set. Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences. However, you must enable cookies from the specific website you wish to access in order to use most functions on such website. Third party advertisers on the Websites may have the ability to set and access their cookies on your computer. Advertisers' use of cookies are subject to their own privacy policies and are not subject to this Privacy Policy.</p>
 
-        <h3>Alternative Tracking Devices</h3>
+<h3>Alternative Tracking Devices</h3>
 
-        <p>We may use other industry standard technologies like pixel tags and web beacons to track your use of our Websites and promotions, or we may allow our third party service providers to use those devices on our behalf. Pixel tags and web beacons are tiny graphic images placed on certain pages on our Websites, or in our emails that allow us to determine whether you have performed a specific action. When you access these pages or open or click an email, pixel tags and web beacons generate a non-personally identifiable notice of that action. Pixel tags allow us to measure and improve our understanding of visitor traffic and behavior on our Websites, as well as give us a way to measure our promotions and performance. We may also utilize pixel tags and web beacons provided by our affiliates or third party service providers for the same purposes.</p>
+<p>We may use other industry standard technologies like pixel tags and web beacons to track your use of our Websites and promotions, or we may allow our third party service providers to use those devices on our behalf. Pixel tags and web beacons are tiny graphic images placed on certain pages on our Websites, or in our emails that allow us to determine whether you have performed a specific action. When you access these pages or open or click an email, pixel tags and web beacons generate a non-personally identifiable notice of that action. Pixel tags allow us to measure and improve our understanding of visitor traffic and behavior on our Websites, as well as give us a way to measure our promotions and performance. We may also utilize pixel tags and web beacons provided by our affiliates or third party service providers for the same purposes.</p>
 
-        <h3>Links</h3>
+<h3>Links</h3>
 
-        <p>The Websites contain links to other websites, applications and services maintained by third parties that may not follow the same privacy policies as the Websites. For instance, clicking on a third party logo or advertisement will take you to an entirely different site, application or service. These sites, applications and services may use cookies, collect data and use the data in ways that Townsquare would not. Townsquare  is not responsible for the privacy policies and/or practices on other sites. When linking to another site a user should read the privacy policy stated on that site. Our Privacy Policy only governs information collected on the Websites. Furthermore, we bear no responsibility for any offensive material or violations of law on any site linked from the Websites.</p>
+<p>The Websites contain links to other websites, applications and services maintained by third parties that may not follow the same privacy policies as the Websites. For instance, clicking on a third party logo or advertisement will take you to an entirely different site, application or service. These sites, applications and services may use cookies, collect data and use the data in ways that Townsquare would not. Townsquare  is not responsible for the privacy policies and/or practices on other sites. When linking to another site a user should read the privacy policy stated on that site. Our Privacy Policy only governs information collected on the Websites. Furthermore, we bear no responsibility for any offensive material or violations of law on any site linked from the Websites.</p>
 
-        <p>The Websites may include a tool that allows you to sign in or comment using information from your account with a third party service, such as Facebook, Twitter, Google or Yahoo. Please be aware that those third party services are unrelated to the Websites and that your use of the third party services is subject to the terms and policies of those services.</p>
+<p>The Websites may include a tool that allows you to sign in or comment using information from your account with a third party service, such as Facebook, Twitter, Google or Yahoo. Please be aware that those third party services are unrelated to the Websites and that your use of the third party services is subject to the terms and policies of those services.</p>
 
-        <h3>Correcting/Updating Information and Terminating Registration</h3>
+<h3>Correcting/Updating Information and Terminating Registration</h3>
 
-        <p>Registered users may modify any of their personal information at any time by logging into their account and accessing their personal profile. Registered users may terminate their registration at any time, for any reason, by contacting <a href="http://loudwire.com/?geo-address=fgnssAybhqjverNpbz" class="geo-address share_link email">staff@loudwire.com</a>. Terminating your registration will not necessarily remove previous public comments and other user Content on public display on the Websites. The user understands that it may be impossible to delete personal information entirely because of backups and records of deletions.</p>
+<p>Registered users may modify any of their personal information at any time by logging into their account and accessing their personal profile. Registered users may terminate their registration at any time, for any reason, by contacting <a href="http://loudwire.com/?geo-address=fgnssAybhqjverNpbz" class="geo-address ">staff@loudwire.com</a>. Terminating your registration will not necessarily remove previous public comments and other user Content on public display on the Websites. The user understands that it may be impossible to delete personal information entirely because of backups and records of deletions.</p>
 
-        <h3>Third Party Advertising</h3>
+<h3>Third Party Advertising</h3>
 
-        <p>Ads appearing on the Websites may be delivered to users by Townsquare or one of our advertising partners. Our advertising partners may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement. In this way, ad servers may compile information about where you, or others who are using your computer, saw their advertisements and determine which ads are clicked on. This information allows an ad network to deliver targeted advertisements that they believe will be of most interest to you. This privacy statement covers the use of cookies by Townsquare and does not cover the use of cookies by any advertisers.</p>
+<p>Ads appearing on the Websites may be delivered to users by Townsquare or one of our advertising partners. Our advertising partners may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement. In this way, ad servers may compile information about where you, or others who are using your computer, saw their advertisements and determine which ads are clicked on. This information allows an ad network to deliver targeted advertisements that they believe will be of most interest to you. This privacy statement covers the use of cookies by Townsquare and does not cover the use of cookies by any advertisers.</p>
 
-        <h3>Agents</h3>
+<h3>Agents</h3>
 
-        <p>We use a third party company to prepare and ship products ordered on our Websites. Our fulfillment company has access to your full name and shipping address to complete this transaction but does not retain, share, store or use personally identifiable information for any other purposes.</p>
+<p>We use a third party company to prepare and ship products ordered on our Websites. Our fulfillment company has access to your full name and shipping address to complete this transaction but does not retain, share, store or use personally identifiable information for any other purposes.</p>
 
-        <h3>Service Providers</h3>
+<h3>Service Providers</h3>
 
-        <p>We may use third party providers to process payments. When you checkout of our store, you will be asked to enter your first and last name, credit card information, billing and shipping address as necessary to complete your transaction. We do not store any of our users credit card information in our database.</p>
+<p>We may use third party providers to process payments. When you checkout of our store, you will be asked to enter your first and last name, credit card information, billing and shipping address as necessary to complete your transaction. We do not store any of our users credit card information in our database.</p>
 
-        <h3>Opt-out</h3>
+<h3>Opt-out</h3>
 
-        <p>Registered users may choose to no longer receive updates or notifications by managing their email and text message preferences in their personal profile settings.</p>
+<p>Registered users may choose to no longer receive updates or notifications by managing their email and text message preferences in their personal profile settings.</p>
 
-        <h3>Security</h3>
+<h3>Security</h3>
 
-        <p>We have in place what we believe to be appropriate physical, electronic and managerial procedures to safeguard and secure the information we collect online. Credit card information provided to the Websites is protected against unauthorized use by 128-bit encryption and Secure Sockets Layer (SSL) security features, which scramble your personal information so that only your browser and the Websites can decipher it. However, no internet, email or mobile transmission is ever fully secure or error free. Because most email and mobile transmissions are not encrypted, you should take special care in deciding what information you send to us via email, text message, SMS or other mobile transmission.</p>
+<p>We have in place what we believe to be appropriate physical, electronic and managerial procedures to safeguard and secure the information we collect online. Credit card information provided to the Websites is protected against unauthorized use by 128-bit encryption and Secure Sockets Layer (SSL) security features, which scramble your personal information so that only your browser and the Websites can decipher it. However, no internet, email or mobile transmission is ever fully secure or error free. Because most email and mobile transmissions are not encrypted, you should take special care in deciding what information you send to us via email, text message, SMS or other mobile transmission.</p>
 
-        <p>Registered user accounts are secured by user-created passwords. Townsquare uses reasonable measures to protect registered user information that is stored within our database. Please note that we cannot guarantee the security of registered user account information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of registered user information at any time. We will endeavor to notify users in the event that the security of their personal information is breached or compromised. By submitting personal information on any of the Websites, you expressly consent to receiving our notification regarding any breach or compromise, or suspected breach or compromise, of the security of your personal information, by email or postal mail, as we deem appropriate, and as required by law. For any additional information about the security measures we use on the Websites, please contact us at <a href="http://loudwire.com/?geo-address=fgnssAybhqjverNpbz" class="geo-address share_link email">staff@loudwire.com</a>.</p>
+<p>Registered user accounts are secured by user-created passwords. Townsquare uses reasonable measures to protect registered user information that is stored within our database. Please note that we cannot guarantee the security of registered user account information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of registered user information at any time. We will endeavor to notify users in the event that the security of their personal information is breached or compromised. By submitting personal information on any of the Websites, you expressly consent to receiving our notification regarding any breach or compromise, or suspected breach or compromise, of the security of your personal information, by email or postal mail, as we deem appropriate, and as required by law. For any additional information about the security measures we use on the Websites, please contact us at <a href="http://loudwire.com/?geo-address=fgnssAybhqjverNpbz" class="geo-address ">staff@loudwire.com</a>.</p>
 
-        <p>We urge you to keep your username, password and other account access information in a safe place and not to divulge it to anyone. Also, remember to sign off your account and close your browser window when you have finished your visit. This is to ensure that others cannot access your account, especially if you are sharing a computer with someone else or are using a computer in public place such as a library or an internet café.</p>
+<p>We urge you to keep your username, password and other account access information in a safe place and not to divulge it to anyone. Also, remember to sign off your account and close your browser window when you have finished your visit. This is to ensure that others cannot access your account, especially if you are sharing a computer with someone else or are using a computer in public place such as a library or an internet café.</p>
 
-        <h3>Sharing and Disclosure of Information</h3>
+<h3>Sharing and Disclosure of Information</h3>
 
-        <p>Except as otherwise described in this Privacy Policy, we will not disclose personal information to any third party unless we believe that disclosure is necessary: (a) to conform to legal requirements or to respond to a subpoena, search warrant or other legal process received by us; (b) to enforce our Terms of Use Agreement or to protect our rights; (c) to protect the safety of members of the public and users of the Websites or d) the user requests to be contacted with additional information, materials or special offers from third parties. If a registered user elects to opt-in to receive information, materials or special offers from these third parties, the user gives Townsquare permission to transfer personal information to our partners to fulfill such a request. The Websites will only share secure user information with those advertisers or category of advertisers you specifically opt-in to. Third party partners have separate privacy and data collection practices; Townsquare has no responsibility or liability for these independent policies. If you do not want your personal information shared with advertisers, please select the option to not participate in our opt-in program. Our Site also provides users the opportunity to opt-out of receiving communications from us and our advertisers at the point where we request information about the visitor. We give users the option to remove their information from our database, to not receive future communications, or to no longer receive our service, by submitting your request to <a href="http://loudwire.com/?geo-address=fgnssAybhqjverNpbz" class="geo-address share_link email">staff@loudwire.com</a>. Townsquare reserves the right to transfer, disclose or sell personal information as part of a business divestiture, sale, merger, or acquisition of one or more of its Websites, Townsquare or substantially all of its assets. For more information see the "Changes in Our Privacy Policy" section below.</p>
+<p>Except as otherwise described in this Privacy Policy, we will not disclose personal information to any third party unless we believe that disclosure is necessary: (a) to conform to legal requirements or to respond to a subpoena, search warrant or other legal process received by us; (b) to enforce our Terms of Use Agreement or to protect our rights; (c) to protect the safety of members of the public and users of the Websites or d) the user requests to be contacted with additional information, materials or special offers from third parties. If a registered user elects to opt-in to receive information, materials or special offers from these third parties, the user gives Townsquare permission to transfer personal information to our partners to fulfill such a request. The Websites will only share secure user information with those advertisers or category of advertisers you specifically opt-in to. Third party partners have separate privacy and data collection practices; Townsquare has no responsibility or liability for these independent policies. If you do not want your personal information shared with advertisers, please select the option to not participate in our opt-in program. Our Site also provides users the opportunity to opt-out of receiving communications from us and our advertisers at the point where we request information about the visitor. We give users the option to remove their information from our database, to not receive future communications, or to no longer receive our service, by submitting your request to staff@loudwire.com. Townsquare reserves the right to transfer, disclose or sell personal information as part of a business divestiture, sale, merger, or acquisition of one or more of its Websites, Townsquare or substantially all of its assets. For more information see the "Changes in Our Privacy Policy" section below.</p>
 
-        <h3>Children's Privacy</h3>
+<h3>Children's Privacy</h3>
 
-        <p>Under 13: You must be at least 13 years old in order to register for email newsletters or other features of the Websites. If you are under 13 years of age, please do not send any information about yourself, including your name, address or email address. If we discover that we have collected any personally identifiable information from a child under the age of 13, we will remove that information from our database as soon as possible.</p>
+<p>Under 13: You must be at least 13 years old in order to register for email newsletters or other features of the Websites. If you are under 13 years of age, please do not send any information about yourself, including your name, address or email address. If we discover that we have collected any personally identifiable information from a child under the age of 13, we will remove that information from our database as soon as possible.</p>
 
-        <p>Ages 13-18: You must be at least 18 years old in order to submit any Content on our Websites, create a profile, participate in any online contests, or place an order on our Websites. Visitors between the ages of 13 and 18 must obtain permission from their parents or guardians before registering for email newsletters or other features of the Websites or otherwise sending any personally identifiable information.</p>
+<p>Ages 13-18: You must be at least 18 years old in order to submit any Content on our Websites, create a profile, participate in any online contests, or place an order on our Websites. Visitors between the ages of 13 and 18 must obtain permission from their parents or guardians before registering for email newsletters or other features of the Websites or otherwise sending any personally identifiable information.</p>
 
-        <h3>International User Notice</h3>
+<h3>International User Notice</h3>
 
-        <p>For international users, please note that it may be necessary to transfer your information internationally and, in particular, your information may be transferred to and processed in the United States. For residents of the European Union: the data protection and other laws of other countries outside of the European Union may not be as comprehensive as those of the European Union. Please be assured that we take steps to ensure that your privacy is protected as described in this Privacy Policy. By using the Websites, you agree to have your information used and transferred to the United States as set forth in this policy.</p>
+<p>For international users, please note that it may be necessary to transfer your information internationally and, in particular, your information may be transferred to and processed in the United States. For residents of the European Union: the data protection and other laws of other countries outside of the European Union may not be as comprehensive as those of the European Union. Please be assured that we take steps to ensure that your privacy is protected as described in this Privacy Policy. By using the Websites, you agree to have your information used and transferred to the United States as set forth in this policy.</p>
 
-        <h3>Changes in Our Privacy Policy</h3>
+<h3>Changes in Our Privacy Policy</h3>
 
-        <p>From time to time we may make changes to our Privacy Policy. If we make changes, we will post them on the Websites to make users aware of what the changes are so users will always be aware of what information we collect, how we use it, and when we may disclose it. A user is bound by any changes to the policy when she or he uses the Websites after those changes have been posted. If, however, we intend to disclose users' personally identifiable information in a manner different from that stated at the time of collection, we will post a notice of such intent on the Websites 30 days prior to such action.</p>
+<p>From time to time we may make changes to our Privacy Policy. If we make changes, we will post them on the Websites to make users aware of what the changes are so users will always be aware of what information we collect, how we use it, and when we may disclose it. A user is bound by any changes to the policy when she or he uses the Websites after those changes have been posted. If, however, we intend to disclose users' personally identifiable information in a manner different from that stated at the time of collection, we will post a notice of such intent on the Websites 30 days prior to such action.</p>
 
-        <h3>Contacting Us</h3>
+<h3>Contacting Us</h3>
 
-        <p>If you have any questions about this privacy statement, the practices of the Websites, or your dealings with the Websites, please <a href="http://loudwire.com/?geo-address=fgnssAybhqjverNpbz" class="geo-address share_link email">staff@loudwire.com</a>.</p>
+<p>If you have any questions about this privacy statement, the practices of the Websites, or your dealings with the Websites, please <a href="http://loudwire.com/?geo-address=fgnssAybhqjverNpbz" class="geo-address ">contact us</a>.</p>
 
-        <h3>Effective Date</h3>
+<h3>Effective Date</h3>
 
-        <p>This Privacy Policy is effective as of November 1, 2010. It was last updated on February 7, 2011.</p>
-        </div>
-</article>    </section>
+<p>This Privacy Policy is effective as of November 1, 2010. It was last updated on February 7, 2011.</p>			</div>
+		</article>
+	</section>
 </div>
 
 
 <aside id="content_sidebar" class="sidebar clearfix">
     <div id="google-ads-widget-3" class="widget google-ads-widget clearfix"><!-- /TSM_LOUD_FLEX_AD_300x600,300x250 -->
-	<script src="http://ad.doubleclick.net/adj/loudwire.mmn/home;id=109545;pos=top;genre=rock;dc_ref=http%3A%2F%2Floudwire.com;dcopt=ist;tile=3;sz=300x600,300x250;ord=1355807328?"></script></div><div id="ts_blogroll-4" class="widget ts_blogroll  clearfix"><div class="widget_header clearfix"><h4>Latest Rock News</h4></div><article class="small_thumb_title_date  clearfix">
+	<script src="http://ad.doubleclick.net/adj/loudwire.mmn/home;id=142872;pos=top;genre=rock;dc_ref=http%3A%2F%2Floudwire.com;dcopt=ist;tile=5;sz=300x600,300x250;ord=1369831384?"></script></div><div id="ts_blogroll-20" class="widget ts_blogroll  clearfix"><div class="widget_header clearfix"><h4>Cage Match</h4></div><article class="small_thumb_title_date last clearfix">
         <figure>
-        <a href="http://loudwire.com/daily-reload-vince-neil-anthrax-more/"><img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-aside/landscape/4 wp-post-image sonar_image" alt="Vince Neil" title="Vince Neil" datasrc="http://wac.450F.edgecastcdn.net/80450F/loudwire.com/files/2012/02/Vince-Neil.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
+        <a href="http://loudwire.com/falling-in-reverse-vs-motionless-in-white-cage-match/"><img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="Photos: Epitaph Records / Fearless Records" title="Falling in Reverse / Motionless in White" datasrc="http://wac.450F.edgecastcdn.net/80450F/loudwire.com/files/2013/05/Falling-in-Reverse-Motionless-in-White.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
     </figure>
         <div class="excerpt clearfix">
-        <a href="http://loudwire.com/daily-reload-vince-neil-anthrax-more/">Daily Reload: Vince Neil, Anthrax + More</a>
+        <a href="http://loudwire.com/falling-in-reverse-vs-motionless-in-white-cage-match/">Falling in Reverse vs. Motionless in White</a>
+        <em>Yesterday</em>
+    </div>
+</article>
+</div><div id="ts_blogroll-19" class="widget ts_blogroll  clearfix"><div class="widget_header clearfix"><h4>Death Match</h4></div><article class="small_thumb_title_date last clearfix">
+        <figure>
+        <a href="http://loudwire.com/amon-amarth-vs-immolation-death-match/"><img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="Amon Amarth vs. Immolation" title="Amon Amarth vs. Immolation" datasrc="http://wac.450F.edgecastcdn.net/80450F/loudwire.com/files/2013/05/Amon-Amarth-vs-Immolation.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
+    </figure>
+        <div class="excerpt clearfix">
+        <a href="http://loudwire.com/amon-amarth-vs-immolation-death-match/">Amon Amarth vs. Immolation</a>
+        <em>Yesterday</em>
+    </div>
+</article>
+</div><div id="ts_blogroll-4" class="widget ts_blogroll  clearfix"><div class="widget_header clearfix"><h4>Latest Rock News</h4></div><article class="small_thumb_title_date  clearfix">
+        <figure>
+        <a href="http://loudwire.com/daily-reload-nine-inch-nails-shinedown-more/"><img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="Trent Reznor" title="Trent Reznor" datasrc="http://wac.450F.edgecastcdn.net/80450F/loudwire.com/files/2013/03/Trent-Reznor.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
+    </figure>
+        <div class="excerpt clearfix">
+        <a href="http://loudwire.com/daily-reload-nine-inch-nails-shinedown-more/">Daily Reload: Nine Inch Nails, Shinedown + More</a>
         <em>Yesterday</em>
     </div>
 </article>
 <article class="small_thumb_title_date  clearfix">
         <figure>
-        <a href="http://loudwire.com/whitechapel-of-mice-men-frontmen-mitch-lucker-memorial-concert/"><img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-aside/landscape/4 wp-post-image sonar_image" alt="Mitch-Lucker-2" title="Mitch-Lucker-2" datasrc="http://wac.450F.edgecastcdn.net/80450F/loudwire.com/files/2012/11/Mitch-Lucker-21.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
+        <a href="http://loudwire.com/alice-in-chains-sean-kinney-addresses-opposition-current-band-lineup/"><img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="Alice in Chains" title="Alice in Chains" datasrc="http://wac.450F.edgecastcdn.net/80450F/loudwire.com/files/2013/05/Alice-in-Chains.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
     </figure>
         <div class="excerpt clearfix">
-        <a href="http://loudwire.com/whitechapel-of-mice-men-frontmen-mitch-lucker-memorial-concert/">Whitechapel + Of Mice &amp; Men Frontmen Added to Lineup of Mitch Lucker Memorial Concert</a>
+        <a href="http://loudwire.com/alice-in-chains-sean-kinney-addresses-opposition-current-band-lineup/">Alice in Chains Drummer Sean Kinney Addresses Opposition to Current Band Lineup</a>
         <em>Yesterday</em>
     </div>
 </article>
 <article class="small_thumb_title_date  clearfix">
         <figure>
-        <a href="http://loudwire.com/dethklok-rock-new-york-city-machine-head-all-that-remains-more/"><img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-aside/landscape/4 wp-post-image sonar_image" alt="Liz Ramanand, Loudwire" title="Machine Head / Dethklok / All That Remains" datasrc="http://wac.450F.edgecastcdn.net/80450F/loudwire.com/files/2012/12/Machine-Head-Dethklok-All-That-Remains.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
+        <a href="http://loudwire.com/p-o-d-flyleaf-2013-co-headlining-tour/"><img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="POD-Flyleaf" title="POD-Flyleaf" datasrc="http://wac.450F.edgecastcdn.net/80450F/loudwire.com/files/2013/05/POD-Flyleaf1.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
     </figure>
         <div class="excerpt clearfix">
-        <a href="http://loudwire.com/dethklok-rock-new-york-city-machine-head-all-that-remains-more/">Dethklok Rock New York City With Support From Machine Head, All That Remains + More</a>
+        <a href="http://loudwire.com/p-o-d-flyleaf-2013-co-headlining-tour/">P.O.D. + Flyleaf Unite for 2013 Co-Headlining Tour</a>
         <em>Yesterday</em>
     </div>
 </article>
 <article class="small_thumb_title_date  clearfix">
         <figure>
-        <a href="http://loudwire.com/dir-en-grey-new-single-rinkaku/"><img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-aside/landscape/4 wp-post-image sonar_image" alt="Kyo of Dir en grey" title="Kyo of Dir en grey" datasrc="http://wac.450F.edgecastcdn.net/80450F/loudwire.com/files/2011/12/Kyo-of-Dir-en-grey.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
+        <a href="http://loudwire.com/slipknot-percussionist-joey-jordison-lineup-new-project/"><img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="Joey Jordison" title="Joey Jordison" datasrc="http://wac.450F.edgecastcdn.net/80450F/loudwire.com/files/2013/05/Joey-Jordison.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
     </figure>
         <div class="excerpt clearfix">
-        <a href="http://loudwire.com/dir-en-grey-new-single-rinkaku/">Dir En Grey Release New Single ‘Rinkaku’</a>
+        <a href="http://loudwire.com/slipknot-percussionist-joey-jordison-lineup-new-project/">Slipknot Percussionist Joey Jordison Confirms Lineup for New Project</a>
         <em>Yesterday</em>
     </div>
 </article>
 <article class="small_thumb_title_date  clearfix">
         <figure>
-        <a href="http://loudwire.com/hatebreed-jamey-jasta-thoughts-on-connecticut-school-shooting/"><img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-aside/landscape/4 wp-post-image sonar_image" alt="Liz Ramanand, Loudwire" title="Hatebreed (4)" datasrc="http://wac.450F.edgecastcdn.net/80450F/loudwire.com/files/2012/11/Hatebreed-4.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
+        <a href="http://loudwire.com/nine-inch-nails-new-album-2013/"><img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="Trent Reznor" title="Trent Reznor" datasrc="http://wac.450F.edgecastcdn.net/80450F/loudwire.com/files/2013/03/Trent-Reznor2.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
     </figure>
         <div class="excerpt clearfix">
-        <a href="http://loudwire.com/hatebreed-jamey-jasta-thoughts-on-connecticut-school-shooting/">Hatebreed Frontman Jamey Jasta Offers Thoughts on Connecticut School Shooting</a>
+        <a href="http://loudwire.com/nine-inch-nails-new-album-2013/">Nine Inch Nails To Unleash New Album in 2013</a>
         <em>Yesterday</em>
     </div>
 </article>
 <article class="small_thumb_title_date  clearfix">
         <figure>
-        <a href="http://loudwire.com/behemoth-nergal-meets-bone-marrow-donor-who-saved-life/"><img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-aside/landscape/4 wp-post-image sonar_image" alt="Behemoth Nergal" title="Behemoth Nergal" datasrc="http://wac.450F.edgecastcdn.net/80450F/loudwire.com/files/2011/10/Behemoth-Nergal.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
+        <a href="http://loudwire.com/black-veil-brides-revelation-lyric-video/"><img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="Kathy Flynn, WickedGoddessPhotography.com" title="Black Veil Brides" datasrc="http://wac.450F.edgecastcdn.net/80450F/loudwire.com/files/2013/05/GG-Black-Veil-Brides.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
     </figure>
         <div class="excerpt clearfix">
-        <a href="http://loudwire.com/behemoth-nergal-meets-bone-marrow-donor-who-saved-life/">Behemoth Frontman Nergal Meets Bone Marrow Donor Who Saved His Life</a>
+        <a href="http://loudwire.com/black-veil-brides-revelation-lyric-video/">Black Veil Brides Unleash ‘Revelation’ Lyric Video</a>
         <em>Yesterday</em>
     </div>
 </article>
 <article class="small_thumb_title_date  clearfix">
         <figure>
-        <a href="http://loudwire.com/machine-head-robb-flynn-struck-by-new-york-city-taxi-slams-all-that-remains-onstage/"><img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-aside/landscape/4 wp-post-image sonar_image" alt="Robb Flynn of Machine Head" title="Robb Flynn of Machine Head" datasrc="http://wac.450F.edgecastcdn.net/80450F/loudwire.com/files/2012/12/Robb-Flynn-of-Machine-Head1.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
+        <a href="http://loudwire.com/the-black-dahlia-murder-goat-of-departure-exclusive-song-premiere/"><img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="The Black Dahlia Murder" title="The Black Dahlia Murder" datasrc="http://wac.450F.edgecastcdn.net/80450F/loudwire.com/files/2013/05/photo02.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
     </figure>
         <div class="excerpt clearfix">
-        <a href="http://loudwire.com/machine-head-robb-flynn-struck-by-new-york-city-taxi-slams-all-that-remains-onstage/">Machine Head’s Robb Flynn Struck by New York City Taxi, Slams All That Remains Onstage</a>
+        <a href="http://loudwire.com/the-black-dahlia-murder-goat-of-departure-exclusive-song-premiere/">The Black Dahlia Murder, ‘Goat of Departure’ – Exclusive Song Premiere</a>
         <em>Yesterday</em>
     </div>
 </article>
 <article class="small_thumb_title_date  clearfix">
         <figure>
-        <a href="http://loudwire.com/bullet-for-my-valentine-new-single-riot/"><img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-aside/landscape/4 wp-post-image sonar_image" alt="Bullet for My Valentine" title="Bullet for My Valentine" datasrc="http://wac.450F.edgecastcdn.net/80450F/loudwire.com/files/2012/12/2352107_20121217103030_1879219122.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
+        <a href="http://loudwire.com/motley-crue-tommy-lee-bids-farewell-drum-roller-coaster/"><img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="Tommy Lee" title="Tommy Lee" datasrc="http://wac.450F.edgecastcdn.net/80450F/loudwire.com/files/2013/05/Tommy-Lee.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
     </figure>
         <div class="excerpt clearfix">
-        <a href="http://loudwire.com/bullet-for-my-valentine-new-single-riot/">Bullet for My Valentine Unleash New Single ‘Riot’ From Upcoming Album ‘Temper Temper’</a>
+        <a href="http://loudwire.com/motley-crue-tommy-lee-bids-farewell-drum-roller-coaster/">Motley Crue Stickman Tommy Lee Bids Farewell to Drum Roller Coaster</a>
         <em>Yesterday</em>
     </div>
 </article>
 <article class="small_thumb_title_date  clearfix">
         <figure>
-        <a href="http://loudwire.com/anthrax-exodus-municipal-waste-sign-2013-metal-alliance-tour/"><img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-aside/landscape/4 wp-post-image sonar_image" alt="Megaforce" title="Anthrax" datasrc="http://wac.450F.edgecastcdn.net/80450F/loudwire.com/files/2012/09/Anthrax-Band-Photo.jpeg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
+        <a href="http://loudwire.com/megadeth-dave-mustaine-new-album-super-collider-gigantour-2013-more/"><img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="Liz Ramanand, Loudwire" title="Megadeth (4)" datasrc="http://wac.450F.edgecastcdn.net/80450F/loudwire.com/files/2012/11/Megadeth-4.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
     </figure>
         <div class="excerpt clearfix">
-        <a href="http://loudwire.com/anthrax-exodus-municipal-waste-sign-2013-metal-alliance-tour/">Anthrax, Exodus + Municipal Waste Sign On for 2013 Metal Alliance Tour</a>
+        <a href="http://loudwire.com/megadeth-dave-mustaine-new-album-super-collider-gigantour-2013-more/">Megadeth’s Dave Mustaine Talks New Album ‘Super Collider,’ Gigantour 2013 + More</a>
         <em>Yesterday</em>
     </div>
 </article>
 <article class="small_thumb_title_date last clearfix">
         <figure>
-        <a href="http://loudwire.com/papa-roach-vs-flyleaf-cage-match/"><img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-aside/landscape/4 wp-post-image sonar_image" alt="Photos: Facebook: Papa Roach / A&amp;M/Octone" title="Papa Roach  / Flyleaf" datasrc="http://wac.450F.edgecastcdn.net/80450F/loudwire.com/files/2012/12/Papa-Roach-Flyleaf.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
+        <a href="http://loudwire.com/devildriver-release-date-artwork-winter-kills/"><img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="Liz Ramanand, Loudwire" title="Dez Fafara of DevilDriver" datasrc="http://wac.450F.edgecastcdn.net/80450F/loudwire.com/files/2012/11/Dez-Fafara-of-DevilDriver.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
     </figure>
         <div class="excerpt clearfix">
-        <a href="http://loudwire.com/papa-roach-vs-flyleaf-cage-match/">Papa Roach vs. Flyleaf – Cage Match</a>
+        <a href="http://loudwire.com/devildriver-release-date-artwork-winter-kills/">DevilDriver Reveal Release Date + Artwork for Upcoming Album ‘Winter Kills’</a>
         <em>Yesterday</em>
     </div>
 </article>
-<p class="more_act"><a href="http://loudwire.com/latest/page/2/" title="Read More Rock News">Read More Rock News</a></p></div><div id="ts_blogroll-6" class="widget ts_blogroll  clearfix"><div class="widget_header clearfix"><h4>Album Reviews</h4></div><div class="sidebar_posters clearfix">    <article class="first">
+<p class="more_act"><a href="http://loudwire.com/latest/page/2/" title="Read More Rock News">Read More Rock News</a></p>
+</div><div id="ts_blogroll-6" class="widget ts_blogroll  clearfix"><div class="widget_header clearfix"><h4>Album Reviews</h4></div><div class="sidebar_posters clearfix">
+    <article class="first">
                 <figure>
-            <a href="http://loudwire.com/hinder-welcome-to-the-freakshow-album-review/"><img width="94" height="94" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-aside/square/1 sonar_image" alt="Hinder - Welcome to the Freakshow" title="Hinder - Welcome to the Freakshow" datasrc="http://wac.450F.edgecastcdn.net/80450F/loudwire.com/files/2012/12/Hinder-Welcome-to-the-Freakshow.jpg?w=94&amp;h=94&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
+            <a href="http://loudwire.com/alice-in-chains-the-devil-put-dinosaurs-here-album-review/"><img width="94" height="94" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-94x94 sonar_image" alt="Alice in Chains-The Devil Put Dinosaurs Here" title="Alice in Chains-The Devil Put Dinosaurs Here" datasrc="http://wac.450F.edgecastcdn.net/80450F/loudwire.com/files/2013/05/Alice-in-Chains-The-Devil-Put-Dinosaurs-Here.jpg?w=94&amp;h=94&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
         </figure>
-                <h3><a href="http://loudwire.com/hinder-welcome-to-the-freakshow-album-review/">Hinder</a></h3>
+                <h3><a href="http://loudwire.com/alice-in-chains-the-devil-put-dinosaurs-here-album-review/">Alice in Chains</a></h3>
     </article>
     <article class="">
                 <figure>
-            <a href="http://loudwire.com/adler-back-from-the-dead-album-review/"><img width="94" height="94" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-aside/square/1 sonar_image" alt="Adler" title="Adler" datasrc="http://wac.450F.edgecastcdn.net/80450F/loudwire.com/files/2012/11/Adler.jpg?w=94&amp;h=94&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
+            <a href="http://loudwire.com/red-line-chemistry-tug-of-war-album-review/"><img width="94" height="94" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-94x94 sonar_image" alt="Red Line Chemistry - 'Tug of War'" title="Red Line Chemistry - 'Tug of War'" datasrc="http://wac.450F.edgecastcdn.net/80450F/loudwire.com/files/2013/05/rlc_tugofwar.jpg?w=94&amp;h=94&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
         </figure>
-                <h3><a href="http://loudwire.com/adler-back-from-the-dead-album-review/">Adler</a></h3>
+                <h3><a href="http://loudwire.com/red-line-chemistry-tug-of-war-album-review/">Red Line Chemistry</a></h3>
     </article>
     <article class="third">
                 <figure>
-            <a href="http://loudwire.com/kylesa-from-the-vaults-vol-1-album-review/"><img width="94" height="94" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-aside/square/1 sonar_image" alt="Kylesa From the Vaults" title="Kylesa From the Vaults" datasrc="http://wac.450F.edgecastcdn.net/80450F/loudwire.com/files/2012/11/557330_10151050334318445_1977299938_n.jpeg?w=94&amp;h=94&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
+            <a href="http://loudwire.com/escape-the-fate-ungrateful-album-review/"><img width="94" height="94" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-94x94 sonar_image" alt="Escape the Fate-Ungrateful" title="Escape the Fate-Ungrateful" datasrc="http://wac.450F.edgecastcdn.net/80450F/loudwire.com/files/2013/05/Escape-the-Fate.jpg?w=94&amp;h=94&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
         </figure>
-                <h3><a href="http://loudwire.com/kylesa-from-the-vaults-vol-1-album-review/">Kylesa</a></h3>
+                <h3><a href="http://loudwire.com/escape-the-fate-ungrateful-album-review/">Escape the Fate</a></h3>
     </article>
     <article class="first">
                 <figure>
-            <a href="http://loudwire.com/green-day-dos-album-review/"><img width="94" height="94" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-aside/square/1 sonar_image" alt="Reprise" title="Green Day Dos" datasrc="http://wac.450F.edgecastcdn.net/80450F/loudwire.com/files/2012/11/Green-Day-Dos1.jpg?w=94&amp;h=94&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
+            <a href="http://loudwire.com/him-tears-on-tape-album-review/"><img width="94" height="94" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-94x94 sonar_image" alt="HIM-Tears on Tape" title="HIM-Tears on Tape" datasrc="http://wac.450F.edgecastcdn.net/80450F/loudwire.com/files/2013/02/HIM-Tears-on-Tape.jpg?w=94&amp;h=94&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
         </figure>
-                <h3><a href="http://loudwire.com/green-day-dos-album-review/">Green Day</a></h3>
+                <h3><a href="http://loudwire.com/him-tears-on-tape-album-review/">HIM</a></h3>
     </article>
     <article class="">
                 <figure>
-            <a href="http://loudwire.com/soundgarden-king-animal-album-review/"><img width="94" height="94" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-aside/square/1 sonar_image" alt="Soundgarden, 'King Animal'" title="Soundgarden King Animal 300" datasrc="http://wac.450F.edgecastcdn.net/80450F/loudwire.com/files/2012/11/Soundgarden-King-Animal-300.jpg?w=94&amp;h=94&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
+            <a href="http://loudwire.com/rob-zombie-venomous-rat-regeneration-vendor-album-review/"><img width="94" height="94" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-94x94 sonar_image" alt="Rob Zombie - Venomous Rat Regeneration Vendor" title="Rob Zombie - Venomous Rat Regeneration Vendor" datasrc="http://wac.450F.edgecastcdn.net/80450F/loudwire.com/files/2013/04/RobZombieVRRVCoverArt.jpg?w=94&amp;h=94&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
         </figure>
-                <h3><a href="http://loudwire.com/soundgarden-king-animal-album-review/">Soundgarden</a></h3>
+                <h3><a href="http://loudwire.com/rob-zombie-venomous-rat-regeneration-vendor-album-review/">Rob Zombie</a></h3>
     </article>
     <article class="third">
                 <figure>
-            <a href="http://loudwire.com/deftones-koi-no-yokan-album-review/"><img width="94" height="94" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-aside/square/1 sonar_image" alt="Deftones-Koi-No-Yokan" title="Deftones-Koi-No-Yokan" datasrc="http://wac.450F.edgecastcdn.net/80450F/loudwire.com/files/2012/11/Deftones-Koi-No-Yokan.jpg?w=94&amp;h=94&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
+            <a href="http://loudwire.com/ghost-b-c-infestissumam-album-review/"><img width="94" height="94" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-94x94 sonar_image" alt="Ghost B.C., 'Infestissumam'" title="Ghost B.C., 'Infestissumam'" datasrc="http://wac.450F.edgecastcdn.net/80450F/loudwire.com/files/2013/04/ProductImage-7589050.jpg?w=94&amp;h=94&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
         </figure>
-                <h3><a href="http://loudwire.com/deftones-koi-no-yokan-album-review/">Deftones</a></h3>
+                <h3><a href="http://loudwire.com/ghost-b-c-infestissumam-album-review/">Ghost B.C.</a></h3>
     </article>
-    <article class="first">
-                <figure>
-            <a href="http://loudwire.com/all-that-remains-a-war-you-cannot-win-album-review/"><img width="94" height="94" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-aside/square/1 sonar_image" alt="All That Remains - A War You Cannot Win" title="All That Remains - A War You Cannot Win" datasrc="http://wac.450F.edgecastcdn.net/80450F/loudwire.com/files/2012/11/All-That-Remains-A-War-You-Cannot-Win.jpg?w=94&amp;h=94&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
-        </figure>
-                <h3><a href="http://loudwire.com/all-that-remains-a-war-you-cannot-win-album-review/">All That Remains</a></h3>
-    </article>
-    <article class="">
-                <figure>
-            <a href="http://loudwire.com/cradle-of-filth-the-manticore-and-other-horrors-album-review/"><img width="94" height="94" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-aside/square/1 sonar_image" alt="Nuclear Blast Records" title="Cradle-Of-Filth-The-Manticore-and-Other-Horrors" datasrc="http://wac.450F.edgecastcdn.net/80450F/loudwire.com/files/2012/09/Cradle-Of-Filth-The-Manticore-and-Other-Horrors.jpg?w=94&amp;h=94&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
-        </figure>
-                <h3><a href="http://loudwire.com/cradle-of-filth-the-manticore-and-other-horrors-album-review/">Cradle of Filth</a></h3>
-    </article>
-    <article class="third">
-                <figure>
-            <a href="http://loudwire.com/flyleaf-new-horizons-album-review/"><img width="94" height="94" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-aside/square/1 sonar_image" alt="A&amp;M/Octone" title="Flyleaf New Horizons" datasrc="http://wac.450F.edgecastcdn.net/80450F/loudwire.com/files/2012/10/Flyleaf-New-Horizons2.jpg?w=94&amp;h=94&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
-        </figure>
-                <h3><a href="http://loudwire.com/flyleaf-new-horizons-album-review/">Flyleaf</a></h3>
-    </article>
-</div></div><div id="widget_facebook_like_activity_widget-4" class="widget widget_facebook_like_activity_widget  clearfix"><div class="widget_header clearfix"><h4>Loudwire on Facebook</h4></div>        <div class="widget_bg">
-	                    <div id="fb-combo-bottom">
-	            <fb:like-box href="http://www.facebook.com/loudwire" width="300" height="256" colorscheme="" border_color="#FFFFFF" show_faces="true" stream="false" header="false"></fb:like-box>
-            </div>
-			
-                    </div>
-        </div><div id="google-ads-widget-21" class="widget google-ads-widget clearfix"><!-- /TSM_LOUD_BOTTOM_TILE_AD_300X250 -->
-	<script src="http://ad.doubleclick.net/adj/loudwire.mmn/home;id=109545;pos=bottom;genre=rock;dc_ref=http%3A%2F%2Floudwire.com;dcopt=ist;tile=4;sz=300X250;ord=1355807328?"></script></div></aside>    </div><!-- // #content -->
+	<p class="more_act"><a href="http://loudwire.com/category/album-reviews/?home" title="See More Album Reviews">See More Album Reviews</a></p>
+</div>
+</div><div id="google-ads-widget-21" class="widget google-ads-widget clearfix"><!-- /TSM_LOUD_BOTTOM_TILE_AD_300X250 -->
+	<script src="http://ad.doubleclick.net/adj/loudwire.mmn/home;id=142872;pos=bottom;genre=rock;dc_ref=http%3A%2F%2Floudwire.com;dcopt=ist;tile=6;sz=300X250;ord=1369831384?"></script></div><div id="text-15" class="widget widget_text clearfix">			<div class="textwidget"><script type="text/javascript" src="http://dufue2m4sondk.cloudfront.net/oven.js"></script>
+<script>
+  Oven.init("exit", {
+    publisherId: 44471896,
+    skipHrefTerms: ["tasteofcountry.com", "townsquaremedia.com", "townsquaremediagroup.com", "townsquareinteractive.com", "pinterest.com",  "reddit.com", "twitter.com", "facebook.com", "screencrush.com", "loudwire.com", "popcrush.com", "ultimateclassicrock.com", "thefw.com", "guyspeed.com", "diffuser.fm", "starcrush.com", "arcadesushi.com", "thedrop.fm", "zergnet.com", "mailto", "javascript", "townsquaresites.com" ],
+    skipClasses: ["breadoven-skip"]
+  });
+</script></div>
+		</div></aside>    </div><!-- // #content -->
 </div><!-- // #main-container -->
 
 <footer id="footer_wrap" class="footer_wrap clearfix">
-    <div id="footer-sidebar" class="sidebar clearfix"><div id="rss-feed-10" class="widget rss-feed  clearfix"><a class="rssfeed-header-image" href="http://ultimateclassicrock.com/" target="_blank"><img src="http://loudwire.production.townsquaresites.com/files/2011/08/UCR.png"></a><ul class=""><li><span class="rssfeed-copy"><a class="rsswidget" href="http://ultimateclassicrock.com/sharon-osbourne-250k-dna-screening-saved-her-life/" title="Sharon Osbourne Says $250K DNA Screening Saved Her Life" target="_blank">Sharon Osbourne Says $250K DNA Screening Saved Her Life</a></span></li><li><span class="rssfeed-copy"><a class="rsswidget" href="http://ultimateclassicrock.com/kiss-characters-2013-individual-comic-book-issues/" title="Kiss Characters to Star in 2013 Individual Comic Book Issues" target="_blank">Kiss Characters to Star in 2013 Individual Comic Book Issues</a></span></li><li><span class="rssfeed-copy"><a class="rsswidget" href="http://ultimateclassicrock.com/top-10-songs-of-1967/" title="Top 10 Songs of 1967" target="_blank">Top 10 Songs of 1967</a></span></li></ul></div><div id="rss-feed-7" class="widget rss-feed  clearfix"><a class="rssfeed-header-image" href="http://diffuser.fm/" target="_blank"><img src="http://diffuser.fm/files/2012/03/150x60-white.png"></a><ul class=""><li><span class="rssfeed-copy"><a class="rsswidget" href="http://diffuser.fm/10-best-u2-songs/" title="10 Best U2 Songs" target="_blank">10 Best U2 Songs</a></span></li><li><span class="rssfeed-copy"><a class="rsswidget" href="http://diffuser.fm/download-every-free-mp3-we-gave-away-in-2012/" title="Download Every Free MP3 We Gave Away in 2012 Right Here" target="_blank">Download Every Free MP3 We Gave Away in 2012 Right Here</a></span></li><li><span class="rssfeed-copy"><a class="rsswidget" href="http://diffuser.fm/most-shocking-rock-stories-of-2012/" title="Most Shocking Rock Stories of 2012" target="_blank">Most Shocking Rock Stories of 2012</a></span></li></ul></div><div id="rss-feed-8" class="widget rss-feed  clearfix"><a class="rssfeed-header-image" href="http://ultimatemetallica.com/" target="_blank"><img src="http://ultimateclassicrock.com/files/2012/10/150x60-black.png"></a><ul class=""><li><span class="rssfeed-copy"><a class="rsswidget" href="http://ultimatemetallica.com/jason-newsted-posts-letter-self-titled-band-metal-ep/" title="Jason Newsted Posts Letter Revealing His Self-Titled Band's 'Metal' EP" target="_blank">Jason Newsted Posts Letter Revealing His Self-Titled Band's 'Metal' EP</a></span></li><li><span class="rssfeed-copy"><a class="rsswidget" href="http://ultimatemetallica.com/metallica-give-another-sneak-peek-of-quebec-magnetic-with-video-of-damage-inc/" title="Metallica Give Another Sneak Peek of 'Quebec Magnetic' with Video of 'Damage, Inc.'" target="_blank">Metallica Give Another Sneak Peek of 'Quebec Magnetic' with Video of 'Damage, Inc.'</a></span></li><li><span class="rssfeed-copy"><a class="rsswidget" href="http://ultimatemetallica.com/metallica-release-the-four-horsemen-from-quebec-magnetic-video-of-the-week/" title="Metallica Release 'The Four Horsemen' From 'Quebec Magnetic' – Video of the Week" target="_blank">Metallica Release 'The Four Horsemen' From 'Quebec Magnetic' – Video of the Week</a></span></li></ul></div><div id="rss-feed-5" class="widget rss-feed  clearfix"><a class="rssfeed-header-image" href="http://arcadesushi.com" target="_blank"><img src="http://wac.450F.edgecastcdn.net/80450F/loudwire.com/files/2012/09/150x60-black.png"></a><ul class=""><li><span class="rssfeed-copy"><a class="rsswidget" href="http://arcadesushi.com/10-most-shocking-deaths-in-video-games/" title="10 Most Shocking Deaths in Video Games" target="_blank">10 Most Shocking Deaths in Video Games</a></span></li><li><span class="rssfeed-copy"><a class="rsswidget" href="http://arcadesushi.com/scariest-console-games/" title="10 Scariest Console Games" target="_blank">10 Scariest Console Games</a></span></li><li><span class="rssfeed-copy"><a class="rsswidget" href="http://arcadesushi.com/unsatisfying-retro-endings/" title="10 Unsatisfying Retro Endings" target="_blank">10 Unsatisfying Retro Endings</a></span></li></ul></div></div><div id="footer_links" class="horizontal_navigation clearfix"><ul id="menu-footer" class=""><li id="menu-item-69267" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-69267"><a target="_parent" title="Loudwire Newsletter" href="http://loudwire.com/newsletter/">Loudwire Newsletter</a></li>
+    <div id="footer-sidebar" class="sidebar clearfix"><div id="rss-feed-10" class="widget rss-feed  clearfix"><a class="rssfeed-header-image" href="http://ultimateclassicrock.com/" target="_blank"><img src="http://loudwire.production.townsquaresites.com/files/2011/08/UCR.png"></a><ul class=""><li><span class="rssfeed-copy"><a class="rsswidget" href="http://ultimateclassicrock.com/early-axl-rose-demo/" title="Early Axl Rose Demo Surfaces Online" target="_blank">Early Axl Rose Demo Surfaces Online</a></span></li><li><span class="rssfeed-copy"><a class="rsswidget" href="http://ultimateclassicrock.com/the-rides-dont-want-lies-song-review/" title="The Rides, 'Don't Want Lies' – Song Review" target="_blank">The Rides, 'Don't Want Lies' – Song Review</a></span></li><li><span class="rssfeed-copy"><a class="rsswidget" href="http://ultimateclassicrock.com/kathy-valentine-go-gos-lawsuit/" title="Go-Gos Bassist Sues Former Bandmates" target="_blank">Go-Gos Bassist Sues Former Bandmates</a></span></li></ul></div><div id="rss-feed-7" class="widget rss-feed  clearfix"><a class="rssfeed-header-image" href="http://diffuser.fm/" target="_blank"><img src="http://diffuser.fm/files/2012/03/150x60-white.png"></a><ul class=""><li><span class="rssfeed-copy"><a class="rsswidget" href="http://diffuser.fm/sasquatch-music-festival-2013-photo-recap/" title="Sasquatch! Music Festival 2013 Photo Recap" target="_blank">Sasquatch! Music Festival 2013 Photo Recap</a></span></li><li><span class="rssfeed-copy"><a class="rsswidget" href="http://diffuser.fm/david-byrne-st-vincent-free-ep/" title="News Bits: David Byrne and St. Vincent Drop Free EP, NIN Readies New Album + More" target="_blank">News Bits: David Byrne and St. Vincent Drop Free EP, NIN Readies New Album + More</a></span></li><li><span class="rssfeed-copy"><a class="rsswidget" href="http://diffuser.fm/chanel-2013-commercial-whats-the-song/" title="Chanel 2013 Commercial – What's the Song?" target="_blank">Chanel 2013 Commercial – What's the Song?</a></span></li></ul></div><div id="rss-feed-8" class="widget rss-feed  clearfix"><a class="rssfeed-header-image" href="http://screencrush.com/" target="_blank"><img src="http://wac.450f.edgecastcdn.net/80450F/ultimateclassicrock.com/files/2012/03/150x60.png"></a><ul class=""><li><span class="rssfeed-copy"><a class="rsswidget" href="http://screencrush.com/the-venture-bros-season-5-trailers/" title="'The Venture Bros.' Season 5: Go V Deep With 3 New Trailers!" target="_blank">'The Venture Bros.' Season 5: Go V Deep With 3 New Trailers!</a></span></li><li><span class="rssfeed-copy"><a class="rsswidget" href="http://screencrush.com/dexter-final-season-8-evelyn-vogel-charlotte-rampling/" title="'Dexter' Final Season Preview: Will Dr. Evelyn Vogel Catch the Bay Harbor Butcher?" target="_blank">'Dexter' Final Season Preview: Will Dr. Evelyn Vogel Catch the Bay Harbor Butcher?</a></span></li><li><span class="rssfeed-copy"><a class="rsswidget" href="http://screencrush.com/transformers-4-new-cars/" title="'Transformers 4′ Shows Off New Cars and Adds to Cast" target="_blank">'Transformers 4′ Shows Off New Cars and Adds to Cast</a></span></li></ul></div><div id="rss-feed-5" class="widget rss-feed  clearfix"><a class="rssfeed-header-image" href="http://arcadesushi.com" target="_blank"><img src="http://wac.450F.edgecastcdn.net/80450F/loudwire.com/files/2012/09/150x60-black.png"></a><ul class=""><li><span class="rssfeed-copy"><a class="rsswidget" href="http://arcadesushi.com/sushi-news-roll-new-sonic-trailer/" title="Sushi News Roll: New Sonic Trailer, UFC Fights On + More" target="_blank">Sushi News Roll: New Sonic Trailer, UFC Fights On + More</a></span></li><li><span class="rssfeed-copy"><a class="rsswidget" href="http://arcadesushi.com/new-dragons-crown-gameplay-trailer/" title="New Dragon's Crown Gameplay Trailer" target="_blank">New Dragon's Crown Gameplay Trailer</a></span></li><li><span class="rssfeed-copy"><a class="rsswidget" href="http://arcadesushi.com/hands-on-preview-world-war-z-for-ios/" title="Hands-on Preview: World War Z For iOS" target="_blank">Hands-on Preview: World War Z For iOS</a></span></li></ul></div></div><div id="footer_links" class="horizontal_navigation clearfix">
+	<ul id="menu-footer" class=""><li id="menu-item-111909" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111909"><a target="_parent" title="Contact Us" href="mailto:staff@loudwire.com">Contact Us</a></li>
+<li id="menu-item-125905" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-125905"><a target="_parent" title="Message Boards" href="http://loudwire.com/message-boards/">Message Boards</a></li>
+<li id="menu-item-124430" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-124430"><a target="_parent" title="VIP" href="http://loudwire.com/vip/">VIP</a></li>
 <li id="menu-item-24089" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-24089"><a target="_parent" href="http://loudwire.com/advertise/">Advertise</a></li>
 <li id="menu-item-939" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-939"><a target="_parent" href="/privacy">Privacy</a></li>
-<li id="menu-item-941" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-941"><a target="_parent" title="Townsquare Media" href="http://townsquaremedia.com/">TSM</a></li>
+<li id="menu-item-941" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-941"><a target="_parent" title="Townsquare Media" href="http://townsquaremedia.com/">Townsquare Media</a></li>
 <li id="menu-item-104960" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-104960"><a target="_parent" title="VIP Terms &amp; Conditions" href="http://loudwire.com/vip-terms/">VIP Terms</a></li>
 <li id="menu-item-104961" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-104961"><a target="_parent" title="VIP FAQ" href="http://loudwire.com/vip-faq/">VIP FAQ</a></li>
-<li id="menu-item-69268" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-69268"><a target="_parent" title="Evanescence Songs" href="http://loudwire.com/top-evanescence-songs/">Evanescence Songs</a></li>
-<li id="menu-item-77981" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-77981"><a target="_parent" title="Top Rock Songs 2012" href="http://loudwire.com/best-rock-songs-of-2012-so-far/">Top Rock Songs 2012</a></li>
-<li id="menu-item-81004" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-81004"><a target="_parent" title="Free MP3 Downloads" href="http://diffuser.fm/category/free-downloads/">Free MP3 Downloads</a></li>
-</ul></div><div id="network_links" class="horizontal_navigation clearfix"><div id="network_footer" class="menu"><ul><li class="page_item"><a href="http://tasteofcountry.com" title="Country" target="_blank">Country</a></li><li class="page_item"><a href="http://popcrush.com" title="Pop Music" target="_blank">Pop Music</a></li><li class="page_item"><a href="http://ultimateclassicrock.com" title="Classic Rock" target="_blank">Classic Rock</a></li><li class="page_item"><a href="http://diffuser.fm" title="Indie" target="_blank">Indie</a></li><li class="page_item"><a href="http://thefw.com" title="Funny" target="_blank">Funny</a></li><li class="page_item"><a href="http://guyspeed.com" title="GuySpeed" target="_blank">GuySpeed</a></li><li class="page_item"><a href="http://screencrush.com" title="Movies" target="_blank">Movies</a></li><li class="page_item"><a href="http://thedrop.fm" title="Hip-Hop" target="_blank">Hip-Hop</a></li><li class="page_item"><a href="http://ultimatemetallica.com/" title="Metallica" target="_blank">Metallica</a></li><li class="page_item"><a href="http://starcrush.com/" title="Celebs" target="_blank">Celebs</a></li><li class="page_item"><a href="http://arcadesushi.com/" title="Video Games" target="_blank">Video Games</a></li><li class="page_item"><a href="http://allchristmas.fm/" title="Christmas" target="_blank">Christmas</a></li></ul></div></div><div id="bottom_banner" class="clearfix"><!-- /TSM_LOUD_BOTTOM_LEADERBOARD -->
-	<script src="http://ad.doubleclick.net/adj/loudwire.mmn/home;id=109545;pos=bottom;genre=rock;dc_ref=http%3A%2F%2Floudwire.com;dcopt=ist;tile=5;sz=728x90;ord=1355807328?"></script></div></footer><!-- // footer -->
-
-<script type="text/javascript">jQuery(function(){ jQuery.getScript('http://wac.450F.edgecastcdn.net/80450F/loudwire.com/wp-content/mu-plugins/sonar-load/resources/js/sonarImages.js?version=e80cc3f2d07dfd9995805c406967c1539f1bbc56');});</script><script type="text/javascript">jQuery(function(){ jQuery.getScript('http://wac.450F.edgecastcdn.net/80450F/loudwire.com/wp-content/mu-plugins/sonar-load/resources/js/sonarFacebook.js?version=e80cc3f2d07dfd9995805c406967c1539f1bbc56');});</script><script type="text/javascript">jQuery(function(){ jQuery.getScript('http://wac.450F.edgecastcdn.net/80450F/loudwire.com/wp-content/mu-plugins/sonar-load/resources/js/sonarStumble.js?version=e80cc3f2d07dfd9995805c406967c1539f1bbc56');});</script><script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/loudwire.com/wp-content/plugins/audio-player/assets/audio-player.js?ver=2.0.4.1"></script>
-<script type="text/javascript">AudioPlayer.setup("http://loudwire.com/wp-content/plugins/audio-player/assets/player.swf?ver=2.0.4.1", {width:"300",animation:"yes",encode:"yes",initialvolume:"60",remaining:"no",noinfo:"no",buffer:"5",checkpolicy:"no",rtl:"no",bg:"FFFFFF",text:"CCC",leftbg:"c31e0b",lefticon:"FFFFFF",volslider:"FFFFFF",voltrack:"131313",rightbg:"c31e0b",rightbghover:"",righticon:"FFFFFF",righticonhover:"FFFFFF",track:"FFFFFF",loader:"FFFFFF",border:"FFFFFF",tracker:"131313",skip:"CCC",pagebg:"131313",transparentpagebg:"yes"});</script>
-<div id="inline_register_selection_wrap" class="cloak">
-	<div id="inline_register_selection">
-		<div id="registration_modal" class="content_bg clearfix">
-				<p class="title top_hat"><span>Registration Loudwire</span></p>
-				<div class="registermsg">
-					<p>Sign up for an account to comment, share your thoughts, and earn points to get great prizes.</p>
-									</div>
-				
-				<div class="registration_holder">
-						
-						<a id="register_btn" class="button-primary button" href="/registration" tabindex="503">Registration</a>
-						
-						
-						<script>
-							function fbLoginDialog(){
-
-									var w=500,h=300;
- 								    var posx = (screen.width/2)-(w/2);
-									var posy = (screen.height/2)-(h/2);
-									signinWin = window.open("https://www.facebook.com/dialog/oauth?client_id=68183897688&display=popup&redirect_uri=http:%2F%2Ftest.townsquare.local%2Fwp-content%2Fplugins%2Fwp-fb-autoconnect%2Fcustompages%2Fregistration-dialog.php&scope=email,read_stream", "SignIn", "width=780,height=410,toolbar=0,scrollbars=0,status=0,resizable=0,location=0,menuBar=0,left=" + posx + ",top=" + posy);
-									signinWin.focus();
-									
-							}
-						</script>
-						
-						<!-- Facebook connect Button v2.3.0 -->
-<!--WARNING: Invalid or Unset Facebook API Key-->							
-					</div> <!-- // .registration_holder -->
-
-				</div><!-- // .registration_form_Wrap -->
-
+</ul></div><div id="network_links" class="horizontal_navigation clearfix">
+		<div id="network_footer" class="menu">
+		<ul>
+					<li class="page_item">
+				<a href="http://tasteofcountry.com" title="Country" target="_blank">Country</a>
+			</li>
+					<li class="page_item">
+				<a href="http://popcrush.com" title="Pop Music" target="_blank">Pop Music</a>
+			</li>
+					<li class="page_item">
+				<a href="http://ultimateclassicrock.com" title="Classic Rock" target="_blank">Classic Rock</a>
+			</li>
+					<li class="page_item">
+				<a href="http://loudwire.com" title="Rock News" target="_parent">Rock News</a>
+			</li>
+					<li class="page_item">
+				<a href="http://diffuser.fm" title="Indie" target="_blank">Indie</a>
+			</li>
+					<li class="page_item">
+				<a href="http://thefw.com" title="Funny" target="_blank">Funny</a>
+			</li>
+					<li class="page_item">
+				<a href="http://guyspeed.com/sports/" title="Sports" target="_blank">Sports</a>
+			</li>
+					<li class="page_item">
+				<a href="http://screencrush.com" title="Movies" target="_blank">Movies</a>
+			</li>
+					<li class="page_item">
+				<a href="http://thedrop.fm" title="Hip-Hop" target="_blank">Hip-Hop</a>
+			</li>
+					<li class="page_item">
+				<a href="http://starcrush.com/" title="Celebs" target="_blank">Celebs</a>
+			</li>
+					<li class="page_item">
+				<a href="http://arcadesushi.com/" title="Video Games" target="_blank">Video Games</a>
+			</li>
+					<li class="page_item">
+				<a href="http://allchristmas.fm/" title="Christmas" target="_blank">Christmas</a>
+			</li>
+				</ul>
 	</div>
-</div><!-- ip: 204.236.235.245 -->
-<!-- Page rendered at 12:08:48 am 12/18/12 --><script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/loudwire.com/wp-content/plugins/graceful-email-obfuscation/geo-spam-prevention.js?ver=0.1"></script>
-<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/loudwire.com/wp-content/plugins/loyalty-activities/resources/js/loyalty.js?ver=3.4.2"></script>
-<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/loudwire.com/wp-content/plugins/radio-page/resources/player-popup.js?ver=e80cc3f2d07dfd9995805c406967c1539f1bbc56"></script>
-<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/loudwire.com/wp-content/mu-plugins/fancybox/vendor/jquery.fancybox-1.3.3.pack.js?ver=e80cc3f2d07dfd9995805c406967c1539f1bbc56"></script>
-<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/loudwire.com/wp-content/mu-plugins/fancybox/vendor/jquery.easing-1.3.pack.js?ver=e80cc3f2d07dfd9995805c406967c1539f1bbc56"></script>
-<script type="text/javascript" src="http://tsm-js.s3.amazonaws.com/jquery.sonar.min.js?ver=e80cc3f2d07dfd9995805c406967c1539f1bbc56"></script>
-<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/loudwire.com/wp-content/plugins/loyalty-activities/resources/js/loyalty_ftlink_link.js?ver=e80cc3f2d07dfd9995805c406967c1539f1bbc56"></script>
-<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/loudwire.com/wp-content/themes/townsquare3/resources/js/jquery.platformselector.js?ver=e80cc3f2d07dfd9995805c406967c1539f1bbc56"></script>
-<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/loudwire.com/wp-content/themes/townsquare3/resources/js/jquery.template.js?ver=e80cc3f2d07dfd9995805c406967c1539f1bbc56"></script>
-<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/loudwire.com/wp-content/mu-plugins/ts-widgets/resources/request_song.js?ver=e80cc3f2d07dfd9995805c406967c1539f1bbc56"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var pwsL10n = {"empty":"Strength indicator","short":"Very weak","bad":"Weak","good":"Medium","strong":"Strong","mismatch":"Mismatch"};
-var pwsL10n = {"empty":"Strength indicator","short":"Very weak","bad":"Weak","good":"Medium","strong":"Strong","mismatch":"Mismatch"};
-try{convertEntities(pwsL10n);}catch(e){};;
-/* ]]> */
-</script>
-<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/loudwire.com/wp-admin/js/password-strength-meter.js?ver=3.4.2"></script>
-<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/loudwire.com/wp-admin/js/user-profile.js?ver=3.4.2"></script>
+	</div><div id="bottom_banner" class="tsmAd clearfix"><!-- /TSM_LOUD_BOTTOM_LEADERBOARD -->
+	<script src="http://ad.doubleclick.net/adj/loudwire.mmn/home;id=142872;pos=bottom;genre=rock;dc_ref=http%3A%2F%2Floudwire.com;dcopt=ist;tile=7;sz=728x90;ord=1369831384?"></script></div></footer><!-- // footer -->
+
+<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/loudwire.com/wp-content/plugins/audio-player/assets/audio-player.js?ver=2.0.4.1"></script>
+<script type="text/javascript">AudioPlayer.setup("http://loudwire.com/wp-content/plugins/audio-player/assets/player.swf?ver=2.0.4.1", {width:"290",animation:"yes",encode:"yes",initialvolume:"60",remaining:"no",noinfo:"no",buffer:"5",checkpolicy:"no",rtl:"no",bg:"CCCCCC",leftbg:"90C9FF",lefticon:"FFFFFF",voltrack:"CCCCCC",volslider:"FFFFFF",rightbg:"90C9FF",rightbghover:"90C9FF",righticon:"FFFFFF",righticonhover:"FFFFFF",text:"131313",track:"CCCCCC",border:"CCCCCC",loader:"CCCCCC",tracker:"131313",skip:"CCCCCC",pagebg:"131313",transparentpagebg:"yes"});</script>
+<div style="display:none;">
+	<div id="fb-auth-form-nonce"><input type="hidden" id="fb_auth_form_nonce" name="fb_auth_form_nonce" value="b142f7cdfa"><input type="hidden" name="_wp_http_referer" value="/privacy/"></div>
+	<div id="fb-auth-account-activation" class="fb-auth-form">
+		<h3 class="generic-link-color">Welcome back to Loudwire</h3>
+		<p>It appears that you already have an account created within our VIP network of sites on <a class="blog-tag generic-link-color" href="#"></a>. To keep your points and personal information safe, we need to verify that it's really you. To activate your account, please confirm your <a class="blog-tag generic-link-color" href="#"></a> password. When you have confirmed your password, you will be able to log in through Facebook on both sites.</p>
+		<p class="error-messages"></p>
+		<p>
+			<label>Enter your password</label>
+			<input class="password" type="password" name="cpwd" value="">
+			<a class="forgot generic-link-color" href="/login/?action=lost-password">Forgot your password?</a>
+		</p>
+		<div class="default-button">
+			<a href="#">YES, Activate My Account Now!</a>
+		</div>
+		<p class="meta">*Please note that your points, prizes and activities will not be shared between programs within our VIP network.</p>	</div>
+
+	<div id="fb-auth-site-activation" class="fb-auth-form">
+		<h3 class="generic-link-color">Welcome back to Loudwire</h3>
+		<p>It appears that you already have an account on this site associated with <strong class="user-email"></strong>. To connect your existing account with your Facebook account, just click on the account activation button below. You will maintain your existing profile and VIP program points. After you do this, you will be able to always log in to <a class="generic-link-color" href="http://loudwire.com" target="_blank">http://loudwire.com</a> using your Facebook account.</p>
+		<p class="error-messages"></p>
+		<div class="default-button"><a href="#">YES, Activate My Account Now!</a></div>
+				<p class="meta">*Please note that your points, prizes and activities will not be shared between programs within our VIP network.</p>	</div>
+
+	<div id="fb-auth-required-fields" class="fb-auth-form">
+		<h3 class="generic-link-color">We're Almost There!</h3>
+		<p>Please fill out the information below to help us provide you a better experience.</p>
+		<p class="error-messages"></p>
+		<p>
+			<label>Zip</label>
+			<input class="zip" type="text" name="zip" value="">
+			<label class="subscribe">Subscribe to Newsletter</label>
+			<input class="newsletter" type="checkbox" name="newsletter" value="1" checked="checked">
+		</p>
+		<div class="default-button"><a href="#">Continue and Activate</a></div>
+	</div>
+
+	<div id="fb-auth-login" class="fb-auth-form">
+		<h3 class="generic-link-color">Sign into Loudwire</h3>
+		<p class="error-messages"></p>
+		<label>User Name<span>(Email)</span></label>
+		<input type="text" class="username" tabindex="600" value="" name="username">
+		<label>Password <a class="forgot generic-link-color" href="http://loudwire.com/login/?action=lost-password">(Forgot your password?)</a></label>
+		<input type="password" class="password" tabindex="601" value="" name="password">
+		<div class="default-button login"><a href="#">Log In</a></div>
+		<div class="or"></div>
+		<div class="facebook-connect-button"></div>
+		<p class="meta">Register on Loudwire quickly by logging in with your Facebook account.  It's just as secure, and no password to remember!</p>
+		<p class="register">Not a Member? <a class="fb-auth-registration-link generic-link-color" href="#fb-auth-registration">Sign Up Here.</a></p>
+	</div>
+
+	<div id="fb-auth-registration" class="fb-auth-form">
+		<h3 class="generic-link-color">Loudwire Registration</h3>
+		<p class="error-messages"></p>
+		<p>Sign up for an account to comment, share your thoughts and join the Loudwire forum conversations!</p>
+		<div class="default-button registration"><a href="/registration/">Registration</a></div>
+		<div class="or"></div>
+		<div class="facebook-connect-button"></div>
+		<p class="meta">Register on Loudwire quickly by logging in with your Facebook account.  It's just as secure, and no password to remember!</p>
+	</div>
+</div><!-- Page rendered at 8:43:05 am 05/29/13 --><script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/loudwire.com/wp-content/plugins/graceful-email-obfuscation/geo-spam-prevention.js?ver=0.1"></script>
+<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/loudwire.com/wp-content/mu-plugins/fancybox/vendor/jquery.fancybox-1.3.3.pack.js?ver=97c938a0e92f178ae4683be08921c498ae2797a1"></script>
+<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/loudwire.com/wp-content/plugins/loyalty-activities/resources/js/loyalty.js?ver=2"></script>
+<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/loudwire.com/wp-content/plugins/radio-page/resources/player-popup.js?ver=97c938a0e92f178ae4683be08921c498ae2797a1"></script>
+<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/loudwire.com/wp-content/mu-plugins/fancybox/vendor/jquery.easing-1.3.pack.js?ver=97c938a0e92f178ae4683be08921c498ae2797a1"></script>
+<script type="text/javascript" src="http://tsm-js.s3.amazonaws.com/jquery.sonar.min.js?ver=97c938a0e92f178ae4683be08921c498ae2797a1"></script>
+<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/loudwire.com/wp-content/mu-plugins/sonar-load/js/sonar.load.js?ver=97c938a0e92f178ae4683be08921c498ae2797a1"></script>
+<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/loudwire.com/wp-content/plugins/facebook-apps/js/facebook-auth.js?ver=97c938a0e92f178ae4683be08921c498ae2797a1"></script>
+<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/loudwire.com/wp-content/plugins/loyalty-activities/resources/js/loyalty_ftlink_link.js?ver=97c938a0e92f178ae4683be08921c498ae2797a1"></script>
+<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/loudwire.com/wp-content/plugins/social-sharing/resources/social-tracking.js?ver=97c938a0e92f178ae4683be08921c498ae2797a1"></script>
+<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/loudwire.com/wp-content/plugins/social-sharing/resources/more-button.js?ver=97c938a0e92f178ae4683be08921c498ae2797a1"></script>
+<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/loudwire.com/wp-content/themes/townsquare3/resources/js/handlebars.js?ver=97c938a0e92f178ae4683be08921c498ae2797a1"></script>
+<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/loudwire.com/wp-content/themes/townsquare3/resources/js/jquery.template.js?ver=97c938a0e92f178ae4683be08921c498ae2797a1"></script>
+<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/loudwire.com/wp-content/widgets/request-song/js/request_song.js?ver=97c938a0e92f178ae4683be08921c498ae2797a1"></script>
+<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/loudwire.com/wp-content/widgets/dynamic-lead/js/jquery.tsc-sliders.js?97c938a0e92f178ae4683be08921c498ae2797a1"></script>
             <script type="text/javascript">
             	jQuery(document).ready( function(){
                 	PlayerPopupObj.init({
 						w:'990',
-						h:'455',
-						listenlivebutton:''
+						h:'494',
+						listenlivebutton:'.listennow_wrapper .listen-live-button, .listen-live-bar'
     				});
                 });
             </script>
-            <div class="fancybox-wrap">
-    <div id="inline_login">
-        <div id="login_modal">
-            <p class="top_hat"><span>Sign into Loudwire</span></p>
-            <form id="login_form" class="login-registration" action="http://loudwire.com/login/?referer=http://loudwire.com/privacy" method="post" target="_parent">
-                <div class="input clearfix">
-                    <label for="user_login">User Name<span>(Email)</span></label>
-                    <input type="text" class="input validate valid-required" tabindex="500" size="22" value="" id="user_login" name="log">
-                </div><!-- // #.input -->
-                <div class="input clearfix">
-                    <label for="user_pass">Password</label>
-                    <input type="password" class="input validate valid-required" tabindex="501" size="22" value="" id="user_pass" name="pwd">
-                </div><!-- // #.input -->
-                <input type="submit" name="login_form_submit" id="login_form_submit" class="button-primary button submit-button clearfix" value="Log In" tabindex="503">
-                <input type="hidden" name="redirect_to" value="http://loudwire.com/privacy">
-                <input type="hidden" name="testcookie" value="1">
-            </form>
-            <!-- Facebook connect Button v2.3.0 -->
-<!--WARNING: Invalid or Unset Facebook API Key-->            <p class="register-link">Not a Member? <a href="http://loudwire.com/registration/" target="_parent">Sign Up Here.</a></p>
-        </div>
-    </div>
-</div>
+            <!-- ip: 204.236.235.245 -->
 </div><!-- // #takeover_wrap.body_child  -->
+
 
 <!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
 
 Page Caching using memcached
-Object Caching 2697/2819 objects using memcached
+Object Caching 2562/2649 objects using memcached
 Content Delivery Network via wac.450F.edgecastcdn.net/80450F/loudwire.com
 
-Served from: loudwire.com @ 2012-12-18 05:08:48 --></body></html>
+Served from: loudwire.com @ 2013-05-29 12:43:05 --></body></html>
