@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nationaltheatre.org.uk privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223114808id_/http%3A//www.nationaltheatre.org.uk/your-visit/website-help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationaltheatre.org.uk privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529182439id_/http%3A//www.nationaltheatre.org.uk/your-visit/website-help/privacy) for the most accurate reproduction.*
 
-# Privacy | National Theatre
+# Privacy | National Theatre | South Bank, London
 
-The National Theatre - Privacy Policy
+The National Theatre − Privacy Policy
 
 ### 1\. Privacy commitment
 
@@ -14,9 +14,9 @@ The nationaltheatre.org.uk website is owned and operated by The National Theatre
 
 In order to process a transaction, your Personal Information and card details may be passed to third party service providers. Card details will only be used for the purpose of handling an individual transaction.
 
-The Personal Information you supply when you join one of our e-mail lists will be used by the National Theatre to keep you up-to-date with events and activities organised by the National Theatre. When purchasing tickets you are given the opportunity to opt in to receiving news and information from the National Theatre and its co-producers, other arts organisations and our sponsors. When joining one of our e-mail lists you are given the opportunity to opt in to receiving information from other arts organisations and our sponsors. The National Theatre will only pass on your Personal Information for marketing purposes if the relevant box has been ticked. In these instances, we supply your Personal Information for one-off use by the other arts organisation. Each e-mail we send you offers you the opportunity to amend these preferences, or you can ask us to do this, by e-mailing [boxoffice@nationaltheatre.org.uk](mailto:boxoffice@nationaltheatre.org.uk).
+The Personal Information you supply when you join one of our e-mail lists will be used by the National Theatre to keep you up-to-date with events and activities organised by the National Theatre. When purchasing tickets you are given the opportunity to opt in to receiving news and information from the National Theatre and its co-producers, other arts organisations and our sponsors. When joining one of our e-mail lists you are given the opportunity to opt in to receiving information from other arts organisations and our sponsors. The National Theatre will only pass on your Personal Information for marketing purposes if the relevant box has been ticked. In these instances, we supply your Personal Information for one-off use by the other arts organisation. Each e-mail we send you offers you the opportunity to amend these preferences, or you can ask us to do this, by e-mailing [boxoffice@nationaltheatre.org.uk](mailto:boxoffice@nationaltheatre.org.uk)
 
-2.2 If you would like to revise the information provided to us at any time, or feel what we currently have on record is incorrect, you may update the information by e-mailing [boxoffice@nationaltheatre.org.uk](mailto:boxoffice@nationaltheatre.org.uk).
+2.2 If you would like to revise the information provided to us at any time, or feel what we currently have on record is incorrect, you may update the information by e-mailing [boxoffice@nationaltheatre.org.uk](mailto:boxoffice@nationaltheatre.org.uk)
 
 2.3 We may from time to time ask you for further information in order to update our records or for particular purposes. We will always tell you how we will use any further information received from you. From time to time we will need to send you our website and service announcement updates.
 
