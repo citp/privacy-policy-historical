@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the infolinks.com privacy policy that was archived on 2012-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120802032704id_/http%3A//www.infolinks.com/infolinks-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infolinks.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529171239id_/http%3A//www.infolinks.com/privacy-policy) for the most accurate reproduction.*
 
-# Infolinks Privacy Policy | INFOLINKS
+# Privacy Policy
 
 Infolinks is a Publisher-side Technology Company. Publisher-side means that all of our solutions reside on the individual servers of the websites we partner with.
 
@@ -10,15 +10,13 @@ Infolinks is a Publisher-side Technology Company. Publisher-side means that all 
 
 
 
-Infolinks, Inc. ("Infolinks") respects the privacy concerns of the users of its Website, [www.infolinks.com](http://www.infolinks.com/) (the "Website"). Infolinks thus provides this privacy policy to explain what information is gathered during a visit to the Website and how such information may be used.  
- 
+Infolinks, Inc. ("Infolinks") respects the privacy concerns of the users of its Website, [www.infolinks.com](https://web.archive.org/) (the "Website"). Infolinks thus provides this privacy policy to explain what information is gathered during a visit to the Website and how such information may be used.
 
-Use of Information:
+## Use of Information:
 
-As a general policy no personally identifiable information, such as your name, address, or e-mail address, is automatically collected from your visit to the Website. However, certain non-personal information is recorded by the standard operation of Infolinks' Internet servers. Information such as the type of browser being used, its operating system, and your IP address is gathered in order to enhance your online experience.  
- 
+As a general policy no personally identifiable information, such as your name, address, or e-mail address, is automatically collected from your visit to the Website. However, certain non-personal information is recorded by the standard operation of Infolinks' Internet servers. Information such as the type of browser being used, its operating system, and your IP address is gathered in order to enhance your online experience.
 
-Specific uses of information on the Website may include:
+## Specific uses of information on the Website may include:
 
   * **Infolinks' Inquiry Form:**  The Infolinks Website contains an "inquiry form" for web publishers to request additional information about Infolinks' products/services. The inquiry form requires web publishers to give contact information (such as name and email address.) Infolinks uses this information to contact Web Publishers about the services on the Website in which they have expressed interest.
   * Web Publishers have the option to provide demographic information (such as website address and vertical sector) to Infolinks. Infolinks encourages them to submit this information so it can provide them a more customized reply to their inquiry.
@@ -43,19 +41,15 @@ Specific uses of information on the Website may include:
 
 **Use of Cookies:**  Cookies are pieces of information that a website transfers to an individual's computer hard drive for record keeping purposes. Cookies make using our Website easier by, among other things, saving your passwords and preferences for you. These cookies are restricted for use only on our Website, and do not transfer any personal information to any other party. Most browsers are initially set up to accept cookies. You can, however, reset your browser to refuse all cookies or indicate when a cookie is being sent. Please consult the technical information relevant to your browser for instructions. If you choose to disable your cookies setting or refuse to accept a cookie, some parts of the Website may not function properly or may be considerably slower.
 
-Contact Information for Questions, Comments and Complaints: If you have any questions, comments or complaints about [www.infolinks.com](http://www.infolinks.com/ "www.infolinks.com") or about this privacy statement, please contact:
+Contact Information for Questions, Comments and Complaints: If you have any questions, comments or complaints about [www.infolinks.com](https://web.archive.org/ "www.infolinks.com") or about this privacy statement, please contact:
 
 Via mail:
 
-Infolinks, Inc
-
-505 Hamilton Ave.
-
-Suite 210
-
-Palo Alto, CA 94301
-
-US
+Infolinks, Inc  
+505 Hamilton Ave.  
+Suite 210  
+Palo Alto, CA 94301  
+USA
 
 Via email: [info@infolinks.com](mailto:info@infolinks.com)
 
