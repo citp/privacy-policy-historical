@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trueswords.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015170100id_/http%3A//www.trueswords.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trueswords.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529225957id_/http%3A//www.trueswords.com/privacy.php) for the most accurate reproduction.*
 
 # True Swords - Samurai Swords, Full Tang, Real Blades, Movie, Anime, Video Game, & Manga Replicas
 
@@ -32,7 +32,7 @@ www.trueswords.com is not in the business of selling its information to others. 
 
 **How Secure Is Information About Me?**
 
-  * We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. 
+  * We work to protect the security of your information during transmission by using Transport Layer Security (TLS) software, which encrypts information you input. TLS is the improved successor to Secure Sockets Layer (SSL) 
   * We reveal only the last five digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing. 
   * It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer. 
 
