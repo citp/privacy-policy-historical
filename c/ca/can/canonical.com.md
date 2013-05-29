@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the canonical.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116033859id_/http%3A//www.canonical.com/aboutus/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canonical.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530005640id_/http%3A//www.canonical.com/aboutus/privacypolicy) for the most accurate reproduction.*
 
 # Canonical's privacy policy | Canonical
 
-**What’s changed?** On Thursday 18th October 2012 we updated our privacy policies by consolidating them into one document.
-
-**Why?** We care about your privacy and want to ensure that it is clear what personal information we are collecting from you, when we collect it and what we do with that personal information. By consolidating all of our policies into one place we hope that it will be easier for you to see what we're doing.
-
-**What's changed?** Nothing. We're not doing anything different with your personal information. We're just making things clearer.
+**Last Updated: 25th March 2013**
 
 Please read the updated Privacy Policy to find out more.
 
@@ -32,6 +28,17 @@ We may collect the following types of personal information from you:
   * **Error reports** \- When you chose to send an error report, it includes a unique identifier for your computer. This identifier does not identify you, unless you (or someone acting on your behalf) discloses it separately. An error report may include personal information such as the state of programs that were running at the time. You can block future error reports from the privacy panel of System Settings.
   * **Ubuntu Online Accounts** \- When you use Ubuntu Online Accounts, your personal information is stored on your PC and it can be accessed by some applications. To see the legal notice explaining how we use this personal information, please [click here](http://www.ubuntu.com/aboutus/online-accounts-legal-notice).
   * **General** \- If you contact us and provide us with information, we may keep a record of that correspondence and information.
+  * **Searching in the dash** \- When you enter a search term into the dash Ubuntu will search your Ubuntu computer and will record the search terms locally. Unless you have opted out (see the “Online Search” section below), we will also send your keystrokes as a search term to [productsearch.ubuntu.com](http://productsearch.ubuntu.com/) and selected third parties so that we may complement your search results with online search results from such third parties including: Facebook, Twitter, BBC and Amazon. Canonical and these selected third parties will collect your search terms and use them to provide you with search results while using Ubuntu.
+
+By searching in the dash you consent to:
+
+    1. the collection and use of your search terms and IP address in this way; and
+    2. the storage of your search terms and IP address by Canonical and such selected third parties (if applicable).
+
+Canonical will only use your search terms and IP address in accordance with this Privacy Policy. For information on how our selected third parties may use your information, please see their privacy policies.
+
+You may restrict your dash so that we don’t send searches to third parties and you don't receive online search results. To do this go to the Privacy panel and toggle the ‘Include online search results’ option to off. The Privacy panel can be found in your System Settings or via a dash search. For a current list of our selected third parties, please see [www.ubuntu.com/privacypolicy/thirdparties](http://www.ubuntu.com/privacypolicy/thirdparties).
+
 
 
 
