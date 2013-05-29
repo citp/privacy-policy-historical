@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comixology.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225135045id_/http%3A//www.comixology.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comixology.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529052946id_/http%3A//www.comixology.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Comics by comiXology
 
@@ -13,7 +13,7 @@ This Policy applies to information collected by the “Comics” application for
 
 This Policy does not cover the collection and use of your personal data on other applications, websites, or services, or by our business partners, or any other information or communications that may relate to comiXology outside of the App and the Site.
 
-The company that operates under the comiXology brand and provides the Service is Iconology, Inc. (the “Company”), 159 West 25th Street, 9th FL, New York, NY 10001 (USA). You can contact us by email at [support@comixology.com](mailto:support@comixology.com). We may also refer to the Company by words such as “we” or “us.”
+The company that operates under the comiXology brand and provides the Service is Iconology, Inc. (the “Company”), 512 7th Avenue, 12th Fl, New York, NY 10018 (USA). You can contact us by email at [support@comixology.com](mailto:support@comixology.com). We may also refer to the Company by words such as “we” or “us.”
 
 ### 1\. Information We Collect and How We Use It
 
