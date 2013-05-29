@@ -1,51 +1,95 @@
-> *The following text is extracted and transformed from the desihit.net privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610021744id_/http%3A//www.kaminey.net/component/content/article/653.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desihit.net privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529211355id_/http%3A//desihit.net/component/content/article/8076.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Privacy Policy**
+DesiHit.net ("DesiHit.net") is committed to protecting its users' privacy. This Privacy Policy (the "Privacy Policy"), as set forth below, covers desihit.net ("desihit.net" or the "website") and applies solely to information collected on cinebasti.com . Please read this Privacy Policy to understand how we will treat personally and non-personally identifiable information we collect on cinebasti.com. This Privacy Policy may change from time to time, so please check back periodically. 
 
-**Kaminey.Net** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site:
+**What personally identifiable information is collected from me?**
 
-#### Information Automatically Logged
+We recognize the importance of protecting the privacy of personally identifiable information collected about visitors to the Site. Except with respect to certain designated elements of the Site that require registration, you can use cinebasti.com without divulging any personally identifiable information, including your email address. The Site does not collect personally identifiable information about you unless you expressly provide such information to us on a voluntary basis. For example, you may provide your personally identifiable information to complete contest entry forms, to complete your registration on the Site or the various services offered on the Site, including community postings such as the cinebasti.com Community, chats and bulletin boards. Except as described below, in those instances in which you "opt-in" to receive offers directly from our third party partners, such personally identifiable information will never be shared with third parties outside of DesiHit.net and its affiliated companies or third party vendors acting on their behalf. 
 
-We use your IP address to help diagnose problems with our server and to administer our Web site. Your IP address is also used to gather broad demographic information. Your IP address or demographic information is never shared with anyone or disclosed to third parties.
+We may, from time to time, give you the opportunity to receive special offers, such as newsletters, email reminders or special discounts, directly from companies with which we partner. In order to take advantage of these opportunities, you must affirmatively authorize us to share your personally identifiable information with these third party partners; we will never share such information unless you specifically "opt-in" to receive such an offer from one of our partners. Similarly, as part of certain sweepstakes entries we may also give you the opportunity to sign up to receive special offers from our advertising partners. Again, during the entry process, your information will be shared with our partners only if you take specific action to indicate that you would like us to do so. 
 
-#### Cookies
+You may choose to provide us with the certain personally identifiable information when using the Site or the various services offered on the Site, including:
 
-Various methods are employed to gather this data. "Cookies" are used to distinguish and relate non personal data to individuals. These are "small strings of text" that are stored in browsers; cookies are not programs that can damage your computer. If you wish to stop the cookie functionality on your browser, you may do so.
+* Your name  
+* Online contact information (email address or phone number)  
+* Your login information 
 
-Our Site uses cookies to make sure you don't see the same ad repeatedly. We also use cookies to deliver content specific to your interests, and to save your login information so you don't have to re-enter it each time you visit our site. Information collected using cookies is never shared with anyone or disclosed to third parties.
+In addition, at times, we may ask you to provide non-personally identifiable information about yourself that may be linked with your personally identifiable information you provide. Provision of this information is optional. Such information includes:
 
-#### Advertisers
+* Gender  
+* Preferences (what you like or dislike)  
+* Survey answers (votes and ratings of Movies and Celebrities) 
 
-We work with various third party advertising networks. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by advertising network, and we do not have access to this information.
+**What non-personally identifiable information is collected automatically?**
 
-#### Registration Forms
+We automatically collect certain non-personally identifiable information from you to optimize our web pages for your computer such as
 
-Kaminey.Net does not collect personally identifiable information about individuals, except when individuals provide such information on a voluntary basis in our contests
+* clickstream information (internet protocol ("IP") address, internet service provider, platform type, date/time stamp) http protocol information (last URL requested and browser type)  
+* interaction information (browser interaction such as when the mouse moves over an image)  
+* computer information (computer and browser information)  
+* search terms (search text)  
+* to collect such data we use Google Analytics, whose privacy policy is covered by Googles Privacy policy
 
-Contact information from the registration forms is used to get in touch with the customer when necessary. Contact information is never shared with anyone or disclosed to third parties.
+We may use such non-personally identifiable information for internal purposes, including, but not limited to, improving the content of the Site and the services offered on the Site. (See "How is my information used?")
 
-Demographic and profile data is also collected at our site.
+**How is my information used?**
 
-This information is shared with advertisers on an aggregate basis. We use this data to tailor our visitor's experience at our site showing them content that we think they might be interested in, and displaying the content according to their preferences. This data is also used to serve banner ads.
+We will use personally identifiable information that you submit to the Site for the purposes for which you submitted it. At the time you provide personally identifiable information, you have the option of instructing us not to send you our special email offers, and of affirmatively consenting to receiving email offers aboutour partners. 
 
-#### External Links
+We may disclose personally identifiable information when required by law or when we have a good faith belief that such action is necessary to comply with a current judicial proceeding, court order, government investigation or legal process.
 
-This site contains links to other sites. **Kaminey.Net** is not responsible for the privacy practices or the content of such Web sites.
+We may use non-personally identifiable information collected on the Site to enhance the Site and our product offerings, to maintain and secure the Site, and to understand the interests of Site visitors. Generally, we use non-personally identifiable information to analyze trends, administer the website, and gather information for aggregate use (IP addresses are not linked to personally identifiable information).
 
-#### Public Forums
+We may also use the statistical compilation and aggregation of non-personally identifiable information and may provide such information to third parties for marketing, advertising or research purposes.
 
-This site makes chat rooms, opinion polls, and/or news available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
+We may also disclose your personally identifiable information to any third party as we, in our sole discretion, believe necessary or appropriate, in connection with a merger or consolidation with such third party or the sale of some or all of our assets, provided that such third party agrees to comply with the then-current version of this Privacy Policy.
 
-#### Security
+**How is my information kept secure?**
 
-This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. We make every effort to maintain quality of service and prevent misuse.
+We maintain commercially reasonable safeguards to ensure the security, integrity and privacy of personally identifiable information submitted to our Sites, and we periodically review and update security measures in   
+light of current technologies.
 
-#### Children's Guidelines ( Children under 13 )
+**Profile Preferences**
 
-This site collects and uses personally identifiable information without prior verifiable parental consent. This site allows children to post or distribute any personally identifiable information without first obtaining verifiable parental consent.
+You may change your personal profile preferences on the site at any time.
 
-#### Contacting the Web Site
+**Email Policies**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us](http://www.kaminey.net/contact-us.html) .
+By default, we send a weekly and sometimes bi-weekly newsletter updates regarding Movie news stories, new features, and updates from DesiHit.net. We also send a variety of notification emails pertaining to your   
+profile and your friends interactions with the site. You have full control over which emails you wish to receive, simply go to "My Profile" and edit your preferences.
+
+**Inviting Friends**
+
+CineBasti is more fun with friends! The site is a community site made up of friendly Movie lovers and is intended to be shared with friends; however, it is completely optional to invite friends. 
+
+When inviting friends, we will send an email to the addresses you enter indicating it is a message from you so that they know it is coming from you. If a friend does not respond, we may send one or two reminder messages on your behalf. 
+
+As an added convenience, DesiHit.net offers the ability import address books from Hotmail, Yahoo, Gmail, and AOL. We access the address book only once for the sole purpose of retrieving your friends' information so that you can select who you would like to invite. We do not store any login details or use them for any other purpose than to retrieve your contacts. We never invite contacts that you do not explicitly select and no emails will be sent to your friends other than the invite email unless they register to join DesiHit.net
+
+**What are cookies and how are they used by the Sites?**
+
+Cookies are files that a web site places on an individual's hard-drive for record-keeping purposes. Cookies, which are an industry standard used by most web sites, can facilitate a user's ongoing access to and use of a site.
+
+Our cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you. We will not share or sell non-aggregated information contained within cookies with any third party. The cookie itself does not contain any personally identifiable information.
+
+If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to deny or accept the cookie feature, but you should note that cookies may be necessary to provide you with such special features as customized content delivery. Cookies can be removed from your computer by following Internet browser "help" file directions.
+
+**Does DesiHit.net use Third Party Ad Servers?**
+
+We use third party advertising companies and advertising networks to deliver advertisements on the Site. These companies may use cookies, web beacons, clear .gifs or similar technologies to help present such advertisements, and to help measure and research the advertisements' effectiveness. The use of these technologies by these companies is subject to their own privacy policies and is not covered by this Privacy Policy. If you would like more information about this practice please visit www.networkadvertising.org.
+
+**Does** **DesiHit.net** **collect personally identifiable information from children?**
+
+We ask that all parents spend time with their children and monitor what sites their children are visiting. We do not knowingly collect personally identifiable information from children under the age of 13. We also suggest that no children under 18 submit personally identifiable information to any game, membership, contest or promotion that we might host without first obtaining a parent's consent. Our Site is not intended for use by and is not directed to children.
+
+**Changes to this Privacy Policy**
+
+We will occasionally update this Privacy Policy. When we do, we will also revise the "last updated" date at the bottom of the Privacy Policy. For material changes to this Privacy Policy, we will notify you by placing a prominent notice on the Site.
+
+**Contact Information**
+
+If you have any questions or comments about this Privacy Policy, please contact us at:
+
+<http://desihit.net/contact-us.html>
