@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the verisigninc.com privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218183239id_/http%3A//www.verisigninc.com/en_US/privacy/index.xhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the verisigninc.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530011833id_/http%3A//www.verisigninc.com/en_US/privacy/index.xhtml) for the most accurate reproduction.*
 
 # Privacy Statement - Verisign Privacy Program - Verisign
 
