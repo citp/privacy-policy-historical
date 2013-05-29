@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the copypastecash.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231143750id_/http%3A//copypastecash.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the copypastecash.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529222749id_/http%3A//copypastecash.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - CopyPasteCash
 
