@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the energysage.com privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110111954id_/http%3A//energysage.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the energysage.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529182908id_/http%3A//www.energysage.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | EnergySage
+# Privacy Policy | EnergySage News | EnergySage
 
 EnergySage is committed to protecting the privacy of its customers and third-party vendors (“Users”). The purpose of this Privacy Policy is to describe how we meet that commitment to our Users in practice. This Privacy Policy describes the types of information we may collect, how we may use that information, the steps we take to protect it, the circumstances under which we may disclose or transfer it, and the choices you have regarding submitting and maintaining your information.
 
