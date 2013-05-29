@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webinspector.com privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110063621id_/http%3A//www.comodo.com/repository/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webinspector.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529195307id_/http%3A//www.comodo.com/repository/privacy-policy.php) for the most accurate reproduction.*
 
 # Policies and Practices of the Comodo Companies - Privacy Statement
 
@@ -7,6 +7,10 @@ This privacy statement describes the policies and practices of the different Com
 #### Information Collection
 
 Personal information is collected from customers only after obtaining consent, which is obtained when customers are prompted for information when subscribing to the services, by using a Comodo website, downloading a product, or requesting further information. Personally-identifiable information is not collected when a user simply browses the website. Comodo may contact customers about offers and opportunities from Comodo or its business partners, to conduct surveys, and gather feedback. This privacy statement does not extend to any information that is beyond the control of Comodo.
+
+In California, IP addresses are considered personally identifiable information.
+
+In the event that third party features and functionalities are incorporated in or made available in or through Comodo products, then the policies of those third parties apply. Please visit each third party’s license agreement and privacy policy to better understand their terms of use and data collection practices.
 
 #### Services
 
@@ -21,6 +25,10 @@ Downloading a product will often require the input of personal information. This
 A cookie is a piece of data stored on a computer's hard disk containing information about the owner. Comodo may employ the use of cookies for measuring the success of advertising and affiliate network membership. Our partners may use cookies. Comodo does not exercise any access or control of such cookies.
 
 Comodo's websites use Google Analytics, a web analytics service provided by Google, Inc. ("Google"), to evaluate the use of the Comodo site. Google Analytics places a third party cookie on your computer that is then used to compile reports of visitor traffic and internet usage. Google analytics does not have a database of individual profiles for each visitor and only collects aggregate data.
+
+#### Re-Targeting
+
+Comodo permits the operation of a retargeting consumer marketing program, including, but not limited to, the provision of anonymous consumer information to a third-party provider of such a program. A link to the Network Advertising Initiative’s consumer opt-out page is located at [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp) and allows the consumer to opt-out of such retargeting programs.
 
 #### Log Files
 
@@ -46,14 +54,18 @@ Comodo provides the ability to send emails to your email contacts. You can use t
 
 #### Security
 
-Comodo protects information both online and off-line. The transmission of information, including any payment information, is encrypted and protected using [Secure Sockets Layer](http://www.instantssl.com/) ([SSL](http://www.instantssl.com/)). Stored customer information is kept in a secure environment where access is restricted to employees who need the information to perform a specific job (for example billing administration or the development team). Employees are required to use password-protected screen-savers and keep their computers up-to-date.
+Comodo protects information both online and off-line. The transmission of information, including any payment information, is encrypted and protected using [Secure Sockets Layer (SSL)](http://www.instantssl.com/). Stored customer information is kept in a secure environment where access is restricted to employees who need the information to perform a specific job (for example billing administration or the development team). Employees are required to use password-protected screen-savers and keep their computers up-to-date.
+
+#### Permissions
+
+With your express permission, certain Comodo applications, such as Comodo Mobile Security and Comodo Anti-Theft, allow the applications access to Global Positioning Data (GPS), cellular network, or other similar data. When requested by you, these applications also specifically access, modify and delete personal data and may send emails or messages from your device. Please review the EULA for each application and the associated Permissions to obtain further details for a particular application.
 
 #### Choice / Opt out
 
-Customers may occasionally receive information on products, services, and special deals from Comodo or may receive informational newsletters. Customers are given the opportunity to 'opt-out' of having information used for purposes not directly related to the Comodo service at the point where the information is requested. Customers may also elect not to receive additional promotional communications using the opt-out link provided in each promotional email or by emailing [optout@comodo.com](mailto:optout@comodo.com). Customers may not opt-out of receiving service announcement updates as they contain important security information about the services.
+Customers may occasionally receive information on products, services, and special deals from Comodo or may receive informational newsletters. Customers are given the opportunity to 'opt-out' of having information used for purposes not directly related to the Comodo service at the point where the information is requested. Customers may also elect not to receive additional promotional communications using the opt-out link provided in each promotional email or by emailing [optout@comodo.com](mailto:optout@comodo.com). Customers may not opt-out of receiving service announcement updates as they contain important security information about the services. 
 
 #### Amendments
 
 Comodo reserves the right to amend this privacy statement at any time. Any amendment will be made by posting the changes to the website. Customers must check the website periodically to be aware of any changes to the privacy statement. Your continued use of the website or Comodo product or service constitutes your acceptance of those changes.
 
-**Last Updated: February 10, 2011**
+**Last Updated: January 14, 2013**
