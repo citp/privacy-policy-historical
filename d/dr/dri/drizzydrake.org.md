@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the drizzydrake.org privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614013857id_/http%3A//www.drizzydrake.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drizzydrake.org privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529070150id_/http%3A//www.drizzydrake.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | DRIZZYDRAKE.ORG
+# Privacy Policy
 
 This website is operated by or for Orelus Investments, LLC (“ **DRIZZYDRAKE.ORG** “). The following rules set forth **DRIZZYDRAKE.ORG** ‘s rights to collect and make use of certain information.
 
@@ -15,7 +15,7 @@ Third Party Cookies:
 
 Children: Notwithstanding the foregoing, **DRIZZYDRAKE.ORG** does not seek to collect any personally identifiable information of children under 13 years of age and no such information should be submitted and/or posted to this website. 
 
-Media: **DRIZZYDRAKE.ORG** does not take ownership of ANY of the photos or media found on the website, they are copyrighted to they’re respectful owners. Media files such as mixtapes and music downloads are not hosted on our site nor do we claim ownership. If you are the “Owner” of photos and would like us to remove them, please email us at admin [@] drizzydrake.org. Photos are published on the website under the [Fair Use Act](http://www.copyright.gov/fls/fl102.html), and no copyright infringement is intended. Once emailed by any OWNER, we will take it upon our selves to remove the specific image or file from our website.
+Media: **DRIZZYDRAKE.ORG** does not take ownership of ANY of the photos or media found on the website, they are copyrighted to they’re respectful owners. Media files such as mixtapes and music downloads are not hosted on our site nor do we claim ownership. If you are the “Owner” of photos and would like us to remove them or correctly credit them, [click here](http://www.drizzydrake.org/image-copyrights/). Photos are published on the website under the [Fair Use Act](http://www.copyright.gov/fls/fl102.html), and no copyright infringement is intended. Once emailed by any OWNER, we will take it upon our selves to remove the specific image or file from our website.
 
 **Fair Use** is a limitation and exception to the exclusive right granted by copyright law to the author of a creative work. In United States copyright law, fair use is a doctrine that permits limited use of copyrighted material without acquiring permission from the rights holders. Examples of fair use include commentary, criticism, **news reporting** , research, teaching, library archiving and scholarship. It provides for the legal, unlicensed citation or incorporation of copyrighted material in another author’s work under a four-factor balancing test.
 
@@ -23,6 +23,6 @@ California Privacy Rights: Under California Civil Code sections 1798.83-1798.84,
 
 LIMITATION ON LIABILITY: UNDER NO CIRCUMSTANCE SHALL **DRIZZYDRAKE.ORG** , ANY OF ITS AFFILIATES (INCLUDING BY WAY OF COMMON OWNERSHIP), AND/OR ANY OF THEIR OWNERS, OFFICERS, EMPLOYEES OR AGENTS, BE LIABLE TO YOU FOR ANY INDIRECT, SPECIAL, PUNITIVE, INCIDENTAL, EXEMPLARY OR CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION UNDER CONTRACT, NEGLIGENCE AND/OR ANY OTHER LEGAL THEORY, ARISING IN ANY WAY FROM OR IN CONNECTION WITH YOUR ACCESS, USE OR INABILITY TO ACCESS OR USE THIS WEBSITE.
 
-Applicable Law: The laws of the State of New York shall govern all matters relating to this website privacy policy, without giving effect to any principles of conflict of law. By your use of this website, you irrevocably submit to the exclusive jurisdiction of the state and federal courts located in New York County, New York with respect to resolution of disputes arising hereunder. 
+Applicable Law: The laws of the State of Florida shall govern all matters relating to this website privacy policy, without giving effect to any principles of conflict of law. By your use of this website, you irrevocably submit to the exclusive jurisdiction of the state and federal courts located in Broward County, Florida with respect to resolution of disputes arising hereunder. 
 
 Policy Changes: **DRIZZYDRAKE.ORG** reserves the right to change this policy, in whole or part, at any time in its sole and absolute discretion, without prior notice, effective upon providing the updated policy on this website. If you have any questions concerning this policy, please submit your written questions to Orelus Investments, LLC, 14970 Durham Lane, Davie, FL 33331, Attn: General Counsel.
