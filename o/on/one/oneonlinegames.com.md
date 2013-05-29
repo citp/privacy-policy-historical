@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the oneonlinegames.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626184815id_/http%3A//www.oneonlinegames.com/privacy-policy-and-copyrights) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oneonlinegames.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529150238id_/http%3A//www.oneonlinegames.com/privacy-policy-and-copyrights) for the most accurate reproduction.*
 
-# Privacy Policy & Copyrights Download Games
+# Privacy Policy & Copyrights Games Free Download
 
 **Your Privacy at OneOnlineGames.com**
 
@@ -22,7 +22,7 @@ If You Send Us E-mail You may choose to provide us with personal information, as
 
 All games and trademarks on this site are copyright their respective owners. 
 
-If you feel a game hosted on OneOnlineGames.com has been used in error or without proper permission, please send an 
+If you feel a game hosted on OneOnlineGames.com has been used in error or without proper permission, please 
 
 [_**Contact Us**_](http://www.oneonlinegames.com/contact)
 
@@ -50,4 +50,6 @@ Reference in this website to any specific commercial products, processes, or ser
 
 * Google, as a third party vendor, uses cookies to serve ads on your site. * Google's use of the DART cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet. * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
-[](http://www.addtoany.com/share_save?linkurl=http%3A%2F%2Fwww.oneonlinegames.com%2Fprivacy-policy-and-copyrights&linkname=Privacy%20Policy%20%26amp%3B%20Copyrights%20Download%20Games)
+"WEBSITE/PUBLISHER NAME" uses third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, go to: <http://www.networkadvertising.org/managing/opt_out.asp>
+
+[](http://www.addtoany.com/share_save?linkurl=http%3A%2F%2Fwww.oneonlinegames.com%2Fprivacy-policy-and-copyrights&linkname=Privacy%20Policy%20%26amp%3B%20Copyrights%20Games%20Free%20Download)
