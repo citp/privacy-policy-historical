@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spelthorne.gov.uk privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126233317id_/http%3A//www.spelthorne.gov.uk/article/2186/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spelthorne.gov.uk privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529101628id_/http%3A//www.spelthorne.gov.uk/article/2186/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - Spelthorne Borough Council
 
