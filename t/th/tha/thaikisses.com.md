@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thaikisses.com privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111095502id_/http%3A//www.thaikisses.com/datasavety.php%3Fl%3Den%26randm%3D2%26randw%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thaikisses.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529111454id_/http%3A//www.thaikisses.com/datasavety.php%3Fl%3Den%26randm%3D2%26randw%3D3) for the most accurate reproduction.*
 
 # Thai Kisses
 
@@ -93,6 +93,5 @@ The author intended not to use any copyrighted material for the publication or, 
 ## 4\. Legal validity of this disclaimer
 
 This disclaimer is to be regarded as part of the internet publication which you were referred from. If sections or individual terms of this statement are not legal or correct, the content or validity of the other parts remain uninfluenced by this fact.   
-[Hotel Thailand](https://web.archive.org/hotel_thailand.php) | | [Learn Thai](https://web.archive.org/learn_thai.php?language=thai&l=en)|  | [Freeware](https://web.archive.org/web/20121111095502id_/http%3A//www.thaikisses.com/freeware.php?l=en&randm=3&randw=5)|  | [Languages](https://web.archive.org/web/20121111095502id_/http%3A//www.thaikisses.com/languages_all.php?l=en&randm=3&randw=5)|  | [Privacy Policy](https://web.archive.org/web/20121111095502id_/http%3A//www.thaikisses.com/datasavety.php?l=en&randm=3&randw=5)|  | [Terms of service](https://web.archive.org/web/20121111095502id_/http%3A//www.thaikisses.com/agb.php?l=en&randm=3&randw=5)  
----|---|---|---|---|---  
-174.129.237.157
+  
+[Books](https://web.archive.org/amazonbooklinks.php) | [Learn Thai](https://web.archive.org/learn_thai.php?language=thai&l=en) | [Hotel Thailand](https://web.archive.org/hotel_thailand.php) | [Freeware](https://web.archive.org/freeware.php?l=en&randm=3&randw=5) | [Languages](https://web.archive.org/languages_all.php?l=en&randm=3&randw=5) | [Privacy Policy](https://web.archive.org/datasavety.php?l=en&randm=3&randw=5) | [Terms of service](https://web.archive.org/agb.php?l=en&randm=3&randw=5) | [Feedback](https://web.archive.org/ikfeedback.php?l=en)
