@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the techsupportalert.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123055242id_/http%3A//www.techsupportalert.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techsupportalert.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529193453id_/http%3A//www.techsupportalert.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # This Site's Privacy Policy
 
 ##  Gizmo's Freeware is Recruiting
 
-We are looking for people with skills and/or interest in the following areas:  
-\- Best Free Online TV Viewer  
-\- Duplicate File Detector  
-\- Word Processor  
-\- Disk De-fragmenter  
-\- Online Banking & Shopping Guide        **Interested?** [Click here](http://www.techsupportalert.com/we-need-you.htm)
+We are looking for people with skills or interest in the following:  
+\- Mobile Platform Reviews  
+\- Rootkit Scanner and Remover  
+\- Streaming Media Recorder  
+\- Email Client  
+\- Archive Manager         **Interested?** [Click here](http://www.techsupportalert.com/we-need-you.htm)
 
 This is the Privacy Policy that applies to this site. It explains how we handle personal information and comply with the requirements of the privacy laws. If you have further questions relating to this policy, please contact us.
 
