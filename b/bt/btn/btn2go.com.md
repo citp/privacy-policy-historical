@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the btn2go.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225053102id_/http%3A//btn.com/about/btn-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the btn2go.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529182738id_/http%3A//btn.com/about/btn-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « Big Ten Network
 
