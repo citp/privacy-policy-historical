@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taylorswift.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225142200id_/http%3A//taylorswift.com/taylor-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taylorswift.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529151355id_/http%3A//taylorswift.com/taylor-privacy-policy) for the most accurate reproduction.*
 
 # Home : Taylor Swift
 
