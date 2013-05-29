@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the downloadfreely.com privacy policy that was archived on 2012-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121024112038id_/http%3A//downloadfreely.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downloadfreely.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529105751id_/http%3A//downloadfreely.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Download Freely
 
