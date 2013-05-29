@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the findlegalforms.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126234305id_/http%3A//findlegalforms.com/xcart/customer/help.php%3Fsection%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findlegalforms.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529204456id_/http%3A//findlegalforms.com/xcart/customer/help.php%3Fsection%3Dprivacy) for the most accurate reproduction.*
 
-# - FindLegalForms.com
+# Privacy Policy - FindLegalForms.com
 
 Updated: October 26, 2012
 
