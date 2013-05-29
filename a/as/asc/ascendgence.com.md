@@ -1,30 +1,37 @@
-> *The following text is extracted and transformed from the ascendgence.com privacy policy that was archived on 2012-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120124210748id_/http%3A//ascendgence.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ascendgence.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529170206id_/http%3A//pushfire.com/privacy) for the most accurate reproduction.*
 
-# Ascendgence Privacy, Information and Security Policy - Ascendgence
+# Privacy - PushFire
 
-Ascendgence guarantees that no personal information will be released to an individual, corporation or any other business entity without written authorization from the client specifying what information may be released and to whom it may be released.
+This is the web site of PushFire, LLC.
 
-## Ascendgence Collection of Information
+We can be reached via email at info@pushfire.com or by postal mail at:
 
-There are various methods by which we collect client or user information. This information is all protected by this Ascendgence privacy policy and will not be released to any third party without consent from the client.  
-When you contract for services from Ascendgence, we require basic personal or company information which will include but will not be limited to your name, company, address, email address, phone and fax.  
-We retain information which may be personal and given voluntarily at other times, including but not limited to when you provide opinions pertaining to complaints, appreciation and comments on the service/product being provided by Ascendgence. All of these types of information are held in confidence unless release is authorized by client.
+PushFire, LLC  
+20820 Park Row – Suite A, Katy, TX 77449  
+Katy, TX 77449
 
-## Non-Disclosure of Personal or Company Information
+For each visitor to our Web page, our Web server automatically recognizes only the consumer’s domain name, but not the email address (where possible).
 
-We will not reveal your Personal or Company Information to unaffiliated third parties without your consent. If we seek your consent to disclose your Information to a third party, we will do so unambiguously, explaining precisely what information we seek to disclose and to who. As a matter of company philosophy and policy, we would rarely have cause to seek this authorization.  
-Ascendgence will release Personal or Company information if Ascendgence will be legally bound to reveal information, including Personal or Company Information, to the extent it reasonably believes it is required to do so by law. If Ascendgence receives legal process calling for the disclosure of any of its clients Personal or Company Information we will, if permitted by law, attempt to notify the client via e-mail or telephone within a reasonable amount of time before we respond to the request.
+We collect only the domain name, but not the email address of visitors to our Web page, the email addresses of those who communicate with us, aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit, and information volunteered by the consumer (such as survey information and/or site registrations).
 
-## Security
+The information we collect is used for internal review, used to improve the content of our Web page, and then discarded.
 
-We employ reasonable and current security methods to prevent unauthorized access, maintain data accuracy, and ensure correct use of information.  
-Your personal or Company data will be stored within a database that is located behind a firewall for added security. The server housing the database is physically protected at a secure, third party site and is monitored by security personnel twenty-four hours a day. Only authorized personnel can access the data center and the particular server housing the database.  
-No data transmission over the Internet or any wireless network can be guaranteed to be secure. As a result, while we try to protect your personal information, we cannot ensure or guarantee the security of any information you transmit to us, and you do so at your own risk.  
-We do not encrypt your normal web sessions with the Service using SSL. Any transmission to the Ascendgence website or service of credit card information uses SSL encryption.  
-Ascendgence uses industry standard virus protection on all of our commuter systems.
+With respect to cookies; we use cookies to track advertising initiatives.
 
-## Ascendgence Privacy Policy Change
+If you supply us with your postal address online you will only receive the information that you subscribed for when you provided us your address.
 
-Ascendgence may change its privacy policy but all changes made regarding disclosure of Personal or Company Information to third parties will be made after notification through electronic means prior to the date the modified policy takes effect. Any new policy will have effect only, to information previously gathered without your express consent. 
+Persons who supply us with their telephone numbers online will only receive telephone contact from us with information regarding orders they have placed online.
 
-Ascendgence LLC – January 2011
+With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address, and clickstream information. For further information, consult the privacy policies of:
+
+www.google.com/analytics
+
+From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at a future date, we will use for these new purposes only data collected from the time of the policy change and going forward.
+
+Upon request we provide site visitors with access to communications that the consumer/visitor has directed to our site (e.g., emails, customer inquiries). Consumers can access this information by emailing us at the  address above.
+
+Upon request we offer visitors the ability to have inaccuracies corrected in communications that the consumer/visitor has directed to the site. Consumers can have this information corrected by sending us an email via the above address.
+
+With respect to security: When we transfer and receive certain types of sensitive information such as financial or health information, we redirect visitors to a secure server.
+
+If you feel that this site is not following its stated information policy, you may contact The DMA’s Committee on Ethical Business Practices at mgoldberger@the-dma.org, state or local chapters of the Better Business Bureau, state or local consumer protection office, The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at http://www.ftc.gov/ftc/complaint.htm
