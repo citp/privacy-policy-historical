@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the fgulen.com privacy policy that was archived on 2012-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121216090951id_/http%3A//en.fgulen.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fgulen.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529104913id_/http%3A//fgulen.com/en/privacy-policy) for the most accurate reproduction.*
 
-# Fethullah Gülen's Official Web Site - Privacy Policy
-
-##  Privacy Policy 
-
-[](http://en.fgulen.com/privacy-policy?format=pdf "PDF")[](http://en.fgulen.com/privacy-policy?tmpl=component&print=1&page= "Print")[](http://en.fgulen.com/component/mailto/?tmpl=component&link=aHR0cDovL2VuLmZndWxlbi5jb20vcHJpdmFjeS1wb2xpY3k%3D "E-mail")
-
-Last Updated on Monday, 22 June 2009 17:33  by fgulen.com  Monday, 31 July 2006 13:43 
+# Privacy Policy - Fethullah Gülen's Official Web Site
 
 **COMMITMENT TO YOUR PRIVACY**
 
@@ -85,5 +79,3 @@ Opting not to participate in certain interactive areas, which completely allevia
  **YOUR CONSENT**
 
 By using this site, you consent to the collection and use of this information by Fethullah Gülen's Web Site. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
-
-Share Link: [](http://www.google.com/bookmarks/mark?op=add&bkmk=%%URL%%&title=%%TITLE%% "Share Link On: Google") [](http://myweb2.search.yahoo.com/myresults/bookmarklet?u=%%URL%%&t=%%TITLE%% "Share Link On: Yahoo MyWeb") [](http://del.icio.us/post?&url=%%URL%%&title=%%TITLE%% "Share Link On: Del.icio.us") [](http://digg.com/submit?phase=2&url=%%URL%%&title=%%TITLE%% "Share Link On: Digg") [](http://www.facebook.com/share.php?u=%%URL%% "Share Link On: Facebook") [](http://www.myspace.com/Modules/PostTo/Pages/?c=%%URL%%&t=%%TITLE%% "Share Link On: Myspace") [](http://reddit.com/submit?url=%%URL%%&title=%%TITLE%% "Share Link On: Reddit") [](http://technorati.com/faves?add=%%URL%% "Share Link On: Technorati") [](http://www.stumbleupon.com/submit?url=%%URL%%&title=%%TITLE%% "Share Link On: Stumble Upon") [](https://login.yahoo.com/config/login?.src=bmk2&.intl=us&.done=http://bookmarks.yahoo.com/toolbar/savebm%3Fopener%3Dtb%26amp;u%3D%%URL%%%26amp;t%3D%%TITLE%% "Share Link On: Yahoo Bookmarks") [](https://favorites.live.com/quickadd.aspx?marklet=1&mkt=en-us&url=%%URL%%&title=%%TITLE%%&top=1 "Share Link On: MSN Live")
