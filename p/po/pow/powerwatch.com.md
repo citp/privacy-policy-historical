@@ -1,27 +1,32 @@
-> *The following text is extracted and transformed from the powerwatch.com privacy policy that was archived on 2011-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111110094938id_/http%3A//www.powerwatch.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerwatch.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529183923id_/http%3A//powerwatch.com/privacy-policy) for the most accurate reproduction.*
 
-# PowerWatch
+# Privacy Policy - PowerWatch – Home Energy Management System HEMS
 
-## Privacy Policy
+PowerWatch is committed to protecting the privacy of personal information provided to us by our customers or visitors to our website. Since our Privacy Statement may change from time to time, we encourage you to visit our website or contact us to request a copy of the then-current PowerWatch Privacy Policy (please see our contact information below).
 
-The following Privacy Policy applies to all users of this website. IF YOU DO NOT ACCEPT THIS POLICY, DO NOT USE THE WEBSITE. PowerWatch may revise this policy at any time by posting the amended terms on the website. Your use of the website after such changes are posted will signify your acceptance of the revised policy.
+**How Personal Information is Collected**  
+We know how important personal privacy is to our customers and visitors to our website. Whether you are browsing our website or you otherwise voluntarily submit information to us, we may be collecting personal information about you such as your name, address, telephone number or email address, and the internet address that identifies your computer. Personal information you provide us enables you to access customer services offered on our website and enables us to provide you with better information and service.
 
-Collection of Information   
-PowerWatch does not collect personal information about you except when you provide such information to us on a voluntary basis, for example by accessing our customer/dealer login or by contacting us with your questions. The type of information which we may collect includes information that could be used to contact you, such as your name, postal address, phone number and email address, as well as your computer's unique IP address.
+**Use of Your Personal Information**  
+We may use your personal information to contact you to respond to your query or questions to us, or to keep you informed about us and our products and services. Except as we explain in this Privacy Policy, we will not disclose your personal information to third parties without your prior written consent (which consent may be obtained electronically, such as by e-mail), unless we reasonably believe the disclosure is essential to the conduct of our business or to provide products or services to you. Examples of this might be when disclosure is necessary to (i) comply with the law, legal process or our regulators’ requirements, (ii) collect unpaid bills, (iii) enable our employees or consultants to provide service or information to you and otherwise perform their duties, or (iv) solve specific customer issues. We do not provide your personal information to third parties for telemarketing, e-mail or direct mail solicitation.
 
-Use of Information   
-PowerWatch will use the information to respond to your inquiry, provide you with specific information or such other purpose as may be identified at the time of collection. PowerWatch will not sell, rent or share this information with any other organization. We may however need to provide this information to third parties for the purposes of delivering products or services to you. PowerWatch will not otherwise disclose this information, without your permission, unless required to do so by legal authorities.
+**Use of Cookies**  
+Cookies are small text files placed on your computer’s hard drive by web page servers. When you visit our website, for example, our server may create “cookies”, making it easier for you to use our website by verifying when you move between pages of our website.
 
-Security of Your Information   
-PowerWatch is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. 
+**Factors Beyond Our Control**  
+While your personal privacy is very important to us, factors beyond our control make it impossible to always ensure that your personal information will not be disclosed to third parties. For example, we may be legally obligated to disclose Customer Information to local, state or federal governmental agencies or third parties under certain circumstances (including in response to a subpoena), or, despite our best efforts, third parties may circumvent our security measures to unlawfully intercept or access your personal information. You may also link to one or more third party websites from our website, and we do not control and are not responsible for the collection of your personal information by third party websites that you link to from our website; you should consult and understand their privacy policies independently.
 
-IP Addresses  
-PowerWatch may collect internet protocol addresses for system administration and internal tracking. When you visit the website, PowerWatch's servers log internet protocol addresses only and do not link these addresses to anything personally identifiable.
+**Technical Problems**  
+Even though we have taken significant steps to ensure that your personal information is not collected, used, or disclosed by us except as set forth by this Privacy Policy, technical mistakes are possible. If such a mistake occurs, we will take commercially reasonable steps to correct it.
 
-Use of Cookies   
-PowerWatch may store some data on your computer in the form of a "cookie" to automatically recognize your computer the next time you visit. Cookies are pieces of information that are transferred to your computer's hard drive for record-keeping purposes. The stored information may be used to track user patterns in order to improve the effectiveness of the website. This information is not shared with or sold to any third parties. If you do not wish to receive cookies, please configure your internet browser to erase all cookies from your computer's hard drive, block all cookies or receive a warning before a cookie is stored.
+**Access by Children**  
+PowerWatch feels strongly that parents should be involved in supervising internet usage by their minor children. In any event, we do not monitor the age of visitors to our website. If you are under the age of eighteen, you should not submit your personal information to us without the consent of your parent or guardian.
 
-Contact Us   
-PowerWatch will respond to your requests to review your personal data and to correct, amend or delete any inaccuracies. If you have any questions or concerns regarding this policy, please e-mail us at info@powerwatchcom, and we will be happy to address your concerns. 
+**Contact PowerWatch**  
+Our intention is to be diligent in protecting your personal privacy. If you would like to make suggestions or find out more about our privacy practices, please call us at 866-964-2046 or send us a letter or email at the addresses below.
 
-This Privacy Policy was last updated on August 19, 2010.
+PowerWatch  
+D4-1173 NORTH SERVICE RD W  
+OAKVILLE ON L6M 2V9
+
+Email: info@PowerWatch.com
