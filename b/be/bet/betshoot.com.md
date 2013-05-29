@@ -1,93 +1,61 @@
-> *The following text is extracted and transformed from the betshoot.com privacy policy that was archived on 2007-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070602223735id_/http%3A//www.betshoot.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betshoot.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529210955id_/http%3A//www.betshoot.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - BetShoot.com - Free Betting Picks Tips
+# Privacy policy of Betshoot.com
 
-**Privacy policy**
+## What information do we collect?
 
-We respect and are committed to protecting your privacy. This Privacy Policy lets you know how your personal information is processed and used at Betshoot.com. We take extraordinary steps to use your personal information only in ways that are compatible with this Privacy Policy.
+We collect information from you when you register on our site, subscribe to our newsletter or fill out a form.
 
-Information Collection
+When registering on our site, as appropriate, you may be asked to enter your: e-mail address. You may, however, visit our site anonymously.
 
-Betshoot.com is the sole owner of the information collected from our website. We do not, or will not sell, share, or rent this information to others in ways different from what is disclosed in our privacy statement below.
+## What do we use your information for?
 
-Cookies
+Any of the information we collect from you may be used in one of the following ways:
 
-A cookie is a piece of data stored on the visitor's hard drive containing information about the visitor. Advertisers connected to Betshoot.com at times require cookies to tract statistics about products and locations, but at no time are these linked to any personal identification. At this time, Betshoot.com uses cookies only for login convenience.
+\- To personalize your experience  
+(your information helps us to better respond to your individual needs)
 
-Log Files
+\- To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-Betshoot.com keeps log files on broad fields to analyze trends, track user movements, and gather data for demographic locations. This is not attached in anyway to visitor's personal identification.
+\- To send periodic emails
 
-**Sharing** At this time, Betshoot.com does not share any information with advertisers, merchants, or any other third party.
+The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions.
 
-Links
+## Do we use cookies?
 
-Links to other sites outside of Betshoot.com do not apply to this privacy statement. We are not responsible for privacy policies of other websites linked to Betshoot.com. Please read the privacy statement of each website linked to Betshoot.com for information and data use for visitor's personal identification. Our privacy statement applies solely to Betshoot.com.
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
 
-Contests
+We use cookies to understand and save your preferences for future visits.
 
-At any particular time, Betshoot.com will conduct contests for our visitor's. Visitor participation for these contests is voluntary, and in no way requires the visitor to give out personal information when choosing not to enter in the contest. Collected information may include contact information and demographic information, such as name, e-mail, address, state, ect. This information will be used to notify the winners and award prizes.
+## Do we disclose any information to outside parties?
 
-Newsletter
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. 
 
-After registering for a Membership, you are given the choice of subscribing to our Newsletter. You can either elect to subscribe or unsubscribe at any time. All information stored on our database is not shared or sold to any third party what so ever. Subscribers wishing to unsubscribe to our newsletter can uncheck the option in their account, using the 'Your Information' link.
+## Betting previews
 
-Sending to a Friend
+When a tipster posts a betting tip on Betshoot.com, it will remain on our website as part of it’s content, even the tipster decides to close his account. 
 
-When a visitor chooses to send News, Articles, Reviews, ect, to a friend, the names and e-mail addresses are not logged. Betshoot.com will send the friend a one-time e-mail inviting them to visit our site. Betshoot.com will never send another e-mail to the visitor or friend for any purpose.
+## Childrens Online Privacy Protection Act Compliance
 
-Changes of our Policy
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
 
-If and when our policy statement changes, visitors with Memberships in our databases will be notified of the changes, and provided a link to this page to view the changes. If a visitor decides that our policy does not benefit them, they can use the opt-out option at anytime.
+## Online Privacy Policy Only
 
-##### Bet News - Hot Picks
+This online privacy policy applies only to information collected through our website and not to information collected offline.
 
-###### Betting Tools
+## Your Consent
 
-##### Site and Forum Statistics
+By using our site, you consent to our privacy policy.
 
-Users Online : 404
+## Changes to our Privacy Policy
 
-Total Forum Members: 6251
+If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
 
-[Register to Forum](http://www.betshoot.com/forum/ucp.php?mode=register "Register to our forum")
+## Contacting Us
 
-[Chat Room](http://www.betshoot.com/chat/ "Enter the Chat Room")
+If there are any questions regarding this privacy policy you may contact us using the information below.
 
-###### Total Statistics
+[Contact us](http://www.betshoot.com/contact/)
 
-This Month : + 266.34 Units
-
-This Month's Target : + 270 Units
-
-Overall : + 5200.85 Units
-
-##### Tipsters Details
-
-[](http://www.betshoot.com/tipsterspage.php)
-
-To this page you can find the list of all our tipsters, their status, and their favorites leagues/sports to bet on. The list will change time by time as soon as there is new tipsters and stats updates.
-
-###### Betting Strategies Tips
-
-##### Members Menu
-
-###### Football and Other Sports Long Term Bets
-
-##### Formula 1 Long Term Bets
-
-###### Tipsters Competition
-
-1st : 200 Euro
-
-2nd : 100 Euro
-
-3rd : 70 Euro
-
-4th : 30 Euro
-
-##### Responsible Gambling
-
-We believe that gambling should be an enjoyable pastime for adults. However, we are aware that it can become a problem. We ensure you that we operate in a responsible manner.
-
-[](http://www.betexplorer.com/top/in.php?id=791)   [ ](http://sitescore.org/report?url=www.betshoot.com)
+Last updated: 27/02/2013
