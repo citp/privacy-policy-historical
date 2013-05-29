@@ -1,33 +1,55 @@
-> *The following text is extracted and transformed from the speaker.gov privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230205409id_/http%3A//www.speaker.gov/footerlinks%3Fid%3D0001) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speaker.gov privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529230523id_/http%3A//www.speaker.gov/privacy-policy) for the most accurate reproduction.*
 
-# Speaker Nancy Pelosi
+# Privacy Policy | Speaker.gov
 
-  
-Get the latest news and info from the Speaker 
+This privacy policy applies to the central website of the Office of the Speaker, Speaker.gov.
 
-[](http://www.speaker.gov/stayinformed.html)
+We respect the privacy of our visitors. We collect only such personal information as is needed to provide the information, service, or assistance that you request.
 
-[](http://www.speaker.gov/blog)
+**Information We Collect Automatically**
 
-[](http://www.speaker.gov/issues?id=0077)
+If you visit our website to browse, read, or download information:
 
-[](http://www.speaker.gov/newsroom/legislation?id=0361)
-
-  
-We are committed to protecting your privacy.  No personal information about you is collected when you visit our web site unless you choose to provide that information. 
-
-If you do nothing during your visit but browse through the web site, read pages, or download information, certain information may be gathered and stored about your visit automatically. This information does not identify you personally. The following information is automatically collected and stored about your visit: 
-
-  * The name of the domain from which you access the Internet (for example, aol.com, if you are connecting from an America Online account).   
-
-  * The date and time you access our site.   
-
-  * The Internet address of the web site from which you linked directly to our site or the Internet address of the computer used to link to our site. 
+  * Your web browser automatically sends us (and we may retain) information such as the: 
+    * Internet domain through which you access the Internet (e.g., yourServiceProvider.com if you use a commercial Internet service provider, or yourSchool.edu if you use an Internet account from your school);
+    * Internet Protocol address of the computer you are using;
+    * type of browser software and operating system you are using;
+    * date and time you access our site; and
+    * the Internet address of the site from which you linked directly to our site.
+  * We will use this information as aggregate data to help us maintain this site, e.g., to determine the number of visitors to different sections of our site, to ensure the site is working properly, and to help us make our site more accessible and useful.
+  * We will not use this information to identify individuals, except for site security or law enforcement purposes.
+  * We will not obtain personally-identifying information about you when you visit our site, unless you choose to provide such information.
 
 
 
-This information is used for site management purposes. We use software programs to create summary statistics using this information. These statistics are used for such purposes as assessing the number of visitors to the different sections of our site, what information is of most and least interest, determining technical design specifications, and identifying system performance or problem areas. 
+**Other Information We Collect**
 
-If you choose to provide personal information - as in an e-mail or by filling out a form with your personal information and submitting it through this web site - this information will be used to respond to your message and to help get you the information and the help you have requested. E-mail is treated the same way as letters sent though the Postal System. The information you give will only be shared with another government agency if your inquiry relates to that agency. No individual profiles are created with the information you provide or to give it to any private organizations. The information is not collected for commercial marketing. 
+If you choose to identify yourself (or otherwise provide us with personal information) when you use our online forms:
 
-Thank you for visiting.
+  * We will collect (and may retain) any personally identifying information, such as your name, street address, email address, and phone number, and any other information you provide. We will use this information to try to fulfill your request and may use it provide you with additional information at a later time. We will not disclose such information to third parties, except as specified in this privacy policy.
+  * If you request information, services, or assistance, we may disclose your personal information to those third parties that (in our judgment) are appropriate in order to fulfill your request. If, when you provide us with such information, you specify that you do not want us to disclose the information to third parties, we will honor your request. Note, however, that if you do not provide such information, it may be impossible for us to refer, respond to or fulfill your request.
+  * If your communication relates to a law enforcement matter, we may disclose the information to law enforcement agencies that we deem appropriate.
+
+
+
+**How Long We Keep Information**
+
+We may keep information that will collect for an unlimited period of time.
+
+**Security**
+
+Please note that electronic communication, particularly email, is not necessarily secure against interception. Please do not send sensitive data (e.g., Social Security, bank account, or credit card numbers) by email or web form.
+
+**Cookies**
+
+We may use cookies in order to customize this site for return visitors.  These cookies are not required for site functionality.  Additionally, third-party widgets such as, but not limited to, YouTube or Flickr may install cookies depending on their configuration.  You are not required to accept any cookies to use this site.
+
+**Google Analytics**
+
+We use a tool called “Google Analytics” to collect information about use of this site. Google Analytics collects information such as how often users visit this site, what pages they visit when they do so, and what other sites they used prior to coming to this site. We use the information we get from Google Analytics only to improve this site. Google Analytics collects only the IP address assigned to you on the date you visit this site, rather than your name or other identifying information. We do not combine the information collected through the use of Google Analytics with personally identifiable information. Google’s ability to use and share information collected by Google Analytics about your visits to this site is restricted by the [Google Analytics Terms of Use](http://www.google.com/analytics/tos.html) (as [amended for government websites](http://forum.webcontent.gov/resource/resmgr/terms_of_service_w_socmed/analytics_tos_fullyexectued.pdf)) and the [Google Privacy Policy](http://www.google.com/privacypolicy.html). You can prevent Google Analytics from recognizing you on return visits to this site by [disabling cookies](http://www.usa.gov/optout_instructions.shtml) on your browser.
+
+**Site Monitoring**
+
+For site security purposes this government computer system employs software programs to monitor network traffic. Anyone using this system consents to the monitoring of their use by system or security personnel.
+
+Unauthorized use, tampering with or modification of this system—or its supporting hardware or software—may violate federal or other statutes and may subject the violator to criminal and civil penalties. In the event of unauthorized intrusion, all relevant information regarding possible violation of law may be provided to law enforcement officials.
