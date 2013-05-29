@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the madgam.es privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214095339id_/http%3A//www.madgam.es/privacy%3Fs%3D%23top) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the madgam.es privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529222912id_/http%3A//www.madgam.es/privacy%3Fs%3D%23top) for the most accurate reproduction.*
 
 # None
 
