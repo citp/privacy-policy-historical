@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the indiaaclick.com privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127201449id_/http%3A//www.indiaaclick.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiaaclick.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529042855id_/http%3A//www.indiaaclick.com/privacy-policy.html) for the most accurate reproduction.*
 
-# privacy policy | India A Click
+# free classifieds | India a click business directory
 
 ## 1\. Type of Information Collected:
 
@@ -38,5 +38,3 @@ We reserve the right to change these Terms from time to time, and at our sole di
 
 Any disputes regarding your privacy are subject to the Terms, including but not limited to any provisions related to indemnification, limitations on damages, and choice of law.  
 If you have any questions regarding this Privacy Policy, please contact us as described in the “Contact Us” section. We will investigate your question, respond to your inquiry, and attempt to resolve any concerns regarding your privacy question. 
-
-[](https://web.archive.org/web/20121127201449id_/http%3A//www.indiaaclick.com/register-free-online.html) [](http://www.vmsindia.info/vms-Contact-Us.aspx) [You can post your adv here](https://web.archive.org/web/20121127201449id_/http%3A//www.indiaaclick.com/register-free-online.html)
