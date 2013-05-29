@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the smcm.edu privacy policy that was archived on 2012-11-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121109181758id_/http%3A//www.smcm.edu/A2Z/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the smcm.edu privacy policy that was archived on 2013-05-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130529140822id_/http%3A//www.smcm.edu/A2Z/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -7,6 +7,7 @@
 
 <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
 <title>A to Z Guide: St. Mary's College of Maryland</title>
+
 
 <link href="../_assets/css/global-seasoned.css" rel="stylesheet" type="text/css">
 <link href="../_assets/css/home-seasoned.css" rel="stylesheet" type="text/css">
@@ -52,41 +53,22 @@ return false;
 </script>
 
 
+<!--Google Custom Search-->
+<script src="/_internal/scripts/google-search.js" type="text/javascript"></script>
+<script src="http://www.google.com/jsapi" type="text/javascript"></script>
+
 <script src="../_assets/js/jquery.js" type="text/javascript"></script>
 <script src="../_assets/js/smcm.js" type="text/javascript"></script>
 
 
-<!-- Google Custom Search Script-->
-<script src="http://www.google.com/jsapi" type="text/javascript"></script>
-<script type="text/javascript"> 
-  google.load('search', '1', {language : 'en', style : google.loader.themes.MINIMALIST});
-  google.setOnLoadCallback(function() {
-    var customSearchOptions = {};  var customSearchControl = new google.search.CustomSearchControl(
-      '005810656447673390953:rg64bf-fbzi', customSearchOptions);
-    customSearchControl.setResultSetSize(google.search.Search.FILTERED_CSE_RESULTSET);
-    customSearchControl.draw('cse');
-    function parseParamsFromUrl() {
-      var params = {};
-      var parts = window.location.search.substr(1).split('\x26');
-      for (var i = 0; i &lt; parts.length; i++) {
-        var keyValuePair = parts[i].split('=');
-        var key = decodeURIComponent(keyValuePair[0]);
-        params[key] = keyValuePair[1] ?
-            decodeURIComponent(keyValuePair[1].replace(/\+/g, ' ')) :
-            keyValuePair[1];
-      }
-      return params;
-    }
 
-    var urlParams = parseParamsFromUrl();
-    var queryParamName = "q";
-    if (urlParams[queryParamName]) {
-      customSearchControl.execute(urlParams[queryParamName]);
-    }
-  }, true);
-</script>
+
+<!-- Start HTML5Lighbox Script -->
+<script src="../_internal/html5lightbox/html5lightbox.js" type="text/javascript"></script>
+<!-- End HTML5Lightbox Script -->
 
  
+
 
 </head>
 <body>
@@ -107,7 +89,7 @@ return false;
 <div id="collHeader">
 <div id="quicklinks">
 <form action="http://www.smcm.edu/directory/search.html" method="post">
-<label>
+<label for="keyword">
 Search:
 	
 <input class="button" maxlength="100" name="keyword" size="12" tabindex="1" type="text">
@@ -119,8 +101,8 @@ Search:
 
 		People 
 </label>
-<input name="cx" type="hidden" value="007532431288219147376:rzdq6w_cbha">
-<input name="cof" type="hidden" value="FORID:9">
+<input id="cx" name="cx" type="hidden" value="012371426939126936431:7awn0y19n9u">
+<input id="cof" name="cof" type="hidden" value="FORID:9">
 <input class="button" id="Submit" name="Submit" type="submit" value="GO">
 </form>
 
@@ -136,11 +118,11 @@ Search:
 <option value="http://www.smcm.edu/learningtech/blackboard.html">Blackboard</option>
 <option value="http://www.smcmbooks.com/">Campus Bookstore</option>
 <option value="http://www.smcm.edu/careercenter/">Career Development Center</option>
+<option value="http://www.smcm.edu/democracy/index.html">Center for the Study of Democracy</option>
 <option value="http://www.smcm.edu/directory/index.html">Directory</option>
 <option value="http://www.cafebonappetit.com/stmarys/">Dining Services</option>
-<option value="https://webmail.smcm.edu">E-mail</option>
+<option value="http://gmail.smcm.edu">E-mail</option>
 <option value="http://www.smcm.edu/hr/employment.html">Employment</option>
-<option value="http://www.smcm.edu/continuinged/professionalprograms/englishlanguage.html">ESOL</option>
 <option value="http://www.smcm.edu/calendar/events/">Events Calendar</option>
 <option value="http://calendar.smcm.edu/VirtualEms/browseevents.aspx">Events Management System (EMS)</option>
 <option value="http://www.smcm.edu/financialaid/index.html">Financial Aid</option>
@@ -151,6 +133,7 @@ Search:
 <option value="http://www.smcm.edu/news/index.html">News &amp; Events</option>
 <option value="http://www.smcm.edu/CTSS/index.html">Office of Information Technology</option>
 <option value="https://seahawks.smcm.edu/ics">Portal</option>
+<option value="http://www.smcm.edu/publicsafety">Public Safety</option>
 <option value="http://www.smcm.edu/students/index.html">Student Life</option>
 <option value="http://smcm.studioabroad.com/">Study Abroad</option>
 <option value="http://www.smcm.edu/giveto/index.html">Support the College</option>
@@ -175,24 +158,32 @@ Search:
 		<div id="content">
 			<div id="nav">
 				
+				<div class="under-nav"></div>
 				<div id="button">
 					
 				</div>
 			</div>
-			
+		<div id="features"><div class="features-middle"></div></div>	
 		<div id="content-main">
 		<div id="rs"></div>
 		<h2>St. Mary's College of Maryland Privacy Statement</h2>
 <p>Maryland law mandates that State agencies shall not create personal records unless the need for the information is clearly established that personal records are relevant to the purposes for which they are collected, be accurate and current, and will not be obtained by fraudulent means.</p>
 <p>State officials who request personal data from citizens must notify the citizens regarding the purposes for which the information is collected, the consequences to the citizen for refusing to provide the personal information, the citizen's right to inspect and correct personal records, whether the information is generally available for public inspection, and whether the information is made available to other entities.</p>
 <p>Please refer to the eMaryland technology Web site <strong><a href="http://doit.maryland.gov/Publications/Electronic_Comm_Policy.pdf">http://doit.maryland.gov/Publications/Electronic_Comm_Policy.pdf</a>&nbsp;</strong> for additional information on information technology policies in Maryland. The State of Maryland is committed to providing you with Web sites over which you may securely and confidently transact business with the State.</p>
+			
 				     
 		</div>
+		
 		</div>
 	</div>
 </div>
+<div class="topFooter"><div class="topFooter-inner">
+<div class="span1"></div>
+<div class="span1"></div>
+<div class="span1"></div>
+</div></div>
 <div id="collFooter"><img alt="Aerial view of St. Mary's College of Maryland campus" src="../_assets/collegelogos/footer_Arial.jpg" title="Aerial view of St. Mary's College of Maryland campus">
-<p class="copyright">©  2012, St. Mary's College of Maryland | <a href="http://www.smcm.edu/A2Z/privacy.html">Privacy</a> | <a href="http://www.smcm.edu/A2Z/copyright.html">Copyright Notice</a> | <a href="http://www.smcm.edu/A2Z/contactus.html">Contact Us</a></p>
+<p class="copyright">©  2013, St. Mary's College of Maryland | <a href="http://www.smcm.edu/A2Z/privacy.html">Privacy</a> | <a href="http://www.smcm.edu/A2Z/copyright.html">Copyright Notice</a> | <a href="http://www.smcm.edu/A2Z/contactus.html">Contact Us</a></p>
 <p class="address">St. Mary's College of Maryland<br>
  18952 E. Fisher Rd<br>
  St. Mary's City, MD 20686-3001<br>
