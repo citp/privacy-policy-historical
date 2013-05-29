@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thegateacademy.com privacy policy that was archived on 2012-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121113072217id_/http%3A//thegateacademy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegateacademy.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529192830id_/http%3A//thegateacademy.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - GATE 2013, The Gate Academy offers GATE Classroom Coaching, GATE Correspondence course .. : GATE 2013, The Gate Academy offers GATE Classroom Coaching, GATE Correspondence course ..
+# Privacy Policy - GATE 2014, The Gate Academy offers GATE Classroom Coaching, GATE Correspondence course .. : GATE 2014, The Gate Academy offers GATE Classroom Coaching, GATE Correspondence course ..
 
 You are here: [Home](http://thegateacademy.com/) / Privacy Policy
 
