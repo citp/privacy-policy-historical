@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unique-articles-directory.org privacy policy that was archived on 2012-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121019114551id_/http%3A//unique-articles-directory.org/page/6/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unique-articles-directory.org privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529230347id_/http%3A//unique-articles-directory.org/page/6/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Unique Articles Directory
 
