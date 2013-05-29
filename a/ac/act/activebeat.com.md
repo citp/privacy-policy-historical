@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the activebeat.com privacy policy that was archived on 2012-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121112083648id_/http%3A//www.activebeat.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activebeat.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529191232id_/http%3A//www.activebeat.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | ActiveBeat | Your Daily Dose of Health Headlines
+# Privacy Policy | ActiveBeat
 
 At Activebeat ([www.Activebeat.com](http://www.tentblogger.com/)), the privacy of our visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.
 
