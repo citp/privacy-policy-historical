@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frankkern.net privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125220340id_/http%3A//www.frankkern.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frankkern.net privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530005340id_/http%3A//www.frankkern.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | FrankKern.net
 
@@ -60,16 +60,3 @@ We will not sell, distribute or lease your personal information to third parties
 You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to us via the contact us page.
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible at the above address. We will promptly correct any information found to be incorrect.
-
-Be Sociable, Share!
-
-  * [](http://twitter.com/intent/tweet?text=Privacy%20Policy%20-%20http%3A%2F%2Fwww.frankkern.net%2Fprivacy-policy%2F%20 "Twitter")
-  * [](http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.frankkern.net%2Fprivacy-policy%2F&t=Privacy%20Policy "Facebook")
-  * [](https://mail.google.com/mail/?view=cm&fs=1&to&su=Privacy%20Policy&body=http%3A%2F%2Fwww.frankkern.net%2Fprivacy-policy%2F&ui=2&tf=1&shva=1 "email")
-  *   * [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.frankkern.net%2Fprivacy-policy%2F&title=Privacy%20Policy "StumbleUpon")
-  * [](http://delicious.com/post?url=http%3A%2F%2Fwww.frankkern.net%2Fprivacy-policy%2F&title=Privacy%20Policy&notes=This%20privacy%20policy%20sets%20out%20how%20we%20uses%20and%20protects%20any%20information%20that%20you%20give%20us%20when%20using%20this%20website.%0D%0A%0D%0AWe%20are%20committed%20to%20ensuring%20that%20your%20privacy%20is%20protected.%20Should%20we%20ask%20you%20to%20provide%20certain%20information%20by%20which%20you%20can%20be%20ident "Delicious")
-  * [](http://www.google.com/reader/link?url=http%3A%2F%2Fwww.frankkern.net%2Fprivacy-policy%2F&title=Privacy%20Policy&srcURL=http%3A%2F%2Fwww.frankkern.net%2Fprivacy-policy%2F&srcTitle=FrankKern.net+Unofficial+Fan+Website "Google Reader")
-  * [](http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fwww.frankkern.net%2Fprivacy-policy%2F&title=Privacy%20Policy&source=FrankKern.net+Unofficial+Fan+Website&summary=This%20privacy%20policy%20sets%20out%20how%20we%20uses%20and%20protects%20any%20information%20that%20you%20give%20us%20when%20using%20this%20website.%0D%0A%0D%0AWe%20are%20committed%20to%20ensuring%20that%20your%20privacy%20is%20protected.%20Should%20we%20ask%20you%20to%20provide%20certain%20information%20by%20which%20you%20can%20be%20ident "LinkedIn")
-  * [](http://www.blinklist.com/index.php?Action=Blink/addblink.php&Url=http%3A%2F%2Fwww.frankkern.net%2Fprivacy-policy%2F&Title=Privacy%20Policy "BlinkList")
-  * 
-
