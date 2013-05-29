@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twitrounds.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010064342id_/http%3A//twitrounds.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twitrounds.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529224148id_/http%3A//twitrounds.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Twitter Backgrounds
 
