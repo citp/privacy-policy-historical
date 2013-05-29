@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the indexking.net privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920015451id_/http%3A//indexking.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indexking.net privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529232923id_/http%3A//indexking.net/privacy.html) for the most accurate reproduction.*
 
-# IndexKing | Worldwide Paid Directory - Privacy Policy
+# IndexKing | Worldwide Directory - Privacy Policy
 
 Privacy Policy
 
@@ -35,6 +35,6 @@ In some cases, we may collect additional not personally identifiable information
 **  
 Contact Us**
 
-If you have any questions or comments about our privacy policy, please [ contact us.](https://web.archive.org/web/20120920015451id_/http%3A//contact.php)
+If you have any questions or comments about our privacy policy, please [ contact us.](https://web.archive.org/web/20130529232923id_/http%3A//contact.php)
 
 Last Modified February, 2012
