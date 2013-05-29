@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the homeschoolbuyersco-op.org privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122082854id_/http%3A//homeschoolbuyersco-op.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homeschoolbuyersco-op.org privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529154810id_/http%3A//www.homeschoolbuyersco-op.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of the Homeschool Buyers Co-op - Homeschool Buyers Co-op
+
+Last Updated: Dec. 17, 2012
 
 The Homeschool Buyers Co-op (the "Co-op") will not sell, rent, or otherwise make your personal information available to other people or organizations without your permission, except as may be required by law.
 
@@ -11,7 +13,7 @@ The term "personally identifiable information" means any information that may be
 You provide your name and email address when you join the Co-op. We do not share this information with any third parties.
 
 **Order Information**  
-If you complete an order form on the Co-op website for products offered by the Co-op or its supplier partners, the Co-op will maintain that order information on secure servers on your behalf in order to fulfill the orders, provide customer service, and maintain a history of your transactions viewable, by you, under the "My Orders" tab in your "My Profile." 
+If you complete an order form on the Co-op website for products offered by the Co-op or its supplier partners, the Co-op will maintain that order information on secure servers on your behalf in order to fulfill the orders, provide customer service, and maintain a history of your transactions viewable, by you, under the "My Orders" tab in your "My Profile."
 
 **Cookies**  
 Cookies are small text files stored by your browser on your computer when you visit a website. We use cookies to improve our website and make it easier to use. Cookies permit us to recognize you and avoid repetitive requests for the same information. Most browsers will accept cookies until you change your browser settings to refuse them. You may change your browser's settings to refuse our cookies. However, if you do so, you may not be able access certain Co-op services. 
