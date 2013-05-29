@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tgdaily.com privacy policy that was archived on 2010-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100124034733id_/http%3A//www.tgdaily.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tgdaily.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529170148id_/http%3A//www.tgdaily.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | TG Daily
 
@@ -25,6 +25,8 @@ TG Daily may also use pixel tags, also known as beacons, web bugs or clear gifs,
 ## Online Ad Serving
 
 TG Daily uses third-party advertising service companies to serve some of the advertisements on our sites, and, in some cases, in our newsletters. Often, these third-party advertising companies employ cookie and pixel tag technologies to measure the effectiveness of Web and e-mail advertisements. These companies may use information about your visits to our and other web sites in order to provide advertisements about goods and services of interest to you. We do not give any personally identifiable information to them as part of this relationship. Use of their tracking technology is subject to their own privacy policies. For more information about the privacy policies of leading third-party advertising providers including information on how to opt out of their tracking methods go to [NetShelter Privacy Policy](http://netshelter.net/privacy/), or [networkadvertising.org](http://networkadvertising.org/).
+
+We use third-party advertising companies to serve ads when you visit our Web Site. These companies may use information (generally, not including your name, address, e-mail address or telephone number) about your visits to this Web Site and to other web sites in order to provide advertisements about goods and services of interest to you. These companies may employ cookies and clear GIFs to measure advertising effectiveness. Any information that these third parties collect via cookies and clear GIFs is generally not personally identifiable (unless, for example, you provide personally identifiable information to them through an ad or e-mail message). We encourage you to read these businesses' privacy policies if you should have any concerns about how they will care for your personal information. If you would like more information about this practice and to know your choices about not having this information used by these companies, see the Network Advertising Initiative's consumer web site [here](http://www.networkadvertising.org/managing/opt_out.asp).
 
 ## Newsletters / Mailing Lists
 
