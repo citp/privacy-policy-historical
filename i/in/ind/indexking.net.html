@@ -1,38 +1,34 @@
-<!--The following is the downloaded HTML source of the indexking.net privacy policy that was archived on 2012-09-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120920015451id_/http%3A//indexking.net/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the indexking.net privacy policy that was archived on 2013-05-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130529232923id_/http%3A//indexking.net/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<title>IndexKing | Worldwide Paid Directory&nbsp;- Privacy Policy  </title>
+<title>IndexKing | Worldwide Directory&nbsp;- Privacy Policy  </title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta name="verify-v1" content="ZfWrHAS/1Nc3cFH7nAqBzi/Z4TY07aUgIATRgSS7feE=">
-<meta name="alexaVerifyID" content="dGYziZCDrYfXoQcs-Vja_CwAnII">
 <meta name="google-site-verification" content="My5-ls4-kQkh0kaR5PmGdnK__EOpjRbzVMm5m7tpXf8">
 <meta name="msvalidate.01" content="8C5A8E2C7FB152E6A56A1BC03CD4FAAF">
+<link rel="stylesheet" type="text/css" href="/templates/Gri/style/sliderman.css">
 <link rel="shortcut icon" href="/favicon.ico">
-<link rel="stylesheet" type="text/css" href="/templates/Gri/style/main.css">
-<meta name="keywords" content="worldwide, general directory, paid links,SEO enhanced listings, paid links directory,submit your site">
-<meta name="description" content="A SEO enhanced, human edited web directory of top web sites and blogs. Only Paid listings accepted.">
-<meta name="author" content="The Directory Team at Index King">
+<meta name="keywords" content="worldwide, general directory,links,SEO enhanced listings, links directory,submit your site">
+<meta name="description" content="A SEO enhanced, human edited web directory of top web sites and blogs.">
+<meta name="author" content="str">
 <meta name="copyright" content="Index King. All rights reserved">
 <meta name="robots" content="follow">
-<meta name="generator" content="PHP Link Directory 4.1.0">
+<meta name="generator" content="PHP Link Directory 4.2.2 2.0.2">
+<link rel="stylesheet" type="text/css" href="/templates/Gri/style/main.css">
+<link rel="stylesheet" type="text/css" href="/templates/Gri/style/fileuploader.css">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript" src="/templates/Gri/javascripts/sliderman.1.3.7.js"></script>
 <script type="text/javascript">
         var valid_obj = new Object();
     </script>
-<!--[if IE]>
-<link rel="stylesheet" href="/templates/Gri/style/ie.css" type="text/css" media="all" />
-<![endif]-->
-<!--[if IE 8.000]><!-->
-<link rel="stylesheet" href="/templates/Gri/style/ie8.css" type="text/css" media="all">
-<!--<![endif]-->
 </head>
-<body><script type="text/javascript">
+<body>
+<script type="text/javascript">
 
 
 function increase_height() {
    height = parseInt(document.getElementById('slide').style.marginTop);
    if (height<110) {
-       document.getElementById('slide').style.marginTop = eval(height+2)+"px";
+      document.getElementById('slide').style.marginTop = eval(height+2)+"px";
       setTimeout("increase_height()",0.0001);
    } else {
       document.getElementById('panel').style.zIndex = 200;
@@ -47,7 +43,6 @@ function decrease_height() {
       setTimeout("decrease_height()",0.0001);
    }
 }
-
 function show_panel() {
   
    height = parseInt(document.getElementById('slide').style.marginTop);
@@ -107,8 +102,7 @@ catch (e)
 </script>
 
 <script type="text/javascript">
-jQuery(function($) {
-	$(document).ready(function(){
+	jQuery(document).ready(function(){
 		
 									jQuery.validator.messages.required = "This field is required.";
 												jQuery.validator.messages.remote = "Please fix this field.";
@@ -123,12 +117,12 @@ jQuery(function($) {
 												jQuery.validator.messages.creditcard = "Please enter a valid credit card number.";
 												jQuery.validator.messages.equalTo = "Please enter the same value again.";
 												jQuery.validator.messages.accept = "Please enter a value with a valid extension.";
-												jQuery.validator.messages.maxlength = $.format("Please enter no more than {0} characters.");
-												jQuery.validator.messages.minlength = $.format("Please enter at least {0} characters.");
-												jQuery.validator.messages.rangelength = $.format("This field must have minimum {0} characters and maximum {1} characters..");
-												jQuery.validator.messages.range = $.format("Please enter a value between {0} and {1}.");
-												jQuery.validator.messages.max = $.format("Please enter a value less than or equal to {0}.");
-												jQuery.validator.messages.min = $.format("Please enter a value greater than or equal to {0}.");
+												jQuery.validator.messages.maxlength = jQuery.format("Please enter no more than {0} characters.");
+												jQuery.validator.messages.minlength = jQuery.format("Please enter at least {0} characters.");
+												jQuery.validator.messages.rangelength = jQuery.format("This field must have minimum {0} characters and maximum {1} characters..");
+												jQuery.validator.messages.range = jQuery.format("Please enter a value between {0} and {1}.");
+												jQuery.validator.messages.max = jQuery.format("Please enter a value less than or equal to {0}.");
+												jQuery.validator.messages.min = jQuery.format("Please enter a value greater than or equal to {0}.");
 								
 
 		function fireEvent(obj, evt) {
@@ -151,7 +145,7 @@ jQuery(function($) {
 				errorClass: "errForm",
 				submitHandler: function(form) {
 					// do other stuff for a valid form
-					if ($("#login_form").valid()) {
+					if (jQuery("#login_form").valid()) {
 						form.submit();
 					}
 				},
@@ -159,24 +153,22 @@ jQuery(function($) {
 				"rules": {user: {"required":true},pass: {"required":true}}, "messages": {}
 		};
 
-		$("#login_form").validate(valid_obj.login_form);
+		jQuery("#login_form").validate(valid_obj.login_form);
 
-                var selects = $("#login_form").find("select");
+                var selects = jQuery("#login_form").find("select");
                 var crt;
-                $.each(selects, function() {
+                jQuery.each(selects, function() {
                     crt = this.id;
                     if(typeof(valid_obj.login_form.rules[crt]) !== 'undefined') {
-                        $("#"+crt).change(function() {
-                          $(this).valid();
+                        jQuery("#"+crt).change(function() {
+                          jQuery(this).valid();
                         });
                     }
                 });
 	});
-});
 </script>
 <script type="text/javascript">
-jQuery(function($) {
-	$(document).ready(function(){
+	jQuery(document).ready(function(){
 		
 									jQuery.validator.messages.required = "This field is required.";
 												jQuery.validator.messages.remote = "Please fix this field.";
@@ -191,12 +183,12 @@ jQuery(function($) {
 												jQuery.validator.messages.creditcard = "Please enter a valid credit card number.";
 												jQuery.validator.messages.equalTo = "Please enter the same value again.";
 												jQuery.validator.messages.accept = "Please enter a value with a valid extension.";
-												jQuery.validator.messages.maxlength = $.format("Please enter no more than {0} characters.");
-												jQuery.validator.messages.minlength = $.format("Please enter at least {0} characters.");
-												jQuery.validator.messages.rangelength = $.format("This field must have minimum {0} characters and maximum {1} characters..");
-												jQuery.validator.messages.range = $.format("Please enter a value between {0} and {1}.");
-												jQuery.validator.messages.max = $.format("Please enter a value less than or equal to {0}.");
-												jQuery.validator.messages.min = $.format("Please enter a value greater than or equal to {0}.");
+												jQuery.validator.messages.maxlength = jQuery.format("Please enter no more than {0} characters.");
+												jQuery.validator.messages.minlength = jQuery.format("Please enter at least {0} characters.");
+												jQuery.validator.messages.rangelength = jQuery.format("This field must have minimum {0} characters and maximum {1} characters..");
+												jQuery.validator.messages.range = jQuery.format("Please enter a value between {0} and {1}.");
+												jQuery.validator.messages.max = jQuery.format("Please enter a value less than or equal to {0}.");
+												jQuery.validator.messages.min = jQuery.format("Please enter a value greater than or equal to {0}.");
 								
 
 		function fireEvent(obj, evt) {
@@ -219,7 +211,7 @@ jQuery(function($) {
 				errorClass: "errForm",
 				submitHandler: function(form) {
 					// do other stuff for a valid form
-					if ($("#search_form").valid()) {
+					if (jQuery("#search_form").valid()) {
 						form.submit();
 					}
 				},
@@ -227,20 +219,19 @@ jQuery(function($) {
 				"rules": {search: {"required":true}}, "messages": {}
 		};
 
-		$("#search_form").validate(valid_obj.search_form);
+		jQuery("#search_form").validate(valid_obj.search_form);
 
-                var selects = $("#search_form").find("select");
+                var selects = jQuery("#search_form").find("select");
                 var crt;
-                $.each(selects, function() {
+                jQuery.each(selects, function() {
                     crt = this.id;
                     if(typeof(valid_obj.search_form.rules[crt]) !== 'undefined') {
-                        $("#"+crt).change(function() {
-                          $(this).valid();
+                        jQuery("#"+crt).change(function() {
+                          jQuery(this).valid();
                         });
                     }
                 });
 	});
-});
 </script>
 <div id="wrapperall">
 <div class="log_reg">
@@ -248,9 +239,6 @@ jQuery(function($) {
 &nbsp;&nbsp;|&nbsp;&nbsp;
 <a href="/profile.php?mode=register" title="Register">Register</a>	
 </div>	
-<!--
-<a id="tooCool" target="_blank" href="http://www.w3junkies.com/toocool/">Too Cool for Internet Explorer</a>
--->
 <div id="wrapperBg">
 <div id="wrapperBottom">
 <div id="wrapperTop">
@@ -259,17 +247,18 @@ jQuery(function($) {
 <div id="wrapper"><script type="text/javascript">
 var view1 = 0;
 var view2 = 0;
-</script><div class="content-top"></div><div id="content"><div class="header"><div class="headerLogo"><a href="/"><img src="/templates/Gri/images/logo.png" border="0" alt="logo"></a></div><div class="search"><div id="searchin"><form action="/index.php" method="get"><span class="search"><span class="search_cnt"><table><tbody><tr><td><span class="cauta"><input name="search" type="text" size="18" alt="}" value="" onblur="if(this.value=='') this.value='';" onfocus="if(this.value=='') this.value='';"></span></td><td><span class="searchin"><button type="submit" title="Search">GO</button></span></td><td><div> <style="margin:0px 0px="" 0px;"=""> <a rel="nofollow" href="/search.php?type=advanced" title="Go to advanced search page" accesskey="4">Advanced<br>Search</a></style="margin:0px></div></td></tr></tbody></table></span></span></form></div></div></div> <!-- Header --><div id="meniu" class="fix"><ul class="fix menu"><li class="navfirst"><a class="home" href="/" title="IndexKing | Worldwide Paid Directory">IndexKing | Worldwide Paid Directory</a></li><li><a href="/submit.php" title="Submit your link to the directory">Submit Link</a></li><li><a href="/submit_article.php" title="Submit your article to the directory">Submit Article</a></li><li><a href="/index.php?list=latest" title="Browse latest submitted links">Latest Links</a></li><li><a href="/index.php?list=latestarticles" title="Browse latest articles">Latest Articles</a></li><li><a href="/index.php?list=top" title="Browse most popular links">Top Hits</a></li><li><a href="/banners.php" title="Add our banner or text link">Link to Us</a></li><li><a href="/contact.php" title="Contact directory owner">Contact</a></li><li class="ultim"></li></ul><div style="float:right;"><a class="rss" href="/rss.php?c= " title="RSS Feed"> </a></div></div><div id="sideleft" "="">
+</script><div class="content-top"></div><div id="content"><div class="header"><div class="headerLogo"><a href="/"><img src="/templates/Gri/images/logo.png" border="0" alt="logo"></a></div><div class="search"><div id="searchin"><form action="/index.php" method="get"><span class="search"><span class="search_cnt"><table><tbody><tr><td><span class="cauta"><input name="search" type="text" size="18" alt="}" value="" onblur="if(this.value=='') this.value='';" onfocus="if(this.value=='') this.value='';"></span></td><td><span class="searchin"><button type="submit" title="Search">GO</button></span></td><td><div style="margin:0px 0px 0px 10px;"> <a rel="nofollow" href="/search.php?type=advanced" title="Go to advanced search page" accesskey="4">Advanced<br>Search</a></div></td></tr></tbody></table></span></span></form></div></div></div> <!-- Header --><div id="meniu" class="fix"><ul class="fix menu"><li class="navfirst"><a class="home" href="/" title="IndexKing | Worldwide Directory">IndexKing | Worldwide Directory</a></li><li><a href="/submit.php" title="Submit your link to the directory">Submit Link</a></li><li><a href="/submit_article.php" title="Submit your article to the directory">Submit Article</a></li><li><a href="/index.php?list=latest" title="Browse latest submitted links">Latest Links</a></li><li><a href="/index.php?list=latestarticles" title="Browse latest articles">Latest Articles</a></li><li><a href="/index.php?list=top" title="Browse most popular links">Top Hits</a></li><li><a href="/banners.php" title="Add our banner or text link">Link to Us</a></li><li class="ultim"><a href="/contact.php" title="Contact directory owner">Contact</a></li></ul><div style="width:66px;float:right;"><a class="rss" href="/rss.php?c= " title="RSS Feed"> </a><a class="twitter" href="http://twitter.com/indexkingnet" target="_blank" title="Follow Us on Twitter">Follow Us on Twitter</a> <!-- // Change this link with your twitter account. Eg: http://twitter.com/john  --></div></div><!--  Begin Slider  --><!--  End Slider  --><div id="sideleft">
 <ul id="sortable_left" style="list-style-type: none; float: left; padding: 0px; margin: 0;">
-<li id="141">
+<li id="208">
 <center>
 <div style="width:100%; text-align:left;">
 <div class="box br box_pad1">
 <div class="bl"><div class="tr"><div class="tl">
 <h3><span>Site Spotlight</span></h3>
 <div class="box_pad2">
-		<center><br>
-<img class="thumb" src="http://images.shrinktheweb.com/xino.php?embed=1&amp;95&amp;STWAccessKeyId=bedcd7e77348b1a&amp;Size=sm&amp;Url=http://enwebdirectory.com"><br>
+          <center><br>
+<img class="thumb" src="http://images.shrinktheweb.com/xino.php?embed=1&amp;95&amp;STWAccessKeyId=bedcd7e77348b1a&amp;Size=sm&amp;Url=http://enwebdirectory.com" alt="Screenshot of A Great Paid  General Directory" onerror="this.src='http://images.shrinktheweb.com/xino.php?embed=1&amp;95&amp;STWAccessKeyId=bedcd7e77348b1a&amp;Size=sm&amp;Url=http://enwebdirectory.com';" border="0">
+<br>
 <a href="                                            /detail/a-great-paid-general-directory-190543.html" title="Read more about: A Great Paid  General Directory">A Great Paid  General Direc...</a>
 </center>
 <br>
@@ -277,80 +266,69 @@ var view2 = 0;
 </div></div>
 </div>
 </div>
-</div></center>		</li>
-<li id="177">
-<center>
-<div style="width:100%; text-align:left;">
-<div class="box br box_pad1">
-<div class="bl"><div class="tr"><div class="tl">
-<h3><span>Partner Sites</span></h3>
-<div class="box_pad2">
-		
-<ul class="boxPopCats">
-<li>
-<a href="http://indexking.net/contact.php/" title="Contact directory owner" target="_blank">See Your Text Link Here?</a>
-</li>
-</ul>
-</div>
-</div></div>
-</div>
-</div>
-</div></center>		</li>
-<li id="183">
+</div></center>          </li>
+<li id="210">
 <center>
 <div style="width:100%; text-align:left;">
 <div class="box br box_pad1">
 <div class="bl"><div class="tr"><div class="tl">
 <h3><span>Our Directory Team All-Stars</span></h3>
 <div class="box_pad2">
-		<ul class="boxPopCats">
-<li> <a target="_blank" href="http://gowebguide.com" title="Human-Edited deep link directory">GoWebguide.com</a></li><li> <a target="_blank" href="http://activelinksdirectory.com" title="Worldwide General Directory">ActiveLinksDirectory.com</a></li><li> <a target="_blank" href="http://enwebdirectory.com" title="Worldwide Directory">EnWebDirectory.com</a></li><li> <a target="_blank" href="http://swoopdirectory.com" title="A Different Kind-Of Directory">SwoopDirectory.com</a></li><li> <a target="_blank" href="http://premium-web-directory.com" title="Paid Only World Directory">Premium-Web-Directory.com</a></li><li> <a target="_blank" href="http://directoryteam.com" title="The Home of All-Star Directories">DirectoryTeam.com</a></li> 
+          <ul class="boxPopCats">
+<li> <a target="_blank" href="http://gowebguide.com" title="Human-Edited deep link directory">GoWebguide.com</a></li><li> <a target="_blank" href="http://activelinksdirectory.com" title="Worldwide General Directory">ActiveLinksDirectory.com</a></li><li> <a target="_blank" href="http://enwebdirectory.com" title="Worldwide Directory">EnWebDirectory.com</a></li><li> <a target="_blank" href="http://swoopdirectory.com" title="A Different Kind-Of Directory">SwoopDirectory.com</a></li><li> <a target="_blank" href="http://premium-web-directory.com" title="Paid Only World Directory">Premium-Web-Directory.com</a></li><li> <a target="_blank" href="http://whiterosedirectory.com" title="A High Quality Worldwide Directory">WhiteroseDirectory.com</a></li> 
 </ul>
 </div>
 </div></div>
 </div>
 </div>
-</div></center>		</li>
-<li id="103">
+</div></center>          </li>
+<li id="212">
 <center>
 <div style="width:100%; text-align:left;">
 <div class="box br box_pad1">
 <div class="bl"><div class="tr"><div class="tl">
-<h3><span>Latest Tweets</span></h3>
+<h3><span>Latest Article</span></h3>
 <div class="box_pad2">
-		
-<style>
-#twitter_div {
-padding: 5px 15px;
-}
-ul#twitter_update_list {
-list-style-type: none;
-padding: 0px;
-}
-</style>
-<div id="twitter_div">
-<ul id="twitter_update_list"></ul>
-<a target="_blank" href="http://twitter.com/indexkingnet" id="twitter-link" style="display:block;text-align:right;">follow me on Twitter</a>
+          		<div class="boxSponsoredLast">
+<a class="boxSponsoredA" href="/articles/weight-loss,-through-intensity-9040.html" title="Weight Loss, Through Intensity">
+<center><p>	Weight Loss, Through Intensity  </p></center>
+</a> 
+<ul>
+<center>	<li> Tips on how to lose weight quickly by intensifying your workouts. </li> </center>
+</ul>
 </div>
-<script type="text/javascript" src="http://twitter.com/javascripts/blogger.js"></script>
-<script type="text/javascript" src="http://twitter.com/statuses/user_timeline/indexkingnet.json?callback=twitterCallback2&amp;count=8"></script>
 </div>
 </div></div>
 </div>
 </div>
-</div></center>		</li>
-<br>
-</ul>
+</div></center>          </li>
+<li id="224">
+<center>
+<div style="width:100%; text-align:left;">
+<div class="box br box_pad1">
+<div class="bl"><div class="tr"><div class="tl">
+<h3><span>Directory Team Tweets</span></h3>
+<div class="box_pad2">
+          <center>
+<a class="twitter-timeline" href="https://twitter.com/indexkingnet" data-widget-id="319086692734746626">Tweets by @indexkingnet</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+</center>
 </div>
-<div id="main"><a href="http://www.gazingus.org/indexking/specialoffer.php" target="_blank"><img src="http://indexking.net/gazingusbanner.gif" height="60" width="468">
-﻿
+</div></div>
+</div>
+</div>
+</div></center>          </li>
+</ul>
+<br>
+</div>
+<div id="main"><ul id="main_container" style="list-style-type: none; padding: 0px; margin: 0;"><li>﻿
 <br>
 <div>
 <!-- Place this tag in your head or just before your close body tag -->
 <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
 <!-- Place this tag where you want the +1 button to render -->
 <div class="g-plusone"></div>
-</div></a><div class="path"><a href="http://www.gazingus.org/indexking/specialoffer.php" target="_blank"></a><a href="/" id="firstPath">Index King</a><span>Privacy Policy</span></div>
+</div></li></ul><div class="path"><a href="/" id="firstPath">Index King</a><span>Privacy Policy</span></div>
 <table align="center" border="0" width="100%"><tbody><tr><td class="smallDesc"><p style="text-align: center;"><span style="font-size: medium;">Privacy Policy</span></p>
 <p style="text-align: center;"><span style="font-size: medium;"><br></span></p>
 <p><strong><span style="font-size: small;">Information Collection and Use</span></strong></p>
@@ -393,24 +371,24 @@ google_color_url = "ededed";
 <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 </script>
 </div>
-</li></div><div id="sideright">
+</li></div> <div id="sideright">
 <ul id="sortable_right" style="list-style-type: none; padding: 0px; margin: 0;">
-<li id="153">
+<li id="230">
 <center>
 <div style="width:100%; text-align:left;">
 <div class="box br box_pad1">
 <div class="bl"><div class="tr"><div class="tl">
 <h3><span>Safe Shopping Seal</span></h3>
 <div class="box_pad2">
-			<div id="advertising_rotator" align="center">
-<p><br><a href="http://www.webentrust.com/sites/indexking.net.html" target="_blank"><img alt="Trusted Site Seal" src="http://seals.webentrust.com/seals/trusted/indexking.net.png" border="0"></a><br></p>
-</div>
+		<center>
+<div id="avgthreatlabs_safetybadge"><noscript><a href="http://www.avgthreatlabs.com?utm_source=H&utm_medium=NA&utm_campaign=MSBW" target="_blank">AVG Threatlabs</a></noscript></div><script language="javascript" src="https://api.avgthreatlabs.com/static/js/security.js"></script>
+</center>
 </div>
 </div></div>
 </div>
 </div>
 </div></center>		</li>
-<li id="184">
+<li id="214">
 <center>
 <div style="width:100%; text-align:left;">
 <div class="box br box_pad1">
@@ -441,27 +419,7 @@ google_color_url = "cccccc";
 </div>
 </div>
 </div></center>		</li>
-<li id="105">
-<center>
-<div style="width:100%; text-align:left;">
-<div class="box br box_pad1">
-<div class="bl"><div class="tr"><div class="tl">
-<h3><span>Latest Article</span></h3>
-<div class="box_pad2">
-				<div class="boxSponsoredLast">
-<a class="boxSponsoredA" href="/articles/weight-loss-through-intensity-9040.html" title="Weight Loss, Through Intensity">
-<center><p>	Weight Loss, Through Intensity  </p></center>
-</a> 
-<ul>
-<center>	<li> Tips on how to lose weight quickly by intensifying your workouts. </li> </center>
-</ul>
-</div>
-</div>
-</div></div>
-</div>
-</div>
-</div></center>		</li>
-<li id="87">
+<li id="213">
 <center>
 <div style="width:100%; text-align:left;">
 <div class="box br box_pad1">
@@ -469,6 +427,9 @@ google_color_url = "cccccc";
 <h3><span>Important Site Information</span></h3>
 <div class="box_pad2">
 		<ul class="boxPopCats">
+<li>
+<a href="/screen.html" title="About Our Screenshots">About Our Screenshots</a> 
+</li>
 <li>
 <a href="/legal_notice.html" title="Legal Notice">Legal Notice</a> 
 </li>
@@ -487,52 +448,7 @@ google_color_url = "cccccc";
 </div>
 </div>
 </div></center>		</li>
-<li id="160">
-<center>
-<div style="width:100%; text-align:left;">
-<div class="box br box_pad1">
-<div class="bl"><div class="tr"><div class="tl">
-<h3><span>Statistics &amp; Page Rank</span></h3>
-<div class="box_pad2">
-		<ul align="left" class="boxStats">
-<li><strong>Active Links: </strong>34503</li>
-<li><strong>Pending Links: </strong>50</li>
-<li><strong>Active Articles:</strong> 4</li>
-<li><strong>Pending Articles:</strong> 4</li>
-<li><strong>Total Categories: </strong>15</li>
-<li><strong>Sub Categories: </strong>417</li>
-</ul> 
-<script type="text/javascript" src="http://www.google.com/jsapi"></script>
-<script type="text/javascript">
-	google.load("visualization", "1", {packages:["PieChart"]});
-   google.setOnLoadCallback(drawPageRanksChart);
-   function drawPageRanksChart() {
-   	var data = new google.visualization.DataTable();
-      data.addColumn('string', 'PageRanks');
-      data.addColumn('number', 'Links Number');
-      data.addRows([
-      
-            	['PR 3', 8395]
-         ,            	['PR 2', 8082]
-         ,            	['PR 1', 5454]
-         ,            	['PR 4', 3962]
-         ,            	['PR 5', 1128]
-         ,            	['PR 6', 323]
-         ,            	['PR 7', 65]
-         ,            	['PR 8', 6]
-                     
-      ]);
-      var chart = new google.visualization.PieChart(document.getElementById('pageranks_chart_div'));
-      chart.draw(data, {allowHtml: true, width: 190, height: 140, is3D: true, backgroundColor:'#F2F2F2', legend: 'bottom', legendFontSize: 10, legendBackgroundColor: '#F2F2F2', axisFontSize: 10});
-   } 
-</script> 
-<div id="pageranks_chart_div" align="center"></div>
-</div>
-</div></div>
-</div>
-</div>
-</div></center>		</li>
-<li id="154">
+<li id="227">
 <center>
 <div style="width:100%; text-align:left;">
 <div class="box br box_pad1">
@@ -547,32 +463,63 @@ google_color_url = "cccccc";
 </div>
 </div>
 </div></center>		</li>
+<li id="229">
+<center>
+<div style="width:100%; text-align:left;">
+<div class="box br box_pad1">
+<div class="bl"><div class="tr"><div class="tl">
+<h3><span>Statistics &amp; Page Rank</span></h3>
+<div class="box_pad2">
+		<ul align="left" class="boxStats">
+<li><strong>Active Links: </strong>31646</li>
+<li><strong>Pending Links: </strong>8</li>
+<li><strong>Active Articles:</strong> 4</li>
+<li><strong>Pending Articles:</strong> 0</li>
+<li><strong>Total Categories: </strong>15</li>
+<li><strong>Sub Categories: </strong>417</li>
+</ul> 
+<script type="text/javascript" src="https://www.google.com/jsapi"></script>
+<script type="text/javascript">
+	google.load("visualization", "1", {packages:["PieChart"]});
+   google.setOnLoadCallback(drawPageRanksChart);
+   function drawPageRanksChart() {
+   	var data = new google.visualization.DataTable();
+      data.addColumn('string', 'PageRanks');
+      data.addColumn('number', 'Links Number');
+      data.addRows([
+      
+            	['PR 3', 7988]
+         ,            	['PR 2', 7501]
+         ,            	['PR 1', 4783]
+         ,            	['PR 4', 3803]
+         ,            	['PR 5', 1097]
+         ,            	['PR 6', 314]
+         ,            	['PR 7', 62]
+         ,            	['PR 8', 6]
+                     
+      ]);
+      var chart = new google.visualization.PieChart(document.getElementById('pageranks_chart_div'));
+      chart.draw(data, {allowHtml: true, width: 180, height: 112, is3D: true, backgroundColor:'#F2F2F2', legend: 'bottom', legendFontSize: 10, legendBackgroundColor: '#F2F2F2', axisFontSize: 10});
+   } 
+</script> 
+<div id="pageranks_chart_div" align="center"></div>
+</div>
+</div></div>
+</div>
+</div>
+</div></center>		</li>
 </ul>
 </div>
-</div>
-<div class="content-bottom">
-<p>© <a href="http://www.hostzilla.ro" title="Gazduire web, Hosting" target="_blank">Gazduire web</a> | Sponsored by <a href="http://www.nixservers.com" title="Dedicated server hosting" target="_blank">Dedicated server</a> </p>
-</div>
-</div>
-</div> </div> </div> </div> </div><div id="footer"><div id="footercontent"><p>2006-2012 Index King Worldwide Directory - A <a href="http://directoryteam.com" target="_blank" title="Directory Team">Directory Team</a> All-Star. All Rights Reserved.<br>Directory Powered by <a href="http://www.phplinkdirectory.com" target="_blank" title="PHP Link Directory">PHP Link Directory</a></p> <br></div></div></div>
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-621265-10");
-pageTracker._trackPageview();
-} catch(err) {}</script>
-<!-- Start Quantcast tag -->
-<script type="text/javascript">
-_qoptions={
-qacct:"p-0e7fKz1UDpGtw"
-};
-</script>
-<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
-<noscript>
-<img src="http://pixel.quantserve.com/pixel/p-0e7fKz1UDpGtw.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
-</noscript>
-<!-- End Quantcast tag Begin user tracking -->
-<img src="/online.php?action=track" width="0" height="0" border="0"></body></html>
+</div><div class="content-bottom"><p> ©2006-2013 Index King Worldwide Directory - A <a href="http://directoryteam.com" target="_blank" title="Directory Team">Directory Team</a> All-Star. All Rights Reserved.<br>Directory Powered by <a href="http://www.phplinkdirectory.com" target="_blank" title="PHP Link Directory">PHP Link Directory</a></p> <br></div></div></div></div></div></div><script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-621265-10']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script></div></div></body></html>
