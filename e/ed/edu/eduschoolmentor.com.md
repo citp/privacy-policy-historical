@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eduschoolmentor.com privacy policy that was archived on 2012-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120915011324id_/http%3A//www.eduschoolmentor.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eduschoolmentor.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529155317id_/http%3A//eduschoolmentor.com/privacy.html) for the most accurate reproduction.*
 
 # Edu School Mentor.com
 
@@ -17,10 +17,10 @@ Or find local college by zip:
   
   | 
 
-Class Starts Today.com Web Privacy Statement
+Edu School Mentor.com Web Privacy Statement
 
 This privacy policy was last updated on July 10th, 2007  
-Class Starts Today is committed to protecting your privacy when you visit our Websites, so we want you to know what information we collect when you visit one of our sites, how we use that information, and how you can update it. We reserve the right to append or otherwise modify this Privacy Statement at any time, so please re-visit this page occasionally to check for updates. 
+Edu School Mentor is committed to protecting your privacy when you visit our Websites, so we want you to know what information we collect when you visit one of our sites, how we use that information, and how you can update it. We reserve the right to append or otherwise modify this Privacy Statement at any time, so please re-visit this page occasionally to check for updates. 
 
 Information We Collect
 
@@ -52,11 +52,11 @@ Our websites provide users the opportunity to request information from schools, 
 How We Use This Information
 
 We use the information we automatically collect to help us better plan our Website to meet your Internet needs. Information you provide to us is used for marketing purposes, and may result in follow-up communications.   
-Class Starts Today may share personally identifiable information with third party businesses for the purpose of direct marketing, specifically email marketing. All third parties are bound by the CAN SPAM Act (s.877) of 2003, and are required to be in full compliance of all consumer opt-out rules and regulations.
+Edu School Mentor may share personally identifiable information with third party businesses for the purpose of direct marketing, specifically email marketing. All third parties are bound by the CAN SPAM Act (s.877) of 2003, and are required to be in full compliance of all consumer opt-out rules and regulations.
 
 Your Rights Our Obligations
 
-The company respects the privacy of users visiting our sites and will abide by all applicable laws concerning the release of personal information. On an occasion we may use certain directory information that we have collected to send you information about products and services, or updates and other information we think may be of interest to you. We may share this information with our educational partners to bring similar information to your attention. If you tell us that you do not wish to have this information used as a basis for further contact with you, we will respect your wishes. Please contact us to request your name and address be removed from our lists. If you do not want to receive our e-mail marketing, please submit a request to have your e-mail address removed by emailing: unsubscribe@ClassStartsToday.com. Other than directory information, data you provide to us as you use the Website will be held in strict confidence by the company and will be used for company purposes only. Our Security Measures Our Websites have security measures in place to protect against the loss, misuse, and alteration of the information under our control. 
+The company respects the privacy of users visiting our sites and will abide by all applicable laws concerning the release of personal information. On an occasion we may use certain directory information that we have collected to send you information about products and services, or updates and other information we think may be of interest to you. We may share this information with our educational partners to bring similar information to your attention. If you tell us that you do not wish to have this information used as a basis for further contact with you, we will respect your wishes. Please contact us to request your name and address be removed from our lists. If you do not want to receive our e-mail marketing, please submit a request to have your e-mail address removed by emailing: unsubscribe@eduschoolmentor.com. Other than directory information, data you provide to us as you use the Website will be held in strict confidence by the company and will be used for company purposes only. Our Security Measures Our Websites have security measures in place to protect against the loss, misuse, and alteration of the information under our control. 
 
 Why We Use "Cookies"
 
@@ -64,7 +64,7 @@ When you visit some of our sites, we use cookies to keep track of your informati
 
 Links From Our Site To Other Sites
 
-Some of our sites may contain links to other sites external to our sites. When you access these external Websites, the providers of the sites will have access to certain information about you. Class Starts Today is not responsible for the privacy practices or the content of any Websites which we do not directly control.
+Some of our sites may contain links to other sites external to our sites. When you access these external Websites, the providers of the sites will have access to certain information about you. Edu School Mentor is not responsible for the privacy practices or the content of any Websites which we do not directly control.
 
 Definitions Cookies
 
@@ -86,4 +86,4 @@ The leading security protocol on the Internet. When an SSL session is started, t
 
 URL (Uniform Resource Locator)
 
-An Internet address. URLs are used to locate sites on the Internet and to navigate between sites and pages within sites. The URL for Class Starts Today is www.ClassStartsToday.com.
+An Internet address. URLs are used to locate sites on the Internet and to navigate between sites and pages within sites. The URL for Edu School Mentor is www.EduSchoolMentor.com.
