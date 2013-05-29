@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the premiumwp.com privacy policy that was archived on 2012-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121026125859id_/http%3A//www.premiumwp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the premiumwp.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529131145id_/http%3A//www.premiumwp.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - PremiumWP
+# Privacy Policy
 
 The privacy and security of our site visitors is our highest priority. It is the policy of Premium WordPress that personal information, such as your name, personal postal and email address, or personal telephone number is private and confidential. Because your privacy is important to us, Premium WordPress maintains privacy policies to protect your personal information.
 
