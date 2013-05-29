@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bunnings.co.nz privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118002454id_/http%3A//www.bunnings.co.nz/default_privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bunnings.co.nz privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529162020id_/http%3A//www.bunnings.co.nz/default_privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Bunnings Warehouse
 
-|   | 
+  | 
 
 ####  Bunnings Limited   
 PRIVACY STATEMENT
@@ -23,14 +23,19 @@ We will remove personal information from our systems where it is no longer requi
 
 If you wish to view the personal information you have provided or, comment on or obtain further information about our privacy policy, Please contact our privacy officer: 
 
-Mr. Dominic Antenucci  
-Company Secretary/Compliance Manager  
-126 Pilbara Street  
-Welshpool WA 6106
+Mr David Beards 
 
-Telephone (08) 9365 1501  
-Facsimile (08) 9356 6460  
-E-mail [privacy@bunnings.com.au](mailto:privacy@bunnings.com.au)
+Company Secretary, 
+
+16- 18 Cato St, 
+
+Hawthorn East, 
+
+Victoria 3123. 
+
+Telephone (03) 88319740
+
+E-mailprivacy@bunnings.com.au 
 
 #### BUNNINGS PRIVACY POLICY 
 
@@ -86,14 +91,19 @@ In this policy we explain how and why we collect your personal information, how 
 
 17\. So long as your request for your personal information is in accordance with the National Privacy Principles, then we will give you access to that information through our Privacy Officer: 
 
-Mr Dominic Antenucci  
-Company Secretary/Compliance Manager  
-126 Pilbara Street  
-Welshpool WA 6000
+Mr David Beards 
 
-Telephone (08) 9365 0501  
-Facsimile (08) 9356 6460   
-E-mail: [privacy@bunnings.com.au](mailto:privacy@bunnings.com.au)
+Company Secretary, 
+
+16- 18 Cato St, 
+
+Hawthorn East, 
+
+Victoria 3123. 
+
+Telephone (03) 88319740
+
+E-mailprivacy@bunnings.com.au 
 
 18\. Inaccurate information will be corrected upon receiving advice to this effect from you. To ensure confidentiality, details of your personal information will be passed on to you only if we are satisfied that the information relates to you. 
 
@@ -125,4 +135,6 @@ E-mail: [privacy@bunnings.com.au](mailto:privacy@bunnings.com.au)
 All information ©2002 Bunnings Limited
 
 |   
----|---|---
+---|---|---  
+  
+        
