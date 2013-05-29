@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the gamenet.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213223703id_/http%3A//www.gamenet.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamenet.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529123854id_/http%3A//www.gamenet.com/privacypolicy) for the most accurate reproduction.*
 
 # GameNet Privacy Policy
+
+COLONY ATTACK: If you have lost your Colony Attack password, please email us at **dev@geekbeach.com** with your account name and info about your device and planet.
 
 **_GAMENET & GEEKBEACH PRIVACY POLICY_**
 
