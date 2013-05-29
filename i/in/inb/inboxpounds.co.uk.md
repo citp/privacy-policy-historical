@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inboxpounds.co.uk privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115175959id_/http%3A//inboxpounds.co.uk/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inboxpounds.co.uk privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529215016id_/http%3A//www.inboxpounds.co.uk/pages/privacy) for the most accurate reproduction.*
 
 # Earn Cash Online: Privacy Policy - InboxPounds
 
@@ -151,5 +151,5 @@ WA14 1PF
   
 
 
-© Copyright 2011–2012     InboxPounds®     All Rights Reserved  
+© Copyright 2011–2013     InboxPounds®     All Rights Reserved  
 InboxPounds® is operated by [InboxDollars](http://inboxdollars.com/corporate)
