@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classworks.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120234637id_/http%3A//www.classworks.com/default/index.cfm/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classworks.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529182259id_/http%3A//www.classworks.com/default/index.cfm/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Classworks Curriculum Advantage Inc
 
