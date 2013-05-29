@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the respondus.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231032918id_/http%3A//respondus.com/about/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the respondus.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529162133id_/http%3A//www.respondus.com/about/privacy.shtml) for the most accurate reproduction.*
 
 # Respondus.com Privacy Statement
 
@@ -31,6 +31,12 @@ We employ other companies and individuals to perform functions on our behalf. Ex
 Respondus may also disclose your personal information to law enforcement personnel, government officials, or others when we, in our sole discretion, believe that disclosure is necessary to prevent violations of the law, injury to person or property, or any harm to Respondus.com or others. 
 
 As we continue to develop our business, we might sell or buy companies or assets. In such transactions, customer information generally is one of the transferred business assets. Also, in the event that Respondus, Inc., or substantially all of its assets are acquired, customer information will likely be one of the transferred assets. 
+
+## Third-Party Service Providers 
+
+We employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, processing payments, and providing customer service. They have access to personal information needed to perform their functions, but may not use it for other purposes.
+
+Individual student purchases of Respondus Monitor will redirect the user to PayPal, a secure web site that automatically encrypts confidential information transmitted from the computer to PayPal using the Secure Sockets Layer protocol (SSL) with 128 bit encryption. Credit card or debit information is used only for that particular transaction and is not stored by Respondus. A name and email address is gathered during the purchase but this information will only be used for matters relating to the transaction itself. For information about the privacy policy for PayPal, please click [here](https://cms.paypal.com/cgi-bin/marketingweb?cmd=_render-content&content_ID=ua/Privacy_full&locale.x=en_US). 
 
 ## **Software Updates**
 
@@ -77,7 +83,7 @@ StudyMate Class also has an integration with the Respondus Test Bank Network, wh
 
 ## Our Policy For Guests Under Age 18
 
-Respondus.com is committed to protecting the privacy of children. We encourage parents and guardians to explore the Internet with their children or students. Visitors under age 18 should not submit any personally identifiable information to Respondus.com. Respondus does not sell products for purchase by children. 
+Respondus.com is committed to protecting the privacy of children. We encourage parents and guardians to explore the Internet with their children or students. Visitors under age 18 should not submit any personally identifiable information to Respondus.com.
 
 ## **How You Can Change Your Information**
 
