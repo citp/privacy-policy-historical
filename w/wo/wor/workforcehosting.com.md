@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the workforcehosting.com privacy policy that was archived on 2012-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121027101354id_/http%3A//www.workforcesoftware.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workforcehosting.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529190423id_/http%3A//www.workforcesoftware.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | WorkForce Software
 
@@ -25,11 +25,7 @@ Payroll System
 
 ### The Way We Use Information
 
-We use the information you provide when placing a request only to complete that request. We do not share this information with outside parties except to the extent necessary to complete that request.
-
-We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties.
-
-You can register with our website if you would like to receive updates on our new products and services. Information you submit on our website will not be used for this purpose unless you fill out the registration form.
+We use the information you provide when placing a request to complete that request. We use return email addresses to answer the email we receive. Such addresses are not shared with outside parties.
 
 We may use non-identifying and aggregate information to better design our website.
 
@@ -37,11 +33,11 @@ Finally, we never use or share the personally identifiable information provided 
 
 ### Opt-out Policy
 
-WorkForce Software offers its communication recipients a means for controlling the information they receive. If, at any time after registering for information or communications, you change your mind about receiving information from us, please utilize the opt-out link located at the bottom of each communication or by emailing your request to [info@workforcesoftware.com](mailto:info@workforcesoftware.com). Users can expect to receive a response to any such update request within seven (7) days of WorkForce Software’s receipt of the same.
+WorkForce Software offers its communication recipients a means for controlling the information they receive. If, at any time, you change your mind about receiving information from us, please use the opt-out link located at the bottom of each communication or by emailing your request to [info@workforcesoftware.com](mailto:info@workforcesoftware.com). You can expect that such a request will be completed within seven (7) days of WorkForce Software’s receipt of the same.
 
 ### Our Commitment to Data Security
 
-To prevent unauthorized access or disclosure, to maintain data accuracy, and to allow only the appropriate use of your personal information, we utilize physical, technical, and administrative controls and procedures to safeguard the information we collect.
+To prevent unauthorized access or disclosure, to maintain data accuracy, and to allow only the appropriate use of your personal information, we employ physical, technical, and administrative controls and procedures to safeguard the information we collect.
 
 To protect the confidentiality, integrity, and availability of your personal information, WorkForce Software utilizes a variety of physical and logical access controls, firewalls, intrusion detection/prevention systems, network and database monitoring, anti-virus, and backup systems.
 
@@ -49,13 +45,13 @@ We limit access to your personal information and data to those persons who have 
 
 ### Data Integrity
 
-WorkForce Software will take reasonable steps to ensure that personal information collected by Workforce is maintained accurately, completely, and kept current for its intended use. WorkForce Software will only use personal information in ways that are compatible with the purposes for which it was collected as authorized by the individual.
+WorkForce Software will take reasonable steps to ensure that personal information collected is maintained accurately, completely, and kept current for its intended use. WorkForce Software will only use personal information in ways that are compatible with the purposes for which it was collected.
 
 ### How You Can Access or Correct Your Information
 
 You can access all your personally identifiable information that we collect online and maintain by emailing your request to [info@workforcesoftware.com](mailto:info@workforcesoftware.com). We use this procedure to better safeguard your information.
 
-You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. Users can expect to receive a response to any such update request within seven (7) days of WorkForce Software’s receipt of the same.
+You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. You can expect to receive a response to any such update request within seven (7) days of WorkForce Software’s receipt of the same.
 
 To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
 
