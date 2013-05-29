@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationbuilder.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230163942id_/http%3A//nationbuilder.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationbuilder.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529125942id_/http%3A//nationbuilder.com/privacy) for the most accurate reproduction.*
 
 # NationBuilder privacy policy
 
@@ -86,7 +86,7 @@ We Self-Certify Compliance with:
 
 NationBuilder   
 Attn: Jim Gilliam   
-1100 South Hope St.  
-Suite 1513  
-Los Angeles, CA 90015  
+448 S. Hill St.  
+Suite 200  
+Los Angeles, CA 90013  
 USA 
