@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epharmapedia.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101114056id_/http%3A//epharmapedia.com/page/policy%3Flang%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epharmapedia.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529160553id_/http%3A//www.epharmapedia.com/page/policy%3Flang%3Den) for the most accurate reproduction.*
 
 # Privacy policy | ePharmapedia
 
