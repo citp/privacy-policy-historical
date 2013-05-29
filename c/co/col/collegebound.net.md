@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collegebound.net privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109103133id_/http%3A//www.collegebound.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegebound.net privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530014119id_/http%3A//www.collegebound.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
