@@ -1,84 +1,62 @@
-<!--The following is the downloaded HTML source of the gowatchit.com privacy policy that was archived on 2012-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121229094207id_/http%3A//gowatchit.com/pages/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gowatchit.com privacy policy that was archived on 2013-05-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130529191457id_/http%3A//gowatchit.com/pages/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns:fb="https://www.facebook.com/2008/fbml" itemscope="" itemtype="http://schema.org/Organization"><head>
-	    <title>Privacy | Watch It</title>
-	    <link href="/assets/full_site.css" media="screen" rel="stylesheet" type="text/css">
-	    <link href="/ui-lightness/lightness.css" media="screen" rel="stylesheet" type="text/css">
-		<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script src="/assets/application.js" type="text/javascript"></script>	
-		<script src="/assets/lib/lib.js" type="text/javascript"></script>
-
+	    <title>Privacy | GoWatchIt</title>
+	    <link href="http://cdn.gowatchit.com/assets/full_site-5f35f5c89ce76366127b0c5eaa834631.css" media="screen" rel="stylesheet" type="text/css">
+	    <link href="http://cdn.gowatchit.com/ui-lightness/lightness.css" media="screen" rel="stylesheet" type="text/css">
+      <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://cdn.gowatchit.com/assets/application-5213a479c968ceaf423e44efed0cf26e.js" type="text/javascript"></script>
+      <script src="http://cdn.gowatchit.com/assets/lib/lib-b497e52948bd82e5a82eeba9a993e6f0.js" type="text/javascript"></script>
+      <script src="http://cdn.gowatchit.com/assets/app/ember_support-cab5fd6be096673fb210b551c4a9186f.js" type="text/javascript"></script>
+		
 	    
 	    <meta content="authenticity_token" name="csrf-param">
-<meta content="O22F4s3V5EgNh1nG72LSHanKwo3GUMMtxofhP829n/E=" name="csrf-token">
+<meta content="t5p+uaOgsfVhlhW/ciFOacDMFVYn0wb70UuVsbgACKE=" name="csrf-token">
 		<!--[if lte IE]>
-			<link href="/assets/ie.css" media="screen" rel="stylesheet" type="text/css" />
+			<link href="http://cdn.gowatchit.com/assets/ie-d6e8dbce9630b4e58b393e414b820b0c.css" media="screen" rel="stylesheet" type="text/css" />
 	   	<![endif]-->
 		<link rel="shortcut icon" href="/favicon.ico">
-		<meta itemprop="name" content="Watch It">
+		<meta itemprop="name" content="GoWatchIt">
 		<meta itemprop="image" content="http://gowatchit.com/assets/controls/watichit_top_logo.gif">
 		
 		<meta name="google-site-verification" content="wKOR90JKXg2jTEA5qIO3hPiOjxYheaGr5m6FGIp_EcI">
 	  </head>
-	  <body><div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" style="padding-bottom: 20px; padding-right: 0px; display: none;"><div id="cboxWrapper" style=""><div style=""><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxLoadedContent" class="" style="width: 0px; height: 0px; overflow: hidden;"></div><div id="cboxLoadingOverlay" class="" style=""></div><div id="cboxLoadingGraphic" class="" style=""></div><div id="cboxTitle" class="" style=""></div><div id="cboxCurrent" class="" style=""></div><div id="cboxNext" class="" style=""></div><div id="cboxPrevious" class="" style=""></div><div id="cboxSlideshow" class="" style=""></div><div id="cboxClose" class="" style=""></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none;"></div></div>
+	  <body>
 
+    <script type="text/javascript">
+      $(document).ready(function () {
+        Ember.Handlebars.bootstrap(Ember.$(document));
 
-		
+        user_hash = null;
+
+        if (user_hash == null) {
+          GoWatchIt.user = null
+        } else {
+          GoWatchIt.user = GoWatchIt.User.create(user_hash);
+        }
+
+        $(function () {
+          //GoWatchIt.initialize(); // we us auto initialize so this should not be needed
+          aContainer = Ember.ContainerView.create({
+            childViews: [GoWatchIt.ShowHeaderView.create()]
+          });
+          aContainer.appendTo($('#ember_header'));
+        });
+      });
+    </script>
+
 	   	<!-- HEADER  -->	
-		<div id="site_head" class="site_headfoot">	<div class="headfoot_container">
-		<a href="http://gowatchit.com/"><div class="headfoot_site_logo"></div></a>
-         <!-- PARTNER LOGO (no controls) 
-         <div id="headfoot_partner_logo" class="headfoot_partner_logo">
-         	<img src="/assets/controls/partner_site_logo.gif" />
-         </div> -->
-         <div id="headfoot_search_field_top" class="headfoot_search" style="float: left;">
-         	<form accept-charset="UTF-8" action="/search" id="search_form" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"></div>
-              <input class="searchInput active" data-autocomplete="/search/autocomplete_movie_title" id="query_box" name="query" type="text" value="Find a movie, actor, or director">
-              <input class="searchSubmitIcon" id="search_submit" src="/assets/controls/search_submit_icon.png" type="image">
-</form>         </div>
-		 <div id="social_icons">
-			<div id="follow_us">Follow Us</div>	
-			<ul>
-				<li><a href="http://www.facebook.com/pages/Watch-It/124318260988478" target="_blank" title="Like Watch It on Facebook"><img alt="Like Watch It on Facebook" src="/assets/icons/facebook.png"></a></li>
-				<li><a href="http://twitter.com/gowatchit" target="_blank" title="Follow Watch It on Twitter"><img alt="Follow Watch It on Twitter" src="/assets/icons/twitter.png"></a></li>
-				<li><a href="http://gowatchit.tumblr.com" target="_blank" title="Follow Watch It on Tumblr"><img alt="Follow Watch It on Tumblr" src="/assets/icons/tumblr.png"></a></li>
-				<li style="margin-top:2px"><g:plusone size="small" annotation="none" href="http://gowatchit.com"></g:plusone></li>
-			</ul>
-		</div>
-        		<!-- SITE CONTROLS -->  
-	<div id="site_controls" class="header_controls">
-		<ul class="header_right">
-			<li><a href="http://gowatchit.com/pages/about" style="color:#E74E1E">About</a></li>
-			<li id=""><a href="/channels" style="color:#E74E1E">Channels</a></li>
-	       	
-			<li id=""><a href="/users/sign_in" class="login_link" style="color:#E74E1E">Log in</a></li>
-			<li id=""><a href="/users/sign_up" style="color:#E74E1E">Sign up</a></li>
-	   </ul>
-	</div>
+		<div id="site_head" class="site_headfoot">
+<script type="text/javascript">
 
+ $(document).ready(function() {
+ 	header_hash = {"root_url":"http://gowatchit.com/","search_form":"<form accept-charset=\"UTF-8\" action=\"/search\" id=\"search_form\" method=\"get\"><div style=\"margin:0;padding:0;display:inline\"><input name=\"utf8\" type=\"hidden\" value=\"&#x2713;\" /></div><input class=\"searchInput active\" data-autocomplete=\"/search/autocomplete_movie_title\" id=\"query_box\" name=\"query\" placeholder=\"Find a movie, actor, or director\" type=\"text\" /><input class=\"searchSubmitIcon\" id=\"search_submit\" src=\"http://cdn.gowatchit.com/assets/controls/search_submit_icon-4538cecdea071a1b9cb76d1a4795d633.png\" type=\"image\" /></form>","logout_link":"<a href=\"/users/sign_out\" style=\"color:#E74E1E\">Log out</a>","channels_link":"<a href=\"/channels\" id=\"channels_link\" style=\"color:#E74E1E\">Channels</a>","page_links":"<li><a href=\"http://gowatchit.com/pages/about\" style=\"color:#E74E1E\">About</a></li>","log_in_link":"<a href=\"/users/sign_in\" id=\"login_link\" style=\"color:#E74E1E\">Log in</a>","sign_up_link":"<a href=\"/users/sign_up\" style=\"color:#E74E1E\">Sign up</a>","preferences_link":"<a href=\"/users/edit\" style=\"color:#E74E1E\">Preferences</a>","friends_link":"<a href=\"/friends\" style=\"color:#E74E1E\">Friends</a>","active":null}
+	GoWatchIt.header = GoWatchIt.Header.create(header_hash);
+})
 
-     </div>
-<script>
+</script>
 
-	$(document).ready(function() {
-		$('#query_box, #search_form').bind('railsAutocomplete.select', function(event, data){
-			var target = $(event.target)
-			if (data.item == undefined){
-				// More was clicked
-				$("#search_submit").click();
-			} else {
-				event.stopPropagation();
-				redirectPage(data.item.url);
-				return false;
-			}
-		});
-	});
-	
-	</script>
-
-
-
-</div>
+ <div id="ember_header"></div> <!-- try poking header handler bars into here --></div>
 		<div id="notice">
   <div class="content">
   </div>
@@ -98,11 +76,11 @@
 </script>
 
 
-
 		<!-- SITE CONTENT -->
 		   
 	    <div class="site_content">
 	    	<div class="site_content_container">
+	    			<div id="insert_my_app_here"></div>
 			<div id="beta_notice"></div>
 	            <div class="page">
 	<h2>
@@ -142,7 +120,7 @@
 <br>
 <strong>Other:</strong> Notwithstanding anything herein to the contrary, we reserve the right to disclose any personally identifiable or non-personal information about you if we are required to do so by law, with respect to notices and counter-notices pursuant to our DMCA notice and takedown policy and procedures and/or if we believe that such action is necessary to:  (a) fulfill a government request; (b) conform with the requirements of the law or legal process; or (c) protect or defend our legal rights or property, GoWatchIt.com or other users.<br>
 	<br>
-	<strong>Children:</strong> The features, programs, promotions and other aspects of GoWatchIt.com requiring the submission of personally identifiable information are not intended for children.  We do not knowingly collect personally identifiable information from children under the age of 13.  If you are a parent or guardian of a child under the age of 13 and believe he or she has disclosed personally identifiable information to us please contact us at info@Plexusentertainment.com.  A parent or guardian of a child under the age of 13 may review and request deletion of such child’s personally identifiable information as well as prohibit the use thereof.
+	<strong>Children:</strong> The features, programs, promotions and other aspects of GoWatchIt.com requiring the submission of personally identifiable information are not intended for children.  We do not knowingly collect personally identifiable information from children under the age of 13.  If you are a parent or guardian of a child under the age of 13 and believe he or she has disclosed personally identifiable information to us please contact us at info@gowatchit.com.  A parent or guardian of a child under the age of 13 may review and request deletion of such child’s personally identifiable information as well as prohibit the use thereof.
 <br>
 	<br>
 	<strong>Affiliated Businesses We Do Not Control:</strong> Plexus works closely with affiliated businesses that may offer and sell products or services to you or provide promotions to you through the GoWatchIt.com platform.  You can easily recognize when one of these businesses is associated with your transaction, and Plexus will share your personal information with that business as needed to complete the transaction.   At times, Plexus may share your personally identifiable information among different affiliated businesses.  This information will be used to improve the content of GoWatchIt.com and to customize the content you see.<br>
@@ -165,7 +143,7 @@
 	<br>
 	<strong>Contact Information</strong><br>
 	<br>
-	Questions or comments regarding this Privacy Policy should be sent by e-mail to info@plexusentertainment.com or by U.S. mail to Plexus Entertainment, 295 Greenwich St., #173, NY, NY 10007. You may also contact us if:  (a) you have questions or comments about this Privacy Policy; (b) wish to make corrections to any personally identifiable information you have provided; (c) want to opt-out from receiving future commercial correspondence, including emails, from us or our partners; or (d) wish to withdraw your consent to sharing your personally identifiable information with others. We will respond to your request and, if applicable and appropriate, make the requested change in our active databases as soon as reasonably practicable.  Please note that we may not be able to fulfill certain requests while allowing you access to certain benefits and features of GoWatchIt.com.<br>
+	Questions or comments regarding this Privacy Policy should be sent by e-mail to info@gowatchit.com or by U.S. mail to Plexus Entertainment, 295 Greenwich St., #173, NY, NY 10007. You may also contact us if:  (a) you have questions or comments about this Privacy Policy; (b) wish to make corrections to any personally identifiable information you have provided; (c) want to opt-out from receiving future commercial correspondence, including emails, from us or our partners; or (d) wish to withdraw your consent to sharing your personally identifiable information with others. We will respond to your request and, if applicable and appropriate, make the requested change in our active databases as soon as reasonably practicable.  Please note that we may not be able to fulfill certain requests while allowing you access to certain benefits and features of GoWatchIt.com.<br>
 <br>
 <strong>This Privacy Policy as posted hereon is the sole statement of the Plexus privacy policy with respect to GoWatchIt.com and no summary, modification, restatement or other version thereof, or other privacy statement or policy, in any form, is valid unless Plexus posts a new or revised policy on GoWatchIt.com.<br>
 <br>Last Updated October 17, 2011</strong>
@@ -177,7 +155,7 @@
 			<div id="feedback_message_box">
 				<h3>Submit Feedback</h3>
 
-<form accept-charset="UTF-8" action="/feedback_messages" class="new_feedback_message" data-remote="true" id="new_feedback_message" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="O22F4s3V5EgNh1nG72LSHanKwo3GUMMtxofhP829n/E="></div>
+<form accept-charset="UTF-8" action="/feedback_messages" class="new_feedback_message" data-remote="true" id="new_feedback_message" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="t5p+uaOgsfVhlhW/ciFOacDMFVYn0wb70UuVsbgACKE="></div>
 
   <div class="field">
   	<label for="feedback_message_Email ">Email </label><br>
@@ -199,8 +177,9 @@
 		<div class="clear" style="height:25px"></div>
 	</div>
 	<div class="clear" style="height:25px"></div>
+  <div class="black_overlay"></div>
 	<div id="site_foot" class="site_headfoot"><div class="headfoot_container">
-  <a href="http://gowatchit.com/"><div class="headfoot_site_logo"></div></a>
+  <a href="http://gowatchit.com/"><div class="headfoot_site_logo"><img src="/assets/controls/gowatchit_logo_small.jpg"></div></a>
        <!-- PARTNER LOGO (no controls)
        <div id="headfoot_partner_logo" class="headfoot_partner_logo">
        	<img src="/assets/controls/partner_site_logo.gif" />
@@ -208,13 +187,13 @@
       	<!-- SITE CONTROLS -->  
 <div id="site_controls" class="footer_controls">
 <ul class="footer_social">
-	<li id="" class="whiteLink"> <a href="#feedback" class="feedback cboxElement" style="color:#fff">Feedback</a></li>
+	<li id="" class="whiteLink"> <a href="#feedback" class="feedback" style="color:#fff">Feedback</a></li>
 	<li id="" class="whiteLink"> <a href="http://twitter.com/#!/gowatchit" style="color:#fff" target="_blank">Twitter</a></li>
 	<li id="" class="whiteLink"> <a href="http://www.facebook.com/pages/Watch-It/124318260988478" style="color:#fff" target="_blank">Facebook</a></li>
 	<li id="" class="whiteLink"> <a href="http://gowatchit.tumblr.com" style="color:#fff" target="_blank">Blog</a></li>
 </ul>
 <ul class="footer_left">
-	<li><a href="http://gowatchit.com/pages/about" style="color:#E74E1E">About</a></li><li><a href="http://gowatchit.com/pages/privacy" style="color:#E74E1E">Privacy</a></li><li><a href="http://gowatchit.com/pages/terms" style="color:#E74E1E">Terms</a></li><li><a href="http://gowatchit.com/pages/movie-alerts" style="color:#E74E1E">Movie Alerts</a></li><li><a href="http://gowatchit.com/pages/press" style="color:#E74E1E">Press</a></li><li><a href="http://gowatchit.com/pages/jobs" style="color:#E74E1E">Jobs</a></li><li><a href="http://gowatchit.com/pages/filmmakers" style="color:#E74E1E">Filmmakers</a></li>
+	<li><a href="http://gowatchit.com/pages/about" style="color:#E74E1E">About</a></li><li><a href="http://gowatchit.com/pages/privacy" style="color:#E74E1E">Privacy</a></li><li><a href="http://gowatchit.com/pages/terms" style="color:#E74E1E">Terms</a></li><li><a href="http://gowatchit.com/pages/movie-alerts" style="color:#E74E1E">Movie Alerts</a></li><li><a href="http://gowatchit.com/pages/press" style="color:#E74E1E">Press</a></li><li><a href="http://gowatchit.com/pages/jobs" style="color:#E74E1E">Jobs</a></li>
 	<div style="display:none"><li id=""><a href="/users/sign_up" style="color:#E74E1E">Sign up</a></li>
 </div></ul>
 
@@ -224,10 +203,11 @@
    </div>
 
 <p class="rovi_caption" style="margin-top: -10px;"><a href="http://nytm.org/made-in-nyc/" target="_blank">Made in NYC</a></p></div>
-	<div id="login_popup">
-  <img alt="Login_popup_arrow" id="login_popup_arrow" src="/assets/controls/login_popup_arrow.png">
-  <img alt="Login_popup_arrow_bottom" id="login_popup_arrow_bottom" src="/assets/controls/login_popup_arrow_bottom.png">
-  <img alt="Popup_close" id="popup_close" src="/assets/controls/popup_close.png">
+	
+<div id="login_popup">
+  <img alt="Login_popup_arrow" id="login_popup_arrow" src="http://cdn.gowatchit.com/assets/controls/login_popup_arrow.png">
+  <img alt="Login_popup_arrow_bottom" id="login_popup_arrow_bottom" src="http://cdn.gowatchit.com/assets/controls/login_popup_arrow_bottom.png">
+  <img alt="Popup_close" id="popup_close" src="http://cdn.gowatchit.com/assets/controls/popup_close.png">
 
   <div class="std_copy_container">
     <div class="stdCopyBox" style="margin-top:20px;width:240px">
@@ -239,7 +219,7 @@
           <input class="facebook_button" id="facebook_login_popup" name="facebook" type="submit" value="">
         </div>
 </form>
-      <form accept-charset="UTF-8" action="/users/sign_in" class="login_form_header" data-remote="true" id="new_user" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="O22F4s3V5EgNh1nG72LSHanKwo3GUMMtxofhP829n/E="></div>
+      <form accept-charset="UTF-8" action="/users/sign_in" class="login_form_header" data-remote="true" id="new_user" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="t5p+uaOgsfVhlhW/ciFOacDMFVYn0wb70UuVsbgACKE="></div>
         <div style="height:40px"></div>
         <hr>
         <div id="alternatives">
@@ -255,6 +235,7 @@
           <input id="redirect_to" name="redirect_to" type="hidden" value="/user_movies">
           <input id="embedded_action_name" name="embedded_action[name]" type="hidden" value="queue_movie">
 <input id="embedded_action_param" name="embedded_action[param]" type="hidden" value="">
+<input id="embedded_action_channel_id" name="embedded_action[channel_id]" type="hidden" value="">
           <div class="clear" style="height:10px"></div>
           <span class="login_and_queue"><input class="login_or_signup" id="login" src="/assets/controls/log_in_add_to_queue.png" type="image"></span>
           <span class="login_only"><input class="login_or_signup" id="login" src="/assets/controls/log_in.png" type="image"></span>
@@ -266,12 +247,13 @@
 </form>
       <div id="create_account_form">
         <p>Create an account</p>
-        <form accept-charset="UTF-8" action="/users" class="new_user" data-remote="true" id="new_user" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="O22F4s3V5EgNh1nG72LSHanKwo3GUMMtxofhP829n/E="></div>
+        <form accept-charset="UTF-8" action="/users" class="new_user" data-remote="true" id="new_user" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="t5p+uaOgsfVhlhW/ciFOacDMFVYn0wb70UuVsbgACKE="></div>
 
           <input class="signup_form_field" id="user_email_create" name="user[email]" size="30" type="text" value="Email">
           <input class="signup_form_field" id="user_password_create" name="user[password]" size="30" type="text" value="Password">
           <input id="embedded_action_name" name="embedded_action[name]" type="hidden" value="queue_movie">
 <input id="embedded_action_param" name="embedded_action[param]" type="hidden" value="">
+<input id="embedded_action_channel_id" name="embedded_action[channel_id]" type="hidden" value="">
 
           <div class="clear" style="height:10px"></div>
           <input class="login_or_signup" id="signup" src="/assets/controls/create_account.png" type="image">
@@ -284,25 +266,25 @@
     </div>
   </div>
 </div>
-
-
   <!-- facebook auth -->
 
   <div id"oauth_target"="" class="oauth_box">
     <script type="text/javascript">
-      function setEmbeddedAction(name, param){
+      function setEmbeddedAction(name, param, channel_id){
         $('input[name="embedded_action[name]"]').val(name);
         $('input[name="embedded_action[param]"]').val(param);
+        $('input[name="embedded_action[channel_id]"]').val(channel_id);
       }
 
       function resetEmbeddedAction(){
-        setEmbeddedAction('', '')
+        setEmbeddedAction('', '', '')
       }
 
       function getEmbeddedAction(){
         return {
           name: $('input[name="embedded_action[name]"]').val(),
-          param: $('input[name="embedded_action[param]"]').val()
+          param: $('input[name="embedded_action[param]"]').val(),
+          channel_id: $('input[name="embedded_action[channel_id]"]').val()
         }
       }
 
@@ -333,6 +315,20 @@
       $("#login_error_msg").text("Invalid Email or Password");
     });
 
+    $('.login_form_header').bind("ajax:success", function(evt, xhr, status, error){
+        closePopup();
+        $.ajax({
+              url: '/me',
+             context: this,
+             beforeSend: function(xhr) {xhr.setRequestHeader('X-CSRF-Token', $('meta[name="csrf-token"]').attr('content'))},
+               dataType: 'json',
+             success: function(response) {
+              GoWatchIt.set('user', GoWatchIt.User.create(response));
+            //this.set('isLoggedIn', true);
+             }
+            })
+    });
+
 
 
         var popup = $('#login_popup');
@@ -348,10 +344,15 @@
         var logged_in = false;
         var currentButton = 'null';
         var aboveOrBelow = 'below'
+        var ember=false;
 
         // Login link
         function showLoginPopup(forElement, forQueue){
-          resetPopup(true)
+          showLoginPopupFull(forElement, forQueue, false);
+        }
+        function showLoginPopupFull(forElement, forQueue, forEmber){
+          resetPopup(true);
+          ember=forEmber;
           if (forQueue) {
             login_only.hide()
             login_and_queue.show()
@@ -369,15 +370,15 @@
         }
 
         $('.login_link, #write_review').bind('click',function(e){
-          e.preventDefault()
-          setEmbeddedAction($(this).data('embedded-action-name'), $(this).data('embedded-action-param'));
-          showLoginPopup(this, $(this).data('queue-action'))
-        })
+          e.preventDefault();
+          setEmbeddedAction($(this).data('embedded-action-name'), $(this).data('embedded-action-param'), '');
+          showLoginPopup(this, $(this).data('queue-action'));
+        });
 
         $('#add_to_queue_button, .queue_btn').bind('click',function(e){
           e.preventDefault()
           if (!logged_in){
-            setEmbeddedAction("queue_movie", $(this).attr("data-movie-id"));
+            setEmbeddedAction("queue_movie", $(this).attr("data-movie-id"), '');
             showLoginPopup(this, true);
           }
         })
@@ -508,8 +509,25 @@
       function watchWindowPopup()
       {
         if (thewinPopup.closed ) {
-          $.post(getActionEmbeddedUrl('http://gowatchit.com/popup/login'));
-        } else {
+          if (ember == false ){
+            $.post(getActionEmbeddedUrl('http://gowatchit.com/popup/login'));
+          }else{
+            $.ajax({
+              url: '/me',
+             context: this,
+             beforeSend: function(xhr) {xhr.setRequestHeader('X-CSRF-Token', $('meta[name="csrf-token"]').attr('content'))},
+               dataType: 'json',
+             success: function(response) {
+              $.post(getActionEmbeddedUrl('http://gowatchit.com/popup/login'));
+              GoWatchIt.set('user', GoWatchIt.User.create(response));
+             }, 
+             error: function(response, msg, error) {
+              $.post(getActionEmbeddedUrl('http://gowatchit.com/popup/login')); // TODO this shoudl be an articulate error
+             }
+            })
+            closePopup();
+          }
+          } else {
           setTimeout("watchWindowPopup()",2000);
         }
       }
@@ -565,11 +583,8 @@
 
 
 		<!-- -->
-		
 		<!-- FOOTER -->
-		<script type="text/javascript">
-		
-			
+		<script type="text/javascript">		
 			//comment out top and bottom "site_controls"
 			//comment in top and bottom "headfoot_partner_logo"
 			//var controls = false;
@@ -668,7 +683,7 @@
 			
 			function redirectPage(url){
 				if (url == 'self'){
-					window.location.reload()
+				//	window.location.reload()
 				} else {
 					window.location = url
 				}
@@ -694,7 +709,7 @@
 			// Facebook Like tracking
 			if (typeof(FB) != "undefined") { // This if is a TOTAL HACK - DKD
 			FB.Event.subscribe('edge.create', function(url) {
-				$.post('http://gowatchit.com/transactions/like/1356774127?url='+url+'&movie_id=');			
+				$.post('http://gowatchit.com/transactions/like/1369854897?url='+url+'&movie_id=');			
 				track_event('movie','like','')
 			});
 		}	
@@ -726,4 +741,4 @@
 
 	  
 	
-  </div></body></html>
+</div></body></html>
