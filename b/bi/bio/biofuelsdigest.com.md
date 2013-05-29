@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biofuelsdigest.com privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127174616id_/http%3A//www.biofuelsdigest.com/bdigest/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biofuelsdigest.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529101926id_/http%3A//www.biofuelsdigest.com/bdigest/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy : Biofuels Digest
 
@@ -23,4 +23,4 @@ AP registrants may opt-out of receiving further communications from AP at any ti
 Assignment  
 In its sole discretion, AP may transfer, sell or assign your personal information collected on and through this website to one or more third parties, as a result of the sale, merger, consolidation, change in control, transfer of substantial assets, reorganization or liquidation of AP.
 
-[](http://www.printfriendly.com/print/v2?url=http://www.biofuelsdigest.com/bdigest/about-us/privacy-policy/)
+[](http://www.printfriendly.com/print?url=http://www.biofuelsdigest.com/bdigest/about-us/privacy-policy/)
