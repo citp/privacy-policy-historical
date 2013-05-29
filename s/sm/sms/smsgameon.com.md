@@ -1,86 +1,90 @@
-> *The following text is extracted and transformed from the smsgameon.com privacy policy that was archived on 2012-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120701205149id_/http%3A//smsgameon.com/usprivacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smsgameon.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529215620id_/http%3A//smsgameon.com/privacy.html) for the most accurate reproduction.*
 
 # Game On
 
-**Privacy Policy**
+## Privacy Policy
 
-(Last updated: August 10, 2007) 
+Thank you for your interest in the short message services (“SMS”) subscription service (hereinafter referred to as the “Services”) provided by MyPengo Mobile (referred to herein as “Provider”, “we” or “us”) and our website located at http://www.cellago.com (the “Site”). Provider currently offers users access to a collection of on-line and mobile entertainment, including SMS services. This privacy policy (the “Privacy Policy”) was created to let you know what information we collect, use and disclose in connection with the Site and the Services. By using the Site and/or the Services, you consent to the following terms.
 
-Thank you for your interest in our SMS subscription service of MyPengo Mobile (referred to herein as �Provider�, �we� or �us�) and our website (the �Site�). As you know, Provider currently offers users access to a collection of on-line and mobile entertainment, including SMS or Short Messaging Services. These will be referred to hereinafter as the Services. This privacy policy was created to let you know what information we collect from you and what we do with it. By using the Site and the Services, you consent to the following terms. 
+This Privacy Policy covers the following topics:
 
-This policy covers the following topics: 
+1\. What personal information is collected from you through the Site or the Services;
 
-1\. What personally identifiable information is collected from you through the Site or the Services;   
-2\. How the information is used;   
-3\. With whom the information may be shared  
-4\. What choices are available to you regarding collection, use, and distribution of the information; and  
-5\. How you correct errors or inaccuracies in your information. 
+2\. How the personal information is used;
 
-**1\. What information do we collect?**
+3\. With whom the personal information may be shared; and
 
-We collect several different types of information from you. 
+4\. Additional information with respect to what choices are available to you regarding collection, use, and disclosure of the personal information; access and correction of your personal information; security issues; and contact information.
 
-**A. Information collected at registration**
+1\. What information do we collect?
 
-We collect personal information when you register with us and when you use our Services. We may combine this information about you with information we obtain from our business partners or other companies. During registration for some of our services, we may require users to give us basic contact information (such as your first and last name, e-mail addresses, and mobile phone number), and demographic information (such as zip code and age). The information requested on the registration form may change from time to time. Although additional demographic information may be requested at the time of registration, only information marked "required" is necessary for registration and utilization of our services. 
+Personal information is any information that identifies you, or by which your identity could be deduced. It does not include your name, business address, business title, professional designations or business telephone number. We collect several different types of personal information from you in order to offer you the Site and Services, including, but not limited to, the following:
 
-We do not accept registrations from persons under the age of eighteen. Our Services are available only to persons who are eighteen years of age and over. If we learn that a user is under the age of eighteen, we will terminate the account and delete the user's information. We will not be liable for any content or advertisements viewed by minor children in violation of the terms of this policy. 
+A. Information collected from you at registration
 
-**B. Information collected through use of the Site and Services**
+We collect personal information when you register with us and when you use our Site and Services. We may combine this information about you with information we obtain from our business partners (including your mobile communications carrier) or other companies. During registration for some of our Services, we may require users to give us basic contact information (such as your first and last name, e-mail addresses, and mobile phone number), and demographic information (such as your city or province or residence, postal code and age). The information requested on the registration form may change from time to time. Although additional demographic information may be requested at the time of registration, only information marked “required” is necessary for registration and utilization of the Services.
 
-In addition to the specific questions you answer when you register for our game services, we may also collect information from winners of our contests, such as their street address, phone number, date of birth, and social security number, so that we can comply with various state and federal reporting requirements. 
+We do not accept registrations from persons under the age of majority in his or her province or territory of residence. Our Services are available only to persons who of the age of majority or over. If we learn that a user is under the age of majority, we will terminate the account and delete the user’s information. We will not be liable for any content or advertisements viewed by minor children in violation of the terms of this policy.
 
-We collect system information such as IP addresses (in other words, the location of your computer on the Internet) for system administration, troubleshooting, security, and to examine overall traffic trends. This information, in aggregate form, is recorded for administrative purposes. 
+B. Information automatically collected through your use of the Site and Services
 
-We also may use cookies, a small data file stored on your computer, to customize portions of our Services and Site to your preferences. For example, we may use this cookie to identify you as a registered user of our Services. If you do not allow your browser to accept cookies, please understand that some of the areas or functionality within our Site may be limited. 
+We collect system information such as IP addresses (in other words, the location of your computer on the Internet) for system administration, troubleshooting, security, and to examine overall traffic trends. This information, in aggregate form, is recorded for administrative purposes.
 
-**Provider allows the user the possibility to interrupt the flow of information received via SMS (Short Message Service). Information received via SMS can be interrupted by sending an SMS message starting with the keyword, i.e. your entry code, followed by a space and then the word STOP or simply sending STOP or STOP ALL. You can send this message to the abbreviated number you used for entry. See for more details the 'unsubscribe' page of the website.**
+We also may use cookies, a small data file stored on your computer, to customize portions of our Services and Site to your preferences. For example, we may use these cookies to identify you as a registered user of our Services. You may choose to set your browser not to accept cookies, but please understand that some of the areas or functionality within our Site may be limited if you do so.
 
-**2\. What do we do with the information we collect?**
+Provider allows the user the possibility to interrupt the flow of information received via SMS. Information received via SMS can be interrupted by sending a text message with the word **STOP** to 80601 to unsubscribe from the Cellago service. You will be unsubscribed from the service immediately and you will receive a confirmation message. Alternatively, send an e-mail via our customer care e-mail form located at http://www.wingameon.com/ca/support.aspx. Within 24 hours you will be unsubscribed from the service (exception on weekend days, in which case you will be unsubscribed on the following Monday). You can also telephone our support number 1-888-353-2801 to receive additional automated information and leave a voicemail. Within 24 hours you will be unsubscribed from the service (exception on weekend days, in which case you will be unsubscribed on the following Monday).
 
-We use the information we collect from you to do the following:   
-� provide the Services to you,   
-� confirm your agreement with us for use of the Services,   
-� bill you for the Services and process other transactions between you and us,   
-� improve our content,   
-� issue prizes and awards from our various contests,   
-� customize certain pages or Services for you, and  
-� send you promotional information, and update you about us. 
+2\. What do we do with the personal information we collect?
 
-**3\. With whom do we share information?**
+We use the personal information we collect from you to do the following:
 
-Our policy is not to disclosure your personally identifiable information to any third parties, except as follows: 
+• provide the Site and Services to you,
 
-� We may disclose such information to third party vendors (e.g., data storage and processing facilities) that we use to assist us in providing our services, subject to similar obligations of confidentiality to those contained in this Privacy Policy.   
-� We share your MDISDN number and your carrier with our aggregator and carrier.   
-� We may disclose the name of winners of our contests as may be required by law on our Site and in winner�s lists.   
-� We may disclose information about you to the cellular telephone providers that you select to provide the mobile communications services necessary to access our Services.   
-� We may also disclose information about you as we believe is reasonably necessary to comply with laws, regulations, court or administrative orders, or other governmental authority or to prevent harm to yourself or others.   
-� Finally, we may disclose your personal information upon a transfer or sale to another entity of all or substantially all of our stock or assets in the line of business that this privacy policy relates or upon any other corporate reorganization. 
+• confirm your agreement with us for your use of the Site and Services,  
+• bill you, either directly or via your mobile communications carrier or Internet Service Provider (“ISP”), for the Services and process other transactions between you and us,  
+• improve our content,,  
+• customize certain Site pages or Services for you, and  
+• send you promotional information, and update you about us and our advertisers and sponsors.
 
-We may also share aggregate demographic and other information regarding use of our Services with third parties for marketing and other purposes. 
+3\. With whom do we share personal information?
 
-**4\. Access to your account**
+Our policy is not to disclosure your personal information to any third parties, unless we have received your consent, and except as follows:
 
-For security reasons, we don�t currently provide users the ability to access or update their accounts on our systems. 
+• We may disclose such information to third party vendors (e.g., data storage and processing facilities) that we use to assist us in providing our Services, subject to similar obligations of confidentiality to those contained in this Privacy Policy.  
+• We share your MDISDN number and your carrier with our aggregator and carrier.  
+• We will disclose the name of winners of our competitions on our Site and in printed winner’s lists.  
+• We may disclose information about you to the mobile communications carriers or ISPs that you select to provide the mobile communications or Internet access services necessary to access our Services.  
+• We may also disclose information about you as we believe is reasonably necessary to comply with laws, regulations, court or administrative orders, or other governmental authority or to prevent harm to yourself or others.  
+• Finally, we may disclose your personal information upon a transfer or sale to another entity of all or substantially all of our stock or assets or upon any other corporate reorganization.
 
-**5\. Other websites**
+We may also share aggregate demographic and other information, which does not personally identify you, regarding use of our Services with third parties for marketing and other purposes.
 
-Our Site may contain links to other websites. We cannot be responsible for their content or for private information that you may choose to share with them. Please note: any information you release directly to parties who provide services to us, such as any vendors who advertise on our Site or Services, may be subject to different rules of use or disclosure. We encourage you to investigate and ask questions before disclosing personal information to third parties. 
+We limit our collection, use, disclosure and retention of personal information to that which is necessary and has been disclosed to you.
 
-**6\. Security**
+4\. Access to your personal information
 
-Your privacy is important to us and we take reasonable measures to protect the security of the personal information we collect. However, we cannot guarantee absolute security or that your personal information would never be disclosed. In addition, you are responsible for maintaining the security of any passwords of login ids you are provided and for any claims, losses, liabilities or expenses arising out the use of your passwords or ids, whether authorized or not. 
+Upon request, we will inform you of the existence, use and disclosure of your personal information and you shall be given access to it in order to correct or update it. Submit your request via the support page by filling out the e-mail form addressed to our Privacy Officer.
 
-**7\. Notice of changes**
+5\. Other websites
 
-We reserve the right to change this privacy policy in our sole discretion, and will post any revisions on the Site or through our Services. We encourage you to review this privacy policy regularly for any changes. Your continued use of the Site and Services will be subject to the then-current privacy policy. If there is a change in this privacy policy that affects your personally identifiable information, we will notify you of the change by e-mail to the address that you have provided to us. At the time of this message, you will be given the option to opt out of this change in information usage by sending a written response message, provided, however that any subsequent use of the Site will subject you to the new privacy policy. 
+Our Site may contain links to other websites. We cannot be responsible for their content or for personal information that you may choose to share with them. Please note: any information you release directly to your mobile communications carrier or ISP or to parties who provide services to us, such as any vendors who advertise on our Site or Services, may be subject to different rules of use or disclosure. We encourage you to investigate and ask questions before disclosing personal information to third parties.
 
-**Contact Information**
+6\. Security
 
-If you have questions or concerns regarding this policy, you should contact us by mail at: 
+Your privacy is important to us and we take reasonable measures to protect the security of the personal information we collect. However, for technical reasons and otherwise, we cannot guarantee absolute security or that your personal information will never be disclosed. In addition, you are responsible for maintaining the security of any passwords of login ids you are provided and for any claims, losses, liabilities or expenses arising out the use of your passwords or ids, whether authorized or not.
 
-MyPengo Mobile   
-Concerning Privacy Policy   
-550 Madison Ave 8th floor  
-New York, NY 10022
+7\. Notice of changes
+
+We reserve the right to change this Privacy Policy in our sole discretion, and will post any revisions on the Site or through our Services. We encourage you to review this Privacy Policy regularly for any changes. Your continued use of the Site and Services will be subject to the then-current Privacy Policy.
+
+8\. Contact Information
+
+If you have questions or concerns regarding this Privacy Policy, you should contact:
+
+Privacy Officer – Cellago  
+MyPengo Mobile  
+138 West 25th Street, Suite 1019  
+New York, NY 10036  
+You can also contact us via e-mail by clicking on the link to our support e-mail form located at
+
+http://www.smscustomercare.com/form.html
