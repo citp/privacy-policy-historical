@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hairtrade.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226185741id_/http%3A//www.hairtrade.com/info_privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hairtrade.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529055948id_/http%3A//www.hairtrade.com/info_privacy.php) for the most accurate reproduction.*
 
 # Hairtrade.com - Privacy Policy
 
@@ -34,7 +34,7 @@ If you wish to verify the details you have submitted to HAIRTRADE you may do so 
   
 **What are Cookies?**
 
-We collect information about our customers via server logs, cookies, order forms and competitions. Cookies are small text files that are placed on your computer by websites that you visit. They are widely used in order to make websites work, or work more efficiently, as well as to provide information to the owners of the site. 
+We collect information about our customers via server logs, cookies, order forms and competitions. Cookies are small text files that are placed on your computer by websites that you visit. They are widely used in order to make websites work, or work more efficiently, as well as to provide information to the owners of the site. **This website uses cookies. By continuing to use the website, you consent to the use of cookies.**
 
 The information collected in this way can be used to identify you unless you modify your browser settings. None of our cookies store any credit/debit card information nor password details.
 
