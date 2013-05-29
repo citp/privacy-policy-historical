@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alloywheels.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230184202id_/http%3A//www.alloywheels.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alloywheels.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530001040id_/http%3A//www.alloywheels.com/Privacy) for the most accurate reproduction.*
 
 # Security and Privacy - Supplier of alloy wheels and tyres packages, alloys, wheels, tyres and car alloys. Low rate finance and fast delivery available. Home of alloy wheels.
 
