@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the billtrust.com privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022162010id_/http%3A//www.billtrust.com/node/125) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the billtrust.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529081621id_/http%3A//billtrust.com/node/125) for the most accurate reproduction.*
 
 # Billtrust Privacy Policy
 
@@ -8,7 +8,7 @@
 Billtrust™ will not disclose any information or data submitted by Users of this web site to any third party, without the User's prior permission, unless Billtrust has a good faith belief that such action is necessary to: (a) conform to legal requirements or comply with legal process; or (b) protect and defend the rights or property of Billtrust.
 
 **What We Collect**  
-Billtrust collects personal information about our users only during the secure order process, during the registration for our CompleteBilling™ service and during the use of CompleteBilling. We collect name, email address, shipping address, credit card company, credit card number and expiration date, credit card billing address, and invoicing information. All of this information is kept strictly confidential. It is not shared or sold to third parties. For membership access areas, we require that you accept a cookie. This is only for functionality reasons, and your personal information is never shared with anyone else. These cookies are also only collected by our sites, there are no third party cookies that are placed on your computer. These cookies help keep track of your login information to speed up the login process, and in certain cases we store your preferences to help tailor our site content to your interests.
+Billtrust collects personal information about our users only during the secure order process, during the registration for our Customer Centric Billing™ service and during the use of Customer Centric Billing. We collect name, email address, shipping address, credit card company, credit card number and expiration date, credit card billing address, and invoicing information. All of this information is kept strictly confidential. It is not shared or sold to third parties. For membership access areas, we require that you accept a cookie. This is only for functionality reasons, and your personal information is never shared with anyone else. These cookies are also only collected by our sites, there are no third party cookies that are placed on your computer. These cookies help keep track of your login information to speed up the login process, and in certain cases we store your preferences to help tailor our site content to your interests.
 
 **Your Privacy**  
 Billtrust respects your right to privacy. We have a strict policy of not selling our customers' email addresses and are completely anti-Spam.
@@ -17,7 +17,7 @@ Billtrust respects your right to privacy. We have a strict policy of not selling
 You will be notified of any significant privacy statement updates or if we change the way we collect or use Personally Identifiable Information through email. For this reason, it is important that the email address you have on record with Billtrust is kept up to date.
 
 **How We Protect Your Information**  
-We have numerous security measures in place to protect your personally identifiable information. Our employees are made aware of these measures when they start working at Billtrust. Any time there is a change in security measures, all employees are notified of the change. We are using SSL (Secure Socket Layer) encryption for your credit card transactions and for all transmission of your billing information via the CompleteBilling wizard.
+We have numerous security measures in place to protect your personally identifiable information. Our employees are made aware of these measures when they start working at Billtrust. Any time there is a change in security measures, all employees are notified of the change. We are using SSL (Secure Socket Layer) encryption for your credit card transactions and for all transmission of your billing information via the Customer Centric Billing wizard.
 
 We do share your credit card information with a third party only for verification purposes. All customer information available to internal employees is only accessible on our internal company network.
 
