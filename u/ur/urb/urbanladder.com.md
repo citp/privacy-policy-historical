@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the urbanladder.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215095912id_/http%3A//www.urbanladder.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urbanladder.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529160123id_/http%3A//www.urbanladder.com/privacy-policy) for the most accurate reproduction.*
 
 # Urban Ladder | Privacy Policy
 
@@ -14,7 +14,7 @@ Note: Our privacy policy is subject to change time to time without notice. To ma
 
 
   * 1\. Your contact details such as customer name, email address, urbanladder.com account password, phone number and shipping address
-  * 2\. Your transaction or banking details such as credit card number, cardholder name, expiration date and CVV or other information as required for internet banking or other payment instruments.
+  * 2\. Your transaction or banking details such as credit card number, cardholder name, expiration date and CVV or other information as required for internet banking or other payment instruments is not held by Urbanladder.com but is held by our Payment Gateway partner (PayU). Our payment gateway partner is "VeriSign Secured" and "PCI-Compliant" which ensure the highest standards of safety and security for your information. 
   * 3\. Your previous orders and transactions including the product and pricing details, the date of purchase, transaction information, payment history etc.
   * 4\. Information from optional online surveys on our or third party sites (posted by urbanladder.com) which may include demographic information (like gender, age, income) as well as product and service preferences of users.
   * 5\. Cookies: Cookies is a piece of data stored by a website within a browser which enable the browser to remember information specific to a given user such as clicking particular buttons, logging in, or having read certain pages on our site. All leading Internet companies such as Amazon, Yahoo, Google and Facebook use cookies. You can set your browser to notify you when you are sent a cookie, and you can decide whether or not to accept it.
