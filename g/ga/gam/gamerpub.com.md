@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gamerpub.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120074614id_/http%3A//gamerpub.com/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamerpub.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530011954id_/http%3A//toomkygames.com/home/privacy) for the most accurate reproduction.*
 
-# Privacy policy - Free Games Download - Full Version PC and Online Games
+# Privacy Policy - Free Games Download - Full Version PC Games at ToomkyGames.com
 
-PLEASE READ THIS DOCUMENT CAREFULLY. IT CONTAINS IMPORTANT INFORMATION THAT YOU SHOULD KNOW BEFORE CONTINUING TO USE THIS WEBSITE AND RELATED SERVICES. ALSO NOTE THAT BY CONTINUING TO USE GAMESPUB’S WEBSITE AND/OR RELATED SERVICES YOU WILL BE DEEMED TO HAVE ACCEPTED THIS PRIVACY POLICY. Your use of the GamesPub’s website and the products and services provided herein, is subject to this privacy statement ( **“Privacy Policy”** ) and GamesPub’s Terms of Use located at: <http://gamerpub.com/home/terms_of_use>. 
+PLEASE READ THIS DOCUMENT CAREFULLY. IT CONTAINS IMPORTANT INFORMATION THAT YOU SHOULD KNOW BEFORE CONTINUING TO USE THIS WEBSITE AND RELATED SERVICES. ALSO NOTE THAT BY CONTINUING TO USE GAMESPUB’S WEBSITE AND/OR RELATED SERVICES YOU WILL BE DEEMED TO HAVE ACCEPTED THIS PRIVACY POLICY. Your use of the GamesPub’s website and the products and services provided herein, is subject to this privacy statement ( **“Privacy Policy”** ) and GamesPub’s Terms of Use located at: [http://toomkygames.com/terms_of_use](http://toomkygames.com/home/terms_of_use). 
 
 GamesPub has a strong commitment to providing superior service to all of our Website customers and visitors, and particularly GamesPub respects your concerns about your privacy. As you use our Website and our products and services, we may gather certain personal and other information from you. We have created this Privacy Policy to inform you of the type of information we gather, what we do with that information, and the circumstances under which we may disclose your information. We ask that you please read this Privacy Policy carefully prior to using our Website or our products and services. 
 
@@ -10,7 +10,7 @@ We will not sell or rent your personally identifiable information or a list of o
 
 This Privacy Policy contains numerous general and technical details describing the steps that we take to protect your privacy. We have organized this Privacy Policy by major topic areas so that you can quickly locate to the information of most interest to you. Meeting your needs and expectations forms the foundation of everything that we do —including protecting your privacy. 
 
-If after reviewing this Privacy Policy you still have questions or privacy concerns please contact us at [privacy@gamerpub.com](mailto:privacy@gamerpub.com). 
+If after reviewing this Privacy Policy you still have questions or privacy concerns please contact us at [privacy@toomkygames.com](mailto:privacy@toomkygames.com). 
 
 ## Summary
 
@@ -59,7 +59,7 @@ When ordering products and services from our Website, you may be asked to provid
 
 When you use the Website, GamesPub or third parties authorized by us may collect certain technical and routing information about your computer (also known as environmental variables) to facilitate your use of the Website and related services. In short, when you browse the Internet, your Internet browser (such as Mozilla Firefox or Microsoft Internet Explorer) automatically transmits some information to us every time you access content on one of our internet domains. Examples of such information include the URL of the particular Web page you visited, the IP (Internet Protocol) address of the computer you are using, or the browser version that you are using to access the Website. All of this information may be collected by GamesPub and used to help improve our offerings to you. Without expressly informing you in each circumstance, we do not match this information with any of your personal information. 
 
-You may be provided an opportunity to subscribe to a periodic newsletter and product updates from us. The subscription service requires you to provide your first and last name, your email address, and other information. You will be given the opportunity to choose the type of information we provide to you and will be provided with an opportunity to opt-out from receiving the information altogether by either making appropriate choice to your account or by writing to privacy@gamerpub.com. 
+You may be provided an opportunity to subscribe to a periodic newsletter and product updates from us. The subscription service requires you to provide your first and last name, your email address, and other information. You will be given the opportunity to choose the type of information we provide to you and will be provided with an opportunity to opt-out from receiving the information altogether by either making appropriate choice to your account or by writing to privacy@toomkygames.com. 
 
 The information you submit to us may be transferred across national boundaries and may be stored and processed in any of the countries in which we (and our affiliates) maintain offices or web hosting servers. In certain countries, or with respect to certain activities, the collection, transferring, storage, and processing of your information may be undertaken by our trusted vendors. 
 
@@ -69,7 +69,7 @@ We may establish relationships with certain third party service providers. Typic
 
 You may be given an opportunity to create a personal account, which may be required for receiving certain services offered or to be offered on the Website. Once the personal account is created, you will be able to access, review and update your personal account information via the Website. 
 
-If you wish to deactivate your personal account, you can contact us at privacy@gamerpub.com. When you deactivate your personal account, all information stored and maintained as part of your account will be deleted from our servers (although some information may be retained for archival, backup and record purposes). You may change your personal information and privacy preferences at any time by logging into your personal account. You may also access and change your personal information and privacy preferences by contacting us at privacy@gamerpub.com. 
+If you wish to deactivate your personal account, you can contact us at privacy@toomkygames.com. When you deactivate your personal account, all information stored and maintained as part of your account will be deleted from our servers (although some information may be retained for archival, backup and record purposes). You may change your personal information and privacy preferences at any time by logging into your personal account. You may also access and change your personal information and privacy preferences by contacting us at privacy@toomkygames.com. 
 
 ## Information Relating to Children
 
@@ -99,15 +99,15 @@ Although we will always strive to guard your identity, we may disclose your pers
 
 You can always choose whether or not to disclose personally identifiable information and that choice will not prevent you from using the Website. However, as previously discussed, withholding certain requested information may prevent us from providing you with certain services. 
 
-You can choose at anytime to opt out of receiving emails from GamesPub or from having your personally identifiable information shared with selected companies. If you wish to opt out, you can do so by editing your account preferences with respect to e-mail or the sharing of information or contacting us at [privacy@gamerpub.com](mailto:privacy@gamerpub.com). If you elect to “opt out” we will not share your personal information with third parties or send you regular emails. However, we may continue to use your personal information for internal purposes, such as to enhance your user experience or as necessary to administer the Website or comply with applicable laws and regulations. 
+You can choose at anytime to opt out of receiving emails from GamesPub or from having your personally identifiable information shared with selected companies. If you wish to opt out, you can do so by editing your account preferences with respect to e-mail or the sharing of information or contacting us at [privacy@toomkygames.com](mailto:privacy@toomkygames.com). If you elect to “opt out” we will not share your personal information with third parties or send you regular emails. However, we may continue to use your personal information for internal purposes, such as to enhance your user experience or as necessary to administer the Website or comply with applicable laws and regulations. 
 
 We may send a one-time registration confirmation email, and infrequent “service alert” messages to you to inform you of specific changes that may impact your ability to use a service you have previously signed up for, regardless of email contact opt-in status. Also, we may contact you if compelled to do so as part of a legal proceeding or if there has been a violation of any applicable licensing, warranty and purchase agreements. 
 
 We retain these rights because in limited cases we may need to contact you as a matter of law or regarding matters important to you. These rights do not allow us to contact you to market a new or existing service if you have asked us not to do so, and issuance of these types of communications is rare. 
 
-If you create a personal account with us, based on your personal preferences we may periodically contact you via e-mail to provide information about special offers and promotions that may be of interest to you. These communications will relate to select, reputable third parties with whom we have a strategic marketing relationship. We may use a third party e-mail service provider to send e-mails. This service provider is prohibited from using your e-mail address for any purpose other than to send GamesPub related e-mail. If you do not wish to receive e-mails with updates and information please unsubscribe by sending email to: [unsubscribe@gamerpub.com](mailto:unsubscribe@gamerpub.com). In addition, every time you receive an e-mail you will be provided the choice to opt-out of future e-mails by following the instructions provided in the e-mail. 
+If you create a personal account with us, based on your personal preferences we may periodically contact you via e-mail to provide information about special offers and promotions that may be of interest to you. These communications will relate to select, reputable third parties with whom we have a strategic marketing relationship. We may use a third party e-mail service provider to send e-mails. This service provider is prohibited from using your e-mail address for any purpose other than to send GamesPub related e-mail. If you do not wish to receive e-mails with updates and information please unsubscribe by sending email to: [unsubscribe@toomkygames.com](mailto:unsubscribe@toomkygames.com). In addition, every time you receive an e-mail you will be provided the choice to opt-out of future e-mails by following the instructions provided in the e-mail. 
 
-If you wish to opt out of receiving emails, the sharing or retention of any personal identification information, or otherwise change your personal preferences, you may contact us at privacy@gamerpub.com. 
+If you wish to opt out of receiving emails, the sharing or retention of any personal identification information, or otherwise change your personal preferences, you may contact us at privacy@toomkygames.com. 
 
 To ensure that your request is honored, provide information sufficient for us to accurately identify and access your records, such as your full name, address and the email address you provided to us when you requested services or products. We reserve the right to contact you to verify that we have accurately identified record. 
 
@@ -131,7 +131,7 @@ Web beacons are used in combination with cookies to help website operators under
 
 **C. PRIVACY-RELATED INQUIRIES AND COMPLAINTS**
 
-We take our users’ privacy concerns with utmost respect and attention. If you believe that there was an instance of non-compliance with this Privacy Policy with regard to your personal information or you have other related inquiries or concerns, you may write or contact us at [privacy@gamerpub.com](mailto:privacy@gamerpub.com)
+We take our users’ privacy concerns with utmost respect and attention. If you believe that there was an instance of non-compliance with this Privacy Policy with regard to your personal information or you have other related inquiries or concerns, you may write or contact us at [privacy@toomkygames.com](mailto:privacy@toomkygames.com)
 
 In your message, please describe in as much detail as possible the nature of your inquiry or the ways in which you believe that the Privacy Policy has not been complied with. We will investigate your inquiry or complaint promptly. 
 
