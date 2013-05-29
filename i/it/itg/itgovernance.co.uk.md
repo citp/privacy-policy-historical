@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the itgovernance.co.uk privacy policy that was archived on 2012-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121128051122id_/http%3A//www.itgovernance.co.uk/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itgovernance.co.uk privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529183433id_/http%3A//www.itgovernance.co.uk/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
-## 21 May 2012
+##  22 January 2013
 
 We – IT Governance Ltd – regard your privacy as important. Information we collect from you, where you choose to provide it to us, enables us to send you information about products and services in which you register an interest. By providing us with your information you consent to us processing it for this purpose. We will not pass it on to any third party.
 
@@ -23,10 +23,12 @@ This information is collected by our web server and is only used for system admi
 
 You will be asked for personal information if you wish to use our services (such as our weekly newsletter, information services, web forum or consultancy or if you make a general enquiry or ask us to contact you). In each case we will only use the personal information you provide to deliver the services you have told us you wish to use.
 
+You may revoke your consent to processing of your data at any time by sending an email to [servicecentre@itgovernance.co.uk](mailto:%20servicecentre@itgovernance.co.uk). You may ask us at any time for information about any personal data we hold about you, or ask to correct or delete that information.
+
 We will not provide your information to any other organisation for any purposes under any conditions.  
 Links within this site to other web sites are not covered by this policy.
 
-### Cookies
+###  Cookies
 
 We use cookies on this site for a number of purposes.
 
@@ -48,6 +50,6 @@ This website will only set three types of third party cookie, and we do not cont
 
   * Google Analytics - we use Google Analytics to collect data about website usage. This data does not include personally identifiable information. You can view the Google privacy policy here: [www.google.com/policies/privacy/](http://www.google.com/policies/privacy);
   * LiveChat – this licence cookie simply enables our installation of live chat, making it possible for visitors to use the LiveChat functionality on this site. It does not collect any personally identifiable information and you should read the LiveChat Privacy Policy here: [www.livechatinc.com/privacy-policy/](http://www.livechatinc.com/privacy-policy/);
-  * ShareThis – the ShareThis cookie is used when you use the ShareThis service on our website to share a link with LinkedIn, Facebook, Twitter, etc. You should read the ShareThis Privacy Policy here: [http://sharethis.com/privacy]()
+  * AddThis – the AddThis cookie is used when you use the ShareThis service on our website to share a link with LinkedIn, Facebook, Twitter, etc. You should read the AddThis Privacy Policy here: [http://www.addthis.com/privacy/privacy-policy]()
 
-Untitled Page
+
