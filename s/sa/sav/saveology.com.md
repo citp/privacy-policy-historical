@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saveology.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628200922id_/http%3A//www.saveology.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saveology.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529183512id_/http%3A//www.saveology.com/privacy-policy) for the most accurate reproduction.*
 
 # Saveology - Privacy Policy
 
@@ -124,6 +124,6 @@ Upon request, SaveologyDEALS, LLC will provide you with a readable copy of your 
 
 ## 8\. For Additional Information.
 
-SaveologyDEALS, LLC maintains this Site from its headquarters in Ft. Lauderdale, Florida. If you have questions regarding our Privacy Policy or believe that our Privacy Policy has not been complied with as to your Personal Information, please contact us as at privacy@deals.saveology.com or by United States Mail at SaveologyDEALS, LLC, 5259 Coconut Creek Parkway, Margate FL 33063 or call 1-877-503-8132. 
+SaveologyDEALS, LLC maintains this Site from its headquarters in Ft. Lauderdale, Florida. If you have questions regarding our Privacy Policy or believe that our Privacy Policy has not been complied with as to your Personal Information, please contact us as at privacy@deals.saveology.com or by United States Mail at SaveologyDEALS, LLC, 5259 Coconut Creek Parkway, Margate FL 33063. 
 
 If you no longer wish to receive daily deals from Saveology, you may [Unsubscribe Here](http://profile.saveology.com/sa_unsubscribe.jsp) . 
