@@ -1,13 +1,13 @@
-<!--The following is the downloaded HTML source of the webhosting.uk.com privacy policy that was archived on 2012-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120617123118id_/https%3A//www.webhosting.uk.com/web-hosting-uk-privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the webhosting.uk.com privacy policy that was archived on 2013-05-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130529210945id_/http%3A//www.webhosting.uk.com/web-hosting-uk-privacy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<title>Web Hosting UK - Privacy Policy - Data Security - Dedicated Server - VPS Hosting</title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<title>Web Hosting UK - Privacy Policy - Data Security</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <meta http-equiv="reply-to" content="support@webhosting.uk.com">
 <meta http-equiv="Content-Language" content="English">
 <meta name="description" content="Web Hosting UK - Privacy Policy and Data Security for Information gathered from dedicated server and vps hosting customers.">
-<meta name="keywords" content="web hosting uk, dedicated server, vps hosting,	web hosting, uk website hosting">
+<meta name="keywords" content="web hosting uk Privacy Policy">
 <meta name="resource-type" content="document"> 
 <meta name="Generator" content="webhosting.uk.com Tag Generator">
 <meta name="revisit-after" content="3 Days">
@@ -16,544 +16,720 @@
 <meta name="distribution" content="Global">
 <meta name="rating" content="Safe For Kids">
 <meta name="author" content="webhosting.uk.com">
-
-<link rel="icon" href="http://www.webhosting.uk.com/favicon.ico" type="image/x-icon">
-<link href="css/stylesheet.css" rel="stylesheet" type="text/css">
-<link type="text/css" href="css/custom_tab.css" rel="stylesheet">	
-<!--[if IE 6]>
-<link rel="stylesheet" type="text/css" href="css/iefix.css" />
-<![endif]-->
-<style>
-table.spaces{border:solid #999; border-width:1px 1px 0 0;}
-table.spaces td{padding:5px; border:solid #999; border-width:0 0 1px 1px;}
-</style>
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="js/dolphin.js"></script>
-<!--plan tab start here-->
-<script type="text/javascript" src="js/jquery-1.4.2.min.js"></script>
-<script src="js/menu.js" type="text/javascript"></script>
-<script type="text/javascript" src="js/jquery-ui-1.8.4.custom.min.js"></script>
-<script language="javascript" type="text/javascript">
-	$(function(){
-		$('#tabs').tabs();
-		$('#tabs1').tabs();
-		$('#tabs2').tabs();
-		$('#tabs3').tabs();
-	});
-<!--plan tab end here-->
-
-<!--sliding gallery start here-->
-function slideSwitch() {
-    var $active = $('#slideshow IMG.active');
-    if ( $active.length == 0 ) $active = $('#slideshow IMG:last');
-    // use this to pull the images in the order they appear in the markup
-    var $next =  $active.next().length ? $active.next()
-        : $('#slideshow IMG:first');
-    // uncomment the 3 lines below to pull the images in random order
-    // var $sibs  = $active.siblings();
-    // var rndNum = Math.floor(Math.random() * $sibs.length );
-    // var $next  = $( $sibs[ rndNum ] );
-    $active.addClass('last-active');
-    $next.css({opacity: 0.0})
-        .addClass('active')
-        .animate({opacity: 1.0}, 1000, function() {
-            $active.removeClass('active last-active');
+<meta name="robots" content="noodp,noydir">
+<link type="text/css" rel="stylesheet" href="http://www.webhosting.uk.com/css/stylesheet.css">
+<script type="text/javascript" src="http://www.webhosting.uk.com/js/jquery-1.8.2.min.js"></script>
+<script type="text/javascript" src="http://www.webhosting.uk.com/js/common-code.js"></script>
+<script type="text/javascript" src="http://www.webhosting.uk.com/js/jquery.tabSlideOut.v1.3.js"></script>
+<script type="text/javascript">
+    function setCookie(e, t, n) {
+        var r = new Date;
+        r.setDate(r.getDate() + n);
+        var i = escape(t) + (n == null ? "" : "; expires=" + r.toUTCString());
+        document.cookie = e + "=" + i
+    }
+    function getCookie(e) {
+        var t, n, r, i = document.cookie.split(";");
+        for (t = 0; t < i.length; t++) {
+            n = i[t].substr(0, i[t].indexOf("="));
+            r = i[t].substr(i[t].indexOf("=") + 1);
+            n = n.replace(/^\s+|\s+$/g, "");
+            if (n == e) {
+                return unescape(r)
+            }
+        }
+    }
+    function checkCookie(e) {
+        var t = getCookie(e);
+        if (t != null && t != "") {
+            return t
+        } else {
+            return ""
+        }
+    }
+    function openchat() {
+        window.open("https://server.iad.liveperson.net/hc/59448507/?cmd=file&file=visitorWantsToChat&site=59448507&SESSIONVAR!skill=Sales%20Department&imageUrl=https://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/1a&referrer=" + escape(document.location), "chat59448507", "width=475,height=400,resizable=yes")
+    }
+    $(document).ready(function () {
+        $(".sitemap_btn span").click(function () {
+            $(".sitemap").slideToggle("slow");
+            $(".sitemap_btn span").toggleClass("toogle")
         });
-}
-$(function() {
-    setInterval( "slideSwitch()", 5000 );
-});
-<!--sliding gallery ends here-->
-
-<!-- login start here -->
-function chgtopwd(obj)
-{
-	if(obj.type != 'password')
-	{
-    	obj.value='';
- 	 	obj.type='password';
-	}
-}
-function chgtotxt(obj)
-{
-  obj.value='Password';
-  obj.type='text';
-}
-function CheckBlank(obj)
-{
-	if(obj.value=='')	
-		chgtotxt(obj);
-}
-function chgtopwd(obj)
-{
-	if(obj.type != 'password')
-	{
-    	obj.value='';
- 	 	obj.type='password';
-	}
-}
-function chgtotxt(obj)
-{
-  obj.value='Password';
-  obj.type='text';
-}
-function CheckBlank(obj)
-{
-	if(obj.value=='')	
-		chgtotxt(obj);
-}
-<!-- login end here -->
-
-<!-- pop up start here -->
-function launchsupportbottom(thePage, theSize){	
-var URL;	
-var Params;
-URL = "" + thePage + ".php";
-Params = theSize + ",title=0,toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=1,resizable=0,copyhistory=0,left=0,top=0";	
-window.open (URL, thePage.replace('.',''), Params);	
-}
-function popUp(URL) {
-day = new Date();
-id = day.getTime();
-eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=300,height=300');");
-}
-function popUp1(URL) {
-day = new Date();
-id = day.getTime();
-eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=0,width=400,height=750');");
-}
-function openchat() 
-{
- window.open('https://server.iad.liveperson.net/hc/59448507/?cmd=file&file=visitorWantsToChat&site=59448507&SESSIONVAR!skill=Sales%20Department&imageUrl=https://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/1a&referrer='+escape(document.location),'chat59448507','width=475,height=400,resizable=yes');
-}
-<!-- pop up end here -->
+        $(document).ready(function () {
+            $(".open_cot a").click(function () {
+                $(".bot_cot").slideToggle("slow");
+                $(".open_cot a").toggleClass("toogle")
+            })
+        });
+        $(".cb-enable").click(function () {
+            var e = $(this).parents(".switch");
+            $(".cb-disable", e).removeClass("selected");
+            $(this).addClass("selected");
+            $(".checkbox", e).attr("checked", true);
+            setCookie("radioButton", "Y", 30);
+            $(".bubble").hide()
+        });
+        $(".cb-disable").click(function () {
+            var e = $(this).parents(".switch");
+            $(".cb-enable", e).removeClass("selected");
+            $(this).addClass("selected");
+            $(".checkbox", e).attr("checked", false);
+            setCookie("radioButton", "N", 30);
+            $(".bubble").show()
+        })
+    });
+    $(function () {
+        var e = checkCookie("radioButton");
+        if (e == "Y") {
+            $(".cb-disable").removeClass("selected");
+            $(".cb-enable").addClass("selected");
+            $("#radio1").attr("checked", true);
+            $(".bubble").hide()
+        }
+        if (e == "N") {
+            $(".cb-enable").removeClass("selected");
+            $(".cb-disable").addClass("selected");
+            $("#radio2").attr("checked", true);
+            $(".bubble").show()
+        }
+    });
+    $(document).ready(function () {
+        $("#testimonials li").quovolver();
+        var e = $(".wrappers");
+        $("#back-top").hide();
+        $(function () {
+            $(window).scroll(function () {
+                if ($(this).scrollTop() > 100) {
+                    $("#back-top").fadeIn()
+                } else {
+                    $("#back-top").fadeOut()
+                }
+            });
+            $("#back-top a").click(function () {
+                $("body,html").animate({
+                    scrollTop: 0
+                }, 800);
+                return false
+            });
+            $(".open_cot a").click(function () {
+                $("body,html").animate({
+                    scrollTop: e.height()
+                }, 800);
+                return false
+            })
+        })
+    })
+	$(function(){
+		 $('.slide-out-div').tabSlideout({
+			 tabHandle: '.handle',                              
+			 //pathToTabImage: 'images/contact_tab.gif',        
+			 imageHeight: '101px',                              
+			 imageWidth: '35px',                               
+			 tabLocation: 'left',                              
+			 speed: 700,                                       
+			 topPos: '200px',                                  
+			 fixedPosition: true                               
+		 });
+	 });
 </script>
+
 
 <script type="text/javascript" charset="iso-8859-1" src="https://server.iad.liveperson.net/hcp/html/mTag.js?site=59448507"></script></head>
 
 <body>
-<div id="container">
-  <div id="content">
+<div class="wrappers">
+
     <div class="header">
-      <table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td height="90"><div class="header_top">
-    <div class="lnames">
-        <h1><a href="http://www.webhosting.uk.com/">WEB HOSTING UK</a></h1>
-          <span>Leader in web hosting</span>
-          </div>
-        <form id="login" name="frmlogin" method="post" action="https://www.webhosting.uk.com/billing/dologin.php?goto=accountdetails">
-          <table width="570" border="0" cellspacing="0" cellpadding="0" align="right" class="login_top">
-            <tbody><tr>
-              <td width="127"><div class="form_bg">
-                  <input id="username" name="username" type="text" class="login_text" value="Email ID" onblur="if (this.value == '') {this.value = 'Email ID';}" onfocus="if(this.value == 'Email ID') {this.value = '';}">
-                </div></td>
-              <td width="4">&nbsp;</td>
-              <td width="127"><div class="form_bg">
-                  <input name="password" type="password" id="tb1" class="login_text" onblur="if (this.value == '') {this.value = 'password';}" onfocus="if(this.value == 'password') {this.value = '';}">
-                </div></td>
-              <td>&nbsp;</td>
-              <td width="42"><input type="image" src="images/login_buttton.jpg"></td>
-              <td width="266" align="right" style="font-weight:bold; color:#FFF;">0800-862-0890 or <a href="connectus/">Request a callback</a></td>
-            </tr>
-          </tbody></table>
-        </form>
-      </div>
-      <!--header_top--></td>
-  </tr>
-  <tr>
-    <td height="33"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr>
-          <td><div id="dolphinnav">
-              <ul>
-                <li><a rel="A" class="current"><span>WEB&nbsp;HOSTING</span></a></li>
-                <li><a rel="B"><span>DOMAIN&nbsp;&amp;&nbsp;SSL</span></a></li>
-                <li><a rel="D"><span>AFFILIATES</span></a></li>
-                <li><a rel="E"><span>Community</span></a></li>
-                <li><a rel="C"><span>OFFERS</span></a></li>
-                <li><a rel="F"><span>CONTACT&nbsp;US</span></a></li>
-              </ul>
-            </div></td>
-          <td width="94"><a href="Javascript:openchat();"><img src="images/live_chat.gif" alt="live chat" width="94" height="33"></a></td>
-        </tr>
-      </tbody></table></td>
-  </tr>
-  <tr>
-    <td height="28"><div style="width:26px; height:27px; float:left; padding:0; vertical-align:top;"><a href="http://www.webhosting.uk.com/"><img src="images/home_icon.jpg" alt=""></a></div>
-      <!-- Sub Menus container. Do not remove -->
-      <div id="dolphin_inner">
-        <div id="A" class="innercontent" style="display: block;">
-          <ul id="nav">
-            <li class="top"><a href="cpanel-hosting.php" class="top_link"><span>Shared Hosting</span></a>
-              <ul class="sub">
-                <li><a href="cpanel-hosting.php">cPanel Hosting</a></li>
-                <li><a href="windows-hosting.php">Windows Hosting</a></li>
-                <li><a href="shared-cloud.php">Shared&nbsp;Cloud</a></li>
-              </ul>
-            </li>
-            <li class="top"><a href="reseller-hosting.php" class="top_link"><span>Reseller Hosting</span></a>
-              <ul class="sub">
-                <li><a href="reseller-hosting.php">cPanel Reseller Hosting</a></li>
-                <li><a href="windows-reseller-hosting.php"> Windows&nbsp;Reseller&nbsp;Hosting</a></li>
-              </ul>
-            </li>
-            <li class="top"><a href="cloud-hosting.php" class="top_link"><span>Cloud Hosting</span></a>
-              <ul class="sub">
-                <li><a href="cloud-hosting.php">VMware / Hyper-V&nbsp;Cloud&nbsp;VMs</a></li>
-                <li><a href="private-cloud.php">Private&nbsp;Cloud&nbsp;Cluster</a></li>
-                <li><a href="shared-cloud.php">Shared&nbsp;Cloud</a></li>
-              </ul>
-            </li>
-            <li class="top"><a href="vps-hosting.php" class="top_link"><span>VPS Hosting</span></a>
-              <ul class="sub">
-                <li><a href="vps-hosting.php">Linux VPS</a></li>
-                <li><a href="windows-vps-hosting.php">Windows VPS</a></li>
-                <li><a href="semi-dedicated-hosting.php">Semi-Dedicated Server</a></li>
-              </ul>
-            </li>
-            <li class="top"><a href="dedicated-servers-web-hosting.php" class="top_link"><span>Dedicated Servers</span></a>
-              <ul class="sub">
-                <li><a href="dedicated-servers-web-hosting.php">Dedicated Servers</a></li>
-                <li><a href="get-a-quote.php">Get A Quote</a></li>
-                <li><a href="load-balancing-servers.php">Load Balanced Server</a></li>
-                <!--<li><a href="seo-servers.php">SEO Servers</a></li>
-                <li><a href="voip-servers.php">VOIP Servers</a></li>-->
-                <li><a href="web-hosting-uk-datacentre.php">Datacenter</a></li>
-                <li><a href="linux-server-management.php">Linux Server Management</a></li>
-                <li><a href="windows-server-management.php">Windows Server Management</a></li>
-              </ul>
-            </li>
-            <li class="top"><a href="zimbra-hosting.php" class="top_link"><span>Email Hosting</span></a>
-              <ul class="sub">
-                <li><a href="zimbra-hosting.php">Zimbra Email Hosting</a></li>
-                <li><a href="zimbra-features.php">Zimbra Features</a></li>
-              </ul>
-            </li>
-            <li class="top"><a href="get-a-quote.php" class="top_link"><span>Get a quote</span></a></li>
+    <span class="logo">
+      <a href="http://www.webhosting.uk.com/"></a>
+            
+      <span>Leader in web hosting</span>
+          </span>
+    <span class="social">
+      <a href="http://www.facebook.com/webhostingukcom" class="fb" rel="nofollow">Facebook</a>
+      <a href="http://twitter.com/WebhostingUKcom" class="tw" rel="nofollow">Twitter</a>
+      <a href="http://www.linkedin.com/groups/Webhostingukcom-4216172" class="in" rel="nofollow">Linkedin</a>
+      <a href="https://plus.google.com/115237732625637217717/" class="gp" rel="nofollow">Google Plus</a>
+    </span>
+    <span class="live-chat">
+      <a href="javascript:openchat();">24x7 Live Chat</a>
+    </span>
+    <span class="links">
+      <a href="http://www.webhosting.uk.com/support.php" class="email" rel="nofollow"><span></span>Email Us</a>
+      <a href="http://www.webhosting.uk.com/call-back.php" class="sales"><span></span>Sales: 0800 862 0890</a>
+      <a href="https://billing.webhosting.uk.com/" class="support" rel="nofollow"><span></span>Client Area</a>
+    </span>
+    <div class="menu">
+      <ul id="nav">
+        <li class="top_icon selected"><a href="http://www.webhosting.uk.com/"><span class="home"></span></a></li>
+        <li class="top"><a href="#" class="top_link">Domain</a>
+          <ul class="sub">
+            <ol class="first_col">
+              <h2>Domain Name</h2>
+              <li class="icons theft">Theft Protection</li>
+              <li class="icons reminder">Renewal Reminders</li>
+              <li class="icons private">Private Nameserver</li>
+              <li class="icons dtransfer">Transfer Domain</li>
+            </ol>
+            <ol class="second_col">
+              <h2>Domain Name</h2>
+              <li><a href="https://www.webhosting.uk.com/whmcs/cart.php?a=add&amp;domain=register">Register Domain</a></li>
+              <li><a href="https://www.webhosting.uk.com/whmcs/cart.php?a=add&amp;domain=transfer">Transfer A Domain</a></li>
+              <li><a href="http://www.webhosting.uk.com/cheap-domain-names.php">Domain Price List</a></li>
+              <li><a href="http://www.webhosting.uk.com/whois-id-protection.php">Protect A Domain</a></li>
+            </ol>
+            <ol class="third_col">
+              <p>Choose from a wide range of TLDs. Register a .CO.UK domain at £5 per year and .COM domain at £8.98 per year. Register your domain today from just...</p>
+              <p>
+                <span class="pounds"><span>£</span>5<span>.00</span></span>
+                <span class="texts">per year</span>
+              </p>
+              <p><a href="https://www.webhosting.uk.com/whmcs/cart.php?a=add&amp;domain=register" class="buttons" rel="nofollow">Register Now</a></p>
+            </ol>
+            <ol class="fourth_col">
+            <img src="http://www.webhosting.uk.com/images/navigation/register-domain.jpg" width="240" height="250" alt="">
+            </ol>
           </ul>
-        </div>
-        <div id="B" class="innercontent">
-          <ul id="nav1">
-            <li class="top"><a href="cheap-domain-names.php" class="top_link"><span>Domain Name</span></a></li>
-            <li class="top"><a href="https://www.webhosting.uk.com/whmcs/cart.php?a=add&amp;domain=register" class="top_link"><span>Buy / Register Domain</span></a></li>
-            <li class="top"><a href="https://www.webhosting.uk.com/whmcs/cart.php?a=add&amp;domain=transfer" class="top_link"><span>Transfer Domain</span></a></li>
-            <li class="top"><a href="whois-id-protection.php" class="top_link"><span>Domain ID Protection</span></a></li>
-            <li class="top"><a href="ssl-certificates.php" class="top_link"><span>SSL Certificates</span></a></li>
+        </li>
+        <li class="top"><a href="#" class="top_link">Personal Hosting</a>
+          <ul class="sub">
+            <ol class="first_col">
+              <h2>Personal Hosting</h2>
+              <li class="icons setup">Instant Setup</li>
+              <li class="icons support">24/7/365 Support</li>
+              <li class="icons charges">No Hidden Charges</li>
+              <li class="icons money">30 Day Money Back</li>
+            </ol>
+            <ol class="second_col">
+              <h2>Shared Hosting</h2>
+              <li><a href="http://www.webhosting.uk.com/cpanel-hosting.php">cPanel Hosting</a></li>
+              <li><a href="http://www.webhosting.uk.com/windows-hosting.php">Windows Hosting</a></li>
+              <li><a href="http://www.webhosting.uk.com/website-builder/gomobi/">Mobile Site Builder</a></li>
+              <li><a href="http://www.webhosting.uk.com/email-hosting.php">Email Hosting</a></li>
+              <li><a href="http://www.webhosting.uk.com/wordpress-hosting-uk.php">WordPress Hosting</a></li>
+            </ol>
+            <ol class="third_col">
+              <p>Shared hosting is a suitable solution for your personal blog, website, forum and for small eCommerce stores. Starting from just...</p>
+              <p>
+                <span class="pounds"><span>£</span>2<span>.29</span></span>
+                <span class="texts">per month</span>
+              </p>
+              <p><a href="https://www.webhosting.uk.com/whmcs/cart.php?a=add&amp;pid=175" class="buttons" rel="nofollow">Sign up now</a></p>
+            </ol>
+            <ol class="fourth_col">
+            <img src="http://www.webhosting.uk.com/images/navigation/personal-hosting.jpg" width="240" height="250" alt="">
+            </ol>
           </ul>
-        </div>
-        <div id="C" class="innercontent">
-          <ul id="nav2">
-            <!--<li class="top" style="padding:7px 0 0 10px; font-weight:bold;">-->
-            <li class="top"><a href="shared-cloud.php" class="top_link"><span>Book your own cloud space at only £ 1 now !</span></a></li>
+        </li>
+        <li class="top"><a href="#" class="top_link">Business Hosting</a>
+          <ul class="sub">
+            <ol class="first_col">
+              <h2>Business Hosting</h2>
+              <li class="icons setup">Virtual Machines In 8 Hrs</li>
+              <li class="icons support">24/7/365 Support</li>
+              <li class="icons charges">No Hidden Charges</li>
+              <li class="icons money">30 Day Money Back</li>
+            </ol>
+            <ol class="second_col">
+              <h2>Business Hosting</h2>
+              <li><a href="http://www.webhosting.uk.com/cloud-hosting.php">Cloud Hosting</a></li>
+              <li><a href="http://www.webhosting.uk.com/vps-hosting.php">Linux VPS Hosting</a></li>
+              <li><a href="http://www.webhosting.uk.com/reseller-hosting.php">Linux Reseller Hosting</a></li>
+              <li><a href="http://www.webhosting.uk.com/windows-reseller-hosting.php">Windows Reseller Hosting</a></li>
+              <li><a href="http://www.webhosting.uk.com/windows-vps-hosting.php">Windows VPS Hosting</a></li>
+              <li><a href="http://www.webhosting.uk.com/ecommerce-hosting-uk.php">eCommerce Hosting</a></li>
+            </ol>
+            <ol class="third_col">
+              <p>Become an entrepreneur. A perfect package for web designers, developers, freelancers and other web professionals. Starting from just...</p>
+              <p>
+                <span class="pounds"><span>£</span>7<span>.50</span></span>
+                <span class="texts">per month</span>
+              </p>
+              <p><a href="https://www.webhosting.uk.com/whmcs/cart.php?a=add&amp;pid=183" class="buttons" rel="nofollow">Sign up now</a></p>
+            </ol>
+            <ol class="fourth_col">
+            <img src="http://www.webhosting.uk.com/images/navigation/business-hosting.jpg" width="240" height="250" alt="">
+            </ol>
           </ul>
-        </div>
-        <div id="D" class="innercontent">
-          <ul id="nav3">
-            <li class="top"><a href="affiliates.php" class="top_link"><span>Affiliates</span></a></li>
-            <li class="top"><a href="commissions.php" class="top_link"><span>Commission Structure</span></a></li>
-            <li class="top"><a href="http://www.webhosting.uk.com/banner.php" class="top_link"><span>Banners</span></a></li>
-            <li class="top"><a href="javascript:popUp1('http://www.webhosting.uk.com/affiliates-tos.htm')" class="top_link"><span>Affiliate Terms</span></a></li>
-            <li class="top"><a href="javascript:popUp1('http://www.webhosting.uk.com/affiliates-faq.htm')" class="top_link"><span>FAQ</span></a></li>
-            <li class="top"><a href="affiliates/signup.php" class="top_link"><span>Register Now</span></a></li>
+        </li>
+        <li class="top"><a href="#" class="top_link">Enterprise Hosting</a>
+          <ul class="sub">
+            <ol class="first_col">
+              <h2>Enterprise Hosting</h2>
+              <li class="icons setup">Servers Online in 24 Hrs</li>
+              <li class="icons support">24/7/365 Support</li>
+              <li class="icons charges">No Hidden Charges</li>
+              <li class="icons sla">Server SLA</li>
+            </ol>
+            <ol class="second_col">
+              <h2>Enterprise Hosting</h2>
+              <li><a href="http://www.webhosting.uk.com/dedicated-servers/">Dedicated Servers</a></li>
+              <li><a href="http://www.webhosting.uk.com/dedicated-servers/get-a-quote/">Request A Quote</a></li>
+              <li><a href="http://www.webhosting.uk.com/private-cloud.php">Private Cloud Cluster</a></li>
+              <li><a href="http://www.webhosting.uk.com/dedicated-servers/load-balancing-servers/">Server Load Balancing</a></li>
+              <li><a href="http://www.webhosting.uk.com/dedicated-servers/linux-server-mirroring/">Server Mirroring</a></li>
+              <li><a href="http://www.webhosting.uk.com/dedicated-servers/get-a-quote/">MS-Exchange</a></li>
+            </ol>
+            <ol class="third_col">
+              <p>Get optimum flexibility and security with our fully-managed Dell- and HP-branded dedicated servers with powerful Intel processors starting at only...</p>
+              <p>
+                <span class="pounds"><span>£</span>55<span>.00</span></span>
+                <span class="texts">per month</span>
+              </p>
+              <p><a href="https://billing.webhosting.uk.com/shoppingcart.php?gid=100" class="buttons" rel="nofollow">Sign up now</a></p>
+            </ol>
+            <ol class="fourth_col">
+            <img src="http://www.webhosting.uk.com/images/navigation/dedicated-hosting.jpg" width="240" height="250" alt="">
+            </ol>
           </ul>
-        </div>
-        <div id="E" class="innercontent">
-          <ul id="nav4">
-            <li class="top"><a href="http://www.webhosting.uk.com/forums" class="top_link"><span>Forums</span></a></li>
-            <li class="top"><a href="http://blog.webhosting.uk.com/" class="top_link"><span>Blog</span></a></li>
-            <li class="top"><a href="http://www.webhosting.uk.com/knowledgebase/" class="top_link"><span>Knowledge Base</span></a></li>
+        </li>
+        <li class="top"><a href="#" class="top_link">Addons</a>
+          <ul class="sub">
+            <ol class="first_col">
+              <h2>Addons</h2>
+              <li class="icons ssl">SSL Certificate</li>
+              <li class="icons backup">Remote Backup</li>
+              <li class="icons spam">Spam Experts</li>
+              <li class="icons webbil">Website Builder</li>
+            </ol>
+            <ol class="second_col">
+              <h2>Addons</h2>
+              <li><a href="http://www.webhosting.uk.com/ssl-certificates.php">SSL Certificates</a></li>
+              <li><a href="http://www.webhosting.uk.com/backup.php">Remote Backup</a></li>
+              <li><a href="http://www.webhosting.uk.com/spam-experts.php">Spam Experts</a></li>
+              <li><a href="http://www.webhosting.uk.com/pci-compliant-hosting.php">PCI Compliance</a></li>
+              <li><a href="http://www.webhosting.uk.com/sitebuilder.php">Website Builder</a></li>
+              <li><a href="http://www.webhosting.uk.com/website-passport.php">Website Passport</a></li>
+              <li><span>Dedicated IP</span></li>
+            </ol>
+            <ol class="third_col">
+              <p>Choose from a wide range of hosting addons ranging from SSL certificates and dedicated IPs to Website Passports to prove your company's legitimacy. SSL from...</p>
+              <p>
+                <span class="pounds"><span>£</span>29<span>.00</span></span>
+                <span class="texts">per year</span>
+              </p>
+              <p><a href="https://www.webhosting.uk.com/whmcs/cart.php?a=add&amp;pid=259" class="buttons" rel="nofollow">Sign up now</a></p>
+            </ol>
+            <ol class="fourth_col">
+            <img src="http://www.webhosting.uk.com/images/navigation/addons.jpg" width="240" height="250" alt="">
+            </ol>
           </ul>
-        </div>
-        <div id="F" class="innercontent">
-          <ul id="nav5">
-            <li class="top"><a href="http://support.webhosting.uk.com/" class="top_link"><span>Helpdesk</span></a></li>
-            <li class="top"><a href="connectus/" class="top_link"><span>Phone</span></a></li>
-            <li class="top"><a href="Javascript:openchat();" class="top_link"><span>Live Chat</span></a></li>
+        </li>
+        <li class="top"><a href="#" class="top_link">WHY WHUK</a>
+          <ul class="sub">
+            <ol class="first_col">
+              <h2>Why WHUK</h2>
+              <li class="icons testi">Testimonials</li>
+              <li class="icons awards">Awards</li>
+              <li class="icons commun">Community</li>
+              <li class="icons support">Contact Us</li>
+            </ol>
+            <ol class="second_col">
+              <h2>WHUK Since 2001</h2>
+              <li><a href="http://www.webhosting.uk.com/web-hosting-uk.php">About Us</a></li>
+              <li><a href="http://www.serchen.co.uk/company/webhosting-uk-com/">Testimonials</a></li>
+              <li><a href="http://www.webhosting.uk.com/awards.php">Awards</a></li>
+              <li><a href="http://www.webhosting.uk.com/affiliates.php">Affiliate Program</a></li>
+              <li><a href="http://www.webhosting.uk.com/channel-partners/">Channel Partner</a></li>
+              <li><a href="http://forums.webhosting.uk.com/forum.php">Community</a></li>
+              <li><a href="http://www.webhosting.uk.com/dedicated-servers/uk-datacentre/">Data Centre</a></li>
+              <li><a href="http://www.webhosting.uk.com/support.php">Contact Us</a></li>
+            </ol>
+            <ol class="third_col">
+              <p>Webhosting UK: a one-stop destination for your web hosting requirements - from domain names and website builders to enterprise solutions.</p>
+              <div class="clr"></div>
+              <li class="list">10 successful years in the industry</li>
+              <li class="list">Tier 4 data centre</li>
+              <li class="list">Active community with 6,000 plus members</li>
+              <div class="clr"></div>
+            </ol>
+            <ol class="fourth_col">
+            <img src="http://www.webhosting.uk.com/images/navigation/why-whuk.jpg" width="240" height="250" alt="">
+            </ol>
           </ul>
-        </div>
-      </div>
-      <!-- End Sub Menus container --></td>
-  </tr>
-</tbody></table>
-    </div><!--header-->
+        </li>
+        <li class="top"><a href="#" class="top_link">WHUK Resources</a>
+          <ul class="sub">
+            <ol class="first_col">
+              <h2>WHUK Resources</h2>
+              <li class="icons blog">Blog</li>
+              <li class="icons commun">Forum</li>
+              <li class="icons kb">FAQs</li>
+              <li class="icons tutorials">Tutorials</li>
+            </ol>
+            <ol class="second_col">
+              <h2>WHUK Resources</h2>
+              <li><a href="http://blog.webhosting.uk.com/" rel="nofollow">WHUK Blog</a></li>
+              <li><a href="http://kb.webhosting.uk.com/" rel="nofollow">Questions &amp; Answers</a></li>
+              <li><a href="http://forums.webhosting.uk.com/forum.php" rel="nofollow">WHUK Forum</a></li>
+              <li><a href="http://whuk-status.com/" rel="nofollow">WHUK Status Blog</a></li>
+              <li><a href="http://www.webhosting.uk.com/tutorials.php">Tutorials</a></li>
+              <li><a href="https://billing.webhosting.uk.com/" rel="nofollow">Client Area</a></li>              
+            </ol>
+            <ol class="third_col">
+              <p>A full-fledged centralized online help system to answer most common queries. An extension of our 24/7 Support team.</p>
+              <div class="clr"></div>
+              <li class="list">Visit our blog for the latest trending topics on the industry.</li>
+              <li class="list">Find answers to your account related questions.</li>
+              <li class="list">Participate in discussions with our experts.</li>
+              <div class="clr"></div>
+            </ol>
+            <ol class="fourth_col">
+            <img src="http://www.webhosting.uk.com/images/navigation/resources.jpg" width="240" height="250" alt="">
+            </ol>
+          </ul>
+        </li>
+      </ul>
+    </div><!--menu-->
+  </div><!--header-->
+  <div id="back-top" style="display: block;"><a href="javascript:void(0);"><span></span><em>Back to top</em> </a></div>
+<script type="text/javascript">setPage()</script>
+
+<!--<div style="position:fixed; bottom:5px; left:0px; width:160px; height:243px; display:block; z-index:555;">
+<a href="http://www.webhosting.uk.com/offers.php"><img src="http://www.webhosting.uk.com/images/offers.png" width="160" height="243" alt="" /></a>
+</div>-->
+  
+  <div class="banner">
+  <div class="ban_inner bHeight">
+   <dl><dt>WHUK Privacy Policy</dt><dd>Unmatched In Quality Web Hosting Solutions!</dd></dl>
+   <img src="images/banner/common.png" width="371" height="151" alt="windows vps" class="images">
+  </div><!--ban_inner-->
+  </div><!--banner-->
+  
+  
+  <div class="container cmargin">
+    <h1>Privacy Policy</h1>
+    <p>Webhosting UK Com Limited, a company registered in England and Wales under company number 06471390, registered office 4th Floor, Fountain House, 4 South Parade, Leeds,  LS1 5QX ("We") are committed to protecting and respecting your privacy.</p>
+    <p>This policy (together with our terms of use <a href="http://www.webhosting.uk.com/web-hosting-uk-terms.php">Terms and Conditions</a> and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.  Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.</p>
+    <p>For the purpose of the Data Protection Act 1998 (the Act), the data controller is Webhosting UK Com Limited, a company registered in England and Wales under company number 06471390 and with Our registered office at 4th Floor, Fountain House, 4 South Parade, Leeds,  LS1 5QX.  </p>
+    <p>Our nominated representative for the purpose of the Act is Mr. John Strong.</p>
     
-    <div id="maincontent">
+    <p><strong>INFORMATION WE MAY COLLECT FROM YOU</strong></p>
+    <p>We may collect and process the following data about you:</p>
+    <div class="clr"></div>
+    <ul class="bullets">
+      <li>Information that you provide by filling in forms on our site www.webhosting.uk.com . This includes information provided at the time of registering to use our site, subscribing to our service, posting material or requesting further services. We may also ask you for information when you enter a competition or promotion sponsored by us, and when you report a problem with our site.</li>
+      <li>If you contact us, we may keep a record of that correspondence.</li>
+      <li>We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.</li>
+      <li>Details of transactions you carry out through our site and of the fulfilment of your orders.</li>
+      <li>Details of your visits to our site including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access. </li>
+    </ul>
+    <div class="clr"></div>
+    <p><strong>IP ADDRESSES</strong></p>
+    <p>We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify any individual.</p>
     
-      <div class="leftcontent clsFloatLeft">
-        <div class="banners_top"><img src="images/common-header.jpg"></div><!--banners_top-->
-        <div class="clr"></div>
-      </div><!--leftcontent-->
-      
-      <div class="rightcontent clsFloatRight">
-		        <div class="fsbr">
-          <form id="searchForm2" method="post" action="http://www.webhosting.uk.com/apps/search">                
-            <table width="100%" border="0" cellspacing="0" cellpadding="0">
-              <tbody><tr>
-                <td><input name="s2" type="text" id="s2" value="Site Search" onblur="if (this.value == '') {this.value = 'Site Search';}" onfocus="if(this.value == 'Site Search') {this.value = '';}"></td>
-                <td style="padding-top:1px;"><input type="submit" value="Submit" id="submitButton2">
-                <input type="hidden" name="check" value="site" id="searchSite" checked=""></td>
-              </tr>
-            </tbody></table>
-          </form>
-        </div><!--fdb-->
-      </div><!--rightcontent-->
+    <p><strong>COOKIES</strong></p>
+    <p>For the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on your browser or the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive. They help us to improve our site and to deliver a better and more personalised service. Some of the cookies we use are essential for the site to operate.</p>
+    <p>If you register with us or if you continue to use our site, you agree to our use of cookies.</p>
+    <p>Cookies are widely used in order to make websites work, or work more efficiently, as well as to provide information to the owners of the site.</p>
     
-     <div class="middlecontent">
-       <div class="zimbra_img_features">
-         <h1>Privacy Policy</h1>
-         <p>Webhosting UK Com Limited, a company registered in England and Wales under company number 06471390, registered office 4th Floor, Fountain House, 4 South Parade, Leeds,  LS1 5QX ("We") are committed to protecting and respecting your privacy.</p>
-         <p>This policy (together with our terms of use [INSERT AS LINK TO WEBSITE TERMS OF USE] and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.  Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.</p>
-         <p>For the purpose of the Data Protection Act 1998 (the Act), the data controller is Webhosting UK Com Limited, a company registered in England and Wales under company number 06471390 and with Our registered office at 4th Floor, Fountain House, 4 South Parade, Leeds,  LS1 5QX.  </p>
-         <p>Our nominated representative for the purpose of the Act is [NAME].</p>
-         
-         <p><strong>INFORMATION WE MAY COLLECT FROM YOU</strong></p>
-         <p>We may collect and process the following data about you:</p>
-         <p>Information that you provide by filling in forms on our site www.webhosting.uk.com (our site). This includes information provided at the time of registering to use our site, subscribing to our service, posting material or requesting further services. We may also ask you for information when you enter a competition or promotion sponsored by Us, and when you report a problem with our site.</p>
-         <p>If you contact us, we may keep a record of that correspondence.</p>
-         <p>We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.</p>
-         <p>Details of transactions you carry out through our site and of the fulfilment of your orders.</p>
-         <p>Details of your visits to our site including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access. </p>
-         
-         <p><strong>IP ADDRESSES</strong></p>
-         <p>We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify any individual.</p>
-         
-         <p><strong>COOKIES</strong></p>
-         <p>For the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on your browser or the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive. They help us to improve our site and to deliver a better and more personalised service. Some of the cookies we use are essential for the site to operate.</p>
-         <p>If you register with us or if you continue to use our site, you agree to our use of cookies.</p>
-         <p>Cookies are widely used in order to make websites work, or work more efficiently, as well as to provide information to the owners of the site.</p>
-         
-         <p>
-          </p><table width="100%" border="0" cellspacing="0" cellpadding="0" class="spaces">
-            <tbody><tr>
-              <td><strong>Cookie</strong></td>
-              <td><strong>Name</strong></td>
-              <td><strong>Purpose</strong></td>
-              <td><strong>More information</strong></td>
-            </tr>
-            <tr>
-              <td>[COOKIE TITLE]</td>
-              <td>[COOKIE NAME]</td>
-              <td>[DESCRIPTION OF THE PURPOSE FOR WHICH THE  COOKIE IS USED]
-Examples of purposes for which a cookie may be  used:<br>
-<br>"This  cookie [is essential for our site to][enables us to]:<br>
-  [Estimate  our audience size and usage pattern.]<br>
-  <br>
-  [Store  information about your preferences, and so allow us to customise our site and  to provide you with offers that are targeted at your individual interests.] <br>
-  <br>
-  [Speed up  your searches.]<br>
-  <br>
-[Recognise  you when you return to our site.]<br>
-<br>
-[Allow you  to use our site in a way that makes your browsing experience more convenient,  for example, by allowing you to store items in an electronic shopping basket  between visits. If you register with us or complete our online forms, we will  use cookies to remember your details during your current visit, and any future  visits provided the cookie was not deleted in the interim.]<br>
-<br>
-[OTHER PURPOSES]
-<p>&nbsp; </p></td>
-              <td>[WHERE APPROPRIATE,  INSERT LINK TO EXTERNAL INFORMATION]</td>
-            </tr>
-          </tbody></table>
-         <p></p><br>
-         <p>Please note that our advertisers may also use cookies, over which we have no control. </p>
-         <p>You block cookies by activating the setting on your browser which allows you to refuse the setting of all or some cookies. However, if you use your browser settings to block all cookies (including essential cookies) you may not be to access all or parts of our site. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies as soon you visit our site.</p>
-         <p>Except for essential cookies, all cookies will expire after [INSERT EXPIRY PERIOD].</p>
-         <p><strong>WHERE WE STORE YOUR PERSONAL DATA</strong></p>
-         <p>The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things,  the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.</p>
-         <p>All information you provide to us is stored on our secure servers. Any payment transactions will be encrypted using SSL technology. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.</p>
-         <p>Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.</p>
-         
-         <p><strong>USES MADE OF THE INFORMATION</strong></p>
-         <p>We use information held about you in the following ways:</p>
-         <p>To ensure that content from our site is presented in the most effective manner for you and for your computer. </p>
-         <p>To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes. </p>
-         <p>To carry out our obligations arising from any contracts entered into between you and us.</p>
-         <p>To allow you to participate in interactive features of our service, when you choose to do so.</p>
-         <p>To notify you about changes to our service.</p>
-         <p>We may also use your data, or permit selected third parties to use your data, to provide you with information about goods and services which may be of interest to you and we or they may contact you about these by post or telephone. </p>
-         <p>If you are an existing customer, we will only contact you by electronic means (e-mail or SMS) with information about goods and services similar to those which were the subject of a previous sale to you. </p>
-         <p>If you are a new customer, and where we permit selected third parties to use your data, we (or they) will contact you by electronic means only if you have consented to this. </p>
-         <p>If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please tick the relevant box situated on the form on which we collect your data (the Order).</p>
-         <p>We do not disclose information about identifiable individuals to our advertisers, but we may provide them with aggregate information about our users (for example, we may inform them that 500 men aged under 30 have clicked on their advertisement on any given day). We may also use such aggregate information to help advertisers reach the kind of audience they want to target (for example, women in SW1). We may make use of the personal data we have collected from you to enable us to comply with our advertisers' wishes by displaying their advertisement to that target audience.</p>
-         
-         <p><strong>DISCLOSURE OF YOUR INFORMATION</strong></p>
-         <p>We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.</p>
-         <p>We may disclose your personal information to third parties:</p>
-         <p>In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.</p>
-         <p>If Webhosting UK Com Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.</p>
-         <p>If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms and conditions of supply [INSERT AS LINK TO WEBSITE'S TERMS AND CONDITIONS OF SUPPLY] and other agreements; or to protect the rights, property, or safety of Webhosting UK Com Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.</p>
-         
-         <p><strong>YOUR RIGHTS</strong></p>
-         <p>You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data.  You can also exercise the right at any time by contacting us at [ADDRESS OR E-MAIL ADDRESS].</p>
-         <p>Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates.  If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies.  Please check these policies before you submit any personal data to these websites.</p>
-         
-         <p><strong>ACCESS TO INFORMATION</strong></p>
-         <p>The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.</p>
-         
-         <p><strong>CHANGES TO OUR PRIVACY POLICY</strong></p>
-         <p>Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail.</p>
-         
-         <p><strong>CONTACT</strong></p>
-         <p>Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [ADDRESS OR E-MAIL ADDRESS].</p>
-         
+    <p>
+    </p><table width="100%" border="0" cellspacing="0" cellpadding="0" class="spaces">
+    <tbody><tr>
+      <td colspan="3"><center>
+        <strong class="low-price">Third Party Cookies</strong>
+      </center></td>
+    </tr>
+    <tr>
+      <td width="21%"><strong>Live Chat</strong></td>
+      <td width="11%">&nbsp;</td>
+      <td width="68%">&nbsp;</td>
+    </tr>
+    <tr>
+      <td><strong>Cookie</strong></td>
+      <td><strong>Name</strong></td>
+      <td><strong>Purpose</strong></td>
+    </tr>
+    <tr>
+      <td>LivePersonID</td>
+      <td rowspan="6" valign="middle"><strong>Live Person</strong></td>
+      <td>This cookie is used in conjunction with the HumanClickKEY cookie (described below) to gather usage data related to a visitor's visit to a LivePerson customer's website. <br>
         <br>
-        
-        </div><!--zimbra_img_features-->
-     </div><!--middlecontent-->
+      This cookie is a persistent cookie that remains on the visitor's browser for up to 12 months after which time it is automatically deleted.                </td>
+    </tr>
+    <tr>
+      <td>HumanClickSiteContainer ID_</td>
+      <td>This cookie is used by LivePerson with respect to its largest customers in order to allow LivePerson to distribute usage of its services across a cluster of servers (for load balancing purposes). <br>
+      This cookie is a session cookie that is automatically deleted when the visitor closes his or her browser. </td>
+    </tr>
+    <tr>
+      <td>HumanClickKEY</td>
+      <td>This cookie is used to identify a visitor's session on a customer's website and monitor the pages viewed by the visitor on the customer's website, the time spent by the visitor on pages of the customer's website and other usage data related to the visitor's visit to the customer's website. </td>
+    </tr>
+    <tr>
+      <td>HumanClickACTIVE</td>
+      <td>This cookie (sometimes referred to as an acceptance test cookie) is used to determine whether a cookie can be set on a browser.  This cookie is set when LivePerson's services initiate monitoring. <br>
+      This cookie is a persistent cookie that expires after 24 hours. </td>
+    </tr>
+    <tr>
+      <td>HumanClickCHATKEY</td>
+      <td>This cookie is used for security purposes to identify each LP Chat and LP Voice communication session. <br>
+      This cookie is a session cookie that is automatically deleted when the visitor closes his or her browser. </td>
+    </tr>
+    <tr>
+      <td>              LPit</td>
+      <td>It is set when the visitor to the customer's website requests to engage in a chat session with the customer. <br>
+      This cookie is a session cookie that is automatically deleted when the visitor closes his or her browser. </td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td><strong>Billing Software</strong></td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td><strong>Cookie</strong></td>
+      <td><strong>Name</strong></td>
+      <td><strong>Purpose</strong></td>
+    </tr>
+    <tr>
+      <td>HOSTBILLEmailAddress</td>
+      <td rowspan="2" valign="middle"><strong>HostBill</strong></td>
+      <td>To store client area username *</td>
+    </tr>
+    <tr>
+      <td>HOSTBILLPassword</td>
+      <td>client area password (format - md5 salt) *</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>* Above cookie will create only on, If client tick on "Remember me"</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td><strong>Helpdesk</strong></td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td><strong>Cookie</strong></td>
+      <td><strong>Name</strong></td>
+      <td><strong>Purpose</strong></td>
+    </tr>
+    <tr>
+      <td>SWIFT_sessionid </td>
+      <td rowspan="4" valign="middle"><strong>Kayako</strong></td>
+      <td>Any user that logs into the helpdesk</td>
+    </tr>
+    <tr>
+      <td>SWIFT_sessionid </td>
+      <td>Any user that loads a helpdesk page</td>
+    </tr>
+    <tr>
+      <td>SWIFT_visitor</td>
+      <td>Any user that loads a live chat, click-to-call or visitor tracking button on a 'tagged web page'</td>
+    </tr>
+    <tr>
+      <td>SWIFT_scloginpassword<br>
+      SWIFT_scloginpassword</td>
+      <td>Any user that logs into the helpdesk and ticks the 'Remember Me' box</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+    </tbody></table>
+    <p></p><br>
+    <p>Please note that our advertisers may also use cookies, over which we have no control. </p>
+    <p>You block cookies by activating the setting on your browser which allows you to refuse the setting of all or some cookies. However, if you use your browser settings to block all cookies (including essential cookies) you may not be to access all or parts of our site. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies as soon you visit our site.</p>
+    <p>Except for essential cookies, all cookies will expire after 24 hours.</p>
+    <p><strong>WHERE WE STORE YOUR PERSONAL DATA</strong></p>
+    <p>The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things,  the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.</p>
+    <p>All information you provide to us is stored on our secure servers. Any payment transactions will be encrypted using SSL technology. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.</p>
+    <p>Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.</p>
     
-    </div><!--maincontent-->
-
-  </div><!--content-->
+    <p><strong>USES MADE OF THE INFORMATION</strong></p>
+    
+    <ul class="bullets">
+    <li>We use information held about you in the following ways:</li>
+    
+    <li>To ensure that content from our site is presented in the most effective manner for you and for your computer.</li>
+    <li>To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes. </li>
+    
+    <li>To carry out our obligations arising from any contracts entered into between you and us.</li>
+    
+    <li>To allow you to participate in interactive features of our service, when you choose to do so.</li>
+    
+    <li>To notify you about changes to our service.</li>
+    
+    <li>We may also use your data, or permit selected third parties to use your data, to provide you with information about goods and services which may be of interest to you and we or they may contact you about these by post or telephone. </li>
+    
+    <li>If you are an existing customer, we will only contact you by electronic means (e-mail or SMS) with information about goods and services similar to those which were the subject of a previous sale to you. </li>
+    
+    <li>If you are a new customer, and where we permit selected third parties to use your data, we (or they) will contact you by electronic means only if you have consented to this. </li>
+    
+    <li>If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please tick the relevant box situated on the form on which we collect your data (the Order).</li>
+    </ul>
+    <p>We do not disclose information about identifiable individuals to our advertisers, but we may provide them with aggregate information about our users (for example, we may inform them that 500 men aged under 30 have clicked on their advertisement on any given day). We may also use such aggregate information to help advertisers reach the kind of audience they want to target (for example, women in SW1). We may make use of the personal data we have collected from you to enable us to comply with our advertisers' wishes by displaying their advertisement to that target audience.</p>
+    
+    <p><strong>DISCLOSURE OF YOUR INFORMATION</strong></p>
+    <p>We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.</p>
+    <p>We may disclose your personal information to third parties:</p>
+    <p>In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.</p>
+    <p>If Webhosting UK Com Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.</p>
+    <p>If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms and conditions of supply <a href="http://www.webhosting.uk.com/web-hosting-uk-terms.php">Terms and Condition</a> and other agreements; or to protect the rights, property, or safety of Webhosting UK Com Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.</p>
+    
+    <p><strong>YOUR RIGHTS</strong></p>
+    <p>You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data.  You can also exercise the right at any time by contacting us at abuse@webhosting.uk.com.</p>
+    <p>Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates.  If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies.  Please check these policies before you submit any personal data to these websites.</p>
+    
+    <p><strong>ACCESS TO INFORMATION</strong></p>
+    <p>The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.</p>
+    
+    <p><strong>CHANGES TO OUR PRIVACY POLICY</strong></p>
+    <p>Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail.</p>
+    
+    <p><strong>CONTACT</strong></p>
+    <p>Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to abuse@webhosting.uk.com.</p>
+  </div><!--container-->
   
+  <div class="clr"></div>
+  <div class="bottom">
+        <div class="sitemap_btn"><span class="normal"></span></div><!--sitemap_btn-->
+    <div class="sitemap">
+      <div class="container">
+      <ul>
+        <ol><span>PRODUCTS</span></ol>
+        <li><a href="http://www.webhosting.uk.com/cheap-domain-names.php">Domain Name</a></li>
+        <li><a href="http://www.webhosting.uk.com/reseller-hosting.php">Reseller Hosting</a></li>
+        <li><a href="http://www.webhosting.uk.com/cpanel-hosting.php">cPanel Hosting </a></li>
+        <li><a href="http://www.webhosting.uk.com/windows-hosting.php">Windows Hosting</a></li>
+        <li><a href="http://www.webhosting.uk.com/vps-hosting.php">Linux VPS</a></li>
+        <li><a href="http://www.webhosting.uk.com/windows-vps-hosting.php">Windows VPS</a></li>
+        <li><a href="http://www.webhosting.uk.com/cloud-hosting.php">Cloud Hosting</a></li>
+        <li><a href="http://www.webhosting.uk.com/dedicated-servers/">Dedicated Server</a></li>
+        <li><a href="http://www.webhosting.uk.com/wordpress-hosting-uk.php">WordPress Hosting</a></li>
+        <li><a href="http://www.webhosting.uk.com/joomla-hosting-uk.php">Joomla Hosting</a></li>
+        <li><a href="http://www.webhosting.uk.com/ecommerce-hosting-uk.php">eCommerce Hosting</a></li>
+        <li><a href="http://www.webhosting.uk.com/drupal-hosting-uk.php">Drupal Hosting</a></li>
+        <li><a href="http://www.webhosting.uk.com/magento-hosting-uk.php">Magento Hosting</a></li>
+        <li><a href="http://www.webhosting.uk.com/backup.php">Backup Plans</a></li>
+        <li><a href="http://www.webhosting.uk.com/ssl-certificates.php">SSL Certificate</a></li>
+        <li><a href="http://www.webhosting.uk.com/email-hosting.php">Email Hosting</a></li>
+      </ul>
+      <ul>
+        <ol><span>COMPANY</span></ol>
+        <li><a href="http://www.webhosting.uk.com/web-hosting-uk.php">About Us </a></li>
+        <li><a href="http://www.webhosting.uk.com/web-hosting-uk-terms.php">Terms of Service</a></li>
+        <li><a href="http://www.webhosting.uk.com/sla.php">Service Level Agreement </a></li>
+        <li><a href="http://www.webhosting.uk.com/web-hosting-uk-privacy.php">Privacy Policy</a></li>
+        <li><a href="http://www.webhosting.uk.com/web-hosting-uk-billing-policies.php">Billing Policies </a></li>
+        <li><a href="http://www.webhosting.uk.com/aup.php">Acceptable Use Policy</a></li>
+        <li><a href="http://www.webhosting.uk.com/vps-hosting-policy.php">VPS Policies</a></li>
+        <li><a href="http://www.webhosting.uk.com/forums/customer-testimonials/">Testimonials</a></li>
+      </ul>
+      <ul>
+        <ol><span>NEED HELP</span></ol>
+        <li><a href="https://www.webhosting.uk.com/whmcs/clientarea.php">Client Area</a></li>
+        <li><a href="http://www.webhosting.uk.com/support.php">Contact Us</a></li>
+        <li><a href="http://support.webhosting.uk.com/">Help Desk</a></li>
+        <li><a href="http://www.webhosting.uk.com/tutorials.php">Tutorials</a></li>
+        <li><a href="http://www.webhosting.uk.com/sitemap.php">Sitemap</a></li>
+        <li><a href="http://www.webhosting.uk.com/get-a-quote.php">Get a quote</a></li>
+      </ul>
+      <ul>
+        <ol><span>RESOURCES</span></ol>
+        <li><a href="http://www.webhosting.uk.com/forums/">Web Hosting Forum</a></li>
+        <li><a href="http://blog.webhosting.uk.com/">Web Hosting Blog</a></li>
+        <li><a href="http://www.webhosting.uk.com/knowledgebase/">Knowledgebase</a></li>
+        <li><a href="http://whuk-status.com/">WHUK Status Blog</a></li>
+      </ul>
+      <ul>
+        <ol><span>PARTNERS</span></ol>
+        <li><a href="http://www.webhosting.uk.com/affiliates.php">Affiliate Program</a></li>
+        <li><a href="http://www.webhosting.uk.com/channel-partners/">Channel Partner</a></li>
+      </ul>
+      <div class="clr"></div>
+      </div><!--container-->
+    </div><!--sitemap-->
+    <div class="footer">
+      <div class="container">
+        <ul class="chat">
+          <h2><span class="inner">WHUK</span></h2>
+          <span class="image"><a href="javascript:openchat();"><img src="http://www.webhosting.uk.com/images/live_chat_btn.png" width="164" height="41" alt=""></a></span>
+          <div class="field switch">
+            <input type="radio" id="radio1" name="field" value="Y" checked="">
+            <input type="radio" id="radio2" name="field" value="N">
+            <label for="radio1" class="cb-enable clsFloatLeft"><span>Yes</span></label>
+            <label for="radio2" class="cb-disable clsFloatRight selected"><span>No</span></label>
+            <a href="http://www.webhosting.uk.com/web-hosting-uk-privacy.php" target="_blank"><div class="bubble"></div></a><!--bubble-->
+          </div><!--switch-->
+          <span class="text">Accept Cookies?</span>
+        </ul>
+        <ul class="contact">
+          <h2><span class="inner">Contact</span></h2>
+          <li>Sales - 0800 862 0890</li>
+          <li><a href="http://www.webhosting.uk.com/call-back.php">Request a Callback</a></li><br>
+          <li>GET PROMOS &amp; NEWS</li>
+                    <!-- http://10.10.11.190/~anandre/Webhost/emails.csv -->
+          
+          <form action="/web-hosting-uk-privacy.php" method="post">
+          <input type="text" class="text" name="emails" value="">
+          <input type="submit" name="export_to_csv" class="btns" value="Go">
+          </form>
+          
+                    
+                   </ul>
+        <ul class="testi">
+          <h2><span class="inner">Testimonials</span></h2>
+          <div id="testimonials">
+            <li>
+              <a href="http://www.serchen.co.uk/company/webhosting-uk-com/" rel="nofollow" target="_blank">
+                Kudos to Steve for sorting out my problem so quickly and upgrading my account in record time! Technical Support are always great here, they quickly and efficiently sort out any problems, usually in real time over the Live Chat service.
+                <span class="star"><img src="http://www.webhosting.uk.com/images/star-rating.png" width="114" height="21" alt=""></span>
+                <span class="text">David Jackson</span>          
+              </a>
+            </li>
+            <li>
+              <a href="http://www.serchen.co.uk/company/webhosting-uk-com/" rel="nofollow" target="_blank">
+                Thanks so much! Great help, very informative and patient. Answered all my questions even the stupid ones. Helped me feel at ease as I am very new to domain registration and web hosting, great to know that there is such good support!
+                <span class="star"><img src="http://www.webhosting.uk.com/images/star-rating.png" width="114" height="21" alt=""></span>
+                <span class="text">by Cat</span>          
+              </a>
+            </li>
+          </div><!--testimonials-->
+        </ul>      
+        <div class="billings"></div><!--billings-->
+      </div><!--container-->
+    </div><!--footer-->
+    <div class="container">
+      <div class="copy_right">Copyright 2001-2013 <a href="/">Web Hosting UK</a>. All rights reserved.</div><!--copy_right-->
+      
+      
+    <div class="slide-out-div">
+      <a class="handle" href="javascript: void(0);">Content</a>
+      <a class="open-chat" href="Javascript:openchat();">
+        <!--<span class="contact">Call us on 0800 862 0380</span>-->
+      </a>
+    </div><!--slide-out-div-->
 
+
+    </div><!--container-->
+  </div><!--bottom-->
   
-  <div id="footer">
-  	<table width="1000" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td width="712" height="385"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr>
-          <td>&nbsp;</td>
-          <td>&nbsp;</td>
-          <td>&nbsp;</td>
-          <td>&nbsp;</td>
-          <td>&nbsp;</td>
-          <td>&nbsp;</td>
-        </tr>
-        <tr>
-          <td width="230">
-          <table width="100%" border="0" cellspacing="0" cellpadding="0">
-              <tbody><tr>
-                <td style="background:url(images/footer_partition.jpg) no-repeat left 12px;"><strong>RESOURCES</strong><br>
-                  <div style="padding:5px 0 0 15px; line-height:23px;"> <a href="http://www.webhosting.uk.com/forums/">Web Hosting Forum</a><br>
-                    <a href="http://blog.webhosting.uk.com/">Web Hosting Blog</a><br>
-                    <a href="http://www.webhosting.uk.com/knowledgebase/">Knowledgebase</a><br>
-                    <br>
-                  </div></td>
-              </tr>
-              <tr>
-                <td style="background:url(images/footer_partition.jpg) no-repeat left 12px;"><strong>NEED HELP ?</strong> <br>
-                  <div style="padding:5px 0 0 15px; line-height:23px;"> <a href="https://www.webhosting.uk.com/whmcs/clientarea.php">Client Area</a><br>
-                    <a href="http://www.webhosting.uk.com/support.php">Contact Us</a><br>
-                    <a href="http://support.webhosting.uk.com/">Help Desk</a><br>
-                    <a href="support.php">Tutorials</a><br>
-                    <a href="sitemap.php">Sitemap</a><br>
-                    <a href="get-a-quote.php">Get a quote</a></div></td>
-              </tr>
-            </tbody></table>
-          </td>
-          <td width="7">&nbsp;</td>
-          <td width="230"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-              <tbody><tr>
-                <td style="background:url(images/footer_partition.jpg) no-repeat left 12px;"><strong>COMPANY</strong> <br>
-                  <div style="padding:5px 0 0 15px; line-height:23px;"> <a href="web-hosting-uk.php">About Us </a><br>
-                    <a href="web-hosting-uk-terms.php">Terms of Service</a><br>
-                    <a href="sla.php">Service Level Agreement </a><br>
-                    <a href="web-hosting-uk-privacy.php">Privacy Policy</a><br>
-                    <a href="web-hosting-uk-billing-policies.php">Billing Policies </a><br>
-                    <a href="vps-hosting-policy.php">VPS Policies</a><br>
-                    <a href="http://www.webhosting.uk.com/forums/customer-testimonials/">Testimonials</a><br>
-                    <br>
-                  </div></td>
-              </tr>
-              <tr>
-                <td style="background:url(images/footer_partition.jpg) no-repeat left 12px;"><strong>PARTNERS</strong> <br>
-                  <div style="padding:5px 0 0 15px; line-height:23px;"> <a href="affiliates.php">Affiliate Program</a></div></td>
-              </tr>
-            </tbody></table></td>
-          <td width="7">&nbsp;</td>
-          <td width="230" style="background:url(images/footer_partition.jpg) no-repeat left 12px;">
-          <strong>PRODUCTS</strong><br>
-            <div style="padding:5px 0 0 15px; line-height:23px;"> 
-              <a href="cheap-domain-names.php">Domain Name</a><br>
-              <a href="backup.php">Backup Plans</a><br>
-              <a href="ssl-certificates.php">SSL Certificate</a><br>
-              <a href="billing-software.php">Billing Software</a><br>
-              <a href="zimbra-hosting.php">Zimbra Hosting</a><br>
-              <a href="vps-hosting.php">Linux VPS</a><br>
-              <a href="windows-vps-hosting.php">Windows VPS</a><br>
-              <a href="cpanel-hosting.php">cPanel Hosting </a><br>
-              <a href="windows-hosting.php">Windows Hosting</a><br>
-              <a href="reseller-hosting.php">Reseller Hosting</a><br>
-              <a href="cloud-hosting.php">Cloud Hosting</a><br>
-              <a href="dedicated-servers-web-hosting.php">Dedicated Server</a><br>
-            </div>
-          </td>
-          <td width="8">&nbsp;</td>
-        </tr>
-      </tbody></table></td>
-    <td width="288"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr>
-          <td height="20"><!-- <form>
-<table width="100%" border="0" cellspacing="0" cellpadding="0" style="margin:10px 0 0 0;">
-<tr>
-<td style="padding-top:2px;"><strong>Site Search</strong></td>
-<td style="padding-left:3px;">
-<input name="search" type="text" id="search" size="27">
-</td>
-<td style="padding-top:2px;">
-<input type="image" src="images/search_buttton_bottom.jpg">
-</td>
-</tr>
-</table>
-</form>--></td>
-        </tr>
-        <tr>
-          <td><div class="tri_contact">
-              <div class="fchat_link"><a href="javascript:openchat();"><img src="images/footer_chat.jpg" alt=""></a></div>
-              <div class="fhds_link"><a href="http://support.webhosting.uk.com/"><img src="images/footer_hds.jpg" alt=""></a></div>
-            </div></td>
-        </tr>
-      </tbody></table></td>
-  </tr>
-  <tr>
-    <td height="40" colspan="2"><div class="clsFloatLeft" style="width:500px; height:26px; padding-top:3px;">
-        <div> Copyright 2001-2012 <a href="http://www.webhosting.uk.com/">Web Hosting UK</a>. All rights reserved.</div>
-        <!--<div class="clsFloatRight">
-<a href="http://validator.w3.org/check?uri=referer" target="_blank">Valid XHTML</a>&nbsp;/&nbsp;
-<a href="http://jigsaw.w3.org/css-validator/validator?uri=http%3A%2F%2Fwww.webhosting.uk.com%2F&amp;profile=css3&amp;usermedium=all&amp;warning=1" target="_blank">Valid CSS</a></div>-->
-      </div>
-      <div class="clsFloatRight" style="width:330px; height:26px;">
-        <table width="330" border="0" cellspacing="0" cellpadding="0">
-          <tbody><tr>
-            <td style="padding-top:3px;"><img src="images/keep_in_touch.jpg"></td>
-            <td><a href="http://www.facebook.com/webhostingukcom" target="_blank" rel="nofollow"><img src="images/fb.gif" alt=""></a></td>
-            <td>&nbsp;</td>
-            <td><a href="http://twitter.com/WebhostingUKcom" target="_blank" rel="nofollow"><img src="images/tw.gif" alt=""></a></td>
-            <td>&nbsp;</td>
-            <td><a href="http://www.linkedin.com/groups/Webhostingukcom-4216172" target="_blank" rel="nofollow"><img src="images/in.png" alt=""></a></td>
-            <td>&nbsp;</td>
-            <td><a href="https://plus.google.com/115237732625637217717/" target="_blank" rel="nofollow"><img src="images/gp.png" alt=""></a></td>
-          </tr>
-        </tbody></table>
-      </div>
-      </td>
-  </tr>
-</tbody></table>
-<!--<script type="text/javascript">
-startTicker();
-</script> -->
-<script type="text/javascript">
+</div><!--wrappers-->
 
-var _gaq = _gaq || [];
-_gaq.push(['_setAccount', 'UA-9976687-5']);
-_gaq.push(['_trackPageview']);
+<!--Cart Abandonment Solution-->
+<script language="JavaScript" type="text/javascript">
+var emailid = '';
+var ask_email = false;
+var cart_amt = 0;
+var order_id = 0;
+</script>
+<script language="javascript" src="https://sca.webhosting.uk.com/tracker/tracker.php?accId=1&amp;projId=1"></script>
+<!--EOF Cart Abandonment Solution-->
 
-(function() {
-var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-})();
 
-</script>
-<!-- Google Code for Conversion Rate Conversion Page -->
-<script type="text/javascript">
-/* <![CDATA[ */
-var google_conversion_id = 1039852769;
-var google_conversion_language = "en";
-var google_conversion_format = "2";
-var google_conversion_color = "ffffff";
-var google_conversion_label = "Kd2iCJe3lQIQ4cnr7wM";
-var google_conversion_value = 0;
-/* ]]> */
-</script>
-<script type="text/javascript" src="https://www.googleadservices.com/pagead/conversion.js">
-</script>
 <!-- BEGIN Invitation Positioning -->
 <script language="javascript" type="text/javascript">
 var lpPosY = 100;
@@ -576,17 +752,8 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
 try {
 var pageTracker = _gat._getTracker("UA-9976687-1");
 pageTracker._trackPageview();
-} catch(err) {}</script>
-  </div><!--footer-->
-
-</div><!--container-->
-                
-
-<!-- menu activation -->                
-<script type="text/javascript">
-dolphintabs.init("dolphinnav", 0)
+} catch(err) {}
 </script>
-<!-- menu activation -->  
 
 
 </body></html>
