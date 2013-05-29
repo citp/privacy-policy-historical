@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the promgirl.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101151859id_/http%3A//www.promgirl.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the promgirl.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529234131id_/http%3A//www.promgirl.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-[](https://web.archive.org/shop/in-stock)
 
 Due to the nature of our website and in an effort to improve your shopping experience, PromGirl does collect personally identifiable information as well as log aggregate shopping information.We recognize we must maintain and use customer information responsibly. **We respect your privacy and will never sell your information to third parties.**
 
@@ -22,7 +20,7 @@ SSL encrypts your order information to avoid the decoding of that information by
 
 Some firewalls do not permit communication through secure servers. In this case, you will not be able to connect to the secure server and must disable your firewall or choose a different method to order. 
 
-If you cannot access our secure server for any reason, please feel free to use our offline order form available upon check out, or place your order by phone. See our [ordering page](http://www.promgirl.com/info/orders) for more information. 
+If you cannot access our secure server for any reason, please feel free to use our offline order form available upon check out, or place your order by phone. See our [ordering page](http://www.promgirl.com/info/orders) for more information.
 
 **  
 Cookies: What are  they and how do we use them?**  
