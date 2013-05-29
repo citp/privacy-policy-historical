@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the boostcruising.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016091715id_/http%3A//www.boostcruising.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boostcruising.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529172854id_/http%3A//www.boostcruising.com/privacy.php) for the most accurate reproduction.*
 
-# Boostcruising - Terms and Conditions
+# Privacy Policy - Boostcruising
 
 Boostcruising is committed to protecting your privacy in accordance with the National Privacy Principles set out in the Privacy Act 1988 (Cth). Those principles regulate the way in which we collect, use, store, disclose and provide access to your personal information.
 
@@ -10,31 +10,31 @@ This Privacy Policy explains certain aspects of how we have implemented the Nati
 
 Personal information is information that allows others to identify you.
 
-If you become a member of Boostcruising.com the personal information about you which is collected and held :
+If you become a member of boostcruising.com the personal information about you which is collected and held :
 
 \- will include your name, gender, email address, height and date of birth as well as details of our services which you have used and statistics on usage;
 
-\- may include your current address, telephone numbers, mobile phone numbers, bank account or credit card details, ethnicity, religion, education and other information you voluntarily provide either in registering as a member of Boostcruising.com or in content which you post to this website.
+\- may include your current address, telephone numbers, mobile phone numbers, bank account or credit card details, ethnicity, religion, education and other information you voluntarily provide either in registering as a member of boostcruising.com or in content which you post to this website.
 
-Whether you are a visitor to our website or a Boostcruising.com member there may also be information which we automatically record but does not personally identify you such as your internet service provider and top level domain, the date and time at which you access our website, the web pages accessed and the browser software you are using.
+Whether you are a visitor to our website or a boostcruising.com member there may also be information which we automatically record but does not personally identify you such as your internet service provider and top level domain, the date and time at which you access our website, the web pages accessed and the browser software you are using.
 
 **How we collect personal information:**
 
 Personal information is information that allows others to identify you.
 
-If you become a member of Boostcruising.com the personal information about you which is collected and held:
+If you become a member of boostcruising.com the personal information about you which is collected and held:
 
 \- will include your name, gender, email address, height and date of birth as well as details of our services which you have used and statistics on usage;
 
-\- may include your current address, telephone numbers, mobile phone numbers, bank account or credit card details, ethnicity, religion, education and other information you voluntarily provide either in registering as a member of Boostcruising.com or in content which you post to this website.
+\- may include your current address, telephone numbers, mobile phone numbers, bank account or credit card details, ethnicity, religion, education and other information you voluntarily provide either in registering as a member of boostcruising.com or in content which you post to this website.
 
-Whether you are a visitor to our website or a Boostcruising.com member there may also be information which we automatically record but does not personally identify you such as your internet service provider and top level domain, the date and time at which you access our website, the web pages accessed and the browser software you are using.
+Whether you are a visitor to our website or a boostcruising.com member there may also be information which we automatically record but does not personally identify you such as your internet service provider and top level domain, the date and time at which you access our website, the web pages accessed and the browser software you are using.
 
 **How we use your personal information:**
 
 Your personal information may be used in order to:
 
-\- provide the Boostcruising.com services to you;
+\- provide the boostcruising.com services to you;
 
 \- assist you with any questions you may have regarding the use of those services;
 
@@ -50,7 +50,7 @@ Your personal information may be used in order to:
 
 **What happens if you do not provide all or a part of the personal information requested:**
 
-If you do not provide all or a part of the required information for registration as a member of Boostcruising.com, we are unable to register you as a member of Boostcruising.com and you will be unable to enjoy the benefits of membership.
+If you do not provide all or a part of the required information for registration as a member of boostcruising.com, we are unable to register you as a member of boostcruising.com and you will be unable to enjoy the benefits of membership.
 
 **When we disclose your personal information:**
 
