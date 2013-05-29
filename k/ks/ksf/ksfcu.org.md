@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ksfcu.org privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231172218id_/http%3A//www.ksfcu.org/default.asp%3FfileID%3D127) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ksfcu.org privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529181947id_/http%3A//ksfcu.org/default.asp%3FfileID%3D127) for the most accurate reproduction.*
 
 # Kern Schools Federal Credit Union
 
@@ -46,4 +46,11 @@ The online financial services offered through the Credit Union's web site are no
  | 
 
 We recognize that protecting children's identities and online privacy is important and that responsibility rests with us and with parents. If you believe your child has provided personally identifiable information to us, please contact us so that we can allow you the opportunity to review and delete such information. Please call (661) 833-7900 or (800) 221-3311 or [email us](https://www.ksfcu.org/KSFCU_HPA/HPAFormFrame.asp?targetPage=contactForAssistance.asp). 
+|    
+ |  **State and Federal Privacy Notices**
+
+[Federal Privacy Notice](http://www.ksfcu.org/images/annualreport/FederalPrivacyNotice.pdf)
+
+[State Privacy Notice](http://www.ksfcu.org/images/annualreport/StatePrivacyNotice.pdf)
+
 |  
