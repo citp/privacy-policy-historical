@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toolguyd.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123215333id_/http%3A//toolguyd.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toolguyd.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529183535id_/http%3A//toolguyd.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ToolGuyd
 
