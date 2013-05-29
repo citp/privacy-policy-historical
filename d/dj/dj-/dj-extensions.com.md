@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dj-extensions.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003020243id_/http%3A//dj-extensions.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dj-extensions.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530014542id_/http%3A//dj-extensions.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy ● Best Joomla Extensions
 
