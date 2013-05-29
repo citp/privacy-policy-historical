@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the atproperties.com privacy policy that was archived on 2012-05-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120504080027id_/http%3A//www.atproperties.com/help/atproperties/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the atproperties.com privacy policy that was archived on 2013-05-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130529203833id_/http%3A//www.atproperties.com/help/atproperties/privacy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><link rel="stylesheet" type="text/css" href="/../wt/atproperties/css/dropdown.css">		<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/js/cookieFun.js"></script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><link rel="stylesheet" type="text/css" href="/../wt/atproperties/css/dropdown.css">		<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" src="/js/cookieFun.js"></script>
 <script type="text/javascript">	
 	var frmAid="";	
 	var bkTheme = "atproperties";
@@ -14,17 +14,17 @@
 	var myref='';
 </script>
 
-		<script src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php/en_US" type="text/javascript"></script>
+		<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head><body class="clsBody"><div id="fb-root"></div>
 		<script src="/js/facebook.js" type="text/javascript"></script>		
 
-<script type="text/javascript" src="/combine.php/1330588937-4/?exphdr=1&amp;type=javascript&amp;theme=atproperties&amp;files=userReg.js,signIn.js,validation.js,cookieFun.js"></script><link rel="stylesheet" type="text/css" href="/wt/atproperties/css/signIn.css">
-<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head><body class="clsBody"><div id="consLogin" class="white_content">
+<script type="text/javascript" src="/combine.php/1360623084-4/?exphdr=1&amp;type=javascript&amp;theme=atproperties&amp;files=userReg.js,signIn.js,validation.js,cookieFun.js"></script><link rel="stylesheet" type="text/css" href="/wt/atproperties/css/signIn.css">
+<div id="consLogin" class="white_content">
 	<table width="100%" class="header" cellspacing="0" cellpadding="0">
 		<tbody><tr>
 			<td align="left" class="caption" id="tdLoginHeader" style="padding-left:5px;">
 				<span class="siLableText">Login<span>
 			</span></span></td>
-			<td class="loginClose">
+			<td class="loginClose" id="loginCloseTd">
 				<a href="javascript:void(0)" onclick="javascript:closeLoginDiv();">
 					<img src="/wt/atproperties/images/common/close_dlgLog.gif">
 				</a>
@@ -53,16 +53,31 @@
 						<td valign="top" width="39%">
 											
 									<script type="text/javascript">
-										if(window.FB)
-										{
-											var fbApiKey = "a16a4a5268875b9157ea8b095494142a";					
-											FB.init(fbApiKey, 'http://'+location.host+'/xd_receiver.htm');
-											if(top.frompage != 'dlp')
-											{							
-												document.write('<img src="/images/common/fConnect.png" onclick="javascript:fbLogin();" border="0" width="176px" height="31px" style="cursor:pointer;*cursor:hand;"/>');
-											}
+										var fbApiKey = "149929311725660";
+										window.fbAsyncInit = function() {
+											FB.init({
+											  appId      : fbApiKey, // App ID
+											  channelUrl : 'http://'+location.host+'/xd_receiver.htm', // Channel File
+											  status     : true, // check login status
+											  cookie     : true, /*enable cookies to allow the server to access the session*/
+											  xfbml      : true  // parse XFBML
+											});
+										  };
+
+										  // Load the SDK Asynchronously
+										  (function(d){
+											 var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+											 if (d.getElementById(id)) {return;}
+											 js = d.createElement('script'); js.id = id; js.async = true;
+											 js.src = "//connect.facebook.net/en_US/all.js";
+											 ref.parentNode.insertBefore(js, ref);
+										   }(document));
+
+										if(top.frompage != 'dlp')
+										{							
+											document.write('<img src="/images/common/fConnect.png" onclick="javascript:fbLogin();" border="0" width="176px" height="31px" style="cursor:pointer;*cursor:hand;"/>');
 										}
-									</script>					
+									</script><img src="/images/common/fConnect.png" onclick="javascript:fbLogin();" border="0" width="176px" height="31px" style="cursor:pointer;*cursor:hand;">					
 													</td>
 					</tr>
 				 </tbody></table>
@@ -246,15 +261,12 @@
 										<tr style="height:25px;">
 						<td align="right" class="siLableText" valign="top" height="30">&nbsp;</td>
 						<td align="left" valign="top" class="siLableText" style="padding-left:5px;padding-top:20px;">
-							<script type="text/javascript">
-								if(window.FB)
-								{									
-									if(top.frompage != 'dlp')
-									{							
-										document.write('<img src="/images/common/fConnect.png" onclick="javascript:fbLogin();" border="0" width="176px" height="31px" style="cursor:pointer;*cursor:hand;"/>');
-									}
+							<script type="text/javascript">																	
+								if(top.frompage != 'dlp')
+								{							
+									document.write('<img src="/images/common/fConnect.png" onclick="javascript:fbLogin();" border="0" width="176px" height="31px" style="cursor:pointer;*cursor:hand;"/>');
 								}
-							</script>
+							</script><img src="/images/common/fConnect.png" onclick="javascript:fbLogin();" border="0" width="176px" height="31px" style="cursor:pointer;*cursor:hand;">
 						</td>
 					</tr>
 									</tbody></table>
@@ -344,7 +356,18 @@
 </div>
 <div id="fade" class="black_overlay"></div>
 <script type="text/javascript">
-</script><link rel="stylesheet" type="text/css" href="/../wt/atproperties/css/listing.css"><div id="marketTrendDiv" name="marketTrendDiv" class="lightbox" style="display:none;position:absolute;top:60px;left:775px;z-index:400;width:200px;height:125px;background-color:#FFFFFF;">
+
+	lgn_ref = encodeURIComponent(window.location);
+	lgn_ref = lgn_ref.toLowerCase();
+	lgn_ref = decodeURIComponent(lgn_ref);
+	if(lgn_ref.indexOf('/search/') > 0 || lgn_ref.indexOf('/Search/') > 0 || lgn_ref.indexOf('/homes/') > 0 ) 
+	{	
+		$("loginCloseTd").hide();
+		//return;  
+	}
+
+</script>
+<link rel="stylesheet" type="text/css" href="/../wt/atproperties/css/listing.css"><div id="marketTrendDiv" name="marketTrendDiv" class="lightbox" style="display:none;position:absolute;top:60px;left:775px;z-index:400;width:200px;height:125px;background-color:#FFFFFF;">
 	<table width="100%" cellpadding="0" cellspacing="0" style="position:relative;border-collapse:separate;">	
 			<tbody><tr class="popupDivHeader">
 			   <td width="90%" align="left" style="padding:5px;height:30px;">Market Trend Report</td>
@@ -353,18 +376,10 @@
 			   </td>
 			</tr>
 			<tr><td colspan="2" height="5px" align="center"></td></tr>
-						<tr>
-			   <td colspan="2" class="crsr cszLblHd" style="padding-left:5px;padding-top:2px;">					
-				 <a class="comLink" href="http://docs.atproperties.com/commercialDoc/Retail_Advisory_Report_Summary.pdf" target="_blank">Costar Retail</a>			   </td>
-			</tr>			
-						<tr>
-			   <td colspan="2" class="crsr cszLblHd" style="padding-left:5px;padding-top:2px;">					
-				 <a class="comLink" href="http://docs.atproperties.com/commercialDoc/Industrial_Advisory_Report_Summary.pdf" target="_blank">Costar Industrial</a>			   </td>
-			</tr>			
-						<tr>
-			   <td colspan="2" class="crsr cszLblHd" style="padding-left:5px;padding-top:2px;">					
-				 <a class="comLink" href="http://docs.atproperties.com/commercialDoc/Office_Advisory_Report_Summary.pdf" target="_blank">Costar Office</a>			   </td>
-			</tr>			
+							   
+			<tr>
+			   <td colspan="2" class="errMsg" align="center"> Report Not Found </td>
+			</tr>	
 						<tr><td colspan="2" height="5px" align="center"></td></tr>
 		
 	</tbody></table>
@@ -649,7 +664,7 @@ function chkDailyWeeklyAlert(id)
 	
 	<title>@properties</title><meta name="keywords" content="@properties real estate"><meta name="description" content="@properties real estate">		<link rel="shortcut icon" href="/wt/atproperties/images/common/favicon.ico">
 		<link rel="stylesheet" type="text/css" href="/vendor/yui/container/assets/container.css">
-		<link rel="stylesheet" type="text/css" href="/combine.php/1328774613-4/?exphdr=1&amp;type=css&amp;theme=atproperties&amp;files=common.css,listing.css,tabviewThm.css,listView.css">
+		<link rel="stylesheet" type="text/css" href="/combine.php/1343504575-4/?exphdr=1&amp;type=css&amp;theme=atproperties&amp;files=common.css,listing.css,tabviewThm.css,listView.css">
 		<style type="text/css">
 			.panel .close.nonsecure { background-image:url(/wt/atproperties/images/common/close_dlgLog.gif); !important; }
 			.panel .close.secure { background-image:url(/wt/atproperties/images/common/close_dlgLog.gif)!important; }
@@ -672,7 +687,19 @@ function chkDailyWeeklyAlert(id)
 		<script type="text/javascript" src="/vendor/yui/dom/dom.js"></script>
 		<script type="text/javascript" src="/vendor/yui/container/container.js"></script>
 		<script type="text/javascript" src="/homesite/terabitzAdv.js"></script>
-		<script type="text/javascript" src="/combine.php/1309413634-5/?exphdr=1&amp;type=javascript&amp;theme=atproperties&amp;files=prototype.js,common.js,yahooUI.js,validation.js,sendEmail.js"></script>
+		<script type="text/javascript" src="/combine.php/1343504549-5/?exphdr=1&amp;type=javascript&amp;theme=atproperties&amp;files=prototype.js,common.js,yahooUI.js,validation.js,sendEmail.js"></script>
+		<script type="text/javascript">
+		  // Google Analytics code added by CGK 19-DEC-12
+		  var _gaq = _gaq || [];
+		  _gaq.push(['_setAccount', 'UA-5933381-1']);
+		  _gaq.push(['_trackPageview']);
+
+		  (function() {
+		    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		  })();
+		</script>
 	
 	
 		<table class="mainTable" style="vertical-align:top;" align="center">
@@ -680,7 +707,7 @@ function chkDailyWeeklyAlert(id)
 				<td><script type="text/javascript">
 					var countySearchEnabled = "1";
 					</script><div id="headermDiv" style="position:relative; float:left; clear:both;"><table width="100%" cellspacing="0" cellpadding="0" class=""><tbody><tr><td width="250" height="100" valign="bottom" align="left">
-				<a href="/index.php">
+				<a href="/">
 					<img src="http://www.atproperties.com/wt/atproperties/images/common/medium_logo.gif" alt="Chicago Real Estate" title="Chicago Real Estate">
 				</a>
 			    </td><td valign="top" align="right" class="HeaderRepeat" style="padding-top:5px; position:absolute; right:0; width:750px; float:right;"><div style="position:relative;width:100%;" id="headerLinkSection"><a href="javascript:void(0);" onclick="javascript:showContent=1;opensignInRegDlg('/help/atproperties/privacy.php','R','login');" class="linkHeadDis crsr">
@@ -694,16 +721,16 @@ function chkDailyWeeklyAlert(id)
 					<li><a href="/app/listing/propertySearchOptions.php" title="Search Properties" class="headerlink">Search</a></li>
 					<li>
 						<a href="/info/exploreChicago.php?page=index" title="Neighborhoods" class="headerlink">Neighborhoods</a>
-						<ul><li style="border-top:1px solid #000"><a href="http://www.atproperties.com/info/neighborhoodDetails.php?nhood=bucktown" target="_blank" title="Bucktown Real Estate">Bucktown Real Estate</a></li><li style=""><a href="http://www.atproperties.com/info/neighborhoodDetails.php?fromPage=chicago&amp;nhood=Loop" target="_blank" title="Chicago The Loop Real Estate">Chicago The Loop Real Estate</a></li><li style=""><a href="http://www.atproperties.com/info/neighborhoodDetails.php?fromPage=chicago&amp;nhood=Edgewater" target="_blank" title="Edgewater Real Estate">Edgewater Real Estate</a></li><li style=""><a href="http://www.atproperties.com/info/neighborhoodDetails.php?nhood=streeterville" target="_blank" title="Gold Coast Real Estate">Gold Coast Real Estate</a></li><li style=""><a href="http://www.atproperties.com/info/neighborhoodDetails.php?fromPage=chicago&amp;nhood=Lake_View" target="_blank" title="Lakeview Real Estate">Lakeview Real Estate</a></li><li style=""><a href="http://www.atproperties.com/info/neighborhoodDetails.php?fromPage=chicago&amp;nhood=Lincoln%20Park" target="_blank" title="Lincoln Park Real Estate">Lincoln Park Real Estate</a></li><li style=""><a href="http://www.atproperties.com/info/neighborhoodDetails.php?fromPage=chicago&amp;nhood=Lincoln%20Square" target="_blank" title="Lincoln Square Real Estate">Lincoln Square Real Estate</a></li><li style=""><a href="http://www.atproperties.com/info/neighborhoodDetails.php?fromPage=chicago&amp;nhood=Logan%20Square" target="_blank" title="Logan Square Real Estate">Logan Square Real Estate</a></li><li style=""><a href="http://www.atproperties.com/info/neighborhoodDetails.php?nhood=wicker-park" target="_blank" title="Wicker Park Real Estate">Wicker Park Real Estate</a></li><li style=""><a href="http://www.atproperties.com/info/neighborhoodDetails.php?fromPage=north_shore&amp;nhood=Evanston" target="_blank" title="Evanston Real Estate">Evanston Real Estate</a></li><li style=""><a href="http://www.atproperties.com/info/neighborhoodDetails.php?fromPage=north_shore&amp;nhood=Glencoe" target="_blank" title="Glencoe Real Estate">Glencoe Real Estate</a></li><li style=""><a href="http://www.atproperties.com/info/neighborhoodDetails.php?fromPage=north_shore&amp;nhood=Highland%20Park" target="_blank" title="Highland Park Real Estate">Highland Park Real Estate</a></li><li style=""><a href="http://www.atproperties.com/info/neighborhoodDetails.php?fromPage=north_shore&amp;nhood=Lake%20Forest" target="_blank" title="Lake Forest Real Estate">Lake Forest Real Estate</a></li><li style=""><a href="http://www.atproperties.com/info/neighborhoodDetails.php?fromPage=north_shore&amp;nhood=Wilmette" target="_blank" title="Wilmette Real Estate">Wilmette Real Estate</a></li><li style=""><a href="http://www.atproperties.com/info/neighborhoodDetails.php?fromPage=north_shore&amp;nhood=Winnetka" target="_blank" title="Winnetka Real Estate">Winnetka Real Estate</a></li><li style=""><a href="http://www.atproperties.com/info/exploreChicago.php?page=chicago" target="_blank" title="All Chicago Real Estate">All Chicago Real Estate</a></li><li style=""><a href="http://www.atproperties.com/info/exploreChicago.php?page=north_shore" target="_blank" title="North Shore Chicago Real Estate">North Shore Chicago Real Estate</a></li></ul>
+						<ul><li style="border-top:1px solid #000"><a href="http://www.atproperties.com/info/neighborhoodDetails.php?nhood=bucktown" target="_blank" title="Bucktown Real Estate">Bucktown Real Estate</a></li><li style=""><a href="http://www.atproperties.com/info/neighborhoodDetails.php?fromPage=chicago&amp;nhood=Loop" target="_blank" title="Chicago Loop Real Estate">Chicago Loop Real Estate</a></li><li style=""><a href="http://www.atproperties.com/info/neighborhoodDetails.php?fromPage=chicago&amp;nhood=Edgewater" target="_blank" title="Edgewater Real Estate">Edgewater Real Estate</a></li><li style=""><a href="http://www.atproperties.com/info/neighborhoodDetails.php?fromPage=north_shore&amp;nhood=Evanston" target="_blank" title="Evanston Real Estate">Evanston Real Estate</a></li><li style=""><a href="http://www.atproperties.com/info/neighborhoodDetails.php?fromPage=north_shore&amp;nhood=Glencoe" target="_blank" title="Glencoe Real Estate">Glencoe Real Estate</a></li><li style=""><a href="http://www.atproperties.com/info/neighborhoodDetails.php?fromPage=north_shore&amp;nhood=Glenview_/_Golf" target="_blank" title="Glenview Real Estate">Glenview Real Estate</a></li><li style=""><a href="http://www.atproperties.com/info/neighborhoodDetails.php?fromPage=&amp;nhood=Near_North_Side" target="_blank" title="Gold Coast Real Estate">Gold Coast Real Estate</a></li><li style=""><a href="http://www.atproperties.com/info/neighborhoodDetails.php?fromPage=north_shore&amp;nhood=Highland%20Park" target="_blank" title="Highland Park Real Estate">Highland Park Real Estate</a></li><li style=""><a href="http://www.atproperties.com/info/neighborhoodDetails.php?fromPage=north_shore&amp;nhood=Lake%20Forest" target="_blank" title="Lake Forest Real Estate">Lake Forest Real Estate</a></li><li style=""><a href="http://www.atproperties.com/info/neighborhoodDetails.php?fromPage=chicago&amp;nhood=Lake_View" target="_blank" title="Lakeview Real Estate">Lakeview Real Estate</a></li><li style=""><a href="http://www.atproperties.com/info/neighborhoodDetails.php?fromPage=chicago&amp;nhood=Lincoln%20Park" target="_blank" title="Lincoln Park Real Estate">Lincoln Park Real Estate</a></li><li style=""><a href="http://www.atproperties.com/info/neighborhoodDetails.php?fromPage=chicago&amp;nhood=Lincoln%20Square" target="_blank" title="Lincoln Square Real Estate">Lincoln Square Real Estate</a></li><li style=""><a href="http://www.atproperties.com/info/neighborhoodDetails.php?fromPage=chicago&amp;nhood=Logan%20Square" target="_blank" title="Logan Square Real Estate">Logan Square Real Estate</a></li><li style=""><a href="http://www.atproperties.com/info/neighborhoodDetails.php?nhood=wicker-park" target="_blank" title="Wicker Park Real Estate">Wicker Park Real Estate</a></li><li style=""><a href="http://www.atproperties.com/info/neighborhoodDetails.php?fromPage=north_shore&amp;nhood=Wilmette" target="_blank" title="Wilmette Real Estate">Wilmette Real Estate</a></li><li style=""><a href="http://www.atproperties.com/info/neighborhoodDetails.php?fromPage=north_shore&amp;nhood=Winnetka" target="_blank" title="Winnetka Real Estate">Winnetka Real Estate</a></li><li style=""><a href="http://www.atproperties.com/info/exploreChicago.php?page=chicago" target="_blank" title="All Chicago Real Estate">All Chicago Real Estate</a></li><li style=""><a href="http://www.atproperties.com/info/exploreChicago.php?page=north_shore" target="_blank" title="North Shore Chicago Real Estate">North Shore Chicago Real Estate</a></li></ul>
 					</li>
 					<li>
 						<a href="/reports/index.php?page=index" title="Market Reports" class="headerlink">Market Reports</a>
-						<ul><li style="border-top:1px solid #000"><a href="http://www.atproperties.com/reports/marketReport.php?nhood=bucktown" target="_blank" title="Bucktown Home Sales">Bucktown Home Sales</a></li><li style=""><a href="http://www.atproperties.com/reports/marketReport.php?fromPage=chicago&amp;nhood=Loop" target="_blank" title="Chicago The Loop Home Sales">Chicago The Loop Home Sales</a></li><li style=""><a href="http://www.atproperties.com/reports/marketReport.php?fromPage=chicago&amp;nhood=Edgewater" target="_blank" title="Edgewater Home Sales">Edgewater Home Sales</a></li><li style=""><a href="http://www.atproperties.com/reports/marketReport.php?nhood=streeterville" target="_blank" title="Gold Coast Home Sales">Gold Coast Home Sales</a></li><li style=""><a href="http://www.atproperties.com/reports/marketReport.php?fromPage=chicago&amp;nhood=Lake%20View" target="_blank" title="Lakeview Home Sales">Lakeview Home Sales</a></li><li style=""><a href="http://www.atproperties.com/reports/marketReport.php?fromPage=chicago&amp;nhood=Lincoln%20Park" target="_blank" title="Lincoln Park Home Sales">Lincoln Park Home Sales</a></li><li style=""><a href="http://www.atproperties.com/reports/marketReport.php?fromPage=chicago&amp;nhood=Lincoln%20Square" target="_blank" title="Lincoln Square Home Sales">Lincoln Square Home Sales</a></li><li style=""><a href="http://www.atproperties.com/reports/marketReport.php?fromPage=chicago&amp;nhood=Logan%20Square" target="_blank" title="Logan Square Home Sales">Logan Square Home Sales</a></li><li style=""><a href="http://www.atproperties.com/reports/marketReport.php?nhood=wicker-park" target="_blank" title="Wicker Park Home Sales">Wicker Park Home Sales</a></li><li style=""><a href="http://www.atproperties.com/reports/marketReport.php?fromPage=north_shore&amp;nhood=Evanston" target="_blank" title="Evanston Home Sales">Evanston Home Sales</a></li><li style=""><a href="http://www.atproperties.com/reports/marketReport.php?fromPage=north_shore&amp;nhood=Glencoe" target="_blank" title="Glencoe Home Sales">Glencoe Home Sales</a></li><li style=""><a href="http://www.atproperties.com/reports/marketReport.php?fromPage=north_shore&amp;nhood=Highland%20Park" target="_blank" title="Highland Park Home Sales">Highland Park Home Sales</a></li><li style=""><a href="http://www.atproperties.com/reports/marketReport.php?fromPage=north_shore&amp;nhood=Lake%20Forest" target="_blank" title="Lake Forest Home Sales">Lake Forest Home Sales</a></li><li style=""><a href="http://www.atproperties.com/reports/marketReport.php?fromPage=north_shore&amp;nhood=Wilmette" target="_blank" title="Wilmette Home Sales">Wilmette Home Sales</a></li><li style=""><a href="http://www.atproperties.com/reports/marketReport.php?fromPage=north_shore&amp;nhood=Winnetka" target="_blank" title="Winnetka Home Sales">Winnetka Home Sales</a></li><li style=""><a href="http://www.atproperties.com/reports/index.php?page=chicago" target="_blank" title="All Chicago Home Sales">All Chicago Home Sales</a></li><li style=""><a href="http://www.atproperties.com/reports/index.php?page=north_shore" target="_blank" title="North Shore Chicago Home Sales">North Shore Chicago Home Sales</a></li></ul>
+						<ul><li style="border-top:1px solid #000"><a href="http://www.atproperties.com/reports/marketReport.php?nhood=bucktown" target="_blank" title="Bucktown Home Sales">Bucktown Home Sales</a></li><li style=""><a href="http://www.atproperties.com/reports/marketReport.php?fromPage=chicago&amp;nhood=Loop" target="_blank" title="Chicago Loop Home Sales">Chicago Loop Home Sales</a></li><li style=""><a href="http://www.atproperties.com/reports/marketReport.php?fromPage=chicago&amp;nhood=Edgewater" target="_blank" title="Edgewater Home Sales">Edgewater Home Sales</a></li><li style=""><a href="http://www.atproperties.com/reports/marketReport.php?fromPage=north_shore&amp;nhood=Evanston" target="_blank" title="Evanston Home Sales">Evanston Home Sales</a></li><li style=""><a href="http://www.atproperties.com/reports/marketReport.php?fromPage=north_shore&amp;nhood=Glencoe" target="_blank" title="Glencoe Home Sales">Glencoe Home Sales</a></li><li style=""><a href="http://www.atproperties.com/reports/marketReport.php?fromPage=chicago&amp;nhood=Glenview" target="_blank" title="Glenview Home Sales">Glenview Home Sales</a></li><li style=""><a href="http://www.atproperties.com/reports/marketReport.php?fromPage=&amp;nhood=Near_North_Side" target="_blank" title="Gold Coast Home Sales">Gold Coast Home Sales</a></li><li style=""><a href="http://www.atproperties.com/reports/marketReport.php?fromPage=north_shore&amp;nhood=Highland%20Park" target="_blank" title="Highland Park Home Sales">Highland Park Home Sales</a></li><li style=""><a href="http://www.atproperties.com/reports/marketReport.php?fromPage=north_shore&amp;nhood=Lake%20Forest" target="_blank" title="Lake Forest Home Sales">Lake Forest Home Sales</a></li><li style=""><a href="http://www.atproperties.com/reports/marketReport.php?fromPage=chicago&amp;nhood=Lake%20View" target="_blank" title="Lakeview Home Sales">Lakeview Home Sales</a></li><li style=""><a href="http://www.atproperties.com/reports/marketReport.php?fromPage=chicago&amp;nhood=Lincoln%20Park" target="_blank" title="Lincoln Park Home Sales">Lincoln Park Home Sales</a></li><li style=""><a href="http://www.atproperties.com/reports/marketReport.php?fromPage=chicago&amp;nhood=Lincoln%20Square" target="_blank" title="Lincoln Square Home Sales">Lincoln Square Home Sales</a></li><li style=""><a href="http://www.atproperties.com/reports/marketReport.php?fromPage=chicago&amp;nhood=Logan%20Square" target="_blank" title="Logan Square Home Sales">Logan Square Home Sales</a></li><li style=""><a href="http://www.atproperties.com/reports/marketReport.php?nhood=wicker-park" target="_blank" title="Wicker Park Home Sales">Wicker Park Home Sales</a></li><li style=""><a href="http://www.atproperties.com/reports/marketReport.php?fromPage=north_shore&amp;nhood=Wilmette" target="_blank" title="Wilmette Home Sales">Wilmette Home Sales</a></li><li style=""><a href="http://www.atproperties.com/reports/marketReport.php?fromPage=north_shore&amp;nhood=Winnetka" target="_blank" title="Winnetka Home Sales">Winnetka Home Sales</a></li><li style=""><a href="http://www.atproperties.com/reports/index.php?page=chicago" target="_blank" title="All Chicago Home Sales">All Chicago Home Sales</a></li><li style=""><a href="http://www.atproperties.com/reports/index.php?page=north_shore" target="_blank" title="North Shore Chicago Home Sales">North Shore Chicago Home Sales</a></li></ul>
 					</li>
 					<li><a href="/developments/" title="Developments" class="headerlink">Developments</a></li>
 					<li>
 						<a href="/list-with-us" class="headerlink" title="Buying/Selling">Buying/Selling</a>
-						<ul><li style="border-top:1px solid #000"><a target="_self" href="/pages/atproperties-content/Buying_Selling/listwithus" title="Listwithus">Listwithus</a></li></ul>
+						<ul><li style="border-top:1px solid #000"><a target="_self" href="/pages/atproperties-content/Buying_Selling/listwithus" title="List With Us">List With Us</a></li></ul>
 					</li>
 					<li>
 						<a href="/agent-offices" title="Agents/Offices" class="headerlink">Agents/Offices</a>
@@ -725,7 +752,7 @@ function chkDailyWeeklyAlert(id)
 				<tbody><tr>
 					 <td width="65%" height="30px" valign="middle" align="left" class="statusBar">
 						<span class="statusText"> 
-						<a class="" href="/index.php"><b class="statusText" style="font-weight:bold">Home</b></a> &gt; Privacy Policy</span></td><td width="35%" valign="middle" align="right" class="statusBar"><table width="100%" align="right">
+						<a class="" href="/"><b class="statusText" style="font-weight:bold">Home</b></a> &gt; Privacy Policy</span></td><td width="35%" valign="middle" align="right" class="statusBar"><table width="100%" align="right">
 									<tbody><tr>
 										<td align="right" style="*padding-top:1px;">
 											<span class="st_sharethis_custom crsr"></span>
@@ -811,12 +838,12 @@ function chkDailyWeeklyAlert(id)
 										<td rowspan="2" valign="top" style=" padding-top:7px;width:85px;"><img src="/wt/atproperties/images/landing/logo-wqc.gif" border="0" alt="Website Quality Certification" title="Website Quality Certification"></td>
 										<td style=" padding-top:5px;">
 											<a href="http://www.atproperties.luxuryportfolio.com/cobranded.cfm" alt="Luxury Portfolio" target="blank"><img src="/wt/atproperties/images/landing/luxuryPortfolio.gif" border="0" alt="Luxury Portfolio" title="Luxury Portfolio"></a>
-											<a href="http://www.relohomesearch.com/" alt="Relo home search" target="blank"><img src="/wt/atproperties/images/landing/reloHome.gif" border="0" alt="Relo home search" title="Relo home search"></a>
+											<a href="http://www.leadingre.com/national" target="_blank"><img src="/wt/atproperties/images/landing/reloHome.gif" border="0" alt="National Home Search" title="National Home Search"></a>
 											<a href="http://www.guaranteedrate.com/?utm_source=atproperties.com&amp;utm_medium=partner&amp;utm_campaign=atproperties" alt="Guaranteed Rate" target="blank"><img src="/wt/atproperties/images/landing/guaranteed.gif" border="0"></a>
 										</td>
 									</tr>
 									<tr>
-										<td valign="bottom"><img src="/wt/atproperties/images/landing/leadingRealestate.gif" border="0" alt="Leading Real Estate" title="Leading Real Estate"></td>
+										<td valign="bottom"><a href="http://www.leadingre.com/national" target="_blank"><img src="/wt/atproperties/images/landing/leadingRealestate.gif" border="0" alt="Leading Real Estate" title="Leading Real Estate"></a></td>
 									</tr>
 								</tbody></table>
 							</td><td align="right" valign="top" style="padding-top:10px;" class="footerLink">  
@@ -850,4 +877,5 @@ function chkDailyWeeklyAlert(id)
 		</tbody></table>
 		<script type="text/javascript" src="http://dnn506yrbagrg.cloudfront.net/pages/scripts/0011/3255.js"> </script>
 	
+
 </body></html>
