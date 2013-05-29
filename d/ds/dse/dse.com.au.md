@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the dse.com.au privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017061143id_/http%3A//dicksmith.com.au/help/privacy-policy-content) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dse.com.au privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529190452id_/http%3A//dicksmith.com.au/help/privacy-policy-content) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ## Respecting your privacy
 
-Woolworths Limited is committed to supporting the 'National Privacy Principles for the Fair Handling of Personal Information' which set clear standards for the collection, access, storage and use of personal information which we obtain as part of our business operations. 
+Dick Smith is committed to supporting the 'National Privacy Principles for the Fair Handling of Personal Information' which set clear standards for the collection, access, storage and use of personal information which we obtain as part of our business operations. 
 
 Our respect for our customers' right to privacy of their personal information is paramount. We have policies and procedures to ensure that all personal information, no matter how or where it is obtained, is handled sensitively, securely, and in accordance with the National Privacy Principles. 
 
@@ -18,11 +18,11 @@ Our respect for our customers' right to privacy of their personal information is
 
 ## What personal information do we collect and store?
 
-So that we can provide services to you, we may ask for personal details such as your name, address, telephone number or e-mail address. Some examples of where we may need these details are pre-orders, home deliveries, competitions & promotions and when you opt-in to receiving marketing newsletters from Woolworths which may include 
+So that we can provide services to you, we may ask for personal details such as your name, address, telephone number or e-mail address. Some examples of where we may need these details are pre-orders, home deliveries, competitions & promotions and when you opt-in to receiving marketing newsletters from Dick Smith which may include 
 
 Privacy law requires us to collect personal information _about you only from you_ if it is reasonable and practical to do so. 
 
-Woolworths takes measures to ensure your personal information is protected from unauthorised access, loss, misuse, disclosure or alteration. We also take measures to destroy or permanently de-identify personal information when it is no longer required. The types of measures we take vary with the type of information, and how it is collected and stored. 
+Dick Smith takes measures to ensure your personal information is protected from unauthorised access, loss, misuse, disclosure or alteration. We also take measures to destroy or permanently de-identify personal information when it is no longer required. The types of measures we take vary with the type of information, and how it is collected and stored. 
 
 Generally, you have no obligation to provide any information requested by us. If you choose to withhold requested information however, we may not be able to provide you with the goods and services that depend on the collection of that information, particularly if the collection of that information is required by law. 
 
