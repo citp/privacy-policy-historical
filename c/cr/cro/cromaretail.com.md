@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cromaretail.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122123757id_/http%3A//www.cromaretail.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cromaretail.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529092008id_/http%3A//www.cromaretail.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -7,7 +7,7 @@ Infiniti Retail Limited owns and operates www.cromaretail.com ("Website") and In
   
 
 * **SCOPE AND APPLICABILITY OF THIS POLICY**  
-This Privacy Policy (the "Policy") is effective from _______ as amended from time to time and applies to IRL, its affiliates and its subsidiary companies, its employees, staff and team members who collect, possess, use, process, record, store, transfer, disclose, deal, handle and receive, the sensitive personal data or information by and on behalf of IRL's clients/customers ("Client(s)") including the sensitive personal data or information of the clients/customers of such Clients ("Client Contacts") which has been given to IRL by such Clients and/or the Client Contacts ("You" or "Your") while rendering services to them and third parties in India or overseas including but not limited to any consultants, contractors, advisors, accountants, agents, person, representatives of IRL and/or service providers etc who provide services to or on IRL's behalf in connection with its business ("Third Party"). This Policy summarizes what type of Sensitive Personal Data or Information (as defined hereinafter) We collect about You, purpose of collection, storage and usage of such data or information, to whom such data or information may be disclosed/transferred and how We protect Your privacy. 
+This Privacy Policy (the "Policy") is effective from 1st April, 2012 as amended from time to time and applies to IRL, its affiliates and its subsidiary companies, its employees, staff and team members who collect, possess, use, process, record, store, transfer, disclose, deal, handle and receive, the sensitive personal data or information by and on behalf of IRL's clients/customers ("Client(s)") including the sensitive personal data or information of the clients/customers of such Clients ("Client Contacts") which has been given to IRL by such Clients and/or the Client Contacts ("You" or "Your") while rendering services to them and third parties in India or overseas including but not limited to any consultants, contractors, advisors, accountants, agents, person, representatives of IRL and/or service providers etc who provide services to or on IRL's behalf in connection with its business ("Third Party"). This Policy summarizes what type of Sensitive Personal Data or Information (as defined hereinafter) We collect about You, purpose of collection, storage and usage of such data or information, to whom such data or information may be disclosed/transferred and how We protect Your privacy. 
   
 
 * **TYPES OF SENSITIVE PERSONAL DATA OR INFORMATION WE COLLECT**   
@@ -110,6 +110,15 @@ To further ensure enforcement of this Policy, The standard or code of best pract
 
 * **RETENTION OF YOUR SENSITIVE PERSONAL DATA OR INFORMATION**  
 We are aware of the importance of timely destruction of Sensitive Personal Data or Information. We ensure that Your Sensitive Personal Data or Information is not stored/retained for a longer period than necessary for the purpose for which it was collected, used or processed or as provided in our contracts except when there is a legal obligation to do so under any law. It is our practice to destroy Your Sensitive Personal Data or Information as soon as possible after it is no longer necessary for the purpose for which it was collected, used or processed save and except as stated hereinabove. 
+  
+
+* **UPDATING OR REVIEWING YOUR SENSITIVE PERSONAL DATAORINFORMATION/ QUESTIONS OR COMPLAINTS**   
+You may by a written request review the Sensitive Personal Data or Information provided by You. We will ensure that any Sensitive Personal Data or Information about You which is found to be inaccurate or deficient shall be corrected or amended as may be feasible. 
+
+You expressly state that Sensitive Personal Data or Information provided by You to us is correct and complete in all respects and does not contain any false, distorted, manipulated, fraudulent or misleading facts. We expressly disclaim any liability arising out of the said data or information provided by You to us. Further, You expressly agree that We are not responsible for the accuracy and authenticity of such data or information provided by You to us and You agree to indemnify IRL for all losses incurred by IRL due to any false, distorted, manipulated, defamatory, libelous, vulgar, obscene, fraudulent or misleading facts made by You to IRL. 
+
+Incase of any discrepancies or grievances with regard to the processing of Your Sensitive Personal Data or Information, please contact Mr. Shashank Singh / Mr. Dean Faria (the "Grievance Officer") at +91(22) 67613600. Further on receipt of any concerns or complaints the Grievance Officer will employ all commercially reasonable efforts to address the same within one (1) month of receipt of same. 
+
   
 
 * **ENFORCEMENT RIGHTS**   
