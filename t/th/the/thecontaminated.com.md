@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecontaminated.com privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127025554id_/http%3A//thecontaminated.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecontaminated.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529174958id_/http%3A//thecontaminated.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TheContaminated - Cool Pictures, Weird Pictures, Funny Pictures
 
@@ -21,19 +21,31 @@ If you have any questions about this privacy statement, the practices of this si
 
 Amazing Stories
 
-#### [Visiting Thailand on a Budget](http://thecontaminated.com/visiting-thailand-on-a-budget/ "Visiting Thailand on a Budget")
+#### [9 Features that Boost Your Home Value](http://thecontaminated.com/9-features-that-boost-your-home-value/ "9 Features that Boost Your Home Value")
 
-[](http://thecontaminated.com/visiting-thailand-on-a-budget/ "Visiting Thailand on a Budget")
+[](http://thecontaminated.com/9-features-that-boost-your-home-value/ "9 Features that Boost Your Home Value")
 
-Many people would love to visit Thailand but think that they would not be able to afford it. However, it is not worth giving up on the idea because there are always ways to make a budget stretch if yo...
+Updated Kitchen A kitchen can be a real selling point in a house. It is one of the main rooms that people look at and if it is out of date, they will worry about the expense of making it look good whe...
 
-#### [The Biggest Online Poker hand Ever Played?](http://thecontaminated.com/the-biggest-online-poker-hand-ever-played/ "The Biggest Online Poker hand Ever Played?")
+#### [The Biggest Poker Wins Ever](http://thecontaminated.com/the-biggest-poker-wins-ever/ "The Biggest Poker Wins Ever")
 
-[](http://thecontaminated.com/the-biggest-online-poker-hand-ever-played/ "The Biggest Online Poker hand Ever Played?")
+[](http://thecontaminated.com/the-biggest-poker-wins-ever/ "The Biggest Poker Wins Ever")
 
-People from all over the world play online poker for many different reasons. Some do it to while away a few hours each night and maybe see if they can make a few bucks. Some players never play for rea...
+When playing poker it can always be great to dream about making a massive win. It can really inspire you to keep playing if you find out more about people who win big. Some people will be professional...
 
 Cool Stuff
+
+#### [5 Bedding Options for Kids Rooms](http://thecontaminated.com/5-bedding-options-for-kids-rooms/ "5 Bedding Options for Kids Rooms")
+
+[](http://thecontaminated.com/5-bedding-options-for-kids-rooms/ "5 Bedding Options for Kids Rooms")
+
+If you have a child, then you may just think they will need a regular bed, once they have outgrown their cot. However, there are a whole range of options out there and it is worth considering them all...
+
+#### [Keeping Your Drink Looking and Tasting Cool!](http://thecontaminated.com/keeping-your-drink-looking-and-tasting-cool/ "Keeping Your Drink Looking and Tasting Cool!")
+
+[](http://thecontaminated.com/keeping-your-drink-looking-and-tasting-cool/ "Keeping Your Drink Looking and Tasting Cool!")
+
+Everyone knows that having a cool drink is a must. Drinking out of a bottle or can in the summer can be extremely unpleasant if the drink is not cool and if it is kept out in the hot sun or in a warm ...
 
 #### [How Women Bands Looked Like a Few Decades Ago](http://thecontaminated.com/how-women-bands-looked-like-a-few-decades-ago/ "How Women Bands Looked Like a Few Decades Ago")
 
@@ -41,14 +53,10 @@ Cool Stuff
 
 It seems that women in past have been as same active in the world of music and stage arts as they are today. Despite the fact we think that human society was way more conservative about forty or fifty...
 
-#### [Incredible Car Fountain in Italy](http://thecontaminated.com/incredible-car-fountain-in-italy/ "Incredible Car Fountain in Italy")
+Technology
 
-[](http://thecontaminated.com/incredible-car-fountain-in-italy/ "Incredible Car Fountain in Italy")
+#### [Best Graphing Calculators for iPhone/iPad/iOS](http://thecontaminated.com/best-graphing-calculators-for-iphoneipadios/ "Best Graphing Calculators for iPhone/iPad/iOS")
 
-This is amazing fountain. This fountain set up in Rome, Italy. Artist is Juan Galdeano, Spanish....
+[](http://thecontaminated.com/best-graphing-calculators-for-iphoneipadios/ "Best Graphing Calculators for iPhone/iPad/iOS")
 
-#### [Amazing Architectures made out of Toothpicks](http://thecontaminated.com/amazing-architectures-made-out-of-toothpicks/ "Amazing Architectures made out of Toothpicks")
-
-[](http://thecontaminated.com/amazing-architectures-made-out-of-toothpicks/ "Amazing Architectures made out of Toothpicks")
-
-Stain Monro from New York was created these amazing architectures out of toothpicks. He is very talented, here are all the most famous buildings in the world. How long should it all done ??...
+There are many calculators apps for iPhones and considering we have been using the calculators on our phones long before we had iPhones (in fact we often used them on our digital watches), they are a ...
