@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doe.gov privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127173604id_/http%3A//www.doe.gov/about-us/web-policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doe.gov privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529052004id_/http%3A//www.doe.gov/about-us/web-policies/privacy) for the most accurate reproduction.*
 
 # Privacy | Department of Energy
 
