@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the arizonalottery.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231204832id_/http%3A//www.arizonalottery.com/About/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arizonalottery.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529202519id_/http%3A//www.arizonalottery.com/About/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Disclaimer  
-**  
-Although every effort is made to ensure the accuracy of the winning number information on this World Wide Web site, mistakes can occur. In the event of any discrepancies, Arizona State laws, Lottery regulations, and the Arizona State Lottery official audited records of the numbers that were drawn will determine the winner rather than the numbers published on the web. 
+**Disclaimer**
+
+Although every effort is made to ensure the accuracy of the winning number information on this World Wide Web site, mistakes can occur. In the event of any discrepancies, Arizona State laws, Lottery regulations, and the Arizona State Lottery official audited records of the numbers that were drawn will determine the winner rather than the numbers published on the web.
 
 Complete game information and prize claiming instructions are available on this web site and at Arizona Lottery retailers. Any links from this site to websites maintained by third parties does not imply endorsement by the Lottery. The Lottery makes no effort to independently verify and does not exert editorial control over information on pages outside of the Lottery website.
 
@@ -34,6 +34,3 @@ The Arizona Lottery website has links to other websites. When you link to anothe
 
 This policy may be updated or revised from time to time, so please check back periodically in order to receive advance notice of any substantive changes to the manner in which the information you disclose on this website may be collected, used, or disseminated.  
  
-
-  
-
