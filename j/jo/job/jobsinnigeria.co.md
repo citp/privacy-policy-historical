@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jobsinnigeria.co privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919215722id_/http%3A//jobsinnigeria.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsinnigeria.co privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529234404id_/http%3A//jobsinnigeria.co/privacy) for the most accurate reproduction.*
 
-# Privacy | Jobs in Nigeria
+# Privacy - Jobs in Nigeria
 
 ## **Privacy Policy for _http://www.jobsinnigeria.co_** **  
 **
