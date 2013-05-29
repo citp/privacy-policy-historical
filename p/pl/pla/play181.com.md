@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the play181.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225215027id_/http%3A//www.play181.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the play181.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530003058id_/http%3A//www.play181.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Play181 Flash Games Arcade
+# Privacy Policy | Play181 Flash Games Arcade
 
 **PLAY181.com is committed to providing an entertaining time to all of our visitors and we take your right to privacy very seriously.This privacy policy describes how and why we obtain, store and process data which can identify you as a user. By using PLAY181.com you agree to this policy. We may update this policy from time to time. Any changes will be on this page.**
 
