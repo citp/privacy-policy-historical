@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 10upload.com privacy policy that was archived on 2012-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121009080246id_/http%3A//www.queenshare.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 10upload.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529212932id_/http%3A//www.queenshare.com/privacy.html) for the most accurate reproduction.*
 
 # queenshare.com - Easy way to share your files
 
@@ -74,4 +74,4 @@ queenshare.com reserves the right to change or update this Privacy Policy at any
 
 *  **Contact Us**
 
-If you have any questions about this Privacy Policy, the practices of the Website or your dealings with the Website, please [Contact Us.](https://web.archive.org/web/20121009080246id_/http%3A//www.queenshare.com/contact.html)
+If you have any questions about this Privacy Policy, the practices of the Website or your dealings with the Website, please [Contact Us.](https://web.archive.org/web/20130529212932id_/http%3A//www.queenshare.com/contact.html)
