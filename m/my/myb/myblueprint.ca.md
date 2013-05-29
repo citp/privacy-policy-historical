@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myblueprint.ca privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107170339id_/http%3A//myblueprint.ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myblueprint.ca privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530013730id_/http%3A//myblueprint.ca/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | myBlueprint
 
@@ -52,9 +52,10 @@ When a person under age 13 attempts to create a profile on www.myBlueprint.ca, a
 
 If you have any questions or concerns about this Privacy Policy, or if you would like to review your personal information, you can contact us at: [info@myBlueprint.ca](mailto:info@myBlueprint.ca)
 
-1999 Avenue Road, Unit 101  
+3376A Yonge Street  
 Toronto, Ontario  
-M5M 4A5  
+M4N 2M8  
+Canada  
 416-901-5555
 
 Any dispute arising between you and Doublethink Inc. with respect to privacy is subject to the terms and conditions of use and this Privacy Policy, including limitations on damages, arbitration and application of the laws of the Province of Ontario. We reserve the right to change this Privacy Policy at any time by posting the policy changes on our website. Site visitors are advised to periodically check this website for such changes.
