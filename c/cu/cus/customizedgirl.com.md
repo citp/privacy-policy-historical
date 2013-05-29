@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the customizedgirl.com privacy policy that was archived on 2012-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121128131629id_/http%3A//www.customizedgirl.com/%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the customizedgirl.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529203920id_/http%3A//www.customizedgirl.com/%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # CustomziedGirl | Privacy Policy
 
@@ -103,7 +103,7 @@ If you have any questions regarding our Privacy Policy, please contact our priva
 
 Privacy Officer  
 E Retailing Associates, LLC  
-2800 Wilson Rd   
+2282 Westbrooke Dr.   
 Columbus, OH 43228  
 Fax: 614-781-9745  
 Email: [info@eretailing.com](mailto:info@eretailing)  
