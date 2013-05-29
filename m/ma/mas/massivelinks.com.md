@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the massivelinks.com privacy policy that was archived on 2012-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121112185723id_/http%3A//www.massivelinks.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the massivelinks.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529203655id_/http%3A//www.massivelinks.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Massivelinks Privacy Policy
 
