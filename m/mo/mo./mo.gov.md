@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mo.gov privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228204821id_/http%3A//www.mo.gov/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mo.gov privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529142752id_/http%3A//www.mo.gov/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - MO.gov
 
@@ -14,7 +14,7 @@ While you browse the web site our operating system will automatically record the
 
   * The name of the domain from which you accessed our web site. For example, if you are connecting from an America Online account, the fact that someone who visited this web site uses AOL as an Internet service provider will be known, but the individual e-mail address of the user will not be known.
   * The date and time any page on our site was accessed.
-  * The address (also called the URL) of the web site from which any page on this site was linked. For example, if you clicked on a hyperlink on the [Office of Administration](http://www.mo.gov/government/guide-to-missouris-government/office-of-administration/ "Office of Administration") web site to reach the State of Missouri web site, that fact is recorded. However, as discussed above, your identity remains unknown.
+  * The address (also called the URL) of the web site from which any page on this site was linked. For example, if you clicked on a hyperlink on the Office of Administration web site to reach the State of Missouri web site, that fact is recorded. However, as discussed above, your identity remains unknown.
   * The type of browser being used, such as “Netscape Version X.X” or “Internet Explorer Version X.X”.
   * The type of operating system you use such as Macintosh, Unix, or Windows.
 
@@ -48,4 +48,4 @@ We will post any changes in this privacy policy at least 30 days prior to the ch
 
 ## For More Information
 
-If you have any [questions](http://www.mo.gov/inauguration/questions/ "questions") or comments about our privacy policy, [contact the webmaster](http://www.mo.gov/contact/).
+If you have any questions or comments about our privacy policy, [contact the webmaster](http://www.mo.gov/contact/).
