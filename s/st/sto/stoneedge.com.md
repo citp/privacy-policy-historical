@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stoneedge.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230192415id_/http%3A//www.monsooncommerce.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stoneedge.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529214013id_/http%3A//www.monsooncommerce.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Monsoon Commerce
 
