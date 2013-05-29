@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dimox.net privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218024128id_/http%3A//dimox.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dimox.net privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529214156id_/http%3A//dimox.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy » Ultimate Web Development (CSS, HTML, jQuery, WordPress) - Dimox.net
+# Privacy Policy » Dimox.net
 
 At Dimox.net, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by Dimox.net and how it is used.
 
