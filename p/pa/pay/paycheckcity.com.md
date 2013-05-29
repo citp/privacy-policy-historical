@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paycheckcity.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227094836id_/http%3A//www.paycheckcity.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paycheckcity.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529203726id_/https%3A//www.paycheckcity.com/pages/privacy-policy.php) for the most accurate reproduction.*
 
 # PayCheckCity Privacy Policy
 
@@ -32,9 +32,11 @@ We use industry standard techniques including firewalls, encryption, intrusion d
 
   
 How can you help protect your information?  
-If you are using a PAYCHECKCITY® web site for which you registered and chose an Access Code, we recommend that you do not divulge your Access Code to anyone. We will never ask you for your Access Code in an unsolicited phone call or in an unsolicited e-mail. Also remember to sign out of the registered site and close your browser window when you have finished your work. This is to ensure that others cannot access your personal information and correspondence if others have access to your computer. Other PAYCHECKCITY® sites may contain links to other sites, including those of our business partners. While we seek to link only to sites that share our high standards and respect for privacy, we are not responsible for the privacy practices employed by other sites. If you have questions or concerns regarding this Policy, please [contact us](http://www.paycheckcity.com/pages/contact.asp).
+If you are using a PAYCHECKCITY® web site for which you registered and chose an Access Code, we recommend that you do not divulge your Access Code to anyone. We will never ask you for your Access Code in an unsolicited phone call or in an unsolicited e-mail. Also remember to sign out of the registered site and close your browser window when you have finished your work. This is to ensure that others cannot access your personal information and correspondence if others have access to your computer. Other PAYCHECKCITY® sites may contain links to other sites, including those of our business partners. While we seek to link only to sites that share our high standards and respect for privacy, we are not responsible for the privacy practices employed by other sites. If you have questions or concerns regarding this Policy, please [contact us](https://web.archive.org/pages/contact-us.php).
 
   
 Last Updated: May 17, 2011
 
-[Contact PaycheckCity®](http://www.paycheckcity.com/contact-us.htm) for more information about our [payroll withholding calculators](http://www.paycheckcity.com/products-solutions/private-label-calculators.htm), and other payroll tools including the [Symmetry Tax Engine®](http://www.paycheckcity.com/products-solutions/ste.htm) and [private-label paycheck calculators](http://www.paycheckcity.com/products-solutions/private-label-calculators.htm).
+[Contact PaycheckCity®](https://web.archive.org/pages/contact-us.php) for more information about our [payroll withholding calculators](https://web.archive.org/pages/products-solutions/private-label-calculators.php), and other payroll tools including the [Symmetry Tax Engine®](https://web.archive.org/pages/products-solutions/ste.php) and [private-label paycheck calculators](https://web.archive.org/pages/products-solutions/private-label-calculators.php).
+
+Last Updated on Tuesday, 23 October 2012 13:26 
