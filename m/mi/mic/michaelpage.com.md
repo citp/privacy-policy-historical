@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the michaelpage.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016030833id_/http%3A//www.michaelpage.com/content/6-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the michaelpage.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529223045id_/http%3A//michaelpage.com/content/6-privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# 
 
 ## Data Protection and Privacy Policy
 
-Michael Page International's online service is committed to protecting the privacy of our users. We want to provide a safe and secure user experience.  We will ensure that the information you submit to us via our website at michaelpage.com (The Michael Page International Site) remains private, and is only used for the purposes set out in this policy. 
+Michael Page's online service is committed to protecting the privacy of our users. We want to provide a safe and secure user experience.  We will ensure that the information you submit to us via our website at michaelpage.com (The Michael Page Site) remains private, and is only used for the purposes set out in this policy. 
 
 ## The Information We Collect and How We Use It
 
@@ -19,13 +19,13 @@ Your personal details, including your name, e-mail address and CV, are held and 
 
 **Disclosures of your information**
 
-We will share your information within the Michael Page International group of companies where necessary in order to provide you with our recruitment services. 
+We will share your information within the Michael Page group of companies where necessary in order to provide you with our recruitment services. 
 
-It is possible that Michael Page International could merge or be acquired by another business. If this happens, we may share the information that relates to you with the new owners of the business and their advisers. You will be sent notice of such an event.
+It is possible that Michael Page could merge or be acquired by another business. If this happens, we may share the information that relates to you with the new owners of the business and their advisers. You will be sent notice of such an event.
 
 Your CV and related information will be sent to prospective employers but only where you give your consent.
 
-We may also release information relating to you to regulatory or law enforcement authorities, if required to do so. We also reserve the right to disclose the information we have collected about you to our professional advisors and to other persons to the extent that Michael Page International contracts out any aspect of the operation of its recruitment agency services.  These third parties will be acting under similar undertakings of confidentiality as Michael Page International.
+We may also release information relating to you to regulatory or law enforcement authorities, if required to do so. We also reserve the right to disclose the information we have collected about you to our professional advisors and to other persons to the extent that Michael Page contracts out any aspect of the operation of its recruitment agency services.  These third parties will be acting under similar undertakings of confidentiality as Michael Page.
 
 ## Job Alerts
 
@@ -37,11 +37,11 @@ Job alerts can also be received via RSS feeds without having to provide your ema
 
 ## Curriculum vitae ('CV')
 
-We give you the option of submitting your CV via this website. You can do this either to apply for a specific advertised job or for consideration by our recruitment consultants for positions as they come up. Although your CV will be stored online, it will only be accessible by Michael Page International group recruitment consultants. Your CV will also be e-mailed directly to our recruitment consultants who review your details and enter them onto our central in-house database. 
+We give you the option of submitting your CV via this website. You can do this either to apply for a specific advertised job or for consideration by our recruitment consultants for positions as they come up. Although your CV will be stored online, it will only be accessible by Michael Page group recruitment consultants. Your CV will also be e-mailed directly to our recruitment consultants who review your details and enter them onto our central in-house database. 
 
 You can update your CV at any time, simply by following the same procedure to submit a new CV. Your old CV will automatically be replaced. 
 
-## Aggregate Information about Michael Page International online visitors
+## Aggregate Information about Michael Page online visitors
 
 We gather information and statistics collectively about all visitors to this website and all of the Michael Page websites worldwide, for example, which area users' access most frequently and which services users' access the most. We only use such data in the aggregate form. This information helps us determine what is most beneficial for our users and how we can continually improve our online services to create a better overall experience for our users.  We also publish some of this information on the Michael Page websites worldwide.
 
@@ -51,16 +51,16 @@ A cookie is a small data file which is sent from a web server to a web browser w
 
 ## Access
 
-You have the right at any time to ask us for a copy of the information supplied by you that we hold. We have the right to charge an administrative fee for this service. If you would like to make a request for information, please contact [webmaster@michaelpage.us.com](mailto:webmaster@michaelpage.us.com). You also have the right to ask Michael Page International to stop using your information.
+You have the right at any time to ask us for a copy of the information supplied by you that we hold. We have the right to charge an administrative fee for this service. If you would like to make a request for information, please contact [webmaster@michaelpage.us.com](mailto:webmaster@michaelpage.us.com). You also have the right to ask Michael Page to stop using your information.
 
 ## Other websites
 
-Please note that clicking on to links and banner advertisements may result in your transfer to another website, where data privacy practices may be different to that of Michael Page International. Visitors should consult the other websites' privacy policies as we are not responsible for, and have no control over, information that is submitted to or collected by these third parties. 
+Please note that clicking on to links and banner advertisements may result in your transfer to another website, where data privacy practices may be different to that of Michael Page. Visitors should consult the other websites' privacy policies as we are not responsible for, and have no control over, information that is submitted to or collected by these third parties. 
 
 ## Internet-based transfers
 
-Given that the Internet is a global environment, using the Internet to collect and process personal data necessarily involves the transmission of data on an international basis. Therefore, by browsing this web site and communicating electronically with us, you acknowledge and agree to our processing of personal data in this way.
+Given that the Internet is a global environment, using the Internet to collect and process personal data necessarily involves the transmission of data on an basis. Therefore, by browsing this web site and communicating electronically with us, you acknowledge and agree to our processing of personal data in this way.
 
 ## Changes to our Privacy Policy
 
-This privacy policy may be changed by Michael Page International at any time.  If we change our privacy policy in the future, we will set out those changes here, so that you will always know what personal information we gather, the purposes we might use it for and to whom we might disclose it. If, at any time, you have questions or concerns about Michael Page International's online privacy commitment, please feel free to e-mail us at [webmaster@michaelpage.us.com](mailto:webmaster@michaelpage.us.com) or call your local office to speak to one of our representatives.
+This privacy policy may be changed by Michael Page at any time.  If we change our privacy policy in the future, we will set out those changes here, so that you will always know what personal information we gather, the purposes we might use it for and to whom we might disclose it. If, at any time, you have questions or concerns about Michael Page's online privacy commitment, please feel free to e-mail us at [webmaster@michaelpage.us.com](mailto:webmaster@michaelpage.us.com) or call your local office to speak to one of our representatives.
