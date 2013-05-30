@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the patientslikeme.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221082954id_/http%3A//www.patientslikeme.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the patientslikeme.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530073217id_/http%3A//www.patientslikeme.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -72,17 +72,17 @@ When a Member enters Personal Information, including name and email address, as 
 A cookie is a small data file that often includes an anonymous, unique token, which is sent to your browser from a website’s computers and may be stored on your computer’s hard drive. Two types of cookies are required to use the Site:
 
   * Session Cookies are temporary cookies that remain only until you log out of the website or exit your web browser. Session Cookies do not store any Personal Information, only a unique visitor ID number that may be used to ensure Members are properly authenticated and can view site information.
-  * Persistent Cookies remain in the cookie file of your browser for much longer, even after you leave the Site. Persistent Cookies also do not store any Personal Information. Persistent Cookies store preferences that should persist from visit to visit, like “Remember Me,” and a unique token to enable us to understand how Members use the Site.
+  * Persistent Cookies remain in the cookie file of your browser for much longer, even after you leave the Site. Persistent Cookies also do not store any Personal Information. Persistent Cookies store preferences that should persist from visit to visit, like “Remember Me,” and a unique token to enable us to understand how Members use the Site (“Site Usage”).
 
 
 
-## How your shared and restricted data is used
+## How your data is used
 
 Members should expect that every piece of information they submit (even if it is not currently displayed), except for Restricted Data, may be shared with the community, other patients, and Partners. Members are encouraged to share health information but should consider that the more information that is entered, the more likely it is that a Member could be located or identified.
 
 There are instances where both Shared Data and Restricted Data, including Personal Information, may be used and disclosed including, but not limited to, the following:
 
-  * PatientsLikeMe uses both Shared Data and Restricted Data internally, as needed, for research, for maintenance and operation of the Site, and to create the best possible tools and functionality for patients.
+  * PatientsLikeMe uses Shared Data, Restricted Data, and Site Usage internally, as needed, for research, for maintenance and operation of the Site, and to create the best possible tools and functionality for patients.
   * PatientsLikeMe may use a Member’s data in the case of an emergency or other circumstance that we determine requires a member of the management team to directly contact the Member.
   * PatientsLikeMe may share or disclose a Member’s data where required by law or to comply with legal process.
   * In the event PatientsLikeMe goes through a business transition, such as a merger, acquisition by another organization, or sale of all or a portion of its assets, the Shared Data and Restricted Data, including Personal Information, might be among the assets transferred. Members will be notified via this Site of any such change in ownership or control of Personal Information.
@@ -146,7 +146,7 @@ Members should understand that anyone can register at PatientsLikeMe and view th
 
 In using the Site, Members are free to skip any non-required questions or data fields that make them feel uncomfortable. Members are also free to stop using this service at any time. If a Member chooses to deactivate his/her account, PatientsLikeMe will not display or sell the data in that account as of the date of deactivation. However, the Member’s data will remain in the system for auditing purposes, and research conducted prior to the deactivation of a Member’s account will still include the Member’s data.
 
-## EU Safe Harbor
+## Safe Harbor Compliance
 
 PatientsLikeMe complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. PatientsLikeMe has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view PatientsLikeMe’s certification, please visit <http://www.export.gov/safeharbor/>
 
@@ -164,8 +164,10 @@ Cambridge, MA 02141
 
 ### History of Updates/Changes to Terms and Conditions of Use:
 
+  * On Apr 11, 2013, the heading to “How Your Data is Used” was changed and clarifying language was added to both the Cookies and How Your Data is Used sections.
+  * On Feb 16, 2013, the Safe Harbor section was updated.
   * On Mar 5, 2012, this Privacy Policy was revised to clarify language and provide specific examples to help illustrate the meaning of portions of the policy.
-  * On Aug 25, 2011, the following section was added: “EU Safe Harbor”.
+  * On Aug 25, 2011, the following section was added: “EU Save Harbor”.
   * On Feb 21, 2011, this Privacy Policy was substantially revised to clarify language and provide specific examples to help illustrate the meaning of portions of the policy.
   * On Nov 18, 2009, this Privacy Policy was substantially revised to clarify language and provide specific examples to help illustrate the meaning of portions of the policy.
   * On Aug 7, 2007, this Privacy Policy was substantially revised and expanded to include additional patient consent language.
