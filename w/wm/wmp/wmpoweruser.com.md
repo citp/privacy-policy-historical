@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the wmpoweruser.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123090931id_/http%3A//wmpoweruser.com/wmpoweruser-com-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wmpoweruser.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530075458id_/http%3A//wmpoweruser.com/wmpoweruser-com-privacy-policy) for the most accurate reproduction.*
 
 # WMPoweruser.com Privacy Policy | WMPoweruser
+
+**Â  **
 
 ****Information about our Organisation and Web site****
 
@@ -107,15 +109,3 @@ We will provide you with a readable copy of the personal data which we keep abou
 We reserve the right to refuse to provide our visitors with a copy of their personal data, but will give reasons for our refusal.
 
 We do, however, allow you to challenge our decision to refuse to provide you with a copy of your personal data.
-
-#### About Surur 
-
-Site Admin and Windows Phone enthusiast, he has been using Windows Mobile devices since before they were called PocketPC’s. He is currently sporting a Nokia Lumia 920.
-
-  * [   Blog](http://wmpoweruser.com/ "Read Surur’s blog")
-  * [   Twitter](http://twitter.com/wmpoweruser "Follow Surur on Twitter")
-  * [   Facebook](http://www.facebook.com/pages/wmpowerusercom/37708414657 "Be Surur’s friend on Facebook")
-
-
-
-[0](http://wmpoweruser.com/wmpoweruser-com-privacy-policy/)
