@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businessvibes.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010151606id_/http%3A//www.businessvibes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessvibes.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530165352id_/http%3A//www.businessvibes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BusinessVibes
 
@@ -15,9 +15,6 @@ The data stored on BusinessVibes is exclusively intended to help you enhance you
 Email: [help@businessvibes.com](mailto:help@businessvibes.com)  
 By post at:  
 BusinessVibes – Customer Service Department
-
-  
- 
 
 Businessvibes Network International Inc.
 
