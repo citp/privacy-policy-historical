@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lawguru.com privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105162605id_/https%3A//www.lawguru.com/answers/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lawguru.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530175807id_/https%3A//www.lawguru.com/answers/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - LawGuru Answers: Ask an Attorney a Free Legal Question
 
