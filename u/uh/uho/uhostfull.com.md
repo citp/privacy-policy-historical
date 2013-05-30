@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the uhostfull.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222170437id_/http%3A//uhostfull.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uhostfull.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530100853id_/http%3A//www.uhostfull.com/privacy.php) for the most accurate reproduction.*
 
 # U Host Full | Privacy Policy
 
   
-This notice applies to all information collected on the U Host All website, or submitted to U Host All at any time through any of our services on the website. Personally Identifiable Information - When visiting U Host All`s Web site and signing-up for or using an U Host All powered service such as registering for a domain, our Forum, Tell-A-Friend or Reporting Abuse, you may choose to supply U Host All with information that identifies you personally. This information may include your name and contact information, as well as other demographic or commerce related information.
+This notice applies to all information collected on the U Host Full website, or submitted to U Host Full at any time through any of our services on the website. Personally Identifiable Information - When visiting U Host Full`s Web site and signing-up for or using an U Host Full powered service such as registering for a domain, our Forum, Tell-A-Friend or Reporting Abuse, you may choose to supply U Host Full with information that identifies you personally. This information may include your name and contact information, as well as other demographic or commerce related information.
 
 **Log Files**
 
@@ -19,11 +19,11 @@ If you use the Support Forum on this site, you should be aware that any personal
 
 **Internal Surveys**
 
-Upon using our services, you will be requested to participate in our periodic internal surveys which are conducted by U Host All to determine your personal interests. These surveys are strictly voluntary. The data collected through these surveys will be used solely to determine the type of advertisements you will be exposed with when you are logged in to your control panel account. Each survey will be sponsored by our partners, which will be in a form of survey prizes. However, any PII collected will not be shared in any way to any of our partners or affiliates. The information collected will only be used to enhance our Web site and your experience and to award prizes. The surveys will be prompted when you are logging in to your U Host All account, a new survey will be prompted to you, whenever it is available.
+Upon using our services, you will be requested to participate in our periodic internal surveys which are conducted by U Host Full to determine your personal interests. These surveys are strictly voluntary. The data collected through these surveys will be used solely to determine the type of advertisements you will be exposed with when you are logged in to your control panel account. Each survey will be sponsored by our partners, which will be in a form of survey prizes. However, any PII collected will not be shared in any way to any of our partners or affiliates. The information collected will only be used to enhance our Web site and your experience and to award prizes. The surveys will be prompted when you are logging in to your U Host Full account, a new survey will be prompted to you, whenever it is available.
 
 **Communications From The Site**
 
-When we receive email, we use return email addresses to reply with the information requested. Such addresses are not used for any other purpose and are not shared with outside parties. Information you submit to us will not be used for this purpose unless you elect to participate in the U Host All program or otherwise consent. You will receive a confirmation email from us when placing an order on our site and paying through one of our trusted 3rd parties such as PayPal or any Checkout. They only share back information with us about the transaction such as your name, item ordered, email address, etc.
+When we receive email, we use return email addresses to reply with the information requested. Such addresses are not used for any other purpose and are not shared with outside parties. Information you submit to us will not be used for this purpose unless you elect to participate in the U Host Full program or otherwise consent. You will receive a confirmation email from us when placing an order on our site and paying through one of our trusted 3rd parties such as PayPal or any Checkout. They only share back information with us about the transaction such as your name, item ordered, email address, etc.
 
 **Choice/Opt-out**
 
@@ -31,11 +31,11 @@ We provide you the opportunity to opt-out of having your personally identifiable
 
 **Information Sharing and Disclosure**
 
-We share aggregated demographic information about our user base with our partners and advertisers. This information does not identify individual users. We use non-identifying and aggregate information to better design our Web site and services, and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our Web site, or that Y number of men and Z number of women use a certain service, but we would not disclose anything that could be used to identify those individuals unless they indicated this as their preference by participating in the U Host All program. We do not link aggregate user data with personally identifiable information.
+We share aggregated demographic information about our user base with our partners and advertisers. This information does not identify individual users. We use non-identifying and aggregate information to better design our Web site and services, and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our Web site, or that Y number of men and Z number of women use a certain service, but we would not disclose anything that could be used to identify those individuals unless they indicated this as their preference by participating in the U Host Full program. We do not link aggregate user data with personally identifiable information.
 
 **Personally identifiable information:**
 
-U Host All does not share, sell, rent, or trade PII with third parties for their promotional purposes except with your consent as described in this privacy policy Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described within this privacy policy without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
+U Host Full does not share, sell, rent, or trade PII with third parties for their promotional purposes except with your consent as described in this privacy policy Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described within this privacy policy without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
 
 **How You Can Access Or Correct Your Information**
 
@@ -43,7 +43,7 @@ You can access all your personally identifiable information that we collect onli
 
 **Specific Terms and Conditions**
 
-U Host All considers email transmitted via our service to be the private correspondence between the sender and recipient. We will not monitor, edit or disclose the contents of a user`s private communications, except as required by law, to comply with legal process, if necessary to enforce the Service Agreement, to respond to claims that such contents violate the rights of third-parties, or to protect the rights or property of U Host All. By using the service you agree that technical processing of email communications is and may be required to send and receive messages, to conform to the technical requirements of connecting networks, to conform to the limitations of the Service, or to conform to other, similar technical requirements. By using the service you acknowledge and agree that U Host All do not endorse the content of any user communications and are not responsible or liable for any unlawful, harassing, libelous, privacy invading, abusive, threatening, harmful, vulgar, obscene, tortuous, or otherwise objectionable content, or content that infringes or may infringe the intellectual property or other rights of another.
+U Host Full considers email transmitted via our service to be the private correspondence between the sender and recipient. We will not monitor, edit or disclose the contents of a user`s private communications, except as required by law, to comply with legal process, if necessary to enforce the Service Agreement, to respond to claims that such contents violate the rights of third-parties, or to protect the rights or property of U Host Full. By using the service you agree that technical processing of email communications is and may be required to send and receive messages, to conform to the technical requirements of connecting networks, to conform to the limitations of the Service, or to conform to other, similar technical requirements. By using the service you acknowledge and agree that U Host Full do not endorse the content of any user communications and are not responsible or liable for any unlawful, harassing, libelous, privacy invading, abusive, threatening, harmful, vulgar, obscene, tortuous, or otherwise objectionable content, or content that infringes or may infringe the intellectual property or other rights of another.
 
 **Legal Disclaimer**
 
@@ -55,7 +55,7 @@ The security of your personal information is important to us. We follow generall
 
 **Links to Other Sites**
 
-This Web site contains links to other sites that are not owned or controlled by U Host All. Please be aware that we, U Host All are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies only to information collected by this Web site.
+This Web site contains links to other sites that are not owned or controlled by U Host Full. Please be aware that we, U Host Full are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies only to information collected by this Web site.
 
 **Changes in this Privacy Statement**
 
