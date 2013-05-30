@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the adverts.ie privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031155853id_/http%3A//www.adverts.ie/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adverts.ie privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531010031id_/http%3A//www.adverts.ie/privacy) for the most accurate reproduction.*
 
 # Privacy and Info
 
-Updated February 17th 2012
+Updated April 9th 2013
 
 You should carefully read our full Privacy Policy before deciding to become a member of Adverts.ie. 
 
@@ -17,6 +17,8 @@ Our Privacy Policy may change in the future. We invite you to check back periodi
 Adverts.ie Limited fully respects your right to privacy, and will not collect any personal information about you on this website without your clear permission. 
 
 **Any personal information which you volunteer in your public profile or post on a public thread will be available to anyone with access to the website.**
+
+**Any personal information which you include in a Personal Message while not publicly accessible is available to administrators of the Website.**
 
 **Do not post any information you are not happy leave up indefinitely. We recommend you do not post your name, address, telephone number email address or anything else that may lead someone to identify you if this is something you are uncomfortable with.**
 
@@ -41,6 +43,35 @@ By way of example (without limiting the foregoing) we may be forced to disclose 
 We reserve the right to and you hereby agree to allow us to disclose any information about you to law enforcement government officials or to any court or court officials as we in our sole discretion believe necessary or appropriate. 
 
 Nothing in this Agreement relating to the confidentiality of information shall prevent or hinder Adverts.ie from complying with its legal obligations as to disclosure or otherwise under the Data Protection Act 1988. 
+
+#### Adult Boutique category
+
+When a registered user is logged in, the account will be anonymous and the avatar is invisible. It will not be possible to view profiles or link into the users that have commented on adverts in this category. 
+
+Feedback will be available for the shop account after a purchase but the private user will not be able to receive feedback from the shop. Any feedback left by a registered user will also be anonymous. 
+
+Your User name will however be visible to the registered Adult Boutique shop so they can contact potential customers. 
+
+Please view the individual shops terms of sale and shipping policy. 
+
+#### Jobs Category
+
+Customers post information about employment, consultant or contractor vacancies on the Website, whether on their own behalf or, if a recruitment or consultancy, on behalf of third parties. These job ads can then be accessed and read by other users of the Website. You can search for featured employers on the Website in addition to searching by individual job type. Adverts.ie does not vet or monitor the job ads in terms of their terms and conditions applicable to the use of your personal information. 
+
+We may collect and process the following data about you: 
+
+  * details of applications for employment positions that you make using the Website. 
+  * details of resumes or curricula vitae which you make available on the Website for third parties to browse in connection with employment, consultant or contractor positions. 
+
+
+
+We use information held about you to provide registered Customers of the Website with the information that you submit to the Website in response to a job ad. Submission of information by you to a particular job ad is treated by us to be permission to forward to that information to the Customer or Customers that have posted that job ad only. 
+
+We do not request (nor encourage you) to submit sensitive data in a CV to the Website, (i.e. data relating to racial or ethnic origin, political or religious opinions, membership of a trade union, physical or mental health or condition or sexual life, the commission of any offence or related documentation). If, however, you choose to do so then you consent to our processing this data in the manner set out in this Privacy Policy 
+
+You should be aware that when you disclose personally identifiable information and agree to make that information available to our Customers on the Website (e.g. by submitting a CV in response to a job ad) that the information disclosed in your communication may be used by the Customer. These third parties may use your information (for example they may contact you, arrange an interview with you, review your suitability for a particular position) and such third activities are beyond our control. 
+
+If you have submitted information directly to Customer in respect of a particular job ad then you understand that we process that information as an agent of the Customer. We may hold a back-up copy of the information that you submit, but only as an agent of the Customer. If you wish to modify or deal with your personal information submitted in respect of a particular job ad then you should contact the Customer directly, as they have responsibility for that personal information. As agent of the Customer, we will comply with the Customer’s instructions in respect of that personal information. If you wish to understand the Customer’s data protection or privacy policy with regards to the dealings at it has with your personal information then you should contact the Customer directly to establish such terms. 
 
 #### Your password
 
@@ -121,6 +152,8 @@ Like many websites, we use "cookies" to enable us to personalise your visits to 
 
 Like all websites, our servers automatically record 'log files' containing information about the volume and characteristics of our website traffic e.g. IP address, numbers of pages viewed, length of time spent on site. We use log files to build pictures of how our site is used that help us to monitor and improve the service. We cannot identify you from your log files. 
 
+If you are primarily concerned about third party cookies generated by advertisers, you can turn these off by going to <http://www.youronlinechoices.com/ie/>. 
+
 Here is a list of all the cookies that we set and how we use them: 
 
 Cookie Name | Typical Value | Purpose | Expires  
@@ -128,21 +161,20 @@ Cookie Name | Typical Value | Purpose | Expires
 advertsid | Randomly generated hexadecimal string | Used to identify user session | On browser exit  
 adverts_uid | Randomly generated number | Set only if "Remember me" is checked. Auto-login on subsequent visits. | On user logout or 1 year  
 adverts_uid_hash | Randomly generated hexadecimal string | Set only if "Remember me" is checked. Auto-login on subsequent visits. | On user logout or 1 year  
+adverts_show_signup | The user page view count or a 'no show' string | Used to display the signup popup after a certain number of page views. | 1 year  
 touch_off | "1" | Disables the touch site and forces the use of the full site | On browser exit  
 strap_*_* | "1" | Ensure a strapline won't be seen after being dismissed | 3 years  
 iePinning_www.adverts.ie | "hidden" | Remembers when the user has dismissed the prompt to use the "site pinning" feature in Internet Explorer 9. | 30 days  
 fb_login | "1" | Indicates that the user logged in via Facebook | On user logout or browser exit  
 fbsr_116958691666039 | Alphanumeric string | The user's Facebook session information, if the user is logged in via Facebook | On user logout or browser exit  
 ajs_cid | Comma-separated list of numbers | A list of categories the user has recently visited | 30 days  
-app_notice_off | 1 or 0 |  Whether the user has dismissed or othewise interacted with the notice regarding the app being available for their device  | 1 year  
+app_notice_off | 1 or 0 |  Whether the user has dismissed or otherwise interacted with the notice regarding the app being available for their device  | 1 year  
+cookie_notice | 1 |  Whether the user has seen the sitewide notice regarding the use of cookies on Adverts.ie  | 1 year  
   
 In addition to the above cookies set by Adverts.ie, cookies may also be set by a number of our site partners: 
 
-Adtech.de (Ad serving)  
----  
-CfP | "1" | This is a unique ID for the browser, so we know if an ad has already been seen | On browser exit  
-JEB2 | Alphanumeric string | This is a unique ID for the browser, so we know if an ad has already been placed | 2 years  
 Delivery.FlashpointMedia.com (Ad serving)  
+---  
 OAID | Alphanumeric string | Online advertising user tracking | 1 year  
 DoubleClick.net (Ad serving)  
 id | Hexadecimal||t=numerical|et=numerical|cs=hexadecimal | User id | 2 years  
@@ -160,6 +192,8 @@ Sid | Alphanumeric string:numerical string | Session id | On browser exit
 We also use third party advertisements to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP, the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing location-based advertisements) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites). 
 
 We also may use DART cookies for ad serving through Google's DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to you and your interests ("interest based targeting"). The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about visiting Las Vegas, you may see Las Vegas hotel advertisements when viewing a non-related site, such as on a site about hockey). DART uses "non personally identifiable information". It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers. You can opt-out of this ad serving on all sites using this advertising by visiting [ http://www.doubleclick.com/privacy/dart_adserving.aspx ](http://www.doubleclick.com/privacy/dart_adserving.aspx "DART ad serving opt-out")
+
+Use of Intercom Services: We use third party analytics services to help understand your use of our services. In particular, we provide a limited amount of your information (such as your email address and sign-up date) to Intercom, Inc. (“Intercom”) and we use Intercom to collect data for analytics purposes when you visit our website or use or product. Intercom analyzes your use of our website and/or product and our relationship with you, so that we can improve our service to you. We may also use Intercom as a medium for communications, either through email, or through messages within our product(s). Also as part of their service to us, Intercom collects publicly available contact and social information related to you, such as your email address, gender, company, job title, photos, website URLs, social network handles and physical addresses, so that we can continue to improve our relationship with you. For more information on the privacy practices of Intercom, please check [ http://docs.intercom.io/privacy ](http://docs.intercom.io/privacy). Intercom’s services are governed by Intercom’s terms of use which can be found at [ http://docs.intercom.io/terms ](http://docs.intercom.io/terms). If you would like to opt out of having this information collected by or submitted to Intercom, please contact us. 
 
 #### Terms of Use
 
