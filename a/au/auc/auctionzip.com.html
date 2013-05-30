@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the auctionzip.com privacy policy that was archived on 2012-12-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121225130009id_/http%3A//www.auctionzip.com/agreements/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the auctionzip.com privacy policy that was archived on 2013-05-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130530185415id_/http%3A//www.auctionzip.com/agreements/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <title>
@@ -13,9 +13,9 @@
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/includes/js/jquery-1.4.2.min.js"></script>
 <script type="text/javascript" src="/includes/js/jquery.cookie.js"></script>
 <script type="text/javascript" src="/includes/js/custom-min.js"></script>
-<script type="text/javascript" src="/includes/js/emailCapture.js"></script>
+<script type="text/javascript" src="/includes/js/emailCapture-azv1.01.js"></script>
 <script type="text/javascript" src="/includes/js/termsOfService.js"></script>
-<link rel="stylesheet" type="text/css" href="/includes/css/style-min.css">
+<link rel="stylesheet" type="text/css" href="/includes/css/style-min-azv1.01.css">
 
 		<link rel="stylesheet" type="text/css" href="/includes/css/font-family.css">
   </head>
@@ -33,7 +33,7 @@
 	<!-- Links -->
 	
 	
-	<div id="hlogIn" style="display: block;">
+	<div id="hlogIn">
 		<a href="http://www.auctionzip.com/cgi-bin/azlogin.cgi">Sign Up</a>
 		|
 		<a href="javascript: showLogin();" id="headingLink">Member Login</a>
@@ -78,7 +78,7 @@
 				<div class="right" id="headPlacement">
 					<div class="theAd"><iframe src="/includes/structureTemplates/standardBurst.html" id="adframetop" width="728" height="90" scrolling="no" frameborder="0"></iframe></div>
 
-				</div>
+				</div> 
 			</div>
 			<!-- End Top // -->
 			
@@ -89,7 +89,7 @@
 			<li><a href="http://www.auctionzip.com/azlive.html?method=getUpcomingAuctions">Online Bidding</a></li> 
 			<li><a href="http://www.auctionzip.com/Auctioneer-Directory/">Auctioneer Directory</a></li>
 			<li><a href="http://www.auctionzip.com/cgi-bin/azlogin.cgi">Member Login &amp; Sign Up</a></li> 
-			<li></li>
+			<li><a style="cursor:pointer; display:none;" id="auctionInfo">Latest Auction Info</a></li>
 		</ul>
 		  
 		
@@ -115,23 +115,12 @@
 				<p class="overlayEmailHeader">Stay in touch with AuctionZip</p>
 				<div class="emailCapSecContainer"><p class="emailCapSec">Be connected to the hottest items and auction trends</p></div>
 				<img class="star" src="/images/free.png">
-				<form id="overlayEmailForm" action="http://cl.s4.exct.net/subscribe.aspx?lid=95435" method="post" name="subscribeForm">
-					<input type="text" value="" style="position:absolute; visibility: hidden;" name="thx" class="successPage">
-					<input type="hidden" name="err" value="http://www.auctionzip.com/email_error.html" class="errorPage">
-					<input type="hidden" name="usub" value="http://www.auctionzip.com/email_error.html">
-					<input type="hidden" name="MID" value="1002939">
-					<input type="hidden" name="Company" value="AuctionZip">
-					<input type="hidden" name="Company_ID" value="4">
-					<input type="hidden" name="Web_Collect" value="Yes">
-					<input type="hidden" name="Newsletter" value="Yes">
-					<input type="hidden" name="Marketing_Offers" value="Yes">
-					<input type="hidden" name="SubAction" value="sub_add_update"> 
-					<input type="text" value="" style="position:absolute; visibility: hidden;" name="ETSubscriberKey" class="subKey">
-					<input type="hidden" name="Program" value="site">
-					<input type="hidden" name="Subprogram" value="header">
-					<input id="navCapture" class="defaultText email_user defaultTextActive" name="Email Address" type="text" title="Enter your email">
-					<input id="overlaySubmit" class="submitBtn" type="submit" value="Submit">                          
-				</form>
+				<fieldset class="sliderEmailForm" style="border:0;float:left">
+					<input id="companyRefSlider" type="hidden" name="companyRef" value="4">
+					<input id="sliderCapture" class="defaultText email_user" name="Email Address" type="text" title="Enter Email Address" placeholder="Enter Email Address">
+					<!-- <input id="sliderSubmit" src="/images/GoButton.jpg" class="submitBtn" type="submit" value="" /> -->
+					<input id="overlaySubmit" class="submitBtn" type="submit" value="Submit">
+				</fieldset>
 				<div class="clear1"></div>
 				<p class="privacy">We value your privacy! <a target="_blank" href="/agreements/privacy.html">Click here</a> to read our policies.</p>
 
@@ -149,23 +138,11 @@
 		</div>  
 		<p class="sliderEmailHeader">Auctions in your inbox!</p>
 		<p class="secondHeader">Get notified about the latest local and online auctions.</p>
-		<form id="sliderEmailForm" action="http://cl.s4.exct.net/subscribe.aspx?lid=95435" method="post" name="subscribeForm">
-			<input type="text" value="" style="position:absolute; visibility: hidden;" name="thx" class="successPage">
-			<input type="hidden" name="err" value="http://www.auctionzip.com/email_error.html" class="errorPage">
-			<input type="hidden" name="usub" value="http://www.auctionzip.com/email_error.html">
-			<input type="hidden" name="MID" value="1002939">
-			<input type="hidden" name="Company" value="AuctionZip">
-			<input type="hidden" name="Company_ID" value="4">
-			<input type="hidden" name="Web_Collect" value="Yes">
-			<input type="hidden" name="Newsletter" value="Yes">
-			<input type="hidden" name="Marketing_Offers" value="Yes">
-			<input type="hidden" name="SubAction" value="sub_add_update">  
-			<input type="text" value="" style="position:absolute; visibility: hidden;" name="ETSubscriberKey" class="subKey">
-			<input type="hidden" name="Program" value="site">
-			<input type="hidden" name="Subprogram" value="Slide-in">
-			<input id="sliderCapture" class="defaultText email_user defaultTextActive" name="Email Address" type="text" title="Enter Email Address">
-			<input id="sliderSubmit" src="/images/GoButton.jpg" class="submitBtn" type="submit" value="">                          
-		</form>
+			<fieldset class="sliderEmailForm" style="border:0;float: left;padding: 0 20px;">
+				<input id="companyRefSlider" type="hidden" name="companyRef" value="4">
+				<input id="sliderCapture" class="defaultText email_user" name="Email Address" type="text" title="Enter Email Address" placeholder="Enter Email Address">
+				<input id="sliderSubmit" src="/images/GoButton.jpg" class="submitBtn" type="submit" value="">
+			</fieldset>
 		<div class="emailCapSecContainer" style="display:none"><p class="emailCapSec"></p></div>
 		<div class="clear1"></div>
 		<p id="slidePolicy" class="privacy">We value your privacy! <a target="_blank" href="/agreements/privacy.html">Click here</a> to read our policies.</p>
@@ -541,7 +518,7 @@
 	<ul class="footerLink">
 		<li class="headingLink">Quick Links</li>
 			<li><a href="http://www.auctionzip.com/cgi-bin/azlogin.cgi">Create Account</a></li>
-			<li><a href="http://info.auctionzip.com/ontheblock">Auction News</a></li>
+			<li><a href="http://auctionzipontheblock.blogspot.com/">Auction News</a></li>
 			<li><a href="http://www.auctionzip.com/azforum/">Auction Forum</a></li>
 			<li><a href="http://www.auctionzip.com/about.html">About Us</a></li>
 			<li><a href="http://www.auctionzip.com/contacts.html">Contact Us</a></li>
