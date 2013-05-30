@@ -1,75 +1,96 @@
-> *The following text is extracted and transformed from the videosalesletterformula.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211140613id_/http%3A//www.videosalesletterformula.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videosalesletterformula.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530133819id_/http%3A//digitalmarketer.com/more-info/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Video Salesletter Formula
+# Privacy Policy | Digital Marketer | It's just smarter
 
-Infomastery LLC Privacy Policy
+Privacy Policy – DigitalMarketer.com
 
-Last Updated Sep 13, 2011
+(Last Updated: April 16, 2011)
 
-Our Commitment To Privacy
+DigitalMarketer.com is serious about protecting your online privacy. This Privacy Statement explains our views and practices concerning privacy, and how they may pertain to you as a user of our website.
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
+“You” or “Your” means you as a participant in or as a user of the DigitalMarketer .com website. “We” or “Our” or “Us” means DigitalMarketer.com. “Our site” means DigitalMarketer.com.
 
-The Information We Collect:
+All information transmitted, printed or otherwise submitted to DigitalMarketer.com via this website shall be deemed to be the property of DigitalMarketer.com and DigitalMarketer.com shall be free to use such information for any lawful purpose as detailed herein.
 
-This notice applies to all information collected or submitted on any Infomastery LLC website including (but not limited to) DrivingTraffic.com, 43SplitTests.com, FBAdpower.com, EmailMindTricks.com, BlueBirdListBuilding.com, TrafficAndConversionBlueprint.com, VideoSalesLetterFormula.com, SneakyEmailTricks.com, ContinuityBlueprint.com, YourFirst1000.com, WholesaleTrafficSystem.com, et. all. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are:
+This site contains links to other sites and we are not responsible for the privacy practices or the content of such sites.
 
-Name  
-Address  
-Email address  
-Phone number  
-Credit/Debit Card Information  
-(etc.)
+We reserve the right to release such information to law enforcement or other governmental officials as we, in our sole and absolute discretion, deem necessary to comply with the law.
 
-On some pages, you can submit information about other people. For example, if you order a gift online and want it sent directly to the recipient, you will need to submit the recipient’s address. In this circumstance, the types of personal information collected are:
+**Section 1: Collected Information**  
+We automatically collect and/or track the following:
 
-Name  
-Address  
-Phone Number  
-(etc.)
+  1. Web page http headers (home server domain names, IP address, type of client computer, and type of Web browser);
+  2. information knowingly provided by you through on-line forms, registration forms, surveys, and/or other entries, such as email addresses, personal, financial or demographic information;
+  3. information, user specific or aggregate, on what pages our visitors access; and
+  4. E-mail addresses of visitors that communicate with DigitalMarketer.com via e-mail.
 
-The Way We Use Information:
 
-We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order.
 
-If we offer gift-cards by which you can personalize a product you order for another person. Information you provide to us to create a gift-card is only used for that purpose, and it is only disclosed to the person receiving the gift.
+**Section 2: Use of Data Collected**  
+We use your personal, demographic and profile data to enhance your experience at our site and to enable us to present content we think you might be interested in. We use your contact information to send you information about our company and promotional material from our partners. We may also use your personal, demographic and profile data to improve our site, for statistical analysis, for marketing and promotional purposes, and for editorial or feedback purposes for our advertisers. Information collected by us may be added to our databases and used for future telemarketing, SMS text-messaging, e-mails or postal mailings regarding site updates, new products and services, upcoming events, and/or status of orders placed online. By using this site, you agree that you may be contacted in any manner contemplated in this section even if your number is found on a do not call registry, in-house list or similar registry.
 
-We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties.
+**Section 3: Disclosure of Data to Third Parties**  
+If you choose to provide personal information, it will be used for the following purposes:
 
-You can register with our website if you would like to receive our catalog as well as updates on our new products and services. Information you submit on our website will not be used for this purpose unless you fill out the registration form.
+  1. considering you for a DigitalMarketer.com product;
+  2. as required by law; and
+  3. for marketing products and services which we determine, in our sole judgment, that you might find of interest. We reserve the right to share, rent, sell, or otherwise disclose data we collect to third parties. Any third party we share, rent, sell, or otherwise disclose data to will be prescreened by us, determined by us to be reputable, and will use the personal data for marketing products and services which we determine, in our sole judgment, that you might find of interest.
 
-We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals.
 
-Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
 
-Our Commitment To Data Security
+**Section 4: Your Opt-Out Rights**  
+You may opt-out of receiving communications from us and/or our partners by not submitting your information. We also allow you to remove your information from our marketing lists. If you remove your information from our marketing lists it will no longer be used by us to send promotional correspondence to you. You can remove your information from our marketing lists by clicking on the “Unsubscribe” link at the bottom of every email we send you, or by sending your request, in writing, via email to: supportATdrivingtrafficDOTcom (Please replace “AT” with @ and “DOT” with .)
 
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
+**Section 5: We Do Not Intend to Collect Data from Children**  
+The information and services provided to us or our affiliates, sponsors, and advertisers are not intended to be viewed by children (under 18 years old). No information collected from children is knowingly used for any marketing or promotional purposes whatsoever, either inside or outside DigitalMarketer.com. No part of DigitalMarketer.com’s web site is structured to attract anyone under the age of 18.
 
-Our Commitment To Children’s Privacy:
+**Section 6: Our Right to Contact You**  
+We reserve the right to contact you regarding your account status and changes to subscriber agreements, privacy policy, or any other policies or agreements relevant to you.
 
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
+**Section 7: Our Right to Change**  
+We reserve the right to change this policy at any time by notifying you of the existence and location of the new or revised privacy policy or by posting the changes online at our site.
 
-How You Can Access Or Correct Your Information
+**Section 8: Our Contact Information**  
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact us via email sent to: supportATdrivingtrafficDOTcom (Please replace “AT” with @ and “DOT” with .)
 
-You can access all your personally identifiable information that we collect online and maintain by contacting customer support at: support@drivingtraffic.com
+**Section 9:   Anti Spam Policy. Can-Spam Act Compliance**
 
-We use this procedure to better safeguard your information.
+DigitalMarketer.com is dedicated to ensuring compliance with the ‘Can-Spam Act’, which took effect January 1, 2004. You may receive email from DigitalMarketer.com in the following circumstances:
 
-You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error.
+  1. Acknowledging your application has been received and requesting additional action
+  2. Requests for additional information to support your current application
+  3. Response to your inquiries regarding the status of your transactional requests
+  4. Thanking you for your valued business
+  5. Advertisements for our products, services, changes in services, new product availability
+  6. Advertisements for third party products and services where we have determined that such product or service may be of interest to our customers
 
-To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
 
-How To Contact Us
 
-Infomastery  
-4330 Gaines Ranch Loop, Suite 120  
-Austin, TX 78735
+To ensure compliance with the Can-Spam Act, DigitalMarketer.com has implemented the following guidelines for email delivery:
 
-Should you have other questions or concerns about these privacy policies, please call us at 512 892-3022 or send us an email at: support@drivingtraffic.com
+  1. All emails sent to you by DigitalMarketer.com will clearly identify DigitalMarketer.com as the sender. FROM / SENDER: someone@DigitalMarketer.com or someone@drivingtraffic.com (NOTE: The actual sender will alter from department to department, but all from addresses will end with @DigitalMarketer.com or @DrivingTraffic.com).
+  2. The Subject Line of any email you receive will always accurately describe the subject matter of the email.
+  3. Any email from DigitalMarketer.com will include the ability to unsubscribe from future email messages.
+  4. Unsubscribing will ensure the customer is removed from ALL lists at DigitalMarketer.com; this excludes customer service emails regarding the processing and status of a current product.
+  5. All emails sent to you directly by DigitalMarketer.com include valid postal address information in the footer.
+  6. All third party marketing partners are required to comply with the Can-Spam Act.
+  7. Emails sent to you directly by DigitalMarketer.com will include an email address and physical address where you can send suggestions, complaints or other correspondence.
 
-**Unsubscribe Options**
 
-If you for any reason you do not wish to receive emails from us anymore then there is a safe unsubscribe link at the bottom of EVERY email we send you. You can either find a past email we’ve sent you, or on the latest one you’ve received just find the ‘unsubscribe’ link at the bottom to be opted-out of our email list. We promise to never spam you, or make it difficult for you to stop receiving any of our emails. 
 
-We believe out content is valuable for you to have and only want you receiving it if you feel the same way and want to receive it. If you ever have any issues with unsubscribing, or need assistance on how to unsubscribe please email support@drivingtraffic.com and our customer satisfaction team will be happy to assist you. Again, **you can unsubscribe at any time** for any reason whatsoever.
+**Section 10: Information for ISPs**  
+Web site: DigitalMarketer.com  
+Email Address: supportATdrivingtrafficDOTcom  
+(Please replace “AT” with @ and “DOT” with .)
+
+DigitalMarketer.com understands consumers’ concerns over the use of their personal information. We hope this information will relieve any concerns your company may have regarding our email policies.DigitalMarketer.com and its affiliated sites use only an “opt-in or opt out” method of obtaining customer information, and it is not our policy or desire to send unsolicited email. We obtain email addresses and personal information from third parties that follow the same set of policies. DigitalMarketer.com email messages sent always include information about the origin of the emails and instructions on how recipients can unsubscribe from receiving future email messages.
+
+From time to time, DigitalMarketer.com will enter into an arrangement with a third party website to allow individuals to opt into our marketing program on those third party websites. In each case the third party websites have represented and warranted to us, among other things,
+
+  1. that the data was collected voluntarily from individuals on website registrations and co-registrations,
+  2. that the sellers have a right, under any applicable privacy statements, to transfer the data to us, and
+  3. that DigitalMarketer.com has the right to send marketing offers to the individuals.
+
+
+
+We hope this information satisfies any questions or concerns you may have regarding the email practices of DigitalMarketer.com. If you have additional questions or wish to discuss this matter further, please contact us at: supportATdrivingtrafficDOTcom (Please replace “AT” with @ and “DOT” with .)
