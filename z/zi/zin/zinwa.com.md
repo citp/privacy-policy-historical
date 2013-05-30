@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zinwa.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224010531id_/http%3A//www.zinwa.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zinwa.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530123153id_/http%3A//www.zinwa.com/privacy.html) for the most accurate reproduction.*
 
 # Zinwa - You Share, We Pay!
 
