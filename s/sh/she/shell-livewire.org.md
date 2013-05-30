@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shell-livewire.org privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607001931id_/http%3A//www.shell-livewire.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shell-livewire.org privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530145050id_/http%3A//shell-livewire.org/privacy) for the most accurate reproduction.*
 
 # Home - Privacy Policy
 
