@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bedandbreakfast.com privacy policy that was archived on 2012-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121129203346id_/http%3A//www.bedandbreakfast.com/privacystatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bedandbreakfast.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530173548id_/http%3A//www.bedandbreakfast.com/privacystatement.aspx) for the most accurate reproduction.*
 
 # PrivacyStatement.cshtml
 
@@ -118,7 +118,7 @@ We use third-party advertising companies to serve banner ads when you visit our 
 **How do I correct or update my information?**
 
   
-We allow our users the option to change or modify information previously provided. This may be done by contacting support@bedandbreakfast.com. 
+We allow our users the option to change or modify information previously provided. This may be done by contacting support through [our web form](http://www.bedandbreakfast.com/home/contact). 
 
 **How do I opt-out of receiving marketing communications from you?**
 
@@ -126,7 +126,7 @@ We allow our users the option to change or modify information previously provide
 You may opt-out of receiving marketing communications from us by the following means:  
 
 
-  1. contact us at [support@bedandbreakfast.com](mailto:support@bedandbreakfast.com), 
+  1. contact us through [ our web form](http://www.bedandbreakfast.com/home/contact), 
   2. follow the instructions included in each communication or newsletter, or 
   3. mail the request to us at 1011 W Fifth Street, Suite 300, Austin, TX 78703. 
 
@@ -139,5 +139,5 @@ We will retain your personal data only as long as is necessary for the purposes 
 **How do I contact you?**
 
   
-If you have any questions about this Privacy Policy, the practices of the Site or your dealings with the Site, we encourage you to contact us at [support@bedandbreakfast.com](mailto:support@bedandbreakfast.com).  
+If you have any questions about this Privacy Policy, the practices of the Site or your dealings with the Site, we encourage you to contact us through [ our web form](http://www.bedandbreakfast.com/home/contact).  
 
