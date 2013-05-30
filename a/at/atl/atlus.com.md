@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the atlus.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227191425id_/http%3A//www.atlus.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atlus.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530081446id_/http%3A//atlus.com/privacypolicy.php) for the most accurate reproduction.*
 
 # :::: Atlus.com ::::
 
 |  |  **ATLUS U.S.A., INC. Online Privacy Policy**  
 ---|---  
   
-At ATLUS U.S.A., INC. Corporation (“ATLUS U.S.A., INC.”), we are dedicated to protecting the privacy of those who visit us online. 
+At ATLUS U.S.A., INC. Corporation (�ATLUS U.S.A., INC.�), we are dedicated to protecting the privacy of those who visit us online. 
 
 For your privacy, we do not collect or maintain data that personally identifies you without your consent. Also, we will never collect or maintain data that personally identifies children under 13 years of age without the consent of a parent or guardian. 
 
@@ -53,7 +53,7 @@ As mentioned above, ATLUS U.S.A., INC. may maintain IP addresses, but only for p
 
 **Who collects my personal information?**
 
-Information you submit to our website is collected by ATLUS U.S.A., INC. and is used only in the manner expressed above in the section “What kind of information does ATLUS U.S.A., INC. collect on its website, and how will it be used?” 
+Information you submit to our website is collected by ATLUS U.S.A., INC. and is used only in the manner expressed above in the section �What kind of information does ATLUS U.S.A., INC. collect on its website, and how will it be used?� 
 
 **Will ATLUS U.S.A., INC. share my personal information with anyone?**
 
