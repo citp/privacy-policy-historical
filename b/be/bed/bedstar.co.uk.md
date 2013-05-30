@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bedstar.co.uk privacy policy that was archived on 2012-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121020125202id_/http%3A//www.bedstar.co.uk/bedstar/security-and-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bedstar.co.uk privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530115312id_/http%3A//bedtoday.co.uk/security-and-privacy.html) for the most accurate reproduction.*
 
 # Security And Privacy - bedstar.co.uk
 
-**Who We Are**
+## Who We Are
 
 In this Privacy Policy references to "we" and "us" are to bedstar Limited company number 05204678 , registered office Registered office 2 Mount Parade, Harrogate, HG1 1BX.  
 What information we collect and how  
@@ -19,8 +19,7 @@ The information we collect via this website may include:
   
 4\. Your preferences and use of email updates, recorded by emails we send you (if you select to receive email updates on products and offers).
 
-  
-**What We Do With Your Information**
+## What We Do With Your Information
 
 Any personal information we collect from you will be used in accordance with the Data Protection Act 1998 and other applicable laws. The details we collect will be used:-  
 1\. to process your order, to maintain guarantee records and to provide after-sales service (we may pass your details to another organisation to supply/deliver products or services you have purchased and/or to provide after-sales service);
@@ -28,7 +27,7 @@ Any personal information we collect from you will be used in accordance with the
   
 2\. to carry out security checks (this may involve passing your details to Experian Limited, or another credit reference agency, who will check details we give them against public and private databases and may keep a record of that check to use in future security checks - this helps to protect you and us from fraudulent transactions);
 
-**Your Rights**
+## Your Rights
 
 1\. You can ask us to update your personal information by emailing precise details of your request to [enquiries@bedstar.co.uk](mailto:enquiries@bedstar.co.uk). Please ensure you type "update" in the subject line of your email.
 
