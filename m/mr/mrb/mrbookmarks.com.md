@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mrbookmarks.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120232935id_/http%3A//www.mrbookmarks.com/privacy-and-refund-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrbookmarks.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530202958id_/http%3A//www.mrbookmarks.com/privacy-and-refund-policy) for the most accurate reproduction.*
 
-# Manual Social Bookmarking Service Privacy and Refund Policy | Mr Bookmarks
+# Manual Social Bookmarking Service Privacy and Refund Policy | Social Bookmarking Service
 
 Privacy Policy:  
 **What information do we collect?**
@@ -43,9 +43,9 @@ By using our site, you consent to our websites privacy policy.
 
 If we decide to change our privacy policy, we will post those changes on this page.
 
-[http://www.MrBookmarks.com](http://www.mrbookmarks.com/ "Linkification: http://www.MrBookmarks.com")  
-[admin@mrbookmarks.com](mailto:admin@mrbookmarks.com "Linkification: mailto:admin@mrbookmarks.com")
+[http://www.MrBookmarks.com](http://www.mrbookmarks.com/)  
+[admin@mrbookmarks.com](mailto:admin@mrbookmarks.com)
 
  **Refund Policy:**  
 We do complete your order in 5-7 days, the order can take more days depending on the order volume.  
-If we couldn’t do your job in 30 days, you can ask for the full refund and we will return your full amount to you.
+If we couldn’t do your job in a given timeframe, you can ask for the full refund and we will return your full amount to you.
