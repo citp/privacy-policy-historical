@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the thedeal.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221065507id_/http%3A//www.thedeal.com/about_us/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedeal.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530094006id_/http%3A//www.thedeal.com/about_us/privacy.php) for the most accurate reproduction.*
 
-# Privacy policy (The Deal)
-
-| 
+# About Us (The Deal Pipeline)
 
 ## PRIVACY POLICY
 
@@ -69,6 +67,3 @@ Readers may add their opinions, information, commentary and other user-generated
 **Miscellaneous**
 
 From time to time The Deal may review and update this policy.
-
-|   
----|---|---
