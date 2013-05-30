@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crosscut.com privacy policy that was archived on 2012-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120923190148id_/http%3A//crosscut.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crosscut.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530090819id_/http%3A//crosscut.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Crosscut.com
 
