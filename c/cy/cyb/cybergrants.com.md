@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cybergrants.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919235727id_/http%3A//www.cybergrants.com/cg_privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cybergrants.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530213205id_/http%3A//www.cybergrants.com/cg_privacy.shtml) for the most accurate reproduction.*
 
 # CyberGrants
 
@@ -6,9 +6,9 @@
 
 As an application service provider, CyberGrants, Inc. (CyberGrants) is highly committed to protecting the privacy of your information. We have developed this Privacy Statement in support of our commitment to safeguarding your personal information.
 
-In accordance with our commitment to protect personal privacy, CyberGrants adheres to the principles of the Safe Harbor Frameworks as developed by the U.S. Department of Commerce in consultation with the European Commission and the Information Commissioner of Switzerland.
+In accordance with our commitment to protect personal privacy, CyberGrants complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework, as set forth by the U.S. Department of Commerce. The Safe Harbor Frameworks, which were developed in consultation with the European Commission and the Federal Data Protection and Information Commissioner of Switzerland, consist of the seven Safe Harbor Privacy Principles, as well as fifteen Frequently Asked Questions (FAQs). CyberGrants has certified its adherences to the Safe Harbor Privacy Principles.
 
-The seven principles and fifteen Frequently Asked Questions (FAQs) referred to in this policy constitute Safe Harbor privacy frameworks. These principles and FAQs may be found at: <http://www.export.gov/safeharbor>
+The seven privacy principles and fifteen Frequently Asked Questions (FAQs) referred to in this policy are those of the Safe Harbor Frameworks mentioned above. The privacy principles and FAQs, along with other information regarding the Safe Harbor program and CyberGrants' certification, may be found at: <http://www.export.gov/safeharbor>
 
 #### Global Privacy Fundamentals
 
@@ -73,7 +73,7 @@ CyberGrants needs your help in keeping the personal data you have shared with us
 
 Dispute resolution for Safe Harbor issues is handled through eTrust. They may be contacted through <http://etrust.org/>
 
-Questions regarding this Privacy Statement or the information practices of the Company's Web site should be directed to the CyberGrants Information Security Officer at [iso@cybergrants.com](mailto:iso@cybergrants.com) or by mailing CyberGrants ISO, Two Dundee Park, Suite 101, Andover MA 01810.
+Questions regarding this Privacy Statement or the information practices of the Company's Web site should be directed to the CyberGrants Information Security Officer at [iso@cybergrants.com](mailto:iso@cybergrants.com) or by mailing CyberGrants ISO, 300 Brickstone Square, Suite 601, Andover MA 01810.
 
 [ ](http://www.etrust.org/cert/389797.html)
 
