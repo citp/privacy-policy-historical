@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the torpedo7.co.nz privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121133626id_/http%3A//www.torpedo7.co.nz/content/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the torpedo7.co.nz privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530103306id_/http%3A//www.torpedo7.co.nz/content/privacy.html) for the most accurate reproduction.*
 
-# Torpedo7 | Outdoor Gear Store | Extreme Sports New Zealand Shop Online
+# Torpedo7 NZ - Privacy Policy
 
 Torpedo7 has put together the following privacy statement to display Torpedo7s commitment to provide privacy. This document will display the policies Torpedo7 has put in place to protect customers during information gathering practices.
 
@@ -42,7 +42,7 @@ We work diligently to protect the security of your personal information, includi
 
 Your credit card details do not get processed or transmitted through or via Torpedo7s website; all transactions are processed through a secure payment service provider. Torpedo7 uses Direct Payment Solutions (DPS) to provide this service. DPS hosts and manages the payment page. All transaction sessions are stored and processed in encrypted strings.
 
-Your credit card details are not held by Torpedo7 and cannot be accessed by Torpedo7 staff. However they may be held by Direct Payment Solutions (DPS) ([review their Privacy Policy](https://web.archive.org/content/privacy.html)). **Torpedo7 Vouchers** Torpedo7 provides the facilities to present and redeem vouchers through the checkout system. Any voucher is to be used at the discretion of Torpedo7. Torpedo7 also holds the right to terminate any Voucher which they believe is being misused. **Torpedo7 Sponsorship Program** Clicking on “Sponsorship” enables you to view the Torpedo7 sponsorship criteria and information about the application process. Torpedo7 will hold any relevant applications for reviewing.
+Your credit card details are not held by Torpedo7 and cannot be accessed by Torpedo7 staff. However they may be held by Direct Payment Solutions (DPS) ([review their Privacy Policy](http://www.paymentexpress.com/about/about_paymentexpress/privacy_policy.html)). **Torpedo7 Vouchers** Torpedo7 provides the facilities to present and redeem vouchers through the checkout system. Any voucher is to be used at the discretion of Torpedo7. Torpedo7 also holds the right to terminate any Voucher which they believe is being misused. **Torpedo7 Sponsorship Program** Clicking on “Sponsorship” enables you to view the Torpedo7 sponsorship criteria and information about the application process. Torpedo7 will hold any relevant applications for reviewing.
 
 ### Job applications
 
