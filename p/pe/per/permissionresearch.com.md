@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the permissionresearch.com privacy policy that was archived on 2011-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111111085018id_/http%3A//www.permissionresearch.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the permissionresearch.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530151346id_/http%3A//www.permissionresearch.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - PermissionResearch
 
 Your Privacy Matters
 
 About Our Trees for Knowledge Campaign  
-PRIVACY POLICY & USER LICENSE AGREEMENT  
+PRIVACY POLICY, USER LICENSE AGREEMENT, AND PATENT NOTICE  
 What information is collected?  
 How is the information collected?  
 How is the collected information used?  
@@ -32,7 +32,7 @@ About Our Trees for Knowledge Campaign
 
 Worldwide carbon dioxide emissions have more than doubled over the last 10 years, and too much carbon dioxide in the atmosphere may be one of the major causes of global warming. But planting trees can help reduce the effects of carbon dioxide. That’s why comScore has partnered with Trees for the Future to establish our Trees for Knowledge campaign. Since 1988, Trees for the Future has helped thousands of communities in Central America, Africa, and Asia improve their livelihoods and their environment by planting nearly 50 million trees. Working with Trees for the Future, we have donated millions of trees on behalf of members of our research community, so that we are not only improving the Internet, we’re improving the environment as well.
 
-PRIVACY POLICY & USER LICENSE AGREEMENT
+PRIVACY POLICY, USER LICENSE AGREEMENT, AND PATENT NOTICE
 
 Before joining our program, enjoying the benefits of this program, and installing our application, you must review and agree to the terms and conditions below and provide and obtain consent to this agreement from anyone who will be using the computers on which you install this application. By installing our application, you agree to be bound by this privacy policy & user license agreement, including the storage of the market research information provided by you on our computer systems in the United States.
 
@@ -107,7 +107,7 @@ Please refer to our program’s web site, which lays out the privacy commitments
 
 What if I wish to stop participating in this program?
 
-Resignation: You may resign at any time by contacting us at the support address listed below or by selecting the “[Terminate all PermissionResearch Services](https://web.archive.org/web/20111111085018id_/http%3A//www.permissionresearch.com/Remove.aspx?terminate_services=y)” link from the Members section on your panel’s web page (where applicable). 
+Resignation: You may resign at any time by contacting us at the support address listed below or by selecting the “[Terminate all PermissionResearch Services](https://web.archive.org/web/20130530151346id_/http://www.permissionresearch.com/Remove.aspx?terminate_services=y)” link from the Members section on your panel’s web page (where applicable). 
 
 Removing our Application: You may remove our application using the Windows Add/Remove Programs function (known as "Programs and Features" in Vista and Windows 7). Alternatively, you may e-mail our support staff at the e-mail address provided below and request removal instructions. Please be sure to follow this same removal procedure on all of the computers from which you wish to remove this application. Removing the application will stop tracking of your online browsing and purchasing behavior, but unless you resign from all services in accordance with the procedure stated above, you still may be contacted for administrative purposes or for special participant opportunities. After you remove our application from a computer, all settings we have made to your computer will be deactivated.
 
@@ -205,5 +205,7 @@ Reston, VA 20190
 For any support issues, please contact: support@tmrginc.com.
 
 LP 1142
+
+[](http://secure.trust-guard.com/certificates/4734)
 
 [](https://www.scanalert.com/RatingVerify?ref=www.permissionresearch.com)
