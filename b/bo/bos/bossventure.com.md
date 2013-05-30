@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bossventure.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230054917id_/http%3A//bossventure.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bossventure.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530055050id_/http%3A//bossventure.com/privacy.php) for the most accurate reproduction.*
 
 # Terms and Conditions| BossVenture.com
 
