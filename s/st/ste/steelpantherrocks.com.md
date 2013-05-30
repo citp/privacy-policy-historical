@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the steelpantherrocks.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102073945id_/http%3A//privacy.umusic.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steelpantherrocks.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530120955id_/http%3A//privacy.umusic.com) for the most accurate reproduction.*
 
 # 
 
