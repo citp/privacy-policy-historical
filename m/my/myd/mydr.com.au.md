@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mydr.com.au privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919020214id_/http%3A//www.mydr.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mydr.com.au privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530203942id_/http%3A//mydr.com.au/privacy) for the most accurate reproduction.*
 
 # privacy policy - myDr.com.au
 
 ## A statement about privacy and collection of personal information
 
-UBM Medica Australia Pty Ltd (" **We** ", " **Our** ", or " **Us** ") as publisher of _myDr_ ( **Website** ), aims to protect the privacy of the personal information We collect and hold whilst carrying out Our business activities. 
+MIMS Australia Pty Ltd (" **We** ", " **Our** ", or " **Us** ") as publisher of _myDr_ ( **Website** ), aims to protect the privacy of the personal information We collect and hold whilst carrying out Our business activities. 
 
 We are bound by the National Privacy Principles ( **Principles** ) in the _Privacy Act 1988_ (Cth)( **Act** ). 
 
@@ -114,7 +114,7 @@ On occasion there may be services that you nominate to use that require you to n
 You may seek access to personal information that We hold about you by contacting Our Privacy Officer as follows: 
 
 By Post:  
-UBM Medica Privacy and Security  
+MIMS Australia Privacy and Security  
 Locked Bag 3000,  
 St Leonards, NSW 1590,  
 Australia 
