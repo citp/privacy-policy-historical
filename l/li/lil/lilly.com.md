@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lilly.com privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114050624id_/http%3A//www.lilly.com/Pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lilly.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530065615id_/http%3A//www.lilly.com/Pages/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
@@ -21,7 +21,7 @@ Eli Lilly and Company collects Social Security numbers and other sensitive perso
 
 Lilly Website Privacy Statement
 
-Lilly respects the privacy of visitors to its websites, as a result, we have developed this website privacy statement. This Privacy Statement, with the exception of the US - EU Safe Harbor Privacy Statement and the Social Security Number Protection Policy stated above, both of which apply to all Lilly operations, applies only to the operation of U.S. websites that directly link to thisstatement when you click on "privacy statement" in the website footer.
+Lilly respects the privacy of visitors to its websites, as a result, we have developed this website privacy statement. This Privacy Statement, with the exception of the US - EU Safe Harbor Privacy Statement and the Social Security Number Protection Policy stated above, both of which apply to all Lilly operations, applies only to the operation of U.S. websites that directly link to this statement when you click on "privacy statement" in the website footer.
 
 **Personal Information Collected by Lilly Online**
 
@@ -101,4 +101,15 @@ Indianapolis, IN 46206-6245
 
 Or calling Lilly toll-free at 1-800-LillyRx (1-800-545-5979).
 
-Last Updated: July 25, 2008
+**Resolving Your Privacy Concerns**
+
+If, after attempting to address a privacy question or concern with Lilly directly by contacting us using the contact information listed above, you still have a specific privacy concern that has not been resolved, you may choose mediation of that concern by the neutral third party, American Arbitration Association. Submit your unresolved privacy concern to the American Arbitration Association for resolution.
+
+American Arbitration Association
+
+Case Filing Services  
+877.495.4185: Toll free  
+877.304.8457: Fax  
+[casefiling@adr.org](mailto:casefiling@adr.org)
+
+Last Updated: February 15, 2013
