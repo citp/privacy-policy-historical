@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the maxim-ic.com privacy policy that was archived on 2012-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120902013826id_/http%3A//www.maxim-ic.com/legal/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxim-ic.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530142933id_/http%3A//www.maximintegrated.com/legal/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Statement - Maxim
 
-Maxim Integrated Products, Inc. and its wholly owned subsidiaries want you to know that your privacy is important to us. This Privacy Statement describes our privacy policy and how we collect and use personally identifiable information. 
+Maxim Integrated and its wholly owned subsidiaries want you to know that your privacy is important to us. This Privacy Statement describes our privacy policy and how we collect and use personally identifiable information. 
 
 ### Changes to Privacy Policy
 
@@ -55,7 +55,7 @@ In general, you can alter the information you have provided by using the page wh
 
 You can change your address or request removal from our mailing lists using our [Member Center](https://web.archive.org/memcenter/). 
 
-For other requests, contact us at [webmaster@maxim-ic.com](mailto:webmaster@maxim-ic.com). 
+For other requests, contact us at [webmaster@maximintegrated.com](mailto:webmaster@maximintegrated.com). 
 
 ### Contacting Us
 
