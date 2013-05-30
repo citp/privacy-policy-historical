@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ncsasports.org privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005135612id_/http%3A//www.ncsasports.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncsasports.org privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530182515id_/http%3A//ncsasports.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | NCSA
+# NCSA Privacy Policy | NCSA Athletic Recruiting | NCSA
 
 ## INTRODUCTION
 
-Welcome to our website, which is owned and operated by National Collegiate Scouting Association, Inc., ("NCSA Athletic Recruiting") located at 1415 North Dayton Street, Suite 4M, Chicago, Illinois 60622. When you use our website, you are agreeing to be bound by this Privacy Policy ("Privacy Policy") and by our Website Terms and Conditions of Use **_[NOTE: Insert link to Website Terms and Conditions of Use]_** (collectively, the "Terms and Conditions"). If you do not agree with the Terms and Conditions, please do not use our website. 
+Welcome to our website, which is owned and operated by National Collegiate Scouting Association, Inc., ("NCSA Athletic Recruiting") located at 1415 North Dayton Street, Suite 4M, Chicago, Illinois 60622. When you use our website, you are agreeing to be bound by this Privacy Policy ("Privacy Policy") and by our [Website Terms and Conditions of Use ](https://web.archive.org/terms-and-conditions-of-use) (collectively, the "Terms and Conditions"). If you do not agree with the Terms and Conditions, please do not use our website. 
 
 PLEASE READ THE PRIVACY POLICY CAREFULLY BEFORE ACCEPTING IT. IT CONTAINS IMPORTANT INFORMATION ABOUT YOUR RIGHTS AND OBLIGATIONS, AS WELL AS LIMITATIONS AND EXCLUSIONS THAT MAY APPLY TO YOU. THE PRIVACY POLICY IS SUBJECT TO CHANGE. 
 
@@ -20,9 +20,9 @@ This Privacy Policy provides notice regarding our collection and use of Personal
 
 ## PROTECTING CHILDREN'S PRIVACY
 
- **OUR WEBSITE IS NOT DIRECTED TO, OR INTENDED FOR, CHILDREN UNDER 13 YEARS OF AGE.** NCSA Athletic Recruiting understands that protecting the privacy of young children is important. For that reason, we never collect or maintain Personal Information through our website from users we actually know are under 13 years of age, and no part of our website is designed to attract users under 13 years of age. No Personal Information should be submitted through our website by users under 13 years of age. If a user under 13 years of age submits Personal Information to our website, we delete such Personal Information as soon as we discover it was provided by a user under the age of 13 and we do not use it for any purpose. If NCSA Athletic Recruiting were to knowingly collect Personal Information from users under 13 years of age, we would do so in accordance with Children's Online Privacy Protection Act and modify this Privacy Policy accordingly. We encourage parents to take an active role in their children's use of the Internet, and to inform them of the potential dangers of providing information about themselves over the Internet. 
+**OUR WEBSITE IS NOT DIRECTED TO, OR INTENDED FOR, CHILDREN UNDER 13 YEARS OF AGE.**  NCSA Athletic Recruiting understands that protecting the privacy of young children is important. For that reason, we never collect or maintain Personal Information through our website from users we actually know are under 13 years of age, and no part of our website is designed to attract users under 13 years of age. No Personal Information should be submitted through our website by users under 13 years of age. If a user under 13 years of age submits Personal Information to our website, we delete such Personal Information as soon as we discover it was provided by a user under the age of 13 and we do not use it for any purpose. If NCSA Athletic Recruiting were to knowingly collect Personal Information from users under 13 years of age, we would do so in accordance with Children's Online Privacy Protection Act and modify this Privacy Policy accordingly. We encourage parents to take an active role in their children's use of the Internet, and to inform them of the potential dangers of providing information about themselves over the Internet. 
 
- **IF YOU ARE UNDER 13 YEARS OF AGE, OR IF YOU ARE THE PARENT OR LEGAL GUARDIAN OF A CHILD UNDER 13 YEARS OF AGE, PLEASE DO NOT SUBMIT ANY PERSONAL INFORMATION TO NCSA ATHLETIC RECRUITING THROUGH OUR WEBSITE. INSTEAD, PLEASE CONTACT NCSA ATHLETIC RECRUITING AT (888) 333-6846 AND ASK TO SPEAK WITH ONE OF OUR RECRUITING COORDINATORS.**  
+**IF YOU ARE UNDER 13 YEARS OF AGE, OR IF YOU ARE THE PARENT OR LEGAL GUARDIAN OF A CHILD UNDER 13 YEARS OF AGE, PLEASE DO NOT SUBMIT ANY PERSONAL INFORMATION TO NCSA ATHLETIC RECRUITING THROUGH OUR WEBSITE. INSTEAD, PLEASE CONTACT NCSA ATHLETIC RECRUITING AT (888) 333-6846 AND ASK TO SPEAK WITH ONE OF OUR RECRUITING COORDINATORS.**
 
 ## USE OF OUR WEBSITE AND COLLECTION OF PERSONAL INFORMATION
 
@@ -71,7 +71,7 @@ Most browsers allow you to control cookies, including whether or not to accept t
 
 Tracking technologies may record information such as Internet domain and host names, Internet protocol (IP) addresses, browser software and operating system types, clickstream patterns and dates and times that our website is accessed. 
 
-Our use of cookies and other tracking technologies allows us to improve our website and your experience using our website. We may use this information to understand how our users navigate our website, and to determine trends, statistics and common traffic patterns, including what website you came from before visiting our website. ****  
+Our use of cookies and other tracking technologies allows us to improve our website and your experience using our website. We may use this information to understand how our users navigate our website, and to determine trends, statistics and common traffic patterns, including what website you came from before visiting our website. ** **
 
 ## USE OF IP ADDRESSES
 
@@ -118,8 +118,8 @@ Attention: Website Privacy Policy
 Chicago, Illinois 60622  
 (888) 333-6846 
 
-[adiorio@ncsasports.org](mailto:adiorio@ncsasports.org) 
+[adiorio@ncsasports.org](mailto:adiorio@ncsasports.org)
 
 Last modified: May 4, 2012  
 
-(Archived versions of this Privacy Policy are available at: <http://www.ncsasports.org/privacy-policy-archived>) 
+(Archived versions of this Privacy Policy are available at: [http://www.ncsasports.org/privacy-policy-archived](https://web.archive.org/privacy-policy-archived)) 
