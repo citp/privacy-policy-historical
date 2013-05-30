@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the steadyhealth.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224111531id_/http%3A//www.steadyhealth.com/polices/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steadyhealth.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530124748id_/http%3A//www.steadyhealth.com/polices/privacy) for the most accurate reproduction.*
 
 # Medical Questions, Weight Loss, Pregnancy, Drugs, Health Insurance | SteadyHealth.com
 
