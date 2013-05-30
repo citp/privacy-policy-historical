@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the numberfire.com privacy policy that was archived on 2012-11-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121129183854id_/https%3A//www.numberfire.com/info/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the numberfire.com privacy policy that was archived on 2013-05-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130530121554id_/https%3A//www.numberfire.com/info/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" js no-flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" lang="en"><!--<![endif]--><head>
 
@@ -17,15 +17,17 @@
 	<meta name="tinfoil-site-verification" content="8686b5104c26e5458c1486868a468e4e85b5f97f">
 	
 	<link rel="shortcut icon" href="/images/global/favicon.ico" type="image/x-icon">
+	<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="/news/feed">
 	
-	<link rel="stylesheet" href="/css-new/style.min.css">
-	<link rel="stylesheet" href="/css-new/colorbox.min.css">
+	<link rel="stylesheet" href="/css-new/style.min.css?v=13">
+	<link rel="stylesheet" href="/css-new/colorbox.min.css?v=13">
+	<!--<link rel="stylesheet" media="only screen and (max-device-width:720px)" href="/css-new/mobile.min.css?v=13">-->
 	
-	<script type="text/javascript" async="" src="https://ak.sail-horizon.com/horizon/v1.js"></script><script async="" src="//ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="//doug1izaerwt3.cloudfront.net/652057baaef4b05615175af3acccfc6c4bed7564.1.js"></script><script type="text/javascript" async="" src="//i.kissmetrics.com/i.js"></script><script type="text/javascript" src="//use.typekit.net/hvg3qyl.js"></script>
+	<script async="" src="//ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="//doug1izaerwt3.cloudfront.net/652057baaef4b05615175af3acccfc6c4bed7564.1.js"></script><script type="text/javascript" async="" src="//i.kissmetrics.com/i.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" src="//use.typekit.net/hvg3qyl.js"></script>
 	<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 	<script src="/js-new/libs/modernizr-2.5.3.min.js"></script>
 	<script type="text/javascript">
-		var NF_DATA = {"is_logged_in":false}; 
+		var NF_DATA = {"is_logged_in":false,"FACEBOOK_APP_NAMESPACE":"numberfire","FACEBOOK_APP_ID":"103292676390270"}; 
 		var KMQ_PUSH = []; 
 		var GAQ_PUSH = []; 
 	</script>
@@ -44,369 +46,353 @@
 	  _kms('//i.kissmetrics.com/i.js');
 	  _kms('//doug1izaerwt3.cloudfront.net/' + _kmk + '.1.js');
 	</script>
-			
+		
+	<!--
+		-->
+	
 </head>
 <body class="red">
-
-	<!--[if lt IE 7]><p class=chromeframe>Your browser is <em>ancient!</em> <a href="http://browsehappy.com/">Upgrade to a different browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to experience this site.</p><![endif]-->
+	<div id="fb-root"></div>
+	<script>
+	  window.fbAsyncInit = function() {
+	    // init the FB JS SDK
+	    FB.init({
+	      appId      : '103292676390270', // App ID from the App Dashboard
+	      status     : true, // check the login status upon init?
+	      cookie     : true, // set sessions cookies to allow your server to access the session?
+	      xfbml		 : true
+	    });
+	  };
 	
-	<header>
+	  // Load the SDK's source Asynchronously
+	  // Note that the debug version is being actively developed and might 
+	  // contain some type checks that are overly strict. 
+	  // Please report such bugs using the bugs tool.
+	  (function(d, debug){
+	     var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+	     if (d.getElementById(id)) {return;}
+	     js = d.createElement('script'); js.id = id; js.async = true;
+	     js.src = "//connect.facebook.net/en_US/all.js";
+	     ref.parentNode.insertBefore(js, ref);
+	   }(document, /*debug*/ false));
+	</script>
+	
+	<!--[if lt IE 7]><p class=chromeframe>Your browser is <em>ancient!</em> <a href="http://browsehappy.com/">Upgrade to a different browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to experience this site.</p><![endif]-->
+
+	<header id="logged-out-nav">
 		<div class="alpha">
-			<nav id="primary" class="pr">
-				<a href="/" title="numberFire"><h1 id="logo">numberFire Fantasy Projections</h1></a>
-				<ul class="primary-nav pa">
+			<nav id="primary-nav" class="pr">
+				<a href="/" title="numberFire" id="mark">numberFire Fantasy Projections</a>
+				<ul id="primary" class="pa clearfix">
 					<li>
-						<a class="" href="/nfl/" title="NFL Power Rankings and Fantasy Projections">NFL</a>
+						<a class="top-level sport" href="/nba" title="NBA Power Rankings and Fantasy Projections">NBA</a>
 						<div class="wrapper clearfix dn">
-							<!-- 
-							<nav id="your-football-teams">
-								<div class="br" style="border-bottom: 1px solid #ddd; padding-bottom: 8px;">
-									<p class="sb">
-										<a href="#" class="strong">Your Team Name Here</a><span class="gray small"> &middot; Yahoo! league</span><br />
-										<a href="#" class="strong">Your Team Name Here</a><span class="gray small"> &middot; Yahoo! league</span><br />
-										<a href="#" class="strong">Your Team Name Here</a><span class="gray small"> &middot; Yahoo! league</span>
-									</p>
-									<p class="sb gray">
-										You do not have any saved teams. So sad!
-									</p>
-									<p>
-										+ <a href="/nfl/create-team/" class="strong">Create/Import New Team</a>
-									</p>
-								</div>
-							</nav>
-							 -->
-							<nav id="secondary-football">
+							<nav id="secondary-basketball">
+								
+								<!-- begin nba sub nav -->
 								<div class="dropdown-main fl clearfix">
-									<ul class="sub-nav">
-										<li><a class="strong" href="/nfl/" title="Fantasy Football Who To Start">NFL Home</a></li>
-										<li><a class="strong" href="/nfl/players/projections/" title="Fantasy Football Projections Week 13">Weekly Projections</a></li>
-										<li><a class="strong" href="/nfl/players/remaining-projections/" title="Fantasy Football Remaining Year Projections">Remaining Projections</a></li>
-										<li><a class="strong" href="/nfl/games" title="NFL Game Projections">Game Projections</a></li>
-										<li><a class="strong" href="/nfl/players/" title="NFL Player Power Rankings">Players</a></li>
-										<li><a class="strong" href="/nfl/teams/power-rankings/" title="NFL Team Power Rankings">Team Rankings</a></li>
-										<li><a class="strong" href="/nfl/teams/" title="NFL Team Analytics">Teams</a></li>
-										<li><a class="strong" href="/questions/nfl" title="NFL Questions">Questions</a></li>
-										<li><a class="strong" href="/nfl/user-teams" title="NFL Questions">Your Saved Teams</a></li>
+								
+									<h4 class="xsmall light-gray">DAILY FANTASY</h4>
+									<ul class="sub-nav clearfix br">
+										<li><a class="strong" href="/nba/daily-fantasy" title="NBA Daily Fantasy">Daily Fantasy Dashboard</a></li>
+										<li><a class="strong" href="/nba/players/daily-fantasy-projections" title="NBA Daily Fantasy Projections">Daily Fantasy Projections</a></li>
 									</ul>
-								</div>
-								<div class="dropdown-bulk fl clearfix">
-									<div class="clearfix br">
-										<div class="dropdown-tertiary fl clearfix">
-											<h4 class="small sb mt0">Trending Players</h4>
-											<ul class="tertiary-nav">
-																							<li><a href="/nfl/players/steve-johnson" title="Steve Johnson Fantasy Projection">Steve Johnson</a></li>
-																							<li><a href="/nfl/players/andre-johnson" title="Andre Johnson Fantasy Projection">Andre Johnson</a></li>
-																							<li><a href="/nfl/players/jamaal-charles" title="Jamaal Charles Fantasy Projection">Jamaal Charles</a></li>
-																							<li><a href="/nfl/players/ben-roethlisberger" title="Ben Roethlisberger Fantasy Projection">Ben Roethlisberger</a></li>
-																							<li><a href="/nfl/players/jason-witten" title="Jason Witten Fantasy Projection">Jason Witten</a></li>
-																							<li><a href="/nfl/players/steven-jackson" title="Steven Jackson Fantasy Projection">Steven Jackson</a></li>
-																							<li><a href="/nfl/players/hakeem-nicks" title="Hakeem Nicks Fantasy Projection">Hakeem Nicks</a></li>
-																							<li><a href="/nfl/players/marques-colston" title="Marques Colston Fantasy Projection">Marques Colston</a></li>
-																							<li><a href="/nfl/players/chris-johnson" title="Chris Johnson Fantasy Projection">Chris Johnson</a></li>
-																							<li><a href="/nfl/players/larry-fitzgerald" title="Larry Fitzgerald Fantasy Projection">Larry Fitzgerald</a></li>
-																							<li><a href="/nfl/players/michael-vick" title="Michael Vick Fantasy Projection">Michael Vick</a></li>
-																							<li><a href="/nfl/players/michael-turner" title="Michael Turner Fantasy Projection">Michael Turner</a></li>
-																							<li><a href="/nfl/players/tom-brady" title="Tom Brady Fantasy Projection">Tom Brady</a></li>
-																						</ul>
-										</div>
-										<div class="dropdown-tertiary fl clearfix">
-											<h4 class="small sb mt0">Trending Articles</h4>
-											<ul class="questions-nav">
-																							<li class="sb"><a href="/nfl/news/273/thursday-night-football-best-bets-strategies-week-13" title="Thursday Night Football Best Bets Strategies - ...">Thursday Night Football Best Bets Strategies - ...</a></li>
-																							<li class="sb"><a href="/nfl/news/272/week-13-s-top-fantasy-football-sleepers" title="Week 13's Top Fantasy Football Sleepers">Week 13's Top Fantasy Football Sleepers</a></li>
-																							<li class="sb"><a href="/nfl/news/263/mvp-watch-the-nfl-s-top-positional-performers-week-12" title="MVP Watch: The NFL's Top Positional Performers ...">MVP Watch: The NFL's Top Positional Performers ...</a></li>
-																							<li class="sb"><a href="/nfl/news/265/nfl-survivor-pool-best-bets-week-13" title="NFL Survivor Pool Best Bets: Week 13">NFL Survivor Pool Best Bets: Week 13</a></li>
-																							<li class="sb"><a href="/nfl/news/264/2012-nfl-playoffs-predictor-week-13" title="2012 NFL Playoffs Predictor: Week 13">2012 NFL Playoffs Predictor: Week 13</a></li>
-																						</ul>
-										</div>
-										<div class="dropdown-tertiary mr0 fl clearfix">
-											<h4 class="small sb mt0">Active Questions</h4>
-											<ul class="questions-nav">
-																							<li class="sb"><a href="/questions/view/12141/ryan-mathews-or-jacquizz-rodgers-this-week" title="Ryan Mathews or Jacquizz Rodgers this week?">Ryan Mathews or Jacquizz Rodgers this week?</a></li>
-																							<li class="sb"><a href="/questions/view/12144/tough-call" title="Tough Call...">Tough Call...</a></li>
-																							<li class="sb"><a href="/questions/view/12145/which-te-gresham-or-miller" title="Which TE: Gresham or Miller?">Which TE: Gresham or Miller?</a></li>
-																							<li class="sb"><a href="/questions/view/12089/big-week-need-a-win-to-lock-playoff-spot-who-to-play" title="Big week!!! Need a win to lock playoff spot!!! ...">Big week!!! Need a win to lock playoff spot!!! ...</a></li>
-																							<li class="sb"><a href="/questions/view/12139/heath-miller-marty-bennett-or-kyle-rudolph-this-week-te" title="Heath Miller, Marty Bennett, or Kyle Rudolph th...">Heath Miller, Marty Bennett, or Kyle Rudolph th...</a></li>
-																						</ul>
-										</div>
-									</div>
-									<div class="clearfix">
-										<div class="dropdown-tertiary fl clearfix">
-											<ul class="browse-all tertiary-nav">
-												<li><a href="/nfl/players" title="Fantasy Football Player Rankings" class="strong">Browse All Players</a></li>
-											</ul>
-										</div>
-										<div class="dropdown-tertiary fl clearfix">
-											<ul class="browse-all tertiary-nav">
-												<li><a href="/nfl/news" title="Fantasy Football Help" class="strong">Browse All Articles</a></li>
-											</ul>
-										</div>
-										<div class="dropdown-tertiary mr0 fl clearfix">
-											<ul class="browse-all tertiary-nav">
-												<li><a class="strong" href="/questions/nfl/" title="NFL Questions">Browse All Questions</a></li>
-											</ul>
-										</div>
-									</div>
-								</div>
-							</nav>
-						</div>
-					</li>
-					<li>
-						<a class="" href="/nba/" title="NBA Power Rankings and Fantasy Projections">NBA</a>
-						<div class="wrapper clearfix dn">
-							<nav id="secondary-football">
-								<div class="dropdown-main fl clearfix">
-									<ul class="sub-nav">
-										<li><a class="strong" href="/nba" title="Fantasy Basketball Who To Start">NBA Home</a></li>
-										<li><a class="strong" href="/nba/players/daily-fantasy-projections/" title="NBA Daily Fantasy Projections">Daily Projections</a></li>
+																			
+									<h4 class="xsmall light-gray">PROJECTIONS</h4>
+									<ul class="sub-nav clearfix br">
+										<li><a class="strong" href="/nba/players/weekly-projections" title="NBA Weekly Fantasy Projections">Weekly Projections</a></li>
+										<li><a class="strong" href="/nba/players/yearly-projections/" title="NBA Player Yearly Projections">Yearly Projections</a></li>
+										<li><a class="strong" href="/nba/games" title="NBA Betting Game Picks and Simulations">Game Projections</a></li>
+									</ul>
+									
+									<h4 class="xsmall light-gray">RANKINGS</h4>
+									<ul class="sub-nav clearfix br">
 										<li><a class="strong" href="/nba/players/power-rankings" title="NBA Player Power Rankings">Player Rankings</a></li>
 										<li><a class="strong" href="/nba/teams/power-rankings" title="NBA Team Power Rankings">Team Rankings</a></li>
-										<li><a class="strong" href="/nba/players" title="NBA Players">Players</a></li>
-										<li><a class="strong" href="/nba/teams" title="NBA Teams">Teams</a></li>
-										<li><a class="strong" href="/nba/games" title="NBA Betting Game Picks and Simulations">Game Projections</a></li>
+									</ul>
+									<h4 class="xsmall light-gray">EXPLORE</h4>
+									<ul class="sub-nav clearfix">
+										<li><a class="strong" href="/nba/players/" title="NBA Player Power Rankings">Players</a></li>
+										<li><a class="strong" href="/nba/teams/" title="NBA Team Analytics">Teams</a></li>
 										<li><a class="strong" href="/questions/nba" title="NBA Questions">Questions</a></li>
 									</ul>
 								</div>
+								
 								<div class="dropdown-bulk fl clearfix">
-									<div class="clearfix br">
+																														<div class="clearfix">
+												<div class="nav-article-node clearfix">
+											        <div class="nav-article-image fl clearfix">
+											            <a href="/nba/news/868/heat-pacers-game-4-one-improbable-stat-after-another" title="Heat/Pacers Game 4: One Improbable Stat After A...">
+											            	<img width="138" height="70" src="https://s3.amazonaws.com/numberfire/website/articles/868_a3.jpg">
+											            </a>
+											        </div> 
+											        <div class="nav-article-bulk fl clearfix">
+											            <p class="sb"><a href="/nba/news/868/heat-pacers-game-4-one-improbable-stat-after-another" title="Heat/Pacers Game 4: One Improbable Stat After A..." class="strong">Heat/Pacers Game 4: One Improbable Stat After A...</a></p>
+											            <p class="small">
+											            	<a href="/nba/news/868/heat-pacers-game-4-one-improbable-stat-after-another" title="Heat/Pacers Game 4: One Improbable Stat After A...">
+											            		Miami went 30 for 77? Don't worry LeBron, that will only happen les...											            	</a>
+											            </p>
+											        </div>
+											    </div>
+											</div>
+																					<div class="clearfix">
+												<div class="nav-article-node clearfix">
+											        <div class="nav-article-image fl clearfix">
+											            <a href="/nba/news/865/san-antonio-spurs-nba-title-odds-against-heat-pacers" title="San Antonio Spurs' NBA Title Odds Against Heat/...">
+											            	<img width="138" height="70" src="https://s3.amazonaws.com/numberfire/website/articles/865_a3.jpg">
+											            </a>
+											        </div> 
+											        <div class="nav-article-bulk fl clearfix">
+											            <p class="sb"><a href="/nba/news/865/san-antonio-spurs-nba-title-odds-against-heat-pacers" title="San Antonio Spurs' NBA Title Odds Against Heat/..." class="strong">San Antonio Spurs' NBA Title Odds Against Heat/...</a></p>
+											            <p class="small">
+											            	<a href="/nba/news/865/san-antonio-spurs-nba-title-odds-against-heat-pacers" title="San Antonio Spurs' NBA Title Odds Against Heat/...">
+											            		San Antonio's title chances would increase 26 percent against India...											            	</a>
+											            </p>
+											        </div>
+											    </div>
+											</div>
+																		     									<div class="clearfix br">
 										<div class="dropdown-tertiary fl clearfix">
 											<h4 class="small sb mt0">Trending Players</h4>
 											<ul class="tertiary-nav">
+																							<li><a href="/nba/players/blake-griffin" title="Blake Griffin Fantasy Projection">Blake Griffin</a></li>
+																							<li><a href="/nba/players/russell-westbrook" title="Russell Westbrook Fantasy Projection">Russell Westbrook</a></li>
 																							<li><a href="/nba/players/chris-paul" title="Chris Paul Fantasy Projection">Chris Paul</a></li>
-																							<li><a href="/nba/players/kobe-bryant" title="Kobe Bryant Fantasy Projection">Kobe Bryant</a></li>
-																							<li><a href="/nba/players/tim-duncan" title="Tim Duncan Fantasy Projection">Tim Duncan</a></li>
+																							<li><a href="/nba/players/james-harden" title="James Harden Fantasy Projection">James Harden</a></li>
 																							<li><a href="/nba/players/lebron-james" title="LeBron James Fantasy Projection">LeBron James</a></li>
 																							<li><a href="/nba/players/kevin-durant" title="Kevin Durant Fantasy Projection">Kevin Durant</a></li>
-																							<li><a href="/nba/players/chris-bosh" title="Chris Bosh Fantasy Projection">Chris Bosh</a></li>
-																							<li><a href="/nba/players/nene-hilario" title="Nene Hilario Fantasy Projection">Nene Hilario</a></li>
 																							<li><a href="/nba/players/marc-gasol" title="Marc Gasol Fantasy Projection">Marc Gasol</a></li>
-																							<li><a href="/nba/players/tyson-chandler" title="Tyson Chandler Fantasy Projection">Tyson Chandler</a></li>
 																						</ul>
 										</div>
 										<div class="dropdown-tertiary fl clearfix">
 											<h4 class="small sb mt0">Trending Articles</h4>
 											<ul class="questions-nav">
-																							<li class="sb"><a href="/nba/news/271/miami-heat-stat-monkey-brief-heat-spurs-11-29-12" title="Miami Heat Stat Monkey Brief: Heat/Spurs (11/29...">Miami Heat Stat Monkey Brief: Heat/Spurs (11/29...</a></li>
-																							<li class="sb"><a href="/nba/news/270/new-york-knicks-stat-monkey-brief-knicks-bucks-11-28-12" title="New York Knicks Stat Monkey Brief: Knicks/Bucks...">New York Knicks Stat Monkey Brief: Knicks/Bucks...</a></li>
-																							<li class="sb"><a href="/nba/news/269/chicago-bulls-stat-monkey-brief-bulls-mavs-11-28-12" title="Chicago Bulls Stat Monkey Brief: Bulls/Mavs (11...">Chicago Bulls Stat Monkey Brief: Bulls/Mavs (11...</a></li>
-																							<li class="sb"><a href="/nba/news/267/los-angeles-clippers-stat-monkey-brief-clippers-t-wolves-11-28-12" title="Los Angeles Clippers Stat Monkey Brief: Clipper...">Los Angeles Clippers Stat Monkey Brief: Clipper...</a></li>
+																							<li class="sb"><a href="/nba/news/868/heat-pacers-game-4-one-improbable-stat-after-another" title="Heat/Pacers Game 4: One Improbable Stat After A...">Heat/Pacers Game 4: One Improbable Stat After A...</a></li>
+																							<li class="sb"><a href="/nba/news/865/san-antonio-spurs-nba-title-odds-against-heat-pacers" title="San Antonio Spurs' NBA Title Odds Against Heat/...">San Antonio Spurs' NBA Title Odds Against Heat/...</a></li>
 																						</ul>
 										</div>
 										<div class="dropdown-tertiary mr0 fl clearfix">
 											<h4 class="small sb mt0">Active Questions</h4>
 											<ul class="questions-nav">
-																							<li class="sb"><a href="/questions/view/12086/trade-carmelo-and-jr-smith" title="Trade Carmelo and JR Smith">Trade Carmelo and JR Smith</a></li>
-																							<li class="sb"><a href="/questions/view/11883/pick-up-seraphin" title="Pick up Seraphin???">Pick up Seraphin???</a></li>
-																							<li class="sb"><a href="/questions/view/11854/i-m-in-a-sticky-situation-last-in-the-league-of-12-and-i-need-some-advice-my-team-has-andre-miller-rodney-stuckey-tyreke-evans-gordon-hayward-kevin-love-antawn-jamison-david-lee-greg-monroe-javale-mcgee-john-henson-ray-allen-dirk-nowitzki-and-marcus-morris" title="I'm in a sticky situation, last in the league o...">I'm in a sticky situation, last in the league o...</a></li>
-																							<li class="sb"><a href="/questions/view/11763/mo-williams-or-aaron-brooks" title="Mo Williams or Aaron Brooks???">Mo Williams or Aaron Brooks???</a></li>
+																							<li class="sb"><a href="/questions/view/15025/will-dwight-howard-sign-with-the-lakers" title="Will Dwight Howard sign with the Lakers?">Will Dwight Howard sign with the Lakers?</a></li>
+																							<li class="sb"><a href="/questions/view/15027/would-you-be-more-surpried-if-heat-pacers-went-5-or-7-games" title="Would you be more surpried if Heat/Pacers went ...">Would you be more surpried if Heat/Pacers went ...</a></li>
+																							<li class="sb"><a href="/questions/view/15024/how-many-games-will-the-pacers-take-off-the-heat" title="How many games will the Pacers take off the Heat?">How many games will the Pacers take off the Heat?</a></li>
 																						</ul>
 										</div>
 									</div>
 									<div class="clearfix">
 										<div class="dropdown-tertiary fl clearfix">
-											<ul class="browse-all tertiary-nav">
-												<li><a href="/nba/players" class="strong">Browse All Players</a></li>
+											<ul class="browse-all tertiary-nav small">
+												<li><a href="/nba/players" title="Fantasy Basketball Player Rankings" class="strong">Browse All Players</a></li>
 											</ul>
 										</div>
 										<div class="dropdown-tertiary fl clearfix">
-											<ul class="browse-all tertiary-nav">
-												<li><a href="/nba/news" class="strong">Browse All Articles</a></li>
+											<ul class="browse-all tertiary-nav small">
+												<li><a href="/nba/news" title="Fantasy Basketball Help" class="strong">Browse All Articles</a></li>
 											</ul>
 										</div>
 										<div class="dropdown-tertiary mr0 fl clearfix">
-											<ul class="browse-all tertiary-nav">
-												<li><a href="/questions/nba" class="strong">Browse All Questions</a></li>
+											<ul class="browse-all tertiary-nav small">
+												<li><a class="strong" href="/questions/nba/" title="NBA Questions">Browse All Questions</a></li>
 											</ul>
 										</div>
 									</div>
 								</div>
+								<!-- end football sub nav -->
+								
+								
 							</nav>
 						</div>
 					</li>
 					<li>
-						<a class="" href="/mlb/" title="MLB Power Rankings and Fantasy Projections">MLB</a>
+						<a class="top-level sport" href="/mlb" title="MLB Power Rankings and Fantasy Projections">MLB</a>
 						<div class="wrapper clearfix dn">
-							<nav id="secondary-football">
+							<nav id="secondary-baseball">
+								
+								
+								<!-- begin nba sub nav -->
 								<div class="dropdown-main fl clearfix">
-									<ul class="sub-nav">
-										<li><a class="strong" href="/mlb/" title="Fantasy Baseball Who To Start">MLB Home</a></li>
+								
+									<h4 class="xsmall light-gray">DAILY FANTASY</h4>
+									<ul class="sub-nav clearfix br">
+										<li><a class="strong" href="/mlb/daily-fantasy" title="MLB Daily Fantasy Projections">Daily Fantasy Dashboard</a></li>
+										<li><a class="strong" href="/mlb/players/daily-fantasy-projections" title="MLB Daily Fantasy Projections">Daily Fantasy Projections</a></li>
+									</ul>
+																			
+									<h4 class="xsmall light-gray">PROJECTIONS</h4>
+									<ul class="sub-nav clearfix br">
+										<li><a class="strong" href="/mlb/players/yearly-projections/" title="MLB Player Projections">Yearly Projections</a></li>
+										<li><a class="strong" href="/mlb/players/remaining-projections/" title="MLB Remaining Year Projections">Remaining Projections</a></li>
 										<li><a class="strong" href="/mlb/games/" title="MLB Betting Game Picks and Simulations">Game Projections</a></li>
-										<li><a class="strong" href="/mlb/players/power-rankings/" title="MLB Player Power Rankings">Player Rankings</a></li>
-										<li><a class="strong" href="/mlb/players/yearly-projections/" title="MLB Player Projections">Player Projections</a></li>
-										<li><a class="strong" href="/mlb/players/" title="MLB Player Analytics">Players</a></li>
-										<li><a class="strong" href="/mlb/teams/power-rankings/" title="MLB Team Power Rankings">Team Rankings</a></li>
-										<li><a class="strong" href="/mlb/teams/" title="MLB Team Analytics">Teams</a></li>
-										<li><a class="strong" href="/questions/mlb/" title="MLB Questions">Questions</a></li>
+									</ul>
+									
+									<h4 class="xsmall light-gray">RANKINGS</h4>
+									<ul class="sub-nav clearfix br">
+										<li><a class="strong" href="/mlb/players/power-rankings" title="MLB Player Power Rankings">Player Rankings</a></li>
+										<li><a class="strong" href="/mlb/teams/power-rankings" title="MLB Team Power Rankings">Team Rankings</a></li>
+									</ul>
+									
+									<h4 class="xsmall light-gray">EXPLORE</h4>
+									<ul class="sub-nav clearfix">
+										<li class="clearfix"><a class="strong" href="/mlb/players/" title="MLB Players">Players</a></li>
+										<li class="clearfix"><a class="strong" href="/mlb/teams/" title="MLB Team">Teams</a></li>
+										<li class="clearfix"><a class="strong" href="/questions/mlb" title="MLB Questions">Questions</a></li>
 									</ul>
 								</div>
+								
 								<div class="dropdown-bulk fl clearfix">
-									<div class="clearfix br">
+																														<div class="clearfix">
+												<div class="nav-article-node clearfix">
+											        <div class="nav-article-image fl clearfix">
+											            <a href="/mlb/news/871/atlanta-s-mike-minor-potential-cy-young-pitcher" title="Atlanta's Mike Minor: Potential Cy Young Pitcher?">
+											            	<img width="138" height="70" src="https://s3.amazonaws.com/numberfire/website/articles/871_a3.jpg">
+											            </a>
+											        </div> 
+											        <div class="nav-article-bulk fl clearfix">
+											            <p class="sb"><a href="/mlb/news/871/atlanta-s-mike-minor-potential-cy-young-pitcher" title="Atlanta's Mike Minor: Potential Cy Young Pitcher?" class="strong">Atlanta's Mike Minor: Potential Cy Young Pitcher?</a></p>
+											            <p class="small">
+											            	<a href="/mlb/news/871/atlanta-s-mike-minor-potential-cy-young-pitcher" title="Atlanta's Mike Minor: Potential Cy Young Pitcher?">
+											            		The Atlanta Braves have one clear Staff Ace, and the answer isn't M...											            	</a>
+											            </p>
+											        </div>
+											    </div>
+											</div>
+																					<div class="clearfix">
+												<div class="nav-article-node clearfix">
+											        <div class="nav-article-image fl clearfix">
+											            <a href="/mlb/news/870/man-on-fire-oakland-athletics-3b-josh-donaldson" title="Man on Fire: Oakland Athletics 3B Josh Donaldson">
+											            	<img width="138" height="70" src="https://s3.amazonaws.com/numberfire/website/articles/870_a3.jpg">
+											            </a>
+											        </div> 
+											        <div class="nav-article-bulk fl clearfix">
+											            <p class="sb"><a href="/mlb/news/870/man-on-fire-oakland-athletics-3b-josh-donaldson" title="Man on Fire: Oakland Athletics 3B Josh Donaldson" class="strong">Man on Fire: Oakland Athletics 3B Josh Donaldson</a></p>
+											            <p class="small">
+											            	<a href="/mlb/news/870/man-on-fire-oakland-athletics-3b-josh-donaldson" title="Man on Fire: Oakland Athletics 3B Josh Donaldson">
+											            		The power and OBP should stay, but what about that high batting ave...											            	</a>
+											            </p>
+											        </div>
+											    </div>
+											</div>
+																		     									<div class="clearfix br">
 										<div class="dropdown-tertiary fl clearfix">
 											<h4 class="small sb mt0">Trending Players</h4>
 											<ul class="tertiary-nav">
-																							<li><a href="/mlb/players/mike-trout" title="Mike Trout Fantasy Projection">Mike Trout</a></li>
-																							<li><a href="/mlb/players/johnny-cueto" title="Johnny Cueto Fantasy Projection">Johnny Cueto</a></li>
-																							<li><a href="/mlb/players/prince-fielder" title="Prince Fielder Fantasy Projection">Prince Fielder</a></li>
-																							<li><a href="/mlb/players/ra-dickey" title="R.A. Dickey Fantasy Projection">R.A. Dickey</a></li>
-																							<li><a href="/mlb/players/joey-votto" title="Joey Votto Fantasy Projection">Joey Votto</a></li>
-																							<li><a href="/mlb/players/robinson-cano" title="Robinson Cano Fantasy Projection">Robinson Cano</a></li>
+																							<li><a href="/mlb/players/cliff-lee" title="Cliff Lee Fantasy Projection">Cliff Lee</a></li>
+																							<li><a href="/mlb/players/aj-burnett" title="A.J. Burnett Fantasy Projection">A.J. Burnett</a></li>
+																							<li><a href="/mlb/players/max-scherzer" title="Max Scherzer Fantasy Projection">Max Scherzer</a></li>
+																							<li><a href="/mlb/players/chris-davis" title="Chris Davis Fantasy Projection">Chris Davis</a></li>
+																							<li><a href="/mlb/players/adam-wainwright" title="Adam Wainwright Fantasy Projection">Adam Wainwright</a></li>
+																							<li><a href="/mlb/players/yu-darvish" title="Yu Darvish Fantasy Projection">Yu Darvish</a></li>
 																							<li><a href="/mlb/players/miguel-cabrera" title="Miguel Cabrera Fantasy Projection">Miguel Cabrera</a></li>
-																							<li><a href="/mlb/players/justin-verlander" title="Justin Verlander Fantasy Projection">Justin Verlander</a></li>
-																							<li><a href="/mlb/players/matt-cain" title="Matt Cain Fantasy Projection">Matt Cain</a></li>
-																							<li><a href="/mlb/players/buster-posey" title="Buster Posey Fantasy Projection">Buster Posey</a></li>
 																						</ul>
 										</div>
 										<div class="dropdown-tertiary fl clearfix">
 											<h4 class="small sb mt0">Trending Articles</h4>
 											<ul class="questions-nav">
-																							<li class="sb"><a href="/mlb/news/171/world-series-watch-game-2-updated-predictions" title="World Series Watch, Game 2: Updated Predictions">World Series Watch, Game 2: Updated Predictions</a></li>
-																							<li class="sb"><a href="/mlb/news/168/2012-world-series-predictions-who-math-says-will-win" title="2012 World Series Predictions: Who Math! Says W...">2012 World Series Predictions: Who Math! Says W...</a></li>
-																							<li class="sb"><a href="/mlb/news/9/analyzing-the-suzuki-and-sanchez-trades" title="Analyzing the Suzuki and Sanchez trades">Analyzing the Suzuki and Sanchez trades</a></li>
-																							<li class="sb"><a href="/mlb/news/6/verlander-cain-will-they-slump" title="Verlander &amp; Cain: Will They Slump?">Verlander &amp; Cain: Will They Slump?</a></li>
+																							<li class="sb"><a href="/mlb/news/871/atlanta-s-mike-minor-potential-cy-young-pitcher" title="Atlanta's Mike Minor: Potential Cy Young Pitcher?">Atlanta's Mike Minor: Potential Cy Young Pitcher?</a></li>
+																							<li class="sb"><a href="/mlb/news/870/man-on-fire-oakland-athletics-3b-josh-donaldson" title="Man on Fire: Oakland Athletics 3B Josh Donaldson">Man on Fire: Oakland Athletics 3B Josh Donaldson</a></li>
 																						</ul>
 										</div>
 										<div class="dropdown-tertiary mr0 fl clearfix">
 											<h4 class="small sb mt0">Active Questions</h4>
 											<ul class="questions-nav">
-																							<li class="sb"><a href="/questions/view/8929/how-many-games-will-the-world-series-last" title="How many games will the World Series last?">How many games will the World Series last?</a></li>
-																							<li class="sb"><a href="/questions/view/8831/what-are-you-watching-tonight-baseball-or-football" title="What are you watching tonight? Baseball or foot...">What are you watching tonight? Baseball or foot...</a></li>
-																							<li class="sb"><a href="/questions/view/8778/can-the-tigers-climb-out-of-the-0-1-hole" title="Can the Tigers climb out of the 0-1 hole?">Can the Tigers climb out of the 0-1 hole?</a></li>
-																							<li class="sb"><a href="/questions/view/8516/who-is-it-going-to-be-giants-or-tigers" title="Who is it going to be: Giants or Tigers?">Who is it going to be: Giants or Tigers?</a></li>
+																							<li class="sb"><a href="/questions/view/15031/nelson-cruz-or-nick-markakis" title="Nelson Cruz or Nick Markakis?">Nelson Cruz or Nick Markakis?</a></li>
+																							<li class="sb"><a href="/questions/view/15030/pitching-help" title="Pitching Help">Pitching Help</a></li>
+																							<li class="sb"><a href="/questions/view/15029/trade" title="Trade">Trade</a></li>
 																						</ul>
 										</div>
 									</div>
 									<div class="clearfix">
 										<div class="dropdown-tertiary fl clearfix">
-											<ul class="browse-all tertiary-nav">
-												<li><a href="/mlb/players" class="strong">Browse All Players</a></li>
+											<ul class="browse-all tertiary-nav small">
+												<li><a href="/mlb/players" title="Fantasy Baseball Player Rankings" class="strong">Browse All Players</a></li>
 											</ul>
 										</div>
 										<div class="dropdown-tertiary fl clearfix">
-											<ul class="browse-all tertiary-nav">
-												<li><a href="/mlb/news" class="strong">Browse All Articles</a></li>
+											<ul class="browse-all tertiary-nav small">
+												<li><a href="/mlb/news" title="Fantasy Baseball News" class="strong">Browse All Articles</a></li>
 											</ul>
 										</div>
 										<div class="dropdown-tertiary mr0 fl clearfix">
-											<ul class="browse-all tertiary-nav">
-												<li><a href="/questions/mlb" class="strong">Browse All Questions</a></li>
+											<ul class="browse-all tertiary-nav small">
+												<li><a class="strong" href="/questions/mlb" title="MLB Questions">Browse All Questions</a></li>
 											</ul>
 										</div>
 									</div>
 								</div>
-
+								<!-- end baseball sub nav -->
+								
+								
 							</nav>
 						</div>
+						
 					</li>
-					<style type="text/css">
-					
-						nav#secondary-premium div ul li a {
-							width: 300px;
-						}
-					
-					</style>
-					<li>
-						<a class="" href="/premium/" title="numberFire Premium Features">Premium</a>
-						<div class="wrapper clearfix dn" style="width: 300px">
+					<li id="premium">
+						<a href="/premium" class="top-level sport" title="Gambling Advice and Recommendations">PREMIUM</a>
+						<div class="wrapper clearfix dn">
 							<nav id="secondary-premium">
-								<div class="dropdown-main fl clearfix">
-									<ul class="sub-nav br">
-										<li><a class="strong" href="/nfl/games/" title="NFL Game Projections">NFL Game Projections</a></li>
+								<div class="dropdown-main fl clearfix mr0">
+									<a href="/premium"><img src="/images-new/premium/premium_ss.png" width="300" class="br"></a>
+									<p class="gray br">Want to make some real money? Our Premium products help you dominate your daily fantasy leagues and put a hurting on Vegas.</p>
+									<h4 class="xsmall light-gray">PROJECTIONS</h4>
+									<ul class="clearfix sub-nav br">
+										<li><a class="strong" href="/mlb/games/" title="MLB Game Projections">MLB Game Projections</a></li>
 										<li><a class="strong" href="/nba/games/" title="NBA Game Projections">NBA Game Projections</a></li>
-										<li><a class="strong" href="/ncaab/games/" title="NBA Game Projections">NCAAB Game Projections</a></li>
-										<li style="margin-bottom: 25px"><a class="strong" href="/ncaaf/games/" title="NCAAF Game Projections">NCAAF Game Projections</a></li>
-										<li><a style="color: #666; border-bottom: 0" class="strong" href="/premium/" title="What is numberFire Premium?">» What Is Premium?</a></li>
+									</ul>
+									<h4 class="xsmall light-gray">DAILY FANTASY</h4>
+									<ul class="clearfix sub-nav br">
+										<li><a class="strong" href="/mlb/daily-fantasy/optimal-lineups" title="MLB Optimal Lineups">MLB Optimal Lineups</a></li>
+										<li><a class="strong" href="/nba/daily-fantasy/optimal-lineups" title="NBA Optimal Lineups">NBA Optimal Lineups</a></li>
+									</ul>
+									<h4 class="xsmall light-gray">MORE INFO</h4>
+									<ul class="clearfix sub-nav">
+										<li><a class="strong" href="/premium/" title="What is numberFire Premium?">What Is Premium?</a></li>
+										<li><a class="strong" href="/premium/results" title="What is numberFire Premium?">Premium Results</a></li>
 									</ul>
 								</div>
 							</nav>
 						</div>
 					</li>
-					<!-- 
-					<li>
-						<a class="" href="/ncaa-football/" title="NCAA Football Power Rankings and Fantasy Projections">NCAAF</a>
+					<li id="daily-fantasy">
+						<a href="/nba/daily-fantasy" class="top-level sport" title="Daily Fantasy Projections And Advice">DAILY FANTASY</a>
 						<div class="wrapper clearfix dn">
-							<nav id="secondary-football">
-								<div class="dropdown-main fl clearfix">
-									<ul class="sub-nav">
-										<li><a class="strong" href="/ncaa-football/" title="NCAA Football Stats and Analytics">NCAAF Home</a></li>
-										<li><a class="strong" href="/ncaa-football/teams/power-rankings/" title="NCAA Team Rankings">Team Rankings</a></li>
-										<li><a class="strong" href="/ncaa-football/games/" title="NCAA Handicapping and Game Projections">Game Projections</a></li>
-										<li><a class="strong" href="/questions/ncaa-football/" title="NCAA Football Questions">Questions</a></li>
+							<nav id="secondary-premium">
+								<div class="dropdown-main fl clearfix mr0">
+									<a href="/nba/daily-fantasy"><img src="/images-new/daily-fantasy/dailyfantasy_ss.jpg" width="300" class="br"></a>
+									<p class="gray br">Our daily fantasy dashboard helps you find the best values, submit the best lineups, and get feedback from other players.</p>
+									<h4 class="xsmall light-gray">DASHBOARD</h4>
+									<ul class="clearfix sub-nav br">
+										<li><a class="strong" href="/mlb/daily-fantasy" title="MLB Daily Fantasy">MLB Daily Fantasy</a></li>
+										<li><a class="strong" href="/nba/daily-fantasy" title="NBA Daily Fantasy">NBA Daily Fantasy</a></li>
+									</ul>
+									<h4 class="xsmall light-gray">OPTIMAL LINEUPS</h4>
+									<ul class="clearfix sub-nav">
+										<li><a class="strong" href="/mlb/daily-fantasy/optimal-lineups" title="MLB Daily Fantasy Optimal Lineups">MLB Optimal Lineups</a></li>
+										<li><a class="strong" href="/nba/daily-fantasy/optimal-lineups" title="NBA Daily Fantasy Optimal Lineups">NBA Optimal Lineups</a></li>
 									</ul>
 								</div>
-								<div class="dropdown-bulk fl clearfix">
-									<div class="clearfix br">
-										<div class="dropdown-tertiary fl clearfix">
-											<h4 class="small sb mt0">Trending Teams</h4>
-											<ul class="tertiary-nav">
-												<li><a href="/ncaa-football/teams/lsu-tigers" title="LSU Tigers Football Stats">LSU Tigers</a></li>
-												<li><a href="/ncaa-football/teams/usc-trojans" title="USC Trojans Football Stats">USC Trojans</a></li>
-												<li><a href="/ncaa-football/teams/oregon-ducks" title="Oregon Ducks Football Stats">Oregon Ducks</a></li>
-												<li><a href="/ncaa-football/teams/wisconsin-badgers" title="Wisconsin Badgers Football Stats">Wisconsin Badgers</a></li>
-												<li><a href="/ncaa-football/teams/michigan-wolverines" title="Michigan Wolverines Football Stats">Michigan Wolverines</a></li>
-											</ul>
-										</div>
-										<div class="dropdown-tertiary fl clearfix">
-											<h4 class="small sb mt0">Trending Articles</h4>
-											<ul class="questions-nav">
-												<li class="sb"><a href="/articles/194-Most-Valuable-Plays-From-Week-One" title="Most Valuable Plays From Week One">Most Valuable Plays From Week One</a></li>
-												<li class="sb"><a href="/articles/194-Most-Valuable-Plays-From-Week-One" title="Most Valuable Plays From Week One">Most Valuable Plays From Week One</a></li>
-												<li><a href="/articles/194-Most-Valuable-Plays-From-Week-One" title="Most Valuable Plays From Week One">Most Valuable Plays From Week One</a></li>
-											</ul>
-										</div>
-										<div class="dropdown-tertiary mr0 fl clearfix">
-											<h4 class="small sb mt0">Active Questions</h4>
-											<ul class="questions-nav">
-												<li class="sb"><a href="#">Who do you start: Eli Manning or Ben Roethlisberger?</a></li>
-												<li><a href="#">Would you draft Aaron Rodgers in the first round?</a></li>
-											</ul>
-										</div>
-									</div>
-									<div class="clearfix">
-										<div class="dropdown-tertiary fl clearfix">
-											<ul class="browse-all tertiary-nav">
-												<li><a href="#" class="strong">Browse All Players</a></li>
-											</ul>
-										</div>
-										<div class="dropdown-tertiary fl clearfix">
-											<ul class="browse-all tertiary-nav">
-												<li><a href="#" class="strong">Browse All Articles</a></li>
-											</ul>
-										</div>
-										<div class="dropdown-tertiary mr0 fl clearfix">
-											<ul class="browse-all tertiary-nav">
-												<li><a href="#" class="strong">Browse All Questions</a></li>
-											</ul>
-										</div>
-									</div>
-								</div>
+							</nav>
+						</div>
+					</li>
+					<li><a href="/news/list" class="top-level" title="Latest Articles and Insights">ARTICLES</a></li>
+					<li><a href="/questions" class="top-level" title="Answer Questions And Climb The Leaderboard">QUESTIONS</a></li>
 
-							</nav>
-						</div>
-					</li>
-					<li class="second-level">
-						<a href="/game/dod">Games</a>
-						<div class="wrapper clearfix dn">
-							<nav id="secondary-football">
-								two big images, one for DoD, one for meta/uber overall leaderboard
-							</nav>
-						</div>
-					</li>
-					<li class="second-level"><a href="/premium">Premium</a></li>
-					 -->
-					<li class="second-level"><a href="/news/list">Articles</a></li>
-					<li class="second-level"><a href="/questions">Questions</a></li>
-					<li class="second-level"><a href="/leaderboard">Leaderboard</a></li>
 				</ul>
-				<div id="search-wrapper" class="pa">
-					<input type="text" id="search-box" name="search-box">
+				<!-- to do: refactor inline style -->
+				<div id="search-bar" class="pa">
+					<input placeholder="Search" type="text" id="search-box" name="search-box" class="ui-autocomplete-input placeholder" autocomplete="off" role="textbox" aria-autocomplete="list" aria-haspopup="true">
 				</div>
-									<a onclick="_gaq.push(['_trackEvent', 'Registration', 'ButtonClick', 'Top Right Register - /info/privacy-policy/']);" href="/account/register" id="register-button" class="pa cta cta-green mr0">Register</a>
-					<a onclick="_gaq.push(['_trackEvent', 'Registration', 'ButtonClick', 'Top Right Login - /info/privacy-policy/']);" href="/account/login" id="signin-button" class="pa cta">Sign In</a>
-							</nav>
+				<div id="signup" class="pa clearfix">
+					<ul id="signup">
+													<li><a onclick="_gaq.push(['_trackEvent', 'Registration', 'ButtonClick', 'Top Right Register - /']);" href="/account/register" id="register-button" class="cta cta-green mr0 glow">Register</a></li>
+							<li><a onclick="_gaq.push(['_trackEvent', 'Registration', 'ButtonClick', 'Top Right Login - /']);" href="/account/login" id="signin-button" class="cta" style="margin-right: 7px">Sign In</a></li>
+											</ul>
+				</div>
+			</nav>
 		</div>
 	</header>
 	
-	<div id="container" class="has-bg" role="main" style="padding-top: 52px">
+	<div id="container" class="has-bg" role="main">
 	<div class="wrapper clearfix">
 		<div class="fl beta-bg clearfix">
 		
@@ -554,22 +540,29 @@
 					<ul>
 						<li><h5>Analytics</h5></li>
 						<li><a href="/nfl" title="NFL Analytics">NFL Home</a></li>
-						<li><a href="/nfl/draft-kit" title="NFL Fantasy Draft Kit">NFL Fantasy Draft Kit</a></li>
-						<li><a href="/nfl/players/projections" title="NFL Fantasy Projections">NFL Fantasy Projections</a></li>
-						<li><a href="/nfl/players" title="NFL Fantasy Draft Kit">NFL Players</a></li>
+						<li><a href="/nfl/draft-kit" title="NFL Fantasy Draft Kit">NFL Player Rankings</a></li>
+						<li><a href="/nfl/players/projections" title="NFL Fantasy Projections">NFL Player Projections</a></li>
 						<li><a href="/nfl/teams/power-rankings" title="NFL Team Rankings">NFL Team Rankings</a></li>
-						<li><a href="/nfl/teams" title="NFL Team Analytics">NFL Teams</a></li>
-						<li><a href="/questions/nfl" title="NFL Questions">NFL Questions</a></li>
+						<li><a href="/nfl/games" title="NFL Betting Game Picks and Simulations">NFL Game Projections</a></li>
 						<hr>				
 						<li><a href="/nba" title="Fantasy Basketball Who To Start">NBA Home</a></li>
 						<li><a href="/nba/players/daily-fantasy-projections/" title="NBA Daily Fantasy Projections">NBA Daily Projections</a></li>
+						<li><a href="/nba/players/weekly-projections/" title="NBA Weekly Projections">NBA Weekly Projections</a></li>
 						<li><a href="/nba/players/power-rankings" title="NBA Player Power Rankings">NBA Player Rankings</a></li>
 						<li><a href="/nba/teams/power-rankings" title="NBA Team Power Rankings">NBA Team Rankings</a></li>
-						<li><a href="/nba/players" title="NBA Players">NBA Players</a></li>
-						<li><a href="/nba/teams" title="NBA Teams">NBA Teams</a></li>
-						<li><a href="/nba/games" title="NBA Betting Game Picks and Simulations">NBA Game Projections</a></li>
-						<li><a href="/questions/nba" title="NBA Questions">NBA Questions</a></li>			
+						<li><a href="/nba/players/season-stats" title="NBA Season Player Stats">NBA Season Stats</a></li>
+						<li><a href="/nba/players/yearly-projections/" title="NBA Player Yearly Projections">NBA Yearly Projections</a></li>
+						<li><a href="/nba/games" title="NBA Betting Game Picks and Simulations">NBA Game Projections</a></li>			
 						<hr>
+						<li><a href="/mlb" title="Fantasy Baseball Who To Start">MLB Home</a></li>
+						<li><a href="/mlb/players/daily-fantasy-projections/" title="MLB Daily Fantasy Projections">MLB Daily Projections</a></li>
+						<li><a href="/mlb/players/yearly-projections/" title="MLB Player Projections">MLB Yearly Projections</a></li>
+						<li><a href="/mlb/players/power-rankings" title="MLB Player Power Rankings">MLB Player Rankings</a></li>
+						<li><a href="/mlb/teams/power-rankings" title="MLB Team Power Rankings">MLB Team Rankings</a></li>
+						<li><a href="/mlb/players/season-stats" title="MLB Season Player Stats">MLB Season Stats</a></li>
+						<li><a href="/mlb/games/" title="MLB Betting Game Picks and Simulations">MLB Game Projections</a></li>
+						<hr>
+						<li><a href="/news/feed" title="RSS Feed">RSS Feed</a></li>
 						<li><a href="/news/all" title="Articles and Advice">Articles</a></li>
 						<li><a href="/questions/all" title="Questions and Sports Debate">Questions</a></li>
 						<li>Players <a href="/nba/players" title="NBA Player Projections">NBA</a> <a href="/mlb/players-all" title="MLB Player Projections">MLB</a> <a href="/nfl/players-all" title="NFL Player Projections">NFL</a></li>
@@ -579,23 +572,23 @@
 				<li class="footer-help clearfix" style="width: 400px">
 					<ul>
 						<li style="width: 400px"><h5>Examples</h5></li>
-													<li style="width: 400px"><a href="/nfl/players/ryan-mathews" title="Ryan Mathews Fantasy Projection">Ryan Mathews Fantasy Projection</a></li>
-													<li style="width: 400px"><a href="/nfl/players/jared-cook" title="Jared Cook Fantasy Projection">Jared Cook Fantasy Projection</a></li>
-													<li style="width: 400px"><a href="/nfl/players/peyton-manning" title="Peyton Manning Fantasy Projection">Peyton Manning Fantasy Projection</a></li>
-													<li style="width: 400px"><a href="/nfl/players/vincent-jackson" title="Vincent Jackson Fantasy Projection">Vincent Jackson Fantasy Projection</a></li>
-													<li style="width: 400px"><a href="/nba/players/kevin-love" title="Kevin Love Fantasy Projection">Kevin Love Fantasy Projection</a></li>
-													<li style="width: 400px"><a href="/nba/players/tim-duncan" title="Tim Duncan Fantasy Projection">Tim Duncan Fantasy Projection</a></li>
-													<li style="width: 400px"><a href="/nba/players/ray-allen" title="Ray Allen Fantasy Projection">Ray Allen Fantasy Projection</a></li>
-													<li style="width: 400px"><a href="/nba/players/deron-williams" title="Deron Williams Fantasy Projection">Deron Williams Fantasy Projection</a></li>
+													<li style="width: 400px"><a href="/nfl/players/rob-gronkowski" title="Rob Gronkowski Fantasy Projection">Rob Gronkowski Fantasy Projection</a></li>
+													<li style="width: 400px"><a href="/nfl/players/laurent-robinson" title="Laurent Robinson Fantasy Projection">Laurent Robinson Fantasy Projection</a></li>
+													<li style="width: 400px"><a href="/nfl/players/jermichael-finley" title="Jermichael Finley Fantasy Projection">Jermichael Finley Fantasy Projection</a></li>
+													<li style="width: 400px"><a href="/nfl/players/steve-smith-car" title="Steve Smith Fantasy Projection">Steve Smith Fantasy Projection</a></li>
+													<li style="width: 400px"><a href="/nba/players/anthony-davis" title="Anthony Davis Fantasy Projection">Anthony Davis Fantasy Projection</a></li>
+													<li style="width: 400px"><a href="/nba/players/ed-davis" title="Ed Davis Fantasy Projection">Ed Davis Fantasy Projection</a></li>
+													<li style="width: 400px"><a href="/nba/players/tiago-splitter" title="Tiago Splitter Fantasy Projection">Tiago Splitter Fantasy Projection</a></li>
+													<li style="width: 400px"><a href="/nba/players/deandre-jordan" title="DeAndre Jordan Fantasy Projection">DeAndre Jordan Fantasy Projection</a></li>
 												<hr>
-													<li style="width: 400px"><a href="/questions/view/12140/two-streaky-qb-s" title="Two streaky QB's">Two streaky QB's</a></li>
-													<li style="width: 400px"><a href="/questions/view/12116/denver-d-or-dallas-d" title="Denver D or Dallas D?">Denver D or Dallas D?</a></li>
-													<li style="width: 400px"><a href="/questions/view/12143/flx-in-a-ppr-return-league" title="FLX in a PPR/Return league">FLX in a PPR/Return league</a></li>
-													<li style="width: 400px"><a href="/questions/view/12138/fix-my-line-up-please" title="Fix my line up Please">Fix my line up Please</a></li>
-													<li style="width: 400px"><a href="/questions/view/11560/nene-world-peace-n-robinson-or-j-thompson" title="Nene, World Peace, N. Robinson or J. Thompson???">Nene, World Peace, N. Robinson or J. Thompson???</a></li>
-													<li style="width: 400px"><a href="/questions/view/11483/nene-vs-seraphin" title="Nene vs Seraphin">Nene vs Seraphin</a></li>
-													<li style="width: 400px"><a href="/questions/view/10700/who-is-the-most-surprising-nba-player-so-far" title="Who is the most surprising NBA player so far?">Who is the most surprising NBA player so far?</a></li>
-													<li style="width: 400px"><a href="/questions/view/12086/trade-carmelo-and-jr-smith" title="Trade Carmelo and JR Smith">Trade Carmelo and JR Smith</a></li>
+													<li style="width: 400px"><a href="/questions/view/14964/where-do-you-think-logan-ryan-and-khaseem-greene-get-taken-this-year" title="where do you think Logan Ryan and Khaseem Greene get taken this year?">where do you think Logan Ryan and Khaseem Greene get taken this year?</a></li>
+													<li style="width: 400px"><a href="/questions/view/14967/what-rookie-do-you-think-will-have-big-nfl-impact-next-season" title="What rookie do you think will have big NFL impact next season?">What rookie do you think will have big NFL impact next season?</a></li>
+													<li style="width: 400px"><a href="/questions/view/14984/grade-your-nfl-teams-draft" title="Grade your NFL teams draft">Grade your NFL teams draft</a></li>
+													<li style="width: 400px"><a href="/questions/view/14929/carson-palmer-same-better-or-worse-fantasy-numbers-than-last-year" title="Carson Palmer - Same, better or worse fantasy numbers than last year?">Carson Palmer - Same, better or worse fantasy numbers than last year?</a></li>
+													<li style="width: 400px"><a href="/questions/view/14970/do-you-take-the-miami-heat-or-the-field" title="Do you take the Miami Heat or the field?">Do you take the Miami Heat or the field?</a></li>
+													<li style="width: 400px"><a href="/questions/view/15005/do-you-fault-derrick-rose-for-not-playing" title="Do you fault Derrick Rose for not playing?">Do you fault Derrick Rose for not playing?</a></li>
+													<li style="width: 400px"><a href="/questions/view/15022/how-do-indivudal-player-projections-work" title="how do indivudal player projections work?">how do indivudal player projections work?</a></li>
+													<li style="width: 400px"><a href="/questions/view/15013/conflict-between-projected-score-and-winner-nba" title="conflict between projected score and winner nba">conflict between projected score and winner nba</a></li>
 											</ul>
 				</li>
 				<li class="clearfix">
@@ -622,9 +615,8 @@
 				</li>
 				<li class="clearfix" style="padding-left: 25px">
 					<p class="light-gray br">
-						<strong>© 2009-2012 numberFire, Inc.</strong><br>
-						I don't like long footers, either.
-					</p>
+						<strong>© 2009-2013 numberFire, Inc.</strong><br>
+						The Pirates: rebuilding since 1992.					</p>
 				</li>
 			</ul>
 		</nav>
@@ -640,7 +632,7 @@
 	<script src="/js/jquery.timeago.js" type="text/javascript"></script>
 	<script src="/js/jquery.livequery.js" type="text/javascript"></script>
 	<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.13/jquery-ui.js"></script>
-	<script src="/js-new/script.js?v=41"></script>
+	<script src="/js-new/script.js?v=83"></script>
 	
 		<script>
 		var _gaq=[['_setAccount','UA-16532199-1'],['_trackPageview']]; // Change UA-XXXXX-X to be your site's ID
@@ -670,29 +662,20 @@
 	</script>
 	
 	<!-- Sailthru Horizon -->
+	<script type="text/javascript" src="https://ak.sail-horizon.com/horizon/v1.js"></script>
+	<!-- if loading for secure domain, use: https://ak.sail-horizon.com/horizon/v1.js -->
 	<script type="text/javascript">
-	    (function() {
-	        function loadHorizon() {
-	            var s = document.createElement('script');
-	            s.type = 'text/javascript';
-	            s.async = true;
-	            s.src = location.protocol + '//ak.sail-horizon.com/horizon/v1.js';
-	            var x = document.getElementsByTagName('script')[0];
-	            x.parentNode.insertBefore(s, x);
-	        }
-	        loadHorizon();
-	        var oldOnLoad = window.onload;
-	        window.onload = function() {
-	            if (typeof oldOnLoad === 'function') {
-	                oldOnLoad();
-	            }
-	            Sailthru.setup({
-	                domain: 'horizon.numberfire.com',
-	            });
-	        };
-	    })();
+	$(function() {
+	    // Sailthru Concierge
+	    if (window.Sailthru) {
+	        Sailthru.setup({
+	            domain: 'horizon.numberfire.com'
+	        });
+	    }
+	});
 	</script>
 		
+	
 	
 	
 
