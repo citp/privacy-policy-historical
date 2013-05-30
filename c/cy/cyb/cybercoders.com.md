@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cybercoders.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223025233id_/http%3A//www.cybercoders.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cybercoders.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530073237id_/http%3A//www.cybercoders.com/privacy) for the most accurate reproduction.*
 
-# CyberCoders is the premier recruiting & job search firm nationwide. Search thousands of jobs -- engineering, executive, financial, accounting & sales.
+# CyberCoders' Privacy Policy | CyberCoders
 
-CyberCoders, Inc. and its affiliates ("CyberCoders") are committed to protecting the privacy of the personally-identifiable information that we collect from you as you use this web site (the "Site"). The scope of CyberCoders's commitment is detailed in this Privacy Policy. By submitting information, you agree to CyberCoders's use of such information as described herein. Please see our Terms of Use for more information about our online policies in general. 
+CyberCoders, Inc. and its affiliates ("CyberCoders") are committed to protecting the privacy of the personally-identifiable information that we collect from you as you use this web site (the "Site"). The scope of CyberCoders's commitment is detailed in this Privacy Policy. By submitting information, you agree to CyberCoders's use of such information as described herein. Please see our Terms of Use for more information about our online policies in general.
 
 ## The Basics
 
@@ -53,7 +53,7 @@ We may provide links to third-party web sites as a service to our users. In addi
 
 ### How Can I Access, Change, and/or Delete Information?
 
-You may access, correct, update, and/or delete any personally-identifiable information that you submit to the Site. You may also unsubscribe from job alerts or any registrations on the Site. To do so, please either follow instructions on the page of the Site on which you have provided such information or subscribed or registered, or send us an email at [Privacy@CyberCoders.com](mailto:privacy@CyberCoders.com). 
+You may access, correct, update, and/or delete any personally-identifiable information that you submit to the Site. You may also unsubscribe from job alerts or any registrations on the Site. To do so, please either follow instructions on the page of the Site on which you have provided such information or subscribed or registered, or send us an email at [Privacy@CyberCoders.com](mailto:Privacy@CyberCoders.com).
 
 ### Security
 
@@ -73,4 +73,4 @@ Any job advertisement that does not comply with applicable laws, included but no
 
 ### Contact Our Privacy Department
 
-If you have any questions about our Privacy Policy, please e-mail us at [Privacy@CyberCoders.com](mailto:privacy@CyberCoders.com).
+If you have any questions about our Privacy Policy, please e-mail us at [Privacy@CyberCoders.com](mailto:Privacy@CyberCoders.com).
