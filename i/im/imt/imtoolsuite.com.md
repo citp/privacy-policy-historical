@@ -1,73 +1,114 @@
-> *The following text is extracted and transformed from the imtoolsuite.com privacy policy that was archived on 2012-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121112215627id_/http%3A//imtoolsuite.com/privacy_mlm.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imtoolsuite.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530093434id_/http%3A//imtoolsuite.com/privacy_mlm.html) for the most accurate reproduction.*
 
-# Untitled Document
+# 
 
-**Our Privacy Policy of IMToolSuite.com & all Subsidiaries**  
-Privacy Notice Table Of Contents:   
-• Our Commitment To Privacy   
-• The Information We Collect   
-• How We Use Information   
-• Our Commitment To Data Security   
-• Our Commitment To Children's Privacy   
-• How To Access Or Correct Your Information   
-• How To Contact Us
+**What information do we collect?**
 
-By visiting any one of our sites or sending us information, you are accepting the practices described in this Privacy Policy. Your assent to these practices is essential for us to continue operating this website, including the variety of information and services it contains. Similarly, we need you to provide accurate personal information so that you can be contacted and, if you purchase anything, so that we can complete the transaction. You can opt-out and decide not to provide the requested personal information. However, by doing so, you will not receive the information, product, and/or service you are requesting.
+We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey or fill out a form. 
 
-When submitting any information on our website you expressly authorize us to use your personal information as explained in this privacy policy, and you consent to receiving commercial email from us, IMToolSuite.com, and any of our subsidiaries. You can expect to receive newsletters, promotions, and other similar offers. Should you wish to discontinue receiving these e-mailings simply unsubscribe using the link in the email you receive.
+Any data we request that is not required will be specified as voluntary or optional. 
 
-**Our Commitment To Privacy  **  
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.
 
-**The Information We Collect:  **  
-This notice applies to all information collected or submitted on www.IMToolSuite.com and all others subsidiary websites. On some pages, you can order products, make requests, and register to receive information or materials. The types of personal information collected at these pages are:   
-Name   
-Address   
-Email address   
-Phone number   
-Credit/Debit Card Information  
-Survey Information   
-(etc.) 
+Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
-On some pages, you can submit information about other people. For example, if you want to refer someone, you will need to submit the recipient's address. In this circumstance, the types of personal information collected are:   
-Name   
-Address   
-Phone Number   
-(etc. ) 
+**What do we use your information for?**
 
-**The Way We Use Information:  **  
-We use the information you provide about yourself when placing an order only to complete that order or request. We potentially will share your contact information with marketing partners based on type of orders placed. You payment information will never be shared with outside parties except to the extent necessary to complete that order.
+Any of the information we collect from you may be used in one of the following ways: 
 
-We use the information you provide about someone else when placing an order only to ship the product and to confirm delivery. We do not share this information with outside parties except to the extent necessary to complete that order. 
+• To personalize your experience  
+(your information helps us to better respond to your individual needs)
 
-We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties.
+• To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-You can potentially register with our website if you would like to receive our updates or newsletters as well as updates on our new products and services. Information you submit on our website will not be used for this purpose unless you fill out the registration form. 
+• To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs)
 
-We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals. 
+• To process transactions  
+Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested by the customer. 
 
-Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses. 
+• To send periodic emails
 
-**Our Commitment To Data Security  **  
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
+The email address you provide for order processing, may be used to send you information and updates pertaining to your order or request, in addition to receiving occasional company news, updates, promotions, related product or service information, etc.
 
-**Our Commitment To Children's Privacy:  **  
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 16, and no part of our website is structured to attract anyone under 16. 
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
-**How You Can Access Or Correct Your Information  **  
-You can access all your personally identifiable information that we collect online by sending us a notice of change to support@IMToolSuite.com  
-You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
+• To administer a contest, promotion, survey or other site feature
 
-**How To Contact Us  **  
-Should you have other questions or concerns about these privacy policies, please contact us by e-mail at support@IMToolSuite.com  
-IMToolSuite.com reserves the right to modify this Privacy Policy at its discretion, or against any customer it believes is abusing this policy. Any such revision or change will be binding and effective immediately after posting of the revised Privacy Policy on www.IMToolSuite.com and subsidiary web sites. You agree to periodically review our Web sites, including the current version of our Privacy Policy. Our Privacy Policy is made available on all our web sites. It is your obligation to review our Privacy Policy for any such revisions. 
+**How do we protect your information?**
 
-This website is owned and operated, or operated under agreement, by:
+We implement a variety of security measures to maintain the safety of your personal information when you submit a request, place an order or access your personal information. 
 
-KJC Marketing Partners LLC  
-2360 Corporate Cir Ste 400  
-Henderson NV 89074  
-702-608-6552  
-IMToolSuite.com
+These security measures include: password protected directories and databases to safeguard your information, SSL (Secure Sockets Layered) technology to ensure that your information is fully encrypted and sent across the Internet securely or PCI Scanning to actively protect our servers from hackers and other vulnerabilities. 
 
-Last Revision 3.07.2011
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
+
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
+
+**Do we use cookies?**
+
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
+
+**Do we disclose any information to outside parties?**
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+**Third party links**
+
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+**California Online Privacy Protection Act Compliance**
+
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+
+As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the 'Edit Profile' page.
+
+**Childrens Online Privacy Protection Act Compliance**
+
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+
+**CAN-SPAM Compliance**
+
+We have taken the necessary steps to ensure that we are compliant with the CAN-SPAM Act of 2003 by never sending out misleading information.
+
+**Terms and Conditions**
+
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at http://imtoolsuite.com/terms_mlm.html.
+
+**Your Consent**
+
+By using our site, you consent to our privacy policy.
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. Policy changes will apply only to information collected after the date of the change. 
+
+This policy was last modified on **1/30/2013**
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may contact us using the information below. 
+
+Imtoolsuite.com  
+871 Coronado Center Dr. Ste 200  
+Henderson, NV 89052  
+United States  
+support (at) imtoolsuite.com  
+7026086552
+
+**Privacy Policy Customer Pledge**
+
+We pledge to you, our customer, that we have made a dedicated effort to bring our privacy policy in line with the the following important privacy laws and initiatives:  
+Federal Trade Commision Fair  
+California Online Privacy Protection Act  
+Childrens Online Privacy Protection Act  
+Privacy Alliance  
+Controlling the Assault of Non-Solicited Pornography and Marketing Act
+
+If at anytime you have a cause that needs to be disputed please fill out the [Trust Guard Dispute Resolution form](http://secure.trust-guard.com/disputesystem/). 
+
+Respectfully, 
+
+KJC Marketing Partners LLC   
+Imtoolsuite.com 
