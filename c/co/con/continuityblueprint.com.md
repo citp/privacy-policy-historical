@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the continuityblueprint.com privacy policy that was archived on 2012-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121206023147id_/http%3A//digitalmarketer.com/more-info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the continuityblueprint.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530133819id_/http%3A//digitalmarketer.com/more-info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Digital Marketer | It's just smarter
 
