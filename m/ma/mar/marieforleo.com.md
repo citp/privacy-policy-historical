@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marieforleo.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625123952id_/http%3A//marieforleo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marieforleo.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530023202id_/http%3A//www.marieforleo.com/privacy) for the most accurate reproduction.*
 
 # MarieForleo.com | Privacy Policy
 
@@ -34,7 +34,7 @@ Please also note that as our business grows, we may buy or sell various assets. 
 
 Your information is stored at the list server that delivers Marieforleo.com newsletters. Your information can only be accessed by those who help manage those lists in order to deliver e-mail to those who would like to receive Marieforleo.com newsletters.
 
-All of the newsletters or emails that are sent to you by Marieforleo.com include an unsubscribe link in them. You can remove yourself at any time from our newsletters or mailing list by clicking on the unsubscribe link that can be found in every cmmunicaiton that we send you…
+All of the newsletters or emails that are sent to you by Marieforleo.com include an unsubscribe link in them. You can remove yourself at any time from our newsletters or mailing list by clicking on the unsubscribe link that can be found in every communicaiton that we send you…
 
 **Disclaimer**
 
