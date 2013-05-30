@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imexamerica.com privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111071723id_/http%3A//www.imexamerica.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imexamerica.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530132216id_/https%3A//imexamerica.com/privacy.html) for the most accurate reproduction.*
 
 # IMEX - America's Worldwide Exhibition for incentive travel, meetings and events...
 
@@ -24,7 +24,7 @@ We are committed to collecting and using your personal information fairly and tr
 
 ### Visitors to our website
 
-We use Google Analytics to help us to improve our website. This uses cookies to collect information about how visitors reach and use our website, but does not identify any individuals. Other cookies are used to help you log in and use the site most effectively. By accepting this privacy policy you are giving your consent to the use of cookies on our website. See the [Cookies](https://web.archive.org/web/20121111071723id_/cookies.html) section of our website for more information.
+We use Google Analytics to help us to improve our website. This uses cookies to collect information about how visitors reach and use our website, but does not identify any individuals. Other cookies are used to help you log in and use the site most effectively. By accepting this privacy policy you are giving your consent to the use of cookies on our website. See the [Cookies](https://web.archive.org/web/20130530132216id_/cookies.html) section of our website for more information.
 
 Further information about the cookies used by Google Analytics is given at [Cookies and Google Analytics](https://developers.google.com/analytics/resources/concepts/gaConceptsCookies).
 
@@ -66,7 +66,7 @@ You can ask us not to send direct marketing to you and we will include an opt-ou
 
 ### How to contact us
 
-You can contact us with any questions or comments on this notice at [privacy@imexexhibitions.com](mailto:privacy@imexexhibitions.com?subject=IMEX%20Exhibitions%20Privacy%20Statement). For any other questions or comments please see the [Contact Us](https://web.archive.org/web/20121111071723id_/imex-contactus.html) section on our website.
+You can contact us with any questions or comments on this notice at [privacy@imexexhibitions.com](mailto:privacy@imexexhibitions.com?subject=IMEX%20Exhibitions%20Privacy%20Statement). For any other questions or comments please see the [Contact Us](https://web.archive.org/web/20130530132216id_/imex-contactus.html) section on our website.
 
 ### Changes to your personal information
 
@@ -76,4 +76,4 @@ Please let us know us if any personal information you have given us changes, so 
 
 We will regularly review and update this privacy notice and will ask for your consent before using your personal information in a way that is significantly different.
 
-This notice applies to visitors to our website from April 1, 2012 and was last revised on May 7, 2012.
+This notice applies to visitors to our website from April 1, 2012 and was last revised on May 10, 2013.
