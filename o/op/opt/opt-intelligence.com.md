@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opt-intelligence.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919110332id_/http%3A//opt-intelligence.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opt-intelligence.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530162911id_/http%3A//opt-intelligence.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy of Opt-Intelligence
 
@@ -58,9 +58,8 @@ If You have any questions about anything in this Privacy Policy, or about collec
 
 Business Affairs  
 Opt-Intelligence, Inc.  
-45 W. 25th Street, 4th Floor  
-New York, New York 10010  
-Fax: 212-292-5041  
+37 W. 37th Street, 5th Floor  
+New York, New York 10018  
 Email: [privacy@opt-intelligence.com](mailto:privacy@opt-intelligence.com)
 
 You may also use the above contact information if You think any information about You is inaccurate, incomplete, or if You want to change the information about You that Opt-Intelligence may have collected. You may also use the above if You think someone other than Yourself may have opted-in to an offer using Your information either by accident or maliciously.
