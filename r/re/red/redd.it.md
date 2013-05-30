@@ -1,61 +1,114 @@
-> *The following text is extracted and transformed from the redd.it privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231152607id_/http%3A//reddit.com/help/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redd.it privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530061358id_/http%3A//reddit.com/wiki/privacypolicy) for the most accurate reproduction.*
 
-# reddit.com: help
+# privacypolicy - reddit.com
 
-Last Revised Aril 10, 2012 (updated contact info) 
+> your privacy is a core reddit value.  
+>  we strive to create a policy worthy of you.
 
-[Kids and parents click here!](http://www.style.com/services/legal/privacy_policy.html#kids)
+We take protecting your privacy seriously, and we want you to understand exactly how and why we use your information. This document is our Privacy Policy, which describes what information we collect and what it's used for. It applies to all interactions with [reddit.com](http://www.reddit.com/), including content posted through iReddit, and interactions with our site through the button and widget. However, other services we own – such as [redditgifts](http://redditgifts.com/) – and loosely affiliated but independent services (for instance, [radio reddit](http://radioreddit.com/)) have their own terms, and you should review them on each service's respective website.
 
-The following Privacy Policy summarizes the various ways that Conde Nast Digital. ("Service Provider", "we" or "our") treats the information you provide while using www.reddit.com ("Website"). It is our goal to bring you information that is tailored to your individual needs and, at the same time, protect your privacy. 
+Please read this Privacy Policy carefully. Your use of and/or registration with reddit will constitute your agreement to our policy. If you cannot agree to the terms and conditions set forth below, please do not use our services. Additionally, our [Privacy Policy](https://web.archive.org/help/privacypolicy) is part of our [User Agreement](https://web.archive.org/help/useragreement), and by using the site you agree to both.
 
-Please read this Privacy Policy carefully. You can access the Privacy Policy any time at [http://reddit.com/help/privacypolicy](http://reddit.com/help/privacypolicy). **Your use of and/or registration on any aspect of the Website will constitute your agreement to this Privacy Policy.** If you cannot agree with the terms and conditions of this Privacy Policy, please do not use the Website. This Privacy Policy does not cover information collected elsewhere, including without limitation offline and on sites linked to from the Website. 
+## About this Policy
 
-In addition to reviewing this Privacy Policy, please read our User Agreement. Your use of the Website constitutes agreement to its terms and conditions as well. 
+reddit is an open platform that allows you to communicate about anything you want on any topic you want. We collect some information in order for you to have an account you can use to participate on the site, and other information that is necessary to make the service work. Our goal in developing our privacy practices is to allow your participation to remain as anonymous as you choose and we don’t sell or profit from the information you share with us.
 
-This Privacy Policy may be modified from time to time; the date of the most recent revisions will appear on this page, so check back often. Continued access of the Website by you will constitute your acceptance of any changes or revisions to the Privacy Policy. 
+We do take efforts to make sure the platform keeps working. This includes using your information, where necessary, to stop spam and gaming and other activities that violate the user agreement. We also share your information when we are legally required to do so. Please read this privacy policy carefully. It describes what information we collect, how it is used, and when it is shared so you can make smart decisions about how you use reddit! We think it strikes a good balance and respects you – our users – who make this whole thing possible. Let us know what you think.
 
-## The Type of Information the Website Collects
+## What Information We Collect
 
-The Website generally collects personally identifying information with your specific knowledge and consent. For instance, when you enter a sweepstakes or contest, complete a survey, make a purchase, subscribe to our publication(s), or register for any portion of our services, you are asked to provide information such as your e-mail address, name or phone number. Optional information such as your age or gender may also be requested. 
+### Registration Information
 
-Our servers may also automatically collect information about your computer when you visit the Website, including without limitation the type of browser software you use, the operating system you are running, the website that referred you, and your Internet Protocol ("IP") address. Your IP address is usually associated with the place from which you enter the Internet, like your Internet Service Provider, your company or your university. 
+When you create an account, you are required to provide a username and password, and may opt to provide an email address. We also log, and retain indefinitely, the IP address from which the account is initially created.
 
-## How the Website Uses Information Provided by You
+### Post, Comment and Messaging Data
 
-Service Provider uses your user name and password to grant you access to and use of the Website. Your e-mail address will be used, at your request, to send you a copy of your user name and password. If you provide personally identifiable information, it will be used to provide you with the service you have requested. We may also use the information to communicate with you about new features, products or services, and/or to improve the services that we offer by tailoring them to your needs. 
+_The posts and comments you make on reddit are not private, even if made to a subreddit not readily accessible to the public. This means that, by default, they are not deleted from our servers – ever – and will still be accessible after your account is deleted. However, we only save the most recent version of comments and posts, so your previous edits, once overwritten, are no longer available._
 
-We also allow access to our database by third parties that provide us with services, such as technical maintenance or forums and job search software, but only for the purpose of and to the extent necessary to provide those services. And if you choose to purchase items through features on the Website, we may forward your information to third parties for services such as credit card processing and order fulfillment. There are also times when you provide information about yourself to us in areas of the site that may be managed or participated in by third parties, such as auction services or shopping areas. In such cases, the information may be used by us and by such third party(ies), each pursuant to its own policies. We may also provide your information to our advertisers, so that they can serve ads to you that meet your needs or match your interests. While Service Provider will seek to require such third parties to follow appropriate privacy policies and will not authorize them to use this information except for the express purpose for which it is provided, Service Provider does not bear any responsibility for any actions or policies of third parties. We may also provide access to our database in order to cooperate with official investigations or legal proceedings, including, for example, in response to subpoenas, search warrants, court orders, or other legal process. 
+Your messages are generally only viewable by the parties involved, but they may be accessed internally as needed for community support. Moreover, we keep a complete log of all messages sent on our service, even when both parties later delete their accounts.
 
-In addition, we reserve the right to use the information we collect about your computer, which may at times be able to identify you, for any lawful business purpose, including without limitation to help diagnose problems with our servers, to gather broad demographic information, and to otherwise administer our Website. 
+_reddit stores the IP addresses associated with specific posts, comments, and private messages for 90 days after they are made or sent._
 
-While your personally identifying information is protected as outlined above, we reserve the right to use, transfer, sell, and share aggregated, anonymous data about our users as a group for any business purpose, such as analyzing usage trends and seeking compatible advertisers and partners. 
+### reddit gold
 
-In addition, as our business changes, we may buy or sell various assets. In the event all or a portion of the assets owned or controlled by Service Provider, its parent or any subsidiary or affiliated entity are sold, assigned, transferred or acquired by another company, the information from and/or about our Website users may be among the transferred assets. 
+If you choose to upgrade to reddit gold, this status will be stored on your profile, along with the transaction number associated with the payment. However, reddit does not handle or have access to any of your payment information. For questions about how this information is stored and used, please read our third party partners’ privacy policies.
 
-## Cookies
+### Log Data
 
-You may have read about "cookies," nuggets of information that are placed by a Website in a storage place on your own computer. We may use cookies to control the display of ads, to track usage patterns on the site, to deliver editorial content, and to record registration and personalization information. For example, if you register on any part of the Website and are given the option to save your user name and password on your computer, we can provide this convenience to you by placing a cookie on your computer. Our cookies may contain personally identifiable information and such cookies may be shared with our affiliates and other companies. 
+Log data is certain information that is automatically collected by our systems when you visit reddit, including the type of software used to access the site (browser, operating system), the address of the external or internal page that referred you, and your IP address. This information is recorded even if you are logged out of your account. It will be deleted from our servers after 90 days.
 
-Some of our advertisers occasionally serve you cookies as well. We do not have control over cookies placed by advertisers. 
+As you interact with reddit as an accountholder, we save certain information about these interactions and your preferences: subscriptions, preferred language, all languages you see content in, accumulated karma, voting data, and date of last login. You may also opt to add "flair" to decorate your profile, and this will be stored as well.
 
-We may also use advertising service vendors to help present advertisements on the Website.Â  These vendors may use cookies, web beacons, or similar technologies to serve you advertisements tailored to interests you have shown by browsing on this and other sites you have visited, to determine whether you have seen a particular advertisement before and to avoid sending you duplicate advertisements. In doing so, these vendors may collect non-personal data such as your browser type, your operating system, Web pages visited, time of visits, content viewed, ads viewed, and other clickstream data. The use of cookies, web beacons, or similar technologies by these advertising service vendors is subject to their own privacy policies, not ours, and Service Provider disclaims all liability in connection therewith. If you do not want the benefits of these advertising cookies, you may be able to opt-out by visiting [http://www.networkadvertising.org/optout_nonppii.asp](http://www.networkadvertising.org/optout_nonppii.asp). 
+## How We Use or Disclose Collected Information
 
-If you don't want any cookies, your Web browser likely includes an option that allows you to not accept them. However, if you set your browser to refuse cookies, some portions of the Website may not function properly. 
+### Our Use of Your Information Is Limited to Improving Your Experience
 
-## Information Security and Notification
+It takes a lot of work to keep our site running and prevent abuse, and we sometimes use your data in order to facilitate this. Your information is used internally only where necessary to provide our services. For instance, we keep IP addresses for 90 days in order to investigate issues with our site, track and block suspected spammers, and otherwise maintain the integrity of the community.
 
-Because no data transmission over the Internet is completely secure, and no system of physical or electronic security is impenetrable, Service Provider can not guarantee the security of the information you send to us or the security of our servers or databases, and by using the Website you agree to assume all risk in connection with the information sent to us or collected by us when you use the Website. In the unlikely event that we believe that the security of your information in our possession or control may have been compromised, we may seek to notify you. If notification is appropriate, we may notify you by e-mail (provided we have your e-mail address). 
+### Your Private Information Is Never for Sale
 
-## Kids and Parents
+This means that we will only share your personal data with your consent, and after letting you know what information will be shared and with whom, unless it is otherwise permitted in this policy. While advertisers may target their ads to the topic of a given subreddit, we do not sell or otherwise give access to any information collected about our users to any third party.
 
-This Website is not intended for use by children, especially those under age 13. No one under age 13 is allowed to provide any personal information or use our public discussion areas, forums and chats. Minors between the ages of 13 and 17 must get the permission of their parent(s) or legal guardian(s) before making purchases, including subscriptions, on this site. 
+Anonymous, aggregated information that cannot be linked back to an individual user may be made available to third parties.
 
-If your children disclose information about themselves in publicly accessible areas of the Website, they may get unsolicited messages from other parties. Accordingly, you should tell them not to do so. 
+### Reddit Will Not Disclose Your Information Unless Required by Law
 
-If you're worried about your children's activities or their privacy on our site, we encourage you to contact our Privacy Policy Coordinator as described below. 
+We may disclose – or preserve for future disclosure – your information if we believe, after due consideration, that doing so is reasonably necessary to comply with a law, regulation, or valid legal process. If we are going to release your information, we will do our best to provide you with notice in advance via reddit's private messaging system unless we are prohibited by court order from doing so (e.g., an order under 18 U.S.C. § 2705(b)).
 
-## Privacy Policy Coordinator
+### Your Information May Be Disclosed By Us In An Emergency or to Keep our Services Running
 
-If you have any concerns or questions about any aspect of this policy, please feel free to contact our Privacy Policy Coordinator as follows: 
+Other extraordinary circumstances may require disclosure: we may also disclose your information when we believe it's necessary to prevent imminent and serious bodily harm to a person; to address fraud, security, or spam; or to protect our rights or property.
 
-Privacy Policy Coordinator reddit Inc c/o Wired 520 Third St. San Francisco, CA 94107 
+## Cookie Policy
+
+Cookies are small data files placed on your computer by websites you visit in order to help them remember certain information about you. At reddit, we set only a few cookies for tracking user preferences, authentication, and collecting anonymous analytics data. Additionally, our advertising partners set cookies. Each of these uses is described in greater detail below.
+
+### Preference Cookies
+
+If you are logged out, reddit will place a simple cookie to remember if you indicate you would like to view over 18 content, or if you set a language preference. Additionally, if you vote an advertisement up or down, our third-party advertising partner, Adzerk, will set a cookie to remember your ad preferences.
+
+### Authentication Cookies
+
+When you log into your account, reddit will place a cookie for the sole purpose of creating this session. It contains your user id and hashed authentication information.
+
+### Analytics Cookies
+
+We use a tool called Google Analytics to help us understand how users interact with our website. It tells us aggregate usage and traffic information, such as how the site was accessed, how long visitors stayed, and the number of first-time visitors to the site. By knowing how people use the site, we can make it better. To learn more about Google Analytics and how it uses your data, please visit <http://www.google.com/analytics/learn/privacy.html>.
+
+### Advertising Cookies
+
+_We partner with Adzerk to show our users third party ads._
+
+Some cookies may be placed during the provision of this service pursuant to [Adzerk's privacy policy](http://help.adzerk.com/Privacy_Policy_for_Ad_Serving).
+
+### Disabling cookies
+
+Most browsers include an option to clear existing cookies or reject new ones. However, if you do this, portions of the reddit website may not function as intended.
+
+## Account Deletion
+
+_You may choose to delete your reddit account at any time. The usernames associated with deleted accounts remain unavailable for others to use, and your public profile is no longer visible to users of the site. However, the posts and content you made during your tenure as a reddit user will not be automatically deleted as part of the account removal process, though your username will be publicly disassociated with all posts._
+
+## Third Party Sites
+
+Certain third party sites may offer users the option to log in using their reddit id (for example, redditgifts). This option is only an authentication tool and does not transmit any new personal information to reddit, or give reddit access to details of subsequent actions taken on these sites.
+
+## Data Security
+
+reddit will make every effort to secure any private information submitted to us by our users. However, no data transmission over the internet is completely secure, so we cannot guarantee the absolute security of this data. You use the service at your own risk, and are responsible for taking reasonable measures to secure your account (such as carefully maintaining the secrecy of your password).
+
+## International Visitors
+
+reddit is a San Francisco, California-based company whose servers are housed in the United States. All personal information we collect from our international users is transferred to the United States and processed according to US law.
+
+reddit complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. reddit has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view reddit's certification, please visit <http://www.export.gov/safeharbor/>.
+
+## Children Under 13
+
+Although we welcome users from all walks of life, our site is not aimed at children, and the United States government has put limits on our ability to accept users under a certain age through the [Children's Online Privacy Protection Act of 1998](http://www.ftc.gov/ogc/coppa1.htm). Individuals under the age of 13 may not create an account with us. If you believe someone 12 or younger is using our site without parental consent, please [contact us](https://web.archive.org/feedback).
+
+## Changes to This Policy
+
+We reserve the right to change this policy to meet the changing needs of reddit, or for any other reason. If we make changes, we will notify our users. Where the changes substantially alters your rights, notice will appear prominently on your front page. More minor changes may only be highlighted by the privacy policy link in the footer of our website.
+
+reddit welcomes questions, concerns, and feedback about this policy. Please feel free to [contact us](https://web.archive.org/feedback).
