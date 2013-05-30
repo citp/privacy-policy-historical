@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pinkvisual.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227132137id_/http%3A//pinkvisual.com/privacy/%3Frevid%3D57503%26campaign%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinkvisual.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530200351id_/http%3A//pinkvisual.com/privacy/%3Frevid%3D57503%26campaign%3D) for the most accurate reproduction.*
 
-# Pink Visual - Innovating Porn since 2001
+# Pink Visual- Milf Porn, Erotica, Mobile and Tech XXX
 
 PinkVisual.com is firmly committed to respecting and maintaining the privacy of our customers. This Privacy Policy explains our practices with respect to the collection, use, and disclosure of personal and non-personal information provided by visitors to PinkVisual.com. By using this site, you signify your assent to our privacy practices and the terms and conditions of PinkVisual.com. If this policy is not agreeable to you, please do not use PinkVisual.com.
 
