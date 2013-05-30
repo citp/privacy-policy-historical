@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freeforums.com privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104123927id_/http%3A//www.serchen.com/about/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeforums.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530073152id_/http%3A//www.serchen.com/about/Privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - Serchen
+# Privacy Policy | Serchen
 
 **What is the purpose of this Privacy Policy?**
 
