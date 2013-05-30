@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the spanning.com privacy policy that was archived on 2012-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120922025256id_/http%3A//spanning.com%3Fpage_id%3D129) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spanning.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530235817id_/http%3A//spanning.com/privacy) for the most accurate reproduction.*
 
-# Spanning Privacy Statement
+# Spanning Backup Privacy Statement | Spanning Backup for Google Apps
 
-_Last Updated August 6, 2012 (new mailing address)_
+_Last Updated January 7, 2013_
 
-[](https://privacy-policy.truste.com/click-with-confidence/ctv/en/spanningbackup.com/seal_l "Validate TRUSTe privacy certification")Spanning Cloud Apps, Inc. has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@spanning.com](mailto:privacy@spanning.com). If you are not satisfied with our response you can [contact TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
+[](https://privacy-policy.truste.com/click-with-confidence/ctv/en/spanningbackup.com/seal_l "Validate TRUSTe privacy certification")Spanning Cloud Apps, Inc. has been awarded TRUSTe’s Privacy Seal signifying that this privacy statement and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy statement or practices, please contact us at [privacy@spanning.com](mailto:privacy@spanning.com). If you are not satisfied with our response you can [contact TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
-[](https://privacy-policy.truste.com/click-with-confidence/eusafe/en/spanningbackup.com/seal_m "TRUSTe European Safe Harbor certification")Spanning Cloud Apps, Inc. complies with the U.S. – E.U. and U.S. – Swiss Safe Harbor Frameworks as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from the European Union and Switzerland. Information regarding the Safe Harbor program can be found at: <http://export.gov/safeharbor>.
+[](https://privacy-policy.truste.com/click-with-confidence/eusafe/en/spanningbackup.com/seal_m "TRUSTe European Safe Harbor certification")Spanning Cloud Apps, Inc. complies with the U.S. – E.U. and U.S. – Swiss Safe Harbor Frameworks as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from European Union member countries and Switzerland. Spanning Cloud Apps, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Spanning Cloud Apps, Inc.’s certification, please visit <http://export.gov/safeharbor>.
 
-If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by Internet at <http://www.truste.com/consumers/watchdog_complaint.php>, by mail at WatchDog Complaints, TRUSTe, 55 Second Street, 2nd Floor, San Francisco, CA, USA 94105, by phone at 415-520-3400, or by fax at 415-520-3420. If you are mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe’s dispute resolution process, see <http://www.truste.com/consumers/watchdog_complaint.php> or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English.
+Spanning Cloud Apps, Inc. participates in the EU and Swiss Safe Harbor Privacy Framework as set forth by the United States Department of Commerce. As part of our [participation](https://www.export.gov/safehrbr/list.aspx) in the safe harbor, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework.
+
+If you have any complaints regarding our compliance with the Safe Harbor you should first contact us (as provided above). If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by [clicking here](http://www.truste.com/consumers/watchdog_complaint.php), fax to 415-520-3420, or mail to TRUSTe Safe Harbor Compliance Dept., [click for mailing address](http://www.truste.com/about_TRUSTe/contact_us.html). If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe’s dispute resolution process, [click here](http://watchdog.truste.com/pvr.php?page=complaint&url=) or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English. For human resources data we have agreed to cooperate with Data Protection Authorities.
 
 Spanning Cloud Apps, Inc. (“Spanning”) has created this privacy statement in order to demonstrate our commitment to customer privacy. Privacy on the Spanning Backup web service (the “Service”) is of great importance to us. We also collect personal information on our website, [spanningbackup.com](https://spanningbackup.com/). Because we gather important information from our users, we have established this Statement as a means to communicate our information gathering and dissemination practices.
 
@@ -34,7 +36,7 @@ Our website collects personal information such as your email, and comments if yo
 
 We will share your personal information with third parties only in the ways that are described in this privacy statement. We do not sell your personal information to third parties.
 
-We also have first party cookies on our website, which are linked to your personal information. We also track and analyze non-identifying and aggregate usage and volume statistical information from our users and provide such information to third parties through the use of third party cookies, web beacons, images, scripts and other tracking technologies.
+We also have first party cookies on our website, which are linked to your personal information. We also track and analyze non-identifying and aggregate usage and volume statistical information from our users and provide such information to third parties through the use of third party cookies, web beacons, images, scripts and other tracking technologies. The use of cookies by our partners, affiliates, tracking utility company, service providers is not covered by our privacy statement. We do not have access or control over these cookies. Our partners, affiliates, tracking utility company, service providers use session ID cookies to make it easier for you to navigate our site.
 
 ### Links to Other Sites
 
@@ -52,6 +54,10 @@ We partner with a third party ad network to either display advertising on our We
 
 Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [support@spanningbackup.com](mailto:support@spanningbackup.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
+### Social Media Widgets
+
+Our Web site includes social media features, such as the Facebook Like button and widgets, such as the ShareThis button or interactive mini-programs that run on our site. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our Web site. Your interactions with these features are governed by the privacy statement of the company providing it.
+
 ### Security
 
 The security of your personal information is important to us. When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL).
@@ -68,6 +74,8 @@ We use other third parties such as a credit card processing company to bill you 
 
 We reserve the right to disclose your personal information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site.
 
+If Spanning Cloud Apps, Inc is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
+
 ### Access to Personal Information
 
 If your personal information changes, or if you no longer desire our service, you may correct, update, amend, delete/remove or deactivate it by making the change by contacting us as described below.
@@ -82,7 +90,7 @@ We may update this privacy statement to reflect changes to our information pract
 
 ## Contact Us
 
-If you have any questions or suggestions regarding our privacy policy, please contact us at:
+If you have any questions or suggestions regarding our privacy statement, please contact us at:
 
 Spanning Cloud Apps, Inc.  
 Attn: Privacy  
@@ -91,6 +99,6 @@ Suite 200
 Austin, Texas  
 78701  
 USA  
-+1-512-217-6551  
++1-512-236-1277  
 [privacy@spanning.com](mailto:privacy@spanning.com)  
 <http://spanning.com/privacy>
