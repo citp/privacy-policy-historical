@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the royalyouth.com privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111044651id_/http%3A//royalyouth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the royalyouth.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530034452id_/http%3A//royalyouth.com/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY | RoyalYouth
+# PRIVACY POLICYRoyalYouth
 
 ## Privacy Policy
 
