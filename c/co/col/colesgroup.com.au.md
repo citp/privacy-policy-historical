@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the colesgroup.com.au privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029045048id_/http%3A//www.wesfarmers.com.au/security-a-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colesgroup.com.au privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530091624id_/http%3A//www.wesfarmers.com.au/security-privacy.html) for the most accurate reproduction.*
 
 # Wesfarmers - Security & privacy
 
@@ -13,7 +13,7 @@
 
   1. ****Some information provided to us by clients, customers, contractors and other third parties might be considered private or personal. Without these details we would not be able to carry on our business and provide our services to you. We will only collect such personal information if it is necessary for one of our functions or activities.
   2. ****In particular, personal information is collected from people in the following situations by Wesfarmers Limited:
-    * If you contact Wesfarmers Limited, we may keep a record of that correspondence. 
+    * If you contact Wesfarmers Limited, we may keep a record of that correspondence.
     * When you submit your email address to our website mailing list.
   3. ****At or before the time the personal information is collected by us we will take reasonable steps to ensure that you are made aware of who we are, the fact that you are able to gain access to the information held about you, the purpose of the collection, the type(s) of organisations to which we usually disclose the information collected about you, any laws requiring the collection of the information and the main consequences for you if all or part of the information is not collected.
 
@@ -23,9 +23,9 @@
 
   1. We may use or disclose personal information held about an individual for the primary purpose for which it is collected (eg. provision of our services, including administration of our services, notification to you about changes to our services, record-keeping following termination of our services to you and technical maintenance). We may also use such information for a purpose related to the primary purpose of collection and where it would reasonably be expected by you that we would use the information in such a way. This information is only disclosed to persons outside our business in the circumstances set out in this policy or as otherwise notified to you at the time of collection of the information.
   2. In addition we are permitted to use or disclose personal information held about you: 
-    * Where you have consented to the use or disclosure; 
-    * Where we reasonably believe that the use or disclosure is necessary to lessen or prevent a serious, immediate threat to someone's health or safety or the public's health or safety; 
-    * Where we reasonably suspect that unlawful activity has been, is being or may be engaged in and the use or disclosure is a necessary part of our investigation or in reporting the matter to the relevant authorities; 
+    * Where you have consented to the use or disclosure;
+    * Where we reasonably believe that the use or disclosure is necessary to lessen or prevent a serious, immediate threat to someone's health or safety or the public's health or safety;
+    * Where we reasonably suspect that unlawful activity has been, is being or may be engaged in and the use or disclosure is a necessary part of our investigation or in reporting the matter to the relevant authorities;
     * Where such use or disclosure is required under or authorised by law (for example, to comply with a subpoena, a warrant or other order of a court or legal process); and
     * Where we reasonably believe that the use or disclosure is reasonably necessary for prevention, investigation, prosecution and punishment of crimes or wrongdoings or the preparation for, conduct of, proceedings before any court or tribunal or the implementation of the orders of a court or tribunal by or on behalf of an enforcement body.
 
@@ -51,8 +51,7 @@
 ## Access to and correction of personal information
 
   1. Wesfarmers Limited is committed to maintaining accurate, timely, relevant and appropriate information about our customers, clients and web-site users.
-  2. So long as your request for your personal information is in accordance with the National Privacy Principles, then we will give you access to that information through our Privacy Officer. [To contact the Privacy Officer, please click here to go our Contact page](http://www.wesfarmers.com.au/contact.html "Contact").   
-
+  2. So long as your request for your personal information is in accordance with the National Privacy Principles, then we will give you access to that information through our Privacy Officer. [To contact the Privacy Officer, please click here to go our Contact page](http://wesfarmers.com.au/contact.html "Contact").
   3. Inaccurate information will be corrected upon receiving advice to this effect from you. To ensure confidentiality, details of your personal information will be passed on to you only if we are satisfied that the information relates to you.
   4. If we refuse to provide you with access or correct the personal information held about you by us, then we will provide reasons for such refusal.
 
@@ -60,7 +59,7 @@
 
 ## Complaints
 
-  1. If you have a complaint about our Privacy Policy or the collection, use or safe disposal or destruction of your personal information, your complaint should be directed in the first instance to us via email [through the contact page](http://www.wesfarmers.com.au/contact.html).[](mailto:privacy@wesfarmers.com.au)
+  1. If you have a complaint about our Privacy Policy or the collection, use or safe disposal or destruction of your personal information, your complaint should be directed in the first instance to us via email [through the contact page](http://wesfarmers.com.au/contact.html).[](mailto:%20%3Cscript%20type='text/javascript'%3E%20%3C!--%20var%20prefix%20=%20'ma'%20+%20'il'%20+%20'to';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy73604%20=%20'privacy'%20+%20'@';%20addy73604%20=%20addy73604%20+%20'wesfarmers'%20+%20'.'%20+%20'com'%20+%20'.'%20+%20'au';%20document.write\('%3Ca%20'%20+%20path%20+%20'\\''%20+%20prefix%20+%20':'%20+%20addy73604%20+%20'\\'%3E'\);%20document.write\(addy73604\);%20document.write\('%3C\\/a%3E'\);%20//--%3E\\n%20%3C/script%3E%3Cscript%20type='text/javascript'%3E%20%3C!--%20document.write\('%3Cspan%20style=\\'display:%20none;\\'%3E'\);%20//--%3E%20%3C/script%3EThis%20email%20address%20is%20being%20protected%20from%20spambots.%20You%20need%20JavaScript%20enabled%20to%20view%20it.%20%3Cscript%20type='text/javascript'%3E%20%3C!--%20document.write\('%3C/'\);%20document.write\('span%3E'\);%20//--%3E%20%3C/script%3E)
   2. We will investigate your complaint and attempt to resolve any breach that might have occurred in relation to the collection, use or destruction of personal information held by us about you in accordance with the Commonwealth Privacy legislation. If you are not satisfied with the outcome of this procedure then you may request that an independent person (usually the Commonwealth Privacy Officer) investigate your complaint.
 
 
@@ -86,7 +85,7 @@
 
 ## Contacting us
 
-  1. If you require further information regarding our Privacy Policy, please contact [the Privacy Officer through the Contact page](http://www.wesfarmers.com.au/contact.html "Contact").[](mailto:privacy@wesfarmers.com.au)
+  1. If you require further information regarding our Privacy Policy, please contact [the Privacy Officer through the Contact page](http://wesfarmers.com.au/contact.html "Contact").[](mailto:%20%3Cscript%20type='text/javascript'%3E%20%3C!--%20var%20prefix%20=%20'ma'%20+%20'il'%20+%20'to';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy80767%20=%20'privacy'%20+%20'@';%20addy80767%20=%20addy80767%20+%20'wesfarmers'%20+%20'.'%20+%20'com'%20+%20'.'%20+%20'au';%20document.write\('%3Ca%20'%20+%20path%20+%20'\\''%20+%20prefix%20+%20':'%20+%20addy80767%20+%20'\\'%3E'\);%20document.write\(addy80767\);%20document.write\('%3C\\/a%3E'\);%20//--%3E\\n%20%3C/script%3E%3Cscript%20type='text/javascript'%3E%20%3C!--%20document.write\('%3Cspan%20style=\\'display:%20none;\\'%3E'\);%20//--%3E%20%3C/script%3EThis%20email%20address%20is%20being%20protected%20from%20spambots.%20You%20need%20JavaScript%20enabled%20to%20view%20it.%20%3Cscript%20type='text/javascript'%3E%20%3C!--%20document.write\('%3C/'\);%20document.write\('span%3E'\);%20//--%3E%20%3C/script%3E)
   2. Should you wish to read more information on privacy legislation or the National Privacy Principles we recommend that you visit the Federal Privacy Commissioner's website at [www.privacy.gov.au](http://www.privacy.gov.au/).
 
 
@@ -97,4 +96,4 @@
 
 
 
-All information © 2009 WESFARMERS LIMITED
+All information © 2013 WESFARMERS LIMITED
