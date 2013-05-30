@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the yuplay.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920092332id_/http%3A//yuplay.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yuplay.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530022501id_/http%3A//yuplay.com/page.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
-# YUPLAY / Privacy Policy
+# YUPLAY
 
-  
-  
+Supported payment systems
+
 | 
-
-[Privacy policy from January 2010](https://web.archive.org/privacy.php?from=jan2010)
 
 **What information do we collect?**
 
