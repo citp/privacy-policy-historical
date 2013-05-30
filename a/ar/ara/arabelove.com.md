@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arabelove.com privacy policy that was archived on 2012-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121128170448id_/http%3A//www.arabelove.com/arab-dating-Privacy-EN) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arabelove.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530072459id_/http%3A//www.arabelove.com/arab-dating-Privacy-EN) for the most accurate reproduction.*
 
 # Arab Marriage friendship zawaj love arablove, arab singles, arab dating, arabic, arab personals, single muslim, dating arab girls, muslim dating, arab chat, chatting, muslim dating service, single muslim women, arab women, arabic christian -arab-dating-privacy:: arabelove.com
 
