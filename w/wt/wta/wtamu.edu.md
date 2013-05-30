@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the wtamu.edu privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018215124id_/http%3A//www.wtamu.edu/home/link-policy-and-privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wtamu.edu privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530131835id_/http%3A//wtamu.edu/home/link-policy-and-privacy-statement.aspx) for the most accurate reproduction.*
 
 # West Texas A&M University
 
 ## Link Policy
 
-West Texas A&M University is committed to abiding by the link policy set forth by the [Texas Administrative Code Rule §206.74](http://info.sos.state.tx.us/pls/pub/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=1&pt=10&ch=206&rl=74).
+West Texas A&M University is committed to abiding by the link policy set forth by the [Texas Department of Information Resources Linking and Privacy Policy](http://www2.dir.state.tx.us/pubs/Pages/weblink-privacy.aspx).
 
-In accordance with the recommendations from T.A.C. Rule §206.74 the following disclaimer and guidelines are applicable to all webpages pertaining to www.wtamu.edu.
+In accordance with the recommendations from Texas DIR, the following disclaimer and guidelines are applicable to all webpages pertaining to www.wtamu.edu.
 
 **Disclaimer:** West Texas A&M University disclaims responsibility for the accessibility, security or content accuracy of information for external (non www.wtamu.edu) website content. The liability of such pages rests on the site owner of the respective site.
 
@@ -63,12 +63,13 @@ The Texas Public Information Act, with a few exceptions, gives you the right to 
 
 **Forms**
 
-In accordance with T.A.C. Rule §206.74, with few exceptions, state law gives you the right to request, receive, review and correct information about yourself collected by forms. 
+Consistent with the [Texas DIR State Website Linking and Privacy Policy](http://www2.dir.state.tx.us/pubs/Pages/weblink-privacy.aspx), with few exceptions, state law gives you the right to request, receive, review, and correct information collected by forms.
 
+In accordance with TAC Rule 206.72, any web-based form on an official University website that requests information from the public must have a link to the [WTAMU Link Policy and Privacy Statement](http://www.wtamu.edu/privacy).
+
+  
 **Security**  
-Extensive security measures consistent with the Texas Administrative Code (TAC) "Information Security Standards" and WTAMU Rules and Standard Administrative Procedures have been employed to protect against unauthorized access, disclosure, modification, or destruction of information under our control, as well as the loss, misuse, or alteration of this website and/or associated electronic information resources. The information resources that support this site undergo an annual information security risk assessment via the Information Security Awareness Assessment and Compliance (ISAAC) system. The ISAAC system is used to assess the security posture of information systems and measure compliance with information security standards. 
-
-View our [Security Policy](https://web.archive.org/webres/File/About/Administration/Rules/24.99.99.W1_RULE_Security%20of%20Electronic%20Information%20Resources_7.13.10.pdf).  
+Extensive security measures consistent with the Texas Administrative Code (TAC) "Information Security Standards" and WTAMU Rules and Standard Administrative Procedures have been employed to protect against unauthorized access, disclosure, modification, or destruction of information under our control, as well as the loss, misuse, or alteration of this website and/or associated electronic information resources. The information resources that support this site undergo an annual information security risk assessment via the Information Security Awareness Assessment and Compliance (ISAAC) system. The ISAAC system is used to assess the security posture of information systems and measure compliance with information security standards. View our [Security Policy](https://web.archive.org/webres/File/About/Administration/Rules/24.99.99.W1_RULE_Security%20of%20Electronic%20Information%20Resources_7.13.10.pdf).  
   
 **Questions**  
 If you have any questions about the practices of this site or your use of this website, please contact:  
