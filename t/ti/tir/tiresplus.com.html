@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the tiresplus.com privacy policy that was archived on 2012-11-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121119071044id_/http%3A//www.tiresplus.com/privacy-statement) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tiresplus.com privacy policy that was archived on 2013-05-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130530171422id_/http%3A//www.tiresplus.com/privacy-statement) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html dir="ltr" lang="en-US" class="gt9  js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><!--<![endif]--><head>
     <meta charset="utf-8">
@@ -17,11 +17,11 @@
     	<link rel="shortcut icon" type="image/vnd.microsoft.icon" href="/images-tp/tp-favicon.ico" />
     <![endif]-->
 	<link rel="apple-touch-icon" type="image/png" href="/images-tp/tp-apple-touch-icon.png">
-    <link rel="stylesheet" media="screen" href="/css/tp-global.css?v=20120830">
+    <link rel="stylesheet" media="screen" href="/css/tp-global.css?v=20130411">
 	
 	<link rel="stylesheet" media="screen" href="/css/slickcombo.tp.css">
-	<link rel="stylesheet" media="print" href="/css/tp-print.css?v=20120830">
-	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.js"></script><script src="/scripts/readyqueue-1.0.0.min.js"></script>
+	<link rel="stylesheet" media="print" href="/css/tp-print.css?v=20130411">
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.js"></script><script src="/scripts/readyqueue-1.0.0.min.js"></script>
     <script src="/scripts/modernizr-2.0.4.js"></script>
 	<script>
 		ReadyQueue.init();
@@ -43,7 +43,7 @@
 				'/scripts/jquery/jquery.tracking.js',
 				'/scripts/jquery/jquery.slickcombo-2.0.js',
 				
-				'/scripts/global.tp.js?v=20120830'
+				'/scripts/global.tp.js?v=20130411'
 			],
 			complete: function () {
 				if (ReadyQueue) {
@@ -76,9 +76,10 @@
 <!-- SiteCatalyst code version: H.23.3.
 Copyright 1997-2008 Omniture, Inc. More info available at
 http://www.omniture.com -->
-<script language="JavaScript" type="text/javascript">var s_account="lwingtiresplus"</script>
-<script language="JavaScript" type="text/javascript" src="/scripts/s_code_tp.js"></script>
-<script language="JavaScript" type="text/javascript"><!--
+<script>var s_account="lwingtiresplus"</script>
+<script src="/scripts/levelwing_tid.js"></script>
+<script src="/scripts/s_code_tp.js"></script>
+<script><!--
 /* You may give each page an identifying name, server, and channel on
 the next lines. */
 s.fileName=""
@@ -182,7 +183,7 @@ s.eVar45="" /*Appointment Id*/
 s.eVar46="" /*Quote Id*/
 /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
 var s_code=s.t();if(s_code)document.write(s_code)//--></script>
-<script language="JavaScript" type="text/javascript">
+<script>
 	if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
 </script>
 <noscript>
@@ -195,13 +196,22 @@ var s_code=s.t();if(s_code)document.write(s_code)//--></script>
 
 
 	<script type="text/javascript">
-		$(function() {
-			setTimeout(function() {
-				var ebRand = Math.random()+'';
-				ebRand = ebRand * 1000000;
-				$('body').append('<iframe style="display:none" id="trackFrame" src="/resources/tracking.jsp?lw_ActivityID=&rnd=' + ebRand + '" height="0" width="0" />');
-			}, 100);
-		});
+	$(function() {
+		setTimeout(function() {
+			var lwtid = null;
+			try{
+				// attempt to set LWTID
+				lwtid = getLWTID();
+				// handle exceptions here 	
+			} catch (e) {
+				lwtid = 'lwtid_exception'
+			}
+			
+			var ebRand = Math.random()+'';
+			ebRand = ebRand * 1000000;
+			$('body').append('<iframe style="display:none" id="trackFrame" src="/resources/tracking.jsp?lwtid=' + lwtid + '&rnd=' + ebRand + '&lw_ActivityID=" height="0" width="0" />');
+		}, 100);
+	});
 	</script>
 
 
@@ -236,13 +246,12 @@ $(function(){
 <div id="container">
 	<header id="header">
 	<div id="banner" role="banner">
-		<a href="/">
-        	<img src="/images-tp/tp-logo-tires-plus.png" width="172" height="129" alt="Tires Plus® Total Car Care">
-       	</a>
-		<h1 id="site-title">
-        	<a href="/">Tires Plus® Total Car Care - The Plus is in Everything We Do.</a>
-       	</h1>
-        <ul>
+        <img class="print" src="/images-tp/logo-tp.png" alt="">
+        <hgroup>
+            <h1 id="site-title"><a href="/">Tires Plus® Total Car Care</a></h1>
+            <h2 id="site-description">The plus is in everything we do.</h2>
+        </hgroup>
+        <ul class="reduced" id="tire-brands">
         	<li>Bridgestone</li>
             <li>Michelin</li>
             <li>Pirelli</li>
@@ -254,85 +263,38 @@ $(function(){
             <li>Falken</li>
             <li>Primewell</li>
 		</ul>
-        <form id="navLocator" name="navLocator" method="post" action="/locate/displayMap.action">
-          	<fieldset class="store-locator">
-            	<label for="navZip">Find a Store</label>
-            	<input type="text" name="navZip" id="navZip" class="watermark" maxlength="5" title="ZIP">
-            	<button type="submit" class="chevron red"><span>Submit</span></button>
-            </fieldset>
-            <a class="roadside-assistance track" href="/assistance/">Roadside Assistance</a>
+		<p id="phone-number"><span>Call us</span> 1-800-847-3775</p>
+		<form id="navLocator" name="navLocator" method="post" action="/locate/displayMap.action">
+			<fieldset class="store-locator">
+				<label for="navZip">Find a Store</label>
+				<input type="text" name="navZip" id="navZip" class="watermark" maxlength="5" title="ZIP">
+				<button type="submit" class="chevron red"><span>Submit</span></button>
+			</fieldset>
+			<a class="roadside-assistance track" href="/assistance/">Roadside Assistance</a>
 		</form>
     </div>
-    <nav id="nav" role="navigation">
-    	<h1 class="assistive-text">Main menu</h1>
-    	<ul>
-        	<li class="nav1 first">
-            	<a href="/tire-pricing/index.jsp">
-                	Shop for Tires
-              	</a>
-                <ul>
-                    <li class="first">
-                        <a href="/tire-pricing/index.jsp">
-                            Tire Search
-                        </a>
-                    </li>
-                    <li>
-                        <a href="/tires/tire_catalog.jsp">
-                            Tire Catalog
-                        </a>
-                    </li>
-                    <li>
-                        <a href="/tires/tire_technology.jsp">
-                            Tire Technology
-                        </a>
-                    </li>
-                    <li>
-                        <a href="/tires/best-in-class.jsp">
-                            Best in Class
-                        </a>
-                    </li>
-                    <li>
-                        <a href="/tires/blizzak.jsp">
-                            Blizzak
-                        </a>
-                    </li>
-                    <li>
-                        <a href="/tires/destination.jsp">
-                            Destination
-                        </a>
-                    </li>
-                    <li>
-                        <a href="/tires/ecopia.jsp">
-                            Ecopia
-                        </a>
-                    </li>
-                    <li>
-                        <a href="/tires/run-flat.jsp">
-                            Run Flat
-                        </a>
-                    </li>
-                    <li>
-                        <a href="/tires/turanza.jsp">
-                            Turanza
-                        </a>
-                    </li>
-                </ul>     
-            </li>
+	<nav id="nav" role="navigation">
+		<h1 class="assistive-text">Main menu</h1>
+		<ul class="clearfix">
+			<li class="nav1 first">
+				<a href="/tire-pricing/index.jsp">Shop for tires</a>
+				<ul>
+					<li class="first"><a href="/tire-pricing/index.jsp">Tire Search</a></li>
+					<li><a href="/tires/tire_catalog.jsp">Tire Catalog</a></li>
+					<li><a href="/tires/tire_technology.jsp">Tire Technology</a></li>
+					<li><a href="/tires/best-in-class.jsp">Best in Class</a></li>
+					<li><a href="/tires/blizzak.jsp">Blizzak</a></li>
+					<li><a href="/tires/destination.jsp">Destination</a></li>
+					<li><a href="/tires/ecopia.jsp">Ecopia</a></li>
+					<li><a href="/tires/run-flat.jsp">Run Flat</a></li>
+					<li><a href="/tires/turanza.jsp">Turanza</a></li>
+				</ul>
+			</li>
             <li class="nav2">
-            	<a href="/repair/brakerepair.jsp">
-                    Repair Your Auto
-                </a>
+            	<a href="/repair/brakerepair.jsp">Repair your auto</a>
                 <ul>
-                    <li class="first">
-                        <a href="/repair/brakerepair.jsp">
-                            Brake Services
-                        </a>
-                    </li>
-                    <li>
-                        <a href="/repair/alignment.jsp">
-                            Alignment
-                        </a>
-                    </li>
+                    <li class="first"><a href="/repair/brakerepair.jsp">Brake Services</a></li>
+                    <li><a href="/repair/alignment.jsp">Alignment</a></li>
                     <li>
                         <a href="/repair/engine-repair.jsp">
                             Engine Services
@@ -340,7 +302,7 @@ $(function(){
                     </li>
                     <li>
                         <a href="/repair/startcharge.jsp">
-                            Starting and Charging
+                            Battery
                         </a>
                     </li>
                     <li>
@@ -362,7 +324,7 @@ $(function(){
             </li>
             <li class="nav3">
             	<a href="/maintain/schedule.jsp">
-                    Maintain Your Auto
+                    Maintain your auto
                 </a>
                 <ul>
                     <li class="first">
@@ -402,51 +364,22 @@ $(function(){
                     </li>
                 </ul>
             </li>
-            <li class="nav4">
-            	<a href="/learn/faq/tires/">
-                    Learn More
-                </a>
-                <ul>
-                    <li class="first">
-                        <a href="/community_relations/">
-                            Community Relations
-                        </a>
-                    </li>
-                    <li>
-                        <a href="/learn/faq/tires/">
-                            <abbr title="Frequently Asked Questions">FAQ</abbr> - Tires
-                        </a>
-                    </li>
-                    <li>
-                        <a href="/learn/tires.jsp">
-                            Learn About Tires
-                        </a>
-                    </li>
-                    <li>
-                        <a href="/learn/diff.jsp">
-                            Repairs &amp; Maintenance
-                        </a>
-                    </li>
-                    <li>
-                        <a href="/learn/videos.jsp">
-                            Videos
-                        </a>
-                    </li>
-                    <li>
-                        <a href="/learn/tpms.jsp">
-                            <abbr title="Tire Pressure Monitoring System">TPMS</abbr> - Tire Pressure
-                        </a>
-                    </li>
-                </ul>
-            </li>
-            <li class="nav5 last">
-            	<a href="/coupons/">
-            		Offers &amp; Coupons
-                </a>
-            </li>
+			<li class="nav4">
+				<a href="/learn/faq/tires/">Learn more</a>
+				<ul>
+					<li class="first"><a href="/community_relations/">Community Relations</a></li>
+					<li><a href="/learn/faq/tires/"><abbr title="Frequently Asked Questions">FAQ</abbr> – Tires</a></li>
+					<li><a href="/learn/tires.jsp">Learn About Tires</a></li>
+					<li><a href="/learn/diff.jsp">Repairs &amp; Maintenance</a></li>
+					<li><a href="/learn/videos.jsp">Videos</a></li>
+					<li><a href="/learn/tpms.jsp"><abbr title="Tire Pressure Monitoring System">TPMS</abbr> – Tire Pressure</a></li>
+				</ul>
+			</li>
+			<li class="nav5 last"><a href="/coupons/">Offers &amp; coupons</a></li>
         </ul>
     </nav>
 </header>
+
 	
 <div id="main" class="faq-tires">
 	<div id="content" role="main">
@@ -575,7 +508,7 @@ Total Car Care encourages you to review this Privacy Policy from time to time so
 you will know if the Privacy Policy has been changed or updated. If you have any
 questions about Tires Plus Total Car Care's Privacy Policy, please use the
 "Contact Us" section of this Site.</p>
-<p><strong>©2012
+<p><strong>©2013
 Tires Plus Total Car Care. All rights reserved.</strong></p>
 
     </div>
@@ -625,23 +558,42 @@ Tires Plus Total Car Care. All rights reserved.</strong></p>
         <li>
             <a class="external youtube" href="http://www.youtube.com/user/TiresPlus" title="Watch Tires Plus on YouTube"><span>Watch Tires Plus on <em>YouTube</em></span></a>
         </li>
+        <li>
+            <a class="external google-plus" href="https://plus.google.com/u/0/b/109214218877549014423/109214218877549014423/posts" rel="external" title="Watch Tires Plus on Google+"><span>Watch Tires Plus on <em>Google+</em></span></a>
+        </li>
         <li class="social-messaging">
-            Tips. Updates. Savings.
+            Tips.Updates.Savings.
         </li>
     </ul>
     <div class="social-right"></div>
 </div>
 <div class="clear"></div>
+			<!-- 
+
+
+
+
+    <div class="coupon">
+        <a class="modal-link" href="javascript:go_link('/popup.jsp?image=tp_repair_brakerepair', 700,600);"
+            onclick="trackEvent('TP Landing Page Coupon Tracking','Brake Service_01/01/2001_01/01/2001_6428');">
+            <p><small>Offer Valid Jan 1 - 1, 2001</small></p>
+            <hgroup>
+            	
+            </hgroup>
+			<span class="click-callout">Click for details</span>
+        </a>
+    </div>
+ -->
             
 
 
 
 
     <div class="coupon">
-        <a class="modal-link" href="javascript:go_link('/popup.jsp?image=tp_repair_brakerepair', 700,600);" onclick="trackEvent('TP Landing Page Coupon Tracking','Brake Service_11/01/2012_11/30/2012_5159');">
-            <p><small>Offer Valid Nov 1 - 30, 2012</small></p>
+        <a class="modal-link" href="javascript:go_link('/popup.jsp?image=tiresplus-brakes-05', 700,600);" onclick="trackEvent('TP Landing Page Coupon Tracking','Brake Service_05/01/2013_05/31/2013_7199');">
+            <p><small>Offer Valid May 1 - 31, 2013</small></p>
             <hgroup>
-            	<h4>Brake Service</h4><h5>$40 Off <span>Standard</span></h5>
+            	<h4>Standard Brake Service</h4><h5>$99.99 <span>Standard</span></h5>
             </hgroup>
 			<span class="click-callout">Click for details</span>
         </a>
@@ -657,7 +609,7 @@ Tires Plus Total Car Care. All rights reserved.</strong></p>
 </a>
 			</li>
 			<li>
-				<a href="/credit_card/" id="icfna" rel="external" class="callout callout-credit-card">
+				<a href="/credit_card/index.htm" id="icfna" rel="external" class="callout callout-credit-card">
     <h3>Credit Card</h3>
     <p>Convenient credit <span class="block">with a Tires Plus</span> <span class="block">credit card</span></p>
     <p class="more">Learn More <span class="chevron">&gt;&gt;</span></p>
@@ -762,6 +714,9 @@ Tires Plus Total Car Care. All rights reserved.</strong></p>
             <li>
                 <a class="youtube" href="http://www.youtube.com/user/TiresPlus" onclick="trackEvent('Social_Links','YouTube');" rel="external" title="Watch Tires Plus on YouTube"><span>Watch Tires Plus on <em>YouTube</em></span></a>
            	</li>
+           	<li>
+                <a class="google-plus" href="https://plus.google.com/u/0/b/109214218877549014423/109214218877549014423/posts" onclick="trackEvent('Social_Links','Google+');" rel="external" title="Watch Tires Plus on Google+"><span>Watch Tires Plus on <em>Google+</em></span></a>
+           	</li>
 			<li id="social-messaging">
             	<strong>Tips. Updates. Savings.</strong>
             </li>
@@ -789,21 +744,20 @@ Tires Plus Total Car Care. All rights reserved.</strong></p>
            	</li>
       	</ul>
         <p class="copyright">
-            © 2012 Tires Plus Total Car Care. All rights reserved.
+            © 2013 Tires Plus Total Car Care. All rights reserved.
         </p>
     </div>
 </footer>
 </div>
 
-<script type="text/javascript"> document.write('<' + 'script language="javascript" src="http://dimitritracker.dacgroup.com/dimitritracker.js?16"' + '></'+'script>');</script><script language="javascript" src="http://dimitritracker.dacgroup.com/dimitritracker.js?16"></script>
 
 <script type="text/javascript">
 if (_gaq==undefined)
 {
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-4801949-2']);
+  _gaq.push(['_setDomainName', 'tiresplus.com']);
   _gaq.push(['_trackPageview']);
-  DimitriLogEvent('trackpageview', 'pageview');
 
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
@@ -821,14 +775,15 @@ if (_gaq==undefined)
 
 
 
-<!-- Advertiser 'DAC Group—Tires Plus',  Include user in segment 'DAC-TiresPlus-Retargeting' - DO NOT MODIFY THIS PIXEL IN ANY WAY -->
-<img src="http://ads.bluelithium.com/pixel?id=2058628&amp;t=2" width="1" height="1">
+<!-- Advertiser 'DAC Group Tires Plus',  Include user in segment 'DAC-TiresPlus-Retargeting' - DO NOT MODIFY THIS PIXEL IN ANY WAY -->
+<img src="http://ads.bluelithium.com/pixel?id=2058628&amp;t=2" width="1" height="1" alt="">
 <!-- End of segment tag -->
+
 
 	
 	
-		<!-- ----------------- DO NOT REMOVE THIS CODING ------------------------ -->
-		<img src="http://leadback.advertising.com/adcedge/lb?site=695501&amp;betr=tiresplus_cs=[+]1[720],3[8760]" width="1" height="1" border="0">
+		
+		<img src="http://leadback.advertising.com/adcedge/lb?site=695501&amp;betr=tiresplus_cs=[+]1[720],3[8760]" width="1" height="1" alt="">
 		
 		<!-- Google Code for Remarketing tag -->
 		<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
@@ -840,15 +795,13 @@ if (_gaq==undefined)
 			var google_remarketing_only = true;
 			/* ]]> */ 
 		</script>
-
 		<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
-
 		<noscript>
 			<div style="display: inline;">
-				<img height="1" width="1" style="border-style: none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/994397274/?value=0&amp;label=6JBCCN7ExAMQ2piV2gM&amp;guid=ON&amp;script=0" />
+				<img src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/994397274/?value=0&amp;label=6JBCCN7ExAMQ2piV2gM&amp;guid=ON&amp;script=0" height="1" width="1" alt="" />
 			</div>
 		</noscript>
 	
 
 
-</body></html>
+<iframe name="LWeasyXDM_default8833_provider" id="LWeasyXDM_default8833_provider" frameborder="0" style="position: absolute; top: -2000px;" src="https://utag.levelwing.com/provider.html?xdm_e=https%3A%2F%2Fweb.archive.org&amp;xdm_c=default8833&amp;xdm_p=1"></iframe></body></html>
