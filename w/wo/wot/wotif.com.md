@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wotif.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010081102id_/http%3A//www.wotif.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wotif.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530112433id_/http%3A//www.wotif.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -8,7 +8,7 @@
 
 At Wotif.com, we are committed to protecting the privacy and security of your personally identifiable information **("PII")** in accordance with accepted privacy principles as described in this policy. 
 
-This policy was last adjusted on 7 June 2012.
+This policy was last adjusted on 14 February 2013.
 
 We reserve the right to modify or amend this policy at any time and for any reason. Any material changes to this privacy policy will be posted prior to their implementation. Questions regarding this policy should be emailed to [privacy@wotif.com](mailto:privacy@wotif.com?subject=Privacy%20enquiry) or sent via post to: Wotif.com, Attention: Privacy Officer, 7 Baroona Road, Milton, Qld, 4064, Australia.
 
@@ -47,18 +47,20 @@ In an effort to keep our service as simple and easy as possible, we do not creat
 For more information on cookies, see below. 
   * Subscribe to our Wotmail newsletter We collect email addresses, names, city of residence and communications preferences from people who elect to subscribe to the Wotmail newsletter. 
   * Participate in surveys, promotions and competition information Occasionally, we may offer site visitors or newsletter recipients an opportunity to participate in a survey, promotion or competition. The PII we collect when you participate in a survey, promotion or competition may include your full name, email address, telephone number and street address. 
-  * Submit a review We collect your name or other identifier nominated by you and your comments when you submit a review to us. We may publish these details. 
+  * Submit a review We collect your name or other identifier nominated by you, other personal details as may be provided by you and your comments when you submit a review to us. We may publish these details. 
   * Are involved in a card payment dispute If a card payment occurring on our site is disputed, we may request from the supplier of the booked service a copy of the photo ID and other check-in details provided to them. This information may be used by us in connection with the dispute. 
   * Contact Wotif.com We collect PII such as your full name, email address and/or telephone number and feedback whenever you submit an enquiry or suggestion, provide feedback or comments or request assistance with a booking.
 
 #### Other information we collect:
 
   * Statistical information When you visit our site, we record general information about your visit for statistical purposes. These statistics do not contain any PII. 
-  * Cookies We may, from time to time, use "cookies" to store your preferences, record session information and collect information on how you visit and access our web pages and newsletters. We collect information on the web pages and newsletters visited by our customers to help us continue to improve our services. 
+  * Cookies We and our trusted third party service providers may, from time to time, use "cookies" to store your preferences, record session information and collect information on how you visit and access our web pages and newsletters. This information allows us to continually improve our services to provide you with a better overall experience. 
 
 Cookies are small files stored on your computer which allow us to recognise you when you return to our site. Cookies can make the web more useful by storing information about your preferences on a particular site. The use of cookies is an industry standard and many websites use them to provide useful features for you. Cookies in and of themselves do not personally identify you, only your computer.
 
-You can delete cookies from your computer at any time (see your internet browser's help menu for more information); however, this will remove all cookies and not just those associated with the Wotif.com site. 
+We also use third party cookies to show you Wotif.com advertisements on other websites (remarketing). Our advertisements on other websites maybe based on destinations and products you have searched for or viewed on Wotif.com.
+
+Cookies can be deleted from your computer at any time (see your internet browser's help menu for more information); however, this will remove all cookies and not just those associated with the Wotif.com site. 
 
 
 
