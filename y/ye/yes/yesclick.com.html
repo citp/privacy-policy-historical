@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the yesclick.com privacy policy that was archived on 2012-12-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121210051014id_/http%3A//yesclick.com/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the yesclick.com privacy policy that was archived on 2013-05-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130530120750id_/http%3A//yesclick.com/privacy_policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-    <title>YesClick - Largest Pay-Per-Click Search Engine Advertising Network</title>
+    <title>Privacy Policy YesClick</title>
     <meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
 
     <link rel="stylesheet" type="text/css" href="/new_templates/css/reset.css" media="all">
@@ -10,12 +10,14 @@
     <!--[if IE]>
     <link rel="stylesheet" type="text/css" href="/new_templates/css/style.ie.css" media="all" />
     <![endif]-->
-	<script type="text/javascript" src="js/jquery-1.4.2.min.js"></script>
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="js/jquery-1.4.2.min.js"></script>
 	<script type="text/javascript" src="js/ui/jquery-ui.js"></script>
 	<script type="text/javascript" src="js/jquery.template.js"></script>
 	<script type="text/javascript" src="js/jquery.validate.js"></script>
 	<script type="text/javascript" src="js/jquery.form.js"></script>
-
+<!--
+YesClick - Largest Pay-Per-Click Search Engine Advertising Network
+-->
   </head> 
   <body>
     <div id="wrapper">
@@ -27,8 +29,8 @@
             <div class="block todays-search-volume">
               <h3>Today's search volume</h3>
               <ul>
-                <li><strong>Queries:</strong><span id="queries-delivered">300,336,812</span></li>
-                <li><strong>Updated:</strong><span>12/10/2012</span></li>
+                <li><strong>Queries:</strong><span id="queries-delivered">533,669,502</span></li>
+                <li><strong>Updated:</strong><span>05/30/2013</span></li>
               </ul>
             </div><!-- #header-information .todays-search-volume -->
             <div class="block choose-your-language">
@@ -39,6 +41,8 @@
                         <input type="button" name="sign-cont" value="Support: Online" class="button green small" onclick="window.location='/contactus.php'">
                     </li>
                 </ul>
+<div style="width: 14px; margin-top: 10px; margin-left: 60px; float: left; height: 20px;"><a class="change-language en" href="?set_language=en"><b></b></a></div>
+<div style="float: left; margin-top: 10px; margin-left: 15px; height: 20px; width: 14px;"><a class="change-language ru" href="?set_language=ru"><b></b></a></div>
                 </div>
             </div><!-- #header-information .choose-your-language -->
             <script type="text/javascript">
@@ -55,7 +59,7 @@ function check_login_form() {
 function check_reminder_form() {
 	var fields = $(':input', document.reminder_form);
     if (!fields.filter('[name=email]').val()) {
-        alert("Enter your Email");
+        alert(login_err_msg);
         return false;
     }
     return true;
@@ -82,7 +86,7 @@ function send_check_login() {
         
         <div class="row">
             <div class="left">
-                <h3>Sign in</h3>
+                <h3>Sign In</h3>
             </div>
             <div class="right">
                 <input type="button" name="sign-up" value="Registration" class="button green small" onclick="window.location='/signup.php'">
@@ -108,7 +112,7 @@ function send_check_login() {
                 </label>
             </div>
             <div class="right">
-                <a href="#" onclick="toggle_forms();return false;" id="header-forgot-password">Forgot Password</a>
+                <a href="#" onclick="toggle_forms();return false;" id="header-forgot-password">Forgot Password?</a>
             </div>
         </div>
         <div class="row">
@@ -150,7 +154,7 @@ function send_check_login() {
             <li><a href="advertisers.php">Advertisers</a></li>
             <li><a href="publishers.php">Publishers</a></li>
             <li><a href="signup.php">Create Account</a></li>
-            <li><a href="our_advantage.php">Our Advantage</a></li>
+            <li><a href="our_advantage.php">Our Advantages</a></li>
             <li><a href="contactus.php">Contact Us</a></li>
         </ul> 
         </div><!-- #header -->
@@ -198,10 +202,23 @@ function send_check_login() {
     </div><!-- #footer -->
 
     <script type="text/javascript">
-      var queries = [300336800, 15];
+      var queries = [533669492, 15];
     </script>
     <script type="text/javascript" src="/new_templates/js/jquery-1.8.0.min.js"></script>
     <script type="text/javascript" src="/new_templates/js/accounting.min.js"></script>
     <script type="text/javascript" src="/new_templates/js/common.js"></script>
+    <script type="text/javascript">
+
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-37597112-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+  </script>
   
  </body></html>
