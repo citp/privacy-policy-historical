@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dudamobile.com privacy policy that was archived on 2012-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121117092242id_/http%3A//www.dudamobile.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dudamobile.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530051616id_/http%3A//www.dudamobile.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policies | DudaMobile
 
-Last modified: March 27, 2012 ([view archived version](http://www.dudamobile.com/privacy/archived.html))
+Last modified: March 27, 2012
 
 #### 1\. General
 
@@ -15,6 +15,9 @@ This Policy is an integral part of the Site's [General Terms of Service](http://
 ##### Changes to this Policy.
 
 We reserve the right, in our sole discretion, to amend or update this Policy from time to time. If we make any material changes to this Policy, we will post a notice of these changes on our website and in this Policy, and note the effective date of any changes at the top of this page. You are advised to consult this Policy regularly for any changes. If you would like to be notified by email if and when material changes are made to this Policy, please send an email to [legal@dudamobile.com](mailto:legal@dudamobile.com).
+
+  
+
 
 #### 2\. Types of Information We Collect
 
@@ -39,6 +42,9 @@ Like many websites, we use “ **cookies** ” to collect information. A cookie 
 
 In this Policy, we refer to all information collected from or about you, including but not limited to Personal Information and Non-Personal Information, as “ **Your Information**.”
 
+  
+
+
 #### 3\. How We Use Your Information
 
 Your Information is used for, but is not limited to, the following purposes: (i) to provide the Service, (ii) to administer your use of the Service and any accounts you may have with us, (iii) to personalize your experience, (iv) to provide to you service announcements, (v) to provide you with further information and offers from us or third parties that we believe you may find useful or interesting, such as newsletters, marketing or promotional materials, (vi) on behalf of and according to instructions of a third party, such as our advertising partners, (vii) to enforce our Terms of Service, (viii) to resolve any disputes between users of the Site or between such users and us, and (ix) to contact you to obtain feedback from you regarding the Site and the Service.
@@ -58,6 +64,9 @@ We may present links in a format that enables us to keep track of whether these 
 ##### Third Party Sites.
 
 This Policy applies only to the Site and Service. We do not exercise control over other websites that provide information, or over banners, other advertisements or links from within the Site or the Service. These other sites may place their own cookies or other files on your computer’s browser, collect data or solicit personal information from you. Other websites follow different rules regarding the use or disclosure of the Personal Information that you submit, and the collection and use of such information and access of any third party websites are subject to such third party's privacy policy. **We encourage you to read the privacy policies and other terms of such third parties' websites before using their services.**
+
+  
+
 
 #### 4\. Information Sharing and Disclosure
 
@@ -99,13 +108,22 @@ We may sell, transfer or otherwise share some or all of our assets, including am
 
 **We encourage you to consider carefully what information to share as part of your Account profile and elsewhere in the Service, and we recommend that you guard your anonymity and sensitive information and not use your real name as your username, as that may allow other users of the Service to identify you. Any information you choose to share should reflect how much you want other users of the Service to know about you. You can review and revise your Account profile information at any time.**
 
+  
+
+
 #### 5\. Changing or Deleting Your Information
 
 You may review, update, correct or delete Your Information, if not required to be retained by law or for legitimate business reasons. If you completely delete all such information, your account may be deactivated. In addition, we may delete any information provided by you or related to you, pursuant to our policies as then in effect.
 
+  
+
+
 #### 6\. Our Policy Toward Children
 
 We understand the importance of protecting children’s privacy, especially in an online environment. The Site and Services are not designed for or directed at children. We do not knowingly collect personally identifiable information from minors. If you are a minor over the age of 13, we recommend you seek consent from a parent or legal guardian before accessing our Service. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us at [legal@dudamobile.com](mailto:legal@dudamobile.com).
+
+  
+
 
 #### 7\. Security
 
@@ -113,9 +131,15 @@ We are committed to safeguarding Your Information. We employ a variety of measur
 
 If you receive an e-mail asking you to update your Personal Information, do not reply and please contact us at [legal@dudamobile.com](mailto:legal@dudamobile.com).
 
+  
+
+
 #### 8\. International Processing or Transfer
 
 By visiting our Site, using our Service and/or providing us with data, you acknowledge and agree that some of Your Information may be transmitted outside your resident jurisdiction and that Your Information may be processed, maintained or transferred outside of your state, where the privacy laws may not be as protective as those in your jurisdiction.
+
+  
+
 
 #### 9\. Contacting Us
 
