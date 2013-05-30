@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the studentrate.com privacy policy that was archived on 2012-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121230203318id_/http%3A//www.studentrate.com/StudentRate/Assets/StaticPages/Privacystatement.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the studentrate.com privacy policy that was archived on 2013-05-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130530123634id_/http%3A//studentrate.com/Assets/StaticPages/Privacystatement.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#"><head><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><meta http-equiv="Content-Language" content="en-us"><meta http-equiv="X-UA-Compatible" content="IE=8"><meta id="ctl00_MetaDescription" name="description" content="Studentrate deal page for user login and displaying hottest local and national deals.  User can search deal for school or deal category."><meta id="ctl00_MetaKeyword" name="keyword" content="Student Rate, School Reviews, Deals, Hot, Local, Event, Students, Ratings, Best of everything,"><meta name="verify-v1" content="pYi8atLa4nThjOP13EYCXSPl8jh/kW+faN23ylnCKwU="><title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#"><head><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><meta http-equiv="Content-Language" content="en-us"><meta http-equiv="X-UA-Compatible" content="IE=8"><meta id="ctl00_MetaTitle" name="title" content="Student Discounts &amp; Deals - StudentRate"><meta id="ctl00_MetaDescription" name="description" content="Studentrate deal page for user login and displaying hottest local and national deals.  User can search deal for school or deal category."><meta id="ctl00_MetaKeyword" name="keyword" content="Student Rate, School Reviews, Deals, Hot, Local, Event, Students, Ratings, Best of everything,"><meta name="verify-v1" content="pYi8atLa4nThjOP13EYCXSPl8jh/kW+faN23ylnCKwU="><meta id="ctl00_ogTitle" property="og:title" name="og:title" content="Student Discounts &amp; Deals - StudentRate"><meta id="ctl00_ogDescription" property="og:description" name="og:description" content="Get free student discounts and deals on Apple, Netflix, T-Mobile, Sephora, Forever 21 and much more. Find discounts, deals, coupons and promo codes on textbooks, travel, apparel, sports gear and food."><meta id="ctl00_ogUrl" property="og:url" name="og:url" content="http://www.studentrate.com"><meta id="ctl00_ogType" property="og:type" name="og:type" content="website"><title>
 	StudentRate - Privacy Statement
 </title>
      
-     <script type="text/javascript" src="../styles/js/jquery.js"></script>
+     <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="../styles/js/jquery.js"></script>
 		<script type="text/javascript" src="../styles/js/jquery-easing.js"></script>
 		<script type="text/javascript" src="../styles/js/fns.js"></script>
 <script type="text/javascript" src="../styles/js/floatingDiv.js"></script>
@@ -24,6 +24,11 @@
   GS_googleEnableAllServices();
 </script>
 
+
+
+<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
+</script>
+
 <script type="text/javascript">
 
   GA_googleAddSlot("ca-pub-2501273766383593", "drawing_right");
@@ -35,6 +40,9 @@
   GA_googleAddSlot("ca-pub-2501273766383593", "Textbooks_right");
   GA_googleAddSlot("ca-pub-2501273766383593", "home300x250");
   GA_googleAddSlot("ca-pub-2501273766383593", "home300x250BottomRight");
+  GA_googleAddSlot("ca-pub-2501273766383593", "cheapesttextbooks");
+  GA_googleAddSlot("ca-pub-2501273766383593", "giveaway");
+  GA_googleAddSlot("ca-pub-2501273766383593", "membersfavorites");
 
 </script>
 <script type="text/javascript">
@@ -117,6 +125,30 @@
                 oWindow = window.radopen('../../Register.aspx' + '?deal=' + dealid + '&location=' + locationid, 'DialogWindow');
             else
                 oWindow = window.radopen('../../Register.aspx', 'DialogWindow');
+        }
+
+        oWindow.SetSize(500, 460);
+        RelocatePopupWindow(oWindow);
+    }
+
+    function ShowSimpleRegisterForMoney(dealid, locationid, register) {
+        var oWindow;
+
+        if ('False' == 'True') {
+            if (dealid != '' && locationid != '')
+                oWindow = window.radopen('../../RegisterMoney.aspx' + '?deal=' + dealid + '&location=' + locationid, 'CouponWinwod');
+            else if (dealid != '')
+                oWindow = window.radopen('../../RegisterMoney.aspx' + '?deal=' + dealid + '&location=' + locationid, 'CouponWinwod');
+            else
+                oWindow = window.radopen('../../RegisterMoney.aspx', 'CouponWinwod');
+        }
+        else {
+            if (dealid != '' && locationid != '')
+                oWindow = window.radopen('../../RegisterMoney.aspx' + '?deal=' + dealid + '&location=' + locationid, 'DialogWindow');
+            else if (dealid != '')
+                oWindow = window.radopen('../../RegisterMoney.aspx' + '?deal=' + dealid + '&location=' + locationid, 'DialogWindow');
+            else
+                oWindow = window.radopen('../../RegisterMoney.aspx', 'DialogWindow');
         }
 
         oWindow.SetSize(500, 460);
@@ -245,7 +277,6 @@ function OnClientDropDownOpenedHandler(sender, eventArgs)
  
 
 //-->
-
 </script>
    
 
@@ -272,61 +303,89 @@ function OnClientDropDownOpenedHandler(sender, eventArgs)
 
 -->
     </script>
+<script type="text/javascript">
 
-    <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-    </script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-777442-8']);
+  _gaq.push(['_setDomainName', 'studentrate.com']);
+  _gaq.push(['_trackPageview']);
 
-    <script type="text/javascript">
-    _uacct = "UA-777442-8";
-    urchinTracker();
-    </script>
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
 <script type="text/javascript">function displayServerErrors(){};</script>
 
 <script type="text/javascript">
     function SubmitSearch() {
         alert('test');
-        window.location = "/studentrate/googlesearchresults.aspx";
+        window.location = "/googlesearchresults.aspx";
     }
 </script>
 
-<link href="/StudentRate/WebResource.axd?d=nONPvSkmsEpC8KSjbV1zY1pfrS6d8iGujiunQ3TKNElSbrXTyRN5SakF0Bl9d-ExjE27DAefH4TwrFaHSc2hu8L402FiPM09Ll5YaArx_qe6D6g9AYgUZBn5c2DDHkcFp_u6CQ2&amp;t=634707996925070313" type="text/css" rel="stylesheet" class="Telerik_stylesheet"><link href="/StudentRate/WebResource.axd?d=pOcdzHr5g_BNnlq9MjCpEzDMnfjUxU1QieQwN4WeJSdyjrEOJ5R6Ov-6TCqcIdYzAxH1_9RJGCZjpLXpY7Pz_AXl8OUPlJgNg5V7U4xj8EvNWQnRh01SRKzEb6L63b96f7pv0lKEMVGD_05piiKESbV29gQ1&amp;t=634707996925070313" type="text/css" rel="stylesheet" class="Telerik_stylesheet"><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script></head>
+<link href="/WebResource.axd?d=nONPvSkmsEpC8KSjbV1zY1pfrS6d8iGujiunQ3TKNElSbrXTyRN5SakF0Bl9d-ExjE27DAefH4TwrFaHSc2hu8L402FiPM09Ll5YaArx_qe6D6g9AYgUZBn5c2DDHkcFp_u6CQ2&amp;t=634707996925070313" type="text/css" rel="stylesheet" class="Telerik_stylesheet"><link href="/WebResource.axd?d=pOcdzHr5g_BNnlq9MjCpEzDMnfjUxU1QieQwN4WeJSdyjrEOJ5R6Ov-6TCqcIdYzAxH1_9RJGCZjpLXpY7Pz_AXl8OUPlJgNg5V7U4xj8EvNWQnRh01SRKzEb6L63b96f7pv0lKEMVGD_05piiKESbV29gQ1&amp;t=634707996925070313" type="text/css" rel="stylesheet" class="Telerik_stylesheet"><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script></head>
 		
 
-<body onload="placeIt(); initialize();MM_preloadImages('../Images/ratings_mouseover.gif','../Images/events_mouseover.gif','../Images/best_mouseover.gif','../Images/whatshot_mouseover.gif','../Images/guides_mouseover.gif')">
+<body onload="placeIt(); initialize();MM_preloadImages('../Images/ratings_mouseover.gif','../Images/events_mouseover.gif','../Images/best_mouseover.gif','../Images/whatshot_mouseover.jpg','../Images/guides_mouseover.jpg')">
     <div id="fb-root">
     </div>
     <script>
-        window.fbAsyncInit = function () {
-            FB.init({
-                appId: '163834633657387',
-                channelUrl: '//StudentRate.com/channel.html',
-                cookie: true,
-                xfbml: true,
-                oauth: true,
-                status: true
-            });
-            
-            FB.getLoginStatus(function (response) {
-                if (response.status === 'connected' && !loginFailed) {
-                    window.onload = function () {
-                        var uid = response.authResponse.userID;
-                        var accessToken = response.authResponse.accessToken;
-                        document.getElementById('ctl00_accessToken').value = accessToken;
-                        document.forms[0].submit();
-                    }
-                } else {
+//        window.fbAsyncInit = function () {
+//            FB.init({
+//                appId: '163834633657387',
+//                channelUrl: '//StudentRate.com/channel.html',
+//                cookie: true,
+//                xfbml: true,
+//                oauth: true,
+//                status: true
+//            });
+            //            
+            //            FB.getLoginStatus(function (response) {
+            //                if (response.status === 'connected' && !loginFailed) {
+            //                    window.onload = function () {
+            //                        var uid = response.authResponse.userID;
+            //                        var accessToken = response.authResponse.accessToken;
+            //                        document.getElementById('ctl00_accessToken').value = accessToken;
+            //                        document.forms[0].submit();
+            //                    }
+            //                } else {
+            //                    FB.Event.subscribe('auth.login', function (response) {
+            //                        if (response.status === 'connected') {
+            //                            var uid = response.authResponse.userID;
+            //                            var accessToken = response.authResponse.accessToken;
+            //                            document.getElementById('ctl00_accessToken').value = accessToken;
+            //                            document.forms[0].submit();
+            //                        }
+            //                    });
+            //                }
+            //            });
+            ////            
+            //        };
+
+
+                window.fbAsyncInit = function () {
+                    FB.init({
+                        appId: '163834633657387',
+                        channelUrl: '//StudentRate.com/channel.html',
+                        cookie: true,
+                        xfbml: true,
+                        oauth: true
+                    });
+                   
                     FB.Event.subscribe('auth.login', function (response) {
-                        if (response.status === 'connected') {
+                        if (response.status === 'connected' || response.status === 'not_authorized') {
                             var uid = response.authResponse.userID;
                             var accessToken = response.authResponse.accessToken;
                             document.getElementById('ctl00_accessToken').value = accessToken;
                             document.forms[0].submit();
                         }
+                       
                     });
-                }
-            });
-            
-        };
+                  
+                };
         (function (d) {
             var js, id = 'facebook-jssdk'; if (d.getElementById(id)) { return; }
             js = d.createElement('script'); js.id = id; js.async = true;
@@ -341,24 +400,24 @@ function OnClientDropDownOpenedHandler(sender, eventArgs)
     </script>
     <!--Site Container Open-->
     <form name="aspnetForm" method="post" action="Privacystatement.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEwMDUyNjYzMjgPZBYCZg9kFgRmD2QWBAIDDxYCHgdjb250ZW50BYgBU3R1ZGVudHJhdGUgZGVhbCBwYWdlIGZvciB1c2VyIGxvZ2luIGFuZCBkaXNwbGF5aW5nIGhvdHRlc3QgbG9jYWwgYW5kIG5hdGlvbmFsIGRlYWxzLiAgVXNlciBjYW4gc2VhcmNoIGRlYWwgZm9yIHNjaG9vbCBvciBkZWFsIGNhdGVnb3J5LmQCBA8WAh8ABV5TdHVkZW50IFJhdGUsIFNjaG9vbCBSZXZpZXdzLCBEZWFscywgSG90LCBMb2NhbCwgRXZlbnQsIFN0dWRlbnRzLCBSYXRpbmdzLCBCZXN0IG9mIGV2ZXJ5dGhpbmcsZAICD2QWEAICD2QWBAIBDw8WAh4HVmlzaWJsZWhkZAIDDw8WAh8BaGRkAgMPFgIeBFRleHQFmQE8YSBjbGFzcz0nYW51bScgaHJlZj0nL1N0dWRlbnRSYXRlL1NjaG9vbC9EZWFscy9EZWFsU3VtbWFyeS5hc3B4P3NjaG9vbD1hbGwmdGl0bGU9VmVuZG9ycyc+PHAgY2xhc3M9J251bScgcnVuYXQ9J3NlcnZlcicgc3R5bGU9J2N1cnNvcjpoYW5kOyc+MjQxPC9wPjwvYT5kAgUPFgIfAgUUQ2hvb3NlIHlvdXIgbG9jYXRpb25kAggPFgIeBGhyZWYFC34vYWxsLURlYWxzZAIJDxYCHwMFPH4vU2Nob29sL0RlYWxzL0RlYWxTdW1tYXJ5LmFzcHg/c2Nob29sPWFsbCZ0aXRsZT1Mb2NhbF9EZWFsc2QCEw8WAh8DBS9+L1NjaG9vbC9CZXN0T2ZFdmVyeVRoaW5nL0Jlc3RPZkV2ZXJ5VGhpbmcuYXNweGQCFA8WAh8DBUx+L1NjaG9vbC9EZWFscy9EZWFsU2VhcmNoUmVzdWx0LmFzcHg/U2Nob29sSWQ9MCZDYXRlZ29yeUlkPTAmTG9jYWw9MSZzY2hvb2w9ZAIWDxQrAAIPFgIeF0VuYWJsZUFqYXhTa2luUmVuZGVyaW5naGQQFgJmAgEWAg8WAh8EaGQPFgIfBGhkDxYCZmYWAQVyVGVsZXJpay5XZWIuVUkuUmFkV2luZG93LCBUZWxlcmlrLldlYi5VSSwgVmVyc2lvbj0yMDA5LjMuMTIwOC4zNSwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj0xMjFmYWU3ODE2NWJhM2Q0FgQCAw8PFgIfBGhkZAIEDw8WAh8EaGRkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYDBRdjdGwwMCRSYWRXaW5kb3dNYW5hZ2VyMQUSY3RsMDAkRGlhbG9nV2luZG93BRJjdGwwMCRDb3Vwb25XaW53b2RuoxipLchloOiTymgHmf5QF+Zfyg==">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEwMDUyNjYzMjgPZBYCZg9kFgRmD2QWBAIEDxYCHgdjb250ZW50BYgBU3R1ZGVudHJhdGUgZGVhbCBwYWdlIGZvciB1c2VyIGxvZ2luIGFuZCBkaXNwbGF5aW5nIGhvdHRlc3QgbG9jYWwgYW5kIG5hdGlvbmFsIGRlYWxzLiAgVXNlciBjYW4gc2VhcmNoIGRlYWwgZm9yIHNjaG9vbCBvciBkZWFsIGNhdGVnb3J5LmQCBQ8WAh8ABV5TdHVkZW50IFJhdGUsIFNjaG9vbCBSZXZpZXdzLCBEZWFscywgSG90LCBMb2NhbCwgRXZlbnQsIFN0dWRlbnRzLCBSYXRpbmdzLCBCZXN0IG9mIGV2ZXJ5dGhpbmcsZAICD2QWEAICD2QWBAIBDw8WAh4HVmlzaWJsZWhkZAIDDw8WAh8BaGRkAgMPFgIeBFRleHQFjQE8YSBjbGFzcz0nYW51bScgaHJlZj0nL1NjaG9vbC9EZWFscy9EZWFsU3VtbWFyeS5hc3B4P3NjaG9vbD1hbGwmdGl0bGU9VmVuZG9ycyc+PHAgY2xhc3M9J251bScgcnVuYXQ9J3NlcnZlcicgc3R5bGU9J2N1cnNvcjpoYW5kOyc+MjQ5PC9wPjwvYT5kAgUPFgIfAgUUQ2hvb3NlIHlvdXIgbG9jYXRpb25kAggPFgIeBGhyZWYFC34vYWxsLURlYWxzZAIJDxYCHwMFEX4vYWxsLUxvY2FsLURlYWxzZAITDxYCHwMFL34vU2Nob29sL0Jlc3RPZkV2ZXJ5VGhpbmcvQmVzdE9mRXZlcnlUaGluZy5hc3B4ZAIUDxYCHwMFTH4vU2Nob29sL0RlYWxzL0RlYWxTZWFyY2hSZXN1bHQuYXNweD9TY2hvb2xJZD0wJkNhdGVnb3J5SWQ9MCZMb2NhbD0xJnNjaG9vbD1kAhYPFCsAAg8WAh4XRW5hYmxlQWpheFNraW5SZW5kZXJpbmdoZBAWAmYCARYCDxYCHwRoZA8WAh8EaGQPFgJmZhYBBXJUZWxlcmlrLldlYi5VSS5SYWRXaW5kb3csIFRlbGVyaWsuV2ViLlVJLCBWZXJzaW9uPTIwMDkuMy4xMjA4LjM1LCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPTEyMWZhZTc4MTY1YmEzZDQWBAIDDw8WAh8EaGRkAgQPDxYCHwRoZGQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgMFF2N0bDAwJFJhZFdpbmRvd01hbmFnZXIxBRJjdGwwMCREaWFsb2dXaW5kb3cFEmN0bDAwJENvdXBvbldpbndvZKl8cyzD+HGdOUYL2UO5B52kRq0z">
 
 
-<script src="/StudentRate/ScriptResource.axd?d=o12DG1B3ji1SVB0EbxpufNvQC84_v76SqwcaZrmqM7fP1BmtUOU6sBBcUG6ZMRh7WSODvR4c_t1o0KSYTugkmFxoaAzIGygCC4bXlfZLhk5DR6Q0zkhB6-PphZJQb-Fx7qWMEb3CoP36amFBViqf5s6qzDVeR3WT8G07JuIvCB6Gyv5p0&amp;t=ffffffffb868b5f4" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=o12DG1B3ji1SVB0EbxpufNvQC84_v76SqwcaZrmqM7fP1BmtUOU6sBBcUG6ZMRh7WSODvR4c_t1o0KSYTugkmFxoaAzIGygCC4bXlfZLhk5DR6Q0zkhB6-PphZJQb-Fx7qWMEb3CoP36amFBViqf5s6qzDVeR3WT8G07JuIvCB6Gyv5p0&amp;t=ffffffffb868b5f4" type="text/javascript"></script>
 <script type="text/javascript">
 //<![CDATA[
 if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
 //]]>
 </script>
 
-<script src="/StudentRate/ScriptResource.axd?d=-wf6pKf6x0JQDQL7oI0Dl36qf_12FOOE6ElcTnr58LSkd7cGI-fP5vEwNDmg8TS_pASEzglZ_BhQDWyAut_oxs7afB2zVMOy94jAXadrbCMy1xq5AWG-9UzRtO2Mp2nxCyPsiQ2&amp;t=46a80b48" type="text/javascript"></script>
-<script src="/StudentRate/ScriptResource.axd?d=Eu-HigQWVycPX933UNrw0xj-MGYYgzhxdX3Qw7EuBP5jhsuznJR47K38OxMlJMohfe9giuc_RUpHLX1UH3pIBuDCUZ7yQQr1meq-b5HkV1mrMHZRJZns1zmKT0Y76FTIAto53aeYr0ljZ9E5eFynrFHadfI1&amp;t=46a80b48" type="text/javascript"></script>
-<script src="/StudentRate/ScriptResource.axd?d=-2PDtmsx-OTyT4bbo9wWRmypEihUNNapD-JUrv-NxVtTEAMXoKj-YjZz-K7IjXy_c7w1Jv9sOgq_-iKBUTpCCHm4iZNLP5eCjVHIoKT3B7lvSvADfKHhTWkNdGqhTMstS7A-IT3LokvItMD5Wno8HXZplro1&amp;t=46a80b48" type="text/javascript"></script>
-<script src="/StudentRate/ScriptResource.axd?d=s26SEM9lm0UDKF8VIhEy0QJXezsNe1KT2vDsrq4bFmOzlWc6kofxSDIJ1JoUoQXCK1_yvKzvWNJoNBiJkt6jQJKedsgTd7qNYiVEb8Z7V39JTbstvXFRCv5fFgax6-_SE3jguJH0zxOaRHhYikwBKLauk0U1&amp;t=46a80b48" type="text/javascript"></script>
-<script src="/StudentRate/ScriptResource.axd?d=yM-lQj_FAhCe1nEQO2gHBYy_6dH4YjX17trs6le3S76-ZZFlj92WiqR3_IeapbO7h-sbAup_87Jcis0hdzximrGEdTj4xw2opWe82n4ggMW9oOWinz2vcker5hOI4lXUbYrhxssQQQGF5Ce8MFzPkWdlQl9ynjPigj-LybyMasHXQZ8y0&amp;t=46a80b48" type="text/javascript"></script>
-<script src="/StudentRate/ScriptResource.axd?d=Zk13XL5SzDgup6Rul3SaXdHHRsH1dZgBeH6jWrWxhsCCaN5pboCKmVCbdN_Y_P-eFnB4XhYhxCfsVdOq-XWkf5PVimK6MtlsNlAy6dXdBWCmE6ukm3T6r1PzJIA9RWACqSWpjRsCFUl-TwiZCzYkc4EvEgI1&amp;t=46a80b48" type="text/javascript"></script>
-<script src="/StudentRate/ScriptResource.axd?d=ETnwh6sAwdf7Pgb3vIblRrOVqX1NzMt2cKZQa1cth4qU4UkMWCFY7AvcGpzUrzSltSpVcjizSA593v30UNoJtfuCd9L4pZ3CuZhvkNwhvVKIE1wn3CeppKfbI7sWv2aZYiVgRTw6uyj3E2lI1-a1-T-6mG81&amp;t=46a80b48" type="text/javascript"></script>
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWCALghMnwCwLnzMr5CQLo84CFAQKfqpy3DALe8/SEAQLk88yEAQL28+CDAQKisI/AAdgvUyiqn5Q4IkrSYA9uIY2qMxth"> 
+<script src="/ScriptResource.axd?d=-wf6pKf6x0JQDQL7oI0Dl36qf_12FOOE6ElcTnr58LSkd7cGI-fP5vEwNDmg8TS_pASEzglZ_BhQDWyAut_oxs7afB2zVMOy94jAXadrbCMy1xq5AWG-9UzRtO2Mp2nxCyPsiQ2&amp;t=46a80b48" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=Eu-HigQWVycPX933UNrw0xj-MGYYgzhxdX3Qw7EuBP5jhsuznJR47K38OxMlJMohfe9giuc_RUpHLX1UH3pIBuDCUZ7yQQr1meq-b5HkV1mrMHZRJZns1zmKT0Y76FTIAto53aeYr0ljZ9E5eFynrFHadfI1&amp;t=46a80b48" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=-2PDtmsx-OTyT4bbo9wWRmypEihUNNapD-JUrv-NxVtTEAMXoKj-YjZz-K7IjXy_c7w1Jv9sOgq_-iKBUTpCCHm4iZNLP5eCjVHIoKT3B7lvSvADfKHhTWkNdGqhTMstS7A-IT3LokvItMD5Wno8HXZplro1&amp;t=46a80b48" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=s26SEM9lm0UDKF8VIhEy0QJXezsNe1KT2vDsrq4bFmOzlWc6kofxSDIJ1JoUoQXCK1_yvKzvWNJoNBiJkt6jQJKedsgTd7qNYiVEb8Z7V39JTbstvXFRCv5fFgax6-_SE3jguJH0zxOaRHhYikwBKLauk0U1&amp;t=46a80b48" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=yM-lQj_FAhCe1nEQO2gHBYy_6dH4YjX17trs6le3S76-ZZFlj92WiqR3_IeapbO7h-sbAup_87Jcis0hdzximrGEdTj4xw2opWe82n4ggMW9oOWinz2vcker5hOI4lXUbYrhxssQQQGF5Ce8MFzPkWdlQl9ynjPigj-LybyMasHXQZ8y0&amp;t=46a80b48" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=Zk13XL5SzDgup6Rul3SaXdHHRsH1dZgBeH6jWrWxhsCCaN5pboCKmVCbdN_Y_P-eFnB4XhYhxCfsVdOq-XWkf5PVimK6MtlsNlAy6dXdBWCmE6ukm3T6r1PzJIA9RWACqSWpjRsCFUl-TwiZCzYkc4EvEgI1&amp;t=46a80b48" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=ETnwh6sAwdf7Pgb3vIblRrOVqX1NzMt2cKZQa1cth4qU4UkMWCFY7AvcGpzUrzSltSpVcjizSA593v30UNoJtfuCd9L4pZ3CuZhvkNwhvVKIE1wn3CeppKfbI7sWv2aZYiVgRTw6uyj3E2lI1-a1-T-6mG81&amp;t=46a80b48" type="text/javascript"></script>
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWCAKErtCWBgLnzMr5CQLo84CFAQKfqpy3DALe8/SEAQLk88yEAQL28+CDAQKisI/AAeLo36G9+S1Yp4anBJRweWVTTtVh"> 
     
     
 
@@ -384,6 +443,8 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 			<li>
                 <a href="javascript:scroll(0,0);" onclick="ShowRegister();">Log In</a> 
              </li>
+             <li><div class="fb-login-button" style="display: inline" data-scope="email, user_location" "="">Connect</div></li>
+             
                         
          
     </ul>
@@ -393,16 +454,14 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 
 <br>
 			
-					
-				
-			
+	
 			<!-- End Top Bar -->
 
 			<div class="cl">&nbsp;</div>
 
 			<!-- Deals info -->
 			<div class="deals-info">
-				<a class="anum" href="/StudentRate/School/Deals/DealSummary.aspx?school=all&amp;title=Vendors"><p class="num" runat="server" style="cursor:hand;">241</p></a>
+				<a class="anum" href="/School/Deals/DealSummary.aspx?school=all&amp;title=Vendors"><p class="num" runat="server" style="cursor:hand;">249</p></a>
 				<p> <br><strong>Choose your location
 				</strong><a style="text-decoration: underline; color:Black;" href="#" onclick="ShowChangeLocation();return false;">change location</a></p>
 			</div>
@@ -439,15 +498,20 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 
 			
 <ul>
-				<li id="Li1"><a href="../../" id="ctl00_Home_Anchor">home</a></li>
 
-				<li id="b-nationals"><a href="../../all-Deals" id="ctl00_nationalAnchor">deals</a></li>
+                
+				
+               
+               <li id="Li1"><a href="../../" id="ctl00_Home_Anchor">home</a></li>
 
-				<li id="b-locals"><a href="../../School/Deals/DealSummary.aspx?school=all&amp;title=Local_Deals" id="ctl00_localsAnchor">local</a></li>
+                <li id="b-nationals"><a href="../../all-Deals" id="ctl00_nationalAnchor">deals</a></li>
+                <li id="b-locals"><a href="../../all-Local-Deals" id="ctl00_localsAnchor">local</a></li>
 
+				
 				<li id="li-blog"><a href="../../wireless/wireless.aspx" id="ctl00_Blog_Anchor">wireless</a></li>
 
-				<li id="b-studentloans"><a href="../../School/Deals/StudentLoans.aspx" id="ctl00_Money_Anchor">money</a></li>
+                <li id="b-studentloans"><a href="../../Money/Money.aspx" id="ctl00_Money_Anchor">money</a></li>
+
 				<li id="Li2"><a href="../../School/Deals/Textbooks.aspx" id="ctl00_Textbooks_Anchor">textbook</a></li>
 
 				<li id="li-Travel"><a href="../../School/Deals/Travel.aspx" id="ctl00_Travel_Anchor">travel</a></li>
@@ -718,11 +782,11 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 		</div><div id="ctl00_DialogWindow" style="display:none;">
 		<div id="ctl00_DialogWindow_C">
 
-		</div><input id="ctl00_DialogWindow_ClientState" name="ctl00_DialogWindow_ClientState" type="hidden" autocomplete="off">
+		</div><input id="ctl00_DialogWindow_ClientState" name="ctl00_DialogWindow_ClientState" type="hidden">
 	</div><div id="ctl00_CouponWinwod" style="display:none;">
 		<div id="ctl00_CouponWinwod_C">
 
-		</div><input id="ctl00_CouponWinwod_ClientState" name="ctl00_CouponWinwod_ClientState" type="hidden" autocomplete="off">
+		</div><input id="ctl00_CouponWinwod_ClientState" name="ctl00_CouponWinwod_ClientState" type="hidden">
 	</div><input id="ctl00_RadWindowManager1_ClientState" name="ctl00_RadWindowManager1_ClientState" type="hidden">
 </div> 
     <input name="ctl00$accessToken" type="hidden" id="ctl00_accessToken">
