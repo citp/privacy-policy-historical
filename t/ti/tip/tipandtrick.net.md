@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tipandtrick.net privacy policy that was archived on 2012-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121129125011id_/http%3A//www.tipandtrick.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tipandtrick.net privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530202718id_/http%3A//www.tipandtrick.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy « Tip and Trick Tip and Trick
+# Privacy Policy « Tip and Trick
 
 Thanks for visiting Tip and Trick. Your privacy on the Internet is of the utmost importance to us. At Tip and Trick, we want to make your experience online satisfying and safe.
 
@@ -16,7 +16,7 @@ This information allows us to better tailor our content to readers’ needs, ana
 
 Tip and Trick may place a text file called a “cookie” in the browser files of your computer. The cookie itself does not contain Personal Information although it will enable us to relate your use of this site to information that you have specifically and knowingly provided. But the only personal information a cookie can contain is information you supply yourself, such as in Comments form and login information. A cookie can’t read data off your hard disk or read cookie files created by other sites. Tip and Trick also uses cookies to track user traffic patterns, sometimes via third party tracker (as described above). 
 
-Beside, our advertising delivery business partners use cookies to better track ad impressions and click rates. However, we have no access to or control over these cookies, once we have given permission for them to set cookies for advertising. These cookies, normally added by ads, and information collected is by outside advertising companies, and we do not have access to this information. We work with the advertising develiery companies such as Google AdSense, Chitika, Tirbal Fusion, etc and other technology partners such as StatCounter. Please check their websites for respective privacy policies. 
+Beside, our advertising delivery business partners use cookies to better track ad impressions and click rates. However, we have no access to or control over these cookies, once we have given permission for them to set cookies for advertising. These cookies, normally added by ads, and information collected is by outside advertising companies, and we do not have access to this information. We work with the advertising delivery companies such as Google AdSense, Chitika, Tribal Fusion, ValueClick, Kontera, etc and other technology partners such as StatCounter and Piwik. Please check their websites for respective privacy policies. 
 
 You can refuse cookies by turning them off in your browser. If you’ve set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You do not need to have cookies turned on to use this site. However, you do need cookies to participate actively in message boards, forums, polling and surveys.
 
@@ -26,7 +26,7 @@ Consistent with the Federal Children’s Online Privacy Protection Act of 1998 (
 
 **Electronic Newsletters (Dispatches or Update Subscribes)**
 
-Tip and Trick offers a free electronic newsletter to users through FeedBurner service. FeedBurner gathers the email addresses of users who voluntarily subscribe, which Tip and Trick also has acccess to. Tip and Trick will never shares newsletter mailing list with any third parties, including advertisers, sponsors or partners. These email addresses collected are solely meant for newsletter delivery. For Privacy Policy of FeedBurner, check out their website. Users may remove themselves from this mailing list by following the link provided in every newsletter that points users to the subscription management page. Users can also subscribe to the newsletters any time on this site.
+Tip and Trick offers a free electronic newsletter to users through FeedBurner and RevResponse. FeedBurner and RevResponse gathers the email addresses of users who voluntarily subscribe, which Tip and Trick also has access to. Tip and Trick will never shares newsletter mailing list with any third parties, including advertisers, sponsors or partners. These email addresses collected are solely meant for newsletter delivery. For Privacy Policy of FeedBurner and RevReponse, check out their website. Users may remove themselves from this mailing list by following the link provided in every newsletter that points users to the subscription management page. Users can also subscribe to the newsletters any time on this site.
 
 **Message Boards (Forums)**
 
