@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the buzztouch.com privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022194854id_/https%3A//www.buzztouch.com/pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzztouch.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530094305id_/http%3A//www.buzztouch.com/pages/privacy.php) for the most accurate reproduction.*
 
-# buzztouch | Free iPhone and Android App Builder and Content Management System
+# Buzztouch Privacy Policy | FREE iOS and Android App Maker
 
-## buzztouch Privacy Policy
+## Buzztouch Privacy Policy
 
 * * *
 
@@ -10,7 +10,7 @@
 
 **Introduction**
 
-buzztouch takes your right to privacy seriously, and wants you to feel comfortable using this internet based (web-based) application. This privacy policy deals with personally-identifiable information (referred to as "data" below) that may be collected by this site. This policy does not apply to other entities that are not owned or controlled by the application editor, nor to persons that are not employees or agents of the application editor, or that are not under the application editor's control. 
+Buzztouch takes your right to privacy seriously, and wants you to feel comfortable using this internet based (web-based) application. This privacy policy deals with personally-identifiable information (referred to as "data" below) that may be collected by this site. This policy does not apply to other entities that are not owned or controlled by the application editor, nor to persons that are not employees or agents of the application editor, or that are not under the application editor's control. 
 
 **1\. Collection of data**
 
@@ -38,8 +38,8 @@ Changes may be made to this policy from time to time. You will be notified of su
 
 **7\. NO GUARANTEES**
 
-While this privacy policy states standards for maintenance of data, and while efforts will be made to meet the said standards, buzztouch is not in a position to guarantee compliance with these standards. There may be factors beyond buzztouch's control that may result in disclosure of data. Consequently, buzztouch offers no warranties or representations as regards maintenance or nondisclosure of data. 
+While this privacy policy states standards for maintenance of data, and while efforts will be made to meet the said standards, Buzztouch is not in a position to guarantee compliance with these standards. There may be factors beyond Buzztouch's control that may result in disclosure of data. Consequently, Buzztouch offers no warranties or representations as regards maintenance or nondisclosure of data. 
 
 **8\. Contact information**
 
-If you have any questions about this policy or this web based application, please feel free to contact us in writing at: buzztouch, 801 Lighthouse Ave Ste. 207, Monterey, CA 93940. You can also contact us by sending an electronic message (e-email) to: info@buzztouch.com 
+If you have any questions about this policy or this web based application, please feel free to contact us in writing at: Buzztouch, 801 Lighthouse Ave Ste. 207, Monterey, CA 93940. You can also contact us by sending an electronic message (e-email) to: info@buzztouch.com 
