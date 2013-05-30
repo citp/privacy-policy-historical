@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the designdeck.co.uk privacy policy that was archived on 2012-09-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120920031807id_/http%3A//www.designdeck.co.uk/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the designdeck.co.uk privacy policy that was archived on 2013-05-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130530043003id_/http%3A//www.designdeck.co.uk/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <link rel="apple-touch-icon" href="iphone-icon.png">
@@ -14,7 +14,7 @@
 <meta name="robots" content="index, follow">  
 <meta name="distribution" content="global"> 
 <meta name="rating" content="general">
-<meta name="copyright" content="2012, design deck">
+<meta name="copyright" content="2013, design deck">
 <meta name="expires" content="never">  
 <meta name="Content-Language" content="english">
 
@@ -31,7 +31,7 @@
 
 <!-- design deck scripts -->
 
-<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="scripts/rotate_fade/jquery.js" type="text/javascript"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script src="scripts/rotate_fade/jquery.js" type="text/javascript"></script>
 <script src="scripts/site.js" type="text/javascript"></script>
 
 
@@ -47,14 +47,52 @@
 <body>
 
 
-<div class="header">
-<div class="header_inner">
-<div class="logo" style="opacity: 1;"><a href="/"><img src="http://www.designdeck.co.uk/images/body/logo.png" width="195" height="35" border="0"></a></div>
-<div class="navigation">
 
-<ul id="nav">
+
+
+
+
+
+
+<script type="text/javascript">
+$(document).ready(function() {
+
+$('#search_navigation_link').click(function() {
+$('.search_field_outer').fadeIn(200);
+$('.dd_header_search_field').focus();
+});
+
+$('.close_search').click(function() {
+$('.search_field_outer').fadeOut(200);
+});
+
+
+
+
+});
+</script>
+
+<div class="dd_header_outer">
+<div class="dd_header_inner">
+
+<a href="/" class="dd_updated_logo"></a>
+<div class="navigation_wrapper">
+
+
+<div class="search_field_outer">
+<form id="form" name="form" method="get" action="http://www.designdeck.co.uk/s">
+
+
+<input name="s" id="s new" type="text" class="dd_header_search_field" placeholder="Search" required="required">
+<input type="image" src="http://designdeck.co.uk/images/icons/header_search_icon.png" class="dd_header_search_icon">
+
+</form>
+
+<a href="javascript:;" class="close_search">x</a></div>
+
+<ul id="dd_nav_update">
 <li><a href="http://www.designdeck.co.uk/">Home</a></li>
-<li><a href="http://www.designdeck.co.uk/search">Search</a></li>
+<li><a href="javascript:;" id="search_navigation_link">Search</a></li>
 <li><a href="http://www.designdeck.co.uk/s">Categories</a>
 
 <ul>
@@ -67,16 +105,13 @@
 
 </ul>
 </li>
-
-<li><a href="http://www.designdeck.co.uk/links/">Links</a></li>
 <li><a href="http://www.designdeck.co.uk/new">New</a></li>
+
+<li><a href="http://www.designdeck.co.uk/premium/" class="premium_link">Premium</a></li>
 </ul>
 
-
 </div>
 </div>
-
-
 </div>
 <div class="outer">
   <div class="left_column_wrapper">
@@ -120,45 +155,50 @@ We are committed to ensuring that your information is secure. In order to preven
 <!-- End BuySellAds Zone Code -->
 
 
-
 </div>
-<div class="right_column_footer"></div>
+<div class="inner_underline clear"></div>
 
 
-<div class="right_column_header"></div>
 <div class="right_column_dup">
 
 <div class="social_icons">
 
 <ul>
-<li style="opacity: 1;"><a title="Subscribe to our Newsletter" href="http://www.designdeck.co.uk/newsletter_signup"><img src="http://www.designdeck.co.uk/images/icons/social/mail.png" width="42" height="42" border="0"></a></li>
-<li style="opacity: 1;"><a title="Subscribe to our RSS Feed!" href="http://designdeck.co.uk/feed/"><img src="http://www.designdeck.co.uk/images/icons/social/rss.png" width="42" height="42" border="0"></a></li>
-<li style="opacity: 1;"><a title="Follow us on twitter" href="http://twitter.com/designdeck"><img src="http://www.designdeck.co.uk/images/icons/social/twitter-alt.png" width="42" height="42" border="0"></a></li>
-<li style="opacity: 1;"><a title="Follow us on Dribbble" href="http://dribbble.com/JamiePeak"><img src="http://www.designdeck.co.uk/images/icons/social/dribbble.png" width="42" height="42" border="0"></a></li>
-<li style="opacity: 1;"><a title="Find us on Facebook" href="http://www.facebook.com/designdeck"><img src="http://www.designdeck.co.uk/images/icons/social/facebook.png" width="42" height="42" border="0"></a></li>
+<li style="opacity: 1;"><a title="Subscribe to our RSS Feed!" href="http://designdeck.co.uk/feed/" class="feed_social_icon"></a></li>
+<li style="opacity: 1;"><a title="Follow us on twitter" href="http://twitter.com/designdeck" class="twitter_social_icon"></a></li>
+<li style="opacity: 1;"><a title="Follow us on Dribbble" href="http://dribbble.com/JamiePeak" class="dribbble_social_icon"></a></li>
+<li style="opacity: 1;"><a title="Find us on Facebook" href="http://www.facebook.com/designdeck" class="facebook_social_icon"></a></li>
 </ul>
 
 </div>
 
-<div class="inner_underline"></div>
-<div class="add_space_right_column">
+<div class="inner_underline clear"></div>
 
-<div class="right_column_add_space_top">
+<div class="premium_items_right_column">
+<div class="right_column_fixed_prem_title">Premium files</div>
+<div class="inner_underline clear"></div>
 
+<div class="prem_right_column_item">
 
+<div class="prem_item_image"><a href="http://crtv.mk/gAlb"><img src="http://designdeck.co.uk/images/sp/prem_flat_social_icons.png" width="260" height="125" title="Premium Flat Social Icon Set"></a></div>
+<div class="prem_item_title"><a href="http://crtv.mk/gAlb"><strong>Premium</strong> Flat Social Icon Set</a></div>
 
-<a href="http://www.screencastsonline.com/?ref=designdeck" title="ScreenCastsONLINE - Video Tutorials For Your Mac, iPad and iPhone" style="margin-left:5px;"><img src="http://www.designdeck.co.uk/images/sp/sco_addspace.png" width="260" height="125"></a>
-
-
-
-<!-- BuySellAds.com Zone Code -->
-<div id="bsap_1254525" class="bsarocks bsap_dc168f013826f554ce084ed9b32a8f01"></div>
-<!-- End BuySellAds.com Zone Code -->
 </div>
-<div class="clear"></div>
 
+<div class="inner_underline clear"></div>
 
-<div class="right_column_add_space_mid">
+<div class="prem_right_column_item">
+
+<div class="prem_item_image"><a href="http://graphicriver.net/item/premium-clean-ui-kit-4-colors/4211210?ref=JamiePeak"><img src="http://designdeck.co.uk/images/sp/premium_ui_kit.png" width="260" height="125" title="Premium Clean UI Kit"></a></div>
+<div class="prem_item_title"><a href="http://graphicriver.net/item/premium-clean-ui-kit-4-colors/4211210?ref=JamiePeak"><strong>Premium</strong> Clean UI Kit</a></div>
+
+</div>
+
+</div>
+
+<div class="inner_underline clear"></div>
+
+<div class="lower_right_column_add_space">
 
 <!-- BuySellAds.com Zone Code -->
 <div id="bsap_1249447" class="bsarocks bsap_dc168f013826f554ce084ed9b32a8f01"></div>
@@ -166,94 +206,18 @@ We are committed to ensuring that your information is secure. In order to preven
 
 </div>
 
-</div>
-<div class="inner_underline clear"></div>
-
-
-<div class="right_column_navigation_abs_title">New</div>
-
-
-<ul id="right_column_navigation">
-
-	
-
-<li>
-<div class="item_outer">
-<div class="title"><a href="http://www.designdeck.co.uk/a/1282">Go Social Icon Set</a></div>
-<div class="date">12th September 2012</div>
-</div>
-
-<div class="view_button"><a href="http://www.designdeck.co.uk/a/1282" class="grey_button"><span>View</span></a></div>
-</li>
-
-
-	
-
-<li>
-<div class="item_outer">
-<div class="title"><a href="http://www.designdeck.co.uk/a/1281">New Twitter Icon 2012 (PSD)</a></div>
-<div class="date">1st July 2012</div>
-</div>
-
-<div class="view_button"><a href="http://www.designdeck.co.uk/a/1281" class="grey_button"><span>View</span></a></div>
-</li>
-
-
-	
-
-<li>
-<div class="item_outer">
-<div class="title"><a href="http://www.designdeck.co.uk/a/1280">Black &amp; White Navigation Set (PSD)</a></div>
-<div class="date">23rd June 2012</div>
-</div>
-
-<div class="view_button"><a href="http://www.designdeck.co.uk/a/1280" class="grey_button"><span>View</span></a></div>
-</li>
-
-
-	
-
-<li>
-<div class="item_outer">
-<div class="title"><a href="http://www.designdeck.co.uk/a/1279">Pix Social Icon Set</a></div>
-<div class="date">18th June 2012</div>
-</div>
-
-<div class="view_button"><a href="http://www.designdeck.co.uk/a/1279" class="grey_button"><span>View</span></a></div>
-</li>
-
-
-
-</ul>
 <div class="clear"></div>
 
 </div>
+
 <div class="right_column_footer"></div>
 
 
 
 
-<div class="right_column_header"></div>
-<div class="right_column_dup lower_rc_addspace">
 
 
-<!-- BuySellAds.com Zone Code -->
-<div id="bsap_1272801" class="bsarocks bsap_dc168f013826f554ce084ed9b32a8f01"></div>
-<!-- End BuySellAds.com Zone Code -->
 
-
-</div>
-<div class="right_column_footer"></div>
-<div class="right_column_header"></div>
-<div class="right_column_dup">
-<div class="facebook_like">
-
-
-<div class="fb-like-box" data-href="http://www.facebook.com/designdeck" data-width="292" data-show-faces="false" data-stream="false" data-header="false"></div>
-
-</div>
-</div>
-<div class="right_column_footer"></div>
 
 
 
@@ -266,26 +230,16 @@ We are committed to ensuring that your information is secure. In order to preven
 
 <div class="footer_inner">
 
-<div class="footer_logo"></div>
 <div class="footer_links">
+<a href="http://www.designdeck.co.uk/privacy_policy">Privacy policy</a>
+<a href="http://www.designdeck.co.uk/termsofuse">Terms of use</a>
+<a href="http://www.designdeck.co.uk/contact">Contact us</a>
+<a href="http://www.designdeck.co.uk/advertise">Advertise</a>
 
-<ul>
-<li><a href="http://www.designdeck.co.uk/privacy_policy">Privacy policy</a></li>
-<li><a href="http://www.designdeck.co.uk/termsofuse">Terms of use</a></li>
-<li><a href="http://www.designdeck.co.uk/contact">Contact us</a></li>
-<li><a href="http://www.designdeck.co.uk/advertise">Advertise</a></li>
-</ul>
 
-<ul class="social"> 
-
-<li><a title="Subscribe to our RSS Feed!" href="http://designdeck.co.uk/feed/" class="rss">Rss</a></li>
-<li><a title="Follow us on twitter" href="http://twitter.com/designdeck" class="twitter">Twitter</a></li>
-<li><a title="Follow us on Dribbble" href="http://dribbble.com/JamiePeak" class="dribbble">Dribbble</a></li>
-<li><a title="Find us on Facebook" href="http://www.facebook.com/designdeck" class="facebook">Facebook</a></li>     
-</ul>
-
-<div class="copyright">© 2012</div>
-
+<div class="copyright">© 2013</div>
+<div class="footer_follow_button"><a href="https://twitter.com/designdeck" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false">Follow @designdeck</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></div>
 </div>
 
 </div>
@@ -320,25 +274,15 @@ bsa.src = '//s3.buysellads.com/ac/bsa.js';
 <!-- END BuySellAds.com Ad Code -->
 
 
-<!--  Facebook Like Code -->
 
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
+
+
+
+<!--<div class="fixed_addspace"><div class="fixed_addspace_inner"><a href="http://suppo.co/?ref=designdeck" title="Create, Customize & Host Your iOS App Support Page at Suppo" target="_blank"><img src="http://designdeck.co.uk/images/sp/suppo_990x60.png" width="990" height="60" /></a></div></div>-->
+
+
+
 </div>
-<!-- END Facebook Like Code -->
-
-
-<div class="fixed_addspace"><div class="fixed_addspace_inner"><a href="http://codepad.co/?ref=designdeck" title="Code Pad" target="_blank"><img src="http://designdeck.co.uk/images/sp/codepad_990x60.png" width="990" height="60"></a></div></div>
-
-
-
-
 
 
 </body></html>
