@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the lexblog.com privacy policy that was archived on 2012-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121216205251id_/http%3A//www.lexblog.com/legal/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lexblog.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530035139id_/http%3A//www.lexblog.com/legal/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy : LexBlog
 
-LexBlog, Inc. values the privacy of our customers, vendors, suppliers and any individuals with whom we do business. Any of the following personal information that may be made available to LexBlog when browsing or navigating our Web site shall be kept confidential: 
+LexBlog, Inc. values the privacy of our customers, vendors, suppliers and any individuals with whom we do business. Any of the following personal information that may be made available to LexBlog when browsing or navigating our Web site shall be kept confidential:
 
   * First and last name
   * Company, home, postal or other physical address Other contact information, for example, telephone number, fax number, email address, and other similar information
