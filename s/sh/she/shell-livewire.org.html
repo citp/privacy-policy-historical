@@ -1,18 +1,20 @@
-<!--The following is the downloaded HTML source of the shell-livewire.org privacy policy that was archived on 2012-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120607001931id_/http%3A//www.shell-livewire.org/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the shell-livewire.org privacy policy that was archived on 2013-05-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130530145050id_/http%3A//shell-livewire.org/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html lang="en-gb"><head>
 <title>Home - Privacy Policy</title>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta name="keywords" content="">
 <meta name="description" content="">
+<meta property="fb:app_id" content="ShellLiveWIREUK_Comments">
+<meta property="fb:admins" content="ShellLiveWIREUK">
 <link rel="icon" href="/favicon.ico" type="image/x-icon"> 
 <link rel="shortcut icon" href="/shell-livewire.gif">
 <meta name="msvalidate.01" content="0B87DB9E46ADE4D44651B407E5B306E1">
 <link href="http://www.shell-livewire.org/news.xml" rel="alternate" type="application/rss+xml" title="Shell LiveWIRE News">
 
 <link rel="stylesheet" href="/styles/reset-fonts.css" type="text/css">
-<link rel="stylesheet" href="/styles/default.1.css?1338195679" type="text/css">
+<link rel="stylesheet" href="/styles/default.1.css?1365682848" type="text/css">
         <!--[if lt IE 7]><link rel="stylesheet" type="text/css" href="/styles/ie6.css" /><![endif]-->
     <!--[if IE 7]><link rel="stylesheet" type="text/css" href="/styles/ie7.css" /><![endif]-->
     <script type="text/javascript" src="/javascript/swfobject.js"></script>
@@ -26,7 +28,7 @@
         <script type="text/javascript" src="/javascript/jquery.cycle.all.min.js"></script>
         <script type="text/javascript" src="/javascript/jquery.flow.1.2.min.js"></script>
     <script type="text/javascript" src="/javascript/pause.js"></script>
-    <script type="text/javascript" src="/javascript/functions.1.js?1338195650"></script>
+    <script type="text/javascript" src="/javascript/functions.1.js?1339596625"></script>
     <script type="text/javascript" src="/javascript/iepngfix_tilebg.js"></script>
 
     <script type="text/javascript">                                         
@@ -34,7 +36,71 @@
     
 </head>
 <body>
-	<div id="layout">
+		
+<style>
+.cookiebar {
+
+  font-size: 12px;
+  left: 0;
+  margin: 0;
+  padding: 0;
+  position: fixed;
+  right: 0;
+  top: 0;
+}
+
+.cookiebar * {
+  font-size: 1em;
+}
+
+.cookiebar .msg {
+  background: #ffd12c; 
+  border-bottom: 1px solid #444444;
+  box-shadow: 0 0 10px #000000;
+  padding: 10px 20px 10px 42px;
+  position: relative;
+  z-index: 900000;
+  font-weight:bold;
+}
+
+.cookiebar #cookiebut {
+  background: url("/images/close_cookie.png") no-repeat scroll left top transparent;
+  cursor: pointer;
+  display: block;
+  height: 17px;
+  text-indent: 100%;
+  white-space: nowrap;
+  width:14px;
+  float:right;
+  margin-top:-16px!ie;
+}
+.cookiebar .msg P{
+  margin:0 auto; width:912px;
+  text-align:left;
+  font-family: Arial,Helvetica,Sans-Serif!important;
+  font-weight:bold;
+  line-height:15px!important;
+}
+</style>
+<script>
+$(document).ready(function() 
+{
+	if( $("#cookiebut").length )
+	{
+		$("#cookiebut").bind('click',function(){
+			Set_Cookie("cookiebut", "2", 30, "/", "", "");
+			$('.cookiebar').slideUp();																		
+		})
+	}
+});
+</script>
+
+<div class="cookiebar">
+  <div class="msg">
+    <p>This site uses cookies. By continuing to browse the site you are agreeing to our use of cookies. <a href="/about-cookies" title="Find out more here" style="text-decoration:underline">Find out more here</a>.&nbsp;<a href="javascript:;" id="cookiebut">X</a></p>
+  </div>
+</div>
+  	<div id="layout">
 		<div id="page_header">
     	<a href="/" id="header_logo" title="Link to Shell LiveWIRE's Homepage"></a>
     	<div id="header_right">
@@ -53,7 +119,7 @@
               <input type="submit" name="continue" value="Go" class="link_button_dark_submit_text link_button_dark_submit_text_small">
               <div class="link_button_dark_right"></div>
             </div>
-            <input type="text" id="search_bar_keywords" name="keywords" value="">
+            <input type="text" id="search_bar_keywords" name="keywords" value="" accept="Search" style="color: rgb(192, 192, 192);">
             <a href="#" id="increase_font_size" title="increase font size" onclick="fontSizer('big');"></a>
             <div id="search_bar_resize_font"></div>
             <a href="#" id="decrease_font_size" title="decrease font size" onclick="fontSizer('mid');"></a>
@@ -64,13 +130,14 @@
                 <ul>
           <li><a href="/" id="header_menu_bar_first">Home</a></li>
                     <li><a href="/news/">News</a></li>
-                    <li><a href="/my-business-kit/">My Business Kit</a></li>
+                    <li><a href="/events/">Events</a></li>
                     <li><a href="/awards/">Awards</a></li>
                     <li><a href="/business-library/">Business Library</a></li>
-                    <li><a href="/forums/">Discussion Forum</a></li>
-                    <li><a href="/network/">Social Network</a></li>
-                    <li><a href="/video-lounge/">Video Lounge</a></li>
+                    <li><a href="/forums/">Forum</a></li>
+                    <li><a href="/video-lounge/">Videos</a></li>
                     <li><a href="/alumni/">Alumni</a></li>
+                    <li><a href="/my-business-kit/">My Business Kit</a></li>
+                    <li><a href="/our-partners/">Partners</a></li>
                    </ul>
                 <div class="clear_floats"></div>
        </div>
@@ -158,16 +225,172 @@ You can erase or block this information by changing the settings on your compute
 			</div>
                          
 
-<div class="narrow_content_box" id="find">
+<div class="narrow_content_box" id="login">
  <div class="narrow_content_box_header">
-  <label><span class="narrow_content_box_visibility" title="open / close">&nbsp;</span> Can't Find </label>
-  <span class="helpicon"><img src="/images/layout/body/help.png" alt="help" id="help_find"></span>
+  <label><span class="narrow_content_box_visibility" title="open / close">&nbsp;</span> Login </label>
+  <span class="helpicon"><img src="/images/layout/body/help.png" alt="help" id="help_login"></span>
  </div>
  <div class="narrow_content_box_body">
-  <div class="widget_container"><div class="widget_padding">
-If you can't find what you're looking for, or would like to suggest new content for the site please click on the link below.<br><br>
-<a href="/contact/" class="widget_more">Contact Shell LiveWIRE &gt;</a>
+  <div class="widget_container">
+<form action="/login/" method="post">
+  <input type="hidden" name="action" value="login">
+  <label for="widget_login_username_field" id="widget_login_username_label">Email</label>
+  <label for="widget_login_password_field" id="widget_login_password_label">Password</label>
+  <div id="widget_login_username_container">
+    <input type="text" name="login_username" id="widget_login_username_field" value="">
+  </div>
+  <div id="widget_login_password_container">
+    <input type="password" name="login_password" id="widget_login_password_field" value="">
+  </div>
+  <div id="widget_login_submit_container">
+    <div class="link_button_dark_submit no_wrap">
+      <div class="link_button_dark_left"></div>
+      <input type="submit" name="continue" value="Go" class="link_button_dark_submit_text link_button_dark_submit_text_small">
+      <div class="link_button_dark_right"></div>
+    </div>
+  </div>
+</form>
+<div id="widget_login_link">Click here to <a href="/register/">Register &gt;</a></div>
+
+
+   <div class="clear_floats"></div>
+  </div>
+ </div>
 </div>
+             
+
+<div class="narrow_content_box" id="news">
+ <div class="narrow_content_box_header">
+  <label><span class="narrow_content_box_visibility" title="open / close">&nbsp;</span> Latest News </label>
+  <span class="helpicon"><img src="/images/layout/body/help.png" alt="help" id="help_news"></span>
+ </div>
+ <div class="narrow_content_box_body">
+  <div class="widget_container">
+<div id="widgetNewsController" style="display: none;">
+    <span class="jFlowControl jFlowSelected">1</span>
+     <span class="jFlowControl">1</span>
+     <span class="jFlowControl">1</span>
+     <span class="jFlowControl">1</span>
+     <span class="jFlowControl">1</span>
+   </div>
+
+<div id="jFlowSlide1" style="position: relative; width: 99%; height: 85px; overflow: hidden;"><div id="widgetNewsSlides" style="position: relative; width: 1375px; height: 85px; overflow: hidden; margin-left: 0px;">
+   <div class="jFlowSlideContainer" style="position: relative; width: 275px; height: 85px; float: left; overflow: auto;"><div>
+   <div class="jFlowSlideContainer"><div class="widget_panel_image">
+    <a href="/news/the-pitch-2013/">
+	
+			<img src="/images/layout/body/blank.gif" style="background-image: url(/store/1369407705.261LID0.jpg); background-position: center center;" title="The Pitch 2013 194x129" alt="The Pitch 2013 194x129">
+		
+	</a>
+   </div></div>
+   <div class="jFlowSlideContainer"><div class="widget_panel_details">
+    <a href="/news/the-pitch-2013/"><strong>The Pitch 2013 returns with thousands to invest in startups!</strong></a>
+    <p>The Pitch, one of the UK’s longest running small business competitions, has returned for 2013 with thousands of pounds for innovative startups.</p>
+   </div></div>
+  </div></div>
+   <div class="jFlowSlideContainer" style="position: relative; width: 275px; height: 85px; float: left; overflow: auto;"><div>
+   <div class="jFlowSlideContainer"><div class="widget_panel_image">
+    <a href="/news/guest-web-design/">
+	
+			<img src="/images/layout/body/blank.gif" style="background-image: url(/store/1369217026.271LID0.jpg); background-position: center center;" title="Web Design Image 194x129" alt="Web Design Image 194x129">
+		
+	</a>
+   </div></div>
+   <div class="jFlowSlideContainer"><div class="widget_panel_details">
+    <a href="/news/guest-web-design/"><strong>Guest Article: Maximise professional web design to elevate your business</strong></a>
+    <p>As a young entrepreneur with an exciting, forward-thinking business, planning your on-line presence and determining how you can maximise its effectiveness is essential. </p>
+   </div></div>
+  </div></div>
+   <div class="jFlowSlideContainer" style="position: relative; width: 275px; height: 85px; float: left; overflow: auto;"><div>
+   <div class="jFlowSlideContainer"><div class="widget_panel_image">
+    <a href="/news/1369139333.873/">
+	
+			<img src="/images/layout/body/blank.gif" style="background-image: url(/store/1244802545.899LID0.jpg); background-position: center center;" title="Shell LiveWIRE Sparkle" alt="Shell LiveWIRE Sparkle">
+		
+	</a>
+   </div></div>
+   <div class="jFlowSlideContainer"><div class="widget_panel_details">
+    <a href="/news/1369139333.873/"><strong>Book your place now for ACCELERATE 2013</strong></a>
+    <p>On 27 June, entrepreneurs and aspiring business leaders will attend a unique festival of speeches, debates and workshops that will unleash their business potential.</p>
+   </div></div>
+  </div></div>
+   <div class="jFlowSlideContainer" style="position: relative; width: 275px; height: 85px; float: left; overflow: auto;"><div>
+   <div class="jFlowSlideContainer"><div class="widget_panel_image">
+    <a href="/news/1368794559.049/">
+	
+			<img src="/images/layout/body/blank.gif" style="background-image: url(/store/1244802545.899LID0.jpg); background-position: center center;" title="Shell LiveWIRE Sparkle" alt="Shell LiveWIRE Sparkle">
+		
+	</a>
+   </div></div>
+   <div class="jFlowSlideContainer"><div class="widget_panel_details">
+    <a href="/news/1368794559.049/"><strong>Liverpool to host ACCELERATE 2013</strong></a>
+    <p>On Thursday, 27 June 2013, Liverpool will host ACCELERATE 2013, Britain’s first annual festival dedicated to high-growth businesses. The day will see 1,000 delegates descend on Liverpool’s Arena and Convention Centre (ACC) for a two-session conference like no other.</p>
+   </div></div>
+  </div></div>
+   <div class="jFlowSlideContainer" style="position: relative; width: 275px; height: 85px; float: left; overflow: auto;"><div>
+   <div class="jFlowSlideContainer"><div class="widget_panel_image">
+    <a href="/news/guest-apps-entrepreneurs/">
+	
+			<img src="/images/layout/body/blank.gif" style="background-image: url(/store/1368113806.505LID0.jpg); background-position: center center;" title="Apps 194x129" alt="Apps 194x129">
+		
+	</a>
+   </div></div>
+   <div class="jFlowSlideContainer"><div class="widget_panel_details">
+    <a href="/news/guest-apps-entrepreneurs/"><strong>Guest Article: The Best Apps for Entrepreneurs</strong></a>
+    <p>You're going to be devoting a lot of time and energy to a startup business and building it into a successful venture, so it's really important that you have some guidance on how to get started. </p>
+   </div></div>
+  </div></div>
+ </div></div>
+<div class="widgetControls">
+ <span class="widgetNewsNext" title="next"></span>
+ <span class="widgetNewsPrev" title="previous"></span>
+</div>
+
+   <div class="clear_floats"></div>
+  </div>
+ </div>
+</div>
+             
+
+<div class="narrow_content_box" id="twitter">
+ <div class="narrow_content_box_header">
+  <label><span class="narrow_content_box_visibility" title="open / close">&nbsp;</span> Latest from Twitter </label>
+  <span class="helpicon"><img src="/images/layout/body/help.png" alt="help" id="help_twitter"></span>
+ </div>
+ <div class="narrow_content_box_body">
+  <div class="widget_container">
+<script src="http://widgets.twimg.com/j/2/widget.js"></script>
+<script>
+new TWTR.Widget({
+  version: 2,
+  type: 'profile',
+  rpp: 4,
+  interval: 6000,
+  width: 278,
+  height: 300,
+  theme: {
+		shell: { 
+		background: '#909090', 
+		color: '#ffffff' 
+		}, 
+		tweets: { 
+		background: '#ffffff', 
+		color: '#646465', 
+		links: '#ec2932' 
+		} 
+  },
+  features: {
+    scrollbar: false,
+    loop: false,
+    live: false,
+    hashtags: true,
+    timestamp: true,
+    avatars: false,
+    behavior: 'all'
+  }
+}).render().setUser('shelllivewireuk').start();
+</script>
+
    <div class="clear_floats"></div>
   </div>
  </div>
@@ -186,17 +409,7 @@ If you can't find what you're looking for, or would like to suggest new content 
      
    
     </div>
-         <div id="footer_adverts" style="display: block;">
-  <div id="footer_adverts_container">
-       <div class="footer_advert_item"><a href="http://www.shell-livewire.org/network/"><img src="/store/1337270511.846LID0.jpg" alt="Promote yourself on the Shell LiveWIRE Social Network" title="Promote yourself on the Shell LiveWIRE Social Network"></a></div>
-       <div class="footer_advert_item"><a href="http://www.facebook.com/ShellLiveWIREUK"><img src="/store/1337262967.511LID0.jpg" alt="'Like' Shell LiveWIRE on Facebook" title="'Like' Shell LiveWIRE on Facebook"></a></div>
-       <div class="footer_advert_item"><a href="http://twitter.com/ShellLiveWIREUK"><img src="/store/1337263370.910LID0.jpg" alt="Follow us on Twitter @ShellLiveWIREUK" title="Follow us on Twitter @ShellLiveWIREUK"></a></div>
-       <div class="footer_advert_item"><a href="http://www.youtube.com/ShellLiveWIREUK"><img src="/store/1337263920.224LID0.jpg" alt="Watch our videos on the Shell LiveWIRE YouTube Channel" title="Watch our videos on the Shell LiveWIRE YouTube Channel"></a></div>
-      <div class="clear_floats"></div>
-  </div>
-  <div class="clear_floats"></div>
- </div>
-    <div id="footer_body">
+            <div id="footer_body">
      <div id="footer_content">
       <h4><strong>Shell LiveWIRE UK</strong> / Community</h4>
       <ul id="footer_panels">
@@ -204,26 +417,30 @@ If you can't find what you're looking for, or would like to suggest new content 
         <h5><a href="/network/">Social Network</a></h5>
         <ul>
          <li>
-          Members : 193332 members
+          Members : 228201 members
          </li>
         <li>
-          Friends : 7315 friends
+          Friends : 7425 friends
          </li>
          <li>
-          Comments : 2154 comments
+          Comments : 2595 comments
          </li>
         </ul>
        </li>
        <li class="footer_panel" id="footer_panel2">
-        <h5><a href="/forums/showthread.php?threadid=28378#post168400">Discussion Forum Posts</a></h5>
+        <h5><a href="/forums/showthread.php?threadid=32561#post187849">Discussion Forum Posts</a></h5>
         <ul>
          		 <li>
-          <a href="/forums/showthread.php?threadid=28378#post168400">The EU Cookie Law - three steps you MUST take</a> / <a href="/forums/showthread.php?threadid=28378#post168400">Jun. 6, 2012 10:09 PM</a>
-          <p class="footer-text">A lot of Government websites don't even have a policy in place.  Why do we put up with this EU ****?... <a href="/forums/showthread.php?threadid=28378#post168400">more&gt;</a></p>
+          <a href="/forums/showthread.php?threadid=32561#post187849">Wordpress Web Help</a> / <a href="/forums/showthread.php?threadid=32561#post187849">May. 30, 2013 1:16 PM</a>
+          <p class="footer-text">Heres the free Ebook. I used to sell it on Ebay, but they no longer allow digital products.
+
+Click here to do... <a href="/forums/showthread.php?threadid=32561#post187849">more&gt;</a></p>
          </li>
          		 <li>
-          <a href="/forums/showthread.php?threadid=28385#post168397">April 2012 Shell LiveWIRE Grand Ideas Awards winners announced!</a> / <a href="/forums/showthread.php?threadid=28385#post168397">Jun. 6, 2012 2:36 PM</a>
-          <p class="footer-text">The following four young entrepreneurs won £1,000 each for their new business through our monthly ... <a href="/forums/showthread.php?threadid=28385#post168397">more&gt;</a></p>
+          <a href="/forums/showthread.php?threadid=32571#post187848">Help, Tips and advice</a> / <a href="/forums/showthread.php?threadid=32571#post187848">May. 30, 2013 1:01 PM</a>
+          <p class="footer-text">Hello, 
+
+I'm looking to find where I can source wholesale authentic brands such as Polo Ralph Lauren, Tommy Hillfiger, Lacoste, Nike, Adidas, Hugo B... <a href="/forums/showthread.php?threadid=32571#post187848">more&gt;</a></p>
          </li>
                  </ul>
        </li>
@@ -234,17 +451,10 @@ If you can't find what you're looking for, or would like to suggest new content 
                  </ul>
        </li>
        <li class="footer_panel" id="footer_panel4">
-        <h5><a href="http://www.lion.co.uk">Member of the Month</a></h5>
-        		<ul>
-         <li id="footer_motm_thumb">
-          <a href="http://www.lion.co.uk"><img src="/store/1312291829.639LID0.jpg" title="amac" alt="amac" width="58"></a>
-         </li>
-         <li id="footer_motm_text">
-          <a href="http://www.lion.co.uk" class="footer_listing_header">amac</a>
-          <p>Alexander MacGregor (aka amac) is the founder of the Lion Group and Lion.co.uk, a social network for UK entrepreneurs to share news, advice and discussion.</p>
-	  <p><a href="http://www.lion.co.uk">more&gt;</a></p>
-         </li>
-        </ul>
+        <h5><a href="">Member of the Month</a></h5>
+                <ul>
+			<li>No Member of the Month</li>
+		</ul>
                </li>
       </ul>
       <div class="clear_floats"></div>
@@ -252,7 +462,7 @@ If you can't find what you're looking for, or would like to suggest new content 
     </div>
     <div id="footer_base">
      <div id="footer_copyright">
-      Copyright 2012
+      Copyright 2013
      </div>
      <div id="footer_links">
       <ul>
@@ -335,4 +545,4 @@ pageTracker._trackPageview();
 } catch(err) {}</script>
 
 
-</body></html>
+<div id="sortHelper" style="display: none;">&nbsp;</div></body></html>
