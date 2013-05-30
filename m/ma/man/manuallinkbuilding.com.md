@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the manuallinkbuilding.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023181451id_/http%3A//www.manuallinkbuilding.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manuallinkbuilding.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530170347id_/http%3A//manuallinkbuilding.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Link Building Services | SEO Outsourcing | Link Building Company | SEO Link Building
 
@@ -31,5 +31,3 @@ All e-mails from Gareth Hoyle Ltd will include an “unsubscribe” option allow
 On rare occasions it is necessary to send out a strictly service related announcement. For instance, if our service is temporarily suspended for maintenance we might send users an email. Generally, users may not opt-out of these communications, though they can deactivate their account. However, these communications are not promotional in nature.  
 **Improvements**  
 Gareth Hoyle Ltd is committed to improving the service and information we are able to provide our users. We are therefore continually seeking ways of improving and upgrading this website. With this in mind, we reserve the right to change the way this site operates and how we process information. However, we will continue to respect the privacy and preferences of all users of this website.
-
-Last updated by at August 20, 2012.
