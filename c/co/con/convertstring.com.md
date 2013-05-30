@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the convertstring.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017061916id_/http%3A//convertstring.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the convertstring.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530033333id_/https%3A//www.convertstring.com/Privacy) for the most accurate reproduction.*
 
-# Convert String - Sitemap
+# Convert String - Privacy Policy
 
 You'll be pleased to know that our website uses industry standard encryption to protect your information when you transmit it over the internet. When SSL is enabled (click the padlock at the top of the page) you will notice a little padlock icon in your browser that shows that the connection is a secure one between your computer and our servers. With SSL enabled you can be sure that you are indeed connecting to ConvertString.com and that the data is secure during transmission. 
 
