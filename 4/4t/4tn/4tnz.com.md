@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the 4tnz.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215015905id_/http%3A//www.4tnz.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4tnz.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530132756id_/http%3A//www.4tnz.com/privacy-policy) for the most accurate reproduction.*
 
-# 4tnz! : Privacy Policy
+# Privacy Policy | 4tnz
 
-5 years ago
-
-[ ](https://web.archive.org/type/static)
-
-### Last Updated: Wednesday, September 5, 2012
+**Last Updated:** Wednesday, February 22, 2013
 
 We know that safeguarding your privacy is serious business. Your privacy is very important to us. Please take a moment to read 4TNZ's policy so that you understand how we collect and use your personal information. As we update and expand our services, this policy might change, so please check it out from time to time. If you have questions about our privacy policy, please E-mail us at [privacypolicy@bauerpublishing.com](mailto:privacypolicy@bauerpublishing.com).
 
@@ -49,7 +45,7 @@ All of our surveys are optional, and there are no prizes or rewards for particip
 
 We make every effort to ensure that your information is secure on our system. Only those employees who need access to your information in order to do their jobs are allowed access.
 
-4tnz.com sometimes asks for your credit card information in order to provide you with goods or services that you request. This information is securely stored on our computers (also called "servers"). Credit card transactions take place only on servers that offer a high level of security. These transactions are handled by a third-party financial institution, Kable Fulfillment Services of Ohio, Inc., which receives the credit card number and other personal information you provide in order to verify the credit card number and process the transaction. This third party has agreed to use your personal information only for this purpose, to take steps to preserve your privacy and to protect the security of this personal information, and not to sell or disclose the information to any other third party.
+4tnz.com sometimes asks for your credit card information in order to provide you with goods or services that you request. This information is securely stored on our computers (also called "servers"). Credit card transactions take place only on servers that offer a high level of security. These transactions are handled by a third-party financial institution which receives the credit card number and other personal information you provide in order to verify the credit card number and process the transaction. This third party has agreed to use your personal information only for this purpose, to take steps to preserve your privacy and to protect the security of this personal information, and not to sell or disclose the information to any other third party.
 
 We do not collect personal information for the purpose of credit card transactions from users under the age of 13 and no personal information from children under 13 is shared with any third-party service provider.
 
@@ -105,7 +101,7 @@ If you have any questions about our privacy policy, you can contact us at:
 > 4TNZ  
 >  270 Sylvan Avenue  
 >  Englewood Cliffs, NJ 07632  
->  (201) 569-6699
+>  (201) 569-6699 
 
 or E-mail us at:
 
