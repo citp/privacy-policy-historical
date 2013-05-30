@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scarleteen.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226053426id_/http%3A//www.scarleteen.com/user_guidelines_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scarleteen.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530235547id_/http%3A//www.scarleteen.com/user_guidelines_privacy_policy) for the most accurate reproduction.*
 
 # User Guidelines & Privacy Policy | Scarleteen
 
@@ -6,7 +6,7 @@
 
 We need rules and guidelines with this many people and sensitive subject matter, and because we value the safety and quality of our community. Scarleteen has one of the busiest and longest-running young adult boards and sites around, and that involves a little cooperation to make it work for everyone. It is our job at Scarleteen to provide a safe venue through the boards and main site for discussion of [sexual](https://web.archive.org/glossary/term/3348) issues. If people are harassed or put down, or if language is used which is discriminatory or insulting, no one feels safe: if personally identifying information ends up on our pages, it can compromise our users safety. We've found our rules work, make us the most popular site -- and one of the most respected -- for this sort of information and this audience, and we can do our jobs and feel good about them this way.
 
-If you registered for the message boards, you agreed to this set of rules and regulations (and you can review them here, at the bottom of the page), after which you clicked "I Agree." These are also the general rules for the site as a whole. Please respect these rules and guidelines. If another poster isn't abiding by the rules or is harassing you, you should inform us immediately via email.
+If you registered for the message boards, you agreed to this set of rules and regulations (and you can review them here, at the [bottom](https://web.archive.org/glossary/term/4562) of the page), after which you clicked "I Agree." These are also the general rules for the site as a whole. Please respect these rules and guidelines. If another poster isn't abiding by the rules or is harassing you, you should inform us immediately via email.
 
 * * *
 
