@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accuratebackground.com privacy policy that was archived on 2012-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120916060704id_/http%3A//accuratebackground.com/privacy-policy.php%3Fsec%3D8) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accuratebackground.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530085513id_/http%3A//accuratebackground.com/privacy-policy.php%3Fsec%3D8) for the most accurate reproduction.*
 
 # Privacy Policy / Terms of Use | Accurate Background, Inc
 
@@ -30,11 +30,11 @@ Personal information submitted to Accurate Background for a background screening
 **Contact Information:**  
 Tracy Vrchota  
 Accurate Background, Inc.  
-6 Orchard, Suite 200   
-Lake Forest, CA 92630   
+7515 Irvine Center Drive   
+Irvine, CA 92618   
 800.784.3911  
 [ customer_service@accuratebackground.com](mailto:customer_service@accuratebackground.com)  
-[ www.accuratebackground.com](https://web.archive.org/web/20120916060704id_/http%3A//accuratebackground.com/index.php)
+[ www.accuratebackground.com](https://web.archive.org/web/20130530085513id_/http%3A//accuratebackground.com/index.php)
 
 **Effective Date:** January 18, 2008
 
@@ -42,7 +42,7 @@ Lake Forest, CA 92630
 
 Welcome to our accuratebackground.com. If you continue to browse and use this website you are agreeing to comply with and be bound by the following terms and conditions of use, which together with our privacy policy govern Accurate Background's relationship with you in relation to this website.
 
-The term 'Accurate Background' or 'us' or 'we' refers to the owner of the website whose registered office is 6 Orchard, Suite 200, Lake Forest, CA 92630. The term 'you' refers to the user or viewer of our website.
+The term 'Accurate Background' or 'us' or 'we' refers to the owner of the website whose registered office is 7515 Irvine Center Drive, Irvine, CA 92618. The term 'you' refers to the user or viewer of our website.
 
 The use of this website is subject to the following terms of use:
 
