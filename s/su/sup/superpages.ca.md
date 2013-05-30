@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superpages.ca privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630183659id_/http%3A//www.ypg.com/page.php/en/2/29.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superpages.ca privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530121703id_/http%3A//www.ypg.com/page.php/en/2/29.html) for the most accurate reproduction.*
 
 # Yellow Media Inc. | Privacy Statement
 
