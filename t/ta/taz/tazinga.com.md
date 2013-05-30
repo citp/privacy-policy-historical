@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tazinga.com privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114175442id_/http%3A//tazinga.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tazinga.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530020150id_/http%3A//tazinga.com/privacy) for the most accurate reproduction.*
 
 # None
 
@@ -24,9 +24,9 @@ We also employ a software technology called "clear gifs," which helps us better 
 
 If you visit this Site by "clicking through" from another website, and you have registered with that other website, then certain information about you that you provided to that other website, such as the terms you were searching on that led you to the Site, may be transmitted to us and we may use it. You should carefully review the privacy policy of any website from which you reached the Site in order to determine what information was collected by that website and for what purpose(s) you agreed that website could use that information. We may or may not retain that information; if we do, then we will only use it in accordance with this Policy.
 
-## Policy Regarding Children Under the Age of 13
+## Policy Regarding Children Under the Age of 18
 
-The Site is not intended for children under the age of 13, and we do not knowingly collect or use any information from children under the age of 13.
+The Site is not intended for children under the age of 18, and we do not knowingly collect or use any information from children under the age of 18.
 
 ## How We Use the Information We Collect
 
@@ -75,4 +75,4 @@ E-mail: [Contact Us](mailto:%69%6e%66%6f@%74%61%7a%69%6e%67%61.%63%6f%6d)
 
 Effective Date: 12/01/08
 
-Copyright © 2008-2012 Tazinga. All rights reserved.
+Copyright © 2008-2013 Tazinga. All rights reserved.
