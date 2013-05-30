@@ -1,100 +1,85 @@
-> *The following text is extracted and transformed from the relationshiprewind.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the relationshiprewind.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530171115id_/http%3A//relationshiprewind.com/privacy.php) for the most accurate reproduction.*
 
-# Legal Agreement
+# Relationship Rewind - Privacy Policy
 
-**Go Daddy Respects Your Privacy**
+Vin DiCarlo, Inc., Altare Publishing, Inc., and Mad Scientist Marketing, Ltd. (hereinafter collectively referred to as " **Altare** ")  are committed to respecting the privacy rights of users of the Website (all capitalized terms not defined in this Privacy Policy have the same meanings as in Altare’s [Terms of Service](https://web.archive.org/web/20130530171115id_/http%3A//relationshiprewind.com/terms.php)). Altare created this Privacy Policy to give You confidence as You visit and use the Website, and to demonstrate its commitment to fair information practices and to the protection of privacy.
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+This Privacy Policy is only applicable to the Website and not to any websites of third parties (“ **Third-Party Websites** ”), which may have data collection, storage and use practices and policies that differ materially from this Privacy Policy. For additional information, see the section concerning Third-Party Websites, below.  
+BY USING THE WEBSITE, YOU REPRESENT AND WARRANT THAT YOU HAVE READ AND UNDERSTOOD, AND AGREE TO THE TERMS OF, THIS PRIVACY POLICY. IF YOU DO NOT UNDERSTAND OR DO NOT AGREE TO BE BOUND BY THIS PRIVACY POLICY, YOU MUST IMMEDIATELY LEAVE THE WEBSITE.  
+Each time You use the Website, the then-current version of this Privacy Policy will apply. Accordingly, each time You use the Website You should check the date of this Privacy Policy (which appears at the end) and review any changes since the last time You used the Website. For additional information, see the section concerning Updates and Changes to Privacy Policy, below.
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+###  1\. CHILDREN’S PRIVACY
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+BY USING THE WEBSITE OR SERVICES, YOU REPRESENT AND WARRANT THAT YOU ARE AT LEAST 18 YEARS OLD AND ARE OTHERWISE LEGALLY QUALIFIED TO ENTER INTO AND FORM CONTRACTS UNDER APPLICABLE LAW. 
 
-**Information Collection and Use**
+Because all users of the Website are required to be at least 18 years of age, Altare does not solicit or knowingly collect personally identifiable information from children under the age of 13. If Altare obtains actual knowledge that it has collected personally identifiable information from a child under the age of 13, Altare will immediately delete such information from its database. Because Altare does not collect personally identifiable information from children under the age of 13, Altare has no such information to use or disclose to third parties. Altare has designed this Privacy Policy in order to comply with the Children’s Online Privacy Protection Act (COPPA). 
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+### 2\. INFORMATION COLLECTION PRACTICES 
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+**(a) Traffic Data.   **Like most website operators, Altare automatically gathers information of the sort that browsers automatically make available, including: (i) IP addresses; (ii) domain servers; (iii) types of computers accessing the Website; and (iv) types of Web browsers accessing the Website (collectively “ **Traffic Data** ”). Traffic Data is anonymous information that does not personally identify You.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+**(b) Cookies.   **A “ **Cookie** ” is a string of information that a website stores on a user’s computer, and that the user’s browser provides to the website each time the user submits a query to the website. The purpose of a Cookie is to identify the user as a unique user of the Website. Altare uses Cookies to customize Your experience on the Website to Your interests, to ensure that You do not see the same advertisements or informational messages repeatedly, and to store Your password so You do not have to re-enter it each time You visit the Website. For additional information on Altare’s uses of Cookies, see the section concerning Information Use and Disclosure Practices/Traffic Data and Information Gathered Using Cookies, below. ****
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+IF YOU DO NOT WISH TO HAVE COOKIES PLACED ON YOUR COMPUTER, YOU SHOULD SET YOUR BROWSERS TO REFUSE COOKIES BEFORE ACCESSING THE WEBSITE, WITH THE UNDERSTANDING THAT CERTAIN OF THE SERVICES AND CERTAIN FEATURES OF THE WEBSITE MAY NOT FUNCTION PROPERLY WITHOUT THE AID OF COOKIES. IF YOU REFUSE COOKIES, YOU ASSUME ALL RESPONSIBILITY FOR ANY RESULTING LOSS OF FUNCTIONALITY. 
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+**(c) Ad Serving.** Altare uses third-parties for advertising and analytics for pages that we host. These third-parties may place cookies on Your machine, use web beacons, gather IP addresses and log data to collect traffic and activity data to send to the United States in order to deliver relevant metrics, content, and advertising.  ****
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+**(d) Personal Information.   **In order for You to use certain of the Website services, You will be asked to provide Altare certain information that personally identifies You (“ **Personal Information** ”). Personal Information includes, without limitation: (1) “ **Contact Data** ” (such as Your e-mail address, website URLs, avatar URLs, and instant messaging screen names); and (2) **Demographic Data** ” (such as Your date of birth and gender). **** In each case, You will be asked to provide Personal Information; the Website will not gather it surreptitiously. Altare may supplement the Personal Information You provide with additional Personal Information gathered from public sources or from third-parties (e.g., consumer reporting agencies) who may lawfully provide such information to Altare.  ****
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+You are under no obligation to provide Personal Information, with the caveat that Your refusal to do so may prevent You from using certain of the Services.
 
-**Security**
+**(e) Information You Make Public.** The Website contains features that permit You to upload, post, transmit, display, perform or distribute content, information or other, including Your Personal Information. Any information that You choose to disclose by means of such features becomes public information over which Altare is unable to exercise control. You should exercise caution when deciding to disclose Your Personal Information by means of such features, and You agree to assume all responsibility for doing so.
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+### 3\. INFORMATION USE AND DISCLOSURE PRACTICES
 
-**Updating Your Information**
+**(a) Traffic Data and Information Gathered Using Cookies**
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+Altare analyzes Traffic Data and information gathered using Cookies to help Altare better understand who is using the Website and how they are using it. By identifying patterns and trends in usage, Altare is able to better design the Website to improve Your experience, and to serve You more relevant and interesting content and advertisements.  From time to time, Altare may release Traffic Data and information gathered using Cookies in the aggregate, such as by publishing a report on trends in the usage of the Website. Altare does not attempt to link information gathered using Cookies to Personal Information. ****
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+**(b) Personal Information**
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+**(i) Generally.   **Altare uses Your Contact Data to send You information about Altare and Altare’s products and services, and to contact You when necessary in connection with the Services. Altare uses Your Demographic Data to customize and tailor Your experience on the Website. As with Traffic Data and information gathered using Cookies, from time to time Altare may release Demographic Data in the aggregate, such as by publishing a report on trends in the usage of the Website.  ****
 
-      iii.      You may call us at: (480) 505-8800
+**(ii) Disclosure Practices**
 
-       iv.      You may fax us at: (480) 505-8844
+Altare will not share Your Personal Information except as comports with this Privacy Policy.  As Altare continues to develop, it may buy or sell subsidiaries or business units.  In such transactions, customer information is generally one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Policy.  At times, Altare may also share Your e-mail address with third parties so that they may notify you of special offers, products and services that may be of interest to You.  It is possible that Altare may rent, sell, or otherwise transfer Your Personal Information to such third parties.  At any time, You may contact Altare by email to [support@dicarlocoaching.com](mailto:support@dicarlocoaching.com) to request that Altare not share your Personal Information with third parties.  
+Altare may also disclose Your Personal Information in the following circumstances:
 
-**Sending Emails**
+  * **Disclosure in Connection with Services.  **Altare discloses Personal Information to those who help it provide services, including those who perform technical, administrative and data processing tasks such as ad serving, hosting, billing, fulfillment, and data storage and security. 
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+  * **By Law or to Protect Rights.**   Altare discloses Personal Information when required to do so by law, or in response to a subpoena or court order, or when Altare believes in its sole discretion that disclosure is reasonably necessary to protect the property or rights of Altare, third-parties or the public at large. 
 
-**Compliance with Laws and Law Enforcement**
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+  * **Business Transfers; Bankruptcy.**   Altare reserves the right to transfer all Personal Information in its possession to a successor organization in the event of a merger, acquisition, or bankruptcy or other sale of all or a portion of Altare’s assets.  Other than to the extent ordered by a bankruptcy or other court, the use and disclosure of all transferred Personal Information will be subject to this Privacy Policy, or to a new privacy policy if You are given notice of that new privacy policy and an opportunity to affirmatively opt-out of it.  Personal Information submitted or collected after a transfer, however, may be subject to a new privacy policy adopted by Altare’s successor organization. 
 
-**Third Party Service Providers**
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+  * **License to User Content.** By using the Website, You grant the Altare Parties the right to publish Your name and any username of Yours in connection with the Altare Parties’ exercise of their license in and to Your User Content.  You further waive any claims arising from the Altare Parties’ exercise of that right. For additional information, see Terms of Service Section 15, regarding User Content.
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
 
-**Supplementation of Information**
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+### 4\. CONSENT TO RECEIVE EMAIL FROM ALTARE
 
-**Contests/Surveys**
+By registering with the Website, you thereby consent to receive periodic email communications regarding the Services, new product offers, promotions and other matters. A simple 1-click unsubscribe link is included in each email, and by clicking on it You can unsubscribe at any time.
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+### 5\. SECURITY OF PERSONAL INFORMATION
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+Altare has implemented and maintains reasonable security procedures and practices to protect against the unauthorized access, use, modification, destruction or disclosure of Your Personal Information.   
 
-**Tell-A-Friend**
+### 6\. USER ABILITY TO ACCESS, UPDATE, AND CORRECT PERSONAL INFORMATION
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+Altare wants Your Personal Information to be complete and accurate. By using the Website, You represent and warrant that all information You provide on any registration form or otherwise in connection with Your use of the Website and Services will be complete and accurate, and that You will update that information as necessary to maintain its completeness and accuracy.  To confirm the completeness and accuracy of, or make changes to, Your Personal Information, please visit your account profile.
 
-**What Happens to my Personal Information if I Opt Out?**
+### 7\. PROMOTIONAL ACTIVITIES
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+From time to time, Altare may conduct contests, giveaways and other promotions (collectively, “ **Promotional Activities** ”). Any information submitted in connection with Promotional Activities will be treated in accordance with this Privacy Policy. From time to time, Altare may also ask You to participate in surveys designed to help Altare improve the Websites or Services. Any Personal Information provided to Altare in connection with any survey will be used only in relation to that survey, and will be disclosed to third parties not bound by this Privacy Policy only in aggregated form.
 
-**Transfer of Data Abroad**
+### 8\. UPDATES AND CHANGES TO PRIVACY POLICY
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+Although most changes are likely to be minor, Altare reserves the right, at any time and without notice, to add to, update, change or modify this Privacy Policy, simply by posting such update, change or modification on this page. Any such addition, update, change or modification will be effective immediately upon posting on the Website. Each time You use the Website, the then-current version of this Privacy Policy will apply. Accordingly, each time You use the Website You should check the date of this Privacy Policy (which appears at the end) and review any changes since the last time You used the Website. Unless Altare obtains Your express consent, any revised Privacy Policy will apply only to information collected after the effective date of such revised Privacy Policy, and not to information collected under any earlier Privacy Policy.
 
-**Changes in Our Practices**
+Effective Date: March 27, 2013
 
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+244 Fifth Ave, Suite 2311 New York, NY 10001  
+1-800-563-4227  
+[support@relationshiprewind.com](mailto:support@relationshiprewind.com)
