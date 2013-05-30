@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the innerdeviant.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118044634id_/http%3A//innerdeviant.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the innerdeviant.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530130002id_/http%3A//innerdeviant.com/policy) for the most accurate reproduction.*
 
 # Privacy Policy » innerdeviant.com - show us your id
 
