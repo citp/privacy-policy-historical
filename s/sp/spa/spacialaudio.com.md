@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spacialaudio.com privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105150358id_/http%3A//spacial.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spacialaudio.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530141539id_/http%3A//spacial.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Spacial.com
 
