@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the tenthamendmentcenter.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014033959id_/http%3A//www.tenthamendmentcenter.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tenthamendmentcenter.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530042526id_/http%3A//www.tenthamendmentcenter.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy – Tenth Amendment Center
-
-## Privacy Policy
+# Privacy Policy | Tenth Amendment Center
 
 **Short Version:** We do not share your information with anyone.
 
