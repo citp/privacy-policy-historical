@@ -1,25 +1,59 @@
-> *The following text is extracted and transformed from the yoomark.com privacy policy that was archived on 2012-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120723002126id_/http%3A//www.yoomark.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yoomark.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530073431id_/http%3A//yoomark.com/page.php%3Fpage%3Dabout) for the most accurate reproduction.*
 
-# Yoomark | Privacy policy
+# | Privacy policy/ Disclaimer
 
-**_
+## Privacy Policy
 
-## Your Privacy
+### What information do we collect?  
 
-_** Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. **_
 
-## Cookies
+We collect information from you when you register on our site.
 
-_** Yoomark cookies do not collect any personal like what your screen name or e-mail address is. But Other Third Party ad servers or ad networks may also use cookies to track user’s activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, Yoomark has no access or control over these cookies that may be used by third party advertisers. Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet. To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url <http://www.google.com/privacy_ads.html> Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies. **_
+When registering on our site, as appropriate, you may be asked to enter your: e-mail address. You may, however, visit our site anonymously.
 
-## Collection of Personal Information
+Google, as a third party vendor, uses cookies to serve ads on your site.   
+Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.   
+Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
 
-_** In order to use Yoomark services, such as submitting new links to the website, voting links or commenting any link, you must complete a registration form. As part of this registration form, we require select personal information (including your full name and e-mail address) and some extra non-compulsory information (including your Location, Occupation, Homepage) . When visiting Yoomark, the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyze trends, administer the site, track user’s movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information. **_
+### What do we use your information for?
 
-## Links to third party Websites
+Any of the information we collect from you may be used in one of the following ways:
 
-_** We have included links on this site for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites may differ from our own. **_
+To process transactions  
+Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
-## Changes to this Privacy Statement
+### Do we use cookies?
 
-_** The contents of this statement may be altered at any time, at our discretion. If you have any questions regarding the privacy policy of Yoomark then you may contact us at admin@yoomark.com 
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
+
+### Do we disclose any information to outside parties?
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+### California Online Privacy Protection Act Compliance
+
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+
+### Childrens Online Privacy Protection Act Compliance
+
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+
+### Online Privacy Policy Only
+
+This online privacy policy applies only to information collected through our website and not to information collected offline.
+
+### Your Consent
+
+By using our site, you consent to our privacy policy.
+
+### Changes to our Privacy Policy
+
+If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
+
+This policy was last modified on 16.02.2013
+
+### Contacting Us
+
+If there are any questions regarding this privacy policy you may contact us at yoomarkers@gmail.com
+
+Privacy Policy Created by [Free Privacy Policy](http://www.freeprivacypolicy.com/)
