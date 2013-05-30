@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the campusgroups.com privacy policy that was archived on 2012-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120314111345id_/http%3A//all.campusgroups.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the campusgroups.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530060219id_/http%3A//all.campusgroups.com/privacy) for the most accurate reproduction.*
 
-# Privacy Statement | CampusGroups at Community and Group Management System
+# Privacy Statement | CampusGroups at CampusGroups
 
 Note: "CampusGroups" is a product developed and owned by Novalsys, Inc. All mentions of "CampusGroups" apply to "Novalsys, Inc." as well.
 
@@ -121,6 +121,6 @@ If you have questions or comments about this privacy policy,
 please email us at [Customer Service](http://www.novalsys.com/contact.aspx) or contact us at:
 
 Novalsys, Inc.   
-40 West 4th Street, Suite 5-02  
-New York, NY 10012   
+411 Lafayette Street, 6th Floor  
+New York, NY 10003   
 Phone: (707) 922-7351
