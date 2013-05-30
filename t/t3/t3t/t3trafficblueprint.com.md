@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the t3trafficblueprint.com privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107142720id_/http%3A//t3trafficblueprint.com/%3Fpage_id%3D9) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the t3trafficblueprint.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530190748id_/http%3A//t3trafficblueprint.com/%3Fpage_id%3D9) for the most accurate reproduction.*
 
-# 
+# Privacy Policy | t3trafficblueprint.com
 
-This privacy policy sets out how ****Kirkland Media Group LLC** **uses and protects any information that you give **Kirkland Media Group LLC** when you use this website.
+This privacy policy sets out how ** **Kirkland Media Group LLC** **uses and protects any information that you give **Kirkland Media Group LLC** when you use this website.
 
 **Kirkland Media Group LLC** is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
@@ -53,7 +53,7 @@ Our website may contain links to other websites of interest. However, once you h
 You may choose to restrict the collection or use of your personal information in the following ways:
 
   * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by **going to[charleskirklandsupport.com](http://charleskirklandsupport.com/)  
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by **going to[ charleskirklandsupport.com](http://charleskirklandsupport.com/)  
 **
 
 
