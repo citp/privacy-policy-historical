@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trippy.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230210756id_/http%3A//www.trippy.com/About_Trippy/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trippy.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530170802id_/http%3A//www.trippy.com/About_Trippy/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy | trippy.com
 
