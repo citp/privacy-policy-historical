@@ -1,90 +1,65 @@
-> *The following text is extracted and transformed from the pcerrorfix.net privacy policy that was archived on 2008-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081023091358id_/http%3A//www.pcerrorfix.net/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcerrorfix.net privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530122639id_/http%3A//pcerrorfix.net/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy
+# Windows Cleaner
 
-**Armadillo Inc Website Privacy Statement**  
+[Home](https://web.archive.org/web/20130530122639id_/http%3A//pcerrorfix.net/index.php) > Privacy Policy 
 
-This document was last updated on March 20, 2008.
+PCErrorFix Privacy Policy
+    PCErrorFix is committed to protecting your privacy. Please read the PCErrorFix Online Privacy Statement below and also any supplemental information listed to the right for additional details about particular PCErrorFix sites and services that you may use.
+    This PCErrorFix Online Privacy Statement applies to data collected by PCErrorFix through the majority of its Web sites and services, as well as its offline product support services. It does not apply to those PCErrorFix sites, services and products that do not display or link to this statement or that have their own privacy statements.
+    If you have any questions about this Policy, please feel free to [contact us](https://web.archive.org/web/20130530122639id_/http%3A//pcerrorfix.net/contact.php).
 
-**1\. Acknowledgement and acceptance of terms**  
+Collection of Your Personal Information
+    In order to access some PCErrorFix services, you will be asked to sign in with an e-mail address and password, which we refer to as your credentials. In most cases, these credentials means you can use the same credentials to sign in to many different PCErrorFix sites and services, as well as those of select PCErrorFix partners. By signing in on one PCErrorFix site or service, you may be automatically signed into other PCErrorFix sites and services. If you access our services via a mobile phone, you may also use your telephone number and a PIN as an alternative credential to your username and password. As part of creating your credentials, you may also be requested to provide questions and secret answers, which we use to help verify your identity and assist in resetting your password, as well as an alternate email address. Some services may require added security, and in these cases, you may be asked to create an additional security key. Finally, a unique ID number will be assigned to your credentials which will be used to identify your credentials and associated information.
+    At some PCErrorFix sites, we ask you to provide personal information, such as your e-mail address, name, home or work address or telephone number. We may also collect demographic information, such as your ZIP code, age, gender, preferences, interests and favorites. If you choose to make a purchase or sign up for a paid subscription service, we will ask for additional information, such as your credit card number and billing address, that is used to create a PCErrorFix billing account.
+    We may collect information about your visit, including the pages you view, the links you click and other actions taken in connection with PCErrorFix sites and services. We also collect certain standard information that your browser sends to every website you visit, such as your IP address, browser type and language, access times and referring Web site addresses.
+    In order to offer you a more consistent and personalized experience in your interactions with PCErrorFix, information collected through one PCErrorFix service may be combined with information obtained through other PCErrorFix services. We may also supplement the information we collect with information obtained from other companies. For example, we may use services from other companies that enable us to derive a general geographic area based on your IP address in order to customize certain services to your geographic area.
 
-Armadillo Inc is committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our website.   By accessing PCErrorFix.net, you acknowledge and fully understand Armadillo Inc’s Privacy Statement and freely consent to the information collection and use practices described in this Website Privacy Statement.
+Use of Your Personal Information
+    PCErrorFix collects and uses your personal information to operate and improve its sites and deliver the services or carry out the transactions you have requested. These uses may include providing you with more effective customer service; making the sites or services easier to use by eliminating the need for you to repeatedly enter the same information; performing research and analysis aimed at improving our products, services and technologies; and displaying content and advertising that are customized to your interests and preferences.
+    We also use your personal information to communicate with you. We may send certain mandatory service communications such as welcome letters, billing reminders, information on technical service issues, and security announcements. Some PCErrorFix services, such as PCErrorFix Newsletter, may send periodic member letters that are considered part of the service. We may also occasionally send you product surveys or promotional mailings to inform you of other products or services available from PCErrorFix and its affiliates.
+    Personal information collected on PCErrorFix sites and services may be stored and processed in the United States or any other country in which PCErrorFix or its affiliates, subsidiaries or agents maintain facilities, and by using a PCErrorFix site or service, you consent to any such transfer of information outside of your country. PCErrorFix abides by the safe harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union.
 
-**2\. Participating Merchant Policies**  
+Sharing of Your Personal Information
+    Except as described in this statement, we will not disclose your personal information outside of PCErrorFix and its controlled subsidiaries and affiliates without your consent. Some PCErrorFix sites allow you to choose to share your personal information with select PCErrorFix partners so that they can contact you about their products, services or offers. Other sites do not share your contact information with third parties for marketing purposes, but instead may give you a choice as to whether you wish to receive communications from PCErrorFix on behalf of external business partners about a partner's particular offering (without transferring your personal information to the third party).
+    Some PCErrorFix services may be co-branded and offered in conjunction with another company. If you register for or use such services, both PCErrorFix and the other company may receive information collected in conjunction with the co-branded services.
+    We occasionally hire other companies to provide limited services on our behalf, such as handling the processing and delivery of mailings, providing customer support, hosting websites, processing transactions, or performing statistical analysis of our services. Those companies will be permitted to obtain only the personal information they need to deliver the service. They are required to maintain the confidentiality of the information and are prohibited from using it for any other purpose.
+    We may access and/or disclose your personal information if we believe such action is necessary to: (a) comply with the law or legal process served on PCErrorFix; (b) protect and defend the rights or property of PCErrorFix (including the enforcement of our agreements); or (c) act in urgent circumstances to protect the personal safety of users of PCErrorFix services or members of the public.
 
-Related services and offerings with links from this website, including vendor sites, have their own privacy statements that can be viewed by clicking on the corresponding links within each respective website. Online merchants and others who participate in Armadillo Inc services are encouraged to participate in industry privacy initiatives and to take a responsible attitude towards consumer privacy.  However, since we do not have direct control over the policies or practices of participating merchants and other third parties, we are not responsible for the privacy practices or contents of those sites.  We recommend and encourage that you always review the privacy policies of merchants and other third parties before you provide any personal information or complete any transaction with such parties.  
+Accessing Your Personal Information
+    You may have the ability to view or edit your personal information online. In order to help prevent your personal information from being viewed by others, you will be required to sign in with your credentials (e-mail address and password). The appropriate method(s) for accessing your personal information will depend on which sites or services you have used.
+    PCErrorFix Billing and Account Services - If you have a PCErrorFix Billing account, you can add to or update your information at the PCErrorFix Billing website by clicking on the "Personal Information" or "Billing Information" links.
+    PCErrorFix Newsletter - If you have used PCErrorFix Newsletter service, you can update your profile information, change your password, view the unique ID associated with your credentials, or close certain accounts by visiting Account Services.
+    PCErrorFix Partner Programs - If you are registered with PCErrorFix Partner Programs, you can review and edit your profile by clicking Manage Your Account on the Partner Program website.
+    Some PCErrorFix sites or services may collect personal information that is not accessible via the links above. However, in such cases, you may be able to access that information through alternative means of access described by the service. Or you can contact us and we will contact you within 30 days regarding your request.
 
+Security of Your Personal Information
+    PCErrorFix is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. For example, we store the personal information you provide on computer systems with limited access, which are located in controlled facilities. When we transmit highly confidential information (such as a credit card number or password) over the Internet, we protect it through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
+    If a password is used to help protect your accounts and personal information, it is your responsibility to keep your password confidential. Do not share this information with anyone. If you are sharing a computer with anyone you should always choose to log out before leaving a site or service to protect access to your information from subsequent users.
 
-**3\. Information We Collect and How We Use It**
+Collection and Use of Children's Personal Information
+    PCErrorFix cares about children and understand that they have special privacy needs. Therefore, PCErrorFix has adopted the following privacy policy regarding children:
+    PCErrorFix will NOT collect, use, or distribute to third parties personally identifiable information without prior verifiable parental consent.
+    PCErrorFix will NOT entice the child to divulge more information than it is needed to participate in any activity, game, or service. 
+    PCErrorFix will provide the parent a description of the specific types of a personally identifiable information collected from their child upon request. PCErrorFix will allow the parent to refuse further use or future online collection of personally identifiable information and provide a way for a parent to obtain any personally identifiable information collected from their child.
+    PCErrorFix will NOT provide any links to web sites that are unsuitable for children.
 
-Armadillo Inc collects certain information from and about its users three ways: directly from our Web Server logs, the user, and with Cookies.
+Use of Cookies
+    PCErrorFix Web sites use "cookies" to enable you to sign in to our services and to help personalize your online experience. A cookie is a small text file that is placed on your hard disk by a Web page server. Cookies contain information that can later be read by a web server in the domain that issued the cookie to you. Cookies cannot be used to run programs or deliver viruses to your computer.
+    PCErrorFix Web sites use cookies to store your preferences and other information on your computer in order to save your time by eliminating the need to repeatedly enter the same information and to display your personalized content and appropriate advertising on your later visits to these sites.
+    You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to sign in or use other interactive features of PCErrorFix sites and services that depend on cookies.
 
-a.       **Web Server Logs**. 
+Use of Third Party Ad Networks
+    The majority of the online banner advertisements you see on PCErrorFix Web pages are displayed by PCErrorFix. However, we allow other companies, called third-party ad servers or ad networks, to display advertisements on PCErrorFix Web pages. Some of these ad networks may place a persistent cookie on your computer in order to recognize your computer each time they send you an online advertisement. In this way, ad networks may compile information about where you, or others who are using your computer, saw their advertisements and determine which ads are clicked on. This information allows an ad network to deliver targeted advertisements that they believe will be of most interest to you. PCErrorFix does not have access to the cookies that may be placed by the third-party ad servers or ad networks.
 
-When you visit our Website, we may track information to administer the site and analyze its usage. Examples of information we may track include: 
+Controlling "Spam" or Unsolicited E-mail
+    PCErrorFix is concerned about controlling unsolicited commercial e-mail, or "spam." PCErrorFix has a strict Anti-Spam Policy prohibiting the use of customer account to send spam. PCErrorFix will not sell, lease or rent its e-mail subscriber lists to third parties. While PCErrorFix continues to actively review and implement new technology, such as expanded filtering features, there is no currently available technology that will totally prevent the sending and receiving of unsolicited e-mail. Using tools such as the Inbox Protector and being cautious about the sharing of your e-mail address while online will help reduce the amount of unsolicited e-mail you receive.
 
-> >   * Your Internet protocol address. 
->>   * The kind of browser or computer you use. 
->>   * Number of links you click within the site. 
->>   * State or country from which you accessed the site. 
->>   * Date and time of your visit. 
->>   * Name of your Internet service provider. 
->>   * Web page you linked to our site from. 
->>   * Pages you viewed on the site.
->> 
+Enforcement
+    PCErrorFix regularly reviews its compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy or PCErrorFix's treatment of personal information by contacting us through this web site. When we receive formal written complaints at this address, it is PCErrorFix's policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between PCErrorFix and an individual.
 
+Changes to This Privacy Statement
+    We will occasionally update this privacy statement to reflect changes in our services and customer feedback. When we post changes to this Statement, we will revise the "Last Updated" date at the top of this statement. If there are material changes to this statement or in how PCErrorFix will use your personal information, we will notify you either by prominently posting a notice of such changes prior to implementing the change or by directly sending you a notification. We encourage you to periodically review this statement to be informed of how PCErrorFix protects your information..
 
-**b. Use of Cookies**  
-
-Armadillo Inc may use cookies to personalize or enhance your user experience.  A cookie is a small text file that is placed on your hard disk by a Web page server.  **Cookies cannot be used to run programs or deliver viruses to your computer.**   Cookies are uniquely assigned to you, and can only be read by a Web Server in the domain that issued the cookie to you.   
-
-One of the primary purposes of cookies is to provide a convenience feature to save you time.  For example, if you personalize a web page, or navigate within a site, a cookie helps the site to recall your specific information on subsequent visits.  Hence, this simplifies the process of delivering relevant content and eases site navigation by providing and saving your preferences and login information as well as providing personalized functionality.. 
-
-Armadillo Inc reserves the right to share aggregated site statistics with partner companies, but does not allow other companies to place cookies on our website unless there is a temporary, overriding customer value (such as merging into Armadillo Inc.com a site that relies on third-party cookies). 
-
-You have the ability to accept or decline cookies.  Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you reject cookies by changing your browser settings then be aware that this may disable some of the functionality on our Website.
-
-You may be asked to disclose personal information to us so that we can provide assistance and information to you. For example, such data may be warranted in order to provide online technical support and troubleshooting. 
-
-We will not disclose personally identifiable information we collect from you to third parties without your permission except to the extent necessary including: 
-
-§         To fulfill your service requests for services.
-
-§         To protect ourselves from liability,
-
-§         To respond to legal process or comply with law, or
-
-§         In connection with a merger, acquisition, or liquidation of the company. 
-
-**4\. Use of Web Beacons or GIF files**
-
-This websites's web pages may contain electronic images known as Web beacons – sometimes also called single-pixel gifs – that allow Armadillo Inc to count users who have visited those pages and to deliver co-branded services.  Armadillo Inc may include Web beacons in promotional e-mail messages or newsletters in order to determine whether messages have been opened and acted upon. 
-
-Some of these Web beacons may be placed by third party service providers to help determine the effectiveness of our advertising campaigns or email communications.  These Web beacons may be used by these service providers to place a persistent cookie on your computer.  This allows the service provider to recognize your computer each time you visit certain pages or emails and compile anonymous information in relation to those page views, which in turn enables us and our service providers to learn which advertisements and emails bring you to our website and how you use the site.  Armadillo Inc prohibits Web beacons from being used to collect or access your personal information. 
-
-**5\. Accessing Web Account Information**
-
-We will provide you with the means to ensure that personally identifiable information in your web account file is correct and current.  You may review this information by contacting us by sending an email to our support attendant.
-
-**6\. Changes to this Statement**
-
-Armadillo Inc has the discretion to occasionally update this privacy statement.  When we do, we will also revise the “updated” date at the top of this Privacy page.  We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect.  Your continued use of the service constitutes your agreement to this privacy statement and any updates. 
-
-**7\. Contacting Us**
-
-If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please contact us by [ clicking here](https://web.archive.org/web/20081023091358id_/http%3A//www.pcerrorfix.net/Contact.html) or send your comments to : 
-
-Armadillo Inc **  
-Attention:   Privacy Statement Personal**
-
-46 Ashworth Mansions  
-Elgin Avenue  
-W9 1JP  
-United Kingdom
-
-Armadillo Inc will use commercially reasonable efforts to promptly respond and resolve any problem or question.
-
-[Home](https://web.archive.org/web/20081023091358id_/http%3A//www.pcerrorfix.net/index.html) | [Privacy Policy](https://web.archive.org/web/20081023091358id_/http%3A//www.pcerrorfix.net/Privacy-Policy.html) | [Terms of Use](https://web.archive.org/web/20081023091358id_/http%3A//www.pcerrorfix.net/Terms-Of-Use.html) | [About](https://web.archive.org/web/20081023091358id_/http%3A//www.pcerrorfix.net/About.html) | [Contact](https://web.archive.org/web/20081023091358id_/http%3A//www.pcerrorfix.net/Contact.html) | [Registry Resources](https://web.archive.org/web/20081023091358id_/http%3A//www.pcerrorfix.net/Registry-Resources.html) | [Registry Tools Guide](https://web.archive.org/web/20081023091358id_/http%3A//www.pcerrorfix.net/Registry-Tools-Guide.html)
-
-Copyright @ 2006-2008 PCErrorFix.net, all rights reserved  
-
+Contacting Us
+    PCErrorFix welcomes your comments regarding this privacy statement. If you have questions about this statement or believe that we have not adhered to it, please [contact us](https://web.archive.org/web/20130530122639id_/http%3A//pcerrorfix.net/contact.php).
