@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wtopnews.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005035231id_/http%3A//www.wtop.com%3Fsid%3D2243660%26nid%3D715) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wtopnews.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530172849id_/http%3A//wtop.com%3Fsid%3D2243660%26nid%3D715) for the most accurate reproduction.*
 
 # Privacy Policy - WTOP.com
 
@@ -16,14 +16,20 @@
 
 **Contact Information**. Questions concerning the Statement or the Site, including any request to review or change your Personal Information, should be directed to jmeyer@wtop.com. 
 
-[](https://web.archive.org/256/3065477/Judgment-Day)
+[](https://web.archive.org/884/3340174/Rolling-Stones)
 
-##### [Judgment Day ](https://web.archive.org/256/3065477/Judgment-Day)
+##### [Rolling Stones](https://web.archive.org/884/3340174/Rolling-Stones)
 
-Big Bird is endangered, and Jim Lehrer lost control.
+Rocks are thought to be stationary things, but not in Death Valley.
 
-[](https://web.archive.org/541/3014603/Kiss-Off)
+[](https://web.archive.org/541/3341305/New-Team)
 
-##### [Kiss Off](https://web.archive.org/541/3014603/Kiss-Off)
+##### [New Team](https://web.archive.org/541/3341305/New-Team)
 
-The clock is ticking and the end is near for "Jersey Shore."
+Elvis Costello and The Roots team up for a new album.
+
+[](https://web.archive.org/256/3340183/Update-Dad)
+
+##### [Update Dad](https://web.archive.org/256/3340183/Update-Dad)
+
+High-tech gifts to update the low-tech dad this Father's Day.
