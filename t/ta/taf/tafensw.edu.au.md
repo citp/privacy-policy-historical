@@ -1,94 +1,55 @@
-> *The following text is extracted and transformed from the tafensw.edu.au privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018111212id_/https%3A//www.tafensw.edu.au/misc/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tafensw.edu.au privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530032214id_/http%3A//www.dec.nsw.gov.au/footer/privacy) for the most accurate reproduction.*
 
-# TAFE NSW - DEC / TAFE Web Sites Privacy Statement
+# Privacy - NSW Department of Education & Communities
 
-## Website Privacy Statement
+The privacy of our website visitors is of utmost importance to the NSW Department of Education and Communities.  For information about your right to privacy and the Privacy and Personal Information Protection Act 1998 visit the website of the [Office of the Privacy Commissioner](http://www.privacy.nsw.gov.au/). [The department's Privacy Code of Practice](https://edit.pws.det.nsw.edu.au/documents/15060385/15385042/Privacy_code.pdf)  modifies the application of privacy legislation in particular circumstances.
 
-The Department of Education and Communities ("the Department"), including TAFE NSW, is subject to the NSW Privacy and Personal Information Protection Act 1998 ("the Act") and the Privacy Act 1988 (Cth). The Department's Privacy Code of Practice produced in accordance with section 31 of the Act indicates how the Department will comply with the Information Protection Principles (IPPs) in the Act and any modifications to the IPPs as they apply to the Department.
+Users should note that there are risks associated with the transmission of information over the internet. Users should therefore make their own assessment of risks in the provision of information to the department's internet site.
 
-The Department is committed to protecting the privacy of your personal information. This Online Privacy Statement governs the collection, storage, use, access and disposal of data including all personal information obtained on Department websites.
+###  Application
 
-This Privacy Statement does not apply to linked websites that are not Department sites.
+This privacy statement applies to all publically accessible pages on the department's website.
 
-The following sets out how the Department will deal with personal information related to the content and use of its web sites. This statement applies to all pages on the Department's or TAFE NSW site, unless otherwise indicated.
+     The department does not have any responsibility for the privacy policies or practices of third party sites linked to the department's website.
 
-## 1\. Collection of personal information
+###  What information do we collect?
 
-### Information automatically logged
+When you look at the pages on this site, our computers automatically record information that identifies, for each page accessed:  
+•    the IP (internet protocol) address of the machine which has accessed it;  
+•    your top-level domain name (for example .com, .gov, .au, etc.);  
+•    the address of your server;  
+•    the date and time of your visit to the site;  
+•    the pages accessed and documents downloaded;  
+•    the referring site or page; and  
+•    the type of browser and operating system you have used.  
+Cookies used by the department's website do not collect personal information.
 
-The Department may make a record of your visit and log any of the following information for statistical and business purposes - the user's server address, the user's domain name, IP address, the date and time of the visit, the pages accessed and documents downloaded, the previous site visited and the type of browser used.
+###  How do we use this information?
 
-If you send us a message, the Department may record your e-mail address or other information supplied. The Department will gather more extensive information than stated above in the following circumstances:
+The department of education and communities may use and publish aggregated information collected from its systems to improve its services, including monitoring to prevent security breaches and for research and development to the extent that the information does not identify individual users.
 
-  * unauthorised attempts to access files which are not published Department pages; 
-  * unauthorised tampering or interference with files published on the Department's sites;
-  * unauthorised attempts to index the contents of Department sites by other web sites;
-  * attempts to intercept messages of other Departmental users;
-  * communications which are defamatory, abusive, vilify individuals or groups or which give rise to a suspicion that an offence is being committed;
-  * attempts to otherwise compromise the security of the web server, breach the laws of the State of New South Wales or Commonwealth of Australia, or interfere with the enjoyment of the Department's websites by other users.
+Personal information you provide to the department of education and communities will only be used for the purpose for which it was provided or as otherwise permitted by privacy legislation.  For example, if you choose to provide your name and email address when recording feedback on a webpage for the purpose of receiving a response from the department, the information will only be used for that purpose.
 
+###  Unauthorised and unlawful use of the website
 
+The department will collect more extensive information if it identifies unauthorised attempts to interfere with or compromise the security of the website or where it suspects there has been a breach of the laws of the State of New South Wales or Commonwealth of Australia.  
 
-### Security Information
+The department reserves the right to make disclosures to relevant authorities where the use of its website raises a suspicion that an offence is being or has been committed.
 
-Department sites have security measures in place to protect against the loss, misuse, and alteration of the information contained on these sites.
+###  Access and correction
 
-A login name and password are required to visit some secure areas, and before personal information is published on the site, visitors are required to enter their password as well. This is to ensure that the information is displayed only to the intended person. You should ensure that your password is kept securely and cannot be discovered by anyone else.
+Informal requests for access to records containing your personal information and held by the department can be made to the business centre that holds the information. The public liaison office on 02 9561 8999 can provide information to assist in identifying the relevant centre. Formal requests for access to your personal information can be made to the information access unit.
 
-### Cookies
+###  Updating statement
 
-The Department's websites do not use cookies to collect personal information.
+The department acknowledges and embraces the developing nature of online communication, to the extent that it enhances the provision of its services.  This statement may be modified from time to time to accommodate these developments and the changing structure of the department.  
 
-It is possible to disable the accepting of cookies by your web browser, however doing so may restrict your ability to access some web pages.
+If you have any questions about this website, the application of this privacy statement or a general inquiry about the department's handling of your personal information please contact:
 
-### Registration Forms
-
-If personal information is collected via a website this will be done by sufficiently secure means. Individuals will be provided with alternative means of providing personal information to the Department, other than via the website.
-
-For certain applications, our site's Registration Forms require users to give contact information (like name and email address), and unique identifiers (like login identification and password).
-
-Feedback Forms are provided by the Department on its websites to allow users to provide valuable input into the future development of the site and to comment on the provision of services by the Department.
-
-The provision of personal details on Feedback Forms is optional.
-
-Users may provide personal details for the purpose of receiving a reply to their feedback. This information will only be used for the purpose for which it was provided. We will not add your email address or name to any mailing list.
-
-The Department may publish aggregated information about feedback on the site, to the extent that it does not identify or cannot be used to identify individual users.
-
-### External Links
-
-Some Department sites contain links to other sites. When you link to another site we recommend you read the privacy statement of that site. The Department is not responsible for the privacy practices or the content of such websites and any use of products and services on these sites is solely at your own risk.
-
-## 2\. Use of personal information
-
-Personal information you supply on-line may be used by Department staff in conducting the business of the Department. Such uses include matters related to administration, provision of services and the dissemination of information to staff, students and parents.
-
-To improve the services provided, the Department may extract and publish aggregated information about usage patterns from these records. For example, our usage reports may examine trends based on the following information - your server address, your top level domain name (for example .com, .gov, .au, .uk etc), the date and time of visit to the site, the pages accessed and documents downloaded, the previous site visited, the type of browser used and operating system.
-
-Contact information from Registration Forms is used to get in touch with the visitor to a website when necessary, for example when the visitor is seeking information from the Department.
-
-## 3\. Disclosure of personal information
-
-All Department staff have a legal duty to protect the privacy of your personal information and ensure it is used only for the purpose to which you have agreed. 
-
-The Department will not disclose personal information concerning you, including your email address, to parties outside the Department except in accordance with the NSW Privacy and Personal Information Protection Act or as required by Commonwealth or State agencies in accordance with legislative requirements. Details regarding disclosure of personal information by the Department may be found in the Privacy Code of Practice.
-
-The Department reserves the right to make disclosures to relevant authorities where the use of any of its websites raises a suspicion that an offence is being, or has been, committed. In the unlikely event of an investigation, the Department will provide access to data to any law enforcement agency that may exercise a warrant to inspect our logs.
-
-### Public Forums
-
-Some Department sites may have chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
-
-## 4\. Data quality/access
-
-The Department will always try to maintain accurate, complete and up-to-date information regarding students and staff. The necessary procedures are in place to facilitate amendments and verification of personal information. If you wish to access personal information about yourself or you think that your personal information retained by the Department requires changing please contact the Corporate Brand Unit, TAFE NSW National Business, Level 13, 1 Oxford Street, Darlinghurst NSW 2010 or phone 02 8293 6922.
-
-## 5\. Online transactions
-
-In some cases, the Department's websites permit users to submit information or conduct transactions for official government, business or legal purposes.
-
-As there may be specific legal provisions relating to the use of information submitted for the purpose of conducting an official transaction with the Department or one of its units, the scope of the user's privacy in those cases will be explained on the transaction page.
-
-## 6\. Updating policy
-
-Due to the developing nature of privacy principles for online communication, this policy may be modified or expanded in light of new developments or issues that may arise from time to time. We would be pleased to receive any comments or suggestions on this policy by email: [tafewebservices@det.nsw.edu.au](mailto:tafewebservices@det.nsw.edu.au)
+Privacy contact officer  
+Legal services directorate  
+Level 5, 35 Bridge Street  
+Sydney NSW 2000, Australia  
+Telephone: 02 9561 8538; 02 9561 8000 (switchboard)  
+Facsimile: 9561 8543  
+Email: legal@det.nsw.edu.au
