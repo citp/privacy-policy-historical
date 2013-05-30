@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bossventure.com privacy policy that was archived on 2012-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121230054917id_/http%3A//bossventure.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bossventure.com privacy policy that was archived on 2013-05-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130530055050id_/http%3A//bossventure.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org 1999 xhtml" xml="" :lang="en"><head>
 			<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7"> 
@@ -33,16 +33,17 @@ Leather items, Bags,Insurance,  />
 
 
 <!-- javascripts-->
+
+
+
 <script type="text/javascript" src="js/jquery.js"></script>
-<script type="text/javascript" src="js/accordian-slide.js"></script>
-<script type="text/javascript" src="js/login.js"></script>
-<script type="text/javascript" src="js/thickbox.js"></script>
 <script type="text/javascript" src="js/jquery.min.js"></script>
 <script type="text/javascript" src="js/interface.js"></script>
-<script type="text/javascript" src="js/mouseover_popup.js"></script>
-<script type="text/javascript" src="js/searchByCatSateCity.js"></script>
 <script type="text/javascript" src="js/paging.js"></script>
 <script type="text/javascript" src="js/gen_validatorv4.js"></script>
+<script type="text/javascript" src="js/mouseover_popup.js"></script>
+<script type="text/javascript" src="js/searchByCatSateCity.js"></script>
+<script type="text/javascript" src="js/accordian-slide.js"></script>
 
 
 <!-- Face book-->
@@ -62,6 +63,8 @@ Leather items, Bags,Insurance,  />
 <link href="css/dropdiv_right.css" rel="stylesheet" type="text/css">
 <link href="css/dropdiv_bot_left.css" rel="stylesheet" type="text/css">
 <link href="css/dropdiv_bot_right.css" rel="stylesheet" type="text/css">
+
+
 
 
 
@@ -86,18 +89,13 @@ Leather items, Bags,Insurance,  />
 							</div>
 																
 									<div id="login_form">
-										<form id="flogin2" method="post" action="">
+										<form id="flogin2" method="GET" action="brMember.php">
 											<label for="company"><span>VIP Shopper / Licensee :</span>
-												<input type="hidden" name="a2" value="login">
-												<input class="u1" name="login_email" id="login_email" size="8" value="username" onfocus="
-												if(this.value=='username'){ 
-													this.value='' 
-												}" onblur="if(this.value==''){ this.value='username' }" onkeyup="JavaScript:login4(event);">
-												<input name="login_pass" type="password" size="8" class="u1" id="login_pass" onfocus="if(this.value=='password'){ this.value='' }" onblur="if(this.value==''){ this.value='password' }" value="password" onkeyup="JavaScript:login4(event);">
-												<input class="u1" name="p2" style="display:none" type="password">
-												<span class="error" id="errormsg"></span>
+												<input class="u1" name="memberBVusername" id="memberBVusername" size="8" value="username" onfocus="if(this.value=='username'){ this.value='' }" onblur="if(this.value==''){ this.value='username' }">
+												<input type="password" name="memberPassword" size="8" class="u1" id="memberPassword" value="password" onfocus="if(this.value=='password'){ this.value='' }" onblur="if(this.value==''){ this.value='password' }">											
 											</label>
-											&nbsp;&nbsp;<button type="button" class="y" onclick="do_login('loginpage');">Login</button>
+											<input type="hidden" name="code" value="login">
+											&nbsp;&nbsp;<input type="submit" class="y" code="new" value="Login">
 											<img src="images/icon_alert.gif" alt="" align="absmiddle"><small>&nbsp;<a href="http://www.bossventure.net/main/forgotpassword.php">forgot password</a></small> 				
 										</form>	
 									</div>
@@ -132,13 +130,20 @@ Leather items, Bags,Insurance,  />
 										</li>										
 									</ul>
 								</li>
-								<!--modified by Karthik 24/11/2012-->
-								<li>												
-																		<a href="_redemptionProduct.php?x="> <font color="white"> PP Redemption </font> </a>
-																					
-								</li>	
-								<!--modified by Karthik 24/11/2012-->
 								
+								<li><a href="#"><font color="white"> Special Mall <img src="images/menu.png" alt="Smiley face" height="9" width="9"> </font> </a>
+									<ul>
+										<li>												
+																							<a href="_redemptionProduct.php?x="> <font color="white"> PP Redemption</font> </a>
+																							
+										</li>
+										<li>												
+																						<a href="_freeMall.php?x="> <font color="white"> Free Products</font> </a>
+																							
+										</li>										
+									</ul>
+								</li>
+															
 										<li><a href="http://www.bossventure.net/main/index.php"> <font color="white"> Boss Lounge <img src="images/menu.png" alt="Smiley face" height="9" width="9"></font>  </a>
 											<ul>
 											
@@ -148,10 +153,11 @@ Leather items, Bags,Insurance,  />
 																													<a href="http://www.bossventure.net/main/vipsignupnow.php?id=">VIP Shopper Free Reg.</a>
 																											
 														</li>
-														<li>
-																															<a href="http://www.bossventure.net/main/signupnow.php?id=&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;" title="Please enter your referral ID">Merchant Licensee</a>
+														<!--li>
+																															<a href="http://www.bossventure.net/main/signupnow.php?id=
+																	" title="Please enter your referral ID" >Merchant Licensee</a>
 																												
-														</li>
+														</li-->
 														<li>
 																														<a href="http://www.bossventure.net/main/rssignupnow.php?id=">Reseller Licensee</a>
 																														
@@ -240,9 +246,17 @@ Leather items, Bags,Insurance,  />
 				function googleTranslateElementInit() {
 					new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
 				}
-				</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
-		
-		</div>		<!--?php
+				</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>	
+
+			<div style="float:right; z-index:10; margin-top:-25px; margin-right:20px; background-color:#000000; padding-left:2px;padding-bottom:1px;"> 
+				<form action="_searchAllProductList.php" method="POST"> 
+					<input type="text" id="searchAllProduct" name="searchAllProduct" size="40px" placeholder="Search product...."> 
+					<input type="Submit" value="GO"> 
+				</form> 
+			</div>
+			
+		</div>		 
+				<!--?php
 switch($x){
 
 		case "bm": ?> <!--Malay Body Start-->
@@ -413,21 +427,14 @@ switch($x){
 					</div>					
 					
 					<div id="footer_middle">
-						<b><u>Follow Us on:</u></b>
-						<!-- AddThis Button BEGIN -->
-						<div class="addthis_toolbox addthis_default_style ">
-							<table width="10" align="center">
-								<tbody><tr>
-									<td><a class="addthis_button_google_plusone" g:plusone:size="medium"></a></td>
-									<td><a class="addthis_button_facebook_like" fb:like:layout="button_count" addthis:url="https://www.facebook.com/BossVenture?fref=ts"></a></td>
-									<td><a class="addthis_button_tweet" addthis:url="https://twitter.com/BossVenture"></a></td>							
-									<td><a class="addthis_counter addthis_pill_style"></a></td>
-								</tr>
-							</tbody></table>
-						</div>							
-						<script type="text/javascript" src="http://s7.addthis.com/js/300/addthis_widget.js"></script>
-						<!-- AddThis Button END -->
-						<center>© 2012/2013 BossVenture.com  All rights reserved </center>
+						<table align="center" border="0;" id="x">
+							<tbody><tr>
+								<td><b><u>Follow Us on:</u> &nbsp;&nbsp;&nbsp; </b></td>
+								<td><a href="https://www.facebook.com/BossVenture" target="_blank"><img src="images/facebook.png"></a></td>
+								<td><a href="https://twitter.com/BossVenture" target="_blank"><img src="images/twitter.png"></a></td>
+							</tr>
+						</tbody></table>
+						<center>© 2013/2014 BossVenture.com  All rights reserved </center>
 					</div>
 					<!--added and modified by Karthik 24/11/2012-->
 					<div id="footer_right">						
@@ -436,9 +443,10 @@ switch($x){
 											
 					</div>
 					
-					<div id="footer_right1">							
-						<a href="_merchantLogin.php">Merchant login</a><br>
-						<a href="_merchant_partner.php">Merchant Partner</a>						
+					<div id="footer_right1">
+						<a href="_merchantPartner.php">Merchant Partner</a><br>						
+						<a href="_voucher.php">Confirm Evoucher</a>	<br>
+						<a href="_merchantLogin.php">Outlet Merchant Login</a><br>
 					</div>
 			
 		</div>
