@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the appsamurai.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116014014id_/http%3A//www.appmyworld.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appsamurai.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530185045id_/http%3A//www.appmyworld.com/privacy-policy.html) for the most accurate reproduction.*
 
-# 404 - Error: 404
+# Privacy Policy
 
 **What information do we collect?**
 
@@ -8,7 +8,9 @@ Google, as a third party vendor, uses cookies to serve ads on our site. Google's
 
 AppMyWorld uses Google FeedBurner to send a daily digest of new content from our website. If an individual want to use this service, they have to submit a valid email address to FeedBurner. Individuals who don’t want to share this personal information can still access our new content by visiting our [blog](http://www.appmyworld.com/blog/latest.html "AppMyWorld Blog"). Feedburner's privacy policy's cover the use of Feedburner. For more information, check out the [Feedburner](http://www.feedburner.com/fb/a/privacy "Feedburner Privacy Policy") and [Google](http://www.google.com/policies/privacy/ "Google Privacy Policy") privacy policies.
 
- **Do we disclose any information to outside parties?**
+We use Google Analytics to measure the traffic on our site and app and this comes in the form of aggregate data. More info is provided by Google on their privacy policy here [Google Privacy Policy](http://www.google.com/policies/privacy/ "Google Privacy Policy").
+
+**Do we disclose any information to outside parties?**
 
 We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
@@ -29,7 +31,11 @@ Any of the information we collect from you may be used in one of the following w
 
 -To send periodic emails.  The email address you provide will only be used to send you e-mail notifications about our products and services and special offers.
 
- **Do we use cookies?**
+**How do we protect your information?**
+
+We implement a variety of security measures to maintain the safety of your personal information.
+
+**Do we use cookies?**
 
 Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
 
