@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the paytoo.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223100426id_/http%3A//www.paytoo.com/content/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paytoo.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530162223id_/http%3A//paytoo.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Paytoo - Privacy Policy
-
-**PayToo's Privacy Policy**
 
 Thank you for visiting our website. Please read this Privacy Policy before using our website, submitting any personal data, or becoming a customer. By using this website or our services you agree to these terms. 
 
