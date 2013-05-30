@@ -1,14 +1,15 @@
-> *The following text is extracted and transformed from the earls.ca privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231054839id_/http%3A//www.earls.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earls.ca privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530074034id_/http%3A//www.earls.ca/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Earls.ca
+# Privacy Policy
 
-**EARLS RESTAURANTS LTD ONLINE PRIVACY POLICY**
+## Earls Restaurants Ltd Online Privacy Policy
 
-**OUR COMMITMENT TO PRIVACY**
+**  
+OUR COMMITMENT TO PRIVACY**
 
 Earls Restaurants Ltd. is committed to maintaining the security, confidentiality and privacy of your personal information.
 
-This is our Privacy Policy.  It documents our on-going commitment to you and has been developed in compliance with the British Columbia _Personal Information Protection Act_ (" ** _PIPA_** ").
+This is our Privacy Policy.  It documents our on-going commitment to you and has been developed in compliance with the British Columbia Personal Information Protection Act ("PIPA").
 
 **SCOPE OF POLICY**
 
@@ -31,7 +32,7 @@ We collect, use and disclose your personal information for the following purpose
 
   * to respond to or follow-up regarding any comments you submit to us
   * to open an account if you wish to purchase or register an Earl's gift card online or exchange an Earl's paper gift certificate for an Earl's gift card
-  * to authenticate your identity and process your payment through our third party payment processors 
+  * to authenticate your identity and process your payment through our third party payment processors
   * to reinstate any remaining balance on lost or stolen Earl's gift card that you registered with us
   * to protect us, you and others from fraud and error and to safeguard our business interests
   * to comply with legal and regulatory requirements
@@ -127,6 +128,5 @@ Any inquiries, complaints or questions regarding this Policy should be directed 
 Contact Information:
 
 Privacy Officer  
-Email [privacy@earls.ca](mailto:privacy@earls.ca)
-
+Email [privacy@earls.ca](mailto:privacy@earls.ca)  
 Phone 604-984-4606
