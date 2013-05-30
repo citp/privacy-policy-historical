@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schoolanduniversity.com privacy policy that was archived on 2012-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121012071142id_/http%3A//www.schoolanduniversity.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schoolanduniversity.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530181030id_/http%3A//www.schoolanduniversity.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -44,4 +44,4 @@ By using any part of the Site, you agree, without limitation or qualification, t
 
 Effective as of July 17, 2012  
 Contact Information :  
-If you have any questions about this privacy policy, or to legal issues pertaining to the Site or your use of the Site, please contact us: info@schoolanduniversity.com [ ](http://www.schoolanduniversity.com/request-information)
+If you have any questions about this privacy policy, or to legal issues pertaining to the Site or your use of the Site, please contact us: info@schoolanduniversity.com
