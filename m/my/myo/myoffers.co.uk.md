@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myoffers.co.uk privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203162124id_/http%3A//www.myoffers.co.uk/privacy_statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myoffers.co.uk privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530160405id_/http%3A//myoffers.co.uk/privacy_statement.aspx) for the most accurate reproduction.*
 
 # MyOffers Privacy Statement
 
@@ -43,13 +43,15 @@ MyOffers also uses the data that is collected about you to determine the order o
 
 MyOffers will not use or share your personal information in a manner that differs from what is described within this Privacy Statement and within the registration opt-in statement without your prior consent. The following statement is prominently displayed before you can join MyOffers
 
-> "By registering and entering your details you consent to MyOffers and its clients sending you information about products and/or services that may be of interest to you.
+> "By registering and entering your details you consent to MyOffers and its clients* sending you information about products and/or services that may be of interest to you.
 > 
 > You also agree to the terms and conditions of the privacy statement that govern how your information will be processed."
 
 Sponsors of the MyOffers questionnaires have their own privacy policies and some have their own opt-in statements, MyOffers strongly recommends that you read and understand this information.
 
 Your data together with that of other subscribers to MyOffers may be aggregated at Postcode or other levels for the building of statistical and analytical tables. 
+
+*clients may include commercial, not for profit, research and political organisations. 
 
 ####  General disclosure of personal information
 
