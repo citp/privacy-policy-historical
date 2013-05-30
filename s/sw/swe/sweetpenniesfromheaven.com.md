@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sweetpenniesfromheaven.com privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028013906id_/http%3A//sweetpenniesfromheaven.com/sweetpenniesfromheaven.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sweetpenniesfromheaven.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530200116id_/http%3A//www.sweetpenniesfromheaven.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Sweet Pennies from Heaven | Saving Money | DIY | Frugal Tips | Recipes
 
 **Privacy Policy:**
 
