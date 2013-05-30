@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the solairworld.com privacy policy that was archived on 2012-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120917234509id_/http%3A//www.solairworld.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solairworld.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530124914id_/http%3A//www.solairworld.com/privacy-statement) for the most accurate reproduction.*
 
-# Solair World - Privacy Statement
+# Solar Powered Air Conditioners to you delivered by SolAir World
 
 We recognise the importance of protecting the privacy of information collected about visitors to our sites, in particular information that is capable of identifying an individual ("personal information"). This Internet Privacy Policy governs the manner in which your personal information, obtained through the web site, will be dealt with. This Privacy Policy should be reviewed periodically so that you are updated on any changes.
 
