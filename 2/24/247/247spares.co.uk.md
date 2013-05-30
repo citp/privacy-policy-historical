@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 247spares.co.uk privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115122839id_/http%3A//www.247spares.co.uk/cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 247spares.co.uk privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530081808id_/http%3A//www.247spares.co.uk/cookie-policy) for the most accurate reproduction.*
 
-# Cheap Car Parts & Accessories, Engines, 4x4 Parts. Used Euro & Jap Car Parts From Online Car Breakers
+# Car Spares & Car Parts, Buy Cheap Used Car Spares, Online Breakers
 
   
   
@@ -15,7 +15,7 @@ E-mailing of 247spares.com content from websites \- Some of our sites permit the
 
 Third Party Sites \- Many of our sites operate with third party sites (such as online shops). We may, on occasion, share non-personal aggregated information to these third parties. 
 
-**Cookies** \- **We use ‘cookies’ to track advertising information and website usage. On certain sites, or third party sites we may utilise cookies for other purposes such as order tracking in online shops or for targeting advertisements to particular types of visitor. Cookies are used to improve and enhance your experience, and to aid functionality of the web site. They do not grant us access to your computer, nor do they store personally identifying information about you without explicit consent.**
+**Cookies** \- **We use ‘cookies’ to track advertising information and website usage. On certain sites, or third party sites we may utilise cookies for other purposes such as order tracking in online shops or for targeting advertisements to particular types of visitor. Cookies are used to improve and enhance your experience, and to aid functionality of the web site. They do not grant us access to your computer. The usage of a long term cookie enables us to remember your vehicle details, and part request details, making the part finding process much quicker for you.**
 
 Surveys \- On occasion we may conduct online surveys. This is used to gauge our service, collect demographic information and other information that we may find useful. These surveys are optional. We may share non-personal, aggregated information with third parties. 
 
