@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kingsurfproxy.com privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203083824id_/http%3A//www.kingsurfproxy.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kingsurfproxy.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530162403id_/http%3A//kingsurfproxy.com/privacy.php) for the most accurate reproduction.*
 
 # KingSurfProxy - UK Proxy Service, Free Anonymous Proxy, Unblock Bebo, Unblock Facebook, Unblock Twitter
 
