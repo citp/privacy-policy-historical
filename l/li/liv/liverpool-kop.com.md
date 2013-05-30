@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the liverpool-kop.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017104459id_/http%3A//www.liverpool-kop.com/2007/11/contribute-to-site.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liverpool-kop.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531005243id_/http%3A//www.liverpool-kop.com/2007/11/contribute-to-site.html) for the most accurate reproduction.*
 
 # Privacy Policy | Liverpool-Kop.com
 
 Liverpool-Kop knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy. By visiting our website, you are accepting the practices outlined in this Privacy Policy. 
 
-This Privacy Policy covers Liverpool-Kop’s treatment of personal information that Liverpool-Kop’s gathers when you are on the Liverpool-Kop’s website and when you use Liverpool-Kop’s services. This policy does not apply to the practices of third parties that Liverpool-Kop’s does not own or control, or to individuals that Liverpool-Kop’s does not employ or manage. 
+This Privacy Policy covers Liverpool-Kop’s treatment of personal information that Liverpool-Kop’s gathers when you are on the Liverpool-Kop’s website and when you use Liverpool-Kop’s services. This policy does not apply to the practices of third parties that Liverpool-Kop does not own or control, or to individuals that Liverpool-Kop does not employ or manage. 
 
 Information Collected by Liverpool-Kop 
 
@@ -50,6 +50,12 @@ Children Under 18 Years of Age
 
 You must be 13 years and older to register to use the Liverpool-Kop website. As a result, Liverpool-Kop does not specifically collect information about children. If we learn that Liverpool-Kop has collected information from a child under the age of 13, we will delete that information as quickly as possible. We recommend that minors between the ages of 13 and 18 ask and receive their parents' permission before using Liverpool-Kop or sending information about themselves or anyone else over the Internet. 
 
+**Cookies & 3rd Party Advertisements**
+
+Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <http://www.networkadvertising.org/managing/opt_out.asp.>
+
 Changes to this Privacy Policy 
 
 Liverpool-Kop may amend this Privacy Policy from time to time, at its sole discretion. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes to the Privacy Policy, we will notify you by posting an announcement on the Liverpool-Kop website so you are always aware of what information we collect, how we use it, and under what circumstances if any, it is disclosed. 
@@ -58,16 +64,16 @@ Conditions of Use
 
 If you decide to visit Liverpool-Kop website, your visit and any possible dispute over privacy is subject to this Privacy Policy and our Terms of Use, including limitations on damages, arbitration of disputes, and application of California state law. 
 
-Effective Date of this Privacy Policy 
+_Effective Date of this Privacy Policy_
 
-This Privacy Policy is effective as of 1 September 2007 and last updated 8 September 2011.   
+1 September 2007. 
+
+_Last updated_
+
+5 January 2013. 
+
   
 Contact
 
 If you have any questions about this policy, please contact the Editor:   
 [editor@liverpool-kop.com](mailto:editor@liverpool-kop.com)
-
-* * *
-
-  
-
