@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the astroved.com privacy policy that was archived on 2012-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121011135757id_/http%3A//www.astroved.com/footer/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astroved.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530200955id_/http%3A//www.astroved.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Astroved - Privacy Policy
-
-Privacy Policy
 
 Dear Astroved Members,
 
