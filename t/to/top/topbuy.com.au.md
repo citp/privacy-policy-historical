@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the topbuy.com.au privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231224108id_/http%3A//www.topbuy.com.au/tbcart/pc/nhelp_content_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topbuy.com.au privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530163432id_/http%3A//www.topbuy.com.au/tbcart/pc/nhelp_content_privacy.asp) for the most accurate reproduction.*
 
 # Online Shopping Australia | Bargain | Discount Online Store | TopBuy.com.au - TopBuy.com.au
 
-[**HELP** Center](https://web.archive.org/web/20111231224108id_/http%3A//www.topbuy.com.au/tbcart/pc/help.asp) › Privacy Policy
+[**HELP** Center](https://web.archive.org/web/20130530163432id_/http%3A//www.topbuy.com.au/tbcart/pc/help.asp) › Privacy Policy
 
 | 
 
