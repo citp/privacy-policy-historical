@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the aristotle.com privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115000423id_/http%3A//aristotle.com/about-us/privacy-policy-and-data-restrictions) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aristotle.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530120208id_/http%3A//aristotle.com/about-us/privacy-policy-and-data-restrictions) for the most accurate reproduction.*
 
 # Privacy Policy and Data Restrictions | Aristotle
 
-Aristotle, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for **Aristotle, Inc.** and its divisions.
+Aristotle has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for **Aristotle**  and its divisions.
 
 ## Website
 
@@ -14,7 +14,7 @@ This site has security measures in place, including server password and firewall
 
 ## Copyright Notice
 
-© 1983-2012 Aristotle, Inc. All rights reserved.
+© 1983-2013 Aristotle. All rights reserved.
 
 ## Trademarks
 
@@ -44,7 +44,7 @@ This site does not provide visitors’ information to third parties. This site g
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact Aristotle at:
 
-**Aristotle, Inc.**  
+**Aristotle**  
 205 Pennsylvania Avenue, SE  
 Washington, DC 20003  
 Phone: (202) 543-8345  
