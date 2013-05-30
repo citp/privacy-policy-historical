@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the urbita.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116184941id_/http%3A//urbita.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urbita.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530032001id_/http%3A//urbita.com/privacy) for the most accurate reproduction.*
 
-# Urbita - Be a local, worldwide.
+# Urbita - I love this place!
 
 **WHAT THIS PRIVACY POLICY COVERS**
 
-**How Urbita Uses Your Personal Information**
+**How Urbita Inc. ("Urbita") Uses Your Personal Information**
 
 This policy covers how Urbita treats personal information that Urbita collects and receives, including information related to your past use of Urbita products and services. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available.
 
@@ -68,4 +68,4 @@ We limit access to personal information about you to employees who we believe re
 
 Urbita may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Urbita account or by placing a prominent notice on our site.
 
-**Last updated on March 1st, 2012**
+**Last updated March 1st, 2013**
