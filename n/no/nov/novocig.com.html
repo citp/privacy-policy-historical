@@ -1,11 +1,13 @@
-<!--The following is the downloaded HTML source of the novocig.com privacy policy that was archived on 2012-11-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121121232542id_/http%3A//novocig.com/store/index.php%3Froute%3Dinformation/information%26information_id%3D3) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the novocig.com privacy policy that was archived on 2013-05-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130530062043id_/http%3A//novocig.com/store/index.php%3Froute%3Dinformation/information%26information_id%3D3) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en" xml:lang="en"><head>
 <title>Privacy Policy</title>
 <base href="http://novocig.com/store/">
 <link href="http://novocig.com/store/image/data/logos/logo2.png" rel="icon">
 <link rel="stylesheet" type="text/css" href="catalog/view/theme/default/stylesheet/stylesheet.css">
+<link rel="stylesheet" type="text/css" href="catalog/view/theme/default/stylesheet/ocxautosuggest_search.css" media="screen">
+<link rel="stylesheet" type="text/css" href="catalog/view/theme/default/stylesheet/poshytip.css" media="screen">
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="catalog/view/javascript/jquery/jquery-1.6.1.min.js"></script>
 <script type="text/javascript" src="catalog/view/javascript/jquery/ui/jquery-ui-1.8.16.custom.min.js"></script>
 <link rel="stylesheet" type="text/css" href="catalog/view/javascript/jquery/ui/themes/ui-lightness/jquery-ui-1.8.16.custom.css">
@@ -16,7 +18,10 @@
 <script type="text/javascript" src="catalog/view/javascript/jquery/fancybox/jquery.fancybox-1.3.4-iefix.js"></script>
 <![endif]--> 
 <script type="text/javascript" src="catalog/view/javascript/jquery/tabs.js"></script>
-<script type="text/javascript" src="catalog/view/javascript/common.js"></script>
+<script type="text/javascript" src="catalog/view/javascript/f_i_common.js"></script>
+<script type="text/javascript" src="catalog/view/javascript/jquery/jquery.ocxautosuggest_search.js"></script>
+<script type="text/javascript" src="catalog/view/javascript/jquery/jquery.typewatch.js"></script>
+<script type="text/javascript" src="catalog/view/javascript/jquery/jquery.highlight.js"></script>
 <!--[if IE 7]>
 <link rel="stylesheet" type="text/css" href="catalog/view/theme/default/stylesheet/ie7.css" />
 <![endif]-->
@@ -45,18 +50,15 @@ DD_belatedPNG.fix('#logo img');
 <div id="container">
 <div id="header">
     <div id="logo"><a href="http://novocig.com/store/index.php?route=common/home"><img src="http://novocig.com/store/image/data/logos/LOGO1.jpg" title="Novo E-cigarette" alt="Novo E-cigarette"></a></div>
-        <form action="http://novocig.com/store/index.php?route=common/home" method="post" enctype="multipart/form-data">
-    <div id="currency">Currency<br>
-                        <a title="Euro" onclick="$('input[name=\'currency_code\']').attr('value', 'EUR').submit(); $(this).parent().parent().submit();">€</a>
-                                    <a title="Pound Sterling" onclick="$('input[name=\'currency_code\']').attr('value', 'GBP').submit(); $(this).parent().parent().submit();">£</a>
-                                    <a title="US Dollar"><b>$</b></a>
-                        <input type="hidden" name="currency_code" value="">
-      <input type="hidden" name="redirect" value="http://novocig.com/store/index.php?route=information/information&amp;information_id=3">
-    </div>
-  </form>
-    <div id="cart">
+        <div id="cart">
     <div class="heading">
-      <h4>Shopping Cart</h4>
+<style type="text/css">
+#header #cart .heading h4 {margin:-10px 0px 3px 0 !important;}
+#header #cart .heading {margin:10px 172px 0 0 !important}
+#header #cart.active .heading {padding-top:0 !important}
+</style>
+    <img style="margin:0 -65px -30px" src="image/data/cart_empty.png">
+        <h4>Shopping Cart</h4>
       <a><span id="cart_total">0 item(s) - $0.00</span></a></div>
     <div class="content"></div>
   </div>
@@ -65,24 +67,30 @@ DD_belatedPNG.fix('#logo img');
         <input type="text" name="filter_name" value="Search" onclick="this.value = '';" onkeydown="this.style.color = '#000000';">
       </div>
   <div id="welcome">
-        Welcome visitor you can <a href="http://novocig.com/store/index.php?route=account/login">login</a> or <a href="http://novocig.com/store/index.php?route=account/register">create an account</a>.      </div>
-  <div class="links"><a href="http://novocig.com/store/index.php?route=common/home">Home</a><a href="http://novocig.com/store/index.php?route=account/wishlist" id="wishlist_total">Wish List (0)</a><a href="http://novocig.com/store/index.php?route=account/account">My Account</a><a href="http://novocig.com/store/index.php?route=checkout/cart">Shopping Cart</a><a href="http://novocig.com/store/index.php?route=checkout/checkout">Checkout</a></div>
+        Welcome visitor you can <a href="https://novocig.com/store/index.php?route=account/login">login</a> or <a href="https://novocig.com/store/index.php?route=account/register">create an account</a>.      </div>
+  <div class="links">
+		<style type="text/css">
+		#header .links a {height:15px}
+		#header .links a + a {padding-left:44px}
+		.imagelinks {background:url('catalog/view/theme/default/image/links/links.png') no-repeat;width:32px;height:32px;margin:-10px 0 -22px -37px}
+		#header .links img {margin:-10px 5px -10px 0}
+		</style><a href="http://novocig.com/store/index.php?route=common/home"><div style="background-position:0 0" class="imagelinks"></div>Home</a><a href="http://novocig.com/store/index.php?route=account/wishlist" id="wishlist_total"><div style="background-position:0 -32px" class="imagelinks"></div>Wish List (0)</a><a href="https://novocig.com/store/index.php?route=account/account"><div style="background-position:0 -96px" class="imagelinks"></div>My Account</a><a href="http://novocig.com/store/index.php?route=checkout/cart"><div style="background-position:0 -128px" class="imagelinks"></div>Shopping Cart</a><a href="https://novocig.com/store/index.php?route=checkout/checkout"><div style="background-position:0 -160px" class="imagelinks"></div>Checkout</a></div>
 </div>
 <div id="menu">
   <ul>
         <li><a href="http://novocig.com/store/Electronic-Cigarette">Electronic Cigarette Kit    </a>
             <div>
                 <ul>
-                                        <li><a href="http://novocig.com/store/Electronic-Cigarette/variable-voltage-ecigarette">Variable Voltage E-Cigarette (1)</a></li>
+                                        <li><a href="http://novocig.com/store/Electronic-Cigarette/variable-voltage-ecigarette">Variable Voltage E-Cigarette (2)</a></li>
                                         <li><a href="http://novocig.com/store/Electronic-Cigarette/Electronic-Cigarette-e510">E510 Electronic cigarette (5)</a></li>
                                         <li><a href="http://novocig.com/store/Electronic-Cigarette/ovale-egoc-cig">Electronic Cigarette EGO-C (8)</a></li>
-                                        <li><a href="http://novocig.com/store/Electronic-Cigarette/Elips-cigarette">Elips Electronic cigarette (9)</a></li>
+                                        <li><a href="http://novocig.com/store/Electronic-Cigarette/Elips-cigarette">Elips Electronic cigarette (12)</a></li>
                                         <li><a href="http://novocig.com/store/Electronic-Cigarette/Electronic-Cigarette-e510-T">E510-T Electronic cigarette (4)</a></li>
                                         <li><a href="http://novocig.com/store/Electronic-Cigarette/Electronic Cigarette EGO">EGO Electronic cigarette (7)</a></li>
                                         <li><a href="http://novocig.com/store/Electronic-Cigarette/EGO-T-LED">EGO-T LED Electronic cigarette (4)</a></li>
                                         <li><a href="http://novocig.com/store/Electronic-Cigarette/Electronic-Cigarette-EGO-T">EGO-T Electronic cigarette (9)</a></li>
                                         <li><a href="http://novocig.com/store/Electronic-Cigarette/Slim-ecigarette">Woman E-cigarette (2)</a></li>
-                                        <li><a href="http://novocig.com/store/Electronic-Cigarette/Electronic-Cigarette-EGO-W">EGO-W Electronic cigarette (8)</a></li>
+                                        <li><a href="http://novocig.com/store/Electronic-Cigarette/Electronic-Cigarette-EGO-W">EGO-W Electronic cigarette (7)</a></li>
                                         <li><a href="http://novocig.com/store/Electronic-Cigarette/mini-dse-901-ecig">Mini Dse901 E-Cigarette (1)</a></li>
                                         <li><a href="http://novocig.com/store/Electronic-Cigarette/e-pipe-dse601">Dse601 E-Pipe (1)</a></li>
                             </ul>
@@ -93,9 +101,10 @@ DD_belatedPNG.fix('#logo img');
                 <ul>
                                         <li><a href="http://novocig.com/store/E-juice-E-liquid/ecig-liquids">E-liquid Sample Pack (4)</a></li>
                                         <li><a href="http://novocig.com/store/E-juice-E-liquid/ecig-flavoring">Electronic Cigarette Flavoring Concentrate (4)</a></li>
-                                        <li><a href="http://novocig.com/store/E-juice-E-liquid/ecig-liquid">Electronic Cigarette Liquid (32)</a></li>
+                                        <li><a href="http://novocig.com/store/E-juice-E-liquid/ecig-liquid">Electronic Cigarette Liquid (35)</a></li>
                                         <li><a href="http://novocig.com/store/E-juice-E-liquid/ecigarette-vg-base">Electronic Cigarette Liquid Base (4)</a></li>
                                         <li><a href="http://novocig.com/store/E-juice-E-liquid/ecig-nicotine">Electronic Cigarette Nicotine (1)</a></li>
+                                        <li><a href="http://novocig.com/store/E-juice-E-liquid/diy-e-liquid">E-Liquid DIY (4)</a></li>
                             </ul>
               </div>
           </li>
@@ -120,7 +129,84 @@ DD_belatedPNG.fix('#logo img');
 </div>
 <div id="notification"></div>
  
-<div id="content">  <div class="breadcrumb">
+<div id="content"><div id="popupAutoSuggest">
+	<a id="popupAutoSuggestClose"></a>
+	<div id="popupAutoSuggestContent"></div>
+</div>
+
+<script type="text/javascript">
+function OCXAutosuggestSearch(){
+	var current_obj = $('#search input[name=\'filter_name\']');
+	
+	$.ajax({
+		url: 'index.php?route=module/autosuggest_search/search',
+		data: 'filter_name=' + encodeURIComponent($(current_obj).val()),
+		success: function(data){
+			$('#popupAutoSuggestContent').html(data);
+			
+			customSetLocationAutoSPopup(current_obj);
+			
+			if (autoSPopupStatus == 0  ){  
+				loadAutoSPopup();
+			}	
+		}
+	});
+}
+
+$(document).ready(function(){
+	$('#search input[name=\'filter_name\']').typeWatch({
+		callback: OCXAutosuggestSearch,
+		wait: 750,
+		highlight: false,
+		captureLength: 2	})
+
+	$('#search input[name=\'filter_name\']').bind('keyup', function(){
+		if ( ($(this).val().length < 2) && autoSPopupStatus ){
+			disableAutoSPopup();
+		}
+	});
+	
+	$("#popupAutoSuggestClose").click(function(){
+		disableAutoSPopup();
+	});
+
+	//Press Escape event!
+	$(document).keypress(function(e){
+		if(e.keyCode==27 && autoSPopupStatus==1){
+			disableAutoSPopup();
+		}
+	});
+
+});
+</script>
+<div id="poshytip_0" class="poshytip normal" style="display:none; background-color: #FFFFFF; border: 1px solid #FFFFFF;">
+	<div class="close" id="poshytip-close-0"></div>
+		<div class="image"><a href="https://novocig.com/store/ce4-egot-cigarette"><img src="http://novocig.com/store/image/cache/data/new products/EGOT CE4-50x50.jpg"></a></div>
+		<div class="product-data with-image">
+		<div class="name"><a href="https://novocig.com/store/ce4-egot-cigarette" style="color: #000000">EGO-T CE4 E-Cigarette - 
+				$36.99				</a>
+		</div>
+		<div class="description" style="color: #000000;">
+	2013 CE4 EGO-T Electronic Cigarette
+
+	The upgraded EGO-T cigarette with CE4 clearomizer is the .. [<a href="https://novocig.com/store/ce4-egot-cigarette" style="color:#000000">more</a>]</div>
+	</div>
+</div>
+
+<script type="text/javascript">
+$(document).ready(function() {
+	var target = '#poshytip_0'; 
+	
+	$(target).show("slide", { direction: "down" }, 1000);
+	if ($(target + ' .name').length){
+		$(target + ' .name').effect("pulsate", { times:3 }, 1500);
+	}
+	
+	$('#poshytip-close-0').bind('click', function(){
+		 $(target).hide("fade", {}, 1000);
+		 	});
+});
+</script>  <div class="breadcrumb">
         <a href="http://novocig.com/store/index.php?route=common/home">Home</a>
          » <a href="http://novocig.com/store/index.php?route=information/information&amp;information_id=3">Privacy Policy</a>
       </div>
@@ -251,7 +337,7 @@ DD_belatedPNG.fix('#logo img');
     <h3>Customer Service</h3>
     <ul>
       <li><a href="http://novocig.com/store/index.php?route=information/contact">Contact Us</a></li>
-      <li><a href="http://novocig.com/store/index.php?route=account/return/insert">Returns</a></li>
+      <li><a href="https://novocig.com/store/index.php?route=account/return/insert">Returns</a></li>
       <li><a href="http://novocig.com/store/index.php?route=information/sitemap">Site Map</a></li>
     </ul>
   </div>
@@ -259,60 +345,46 @@ DD_belatedPNG.fix('#logo img');
     <h3>Extras</h3>
     <ul>
 
-      <li><a href="http://novocig.com/store/index.php?route=information/tellafriend">Tell a Friend</a></li>
+      <li><a href="https://novocig.com/store/index.php?route=information/tellafriend">Tell a Friend</a></li>
    
-      <li><a href="http://novocig.com/store/index.php?route=product/manufacturer">Brands</a></li>
-      <li><a href="http://novocig.com/store/index.php?route=checkout/voucher">Gift Vouchers</a></li>
-      <li><a href="http://novocig.com/store/index.php?route=affiliate/account">Affiliates</a></li>
+      <li><a href="https://novocig.com/store/index.php?route=product/manufacturer">Brands</a></li>
+      <li><a href="https://novocig.com/store/index.php?route=checkout/voucher">Gift Vouchers</a></li>
+      <li><a href="https://novocig.com/store/index.php?route=affiliate/account">Affiliates</a></li>
       <li><a href="http://novocig.com/store/index.php?route=product/special">Specials</a></li>
     </ul>
   </div>
   <div class="column">
     <h3>My Account</h3>
     <ul>
-      <li><a href="http://novocig.com/store/index.php?route=account/account">My Account</a></li>
-      <li><a href="http://novocig.com/store/index.php?route=account/order">Order History</a></li>
-      <li><a href="http://novocig.com/store/index.php?route=account/wishlist">Wish List</a></li>
-      <li><a href="http://novocig.com/store/index.php?route=account/newsletter">Newsletter</a></li>
+      <li><a href="https://novocig.com/store/index.php?route=account/account">My Account</a></li>
+      <li><a href="https://novocig.com/store/index.php?route=account/order">Order History</a></li>
+      <li><a href="https://novocig.com/store/index.php?route=account/wishlist">Wish List</a></li>
+      <li><a href="https://novocig.com/store/index.php?route=account/newsletter">Newsletter</a></li>
     </ul>
   </div>
 </div>
-<div id="powered">Novo E-cigarette © 2012</div>
 <div>
-<div id="payment">
-<img height="65" border="0" width="155" align="left" alt="we ship e-liquid internationally" src="catalog/view/theme/default/image/intl_shipping.jpg">
+<div id="foot-banner">
+<img alt="we ship e-liquid internationally" src="catalog/view/theme/default/image/footer-banner.jpg">
 </div>
-<div id="paypal">
-<img align="left" alt="paypal payment accept" src="catalog/view/theme/default/image/paypal.jpg">
+<div id="powered">Powered By Novo E-cigarette © 2013</div>
 </div>
-<div id="godaddy">
-<img align="left" height="65" width="132" alt="godaddy verified" src="catalog/view/theme/default/image/godaddy.jpg">
-</div>
-<div id="safeshop">
-<img height="65" border="0" width="155" align="left" alt="secure ecig shop" src="catalog/view/theme/default/image/safeshop.jpg">
-</div>
-<div id="cert">
-<img align="right" alt="novocig certificate" src="catalog/view/theme/default/image/product_certs.jpg">
-</div>
-</div>
-</div>
-<div align="center">
-<span id="cdSiteSeal1"><script type="text/javascript" src="//tracedseals.starfieldtech.com/siteseal/get?scriptId=cdSiteSeal1&amp;cdSealType=Seal1&amp;sealId=55e4ye7y7mb73349f92be24bf400a74cwy7mb7355e4ye74ffa52cc91b7f61ebe"></script></span>
 </div>
 <div align="center">
 Keywords：
 <a href="http://novocig.com/sitemap.html" title="elips atomizer" target="_blank"><strong>elips atomizer</strong></a>
 <a href="http://novocig.com/" title="elips atomizer" target="_blank"><strong>elips atomizer</strong></a>
 <a href="http://novocig.com/sitemap.xml" title="elips atomizer" target="_blank"><strong>elips atomizer</strong></a>
-<a href="http://www.hotvsnot.com">web directory</a>
 <a href="http://www.novoliq.com">e-liquid</a>
 <a href="http://www.novocig.com">e-cigarette</a>
 </div>
-
 <script src="http://s25.cnzz.com/stat.php?id=4599570&amp;web_id=4599570&amp;show=pic" language="JavaScript"></script>
-<div id="livechat"><!--  Chat Button Link Code --><div style="text-align:center;width:200px;"><a href="javascript:void(window.open('http://www.novoliq.com/novocighelp/chat.php','','width=590,height=580,left=0,top=0,resizable=yes,menubar=no,location=no,status=yes,scrollbars=yes'))"><img src="http://www.novoliq.com/novocighelp/image.php?id=04" width="200" height="50" border="0" alt="Novocig Live Help"></a><noscript><div><a href="http://www.novoliq.com/novocighelp/chat.php" target="_blank">Start Live Help Chat</a></div></noscript><div style="margin-top:2px;"><a target="_blank" title="Novocig Live Chat" style="font-size:10px;color:#bfbfbf;text-decoration:none;font-family:verdana,arial,tahoma;">Novocig Live Chat</a></div></div><!--Chat Button Link Code --><!--Tracking Code --><div id="livezilla_tracking" style="display:none"><script type="text/javascript" src="http://www.novoliq.com/novocighelp/server.php?request=track&amp;output=jcrpt&amp;nse=0.39289114200637476"></script></div><script type="text/javascript">
-var script = document.createElement("script");script.type="text/javascript";var src = "http://www.novoliq.com/novocighelp/server.php?request=track&output=jcrpt&nse="+Math.random();setTimeout("script.src=src;document.getElementById('livezilla_tracking').appendChild(script)",1);</script><!--  Tracking Code -->
+<div id="livechat"><div style="text-align:center;width:200px;"><a href="javascript:void(window.open('http://novocig.com/chat/chat.php','','width=590,height=580,left=0,top=0,resizable=yes,menubar=no,location=no,status=yes,scrollbars=yes'))"><img src="http://novocig.com/chat/image.php?id=03" width="200" height="49" border="0" alt="LiveZilla Live Help"></a><noscript><div><a href="http://novocig.com/chat/chat.php" target="_blank">Start Live Help Chat</a></div></noscript><div style="margin-top:2px;"><a href="http://www.novocig.com" target="_blank" title="NovoCig Live Chat" style="font-size:10px;color:#bfbfbf;text-decoration:none;font-family:verdana,arial,tahoma;">NovoCig Live Chat</a></div></div><div id="livezilla_tracking" style="display:none"><script type="text/javascript" src="http://novocig.com/chat/server.php?request=track&amp;output=jcrpt&amp;nse=0.7804483120540195"></script></div><script type="text/javascript">
 <!-- DON'T PLACE IN HEAD ELEMENT -->
+var script = document.createElement("script");script.type="text/javascript";var src = "http://novocig.com/chat/server.php?request=track&output=jcrpt&nse="+Math.random();setTimeout("script.src=src;document.getElementById('livezilla_tracking').appendChild(script)",1);</script>
 </div>
-
+<div id="helpdesk"><a target="_blank" href="http://www.novocig.com/helpdesk/">
+<img border="0px" src="../store/image/need-help.jpg">
+</a>
+</div>
 </body></html>
