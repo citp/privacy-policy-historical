@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the logotournament.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223192958id_/http%3A//logotournament.com/help/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logotournament.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530153924id_/http%3A//logotournament.com/help/client/39) for the most accurate reproduction.*
 
-# Help & Frequently Asked Questions
+# Privacy Policy
 
 We take your privacy seriously.
 
-**What information we collect**
+ **What information we collect**
 
   * To create an account we require your email address, username, business or real name, location, and password.
   * Users may also enter additional information to their profile such as bio and website.
@@ -12,7 +12,7 @@ We take your privacy seriously.
 
 
 
-**What we do with it**
+ **What we do with it**
 
   * We will use your email address to update you on site events such as new contests, or receiving a private message from another user. We will never share your email with any third parties. Passwords are MD5 encrypted and not even LogoTournament Staff can view them.
   * We will never share your business or real name; we use this to generate a basic contract to transfer the ownership rights of the logo from designer to contest holder when the contest prize is paid.
