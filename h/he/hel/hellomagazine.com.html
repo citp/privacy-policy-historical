@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hellomagazine.com privacy policy that was archived on 2012-09-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120919225836id_/http%3A//www.hellomagazine.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hellomagazine.com privacy policy that was archived on 2013-05-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130530171554id_/http%3A//www.hellomagazine.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "♏"><html lang="en-us" class="no-js" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
  	<title>PRIVACY POLICY - hellomagazine.com, HELLO!</title>
@@ -23,12 +23,12 @@
 	@import url(/css/v12/sections-content.css);
 </style>
 <link rel="stylesheet" href="/css/comunes/colors-homepage.css" type="text/css" media="all">
-<script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script language="JavaScript" type="text/javascript" src="/js/comunes/pagina/generales.js"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script language="JavaScript" type="text/javascript" src="/js/comunes/pagina/generales.js"></script>
 <script language="JavaScript" type="text/javascript" src="/js/comunes/pagina/funciones.js"></script>
 <script language="JavaScript" type="text/javascript" src="/js/comunes/pagina/comentarios.js"></script>
 
-<script src="/js/comunes/vendors/jquery/jquery-1.6.2.min.js" type="text/javascript">
-<script type="text/javascript" src="/assets.pinterest.com/js/pinit.js"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js" type="text/javascript"></script>
+
 <link media="all" type="text/css" href="/styles/990/horoscope.css" rel="stylesheet">
 	<script type="text/javascript" src="http://www.himgs.com/js/hello/plugins.min.js"></script>
 
@@ -44,13 +44,12 @@
 	<script type="text/javascript" src="http://cdn.inskinmedia.com/isfe/4.1/js/base/api/pageskin.js"></script>
  
 		
-        <script type="text/javascript">
+         <script type="text/javascript">
                InSkinParams['myPageSkin'] = {
 					'srv_SectionID' : '124248',
 					'srv_Keywords' : 'homepage',
 					'srv_UseSAS' : 'true',
-					'sas_FrameURL':'http://www.hellomagazine.com/files/index.html',
-          'sas_PauseAdTagURL' : 'http://smart.hola.com/call/pubj/10820/236329/6086/M/' + Math.round(Math.random()*10000000000) +'',
+					'sas_ExternalSAS' : true,
 					'sas_PauseAdTag' : '',
 					'plr_ContentType' : 'PAGESKIN',
 					'plr_ContentID' : 'myContent',
@@ -63,14 +62,15 @@
 					'plr_NoSkinInSkinResize' : true,
 					'plr_GetParamsFromMeta' : ['srv_Keywords', 'keywords']
 				};
-
+				var InSkinPubliOn = false;
 				var objPageSkin = new InSkin.Base('myPageSkin');
-       objPageSkin.addEventListener('adServed', function() {
-					InSkin.$('#InSkinPageContainer_myPageSkin').prepend(InSkin.$('#header,#header2008'));
-					InSkin.$('#banner2008').remove();
+        objPageSkin.addEventListener('adServed', function() {
+				InSkin.$('#InSkinPageContainer_myPageSkin').prepend(InSkin.$('#header,#header2008'));
+				InSkin.$('#banner2008').remove();
+				InSkinPubliOn = true;
 				});
 
-                 </script>
+        </script>
 
 
 <!-- Begin comScore Tag -->
@@ -91,27 +91,22 @@
 
 	
 
-<!-- cad homepage  --> 
-			<script type="text/javascript">
-			var sasTarget = '';
-			sas_tmstp=Math.round(Math.random()*10000000000);sas_masterflag=1;
-			function SmartAdServer(sas_pageid,sas_formatid,sas_target) {
+<!-- cad homepage  -->			<script type="text/javascript">
+  			var sasTarget = '';
+  			sas_tmstp=Math.round(Math.random()*10000000000);sas_masterflag=1;
+  			function SmartAdServer(sas_pageid,sas_formatid,sas_target) {
+  			 if (sas_masterflag==1) {sas_masterflag=0;sas_master='M';} else {sas_master='S';};
 
-			 if (sas_masterflag==1) {sas_masterflag=0;sas_master='M';} else {sas_master='S';};
-			 document.write('<scr'+'ipt src="http://smart.hola.com/call/pubj/' + sas_pageid + '/' + sas_formatid + '/' + sas_master + '/' + sas_tmstp + '/' + escape(sas_target) + '?"></scr'+'ipt>');
-       }
-
-
-
-
+  			 document.write('<scr'+'ipt src="http://smart.hola.com/call/pubj/' + sas_pageid + '/' + sas_formatid + '/' + sas_master + '/' + sas_tmstp + '/' + escape(sas_target) + '?"></scr'+'ipt>');
+  			}
 			</script>
-			<div id="banner2008"><div class="backBanner"><!-- pos Top -->
+		<div id="banner2008"><div class="backBanner"><!-- pos Top -->
 
 
 				<script type="text/javascript">
 
                 if ( (typeof(HasReminder) == 'undefined') || ('banner2008' != HasReminder) ) {
-				  sas_pageid='10820/236329';	// Pagina : hello/hello-home -
+				  sas_pageid='10820/236639';	// Pagina : Hello/hello-default -
 				  sas_formatid=4874;		// Formato : Top 990x90
 
 				  sas_target=sasTarget;			// Targeting
@@ -119,7 +114,7 @@
 
                 }
 
-				</script><script src="http://smart.hola.com/call/pubj/10820/236329/4874/M/1413255501/?"></script>
+				</script><script src="http://smart.hola.com/call/pubj/10820/236639/4874/M/2872607015/?"></script>
 				
 </div></div>
 <div id="transitional"></div>
@@ -129,97 +124,101 @@
  <div id="InSkinPageContainer_myPageSkin" class="InSkinPageContainer">
 <div id="container" class="container">	
 
-	<header role="header" id="header" class="row">
-	<h1 id="logo" class="span3">
-		<a class="iconSprite" href="http://www.hellomagazine.com/" target="_top" accesskey="1" title="HELLO! homepage, The place for daily celebrity, fashion and beauty news">HELLO! homepage, The place for daily celebrity, fashion and beauty news</a>
-	</h1>
-	<div id="cover-follow" class="pull-right">
-			<h3>Community</h3>
-			<iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.hellomagazine.com%2F&amp;layout=button_count&amp;show_faces=false&amp;width=450&amp;action=like&amp;font=arial&amp;colorscheme=light" scrolling="no" frameborder="0" allowtransparency="true" style="border:none; overflow:hidden; width:120px; height:20px;float: left;"></iframe>
-			<a href="https://twitter.com/hellomag" class="twitter-follow-button" data-show-count="true" data-show-screen-name="false">Follow @hellomag</a>
-			<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-	</div>
-	<div id="subscription" class="pull-right">
-		<a href="#"><img src="/css/v12/img/magazine.jpg"></a>
-		<h3 class="title">Subscriptions</h3>
-		<div class="paper">
-			<p>Get HELLO! now and save up to 25%</p>
-			<a href="https://www.subscription.co.uk/hello/web2" target="_blank" title="Subscribe">Subscribe</a>
-		</div>
-		<div class="versions">
-			<h3>Other formats</h3>
-			<!--a href="https://www.subscription.co.uk/hello/web2" target="_blank" class="freeSprite app" title="Subscribe to: Tablet apps">Tablet apps</a-->
-			<a href="http://www.hellomagazine.com/magazine/digital-edition/" target="_blank" class="freeSprite digital" title="Subscribe to: Digital edition">Digital edition</a>
-		</div>
-	</div>
-</header>
-	<!-- menu homepage/ --><nav class="subnav">
-  <ul class="nav nav-pills">
-  	<li class="celebrities dropdown">
-      <a href="#" title="Show sections in: Celebrities" class="dropdown-toggle" data-toggle="dropdown"><span>Celebrities</span></a>
-	  	<ul class="dropdown-menu">
-       	<li><a href="http://www.hellomagazine.com/celebrities/" title="Latest news">News</a></li>
-				<li><a href="http://www.hellomagazine.com/profiles/" title="Profiles">Biographies</a></li>
-				<li><a href="http://www.hellomagazine.com/vote/mostattractivewoman/" title="Votes">Votes</a></li>
-				<li><a href="http://oscars.hellomagazine.com/" title="Oscars">Oscars</a></li>
-				<li><a href="http://bafta.hellomagazine.com/" title="Baftas">Baftas</a></li>
-      </ul>
-  	</li>	
-  	<li class="royalty dropdown">
-      <a href="#" title="Show sections in: Royalty" class="dropdown-toggle" data-toggle="dropdown"><span>Royalty</span></a>
-  		<ul class="dropdown-menu">
-       	<li><a href="http://www.hellomagazine.com/royalty/" title="Royalty News">News</a></li>
-				<li><a href="http://diamondjubilee.hellomagazine.com/" title="Diamond Jubilee">Diamond Jubilee</a></li>
-				<li><a href="http://www.hellomagazine.com/tags/william-and-kate/" title="William and Kate">William and Kate</a></li>
-				<li><a href="http://www.hellomagazine.com/royalty/royalhouses.html" title="Royal houses">Royal houses</a></li>
-				<li><a href="http://royalweddings.hellomagazine.com" title="Royal weddings">Royal weddings</a></li>
-      </ul>
-  	</li>
-  	<li class="lifestyle dropdown"><a href="#" title="Show sections in: Lifestyle" class="dropdown-toggle" data-toggle="dropdown"><span>HelloSTYLE</span></a>
-  		<ul class="dropdown-menu">
-	      <li><a href="http://www.hellomagazine.com/healthandbeauty/" title="Health &amp; Beauty">Health &amp; Beauty</a></li>
-	      <li><a href="http://www.hellomagazine.com/travel/" title="Travel">Travel</a></li>
-	      <li><a href="http://www.hellomagazine.com/cuisine/" title="Cuisine">Cuisine</a></li>
-        <li><a href="http://www.hellomagazine.com/brides/" title="Brides">Brides</a></li>
-      </ul>
-    </li>
-  	<li class="fashion dropdown"><a href="#" title="Show sections in: Fashion" class="dropdown-toggle" data-toggle="dropdown"><span>Fashion</span></a>
-  		<ul class="dropdown-menu">
-       <li><a href="http://www.hellomagazine.com/fashion/" title="Fashion, latest News">News</a></li>
-       <li><a href="http://www.hellomagazine.com/tags/street-style/" title="Street style">Street style</a></li>
-       <li><a href="http://fashionweek.hellomagazine.com/" title="London Fashion Week">London Fashion Week</a></li>
-       <li><a href="http://www.hellomagazine.com/vote/mostattractivewoman/" title="Votes">Votes</a></li>
-       <li><a href="http://www.hellomagazine.com/tags/fashion/hit-or-miss/" title="Hit or Miss">Hit or Miss</a></li>
-       <li><a href="http://www.hellomagazine.com/tags/fashion/who-wears-it-best/" title="Who wears it best">Who wears it best?</a></li>
-      </ul>
-  	</li>
-  	<li class="yourhello dropdown"><a href="#" title="Show sections in: Your hello!" class="dropdown-toggle" data-toggle="dropdown"><span>Your hello!</span></a>
-  		<ul class="dropdown-menu">
-  			<li><a title="Hellomagazine.com blogs" href="http://www.hellomagazine.com/blogs/">Blogs</a></li>
-        <li><a href="http://recipes.hellomagazine.com/" title="The recipe room">The Recipe Room</a></li>
-        <li><a href="http://www.hellomagazine.com/weddings/" title="Your weddings">Your weddings</a></li>
-      </ul>
-  	</li>
-  	<li class="offers dropdown"><a href="#" title="Show sections in: Offers" class="dropdown-toggle" data-toggle="dropdown"><span>Offers</span></a>
-  		<ul class="dropdown-menu">
-       <li><a href="http://offers.hellomagazine.com" title="Exclusive offers">HELLO! Exclusive offers</a></li>
-       <li><a href="http://contact.hellomagazine.com/subscriptions.html" target="_blank" title="Subscriptions">Subscriptions</a></li>
-       <li><a href="http://www.hellomagazine.com/competitions/" title="HELLO! Loves">HELLO! Loves</a></li>
-      </ul>
-  	</li>
-  </ul>
-</nav>
-
+	  <header role="header" id="header" class="row">
+  	<h1 id="logo" class="span3">
+  		<a class="iconSprite" href="http://www.hellomagazine.com/" target="_top" accesskey="1" title="HELLO! homepage, The place for daily celebrity, fashion and beauty news">HELLO! homepage, The place for daily celebrity, fashion and beauty news</a>
+  	</h1>
+  	<div id="cover-follow" class="pull-right">
+  			<h3>Community</h3>
+  			<iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.hellomagazine.com%2F&amp;layout=button_count&amp;show_faces=false&amp;width=450&amp;action=like&amp;font=arial&amp;colorscheme=light" scrolling="no" frameborder="0" allowtransparency="true" style="border:none; overflow:hidden; width:130px; height:20px;float: left;"></iframe>
+  			<a href="https://twitter.com/hellomag" class="twitter-follow-button" data-show-count="true" data-show-screen-name="false">Follow @hellomag</a>
+  			<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+  	</div>
+  	<div id="subscription" class="pull-right">
+  		<a href="#"><img src="http://www.hellomagazine.com/css/v12/img/magazine.jpg"></a>
+  		<h3 class="title">Subscriptions</h3>
+  		<div class="paper">
+  			<p>Get HELLO! now and save up to 30%</p>
+  			<a href="https://www.subscription.co.uk/hello/web2" target="_blank" title="Subscribe">Subscribe</a>
+  		</div>
+  		<div class="versions">
+  			<h3>Other formats</h3>
+  			<!--a href="http://www.hellomagazine.com/apple-newsstand/" target="_blank" class="freeSprite app" title="Subscribe to: iPad edition">iPad edition</a-->
+  			<a href="http://www.hellomagazine.com/digital-editions/" target="_blank" class="freeSprite digital" title="Subscribe to: Digital editions">Digital editions</a>
+  		</div>
+  	</div>
+  </header>
+	  <nav class="subnav">
+    <ul class="nav nav-pills">
+    	<li class="celebrities dropdown">
+        <a href="#" title="Show sections in: Celebrities" class="dropdown-toggle" data-toggle="dropdown"><span>Celebrities</span></a>
+  	  	<ul class="dropdown-menu">
+         	<li><a href="http://www.hellomagazine.com/celebrities/" title="Latest news">News</a></li>
+  				<li><a href="http://www.hellomagazine.com/profiles/" title="Profiles">Biographies</a></li>
+  				<li><a href="http://www.hellomagazine.com/vote/mostattractivewoman/" title="Votes">Votes</a></li>
+  				<li><a href="http://oscars.hellomagazine.com/" title="Oscars">Oscars</a></li>
+  				<li><a href="http://bafta.hellomagazine.com/" title="Baftas">Baftas</a></li>
+  				<li><a href="http://www.hellomagazine.com/film/" title="Film">TV &amp; Film</a></li>
+  				<li><a href="http://www.hellomagazine.com/music/" title="Music">Music</a></li>
+        </ul>
+    	</li>
+    	<li class="royalty dropdown">
+        <a href="#" title="Show sections in: Royalty" class="dropdown-toggle" data-toggle="dropdown"><span>Royalty</span></a>
+    		<ul class="dropdown-menu">
+         	<li><a href="http://www.hellomagazine.com/royalty/" title="Royalty News">News</a></li>
+  				<li><a href="http://diamondjubilee.hellomagazine.com/" title="Diamond Jubilee">Diamond Jubilee</a></li>
+  				<li><a href="http://www.hellomagazine.com/tags/william-and-kate/" title="William and Kate">William and Kate</a></li>
+  				<li><a href="http://www.hellomagazine.com/royalty/royalhouses.html" title="Royal houses">Royal houses</a></li>
+  				<li><a href="http://royalweddings.hellomagazine.com" title="Royal weddings">Royal weddings</a></li>
+        </ul>
+    	</li>
+    	<li class="lifestyle dropdown">
+    		<a href="#" title="Show sections in: Lifestyle" class="dropdown-toggle" data-toggle="dropdown"><span>HelloSTYLE</span></a>
+    		<ul class="dropdown-menu">
+  	      <li><a href="http://www.hellomagazine.com/healthandbeauty/" title="Health &amp; Beauty">Health &amp; Beauty</a></li>
+  	      <li><a href="http://www.hellomagazine.com/travel/" title="Travel">Travel</a></li>
+  	      <li><a href="http://www.hellomagazine.com/cuisine/" title="Cuisine">Cuisine</a></li>
+          <li><a href="http://www.hellomagazine.com/brides/" title="Brides">Brides</a></li>
+        </ul>
+      </li>
+    	<li class="fashion dropdown">
+    		<a href="#" title="Show sections in: Fashion" class="dropdown-toggle" data-toggle="dropdown"><span>Fashion</span></a>
+    		<ul class="dropdown-menu">
+         <li><a href="http://www.hellomagazine.com/fashion/" title="Fashion, latest News">News</a></li>
+         <li><a href="http://www.hellomagazine.com/tags/street-style/" title="Street style">Street style</a></li>
+         <li><a href="http://fashionweek.hellomagazine.com/" title="London Fashion Week">London Fashion Week</a></li>
+         <li><a href="http://www.hellomagazine.com/vote/mostattractivewoman/" title="Votes">Votes</a></li>
+         <li><a href="http://www.hellomagazine.com/tags/fashion/hit-or-miss/" title="Hit or Miss">Hit or Miss</a></li>
+         <li><a href="http://www.hellomagazine.com/tags/fashion/who-wears-it-best/" title="Who wears it best">Who wears it best?</a></li>
+        </ul>
+    	</li>
+    	<li class="yourhello dropdown">
+    		<a href="#" title="Show sections in: Your hello!" class="dropdown-toggle" data-toggle="dropdown"><span>Your hello!</span></a>
+    		<ul class="dropdown-menu">
+    			<li><a title="hellomagazine.com blogs" href="http://www.hellomagazine.com/blogs/">Blogs</a></li>
+          <li><a href="http://recipes.hellomagazine.com/" title="The recipe room">The Recipe Room</a></li>
+          <li><a href="http://www.hellomagazine.com/weddings/" title="Your weddings">Your weddings</a></li>
+        </ul>
+    	</li>
+    	<li class="offers dropdown">
+    		<a href="#" title="Show sections in: Offers" class="dropdown-toggle" data-toggle="dropdown"><span>Offers</span></a>
+    		<ul class="dropdown-menu">
+         <li><a href="http://offers.hellomagazine.com" title="Exclusive offers">HELLO! Exclusive offers</a></li>
+         <li><a href="http://contact.hellomagazine.com/subscriptions.html" target="_blank" title="Subscriptions">Subscriptions</a></li>
+         <li><a href="http://www.hellomagazine.com/competitions/" title="HELLO! Loves">HELLO! Loves</a></li>
+        </ul>
+    	</li>
+    </ul>
+  </nav>
 	<nav class="hot-topics">
 	<em>Hot topics:</em>
 	<ul class="nav nav-pills">
-		<li><a href="http://www.hellomagazine.com/tags/brad-and-angelina" title="Tom &amp; Katie">Brad &amp; Angelina</a></li>
-		<li><a href="http://www.hellomagazine.com/tags/queen-elizabeth-ii" title="Queen Elizabeth II">Queen Elizabeth II</a></li>
+		<li><a href="http://royalweddings.hellomagazine.com/" title="Swedish royal wedding">Swedish royal wedding</a></li>
+		<li><a href="http://www.hellomagazine.com/tags/the-apprentice/" title="The Apprentice 2013">The Apprentice 2013</a></li>
+		<li><a href="http://www.hellomagazine.com/tags/una-healy/" title="Una Healy">Una Healy</a></li>
+		<li><a href="http://www.hellomagazine.com/tags/kim-kardashian/" title="Kim Kardashian">Kim Kardashian</a></li>
+		<li><a href="http://www.hellomagazine.com/tags/kate-middleton/" title="Kate Middleton pregnant">Kate Middleton pregnant</a></li>
 		<li><a href="http://www.hellomagazine.com/tags/william-and-kate/" title="William and Kate">William and Kate</a></li>
-		<li><a href="http://www.hellomagazine.com/tags/venice-film-festival" title="Venice Film Festival">Venice Film Festival</a></li>	
-		<li><a href="http://www.hellomagazine.com/tags/diamond-jubilee/" title="Diamond Jubilee">Diamond Jubilee</a></li>
-		<li><a href="http://fashionweek.hellomagazine.com/" title="London Fashion Week">London Fashion Week</a></li>
-		<li><a href="http://www.hellomagazine.com/tags/prince-harry/" title="London 2012">Prince Harry</a></li>
 	</ul>
 </nav>
 		<!-- Fin Header -->
@@ -281,12 +280,12 @@
 
           	<div id="publi" class="bgGrey"><!-- pos Middle -->				<script type="text/javascript">
                  if ( (typeof(HasReminder) == 'undefined') || ('publi' != HasReminder) ) {
-				  sas_pageid='10820/236329';	// Pagina : hello/hello-home -
+				  sas_pageid='10820/236639';	// Pagina : Hello/hello-default -
 				  sas_formatid=4875;		// Formato : Robapaginas 300x250
 				  sas_target=sasTarget;			// Targeting
 				  SmartAdServer(sas_pageid,sas_formatid,sas_target);
                  }
-				</script><script src="http://smart.hola.com/call/pubj/10820/236329/4875/S/1413255501/?"></script>
+				</script><script src="http://smart.hola.com/call/pubj/10820/236639/4875/S/2872607015/?"></script>
 				</div>
             <div class="barBlockHome bgGrey">
 	<h2 class="hBlockRed">
@@ -294,7 +293,7 @@
 		    	Suggestions      	</strong>
 	</h2>
 							<div class="itemBar">
-									<iframe scrolling="no" frameborder="0" style="border: medium none; overflow: hidden; width: 300px; height: 300px;" allowtransparency="true" src="http://www.facebook.com/plugins/recommendations.php?site=hellomagazine.com&amp;width=300&amp;height=300&amp;header=false&amp;colorscheme=light"></iframe>													<p style="clear: both; margin: 15px 0 0 0;"><strong></strong></p>
+<iframe name="f17d5eb9e8" width="1000px" height="440px" frameborder="0" allowtransparency="true" scrolling="no" style="border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-width: initial; border-color: initial; width: 300px; height: 440px; " src="https://www.facebook.com/plugins/recommendations.php?header=false&amp;site=www.hellomagazine.com&amp;height=440&amp;app_id=113869198637480&amp;locale=es_LA&amp;sdk=joey&amp;channel=https%3A%2F%2Fs-static.ak.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D18%23cb%3Df192bc9768%26origin%3Dhttps%253A%252F%252Fdevelopers.facebook.com%252Ff1a6767f08%26domain%3Ddevelopers.facebook.com%26relation%3Dparent.parent" class=""></iframe>												<p style="clear: both; margin: 15px 0 0 0;"><strong></strong></p>
 											</div>
 			</div>
 
@@ -306,21 +305,21 @@
 		</h2>
 		<script language="javascript">
 	var videos = new Array();
+		videos['up'] = { 'vid' : 'up', 'cid' : 'play-list',w:300,h:265}
+		videos['uk'] = { 'vid' : 'uk', 'cid' : 'play-list',w:300,h:265}
+		videos['ug'] = { 'vid' : 'ug', 'cid' : 'play-list',w:300,h:265}
+		videos['u8'] = { 'vid' : 'u8', 'cid' : 'play-list',w:300,h:265}
+		videos['u6'] = { 'vid' : 'u6', 'cid' : 'play-list',w:300,h:265}
+		videos['u5'] = { 'vid' : 'u5', 'cid' : 'play-list',w:300,h:265}
+		videos['u4'] = { 'vid' : 'u4', 'cid' : 'play-list',w:300,h:265}
+		videos['u2'] = { 'vid' : 'u2', 'cid' : 'play-list',w:300,h:265}
+		videos['u1'] = { 'vid' : 'u1', 'cid' : 'play-list',w:300,h:265}
+		videos['tQ'] = { 'vid' : 'tQ', 'cid' : 'play-list',w:300,h:265}
+		videos['tP'] = { 'vid' : 'tP', 'cid' : 'play-list',w:300,h:265}
+		videos['tM'] = { 'vid' : 'tM', 'cid' : 'play-list',w:300,h:265}
+		videos['tH'] = { 'vid' : 'tH', 'cid' : 'play-list',w:300,h:265}
 		videos['tu'] = { 'vid' : 'tu', 'cid' : 'play-list',w:300,h:265}
 		videos['te'] = { 'vid' : 'te', 'cid' : 'play-list',w:300,h:265}
-		videos['t9'] = { 'vid' : 't9', 'cid' : 'play-list',w:300,h:265}
-		videos['t5'] = { 'vid' : 't5', 'cid' : 'play-list',w:300,h:265}
-		videos['t2'] = { 'vid' : 't2', 'cid' : 'play-list',w:300,h:265}
-		videos['sZ'] = { 'vid' : 'sZ', 'cid' : 'play-list',w:300,h:265}
-		videos['sV'] = { 'vid' : 'sV', 'cid' : 'play-list',w:300,h:265}
-		videos['sR'] = { 'vid' : 'sR', 'cid' : 'play-list',w:300,h:265}
-		videos['sN'] = { 'vid' : 'sN', 'cid' : 'play-list',w:300,h:265}
-		videos['sD'] = { 'vid' : 'sD', 'cid' : 'play-list',w:300,h:265}
-		videos['sC'] = { 'vid' : 'sC', 'cid' : 'play-list',w:300,h:265}
-		videos['sB'] = { 'vid' : 'sB', 'cid' : 'play-list',w:300,h:265}
-		videos['sz'] = { 'vid' : 'sz', 'cid' : 'play-list',w:300,h:265}
-		videos['sx'] = { 'vid' : 'sx', 'cid' : 'play-list',w:300,h:265}
-		videos['sw'] = { 'vid' : 'sw', 'cid' : 'play-list',w:300,h:265}
 	
 	var playListIndex = 1;
 	var playListLimit = 5;
@@ -355,87 +354,87 @@
 <script type="text/javascript" src="/js/comunes/vendors/jquery/jquery.animation.easing.js"></script>
 <script type="text/javascript" src="/js/comunes/pagina/video_player-3.js"></script>
 <div id="video-playlist"></div>
-<script type="text/javascript">VideoPlayer.init({id:"video-playlist", url:"/videos/v/tu.js"});</script>
+<script type="text/javascript">VideoPlayer.init({id:"video-playlist", url:"/videos/v/up.js"});</script>
 
 <div class="playList-menu">
 	<a href="#" class="playList-nav prevBt" title="Previous videos">Previous videos</a>
 	<div class="playList-mask">
 		<ul class="playList-items" style="width:1408px">
 					<li>
-				<a href="#video-1" onclick="javascript:play_list_video('tu');" class="playList-video">
+				<a href="#video-1" onclick="javascript:play_list_video('up');" class="playList-video">
+					<img src="/imagenes//celebrities/video/2012/10/30/1885/115x86-9UTXOMY4DS.jpg" class="thumbnail tooltip" title="James Cracknell and Beverley Turner: Touching Distance">
+				</a>
+				<a href="#" class="playList-title" onclick="javascript:play_list_video('up');">James Cracknell and Beverley Turner: Touching Distance</a></li>
+					<li>
+				<a href="#video-2" onclick="javascript:play_list_video('uk');" class="playList-video">
+					<img src="/imagenes//film/video/2012/10/25/1880/115x86-XWY3Jrf6iK.jpg" class="thumbnail tooltip" title="HELLO! on the red carpet at the Skyfall premiere">
+				</a>
+				<a href="#" class="playList-title" onclick="javascript:play_list_video('uk');">HELLO! on the red carpet at the Skyfall premiere</a></li>
+					<li>
+				<a href="#video-3" onclick="javascript:play_list_video('ug');" class="playList-video">
+					<img src="/imagenes//celebrities/video/2012/10/19/1876/115x86-w2LXbY0lVk.jpg" class="thumbnail tooltip" title="Sir Chris Hoy and Danny MacAskill test out the new velodrome in Glasgow Part 1">
+				</a>
+				<a href="#" class="playList-title" onclick="javascript:play_list_video('ug');">Sir Chris Hoy and Danny MacAskill test out the new velodrome in Glasgow Part 1</a></li>
+					<li>
+				<a href="#video-4" onclick="javascript:play_list_video('u8');" class="playList-video">
+					<img src="/imagenes//film/video/2012/10/18/1868/115x86-Zf5wa0SFlF.jpg" class="thumbnail tooltip" title="Trailer: 'The Life of Pi'">
+				</a>
+				<a href="#" class="playList-title" onclick="javascript:play_list_video('u8');">Trailer: 'The Life of Pi'</a></li>
+					<li>
+				<a href="#video-5" onclick="javascript:play_list_video('u6');" class="playList-video">
+					<img src="/imagenes//celebrities/video/2012/10/16/1866/115x86-Hpa2iDLABH.jpg" class="thumbnail tooltip" title="Christine Bleakley visits Uganda to find out how Sport Relief has made a difference to schoolchildren">
+				</a>
+				<a href="#" class="playList-title" onclick="javascript:play_list_video('u6');">Christine Bleakley visits Uganda to find out how Sport Relief has made a difference to schoolchildren</a></li>
+					<li>
+				<a href="#video-6" onclick="javascript:play_list_video('u5');" class="playList-video">
+					<img src="/imagenes//celebrities/video/2012/10/15/1865/115x86-H73WmgUk99.jpg" class="thumbnail tooltip" title="Exclusive video of Jack Osbourne and Lisa Stelly's wedding in Hawaii ">
+				</a>
+				<a href="#" class="playList-title" onclick="javascript:play_list_video('u5');">Exclusive video of Jack Osbourne and Lisa Stelly's wedding in Hawaii </a></li>
+					<li>
+				<a href="#video-7" onclick="javascript:play_list_video('u4');" class="playList-video">
+					<img src="/imagenes//celebrities/video/2012/10/11/1864/115x86-0YCNCtOUu9.jpg" class="thumbnail tooltip" title="James Corden's tongue-in-cheek look at how to do a charity advert">
+				</a>
+				<a href="#" class="playList-title" onclick="javascript:play_list_video('u4');">James Corden's tongue-in-cheek look at how to do a charity advert</a></li>
+					<li>
+				<a href="#video-8" onclick="javascript:play_list_video('u2');" class="playList-video">
+					<img src="/imagenes//celebrities/video/2012/10/05/1862/115x86-TumyL961o4.jpg" class="thumbnail tooltip" title="James Corden and Rankin team up for new spoof advert">
+				</a>
+				<a href="#" class="playList-title" onclick="javascript:play_list_video('u2');">James Corden and Rankin team up for new spoof advert</a></li>
+					<li>
+				<a href="#video-9" onclick="javascript:play_list_video('u1');" class="playList-video">
+					<img src="/imagenes//celebrities/video/2012/10/01/1861/115x86-7QbSq4WSBY.jpg" class="thumbnail tooltip" title="Exclusive: Kristen Stewart on turning action heroine in " snow="" white="" and="" the="" huntsman""="">
+				</a>
+				<a href="#" class="playList-title" onclick="javascript:play_list_video('u1');">Exclusive: Kristen Stewart on turning action heroine in "Snow White and the Huntsman"</a></li>
+					<li>
+				<a href="#video-10" onclick="javascript:play_list_video('tQ');" class="playList-video">
+					<img src="/imagenes//celebrities/video/2012/09/25/1850/115x86-dUOP4BApYq.jpg" class="thumbnail tooltip" title="Nell McAndrew reveals she's pregnant during Richard Branson's triathlon">
+				</a>
+				<a href="#" class="playList-title" onclick="javascript:play_list_video('tQ');">Nell McAndrew reveals she's pregnant during Richard Branson's triathlon</a></li>
+					<li>
+				<a href="#video-11" onclick="javascript:play_list_video('tP');" class="playList-video">
+					<img src="/imagenes//celebrities/video/2012/09/25/1849/115x86-qByD9U5qf6.jpg" class="thumbnail tooltip" title="Ricky Gervais and dog Barney join in to support WSPA's Red Collar Campaign">
+				</a>
+				<a href="#" class="playList-title" onclick="javascript:play_list_video('tP');">Ricky Gervais and dog Barney join in to support WSPA's Red Collar Campaign</a></li>
+					<li>
+				<a href="#video-12" onclick="javascript:play_list_video('tM');" class="playList-video">
+					<img src="/imagenes//celebrities/video/2012/09/24/1846/115x86-ul92Vcp3AQ.jpg" class="thumbnail tooltip" title="'Strictly' star Brendan Cole is licensed to thrill in HELLO! shoot">
+				</a>
+				<a href="#" class="playList-title" onclick="javascript:play_list_video('tM');">'Strictly' star Brendan Cole is licensed to thrill in HELLO! shoot</a></li>
+					<li>
+				<a href="#video-13" onclick="javascript:play_list_video('tH');" class="playList-video">
+					<img src="/imagenes//celebrities/video/2012/09/21/1841/115x86-nbMTd7yKU7.jpg" class="thumbnail tooltip" title="Watch Daniel Craig and Bérénice Marlohe in a new action-packed advert">
+				</a>
+				<a href="#" class="playList-title" onclick="javascript:play_list_video('tH');">Watch Daniel Craig and Bérénice Marlohe in a new action-packed advert</a></li>
+					<li>
+				<a href="#video-14" onclick="javascript:play_list_video('tu');" class="playList-video">
 					<img src="/imagenes//celebrities/video/2012/09/05/1828/115x86-n9a36m5mfX.jpg" class="thumbnail tooltip" title="'Anna Karenina' star Keira on 'very supportive' Jude">
 				</a>
 				<a href="#" class="playList-title" onclick="javascript:play_list_video('tu');">'Anna Karenina' star Keira on 'very supportive' Jude</a></li>
 					<li>
-				<a href="#video-2" onclick="javascript:play_list_video('te');" class="playList-video">
+				<a href="#video-15" onclick="javascript:play_list_video('te');" class="playList-video">
 					<img src="/imagenes//celebrities/video/2012/08/20/1812/115x86-vVtho2b9Fm.jpg" class="thumbnail tooltip" title="Behind the scenes on exclusive HELLO! Goga Ashkenazi shoot in St Tropez">
 				</a>
 				<a href="#" class="playList-title" onclick="javascript:play_list_video('te');">Behind the scenes on exclusive HELLO! Goga Ashkenazi shoot in St Tropez</a></li>
-					<li>
-				<a href="#video-3" onclick="javascript:play_list_video('t9');" class="playList-video">
-					<img src="/imagenes//film/video/2012/08/03/1807/115x86-n25YaxgyeY.jpg" class="thumbnail tooltip" title="Trailer: '360'">
-				</a>
-				<a href="#" class="playList-title" onclick="javascript:play_list_video('t9');">Trailer: '360'</a></li>
-					<li>
-				<a href="#video-4" onclick="javascript:play_list_video('t5');" class="playList-video">
-					<img src="/imagenes//music/video/2012/08/01/1803/115x86-cK5AukE1R2.jpg" class="thumbnail tooltip" title="Behind the scenes of George Michael's video 'White Light' Part 1">
-				</a>
-				<a href="#" class="playList-title" onclick="javascript:play_list_video('t5');">Behind the scenes of George Michael's video 'White Light' Part 1</a></li>
-					<li>
-				<a href="#video-5" onclick="javascript:play_list_video('t2');" class="playList-video">
-					<img src="/imagenes//celebrities/video/2012/08/01/1800/115x86-lPUK5WbfYk.jpg" class="thumbnail tooltip" title="Celebrity interiors stylist Diana Civil on how to choose the perfect floor">
-				</a>
-				<a href="#" class="playList-title" onclick="javascript:play_list_video('t2');">Celebrity interiors stylist Diana Civil on how to choose the perfect floor</a></li>
-					<li>
-				<a href="#video-6" onclick="javascript:play_list_video('sZ');" class="playList-video">
-					<img src="/imagenes//celebrities/video/2012/07/30/1797/115x86-4nnq2Ajde3.jpg" class="thumbnail tooltip" title="Pepsi and Shirlie: The 1980s stars tell us how they are">
-				</a>
-				<a href="#" class="playList-title" onclick="javascript:play_list_video('sZ');">Pepsi and Shirlie: The 1980s stars tell us how they are</a></li>
-					<li>
-				<a href="#video-7" onclick="javascript:play_list_video('sV');" class="playList-video">
-					<img src="/imagenes//celebrities/video/2012/07/30/1793/115x86-GrmGhIVcp9.jpg" class="thumbnail tooltip" title="Una Healy 's top tips to tackle unpredictable summer weather">
-				</a>
-				<a href="#" class="playList-title" onclick="javascript:play_list_video('sV');">Una Healy 's top tips to tackle unpredictable summer weather</a></li>
-					<li>
-				<a href="#video-8" onclick="javascript:play_list_video('sR');" class="playList-video">
-					<img src="/imagenes//celebrities/video/2012/07/24/1789/115x86-rFAzynCSP6.jpg" class="thumbnail tooltip" title="David Beckham surprises fans in photo booth">
-				</a>
-				<a href="#" class="playList-title" onclick="javascript:play_list_video('sR');">David Beckham surprises fans in photo booth</a></li>
-					<li>
-				<a href="#video-9" onclick="javascript:play_list_video('sN');" class="playList-video">
-					<img src="/imagenes//celebrities/video/2012/07/23/1785/115x86-w0ZNVBqYlj.jpg" class="thumbnail tooltip" title="Tara Palmer-Tomkinson's Olympic mission for HELLO!">
-				</a>
-				<a href="#" class="playList-title" onclick="javascript:play_list_video('sN');">Tara Palmer-Tomkinson's Olympic mission for HELLO!</a></li>
-					<li>
-				<a href="#video-10" onclick="javascript:play_list_video('sD');" class="playList-video">
-					<img src="/imagenes//celebrities/video/2012/07/16/1775/115x86-2ZPCvK0uMA.jpg" class="thumbnail tooltip" title="Elle Macpherson on 'Britain and Ireland's Next Top Model'">
-				</a>
-				<a href="#" class="playList-title" onclick="javascript:play_list_video('sD');">Elle Macpherson on 'Britain and Ireland's Next Top Model'</a></li>
-					<li>
-				<a href="#video-11" onclick="javascript:play_list_video('sC');" class="playList-video">
-					<img src="/imagenes//celebrities/video/2012/07/13/1774/115x86-V5zXyklBhU.jpg" class="thumbnail tooltip" title="HELLO! Today: Friday July 13, 2012 ">
-				</a>
-				<a href="#" class="playList-title" onclick="javascript:play_list_video('sC');">HELLO! Today: Friday July 13, 2012 </a></li>
-					<li>
-				<a href="#video-12" onclick="javascript:play_list_video('sB');" class="playList-video">
-					<img src="/imagenes//celebrities/video/2012/07/12/1773/115x86-qheI4gnECv.jpg" class="thumbnail tooltip" title="HELLO! Today: Thursday July 12, 2012 ">
-				</a>
-				<a href="#" class="playList-title" onclick="javascript:play_list_video('sB');">HELLO! Today: Thursday July 12, 2012 </a></li>
-					<li>
-				<a href="#video-13" onclick="javascript:play_list_video('sz');" class="playList-video">
-					<img src="/imagenes//celebrities/video/2012/07/11/1771/115x86-3MvSpST5TM.jpg" class="thumbnail tooltip" title="HELLO! Today: Wednesday July 11, 2012 ">
-				</a>
-				<a href="#" class="playList-title" onclick="javascript:play_list_video('sz');">HELLO! Today: Wednesday July 11, 2012 </a></li>
-					<li>
-				<a href="#video-14" onclick="javascript:play_list_video('sx');" class="playList-video">
-					<img src="/imagenes//celebrities/video/2012/07/10/1769/115x86-B12c5X9Vlc.jpg" class="thumbnail tooltip" title="HELLO! Today: Tuesday July 10, 2012 ">
-				</a>
-				<a href="#" class="playList-title" onclick="javascript:play_list_video('sx');">HELLO! Today: Tuesday July 10, 2012 </a></li>
-					<li>
-				<a href="#video-15" onclick="javascript:play_list_video('sw');" class="playList-video">
-					<img src="/imagenes//celebrities/video/2012/07/09/1768/115x86-kkfTgRmiHf.jpg" class="thumbnail tooltip" title="HELLO! Today: Monday July 9, 2012 ">
-				</a>
-				<a href="#" class="playList-title" onclick="javascript:play_list_video('sw');">HELLO! Today: Monday July 9, 2012 </a></li>
 				</ul>
 	</div>
 	<a href="#" class="playList-nav nextBt" title="More videos">More videos</a>
@@ -459,12 +458,12 @@
 		</h2>
 		<div class="itemBar">
 						 <ul id="listaNoticias">
-			      				        	<li><a href="/celebrities/201209199359/emmys-downton-abbey-mad-men/">'Downton Abbey' and 'Mad Men' go head-to-head for Emmy glory</a></li>
-			      				        	<li><a href="/celebrities/201209199356/gwyneth-paltrow-cameron-diaz-wedding/">Best friends Cameron and Gwyneth check out a bridal fair</a></li>
-			      				        	<li><a href="/celebrities/201209199355/kylie-minogue-premiere-andres-velencoso/">'It's awful:' Kylie gives her opinion on Kate paparazzi shots</a></li>
-			      				        	<li><a href="/celebrities/201209199357/karl-lagerfeld-praises-carole-middleton/">Karl Lagerfeld says 'sexy' Carole Middleton outshines her daughters</a></li>
-			      				        	<li><a href="/celebrities/201209199353/jennifer-aniston-pregnant-spoof-video/">Joy as it's revealed Jennifer Aniston is expecting triplets</a></li>
-			      				        	<li><a href="http://fashionweek.hellomagazine.com/spring-summer-2013l/201209191186/london-fashion-week-street-style/">Street style: The best of London's pavement parade</a></li>
+			      				        	<li><a href="/celebrities/2013053012832/liz-mcdonald-coronation-street-return/">Liz Mcdonald to return to Coronation Street</a></li>
+			      				        	<li><a href="/celebrities/2013053012826/mara-wilson-child-stars-go-crazy/">Mrs Doubtfire star Mara Wilson lists reasons why child stars 'go crazy'</a></li>
+			      				        	<li><a href="/celebrities/2013053012821/leonardo-dicaprio-new-girlfriend-toni-garrn/">Leonardo DiCaprio reportedly dating Victoria's Secret model Toni Garrn</a></li>
+			      				        	<li><a href="/celebrities/2013053012823/kim-kardashian-to-reveal-sex-of-baby/">Kim Kardashian to reveal baby's sex on show</a></li>
+			      				        	<li><a href="/celebrities/2013052812791/cauldwell-childrens-butterly-ball-2013/">The Duchess of York, Donna Air and Joan Collins attend glamorous charity ball</a></li>
+			      				        	<li><a href="/fashion/2013053012824/luisana-lopilato-new-ultimo-campaign/">Michael Buble's wife Luisana Lopilato sizzles in new swimwear campaign</a></li>
 			      	      			</ul>		</div>
 	</div>
 
@@ -478,7 +477,7 @@
 	</div>
 	
 
-</div></div><!-- Cierre InSkin --> 
+</div></div><!-- Cierre InSkin -->
 <footer>
 	<div class="fringe">
 	 <div class="container">
@@ -486,12 +485,12 @@
    		<li class="dropdown boton spaceRight20" id="globalSitesFooter">
 				<a class="arrowButton dropdown-toggle" data-toggle="dropdown">Global sites: <strong>UK</strong></a>
 				<ul class="dropdown-menu">
-					<li><a target="_blank" title="HELLO! Canada" rel="nofollow" href="http://www.hellomagazine.ca/">Canada <strong>CA</strong></a></li>
-					<li><a target="_blank" title="HELLO! Greece" rel="nofollow" href="http://www.hellomag.gr/">Greece<strong>GR</strong></a></li>
-					<li><a target="_blank" title="HELLO! Russia" rel="nofollow" href="http://www.hellorussia.ru/">Russia<strong>RU</strong></a></li>
-					<li><a target="_blank" title="�HOLA! Spain" href="http://www.hola.com/">Spain <strong>ES</strong></a></li>
-					<li><a rel="nofollow" href="http://www.hola.com/loc/?site=mx">Mexico<strong>MX</strong></a></li>
-					<li><a target="_blank" title="�HOLA! Argentina" rel="nofollow" href="http://www.hola.com.ar/">Argentina<strong>AR</strong></a></li>
+										<li><a target="_blank" title="HELLO! United States" rel="nofollow" href="http://us.videos.hellomagazine.com/">United States <strong class="fRight">US</strong></a></li>
+										<li><a target="_blank" title="HELLO! Canada" rel="nofollow" href="http://www.hellomagazine.ca/">Canada <strong class="pull-right">CA</strong></a></li>
+					<li><a target="_blank" title="HELLO! Russia" rel="nofollow" href="http://www.hellorussia.ru/">Russia<strong class="pull-right">RU</strong></a></li>
+					<li><a target="_blank" title="�HOLA! Spain" href="http://www.hola.com/">Spain <strong class="pull-right">ES</strong></a></li>
+					<li><a rel="nofollow" href="http://www.hola.com/loc/?site=mx">Mexico<strong class="pull-right">MX</strong></a></li>
+					<li><a target="_blank" title="�HOLA! Argentina" rel="nofollow" href="http://www.hola.com.ar/">Argentina<strong class="pull-right">AR</strong></a></li>
 				</ul>
 			</li>
    		<li class="boton">
@@ -506,7 +505,7 @@
 						<li><a href="http://www.hellomagazine.com/celebrities-news-in-pics/" title="News in Pictures">News in Pictures</a></li>
 						<li><a href="http://www.hellomagazine.com/profiles/" title="Profiles">Profiles</a></li>
 						<li><a href="http://www.hellomagazine.com/specials/" title="Galleries/Specials">Galleries/Specials</a></li>
-						<li><a href="http://oscars.hellomagazine.com/" target="_blank" title="Oscars 2012 Special">Oscars 2012 Special</a></li>
+						<li><a href="http://oscars.hellomagazine.com/" target="_blank" title="Oscars 2013 Special">Oscars 2013 Special</a></li>
 					</ul>
           <ul>
 						<h3><a href="http://www.hellomagazine.com/fashion/" title="Fashion">Fashion</a></h3>
@@ -578,9 +577,9 @@
     </div>
 	</div>
 	</div>
-    <div class="container">
-    	<div class="row">
-        <div class="span6">
+    <div class="container" style="width:958px;">
+    	<div class="row" style="margin-left:0px;">
+        <div class="span6" style="margin-left:0px;">
             <header>
                 <h1>Site info</h1>
             </header>
@@ -606,7 +605,7 @@
         </div>
     	</div>
     	<small>
-        © 2001-2012, HELLO! - All rights reserved
+        © 2001-2013, HELLO! - All rights reserved
       	<a class="logo iconSprite pull-right" href="http://www.hellomagazine.com/" target="_top" accesskey="1" title="HELLO! homepage, The place for daily celebrity, fashion and beauty news">HELLO! homepage, The place for daily celebrity, fashion and beauty news</a>
       </small>
     </div>
@@ -616,30 +615,71 @@
 <script language="JavaScript" type="text/JavaScript">
 <!--
 rdm= Math.random()*1000000000000000000;
-//alert("<img src=\"http://id.hellomagazine.com/idcookie/pixel.png?"+rdm+"\" width=\"1\" height=\"1\">");
 document.write("<img src=\"http://id.hellomagazine.com/idcookie/pixel.png?"+rdm+"\" width=\"1\" height=\"1\">");
 -->
-</script><img src="http://id.hellomagazine.com/idcookie/pixel.png?782807241507415400" width="1" height="1">
+</script><img src="http://id.hellomagazine.com/idcookie/pixel.png?692263754171722200" width="1" height="1">
 
 
-<!-- GOOGLE 2009/06/04 /JE/ -->
+<!-- GOOGLE 2013/05/08  -->
 <script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-663315-1");
-	pageTracker._setDomainName(".hellomagazine.com");
-	pageTracker._setCookieTimeout("2592000");
-pageTracker._trackPageview();
-} catch(err) {}</script>
+
+  var _gaq = _gaq || [];
+
+  _gaq.push(['_setAccount', 'UA-663315-1']);
+  _gaq.push(['_setDomainName', 'hellomagazine.com']);
+  _gaq.push(['_setCampaignCookieTimeout', 2592000]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
 <!-- /GOOGLE -->
+
+
+<script type="text/javascript" src="http://static.criteo.net/js/universal/v0_5_4/criteo_ld.js" async="true"></script>
+
+
+<script type="text/javascript">
+var currentTime = new Date()
+var y = currentTime.getFullYear().toString()
+var m = currentTime.getMonth()+2
+if (m <10) { m = "0"+ m}
+if (m > 12) { m = m -12 ; y++}
+var firstnext= y+ "-" + m + "-01"
+var d = daysInMonth(m,y)
+var lastnext= y + "-" + m + "-" + d
+var CRITEO_CONF = [[{
+    pageType: 'home'
+},
+{
+    pageType: 'search',
+'DIn': firstnext,
+    'DOut': lastnext
+}
+], [8868, 'pgi', '', '010', [[7726539, 7726540]],{'DIn': ['din', 0],'DOut': 
+['dout', 0]}]];
+if (typeof (CRITEO) != "undefined") {
+    CRITEO.Load(false);
+}
+function daysInMonth(month,year) {
+var m = [31,28,31,30,31,30,31,31,30,31,30,31];
+if (month != 2) return m[month - 1];
+if (year%4 != 0) return m[1];
+if (year%100 == 0 && year%400 != 0) return m[1];
+return m[1] + 1;
+}</script>
+
+	
 
 
 
 </div>
-	<script type="text/javascript">objPageSkin.init();</script>
+	<script type="text/javascript"> window.objPageSkin.init();</script>
+
 <!-- Navbar
 ================================================== -->
 <div class="navbar navbar-fixed-top">
@@ -655,26 +695,26 @@ pageTracker._trackPageview();
 					<li class="dropdown" id="globalSitesMenu">
 						<a class="dropdown-toggle" data-toggle="dropdown">Global sites: <strong>UK</strong></a>
 						<ul class="dropdown-menu">
-							<li><a target="_blank" title="HELLO! Canada" rel="nofollow" href="http://www.hellomagazine.ca/">Canada <strong class="pull-right">CA</strong></a></li>
-							<li><a target="_blank" title="HELLO! Greece" rel="nofollow" href="http://www.hellomag.gr/">Greece<strong class="pull-right">GR</strong></a></li>
+														<li><a target="_blank" title="HELLO! United States" rel="nofollow" href="http://us.videos.hellomagazine.com/">United States <strong class="fRight">US</strong></a></li>
+														<li><a target="_blank" title="HELLO! Canada" rel="nofollow" href="http://www.hellomagazine.ca/">Canada <strong class="pull-right">CA</strong></a></li>
 							<li><a target="_blank" title="HELLO! Russia" rel="nofollow" href="http://www.hellorussia.ru/">Russia<strong class="pull-right">RU</strong></a></li>
 							<li><a target="_blank" title="¡HOLA! Spain" href="http://www.hola.com/">Spain <strong class="pull-right">ES</strong></a></li>
 							<li><a rel="nofollow" href="http://www.hola.com/loc/?site=mx">Mexico<strong class="pull-right">MX</strong></a></li>
 							<li><a target="_blank" title="¡HOLA! Argentina" rel="nofollow" href="http://www.hola.com.ar/">Argentina<strong class="pull-right">AR</strong></a></li>
 						</ul>
 					</li>
-					<li><a title="Video content" href="http://www.hellomagazine.com/videos/">Videos</a></li>
-					<li><a title="Hellomagazine.com blogs" href="http://www.hellomagazine.com/blogs/">Blogs</a></li>
+					<li><a title="HELLO! TV, video content" href="http://videos.hellomagazine.com/">HELLO! TV</a></li>
+					<li><a title="hellomagazine.com blogs" href="http://www.hellomagazine.com/blogs/">Blogs</a></li>
 					<li><a title="Jonathan Cainer horoscope forecasts on hellomagazine.com" href="http://www.hellomagazine.com/horoscopes/">Horoscope</a></li>
 									</ul>
-				<form id="form-buscador" class="navbar-search pull-right" method="get" action="/search/results.html">
+								<form id="form-buscador" class="navbar-search pull-right" method="get" action="/search/results.html">
 					<input type="hidden" name="cx" value="partner-pub-4504953094998606:e12ascyi1wz">
 					<input type="hidden" name="cof" value="FORID:11">
 				  	<input type="hidden" name="ie" value="ISO-8859-1">
 						<input type="text" id="query_string" value="" name="q" class="search-query" placeholder="Search">
 				  	<input type="submit" name="Submit" value="" class="formBoton">
 				</form>
-				<h2 class="logo pull-right">
+							<h2 class="logo pull-right">
 					<a class="iconSprite" href="http://www.hellomagazine.com/" target="_top" accesskey="1" title="HELLO! homepage, The place for daily celebrity, fashion and beauty news">HELLO! homepage, The place for daily celebrity, fashion and beauty news</a>
 				</h2>
 			</div>
