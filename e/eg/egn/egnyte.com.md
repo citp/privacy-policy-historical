@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the egnyte.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229072132id_/http%3A//www.egnyte.com/corp/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the egnyte.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530144038id_/https%3A//www.egnyte.com/corp/privacy_policy.html) for the most accurate reproduction.*
 
 # Egnyte - Privacy Policy
 
@@ -14,7 +14,7 @@ Egnyte complies with the EU Safe Harbor framework as set forth by the Department
 
 The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site.
 
-YOUR USE OF THE WEBSITE OR THE SERVICES OFFERED BY EGNYTE ON THE WEBSITE IS CONDITIONED UPON YOUR ACCEPTANCE OF THE TERMS OF SERVICE LOCATED AT [http://www.egnyte.com](http://www.egnyte.com/) AS WELL AS THIS PRIVACY POLICY. IF YOU DO NOT ACCEPT THE TERMS OF SERVICE OR TERMS OF THIS PRIVACY POLICY, DO NOT USE THE WEBSITE OR SERVICES OFFERED BY EGNYTE.
+YOUR USE OF THE WEBSITE OR THE SERVICES OFFERED BY EGNYTE ON THE WEBSITE IS CONDITIONED UPON YOUR ACCEPTANCE OF THE TERMS OF SERVICE LOCATED AT [TERMS OF SERVICE](https://web.archive.org/corp/terms_of_service.html) AS WELL AS THIS PRIVACY POLICY. IF YOU DO NOT ACCEPT THE TERMS OF SERVICE OR TERMS OF THIS PRIVACY POLICY, DO NOT USE THE WEBSITE OR SERVICES OFFERED BY EGNYTE.
 
 ## What Information Is Collected
 
@@ -94,4 +94,11 @@ Attn: Kris Lahiri
 Mountain View, CA 94043  
 [inquiry@egnyte.com](mailto:inquiry@egnyte.com)
 
-Last Updated 06/29/2011
+Last Updated 02/05/2013
+
+## Egnyte Information
+
+[Egnyte HIPAA Statement](https://web.archive.org/corp/pdfs/HIPAA-Statement.pdf) [PDF]
+
+[HIPAA Business Associate Agreement](https://web.archive.org/corp/pdfs/egnyte-hipaa-business-associate-agreement.pdf)   
+[PDF]
