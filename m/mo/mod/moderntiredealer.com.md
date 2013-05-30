@@ -1,74 +1,87 @@
-> *The following text is extracted and transformed from the moderntiredealer.com privacy policy that was archived on 2009-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090406205359id_/http%3A//www.moderntiredealer.com/Content/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moderntiredealer.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530235951id_/http%3A//www.moderntiredealer.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Modern Tire Dealer
+# Privacy Policy - Bobit Business Media
 
-  
-Bobit Business Media - Modern Tire Dealer
+BOBIT BUSINESS MEDIA PRIVACY POLICY FOR ALL PUBLICATIONS, EVENTS AND DIGITAL PROPERTIES
 
-**Information We Collect**  
-At some Bobit Business Media sites, you can order products, register, enter contests, vote in polls or otherwise express an opinion, subscribe to one of our services such as our online newsletters, or participate in one of our online forums or communities. The types of personally identifiable information that may be collected at these pages include: name, address, e-mail address, telephone number, fax number, credit card information, and information about your interests in and use of various products, programs, and services.
+EFFECTIVE NOVEMBER 1, 2012
 
-At some other Bobit Business Media sites, you can submit information about other people. For example, you might submit a person's name and e-mail address to send an electronic greeting card and, if you order a gift online and want it sent directly to the recipient, you might submit the recipient's name and address. The types of personally identifiable information that may be collected about other people at these pages include: recipient's name, address, e-mail address, and telephone number. 
+Bobit Business Media (“BBM” or “we”) recognizes the importance of protecting the privacy of information provided to us. We provide this notice in order to make sure that your expectations and our practices are aligned and that you are aware of your choices with regard to our use and disclosure of the information you provide to us.  Accordingly, we comply with all federal and state privacy laws, the [CAN-SPAM](http://business.ftc.gov/documents/bus61-can-spam-act-compliance-guide-business) act and follow industry best practices to best serve our community. We consider all subscribers, customers, members, web visitors, registrants, conference attendees and speakers part of the Bobit Business Media community. The following guidelines have been created to demonstrate our commitment to your privacy.
 
-At certain parts of some of our sites, only persons who provide us with the requested personally identifiable information will be able to order products, programs, and services or otherwise participate in the site's activities and offerings.
+Our location and contact information:
 
-We also may collect certain non-personally identifiable information when you visit many of our web pages such as the type of browser you are using (e.g., Netscape, Internet Explorer), the type of operating system you are using, (e.g., Windows '98 or Mac OS) and the domain name of your Internet service provider (e.g., America Online, Earthlink).
-
-**How We Use this Information**  
-We may use the information you provide about yourself to fulfill your requests for our products, programs, and services, to respond to your inquiries about offerings, and to offer you other products, programs or services that we believe may be of interest to you.
-
-We sometimes use this information to communicate with you, such as to notify you when you have won one of our contests/sweepstakes/drawings or when we make changes to subscriber agreements, to fulfill a request by you for an online newsletter, or to contact you about your account with us.
-
-We use the information that you provide about others to enable us to send them your gifts or cards.
-
-If you choose to submit content for publication (e.g., a "letter to our editors"), we may publish your screen name and other information you have provided to us. 
-
-The information we collect in connection with our online forums and communities is used to provide an interactive experience. We use this information to facilitate participation in these online forums and communities and, from time to time, to offer you products, programs, or services.
-
-We sometimes use the non-personally identifiable information that we collect to improve the design and content of our site and to enable us to personalize your Internet experience. We also may use this information in the aggregate to analyze site usage, as well as to offer you products, programs, or services.
-
-We will disclose information we maintain when required to do so by law, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency's request.
-
-Agents and contractors of Bobit Business Media who have access to personally identifiable information are required to protect this information in a manner that is consistent with this Privacy Policy by, for example, not using the information for any purpose other than to carry out the services they are performing for Bobit Business Media.
-
-Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Policy. Inadvertent disclosures may result, for example, when third parties misrepresent their identities in asking the site for access to personally identifiable information about themselves for purposes of correcting possible factual errors in the data.  
-**  
-** **Privacy Options**  
-If you prefer not to receive e-mail marketing information from Bobit Business Media sites or companies not owned by Bobit Business Media, you will always have an option to opt out within the e-mail. You may also request to be removed by [clicking here](http://www.moderntiredealer.com/ContactUs/) and e-mailing us.
-
-Finally, Bobit Business Media sites will not use or transfer personally identifiable information provided to us in ways unrelated to the ones described above without also providing you with an opportunity to opt out of these unrelated uses. 
-
-**Collection of Information by Third-Party Sites and Sponsors**  
-Some of our sites contain links to other sites whose information practices may be different than ours. Visitors should consult the other sites' privacy notices, as we have no control over information that is submitted to, or collected by, these third parties.
-
-Bobit Business Media sites sometimes may offer contests, sweepstakes, or promotions that are sponsored by or co-sponsored with identified third parties. By virtue of their sponsorship, these third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the contest, drawings, sweepstakes, or promotion. Bobit Business Media has no control over the third-party sponsors' use of this information. The Bobit Business Media site will notify you at the time of requesting personally identifiable information if third-party sponsors will obtain such information.
-
-Bobit Business Media sites may use reputable third parties to present or serve the advertisements that you may see at its web pages and to conduct research about the advertisements. Our privacy policy does not cover any use of information that such third parties may have collected from you or the methods used by the third-parties to collect that information (e.g., cookies, web beacons and clear gifs).  
-**  
-** **Cookies**  
-To enhance your experience with our sites, many of our web pages use "cookies." Cookies are text files we place in your computer's browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us by, for example, registering at one of our sites. However, once you choose to furnish the site with personally identifiable information, this information may be linked to the data stored in the cookie.
-
-We use cookies to understand site usage and to improve the content and offerings on our sites. For example, we may use cookies to personalize your experience at our web pages (e.g. to recognize you by name when you return to our site), save your password in password-protected areas, and enable you to use shopping carts on our sites. We also may use cookies to offer you products, programs, or services.
-
-We may also use small pieces of code called "web beacons" or "clear gifs" to collect anonymous and aggregate advertising metrics, such as counting page views, promotion views, or advertising responses. These "web beacons" may be used to deliver cookies that conform to our cookie policy. 
-
-**Our Commitment to Security**  
-We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online. 
-
-**How You can Access or Correct Information**  
-For instructions on how you can access the personally identifiable information that this Bobit Business Media site has collected about you online, or how to correct factual errors in such information, please email us by [clicking here](http://www.moderntiredealer.com/ContactUs/). 
-
-To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections. 
-
-**Policy Changes**  
-Make sure to check this page to ensure you stay informed about any policy changes that may take place.
-
-**How to Contact Us**  
-If you have any questions or concerns about the Bobit Business Media online policy for this site or its implementation please contact us via email by [clicking here](http://www.moderntiredealer.com/ContactUs/) or at the following address:
-
+Privacy Manager  
 Bobit Business Media  
-Attention: Web Services  
 3520 Challenger Street  
-Torrance CA 90503
+Torrance, CA 90503  
+Phone: (310) 533-2577  
+E-mail:  [Privacy@Bobit.com](mailto:Privacy@Bobit.com)
 
-[](http://www.moderntiredealer.com/Enews/SignUp.aspx) Join the MTD eNews and receive the latest news in your e-mail inbox once a week. [Sign Up Now!](http://www.moderntiredealer.com/Enews/SignUp.aspx)
+#### Collected Information
+
+The information we collect is gathered from several sources. These include our conferences, product subscription forms/registrations, reader service cards, website message postings, survey information and purchases via telephone, direct mail, email, and other electronic sources. From these sources we may collect postal addresses, e-mail addresses, telephone numbers, and/or demographic information for those individuals that volunteer such information. For each visitor to our websites, our web server automatically recognizes the visitor’s domain name and IP address only, but no other identifiable information unless voluntarily provided. In addition, we collect aggregate information on what web pages visitors’ access or visit.
+
+#### How We Use Collected Information
+
+The information we collect is used to improve the content of our web pages, to customize the content and layout of our pages for each individual visitor, and/or to notify visitors about updates to our website. As part of a subscription and/or registration agreement, subscribers and registrants will be contacted by us through mail, e-mail, and/or phone to communicate with them about their subscription and/or registration. They will be contacted for renewal, re-qualification, surveys, updates concerning their account profile and special offers related to their subscription and/or registration. We also use the information to contact them for marketing purposes and share this information with other reputable organizations to allow them to contact our subscribers and registrants. We never share individual contact information about our members with advertisers or third party vendors unless otherwise specified when the information is collected. Certain promotions or events (White Papers, Expo Registration, etc.) may necessitate the sharing of Personally Identifiable Information with reputable 3rd Party vendors.  We will always notify you at time of registration when these instances occur.  Certain information — such as your password and credit card number — is never disclosed in any form whatsoever to any outside party.
+
+#### Email Communications
+
+If you have registered for our products and/or services, and have supplied an e-mail address, you will receive emails pertaining to your subscription and/or registration. These are sent in order to maintain your account with Bobit Business Media. You can “opt-out” from receiving these types of e-mails by using the opt-out mechanism located within a received e-mail message.
+
+For marketing e-mails, we retain three types of usage permission for submitted e-mail addresses as defined below. We allow you to “opt out” of receiving marketing e-mails about Bobit Business Media products and from outside companies either in response to a received e-mail or within this Privacy Policy.
+
+  * **Emails about Other Bobit Business Media Products and Services**  
+If you volunteer an e-mail address you may be contacted by us regarding other Bobit Business Media products, services, and/or upcoming events that are related to one of the [Publishing Groups](http://www.bobitbusinessmedia.com/Markets-We-Serve/Automotive.aspx) within which your account resides. If you do not wish to receive these types e-mails from us, please let us know by [clicking here ](https://bob.sub-forms.com/dragon/init.do?site=BOB6226_moptout)and following the steps provided, calling us at the above telephone number, or writing to us at the above address.
+  * **Emails from Outside Companies**  
+If you volunteer an e-mail address you may be contacted by carefully selected outside companies for reputable promotional purposes. If you do not wish to receive e-mails from other companies, please let us know by [clicking here ](https://bob.sub-forms.com/dragon/init.do?site=BOB6225_tpoptout)and following the steps provided, calling us at the above telephone number, or writing to us at the above address.
+  * **All Emails**  
+If you wish to opt-out of all types of e-mail marketing messages, please let us know by [clicking here ](https://bob.sub-forms.com/dragon/init.do?site=BOB6225_soptout)and following the steps provided, calling us at the above telephone number or writing to us at the above address.
+
+
+
+It will take up to 10 business days to process your e-mail opt-out request. Please note that you may receive additional communications from us or an outside company after submitting your request if your e-mail address was selected from our database just prior to receiving and processing your request.
+
+#### Postal Communications
+
+If you volunteer a postal address, you may receive periodic mailings to relate information about new products, services, and/or upcoming events. We may also provide this information to other carefully selected outside companies for promotional purposes. If you do not wish to receive mailings from us directly or through our partnerships with other companies, please let us know by contacting us at the above telephone number, postal or email address.
+
+It will take up to 3 months to process your do-not-mail request. Please note that you may receive additional communications from us or other companies after submitting your request if your postal address was selected from our database just prior to receiving and processing your request.
+
+#### Telephone Communications
+
+If you volunteer a telephone number you may receive periodic telephone calls about new products, services, and/or upcoming events. We may also provide this information to carefully selected outside companies for promotional purposes. If you do not wish to receive telephone calls from us directly or through our partnerships with other companies, please let us know by contacting us at the above telephone number, postal or email address.
+
+It will take up to 1 month to process your do-not-call request. Please note that you may receive additional communications from us or other companies after submitting your request if your telephone number was selected from our database just prior to receiving and processing your request.
+
+#### Fax Communications
+
+If you volunteer a fax number you may receive promotional faxes on a very limited basis. Only those with whom we have an existing business relationship (such as an established subscription or registration) will receive such faxes. If you do not wish to receive such faxes, please let us know by contacting us at the above telephone number, postal or email address.  It will take up to 1 month to process your do-not-fax request. Please note that you may receive additional communications from us after submitting your request if your fax number was selected from our database just prior to receiving and processing your request.
+
+#### Accessing/Correcting/Updating Personal Information
+
+You may view and update information that you previously submitted to BBM by sending us an e-mail through the e-mail link provided above or writing to us at the above address.  This information can be corrected by sending us an e-mail through the e-mail link provided above or writing to us at the above address. Current subscribers and registrants can also access and change their information through our websites by selecting the appropriate link on the website where their current subscription/registration resides.  A request to change information may not be accommodated if the request would conflict with legal requirements or result in incorrect information.  Requests to view or change personal information may take a few days to process.
+
+#### Cookies
+
+We use cookies to store visitors' preferences, record session information (such as items that visitors add to their shopping carts), record user-specific information such as what pages users access or visit, customize advertising content and/or frequency, customize web page content based on a visitor's browser type or other information that the visitor sends, and store users’ names and passwords.  A cookie is a small amount of data sent to your browser from a server and stored on your computer’s hard drive.  Most browsers allow users to block the receipt of cookies, but doing so may compromise your ability to use certain features of our site.  We do not collect Personally Identifiable Information in this way, but if you provide us with Personally Identifiable Information, we may associate that information with the information that is collected automatically.
+
+We also use third-party advertising companies to serve ads to visitors on our websites. These companies may use information (not including visitors' names, addresses, email addresses, or telephone numbers) about visits to this and other websites in order to provide advertisements about goods and services of interest to visitors. For more information about this practice and choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).  To learn more about behavioral advertising practices or to opt-out of this type of advertising for some companies, you can visit [http://www.networkadvertising.org](http://www.networkadvertising.org/) and <http://www.networkadvertising.org/managing/opt_out.asp>
+
+#### Ad Servers
+
+To try and bring you offers that may be of interest to you, we have relationships with other carefully selected companies that we allow to place ads on our web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address, and clickstream information. The use of such information is governed by the privacy policy of these other companies.
+
+#### Security
+
+Bobit Business Media takes every precaution to protect your information from unauthorized use. When you submit sensitive information via our websites, the information is protected both online and offline.
+
+Children should always get permission from their parents before sending any information about themselves (such as their names, e-mail addresses, and phone numbers) over the Internet, to us or to anyone else. We won’t knowingly allow anyone under 13 to register with us or to provide any other personal information. If you’re under 13, please do not provide us with any personal information about yourself (such as your name, your e-mail address or your phone number).
+
+#### Policy Updates
+
+From time to time, we may use provided information for new, unanticipated uses not previously disclosed in our privacy policy. If our information practices change we will immediately post any adjustments to our policy on this website. This will serve as your notification of these changes. If you are concerned about how your information is used, bookmark this page and check back periodically.
+
+#### Enforcement
+
+If you feel that this site is not following its stated information policy, please contact us through the above postal address, e-mail link, or phone number.
