@@ -1,9 +1,11 @@
-<!--The following is the downloaded HTML source of the chubbyparade.com privacy policy that was archived on 2012-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121216041812id_/http%3A//chubbyparade.com/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the chubbyparade.com privacy policy that was archived on 2013-05-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130530041910id_/http%3A//chubbyparade.com/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en"><head>
 <title>DMCA Policy - Chubby Parade</title>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
 
 
 
@@ -32,8 +34,6 @@
 
 <link rel="shortcut icon" href="http://chubbyparade.com/favicon.ico" type="image/x-icon">
 <link rel="apple-touch-icon-precomposed" href="http://chubbyparade.com/images/apple-touch-icon-144x144.png">
-
-
 
 <style type="text/css" media="print">acronym:after {content: " (" attr(title) ")";}</style>
 
@@ -162,11 +162,11 @@ td, th, p, li
 }
 .wysiwyg a:link, .wysiwyg_alink
 {
-	color: #22229C;
+	color: #101010;
 }
 .wysiwyg a:visited, .wysiwyg_avisited
 {
-	color: #22229C;
+	color: #101010;
 }
 .wysiwyg a:hover, .wysiwyg a:active, .wysiwyg_ahover
 {
@@ -275,7 +275,7 @@ legend
 {
 	background: #FFFFFF;
 	color: #000000;
-	border: 1px solid #0B198C;
+	border: 1px solid #666666;
 }
 .vbmenu_option
 {
@@ -287,12 +287,12 @@ legend
 }
 .vbmenu_option a:link, .vbmenu_option_alink
 {
-	color: #22229C;
+	color: #101010;
 	text-decoration: none;
 }
 .vbmenu_option a:visited, .vbmenu_option_avisited
 {
-	color: #22229C;
+	color: #101010;
 	text-decoration: none;
 }
 .vbmenu_option a:hover, .vbmenu_option a:active, .vbmenu_option_ahover
@@ -323,6 +323,40 @@ legend
 	color: #FFFFFF;
 	text-decoration: none;
 }
+/*NEW BUTTONS 2013*/
+.button{
+    margin:0 7px 0 0;
+    background-color:#f5f5f5;
+    border:1px solid #dedede;
+    border-top:1px solid #eee;
+    border-left:1px solid #eee;
+
+    font-family:"Lucida Grande", Tahoma, Arial, Verdana, sans-serif;
+    font-size:12px;
+    line-height:130%;
+    text-decoration:none;
+    font-weight:bold;
+    color:#3C2f2f;
+    cursor:pointer;
+    padding:5px 7px 6px 7px; /* Links */
+
+    width:auto;
+    overflow:visible;
+    /*padding:4px 10px 3px 7px;*/ /* IE6 */
+
+    line-height:17px; /* Safari */
+}
+.button:hover{
+    background:#fbe3e4;
+    border:1px solid #fbc2c4;
+    color:#d12f19;
+}
+.button:active{
+    background-color:#d12f19;
+    border:1px solid #d12f19;
+    color:#fff;
+}
+
 .wol_headline{border-bottom:1px solid #cccccc;}
 .wolh{margin-left:5px;margin-top:8px;}
 .cl{clear:both}
@@ -498,13 +532,9 @@ margin-right:5px;
 .bm_Delicious{background-position:-95px 0px;}
 .bm_StumbleUpon{background-position:-16px 0px;}
 .bm_Google{background-position:-127px 0px;}
-.bm_Yahoo{background-position:-80px 0px;}
-.bm_Newsvine{background-position:-32px 0px;}
 .bm_MisterWong{background-position:-143px 0px;}
-.bm_Propeller{background-position:-48px 0px;}
 .bm_Blinklist{background-position:-159px 0px;}
 .bm_Facebook{background-position:-111px 0px;}
-.bm_Myspace{background-position:-64px 0px;}
 .bm_Reddit{background-position:-175px 0px;}
 
 .forumsprite{
@@ -791,6 +821,8 @@ form { display: inline; }
 label { cursor: default; }
 .normal { font-weight: normal; }
 .inlineimg { vertical-align: middle; }
+
+canvas {-ms-touch-action: double-tap-zoom;} /*IE WIN8*/
 #highlight { padding:0px; border:1px solid red; font-weight:bold }
 #calendar_today {background-color:transparent;color:red;font-size: 130%;font-style:italic; font-weight:bold;}
 .daybox {padding:0px}
@@ -831,11 +863,13 @@ label {cursor: default;}
 
 <!-- /CSS Stylesheet -->
 
+
+
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/yui/2.9.0/build/yahoo-dom-event/yahoo-dom-event.js?v=387"></script>
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/yui/2.9.0/build/connection/connection-min.js?v=387"></script>
 <script type="text/javascript">
 <!--
-var SESSIONURL = "";
+var SESSIONURL = "s=22e6a4cca569f51037ed4fd299f0ee11&";
 var SECURITYTOKEN = "guest";
 var IMGDIR_MISC = "http://chubbyparade.com/forum/images/new_misc";
 var vb_disable_ajax = parseInt("0", 10);
@@ -856,11 +890,8 @@ document.onkeydown = setKeyDown;
 
 <style type="text/css">
 .padded{padding:6px}
-
 body {
-/*
-background-color:#ebebeb; background-image: url(http://chubbyparade.com/images/bg.jpg); 
-*/
+/*background-color:#ebebeb; background-image: url(http://chubbyparade.com/images/bg.jpg); */
 background-color:#ebebeb; background-image: url(data:image/jpeg;base64,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);
 background-repeat: repeat-x;
 }
@@ -884,9 +915,11 @@ if (document.getElementById(elementid).style.display == 'none'){
 }
 //-->
 </script>
+
+<meta name="application-name" content="Chubby Parade"><meta name="msapplication-TileColor" content="#FFFFFF"><meta name="msapplication-TileImage" content="/images/322240de-38b0-4ea4-91fb-0103cc9cf552.png">
 </head>
 <body>
-<!-- logo --><a name="top"></a>
+<a name="top"></a>
 
 
 
@@ -902,10 +935,7 @@ if (document.getElementById(elementid).style.display == 'none'){
 
 
 
-
 	<div style="padding:0px;margin:0px;padding-top:10px;font-size:40px;font-family:Arial, Helvetica, sans-serif;">CHUBBYPARADE</div>
-
-
 
 
 
@@ -923,7 +953,6 @@ if (document.getElementById(elementid).style.display == 'none'){
 	
 	</div>
 
-
 	</td>
 
 	 <!--not gallery-->
@@ -933,10 +962,8 @@ if (document.getElementById(elementid).style.display == 'none'){
 		<div id="rightba" style="margin:8px 0px 8px 0px;">
 		
 
-
 			<!--guests-->
 			<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" width="414" height="90"><param name="allowScriptAccess" value="always"><param name="bgcolor" value="#000000"><param name="flashvars" value="link=http://join.xlgirls.com/track/scrg12898.cf.xlgirls.xlgirls.2.7008407.0.0.0/main.php"><param name="loop" value="true"><param name="movie" value="http://join.xlgirls.com/banner/scrg12898.cf.xlgirls.xlgirls.2.7008407.0.0.0"><param name="quality" value="best"><param name="wmode" value="transparent"><embed src="http://join.xlgirls.com/banner/scrg12898.cf.xlgirls.xlgirls.2.7008407.0.0.0" allowscriptaccess="always" flashvars="link=http://join.xlgirls.com/track/scrg12898.cf.xlgirls.xlgirls.2.7008407.0.0.0/main.php" quality="high" wmode="transparent" width="414" height="90" loop="true" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></object>
-
 
 		
 		</div><!--rightba-->
@@ -964,29 +991,29 @@ if (document.getElementById(elementid).style.display == 'none'){
 <div class="vbmenu_popup" id="vbbloglinks_menu" style="display:none;margin-top:3px" align="left">
 	<table cellpadding="4" cellspacing="1" border="0">
 	<tbody><tr>
-		<td class="thead"><a href="blog.php">Blogs</a></td>
+		<td class="thead"><a href="blog.php?s=22e6a4cca569f51037ed4fd299f0ee11">Blogs</a></td>
 	</tr>
 	
 	<tr>
-		<td class="vbmenu_option"><a href="blog.php?do=list">Recent Entries</a></td>
+		<td class="vbmenu_option"><a href="blog.php?s=22e6a4cca569f51037ed4fd299f0ee11&amp;do=list">Recent Entries</a></td>
 	</tr>
 	<tr>
-		<td class="vbmenu_option"><a href="blog.php?do=list&amp;blogtype=best">Best Entries</a></td>
+		<td class="vbmenu_option"><a href="blog.php?s=22e6a4cca569f51037ed4fd299f0ee11&amp;do=list&amp;blogtype=best">Best Entries</a></td>
 	</tr>
 	<tr>
-		<td class="vbmenu_option"><a href="blog.php?do=bloglist&amp;blogtype=best">Best Blogs</a></td>
+		<td class="vbmenu_option"><a href="blog.php?s=22e6a4cca569f51037ed4fd299f0ee11&amp;do=bloglist&amp;blogtype=best">Best Blogs</a></td>
 	</tr>
 	<tr>
-		<td class="vbmenu_option"><a href="blog.php?do=bloglist">Blog List</a></td>
+		<td class="vbmenu_option"><a href="blog.php?s=22e6a4cca569f51037ed4fd299f0ee11&amp;do=bloglist">Blog List</a></td>
 	</tr>
 	
 	<tr>
-		<td class="vbmenu_option"><a href="blog_search.php?do=search">Search Blogs</a></td>
+		<td class="vbmenu_option"><a href="blog_search.php?s=22e6a4cca569f51037ed4fd299f0ee11&amp;do=search">Search Blogs</a></td>
 	</tr>
 	
 	</tbody></table>
 </div>
-<div style="background-color:#FFFFFF;padding-bottom:20px;">
+<div style="padding-bottom:20px" id="newnavbar">
 
 <table id="navbar" border="0" width="100%" cellpadding="0" cellspacing="0" align="center" class="thead" style="height:34px">
 <tbody><tr>
@@ -1012,12 +1039,12 @@ if (document.getElementById(elementid).style.display == 'none'){
 		}
 		//-->
 		</script>
-		<a href="javascript:showInfo();" title="See who's in the chat" rel="nofollow">(6)</a>
+		<a href="javascript:showInfo();" title="See who's in the chat" rel="nofollow">(3)</a>
 	
 </td>
 
 <td width="10%" class="ntd1">
-	<a href="http://chubbyparade.com/gallery/index.php">Gallery</a>
+	<a href="http://chubbyparade.com/gallery/index.php?s=22e6a4cca569f51037ed4fd299f0ee11">Gallery</a>
 </td>
 
 
@@ -1035,9 +1062,10 @@ if (document.getElementById(elementid).style.display == 'none'){
 </td>
 
 		
-		<td width="10%"><a href="http://chubbyparade.com/forum/forumdisplay.php?do=markread&amp;markreadhash=guest" rel="nofollow">Mark Forums Read</a></td>
+		<td width="10%"><a href="http://chubbyparade.com/forum/forumdisplay.php?s=22e6a4cca569f51037ed4fd299f0ee11&amp;do=markread&amp;markreadhash=guest" rel="nofollow">Mark Forums Read</a></td>
 			
 	
+
 
 </tr></tbody></table>
 
@@ -1045,30 +1073,33 @@ if (document.getElementById(elementid).style.display == 'none'){
 <tbody><tr>
 <td class="navbar2_td nv2_lc">&nbsp;</td>
 	
- <td width="11%">
- <a href="http://chubbyparade.com/forum/register.php" rel="nofollow">Register</a>
+ <td width="12%">
+ <a href="http://chubbyparade.com/forum/register.php?s=22e6a4cca569f51037ed4fd299f0ee11" rel="nofollow">Register</a>
  </td>
 	
-<td width="11%" class="navbar2_td">
-<a href="http://chubbyparade.com/forum/showthread.php?t=74">Forum Rules</a>
+<td width="12%" class="navbar2_td">
+<a href="http://chubbyparade.com/forum/showthread.php?t=74?s=22e6a4cca569f51037ed4fd299f0ee11">Forum Rules</a>
 </td>
 <!--
 
 -->
 
-<td width="11%" class="navbar2_td">
+<td width="12%" class="navbar2_td">
 	
-	<a href="http://chubbyparade.com/forum/search.php?do=getdaily" accesskey="2">Today's Posts</a>
+	<a href="http://chubbyparade.com/forum/search.php?s=22e6a4cca569f51037ed4fd299f0ee11&amp;do=getdaily" accesskey="2">Today's Posts</a>
 	
 </td>
-<td width="11%" class="navbar2_td">
-<a href="http://chubbyparade.com/forum/toplist.php">Links</a>
+
+<td width="12%" class="navbar2_td"><a href="http://chubbyparade.com/donate.php?s=22e6a4cca569f51037ed4fd299f0ee11">Donate to CP</a></td>
+
+<td width="12%" class="navbar2_td">
+<a href="http://chubbyparade.com/forum/toplist.php?s=22e6a4cca569f51037ed4fd299f0ee11">Links</a>
 </td>
 
 
 
 	
-		<td width="11%">
+		<td width="12%">
 		<a href="http://chubbyparade.com/forum/login.php?do=login">Log in</a>
 		</td>
 	
@@ -1086,19 +1117,13 @@ if (document.getElementById(elementid).style.display == 'none'){
 
 
 
-<div align="center">
+<div align="center" style="margin-top:20px">
 <!-- google track: onClick="javascript: pageTracker._trackPageview('/bannerads/bbwdolls/forumbanner');" -->
 <a href="http://join.xlgirls.com/track/scrg12898.cf.xlgirls.xlgirls.43.1000541.0.0.0/main.php" target="_blank"><img src="http://static.chubbyparade.com/images/xlgirls-banner-17mod.jpg" border="0" alt=""></a>
 <a href="http://join.xlgirls.com/track/scrg12898.cf.xlgirls.whatsnew.43.1000538.0.0.0" target="_blank"><img src="http://static.chubbyparade.com/images/xlgirls-banner-15mod.jpg" border="0" alt=""></a>
 </div>
 <br>
 
-
-<div class="c" style="margin:20px 0px 10px 0px" align="center">
-<img src="http://chubbyparade.com/advent-calendar/img/bells.gif" width="41" height="37" alt="" align="middle">
-<a href="http://chubbyparade.com/advent-calendar/" style="color:#FF0000;font-weight:bold;" target="_blank">NEW: The CP Advent Calendar</a>
-<img src="http://chubbyparade.com/advent-calendar/img/bells.gif" width="41" height="37" alt="" align="middle">
-</div>
 
 </div><!-- background:white -->
 
@@ -1189,6 +1214,8 @@ November 2006
 
 
 
+
+
 <script type="text/javascript">/*<![CDATA[*/try {
 	var parent_location = new String(parent.location).toLowerCase();
 	var top_location = new String(top.location).toLowerCase();
@@ -1217,11 +1244,11 @@ November 2006
 	<div align="right" style="float:right;padding:6px" class="smallfont">
 			<strong>
 
-				<a href="./?styleid=7">Mobile</a> -
+				<a href="./?styleid=7?s=22e6a4cca569f51037ed4fd299f0ee11">Mobile</a> -
 
 
 
-				<a href="http://chubbyparade.com/forum/contact.php" rel="nofollow" accesskey="9">Contact Us</a> -
+				<a href="http://chubbyparade.com/forum/contact.php?s=22e6a4cca569f51037ed4fd299f0ee11" rel="nofollow" accesskey="9">Contact Us</a> -
 				
 				<a href="http://chubbyparade.com/privacy-policy.php">Privacy Policy</a> -
 
@@ -1244,7 +1271,7 @@ November 2006
 <br>
 
 
-<div class="smallfont" align="center">All times are GMT. The time now is <span class="time">04:18 AM</span>.</div>
+<div class="smallfont" align="center">All times are GMT. The time now is <span class="time">04:19 AM</span>.</div>
 
 
 
@@ -1269,5 +1296,7 @@ November 2006
 	vBulletin_init();
 //-->
 </script>
+
+
 
 </body></html>
