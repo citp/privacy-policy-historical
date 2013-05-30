@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the loginradius.com privacy policy that was archived on 2012-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121002213705id_/https%3A//www.loginradius.com/LoginRadius/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loginradius.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530070736id_/https%3A//www.loginradius.com/loginradius/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | LoginRadius
+# Login Radius Integration | Social Login Plugin | Social Sharing – Login Radius
 
-We are respectful of the privacy concerns of visitors and users to our website [https://www.loginradius.com](https://www.loginradius.com/). his document describes the privacy policy of LoginRadius, Inc. By accessing our website and services, you accept LoginRadius Privacy Policy. 
+We are respectful of the privacy concerns of visitors and users to our website [https://www.loginradius.com](https://www.loginradius.com/). This document describes the privacy policy of LoginRadius, Inc. By accessing our website and services, you accept LoginRadius Privacy Policy. 
 
 LoginRadius’s Privacy Policy is based on our three core principles: 
 
   * You have full control over your privacy.
-  * Only after your consent will we collect your information through highly secure technologies such as HTTPS protocol, REST API, etc.
+  * Only after your consent we will collect your information through highly secure technologies such as HTTPS protocol, REST API, etc.
   * We never disclose or share your personal information that can identify you with any third parties.
 
 
 
-**General Policy:** As a general policy, no personal information is automatically collected from visitors and users of LoginRadius. However, certain non-personal information about visitors is recorded by the standard operation of LoginRadius's internet servers. This information is primarily used to provide an enhanced online experience for both visitors and registered users. Using this information, web pages optimized for a particular visitor's computer may be automatically made available to that visitor. Other use of this information may include internal review of the number of visitors to this website but only in the aggregate sense and in a non-personally-identifiable form. 
+**General Policy:** As a general policy, no personal information is automatically collected from visitors and users of LoginRadius. However, certain non-personal information about visitors is recorded by the standard operation of LoginRadius internet servers. This information is primarily used to provide an enhanced online experience for both visitors and registered users. Using this information, web pages optimized for a particular visitor's computer may be automatically made available to that visitor. Other use of this information may include internal review of the number of visitors to this website but only in the aggregate sense and in a non-personally-identifiable form. 
 
 **User Information:** LoginRadius collects various personal user information in the form of profile data such as name, email address, city, etc. depending upon the ID Provider you log in with. When a user logs into LoginRadius, the selected ID Provider delivers the user profile data to us after the user’s consent. We then store this data in our highly secure database. Please click here to see a list of the data we collect based on the ID Provider used to log into the LoginRadius website. 
 
@@ -43,4 +43,4 @@ When you login into LoginRadius, you enter your username and password on your ID
 
 **Business Relationships:** LoginRadius is an internet service provided by LoginRadius Inc. - Canada. We do no’t have any business relation/affiliation with any of the Open ID/Authentication providers. We are not responsible for the terms of use and privacy policies for any of the integrated ID providers. Please visit their websites for more information about their privacy policies and terms of use. 
 
-**Contact:** For any questions on LoginRadius Privacy Policy, please write to us [here](https://web.archive.org/web/20121002213705id_/https%3A//www.loginradius.com/LoginRadius/Contact) or email us at **hello[at]loginradius[dot]com**. 
+**Contact:** For any questions on LoginRadius Privacy Policy, please write to us [here](https://web.archive.org/web/20130530070736id_/https%3A//www.loginradius.com/loginradius/Contact) or email us at **hello[at]loginradius[dot]com**. 
