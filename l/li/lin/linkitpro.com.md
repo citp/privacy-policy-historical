@@ -1,33 +1,35 @@
-> *The following text is extracted and transformed from the linkitpro.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503203628id_/http%3A//www.linkitpro.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkitpro.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530114341id_/http%3A//linkitpro.com/page/privacy) for the most accurate reproduction.*
 
-# Link Building Strategies, Packages, Campaigns - LinkitPro.com - Privacy
+# Link Building Strategies, Packages, Campaigns - LinkitPro.com
 
-**Your Privacy**
+**Collected Information - Voluntary**
 
-LinkitPro.com is committed to protecting your privacy. We only use the information we collect about you to process orders and to provide support and upgrades for our products. 
+LinkitPro.com does not collect or obtain any personal or contact information about its users without their express, prior permission.
 
-**What information do we collect? How do we use it?**
+Users can, at their option, opt to join the LinkitPro.com email newsletter. LinkitPro.com uses a reputable, CAN-SPAM compliant newsletter management service. LinkitPro.com only sends email communications to users who specifically request information about affiliate marketing or internet business.
 
-When you sign up, we need to know your first and last name, e-mail address, phone number (optional), and a password. This allows us to create an account for you where you can purchase credits so that you can order our products. Our secure server layer (SSL) encrypts (scrambles) your information when purchasing credits to fund your account.
+If a user of the LinkitPro website becomes a customer, then they will also be subscribed to the customer announcement list - which they can also unsubscribe from or manage from the LinkitPro customer dashboard.
 
-**What about "cookies"?**
+If a subscribed user wishes to unsubscribe from the newsletter for any reason, he or she may do so instantly by following the automated unsubscribe link, located in the footer of every email. In addition, the user may [email us here](https://web.archive.org/web/20130530114341id_/http%3A//linkitpro.com/page/contact.php)
 
-"Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. We do not use cookies to collect or store any information about visitors or customers.
+The data collected by our newsletter system will be used for marketing purposes related to topics on affiliate marketing, internet business or similarly relevant content.
 
-**Will LinkitPro disclose the information it collects to outside parties?**
+The data will not be shared, sold, rented or distributed to any other party for any reason.
 
-LinkitPro does not sell, trade, or rent your personal information to others. 
+The only exception to this is if LinkitPro.com is sold to a third-party, at which time data may be transferred to the new owner. Subscribed users will promptly be made aware of any such activity before any data is transferred, and will be given sufficient time to unsubscribe if they choose not to have their information transfered to the new ownership.
 
-**Your Consent**
+**Collected Information - Involuntary**
 
-By using LinkitPro, you consent to the collection and use of this information by LinkitPro.com  
-If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
+LinkitPro.com uses audience re-targeting technology to reach out to previous visitors, via traditional, non-invasive advertising, as they use other popular websites. This occurs when users load our website, and our re-targeting technology loads a tracking cookie onto the users browser.
 
-**Questions and Feedback**
+To opt-out and unsubscribe from our re-targeting campaigns, all you have to do is clear any cookies associated with LinkitPro.com, or our 3rd party advertising services, which may include ClickCertain, Adroll, and ReMarketingStats. For easy instructions on how to remove cookie files, please see [this 3rd party tutorial.](http://www.aboutcookies.org/default.aspx?page=2)
 
-If you have any questions or feedback related to our Privacy Policy, please email us at 
+The only additional information collected involuntarily from all visitors is basic geographic, referral, on-site navigation patterns and IP information for the purpose of tracking our website traffic statistics. We use this data in order to improve our website & user experience, as well as measuring the effectiveness of our advertising & marketing efforts.
 
-_[simonharris@linkitpro.com](mailto:simonharris@linkitpro.com)_
+Data is not evaluated on a "user by user" basis, but rather in the aggregate on a mass scale. We look at the overall patterns based on the statistical information collected from thousands of visitors.
 
-Thank you.  
-The LinkitPro Team
+The data is collected (and stored) by our preferred & reputable traffic analysis service. The data is stored securely and is not publicly available. Only LinkitPro.com (ownership & staff) can access this statistical data, without exception.
+
+This data is collected through the use of a simple javascript script on each page of LinkitPro.com, and does not interfere with or affect the user's internet browsing program whatsoever.
+
+LinkitPro.com does NOT use spyware, viruses, trojans or otherwise any invasive, objectional methods to increase incoming traffic, or otherwise for any other purpose.
