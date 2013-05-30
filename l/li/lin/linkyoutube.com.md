@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the linkyoutube.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920015209id_/http%3A//www.linkyoutube.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkyoutube.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530231521id_/http%3A//linkyoutube.com/privacy.php) for the most accurate reproduction.*
 
-# Download Youtube videos - Link it download it - Privacy Policy
+# LinkYoutube - LinkYoutube - Contact Us
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at support@linkyoutube.com. 
 
@@ -9,10 +9,10 @@ At our site, the privacy of our visitors is important to us. This privacy policy
 Log Files:   
 Like many other Web sites, Our website uses log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user?s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. This information can be useful for us to recognize error messages and to keep track of the performance of our website.
 
-Cookies and Web Beacons: Our website does NOT use cookies. However some other third party websites that can be used to track the number of visitors on our site like Histats or an advertising company like Google Adsense can use cookies. 
+Cookies and Web Beacons: Our website uses cookies to provide useful features such as adding videos to download lists. Some other third party vendors like Advertisement partners and visitor tracking services use cookies in order to track visitors activites on the website. 
 
 DoubleClick DART Cookie:   
-.:: Google, as a third party vendor, uses cookies to serve ads on your site. .:: Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. .:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html 
+.:: Google, as a third party vendor, uses cookies to serve ads on our site. .:: Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. .:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html 
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include . Google Adsense 
 
