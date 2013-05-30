@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the vision-net.ie privacy policy that was archived on 2012-11-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121117065049id_/http%3A//www.vision-net.ie/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vision-net.ie privacy policy that was archived on 2013-05-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130530233236id_/http%3A//vision-net.ie/privacy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Data Protection and Privacy - Irish Company Info - Vision-Net</title>
@@ -54,10 +54,27 @@ function fixForIETop(e){
 		}
 	} catch (e){}
 }
+
+function hideCookieDiv() {
+	try {
+		var toggleStyle = document.getElementById('cookie-policy').style;
+		toggleStyle.display = 'none';
+	} catch (ignore) { }
+}
+
+function setCookieCookie() {
+	try {
+		var exdate=new Date();
+		exdate.setDate(exdate.getDate() + 60);
+		var c_value=escape("accept") + "; expires="+exdate.toUTCString() + ";path=/;" ;
+		document.cookie="VisionNetCookieCookie=" + c_value;
+	} catch (ignore) { }
+}
 </script>
-<script type="text/javascript" src="/iepngfix_tilebg.js"></script> 
+
+<script type="text/javascript" src="/iepngfix_tilebg.js"></script>
 <link rel="alternate" type="application/rss+xml" title="RSS" href="/rss.jsp">
-<link href="/vnlo1.css?v=4" rel="stylesheet" type="text/css" media="all">
+<link href="/vnlo1.css?v=10" rel="stylesheet" type="text/css" media="all">
 	<!--[if gte IE 9]>
 	<style type="text/css">
 	.gradient {
@@ -92,7 +109,7 @@ function fixForIETop(e){
 					<div class="fl_left" style="padding-right:5px;">
 					<input tabindex="2" name="Password" type="password" size="19" onkeypress="capLockTop(event)" onkeyup="fixForIETop(event)" class="input_password" title="VisionNet Password">
 					</div>
-			
+
 					<div class="fl_left">
 					<input tabindex="4" type="submit" name="Send" value="" class="logbut_min">
 					</div>
@@ -112,7 +129,7 @@ function fixForIETop(e){
 				</div> <!-- .tm_left -->
 				<div class="tm_bg">
 					<ul>
-						<li><a href="/index.jsp">HOME </a></li>
+						<li><a href="/">HOME </a></li>
 						<li><a href="/register.jsp">JOIN UP</a></li>
 						<li><a href="/topupnli.jsp">TOP-UP</a></li>
 						<li><a href="/contactUs.jsp" class="last">ABOUT US</a></li>
@@ -143,9 +160,8 @@ function fixForIETop(e){
 	<div class="inner_shadow clr">
 		<div class="content">
 			<div class="column" style="background:none;">
-				<!-- DEFAULT TEXT -->
-			    <h1>Data Protection and Privacy</h1>
-							
+				<h1>Data Protection and Privacy</h1>
+
 				<p>Vision-net.ie is concerned about the protection of privacy and security. We will not disclose your personal information to any other party outside the CFI Group of companies.</p>
 				
 				<p>All personal information necessary or available for the use of the Website will be governed by the Vision-net.ie privacy policy.</p>
@@ -159,6 +175,36 @@ function fixForIETop(e){
 			
 				<br><h3>Company Data Right of Access<br></h3>
 				<p>Information supplied to CRO pursuant to the Companies Acts and the Registration of Business Names Act do not come within the Data Protection Acts 1998-2003, being "personal data consisting of information that the person keeping the data is required by law to make available to the public". Such data therefore falls outside the Terms of this Privacy Statement. Examples of information which does not fall under the Right of Access would be,  Directors Appointment, or change in particulars of Details, and or the Registration of a Business or Company Name.</p>
+
+
+				<a name="cookies"></a>
+				<br><h3>Cookie Policy<br></h3>
+				<p>
+				Vision-Net.ie respects the privacy of all visitors to our website. This text outlines our policy around our use of cookies. Our Cookie Policy may be updated from time to time to reflect any changes in technology or legislation which may affect the way in which cookies are used by us and how you as a user, can manage them.
+				</p>
+
+				<h4>What is a cookie</h4>
+				<p>
+				Cookies are small pieces of data given to your browser by a website, which may be stored as text files in the cookie directory of your computer. Cookies are not programs and cannot collect information from your computer. A cookie can be used for authentication, storing site preferences, shopping cart contents, the identifier for a server-based session...
+				</p><p>
+				To protect your privacy your browser only returns a cookie to the website that sent you the cookie and does not send it to any other website. A website cannot access your cookie directory or information on your computer, instead relevant cookies are included by your browser within each request you make to the website.
+				</p><p>
+				You do not have to accept cookies and you can change the settings within your browser to accept all cookies, reject all cookies, reject cookies from certain websites, notify you if a site is requesting to set a cookie, and set various other options.
+				</p><p>
+				Switching off cookies will still allow you to view the logged out sections on our site, however, it will prevent you from logging in. It will also stop us remembering your login name.
+				</p>
+
+				<h4>Cookies used on Vision-Net.ie</h4><br>
+
+				<table>
+				<tbody><tr><th>Type</th><th>Expiration</th><th>Description</th></tr>
+				<tr style="background:white;"><td>Session/Login Cookies</td><td>End of browser session</td><td>In order for our server to recognise a logged in user, a session cookie must be used. When a user first enters Vision-Net.ie, they are assigned a cookie which is then used to identify them throughout their session. The information passed does not contain or relate to any personal information.</td></tr>
+				<tr><td>Username Cookie</td><td>31 days from last login</td><td>Many users prefer not to have to remember their username on a website, therefore by default we store the latest username in a cookie for successful logins. A checkbox is available on this <a href="loginNoFrame.jsp">Vision-Net.ie login page </a> to disable this particular cookie. Disabling this will still allow you to login, but it may affect your ability to automatically login from links within alert emails which we send to you.</td></tr>
+				<tr style="background:white;"><td>Analytics Cookies</td><td>Maximum 2 years from set/update</td><td>These cookies are used to collect information about how visitors use our site, which we use to help improve it. The cookies collect information in an <b>anonymous</b> form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited. We use one of the most frequently used suppliers for this.</td></tr>
+				<tr><td>Cookie cookie</td><td>60 days from set/update</td><td>We provide an option to <a href="javascript:void(0);" onclick="hideCookieDiv(); setCookieCookie();">"Hide this message"</a> about cookies, which itself requires a cookie. This cookie is only written to your computer if you click the <a href="javascript:void(0);" onclick="hideCookieDiv(); setCookieCookie();">"Hide this message"</a> link.</td></tr>
+				</tbody></table>
+				<p><br>To learn more about managing cookies view your web browser help or visit <a target="_blank" rel="nofollow" href="http://www.aboutcookies.org/Default.aspx?page=1">aboutcookies.org</a></p>
+
 			</div>
 		</div>
 	</div>
@@ -176,18 +222,19 @@ function fixForIETop(e){
 				<a href="/privacy.jsp">Privacy Policy</a>
 				<a href="/freeServices.jsp">Free Services</a>
 				<a href="/whyVision-netLong.jsp">Why Us</a>
+				<a href="/news/">News</a>
 				<a href="/rss.jsp">
 					<img class="icons16 rss" width="16px" height="16px" border="0" style="vertical-align:middle;" src="/img/trans.gif" alt="RSS">
 				</a>
 				<a href="http://twitter.com/VisionNetLtd" target="_blank" class="last">
 					<img src="/img/trans.gif" class="icon20 twitter" alt="Twitter" title="Follow us on Twitter" border="0" align="absmiddle">
 				</a>
-				</div> <!-- .fl_left -->
+			</div> <!-- .fl_left -->
 
 			<div class="fl_right">
-				<span style="padding-right:20px;">Data Updated: 17 Nov 2012</span>
+				<span style="padding-right:20px;">Data Updated: 30 May 2013</span>
 
-				© Vision-net.ie 2012
+				© Vision-net.ie 2013
 			</div> <!-- .fl_right -->
 
 		</div> <!-- .inner_shadow -->
