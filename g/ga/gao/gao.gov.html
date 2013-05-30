@@ -1,61 +1,202 @@
-<!--The following is the downloaded HTML source of the gao.gov privacy policy that was archived on 2009-12-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091221023750id_/http%3A//www.gao.gov/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gao.gov privacy policy that was archived on 2013-05-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130530071347id_/http%3A//gao.gov/privacy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head><meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
-<title>U.S. GAO - Privacy and Other Site Policies</title>	<link rel="stylesheet" href="/inc/css/template.css">
-	<link rel="stylesheet" href="/inc/css/header.css">
-	<link rel="stylesheet" href="/inc/css/footer.css">
-	<link rel="stylesheet" href="/inc/css/sub.css">
-	<link rel="stylesheet" href="/inc/css/no_subnav.css">
+<!DOCTYPE html><html style="height:100%"><head>
+	<meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<title>U.S. GAO - Privacy, Legal, and Other Site Policies</title><meta name="Last-Modified" content="Fri, 09 Mar 2012 12:12:28 -0500">	<link rel="stylesheet" href="/inc/css/template.css?v1.00">
+	<link rel="stylesheet" href="/inc/css/header.css?v1.00">
+	<link rel="stylesheet" href="/inc/css/footer.css?v1.00">
+	<link rel="stylesheet" href="/inc/css/sub.css?v1.00">
+	<link rel="stylesheet" href="/inc/css/no_subnav.css?v1.00">
+<meta property="og:title" content="Privacy, Legal, and Other Site Policies">
+<meta property="og:type" content="Website">
+<meta property="og:url" content="http://gao.gov/privacy.html">
+<meta property="og:image" content="http://www.gao.gov/img/gao_gov_icon.png">
+<link rel="apple-touch-icon-precomposed" href="/img_library/apple-touch-icon.png">
+
 <!--[if lte IE 7]> <style type="text/css">@import "/inc/css/ie7.css";</style> <![endif]-->
 <!--[if lte IE 7]> <style type="text/css">@import "/inc/css/ie7_nosubnav.css";</style> <![endif]-->
-<script language="JavaScript" src="/inc/js/foresee/foresee-trigger.js"></script>
+<link rel="stylesheet" type="text/css" href="/scripts/jquery/css/jquery-ui.min.css">
+<script src="//www.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>	
+<script type="text/javascript">!window.jQuery && document.write(unescape("%3Cscript src='/scripts/jquery.min.js' type='text/javascript'%3E%3C/script%3E"));</script><script src="/scripts/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.9.2/jquery-ui.min.js"></script>
+<script type="text/javascript">!window.jQuery.ui && document.write(unescape("%3Cscript src='/scripts/jquery/jquery-ui.min.js' type='text/javascript'%3E%3C/script%3E"));</script>
+<script type="text/javascript" src="/scripts/jquery/jquery-bg_scripts.js?v=1.07"></script>
+
+<script type="text/javascript" src="/inc/js/foresee/foresee-trigger.js"></script>
+<script type="text/javascript" src="/scripts/core/script.js"></script><script src="/inc/js/foresee/foresee-surveydef.js" type="text/javascript" id="foresee-surveydef"></script></head><body><div id="dhtmlwindowholder"><span style="display:none">.</span></div>
+<!-- <script type="text/javascript" src="/scripts/scriptaculous/prototype.js"></script> -->
 <!-- <script language="JavaScript" src="/inc/js/foresee/triggerParams.js"></script> -->
 <!-- <script language="JavaScript" src="/inc/js/foresee/stdLauncher.js"></script> -->
-<script language="JavaScript" src="/docsearch/app_jsfuncs.js"></script>
+<!-- <script type="text/javascript" src="/docsearch/app_jsfuncs.js"></script> -->
 <!-- Poll function no longer needed as of 29 Sep 2008 following foresee code update -->
 <!-- <script type="text/javascript">Poll();</script> -->
+<script type="text/javascript">
+jQuery.noConflict();
+jQuery(document).ready(function($) {
+	// Adjust all main nav items so they are all the 
+	box_height = 0;
+	$('.nav_item').each(function() {
+		var height = $(this).outerHeight();
+		if (height>box_height) {
+			box_height = height;
+		}		
+	});
+	$('.nav_item').each(function() {
+		if($(this).outerHeight()<box_height) {
+			var outerHeight = $(this).outerHeight();			
+			$(this).css('padding-top',parseInt($(this).css('padding-top'))+Math.ceil((box_height-outerHeight)/2)+'px');
+			$(this).css('padding-bottom',parseInt($(this).css('padding-bottom'))+Math.floor((box_height-outerHeight)/2)+'px');
+		}
+		if($(this).hasClass('current')) {$(this).css('background-color','#D9D6D6');}
+	});
 
-<script src="/inc/js/foresee/foresee-surveydef.js" type="text/javascript" id="foresee-surveydef"></script></head>
-<body> 
-<div id="header"><!-- <div class="column-in"> --><div id="headerInner"><!-- [BEGIN] Utility Bar --><div id="utilitybar"><img src="/inc/gr/utilitycurve.jpg" class="noprint" height="20" width="43" align="left" alt=""><p>
-<a href="/index.html">Home</a> | <a href="/about/index.html">About GAO</a> | <a href="/contact.html">Contact GAO</a> | <a href="/sitemap.html">Site Map</a> | <a href="/subscribe/index.php">E-mail Updates</a> | <a href="/using.htm">Help</a></p></div><!-- [END] Utility Bar -->
+	// Create Quicklinks popups if they exist
+	//if (window.location.href.indexOf('/annual_index/') <= 0) {
+		$('div.listing[content_id], div.listing[data-content_id]').QuickLinks();
+	//}
+	// Create the Privacy Statement tooltip
+	$('.bg_tooltip').createTooltip();	
+});
+</script>
+
+
+<style type="text/css">
+	#header #stayconnected_link {
+		cursor: pointer;
+		display: inline-block;
+	}
+
+	#header .bg_tooltip {
+		background-color: #F8F8F8;
+		border: 1px solid #000000;
+		border-radius: 10px 10px 10px 10px;
+		display: none;
+		left: -225px!important;
+		padding: 5px 10px 0;
+		position: absolute;
+		width: 300px;
+		z-index: 200;
+	}
+	
+	#header .bg_tooltip a{
+		color: #084A94;
+	}
+	
+	#header .bg_tooltip_close a{
+		color: #084A94;
+		font-size: 1.2em;
+	}
+	
+	#header .bg_tooltip_close {
+		cursor: pointer;
+		color: #084A94;
+		font-size: 1.2em;
+		float: right;
+		font-weight: bold;
+	}
+
+	#header .bg_tooltip h1 {
+		height: 20px;
+		color: #084A94;
+		font-size: 1.4em;
+		margin: 0px 3px 0px 0px;
+		padding: 0px 3px 0px 0px;
+	}
+	
+	#header .bg_tooltip p {
+		color: #000000;
+		font-size: .9em;
+		margin: 0 0 5px;
+		text-align: left;
+	}
+	
+		
+		#header #connected_list li {
+		display: inline-block;
+		float: left;
+		vertical-align: left;
+	}
+	
+	#header #connected_list {
+		background-color: #FEFDF7;
+		border: 1px solid #DBDBDB;
+		border-radius: 10px 10px 10px 10px;
+		margin: 26px 0 5px;
+        	padding: 20px 0 46px 9px;
+		text-align: center;
+	}
+	
+	#header #contact_gao {
+		background: url("/img_library/connect_email_small.png") no-repeat scroll 0 0 transparent;
+		padding-left: 20px;
+	}
+	
+</style>
 
 
 
+ 
+<div id="skip_nav_link" style="height:0px; margin-left:-1000px;"><a href="#skip_nav">Skip Navigation</a></div>
+<div id="super_container">
+<div id="header"><!-- <div class="column-in"> --><div id="headerInner"><div id="head_wrap"><!-- [BEGIN] Utility Bar --><div id="utilitybar"><p>
+<a id="stayconnected_link" style="background-image: url('/img/core/connect-icon.png'); background-repeat: no-repeat; padding-left: 18px; margin-bottom: 0px;">Stay Connected</a></p><div class="bg_tooltip" data="stayconnected_link">
+			<ul id="connected_list">
+				<li> <a href="http://www.facebook.com/usgao" target="_blank" onmousedown="return clk(this.href,'href');"><img width="25px" height="25px" alt="GAO on Facebook" src="/img_library/connect_facebook.png"></a></li>
+
+				<li><a href="/feeds.html" onmousedown="return clk(this.href,'href');"><img alt="GAO RSS feed" src="/img_library/connect_rss.png"></a></li>
+				<li><a href="http://twitter.com/usgao" target="_blank" onmousedown="return clk(this.href,'href');"><img src="/img_library/connect_twitter.png" alt="GAO on Twitter" height="25px" width="25px"></a></li>
+				<li><a href="http://twitter.com/usgaolegal" target="_blank" onmousedown="return clk(this.href,'href');"><img src="/img_library/connect_twitter_legal.png" alt="USGAOLegal account on Twitter" height="36px" width="25px"></a></li>
+				<li><a href="http://linkedin.com/company/usgao" target="_blank" onmousedown="return clk(this.href,'href');"><img src="/img_library/connect_linkedin.png" alt="GAO on LinkedIn" height="25px" width="25px"></a></li>
+				<li><a target="_blank" href="http://www.youtube.com/usgao" onmousedown="return clk(this.href,'href');"><img width="25px" height="25px" alt="GAO on YouTube" src="/img_library/connect_youtube.png"></a></li>
+				<li><a target="_blank" href="http://www.flickr.com/photos/usgao" onmousedown="return clk(this.href,'href');"><img width="25px" height="25px" alt="GAO on Flickr" src="/img_library/connect_flickr.png"></a></li>
+				<li><a href="/podcast/watchdog.html" onmousedown="return clk(this.href,'href');"><img width="25px" height="25px" alt="GAO Watchdog Podcast" src="/img_library/connect_podcast.png"></a></li> 
+			</ul>
+
+				
+				<p>
+				</p><div><a href="/subscribe/index.php">Receive e-mail Updates</a></div>
+				<div><a href="/about/contact.html">Contact GAO</a></div>
+				<p></p><br>		
+		</div>
+<p></p></div><!-- [END] Utility Bar -->
+ 
 <!-- [BEGIN] Search Form -->
 
 <div id="gaosearch">
- <form action="/docsearch/locate" method="get" id="seek1" name="seek1">
-  <input type="hidden" name="searched" value="1">
-  <input type="hidden" name="o" value="0">
-  <input type="hidden" name="order_by" value="date">
-  <input type="hidden" name="search_type" value="publications">
-  <input name="keyword" id="q" value="Keyword or Report #" style="color: #333333" title="Search the GAO website with a Keyword or Report number" size="26" class="formstyle_mainsearch" type="text" maxlength="255" onblur="if(this.value == '') { this.style.color='#333333'; this.value='Keyword or Report #'}" onfocus="if (this.value == 'Keyword or Report #') {this.style.color='#333333'; this.value=''}">
-  <input class="formstyle_mainsearch" type="submit" name="Submit" value="Search" onmousedown="if (document.getElementById('q').value == 'Keyword or Report #') { document.getElementById('q').value = ''; }">						
+ <form action="/search" method="get" id="seek1" name="seek1">
+
+  <input name="q" id="q" autocomplete="off" value="Keyword or Report #" style="color: #333333" title="Search the GAO website with a Keyword or Report number" size="26" class="formstyle_mainsearch" type="text" maxlength="255" onblur="if(this.value == '') { this.style.color='#333333'; this.value='Keyword or Report #'}" onfocus="if (this.value == 'Keyword or Report #') {this.style.color='#333333'; this.value=''}">
+  <input id="q_search" class="formstyle_mainsearch" type="submit" name="Submit" value="Search" onmousedown="if (document.getElementById('q').value == 'Keyword or Report #') { document.getElementById('q').value = ''; }">						
  </form>
- <a href="/docsearch/locate?advanced=1">Advanced Search</a> | <a href="/docsearch/locate?searched=1&amp;add_type=D&amp;keyword=">Search
- Only Legal Decisions</a></div>
+ <a style="clear:both;" href="/search?advanced=1">Advanced Search</a>
+
+ </div>
 <!-- [END] Search Form -->
-<h1><a href="/index.html"><img src="/inc/gr/gaotitle.jpg" id="gaologotext" height="61" width="275" border="0" alt="GAO.GOV"></a></h1><!-- [BEGIN] Main Nav -->
-<div id="gaotabs"><ul>
-<li><a href="/docsearch/repandtest.html">Reports &amp; Testimonies</a></li><li><a href="/legal/index.html">Legal Decisions</a></li><li><a href="/cghome/index.html">Comptroller General</a></li><li><a href="/docsearch/featured/index.html">Topic Collections</a></li><li><a href="/careers/index.html">Careers</a></li><li><a href="/fraudnet/fraudnet.htm">FraudNet/Reporting Fraud</a></li></ul></div><!-- [END] Main Nav -->
-<div id="logo"><a href="/index.html"><img id="caplogo" src="/inc/gr/caplogo.jpg" height="92" width="111" border="0" alt="GAO.GOV"></a></div>
-	<div id="borderblue"></div>
-	<div id="activeTabSubBar" style="height:0px;"></div>
+<h1><a href="/index.html" style="z-index:10;"><img src="/images/logoWhite.png" id="gaologotext" height="49" width="485" border="0" alt="U.S. Government Accountability Office"></a></h1></div><!-- [END] Head Wrap -->
+<!-- [BEGIN] Main Nav -->
+
+<div id="main_nav">
+<ul>
+<li><a class="nav_item" href="/browse/date/week">Reports &amp; Testimonies</a></li><li><a class="nav_item" href="/legal/index.html">Legal Decisions<br>&amp; Bid Protests</a></li><li><a class="nav_item" href="/key_issues/overview">Key Issues</a></li><li><a class="nav_item" href="/about/index.html">About GAO</a></li><li><a class="nav_item" href="/careers/index.html">Careers</a></li><li><a class="nav_item" href="/multimedia/video">Multimedia</a></li><li><a class="nav_item" href="/resources.html">Resources For …</a></li></ul></div>
+<!-- [END] Main Nav -->
+<!--	<div id='borderblue'></div> -->
+	<div id="activeTabSubBar"></div>
 	<!-- <div id='borderblue'></div> -->
 <!-- <div id="activeTabSubBar"  style='height: ; px' ></div> -->
 <!-- <script type="text/javascript">document.getElementById('activeTabSubBar').style.height="8px";</script> -->
 <!--  </div> closes column-in --></div></div><!-- closeses headerInner & header -->
 
-<div id="main1"><div id="main2">
+<div id="main1" style="position:relative"><div id="main2">
 <!--    sub nav -->
 <!--  sub nav -->
 
 <div id="middle"> 
 <div class="column-in">  
-<div id="content"> 
-<h1 class="title">Privacy and Other Site Policies</h1>
+<div id="content">
+<a name="skip_nav"></a> 
+<h1 class="title">Privacy, Legal, and Other Site Policies</h1>
 
 
     
@@ -63,53 +204,60 @@
   <li> <a href="#ps">Privacy and Security</a></li>
   <li><a href="/dresource.html">Accessibility</a></li>
   <li><a href="/copyright.html">Copyright and Use of Images</a></li>
-  <li><a href="/foia.html">Freedom of Information Act (FOIA) </a></li>
+  <li><a href="/about/products/foia.html">Freedom of Information Act (FOIA) </a></li>
   <li><a href="/using.htm">Help</a></li>
 </ul>
 <hr>
-<h2><a name="ps"></a>GAO Privacy and Security Notification</h2><p>This World
-  Wide Web site is provided as a public service by the Government Accountability
-  Office. The information contained on this site is public information. It may
-  be freely distributed or copied.</p>
-<p>For site-management purposes, we collect statistical information. GAO uses
-  this information to determine interest in various areas of the site and to
-  monitor system performance. We do not collect personally identifying information
-  or attempt to identify individual users and their usage patterns. We collect
-  only the following information:</p>
+
+<h2><a name="ps"></a>GAO Privacy and Security Notification</h2>
+<h3>Introduction</h3>
+
+<p>Thanks for visiting our Web site and reviewing our privacy policy. This site is provided as a public service by the Government Accountability Office. The documents and information contained on this site are public information and may be freely distributed or copied.
+</p>
+<p>We do not routinely collect personally identifiable information when you visit our Web site or our accounts on third-party social media sites. We do, however, collect personal information in several circumstances, which are described below.  In addition, we collect some technical information when you visit our site to help improve site service and to make your navigation seamless.  All of the information posted to our site is protected in accordance with GAO security policies.  Information posted to third-party social media sites and applications is not under GAO control.</p>
+
+<h3>Information Collected and Stored</h3>
+
+<p>If you visit the GAO.gov Web site to read or download information, we automatically gather and store certain technical information about your visit. This information is collected for site management and statistical purposes only. This information never identifies who you are and we do not track or record information about individuals or attempt to identify individual users or their usage patterns.</p>
+
+<p>The information we collect and store about your visit includes:</p>
 <ul>
-  <ul>
-    <li> The name of the domain from which you access the Internet (e.g., treas.gov,
-        home.com, etc.). </li>
-    <li> The date and time you access our site. </li>
-    <li> The Internet address of the web site from which you linked directly
-      to our site or the Internet address of the computer used to link to our
-      site. </li>
-  </ul>
+	<ul>
+
+    <li>The name of the domain from which you access the Internet;</li>
+    <li>The date and time you access our site; and</li>
+    <li>The Internet address of the Web site from which you accessed our site or the Internet address of the computer used to link to our site.</li>
+
+    </ul>
+
 </ul>
-<p>Generally, we do not use cookies on this web site. On occasion to make it
-  easier for you to comment on a draft report, to complete a survey, or to navigate
-  the site, we send a session cookie to your computer that is returned only to
-  our server. A session cookie is a small bit of text that is temporarily stored
-  in your computer.</p>
-<p>We will not obtain personally identifying information about you when you visit
-  our site, unless you choose to provide such information. For example, if you
-  send an E-mail message or complete a web form that contains personal information,
-  we may retain your E-mail address and other information that you provide in
-  order to respond to you. That information is temporarily retained and then
-  destroyed in accordance with guidelines of the National Archives and Records
-  Administration. We will not release any personally identifying information,
-  including E-mail addresses, to the public or to private organizations. However,
-  we will honor appropriate legal process seeking such information. You should
-  refer to the Privacy Notice contained on the FraudNET page for the policies
-  that apply to information provided on that site.</p>
-<p>GAO uses software to monitor traffic and to identify unauthorized attempts
-  to upload or change information, to cause harm, or otherwise to damage this
-  site. Unauthorized attempts to upload information or change information on
-  this server are strictly prohibited. Unauthorized use, tampering with or modification
-  of this system -- including supporting hardware or software -- may subject
-  the violator to criminal and civil penalties. In the event of unauthorized
-  intrusion, all relevant information regarding possible violation of law may
-  be provided to law enforcement officials.</p>
+
+<p>This information is only used to help us make our site more useful for you. Through collecting this data we learn about the number of visitors to our site and the types of technology our visitors use. GAO uses this information to determine interest in various areas of the site and to monitor system performance. We will not obtain personally identifying information about you when you visit our site unless you voluntarily choose to provide such information to us by e-mail, or by completing a comment or other online form.</p>
+
+<h3>If You Send Us Personal Information</h3>
+
+<p>If you choose to provide us with personally identifiable information—for example, by filling out an e-mail form to subscribe to our publications mailing list—we may use that information to respond to your comment or to get you the information you have requested. That information is temporarily retained and then destroyed in accordance with guidelines of the National Archives and Records Administration. We will not release any personally identifiable information, including e-mail addresses, to the public or to private organizations. We never create individual profiles or give such information to any private organizations. GAO never collects information for commercial marketing.</p>
+
+<h3>Cookies</h3>
+
+<p>When you visit our Web site, small bits of  text known as cookies are stored on your computer. GAO uses both per-session  and persistent cookies to make it easier for you to comment on a report,  complete a survey, and navigate our site, as well as for GAO to gather  information about how our site is used to help us improve its performance.</p>
+<p>Per-session cookies are stored in memory, are  only available during an active browser session, and are erased as soon as you  leave our Web site. Persistent cookies, which are not erased when you leave our  site, anonymously track how you interact with our site, including where you  came from and what you did during your visit. Neither our persistent nor our  per-session cookies collects personally identifiable information on users. All  data collected is used only for the purposes described above, and is accessible  to GAO staff whose duties require it. </p>
+<p>If  you do not wish to have your visit information collected, you may opt-out by  disabling cookies in your browser settings (instructions: <a href="http://www.usa.gov/optout-instructions.shtml">http://www.usa.gov/optout-instructions.shtml</a>). Doing so will  still permit you to access our full Web site. </p>
+
+<h3>Site Security and Intrusion Detection</h3>
+
+<p>GAO uses software to monitor traffic and to identify unauthorized attempts to upload or change information, to cause harm, or otherwise to damage this site. Unauthorized attempts to upload information or change information on this server are strictly prohibited. Unauthorized use, tampering with or modification of this system—including supporting hardware or software—may subject the violator to criminal and civil penalties. In the event of unauthorized intrusion, all relevant information regarding possible violation of law may be provided to law enforcement officials.</p>
+
+<h3>Social Media</h3>
+
+<p>GAO uses social media tools to share mission-related information that has been collected and approved for public dissemination. Please note that links or references to these third-party sites are provided solely for the convenience of the user, and do not constitute an endorsement by GAO. GAO does not own, manage, or control the applications used on third-party social Web sites. Although some social media Web sites may request information at the time of registration, GAO does not routinely collect or retain any private information from our use of third-party social media Web sites or applications. In some cases, we may collect posted comments on these sites when necessary to determine whether and how to respond to a posted inquiry. To the extent that GAO collects or retains information posted to social media sites or applications, it will be maintained in GAO's records management system which has security control safeguards in place for the protection of this information. GAO will retain comments or other information copied from these sites and applications only as long as data retention schedules require.</p>
+
+<p>GAO encourages all users to read the privacy policies of the third-party sites and applications before registering or posting information. GAO disclaims any liability for any loss or damage resulting from any comments posted on these sites and applications.</p>
+
+<h3>Contact</h3>
+
+<p>If you have any questions or comments regarding GAO's privacy policy, please contact the GAO Privacy Office at <a href="mailto:privacy@gao.gov">privacy@gao.gov</a>.</p>
+
 <p>GAO welcomes questions about this site. Please address them to <a href="mailto:contact@gao.gov">contact@gao.gov</a>.</p>
 
 	</div></div> <!-- close main1 & main2 -->
@@ -119,27 +267,98 @@
 		</div> <!-- close content -->
 	 <!--   sub nav -->
 
-
-	 
- 
-<!-- [BEGIN] Footer -->
-<div id="footer">
- <div class="column-in">
-  <div id="footerInner">
-      <ul class="footerlinks">
-    <li class="pipe"><a href="/index.html">Home</a></li>    <li class="pipe"><a href="/about/index.html">About GAO</a></li>
-    <li class="pipe"><a href="/contact.html">Contact GAO</a></li>
-    <li class="pipe"><a href="/privacy.html">Privacy &amp; Other Site Policies </a></li>
-		<li class="pipe"><a href="/about/products/foia.html">FOIA</a></li>
-    <li class="pipe"><a href="/sitemap.html">Site Map</a></li>
-    <li class="pipe"><a href="/subscribe/index.php">E-mail Updates</a></li>
-	
-    				
-   </ul>
-   <div class="air"> <a class="air" href="/values/">Accountability&nbsp;&nbsp; Integrity &nbsp;&nbsp;Reliability</a> </div>
-  </div>
- </div>
 </div>
-<!-- [END] Footer -->
+	 
+	<div id="push"></div>
 
-</body></html>
+<!-- [BEGIN] Footer -->
+
+<div id="footer">
+
+
+
+<div id="footertop">&nbsp;</div>
+
+
+	<div id="subfooter">
+		<div class="col">
+			<h4><a onmousedown="return clk(this.href,'href-footer');" href="/browse/date/week">Reports &amp; Testimonies</a></h4>
+
+			<ul>
+				<li><a onmousedown="return clk(this.href,'href-footer');" href="/browse/date">Browse By Date</a></li>
+				<li><a onmousedown="return clk(this.href,'href-footer');" href="/browse/topic">Browse By Topic</a></li>
+				<li><a onmousedown="return clk(this.href,'href-footer');" href="/browse/agency">Browse By Agency</a></li>
+			</ul>
+			
+			<h4><a onmousedown="return clk(this.href,'href-footer');" href="/key_issues/overview">Key Issues</a></h4>
+
+			<ul>
+				<li><a onmousedown="return clk(this.href,'href-footer');" href="/key_issues/overview#t=1">Browse By Topic</a></li>
+				<li><a onmousedown="return clk(this.href,'href-footer');" href="/key_issues/overview#t=2">Browse By Agency</a></li>
+				<li><a onmousedown="return clk(this.href,'href-footer');" href="/key_issues/overview#t=3">Browse Collections</a></li>
+			</ul>
+		</div>
+		<div class="col">
+			<h4><a onmousedown="return clk(this.href,'href-footer');" href="/legal/index.html">Legal Decisions &amp;<br>Bid Protests</a></h4>
+			<ul>
+				<li><a onmousedown="return clk(this.href,'href-footer');" href="/legal/genleg.html">General Legal Decisions FAQs</a></li>
+				<li><a onmousedown="return clk(this.href,'href-footer');" href="/legal/bids/bidprotest.html">Bid Protests</a></li>
+				<li><a onmousedown="return clk(this.href,'href-footer');" href="/legal/redbook/redbook.html">Red Book</a></li>
+				<li><a onmousedown="return clk(this.href,'href-footer');" href="/legal/lawresources/resources.html">Appropriations Law</a></li>
+				<li><a onmousedown="return clk(this.href,'href-footer');" href="/legal/contract/appeals.html">Contract	Appeals Board</a></li>
+				<li><a onmousedown="return clk(this.href,'href-footer');" href="/legal/fedvac/vacancies.html">Federal Vacancies Act Resources</a></li>
+				<li><a onmousedown="return clk(this.href,'href-footer');" href="/legal/congressact/congress.html">Congressional Review Act</a></li>
+			</ul>
+		</div>
+		<!--/ .col -->
+		<div class="col">
+			<h4><a onmousedown="return clk(this.href,'href-footer');" href="/resources.html">Resources For</a></h4>
+			<ul>
+				<li><a onmousedown="return clk(this.href,'href-footer');" href="/congress.html">The Congress</a></li>
+				<li><a onmousedown="return clk(this.href,'href-footer');" href="/press.html">The Media</a></li>
+				<li><a onmousedown="return clk(this.href,'href-footer');" href="/aac.html">The Auditing and Accountability Community</a></li>
+				<li><a onmousedown="return clk(this.href,'href-footer');" href="/fedagencies.html">Federal Agencies</a></li>
+				<li><a onmousedown="return clk(this.href,'href-footer');" href="/researchers.html">Researchers</a></li>
+			</ul>
+			<h4><a onmousedown="return clk(this.href,'href-footer');" href="/fraudnet/fraudnet.htm">FraudNet: Reporting Fraud</a></h4>
+		</div>
+		<!--/ .col -->
+		<div class="col">
+			<h4><a onmousedown="return clk(this.href,'href-footer');" href="/cghome/index.html">Comptroller General</a></h4>
+			<h4><a onmousedown="return clk(this.href,'href-footer');" href="/about/index.html">About GAO</a></h4>
+			<ul>
+				<li><a onmousedown="return clk(this.href,'href-footer');" href="/about/contact.html">Contact GAO</a></li>
+				<li><a onmousedown="return clk(this.href,'href-footer');" href="/careers/index.html">Careers</a></li>
+				<li><a onmousedown="return clk(this.href,'href-footer');" href="/ordering.htm">Ordering&nbsp;GAO&nbsp;Publications</a></li>				
+				<li><a onmousedown="return clk(this.href,'href-footer');" href="/about/products/foia.html">FOIA</a></li>
+				<li><a onmousedown="return clk(this.href,'href-footer');" href="/privacy.html">Privacy Policy</a></li>
+				<li><a onmousedown="return clk(this.href,'href-footer');" href="/about/workforce/nofear.html">No FEAR Act Data</a></li>
+			</ul>
+			<h4><a onmousedown="return clk(this.href,'href-footer');" href="/subscribe/index.php">E-mail Updates</a></h4>
+						
+		</div>
+		<!--/ .col -->
+		<div class="col">
+				<h4><a onmousedown="return clk(this.href,'href-footer');" href="/multimedia/video/">Multimedia</a></h4>
+				<ul>
+					<li><a onmousedown="return clk(this.href,'href-footer');" href="/podcast/watchdog.html">Podcast Gallery</a></li>
+					<li><a onmousedown="return clk(this.href,'href-footer');" href="/multimedia/video/">Video Gallery</a></li>
+				</ul>
+                <h4><a onmousedown="return clk(this.href,'href-footer');" href="/about/hcac/index.html">Health Care Advisory Committees</a></h4>
+                <h4><a onmousedown="return clk(this.href,'href-footer');" href="/using.htm">Help</a></h4>
+				<h4><a onmousedown="return clk(this.href,'href-footer');" href="/sitemap.html">Site Map</a></h4>
+		</div>
+		<div style="clear:both"></div>
+	</div>
+
+
+<div class="air">
+   <a href="/values/">ACCOUNTABILITY&nbsp;&nbsp; INTEGRITY &nbsp;&nbsp;RELIABILITY</a>
+</div>
+ 
+
+
+<!-- [END] Footer -->
+<script>var _gaq=[['_setAccount','UA-29643216-1'],['_setDomainName','gao.gov'],['_trackPageview']];(function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];g.src='//www.google-analytics.com/ga.js';s.parentNode.insertBefore(g,s)}(document,'script'))</script>
+
+</div></body></html>
