@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the divestopedia.com privacy policy that was archived on 2012-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121112145106id_/http%3A//divestopedia.com/about/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the divestopedia.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530104845id_/http%3A//divestopedia.com/about/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Divestopedia.com
 
@@ -97,7 +97,7 @@ If you have questions or suggestions, please complete the form on our [Contact U
 Divestopedia Inc. o/a Divestopedia.com  
 Suite 104, 4207 - 98 Street NW  
 Edmonton, Alberta Canada T6E 5R7  
-Last updated June 6, 2012  
+Last updated Saturday, May 04, 2013  
 
 
   
