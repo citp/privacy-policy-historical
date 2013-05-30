@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the betfair.com.au privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127184024id_/http%3A//www.betfair.com/AUS_NZL/aboutUs/Privacy.Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betfair.com.au privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530131404id_/http%3A//www.betfair.com/AUS_NZL/aboutUs/Privacy.Policy) for the most accurate reproduction.*
 
 # Betfair
 
@@ -31,7 +31,7 @@ To ensure a good quality of service we may monitor and record any communication 
 
 ### How we use Cookies on our Site and what Information we collect
 
-Betfair use ‘cookies’ in order to provide you with a better experience. To find out more about cookies, please see our [Cookie Policy](https://web.archive.org/aboutUs/Cookie.Policy/).
+Betfair uses ‘cookies’ in order to provide you with a better experience. To find out more about cookies, please see our [Cookie Policy](https://web.archive.org/aboutUs/Cookie.Policy/).
 
 ### How your Personal Information will be used?
 
