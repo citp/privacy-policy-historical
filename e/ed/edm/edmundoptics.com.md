@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edmundoptics.com privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119042254id_/http%3A//www.edmundoptics.com/learning-and-support/sales/shipping-and-policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edmundoptics.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530185440id_/http%3A//www.edmundoptics.com/learning-and-support/sales/shipping-and-policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Edmund Optics
 
