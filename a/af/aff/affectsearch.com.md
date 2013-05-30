@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the affectsearch.com privacy policy that was archived on 2012-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121209014039id_/http%3A//affectsearch.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affectsearch.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530163545id_/http%3A//affectsearch.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Affectsearch.com- Privacy Policy
 
