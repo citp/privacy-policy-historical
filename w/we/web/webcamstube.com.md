@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webcamstube.com privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127153624id_/http%3A//www.webcamstube.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webcamstube.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530110441id_/http%3A//www.webcamstube.com/privacy.html%3F) for the most accurate reproduction.*
 
 # WebCamsTube - Privacy
 
