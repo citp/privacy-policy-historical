@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the proudlypinoy.tv privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221083802id_/http%3A//proudlypinoy.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proudlypinoy.tv privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530095144id_/http%3A//proudlypinoy.tv/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Proudly Pinoy
 
