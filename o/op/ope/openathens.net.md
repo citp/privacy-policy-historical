@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the openathens.net privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105133220id_/http%3A//www.eduserv.org.uk/legal/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openathens.net privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530221727id_/http%3A//www.eduserv.org.uk/legal/privacy-and-cookies) for the most accurate reproduction.*
 
-# Privacy & Cookies Policy
+# Privacy & Cookies Policy | Eduserv
 
 We’re committed to protecting the privacy of people who use our products and services, or who visit our website. As part of our responsibility we let you know what information we collect, why we collect it and what we do to safeguard it.
 
@@ -92,4 +92,4 @@ If you would like to contact us about any aspect of our Privacy Policy, please 
 
 May 2012 
 
-Last reviewed date: 18 June 2012
+Last reviewed date: 25 February 2013
