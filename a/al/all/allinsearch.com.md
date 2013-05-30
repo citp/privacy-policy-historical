@@ -1,27 +1,33 @@
-> *The following text is extracted and transformed from the allinsearch.com privacy policy that was archived on 2006-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060527113811id_/http%3A//allinsearch.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allinsearch.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530185622id_/http%3A//allinsearch.com/policy) for the most accurate reproduction.*
 
-# AllInSearch
+# Search - allinsearch.com
 
-** AllInSearch has the following Privacy Policy with respect to information gathered on its Web pages.  **
+## General
 
-The terms "we" and "us" refer to AllInSearch.
+allinsearch.com respects the privacy of all those who use the services we provide on this site. We have a simple policy that we will not wilfully disclose any personal information regarding our users without first obtaining their permission, unless required by law. By using our web site, you consent to the collection and use of your information as outlined in this policy and to our Terms and Conditions of Use. 
 
-The **Information Collected**
+## Use of Cookies
 
-This notice applies to all information collected on the AllInSearch Web site or submitted to AllInSearch at any time.  
-Personally identifiable information then visiting AllInSearch and signing up for or using AllInSearch services, you may choose to supply AllInSearch with information that identifies you personally. This information may include the your name and contact information, as well as payment information. 
+A "cookie" is a file sent to your browser by a Web server and stored on your computer, it contains data that Web sites use to identify you as a unique user. Companies which advertise on our site may collect information from you if you click on their advertisements or access their sites. They may do this by using cookies. Due to the way the Internet operates, we cannot control this collection of information. Most Web browsers are initially set up to accept cookies. You can change the settings of your browser to refuse all cookies or to notify you each time a cookie is sent to your computer, giving you the choice whether to accept it or not. 
 
-**The Way We Use Information**
+If you have any questions or concerns about the way in which information is collected or used by another site, then you should contact whoever is responsible for that site directly. 
 
-We use the information you provide about yourself or others to complete the transaction for which the information is intended. Such transactions may include: administering a service, such as search, advertising sales, completing an order; replying to support requests; or contacting you if you have granted us permission to do so. Except as provided in this Privacy Policy we do not share this information with outside parties without your permission except to the extent that is necessary to administer the services or to comply in responding to legal proceedings.
+## What Information does allinsearch.com Collect?
 
-We never use or share the personally identifiable information provided to us online in ways or for reasons unrelated to the ones described above without also providing an opportunity to opt-out or otherwise prohibit such unrelated uses.
+allinsearch.com does not collect any personal information about you (such as your name or email address) except when you specifically and knowingly provide that information. We do keep a record of the IP addresses from which users access our site. This data is used by us for internal administration, and to analyse the way in which people use our site, so that we can keep improving the services we offer. This data also provides us with anonymous and broad demographic information about those using our site. 
 
- **Data Security**  
-To prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of information, we have put in place appropriate physical, electronic, and managerial procedures reasonably designed to safeguard and secure the information we collect online. Personnel who have access to our database are trained to maintain and secure all information. **Access or Update Your Information**  
-Members can access their information by logging in to their password-protected account.  
-To protect your privacy and security, we will take reasonable steps to verify your identity before granting access or making corrections to your information. **Contact**
+## Does allinsearch.com disclose information to anyone else?
 
-Should you have other questions or concerns about this privacy policy, please 
+We do not discose any information about our site users to any 3rd party. For example, we may disclose the total number of "hits" our sites receive, or how often the average user visits our site, or which terms are most often entered in our search engine. Please be aware, however, that we will release specific personal information about you if required by law. We receive and reply to email from users on a regular basis. For record-keeping purposes we retain copies of all incoming and outgoing email. Information in the email we receive or send will not be disclosed to any third party without the permission of the sender, either express or implied, unless required by law. 
 
-[ contact us](mailto:).
+## Links
+
+The allinsearch.com site and search database contain a large number of links to external sites. Please be aware that these external sites are developed by people over whom we have no control, and we are not responsible for their privacy practices. This Privacy Policy applies only to all allinsearch.com sites. We encourage you to familiarise yourself with the privacy policy of any Web site you visit which collects personal information, and to exercise discretion when providing such information. 
+
+## Changes to the Privacy Policy
+
+We may change this Privacy Policy from time to time at our discretion and without notice. If we do, an updated version of this Privacy Policy will be made available on this site so that you remain aware of the data we collect, how we use it, and under what circumstances we disclose it. 
+
+## Further information
+
+Please feel free to contact us if you have any questions, comments or would like more information. You can contact the allinsearch.com team here. This Privacy Statement is version 1.0, and replaces all previous versions. 
