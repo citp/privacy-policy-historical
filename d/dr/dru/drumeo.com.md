@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the drumeo.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919205932id_/http%3A//drumeo.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drumeo.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531013155id_/http%3A//drumeo.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Drumeo - Privacy Policy
+# Drumeo Store - Bass Drum Secrets
 
 Below is a list of the standard policies we use on this website. They are in place to safeguard our users, and to ensure we can provide a quality user experience!
 
 ## Standard Website Logs
 
-The Drumeo.com website logs all website visitors and transactions. We collect the standard information most all websites collect such as: the type of browser you are using, your IP address, your ISPs domain, time of day, date, web pages viewed, and length of time that you spend visiting this site. This data is logged on our servers, and through Google™ Analytics for internal use only. We won’t share any of the information outside of our company, and only analyze group numbers – never singling out an individuals information.
+The Drumeo.com website logs all website visitors and transactions. We collect the standard information most all websites collect such as: the type of browser you are using, your IP address, your ISPs domain, time of day, date, web pages viewed, and length of time that you spend visiting this site. This data is logged on our servers, and through Google™ Analytics for internal use only. We won't share any of the information outside of our company, and only analyze group numbers – never singling out an individuals information.
 
 ## Subscriptions & E-mail Data
 
@@ -37,5 +37,3 @@ Customers that have purchased from us are also added to our mailing-list by defa
 ## Changes to this Policy
 
 Please note that basic changes to this policy can be done at any time.
-
-[](https://web.archive.org/support/)
