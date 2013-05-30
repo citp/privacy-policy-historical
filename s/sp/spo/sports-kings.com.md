@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sports-kings.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225043556id_/http%3A//sports-kings.com/contact/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sports-kings.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530205529id_/http%3A//sports-kings.com/contact/privacy-policy) for the most accurate reproduction.*
 
-# Sports-Kings
+# Privacy Policy | Sports-Kings – The Kings of Sports Lists
 
 Privacy Policy
 
