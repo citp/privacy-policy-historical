@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the messengeroo.com privacy policy that was archived on 2010-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100214151653id_/http%3A//www.messengeroo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the messengeroo.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530145435id_/http%3A//www.messengeroo.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | MessengeRoo
 
@@ -28,6 +28,8 @@ Currently we assign cookies to our readers in order to save their preferences. T
 **Third Party Cookies**
 
 Many of our advertisers use cookies in order to determine the number of times you have seen an advertisement. This is done to limit the number times you are shown the same advertisement. MessengeRoo does not have access to this data.
+
+We use third-party companies to serve ads and collect non-personally identifiable information (e.g., the pages you visit, and which links you click, which ads you see and click on, and the categories of search terms you enter) when you visit our web site. These companies may use the information outlined above (which does not include your name, address, email address or telephone number) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you. These companies often use a cookie or third party web beacon to collect this information. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp) (link to the NAI universal user opt-out).
 
 **Traffic Reports**
 
