@@ -1,0 +1,267 @@
+<!--The following is the downloaded HTML source of the splashpost.com privacy policy that was archived on 2013-05-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130530225224id_/http%3A//www.splashpost.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/"><head prefix="og: http://ogp.me/ns fb: http://ogp.me/ns/fb">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>SplashPost - Sell and Promote Products in Facebook's News Feed with Mutimedia Wall Post</title>
+<meta property="og:url" content="http://www.splashpost.com/privacy">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Turn Facebook Likes Into Profits - News Feed Promotions">
+<meta property="og:image" content="http://www.splashpost.com/images/ogimage.png">
+<meta property="og:description" content="Discover how to turn Facebook likes into profits - Using Multi-media posts, you can collect emails and advertise your products right inside Facebook's News Feed">
+<link rel="image_src" type="image/png" href="http://www.splashpost.com/images/ogimage.png">
+<link rel="icon" type="image/x-icon" href="http://www.splashpost.com/images/favicon.ico">
+<link rel="SHORTCUT ICON" href="http://www.splashpost.com/images/favicon.ico">
+<link href="http://www.splashpost.com/stylesheets/splashpost.css?1263784518" rel="stylesheet" type="text/css" media="all">
+<link href="http://www.splashpost.com/stylesheets/jquery.fancybox.css?v=2.1.0#?1263784518" rel="stylesheet" type="text/css" media="all">
+<link href="http://www.splashpost.com/stylesheets/privacy.css?1263784518" rel="stylesheet" type="text/css" media="all">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+	var baseurl = "http://www.splashpost.com/";
+	var cdnurl = "http://scdn.r.worldssl.net/";
+	var fbappID = '189139794545524';
+</script>
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js?1263784518"></script>
+<script type="text/javascript" src="http://www.splashpost.com/js/loading.js?1263784518"></script>
+<script type="text/javascript" src="http://www.splashpost.com/js/spin.min.js?1263784518"></script>
+<script type="text/javascript" src="http://www.splashpost.com/track/js?__krtrack=1369954343&amp;1263784518"></script>
+<script type="text/javascript" src="http://www.splashpost.com/js/splashpost.js?1263784518"></script>
+<script type="text/javascript" id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=189139794545524"></script> 
+<script type="text/javascript" src="http://www.splashpost.com/js/jquery.fancybox.pack.js?v=2.1.0#1263784518"></script>
+<script type="text/javascript">
+	var uid, accessToken, perms ;
+	var authurl = '';
+	var token = '';
+	var userplans = "";
+	isloggedin = '0';
+
+	function fblogout() {
+		FB.logout();
+		//$(window.location).attr('href', baseurl );
+	};
+		function do_connect(redirect, tgt) { 
+		if ((typeof (tgt) == "undefined") || ((typeof (tgt) != "undefined") && (tgt != "_blank"))) {
+			Loading.show();
+		}
+		FB.login(function(response) { 
+			if(typeof redirect == "undefined") redirect = "auth";  
+			FB.getLoginStatus(function(response) {
+				if (response.status === 'connected') { 
+					uid = response.authResponse.userID;
+					accessToken = response.authResponse.accessToken;  
+
+					
+					
+					if (typeof (tgt) !== "undefined") {
+						return true;
+					} else {
+						document.getElementById("authentication").src=baseurl+'auth';
+					}
+
+					trk.authorized();
+					
+					FB.api('/me/permissions', function (response) {
+						if(typeof response != "undefined")
+						perms = response.data[0]; 
+						FB.api('/me', function(response) { 
+							jQuery.post(basurl+'users/saveinfo',{ uid:uid,name:response.name,timezone:response.timezone,email:response.email,gender:response.gender,accesstoken:accessToken,token:'',perms:perms},function(){
+															});
+						});      
+					} );    
+				} else if (response.status === 'not_authorized') { 
+					trk.not_authorized(function(){
+					$(window.location).attr('href', baseurl+redirect);   
+				});
+				} else { 
+					$(window.location).attr('href', baseurl+redirect);  
+				} 
+			});  
+		}, {scope: 'email,manage_pages,publish_stream,offline_access'}); 
+	} 
+	
+
+	jQuery(document).ready(function() {
+		jQuery("#fb_connect_go").click(function() { 
+				jQuery("div.fb-login-button").click(); 
+				return false;
+		}); 
+		//lintercallback();
+	}); 	
+
+	// For Tracker
+	var trk_name = "Privacy Policy Page";
+	var trk_param = {};
+	</script>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-35992103-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+</head>
+<body class=""><div id="olark" style="display: none;"><olark><iframe frameborder="0" id="olark-loader"></iframe></olark></div>
+<div id="fb-root"></div>
+<div id="page_header">
+	<div class="content_wrapper">
+		<div id="logo"><a href="http://www.splashpost.com/" title="Turn Facebook Likes Into Profits - News Feed Promotions"><img src="http://www.splashpost.com/images/splashpost.png" border="0"></a></div>
+		<div id="mainmenu">
+			<ul>
+			
+				<li><a href="http://www.splashpost.com/">home</a></li>
+				<li><a href="http://www.splashpost.com/faq">faq</a></li>
+				<li class="navplans"><a href="http://www.splashpost.com/plans">plans &amp; pricing</a></li>
+				<li><a href="http://www.splashpost.com/about">about</a></li>
+				<li><a href="http://www.splashpost.com/contactus">contact</a></li>
+				<li><a target="_blank" href="http://www.splashpost.com/blog">blog</a></li>
+				<li class="separator"></li>
+				<li class="lastmenu"><a href="#" class="signin fbconnect">sign in</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+<div id="page_content"><div id="about">
+
+	<div class="header">
+		<div class="content_wrapper">
+			<hgroup>
+				<h1>Privacy Policy</h1>
+			</hgroup>
+		</div>
+	</div>
+
+	<div class="body">
+		<div class="content_wrapper" style="padding-bottom:30px">
+			<div class="text">
+				<p class="second">
+					This Privacy Policy explains in clear terms, what data we collect, why we collect it, and how we use it. For the full legal version, please see the <a href="http://www.splashpost.com/terms" class="bluelink">EULA</a>.
+				</p>
+				<h3>What information do we collect?</h3>
+				<p class="second notend">
+					We collect information from you when you register and/or login through our website. To gain access to all features you may choose to log in via a 3rd party website/application such as Facebook and Twitter.
+				</p>
+				<p class="second notend">
+					Furthermore for purposes of communication between you and SplashPost, you may be asked to register: name, e-mail address and phone number. The specific purpose of the registration will be clearly explained on the registration page.
+				</p>
+				<p class="second notend">
+					You may, however, <a href="http://www.splashpost.com/" class="bluelink">visit our website</a> anonymously.
+				</p>
+				<h3>What we collect from Facebook?</h3>
+				<p class="second">
+					If you choose to login via Facebook we collect:
+				</p>
+				<h3>Access my basic information</h3>
+				<p class="second">Includes name, profile picture, gender, networks, user ID, list of friends, and any other information I've made public</p>
+				<h3>Access my data any time</h3>
+				<p class="second">SplashPost may access your data when you are not using the application.</p>
+				<h3>What do we use your information for?</h3>
+				<p class="second notend">Any of the information we collect from you may be used in one of the following ways:</p>
+				<ul class="none">
+					<li>To personalize your experience<br>(Your information helps us to better respond to your individual needs)</li>
+					<li>To process transactions Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested. </li>
+					<li>To send periodic emails<br>
+					The email address you provide for order processing, may be used to send you information and updates, in addition to receiving occasional company news, updates, related product or service information, etc.</li>
+				</ul>
+				<p class="second">Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.</p>
+				<h3>Do we use cookies?</h3>
+				<p class="second notend">Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.</p>
+				<p class="second notend">We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.</p>
+				<h3>Do we disclose any information to outside parties?</h3>
+				<p class="second notend">We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted arties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect others or ours rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.</p>
+				
+				<h3>Third party links</h3>
+				<p class="second notend">Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.</p>
+				<h3>California Online Privacy Protection Act Compliance</h3>
+				<p class="second notend">Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.</p>
+				<p class="second notend">As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime, by logging into the SplashPost profile, go to Profile tab.</p>
+				<h3>Childrens Online Privacy Protection Act Compliance</h3>
+				<p class="second">We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.</p>
+				<h3>Change of Services and Amendments</h3>
+				<p class="second notend">SplashPost reserves the rights to, at any time, to modify, suspend, or discontinue providing the Services or any part thereof with or without notice. We will not be liable to you or to any third party for any modification, suspension or discontinuance of the Services.</p>
+				<p class="second">We may amend, modify, change, add or remove portions of this Agreement or any Guidelines at any time without notice to you by posting a revised version on <a href="http://www.splashpost.com" class="bluelink">www.SplashPost.com</a>. The revised version will be effective at the time we post it. Your continued use of the Services after posting of the changes constitutes your binding acceptance of such changes.</p>
+				<h3>Terms and Conditions</h3>
+				<p class="second">Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our mobile application and website at <a href="http://www.splashpost.com/terms" class="bluelink">http://www.splashpost.com/terms</a></p>
+				<h3>Your Consent</h3>
+				<p class="second">By using our site, you consent to our <a href="http://www.splashpost.com/privacy" class="bluelink">online privacy policy</a>.</p>
+				<h3>Changes to our Privacy Policy</h3>
+				<p class="second">If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.</p>
+				<p class="second" style="font-style:italic;">This policy was last modified on 12-7-2012</p>
+				
+				<h3>Contacting Us</h3>
+				<p class="second notend">If there are any questions regarding this privacy policy you may contact us using the information below.
+				</p>
+				<ul class="contactinfo">
+					<li>Website: <a href="http://www.splashpost.com" class="bluelink">www.SplashPost.com</a></li>
+					<li>E-mail: <a href="mailto:info@splashpost.com" class="bluelink">info@SplashPost.com</a></li>
+				</ul>				
+			</div>
+			<div class="clearfix"></div>
+		</div>
+	</div>
+	
+</div></div>
+<div id="page_footer">
+	<div class="content_wrapper">
+		<div id="footer_row1">
+			<div id="footermenu">
+				<ul>
+					<li><a href="http://www.splashpost.com/terms">Terms of Service</a></li>
+					<li class="separator">|</li>
+					<li><a href="http://www.splashpost.com/privacy">Privacy Policy</a></li>
+					<li class="separator">|</li>
+					<li><a href="http://www.splashpost.com/about">About</a></li>
+					<li class="separator">|</li>
+					<li><a href="http://www.splashpost.com/contactus">Contact</a></li>
+				</ul>
+			</div>
+			<div id="copyright">
+				© 2013 SplashPost. All Rights Reserved.
+			</div>
+		</div>
+		<br class="clear">
+		<div id="footer_row2">
+			<div id="question">
+				Got questions? We'd love to hear from you. Email us <a href="mailto:support@splashpost.com" class="whitelink">support@splashpost.com</a>
+			</div>
+			<div id="social">
+				<ul>
+					<li><a href="http://facebook.com/SplashPost" class="social_facebook" target="_blank"></a></li>
+					<li><a href="http://twitter.com/SplashPost" class="social_twitter" target="_blank"></a></li>
+					<!--<li><a href="/blogs/feed" class="social_rss" target="_blank"></a></li>-->
+				</ul>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="hide">
+<iframe name="authentication" id="authentication" src="http://www.splashpost.com/images/ajax-loader.gif" frameborder="0" height="0" width="0"></iframe>
+</div>
+<!-- begin olark code -->
+<script data-cfasync="false" type="text/javascript">/*<![CDATA[*/window.olark||(function(c){var f=window,d=document,l=f.location.protocol=="https:"?"https:":"http:",z=c.name,r="load";var nt=function(){
+f[z]=function(){
+(a.s=a.s||[]).push(arguments)};var a=f[z]._={
+},q=c.methods.length;while(q--){(function(n){f[z][n]=function(){
+f[z]("call",n,arguments)}})(c.methods[q])}a.l=c.loader;a.i=nt;a.p={
+0:+new Date};a.P=function(u){
+a.p[u]=new Date-a.p[0]};function s(){
+a.P(r);f[z](r)}f.addEventListener?f.addEventListener(r,s,false):f.attachEvent("on"+r,s);var ld=function(){function p(hd){
+hd="head";return["<",hd,"></",hd,"><",i,' onl' + 'oad="var d=',g,";d.getElementsByTagName('head')[0].",j,"(d.",h,"('script')).",k,"='",l,"//",a.l,"'",'"',"></",i,">"].join("")}var i="body",m=d[i];if(!m){
+return setTimeout(ld,100)}a.P(1);var j="appendChild",h="createElement",k="src",n=d[h]("div"),v=n[j](d[h](z)),b=d[h]("iframe"),g="document",e="domain",o;n.style.display="none";m.insertBefore(n,m.firstChild).id=z;b.frameBorder="0";b.id=z+"-loader";if(/MSIE[ ]+6/.test(navigator.userAgent)){
+b.src="javascript:false"}b.allowTransparency="true";v[j](b);try{
+b.contentWindow[g].open()}catch(w){
+c[e]=d[e];o="javascript:var d="+g+".open();d.domain='"+d.domain+"';";b[k]=o+"void(0);"}try{
+var t=b.contentWindow[g];t.write(p());t.close()}catch(x){
+b[k]=o+'d.write("'+p().replace(/"/g,String.fromCharCode(92)+'"')+'");d.close();'}a.P(2)};ld()};nt()})({
+loader: "static.olark.com/jsclient/loader0.js",name:"olark",methods:["configure","extend","declare","identify"]});
+/* custom configuration goes here (www.olark.com/documentation) */
+olark.identify('5309-102-10-1528');/*]]>*/</script><noscript><a href="https://www.olark.com/site/5309-102-10-1528/contact" title="Contact us" target="_blank">Questions? Feedback?</a> powered by <a href="http://www.olark.com?welcome" title="Olark live chat software">Olark live chat software</a></noscript>
+<!-- end olark code -->
+
+</body></html>
