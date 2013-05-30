@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the unmc.edu privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110065011id_/http%3A//www.unmc.edu/hipaa/notice_privacy_practices.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unmc.edu privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530211328id_/http%3A//www.unmc.edu/hipaa/notice_privacy_practices.htm) for the most accurate reproduction.*
 
-# UNMC | Notice of Privacy Practices
+# Notice of Privacy Practices | UNMC
 
 **Notice of Privacy Practices - How Your Medical Information Is Used**
 
