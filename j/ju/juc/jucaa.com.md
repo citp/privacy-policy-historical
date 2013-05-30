@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jucaa.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221074528id_/http%3A//www.jucaa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jucaa.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530050818id_/http%3A//www.screentub.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Jucaa
+# Privacy Policy - ScreenTub
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy. 
 
