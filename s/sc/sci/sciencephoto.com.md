@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sciencephoto.com privacy policy that was archived on 2012-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121117225942id_/http%3A//www.sciencephoto.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sciencephoto.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530193253id_/http%3A//www.sciencephoto.com/privacy.html) for the most accurate reproduction.*
 
-# Science Photo Library
+# privacy - Science Photo Library
 
 Science Photo Library follows the UK 1998 Data Protection Act and is committed to protecting your privacy. By using this site, you understand and agree to the terms of this policy. For data protection purposes, Science Photo Library is the controller and, unless otherwise noted, is also the processor of data. 
 
