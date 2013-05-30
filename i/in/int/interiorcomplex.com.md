@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interiorcomplex.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503204406id_/http%3A//interiorcomplex.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interiorcomplex.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530054217id_/http%3A//interiorcomplex.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy | Interior Complex
 
@@ -6,7 +6,7 @@ Interior Complex recognizes that your privacy and the protection of your persona
 
 BY USING THIS SITE, YOU AGREE TO THE TERMS OF THIS POLICY.
 
-This policy was last modified in December 2011.
+This policy was last modified in March 2013.
 
 Interior Complex provides you with original blog posts about a variety of design topics.
 
@@ -20,7 +20,7 @@ Interior Complex notes and saves information such as time of day, browser type, 
 
 Interior Complex uses cookies. A cookie is a small text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a Web server in the domain that issued the cookie to you. You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of this or other websites you visit.
 
-We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/).
+We use third-party advertising companies to serve ads and collect information when users visit our site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements on our site, other websites and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, check out <http://www.networkadvertising.org/managing/opt_out.asp>.
 
 In particular, Google, as a third party vendor, uses cookies to serve ads on our site. Google’s use of the DoubleClick DART cookie enables it to serve ads to our users based on your visits to our sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
