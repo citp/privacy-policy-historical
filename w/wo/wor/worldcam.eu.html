@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the worldcam.eu privacy policy that was archived on 2012-12-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121224033824id_/http%3A//www.worldcam.eu/polityka%2Cprywatnosci.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the worldcam.eu privacy policy that was archived on 2013-05-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130530200834id_/http%3A//worldcam.eu/polityka%2Cprywatnosci.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <title>Privacy Policy</title>
@@ -11,10 +11,14 @@
 <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
 
 <script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.worldcam.pl/js/jquery.min.js"></script>
+<script type="text/javascript" src="js/jquery.cookie.js"></script>
+<script type="text/javascript" src="js/jquery.placeholder.min.js"></script>
 <script type="text/javascript" src="js/xml.js"></script>
 <script type="text/javascript">window.google_analytics_uacct = "UA-193922-14";</script>
 <script type="text/javascript" src="https://apis.google.com/js/plusone.js">  {lang: 'pl'}</script>
-<script type="text/javascript" src="http://www.worldcam.pl/js/jquery.livequery.js"></script>
+
+<script type="text/javascript" src="js/jquery.autoSuggest.js"></script>
+<link rel="stylesheet" type="text/css" href="http://worldcam.pl/css/autoSuggest.css" media="all">
 
 <script type="text/javascript">
 
@@ -32,13 +36,15 @@
 
 </script>
 
- 
+
 </head><body>
 
 <div id="container">
 <div id="header">
 
-<a href="http://www.worldcam.eu/"><img style="float:left;" src="http://www.worldcam.pl/images/top_logoen-christmas.png" alt="webcams" width="377" height="101"></a>
+
+
+<a href="http://www.worldcam.eu/"><img style="float:left;" src="http://www.worldcam.pl/images/top_logoen.png" alt="webcams" width="377" height="101"></a>
 
 <div id="loginPanel">
           
@@ -51,9 +57,14 @@
             fjs.parentNode.insertBefore(js, fjs);
           }(document, 'script', 'facebook-jssdk'));</script>
 
-          <div class="fblink" style="width:80px">
-            <div class="fb-like" data-href="http://www.facebook.com/pages/WorldCampl/132425676787014" data-send="false" data-layout="button_count" data-width="80" data-show-faces="false"></div>
+          <div class="fblink" style="width:90px">
+            <div class="fb-like" data-href="http://www.facebook.com/pages/WorldCampl/132425676787014" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false"></div>
           </div>
+          
+          <style>
+          .fb_iframe_widget iframe { position: relative; }
+          </style>
+          
               
 					<form method="post" enctype="multipart/form-data" id="frm_login">
 
@@ -62,11 +73,11 @@
 						<a href="#"><img src="http://worldcam.pl/images/flags/lang/en.png" alt="english" height="15" width="24"></a>
 						
 						<ul>
-							<li><a href="http://www.worldcam.pl/"><img src="http://worldcam.pl/images/flags/lang/pl.png" alt="Polski"> Polski</a></li>				
-							<li><a href="http://www.worldcam.eu/"><img src="http://worldcam.pl/images/flags/lang/en.png" alt="English"> English</a></li>
+							<li><a href="http://www.worldcam.eu/"><img src="http://worldcam.pl/images/flags/lang/en.png" alt="English"> English</a></li>            
 							<li><a href="http://de.worldcam.eu/"><img src="http://worldcam.pl/images/flags/lang/de.png" alt="Deutsch"> Deutsch</a></li>
 							<li><a href="http://fr.worldcam.eu"><img src="http://worldcam.pl/images/flags/lang/fr.png" alt="Français"> Français</a></li>
-							<li><a href="http://lt.worldcam.eu"><img src="http://worldcam.pl/images/flags/lang/lt.png" alt="Lietuviu"> Lietuviu</a></li>																												
+							<li><a href="http://lt.worldcam.eu"><img src="http://worldcam.pl/images/flags/lang/lt.png" alt="Lietuviu"> Lietuviu</a></li>
+							<li><a href="http://www.worldcam.pl/"><img src="http://worldcam.pl/images/flags/lang/pl.png" alt="Polski"> Polski</a></li>				              																												
 						</ul>
 
 						<br clear="left">
@@ -80,11 +91,9 @@
 						<ul>
 							<li>
                 <a style="float:right;margin-top:15px;" href="#" onclick="$(&quot;#frm_login&quot;).submit()" class="headButton"><b>Sign in</b></a>
-                login:<br>
-                <input type="text" name="l_login" class="shedit">
+                <input type="text" name="l_login" class="shedit" placeholder="login">
                 <br>
-                password:<br>
-                <input type="password" name="l_pass" class="shedit">
+                <input type="password" name="l_pass" class="shedit" placeholder="password">
                 <br>
                 <a style="color:#aaa;font-size:11px;" href="remind.html">Forgot your password?</a>
               </li>
@@ -99,11 +108,8 @@
 <div id="subheader1">
 	<form id="frm_search" action="index.php" method="get" enctype="multipart/form-data" accept-charset="utf-8">
 		<input type="hidden" name="s" value="szukaj">
-
-		<input id="sinput" class="shedit" type="text" name="szukany" size="15" onkeyup="showResult(this.value,0, 'english')">
-		<div id="livesearch"></div>
-
-		<a href="#" onclick="document.getElementById('frm_search').submit();"><img src="http://www.worldcam.pl/images/search-input.png" width="27" height="18" alt="szukaj"></a>
+		<input id="sinput" class="shedit" type="text" name="szukany" size="15">
+		<a href="#" onclick="document.getElementById('frm_search').submit();"><img src="http://www.worldcam.pl/images/search-input.png" width="27" height="20" alt="szukaj"></a>
 	</form>
 </div>
 
@@ -118,23 +124,6 @@
 
 <img src="http://www.worldcam.pl/images/strz1.gif" alt="linki" width="12" height="7"> <b>Webcams</b>
 <br><br>
-
-<div id="advert">
-
-<script type="text/javascript"><!--
-google_ad_client = "pub-4765276439845513";
-/* worldcam.eu nam menu 1 */
-google_ad_slot = "9009294052";
-google_ad_width = 160;
-google_ad_height = 90;
-//-->
-</script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>
-
-</div> 
-
-<br>
 
 <div class="mn_l">
 
@@ -151,6 +140,24 @@ google_ad_height = 90;
 <br>
 <a href="en,map.html"><b>Map</b></a>
 </div>
+
+<br>
+
+<div id="advert">
+
+<script type="text/javascript"><!--
+google_ad_client = "pub-4765276439845513";
+/* worldcam.eu nam menu 1 */
+google_ad_slot = "9009294052";
+google_ad_width = 160;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+</div> 
+
 
 <br>
 <img src="http://www.worldcam.pl/images/strz1.gif" alt="linki" width="12" height="7"> <b>Resources</b>
@@ -171,17 +178,13 @@ google_ad_height = 90;
 <div class="mn">
 
 <form name="frm_shouts" id="frm_shouts" method="post" target="shtbox" action="#">	 
-  Nick: 
-
-<input class="shedit" type="text" name="user_name" size="15" maxlength="30" id="sh_user_name" onkeypress="return submit_enter(this,event)"> <a href="register.html">Sign up now!</a><br>	<br>
-  message:<br>
-  <textarea class="shmemo" name="text" id="message" rows="3" cols="*"></textarea><br>
+<input class="shedit" type="text" name="user_name" size="15" placeholder="nick" maxlength="30" id="sh_user_name" onkeypress="return submit_enter(this,event)"> <a href="register.html">Sign up now!</a><br><br>	<textarea placeholder="message" class="shmemo" name="text" id="message" rows="3" cols="*"></textarea><br>
   <a href="/emoty.php?iframe=true" rel="prettyPhoto[iframes]">
 	  <img src="http://www.worldcam.pl/images/emotbtn.png" width="20" height="19" alt="emoticons">	
   </a>
   <input type="hidden" name="f" value="add">
   <input type="hidden" name="l" value="english">	 
-  <input type="hidden" name="code" value="7243">	 	
+  <input type="hidden" name="code" value="9046">	 	
   <a href="#sshout" id="bShout"><img src="http://www.worldcam.pl/images/en/add.gif" width="54" height="19" alt="dopisz"></a><br><br>
 </form>
 <iframe src="send_shouts.php?l=english" name="shtbox" id="shtbox" width="134" height="280" scrolling="auto"></iframe>
@@ -199,9 +202,10 @@ google_ad_height = 90;
 
 <img src="http://www.worldcam.pl/images/strz1.gif" alt="linki" width="12" height="7"><b>Stats</b>
 <div class="mn">
-Webcams: <b>8128</b><br>
-				Users online: <b>70 / 1279</b><br>
-				Comments: <b>32232</b><br>
+Webcams: <b>8838</b><br>
+				Users online: <b>420 / 1279</b><br>
+        <a href="/1,uzytkownicy.html">Users</a>: <b>15851</b><br>
+				Comments: <b>34562</b><br>
 </div><br>
 
 <br>
@@ -272,7 +276,7 @@ Should you have other questions or concerns about these privacy policies, please
 			<li><a href="napisali.html">Press</a></li>
 		</ul>
 
-		<ul>
+		<ul style="width: 200px;">
       <li><a href="http://www.facebook.com/pages/WorldCampl/132425676787014" title="WorldCam Facebook">Facebook</a></li>
 			<li><a href="#dozakladek" id="jqbookmark" title="Privacy Policy">Bookmark us!</a></li>
 			<li><a href="polityka,prywatnosci.html">Privacy Policy</a></li>
@@ -285,9 +289,9 @@ Should you have other questions or concerns about these privacy policies, please
 			<br clear="left">
 
 			<br>
-				© 2004-2012 <a href="http://www.gemsnet.pl"><b>GemsNet</b></a>. All Rights Reserved. 
+				© 2004-2013 <a href="http://www.gemsnet.pl"><b>GemsNet</b></a>. All Rights Reserved. 
 				<br>
-				Page generated in  0.003s.
+				Page generated in  0.005s.
 		</div>
 		
 		<br clear="all">
@@ -296,11 +300,63 @@ Should you have other questions or concerns about these privacy policies, please
 </div>
 
 <script type="text/javascript" src="js/js.php?l=english"></script>
-
 <link rel="stylesheet" href="http://www.worldcam.pl/css/prettyPhoto.css" type="text/css" media="screen" charset="utf-8">
 <script src="js/jquery.prettyPhoto.js" type="text/javascript" charset="utf-8"></script>
 <script type="text/javascript">
-	$("a[rel^='prettyPhoto']").prettyPhoto( {social_tools: false, show_title: false});	
+	$("a[rel^='prettyPhoto']").prettyPhoto( {social_tools: false, show_title: false});
+  $("#sinput").autoSuggest("/js/livesearch1.php", {minChars: 3, matchCase: false, searchObjProps:"name", asHtmlID:"result",startText:"", emptyText:"Nie znaleziono", limitText: "", selectionLimit:0, selectedItemProp:"name", selectionAdded: function(elem){ window.location = $('#as-values-result').val().slice(0,-1); }, extraParams:"&l=english&type=0"});
+
+  var cookie = $.cookie("hidden");
+  var hidden = cookie ? cookie.split("|").getUnique() : [];
+  var cookieExpires = 365;
+ 
+  $.each( hidden, function(){
+      var pid = this;
+      $('#' + pid).hide();
+  })
+ 
+  function updateCookie(el){
+     var indx = el.attr('id');
+     var tmp = hidden.getUnique();
+     if (el.is(':hidden')) {
+        tmp.push(indx);
+     } else {
+        tmp.splice( tmp.indexOf(indx) , 1);
+     }
+     hidden = tmp.getUnique();
+     $.cookie("hidden", hidden.join('|'), { expires: cookieExpires } );
+  }
+  
+  if(hidden.indexOf('cookie-msg') == -1) {
+     $('#cookie-msg').slideDown();
+  };
+     
+  Array.prototype.getUnique = function() {
+    var o = new Object();
+    var i, e;
+    for (i = 0; e = this[i]; i++) {o[e] = 1};
+    var a = new Array();
+    for (e in o) {a.push (e)};
+    return a;
+  }
+ 
+  if (!Array.prototype.indexOf) {
+    Array.prototype.indexOf = function(obj, start) {
+     for (var i = (start || 0), j = this.length; i < j; i++) {
+       if (this[i] == obj) { return i; }
+     }
+     return -1;
+    }
+  }
+     
+  $("#cookie-msg").html('<div id="cookie-msg-inner">Użytkowanie Witryny oznacza zgodę na wykorzystywanie plików cookies. <br/>Szczegółowe informacje w <a class="cookmore" target="_blank" href="cookies.html">Polityce cookies</a>. <span id="cookieClose">[ X ]</span></div>');
+ 
+  $('#cookieClose').click(function(){
+      $('#cookie-msg').hide();
+      updateCookie( $('#cookie-msg') );
+  });
+  
+       
 </script>	
 	
 	
