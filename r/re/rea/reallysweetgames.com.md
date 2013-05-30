@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reallysweetgames.com privacy policy that was archived on 2012-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121019073422id_/http%3A//reallysweetgames.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reallysweetgames.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530022900id_/http%3A//reallysweetgames.com/privacy.php) for the most accurate reproduction.*
 
 # Really Sweet Games
 
