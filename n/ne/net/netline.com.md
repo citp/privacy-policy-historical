@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the netline.com privacy policy that was archived on 2012-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120201235255id_/http%3A//netline.com/About/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netline.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530172248id_/http%3A//netline.com/privacy.html) for the most accurate reproduction.*
 
-# Netline Corporation : Privacy Policy
-
-## Privacy Policy
+# Privacy Policy - NetLine
 
 NetLine Corporation, a provider of e-marketing and marketing automation technology and services, is committed to protecting Internet user privacy. Below you will find our privacy policies for: 
 
