@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yesclick.com privacy policy that was archived on 2012-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121210051014id_/http%3A//yesclick.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yesclick.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530120750id_/http%3A//yesclick.com/privacy_policy.php) for the most accurate reproduction.*
 
-# YesClick - Largest Pay-Per-Click Search Engine Advertising Network
+# Privacy Policy YesClick
 
 YesClick.com is committed to protecting your privacy. This Privacy Policy explains the type of information YesClick.com collects through its website and what YesClick.com does with it. Please read the following privacy policy carefully before using the YesClick.com website. If you use the YesClick.com website, you will be bound by the terms of this Privacy Policy. This policy may change from time to time so you should check it frequently. YesClick.com does not attempt to determine the identity of any YesClick.com user by analyzing Web usage paths.
 
