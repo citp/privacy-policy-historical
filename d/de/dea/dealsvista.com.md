@@ -1,39 +1,91 @@
-> *The following text is extracted and transformed from the dealsvista.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417011004id_/http%3A//www.dealsvista.com/about.jsp%232) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealsvista.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530064358id_/http%3A//www.buxr.com/privacy) for the most accurate reproduction.*
 
-# DealsVista.com
+# Privacy Policy at Buxr.com
 
-## About us
+This site is owned and operated by Buxr LLC. Your privacy on the Internet is of the utmost importance to us. At Buxr.com, we want to make your experience online satisfying and safe.
 
-### What we do 
+Because we gather certain types of information about our users, we feel you should fully understand our policy and the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather and how we use it.
 
-We help you figure out what is best to buy, why it's best, and where to buy it at a good price. We sort through all the information and hype on products, and clearly and concisely recommend the best for what you need. Because we are web based, we can provide you much more timely information than periodicals, which have lead times of days, weeks, or even months. We are not biased by other sources.
+**Information Buxr gathers and tracks**
 
-### How DealsVista works 
+Buxr gathers two types of information about users:  
 
-DealsVista is updated constantly with new deals on a variety of products and services. 
 
-### Where we get the deals 
+  * Information that users provide through optional, voluntary submissions. These are voluntary submissions to receive our electronic newsletters, to participate in our comments or message boards or forums, and from use of the Buxr widget.
+  * Information Buxr gathers through aggregated tracking information derived mainly by tallying page views throughout our sites. This information allows us to better tailor our content to readers' needs and to help our advertisers and sponsors better understand the demographics of our audience. Because Buxr derives its revenue mainly from sponsorships and advertising, providing such aggregated demographic data is essential to keeping our service free to users. Under no circumstances does Buxr divulge any information about an individual user to a third party.
 
-The deals that you see on DealsVista come from many sources, including well known sites like amazon.com, newegg.com, and buy.com. 
 
-### Mission/or why DealsVista exists: 
 
-To create and foster a collaborative environment in which we can all easily find the very best deals on the internet. 
+Buxr Gathers User Information In The Following Processes:
 
-### Thanks 
+**Optional Voluntary Information**
 
-Thanks to the hard-working editors and hard-working users. It takes a lot of effort to keep visiting us, right? 
+We offer the following free services, which require some type of voluntary submission of personal information by users:
 
-### Privacy Policy
+1\. Electronic newsletters policy (Dispatches) 
 
-We can be reached via e-mail at admin@DealsVista.com. For each visitor to our web page, our web server automatically recognizes the vidomain name. We collect the e-mail addresses of those who communicate with us via e-mail, and other information volunteered by the visitor, such as survey information and/or site registrations. 
+We will offer a free electronic newsletter to users. Buxr gathers the email addresses of users who voluntarily subscribe. Users may remove themselves from this mailing list by following the link provided in every newsletter that points users to the subscription management page. Users can also subscribe to the newsletters at the time of registration.
 
-The information we collect is used to improve the content of our web page, used to notify visitors about updates to our web site, used by us to contact visitors for marketing purposes, not shared with other organizations for commercial purposes. If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address. 
+2\. Message boards/forums policy 
 
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our web site periodically. If you feel that this site is not following its stated information policy, you may contact us at the above address. 
+Users of the site's Message Boards and Forums must register separately for these services (both are free of charge) in order to post messages, although they needn't register to visit the site. During registration the user is required to supply a username, password, and email address.
 
-### Term of Use
+3\. "E-mail this to a friend" policy
 
-All deals, coupons, and promotions on this site are subject to change without notice. DealsVista.com does not guarantee the accuracy of links, coupons, or deals on this site. DealsVista.com is not an online merchant, we are a shopping portal used to save you money and time finding deals on the internet. We are not responsible for any products ordered from the merchants. Before participating in any deal, coupons or promotions on this site please read the fine print associated with each offer. 
+Our site users can choose to electronically forward a link, page, or documents to someone else by clicking "e-mail this to a friend". The user must provide their email address, as well as that of the recipient. This information is used only in the case of transmission errors and, of course, to let the recipient know who sent the email. The information is not used for any other purpose.
 
-The term of use is subject to change at any time without notice. If you have any questions or comments, feel free to contact us at admin@DealsVista.com 
+4\. Polling
+
+We may offer interactive polls to users so they can easily share their opinions with other users and see what our audience thinks about important issues. Opinions or other responses to polls are aggregated and are not identifiable to any particular user. Buxr may use a system to "tag" users after they have voted, so they can vote only once on a particular question. This tag is not correlated with information about individual users.
+
+5\. Surveys
+
+Buxr may occasionally conduct user surveys to better target our content to our audience. We sometimes share the aggregated demographic information in these surveys with our sponsors, advertisers and partners. We never share any of this information about specific individuals with any third party. Privacy Policy Template changes
+
+**Children**
+
+Consistent with the Federal Children's Online Privacy Protection Act of 1998 (COPPA), we will never knowingly request personally identifiable information from anyone under the age of 13 without requesting parental consent.
+
+**Usage tracking**
+
+Buxr tracks user traffic patterns throughout all of our sites. Buxr does break down overall usage statistics according to a user's domain name, browser type, and MIME type by reading this information from the browser string (information contained in every user's browser).
+
+Buxr sometimes tracks and catalogs the search terms that users enter in our Search function, but this tracking is never associated with individual users. We use tracking information to determine which areas of our sites users like and don't like based on traffic to those areas. We do not track what individual users read, but rather how well each page performs overall. This helps us continue to build a better service for you.
+
+**Cookies**
+
+We may place a text file called a "cookie" in the browser files of your computer. The cookie itself does not contain Personal Information although it will enable us to relate your use of this site to information that you have specifically and knowingly provided. But the only personal information a cookie can contain is information you supply yourself. A cookie can't read data off your hard disk or read cookie files created by other sites. Buxr uses cookies to track user traffic patterns (as described above). Our advertising system delivers a one-time cookie to better track ad impressions and click rates.
+
+You can refuse cookies by turning them off in your browser. If you've set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You do not need to have cookies turned on to use this site. However, you do need cookies to participate actively in message boards, forums, polling and surveys.
+
+**Use of information**
+
+Buxr uses any information voluntarily given by our users to enhance their experience in our network of sites, whether to provide interactive or personalized elements on the sites or to better prepare future content based on the interests of our users.
+
+As stated above, we use information that users voluntarily provide in order to send out electronic newsletters and to enable users to participate in polls, surveys, message boards, and forums. We send out newsletters to subscribers on a regular schedule (depending on the newsletter), and occasionally send out special editions when we think subscribers might be particularly interested in something we are doing. Buxr never shares newsletter mailing lists with any third parties, including advertisers, sponsors or partners.
+
+When we use tracking information to determine which areas of our sites users like and don't like based on traffic to those areas. We do not track what individual users read, but rather how well each page performs overall. This helps us continue to build a better service for you. We track search terms entered in Search function as one of many measures of what interests our users. But we don't track which terms a particular user enters.
+
+Buxr creates aggregate reports on user demographics and traffic patterns for advertisers, sponsors and partners. This allows our advertisers to advertise more effectively, and allows our users to receive advertisements that are pertinent to their needs. Because we don't track the usage patterns of individual users, an advertiser or sponsor will never know that a specific user clicked their ad. We will not disclose any information about any individual user except to comply with applicable law or valid legal process or to protect the personal safety of our users or the public.
+
+**Sharing of the information**
+
+Buxr uses the above-described information to tailor our content to suit your needs and help our advertisers better understand our audience's demographics. This is essential to keeping our service free. We will not share information about individual users with any third party, except to comply with applicable law or valid legal process or to protect the personal safety of our users or the public.
+
+**Security**
+
+Buxr operates secure data networks protected by industry standard firewall and password protection systems. Our security and privacy policies are periodically reviewed and enhanced as necessary and only authorized individuals have access to the information provided by our customers.
+
+**Opt-out policy**
+
+We give users options wherever necessary and practical. Such choices include:  
+
+
+  * Opting not to register to receive our electronic newsletters.
+  * Opting not to participate in certain interactive areas, which completely alleviates the need to gather any personally identifiable information from our users
+
+
+
+**Your consent**
+
+By using this site, you consent to the collection and use of this information by Buxr. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
