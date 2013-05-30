@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xitenow.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120234540id_/http%3A//xitenow.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xitenow.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530192338id_/http%3A//www.xitenow.com/privacy.php) for the most accurate reproduction.*
 
 # xitenow.com :: anonymous, uncensored free web browsing. Fast web proxy, 110 Gbit Network.
 
