@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the seekyt.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116223421id_/http%3A//seekyt.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seekyt.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530035039id_/http%3A//seekyt.com/privacy) for the most accurate reproduction.*
 
 # Privacy « Seekyt
-
-Privacy Policy
 
 * * *
 
 Seekyt.com collects certain information from you when you visit or use our website. This privacy policy is meant to help you become aware of the data that is collected, and the inform you of how you are protected by Seekyt and other websites
 
 **What information do we collect?**
+
+Seekyt is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com.
 
 We collect information from you when you register on our site or fill out a form.
 
