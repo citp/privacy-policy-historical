@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the red-gate.com privacy policy that was archived on 2012-12-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121227062109id_/http%3A//www.red-gate.com/our-company/about/legal) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the red-gate.com privacy policy that was archived on 2013-05-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130530022421id_/http%3A//www.red-gate.com/our-company/about/legal) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><!-- InstanceBegin template="/Templates/default.dwt" codeOutsideHTMLIsLocked="true" --><head>
 <!-- InstanceBeginEditable name="doctitle" -->
@@ -14,10 +14,10 @@
 <link rel="stylesheet" href="/assets/styles/reset-min.css" type="text/css">
 
 <link rel="stylesheet" href="/assets/styles/common.css?v=18" type="text/css">
-<link rel="stylesheet" href="/assets/styles/header-footer.css?v=3" type="text/css">
-<link rel="stylesheet" href="/assets/styles/home.css?v=5" type="text/css">
-<link rel="stylesheet" href="/assets/styles/page.css?v=13" type="text/css">
-<link rel="stylesheet" href="/assets/styles/products.css?v=5" type="text/css">
+<link rel="stylesheet" href="/assets/styles/header-footer.css?v=4" type="text/css">
+<link rel="stylesheet" href="/assets/styles/home.css?v=6" type="text/css">
+<link rel="stylesheet" href="/assets/styles/page.css?v=14" type="text/css">
+<link rel="stylesheet" href="/assets/styles/products.css?v=7" type="text/css">
 <link rel="stylesheet" href="/assets/styles/taxnumbers.css?v=1" type="text/css">
 
 <!--[if IE]><![endif]--> <!--prevents conditional comments blocking-->
@@ -41,6 +41,9 @@
 
 
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+
+<!-- This should always come straight after jQuery -->
+
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js"></script>
 <script type="text/javascript" src="/assets/scripts/jquery.carousel.js"></script>
 <script type="text/javascript" src="/assets/scripts/underscore-1.0.4.min.js"></script>
@@ -48,9 +51,9 @@
 <script type="text/javascript" src="/assets/scripts/jquery.support.plugin.js"></script>
 
 <script type="text/javascript" src="/assets/scripts/prices.js"></script>
-<script type="text/javascript" src="//www.red-gate.com/dynamic/PriceJS.ashx"></script>
-<script type="text/javascript" src="/assets/scripts/jquery.phoneNumbers.js"></script>
-<script type="text/javascript" src="/assets/scripts/jquery.emailAddresses.js"></script>
+<script type="text/javascript" src="/dynamic/PriceJS.ashx"></script>
+<script type="text/javascript" src="/assets/scripts/jquery.phoneNumbers.js?v=1"></script>
+<script type="text/javascript" src="/assets/scripts/jquery.emailAddresses.js?v=6"></script>
 
 <script type="text/javascript" src="/assets/scripts/jsvat.js"></script>
 <script type="text/javascript" src="/assets/scripts/checkTaxNumber.js"></script>
@@ -65,7 +68,118 @@
     _gaq.push(['_setAccount', 'UA-90206-1']);
     _gaq.push(['_setDomainName', 'red-gate.com']);
     _gaq.push(['_setAllowLinker', true]);
+
+	// all RG sites
+	var RGsites = new Array("red-gate.com", "sqlservercentral.com", "simple-talk.com");
+
+	// remove current domain 
+	for (i = 0; i < RGsites.length; i++) {
+		if (document.domain.indexOf(RGsites[i]) != -1) {
+			RGsites.splice(i, 1);
+			break;
+		}
+	}
+
+	// set the customVar if not a self-referrer
+	if (document.referrer.indexOf("http://" + document.domain) == -1) {
+		for (i = 0; i < RGsites.length; i++) {
+			if (document.referrer.indexOf(RGsites[i]) != -1) {
+				_gaq.push(["_setCustomVar", 2, "RG referral", document.referrer, 1]);
+				break;
+			}
+		}
+	}
+
     _gaq.push(['_trackPageview']);
+
+	var intDoms = '(red-gate.com|simple-talk.com|sqlservercentral.com)';
+	var baseDom = location.hostname.match(RegExp(intDoms + '$'));
+	baseDom = (baseDom ? baseDom[1].replace(/\:\d+/, '') : location.hostname);
+			
+	// gaAddons FREE v1.0, Copyright 2011, Stephane Hamel - http://gaAddons.com
+	// gaAddons by Stephane Hamel is licensed under MPL
+	// This code is provided as is, without guarantee or support.
+	// Refactored by Simon Rouger.
+	// Customised by Red Gate
+
+	///////////////////
+	// _trackDownloads
+
+	jQuery(document).ready(function($) {
+	// helper function - allow regex as jQuery selector
+	jQuery.extend(
+		$.expr[':'].regex = function(e, l, m) {
+			var mP = m[3].split(','),
+			l = /^(data|css):/,
+			a = {
+			method: mP[0].match(l) ? mP[0].split(':')[0] : 'attr',
+			property: mP.shift().replace(l, '')
+		},
+		r = new RegExp(mP.join('').replace(/^\s+|\s+$/g, ''), 'ig');
+		return r.test($(e)[a.method](a.property));
+		}
+		);
+
+		$('a:regex(href,\\.(zip|mp\\d+|mpe*g|pdf|docx*|pptx*|xlsx*|jpe*g|png|gif|tiff*|exe)$)').on('click', function(e) {
+			var dst = this.href;
+			try { 
+				_gaq.push(['_trackEvent', 'DownloadFile', 'Click', this.href.replace(/^.*\/\//, '')]);
+			} catch(err){}
+			if ($(this).hasClass('lightbox')){ 
+				return true; // Don't break the lightbox
+			}
+			setTimeout(function() {
+				document.location.href = dst;
+			}, 100);
+			return false;
+		});
+	});
+
+	///////////////////
+	// _trackMailTo
+	jQuery(document).ready(function($) {
+		$('a[href^="mailto"]').on('click', function(e) {
+			var dst = this.href;
+			try { 
+				_gaq.push(['_trackEvent', 'Email', 'Click', this.href.replace(/^mailto:/i, '')]);
+			} catch(err){}
+			setTimeout(function() {
+				document.location.href = dst;
+			}, 100);
+			return false;
+		});
+	});
+
+	///////////////////
+	// _trackOutbound
+	jQuery(document).ready(function ($) {
+		$('a[href^="http"]:not([href*="//' + location.host + '"])').on('click', function (e) {
+
+			var intTxt = '';
+			var outLink = '/outbound/';
+			var intSite = this.href.match(intDoms);
+
+			if (intSite) {
+				// insert extra txt for RG site
+				if (intSite[1] != baseDom) {
+					intTxt = 'RG/';
+				}
+			}
+
+			outLink = outLink + intTxt + this.href.match(/\/\/([^\/]+)/)[1];
+
+			_gaq.push(['_trackPageview', outLink]);
+
+			if (intTxt == 'RG/') {
+				_gaq.push(['_link', this.href]);
+				return false;
+			}
+
+		});
+	});
+	
+	
+	
 </script>
 
 
@@ -116,7 +230,7 @@
 
 	<div id="nav" class="fullwidth">
 		<div id="logo">
-			<a href="/" title="Go to home page"><img src="/assets/images/common/logo.png?v=2" alt="Red Gate logo" class="pngfix"></a>
+			<a href="/" title="Go to home page"><img src="/assets/images/common/logo.png?v=4" alt="Red Gate logo" class="pngfix"></a>
 		</div><!-- END #logo -->
 
 		<div id="links">
@@ -264,6 +378,19 @@
 
 <div class="content-side">
 
+	<div class="title">Neil &amp; Simon online</div>
+	<div class="text">
+		<p>
+			<a href="http://www.neildavidson.com/">www.neildavidson.com</a>
+			<br>
+			<a href="https://twitter.com/NeilDavidson">@neildavidson</a>
+		</p>
+		<p>
+			<a href="http://www.simongalbraith.com/">www.simongalbraith.com</a>
+			<br>
+			<a href="https://twitter.com/galbraithsimon">@galbraithsimon</a>
+		</p>
+	</div>
 	<div class="title"><a href="/our-company/careers/current-opportunities/">Working at Red Gate</a></div>
 	<div class="text">
         We've been independently verified as a great place to work! Find out about:
@@ -315,27 +442,27 @@
             <p><strong><a href="/products/dba/dba-bundle/">SQL DBA Bundle</a></strong></p>
 			<p><a href="/products/dba/sql-backup/">SQL Backup Pro</a></p>
             <p><a href="/products/dba/sql-monitor/">SQL Monitor</a></p>
-            <p><a href="/products/dba/sql-storage-compress/">SQL Storage Compress</a></p>
-						<p><a href="/products/dba/sql-hyperbac/">SQL HyperBac</a></p>
+            <p><a href="/products/sql-development/sql-compare/">SQL Compare</a></p>
+						<p><a href="/products/dba/sql-multi-script/">SQL Multi Script</a></p>
             <p class="alltools"><a href="/products/dba/"><span class="dba"></span> All DBA tools...</a></p>
         </div>
 
 		<div class="col net">
             <h3><a href="/products/dotnet-development/">.NET Development</a></h3>
-            <p><strong><a href="/products/dotnet-development/dotnet-tool-collections/dotnet-development-suite">.NET Development Suite</a></strong></p>
+            <p><strong><a href="/products/dotnet-development/dotnet-developer-bundle">.NET Developer Bundle</a></strong></p>
 			<p><a href="/products/dotnet-development/ants-performance-profiler/">ANTS Performance Profiler</a></p>
             <p><a href="/products/dotnet-development/ants-memory-profiler/">ANTS Memory Profiler</a></p>
             <p><a href="/products/dotnet-development/smartassembly/">SmartAssembly</a></p>
-            <p><a href="http://www.reflector.net" target="_blank">.NET Reflector (new window)</a></p>
+            <p><a href="/products/dotnet-development/reflector">.NET Reflector</a></p>
             <p class="alltools"><a href="/products/dotnet-development/"><span class="net"></span> All .NET Tools...</a></p>
         </div>
 
         <div class="col ora">
             <h3><a href="/products/oracle-development/">Oracle Development</a></h3>
             <p><strong><a href="/products/oracle-development/deployment-suite-for-oracle/">Deployment Suite for Oracle</a></strong></p>
-            <p><a href="/products/oracle-development/schema-compare-for-oracle/">Schema Compare for Oracle</a></p>
-            <p><a href="/products/oracle-development/data-compare-for-oracle/">Data Compare for Oracle</a></p>
             <p><a href="/products/oracle-development/source-control-for-oracle/">Source Control for Oracle</a></p>
+			<p><a href="/products/oracle-development/schema-compare-for-oracle/">Schema Compare for Oracle</a></p>
+            <p><a href="/products/oracle-development/data-compare-for-oracle/">Data Compare for Oracle</a></p>
             <p class="alltools"><a href="/products/oracle-development/"><span class="ora"></span> All Oracle tools...</a></p>
         </div>
 
@@ -349,7 +476,7 @@
         </div>
 
         <div class="col exc">
-					<h3><a href="/delivery/">Delivery</a></h3>
+					<h3><a href="/delivery/">Database Delivery</a></h3>
 					<p><b><a href="/delivery/deployment-manager">Deployment Manager</a></b></p>
 					<p><a href="/products/sql-development/automation-license-for-continuous-integration/">Continuous Integration</a></p>
 					<p><a href="/products/sql-development/sql-source-control/">SQL Source Control</a></p>
@@ -455,7 +582,6 @@
 			<li><a href="http://ux.red-gate.com/" target="_blank">UX Blog</a></li>
 			<li><a href="http://www.red-gate.com/labs/" target="_blank">Red Gate Labs</a></li>
 			<li><a href="http://www.red-gate.de/?utm_source=redgate&amp;utm_medium=footer&amp;utm_campaign=germansite" target="_blank">Deutsche Website</a></li>
-			<li><a href="http://acloudyplace.com/" target="_blank">A Cloudy Place</a></li>
 		</ul>
 		<ul class="last">
 			<li><strong>Awards</strong></li>
@@ -463,13 +589,13 @@
 		</ul>
 
 		<br style="clear:both">
-		<p>Copyright 1999 - <script type="text/javascript">var now = new Date();document.write(now.getFullYear());</script>2020 Red Gate Software Limited</p>
+		<p>Copyright 1999 - <script type="text/javascript">var now = new Date();document.write(now.getFullYear());</script>2020 Red Gate Software Ltd</p>
 	</div>
 	<img src="/assets/images/spacer.gif?s=1" width="1" height="1" alt=""><noscript><img src="/assets/images/spacer.gif?s=0" alt="" /></noscript>
 <!-- END #footer -->
 
 
-<script type="text/javascript" src="/assets/scripts/footer.js?v=4"></script>
+<script type="text/javascript" src="/assets/scripts/footer.js?v=5"></script>
 
 <!--[if IE 6]>
 		<script type="text/javascript" src="/assets/scripts/dd_belatedPNG.js"></script>
