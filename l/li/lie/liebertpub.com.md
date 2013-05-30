@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liebertpub.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230051916id_/http%3A//www.liebertpub.com/nv/company/privacy-policy/3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liebertpub.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530134700id_/http%3A//www.liebertpub.com/nv/company/privacy-policy/3) for the most accurate reproduction.*
 
 # Privacy Policy Title
 
