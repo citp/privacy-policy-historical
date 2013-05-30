@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the securef5.com privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028152652id_/http%3A//securef5.com/docs/comf5_privacy_policy-v5.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the securef5.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530104657id_/http%3A//securef5.com/docs/comf5_privacy_policy-v5.pdf) for the most accurate reproduction.*
 
 # Privacy Policy
 
