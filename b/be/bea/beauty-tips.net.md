@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the beauty-tips.net privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014114043id_/http%3A//www.beauty-tips.net/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beauty-tips.net privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530123753id_/http%3A//www.beauty-tips.net/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy / Beauty-Tips.net
+
+[Home](http://www.beauty-tips.net/) > **Privacy Policy**
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [http://www.beauty-tips.net/contact-us.php](mailto:contact@beauty-tips.net).
 
@@ -51,3 +53,5 @@ By using our website, you hereby consent to our privacy policy and agree to its 
 **Update**  
 This Privacy Policy was last updated on: Wednesday, January 11th, 2012. [](http://www.privacypolicyonline.com/ "PrivacyPolicyOnline.com Approved Site")  
 _Should we update, amend or make any changes to our privacy policy, those changes will be posted here._
+
+[](http://www.beauty-tips.net/askit/ "Beauty Tips : Questions and Answers")
