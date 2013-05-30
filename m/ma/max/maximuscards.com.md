@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the maximuscards.com privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214210934id_/http%3A//www5.maximuscards.com/index.php/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maximuscards.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530042343id_/http%3A//maximuscards.com/index.php/site/privacy) for the most accurate reproduction.*
 
-# Maximuscards Your number one source for Instant Xbox Live Points, PSN Card, Wii Points, Warcraft Key and iTunes Prepaid - Privacy Site
+# MaximusCards - Get iTunes, XBox Live Points, PSN Card, Nintendo Wii Points, Warcraft and PC Game - Privacy Site
 
 ### Privacy Policy
 
