@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tylerperry.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215131841id_/http%3A//www.tylerperry.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tylerperry.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530092747id_/http%3A//tylerperry.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy — TylerPerry.com
 
