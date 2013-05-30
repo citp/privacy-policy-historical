@@ -1,33 +1,177 @@
-> *The following text is extracted and transformed from the hellopretty.co.za privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003005035id_/http%3A//hellopretty.co.za/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hellopretty.co.za privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530133247id_/http%3A//hellopretty.co.za/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Hello Pretty. Buy design.
 
-This Privacy Policy describes the collection, use and disclosure of information by Hello Pretty ("hellopretty.co.za" or "Hello Pretty") receives and collects when you access or use Hello Pretty services from the website located at http://www.hellopretty.co.za and/or any sub domain or successor thereto ("the Hello Pretty Website" or "Website") or when you access or use any Hello Pretty service or product ("the Service").
+Dear Hello Pretty users who are rightly skeptical of internet safety and security,
 
-Information We Collect. Hello Pretty may collect two (2) types of information about you: Personal and Non-Personal. "Personal Information" refers to information that lets Hello Pretty know the specifics of who you are and which may be used to identify, contact or locate you (e.g. name, mailing address, telephone number and e-mail address). Hello Pretty may collect Personal Information when you use the Hello Pretty Service including, without limitation, setting up account information, filling out surveys, corresponding with Hello Pretty, or otherwise volunteering information about yourself. Hello Pretty does not rent, sell, or share Personal Information about you with other people or nonaffiliated companies except to provide products or services you have requested. "Non-Personal Information" refers to information that, by itself, does not identify you as a specific individual (e.g. demographic information or website visitations or activities). Hello Pretty may collect Non-Personal Information through any of the methods discussed above as well as automatically through use of industry standard technologies described further below. Hello Pretty may use Non-Personal Information to assist in the optimisation and delivery of advertisements to you. Hello Pretty may rent, sell, or share Non-Personal Information in aggregate form with other people or nonaffiliated companies as long as by itself this information does not identify you as a specific individual.
+Welcome to our Privacy Policy page. We hope you like it, because it was very expensive and drawn up by a fancy and proper lawyer. They're here to protect Hello Pretty, and to protect you also. _Someone_ has to.
 
-Registration. The Personal Information practices set forth apply to all Hello Pretty’s customers and Website visitors worldwide. Participation in and access to certain features and functionality of the Website and Service require you to register and create a member account (the "User Account") with Hello Pretty. You can choose not to register or provide certain information, but then you may not be able to access or participate in some of the Website or Service. If you have registered for a User Account, Hello Pretty may use your Personal Information to send e-mails regarding your registration, including confirmation to verify the accuracy of any information you have provided, and instructions related to your use of the Service.
+ _Serious note:_ the content in the left-hand column is the Hello Pretty Privacy Policy. The right-hand column is __not__ Hello Pretty's Privacy Policy - it is purely an attempt at providing you with a concise summary of what the left hand column is saying, in non-legalese layman's terms. We can't and won't be held liable for any content in the right-hand column of this page, as it was written by laymen. So read / interpret it at your peril.
 
-Cookies. Hello Pretty may use cookies or similar technologies to enhance and personalise your experience of the Website or Service, including to operate and improve offerings; to help authenticate your identity when you visit and transact with the Website or Service; to remember your preferences and registration information; to present and help measure and research the effectiveness of the various offerings, advertisements, and e-mail communications (by determining which e-mails you open and act upon); to customise the content and advertisements provided to you; and to measure advertising performance. Hello Pretty does not require that you accept cookies, and you may disable cookies at any time. However, some functionality of our Website and Service may be impaired if you decline to accept cookies.
+This privacy statement discloses the privacy practices for the hellopretty.co.za site. We at Hello Pretty take our users privacy seriously and we will only collect and use your personal information as outlined below and in our terms and conditions. We shall take all reasonable steps to protect your personal information.
 
-IP Address. You may visit many areas of the Website anonymously without registering for an Account. Even in such cases, Hello Pretty may collect IP addresses automatically. An IP address is a number that is automatically assigned to your computer whenever you begin services with an Internet services provider. Each time you access the Website and Service and each time you request one of Hello Pretty’s pages, the server logs your IP address.
+## A. DEFINITIONS
 
-Web Beacons. Also known as clear GIFs or single-pixel GIFs, Web Beacons are small image files that Hello Pretty may place on the Website pages and within certain email. Working in conjunction with cookies, Web Beacons allow Hello Pretty to accurately count the number of unique users who have visited a specific page and the number of times those pages are displayed. Hello Pretty can also use Web Beacons to count how many people opened certain types of email. This information is only collected in aggregate form and will not be linked to your personally identifiable information. Keep in mind that any image file on a Website page can act as a Web Beacon. Third-party advertisers may use Web Beacons in their advertisements.
+|  |   
+  
+**"consent"** means any voluntary, specific and informed expression of will in terms of which a user agrees to the processing of personal information relating to him or her;
 
-Third-Party Ad Servers. Hello Pretty or its advertisers may use other companies known as third-party ad servers to help present advertisements online in connection with the Website or Service. These third-party ad servers may use cookies or similar technologies to help present such advertisements, and to help measure and research the advertisements' effectiveness. The use of these technologies by these third-party ad servers is subject to their own privacy policies, not Hello Pretty’s.
+|  |   
+  
+**"personal information"** means information relating to an identifiable, living, natural person, and where it is applicable, an identifiable, existing juristic person, including, but not limited to—
 
-Security Measures. Hello Pretty has implemented security policies, rules and technical measures to protect and safeguard the personally identifiable information under our control from unauthorised access, improper use or disclosure, unauthorised modification, unlawful destruction or accidental loss. All Hello Pretty personnel that have access to, and are associated with the processing of your personally identifiable information, are obligated to respect the confidentiality of the information.
+|  |   
+  
+(a) information relating to the race, gender, sex, pregnancy, marital status, national, ethnic or social origin, colour, sexual orientation, age, physical or mental health, well-being, disability, religion, conscience, belief, culture, language and birth of the person;
 
-Changing Your Personal Information. You can review, update and edit your User Account by logging into your Account and accessing the "Account Preferences" screen on the Website or Service. You may also request to have your Personal Information deleted from Hello Pretty's database by sending an e-mail request to privacy@hellopretty.co.za.
+|  |   
+  
+(b) information relating to the education or the medical, financial, criminal or employment history of the person;
 
-Promotional E-mails. Hello Pretty may use your Personal Information to send you e-mails periodically listing promotions or events relating to the Website or Service or from Hello Pretty and/or Hello Pretty's marketing partners or advertisers. You have the choice to opt-out of receiving such promotional e-mails by sending an e-mail to privacy@Hello Pretty and/or following the instructions in such correspondence. Once Hello Pretty has processed your opt-out request, Hello Pretty will not send you promotional e-mails unless you opt back in to receiving such communications.
+|  |   
+  
+(c) any identifying number, symbol, e-mail address, physical address, telephone number or other particular assignment to the person;
 
-Emails from other Hello Pretty Users. Hello Pretty facilitates the communication between buyers and sellers on the Hello Pretty Service. Hello Pretty accepts no responsibility of liability for the content of User to User communications on the Service. Please following the Blocking User Communication Procedures found in Hello Pretty Terms and Conditions posted on the Website.
+|  |   
+  
+(d) the personal opinions, views or preferences of the person;
 
-Age Policy. Hello Pretty does not knowingly collect Personal Information from, and our Website is not directed to, persons under the age of eighteen (18). If you are under 18 years of age you are NOT eligible to use the Hello Pretty Service. Do not send any information about yourself to Hello Pretty. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, please contact us at privacy@hellopretty.co.za. If Hello Pretty becomes aware that person under 18 has provided us with Personal Information, we will delete such information from our files.
+|  |   
+  
+(e) correspondence sent by the person that is implicitly or explicitly of a private or confidential nature or further correspondence that would reveal the contents of the original correspondence;
 
-Changes and Updates to the Privacy Notice. This Privacy Policy may be updated from time to time for any reason. We will notify you of any material changes by posting the new Privacy Policy on the Website. Your use of the Website and the Hello Pretty Service constitutes your acceptance of the terms of this Privacy Policy, as may be amended or revised by us, and you are advised to consult this Privacy Policy regularly for any changes (revisions will be reflected by the "Date Last Modified" below).
+|  |   
+  
+(f) the views or opinions of another individual about the person; and
 
-Contact Us. If you have any questions, comments or concerns about our Privacy Policy, please contact us by sending an email to privacy@hellopretty.co.za.
+|  |   
+  
+(g) the name of the person if it appears with other personal information relating to the person or if the disclosure of the name itself would reveal information about the person; 
 
-Date Last Modified: May 7, 2012
+|  |   
+  
+**"seller(s)"** as defined in Hello Pretty’s terms and conditions;
+
+|  |   
+  
+**"user (s)"** as defined in Hello Pretty’s terms and conditions;
+
+|  |   
+  
+**1\. Personal information collected**
+
+|  |   
+  
+1.1 Hello Pretty agrees to notify you of:
+
+1.1.1 What personally identifiable information of yours or third party personal identification is collected from you via this site;
+
+1.1.2 The organization collecting the information;
+
+1.1.3 How the information is used;
+
+1.1.4 With whom the information may be shared;
+
+1.1.5 What choices are available to you regarding collection, use and distribution of the information;
+
+1.1.6 The kind of security procedures that are in place to protect the loss, misuse or alteration of Information under our control;
+
+1.1.7 How you can correct any inaccuracies in the information.
+
+|  |   
+  
+**2\. Collection of Personal Information**
+
+|  |   
+  
+2.1. When you register an account the personal information we collect may include your:
+
+2.1.4. Store information;
+
+2.1.8. ID number / passport number;
+
+2.1.9. Non-personal browsing habits and click patterns
+
+2.1.10. Product description and images
+
+|  |   
+  
+**3\. Disclosure of Personal Information**
+
+3.1. We neither rent nor sell your Personal Information. We share such Personal Information in personally identifiable form with third parties as described below: 
+
+3.1.1. Trusted Third Parties: We may employ other companies and people to perform tasks on our behalf and need to share your information with them to provide the Services to you. Unless we tell you differently, such third parties do not have any right to use the Personal Information we share with them beyond what is necessary to assist us. This includes third party companies and individuals employed by us to facilitate our Services, including the provision of maintenance services, database management, Web analytics and general improvement of the Services.
+
+3.1.1.1. Hello Pretty currently uses Google Analytics as a trusted third party and may in terms of 3.1.1. use other trusted third parties in the future.
+
+3.1.2. Business Transfers: We may choose to buy or sell assets. In these types of transactions, customer information is typically one of the business assets that is transferred. Also, if we (or substantially all of our assets) are acquired, or if we go out of business, enter bankruptcy, or go through some other change of control, Personal Information would be one of the assets transferred to or acquired by a third party.
+
+3.1.3. Protection of Hello Pretty and Others: We reserve the right to access, read, preserve, and disclose any information that we reasonably believe is necessary to comply with law or a court order; enforce or apply our conditions of use and other agreements; or protect the rights, property, or safety of Hello Pretty, our employees, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
+
+3.1.4. With Your Consent: Except as set forth above, you will be notified when your Personal Information may be shared with third parties, and will be able to prevent the sharing of this information.
+
+|  |   
+  
+**4\. How we may use your personal information**
+
+When you register as a user on Hello Pretty’s website, we may:
+
+4.1. use your personal information to send you marketing and/or promotional materials from time to time.
+
+4.2. provide the seller with communication updates. Eg. Order notifications
+
+|  |   
+  
+**5\. Updating Your Personal Information**
+
+You can update your personal information anytime by accessing your account on Hello Pretty’s website.
+
+|  |   
+  
+**6\. Security of Your Personal Information**
+
+You can update your personal information anytime by accessing your account on Hello Pretty’s website.
+
+6.1. Hello Pretty ensures that all information collected will be safely and securely stored. We protect your personal information by:
+
+6.1.1. Restricting access to personal information
+
+6.1.2. Maintaining technology products to prevent unauthorised computer access and security vulnerabilities 
+
+6.1.3. Securely destroying your personal information when it's no longer needed for our record retention purposes
+
+6.1.4. All passwords are stored using a one-way SHA-512 hashed encryption mechanism
+
+6.1.5. Hello Pretty uses a 256 - bit SSL (secure sockets layer) encryption technology when processing your details. SSL encryption is the industry standard.
+
+|  |   
+  
+**7\. Collection of Computer Data**
+
+7.1. When you visit Hello Pretty, our company servers will automatically record information that your browser sends whenever you visit a website. This data may include: 
+
+7.1.1. Your computer's IP address
+
+7.1.3. Webpage you were visiting before you came to our site
+
+7.1.4. The pages you visit on our site
+
+7.1.5. The time spent on those pages, items and information searched for on our site, access times and dates, and other statistics
+
+7.2. This information is collected for analysis and evaluation in order to help us improve our site and the services and products we provide.
+
+7.3. Hello Pretty tracks personal information about users via the use of cookies. These are used to enhance your experience on the site. These cookies are stored on your computer and may be deleted by you at any time. Users may also elect to disable cookies, but we take no responsibility for a loss of functionality in this case.
+
+|  |   
+  
+**8\. Amendments to the Privacy Policy.**
+
+Hello Pretty reserves the right to modify and change the Privacy Policy at any time. Any changes to this policy will be published on our site.
+
+|  |   
+  
+**9\. Complaints about breaches of privacy**
+
+If you are not satisfied with the way in which we handle your privacy, please don't hesitate to contact us at info@hellopretty.co.za
+
+|  | 
