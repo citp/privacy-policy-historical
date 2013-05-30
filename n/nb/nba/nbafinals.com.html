@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the nbafinals.com privacy policy that was archived on 2012-09-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120919232444id_/http%3A//www.nbafinals.com/news/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nbafinals.com privacy policy that was archived on 2013-05-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130530220415id_/http%3A//nbafinals.com/news/privacy_policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-Transitional.dtd"><html><head>
 		<title>NBA.com Ad Choices</title>
@@ -22,7 +22,10 @@
 </head>
 <body>
 <!-- CEILING -->
-	<script type="text/javascript" src="http://z.cdn.turner.com/nba/nba/.e/js/pkg/allaccess_nba_overlay/1214.js"></script>
+	<!-- TODO: This will need to be integrated with the new replacement "chrome" header. -->
+<!-- This is the best place for the hash redirect logic at this time as it is probably the most universal -->
+<script type="text/javascript" src="http://z.cdn.turner.com/nba/nba/.element/js/2.0/global/nbaHashRedirect.js"></script>
+<script type="text/javascript" src="http://z.cdn.turner.com/nba/nba/.e/js/pkg/allaccess_nba_overlay/1258.js"></script>
 <div id="nbaChrome">
 	<div id="nbaChromeContent">
 		<ul>
@@ -234,7 +237,11 @@
 						<li><a href="http://www.mikefratello.com" target="_blank">MikeFratello.com</a></li>
 					</ul>     
 				</li>
-				<li><a href="/fantasy/">FANTASY</a></li>
+				<li><a href="/fantasy/">FANTASY</a>
+					<ul>           
+						<li><a href="http://basketball.fantasysports.yahoo.com/nba/signup">NBA.com/Yahoo! Sports Fantasy Basketball</a></li>
+					</ul>
+				</li>
 				<li><a href="/allaccess/">FAN STUFF</a>
 					<ul>           
 						<li><a href="http://www.nba.com/pulse/playoffs/2012/index.html">NBA Pulse</a></li>
@@ -260,8 +267,6 @@
 						<li><a href="/mobile/gametime/courtside/index.html">NBA Courtside for Tablets</a></li>
 						<li><a href="/leaguepass/mobile/index.html">LEAGUE PASS Mobile</a></li>
 						<li><a href="http://www.coveroo.com/nba" target="_blank">Cell Tattoos</a></li>
-						<li><a href="/mobile/alerts.html">SMS Alerts</a></li>
-						<li><a href="/mobile/nbacom.html">NBA.com WAP</a></li>
 					</ul>
 				</li>
 				<li><a href="/nbatv/index.html">TV</a>
@@ -282,6 +287,8 @@
 				<li><a href="/leaguepass/index.html">LEAGUE PASS</a>
 					<ul>  
                         <li><a href="/leaguepass/3pp/index.html">LEAGUE PASS for TV</a></li>
+                        <li><a href="/leaguepass/activate/">Activate LEAGUE PASS Account</a></li>
+						<li><a href="javascript:nbaLeaguePass.checkFlashFirst();">Watch Live Games</a></li>                        
                         <li><a href="/leaguepass/broadband/index.html">LEAGUE PASS Broadband</a></li>
 						<li><a href="/leaguepass/mobile/index.html">LEAGUE PASS Mobile</a></li>
 						<li><a href="http://watch.nba.com/nba/subscribe">International LEAGUE PASS Broadband</a></li>
@@ -309,6 +316,9 @@
 			</ul>
 		</div>
 	</div>
+	
+<!-- JS added for LPBB Watch Live Games link to pop out -->	
+<script type="text/javascript" src="http://i.cdn.turner.com/nba/nba/.element/js/2.1/sect/leaguepass/nbaLeaguePass.js"></script>
 
 <div id="nbaMainSection">
 <script type="text/javascript" src="http://z.cdn.turner.com/nba/nba/.element/js/2.0/global/omniTrack.js"></script>
@@ -1155,7 +1165,7 @@
 </p>
 </div>
 </div>
-<script language="JavaScript" type="text/javascript">var nbaCurrTime = new Date(1348096997326); var nbaCurrHour = 19; var nbaCurrMin = 23; var nbaCurrDay='Wed';</script>
+<script language="JavaScript" type="text/javascript">var nbaCurrTime = new Date(1369951338061); var nbaCurrHour = 18; var nbaCurrMin = 2; var nbaCurrDay='Thu';</script>
 <div id="nbaFooter">
 	<div class="nbaFooterLinks">
 		<h5>OTHER FEATURES</h5>
@@ -1175,7 +1185,9 @@
 		<ul>
 			<li><a href="http://tsed.turner.com/nba">Advertise on NBA.com</a></li>
 			<li><a href="/careers/">Career Opportunities</a></li>
+			<li><a href="/news/closed_captioning.html">Closed Captioning</a></li>
 			<li><a href="/email_us/">Contact Us</a></li>
+			<li><a href="http://www.nbatickets.com" target="_blank">NBATickets.com</a></li>
 			<li><a href="http://www.nbpa.org" target="_blank">NBPA</a></li>
 			<li><a href="/nba_cares/">NBA Cares</a></li>
 			<li><a href="http://www.nba.com/green">NBA Green</a></li>
@@ -1188,9 +1200,9 @@
 	<div class="nbaFooterLinks">
 		<h5>EVENTS</h5>
 		<ul>
+			<li><a href="/allstar2013/">2013 All-Star</a></li>
 			<li><a href="/summerleague/index.html">2012 Summer League</a></li>
 			<li><a href="/playoffs/2012/finals/index.html">2012 NBA Finals</a></li>
-			<li><a href="/allstar/2012/">2012 All-Star</a></li>
 			<li><a href="/draft/">2012 Draft</a></li>
 			<li><a href="/news/key-dates/index.html">Important Dates</a></li>
 			<li><a href="/halloffame/">2012 Hall of Fame Induction</a></li>
@@ -1238,7 +1250,7 @@
 	<div class="nbaClear"></div>
 	<img src="http://i.cdn.turner.com/nba/nba/.element/img/2.0/global/foot.gradient.gif">
 	<div id="nbaFooterCopy">
-		<p>Copyright © <script type="text/javascript">document.write(nbaCurrTime.getFullYear());</script>2012 NBA Media Ventures, LLC. All rights reserved. No portion of NBA.com may be duplicated, redistributed or manipulated in any form. By accessing any information beyond this page, you agree to abide by the <a href="/news/privacy_policy.html">Privacy Policy</a> /	<a href="/news/privacy_policy.html#priv11">Your California Privacy Rights</a> and <a href="/news/termsofuse.html">Terms of Use</a>. | <a href="/adchoices/">Ad Choices</a> <img src="http://i2.cdn.turner.com/nba/nba/.element/img/2.0/sect/adChoices/logo_ad_choices_footer.png" alt="Ad Choices"></p>
+		<p>Copyright © <script type="text/javascript">document.write(nbaCurrTime.getFullYear());</script>2013 NBA Media Ventures, LLC. All rights reserved. No portion of NBA.com may be duplicated, redistributed or manipulated in any form. By accessing any information beyond this page, you agree to abide by the <a href="/news/privacy_policy.html">Privacy Policy</a> /	<a href="/news/privacy_policy.html#priv11">Your California Privacy Rights</a> and <a href="/news/termsofuse.html">Terms of Use</a>. | <a href="/adchoices/">Ad Choices</a> <img src="http://i2.cdn.turner.com/nba/nba/.element/img/2.0/sect/adChoices/logo_ad_choices_footer.png" alt="Ad Choices"></p>
 		<div class="nbaClear"></div>
 		<ul>
 			<li><a href="http://tsed.turner.com/nba">Advertise on NBA.com</a></li>
