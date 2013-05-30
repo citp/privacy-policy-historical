@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the funcinemas.com privacy policy that was archived on 2012-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121202125939id_/https%3A//www.funcinemas.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funcinemas.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531011610id_/https%3A//www.funcinemas.com/Privacy.aspx) for the most accurate reproduction.*
 
-# :: Fun Cinemas ::
+# Untitled Page
 
 **Our Commitments to You**
 
