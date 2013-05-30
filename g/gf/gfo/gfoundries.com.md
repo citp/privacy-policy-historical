@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gfoundries.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920044430id_/http%3A//gfoundries.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gfoundries.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531003432id_/http%3A//gfoundries.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
