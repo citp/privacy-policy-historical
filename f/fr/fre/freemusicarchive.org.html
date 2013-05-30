@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the freemusicarchive.org privacy policy that was archived on 2012-12-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121227174634id_/http%3A//freemusicarchive.org/Privacy_Policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the freemusicarchive.org privacy policy that was archived on 2013-05-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130530103023id_/http%3A//freemusicarchive.org/Privacy_Policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -26,6 +26,9 @@
 
         <link rel="stylesheet" type="text/css" href="/css/jcarousel_skins/fma/skin.css">
         <script language="text/javascript" type="text/javascript" src="/js/jquery.jcarousel.min.js"></script>
+
+		<script type="text/javascript" src="/js/jquery.timePicker.js"></script>
+	<link rel="stylesheet" type="text/css" href="/css/timePicker.css">
 
         <script type="text/javascript">
         var addthis_config = {
@@ -93,7 +96,7 @@ if (!readCookie('FMA_did_mobile_popup') && mobile) {
 
                     <div id="fma-menusearch">
                         <form class="fmasearch" name="fmasearch" action="/search/" method="get">
-			                        <div class="inpwrap"><input type="text" class="quicksearch" name="quicksearch" size="20" value="Search (Boolean OK)" placeholder="Search (Boolean OK)"></div>
+			                        <div class="inpwrap"><input type="text" class="quicksearch" id="quicksearch" name="quicksearch" size="20" value="Search" placeholder="Search"></div>
                         <a href="/search/" class="btn-searchgo" id="menusearch"></a>
                         </form>
                     </div>
@@ -126,21 +129,18 @@ if (!readCookie('FMA_did_mobile_popup') && mobile) {
                                                                             <a href="http://freemusicarchive.org/curator/WFMU/" title="WFMU">WFMU</a>
                                                                             <a href="http://freemusicarchive.org/curator/Video/" title="Music for Video">Music for Video</a>
                                                                             <a href="http://freemusicarchive.org/curator/Primavera_Sound/" title="Primavera Sound">Primavera Sound</a>
-                                                                            <a href="http://freemusicarchive.org/curator/Music_from_the_Isabella_Stewar/" title="Music from the Isabella Stewart Gardner Museum, Boston">Music from the ...</a>
-                                                                            <a href="http://freemusicarchive.org/curator/ISSUE_Project_Room/" title="ISSUE Project Room">ISSUE Project R...</a>
                                                                             <a href="http://freemusicarchive.org/curator/CBC_Radio_3/" title="CBC Radio 3">CBC Radio 3</a>
-                                                                            <a href="http://freemusicarchive.org/curator/Creative_Commons/" title="Creative Commons">Creative Common...</a>
                                                                             <a href="http://freemusicarchive.org/curator/CCcommunity/" title="ccCommunity">ccCommunity</a>
-                                                                            <a href="http://freemusicarchive.org/curator/CPDP/" title="Cylinder Preservation and Digitization Project">Cylinder Preser...</a>
                                                                             <a href="http://freemusicarchive.org/curator/KEXP/" title="KEXP">KEXP</a>
-                                                                            <a href="http://freemusicarchive.org/curator/True_Chip_Till_Death/" title="True Chip Till Death">True Chip Till ...</a>
                                                                             <a href="http://freemusicarchive.org/curator/Oddio_Overplay/" title="Oddio Overplay">Oddio Overplay</a>
                                                                             <a href="http://freemusicarchive.org/curator/DRAM/" title="DRAM">DRAM</a>
-                                                                            <a href="http://freemusicarchive.org/curator/ATP/" title="All Tomorrow's Parties">All Tomorrow's ...</a>
-                                                                            <a href="http://freemusicarchive.org/curator/blipfestival/" title="Blip Festival">Blip Festival</a>
+                                                                            <a href="http://freemusicarchive.org/curator/blocSonic/" title="blocSonic">blocSonic</a>
+                                                                            <a href="http://freemusicarchive.org/curator/dublab/" title="dublab">dublab</a>
                                                                             <a href="http://freemusicarchive.org/curator/ckut/" title="CKUT">CKUT</a>
-                                                                            <a href="http://freemusicarchive.org/curator/CASH_Music/" title="CASH Music">CASH Music</a>
-                                                                            <a href="http://freemusicarchive.org/curator/Excavated_Shellac/" title="Excavated Shellac">Excavated Shell...</a>
+                                                                            <a href="http://freemusicarchive.org/curator/Roulette/" title="Roulette">Roulette</a>
+                                                                            <a href="http://freemusicarchive.org/curator/Interpretations/" title="Interpretations">Interpretations</a>
+                                                                            <a href="http://freemusicarchive.org/label/elementperspective/" title="elementperspective">elementperspect...</a>
+                                                                            <a href="http://freemusicarchive.org/curator/AS220/" title="AS220">AS220</a>
                                                                         <div class="more-curators"><a href="/curator/">More</a></div>
                                 </div>
                                 <div class="menu-bot"></div>
@@ -160,9 +160,9 @@ if (!readCookie('FMA_did_mobile_popup') && mobile) {
                                                                             <a href="http://freemusicarchive.org/genre/Experimental/" style="background-color: #dddd00">Experimental</a>
                                                                             <a href="http://freemusicarchive.org/genre/Folk/" style="background-color: #5E6D3F">Folk</a>
                                                                             <a href="http://freemusicarchive.org/genre/Hip-Hop/" style="background-color: #CC0000">Hip-Hop</a>
+                                                                            <a href="http://freemusicarchive.org/genre/Instrumental/" style="background-color: #000000">Instrumental</a>
                                                                             <a href="http://freemusicarchive.org/genre/International/" style="background-color: #CC3300">International</a>
                                                                             <a href="http://freemusicarchive.org/genre/Jazz/" style="background-color: #990099">Jazz</a>
-                                                                            <a href="http://freemusicarchive.org/genre/Novelty/" style="background-color: #4D0000">Novelty</a>
                                                                             <a href="http://freemusicarchive.org/genre/Old-Time__Historic/" style="background-color: #665666">Old-Time / Historic</a>
                                                                             <a href="http://freemusicarchive.org/genre/Pop/" style="background-color: #009900">Pop</a>
                                                                             <a href="http://freemusicarchive.org/genre/Rock/" style="background-color: #840000">Rock</a>
@@ -279,15 +279,15 @@ if (!readCookie('FMA_did_mobile_popup') && mobile) {
 
     </div>
 
-                    <div id="footer" class="">
-                    <span class="copyr">    The Free Music Archive offers free downloads under Creative Commons and other licenses. Please visit the track page to discover what you can and cannot do with each track.</span><br><br>
-                    <a href="http://freemusicarchive.org/Contact">CONTACT</a>&nbsp;&nbsp;/&nbsp;&nbsp;
-                    <a href="http://freemusicarchive.org/Help">HELP</a>&nbsp;&nbsp;/&nbsp;&nbsp;
-                    <a href="http://freemusicarchive.org/Terms_of_Use">TERMS OF USE</a>&nbsp;&nbsp;/&nbsp;&nbsp;
-                    <a href="http://freemusicarchive.org/Privacy_Policy">PRIVACY POLICY</a>&nbsp;&nbsp;/&nbsp;&nbsp;
-                    <a href="http://freemusicarchive.org/api/docs/">API</a>&nbsp;&nbsp;/&nbsp;&nbsp;
-                    <a href="http://freemusicarchive.mirocommunity.org/">VIDEO SHOWCASE</a>&nbsp;&nbsp;/&nbsp;&nbsp;
-                    <a href="http://freemusicarchive.org/music/">LIST OF ARTISTS</a>&nbsp;&nbsp;/&nbsp;&nbsp;
+                    <div id="footer" class="" align="center">
+                    <span class="copyr">    The Free Music Archive offers free downloads under Creative Commons and other licenses.<br>We also offer a very large repository of <a href="/music/Happy_Birthday_Song_Contest/The_New_Birthday_Song_Contest/">free birthday songs</a>&nbsp;you can use in your projects.</span><br><br>
+                    <a href="http://freemusicarchive.org/Contact">CONTACT</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+                    <a href="http://freemusicarchive.org/Help">HELP</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+                    <a href="http://freemusicarchive.org/Terms_of_Use">TERMS OF USE</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+                    <a href="http://freemusicarchive.org/Privacy_Policy">PRIVACY POLICY</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+                    <a href="http://freemusicarchive.org/api/docs/">API</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+                    <a href="http://freemusicarchive.org/faq">FAQ</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+                    <a href="http://freemusicarchive.org/music/">LIST OF ARTISTS</a>
                     <br><br>
                     <b></b>
                     <!-- All audio is licensed so you can download, share, remix, and do whatever you want with it. All written content licensed under <a href="#">Creative Commons Attribution 3.0</a>. -->
@@ -314,7 +314,7 @@ var _sf_async_config = { uid: 36453, domain: 'freemusicarchive.org' };
  })();
 </script>
 
-     <!-- generated on freemusicarchive.org / 10.245.11.66 at 2012-12-27T12:46:34-05:00 -->
+     <!-- generated on freemusicarchive.org / 10.40.201.193 at 2013-05-30T06:30:24-04:00 -->
     
 
 <script language="javascript" type="text/javascript" src="https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/js/chartbeat.js"></script></body></html>
