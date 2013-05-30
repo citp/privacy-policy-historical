@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the waveavenue.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920003529id_/http%3A//waveavenue.com/page/read-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waveavenue.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530102617id_/http%3A//waveavenue.com/page/read-privacy-policy) for the most accurate reproduction.*
 
-# Read Privacy Policy - wave avenue
+# Read Privacy Policy - Wave Avenue
 
 We value your privacy, and we want to help make your experience with the Ning Platform as satisfying and safe as possible. We have established this Privacy Policy to explain how Ning collects Personal Information (as defined below) on the Ning Platform, and how Ning uses and discloses that Personal Information. "Personal Information," as used in this Privacy Policy, is information that allows a person to directly identify an individual, such as name or email address, and information that we combine directly with such identifying information. This Privacy Policy is incorporated into and is subject to the Ning [Terms of Service](http://about.ning.com/tos.php). Any capitalized terms not defined herein have the meaning set forth in the Ning [Terms of Service](http://about.ning.com/tos.php). By using the Ning Platform, you expressly consent to the information handling practices described in this Privacy Policy.
 
