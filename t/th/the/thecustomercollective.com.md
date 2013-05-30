@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecustomercollective.com privacy policy that was archived on 2012-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120819183056id_/http%3A//thecustomercollective.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecustomercollective.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530102840id_/http%3A//socialmediatoday.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Social Media Today
 
