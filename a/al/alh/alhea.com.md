@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alhea.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919190033id_/http%3A//alhea.com/support/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alhea.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530084320id_/http%3A//alhea.com/support/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -73,10 +73,9 @@ It is possible that by fraud or deception we may receive information given to us
 
 Questions regarding children's privacy should be directed to:   
 Ego Cogito, S.L   
-Paseo de la Castellana 141   
-Edificio Cuzco IV Planta 20.   
-28046 Madrid   
-\+ (34) 91 245. 41.88 phone 
+Calle Alfonso X El Sabio, 91   
+28983 Parla (Madrid)   
+SPAIN 
 
 E-mail: [Contact us](https://web.archive.org/support/contactus)
 
