@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the proudlypinoy.tv privacy policy that was archived on 2012-12-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121221083802id_/http%3A//proudlypinoy.tv/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the proudlypinoy.tv privacy policy that was archived on 2013-05-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130530095144id_/http%3A//proudlypinoy.tv/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns#"><head profile="http://gmpg.org/xfn/11">
 <style>
@@ -115,7 +115,73 @@ $('#commentform').validate();
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 </script>
+<script type="text/javascript">
+//<![CDATA[
+    var tabLinks = new Array();
+    var contentDivs = new Array();
 
+    function init() {
+      // Grab the tab links and content divs from the page
+      var tabListItems = document.getElementById('tabs').childNodes;
+      for ( var i = 0; i < tabListItems.length; i++ ) {
+        if ( tabListItems[i].nodeName == "LI" ) {
+          var tabLink = getFirstChildWithTagName( tabListItems[i], 'A' );
+          var id = getHash( tabLink.getAttribute('href') );
+          tabLinks[id] = tabLink;
+          contentDivs[id] = document.getElementById( id );
+        }
+      }
+
+      // Assign onclick events to the tab links, and
+      // highlight the first tab
+      var i = 0;
+
+      for ( var id in tabLinks ) {
+        tabLinks[id].onclick = showTab;
+        tabLinks[id].onfocus = function() { this.blur() };
+        if ( i == 0 ) tabLinks[id].className = 'selected';
+        i++;
+      }
+
+      // Hide all content divs except the first
+      var i = 0;
+
+      for ( var id in contentDivs ) {
+        if ( i != 0 ) contentDivs[id].className = 'tabContent hide';
+        i++;
+      }
+    }
+
+    function showTab() {
+      var selectedId = getHash( this.getAttribute('href') );
+
+      // Highlight the selected tab, and dim all others.
+      // Also show the selected content div, and hide all others.
+      for ( var id in contentDivs ) {
+        if ( id == selectedId ) {
+          tabLinks[id].className = 'selected';
+          contentDivs[id].className = 'tabContent';
+        } else {
+          tabLinks[id].className = '';
+          contentDivs[id].className = 'tabContent hide';
+        }
+      }
+
+      // Stop the browser following the link
+      return false;
+    }
+
+    function getFirstChildWithTagName( element, tagName ) {
+      for ( var i = 0; i < element.childNodes.length; i++ ) {
+        if ( element.childNodes[i].nodeName == tagName ) return element.childNodes[i];
+      }
+    }
+
+    function getHash( url ) {
+      var hashPos = url.lastIndexOf ( '#' );
+      return url.substring( hashPos + 2 );
+    }
+</script>
 <link rel="shortcut icon" href="http://www.iconj.com/ico/x/p/xpvbpkhixx.ico" type="image/x-icon">
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
 <script type="text/javascript" src="http://proudlypinoy.tv/stepcarousel.js"></script>
@@ -126,7 +192,7 @@ $('#commentform').validate();
 
 </head>
 
-<body class="page page-id-5064 layout-2c-r-fixed js style-default">
+<body class="page page-id-5064 layout-2c-r-fixed js style-default" onload="init()">
 <!--<script type="text/javascript" src="http://www.proudlypinoy.tv/jqueryui1.2.6.js"></script>-->
 <script type="text/javascript">
 //<![CDATA[
@@ -154,7 +220,9 @@ document.getElementById(id).style.display='block';
 				<span class="blog-name"><a href="http://proudlypinoy.tv">Proudly Pinoy</a></span>
 		<span class="blog-description">OFW Online Tambayan</span>
 			</div>
-	<div id="headerad">			<div class="textwidget"><iframe id="a641624d" name="a641624d" src="http://d1.openx.org/afr.php?zoneid=273566&amp;cb=INSERT_RANDOM_NUMBER_HERE" frameborder="0" scrolling="no" width="728" height="90"><a href='http://d1.openx.org/ck.php?n=aa798302&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://d1.openx.org/avw.php?zoneid=273566&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=aa798302' border='0' alt='' /></a></iframe></div>
+	<div id="headerad">			<div class="textwidget"><!-- BEGIN STANDARD TAG - 728 x 90 - 0movies.com_PR_dynamic: : SECTION CODE REQUIRED - DO NOT MODIFY -->
+<iframe frameborder="0" marginwidth="0" marginheight="0" scrolling="NO" width="728" height="90" src="http://creative.xtendmedia.com/proxy/matomymediaproxy.html?ad_type=ad&amp;ad_size=728x90&amp;site=1168095&amp;section_code=banners"></iframe>
+<!-- END TAG --></div>
 		</div>
 	</div><!-- #branding -->
 </div><!-- #header -->
@@ -219,7 +287,7 @@ document.getElementById(id).style.display='block';
 	
 	  
 	<div id="main" class="clearfix">
-<center><iframe src="http://proudlypinoy.tv/static_slider_makulits_feature.php" width="995" height="122" frameborder="0" scrolling="no"></iframe></center>    <div id="container" class="clearfix">
+    <div id="container" class="clearfix">
 
 <div id="content" class="section">
 
@@ -258,8 +326,11 @@ document.getElementById(id).style.display='block';
  <input type="submit" class="searchsubmit" value="Search" title="Search Proudly Pinoy">
 </form>
 </div>
-                                                <ul class="xoxo"><li class="widgetcontainer clearfix" id="text-3"><h5 class="widgettitle">Latest Promo Discount Deals</h5><center><iframe src="http://proudlypinoy.tv/static_slider_ilikepromo_vertical.php" width="300" height="270" frameborder="0" scrolling="no"></iframe></center><center><iframe id="a637548a" name="a637548a" src="http://d1.openx.org/afr.php?zoneid=273568&amp;cb=INSERT_RANDOM_NUMBER_HERE" frameborder="0" scrolling="no" width="300" height="250"><a href='http://d1.openx.org/ck.php?n=af90405d&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://d1.openx.org/avw.php?zoneid=273568&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=af90405d' border='0' alt='' /></a></iframe></center></li></ul>	<ul class="xoxo">
-		<li id="text-16" class="widgetcontainer clearfix">			<div class="textwidget"><object width="300" height="700" id="obj_1289576002984"><param value="http://pinaytambayanchat.chatango.com/group" name="movie"><param value="always" name="AllowScriptAccess"><param value="all" name="AllowNetworking"><param value="true" name="AllowFullScreen"><param value="cid=1289576002984&amp;a=000000&amp;b=100&amp;c=F0B500&amp;d=FFCC00&amp;e=000000&amp;g=25BA01&amp;h=000000&amp;j=25BA01&amp;k=7C7C7C&amp;l=303231&amp;m=FFFFFF&amp;n=F0B500&amp;o=0&amp;p=11&amp;r=100&amp;s=1&amp;t=0" name="flashvars"><embed width="300" height="700" flashvars="cid=1289576002984&amp;a=000000&amp;b=100&amp;c=F0B500&amp;d=FFCC00&amp;e=000000&amp;g=25BA01&amp;h=000000&amp;j=25BA01&amp;k=7C7C7C&amp;l=303231&amp;m=FFFFFF&amp;n=F0B500&amp;o=0&amp;p=11&amp;r=100&amp;s=1&amp;t=0" allowfullscreen="true" type="application/x-shockwave-flash" allownetworking="all" allowscriptaccess="always" src="http://pinaytambayanchat.chatango.com/group" id="emb_1289576002984"></object></div>
+<center><!-- BEGIN STANDARD TAG - 300 x 250 - 0movies.com_PR_dynamic: : SECTION CODE REQUIRED - DO NOT MODIFY -->
+<iframe frameborder="0" marginwidth="0" marginheight="0" scrolling="NO" width="300" height="250" src="http://creative.xtendmedia.com/proxy/matomymediaproxy.html?ad_type=ad&amp;ad_size=300x250&amp;site=1168095&amp;section_code=banners"></iframe>
+<!-- END TAG --></center>
+	<ul class="xoxo">
+		<li id="text-16" class="widgetcontainer clearfix">			<div class="textwidget"><object width="315" height="700" id="obj_1289576002984"><param value="http://pinaytambayanchat.chatango.com/group" name="movie"><param value="always" name="AllowScriptAccess"><param value="all" name="AllowNetworking"><param value="true" name="AllowFullScreen"><param value="cid=1289576002984&amp;a=000000&amp;b=100&amp;c=F0B500&amp;d=FFCC00&amp;e=000000&amp;g=25BA01&amp;h=000000&amp;j=25BA01&amp;k=7C7C7C&amp;l=303231&amp;m=FFFFFF&amp;n=F0B500&amp;o=0&amp;p=11&amp;r=100&amp;s=1&amp;t=0" name="flashvars"><embed width="315" height="700" flashvars="cid=1289576002984&amp;a=000000&amp;b=100&amp;c=F0B500&amp;d=FFCC00&amp;e=000000&amp;g=25BA01&amp;h=000000&amp;j=25BA01&amp;k=7C7C7C&amp;l=303231&amp;m=FFFFFF&amp;n=F0B500&amp;o=0&amp;p=11&amp;r=100&amp;s=1&amp;t=0" allowfullscreen="true" type="application/x-shockwave-flash" allownetworking="all" allowscriptaccess="always" src="http://pinaytambayanchat.chatango.com/group" id="emb_1289576002984"></object></div>
 		</li><li id="text-3" class="widgetcontainer clearfix"><h5 class="widgettitle">Live Radio Stations</h5>			<div class="textwidget"><center><iframe src="http://proudlypinoy.tv/wp-content/themes/arras/liveradio.php" width="305px" height="270px" scrolling="no" frameborder="0"></iframe></center></div>
 		</li><li id="text-10" class="widgetcontainer clearfix"><h5 class="widgettitle">Our Facebook Fanpage</h5>			<div class="textwidget"><iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FPinayTambayancom%2F102155359866875&amp;width=314&amp;colorscheme=light&amp;show_faces=true&amp;stream=false&amp;header=false&amp;height=265" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:314px; height:265px; background:#DFEAFF;" allowtransparency="true"></iframe></div>
 		</li>	</ul>
@@ -267,20 +338,13 @@ document.getElementById(id).style.display='block';
 <div id="secondary" class="aside main-aside sidebar">
     <ul class="xoxo">
         <!-- Widgetized sidebar, if you have the plugin installed.  -->
-        <li id="text-14" class="widgetcontainer clearfix">			<div class="textwidget"><a href="http://www.pbb247.com/">PBB Live Streaming</a><br>
-<a href="http://trailersdump.com">New Movie Trailers</a><br>
-<a title="New Movies to Watch" href="http://makulits.com" target="_blank">New movies to watch</a><br>
-<a title="Watch Funny Videos" href="http://shokoy.com" target="_blank">Watch Funny Videos</a><br>
-<a title="Watch Free Anime" href="http://animeseriesonline.com" target="_blank">Watch Free Anime</a><br>
-<a title="tagalog drama" href="http://tagalogdrama.com" target="_blank">tagalog drama</a>
-<br>
-<a title="Pinoy TV" href="http://www.pnoytv.com" target="_blank">Pinoy TV</a>
-<br>
+        <li id="text-14" class="widgetcontainer clearfix">			<div class="textwidget"><a title="New Movies to Watch" href="http://makulits.com" target="_blank">New movies to watch</a><br>
+<a title="Pinoy TV" href="http://www.pnoytv.com" target="_blank">Pinoy TV</a><br>
 <a title="Pinoy Tambayan" href="http://www.pinaytambayan.com" target="_blank">Pinoy Tambayan</a></div>
 		</li>    </ul>
 	</div><!-- #secondary -->	</div><!-- #main -->
 	
-	<a href="http://proudlypinoy.tv" title="proudlypinoy tv">proudlypinoy tv</a> / <a href="http://proudlypinoy.tv" title="proudly pinoy tv">proudly pinoy tv</a> / <a href="http://proudlypinoy.tv" title="proudly pinoy">proudly pinoy</a> / <a href="http://proudlypinoy.tv" title="www proudlypinoy tv">www proudlypinoy tv</a> / <a href="http://proudlypinoy.tv/be-careful-with-my-heart-july-10-2012/" title="please be careful with my heart teleserye">please be careful with my heart teleserye</a> / <a href="http://proudlypinoy.tv/be-careful-with-my-heart-july-10-2012/" title="be careful with my heart teleserye">be careful with my heart teleserye</a> / <a href="http://proudlypinoy.tv" title="proudlypinoy">proudlypinoy</a> / <a href="http://proudlypinoy.tv/my-princess-april-12-2011/" title="www iwanttv com ph">www iwanttv com ph</a> / <a href="http://proudlypinoy.tv/pure-love-july-11-2011/" title="iwanttv">iwanttv</a> / <a href="http://proudlypinoy.tv/be-careful-with-my-heart-july-20-2012/" title="please be careful with my heart">please be careful with my heart</a> / <a href="http://proudlypinoy.tv" title="www proudly pinoy tv">www proudly pinoy tv</a> / <a href="http://proudlypinoy.tv/be-careful-with-my-heart-july-9-2012/" title="www iwanttv com ph be careful with my heart">www iwanttv com ph be careful with my heart</a> / <a href="http://proudlypinoy.tv/be-careful-with-my-heart-july-10-2012/" title="iwanttv com ph be careful with my heart">iwanttv com ph be careful with my heart</a> / <a href="http://proudlypinoy.tv/be-careful-with-my-heart-july-10-2012/" title="please be careful with my heart episode">please be careful with my heart episode</a> / <a href="http://proudlypinoy.tv" title="proudlypinoytv">proudlypinoytv</a> / <a href="http://proudlypinoy.tv/three-brothers-october-5-2011/" title="www iwantv com ph be careful with my heart">www iwantv com ph be careful with my heart</a> / <a href="http://proudlypinoy.tv/pure-love-on-abs-cbn-july-3-2011/" title="Pure Love">Pure Love</a> / <a href="http://proudlypinoy.tv/mara-clara-april-1-2011/" title="http proudly pinoy tv">http proudly pinoy tv</a> / <a href="http://proudlypinoy.tv/be-careful-with-my-heart-july-10-2012/" title="please be careful with my heart episodes">please be careful with my heart episodes</a> / <a href="http://proudlypinoy.tv/mula-sa-puso-april-7-2011/" title="www iwant tv com ph">www iwant tv com ph</a> / <a href="http://proudlypinoy.tv/be-careful-with-my-heart-july-9-2012/" title="www pinoytv com be careful with my heart">www pinoytv com be careful with my heart</a> / <a href="http://proudlypinoy.tv/my-girlfriend-is-a-gumiho-may-13-2011/" title="www iwanttv com">www iwanttv com</a> / <a href="http://proudlypinoy.tv/lie-to-me-tagalog-june-19-2012/" title="lie to me tagalog version">lie to me tagalog version</a> / <a href="http://proudlypinoy.tv" title="proudlypinoy com">proudlypinoy com</a> / <a href="http://proudlypinoy.tv" title="www proudlypinoy com">www proudlypinoy com</a> / <a href="http://proudlypinoy.tv" title="proudly pinoy com">proudly pinoy com</a> / <a href="http://proudlypinoy.tv/mutya-may-2-2011/" title="www iwant tv com">www iwant tv com</a> / <a href="http://proudlypinoy.tv/be-careful-with-my-heart-july-9-2012/" title="iwantv com ph be careful with my heart">iwantv com ph be careful with my heart</a> / <a href="http://proudlypinoy.tv/be-careful-with-my-heart-july-9-2012/" title="iwanttv be careful with my heart">iwanttv be careful with my heart</a> / <a href="http://proudlypinoy.tv/my-princess-april-12-2011/" title="www i want tv com ph">www i want tv com ph</a> / <a href="http://proudlypinoy.tv" title="proudlypinoy tv com">proudlypinoy tv com</a> / <a href="http://proudlypinoy.tv/be-careful-with-my-heart-july-10-2012/" title="please be careful with my heart abs cbn">please be careful with my heart abs cbn</a> / <a href="http://proudlypinoy.tv/my-princess-april-12-2011/" title="iwanttv com ph">iwanttv com ph</a> / <a href="http://proudlypinoy.tv/be-careful-with-my-heart-july-10-2012/" title="please be careful with my heart replay">please be careful with my heart replay</a> / <a href="http://proudlypinoy.tv/be-careful-with-my-heart-july-10-2012/" title="watch please be careful with my heart">watch please be careful with my heart</a> / <a href="http://proudlypinoy.tv" title="proudly pinoy tv com">proudly pinoy tv com</a> / <a href="http://proudlypinoy.tv/walang-hanggan-june-20-2012/" title="www iwanttv com ph walang hanggan">www iwanttv com ph walang hanggan</a> / <a href="http://proudlypinoy.tv/be-careful-with-my-heart-july-23-2012/" title="iwantv be careful with my heart">iwantv be careful with my heart</a> / <a href="http://proudlypinoy.tv" title="www proudlypinoy tv com">www proudlypinoy tv com</a> / <a href="http://proudlypinoy.tv/be-careful-with-my-heart-july-12-2012/" title="be careful with my heart abs cbn">be careful with my heart abs cbn</a> / <a href="http://proudlypinoy.tv/be-careful-with-my-heart-july-13-2012/" title="be careful with my heart">be careful with my heart</a> / <a href="http://proudlypinoy.tv/be-careful-with-my-heart-july-9-2012/" title="pinoytv com be careful with my heart">pinoytv com be careful with my heart</a> / <a href="http://proudlypinoy.tv/lie-to-me-tagalog-june-19-2012/" title="lie to me korean drama tagalog version">lie to me korean drama tagalog version</a> / <a href="http://proudlypinoy.tv/walang-hanggan-may-10-2012/" title="i want tv com">i want tv com</a> / <a href="http://proudlypinoy.tv/be-careful-with-my-heart-august-1-2012/" title="www iwant tv com ph be careful with my heart">www iwant tv com ph be careful with my heart</a> / <a href="http://proudlypinoy.tv/be-careful-with-my-heart-july-10-2012/" title="www iwantv com ph">www iwantv com ph</a> / <a href="http://proudlypinoy.tv/studio23-live-stream-1/" title="studio 23 live streaming">studio 23 live streaming</a> / <a href="http://proudlypinoy.tv/be-careful-with-my-heart-july-12-2012/" title="be careful with my heart cast">be careful with my heart cast</a> / <a href="http://proudlypinoy.tv/be-careful-with-my-heart-july-18-2012/" title="proudlypinoy tv be careful with my heart">proudlypinoy tv be careful with my heart</a> / <a href="http://proudlypinoy.tv" title="www proudly pinoy com">www proudly pinoy com</a> / <a href="http://proudlypinoy.tv/walang-hanggan-june-15-2012/" title="proudlypinoy tv walang hanggan">proudlypinoy tv walang hanggan</a> / <a href="http://proudlypinoy.tv/walang-hanggan-june-20-2012/" title="www iwantv com ph walang hanggan">www iwantv com ph walang hanggan</a> / <a href="http://proudlypinoy.tv/be-careful-with-my-heart-july-10-2012/" title="please be careful with my heart abs-cbn">please be careful with my heart abs-cbn</a> / <a href="http://proudlypinoy.tv/aryana-june-19-2012/" title="www i want tv com">www i want tv com</a> / <a href="http://proudlypinoy.tv" title="proudlypinoytv com">proudlypinoytv com</a> / <a href="http://proudlypinoy.tv/walang-hanggan-july-17-2012/" title="www iwant tv com ph walang hanggan">www iwant tv com ph walang hanggan</a> / <a href="http://proudlypinoy.tv/mmk-maalaala-mo-kaya-april-2-2011/" title="www iwant tv">www iwant tv</a> / <a href="http://proudlypinoy.tv/be-careful-with-my-heart-july-10-2012/" title="www iwanttv com be careful with my heart">www iwanttv com be careful with my heart</a> / <a href="http://proudlypinoy.tv" title="www proudlypinoy">www proudlypinoy</a> / <a href="http://proudlypinoy.tv/be-careful-with-my-heart-july-19-2012/" title="i want tv be careful with my heart">i want tv be careful with my heart</a> / <a href="http://proudlypinoy.tv/dong-yi-december-20-2011/" title="proudlypinoy tv dongyi">proudlypinoy tv dongyi</a> / <a href="http://proudlypinoy.tv/be-careful-with-my-heart-july-10-2012/" title="iwanttv com ph please be careful with my heart">iwanttv com ph please be careful with my heart</a> /      
+	<a href="http://proudlypinoy.tv" title="proudlypinoy tv">proudlypinoy tv</a> / <a href="http://proudlypinoy.tv" title="proudly pinoy tv">proudly pinoy tv</a> / <a href="http://proudlypinoy.tv" title="proudly pinoy">proudly pinoy</a> / <a href="http://proudlypinoy.tv/be-careful-with-my-heart-july-13-2012/" title="be careful with my heart">be careful with my heart</a> / <a href="http://proudlypinoy.tv" title="www proudlypinoy tv">www proudlypinoy tv</a> / <a href="http://proudlypinoy.tv/be-careful-with-my-heart-july-20-2012/" title="please be careful with my heart">please be careful with my heart</a> / <a href="http://proudlypinoy.tv/be-careful-with-my-heart-july-10-2012/" title="please be careful with my heart teleserye">please be careful with my heart teleserye</a> / <a href="http://proudlypinoy.tv/pure-love-july-11-2011/" title="iwanttv">iwanttv</a> / <a href="http://proudlypinoy.tv/be-careful-with-my-heart-july-10-2012/" title="be careful with my heart teleserye">be careful with my heart teleserye</a> / <a href="http://proudlypinoy.tv/be-careful-with-my-heart-july-10-2012/" title="please be careful with my heart episodes">please be careful with my heart episodes</a> / <a href="http://proudlypinoy.tv/be-careful-with-my-heart-july-9-2012/" title="www iwanttv com ph be careful with my heart">www iwanttv com ph be careful with my heart</a> / <a href="http://proudlypinoy.tv/be-careful-with-my-heart-july-10-2012/" title="please be careful with my heart episode">please be careful with my heart episode</a> / <a href="http://proudlypinoy.tv/be-careful-with-my-heart-july-10-2012/" title="iwanttv com ph be careful with my heart">iwanttv com ph be careful with my heart</a> / <a href="http://proudlypinoy.tv/my-princess-april-12-2011/" title="www iwanttv com ph">www iwanttv com ph</a> / <a href="http://proudlypinoy.tv" title="proudlypinoy">proudlypinoy</a> / <a href="http://proudlypinoy.tv/be-careful-with-my-heart-july-10-2012/" title="www iwantv com ph">www iwantv com ph</a> / <a href="http://proudlypinoy.tv/three-brothers-october-5-2011/" title="www iwantv com ph be careful with my heart">www iwantv com ph be careful with my heart</a> / <a href="http://proudlypinoy.tv/be-careful-with-my-heart-july-23-2012/" title="iwantv be careful with my heart">iwantv be careful with my heart</a> / <a href="http://proudlypinoy.tv/be-careful-with-my-heart-july-9-2012/" title="iwantv com ph be careful with my heart">iwantv com ph be careful with my heart</a> / <a href="http://proudlypinoy.tv/be-careful-with-my-heart-july-19-2012/" title="i want tv be careful with my heart">i want tv be careful with my heart</a> / <a href="http://proudlypinoy.tv/my-princess-april-12-2011/" title="www i want tv com ph">www i want tv com ph</a> / <a href="http://proudlypinoy.tv/my-princess-april-12-2011/" title="iwanttv com ph">iwanttv com ph</a> / <a href="http://proudlypinoy.tv" title="www proudly pinoy tv">www proudly pinoy tv</a> / <a href="http://proudlypinoy.tv/mula-sa-puso-april-7-2011/" title="www iwant tv com ph">www iwant tv com ph</a> / <a href="http://proudlypinoy.tv/ina-kapatid-anak-first-episode-october-1-2012/" title="www iwantv com ph ina kapatid anak">www iwantv com ph ina kapatid anak</a> / <a href="http://proudlypinoy.tv/lie-to-me-tagalog-june-29-2012/" title="i want tv">i want tv</a> / <a href="http://proudlypinoy.tv/be-careful-with-my-heart-july-9-2012/" title="be careful with my heart episodes">be careful with my heart episodes</a> / <a href="http://proudlypinoy.tv/mutya-may-2-2011/" title="www iwant tv com">www iwant tv com</a> / <a href="http://proudlypinoy.tv/be-careful-with-my-heart-august-14-2012/" title="www iwantv com ph/be careful with my heart">www iwantv com ph/be careful with my heart</a> / <a href="http://proudlypinoy.tv" title="proudlypinoytv">proudlypinoytv</a> / <a href="http://proudlypinoy.tv/be-careful-with-my-heart-july-9-2012/" title="iwanttv be careful with my heart">iwanttv be careful with my heart</a> / <a href="http://proudlypinoy.tv/walang-hanggan-may-10-2012/" title="i want tv com">i want tv com</a> / <a href="http://proudlypinoy.tv/ina-kapatid-anak-first-episode-october-1-2012/" title="www iwanttv com ph ina kapatid anak">www iwanttv com ph ina kapatid anak</a> / <a href="http://proudlypinoy.tv/pure-love-on-abs-cbn-july-3-2011/" title="Pure Love">Pure Love</a> / <a href="http://proudlypinoy.tv/aryana-june-19-2012/" title="www i want tv com">www i want tv com</a> / <a href="http://proudlypinoy.tv/be-careful-with-my-heart-july-9-2012/" title="be careful with my heart replay">be careful with my heart replay</a> / <a href="http://proudlypinoy.tv/be-careful-with-my-heart-july-11-2012/" title="be careful with my heart episode">be careful with my heart episode</a> / <a href="http://proudlypinoy.tv/be-careful-with-my-heart-july-9-2012/" title="www pinoytv com be careful with my heart">www pinoytv com be careful with my heart</a> / <a href="http://proudlypinoy.tv/be-careful-with-my-heart-july-10-2012/" title="please be careful with my heart replay">please be careful with my heart replay</a> / <a href="http://proudlypinoy.tv/be-careful-with-my-heart-july-10-2012/" title="watch please be careful with my heart">watch please be careful with my heart</a> / <a href="http://proudlypinoy.tv/mara-clara-april-1-2011/" title="http proudly pinoy tv">http proudly pinoy tv</a> / <a href="http://proudlypinoy.tv/my-girlfriend-is-a-gumiho-may-13-2011/" title="www iwanttv com">www iwanttv com</a> / <a href="http://proudlypinoy.tv/lie-to-me-tagalog-june-19-2012/" title="lie to me tagalog version">lie to me tagalog version</a> / <a href="http://proudlypinoy.tv" title="proudlypinoy com">proudlypinoy com</a> / <a href="http://proudlypinoy.tv" title="www proudlypinoy com">www proudlypinoy com</a> / <a href="http://proudlypinoy.tv" title="proudly pinoy com">proudly pinoy com</a> / <a href="http://proudlypinoy.tv/be-careful-with-my-heart-august-1-2012/" title="www iwant tv com ph be careful with my heart">www iwant tv com ph be careful with my heart</a> / <a href="http://proudlypinoy.tv/be-careful-with-my-heart-august-1-2012/" title="becareful with my heart">becareful with my heart</a> / <a href="http://proudlypinoy.tv/ina-kapatid-anak-october-24-2012/" title="www i want tv com ph ina kapatid anak">www i want tv com ph ina kapatid anak</a> / <a href="http://proudlypinoy.tv" title="www proudlypinoy tv com">www proudlypinoy tv com</a> / <a href="http://proudlypinoy.tv/my-princess-april-20-2011/" title="www pinoytv com">www pinoytv com</a> / <a href="http://proudlypinoy.tv" title="proudlypinoy tv com">proudlypinoy tv com</a> / <a href="http://proudlypinoy.tv/ina-kapatid-anak-first-episode-october-1-2012/" title="iwantv com ph ina kapatid anak">iwantv com ph ina kapatid anak</a> / <a href="http://proudlypinoy.tv/be-careful-with-my-heart-july-18-2012/" title="proudlypinoy tv be careful with my heart">proudlypinoy tv be careful with my heart</a> / <a href="http://proudlypinoy.tv/be-careful-with-my-heart-july-10-2012/" title="please be careful with my heart abs cbn">please be careful with my heart abs cbn</a> / <a href="http://proudlypinoy.tv/mmk-maalaala-mo-kaya-april-2-2011/" title="i want tv com ph">i want tv com ph</a> / <a href="http://proudlypinoy.tv/ina-kapatid-anak-episode-1-october-8-2012/" title="iwanttv com ph ina kapatid anak">iwanttv com ph ina kapatid anak</a> / <a href="http://proudlypinoy.tv/be-careful-with-my-heart-july-9-2012/" title="pinoytv com be careful with my heart">pinoytv com be careful with my heart</a> / <a href="http://proudlypinoy.tv/be-careful-with-my-heart-july-19-2012/" title="www i want tv com ph be careful with my heart">www i want tv com ph be careful with my heart</a> / <a href="http://proudlypinoy.tv/be-careful-with-my-heart-july-9-2012/" title="pinoy tv be careful with my heart">pinoy tv be careful with my heart</a> / <a href="http://proudlypinoy.tv/walang-hanggan-june-20-2012/" title="www iwanttv com ph walang hanggan">www iwanttv com ph walang hanggan</a> / <a href="http://proudlypinoy.tv/studio23-live-stream-1/" title="studio 23 live streaming">studio 23 live streaming</a> / <a href="http://proudlypinoy.tv/be-careful-with-my-heart-july-9-2012/" title="i want tv com be careful with my heart">i want tv com be careful with my heart</a> / <a href="http://proudlypinoy.tv" title="proudly pinoy tv com">proudly pinoy tv com</a> / <a href="http://proudlypinoy.tv/ina-kapatid-anak-first-episode-october-1-2012/" title="iwanttv ina kapatid anak">iwanttv ina kapatid anak</a> / <a href="http://proudlypinoy.tv/be-careful-with-my-heart-july-12-2012/" title="be careful with my heart abs cbn">be careful with my heart abs cbn</a> / <a href="http://proudlypinoy.tv/be-careful-with-my-heart-july-18-2012/" title="pls be careful with my heart">pls be careful with my heart</a> / <a href="http://proudlypinoy.tv/be-careful-with-my-heart-july-26-2012/" title="www iwantv com be careful with my heart">www iwantv com be careful with my heart</a> / <a href="http://proudlypinoy.tv/juan-dela-cruz-january-14-2013/" title="iwanttv com ph juan dela cruz">iwanttv com ph juan dela cruz</a> / <a href="http://proudlypinoy.tv/juan-dela-cruz-february-1-2013/" title="www iwantv com ph juan dela cruz">www iwantv com ph juan dela cruz</a> / <a href="http://proudlypinoy.tv/aryana-june-19-2012/" title="www i want tv">www i want tv</a> / <a href="http://proudlypinoy.tv/my-princess-april-12-2011/" title="iwant tv com">iwant tv com</a> / <a href="http://proudlypinoy.tv/lie-to-me-tagalog-june-19-2012/" title="lie to me korean drama tagalog version">lie to me korean drama tagalog version</a> / <a href="http://proudlypinoy.tv/kris-tv-first-episode-june-27-2011/" title="iwantv com ph">iwantv com ph</a> / <a href="http://proudlypinoy.tv/be-careful-with-my-heart-july-10-2012/" title="www iwanttv com be careful with my heart">www iwanttv com be careful with my heart</a> / <a href="http://proudlypinoy.tv/two-wives-tagalog-july-11-2012/" title="www iwantv com ph two wives">www iwantv com ph two wives</a> / <a href="http://proudlypinoy.tv/be-careful-with-my-heart-july-12-2012/" title="be careful with my heart cast">be careful with my heart cast</a> /      
     <div id="footer">
 		<div class="footer-sidebar-container clearfix">
 							<ul id="footer-sidebar-1" class="footer-sidebar clearfix xoxo">
@@ -293,21 +357,6 @@ document.getElementById(id).style.display='block';
 		</div><!-- .footer-message -->
     </div>
 </div><!-- #wrapper -->
-<!-- BEGIN CPMSTAR TWO-SIDED SITESKIN CODE -->
-<!--
-<script type='text/javascript'>
-var cpmstar_pid         = 23929; // your poolid
-var cpmstar_centerWidth = "1000px"; //width IN PIXELS of your center content, e.g. "800px"
-var cpmstar_fixed       = "1" ; //fix ads near top of screen: "0" to allow ads to scroll with page
-var cpmstar_leftOffset  = "0px" ; //optionally adjust left ad positioning
-var cpmstar_rightOffset = "0px" ; //optionally adjust right ad positioning
-var cpmstar_zIndex      = "100" ; //adjust layering of ads vs. other page elements
-var cpmstar_topPos = "0px" ; //optionally shift both ads down from top of page
-var cpmstar_rnd         = Math.round(Math.random() * 999999);
-document.write("\x3cscript type='text/javascript' src='http://server.cpmstar.com/view.aspx?poolid=" + cpmstar_pid + "&script=1&rnd=" + cpmstar_rnd + "'\x3e\x3c/script\x3e");
-</script>
--->
-<!-- END CPMSTAR TWO-SIDED SITESKIN CODE -->
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.7.3/jquery-ui.min.js"></script>
 <script type="text/javascript">
 jQuery(document).ready(function($) {
@@ -315,19 +364,7 @@ jQuery(document).ready(function($) {
 	
 });
 </script>
-<!-- Javascript tag  -->
-
-<!-- begin ZEDO for channel: Pnoytv (Tagalogdrama.com) Catfish , publisher: Catfish , Ad Dimension: CatFish 1x1 - 1 x 1 -->
-
-<script language="JavaScript">
-
-var zflag_nid="1282"; var zflag_cid="856"; var zflag_sid="7"; var zflag_width="1"; var zflag_height="1"; var zflag_sz="16";
-
-</script>
-
-<script language="JavaScript" src="http://c4.zedo.com/jsc/c4/fo.js"></script>
-
-<!-- end ZEDO for channel: Pnoytv (Tagalogdrama.com) Catfish , publisher: Catfish , Ad Dimension: CatFish 1x1 - 1 x 1 -->
+<script type="text/javascript" src="//cdn.adk2.com/matomy/wrappers/82d334c42b1b4bff8292977057c03e7d.js"></script>
 
 
    </body></html>
