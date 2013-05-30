@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loginhelper.com privacy policy that was archived on 2012-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121025061805id_/http%3A//loginhelper.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loginhelper.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531002333id_/http%3A//loginhelper.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Login Helper
 
