@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the americaneagle.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014025308id_/http%3A//www.americaneagle.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americaneagle.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530210452id_/http%3A//www.americaneagle.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Americaneagle.com
 
-#### Effective Date: 07/06/2011
+#### Effective Date: 1/21/2013
 
-This privacy statement describes how AmericanEagle.com collects and uses the personal information you provide on our Web site: www.americaneagle.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+This privacy statement describes how Americaneagle.com collects and uses the personal information you provide on our Web site: www.americaneagle.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
-[](https://privacy-policy.truste.com/click-with-confidence/ctv/en/www.americaneagle.com/seal_m "Validate TRUSTe privacy certification")AmericanEagle.com has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [info@americaneagle.com](mailto:info@americaneagle.com). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). The TRUSTe program covers only information that is collected through this Web site.
+[](https://privacy.truste.com/privacy-seal/Americaneagle-com/validation?rid=310e73f8-b0d4-468a-ad9b-dbcb39f0d839 "TRUSTe online privacy certification")
+
+Americaneagle.com has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [info@americaneagle.com](mailto:info@americaneagle.com). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). The TRUSTe program covers only information that is collected through this Web site.
 
 #### Information We Collect
 
@@ -24,7 +26,7 @@ Generally, you may not opt-out of these communications, which are not promotiona
 
 #### Tell-A-Friend
 
-If you choose to use our referral service to email a page from our site to a friend, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. AmericanEagle.com stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program.
+If you choose to use our referral service to email a page from our site to a friend, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Americaneagle.com stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program.
 
 Your friend may contact us at [info@americaneagle.com](mailto:info@americaneagle.com) to request that we remove this information from our database.
 
@@ -39,7 +41,7 @@ We may also disclose your personal information
   * as required by law, such as to comply with a subpoena, or similar legal process
   * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request
   * to any other third party with your prior consent to do so
-  * if AmericanEagle.com is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
+  * if Americaneagle.com is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
 
 
 
@@ -47,7 +49,7 @@ We may also disclose your personal information
 
 If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete/deactivate it by emailing our Customer Support at [customerservice@americaneagle.com](mailto:customerservice@americaneagle.com). We will respond to your request to access within 30 days.
 
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [email address]. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [info@americaneagle.com](mailto:info@americaneagle.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 #### Security
 
@@ -79,9 +81,13 @@ This site uses ClickTale web analytics service. ClickTale may record mouse click
 
 #### Links To Other Sites
 
-This Web site contains links to other sites that are not owned or controlled by AmericanEagle.com. Please be aware that we, AmericanEagle.com, are not responsible for the privacy practices of such other sites.
+This Web site contains links to other sites that are not owned or controlled by Americaneagle.com. Please be aware that we, Americaneagle.com, are not responsible for the privacy practices of such other sites.
 
 We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies only to information collected by this Web site.
+
+#### Social Media Widgets
+
+Our Web site includes Social Media Features, such as the Facebook Like button [and Widgets, such as the Share this button or interactive mini-programs that run on our site]. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
 
 #### Testimonials
 
@@ -97,4 +103,4 @@ We may update this privacy statement to reflect changes to our information pract
 
 #### Contact Us
 
-If you have any questions or suggestions regarding our privacy policy, please contact us at: [info@americaneagle.com](mailto:info@americaneagle.com) or via postal mail at Americaneagle.com, 1 S. Northwest Hwy. 5th floor, Park Ridge, IL 60068.
+If you have any questions or suggestions regarding our privacy policy, please contact us at: [info@americaneagle.com](mailto:info@americaneagle.com) or via postal mail at Americaneagle.com, 2600 S River Road, Des Plaines, IL 60018.
