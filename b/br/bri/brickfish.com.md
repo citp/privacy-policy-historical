@@ -1,19 +1,19 @@
-> *The following text is extracted and transformed from the brickfish.com privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111204039id_/http%3A//corp.brickfish.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brickfish.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530045503id_/http%3A//corp.brickfish.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Brickfish | Brickfish® Privacy Policy
 
 ### This Policy was last updated on August 29, 2011. v. 2.0
 
-Brickfish® ( **"Brickfish", "us" or "we"** ) respects the privacy of the visitors to its Website, the home page of which is located at http://www.brickfish.com ("Website"). This Privacy Policy, which is incorporated into the [Terms](https://web.archive.org/web/20121111204039id_/http%3A//corp.brickfish.com/termsofuse.php) is intended to inform you of our policies and practices regarding the collection, use and disclosure of any Personal Information and Anonymous Information you submit to us through our Website.
+Brickfish® ( **"Brickfish", "us" or "we"** ) respects the privacy of the visitors to its Website, the home page of which is located at http://www.brickfish.com ("Website"). This Privacy Policy, which is incorporated into the [Terms](https://web.archive.org/web/20130530045503id_/http%3A//corp.brickfish.com/termsofuse.php) is intended to inform you of our policies and practices regarding the collection, use and disclosure of any Personal Information and Anonymous Information you submit to us through our Website.
 
 **"Personal Information"** is information about you that is personally identifiable to you like your name, address, e-mail address, or phone number, as well as other non-public information that is associated with the foregoing. **"Anonymous Information"** means information that is not associated with or linked to your Personal Information; Anonymous Information does not permit the identification of individual persons. We collect and use Personal Information and Anonymous Information as described in this Privacy Policy.
 
 **User Consent**  
 By submitting Personal Information through our Website, you agree to the terms of this Privacy Policy and you expressly consent to the processing of your Personal Information according to this Privacy Policy.
 
-**Your Personal Information may be processed by Brickfish in the country where it was collected as well as other countries (including the United States) where laws regarding processing of Personal Information may be less stringent than the laws in your country..**
+**Your Personal Information may be processed by Brickfish in the country where it was collected as well as other countries (including the United States) where laws regarding processing of Personal Information may be less stringent than the laws in your country.**
 
-**Collection of Personal Information**  
+ **Collection of Personal Information**  
 The Personal Information we gather from you helps us learn about our members and potential members of our movement. We use this information to better tailor the features, performance and support of our movement and services, and to offer you additional information and opportunities, as further described in the section titled "Use of Information" below.
 
 **Personal Information You Provide to Us**  
@@ -71,7 +71,7 @@ Although we currently do not have a parent company, any subsidiaries, joint vent
 
 Note: On May 1, 2011, Highedge Inc. sold all assets including all user personal information to Social Mecca, Inc. The Privacy Policy will remain unchanged at this time.
 
-Upon termination of your account, any content or information submitted through or associated with your account will be handled as described in the [Terms of Use.](https://web.archive.org/web/20121111204039id_/http%3A//corp.brickfish.com/termsofuse.php)
+Upon termination of your account, any content or information submitted through or associated with your account will be handled as described in the [Terms of Use.](https://web.archive.org/web/20130530045503id_/http%3A//corp.brickfish.com/termsofuse.php)
 
 If our company or our assets are acquired by another company, that company will possess the Personal Information collected by us and it will assume the rights and obligations regarding your Personal Information as described in this Privacy Policy.
 
