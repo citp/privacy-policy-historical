@@ -1,130 +1,83 @@
-> *The following text is extracted and transformed from the perfectescapes.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015021920id_/http%3A//perfectescapes.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perfectescapes.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530205418id_/http%3A//www.perfectescapes.com/privacy-policy) for the most accurate reproduction.*
 
 # Perfect Escapes - Privacy Policy
 
- 
-
-| [](http://www.truste.org/ivalidate.php?url=www.perfectescapes.com&sealid=101) | Perfect Escapes is a certified licensee of the TRUSTe® Privacy Seal Program. The privacy statement and practices of www.perfectescapes.com have been reviewed by TRUSTe for compliance with its strict program requirements.  | **Last Updated: May 23, 2008**  
----|---|---  
   
+The Perfect Escapes Website is made available by Travelzoo Inc. Travelzoo Inc. is committed to protecting your privacy. Please read our privacy policy below to learn more. 
 
+###  What This Privacy Policy ("Policy") Covers
 
-OVERVIEW
-
-Your privacy is very important to us. We know that privacy is an important issue for our Users, and we take very seriously the protection of our Users' personal information. 
-
-Perfect Escapes is the name under which Intagio Corporation operates this PerfectEscapes.com hotel reservation and travel website (the "Site"). Within this Privacy Policy, "Perfect Escapes" and "we" refer to Intagio Corporation, a Delaware corporation maintaining its principal place of business in San Francisco, California, United States. 
-
-This Privacy Policy describes the information Perfect Escapes collects about its Users and what may happen to that information. Although this Privacy Policy may seem long, Perfect Escapes has prepared a detailed policy because we believe Users should know as much as possible about our practices, so they can make informed decisions. 
-
-By using this Site, you signify your assent to this Privacy Policy. Perfect Escapes may amend this Privacy Policy at any time and will notify Users of any such amendment by posting the amended Privacy Policy on the Site. A User's continued use of Perfect Escapes' services, or of this Site, following such posting will mean that the User has accepted those amendments. 
-
-By accepting the Perfect Escapes User Agreement, you consent to our use and disclosure of your personally identifiable information as set forth in this Privacy Policy. This Privacy Policy is incorporated into and subject to the terms of the Perfect Escapes [User Agreement](https://web.archive.org/web/20121015021920id_/http%3A//perfectescapes.com/Agreement.aspx) and [ Legal Notice](https://web.archive.org/web/20121015021920id_/http%3A//perfectescapes.com/Legal.aspx). Any dispute over privacy is subject to this Privacy Policy and to our User Agreement, including limitations on damages, arbitration of disputes, and application of the law of the State of California. 
-
-INFORMATION THAT PERFECT ESCAPES COLLECTS.
-
-Our primary goal in collecting personal information from Users is to provide them with a smooth, efficient, and customized experience while using this Site. This allows Perfect Escapes to provide services and features that are aimed at meeting User needs, and to customize our Site to make their experience easier and quicker. To fully use our services, a User will need to register by providing his or her e-mail address and postal Zip Code. 
-
-  1. Tracking Technology:  
-Perfect Escapes logs IP addresses (a unique number assigned to every connection to the Internet) in order to improve security, analyze trends and administer the Site. We may track your movement within the Site, the pages from which you were referred, access times and browser types. We only use this information in aggregate and do not link it to you personally unless you opt in through registration. To gauge the effectiveness of our Site, we do collect some generic information about our Users. Our web servers automatically recognize a User's domain name, the web page from which a User enters our Site, which pages a User visits on our Site, and how much time a User spends on each page. We may use anonymous tracking technologies to collect, store and sometimes track information for statistical purposes and to improve the products and services we provide. We aggregate this information and use it to evaluate and improve our Site. We store information that we collect through cookies, log files, clear gifs, and/or third party sources for instance to verify your address or update your information and to create a "profile" of your preferences. We tie your personally identifiable information to information in the profile, in order to provide tailored promotions and marketing offers and to improve the content of the Site for you. A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use cookies on this Site. We use session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our Site. A session ID cookie expires when you close you browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser's "help" file. Persistent cookies are used to differentiate subscribers from non-subscribers, to customize the content of certain sections of the website, and enable us to track and target the interests of our Users to enhance the experience on our Site. If you reject cookies, you may still use our Site, but your ability to use some areas of our Site may be limited. Some of our business partners (e.g., advertisers) use cookies on our site. We have no access to or control over these cookies. This Privacy Policy covers the use of cookies by this site only and does not cover the use of cookies by any advertisers. 
+  * This Policy explains the privacy practices of Travelzoo Inc. and its family of related companies (collectively, "Travelzoo") and applies to your use of Travelzoo's online products and services including various e-mail newsletters published by Travelzoo, the Websites that link to this policy, and any related information services (collectively, the "Online Services").
+  * This Policy covers how Travelzoo treats personal information and non-personal information we or third-parties may collect and receive related to your use of our Online Services. 
+  * When we refer to "personal information," what we mean is any information about you that is personally identifiable like your name, address, e-mail address, or phone number, and any other information that is not otherwise publicly available. When we refer to "non-personal information," what we mean is any information that is not personal information.
+  * Please understand that this Policy does not apply to the practices of people or companies that Travelzoo does not own, control, employ, or manage.
+  * Minors - You must be at least 18 years old to register or subscribe for Travelzoo's Online Services because Travelzoo is available only to individuals who can form legally binding contracts under applicable law. If you are under the age of 18, you can use Travelzoo only in conjunction with, and under the supervision of, your parents or guardians. 
 
 
 
-  2. E-Mail Registration:  
-Perfect Escapes publishes various e-mail newsletters. Users can sign up for e-mail newsletters by providing their e-mail address and zip code on our registration page. This information will not be shared with third parties. Recipients can edit their personal information or manage newsletter subscriptions by clicking the unsubscribe link included in every e-mail newsletter. 
+### Information Collection
+
+  * Travelzoo may collect personal information about you when you visit and use our Websites, when you register or subscribe for and sign in to our Online Services, when you visit the Websites of some Travelzoo partners, and when you enter promotions or sweepstakes sponsored by or in connection with Travelzoo.
+  * Travelzoo may combine the information that we collect about you with information that we obtain from business partners or other sources. 
+  * When you register or subscribe to our Online Services, we may ask you to provide information such as your name, mailing address (including country of residence), e-mail address, telephone number, Instant Messaging address, birth year, gender, preferred airport, occupation, and other personal interests. In addition, when you register or subscribe to our Online Services, we collect and store your IP address. Note that you are not anonymous to us when you sign in to our Online Services.
+  * Travelzoo may collect information about your transactions with us and our business partners through our Online Services. 
+  * Furthermore, when you use our Online Services, we receive and record information from your computer and browser, including your IP address, Travelzoo cookie information, the type of software and hardware you are using and the Web page(s) you visit. 
 
 
-  3. Hotel Reservations:  
-If you decide to make a hotel reservation through the Site, to process your request we collect contact information such as your name, address and email address, as well as payment information such as your credit card account information. 
+
+### Sharing and Disclosing Information
+
+  * Travelzoo does not rent or sell personal information about you to third parties. We reserve the right for third parties to collect non-personal information. We also reserve the right to share the personal information we collect about you through our Online Services with third parties when we have your permission or under the circumstances described below. 
+  * Travelzoo may use the data we collect about you for the following purposes: 
+  * To provide you with the products or services you have requested from us or through our Online Services;
+  * To provide personal information, when required by law, in connection with security-related or law enforcement investigations, to comply with legal requirements, orders, or proceedings, to perform credit checks, report or collect debts owed, or to protect the rights or property of Travelzoo, our employees, our subscribers, and our Online Services; 
+  * To investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Travelzoo's [Terms of Service](http://www.travelzoo.com/disclaimer/), or as otherwise required by law; 
+  * To customize the content and provide targeted advertising for our Online Services and to improve our Online Services; 
+  * To contact you with offers by Travelzoo and/or third parties that we think may be of interest to you; 
+  * To conduct research and provide anonymous reporting for internal and external clients; 
+  * We may use your IP address to help diagnose problems with our servers and to administer our Websites and to estimate the total number of Internet users who visit our Websites from certain countries or regions of the world; 
+  * We may provide data to trusted partners who work on our behalf to communicate with you about offers from Travelzoo and our marketing partners. Note, these companies do not have any right to use or share the data for any other purposes; 
+  * We may transfer, share, or disclose your personal information to third parties as part of any corporate reorganization process such as a merger, acquisition, and/or a sale of all or substantially all of our assets. Travelzoo will provide you with notice before your personal information becomes subject to a different privacy policy; 
+  * When you enter a promotion sponsored or offered in connection with Travelzoo, we may contact you and share your personal information with third parties so that we may administer the promotion, for prize fulfilment, and as otherwise specified in the official rules for the promotion.
+  * In order to provide our users a seamless experience, some pages on our Websites may be hosted by unrelated third parties. For example, much of our Investor Relations section is powered by Shareholder.com. When you sign up for investor-related e-mail alerts, you are actually entering your information directly with Shareholder.com so that they can provide the requested service for you on our behalf. Service Providers are prohibited from using your personal information for any other purpose other than for fulfilling the service(s) you request. 
 
 
-  4. Promotions:  
-From time to time we may provide you the opportunity to participate in sweepstakes or other promotions on our Site, which might be sponsored or conducted by a third party. If you participate, we will request certain personally identifiable information from you. Participation in these sweepstakes is completely voluntary and you therefore have a choice whether or not to disclose this information. The requested information typically includes contact information. If there is a third party sponsor involved please make sure to review that party's privacy policy. 
+
+### Cookies and Other Technologies
+
+  * We use cookies and other technologies, such as Web beacons, pixel tags, and clear gifs, to personalize our Online Services to your preferences and to provide an automatic log-in process. 
+  * Travelzoo may use Web beacons to access Travelzoo cookies in connection with our Online Services.
+  * A Web beacon is an electronic file stored in a Web page that allows us to count visitors to our Websites and to recognize users by accessing Travelzoo cookies which help us personalize your experience when you use our Online Services.
+  * Travelzoo also uses Web beacons to conduct research on behalf of our partners and for auditing purposes. No personally identifiable information about you is shared with partners from this research. 
 
 
-  5. Surveys:  
-We may from time to time provide a survey for our Users to fill out providing us with demographic information (such as income level and gender). We encourage you to submit this information so we can provide you a more personalized experience on our Site but participation is entirely voluntary. 
+
+### Confidentiality and Security of Your Personal Information
+
+  * Travelzoo takes reasonable security measures to protect your user information under our company's control against loss, misuse, or alteration. 
+  * Travelzoo is TRUSTe-certified. This certification applies to all English-language Websites under the Travelzoo.com domain and to other Websites where so indicated. If you have any questions regarding Travelzoo's membership in TRUSTe, please contact the Travelzoo site coordinator at the address listed below. If you feel that your inquiry has not been satisfactorily addressed, you should contact TRUSTe at [www.truste.org/consumers/watchdog_complaint.php](http://www.truste.org/consumers/watchdog_complaint.php).
 
 
-  6. Third Party Links:  
-We encourage you to be aware when you leave our Site and to read the privacy statements of each and every Web Site that collects personally identifiable information. This Privacy Policy applies only to information collected by our Site. 
+
+### Data Transfer
+
+Please note that the information Travelzoo collects about you may be stored on servers outside your home country - currently on servers in the United States of America. If you are visiting our Websites from a country other than the United States or your home country, please note that the United States or other countries where we may be hosting servers may not have the same data protection laws as your country or jurisdiction. By providing your personal information to Travelzoo, you are consenting to: (i) the use of your personal information for the uses described in this policy; and (ii) the transfer of your personal information to a country outside your home country - currently the United States.
+
+###  Changes to Our Privacy Policy
+
+  * Travelzoo may update this Policy from time to time. We will post any update(s) to this Policy on our Websites. All update(s) will be effective immediately on posting.
+  * If we make any material changes in the way we treat personal information, we will notify you by sending a notice to the primary e-mail address in your Travelzoo account or by placing a prominent notice on our site. 
 
 
-  7. User Requests for Third Party Service Provider Information:  
-From time to time we offer through our Site opportunities for Users to request from third party service providers information about the third party’s products or services. In order to facilitate the User’s request for information regarding a third party’s services, we may ask that the User provide personally identifiable information such as the User’s name, address, e-mail address and/or telephone number before receiving the third party service provider information. We collect this information only through Site pages that have an expressly stated purpose of permitting the User to request the third party service provider’s information or brochures, and we clearly state on the relevant page of the Site that the User’s information will be forwarded to the third party service provider. We do not put this collected name, address or telephone information to use ourselves, and we do not share this information with any third party other than the third party disclosed on the page . 
 
-USE OF PERSONAL INFORMATION.
+### Contact Us
 
-As a general practice, Perfect Escapes does not sell or rent any personally identifiable information about its Users to any third parties. The following describes some of the ways that a User’s personally identifiable information may be disclosed: 
+If you have comments about this Privacy Policy, please write to us at:   
+Travelzoo Inc.   
+Attention: Perfect Escapes  
+Privacy Policy Issues   
+590 Madison Avenue   
+37th Floor   
+New York, NY 10022 
 
-  1. Vendors:  
-We employ other companies and individuals to perform functions on our behalf. Examples might include sending e-mail, analyzing data, processing credit card transactions for hotel reservations, providing marketing assistance, providing search results and links, providing Web analytics, providing Web hosting and providing customer service. They have access to personal information needed to perform their functions, but may not use it for other purposes. 
-
-
-  2. Service-related announcements:  
-We will send you service-related announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, or the delivery of a service or product is delayed we might send you an email, or if there is some service issue with something you might have ordered. Generally, you may not opt-out of these communications, which are not promotional in nature. However, if you do not wish to receive these communications, you have the option to deactivate your account by sending a request to [support@perfectescapes.com](mailto:support@perfectescapes.com). 
-
-
-  3. Exceptional Circumstances:  
-If Intagio Corporation or its parent company are sold or disposed of as a going concern, whether by merger, sale of assets or otherwise, the customer database of Perfect Escapes could, in whole or in part, be sold as part of that transaction. In such transactions, personal information will be subject to the promises made in any pre-existing Privacy Policy in effect when the information was obtained. In the event Intagio Corporation goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred. 
-
-
-  4. Compliance with Legal Orders:  
-We also may have to release personally identifying information when it is necessary to comply with judicial or other government subpoenas, warrants, orders, or to protect the rights, property, or safety of Perfect Escapes or others. This includes exchanging information with other companies and organizations for fraud protection. 
-
-THIRD PARTY ADVERTISING COMPANIES
-
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](https://web.archive.org/web/20121015021920id_/http%3A//perfectescapes.com/We%20use%20third-party%20advertising%20companies%20to%20serve%20ads%20when%20you%20visit%20our%20website.%20These%20companies%20may%20use%20information%20\(not%20including%20your%20name,%20address,%20email%20address,%20or%20telephone%20number\)%20about%20your%20visits%20to%20this%20and%20other%20websites%20in%20order%20to%20provide%20advertisements%20about%20goods%20and%20services%20of%20interest%20to%20you.%20If%20you%20would%20like%20more%20information%20about%20this%20practice%20and%20to%20know%20your%20choices%20about%20not%20having%20this%20information%20used%20by%20these%20companies,%20click%20here.).
-
-Google, as a third party vendor, uses cookies to serve ads on Perfect Escapes. Google's use of the DART cookie enables it to serve ads to Users based on their visit to Perfect Escapes sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
-
-CHOICE AND OPT OUT
-
-You may opt-out of use of your information as set forth above by emailing us at [ privacy@perfectescapes.com](mailto:privacy@perfectescapes.com). If you do not wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication. You may also email us at [privacy@perfectescapes.com](mailto:privacy@perfectescapes.com). 
-
-We do 
-
-_not_ share Personally Identifiable Information with Third Parties for the purpose of allowing Third Parties to send offers or promotions to you. Perfect Escapes may itself occasionally send you information on products, services, special deals, or promotions that we have found to be of interest to our Users. If you do not want Perfect Escapes to use the information you provide in order to inform you of products and services that might be of interest, you can make your preference known at [ privacy@perfectescapes.com](mailto:privacy@perfectescapes.com).
-
-ACCESS TO YOUR INFORMATION
-
-If for any reason you are concerned that the personal information maintained by Perfect Escapes is not correct, or should you wish to have your email address removed from our mailing list or sharing list, please email the Privacy Administrator at [privacy@perfectescapes.com](mailto:privacy@perfectescapes.com). We will be happy to review, update or remove information as appropriate. We may still retain your information in our files however, to resolve disputes, enforce our User Agreement, and due to technical and legal requirements and constraints related to the security, integrity and operation of our Sites. 
-
-HOW PERFECT ESCAPES PROTECTS YOUR INFORMATION
-
-The security of your personal information is important to us. When you enter sensitive information (such as credit card number) to make a reservation through our Site, we encrypt that information using secure socket layer technology (SSL). 
-
-We employ security procedures in the storage and disclosure of personal information which you have given us, in order to prevent unauthorized access. Keep in mind, however, that no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
-
-Our Site may also contain links to other Web Sites. Keep in mind that Perfect Escapes does not control and is not responsible for the privacy or security practices or the content of these or other Web Sites. To the extent that Users disclose information to other parties, including Hotels and hotel reservation systems, different rules may apply to their use or disclosure of the personal information that you disclose to them. 
-
-THE SUITE LIFE BLOG
-
-If you access our Suite Life blog through this Web site, you should be aware that any personally identifiable information you submit to or through the blog can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums. 
-
-HOTEL REVIEWS
-
-We provide users an opportunity to review hotels on the Site. Should you decide to write a review, we request certain personal information such as your first name, last name, city and country of residence, and your email address (which we do not publish) to complete your review. Please be aware that any personally identifiable information you submit within a review can be read, collected, or used by other users. We are not responsible for any personally identifiable information that you may choose to submit in these forums. 
-
-MODIFICATIONS TO PRIVACY POLICY
-
-If we decide to make any material changes to our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. 
-
-TRUSTe PRIVACY PROGRAM
-
-Intagio Corporation dba Perfect Escapes is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site www.perfectescapes.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. If you have questions or concerns regarding this statement, you should first contact Perfect Escapes at privacy@perfectescapes.com. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at [ http://www.truste.org/consumers/watchdog_complaint.php](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with us to resolve your concerns. 
-
-QUESTIONS
-
-If you have any questions concerning this Privacy Policy, please contact Perfect Escapes:
-
-Via e-mail: [privacy@perfectescapes.com](mailto:privacy@perfectescapes.com)
-
-Via mail:
-
-Perfect Escapes  
-C/O Intagio Corporation Legal Department  
-100 Spear Street, Suite 420  
-San Francisco, CA 94105 
-
-Please allow ten (10) business days for a response to an inquiry. 
+_Effective Date for any use of the Perfect Escapes Website: January 1, 2013_
