@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the softscrub.com privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124195609id_/http%3A//www.henkelna.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softscrub.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530041106id_/http%3A//www.henkelna.com/privacy-policy-6120.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Henkel North America
 
