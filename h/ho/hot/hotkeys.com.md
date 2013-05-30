@@ -1,54 +1,158 @@
-> *The following text is extracted and transformed from the hotkeys.com privacy policy that was archived on 2011-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111012002047id_/https%3A//www.hotkeys.com/legal/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotkeys.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530173617id_/https%3A//www.hotkeys.com/m/legal/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Hotkeys - Providing Superior Traffic Monetization
+# Privacy Policy | Hotkeys - Providing Superior Traffic Monetization
 
-##### Introduction.
-
-In general, HotMedia, Inc. (“Hotkeys” or “we”) does not collect, store, use or disclose personally identifying information except in very specific instances, such as, for example, when you enroll as an advertiser in the services (“Services”) available on the Hotkeys website (the “Site”). Whenever we collect such personally identifying information, you will have a choice regarding whether to provide it. The instances in which Hotkeys does collect and use personally identifying information are specifically described in this Privacy Policy. Hotkeys values its users and their concerns about privacy. To this end, Hotkeys engages in consistent information practices and uses its best efforts to make clear disclosures regarding those practices. This Privacy Policy is a part of that effort.
-
-##### What does this Privacy Policy cover?
-
-This Privacy Policy applies to collection, use, storage and disclosure of information by Hotkeys. By using the Services and our Site, you consent to the collection and use of your information as we outline in this Privacy Policy. Hotkeys may decide to change this Privacy Policy from time to time. When we do, we will post any changes here so that you are always informed of the information we collect, how we use it, and the circumstances under which we disclose it. Please be aware that, as part of the Services, Hotkeys provides links to Web sites operated by third parties, and may also provide search results and similar services to third parties for display on their own Web sites or applications. Hotkeys is not responsible for the information collection or privacy practices or the content of those third party Web sites or applications. Also, please be aware that banner ads on Hotkeys are provided by a third party, which may collect cookies as part of the process of serving those ads. These cookies are typically used for the purpose of tracking performance of the banner ads. Hotkeys does not determine which information will be collected by that third party. Please see the paragraph below regarding Third Party Banner Ads.
-
-##### Third Party Banner Ads.
-
-We may use other third-party advertising companies to serve ads when you visit our Site. These companies may use information (not including your name, address, e-mail address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.
-
-##### What information does Hotkeys collect and how is it used? Does Hotkeys disclose information to third parties?
-
-Hotkeys may collect any or all of the following four types of information: (a) traffic or clickstream data, (b) cookies, or (c) contact information and other personally identifying information. Hotkeys's collection and use of each type of data is described below, as well as the ways (if any) in which the data may be shared with third parties.
-
-  1. **Traffic or Clickstream Data.** Data about traffic and usage is not personally identifying or identifiable, and is not supplemented or combined with personally identifying or identifiable information. Hotkeys may share information it collects with certain selected third parties, but only in aggregated, anonymous form. For example, we may tell an advertiser that a certain number of people visited a certain area on our Site, or searched Web sites for the term “boat.” Hotkeys collects some information regarding use of the Services by observing browser functions and the files (pages) users access. For example, Hotkeys's servers collect information about the site from which you entered to enable Hotkeys to calculate and pay its affiliates, information about the most frequently searched terms to help its advertisers provide the most relevant search results, information about usage to check for fraudulent behavior or other abnormalities and to ensure that our Services are technically superior. In addition to the foregoing applications, Hotkeys uses the information (in aggregate form) to better design the Services.
-  2. **Cookies.** Like many sites, Hotkeys collects information about online behavior using cookies. These cookies contain identification information that enables us to see how our users are interacting with our site and how frequently they are returning, as well as to streamline their experiences using the Services. Our cookies do not contain any personally identifiable information. Cookies let us know about repeat visitors and if we are delivering quality products and services. Hotkeys may also use cookies to identify which sites our repeat visitors are coming from, so that we can place more of our online advertising on these sites, and can, where necessary, pay our affiliates and other business partners. To Hotkeys, using information within cookies is an anonymous way to survey how we are doing and to look for ways to improve our Services. You may set your browser software to reject cookies, but you may not be able to use all of the features of the Services. Hotkeys may share information about usage of the Services with third parties, but only in aggregated, anonymous form. In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser.
-  3. **Contact Information or Personally Identifying Information.** Hotkeys can obtain access to your name, e-mail address and other contact information only (1) when you sign up for an account on the Site, become an advertiser with Hotkeys, provide comments, submit a problem, or request information from Hotkeys and provide your name or return contact information, or (2) in connection with special offers or contests.
-
-Contact information provided in connection with problems, comments or requests is used only to respond to those problems, comments or requests. This information is not stored or used in connection with traffic or clickstream data and is provided to a third party only as necessary to respond to the comment, problem or request. You may also choose to provide contact information, other personally identifying information, and demographic information in order to participate in optional surveys or contests, which are run for promotional purposes. Hotkeys uses such information to send you information about its products and to notify you if you win the contest. Finally, from time to time, but only with your permission, Hotkeys may provide certain of its users' registration information to selected third parties who wish to participate in special promotions offered in conjunction with Hotkeys. Users may opt-out of receiving such communications at any time by contacting Hotkeys.
+  1. INTRODUCTION
+  2. OUR COMMITMENT
+  3. PRIVACY POLICY HIGHLIGHTS
+  4. INFORMATION COLLECTION
+  5. HOW WE USE, SHARE AND MAINTAIN YOUR INFORMATION
+  6. YOUR PRIVACY CHOICES
+  7. ADDITIONAL TERMS
+  8. CONTACT US
 
 
 
+##### INTRODUCTION
 
-##### Is data stored by Hotkeys secure?
+This Privacy Policy (the "Policy") describes how Hot Media, Inc. (“we” or “us”) collects, uses and shares your information when you use the Hotkeys website or service. Please read the complete Policy below and contact us at [privacy@demandmedia.com](mailto:privacy@demandmedia.com) with any questions. If you are not comfortable with this Policy, do not provide us with any personal information. By using this website or service, you expressly accept this Policy and consent to our collection, storage, use and disclosure of your personal information as described in this Policy, including without limitation its transfer to and storage on our servers in the United States or elsewhere in the world.
 
-To prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of information, Hotkeys has put in place physical, electronic, and managerial procedures to safeguard and secure the information it collects online. However, data security is a constantly evolving art and science. You should consider any communication that you transmit to Hotkeys (such as data, questions or answers, comments, or suggestions) as non-confidential, and agree that Hotkeys will not be liable or responsible if information that belongs to you is intercepted and used by an unintended recipient.
+WE MAY MODIFY OUR POLICY AT ANY TIME. NON-MATERIAL CHANGES AND CLARIFICATIONS WILL TAKE EFFECT IMMEDIATELY; MATERIAL CHANGES WILL TAKE EFFECT 30 DAYS AFTER PROVIDING NOTICE VIA THIS WEBSITE OR THE EMAIL ADDRESS WE HAVE ON FILE FOR YOU. WE ENCOURAGE YOU TO KEEP YOURSELF UP-TO-DATE BY CHECKING THIS POLICY AT LEAST EVERY 30 DAYS. THE LATEST MODIFICATION DATE WILL BE DISPLAYED AT THE TOP OF THE POLICY.
 
-##### Does Hotkeys collect personally identifying information from or about children?
+##### OUR COMMITMENT
 
-Hotkeys uses reasonable efforts not to collect, use or disclose individually identifiable information from children under the age of 13. The Services are not targeted at children, and children may not register for any portions of the Services that require registration. Please check with those sites to determine their privacy policy.
+This Policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our sites and our products and services offered through our sites. Hot Media is committed to industry self-regulation and strives to assure disclosure of our privacy practices to make our data practices transparent for our users. Realizing that each user has specific concerns and needs, we also seek to give you ways to manage your own level of privacy by offering you choices and by continuing to educate both you and ourselves on Internet privacy issues.
 
-##### How can I access or correct any personally identifying information about me?
+##### PRIVACY POLICY HIGHLIGHTS
 
-To request a copy of the personally identifiable information you have sent to Hotkeys, please send an e-mail containing your request to [Service@hotkeys.com](mailto:Service@hotkeys.com). You must provide your full name and the e-mail from which the request is received (and to which the response will be sent) must match the e-mail on file with Hotkeys. You may then correct or delete such information using the procedures specified in the e-mail.
+This section highlights the key takeaways from our Policy, but you should also read the full text of our Policy.
 
-##### How do I find out more about Hotkeys's information practices?
+**Personal Information:** We use the term “personal information” to describe information that is associated with a specific person and is used to directly identify that person. We collect personal information about you when you voluntarily disclose or authorize the disclosure of such information to us (such as by registering an account or posting on our forums). Information Uses: We may use your personal information to communicate with you, run and improve our services and website, personalize content, and ensure compliance with the law.
 
-If you have any questions about anything in this Privacy Policy, or about collection of personally identifiable information, or information generally, please contact Hotkeys as follows:
+**Uses:** We may use your personal information to communicate with you, run and improve our services and website, personalize content, and ensure compliance with the law.
 
-Hotkeys  
-HotMedia, Inc.  
-5808 Lake Washington Blvd. ,Ste. 300   
-Kirkland, WA 98033, U.S.A  
-[Service@hotkeys.com](mailto:Service@hotkeys.com)
+**Information Sharing:** We do not knowingly disclose personal information that we collect from you to third parties other than our affiliated companies unless you consent to such transfer, or in the limited circumstances where such information is provided to a third party performing services for us under an obligation of confidentiality, in connection with a transfer of all or part of our business or assets, and for legal or regulatory compliance and safety purposes.
 
-This Privacy Policy was last revised on May 20, 2009.
+**Your Choices:** You can manage your privacy by editing your information on your account, opting out of emails and certain interest-based advertising, and turning off cookies in your browser.
 
-© 2010 HotMedia, Inc. U.S.A. All rights reserved.
+Contact us by email at [privacy@demandmedia.com](mailto:privacy@demandmedia.com).
+
+##### PRIVACY POLICY
+
+##### 1\. INFORMATION COLLECTION
+
+**Information You Provide To Us.**
+
+We collect information you provide to us through the registration process on our website. We may also collect any information, including personal information, you post on any public areas of our website, like comments or forums, or that you may give us in any other way (such as through an email or survey) . Please note that we are not responsible for any personal information you post in public areas. Since information you post to public areas of our website is not considered private information, we may also feature your posted content, such as reviews or comments, on our website.
+
+We do not knowingly collect any personal information from any children under 13 or allow them to register on our website or use our services. If you become aware that a child has provided us with personal information without her parent’s or guardian’s consent, please contact us at [privacy@demandmedia.com](mailto:privacy@demandmedia.com).
+
+**Other Information We Collect From You.**
+
+In addition to the information you provide to us by registering an account or posting content on our website, we also collect information through the use of cookies and pixel tags. We also use cookies and other technologies to gather information about your use of our website so that we may give you a personalized experience of our website and help us understand how users are using our services.
+
+**Cookies.**
+
+When you visit our website, we may send one or more "cookies" – small data files – to your computer to uniquely identify your browser to help you log in faster and enhance your navigation through the sites. We use persistent, identifying cookies to remember your information, such as your preferences and login information. Our cookies do not collect personal information that you provide during the account registration process, but they do collect other information such as the following:
+
+  * Your computer's IP address and information about its operating system or platform (Mac, Windows XP, etc.), browser type, and browser language setting;
+  * URL of the last webpage you visited before arriving at our website;
+  * The date and time you access our website and pages you visit;
+  * Demographic and other non-personally identifiable profile information about you;
+  * Your activity on our website (such as your clicks, pages viewed, comments, search results selected, etc.); and
+  * Information to combat fraud or misuse.
+
+
+
+For more information about cookies and how to manage them, please see the section below labeled Your Privacy Choices.
+
+**Pixel Tags.**
+
+Also known as a web beacon or clear GIF, a pixel tag is a tiny graphic with a unique identifier embedded invisibly on a webpage (or an online ad or email). We may use pixel tags to measure the number of clicks on certain pages or sections of our website.
+
+**Information Collected by Third Parties.**
+
+Our website and services includes links to websites and other content from third party businesses. We do not provide any personal information to these third-party websites, or other businesses.
+
+If you click a link to visit another website or use the third-party referral service available on our websites or services, you will be subject to that website or provider’s privacy policy. This Policy only applies to information collected on website or through the Hotkeys service. You may also be asked to provide personal information or permit the transfer to a third party in connection with promotions, sweepstakes or contests we host. If you are not willing to share the information with such third parties, do not participate in such promotions, sweepstakes or contests.
+
+##### 2\. HOW WE USE, SHARE AND MAINTAIN YOUR INFORMATION
+
+**Information Uses.**
+
+We use your personal information to respond to your requests, personalize our service, administer our website, communicate with registered users, enforce our rights and the rights of third parties, and investigate and ensure compliance with our Terms of Service and applicable law. We use non-personal information (such as demographic information, anonymous usage data, IP address, web browser information, referring/exit pages and URLs, number of clicks, etc.) to help us understand how our users are using our website or services and in turn make our website and more useful to you.
+
+**Information Sharing.**
+
+We share your personal information if authorized by you or in the following limited instances:
+
+  * **Third Party Services.** We use outside vendors and services to help us better understand how users interact with our website, and to provide services to us or to you on our behalf. These third parties may have access to your personal information for use solely in connection with these authorized business activities.
+  * **Business Transfer.** We may transfer your personal information to a third party if we or any of our affiliates are involved in a corporate restructuring (e.g., a sale, merger, or other transfer of assets).
+  * **Affiliates.** We may share personal information with our corporate affiliates (see www.demandmedia.com for our major affiliates). Any use of your information by our corporate affiliates is subject to this Policy or another policy no less protective of your privacy. Conversely, we may obtain information about you from our corporate affiliates.
+  * **Compliance and Safety.** We may disclose personal information when we believe disclosure is necessary to investigate, prevent, or respond to suspected illegal or fraudulent activity or to protect the safety, rights, or property of us, our users, or others. We may also disclose personal information in response to a civil or criminal subpoena or other legal process.
+
+
+
+**Information Retention.**
+
+We retain information for as long as required, allowed or we believe it useful, but do not undertake retention obligations. We may dispose of information without notice, unless the law specifically requires otherwise. You must keep your own, separate back-up records. If you choose to permanently delete personal information from your account, back-up copies may exist for a short time in our databases.
+
+**Information Security.**
+
+On our side, we have physical, electronic, and managerial procedures in place to help safeguard your information. However, neither people nor security systems, even encryption systems, are foolproof. Therefore, while we use reasonable efforts to protect your personal information, we cannot guarantee its absolute security. If the law imposes any non-disclaimable duty to protect your personal information, intentional misconduct will be the standard used to measure our compliance with that duty.
+
+On your side, YOU MUST DO WHAT YOU REASONABLY CAN TO ENSURE THE SECURITY OF YOUR PERSONAL INFORMATION. You should protect against unauthorized access to your password and to your computer and sign off when finished if you are using a shared computer. We will not ask for passwords in an email, so if you get such a request, assume it is fraudulent. We also advise you not to disclose any information in public areas of our website that you do not wish to share, as it can be viewed and possibly used by others.
+
+##### 3\. YOUR PRIVACY CHOICES
+
+We want to highlight the ways you can take control of your privacy at Hot Media. We urge you to explore these options and choose the level of privacy at which you are most comfortable.
+
+**Account Preferences.**
+
+As a registered user, you can edit your account settings and information at the point of sign-in for each respective website. You also can delete your account if you choose.
+
+**Marketing Preferences.**
+
+Users can also unsubscribe from our newsletters or opt out of receiving emails (such promotional emails) by clicking on the “unsubscribe” link at the bottom of the email or newsletter. However, occasionally we may need to send you customary business communications such as website and administrative notices and confirmation emails, which you may not opt out of.
+
+**Cookies.**
+
+You can follow your browser’s instructions to remove cookies at any time. However, please be aware that if cookies are disabled or removed, our website may not function or appear as designed.
+
+##### 4\. ADDITIONAL TERMS
+
+**Identity Theft.**
+
+If you believe that you are a victim of identity theft entitled by law to request information from us, contact us at our Legal Notice address below and we will let you know what additional information you must provide to us.
+
+**Notice Required by Law.**
+
+Where permitted by law, if we are required to disclose or provide notice of invasion of certain security systems, we will do so by email to the most current email address you have provided us.
+
+**California Privacy Rights**
+
+Residents of California who have an established business relationship with us may obtain certain information about the categories of personal information we have shared with third parties, as well as the names and addresses of those third parties and examples of the types of services and products they market. To request a copy of this information disclosure, email us at [privacy@demandmedia.com](mailto:privacy@demandmedia.com)and we will respond within 30 days.
+
+**FOR EUROPEAN UNION OR SWITZERLAND CITIZENS.**
+
+In compliance with the Safe Harbor Principles, Demand Media, Inc. commits to resolve complaints about your privacy and our collection or use of your personal information. In the first instance, European Union citizens or Switzerland citizens with inquiries or complaints regarding this privacy policy should contact: [privacy@demandmedia.com](mailto:privacy@demandmedia.com)
+
+The company complies with the U.S.-EU Safe Harbor Framework and the U.S. – Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. The company has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Demand Media’s certification, please visit <http://www.export.gov/safeharbor/>.
+
+Demand Media, Inc. has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Demand Media, Inc., please visit the BBB EU SAFE HARBOR web site at <http://www.bbb.org/us/safe-harbor-complaints> for more information and to file a complaint.
+
+**Dispute Resolution.**
+
+If you have any questions or concerns about this Policy, first contact us at [privacy@demandmedia.com](https://web.archive.org/web/20130530173617id_/https%3A//www.hotkeys.com/m/legal/privacy@demandmedia.com) and we will do our best to answer your questions and resolve your concerns in a timely and professional manner. But in the unfortunate and unlikely event that we are unable do so, we work with the Council of Better Business Bureaus (BBB) as an independent dispute resolution provider. You can contact BBB and follow their guidelines for initiating dispute resolution procedures here ([www.bbbonline.org/consumer/complaint.asp](http://www.bbbonline.org/consumer/complaint.asp)), by phone at 703-276-0100, or by mail at Council of Better Business Bureaus, Inc., 4200 Wilson Boulevard, Suite 800, Arlington, VA 22203
+
+European Union citizens with unresolved privacy concerns may also email BBB at [eusafeharbor@council.bbb.org](mailto:eusafeharbor@council.bbb.org) or direct your mail to Council of Better Business Bureaus, Inc., BBB EU Safe Harbor at the address listed above.
+
+##### 5\. CONTACT US
+
+If you have any questions, concerns or complaints about privacy at Hot Media please email us at: [privacy@demandmedia.com](mailto:privacy@demandmedia.com). To send us a legal notice, mail it by certified mail (return receipt requested) to: Hot Media, Legal Department, 5808 Lake Washington Blvd., Suite 300, Kirkland, WA 98033. 
+
+We will contact you, including when we give a legal notice, at an email address that we have on file for you.
+
+Demand Media, Hotkeys, the Hotkeys logo, and Hot Media are trademarks and/or registered trademarks of Demand Media, Inc. in the United States and/or other countries.
+
+Copyright © 2012. Demand Media, Inc.
