@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vacationidea.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231033600id_/http%3A//www.vacationidea.com/about/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vacationidea.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530103716id_/http%3A//www.vacationidea.com/about/privacypolicy.cfm) for the most accurate reproduction.*
 
-# Privacy Policy
+# 
 
 This section explains our Privacy Policy so that you can have an understanding about the way information is collected and used by VacationIdea Inc.
 
