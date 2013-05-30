@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the efinancialcareers.sg privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029153151id_/http%3A//www.efinancialcareers.sg/privacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the efinancialcareers.sg privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531004510id_/http%3A//www.efinancialcareers.sg/privacyPolicy.htm) for the most accurate reproduction.*
 
 # eFinancialCareers - Privacy policy
 
-[](http://clicktoverify.truste.com/pvr.php?page=validate&companyName=Dice%20Holdings%20Inc&sealid=102)
+[ ](https://privacy.truste.com/privacy-seal/Dice-Holdings-Inc/validation?rid=09c31b44-6cdf-4680-b4fa-7c585621ac9c&lang=zh-cn "TRUSTe European Safe Harbor certification")
 
 ### Privacy Policy
 
 eFinancialCareers is committed to safeguarding the privacy of our users whilst providing personalised career management services.
 
-This document (last updated on 10/28/09) sets out the privacy policy of eFinancialCareers Limited of Third Floor, Tabernacle Court, 16-28 Tabernacle Street, London EC2A 4DD and explains how we collect and use your personal information (i.e. any information about you which is personally identifiable like your name, address, telephone number or email address). eFinancialCareers is registered as a data controller, with registration number Z9136798.
+This document (last updated on 10/28/09) sets out the privacy policy of eFinancialCareers Limited of Fifth Floor, Telephone House, 69-77 Paul Street, London EC2A 4NW and explains how we collect and use your personal information (i.e. any information about you which is personally identifiable like your name, address, telephone number or email address). eFinancialCareers is registered as a data controller, with registration number Z9136798.
 
 This document relates to all the personal information that is collected through the website at [www.efinancialcareers.sg](http://www.efinancialcareers.sg/) For information about the collection and use of personal information collected through other eFinancialCareers websites, please see the privacy policy relevant to each website. Please note that although this website provides links to the websites of many other companies, this policy only applies to the collection and use of personal information through [www.efinancialcareers.sg](http://www.efinancialcareers.sg/)
 
