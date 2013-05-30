@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the readyfordownload.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221235807id_/http%3A//www.readyfordownload.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readyfordownload.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530185029id_/http%3A//www.readyfordownload.com/privacy.php) for the most accurate reproduction.*
 
 # ReadyForDownload - Privacy Policy
 
