@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wrestlingfeed.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227102716id_/http%3A//wrestlingfeed.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wrestlingfeed.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530050625id_/http%3A//wrestlingfeed.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | wrestlingfeed
 
-April 24, 2011 || {2,591 views} 
+April 24, 2011 || {3,379 views} 
 
 We care about how your personal information is used and shared, and we take your privacy seriously. Please read the following terms to learn more about our privacy policy.
 
