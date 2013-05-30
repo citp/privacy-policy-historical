@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topnews.us privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920005234id_/http%3A//topnews.us/content/2106-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topnews.us privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530060547id_/http%3A//topnews.us/content/2106-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TopNews United States
 
@@ -17,3 +17,6 @@ TopNews provides links to other websites which have more information relevant to
 **Contact Us**
 
 In case, you need any information regarding any news item or article posted on our website, please [contact us](http://topnews.us/content/271-contact-information). TopNews.us will soon launch a support ticket system. We will update you regarding the same shortly.
+
+  
+
