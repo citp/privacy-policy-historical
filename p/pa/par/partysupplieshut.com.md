@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the partysupplieshut.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120132119id_/http%3A//partysupplieshut.com/store/index.php%3Froute%3Dinformation/information%26information_id%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partysupplieshut.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530060808id_/http%3A//partysupplieshut.com/store/index.php%3Froute%3Dinformation/information%26information_id%3D3) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -15,16 +15,3 @@ We will not sell, trade, or rent your personal information to others. When you p
 You can check the shipping status of your order by logging in to a secure site to review your order history and carrier tracking information. We also provide you information via e-mail with messages for the services you request while on our site.
 
 [](http://partysupplieshut.com/store/index.php?route=common/nw)
-
-[](http://partysupplieshut.com/store/ "Home")
-
-© 2002 - 2012 All Rights Reserved.
-
-**_Easy_ PARTY STORE   **
-
-    
----  
-**TOP NAV  Drop Down** |    |  **CAROUSEL**  
-_300+ Party Themes_ |    |  _14 Categories_  
-  
-Thanks for letting us be a part of your party!
