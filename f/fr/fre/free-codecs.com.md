@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the free-codecs.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225090019id_/http%3A//www.free-codecs.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-codecs.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530172311id_/http%3A//free-codecs.com/privacy.htm) for the most accurate reproduction.*
 
 # Codecs.com | Privacy Policy : Please read carefully this Privacy Policy before using Codecs.com / Free-Codecs.com
 
