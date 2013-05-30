@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aat.org.uk privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003024310id_/http%3A//www.aat.org.uk/get-myaat/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aat.org.uk privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530034316id_/http%3A//www.aat.org.uk/get-myaat/privacy-policy) for the most accurate reproduction.*
 
 # AAT privacy policy | AAT
 
@@ -39,7 +39,7 @@ We will ask for your email address if you wish to receive:
 
 You can change your email address or choose not to receive further information at any time.
 
-###  Who will have access to the information
+### Who will have access to the information
 
 Any information you give will be available to AAT. If you choose to add your email address to your membership record, it will not be made available to any third party except select parties we commission to undertake research on our behalf.
 
@@ -52,7 +52,7 @@ Information you give in response to surveys and questionnaires on the website wi
 
 We may follow up some survey responses by phone or email, but only where you have given your permission for us to do so as part of the initial research.
 
-###  Technical information
+### Technical information
 
 Like most websites, our server gathers limited information about you during a session, including the IP address and domain name from which you are accessing the server and your browser configuration. This information is only used to help us improve the content, design and performance of the site, and is not linked to the identity of any individual user.
 
@@ -64,11 +64,11 @@ The log files or any information they contain about your use of the site will no
 
 Browser information is also collected with your name, email address and, if appropriate, membership number if you complete a 'contact us' feedback form.
 
-###  Other websites
+### Other websites
 
-The website contains external links to other sites. The AAT is not responsible for the privacy policies, content or practices of these sites.
+The website contains external links to other sites. AAT is not responsible for the privacy policies, content or practices of these sites.
 
-###  Data Protection Act
+### Data Protection Act
 
 This privacy statement forms part of AAT's commitment to the principles of the Data Protection Act 1998.
 
@@ -84,7 +84,7 @@ London
 
 EC1A 4HY
 
-###  General
+### General
 
 The terms and conditions contained in this legal notice shall be governed by English law. You may access the website from anywhere in the world; however, this legal notice shall apply regardless of how you access the website and from where.
 
