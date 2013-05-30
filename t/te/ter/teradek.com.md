@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teradek.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118075219id_/http%3A//www.teradek.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teradek.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530050940id_/http%3A//teradek.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Teradek, LLC | Wireless HD Video
 
@@ -87,7 +87,7 @@ Teradek.com does not sell products for purchase by children. If you are under 18
 
 **Conditions of Use, Notices, and Revisions**
 
-If you choose to visit Teradek.com, your visit and any dispute over privacy is subject to this Notice and our Conditions of Use, including limitations on damages, resolution of disputes, and application of the law of the state of Washington. If you have any concern about privacy at Teradek.com, please contact us with a thorough description, and we will try to resolve it. Our business changes constantly, and our Privacy Notice and the Conditions of Use will change also. We may e-mail periodic reminders of our notices and conditions, but you should check our Web site frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers. 
+If you choose to visit Teradek.com, your visit and any dispute over privacy is subject to this Notice and our Conditions of Use, including limitations on damages, resolution of disputes, and application of the law of the state of California. If you have any concern about privacy at Teradek.com, please contact us with a thorough description, and we will try to resolve it. Our business changes constantly, and our Privacy Notice and the Conditions of Use will change also. We may e-mail periodic reminders of our notices and conditions, but you should check our Web site frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers. 
 
 **Examples of Information Collected**
 
