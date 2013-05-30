@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bmgmusic.com privacy policy that was archived on 2012-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121210011327id_/http%3A//www.bmg.com/category/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bmgmusic.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530103326id_/http%3A//www.bmg.com/category/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BMG Music Rights Management
 
@@ -87,7 +87,11 @@ If you wish to obtain more information on the subject go to:
 
 
   * • Additional Information on Facebook’s Social Plugins at <http://en-gb.facebook.com/about/privacy/your-info-on-other#socialplugin> or <http://de-de.facebook.com/about/privacy/your-info-on-other#socialplugin>
+  * 
+
   * • Google’s +1 Button Privacy Policy at <http://www.google.com/intl/de/+/policy/+1button.html> or <http://www.google.com/intl/en/+/policy/+1button.html>
+  * 
+
   * • Twitter’s Privacy Policy at <http://twitter.com/privacy>
 
 
@@ -127,11 +131,11 @@ If you have questions concerning our privacy protection policy or how your perso
 
 Bertelsmann AG  
 Data Protection Department  
-Hannes Oenning  
+Sebastian Schlender  
 Carl-Bertelsmann-Str. 270  
 D-33311 Gütersloh  
 Germany
 
 Upon request, you will promptly be informed – in writing and pursuant to applicable legislation – which of your personal data, if any, was collected and stored during your visits to our website. Also, you may at any time have the data of your user account and, consequently, your personal data corrected, blocked or cancelled, with the only exceptions being that data we need to perform our obligations and assertion of our rights towards you, if any, as well as the data we are required to keep stored pursuant to statutory provisions. In the latter case, however, the data concerned will be blocked.
 
-Effective Date: July 2012
+Effective Date: March 2013
