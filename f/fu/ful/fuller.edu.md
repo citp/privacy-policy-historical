@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fuller.edu privacy policy that was archived on 2012-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120528095004id_/http%3A//www.fuller.edu/WorkArea/linkit.aspx%3FLinkIdentifier%3Did%26ItemID%3D1028) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fuller.edu privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530080239id_/http%3A//fuller.edu/WorkArea/linkit.aspx%3FLinkIdentifier%3Did%26ItemID%3D1028) for the most accurate reproduction.*
 
 # Privacy Policy | Fuller Theological Seminary
 
