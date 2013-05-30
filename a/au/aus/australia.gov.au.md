@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the australia.gov.au privacy policy that was archived on 2012-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120516042148id_/http%3A//australia.gov.au/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the australia.gov.au privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530223107id_/http%3A//australia.gov.au/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - australia.gov.au
 
@@ -25,7 +25,13 @@ We do not share information about you with other government agencies or other or
 
 
 
-We analyse non-identifiable website traffic data to improve our services. We only use session-based cookies for the single sign-on service and to gather anonymous website usage data to help us improve the structure and functionality of _australia.gov.au_. You can change your web browser settings to reject cookies or to prompt you each time a website wishes to add a cookie to your browser. In spite of our efforts to reduce the impact, some functionality on the website may be affected by this.
+## Google Analytics
+
+We use Google Analytics to collect information about how people use this website. The information we obtain from Google Analytics is used to help us understand users’ needs so that we can offer a better user experience.
+
+Google Analytics uses ‘cookies’ to collect information about which pages you visit, how long you are on the site, how you got there (for example from a search engine, a link, an advertisement etc) and what you select. Information collected by the cookies (including your IP address) is transmitted to and stored by Google on servers in the United States.
+
+By using this website, you consent to the processing of data about you by Google in the manner described in [Google's Privacy Policy](http://www.google.com/privacy.html) and for the purposes set out above. You can opt out of Google Analytics if you disable or refuse the cookie, disable JavaScript, or use the [opt-out service](http://tools.google.com/dlpage/gaoptout) provided by Google.
 
 ## Your choices
 
@@ -48,12 +54,12 @@ We also follow the _Guidelines for federal and ACT government websites_ issued b
 Alternatively, write to us at:
 
 Manager, australia.gov.au   
-Australian Government Information Management Office,  
+Technology and Procurement Division,   
 Department of Finance and Deregulation   
 John Gorton Building   
 King Edward Terrace   
 Parkes ACT 2600   
-Australia 
+Australia
 
 For more information about our privacy practices, see our [full privacy statement](https://web.archive.org/about/privacy-statement/full-privacy-statement).
   *[
