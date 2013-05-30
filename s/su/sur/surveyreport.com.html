@@ -1,10 +1,9 @@
-<!--The following is the downloaded HTML source of the surveyreport.com privacy policy that was archived on 2012-12-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121209201221id_/http%3A//surveyreport.com/pages/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the surveyreport.com privacy policy that was archived on 2013-05-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130530090310id_/http%3A//surveyreport.com/pages/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <meta charset="utf-8">
-    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://cdn.mxpnl.com/libs/mixpanel-2.1.min.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
-<title>Survey Report - About Us</title>
+    <title>Survey Report - About Us</title>
 
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <meta name="apple-mobile-web-app-capable" content="yes"> 
@@ -19,7 +18,7 @@
 <![endif]-->
 <link href="/css/base-admin.css" rel="stylesheet">
 <!--<link href="/css/base-admin-responsive.css" rel="stylesheet">-->
-<script src="/js/jquery-1.7.2.min.js"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://cdn.mxpnl.com/libs/mixpanel-2.1.min.js"></script><script src="/js/jquery-1.7.2.min.js"></script>
 <script src="/js/bootstrap2.min.js"></script>
 <link href="/css/pages/samplereport.css" rel="stylesheet">
 
@@ -31,7 +30,8 @@ mixpanel.init("11e4083011faddc44038c076f13cdc46");</script>
 
 <script src="/js/app/global.js"></script>
 <!--google translate-->
-<meta name="google-translate-customization" content="6559a524492410a6-3eae2f99b8e2bea3-ge699af52902393d2-10">	<!-- Page specific styles	    -->
+<meta name="google-translate-customization" content="6559a524492410a6-3eae2f99b8e2bea3-ge699af52902393d2-10">
+<meta name="wot-verification" content="d869af30f0b5e599031e">	<!-- Page specific styles	    -->
 	<link href="/css/pages/samplereport.css" rel="stylesheet">
 	
 </head>
@@ -188,7 +188,7 @@ mixpanel.init("11e4083011faddc44038c076f13cdc46");</script>
     				<a href="/pages/privacy">Privacy</a> 
     				<a href="/pages/tos">TOS</a> 
     				<a href="/pages/contactsupport">Contact Us</a> 
-    				    			<span class="pull-right"> <a href="https://mixpanel.com/f/partner"><img src="//cdn.mxpnl.com/site_media/images/partner/badge_light.png" alt="Mobile Analytics"></a> </span>
+    				    			<span class="pull-right"> © Survey Report 2012 </span>
   			</div> <!-- /span12 -->
     		<br></div> <!-- /row -->
 		</div> <!-- /container -->
@@ -279,7 +279,7 @@ mixpanel.init("11e4083011faddc44038c076f13cdc46");</script>
    	<div class="control-group">
      <label class="control-label" for="input04">Card Number</label>
      <div class="controls">
-      <input type="text" id="global-card-number" name="card-number" class="input-xlarge" placeholder="Numbers only, no dashes needed">
+      <input type="text" id="global-card-number" name="card-number" class="input-xlarge" placeholder="Numbers only, no dashes needed" autocomplete="off">
      </div>
    </div>
 
@@ -312,15 +312,41 @@ mixpanel.init("11e4083011faddc44038c076f13cdc46");</script>
  	</tr>
  	</tbody></table>
  	
- 	
-<p class="font11">By clicking Submit, I accept the <a href="/pages/faqs#billingfaqs" target="_blank"> billing terms of service. </a></p>
-        <div class="alert alert-error hidden" id="global_response_error"></div>
+    <!-- paypal code:start-->
+    <form name="paypal_form" id="paypal_form" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+    <input type="hidden" name="cmd" value="_xclick-subscriptions">
+    <input type="hidden" name="custom" value="">
+    <input type="hidden" name="business" value="ali@vulcun.com">
+    <input type="hidden" name="lc" value="US">
+    <input type="hidden" name="item_name" value="Surveyreport yearly subscription">
+    <input type="hidden" name="no_note" value="1">
+    <input type="hidden" name="no_shipping" value="1">
+    <input type="hidden" name="rm" value="1">
+    <input type="hidden" name="return" value="https://www.surveyreport.com/home/?upgraded_to_pro=1&amp;payment_method=pp">
+    <input type="hidden" name="cancel_return" value="https://www.surveyreport.com/home/">
+    <input type="hidden" name="src" value="1">
+    <input type="hidden" name="a3" value="95.00">
+    <input type="hidden" name="p3" value="1">
+    <input type="hidden" name="t3" value="Y">
+    <input type="hidden" name="currency_code" value="USD">
+    <input type="hidden" name="bn" value="PP-SubscriptionsBF:btn_subscribe_LG.gif:NonHosted">
+    <input type="hidden" name="notify_url" value="https://www.surveyreport.com/ipn/">
+    <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+	<p class="font11">If you prefer to pay via PayPal, <a href="javascript:;" onclick="document.paypal_form.submit();">click here</a>. By clicking Submit, you accept the <a href="/pages/faqs#billingfaqs" target="_blank"> billing terms of service. </a>. </p>
+    <div class="alert alert-error hidden" id="global_response_error"></div>
+    </form>
+    <!-- paypal code:end-->
+    
+    
     </div>
+     
      
     <div class="modal-footer">
     <!-- <i class="icon-lock font25 valign pull-left" style="color: orange;"> </i>  -->
     
-    <img src="/img/logos.png" class="pull-left">
+   <!-- <img src="/img/logos.png" class="pull-left" />-->
+   <span id="siteseal" class="pull-left"><script type="text/javascript" src="https://seal.godaddy.com/getSeal?sealID=CcmeRTTpV0N7HUvtow6b124j7Eazdp7SO6U7Jbcnly3iWEHFF0rWY"></script></span>
+   
     <a href="javascript:;" id="cc_global_submit_btn" onclick="submit_global_cc_form()" class="btn btn-primary btn-large">Submit</a>
     </div>
 </div><!-- payment:modal:end -->
@@ -329,7 +355,6 @@ mixpanel.init("11e4083011faddc44038c076f13cdc46");</script>
 <!-- Placed at the end of the document so the pages load faster --><!-- /footer -->
 
 
-<script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrf2","beacon-4.newrelic.com","3834aeeb88",714087,"b1wDMUYECEJTWhFcWVYWIAZADAlfHWkEUlNLFhEXXRMHUks=",0,9,new Date().getTime()]);</script>
 
 
-<script type="text/javascript" async="" src="https://d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js"></script></body></html>
+</body></html>
