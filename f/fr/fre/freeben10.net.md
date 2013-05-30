@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeben10.net privacy policy that was archived on 2012-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120706053413id_/http%3A//www.freeben10.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeben10.net privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530112913id_/http%3A//www.freeben10.net/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy at freeben10.net
 
