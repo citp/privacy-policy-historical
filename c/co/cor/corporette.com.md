@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the corporette.com privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127223841id_/http%3A//corporette.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the corporette.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530020929id_/http%3A//corporette.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Corporette.com
 
 [](http://dailydropcap.com/)orporette takes very seriously the private nature of your personal information. This Privacy Policy describes how we treat the information we collect when you visit our Web site and/or register for our e-mail newsletter.
 
