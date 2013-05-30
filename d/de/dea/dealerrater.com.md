@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dealerrater.com privacy policy that was archived on 2012-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120918130052id_/http%3A//www.dealerrater.com/info/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealerrater.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530185426id_/http%3A//www.dealerrater.com/info/privacy.aspx) for the most accurate reproduction.*
 
-# DealerRater Privacy Policy
+# Privacy Policy
 
-DealerRater® was founded in 2002 as the first car dealer review website worldwide. Our website, [www.dealerrater.com](http://www.dealerrater.com/) (the " **Website** "), is part of the DealerRater network and is operated by DR Media Holdings, LLC (" **DR** ").
+DealerRater was founded in 2002 as the first car dealer review website worldwide. Our website, [www.dealerrater.com](http://www.dealerrater.com/) (the " **Website** "), is part of the DealerRater network and is operated by DR Media Holdings, LLC (" **DR** ").
 
 We take your privacy seriously, and work to ensure the security and confidentiality of the personal information you provide to us. Please read this Policy to learn more about how we protect your privacy before using this Website or submitting your personal information. By using this Website or submitting personal information, you consent to the collection, use, and disclosure of your personal information (as defined below) in accordance with the practices described herein. If you do not agree with these terms, do not use this Website or provide any personal information to us.
 
