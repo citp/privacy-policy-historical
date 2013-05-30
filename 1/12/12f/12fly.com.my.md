@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 12fly.com.my privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127085844id_/http%3A//www.12fly.com.my/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 12fly.com.my privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530124619id_/http%3A//www.12fly.com.my/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
