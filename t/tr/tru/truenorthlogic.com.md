@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the truenorthlogic.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919193856id_/http%3A//truenorthlogic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truenorthlogic.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530203317id_/http%3A//truenorthlogic.com/privacy) for the most accurate reproduction.*
 
 # Truenorthlogic - Privacy
 
