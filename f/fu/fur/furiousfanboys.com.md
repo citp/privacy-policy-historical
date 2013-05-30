@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the furiousfanboys.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118052013id_/http%3A//furiousfanboys.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the furiousfanboys.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530123124id_/http%3A//furiousfanboys.com/privacy-policy) for the most accurate reproduction.*
 
-# SciFi Movies, TV Shows, and Lists for fanboys « furiousfanboys.com
+# Privacy Policy « furiousfanboys.com
 
 **Furious Fanboys Privacy Policy**  
 The following privacy statement covers the **Furious Fanboys** Website. Please read this statement regarding our websites. If you have any questions or suggestions regarding our privacy policy, please contact us.
@@ -8,13 +8,13 @@ The following privacy statement covers the **Furious Fanboys** Website. Please r
  **Public Forums**  
 This site makes chat rooms and message boards available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
 
- **Privacy**
+**Privacy**
 
 Your privacy on the internet is important to us. As a part of the operation of **FuriousFanboys**.com we gather only email addresses submitted to us, these are used only by ourselves to inform you of any updates or for communication etc and are never passed to any third party for any reason.
 
 The foregoing policy is effective as of January 2009, and **FuriousFanboys**.com reserves the right to change this policy at any time. Please check this page periodically for changes. This statement and policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
 
- **Third Party Advertising**
+**Third Party Advertising**
 
 We use various third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please use the Contact form with any questions.
 
@@ -22,13 +22,13 @@ We use various third-party advertising companies to serve ads when you visit our
 
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser
 
- _We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies,  [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp)_
+_We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies,  [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp)_
 
- **Copyright**
+**Copyright**
 
 All images on **FuriousFanboys**.com are readily available in various places on the Internet and believed to be in public domain. Images posted are believed to be posted within our rights according to the U.S. Copyright Fair Use Act (title 17, U.S. Code.)
 
- **Claims of Infringement**
+**Claims of Infringement**
 
 If you believe that any content appearing on **FuriousFanboys**.com infringes on your copyright, please let us know. Email furiousfanboys@gmail  
 following information to us and the infringing material will be removed as soon as possible.
