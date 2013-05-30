@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sickmarketing.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230125349id_/http%3A//sickmarketing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sickmarketing.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530183937id_/http%3A//sickmarketing.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sick Submitter - Automated Marketing Tool
 
@@ -64,8 +64,7 @@ This Site is not directed at children. Visitors and Authorized Customers are req
 
 **Links:**
 
-This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours.  
-
+This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours.
 
   
 © 2009 **Sick Marketing** , All rights reserved.
