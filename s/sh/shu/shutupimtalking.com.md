@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shutupimtalking.com privacy policy that was archived on 2012-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121220135558id_/http%3A//www.shutupimtalking.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shutupimtalking.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530090037id_/http%3A//shutupimtalking.com/privacy-policy) for the most accurate reproduction.*
 
-# Shut Up I'm Talking | Privacy Policy
+# Privacy Policy | Shut Up I'm Talking
 
 Is it secret?  Is it safe?
 
