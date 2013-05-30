@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the cpuid.com privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105212531id_/http%3A//www.cpuid.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpuid.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530083014id_/http%3A//www.cpuid.com/privacy-policy.html) for the most accurate reproduction.*
 
-# CPUID - System & hardware benchmark, monitoring, reporting
+# Privacy Policy CPUID - System & hardware benchmark, monitoring, reporting
 
-## Privacy Policy
+## CPUID Privacy Policy
 
-Effective: **April 22, 2009**
+é Effective: **April 22th, 2009**
 
 Welcome to CPUID (the "Site"). 
 
@@ -17,7 +17,7 @@ This statement governs our privacy policies with respect to those users of the S
 We may collect basic user profile information from all of our Visitors. We collect the following additional information from our Authorized Customers: the names, addresses, phone numbers and email addresses of Authorized Customers, the nature and size of the business, and the nature and size of the advertising inventory that the Authorized Customer intends to purchase or sell. 
 
 **What organizations are collecting the information?**  
-In addition to our direct collection of information, our third party service vendors (such as credit card companies, clearinghouses and banks) who may provide such services as credit, insurance, and escrow services may collect this information from our Visitors and Authorized Customers. We do not control how these third parties use such information, but we do ask them to disclose how they use personal information provided to them from Visitors and Authorized Customers. Some of these third parties may be intermediaries that act solely as links in the distribution chain, and do not store, retain, or use the information given to them 
+In addition to our direct collection of information, our third party service vendors (such as credit card companies, clearinghouses and banks) who may provide such services as credit, insurance, and escrow services may collect this information from our Visitors and Authorized Customers. We do not control how these third parties use such information, but we do ask them to disclose how they use personal information provided to them from Visitors and Authorized Customers. Some of these third parties may be intermediaries that act solely as links in the distribution chain, and do not store, retain, or use the information given to them. 
 
 **How does the Site use Personally Identifiable Information?**  
 We use Personally Identifiable Information to customize the Site, to make appropriate service offerings, and to fulfill buying and selling requests on the Site. We may email Visitors and Authorized Customers about research or purchase and selling opportunities on the Site or information related to the subject matter of the Site. We may also use Personally Identifiable Information to contact Visitors and Authorized Customers in response to specific inquiries, or to provide requested information. 
