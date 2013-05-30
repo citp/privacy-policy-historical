@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pitchero.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116074258id_/http%3A//www.pitchero.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pitchero.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530211447id_/http%3A//www.pitchero.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -110,7 +110,7 @@
 
 11. Contact Us
 
-  If You have any questions, comments or requests regarding this policy or how We use Your Data please contact us using the [page supplied](http://www.pitchero.com/contact/) or write to us at Pitch Hero Limited, Hawthorne House, Dark lane, Birstall, Leeds, United Kingdom WF17 9LW.
+  If You have any questions, comments or requests regarding this policy or how We use Your Data please contact us using the [page supplied](http://www.pitchero.com/contact/) or write to us at Pitch Hero Limited, First Floor, Unit 8, Centre 27 Business Park, Bankwood Way, Birstall, West Yorkshire, United Kingdom WF17 9TB.
 
 ### Cookie Notice
 
