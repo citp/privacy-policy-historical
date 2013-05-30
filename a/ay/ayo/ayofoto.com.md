@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ayofoto.com privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127172121id_/http%3A//www.ayofoto.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ayofoto.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530033803id_/http%3A//www.ayofoto.com/privacy) for the most accurate reproduction.*
 
-# AYOFOTO! : About
+# AYOFOTO! : Corporate : Privacy
 
 Thank you for visiting AYOFOTO.COM. We know that you care how information about you is used and shared, and we appreciate your trust. This statement describes our privacy policy. It applies only to AYOFOTO.COM, so if you visit sites that we link to, be sure to check out their privacy policies. AYOFOTO.COM reserves the right to revise this policy at any time without notification to you, so please re-read it often in connection with your use of the AYOFOTO.COM website. 
 
