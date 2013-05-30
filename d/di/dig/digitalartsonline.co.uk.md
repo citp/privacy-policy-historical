@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitalartsonline.co.uk privacy policy that was archived on 2012-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121207075958id_/http%3A//www.idg.co.uk/terms-and-conditions/index.cfm%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalartsonline.co.uk privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530223700id_/http%3A//www.idg.co.uk/terms-and-conditions/%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # IDG UK - Privacy Policy
 
