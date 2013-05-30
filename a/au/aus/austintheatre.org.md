@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the austintheatre.org privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116053116id_/http%3A//www.austintheatre.org/site/PageNavigator/2009privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the austintheatre.org privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530213015id_/http%3A//www.austintheatre.org/site/PageNavigator/2009privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - The Paramount and Stateside Theatres
 
