@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the crownrelo.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920035516id_/http%3A//www.crownrelo.com/en-us/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crownrelo.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530132848id_/http%3A//crownrelo.com/en-us/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Crown Relocations
 
-The CROWN WORLDWIDE GROUP and all its subsidiaries comply with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Crown Worldwide Group has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Crown Worldwide Group’s certification, please visit [www.export.gov/safeharbor](http://www.export.gov/safeharbor).
+The CROWN WORLDWIDE GROUP and all its subsidiaries comply with the US-EU Safe Harbor Framework and the US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Crown Worldwide Group has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Crown Worldwide Group’s certification, please visit [www.export.gov/safeharbor](http://www.export.gov/safeharbor).
 
 The CROWN WORLDWIDE GROUP has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for the following websites:
 
@@ -18,21 +18,21 @@ The CROWN WORLDWIDE GROUP has created this privacy statement in order to demonst
 
 These sites contain links to other sites. CROWN WORLDWIDE GROUP is not responsible for the privacy practices or the content of such linked websites. Users should check the applicable Privacy Policy of such websites when providing personally identifiable information on those linked websites.
 
-CROWN WORLDWIDE GROUP does not collect personally identifiable information about individuals except when such individuals specifically provide such information on a voluntary basis. For example, an Online Service Request requires the collection of personal data in order for us to be able to respond promptly and correctly to the service request.
+CROWN WORLDWIDE GROUP does not collect personally identifiable information about individuals except when such individuals specifically provide such information on a voluntary basis. For example, an On-line Service Request requires the collection of personal data in order for us to be able to respond promptly and correctly to the service request.
 
 CROWN WORLDWIDE GROUP reserves the right to perform statistical analyses of user behavior and characteristics in order to measure interest in and use of the various areas of the site.
 
 ###  Providing Visitors with Anonymous Access
 
-Visitors can access our website home page and browse our site without disclosing your personal data by disabling the cookie settings on our website..  
+Visitors can access our website home page and browse our site without disclosing personal data by disabling the cookie settings on our website.
+
 We do not collect information about our visitors from other sources, such as public records, public bodies or private organizations.
 
 ###  Automatic Collection of Information
 
-We use cookies on this website to store information on your computer or mobile device. Cookies are small text files which help us understand how this website is being used, let you navigate between pages efficiently, remember your preferences, and generally improve your browsing experience. Cookies can also help ensure marketing you see online is more relevant to you. More information about cookies can be found in our Cookie Policy.  
-To give you the very best browsing experience, the cookie settings on this website are set to allow all cookies. If you continue to browse this site without changing these settings, you consent to this. If you want to change your settings at any time, please click the Adjust Cookie
+We use cookies on this website to store information on your computer or mobile device. Cookies are small text files which help us understand how this website is being used. They let you navigate between pages efficiently, remember your preferences, and generally improve your browsing experience. Cookies can also help ensure marketing you see on-line is more relevant to you. More information about cookies can be found in our Cookie Policy.
 
-Settings link at the bottom of the webpage.
+To give you the very best browsing experience, the cookie settings on this website are set to allow all cookies. If you continue to browse this site without changing these settings, you consent to this. If you want to change your settings at any time, please click the Adjust Cookie Settings link at the bottom of our web pages.
 
 ###  Information about cookies
 
