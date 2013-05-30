@@ -1,106 +1,65 @@
-<!--The following is the downloaded HTML source of the hotkeys.com privacy policy that was archived on 2011-10-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111012002047id_/https%3A//www.hotkeys.com/legal/privacy-policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hotkeys.com privacy policy that was archived on 2013-05-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130530173617id_/https%3A//www.hotkeys.com/m/legal/privacy-policy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-    <title>
-        Hotkeys - Providing Superior Traffic Monetization
-    </title>
-
-    <meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
+<!DOCTYPE html><html lang="en"><head><title>
 	
-	  
-	<!-- Start Omniture Tracking -->
-	<meta name="siteid" scheme="DMINSTR2" content="HTKYUS">
-	<meta name="wa_un" scheme="DMINSTR2" content="">
-    <meta name="wa_clvl" scheme="DMINSTR2" content="">
-    <meta name="wa_lr" scheme="DMINSTR2" content="en-US">
-    <meta name="wa_lgdin" scheme="DMINSTR2" content="0">
-    <meta name="category" scheme="DMINSTR2" content="legal">
-    <meta name="subcategory" scheme="DMINSTR2" content="privacy-policy">
-    <meta name="wa_lgsrc" scheme="DMINSTR2" content="0">
-    <meta name="wa_isreg" scheme="DMINSTR2" content="0">
-    <!-- End Omniture Tracking -->
+Privacy Policy | Hotkeys - Providing Superior Traffic Monetization
+
+</title><meta charset="utf-8">
+         
+        <!-- Mobile viewport optimized -->
+	    <meta name="viewport" content="width=device-width,initial-scale=1">
+    	
+	      
+	    <!-- Start Omniture Tracking -->
+	    <meta name="siteid" scheme="DMINSTR2" content="HTKYUS">
+        <meta name="wa_un" scheme="DMINSTR2" content="">
+        <meta name="wa_clvl" scheme="DMINSTR2" content="">
+        <meta name="wa_lr" scheme="DMINSTR2" content="en-US">
+        <meta name="wa_lgdin" scheme="DMINSTR2" content="0">
+        <meta name="category" scheme="DMINSTR2" content="m">
+        <meta name="subcategory" scheme="DMINSTR2" content="legal_privacy-policy">
+        <meta name="wa_lgsrc" scheme="DMINSTR2" content="0">
+        <meta name="wa_isreg" scheme="DMINSTR2" content="0">
+        <!-- End Omniture Tracking -->
+        
+        
+        <!-- CSS: implied media=all -->       	    
+	    <link rel="stylesheet" href="/m/assets/stylesheets/_hotkeys_style.css">
+	    <!-- end CSS-->	
     
-    <meta http-equiv="Content-Style-Type" content="text/css">
-    <link rel="stylesheet" type="text/css" media="screen, projection" href="/aboutus/hotkeys/css/master.css">
-    <link href="/css/marketing_addon.css" rel="Stylesheet" type="text/css">
-    <style type="text/css">        
-        /* Embed styles here */    
-    </style>    
     
-    <script type="text/javascript" src="/aboutus/hotkeys/js/jquery-1.2.6.min.js"></script>    
-    <script type="text/javascript" src="/aboutus/hotkeys/js/jquery-plugins.js"></script> 
-    <script src="/js/jquery.watermarkinput.js" type="text/javascript"></script>
-    <!--[if lt IE 7]>
-	    <script type="text/javascript" language="javascript">
-		    // IE6 Background Image Flicker Bug Fix
-		    // http://www.mister-pixel.com/
-		    function fixIE6flicker(fix) {
-			    try {
-				    document.execCommand("BackgroundImageCache", false, fix);
-			    } catch(err) { }
-		    }
-		    fixIE6flicker(true);
-	    </script>
-    <![endif]-->
+	<script type="text/javascript" src="/m/js/html5.js"></script>
+
     <script type="text/javascript">
-         $(document).ready(function() {
-            $('#hdrLoginID').Watermark('Username');
-            $('#hdrPassword').Watermark('Password');
-        });
-
-        function ClearWatermark() {
-            jQuery(function($) {
-                $.Watermark.HideAll();
-            });
-        }
-
-        function EnableLogin()
-        {
-            
-            var uName = document.getElementById('hdrLoginID');
-            var uPwd = document.getElementById('hdrPassword');
-            var btnGo = document.getElementById('BtnGo');
-            if ((uName != null) && (uPwd != null))
+        function allowLogin() 
+        {          
+            var ulToShow = document.getElementById('divLogin');
+            if (ulToShow.style["display"] == "none")
             {
-                if ((uName.value.length > 0) && (uPwd.value.length > 0))
-                {
-                    btnGo.disabled = false;
+                ulToShow.style["display"] = "block";
+
+                //ZD: make login focused and Username's text selected
+                var Username1 = document.getElementById("ctl00_txtUsername");
+                var Username2 = document.getElementById("txtUsername");
+                var Username = Username1 == null ? Username2 : Username1;
+                if (Username) {
+                    Username.focus();
+                    Username.select();
                 }
-                else
-                {
-                    btnGo.disabled = true;                
-                }
+            } else 
+            {
+                ulToShow.style["display"] = "none";
             }
+            
+            return false;
         }
-
-    </script>
-    <title>
-
-</title></head>
-<body id="mktg" class="www_hotkeys_com ">
-
-    
-    
-    <div class="wrapper_1">
-
-	    <p class="branding_1"><a href="/home.aspx"><strong>Hotkeys</strong> <span>-</span> <em>Providing Superior Traffic Monetization</em></a></p>
-
-	    <div class="nav_2">
-		    <div class="nav_2_sub">
-		        <form action="/security/customerlogin.aspx" id="customerlogin" method="post">
-			        <strong>Member Login</strong> 
-			            <input type="text" class="login_1" name="hdrLoginID" id="hdrLoginID" title="Username" onclick="ClearWatermark()" style="color: rgb(170, 170, 170);">
-			            <input type="password" class="password_1" name="hdrPassword" id="hdrPassword" title="Password" style="color: rgb(170, 170, 170);">
-			            <input type="submit" value="GO" class="btn_1" id="BtnGo">
-			        <span><a href="/Security/ForgotPassword.aspx">Forgot Password?</a></span>			        
-			    </form>
-		    </div>
-	    </div>
-    
-	   	    	    
-	    <form name="aspnetForm" method="post" action="/legal/privacy-policy.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1MjM5ODAyMGRkMOepzVXeAFxYbPd16oi/7LnIJB4=">
+    </script>   
+     
+    </head>
+<body id="t2" class="">
+<form method="post" action="/m/legal/privacy-policy.aspx" id="form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE1OTgzNzk0NDhkZNYFvwkdQBr7mdaNjUFqva4AtKXD">
 
 
             <script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"> </script>
@@ -108,25 +67,193 @@
                 var pageTracker = _gat._getTracker('UA-2337765-56');
                 pageTracker._trackPageview();
             </script>
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBAK0/sqUBAL32/OTDAKB7cu1BQLnrI+ZDx/I+RTeFRpPGl2moWmSZFZp09Kd">
+	<!-- Start: Header -->
+    <header id="masthead">
+        <div class="container_12 relative">
+	
+			<div class="brand">			
+				<h1 class="logo"><a href="/m/home.aspx"></a>Hotkeys</h1>
+				<span class="tagline">Providing Superior Traffic Monetization</span>			
+			</div> 
+		  
+			<nav class="nav-primary">
+				<ul>
+					<li class="tab-home first"><a href="/m/home.aspx">Home<span></span></a></li>
+					<li class="tab-domains"><a href="/m/monetize-your-domains/default.aspx">Monetize Your Domains<span></span></a></li>
+					<li class="tab-sites"><a href="/m/monetize-your-websites/default.aspx">Monetize Your Websites<span></span></a></li>
+					<li class="tab-about last"><a href="/m/company/default.aspx">About<span></span></a></li>
+				</ul>
+			</nav>            
+			<nav class="nav-secondary">
+				<ul>
+					<li>
+						<a href="/m/apply/apply-now.aspx" class="apply">Apply Now</a>
+					</li>
+					<li>						
+                        <a onclick="javascript:return allowLogin();" onmouseover="javascript:return allowLogin();" class="login">Login</a>
+						<div id="divLogin" class="user-panel" style="display:none;">                                                
+							<ul>
+								<li>
+									<label class="iblock bold">Username:</label>
+                                    <input name="ctl00$txtUsername" type="text" id="txtUsername" class="w-150">
+								</li>
+								<li>
+									<label class="iblock bold">Password:</label>
+                                    <input name="ctl00$txtPassword" type="password" id="txtPassword" class="w-150"><br>
+								</li>
+								<li>
+							        <input type="submit" name="ctl00$btnLogin" value="Login" id="btnLogin" class="panel-login grey-1">                                                                       
+									<a class="panel-pass" href="/m/login/PasswordReset.aspx"><span>Forgot password?</span></a>                                   
+								</li>
+							</ul>
+						</div><!-- .user-panel -->                                                                                                            
+					</li>				
+				</ul>
+			</nav>  
+	   
+		</div>  
 
-            
-	        
+	</header>
+	<!-- End: Header -->
+	
+    <!-- Start: Content -->
+    
 
-		    
-
-<div class="content_wrap_outer">    
-    <div class="content_wrap_1">    
-            
-        <div class="content" style="margin:0 10px 25px;">             
-            
+	<!-- Start: Content -->
+	<div id="content">
+		<div class="container_12">
+	
+			<div class="content-main grid_9 push_25">
+	
+				<!-- Start: Privacy Policy -->
+				
 
 <div class="legal_1">
-	<h1>Hotkeys  Privacy Policy</h1>
-	<h5>Introduction.</h5>
-	<p>In general, HotMedia, Inc. (“Hotkeys” or “we”) does not collect, store, use or disclose personally identifying information except in very specific instances, such as, for example, when you enroll as an advertiser in the services (“Services”) available on the Hotkeys website (the “Site”). Whenever we collect such personally identifying information, you will have a choice regarding whether to provide it. The instances in which Hotkeys does collect and use personally identifying information are specifically described in this Privacy Policy. Hotkeys values its users and their concerns about privacy. To this end, Hotkeys engages in consistent information practices and uses its best efforts to make clear disclosures regarding those practices. This Privacy Policy is a part of that effort.</p>
-	<h5>What does  this Privacy Policy cover?</h5>
-	<p>This Privacy Policy applies to collection, use, storage and disclosure of information by Hotkeys. By using the Services and our Site, you consent to the collection and use of your information as we outline in this Privacy Policy. Hotkeys may decide to change this Privacy Policy from time to time. When we do, we will post any changes here so that you are always informed of the information we collect, how we use it, and the circumstances under which we disclose it. Please be aware that, as part of the Services, Hotkeys provides links to Web sites operated by third parties, and may also provide search results and similar services to third parties for display on their own Web sites or applications. Hotkeys is not responsible for the information collection or privacy practices or the content of those third party Web sites or applications. Also, please be aware that banner ads on Hotkeys are provided by a third party, which may collect cookies as part of the process of serving those ads. These cookies are typically used for the purpose of tracking performance of the banner ads. Hotkeys does not determine which information will be collected by that third party. Please see the paragraph below regarding Third Party Banner Ads.</p>
-	
+
+	<h1>Privacy Policy <span class="sm">Effective Date: November 1, 2012</span></h1>
+
+    <ol class="ol_1 toc">
+        <li><a href="#introduction">INTRODUCTION</a></li>
+        <li><a href="#commitment">OUR COMMITMENT</a></li>
+        <li><a href="#highlights">PRIVACY POLICY HIGHLIGHTS</a></li>
+        <li><a href="#information">INFORMATION COLLECTION</a></li>
+        <li><a href="#how-we-use">HOW WE USE, SHARE AND MAINTAIN YOUR INFORMATION</a></li>
+        <li><a href="#privacy-choices">YOUR PRIVACY CHOICES</a></li>
+        <li><a href="#additional-terms">ADDITIONAL TERMS</a></li>
+        <li><a href="#contact-us">CONTACT US</a></li>
+    </ol>
+
+
+
+	<h5><a name="introduction"></a>INTRODUCTION</h5>
+	<p>This Privacy Policy (the "Policy") describes how Hot Media, Inc. (“we” or “us”) collects, uses and shares your information when you use the Hotkeys website or service.  Please read the complete Policy below and contact us at <a href="mailto:privacy@demandmedia.com">privacy@demandmedia.com</a> with any questions. If you are not comfortable with this Policy, do not provide us with any personal information. By using this website or service, you expressly accept this Policy and consent to our collection, storage, use and disclosure of your personal information as described in this Policy, including without limitation its transfer to and storage on our servers in the United States or elsewhere in the world.</p>
+	<p>WE MAY MODIFY OUR POLICY AT ANY TIME. NON-MATERIAL CHANGES AND CLARIFICATIONS WILL TAKE EFFECT IMMEDIATELY; MATERIAL CHANGES WILL TAKE EFFECT 30 DAYS AFTER PROVIDING NOTICE VIA THIS WEBSITE OR THE EMAIL ADDRESS WE HAVE ON FILE FOR YOU. WE ENCOURAGE YOU TO KEEP YOURSELF UP-TO-DATE BY CHECKING THIS POLICY AT LEAST EVERY 30 DAYS. THE LATEST MODIFICATION DATE WILL BE DISPLAYED AT THE TOP OF THE POLICY.</p>
+    
+    <h5><a name="commitment"></a>OUR COMMITMENT</h5>
+    <p>This Policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our sites and our products and services offered through our sites. Hot Media is committed to industry self-regulation and strives to assure disclosure of our privacy practices to make our data practices transparent for our users. Realizing that each user has specific concerns and needs, we also seek to give you ways to manage your own level of privacy by offering you choices and by continuing to educate both you and ourselves on Internet privacy issues.</p>
+
+    <h5><a name="highlights"></a>PRIVACY POLICY HIGHLIGHTS</h5>
+    <p>This section highlights the key takeaways from our Policy, but you should also read the full text of our Policy.</p>
+    <p><strong>Personal Information:</strong> We use the term “personal information” to describe information that is associated with a specific person and is used to directly identify that person. We collect personal information about you when you voluntarily disclose or authorize the disclosure of such information to us (such as by registering an account or posting on our forums). Information Uses: We may use your personal information to communicate with you, run and improve our services and website, personalize content, and ensure compliance with the law.</p>
+    <p><strong>Uses:</strong> We may use your personal information to communicate with you, run and improve our services and website, personalize content, and ensure compliance with the law.</p>
+    <p><strong>Information Sharing:</strong> We do not knowingly disclose personal information that we collect from you to third parties other than our affiliated companies unless you consent to such transfer, or in the limited circumstances where such information is provided to a third party performing services for us under an obligation of confidentiality, in connection with a transfer of all or part of our business or assets, and for legal or regulatory compliance and safety purposes.</p>
+    <p><strong>Your Choices:</strong> You can manage your privacy by editing your information on your account, opting out of emails and certain interest-based advertising, and turning off cookies in your browser.</p>
+    <p>Contact us by email at <a href="mailto:privacy@demandmedia.com ">privacy@demandmedia.com</a>.</p>
+
+    <h5>PRIVACY POLICY</h5>
+
+    <h5><a name="information"></a>1. INFORMATION COLLECTION</h5>
+
+    <strong>Information You Provide To Us.</strong>
+    <p>We collect information you provide to us through the registration process on our website. We may also collect any information, including personal information, you post on any public areas of our website, like comments or forums, or that you may give us in any other way (such as through an email or survey) . Please note that we are not responsible for any personal information you post in public areas. Since information you post to public areas of our website is not considered private information, we may also feature your posted content, such as reviews or comments, on our website.</p>
+    <p>We do not knowingly collect any personal information from any children under 13 or allow them to register on our website or use our services. If you become aware that a child has provided us with personal information without her parent’s or guardian’s consent, please contact us at <a href="mailto:privacy@demandmedia.com">privacy@demandmedia.com</a>.</p>
+
+    <strong>Other Information We Collect From You.</strong>
+    <p><span class="emphasize">In addition to the information you provide to us by registering an account or posting content on our website, we also collect information through the use of cookies and pixel tags.</span> We also use cookies and other technologies to gather information about your use of our website so that we may give you a personalized experience of our website and help us understand how users are using our services.</p>
+
+    <strong>Cookies.</strong>
+    <p>When you visit our website, we may send one or more "cookies" – small data files – to your computer to uniquely identify your browser to help you log in faster and enhance your navigation through the sites. We use persistent, identifying cookies to remember your information, such as your preferences and login information.  Our cookies do not collect personal information that you provide during the account registration process, but they do collect other information such as the following:</p>
+    <ul style="list-style-type:disc;">
+        <li>Your computer's IP address and information about its operating system or platform (Mac, Windows XP, etc.), browser type, and browser language setting;</li>
+        <li>URL of the last webpage you visited before arriving at our website;</li>
+        <li>The date and time you access our website and pages you visit;</li>
+        <li>Demographic and other non-personally identifiable profile information about you;</li>
+        <li>Your activity on our website (such as your clicks, pages viewed, comments, search results selected, etc.); and</li>
+        <li>Information to combat fraud or misuse.</li>
+    </ul>
+    <p>For more information about cookies and how to manage them, please see the section below labeled <a name="#privacy-choices"></a>Your Privacy Choices.</p>
+
+    <strong>Pixel Tags.</strong>
+    <p>Also known as a web beacon or clear GIF, a pixel tag is a tiny graphic with a unique identifier embedded invisibly on a webpage (or an online ad or email). We may use pixel tags to measure the number of clicks on certain pages or sections of our website.</p>
+
+    <strong>Information Collected by Third Parties.</strong>
+    <p>Our website and services includes links to websites and other content from third party businesses. We do not provide any personal information to these third-party websites, or other businesses.</p>
+    <p>If you click a link to visit another website or use the third-party referral service available on our websites or services, you will be subject to that website or provider’s privacy policy. This Policy only applies to information collected on website or through the Hotkeys service. You may also be asked to provide personal information or permit the transfer to a third party in connection with promotions, sweepstakes or contests we host. If you are not willing to share the information with such third parties, do not participate in such promotions, sweepstakes or contests.</p>
+
+    <h5><a name="how-we-use"></a>2. HOW WE USE, SHARE AND MAINTAIN YOUR INFORMATION</h5>
+
+    <strong>Information Uses.</strong>
+    <p>We use your personal information to respond to your requests, personalize our service, administer our website, communicate with registered users, enforce our rights and the rights of third parties, and investigate and ensure compliance with our Terms of Service and applicable law. We use non-personal information (such as demographic information, anonymous usage data, IP address, web browser information, referring/exit pages and URLs, number of clicks, etc.) to help us understand how our users are using our website or services and in turn make our website and more useful to you.</p>
+
+    <strong>Information Sharing.</strong>
+    <p>We share your personal information if authorized by you or in the following limited instances:</p>
+
+    <ul style="list-style-type:disc;">
+        <li><strong>Third Party Services.</strong> We use outside vendors and services to help us better understand how users interact with our website, and to provide services to us or to you on our behalf. These third parties may have access to your personal information for use solely in connection with these authorized business activities.</li>
+        <li><strong>Business Transfer.</strong> We may transfer your personal information to a third party if we or any of our affiliates are involved in a corporate restructuring (e.g., a sale, merger, or other transfer of assets).</li>
+        <li><strong>Affiliates.</strong> We may share personal information with our corporate affiliates (see www.demandmedia.com for our major affiliates). Any use of your information by our corporate affiliates is subject to this Policy or another policy no less protective of your privacy. Conversely, we may obtain information about you from our corporate affiliates.</li>
+        <li><strong>Compliance and Safety.</strong> We may disclose personal information when we believe disclosure is necessary to investigate, prevent, or respond to suspected illegal or fraudulent activity or to protect the safety, rights, or property of us, our users, or others. We may also disclose personal information in response to a civil or criminal subpoena or other legal process.</li>
+    </ul>
+
+    <strong>Information Retention.</strong>
+    <p>We retain information for as long as required, allowed or we believe it useful, but do not undertake retention obligations. We may dispose of information without notice, unless the law specifically requires otherwise. You must keep your own, separate back-up records. If you choose to permanently delete personal information from your account, back-up copies may exist for a short time in our databases.</p>
+
+    <strong>Information Security.</strong>
+    <p>On our side, we have physical, electronic, and managerial procedures in place to help safeguard your information. However, neither people nor security systems, even encryption systems, are foolproof. Therefore, while we use reasonable efforts to protect your personal information, we cannot guarantee its absolute security. If the law imposes any non-disclaimable duty to protect your personal information, intentional misconduct will be the standard used to measure our compliance with that duty.</p>
+    <p>On your side, YOU MUST DO WHAT YOU REASONABLY CAN TO ENSURE THE SECURITY OF YOUR PERSONAL INFORMATION. You should protect against unauthorized access to your password and to your computer and sign off when finished if you are using a shared computer. We will not ask for passwords in an email, so if you get such a request, assume it is fraudulent. We also advise you not to disclose any information in public areas of our website that you do not wish to share, as it can be viewed and possibly used by others.</p>
+
+    <h5><a name="privacy-choices"></a>3. YOUR PRIVACY CHOICES</h5>
+    
+    <p>We want to highlight the ways you can take control of your privacy at Hot Media. We urge you to explore these options and choose the level of privacy at which you are most comfortable.</p>
+
+    <strong>Account Preferences.</strong>
+    <p>As a registered user, you can edit your account settings and information at the point of sign-in for each respective website. You also can delete your account if you choose.</p>
+
+    <strong>Marketing Preferences.</strong>
+    <p>Users can also unsubscribe from our newsletters or opt out of receiving emails (such promotional emails) by clicking on the “unsubscribe” link at the bottom of the email or newsletter. However, occasionally we may need to send you customary business communications such as website and administrative notices and confirmation emails, which you may not opt out of.</p>
+
+    <strong>Cookies.</strong>
+    <p>You can follow your browser’s instructions to remove cookies at any time. However, please be aware that if cookies are disabled or removed, our website may not function or appear as designed.</p>
+
+    <h5><a name="additional-terms"></a>4. ADDITIONAL TERMS</h5>
+    
+    <strong>Identity Theft.</strong>
+    <p>If you believe that you are a victim of identity theft entitled by law to request information from us, contact us at our Legal Notice address below and we will let you know what additional information you must provide to us.</p>
+
+    <strong>Notice Required by Law.</strong>
+    <p>Where permitted by law, if we are required to disclose or provide notice of invasion of certain security systems, we will do so by email to the most current email address you have provided us.</p>
+
+    <strong>California Privacy Rights</strong>
+    <p>Residents of California who have an established business relationship with us may obtain certain information about the categories of personal information we have shared with third parties, as well as the names and addresses of those third parties and examples of the types of services and products they market. To request a copy of this information disclosure, email us at <a href="mailto:privacy@demandmedia.com">privacy@demandmedia.com</a>and we will respond within 30 days.</p>
+
+    <strong>FOR EUROPEAN UNION OR SWITZERLAND CITIZENS.</strong>
+    <p>In compliance with the Safe Harbor Principles, Demand Media, Inc. commits to resolve complaints about your privacy and our collection or use of your personal information. In the first instance, European Union citizens or Switzerland citizens with inquiries or complaints regarding this privacy policy should contact: <a href="mailto:privacy@demandmedia.com">privacy@demandmedia.com</a></p>
+    <p>The company complies with the U.S.-EU Safe Harbor Framework and the U.S. – Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. The company has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Demand Media’s certification, please visit <a href="http://www.export.gov/safeharbor/">http://www.export.gov/safeharbor/</a>.</p>
+    <p>Demand Media, Inc. has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Demand Media, Inc., please visit the BBB EU SAFE HARBOR web site at <a href="http://www.bbb.org/us/safe-harbor-complaints">http://www.bbb.org/us/safe-harbor-complaints</a> for more information and to file a complaint.</p>
+
+    <strong>Dispute Resolution.</strong>
+    <p>If you have any questions or concerns about this Policy, first contact us at <a href="privacy@demandmedia.com">privacy@demandmedia.com</a> and we will do our best to answer your questions and resolve your concerns in a timely and professional manner. But in the unfortunate and unlikely event that we are unable do so, we work with the Council of Better Business Bureaus (BBB) as an independent dispute resolution provider. You can contact BBB and follow their guidelines for initiating dispute resolution procedures here (<a href="http://www.bbbonline.org/consumer/complaint.asp">www.bbbonline.org/consumer/complaint.asp</a>), by phone at 703-276-0100, or by mail at Council of Better Business Bureaus, Inc., 4200 Wilson Boulevard, Suite 800, Arlington, VA 22203</p>
+    <p>European Union citizens with unresolved privacy concerns may also email BBB at <a href="mailto:eusafeharbor@council.bbb.org">eusafeharbor@council.bbb.org</a> or direct your mail to Council of Better Business Bureaus, Inc., BBB EU Safe Harbor at the address listed above.</p>
+
+    <h5><a name="contact-us"></a>5. CONTACT US</h5>
+    <p>If you have any questions, concerns or complaints about privacy at Hot Media please email us at: <a href="mailto:privacy@demandmedia.com">privacy@demandmedia.com</a>. To send us a legal notice, mail it by certified mail (return receipt requested) to: Hot Media, Legal Department, 5808 Lake Washington Blvd., Suite 300, Kirkland, WA 98033. 
+    
+    </p><p>We will contact you, including when we give a legal notice, at an email address that we have on file for you.</p>
+    <p> Demand Media, Hotkeys, the Hotkeys logo, and Hot Media are trademarks and/or registered trademarks of Demand Media, Inc.  in the United States and/or other countries.</p>
+    <p>Copyright © 2012. Demand Media, Inc.</p>
+
+	<div style="display:none;">
 	<h5>Third Party Banner Ads.</h5>
 	<p>We may use other third-party advertising companies to serve ads when you visit our Site. These companies may use information (not including your name, address, e-mail address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.</p>
 	
@@ -149,65 +276,81 @@
 	
 	<p>
 	  Hotkeys<br>
-	  HotMedia, Inc.<br>
+	  Hot Media, Inc.<br>
 	  5808 Lake Washington Blvd. ,Ste. 300 <br>
 	  Kirkland, WA 98033, U.S.A<br>
 	  <a href="mailto:Service@hotkeys.com">Service@hotkeys.com</a>
 	 </p>
 	 <p>This Privacy Policy was last revised on May 20, 2009.</p>
-	 <p class="bold">© 2010 HotMedia, Inc. U.S.A. All rights reserved.</p>
+	 <p class="bold">© 2010 Hot Media, Inc. U.S.A. All rights reserved.</p>
+
+     </div>
 </div>
-        </div>
+				<!-- End: Privacy Policy -->
 
-    </div>
-</div> 
+			</div>
+
+			<div class="content-sub grid_3 pull_95">
+				<nav class="nav-sb">
+					<ul class="grey-2">
+						<li class="first"><a href="terms-of-use.aspx">Terms of Use</a></li>
+						<li class="last"><a href="privacy-policy.aspx" class="selected">Privacy Policy</a></li>
+					</ul>				
+				</nav>   							   
+			</div>
+			<div class="clear"></div>
+
+		</div>		
+	</div>
+	<!-- End: #content -->
 
 
 
+	
+    <!-- Start: Footer -->	
+	<footer id="mastfoot">
+		<div class="container_12">    
+
+			<div class="grid_6 alpha ftr-about">
+				<h5>About</h5>
+				<nav class="nav-footer">
+					<ul>
+						<li><a href="/m/company/default.aspx">Our Company</a></li>
+						<li><a href="/m/legal/terms-of-use.aspx">Terms of Use</a></li>
+						<li><a href="/m/legal/privacy-policy.aspx">Privacy Policy</a></li>
+					</ul>
+				</nav>  
+			</div>
+
+			<div class="grid_6 omega ftr-support">
+				<h5>Support</h5>
+				<nav class="nav-footer">
+					<ul>
+						<li><a href="/m/support/faq.aspx">Frequently Asked Questions</a></li>
+						<li><a href="/m/monetize-your-domains/getting-started.aspx">Getting Started</a></li>
+						<li><a href="/m/company/contact-us.aspx">Contact Us</a></li>
+					</ul>
+				</nav>
+			</div>    		
+
+			<div class="clear"></div>
+			
+			<p class="copyright">© 2001-2013 Hot Media, Inc.</p>
+
+		</div> 	        	
+	</footer>
+	<!-- End: Footer -->	
     
-            
-	        	        
-            
-	        <div class="nav_1">
-		        <div>
-			        <ul>
-				        <li class="nav_home"><a href="/home.aspx">Home</a></li>
-				        <li class="nav_domains"><a href="/product/domain-monetization/how-it-works.aspx">Monetize Your Domains</a></li>
-				        <li class="nav_websites"><a href="/product/website-monetization/how-it-works.aspx">Monetize Your Websites</a></li>
-				        <li class="nav_faqs"><a href="/support/faq/domain-monetization-signup.aspx">FAQs</a></li>
-				        <li class="nav_aboutus"><a href="/company/about-us.aspx">About Us</a></li>
-				     </ul>
-				     <div class="nav_apply"><a href="/signup/choose-products.aspx">Apply Now</a></div>
-		        </div>		         
-	        </div>       
-
-	        <div class="company_info_1">
-		        <div>
-			        <ul>
-				        <li><a href="/home.aspx">Home</a></li>
-				        <li><a href="/legal/terms-of-use.aspx">Terms of Use</a></li>
-				        <li><a href="/legal/privacy-policy.aspx">Privacy Policy</a></li>
-				        <li><a href="/company/about-us.aspx">Contact Us</a></li>
-			        </ul>
-			        <p>Copyright © 2001-2011 HotMedia, Inc.</p>			    
-		        </div>
-	        </div>
-
-        </form>
-    </div>
-    
-<script type="text/javascript" src="/aboutus/hotkeys/js/activate-jquery-plugins.js"></script>
-  
-<!-- omniture_tracking -->
-<script type="text/javascript" src="https://keys.dmtracker.com/tags/vs.js"></script>
-<noscript><img src="https://keys.dmtracker.com/images/zig.gif?Log=1" alt="" /></noscript>
-<!-- /omniture_tracking -->
-
-
+      
+    <!-- omniture_tracking -->
+    <script type="text/javascript" src="https://keys.dmtracker.com/tags/vs.js"></script>
+    <noscript><img src="https://keys.dmtracker.com/images/zig.gif?Log=1" alt="" /></noscript>
+    <!-- /omniture_tracking -->
+    </form>
 
 
 <!--
-<WatchdogCacheRequest Type="Page" TimeElapsed="34">
+<WatchdogCacheRequest Type="Page" TimeElapsed="2">
     <Actions Count="0" />
 </WatchdogCacheRequest>
 --></body></html>
