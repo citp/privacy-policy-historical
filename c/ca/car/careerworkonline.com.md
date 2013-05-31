@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careerworkonline.com privacy policy that was archived on 2012-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121212013315id_/http%3A//careerworkonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerworkonline.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531211111id_/http%3A//www.careerworkonline.com/privacy-policy) for the most accurate reproduction.*
 
 # Career Work Online | Privacy Policy
 
