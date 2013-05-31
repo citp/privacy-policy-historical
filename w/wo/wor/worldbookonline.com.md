@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the worldbookonline.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130231613id_/http%3A//www.worldbook.com/world-book-corporate/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldbookonline.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531214511id_/http%3A//www.worldbook.com/world-book-corporate/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-World Book is concerned about privacy on the Web. We have created this Privacy Policy to let you know how World Book collects, uses and safeguards the information that is collected and used on the Site. This Privacy Policy works in conjunction with the [Terms and Conditions ](http://www.worldbook.com/world-book-corporate/terms-a-conditions) of Use but does not modify or supercede them.
+World Book is concerned about privacy on the Web. We have created this Privacy Policy to let you know how World Book collects, uses and safeguards the information that is collected and used on the Site. This Privacy Policy works in conjunction with the [Terms and Conditions ](http://worldbook.com/world-book-corporate/terms-a-conditions) of Use but does not modify or supercede them.
 
 **User-Supplied Information**
 
