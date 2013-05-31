@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ralphs.com privacy policy that was archived on 2012-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121030205459id_/http%3A//www.ralphs.com/company_information/Pages/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ralphs.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531141608id_/http%3A//www.ralphs.com/company_information/Pages/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Ralphs
 
