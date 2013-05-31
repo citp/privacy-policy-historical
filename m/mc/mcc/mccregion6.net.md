@@ -1,19 +1,7 @@
-> *The following text is extracted and transformed from the mccregion6.net privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231204942id_/http%3A//www.mccregion6.net/blog/latest/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mccregion6.net privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531050815id_/http%3A//www.mccregion6.net/blog/latest/privacy-policy.html) for the most accurate reproduction.*
 
-# Reliable Cheap Host - Privacy Policy
+# Fatcow Coupon 2012 Fatcow Promo Code Fatcow Coupon Code - Privacy Policy
 
-### To enjoy maximum savings on Fatcow, use the Fatcow coupon below: 
-
-## **MAXIMUM DISCOUNT COUPON**
-
-##  **FOR FATCOW**
-
-| 
-
-Click to use this Fatcow Coupon  
-  
----|---  
-  
 MCCRegion6.net takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this privacy policy primer to learn more about privacy policies in general.
 
   
