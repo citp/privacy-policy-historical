@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the betterlesson.com privacy policy that was archived on 2012-09-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120919191307id_/http%3A//betterlesson.com/public/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the betterlesson.com privacy policy that was archived on 2013-05-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130531115843id_/http%3A//betterlesson.com/public/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
@@ -22,7 +22,7 @@
 <meta name="robots" content="noindex, follow">
 
 
-<link href="/favicon.ico" type="image/x-icon" rel="icon"><link href="/favicon.ico" type="image/x-icon" rel="shortcut icon"><script type="text/javascript" src="/www/js/bl-hash-47c0043238247bc67664055d3513cebc.js"></script><script type="text/javascript" src="/www/templates/bl-hash-ec5a552fc1b261f448f1a1b2665f4b29.js"></script><link rel="stylesheet" type="text/css" href="/www/css/bl-hash-9ce13f52a4b40b6e310d7122e837a10c.css"><link rel="stylesheet" media="print" type="text/css" href="/www/css/print.css">
+<link href="/favicon.ico" type="image/x-icon" rel="icon"><link href="/favicon.ico" type="image/x-icon" rel="shortcut icon"><script type="text/javascript" src="/www/js/bl-hash-3da4b0f023bbcac63d2fd11e8b37bee8.js"></script><script type="text/javascript" src="/www/templates/bl-hash-36f9b3c5459de417c039e2bdc28bd3e6.js"></script><link rel="stylesheet" type="text/css" href="/www/css/bl-hash-1873d22604fcc1fdbb051830d154d408.css"><link rel="stylesheet" media="print" type="text/css" href="/www/css/print.css">
 <!-- DEFAULT THEME -->
 
 
@@ -35,14 +35,16 @@
 	    // support old jQuery code
 	    var J = jQuery;
 	    var bl_debug = BL.debug;
-            BL.static_files_hash = "bedec745eaa4c982d41c26b2f57d8bed"; //The version of static files loaded with the page
+            BL.static_files_hash = "e2f937753e0e1aabdacabcb500fc5669"; //The version of static files loaded with the page
 	</script>
 
 </head>
 <body class="pprivacy">
 
-    
-	<div id="header_container" style="z-index: 1000;">
+        
+            <input type="hidden" id="show_blnext_beta_banner" value="1">
+    	
+    <div id="header_container">
     <div id="header" class="row-fluid">
             
         <div id="logo" class="span3">
@@ -89,34 +91,30 @@
         </ul>
         
     </div>
-</div><div></div>
-<div id="header_fixed_spacer">&nbsp;</div>
-	<div id="container">
-
-		<script type="text/javascript">
-
-var custom_var_array = eval({"5":{"name":"free","value":"unknown","scope":2},"4":{"name":"logged out","value":"unknown","scope":2}}); //global scope
-// If we are using GA, pageTracker will be available on document ready.
-jQuery(function(){
-    if ( window.pageTracker ) {
-        jQuery.each(custom_var_array, function(slot, data) {
-            pageTracker._setCustomVar(slot, data['name'], data['value'], data['scope']);
-        });
-    } else {
-        //debugging when GA is off
-        jQuery.each(custom_var_array, function(slot, data) {
-            BL.debug( null, 'pageTracker._setCustomVar('+slot+', "'+data['name']+'", "'+data['value']+'", '+data['scope']+')', 'console');
-        });
-    }
-});
-</script>
+    
 <div id="flash-messages">
 </div>
 
 <script>
-    jQuery('#flash-messages').children().fadeIn('slow');
+    jQuery('#flash-messages').children().fadeIn('slow').each(function() {
+        var thisElem = jQuery(this);
+
+        if (thisElem.hasClass('alert-success') || thisElem.hasClass('alert-info')) {
+            setTimeout(function() {
+                thisElem.animate({
+                    opacity: 0
+                }, 1000, function() {
+                    thisElem.remove();
+                });
+            }, 5000);
+        }
+    });
 </script>
-<a href="/feedbacks/add?height=250&amp;width=450" class="jqmodal" title="Send BetterLesson your feedback!" id="feedbacklink" rel="nofollow">
+</div>
+<div id="header_fixed_spacer">&nbsp;</div>
+	<div id="container">
+
+		<a href="/feedbacks/add?height=250&amp;width=450" class="jqmodal" title="Send BetterLesson your feedback!" id="feedbacklink" rel="nofollow">
     <img src="/img/feedbacks_tab.gif" alt="Feedback" title="Send BetterLesson your feedback!"></a>
 
 		
@@ -682,6 +680,7 @@ We will respond to your inquiry within 30 days of its receipt.
                 <li><a href="/directory/middle_school/all">Middle School</a></li>
                 <li><a href="/directory/high_school/all">High School</a> </li>
                 <li><a href="/sitemaps/directory">Browse All Grades</a></li>
+                <li><a href="/common_core/browse/1/ccss-common-core-state-standards?from=footer">Browse Common Core</a> </li>
             </ul>
         </div>
         
@@ -690,8 +689,9 @@ We will respond to your inquiry within 30 days of its receipt.
             <ul>
                 <li><a href="http://blog.betterlesson.com">BetterLesson Blog</a></li>
                 <li><a href="/public/about">About</a></li>
-                <li><a href="/help">Help</a></li>
-                <li><a href="mailto:support@betterlesson.com">Support</a></li>
+                <li><a href="/public/master_teachers">Master Teacher Project</a></li>
+                <li><a href="http://support.betterlesson.com">Support</a></li>
+                <li><a href="/public/contact">Contact Us</a></li>
 
                                     <li><a href="mailto:sales@betterlesson.com">Sales</a></li>
                             </ul>
@@ -720,7 +720,7 @@ We will respond to your inquiry within 30 days of its receipt.
         </div>
         
         <p class="footer-copyright">
-            <span class="copyright">© 2012 BetterLesson</span> | <a href="/public/privacy_policy">Privacy</a>
+            <span class="copyright">© 2013 BetterLesson</span> | <a href="/public/privacy_policy">Privacy</a>
             | <a href="/public/terms_of_service">Terms</a>
             | <a href="/feedbacks/add?height=250&amp;width=450" class="jqmodal" title="Send BetterLesson your feedback!">Feedback</a>
                                 </p>
@@ -739,15 +739,10 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
 var pageTracker = _gat._getTracker("UA-6074354-1");
 
 pageTracker._setCustomVar(1,'premium','no_login',3);
-pageTracker._setCustomVar(2,'user','visitor',3);
+pageTracker._setCustomVar(2,'visitor','visitor',3);
 
 pageTracker._trackPageview();
 </script>
-
-
-
-
-
 
 
 
@@ -780,7 +775,7 @@ pageTracker._trackPageview();
 			<div class="select-school control-group">
 				<label class="control-label" for="registration_school">School</label>
 				<div class="controls">
-					<input type="hidden" class="input-xlarge" id="registration_school" style="display: none;"><div class="select2-container input-xlarge" style="width: 0px">    <a href="javascript:void(0)" class="select2-choice select2-default">   <span>Please enter zip-code of your school.</span><abbr class="select2-search-choice-close" style="display:none;"></abbr>   <div><b></b></div></a>    <div class="select2-drop" style="display:none;">   <div class="select2-search">       <input type="text" autocomplete="off">   </div>   <ul class="select2-results">   </ul></div></div>
+					<input type="hidden" class="input-xlarge" id="registration_school">
 					<div class="help-block">Don't see your school? <a class="js-show-add-school" href="#add-school">Request that we add it</a>.</div>
 				</div>
 			</div>
@@ -804,7 +799,7 @@ pageTracker._trackPageview();
 				</div>
 			</div>
 			<div class="create-button">
-				<button type="submit" class="btn btn-success btn-large">Create Account</button><span class="loading"><img src="/www/img/loading.gif"></span><br>
+				<button type="submit" class="btn btn-success btn-large">Create Account</button><span class="loading"><img src="/www/img/loading.gif" alt="loading"></span><br>
 				<small>By clicking Create Account, you are indicating that you have read and agree to the <a href="/public/terms_of_service" target="_blank" title="Open BetterLesson Terms of Service in new window.">Terms of Service</a>.</small>
 			</div>
 		</fieldset>
@@ -935,7 +930,7 @@ pageTracker._trackPageview();
 			</div>
 			<div class="js-submit-button control-group">
 				<div class="controls">
-					<button type="submit" class="btn btn-primary btn-large">Send Invites</button><span class="loading hidden"><img src="/www/img/loading.gif"></span> <span id="successful_invites"></span>
+					<button type="submit" class="btn btn-primary btn-large">Send Invites</button><span class="loading hidden"><img src="/www/img/loading.gif" alt="loading"></span> <span id="successful_invites"></span>
 					<div style="font-size:12px;">We’ll send you a $50 Donorschoose.org gift certificate when you <br>successfully invite 10 colleagues!</div>
 				</div>
 			</div>
@@ -946,4 +941,4 @@ pageTracker._trackPageview();
     
 
 
-<div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" style="display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxLoadedContent" style="width: 0px; height: 0px; overflow: hidden; float: left;"></div><div id="cboxLoadingOverlay" style="float: left;"></div><div id="cboxLoadingGraphic" style="float: left;"></div><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><div id="cboxNext" style="float: left;"></div><div id="cboxPrevious" style="float: left;"></div><div id="cboxSlideshow" style="float: left;"></div><div id="cboxClose" style="float: left;"></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none;"></div></div></body></html>
+</body></html>
