@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mortgageloan.com privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127050210id_/http%3A//www.mortgageloan.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mortgageloan.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531090720id_/http%3A//www.mortgageloan.com/privacy.shtml) for the most accurate reproduction.*
 
-# Privacy - MortgageLoan.com
+# Privacy | MortgageLoan.com
 
 [](https://privacy.truste.com/privacy-seal/Mortgage-Loan-Directory-and-Information,-Inc/validation?rid=0ebfccd0-81ef-452d-951f-112663f4b329 "TRUSTe online privacy certification")
 
@@ -10,7 +10,7 @@ Thank you for visiting Mortgage Loan Directory and Information LLC's ("Mortgagel
 
 ### Privacy Policy Updates
 
-Due to the Internet's rapidly evolving nature, Mortgageloan.com may need to update this Privacy Policy from time to time. If so, Mortgageloan.com will post its updated Privacy Policy on our Site located at [www.Mortgageloan.com.com](http://www.mortgageloan.com.com/ "www.Mortgageloan.com.com") and we may send registered users an email, so you are always aware of what personally identifiable information we may collect and how we may use this information. If any modification is unacceptable to you, you shall cease using this Site and the Services. If you do not cease using this Site and the Services, you will be deemed to have accepted the change. 
+Due to the Internet's rapidly evolving nature, Mortgageloan.com may need to update this Privacy Policy from time to time. If so, Mortgageloan.com will post its updated Privacy Policy on our Site located at [www.mortgageloan.com](http://www.mortgageloan.com/ "www.mortgageloan.com") and we may send registered users an email, so you are always aware of what personally identifiable information we may collect and how we may use this information. If any modification is unacceptable to you, you shall cease using this Site and the Services. If you do not cease using this Site and the Services, you will be deemed to have accepted the change. 
 
 ### TRUSTe
 
@@ -22,7 +22,7 @@ If you have questions or complaints regarding our privacy policy or practices, y
 2\. By telephone: 646 727 4845  
 3\. By regular mail: MortgageLoan.com, The Corporation Trust Company, Corporation Trust Center, 1209 Orange Street, Wilmington, Delaware 19801
 
-If you are not satisfied with our response you can contact TRUSTe here. [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint)
+If you are not satisfied with our response you can contact TRUSTe here. [TRUSTe here](https://feedback-form.truste.com/watchdog/request)
 
 ### Information Collection and Use
 
