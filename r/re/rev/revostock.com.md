@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the revostock.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228202941id_/http%3A//www.revostock.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revostock.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531050113id_/http%3A//revostock.com/Privacy.html) for the most accurate reproduction.*
 
 # RevoStock -Privacy Policy
 
@@ -49,6 +49,12 @@ In addition, We collect non-personally identifiable information, which is inform
 This non-personal information is used as a tool for identifying system problems and administering the Website.  From time to time We use "cookies" on this Website.  "Cookies" are small text files that Your web browser leaves on Your hard drive to recognize You as a repeat user of Our Website.  If You do not want "cookies" to be used, You may disable them by accessing the features of Your web browser.
 
 We collect personal and non-personal information in a non-identifying, anonymous and aggregate form to enhance Our Website, to share with advertisers and for statistical purposes.  These statistics and reports will contain only aggregated and no personally identifiable information.
+
+**RE-MARKETING WITH GOOGLE ANALYTICS**
+
+RevoStock uses analytics data and the DoubleClick cookie to serve ads based on a user's prior visits to our website.  Site visitors may opt out of the DoubleClick cookie by visiting the [Google advertising opt-out page](http://www.google.com/privacy_ads.html "Google advertising opt-out page") or they may opt out of Google Analytics by visiting the [Google Analytics opt-out page](http://tools.google.com/dlpage/gaoptout "Google Analytics opt-out page").
+
+Google has additional information available about their [Remarketing Privacy Guidelines](http://adwords.google.com/support/aw/bin/answer.py?hl=en&answer=100746 "Google's Remarketing Privacy Guidelines"), [Policies](http://adwords.google.com/support/aw/bin/answer.py?hl=en&answer=143465 "Google's Remarketing Policies"), and [Restrictions](http://adwords.google.com/support/aw/bin/answer.py?hl=en&answer=178363 "Google's Remarketing Privacy Restrictions").
 
 **AMENDMENT TO PRIVACY POLICY**
 
