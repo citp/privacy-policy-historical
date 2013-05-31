@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the volunteerhub.com privacy policy that was archived on 2012-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121030040618id_/http%3A//www.volunteerhub.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the volunteerhub.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531085017id_/http%3A//www.volunteerhub.com/privacy) for the most accurate reproduction.*
 
-# Privacy Statement - VolunteerHub Protects Volunteer OrganizationsVolunteerHub
+# Privacy Statement - VolunteerHub Protects Volunteer Organizations
 
 CEI is committed to protecting your privacy. This privacy statement applies to the data collected by CEI through the CEI VolunteerHub Web sites, CEI VolunteerHub services, and associated software (the “Services”). This privacy statement does not apply to data collected through other online or offline CEI sites, products or services.
 
