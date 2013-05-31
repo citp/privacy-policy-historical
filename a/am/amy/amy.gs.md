@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amy.gs privacy policy that was archived on 2012-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121211113030id_/http%3A//www.linkbucks.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amy.gs privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531205502id_/http%3A//www.linkbucks.com/policy) for the most accurate reproduction.*
 
 # Linkbucks.com - Make money when people leave your website!
 
