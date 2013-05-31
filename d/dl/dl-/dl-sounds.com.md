@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dl-sounds.com privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110194818id_/http%3A//www.dl-sounds.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dl-sounds.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601014012id_/http%3A//www.dl-sounds.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Notice : Royalty Free Music, DL Sounds
 
