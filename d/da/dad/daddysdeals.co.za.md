@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the daddysdeals.co.za privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231010625id_/https%3A//www.daddysdeals.co.za/frontend/pages/page/2/Privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daddysdeals.co.za privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531212625id_/http%3A//www.daddysdeals.co.za/frontend/pages/page/2/Privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | Daddy's Deals with love from kulula.com
+# Privacy policy | Daddy's Deals
 
 1.1 Your private information required for registering an account on this website will be kept in the strictest confidence by Us and will not be sold or made known to third parties.
 
