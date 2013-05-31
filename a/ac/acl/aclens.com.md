@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aclens.com privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124044321id_/http%3A//www.aclens.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aclens.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531104708id_/https%3A//www.aclens.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -14,7 +14,7 @@ AC Lens also routinely collects statistics on site usage patterns through web lo
 
 We use cookies on this site. A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We link the information we store in cookies to any personally identifiable information you submit while on our site. 
 
-We use both session ID cookies and persistent cookies. A session ID cookie expires when you close your browser. We use session ID cookies to allow visitors to easily navigate during checkout and access their account information. A persistent cookie remains on your hard drive for an extended period of time. We use a persistant cookie to welcome visitors returning to the site and to associate appropriate advertisments for our visitors. You can remove persistent cookies by following directions provided in your Internet browser's "help" file. [How to Clear Your Browser's Cookies](http://www.wikihow.com/Clear-Your-Browser%27s-Cookies)
+We use both session ID cookies and persistent cookies. A session ID cookie expires when you close your browser. We use session ID cookies to allow visitors to easily navigate during checkout and access their account information. A persistent cookie remains on your hard drive for an extended period of time. We use a persistent cookie to welcome visitors returning to the site and to associate appropriate advertisements for our visitors. You can remove persistent cookies by following directions provided in your Internet browser's "help" file. [How to Clear Your Browser's Cookies](http://www.wikihow.com/Clear-Your-Browser%27s-Cookies)
 
 If you reject cookies, you may still use our site. Without a session ID cookie, your ability to complete a purchase and checkout will be limited. 
 
@@ -39,7 +39,7 @@ AC Lens may verify your prescription information provided with your order with y
 **Legal Disclosure of Your Information**  
 We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site.
 
-**Contests an Drawings**  
+**Contests and Drawings**  
 AC Lens may sponsor or host contests or drawings from time to time. Some contests may be offered in conjunction with a third party sponsor and website users will be notified at the time of the contest as to whether a third party sponsor is involved and whether the third party will be receiving the user's information to send promotional communications. The website user can then choose whether to enter the contest or not at that time based on the terms and conditions associated with that particular contest.
 
 **Transaction Security**  
