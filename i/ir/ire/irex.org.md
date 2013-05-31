@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the irex.org privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106115344id_/http%3A//www.irex.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irex.org privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531130116id_/http%3A//irex.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | IREX - Civil Society, Education and Media Development
 
