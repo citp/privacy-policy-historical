@@ -1,7 +1,15 @@
-> *The following text is extracted and transformed from the keywordorganizer.org privacy policy that was archived on 2012-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120904001222id_/http%3A//keywordorganizer.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keywordorganizer.org privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531070838id_/http%3A//keywordorganizer.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy for Keyword Organizer
+# Privacy Policy
 
+[](http://keywordorganizer.org/) | 
+
+[Keyword Organizer](http://keywordorganizer.org/)
+
+Organize keywords and plan out an SEO-optimized content strategy for your website.  
+  
+---|---  
+  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
 ### Google Adsense and the DoubleClick DART Cookie
