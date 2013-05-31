@@ -1,19 +1,19 @@
-> *The following text is extracted and transformed from the omgdroid.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130224123id_/http%3A//omgdroid.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omgdroid.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531190912id_/http%3A//www.omgdroid.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# OMG!Droid | Privacy Policy - OMG!Droid
 
 OMG!Droid values your privacy, whether you just browse the Web Site or purchase products. We strive to make our privacy practices in keeping with the highest standards on the Web, and we hope you’ll agree. This privacy policy describes the kinds of information we collect, how we collect it and how we use it.
 
- **Contact Information**
+**Contact Information**
 
 Our postal address is  
 OMG!Droid  
-930 41st St  
-Des Moines, IA 50312
+3530 Westown Parkway #155  
+West Des Moines, IA 50266
 
 We can be reached via e-mail at [support@omgdroid.com](mailto:support@androidspin.com) or you can reach us by telephone at (515) 771-9475
 
- **What we collect from each visitor**
+**What we collect from each visitor**
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer’s domain name, but not the e-mail address (where possible).
 
@@ -23,7 +23,7 @@ The information we collect is used for internal review and is then discarded, us
 
 With respect to cookies: We use cookies to store visitors preferences and session information.
 
- **How do we use this information?**
+**How do we use this information?**
 
 If you supply us an email address on-line you will only receive the information for which you provided us your email address (Receipt, Shipping Status, Newsletter etc).
 
@@ -35,7 +35,7 @@ From time to time, we may use customer information for new, unanticipated uses n
 
 Customers may prevent their information from being used for purposes other than those for which it was originally collected by calling us at the number provided above, e-mailing us at the above address, writing us at the above address.
 
- **Opting Out**
+**Opting Out**
 
 Upon request we provide site visitors with access to all information [including proprietary information] that we maintain about them.
 
@@ -45,21 +45,14 @@ If you do not want to receive e-mail from us in the future, please let us know b
 
 Upon request we offer visitors the ability to have inaccuracies corrected in contact information, financial information, unique identifiers, transaction information, communications that the consumer/visitor has directed to the site.
 
- **Security**
+**Security**
 
 With respect to security: We always use industry-standard encryption technologies when transferring and receiving sensitive consumer data exchanged with our site, We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, state or local chapters of the Better Business Bureau, state or local consumer protection office, The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at <http://www.ftc.gov/ftc/complaint.htm>.
 
- **Third Party Vendors**
+**Third Party Vendors**
 
 Third party vendors, including Google, show our ads on sites on the internet.
 
 Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to our website. Users may opt out of Google’s use of cookies by visiting the [Google advertising opt-out page](http://www.google.com/privacy_ads.html) or the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).
-
-Tony is a mobile enthusiast with a passion for Android smartphones and tablets. He is the Site Founder and Editor-in-Chief, and can typically be found crashing a public Hangout on Google+.
-
-[]()[](http://www.facebook.com/asimons81)[](http://twitter.com/#!/tonytha1andonly)[](https://plus.google.com/u/0/111491466248379228198/about)
-
-  
-
