@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the immadeeasier.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215174752id_/http%3A//immadeeasier.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the immadeeasier.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531222258id_/http%3A//immadeeasier.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - I.M. Made Easier
 
