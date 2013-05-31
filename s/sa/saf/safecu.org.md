@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the safecu.org privacy policy that was archived on 2012-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121002220014id_/https%3A//www.safecu.org/about_safe/online_privacy_statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safecu.org privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531051637id_/https%3A//www.safecu.org/about_safe/online_privacy_statement.aspx) for the most accurate reproduction.*
 
 # SAFE Credit Union : About SAFE : Online Privacy Statement
 
@@ -11,13 +11,13 @@
   * Protecting Children's Privacy Online 
   * Safeguarding Your Privacy
   * Privacy Choices
-  * [SAFE's Privacy Policy](https://web.archive.org/About_SAFE/pdfs/privacy_policy_2012.pdf) (PDF)
+  * [SAFE's Privacy Policy](https://web.archive.org/About_SAFE/pdfs/privacy_policy.pdf) (PDF)
 
 
 
 **Introduction**
 
-Effective on: 4/1/12
+Effective on: 4/1/13
 
 SAFE Credit Union has created this privacy statement in order to demonstrate our firm commitment to consumer privacy. The following discloses our information gathering and dissemination practices for the [www.safecu.org](https://www.safecu.org/) website in addition to the practices listed in the Privacy Notice.
 
