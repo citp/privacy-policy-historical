@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sukar.com privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029072422id_/http%3A//www.sukar.com/sales/sukarprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sukar.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601014830id_/http%3A//www.sukar.com/sales/sukarprivacypolicy) for the most accurate reproduction.*
 
 # Sukar.com - Top fashion and lifestyle brands up to 90% off.
 
