@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the getcrackin.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223095801id_/http%3A//getcrackin.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getcrackin.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531210017id_/http%3A//getcrackin.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Get Crackin
-
-## Privacy Policy
+# 
 
 ### **Wonderful® Pistachios Privacy Policy**
 
@@ -111,4 +109,4 @@ Attention: Chief Legal Officer
 Telephone: (310) 966-5700  
 E-mail: legalinfo@paramountfarms.com
 
-© 2011 Paramount Farms International LLC d/b/a Wonderful® Pistachios.  All rights reserved.
+© 2013 Paramount Farms International LLC d/b/a Wonderful® Pistachios.  All rights reserved.
