@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crushbits.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221083543id_/http%3A//crushbits.com/terms.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crushbits.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531152437id_/http%3A//crushbits.com/terms.php) for the most accurate reproduction.*
 
 # Crush Bits - Love Calculator
 
@@ -14,9 +14,6 @@ We allow third-party companies to serve ads and/or collect certain anonymous inf
 [www.networkadvertising.org](http://www.networkadvertising.org/)
 
 For more information, please go to CrushBits.com. 
-
-[](http://www.prettyscale.com/)   
-
 
   
 
