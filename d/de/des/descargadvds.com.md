@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the descargadvds.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604040602id_/http%3A//support.dvdunlimited.com/support_privacy.php%3Fch_lang%3Dus%26tour%3D1%26id%3D2966%26country%3Dus) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the descargadvds.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531020711id_/http%3A//www.descargadvds.com/privacy) for the most accurate reproduction.*
 
-# DVD Unlimited
+# DVD Store
 
-**SPACASH  
-Privacy Policy  
-**
-
-* * *
+## Privacy Policy
 
 Keeping you privacy is very important and is protected while using our Site. Please make sure to read the Site's Terms & Conditions as well.
 
