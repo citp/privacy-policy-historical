@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the noodles.com privacy policy that was archived on 2012-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121129122649id_/http%3A//www.noodles.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noodles.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531144841id_/http%3A//noodles.com/privacy) for the most accurate reproduction.*
 
-# Noodles & Company: Privacy Policy
+# Welcome to Noodles & Company
 
 AT NOODLES & COMPANY WE UNDERSTAND your privacy is important to you and we want to let you know how we will not use your Private Personally Identifiable Information. As you read this, please understand we may update this page from time to time and so you may want to check this page in the future to review any changes. If you use our site or sign up for emails from Noodles & Company, you are agreeing to our policies, terms and conditions set forth on the site, including this policy. 
 
