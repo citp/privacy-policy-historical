@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the branch.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102195922id_/http%3A//branch.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the branch.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531205510id_/http%3A//www.branch.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
-
-Privacy Policy
-
-Privacy Policy
+# None
 
 Effective Date: August 13, 2012
 
@@ -147,6 +143,6 @@ Contact Information
 
 Branch Media, Inc.
 
-416 W 13th St #203
+220 East 23rd St. #601
 
-New York NY 10014
+New York NY 10010
