@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filesmy.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003155231id_/http%3A//sharecash.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filesmy.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531223022id_/http%3A//sharecash.org/privacy.php) for the most accurate reproduction.*
 
 # ShareCash - Make Money Uploading Files!
 
@@ -77,4 +77,4 @@ We reserve the right to modify this privacy policy at any time without prior not
 
 #### 14\. Additional Information
 
-If you have any questions about our Privacy Policies, please [contact us](https://web.archive.org/web/20121003155231id_/http%3A//sharecash.org/contact.php).
+If you have any questions about our Privacy Policies, please [contact us](https://web.archive.org/web/20130531223022id_/http%3A//sharecash.org/contact.php).
