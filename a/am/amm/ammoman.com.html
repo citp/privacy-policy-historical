@@ -1,75 +1,90 @@
-<!--The following is the downloaded HTML source of the ammoman.com privacy policy that was archived on 2012-11-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121127172147id_/http%3A//www.ammoman.com/t/privacyinfo) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ammoman.com privacy policy that was archived on 2013-05-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130531140018id_/http%3A//ammoman.com/t/privacyinfo) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<!DOCTYPE html><html><head>
     <title>AMMOMAN.com. Privacy policy</title>
+    <meta http-equiv="Content-type" content="text/html;charset=UTF-8">
     <meta name="description" content="">
     <meta name="keywords" content="discount ammo">
     
-    <link href="/Themes/DjBrown/Content/styles.css" rel="stylesheet" type="text/css">
+    
+    
+    <link href="/Themes/BlackBlue/Content/styles.css" rel="stylesheet" type="text/css">
+<link href="/Content/smoothness/jquery-ui-1.8.17.custom.css" rel="stylesheet" type="text/css">
+
+    <script src="/bundles/scripts/n3h4wkmuahfvlspkxd1a2bw7eunugojrzuxqdfrhsmi1.js?v=QOSJ4aJ8JMMvYD19jDoykOuA_ZYefAnhRRWexckGPkk1"></script>
+
 
     
-    <script src="/Scripts/jquery-1.7.1.min.js" type="text/javascript"></script>
-    <script src="/Scripts/jquery.unobtrusive-ajax.min.js" type="text/javascript"></script>
-    <script src="/Scripts/jquery.validate.min.js" type="text/javascript"></script>
-    <script src="/Scripts/jquery.validate.unobtrusive.min.js" type="text/javascript"></script>
-    <script src="/Scripts/MicrosoftAjax.js" type="text/javascript"></script>
-    <script src="/Scripts/MicrosoftMvcAjax.js" type="text/javascript"></script>        
-    <script src="/Scripts/public.js" type="text/javascript"></script>
-    
-    
-    <link href="http://www.ammoman.com/news/rss/1" rel="alternate" type="application/rss+xml" title="AMMOMAN.com: News">
-    <link href="http://www.ammoman.com/blog/rss/1" rel="alternate" type="application/rss+xml" title="AMMOMAN.com: Blog">
-    
+    <link href="http://ammoman.com/news/rss/1" rel="alternate" type="application/rss+xml" title="AMMOMAN.com: News">
+    <link href="http://ammoman.com/blog/rss/1" rel="alternate" type="application/rss+xml" title="AMMOMAN.com: Blog">
     
     
     <!--Powered by nopCommerce - http://www.nopCommerce.com-->
-    <!--Copyright (c) 2008-2012-->
+    <!--Copyright (c) 2008-2013-->
 </head>
 <body>
     
-    <div class="master-wrapper-page">
-        <div class="master-wrapper-content">
-            <div class="header">
+
+
+
+<div id="dialog-notifications-success" title="Notification" style="display:none;">
+</div>
+<div id="dialog-notifications-error" title="Error" style="display:none;">
+</div>
+<div id="bar-notification" class="bar-notification">
+    <img src="/Content/Images/ico-close-notification-bar.png" class="close" alt="Close" title="Close">
+</div>
+
+
+
+<div class="master-wrapper-page">
+    
+    <div class="master-wrapper-content">
+        <script type="text/javascript">
+            AjaxCart.init(false, '.header-links .cart-qty', '.header-links .wishlist-qty', '#flyout-cart');
+        </script>
+        <div class="header">
+    
     <div class="header-logo">
         <a href="/" class="logo">&nbsp; </a>
     </div>
     <div class="header-links-wrapper">
         <div class="header-links">
     <ul>
+        
             <li><a href="/register" class="ico-register">Register</a></li>
             <li><a href="/login" class="ico-login">Log in</a></li>
-            <li><a href="/cart" class="ico-cart">Shopping cart</a>
-                <a href="/cart">(0)</a> </li>
-            <li><a href="/wishlist" class="ico-wishlist">Wishlist</a> <a href="/wishlist">
-                (0)</a> </li>
+                    <li id="topcartlink"><a href="/cart" class="ico-cart">Shopping cart</a>
+                <a href="/cart" class="cart-qty">(0)</a>
+            </li>
+                    <li><a href="/wishlist" class="ico-wishlist">Wishlist</a> <a href="/wishlist" class="wishlist-qty">
+                                                                                                (0)</a> </li>
         
     </ul>
+        <script type="text/javascript">
+            $('#topcartlink').live('mouseenter', function () {
+                $('#flyout-cart').addClass('active');
+            });
+            $('#topcartlink').live('mouseleave', function () {
+                $('#flyout-cart').removeClass('active');
+            });
+            $('#flyout-cart').live('mouseenter', function () {
+                $('#flyout-cart').addClass('active');
+            });
+            $('#flyout-cart').live('mouseleave', function () {
+                $('#flyout-cart').removeClass('active');
+            });
+        </script>
 </div>
 
-    </div>
-    <div class="header-selectors-wrapper">
-        <div class="header-taxDisplayTypeSelector">
-            
-        </div>
-        <div class="header-currencyselector">
-            
-        </div>
-        <div class="header-languageselector">
-            
-        </div>
-        
-        
-    </div>
-</div>
-
-            <div class="headermenu">
-    <div class="searchbox">
-<form action="/search" method="get" onsubmit="return check_small_search_form()">        <ul>
+        <div class="search-box">
+<form action="/search" method="get" onsubmit="return check_small_search_form()" novalidate="novalidate">        <ul>
             <li>
-                <input type="text" class="searchboxtext" id="small-searchterms" value="Search store" name="q" onfocus="if(this.value=='Search store')this.value=''" onblur="if(this.value=='') {this.value = 'Search store';}">&nbsp; </li>
+                <input type="text" class="search-box-text ui-autocomplete-input" id="small-searchterms" autocomplete="off" value="Search store" name="q" onfocus="if(this.value=='Search store')this.value=''" onblur="if(this.value=='') {this.value = 'Search store';}" role="textbox" aria-autocomplete="list" aria-haspopup="true">&nbsp;
+            </li>
             <li>
-                <input type="submit" class="searchboxbutton" id="btn-small-search" value="Search">
+                <input type="submit" class="button-1 search-box-button" value="Search">
             </li>
         </ul>
         <script type="text/javascript">
@@ -84,158 +99,329 @@
 
                 return true;
             }
+                
+                $(function () {
+                    $('#small-searchterms').autocomplete({
+                        delay: 500,
+                        minLength: 3,
+                        source: '/catalog/searchtermautocomplete',
+			            select: function( event, ui ) {
+				            $("#small-searchterms").val(ui.item.label);
+                            setLocation(ui.item.producturl);
+				            return false;
+			            }
+                    })
+                    .data("autocomplete")._renderItem = function( ul, item ) {
+                    var t = item.label;
+                    //html encode
+                    t = htmlEncode(t);
+                    return $("<li></li>")
+                    .data("item.autocomplete", item)
+                    .append("<a>" + t + "</a>")
+                    .appendTo(ul);
+                    };
+                });
+                
         </script>
 </form></div>
+        <div id="flyout-cart">
+    <div class="mini-shopping-cart">
+        <div class="count">
+You have no items in your shopping cart.        </div>
+    </div>
+</div>
 
+    </div>
+    <div class="header-selectors-wrapper">
+        <div class="tax-display-type-selector">
+            
+        </div>
+        <div class="currency-selector">
+            
+        </div>
+        <div class="language-selector">
+            
+        </div>
+        
+    </div>
+</div>
+
+        <div class="header-menu">
+            <ul class="top-menu">
     
-<ul class="topmenu">
     <li><a href="/">Home page</a></li>
     <li><a href="/search">Search</a> </li>
     <li><a href="/customer/info">My account</a></li>
         <li><a href="/blog">Blog</a></li>
-        <li><a href="/boards">Forums</a></li>
-    <li><a href="/contactus">Contact us</a></li>
+        <li><a href="/contactus">Contact us</a></li>
     
 </ul>
 
-</div>
-
+        </div>
+        
+        
+        <div class="ajax-loading-block-window" style="display: none">
+            <div class="loading-image">
+            </div>
+        </div>
+        <div class="master-wrapper-main">
             
-            <div class="master-wrapper-leftside-3">
+
+
+<div class="leftside-3">
         <div class="clear">
         </div>
+
     <div class="block block-category-navigation">
         <div class="title">
-            Categories
+            <strong>Categories</strong>
         </div>
         <div class="clear">
         </div>
         <div class="listbox">
             <ul>
-                    <li class="inactive"><a href="/c/57/join-our-newsletter">JOIN OUR NEWSLETTER
-                    </a></li>
-                    <li class="inactive"><a href="/c/49/reward-points">REWARD POINTS
-                    </a></li>
-                    <li class="inactive"><a href="/c/48/proof-of-age">PROOF OF AGE
-                    </a></li>
-                    <li class="inactive"><a href="/c/44/virtual-gift-cards">Virtual Gift Cards
-                    </a></li>
-                    <li class="inactive"><a href="/c/8/223-556">.223 / 5.56
-                    </a></li>
-                    <li class="inactive"><a href="/c/60/22-wmr">.22 WMR
-                    </a></li>
-                    <li class="inactive"><a href="/c/55/75-x-55">7.5 X 55
-                    </a></li>
-                    <li class="inactive"><a href="/c/11/762-x-39">7.62 x 39
-                    </a></li>
-                    <li class="inactive"><a href="/c/16/9mm-luger">9mm Luger
-                    </a></li>
-                    <li class="inactive"><a href="/c/18/308-762x51">308 / 7.62x51
-                    </a></li>
-                    <li class="inactive"><a href="/c/34/545-x-39-russian">5.45 x 39 Russian
-                    </a></li>
-                    <li class="inactive"><a href="/c/3/38-special">38 Special
-                    </a></li>
-                    <li class="inactive"><a href="/c/4/38-super">38 Super
-                    </a></li>
-                    <li class="inactive"><a href="/c/38/8mm-mauser">8mm Mauser
-                    </a></li>
-                    <li class="inactive"><a href="/c/52/410-gauge">410 Gauge
-                    </a></li>
-                    <li class="inactive"><a href="/c/61/41-mag">41 Mag
-                    </a></li>
-                    <li class="inactive"><a href="/c/19/40-smith-wesson">.40 Smith &amp; Wesson
-                    </a></li>
-                    <li class="inactive"><a href="/c/20/45-automatic">.45 Automatic
-                    </a></li>
-                    <li class="inactive"><a href="/c/42/45-gap">.45 GAP
-                    </a></li>
-                    <li class="inactive"><a href="/c/39/45-colt">.45 COLT
-                    </a></li>
-                    <li class="inactive"><a href="/c/33/50-bmg">.50 BMG
-                    </a></li>
-                    <li class="inactive"><a href="/c/1/380-auto">.380 Auto
-                    </a></li>
-                    <li class="inactive"><a href="/c/43/9x18-makarov">9x18 Makarov
-                    </a></li>
-                    <li class="inactive"><a href="/c/17/10mm">10mm
-                    </a></li>
-                    <li class="inactive"><a href="/c/22/12-gauge">12 Gauge
-                    </a></li>
-                    <li class="inactive"><a href="/c/56/20-gauge">20 Gauge
-                    </a></li>
-                    <li class="inactive"><a href="/c/24/22-long-rifle">.22 Long Rifle
-                    </a></li>
-                    <li class="inactive"><a href="/c/30/3006-springfield">30.06 Springfield
-                    </a></li>
-                    <li class="inactive"><a href="/c/28/30-carbine">.30 Carbine
-                    </a></li>
-                    <li class="inactive"><a href="/c/29/303-british">303 British
-                    </a></li>
-                    <li class="inactive"><a href="/c/31/32-acp">.32 ACP
-                    </a></li>
-                    <li class="inactive"><a href="/c/25/357-magnum">357 Magnum
-                    </a></li>
-                    <li class="inactive"><a href="/c/21/357-sig">357 SIG
-                    </a></li>
-                    <li class="inactive"><a href="/c/32/44-special">44 Special
-                    </a></li>
-                    <li class="inactive"><a href="/c/41/44-remington-magnum">44 Remington Magnum
-                    </a></li>
-                    <li class="inactive"><a href="/c/36/65-grendel">6.5 Grendel
-                    </a></li>
-                    <li class="inactive"><a href="/c/37/65-x-55-swedish">6.5 x 55 Swedish
-                    </a></li>
-                    <li class="inactive"><a href="/c/23/762-x-54r">7.62 x 54R
-                    </a></li>
-                    <li class="inactive"><a href="/c/51/762-nagant">7.62 NAGANT
-                    </a></li>
-                    <li class="inactive"><a href="/c/40/762-x-25">7.62 x 25
-                    </a></li>
-                    <li class="inactive"><a href="/c/50/magazines">MAGAZINES
-                    </a></li>
+    <li class="inactive">
+        <a href="/proof-of-age">PROOF OF AGE
+        </a>
+
+    </li>
+    <li class="inactive">
+        <a href="/join-our-newsletter">JOIN OUR NEWSLETTER
+        </a>
+
+    </li>
+    <li class="inactive">
+        <a href="/reward-points">REWARD POINTS
+        </a>
+
+    </li>
+    <li class="inactive">
+        <a href="/223-556">.223 / 5.56
+        </a>
+
+    </li>
+    <li class="inactive">
+        <a href="/762-x-39">7.62 x 39
+        </a>
+
+    </li>
+    <li class="inactive">
+        <a href="/380-auto">.380 Auto
+        </a>
+
+    </li>
+    <li class="inactive">
+        <a href="/30-carbine">.30 Carbine
+        </a>
+
+    </li>
+    <li class="inactive">
+        <a href="/75-x-55">7.5 X 55
+        </a>
+
+    </li>
+    <li class="inactive">
+        <a href="/357-magnum">357 Magnum
+        </a>
+
+    </li>
+    <li class="inactive">
+        <a href="/12-gauge">12 Gauge
+        </a>
+
+    </li>
+    <li class="inactive">
+        <a href="/308-762x51">308 / 7.62x51
+        </a>
+
+    </li>
+    <li class="inactive">
+        <a href="/545-x-39-russian">5.45 x 39 Russian
+        </a>
+
+    </li>
+    <li class="inactive">
+        <a href="/57-x-28">5.7 x 28
+        </a>
+
+    </li>
+    <li class="inactive">
+        <a href="/32-acp">.32 ACP
+        </a>
+
+    </li>
+    <li class="inactive">
+        <a href="/44-special">44 Special
+        </a>
+
+    </li>
+    <li class="inactive">
+        <a href="/50-bmg">.50 BMG
+        </a>
+
+    </li>
+    <li class="inactive">
+        <a href="/magazines">MAGAZINES
+        </a>
+
+    </li>
+    <li class="inactive">
+        <a href="/45-colt">.45 COLT
+        </a>
+
+    </li>
+    <li class="inactive">
+        <a href="/9mm-luger">9mm Luger
+        </a>
+
+    </li>
+    <li class="inactive">
+        <a href="/762-x-54r">7.62 x 54R
+        </a>
+
+    </li>
+    <li class="inactive">
+        <a href="/45-automatic">.45 Automatic
+        </a>
+
+    </li>
+    <li class="inactive">
+        <a href="/357-sig">357 SIG
+        </a>
+
+    </li>
+    <li class="inactive">
+        <a href="/25-acp">.25 ACP
+        </a>
+
+    </li>
+    <li class="inactive">
+        <a href="/40-smith-wesson">.40 Smith &amp; Wesson
+        </a>
+
+    </li>
+    <li class="inactive">
+        <a href="/38-special">38 Special
+        </a>
+
+    </li>
+    <li class="inactive">
+        <a href="/8mm-mauser">8mm Mauser
+        </a>
+
+    </li>
+    <li class="inactive">
+        <a href="/3006-springfield">30.06 Springfield
+        </a>
+
+    </li>
+    <li class="inactive">
+        <a href="/65x52-carcano">6.5x52 CARCANO
+        </a>
+
+    </li>
+    <li class="inactive">
+        <a href="/45-gap">.45 GAP
+        </a>
+
+    </li>
+    <li class="inactive">
+        <a href="/762-nagant">7.62 NAGANT
+        </a>
+
+    </li>
+    <li class="inactive">
+        <a href="/410-gauge">410 Gauge
+        </a>
+
+    </li>
+    <li class="inactive">
+        <a href="/8x56-rs-2">8x56 RS
+        </a>
+
+    </li>
+    <li class="inactive">
+        <a href="/9x18-makarov">9x18 Makarov
+        </a>
+
+    </li>
+    <li class="inactive">
+        <a href="/38-sw">.38 S/W
+        </a>
+
+    </li>
+    <li class="inactive">
+        <a href="/44-remington-magnum">44 Remington Magnum
+        </a>
+
+    </li>
+    <li class="inactive">
+        <a href="/10mm">10mm
+        </a>
+
+    </li>
+    <li class="inactive">
+        <a href="/38-super">38 Super
+        </a>
+
+    </li>
+    <li class="inactive">
+        <a href="/20-gauge">20 Gauge
+        </a>
+
+    </li>
+    <li class="inactive">
+        <a href="/303-british">303 British
+        </a>
+
+    </li>
+    <li class="inactive">
+        <a href="/22-wmr-1">.22 WMR
+        </a>
+
+    </li>
+    <li class="inactive">
+        <a href="/41-mag">41 Mag
+        </a>
+
+    </li>
+    <li class="inactive">
+        <a href="/65-grendel">6.5 Grendel
+        </a>
+
+    </li>
+    <li class="inactive">
+        <a href="/22-long-rifle">.22 Long Rifle
+        </a>
+
+    </li>
+    <li class="inactive">
+        <a href="/65-x-55-swedish">6.5 x 55 Swedish
+        </a>
+
+    </li>
+    <li class="inactive">
+        <a href="/762-x-25">7.62 x 25
+        </a>
+
+    </li>
             </ul>
         </div>
     </div>
         <div class="clear">
         </div>
-
         <div class="clear">
         </div>
-        <div class="clear">
-        </div>
-
-<div class="block block-info">
-    <div class="title">
-        Information
-    </div>
-    <div class="clear">
-    </div>
-    <div class="listbox">
-        <ul>
-            <li><a href="/contactus">Contact us</a> </li>
-            <li><a href="/t/aboutus">About us</a></li>
-                <li><a href="/blog">Blog</a></li>
-                <li><a href="/boards">Forums</a></li>
-                <li><a href="/recentlyviewedproducts">Recently viewed products</a></li>
-                <li><a href="/compareproducts">Compare products list</a></li>            
-                <li><a href="/sitemap">Sitemap</a></li>
-            <li><a href="/t/shippinginfo">Shipping &amp; Returns</a></li>
-            <li><a href="/t/privacyinfo">Privacy Notice</a></li>
-            <li><a href="/t/conditionsofUse">Conditions of Use</a></li>
-        </ul>
-    </div>
-</div>
         <div class="clear">
         </div>
         <div class="clear">
         </div>
 </div>
-<div class="master-wrapper-center-3">
-    <div class="master-wrapper-cph-3">        
-        
-        <div class="topicpage" id="phTopic">
-    <div id="phTitle">
+<div class="center-3">
+    
+    
+<div class="page topic-page" id="ph-topic">
+    <div id="ph-title">
         <div class="page-title">
             <h1>
                 Privacy policy</h1>
@@ -243,7 +429,7 @@
         <div class="clear">
         </div>
     </div>
-    <div class="topicpage-body">
+    <div class="page-body">
         <p align="center"><span style="color: #0000ff; font-size: medium;"><strong>Discount Distributors </strong><strong>d/b/a "AMMOMAN.COM"<br></strong></span><span style="color: #ff0000; font-size: large;"><strong>PRIVACY POLICY</strong></span></p>
 <p></p>
 <p align="center"><span style="color: #ff0000; font-size: small;"><strong>AMMOMAN.COM</strong></span><span style="color: #000000; font-size: small;"> </span><small><span>has created this privacy policy to demonstrate our commitment to privacy. Your privacy is very important to us.</span></small></p>
@@ -272,78 +458,53 @@
     </div>
 </div>
 
-        
-    </div>
+    
 </div>
-<div class="master-wrapper-rightside-3">
-        <div class="clear">
-        </div>
-<div class="block block-shoppingcart">
-    <div class="title">
-        Shopping cart
-    </div>
-    <div class="clear">
-    </div>
-    <div class="listbox">
-You have no items in your shopping cart.    </div>
-</div>
+<div class="rightside-3">
         <div class="clear">
         </div>
 <div class="block block-newsletter">
     <div class="title">
-        Subscribe to newsletters
+        <strong>Newsletter</strong>
     </div>
     <div class="clear">
     </div>
     <div class="listbox">
-<form action="/t/privacyinfo" method="post">            <div id="pnl-newsletter-subscribe">
-                Email:
-                <input data-val="true" data-val-email="*" data-val-required="*" id="Email" name="Email" type="text" value="">
-                <span class="field-validation-valid" data-valmsg-for="Email" data-valmsg-replace="true"></span>
-                <div class="options">
-                    <input id="newsletter-subscribe" type="radio" name="newsletter-subscribe" value="newsletter-subscribe" checked="checked">
-                    <label for="newsletter-subscribe">Subscribe</label>
-                    <input id="newsletter-unsubscribe" type="radio" name="newsletter-subscribe" value="newsletter-unsubscribe">
-                    <label for="newsletter-unsubscribe">Unsubscribe</label>
-                </div>
-                <div class="clear">
-                </div>
-                <div class="buttons">
-                    <input type="submit" name="newsletter-subscribe-button" value="Submit" id="newsletter-subscribe-button" class="newsletterbox-subscribebutton">
-                    <span id="subscribe-loading-progress" style="display: none;">Wait...
-                            <img src="/Content/Images/ajax_loader_small.gif" alt="Wait...">
-                        </span>
-                </div>
+        <div id="newsletter-subscribe-block">
+            Sign up for our newsletter:
+            <input id="newsletter-email" name="NewsletterEmail" type="text" value="">
+            <span class="field-validation-valid" data-valmsg-for="NewsletterEmail" data-valmsg-replace="true"></span>
+            <div class="buttons">
+                <input type="button" value="Subscribe" id="newsletter-subscribe-button" class="button-1 newsletter-subscribe-button">
+                <span id="subscribe-loading-progress" style="display: none;" class="please-wait">Wait...</span>
             </div>
-            <div class="clear">
-            </div>
-            <div id="pnl-newsletter-result">
-            </div>
-</form>    </div>
+        </div>
+        <div class="clear">
+        </div>
+        <div id="newsletter-result-block">
+        </div>
+    </div>
     <script type="text/javascript">
         $(document).ready(function () {
             $('#newsletter-subscribe-button').click(function () {
                 
-                var subscribe = 'true';
-                if($('#newsletter-unsubscribe').is(':checked')) { 
-                    subscribe = 'false';
-                }
-                var email = $("#Email").val();
+                var email = $("#newsletter-email").val();
                 var subscribeProgress = $("#subscribe-loading-progress");
                 subscribeProgress.show();
                 $.ajax({
-                    cache:false,
+                    cache: false,
                     type: "POST",
-                    url: "/Newsletter/SubscribeNewsletter",
-                    data: "subscribe=" + subscribe + "&email=" +email ,
+                    url: "/subscribenewsletter",
+                    data: { "email": email },
                     success: function (data) {
                         subscribeProgress.hide();
-                        $("#pnl-newsletter-result").html(data.Result);
+                        $("#newsletter-result-block").html(data.Result);
                          if (data.Success) {
-                            $('#pnl-newsletter-subscribe').hide();                            
+                            $('#newsletter-subscribe-block').hide();
+                            $('#newsletter-result-block').show();
                          }
                          else {
-                            $('#pnl-newsletter-result').fadeIn("slow").delay(2000).fadeOut("slow");
+                            $('#newsletter-result-block').fadeIn("slow").delay(2000).fadeOut("slow");
                          }
                     },
                     error:function (xhr, ajaxOptions, thrownError){
@@ -359,34 +520,61 @@ You have no items in your shopping cart.    </div>
         <div class="clear">
         </div>
         <div class="clear">
-        </div>        
+        </div>  
+<div class="block block-info">
+    <div class="title">
+        <strong>Information</strong>
+    </div>
+    <div class="clear">
+    </div>
+    <div class="listbox">
+        <ul>
+            
+            <li><a href="/contactus">Contact us</a> </li>
+            <li><a href="/t/aboutus">About us</a></li>
+                <li><a href="/news">News</a></li>
+                            <li><a href="/blog">Blog</a></li>
+                                                    <li><a href="/recentlyviewedproducts">Recently viewed products</a></li>
+                            <li><a href="/compareproducts">Compare products list</a></li>            
+                            <li><a href="/sitemap">Sitemap</a></li>
+            <li><a href="/t/shippinginfo">Shipping &amp; Returns</a></li>
+            <li><a href="/t/privacyinfo">Privacy Notice</a></li>
+            <li><a href="/t/conditionsofUse">Conditions of Use</a></li>
+            
+        </ul>
+    </div>
+</div>
+        <div class="clear">
+        </div>   
         <div class="clear">
         </div>
 </div>
-
-            
-            <div class="clear">
-            </div>
         </div>
-        <div class="footer">
+        
+        
+    </div>
+    <div class="footer">
     <div class="footer-poweredby">
-        Powered by <a href="http://www.nopcommerce.com/">nopCommerce</a>
+        Powered by <a href="http://www.nopcommerce.com/">nopCommerce</a>. Designed by <a href="#">Lemus®</a>
         <!--Would you like
                 to remove the "Powered by nopCommerce" link in the bottom of the footer? Find more
                 info here http://www.nopcommerce.com/copyrightremoval.aspx -->
     </div>
     <div class="footer-disclaimer">
-        Copyright © 2012 AMMOMAN.com. All rights reserved.
+        Copyright © 2013 AMMOMAN.com. All rights reserved.
     </div>
-    <div class="footer-storetheme">
+    <div class="footer-store-theme">
         
     </div>
     
     
 </div>
 
-    </div>
+</div>
+
+
+    
     
 
 
-</body></html>
+<ul class="ui-autocomplete ui-menu ui-widget ui-widget-content ui-corner-all" role="listbox" aria-activedescendant="ui-active-menuitem" style="z-index: 1; top: 0px; left: 0px; display: none;"></ul></body></html>
