@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the princessauto.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130223708id_/http%3A//www.princessauto.com/pal/info/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the princessauto.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531125117id_/http%3A//www.princessauto.com/pal/info/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy | Princess Auto
 
@@ -35,7 +35,7 @@ By Phone: 1-800-665-8685
 
 By Fax: 1-800-265-4212
 
-By email: Send an email to [mailorder@princessauto.com](mailto:mailorder@princessauto.com?subject=Remove)
+By email: Send an email to [mailorder@princessauto.com](https://web.archive.org/pal/info/mailto:mailorder@princessauto.com?subject=Remove)
 
 **If you have any questions regarding this policy or the way we collect, use or disclose your personal information, please feel free to choose from one of the following options:**
 
@@ -43,7 +43,7 @@ By email: Send an email to [mailorder@princessauto.com](mailto:mailorder@princes
 
 -Contact our Privacy Officer: 
 
-via email at [privacy@princessauto.com](mailto:privacy@princessauto.com), or 
+via email at [privacy@princessauto.com](https://web.archive.org/pal/info/mailto:privacy@princessauto.com), or 
 
 by mail: Attn: Privacy Officer to Princess Auto, P.O. Box 1005, Winnipeg, MB R3C 2W7 or 
 
