@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iaai.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015194101id_/https%3A//www.iaai.com/Auctions/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iaai.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531151148id_/https%3A//www.iaai.com/Auctions/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Insurance Auto Auctions: Policies: Privacy Policy: Auctions
 
@@ -21,7 +21,7 @@ Collective Data and Cookies
 
     IAA’s Site deposits certain bits of information called "cookies" in a visitor's computer. A cookie is a small piece of data that is sent to your browser from a web server and is stored on your computer's hard drive. A cookie cannot read data off your hard disk or read cookie files created by other sites. Cookies do not damage your system. Cookies are sent back only to the web site that deposited them when a visitor returns to that site. We use cookies to identify which areas of our Site you have visited or used. Cookies can tell us how and when pages in our Site are visited and by how many people. This technology does not collect personally identifiable information, only information that is in aggregate form or that does not otherwise reveal your identity. With this information, we learn about visitor’s browsing habits within this Site, and we hope to improve our Site with this technology. 
 
-Third paty vendors may show our ads on sites on the internet. These third party vendors may use cookies to serve ads based on a user’s prior visits to our website. You may opt out of this use of cookies by visiting the [Network Advertising Initiative opt out page](http://www.networkadvertising.org/managing/opt_out.asp). 
+Third party vendors may show our ads on sites on the internet. These third party vendors may use cookies to serve ads based on a user’s prior visits to our website. You may opt out of this use of cookies by visiting the [Network Advertising Initiative opt out page](http://www.networkadvertising.org/managing/opt_out.asp). 
 
 You can choose whether to accept cookies by changing the settings of your browser. You can set your browser to refuse all cookies, or allow your browser to show you when a cookie is being sent. If you choose not to accept these cookies, your experience at our Site and other web sites may be diminished and some features may not work as intended. For example, you may be prevented you from purchasing products. 
 
@@ -60,7 +60,7 @@ Your Consent to this Privacy Policy
     By using this Site you consent to the collection and use of information by IAA as specified in this Privacy Policy and agree to be bound by the provisions set forth in this policy. If we decide to change our Privacy Policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. Specific areas or pages of this Site may include additional or different provisions relating to collection and disclosure of personal information. In the event of a conflict between such provisions and this Privacy Policy, such specific terms shall control.
 Terms of Use  
 
-    Please read our [Terms of Use](https://web.archive.org/web/20121015194101id_/https%3A//www.iaai.com/Auctions/TermsOfUse.aspx) carefully before using this Site. 
+    Please read our [Terms of Use](https://web.archive.org/web/20130531151148id_/https%3A//www.iaai.com/Auctions/TermsOfUse.aspx) carefully before using this Site. 
     This Website Privacy Policy is effective as of August 7th, 2007. 
 
 Unless otherwise indicated, all material on this Site © 2007 Insurance Auto Auctions, Inc. All rights reserved.
