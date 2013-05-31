@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the listography.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231053917id_/http%3A//listography.com/action/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the listography.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531210809id_/http%3A//listography.com/action/privacy) for the most accurate reproduction.*
 
 # listography: privacy policy
 
