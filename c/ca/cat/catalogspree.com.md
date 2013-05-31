@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the catalogspree.com privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217052036id_/http%3A//catalogspree.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catalogspree.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531113601id_/http%3A//catalogspree.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Catalog Spree
 
@@ -32,7 +32,7 @@ When you use our Services (such as when you visit our Site or interact with a Pa
 
 ### Our Policy Toward Children
 
-IF YOU ARE UNDER 13 YEARS OF AGE, THEN PLEASE DO NOT USE OR ACCESS THE SERVICES AT ANY TIME OR IN ANY MANNER. Protecting the privacy of young children is especially important. For that reason, Padopolis does not knowingly collect or maintain personally identifiable information from persons under 13 years-of-age. If Padopolis learns that personally-identifiable information of persons less than 13-years-of-age has been collected on or through the Services, then Padopolis will take the appropriate steps to delete this information. If you are the parent or legal guardian of a child under 13 who uses the Services, then please contact Padopolis info@padopolis.com to have that child's information deleted. 
+IF YOU ARE UNDER 13 YEARS OF AGE, THEN PLEASE DO NOT USE OR ACCESS THE SERVICES AT ANY TIME OR IN ANY MANNER. Protecting the privacy of young children is especially important. For that reason, Padopolis does not knowingly collect or maintain personally identifiable information from persons under 13 years-of-age. If Padopolis learns that personally-identifiable information of persons less than 13-years-of-age has been collected on or through the Services, then Padopolis will take the appropriate steps to delete this information. If you are the parent or legal guardian of a child under 13 who uses the Services, then please contact Padopolis [info@catalogspree.com](mailto:info@catalogspree.com) to have that child's information deleted. 
 
 ### Cookies and Other Technologies
 
@@ -88,4 +88,4 @@ This Privacy Policy may be revised periodically, and this will be reflected by a
 
 ### Padopolis Contact Information
 
-Please contact Padopolis with any questions or comments about this Privacy Policy, your personal information, and our third-party disclosure practices at: Padopolis, Inc., 4962 El Camino Real, Suite 218 Los Altos, CA 94022, USA or by email at info@padopolis.com. We will respond to your inquiry within 30 days of its receipt. 
+Please contact Padopolis with any questions or comments about this Privacy Policy, your personal information, and our third-party disclosure practices at: Padopolis, Inc., 4962 El Camino Real, Suite 218 Los Altos, CA 94022, USA or by email at [info@catalogspree.com](mailto:info@catalogspree.com). We will respond to your inquiry within 30 days of its receipt. 
