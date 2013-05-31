@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the scorebig.com privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105220617id_/https%3A//www.scorebig.com/home/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scorebig.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531235028id_/https%3A//www.scorebig.com/home/privacy-policy) for the most accurate reproduction.*
 
-# ScoreBig.com - Privacy Policy
+# ScoreBig - Privacy Policy
 
 Thank you for accessing the web site ("Site") of ScoreBig, Inc. ("ScoreBig.com"). We respect your privacy and want to protect your personal information. To learn more, please read this Privacy Policy.
 
@@ -10,11 +10,13 @@ This Privacy Policy applies only to this Site. This privacy policy does not nece
 
 We are not responsible for the content or privacy practices on any non-ScoreBig.com web site to which this Site links or that links to this Site.
 
-ScoreBig.com has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at 1-877-SCOREBIG or via [email](http://help.scorebig.com/anonymous_requests/new). If you are not satisfied with our response you can contact TRUSTe [here](http://watchdog.truste.com/pvr.php?page=complaint). 
+[ ](https://privacy.truste.com/privacy-seal/ScoreBig/validation?rid=5674902a-655e-4bd8-a2e4-47917a53eca3 "TRUSTe online privacy certification")
+
+ScoreBig.com has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this Web site, www.scorebig.com. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at 1-877-SCOREBIG or via [email](http://help.scorebig.com/anonymous_requests/new). If you are not satisfied with our response you can contact TRUSTe [here](http://watchdog.truste.com/pvr.php?page=complaint). 
 
 ###  INFORMATION COLLECTION AND USE
 
-####  1\. Information Collection.
+###  1\. Information Collection.
 
 We collect information from you in several different ways on this Site. One goal in collecting personal information from you is to provide an efficient, meaningful, and customized experience. For example, we can use your personal information to:
 
@@ -24,6 +26,8 @@ We collect information from you in several different ways on this Site. One goal
   * alert you to new information, products, and services that we offer.
 
 
+
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [help@scorebig.com](mailto:help@scorebig.com). We will retain and use your information as necessary to comply with our legal, tax and accounting obligations, resolve disputes, and enforce our agreements ("Retention Obligations").
 
 (a) Registration and Ordering. Before using certain parts of this Site or ordering products, you must complete an online registration form. During registration, you will be prompted to provide to us certain personal information, including but not limited to your name and email address. During ordering, you will be prompted to provide to us certain personal information, including but not limited to, shipping and billing address, phone number, and credit card number. These kinds of personal information are used for billing purposes, to fulfill your orders, to communicate with you about your order and our site, and for internal marketing purposes. If we encounter a problem when processing your order, we use the personal information to contact you.
 
@@ -53,7 +57,7 @@ We collect information from you in several different ways on this Site. One goal
 
 (ii) Additionally, to help you buy products and provide customer service to you, we must provide your credit card number to financial-services corporations such as credit-card processors and issuers. When we submit your credit card number for authorization, we use state-of-the-art data encryption to protect your information. (More on this below in Data Security.)
 
-(iii) We also partner with live event venues, teams, leagues, promoters, artists and others who manage the live events we sell tickets for. When you purchase or bid on tickets, we provide them some personally identifiable information such as your name, shipping address, email, and/or phone number so that they may fulfill your ticket purchases, contact you about the event or other events you may be interested in.
+(iii) We also partner with live event venues, teams, leagues, promoters, artists and others who manage the live events we sell tickets for. When you purchase or bid on tickets, we provide them some personal information such as your name, shipping address, email, and/or phone number so that they may fulfill your ticket purchases, contact you about the event or other events you may be interested in.
 
 (iv) We may offer products or promotions from third parties on our website. If you choose to purchase any third party products or participate in any third party promotions, you authorize us to share your personal information (such as name, mailing address, email address, and/or phone number) with these third parties, who may contact you about the promotion or other promotions you might be interested in. We will only share your personal information with these partners if you choose to purchase their products or participate in their promotions or offers. For example, we may offer sports team branded merchandise via a third party supplier, and if you purchased this merchandise, we would share your personal information with the merchant in order to facilitate the transaction.
 
@@ -69,18 +73,32 @@ This Site incorporates physical, electronic, and administrative procedures to sa
 
 ###  OPT OUT/CORRECTIONS
 
-On your request, we will (a) correct or update your personal information; (b) stop sending certain non-membership or order-related emails to your email address; and/or (c) disable your account to prevent any future purchases through that account. You can make these requests by telephoning or [emailing](http://help.scorebig.com/anonymous_requests/new) your request to our Customer Support department at 1-877-726-7324. Please do not email your credit-card number or other sensitive information.
+On your request, we will (a) correct, update or, in accordance with our Retention Obligations, delete your personal information; (b) stop sending certain non-membership or order-related emails to your email address; and/or (c) disable your account to prevent any future purchases through that account. You can make these requests by telephoning or [emailing](http://help.scorebig.com/anonymous_requests/new) your request to our Customer Support department at 1-877-726-7324. Please do not email your credit-card number or other sensitive information.
 
 ###  OFFLINE COLLECTION, USE & DISCLOSURE OF INFORMATION
 
 As you might expect, the majority of information that we collect is obtained through our Site, and this Privacy Policy applies only to that online collection of personal information. We also collect information offline, where we also try to protect the privacy of your personal information. One example involves someone calling us to place an order or to ask questions. When someone calls, we will ask only for the personal information we need in order to place the order or to answer the question. When we need to store information (such as order information) we will enter it into our database. (See the Data Security section above for more information). Another example involves faxes. If you fax something to us, we will act upon the fax and then either store or shred the fax, depending on whether there is any need to retain the information. There are other ways we could learn of personal information offline (for example, we suppose someone could send us a letter including some return address information), and this Privacy Policy doesn't discuss or try to predict all of those methods or uses. As we mentioned, we primarily sell merchandise, not information, and we will try to treat offline collection, uses, and disclosures consistently with our relevant online practices.
 
+### REFERRALS
+
+If you choose to use our referral service to tell a friend about our site, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site, and a limited number of reminder emails. ScoreBig, Inc. stores this information for the sole purpose of sending these invitation emails and tracking the success of our referral program.
+
+Your friend may contact us at 1-877-SCOREBIG or via [email](http://help.scorebig.com/anonymous_requests/new) to request that we remove this information from our database.
+
+### SOCIAL MEDIA WIDGETS
+
+Our Web site includes Social Media Features, such as the Facebook Like button. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+
+### SINGLE SIGN-ON
+
+You can log in to our site using sign-in services such as Facebook Connect. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
+
 ###  CALIFORNIA PRIVACY RIGHTS
 
-California Law permits our customers who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an [e-mail](http://help.scorebig.com/anonymous_requests/new) or write to us at 1800 N. Highland Ave, first Floor, Los Angeles, CA 90028. Attn: Customer Service.
+California Law permits our customers who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an [email](http://help.scorebig.com/anonymous_requests/new) or write to us at 1800 N. Highland Ave, first Floor, Los Angeles, CA 90028. Attn: Customer Service.
 
 ###  UPDATES TO THIS POLICY
 
-If we change or update this Privacy Policy, we will post changes and updates on this Site so that you will always be aware of what information we collect, use and disclose. We encourage you to review this Privacy Policy from time to time so you will know if the Privacy Policy has been changed or updated. If we make material changes to this Privacy Policy, we will notify you here, by email, or by means of a notice on our home page. If you have any questions about the Privacy Policy, please contact our Customer Service department at 1-877-726-7324 or via [email](http://help.scorebig.com/anonymous_requests/new).
+If we change or update this Privacy Policy, we will post changes and updates on this Site so that you will always be aware of what information we collect, use and disclose. We encourage you to review this Privacy Policy from time to time so you will know if the Privacy Policy has been changed or updated. If we make material changes to this Privacy Policy, we will notify you here, by email, or by means of a notice on our home page prior to the changes taking effect. If you have any questions about the Privacy Policy, please contact our Customer Service department at 1-877-726-7324 or via [email](http://help.scorebig.com/anonymous_requests/new).
 
-This Privacy Policy was last updated on September 14, 2010
+This Privacy Policy was last updated on February 25, 2013
