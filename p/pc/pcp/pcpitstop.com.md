@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pcpitstop.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116014347id_/http%3A//pcpitstop.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcpitstop.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531202444id_/http%3A//www.pcpitstop.com/about/privacy.asp) for the most accurate reproduction.*
 
 # PC Pitstop FAQ
 
-**Last Amended:** January 1, 2010
+**Last Amended:** February 7, 2013
 
 Effective March 1, 2000 
 
@@ -13,6 +13,7 @@ To protect your privacy, we provide this notice explaining our complete online i
   * Cookies
   * PC Pitstop Support Forums
   * Our Commitment to Data Security
+  * Updating your Email Preferences
   * How You Can Access or Correct Your Information
   * How to Contact Us
 
@@ -65,6 +66,14 @@ PC Pitstop's Support Forums are located at <http://support.pcpitstop.com/>. The 
 
 To prevent unauthorized access, maintain data accuracy and ensure the correct use of information, we have put in place appropriate physical, electronic and managerial procedures to safeguard and secure the information we collect online. 
 
+## Updating Email Preferences
+
+If you prefer to not receive emails from PC Pitstop about our products or services, please follow the steps below:
+
+1\. Visit the PC Pitstop [email preferences page](http://cart.pcpitstop.com/emailPreferences.asp).  
+2\. Enter the email that PC Pitstop emails are being delivered to.  
+3\. Under current subscriptions - Uncheck the box next to the email you no longer wish to receive AND click submit.
+
 ## How You Can Access Or Correct Your Information
 
 **Account information:** When you have created an account, you can access to review all your personally identifiable information that we collect at any time. Browse to [http://www.pcpitstop.com/betapit/default.asp](https://web.archive.org/betapit/default.asp) and log in with your e-mail address and password. You may then change your login information by selecting the Change Login link. [Click here](https://web.archive.org/offsite.asp?{newschg|privacy}) to update your newsletter profile or opt-out of our newsletter. For instructions on changing your forums profile, see the PC Pitstop Support Forums section above. 
@@ -76,3 +85,9 @@ If you have forgotten your password, we provide a mechanism that e-mails your pa
 ## How to Contact Us
 
 Should you have any other questions or concerns about these privacy policies, please contact us via our web site feedback page at [http://www.pcpitstop.com/contact.asp](https://web.archive.org/contact.asp). 
+
+PC Pitstop, LLC  
+2515 West 22nd Street  
+Sioux City, Iowa 51103  
+pitstopsales@pcpitstop.com  
+843-628-1547
