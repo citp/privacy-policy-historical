@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webfreehosting.net privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230173807id_/http%3A//webfreehosting.net/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webfreehosting.net privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531122002id_/http%3A//webfreehosting.net/terms) for the most accurate reproduction.*
 
 # Privacy Policy - WebFreeHosting.net
 
