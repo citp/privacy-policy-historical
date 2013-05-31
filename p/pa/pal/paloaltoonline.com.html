@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the paloaltoonline.com privacy policy that was archived on 2012-05-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120502173702id_/http%3A//www.paloaltoonline.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the paloaltoonline.com privacy policy that was archived on 2013-05-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130531210712id_/http%3A//paloaltoonline.com/privacy.php) for the most accurate reproduction.-->
 
 <html><head>
 <!-- START NewsBeat.com tracking code -- added 8/2/11 -- also in the footer -->
@@ -10,17 +10,17 @@
 <meta name="google-site-verification" content="nYgpA98DbRIUcTqrObZ_gMGbDXenQOyJv-nyZIwWX6w">
 <meta name="description" content="Palo Alto Online is the online community site for Palo Alto, CA, and includes the online version of the Palo Alto Weekly.">
 <meta name="keywords" content="Palo Alto,Weekly,Newspaper,transportation,arts,dialogue,information,focal,community,Bay Area,San Francisco,news,media,daily,daily update,California,Silicon Valley">
-<link href="http://www.paloaltoonline.com/styles.css" rel="stylesheet" type="text/css">
-<link href="http://www.paloaltoonline.com/styles_large.css" rel="alternate stylesheet" type="text/css" title="large">
+<link href="http://paloaltoonline.com/styles.css" rel="stylesheet" type="text/css">
+<link href="http://paloaltoonline.com/styles_large.css" rel="alternate stylesheet" type="text/css" title="large">
 <script type="text/javascript" src="http://www.embarcaderopublishing.com/class/video_flowplayer_swfobject.js"></script>
 
 <!-- START RSS Feed Info -->
-<link rel="alternate" type="application/rss+xml" title="Palo Alto Online - Top Stories [RSS]" href="http://www.paloaltoonline.com/news/rss.php?section=1">
-<link rel="alternate" type="application/rss+xml" title="Palo Alto Online - TownSquare [RSS]" href="http://www.paloaltoonline.com/square/rss.php">
-<link rel="alternate" type="application/rss+xml" title="Palo Alto Online - Sports [RSS]" href="http://www.paloaltoonline.com/news/rss.php?section=2">
-<link rel="alternate" type="application/rss+xml" title="Palo Alto Online - Real Estate [RSS]" href="http://www.paloaltoonline.com/news/rss.php?section=3">
-<link rel="alternate" type="application/rss+xml" title="Palo Alto Online - Events [RSS]" href="http://www.paloaltoonline.com/news/rss.php?section=4">
-<link rel="alternate" type="application/rss+xml" title="Palo Alto Online - Movies [RSS]" href="http://www.paloaltoonline.com/news/rss.php?section=5">
+<link rel="alternate" type="application/rss+xml" title="Palo Alto Online - Top Stories [RSS]" href="http://paloaltoonline.com/news/rss.php?section=1">
+<link rel="alternate" type="application/rss+xml" title="Palo Alto Online - TownSquare [RSS]" href="http://paloaltoonline.com/square/rss.php">
+<link rel="alternate" type="application/rss+xml" title="Palo Alto Online - Sports [RSS]" href="http://paloaltoonline.com/news/rss.php?section=2">
+<link rel="alternate" type="application/rss+xml" title="Palo Alto Online - Real Estate [RSS]" href="http://paloaltoonline.com/news/rss.php?section=3">
+<link rel="alternate" type="application/rss+xml" title="Palo Alto Online - Events [RSS]" href="http://paloaltoonline.com/news/rss.php?section=4">
+<link rel="alternate" type="application/rss+xml" title="Palo Alto Online - Movies [RSS]" href="http://paloaltoonline.com/news/rss.php?section=5">
 <link rel="alternate" type="application/rss+xml" title="Fogster Classifieds [RSS]" href="http://www.Fogster.com/rss.php">
 <!-- END RSS Feed Info -->
 
@@ -81,8 +81,42 @@ GA_googleAddSlot("ca-pub-2203864489454098", "paloalto_everythingelse_300x250_fea
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 
+
+
+//Evil Robot Detection -- Added by FAB 6/6/2012
+// http://stkywll.com/2012/04/27/annoying-robots-a-solution-for-google-analytics/
+
+	var category = 'trafficQuality';
+	var dimension = 'botDetection';
+	var human_events = ['onkeydown','onmousemove'];
+
+	if ( navigator.appName == 'Microsoft Internet Explorer' && !document.referrer) {
+		for(var i = 0; i < human_events.length; i++){
+			document.attachEvent(human_events[i], ourEventPushOnce);
+		}
+	}else{
+		_gaq.push( [ '_trackEvent', category, dimension, 'botExcluded', 1, true ] );
+	}
+
+	function ourEventPushOnce(ev) {
+
+		_gaq.push( [ '_trackEvent', category, dimension, 'on' + ev.type, 1, true ] );
+
+		for(var i = 0; i < human_events.length; i++){
+			document.detachEvent(human_events[i], ourEventPushOnce);
+		}
+
+	} // end ourEventPushOnce()
+
+	//End Evil Robot Detection
+
+
+
 </script>
 <!-- Google Analytics Code END -->
+
+
+
 
 <script language="JavaScript">
 		<!--
@@ -108,8 +142,9 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 	
 
 
-<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0"> 
 
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onload="DelayFade()">
+	
 <style type="text/css">
 <!--
 .search_input {
@@ -124,7 +159,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 
 <table width="1154" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
-	<td width="300" align="center" valign="middle" bgcolor="#FFFFFF"><p align="left"><a href="http://www.paloaltoonline.com"><img src="http://www.paloaltoonline.com/art/top_logo.gif" height="100" border="0"></a></p></td>
+	<td width="300" align="center" valign="middle" bgcolor="#FFFFFF"><p align="left"><a href="http://paloaltoonline.com"><img src="http://paloaltoonline.com/art/top_logo.gif" height="100" border="0"></a></p></td>
     <td valign="bottom" bgcolor="#FFFFFF">
 
 <table width="100%" border="0" bgcolor="#FFFFFF">
@@ -145,7 +180,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
             <input type="submit" name="sa" value="Search" /><br />
             <input id=custom type="radio" name="sitesearch" value="www.PaloAltoOnline.com" checked> PaloAltoOnline.com 
             <input id=custom type="radio" name="sitesearch" value="www.PaloAltoOnline.com/square"> Town Square  
-            <input id=www type="radio" name="sitesearch" value=""> <img src="http://www.paloaltoonline.com/art/google.gif" border="0" height="20" align="absmiddle" alt="Google"/>
+            <input id=www type="radio" name="sitesearch" value=""> <img src="http://paloaltoonline.com/art/google.gif" border="0" height="20" align="absmiddle" alt="Google"/>
           </div>
         </form>
         <script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>-->
@@ -165,8 +200,8 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
     
     
 		</td>
-		<td width="220px" align="center" valign="center" class="news_headline" style="border-left: solid thin #CCCCCC;"><a href="http://www.paloaltoonline.com/square/index.php?i=7&amp;from=http://www.paloaltoonline.com/privacy.php">Login</a> | <a href="http://www.paloaltoonline.com/square/index.php?i=4">Register</a><br>
-		<span class="news_paragraph"><a href="http://www.paloaltoonline.com/square/index.php?i=19">Sign up for eBulletins</a></span><br>
+		<td width="220px" align="center" valign="center" class="news_headline" style="border-left: solid thin #CCCCCC;"><a href="http://paloaltoonline.com/square/index.php?i=7&amp;from=http://paloaltoonline.com/privacy.php">Login</a> | <a href="http://paloaltoonline.com/square/index.php?i=4">Register</a><br>
+		<span class="news_paragraph"><a href="http://paloaltoonline.com/square/index.php?i=19">Sign up for eBulletins</a></span><br>
 		<div class="news_paragraph" style="padding-top: 3px; float: left; width: 220px;"><div style="left:50%; margin-left:45px;"><a href="http://www.facebook.com/paloaltoonline" target="_blank"><img src="http://www.EmbarcaderoPublishing.com/art/facebook_icon.png" border="0" align="middle" style="float: left;"><div style="padding-top: 2px; padding-left: 2px; width: 40px; float:left;">Join Us</div></a><a href="http://www.twitter.com/paloaltoweekly" target="_blank"><img src="http://www.EmbarcaderoPublishing.com/art/twitter_icon.png" border="0" align="middle" style="float: left; padding-left: 6px;"><div style="padding-top: 2px; padding-left: 2px; width: 55px; float:left;">Follow Us</div></a></div></div>
 		</td>
 		</tr></tbody></table></td>
@@ -189,16 +224,16 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 			<td class="nav_bar">
 	<a href="http://www.paloaltoonline.com/index.php">Home</a><br>
 	<a href="http://www.paloaltoonline.com/news/index.php?si=1">News</a><br>
-	&nbsp;&nbsp;<a href="http://paloaltoonline.com/weekly">Palo Alto Weekly</a><br>
+	&nbsp;&nbsp;<a href="http://www.paloaltoonline.com/weekly">Palo Alto Weekly</a><br>
 	&nbsp;&nbsp;<a href="http://www.AlmanacNews.com/">The Almanac</a><br>
 	&nbsp;&nbsp;<a href="http://www.mv-voice.com/">Mountain View Voice</a><br>
 	<a href="http://www.Fogster.com">Fogster Classifieds</a><br>
 	<a href="http://www.paloaltoonline.com/square">Town Square Forums</a><br>
 	<a href="http://www.paloaltoonline.com/sports">Sports</a><br>
-	<a href="http://www.paloaltoonline.com">Shopping</a><br>
+	Shopping<br>
 	&nbsp;&nbsp;<a href="http://www.ShopPaloAlto.com/">Shop Palo Alto</a><br>
-	&nbsp;&nbsp;<a href="http://paloaltoonline.com/pizazz">Pizazz Coupons</a><br>
-	&nbsp;&nbsp;<a href="http://paloaltoonline.com/best_of/">'Best of' Results</a><br>
+	&nbsp;&nbsp;<a href="http://www.shoppaloalto.com/deals//">Coupons</a><br>
+	&nbsp;&nbsp;<a href="http://www.paloaltoonline.com/best_of/">'Best of' Results</a><br>
 	<a href="http://www.paloaltoonline.com/sopecal">Community Calendar</a><br>
 	<a href="http://www.paloaltoonline.com/movies">Movies</a><br>
 	<a href="http://www.paloaltoonline.com/obituaries">Obituaries</a><br>
@@ -213,7 +248,6 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 	<a href="http://www.paloaltoonline.com/news_features">Special Features</a><br>
 	<a href="http://www.paloaltowiki.org">Palo Alto Wiki</a><br>
 	<a href="http://www.paloaltoonline.com/traffic">Traffic</a><br>
-	<a href="http://www.paloaltoonline.com/puzzle">Crossword Puzzle</a><br>
 	<a href="http://www.paloaltoonline.com/app">Download the App</a><br>
 	<a href="http://www.paloaltoonline.com/staff">Contact us</a><br>
 	</td>	
@@ -238,7 +272,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 					</td>
 				</tr>
 			</tbody></table>
-            <!-- Included onto each of the sites -->
+<!-- Included onto each of the sites -->
 <table width="100%" border="0" cellspacing="5" cellpadding="5"> 
 	<tbody><tr> 
           <td colspan="2" valign="top"><font face="Arial, Geneva, Helvetica, sans-serif"><font size="-2">Last
@@ -386,51 +420,10 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 				</script></div>
 <hr width="100%" size="1"><p align="center" class="small"><a href="http://www.PaloAltoOnline.com/aboutpao/awards.php"><img src="http://www.PaloAltoOnline.com/art/cnpa_award.gif" border="0"></a><br>
 <b>Best Website<br>
-First Place<br>
-2010</b></p>
+First Place<br> 
+2009-2012
+</b></p>
 
-<!--<p><span class="small">
-  <b>2010 Awards from the California
-    Newspaper Publishers Association</b>
-  <br />
-  <br />
-  
-  <b>Palo Alto Weekly</b><br /><br />
-  
-  <b>First Place</b><br />
-  Best Website<br />
-  Investigative or Enterprise Reporting<br />
-  Business or Financial Story<br />
-Photo Essay</span></p>
-<p><span class="small"><b>Second Place</b><br />
-  General Excellence&nbsp;&nbsp;<br />
-  Public Service<br />
-  Sports Coverage&nbsp;<br />
-  Online Coverage<br />
-  General News Photo<br />
-  Editorial Comment<br />
-  <br />
-  
-  <b>The Almanac</b><br /><br />
-  
-  <b>First Place</b><br />
-  Public Service<br />
-  Editorial Comment<br />
-  General News Photo<br /><br />
-  
-  <b>Second Place</b><br />
-  Environmental Reporting<br />
-  Editorial Pages&nbsp;&nbsp;&nbsp;<br />
-  General News Photo<br />
-  Photo Essay<br />
-  <br />
-  
-  <b>Mountain View Voice</b><br /><br />
-  
-  <b>First Place</b><br />
-  Photo Essay<br />
-  <br />
-  </span>-->
 
 	</td></tr>
 	<tr>
@@ -451,7 +444,7 @@ Photo Essay</span></p>
 							&nbsp;
 						  </td>
 						  <td width="33%" align="center" class="copywrite">
-							© 2012 Palo Alto Online<br>All rights reserved.
+							© 2013 Palo Alto Online<br>All rights reserved.
 						  </td>
 						</tr>
 
@@ -521,4 +514,5 @@ qacct:"p-7apeS9pNVYMQo"
 
 
 
-<script language="javascript" type="text/javascript" src="https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/js/chartbeat.js"></script></body></html>
+
+</body></html>
