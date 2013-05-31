@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the servinio.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222113405id_/http%3A//servinio.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the servinio.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601015109id_/http%3A//servinio.com/privacy.php) for the most accurate reproduction.*
 
-# Servinio.com - Privacy Policy
+# Servinio.com USA,Canada,Germany,France cheap hosting- Privacy Policy
 
 In an effort to protect our clients' and site visitors privacy and rights, Servinio.com has established a Privacy Policy which explains what information we gather on visitors and what we do with information that we gather.
 
