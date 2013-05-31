@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the utrechtart.com privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127144619id_/http%3A//www.utrechtart.com/Your-Privacy-g13t0.utrecht) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utrechtart.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531181131id_/http%3A//www.utrechtart.com/Your-Privacy-g13t0.utrecht) for the most accurate reproduction.*
 
 # Privacy Policy - Art Supplies from Utrecht featuring fine art supplies, school art supplies, discount art supplies, artist paints brushes, acrylics, watercolor supplies, artist oil paints, artist canvas and more
 
@@ -70,6 +70,6 @@ Utrecht Art Supplies
 6 Corporate Drive   
 Cranbury, NJ 08512   
 1-800-223-9132   
-[ ](https://web.archive.org/web/20121127144619id_/http%3A/customer_service/)[Customer Service ](https://web.archive.org/Customer-Service---Home-g9t0.utrecht)  
-[ www.utrechtart.com ](https://web.archive.org/web/20121127144619id_/http%3A/)   
+[ ](https://web.archive.org/web/20130531181131id_/http%3A/customer_service/)[Customer Service ](https://web.archive.org/Customer-Service---Home-g9t0.utrecht)  
+[ www.utrechtart.com ](https://web.archive.org/web/20130531181131id_/http%3A/)   
 |  |  
