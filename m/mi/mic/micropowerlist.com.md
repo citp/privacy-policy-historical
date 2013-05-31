@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the micropowerlist.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224172525id_/http%3A//micropowerlist.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the micropowerlist.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531113224id_/http%3A//micropowerlist.com/privacy.php) for the most accurate reproduction.*
 
 # Micro Power List Building!
 
-[](http://micropowerlist.com/banclick.php?code=d305281faf947ca7acade9ad5c8c818c)  
+[](http://micropowerlist.com/banclick.php?code=5f597ee5f14dee9340c148ac17e772d5)  
 
 
 Micro Power List Privacy Policy
@@ -36,7 +36,7 @@ Links: This web site contains links to other web sites. Please note that when yo
 
   
   
-Copyright (c) 2010 Micro Power List All Rights Reserved 
+Copyright (c) 2010-2013 Micro Power List All Rights Reserved - Part of the [Trax Web](http://traxweb.com/)
 
 [Terms and Conditions](https://web.archive.org/terms.php) | [Earnings Disclaimer](https://web.archive.org/earnings.php) | [ Spam Policy](https://web.archive.org/spam.php) | [ Privacy Policy](https://web.archive.org/privacy.php) | [ Recommended Site Of The Day](https://web.archive.org/recommends.php)
 
