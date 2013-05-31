@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the centrepoint.com privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214110444id_/http%3A//www.centrepoint.com/policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centrepoint.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531050750id_/http%3A//www.centrepoint.com/policy.aspx) for the most accurate reproduction.*
 
 # 
 
 |  [ ](https://web.archive.org/default.aspx) |  |   
 ---  
   
-Local time 14/12/2012 18:04:36   
+Local time 31/05/2013 12:07:43   
   
 | 
 
