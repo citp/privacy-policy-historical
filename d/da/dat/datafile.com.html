@@ -1,0 +1,291 @@
+<!--The following is the downloaded HTML source of the datafile.com privacy policy that was archived on 2013-05-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130531202052id_/https%3A//www.datafile.com/privacy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+    <meta content="4" name="dig">
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="Description" content="">
+<meta name="Keywords" content=""><title>DataFile.com - Reliable file hosting</title><link href="/css/stylesheet.css" media="screen" rel="stylesheet" type="text/css">
+<link href="/css/jquery.ui.all.css" media="screen" rel="stylesheet" type="text/css">
+<link href="/css/jquery.ui.selectmenu.css" media="screen" rel="stylesheet" type="text/css"><script type="text/javascript" async="" src="https://mc.yandex.ru/metrika/watch.js"></script><script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/ui/jquery.ui.core.js"></script>
+<script type="text/javascript" src="/js/ui/jquery.ui.widget.js"></script>
+<script type="text/javascript" src="/js/ui/jquery.ui.position.js"></script>
+<script type="text/javascript" src="/js/ui/jquery.ui.selectmenu.js"></script>
+<script type="text/javascript" src="/js/ui/jquery.ui.datepicker.js"></script>
+<script type="text/javascript" src="/js/ui/jquery.ui.dialog.js"></script>
+<script type="text/javascript" src="/js/ui/jquery.ui.button.js"></script>
+<script type="text/javascript" src="/js/ui/jquery.ui.mouse.js"></script>
+<script type="text/javascript" src="/js/ui/jquery.ui.slider.js"></script>
+<script type="text/javascript" src="/js/jquery.placeholder.js"></script>
+<script type="text/javascript" src="/js/jquery.tablesorter.min.js"></script>
+<script type="text/javascript" src="/js/jquery.form.js"></script>
+<script type="text/javascript" src="/js/functions.js"></script>
+</head>
+<body>
+
+
+    <script type="text/javascript">
+    $(document).ready(function(){
+
+        $(document).ajaxStart(function() {
+            $("#ajax-load-progress").show();
+        });
+
+        $(document).ajaxStop(function() {
+            $("#ajax-load-progress").hide();
+        });
+
+        $('.header .langs UL LI.first').click(function(){
+            if(!$('.langs').hasClass('expanded')){
+                    $('.langs').addClass('expanded');
+                    $('.header .langs UL LI').each(function(){
+                      if(!$(this).hasClass('first')){
+                            $(this).removeClass('hidden');
+                        }
+                    });
+            } else {
+                 $('.langs').removeClass('expanded');
+                    $('.header .langs UL LI').each(function(){
+                        if(!$(this).hasClass('first')){
+                            $(this).addClass('hidden');
+                        }
+
+                    });
+
+            }
+
+
+
+        });
+
+         $('.header .langs UL LI').each(function(){
+            if(!$(this).hasClass('first')){
+                $(this).bind('click', function(e){
+                    e.preventDefault();
+                    location.href='?change_language='+ $(this).attr('id');
+                });
+            }
+        });
+    });
+
+    function selectText(element) {
+	    var doc = document, text = $(element)[0], range, selection;
+	    if (doc.body.createTextRange) { //ms
+	        range = doc.body.createTextRange();
+	        range.moveToElementText(text);
+	        range.select();
+	    } else if (window.getSelection) { //all others
+	        selection = window.getSelection();
+	        range = doc.createRange();
+	        range.selectNodeContents(text);
+	        selection.removeAllRanges();
+	        selection.addRange(range);
+	    }
+	}
+</script>
+
+
+<!--=========HEADER=========-->
+<a name="top"></a>
+<table cellpadding="0" cellspacing="0" border="0">
+<tbody><tr>
+<td class="header-left"></td>
+<td class="header">
+<!--<div class="header">-->
+<div class="page-col">
+<style type="text/css">
+
+    .header .logo {
+	background: url("/images/dflogo_en.png") no-repeat scroll 0 0 transparent;
+	width: 255px; /*243px;*/
+	height: 45px; /*67px;*/
+	position: absolute;
+	top: 35px;
+	margin-left: 15px;
+        margin-top: 13px;
+}
+    </style>
+
+		<div class="row">
+			<a href="/index.html">
+				<div class="logo"></div>
+			</a>
+			<div class="langs">
+				<div class="content">
+					<ul class="lang-selector">
+                                                <li class="lang first" id="en"><span style="background: url('/images/icons/langs/en.png') center left no-repeat;"></span></li><li class="lang hidden" id="ru"><span style="background: url('/images/icons/langs/ru.png') center left no-repeat"></span></li>					</ul>
+				</div>
+			 </div>
+			<div class="top-panel">
+							<div class="item signin"><a href="/login.html">Sign In</a></div>
+						</div>
+		</div>
+</div>
+<!--</div>-->
+</td>
+<td class="header-right"></td>
+</tr>
+</tbody></table>
+<!--========= END HEADER=========-->
+
+<!--=========CONTENT=========-->
+<div class="register-login" id="register-login" style="display: none;">
+	<div class="info"></div>
+</div>
+
+<script type="text/javascript">
+function showAuthDialog(text) {
+	var str = text + ' please <a href="/login.html">SignIn</a> or <a href="/registration.html">SignUp</a>';
+	$('#register-login .info').html(str);
+	$('#register-login').dialog({
+		autoOpen: false,
+		title: "Please Signin or register",
+		minWidth: '440',
+		modal: true
+	});
+	$('#register-login').dialog('open');
+}
+</script>
+
+<style type="text/css">
+#register-login .info {
+    color: #555555;
+    font-size: 14px;
+    font-weight: bold;
+    margin-top: 35px;
+    text-align: center;
+}
+#register-login .info A {
+	font-size: 14px !important;
+}
+</style>
+
+<div class="content">
+	<div class="page-col">
+		<div class="row">
+			<div class="main-user-menu">
+			<table class="" border="0" cellpadding="0" cellspacing="0">
+			<colgroup><col width="142">
+			<col width="142">
+						<col width="142">						<col width="142">
+			<col width="142">
+				</colgroup><tbody><tr>
+											<td class="first upload">
+							<div class="act-bg"></div><a href="/index.html">Upload Files</a>
+						</td>
+					
+											<td class="premium"><a href="/getpremium.html">Get Premium</a></td>
+					
+                                                                                                                                        <td class="signup"><a href="/registration.html">Sign Up</a></td>
+                                                                                    
+
+											<td class="news"><a href="/news.html">News</a>
+                                                                                                </td>
+					
+											<td class="help last"><a href="/help.html">Help</a>
+                                                                                                </td>
+					
+				</tr>
+			</tbody></table>
+			</div>
+			<div class="clear"></div>
+			<!--=========CONTENT-INFO=========-->
+			<div class="mainpad">
+  	<div class="custom-page">
+		<h1>Privacy Policy</h1>
+<p style="margin-bottom: 14.15pt; line-height: 12.0pt;">DataFile.com is a provider of online file storage service. Your use of the&nbsp;<a href="http://datafile.com/">www.datafile.com</a>&nbsp;site is governed by DataFile Terms and Conditions and this Privacy Policy. The purpose of this Privacy Policy is to inform you about the service we provide, about the ways how the personal information you submit to us may be used, and how this information is protected on our website.<br><br> DataFile.com ("us" or "we") respects the privacy of the visitors on its website. We may update this policy from time to time, so we ask you to check the policy regularly. We will notify you about significant changes by placing a prominent notice on this page and other places we find appropriate.</p>
+<h4 style="margin-top: 0cm; line-height: 12.0pt;"><strong>Your information during the registration</strong></h4>
+<p style="line-height: 12.0pt;">DataFile.com stores an e-mail address you specify when you register with us, and your name if it is indicated in the user profile. DataFile.com does not rent, sell, or share personal information about you with non-affiliated companies. Also, IP addresses are logged and used to identify our visitors as well as manage download limitations and user sessions.&nbsp;</p>
+<h4 style="margin-top: 0cm; line-height: 12.0pt;"><strong>Your account password</strong></h4>
+<p style="line-height: 12.0pt;">Please note that it is your responsibility to keep the password confidential, so do not share it with anyone. If you use a public PC, make sure you log out prior to leaving DataFile.com site. You are solely responsible for keeping your password inviolable.</p>
+<h4 style="margin-top: 0cm; line-height: 12.0pt;"><strong>Certain exceptional disclosures</strong></h4>
+<p style="line-height: 12.0pt;">We may disclose your information if necessary to protect our legal rights or if the information relates to actual or threatened harmful conduct or potential threats to the physical safety of any person. The disclosure of personal information may be required by court or law enforcement officials.</p>
+<h4 style="margin-top: 0cm; line-height: 12.0pt;"><strong>Your account at our service</strong></h4>
+<p style="line-height: 12.0pt;">When you upload a file to our server, we give you a unique URL to download the file. We do not share download URLs with anyone, however we will provide the file to any browser requesting the file by its unique URL address.<br> <br> We reserve a right to review your account content for violations of our Terms and Conditions. If we determine that your files violate the Terms and Conditions, we may ban your account and will attempt to contact you. We reserve the right to cancel your account and remove the files from our servers.<br> <br> We do not own your account content, and will access your files for troubleshooting only. All your files are allowed to be downloaded only according to the security settings you define. We guarantee safety of your files, for that purpose we make backups of all files.</p>
+<h4 style="margin-top: 0cm; line-height: 12.0pt;"><strong>Using cookies</strong></h4>
+<p style="line-height: 12.0pt;">DataFile.com uses cookies in order to track and analyze preferences of our users and, as a result, improve our site. A cookie is an encrypted number, generated when you visit any site that supports sessions. This cookie is saved permanently on your computer. This data does not contain any secure information (just an encrypted string). Additionally, we set a cookie when you log in to make further logging into our system a little easier. No other website can access any information about you from the cookies we may store on your local computer. We do not share cookies or any other type of information with any other companies. You can always choose not to receive a cookie file by enabling your web browser to refuse cookies or to prompt you before accepting a cookie.<br> <br> We also collect such information as your operating system, browser version and the size of your screen. We use these details for marketing purposes also. This information is collected in the form of the usual web server logs and cookies.&nbsp;</p>
+<h4 style="margin-top: 0cm; line-height: 12.0pt;"><strong>Third party cookies</strong></h4>
+<p style="line-height: 12.0pt;">In case of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.</p>
+<h4 style="margin-top: 0cm; line-height: 12.0pt;"><strong>Access to your information</strong></h4>
+<p style="line-height: 12.0pt;">You have the right to access, upload and download your files and access and correct your personal information at any time. You may also grant access to your account files to other users through sharing linklists or file download links.<br> <br> If you want to change any personal information provided to us, feel free to contact our support team at Array.</p>
+<h4 style="margin-top: 0cm; line-height: 12.0pt;"><strong>How we protect your information</strong></h4>
+<p style="line-height: 12.0pt;">Any information collected and processed within DataFile.com is treated with the utmost confidentiality. DataFile.com will not sell or rent out any personal information gathered from clients. We will make no public release of any personal information that is collected through our proprietary file sharing tool. All client-specific information gathered through us will be the property of the user. To prevent unauthorized access or disclosure, to maintain data accuracy and to ensure the appropriate use of information, we have put into place physical, electronic and managerial procedures to safeguard the information that we collect online. We encrypt the information you submit to DataFile.com with VeriSign 256-bit SSL certificate.<br> <br> Automated and scheduled backups of your files make the service secure and safe for you.</p>
+<h4 style="margin-top: 0cm; line-height: 12.0pt;"><strong>Credit card security</strong></h4>
+<p>All purchases on <a href="http://datafile.com/"><span class="s1">DataFile.com</span></a>&nbsp;are handled by third party card processing company. <a href="http://datafile.com/"><span class="s1">DataFile.com</span></a>&nbsp;does not arrange and/or save numbers or any information from your credit cards.</p>
+<p><strong style="font-size: 1em; line-height: 12pt;">External links</strong></p>
+<p style="line-height: 12.0pt;">If any part of the DataFile.com website links you to other websites, those websites do not operate under this Privacy Policy. We recommend you examine the privacy statements posted on those other websites to understand their procedures for collecting, using and disclosing personal information.</p>
+<h4 style="margin-top: 0cm; line-height: 12.0pt;"><strong>Contact information</strong></h4>
+<p style="line-height: 12.0pt;">Should you have any questions or concerns regarding this Privacy Policy, please&nbsp;<a href="http://datafile.com/contact.html">contact us</a>.</p>	</div>
+</div>﻿			<!--=========END=========CONTENT-INFO=========-->
+		</div>
+	</div>
+</div>
+<!--========= END CONTENT=========-->
+
+<!--=========FOOTER=========-->
+<div class="footer">
+	<div class="page-col">
+		<div class="row">
+			<div class="bottom-panel">
+				<div class="left"><div class="copyright">Copyright © 2012-2013  <br> All rights reserved</div></div>
+				<div class="center">
+					<div class="purse"></div>
+                                        <div class="green-txt">Get  more features with our <a href="/getpremium.html">Premium access!</a></div>
+
+				</div>
+				<div class="right">
+                                <style type="text/css">
+                                .lr {
+                                    margin-bottom: 6px !important;
+                                    margin-top: -1px !important;
+                                    }
+                                </style>
+
+				</div>
+			</div>
+			<div class="bottom-menu">
+				<ul>
+					<li class="first"><a href="/terms.html">Terms of use</a><span>/</span></li>
+					<li><a href="/privacy.html">Privacy policy</a><span>/</span></li>
+					<li><a href="/dmca.html">DMCA</a><span>/</span></li>
+					<li><a href="/linkchecker.html">Link checker</a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</div>
+<!--========= END FOOTER=========-->
+
+<div id="ajax-load-progress"></div>
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+(function (d, w, c) {
+    (w[c] = w[c] || []).push(function() {
+        try {
+            w.yaCounter20570638 = new Ya.Metrika({id:20570638,
+                    webvisor:true,
+                    clickmap:true,
+                    ut:"noindex"});
+        } catch(e) { }
+    });
+
+    var n = d.getElementsByTagName("script")[0],
+        s = d.createElement("script"),
+        f = function () { n.parentNode.insertBefore(s, n); };
+    s.type = "text/javascript";
+    s.async = true;
+    s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+    if (w.opera == "[object Opera]") {
+        d.addEventListener("DOMContentLoaded", f, false);
+    } else { f(); }
+})(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="//mc.yandex.ru/watch/20570638?ut=noindex" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+
+
+</body></html>
