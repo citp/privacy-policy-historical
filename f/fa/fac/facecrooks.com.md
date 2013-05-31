@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the facecrooks.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122182137id_/http%3A//facecrooks.com/Legal/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the facecrooks.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531162924id_/http%3A//facecrooks.com/Legal/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | facecrooks.com
 
@@ -30,4 +30,4 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
-Google Ad
+[](http://services.socialsafe.net/facecrooks/)
