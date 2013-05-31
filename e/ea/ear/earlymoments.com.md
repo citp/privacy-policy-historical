@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the earlymoments.com privacy policy that was archived on 2012-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121117052805id_/http%3A//www.earlymoments.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earlymoments.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531050211id_/https%3A//www.earlymoments.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - Earlymoments.com
 
@@ -50,4 +50,4 @@ Our Web site does not knowingly collect or use any personal information from chi
 
 Our privacy policy is subject to change. In the event of any change, we will provide notice of such change on our Web site. If we want to use your personal information in a manner different from that stated to you at the time you provided such information to us, we will notify you of such change via e-mail in addition to posting notification of such change on our Web site. At such time, you can determine whether you wish to allow us to use your information in this different manner. If you have opted out of all communication with our Web site or have deleted or deactivated your account with us, then you will not be contacted and your personal information will not be used.
 
-If you have any questions about this privacy policy or believe that our Web site is not abiding by our privacy policy, please contact Customer Care at 1-800-353-3140.  If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe through the TRUSTe WatchDog Dispute Resolution Process.
+If you have any questions about this privacy policy or believe that our Web site is not abiding by our privacy policy, please contact Customer Care at 1-800-353-3140. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe through the TRUSTe WatchDog Dispute Resolution Process.
