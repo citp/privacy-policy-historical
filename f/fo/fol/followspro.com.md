@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the followspro.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226035253id_/http%3A//followspro.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the followspro.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531090330id_/http%3A//followspro.com/info/privacy) for the most accurate reproduction.*
 
 # FollowsPro
 
@@ -130,21 +130,21 @@ Questions, comments and requests regarding this privacy policy are welcomed and 
 
 ### Our Pro Sites
 
-[](http://plusonespro.com/?t=eecd4c2773ea4338dbe3b561f22502a4&k=02b91eed8d342adf7a250e86f4d0e007)
+[](http://plusonespro.com/?t=1734aa93b03324c5dcee9d0c7a6ca2b3&k=9b4fd396e390808c10ba0640cf5424d1)
 
 Get thousands of Google +1s.
 
-[](http://followspro.com/?t=eecd4c2773ea4338dbe3b561f22502a4&k=02b91eed8d342adf7a250e86f4d0e007)
+[](http://followspro.com/?t=1734aa93b03324c5dcee9d0c7a6ca2b3&k=9b4fd396e390808c10ba0640cf5424d1)
 
 Get thousands of Twitter followers.
 
-[](http://retweetspro.com/?t=eecd4c2773ea4338dbe3b561f22502a4&k=02b91eed8d342adf7a250e86f4d0e007)
+[](http://retweetspro.com/?t=1734aa93b03324c5dcee9d0c7a6ca2b3&k=9b4fd396e390808c10ba0640cf5424d1)
 
 Get thousands of Twitter retweets.
 
-[](http://likespro.com/?t=eecd4c2773ea4338dbe3b561f22502a4&k=02b91eed8d342adf7a250e86f4d0e007)
+[](http://likespro.com/?t=1734aa93b03324c5dcee9d0c7a6ca2b3&k=9b4fd396e390808c10ba0640cf5424d1)
 
-Get thousands of Youtube views and likes.
+Get thousands of Facebook / Youtube views and likes.
 
 ### Our Sister Site
 
