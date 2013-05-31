@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allbestwallpapers.com privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104072217id_/http%3A//www.allbestwallpapers.com/pp.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allbestwallpapers.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531094344id_/http%3A//www.allbestwallpapers.com/pp.htm) for the most accurate reproduction.*
 
 # All Best Wallpapers Privacy Policy
 
