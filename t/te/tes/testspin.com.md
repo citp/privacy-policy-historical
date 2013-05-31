@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the testspin.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014225110id_/http%3A//www.testspin.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the testspin.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601014217id_/http%3A//www.testspin.com/privacypolicy) for the most accurate reproduction.*
 
-# Paid Surveys - Take paid surveys for money and gift cards - TestSpin
+# Paid surveys for money and free gift cards | TestSpin
 
    
 ---  
