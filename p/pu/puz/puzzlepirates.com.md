@@ -1,20 +1,6 @@
-> *The following text is extracted and transformed from the puzzlepirates.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525081140id_/http%3A//www.puzzlepirates.com/Privacy.xhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the puzzlepirates.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531021134id_/http%3A//www.puzzlepirates.com/Privacy.xhtml) for the most accurate reproduction.*
 
 # Puzzle Pirates: Three Rings Privacy Policy
-
-## Contents
-
-  * 1 Three Rings Privacy Policy
-    * 1.1 Information Collection and Use
-    * 1.2 Children
-    * 1.3 Information Sharing and Disclosure
-    * 1.4 Cookies
-    * 1.5 Communications from Three Rings
-    * 1.6 Confidentiality and Security
-    * 1.7 Changes to this Privacy Policy
-    * 1.8 Questions and Suggestions
-
-
 
   
 This policy covers how Three Rings Design, Inc. ("Three Rings") treats personal information that Three Rings collects and receives, including information related to your past use of Three Rings products and services. Personal information is information about you that is personally identifiable such as your name, address, email address, or phone number, and that is not otherwise publicly available. 
@@ -68,4 +54,4 @@ Three Rings may update this policy. We will notify you about significant changes
 
 ##  Questions and Suggestions
 
-If you have questions or suggestions, please email us using the [Puzzle Pirates Support form](http://www.puzzlepirates.com/support "http://www.puzzlepirates.com/support"). 
+If you have questions or suggestions, please email us using the [Puzzle Pirates Support form](http://www.puzzlepirates.com/support). 
