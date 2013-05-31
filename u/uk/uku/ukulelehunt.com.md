@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ukulelehunt.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116073417id_/http%3A//ukulelehunt.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ukulelehunt.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601004118id_/http%3A//ukulelehunt.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -99,4 +99,4 @@ YOU UNDERSTAND AND AGREE THAT ANY DISPUTE OVER PRIVACY IS SUBJECT TO THE TERMS A
 CONTACT US  
 For more information or if you have questions or concerns regarding This Site’s site terms or privacy policy, please [contact us](http://ukulelehunt.com/contact-page/).
 
-Updated May 24, 2008 
+Updated May 24, 2008
