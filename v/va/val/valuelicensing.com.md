@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the valuelicensing.com privacy policy that was archived on 2012-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121129232429id_/http%3A//www.valuelicensing.com/privacy_statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valuelicensing.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531080916id_/http%3A//valuelicensing.com/privacy_statement.php) for the most accurate reproduction.*
 
-# Value Licensing - Privacy Statement
+# Privacy Statement
 
 ## PRIVACY POLICY for www.ValueLicensing.com:
 
