@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creditcardguide.com privacy policy that was archived on 2012-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120702185912id_/http%3A//www.creditcardguide.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creditcardguide.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531055610id_/http%3A//www.creditcardguide.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - CreditCardGuide.com
 
@@ -8,7 +8,7 @@
 
 We respect your privacy and are committed to protecting it through our compliance with this privacy policy (this "Privacy Policy"). For purposes of this Privacy Policy, each of the terms "we," "us," or "our" means Bankrate, Inc., a Delaware corporation, and the term this "Site," means, collectively, this website and portions of other Web pages and Web content through which you have accessed this Privacy Policy.
 
-This Privacy Policy (together with our [Terms of Use](https://web.archive.org/disclaimer.php) and any other documents referred to in this Privacy Policy and the Terms of Use) describes information that we collect from you or that you provide on this Site and how that information may be used and disclosed by us.
+This Privacy Policy (together with our [Terms of Use](https://web.archive.org/disclaimer.html) and any other documents referred to in this Privacy Policy and the Terms of Use) describes information that we collect from you or that you provide on this Site and how that information may be used and disclosed by us.
 
 This Privacy Policy does not apply to information collected through any other medium, collected offline, or collected by any person or entity other than us (such as a third-party website or a third-party application). This Privacy Policy also does not apply to any information that you submit pursuant to a sweepstakes entry. Please refer to the official rules and privacy policy for each individual sweepstakes for our specific policies regarding information sharing and disclosure pursuant to sweepstakes entry.
 
@@ -68,13 +68,13 @@ We use your information, including any personally identifiable information, to:
   * Ensure this Site is of interest to you (including, customization of advertising and content) and help us better understand your use of this Site;
   * Protect the security and integrity of this Site;
   * Conduct internal reviews of this Site and administer this Site's systems;
-  * Comply with, monitor compliance with and enforce this Privacy Policy, our [Terms of Use](https://web.archive.org/disclaimer.php) and any other applicable agreements and policies;
+  * Comply with, monitor compliance with and enforce this Privacy Policy, our [Terms of Use](https://web.archive.org/disclaimer.html) and any other applicable agreements and policies;
   * Develop, enhance and market our products and services or the products and services of third parties;
   * Provide you with promotional materials, offers and personalized information;
   * Manage our business and operations;
   * Meet legal and regulatory requirements;
   * Provide administrative communications to you;
-  * Use User Generated Content as permitted in our [Terms of Use](https://web.archive.org/disclaimer.php); and
+  * Use User Generated Content as permitted in our [Terms of Use](https://web.archive.org/disclaimer.html); and
   * For other purposes as may be disclosed when you provide personally identifiable information or in this Privacy Policy.
 
 
@@ -90,7 +90,7 @@ We may disclose personally identifiable information:
   * To third parties when you (i) engage in certain activities on this Site that are sponsored by them, such as purchasing products or services offered by a third party, electing to receive information or communications from a third party, or electing to participate in contests, sweepstakes, games or other programs sponsored in whole or in part by a third party, and/or (ii) respond to promotional materials from us and you authorize a third party to use your personally identifiable information to, for example, send you additional promotional materials, provide you a product or service, or enter you into a sweepstakes. When we disclose your personally identifiable information to these third parties, your personally identifiable information will become permanently subject to the information use and sharing practices of the third party, and the third party will not be restricted by this Privacy Policy with respect to its use and further sharing of your personally identifiable information;
   * As required by law or ordered by a court, regulatory, or administrative agency;
   * As we deem necessary, in our sole discretion, if we believe that you are violating any applicable law, rule or regulation, or are otherwise interfering with another's rights or property, including, without limitation, our rights or property;If requested by authorities in the event of any act of terrorism or instance of local, regional or national emergency;
-  * To enforce our [Terms of Use](https://web.archive.org/disclaimer.php), this Privacy Policy, and any other applicable agreements and policies;
+  * To enforce our [Terms of Use](https://web.archive.org/disclaimer.html), this Privacy Policy, and any other applicable agreements and policies;
   * To enforce or protect our rights;
   * In connection with a Business Transfer, as defined below (see _Business Transfers_ below); and
   * To our affiliated companies (i.e., companies under common control or management with us).
@@ -131,7 +131,7 @@ From time to time, we may participate in or use advertising networks, such as th
 
 **_User Generated Content_**
 
-You are responsible for any content, including personal information, that you contribute to be published or displayed ("posted") on this Site, or that you transmit to other users of this Site (collectively, "User Generated Content"). Your User Generated Content is posted on and transmitted to other users of this Site at your own risk. We cannot control the actions of other users of this Site with whom you may choose to share your User Generated Content. We can also not responsible for circumvention of any privacy settings or security measures contained on this Site. As a result, we cannot and do not guarantee that your User Generated Content will not be viewed by unauthorized persons. You understand and acknowledge that, even after removal, copies of your User Generated Content may remain viewable in cached and archived pages, or might have been copied or stored by other Site users. Proper access and use of information provided on this Site, including User Generated Content, is governed by our [Terms of Use](https://web.archive.org/disclaimer.php).
+You are responsible for any content, including personal information, that you contribute to be published or displayed ("posted") on this Site, or that you transmit to other users of this Site (collectively, "User Generated Content"). Your User Generated Content is posted on and transmitted to other users of this Site at your own risk. We cannot control the actions of other users of this Site with whom you may choose to share your User Generated Content. We can also not responsible for circumvention of any privacy settings or security measures contained on this Site. As a result, we cannot and do not guarantee that your User Generated Content will not be viewed by unauthorized persons. You understand and acknowledge that, even after removal, copies of your User Generated Content may remain viewable in cached and archived pages, or might have been copied or stored by other Site users. Proper access and use of information provided on this Site, including User Generated Content, is governed by our [Terms of Use](https://web.archive.org/disclaimer.html).
 
 **_Choices About How We Use and Disclose Your Information_** 
 
