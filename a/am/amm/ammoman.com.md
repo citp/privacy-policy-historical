@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ammoman.com privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127172147id_/http%3A//www.ammoman.com/t/privacyinfo) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ammoman.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531140018id_/http%3A//ammoman.com/t/privacyinfo) for the most accurate reproduction.*
 
 # AMMOMAN.com. Privacy policy
 
