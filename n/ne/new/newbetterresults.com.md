@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newbetterresults.com privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203064305id_/http%3A//www.newbetterresults.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newbetterresults.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601002718id_/http%3A//newbetterresults.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Newbetterresults.com- Privacy Policy
 
