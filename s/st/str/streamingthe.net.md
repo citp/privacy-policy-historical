@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the streamingthe.net privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214083134id_/http%3A//www.streamingthe.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streamingthe.net privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531210128id_/http%3A//www.streamingthe.net/privacy.php) for the most accurate reproduction.*
 
-# Watch Live Online TV and Radio Streaming
+# Free Streaming Online Radio & TV
 
 Streaming The Net (STN) knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy. By visiting the STN website, you are accepting the practices as outlined in this Privacy Policy. 
 
