@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the nationalatlas.gov privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114062407id_/http%3A//www.nationalatlas.gov/policies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalatlas.gov privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601000026id_/http%3A//www.nationalatlas.gov/policies.html) for the most accurate reproduction.*
 
 # Web Policies
 
   |  |    
-  | Information, products, and services of The National Atlas of the United States of America® delivered on the World Wide Web are provided by the U.S. Geological Survey (USGS). Contributions to this Web site come from [National Atlas partners](https://web.archive.org/web/20121114062407id_/http%3A//www.nationalatlas.gov/partners.html) in government and industry. The following statements and disclaimers apply to the National Atlas. |   
+  | Information, products, and services of The National Atlas of the United States of America® delivered on the World Wide Web are provided by the [U.S. Geological Survey](http://www.usgs.gov/) (USGS). Contributions to this Web site come from [National Atlas partners](https://web.archive.org/web/20130601000026id_/http%3A//www.nationalatlas.gov/partners.html). The following statements and disclaimers apply to the National Atlas. |   
 | 
 
 ## National Atlas Web Policies  
@@ -42,7 +42,7 @@ As part of the normal operation of our Web server, certain information is automa
 
 
 
-These data are periodically summarized and analyzed to study site usage over time and to perform other studies to help us improve the site's organization, performance, and usefulness.
+These data are periodically summarized and analyzed to study site usage over time and to perform other studies to help us improve the site's organization, performance, and usefulness. In January 2013, all Web sites operated by Federal agencies were required to report access and referrer information to the [General Services Administration](http://www.howto.gov/web-content/digital-metrics) (GSA). The USGS also receives these reports for all Web sites within its domain, including [nationalatlas.gov](https://web.archive.org/web/20130601000026id_/http%3A//www.nationalatlas.gov/nationalatlas.gov).
 
 |    
   | 
@@ -98,9 +98,11 @@ We want to make it clear that we will not obtain personally identifying informat
 
 **Cookies** \- Some software programs offered on the Web place a "cookie" on your computer's hard disk to provide a temporary history of actions taken. The National Atlas does not do this. However, the National Atlas Map Maker does use cookies to store the links to any maps that you choose to save. These links are stored on your computer's hard drive. You may delete them at any time.
 
+As noted under the Privacy section of this page, all Web sites operated by Federal agencies are required to report access and referrer information to the GSA and the USGS also requires these reports from us. These agencies use cookies that are stored on your computer to execute these reports. You may delete them at any time.
+
 **Web server activity logs** \- Monthly extracts of the log files are archived and stored offline at our discretion for an indefinite period of time. Some statistical summaries derived from these data may be retained online or offline at our discretion for an indefinite period of time.
 
-**E-Mail** \- Information collected through E-mail will be retained at our discretion in a directly readable form for as long as necessary to complete our response. The E-mail may be retained in an archival form as required by Federal laws and regulations governing the retention of historical records of Government agencies. For more information, refer to the National Archives and [Records Administration's Records Management Program.](http://www.archives.gov/records_management/index.html)
+**E-Mail** \- Information collected through E-mail will be retained at our discretion in a directly readable form for as long as necessary to complete our response. The E-mail may be retained in an archival form as required by Federal laws and regulations governing the retention of historical records of Government agencies. For more information, refer to the National Archives and Records Administration's [Records Management Program.](http://www.archives.gov/records_management/index.html)
 
 **Online surveys** \- Information collected through online surveys may be maintained at our discretion for an indefinite period of time.
 
@@ -212,17 +214,17 @@ back to top
 |    
   | 
 
-If you have any questions about these policy notices and disclaimers, please [contact us](https://web.archive.org/web/20121114062407id_/http%3A//www.nationalatlas.gov/contactus.html):
+If you have any questions about these policy notices and disclaimers, please [contact us](https://web.archive.org/web/20130601000026id_/http%3A//www.nationalatlas.gov/contactus.html):
 
 **E-Mail:**   [atlasmail@usgs.gov](mailto:atlasmail@usgs.gov) (Please include your return E-mail address in the body of your message.)
 
 **Standard Mail:**  
 National Atlas of the United States®  
-561 National Center  
+511 National Center  
 U.S. Geological Survey  
 Reston, VA 20192 USA
 
 back to top
 
 |    
-|  | [](https://web.archive.org/web/20121114062407id_/http%3A//www.nationalatlas.gov/mldhiddenlinks.html)
+|  | [](https://web.archive.org/web/20130601000026id_/http%3A//www.nationalatlas.gov/mldhiddenlinks.html)
