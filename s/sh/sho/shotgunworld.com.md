@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shotgunworld.com privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114080424id_/http%3A//www.shotgunworld.com/bbs/ucp.php%3Fmode%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shotgunworld.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531192002id_/http%3A//www.shotgunworld.com/bbs/ucp.php%3Fmode%3Dprivacy) for the most accurate reproduction.*
 
 # Shotgunworld.com • User Control Panel • Privacy policy
 
