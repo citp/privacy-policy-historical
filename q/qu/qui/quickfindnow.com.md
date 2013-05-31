@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quickfindnow.com privacy policy that was archived on 2010-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100905125826id_/http%3A//quickfindnow.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickfindnow.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601011943id_/http%3A//quickfindnow.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Quickfindnow.com- Privacy Policy
 
