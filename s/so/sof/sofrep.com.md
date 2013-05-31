@@ -1,152 +1,31 @@
-> *The following text is extracted and transformed from the sofrep.com privacy policy that was archived on 2009-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090227025105id_/http%3A//privacy.yahoo.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sofrep.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531225531id_/http%3A//sofrep.com/privacy-policy) for the most accurate reproduction.*
 
-# Yahoo! Privacy Policy
+# Privacy Policy | SOFREP
 
-## WHAT THIS PRIVACY POLICY COVERS
+It is SOFREP’s policy to respect your privacy regarding any information we may collect while operating our websites.
 
-### Yahoo! takes your privacy seriously. Please read the following to learn more about our privacy policy.
+Website Visitors  
+Like most website operators, SOFREP collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. SOFREP’s purpose in collecting non-personally identifying information is to better understand how SOFREP’s visitors use its website. From time to time, SOFREP may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
 
-The federal government and technology industry have developed [practical tips](http://onguardonline.gov/) to help you guard against Internet fraud, secure your computer and protect your personal information. 
+SOFREP also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on our blogs. SOFREP only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that blog commenter IP addresses are visible and disclosed to the administrators of the blog where the comment was left.
 
-### How Yahoo! Uses Your Personal Information
+Gathering of Personally-Identifying Information  
+Certain visitors to SOFREP’s websites choose to interact with SOFREP in ways that require SOFREP to gather personally-identifying information. The amount and type of information that SOFREP gathers depends on the nature of the interaction. SOFREP collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with SOFREP. SOFREP does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
-This policy covers how Yahoo! treats personal information that Yahoo! collects and receives, including information related to your past use of Yahoo! products and services. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available.
+Aggregated Statistics  
+SOFREP may collect statistics about the behavior of visitors to its websites.SOFREP may display this information publicly or provide it to others. However, SOFREP does not disclose personally-identifying information other than as described below.
 
-### This privacy policy only applies to Yahoo!
+Protection of Certain Personally-Identifying Information  
+SOFREP discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on SOFREP’s behalf or to provide services available at SOFREP’s websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using SOFREP’s websites, you consent to the transfer of such information to them. SOFREP will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, SOFREP discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when SOFREP believes in good faith that disclosure is reasonably necessary to protect the property or rights of SOFREP, third parties or the public at large. If you are a registered user of a SOFREP website and have supplied your email address, SOFREP may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with SOFREP and our products. We primarily use our blogs to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. SOFREP takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
 
-This policy does not apply to the practices of companies that Yahoo! does not own or control, or to people that Yahoo! does not employ or manage. In addition, some companies that Yahoo! has acquired have their own, preexisting privacy policies which may be viewed on our [acquired companies page](http://info.yahoo.com/privacy/us/yahoo/acquiredcompanies/).
+Cookies  
+A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. SOFREP uses cookies to help SOFREP identify and track visitors, their usage of SOFREP website, and their website access preferences. SOFREP visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using SOFREP’s websites, with the drawback that certain features of SOFREP’s websites may not function properly without the aid of cookies.
 
-### Yahoo!'s participation in the Safe Harbor program
+Business Transfers  
+If SOFREP, or substantially all of its assets, were acquired, or in the unlikely event that SOFREP goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of SOFREP may continue to use your personal information as set forth in this policy.
 
-Yahoo! participates in the Safe Harbor program developed by the U.S. Department of Commerce and the European Union. To view our certification, visit the U.S. Department of Commerce's [Safe Harbor Web site](http://www.export.gov/safeharbor/). For more information about Yahoo!'s participation in the Safe Harbor program, please visit our [Safe Harbor](http://info.yahoo.com/privacy/us/yahoo/safeharbor/) details page.
+Ads  
+Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by SOFREP and does not cover the use of cookies by any advertisers.
 
-Return to Top
-
-## INFORMATION COLLECTION AND USE
-
-### General
-
-Yahoo! collects personal information when you register with Yahoo!, when you use [Yahoo! products or services](http://info.yahoo.com/privacy/us/all/), when you visit Yahoo! pages or the pages of certain Yahoo! partners, and when you enter [promotions or sweepstakes](http://info.yahoo.com/privacy/us/yahoo/promotions/). Yahoo! may combine information about you that we have with information we obtain from business partners or other companies. 
-
-When you register we ask for information such as your name, email address, birth date, gender, ZIP code, occupation, industry, and personal interests. For some financial products and services we might also ask for your address, Social Security number, and information about your assets. When you register with Yahoo! and sign in to our services, you are not anonymous to us. 
-
-Yahoo! collects information about your transactions with us and with some of our business partners, including information about your use of financial products and services that we offer.
-
-Yahoo! automatically receives and records information from your computer and browser, including your [IP address](http://info.yahoo.com/privacy/us/yahoo/ip/), Yahoo! [cookie](http://info.yahoo.com/privacy/us/yahoo/cookies/) information, software and hardware attributes, and the page you request.
-
-Yahoo! uses information for the following general purposes: to customize the advertising and content you see, fulfill your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients. 
-
-### Children
-
-When a child under age 13 attempts to register with Yahoo!, we ask the child to have a parent or guardian create a [Yahoo! Family Account](http://info.yahoo.com/privacy/us/family/details.html) to obtain parental permission. 
-
-Yahoo! does not contact children under age 13 about special offers or for marketing purposes without a parent's permission. 
-
-Yahoo! does not ask a child under age 13 for more personal information, as a condition of participation, than is reasonably necessary to participate in a given activity or promotion.
-
-### INFORMATION SHARING AND DISCLOSURE
-
-Yahoo! does not rent, sell, or share personal information about you with other people or non-affiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances:
-
-  * We provide the information to trusted partners who work on behalf of or with Yahoo! under confidentiality agreements. These companies may use your personal information to help Yahoo! communicate with you about offers from Yahoo! and our marketing partners. However, these companies do not have any independent right to share this information. 
-  * We have a parent's permission to share the information if the user is a child under age 13. Parents have the option of allowing Yahoo! to collect and use their child's information without consenting to Yahoo! sharing of this information with people and companies who may use this information for their own purposes.
-  * We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims.
-  * We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Yahoo!'s terms of use, or as otherwise required by law. 
-  * We transfer information about you if Yahoo! is acquired by or merged with another company. In this event, Yahoo! will notify you before information about you is transferred and becomes subject to a different privacy policy. 
-
-
-
-Yahoo! displays targeted advertisements based on personal information. Advertisers (including ad serving companies) may assume that people who interact with, view, or click targeted ads meet the targeting criteria—for example, women ages 18-24 from a particular geographic area. 
-
-  * Yahoo! does not provide any personal information to the advertiser when you interact with or view a targeted ad. However, by interacting with or viewing an ad you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad. 
-  * Yahoo! advertisers include financial service providers (such as banks, insurance agents, stock brokers and mortgage lenders) and non-financial companies (such as stores, airlines, and software companies). 
-
-
-
-Yahoo! works with vendors, partners, advertisers, and other service providers in different industries and categories of business. For more information regarding providers of products or services that you've requested please read our detailed [reference links](http://info.yahoo.com/privacy/us/all/). 
-
-Return to Top
-
-## INFORMATION SHARING AND DISCLOSURE
-
-Yahoo! does not rent, sell, or share personal information about you with other people or non-affiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances:
-
-  * We provide the information to trusted partners who work on behalf of or with Yahoo! under confidentiality agreements. These companies may use your personal information to help Yahoo! communicate with you about offers from Yahoo! and our marketing partners. However, these companies do not have any independent right to share this information. 
-  * We have a parent's permission to share the information if the user is a child under age 13. Parents have the option of allowing Yahoo! to collect and use their child's information without consenting to Yahoo! sharing of this information with people and companies who may use this information for their own purposes.
-  * We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims.
-  * We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Yahoo!'s terms of use, or as otherwise required by law. 
-  * We transfer information about you if Yahoo! is acquired by or merged with another company. In this event, Yahoo! will notify you before information about you is transferred and becomes subject to a different privacy policy. 
-
-
-
-Yahoo! displays targeted advertisements based on personal information. Advertisers (including ad serving companies) may assume that people who interact with, view, or click targeted ads meet the targeting criteria—for example, women ages 18-24 from a particular geographic area. 
-
-  * Yahoo! does not provide any personal information to the advertiser when you interact with or view a targeted ad. However, by interacting with or viewing an ad you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad. 
-  * Yahoo! advertisers include financial service providers (such as banks, insurance agents, stock brokers and mortgage lenders) and non-financial companies (such as stores, airlines, and software companies). 
-
-
-
-Yahoo! works with vendors, partners, advertisers, and other service providers in different industries and categories of business. For more information regarding providers of products or services that you've requested please read our detailed [reference links](http://info.yahoo.com/privacy/us/all/). 
-
-Return to Top
-
-## COOKIES
-
-Yahoo! may set and access Yahoo! [cookies](http://info.yahoo.com/privacy/us/yahoo/cookies/) on your computer.
-
-Yahoo! lets [other companies](http://info.yahoo.com/privacy/us/yahoo/thirdparties/) that show advertisements on some of our pages set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to Yahoo!'s cookies.
-
-Yahoo! uses [web beacons](http://info.yahoo.com/privacy/us/yahoo/webbeacons/) to access Yahoo! cookies inside and outside our network of web sites and in connection with Yahoo! products and services.
-
-### Your Ability to Edit and Delete Your Account Information and Preferences
-
-  
-
-
-### General
-
-You can edit your [Yahoo! Account Information](http://edit.yahoo.com/config/eval_profile), including your [marketing preferences](http://subscribe.yahoo.com/showaccount), at any time. 
-
-New categories of marketing communications might be added to the Marketing Preferences page from time to time. Users who visit this page can opt out of receiving future marketing communications from these new categories or they can unsubscribe by following instructions contained in the messages they receive. 
-
-We reserve the right to send you certain communications relating to the Yahoo! service, such as service announcements, administrative messages and the Yahoo! Newsletter, that are considered part of your Yahoo! account, without offering you the opportunity to opt out of receiving them. 
-
-You can delete your Yahoo! account by visiting our [Account Deletion](https://edit.yahoo.com/config/delete_user) page. Please [click here](http://info.yahoo.com/privacy/us/yahoo/datastorage/) to read about information that might possibly remain in our archived records after your account has been deleted. 
-
-### Children
-
-Parents can review, edit, and delete information relating to their child's Yahoo! account using tools offered by [Yahoo! Family Accounts](http://family.yahoo.com/). 
-
-If a parent chooses not to allow us to further collect or use a child's information, parents enrolled in Yahoo! Family Accounts can delete their child's account by signing into that child's account and then visiting our [Account Deletion](https://edit.yahoo.com/config/delete_user) page. Please [click here](http://info.yahoo.com/privacy/us/yahoo/datastorage/) to read about information that might possibly remain in our archived records after your account has been deleted. 
-
-Return to Top
-
-## CONFIDENTIALITY AND SECURITY
-
-We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. 
-
-We have physical, electronic, and procedural safeguards that comply with federal regulations to protect personal information about you. 
-
-To learn more about security, including the security steps we have taken and security steps you can take, please read [Security at Yahoo!](http://info.yahoo.com/privacy/us/yahoo/security/).
-
-### CHANGES TO THIS PRIVACY POLICY
-
-Yahoo! may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Yahoo! account or by placing a prominent notice on our site. 
-
-Return to Top
-
-## QUESTIONS AND SUGGESTIONS
-
-[Yahoo! is TRUSTe-certified](http://www.truste.org/ivalidate.php?url=www.yahoo.com&sealid=101). This certification applies to all English-language sites under the Yahoo.com domain. If you feel that your inquiry has not been satisfactorily addressed, you should contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php), an independent privacy organization. TRUSTe serves as a liaison with Yahoo! to resolve your concern. 
-
-If you have questions or suggestions, please complete a [feedback form](http://add.yahoo.com/fast/help/us/privacy/cgi_feedback?radio30=radio305) or you can contact us at:
-
-Yahoo! Inc.  
-Customer Care - Privacy Policy Issues  
-701 First Avenue  
-Sunnyvale, CA 94089  
-(408) 349-5070
-
-Effective Date: November 22, 2006
-
-Return to Top
+Privacy Policy Changes  
+Although most changes are likely to be minor, SOFREP may change its Privacy Policy from time to time, and in SOFREP’s sole discretion. SOFREP encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
