@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reedconstructiondata.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016015119id_/http%3A//www.reedconstructiondata.com/corporate/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reedconstructiondata.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531085835id_/http%3A//www.reedconstructiondata.com/corporate/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,7 +10,7 @@ Our site visitors’ privacy and trust are important to us. We provide this noti
 
 This Privacy Policy describes the policies of Reed Construction Data LLC ( ** _“RCD”_** or ** _“we”_** ) regarding the collection, use, disclosure and protection of the following types of information:
 
-  * Information obtained when you (“ ** _you_** _”_ **** or “ ** _User_** ”) visit any of the following web sites of RCD and R.S. Means Company, LLC: **ReedConstructionData.com, ReedConnect.com, SmartProjectNews.com, cubusReedConstructionData.com, MeansCostworks.comRSMeans.com and ReedPSP.com** (collectively, the “Sites”).
+  * Information obtained when you (“ ** _you_** _”_ **** or “ ** _User_** ”) visit any of the following web sites of RCD and R.S. Means Company, LLC: **ReedConstructionData.com, ReedConnect.com, SmartProjectNews.com, cubusReedConstructionData.com, MeansCostworks.com,RSMeans.com and ReedPSP.com** (collectively, the “Sites”).
   * Information obtained through e-mail communications with you related to the Sites.
 
 
@@ -29,7 +29,7 @@ The information we collect may include information from which you may be persona
 
 When you visit the Sites, we may collect the IP address of your computer. We also use automatic data collection technology to record other information that identifies your computer and tracks your behavior on the Sites. Methods used to collect this information may include “cookies” and “clear GIFs” (also known as “pixel tags” or “beacons”). A cookie is a small amount of data that is sent to your browser from a server and stored on your computer’s hard drive. Most browsers allow Users to block the receipt of cookies, but doing so may compromise your ability to use certain features of the Sites. A clear GIF is a small graphic image, typically used in connection with cookies, that is placed on a web site or in an email message. A clear GIF can monitor certain user behavior, such as your usage of the Sites, whether you opened an email message or whether you clicked on a URL in an email message. We do not collect Personally Identifiable Information in this way, but if you provide us with Personally Identifiable Information, we may associate that information with the information that is collected automatically.
 
-Some of the materials included on the Sites, including advertising, may be served by third parties. These third parties, in the course of serving such materials, may collect information regarding your use of the Sites and how you respond to e-mail communications, using methods that may include automatic data collection, and may use this information in order to present advertisements or other content that may be of interest to you on both the Sites and other web sites. Collection, use, disclosure and security of information collected by third parties are subject to the privacy policies of those third parties. If you would like more information about this practice or to opt out of having this information used by certain third-party ad servers to provide targeted ads, please visit . [http://www.networkadvertising.org/optout_nonppii.asp](http://www.networkadvertising.org/optout_nonppii.asp).
+Some of the materials included on the Sites, including advertising, may be served by third parties. These third parties, in the course of serving such materials, may collect information regarding your use of the Sites and how you respond to e-mail communications, using methods that may include automatic data collection, and may use this information in order to present advertisements or other content that may be of interest to you on both the Sites and other web sites. Collection, use, disclosure and security of information collected by third parties are subject to the privacy policies of those third parties. If you would like more information about this practice or to opt out of having this information used by certain third-party ad servers to provide targeted ads, please visit . <http://www.networkadvertising.org/optout_nonppii.asp>.
 
 **How We Use Your Information**
 
