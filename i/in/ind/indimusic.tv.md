@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indimusic.tv privacy policy that was archived on 2012-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121128043142id_/http%3A//indimusic.tv/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indimusic.tv privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531163730id_/http%3A//indimusic.tv/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
