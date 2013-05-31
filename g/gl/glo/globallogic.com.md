@@ -1,73 +1,35 @@
-> *The following text is extracted and transformed from the globallogic.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014132156id_/http%3A//www.globallogic.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globallogic.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531185701id_/http%3A//www.globallogic.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | GlobalLogic
 
-GlobalLogic, Inc. is sensitive to privacy issues on the Internet. Although generally a User is under no obligation to provide personal information while accessing the GlobalLogic Site, there are some circumstances under which a User may be asked to provide such information.
+**Last Updated: March 25, 2013**
 
-  
+This Privacy Policy is an integral part of the agreement between you and us concerning the use of the Site(s). The other integral parts of such agreement are the [Terms of Service](http://www.globallogic.com/terms-of-service "Terms of Service") and any other legal notices that may be provided by GlobalLogic. All capitalized terms used herein that are not otherwise defined in this Privacy Policy shall be as defined in the [Terms of Service](http://www.globallogic.com/terms-of-service "Terms of Service").
 
+We reserve the right to amend the Privacy Policy at any time, for any reason. The date of the last revision to the Privacy Policy will be indicated by the “Last updated” date at the beginning of this page.
 
-### Information Collection and Use
+Your submission of information to the Site(s) represents your agreement to this Privacy Policy. If you do not agree with this Privacy Policy DO NOT submit your information to us.
 
-In some circumstances, GlobalLogic may request personal information from the User, such as his or her name, e-mail address, company name, telephone number, etc. Users are free to respond or not to respond to these inquiries; all information provided to GlobalLogic is strictly voluntary. GlobalLogic is the sole owner of information collected by this Site. We will not sell, share or rent this information to third parties.
+A. Information We Collect
 
-This Site allows Users to submit their resumes online. Any resume received by GlobalLogic will be held in confidence and used only for the purpose of considering the submitting party for employment. Such information is not shared with any third parties or external agencies.
+1\. Personally Identifiable Information: We may collect information that identifies you (“Personally Identifiable Information”) when you choose to interact and provide such information to us by writing to us, or filling out certain forms or online data requests, and provide your name, telephone number, e-mail address, job and related information.
 
-Some areas of this Site may require Users to provide personal information in order to complete certain functions. Such functions may not be available to Users who choose not to provide the information requested.
+2\. Non-Personal Data: As you interact on our Site(s), we may also collect information that is not Personally Identifiable Information but may disclose other aspects of your browsing history or certain other information about you through the use of a variety of technologies, including, but not limited to, cookies, tags, beacons, Internet Protocol (IP) address tracking/URL tracking, and other tools. “Cookies” are pieces of code/text that gets placed on your computer when you browse our Site(s). Cookies may be placed by us or third party advertisers contracted by us. “Tags” and web beacons refer to code scripts that are primarily used to track visitors’ activities on our Site(s) by web analytics software. The types of non-personal data collected on our Site(s) through the use of these, and other tools as the GlobalLogic may add from time to time, may include: the search terms you used, new or returning user, browser information, computer type, operating system, internet service providers, website usage, referring/exit pages, platform type, date/time stamp, number of clicks, ads viewed, location, hardware information, etc. Additionally, cookies, tags and other tools placed by third parties may collect other information about you such as, but not limited to, your industry, company size, job function, seniority level, etc.) (collectively, all of the foregoing data the “Non-Personal Data”).
 
-  
+You may block or disable cookies on your computer which will restrict the collection of Non-Personal Data enabled through the use of cookies but doing so may prevent you from accessing certain functionalities on the Site(s).
 
+GlobalLogic may also use third party application tracking services like Google Analytics to help understand the use of our Site(s). Please be aware that through Google Analytics the information sent by your browser as part of a web page request, including cookies and your IP address, is collected. In that case, Google will also receive this information and their use of it is governed by Google’s privacy policy.
 
-### Registration for Collateral and Software Downloads
+B. Information We Do Not Collect – Children. We do not knowingly solicit data online from or market to children under the age of 13. We do not knowingly collect personal information from children under 13. If we become aware that a child under 13 has provided us with personal information without parental consent, we take steps to delete such information.
 
-In order to download collateral or trial versions of software provided on the GlobalLogic Site, a User must first fill out a registration form that requests the User's contact information (such as name and email address). This information is used to contact the User about the products and services for which he or she has expressed interest.
+C. How We Use Information. Once collected, we may only use your Personally Identifiable Information to answer your emails or online requests, to deliver and process surveys, to fulfill and/or deliver GlobalLogic products and services, including sharing with our business partners to offer you products and services that may be of interest to you, and/or we may also share with third parties as required by law or to protect GlobalLogic as described below. We may collect and use Non-Personal Data to improve the usability of our Site(s) and for other business reasons. We do not sell your information to third parties.
 
-  
+D. Sharing Your Personally Identifiable Information When Legally Necessary or to Protect GlobalLogic’s interests. GlobalLogic may disclose your Personally Identifiable Information if required to do so by law or in the good-faith belief that such action is necessary to: (a) conform to legal requirements or comply with legal process served on the GlobalLogic; (b) protect and defend the rights or property of GlobalLogic; or (c) protect the personal safety of GlobalLogic personnel or members of the public in appropriate circumstances.
 
+E. How to Manage the Sharing Of Your Personally Identifiable Information. You can manage your email preferences, including opting out of email either online or by contacting us. Additionally, if you prefer to receive mailings only from GlobalLogic and have your name and address removed from the list provided to our business partners, please contact us at [info@globallogic.com.](mailto:info@globallogic.com)
 
-### Collecting Information for Surveys
+F. Linking to other Internet sites. You should be aware that other Internet sites that are linked from the Site(s) or from a GlobalLogic email message may contain privacy provisions that differ from the provisions of this Privacy Policy. To ensure your privacy is protected, we recommend that you review the privacy statements of these other linked sites, applications or other digital properties.
 
-At times GlobalLogic conducts online surveys to better understand the needs and profiles of our Site Users. We will try to the best of our abilities to inform Users of how we will use this information at the time of conducting the survey. Survey participation is completely voluntary, and Users may refrain from contributing to the survey at any point in time.
+G. Security. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet or via mobile device, or method of electronic storage, is 100% secure, however. Accordingly, and despite our efforts, GlobalLogic cannot guarantee or warrant the security of any information you transmit to us, or to or from our online products or services.
 
-  
-
-
-### Use of Log Files
-
-GlobalLogic collects User domain information in order to analyze the use of this Site. This data enables us to become more familiar with who visits our Site, how often they visit and what parts of the Site they visit most often. GlobalLogic uses this information to improve its Web-based offerings. This information is collected automatically and requires no action by the User. By accessing our Site, Users grant their unconditional consent to allow GlobalLogic to collect their domain names.
-
-  
-
-
-### Use of Cookies
-
-A cookie is a piece of data stored on the User's hard drive that contains information about the User. By using a cookie on the GlobalLogic Site, a User does not have to log into the Site using a password more than once. Cookies also enable GlobalLogic to track and target the interests of our Users in order to enhance their experience on our Site. Using a cookie while on the GlobalLogic Site does not provide us with the User's personal information. Once the User closes his or her browser, the cookie simply terminates. If a User rejects the cookie, he or she may still access the GlobalLogic Site. However, the User may experience usage limitations in some areas of the Site.
-
-  
-
-
-### Links
-
-The GlobalLogic Site contains links to other websites. Please be aware that GlobalLogic is not responsible for the privacy practices of these sites. This privacy statement applies solely to information collected by this Site. We encourage our Users to read the privacy statements of each website they visit when leaving the GlobalLogic Site.
-
-  
-
-
-### Security
-
-GlobalLogic takes every precaution to protect a User's information. When Users submit sensitive information via the Site, their information is protected both online and offline.
-
-When a GlobalLogic registration/order form asks Users to enter sensitive information (such as a credit card number and/or social security number), that information is encrypted using the best encryption software in the industry-SSL. While on a secure GlobalLogic page, the "lock" icon at the bottom of the User's web browser will become locked, as opposed to the unlocked icon that appears when Users are viewing unsecured pages.
-
-In addition to using SSL encryption to protect sensitive User information online, GlobalLogic also takes extensive measures to protect User information offline. All User information (including non-sensitive data) is restricted to the GlobalLogic offices. Only employees who need the information to perform a specific task (e.g., billing clerks, customer service representatives, etc.) are granted access to Users' personally identifiable information.
-
-If you have any questions about the security of the GlobalLogic Site, please contact us at [info@globallogic.com](mailto:info@globallogic.com)
-
-  
-
-
-### Site and Service Updates
-
-GlobalLogic reserves the right to distribute Site and service announcements to Users. Members are not able to unsubscribe from service announcements, which contain important information about the User's requested services. GlobalLogic communicates with Users via email or phone to provide requested services and to resolve issues relating to their accounts.
-
-GlobalLogic reserves the right to modify or update the privacy statement at any time without notice.
+If you have questions about this Privacy Policy or if you believe that we have not adhered to this Privacy Policy you may write to us at the following address: [info@globallogic.com](mailto:info@globallogic.com).
