@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psoug.org privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503232315id_/http%3A//psoug.org/w3c/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psoug.org privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531040756id_/http%3A//psoug.org/w3c/privacy.htm) for the most accurate reproduction.*
 
 # Oracle PL/SQL Database Code Library and Resources | Examples | Packages | Syntax | PL/SQL | SQL |
 
