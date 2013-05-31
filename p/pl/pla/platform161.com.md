@@ -1,79 +1,134 @@
-> *The following text is extracted and transformed from the platform161.com privacy policy that was archived on 2012-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120901213256id_/http%3A//platform161.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the platform161.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531153441id_/http%3A//platform161.com/company/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Page | PLATFORM 161 - Responsive to Change
+# Cookie and privacy policy - Platform161
 
-### Platform161 Technology Platform 
+### **We take privacy seriously and so should you!**
 
-Platform161 is a technology provider for our clients. As a technology provider, we prohibit our clients from sending personally identifiable information to the Platform161 technology.
+_This cookie & privacy policy has been updated on January 7th 2013._
 
-Before the Platform161 technology delivers an ad, the technology uses information collected from several sources to decide the best ad to display. The information used helps the technology infer the context in which the ad will appear; resulting in a more relevant ad. This section describes the technologies used on our client’s websites to help deliver the most relevant ad to you: 
+**What this policy covers:**
 
-* Cookies are small text files that are stored within a browser. They are accessed and recorded by the web site visited and by the companies that show ads on that site to enable them to recognize the same browser or user. They are used as part of the ad serving process and also help us collect information about a user’s online interactions. The Platform161 cookie helps us maintain a list of ads previously delivered by our technology. The cookie also stores the number of times the same ad was delivered, the number of times you have clicked on an ad served by our technology, and the number of times you have possibly engaged in a business transaction on the advertisers website. 
+This policy explains
 
-* When an ad is served on one of our clients websites, Platform161’s technology collects non-personally identifiable information such as the date and time of your visit to our clients website, your IP address, the type of browser you are using, and the web page address that you are visiting. This information helps our technology infer the context in which the ad will appear. This information is saved in a log file and kept by Platform161 for auditing and fraud detection purposes.
-
-* Our technology responds to requests from ad tags placed on the website you are visiting. Ad tags provide Platform161 with information to determine the size and location of the ad. In some cases, websites can also provide information about you, such as non-personally identifiable demographic information.
-
-* Our technology uses web beacons (also known as clear GIFs or 1x1 pixels). A web beacon serves a tiny graphic placed on a web site that is not visible to the user. We allow our clients to use web beacons to measure campaign effectiveness and to optimize campaign performance. The advertiser can then utilize this information to measure the effectiveness of their campaign and provide more relevant advertising. Our technology also uses pixels to allow our clients to create and identify consumer segments and select the appropriate ad based on the segment.
-
-* Our technology collects and stores aggregated ad delivery reporting data. This data is used to provide our clients with campaign reporting and used for billing purposes. A typical report includes information about the ads delivered, including the date and time of ad delivery, the websites on which the ads were shown, and statistics on user response. A report also includes statistics about browser types, date and time of ad delivery, and inferred geography. 
-
-Platform161 uses retargeting (tracking) pixels and conversion pixels that drop cookies. Platform161 drops cookies through every ad it serves.
-
-**Tracking cookies** are being used for several purposes.
-
-1\. To determine a user’s interest based on previous site visits by this user. Example: Platform161 runs an advertising campaign for Brand X. Brand X implements a Platform161 tracking pixel on their homepage. The users that visit the Brand X homepage can be re-targeted when recognized afterwards within the Platform161 network with a Brand X ad.
-
-2\. To determine, count and attribute conversions. Cookies are being used to track if and when a user makes a purchase on an advertiser’s site. Example: a user clicks on an ad served by Platform161. Once on the page the ad links to, the user makes a purchase. This purchase is counted and Platform161 receives a fee on every counted purchase.
-
-When Platform161 drops a tracking cookie, it stores the following data points: 
-
-  * _• Unique User ID_
-  * _• Pixel ID_
-  * _• Behavioral segment ID (if any)_
-  * _• Page URL on which the pixel was shown_
+  * how the ad serving technology of Platform161 works;
+  * how and which tracking methods are used by Platform 161 to collect data, which data is collected and the purposes for which the tracking methods and the information collected thereby are used;
+  * the choices regarding the acceptance of these tracking methods;
+  * the personal data collected and processed by Platform161;
+  * the choices regarding the use and sharing of personal information by Platform 161.
 
 
 
-This info in anonymous and can in no way be linked to the user’s identity.  
-Next to the data that are been gathered by Platform161 through dropping our own cookies, third party data can also be used to optimize our campaigns. These third party data come from third party data providers that live up to current law and industry standards. 
+### **Details about the ad serving technology **
 
-Platform161 cookies will be stored for 2 years after being dropped on a device. 
+Platform161 offers ad serving technology which enables its clients to engage in online advertising. Our clients are all kinds of businesses engaged in online advertising: advertisers, ad networks, media agencies, and publishers. These clients buy online ad space. When ad space is sold to a client of Platform161, Platform161’s technology fulfils this transaction by delivering the ad of an advertiser (on behalf of the client) on that site.
+
+In practice, you come into contact with Platform161 when you by means of e.g. your computer, tablet or smart phone - view an ad that has been served by Platform161 on website.
+
+The ads sent by Platform161 are sent from the domain ads.creativeserving.com and/or ads.p161.net.
+
+### **Platform161’s Technology Platform **
+
+#### **_Introduction_**
 
 * * *
 
-### Transparency, Choice and Opt-In 
+The ad serving technology offered by Platform161 delivers an ad on a website. The technology uses information collected from several sources to decide the best and most relevant ad to display to you.
 
-Our technology does not collect any personally identifiable information about you during the ad delivery process. Accordingly, Platform161 is unable to provide access nor has the ability to change information stored by our technology. 
+_Tracking technologies used, data collected and purposes_
 
-Our technology uses cookies for ad selection in order to enhance ad effectiveness. Platform161 believes that cookies enhance your web experience by limiting the repetitiveness of advertising and increasing the level of relevant ads. Because some users may not want information to be collected by using cookies, we will only drop a cookie on your computer if you have not opted-out for this. Currently the market is working on the best way to ask user permission, opt-in, for the dropping of cookies. As an IAB member Platform161 is keeping a close eye on the latest developments and will take appropriate measures when an industry-wide accepted standard becomes available. 
+This section of the policy describes the technologies used to help deliver the most relevant ad to you:
+
+* Cookies. Cookies are small text files that are stored within a browser.
+
+Platform 161 drops cookies through every ad it serves for the following purposes:
+
+1\. For Targeting and Optimisation:
+
+(a)    to recognize a user ID visiting a website (user matching);
+
+(b)    as part of the (targeted) ad serving process;
+
+(c)    to collect information about the user’s online interaction (over multiple websites) and use that information to build user profiles;
+
+(d)    to maintain a list of ads previously delivered by the technology of Platform161;
+
+(e)    to remember the number of times the same ad was delivered to a user;
+
+2. For Reporting and Attribution:
+
+(f)    to collect the number of times a user clicked on an ad served by Platform161 (on behalf of a client) and
+
+(g)    to track and assess the number of times a user engages in a business transaction (i.e. makes purchases) on the site of an advertiser.
+
+(h)   to determine, count and attribute conversions. For example: a user clicks on an ad served by Platform161 on a website. Once on the website the ad links to, the user makes a purchase on that website. This purchase is counted by means of cookies.
+
+Platform161 uses the following types of cookies:
+
+[](http://platform161.com/wp-content/uploads/Screen-shot-2013-03-22-at-2.53.24-PM.png)
+
+Next to the data that are being gathered by Platform161 through dropping our own cookies, third party data can also be used to optimize our campaigns. These third party data come from third party data providers that live up to current law and industry standards.
+
+Platform161’s cookies will be stored for 2 years after being dropped on a device.
+
+* **Ad tags**. Platform161’s technology responds to requests from ‘ad tags’ placed on the website you are visiting. Ad tags provide Platform161 with information and enable Platform161 to determine the correct size and location of an ad.
+
+* **Pixel tags**. Platform161 also uses pixel tags (also known as javascript or 1×1 pixels) to drop cookies. A pixel tag is a tiny graphic or script placed on a website that is not visible to the user. These pixel tags communicate with the technology of Platform161 and enable Platform161 to recognize a user by means of its UUID, or in the event that no UUID has been assigned to a user, to drop a cookie on the user’s equipment and assign a UUID to the user. The use of pixel tags allows Platform161 to measure campaign effectiveness, to optimize campaign performance and to provide more relevant advertising.  Pixel tags furthermore allow Platform161 to create and identify consumer segments and to select the appropriate ad based on the consumer segment.
+
+**Transparency, Choice and Opt-In:**
+
+Platform161’s technology uses cookies for ad selection in order to enhance ad effectiveness. Platform161 believes that the tracking technologies used by Platform161 and described above enhance your web experience by limiting the repetitiveness of advertising and increasing the level of relevant ads delivered to you. However, you may not want, for example, cookies to be stored on your equipment or information to be collected by using these cookies. We will therefore only drop a cookie on your computer if you have consented or opted-in for this.
+
+We also provide you with the possibility to no longer accept Platform161’s cookies. To enable our cookies please click ‘opt-out’.
+
+To opt-out or opt-in, please click on the corresponding link below:
+
+  * [Opt-out →](http://ads.p161.net/opt-out)
+  * [Opt-in →](http://ads.p161.net/opt-in)
+
+
+
+#### **Data Controller, Data Collected, Purpose: **
 
 * * *
 
-### Information Sharing and Disclosure
+Besides the data collected when a cookie is dropped, the Platform161 technology also collects the following possible personal data: such as the date and time of ad delivery to a user, the IP-address, postal code, region and country of a user, language setting, the type of browser, operating system used and connection speed, status of a user (unknown, accepting or not accepting cookies), the web page address(es) where the ad has been delivered, and administered clicks on ads. This information helps our technology to decide the best and most relevant ad to display to a user.
 
-All Platform161 cookie data are for internal use only, to optimize advertiser campaigns. No user data is being transferred to other parties than Platform161, including the advertisers and agencies we work with.
+Platform161’s technology collects and stores aggregated ad delivery reporting data. This data is used to provide our clients with campaign reporting and used for billing purposes. A typical report includes information about the ads delivered, including the date and time of ad delivery, the websites on which the ads were shown, and statistics on user response. A report also includes statistics about browser types, date and time of ad delivery, and inferred geography.
 
-However, Platform161 may provide copies of log files to advertisers, clients and certain partners relating to the specific transactions they are a party to. These files contain information that allows clients to analyze the effectiveness and performance of their advertising campaign. Our clients also have the ability to use any or all of the information collected in connection with our services for their own purposes. The information provided to our clients does not contain personally identifiable information about you. In cases where Platform161 provides information to our clients, our clients are obligated to use the information they receive in compliance with applicable laws and regulations. 
+Finally, the information collected (by means of cookies and/or other tracking methods) is processed for internal purposes _only_ : i.e. to possibly build user profiles that enable Platform161 to optimize and personalize advertiser campaigns.
+
+To the extent that the data referred to above constitutes personal data within the meaning of the Dutch Data Protection Act, Platform161 will act as a data controller within the meaning of the Dutch Data Protection Act with respect to the processing of such data.
+
+#### **Information Sharing and Disclosure:**
+
+* * *
+
+Your data is not being transferred to other parties than Platform161, including the advertisers, ad networks, and media agencies Platform161 works with.
+
+Platform161 may provide copies of log files to advertisers, clients and certain partners relating to the specific transactions they are a party to. These files contain information that allows clients to analyse the effectiveness and performance of their advertising campaign. Our clients also have the ability to use any or all of the information collected in connection with our services for their own purposes. The information provided to our clients does not contain personally identifiable information about you. In cases where Platform161 provides information to our clients, our clients are obliged to use the information they receive in compliance with applicable laws and regulations.
 
 Platform161 may share the information it collects with selected partners, vendors, agents or others who work on our behalf, in order to provide products or services you have requested, or when we have your permission. Platform161 may share information about you if Platform161 is acquired by or merged with another company.
 
-Platform161 may also share information in the event that we are asked to respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims, or as otherwise permitted by law. 
+Platform161 may also share information in the event that we are asked to respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims, or as otherwise permitted by law.
+
+#### **Security measures:**
 
 * * *
 
-### Other
+Platform161 maintains safeguards to protect the security, integrity and privacy of the personally identifiable information in our control. Platform161 safeguards ensure that personally identifiable information is protected against loss and unlawful processing. They also aim at preventing unnecessary processing.
 
-Platform161 maintains safeguards to protect the security, integrity and privacy of the personally identifiable information in our control. 
+#### **Updates & Questions:**
 
-Platform161 may update this policy from time to time. Please check this privacy policy for updates. 
+* * *
 
-If you have any questions about this Privacy Policy, please contact us at the following: 
+Platform161 may update this policy from time to time. Please check this Cookie & Privacy Policy for updates.
 
-**Platform161**   
-Attention: Privacy Questions 
+If you have any questions about our Cookie & Privacy Policy or would like to obtain more information about the data we process about you, please contact us:
 
-Jacob Obrechtplein 1B  
-1071 KS Amsterdam  
-The Netherlands  
-[www.Platform161.com](http://www.platform161.com/)
+**Platform161**
+
+**Attention: Privacy Questions**
+
+**Email us: privacy@platform161.com**
+
+**Jacob Obrechtplein 1B | 1071 KS | Amsterdam | The Netherlands | www.platform161.com**
