@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gigya.com privacy policy that was archived on 2012-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121220074027id_/http%3A//www.gigya.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gigya.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531181631id_/http%3A//www.gigya.com/privacy-policy) for the most accurate reproduction.*
 
 # Gigya Privacy Policy
 
@@ -14,26 +14,26 @@ We have established this Privacy Policy to explain how we collect Personal Infor
 
 ### Quick Reference
 
-  * [1\. How the Gigya Website Operates](http://www.gigya.com/privacy-policy/#1)
-  * [2\. How the Gigya Services Operate](http://www.gigya.com/privacy-policy/#2)
-  * [3\. Information We Collect](http://www.gigya.com/privacy-policy/#3)
-  * [4\. User-Supplied Information](http://www.gigya.com/privacy-policy/#4)
-  * [5\. How We Use Personal Information](http://www.gigya.com/privacy-policy/#5)
-  * [6\. When We Disclose Personal Information](http://www.gigya.com/privacy-policy/#6)
-  * [7\. Passive Data Collection](http://www.gigya.com/privacy-policy/#7)
-  * [8\. How We Use Passively-Collected Information](http://www.gigya.com/privacy-policy/#8)
-  * [9\. Information Received From Third Party Sources](http://www.gigya.com/privacy-policy/#9)
-  * [10\. Aggregate Information and Non-Identifying Information](http://www.gigya.com/privacy-policy/#10)
-  * [11\. Change of Ownership](http://www.gigya.com/privacy-policy/#11)
-  * [12\. Security](http://www.gigya.com/privacy-policy/#12)
-  * [13\. Children](http://www.gigya.com/privacy-policy/#13)
-  * [14\. Your Choices](http://www.gigya.com/privacy-policy/#14)
-  * [15\. Communications and Unsolicited Marketing Communications](http://www.gigya.com/privacy-policy/#15)
-  * [16\. International Users](http://www.gigya.com/privacy-policy/#16)
-  * [17\. EU and Swiss Safe Harbor](http://www.gigya.com/privacy-policy/#17)
-  * [18\. Third-Party Services](http://www.gigya.com/privacy-policy/#18)
-  * [19\. Changes and Updates to This Privacy Policy](http://www.gigya.com/privacy-policy/#19)
-  * [20\. Contacting Us](http://www.gigya.com/privacy-policy/#20)
+  * 1\. How the Gigya Website Operates
+  * 2\. How the Gigya Services Operate
+  * 3\. Information We Collect
+  * 4\. User-Supplied Information
+  * 5\. How We Use Personal Information
+  * 6\. When We Disclose Personal Information
+  * 7\. Passive Data Collection
+  * 8\. How We Use Passively-Collected Information
+  * 9\. Information Received From Third Party Sources
+  * 10\. Aggregate Information and Non-Identifying Information
+  * 11\. Change of Ownership
+  * 12\. Security
+  * 13\. Children
+  * 14\. Your Choices
+  * 15\. Communications and Unsolicited Marketing Communications
+  * 16\. International Users
+  * 17\. EU and Swiss Safe Harbor
+  * 18\. Third-Party Services
+  * 19\. Changes and Updates to This Privacy Policy
+  * 20\. Contacting Us
 
 
 
@@ -41,13 +41,13 @@ We have established this Privacy Policy to explain how we collect Personal Infor
 
 ### 1\. How the Gigya Website Operates
 
-In our operation of the Gigya Website, we collect, use, and retain all information, including Personal Information, that you disclose to us. Our use and disclosure of Personal Information is described in this Privacy Policy. Our disclosures of Personal Information to our partners and affiliates are described in greater detail under the [“When We Disclose Personal Information](http://www.gigya.com/privacy-policy/#6)” heading below. In general, the types and amount of Personal Information we collect vary depending on the activity on the Gigya Website. We endeavor to limit the collection of Personal Information to information we believe is minimally necessary to achieve our stated collection purposes.
+In our operation of the Gigya Website, we collect, use, and retain all information, including Personal Information, that you disclose to us. Our use and disclosure of Personal Information is described in this Privacy Policy. Our disclosures of Personal Information to our partners and affiliates are described in greater detail under the “When We Disclose Personal Information” heading below. In general, the types and amount of Personal Information we collect vary depending on the activity on the Gigya Website. We endeavor to limit the collection of Personal Information to information we believe is minimally necessary to achieve our stated collection purposes.
 
 * * *
 
 ### 2\. How the Gigya Services Operate
 
-In the operation of our Services, we collect, use, and retain certain Personal Information that is necessary to perform the Services for our Clients, this includes End User Personal Information. Our use and disclosure of Personal Information is described in this Privacy Policy, with disclosure being described in greater detail under the [“When We Disclose Personal Information](http://www.gigya.com/privacy-policy/#6)” heading below. In general, the types and amounts of Personal Information we collect through the use of our Services will vary depending on the Services implemented and the activity occurring through that Service.
+In the operation of our Services, we collect, use, and retain certain Personal Information that is necessary to perform the Services for our Clients, this includes End User Personal Information. Our use and disclosure of Personal Information is described in this Privacy Policy, with disclosure being described in greater detail under the “When We Disclose Personal Information” heading below. In general, the types and amounts of Personal Information we collect through the use of our Services will vary depending on the Services implemented and the activity occurring through that Service.
 
 To implement the Gigya Services, our Clients will utilize Gigya’s Javascript Application Programming Interface (API), Representational State Transfer (REST) API (collectively, “the Gigya API”), within their websites and mobile applications. The Gigya API may be used to implement any (or all of) the following: Social Login, Social Plugins, Gamification, RaaS, Identity Storage, and Data Store. Some Clients choose to load Gigya’s API on each page of their website, not just on those pages where a Service is directly implemented. A list of Gigya Services that you, as an End User, may be interacting with are located here: <http://www.gigya.com/products/>.
 
@@ -57,11 +57,11 @@ To implement the Gigya Services, our Clients will utilize Gigya’s Javascript A
 
 #### A. On the Company Website
 
-We collect two types of data about users: (1) information that you or others voluntarily submit to us (described below under “[User-Supplied Information](http://www.gigya.com/privacy-policy/#4)”) and (2) technical data automatically collected from all visitors to the Gigya Website (described below under “[Passive Data Collection](http://www.gigya.com/privacy-policy/#7)”).
+We collect two types of data about users: (1) information that you or others voluntarily submit to us (described below under “User-Supplied Information”) and (2) technical data automatically collected from all visitors to the Gigya Website (described below under “Passive Data Collection”).
 
 #### B. Through the Gigya Services 
 
-We collect two types of data about End Users: (1) information that is passed through the Gigya API as a result of use of the Services (described below under “[User-Supplied Information](http://www.gigya.com/privacy-policy/#4)”) and (2) technical data automatically collected from all visitors to pages of a Client’s website that load the Gigya API (described below under “[Passive Data Collection](http://www.gigya.com/privacy-policy/#7)”). 
+We collect two types of data about End Users: (1) information that is passed through the Gigya API as a result of use of the Services (described below under “User-Supplied Information”) and (2) technical data automatically collected from all visitors to pages of a Client’s website that load the Gigya API (described below under “Passive Data Collection”). 
 
 * * *
 
@@ -87,10 +87,10 @@ If you, as an End User, choose to log into a Client’s website or mobile applic
 _Identity Storage and Registration as a Service (RaaS)_  
 If one of our Clients elects to utilize Gigya’s [Identity Storage](http://www.gigya.com/user-management/identity-storage/) (database) technology in addition to Social Login, then Gigya will also store the End User Personal Information collected on the Client’s behalf (“Identity Storage Stored Data”). Gigya Clients may also elect to use RaaS to handle traditional (non-Social) login, registration, and profile management in addition to (or separate from) our Social Login Service. As an End User on one of our Client’s websites utilizing RaaS, you may provide certain Personal Information, including, but not limited to first name, last name, and email, via the standard site registration forms. Once you click to complete the registration process, that information is then stored in Gigya’s Identity Storage database (“RaaS Stored Data”). 
 
-Additionally, certain End User Personal Information is automatically stored or cached on our servers outside of the use of the Identity Storage Service, such as through Social Plugins or Gamification (“Auto Stored Data”). Identity Storage Stored Data, RaaS Stored Data and Auto Stored Data are collectively referred to as the “End User Stored Data.” Gigya maintains no rights to use this End User Stored Data. Gigya acts as an agent or back-end vendor of the Client’s website or mobile application, to which the End User of our Client granted the permissions (if applicable), and Gigya is storing the End User Stored Data on the Client’s behalf. All of the End User Stored Data is encrypted both at rest in the database, as well as in transit to and from the social networks and the Client’s website or mobile application. 
+Additionally, certain End User Personal Information is automatically stored or cached on our servers outside of the use of the Identity Storage Service, such as through Social Plugins or Gamification (“Auto Stored Data”). Identity Storage Stored Data, RaaS Stored Data and Auto Stored Data are collectively referred to as the “End User Stored Data.” Gigya maintains no rights to use this End User Stored Data, other than utilizing the End User Stored Data to make the Services available to our Clients and End Users. Gigya acts as an agent or back-end vendor of the Client’s website or mobile application, to which the End User of our Client granted the permissions (if applicable), and Gigya is storing the End User Stored Data on the Client’s behalf. All of the End User Stored Data is encrypted both at rest in the database, as well as in transit to and from the social networks and the Client’s website or mobile application. 
 
 _Data Store_  
-If one of our Clients elects to utilize Gigya’s Data Store in addition to any other Social Components (or as a stand alone Service), then Gigya may store additional information, which may include Personal Information, on the Client’s behalf (“Data Store Information”). This Data Store Information may also include Personal Information that is not provided or collected through the Gigya Services. Gigya maintains no rights to use this Data Store Information. Gigya acts as an agent or back-end vendor of the Client’s and Gigya is storing the Data Store Information on the Client’s behalf.
+If one of our Clients elects to utilize Gigya’s Data Store in addition to any other Social Components (or as a stand alone Service), then Gigya may store additional information, which may include Personal Information, on the Client’s behalf (“Data Store Information”). This Data Store Information may also include Personal Information that is not provided or collected through the Gigya Services. Gigya maintains no rights to use this Data Store Information, , other than utilizing this Data Store Information to make the Services available to our Clients and End Users. Gigya acts as an agent or back-end vendor of the Client’s and Gigya is storing the Data Store Information on the Client’s behalf.
 
 _Sharing via Email_  
 Gigya’s Social Components may enable you to send emails to your friends. If you provide your email address, we will store that email address so that you do not need to re-enter it upon future use of this functionality. 
@@ -104,7 +104,7 @@ The Service may enable you to view a near-realtime feed of activity happening on
 _Participating in Gamification_  
 The Service may enable you to earn points and rewards for taking specified actions on our Client’s websites. We collect and store this content on behalf of our Clients. This may include the display of information such as your name, profile picture, points, and badges, both to you directly and publicly to others on the Client’s website or applications. 
 
-While Gigya takes precautions to ensure the confidentiality of the Personal Information you submit to us via the Gigya Website and/or Services, please note that any information posted to publicly facing sections of the Gigya Website or Services or a Client’s website or a social network will be publicly available. For example, if you are using the social community networking features of our Service, the information you post there (e.g., your opinion about your favorite sports team) will be viewable by others. Any information you choose to provide in a comment or a submission should reflect how much you want others to know about you. We recommend that you guard your anonymity and we encourage everyone to think carefully about what information about themselves they disclose via this or any other public forum. For more information about your choices on privacy settings available on the Gigya Website or Services, please see the “[Your Choices](http://www.gigya.com/privacy-policy/#14)” heading below. 
+While Gigya takes precautions to ensure the confidentiality of the Personal Information you submit to us via the Gigya Website and/or Services, please note that any information posted to publicly facing sections of the Gigya Website or Services or a Client’s website or a social network will be publicly available. For example, if you are using the social community networking features of our Service, the information you post there (e.g., your opinion about your favorite sports team) will be viewable by others. Any information you choose to provide in a comment or a submission should reflect how much you want others to know about you. We recommend that you guard your anonymity and we encourage everyone to think carefully about what information about themselves they disclose via this or any other public forum. For more information about your choices on privacy settings available on the Gigya Website or Services, please see the “Your Choices” heading below. 
 
 Please note that any information collected by the Services, including those mentioned above, is subject to that particular Client’s privacy policy, and that Gigya is merely facilitating the collection, transfer, and storage of the Personal Information in accordance with that privacy policy. You should read and be aware of the terms of service, privacy policy, and privacy practices of the website of any Client utilizing our Services. The specific data fields requested, via RaaS, Social Login or Social Plugins, are also determined by the Client, not Gigya.
 
@@ -166,7 +166,7 @@ This section provides more information about some of those technologies and how 
 
 
 
-For more information about cookies and web beacons, please visit <http://www.allaboutcookies.org/cookies/>. Please also see your choices available for opting out [here](http://www.gigya.com/optout-choices/).
+For more information about cookies and web beacons, please visit <http://www.allaboutcookies.org/cookies/>.
 
   * **Other local storage.** We, along with our partners and vendors, use other kinds of local storage, such as Local Shared Objects, also referred to as “Flash cookies”, and HTML5 Local Storage (including IE local storage), also referred to as “browser cookies”.
     * These technologies are similar to the cookies discussed above in that they are stored on your computer and can be used to store certain information about your activities and preferences. However, these objects are stored in different parts of your computer from ordinary browser cookies. 
