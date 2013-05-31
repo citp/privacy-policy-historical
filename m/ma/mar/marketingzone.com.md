@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketingzone.com privacy policy that was archived on 2012-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120515143707id_/http%3A//www.marketingzone.com/about-marketingzone/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketingzone.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531154730id_/http%3A//marketingzone.com/about-marketingzone/privacy-policy) for the most accurate reproduction.*
 
 # MarketingZone.com Privacy Policy | MarketingZone
 
