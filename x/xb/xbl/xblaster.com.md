@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xblaster.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919084320id_/http%3A//xblaster.com/sharedpages/privacypolicy/%3Flocale%3Den%26sid%3D55d7ba8f2fa5a2326dd8b7e701963422) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xblaster.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531070939id_/http%3A//www.xblaster.com/sharedpages/privacypolicy/%3Flocale%3Den%26sid%3D50b7b94a5c45b92a2bc2f056be8e5273) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -28,7 +28,7 @@ Bigpoint may collect further personal information from the parent as detailed be
 1.2  |  PERSONAL INFORMATION FROM USERS OVER 13   
 ---|---  
   
-Bigpoint only collects information that personally identifies you ("Personal Information") from you when you: (1) register on the Site; (2) register to use a Game; (3) contact us; (4) order products and services from us; and (5) participate in our surveys or promotional activities. Personal Information may include the following categories of information: Contact Data (such as your name, address, email address); Financial Data (such as your account or credit card information); and Demographic Data (such as zip code and age). If you communicate with us by e-mail, post messages to any of our chat groups, bulletin boards, or forums, or otherwise complete online forms, surveys, or Tournament entries, any information provided in such communication may be collected as Personal Information.
+Bigpoint only collects information that personally identifies you ("Personal Information") from you when you: (1) register on the Site; (2) register to use a Game; (3) contact us; (4) order products and services from us; and (5) participate in our surveys or promotional activities. Personal Information may include the following categories of information: Contact Data (such as your name, address, email address, telephone number); Financial Data (such as your account or credit card information); and Demographic Data (such as zip code and age). If you communicate with us by e-mail, post messages to any of our chat groups, bulletin boards, or forums, or otherwise complete online forms, surveys, or Tournament entries, any information provided in such communication may be collected as Personal Information.
 
 1.3  |  NON –PERSONAL INFORMATION   
 ---|---  
@@ -76,7 +76,7 @@ If you are a resident of California, you may request that we not share your pers
 
 
 
-We have taken certain physical, electronic, contractual, and managerial steps to safeguard and secure the information we collect from Site visitors.
+We have taken certain physical, electronic, contractual, and managerial steps to safeguard and secure the information we collect and store from Site visitors such as keeping the sensitive data behind a firewall, regular monitoring of our security program and computer systems for evidence of unauthorized use or access to personal information as well as physical security measures to guard against unauthorized access to systems where we store the information.
 
 7  |  US-EU and US-SWITZERLAND SAFE HARBOR   
 ---|---  
@@ -95,9 +95,8 @@ We reserve the right to change this privacy policy from time to time. When we do
 If you have questions or concerns about this Privacy Policy, contact us at privacy@bigpoint.net or write us.:  
 Bigpoint Inc.  
 Attention Privacy  
-500 Howard Street  
-Suite 300  
-San Francisco, CA 94105  
+795 Folsom St. First Floor  
+San Francisco CA 94107  
 USA  
 Please remember to provide your User-ID, e-mail address and, if necessary, the relevant game name(s).
 
