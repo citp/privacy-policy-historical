@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the choyungtea.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102025038id_/http%3A//www.choyungtea.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the choyungtea.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601011556id_/http%3A//www.choyungtea.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy • Cho-Yung Tea
 
