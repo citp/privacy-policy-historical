@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bridgebase.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223082805id_/http%3A//www.bridgebase.com/intro/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bridgebase.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531020502id_/http%3A//bridgebase.com/intro/privacy.php) for the most accurate reproduction.*
 
 # Bridge Base Online
 
 #### Bridge Base Online Privacy Statement
 
-_(last updated: May 2012)_
+_(last updated: Jan 2013)_
 
 Bridge Base Online ("BBO") is committed to protecting your privacy. This privacy statement applies to the data collected by BBO through the Bridge Base Online web pages and the original BBO program (collectively, the Site); it does not apply to data collected through other online or offline BBO sites, products or services. 
 
@@ -12,9 +12,9 @@ Bridge Base Online ("BBO") is committed to protecting your privacy. This privacy
 
 We will ask you when we need information that personally identifies you or allows us to contact you. 
 
-We will ask you for your username and password during the registration process. We will ask for it again each time you log in and occasionally during the session. 
+We will ask you for your username, password, and a valid email address during the registration process.
 
-You need not enter your real name or email address in either the registration form or your profile. The public portion of your profile (Name, email, country, skill level, other information) will be visible to every other member of the site. 
+You need not enter your real name in the registration form or your profile. The public portion of your profile (Name, country, skill level, other information) will be visible to every other member of the site. 
 
 If you choose to engage in commerce on our site, we may ask you for your real name, address, telephone number, and credit card details. You can opt to have us remember your name, address, and telephone number and credit card expiration date as a convenience for you. We will not store your credit card number or credit card security code. 
 
@@ -98,4 +98,4 @@ Las Vegas, NV
 USA 89117  
 
 
-© 1996-2012 All rights reserved 
+© 1996-2013 All rights reserved 
