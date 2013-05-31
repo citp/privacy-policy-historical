@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the myvouchercodes.co.uk privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230022523id_/http%3A//www.myvouchercodes.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myvouchercodes.co.uk privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531035246id_/http%3A//www.myvouchercodes.co.uk/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - MyVoucherCodes.co.uk
 
-This privacy policy discloses the privacy practices for Markco Media Limited, a company incorporated in England & Wales with company number 06327961 and having its registered office at Edmund House c/o Alpha Business Services, 27 St James’s Road, Dudley, West Midlands, DY1 3JD (" **we** ", " **us** ", " **our** "). Our website is www.MyVoucherCodes.co.uk (the "Site") and our mobile product is Myvouchercodes Vouchers, a mobile voucher ad network (the “ **Mobile Product** ”). 
+This privacy policy discloses the privacy practices for Markco Media Limited, a company incorporated in England & Wales with company number 06327961 and having its registered office at Edmund House c/o Alpha Business Services, 27 St James’s Road, Dudley, West Midlands, DY1 3JD ("we", "us", "our"). Our website is www.MyVoucherCodes.co.uk (the "Site") and our mobile product is Myvouchercodes Vouchers, a mobile voucher ad network (the “Mobile Product”). 
 
 By accessing the Site and/or Mobile Product and/or by submitting personal data manually or in electronic form to us in connection with the Site and/or Mobile Product you give your consent that all personal data that you submit will be processed by us in the manner and for the purposes described below. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. 
 
@@ -18,7 +18,7 @@ By submitting your information you consent to the use of that information as set
 
 When you submit personal information in connection with making a payment via the Site, such personal information is encrypted and protected with encryption software which lets your browser automatically encrypt data before you send it to us. While on a secure page the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just ‘surfing’. 
 
-The data we collect from you may be transferred to, and stored at, a destination located out side of the European Economic Area (" **EEA** "). By providing information to the Site/Mobile Product you expressly consent to such information being transferred or stored outside of the EEA. 
+The data we collect from you may be transferred to, and stored at, a destination located out side of the European Economic Area ("EEA"). By providing information to the Site/Mobile Product you expressly consent to such information being transferred or stored outside of the EEA. 
 
 Unfortunately, the transmission of information via the internet is not completely secure and although we take all reasonable steps to protect your personal data, we cannot guarantee the security of it. Any transmission of personal data to the Site is at your own risk. 
 
@@ -84,4 +84,4 @@ If you inform us that you no longer desire our service, we shall correct, update
 
 ### Contact
 
-If you have any questions at all about this policy or the Site and/or Mobile Product, or about how we use and process your personal information, please do not hesitate to contact us at us by e-mail at info@markcomedia.co.uk or, alternatively, in writing to www.MyVoucherCodes.co.uk c/o Markco Media Limited at The Clove Building, 4 Maguire Street, Butlers Wharf, London, SE1 2NQ. 
+If you have any questions at all about this policy or the Site and/or Mobile Product, or about how we use and process your personal information, please do not hesitate to contact us at us by e-mail at info@markcomedia.co.uk or, alternatively, in writing to www.MyVoucherCodes.co.uk c/o Markco Media Limited at The Clove Building, 4 Maguire Street, Butlers Wharf, London, SE1 2NQ.
