@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the zoeskitchen.com privacy policy that was archived on 2012-11-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121129231337id_/http%3A//zoeskitchen.com/privacy-policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the zoeskitchen.com privacy policy that was archived on 2013-05-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130531185753id_/http%3A//zoeskitchen.com/privacy-policy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="Head1"><title>
 	Zoes Kitchen - privacy policy
@@ -12,6 +12,42 @@
 		<script type="text/javascript" src="/App_Themes/zoes/js/jquery-1.6.4.min.js"></script>
 
 	<script type="text/javascript" src="/App_Themes/zoes/js/jquery.main.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script type="text/javascript"> 
+$(document).ready(function() {
+		var thisURL = window.document.URL;
+		if(thisURL.indexOf("menu_") > -1) {
+                        $('a[href*="#tab2"]').on("click", function(){
+			   $("#order-online-button").css("display","none");
+                           $("#coming-soon").css("display","block");
+                           $(".order-box").css("display","none");
+                           $(".zoemail").css("top", "40px");
+                        });
+                        $('a[href*="#tab1"]').on("click", function(){
+                           $("#coming-soon").css("display","none");
+                           $("#order-online-button").css("display","block");
+                           $(".order-box").css("display","block");
+                           $(".zoemail").css("top", "31px");                        
+                        });
+                        $('a[href*="#tab3"]').on("click", function(){
+                           $("#coming-soon").css("display","none");
+                           $("#order-online-button").css("display","block");
+                           $(".order-box").css("display","block");
+                           $(".zoemail").css("top", "31px");                        
+                        });
+		} else if (thisURL.indexOf("Catering.aspx") > -1) {
+			$("#order-online-button").css("display","none");
+                        $("#coming-soon").css("display","block");
+                        $(".order-box").css("display","none");
+                        $(".zoemail").css("top", "40px");
+                } else {
+                        $("#coming-soon").css("display","none");
+                        $("#order-online-button").css("display","block");
+                        $(".order-box").css("display","block");
+                        $(".zoemail").css("top", "31px");
+                }
+	});
+</script>
 
 <script type="text/javascript">
 
@@ -99,7 +135,7 @@ return true
 
     <form name="form1" method="post" action="/privacy-policy.aspx" id="form1">
 <div>
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTU2MjkyNjQyN2RknYtxZqWFckByg5sOfEFj0GWqESqLZHcrskYpWrka4YI=">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTU2MjkyNjQyN2RkBpQEyYo9bygymgfjsjO6xMZBiXWcCTYjgcGW3YFk7I8=">
 </div>
 
 <div><input type="hidden" name="lng" id="lng" value="en-US">
@@ -131,11 +167,12 @@ document.forms[0].submit();}"></span>
 										</div>
 									</fieldset>
 								</div>
-								<a href="/location.aspx" class="order">ORDER ONLINE</a>
+					<a href="http://zoes.fbmta.com/members/UpdateProfile.aspx?Action=Subscribe&amp;InputSource=W" target="_blank" class="zoemail" style="top: 31px;"><img src="/App_Themes/zoes/images/zoe_mail_btn.png" alt="email Zoes"></a>
+								<a id="order-online-button" name="order-online-button" href="/location.aspx" class="order" style="display: block;"></a>
+								<div id="coming-soon" style="display: none;"></div>
 								<!-- nav-holder -->
-								<div class="nav-holder">
-												
-
+							
+								<div class="nav-holder"> 			
 
  
 <ul class="navCMSListMenuUL" id="menuElem">
@@ -223,7 +260,7 @@ Birmingham, AL 35233</div>
 												<ul class="bill">
 													<li><a href="/About-Zoes/contact-us.aspx">Contact us</a></li>
 													<li><a href="/About-Zoes/real-estate.aspx">Real Estate</a></li>
-													<li><a href="/About-Zoes/franchises.aspx">Franchises</a></li>
+													<!-- <li><a href="/About-Zoes/franchises.aspx">Franchises</a></li> -->
 												</ul>
 												<ul class="social-networks">
 													<li><a href="http://www.facebook.com/ZoesKitchen" target="_blank" class="facebook">facebook</a></li>
@@ -236,12 +273,12 @@ Birmingham, AL 35233</div>
 								</div>
 							</div>
 
-
 	<span class="main-r">bg</span>
 							<span class="main-l">bg</span>
 <span class="main-b">bg</span>
 						
 						</div>
+<iframe id="facepile" src="//www.facebook.com/plugins/facepile.php?href=http%3A%2F%2Fwww.facebook.com%2FZoesKitchen&amp;action=og.likes&amp;size=small&amp;max_rows=1&amp;show_count=true&amp;width=300&amp;colorscheme=light" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:300px;" allowtransparency="true"></iframe>
 					</div>
 				</div>
 			</div>
