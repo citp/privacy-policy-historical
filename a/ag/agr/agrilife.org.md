@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the agrilife.org privacy policy that was archived on 2012-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121002233349id_/http%3A//agrilife.org/vc/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agrilife.org privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531164831id_/http%3A//agrilife.org/required-links/privacy) for the most accurate reproduction.*
 
-# Privacy & Security Policy | Office of the Vice Chancellor
+# Privacy & Security Policy | AgriLife.org
 
 The web page you have been viewing was developed by the Texas A&M AgriLife unit of the Texas A&M University System. As such, it maintains this site as a public service. The following is the privacy policy for this site:
 
@@ -15,8 +15,9 @@ If you have any questions about this privacy statement, the practices of this si
 Texas A&M AgriLife  
 AgriLife Communications Department  
 Attention: Webmaster  
-1501 Texas Avenue South  
-College Station, TX 77840
+578 John Kimbrough Blvd.  
+2112 TAMU  
+College Station, TX 77843-2112
 
 We use log analysis tools to create summary statistics, which are used for purposes such as assessing what information is of most interest, determining technical design specifications, and identifying system performance or problem areas. The following information is collected for this analysis:
 
