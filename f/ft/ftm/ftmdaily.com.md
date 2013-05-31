@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ftmdaily.com privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201043231id_/http%3A//ftmdaily.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ftmdaily.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531211534id_/http%3A//ftmdaily.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - FTMdaily.com
+# Privacy Policy
 
 This Privacy Policy governs the manner in which MakersGroup Financial, LLC (FTMDaily.com) collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.ftmdaily.com](http://www.ftmdaily.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by MakersGroup Financial, LLC (FTMDaily.com).
 
