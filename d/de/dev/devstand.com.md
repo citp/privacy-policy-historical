@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the devstand.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210071124id_/http%3A//devstand.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the devstand.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531211217id_/http%3A//devstand.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
