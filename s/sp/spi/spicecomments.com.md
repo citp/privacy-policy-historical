@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spicecomments.com privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107162526id_/http%3A//spicecomments.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spicecomments.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601003514id_/http%3A//www.spicecomments.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - SpiceComments.com
 
@@ -14,12 +14,12 @@ Google, as a third party vendor, uses cookies to serve ads on your site. Google'
 
 Terms and Conditions
 
-Our team reserve the right to remove or replace any files on the website. The images are legally created either from open source on the Internet or custom designed by us.
+We reserve the right to remove or replace any files on the website. The images are legally created either from open source on the Internet or custom designed by us.
 
-Spicecomments.com provides no warranty of the service and assume no liability that may be incurred as a result of your use of this service. To report any type of abuse, use our [contact us](https://web.archive.org/contact_us/) page.
+The spicecomments.com provides no warranty of the service and assume no liability that may be incurred as a result of your use of this service. To report any type of abuse, use our [contact us](https://web.archive.org/contact_us/) page.
 
 Copyright Infringement
 
-The images are only for your personal use, may not be modified and are the copyright of their respective owners. If you find a file that you created and would like it to be taken off, please use the [contact form](https://web.archive.org/contact_us/).
+The images are only for your personal use, may not be modified and are the copyright of their respective owners. If you find an image that you created and would like it to be taken off, please use the [contact form](https://web.archive.org/contact_us/).
 
 |  | 
