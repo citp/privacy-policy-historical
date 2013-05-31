@@ -1,61 +1,61 @@
-> *The following text is extracted and transformed from the manifestmen.com privacy policy that was archived on 2009-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090802023525id_/http%3A//www.manifestmen.com/manifest-faqs.cfm%23PRVY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manifestmen.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531074444id_/http%3A//www.manifestmen.com/%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
-# Manifest Men
-
-Now for the legal stuff:
+# Naked Men - Manifest Men
 
 I. Information Collection and Management
 
-A. Personal information
+Privacy is of the utmost importance to Alder Media Group. This document explains how we acquire, implement, and keep the information you provide to us safe on ManifestMen.com. 
 
-i. Information we collect
+Manifest Men ("Company" or "we"), the owners of ManifestMen.com are committed to respecting and safeguarding your privacy as it relates to ManifestMen.com.  The terms "visitor", "member", "subscriber" and "Site user" shall refer to you. "Third Party Program Participants" refers to advertisers, promoters, content providers and others that the Company contracts with to provide the content seen on ManifestMen.Com via programs and Offers (as that term is defined below) available to ManifestMen.com users. 
 
-"Personally identifiable information" is information that can be used to identify or contact you, such as your name, email address, home or work address, or telephone number. Manifest Media, Inc. only has access to the information that you provide to us and our billing processor. For example, we cannot determine your email address unless you provide it. We cannot gain access to other information on your computer. Those who visit only public areas of the Web site (such as the "site tour") and who do not purchase goods or services do not need to, and generally do not, provide us with any personally identifiable information. Those who wish to join the site, however, or to purchase products or services or sign up for our mailing list, must provide us with enough information to enable us to process the requested transaction. This generally includes, at a minimum, personally identifiable information such as name, address, email address, and telephone number. Members also select, and thereby provide, a username and password combination.
+Before interacting with this site, please carefully read this privacy policy, which contains important information for the user. Interaction with ManifestMen.com constitutes an expressed agreement with the conditions and content within this document. 
 
-ii. How we use the information
+ManifestMen.com is intended for ADULTS ONLY. In order to access this site, you must agree to agreements and content within this document as well as the Terms & Conditions document. Manifest Men will not knowingly acquire data or private information from those under 18.  It is strictly forbidden that those under the age of 18 access ManifestMen.com.  If you have any disagreements with the terms and policies laid out within this document, “Privacy Policy,” then you are forbidden to use this site and must leave immediately. 
 
-Your personally identifiable information is used only to process the requested transaction, and occasionally to provide you with special offers from Manifest Media, Inc.  On occasion, for example, we may send emails to introduce a product or service that we think will interest our members or viewers. Manifest Media, Inc. will never intentionally disclose any personally identifiable information to any third party, unless we are compelled to do so by law (for example, in response to a subpoena or court order), or our obligation to maintain the privacy of your information has been waived or otherwise excused by you (for example, by your filing suit against us and asserting claims against which such information would be relevant in our defense). 
+The Security of Your Private Data 
 
-B. Interactive data
+Manifest Men understands the importance of protecting your private information. To keep this information safe, Manifest Men uses safeguards that are generally accepted within the industry. These methods include private access to data and equipment, exceptional firewall software, network monitoring, private server location, and Manifest Men monitors traffic to ManifestMen.com to find any inconsistencies. Manifest Men will always work to keep your data safe; but, because no security measure can provide complete and infallible information safety, Manifest Men cannot, and does not, promise the security of your private data. 
 
-i. Information we collect
+1\. User Information 
 
-Manifest Media, Inc. provides features which allow members to communicate with each other, such as a forum and Performer Chat Rooms. Chat transcripts and message board postings are backed up periodically and may be retained.
+Upon visiting the site, including any visits to and beyond the entrance page, we will collect and store one or more of the following types of information ("Data"): Your IP address (the domain name or other locator indicating your access to the Internet); the IP address of the Website that referred you to our own; browser data; operating system; email data; the date & time you access ManifestMen.com, and any other available user information. 
 
-ii. How we use the information
+If we find our movies on file-sharing services (such as torrent websites), we reserve the right to go through our logs and identify which member(s) are illegally uploading our content. 
 
-Use of these interactive features is not monitored by Manifest Media, Inc. We do not use information posted on interactive features except as the author presumably intended; that is, as content on the Web site. We do not share user submitted information with third parties; however, any information posted is visible to other members, and is vulnerable to being copied and/or redistributed by others. Members should use reasonable caution when disclosing any personally identifiable information in any online forum. We cannot be responsible for any damages incurred as a result of such disclosure, and use of the interactive services is at the member's own risk.
+The metrics and data attained are used in responsible ways, but Manifest Men does not make any guarantees about the use of this data and reserves the right to use the data in any way that we see fit. The information that you intentionally provide to us is the only information that is personally identifying, such as your name, e-mail address, address, zip code, telephone number, et cetera, in response to online forms that ask for this information specifically. Also, Manifest Men and our Third Party Program Participants may ask you to voluntarily provide additional personal information for billing, shipping and other purposes. 
 
-iii. Opt-out policy
+When a user requests web pages from the Site's server, clicks on banner, links, or otherwise uses the Site's services and other functionalities, we automatically collect information about the user, detailed above.  You agree that all such may be collected and used by the site and by its third party program participants. 
 
-Members must opt-in (for example, by participating in a chat) in order for us to collect this information.
+When attempting to subscribe to ManifestMen.com, the user will be required to provide certain personal information. Manifest Men reserves the right to collect, store, and use this data and any optional data provided upon registration. 
 
-C. Click-stream data
+In the event of correspondence via email or any other method of communication between the user and Manifest Men or any of the company’s employees, agents, or representatives; we may collect, store, and use all information and data regarding that communication. 
 
-i. Information we collect
+2\. Cookies 
 
-We also collect non-personally identifiable information provided by your browser and/or our servers, such as the name and IP address of the domain from which you visited (if any), the amount of time you spent on each page and on the site as a whole, and the path you followed through the site. This sort of information is sometimes known as click-stream data.  We use this information to improve our site's performance.
+We use internet cookies to make the navigation of and use of ManifestMen.com easier for you. Cookies are data stored on the user’s hard drive regarding certain data about the user. Cookies are used to store information about the user so that on subsequently visited web pages within ManifestMen.com, these cookies may be read to understand the sites previous interactions with the user.  Cookies are used both in a casual browsing situation as well as in the registration process to gain admittance to member content. ManifestMen.com uses cookies to make the login process easy for the user without providing private information about the user.  Generally, sites use two different types of cookies: "session" cookies and "persistent" cookies. A session cookie lasts only for a single session; or from the point the cookie is initiated till you close your browser or reset your cookies. "Persistent" cookies remain on your hard drive for additional sessions.  Persistent cookies can be removed.  We recommend that you consult your browser’s help files to reset your cookies.  Presently, we intend to also adopt and use helpful future cookie technology, and similar types of technologies, as they become available. We reserve the right to do so without notice to the user. 
 
-II. Related Issues
+Manifest Men may collect data regarding the user and the user’s browsing behavior by the use of cookies or similar technologies. The data collected may be stored in our database and used without reservations. 
 
-A. Information security
+Third Party Program Participants, advertisers, and others associated with Manifest Men may use cookies on their own sites. Manifest Men has no control over these cookie and makes no guarantees about the usage of the data stored in these cookies. 
 
-We constantly strive to improve the security of your personally identifiable information. We have implemented appropriate technical and organizational measures, such as using encryption for transmission of credit card numbers, to help us keep your information secure. 
+The user is responsible for their individual browser settings regarding cookies.  If their browser is set to reject all cookies then Manifest Men is not responsible for inability to access certain features of the site because of these settings. 
 
-Manifest Media does not use third-party services to provide banner advertising.
+3\. Personal Information Use 
 
-B. Children's data 
+Use of the site constitutes an expressed agreement that Manifest Men may collect, store, and use the data collected during the use of the site. 
 
-Manifest Media, Inc. Web sites are not intended for minors and do not collect any data governed by the United States Children's Online Privacy Protection Act (COPPA).
+Use of the site constitutes an expressed agreement that Manifest Men is not responsible or liable for the use of any information that you provide to other sites, whether they are affiliated with Manifest Men or not. 
 
-C. Privacy technology 
+Users should consider any data collected by the site as non-confidential.  Consequently, Manifest Men assumes no responsibility or liability if any information relating to the user is intercepted or used by an unintended recipient. 
 
-There are an increasing number of products and services available to help protect your privacy while navigating the Web. A web search will yield substantive information.
+4\. Disclosure 
 
-D. Notification of changes 
+Manifest Men uses the data gathered in responsible ways. The privacy of this data is important to us.  We will, however, disclose your personal information, without notice, to a party unrelated to the Company if required to do so by law or in the good faith belief that such action is necessary to comply with the law, legal process served on the Company or a Third Party Program Participant, to protect the rights or property of the Company or a Third Party Program Participant, or in urgent circumstances to protect the personal safety of users of the Site or the public at large. 
 
-This privacy statement was last updated on May 01, 2008. A notice will be posted on our web site for 30 days whenever this privacy statement is changed. 
+5\. Protection of Children 
 
-E. Questions regarding this statement
+Manifest Men does not publish any content that are targeted to children and we do not collect information about children. Manifest Men and Third Party Program Participants do not solicit and do not knowingly accept subscriptions, memberships, or acceptances of Offers from persons under the age of eighteen years. If minors use the computer that you use to access Manifest Men, you must take the necessary measures to keep them from coming to ManifestMen.com. 
 
-Questions regarding this statement should be directed to our Director of Member Services.
+6\. Revisions to this Privacy Policy 
+
+Manifest Men reserves the right to revise, amend, modify or revoke this Privacy Policy at any time and in any manner. Privacy policy changes become effective when posted to the site. 
