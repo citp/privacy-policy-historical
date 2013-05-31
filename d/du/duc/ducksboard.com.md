@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ducksboard.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919213229id_/http%3A//ducksboard.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ducksboard.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531183341id_/http%3A//ducksboard.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Ducksboard
 
@@ -79,7 +79,7 @@ Your consent to personal data collection and processing may be revoked, without 
 
 #### 4\. Data disclosure
 
-Few Ducks warrants that it treats your personal data with strict confidentiality in accordance with applicable law. However there are some situations in which Few Ducks shall disclose any personally identifiable and/or non personally identifiable information about you or your use of our Services, in compliance with a legal obligation or in order to correctly deliver its Services or perform other obligations in accordance to the applicable regulations and rules set forth in the [Terms of Service](http://ducksboard.com/tos).
+Few Ducks warrants that it treats your personal data with strict confidentiality in accordance with applicable law. However there are some situations in which Few Ducks shall disclose any personally identifiable and/or non personally identifiable information about you or your use of our Services, in compliance with a legal obligation or in order to correctly deliver its Services or perform other obligations in accordance to the applicable regulations and rules set forth in the [Terms of Service](http://ducksboard.com/terms-of-service/).
 
 In particular, Registered Users instruct and authorize us to disclose certain personal information and the information on their personal Ducksboard dashboard when they publish their Ducksboard to the other Users within or outside the same group of company, and within or outside the EEA. In doing so Few Ducks is acting in accordance with the Users’ instructions and such disclosure is under the Users’ sole responsibility (see point 5 below for applicable conditions). 
 
@@ -124,4 +124,4 @@ Data Processor shall provide Users with reasonable assistance in the event that 
 
 User warrants that it has all the appropriate consents from data subjects whose personal data are submitted to Few Ducks in the course of the provision of the Services. User will indemnify and keep Few Ducks harmless from all claims, damages and losses it may suffer relating to or arising out of the processing of third party personal data submitted to Few Ducks systems during the course of the provision of the Services.
 
-### Version: November 2011
+##### Version: November 2011
