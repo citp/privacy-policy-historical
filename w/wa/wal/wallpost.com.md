@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wallpost.com privacy policy that was archived on 2012-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121208062447id_/http%3A//www.wallpost.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallpost.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601001359id_/http%3A//www.wallpost.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Wallpost | Privacy Policy
 
@@ -38,6 +38,6 @@ Wallpost will like to reach its users and keep them informed of any new and exci
 
 Wallpost will allow other users to use your contact information like email address and will help them find and connect with you. However, you can choose your privacy settings so that other users may not find you by searching using your email id.
 
-Wall post takes suitable precautions and measures to safeguard your personal data from unauthorized access, alteration, disclosure and destruction. Wall post restricts the data only to its employees or staff that need to be aware of the information for processing on your behalf. By all means, your personal information is subjected to utmost confidentiality and any breach in the system will lead to the termination of the employees. 
+Wallpost takes suitable precautions and measures to safeguard your personal data from unauthorized access, alteration, disclosure and destruction. Wallpost restricts the data only to its employees or staff that need to be aware of the information for processing on your behalf. By all means, your personal information is subjected to utmost confidentiality and any breach in the system will lead to the termination of the employees. 
 
-This Privacy policy may be subjected to change from time to time. So, please keep visiting this section to stay updated on the latest privacy policy. Wall post will not decrease your rights under this policy without your consent and any significant changes in the privacy policy will be notified.
+This Privacy policy may be subjected to change from time to time. So, please keep visiting this section to stay updated on the latest privacy policy. Wallpost will not decrease your rights under this policy without your consent and any significant changes in the privacy policy will be notified.
