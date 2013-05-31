@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the aegindia.org privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226194839id_/http%3A//www.aegindia.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aegindia.org privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531022013id_/http%3A//www.aegindia.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AEG India
 
-If you require any more information or have any questions about our privacy policy, please feel free to [contact](http://www.aegindia.org/contact "contact") us by email at [www.aegindia.org/contact](mailto:admin@aegindia.org).
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [www.aegindia.org/contact](mailto:admin@aegindia.org).
 
 At www.aegindia.org we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by www.aegindia.org and how we use it.
 
