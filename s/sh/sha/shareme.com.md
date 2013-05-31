@@ -1,9 +1,7 @@
-> *The following text is extracted and transformed from the shareme.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003032116id_/http%3A//shareme.com/privacypage.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shareme.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531135713id_/http%3A//shareme.com/privacypage.html) for the most accurate reproduction.*
 
 # Our Privacy Policy - Shareme.com respects your right to privacy
 
-| [](http://shareme.com/) |   
----|---  
 | 
 
   * [Business & Productivity Tools](https://web.archive.org/category/Business---Productivity-Tools.html)
@@ -25,97 +23,97 @@
 
 ####  Top Downloads
 
-  * [Toshiba Drivers Update Utility ](https://web.archive.org/details/toshiba-drivers-update-utility.html)
+  * [Internet Download Manager ](https://web.archive.org/details/internet-download-manager.html)
 
-Toshiba Drivers Update Utility updates your...
+Internet Download Manager Free Download is now...
 
-  * [Word Reader ](https://web.archive.org/details/word-reader.html)
+  * [Funny Photo Maker ](https://web.archive.org/details/funny-photo-maker.html)
 
-Word Reader is an easy-to-use Free Word...
+Funny Photo Maker is a free photo editor...
 
-  * [Video Capture Driver Split Cam ](https://web.archive.org/details/video-capture-driver-split-cam.html)
+  * [Isenzo Mediacaster ](https://web.archive.org/details/isenzo-mediacaster.html)
 
-Video Capture Driver Split Cam Virtual Driver...
+Isenzo's software simplifies the creation and...
 
-  * [NetQin Mobile Antivirus ](https://web.archive.org/details/netqin-mobile-antivirus.html)
+  * [Opera Browser ](https://web.archive.org/details/opera-browser.html)
 
-NetQin Mobile Antivirus provides you complete...
+Opera 10.10 stands out from the crowd with...
 
-  * [Smart Sketch ](https://web.archive.org/details/smart-sketch.html)
+  * [Skype ](https://web.archive.org/details/skype.html)
 
-Design environment specialized in professional...
+Program to make telephone calls via the...
+
+  * [WinMend File Copy ](https://web.archive.org/details/winmend-file-copy.html)
+
+WinMend File Copy is a free and excellent batch...
 
   * [Bluetooth Drivers For Windows 7 Utility ](https://web.archive.org/details/bluetooth-drivers-for-windows-7-utility.html)
 
 Get official Bluetooth Drivers for your Windows...
 
-  * [Advanced ID Creator Personal ](https://web.archive.org/details/advanced-id-creator-personal.html)
+  * [K-Browser ](https://web.archive.org/details/k-browser.html)
 
-Create and print professional ID cards and...
+K-browser is a web browser for Microsoft...
 
-  * [vdocapture network video server ](https://web.archive.org/details/vdocapture-network-video-server.html)
+  * [Opera web browser ](https://web.archive.org/details/opera-web-browser.html)
 
-ip video server (client) that provides users...
+Opera is the fastest web browser available, and...
 
-  * [Avant Browser ](https://web.archive.org/details/avant-browser.html)
+  * [Hotspot Shield ](https://web.archive.org/details/hotspot-shield.html)
 
-Avant is a multi-processing browser featured...
-
-  * [AVG Anti-Virus Free Edition ](https://web.archive.org/details/avg-anti-virus-free-edition.html)
-
-Free anti-virus, easy to use, is residential...
+Access the likes of Pandora and Hulu from...
 
 
 
 
 ####  New Downloads
 
-  * [Batch Files 5.0](https://web.archive.org/details/batch-files.html)
+  * [MDB Open File Tool 2.0.0](https://web.archive.org/details/mdb-open-file-tool.html)
 
-Replace, insert, delete, copy, move, format,...
+Try MDB Open File Tool if the corruption...
 
-  * [Apex PDF Split Merge 2.3.8.2](https://web.archive.org/details/apex-pdf-split-merge.html)
+  * [Universal SQL Editor 1.4.8.2](https://web.archive.org/details/universal-sql-editor.html)
 
-PDF split merge program organize mix up cut...
+Intellisense enabled SQL editor for Oracle,...
 
-  * [Free Image OCR 6.3.4](https://web.archive.org/details/free-image-ocr.html)
+  * [Jaksta for Windows 5.0.0.89](https://web.archive.org/details/jaksta-for-windows.html)
 
-Free Image OCR allows the possibility to...
+Jaksta downloads Video & MP3s from virtually...
 
-  * [BitRope Torrents 2.0.0](https://web.archive.org/details/bitrope-torrents.html)
+  * [TeraCash 2013](https://web.archive.org/details/teracash.html)
 
-BitRope Torrents is a brand new p2p file...
+TeraCash is designed to help your company run a...
 
-  * [SearchIt 1.2](https://web.archive.org/details/searchit.html)
+  * [Foxit PhantomPDF Standard 6.0.3.0524](https://web.archive.org/details/foxit-phantompdf-standard.html)
 
-SearchIt is free file search software which...
+Ideal for groups of all sizes, Foxit PhantomPDF...
 
-  * [WinDataReflector Free 64 bit 1.1.2](https://web.archive.org/details/windatareflector-free-64-bit.html)
+  * [CodeCompare 3.00](https://web.archive.org/details/codecompare.html)
 
-WinDataReflector is a lightweight file...
+Code Compare is a free powerful tool designed...
 
-  * [PDF to Image Converter CMD for Linux 3.0](https://web.archive.org/details/pdf-to-image-converter-cmd-for-linux.html)
+  * [Animated Screensaver Maker 3.2.3](https://web.archive.org/details/animated-screensaver-maker.html)
 
-With PDF to Image Converter Command Line for...
+With Animated Screensaver Maker you can...
 
-  * [Active@ Partition Recovery 7.1.2](https://web.archive.org/details/active--partition-recovery.html)
+  * [Joyfax Broadcast 6.50.0529](https://web.archive.org/details/joyfax-broadcast.html)
 
-Partition recovery software - Active@ Partition...
+A personalized faxing software can reach...
 
-  * [Mask My IP 2.3.0.6](https://web.archive.org/details/mask-my-ip.html)
+  * [Advanced RSS Publisher Professional 3.57.67](https://web.archive.org/details/advanced-rss-publisher-professional.html)
 
-Mask My IP, a Free utility, hides your IP...
+Advanced RSS Publisher allows you to...
 
-  * [AbelCam 4.2.8](https://web.archive.org/details/abelcam.html)
+  * [C-Organizer Lite 4.8](https://web.archive.org/details/c-organizer-lite.html)
 
-Tilt/Pan/Zoom for Logitech Sphere, Creative...
+C-Organizer Lite is a personal information...
 
 
 
 
 ####  Recent Searches
 
-[Grasp Tech Xm 828 Driver](https://web.archive.org/programs/grasp/tech-xm-828-driver), [Easysoft Odbc Firebird Key](https://web.archive.org/programs/easysoft/odbc-firebird-key), [Motorola V3i File Manager](https://web.archive.org/programs/motorola/v3i-file-manager), [Norpath Elements Studio](https://web.archive.org/programs/norpath/elements-studio), [Arrl Periodicals Cd 2010](https://web.archive.org/programs/arrl/periodicals-cd-2010), [V Gear Mobidtv Pro Softwera](https://web.archive.org/programs/v/gear-mobidtv-pro-softwera), [Sagebrush Inn Taos Review](https://web.archive.org/programs/sagebrush/inn-taos-review), [Msi 108m Pci Adapter Wireless Pc60g F 108mbps](https://web.archive.org/programs/msi/108m-pci-adapter-wireless-pc60g-f-108mbps), [Windows Xp Restore Disk](https://web.archive.org/programs/windows/xp-restore-disk), [Manhattan Projects Scientists](https://web.archive.org/programs/manhattan/projects-scientists), [Navman My 50t](https://web.archive.org/programs/navman/my-50t), [Supertux Full Version Download](https://web.archive.org/programs/supertux/full-version-download), [Presenters Inc](https://web.archive.org/programs/presenters/inc), [Hp Deskjet Lnk Advantage K209 Printing](https://web.archive.org/programs/hp/deskjet-lnk-advantage-k209-printing), [Convert Corel Cdr](https://web.archive.org/programs/convert/corel-cdr)
+[54mbps Wireless Card Driver](https://web.archive.org/programs/54mbps/wireless-card-driver), [Metropolitan Ambulance Victoria](https://web.archive.org/programs/metropolitan/ambulance-victoria), [Counter Strike 1 Anthology](https://web.archive.org/programs/counter/strike-1-anthology), [Driver Reflecta X 1 Scan](https://web.archive.org/programs/driver/reflecta-x-1-scan), [Keri Russell Hot](https://web.archive.org/programs/keri/russell-hot), [Frontech E Cam Diamond Jil 2232 Driver](https://web.archive.org/programs/frontech/e-cam-diamond-jil-2232-driver), [My Phone Q21](https://web.archive.org/programs/my/phone-q21), [5233 123 Free Memory Card Games](https://web.archive.org/programs/5233/123-free-memory-card-games), [Bleach Sword Cursors](https://web.archive.org/programs/bleach/sword-cursors), [Late Fees Mortgage Amortization Schedule Excel](https://web.archive.org/programs/late/fees-mortgage-amortization-schedule-excel), [Fast Email Extract](https://web.archive.org/programs/fast/email-extract), [Line Sheet Template](https://web.archive.org/programs/line/sheet-template), [5315 Troubleshooting](https://web.archive.org/programs/5315/troubleshooting), [Infrared Lights](https://web.archive.org/programs/infrared/lights), [Medical Encyclopedia%20](https://web.archive.org/programs/medical/encyclopedia%20)
 
   
 | 
@@ -145,6 +143,4 @@ If you have any questions about this privacy statement, the practices of this si
 
   
   
----|---  
-  
-Welcome to the ShareMe. Shareme is a dedicated internet portal bringing users the latest shareware & freeware from the world's best Software Authors. Shareme allows Shareware & Freeware Authors to submit their latest wares, so you the user are able to download their latest software updates all the time, after they are released! Always visit Shareme for your software needs. 
+---|---
