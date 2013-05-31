@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the latinlawyer.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122025257id_/http%3A//www.latinlawyer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the latinlawyer.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531145946id_/http%3A//www.latinlawyer.com/privacy) for the most accurate reproduction.*
 
 # Latin Lawyer
 
@@ -37,13 +37,13 @@ Website | login
 encryptedLogin  | No | Identifies logged in site subscribers who chose the "remember me" option to our web server. These are set upon log in and expire when you next log out. They hold no personal information beyond site username.  
 Website | NEWGEOCODE | No | Identifies your current geographical country location to our web server based on your IP address. This is set upon arrival and expires after 30 days or when you change location. We use this cookie to serve location specific content and set correct currency types for our shops. They hold no personal information beyond geographical location.  
 Website | poll | No | Identifies to our web server if you've already completed one of our site surveys or polls. This is set upon poll submission. They hold no personal information.  
-[Google Analytics](http://www.google.com/analytics) | __utma   
+[Google Analytics](https://www.google.com/analytics) | __utma   
 __utmb   
 __utmc   
-__utmz  | No | Used by Google Analytics to collect information on how visitors use our site. We use this information to help improve the site and customer experiences. All information collected is in an anonymous form, including the number of visitors to the site, where they come from, the pages they visit and so on. For more information see the [Google Analytics Privacy Overview](http://www.google.co.uk/intl/en/analytics/privacyoverview.html).  
-[Google DFP](http://www.google.com/dfp) | __gads | No | Used by Google DFP to support our site advertisments. We use this information to implement advertisment features and target ads for users. All information collected is in an anonymous form. For more information see the [Google DFP cookies help page](http://support.google.com/dfp_sb/bin/answer.py?hl=en&answer=2551880) and the [DFP opt-out site](http://www.google.com/settings/ads/onweb/optout).  
+__utmz  | No | Used by Google Analytics to collect information on how visitors use our site. We use this information to help improve the site and customer experiences. All information collected is in an anonymous form, including the number of visitors to the site, where they come from, the pages they visit and so on. For more information see the [Google Analytics Privacy Overview](https://www.google.co.uk/intl/en/analytics/privacyoverview.html).  
+[Google DFP](https://www.google.com/dfp) | __gads | No | Used by Google DFP to support our site advertisments. We use this information to implement advertisment features and target ads for users. All information collected is in an anonymous form. For more information see the [Google DFP cookies help page](https://support.google.com/dfp_sb/bin/answer.py?hl=en&answer=2551880) and the [DFP opt-out site](https://www.google.com/settings/ads/onweb/optout).  
   
-For further information visit [www.allaboutcookies.org](http://www.allaboutcookies.org/).
+For further information visit [www.allaboutcookies.org](https://www.allaboutcookies.org/).
 
 You can set your browser not to accept cookies and the above website tells you how to remove cookies from your browser. However in a few cases some of our website features may not function as a result.
 
