@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mobstac.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228193021id_/http%3A//mobstac.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobstac.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531064103id_/http%3A//mobstac.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - MobStac
+# Privacy Policy | Mobstac
 
 MobileMotion Technologies ("Company" or “MobStac”) is committed to protecting the privacy of our customer's personal information. This statement applies with respect to the information that we collect from the Company Web site, located at www.mobstac.com. Amendments to this statement will be posted at this URL and will be effective when posted. Your continued use of this site following the posting of any amendment, modification or change shall constitute your acceptance thereof.
 
@@ -46,4 +46,4 @@ This site provides for message boards. Please remember that any information that
 
 **Contacting Us**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us at [legal@mobstac.com](mailto:legal@mobstac.com)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us at [info@mobstac.com](mailto:info@mobstac.com)
