@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oneartworld.com privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620040334id_/http%3A//oneartworld.com/index.php%3Fpg%3DPrivacy%2BPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oneartworld.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531220936id_/http%3A//oneartworld.com/index.php%3Fpg%3DPrivacy%2BPolicy) for the most accurate reproduction.*
 
 # Privacy Policy - One Art World
 
