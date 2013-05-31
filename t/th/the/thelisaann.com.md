@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thelisaann.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230045933id_/http%3A//www.branddanger.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelisaann.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531213823id_/http%3A//www.branddanger.com/privacy.html) for the most accurate reproduction.*
 
 # Danger Enterprises Privacy Policy
 
@@ -38,8 +38,8 @@ Occasionally, Danger Enterprises, Inc. receives information from Third Parties t
 Any websites displayed to you by our Website as Internet search results or linked to Internet search results pages provided to you by our Website, including websites owned or operated by our clients, have been developed by Third Parties over which Danger Enterprises, Inc. exercises no control. Such websites may send their own cookies to end users, collect data, or solicit Personal Information from you. Danger Enterprises, Inc. is not responsible for the privacy practices or the content of such websites, including such websites' use of any information collected when you are directed to or click through to such websites. Even though such information might not identify you personally, we strongly encourage you to become familiar with the privacy practices of those websites.  
 **DATA PROTECTION SAFE HARBOR POLICY**  
 Danger Enterprises, Inc. is a participant in the Safe Harbor program for Data Protection developed by the U.S. Department of Commerce and the European Union, and is listed by the U.S. Department of Commerce. Danger Enterprises, Inc. has certified that we adhere to the Safe Harbor Privacy Principles. Danger Enterprises, Inc. uses the self assessment method of verification of compliance. Individuals who believe their privacy may have been violated based on the Safe Harbor privacy principles should contact us at support@dhdmedia.com. For more information about the Safe Harbor program and to view our certification, please visit the U.S. Department of Commerce's Safe Harbor website.  
-**CHILDREN**  
-Danger Enterprises, Inc. does not request, or knowingly collect Personal Information from children under the age of 13. Danger Enterprises, Inc. does not give children the ability to post messages or otherwise distribute information about themselves on our Website.  
+**MINORS PROTECTION**  
+Danger Enterprises, Inc. does not request, or knowingly collect Personal Information from anyone under the age of 18. Danger Enterprises, Inc. does not give anyone under the age of 18 the ability to post messages or otherwise distribute information about themselves on our Website or allow anyone under the age of 18 to access our Websites.  
 **POLICY CHANGES**  
 We will make reasonable efforts to maintain an up to date and effective online privacy policy. As such we reserve the right, at any time, to add, change, update, or modify this privacy policy, simply by posting such change, update, or modification on our Website and without any other notice to you. Any such change, update, or modification will be effective immediately upon posting on our Website.  
 **COMMITMENT**  
