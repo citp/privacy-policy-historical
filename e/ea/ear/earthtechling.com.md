@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the earthtechling.com privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104215759id_/http%3A//www.earthtechling.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earthtechling.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601012408id_/http%3A//www.earthtechling.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Earthtechling
+# Privacy Policy | EarthTechling
 
 EarthTechling, LLC is committed to safeguarding your privacy online. Please read the following statement to understand how your personal information will be treated as you make full use of the EarthTechling Website. The EarthTechling Website is owned and operated by EarthTechling, LLC.
 
