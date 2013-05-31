@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soundike.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130145246id_/http%3A//www.soundike.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soundike.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531080524id_/http%3A//www.soundike.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -34,5 +34,3 @@ Soundike.com can disclose your Personal Information only in cases stipulated by 
 Soundike.com can contain links to the web sites of 3rd parties. Soundike.com doesn't take any responsibility for functioning and the resources of those sites, and also the possible damage caused by working with them.
 
 We value relationship with each user of our service and consequently, we will do everything depending on us that our cooperation brings only positive results to you.
-
-7715567 
