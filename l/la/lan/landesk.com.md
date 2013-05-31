@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the landesk.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227100744id_/http%3A//landesk.com/AboutLANDesk/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the landesk.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531150158id_/http%3A//landesk.com/about/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Statement
+# Legal Privacy Statement
 
 LANDesk is committed to user privacy in all of its communications regarding its products and services. This policy outlines LANDesk’s information-handling practices. If you give us information, it will be treated according to this policy. By downloading any materials from LANDesk Web sites or by providing any personal information to LANDesk via LANDesk Web sites or e-mail addresses, you agree to these terms. If you do not agree to these terms, do not use LANDesk Web sites, download any materials from them or provide information to LANDesk or its affiliated companies by e-mail or other means.
 
@@ -100,6 +100,5 @@ South Jordan, UT
 
 or
 
-1-800-982-2130 (toll-free in the U.S.)
-
+1-800-982-2130 (toll-free in the U.S.)  
 1-801-208-1500
