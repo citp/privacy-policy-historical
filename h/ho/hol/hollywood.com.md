@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the hollywood.com privacy policy that was archived on 2012-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121202165456id_/http%3A//www.hollywood.com/corporate_profile/privacy_policy/468709) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hollywood.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531234602id_/http%3A//www.hollywood.com/static/privacy) for the most accurate reproduction.*
 
-# Privacy Statement for Hollywood.com | Hollywood.com
+# Hollywood.com Privacy Policy
 
-## Hollywood.com, LLC
-
-### Privacy Policy
+Updated May 2013
 
 Hollywood.com, LLC ("Hollywood.com" or "we") knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. Hollywood.com strives to respect and protect the privacy of individuals that visit our web sites. This notice constitutes our Privacy Policy.
 
@@ -12,7 +10,7 @@ By using our services, you expressly consent this Privacy Policy and our Terms o
 
 No Hollywood.com services are directed to children under 13. Federal law requires that Hollywood.com may not collect any personally identifiable information from persons under 13 years of age. If you are under 13 years of age, you may not register for any Hollywood.com services or provide any of your personal information to Hollywood.com.
 
-This Privacy Policy applies to the all of the following web sites and services of Hollywood.com and its subsidiaries: 
+This Privacy Policy applies to the all of the following web sites and services of Hollywood.com and its subsidiaries:
 
 www.hollywood.com  
 Hollywood.com Fan Sites  
@@ -26,12 +24,12 @@ and all sub-domains of the above
 
 To most effectively offer our services, we may collect information from you in the following ways:
 
-    * Information You Provide to Register for Services. If you wish to register for the Hollywood.com newsletter or to participate in a contest or giveaway, we request you to provide your email address and zip code (or foreign postal area). If you wish to build a fan site, we request you to provide your name, country of residence, email address, a password, and a security question and answer. You may also include any additional information in a space provided. You are not required to provide this information, but then you may not receive the services. 
-    * Additional Fan Site Information You Provide. In addition to information required to register a Fan Site account, you may voluntarily provide your company name (if applicable), address, city, state/region, zip code, and phone number. Any information you publish through a Fan Site is stored on our servers. Published information is not kept private. 
-    * Server Log Information. Our servers automatically log certain basic technical information when a user accesses the website, which may include your Internet Protocol (IP) address, your browser's request to the Hollywood.com server, the date and time of the request, the language and type of browser you use, the referring web page, your computer's operating system, and any Hollywood.com cookies associated with your browser. 
-    * Communications From You to Us. If you send correspondence or email to us or otherwise communicate with us, we may retain copies of the communications to assist you or for our records. 
-    * Cookies. When you browse to www.hollywood.com, our system sends a small file called a "cookie" to your computer that identifies your browser. This allows us to recognize you for purposes of saving your preferences or providing personalized service. We use cookies to record session information, record user-specific information on what pages users access or visit, or customize Web page content based on visitors' browser type or other information that the visitor sends. Since we use cookies to make your web site visit more user friendly, please be aware that refusing cookies may not allow you to take full advantage of some our web site features. 
-    * Social Networking. We allow you to sign into social networking and other online profiles through Hollywood.com so you can interact with our services using those accounts. Hollywood.com can only recognize you through these accounts if you specifically agree to share that information by signing in. 
+    * Information You Provide to Register for Services. If you wish to register for the Hollywood.com newsletter or to participate in a contest or giveaway, we request you to provide your email address and zip code (or foreign postal area). If you wish to build a fan site, we request you to provide your name, country of residence, email address, a password, and a security question and answer. You may also include any additional information in a space provided. You are not required to provide this information, but then you may not receive the services.
+    * Additional Fan Site Information You Provide. In addition to information required to register a Fan Site account, you may voluntarily provide your company name (if applicable), address, city, state/region, zip code, and phone number. Any information you publish through a Fan Site is stored on our servers. Published information is not kept private.
+    * Server Log Information. Our servers automatically log certain basic technical information when a user accesses the website, which may include your Internet Protocol (IP) address, your browser's request to the Hollywood.com server, the date and time of the request, the language and type of browser you use, the referring web page, your computer's operating system, and any Hollywood.com cookies associated with your browser.
+    * Communications From You to Us. If you send correspondence or email to us or otherwise communicate with us, we may retain copies of the communications to assist you or for our records.
+    * Cookies. When you browse to www.hollywood.com, our system sends a small file called a "cookie" to your computer that identifies your browser. This allows us to recognize you for purposes of saving your preferences or providing personalized service. We use cookies to record session information, record user-specific information on what pages users access or visit, or customize Web page content based on visitors' browser type or other information that the visitor sends. Since we use cookies to make your web site visit more user friendly, please be aware that refusing cookies may not allow you to take full advantage of some our web site features.
+    * Social Networking. We allow you to sign into social networking and other online profiles through Hollywood.com so you can interact with our services using those accounts. Hollywood.com can only recognize you through these accounts if you specifically agree to share that information by signing in.
 
 The only purposes for which Hollywood.com processes personal information are those stated in this Privacy Policy, including the above, and the following purposes:
 
@@ -64,6 +62,8 @@ Hollywood.com will not share your personal information with third parties unless
 Hollywood.com may share with third parties certain pieces of aggregated demographic data that will not identify you or anyone personally, such as the number of users who viewed a particular page in a given time-period, or geographic statistics about our members.
 
 Ads appearing on this web site are displayed on your screen by either (a) one of our web advertising partners or (b) by us. Information about your visit to this site, such as the number of times you have viewed an ad, your browser, the type of computer operating system you use, and whether or not you responded to the ad delivered, (but not your name, address, phone number or other personally identifying information), is used to serve advertisements to your screen. We may use your zip code or geographical location information to serve appropriate advertisements. In the course of serving advertisements to this site, our third party advertiser may place or recognize a unique cookie on your browser.
+
+We may also use third party advertisements placed by ad networks to support our Site. Some of these advertisers and ad networks may use your zip code or geographic location and technology including, but not limited to, cookies or web beacons when they advertise on our Site. These advertisers and ad networks may collect and use the non-personal information described above to provide you with relevant advertisements based on your online behavior, activities on our Site and other third party sites, demographic information, or information relevant to your general location so that the advertising you see on our Site more closely reflects your interests. If you would like more information about this practice or to opt-out of this type of advertising, please [click here](http://www.networkadvertising.org/choices/).
 
   6. ### Information Security
 
@@ -102,8 +102,7 @@ Please address such requests to:
 California Privacy Matters  
 Hollywood.com, LLC  
 2255 Glades Road. Suite 221A  
-Boca Raton, Florida 33431  
-
+Boca Raton, Florida 33431
 
   11. ### Changes to this Privacy Policy
 
