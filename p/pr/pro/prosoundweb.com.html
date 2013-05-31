@@ -1,8 +1,9 @@
-<!--The following is the downloaded HTML source of the prosoundweb.com privacy policy that was archived on 2012-11-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121124182621id_/http%3A//prosoundweb.com/company/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the prosoundweb.com privacy policy that was archived on 2013-05-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130531080309id_/http%3A//prosoundweb.com/company/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<title>Privacy Policy - Pro Sound Web</title>
+<title> 
+Privacy Policy - Pro Sound Web</title>
 <meta content="en-us" http-equiv="Content-Language">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta content="Pro Sound Web" name="title">
@@ -26,6 +27,87 @@ theText.value = ""
 <link type="text/css" rel="stylesheet" rev="stylesheet" href="/psw/css_grid">
 <link rel="stylesheet" type="text/css" media="all" href="/psw/css_site_styles">
 <link rel="alternate" type="application/rss+xml" title="Recently Filed RSS Feed" href="http://feeds2.feedburner.com/prosoundweb">
+
+<script language="Javascript"> 
+<!-- 
+// isEmail (STRING s [, BOOLEAN emptyOK])
+// whitespace characters
+var whitespace = " \t\n\r";
+
+function isValidEmail(s)
+{   
+	if (isEmpty(s)) return false;
+   
+	// is s whitespace?
+	if (isWhitespace(s)) return false;
+	    
+	// there must be >= 1 character before @, so we
+	// start looking at character position 1 
+	// (i.e. second character)
+	var i = 1;
+	var sLength = s.length;
+
+	// look for @
+	while ((i < sLength) && (s.charAt(i) != "@"))
+	{i++}
+
+	if ((i >= sLength) || (s.charAt(i) != "@")) return false;
+	else i += 2;
+
+	// look for .
+	while ((i < sLength) && (s.charAt(i) != "."))
+	{i++}
+
+	// there must be at least one character after the .
+	if ((i >= sLength - 1) || (s.charAt(i) != ".")) return false;
+	else return true;
+}
+
+// Check whether string s is empty.
+function isEmpty(s)
+{   
+	return ((s == null) || (s.length == 0))
+}
+
+// Returns true if string s is empty or 
+// whitespace characters only.
+function isWhitespace(s)
+{   
+	var i;
+
+    // Is s empty?
+    if (isEmpty(s)) return true;
+
+    for (i = 0; i < s.length; i++)
+    {   
+		// Check that current character isn't whitespace.
+		var c = s.charAt(i);
+
+		if (whitespace.indexOf(c) == -1) return false;
+    }
+    // All characters are whitespace.
+    return true;
+}
+
+function checkForm() { 
+	z=0;
+	celements=document.getElementsByName('lid');
+		for (c=0;c<celements.length;c++){
+		if (celements[c].checked){z=z+1;}
+		}
+	if (z<1){
+	alert("Please select at least one list.");
+		return false;
+	}
+	if (!isValidEmail(document.subscribeForm.elements['Email Address'].value)) {
+	document.subscribeForm.elements['Email Address'].style.backgroundColor='yellow';
+		alert("Please enter a valid Email Address. (name@host.com)");
+		document.subscribeForm.elements['Email Address'].focus();
+		return false;
+	}
+}
+//--> 
+</script>
 </head>
 
 <body>
@@ -43,7 +125,7 @@ theText.value = ""
     <form method="post" action="http://www.prosoundweb.com/">
 <div class="hiddenFields">
 <input type="hidden" name="ACT" value="19">
-<input type="hidden" name="XID" value="3d5cc9595fb2dcc3f9eff96db347d61bcf2c0a5d">
+<input type="hidden" name="XID" value="c2527ad718c24df684d04f90b360afabf9e84d63">
 <input type="hidden" name="RP" value="&amp;#47;search&amp;#47;results">
 <input type="hidden" name="NRP" value="">
 <input type="hidden" name="RES" value="12">
@@ -69,10 +151,12 @@ theText.value = ""
 <li><a href="/live" title="Live Sound" class=""><span>Live Sound</span></a></li>
 <li><a href="/recording" title="Recording" class=""><span>Recording</span></a></li>
 <li><a href="/church" title="Church" class=""><span>Church</span></a></li>
+<li><a href="/production" title="Production" class=""><span>Production</span></a></li>
 <li><a href="/av" title="AV" class=""><span>A/V</span></a></li>
+
 <li><a href="/studyhall" title="Study Hall" class=""><span>Study Hall</span></a></li>
-<li><a href="/resources" title="Media &amp; Resources" class=""><span>Media</span></a></li>
-<li><a href="/product/categories" title="Readers Choice Product Guide" class="" xstyle="background-image:url(/images/site/rca_menu_logo.gif); background-repeat:no-repeat; padding-left:48px;" ;=""><span>Buyers Guide</span></a></li>
+
+<li><a href="/directories" title="Directories" class="" xstyle="background-image:url(/images/site/rca_menu_logo.gif); background-repeat:no-repeat; padding-left:48px;" ;=""><span>Directories</span></a></li>
 <li><a href="/forums" title="Forums" class=""><span>Forums</span></a></li>
 </ul>
 
@@ -128,7 +212,7 @@ if (OAS_version >= 11)
 ('<SCRIPT LANGUAGE=JavaScript1.1 SRC="' + OAS_url + 'adstream_mjx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '?' + OAS_query + '"><\/SCRIPT>');
 
 //-->
-</script><script language="JavaScript1.1" src="http://oasc05050.247realmedia.com/RealMedia/ads/adstream_mjx.ads/psw/fos/site/1719820644@Top,Middle,Right,Middle1,Position1,Frame1,Top3?"></script>
+</script><script language="JavaScript1.1" src="http://oasc05050.247realmedia.com/RealMedia/ads/adstream_mjx.ads/psw/fos/site/1106196406@Top,Middle,Right,Middle1,Position1,Frame1,Top3?"></script>
 <script language="JavaScript">
 <!--
 document.write
@@ -208,6 +292,8 @@ OAS_AD('Position1');
 
 
 <div style="color:#990000; font-size:11pt; margin-top:-6px;">
+
+
 
 </div>
 <div class="hed">Privacy Policy</div>
@@ -336,24 +422,24 @@ OAS_AD('Right');
 
 
 
-<a href="/showcase#sound_reinforcement_product_showcase" alt="View Sound Reinforcement Product Showcase eNewsletter" title="View Sound Reinforcement Product Showcase eNewsletter" id="weblog"><h7>
-<div class="showcaseTeaserImage"><img src="http://www.prosoundweb.com/images/uploads/enews_SR_logo_140x60.jpg" border="0" alt="image" width="140" height="60" target="blank"></div>
+<a href="/showcase#proproduction_product_showcase_enewsletter" alt="View ProProduction Product Showcase eNewsletter" title="View ProProduction Product Showcase eNewsletter" id="weblog"><h7>
+<div class="showcaseTeaserImage"><img src="http://www.prosoundweb.com/images/uploads/PPW_subscribe-banner_140b.png" border="0" alt="image" width="140" height="60"></div>
 </h7></a>
 
 <div class="line3"></div>
-<a href="/showcase#sound_reinforcement_product_showcase" alt="View Sound Reinforcement Product Showcase eNewsletter" title="View Sound Reinforcement Product Showcase eNewsletter" id="weblog">Sound Reinforcement Product Showcase eNewsletter</a><br clear="left">
+<a href="/showcase#proproduction_product_showcase_enewsletter" alt="View ProProduction Product Showcase eNewsletter" title="View ProProduction Product Showcase eNewsletter" id="weblog">ProProduction Product Showcase eNewsletter</a><br clear="left">
 <div class="line2"></div>
 
 
 
 
 
-<a href="/showcase#recording_product_showcase_enewsletter" alt="View Recording Product Showcase eNewsletter" title="View Recording Product Showcase eNewsletter" id="weblog"><h7>
-<div class="showcaseTeaserImage"><img src="http://www.prosoundweb.com/images/uploads/enews_recording_logo_140x60.jpg" border="0" alt="image" width="140" height="60"></div>
+<a href="/showcase#prosoundweb_daily_enewsletter" alt="View ProSoundWeb Daily eNewsletter" title="View ProSoundWeb Daily eNewsletter" id="weblog"><h7>
+<div class="showcaseTeaserImage"><img src="http://www.prosoundweb.com/images/uploads/enews_daily_logo_140x60.jpg" border="0" alt="image" width="140" height="60"></div>
 </h7></a>
 
 <div class="line3"></div>
-<a href="/showcase#recording_product_showcase_enewsletter" alt="View Recording Product Showcase eNewsletter" title="View Recording Product Showcase eNewsletter" id="weblog">Recording Product Showcase eNewsletter</a><br clear="left">
+<a href="/showcase#prosoundweb_daily_enewsletter" alt="View ProSoundWeb Daily eNewsletter" title="View ProSoundWeb Daily eNewsletter" id="weblog">ProSoundWeb Daily eNewsletter</a><br clear="left">
 <div class="line2"></div>
 
 
@@ -372,12 +458,12 @@ OAS_AD('Right');
 
 
 
-<a href="/showcase#prosoundweb_daily_enewsletter" alt="View ProSoundWeb Daily eNewsletter" title="View ProSoundWeb Daily eNewsletter" id="weblog"><h7>
-<div class="showcaseTeaserImage"><img src="http://www.prosoundweb.com/images/uploads/enews_daily_logo_140x60.jpg" border="0" alt="image" width="140" height="60"></div>
+<a href="/showcase#recording_product_showcase_enewsletter" alt="View Recording Product Showcase eNewsletter" title="View Recording Product Showcase eNewsletter" id="weblog"><h7>
+<div class="showcaseTeaserImage"><img src="http://www.prosoundweb.com/images/uploads/enews_recording_logo_140x60.jpg" border="0" alt="image" width="140" height="60"></div>
 </h7></a>
 
 <div class="line3"></div>
-<a href="/showcase#prosoundweb_daily_enewsletter" alt="View ProSoundWeb Daily eNewsletter" title="View ProSoundWeb Daily eNewsletter" id="weblog">ProSoundWeb Daily eNewsletter</a><br clear="left">
+<a href="/showcase#recording_product_showcase_enewsletter" alt="View Recording Product Showcase eNewsletter" title="View Recording Product Showcase eNewsletter" id="weblog">Recording Product Showcase eNewsletter</a><br clear="left">
 <div class="line2"></div>
 
 
@@ -440,12 +526,6 @@ OAS_AD('Middle1');
 <div class="pad6">
 <ul style="margin-left:-4px;">
 
-<div class="pad2" style="font-size:11pt; line-height:12pt; "><li><a href="http://oascentral.cepro.com/RealMedia/ads/click_lx.ads/cepro.com/1112745096/Bottom1/Ehpub/WAVES_PSW_Text_Nov12/pixel2.gif/1" title="More about Waves">Cyber Weekend at Waves - Lowest Prices of the Year. Save up to 80% Off!</a> - <span style="color:#999;">Waves</span></li></div>
-
-<div class="pad2" style="font-size:11pt; line-height:12pt; "><li><a href="http://oascentral.cepro.com/RealMedia/ads/click_lx.ads/cepro.com/1112745096/Bottom1/Ehpub/AudioTechnica_PSW_SweepsText_2012/pixel2.gif/1" title="More about Audio-Technica">Enter to win an AT4050/LE Limited Edition microphone (value $995)!</a> - <span style="color:#999;">Audio-Technica</span></li></div>
-
-<div class="pad2" style="font-size:11pt; line-height:12pt; "><li><a href="http://oascentral.cepro.com/RealMedia/ads/click_lx.ads/cepro.com/1112745096/Bottom1/Ehpub/AudioTechnica_PSW_Text_2012/pixel2.gif/1" title="More about Audio-Technica">Get REBATES on Best-Selling Vocal Mics</a> - <span style="color:#999;">Audio-Technica</span></li></div>
-
 <div class="pad2" style="font-size:11pt; line-height:12pt; "><li><a href="http://www.prosoundweb.com/showcase" title="More about PSW Product Showcase">Review the latest products in the industry at the ProSoundWeb Product Showcase</a> - <span style="color:#999;">PSW Product Showcase</span></li></div>
 
 <div class="pad2" style="font-size:11pt; line-height:12pt; "><li><a href="http://www.qfie.com/lsi/clslsineword2.asp?straspreason=102&amp;pubcode=LSI" title="More about Live Sound!">Free Live Sound International Subscription to Qualified PSW members</a> - <span style="color:#999;">Live Sound!</span></li></div>
@@ -473,7 +553,7 @@ OAS_AD('Middle1');
 		<a href="/company/contact_us">Contact</a>
 		<a href="/company/about_us">About Us</a>
 		<a href="/company/privacy_policy">Privacy</a>
-		<a href="mailto:niademarco@wrightsmedia.com">Reprints</a>
+		<a href="mailto:ehalloran@ehpub.com">Reprints</a>
 	</div></div>
 	<div class="footerBar" align="center"></div>
 
@@ -483,7 +563,7 @@ OAS_AD('Middle1');
 	<a href="http://www.electronichouse.com">Electronic House</a>
 	<a href="http://www.electronichouseideas.com">Electronic House Ideas</a>
 	<a href="http://www.cepro.com">CE Pro</a>
-	<a href="http://www.techomebuilder.com">TecHome Builder</a>
+	
 	<a href="http://www.channelproonline.com">ChannelPro</a>
 	<a href="http://www.prosoundweb.com">ProSound Web</a>
 	<a href="http://www.livesoundint.com">Live Sound International</a>
@@ -518,7 +598,6 @@ try {
 var pageTracker = _gat._getTracker("UA-31037-36");
 pageTracker._trackPageview();
 } catch(err) {}</script>
-
 
 
 
