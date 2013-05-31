@@ -1,32 +1,33 @@
-> *The following text is extracted and transformed from the stockmusicsite.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626201417id_/http%3A//www.stockmusicsite.com/stockmusic/privacy/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stockmusicsite.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531182229id_/https%3A//www.stockmusicsite.com/stockmusic/legal/privacy_policy.cfm) for the most accurate reproduction.*
 
 # StockMusicSite.com Privacy Policy
 
-radio sound effects,  
-microsoft downloads sounds,  
-foley sounds,  
+sound effects mp3 wav,  
+radio sounds effects,  
+game sound effects,  
+free downloads of sound effects,  
+ticking clock sound effects,  
+farting soundes,  
+movie editing noises downloads free,  
+horn sounds,  
+wolf howl sound,  
+free demonic audio recording effect downloads,  
+jackson 5 free sound effects,  
+rolling ball sound effect,  
+eagle sound effect,  
 sound effects free download,  
-sound effects cash machine,  
-free lorry sound effects,  
-sound of bicycle freewheeling sound effect,  
-free clapping sound,  
-free window live messenger sounds,  
-cat sounds,  
-porky pig sound files,  
-goose sounds,  
-free sound effect program,  
-sonar mp3 sound effects,  
-downtown sounds,  
-free sound effects for powerpoints,  
-sound craft fx 16 16ü θ ũ ý,  
-funny sounds,  
-awesome sound effect,  
-mp3 sound effects 
+tuba sound effect download,  
+free sfx,  
+free door bell sound effects mp3,  
+sound bites effects,  
+bbc sound effects library index,  
+different sound effects 
 
 | 
 
-| 
-
+|   
+---  
+  
 **Privacy Policy of StockMusicSite.com  
 **   
 
@@ -105,32 +106,26 @@ We know that you care how your information is used, and we appreciate your trust
 
 ** ***********************************  
   
----  
   
-  
-  
-  
-  
-  
-[ ](http://www.stockmusicsite.com/)
 
-sound effects samples,  
-effects sounds,  
-downloadable sound affects,  
-car taking off sound effects,  
-devil may cry 3 sound files,  
-elk sound clip,  
-police sounds,  
-desktop voice fx,  
-restaurant sound effects,  
-professional fx sounds,  
-groan sound effect,  
-downloadable sound effects free falling,  
-talking radio effect sounds,  
-john lennon sound clips,  
-free demonic audio recording effect downloads,  
-free panto sound effects,  
-up dat my sound,  
-sounds to download for powerpoint,  
-theatre sound effects download,  
-im wav sounds 
+
+unusual sounds to download,  
+movie wavs,  
+funny sounds,  
+african sound effects,  
+lord of the rings sound effects,  
+hand held sound effects,  
+free fx sound effects,  
+monster zero sound eff,  
+time fx,  
+huntinghornsounds,  
+free downloadable safari sounds,  
+nuke sound effect,  
+star tours sound effects,  
+download free sound affects online,  
+drum roll sound effect,  
+vikings sounds,  
+free lorry sound effects,  
+audio clips sound effects,  
+sounds of nature free online download,  
+sound wav com 
