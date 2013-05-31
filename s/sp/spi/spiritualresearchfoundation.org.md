@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spiritualresearchfoundation.org privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226184638id_/http%3A//www.spiritualresearchfoundation.org/articles/id/shop/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spiritualresearchfoundation.org privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531072049id_/http%3A//www.spiritualresearchfoundation.org/articles/id/shop/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -6,7 +6,7 @@
 
 ##  1 Our philosophy and approach
 
-In this policy, "us", "we" or "our" means Spiritual Science Research Foundation INC (“SSRF”) a non‐profit organisation registered in Australia with the Australian Securities & Investments Commission (ASIC) ABN 49 119 742 291 and in the United States of America in the State of New Jersey No: 0400176958 (hereinafter jointly referred to as SSRF).
+In this policy, "us", "we" or "our" means Spiritual Science Research Foundation INC (“SSRF”) a non‐profit organisation registered in Australia with the Australian Securities & Investments Commission (ASIC) ABN 49 119 742 291 and in the United States of America in the State of New Jersey No: 0400176958 and Spiritual Science Research Foundation, registered in Serbia with the Serbian Business Register, No: 28825595 (hereinafter jointly referred to as SSRF).
 
 The SSRF and its website (ssrf.org and SpiritualResearchFoundation.org) also referred to in this document as ‘the Site’ is committed to safeguarding the privacy of its on-line users' personal information.
 
@@ -15,6 +15,8 @@ To better protect your privacy and the security of your information, we provide 
 This Policy is in accordance with the Australian National Privacy Principles contained in the Privacy Act 1988 (Cwth).
 
 If you have further questions regarding our privacy policy, please contact us via the ‘[ask a question](https://web.archive.org/articles/id/profiles/extuserprof/question)’ functionality in your SSRF Member Account.
+
+This Privacy policy is an integral part of the [Terms of Use](https://web.archive.org/articles/id/terms-of-use) of this Website.
 
 ##  2 What information do we collect?
 
@@ -40,8 +42,7 @@ Through third party software, we also collect aggregate, non-personally-identifi
 
 To the extent this information does not constitute personal information, the National Privacy Principles do not apply and we may use this information for any purpose and by any means whatsoever.
 
-^ Top  
-
+^ Top
 
 ##  3 Why do we collect information about you?
 
@@ -57,7 +58,7 @@ We may state a more specific purpose at the point we collect your information. I
 
   * Responding to your questions and comments.
 
-  * We use your personal information to respond to and fulfil requests for products and services made through SSRF Shop (SSRF’s online shop). We also relay your order details to PayPal’s online payment gateway to collect payment on our behalf.
+  * We use your personal information to respond to and fulfil requests for products and services made through SSRF Shop (SSRF’s online shop). We also relay your order details to an online payment gateway to collect payment on our behalf.
 
   * Contacting you about the status of your orders, donations and event registrations
 
@@ -157,7 +158,7 @@ To prevent unauthorized access, maintain data accuracy and ensure the appropriat
 
 ###  7.2 With regards to managerial processes
 
-  * **No storage of credit card details:** We have made it a policy not to store any credit card details. We use PayPal as our payment gateway system and any of your financial information that you provide during a credit card transaction is only privy to them.
+  * **No storage of credit card details:** We have made it a policy not to store any credit card details. We use an online payment gateway system and any of your financial information that you provide during a credit card transaction is only privy to them.
 
   * **Accessibility to your data:** Our organisations values, ethical standards, policies and practices are committed to the protection of customer information. In general, our business practices limit employee access to confidential information, and limit the use and disclosure of such information to authorized persons, processes and transactions. Employees designated to handle personal data will be instructed to do so only according to this Privacy Policy. SSRF limits access to your personal information to those persons that are required to fulfil the requests for information, services or products. Your personal information is password protected with access only to those selected to perform these tasks and authorized persons.
 
@@ -195,7 +196,7 @@ The Site contains hyperlinks to websites owned and operated by third parties tha
 
 ##  9 Effective Date and Modifications
 
-We reserve the right to modify this Privacy Policy at our discretion. If we decide to change our privacy policy, we will post those changes here. We encourage you to visit this section of our site regularly in order to remain informed of any changes. Changes to our Privacy Policy shall become effective as of the date they are posted to this site. Our current policy was amended on 12 March 2010.
+We reserve the right to modify this Privacy Policy at our discretion. If we decide to change our privacy policy, we will post those changes here. We encourage you to visit this section of our site regularly in order to remain informed of any changes. Changes to our Privacy Policy shall become effective as of the date they are posted to this site. Our current policy was amended on 18 February 2013.
 
 ##  10 Contacting Us
 
