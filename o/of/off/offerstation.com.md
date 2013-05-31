@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the offerstation.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226162553id_/http%3A//www.offerstation.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the offerstation.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531035600id_/http%3A//offerstation.com/privacy.php) for the most accurate reproduction.*
 
 # Contact Us | OfferStation.com
 
@@ -52,51 +52,51 @@ OfferStation reserves the right to modify, update, and change this policy at our
 
 [
 
-## New Polo Haus Outlet
+## Shiseido Clearance Sales
 
-](http://www.offerstation.com/whats-new/101619/new-polo-haus-outlet.htm)
-
-[
-
-## Christmas Deserts & Beverages at delicious
-
-](http://www.offerstation.com/dining-food-offers/101373/christmas-deserts-and-beverages-at-delicious.htm)
+](http://www.offerstation.com/warehouse-sales/110890/shiseido-clearance-sales.htm)
 
 [
 
-## 1Malaysia Year End Sale 2012
+## RM3 Sushi King Card Bonanza
 
-](http://www.offerstation.com/sales-warehouse-clearance/98687/1malaysia-year-end-sale-2012.htm)
-
-[
-
-## Angry Birds Contest
-
-](http://www.offerstation.com/contest-prizes/101888/angry-birds-contest.htm)
+](http://www.offerstation.com/dining-food-offers/110893/rm3-sushi-king-card-bonanza.htm)
 
 [
 
-## 4 Days Clearance Promotion at senQ The Mall 
+## Aino Living GOURMET Frying Pan Promotion
 
-](http://www.offerstation.com/offers-promotions/102076/4-days-clearance-promotion-at-senq-the-mall.htm)
-
-[
-
-## VISS Warehouse Fair
-
-](http://www.offerstation.com/warehouse-sales/101853/viss-warehouse-fair.htm)
+](http://www.offerstation.com/offers-promotions/110956/aino-living-gourmet-frying-pan-promotion.htm)
 
 [
 
-## Tiamo Star Promotion
+## AEON Member Fiesta at AEON Permas Jaya 
 
-](http://www.offerstation.com/offers-promotions/101881/tiamo-star-promotion.htm)
+](http://www.offerstation.com/sales-warehouse-clearance/110937/aeon-member-fiesta-at-aeon-permas-jaya.htm)
 
 [
 
-## Toshiba Washing Machine Promotion
+## Clearance at warehouse by Vivencia
 
-](http://www.offerstation.com/offers-promotions/101507/toshiba-washing-machine-promotion.htm)
+](http://www.offerstation.com/offers-promotions/110962/clearance-at-warehouse-by-vivencia.htm)
+
+[
+
+## Guardian FREE Voucher Promotion
+
+](http://www.offerstation.com/offers-promotions/110462/guardian-free-voucher-promotion.htm)
+
+[
+
+## Aussino Shop & Win Gold Contest
+
+](http://www.offerstation.com/contest-prizes/110928/aussino-shop-and-win-gold-contest.htm)
+
+[
+
+## P & Co Sale
+
+](http://www.offerstation.com/sales-warehouse-clearance/110746/p-and-co-sale.htm)
 
   
 
