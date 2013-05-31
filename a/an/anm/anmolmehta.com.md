@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anmolmehta.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223172445id_/http%3A//anmolmehta.com/blog/privacy-policy-for-anmolmehtacom) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anmolmehta.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531115811id_/http%3A//anmolmehta.com/blog/privacy-policy-for-anmolmehtacom) for the most accurate reproduction.*
 
 # Privacy Policy for AnmolMehta.com | Free Online Kundalini Yoga Poses and Exercises
 
