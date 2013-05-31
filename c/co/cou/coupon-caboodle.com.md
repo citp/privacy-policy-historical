@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coupon-caboodle.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224073111id_/http%3A//coupon-caboodle.com/Shrd/Docs/Privacy.aspx%3FType%3DCoupons) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coupon-caboodle.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531195219id_/http%3A//coupon-caboodle.com/Shrd/Docs/Privacy.aspx%3FType%3DCoupons) for the most accurate reproduction.*
 
 # Your Privacy Rights Summarized
 
