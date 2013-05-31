@@ -1,7 +1,8 @@
-> *The following text is extracted and transformed from the mymoneydesign.com privacy policy that was archived on 2012-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121129181555id_/http%3A//www.mymoneydesign.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mymoneydesign.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531125342id_/http%3A//www.mymoneydesign.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for MyMoneyDesign.com
 
+  
   
 
 
@@ -30,3 +31,6 @@ You can chose to disable or selectively turn off our cookies or third-party cook
 This template for AdSense Privacy Policy was provided by [JenSense](http://www.jensense.com/2008/03/05/adsense-friendly-privacy-policy-sample-for-adsense-publishers-to-use/).
 
 Copyright © 2011-2012 MyMoneyDesign. All Rights Reserved.
+
+  
+
