@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the worldtravelguide.net privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031053542id_/http%3A//www.worldtravelguide.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldtravelguide.net privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531212319id_/http%3A//www.worldtravelguide.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy
+# Privacy Policy
 
 We, Columbus Travel Media Limited, are committed to safeguarding your privacy. This privacy policy explains how we will treat any personal information you supply to us, or we collect from you on [www.worldtravelguide.net](https://web.archive.org/ "www.worldtravelguide.net") and its other language versions the "Websites", and how your personal data will be processed by us as the ‘data controller of your data’ as set out in the Data Protection Act 1998 (“the Act”). Please read this policy carefully to understand our views and practices regarding your personal data and how it affects your legal rights. If you do not agree with this policy please do not use the Websites.
 
@@ -139,4 +139,4 @@ We hope that you enjoy using our website, safe in the knowledge that we are comm
 Version 3: January 2012
 
 Do you have any [Feedback](https://web.archive.org/feedback) about this page?  
-© 2012 Columbus Travel Media Ltd. All rights reserved. No part of this site may be reproduced without our written permission, click here for information on [Columbus Content Solutions](https://web.archive.org/about-us#Content_Solutions).
+© 2013 Columbus Travel Media Ltd. All rights reserved. No part of this site may be reproduced without our written permission, click here for information on [Columbus Content Solutions](https://web.archive.org/about-us#Content_Solutions).
