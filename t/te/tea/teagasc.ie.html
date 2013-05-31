@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the teagasc.ie privacy policy that was archived on 2012-11-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121118052443id_/http%3A//www.teagasc.ie/aboutus/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the teagasc.ie privacy policy that was archived on 2013-05-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130531210833id_/http%3A//www.teagasc.ie/aboutus/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><!-- #BeginTemplate "../Templates/sub_page_template.dwt" --><head>
 <meta http-equiv="X-UA-Compatible" content="IE=8">
@@ -17,7 +17,13 @@
 <!-- #EndEditable -->
 
 <!-- #BeginEditable "scripting" -->
-
+<!-- UPDATE NAV -->
+<style type="text/css">
+	#nav_about a {
+		color: #777;
+		border-bottom: 2px solid #b2b706;
+	}
+</style>
 <!-- #EndEditable -->
 
 <link rel="stylesheet" type="text/css" media="screen" href="/includes/css/style.css">
@@ -44,13 +50,13 @@
 					searchWord='';
 				else
 					searchWord = document.dtSearchForm.request.value;
-				document.dtSearchForm.action = "/search/Default.aspx?searchVal=" + searchWord;
+				document.dtSearchForm.action = "/search/index.asp?q=" + searchWord;
 				document.dtSearchForm.submit();
 			}
 
 			</script>
 
-		<div id="accessMenu"><a href="#content" title="Skip navigation; Skip to content; Access key: s" accesskey="s">Skip navigation</a> <a href="/aboutus/accesskeys.asp" title="Access keys documentation page; Access key: 0" accesskey="0">Access keys documentation page</a> <a href="/advanced_search.asp" title="Search; Access key: 4" accesskey="4">Search</a> <a href="http://www.agresearch.teagasc.ie" title="Agriculture Research; Access key: f" accesskey="r">Agriculture Research</a> <a href="/research/food.asp" title="Food Research; Access key: o" accesskey="o">Food Research</a></div>
+		<div id="accessMenu"><a href="#content" title="Skip navigation; Skip to content; Access key: s" accesskey="s">Skip navigation</a> <a href="/aboutus/accesskeys.asp" title="Access keys documentation page; Access key: 0" accesskey="0">Access keys documentation page</a> <a href="/search/index.asp" title="Search; Access key: 4" accesskey="4">Search</a> <a href="http://www.agresearch.teagasc.ie" title="Agriculture Research; Access key: f" accesskey="r">Agriculture Research</a> <a href="/research/food.asp" title="Food Research; Access key: o" accesskey="o">Food Research</a></div>
 			<div id="header">		
 				<div id="teagasclogo">
 					<a href="/"><img src="/includes/graphics/teagasc-logo.png" alt="Teagasc - The Irish Agriculture and Food Development Authority"></a>
@@ -83,7 +89,7 @@
 								<option value="/topics/animalgrassland/dairy.asp">--- Dairy</option>
 								<option value="/topics/grassland/">--- Grassland</option>
 								<option value="/pigs/">--- Pigs</option>
-								<option value="/advisory/sheep/">--- Sheep</option>
+								<option value="/sheep/">--- Sheep</option>
 								<option value="/topics/cropsenvland/">Crops, Environment &amp; Land Use</option>
 								<option value="/energy/">--- Energy</option>
 								<option value="/crops/">--- Cereals</option>
@@ -103,8 +109,8 @@
 								<option value="/topics/economics/home.asp">Rural Economy &amp; Development</option>
 								<option value="http://www.agresearch.teagasc.ie/rerc/index.asp">--- Economics</option>
 								<option value="/advisory/farm_management/">--- Farm Management</option>
-								<option value="/ruraldev/progs/organic_farming/">--- Organics</option>
-								<option value="/ruraldev/progs/equine/">--- Equine</option>
+								<option value="/ruraldev/organic_farming/">--- Organics</option>
+								<option value="/ruraldev/equine/">--- Equine</option>
 								<option value="/topics/rural_dev/">--- Rural Development</option>
 							</select>
 							<input class="go-button" type="submit" name="go" value="" alt="go">
@@ -114,7 +120,7 @@
 				</div>				
 				<div id="search">
 					<div class="nav-search">
-						<form id="dtSearchForm" name="dtSearchForm" action="/search/Default.aspx" method="POST" class="frmHome" onsubmit="javascript:submit_search()">
+						<form id="dtSearchForm" name="dtSearchForm" action="/search/index.asp" method="POST" class="frmHome" onsubmit="javascript:submit_search(); return false;">
 							<div class="searchbox">
 								<input id="SearchRequest" class="search-text" type="text" name="request" value="Search... " onfocus="if(this.value=='Search... ')this.value='';" onblur="if (this.value=='')this.value='Search... ';">
 							</div>
@@ -172,9 +178,7 @@
 		<li><a href="/Foresight/">Teagasc 2030</a></li>
 	</ul>
 	
-							
-					<!-- #EndEditable -->
-				</div>
+<!-- #EndEditable --></div>
 				
 				<div id="content" class="main">
 				<!-- #BeginEditable "body1" -->
