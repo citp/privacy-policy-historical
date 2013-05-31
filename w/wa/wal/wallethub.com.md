@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wallethub.com privacy policy that was archived on 2012-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120709002054id_/http%3A//wallethub.com/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallethub.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531235854id_/http%3A//wallethub.com/terms/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – Privacy Policy – WalletHub
 
@@ -27,10 +27,10 @@ When you use Evolution Finance’s Services, you consent to our collection, use,
 
 **General:** Evolution Finance may collect and store information about you when you register with Evolution Finance, when you use Evolution Finance products or services, when you visit Evolution Finance pages or the pages of Evolution Finance properties (e.g. CardHub.com and WalletHub.com) or the pages of certain Evolution Finance partners, and when you enter promotions or sweepstakes. Evolution Finance may combine the information we have about you with information obtained from business partners, other companies, and other users.  
 Evolution Finance uses information for the following general purposes: improving our services, developing new services, customizing the advertising and content you see, fulfilling your product and service requests, conducting research, contacting you, and providing anonymous reports for our internal and external clients and partners.  
-****
+ ****
 
 **Registration:** Upon registering with Evolution Finance, information such as your full name, e-mail address, birth date, gender, or ZIP code will be requested. Certain products and services may ask you for additional information, such as your income, Social Security Number, details about the financial products you use, and information about your assets. You are not anonymous to us when you register with Evolution Finance and sign in to our services.  
-****
+ ****
 
 **Transactions:** Evolution Finance collects information about your transactions with our company and some of our partners. This includes billing and payment information and information about your use of our products and service offerings. This information will only be shared with third parties who perform tasks required to complete purchase transactions (such as fulfilling orders and processing credit card payments). When you submit credit card numbers, we encrypt that information using industry standard technology.
 
@@ -38,16 +38,16 @@ Evolution Finance uses information for the following general purposes: improving
 We receive data about you whenever you interact with the Site, such as when you look at another person’s profile, send someone a message, search for a topic, person, product, or page, or click on an ad. When you post things like photos or videos on the Site, we may also receive additional related data (or metadata), such as the time, date, and place you took the photo or video.
 
 **Public Content:** Your reviews, comments, questions and answers, posts, followers, groups, financial products in your Wallet, businesses and professionals that you have done business with, topics and users you follow, profile information (including your name), and any other information that you post to the Site are meant for public consumption. We may display this content on the Site, collect and store it, and further distribute it to a wider audience through third party sites and services. Please also keep in mind that whenever you voluntarily make other personal information (e.g. your home address) available online for viewing by third parties by posting it on the Site that information is public and can be seen, collected and used by others besides us. We cannot be responsible for any unauthorized third party use of such information.  
-****
+ ****
 
 **Other Users:** We receive information about you from other users through their use of the Site, such as when they follow you, comment on your posts, ask you questions, mention you, or send you messages.  
-****
+ ****
 
 **Location:** We may collect and store information about your location if you enable your computer or mobile device to send us location information. You may be able to change the settings on your computer or mobile device to prevent it from providing us with such information.
 
 **Contacts:** When you invite your friends to join the Site by providing their contact information or allowing us to use your address book from your computer, mobile device, or other sites, we may use and store your friends’ contact information long enough to process your requests.
 
-**Messages:** If you exchange messages with others through the Site, we may store these messages in order to deliver them and allow you to manage them. If you send information from the Site to your phone via SMS text message, we may log your phone number, phone carrier, and the date and time that the message was processed. Carriers may charge recipients for texts that they receive. When you send email or other communications to Evolution Finance, we may retain those communications in order to process your inquiries, respond to your requests and improve our services.  
+**??Messages:** If you exchange messages with others through the Site, we may store these messages in order to deliver them and allow you to manage them. If you send information from the Site to your phone via SMS text message, we may log your phone number, phone carrier, and the date and time that the message was processed. Carriers may charge recipients for texts that they receive. When you send email or other communications to Evolution Finance, we may retain those communications in order to process your inquiries, respond to your requests and improve our services.  
 Please also note that the messages you send or receive using the Site are only private to the extent that you and the sender/recipient keep them private. For example, we do not have any control over whether a recipient of one of your personal messages publicly posts it or its contents.
 
 **Other Sites:** We offer some of our services on or through other web sites. Personal information that you provide to those sites may be sent to Evolution Finance in order to deliver the service. We process such information under this Privacy Policy.
@@ -56,7 +56,7 @@ The Site includes links to other web sites and provides access to products and s
 
 You can also connect your Evolution Finance account to your accounts on third party services like Facebook or Twitter, in which case we may collect and store information identifying your account with the third party service as well as other information from these third party services that you have given us permission to access (e.g. name, date of birth, profile picture and friends birthdays). We use the information to help you connect and share public content with your friends and followers. You can always disconnect your accounts on these third party services from your Evolution Finance account by visiting those services directly.
 
-**Children:** At Evolution Finance we are committed to protecting the privacy of children. We will not knowingly or intentionally collect personal information online from children under the age of 18. If you are under 18 years of age, please do not submit any personal information through the Site
+**Children:** At Evolution Finance we are committed to protecting the privacy of children. We will not knowingly or intentionally collect personal information online from children under the age of 18. ?If you are under 18 years of age, please do not submit any personal information through the Site
 
 ### DISCLOSURE AND SHARING OF INFORMATION
 
@@ -120,5 +120,5 @@ Because we want to demonstrate our commitment to your privacy, we have agreed to
 
 Evolution Finance Inc.  
 Attn: Customer Care – Privacy  
-1530 Key Blvd. #1315  
-Arlington, VA 22209
+818 18th St NW, Suite 420  
+Washington, DC 20006
