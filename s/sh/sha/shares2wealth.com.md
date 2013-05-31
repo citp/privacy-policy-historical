@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shares2wealth.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228225428id_/http%3A//shares2wealth.com/themes/common/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shares2wealth.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531205437id_/http%3A//shares2wealth.com/themes/common/privacy_policy.php) for the most accurate reproduction.*
 
 # Shares2Wealth-Privacy Policy
 
