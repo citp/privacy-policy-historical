@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nycgo.com privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031071649id_/http%3A//www.nycgo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nycgo.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531161838id_/http%3A//www.nycgo.com/privacy) for the most accurate reproduction.*
 
-# privacy policy / nycgo.com
+# privacy policy - The Official New York City Guide to NYC Attractions, Dining, Hotels and Things to Do
 
 In order for you to use our website, subscribe to our electronic newsletter and other electronic mailings, participate in our programs and promotions and participate in sweepstakes or other contests that we may sponsor, we collect personal information that you submit to us and nonpersonal information that is collected pursuant to the “cookies” definition described herein. That information may include, but not be limited to, your first and last name, postal address, telephone number, email address, date of birth and interests. We do not collect any personal information that you do not provide.
 
