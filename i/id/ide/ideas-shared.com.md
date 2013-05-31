@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ideas-shared.com privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127230025id_/http%3A//ideas-shared.com/index.php%3Fid%3D14) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ideas-shared.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531232930id_/http%3A//ideas-shared.com/index.php%3Fid%3D14) for the most accurate reproduction.*
 
-# Ideas-Shared Online Innovation Center
+# Ideas-Shared Help Network - Develop Activities
 
 This privacy policy governs the collection, storage and use of personal information collected by us, Internet-Shared Limited, via the Website Ideas-Shared.Com. It provides you with details about the personal information we collect from you, how we use your personal information and your rights to control personal information we hold about you.  
 
@@ -114,3 +114,5 @@ If you wish to exercise any of the above rights, please contact us at customerca
 
 Please note that this privacy policy applies only to the personal information that we collect and we cannot be responsible for personal information that third parties may collect, store and use through their websites. You should always read the privacy policy of each website you visit carefully.  
 
+
+[ ](http://ideas-shared.com/index.php?id=859)
