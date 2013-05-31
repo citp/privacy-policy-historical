@@ -1,41 +1,17 @@
-> *The following text is extracted and transformed from the carlashes.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230223952id_/http%3A//www.carlashes.com/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carlashes.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601005013id_/http%3A//carlashes.com/index.php%3Fl%3Dpage_view%26p%3Dprivacy_policy) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy Policy
 
-Shopping Cart [](http://www.1automationwiz.com/SecureCart/SecureCart.aspx?mid=178383D6-7FEB-43DB-BD36-B8AB77A4F4DC)
+We value our customers and their privacy. All personal information is used to ensure efficient processing of your order. This information is used by our staff for contacting and identifying customers and their needs. We will not give, sell, rent, or loan any personally identifiable information to any third party, unless we are legally required to do so or you authorize us to do so.
 
-[](https://web.archive.org/web/20121230223952id_/http%3A//www.carlashes.com/order-complete-set-mardi-gras.html)
+**Information Collection & Use:**
 
-  
-Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
+Our site's registration form requires users to give us contact information (like their name and email address). The customer's contact information is used to contact the visitor in the event of a problem when processing an order. For example, problems with credit card verification, product availability, etc. Users have a choice of receiving future mailings during the registration process.
 
-**The Information We Collect:**  
-This notice applies to all information collected or submitted on the CarLashes website. On some pages, you can request information about our services.
+Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information (like their email address), and financial information (like their account or credit card numbers). The customer's contact information is used to get in touch with the visitor when necessary. i.e, in the event there is a problem processing an order, corporate changes, or changes in privacy practices. Financial information that is collected is used to bill the user for products and services. The customer ID numbers are assigned to Web site visitors to verify the user's identity and for use as account numbers in our record system.
 
-**The Use of Information:**  
-We use the information you provide about yourself to contact you and answer any questions you have about our services. We do not share this information with outside parties. We may also use the information you submit online to occasionally provide you with information regarding offers and new services from CarLashes.
+**Security:**
 
-We use return email addresses to answer the email we receive. These addresses are not used for any other purpose and are not shared with outside parties.
+This website takes every precaution to protect our users' information. When users submit sensitive information via the website, your information is protected both online and off-line. When our registration/order form asks users to enter sensitive information (such as credit card number), that information is encrypted and protected. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just "surfing".
 
-**Our Commitment To Data Security:**   
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
-
-**Accessing Or Correcting Your Information:**  
-You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error.
-
-To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
-
-**If you have any questions about our privacy policy, please[contact us](https://web.archive.org/web/20121230223952id_/http%3A//www.carlashes.com/contact-us.html).**
-
-CARLASHES™ MAKE YOU SMILE!  
-Trademark Carlashes™ owned by Robert Small, And Used By Permission  
-Copyright © 2009, 2010 Robert Small, And Used by Permission  
-PATENT PENDING
-
-SISTER SITES:  
-[careyelashes.com](http://www.carlashes.com/) [autolashes.com](http://www.autolashes.com/) [turbolashes.com](http://www.turbolashes.com/)  
-
-
-REFERENCE:  
-CUTE EYELASHES FOR YOUR CAR, EYELASHES FOR YOUR VW BUG, EYELASHES FOR YOUR MINI COOPER, EYELASHES FOR   
-YOUR SMART CAR, PORCHE EYE LASHES, EYELASHES FOR YOUR PORSCHE, VW EYELASHES, VOLKSWAGEN EYELASHES, BUG EYELASHES, MINI COOPER EYELASHES , SMART CAR EYELASHES, EYELASHES FOR YOUR HEADLIGHTS
+If you have any questions about the security at our web site, please send an e-mail to weborders@carlashes.com.
