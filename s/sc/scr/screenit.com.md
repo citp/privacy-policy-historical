@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the screenit.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122043105id_/http%3A//www.screenit.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the screenit.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531043343id_/http%3A//www.screenit.com/privacy_policy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
@@ -106,5 +106,5 @@ Material Modifications Since January 1, 2011: none.
 Copyright Â© 2001-11 Digital Contracts, Inc. (http://www.digicontracts.com/). All Rights Reserved (this is not a Creative Commons license). This document is licensed only for use by the owner of this website. Copying or use of this document in whole or in part by anyone other than the licensee is prohibited. 
 
 All Rights Reserved,  
-©1996-2012 Screen It, Inc.   
+©1996-2013 Screen It, Inc.   
 
