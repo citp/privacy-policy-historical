@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tots100.co.uk privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130145527id_/http%3A//www.tots100.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tots100.co.uk privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531080247id_/http%3A//www.tots100.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy & Cookies | Tots 100
 
@@ -6,9 +6,11 @@ Tots100 and [Flea Enterprises](http://www.fleaenterprises.com/) are committed to
 
 In order to deliver such services, we may store and process personal information. By submitting this information, you consent to such processing in connection with your Tots100/Flea Enterprises account, offers and services. We may contact you from time to time with information about your account, and important changes to our website and services.
 
-Subject to the terms below, we will not share your personal details with any third party without your consent. We may provide aggregate information about users, statistics, traffic patterns and site information to our partners, but we will never share any information from which you might be identified.
+Subject to the terms below, we will not share your personal details with any third party without your consent. We may provide aggregate information about users, statistics, traffic patterns and site information to our partners, but we will never share any information from which you might be identified without your consent.
 
 If you enter a competition on our website, we may share contact details with the promoters of the competition to ensure prizes can be delivered to winning site users.
+
+If you use one of our personalised Tots100 badges (using the code provided in your Tots100 account) then we will record the number of requests for this image from your site. This information will be used to form part of your Tots100 ranking, and will not involve collecting any personal data from which any individual could be identified. If you prefer not to use the personalised badge, there are alternative badges available [elsewhere on the site](http://www.tots100.co.uk/get-your-tots100-badges-here/).
 
 Flea Enterprises Ltd is not responsible for the web sites that are referred to or linked to from this website. When you visit these web sites your personal information might be used in ways that do not conform to this policy.
 
@@ -30,8 +32,10 @@ Please note that by blocking or deleting cookies used on a Flea Enterprises Ltd 
 
 **Feedback, Comments & Suggestions**
 
-If you have any queries about our privacy and cookies policy, please do not hesitate to contact us. Our address is Swift House, 6 Cumberland Close, Darwen, Lancs, BB3 2TR
+If you have any queries about our privacy and cookies policy, please do not hesitate to contact us. Our address is Flea Enterprises Ltd, 3a Clifton Square, Lytham St. Annes, Lancashire, FY8 5JP
 
 **Finally**
 
 If you do not agree with this Privacy Policy you should not submit your personal information on this website. Please refer to the site’s [Terms and Conditions](http://www.tots100.co.uk/terms/)
+
+_Last updated: 1 March, 2013  _
