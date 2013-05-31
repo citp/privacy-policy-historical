@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cwidaho.cc privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114051443id_/http%3A//cwidaho.cc/info/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cwidaho.cc privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531035020id_/http%3A//cwidaho.cc/info/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | College of Western Idaho
 
@@ -46,7 +46,7 @@ CWI may disclose _personal information_ to federal or state law enforcement auth
 
 ###  Retention of Information Collected
 
-The information collected through cwidaho.cc is retained by CWI in accordance with the records retention and disposition requirements of the Idaho State Law. In the state of Idaho, laws exist to ensure that government is open and the public has a right to access appropriate records and information possessed by state government. At the same time, there are exceptions to the public's right to access public records that serve various needs, including the privacy of individuals. Exceptions are provided by both state and federal laws. In general, the Internet services logs of CWI, comprising electronic files or automated logs created to monitor access and use of College services provided through cwidaho.cc, are archived for future reference. Information concerning these records retention and disposition schedules may be obtained the [CWI Policy Manual](https://web.archive.org/node/2671).
+The information collected through cwidaho.cc is retained by CWI in accordance with the records retention and disposition requirements of the Idaho State Law. In the state of Idaho, laws exist to ensure that government is open and the public has a right to access appropriate records and information possessed by state government. At the same time, there are exceptions to the public's right to access public records that serve various needs, including the privacy of individuals. Exceptions are provided by both state and federal laws. In general, the Internet services logs of CWI, comprising electronic files or automated logs created to monitor access and use of College services provided through cwidaho.cc, are archived for future reference. Information concerning these records retention and disposition schedules may be obtained the [CWI Policy Manual](https://web.archive.org/file/cwi-policy-manual "CWI Policy Manual").
 
 ###  _Personal Information_ and Choice
 
