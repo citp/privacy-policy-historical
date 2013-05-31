@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 1800recycling.com privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121130736id_/http%3A//1800recycling.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1800recycling.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531084656id_/http%3A//1800recycling.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - 1-800-Recycling
+# Privacy Policy - 1-800-RECYCLING
 
 _Last Updated: March 23, 2010  
 _
