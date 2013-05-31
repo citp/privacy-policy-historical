@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the resumegenius.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130090222id_/http%3A//resumegenius.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resumegenius.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531154253id_/http%3A//resumegenius.com/privacy-policy) for the most accurate reproduction.*
 
-# Resume Builder | Privacy Policy | Resume Builder Online
+# Resume Builder | Privacy Policy
 
 ### ResumeGenius.com
 
-Version Date: May 2, 2012
+Version Date: Nov 16, 2012
 
 ## GENERAL
 
-RGO Technologies LLC (“Company” or “we” or “us” or “our”) respects the privacy of its users (“user” or “you”) that utilize our resume and cover letter creation and distribution features and services (the “Website Services”) which are accessible through www.ResumeGenius.com, co-branded and private label subdomains, and through other Internet locations, including via other media forms and media channels related or connected thereto (collectively, the “Website”). The following Company privacy policy (“Privacy Policy”) is designed to inform you, as a user of the Website Services, about the types of information that Company may gather about or collect from you in connection with your use of the Website Services. It also is intended to explain the conditions under which Company uses and discloses that information, and your rights in relation to that information. Changes to this Privacy Policy are discussed at the end of this document. Each time you use the Website Services, however, the current version of this Privacy Policy will apply. Accordingly, each time you use the Website Services you should check the date of this Privacy Policy (which appears at the beginning of this document) and review any changes since the last time you used the Website Services. 
+ResumeGenius.com (“Company” or “we” or “us” or “our”) respects the privacy of its users (“user” or “you”) that utilize our resume and cover letter creation and distribution features and services (the “Website Services”) which are accessible through www.ResumeGenius.com, co-branded and private label subdomains, and through other Internet locations, including via other media forms and media channels related or connected thereto (collectively, the “Website”). The following Company privacy policy (“Privacy Policy”) is designed to inform you, as a user of the Website Services, about the types of information that Company may gather about or collect from you in connection with your use of the Website Services. It also is intended to explain the conditions under which Company uses and discloses that information, and your rights in relation to that information. Changes to this Privacy Policy are discussed at the end of this document. Each time you use the Website Services, however, the current version of this Privacy Policy will apply. Accordingly, each time you use the Website Services you should check the date of this Privacy Policy (which appears at the beginning of this document) and review any changes since the last time you used the Website Services. 
 
 Our Website is hosted in the United States of America and is subject to U.S. state and federal law. If you are accessing our Website from other jurisdictions, please be advised that you are transferring your personal information to us in the United States, and by using our Website, you consent to that transfer and use of your personal information in accordance with this Privacy Policy. You also agree to abide by the applicable laws of applicable states and U.S. federal law concerning your use of the Website and your agreements with us. Any persons accessing our Website from any jurisdiction with laws or regulations governing the use of the Internet, including personal data collection, use and disclosure different from those of the jurisdictions mentioned above may only use the Website in a manner lawful in their jurisdiction. If your use of our Website would be unlawful in your jurisdiction, please do not use the Website. 
 
@@ -101,8 +101,8 @@ California Civil Code Section 1798.83, also known as the "Shine The Light" law, 
 If you have any questions regarding our Privacy Policy, please contact our privacy officer at: 
 
 Privacy Officer  
-RGO Technologies LLC  
-11140 Rockville Pike, Suite 100-226  
-Rockville, MD 20852  
+ResumeGenius.com  
+28 2nd Street, 3rd Floor  
+San Francisco, CA 94105  
 Email: support@resumegenius.com  
 Phone: (866) 215-9048 
