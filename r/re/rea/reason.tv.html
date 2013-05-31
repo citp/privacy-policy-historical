@@ -1,0 +1,1178 @@
+<!--The following is the downloaded HTML source of the reason.tv privacy policy that was archived on 2013-05-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130531132936id_/http%3A//reason.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html><head profile="og: http://ogp.me/ns# article: http://ogp.me/ns/article# profile: http://ogp.me/ns/profile#">
+	<meta charset="utf-8">
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+	<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script>
+		var _sf_startpt=(new Date()).getTime();
+		var _sf_async_config = {
+			 uid: 24260,
+			 domain: "reason.com",
+			 useCanonical: true
+		};
+	</script>
+	<meta name="google-site-verification" content="-AmMiilAN-pnjWt369CUWae-VQ-b9wmH4fSGyhbkQxw">
+	<meta name="msvalidate.01" content="212A68A07785B3080038A845C4EE8905">
+		<link rel="shortcut icon" href="http://cloudfront-assets.reason.com/favicon.ico" type="image/x-icon">
+	<title>Privacy Policy - Reason.com</title>
+
+
+<meta property="og:type" content="article">
+
+<meta name="title" property="og:title" content="Privacy Policy">
+
+	<meta property="og:site_name" content="Reason.com">
+	<meta property="og:url" content="http://reason.com/privacy">
+
+<meta name="description" property="og:description" content="Thank you for visiting our web site. This privacy policy tells you how we use personal information collected at this site. By using the site, you are">
+
+
+
+
+<meta property="og:image" content="http://cloudfront-assets.reason.com/media/images/logo-s.png?r=4700">
+
+    <link rel="stylesheet" href="http://cloudfront-assets.reason.com/media/css/reset-2.css?r=3340">
+	<link rel="stylesheet" href="http://cloudfront-assets.reason.com/media/css/960_24_col.css?r=3234">
+	<link rel="stylesheet" href="http://cloudfront-assets.reason.com/media/css/screen-2.css?r=5282">
+    <style type="text/css">
+		@-moz-document url-prefix() {
+		  #content-col .post .postcontent{
+			letter-spacing:0;	
+		  }
+		}
+	</style>
+<!--[if lt IE 9]><script src="http://cloudfront-assets.reason.com/media/js/html5shiv.js?r=3234"></script><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" type="text/css" href="http://cloudfront-assets.reason.com/media/css/ie7hacks.css?r=5159"><![endif]-->
+
+
+	<script>
+(function(){
+	var s = document.createElement('style');s.type='text/css';
+	s.appendChild(document.createTextNode('.js_hidden {display:none !important;} .nojs_hidden {display:block;}'));
+	document.getElementsByTagName('head')[0].appendChild(s);
+})();
+</script><style type="text/css">.js_hidden {display:none !important;} .nojs_hidden {display:block;}</style>
+
+<script>
+var mastheadUrl = "http://reason.com/megatopics/getMastheads";
+var cloudfront = "CLOUDFRONT";
+var liveserver = "1";
+</script>
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+	<script src="http://cloudfront-assets.reason.com/media/js/underscore/underscore-min.js?r=4709"></script>
+	<script src="http://cloudfront-assets.reason.com/media/js/jquery.hoverIntent.js?r=3540"></script>
+	<script src="http://cloudfront-assets.reason.com/media/js/socialite/socialite.min.js?r=4482"></script>
+	<script src="http://cloudfront-assets.reason.com/media/js/navigation.js?r=5181"></script>
+	<script src="http://cloudfront-assets.reason.com/media/js/sharing.js?r=4482"></script>
+	<script src="http://cloudfront-assets.reason.com/media/js/mobileview.js?r=5266"></script>
+	<script src="http://cloudfront-assets.reason.com/media/js/socialite.js?r=5181"></script>
+
+<script id="masthead_template" type="text/template">
+<div class="container_24 megatopic" style="display:none;">
+	<div class="grid_14 post">
+<% if(featured_article != null){ %>
+		<h1><span><a href="<%= slug %>"><%= name %></a></span> Featured Content</h1>
+<%	 if(featured_article.image != null){ %>
+		<a href="<%= featured_article.url %>">
+			<img alt="" src="<%=featured_article.image %>">
+		</a>
+<%	 } %>
+		<h2><a href="<%= featured_article.url %>"><%= featured_article.title %></a></h2>
+		<p class="byline">
+<%	 if(featured_article.author != null){ %>
+			<a href="<%= featured_article.author.url %>" rel="author"><%= featured_article.author.name %></a>
+			<span class="pipe">|</span>
+<%	 } %>
+			<time datetime="<%= featured_article.time %>"><%= featured_article.published_at %></time>
+		</p>
+<%	 if(featured_article.summary != null) { %>
+		<p><%= featured_article.summary %></p>
+<%	 } %>
+		<a href="<%= featured_article.url %>" class="readmore">READ MORE</a>
+<% } %>
+	</div>
+	<div class="grid_10 subtopics">
+		<h2>More on <span><%= name %></span></h2>
+		<ul>
+<% _.each(subtopics, function(topic){ %>
+			<li><a href="<%= topic.url %>"><%= topic.name %></a></li>
+<% }); %>
+		</ul>
+	</div>
+	<div class="clear"></div>
+</div>
+</script>
+
+
+<script type="text/javascript">
+
+$(document).ready(function(){
+	$.ajax({
+		url: "http://reason.com/ajax/commenthandle",
+		dataType: 'json',
+		success: function(data) {
+			$(document).trigger('loginStatus', [data]);
+			$(document).trigger('adminview',[data]);
+		},
+		error: function(xhr, textStatus){
+			var data = { logged_in:null, error:textStatus };
+			$(document).trigger('loginStatus', [data]);
+		}
+	});
+
+	$('.commentsheading > span > a').click(function(){
+		document.location.hash = 'comment';
+	});
+
+	if (!window.location.hash.match(/^#comment/)) {
+		var cctrl = $('.commentcontrol'), cctnr = $('#commentcontainer');
+		cctnr.hide();
+		cctrl.removeClass('open');
+		cctrl.one('click', function(e) {
+			cctrl.addClass('open');
+			cctnr.show();
+			$('#commentform.cancomment').show();
+		});
+	}
+
+});
+
+window.USERSTATE = {logged_in:null};
+$(document).bind('loginStatus', function(e, d) {
+	$.extend(window.USERSTATE, d);
+});
+
+	$(document).bind('adminview', function(e, d) {
+		if(d.isadmin){
+			$("body").addClass("adminlogin");
+			window.ADMININFO = JSONObject= {
+				"baseurl":"http://reason.com/",
+				"showeditbutton":0,
+				"showadminbar":0,
+				"showcommentcontrols":0,
+				"usersettingsurl":"http://reason.com/admin/users//modify",
+				"commentactions" : 0};
+			$.getScript("/media/js/navtools.js");
+		}
+	});
+
+$(document).bind('loginStatus', function(e,d){
+	if (d.logged_in) {
+		var handle = $("#user_login_control")
+		.html('<p>You are currently logged in as: <strong><a href="http://reason.com/users/manage" class="handle"></a></strong>. <a href="http://reason.com/users/logout"><span>Sign Out</span></a></p>')
+		.find('.handle')
+		handle.text(d.handle)
+		handle.attr('href', handle.attr('href')+'/'+d.user_id);
+	} else {
+		$("#user_login_control").html('<a href="http://reason.com/users/login">Click <span>here</span> to login.</a>');
+	}
+});
+
+(function(){
+	var threadedCommentRepliesActive=null;
+	var cb = $('#commentcontainer');
+	
+	function cmtLoginStatusHandler(e,d) {
+
+		var lc = $('.leave-comment'), clr = $('.comment_login_require');
+		if (d.logged_in) {
+			clr.hide();
+			lc.addClass('cancomment');
+			lc.find('.logged_in_as').remove();
+			var handle = lc.children('form')
+			.prepend('<div class="logged_in_as"><p>You are currently logged in as <a href="http://reason.com/users/manage/'+d.user_id+'" class="handle"></a>. Not you? <a href="http://reason.com/users/logout">Sign out</a>.</p></div>')
+			.find('.handle');
+			handle.text(d.handle);
+			handle.attr('a', handle.attr('a')+'/'+d.user_id);
+			lc.show();
+			threadedCommentReplies(true);
+		} else if (d.logged_in===false) {
+			clr.show();
+			lc.removeClass('cancomment');
+			threadedCommentReplies(false);
+		} else {
+			clr.html('<p>Oops, something went wrong and we can\'t tell if you\'re logged in. Please referesh and try again.</p>');
+		}
+	}
+	
+	function threadedCommentReplies(activate){
+		var cb = $('#commentcontainer');
+		if (activate) {
+			cb.find('.comment_reply').show();
+			cb.find('.comment_reply_msg').hide();
+			if (!threadedCommentRepliesActive && (typeof(CommentReplyForm) !== "undefined")) {
+				var template = CommentReplyForm.preparetemplate('commentform');
+				var crf = new CommentReplyForm(template);
+				crf.bindHandlers('li.com-block button.comment_reply');
+				var previewurl = $('#commentform form').attr('action').replace(/\/post$/, '/preview');
+				CommentPreview.bindHandlers(template, template.find(':button.preview'), previewurl);
+				CommentPreview.bindHandlers($('#commentform'), $('#commentform :button.preview'), previewurl);
+			}
+		} else {
+			cb.find('.comment_reply').hide();
+			cb.find('.comment_reply_msg').show();
+			cb.find('.leave-comment').hide();
+		}
+	}
+	$(document).bind('loginStatus', cmtLoginStatusHandler);
+	
+
+})();
+
+</script>
+		
+				
+	
+				<script>
+		//<![CDATA[
+		var _gaq = _gaq || [];
+		var	gaqinfo = [["_setAccount","UA-283675-2"],["_trackPageview"]];	
+				if(typeof(author) != "undefined" && author !== null){
+			gaqinfo.splice(1,0,author); 
+		}			
+		_gaq.push.apply(_gaq, gaqinfo);
+		(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();					//]]>
+	</script>
+<script type="text/javascript">
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') + 
+'//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+</script><script type="text/javascript">
+googletag.cmd.push(function(){
+var pubid = "1006247";
+var slots = [["Mega_Leaderboard",[728,90]],["Mega_Mini-Leaderboard",[232,90]],["Polls_Rectangle_1",[300,250]],["Polls_Rectangle_2",[300,250]],["Polls_Skyscraper_1",[160,600]],["Polls_Mini-Skyscraper_1",[120,600]]];
+var pubservice = googletag.pubads();
+function addslot(slotname, slotdim) {
+	googletag.defineSlot('/'+pubid+'/'+slotname, slotdim, 'google_ads_div_'+slotname).addService(pubservice);
+}
+for (var i=0;i<slots.length;i++) {
+	addslot.apply(this, slots[i]);
+}
+// pubservice.enableSyncRendering();
+pubservice.collapseEmptyDivs();
+pubservice.enableSingleRequest();
+googletag.enableServices();
+});
+</script>
+</head><body class="privacy ">	
+		
+	<div class="navtools"></div>
+		<div id="bg1">
+		<div id="bg2">
+			<div class="container_24">
+				<div class="grid_24" id="leaderboard">
+		<aside id="ad1">
+	  <div id="google_ads_div_Mega_Leaderboard">
+<script type="text/javascript">
+googletag.cmd.push(function(){googletag.display("google_ads_div_Mega_Leaderboard");});
+</script>
+</div>    </aside>
+    <aside id="ad2">
+	  <div id="google_ads_div_Mega_Mini-Leaderboard">
+<script type="text/javascript">
+googletag.cmd.push(function(){googletag.display("google_ads_div_Mega_Mini-Leaderboard");});
+</script>
+</div>    </aside>
+</div>
+				<div class="grid_24" id="masthead">
+	<hgroup>
+		 <h3> <a href="http://reason.com/">Reason.com</a> </h3> 		 <h4> Free Minds &amp; Free Markets </h4> 	</hgroup>
+			<div id="user_login_control"></div>
+	<div id="mobile_view_control"></div>	
+	<ul id="social2">
+		<li class="facebook"><a href="http://www.facebook.com/Reason.Magazine">facebook</a></li>
+		<li class="twitter"><a href="http://twitter.com/reason">twitter</a></li>
+		<li class="youtube"><a href="http://www.youtube.com/user/ReasonTV">youtube</a></li>
+		<li class="podcast">
+			<a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=322850582">apple</a>
+		</li>
+		<li class="rss"><a href="http://reason.com/rss">rss</a></li>
+	</ul>
+		<section id="social1">
+			<ul>
+				<li class="twitter_follow share_item">
+					<a class="socialite twitter-follow" href="https://twitter.com/reason" data-show-count="false" data-show-screen-name="false" data-lang="en">Follow</a>
+				</li>
+
+				<li class="google share_item">
+					<a class="socialite googleplus-one" data-size="medium" data-annotation="none" data-href="http://reason.com/">Google +1</a>
+				</li>
+				
+				<li class="facebook share_item">
+					<a class="socialite facebook-like" href="https://www.facebook.com/Reason.Magazine" data-href="https://www.facebook.com/Reason.Magazine" data-layout="button_count" data-send="false" data-width="90" data-show-faces="false">Like Us on Facebook</a>
+				</li>
+			</ul>
+	</section>
+	
+	<div class="clear"></div>
+	
+	<nav id="nav1">
+				<div class="inner">
+						<h2>NAVIGATION</h2>
+						<ul>
+								<li>
+										<a href="http://reason.com/">Home</a>
+								</li>
+								
+								<li>
+										<a href="http://reason.com/24-7">Reason<strong>24/7</strong></a>
+								</li>
+								
+								<li>
+										<a href="http://reason.com/reasontv">Reason<strong>TV</strong></a>
+								</li>
+								
+								<li>
+										<a href="http://reason.com/blog">Hit &amp; Run</a>
+								</li>
+								
+								<li>
+										<a href="http://reason.com/covers">Magazine</a>
+								</li>
+								
+								<li>
+										<a href="http://reason.com/poll">Poll</a>
+								</li>
+					
+								<li class="color2">
+										<a href="https://reason.com/subscribe">Subscribe</a>
+								</li>
+								
+								<li class="color2">
+										<a href="https://www.reason.com/donatenow/donate.php">Donate</a>
+								</li>
+					
+								<li class="color2 no-border">
+										<a href="http://reason.com/shop">Shop</a>
+								</li>
+					
+								<li class="no-border">
+									
+										<form action="http://reason.com/search" method="GET" accept-charset="utf-8">
+											   <input type="text" value="SEARCH" onfocus="if
+														(this.value==this.defaultValue) this.value='';" name="q">
+										</form>
+																	</li>
+						</ul>
+				</div>
+	</nav>
+	
+	<div class="clear"></div>
+	</div><!-- end .grid_24 -->
+</div><!-- end .container_24 -->
+
+<div id="bg3" class="hidden">
+	<div id="bg4">
+		<div class="container_24 navcontainer">
+			<nav>
+					<ul id="nav2">
+							<li class="">
+								<a class="dropdown_trigger" data-slug="politics" href="http://reason.com/topics/politics">
+									<span>Politics</span>
+								</a>
+							</li>
+							
+							<li class="">
+								<a class="dropdown_trigger" data-slug="policy" href="http://reason.com/topics/policy">
+									<span>Policy</span>
+								</a>
+							</li>
+							
+							<li class="">
+								<a class="dropdown_trigger" data-slug="economics" href="http://reason.com/topics/economics">
+									<span>Economics</span>
+								</a>
+							</li>
+
+							<li class="">
+								<a class="dropdown_trigger" data-slug="civil-liberties" href="http://reason.com/topics/civil-liberties">
+									<span>Civil Liberties</span>
+								</a>
+							</li>							 
+
+							<li class="">
+								<a class="dropdown_trigger" data-slug="culture" href="http://reason.com/topics/culture">
+									<span>Culture</span>
+								</a>
+							</li>
+
+							
+							<li class="">
+								<a class="dropdown_trigger" data-slug="science" href="http://reason.com/topics/science">
+									<span>Science/Tech</span>
+								</a>
+							</li>
+							
+							<li class="">
+								<a class="dropdown_trigger" data-slug="drug-war" href="http://reason.com/topics/drug-war">
+									<span>War on Drugs</span>
+								</a>
+							</li>
+							
+							<li class="more">
+								<a class="more_dropdown dropdown_trigger"><span>More</span></a>
+								<ul id="more_links">
+									<li><a href="/topics/nanny-state">Nanny State</a></li>
+									<li><a href="/topics/world">World</a></li>
+                                    <li><a href="/tags/staff-reviews">Reviews</a></li>
+									<li><a href="http://reason.com/tags">All Tags</a></li> 
+									<li><a href="http://reason.com/search">Advanced Search</a></li> 
+								</ul>
+							</li>
+					</ul>
+			</nav>
+		</div>
+
+	</div><!-- end #bg4 -->
+</div><!-- end #bg3 -->
+<div class="container_24 main-content">
+				<div id="content-col" class="grid_16">
+						
+						
+		<section class="post inner">
+				<!-- 143780 -->
+		<header class="mainheading">
+			<div class="options">
+								<a href="http://reason.com/privacy/print" class="printer" rel="alternate">Print</a>			</div>
+							<h1><a href="http://reason.com/privacy">Privacy Policy</a></h1>
+					</header>
+				
+		<div class="postcontent">
+			<p>Thank you for visiting our web site. This privacy policy tells
+you how we use personal information collected at this site. By
+using the site, you are accepting the practices described in this
+privacy policy. These practices may be changed, but any changes
+will be posted and changes will only apply to activities and
+information on a going forward, not retroactive basis. You are
+encouraged to review the privacy policy often to make sure that you
+understand how any personal information you provide will be
+used.</p>
+<p><strong>Note:</strong>&nbsp;the privacy practices set forth in
+this privacy policy are for this reason.com, reason.org, and
+reason.tv&nbsp;only.</p>
+<p><strong>Collection of
+Information</strong><strong><br></strong> We collect personally
+identifiable information, like names, postal addresses, email
+addresses, etc., when voluntarily submitted by our visitors. The
+information you provide is used to fulfill your specific request.
+Information submitted when donating to Reason Foundation or
+subscribing to Reason magazine may be traded with other like-minded
+organizations that we feel may be of interest to you.</p>
+<p>We use third-party advertising companies to serve advertisements
+when you visit our website. These companies may use aggregated (not
+personal identifying) information about your visits to this website
+in order to provide advertisements about goods and services that
+may be of interest to you.</p>
+<p><strong>Credit Card Information</strong><strong><br></strong>
+Credit Card numbers are not stored by us.&nbsp; They are submitted
+directly to a secure third party vendor for processing.</p>
+<p><strong>Cookie/Tracking
+Technology</strong><strong><br></strong> The Site may use cookie
+and tracking technology depending on the features offered. Cookie
+and tracking technology are useful for gathering information such
+as browser type and operating system, tracking the number of
+visitors to the Site, and understanding how visitors use the Site.
+Cookies can also help customize the Site for visitors. Personal
+information cannot be collected via cookies and other tracking
+technology, however, if you previously provided personally
+identifiable information, cookies may be tied to such information.
+Aggregate cookie and tracking information may be shared with third
+parties.</p>
+<p><strong>Commitment to Data Security</strong><br>
+Your personally identifiable information is kept secure. Only
+authorized employees, agents and contractors (who have agreed to
+keep information secure and confidential) have access to this
+information. All emails and newsletters from this site allow you to
+opt out of further mailings.</p>
+<p><strong>Privacy Contact Information</strong><br>
+If you have any questions, concerns, or comments about our privacy
+policy you may contact us using the information below:</p>
+<p>By e-mail: feedback@reason.org<br>
+By Phone: (310) 391-2245</p>
+<p>We reserve the right to make changes to this policy. Any changes
+to this policy will be posted.</p>		</div>
+				</section>														</div>
+				
+
+								<div id="right-col" class="grid_8">
+										<aside id="emailsubscribe">
+	<h2>Reason In Your Inbox!</h2>
+	<form action="http://pages.email.reason.org/page.aspx?QS=38dfbe491fab00ea2a0cf66b41a08dd67015b474f87ec3ca8a6365162e25de43" method="post" class="email-updates">
+				<input type="text" name="Email" id="Email" value="">
+				<input type="submit" value="SIGN UP">
+				<input type="hidden" name="__successPage" id="__successPage" value="http://reason.com/thank-you-for-subscribing-to-r">
+				<input type="hidden" name="__errorPage" id="__errorPage" value="">
+				<input type="hidden" name="__contextName" id="__contextName" value="FormPost">
+				<input type="hidden" name="__executionContext" id="__executionContext" value="Post">
+				<input type="hidden" name="Newsletter_Reason_Online__c" id="Newsletter_Reason_Online__c" value="Subscribed">
+			</form>
+</aside>
+					<aside id="topstoriessidebar">
+	<h2>TOP STORIES</h2>
+	<ul class="selector">
+		<li class="active"><a data-category="featured">Featured</a></li>
+		<li><a data-category="viewed">Most Visited</a></li>
+		<li><a data-category="commented">Most Commented</a></li>
+	</ul>
+		
+	<div class="inner">
+		<ul class="stories" data-category="featured">
+			<li>
+				<a href="http://reason.com/archives/2013/05/31/after-earth-and-now-you-see-me">
+					<img src="http://cloudfront-assets.reason.com/assets/db/13700059901902584_tm.jpg" width="90" height="70" alt="Automatically created thumbnail for Asset # 190258">
+				</a>
+				<h3><a href="http://reason.com/archives/2013/05/31/after-earth-and-now-you-see-me"><em>After Earth</em> and <em>Now You See Me</em></a></h3>
+				<p class="meta">
+					<time datetime="2013-05-31T13:15:00+00:00">5.31.13 9:15 am</time></p>
+					<div class="clear"></div>
+			</li>
+			<li>
+				<a href="http://reason.com/reasontv/2013/05/30/what-we-saw-at-the-anti-koch-save-our-ne">
+					<img src="http://cloudfront-assets.reason.com/assets/db/13699369401898794_tm.jpg" width="90" height="70" alt="Automatically created thumbnail for Asset # 189879">
+				</a>
+				<h3><a href="http://reason.com/reasontv/2013/05/30/what-we-saw-at-the-anti-koch-save-our-ne">Koch LA Times Buyout Enrages Protesters: What We Saw at the "Save Our News" Rally</a></h3>
+				<p class="meta">
+					<time datetime="2013-05-30T19:30:00+00:00">5.30.13 3:30 pm</time></p>
+					<div class="clear"></div>
+			</li>
+			<li>
+				<a href="http://reason.com/archives/2013/05/30/the-situation-in-syria-provides-an-unwel">
+					<img src="http://cloudfront-assets.reason.com/assets/db/13698508291892394_tm.jpg" width="90" height="70" alt="Automatically created thumbnail for Asset # 189239">
+				</a>
+				<h3><a href="http://reason.com/archives/2013/05/30/the-situation-in-syria-provides-an-unwel">The Situation in Syria Provides an Unwelcome Setting For Intervention</a></h3>
+				<p class="meta">
+					<time datetime="2013-05-30T20:30:00+00:00">5.30.13 4:30 pm</time></p>
+					<div class="clear"></div>
+			</li>
+			<li>
+				<a href="http://reason.com/reasontv/2013/05/30/the-economics-in-game-of-thrones-arent-a">
+					<img src="http://cloudfront-assets.reason.com/assets/db/13694227891878124_tm.jpg" width="90" height="70" alt="Automatically created thumbnail for Asset # 187812">
+				</a>
+				<h3><a href="http://reason.com/reasontv/2013/05/30/the-economics-in-game-of-thrones-arent-a">Game of Thrones' Economics: Auburn University's Matthew McCaffrey says it's not all Fantasy</a></h3>
+				<p class="meta">
+					<time datetime="2013-05-30T14:30:00+00:00">5.30.13 10:30 am</time></p>
+					<div class="clear"></div>
+			</li>
+			<li>
+				<a href="http://reason.com/archives/2013/05/30/premature-prophets">
+					<img src="http://cloudfront-assets.reason.com/assets/db/13699318261898094_tm.jpg" width="90" height="70" alt="Automatically created thumbnail for Asset # 189809">
+				</a>
+				<h3><a href="http://reason.com/archives/2013/05/30/premature-prophets">Premature Prophets</a></h3>
+				<p class="meta">
+					<time datetime="2013-05-30T17:30:00+00:00">5.30.13 1:30 pm</time></p>
+					<div class="clear"></div>
+			</li>
+		</ul>
+							<ul class="stories" data-category="viewed" style="display:none">
+							<li>
+								<a href="http://reason.com/blog/2013/05/27/high-school-teacher-faces-discipline-for"><img src="http://cloudfront-assets.reason.com/assets/db/13696732291881504_tm.jpg" width="90" height="70" alt="Automatically created thumbnail for Asset # 188150">
+</a>
+								<h3><a href="http://reason.com/blog/2013/05/27/high-school-teacher-faces-discipline-for">High School Teacher Faces Discipline for Informing Students About Their Rights</a></h3>
+								<p class="meta"><a href="http://reason.com/people/jacob-sullum/all">Jacob Sullum</a><span class="pipe"> | </span><time datetime="2013-05-27T16:55:00+00:00">5.27.13 12:55 pm</time></p>
+								<div class="clear"></div>
+							</li>
+							<li>
+								<a href="http://reason.com/blog/2013/05/29/school-board-reprimands-teacher-for-tell"><img src="http://cloudfront-assets.reason.com/assets/db/13698327171889594_tm.jpg" width="90" height="70" alt="Automatically created thumbnail for Asset # 188959">
+</a>
+								<h3><a href="http://reason.com/blog/2013/05/29/school-board-reprimands-teacher-for-tell">School Board Reprimands Teacher for Telling Students About Their Right to Remain Silent</a></h3>
+								<p class="meta"><a href="http://reason.com/people/jacob-sullum/all">Jacob Sullum</a><span class="pipe"> | </span><time datetime="2013-05-29T13:05:00+00:00">5.29.13 9:05 am</time></p>
+								<div class="clear"></div>
+							</li>
+							<li>
+								<a href="http://reason.com/blog/2013/05/29/miami-cops-beat-up-teen-for-staring-at-t"><img src="http://cloudfront-assets.reason.com/assets/db/13698641991894194_tm.jpg" width="90" height="70" alt="Automatically created thumbnail for Asset # 189419">
+</a>
+								<h3><a href="http://reason.com/blog/2013/05/29/miami-cops-beat-up-teen-for-staring-at-t">Miami Cops Choke Hold Teen for Staring at Them. A Puppy is Involved.</a></h3>
+								<p class="meta"><a href="http://reason.com/people/brian-doherty/all">Brian Doherty</a><span class="pipe"> | </span><time datetime="2013-05-29T21:46:00+00:00">5.29.13 5:46 pm</time></p>
+								<div class="clear"></div>
+							</li>
+							<li>
+								<a href="http://reason.com/blog/2013/05/30/california-regulators-hide-obamacare-rat"><img src="http://cloudfront-assets.reason.com/assets/db/13699369441898844_tm.jpg" width="90" height="70" alt="Automatically created thumbnail for Asset # 189884">
+</a>
+								<h3><a href="http://reason.com/blog/2013/05/30/california-regulators-hide-obamacare-rat">California Regulators Hide Obamacare Rate Shock With Misleading Comparison</a></h3>
+								<p class="meta"><a href="http://reason.com/people/peter-suderman/all">Peter Suderman</a><span class="pipe"> | </span><time datetime="2013-05-30T18:10:00+00:00">5.30.13 2:10 pm</time></p>
+								<div class="clear"></div>
+							</li>
+							<li>
+								<a href="http://reason.com/blog/2013/05/29/tiny-lego-gun-wielded-by-kindergardener"><img src="http://cloudfront-assets.reason.com/assets/db/13698557601893094_tm.jpg" width="90" height="70" alt="Automatically created thumbnail for Asset # 189309">
+</a>
+								<h3><a href="http://reason.com/blog/2013/05/29/tiny-lego-gun-wielded-by-kindergardener">Tiny Lego Gun Wielded by Kindergartner Panics Grown-Ups</a></h3>
+								<p class="meta"><a href="http://reason.com/people/katherine-mangu-ward/all">Katherine Mangu-Ward</a><span class="pipe"> | </span><time datetime="2013-05-29T19:31:00+00:00">5.29.13 3:31 pm</time></p>
+								<div class="clear"></div>
+							</li>
+					</ul>
+					<ul class="stories" data-category="commented" style="display:none">
+							<li>
+								<a href="http://reason.com/blog/2013/05/30/am-links-obama-to-nominate-bush-doj-2-to"><img src="http://cloudfront-assets.reason.com/assets/db/13699180631895794_tm.jpg" width="90" height="70" alt="Automatically created thumbnail for Asset # 189579">
+</a>
+								<h3><a href="http://reason.com/blog/2013/05/30/am-links-obama-to-nominate-bush-doj-2-to">A.M. Links: Obama to Nominate Bush DOJ #2 to FBI, Wrestler Kane May Run for Senate in Tennessee, Disneyland Employee Arrested for Allegedly Planting Dry Ice Bomb</a></h3>
+								<p class="meta"><a href="http://reason.com/people/ed-krayewski/all">Ed Krayewski</a><span class="pipe"> | </span><time datetime="2013-05-30T13:00:00+00:00">5.30.13 9:00 am</time></p>
+								<div class="clear"></div>
+							</li>
+							<li>
+								<a href="http://reason.com/blog/2013/05/29/am-links-pentagon-confirms-drone-crashed"><img src="http://cloudfront-assets.reason.com/assets/db/13698305571889294_tm.jpg" width="90" height="70" alt="Automatically created thumbnail for Asset # 188929">
+</a>
+								<h3><a href="http://reason.com/blog/2013/05/29/am-links-pentagon-confirms-drone-crashed">A.M. Links: Pentagon Confirms Drone Crashed in Somalia, German Finance Minister Warns of Welfare Reforms, Bachmann Won’t Seek Re-Election</a></h3>
+								<p class="meta"><a href="http://reason.com/people/matthew-feeney/all">Matthew Feeney</a><span class="pipe"> | </span><time datetime="2013-05-29T13:00:00+00:00">5.29.13 9:00 am</time></p>
+								<div class="clear"></div>
+							</li>
+							<li>
+								<a href="http://reason.com/blog/2013/05/29/eric-holder-to-meet-with-the-media-irs-l"><img src="http://cloudfront-assets.reason.com/assets/db/13698573451893344_tm.jpg" width="90" height="70" alt="Automatically created thumbnail for Asset # 189334">
+</a>
+								<h3><a href="http://reason.com/blog/2013/05/29/eric-holder-to-meet-with-the-media-irs-l">Eric Holder to Meet with the Media, IRS Leaders Did Sign Off on Investigations, Dems Pick Up a Governor: P.M. Links</a></h3>
+								<p class="meta"><a href="http://reason.com/people/scott-shackford/all">Scott Shackford</a><span class="pipe"> | </span><time datetime="2013-05-29T20:30:00+00:00">5.29.13 4:30 pm</time></p>
+								<div class="clear"></div>
+							</li>
+							<li>
+								<a href="http://reason.com/blog/2013/05/30/fbi-accused-of-executing-man-being-quest"><img src="http://cloudfront-assets.reason.com/assets/db/13699430341899684_tm.jpg" width="90" height="70" alt="Automatically created thumbnail for Asset # 189968">
+</a>
+								<h3><a href="http://reason.com/blog/2013/05/30/fbi-accused-of-executing-man-being-quest">FBI Accused of Executing Man Being Questioned, Buffett Buys Another Newspaper, Disney Has Another Safety Incident: P.M. Links</a></h3>
+								<p class="meta"><a href="http://reason.com/people/scott-shackford/all">Scott Shackford</a><span class="pipe"> | </span><time datetime="2013-05-30T20:30:00+00:00">5.30.13 4:30 pm</time></p>
+								<div class="clear"></div>
+							</li>
+							<li>
+								<a href="http://reason.com/archives/2013/05/30/this-is-what-happens-when-you-fear-free"><img src="http://cloudfront-assets.reason.com/assets/db/13699227371896444_tm.jpg" width="90" height="70" alt="Automatically created thumbnail for Asset # 189644">
+</a>
+								<h3><a href="http://reason.com/archives/2013/05/30/this-is-what-happens-when-you-fear-free">This Is What Happens When You Fear Free Speech</a></h3>
+								<p class="meta"><a href="http://reason.com/people/david-harsanyi/all">David Harsanyi</a><span class="pipe"> | </span><time datetime="2013-05-30T16:00:00+00:00">5.30.13 12:00 pm</time></p>
+								<div class="clear"></div>
+							</li>
+					</ul>
+			
+<script>
+$(function(){
+	$("#topstoriessidebar .selector a").click(function(e){
+		var $this=$(this), catref = $this.attr("data-category"),
+			$sidebar = $this.parent().parent().parent();
+		e.preventDefault();
+		$sidebar.find('> .selector > li').removeClass('active');
+		$this.parent().addClass('active');
+		$sidebar.find('> .inner > .stories').hide().filter('[data-category='+catref+']').show();
+	});
+});
+</script>
+	</div>
+</aside>
+
+					
+																							
+						<aside class="ad">
+							<div id="google_ads_div_Polls_Rectangle_1">
+<script type="text/javascript">
+googletag.cmd.push(function(){googletag.display("google_ads_div_Polls_Rectangle_1");});
+</script>
+</div>						</aside>
+										
+					<aside id="rupepoll">
+	<h2><a href="http://reason.com/poll">REASON-RUPE <span>POLL</span></a></h2>
+	<ul>
+					
+		<li>
+				
+		<h3>
+			<a href="http://reason.com/poll/2013/05/29/poll-two-thirds-of-americans-want-senate">Poll: 62 Percent of Americans Want Senate to Drop Gun Control</a>
+		</h3>
+		
+		<p class="meta">
+							<a href="http://reason.com/people/emily-ekins">
+					Emily Ekins				</a>
+				<span class="pipe">|</span>
+					
+			<time datetime="2013-05-29T13:30:00+00:00">
+				5.29.13 9:30 am			</time>
+		</p>
+		<div class="clear"></div>
+	</li>
+	<li>
+				
+		<h3>
+			<a href="http://reason.com/poll/2013/05/28/nick-gillespie-interviews-emily-ekins-ab">Nick Gillespie Interviews Emily Ekins about May Reason-Rupe Poll Results</a>
+		</h3>
+		
+		<p class="meta">
+					
+			<time datetime="2013-05-28T18:30:00+00:00">
+				5.28.13 2:30 pm			</time>
+		</p>
+		<div class="clear"></div>
+	</li>
+	<li>
+				
+		<h3>
+			<a href="http://reason.com/poll/2013/05/28/new-poll-32-percent-still-like-federa2">New Poll: 32 Percent Still Like Federal Health Care Law</a>
+		</h3>
+		
+		<p class="meta">
+							<a href="http://reason.com/people/emily-ekins">
+					Emily Ekins				</a>
+				<span class="pipe">|</span>
+					
+			<time datetime="2013-05-28T17:46:00+00:00">
+				5.28.13 1:46 pm			</time>
+		</p>
+		<div class="clear"></div>
+	</li>
+	
+	</ul>
+	<a href="http://reason.com/poll" class="readmore">VIEW MORE »</a>
+</aside>
+					<aside id="dailybrickbat">
+	<h2><a href="http://reason.com/brickbat">DAILY <span>BRICKBAT</span></a></h2>
+	<ul>
+					
+		<li>
+				
+		<h3>
+			<a href="http://reason.com/brickbat/2013/05/31/policing-their-own">Policing Their Own</a>
+		</h3>
+		
+		<p class="meta">
+							<a href="http://reason.com/people/charles-oliver">
+					Charles Oliver				</a>
+				<span class="pipe">|</span>
+					
+			<time datetime="2013-05-31T10:00:00+00:00">
+				5.31.13 6:00 am			</time>
+		</p>
+		<div class="clear"></div>
+	</li>
+	<li>
+				
+		<h3>
+			<a href="http://reason.com/brickbat/2013/05/30/justice-is-sleepy">Justice Is Sleepy</a>
+		</h3>
+		
+		<p class="meta">
+							<a href="http://reason.com/people/charles-oliver">
+					Charles Oliver				</a>
+				<span class="pipe">|</span>
+					
+			<time datetime="2013-05-30T11:00:00+00:00">
+				5.30.13 7:00 am			</time>
+		</p>
+		<div class="clear"></div>
+	</li>
+	<li>
+				
+		<h3>
+			<a href="http://reason.com/brickbat/2013/05/28/reach-out-and-touch-someone">Reach Out and Touch Someone</a>
+		</h3>
+		
+		<p class="meta">
+							<a href="http://reason.com/people/charles-oliver">
+					Charles Oliver				</a>
+				<span class="pipe">|</span>
+					
+			<time datetime="2013-05-28T13:30:00+00:00">
+				5.28.13 9:30 am			</time>
+		</p>
+		<div class="clear"></div>
+	</li>
+	
+	</ul>
+	<a href="http://reason.com/brickbat" class="readmore">VIEW MORE »</a>
+</aside>
+					
+											<aside class="ad">
+							<div id="google_ads_div_Polls_Rectangle_2">
+<script type="text/javascript">
+googletag.cmd.push(function(){googletag.display("google_ads_div_Polls_Rectangle_2");});
+</script>
+</div>						</aside>
+										
+												<aside id="reasontv">
+		<h2><a href="http://reason.com/reasontv"><span>REASON</span>TV: FEATURED VIDEOS</a></h2>
+		<ul class="stories">
+			
+																				
+					<li>
+													<a href="http://reason.com/reasontv/2013/05/30/the-economics-in-game-of-thrones-arent-a"><img src="http://cloudfront-assets.reason.com/assets/db/13694227891878124_tm.jpg" alt="Post Image"></a>
+											
+						<h3>
+							<a href="http://reason.com/reasontv/2013/05/30/the-economics-in-game-of-thrones-arent-a">Game of Thrones' Economics: Auburn University's Matthew McCaffrey says it's not all Fantasy</a>
+						</h3>
+					
+																					<p class="meta">
+									<a href="http://reason.com/people/tracy-oppenheimer">Tracy Oppenheimer</a>
+								</p>
+													
+						<div class="clear"></div>
+					</li>
+													
+					<li>
+													<a href="http://reason.com/reasontv/2013/05/26/libertarian-perspectives-on-abortion-w-r"><img src="http://cloudfront-assets.reason.com/assets/db/13694345741880004_tm.jpg" alt="Post Image"></a>
+											
+						<h3>
+							<a href="http://reason.com/reasontv/2013/05/26/libertarian-perspectives-on-abortion-w-r">Abortion &amp; Libertarianism: Nick Gillespie, Ronald Bailey, Mollie Hemingway, &amp; Katherine Mangu-Ward</a>
+						</h3>
+					
+																					<p class="meta">
+									<a href="http://reason.com/people/nick-gillespie">Nick Gillespie</a>
+								</p>
+															<p class="meta">
+									<a href="http://reason.com/people/joshua-swain">Joshua Swain</a>
+								</p>
+													
+						<div class="clear"></div>
+					</li>
+													
+					<li>
+													<a href="http://reason.com/reasontv/2013/05/28/police-peddle-stolen-iphones-arrest-buye"><img src="http://cloudfront-assets.reason.com/assets/db/13694266091879374_tm.jpg" alt="Post Image"></a>
+											
+						<h3>
+							<a href="http://reason.com/reasontv/2013/05/28/police-peddle-stolen-iphones-arrest-buye">Police Peddle "Stolen" iPhones, Arrest Buyers: Don't Cops Have Better Things to Do?!</a>
+						</h3>
+					
+																					<p class="meta">
+									<a href="http://reason.com/people/ted-balaker">Ted Balaker</a>
+								</p>
+													
+						<div class="clear"></div>
+					</li>
+				 
+					</ul>
+		<a href="http://reason.com/reasontv" class="readmore">VIEW ALL »</a>
+	</aside><!-- end #reasontv -->
+                    <div id="nmWidgetContainer" data-client="214"></div>
+<script src="http://cdn.nmcdn.us/js/connect.js"></script>
+<script type="text/javascript">
+NM.init({ClientID: 214});
+</script>					
+
+																		<aside class="ad left">
+								<div id="google_ads_div_Polls_Skyscraper_1">
+<script type="text/javascript">
+googletag.cmd.push(function(){googletag.display("google_ads_div_Polls_Skyscraper_1");});
+</script>
+</div>							</aside>
+					
+							<aside class="ad right">
+								<div id="google_ads_div_Polls_Mini-Skyscraper_1">
+<script type="text/javascript">
+googletag.cmd.push(function(){googletag.display("google_ads_div_Polls_Mini-Skyscraper_1");});
+</script>
+</div>							</aside>
+															</div>
+							</div>
+		</div>
+	</div>
+		<footer>
+		<div id="topics1">
+  <div class="inner">
+	<div class="container_24">
+		<div class="dividers">
+		 
+<!--Breaking up results for proper formatting-->
+					<section class="grid_6">
+<!--For rupe poll and staff reviews -->
+									<h2><a href="http://reason.com/tags/irs">IRS</a></h2>
+									<ul>
+									<li>
+		<h3><a href="http://reason.com/blog/2013/05/30/ed-krayewski-talking-irs-scandalreform-o">Ed Krayewski Talking IRS Scandal/Reform on HuffPost Live at 8:10PM ET</a></h3>
+					<p class="meta">Ed Krayewski</p>
+		</li>
+						<li>
+		<h3><a href="http://reason.com/24-7/2013/05/30/protection-of-taxpayer-info-cited-in-avo">Protection of Taxpayer Info Cited In Avoiding Answers on IRS Scandal</a></h3>
+			</li>
+						<li>
+		<h3><a href="http://reason.com/blog/2013/05/30/matt-welch-talks-scandal-coverage-3d-pri">Matt Welch Talks Scandal-Coverage, 3D Printing, and More on <em>Red Eye</em></a></h3>
+					<p class="meta">Matt Welch</p>
+		</li>
+						</ul>
+			</section>
+		 
+<!--Breaking up results for proper formatting-->
+					<section class="grid_6">
+<!--For rupe poll and staff reviews -->
+									<h2><a href="http://reason.com/tags/libya">Libya</a></h2>
+									<ul>
+									<li>
+		<h3><a href="http://reason.com/24-7/2013/05/30/rnc-submits-foia-request-for-benghazi-e">RNC Submits FOIA Request for Benghazi E-Mails Between State Dept. and Obama Re-Election Campaign</a></h3>
+			</li>
+						<li>
+		<h3><a href="http://reason.com/blog/2013/05/28/rep-issa-cant-hear-enough-about-benghazi">Rep. Issa Can’t Hear Enough About Benghazi Decision-Making, Demands More</a></h3>
+					<p class="meta">Scott Shackford</p>
+		</li>
+						<li>
+		<h3><a href="http://reason.com/24-7/2013/05/28/issa-subpoenas-state-department-document">Issa Subpoenas State Department Documents on Benghazi</a></h3>
+			</li>
+						</ul>
+			</section>
+		 
+<!--Breaking up results for proper formatting-->
+					<section class="grid_6">
+<!--For rupe poll and staff reviews -->
+									<h2><a href="http://reason.com/tags/immigration">Immigration</a></h2>
+									<ul>
+									<li>
+		<h3><a href="http://reason.com/24-7/2013/05/30/efforts-to-stop-racial-violence-cause-r">Efforts to Stop Racial Violence Cause Rifts in Greek Leadership</a></h3>
+			</li>
+						<li>
+		<h3><a href="http://reason.com/24-7/2013/05/29/danish-nationalist-party-warns-that-one">Danish Nationalist Party Warns That One in 700 Immigrants Could Be a Terrorist in Ad</a></h3>
+			</li>
+						<li>
+		<h3><a href="http://reason.com/24-7/2013/05/22/protection-for-gay-couples-left-out-of-i">Protection for Gay Couples Left Out of Immigration Bill</a></h3>
+			</li>
+						</ul>
+			</section>
+		 
+<!--Breaking up results for proper formatting-->
+					<section class="grid_6">
+<!--For rupe poll and staff reviews -->
+									<h2><a href="http://reason.com/tags/barack-obama">Barack Obama</a></h2>
+									<ul>
+									<li>
+		<h3><a href="http://reason.com/24-7/2013/05/30/rnc-submits-foia-request-for-benghazi-e">RNC Submits FOIA Request for Benghazi E-Mails Between State Dept. and Obama Re-Election Campaign</a></h3>
+			</li>
+						<li>
+		<h3><a href="http://reason.com/24-7/2013/05/30/secret-service-ricin-tainted-letter-sent">Secret Service: Ricin-Tainted Letters Sent to Bloomberg Similar to One Sent to Obama</a></h3>
+			</li>
+						<li>
+		<h3><a href="http://reason.com/24-7/2013/05/30/obamas-approval-ratings-drop-amid-scanda">Obama's Approval Ratings Drop Amid Scandals</a></h3>
+			</li>
+						</ul>
+			</section>
+		 
+<!--Breaking up results for proper formatting-->
+						<div class="clear"></div>
+			</div>
+			<div class="dividers">
+							<section class="grid_6">
+<!--For rupe poll and staff reviews -->
+									<h2><a href="http://reason.com/tags/drug-policy">Drug Policy</a></h2>
+									<ul>
+									<li>
+		<h3><a href="http://reason.com/blog/2013/05/30/ach-du-lieber-the-nazis-secret-pep-pill">Ach Du Lieber! The Nazi's Secret Pep Pill Was Methamphetamine</a></h3>
+					<p class="meta">Nick Gillespie</p>
+		</li>
+						<li>
+		<h3><a href="http://reason.com/blog/2013/05/30/the-drug-war-graph-is-embarrassing-so-is">The Drug War Graph Is Embarrassing. So Is Believing Obama's Promises of Reform.</a></h3>
+					<p class="meta">Jacob Sullum</p>
+		</li>
+						<li>
+		<h3><a href="http://reason.com/blog/2013/05/30/war-on-drugs-in-fueling-hepatitis-c-pand">War on Drugs in Fueling a Hepatitis C Pandemic, Says Global Commission on Drugs</a></h3>
+					<p class="meta">Matthew Feeney</p>
+		</li>
+						</ul>
+			</section>
+		 
+<!--Breaking up results for proper formatting-->
+					<section class="grid_6">
+<!--For rupe poll and staff reviews -->
+									<h2><a href="http://reason.com/tags/the-nanny-state">The Nanny State</a></h2>
+									<ul>
+									<li>
+		<h3><a href="http://reason.com/blog/2013/05/29/scotland-mulls-banning-glass-containers">Scotland Mulls Banning Glass Containers from All Pubs</a></h3>
+					<p class="meta">Scott Shackford</p>
+		</li>
+						<li>
+		<h3><a href="http://reason.com/24-7/2013/05/29/scottish-plan-to-ban-glass-alcohol-conta">Scottish Plan to Ban Glass Alcohol Containers Draws Outrage</a></h3>
+			</li>
+						<li>
+		<h3><a href="http://reason.com/blog/2013/05/29/brickbat-ebony-and-ivory">Brickbat: Ebony and Ivory</a></h3>
+					<p class="meta">Charles Oliver</p>
+		</li>
+						</ul>
+			</section>
+		 
+<!--Breaking up results for proper formatting-->
+					<section class="grid_6">
+<!--For rupe poll and staff reviews -->
+									<h2><a href="http://reason.com/poll">Reason-Rupe Poll</a></h2>
+								<ul>
+									<li>
+		<h3><a href="http://reason.com/poll/2013/05/29/poll-two-thirds-of-americans-want-senate">Poll: 62 Percent of Americans Want Senate to Drop Gun Control</a></h3>
+					<p class="meta">Emily Ekins</p>
+		</li>
+						<li>
+		<h3><a href="http://reason.com/poll/2013/05/28/nick-gillespie-interviews-emily-ekins-ab">Nick Gillespie Interviews Emily Ekins about May Reason-Rupe Poll Results</a></h3>
+			</li>
+						<li>
+		<h3><a href="http://reason.com/poll/2013/05/28/new-poll-32-percent-still-like-federa2">New Poll: 32 Percent Still Like Federal Health Care Law</a></h3>
+					<p class="meta">Emily Ekins</p>
+		</li>
+						</ul>
+			</section>
+		 
+<!--Breaking up results for proper formatting-->
+					<section class="grid_6">
+<!--For rupe poll and staff reviews -->
+									<h2><a href="http://reason.com/tags/staff-reviews">Staff Reviews</a></h2>
+								<ul>
+									<li>
+		<h3><a href="http://reason.com/archives/2013/05/30/premature-prophets">Premature Prophets</a></h3>
+					<p class="meta">Brian Doherty</p>
+		</li>
+						<li>
+		<h3><a href="http://reason.com/archives/2013/05/28/guantanamo-pushback">Guantanamo Pushback</a></h3>
+					<p class="meta">Harvey Silverglate</p>
+		</li>
+						<li>
+		<h3><a href="http://reason.com/archives/2013/05/27/battling-ma-bell">Battling Ma Bell</a></h3>
+					<p class="meta">Bryan Alexander</p>
+		</li>
+						</ul>
+			</section>
+				<div class="clear"></div>
+	</div>
+			
+	</div>
+  </div>
+</div>
+
+		<div id="footer1" class="container_24">
+  <nav class="grid_6">
+	<h2>Donate:</h2>
+	<ul>
+	  <li><a href="https://www.reason.com/donatenow/donate.php">Donate Online</a></li>
+	  <li><a href="http://reason.com/donate-via-fax-or-mail">Donate via Fax or Mail</a></li>
+	  <li><a href="http://reason.com/why-support-reason">Why Support Reason?</a></li>
+	  <li><a href="http://reason.com/donation-faq">Donation FAQ</a></li>
+	  <li><a href="http://reason.com/securities-donations">Stock Donations</a></li>
+	  <li><a href="http://reason.com/planned-giving">Planned Giving</a></li>
+	  <li><a href="http://reason.com/shop">Shop to Support Reason</a></li>
+	</ul>
+  </nav>
+  <nav class="grid_6">
+	<h2>Links:</h2>
+	<ul>
+	  <li><a href="http://reason.com/">Home</a></li>
+	  <li><a href="http://reason.com/about">About</a></li>
+      <li><a href="http://reason.org">Reason Foundation</a></li>
+	  <li><a href="http://reason.com/covers">Cover Gallery</a></li>
+	  <li><a href="http://reason.com/reasontv">Reason TV</a></li>
+	  <li><a href="http://reason.org/events">Events</a></li>
+	  <li><a href="http://reason.com/advertise">Advertise</a></li>
+	  <li><a href="http://reason.com/staff">Staff</a></li>
+      <li><a href="http://reason.com/contributors">Contributors</a></li>
+	  <li><a href="http://reason.com/widgets">Widgets</a></li>
+	</ul>
+  </nav>
+  <nav class="grid_6">
+	<h2>Subscribe:</h2>
+	<ul>
+	  <li><a href="https://reason.com/subscribe">Subscribe to the Print Magazine</a></li>
+	  <li><a href="http://reason.com/reason-mobile-apps">Reason Mobile Apps</a></li>
+	  <li><a href="http://itunes.apple.com/us/app/reason-magazine/id494303675?mt=8">Apple Newsstand</a></li>
+	  <li><a href="http://reason.com/reason-magazine-on-ereader">E-Reader Subscriptions</a></li>
+	  <li><a href="https://reason.com/subscribe">Give Reason as a Gift</a></li>
+	  <li><a href="http://reason.com/covers">Back Issues</a></li>
+	  <li><a href="https://reason.com/subserve">Subscription Services</a></li>
+	  <li><a href="mailto:malissi@reason.com?subject=SUBSCRIPTION">Subscription Questions</a></li>
+	  <li><a href="http://reason.com/reason-email-lists">Email Newsletters</a></li>
+	</ul>
+  </nav>
+  <section class="grid_6">
+	<h2>Contact:</h2>
+	<ul>
+      <li><a href="mailto:hitandrun@reason.com">News Tips</a></li>
+	  <li><a href="mailto:newsite@reason.com">Site Comments/Questions</a></li>
+	  <li><a href="http://reason.com//flatpage/item/media-contact">Media Inquiries</a></li>
+      <li><a href="http://reason.com//flatpage/item/reprint-requests">Reprint Permissions</a></li>
+	</ul>
+	<h3>Editorial &amp; Production Offices</h3>
+	<address>
+	  5737 Mesmer Ave.<br>
+	  Los Angeles, CA 90230<br>
+	  (310) 391-2245
+	</address>
+	<h3>Washington Office</h3>
+	<address>
+	  1747 Connecticut Ave., NW<br>
+	  Washington, DC 20009<br>
+	  (202) 986-0916
+	</address>
+  </section>
+  <div class="clear"></div>
+</div>
+<div id="footer2" class="container_24">
+  <div class="grid_24">
+  <nav>
+	  <ul>
+			<li><a href="http://reason.com/">Home</a></li>
+			<li><a href="http://reason.com/24-7">Reason 24/7</a></li>
+			<li><a href="http://reason.com/reasontv">ReasonTV</a></li>
+			<li><a href="http://reason.com/blog">Hit &amp; Run</a></li>
+			<li><a href="http://reason.com/issues">Magazine</a></li>
+			<li><a href="https://reason.com/subscribe">Subscribe</a></li>
+			<li><a href="https://www.reason.com/donatenow/donate.php">Donate</a></li>
+			<li><a href="http://reason.com/search">Advanced Search</a></li>
+			<li><a href="http://reason.com/advertise">Advertise</a></li>
+			<li><a href="http://reason.com/contact">Contact</a></li>
+	  </ul>
+	</nav>
+	<p>
+	  ©2012 Reason Foundation.<span class="pipe">|</span><a href="http://reason.org">reason.org</a><span class="pipe">|</span><a href="/privacy">privacy policy</a>
+	</p>
+  </div>
+</div>
+<script>
+(function(){
+ function loadChartbeat() {
+   window._sf_endpt=(new Date()).getTime();
+   var e = document.createElement('script');
+   e.setAttribute('language', 'javascript');
+   e.setAttribute('type', 'text/javascript');
+   e.setAttribute('src',
+      (("https:" == document.location.protocol) ?
+"https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" :
+"http://static.chartbeat.com/") +
+      "js/chartbeat.js");
+   document.body.appendChild(e);
+ }
+ var oldonload = window.onload;
+ window.onload = (typeof window.onload != 'function') ?
+    loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+</script>
+<script>
+var _qevents = _qevents || [];
+
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+
+_qevents.push({
+qacct:"p-07wG_vRzPBWKE"
+});
+</script>
+<noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-07wG_vRzPBWKE.gif" border="0" height="1" width="1" alt=""/>
+</div>
+</noscript>
+	</footer>
+		
+	<!-- begin Buzzfeed widget -->
+	<div id="BF_WIDGET_1">&nbsp;<script type="text/javascript" src="http://ct.buzzfeed.com/wd/UserWidget?u=reason.com&amp;to=1&amp;or=vb&amp;wid=1&amp;cb=1580364347289"></script></div>
+	<script type="text/javascript">
+	(function( ){
+		BF_WIDGET_JS=document.createElement("script"); BF_WIDGET_JS.type="text/javascript";
+		BF_WIDGET_SRC="http://ct.buzzfeed.com/wd/UserWidget?u=reason.com&to=1&or=vb&wid=1&cb=" + (new Date()).getTime();
+		setTimeout(function() {document.getElementById("BF_WIDGET_1").appendChild(BF_WIDGET_JS);BF_WIDGET_JS.src=BF_WIDGET_SRC},1);
+	})();
+	</script>
+	<!-- end Buzzfeed widget  -->
+    <script type="text/javascript" src="https://d1xnn692s7u6t6.cloudfront.net/widget.js"></script>
+<script type="text/javascript">(function k(){window.$SendToKindle&&window.$SendToKindle.Widget?$SendToKindle.Widget.init({"content":"article.post .postcontent","exclude":".asidecontainer","pagination":"ul.pagenav a[rel=next]","asin":"B001C41EXA"}):setTimeout(k,500);})();</script>
+
+<script language="javascript" type="text/javascript" src="https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/js/chartbeat.js"></script></body></html>
