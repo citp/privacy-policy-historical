@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the batterymart.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106230441id_/http%3A//www.batterymart.com/c-privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the batterymart.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531205958id_/http%3A//www.batterymart.com/c-privacy-statement.html) for the most accurate reproduction.*
 
 # BatteryMart.com Privacy Statement - BatteryMart.com
 
@@ -54,7 +54,7 @@ This site has security measures in place to protect the loss, misuse, and altera
 
 ## Contacting Us
 
-If you have any questions about this privacy statement, the practices of this site, or ordering with this Web site, you can [contact us](http://www.batterymart.com/c-contact-us.html).
+If you have any questions about this privacy statement, the practices of this site, or ordering with this Web site, you can [contact us](https://web.archive.org/c-contact-us.html).
 
   
 
