@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tiffany.co.uk privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127182936id_/http%3A//www.tiffany.co.uk/Service/policy_vis.aspx%3FisMenu%3D1%26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tiffany.co.uk privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531054352id_/http%3A//www.tiffany.co.uk/Service/policy_vis.aspx%3FisMenu%3D1%26) for the most accurate reproduction.*
 
 # Tiffany & Co. | Privacy Policy | United Kingdom
 
@@ -8,7 +8,7 @@
 
 For the purpose of the applicable data protection legislation, the data controller is Tiffany & Co. Ltd of 25 Old Bond Street, London W1S 4QB.
 
-We are committed to protecting and respecting your privacy. We want you to know how we use and protect the personal information you give us. This policy (“Privacy Policy”) sets out how we use and protect any personal information that you give us when you use this Website, order through our catalogue or on our Toll Free telephone order line or visit any of our stores. If you have any questions about this policy or do not agree with it, please contact our customer services department by email at [ukcustomerservice@tiffany.com](mailto:ukcustomerservice@tiffany.com) or by telephone Toll Free on 00 800 2000 1122 before using this Website.
+We are committed to protecting and respecting your privacy. We want you to know how we use and protect the personal information you give us. This policy (“Privacy Policy”) sets out how we use and protect any personal information that you give us when you use this Website, order through our catalogue or on our Toll Free telephone order line or visit any of our stores. If you have any questions about this policy or do not agree with it, please contact our customer services department by email at [ukcustomerservice@tiffany.com](mailto:ukcustomerservice@tiffany.com) or by telephone Toll Free on 0800 160 1330 before using this Website.
 
 We may change this policy from time to time by updating this page.  You should check this page from time to time to ensure you are happy with any changes.  This policy is effective from June 1, 2010.
 
@@ -33,15 +33,15 @@ We use this information to provide you with a better service, and in particular 
   * to improve our products and services;
   * to communicate with you by email, telephone or post if you have ordered or purchased products from us, either regarding the order or purchase or other matters regarding transactions between us or your customer relationship with us;
   * to communicate with you with regard to your Tiffany.com account, or your Tiffany & Co. Business Account;
-  * if you have purchased a product or requested a catalogue from us, you will be placed on the Tiffany & Co. mailing list and will receive periodic mailings by post from us (if you do not wish to receive a catalogue and/or periodic mailings by post please contact our customer services department by email at [ukcustomerservice@tiffany.com](mailto:ukcustomerservice@tiffany.com) or by telephone Toll Free on 00 800 2000 1122 to let us know and you will be removed from our mailing list);
+  * if you have purchased a product or requested a catalogue from us, you will be placed on the Tiffany & Co. mailing list and will receive periodic mailings by post from us (if you do not wish to receive a catalogue and/or periodic mailings by post please contact our customer services department by email at [ukcustomerservice@tiffany.com](mailto:ukcustomerservice@tiffany.com) or by telephone Toll Free on 0800 160 1330 to let us know and you will be removed from our mailing list);
   * to contact you by email, telephone, SMS, MMS or post according to your preferences, in order to share information with you about our products, services and events that may be of interest to you;
-  * to contact you for market research purposes, if you have not objected to such use. Please note that you can object to the use of your data for market research purposes at any time. To do so please contact our customer services department by email at [ukcustomerservice@tiffany.com](mailto:ukcustomerservice@tiffany.com) or by telephone Toll Free on 00 800 2000 1122 to let us know.
+  * to contact you for market research purposes, if you have not objected to such use. Please note that you can object to the use of your data for market research purposes at any time. To do so please contact our customer services department by email at [ukcustomerservice@tiffany.com](mailto:ukcustomerservice@tiffany.com) or by telephone Toll Free on 0800 160 1330 to let us know.
 
 
 
 ### Direct marketing
 
-As above, we would like to provide you with information about new products, promotions, special offers and other information which we think you may find interesting. Where you have consented to us doing so, we may send you such information by postal mail and telephone, unless you have registered with the appropriate Preference Service. If you purchase a product from us we may retain your address for future mailings. If you do not want your information used for direct marketing purposes at any time, please contact our customer services department by email at [ukcustomerservice@tiffany.com](mailto:ukcustomerservice@tiffany.com) or by telephone Toll Free on 00 800 2000 1122 to let us know and we will not send you any direct marketing.
+As above, we would like to provide you with information about new products, promotions, special offers and other information which we think you may find interesting. Where you have consented to us doing so, we may send you such information by postal mail and telephone, unless you have registered with the appropriate Preference Service. If you purchase a product from us we may retain your address for future mailings. If you do not want your information used for direct marketing purposes at any time, please contact our customer services department by email at [ukcustomerservice@tiffany.com](mailto:ukcustomerservice@tiffany.com) or by telephone Toll Free on 0800 160 1330 to let us know and we will not send you any direct marketing.
 
 ### Email marketing
 
@@ -56,7 +56,7 @@ If you are a customer or you have previously asked us for information on our pro
 
 Otherwise, when you provide us with personal information, we will ask you whether you would like us to send you Tiffany & Co. informational emails.
 
-If you decide at any time that you no longer wish to receive marketing emails from us, please click on the unsubscribe link in the email. Alternatively, you may at any time contact our customer services department at Tiffany & Co. Ltd, 25 Old Bond Street, London W1S 4QB, by telephone Toll Free on 00 800 2000 1122 or by email at [ukcustomerservice@tiffany.com](mailto:ukcustomerservice@tiffany.com).
+If you decide at any time that you no longer wish to receive marketing emails from us, please click on the unsubscribe link in the email. Alternatively, you may at any time contact our customer services department at Tiffany & Co. Ltd, 25 Old Bond Street, London W1S 4QB, by telephone Toll Free on 0800 160 1330 or by email at [ukcustomerservice@tiffany.com](mailto:ukcustomerservice@tiffany.com).
 
 ### Who do we share this information with?
 
@@ -68,7 +68,7 @@ We will not transfer or disclose your personal information to third parties othe
 
 
 
-unless we have your permission or are under a duty to disclose or share your personal information in order to comply with any legal obligation, or in order to enforce or apply our [Terms of Use ](https://web.archive.org/web/20121127182936id_/http%3A//www.tiffany.co.uk/Service/Policy_ter.aspx) or [Terms of Sale ](https://web.archive.org/web/20121127182936id_/http%3A//www.tiffany.co.uk/Service/Policy_tos.aspx)and other agreements; or to protect the rights, property or safety of Tiffany & Co., our customers or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction within the framework of the relevant data protection law. 
+unless we have your permission or are under a duty to disclose or share your personal information in order to comply with any legal obligation, or in order to enforce or apply our [Terms of Use ](https://web.archive.org/web/20130531054352id_/http%3A//www.tiffany.co.uk/Service/Policy_ter.aspx) or [Terms of Sale ](https://web.archive.org/web/20130531054352id_/http%3A//www.tiffany.co.uk/Service/Policy_tos.aspx)and other agreements; or to protect the rights, property or safety of Tiffany & Co., our customers or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction within the framework of the relevant data protection law. 
 
 Given that we are an international company, this process may include sending personal information to other countries, whose data protection laws may not be as extensive as in the European Economic Area. However, we have taken appropriate steps to ensure the same level of protection for the processing carried out in these countries as within the European Economic Area. Please see the section on 'Security and storage' below.
 
@@ -94,7 +94,7 @@ We may link to other websites which are not within our control. When we do this,
 
 ### Cookie Policy
 
-We are committed to protecting and respecting your privacy. We want you to know how we use cookies on your computer or other electronic device. This policy (“Cookies Policy”) sets out how we use and protect any personal information collected through the use of cookies when you use this Website. If you have any questions about this policy or do not agree with it, please contact our customer services department by email at [ukcustomerservice@tiffany.com](mailto:ukcustomerservice@tiffany.com) or by telephone Toll Free on 00 800 2000 1122 before continuing your use of this Website.
+We are committed to protecting and respecting your privacy. We want you to know how we use cookies on your computer or other electronic device. This policy (“Cookies Policy”) sets out how we use and protect any personal information collected through the use of cookies when you use this Website. If you have any questions about this policy or do not agree with it, please contact our customer services department by email at [ukcustomerservice@tiffany.com](mailto:ukcustomerservice@tiffany.com) or by telephone Toll Free on 0800 160 1330 before continuing your use of this Website.
 
 We may change this policy from time to time by updating this page.  You should check this page from time to time to ensure you are happy with any changes.  This policy is effective from June 20, 2012.
 
@@ -153,6 +153,6 @@ Google Analytics | Performance cookie | Google saves set of cookies for its anal
 
 You can disable the cookies from your browser and delete all cookies currently stored on your computer. On Microsoft Internet Explorer, this can be done by selecting "Tools/Internet Options" and reviewing your privacy settings or selecting "delete cookies". However, please note that this may prevent you from taking full advantage of the Website. You can find out how to do this for your particular browser by clicking "help" on your browser's menu or by visiting [www.allaboutcookies.org](http://www.allaboutcookies.org/manage-cookies/index.html).
 
-If you have any further questions about your privacy or how we use cookies on our site, please do not hesitate to contact our customer services department by email at [ukcustomerservice@tiffany.com](mailto:ukcustomerservice@tiffany.com) or by telephone Toll Free on 00 800 2000 1122.
+If you have any further questions about your privacy or how we use cookies on our site, please do not hesitate to contact our customer services department by email at [ukcustomerservice@tiffany.com](mailto:ukcustomerservice@tiffany.com) or by telephone Toll Free on 0800 160 1330.
 
 This policy was last updated June, 20 2012.
