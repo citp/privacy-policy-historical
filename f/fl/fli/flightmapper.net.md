@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flightmapper.net privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920021216id_/http%3A//info.flightmapper.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flightmapper.net privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531065025id_/http%3A//info.flightmapper.net/privacy) for the most accurate reproduction.*
 
 # Privacy policy
 
