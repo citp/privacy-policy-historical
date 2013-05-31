@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the safecu.org privacy policy that was archived on 2012-10-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121002220014id_/https%3A//www.safecu.org/about_safe/online_privacy_statement.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the safecu.org privacy policy that was archived on 2013-05-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130531051637id_/https%3A//www.safecu.org/about_safe/online_privacy_statement.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html lang="en"><head>
 <!-- Nav Wrap 2012 | 1,2,3, Column New ZoomMetaData-->
@@ -21,8 +21,60 @@
 <!--[if lt IE 6]><link rel="stylesheet" type="text/css" href="/Assets/common/css/style-lt-ie6.css"><![endif]-->
 <title>SAFE Credit Union : About SAFE : Online Privacy Statement</title>
 
-<script type="text/javascript" src="/Assets/common/js/comparescripts.js"></script>
-<script type="text/javascript" src="https://www.safecuhb.org/onlineserv/HB/Signon.cgi?remote=TRUE"></script>
+<script id="hs-analytics" src="//js.hubspot.com/analytics/1580470200000/118288.js"></script><script type="text/javascript" src="/Assets/common/js/comparescripts.js"></script>
+
+<!-- 012313jc : <script type="text/javascript" src="https://www.safecuhb.org/onlineserv/HB/Signon.cgi?remote=TRUE"></script> -->
+
+<!-- 012313jc: begin -->
+<script>
+
+function enableMe() {
+document.getElementById("dscheck").value="0";
+}
+function isCookieEnabled() {
+var exp = new Date();
+exp.setTime(exp.getTime() + 1800000);
+setCookie("testCookie", "cookie", exp, false, false, false);
+if (document.cookie.indexOf('testCookie') == -1) {
+return false;
+}
+exp = new Date();
+exp.setTime(exp.getTime() - 1800000);
+setCookie("testCookie", "cookie", exp, false, false, false);
+return true;
+}
+function setCookie(name, value, expires, path, domain, secure) {
+var curCookie = name + "=" + value +
+((expires) ? "; expires=" + expires.toGMTString() : "") +
+((path) ? "; path=" + path : "") +
+((domain) ? "; domain=" + domain : "") +
+((secure) ? "; secure" : "");
+document.cookie = curCookie;
+}
+function isDupSubmit() {
+var dupSbmt = true;
+var e = document.getElementById("dscheck");
+if (e != null && e.value == "0") {
+dupSbmt = false;
+e.value = "1";
+setTimeout(enableMe, 5000);
+}
+return dupSbmt;
+}
+function setParamStatus() {
+if (!isDupSubmit()) {
+if (isCookieEnabled()) {
+document.getElementById('testcookie').value = 'true';
+}
+document.getElementById('testjs').value = 'true';
+return true;
+}
+return false;
+}
+
+</script>
+<!-- 012313jc: end -->
+
 <script language="javascript" type="text/javascript">
     document.cookie = "2xClick=;path=/";
 </script>
@@ -329,6 +381,12 @@ function cfWindow()
   </span>
     <!-- End Top Nav -->
   </div>
+<!-- Social Media Links : Begin -->
+ 
+<!-- Social Media Links -->
+<div style=" float: right; padding-top: 5px;"><a onclick="dcsMultiTrack('DCS.dcssip', 'https://www.facebook.com/safecu', 'DCS.dcsuri', '/', 'WT.ti', 'Facebook');" href="https://www.facebook.com/safecu" target="_blank"><img src="/assets/images/global/social_media_icons/facebook_icon.png" width="23" height="23" alt="SAFE Credit Union on Facebook" style=" border: none;"></a> <a onclick="dcsMultiTrack('DCS.dcssip', 'https://twitter.com/SAFEcu', 'DCS.dcsuri', '/', 'WT.ti', 'Twitter');" href="https://twitter.com/SAFEcu" target="_blank"><img src="/assets/images/global/social_media_icons/twitter_icon.png" width="23" height="23" alt="SAFE Credit Union on Twitter" style=" border: none;"></a> <a onclick="dcsMultiTrack('DCS.dcssip', 'https://www.linkedin.com/company/safe-credit-union', 'DCS.dcsuri', '/', 'WT.ti', 'LinkedIn');" href="https://www.linkedin.com/company/safe-credit-union" target="_blank"><img src="/assets/images/global/social_media_icons/linkedin_icon.png" width="23" height="23" alt="SAFE Credit Union on LinkedIn" style=" border: none;"></a> <a onclick="dcsMultiTrack('DCS.dcssip', 'http://info.safecu.org/blog', 'DCS.dcsuri', '/', 'WT.ti', 'Blog Rss Feed');" href="http://info.safecu.org/blog" target="_blank"><img src="/assets/images/global/social_media_icons/blog_icon.png" width="23" height="23" alt="SAFE Credit Union Blog RSS Feed" style=" border: none;"></a></div>
+
+<!-- Social Media LInks : End -->
   
   <span id="tagline"><img src="/Assets/images/global/keepmore.gif" alt="Keep More of What You Earn" border="1"></span>
   <!-- Begin Main Nav -->
@@ -484,15 +542,15 @@ function cfWindow()
 
   
  
-           
-<li><a href="/about_safe/online_privacy_statement.aspx">
-Online Privacy Statement</a>
-
+    
        
 
   
  
-    
+           
+<li><a href="/about_safe/online_privacy_statement.aspx">
+Online Privacy Statement</a>
+
        
 
   
@@ -505,15 +563,15 @@ Rates &amp; Disclosures</a>
 
   
  
-           
-</li><li><a href="/about_safe/security_education_center.aspx">
-Security Education Center</a>
-
+    
        
 
   
  
-    
+           
+</li><li><a href="/about_safe/security_education_center.aspx">
+Security Education Center</a>
+
        
 
   
@@ -542,15 +600,7 @@ History</a>
   
  
            
-</li><li><a href="/about_safe/why_our_members_love_safe.aspx">
-Why Our Members Love SAFE</a>
-
-       
-
-  
- 
-           
-</li><li><a href="/about_safe/top_ten_steps_to_financial_well-being/index.aspx">
+</li><li><a href="/about_safe/top_ten_steps_to_financial_well-being.aspx">
 Top Ten Steps to Financial Well-Being</a>
 
        
@@ -659,7 +709,7 @@ Community Involvement</a>
 
 <li><a href="#Choice Options">Privacy Choices</a></li>
 
-<li><a href="/About_SAFE/pdfs/privacy_policy_2012.pdf">SAFE's Privacy Policy</a> (PDF)</li>
+<li><a href="/About_SAFE/pdfs/privacy_policy.pdf">SAFE's Privacy Policy</a> (PDF)</li>
 </ul>
 
 <p><img alt="" src="https://www.safecu.org/assets/images/spacer-gray.gif" height="1" border="0" width="480"><br>
@@ -668,7 +718,7 @@ Community Involvement</a>
 <br>
 &nbsp;</p>
 
-<p>Effective on: 4/1/12</p>
+<p>Effective on: 4/1/13</p>
 
 <p>SAFE Credit Union&nbsp;has created this privacy statement in order to demonstrate our firm commitment to consumer privacy. The following discloses our information gathering and dissemination practices for the <a target="_blank" href="https://www.safecu.org/">www.safecu.org</a> website in addition to the practices listed in the Privacy Notice.</p>
 
@@ -940,7 +990,7 @@ You can reduce the number of unwanted phone calls to your home by calling 1-888-
 <a href="/about_safe/3rd_party_link_disclosure.aspx">3rd Party Disclosure</a>&nbsp; | &nbsp;
 <a href="/about_safe/rates_disclosures.aspx">Rates &amp; Disclosures</a>&nbsp; | &nbsp;
 <a href="/site_map/index.aspx">Site Map</a>&nbsp; | &nbsp;
-<a href="javascript: _cpt=window.open('https://www.safecu.org/feedback/comment.aspx','SendFeedback','scrollBars=yes,resizable=no,toolbar=no,menubar=no,location=no,directories=no,width=445,height=650'); function voidFunc() { } voidFunc();">Feedback</a></span>
+<a href="javascript: _cpt=window.open('https://www.safecu.org/internal_applications/feedback/feedback.aspx?sourceid=101&amp;showexec=false&amp;C00F375D53B49A2A4913D6E54F79C228=0','SendFeedback','scrollBars=yes,resizable=no,toolbar=no,menubar=no,location=no,directories=no,width=445,height=650'); function voidFunc() { } voidFunc();">Feedback</a></span>
 
 
 </div><div id="copyright">
@@ -959,8 +1009,7 @@ You can reduce the number of unwanted phone calls to your home by calling 1-888-
 <div style="padding: 1px;">
 <table width="750" id="ncua">
 <tbody><tr>
-<td width="625" valign="bottom" class="footerNCUA"><a href="/about_safe/rates_disclosures.aspx#NCUA">Federally insured by NCUA</a>
-<br><a href="/about_safe/NCUA/">Notice of Changes in Temporary NCUA Insurance Coverage for Transaction Accounts</a>
+<td width="625" valign="top" class="footerNCUA"><a href="/about_safe/rates_disclosures.aspx#NCUA">Federally insured by NCUA</a>
 <br>NMLS #466072</td>
 <td align="right" valign="bottom" class="footerNCUA">
 <div id="lender"><img src="/Assets/images/global/EHO-4.png" alt="Equal Housing Opportunity"></div>
@@ -972,14 +1021,18 @@ You can reduce the number of unwanted phone calls to your home by calling 1-888-
       </div>
 
 
-<!-- Start of HubSpot Logging Code  -->
-<script type="text/javascript" language="javascript">
-var hs_portalid=118288; 
-var hs_salog_version = "2.00";
-var hs_ppa = "safecu.app10.hubspot.com";
-document.write(unescape("%3Cscript src='" + document.location.protocol + "//" + hs_ppa + "/salog.js.aspx' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://safecu.app10.hubspot.com/salog.js.aspx" type="text/javascript"></script>
-<!-- End of HubSpot Logging Code -->
+<!-- updated hubspot code 012213 -->
+<!-- Start of Async HubSpot Analytics Code -->
+    <script type="text/javascript">
+        (function(d,s,i,r) {
+            if (d.getElementById(i)){return;}
+            var n=d.createElement(s),e=d.getElementsByTagName(s)[0];
+            n.id=i;n.src='//js.hubspot.com/analytics/'+(Math.ceil(new Date()/r)*r)+'/118288.js';
+            e.parentNode.insertBefore(n, e);
+        })(document,"script","hs-analytics",300000);
+    </script>
+<!-- End of Async HubSpot Analytics Code -->
+
 
 <!-- WEBTRENDS 10 -->
 
@@ -1018,9 +1071,9 @@ _tag.dcsCollect();
 <!-- End Footer -->
 
 
-<script language="javascript" type="text/javascript">
+<!-- 012313jc : <script language="javascript" type="text/javascript">
     includeFlash();
-</script>
+</script> -->
 <!-- BEGIN Invitation Positioning  -->
 <script language="javascript" type="text/javascript">
 var lpPosY = 100;
