@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xrepublic.tv privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231000243id_/http%3A//xrepublic.tv/node/28) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xrepublic.tv privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531111835id_/http%3A//xrepublic.tv/node/28) for the most accurate reproduction.*
 
 # Privacy Policy | XRepublic
 
