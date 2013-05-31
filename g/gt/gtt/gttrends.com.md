@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gttrends.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920023508id_/http%3A//gttrends.com/privacy/gt_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gttrends.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531103112id_/http%3A//gttrends.com/privacy/gt_privacy.html) for the most accurate reproduction.*
 
 # Untitled-1
 
