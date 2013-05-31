@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usingmiles.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016110251id_/https%3A//www.usingmiles.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usingmiles.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531223539id_/https%3A//www.usingmiles.com/pages/privacy) for the most accurate reproduction.*
 
 # UsingMiles | Credit Card Miles Programs, Manage Airline Miles, Redeem Air Miles
 
