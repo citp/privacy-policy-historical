@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the payperviewformula.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504015938id_/http%3A//www.payperviewformula.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payperviewformula.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531064104id_/http%3A//www.payperviewformula.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Terms of Use
 
 **PRIVACY POLICY**
 
-Last Updated: September 18, 2010
+Last Updated: March 18, 2013
 
 PayPerViewFormula.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period."
 
@@ -36,11 +36,7 @@ PayPerViewFormula.com does not knowingly collect or solicit Personally Identifia
 
 Contacting Us.
 
-We can be reached by contacting:
-
-PayPerViewFormula.com
-
-Email: gauher @ payperclickformula.com
+We can be reached by contacting us by Clicking Here:
 
 Changes to this Policy
 
@@ -53,3 +49,12 @@ This policy and the use of this Site are governed by Ontario law. If a dispute a
 If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration at the following location: Toronto, under the rules of the American Arbitration Association. Judgment upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so.
 
 PayPerViewFormula.com is controlled, operated and administered entirely within Ontario. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
+
+**Copyright © 2013 iPromote Media Inc., All Rights Reserved.**   
+**1011 Upper Middle Road East, Suite #1226  
+Oakville, ON, L6H 5Z9, Canada**
+
+No copying or duplication of this web site is permitted without expressed   
+written permission of the publisher or author.
+
+[Terms of Use](http://www.payperviewformula.com/terms.html) | [Earnings Disclaimer](http://www.payperviewformula.com/earnings.html) | [Privacy Policy](http://www.payperviewformula.com/privacy.html) | [Contact](http://www.payperviewformula.com/contact)
