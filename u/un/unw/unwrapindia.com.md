@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the unwrapindia.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222225956id_/http%3A//unwrapindia.com/stores/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unwrapindia.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531150959id_/http%3A//unwrapindia.com/stores/privacy-policy.html) for the most accurate reproduction.*
 
-# Unwrapindia | 100 % made in india store | indian handicraft
+# None
 
-Use of the Site and the Service is further governed by Adjetter Media Network's Privacy Policy, which is incorporated into this Agreement by reference. Adjetter Media Network Private Limited is the operator and licensee of [www.unwrapindia.com](http://www.unwrapindia.com/). We ensure the protection and security of your personal information.
+* Use of the Site and the Service is further governed by Adjetter Media Network's Privacy Policy, which is incorporated into this Agreement by reference. Adjetter Media Network Private Limited is the operator and licensee of [www.unwrapindia.com](http://www.unwrapindia.com/). We ensure the protection and security of your personal information.
 
 Personal Information refers to any information that identifies or can be used to identify, contact or locate the person, to whom such information pertains including, but not limited to, IP address, name, physical address, email address, phone number, cell phone number, fax number, email address, financial profiles, identification number and credit card information and other information such as gender, occupation and other demographic information.
 
