@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the symplicity.com privacy policy that was archived on 2012-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121117055715id_/http%3A//www.symplicity.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the symplicity.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601011829id_/http%3A//symplicity.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Symplicity Corporation
 
