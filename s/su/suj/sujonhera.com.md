@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sujonhera.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231020013id_/http%3A//sujonhera.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sujonhera.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531092932id_/http%3A//sujonhera.com/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY
+# Privacy Policy
 
-This Privacy Policy governs the manner in which SUJONHERA collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://tech.bdloan.net/ website (“Site”). This privacy policy applies to the Site and all products and services offered by SUJONHERA.
+This Privacy Policy governs the manner in which **SUJONHERA** collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://sujonhera.com](http://sujonhera.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by SUJONHERA.
 
 **Personal identification information**
 
@@ -57,11 +57,16 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 **Contacting us**
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-SUJONHERA
-
-http://tech.bdloan.net/
-
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [contact us](http://sujonhera.com/contact-us/ "contact us") at:  
+SUJONHERA  
+<http://sujonhera.com/>  
 Rahshahi Medical College, Rajshahi, Bangladesh.  
 +8801723836976  
 SP49RMC@GMAIL.COM
+
+  * Bio
+  * Latest Posts
+
+
+
+[Sujon Paul](http://sujonhera.com/about-me/ "Sujon Paul") is an MBBS Student from Rajshahi Medical College, Bangladesh. He is 23 years old and originally from Pabna, Bangladesh. He loves blogging and helping people. He updates this website regularly with fresh contents. You can contact him from the links below his photo. Visit this website regularly for updated information. Thank you for visiting this website.
