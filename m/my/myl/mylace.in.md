@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mylace.in privacy policy that was archived on 2012-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120724052851id_/http%3A//mylace.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mylace.in privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531074411id_/http%3A//prettysecrets.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | MyLace.in
+# Privacy Policy | PrettySecrets.com
 
 We do not sell or rent your personal information to third parties for their marketing purposes without your explicit consent and we only use your information as described in the Privacy Policy. We view protection of your privacy as a very important community principle. We understand clearly that you and your Information are one of our most important assets. 
 
