@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vodafone.com.gh privacy policy that was archived on 2012-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121011091415id_/http%3A//vodafone.com.gh/About-Us/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vodafone.com.gh privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531182333id_/http%3A//vodafone.com.gh/About-Us/Privacy-Policy.aspx) for the most accurate reproduction.*
 
-# Vodafone Ghana » The World's Leading Mobile Telecommunications Company
+# Vodafone Ghana » Vodafone is a total communications solutions provider
 
 **Introduction**  
 Our privacy policy explains how we collect, use, share and protect your personal information. If we update this policy, we will post any changes on our website so that you’ll always know how your personal information is being used or shared.
