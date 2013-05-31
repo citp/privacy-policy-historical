@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digital-photo-secrets.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003032814id_/http%3A//www.digital-photo-secrets.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digital-photo-secrets.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531161535id_/http%3A//www.digital-photo-secrets.com/privacy.html) for the most accurate reproduction.*
 
 # Digital Photography Secrets
 
@@ -21,3 +21,5 @@ We will never share, sell, or rent individual personal information with anyone w
 Each email sent contains an easy, automated way for you to cease receiving email from us, or to change your expressed interests. If you wish to do this, simply follow the instructions at the end of any email.
 
 If you have received unwanted, unsolicited email sent via this system or purporting to be sent via this system, please forward a copy of that email with your comments to [info@digital-photo-secrets.com](mailto:info@digital-photo-secrets.com) for review.
+
+Digital Photo Secrets a trading name of [Vivitec Pty Ltd](http://www.vivitec.com.au/). We are based in Australia. Our company headquarters are located in Cowes, Victoria.
