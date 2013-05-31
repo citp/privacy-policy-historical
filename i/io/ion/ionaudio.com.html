@@ -1,12 +1,13 @@
-<!--The following is the downloaded HTML source of the ionaudio.com privacy policy that was archived on 2012-11-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121109150157id_/http%3A//www.ionaudio.com/company/privacy_policy/) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ionaudio.com privacy policy that was archived on 2013-05-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130531212857id_/http%3A//www.ionaudio.com/company/privacy_policy/) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 	<meta charset="utf-8">
-	<title>Privacy Policy - ION Audio</title>
+	<title>Privacy Policy - ION Audio - Technology made simple: app accessories, portable audio, and more</title>
 
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" charset="utf-8" src="/themes/site_themes/global/js/html5.js"></script>
-<script type="text/javascript" charset="utf-8" src="/?ACT=jquery"></script> 
+<script type="text/javascript" charset="utf-8" src="http://ionaudio.com/themes/site_themes/global/js/jquery-1.9.1.js"></script>
+<script type="text/javascript" src="http://ionaudio.com/themes/site_themes/global/js/jquery-ui-1.10.1.custom.js"></script> 
 <script type="text/javascript" charset="utf-8" src="/?ACT=jquery&amp;effect=core"></script> 
 <script type="text/javascript" charset="utf-8" src="/?ACT=jquery&amp;effect=slide"></script> 
 	 <script type="text/javascript"> 
@@ -66,8 +67,72 @@ for (var i=0;i<inputs.length;i++) {
 }
 }
 window.onload=function() {activatePlaceholders();}
-</script> 
+
+// =================
+// = Auto Complete =
+// =================
+
+$(function() {
+
+	
+
+	var products = [
+	{href: "21st-century-vinyl-dvd",label: "21st Century Vinyl DVD",desc: "Video Guide to Owning a Turntable"},{href: "air-copy",label: "Air Copy",desc: "Wireless Scanner for Tablets, Smartphones, and Computers"},{href: "allstarguitar",label: "All-Star Guitar",desc: "Guitar Controller for iPad, iPhone, and iPod touch"},{href: "anyroom",label: "Anyroom",desc: "Wireless Speaker System for iPod and iPhone     "},{href: "block-rocker-2010-model",label: "BLOCK ROCKER",desc: "Battery Powered Speaker System for iPod"},{href: "block-rocker-am-fm",label: "Block Rocker AM/FM",desc: "Portable Speaker System for iPhone and iPod: Now with AM/FM Radio!"},{href: "blockrockerbluetooth",label: "Block Rocker Bluetooth",desc: "Portable Speaker System with Wireless Technology"},{href: "cd-direct",label: "CD Direct",desc: "Digital Conversion Turntable with Built-In CD Recorder and Speakers"},{href: "center-stage",label: "Center Stage",desc: "Compact Complete Sound Amplification System"},{href: "clipster",label: "Clipster",desc: "Wireless Speaker with Built-in Clip"},{href: "copy-cat-mkii",label: "Copy Cat",desc: "Handheld Document Scanner"},{href: "desk-rocker",label: "Desk Rocker",desc: "USB Stereo Speakers"},{href: "discover-dj",label: "Discover DJ",desc: "Computer DJ System"},{href: "discover-drums",label: "Discover Drums",desc: "Tabletop Electronic Drum Set"},{href: "discover-drums-2011",label: "Discover Drums",desc: "Tabletop Electronic Drum Set"},{href: "discover-guitar-live-bundle",label: "DISCOVER GUITAR LIVE",desc: "DISCOVER GUITAR Learning Pack &amp; TAILGATER AM/FM Speaker System"},{href: "discover-guitar-plus1",label: "DISCOVER GUITAR PLUS",desc: "Guitar Learning Pack with Gig Bag"},{href: "discover-guitar-usb",label: "Discover Guitar USB",desc: "Guitar Learning Pack"},{href: "discover-karaoke",label: "Discover Karaoke",desc: "Karaoke System for Mac, PC, and iPad"},{href: "discover-keyboard-usb",label: "Discover Keyboard USB",desc: "Keyboard Music Creation Station"},{href: "dj2go",label: "DJ2GO",desc: "Compact USB DJ Controller"},{href: "docs2go",label: "Docs 2 Go",desc: "Standalone Document and Photo Scanner for iPad "},{href: "docuscan-worldwide",label: "Docuscan",desc: "Standalone Document and Photo Scanner"},{href: "drum-rocker-3-cymbal-kit",label: "Drum Rocker 3-Cymbal Kit",desc: "Basic Drum Rocker Cymbal Set"},{href: "drum-rocker-accessory-cymbal",label: "Drum Rocker Accessory Cymbal",desc: "Drum Rocker Cymbal Expansion Kit"},{href: "drum-rocker-core-playstation",label: "Drum Rocker Core for PlayStation",desc: "Premium Drum Set For Rock Band "},{href: "drum-rocker-core-wii-model",label: "Drum Rocker Core for Wii",desc: "Premium Drum Set for the Rock Band Series"},{href: "drum-rocker-core-xbox-360",label: "Drum Rocker Core for Xbox 360",desc: "Premium Drum Set for Rock Band Series"},{href: "drum-rocker-dm5-mounting-hardware",label: "Drum Rocker DM5 Mounting Hardware",desc: "DM5 Module Mount Kit"},{href: "drum-rocker-double-kick-expansion-kit",label: "Drum Rocker Double Kick Expansion Kit",desc: "2nd Kick Pedal for Drum Rocker Kits"},{href: "drum-rocker-playstation-model",label: "Drum Rocker for PlayStation",desc: "Premium Drum Set for PS2 and PS3"},{href: "drum-rocker-wii-model",label: "Drum Rocker for Wii",desc: "Premium Drum Set for Rock Band 2 Wii model"},{href: "drum-rocker-xbox-model",label: "Drum Rocker for Xbox 360",desc: "Premium Drum Set for Xbox 360"},{href: "drum-rocker-kick-pedal",label: "Drum Rocker Kick Pedal",desc: "Replacement Kick Pedal for Drum Rocker"},{href: "logostix",label: "Drum Rocker Logostix",desc: "Wooden Drumsticks for Drum Rocker Drum Sets"},{href: "drum-rocker-module-for-playstation",label: "Drum Rocker Module for PlayStation",desc: "Game Controller Module for PlayStation 2 and 3"},{href: "drum-rocker-module-for-wii",label: "Drum Rocker Module for Wii",desc: "Game Controller Module for Wii"},{href: "drum-rocker-module-for-xbox-360",label: "Drum Rocker Module for Xbox 360",desc: "Game Controller Drum Module for Xbox 360"},{href: "drum-rocker-pad",label: "DRUM ROCKER PAD",desc: "Extra or Replacement Pad for DRUM ROCKER"},{href: "drum-throne",label: "Drum Throne",desc: "Padded Drum Seat"},{href: "duodeck",label: "Duo Deck",desc: "Ultra-Portable Digital Conversion Turntable with Cassette Deck"},{href: "easy-play-lp",label: "Easy Play LP",desc: "USB-Powered Digital Conversion Turntable"},{href: "explorer-bluetooth",label: "Explorer Bluetooth",desc: "Portable Sound System with Wireless Technology"},{href: "film-2-sd",label: "Film 2 SD (Black)",desc: "35mm Film and Slide Scanner"},{href: "film-2-sd-negative-holder",label: "Film 2 SD Negative Holder",desc: "Film Negative Holders"},{href: "film-2-sd-plus",label: "Film 2 SD Plus",desc: "Ultra-High-Resolution Slide and Negative Scanner"},{href: "film-2-sd-slide-holder",label: "Film 2 SD Slide Holder",desc: "35mm Slide Holder"},{href: "film-2-sd-silver",label: "Film 2 SD [Silver]",desc: "35mm Film and Slide Scanner"},{href: "firestix-blue",label: "Firestix Blue",desc: "Blue Light-Up Drumsticks"},{href: "firestix-red",label: "Firestix Red",desc: "Red Light-Up Drumsticks"},{href: "wireless-speaker-system-for-iphone",label: "Free Sound",desc: "Wireless Speaker System for iPhone and iPod"},{href: "gopad",label: "Go Pad",desc: "Folding Computer Game Controller"},{href: "guitarlink",label: "GuitarLink",desc: "USB Guitar Cable"},{href: "icade",label: "iCade",desc: "Arcade Cabinet for iPad"},{href: "icadecore",label: "iCade Core",desc: "Arcade Game Controller for iPad "},{href: "icadejr",label: "iCade Jr.",desc: "Desktop Arcade Station for iPhone &amp; iPod touch"},{href: "icademobile",label: "iCade Mobile",desc: "Mobile Game Controller for iPhone &amp; iPod touch"},{href: "idj",label: "iDJ",desc: "iPod DJ Mixer"},{href: "iLP",label: "iLP",desc: "Digital Conversion Turntable for iPad, iPhone, and iPod touch"},{href: "pics2go",label: "iPics 2 Go",desc: "Photo, Slide and Negative Scanner for iPhone 4 &amp;  iPhone 4S"},{href: "iprofile",label: "iProfile",desc: "Digital Conversion Turntable for iPod"},{href: "its-a-vinyl-world-after-all-dvd",label: "It&#8217;s a Vinyl World After All",desc: "DVD"},{href: "job-rocker",label: "Job Rocker",desc: "Wireless Jobsite Sound System"},{href: "jukeboxdock",label: "Jukebox Dock",desc: "Retro Speaker Dock for iPad, iPhone and iPod"},{href: "karaokepro",label: "Karaoke Pro",desc: "Karaoke System for iPad, Android Devices &amp; More"},{href: "lp-2-cd",label: "LP 2 CD",desc: "Digital Conversion Turntable with Built-in CD Recorder"},{href: "lp-2-flash",label: "LP 2 Flash",desc: "Digital Conversion Turntable with Built-In SD &amp; USB Recording"},{href: "lp2go",label: "LP 2 Go",desc: "Ultra-Portable Digital Conversion Turntable"},{href: "lp-dock",label: "LP Dock",desc: "Digital Conversion Turntable for iPod"},{href: "miclink",label: "MicLink",desc: "USB Microphone Cable"},{href: "mobile-dj",label: "Mobile DJ",desc: "Portable DJ Speaker for iPod and iPhone"},{href: "iptusb-limited-edition",label: "Mobile LP &nbsp;   [iPTUSB Red]",desc: "Portable Digital Conversion Turntable"},{href: "ipt-usb",label: "Mobile LP &nbsp;   [iPTUSB White]",desc: "Portable Digital Conversion Turntable"},{href: "omni-scan",label: "Omni Scan",desc: "Standalone 35mm Slide &amp; Negative Scanner"},{href: "party-rocker",label: "Party Rocker",desc: "Wireless Speaker System with Built-in Light Show"},{href: "phone-station",label: "Phone Station",desc: "Desktop Speakerphone System for Mobile Phones"},{href: "phonestationplus",label: "Phone Station Plus",desc: "Speakerphone Station for Smartphones"},{href: "piano-apprentice",label: "Piano Apprentice",desc: "25-Key Piano Learning System for iPad, iPod, and iPhone"},{href: "piano-apprentice-plus-bundle",label: "PIANO APPRENTICE PLUS",desc: "PIANO APPRENTICE &amp; Numark PHX USB Headphones"},{href: "pics-2-pc",label: "Pics 2 PC",desc: "USB Picture, Slide, and Film Scanner"},{href: "pics-2-sd",label: "Pics 2 SD",desc: "Photo, Slide, and Film Scanner with SD Card"},{href: "planterspeaker",label: "Planter Speaker",desc: "Water-Resistant Wireless Speaker"},{href: "PT320360701",label: "Plastic Tonearm Clip",desc: "Fits TTUSB turntables"},{href: "power-play-lp",label: "Power Play LP",desc: "USB-Powered Digital Conversion Turntable"},{href: "pro-session-drums",label: "Pro Session Drums",desc: "Electronic Drum Set"},{href: "profile-flash",label: "Profile Flash",desc: "Digital Conversion Turntable with Built-In SD &amp; USB Recording "},{href: "profile-lp",label: "Profile LP",desc: "Digital Conversion Turntable"},{href: "profile-pro",label: "Profile Pro",desc: "Digital Conversion Turntable with Aux Input"},{href: "pure-lp1",label: "Pure LP",desc: "USB Conversion Turntable for Mac &amp; PC "},{href: "quick-play-flash",label: "Quick Play Flash",desc: "Digital Conversion Turntable with Built-In USB Recording"},{href: "quick-play-lp",label: "Quick Play LP",desc: "Digital Conversion Turntable with RCA Outputs"},{href: "record-2-pc",label: "Record 2 PC",desc: "Stereo RCA-to-USB Cable"},{href: "BE1704506B",label: "Replacement Belt",desc: "Fits the TTUSB05, TTUSB05XL, and Profile Series turntables"},{href: "ict04",label: "Replacement Cartridge with Stylus (iCT04)",desc: "Replacement Cartridge w/ Stylus"},{href: "TWMT320160501",label: "Replacement Counterweight",desc: "Fits the ION and Numark TTUSB turntables"},{href: "TWMT3601608",label: "Replacement Counterweight",desc: "Fits the ION TTUSB10 turntable"},{href: "replacement-drum-rocker-drum-cable",label: "REPLACEMENT DRUM ROCKER CABLE",desc: "Cable for DRUM ROCKER"},{href: "replacement-drum-rocker-cymbal-clamp",label: "REPLACEMENT DRUM ROCKER CYMBAL CLAMP",desc: "Clamp to Attach DRUM ROCKER Cymbals"},{href: "replacement-drum-rocker-cymbal-support-long",label: "REPLACEMENT DRUM ROCKER CYMBAL SUPPORT (Long)",desc: "Attach Cymbals to Any DRUM ROCKER"},{href: "replacement-drum-rocker-cymbal-support-short",label: "REPLACEMENT DRUM ROCKER CYMBAL SUPPORT (Short)",desc: "Attachment Post for DRUM ROCKER Cymbals"},{href: "replacement-drum-rocker-drum-clamp",label: "REPLACEMENT DRUM ROCKER DRUM CLAMP",desc: "Clamp for DRUM ROCKER Drums"},{href: "replacement-drum-rocker-felt-washer",label: "REPLACEMENT DRUM ROCKER FELT WASHER",desc: "Felt Washer for DRUM ROCKER Cymbals"},{href: "replacement-drum-rocker-thumb-screw",label: "REPLACEMENT DRUM ROCKER THUMB SCREW",desc: "Thumb Screw for the DRUM ROCKER Pedal"},{href: "replacement-drum-rocker-tube-clamp",label: "REPLACEMENT DRUM ROCKER TUBE CLAMP",desc: "Connecting Piece for DRUM ROCKER Tubes"},{href: "replacement-drum-rocker-wing-nut",label: "REPLACEMENT DRUM ROCKER WING NUT",desc: "Wing Nut for DRUM ROCKER Cymbals"},{href: "replacement-headshell-without-cartridge",label: "REPLACEMENT HEADSHELL (without cartridge)",desc: "Headshell for TTUSB and Other Turntables"},{href: "ict04rs",label: "Replacement iCT04RS Stylus (TTUSB and Profile Series)",desc: "Replacement Stylus"},{href: "ict05rs",label: "Replacement iCT05RS Styluses",desc: "Fits a variety of ION turntables"},{href: "ict06rs",label: "Replacement iCT06RS Cartridge with Stylus",desc: "Fits a variety of ION turntables "},{href: "CZ-800-10",label: "Replacement Stylus",desc: "Fits the iPT01, iPTUSB, iPTUSB LE, and Mobile LP turntables"},{href: "replacement-usb-cable",label: "REPLACEMENT USB CABLE",desc: "Cable for Connection of USB-Compatible Devices"},{href: "retro-rocker",label: "Retro Rocker",desc: "Jukebox Speaker Dock for iPad, iPhone and iPod"},{href: "roadrocker",label: "Road Rocker",desc: "Ultra-Compact Bluetooth Speaker System for iPad, iPhone and Android devices"},{href: "roomrocker",label: "Room Rocker",desc: "Bluetooth Speaker Dock for iPad, iPhone &amp; iPod"},{href: "slides-2-pc",label: "Slides 2 PC",desc: "35mm Slide &amp; Film Scanner"},{href: "slides-2-pc-accessory-pack",label: "Slides 2 PC Accessory Pack",desc: "Accessory Tray Pack for Slides 2 PC "},{href: "slides-2-pc-express",label: "Slides 2 PC Express",desc: "35mm Slide &amp; Negative Scanner"},{href: "slides2pcmkiii",label: "Slides 2 PC mkIII",desc: "35mm Slide &amp; Negative Scanner with Rapid Slide Feeder"},{href: "slides-2-pc-negative-holder",label: "Slides 2 PC Negative Holders",desc: "Replacement Film Negative Holders for Slides 2 PC"},{href: "sound-session-drums",label: "Sound Session Drums",desc: "Complete Electronic Drum Set"},{href: "sound-session-drums-mkii",label: "Sound Session Drums",desc: "Compact Electronic Drum Set"},{href: "sound-splash",label: "Sound Splash",desc: "Wireless Waterproof Speaker"},{href: "stereo-y-cable",label: "STEREO Y-CABLE",desc: "Cable for Splitting 1/8-inch (3.5mm) to RCA (6 ft.)"},{href: "studio-session-drums",label: "Studio Session Drums",desc: "USB Drumset with Video Game"},{href: "tailgater-am-fm",label: "Tailgater AM/FM",desc: "Compact Speaker System for iPhone and iPod"},{href: "tailgaterbluetooth",label: "Tailgater Bluetooth",desc: "Compact Speaker System with Wireless Technology"},{href: "tape-2-go2",label: "Tape 2 Go",desc: "Digital Conversion Cassette Player "},{href: "tape-2-pc",label: "Tape 2 PC",desc: "Cassette Conversion System"},{href: "tape-express-with-headphones",label: "Tape Express +",desc: "Portable Tape-to-MP3* Converter"},{href: "ttusb",label: "TTUSB",desc: "Digital Conversion Turntable"},{href: "ttusb-dc",label: "TTUSB DC",desc: "Digital Conversion Turntable     [with Dust Cover]"},{href: "ttusb05",label: "TTUSB05",desc: "Digital Conversion Turntable"},{href: "ttusb05xl",label: "TTUSB05XL",desc: "Digital Conversion Turntable"},{href: "ttusb10",label: "TTUSB10",desc: "Premium Digital Conversion Turntable"},{href: "turntable-belt",label: "Turntable Belt",desc: ""},{href: "turntable-slipmat",label: "Turntable Slipmat",desc: "Universal Replacement Slipmat"},{href: "typenslide",label: "Type N&#8217; Slide",desc: "Sliding Bluetooth Keyboard Case for iPhone 4 &amp; iPhone 4S"},{href: "u-cast",label: "U Cast",desc: "Podcasting Kit with USB Microphone"},{href: "u-record",label: "U Record",desc: "Instrument Audio Recorder for Computers"},{href: "vcr-2-pc",label: "VCR 2 PC",desc: "USB Video Conversion System"},{href: "vertical-vinyl",label: "Vertical Vinyl",desc: "Wall-Mounted Turntable"},{href: "video-2-go",label: "Video 2 Go",desc: "Digital Video Converter"},{href: "video-2-pc",label: "Video 2 PC",desc: "Digital Video Converter"},{href: "video-2-pc-mkii",label: "Video 2 PC MKII",desc: "Digital Video Converter"},{href: "vinylalive",label: "VINYL ALIVE",desc: "Record Cleaning Kit"},{href: "vinylforever",label: "Vinyl Forever",desc: "Turntable-to-Computer Interface"},{href: "waterrocker",label: "WATER ROCKER",desc: "Waterproof Floating Speaker System for iPhone &amp; iPod"},
+	
+	];
+
+	$( "#search" ).autocomplete({
+	      minLength: 0,
+	      source: products,
+	      focus: function( event, ui ) {
+	        $( "#search" ).val( ui.item.label );
+			// console.log('focus');
+	        return false;
+	      },
+	      select: function( event, ui ) {
+	        // $( "#select" ).val( ui.item.label );
+
+			// When selected we redirect to the product
+			window.location.href = '/products/details/'+ui.item.href;
+			// console.log(event);
+	        return false;
+	      }
+	    })
+	    .data( "ui-autocomplete" )._renderItem = function( ul, item ) {
+	      return $( "<li>" )
+	        .append( "<a href='/products/details/" + item.href + "' class='" + item.href + "'>" + item.label + "</a>" + "<p>" + item.desc + "</p>" )
+	        .appendTo( ul );
+	    };
+
+});
+
+// =====================
+// = END Auto Complete =
+// =====================
+
+// -------------------------
+//   Track Outbound Links  
+// -------------------------
+
+function trackOutboundLink(link, category, action, label) { 
+ 
+try { 
+_gaq.push(['_trackEvent', category , action, label]); 
+} catch(err){}
+ 
+setTimeout(function() {
+document.location.href = link.href;
+}, 100);
+}
+
+// ------------------------------
+//   END Outbound link tracking  
+// ------------------------------
+
+</script>
 <link rel="stylesheet" href="/themes/site_themes/ionaudio/css/main.css">
+<link rel="stylesheet" href="http://ionaudio.com/themes/site_themes/global/css/jquery-ui-1.10.1.custom.css" type="text/css" media="screen" title="no title" charset="utf-8">
+
 
 <style>
 #content {
@@ -75,24 +140,36 @@ width: 780px;
 }
 #content ul{
 line-height: 1.5em;
-list-style-type: disc;
+list-style-type: none;
 margin-left: 20px;
 }
 </style>
 </head>
 <body>
 <section class="container">
-<header id="masthead">
-<h1><a href="/"><img src="/themes/site_themes/ionaudio/images/logo.png" alt="ION Audio"></a></h1>
+<header id="mastheadNew">
+<h1><a href="/"><img src="/themes/site_themes/ionaudio/images/ion_logo.png" alt="ION Audio"></a></h1>
 
 
+<img class="slug" src="/images/Shipping_Slug_red.png" style="position: relative; top: 20px; left: 225px;">
 
 
 <form method="post" action="/search/results">
 
-<div id="search"><input type="text" placeholder="Search..." name="keywords" id="search"><input type="submit" id="submit" value=""> </div>
+
+<div id="searchbox" class="ui-widget">
+	<input type="text" id="search" placeholder="Search..." name="keywords">
+	<input type="submit" id="submit" value="">
+</div>
 
 </form> 
+
+<div id="social-icons">
+<a href="http://www.facebook.com/IONaudio" target="_blank"><img src="/images/facebook.png"></a>
+<a href="http://www.twitter.com/IONaudio" target="_blank"><img src="/images/twitter.png"></a>
+<a href="http://www.youtube.com/IONaudio" target="_blank"><img src="/images/youtube.png"></a>
+</div>
+
 
 <br class="clear">
 
@@ -106,12 +183,11 @@ margin-left: 20px;
 
 <nav>
 
-<img src="/themes/site_themes/ionaudio/images/navigation/nav_bar_left.jpg" class="left">
-
+<!--<img src="/themes/site_themes/ionaudio/images/navigation/nav_bar_left.jpg" class="left">-->
 
 <ul class="left">
 
-<li id="productdropdown-toggle"><a href="/products"><img src="/themes/site_themes/ionaudio/images/navigation/nav_product_off.jpg" alt=""></a>
+<li id="productdropdown-toggle"><a href="/products">Products</a>
 <div id="productdropdown">
 <ul class="series">
 	<li><a href="/products/audio-conversion">Audio Conversion</a></li>
@@ -151,8 +227,6 @@ margin-left: 20px;
 	
 	
 			<ul class="sub closed">
-				<li><a href="/products/gaming/console-gaming">Console Gaming</a></li>
-				<li><a href="/products/gaming/console-gaming-accessories">Console Gaming Accessories</a></li>
 				<li><a href="/products/gaming/mobile-device-gaming">Mobile Device Gaming</a></li>
 			</ul>
 		
@@ -168,6 +242,19 @@ margin-left: 20px;
 			<ul class="sub closed">
 				<li><a href="/products/portable-audio/audio-players">Audio Players</a></li>
 				<li><a href="/products/portable-audio/speakers">Speakers</a></li>
+			</ul>
+		
+</ul>
+
+<ul class="series">
+	<li><a href="/products/bluetooth-audio">Bluetooth Audio</a></li>
+	
+	
+	
+	
+	
+			<ul class="sub closed">
+				<li><a href="/products/bluetooth-audio/speakers">Speakers</a></li>
 			</ul>
 		
 </ul>
@@ -224,37 +311,43 @@ margin-left: 20px;
 		
 </ul>
 
+<ul class="series">
+	<li><a href="http://www.inmusicbrands.com/wnamm2013/ionaudio" target="_blank">New Products Overview</a></li>		
+</ul>
 </div>
+
 </li>
 
-<li class="dropdown-toggle"><a href="/support"><img src="/themes/site_themes/ionaudio/images/navigation/nav_support_off.jpg" alt=""></a>
+<li class="dropdown-toggle"><a href="/support">Support</a>
 <ul class="dropdown">
 <li><a href="/support">Get Support</a></li>
 <li><a href="https://www.inmusicsales.com/store?page=shop.browse&amp;category_id=10">Replacement Parts</a></li>
 <li><a href="/support/downloads">Documents &amp; Downloads</a></li>
 <li><a href="/my-account/product-registration">Register a Product</a></li>
 <li><a href="http://community.ionaudio.com/">Community</a></li>
+<li><a href="/products/legacy">Legacy</a></li>
 </ul>
 </li>
-<li class="dropdown-toggle"><a href="/news"><img src="/themes/site_themes/ionaudio/images/navigation/nav_news_off.jpg" alt=""></a>
+<li class="dropdown-toggle"><a href="/news">News</a>
 <ul class="dropdown">
 <li><a href="/news">Press Releases</a></li>
 <li><a href="/news/product-reviews">Product Reviews</a></li>
-<li><a href="/newsletter">Newsletter Subscription</a></li></ul>
+<li><a href="/newsletter">Newsletter Subscription</a></li>
+<li><a href="http://www.inmusicbrands.com/wnamm2013/ionaudio" target="_blank">New Products Overview</a></li></ul>
 </li>
-<li class="dropdown-toggle"><a href="/company"><img src="/themes/site_themes/ionaudio/images/navigation/nav_company_off.jpg" alt=""></a>
+<li class="dropdown-toggle"><a href="/company">Company</a>
 <ul class="dropdown">
 <li><a href="/company">About Us</a></li>
 <li><a href="/company/media">Media Resources</a></li>
-<li><a href="/company/careers">Careers</a></li>
+<li><a href="http://www.inmusicbrands.com/careers" target="_blank">Careers</a></li>
 <li><a href="/contact">Contact Us</a></li>
 </ul>
 </li>
-<li><a href="/where-to-buy"><img src="/themes/site_themes/ionaudio/images/navigation/nav_where_to_buy_off.jpg" alt=""></a></li>
-<li><a href="/store"><img src="/themes/site_themes/ionaudio/images/navigation/nav_store_off.jpg" alt=""></a>
+<li><a href="/where-to-buy">Where to Buy</a></li>
+<li><a href="/store">Store</a>
 
 </li>
-<li class="dropdown-toggle"><a href="/my-account"><img src="/themes/site_themes/ionaudio/images/navigation/nav_my_account_off.jpg" alt=""></a>
+<li class="dropdown-toggle"><a href="/my-account">My Account</a>
 
 </li>
 </ul>
@@ -285,106 +378,89 @@ margin-left: 20px;
 
 			<h1>Privacy Policy Statement</h1>
 			<hr>
-			<p><em>Last Updated: 5 July 2012</em></p>
+			<p><em>Last Updated: 5 February 2013</em></p>
 			
-			<p>InMusic has created this Privacy Policy Statement in order to inform you of our commitment to privacy and to describe our policies for the collection, use, and disclosure of personal information that may be collected by InMusic when you visit our websites. </p>
+			<p>inMusic Brands, Inc. (“inMusic”) has created this Privacy Policy Statement in order to inform you of our commitment to privacy and to describe our policies for the collection, use, and disclosure of personal information that may be collected by InMusic when you use our products or visit our websites. </p>
 			
-			<p>PLEASE REVIEW THIS PRIVACY POLICY BEFORE USING THIS OR ANY OTHER INMUSIC WEBSITES (inMusicbrands.com, akaipro.com, akaiprompc.com, mixmeister.com, numark.com, ionaudio.com, alesis.com, altoprofessional.com, m-audio.com). IF YOU DO NOT AGREE WITH OUR PRIVACY POLICY, DO NOT USE OUR SITES. WHERE APPLICABLE, BY SUBMITTING ANY PERSONAL INFORMATION TO OUR SITES, YOU AGREE TO BE BOUND BY THE TERMS OF THIS PRIVACY POLICY STATEMENT.</p>
+			<p>PLEASE REVIEW THIS PRIVACY POLICY BEFORE USING THIS OR ANY OTHER ION AUDIO PRODUCT. IF YOU DO NOT AGREE WITH OUR PRIVACY POLICY, DO NOT USE OUR PRODUCTS. WHERE APPLICABLE, BY SUBMITTING ANY PERSONAL INFORMATION TO US, YOU AGREE TO BE BOUND BY THE TERMS OF THIS PRIVACY POLICY STATEMENT.</p>
 			
 			<h2>GENERAL INFORMATION</h2>
 			
-			<h2>IP Addresses and Cookies</h2>
+			<p>Generally speaking, you may use our products while remaining anonymous and not revealing any personal information. From time to time, a hardware product of ours may communicate with one or more software applications on your computer or mobile device for the purpose of providing its stated functionality to you; e.g. an image scanner sends scanned photographs to your photo library, or a record player digitizes the audio on an LP and sends it to an application on your computer or mobile device for editing and archiving. However, at no time do our products transmit any personally identifying information to the computer or mobile device.</p>
 			
-			<p>Generally speaking, you may visit our sites while remaining anonymous and not revealing any personal information.</p>
+			<h2>Submission and Use of Personal Information</h2>
 			
-			<p>Our websites automatically log your IP address and domain name, and non-personal information such as the type of web browser you use, to help us administer the sites and to compile statistics such as the number of visitors.</p>
-			
-			<p>Our websites use cookies to identify you over multiple visits to the site, for example to remember your country and provide country-specific content. Cookies are optional, and you can block or delete them. However, some parts of our websites will not work without cookies.</p>
-			
-			<p>It is not possible for a cookie stored by us to be read by any other company's website, nor can a cookie read information from your computer that you have not already provided to us.</p>
-			
-			
-			<h2>Submission of Personal Information</h2>
-			
-			<p>Certain portions of our sites may require that you submit some personal information, such as your name and email address, before using those portions of the site. At minimum, you are typically required to register with our sites and provide your name or email address before using any of the members only areas of our sites. For some services, such as forums, customer support features, registering products, for events or contests, downloading software or uploading content, you may have to create an account and submit additional personal information such as your mailing address.</p>
-			
-			<h2>Use of Personal Information</h2>
-			
-			<p>InMusic uses information it collects to provide the services and information you select, to better understand its customers, to provide better products and services, and to assist with site administration, such as with troubleshooting any problems, detecting fraud, resolving disputes, and for any purposes deemed necessary or required by InMusic to enforce the Terms of Use and other terms or conditions applicable to any portion of our sites.</p>
-			
-			<p>We may also use this information to send you information about InMusic, our products and brands, services, or other topics InMusic thinks may be of interest to you, such as brand, product and service information or updates. As part of its business, InMusic works with authorized partners, such as authorized distributors, to provide you with the services and information. As part of those activities, InMusic may share your information with those authorized entities so that they can directly provide the information or services to you.</p>
-			
-			<h2>Aggregation and Use of Anonymous Data</h2>
-			
-			<p>InMusic aggregates information provided by you to create anonymous statistical and demographic data. This anonymous data helps InMusic to understand and know its customer base better. That anonymous data may be provided to third parties but never in such a fashion as to identify you personally.</p>
-			
-			<h2>Third Parties</h2>
-			
-			<p>InMusic does not sell to third parties information you have submitted to our sites that identifies you personally.</p>
-			
-			<p>On occasion, InMusic may offer in conjunction with third parties certain products or services that may require you to share your personal information with that third party as a condition for receiving that service. While InMusic will treat any information it receives in accordance with this Privacy Policy Statement, InMusic will not be responsible for the information submitted by you to that third party, and we remind you to review the applicable rules and any third party's applicable privacy policies separately before participating in such service.</p>
-			
-			<h2>Public Forums for User Materials</h2>
-			
-			<p>Certain portions of our sites are designed to offer you the opportunity to post information on our sites, including but not limited to information about yourself ("User Materials"). You should always remember that publicly displayed information is public. For example, you may be permitted to post your resume information, a video you have created, or to post messages in any chat rooms, message boards, mailing lists, and/or news groups our sites make available to its users. If you use a forum, bulletin board or chat room on an InMusic website you should be aware that any information you share is visible to other users. Personally identifiable information you submit to one of these forums can be read, collected, or used by other individuals to send you unsolicited messages. InMusic is not responsible for the personally identifiable information you choose to submit in these forums.</p>
+			<p>In order to register your product and be eligible for warranty service and support, we may require that you submit some personal information to us for the purposes of identifying you and details about your product if you contact our service and support department.</p>
 
+			<p>In addition to the usage of your submitted personal information for providing service and support, inMusic uses information it collects to provide the services and information you select, to better understand its customers, to provide better products and services, and (in the case of submission online) to assist with site administration, such as with troubleshooting any problems, detecting fraud, resolving disputes, and for any purposes deemed necessary or required by inMusic to enforce the Terms of Use and other terms or conditions applicable to any portion of our websites.</p>
+
+			<p>We may also use this information to send you information about inMusic, our products and brands, services, or other topics inMusic thinks may be of interest to you, such as brand, product and service information or updates.</p>
+
+			<p>We do not share any personal information collected from our customers with any non-affiliated third parties (except as outlined in the “Law Enforcement” section below), nor do we sell any personal information collected from our customers for any purpose whatsoever.</p>
+			
 			<h2>Law Enforcement</h2>
 			
-			<p>As noted in the Terms of Use InMusic intends to cooperate with any order or request from law enforcement officials or a court of competent jurisdiction for information as to the identity of individuals submitting or posting information to InMusic or on this site. Such orders or requests supersede the terms of this Privacy Policy. Similarly, notifications of claimed copyright infringement, counter notifications or other information submitted to and necessary to process a notification under our Copyright Complaint Policy are also exempt from this Privacy Policy.</p>
+			<p>As noted in the Terms of Use, inMusic intends to cooperate with any order or request from law enforcement officials or a court of competent jurisdiction for information as to the identity of individuals submitting or posting information to inMusic or on our websites. Such orders or requests supersede the terms of this Privacy Policy. Similarly, notifications of claimed copyright infringement, counter notifications or other information submitted to and necessary to process a notification under our Copyright Complaint Policy are also exempt from this Privacy Policy.</p>
 			
-			<h2>InMusic Links to Other Sites and Advertising</h2>
+			<h2>inMusic Links to Other Sites and Advertising</h2>
 			
-			<p>Our sites may display advertisements and/or links to third parties. InMusic is not responsible for the privacy practices or the content of those websites. Please refer to that company's privacy policy for further information.</p>
+			<p>Our websites may display advertisements and/or links to third parties. inMusic is not responsible for the privacy practices or the content of those websites. Please refer to the privacy policies of the respective third parties for further information.</p>
 			
 			<h2>Surveys</h2>
 			
-			<p>From time to time, InMusic may make online surveys available to users of our sites. Participation in those surveys is voluntary. Some online surveys may ask participants for personal information, such as an email address, in addition to requesting answers to survey questions. InMusic may use that personal information to contact the participant if necessary, or as otherwise described above. InMusic may make the results of any survey publicly available, although InMusic will not attribute any particular response to you without your permission.</p>
+			<p>From time to time, inMusic may make online surveys available to users of our websites. Participation in those surveys is voluntary. Some online surveys may ask participants for personal information, such as an email address, in addition to requesting answers to survey questions. inMusic may use that personal information to contact the participant if necessary, or as otherwise described above. inMusic may make the results of any survey publicly available, although inMusic will not attribute any particular response to you without your permission.</p>
 			
 			<h2>Contests</h2>
 			
-			<p>On occasion, InMusic may make available to users of our sites, contests, sweepstakes, or similar events in which they may qualify for participation. Participation is always voluntary and subject to the applicable rules. The rules may ask participants to provide personal information as a condition of participation. InMusic may also make the winner's names public, as provided in the applicable rules, or as required by law. InMusic may also use that information as described above. In some instances, the applicable rules may contain additional or different uses for the information you provide; please be sure to review those rules carefully before entering.</p>
-			
-			<p>InMusic may permit a third party to sponsor a survey, contest, sweepstakes, or other similar event ("third party event") with InMusic, such as through posting it on our sites. Such third party events are governed solely by any applicable rules, and may require you to provide information to that third party as a condition for participation. While InMusic will treat any information it receives in accordance with this Privacy Policy, InMusic is not responsible for the information gathered by that third party, and InMusic reminds you to review the rules and privacy policies separately applicable to those third party events.</p>
-			
+			<p>On occasion inMusic may make available contests, sweepstakes, or similar events to visitors to our websites in which they may qualify for participation. Participation is always voluntary and subject to the applicable rules. The rules may ask participants to provide personal information as a condition of participation. inMusic may also make the winner's names public, as provided in the applicable rules, or as required by law. inMusic may also use that information as described above. In some instances, the applicable rules may contain additional or different uses for the information you provide; please be sure to review those rules carefully before entering.</p>
+
+			<p>inMusic may permit a third party to sponsor a survey, contest, sweepstakes, or other similar event ("third party event") with inMusic, such as through posting it on our websites. Such third party events are governed solely by any applicable rules, and may require you to provide information to that third party as a condition for participation. While inMusic will treat any information it receives in accordance with this Privacy Policy, inMusic is not responsible for the information gathered by that third party, and inMusic reminds you to review the rules and privacy policies separately applicable to those third party events.</p>
+
 			<h2>CHILDREN</h2>
 			
-			<p>While not intended for nor target to children, some of InMusic's websites may appeal to children under the age of 18; however, we do not wish nor intended to receive data from children. We encourage parents and guardians to spend time online with their children and to participate in the interactive activities offered on the sites their children visit. No information should be submitted to, or posted at, InMusic websites by visitors under 18 years of age without the consent of their parent or guardian. </p>
+			<p>While not intended for nor target to children, some of inMusic’s websites may appeal to children under the age of 18; however, we do not wish nor intended to receive data from children. We encourage parents and guardians to spend time online with their children and to participate in the interactive activities offered on the sites their children visit. No information should be submitted to, or posted at, inMusic websites by visitors under 18 years of age without the consent of their parent or guardian.</p>
 			
 			<h2>SECURITY</h2>
-			
+		
 			<h2>General Issues</h2>
 			
-			<p>Generally speaking, our sites have security measures in place to protect against the loss, misuse and alteration of the information under our control. Since our sites under general usage do not collect financial information, InMusic uses the standard internet connections for those general usage portions of the site, without secured sockets.</p>
+			<p>Generally speaking, our websites have security measures in place to protect against the loss, misuse and alteration of the information under our control. Since our sites under general usage does not collect financial information, inMusic uses the standard internet connections for those general usage portions of the site, without secured sockets.</p>
 			
 			<h2>Specific Services</h2>
 			
 			<p>inMusic websites may provide certain additional, optional services that may use additional security measures to protect the information, such as financial information, provided by you to obtain the service. Those additional security measures may vary, depending upon the particular service offered. You will be informed of any specific security measures at the time you register for a particular service. Please review that information where applicable for further detail.</p>
 			
 			<h2>Site Registration</h2>
-			
-			<p>In some cases, you may be prompted to register with our sites to undertake a particular site activity or obtain a particular service. As part of that registration, you may be asked to choose your own password. InMusic reminds you to protect your password, and not provide it to others to use. Allowing others to access and use your account and password can compromise the security of your information. InMusic disclaims any responsibility or obligation for your decision to provide your password to others.</p>
+
+			<p>In some cases, you may be prompted to register with our sites to undertake a particular site activity or obtain a particular service. As part of that registration, you may be asked to choose your own password. inMusic reminds you to protect your password, and not provide it to others to use. Allowing others to access and use your account and password can compromise the security of your information. inMusic disclaims any responsibility or obligation for your decision to provide your password to others.</p>
 			
 			<h2>CHANGES TO THIS POLICY</h2>
 			
-			<p>If and when InMusic makes changes to this site, InMusic may have to update this Privacy Policy Statement to better reflect those changes. Because changes to our sites or updates to this Privacy Policy Statement may occur, you should review this Privacy Policy Statement from time to time. Remember, your decision to continue using our sites after this Privacy Policy Statement is updated will signify that you have agreed to any new terms.</p>
+			<p>If and when inMusic makes changes to its websites and policies, inMusic may have to update this Privacy Policy Statement to better reflect those changes. Because changes to our sites or updates to this Privacy Policy Statement may occur, you should review this Privacy Policy Statement from time to time, which can be found at http://www.inmusicbrands.com/privacy. Remember, your decision to continue using our products or websites after this Privacy Policy Statement is updated will signify that you have agreed to any new terms.</p>
 			
 			<h2>ACCEPT/DECLINE</h2>
 			
-			<p>Typically you accept to receive communications when you submit information to our sites. If you wish to remove your information from our site's registration database and no longer receive future communications or use any services, you may do so through any of the methods described below. Please note that it may take us a reasonable amount of time to process your request.</p>
-			
-			<p>Email our sites respective web master with your intention to be removed.</p>
-			<p>A particular service may have an Administration section that allows you to change any previous selections for that service.</p>
-			<p>Email our customer support team with your intention to be removed.</p>
-			
+			<p>Typically you accept to receive communications when you submit information to our websites. If you wish to remove your information from our website’s registration database and no longer receive future communications or use any services, you may do so through any of the methods described below. Please note that it may take us a reasonable amount of time to process your request.</p>
+
+			<ol>
+				<ul>
+					<li>1.  Email our websites’ respective web master with your intention to be removed.</li>
+					<li>2.	A particular service may have an Administration section that allows you to change any previous selections for that service.</li>
+					<li>3.	Email our customer support team with your intention to be removed. </li>
+				</ul>
+			</ol>
+
+			<br>
 			
 			<h2>CONTACTING THE WEB SITE</h2>
 			
-			<p>If you have any questions about this privacy statement, the practices of this site, or your dealings with this site, you can contact your respective website's web master at the following address and email:</p>
-			
+			<p>If you have any questions about this privacy statement, or our practices in collecting user data online, you can contact the respective website’s web master at the following address and email:</p>
+
 			<h2>WEB MASTER</h2>
 			
 			<address>
-				InMusic<br>
+				<a href="mailto:Webmaster@inmusicbrands.com">Webmaster@inmusicbrands.com</a><br>
+				inMusic Brands<br>
 				200 Scenic View Dr.<br>
 				Cumberland, RI 02864<br>
 				U.S.A
@@ -392,7 +468,7 @@ margin-left: 20px;
 			
 			<h2>NOTICE TO EUROPEAN USERS</h2>
 			
-			<p>Please note that the information you enter on our sites or otherwise provide to InMusic Brands, or its subsidiaries or divisions, may be transferred outside of the European Economic Area, for purposes of processing, by InMusic a company located in Cumberland RI, U.S.A., or its subsidiaries or InMusic's subsidiaries or divisions, or authorized partners, located worldwide, in order to provide this site and its services to you. You are advised that the United States uses a sectoral model of privacy protection that relies on a mix of legislation, governmental regulation, and self-regulation. You are further advised that the Council of the European Union has found that this model does not provide "adequate" privacy protections as contemplated by Article 25 of the European Union's Data Directive. (Directive 95/46/EC, 1995 O.J. (L 281) 31)</p>
+			<p>Please note that the information you enter on our sites or otherwise provide to inMusic Brands, or its subsidiaries or divisions, may be transferred outside of the European Economic Area, for purposes of processing, by inMusic Brands, Inc., a company located in Cumberland RI, U.S.A., or its subsidiaries, or inMusic's subsidiaries or divisions, or authorized partners, located worldwide, in order to provide this site and its services to you. You are advised that the United States uses a sectoral model of privacy protection that relies on a mix of legislation, governmental regulation, and self-regulation. You are further advised that the Council of the European Union has found that this model does not provide "adequate" privacy protections as contemplated by Article 25 of the European Union's Data Directive. (Directive 95/46/EC, 1995 O.J. (L 281) 31)</p>
 			
 			<p>Article 26 of the European Union's Data Directive allows for transfer of personal data from the European Union to a third country if the individual has unambiguously given his consent to the transfer of personal information, regardless of the third country's level of protection.</p>
 			
@@ -407,6 +483,10 @@ margin-left: 20px;
   <div>
 <ul class="left doublecol" id="footer-col-1">
 
+<li><a href="/products/bluetooth-audio/#">Bluetooth Audio</a></li>
+
+<li><a href="/products/legacy/#">Legacy</a></li>
+
 <li><a href="/products/turntables/#">Turntables</a></li>
 
 <li><a href="/products/speakers/#">Speakers</a></li>
@@ -419,9 +499,9 @@ margin-left: 20px;
 
 <li><a href="/products/portable-audio/#">Portable Audio</a></li>
 
-<li><a href="/products/gaming/#">Gaming</a></li>
-
 <li><a href="/products/accessories/#">Accessories</a></li>
+
+<li><a href="/products/gaming/#">Gaming</a></li>
 
 <li><a href="/products/audio-conversion/#">Audio Conversion</a></li>
 
@@ -450,7 +530,7 @@ margin-left: 20px;
 	<a href="/ezvc/#"><img src="/images/slugs/bottom_slug.png" class="left" width="270"></a>
   <br class="clear">
   </div>
-<p class="hmargin">COPYRIGHT © <!--?php echo date('Y'); ?--> inMusic Brands, Inc. US . <a href="/support/#">Technical Support &amp; Warranty Service</a> - Sales: 888-800-0681 </p>
+<p>COPYRIGHT © <!--?php echo date('Y'); ?--> inMusic Brands, Inc. US . <a href="/support/#">Technical Support &amp; Warranty Service</a> - Sales: 888-800-0681 </p>
 </footer>
 
 </section>
