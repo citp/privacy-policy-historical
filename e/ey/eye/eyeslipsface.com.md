@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eyeslipsface.com privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204021403id_/http%3A//www.eyeslipsface.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eyeslipsface.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531054957id_/http%3A//www.eyeslipsface.com/privacy_policy) for the most accurate reproduction.*
 
 # Makeup and Cosmetics | elf Cosmetics | EyesLipsFace.com | Privacy Policy
 
